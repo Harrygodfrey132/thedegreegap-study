@@ -1,0 +1,20 @@
+baseURL = "https://study.thedegreegap.com/"
+languageCode = "en-gb"
+title = "Personal Statement Tutor | The Degree Gap"
+
+[params]
+  formspreeEndpoint = "https://formspree.io/f/mvgonabg"
+  phone = "+447859965776"
+  email = "admin@thedegreegap.com"
+  mainSiteURL = "https://thedegreegap.com"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[sitemap]
+  changeFreq = "weekly"
+  priority = 0.5
+
+[permalinks]
+  personal-statement-tutor = "/personal-statement-tutor/:contentbasename/"
+  personal-statements = "/personal-statements/:contentbasename/"

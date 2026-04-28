@@ -1,0 +1,48 @@
+{{ define "main" }}
+<div class="page-header">
+  <div class="container">
+    <h1>{{ .Title }}</h1>
+    <p class="page-lead">{{ .Description }}</p>
+  </div>
+</div>
+
+<section class="section hub-intro">
+  <div class="container">
+    {{ .Content }}
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="container">
+    <div class="oxbridge-cards" style="margin-bottom:40px;">
+      <a href="/personal-statements/oxford/" class="oxbridge-card">
+        <h3>Oxford Personal Statement →</h3>
+        <p>Specialist guidance for Oxford applicants: what academic tutors look for, admissions tests, and how your statement feeds the interview.</p>
+      </a>
+      <a href="/personal-statements/cambridge/" class="oxbridge-card">
+        <h3>Cambridge Personal Statement →</h3>
+        <p>Everything specific to Cambridge: the supervision culture, STEP and other tests, and the pool system explained.</p>
+      </a>
+    </div>
+
+    <div class="section-title">
+      <h2>Choose your subject</h2>
+      <p>Select your subject for tailored personal statement advice and tutoring.</p>
+    </div>
+    <div class="subjects-grid">
+      {{ range .Pages.ByTitle }}
+      <a href="{{ .RelPermalink }}" class="subject-card">
+        {{ .Title }}
+        <span class="arrow">→</span>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+<div class="container">
+  {{ partial "video-cta.html" . }}
+</div>
+
+{{ partial "formspree.html" . }}
+{{ end }}

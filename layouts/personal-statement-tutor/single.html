@@ -1,0 +1,58 @@
+{{ define "main" }}
+<div class="page-header">
+  <div class="container">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.admissions_tests }}
+    <div class="test-pills" style="margin-top:20px;">
+      {{ range . }}
+      <span class="test-pill">
+        <span class="test-pill-name">{{ .name }}</span>
+        {{ with .note }}<span class="test-pill-desc">: {{ . }}</span>{{ end }}
+      </span>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+</div>
+
+<div class="container">
+  <div class="page-body">
+    <article class="page-content">
+      {{ .Content }}
+      {{ partial "video-cta.html" . }}
+      {{ partial "degree-gap-process.html" . }}
+      {{ partial "subject-faq.html" . }}
+    </article>
+    <aside class="page-sidebar">
+      <div class="sidebar-cta">
+        <h3>Get expert help</h3>
+        <p>Work one-to-one with a tutor who knows how to make a {{ .Params.subject | default "university" }} application sharper, more specific, and easier to trust.</p>
+        <a href="#get-help" class="btn">Enquire now</a>
+      </div>
+      {{ with .Params.related_pages }}
+      <div class="sidebar-related">
+        <h4>Related pages</h4>
+        <ul>
+          {{ range . }}
+          <li><a href="{{ .url }}">{{ .title }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+      <div class="sidebar-related">
+        <h4>Other subjects</h4>
+        <ul>
+          {{ range first 8 (where .Site.Pages "Section" "personal-statement-tutor") }}
+          {{ if ne .Title $.Title }}
+          <li><a href="{{ .RelPermalink }}">{{ .Params.subject | default .Title }}</a></li>
+          {{ end }}
+          {{ end }}
+        </ul>
+        <a href="/personal-statement-tutor/" class="sidebar-view-all">View all subjects →</a>
+      </div>
+    </aside>
+  </div>
+</div>
+
+{{ partial "formspree.html" . }}
+{{ end }}

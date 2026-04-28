@@ -1,0 +1,41 @@
+{{ define "main" }}
+<div class="page-header">
+  <div class="container">
+    <h1>{{ .Title }}</h1>
+    <p class="page-lead">{{ .Description }}</p>
+  </div>
+</div>
+
+<div class="container">
+  <div class="page-body">
+    <article class="page-content">
+      {{ .Content }}
+      {{ partial "video-cta.html" . }}
+      {{ partial "degree-gap-process.html" . }}
+    </article>
+    <aside class="page-sidebar">
+      <div class="sidebar-cta">
+        <h3>Get expert help</h3>
+        <p>Work one-to-one with a tutor who has first-hand experience of {{ .Params.university | default "Oxbridge" }} applications.</p>
+        <a href="#get-help" class="btn">Enquire now</a>
+      </div>
+      <div class="sidebar-related" style="margin-top:16px;">
+        <h4>Also useful</h4>
+        <ul>
+          <li><a href="/personal-statement-tutor/">All subject pages</a></li>
+          {{ if hasPrefix .RelPermalink "/personal-statements/oxford" }}
+          <li><a href="/personal-statements/cambridge/">Cambridge guide</a></li>
+          {{ else }}
+          <li><a href="/personal-statements/oxford/">Oxford guide</a></li>
+          {{ end }}
+          <li><a href="/personal-statement-tutor/medicine/">Medicine personal statement</a></li>
+          <li><a href="/personal-statement-tutor/law/">Law personal statement</a></li>
+          <li><a href="/personal-statement-tutor/economics/">Economics personal statement</a></li>
+        </ul>
+      </div>
+    </aside>
+  </div>
+</div>
+
+{{ partial "formspree.html" . }}
+{{ end }}

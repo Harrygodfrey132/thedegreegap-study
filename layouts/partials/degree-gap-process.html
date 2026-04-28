@@ -1,0 +1,48 @@
+{{ $subject := .Params.subject | default "" }}
+{{ $university := .Params.university | default "" }}
+{{ $isOxbridge := or (eq $university "Oxford") (eq $university "Cambridge") }}
+{{ $focus := cond $isOxbridge $university (or $subject "your chosen subject") }}
+
+<section class="process-section" aria-labelledby="degree-gap-process-title">
+  <div class="process-kicker">How The Degree Gap supports you</div>
+  {{ if $isOxbridge }}
+  <h2 id="degree-gap-process-title">A structured {{ $university }} application process, not just a quick statement edit</h2>
+  <p class="process-intro">For {{ $university }}, the personal statement has to work alongside the wider application: course choice, college strategy, admissions tests, written work, interviews, and the academic story you are trying to tell. Our process is designed to make those pieces feel coherent.</p>
+  {{ else }}
+  <h2 id="degree-gap-process-title">Our personal statement process for {{ $focus }}</h2>
+  <p class="process-intro">We do not begin by forcing a polished draft out of you. We begin by finding the academic material that will make the statement worth reading: your genuine interests, your supercurricular evidence, and the ideas that can become a stronger argument.</p>
+  {{ end }}
+
+  <div class="process-steps">
+    <div class="process-step">
+      <span class="process-step__number">1</span>
+      <h3>Research and academic direction</h3>
+      {{ if $isOxbridge }}
+      <p>We start with a consultation to understand your {{ $university }} course, college thinking, subject interests, admissions timeline, and any tests or written work. From there, we help you build a stronger academic base: books, lectures, articles, podcasts, YouTube explainers, competitions, or subject-specific tasks that actually fit the course.</p>
+      {{ else }}
+      <p>We start with a consultation to understand your interests, extracurriculars, and supercurriculars. Then we help you branch out from that core interest into stronger academic evidence: books, lectures, articles, podcasts, YouTube explainers, projects, competitions, or other subject-specific research.</p>
+      {{ end }}
+    </div>
+
+    <div class="process-step">
+      <span class="process-step__number">2</span>
+      <h3>Opinion, reflection, and story</h3>
+      <p>We then collate the best material and ask what you actually think. Do you agree with the author? Did the lecture change your view? What did you find surprising, limited, or unresolved? We do not want a Wikipedia entry. We want the statement to sound like a thoughtful student developing a real academic story.</p>
+    </div>
+
+    <div class="process-step">
+      <span class="process-step__number">3</span>
+      <h3>Drafting, editing, and tutor support</h3>
+      {{ if $isOxbridge }}
+      <p>You write the first draft, and we edit it closely for structure, academic depth, interview risk, and course fit. Where needed, Harry Godfrey or another senior member of the team helps build a package around you: personal statement tutoring, admissions-test planning, written-work choices, and interview preparation.</p>
+      {{ else }}
+      <p>You write the first draft, because the statement has to be yours. We then edit it closely: structure, phrasing, evidence, paragraph order, and whether the subject argument is strong enough. When you reach out, we will usually begin with a consultation call with Harry Godfrey, one of the founders, or another senior member of the team so we can build the right support package for you and match you with the right tutor.</p>
+      {{ end }}
+    </div>
+  </div>
+
+  <div class="process-proof">
+    <strong>Trusted by students and parents.</strong>
+    The Degree Gap has more than 100 five-star reviews on our Google Business Profile, reflecting the support we provide across personal statements, top-university applications, and subject-specific tutoring.
+  </div>
+</section>

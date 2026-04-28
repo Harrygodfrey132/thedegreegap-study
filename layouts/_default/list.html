@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div class="page-header">
+  <div class="container">
+    <h1>{{ .Title }}</h1>
+  </div>
+</div>
+<div class="container">
+  <div style="padding:48px 0;">
+    {{ .Content }}
+    <div class="subjects-grid" style="margin-top:32px;">
+      {{ range .Pages.ByTitle }}
+      <a href="{{ .RelPermalink }}" class="subject-card">{{ .Title }}<span class="arrow">→</span></a>
+      {{ end }}
+    </div>
+    {{ if eq .Section "personal-statements" }}
+    {{ partial "video-cta.html" . }}
+    {{ end }}
+  </div>
+</div>
+{{ if eq .Section "personal-statements" }}
+{{ partial "formspree.html" . }}
+{{ end }}
+{{ end }}

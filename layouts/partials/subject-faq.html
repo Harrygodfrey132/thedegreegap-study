@@ -1,0 +1,133 @@
+{{ $subject := .Params.subject | default "" }}
+
+{{ if eq $subject "Economics" }}
+<section class="page-faq">
+  <h2>Economics personal statement FAQ</h2>
+  <h3>How do I stop my Economics statement sounding like a news article?</h3>
+  <p>Use current events only as evidence for an economic question. Inflation, attention markets, inequality, or panic buying become useful when you analyse incentives, assumptions, data, or model failure.</p>
+  <h3>Should I mention behavioural economics?</h3>
+  <p>Yes, if you do more than name it. A strong paragraph might ask why people keep unused subscriptions, procrastinate, or panic buy, then connect that behaviour to rational choice, bias, or market failure.</p>
+  <h3>How can The Degree Gap help?</h3>
+  <p>We help you choose one or two economic puzzles, connect them to reading, and write in a way that shows analysis rather than description.</p>
+</section>
+{{ else if eq $subject "Law" }}
+<section class="page-faq">
+  <h2>Law personal statement FAQ</h2>
+  <h3>Is it enough to say I care about justice?</h3>
+  <p>No. A better Law statement asks where law and justice clash: consistency versus fairness, free speech versus harm, punishment versus rehabilitation, or judicial discretion versus certainty.</p>
+  <h3>Should I include work experience?</h3>
+  <p>Include it briefly if it raised a legal question. A court visit or solicitor placement should support your intellectual argument, not replace it.</p>
+  <h3>How can The Degree Gap help?</h3>
+  <p>We help you turn cases, judgments, articles, or legal podcasts into a clear argument that sounds like a future law student rather than a future job applicant.</p>
+</section>
+{{ else if eq $subject "Medicine" }}
+<section class="page-faq">
+  <h2>Medicine personal statement FAQ</h2>
+  <h3>How do I avoid the generic "I want to help people" opening?</h3>
+  <p>Start with a more precise idea: uncertainty in diagnosis, communication under pressure, public health, resource allocation, or what shadowing taught you about clinical judgement.</p>
+  <h3>How much work experience should I list?</h3>
+  <p>Do not list everything. Choose the moments you can reflect on properly. One careful observation about a consultation is stronger than a timetable of placements.</p>
+  <h3>How can The Degree Gap help?</h3>
+  <p>We help you turn shadowing, volunteering, reading, and UCAT/interview preparation into a statement that feels reflective, realistic, and specific to medicine.</p>
+</section>
+{{ else if eq $subject "Computer Science" }}
+<section class="page-faq">
+  <h2>Computer Science personal statement FAQ</h2>
+  <h3>Should I list programming languages?</h3>
+  <p>Only if they matter to a project. Admissions tutors are more interested in what problem you modelled, what trade-off you faced, and what you learned about abstraction.</p>
+  <h3>What makes a CS project worth writing about?</h3>
+  <p>A useful project has a problem, a constraint, and a decision. A small tool explained intelligently beats a large project described like a CV bullet point.</p>
+  <h3>How can The Degree Gap help?</h3>
+  <p>We help you explain projects, maths, algorithms, GitHub work, and reading in a way that shows computer science thinking rather than just coding experience.</p>
+</section>
+{{ else if eq $subject "Engineering" }}
+<section class="page-faq">
+  <h2>Engineering personal statement FAQ</h2>
+  <h3>How do I make an Engineering statement less generic?</h3>
+  <p>Write about constraints. Cost, strength, safety, sustainability, repairability, and efficiency are where engineering becomes interesting.</p>
+  <h3>Should I write about something I built?</h3>
+  <p>Yes, if you explain the engineering challenge. What failed, what did you change, and what did the project teach you about materials, forces, circuits, or systems?</p>
+  <h3>How can The Degree Gap help?</h3>
+  <p>We help you turn projects, reading, failures, and test preparation into a statement that shows engineering judgement, not just enthusiasm for machines.</p>
+</section>
+{{ else if eq $subject "Psychology" }}
+<section class="page-faq">
+  <h2>Psychology personal statement FAQ</h2>
+  <h3>Can I write about personal mental health experience?</h3>
+  <p>Be careful. A stronger route is to frame your interest through research: memory, conformity, attachment, addiction, neurodiversity, language, or cognitive bias.</p>
+  <h3>How do I show Psychology is a science?</h3>
+  <p>Mention evidence, method, and limitation. If you discuss a study, say what it can prove, what it cannot prove, and why that matters.</p>
+  <h3>How can The Degree Gap help?</h3>
+  <p>We help you move from vague interest in behaviour to a research-led statement with specific questions and properly handled evidence.</p>
+</section>
+{{ else if eq $subject "English Literature" }}
+<section class="page-faq">
+  <h2>English Literature personal statement FAQ</h2>
+  <h3>How many books should I mention?</h3>
+  <p>Fewer than you think. It is better to compare two texts closely than to list ten titles. Tutors want interpretation, not a reading inventory.</p>
+  <h3>What should an English paragraph actually do?</h3>
+  <p>Make a claim about language, form, voice, genre, performance, or structure. Avoid plot summary and show how the writing produces meaning.</p>
+  <h3>How can The Degree Gap help?</h3>
+  <p>We help you choose texts, build a critical thread, and make the statement sound like close reading rather than a book review.</p>
+</section>
+{{ else if eq $subject "History" }}
+<section class="page-faq">
+  <h2>History personal statement FAQ</h2>
+  <h3>How do I avoid just retelling historical events?</h3>
+  <p>Focus on interpretation. Ask how historians know something, why accounts differ, what evidence is missing, or how memory changes the story.</p>
+  <h3>Should I mention historiography?</h3>
+  <p>Yes, if you can handle it clearly. One debate between historians can make the whole statement more academic than a broad sweep through several periods.</p>
+  <h3>How can The Degree Gap help?</h3>
+  <p>We help you turn periods, documentaries, books, archives, and essays into a statement built around evidence and argument.</p>
+</section>
+{{ else if eq $subject "Mathematics" }}
+<section class="page-faq">
+  <h2>Mathematics personal statement FAQ</h2>
+  <h3>How do I write about Maths without sounding vague?</h3>
+  <p>Choose a specific idea: proof, infinity, primes, topology, voting systems, chaos, cryptography, or game theory. Explain what surprised you and what you tried next.</p>
+  <h3>Should I mention admissions tests?</h3>
+  <p>You can mention preparation if it reveals mathematical thinking, but do not turn the statement into a test log. The best evidence is curiosity about structure and proof.</p>
+  <h3>How can The Degree Gap help?</h3>
+  <p>We help you write about mathematical ideas accurately, avoid overclaiming, and connect competitions, reading, TMUA, STEP, or problem-solving to a coherent application.</p>
+</section>
+{{ else if eq $subject "Dentistry" }}
+<section class="page-faq">
+  <h2>Dentistry personal statement FAQ</h2>
+  <h3>How do I show commitment to Dentistry specifically?</h3>
+  <p>Write about dental shadowing, patient anxiety, oral health, precision, and manual skill. A general interest in healthcare is not enough for a competitive Dentistry application.</p>
+  <h3>What counts as dexterity evidence?</h3>
+  <p>Music, art, model-making, technical drawing, craft, lab work, or any sustained activity requiring fine motor control can help, as long as you explain the connection carefully.</p>
+  <h3>How can The Degree Gap help?</h3>
+  <p>We help you link shadowing, dexterity, UCAT preparation, and patient-facing experience into a statement that feels grounded in the profession.</p>
+</section>
+{{ else if eq $subject "Politics and International Relations" }}
+<section class="page-faq">
+  <h2>Politics and International Relations personal statement FAQ</h2>
+  <h3>How do I avoid sounding like I am summarising the news?</h3>
+  <p>Use a current issue to analyse power, institutions, incentives, law, or legitimacy. The question matters more than the headline.</p>
+  <h3>What sources are useful for Politics and IR?</h3>
+  <p>Chatham House, UN reports, Foreign Affairs, LSE events, Human Rights Watch, Amnesty, and serious policy podcasts can work well if you discuss the argument, not just the topic.</p>
+  <h3>How can The Degree Gap help?</h3>
+  <p>We help you narrow broad global interests into a precise argument that shows political analysis and subject fit.</p>
+</section>
+{{ else if eq $subject "Architecture" }}
+<section class="page-faq">
+  <h2>Architecture personal statement FAQ</h2>
+  <h3>Should I focus on famous architects?</h3>
+  <p>Only if you analyse their work. A local housing estate, school, library, or station can be more useful if you explain how design shapes behaviour.</p>
+  <h3>How should the statement connect to my portfolio?</h3>
+  <p>The statement should give intellectual context to your portfolio: materials, light, public space, reuse, housing, movement, or the social purpose behind your drawings.</p>
+  <h3>How can The Degree Gap help?</h3>
+  <p>We help you connect observation, sketchbook work, research, and design values so the statement supports the portfolio rather than repeating it.</p>
+</section>
+{{ else if eq $subject "Natural Sciences" }}
+<section class="page-faq">
+  <h2>Natural Sciences personal statement FAQ</h2>
+  <h3>How do I show breadth without sounding scattered?</h3>
+  <p>Use one problem that genuinely crosses disciplines: antibiotic resistance, energy storage, protein folding, medical imaging, or climate modelling.</p>
+  <h3>Should I mention Biology, Chemistry, Physics, and Maths equally?</h3>
+  <p>No. Show purposeful links. It is fine to have a centre of gravity, as long as the statement explains why other disciplines matter to the question.</p>
+  <h3>How can The Degree Gap help?</h3>
+  <p>We help you turn scientific interests into a connected statement with accurate examples, clear links, and enough depth for competitive courses.</p>
+</section>
+{{ end }}

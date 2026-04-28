@@ -1,0 +1,11 @@
+{{ define "main" }}
+{{ partial "breadcrumbs.html" . }}
+<div class="container">
+  <div class="page-body">
+    <article class="page-content" style="max-width:760px; margin:0 auto; padding:56px 0 80px;">
+      <h1>{{ .Title }}</h1>
+      {{ .Content }}
+    </article>
+  </div>
+</div>
+{{ end }}

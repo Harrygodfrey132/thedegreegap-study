@@ -1,0 +1,22 @@
+<header class="site-header">
+  <div class="container">
+    <a href="{{ .Site.Params.mainSiteURL }}" class="header-logo" aria-label="The Degree Gap home">
+      <img src="/images/final-logo.svg" alt="The Degree Gap" height="44">
+    </a>
+    <nav class="main-nav" aria-label="Main navigation">
+      <ul>
+        <li><a href="{{ .Site.Params.mainSiteURL }}/teachers">Find Tutors</a></li>
+        <li><a href="{{ .Site.Params.mainSiteURL }}/gcse-and-a-level-tutoring-reviews">Reviews</a></li>
+        <li><a href="{{ .Site.Params.mainSiteURL }}/Pricing">Pricing</a></li>
+        <li><a href="{{ .Site.Params.mainSiteURL }}/apply-to-tutor">Apply To Tutor</a></li>
+      </ul>
+    </nav>
+    <div class="header-cta">
+      <a href="{{ .Site.Params.mainSiteURL }}" class="btn btn-outline">Login</a>
+      <a href="{{ .Site.Params.mainSiteURL }}" class="btn btn-primary">Sign Up</a>
+    </div>
+    <button class="nav-toggle" aria-label="Open menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>

@@ -1,0 +1,70 @@
+{{ $subject := .Params.subject | default "" }}
+{{ $university := .Params.university | default "" }}
+{{ $ctaText := .Params.form_cta | default "Get expert personal statement help from our tutors" }}
+{{ $intro := .Params.form_intro | default "Tell us a little about your application and we'll be in touch within 24 hours." }}
+{{ $messageLabel := .Params.form_message_label | default "Tell us about your application" }}
+{{ $messagePlaceholder := .Params.form_message_placeholder | default "Which universities are you applying to? Where are you in the writing process? Any particular areas you'd like help with?" }}
+{{ $buttonText := .Params.form_button | default "Send enquiry" }}
+{{ $note := .Params.form_note | default "We typically respond within one working day. No obligation." }}
+
+<section class="form-section" id="get-help">
+  <div class="container">
+    <div class="form-card">
+      <h2>{{ $ctaText }}</h2>
+      <p class="form-intro">{{ $intro }}</p>
+      <form action="{{ .Site.Params.formspreeEndpoint }}" method="POST" novalidate>
+        <input type="hidden" name="_subject" value="New enquiry{{ with $subject }}: {{ . }}{{ end }}{{ with $university }} ({{ . }}){{ end }} | The Degree Gap Study">
+        <input type="hidden" name="page_url" value="{{ .RelPermalink }}">
+        {{ with $subject }}<input type="hidden" name="subject" value="{{ . }}">{{ end }}
+        {{ with $university }}<input type="hidden" name="university" value="{{ . }}">{{ end }}
+
+        <div class="form-group">
+          <label for="name">Your name</label>
+          <input type="text" id="name" name="name" placeholder="e.g. Emma Clarke" required>
+        </div>
+        <div class="form-group">
+          <label for="email">Email address</label>
+          <input type="email" id="email" name="email" placeholder="you@example.com" required>
+        </div>
+        {{ if not $subject }}
+        <div class="form-group">
+          <label for="form-subject">Subject applying for</label>
+          <select id="form-subject" name="subject">
+            <option value="">Select subject…</option>
+            <option>Medicine</option>
+            <option>Law</option>
+            <option>Dentistry</option>
+            <option>Computer Science</option>
+            <option>Engineering</option>
+            <option>Economics</option>
+            <option>Mathematics</option>
+            <option>Psychology</option>
+            <option>English Literature</option>
+            <option>History</option>
+            <option>Physics</option>
+            <option>Chemistry</option>
+            <option>Biology</option>
+            <option>Architecture</option>
+            <option>Pharmacy</option>
+            <option>Nursing</option>
+            <option>Veterinary Science</option>
+            <option>Business / Management</option>
+            <option>PPE</option>
+            <option>Biomedical Sciences</option>
+            <option>Accounting and Finance</option>
+            <option>Other</option>
+          </select>
+        </div>
+        {{ end }}
+        <div class="form-group">
+          <label for="message">{{ $messageLabel }}</label>
+          <textarea id="message" name="message" placeholder="{{ $messagePlaceholder }}" required></textarea>
+        </div>
+        <div class="form-submit">
+          <button type="submit" class="btn btn-primary btn-lg">{{ $buttonText }}</button>
+        </div>
+        <p class="form-note">{{ $note }}</p>
+      </form>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,15 @@
+{{ if not .IsHome }}
+<div class="breadcrumbs">
+  <div class="container">
+    <ol>
+      <li><a href="/">Home</a></li>
+      {{ range .Ancestors.Reverse }}
+      {{ if not .IsHome }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ end }}
+      {{ end }}
+      <li>{{ .Title }}</li>
+    </ol>
+  </div>
+</div>
+{{ end }}

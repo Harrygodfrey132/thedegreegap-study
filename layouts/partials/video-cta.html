@@ -1,0 +1,85 @@
+{{ $subject := .Params.subject | default "" }}
+{{ $university := .Params.university | default "" }}
+{{ $title := "Watch Harry's top-university application webinar" }}
+{{ $context := "Harry Godfrey, co-founder of The Degree Gap, explains how strong applicants turn academic interest into a credible top-university application." }}
+{{ $prompt := "If your statement still sounds broad, this is the quickest way to see what needs sharpening before you send it." }}
+
+{{ if eq $subject "Medicine" }}
+  {{ $title = "Before you write another Medicine paragraph, watch this" }}
+  {{ $context = "Harry Godfrey has helped students apply to Oxford, Cambridge, LSE, UCL, and other highly competitive universities. In this webinar, he explains how top applicants move beyond generic motivation and make their academic case properly." }}
+  {{ $prompt = "Use it to check whether your Medicine statement is actually reflective: work experience, public health, ethics, uncertainty, and patient communication all need to earn their place." }}
+{{ else if eq $subject "Law" }}
+  {{ $title = "Make your Law statement sound like an argument" }}
+  {{ $context = "Harry Godfrey, co-founder of The Degree Gap, has supported students applying to Oxford, Cambridge, LSE, UCL, and other selective law departments." }}
+  {{ $prompt = "Watch this if your draft is still built around justice, debating, or career ambition instead of a real legal tension." }}
+{{ else if eq $subject "Economics" }}
+  {{ $title = "Turn Economics interest into analysis" }}
+  {{ $context = "Harry Godfrey has helped ambitious applicants build sharper applications for top universities including Oxford, Cambridge, LSE, and UCL." }}
+  {{ $prompt = "Use the webinar to check whether your Economics statement analyses incentives, evidence, and assumptions rather than summarising current affairs." }}
+{{ else if eq $subject "Computer Science" }}
+  {{ $title = "Your CS statement needs more than projects" }}
+  {{ $context = "Harry Godfrey, co-founder of The Degree Gap, works with students applying to highly competitive courses at Oxford, Cambridge, LSE, UCL, and beyond." }}
+  {{ $prompt = "Watch this before you list another language or framework. The best CS statements explain abstraction, trade-offs, and mathematical thinking." }}
+{{ else if eq $subject "Engineering" }}
+  {{ $title = "Show the engineering judgement behind your projects" }}
+  {{ $context = "Harry Godfrey has helped students shape applications for the UK's most competitive universities, including Oxford, Cambridge, LSE, and UCL." }}
+  {{ $prompt = "Use the webinar to pressure-test whether your Engineering statement explains constraints, failure, materials, systems, and design choices clearly enough." }}
+{{ else if eq $subject "Psychology" }}
+  {{ $title = "Make your Psychology statement research-led" }}
+  {{ $context = "Harry Godfrey, co-founder of The Degree Gap, has helped countless students strengthen applications to leading UK universities." }}
+  {{ $prompt = "Watch this if your draft still says you are interested in people, but does not yet show evidence, method, and a specific research question." }}
+{{ else if eq $subject "English Literature" }}
+  {{ $title = "Make your English statement read like close analysis" }}
+  {{ $context = "Harry Godfrey has helped students apply successfully to highly selective universities including Oxford, Cambridge, LSE, and UCL." }}
+  {{ $prompt = "Use the webinar to check whether your statement has a critical thread, not just a shelf of books and broad enthusiasm for reading." }}
+{{ else if eq $subject "History" }}
+  {{ $title = "Turn History reading into interpretation" }}
+  {{ $context = "Harry Godfrey, co-founder of The Degree Gap, supports students applying to top UK universities with academically sharper applications." }}
+  {{ $prompt = "Watch this if your History statement still retells events instead of showing how historians build arguments from evidence." }}
+{{ else if eq $subject "Mathematics" }}
+  {{ $title = "Make your Maths statement precise enough for top universities" }}
+  {{ $context = "Harry Godfrey has worked with students applying to Oxford, Cambridge, LSE, UCL, and other highly competitive courses." }}
+  {{ $prompt = "Use the webinar to check whether your Maths statement shows proof, structure, and problem-solving, rather than vague enjoyment of logic." }}
+{{ else if eq $subject "Dentistry" }}
+  {{ $title = "Make Dentistry sound specific, not like general healthcare" }}
+  {{ $context = "Harry Godfrey, co-founder of The Degree Gap, has helped students sharpen competitive applications across demanding UK courses." }}
+  {{ $prompt = "Watch this before you finalise your draft: shadowing, dexterity, patient trust, and oral health all need proper reflection." }}
+{{ else if eq $subject "Architecture" }}
+  {{ $title = "Connect your Architecture statement to design thinking" }}
+  {{ $context = "Harry Godfrey has helped applicants make stronger academic cases for selective UK universities." }}
+  {{ $prompt = "Use the webinar to check whether your writing explains how buildings shape behaviour, not just which architects you admire." }}
+{{ else if eq $subject "Natural Sciences" }}
+  {{ $title = "Make your Natural Sciences statement connected" }}
+  {{ $context = "Harry Godfrey, co-founder of The Degree Gap, supports students applying to competitive UK universities with focused academic applications." }}
+  {{ $prompt = "Watch this if your draft has lots of science in it, but no clear thread linking biology, chemistry, physics, maths, or real research problems." }}
+{{ else if eq $subject "Politics and International Relations" }}
+  {{ $title = "Make Politics and IR more than current affairs" }}
+  {{ $context = "Harry Godfrey has helped students strengthen applications for top UK universities including Oxford, Cambridge, LSE, and UCL." }}
+  {{ $prompt = "Use the webinar to check whether your statement analyses power, institutions, and evidence rather than simply describing world events." }}
+{{ else if eq $university "Oxford" }}
+  {{ $title = "Applying to Oxford? Watch this before you finalise the statement" }}
+  {{ $context = "Harry Godfrey, co-founder of The Degree Gap, has personally helped students secure places at Oxford, Cambridge, LSE, UCL, and other top universities." }}
+  {{ $prompt = "The webinar explains the kind of academic sharpness top universities expect, and how the new personal statement format changes the way applicants need to prepare." }}
+{{ else if eq $university "Cambridge" }}
+  {{ $title = "Applying to Cambridge? Check your academic case here" }}
+  {{ $context = "Harry Godfrey, co-founder of The Degree Gap, has helped students apply successfully to Oxford, Cambridge, LSE, UCL, and other highly selective universities." }}
+  {{ $prompt = "Watch this to think about how your UCAS statement, My Cambridge Application, tests, and interview preparation should fit together." }}
+{{ end }}
+
+<section class="video-cta" aria-labelledby="video-cta-title">
+  <div class="video-cta__copy">
+    <p class="video-cta__eyebrow">Harry Godfrey webinar</p>
+    <h2 id="video-cta-title">{{ $title }}</h2>
+    <p>{{ $context }}</p>
+    <p>{{ $prompt }}</p>
+    <a href="#get-help" class="btn btn-primary">Get University Help</a>
+  </div>
+  <div class="video-cta__media">
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/GG-UeN156l4"
+      title="University Help webinar by Harry Godfrey"
+      loading="lazy"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+</section>

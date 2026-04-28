@@ -1,0 +1,69 @@
+{{ define "main" }}
+<section class="hero">
+  <div class="container">
+    <div class="hero-inner">
+      <span class="hero-label">UK Personal Statement Tutoring</span>
+      <h1>Expert Help With Your Personal Statement</h1>
+      <p class="lead">One-to-one tutoring from subject specialists who know exactly what UK universities want to read. From your first draft to your final submission.</p>
+      <div class="hero-actions">
+        <a href="/personal-statement-tutor/#get-help" class="btn btn-primary btn-lg">Get help now</a>
+        <a href="/personal-statement-tutor/" class="btn btn-outline btn-lg">Browse subjects</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-title">
+      <h2>What we help with</h2>
+    </div>
+    <div class="home-features">
+      <div class="feature-card">
+        <div class="feature-icon">✍️</div>
+        <h3>Personal Statement Tutoring</h3>
+        <p>Subject-specific guidance on structure, content, and what admissions tutors actually look for: for every major UCAS subject.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">🎓</div>
+        <h3>Oxford Applications</h3>
+        <p>Specialist support for Oxford applicants. We understand what academic tutors look for and how your statement feeds your interview.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">📐</div>
+        <h3>Cambridge Applications</h3>
+        <p>Cambridge-specific guidance on personal statements, admissions tests, and the supervision culture that shapes what tutors want to see.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="container">
+    <div class="section-title">
+      <h2>Browse by subject</h2>
+      <p>Find tailored advice and tutoring for your specific course.</p>
+    </div>
+    <div class="oxbridge-cards oxbridge-cards--three">
+      <a href="/personal-statement-tutor/" class="oxbridge-card">
+        <h3>All Subjects →</h3>
+        <p>General personal statement tutoring for all major UCAS subjects, from Medicine and Law to History and Computer Science.</p>
+      </a>
+      <a href="/personal-statements/oxford/" class="oxbridge-card">
+        <h3>Oxford →</h3>
+        <p>Everything specific to Oxford applications: admissions tests, interview preparation, and what Oxford tutors look for.</p>
+      </a>
+      <a href="/personal-statements/cambridge/" class="oxbridge-card">
+        <h3>Cambridge →</h3>
+        <p>Cambridge-specific guidance on personal statements, the pool system, and how to stand out in a competitive field.</p>
+      </a>
+    </div>
+  </div>
+</section>
+
+<div class="container">
+  {{ partial "video-cta.html" . }}
+</div>
+
+{{ partial "formspree.html" . }}
+{{ end }}
