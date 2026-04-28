@@ -1,19 +1,5 @@
 {{ define "main" }}
-<div class="page-header">
-  <div class="container">
-    <h1>{{ .Title }}</h1>
-    {{ with .Params.admissions_tests }}
-    <div class="test-pills" style="margin-top:20px;">
-      {{ range . }}
-      <span class="test-pill">
-        <span class="test-pill-name">{{ .name }}</span>
-        {{ with .note }}<span class="test-pill-desc">: {{ . }}</span>{{ end }}
-      </span>
-      {{ end }}
-    </div>
-    {{ end }}
-  </div>
-</div>
+{{ partial "support-hero.html" . }}
 
 <div class="container">
   <div class="page-body">
