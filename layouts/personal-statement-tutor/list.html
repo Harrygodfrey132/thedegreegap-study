@@ -1,48 +1,125 @@
 {{ define "main" }}
-<div class="page-header">
+<section class="hub-hero" aria-labelledby="hub-hero-title">
   <div class="container">
-    <h1>{{ .Title }}</h1>
-    <p class="page-lead">{{ .Description }}</p>
-  </div>
-</div>
+    <div class="hub-hero__grid">
+      <div class="hub-hero__copy">
+        <p class="hub-eyebrow">Personal statement tutoring</p>
+        <h1 id="hub-hero-title">Personal statement support for ambitious UK university applications</h1>
+        <p class="hub-hero__lead">We help students turn reading, supercurricular work, ideas, and early drafts into a personal statement that feels specific, academic, and genuinely theirs.</p>
+        <div class="hub-hero__actions">
+          <a href="#get-help" class="btn btn-primary btn-lg">Book a consultation</a>
+          <a href="https://share.google/Oq5KJu7wswxBZKspk" class="btn btn-outline btn-lg" target="_blank" rel="noopener">Read Google reviews</a>
+        </div>
+        <div class="hub-proof-row" aria-label="The Degree Gap proof points">
+          <span><strong>100+ five-star reviews</strong> on our Google Business Profile</span>
+          <span><strong>GCSE Specialist of the Year</strong> Prestige Awards 2025 and 2026</span>
+          <span><strong>Webinars for thousands</strong> of students and parents</span>
+        </div>
+      </div>
 
-<section class="section hub-intro">
-  <div class="container">
-    {{ .Content }}
+      <aside class="hub-founder-panel" aria-label="Led by Harry Godfrey">
+        <img src="/images/harry-godfrey.jpg" alt="Harry Godfrey at an education event" class="hub-founder-panel__image">
+        <div class="hub-founder-panel__body">
+          <p class="hub-founder-panel__label">Led by Harry Godfrey</p>
+          <h2>Co-owner of The Degree Gap and LSE Economics graduate</h2>
+          <p>Harry has helped students apply for LSE, Oxford, Cambridge, UCL, King's College London, and other leading UK universities. He also speaks at schools about personal statement support and top-university applications.</p>
+        </div>
+      </aside>
+    </div>
   </div>
 </section>
 
-<section class="section section-alt">
+<section class="hub-section hub-section--white" aria-labelledby="hub-why-title">
   <div class="container">
-    <div class="oxbridge-cards" style="margin-bottom:40px;">
-      <a href="/personal-statements/oxford/" class="oxbridge-card">
-        <h3>Oxford Personal Statement →</h3>
-        <p>Specialist guidance for Oxford applicants: what academic tutors look for, admissions tests, and how your statement feeds the interview.</p>
-      </a>
-      <a href="/personal-statements/cambridge/" class="oxbridge-card">
-        <h3>Cambridge Personal Statement →</h3>
-        <p>Everything specific to Cambridge: the supervision culture, STEP and other tests, and the pool system explained.</p>
-      </a>
+    <div class="hub-section__intro">
+      <p class="hub-eyebrow">Why it matters</p>
+      <h2 id="hub-why-title">Most personal statements fail because they sound general</h2>
+      <p>Strong statements are not built from impressive claims. They are built from a clear academic interest, well-chosen evidence, and a student's own opinion on what they have read, watched, explored, or questioned.</p>
     </div>
+    <div class="hub-method-grid">
+      <article class="hub-method-card">
+        <span>01</span>
+        <h3>Find the academic angle</h3>
+        <p>We start with the subject itself: what fascinates the student, what they have already explored, and what would make their application sound more precise.</p>
+      </article>
+      <article class="hub-method-card">
+        <span>02</span>
+        <h3>Build better evidence</h3>
+        <p>That might mean books, lectures, podcasts, articles, competitions, work experience reflections, or practical projects. The aim is depth, not a decorative reading list.</p>
+      </article>
+      <article class="hub-method-card">
+        <span>03</span>
+        <h3>Edit without losing the voice</h3>
+        <p>The student writes the draft. We help shape it, challenge it, sharpen it, and make sure it reads like a thoughtful applicant rather than a template.</p>
+      </article>
+    </div>
+  </div>
+</section>
 
-    <div class="section-title">
-      <h2>Choose your subject</h2>
-      <p>Select your subject for tailored personal statement advice and tutoring.</p>
+<section class="hub-section hub-section--tint" aria-labelledby="hub-subject-title">
+  <div class="container">
+    <div class="hub-section__intro">
+      <p class="hub-eyebrow">Subject pathways</p>
+      <h2 id="hub-subject-title">Choose the subject you are applying for</h2>
+      <p>Each guide has a different angle, different examples, and different advice because a Medicine statement should not sound like an Economics statement, and an Engineering statement should not be edited like English Literature.</p>
     </div>
-    <div class="subjects-grid">
+    <div class="hub-subject-grid">
       {{ range .Pages.ByTitle }}
-      <a href="{{ .RelPermalink }}" class="subject-card">
-        {{ .Title }}
-        <span class="arrow">→</span>
+      {{ $subject := .Params.subject | default .Title }}
+      <a href="{{ .RelPermalink }}" class="hub-subject-card">
+        <span class="hub-subject-card__title">{{ $subject }}</span>
+        <p>{{ .Description }}</p>
+        <span class="hub-subject-card__link">Read the {{ $subject }} guide</span>
       </a>
       {{ end }}
     </div>
   </div>
 </section>
 
-<div class="container">
-  {{ partial "video-cta.html" . }}
-</div>
+<section class="hub-section hub-section--white" aria-labelledby="hub-oxbridge-title">
+  <div class="container">
+    <div class="hub-split">
+      <div class="hub-section__intro hub-section__intro--flush">
+        <p class="hub-eyebrow">Oxford and Cambridge</p>
+        <h2 id="hub-oxbridge-title">Oxbridge personal statements need a wider application strategy</h2>
+        <p>Oxford and Cambridge applications involve earlier deadlines, college choices, admissions tests, written work, interviews, and, for Cambridge, extra forms and the winter pool. We help students understand how the personal statement fits into the whole process.</p>
+      </div>
+      <div class="hub-oxbridge-list">
+        <a href="/personal-statements/oxford/" class="hub-oxbridge-link">
+          <span>Oxford support</span>
+          <p>Academic statement strategy, course fit, admissions test context, written work, and interview preparation.</p>
+        </a>
+        <a href="/personal-statements/cambridge/" class="hub-oxbridge-link">
+          <span>Cambridge support</span>
+          <p>Course and college strategy, My Cambridge Application, supervisions, admissions tests, interviews, and pooling.</p>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="hub-section hub-video-section" aria-labelledby="hub-video-title">
+  <div class="container">
+    <div class="hub-video-panel">
+      <div class="hub-video-panel__copy">
+        <p class="hub-eyebrow">Watch the webinar</p>
+        <h2 id="hub-video-title">Harry explains what top universities are really looking for</h2>
+        <p>In this short webinar, Harry shares four key tips for applying to competitive universities and explains the personal statement format students now need to understand.</p>
+        <p>The video is useful if you are still deciding what to write, but the real value comes when we can apply the ideas to your subject, your evidence, and your draft.</p>
+        <a href="#get-help" class="btn btn-primary">Get personal statement tutoring</a>
+      </div>
+      <div class="hub-video-panel__media">
+        <iframe src="https://www.youtube.com/embed/GG-UeN156l4" title="University help with Harry Godfrey" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="hub-section hub-section--white">
+  <div class="container">
+    {{ partial "degree-gap-process.html" . }}
+  </div>
+</section>
 
 {{ partial "formspree.html" . }}
 {{ end }}
