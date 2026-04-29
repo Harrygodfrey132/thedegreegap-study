@@ -10,3 +10,13 @@ if (toggle) {
   });
 }
 
+document.querySelectorAll('[data-ps-tutor-strip]').forEach((gallery) => {
+  const tutors = Array.from(gallery.children);
+
+  tutors
+    .sort(() => Math.random() - 0.5)
+    .forEach((tutor, index) => {
+      tutor.hidden = index >= 5;
+      gallery.appendChild(tutor);
+    });
+});

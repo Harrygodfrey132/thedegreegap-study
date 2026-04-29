@@ -13,6 +13,7 @@
       {{ end }}
     </div>
     {{ if eq .Section "personal-statements" }}
+    {{ partial "personal-statement-tutor-strip.html" . }}
     {{ partial "video-cta.html" . }}
     {{ end }}
   </div>
