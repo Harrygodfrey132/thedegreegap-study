@@ -1,0 +1,49 @@
+board: AQA
+board_slug: aqa
+years:
+  - year: 2024
+    series:
+      - name: June
+        slug: june
+  - year: 2023
+    series:
+      - name: June
+        slug: june
+      - name: November
+        slug: november
+  - year: 2022
+    series:
+      - name: June
+        slug: june
+  - year: 2019
+    series:
+      - name: June
+        slug: june
+  - year: 2018
+    series:
+      - name: June
+        slug: june
+  - year: 2017
+    series:
+      - name: June
+        slug: june
+higher_papers:
+  - display: "Paper 1"
+    slug: paper-1-higher
+    calculator: false
+  - display: "Paper 2"
+    slug: paper-2-higher
+    calculator: true
+  - display: "Paper 3"
+    slug: paper-3-higher
+    calculator: true
+foundation_papers:
+  - display: "Paper 1"
+    slug: paper-1-foundation
+    calculator: false
+  - display: "Paper 2"
+    slug: paper-2-foundation
+    calculator: true
+  - display: "Paper 3"
+    slug: paper-3-foundation
+    calculator: true

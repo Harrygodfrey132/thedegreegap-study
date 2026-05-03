@@ -1,0 +1,69 @@
+{{ define "main" }}
+<section class="pp-hero">
+  <div class="container">
+    <p class="pp-eyebrow">The Degree Gap · Free Study Resources</p>
+    <h1>Past Papers</h1>
+    <p class="pp-hero__lead">Free past papers and mark schemes for GCSE and A-Level from AQA, OCR, Edexcel, and other exam boards. No sign-up required.</p>
+  </div>
+</section>
+
+<div class="container">
+  <section class="pp-section">
+    <h2 class="pp-section__heading">Select a qualification</h2>
+    <div class="pp-qual-grid">
+
+      <a href="/past-papers/gcse/" class="pp-qual-card">
+        <div class="pp-qual-card__badge">GCSE</div>
+        <h3>GCSE Past Papers</h3>
+        <p>Foundation and Higher tier papers across all subjects and major exam boards — Maths, English, Science, and more.</p>
+        <span class="pp-qual-card__cta">Browse GCSE papers →</span>
+      </a>
+
+      <div class="pp-qual-card pp-qual-card--coming-soon">
+        <div class="pp-qual-card__badge pp-qual-card__badge--muted">A-Level</div>
+        <h3>A-Level Past Papers</h3>
+        <p>Full A-Level question papers and mark schemes across all subjects and boards.</p>
+        <span class="pp-qual-card__cta pp-qual-card__cta--muted">Coming soon</span>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="pp-section pp-section--last">
+    <div class="pp-why-strip">
+      <div class="pp-why-strip__item">
+        <strong>Free to download</strong>
+        <p>Every question paper and mark scheme — no account needed.</p>
+      </div>
+      <div class="pp-why-strip__item">
+        <strong>All major boards</strong>
+        <p>AQA, OCR, and Edexcel papers in one place.</p>
+      </div>
+      <div class="pp-why-strip__item">
+        <strong>2017–2024</strong>
+        <p>Papers from recent years on the current specification.</p>
+      </div>
+      <div class="pp-why-strip__item">
+        <strong>Need extra help?</strong>
+        <p><a href="{{ .Site.Params.mainSiteURL }}/teachers">Find a tutor</a> who knows your exam board inside out.</p>
+      </div>
+    </div>
+  </section>
+</div>
+
+<section class="pp-cta-band">
+  <div class="container">
+    <div class="pp-cta-band__inner">
+      <div>
+        <p class="pp-eyebrow">Expert tutoring</p>
+        <h2>Get more from your past paper practice</h2>
+        <p>Completing past papers alone only goes so far. Our GCSE tutors help students understand where marks are lost, how to structure answers, and which topics to prioritise.</p>
+      </div>
+      <div class="pp-cta-band__actions">
+        <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary btn-lg">Find a tutor</a>
+        <a href="https://share.google/Oq5KJu7wswxBZKspk" class="btn btn-outline btn-lg" target="_blank" rel="noopener">Read our reviews</a>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

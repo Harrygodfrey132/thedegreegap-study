@@ -2,88 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://study.thedegreegap.com/personal-statement-tutor/accounting-and-finance/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://localhost:58532/personal-statement-tutor/accounting-and-finance/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url><url>
-    <loc>https://study.thedegreegap.com/personal-statement-tutor/architecture/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://localhost:58532/past-papers/gcse/maths/aqa/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
   </url><url>
-    <loc>https://study.thedegreegap.com/personal-statements/cambridge/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://localhost:58532/personal-statement-tutor/architecture/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url><url>
-    <loc>https://study.thedegreegap.com/categories/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://localhost:58532/personal-statements/cambridge/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url><url>
-    <loc>https://study.thedegreegap.com/personal-statement-tutor/computer-science/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://localhost:58532/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url><url>
-    <loc>https://study.thedegreegap.com/personal-statement-tutor/dentistry/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://localhost:58532/personal-statement-tutor/computer-science/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url><url>
-    <loc>https://study.thedegreegap.com/personal-statement-tutor/economics/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://localhost:58532/personal-statement-tutor/dentistry/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url><url>
-    <loc>https://study.thedegreegap.com/personal-statement-tutor/engineering/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://localhost:58532/personal-statement-tutor/economics/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url><url>
-    <loc>https://study.thedegreegap.com/personal-statement-tutor/english-literature/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://localhost:58532/past-papers/gcse/maths/edexcel/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
   </url><url>
-    <loc>https://study.thedegreegap.com/personal-statement-tutor/history/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://localhost:58532/personal-statement-tutor/engineering/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url><url>
-    <loc>https://study.thedegreegap.com/personal-statement-tutor/law/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://localhost:58532/personal-statement-tutor/english-literature/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url><url>
-    <loc>https://study.thedegreegap.com/personal-statement-tutor/mathematics/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://localhost:58532/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url><url>
-    <loc>https://study.thedegreegap.com/personal-statement-tutor/medicine/</loc>
+    <loc>http://localhost:58532/past-papers/gcse/maths/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.9</priority>
   </url><url>
-    <loc>https://study.thedegreegap.com/personal-statement-tutor/natural-sciences/</loc>
+    <loc>http://localhost:58532/past-papers/gcse/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.8</priority>
   </url><url>
-    <loc>https://study.thedegreegap.com/personal-statements/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://localhost:58532/personal-statement-tutor/history/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url><url>
-    <loc>https://study.thedegreegap.com/personal-statements/oxford/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://localhost:58532/personal-statement-tutor/law/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url><url>
-    <loc>https://study.thedegreegap.com/personal-statement-tutor/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://localhost:58532/personal-statement-tutor/mathematics/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url><url>
-    <loc>https://study.thedegreegap.com/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://localhost:58532/personal-statement-tutor/medicine/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url><url>
-    <loc>https://study.thedegreegap.com/personal-statement-tutor/politics-and-international-relations/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://localhost:58532/personal-statement-tutor/natural-sciences/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url><url>
-    <loc>https://study.thedegreegap.com/personal-statement-tutor/psychology/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://localhost:58532/past-papers/gcse/maths/ocr/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
   </url><url>
-    <loc>https://study.thedegreegap.com/tags/</loc>
+    <loc>http://localhost:58532/personal-statements/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url><url>
+    <loc>http://localhost:58532/personal-statements/oxford/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url><url>
+    <loc>http://localhost:58532/past-papers/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
+  </url><url>
+    <loc>http://localhost:58532/personal-statement-tutor/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url><url>
+    <loc>http://localhost:58532/personal-statement-tutor/politics-and-international-relations/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url><url>
+    <loc>http://localhost:58532/personal-statement-tutor/psychology/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url><url>
+    <loc>http://localhost:58532/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 </urlset>

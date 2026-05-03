@@ -1,0 +1,99 @@
+{{ define "main" }}
+{{ $board := .Params.board | default "Unknown" }}
+{{ $boardSlug := .Params.board_slug | default "aqa" }}
+{{ $year := .Params.year | default "" }}
+{{ $series := .Params.series | default "" }}
+{{ $paperNumber := .Params.paper_number | default "" }}
+{{ $tier := .Params.tier | default "" }}
+{{ $qpURL := .Params.qp_url | default "" }}
+{{ $msURL := .Params.ms_url | default "" }}
+
+<div class="pp-paper-hero">
+  <div class="container">
+    <p class="pp-eyebrow">{{ $board }} GCSE Maths · {{ $year }} {{ $series }}</p>
+    <h1>{{ .Title }}</h1>
+    <p class="pp-paper-hero__intro">{{ .Description }}</p>
+    <div class="pp-paper-hero__actions">
+      {{ if $qpURL }}
+      <a href="{{ $qpURL }}" class="btn btn-primary btn-lg" target="_blank" rel="noopener">Download Question Paper (PDF)</a>
+      {{ end }}
+      {{ if $msURL }}
+      <a href="{{ $msURL }}" class="btn btn-outline btn-lg" target="_blank" rel="noopener">Download Mark Scheme (PDF)</a>
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="pp-paper-layout">
+
+    <main class="pp-paper-main">
+
+      <div class="pp-paper-intro">
+        {{ .Content }}
+      </div>
+
+      {{ if $qpURL }}
+      <section class="pp-pdf-section" id="question-paper" aria-labelledby="qp-heading">
+        <h2 id="qp-heading">Question Paper</h2>
+        <div class="pp-pdf-embed">
+          <iframe src="{{ $qpURL }}" title="{{ .Title }} — Question Paper" loading="lazy"></iframe>
+        </div>
+        <a href="{{ $qpURL }}" class="btn btn-primary" target="_blank" rel="noopener">Open question paper in new tab</a>
+      </section>
+      {{ end }}
+
+      {{ if $msURL }}
+      <section class="pp-pdf-section" id="mark-scheme" aria-labelledby="ms-heading">
+        <h2 id="ms-heading">Mark Scheme</h2>
+        <div class="pp-pdf-embed">
+          <iframe src="{{ $msURL }}" title="{{ .Title }} — Mark Scheme" loading="lazy"></iframe>
+        </div>
+        <a href="{{ $msURL }}" class="btn btn-outline" target="_blank" rel="noopener">Open mark scheme in new tab</a>
+      </section>
+      {{ end }}
+
+      <p class="pp-paper-copyright">Exam paper © {{ $board }}{{ if eq $board "Edexcel" }} / Pearson{{ end }}. Reproduced for educational purposes only.</p>
+
+    </main>
+
+    <aside class="pp-board-sidebar">
+
+      <div class="pp-sidebar-cta">
+        <p class="pp-sidebar-cta__eyebrow">Need support?</p>
+        <h3>Get expert GCSE Maths tutoring</h3>
+        <p>Our tutors are specialists in {{ $board }} GCSE Maths and can work through this paper with you, explain mark scheme logic, and help you improve your technique.</p>
+        <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary">Find a tutor →</a>
+        <p class="pp-sidebar-cta__proof">GCSE Tutoring Specialists of the Year 2025 &amp; 2026 — Prestige Awards</p>
+      </div>
+
+      <div class="pp-sidebar-nav">
+        <h4>More {{ $board }} papers</h4>
+        <ul>
+          <li><a href="/past-papers/gcse/maths/{{ $boardSlug }}/">All {{ $board }} GCSE Maths papers</a></li>
+          <li><a href="/past-papers/gcse/maths/">All GCSE Maths boards</a></li>
+          <li><a href="/past-papers/gcse/">GCSE Past Papers</a></li>
+        </ul>
+      </div>
+
+    </aside>
+
+  </div>
+</div>
+
+<section class="pp-cta-band">
+  <div class="container">
+    <div class="pp-cta-band__inner">
+      <div>
+        <p class="pp-eyebrow">Expert tutoring</p>
+        <h2>Get more from your {{ $board }} GCSE Maths revision</h2>
+        <p>Working through past papers alone only goes so far. A specialist tutor can help you understand mark scheme logic, identify the most common mistakes, and focus your revision where it counts.</p>
+      </div>
+      <div class="pp-cta-band__actions">
+        <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary btn-lg">Find a GCSE Maths tutor</a>
+        <a href="https://share.google/Oq5KJu7wswxBZKspk" class="btn btn-outline btn-lg" target="_blank" rel="noopener">Read Google reviews</a>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

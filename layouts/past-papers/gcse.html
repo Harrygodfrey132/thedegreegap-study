@@ -1,0 +1,68 @@
+{{ define "main" }}
+<section class="pp-hero">
+  <div class="container">
+    <p class="pp-eyebrow">Past Papers</p>
+    <h1>GCSE Past Papers</h1>
+    <p class="pp-hero__lead">Free GCSE past papers and mark schemes from AQA, OCR, and Edexcel. Foundation and Higher tier — no sign-up required.</p>
+    <div class="pp-hero__actions">
+      <a href="/past-papers/gcse/maths/" class="btn btn-primary">Browse GCSE Maths</a>
+      <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-outline">Find a GCSE tutor →</a>
+    </div>
+  </div>
+</section>
+
+<div class="container">
+  <section class="pp-section pp-section--last">
+    <h2 class="pp-section__heading">GCSE subjects</h2>
+    <p class="pp-section__lead">Select a subject to browse past papers by exam board and year.</p>
+
+    <div class="pp-subject-grid">
+      <a href="/past-papers/gcse/maths/" class="pp-subject-card pp-subject-card--active">
+        <span class="pp-subject-card__name">Maths</span>
+        <span class="pp-subject-card__boards">AQA · OCR · Edexcel</span>
+        <span class="pp-subject-card__cta">Browse papers →</span>
+      </a>
+      <div class="pp-subject-card pp-subject-card--soon">
+        <span class="pp-subject-card__name">Science</span>
+        <span class="pp-subject-card__boards">Coming soon</span>
+      </div>
+      <div class="pp-subject-card pp-subject-card--soon">
+        <span class="pp-subject-card__name">English</span>
+        <span class="pp-subject-card__boards">Coming soon</span>
+      </div>
+      <div class="pp-subject-card pp-subject-card--soon">
+        <span class="pp-subject-card__name">Geography</span>
+        <span class="pp-subject-card__boards">Coming soon</span>
+      </div>
+      <div class="pp-subject-card pp-subject-card--soon">
+        <span class="pp-subject-card__name">History</span>
+        <span class="pp-subject-card__boards">Coming soon</span>
+      </div>
+      <div class="pp-subject-card pp-subject-card--soon">
+        <span class="pp-subject-card__name">More subjects</span>
+        <span class="pp-subject-card__boards">Coming soon</span>
+      </div>
+    </div>
+  </section>
+</div>
+
+<section class="pp-cta-band">
+  <div class="container">
+    <div class="pp-cta-band__inner">
+      <div>
+        <p class="pp-eyebrow">GCSE tutoring specialists</p>
+        <h2>Struggling with any GCSE subject?</h2>
+        <p>The Degree Gap tutors are subject specialists who know the GCSE specifications in depth. Whether you need help with exam technique or want to work through past papers with expert guidance, we can help.</p>
+        <div class="pp-proof-row" style="margin-top: 20px;">
+          <span><strong>GCSE Tutoring Specialists of the Year</strong> Prestige Awards 2025 &amp; 2026</span>
+          <span><strong>100+ five-star reviews</strong> on Google</span>
+        </div>
+      </div>
+      <div class="pp-cta-band__actions">
+        <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary btn-lg">Find a GCSE tutor</a>
+        <a href="https://share.google/Oq5KJu7wswxBZKspk" class="btn btn-outline btn-lg" target="_blank" rel="noopener">Read our reviews</a>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

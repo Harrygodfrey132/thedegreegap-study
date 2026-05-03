@@ -1,4 +1,4 @@
 ---
-title: "Personal Statement Tutor | The Degree Gap"
-description: "Expert personal statement tutoring for UK university applications. One-to-one support for all subjects, Oxford, and Cambridge."
+title: "Free Past Papers & Expert Tutoring | The Degree Gap"
+description: "Free GCSE past papers and mark schemes from AQA, OCR, and Edexcel — plus one-to-one personal statement tutoring for UK university applications."
 ---

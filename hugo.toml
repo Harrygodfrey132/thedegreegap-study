@@ -1,6 +1,6 @@
 baseURL = "https://study.thedegreegap.com/"
 languageCode = "en-gb"
-title = "Personal Statement Tutor | The Degree Gap"
+title = "The Degree Gap | Tutoring &amp; Study Resources"
 
 [params]
   formspreeEndpoint = "https://formspree.io/f/mvgonabg"
@@ -12,8 +12,8 @@ title = "Personal Statement Tutor | The Degree Gap"
   unsafe = true
 
 [sitemap]
-  changeFreq = "weekly"
-  priority = 0.5
+  changeFreq = "monthly"
+  priority = 0.6
 
 [permalinks]
   personal-statement-tutor = "/personal-statement-tutor/:contentbasename/"

@@ -1,0 +1,210 @@
+{{ define "main" }}
+{{ $boardSlug := .Params.board_slug }}
+{{ $board := .Params.board }}
+{{ $dataKey := .Params.data_key }}
+{{ $data := index .Site.Data.past_papers $dataKey }}
+
+{{/* ItemList schema — helps Google understand all paper URLs on this page */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "{{ .Title }}",
+  "description": "{{ .Description }}",
+  "url": "{{ .Permalink }}",
+  "itemListElement": [
+    {{ $pos := 0 }}
+    {{ range $data.years }}{{ $year := .year }}{{ range .series }}{{ $series := . }}
+    {{ range $data.higher_papers }}{{ $pos = add $pos 1 }}{{ if gt $pos 1 }},{{ end }}
+    { "@type": "ListItem", "position": {{ $pos }}, "url": "{{ $.Permalink }}{{ $year }}-{{ $series.slug }}/{{ .slug }}/" }
+    {{ end }}
+    {{ range $data.foundation_papers }}{{ $pos = add $pos 1 }},
+    { "@type": "ListItem", "position": {{ $pos }}, "url": "{{ $.Permalink }}{{ $year }}-{{ $series.slug }}/{{ .slug }}/" }
+    {{ end }}
+    {{ end }}{{ end }}
+  ]
+}
+</script>
+
+<section class="pp-hero pp-hero--board">
+  <div class="container">
+    <p class="pp-eyebrow">GCSE Maths Past Papers</p>
+    <h1>{{ .Title }}</h1>
+    <p class="pp-hero__lead">{{ .Description }}</p>
+    <div class="pp-proof-row">
+      <span><strong>GCSE Tutoring Specialists of the Year</strong> Prestige Awards 2025 &amp; 2026</span>
+      <span><strong>100+ five-star reviews</strong> on Google</span>
+      <span><strong>Free to download</strong> — no sign-up required</span>
+    </div>
+  </div>
+</section>
+
+<nav class="pp-board-nav" aria-label="Exam board selector">
+  <div class="container">
+    <span class="pp-board-nav__label">Exam board:</span>
+    <a href="/past-papers/gcse/maths/aqa/"{{ if eq $boardSlug "aqa" }} class="active" aria-current="page"{{ end }}>AQA</a>
+    <a href="/past-papers/gcse/maths/ocr/"{{ if eq $boardSlug "ocr" }} class="active" aria-current="page"{{ end }}>OCR</a>
+    <a href="/past-papers/gcse/maths/edexcel/"{{ if eq $boardSlug "edexcel" }} class="active" aria-current="page"{{ end }}>Edexcel</a>
+  </div>
+</nav>
+
+<div class="container pp-papers-container">
+  <div class="pp-board-layout">
+
+    <main class="pp-board-main">
+
+      <div class="pp-intro">
+        {{ .Content }}
+      </div>
+
+      <div class="pp-tier-filter" role="tablist" aria-label="Filter by tier">
+        <button class="pp-tier-tab pp-tier-tab--active" data-tier="all" role="tab" aria-selected="true">All tiers</button>
+        <button class="pp-tier-tab" data-tier="higher" role="tab" aria-selected="false">Higher only</button>
+        <button class="pp-tier-tab" data-tier="foundation" role="tab" aria-selected="false">Foundation only</button>
+      </div>
+
+      <!-- Higher Tier Papers -->
+      <div class="pp-tier-group" data-tier="higher">
+        <div class="pp-tier-group__heading">
+          <span class="pp-tier-badge pp-tier-badge--higher">Higher Tier</span>
+          <span class="pp-tier-grade">Grades 4–9</span>
+        </div>
+        {{ range $data.higher_papers }}
+        {{ $paper := . }}
+        <div class="pp-paper-section">
+          <div class="pp-paper-section__header">
+            <h2 class="pp-paper-section__title">{{ $paper.display }}</h2>
+            <span class="pp-paper-section__tag">{{ if $paper.calculator }}Calculator{{ else }}Non-calculator{{ end }}</span>
+          </div>
+          <div class="pp-year-list">
+            <div class="pp-year-list__head" aria-hidden="true">
+              <span></span>
+              <span>Question Paper</span>
+              <span>Mark Scheme</span>
+            </div>
+            {{ range $data.years }}
+            {{ $year := .year }}
+            {{ range .series }}
+            {{ $slug := .slug }}
+            {{ $name := .name }}
+            <div class="pp-year-row">
+              <span class="pp-year-row__label">{{ $year }} {{ $name }}</span>
+              <a href="/past-papers/gcse/maths/{{ $boardSlug }}/{{ $year }}-{{ $slug }}/{{ $paper.slug }}/#question-paper" class="pp-year-row__btn pp-year-row__btn--qp">
+                Question Paper
+              </a>
+              <a href="/past-papers/gcse/maths/{{ $boardSlug }}/{{ $year }}-{{ $slug }}/{{ $paper.slug }}/#mark-scheme" class="pp-year-row__btn pp-year-row__btn--ms">
+                Mark Scheme
+              </a>
+            </div>
+            {{ end }}
+            {{ end }}
+          </div>
+        </div>
+        {{ end }}
+      </div>
+
+      <!-- Foundation Tier Papers -->
+      <div class="pp-tier-group" data-tier="foundation">
+        <div class="pp-tier-group__heading">
+          <span class="pp-tier-badge pp-tier-badge--foundation">Foundation Tier</span>
+          <span class="pp-tier-grade">Grades 1–5</span>
+        </div>
+        {{ range $data.foundation_papers }}
+        {{ $paper := . }}
+        <div class="pp-paper-section">
+          <div class="pp-paper-section__header">
+            <h2 class="pp-paper-section__title">{{ $paper.display }}</h2>
+            <span class="pp-paper-section__tag">{{ if $paper.calculator }}Calculator{{ else }}Non-calculator{{ end }}</span>
+          </div>
+          <div class="pp-year-list">
+            <div class="pp-year-list__head" aria-hidden="true">
+              <span></span>
+              <span>Question Paper</span>
+              <span>Mark Scheme</span>
+            </div>
+            {{ range $data.years }}
+            {{ $year := .year }}
+            {{ range .series }}
+            {{ $slug := .slug }}
+            {{ $name := .name }}
+            <div class="pp-year-row">
+              <span class="pp-year-row__label">{{ $year }} {{ $name }}</span>
+              <a href="/past-papers/gcse/maths/{{ $boardSlug }}/{{ $year }}-{{ $slug }}/{{ $paper.slug }}/#question-paper" class="pp-year-row__btn pp-year-row__btn--qp">
+                Question Paper
+              </a>
+              <a href="/past-papers/gcse/maths/{{ $boardSlug }}/{{ $year }}-{{ $slug }}/{{ $paper.slug }}/#mark-scheme" class="pp-year-row__btn pp-year-row__btn--ms">
+                Mark Scheme
+              </a>
+            </div>
+            {{ end }}
+            {{ end }}
+          </div>
+        </div>
+        {{ end }}
+      </div>
+
+    </main>
+
+    <aside class="pp-board-sidebar">
+
+      <div class="pp-sidebar-cta">
+        <p class="pp-sidebar-cta__eyebrow">Struggling with {{ $board }} Maths?</p>
+        <h3>Get expert GCSE Maths tutoring</h3>
+        <p>Our tutors are specialists in the {{ $board }} GCSE Maths specification — paper structure, mark scheme logic, and the topics that come up most.</p>
+        <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary">Find a tutor →</a>
+        <p class="pp-sidebar-cta__proof">GCSE Tutoring Specialists of the Year 2025 &amp; 2026</p>
+      </div>
+
+      <div class="pp-sidebar-nav">
+        <h4>Other boards</h4>
+        <ul>
+          {{ if ne $boardSlug "aqa" }}<li><a href="/past-papers/gcse/maths/aqa/">AQA GCSE Maths</a></li>{{ end }}
+          {{ if ne $boardSlug "ocr" }}<li><a href="/past-papers/gcse/maths/ocr/">OCR GCSE Maths</a></li>{{ end }}
+          {{ if ne $boardSlug "edexcel" }}<li><a href="/past-papers/gcse/maths/edexcel/">Edexcel GCSE Maths</a></li>{{ end }}
+        </ul>
+        <a href="/past-papers/gcse/maths/" class="sidebar-view-all">← All GCSE Maths boards</a>
+      </div>
+
+    </aside>
+  </div>
+</div>
+
+<section class="pp-cta-band">
+  <div class="container">
+    <div class="pp-cta-band__inner">
+      <div>
+        <p class="pp-eyebrow">Need extra support?</p>
+        <h2>Struggling with {{ $board }} GCSE Maths?</h2>
+        <p>Our GCSE Maths tutors know the {{ $board }} specification inside out — paper structure, mark scheme logic, and the topics that come up most often. Whether you need help with a particular topic or want to work through papers together, we can help.</p>
+      </div>
+      <div class="pp-cta-band__actions">
+        <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary btn-lg">Find a GCSE Maths tutor</a>
+        <a href="https://share.google/Oq5KJu7wswxBZKspk" class="btn btn-outline btn-lg" target="_blank" rel="noopener">Read Google reviews</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<p class="pp-copyright"><div class="container">Exam papers © {{ $board }}{{ if eq $board "Edexcel" }} / Pearson{{ end }}. Reproduced for educational purposes only.</div></p>
+
+<script>
+(function () {
+  var tabs = document.querySelectorAll('.pp-tier-tab');
+  var groups = document.querySelectorAll('.pp-tier-group');
+  tabs.forEach(function (tab) {
+    tab.addEventListener('click', function () {
+      var tier = this.dataset.tier;
+      tabs.forEach(function (t) {
+        t.classList.remove('pp-tier-tab--active');
+        t.setAttribute('aria-selected', 'false');
+      });
+      this.classList.add('pp-tier-tab--active');
+      this.setAttribute('aria-selected', 'true');
+      groups.forEach(function (group) {
+        group.style.display = (tier === 'all' || group.dataset.tier === tier) ? '' : 'none';
+      });
+    });
+  });
+}());
+</script>
+{{ end }}

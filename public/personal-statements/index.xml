@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Oxbridge Applications on Personal Statement Tutor | The Degree Gap</title>
-    <link>https://study.thedegreegap.com/personal-statements/</link>
-    <description>Recent content in Oxbridge Applications on Personal Statement Tutor | The Degree Gap</description>
+    <title>Oxbridge Applications on The Degree Gap | Tutoring &amp;amp; Study Resources</title>
+    <link>http://localhost:58532/personal-statements/</link>
+    <description>Recent content in Oxbridge Applications on The Degree Gap | Tutoring &amp;amp; Study Resources</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <atom:link href="https://study.thedegreegap.com/personal-statements/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:58532/personal-statements/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cambridge Personal Statement Help</title>
-      <link>https://study.thedegreegap.com/personal-statements/cambridge/</link>
+      <link>http://localhost:58532/personal-statements/cambridge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://study.thedegreegap.com/personal-statements/cambridge/</guid>
+      <guid>http://localhost:58532/personal-statements/cambridge/</guid>
       <description>&lt;p&gt;Cambridge applications share the same early UCAS deadline as Oxford, but the process is not a copy of Oxford&amp;rsquo;s. Cambridge has its own college system, its own teaching culture, its own additional application form, and a pool system that can move strong applicants between colleges.&lt;/p&gt;&#xA;&lt;p&gt;You cannot apply to Oxford and Cambridge in the same UCAS cycle, so the first decision is choosing which university and course structure suits you. Cambridge is often especially distinctive for Natural Sciences, Mathematics, Engineering, Computer Science, Economics, and other subjects where the course structure or admissions test pattern differs from Oxford.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Oxford Personal Statement Help</title>
-      <link>https://study.thedegreegap.com/personal-statements/oxford/</link>
+      <link>http://localhost:58532/personal-statements/oxford/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://study.thedegreegap.com/personal-statements/oxford/</guid>
+      <guid>http://localhost:58532/personal-statements/oxford/</guid>
       <description>&lt;p&gt;Oxford and Cambridge look similar from the outside: early deadline, college choice, admissions tests, written work for some subjects, and interviews in December. They are not identical. Oxford tends to use admissions tests heavily for shortlisting, does not have Cambridge&amp;rsquo;s My Cambridge Application form, and publishes a very structured application timeline.&lt;/p&gt;&#xA;&lt;p&gt;You also cannot apply to Oxford and Cambridge in the same UCAS cycle. So the first serious decision is not &amp;ldquo;How do I write an Oxbridge statement?&amp;rdquo; but &amp;ldquo;Which university, course, and college system suits the way I think?&amp;rdquo;&lt;/p&gt;</description>
     </item>
   </channel>

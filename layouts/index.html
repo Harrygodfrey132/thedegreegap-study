@@ -1,66 +1,142 @@
 {{ define "main" }}
-<section class="hero">
+
+<!-- Hero -->
+<section class="home-hero">
   <div class="container">
-    <div class="hero-inner">
-      <span class="hero-label">UK Personal Statement Tutoring</span>
-      <h1>Expert Help With Your Personal Statement</h1>
-      <p class="lead">One-to-one tutoring from subject specialists who know exactly what UK universities want to read. From your first draft to your final submission.</p>
-      <div class="hero-actions">
-        <a href="/personal-statement-tutor/#get-help" class="btn btn-primary btn-lg">Get help now</a>
-        <a href="/personal-statement-tutor/" class="btn btn-outline btn-lg">Browse subjects</a>
+    <div class="home-hero__inner">
+      <p class="home-hero__eyebrow">The Degree Gap · Study Resources</p>
+      <h1>Free Past Papers &amp;<br>Expert Tutoring</h1>
+      <p class="home-hero__lead">Download free GCSE past papers and mark schemes, or get one-to-one support with your university personal statement — all in one place.</p>
+      <div class="home-hero__actions">
+        <a href="/past-papers/" class="btn btn-primary btn-lg">Browse Past Papers</a>
+        <a href="/personal-statement-tutor/" class="btn btn-outline btn-lg">Personal Statement Help</a>
+      </div>
+      <div class="home-hero__proof">
+        <span><strong>GCSE Tutoring Specialists of the Year</strong> Prestige Awards 2025 &amp; 2026</span>
+        <span><strong>100+ five-star reviews</strong> on Google</span>
+        <span><strong>Free past papers</strong> — AQA, OCR &amp; Edexcel</span>
       </div>
     </div>
   </div>
 </section>
 
-<section class="section">
+<!-- Two services -->
+<div class="container">
+  <section class="home-services">
+    <a href="/past-papers/" class="home-service-card home-service-card--papers">
+      <div class="home-service-card__body">
+        <p class="home-service-card__label">Free resource</p>
+        <h2>GCSE Past Papers</h2>
+        <p>Question papers and mark schemes for Foundation and Higher tier, from 2017 to 2024. No sign-up required.</p>
+        <div class="home-service-card__boards">
+          <span>AQA</span>
+          <span>OCR</span>
+          <span>Edexcel</span>
+        </div>
+        <span class="home-service-card__cta">Browse past papers →</span>
+      </div>
+    </a>
+    <a href="/personal-statement-tutor/" class="home-service-card home-service-card--ps">
+      <div class="home-service-card__body">
+        <p class="home-service-card__label">Expert tutoring</p>
+        <h2>Personal Statement Tutoring</h2>
+        <p>One-to-one support for UK university applications — subject-specific guidance from LSE, Oxford, and Cambridge graduates.</p>
+        <div class="home-service-card__subjects">
+          <span>Medicine</span>
+          <span>Law</span>
+          <span>Economics</span>
+          <span>Engineering</span>
+          <span>+ more</span>
+        </div>
+        <span class="home-service-card__cta">Get tutoring help →</span>
+      </div>
+    </a>
+  </section>
+</div>
+
+<!-- Past Papers section -->
+<section class="home-section home-section--tint">
   <div class="container">
-    <div class="section-title">
-      <h2>What we help with</h2>
+    <div class="home-section__header">
+      <div>
+        <p class="pp-eyebrow">Free Study Resources</p>
+        <h2>GCSE Maths Past Papers</h2>
+        <p class="home-section__lead">Download question papers and mark schemes for every tier and series. Select your exam board below.</p>
+      </div>
+      <a href="/past-papers/gcse/maths/" class="btn btn-outline">View all GCSE Maths →</a>
     </div>
-    <div class="home-features">
-      <div class="feature-card">
-        <div class="feature-icon">✍️</div>
-        <h3>Personal Statement Tutoring</h3>
-        <p>Subject-specific guidance on structure, content, and what admissions tutors actually look for: for every major UCAS subject.</p>
+    <div class="home-boards-grid">
+      <a href="/past-papers/gcse/maths/aqa/" class="home-board-card">
+        <span class="home-board-card__name home-board-card__name--aqa">AQA</span>
+        <p>Papers 1, 2 &amp; 3 · Foundation &amp; Higher · 2017–2024</p>
+        <span class="home-board-card__link">Browse AQA papers →</span>
+      </a>
+      <a href="/past-papers/gcse/maths/ocr/" class="home-board-card">
+        <span class="home-board-card__name home-board-card__name--ocr">OCR</span>
+        <p>Papers 1–6 · Foundation &amp; Higher · 2017–2024</p>
+        <span class="home-board-card__link">Browse OCR papers →</span>
+      </a>
+      <a href="/past-papers/gcse/maths/edexcel/" class="home-board-card">
+        <span class="home-board-card__name home-board-card__name--edexcel">Edexcel</span>
+        <p>Papers 1, 2 &amp; 3 · Foundation &amp; Higher · 2017–2024</p>
+        <span class="home-board-card__link">Browse Edexcel papers →</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- Personal Statement section -->
+<section class="home-section">
+  <div class="container">
+    <div class="home-section__header">
+      <div>
+        <p class="pp-eyebrow">Expert Tutoring</p>
+        <h2>Personal Statement Support</h2>
+        <p class="home-section__lead">Subject-specific guidance for ambitious UK university applications. Each guide has a different angle — because Medicine and Economics need very different statements.</p>
       </div>
-      <div class="feature-card">
-        <div class="feature-icon">🎓</div>
-        <h3>Oxford Applications</h3>
-        <p>Specialist support for Oxford applicants. We understand what academic tutors look for and how your statement feeds your interview.</p>
+      <a href="/personal-statement-tutor/" class="btn btn-outline">View all subjects →</a>
+    </div>
+    <div class="home-subjects-grid">
+      <a href="/personal-statement-tutor/medicine/" class="home-subject-card">Medicine</a>
+      <a href="/personal-statement-tutor/law/" class="home-subject-card">Law</a>
+      <a href="/personal-statement-tutor/economics/" class="home-subject-card">Economics</a>
+      <a href="/personal-statement-tutor/computer-science/" class="home-subject-card">Computer Science</a>
+      <a href="/personal-statement-tutor/engineering/" class="home-subject-card">Engineering</a>
+      <a href="/personal-statement-tutor/psychology/" class="home-subject-card">Psychology</a>
+      <a href="/personal-statement-tutor/history/" class="home-subject-card">History</a>
+      <a href="/personal-statement-tutor/mathematics/" class="home-subject-card">Mathematics</a>
+      <a href="/personal-statement-tutor/english-literature/" class="home-subject-card">English Literature</a>
+      <a href="/personal-statement-tutor/natural-sciences/" class="home-subject-card">Natural Sciences</a>
+      <a href="/personal-statements/oxford/" class="home-subject-card home-subject-card--special">Oxford</a>
+      <a href="/personal-statements/cambridge/" class="home-subject-card home-subject-card--special">Cambridge</a>
+    </div>
+  </div>
+</section>
+
+<!-- Social proof -->
+<section class="home-section home-section--tint home-proof-section">
+  <div class="container">
+    <div class="home-proof-grid">
+      <div class="home-proof-stat">
+        <strong>100+</strong>
+        <span>five-star Google reviews</span>
       </div>
-      <div class="feature-card">
-        <div class="feature-icon">📐</div>
-        <h3>Cambridge Applications</h3>
-        <p>Cambridge-specific guidance on personal statements, admissions tests, and the supervision culture that shapes what tutors want to see.</p>
+      <div class="home-proof-stat">
+        <strong>2025 &amp; 2026</strong>
+        <span>GCSE Tutoring Specialists of the Year — Prestige Awards</span>
+      </div>
+      <div class="home-proof-stat">
+        <strong>LSE, Oxford &amp; Cambridge</strong>
+        <span>graduates leading your tutoring</span>
+      </div>
+      <div class="home-proof-stat home-proof-stat--cta">
+        <a href="https://share.google/Oq5KJu7wswxBZKspk" class="btn btn-primary" target="_blank" rel="noopener">Read our reviews</a>
       </div>
     </div>
   </div>
 </section>
 
-<section class="section section-alt">
-  <div class="container">
-    <div class="section-title">
-      <h2>Browse by subject</h2>
-      <p>Find tailored advice and tutoring for your specific course.</p>
-    </div>
-    <div class="oxbridge-cards oxbridge-cards--three">
-      <a href="/personal-statement-tutor/" class="oxbridge-card">
-        <h3>All Subjects →</h3>
-        <p>General personal statement tutoring for all major UCAS subjects, from Medicine and Law to History and Computer Science.</p>
-      </a>
-      <a href="/personal-statements/oxford/" class="oxbridge-card">
-        <h3>Oxford →</h3>
-        <p>Everything specific to Oxford applications: admissions tests, interview preparation, and what Oxford tutors look for.</p>
-      </a>
-      <a href="/personal-statements/cambridge/" class="oxbridge-card">
-        <h3>Cambridge →</h3>
-        <p>Cambridge-specific guidance on personal statements, the pool system, and how to stand out in a competitive field.</p>
-      </a>
-    </div>
-  </div>
-</section>
-
+<!-- Video -->
 <div class="container">
   {{ partial "video-cta.html" . }}
 </div>

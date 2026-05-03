@@ -1,19 +1,44 @@
 {{ $desc := or .Description .Site.Params.description }}
+{{ $isPastPapers := eq .Section "past-papers" }}
+{{ $isPersonalStatement := or (eq .Section "personal-statement-tutor") (eq .Section "personal-statements") }}
+
 <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | The Degree Gap{{ end }}</title>
 <meta name="description" content="{{ $desc }}">
-<meta name="author" content="Harry Godfrey">
+<meta name="author" content="The Degree Gap">
 <link rel="canonical" href="{{ .Permalink }}">
 
 <!-- Open Graph -->
 <meta property="og:title" content="{{ .Title }}">
 <meta property="og:description" content="{{ $desc }}">
 <meta property="og:url" content="{{ .Permalink }}">
-<meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+<meta property="og:type" content="{{ if or .IsHome (not .IsPage) }}website{{ else }}article{{ end }}">
 <meta property="og:site_name" content="The Degree Gap">
 <meta property="og:locale" content="en_GB">
-{{ if not .IsHome }}<meta property="article:author" content="Harry Godfrey">{{ end }}
+{{ if and (not .IsHome) $isPersonalStatement }}<meta property="article:author" content="Harry Godfrey">{{ end }}
 
+<!-- Page Schema -->
 {{ if not .IsHome }}
+{{ if $isPastPapers }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "{{ if .IsSection }}CollectionPage{{ else }}WebPage{{ end }}",
+  "name": "{{ .Title }}",
+  "description": "{{ $desc }}",
+  "url": "{{ .Permalink }}",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "The Degree Gap",
+    "url": "{{ .Site.BaseURL }}"
+  },
+  "provider": {
+    "@type": "Organization",
+    "name": "The Degree Gap",
+    "url": "{{ .Site.Params.mainSiteURL }}"
+  }
+}
+</script>
+{{ else if $isPersonalStatement }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -38,8 +63,9 @@
 }
 </script>
 {{ end }}
+{{ end }}
 
-<!-- Breadcrumb structured data -->
+<!-- BreadcrumbList (used by Google Search — not shown visually on page) -->
 {{ if not .IsHome }}
 <script type="application/ld+json">
 {
@@ -56,14 +82,14 @@
     {
       "@type": "ListItem",
       "position": {{ add $i 2 }},
-      "name": "{{ $a.Title }}",
+      "name": "{{ $a.Params.nav_title | default $a.Title }}",
       "item": "{{ $a.Permalink }}"
     }
     {{ end }},
     {
       "@type": "ListItem",
       "position": {{ add (len .Ancestors) 2 }},
-      "name": "{{ .Title }}",
+      "name": "{{ .Params.nav_title | default .Title }}",
       "item": "{{ .Permalink }}"
     }
   ]
