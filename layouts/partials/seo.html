@@ -1,6 +1,7 @@
 {{ $desc := or .Description .Site.Params.description }}
 {{ $isPastPapers := eq .Section "past-papers" }}
 {{ $isPersonalStatement := or (eq .Section "personal-statement-tutor") (eq .Section "personal-statements") }}
+{{ $ogImage := or .Params.image (printf "%s%s" .Site.BaseURL "images/harry-godfrey.jpg") }}
 
 <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | The Degree Gap{{ end }}</title>
 <meta name="description" content="{{ $desc }}">
@@ -14,11 +15,21 @@
 <meta property="og:type" content="{{ if or .IsHome (not .IsPage) }}website{{ else }}article{{ end }}">
 <meta property="og:site_name" content="The Degree Gap">
 <meta property="og:locale" content="en_GB">
+<meta property="og:image" content="{{ $ogImage }}">
 {{ if and (not .IsHome) $isPersonalStatement }}<meta property="article:author" content="Harry Godfrey">{{ end }}
 
 <!-- Page Schema -->
-{{ if not .IsHome }}
-{{ if $isPastPapers }}
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ .Site.Title }}",
+  "description": "{{ $desc }}",
+  "url": "{{ .Site.BaseURL }}"
+}
+</script>
+{{ else if $isPastPapers }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -45,24 +56,20 @@
   "@type": "Article",
   "headline": "{{ .Title }}",
   "description": "{{ $desc }}",
+  "url": "{{ .Permalink }}",
+  {{ with .Date }}"datePublished": "{{ .Format "2006-01-02" }}",{{ end }}
+  {{ with .Lastmod }}"dateModified": "{{ .Format "2006-01-02" }}",{{ end }}
   "author": {
     "@type": "Person",
     "name": "Harry Godfrey"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "The Degree Gap"
-  },
-  "mainEntity": {
-    "@type": "VideoObject",
-    "name": "University Help webinar by Harry Godfrey",
-    "description": "Harry Godfrey, co-founder of The Degree Gap, shares practical advice for applying to top UK universities and preparing stronger personal statements.",
-    "embedUrl": "https://www.youtube-nocookie.com/embed/GG-UeN156l4",
-    "url": "https://youtu.be/GG-UeN156l4"
+    "name": "The Degree Gap",
+    "url": "{{ .Site.Params.mainSiteURL }}"
   }
 }
 </script>
-{{ end }}
 {{ end }}
 
 <!-- BreadcrumbList (used by Google Search — not shown visually on page) -->

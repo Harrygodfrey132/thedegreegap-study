@@ -1,6 +1,7 @@
 baseURL = "https://study.thedegreegap.com/"
 languageCode = "en-gb"
 title = "The Degree Gap | Tutoring &amp; Study Resources"
+disableKinds = ["taxonomy", "term"]
 
 [params]
   formspreeEndpoint = "https://formspree.io/f/mvgonabg"
