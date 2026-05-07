@@ -8,7 +8,7 @@ The location to build is: **$ARGUMENTS**
 
 When given a location name, produce a complete Hugo `_index.md` file saved to `content/locations/{location-slug}-tutors/_index.md` using the frontmatter format defined below, then create the directory if needed.
 
-**Page URL pattern:** `/{Location}-Tutors` (e.g. `/Cambridge-Tutors`, `/Bromley-Tutors`)
+**Page URL pattern:** `locations/{Location}-Tutors` (e.g. `/Cambridge-Tutors`, `/Bromley-Tutors`)
 
 ---
 
@@ -99,6 +99,7 @@ sitemap:
 
 The file body should be empty after the closing `---`. All content is driven by frontmatter fields.
 
+No em dash in the output please
 ---
 
 ## Section Guidance
@@ -140,9 +141,11 @@ This is hardcoded into the Hugo template — do not include it in the frontmatte
 
 ### Academic Subjects (SEMI-FIXED)
 
+Meniton that we cover all GCSE & A-level subjects
+
 **GCSE — exactly 9 subjects:** Maths, English, Biology, Chemistry, Physics, Business, Computer Science, Economics, French. Write a fresh one-line description for each — different wording from any previous page.
 
-**A Level — exactly 19 subjects:** Biology, Business, Chemistry, Computer Science, Economics, English, Further Maths, French, Geography, German, History, Maths, Law, Philosophy, Physics, Politics, Psychology, Sociology, Spanish. Fresh one-line description for each.
+**A Level :** Biology, Business, Chemistry, Computer Science, Economics, English, Further Maths, French, Geography, German, History, Maths, Law, Philosophy, Physics, Politics, Psychology, Sociology, Spanish. Fresh one-line description for each.
 
 Subject description variety examples (do not reuse any of these):
 - Maths: "From algebra fundamentals to advanced problem-solving — structured support that builds real mathematical confidence."
