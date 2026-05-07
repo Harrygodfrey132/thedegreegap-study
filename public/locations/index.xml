@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutors Near You | The Degree Gap on The Degree Gap | Tutoring &amp;amp; Study Resources</title>
-    <link>https://study.thedegreegap.com/locations/</link>
+    <link>http://localhost:64464/locations/</link>
     <description>Recent content in Tutors Near You | The Degree Gap on The Degree Gap | Tutoring &amp;amp; Study Resources</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <atom:link href="https://study.thedegreegap.com/locations/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:64464/locations/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

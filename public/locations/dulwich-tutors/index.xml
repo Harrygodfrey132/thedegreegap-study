@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GCSE &amp; A-Level Tutors in Dulwich | The Degree Gap on The Degree Gap | Tutoring &amp;amp; Study Resources</title>
-    <link>https://study.thedegreegap.com/locations/dulwich-tutors/</link>
+    <link>http://localhost:64464/locations/dulwich-tutors/</link>
     <description>Recent content in GCSE &amp; A-Level Tutors in Dulwich | The Degree Gap on The Degree Gap | Tutoring &amp;amp; Study Resources</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <atom:link href="https://study.thedegreegap.com/locations/dulwich-tutors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:64464/locations/dulwich-tutors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
