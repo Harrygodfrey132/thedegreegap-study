@@ -1,5 +1,27 @@
 {{ define "main" }}
+{{/*
+Location tutor page content contract:
+- Per page: banner_heading, banner_lead, schools_intro, schools, area_links, FAQ copy when ready.
+- Semi-unique: intro_1, intro_2, online_heading, online_1, online_2, subject_cards descriptions.
+- Fixed: Why choose us, subject layout, reviews, contact form, overall page structure.
+*/}}
 {{ $loc := .Params.location | default "Your Area" }}
+{{ $schools := .Params.schools | default (slice "Whitgift School" "Trinity School" "Old Palace of John Whitgift School" "Croydon High School" "Archbishop Tenison's CE High School") }}
+{{ $areaLinks := .Params.area_links | default (slice "Croydon Tutors|/locations/croydon-tutors/" "Purley Tutors|/locations/purley-tutors/" "Addington Tutors|/locations/addington-tutors/" "Mitcham Tutors|/locations/mitcham-tutors/" "Bromley Tutors|/locations/bromley-tutors/" "Thornton Heath Tutors|/locations/thornton-heath-tutors/" "Tooting Tutors|/locations/tooting-tutors/" "Balham Tutors|/locations/balham-tutors/" "Streatham Tutors|/locations/streatham-tutors/") }}
+{{ $bannerHeading := .Params.banner_heading | default "Struggling to Achieve the Grades You Want?" }}
+{{ $bannerLead := .Params.banner_description | default (.Params.banner_lead | default "Connect with top tutors from prestigious universities and start improving today.") }}
+{{ $intro1 := .Params.intro_1 | default "We founded The Degree Gap because we saw how overwhelming education can be for families. Students are asked to make life-shaping choices, face intense exam pressure, and navigate competitive university applications, often without clear guidance." }}
+{{ $intro2 := .Params.intro_2 | default (printf "That's why we work directly with schools and families in %s, delivering personalised sessions on revision strategies, exam preparation, and subject mastery." $loc) }}
+{{ $onlineHeading := .Params.online_heading | default (printf "How Online Tuition Can Support Students in %s" $loc) }}
+{{ $online1 := .Params.online_1 | default "Online sessions remove the commute and let students learn in a focused environment at home, with the same quality of support as in-person." }}
+{{ $online2 := .Params.online_2 | default "Screen-sharing, shared whiteboards, and digital resources make working through problems together seamless." }}
+{{ $schoolsIntro := .Params.schools_intro | default "We support students from a wide range of local schools, matching each family with a tutor who understands the academic standard expected." }}
+{{ $areasIntro := .Params.areas_intro | default (printf "Our tutors support students in %s and nearby areas, typically covering families within roughly a five-mile radius where tutor availability allows. We focus on clear guidance, consistent support, and helping students make steady academic progress with confidence." $loc) }}
+{{ $subjectCards := .Params.subject_cards | default (slice "GCSE Maths Tutoring|Build confidence with numbers, algebra, geometry, and statistics through targeted GCSE Maths sessions tailored to your exam board." "GCSE English Tutoring|Improve your reading, writing, and analysis skills across English Language and English Literature with expert guidance." "GCSE Science Tutoring|Boost your grades in all Science subjects with a tutor who can cover Biology, Chemistry, and Physics." "GCSE History Tutoring|Master source analysis, essay technique, and content recall across all GCSE History topics and exam boards." "GCSE Geography Tutoring|Boost your GCSE Geography grade with targeted academic support across physical and human geography topics." "GCSE Language Tutoring|Boost confidence in reading, writing, listening, and speaking with structured GCSE language tutoring." "A-Level Maths Tutoring|Work through pure maths, mechanics, and statistics with a tutor who knows exactly where marks are won and lost at A-Level." "A-Level Biology Tutoring|Develop a deeper understanding of cells, genetics, ecology, and physiology with structured A-Level Biology support." "A-Level Chemistry Tutoring|Master organic, inorganic, and physical chemistry with a tutor who can make complex concepts clear and memorable." "A-Level Economics Tutoring|Sharpen your micro and macroeconomics analysis with an expert tutor who can show you how to write high-scoring evaluation answers." "A-Level History Tutoring|Build strong essay-writing skills and source analysis techniques to hit the top mark bands in A-Level History." "A-Level Psychology Tutoring|Understand research methods, theories, and evaluation points across all A-Level Psychology topics with focused one-to-one sessions." "11+ Preparation|Give your child the best possible start with structured 11+ tutoring covering verbal reasoning, non-verbal reasoning, maths, and English." "University Personal Statement|Get expert one-to-one support on your UCAS personal statement from tutors who studied at Oxford, Cambridge, LSE, and UCL." "Common Entrance Preparation|Targeted support across all Common Entrance subjects to help your child earn a place at their chosen independent school.") }}
+{{ $gcseSubjectCards := .Params.gcse_subjects | default (first 6 $subjectCards) }}
+{{ $alevelSubjectCards := .Params.alevel_subjects | default (after 6 (first 12 $subjectCards)) }}
+{{ $otherSubjectCards := .Params.other_subjects | default (after 12 $subjectCards) }}
+{{ $hasFaq := or .Params.faq_1_q .Params.faq_2_q .Params.faq_3_q .Params.faq_4_q }}
 
 <!-- =============================================
      SECTION 1: HERO
@@ -9,11 +31,11 @@
     <div class="loc-hero__inner">
       <div class="loc-hero__copy">
         <span class="loc-hero__badge">WINNER — GCSE SPECIALISTS OF THE YEAR 2025</span>
-        <h1>Struggling to Achieve the<br>Grades You Want?</h1>
-        <p class="loc-hero__lead">Connect with top tutors from prestigious universities and start improving today.</p>
+        <h1>{{ $bannerHeading }}</h1>
+        <p class="loc-hero__lead">{{ $bannerLead }}</p>
         <div class="loc-hero__actions">
           <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary btn-lg">Find Your Tutor</a>
-          <a href="https://g.page/r/CRDCjgOtEjNsEAE/review" target="_blank" rel="noopener" class="btn btn-outline btn-lg">Leave a Review</a>
+          <a href="#get-help" class="btn btn-outline btn-lg">Contact Us</a>
         </div>
         <div class="loc-hero__rating">
           <div class="loc-hero__google">
@@ -57,8 +79,8 @@
       <div class="loc-about__copy">
         <p class="loc-eyebrow">TRUSTED BY SCHOOLS &amp; PARENTS</p>
         <h2>Leading GCSE and A-Level Tutors in {{ $loc }}</h2>
-        <p>We founded The Degree Gap because we saw how overwhelming education can be for families. Students are asked to make life-shaping choices, face intense exam pressure, and navigate competitive university applications, often without clear guidance.</p>
-        <p>That's why we work directly with schools and families in {{ $loc }}, delivering personalised sessions on revision strategies, exam preparation, and subject mastery.</p>
+        <p>{{ $intro1 }}</p>
+        <p>{{ $intro2 }}</p>
 
         <div class="loc-accordion">
           <details class="loc-accordion__item" open>
@@ -112,21 +134,17 @@
       </div>
       <div class="loc-why__copy">
         <p class="loc-eyebrow">WHY CHOOSE US</p>
-        <h2>Expert tutoring tailored for {{ $loc }} students</h2>
-        <p>We founded The Degree Gap because we saw how overwhelming education can be for families. Students are asked to make life-shaping choices, face intense exam pressure, and navigate competitive university applications, often without clear guidance.</p>
+        <h2>Expert tutoring tailored to each student</h2>
+        <p>The Degree Gap helps families find tutors who combine strong subject knowledge with calm, practical teaching. Every introduction is based on the student's current level, confidence, goals, exam board, and preferred way of learning.</p>
         <ul class="loc-why__bullets">
-          <li>Attention to Detail</li>
-          <li>High Quality Standards</li>
-          <li>High Quality Standards</li>
-          <li>Attention to Detail</li>
-          <li>Attention to Detail</li>
-          <li>High Quality Standards</li>
-          <li>High Quality Standards</li>
-          <li>Attention to Detail</li>
-          <li>Attention to Detail</li>
-          <li>High Quality Standards</li>
-          <li>Attention to Detail</li>
-          <li>Attention to Detail</li>
+          <li>Personally matched tutors</li>
+          <li>Experienced GCSE and A-Level support</li>
+          <li>Strong exam board knowledge</li>
+          <li>Clear explanations and structured practice</li>
+          <li>Flexible online tuition</li>
+          <li>Support for confidence and study habits</li>
+          <li>Regular feedback and visible progress</li>
+          <li>Founded by Oxford and LSE graduates</li>
         </ul>
       </div>
     </div>
@@ -149,106 +167,43 @@
 
     <div class="loc-subjects__panel" id="tab-gcse">
       <ol class="loc-subject-list">
+        {{ range $index, $card := $gcseSubjectCards }}
+        {{ $parts := split $card "|" }}
         <li class="loc-subject-item">
-          <span class="loc-subject-num">01.</span>
-          <span class="loc-subject-name">GCSE Maths Tutoring</span>
-          <p class="loc-subject-desc">Build confidence with numbers, algebra, geometry, and statistics through targeted GCSE Maths sessions tailored to your exam board.</p>
-          <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary">Find a Maths Tutor</a>
+          <span class="loc-subject-num">{{ printf "%02d." (add $index 1) }}</span>
+          <span class="loc-subject-name">{{ index $parts 0 }}</span>
+          <p class="loc-subject-desc">{{ index $parts 1 }}</p>
+          <a href="{{ $.Site.Params.mainSiteURL }}/teachers" class="btn btn-primary">Find a Tutor</a>
         </li>
-        <li class="loc-subject-item">
-          <span class="loc-subject-num">02.</span>
-          <span class="loc-subject-name">GCSE English Tutoring</span>
-          <p class="loc-subject-desc">Improve your reading, writing, and analysis skills across English Language and English Literature with expert guidance.</p>
-          <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary">Find an English Tutor</a>
-        </li>
-        <li class="loc-subject-item">
-          <span class="loc-subject-num">03.</span>
-          <span class="loc-subject-name">GCSE Science Tutoring</span>
-          <p class="loc-subject-desc">Boost your grades in all Science subjects with a tutor who can cover all of the Sciences in one session.</p>
-          <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary">Find a Science Tutor</a>
-        </li>
-        <li class="loc-subject-item">
-          <span class="loc-subject-num">04.</span>
-          <span class="loc-subject-name">GCSE History Tutoring</span>
-          <p class="loc-subject-desc">Master source analysis, essay technique, and content recall across all GCSE History topics and exam boards.</p>
-          <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary">Find a History Tutor</a>
-        </li>
-        <li class="loc-subject-item">
-          <span class="loc-subject-num">05.</span>
-          <span class="loc-subject-name">GCSE Geography Tutoring</span>
-          <p class="loc-subject-desc">Boost your GCSE Geography grade with targeted academic support across physical and human geography topics.</p>
-          <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary">Find a Geography Tutor</a>
-        </li>
-        <li class="loc-subject-item">
-          <span class="loc-subject-num">06.</span>
-          <span class="loc-subject-name">GCSE Spanish Tutoring</span>
-          <p class="loc-subject-desc">Boost your confidence in reading, writing, listening, and speaking with structured GCSE Spanish tutoring tailored to the exam board.</p>
-          <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary">Find a Spanish Tutor</a>
-        </li>
+        {{ end }}
       </ol>
     </div>
 
     <div class="loc-subjects__panel loc-subjects__panel--hidden" id="tab-alevel">
       <ol class="loc-subject-list">
+        {{ range $index, $card := $alevelSubjectCards }}
+        {{ $parts := split $card "|" }}
         <li class="loc-subject-item">
-          <span class="loc-subject-num">01.</span>
-          <span class="loc-subject-name">A-Level Maths Tutoring</span>
-          <p class="loc-subject-desc">Work through pure maths, mechanics, and statistics with a tutor who knows exactly where marks are won and lost at A-Level.</p>
-          <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary">Find a Maths Tutor</a>
+          <span class="loc-subject-num">{{ printf "%02d." (add $index 1) }}</span>
+          <span class="loc-subject-name">{{ index $parts 0 }}</span>
+          <p class="loc-subject-desc">{{ index $parts 1 }}</p>
+          <a href="{{ $.Site.Params.mainSiteURL }}/teachers" class="btn btn-primary">Find a Tutor</a>
         </li>
-        <li class="loc-subject-item">
-          <span class="loc-subject-num">02.</span>
-          <span class="loc-subject-name">A-Level Biology Tutoring</span>
-          <p class="loc-subject-desc">Develop a deeper understanding of cells, genetics, ecology, and physiology with structured A-Level Biology support.</p>
-          <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary">Find a Biology Tutor</a>
-        </li>
-        <li class="loc-subject-item">
-          <span class="loc-subject-num">03.</span>
-          <span class="loc-subject-name">A-Level Chemistry Tutoring</span>
-          <p class="loc-subject-desc">Master organic, inorganic, and physical chemistry with a tutor who can make complex concepts clear and memorable.</p>
-          <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary">Find a Chemistry Tutor</a>
-        </li>
-        <li class="loc-subject-item">
-          <span class="loc-subject-num">04.</span>
-          <span class="loc-subject-name">A-Level Economics Tutoring</span>
-          <p class="loc-subject-desc">Sharpen your micro and macroeconomics analysis with an expert tutor who can show you how to write high-scoring evaluation answers.</p>
-          <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary">Find an Economics Tutor</a>
-        </li>
-        <li class="loc-subject-item">
-          <span class="loc-subject-num">05.</span>
-          <span class="loc-subject-name">A-Level History Tutoring</span>
-          <p class="loc-subject-desc">Build strong essay-writing skills and source analysis techniques to hit the top mark bands in A-Level History.</p>
-          <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary">Find a History Tutor</a>
-        </li>
-        <li class="loc-subject-item">
-          <span class="loc-subject-num">06.</span>
-          <span class="loc-subject-name">A-Level Psychology Tutoring</span>
-          <p class="loc-subject-desc">Understand research methods, theories, and evaluation points across all A-Level Psychology topics with focused one-to-one sessions.</p>
-          <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary">Find a Psychology Tutor</a>
-        </li>
+        {{ end }}
       </ol>
     </div>
 
     <div class="loc-subjects__panel loc-subjects__panel--hidden" id="tab-other">
       <ol class="loc-subject-list">
+        {{ range $index, $card := $otherSubjectCards }}
+        {{ $parts := split $card "|" }}
         <li class="loc-subject-item">
-          <span class="loc-subject-num">01.</span>
-          <span class="loc-subject-name">11+ Preparation</span>
-          <p class="loc-subject-desc">Give your child the best possible start with structured 11+ tutoring covering verbal reasoning, non-verbal reasoning, maths, and English.</p>
-          <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary">Find an 11+ Tutor</a>
+          <span class="loc-subject-num">{{ printf "%02d." (add $index 1) }}</span>
+          <span class="loc-subject-name">{{ index $parts 0 }}</span>
+          <p class="loc-subject-desc">{{ index $parts 1 }}</p>
+          <a href="{{ $.Site.Params.mainSiteURL }}/teachers" class="btn btn-primary">Find a Tutor</a>
         </li>
-        <li class="loc-subject-item">
-          <span class="loc-subject-num">02.</span>
-          <span class="loc-subject-name">University Personal Statement</span>
-          <p class="loc-subject-desc">Get expert one-to-one support on your UCAS personal statement from tutors who studied at Oxford, Cambridge, LSE, and UCL.</p>
-          <a href="/personal-statement-tutor/" class="btn btn-primary">Find a PS Tutor</a>
-        </li>
-        <li class="loc-subject-item">
-          <span class="loc-subject-num">03.</span>
-          <span class="loc-subject-name">Common Entrance Preparation</span>
-          <p class="loc-subject-desc">Targeted support across all Common Entrance subjects to help your child earn a place at their chosen independent school.</p>
-          <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary">Find a CE Tutor</a>
-        </li>
+        {{ end }}
       </ol>
     </div>
   </div>
@@ -264,7 +219,7 @@
         <div class="loc-schools__copy">
           <p class="loc-eyebrow">TRUSTED BY SCHOOLS</p>
           <h2>Tutoring {{ $loc }} school students</h2>
-          <p>We founded The Degree Gap because we saw how overwhelming education can be for families. Students are asked to make life-shaping choices, face intense exam pressure, and navigate competitive university applications, often without clear guidance.</p>
+          <p>{{ $schoolsIntro }}</p>
           <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary">Learn More</a>
         </div>
         <div class="loc-schools__img-right">
@@ -285,41 +240,15 @@
     </div>
     <div class="loc-schools__list">
       <ul>
+        {{ range $schools }}
         <li>
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20,6 9,17 4,12"/></svg>
           <div>
-            <strong>Whitgift School</strong>
-            <span>Haling Park, South Croydon CR2 6YT</span>
+            <strong>{{ . }}</strong>
+            <span>{{ $loc }} area</span>
           </div>
         </li>
-        <li>
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20,6 9,17 4,12"/></svg>
-          <div>
-            <strong>Trinity School</strong>
-            <span>Shirley Park, Croydon CR9 7AT</span>
-          </div>
-        </li>
-        <li>
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20,6 9,17 4,12"/></svg>
-          <div>
-            <strong>Old Palace of John Whitgift School</strong>
-            <span>Old Palace Road, Croydon CR0 1AX</span>
-          </div>
-        </li>
-        <li>
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20,6 9,17 4,12"/></svg>
-          <div>
-            <strong>Croydon High School</strong>
-            <span>Old Farleigh Road, South Croydon CR2 8YB</span>
-          </div>
-        </li>
-        <li>
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20,6 9,17 4,12"/></svg>
-          <div>
-            <strong>Archbishop Tenison's CE High School</strong>
-            <span>Selborne Road, Croydon CR0 5JQ</span>
-          </div>
-        </li>
+        {{ end }}
       </ul>
       <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="loc-schools__link">Find a tutor near you <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14m-7-7 7 7-7 7"/></svg></a>
     </div>
@@ -339,9 +268,9 @@
         </div>
       </div>
       <div class="loc-online__copy">
-        <h2>How Online Tuition Can Support Students in {{ $loc }}</h2>
-        <p>We founded The Degree Gap because we saw how overwhelming education can be for families. Students are asked to make life-shaping choices, face intense exam pressure, and navigate competitive university applications.</p>
-        <p>Online sessions remove the commute and let students learn in a focused environment at home, with the same quality of support as in-person — often better, because screen-sharing makes working through problems together seamless.</p>
+        <h2>{{ $onlineHeading }}</h2>
+        <p>{{ $online1 }}</p>
+        <p>{{ $online2 }}</p>
         <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary">Learn More</a>
       </div>
     </div>
@@ -355,17 +284,14 @@
   <div class="container">
     <p class="loc-eyebrow loc-eyebrow--center">AREAS WE COVER</p>
     <h2 class="loc-areas__title">Trusted Tutors in Your Area</h2>
-    <p class="loc-areas__lead">Our tutors support students across the surrounding areas with personalised lessons tailored to their needs, goals, and level of study. We focus on clear guidance, consistent support, and helping students make steady academic progress with confidence.</p>
+    <p class="loc-areas__lead">{{ $areasIntro }}</p>
     <div class="loc-areas__grid">
-      <a href="/locations/croydon-tutors/" class="loc-area-card">Croydon Tutors</a>
-      <a href="/locations/purley/" class="loc-area-card">Purley Tutors</a>
-      <a href="/locations/addington/" class="loc-area-card">Addington Tutors</a>
-      <a href="/locations/mitcham/" class="loc-area-card">Mitcham Tutors</a>
-      <a href="/locations/bromley/" class="loc-area-card">Bromley Tutors</a>
-      <a href="/locations/thornton-heath/" class="loc-area-card">Thornton Heath Tutors</a>
-      <a href="/locations/tooting/" class="loc-area-card">Tooting Tutors</a>
-      <a href="/locations/balham/" class="loc-area-card">Balham Tutors</a>
-      <a href="/locations/streatham/" class="loc-area-card">Streatham Tutors</a>
+      {{ range $areaLinks }}
+        {{ $parts := split . "|" }}
+        {{ $name := index $parts 0 }}
+        {{ $href := index $parts 1 }}
+        <a href="{{ $href }}" class="loc-area-card">{{ $name }}</a>
+      {{ end }}
     </div>
   </div>
 </section>
@@ -379,7 +305,7 @@
       <div class="loc-contact-faq__form-bg" aria-hidden="true"></div>
       <div class="loc-contact-faq__form-card">
         <h2>Get In Touch With Us</h2>
-        <p>We founded The Degree Gap because we saw how overwhelming education can be for families.</p>
+        <p>Looking for a tutor in {{ $loc }}? Tell us what support the student needs and we will help you find a suitable tutor for their subject, level, goals, and schedule.</p>
         <form action="{{ .Site.Params.formspreeEndpoint }}" method="POST" novalidate>
           <input type="hidden" name="_subject" value="New enquiry from {{ $loc }} location page | The Degree Gap Study">
           <input type="hidden" name="page_url" value="{{ .RelPermalink }}">
@@ -401,56 +327,49 @@
       </div>
     </div>
 
+    {{ if $hasFaq }}
     <div class="loc-faq">
       <h2>Frequently Asked Questions (FAQs)</h2>
       <div class="loc-accordion loc-accordion--faq">
         <details class="loc-accordion__item">
           <summary class="loc-accordion__trigger">
-            <span>Get to know The Degree Gap?</span>
+            <span>{{ .Params.faq_1_q | default "How do I find a tutor near me?" }}</span>
             <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
           </summary>
           <div class="loc-accordion__body">
-            <p>The Degree Gap is a tutoring company founded by Oxford and LSE graduates. We provide one-to-one GCSE and A-Level tutoring across South London and Surrey, with a focus on academic results and student confidence.</p>
+            <p>{{ .Params.faq_1_a | default "Tell us what support the student needs and we will recommend a vetted tutor who fits the subject, level, exam board, and learning style." }}</p>
           </div>
         </details>
         <details class="loc-accordion__item">
           <summary class="loc-accordion__trigger">
-            <span>Who are your tutors</span>
+            <span>{{ .Params.faq_2_q | default "Who are your tutors?" }}</span>
             <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
           </summary>
           <div class="loc-accordion__body">
-            <p>All our tutors are graduates from the UK's most prestigious universities — including Oxford, Cambridge, LSE, Imperial, and UCL. Every tutor is DBS-checked, personally interviewed, and trained before their first session.</p>
+            <p>{{ .Params.faq_2_a | default "Our tutors are experienced independent professionals, many of whom studied at top UK universities and have strong subject-specific teaching experience." }}</p>
           </div>
         </details>
         <details class="loc-accordion__item">
           <summary class="loc-accordion__trigger">
-            <span>What subjects do you cover?</span>
+            <span>{{ .Params.faq_3_q | default "What subjects do you cover?" }}</span>
             <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
           </summary>
           <div class="loc-accordion__body">
-            <p>We cover all major GCSE and A-Level subjects including Maths, English, Science (Biology, Chemistry, Physics), History, Geography, Economics, Psychology, Spanish, French, and more. We also offer 11+ preparation and university personal statement tutoring.</p>
+            <p>{{ .Params.faq_3_a | default "We cover all major GCSE and A-Level subjects including Maths, English, Biology, Chemistry, Physics, History, Geography, Economics, Psychology, Spanish, French, and more." }}</p>
           </div>
         </details>
         <details class="loc-accordion__item">
           <summary class="loc-accordion__trigger">
-            <span>How does payment work?</span>
+            <span>{{ .Params.faq_4_q | default "How quickly can tuition start?" }}</span>
             <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
           </summary>
           <div class="loc-accordion__body">
-            <p>Sessions are booked and paid for through our secure platform. We offer flexible packages and there is no long-term commitment. You can book individual sessions or bundles at a discounted rate.</p>
-          </div>
-        </details>
-        <details class="loc-accordion__item">
-          <summary class="loc-accordion__trigger">
-            <span>Do you tutor outside of the UK?</span>
-            <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
-          </summary>
-          <div class="loc-accordion__body">
-            <p>Yes. All our sessions are available online via video call, so we work with students anywhere in the world. We have supported students across Europe, the Middle East, and Asia who are following UK curricula.</p>
+            <p>{{ .Params.faq_4_a | default "Timings depend on the student's needs and tutor availability, but we aim to make suitable introductions quickly once we understand the goal and schedule." }}</p>
           </div>
         </details>
       </div>
     </div>
+    {{ end }}
   </div>
 </section>
 

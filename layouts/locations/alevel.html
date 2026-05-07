@@ -1,5 +1,12 @@
 {{ define "main" }}
 {{ $loc := .Params.location | default "Your Area" }}
+{{ $schools := .Params.schools | default (slice "Whitgift School" "Trinity School" "Old Palace of John Whitgift School" "Croydon High School" "Archbishop Tenison's CE High School" "Wallington County Grammar School") }}
+{{ $areaLinks := .Params.area_links | default (slice "Croydon Tutors|/locations/croydon-tutors/" "Purley Tutors|/locations/purley-tutors/" "Addington Tutors|/locations/addington-tutors/" "Mitcham Tutors|/locations/mitcham-tutors/" "Bromley Tutors|/locations/bromley-tutors/" "Thornton Heath Tutors|/locations/thornton-heath-tutors/" "Tooting Tutors|/locations/tooting-tutors/" "Balham Tutors|/locations/balham-tutors/" "Streatham Tutors|/locations/streatham-tutors/") }}
+{{ $bannerHeading := .Params.banner_heading | default "Struggling to Achieve the Grades You Want?" }}
+{{ $bannerLead := .Params.banner_lead | default (printf "We'll connect you with an expert GCSE or A-Level tutor covering the %s area who can help your child build confidence, master their subjects, and achieve the results they're capable of." $loc) }}
+{{ $onlineHeading := .Params.online_heading | default (printf "How Online Tuition Can Support Students in the %s Area" $loc) }}
+{{ $online1 := .Params.online_1 | default "Whether your child is preparing for GCSEs or pushing for top A-Level grades, consistent one-to-one support makes a real difference." }}
+{{ $online2 := .Params.online_2 | default "Sessions are fully interactive, using shared whiteboards, real-time problem solving, and digital resources." }}
 
 <!-- =============================================
      SECTION 1: HERO
@@ -9,8 +16,8 @@
     <div class="loc-hero__inner">
       <div class="loc-hero__copy">
         <span class="loc-hero__badge">WINNER — GCSE SPECIALISTS OF THE YEAR 2025</span>
-        <h1>Struggling to Achieve the<br>Grades You Want?</h1>
-        <p class="loc-hero__lead">We'll connect you with an expert GCSE or A-Level tutor covering the {{ $loc }} area who can help your child build confidence, master their subjects, and achieve the results they're capable of. Whether they're working towards their GCSEs or pushing for top A-Level grades, we'll introduce you to the right tutor for their needs and goals.</p>
+        <h1>{{ $bannerHeading }}</h1>
+        <p class="loc-hero__lead">{{ $bannerLead }}</p>
         <div class="loc-hero__actions">
           <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary btn-lg">Find Your Tutor</a>
           <a href="#get-help" class="btn btn-outline btn-lg">Contact Us</a>
@@ -317,12 +324,9 @@
         <h2>Tutors Who Can Help Students From Leading Schools</h2>
         <p>The tutors in our network can help students from a wide range of schools across the {{ $loc }} area, including some of the most academically demanding institutions in the country. Whether your child attends a highly selective independent school or a local state school, we'll introduce you to a tutor who understands the standard expected of them and can help them get there.</p>
         <ul class="al-schools__list">
-          <li>Whitgift School</li>
-          <li>Trinity School</li>
-          <li>Old Palace of John Whitgift School</li>
-          <li>Croydon High School</li>
-          <li>Archbishop Tenison's CE High School</li>
-          <li>Wallington County Grammar School</li>
+          {{ range $schools }}
+          <li>{{ . }}</li>
+          {{ end }}
         </ul>
         <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary" style="margin-top:1.5rem;">Find Your Tutor</a>
       </div>
@@ -337,9 +341,9 @@
   <div class="container">
     <div class="loc-online__inner">
       <div class="loc-online__copy">
-        <h2>How Online Tuition Can Support Students in the {{ $loc }} Area</h2>
-        <p>Whether your child is preparing for GCSEs or pushing for top A-Level grades, consistent one-to-one support makes a real difference — and that's not always possible in a busy classroom. Through The Degree Gap, students in the {{ $loc }} area can access dedicated online tuition from the comfort of home, with tutors who tailor every session to their specific needs and exam board.</p>
-        <p>Sessions are fully interactive, using shared whiteboards, real-time problem solving, and digital resources. Whether your child needs regular weekly sessions or intensive revision support ahead of exams, the tutors in our network adapt to fit around their school schedule. No travel, no wasted time — just focused, expert support when it's needed most.</p>
+        <h2>{{ $onlineHeading }}</h2>
+        <p>{{ $online1 }}</p>
+        <p>{{ $online2 }}</p>
         <a href="#get-help" class="btn btn-primary">Learn More</a>
       </div>
       <div class="loc-online__image">
@@ -360,15 +364,12 @@
     <h2 class="loc-areas__title">Trusted Tutors in Your Area</h2>
     <p class="loc-areas__lead">Our network of tutors covers {{ $loc }} and the surrounding areas, offering personalised GCSE and A-Level tuition tailored to each student's needs, goals, and level of study. We focus on finding the right tutor for every student — someone who can provide clear guidance, consistent support, and help your child make steady academic progress with confidence.</p>
     <div class="loc-areas__grid">
-      <a href="/locations/croydon-tutors/" class="loc-area-card">Croydon Tutors</a>
-      <a href="/locations/purley/" class="loc-area-card">Purley Tutors</a>
-      <a href="/locations/addington/" class="loc-area-card">Addington Tutors</a>
-      <a href="/locations/mitcham/" class="loc-area-card">Mitcham Tutors</a>
-      <a href="/locations/bromley/" class="loc-area-card">Bromley Tutors</a>
-      <a href="/locations/thornton-heath/" class="loc-area-card">Thornton Heath Tutors</a>
-      <a href="/locations/tooting/" class="loc-area-card">Tooting Tutors</a>
-      <a href="/locations/balham/" class="loc-area-card">Balham Tutors</a>
-      <a href="/locations/streatham/" class="loc-area-card">Streatham Tutors</a>
+      {{ range $areaLinks }}
+        {{ $parts := split . "|" }}
+        {{ $name := index $parts 0 }}
+        {{ $href := index $parts 1 }}
+        <a href="{{ $href }}" class="loc-area-card">{{ $name }}</a>
+      {{ end }}
     </div>
   </div>
 </section>
@@ -410,56 +411,38 @@
       <div class="loc-accordion loc-accordion--faq">
         <details class="loc-accordion__item">
           <summary class="loc-accordion__trigger">
-            <span>What is The Degree Gap?</span>
+            <span>{{ .Params.faq_1_q | default "What is The Degree Gap?" }}</span>
             <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
           </summary>
           <div class="loc-accordion__body">
-            <p>The Degree Gap is a tutoring company founded by Oxford and LSE graduates. We connect families across South London and Surrey with experienced, independent GCSE and A-Level tutors who are hand-picked for their subject knowledge, teaching ability, and professionalism.</p>
+            <p>{{ .Params.faq_1_a | default "The Degree Gap connects families with experienced, independent GCSE and A-Level tutors who are hand-picked for their subject knowledge, teaching ability, and professionalism." }}</p>
           </div>
         </details>
         <details class="loc-accordion__item">
           <summary class="loc-accordion__trigger">
-            <span>What subjects do the tutors in your network cover?</span>
+            <span>{{ .Params.faq_2_q | default "What subjects do the tutors in your network cover?" }}</span>
             <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
           </summary>
           <div class="loc-accordion__body">
-            <p>Our tutors cover all major GCSE and A-Level subjects including Maths, English Language and Literature, Biology, Chemistry, Physics, Economics, History, Geography, Psychology, Spanish, French, and more. We also support students with personal statement writing and 11+ preparation.</p>
+            <p>{{ .Params.faq_2_a | default "Our tutors cover all major GCSE and A-Level subjects including Maths, English, Biology, Chemistry, Physics, Economics, History, Geography, Psychology, Spanish, French, and more." }}</p>
           </div>
         </details>
         <details class="loc-accordion__item">
           <summary class="loc-accordion__trigger">
-            <span>What exam boards do the tutors cover?</span>
+            <span>{{ .Params.faq_3_q | default "What exam boards do the tutors cover?" }}</span>
             <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
           </summary>
           <div class="loc-accordion__body">
-            <p>The tutors in our network are experienced across all the major UK exam boards, including AQA, Edexcel, OCR, WJEC, and Cambridge International (IGCSE and A-Level). When we match your child with a tutor, we make sure they know the specific board and syllabus inside out.</p>
+            <p>{{ .Params.faq_3_a | default "The tutors in our network are experienced across all the major UK exam boards, including AQA, Edexcel, OCR, WJEC, and Cambridge International." }}</p>
           </div>
         </details>
         <details class="loc-accordion__item">
           <summary class="loc-accordion__trigger">
-            <span>Who are the tutors in your network?</span>
+            <span>{{ .Params.faq_4_q | default "Who are the tutors in your network?" }}</span>
             <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
           </summary>
           <div class="loc-accordion__body">
-            <p>All our tutors are graduates from the UK's most prestigious universities — including Oxford, Cambridge, LSE, Imperial, and UCL. They are independent professionals who are DBS-checked, personally interviewed, and selected based on their subject expertise, teaching experience, and communication skills.</p>
-          </div>
-        </details>
-        <details class="loc-accordion__item">
-          <summary class="loc-accordion__trigger">
-            <span>How does payment work?</span>
-            <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
-          </summary>
-          <div class="loc-accordion__body">
-            <p>Sessions are arranged directly between families and their tutor, with payment handled securely through our platform. There is no long-term contract — you can book sessions individually or in blocks, with flexible scheduling to fit around your child's school timetable and exam dates.</p>
-          </div>
-        </details>
-        <details class="loc-accordion__item">
-          <summary class="loc-accordion__trigger">
-            <span>Do the tutors work with students outside of the UK?</span>
-            <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
-          </summary>
-          <div class="loc-accordion__body">
-            <p>Yes. All sessions are available online via video call, so students can be supported from anywhere in the world. We have introduced tutors to families across Europe, the Middle East, and Asia who are following UK GCSE and A-Level curricula.</p>
+            <p>{{ .Params.faq_4_a | default "All our tutors are independent professionals selected based on subject expertise, teaching experience, and communication skills." }}</p>
           </div>
         </details>
       </div>

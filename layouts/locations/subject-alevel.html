@@ -3,6 +3,16 @@
 {{ $subject := .Params.subject     | default "A-Level" }}
 {{ $short   := .Params.subject_short | default "A-Level" }}
 {{ $boards  := .Params.exam_boards | default "AQA • Edexcel • OCR" }}
+{{ $challenge := .Params.subject_challenge | default (printf "%s is one of the most demanding subjects on the curriculum, so students need clear explanations, steady practice, and support that is matched to their exam board." $subject) }}
+{{ $concepts := .Params.subject_concepts | default (printf "the most challenging %s topics, exam technique, and independent revision" $short) }}
+{{ $topics := .Params.topics | default (slice "Core Concepts" "Exam Technique" "Past Paper Practice" "Knowledge Recall" "Applied Questions" "Required Skills" "Revision Planning" "Confidence Building") }}
+{{ $schools := .Params.schools | default (slice "Whitgift School" "Trinity School" "Old Palace of John Whitgift School" "Croydon High School" "Archbishop Tenison's CE High School" "Wallington County Grammar School") }}
+{{ $areaLinks := .Params.area_links | default (slice "Croydon Tutors|/locations/croydon-tutors/" "Purley Tutors|/locations/purley-tutors/" "Addington Tutors|/locations/addington-tutors/" "Mitcham Tutors|/locations/mitcham-tutors/" "Bromley Tutors|/locations/bromley-tutors/" "Thornton Heath Tutors|/locations/thornton-heath-tutors/" "Tooting Tutors|/locations/tooting-tutors/" "Balham Tutors|/locations/balham-tutors/" "Streatham Tutors|/locations/streatham-tutors/") }}
+{{ $bannerHeading := .Params.banner_heading | default "Struggling to Achieve the Grades You Want?" }}
+{{ $bannerLead := .Params.banner_lead | default (printf "We'll connect you with an expert %s tutor covering the %s area who can help you achieve it with a clear plan, proven strategies, and personalised support at every step." $subject $loc) }}
+{{ $onlineHeading := .Params.online_heading | default (printf "How Online Tuition Can Support Students in the %s Area" $loc) }}
+{{ $online1 := .Params.online_1 | default (printf "%s requires consistent practice and clear explanations, something that's not always possible in a busy classroom." $subject) }}
+{{ $online2 := .Params.online_2 | default "Whether your child needs regular weekly sessions or intensive revision ahead of exams, the tutors in our network adapt to fit around school schedules and commitments." }}
 
 <!-- =============================================
      SECTION 1: HERO  (trophy LEFT / content RIGHT)
@@ -57,8 +67,8 @@
 
       <!-- RIGHT: copy -->
       <div class="subj-hero__copy">
-        <h1>Struggling to Achieve the<br>Grades You Want?</h1>
-        <p>We'll connect you with an expert {{ $subject }} tutor covering the {{ $loc }} area who can help you achieve it with a clear plan, proven strategies, and personalised support at every step. Whether you're aiming for an A* or working to secure a solid pass, we'll help you find the right tutor for your needs and goals.</p>
+        <h1>{{ $bannerHeading }}</h1>
+        <p>{{ $bannerLead }}</p>
         <div class="subj-hero__actions">
           <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary btn-lg">Find Your Tutor</a>
           <a href="#get-help" class="btn btn-outline btn-lg">Contact Us</a>
@@ -78,7 +88,7 @@
     <h2 class="subj-trust__h2">Leading GCSE &amp; A-Level<br>Tutors in {{ $loc }}</h2>
     <div class="subj-trust__body">
       <div class="subj-trust__text">
-        <p>We founded The Degree Gap because we saw how overwhelming education can be for families. {{ $subject }} is one of the most demanding subjects on the curriculum — students are expected to master complex topics like mechanics, electric fields, quantum phenomena, and nuclear physics, all while managing coursework, practicals, and university applications.</p>
+        <p>We founded The Degree Gap because we saw how overwhelming education can be for families. {{ $challenge }} Students are expected to master {{ $concepts }}, all while managing coursework, revision, and university applications.</p>
         <p>Many students struggle not because they lack ability, but because they haven't found the right support at the right time. That's why we connect families in the {{ $loc }} area with experienced, independent {{ $short }} tutors who can provide expert one-to-one tuition tailored to your child's needs. Our role is to find the right introduction — the tutor handles the teaching, and we're here to make sure the relationship works.</p>
       </div>
     </div>
@@ -200,70 +210,16 @@
     <p class="loc-eyebrow loc-eyebrow--center">ACADEMIC SUBJECTS WE COVER</p>
     <h2 class="subj-topics__title">Complete GCSE &amp; A-Level Support</h2>
     <div class="subj-topics__grid">
+      {{ range $index, $topic := $topics }}
       <div class="subj-topic-card">
         <div class="subj-topic-card__head">
-          <span class="subj-topic-card__num">01</span>
-          <strong>Mechanics &amp; Motion</strong>
+          <span class="subj-topic-card__num">{{ printf "%02d" (add $index 1) }}</span>
+          <strong>{{ $topic }}</strong>
         </div>
-        <p>Forces, Newton's laws, momentum, circular motion, and projectile problems — broken down step by step so your child can tackle any calculation with confidence.</p>
+        <p>Your tutor will target {{ lower $topic }} with clear explanations, worked examples, and exam-style practice tailored to {{ $boards }}.</p>
         <a href="#get-help" class="subj-topic-card__cta">Book a Consultation →</a>
       </div>
-      <div class="subj-topic-card">
-        <div class="subj-topic-card__head">
-          <span class="subj-topic-card__num">02</span>
-          <strong>Electricity &amp; Circuits</strong>
-        </div>
-        <p>Voltage, current, resistance, and circuit analysis — including the tricky internal resistance and potential divider questions that exam boards love to set.</p>
-        <a href="#get-help" class="subj-topic-card__cta">Book a Consultation →</a>
-      </div>
-      <div class="subj-topic-card">
-        <div class="subj-topic-card__head">
-          <span class="subj-topic-card__num">03</span>
-          <strong>Waves &amp; Optics</strong>
-        </div>
-        <p>Progressive and stationary waves, diffraction, interference, and refraction — taught with clear diagrams and worked examples tied to your specific exam board.</p>
-        <a href="#get-help" class="subj-topic-card__cta">Book a Consultation →</a>
-      </div>
-      <div class="subj-topic-card">
-        <div class="subj-topic-card__head">
-          <span class="subj-topic-card__num">04</span>
-          <strong>Quantum &amp; Particle Physics</strong>
-        </div>
-        <p>Photoelectric effect, wave-particle duality, atomic models, and particle interactions — some of the most conceptually challenging topics, made clear and approachable.</p>
-        <a href="#get-help" class="subj-topic-card__cta">Book a Consultation →</a>
-      </div>
-      <div class="subj-topic-card">
-        <div class="subj-topic-card__head">
-          <span class="subj-topic-card__num">05</span>
-          <strong>Fields (Gravitational, Electric &amp; Magnetic)</strong>
-        </div>
-        <p>Field lines, potential, flux, and Faraday's law — an A2 topic that trips up many students. Your tutor will build a solid conceptual foundation before working through exam questions.</p>
-        <a href="#get-help" class="subj-topic-card__cta">Book a Consultation →</a>
-      </div>
-      <div class="subj-topic-card">
-        <div class="subj-topic-card__head">
-          <span class="subj-topic-card__num">06</span>
-          <strong>Nuclear Physics &amp; Radioactivity</strong>
-        </div>
-        <p>Radioactive decay, nuclear equations, binding energy, and fission vs. fusion — taught in context so your child understands not just what happens, but why.</p>
-        <a href="#get-help" class="subj-topic-card__cta">Book a Consultation →</a>
-      </div>
-      <div class="subj-topic-card">
-        <div class="subj-topic-card__head">
-          <span class="subj-topic-card__num">07</span>
-          <strong>Thermal Physics</strong>
-        </div>
-        <p>Ideal gases, the kinetic model, specific heat capacity, and thermodynamics — a topic where understanding the maths and the underlying physics both matter for top marks.</p>
-        <a href="#get-help" class="subj-topic-card__cta">Book a Consultation →</a>
-      </div>
-      <div class="subj-topic-card">
-        <div class="subj-topic-card__head">
-          <span class="subj-topic-card__num">08</span>
-          <strong>Required Practicals &amp; Data Analysis</strong>
-        </div>
-        <p>Exam boards assess practical skills in written papers. Your tutor will make sure your child is comfortable with uncertainty, graph analysis, and experimental method questions.</p>
-        <a href="#get-help" class="subj-topic-card__cta">Book a Consultation →</a>
-      </div>
+      {{ end }}
     </div>
   </div>
 </section>
@@ -284,7 +240,7 @@
         </div>
         <div class="subj-process__step-body">
           <h3>Book a Free Consultation</h3>
-          <p>Speak with us so we can understand your child's needs, current level, and goals. We'll discuss which areas of the {{ $subject }} syllabus need the most attention — whether that's waves, particle physics, or mathematical skills. No commitment required.</p>
+          <p>Speak with us so we can understand your child's needs, current level, and goals. We'll discuss which areas of the {{ $subject }} syllabus need the most attention, from {{ $concepts }} to exam technique. No commitment required.</p>
         </div>
       </div>
 
@@ -330,9 +286,9 @@
         </div>
       </div>
       <div class="subj-online__copy">
-        <h2>How Online Tuition Can Support Students in the {{ $loc }} Area</h2>
-        <p>{{ $subject }} requires consistent practice and clear explanations — something that's not always possible in a busy classroom. Through The Degree Gap, students in the {{ $loc }} area can find dedicated, one-to-one {{ $short }} tuition online from the comfort of home. Sessions with your tutor are fully interactive, using shared whiteboards, real-time problem solving, and digital resources tailored to your exam board.</p>
-        <p>Whether your child needs regular weekly sessions or intensive revision ahead of exams, the tutors in our network adapt to fit around school schedules and commitments. No travel, no wasted time — just focused, expert support when it's needed most.</p>
+        <h2>{{ $onlineHeading }}</h2>
+        <p>{{ $online1 }}</p>
+        <p>{{ $online2 }}</p>
         <ul class="subj-online__list">
           <li>
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20,6 9,17 4,12"/></svg>
@@ -368,12 +324,9 @@
         <h2>Tutors for Students From {{ $loc }}'s Leading Schools</h2>
         <p>Our tutors work with students from a wide range of schools in the {{ $loc }} area — from highly selective independent schools to local state sixth forms. Whatever the academic environment, we match your child with a tutor who understands the standard expected and knows how to get them there.</p>
         <ul class="subj-schools__list">
-          <li>Whitgift School</li>
-          <li>Trinity School</li>
-          <li>Old Palace of John Whitgift School</li>
-          <li>Croydon High School</li>
-          <li>Archbishop Tenison's CE High School</li>
-          <li>Wallington County Grammar School</li>
+          {{ range $schools }}
+          <li>{{ . }}</li>
+          {{ end }}
         </ul>
       </div>
       <div class="subj-schools__cta-block">
@@ -394,15 +347,12 @@
     <h2 class="loc-areas__title">Trusted Tutors That Cover Your Area</h2>
     <p class="loc-areas__lead">Our network of tutors covers the surrounding areas, offering personalised lessons tailored to each student's needs, goals, and level of study. We focus on finding the right tutor for every student — someone who can provide clear guidance, consistent support, and help your child make steady academic progress with confidence.</p>
     <div class="loc-areas__grid">
-      <a href="/locations/croydon-tutors/" class="loc-area-card">Croydon Tutors</a>
-      <a href="/locations/purley/" class="loc-area-card">Purley Tutors</a>
-      <a href="/locations/addington/" class="loc-area-card">Addington Tutors</a>
-      <a href="/locations/mitcham/" class="loc-area-card">Mitcham Tutors</a>
-      <a href="/locations/bromley/" class="loc-area-card">Bromley Tutors</a>
-      <a href="/locations/thornton-heath/" class="loc-area-card">Thornton Heath Tutors</a>
-      <a href="/locations/tooting/" class="loc-area-card">Tooting Tutors</a>
-      <a href="/locations/balham/" class="loc-area-card">Balham Tutors</a>
-      <a href="/locations/streatham/" class="loc-area-card">Streatham Tutors</a>
+      {{ range $areaLinks }}
+        {{ $parts := split . "|" }}
+        {{ $name := index $parts 0 }}
+        {{ $href := index $parts 1 }}
+        <a href="{{ $href }}" class="loc-area-card">{{ $name }}</a>
+      {{ end }}
     </div>
   </div>
 </section>
@@ -436,31 +386,31 @@
       <div class="loc-accordion loc-accordion--faq">
         <details class="loc-accordion__item">
           <summary class="loc-accordion__trigger">
-            <span>What is The Degree Gap?</span>
+            <span>{{ .Params.faq_1_q | default "What is The Degree Gap?" }}</span>
             <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
           </summary>
-          <div class="loc-accordion__body"><p>The Degree Gap is a tutoring company founded by Oxford and LSE graduates. We connect families across South London with experienced, independent GCSE and A-Level tutors selected for their subject knowledge and teaching ability.</p></div>
+          <div class="loc-accordion__body"><p>{{ .Params.faq_1_a | default "The Degree Gap connects families with experienced, independent GCSE and A-Level tutors selected for their subject knowledge and teaching ability." }}</p></div>
         </details>
         <details class="loc-accordion__item">
           <summary class="loc-accordion__trigger">
-            <span>Who are the {{ $subject }} tutors in your network?</span>
+            <span>{{ .Params.faq_2_q | default (printf "Who are the %s tutors in your network?" $subject) }}</span>
             <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
           </summary>
-          <div class="loc-accordion__body"><p>Our {{ $short }} tutors are graduates from top UK universities — including Oxford, Cambridge, Imperial, and UCL. They are DBS-checked, personally interviewed, and selected for their exam board knowledge and track record with students.</p></div>
+          <div class="loc-accordion__body"><p>{{ .Params.faq_2_a | default (printf "Our %s tutors are selected for their exam board knowledge, teaching ability, and track record with students." $short) }}</p></div>
         </details>
         <details class="loc-accordion__item">
           <summary class="loc-accordion__trigger">
-            <span>What subjects and exam boards do the tutors cover?</span>
+            <span>{{ .Params.faq_3_q | default "What subjects and exam boards do the tutors cover?" }}</span>
             <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
           </summary>
-          <div class="loc-accordion__body"><p>Our tutors cover {{ $boards }} at A-Level, as well as GCSE Physics. Beyond {{ $short }}, we also support Maths, Biology, Chemistry, Economics, English, History, and many more subjects at both GCSE and A-Level.</p></div>
+          <div class="loc-accordion__body"><p>{{ .Params.faq_3_a | default (printf "Our tutors cover %s at A-Level. Beyond %s, we also support Maths, Biology, Chemistry, Economics, English, History, and many more subjects." $boards $short) }}</p></div>
         </details>
         <details class="loc-accordion__item">
           <summary class="loc-accordion__trigger">
-            <span>How does payment work?</span>
+            <span>{{ .Params.faq_4_q | default "How does payment work?" }}</span>
             <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
           </summary>
-          <div class="loc-accordion__body"><p>Sessions are arranged directly between families and their tutor, with payment handled through our platform. There is no long-term contract — you can book sessions individually or in blocks, with flexible scheduling to fit around your child's timetable.</p></div>
+          <div class="loc-accordion__body"><p>{{ .Params.faq_4_a | default "There is no long-term contract. You can book sessions flexibly around your child's timetable once you have found the right tutor." }}</p></div>
         </details>
         <details class="loc-accordion__item">
           <summary class="loc-accordion__trigger">
