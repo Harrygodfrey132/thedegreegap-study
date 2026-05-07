@@ -3116,7 +3116,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   margin-bottom: 52px;
 }
 .al-trust__body-left { padding-top: 7px; }
-.al-trust__divider { display: block; width: 52px; height: 3px; background: var(--primary); border-radius: 2px; }
+.al-trust__divider { display: block; width: 52px; height: 3px; background: var(--burgundy); border-radius: 2px; }
 .al-trust__body-right p { color: var(--text-muted); line-height: 1.75; margin-bottom: 1rem; max-width: 780px; }
 
 .al-pain-cards {
@@ -3178,7 +3178,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 .al-trust__band-phone-icon {
   width: 52px;
   height: 52px;
-  background: var(--primary);
+  background: var(--burgundy);
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -3187,7 +3187,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   flex-shrink: 0;
 }
 .al-trust__band-phone-label { display: block; font-size: 0.85rem; color: var(--text-muted); }
-.al-trust__band-phone-number { display: block; font-size: 1.6rem; font-weight: 800; color: var(--primary); line-height: 1.1; }
+.al-trust__band-phone-number { display: block; font-size: 1.6rem; font-weight: 800; color: var(--burgundy); line-height: 1.1; }
 
 /* --- Section 3: Tutor Carousel --- */
 .al-tutors { padding: 80px 0; }
@@ -3222,13 +3222,13 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   width: 12px;
   height: 12px;
   border-radius: 50%;
-  border: 2px solid var(--primary);
+  border: 2px solid var(--burgundy);
   background: transparent;
   cursor: pointer;
   padding: 0;
   transition: background 0.2s;
 }
-.al-carousel__dot--active { background: var(--primary); }
+.al-carousel__dot--active { background: var(--burgundy); }
 
 /* --- Section 4: Academic Subjects --- */
 .al-subjects { padding: 80px 0; background: var(--cream); }
@@ -3315,7 +3315,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: var(--primary);
+  background: var(--burgundy);
   flex-shrink: 0;
 }
 .al-schools__list li:last-child { border-bottom: none; }
@@ -3391,7 +3391,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   font-size: 1.5rem;
   font-weight: 900;
   letter-spacing: 0.04em;
-  color: var(--primary);
+  color: var(--burgundy);
   margin-bottom: 2px;
 }
 .subj-hero__google-card {
@@ -3433,7 +3433,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   margin-bottom: 52px;
 }
 .subj-trust__divider-col { padding-top: 7px; }
-.subj-trust__divider { display: block; width: 52px; height: 3px; background: var(--primary); border-radius: 2px; }
+.subj-trust__divider { display: block; width: 52px; height: 3px; background: var(--burgundy); border-radius: 2px; }
 .subj-trust__text p { color: var(--text-muted); line-height: 1.75; margin-bottom: 1rem; max-width: 780px; }
 
 .subj-pain-cards {
@@ -3494,7 +3494,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 .subj-trust__band-phone-icon {
   width: 48px;
   height: 48px;
-  background: var(--primary);
+  background: var(--burgundy);
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -3502,10 +3502,10 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   color: #fff;
 }
 .subj-trust__band-phone span { display: block; font-size: 0.8rem; color: var(--text-muted); }
-.subj-trust__band-phone strong { display: block; font-size: 1.5rem; font-weight: 800; color: var(--primary); line-height: 1.1; }
+.subj-trust__band-phone strong { display: block; font-size: 1.5rem; font-weight: 800; color: var(--burgundy); line-height: 1.1; }
 
 /* --- Section 3: Stats strip --- */
-.subj-stats { padding: 56px 0; background: var(--primary); }
+.subj-stats { padding: 56px 0; background: var(--burgundy); }
 .subj-stats__grid {
   display: grid;
   grid-template-columns: 1fr auto 1fr auto 1fr auto 1fr;
@@ -3543,7 +3543,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   background: #fff;
   border-radius: 12px;
   padding: 28px 28px 24px;
-  border-left: 4px solid var(--primary);
+  border-left: 4px solid var(--burgundy);
   display: flex;
   flex-direction: column;
   gap: 10px;
@@ -3556,7 +3556,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 .subj-topic-card__num {
   font-size: 1.4rem;
   font-weight: 300;
-  color: var(--primary);
+  color: var(--burgundy);
   opacity: 0.5;
   flex-shrink: 0;
   line-height: 1;
@@ -3567,7 +3567,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 .subj-topic-card__cta {
   font-size: 0.85rem;
   font-weight: 600;
-  color: var(--primary);
+  color: var(--burgundy);
   text-decoration: none;
   margin-top: 4px;
   display: inline-block;
@@ -3594,13 +3594,13 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   width: 52px;
   height: 52px;
   border-radius: 50%;
-  border: 1.5px solid var(--primary);
+  border: 1.5px solid var(--burgundy);
   display: flex;
   align-items: center;
   justify-content: center;
   font-size: 1rem;
   font-weight: 700;
-  color: var(--primary);
+  color: var(--burgundy);
   background: #fff;
   flex-shrink: 0;
   z-index: 1;
@@ -3610,7 +3610,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   width: 2px;
   flex: 1;
   min-height: 48px;
-  background: var(--primary);
+  background: var(--burgundy);
   opacity: 0.25;
   margin: 8px 0;
 }
@@ -3661,7 +3661,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   font-size: 0.9rem;
   color: var(--text-muted);
 }
-.subj-online__list li svg { flex-shrink: 0; margin-top: 2px; color: var(--primary); }
+.subj-online__list li svg { flex-shrink: 0; margin-top: 2px; color: var(--burgundy); }
 
 /* --- Section 8: Schools --- */
 .subj-schools { padding: 60px 0; background: var(--cream); }
@@ -3688,7 +3688,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   align-items: center;
   gap: 8px;
 }
-.subj-schools__list li::before { content:''; width:6px; height:6px; border-radius:50%; background:var(--primary); flex-shrink:0; }
+.subj-schools__list li::before { content:''; width:6px; height:6px; border-radius:50%; background:var(--burgundy); flex-shrink:0; }
 .subj-schools__cta-block {
   display: flex;
   flex-direction: column;
