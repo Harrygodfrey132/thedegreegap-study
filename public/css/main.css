@@ -3806,6 +3806,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   color: var(--text-muted);
 }
 .subj-online__list li svg { flex-shrink: 0; margin-top: 2px; color: var(--burgundy); }
+.subj-online__btn { margin-top: 1.25rem; }
 
 /* --- Section 8: Schools --- */
 .subj-schools { padding: 60px 0; background: var(--cream); }
@@ -3845,6 +3846,67 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   box-shadow: 0 2px 16px rgba(0,0,0,0.06);
 }
 .subj-schools__cta-block > p { font-size: 0.9rem; color: var(--text-muted); margin-bottom: 16px; font-weight: 600; }
+.subj-schools__cta-outline { margin-top: 12px; }
+
+/* --- subject-location.html: hero flip + boards --- */
+.subj-hero-flip { grid-template-columns: 1fr 1fr; }
+.subj-hero-flip .loc-hero__image { order: -1; }
+.subj-hero-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(128,0,32,0.07);
+  border: 1px solid rgba(128,0,32,0.2);
+  color: var(--burgundy);
+  font-size: 0.74rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 5px 12px;
+  border-radius: 100px;
+  margin-bottom: 18px;
+}
+.subj-hero-pill svg { flex-shrink: 0; }
+.subj-hero-boards {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 0.25rem;
+}
+.subj-hero-boards__label {
+  font-size: 0.74rem;
+  font-weight: 700;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  margin-right: 4px;
+}
+.subj-hero-boards__chip {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--burgundy);
+  background: rgba(128,0,32,0.06);
+  border: 1px solid rgba(128,0,32,0.18);
+  border-radius: 6px;
+  padding: 4px 10px;
+  letter-spacing: 0.03em;
+}
+@media (max-width: 900px) {
+  .subj-hero-flip .loc-hero__image { order: 0; }
+}
+
+/* --- subject-location.html: stats strip (light variant) --- */
+.subj-stats--light {
+  background: var(--cream);
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  padding: 44px 0;
+  margin-top: 56px;
+}
+.subj-stats--light .subj-stats__number { color: var(--burgundy); font-size: clamp(1.6rem, 3vw, 2.2rem); }
+.subj-stats--light .subj-stats__label  { color: var(--text-muted); }
+.subj-stats--light .subj-stats__sep    { background: var(--border); }
 
 /* --- Responsive: subject-alevel page --- */
 @media (max-width: 1024px) {
@@ -3862,9 +3924,12 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   .subj-hero__left { flex-direction: row; align-items: center; flex-wrap: wrap; justify-content: center; }
   .subj-hero__trophy { width: 160px; height: 160px; }
   .subj-hero__google-card { max-width: 100%; }
-  .subj-online__inner { grid-template-columns: 1fr; }
+  .subj-online__inner { grid-template-columns: 1fr; gap: 28px; }
   .subj-process__stepper { padding: 0 16px; }
   .subj-schools__list { grid-template-columns: 1fr; }
+  .subj-stats--light { margin-top: 32px; padding: 32px 0; }
+  .subj-trust__body { margin-bottom: 32px; }
+  .subj-pain-cards { gap: 12px; }
 }
 @media (max-width: 540px) {
   .subj-pain-cards { grid-template-columns: 1fr; }
@@ -3952,7 +4017,8 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
     align-items: stretch;
     gap: 12px;
   }
-  .subj-schools__cta-block .btn { text-align: center; }
+  .subj-schools__cta-block .btn { text-align: center; width: 100%; }
+  .subj-stats--light { padding: 28px 0; margin-top: 24px; }
 
   /* Trust band inner: stack */
   .al-trust__band-inner { gap: 16px; }
