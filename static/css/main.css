@@ -3299,9 +3299,11 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   .loc-reviews__grid,
   .loc-reviews__more { grid-template-columns: 1fr; }
   .loc-areas__grid { grid-template-columns: 1fr 1fr; }
-  .loc-subject-item { grid-template-columns: 60px 1fr; }
+  .loc-subject-list { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  .loc-subject-item { display: flex; flex-direction: column; justify-content: space-between; gap: 10px; padding: 16px; margin-bottom: 0; }
+  .loc-subject-num { display: none; }
   .loc-subject-desc { display: none; }
-  .loc-subject-item .btn { grid-column: 2; }
+  .loc-subject-item .btn { width: 100%; text-align: center; font-size: 0.82rem; padding: 9px 12px; }
 }
 @media (max-width: 540px) {
   .loc-areas__grid { grid-template-columns: 1fr; }
