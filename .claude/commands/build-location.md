@@ -42,28 +42,64 @@ These pages must rank for tutoring searches. Google needs to see the target keyw
 
 ## Local Research — Do This Before Writing
 
-Before drafting any content, run two searches:
+Run as many of these searches as needed to find a genuinely unique angle for the location. You are not looking for facts to decorate the page. You are looking for the one thing that explains why students in this specific town face the pressures they face — something a parent in that town would recognise instantly as true.
 
-**Search 1:** "[Location] secondary schools grammar selective Ofsted"
-Look for:
-- Whether the area has grammar or selective schools, and how competitive entry is
-- Any Ofsted Outstanding secondary schools worth naming
-- Whether it is a university town (affects student aspiration and tutor demand)
+**Minimum bar test:** Before you start writing, you must be able to complete this sentence: *"The thing that makes [Location]'s academic situation meaningfully different from a typical English town is..."* If you cannot complete it with something specific, keep researching.
 
-**Search 2:** "[Location] GCSE results Progress 8 attainment"
+---
+
+**Search 1: Selective and grammar school pressure**
+Query: "[Location] secondary schools grammar selective Ofsted"
 Look for:
-- How local GCSE attainment compares to the national average
-- Any notable Progress 8 scores (positive or negative) for the area
-- Signs of whether students here are generally above, at, or below national benchmarks
+- Whether the area has grammar or selective schools and how competitive entry is
+- Any Ofsted Outstanding schools creating oversubscription pressure
+- Competitive sixth forms with grade requirements nearby (e.g. a highly sought-after sixth form college that Year 11 students are working towards)
+- Independent schools creating a two-tier dynamic that comprehensive families feel
+
+**Search 2: Attainment at area level**
+Query: "[Location] GCSE results Progress 8 attainment borough"
+Look for:
+- How the area as a whole compares to the national average — above, below, or at
+- Whether the area is known for strong results or has a catching-up narrative
+- Use this at area or borough level only — never attribute attainment data to a named school
+
+**Search 3: Economic character and employer base**
+Query: "[Location] major employers industries economy"
+Look for:
+- Is this a commuter belt town? Parents with London careers often have higher academic expectations than local schools are set up to meet
+- Are there major employers in STEM, finance, or professional services that create pressure for strong results in specific subjects?
+- Is it an industrial or post-industrial area where GCSE results directly affect employment and apprenticeship access?
+- University towns create an aspirational culture even for non-university-bound students
+
+**Search 4: Sixth form and post-16 competition**
+Query: "[Location] sixth form college entry requirements oversubscribed"
+Look for:
+- Oversubscribed sixth forms with published grade requirements — this is one of the strongest pressure points for Year 11 students
+- Students travelling significant distances to access good sixth form provision
+- Areas where sixth form choice is limited, creating pressure to hit the grades for the one good option
+
+**Search 5: Demographic and community character**
+Query: "[Location] demographics commuter new town garden city"
+Look for:
+- New towns and garden cities often have distinct demographics — planned communities attract particular types of families
+- Commuter settlements where professional parents have moved for space but schools haven't matched expectations
+- Areas with high proportions of first-generation university aspiration
+- Catchment dynamics — areas where families move specifically for school catchments, creating competitive pressure even within the state system
+
+---
 
 **Then do this:**
-Weave one specific, verifiable fact from your research into intro_1 or intro_2. It should read as natural context, not a statistic bolted on.
+Pick the single strongest angle your research has found and build the page around it. Weave one specific, verifiable fact into intro_1 or intro_2 as natural context.
 
 Good: "Reading School and Kendrick accept a small fraction of applicants each year, making the academic competition in Reading unusually intense for a state school area."
+Good: "Letchworth was designed as the world's first garden city — a planned community that still attracts professional families whose expectations often outrun what the local school system delivers."
+Good: "Results across the North Hertfordshire area sit below the national average, which means many capable students arrive at GCSE without the foundations their ambition needs."
 
-Bad: "There are 34 secondary schools in Nottingham serving 21,000 students."
+Bad: "There are 34 secondary schools in Nottingham serving 21,000 students." — this is a number, not a story.
+Bad: "Letchworth sits in North Hertfordshire, close to Hitchin and Baldock." — this is geography, not an insight.
 
-The fact should explain *why* students in this area face the pressures the page describes. If search returns nothing useful, use the school landscape alone as your local signal — but do not invent statistics.
+**HARD RULE — Never name a school alongside a negative result.**
+Do not publish a specific school's Progress 8 score, Ofsted rating, or attainment data by name. Naming a school and calling out its results publicly shames that school and could damage The Degree Gap's relationships with local families and staff. Attainment data must be used at area or borough level only — never tied to a named school. Ofsted ratings for specific schools must never appear on the page. This is an absolute rule with no exceptions.
 
 ---
 
@@ -281,9 +317,19 @@ Angle examples to draw from (never copy verbatim — these show range of approac
 
 *Foundation gaps:* "Sometimes the problem isn't today's lesson — it's a gap from two years ago that never got addressed. In Kingston, we regularly work with students who are capable but held back by shaky foundations in core subjects. / The Degree Gap starts by identifying exactly where those gaps are, then builds a structured plan to close them — not about cramming, but making sure students genuinely understand the fundamentals."
 
-### Why Choose Us (ORIGINAL per page — use local research)
+### Why Choose Us (ORIGINAL per page — go deeper than the intro)
 
 Write `why_heading`, `why_para_1`, `why_para_2`, and the three accordion fields using the local knowledge gathered during your research. These sections are now driven by frontmatter.
+
+**CRITICAL — do not repeat the intro.** The intro established the local context. The Why section must move past that and go deeper. A parent who has already read the intro should find new information here, not the same framing with different words. If why_para_1 could appear in intro_1 without anyone noticing, rewrite it.
+
+**what "going deeper" means:** Answer the questions a parent would ask after reading the intro:
+- What specific gaps do students from this area typically arrive with when they start tutoring?
+- Do students from different school types (independent vs. state, grammar vs. comprehensive) tend to struggle differently — and how does tutoring address that?
+- What does the tutor actually do in the first session that the classroom cannot?
+- What does "good enough" look like here, and why does that still leave a gap?
+
+You don't have to answer all of these. Pick the one or two that feel most true for this location and write from that angle. This is the section that should feel like it was written by someone who has actually worked with students in this town, not someone who did ten minutes of research.
 
 **why_heading:** A short, confident heading tied to this location. It should not just repeat the banner. Examples of angles:
 - Competitive area: "Why families in {Location} choose The Degree Gap"
@@ -291,9 +337,9 @@ Write `why_heading`, `why_para_1`, `why_para_2`, and the three accordion fields 
 - Foundation gaps: "Structured tutoring that finds the gap and closes it"
 - Exam pressure: "Proven exam preparation for {Location} students"
 
-**why_para_1:** Use your local research. Mention the specific academic pressures in this area (grammar school competition, below-average attainment, oversubscribed sixth forms, etc.) and frame The Degree Gap as the answer. One short paragraph — 3 to 4 sentences.
+**why_para_1:** Do NOT restate the local school landscape or sixth form requirements — the intro already did that. Instead, describe the specific pattern tutors see when students from this area start sessions. What does a typical first session reveal? What have students been missing? What does "keeping up in class but struggling in exams" actually look like here, concretely? One short paragraph — 3 to 4 sentences.
 
-**why_para_2:** Connect to the page's overall angle. If confidence, talk about how sessions are built to rebuild belief. If ambition, talk about going beyond the syllabus. If foundation gaps, talk about targeting root causes. One short paragraph — 3 to 4 sentences.
+**why_para_2:** Describe how The Degree Gap addresses that specific pattern. Not generically ("we match students with the right tutor") but concretely — what changes, how quickly, what parents tend to notice first. If students in this area typically lack exam technique rather than content knowledge, say that. If they know the material but freeze under timed conditions, say that. One short paragraph — 3 to 4 sentences.
 
 **accordion_quality:** Rewrite the body for "High Quality Standards" using local context. For a competitive area, mention familiarity with selective school exam boards and the standard expected at top local schools. For a catching-up area, emphasise careful vetting to find patient, clear communicators. One or two sentences — do not exceed the length of the default.
 
@@ -512,7 +558,9 @@ The first 3 will be visible immediately. The last 3 appear under "Show more revi
 
    **Break structural symmetry.** AI builds balanced, parallel structures. Humans don't. Do not open three paragraphs in a row the same way. Do not make every sentence in a list the same length. Deliberately make some sections shorter and punchier than others.
 
-   **Be direct, not aggressive.** State things plainly rather than hedging — but never attack schools, criticise teachers, or make claims about teaching quality. Use attainment data as neutral context, not as ammunition. "More than half of Sheffield's schools score below the national average" is a fact. "Good teaching is harder to come by" is an attack. The angle is always that students need more individual attention than any classroom can provide — not that schools are bad. Keep it about class size and pace, not about quality.
+   **Be direct, not aggressive.** State things plainly rather than hedging — but never attack schools, criticise teachers, or make claims about teaching quality. The angle is always that students need more individual attention than any classroom can provide — not that schools are bad. Keep it about class size and pace, not about quality.
+
+   **Never name a school alongside a negative result.** Do not publish a specific school's Progress 8 score, Ofsted rating, or attainment data by name on any page. This publicly shames that school and could damage The Degree Gap's relationships with local families and staff. If local attainment is below average, say so at area level only ("results across the area sit below the national average") — never tied to a named school. This is an absolute rule with no exceptions.
 
    **Banned words — do not use any of these:**
    landscape, foster, navigate, delve, crucial, realm, testament, pivotal, seamless, robust, comprehensive (as an adjective), vibrant, tapestry, unlock, embark, journey (metaphorical), leverage, stakeholders, furthermore, moreover, in conclusion, it is worth noting, it is important to note, a range of, a variety of, particularly, specifically, effectively, consistently, additionally, successfully.

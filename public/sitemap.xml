@@ -2,82 +2,102 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:56010/locations/brighton-tutors/</loc>
+    <loc>https://study.thedegreegap.com/locations/brighton-tutors/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:56010/locations/cambridge-tutors/</loc>
+    <loc>https://study.thedegreegap.com/locations/cambridge-tutors/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:56010/locations/coventry-tutors/</loc>
+    <loc>https://study.thedegreegap.com/locations/coventry-tutors/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:56010/locations/oxford-tutors/</loc>
+    <loc>https://study.thedegreegap.com/locations/derby-tutors/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:56010/</loc>
+    <loc>https://study.thedegreegap.com/locations/oxford-tutors/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://study.thedegreegap.com/</loc>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://localhost:56010/locations/birmingham-tutors/</loc>
+    <loc>https://study.thedegreegap.com/locations/birmingham-tutors/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:56010/locations/leeds-tutors/</loc>
+    <loc>https://study.thedegreegap.com/locations/leeds-tutors/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:56010/locations/leicester-tutors/</loc>
+    <loc>https://study.thedegreegap.com/locations/leicester-tutors/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:56010/locations/liverpool-tutors/</loc>
+    <loc>https://study.thedegreegap.com/locations/liverpool-tutors/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:56010/locations/bristol-tutors/</loc>
+    <loc>https://study.thedegreegap.com/locations/bristol-tutors/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:56010/locations/southampton-tutors/</loc>
+    <loc>https://study.thedegreegap.com/locations/southampton-tutors/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:56010/locations/manchester-tutors/</loc>
+    <loc>https://study.thedegreegap.com/locations/manchester-tutors/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:56010/locations/nottingham-tutors/</loc>
+    <loc>https://study.thedegreegap.com/locations/norwich-tutors/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:56010/locations/reading-tutors/</loc>
+    <loc>https://study.thedegreegap.com/locations/nottingham-tutors/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:56010/locations/sheffield-tutors/</loc>
+    <loc>https://study.thedegreegap.com/locations/portsmouth-tutors/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:56010/locations/</loc>
+    <loc>https://study.thedegreegap.com/locations/reading-tutors/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://study.thedegreegap.com/locations/sheffield-tutors/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://study.thedegreegap.com/locations/swindon-tutors/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://study.thedegreegap.com/locations/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
