@@ -16,8 +16,9 @@ online_1: "All our tuition with Nottingham students is delivered online, which m
 online_2: "Sessions run through Lessonspace, a platform built for one-to-one tutoring with an interactive whiteboard. Nottingham students generally find it straightforward from the first session, and parents appreciate that scheduling becomes simpler without arranging travel. For subjects like Maths and the sciences where working through problems step by step is essential, the format suits the work well."
 map_url: "https://maps.google.com/maps?q=Nottingham,UK&output=embed"
 hero_image: "/images/locations/loc-5.jpg"
-about_image: "/images/locations/loc-3.jpg"
-online_image: "/images/locations/loc-7.jpg"
+about_image: "/images/students-in-classroom-taking-notes.jpg"
+online_image: "/images/student-studying-on-bed-with-laptop.jpg"
+schools_image: "/images/empty-classroom-desks.jpg"
 areas_intro: "Our tutors support students across Nottingham and the surrounding area, with online tuition removing any distance barrier to finding the right specialist."
 area_links: ["Leicester Tutors|/locations/leicester-tutors/", "Sheffield Tutors|/locations/sheffield-tutors/", "Birmingham Tutors|/locations/birmingham-tutors/", "Leeds Tutors|/locations/leeds-tutors/", "Coventry Tutors|/locations/coventry-tutors/", "Manchester Tutors|/locations/manchester-tutors/"]
 gcse_subjects: [

@@ -16,8 +16,9 @@ online_1: "All tutoring with Cambridge students is delivered online through Less
 online_2: "For ambitious students, online tuition has a real structural advantage. Sessions are built around a specific goal — a tricky topic, an upcoming assessment, a university personal statement — rather than general revision. Cambridge students often tell us that the pace of one-to-one sessions suits them precisely because there is no ceiling on how far they can go in a session. When something makes sense, the tutor moves forward. There is no waiting for a class to catch up."
 map_url: "https://maps.google.com/maps?q=Cambridge,UK&output=embed"
 hero_image: "/images/locations/loc-1.jpg"
-about_image: "/images/locations/loc-5.jpg"
-online_image: "/images/locations/loc-3.jpg"
+about_image: "/images/university-lecture-hall.jpg"
+online_image: "/images/student-studying-at-night-with-laptop.jpg"
+schools_image: "/images/school-clock-tower-building.jpg"
 areas_intro: "Our tutors work with students across Cambridge and the surrounding region — distance is no barrier when the right match matters most."
 area_links: ["Oxford Tutors|/locations/oxford-tutors/", "London Tutors|/locations/london-tutors/", "Norwich Tutors|/locations/norwich-tutors/", "Peterborough Tutors|/locations/peterborough-tutors/", "Ipswich Tutors|/locations/ipswich-tutors/", "Luton Tutors|/locations/luton-tutors/"]
 gcse_subjects: [

@@ -109,9 +109,9 @@ online_heading: "[Original online tuition heading]"
 online_1: "[Online tuition paragraph 1]"
 online_2: "[Online tuition paragraph 2]"
 map_url: "https://maps.google.com/maps?q={Location},UK&output=embed"
-hero_image: "/images/locations/loc-[1-8].jpg"
-about_image: "/images/locations/loc-[1-8].jpg"
-online_image: "/images/locations/loc-[1-8].jpg"
+about_image: "[pick from the About Image Gallery below — match to the page's content_angle]"
+schools_image: "[pick from the Schools Image Gallery below — always a school building or classroom]"
+online_image: "[pick from the Online Image Gallery below — match to the online copy angle]"
 areas_intro: "[One sentence introducing the areas grid — pick a structure from the Areas Intro Structures section below]"
 area_links: ["Location One Tutors|/locations/location-one-tutors/", "Location Two Tutors|/locations/location-two-tutors/"]
 gcse_subjects: [
@@ -152,6 +152,63 @@ sitemap:
 ```
 
 The file body should be empty after the closing `---`. All content is driven by frontmatter fields.
+
+---
+
+## Image Gallery — Choose Based on Page Theme
+
+Do not leave image fields blank. Do not invent paths. Choose from the options below only.
+
+**`hero_image` — do not set this field.** The hero section uses a CSS circle graphic, not a photo. Leave it out of the frontmatter entirely.
+
+### About Image Gallery (`about_image`)
+
+Pick the one image that best matches the page's `content_angle`:
+
+| Content angle | Image to use |
+|---|---|
+| Exam pressure / academic achievement / ambition | `/images/graduation-ceremony-caps.jpg` |
+| Confidence / approachable support / rebuilding belief | `/images/group-study-discussion-with-laptop.jpg` |
+| Foundation gaps / structured learning / classroom focus | `/images/students-in-classroom-taking-notes.jpg` |
+| Competitive area / university aspirations / prestige | `/images/university-lecture-hall.jpg` |
+| General academic study / resources | `/images/university-library-study-hall.jpg` |
+| Classical / prestigious academic tradition | `/images/classical-library-books-and-busts.jpg` |
+| Active revision / exam prep / note-taking | `/images/handwriting-study-notes-with-highlighters.jpg` |
+| School textbooks / GCSE-level resources | `/images/stack-of-school-textbooks.jpg` |
+| Maths focus / structured problem solving | `/images/student-completing-maths-worksheet.jpg` |
+| Deep library study / quiet focused environment | `/images/quiet-library-study-area.jpg` |
+| Wide study hall / open academic environment | `/images/wide-library-study-area.jpg` |
+| Warm library / study atmosphere | `/images/library-bookshelves-with-hanging-lights.jpg` |
+| Rich academic resources / depth of knowledge | `/images/library-aisle-bookshelves.jpg` |
+| Books and academic heritage | `/images/full-library-bookshelves.jpg` |
+
+If the angle is a blend, pick the single best fit. Do not list multiple images.
+
+### Schools Image Gallery (`schools_image`)
+
+This image appears in the "Trusted by Schools" band section. Always pick a school-building or classroom image — this slot should feel grounded and local:
+
+| Best for | Image to use |
+|---|---|
+| School building exterior / establishing shot | `/images/aerial-school-campus-building.jpg` |
+| Traditional school building / clock tower | `/images/school-clock-tower-building.jpg` |
+| Empty classroom / structured learning environment | `/images/empty-classroom-desks.jpg` |
+| Students in a classroom listening / engaged | `/images/students-listening-in-classroom.jpg` |
+| Students actively taking notes in class | `/images/students-in-classroom-taking-notes.jpg` |
+
+Rotate across pages — do not use the same image on every page.
+
+### Online Image Gallery (`online_image`)
+
+Pick the one image that best matches the angle of your `online_1`/`online_2` copy:
+
+| Online copy angle | Image to use |
+|---|---|
+| Access the right tutor without travel / practical access | `/images/child-using-online-learning-laptop.jpg` |
+| Fits around a busy schedule / consistent sessions | `/images/online-study-workspace-with-coffee.jpg` |
+| Best tutor not always the closest / specialist access | `/images/student-studying-at-night-with-laptop.jpg` |
+| Regular structure / feedback / learning from home | `/images/student-studying-on-bed-with-laptop.jpg` |
+| Positive progress / students gaining confidence online | `/images/student-celebrating-online-learning.jpg` |
 
 ---
 
@@ -542,6 +599,9 @@ Use as a vocabulary bank — weave concepts into original sentences, never copy 
 - [ ] Does the writing make at least one direct, opinionated statement rather than hedging everything?
 - [ ] Are contractions used naturally throughout (it's, don't, can't, we'd, they're)?
 - [ ] Are there any passive voice constructions that should be active? Fix them.
+- [ ] Is `hero_image` absent from the frontmatter? It must not appear.
+- [ ] Does `about_image` use one of the five approved paths from the About Image Gallery, matched to the page's content angle?
+- [ ] Does `online_image` use one of the five approved paths from the Online Image Gallery, matched to the online copy angle?
 - [ ] Has "that" been removed wherever the sentence works without it?
 - [ ] Are there any -ing sentence openers (Building..., Working..., Understanding...)? Rewrite them.
 - [ ] Are the newly banned adverbs absent (particularly, specifically, effectively, consistently, additionally, successfully)?

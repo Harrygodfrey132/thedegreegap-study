@@ -76,6 +76,30 @@ ONLINE_TEMPLATES = [
     ),
 ]
 
+# One image per INTRO_TEMPLATES entry — chosen to match the copy's tone
+# [0] clearer teaching / stronger routines → classroom feel
+# [1] finding the right tutor / busy family → approachable group study
+# [2] balancing demanding schoolwork / exam decisions → aspirational achievement
+INTRO_TO_ABOUT_IMAGE = [
+    "/images/students-in-classroom-taking-notes.jpg",
+    "/images/group-study-discussion-with-laptop.jpg",
+    "/images/graduation-ceremony-caps.jpg",
+]
+
+# One image per ONLINE_TEMPLATES entry — chosen to match the copy's angle
+# [0] access right tutor without travel time → child at laptop, practical
+# [1] keep lessons consistent around busy schedule → tidy workspace with coffee
+# [2] best tutor not always closest geographically → focused late-night study
+# [3] regular structure / fast feedback from home → relaxed home environment
+# [4] removing travel keeps momentum → student celebrating progress
+ONLINE_TO_IMAGE = [
+    "/images/child-using-online-learning-laptop.jpg",
+    "/images/online-study-workspace-with-coffee.jpg",
+    "/images/student-studying-at-night-with-laptop.jpg",
+    "/images/student-studying-on-bed-with-laptop.jpg",
+    "/images/student-celebrating-online-learning.jpg",
+]
+
 SUBJECT_DESCRIPTION_TEMPLATES = {
     "gcse_maths": [
         "Build confidence with number, algebra, geometry, and statistics through targeted GCSE Maths tuition shaped around the student's exam board.",
@@ -155,8 +179,12 @@ SUBJECT_DESCRIPTION_TEMPLATES = {
 }
 
 
+def pick_idx(options: list, seed: str) -> int:
+    return sum(ord(char) for char in seed) % len(options)
+
+
 def pick(options: list, seed: str):
-    return options[sum(ord(char) for char in seed) % len(options)]
+    return options[pick_idx(options, seed)]
 
 
 def load_table(name: str, key: str) -> list[dict]:
@@ -224,7 +252,9 @@ def location_copy(area: dict, seed: str) -> list[tuple[str, str | list[str]]]:
     loc = area["name"]
     banner_heading, banner_lead = pick(BANNER_TEMPLATES, seed)
     intro_1, intro_2 = pick(INTRO_TEMPLATES, seed)
+    about_image = INTRO_TO_ABOUT_IMAGE[pick_idx(INTRO_TEMPLATES, seed)]
     online_heading, online_1, online_2 = pick(ONLINE_TEMPLATES, seed)
+    online_image = ONLINE_TO_IMAGE[pick_idx(ONLINE_TEMPLATES, seed)]
     school_names = area["schools"][:3]
     school_list = ", ".join(school_names[:-1]) + f", and {school_names[-1]}" if len(school_names) > 1 else school_names[0]
 
@@ -233,6 +263,8 @@ def location_copy(area: dict, seed: str) -> list[tuple[str, str | list[str]]]:
         ("banner_lead", banner_lead.format(loc=loc)),
         ("intro_1", intro_1.format(loc=loc)),
         ("intro_2", intro_2.format(loc=loc)),
+        ("about_image", about_image),
+        ("online_image", online_image),
         ("subject_cards", subject_cards(seed)),
         ("schools_intro", f"We support students from schools across the {loc} area, including {school_list}. Whether your child attends a selective, independent, grammar, or local state school, we can help you find a tutor who understands the level expected."),
         ("online_heading", online_heading.format(loc=loc)),
@@ -252,7 +284,9 @@ def location_copy(area: dict, seed: str) -> list[tuple[str, str | list[str]]]:
 def common_copy(area: dict, seed: str, subject: dict | None = None) -> list[tuple[str, str]]:
     loc = area["name"]
     intro_1, intro_2 = pick(INTRO_TEMPLATES, seed)
+    about_image = INTRO_TO_ABOUT_IMAGE[pick_idx(INTRO_TEMPLATES, seed)]
     online_heading, online_1, online_2 = pick(ONLINE_TEMPLATES, seed)
+    online_image = ONLINE_TO_IMAGE[pick_idx(ONLINE_TEMPLATES, seed)]
 
     if subject:
         banner_heading = f"{subject['name']} Tutor in {loc}"
@@ -270,6 +304,8 @@ def common_copy(area: dict, seed: str, subject: dict | None = None) -> list[tupl
         ("banner_lead", banner_lead),
         ("intro_1", intro_1.format(loc=loc)),
         ("intro_2", intro_2.format(loc=loc)),
+        ("about_image", about_image),
+        ("online_image", online_image),
         ("online_heading", online_heading.format(loc=loc)),
         ("online_1", online_1.format(loc=loc)),
         ("online_2", online_2.format(loc=loc)),

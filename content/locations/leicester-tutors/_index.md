@@ -16,8 +16,9 @@ online_1: "All our tuition with Leicester students takes place online through Le
 online_2: "Online tutoring also makes regular sessions far more practical for busy families. There is no travel to arrange and no time lost getting across the city. We match students with the tutor best suited to their subject and year group, and most families find that keeping a consistent weekly rhythm online is easier than organising face-to-face sessions. Consistency is where the progress actually comes from."
 map_url: "https://maps.google.com/maps?q=Leicester,UK&output=embed"
 hero_image: "/images/locations/loc-6.jpg"
-about_image: "/images/locations/loc-2.jpg"
-online_image: "/images/locations/loc-4.jpg"
+about_image: "/images/students-in-classroom-taking-notes.jpg"
+online_image: "/images/student-celebrating-online-learning.jpg"
+schools_image: "/images/students-listening-in-classroom.jpg"
 areas_intro: "The Degree Gap works with students from Leicester and surrounding towns, matching each family with the tutor best suited to their subject and goals."
 area_links: ["Birmingham Tutors|/locations/birmingham-tutors/", "Coventry Tutors|/locations/coventry-tutors/", "Nottingham Tutors|/locations/nottingham-tutors/", "Sheffield Tutors|/locations/sheffield-tutors/", "Manchester Tutors|/locations/manchester-tutors/", "Leeds Tutors|/locations/leeds-tutors/"]
 gcse_subjects: [

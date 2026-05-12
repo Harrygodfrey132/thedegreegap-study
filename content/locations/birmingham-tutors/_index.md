@@ -16,8 +16,9 @@ online_1: "Birmingham families know how hard it can be to fit tutoring sessions 
 online_2: "Our tutors use a shared digital whiteboard so sessions are genuinely interactive, not just a video call with a textbook. Students work through problems in real time, ask questions freely and get immediate feedback. Most families find that once their child has had a few sessions online, the format feels completely natural."
 map_url: "https://maps.google.com/maps?q=Birmingham,UK&output=embed"
 hero_image: "/images/locations/loc-5.jpg"
-about_image: "/images/locations/loc-1.jpg"
-online_image: "/images/locations/loc-7.jpg"
+about_image: "/images/students-in-classroom-taking-notes.jpg"
+online_image: "/images/online-study-workspace-with-coffee.jpg"
+schools_image: "/images/empty-classroom-desks.jpg"
 areas_intro: "The Degree Gap works with students from Birmingham and surrounding towns, matching each family with the tutor best suited to their subject and goals."
 area_links: ["Cambridge Tutors|/locations/cambridge-tutors/", "Leeds Tutors|/locations/leeds-tutors/", "Liverpool Tutors|/locations/liverpool-tutors/", "Manchester Tutors|/locations/manchester-tutors/", "Oxford Tutors|/locations/oxford-tutors/", "Sheffield Tutors|/locations/sheffield-tutors/"]
 gcse_subjects: [

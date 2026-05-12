@@ -16,8 +16,9 @@ online_1: "All sessions run online through Lessonspace, a platform built for one
 online_2: "No travel across Southampton. No scheduling around traffic. Sessions fit around school, activities, family life. Most students settle in quickly, and many concentrate better in a one-to-one online session than in a classroom. Fewer distractions. No pressure to keep pace with thirty other people. For a student who has been quietly falling behind, that environment often makes as much difference as the content itself."
 map_url: "https://maps.google.com/maps?q=Southampton,UK&output=embed"
 hero_image: "/images/locations/loc-8.jpg"
-about_image: "/images/locations/loc-4.jpg"
-online_image: "/images/locations/loc-6.jpg"
+about_image: "/images/students-in-classroom-taking-notes.jpg"
+online_image: "/images/student-studying-on-bed-with-laptop.jpg"
+schools_image: "/images/empty-classroom-desks.jpg"
 areas_intro: "Looking for support beyond Southampton? Our tutors work with families across the wider south of England, online and in person."
 area_links: ["Bristol Tutors|/locations/bristol-tutors/", "Reading Tutors|/locations/reading-tutors/", "Oxford Tutors|/locations/oxford-tutors/", "Brighton Tutors|/locations/brighton-tutors/", "Birmingham Tutors|/locations/birmingham-tutors/", "Cambridge Tutors|/locations/cambridge-tutors/"]
 gcse_subjects: [

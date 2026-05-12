@@ -16,8 +16,9 @@ online_1: "All tuition with Manchester students is delivered online through Less
 online_2: "Consistency is what makes the real difference. A student who meets their tutor each week across a half term will almost always make more progress than one who books several sessions in the week before an exam. Manchester families tell us that the online format makes regular sessions far easier to commit to — no travel, no scheduling around traffic, and the flexibility to book at a time that works around school and other activities. For students rebuilding confidence, that steady weekly rhythm is often exactly what turns things around."
 map_url: "https://maps.google.com/maps?q=Manchester,UK&output=embed"
 hero_image: "/images/locations/loc-2.jpg"
-about_image: "/images/locations/loc-6.jpg"
-online_image: "/images/locations/loc-1.jpg"
+about_image: "/images/group-study-discussion-with-laptop.jpg"
+online_image: "/images/online-study-workspace-with-coffee.jpg"
+schools_image: "/images/aerial-school-campus-building.jpg"
 areas_intro: "The Degree Gap works with students from Manchester and surrounding towns, matching each family with the tutor best suited to their subject and goals."
 area_links: ["Liverpool Tutors|/locations/liverpool-tutors/", "Leeds Tutors|/locations/leeds-tutors/", "Sheffield Tutors|/locations/sheffield-tutors/", "Birmingham Tutors|/locations/birmingham-tutors/", "Nottingham Tutors|/locations/nottingham-tutors/", "Leicester Tutors|/locations/leicester-tutors/"]
 gcse_subjects: [

@@ -16,8 +16,9 @@ online_1: "All tutoring with Oxford students runs online through Lessonspace, a 
 online_2: "For students with a clear target — a grade 7 in Chemistry, a stronger predicted grade for a UCAS application, a sixth form offer that depends on results — online sessions are efficient and focused. Oxford students tell us that one-to-one sessions suit them because there is no ceiling on pace. When something clicks, the tutor moves forward. When it does not, they explain it differently until it does. That is what makes the difference between a good session and one that actually shifts a grade."
 map_url: "https://maps.google.com/maps?q=Oxford,UK&output=embed"
 hero_image: "/images/locations/loc-3.jpg"
-about_image: "/images/locations/loc-7.jpg"
-online_image: "/images/locations/loc-5.jpg"
+about_image: "/images/graduation-ceremony-caps.jpg"
+online_image: "/images/student-studying-at-night-with-laptop.jpg"
+schools_image: "/images/school-clock-tower-building.jpg"
 areas_intro: "Because most of our tuition is online, Oxford students and nearby families can access the right subject specialist without being limited by geography."
 area_links: ["Cambridge Tutors|/locations/cambridge-tutors/", "Bristol Tutors|/locations/bristol-tutors/", "Reading Tutors|/locations/reading-tutors/", "Birmingham Tutors|/locations/birmingham-tutors/", "Coventry Tutors|/locations/coventry-tutors/", "Southampton Tutors|/locations/southampton-tutors/"]
 gcse_subjects: [

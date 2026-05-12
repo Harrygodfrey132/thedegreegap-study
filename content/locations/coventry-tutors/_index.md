@@ -16,8 +16,9 @@ online_1: "All tuition with Coventry students is delivered online through Lesson
 online_2: "Consistency is what makes the difference. A student who meets their tutor weekly across a term will make far more progress than one who books a concentrated block of sessions in the week before an exam. Coventry families tell us that the online format makes it easier to commit to that regularity — sessions fit around school, activities and family life without anyone having to drive anywhere. For students who are trying to get back on track, that steady weekly rhythm is often what actually turns things around."
 map_url: "https://maps.google.com/maps?q=Coventry,UK&output=embed"
 hero_image: "/images/locations/loc-6.jpg"
-about_image: "/images/locations/loc-2.jpg"
-online_image: "/images/locations/loc-4.jpg"
+about_image: "/images/students-in-classroom-taking-notes.jpg"
+online_image: "/images/student-studying-on-bed-with-laptop.jpg"
+schools_image: "/images/empty-classroom-desks.jpg"
 areas_intro: "Our tutors support students across Coventry and the surrounding area — online tuition means there is no barrier to finding the right specialist."
 area_links: ["Birmingham Tutors|/locations/birmingham-tutors/", "Leicester Tutors|/locations/leicester-tutors/", "Nottingham Tutors|/locations/nottingham-tutors/", "Oxford Tutors|/locations/oxford-tutors/", "Wolverhampton Tutors|/locations/wolverhampton-tutors/", "Warwick Tutors|/locations/warwick-tutors/"]
 gcse_subjects: [

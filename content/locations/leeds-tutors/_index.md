@@ -16,8 +16,9 @@ online_1: "All our tuition with Leeds students takes place online, which removes
 online_2: "Online tutoring also means Leeds families are not limited to tutors based nearby. A student preparing for A-Level Chemistry or Further Maths is better served by the right specialist than by whoever happens to live closest. We match students with the tutor who fits their subject and level, and most families find that regular weekly sessions online are far easier to sustain than face-to-face arrangements."
 map_url: "https://maps.google.com/maps?q=Leeds,UK&output=embed"
 hero_image: "/images/locations/loc-1.jpg"
-about_image: "/images/locations/loc-5.jpg"
-online_image: "/images/locations/loc-3.jpg"
+about_image: "/images/graduation-ceremony-caps.jpg"
+online_image: "/images/student-celebrating-online-learning.jpg"
+schools_image: "/images/aerial-school-campus-building.jpg"
 areas_intro: "Our tutors support students across Leeds and the surrounding area, with online tuition removing any distance barrier to finding the right specialist."
 area_links: ["Manchester Tutors|/locations/manchester-tutors/", "Sheffield Tutors|/locations/sheffield-tutors/", "Liverpool Tutors|/locations/liverpool-tutors/", "Birmingham Tutors|/locations/birmingham-tutors/", "Nottingham Tutors|/locations/nottingham-tutors/", "Leicester Tutors|/locations/leicester-tutors/"]
 gcse_subjects: [

@@ -16,8 +16,9 @@ online_1: "All tutoring with Reading students takes place online through Lessons
 online_2: "Online tuition also means Reading families are not limited to tutors based locally. We match students with the right person for their subject and level from a broader pool. A student aiming for a top grade in A-Level Chemistry or Further Maths needs a tutor with deep subject knowledge, not simply one who happens to live nearby. That flexibility is one of the most practical advantages of working with us."
 map_url: "https://maps.google.com/maps?q=Reading,UK&output=embed"
 hero_image: "/images/locations/loc-5.jpg"
-about_image: "/images/locations/loc-2.jpg"
-online_image: "/images/locations/loc-8.jpg"
+about_image: "/images/university-lecture-hall.jpg"
+online_image: "/images/student-studying-at-night-with-laptop.jpg"
+schools_image: "/images/aerial-school-campus-building.jpg"
 areas_intro: "Because most of our tuition is online, students in Reading and nearby areas can access the right subject specialist without being limited by geography."
 area_links: ["Oxford Tutors|/locations/oxford-tutors/", "Brighton Tutors|/locations/brighton-tutors/", "Bristol Tutors|/locations/bristol-tutors/", "Cambridge Tutors|/locations/cambridge-tutors/", "Birmingham Tutors|/locations/birmingham-tutors/", "Leeds Tutors|/locations/leeds-tutors/"]
 gcse_subjects: [

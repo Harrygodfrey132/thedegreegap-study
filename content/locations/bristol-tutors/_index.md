@@ -16,8 +16,9 @@ online_1: "For families across Bristol and the surrounding areas, online tutorin
 online_2: "Online tutoring suits goal-driven students particularly well. Sessions are structured around a specific outcome, not just general revision, which means every hour counts. Whether a student is preparing for a mock, tightening up their exam technique before results day, or working towards predicted grades that will support a competitive application, online tuition with The Degree Gap keeps them moving forward consistently."
 map_url: "https://maps.google.com/maps?q=Bristol,UK&output=embed"
 hero_image: "/images/locations/loc-4.jpg"
-about_image: "/images/locations/loc-1.jpg"
-online_image: "/images/locations/loc-7.jpg"
+about_image: "/images/graduation-ceremony-caps.jpg"
+online_image: "/images/student-studying-at-night-with-laptop.jpg"
+schools_image: "/images/aerial-school-campus-building.jpg"
 areas_intro: "The Degree Gap works with students from Bristol and surrounding towns, matching each family with the tutor best suited to their subject and goals."
 area_links: ["Birmingham Tutors|/locations/birmingham-tutors/", "Cambridge Tutors|/locations/cambridge-tutors/", "Leeds Tutors|/locations/leeds-tutors/", "Liverpool Tutors|/locations/liverpool-tutors/", "Manchester Tutors|/locations/manchester-tutors/", "Oxford Tutors|/locations/oxford-tutors/", "Sheffield Tutors|/locations/sheffield-tutors/"]
 gcse_subjects: [

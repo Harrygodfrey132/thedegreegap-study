@@ -16,8 +16,9 @@ online_1: "All our tutoring with Brighton students takes place online through Le
 online_2: "For Brighton and Hove families, the online format also opens access to a broader range of subject specialists. A student pushing for a strong A-Level grade benefits more from a tutor who knows that subject deeply than from whoever happens to live nearby. We match each student with the right person for their subject and level, regardless of where that tutor is based. Keeping sessions consistent week to week is what drives progress, and removing the need to travel across the city makes that much easier."
 map_url: "https://maps.google.com/maps?q=Brighton,UK&output=embed"
 hero_image: "/images/locations/loc-7.jpg"
-about_image: "/images/locations/loc-4.jpg"
-online_image: "/images/locations/loc-6.jpg"
+about_image: "/images/graduation-ceremony-caps.jpg"
+online_image: "/images/student-celebrating-online-learning.jpg"
+schools_image: "/images/school-clock-tower-building.jpg"
 areas_intro: "Our tutors support students across Brighton and the surrounding area, with online tuition removing any distance barrier to finding the right specialist."
 area_links: ["Nottingham Tutors|/locations/nottingham-tutors/", "Southampton Tutors|/locations/southampton-tutors/", "Reading Tutors|/locations/reading-tutors/", "Oxford Tutors|/locations/oxford-tutors/", "Bristol Tutors|/locations/bristol-tutors/", "Cambridge Tutors|/locations/cambridge-tutors/"]
 gcse_subjects: [

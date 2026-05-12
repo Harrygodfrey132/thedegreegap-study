@@ -16,8 +16,9 @@ online_1: "All sessions run online through Lessonspace. Students and tutors shar
 online_2: "Sheffield is a big city. No travel makes it much easier to keep sessions regular, and regular is what actually moves grades. A student who meets their tutor every week across a term will do better than one who books a block of sessions in the week before exams. Most Sheffield families find the online format easier to commit to than they expected. The sessions quickly feel normal."
 map_url: "https://maps.google.com/maps?q=Sheffield,UK&output=embed"
 hero_image: "/images/locations/loc-1.jpg"
-about_image: "/images/locations/loc-6.jpg"
-online_image: "/images/locations/loc-3.jpg"
+about_image: "/images/students-in-classroom-taking-notes.jpg"
+online_image: "/images/student-studying-on-bed-with-laptop.jpg"
+schools_image: "/images/students-listening-in-classroom.jpg"
 areas_intro: "Our tutors support students across Sheffield and the surrounding area, with online tuition removing any distance barrier to finding the right specialist."
 area_links: ["Leeds Tutors|/locations/leeds-tutors/", "Manchester Tutors|/locations/manchester-tutors/", "Nottingham Tutors|/locations/nottingham-tutors/", "Leicester Tutors|/locations/leicester-tutors/", "Birmingham Tutors|/locations/birmingham-tutors/", "Liverpool Tutors|/locations/liverpool-tutors/"]
 gcse_subjects: [

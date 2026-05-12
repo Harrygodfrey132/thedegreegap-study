@@ -16,8 +16,9 @@ online_1: "Online tutoring works particularly well for students who have lost co
 online_2: "Sessions use a shared digital whiteboard so students and tutors work through problems together, not just with the tutor explaining while the student watches. Most families find that once a student has had a few sessions online, the format feels natural and progress starts to show. Getting started is simple and we handle the matching so no one is left searching on their own."
 map_url: "https://maps.google.com/maps?q=Liverpool,UK&output=embed"
 hero_image: "/images/locations/loc-2.jpg"
-about_image: "/images/locations/loc-7.jpg"
-online_image: "/images/locations/loc-5.jpg"
+about_image: "/images/group-study-discussion-with-laptop.jpg"
+online_image: "/images/student-celebrating-online-learning.jpg"
+schools_image: "/images/school-clock-tower-building.jpg"
 areas_intro: "Because most of our tuition is online, students in Liverpool and nearby areas can access the right subject specialist without being limited by geography."
 area_links: ["Manchester Tutors|/locations/manchester-tutors/", "Leeds Tutors|/locations/leeds-tutors/", "Sheffield Tutors|/locations/sheffield-tutors/", "Birmingham Tutors|/locations/birmingham-tutors/", "Nottingham Tutors|/locations/nottingham-tutors/", "Bristol Tutors|/locations/bristol-tutors/"]
 gcse_subjects: [
