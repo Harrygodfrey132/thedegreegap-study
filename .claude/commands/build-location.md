@@ -458,7 +458,17 @@ The first 3 will be visible immediately. The last 3 appear under "Show more revi
    **Be opinionated and direct.** AI hedges. Humans state things plainly. Write "Most students in large comprehensives get very little individual attention. That's just the reality." not "Many students may find that individual attention can be limited in larger school settings."
 
    **Banned words — do not use any of these:**
-   landscape, foster, navigate, delve, crucial, realm, testament, pivotal, seamless, robust, comprehensive (as an adjective), vibrant, tapestry, unlock, embark, journey (metaphorical), leverage, stakeholders, furthermore, moreover, in conclusion, it is worth noting, it is important to note, a range of, a variety of.
+   landscape, foster, navigate, delve, crucial, realm, testament, pivotal, seamless, robust, comprehensive (as an adjective), vibrant, tapestry, unlock, embark, journey (metaphorical), leverage, stakeholders, furthermore, moreover, in conclusion, it is worth noting, it is important to note, a range of, a variety of, particularly, specifically, effectively, consistently, additionally, successfully.
+
+   **Use contractions naturally.** Write it's, don't, can't, we'd, they're, that's the way a person would say it out loud. AI avoids contractions or uses them awkwardly. Humans don't think about it. Neither should you.
+
+   **Start sentences with And or But when it fits.** "But that's the problem." "And most families find it straightforward." These read human. AI was trained to avoid them. Use them.
+
+   **Use active voice.** "Tutors structure sessions around the student" not "Sessions are structured around the student." "We match students with tutors" not "Students are matched with tutors." Passive voice is a consistent AI tell. Default to active throughout.
+
+   **Cut unnecessary "that".** "We know students need support" not "We know that students need support." Read every sentence and remove "that" where the sentence still works without it. It tightens the writing and removes an AI pattern.
+
+   **No -ing sentence openers.** "Building confidence..." / "Understanding the brief..." / "Working through problems..." are AI sentence starters. Do not open a sentence with a gerund. Rewrite: "Confidence builds..." / "Once they understand the brief..." / "Working through problems together is different from watching."
 
    **Specific over general.** Every sentence that could apply to any city in the UK is a wasted sentence. Push the local research into the writing. A sentence that could only be about Sheffield because it names a real school or a real fact about Sheffield is worth ten generic ones.
 
@@ -530,3 +540,8 @@ Use as a vocabulary bank — weave concepts into original sentences, never copy 
 - [ ] Does every section feel like it could only be about this specific location, not any city in the UK?
 - [ ] Are there any three consecutive paragraphs of the same length? If so, fix one.
 - [ ] Does the writing make at least one direct, opinionated statement rather than hedging everything?
+- [ ] Are contractions used naturally throughout (it's, don't, can't, we'd, they're)?
+- [ ] Are there any passive voice constructions that should be active? Fix them.
+- [ ] Has "that" been removed wherever the sentence works without it?
+- [ ] Are there any -ing sentence openers (Building..., Working..., Understanding...)? Rewrite them.
+- [ ] Are the newly banned adverbs absent (particularly, specifically, effectively, consistently, additionally, successfully)?
