@@ -455,7 +455,7 @@ The first 3 will be visible immediately. The last 3 appear under "Show more revi
 
    **Break structural symmetry.** AI builds balanced, parallel structures. Humans don't. Do not open three paragraphs in a row the same way. Do not make every sentence in a list the same length. Deliberately make some sections shorter and punchier than others.
 
-   **Be opinionated and direct.** AI hedges. Humans state things plainly. Write "Most students in large comprehensives get very little individual attention. That's just the reality." not "Many students may find that individual attention can be limited in larger school settings."
+   **Be direct, not aggressive.** State things plainly rather than hedging — but never attack schools, criticise teachers, or make claims about teaching quality. Use attainment data as neutral context, not as ammunition. "More than half of Sheffield's schools score below the national average" is a fact. "Good teaching is harder to come by" is an attack. The angle is always that students need more individual attention than any classroom can provide — not that schools are bad. Keep it about class size and pace, not about quality.
 
    **Banned words — do not use any of these:**
    landscape, foster, navigate, delve, crucial, realm, testament, pivotal, seamless, robust, comprehensive (as an adjective), vibrant, tapestry, unlock, embark, journey (metaphorical), leverage, stakeholders, furthermore, moreover, in conclusion, it is worth noting, it is important to note, a range of, a variety of, particularly, specifically, effectively, consistently, additionally, successfully.
