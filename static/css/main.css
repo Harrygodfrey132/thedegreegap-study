@@ -2803,7 +2803,7 @@ p:last-child { margin-bottom: 0; }
 .loc-hero__badge {
   display: inline-flex;
   align-items: center;
-  gap: 6px;
+  gap: 8px;
   font-size: 0.7rem;
   font-weight: 700;
   letter-spacing: 0.1em;
@@ -2812,9 +2812,11 @@ p:last-child { margin-bottom: 0; }
   color: #fff;
   border: none;
   border-radius: 999px;
-  padding: 7px 18px;
+  padding: 8px 20px 8px 14px;
   margin-bottom: 1.5rem;
+  box-shadow: 0 2px 8px rgba(114,28,36,0.12);
 }
+.loc-hero__badge svg { color: #F4C430; flex-shrink: 0; }
 .loc-hero h1 {
   font-size: clamp(2.2rem, 4.5vw, 3.5rem);
   margin-bottom: 1.25rem;
@@ -3278,11 +3280,10 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   .loc-online__inner,
   .loc-contact-faq__inner { grid-template-columns: 1fr; }
 
-  .loc-hero { padding: 48px 0 0; }
-  .loc-hero__image { display: block; overflow: hidden; margin-top: 40px; }
-  .loc-hero__image .loc-img-circle { display: none; }
-  .loc-img-hero { width: 100%; height: 260px; object-fit: cover; object-position: top center; border-radius: 0; }
-  .loc-img-placeholder--hero { width: 100%; height: 200px; border-radius: 0; }
+  .loc-hero { padding: 48px 0 40px; position: relative; }
+  .loc-hero__image { display: none; }
+  .loc-hero::before { content: ''; position: absolute; top: -60px; right: -60px; width: 200px; height: 200px; background: #F4C430; border-radius: 50%; opacity: 0.12; pointer-events: none; }
+  .loc-hero::after { content: none; }
   .loc-about,
   .loc-why,
   .loc-subjects,
