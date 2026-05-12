@@ -441,12 +441,13 @@ The first 3 will be visible immediately. The last 3 appear under "Show more revi
 
 1. **British English spelling throughout.** Personalised, organised, colour, programme, etc.
 2. **Tone:** Warm, plain, parent-facing. Write like a knowledgeable friend who works in education — not a corporate brochure, not a sales pitch. Short sentences. Plain words. No jargon.
-3. **No em dashes anywhere.** Do not use — in any field. Use a comma, a full stop, or rewrite the sentence instead. This applies to every single field including banners, intros, schools, online sections, and FAQs.
-4. **No placeholder language.** Words like "cutting-edge", "bespoke", "transformative", "unlock potential", "embark on a journey", or "world-class" are banned. Write specifically, not generically.
-5. **No placeholders.** Every field must be real, filled-in content.
-6. **Find schools yourself** using web search — do not ask the user for school names unless search fails.
-7. **Save the file** to `content/locations/{location-slug}-tutors/_index.md`, creating the directory if needed.
-8. **Never link to a location page that does not exist** in `content/locations/`.
+3. **Write as a human, not an AI.** Write as if someone with direct experience of this city and its schools wrote this themselves. Use natural rhythm. Vary sentence length — some short, some longer, occasionally a fragment where it reads naturally. Avoid perfectly balanced paragraph structures. Do not open every sentence with the subject. Let the writing feel like it came from a person who knows the area, not from research assembled into paragraphs.
+4. **No em dashes anywhere.** Do not use — in any field. Use a comma, a full stop, or rewrite the sentence instead. This applies to every single field including banners, intros, schools, online sections, and FAQs.
+5. **No placeholder language.** Words like "cutting-edge", "bespoke", "transformative", "unlock potential", "embark on a journey", or "world-class" are banned. Write specifically, not generically.
+6. **No placeholders.** Every field must be real, filled-in content.
+7. **Find schools yourself** using web search — do not ask the user for school names unless search fails.
+8. **Save the file** to `content/locations/{location-slug}-tutors/_index.md`, creating the directory if needed.
+9. **Never link to a location page that does not exist** in `content/locations/`.
 
 ---
 

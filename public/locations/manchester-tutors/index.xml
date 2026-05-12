@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Manchester Tutors | Expert Support | The Degree Gap on The Degree Gap | Tutoring &amp;amp; Study Resources</title><link>https://study.thedegreegap.com/locations/manchester-tutors/</link><description>Recent content in Manchester Tutors | Expert Support | The Degree Gap on The Degree Gap | Tutoring &amp;amp; Study Resources</description><generator>Hugo</generator><language>en-gb</language><atom:link href="https://study.thedegreegap.com/locations/manchester-tutors/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manchester Tutors | One-to-One Tuition | The Degree Gap on The Degree Gap | Tutoring &amp;amp; Study Resources</title>
+    <link>http://localhost:59053/locations/manchester-tutors/</link>
+    <description>Recent content in Manchester Tutors | One-to-One Tuition | The Degree Gap on The Degree Gap | Tutoring &amp;amp; Study Resources</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <atom:link href="http://localhost:59053/locations/manchester-tutors/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
