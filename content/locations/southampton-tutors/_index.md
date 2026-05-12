@@ -2,6 +2,7 @@
 title: "Southampton Tutors | Expert Support | The Degree Gap"
 description: "Find a Southampton tutor for GCSE and A-Level support, with one-to-one sessions built around closing the gaps that are quietly holding grades back."
 layout: "single"
+hero_image: "/images/hero-tutor.png"
 location: "Southampton"
 banner_heading: "Looking for a Southampton tutor who actually changes results?"
 banner_description: "Most tutoring covers this week's topic. Our Southampton tutors go back further, find where things stopped making sense, and fix it from there."

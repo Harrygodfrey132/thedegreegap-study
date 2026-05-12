@@ -2,6 +2,7 @@
 title: "Nottingham Tutors | Expert Support | The Degree Gap"
 description: "Find experienced Nottingham tutors for GCSE and A-Level support, closing the gap between what students know and what exam results actually show."
 layout: "single"
+hero_image: "/images/hero-tutor.png"
 location: "Nottingham"
 banner_heading: "Need a Nottingham tutor who finds the gap, not just covers the content?"
 banner_description: "The Degree Gap connects Nottingham students with tutors who trace problems back to their root and build from there, so hard work finally starts to show in grades."

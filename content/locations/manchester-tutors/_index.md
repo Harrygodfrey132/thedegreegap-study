@@ -2,6 +2,7 @@
 title: "Manchester Tutors | A-Level and 11+ | The Degree Gap"
 description: "Find an experienced Manchester tutor for GCSE, A-Level and 11+ preparation, with one-to-one sessions built around what each student actually needs."
 layout: "single"
+hero_image: "/images/hero-tutor.png"
 location: "Manchester"
 banner_heading: "Need a Manchester tutor who prepares students, not just covers content?"
 banner_description: "The Degree Gap matches Manchester students with tutors who find the gap, close it, and give students the exam confidence to show what they know."

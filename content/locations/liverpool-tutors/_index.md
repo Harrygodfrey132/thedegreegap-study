@@ -2,6 +2,7 @@
 title: "Liverpool Tutors | Expert Support | The Degree Gap"
 description: "Find an experienced Liverpool tutor for GCSE and A-Level support, with one-to-one sessions built around closing the gap between where your child is and where they want to be."
 layout: "single"
+hero_image: "/images/hero-tutor.png"
 location: "Liverpool"
 banner_heading: "Need a Liverpool tutor who actually closes the gap?"
 banner_description: "Our Liverpool tutors identify exactly where things stopped making sense and build a plan around that, not a generic programme that assumes everyone starts from the same place."

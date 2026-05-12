@@ -2,6 +2,7 @@
 title: "Bristol Tutors | One-to-One Tuition | The Degree Gap"
 description: "Looking for a Bristol tutor for GCSE or A-Level? The Degree Gap matches students with experienced tutors who close gaps and build real exam confidence."
 layout: "single"
+hero_image: "/images/hero-tutor.png"
 location: "Bristol"
 banner_heading: "Need a Bristol tutor who prepares students for the grades that matter?"
 banner_description: "The Degree Gap connects Bristol families with tutors who understand what sixth form entry and university applications actually demand, and who build a plan around getting there."

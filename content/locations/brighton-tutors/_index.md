@@ -2,6 +2,7 @@
 title: "Brighton Tutors | Expert Support | The Degree Gap"
 description: "Looking for a Brighton tutor for GCSE or A-Level? The Degree Gap matches students with vetted tutors who know what the grades need to look like and how to get there."
 layout: "single"
+hero_image: "/images/hero-tutor.png"
 location: "Brighton"
 banner_heading: "Need a Brighton tutor who prepares students for what comes next?"
 banner_description: "The Degree Gap connects Brighton families with tutors who focus on the grades that open doors: sixth form entry, university offers, and everything in between."

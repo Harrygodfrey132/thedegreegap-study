@@ -2,6 +2,7 @@
 title: "Portsmouth Tutors | Expert Support | The Degree Gap"
 description: "Find a Portsmouth tutor who starts with your child's actual gaps, not a generic plan. The Degree Gap matches students with vetted, experienced tutors."
 layout: "single"
+hero_image: "/images/hero-tutor.png"
 location: "Portsmouth"
 banner_heading: "Looking for a Portsmouth tutor who actually diagnoses the problem?"
 banner_description: "Most tutoring just follows the school timetable. Our Portsmouth tutors start by finding what's been missed, then build a proper plan around it."

@@ -2,6 +2,7 @@
 title: "Leicester Tutors | Expert Support | The Degree Gap"
 description: "Find a Leicester tutor who matches ambition with results, covering GCSE and A-Level across all major subjects."
 layout: "single"
+hero_image: "/images/hero-tutor.png"
 location: "Leicester"
 banner_heading: "Need a Leicester tutor who understands the gap between ambition and results?"
 banner_description: "The Degree Gap matches Leicester students with tutors who close that gap, one session at a time."

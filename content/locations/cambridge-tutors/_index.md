@@ -2,6 +2,7 @@
 title: "Cambridge Tutors | Expert Support | The Degree Gap"
 description: "Find experienced Cambridge tutors for GCSE and A-Level, matched to the ambition and competition that defines academic life in this city."
 layout: "single"
+hero_image: "/images/hero-tutor.png"
 location: "Cambridge"
 banner_heading: "Need a Cambridge tutor who understands what top grades actually take?"
 banner_description: "The Degree Gap matches students with tutors who know the standard Hills Road and the top universities expect, and how to get there."

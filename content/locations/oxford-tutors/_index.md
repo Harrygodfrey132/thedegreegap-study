@@ -2,6 +2,7 @@
 title: "Oxford Tutors | One-to-One Tuition | The Degree Gap"
 description: "Find an experienced Oxford tutor for GCSE and A-Level support, matched to your child's specific subject and goals."
 layout: "single"
+hero_image: "/images/hero-tutor.png"
 location: "Oxford"
 banner_heading: "Need an Oxford tutor who goes beyond what the classroom can offer?"
 banner_description: "The Degree Gap matches Oxford students with tutors who identify the exact gaps holding a grade back and build a plan around them."

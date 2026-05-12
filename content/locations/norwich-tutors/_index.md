@@ -2,6 +2,7 @@
 title: "Norwich Tutors | Expert Support | The Degree Gap"
 description: "Find a Norwich tutor who identifies exactly where your child is stuck, builds a clear plan and gets results at GCSE and A-Level."
 layout: "single"
+hero_image: "/images/hero-tutor.png"
 location: "Norwich"
 banner_heading: "Need a Norwich tutor who starts with the gap, not the grade?"
 banner_description: "Our Norwich tutors find precisely where things stopped making sense and work from there, not from the top of the syllabus."

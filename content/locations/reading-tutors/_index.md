@@ -2,6 +2,7 @@
 title: "Reading Tutors | GCSE & A-Level | The Degree Gap"
 description: "Find an experienced Reading tutor for GCSE or A-Level, with expert one-to-one support in one of England's most academically competitive towns."
 layout: "single"
+hero_image: "/images/hero-tutor.png"
 location: "Reading"
 banner_heading: "Looking for a Reading tutor who knows what this area actually demands?"
 banner_description: "The Degree Gap connects Reading students with vetted tutors who understand the pressure here and what it takes to meet it."

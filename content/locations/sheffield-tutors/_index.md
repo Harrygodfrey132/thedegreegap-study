@@ -2,6 +2,7 @@
 title: "Sheffield Tutors | Expert Support | The Degree Gap"
 description: "Find a Sheffield tutor for GCSE and A-Level support, matched to your child's subject, year group and goals."
 layout: "single"
+hero_image: "/images/hero-tutor.png"
 location: "Sheffield"
 banner_heading: "Need a Sheffield tutor who's focused on your child's next target?"
 banner_description: "Most tutoring covers content. Our Sheffield tutors find what's actually blocking progress and work on that first."

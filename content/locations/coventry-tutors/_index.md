@@ -2,6 +2,7 @@
 title: "GCSE & A-Level Tutors in Coventry | The Degree Gap"
 description: "Find an experienced Coventry tutor for GCSE or A-Level support — one-to-one sessions that close gaps and move grades in the right direction."
 layout: "single"
+hero_image: "/images/hero-tutor.png"
 location: "Coventry"
 banner_heading: "Looking for a Coventry tutor who goes beyond covering the syllabus?"
 banner_description: "Most tutoring repeats what school already taught. Our Coventry tutors find the exact point where understanding broke down and build from there."

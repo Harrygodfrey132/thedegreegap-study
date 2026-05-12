@@ -2,6 +2,7 @@
 title: "Derby Tutors | Expert Support | The Degree Gap"
 description: "Find an experienced Derby tutor for GCSE and A-Level, helping students get the grades their ambition demands in one of England's great engineering cities."
 layout: "single"
+hero_image: "/images/hero-tutor.png"
 location: "Derby"
 banner_heading: "Need a Derby tutor who matches your child's ambition?"
 banner_description: "Most tutoring just covers the content again. Our Derby tutors find what's actually missing and build from there."

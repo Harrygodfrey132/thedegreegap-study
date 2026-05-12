@@ -2,6 +2,7 @@
 title: "Swindon Tutors | The Degree Gap"
 description: "Find a Swindon tutor for GCSE or A-Level with The Degree Gap, expert one-to-one tuition that closes real gaps and builds the grades New College entry demands."
 layout: "single"
+hero_image: "/images/hero-tutor.png"
 location: "Swindon"
 banner_heading: "Expert Swindon tutors for GCSE and A-Level"
 banner_description: "Our Swindon tutors close the foundation gaps that hold students back at GCSE, and build the grades that post-16 entry demands."

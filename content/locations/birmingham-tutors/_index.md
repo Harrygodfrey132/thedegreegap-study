@@ -2,6 +2,7 @@
 title: "GCSE & A-Level Tutors in Birmingham | The Degree Gap"
 description: "Find experienced Birmingham tutors for GCSE and A-Level support, with one-to-one sessions tailored to close gaps and build the confidence students need."
 layout: "single"
+hero_image: "/images/hero-tutor.png"
 location: "Birmingham"
 banner_heading: "Looking for a Birmingham tutor who gets to the root of the problem?"
 banner_description: "Most tutoring covers the same content again and hopes it sticks. Our Birmingham tutors find what's not working and explain it differently until it does."

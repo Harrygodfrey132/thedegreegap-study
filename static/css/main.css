@@ -2796,8 +2796,8 @@ p:last-child { margin-bottom: 0; }
 }
 .loc-hero__inner {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 56px;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 80px;
   align-items: center;
 }
 .loc-hero__badge {
@@ -2843,36 +2843,39 @@ p:last-child { margin-bottom: 0; }
 .loc-hero__stars { color: #F4B400; font-size: 1.2rem; letter-spacing: 1px; }
 .loc-hero__count { font-size: 0.82rem; color: var(--text-muted); font-weight: 600; }
 
-.loc-hero__image { position: relative; display: flex; align-items: center; justify-content: center; }
+.loc-hero__image { position: relative; display: flex; align-items: center; justify-content: flex-end; }
 .loc-img-circle {
-  width: 500px;
-  height: 500px;
+  width: 560px;
+  height: 560px;
   background: #F4C430;
   border-radius: 50%;
   position: absolute;
-  right: -40px;
+  right: -90px;
   top: 50%;
   transform: translateY(-50%);
   z-index: 0;
 }
 .loc-img-placeholder--hero {
-  width: 380px;
-  height: 500px;
+  width: 420px;
+  height: 580px;
   border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
   min-height: 0;
   background: var(--cream-dark);
   position: relative;
   z-index: 1;
+  margin-right: -60px;
 }
 .loc-img-hero {
   position: relative;
   z-index: 1;
-  width: 380px;
-  height: 500px;
+  width: 420px;
+  height: 580px;
   object-fit: cover;
   object-position: top center;
   display: block;
   border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+  margin-right: -60px;
+  box-shadow: -12px 20px 60px rgba(0,0,0,0.12);
 }
 
 /* --- About / Trust --- */
