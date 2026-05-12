@@ -136,6 +136,34 @@
   </div>
 </section>
 
+<!-- Local Tutoring -->
+{{ $locationPages := where .Site.Pages "Section" "locations" }}
+{{ $locationPages = where $locationPages "Kind" "section" }}
+{{ if $locationPages }}
+<section class="home-section home-locations-section">
+  <div class="container">
+    <div class="home-section__header">
+      <div>
+        <p class="pp-eyebrow">Local Tutoring</p>
+        <h2>Find a Tutor Near You</h2>
+        <p class="home-section__lead">We provide GCSE and A-Level tutoring across the UK. Find your local tutoring page for schools, subject guides, and everything you need to get started.</p>
+      </div>
+      <a href="/locations/" class="btn btn-outline">View all locations →</a>
+    </div>
+    <div class="home-locations-grid">
+      {{ range $locationPages }}
+      {{ if ne .RelPermalink "/locations/" }}
+      <a href="{{ .RelPermalink }}" class="home-location-card">
+        <span class="home-location-card__name">{{ .Params.location | default .Title }}</span>
+        <span class="home-location-card__link">Find a tutor →</span>
+      </a>
+      {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
 <!-- Video -->
 <div class="container">
   {{ partial "video-cta.html" . }}

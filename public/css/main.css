@@ -1659,6 +1659,40 @@ p:last-child { margin-bottom: 0; }
   color: var(--white);
 }
 
+/* Local tutoring section */
+.home-locations-section { border-top: 1px solid var(--border); }
+.home-locations-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+  margin-top: 2rem;
+}
+.home-location-card {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 20px 22px;
+  background: var(--cream-dark);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  text-decoration: none;
+  color: var(--text);
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+.home-location-card:hover {
+  border-color: var(--burgundy);
+  box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+}
+.home-location-card__name {
+  font-weight: 700;
+  font-size: 0.95rem;
+}
+.home-location-card__link {
+  font-size: 0.8rem;
+  color: var(--burgundy);
+  font-weight: 600;
+}
+
 /* Proof strip */
 .home-proof-section { border-top: 1px solid var(--border); }
 
@@ -1866,6 +1900,7 @@ p:last-child { margin-bottom: 0; }
   .home-hero__actions .btn { width: 100%; text-align: center; }
   .home-boards-grid { grid-template-columns: 1fr; }
   .home-subjects-grid { grid-template-columns: repeat(3, 1fr); }
+  .home-locations-grid { grid-template-columns: repeat(2, 1fr); }
   .home-proof-grid { grid-template-columns: 1fr; }
   .home-section__header { flex-direction: column; align-items: flex-start; gap: 14px; }
   .home-services { grid-template-columns: 1fr; padding: 36px 0 40px; }
@@ -2787,7 +2822,8 @@ p:last-child { margin-bottom: 0; }
   letter-spacing: -0.02em;
 }
 .loc-hero__lead { font-size: 1.1rem; color: var(--text-muted); margin-bottom: 2rem; line-height: 1.75; }
-.loc-hero__actions { display: flex; gap: 14px; flex-wrap: wrap; margin-bottom: 2rem; }
+.loc-hero__actions { display: flex; gap: 14px; flex-wrap: wrap; margin-bottom: 1rem; }
+.loc-hero__pricing { font-size: 0.9rem; color: var(--text-muted); margin-bottom: 1.5rem; }
 .loc-hero__rating {
   display: inline-flex;
   align-items: center;
@@ -2807,24 +2843,34 @@ p:last-child { margin-bottom: 0; }
 
 .loc-hero__image { position: relative; display: flex; align-items: center; justify-content: center; }
 .loc-img-circle {
-  width: 400px;
-  height: 400px;
+  width: 500px;
+  height: 500px;
   background: #F4C430;
   border-radius: 50%;
   position: absolute;
-  right: -20px;
+  right: -40px;
   top: 50%;
   transform: translateY(-50%);
   z-index: 0;
 }
 .loc-img-placeholder--hero {
-  width: 320px;
-  height: 420px;
+  width: 380px;
+  height: 500px;
   border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
   min-height: 0;
   background: var(--cream-dark);
   position: relative;
   z-index: 1;
+}
+.loc-img-hero {
+  position: relative;
+  z-index: 1;
+  width: 380px;
+  height: 500px;
+  object-fit: cover;
+  object-position: top center;
+  display: block;
+  border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
 }
 
 /* --- About / Trust --- */
@@ -2998,7 +3044,8 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   align-items: center;
 }
 .loc-schools__copy h2 { font-size: clamp(1.7rem, 3vw, 2.5rem); margin-bottom: 1rem; }
-.loc-schools__img-right { border-radius: 12px; overflow: hidden; min-height: 300px; }
+.loc-schools__img-right { border-radius: 12px; overflow: hidden; height: 400px; align-self: stretch; }
+.loc-schools__img-right iframe { display: block; width: 100%; height: 100%; border: 0; }
 
 .loc-schools__band {
   display: grid;
@@ -3240,6 +3287,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   .loc-schools__top { padding: 80px 0; }
   .loc-schools__top { padding-bottom: 0; }
   .loc-schools__band-img { min-height: 200px; }
+  .loc-schools__img-right { height: 260px; align-self: auto; }
   .loc-contact-faq__form-card { padding: 44px 28px; }
   .loc-faq { padding: 44px 28px; }
   .loc-reviews { padding: 80px 0; }

@@ -22,6 +22,10 @@ Location tutor page content contract:
 {{ $alevelSubjectCards := .Params.alevel_subjects | default (after 6 (first 12 $subjectCards)) }}
 {{ $otherSubjectCards := .Params.other_subjects | default (after 12 $subjectCards) }}
 {{ $hasFaq := or .Params.faq_1_q .Params.faq_2_q .Params.faq_3_q .Params.faq_4_q }}
+{{ $heroImage := .Params.hero_image | default "" }}
+{{ $aboutImage := .Params.about_image | default "" }}
+{{ $onlineImage := .Params.online_image | default "" }}
+{{ $mapUrl := .Params.map_url | default (printf "https://maps.google.com/maps?q=%s,UK&output=embed" (urlquery $loc)) }}
 
 <!-- =============================================
      SECTION 1: HERO
@@ -30,17 +34,18 @@ Location tutor page content contract:
   <div class="container">
     <div class="loc-hero__inner">
       <div class="loc-hero__copy">
-        <span class="loc-hero__badge">
+        <a href="https://youtu.be/2bMD7DkUmJU" target="_blank" rel="noopener" class="loc-hero__badge">
           <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
           WINNER — GCSE SPECIALISTS OF THE YEAR 2025
-        </span>
+        </a>
         <h1>{{ $bannerHeading }}</h1>
         <p class="loc-hero__lead">{{ $bannerLead }}</p>
         <div class="loc-hero__actions">
           <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary btn-lg">Find Your Tutor</a>
           <a href="#get-help" class="btn btn-outline btn-lg">Contact Us</a>
         </div>
-        <div class="loc-hero__rating">
+        <p class="loc-hero__pricing">From <strong>£37/hr</strong> &middot; rates agreed directly with your tutor</p>
+        <a href="https://share.google/1yemVhJDnSjd6qg4n" target="_blank" rel="noopener" class="loc-hero__rating">
           <div class="loc-hero__google">
             <svg width="60" height="20" viewBox="0 0 60 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="Google">
               <text x="0" y="16" font-family="Arial,sans-serif" font-size="14" font-weight="700">
@@ -54,14 +59,17 @@ Location tutor page content contract:
             ★★★★★
           </div>
           <span class="loc-hero__count">100 Google reviews</span>
-        </div>
+        </a>
       </div>
       <div class="loc-hero__image" aria-hidden="true">
-        <!-- Replace with actual hero image -->
         <div class="loc-img-circle"></div>
+        {{ if $heroImage }}
+        <img src="{{ $heroImage }}" alt="Tutoring support in {{ $loc }}" class="loc-img-hero" loading="eager">
+        {{ else }}
         <div class="loc-img-placeholder loc-img-placeholder--hero">
           <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" opacity="0.25"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.6-7 8-7s8 3 8 7"/></svg>
         </div>
+        {{ end }}
       </div>
     </div>
   </div>
@@ -74,14 +82,17 @@ Location tutor page content contract:
   <div class="container">
     <div class="loc-about__inner">
       <div class="loc-about__image">
-        <!-- Replace with a photo of the location -->
+        {{ if $aboutImage }}
+        <img src="{{ $aboutImage }}" alt="Expert tutors in {{ $loc }}" class="loc-img-about" loading="lazy">
+        {{ else }}
         <div class="loc-img-placeholder loc-img-placeholder--location">
           <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" opacity="0.25"><path d="M21 10c0 7-9 13-9 13S3 17 3 10a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
         </div>
+        {{ end }}
       </div>
       <div class="loc-about__copy">
         <p class="loc-eyebrow">TRUSTED BY SCHOOLS &amp; PARENTS</p>
-        <h2>Leading GCSE and A-Level Tutors in {{ $loc }}</h2>
+        <h2>{{ .Params.about_heading | default (printf "Leading GCSE and A-Level Tutors in %s" $loc) }}</h2>
         <p>{{ $intro1 }}</p>
         <p>{{ $intro2 }}</p>
 
@@ -151,7 +162,7 @@ Location tutor page content contract:
 <section class="loc-subjects">
   <div class="container">
     <p class="loc-eyebrow loc-eyebrow--center">ACADEMIC SUBJECTS WE COVER</p>
-    <h2 class="loc-subjects__title">Complete GCSE &amp; A-Level Support</h2>
+    <h2 class="loc-subjects__title">Complete GCSE &amp; A-Level Support in {{ $loc }}</h2>
 
     <div class="loc-tabs" role="tablist" aria-label="Subject level">
       <button class="loc-tab loc-tab--active" role="tab" aria-selected="true" data-tab="gcse">GCSE</button>
@@ -163,11 +174,12 @@ Location tutor page content contract:
       <ol class="loc-subject-list">
         {{ range $index, $card := $gcseSubjectCards }}
         {{ $parts := split $card "|" }}
+        {{ $href := cond (gt (len $parts) 2) (index $parts 2) (printf "%s/teachers" $.Site.Params.mainSiteURL) }}
         <li class="loc-subject-item">
           <span class="loc-subject-num">{{ printf "%02d." (add $index 1) }}</span>
           <span class="loc-subject-name">{{ index $parts 0 }}</span>
           <p class="loc-subject-desc">{{ index $parts 1 }}</p>
-          <a href="{{ $.Site.Params.mainSiteURL }}/teachers" class="btn btn-primary">Find a Tutor</a>
+          <a href="{{ $href }}" class="btn btn-primary">Find a Tutor</a>
         </li>
         {{ end }}
       </ol>
@@ -177,11 +189,12 @@ Location tutor page content contract:
       <ol class="loc-subject-list">
         {{ range $index, $card := $alevelSubjectCards }}
         {{ $parts := split $card "|" }}
+        {{ $href := cond (gt (len $parts) 2) (index $parts 2) (printf "%s/teachers" $.Site.Params.mainSiteURL) }}
         <li class="loc-subject-item">
           <span class="loc-subject-num">{{ printf "%02d." (add $index 1) }}</span>
           <span class="loc-subject-name">{{ index $parts 0 }}</span>
           <p class="loc-subject-desc">{{ index $parts 1 }}</p>
-          <a href="{{ $.Site.Params.mainSiteURL }}/teachers" class="btn btn-primary">Find a Tutor</a>
+          <a href="{{ $href }}" class="btn btn-primary">Find a Tutor</a>
         </li>
         {{ end }}
       </ol>
@@ -191,11 +204,12 @@ Location tutor page content contract:
       <ol class="loc-subject-list">
         {{ range $index, $card := $otherSubjectCards }}
         {{ $parts := split $card "|" }}
+        {{ $href := cond (gt (len $parts) 2) (index $parts 2) (printf "%s/teachers" $.Site.Params.mainSiteURL) }}
         <li class="loc-subject-item">
           <span class="loc-subject-num">{{ printf "%02d." (add $index 1) }}</span>
           <span class="loc-subject-name">{{ index $parts 0 }}</span>
           <p class="loc-subject-desc">{{ index $parts 1 }}</p>
-          <a href="{{ $.Site.Params.mainSiteURL }}/teachers" class="btn btn-primary">Find a Tutor</a>
+          <a href="{{ $href }}" class="btn btn-primary">Find a Tutor</a>
         </li>
         {{ end }}
       </ol>
@@ -217,10 +231,14 @@ Location tutor page content contract:
           <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary">Learn More</a>
         </div>
         <div class="loc-schools__img-right">
-          <!-- Replace with actual school building image -->
-          <div class="loc-img-placeholder loc-img-placeholder--school">
-            <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" opacity="0.25"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9,22 9,12 15,12 15,22"/></svg>
-          </div>
+          <iframe
+            src="{{ $mapUrl }}"
+            class="loc-map-embed"
+            allowfullscreen=""
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+            title="{{ $loc }} map">
+          </iframe>
         </div>
       </div>
     </div>
@@ -256,10 +274,13 @@ Location tutor page content contract:
   <div class="container">
     <div class="loc-online__inner">
       <div class="loc-online__image">
-        <!-- Replace with student studying image -->
+        {{ if $onlineImage }}
+        <img src="{{ $onlineImage }}" alt="Online tutoring for {{ $loc }} students" class="loc-img-online" loading="lazy">
+        {{ else }}
         <div class="loc-img-placeholder loc-img-placeholder--online">
           <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" opacity="0.25"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><path d="M8 21h8m-4-4v4"/></svg>
         </div>
+        {{ end }}
       </div>
       <div class="loc-online__copy">
         <h2>{{ $onlineHeading }}</h2>
@@ -300,6 +321,7 @@ Location tutor page content contract:
       <div class="loc-contact-faq__form-card">
         <h2>Get In Touch With Us</h2>
         <p>Looking for a tutor in {{ $loc }}? Tell us what support the student needs and we will help you find a suitable tutor for their subject, level, goals, and schedule.</p>
+        <p class="loc-pricing-note">Sessions start from <strong>£37 per hour</strong>. Final rates are agreed directly with your tutor.</p>
         <form action="{{ .Site.Params.formspreeEndpoint }}" method="POST" novalidate>
           <input type="hidden" name="_subject" value="New enquiry from {{ $loc }} location page | The Degree Gap Study">
           <input type="hidden" name="page_url" value="{{ .RelPermalink }}">
@@ -435,9 +457,83 @@ Location tutor page content contract:
     </button>
 
     <div class="loc-reviews__cta">
-      <a href="https://g.page/r/CRDCjgOtEjNsEAE/review" target="_blank" rel="noopener" class="btn loc-btn-gold">Free call, no obligation</a>
+      <a href="tel:07859965776" class="btn loc-btn-gold">Free call, no obligation</a>
     </div>
   </div>
 </section>
+
+<!-- =============================================
+     STRUCTURED DATA
+     ============================================= -->
+
+{{ if $hasFaq }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{ if .Params.faq_1_q }}{
+      "@type": "Question",
+      "name": "{{ .Params.faq_1_q }}",
+      "acceptedAnswer": { "@type": "Answer", "text": "{{ .Params.faq_1_a }}" }
+    }{{ end }}{{ if and .Params.faq_1_q .Params.faq_2_q }},{{ end }}
+    {{ if .Params.faq_2_q }}{
+      "@type": "Question",
+      "name": "{{ .Params.faq_2_q }}",
+      "acceptedAnswer": { "@type": "Answer", "text": "{{ .Params.faq_2_a }}" }
+    }{{ end }}{{ if and .Params.faq_2_q .Params.faq_3_q }},{{ end }}
+    {{ if .Params.faq_3_q }}{
+      "@type": "Question",
+      "name": "{{ .Params.faq_3_q }}",
+      "acceptedAnswer": { "@type": "Answer", "text": "{{ .Params.faq_3_a }}" }
+    }{{ end }}{{ if and .Params.faq_3_q .Params.faq_4_q }},{{ end }}
+    {{ if .Params.faq_4_q }}{
+      "@type": "Question",
+      "name": "{{ .Params.faq_4_q }}",
+      "acceptedAnswer": { "@type": "Answer", "text": "{{ .Params.faq_4_a }}" }
+    }{{ end }}
+  ]
+}
+</script>
+{{ end }}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Online Tutoring in {{ $loc }} | The Degree Gap",
+  "description": "Expert GCSE and A-Level online tutoring for students in {{ $loc }}. One-to-one sessions from £37/hr.",
+  "url": "{{ .Permalink }}",
+  "provider": {
+    "@type": "EducationalOrganization",
+    "name": "The Degree Gap",
+    "url": "https://thedegreegap.com"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "{{ $loc }}"
+  },
+  "serviceType": "Online Tutoring",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "GBP",
+    "price": "37",
+    "priceSpecification": {
+      "@type": "UnitPriceSpecification",
+      "price": "37",
+      "priceCurrency": "GBP",
+      "unitText": "per hour",
+      "minPrice": "37"
+    }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "100",
+    "bestRating": "5",
+    "worstRating": "1"
+  }
+}
+</script>
 
 {{ end }}
