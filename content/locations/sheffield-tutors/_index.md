@@ -1,72 +1,71 @@
 ---
-title: "Sheffield Tutors | One-to-One Tuition | The Degree Gap"
-description: "Find an experienced Sheffield tutor for GCSE and A-Level support, helping students get the individual attention their school can't always provide."
+title: "Sheffield Tutors | Expert Support | The Degree Gap"
+description: "Find a Sheffield tutor for GCSE and A-Level support, matched to your child's subject, year group and goals."
 layout: "single"
 location: "Sheffield"
-banner_heading: "Looking for a Sheffield tutor who gives your child what a classroom can't?"
-banner_description: "Sheffield's schools vary more than most cities. Our tutors work with students across the city who need more individual attention than any classroom can provide."
-content_angle: "uneven schools / closing the attainment gap"
-intro_1: "Sheffield's schools aren't all the same. Mercia School finished second in the country for student progress in 2024. High Storrs, Tapton and King Ecgbert are genuinely outstanding. But across a city this size, schools vary widely — and in a class of thirty, there's rarely time for a teacher to slow down and explain something a different way for the students who need it. That's true everywhere. It's just more visible in Sheffield."
-intro_2: "One-to-one tuition fills that gap. Our Sheffield tutors don't rely on what's been covered in class. They work with the student in front of them, find what's not clicking and build from there. For a student who's been keeping up in lessons but losing marks in exams, it means finding exactly what's holding them back. For one who's fallen behind, it means going back to where things stopped making sense and starting from there. Either way, the tutor works around the student, not the other way around."
-about_heading: "Trusted Tutors for Sheffield Students"
-schools_intro: "We work with students from secondary schools across Sheffield, including those from High Storrs School, Tapton School and King Ecgbert School who are aiming for competitive sixth form places or strong university applications and want targeted tutoring to get there. Students from Mercia School, Silverdale School and Notre Dame High School also come to us when they want subject-specific support that goes further than the classroom allows. Workshops on exam preparation and revision strategy are open to any Sheffield student, regardless of school."
-schools: ["High Storrs School", "Tapton School", "King Ecgbert School", "Mercia School", "Silverdale School", "Notre Dame High School"]
-online_heading: "Online tuition for Sheffield students who want sessions that go somewhere"
-online_1: "All sessions run online through Lessonspace. Students and tutors share a whiteboard and work through problems together in real time. It's not passive. In Maths and the sciences especially, that hands-on approach makes a real difference — writing out steps, testing answers, going back when something doesn't sit right."
-online_2: "Sheffield is a big city. No travel makes it much easier to keep sessions regular, and regular is what actually moves grades. A student who meets their tutor every week across a term will do better than one who books a block of sessions in the week before exams. Most Sheffield families find the online format easier to commit to than they expected. The sessions quickly feel normal."
+banner_heading: "Need a Sheffield tutor who's focused on your child's next target?"
+banner_description: "Most tutoring covers content. Our Sheffield tutors find what's actually blocking progress and work on that first."
+content_angle: "exam pressure / sixth form entry"
+intro_1: "Sheffield has no grammar schools. What it does have is something just as competitive: King Edward VII School and Silverdale School are two of the most sought-after sixth forms in England, and both publish minimum grade requirements for entry. Hundreds of Year 11 students across the city are working towards those thresholds every year. The pressure is real, even if it's different from the 11+ pressure families face elsewhere. And because Sheffield's results at local authority level sit below the national average, there's a gap between the ambition many families have and the support the classroom alone can give."
+intro_2: "That's where one-to-one tuition comes in. Our Sheffield tutors work with students who are capable but haven't quite got there yet, students who attend good schools, put the work in, and still find their grades aren't reflecting what they know. A tutor doesn't replace the school. They give the student what a class of thirty can't: time, attention and the chance to ask questions until something actually clicks. For Year 11 students with a target sixth form in mind, that can make the difference."
+about_heading: "The Sheffield Tutors Who Get Results"
+schools_intro: "We work with students from secondary schools across Sheffield who are aiming for competitive sixth form entry or strong A-Level results and want targeted tutoring alongside their school work. Students come to us from High Storrs School, King Ecgbert School, Tapton School, Notre Dame High School, Silverdale School and Meadowhead School. We also run exam preparation and revision strategy workshops open to any Sheffield student, whatever school they attend."
+schools: ["High Storrs School", "King Ecgbert School", "Tapton School", "Notre Dame High School", "Silverdale School", "Meadowhead School"]
+online_heading: "Online tutoring for Sheffield students, with the right tutor for the subject"
+online_1: "Most of our sessions run online through Lessonspace, which gives students a shared whiteboard and a tutor focused entirely on them. The best tutor for A-Level Chemistry or GCSE History isn't always based in your part of Sheffield. Online removes that limit. Students get the specialist they need, not just whoever happens to be nearby."
+online_2: "Regular sessions are what move grades. Online makes it much easier to keep that rhythm going: no travel, no rescheduling around commutes, no missed weeks. Sheffield students who commit to weekly sessions across a term nearly always see a difference. Not just in grades, but in how the subject feels going into an exam."
 map_url: "https://maps.google.com/maps?q=Sheffield,UK&output=embed"
-hero_image: "/images/locations/loc-1.jpg"
-about_image: "/images/students-in-classroom-taking-notes.jpg"
-online_image: "/images/student-studying-on-bed-with-laptop.jpg"
-schools_image: "/images/students-listening-in-classroom.jpg"
-areas_intro: "Our tutors support students across Sheffield and the surrounding area, with online tuition removing any distance barrier to finding the right specialist."
-area_links: ["Leeds Tutors|/locations/leeds-tutors/", "Manchester Tutors|/locations/manchester-tutors/", "Nottingham Tutors|/locations/nottingham-tutors/", "Leicester Tutors|/locations/leicester-tutors/", "Birmingham Tutors|/locations/birmingham-tutors/", "Liverpool Tutors|/locations/liverpool-tutors/"]
+about_image: "/images/graduation-ceremony-caps.jpg"
+schools_image: "/images/school-clock-tower-building.jpg"
+online_image: "/images/student-studying-at-night-with-laptop.jpg"
+areas_intro: "Because most of our tuition is online, students in Sheffield and nearby areas can access the right subject specialist without being limited by geography."
+area_links: ["Leeds Tutors|/locations/leeds-tutors/", "Manchester Tutors|/locations/manchester-tutors/", "Nottingham Tutors|/locations/nottingham-tutors/", "Derby Tutors|/locations/derby-tutors/", "Leicester Tutors|/locations/leicester-tutors/", "Liverpool Tutors|/locations/liverpool-tutors/"]
 gcse_subjects: [
-  "Maths|Clear support in number, algebra and geometry that gives Sheffield students what a packed classroom often can't — time to ask questions and work through problems properly.|https://thedegreegap.com/teachers/languages/GCSE-Maths",
-  "English|Targeted support across Language and Literature that builds a reliable approach to analysis and essay writing, for students who've been told to practise more without being told how.|https://thedegreegap.com/teachers/languages/GCSE-English",
-  "Biology|Support through biological systems that doesn't assume everything from school stuck — it starts from what the student actually knows and builds from there.|https://thedegreegap.com/teachers/languages/GCSE-Biology",
-  "History|Support across essay technique, source analysis and content recall that helps Sheffield students stop dropping marks on things they actually know.|https://thedegreegap.com/teachers/languages/GCSE-History",
-  "Chemistry|Making sense of organic, inorganic and physical chemistry with a tutor who has time to explain it properly, not just move on because the class needs to.|https://thedegreegap.com/teachers/languages/GCSE-Chemistry",
-  "Physics|Focused problem-solving support in forces, energy and electricity for students who understand the basics but lose marks when the questions get harder.|https://thedegreegap.com/teachers/languages/GCSE-Physics",
-  "Geography|Thorough revision across physical and human geography that fills the gaps left by missed lessons or topics covered too fast to stick.|https://thedegreegap.com/teachers/languages/GCSE-Geography",
-  "French|Patient practice in speaking, listening, reading and writing that builds real fluency rather than just enough to scrape through.|https://thedegreegap.com/teachers/languages/GCSE-French",
-  "Computer Science|Support through programming and algorithms at the student's pace, making abstract concepts click before moving on.|https://thedegreegap.com/teachers/languages/GCSE-Computer-Science",
+  "Physics|Sharp problem-solving support in forces, energy and electricity for students who need to move beyond surface understanding to score well in Sheffield's AQA papers.|https://thedegreegap.com/teachers/languages/GCSE-Physics",
+  "English|Support across Language and Literature that teaches students how to build an argument and analyse a text, rather than just encouraging them to read more and hope it comes together.|https://thedegreegap.com/teachers/languages/GCSE-English",
+  "Geography|Targeted work across physical and human geography that closes the gaps left when topics move too fast, so students can answer confidently under exam conditions.|https://thedegreegap.com/teachers/languages/GCSE-Geography",
+  "Chemistry|Patient explanation of organic, inorganic and physical chemistry for students who understand parts of the course but find others aren't sticking.|https://thedegreegap.com/teachers/languages/GCSE-Chemistry",
+  "Computer Science|Step-by-step support through programming logic and algorithms, paced around the student so no concept gets left behind.|https://thedegreegap.com/teachers/languages/GCSE-Computer-Science",
+  "Biology|Clear, structured support through biological systems and exam technique for students who want to push beyond their current grade boundary.|https://thedegreegap.com/teachers/languages/GCSE-Biology",
+  "French|Focused practice in speaking, reading and writing that builds genuine confidence rather than just enough to scrape through the listening paper.|https://thedegreegap.com/teachers/languages/GCSE-French",
+  "Maths|One-to-one support in number, algebra, geometry and statistics that gives students time to ask questions and work through problems in a way a classroom of thirty rarely allows.|https://thedegreegap.com/teachers/languages/GCSE-Maths",
+  "History|Support across source analysis, essay structure and content recall that helps students stop dropping marks they actually deserve to pick up.|https://thedegreegap.com/teachers/languages/GCSE-History",
 ]
 alevel_subjects: [
-  "Maths|Support across pure maths, mechanics and statistics that finds where A-Level difficulty became too much and rebuilds from that point.|https://thedegreegap.com/teachers/languages/A-level-Maths",
-  "Biology|Expert guidance through advanced biological systems for Sheffield students who found the jump from GCSE bigger than expected.|https://thedegreegap.com/teachers/languages/A-level-Biology",
-  "Chemistry|Working through organic, inorganic and physical chemistry with tutors who explain things differently until they make sense.|https://thedegreegap.com/teachers/languages/A-level-Chemistry",
-  "History|Building the ability to write complex, sustained arguments under exam conditions — the kind of analytical confidence that doesn't come from revision notes alone.|https://thedegreegap.com/teachers/languages/A-level-History",
-  "Physics|Focused tuition in advanced mechanics, fields and quantum physics for students who've hit a wall and need someone to break it down properly.|https://thedegreegap.com/teachers/languages/A-level-Physics",
-  "English|Working through critical analysis and essay writing at a pace that lets students find their own voice, not guess at what the examiner wants.|https://thedegreegap.com/teachers/languages/A-level-English",
-  "Psychology|Clear, methodical support through research methods, approaches and essay technique for students who find the volume of A-Level content hard to manage.|https://thedegreegap.com/teachers/languages/A-level-Psychology",
-  "Economics|Support through advanced micro and macroeconomic models that makes the content feel manageable rather than abstract and disconnected.|https://thedegreegap.com/teachers/languages/A-level-Economics",
-  "Geography|Advanced geographical concepts and extended writing with patient support for students who want to close the gap between understanding and performance.|https://thedegreegap.com/teachers/languages/A-level-Geography",
+  "Economics|Support through micro and macroeconomic models that makes the content feel concrete, with a tutor who can adjust pace when a concept isn't landing.|https://thedegreegap.com/teachers/languages/A-level-Economics",
+  "History|Building the extended analytical writing that A-Level History demands, working through argument structure, evidence selection and exam timing.|https://thedegreegap.com/teachers/languages/A-level-History",
+  "Maths|Expert support across pure maths, mechanics and statistics, finding where the A-Level difficulty became too much and rebuilding from that point.|https://thedegreegap.com/teachers/languages/A-level-Maths",
+  "Geography|Advanced geographical concepts and extended writing with patient support for students who want to close the gap between what they understand and what they can produce on paper.|https://thedegreegap.com/teachers/languages/A-level-Geography",
+  "English|Working through critical analysis and essay construction at a pace that helps students develop their own reading of a text, not just guess at what the examiner wants.|https://thedegreegap.com/teachers/languages/A-level-English",
+  "Psychology|Clear, methodical support through approaches, research methods and essay technique for students who find the volume of A-Level content hard to manage without help.|https://thedegreegap.com/teachers/languages/A-level-Psychology",
+  "Biology|Detailed guidance through advanced biological systems for students who found the step up from GCSE harder than expected and need someone to explain it differently.|https://thedegreegap.com/teachers/languages/A-level-Biology",
+  "Physics|Focused tuition in mechanics, fields and quantum physics for A-Level students who've hit a wall and need a tutor willing to go back and break it down properly.|https://thedegreegap.com/teachers/languages/A-level-Physics",
+  "Chemistry|Working through organic, inorganic and physical chemistry with tutors who explain concepts from a different angle when the first explanation hasn't landed.|https://thedegreegap.com/teachers/languages/A-level-Chemistry",
 ]
 other_subjects: [
   "University Personal Statement|Shape a strong UCAS personal statement with expert support on structure, subject motivation, and final polish.|https://thedegreegap.com/teachers/languages/Personal-Statement",
 ]
-faq_1_q: "How do I find the right tutor in Sheffield?"
-faq_1_a: "Tell us the subject, the year group and what the student is trying to achieve. We take it from there. Most families hear back quickly, and you're not left scrolling through profiles trying to figure it out yourself."
-faq_2_q: "Can you support students who have fallen significantly behind?"
-faq_2_a: "Yes. Some of the students we work with in Sheffield have gaps stretching back a year or more. We start by working out exactly where things went wrong, not just picking up from where school left off. Then we build a plan around that."
-faq_3_q: "Is one-to-one tutoring better than group sessions?"
-faq_3_a: "For most students, yes. The whole session is about them. Their gaps, their questions, their pace. No waiting for others to catch up. For Sheffield students who find it hard to ask questions in front of others, it's often the thing that changes everything."
-faq_4_q: "What exam boards do your tutors cover?"
-faq_4_a: "AQA, Edexcel, OCR and WJEC. When we match a student with a tutor, exam board knowledge is part of the criteria. We don't just match on subject."
-why_heading: "Why Sheffield families choose The Degree Gap"
-why_para_1: "Sheffield is a big city with a wide range of schools. Mercia School is one of the best-performing state schools in the country. Others are working hard in more difficult circumstances. Across all of them, one thing stays true: in a class of thirty, individual attention is hard to come by. The Degree Gap gives Sheffield students exactly that — a tutor focused entirely on them, their gaps, and their next target."
-why_para_2: "Our tutors do more than cover content. They find what's not working, explain it differently, and keep going until it makes sense. For Sheffield students who've been putting the work in without seeing results, or who've quietly fallen behind without anyone having time to notice, that kind of focused attention changes things fast."
-accordion_quality: "Every tutor working with Sheffield students is vetted on subject knowledge and on how well they explain things. Getting the match right matters, so we take the time to get it right rather than introduce the first available tutor."
-accordion_experience: "Our tutors have experience working with students from across Sheffield's secondary schools, from those aiming for top grades at the city's outstanding schools to those who need to close gaps and rebuild confidence. They adapt to where the student is."
-accordion_personalised: "Sheffield students come to us with very different starting points. Some need to close gaps. Others want to push further than their school's pace allows. Every session is built around that specific student's next target. Nothing else."
+faq_1_q: "Do you help with sixth form entrance exams or interviews in Sheffield?"
+faq_1_a: "Yes. We work with Sheffield students preparing for competitive sixth form entry, including aptitude tests and interviews. Tutors know what these schools are looking for and how to prepare students properly, not just on content."
+faq_2_q: "Can tutors help with GCSE mock preparation in Sheffield?"
+faq_2_a: "Yes. Mocks are one of the most common reasons families come to us. Tutors work through past papers, tighten exam technique and focus on the topics most likely to come up. Students go in knowing what to expect."
+faq_3_q: "How quickly can tuition start in Sheffield?"
+faq_3_a: "Usually within a few days of getting in touch. Once we know the subject, level and what the student needs, we move quickly. No long waiting lists."
+faq_4_q: "How long does it take to see an improvement?"
+faq_4_a: "Most students notice something within the first few sessions. Not always in grades straight away, but in how the subject feels. Less daunting. Clearer. Grade improvements usually follow within a half term of regular sessions."
+why_heading: "What the first session actually reveals for Sheffield students"
+why_para_1: "When a Sheffield student starts with a tutor, the first session rarely confirms what the family expected. The problem isn't usually laziness or a lack of effort. It's almost always something more specific: a gap in a foundational concept that school moved past months ago, or a student who knows the content but has never been taught how to turn that knowledge into exam marks. Students aiming for King Edward VII or Silverdale sixth forms often arrive with decent predicted grades and a real anxiety that decent won't be enough. That gap between knowing the material and performing in an exam is exactly what a tutor can close."
+why_para_2: "Our tutors start by looking at recent work, not just asking what topics have been covered. They find where marks are being dropped and why. For many Sheffield students, the issue is exam technique rather than content knowledge. They understand the biology, but can't structure a six-mark answer. They know the history, but run out of time. Families usually notice a change in confidence before they see a change in grades. Both tend to follow within a few weeks of regular sessions."
+accordion_quality: "Every tutor working with Sheffield students is vetted on subject knowledge, exam board familiarity and the ability to explain things clearly. AQA is the dominant board in Sheffield schools, and we factor that into who we suggest."
+accordion_experience: "Our tutors have worked with students targeting competitive Sheffield sixth forms as well as those who need to close gaps from earlier years. They know the difference between a student who needs exam technique and one who needs to rebuild foundations, and they adapt accordingly."
+accordion_personalised: "Sheffield students come to us with different targets. Some need a specific grade for sixth form entry. Others want to push from a 6 to an 8. Every session is built around that student's next target, not a generic plan."
 reviews: [
-  "Annette|Parent|This company helped us find a tutor for Geography and my son has excelled so much in just a few months. Our tutor has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself. He also manages neurodiversity effectively.",
-  "Bryan|GCSE Student|Helped me a lot and really showed me what I need to improve on.",
-  "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B.",
-  "Joel|Student|The Degree Gap is an amazing place and has helped me achieve so much. I am looking forward to it helping me develop a higher level of skills and get ready for the RAF.",
-  "Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional. Both my sons exceeded their expected grades in their GCSEs and A Levels and got into their first choice universities. I cannot recommend them highly enough.",
-  "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents. My daughter passed both English and Maths GCSE.",
+  "Alison|Parent of A-Level Student|My son has been receiving tutor lessons in A Level History and A Level Sociology since the beginning of this year. The tutor has been such a tremendous support, teaching him content as well as exam technique.",
+  "Serena|A-Level Student|My tutor is a very intuitive and superb teacher. She listened to my specific concerns and bolstered my confidence in answering questions. She taught me how to think critically and helped me through this highly demanding course. I will happily recommend without a second thought.",
+  "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings. Highly recommend.",
+  "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him.",
+  "Daljit|Parent of A-Level Student|My son gained almost two grades higher than his year 13 mock paper. His tutor was excellent.",
+  "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. We were given a selection of tutors to choose from and told that if it did not feel like a good match we could try others. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend.",
 ]
 sitemap:
   priority: 0.8

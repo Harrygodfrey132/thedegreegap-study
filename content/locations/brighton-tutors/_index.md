@@ -1,59 +1,72 @@
 ---
-title: "Brighton Tutors | GCSE & A-Level | The Degree Gap"
-description: "Find experienced Brighton tutors for GCSE and A-Level support, helping students build the consistent results they need to access the sixth form and university places they want."
+title: "Brighton Tutors | Expert Support | The Degree Gap"
+description: "Looking for a Brighton tutor for GCSE or A-Level? The Degree Gap matches students with vetted tutors who know what the grades need to look like and how to get there."
 layout: "single"
 location: "Brighton"
-banner_heading: "Want a Brighton tutor who can help your child stand out when it counts?"
-banner_description: "Generic tutoring sessions cover content. Our Brighton tutors go further, identifying exactly what a student needs to improve and making sure every session is spent on that."
-content_angle: "standing out in a non-selective system"
-intro_1: "Brighton has no state grammar schools. The entire secondary system is comprehensive. Yet the pressure to perform is just as real. BHASVIC, the city's sixth form college, is one of the most oversubscribed in the South East, and entry requires solid GCSE grades across the board. For students who want genuine choices at 16 and 18, results matter, and many Brighton families turn to private tuition because they want their child to have the individual focus that a busy classroom cannot always provide."
-intro_2: "The Degree Gap works with Brighton students to build that consistency. Whether a student is working towards the GCSE grades needed for a competitive sixth form application, trying to close a gap that appeared mid-year, or pushing for the top grade boundaries at A-Level, one-to-one tuition gives them something a class of thirty cannot. A tutor focused entirely on their specific questions, their specific gaps, and their specific next steps. That focus is what moves results."
-about_heading: "Supporting Brighton Students at Every Stage"
-schools_intro: "Students from across Brighton and Hove come to us at different stages of their education, from Year 10 GCSE preparation through to A-Level and university applications. We work with students from Dorothy Stringer School, Varndean School, Hove Park School, Cardinal Newman Catholic School, Brighton College and Roedean School, among others. Whatever school a student attends, our tutors adapt to their level, their exam board and their goals, and we run revision and exam preparation workshops open to any Brighton student who wants a more structured approach to studying."
-schools: ["Dorothy Stringer School", "Varndean School", "Hove Park School", "Cardinal Newman Catholic School", "Brighton College", "Roedean School"]
-online_heading: "Online tutoring that helps Brighton students build the results they need"
-online_1: "All our tutoring with Brighton students takes place online through Lessonspace, a platform built for one-to-one sessions with an interactive whiteboard and shared problem-solving tools. Students work directly with their tutor in real time, which is particularly effective for subjects like Maths and the sciences where working step by step through problems matters. Brighton students generally find the platform straightforward from the first session."
-online_2: "For Brighton and Hove families, the online format also opens access to a broader range of subject specialists. A student pushing for a strong A-Level grade benefits more from a tutor who knows that subject deeply than from whoever happens to live nearby. We match each student with the right person for their subject and level, regardless of where that tutor is based. Keeping sessions consistent week to week is what drives progress, and removing the need to travel across the city makes that much easier."
+banner_heading: "Need a Brighton tutor who prepares students for what comes next?"
+banner_description: "The Degree Gap connects Brighton families with tutors who focus on the grades that open doors: sixth form entry, university offers, and everything in between."
+content_angle: "exam pressure"
+intro_1: "Brighton has no state grammar schools. Every secondary school in the city is non-selective. But that doesn't make the pressure disappear. BHASVIC, the city's flagship sixth form college, is one of the most oversubscribed post-16 institutions in the South East, and it publishes clear grade requirements. Students who want a place there need to hit those numbers. For many, that gap between where they are in Year 10 and where they need to be by results day is exactly where private tuition comes in."
+intro_2: "The Degree Gap works with Brighton students across both GCSE and A-Level. Some come to us with a specific gap in one subject. Others are keeping up in class but not converting that into exam performance. A few want to push for the very top grades at A-Level. Whatever the situation, one-to-one tuition gives a student something no classroom can: a tutor working through their specific problems, at their pace, with their exam board. Progress 8 scores across Brighton and Hove have historically sat below the national average, which means many capable students arrive at their GCSEs without all the foundations they need. That's what our tutors are here to address."
+about_heading: "Find the Right Tutor in Brighton"
+schools_intro: "Students from across Brighton and Hove find us at different points in their education. We run exam preparation and revision workshops open to any student in the city, and we work one-to-one with students from Dorothy Stringer School, Varndean School, Hove Park School, Cardinal Newman Catholic School, Longhill High School and PACA. Our tutors adapt to each student's school, exam board and current level, so no two sets of sessions look identical."
+schools: ["Dorothy Stringer School", "Varndean School", "Hove Park School", "Cardinal Newman Catholic School", "Longhill High School", "PACA"]
+online_heading: "Online tuition for Brighton students who want more than classroom pace"
+online_1: "All our sessions with Brighton students run online through Lessonspace, a platform built for one-to-one academic work. It has an interactive whiteboard, shared workspaces and tools that make working through problems together feel nothing like a video call. Students generally find it intuitive from the first session. And it means the right tutor isn't necessarily the nearest one."
+online_2: "For a city with Brighton's range of schools and ambitions, that matters. A student aiming for a strong A-Level Chemistry grade benefits more from a tutor who knows that subject deeply than from someone available at short notice. Online tutoring removes the geography constraint entirely. Sessions stay consistent week to week, there's no travel involved, and a student in Hove can work with a specialist based anywhere in the country."
 map_url: "https://maps.google.com/maps?q=Brighton,UK&output=embed"
-hero_image: "/images/locations/loc-7.jpg"
 about_image: "/images/graduation-ceremony-caps.jpg"
-online_image: "/images/student-celebrating-online-learning.jpg"
 schools_image: "/images/school-clock-tower-building.jpg"
-areas_intro: "Our tutors support students across Brighton and the surrounding area, with online tuition removing any distance barrier to finding the right specialist."
-area_links: ["Nottingham Tutors|/locations/nottingham-tutors/", "Southampton Tutors|/locations/southampton-tutors/", "Reading Tutors|/locations/reading-tutors/", "Oxford Tutors|/locations/oxford-tutors/", "Bristol Tutors|/locations/bristol-tutors/", "Cambridge Tutors|/locations/cambridge-tutors/"]
+online_image: "/images/student-studying-at-night-with-laptop.jpg"
+areas_intro: "Finding the right tutor matters more than finding the nearest one, which is why we support families across Brighton and well beyond."
+area_links: ["Southampton Tutors|/locations/southampton-tutors/", "Portsmouth Tutors|/locations/portsmouth-tutors/", "Bristol Tutors|/locations/bristol-tutors/", "Oxford Tutors|/locations/oxford-tutors/", "Reading Tutors|/locations/reading-tutors/", "Cambridge Tutors|/locations/cambridge-tutors/"]
 gcse_subjects: [
-  "Chemistry|Expert support across organic, inorganic and physical chemistry, helping students understand reactions rather than just memorise them.|https://thedegreegap.com/teachers/languages/GCSE-Chemistry",
-  "English|From analysing unseen texts to crafting well-argued essays, targeted support across Language and Literature.|https://thedegreegap.com/teachers/languages/GCSE-English",
-  "Computer Science|From programming fundamentals to algorithmic thinking, support that makes abstract concepts click.|https://thedegreegap.com/teachers/languages/GCSE-Computer-Science",
-  "History|Developing strong essay technique, source analysis and content recall across all GCSE History topics and exam boards.|https://thedegreegap.com/teachers/languages/GCSE-History",
-  "French|Building fluency and accuracy in speaking, listening, reading and writing through consistent, personalised practice.|https://thedegreegap.com/teachers/languages/GCSE-French",
-  "Physics|Structured tuition that builds genuine understanding of forces, energy and electricity, with a focus on problem-solving skills.|https://thedegreegap.com/teachers/languages/GCSE-Physics",
-  "Biology|Breaking down complex biological systems into clear, logical steps, from cells and genetics to ecology and physiology.|https://thedegreegap.com/teachers/languages/GCSE-Biology",
-  "Geography|Targeted revision across physical and human geography, with support on case studies, data response and extended writing.|https://thedegreegap.com/teachers/languages/GCSE-Geography",
-  "Maths|Clear, structured support covering number, algebra, geometry and statistics, building the fluency students need on exam day.|https://thedegreegap.com/teachers/languages/GCSE-Maths",
+  "English|Sharp support for Language and Literature, building the analytical writing and close-reading skills examiners reward.|https://thedegreegap.com/teachers/languages/GCSE-English",
+  "Physics|Structured work through forces, energy and waves, with a focus on applying concepts to the calculation questions that cost marks.|https://thedegreegap.com/teachers/languages/GCSE-Physics",
+  "Maths|Targeted help across number, algebra, geometry and statistics for students who need to hit their grade requirements with confidence.|https://thedegreegap.com/teachers/languages/GCSE-Maths",
+  "History|Essay structure, source analysis and content recall: the three things that separate a grade 6 from a grade 8 in GCSE History.|https://thedegreegap.com/teachers/languages/GCSE-History",
+  "Chemistry|Support that turns rote learning into genuine understanding, so students can handle the unfamiliar questions too.|https://thedegreegap.com/teachers/languages/GCSE-Chemistry",
+  "Computer Science|From algorithms and data structures to programming logic, support that builds both the theory and the practical skills.|https://thedegreegap.com/teachers/languages/GCSE-Computer-Science",
+  "Geography|Case studies, data interpretation and extended writing, all tied to the exam board Brighton students are actually sitting.|https://thedegreegap.com/teachers/languages/GCSE-Geography",
+  "French|Oral and written practice focused on the real exam tasks, building the accuracy and fluency the mark scheme requires.|https://thedegreegap.com/teachers/languages/GCSE-French",
+  "Biology|Clear, logical progression through cells, genetics, ecology and physiology for students aiming at the higher tier grade boundaries.|https://thedegreegap.com/teachers/languages/GCSE-Biology",
 ]
 alevel_subjects: [
-  "Maths|Advanced support across pure maths, mechanics and statistics, tackling the multi-step problems that define A-Level results.|https://thedegreegap.com/teachers/languages/A-level-Maths",
-  "History|Strengthening the ability to construct and sustain complex historical arguments with precision under exam conditions.|https://thedegreegap.com/teachers/languages/A-level-History",
-  "Chemistry|Navigate organic, inorganic and physical chemistry with tutors who prioritise genuine understanding over rote memorisation.|https://thedegreegap.com/teachers/languages/A-level-Chemistry",
-  "English|Refine critical analysis and essay writing across a range of literary texts, building the depth examiners at top universities expect.|https://thedegreegap.com/teachers/languages/A-level-English",
-  "Geography|Tackle advanced geographical concepts, fieldwork and extended writing with the confidence that comes from expert guidance.|https://thedegreegap.com/teachers/languages/A-level-Geography",
-  "Physics|Gain confidence in advanced mechanics, fields and quantum physics through problem-solving focused tuition.|https://thedegreegap.com/teachers/languages/A-level-Physics",
-  "Economics|Explore advanced micro and macroeconomic models, policy analysis and data interpretation with rigorous one-to-one support.|https://thedegreegap.com/teachers/languages/A-level-Economics",
-  "Biology|Deeper understanding of advanced biological systems, from genetics to ecosystems, with expert guidance tailored to exam board requirements.|https://thedegreegap.com/teachers/languages/A-level-Biology",
-  "Psychology|Master advanced research methods, key approaches and essay technique with tutors who know the mark scheme inside out.|https://thedegreegap.com/teachers/languages/A-level-Psychology",
+  "Economics|Advanced micro and macroeconomic theory with strong essay and data-response technique for students targeting top A-Level grades.|https://thedegreegap.com/teachers/languages/A-level-Economics",
+  "Chemistry|Rigorous support across all three branches of A-Level Chemistry, with the kind of depth the hardest exam questions demand.|https://thedegreegap.com/teachers/languages/A-level-Chemistry",
+  "Psychology|From research methods to the major approaches, expert guidance on both content and the structured answers examiners want to see.|https://thedegreegap.com/teachers/languages/A-level-Psychology",
+  "Maths|Pure maths, mechanics and statistics support that goes beyond covering content to building the problem-solving instinct A-Level rewards.|https://thedegreegap.com/teachers/languages/A-level-Maths",
+  "History|Argument construction, historiography and extended essay writing, with tutors who know exactly what top-band answers look like.|https://thedegreegap.com/teachers/languages/A-level-History",
+  "Geography|Advanced physical and human geography, dissertation support and the extended writing skills that separate good results from great ones.|https://thedegreegap.com/teachers/languages/A-level-Geography",
+  "English|Critical analysis and comparative essay work across prose, poetry and drama, building the depth university admissions tutors expect.|https://thedegreegap.com/teachers/languages/A-level-English",
+  "Biology|Detailed support through genetics, physiology and ecology at A-Level, with exam technique built around the mark schemes that matter.|https://thedegreegap.com/teachers/languages/A-level-Biology",
+  "Physics|From mechanics and fields to quantum physics, support that builds genuine conceptual understanding alongside the calculation skills.|https://thedegreegap.com/teachers/languages/A-level-Physics",
 ]
 other_subjects: [
   "University Personal Statement|Shape a strong UCAS personal statement with expert support on structure, subject motivation, and final polish.|https://thedegreegap.com/teachers/languages/Personal-Statement",
 ]
-faq_1_q: "My child is struggling with confidence. Can you help?"
-faq_1_a: "Absolutely. Many of the students we work with across Brighton are not struggling because of ability. They have lost confidence after a difficult topic or a run of poor results, and our tutors are experienced at rebuilding that steadily and patiently."
-faq_2_q: "Do you support students with dyslexia or other learning needs?"
-faq_2_a: "Yes. We work with students across Brighton who have a range of learning needs and can match them with tutors who have relevant experience. When you get in touch, let us know so we can factor that into the recommendation."
-faq_3_q: "Can you help a student who is resitting their GCSEs?"
-faq_3_a: "Yes. Resit students in Brighton often need a different approach. Understanding what went wrong the first time, closing specific gaps, and building confidence alongside exam technique are all things our tutors are experienced with. They can move quickly given the timeline."
-faq_4_q: "Can tutors help with GCSE mock preparation in Brighton?"
-faq_4_a: "Yes. Mock preparation is one of the most common reasons Brighton families come to us. Tutors focus on past papers, exam technique and the topics most likely to come up, so students go into mocks feeling prepared."
+faq_1_q: "How quickly can tuition start in Brighton?"
+faq_1_a: "Usually within a few days of getting in touch. Once we know the subject, level and what the student needs, we move quickly. No long waiting lists."
+faq_2_q: "Can tutors help with GCSE mock preparation in Brighton?"
+faq_2_a: "Yes. Mocks are one of the most common reasons families come to us. Tutors work through past papers, tighten exam technique and focus on the topics most likely to come up. Students go in knowing what to expect."
+faq_3_q: "Do you help with sixth form entrance exams or interviews?"
+faq_3_a: "Yes. We work with Brighton students preparing for competitive sixth form entry, including aptitude tests and interviews. Tutors know what these schools are looking for and how to prepare students properly, not just on content."
+faq_4_q: "How long does it take to see an improvement?"
+faq_4_a: "Most students notice something within the first few sessions. Not always in grades straight away, but in how the subject feels. Less daunting. Clearer. Grade improvements usually follow within a half term of regular sessions."
+why_heading: "Why Brighton families choose The Degree Gap"
+why_para_1: "When a Brighton student starts sessions with us, the first thing a tutor usually finds isn't a content gap. It's an exam technique gap. Students from Brighton's comprehensives are often taught the material well enough. But many haven't been drilled in how to demonstrate what they know under timed, structured conditions. They write answers that contain the right ideas but don't score the marks. They lose points on calculation steps, on essay structure, on the small technical things that account for a lot on results day."
+why_para_2: "The Degree Gap addresses that directly. Our tutors use past papers from the first few sessions, not as tests but as a diagnostic. They show students exactly where marks are being left behind and why. Most Brighton students notice a shift in how confident they feel about exams within four to six weeks of regular sessions. Parents often say the change they see first isn't the grades, it's the attitude to revision."
+accordion_quality: "Every tutor is vetted on subject knowledge, exam board familiarity and the ability to explain clearly under pressure. For Brighton students aiming at BHASVIC entry or top A-Level grades, we look for tutors who know the mark schemes well and can work at the pace the student needs."
+accordion_experience: "Our tutors have experience with the exam conditions Brighton students face, from GCSE grade requirements for oversubscribed sixth forms to the step-up demands of A-Level. They've seen the common mistakes and know how to fix them."
+accordion_personalised: "Sessions are built around what each student actually needs, not a generic syllabus plan. If the issue is exam technique rather than content, that's where the sessions go. If it's one topic holding everything else back, tutors go there first."
+reviews: [
+  "Alison|Parent of A-Level Student|My son has been receiving tutor lessons in A Level History and A Level Sociology since the beginning of this year. The tutor has been such a tremendous support, teaching him content as well as exam technique.",
+  "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings. Highly recommend.",
+  "Daljit|Parent of A-Level Student|My son gained almost two grades higher than his year 13 mock paper. His tutor was excellent.",
+  "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B.",
+  "Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional. Both my sons exceeded their expected grades in their GCSEs and A Levels and got into their first choice universities. I cannot recommend them highly enough.",
+  "Serena|A-Level Student|My tutor is a very intuitive and superb teacher. She listened to my specific concerns and bolstered my confidence in answering questions. She taught me how to think critically and helped me through this highly demanding course. I will happily recommend without a second thought.",
+]
 sitemap:
   priority: 0.8
   changefreq: monthly
