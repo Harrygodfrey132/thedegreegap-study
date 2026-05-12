@@ -72,7 +72,17 @@ Location tutor page content contract:
       <div class="loc-hero__image" aria-hidden="true">
         <div class="loc-img-circle"></div>
         {{ if $heroImage }}
-        <img src="{{ $heroImage }}" alt="Tutoring support in {{ $loc }}" class="loc-img-hero" loading="eager">
+        {{ $heroResource := resources.Get (strings.TrimPrefix "/" $heroImage) }}
+        {{ if $heroResource }}
+        {{ $heroWebp := $heroResource.Resize "640x webp q70" }}
+        {{ $heroFallback := $heroResource.Resize "640x q70" }}
+        <picture class="loc-img-hero">
+          <source media="(min-width: 901px)" type="image/webp" srcset="{{ $heroWebp.RelPermalink }}">
+          <img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" alt="Tutoring support in {{ $loc }}" class="loc-img-hero__img" width="{{ $heroFallback.Width }}" height="{{ $heroFallback.Height }}" loading="eager" decoding="async" fetchpriority="high">
+        </picture>
+        {{ else }}
+        <img src="{{ $heroImage }}" alt="Tutoring support in {{ $loc }}" class="loc-img-hero" width="420" height="580" loading="eager" decoding="async" fetchpriority="high">
+        {{ end }}
         {{ else }}
         <div class="loc-img-placeholder loc-img-placeholder--hero">
           <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" opacity="0.25"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.6-7 8-7s8 3 8 7"/></svg>
@@ -91,7 +101,7 @@ Location tutor page content contract:
     <div class="loc-about__inner">
       <div class="loc-about__image">
         {{ if $aboutImage }}
-        <img src="{{ $aboutImage }}" alt="Expert tutors in {{ $loc }}" class="loc-img-about" loading="lazy">
+        {{ partial "responsive-image.html" (dict "src" $aboutImage "alt" (printf "Expert tutors in %s" $loc) "class" "loc-img-about" "loading" "lazy" "sizes" "(min-width: 901px) 50vw, 100vw" "widths" (slice 420 760 1100) "fallbackWidth" 760 "quality" 72) }}
         {{ else }}
         <div class="loc-img-placeholder loc-img-placeholder--location">
           <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" opacity="0.25"><path d="M21 10c0 7-9 13-9 13S3 17 3 10a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
@@ -147,12 +157,14 @@ Location tutor page content contract:
   <div class="container">
     <div class="loc-why__inner">
       <div class="loc-why__video">
-        <iframe
-          src="https://www.youtube-nocookie.com/embed/GG-UeN156l4"
-          title="Why choose The Degree Gap — {{ $loc }} tutoring"
-          loading="lazy"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen></iframe>
+        <div class="loc-lite-video" data-youtube-id="GG-UeN156l4" data-youtube-title="Why choose The Degree Gap — {{ $loc }} tutoring">
+          <a href="https://youtu.be/GG-UeN156l4" target="_blank" rel="noopener" class="loc-lite-video__button" aria-label="Play video: Why choose The Degree Gap">
+            <img src="https://i.ytimg.com/vi/GG-UeN156l4/hqdefault.jpg" alt="" width="480" height="360" loading="lazy" decoding="async">
+            <span class="loc-lite-video__play" aria-hidden="true">
+              <svg width="34" height="34" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+            </span>
+          </a>
+        </div>
       </div>
       <div class="loc-why__copy">
         <p class="loc-eyebrow">WHY CHOOSE US</p>
@@ -254,7 +266,7 @@ Location tutor page content contract:
   <div class="loc-schools__band">
     <div class="loc-schools__band-img">
       {{ if $schoolsImage }}
-      <img src="{{ $schoolsImage }}" alt="Schools in {{ $loc }}" class="loc-img-schools" loading="lazy">
+      {{ partial "responsive-image.html" (dict "src" $schoolsImage "alt" (printf "Schools in %s" $loc) "class" "loc-img-schools" "loading" "lazy" "sizes" "(min-width: 901px) 50vw, 100vw" "widths" (slice 420 760 1100) "fallbackWidth" 760 "quality" 72) }}
       {{ else }}
       <div class="loc-img-placeholder loc-img-placeholder--classroom">
         <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" opacity="0.4"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><path d="M8 21h8m-4-4v4"/></svg>
@@ -286,7 +298,7 @@ Location tutor page content contract:
     <div class="loc-online__inner">
       <div class="loc-online__image">
         {{ if $onlineImage }}
-        <img src="{{ $onlineImage }}" alt="Online tutoring for {{ $loc }} students" class="loc-img-online" loading="lazy">
+        {{ partial "responsive-image.html" (dict "src" $onlineImage "alt" (printf "Online tutoring for %s students" $loc) "class" "loc-img-online" "loading" "lazy" "sizes" "(min-width: 901px) 50vw, 100vw" "widths" (slice 420 760 1100) "fallbackWidth" 760 "quality" 72) }}
         {{ else }}
         <div class="loc-img-placeholder loc-img-placeholder--online">
           <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" opacity="0.25"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><path d="M8 21h8m-4-4v4"/></svg>

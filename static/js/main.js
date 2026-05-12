@@ -48,3 +48,20 @@ if (reviewsToggle && reviewsMore) {
     reviewsToggle.childNodes[0].textContent = expanded ? 'Show more reviews ' : 'Show fewer reviews ';
   });
 }
+
+document.querySelectorAll('.loc-lite-video').forEach((video) => {
+  const trigger = video.querySelector('.loc-lite-video__button');
+  if (!trigger) return;
+
+  trigger.addEventListener('click', (event) => {
+    event.preventDefault();
+
+    const iframe = document.createElement('iframe');
+    iframe.src = `https://www.youtube-nocookie.com/embed/${video.dataset.youtubeId}?autoplay=1&rel=0`;
+    iframe.title = video.dataset.youtubeTitle || 'The Degree Gap video';
+    iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
+    iframe.allowFullscreen = true;
+
+    video.replaceChildren(iframe);
+  });
+});

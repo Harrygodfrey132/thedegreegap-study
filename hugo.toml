@@ -19,3 +19,14 @@ disableKinds = ["taxonomy", "term"]
 [permalinks]
   personal-statement-tutor = "/personal-statement-tutor/:contentbasename/"
   personal-statements = "/personal-statements/:contentbasename/"
+
+[module]
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+  [[module.mounts]]
+    source = "static/images"
+    target = "assets/images"
+  [[module.mounts]]
+    source = "static"
+    target = "static"

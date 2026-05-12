@@ -1,0 +1,36 @@
+{{- $src := .src -}}
+{{- $alt := .alt | default "" -}}
+{{- $class := .class | default "" -}}
+{{- $loading := .loading | default "lazy" -}}
+{{- $sizes := .sizes | default "100vw" -}}
+{{- $quality := .quality | default 72 -}}
+{{- $widths := .widths | default (slice 420 760 1100) -}}
+{{- $fallbackWidth := .fallbackWidth | default 760 -}}
+{{- $fetchPriority := .fetchPriority | default "" -}}
+{{- $path := strings.TrimPrefix "/" $src -}}
+{{- $resource := resources.Get $path -}}
+{{- if $resource -}}
+  {{- $srcset := slice -}}
+  {{- range $widths -}}
+    {{- $targetWidth := cond (gt . $resource.Width) $resource.Width . -}}
+    {{- $image := $resource.Resize (printf "%dx webp q%d" $targetWidth $quality) -}}
+    {{- $entry := printf "%s %dw" $image.RelPermalink $image.Width -}}
+    {{- if not (in $srcset $entry) -}}
+      {{- $srcset = $srcset | append $entry -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $fallbackTargetWidth := cond (gt $fallbackWidth $resource.Width) $resource.Width $fallbackWidth -}}
+  {{- $fallback := $resource.Resize (printf "%dx q%d" $fallbackTargetWidth $quality) -}}
+  <picture>
+    <source type="image/webp" srcset="{{ delimit $srcset ", " }}" sizes="{{ $sizes }}">
+    <img src="{{ $fallback.RelPermalink }}" alt="{{ $alt }}" class="{{ $class }}" loading="{{ $loading }}" decoding="async" width="{{ $fallback.Width }}" height="{{ $fallback.Height }}"{{ with $fetchPriority }} fetchpriority="{{ . }}"{{ end }}>
+  </picture>
+{{- else -}}
+  {{- $staticPath := printf "static%s" $src -}}
+  {{- if fileExists $staticPath -}}
+    {{- $config := imageConfig $staticPath -}}
+    <img src="{{ $src }}" alt="{{ $alt }}" class="{{ $class }}" loading="{{ $loading }}" decoding="async" width="{{ $config.Width }}" height="{{ $config.Height }}"{{ with $fetchPriority }} fetchpriority="{{ . }}"{{ end }}>
+  {{- else -}}
+    <img src="{{ $src }}" alt="{{ $alt }}" class="{{ $class }}" loading="{{ $loading }}" decoding="async"{{ with $fetchPriority }} fetchpriority="{{ . }}"{{ end }}>
+  {{- end -}}
+{{- end -}}

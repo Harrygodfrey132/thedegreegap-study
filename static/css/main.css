@@ -18,8 +18,8 @@
   --shadow: 0 16px 44px rgba(35, 23, 17, 0.08);
   --shadow-hover: 0 18px 46px rgba(35, 23, 17, 0.11);
   --radius: 5px;
-  --font-heading: 'Open Sans', system-ui, sans-serif;
-  --font-body: 'Open Sans', system-ui, sans-serif;
+  --font-heading: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-body: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   --container: 1180px;
   --header-height: 94px;
 }
@@ -285,9 +285,21 @@ p:last-child { margin-bottom: 0; }
   color: rgba(255,255,255,0.75);
   font-size: 0.85rem;
 }
-.footer-payment-img {
-  max-width: 180px;
-  display: block;
+.footer-payment-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.footer-payment-badges span {
+  display: inline-flex;
+  align-items: center;
+  min-height: 28px;
+  padding: 5px 10px;
+  border-radius: 4px;
+  background: rgba(255,255,255,0.92);
+  color: #1a2035;
+  font-size: 0.78rem;
+  font-weight: 700;
 }
 
 .footer-lower {
@@ -2874,8 +2886,17 @@ p:last-child { margin-bottom: 0; }
   object-position: top center;
   display: block;
   border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+  overflow: hidden;
   margin-right: -60px;
   box-shadow: -12px 20px 60px rgba(0,0,0,0.12);
+}
+.loc-img-hero__img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
+  display: block;
+  border-radius: inherit;
 }
 
 /* --- About / Trust --- */
@@ -2949,6 +2970,39 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   box-shadow: 0 8px 32px rgba(0,0,0,0.14);
 }
 .loc-why__video iframe { width: 100%; height: 100%; border: none; display: block; }
+.loc-lite-video,
+.loc-lite-video__button {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.loc-lite-video__button {
+  position: relative;
+  color: #fff;
+  background: #171717;
+  border: 0;
+  cursor: pointer;
+  text-decoration: none;
+}
+.loc-lite-video__button:hover { text-decoration: none; }
+.loc-lite-video__button img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.86;
+}
+.loc-lite-video__play {
+  position: absolute;
+  inset: 50% auto auto 50%;
+  transform: translate(-50%, -50%);
+  display: grid;
+  place-items: center;
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  background: var(--burgundy);
+  box-shadow: 0 10px 28px rgba(0,0,0,0.25);
+}
 .loc-why__copy h2 { font-size: clamp(1.7rem, 3vw, 2.5rem); margin-bottom: 1rem; }
 .loc-why__bullets {
   display: grid;
@@ -3058,6 +3112,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   margin-top: 64px;
 }
 .loc-schools__band-img { display: flex; min-height: 300px; overflow: hidden; }
+.loc-schools__band-img picture { display: flex; flex: 1; width: 100%; }
 .loc-img-schools { flex: 1; width: 100%; object-fit: cover; display: block; }
 .loc-schools__band-img .loc-img-placeholder--classroom {
   flex: 1; width: 100%; min-height: 300px; border-radius: 0;
