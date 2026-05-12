@@ -26,6 +26,13 @@ Location tutor page content contract:
 {{ $aboutImage := .Params.about_image | default "" }}
 {{ $onlineImage := .Params.online_image | default "" }}
 {{ $mapUrl := .Params.map_url | default (printf "https://maps.google.com/maps?q=%s,UK&output=embed" (urlquery $loc)) }}
+{{ $whyHeading := .Params.why_heading | default "Expert tutoring tailored to each student" }}
+{{ $whyPara1 := .Params.why_para_1 | default "At The Degree Gap, we believe every student deserves more than a one-size-fits-all approach. That's why we match you with tutors who have been handpicked through a rigorous vetting process, covering subject expertise, teaching ability, and communication skills, so you're only ever learning from the best." }}
+{{ $whyPara2 := .Params.why_para_2 | default "Every session is tailored to your unique goals, learning style, and pace, giving you the individualised attention that crowded classrooms simply can't offer. Whether you're aiming to close knowledge gaps, boost your grades, or build lasting confidence in a subject, the tutors in our network are there to guide you every step of the way." }}
+{{ $accordionQuality := .Params.accordion_quality | default "All our tutors are graduates from the UK's top universities including Oxford, Cambridge, LSE, and Imperial. Every tutor is personally vetted and trained in our tutoring methodology before working with students." }}
+{{ $accordionExperience := .Params.accordion_experience | default "Our tutors have an average of three or more years of teaching experience. They understand the current exam syllabuses inside out and tailor every lesson to how each student learns best." }}
+{{ $accordionPersonalised := .Params.accordion_personalised | default "No two students are the same. We assess each student's strengths, weaknesses, and learning style before building a structured plan designed to close the gaps and build lasting confidence." }}
+{{ $reviews := .Params.reviews | default (slice "Isabel H|Parent of iGCSE Student|The Degree Gap gave our son the support he needed for his iGCSEs, especially in Maths and Economics. Lessons were clear, engaging, and built his confidence. Highly recommended." "Nicolai N.|A-Level Student|Before joining The Degree Gap, I found it hard to follow the curriculum. The sessions helped everything click. Lessons were calm, focused, and easy to understand. Highly recommend." "Theresa M.|Parent of GCSE Student|Harry and Joe were fantastic. Their knowledge and guidance helped my son find direction in both his studies and future plans." "Sarah K.|Parent of GCSE Student|My daughter's grades improved from a grade 4 to a grade 7 in Maths over the course of a term. The tutors are patient, knowledgeable, and genuinely invested in each student's progress." "James T.|A-Level Student|I was struggling with A-Level Chemistry and couldn't find a tutor who could explain the material clearly. The Degree Gap matched me with someone brilliant and my confidence has completely turned around." "Priya M.|Parent of GCSE Student|Friendly, professional, and effective. We've seen a real uplift in my son's attitude towards school since he started sessions with The Degree Gap.") }}
 
 <!-- =============================================
      SECTION 1: HERO
@@ -103,7 +110,7 @@ Location tutor page content contract:
               <svg class="loc-accordion__icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </summary>
             <div class="loc-accordion__body">
-              <p>All our tutors are graduates from the UK's top universities including Oxford, Cambridge, LSE, and Imperial. Every tutor is personally vetted and trained in our tutoring methodology before working with students.</p>
+              <p>{{ $accordionQuality }}</p>
             </div>
           </details>
           <details class="loc-accordion__item">
@@ -112,7 +119,7 @@ Location tutor page content contract:
               <svg class="loc-accordion__icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </summary>
             <div class="loc-accordion__body">
-              <p>Our tutors have an average of three or more years of teaching experience. They understand the current exam syllabuses inside out and tailor every lesson to how each student learns best.</p>
+              <p>{{ $accordionExperience }}</p>
             </div>
           </details>
           <details class="loc-accordion__item">
@@ -121,7 +128,7 @@ Location tutor page content contract:
               <svg class="loc-accordion__icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </summary>
             <div class="loc-accordion__body">
-              <p>No two students are the same. We assess each student's strengths, weaknesses, and learning style before building a structured plan designed to close the gaps and build lasting confidence.</p>
+              <p>{{ $accordionPersonalised }}</p>
             </div>
           </details>
         </div>
@@ -148,9 +155,9 @@ Location tutor page content contract:
       </div>
       <div class="loc-why__copy">
         <p class="loc-eyebrow">WHY CHOOSE US</p>
-        <h2>Expert tutoring tailored to each student</h2>
-        <p>At The Degree Gap, we believe every student deserves more than a one-size-fits-all approach. That's why we match you with tutors who have been handpicked through a rigorous vetting process — covering subject expertise, teaching ability, and communication skills — so you're only ever learning from the best.</p>
-        <p>Every session is tailored to your unique goals, learning style, and pace, giving you the individualised attention that crowded classrooms simply can't offer. Whether you're aiming to close knowledge gaps, boost your grades, or build lasting confidence in a subject, the tutors in our network are there to guide you every step of the way.</p>
+        <h2>{{ $whyHeading }}</h2>
+        <p>{{ $whyPara1 }}</p>
+        <p>{{ $whyPara2 }}</p>
       </div>
     </div>
   </div>
@@ -398,57 +405,31 @@ Location tutor page content contract:
     <h2 class="loc-reviews__title">+100 5-Star Reviews From Parents And Students</h2>
 
     <div class="loc-reviews__grid">
+      {{ range first 3 $reviews }}
+      {{ $parts := split . "|" }}
       <div class="loc-review-card">
         <span class="loc-review-card__quote" aria-hidden="true">"</span>
         <div class="loc-review-card__header">
-          <strong>Isabel H</strong>
-          <span>Parent of iGCSE Student</span>
+          <strong>{{ index $parts 0 }}</strong>
+          <span>{{ index $parts 1 }}</span>
         </div>
-        <p>The Degree Gap gave our son the support he needed for his iGCSEs, especially in Maths and Economics. Lessons were clear, engaging, and built his confidence. Highly recommended.</p>
+        <p>{{ index $parts 2 }}</p>
       </div>
-      <div class="loc-review-card">
-        <span class="loc-review-card__quote" aria-hidden="true">"</span>
-        <div class="loc-review-card__header">
-          <strong>Nicolai N.</strong>
-          <span>A-Level Student</span>
-        </div>
-        <p>Before joining The Degree Gap, I found it hard to follow the curriculum. The sessions helped everything click. Lessons were calm, focused, and easy to understand. Highly recommend.</p>
-      </div>
-      <div class="loc-review-card">
-        <span class="loc-review-card__quote" aria-hidden="true">"</span>
-        <div class="loc-review-card__header">
-          <strong>Theresa M.</strong>
-          <span>Parent of GCSE Student</span>
-        </div>
-        <p>Harry and Joe were fantastic. Their knowledge and guidance helped my son find direction in both his studies and future plans.</p>
-      </div>
+      {{ end }}
     </div>
 
     <div class="loc-reviews__more" id="loc-reviews-more" hidden>
+      {{ range after 3 $reviews }}
+      {{ $parts := split . "|" }}
       <div class="loc-review-card">
         <span class="loc-review-card__quote" aria-hidden="true">"</span>
         <div class="loc-review-card__header">
-          <strong>Sarah K.</strong>
-          <span>Parent of GCSE Student</span>
+          <strong>{{ index $parts 0 }}</strong>
+          <span>{{ index $parts 1 }}</span>
         </div>
-        <p>My daughter's grades improved from a grade 4 to a grade 7 in Maths over the course of a term. The tutors are patient, knowledgeable, and genuinely invested in each student's progress.</p>
+        <p>{{ index $parts 2 }}</p>
       </div>
-      <div class="loc-review-card">
-        <span class="loc-review-card__quote" aria-hidden="true">"</span>
-        <div class="loc-review-card__header">
-          <strong>James T.</strong>
-          <span>A-Level Student</span>
-        </div>
-        <p>I was struggling with A-Level Chemistry and couldn't find a tutor who could explain the material clearly. The Degree Gap matched me with someone brilliant and my confidence has completely turned around.</p>
-      </div>
-      <div class="loc-review-card">
-        <span class="loc-review-card__quote" aria-hidden="true">"</span>
-        <div class="loc-review-card__header">
-          <strong>Priya M.</strong>
-          <span>Parent of GCSE Student</span>
-        </div>
-        <p>Friendly, professional, and effective. We've seen a real uplift in my son's attitude towards school since he started sessions with The Degree Gap.</p>
-      </div>
+      {{ end }}
     </div>
 
     <button class="loc-reviews__toggle" id="loc-reviews-toggle" aria-expanded="false">

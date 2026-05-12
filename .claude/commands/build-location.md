@@ -131,6 +131,20 @@ faq_3_q: "[Question]"
 faq_3_a: "[Answer]"
 faq_4_q: "[Question]"
 faq_4_a: "[Answer]"
+why_heading: "[Why Choose Us heading — original per page, see Why Choose Us section]"
+why_para_1: "[First paragraph — use local research to make this specific to the area]"
+why_para_2: "[Second paragraph — tied to the page's content angle]"
+accordion_quality: "[High Quality Standards accordion body — tie to local school/exam context]"
+accordion_experience: "[Experienced Tutors accordion body — reflect the specific challenges in this area]"
+accordion_personalised: "[Personalised Learning accordion body — connect to this page's angle]"
+reviews: [
+  "FirstName|Role|Review text",
+  "FirstName|Role|Review text",
+  "FirstName|Role|Review text",
+  "FirstName|Role|Review text",
+  "FirstName|Role|Review text",
+  "FirstName|Role|Review text",
+]
 sitemap:
   priority: 0.8
   changefreq: monthly
@@ -210,9 +224,31 @@ Angle examples to draw from (never copy verbatim — these show range of approac
 
 *Foundation gaps:* "Sometimes the problem isn't today's lesson — it's a gap from two years ago that never got addressed. In Kingston, we regularly work with students who are capable but held back by shaky foundations in core subjects. / The Degree Gap starts by identifying exactly where those gaps are, then builds a structured plan to close them — not about cramming, but making sure students genuinely understand the fundamentals."
 
-### Why Choose Us (FIXED — do not change)
+### Why Choose Us (ORIGINAL per page — use local research)
 
-This is hardcoded into the Hugo template — do not include it in the frontmatter or file body.
+Write `why_heading`, `why_para_1`, `why_para_2`, and the three accordion fields using the local knowledge gathered during your research. These sections are now driven by frontmatter.
+
+**why_heading:** A short, confident heading tied to this location. It should not just repeat the banner. Examples of angles:
+- Competitive area: "Why families in {Location} choose The Degree Gap"
+- Confidence area: "Rebuilding belief and results for {Location} students"
+- Foundation gaps: "Structured tutoring that finds the gap and closes it"
+- Exam pressure: "Proven exam preparation for {Location} students"
+
+**why_para_1:** Use your local research. Mention the specific academic pressures in this area (grammar school competition, below-average attainment, oversubscribed sixth forms, etc.) and frame The Degree Gap as the answer. One short paragraph — 3 to 4 sentences.
+
+**why_para_2:** Connect to the page's overall angle. If confidence, talk about how sessions are built to rebuild belief. If ambition, talk about going beyond the syllabus. If foundation gaps, talk about targeting root causes. One short paragraph — 3 to 4 sentences.
+
+**accordion_quality:** Rewrite the body for "High Quality Standards" using local context. For a competitive area, mention familiarity with selective school exam boards and the standard expected at top local schools. For a catching-up area, emphasise careful vetting to find patient, clear communicators. One or two sentences — do not exceed the length of the default.
+
+**accordion_experience:** Rewrite the body for "Experienced Tutors" using the page's angle. For exam pressure, mention experience with past papers and exam technique. For confidence, mention experience working with students who have lost motivation. Two sentences max.
+
+**accordion_personalised:** Rewrite the body for "Personalised Learning" connecting directly to the content angle. For foundation gaps, mention the diagnostic approach. For ambition, mention stretching beyond the curriculum. For confidence, mention pace and patience. Two sentences max.
+
+**Rules:**
+- No em dashes in any of these fields.
+- No placeholder language.
+- British English.
+- These should feel like they belong to this page — not like recycled generic copy.
 
 ### Academic Subjects (HARD-CODED — order only changes)
 
@@ -338,6 +374,44 @@ Choose 4 questions that fit the page's angle and location type. Substitute the l
 24. Q: "Is there a free consultation before we commit?" / A: "Yes. We start with a conversation to understand what the student needs before recommending anyone. There is no pressure and no obligation. We would rather take the time to get the match right for your {loc} student than rush an introduction."
 25. Q: "How do I know if my child actually needs a tutor?" / A: "If grades are slipping, confidence is dropping, or a student is putting in effort without seeing results, those are usually the clearest signs. Sometimes it is not about crisis. Some {loc} students simply want to push further than the classroom pace allows. Either is a valid reason to get in touch."
 
+### Reviews (pick 6 from the bank below — vary selection across pages)
+
+Choose 6 reviews from the bank below. Use only first names. Format each entry as:
+`"FirstName|Role|Review text"`
+
+The first 3 will be visible immediately. The last 3 appear under "Show more reviews". Vary your selection across pages — do not always pick the same 6 or put them in the same order.
+
+**Role labels to use** (pick whichever fits the review):
+- Parent of GCSE Student
+- Parent of A-Level Student
+- Parent
+- GCSE Student
+- A-Level Student
+- University Student
+
+**Reviews Bank (use first names only — do not use full surnames):**
+
+1. Annette | Parent | "This company helped us find a tutor for Geography and my son has excelled so much in just a few months. Our tutor has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself. He also manages neurodiversity effectively."
+2. Nick | Parent of A-Level Student | "Our son has been receiving tuition for Psychology A Level. The tutor has provided a solid base of support outside of school lessons and helped him to improve his latest grades."
+3. Bryan | GCSE Student | "Helped me a lot and really showed me what I need to improve on."
+4. Alison | Parent of A-Level Student | "My son has been receiving tutor lessons in A Level History and A Level Sociology since the beginning of this year. The tutor has been such a tremendous support, teaching him content as well as exam technique."
+5. Heidi | Parent | "Our tutor is simply amazing with our daughter. He understands her completely and her sessions are helping her with her school work so much. We cannot thank him enough."
+6. Omo | Parent of GCSE Student | "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him."
+7. Serena | A-Level Student | "My tutor is a very intuitive and superb teacher. She listened to my specific concerns and bolstered my confidence in answering questions. She taught me how to think critically and helped me through this highly demanding course. I will happily recommend without a second thought."
+8. Sorland | Parent | "My granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
+9. Philippa | Parent of GCSE Student | "I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings. Highly recommend."
+10. Keira | GCSE Student | "Has definitely helped me increase my grades from an E to a B."
+11. Nazrul | Parent | "My daughter found the tutors were very helpful for her GCSE. Thank you."
+12. Daljit | Parent of A-Level Student | "My son gained almost two grades higher than his year 13 mock paper. His tutor was excellent."
+13. Joel | Student | "The Degree Gap is an amazing place and has helped me achieve so much. I am looking forward to it helping me develop a higher level of skills and get ready for the RAF."
+14. Augusta | Parent of GCSE Student | "The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."
+15. Ellen | Parent of GCSE Student | "My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. We were given a selection of tutors to choose from and told that if it did not feel like a good match we could try others. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
+16. Jessica | GCSE Student | "I was helped with both Maths and English for my GCSEs and passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree."
+17. Lisa | Parent | "The Degree Gap has exceeded all my expectations. They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional. Both my sons exceeded their expected grades in their GCSEs and A Levels and got into their first choice universities. I cannot recommend them highly enough."
+18. Tommy | University Student | "I wish I had found The Degree Gap when I was sitting my school exams. They helped with my dissertation work and without their help I am not sure I would have graduated so successfully and landed a successful job."
+19. Alex | University Student | "Cannot recommend The Degree Gap highly enough. Quick and helpful responses. I was immediately matched with a very competent tutor who was a massive help in helping me exceed my target grade and achieve a first class degree at university."
+20. Chris | Parent of GCSE Student | "Very good tutoring for my daughter and good communication with parents. My daughter passed both English and Maths GCSE."
+
 ---
 
 ## Important Rules
@@ -392,3 +466,9 @@ Use as a vocabulary bank — weave concepts into original sentences, never copy 
 - [ ] Does intro_1 or intro_2 contain one specific, verifiable local fact (grammar school selectivity, Ofsted rating, Progress 8 score, or similar) — not a generic student population number?
 - [ ] Are there zero placeholders remaining?
 - [ ] Has the file been saved to the correct path?
+- [ ] Does why_heading connect to this location's specific academic context?
+- [ ] Do why_para_1 and why_para_2 use local research rather than generic copy?
+- [ ] Do the three accordion fields (accordion_quality, accordion_experience, accordion_personalised) reflect this page's angle rather than the default text?
+- [ ] Are exactly 6 reviews selected from the bank, each using first name only?
+- [ ] Are reviews in the format "FirstName|Role|Review text" with no full surnames?
+- [ ] Are the 6 reviews varied in reviewer type (mix of parents, students, etc.)?
