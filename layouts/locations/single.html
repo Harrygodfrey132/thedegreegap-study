@@ -25,6 +25,7 @@ Location tutor page content contract:
 {{ $heroImage := .Params.hero_image | default "" }}
 {{ $aboutImage := .Params.about_image | default "" }}
 {{ $onlineImage := .Params.online_image | default "" }}
+{{ $schoolsImage := .Params.schools_image | default "" }}
 {{ $mapUrl := .Params.map_url | default (printf "https://maps.google.com/maps?q=%s,UK&output=embed" (urlquery $loc)) }}
 {{ $whyHeading := .Params.why_heading | default "Expert tutoring tailored to each student" }}
 {{ $whyPara1 := .Params.why_para_1 | default "At The Degree Gap, we believe every student deserves more than a one-size-fits-all approach. That's why we match you with tutors who have been handpicked through a rigorous vetting process, covering subject expertise, teaching ability, and communication skills, so you're only ever learning from the best." }}
@@ -133,7 +134,7 @@ Location tutor page content contract:
           </details>
         </div>
 
-        <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary" style="margin-top:1.5rem;">Get Started</a>
+        <a href="#get-help" class="btn btn-primary" style="margin-top:1.5rem;">Get In Touch</a>
       </div>
     </div>
   </div>
@@ -235,7 +236,7 @@ Location tutor page content contract:
           <p class="loc-eyebrow">TRUSTED BY SCHOOLS</p>
           <h2>Tutoring {{ $loc }} school students</h2>
           <p>{{ $schoolsIntro }}</p>
-          <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary">Learn More</a>
+          <a href="tel:07859965776" class="btn btn-primary">Call Us Now</a>
         </div>
         <div class="loc-schools__img-right">
           <iframe
@@ -252,10 +253,13 @@ Location tutor page content contract:
   </div>
   <div class="loc-schools__band">
     <div class="loc-schools__band-img">
-      <!-- Replace with classroom/students image -->
+      {{ if $schoolsImage }}
+      <img src="{{ $schoolsImage }}" alt="Schools in {{ $loc }}" class="loc-img-schools" loading="lazy">
+      {{ else }}
       <div class="loc-img-placeholder loc-img-placeholder--classroom">
         <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" opacity="0.4"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><path d="M8 21h8m-4-4v4"/></svg>
       </div>
+      {{ end }}
     </div>
     <div class="loc-schools__list">
       <ul>
@@ -269,7 +273,7 @@ Location tutor page content contract:
         </li>
         {{ end }}
       </ul>
-      <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="loc-schools__link">Find a tutor near you <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14m-7-7 7 7-7 7"/></svg></a>
+      <a href="#get-help" class="loc-schools__link">Fill in our form <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14m-7-7 7 7-7 7"/></svg></a>
     </div>
   </div>
 </section>
@@ -293,7 +297,7 @@ Location tutor page content contract:
         <h2>{{ $onlineHeading }}</h2>
         <p>{{ $online1 }}</p>
         <p>{{ $online2 }}</p>
-        <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary">Learn More</a>
+        <a href="tel:07859965776" class="btn btn-primary">Call Us Now</a>
       </div>
     </div>
   </div>
