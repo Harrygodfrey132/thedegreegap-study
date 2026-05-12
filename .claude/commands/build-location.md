@@ -250,39 +250,62 @@ Write `why_heading`, `why_para_1`, `why_para_2`, and the three accordion fields 
 - British English.
 - These should feel like they belong to this page — not like recycled generic copy.
 
-### Academic Subjects (HARD-CODED — order only changes)
+### Academic Subjects (names and URLs fixed — descriptions original per page)
 
-We cover all GCSE and A-Level subjects — mention this in context. Below are the 9 subjects to show for each tab. The descriptions and URLs are fixed. **Randomise the order of the list each time** so no two pages look identical.
+We cover all GCSE and A-Level subjects — mention this in context. Include all 9 subjects for each tab. **Randomise the order of the list each time** so no two pages look identical.
 
 Each entry format: `"Subject Name|Description|URL"`
 
-**GCSE — use exactly these 9, in a randomised order:**
+**The subject name and URL for each entry are fixed — do not change them. The description must be rewritten for each location.**
 
-```
-"Maths|Clear, structured support covering number, algebra, geometry and statistics — building the fluency students need on exam day.|https://thedegreegap.com/teachers/languages/GCSE-Maths"
-"English|From analysing unseen texts to crafting well-argued essays, targeted support across Language and Literature.|https://thedegreegap.com/teachers/languages/GCSE-English"
-"Biology|Breaking down complex biological systems into clear, logical steps — from cells and genetics to ecology and physiology.|https://thedegreegap.com/teachers/languages/GCSE-Biology"
-"Chemistry|Expert support across organic, inorganic and physical chemistry, helping students understand reactions rather than just memorise them.|https://thedegreegap.com/teachers/languages/GCSE-Chemistry"
-"Physics|Structured tuition that builds genuine understanding of forces, energy and electricity, with a focus on problem-solving skills.|https://thedegreegap.com/teachers/languages/GCSE-Physics"
-"History|Developing strong essay technique, source analysis and content recall across all GCSE History topics and exam boards.|https://thedegreegap.com/teachers/languages/GCSE-History"
-"Geography|Targeted revision across physical and human geography, with support on case studies, data response and extended writing.|https://thedegreegap.com/teachers/languages/GCSE-Geography"
-"French|Building fluency and accuracy in speaking, listening, reading and writing through consistent, personalised practice.|https://thedegreegap.com/teachers/languages/GCSE-French"
-"Computer Science|From programming fundamentals to algorithmic thinking, support that makes abstract concepts click.|https://thedegreegap.com/teachers/languages/GCSE-Computer-Science"
-```
+Write each description using the local context you gathered in your research. Draw on:
+- The page's content angle (exam pressure, ambition, foundation gaps, confidence, etc.)
+- The local school landscape (selective schools, comprehensives, competitive sixth forms)
+- The specific pressures students in this area face
 
-**A-Level — use exactly these 9, in a randomised order:**
+The description should be one concise sentence, around 15–20 words. It must feel like it belongs to this location — not like a generic subject blurb copied across every page.
 
-```
-"Maths|Advanced support across pure maths, mechanics and statistics — tackling the multi-step problems that define A-Level results.|https://thedegreegap.com/teachers/languages/A-level-Maths"
-"Biology|Deeper understanding of advanced biological systems, from genetics to ecosystems, with expert guidance tailored to exam board requirements.|https://thedegreegap.com/teachers/languages/A-level-Biology"
-"Chemistry|Navigate organic, inorganic and physical chemistry with tutors who prioritise genuine understanding over rote memorisation.|https://thedegreegap.com/teachers/languages/A-level-Chemistry"
-"Physics|Gain confidence in advanced mechanics, fields and quantum physics through problem-solving focused tuition.|https://thedegreegap.com/teachers/languages/A-level-Physics"
-"Psychology|Master advanced research methods, key approaches and essay technique with tutors who know the mark scheme inside out.|https://thedegreegap.com/teachers/languages/A-level-Psychology"
-"History|Strengthening the ability to construct and sustain complex historical arguments with precision under exam conditions.|https://thedegreegap.com/teachers/languages/A-level-History"
-"Economics|Explore advanced micro and macroeconomic models, policy analysis and data interpretation with rigorous one-to-one support.|https://thedegreegap.com/teachers/languages/A-level-Economics"
-"English|Refine critical analysis and essay writing across a range of literary texts, building the depth examiners at top universities expect.|https://thedegreegap.com/teachers/languages/A-level-English"
-"Geography|Tackle advanced geographical concepts, fieldwork and extended writing with the confidence that comes from expert guidance.|https://thedegreegap.com/teachers/languages/A-level-Geography"
-```
+**Rules for descriptions:**
+- No em dashes
+- No banned phrases
+- Plain, direct language
+- Vary the sentence structure and opening word across subjects — do not start every description with the same verb
+- Do not repeat the content angle word-for-word in every description — weave it in naturally across a few, not all
+
+**Subject names and URLs (fixed):**
+
+GCSE:
+- Maths → `https://thedegreegap.com/teachers/languages/GCSE-Maths`
+- English → `https://thedegreegap.com/teachers/languages/GCSE-English`
+- Biology → `https://thedegreegap.com/teachers/languages/GCSE-Biology`
+- Chemistry → `https://thedegreegap.com/teachers/languages/GCSE-Chemistry`
+- Physics → `https://thedegreegap.com/teachers/languages/GCSE-Physics`
+- History → `https://thedegreegap.com/teachers/languages/GCSE-History`
+- Geography → `https://thedegreegap.com/teachers/languages/GCSE-Geography`
+- French → `https://thedegreegap.com/teachers/languages/GCSE-French`
+- Computer Science → `https://thedegreegap.com/teachers/languages/GCSE-Computer-Science`
+
+A-Level:
+- Maths → `https://thedegreegap.com/teachers/languages/A-level-Maths`
+- Biology → `https://thedegreegap.com/teachers/languages/A-level-Biology`
+- Chemistry → `https://thedegreegap.com/teachers/languages/A-level-Chemistry`
+- Physics → `https://thedegreegap.com/teachers/languages/A-level-Physics`
+- Psychology → `https://thedegreegap.com/teachers/languages/A-level-Psychology`
+- History → `https://thedegreegap.com/teachers/languages/A-level-History`
+- Economics → `https://thedegreegap.com/teachers/languages/A-level-Economics`
+- English → `https://thedegreegap.com/teachers/languages/A-level-English`
+- Geography → `https://thedegreegap.com/teachers/languages/A-level-Geography`
+
+**Example — how descriptions might differ by location angle:**
+
+For a confidence angle (e.g. Coventry):
+`"Maths|Structured support that rebuilds confidence in number, algebra and geometry, one step at a time.|https://..."`
+
+For an ambition angle (e.g. Cambridge):
+`"Maths|Advanced problem-solving support across algebra, geometry and statistics for students pushing towards the top grade boundaries.|https://..."`
+
+For a foundation gaps angle (e.g. Nottingham):
+`"Maths|Targeted work that traces gaps back to their root and builds solid understanding from there, rather than repeating content that has not yet clicked.|https://..."`
 
 ### About Heading (rotate — never reuse across pages)
 
@@ -472,3 +495,5 @@ Use as a vocabulary bank — weave concepts into original sentences, never copy 
 - [ ] Are exactly 6 reviews selected from the bank, each using first name only?
 - [ ] Are reviews in the format "FirstName|Role|Review text" with no full surnames?
 - [ ] Are the 6 reviews varied in reviewer type (mix of parents, students, etc.)?
+- [ ] Are subject descriptions rewritten for this location rather than copied from the default bank?
+- [ ] Do at least a few subject descriptions reflect this page's content angle or local school context?
