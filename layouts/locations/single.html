@@ -94,64 +94,7 @@ Location tutor page content contract:
 </section>
 
 <!-- =============================================
-     SECTION 2: ABOUT / TRUST
-     ============================================= -->
-<section class="loc-about">
-  <div class="container">
-    <div class="loc-about__inner">
-      <div class="loc-about__image">
-        {{ if $aboutImage }}
-        {{ partial "responsive-image.html" (dict "src" $aboutImage "alt" (printf "Expert tutors in %s" $loc) "class" "loc-img-about" "loading" "lazy" "sizes" "(min-width: 901px) 50vw, 100vw" "widths" (slice 420 760 1100) "fallbackWidth" 760 "quality" 72) }}
-        {{ else }}
-        <div class="loc-img-placeholder loc-img-placeholder--location">
-          <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" opacity="0.25"><path d="M21 10c0 7-9 13-9 13S3 17 3 10a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
-        </div>
-        {{ end }}
-      </div>
-      <div class="loc-about__copy">
-        <p class="loc-eyebrow">TRUSTED BY SCHOOLS &amp; PARENTS</p>
-        <h2>{{ .Params.about_heading | default (printf "Leading GCSE and A-Level Tutors in %s" $loc) }}</h2>
-        <p>{{ $intro1 }}</p>
-        <p>{{ $intro2 }}</p>
-
-        <div class="loc-accordion">
-          <details class="loc-accordion__item" open>
-            <summary class="loc-accordion__trigger">
-              <span>High Quality Standards</span>
-              <svg class="loc-accordion__icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
-            </summary>
-            <div class="loc-accordion__body">
-              <p>{{ $accordionQuality }}</p>
-            </div>
-          </details>
-          <details class="loc-accordion__item">
-            <summary class="loc-accordion__trigger">
-              <span>Experienced Tutors</span>
-              <svg class="loc-accordion__icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
-            </summary>
-            <div class="loc-accordion__body">
-              <p>{{ $accordionExperience }}</p>
-            </div>
-          </details>
-          <details class="loc-accordion__item">
-            <summary class="loc-accordion__trigger">
-              <span>Personalised Learning</span>
-              <svg class="loc-accordion__icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
-            </summary>
-            <div class="loc-accordion__body">
-              <p>{{ $accordionPersonalised }}</p>
-            </div>
-          </details>
-        </div>
-
-        <a href="#get-help" class="btn btn-primary" style="margin-top:1.5rem;">Get In Touch</a>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- =============================================
-     SECTION 3: WHY CHOOSE US
+     SECTION 2: WHY CHOOSE US
      ============================================= -->
 <section class="loc-why">
   <div class="container">
@@ -177,7 +120,7 @@ Location tutor page content contract:
 </section>
 
 <!-- =============================================
-     SECTION 4: SUBJECTS
+     SECTION 3: SUBJECTS
      ============================================= -->
 <section class="loc-subjects">
   <div class="container">
@@ -238,104 +181,111 @@ Location tutor page content contract:
 </section>
 
 <!-- =============================================
-     SECTION 5: TRUSTED BY SCHOOLS
+     SECTION 4: ABOUT / TRUST
      ============================================= -->
-<section class="loc-schools">
-  <div class="loc-schools__top">
-    <div class="container">
-      <div class="loc-schools__header">
-        <div class="loc-schools__copy">
-          <p class="loc-eyebrow">TRUSTED BY SCHOOLS</p>
-          <h2>Tutoring {{ $loc }} school students</h2>
-          <p>{{ $schoolsIntro }}</p>
-          <a href="tel:07859965776" class="btn btn-primary">Call Us Now</a>
-        </div>
-        <div class="loc-schools__img-right">
-          <iframe
-            src="{{ $mapUrl }}"
-            class="loc-map-embed"
-            allowfullscreen=""
-            loading="lazy"
-            referrerpolicy="no-referrer-when-downgrade"
-            title="{{ $loc }} map">
-          </iframe>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="loc-schools__band">
-    <div class="loc-schools__band-img">
-      {{ if $schoolsImage }}
-      {{ partial "responsive-image.html" (dict "src" $schoolsImage "alt" (printf "Schools in %s" $loc) "class" "loc-img-schools" "loading" "lazy" "sizes" "(min-width: 901px) 50vw, 100vw" "widths" (slice 420 760 1100) "fallbackWidth" 760 "quality" 72) }}
-      {{ else }}
-      <div class="loc-img-placeholder loc-img-placeholder--classroom">
-        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" opacity="0.4"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><path d="M8 21h8m-4-4v4"/></svg>
-      </div>
-      {{ end }}
-    </div>
-    <div class="loc-schools__list">
-      <ul>
-        {{ range $schools }}
-        <li>
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20,6 9,17 4,12"/></svg>
-          <div>
-            <strong>{{ . }}</strong>
-            <span>{{ $loc }} area</span>
-          </div>
-        </li>
-        {{ end }}
-      </ul>
-      <a href="#get-help" class="loc-schools__link">Fill in our form <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14m-7-7 7 7-7 7"/></svg></a>
-    </div>
-  </div>
-</section>
-
-<!-- =============================================
-     SECTION 6: ONLINE TUITION
-     ============================================= -->
-<section class="loc-online">
+<section class="loc-about">
   <div class="container">
-    <div class="loc-online__inner">
-      <div class="loc-online__image">
-        {{ if $onlineImage }}
-        {{ partial "responsive-image.html" (dict "src" $onlineImage "alt" (printf "Online tutoring for %s students" $loc) "class" "loc-img-online" "loading" "lazy" "sizes" "(min-width: 901px) 50vw, 100vw" "widths" (slice 420 760 1100) "fallbackWidth" 760 "quality" 72) }}
+    <div class="loc-about__inner">
+      <div class="loc-about__image">
+        {{ if $aboutImage }}
+        {{ partial "responsive-image.html" (dict "src" $aboutImage "alt" (printf "Expert tutors in %s" $loc) "class" "loc-img-about" "loading" "lazy" "sizes" "(min-width: 901px) 50vw, 100vw" "widths" (slice 420 760 1100) "fallbackWidth" 760 "quality" 72) }}
         {{ else }}
-        <div class="loc-img-placeholder loc-img-placeholder--online">
-          <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" opacity="0.25"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><path d="M8 21h8m-4-4v4"/></svg>
+        <div class="loc-img-placeholder loc-img-placeholder--location">
+          <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" opacity="0.25"><path d="M21 10c0 7-9 13-9 13S3 17 3 10a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
         </div>
         {{ end }}
       </div>
-      <div class="loc-online__copy">
-        <h2>{{ $onlineHeading }}</h2>
-        <p>{{ $online1 }}</p>
-        <p>{{ $online2 }}</p>
-        <a href="tel:07859965776" class="btn btn-primary">Call Us Now</a>
+      <div class="loc-about__copy">
+        <p class="loc-eyebrow">TRUSTED BY SCHOOLS &amp; PARENTS</p>
+        <h2>{{ .Params.about_heading | default (printf "Leading GCSE and A-Level Tutors in %s" $loc) }}</h2>
+        <p>{{ $intro1 }}</p>
+        <p>{{ $intro2 }}</p>
+
+        <div class="loc-accordion">
+          <details class="loc-accordion__item" open>
+            <summary class="loc-accordion__trigger">
+              <span>High Quality Standards</span>
+              <svg class="loc-accordion__icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+            </summary>
+            <div class="loc-accordion__body">
+              <p>{{ $accordionQuality }}</p>
+            </div>
+          </details>
+          <details class="loc-accordion__item">
+            <summary class="loc-accordion__trigger">
+              <span>Experienced Tutors</span>
+              <svg class="loc-accordion__icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+            </summary>
+            <div class="loc-accordion__body">
+              <p>{{ $accordionExperience }}</p>
+            </div>
+          </details>
+          <details class="loc-accordion__item">
+            <summary class="loc-accordion__trigger">
+              <span>Personalised Learning</span>
+              <svg class="loc-accordion__icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+            </summary>
+            <div class="loc-accordion__body">
+              <p>{{ $accordionPersonalised }}</p>
+            </div>
+          </details>
+        </div>
+
+        <a href="#get-help" class="btn btn-primary" style="margin-top:1.5rem;">Get In Touch</a>
       </div>
     </div>
   </div>
 </section>
 
 <!-- =============================================
-     SECTION 7: AREAS WE COVER
+     SECTION 5: REVIEWS
      ============================================= -->
-<section class="loc-areas">
+<section class="loc-reviews">
   <div class="container">
-    <p class="loc-eyebrow loc-eyebrow--center">AREAS WE COVER</p>
-    <h2 class="loc-areas__title">Trusted Tutors in Your Area</h2>
-    <p class="loc-areas__lead">{{ $areasIntro }}</p>
-    <div class="loc-areas__grid">
-      {{ range $areaLinks }}
-        {{ $parts := split . "|" }}
-        {{ $name := index $parts 0 }}
-        {{ $href := index $parts 1 }}
-        <a href="{{ $href }}" class="loc-area-card">{{ $name }}</a>
+    <p class="loc-eyebrow loc-eyebrow--center">OUR GLOWING REVIEWS</p>
+    <h2 class="loc-reviews__title">+100 5-Star Reviews From Parents And Students</h2>
+
+    <div class="loc-reviews__grid">
+      {{ range first 3 $reviews }}
+      {{ $parts := split . "|" }}
+      <div class="loc-review-card">
+        <span class="loc-review-card__quote" aria-hidden="true">"</span>
+        <div class="loc-review-card__header">
+          <strong>{{ index $parts 0 }}</strong>
+          <span>{{ index $parts 1 }}</span>
+        </div>
+        <p>{{ index $parts 2 }}</p>
+      </div>
       {{ end }}
+    </div>
+
+    <div class="loc-reviews__more" id="loc-reviews-more" hidden>
+      {{ range after 3 $reviews }}
+      {{ $parts := split . "|" }}
+      <div class="loc-review-card">
+        <span class="loc-review-card__quote" aria-hidden="true">"</span>
+        <div class="loc-review-card__header">
+          <strong>{{ index $parts 0 }}</strong>
+          <span>{{ index $parts 1 }}</span>
+        </div>
+        <p>{{ index $parts 2 }}</p>
+      </div>
+      {{ end }}
+    </div>
+
+    <button class="loc-reviews__toggle" id="loc-reviews-toggle" aria-expanded="false">
+      Show more reviews
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+    </button>
+
+    <div class="loc-reviews__cta">
+      <a href="tel:07859965776" class="btn loc-btn-gold">Free call, no obligation</a>
     </div>
   </div>
 </section>
 
 <!-- =============================================
-     SECTION 8: CONTACT + FAQ
+     SECTION 6: CONTACT + FAQ
      ============================================= -->
 <section class="loc-contact-faq" id="get-help">
   <div class="loc-contact-faq__inner">
@@ -351,9 +301,6 @@ Location tutor page content contract:
           <input type="hidden" name="location" value="{{ $loc }}">
           <div class="loc-form-group">
             <input type="text" name="name" placeholder="Full Name*" required>
-          </div>
-          <div class="loc-form-group">
-            <input type="email" name="email" placeholder="Email Address*" required>
           </div>
           <div class="loc-form-group">
             <input type="tel" name="phone" placeholder="Phone Number*" autocomplete="tel" required>
@@ -413,48 +360,73 @@ Location tutor page content contract:
 </section>
 
 <!-- =============================================
-     SECTION 9: REVIEWS
+     SECTION 7: ONLINE TUITION
      ============================================= -->
-<section class="loc-reviews">
+<section class="loc-online">
   <div class="container">
-    <p class="loc-eyebrow loc-eyebrow--center">OUR GLOWING REVIEWS</p>
-    <h2 class="loc-reviews__title">+100 5-Star Reviews From Parents And Students</h2>
-
-    <div class="loc-reviews__grid">
-      {{ range first 3 $reviews }}
-      {{ $parts := split . "|" }}
-      <div class="loc-review-card">
-        <span class="loc-review-card__quote" aria-hidden="true">"</span>
-        <div class="loc-review-card__header">
-          <strong>{{ index $parts 0 }}</strong>
-          <span>{{ index $parts 1 }}</span>
+    <div class="loc-online__inner">
+      <div class="loc-online__image">
+        {{ if $onlineImage }}
+        {{ partial "responsive-image.html" (dict "src" $onlineImage "alt" (printf "Online tutoring for %s students" $loc) "class" "loc-img-online" "loading" "lazy" "sizes" "(min-width: 901px) 50vw, 100vw" "widths" (slice 420 760 1100) "fallbackWidth" 760 "quality" 72) }}
+        {{ else }}
+        <div class="loc-img-placeholder loc-img-placeholder--online">
+          <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" opacity="0.25"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><path d="M8 21h8m-4-4v4"/></svg>
         </div>
-        <p>{{ index $parts 2 }}</p>
+        {{ end }}
       </div>
-      {{ end }}
+      <div class="loc-online__copy">
+        <h2>{{ $onlineHeading }}</h2>
+        <p>{{ $online1 }}</p>
+        <p>{{ $online2 }}</p>
+        <a href="tel:07859965776" class="btn btn-primary">Call Us Now</a>
+      </div>
     </div>
+  </div>
+</section>
 
-    <div class="loc-reviews__more" id="loc-reviews-more" hidden>
-      {{ range after 3 $reviews }}
-      {{ $parts := split . "|" }}
-      <div class="loc-review-card">
-        <span class="loc-review-card__quote" aria-hidden="true">"</span>
-        <div class="loc-review-card__header">
-          <strong>{{ index $parts 0 }}</strong>
-          <span>{{ index $parts 1 }}</span>
+<!-- =============================================
+     SECTION 8: TRUSTED BY SCHOOLS
+     ============================================= -->
+<section class="loc-schools loc-schools--simple">
+  <div class="loc-schools__top">
+    <div class="container">
+      <div class="loc-schools__header">
+        <div class="loc-schools__copy">
+          <p class="loc-eyebrow">TRUSTED BY SCHOOLS</p>
+          <h2>Tutoring {{ $loc }} school students</h2>
+          <p>{{ $schoolsIntro }}</p>
+          <a href="tel:07859965776" class="btn btn-primary">Call Us Now</a>
         </div>
-        <p>{{ index $parts 2 }}</p>
+        <div class="loc-schools__img-right">
+          <iframe
+            src="{{ $mapUrl }}"
+            class="loc-map-embed"
+            allowfullscreen=""
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+            title="{{ $loc }} map">
+          </iframe>
+        </div>
       </div>
-      {{ end }}
     </div>
+  </div>
+</section>
 
-    <button class="loc-reviews__toggle" id="loc-reviews-toggle" aria-expanded="false">
-      Show more reviews
-      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
-    </button>
-
-    <div class="loc-reviews__cta">
-      <a href="tel:07859965776" class="btn loc-btn-gold">Free call, no obligation</a>
+<!-- =============================================
+     SECTION 9: AREAS WE COVER
+     ============================================= -->
+<section class="loc-areas">
+  <div class="container">
+    <p class="loc-eyebrow loc-eyebrow--center">AREAS WE COVER</p>
+    <h2 class="loc-areas__title">Trusted Tutors in Your Area</h2>
+    <p class="loc-areas__lead">{{ $areasIntro }}</p>
+    <div class="loc-areas__grid">
+      {{ range $areaLinks }}
+        {{ $parts := split . "|" }}
+        {{ $name := index $parts 0 }}
+        {{ $href := index $parts 1 }}
+        <a href="{{ $href }}" class="loc-area-card">{{ $name }}</a>
+      {{ end }}
     </div>
   </div>
 </section>

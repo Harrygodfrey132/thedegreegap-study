@@ -1,6 +1,6 @@
 ---
-title: "Free Past Papers & Expert Tutoring | The Degree Gap"
-description: "Free GCSE past papers and mark schemes from AQA, OCR, and Edexcel — plus one-to-one personal statement tutoring for UK university applications."
+title: "Expert Tutoring & Study Support | The Degree Gap"
+description: "One-to-one GCSE, A-Level, and university application tutoring support from The Degree Gap."
 sitemap:
   priority: 1.0
   changefreq: weekly

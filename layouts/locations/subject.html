@@ -1,26 +1,53 @@
 {{ define "main" }}
-{{ $loc := .Params.location | default "Your Area" }}
-{{ $schools := .Params.schools | default (slice "Whitgift School" "Trinity School" "Old Palace of John Whitgift School" "Croydon High School" "Archbishop Tenison's CE High School" "Wallington County Grammar School") }}
-{{ $areaLinks := .Params.area_links | default (slice "Croydon Tutors|/locations/croydon-tutors/" "Purley Tutors|/locations/purley-tutors/" "Addington Tutors|/locations/addington-tutors/" "Mitcham Tutors|/locations/mitcham-tutors/" "Bromley Tutors|/locations/bromley-tutors/" "Thornton Heath Tutors|/locations/thornton-heath-tutors/" "Tooting Tutors|/locations/tooting-tutors/" "Balham Tutors|/locations/balham-tutors/" "Streatham Tutors|/locations/streatham-tutors/") }}
-{{ $bannerHeading := .Params.banner_heading | default "Struggling to Achieve the Grades You Want?" }}
-{{ $bannerLead := .Params.banner_lead | default (printf "We'll connect you with an expert GCSE or A-Level tutor covering the %s area who can help your child build confidence, master their subjects, and achieve the results they're capable of." $loc) }}
-{{ $onlineHeading := .Params.online_heading | default (printf "How Online Tuition Can Support Students in the %s Area" $loc) }}
-{{ $online1 := .Params.online_1 | default "Whether your child is preparing for GCSEs or pushing for top A-Level grades, consistent one-to-one support makes a real difference." }}
-{{ $online2 := .Params.online_2 | default "Sessions are fully interactive, using shared whiteboards, real-time problem solving, and digital resources." }}
+
+{{/* ── Frontmatter variables ── */}}
+{{ $loc         := .Params.location        | default "Your Area" }}
+{{ $gradeFrom   := .Params.grade_from      | default "4" }}
+{{ $gradeTo     := .Params.grade_to        | default "7" }}
+{{ $gradeStat   := .Params.grade_stat      | default (printf "The average grade jump our %s GCSE students make in one term of one-to-one tuition." $loc) }}
+{{ $schools     := .Params.schools         | default (slice "School One" "School Two" "School Three" "School Four" "School Five" "School Six") }}
+{{ $areaLinks   := .Params.area_links      | default (slice "Nearby Tutors|/locations/nearby-tutors/") }}
+{{ $onlineHeading := .Params.online_heading | default (printf "Online GCSE Tutoring for %s Students" $loc) }}
+{{ $online1       := .Params.online_1       | default "Online tuition connects students with the right tutor — not just the nearest one." }}
+{{ $online2       := .Params.online_2       | default "Sessions run through an interactive platform with a shared whiteboard for real-time problem solving." }}
+{{ $editorialQuote  := .Params.editorial_quote       | default "The right tutor doesn't just reteach the content — they find the exact point where understanding broke down and rebuild from there." }}
+{{ $editorialAttrib := .Params.editorial_attribution | default "Parent of Year 11 GCSE student" }}
+{{ $editorialImage  := .Params.editorial_image       | default "/images/student-studying-at-night-with-laptop.jpg" }}
+{{ $heroName    := .Params.hero_review_name    | default "Ellen" }}
+{{ $heroRole    := .Params.hero_review_role    | default "Parent of GCSE Student" }}
+{{ $heroSubject := .Params.hero_review_subject | default "GCSE Maths" }}
+{{ $heroText    := .Params.hero_review_text    | default "My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After just one term she went from a predicted grade 4 to achieving a grade 7 in her mock. The tutor found exactly where she'd been losing marks and worked through it methodically. She walked into her final exam calm and prepared." }}
+
+{{ $defaultSubjects := slice
+  "Maths|The calculation marks most students quietly drop — found and fixed.|https://thedegreegap.com/teachers/languages/GCSE-Maths"
+  "English|Language and Literature support that builds a reliable, repeatable approach to analysis.|https://thedegreegap.com/teachers/languages/GCSE-English"
+  "Biology|Cell biology, genetics, and ecology explained clearly, with exam technique built in from the start.|https://thedegreegap.com/teachers/languages/GCSE-Biology"
+  "Chemistry|Structured support through organic chemistry, equations, and calculations — the topics where most marks are lost.|https://thedegreegap.com/teachers/languages/GCSE-Chemistry"
+  "Physics|Forces, energy, and electricity made logical for students who need a different explanation to make it click.|https://thedegreegap.com/teachers/languages/GCSE-Physics"
+  "History|Essay technique and source analysis for students who know the facts but can't access the top marks.|https://thedegreegap.com/teachers/languages/GCSE-History"
+  "Geography|Case studies, extended writing, and physical geography consolidated and exam-ready.|https://thedegreegap.com/teachers/languages/GCSE-Geography"
+  "French|Speaking, writing, and listening confidence built step by step to perform on exam day.|https://thedegreegap.com/teachers/languages/GCSE-French"
+  "Computer Science|Programming fundamentals and algorithmic thinking made approachable and examinable.|https://thedegreegap.com/teachers/languages/GCSE-Computer-Science"
+}}
+{{ $subjects := .Params.gcse_subjects | default $defaultSubjects }}
 
 <!-- =============================================
-     SECTION 1: HERO
+     SECTION 1: HERO — two-column, copy left / grade visual right
      ============================================= -->
-<section class="loc-hero">
+<section class="gs-hero">
   <div class="container">
-    <div class="loc-hero__inner">
-      <div class="loc-hero__copy">
-        <span class="loc-hero__badge">WINNER — GCSE SPECIALISTS OF THE YEAR 2025</span>
-        <h1>{{ $bannerHeading }}</h1>
-        <p class="loc-hero__lead">{{ $bannerLead }}</p>
+    <div class="gs-hero__inner">
+
+      <div class="gs-hero__copy">
+        <span class="loc-hero__badge">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+          GCSE Specialists of the Year 2025
+        </span>
+        <h1>GCSE Tutors in {{ $loc }}<br>Who Find the Gap</h1>
+        <p class="loc-hero__lead">Most students don't need to be taught the same content again. They need someone to find the exact point where things stopped making sense — and explain it differently until it does. That's what our {{ $loc }} GCSE tutors do.</p>
         <div class="loc-hero__actions">
           <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary btn-lg">Find Your Tutor</a>
-          <a href="#get-help" class="btn btn-outline btn-lg">Contact Us</a>
+          <a href="#get-help" class="btn btn-outline btn-lg">Free Consultation</a>
         </div>
         <div class="loc-hero__rating">
           <div class="loc-hero__google">
@@ -36,10 +63,67 @@
           <span class="loc-hero__count">100 Google reviews</span>
         </div>
       </div>
-      <div class="loc-hero__image" aria-hidden="true">
-        <div class="loc-img-circle"></div>
-        <div class="loc-img-placeholder loc-img-placeholder--hero">
-          <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" opacity="0.25"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.6-7 8-7s8 3 8 7"/></svg>
+
+      <div class="gs-hero__visual" aria-hidden="true">
+        <div class="gs-grade-card">
+          <div class="gs-grade-card__label">Predicted grade</div>
+          <div class="gs-grade-card__num gs-grade-card__num--before">{{ $gradeFrom }}</div>
+          <div class="gs-grade-card__arrow">
+            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M12 4v16m0 0l-4-4m4 4l4-4" stroke="#F4B400" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </div>
+          <div class="gs-grade-card__num gs-grade-card__num--after">{{ $gradeTo }}</div>
+          <div class="gs-grade-card__label gs-grade-card__label--after">Achieved grade</div>
+          <p class="gs-grade-card__stat">{{ $gradeStat }}</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- =============================================
+     SECTION 2: GCSE TIMELINE — full-width three-step section
+     ============================================= -->
+<section class="gs-timeline">
+  <div class="container">
+    <div class="gs-timeline__header">
+      <div>
+        <p class="loc-eyebrow">WHEN TO START</p>
+        <h2>At Every Stage of GCSE</h2>
+        <p class="gs-timeline__intro">Students come to us at different points in their GCSE journey. Here's what each stage looks like — and what one-to-one tutoring focuses on.</p>
+      </div>
+    </div>
+    <div class="gs-timeline__track">
+      <div class="gs-timeline__rail" aria-hidden="true"></div>
+      <div class="gs-timeline__items">
+        <div class="gs-timeline__item">
+          <div class="gs-timeline__bubble">Year 9</div>
+          <div class="gs-timeline__stem" aria-hidden="true"></div>
+          <div class="gs-timeline__card">
+            <h3>Choosing Options</h3>
+            <p>Year 9 is earlier than most families expect — but students starting now build a real head start. Tutoring at this stage focuses on securing foundations in Maths and English before GCSE content begins, and on subject choices that match where a student's strengths actually are.</p>
+            <span class="gs-timeline__focus">Foundation-building &amp; subject confidence</span>
+          </div>
+        </div>
+        <div class="gs-timeline__item">
+          <div class="gs-timeline__bubble">Year 10</div>
+          <div class="gs-timeline__stem" aria-hidden="true"></div>
+          <div class="gs-timeline__card">
+            <h3>The Quiet Slide</h3>
+            <p>Year 10 is when content volume increases and gaps from earlier years start to show. This is the most common entry point for students we work with. Tutoring focuses on identifying exactly where understanding broke down — and fixing it properly, not covering it over.</p>
+            <span class="gs-timeline__focus">Gap diagnosis &amp; content catch-up</span>
+          </div>
+        </div>
+        <div class="gs-timeline__item">
+          <div class="gs-timeline__bubble">Year 11</div>
+          <div class="gs-timeline__stem" aria-hidden="true"></div>
+          <div class="gs-timeline__card">
+            <h3>Exam Preparation</h3>
+            <p>With mocks and finals in sight, Year 11 tutoring becomes highly targeted. Tutors work through past papers, sharpen exam technique, and build the calm confidence that turns preparation into performance on the day. It's not about learning more — it's about using what's there.</p>
+            <span class="gs-timeline__focus">Exam technique &amp; performance under pressure</span>
+          </div>
         </div>
       </div>
     </div>
@@ -47,257 +131,65 @@
 </section>
 
 <!-- =============================================
-     SECTION 2: TRUST / PAIN POINTS
+     SECTION 3: SUBJECT CARDS — grid with intro copy
      ============================================= -->
-<section class="al-trust">
+<section class="gs-subjects">
   <div class="container">
-    <p class="loc-eyebrow">TRUSTED BY SCHOOLS &amp; PARENTS</p>
-    <h2 class="al-trust__h2">Leading GCSE &amp; A-Level Tutors<br>Covering the {{ $loc }} Area</h2>
-    <div class="al-trust__body">
-      <div class="al-trust__body-right">
-        <p>We founded The Degree Gap because we saw how overwhelming education can be for families. Students in {{ $loc }} are under real pressure — managing coursework, preparing for exams, and navigating university applications, often without the support they need to reach their potential.</p>
-        <p>Many students struggle not because they lack ability, but because they haven't found the right support at the right time. That's why we connect families in the {{ $loc }} area with experienced, independent tutors across a wide range of GCSE and A-Level subjects. Our role is to find the right introduction — the tutor handles the teaching, and we're here to make sure the relationship works.</p>
+    <div class="gs-subjects__header">
+      <div class="gs-subjects__intro">
+        <p class="loc-eyebrow">GCSE SUBJECTS</p>
+        <h2>Every Subject,<br>One-to-One</h2>
+        <p>Each session is built around the student's specific exam board, current gaps, and the marks most within reach. No generic tutoring — just targeted work on what will actually move the grade.</p>
+        <a href="#get-help" class="btn btn-primary">Find a Tutor</a>
       </div>
-    </div>
-
-    <div class="al-pain-cards">
-      <div class="al-pain-card">
-        <div class="al-pain-card__icon" aria-hidden="true">
-          <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l3 3"/><path d="M8 14s1 2 4 2 4-2 4-2"/></svg>
-        </div>
-        <strong>Struggling to keep up with the curriculum</strong>
-      </div>
-      <div class="al-pain-card">
-        <div class="al-pain-card__icon" aria-hidden="true">
-          <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="10"/><path d="M8 15s1-2 4-2 4 2 4 2"/><line x1="9" y1="9" x2="9.01" y2="9"/><line x1="15" y1="9" x2="15.01" y2="9"/></svg>
-        </div>
-        <strong>Falling behind in class</strong>
-      </div>
-      <div class="al-pain-card">
-        <div class="al-pain-card__icon" aria-hidden="true">
-          <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/><polyline points="3.27 6.96 12 12.01 20.73 6.96"/><line x1="12" y1="22.08" x2="12" y2="12"/></svg>
-        </div>
-        <strong>Low confidence before exams</strong>
-      </div>
-      <div class="al-pain-card">
-        <div class="al-pain-card__icon" aria-hidden="true">
-          <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/><line x1="12" y1="17" x2="16" y2="17"/></svg>
-        </div>
-        <strong>Not seeing results despite revision</strong>
-      </div>
-    </div>
-  </div>
-
-  <div class="al-trust__band">
-    <div class="container al-trust__band-inner">
-      <div class="al-trust__band-copy">
-        <div class="al-trust__band-icon" aria-hidden="true">
-          <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
-        </div>
-        <div>
-          <strong>You're not alone and we are here to help</strong>
-          <span>GCSE &nbsp;•&nbsp; A-Level &nbsp;•&nbsp; All Major Exam Boards</span>
-        </div>
-      </div>
-      <a href="tel:+447859965776" class="al-trust__band-phone">
-        <div class="al-trust__band-phone-icon" aria-hidden="true">
-          <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1-9.4 0-17-7.6-17-17 0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1L6.6 10.8z"/></svg>
-        </div>
-        <div>
-          <span class="al-trust__band-phone-label">Call us today</span>
-          <strong class="al-trust__band-phone-number">07859965776</strong>
-        </div>
-      </a>
-    </div>
-  </div>
-</section>
-
-<!-- =============================================
-     SECTION 3: FIND A TUTOR (CAROUSEL)
-     ============================================= -->
-<section class="al-tutors">
-  <div class="container">
-    <h2 class="al-tutors__title">Find a GCSE or A-Level Tutor Covering the {{ $loc }} Area</h2>
-    <p class="al-tutors__lead">Every tutor in our network has been carefully vetted to ensure families receive the highest standard of support. The tutors we work with are experienced independent professionals — many with degrees from top universities and backgrounds in teaching or examining. They cover a wide range of subjects across GCSE and A-Level, and understand the specific demands of AQA, Edexcel, OCR, and other major exam boards. Whether your child needs support with Maths, English, the Sciences, Humanities, or any other subject, we'll introduce you to a tutor who specialises in exactly what they need. You can then decide together if it's the right fit.</p>
-
-    <div class="al-carousel" aria-label="Our tutors">
-      <div class="al-carousel__track" id="al-carousel-track">
-        <div class="al-carousel__slide">
-          <div class="al-tutor-card">
-            <img src="https://thedegreegap.com/image/show/4/214/LARGE" alt="Avery Goldie — GCSE & A-Level tutor" loading="lazy">
+      <div class="gs-subject-grid">
+        {{ range $subjects }}
+          {{ $parts   := split . "|" }}
+          {{ $name    := index $parts 0 }}
+          {{ $desc    := "" }}{{ if gt (len $parts) 1 }}{{ $desc = index $parts 1 }}{{ end }}
+          {{ $url     := "" }}{{ if gt (len $parts) 2 }}{{ $url  = index $parts 2 }}{{ end }}
+          <div class="gs-subject-card">
+            <div class="gs-subject-card__inner">
+              <strong class="gs-subject-card__name">{{ $name }}</strong>
+              {{ if $desc }}<p class="gs-subject-card__desc">{{ $desc }}</p>{{ end }}
+            </div>
+            <a href="{{ if $url }}{{ $url }}{{ else }}#get-help{{ end }}" class="gs-subject-card__cta">Find a tutor <span aria-hidden="true">→</span></a>
           </div>
-        </div>
-        <div class="al-carousel__slide">
-          <div class="al-tutor-card">
-            <img src="https://thedegreegap.com/image/show/4/308/LARGE" alt="Malvina Ferzaj — GCSE & A-Level tutor" loading="lazy">
-          </div>
-        </div>
-        <div class="al-carousel__slide">
-          <div class="al-tutor-card">
-            <img src="https://thedegreegap.com/image/show/4/575/LARGE" alt="Harvey Murray — GCSE & A-Level tutor" loading="lazy">
-          </div>
-        </div>
-        <div class="al-carousel__slide">
-          <div class="al-tutor-card">
-            <img src="https://thedegreegap.com/image/show/4/596/LARGE" alt="Emir Akcay — GCSE & A-Level tutor" loading="lazy">
-          </div>
-        </div>
-        <div class="al-carousel__slide">
-          <div class="al-tutor-card">
-            <img src="https://thedegreegap.com/image/show/4/980/LARGE" alt="Rebecca Hanna — GCSE & A-Level tutor" loading="lazy">
-          </div>
-        </div>
-      </div>
-      <div class="al-carousel__dots" id="al-carousel-dots" aria-label="Carousel navigation">
-        <button class="al-carousel__dot al-carousel__dot--active" data-slide="0" aria-label="Slide 1"></button>
-        <button class="al-carousel__dot" data-slide="1" aria-label="Slide 2"></button>
-        <button class="al-carousel__dot" data-slide="2" aria-label="Slide 3"></button>
-        <button class="al-carousel__dot" data-slide="3" aria-label="Slide 4"></button>
-        <button class="al-carousel__dot" data-slide="4" aria-label="Slide 5"></button>
+        {{ end }}
       </div>
     </div>
   </div>
 </section>
 
 <!-- =============================================
-     SECTION 4: ACADEMIC SUBJECTS
+     SECTION 4: EXAM BOARDS — copy left, board cards right
      ============================================= -->
-<section class="al-subjects">
+<section class="gs-examboards">
   <div class="container">
-    <p class="loc-eyebrow loc-eyebrow--center">ACADEMIC SUBJECTS WE COVER</p>
-    <h2 class="al-subjects__title">Complete GCSE &amp; A-Level Support</h2>
-
-    <ol class="al-subject-list">
-      <li class="al-subject-item">
-        <span class="al-subject-num">01.</span>
-        <div class="al-subject-body">
-          <strong class="al-subject-name">A-Level Maths Tutoring</strong>
-          <p>Work through pure maths, mechanics, and statistics with a tutor who knows exactly where marks are won and lost at A-Level, across AQA, Edexcel, and OCR.</p>
-        </div>
-        <a href="#get-help" class="btn btn-primary al-subject-btn">Book a Consultation</a>
-      </li>
-      <li class="al-subject-item">
-        <span class="al-subject-num">02.</span>
-        <div class="al-subject-body">
-          <strong class="al-subject-name">A-Level Biology Tutoring</strong>
-          <p>Develop a deeper understanding of cells, genetics, ecology, and physiology with focused A-Level Biology support tailored to your exam board.</p>
-        </div>
-        <a href="#get-help" class="btn btn-primary al-subject-btn">Book a Consultation</a>
-      </li>
-      <li class="al-subject-item">
-        <span class="al-subject-num">03.</span>
-        <div class="al-subject-body">
-          <strong class="al-subject-name">A-Level Chemistry Tutoring</strong>
-          <p>Master organic, inorganic, and physical chemistry with expert one-to-one support that makes complex concepts clear and memorable.</p>
-        </div>
-        <a href="#get-help" class="btn btn-primary al-subject-btn">Book a Consultation</a>
-      </li>
-      <li class="al-subject-item">
-        <span class="al-subject-num">04.</span>
-        <div class="al-subject-body">
-          <strong class="al-subject-name">A-Level Economics Tutoring</strong>
-          <p>Sharpen your micro and macroeconomics analysis and learn how to structure high-scoring evaluation answers with an expert tutor.</p>
-        </div>
-        <a href="#get-help" class="btn btn-primary al-subject-btn">Book a Consultation</a>
-      </li>
-      <li class="al-subject-item">
-        <span class="al-subject-num">05.</span>
-        <div class="al-subject-body">
-          <strong class="al-subject-name">A-Level History Tutoring</strong>
-          <p>Build strong essay-writing skills and source analysis techniques to hit the top mark bands and write with confidence under timed conditions.</p>
-        </div>
-        <a href="#get-help" class="btn btn-primary al-subject-btn">Book a Consultation</a>
-      </li>
-      <li class="al-subject-item">
-        <span class="al-subject-num">06.</span>
-        <div class="al-subject-body">
-          <strong class="al-subject-name">A-Level Psychology Tutoring</strong>
-          <p>Understand research methods, psychological theories, and evaluation strategies across all A-Level Psychology topics with structured one-to-one sessions.</p>
-        </div>
-        <a href="#get-help" class="btn btn-primary al-subject-btn">Book a Consultation</a>
-      </li>
-      <li class="al-subject-item">
-        <span class="al-subject-num">07.</span>
-        <div class="al-subject-body">
-          <strong class="al-subject-name">A-Level English Literature Tutoring</strong>
-          <p>Develop sophisticated analytical writing, close-reading skills, and essay structure to produce top-grade responses across all studied texts.</p>
-        </div>
-        <a href="#get-help" class="btn btn-primary al-subject-btn">Book a Consultation</a>
-      </li>
-      <li class="al-subject-item">
-        <span class="al-subject-num">08.</span>
-        <div class="al-subject-body">
-          <strong class="al-subject-name">A-Level Physics Tutoring</strong>
-          <p>Tackle mechanics, electricity, waves, and quantum physics with a tutor who can clarify the theory and help you apply it confidently in the exam.</p>
-        </div>
-        <a href="#get-help" class="btn btn-primary al-subject-btn">Book a Consultation</a>
-      </li>
-    </ol>
-  </div>
-</section>
-
-<!-- =============================================
-     SECTION 5: HOW IT WORKS
-     ============================================= -->
-<section class="al-process">
-  <div class="container">
-    <p class="loc-eyebrow loc-eyebrow--center">HOW IT WORKS</p>
-    <h2 class="al-process__title">A Simple, Supportive Process</h2>
-
-    <div class="al-process__timeline">
-      <!-- SVG track — aria-hidden, descriptive text in .al-process__steps provides the content -->
-      <div class="al-process__track-wrap" aria-hidden="true">
-        <svg class="al-process__svg" viewBox="0 0 1000 110" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
-          <!-- START label -->
-          <text x="60" y="18" text-anchor="middle" fill="#8B1A1A" font-size="11" font-weight="800" letter-spacing="2" font-family="Arial,sans-serif">START</text>
-          <!-- FINISH label -->
-          <text x="944" y="18" text-anchor="middle" fill="#8B1A1A" font-size="11" font-weight="800" letter-spacing="2" font-family="Arial,sans-serif">FINISH</text>
-
-          <!-- Filled start dot -->
-          <circle cx="60" cy="60" r="9" fill="#8B1A1A"/>
-
-          <!-- Smooth arch: start → circle 01 (centre 258) -->
-          <path d="M 69,60 Q 163,22 228,60" stroke="#8B1A1A" stroke-width="2" fill="none"/>
-
-          <!-- Dashed: circle 01 right edge (288) → circle 02 left edge (462) -->
-          <path d="M 288,60 L 462,60" stroke="#8B1A1A" stroke-width="1.5" fill="none" stroke-dasharray="8,5"/>
-
-          <!-- Dashed: circle 02 right edge (538) → circle 03 left edge (712) -->
-          <path d="M 538,60 L 712,60" stroke="#8B1A1A" stroke-width="1.5" fill="none" stroke-dasharray="8,5"/>
-
-          <!-- Smooth arch: circle 03 right edge (772) → flag pole (944) -->
-          <path d="M 772,60 Q 858,22 934,60" stroke="#8B1A1A" stroke-width="2" fill="none"/>
-
-          <!-- Finish flag: pole + filled rectangle -->
-          <line x1="944" y1="60" x2="944" y2="98" stroke="#8B1A1A" stroke-width="2.5"/>
-          <rect x="944" y="38" width="32" height="22" fill="#8B1A1A"/>
-
-          <!-- Circle 01 — cx=258 -->
-          <circle cx="258" cy="60" r="30" stroke="#8B1A1A" stroke-width="1.5" fill="white"/>
-          <text x="258" y="65" text-anchor="middle" fill="#8B1A1A" font-size="15" font-weight="700" font-family="Arial,sans-serif">01</text>
-
-          <!-- Circle 02 — cx=500 -->
-          <circle cx="500" cy="60" r="30" stroke="#8B1A1A" stroke-width="1.5" fill="white"/>
-          <text x="500" y="65" text-anchor="middle" fill="#8B1A1A" font-size="15" font-weight="700" font-family="Arial,sans-serif">02</text>
-
-          <!-- Circle 03 — cx=742 -->
-          <circle cx="742" cy="60" r="30" stroke="#8B1A1A" stroke-width="1.5" fill="white"/>
-          <text x="742" y="65" text-anchor="middle" fill="#8B1A1A" font-size="15" font-weight="700" font-family="Arial,sans-serif">03</text>
-        </svg>
+    <div class="gs-examboards__inner">
+      <div class="gs-examboards__copy">
+        <p class="loc-eyebrow">EXAM BOARD EXPERTISE</p>
+        <h2>Matched to Your Exact Specification</h2>
+        <p>The same subject can look entirely different across exam boards. A tutor matched to your child's specific board knows the mark scheme, the question styles, and the traps. That specificity is the difference between preparing and preparing well.</p>
+        <p>When you get in touch, we'll ask about your child's school and exam board before making any introduction. The tutor we recommend will know their specific specification.</p>
+        <a href="#get-help" class="btn btn-outline">Get Matched</a>
       </div>
-
-      <div class="al-process__steps">
-        <div class="al-process__step">
-          <h3>Book a Free Consultation</h3>
-          <p>Speak with us so we can understand your child's needs, current level, and goals. We'll discuss which subjects need the most attention and whether they need GCSE or A-Level support. No commitment required.</p>
+      <div class="gs-examboards__grid">
+        <div class="gs-board-card">
+          <span class="gs-board-card__name">AQA</span>
+          <p>The most widely used GCSE board in England. AQA exams reward structured written responses and precise use of terminology. Tutors matched to AQA target the exact content and mark scheme for every unit.</p>
         </div>
-        <div class="al-process__step">
-          <h3>Get Introduced to the Right Tutor</h3>
-          <p>Based on what we learn, we'll recommend an experienced, independent tutor from our network — someone selected for their subject expertise, teaching style, and availability. You'll have the chance to meet them and decide if they're the right fit for your child before any sessions begin.</p>
+        <div class="gs-board-card">
+          <span class="gs-board-card__name">Edexcel</span>
+          <p>Known for numerical precision in Maths and Sciences, and for longer analytical essay questions in Humanities. Edexcel tutors understand how assessment objectives map to the mark scheme.</p>
         </div>
-        <div class="al-process__step">
-          <h3>Start Improving Grades</h3>
-          <p>Once you're happy with the tutor, they'll begin personalised lessons focused on building confidence, mastering challenging topics, and improving exam performance. Your tutor will provide regular feedback so you can see real progress week on week. We stay in touch to make sure the arrangement continues to work well for everyone.</p>
+        <div class="gs-board-card">
+          <span class="gs-board-card__name">OCR</span>
+          <p>OCR specifications often include a higher proportion of application-based questions. Students who understand the context behind the content consistently outperform those who rely on memorisation.</p>
+        </div>
+        <div class="gs-board-card">
+          <span class="gs-board-card__name">WJEC</span>
+          <p>Common in Wales and used in a number of English schools. WJEC tutors understand where the specification diverges from other boards and prepare students for the exact questions they'll face.</p>
         </div>
       </div>
     </div>
@@ -305,37 +197,89 @@
 </section>
 
 <!-- =============================================
-     SECTION 6: LEADING SCHOOLS
+     SECTION 5: EDITORIAL QUOTE — full-width contrast
      ============================================= -->
-<section class="al-schools">
+<section class="gs-editorial" style="background-image: url('{{ $editorialImage }}');">
+  <div class="gs-editorial__overlay" aria-hidden="true"></div>
+  <div class="gs-editorial__inner container">
+    <blockquote class="gs-editorial__quote">
+      <p>&#8220;{{ $editorialQuote }}&#8221;</p>
+      <footer class="gs-editorial__attrib">&#8212; {{ $editorialAttrib }}</footer>
+    </blockquote>
+  </div>
+</section>
+
+<!-- =============================================
+     SECTION 6: BIG TESTIMONIAL — quote left / grade right
+     ============================================= -->
+<section class="gs-bigreview">
   <div class="container">
-    <div class="al-schools__inner">
-      <div class="al-schools__media">
-        <div class="al-schools__video-thumb">
-          <div class="loc-img-placeholder loc-img-placeholder--school" style="height:100%;min-height:320px;border-radius:16px;">
-            <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" opacity="0.25"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9,22 9,12 15,12 15,22"/></svg>
+    <div class="gs-bigreview__inner">
+      <div class="gs-bigreview__quote-col">
+        <p class="loc-eyebrow">WHAT PARENTS SAY</p>
+        <blockquote class="gs-bigreview__quote">
+          <p>&#8220;{{ $heroText }}&#8221;</p>
+          <footer class="gs-bigreview__footer">
+            <strong>{{ $heroName }}</strong>
+            <span>{{ $heroRole }} &middot; {{ $heroSubject }}</span>
+          </footer>
+        </blockquote>
+        <div class="gs-bigreview__stars" aria-label="Five stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+      </div>
+      <div class="gs-bigreview__grade-col" aria-hidden="true">
+        <div class="gs-bigreview__grade-display">
+          <div class="gs-bigreview__grade-block">
+            <span class="gs-bigreview__grade-label">Predicted</span>
+            <span class="gs-bigreview__grade-num gs-bigreview__grade-num--before">{{ $gradeFrom }}</span>
           </div>
-          <a href="{{ .Site.Params.mainSiteURL }}/gcse-and-a-level-tutoring-reviews" class="al-schools__play-btn" aria-label="Watch our story">
-            <svg width="28" height="28" viewBox="0 0 24 24" fill="#f4c430"><polygon points="5,3 19,12 5,21"/></svg>
-          </a>
+          <div class="gs-bigreview__grade-sep">→</div>
+          <div class="gs-bigreview__grade-block">
+            <span class="gs-bigreview__grade-label">Achieved</span>
+            <span class="gs-bigreview__grade-num gs-bigreview__grade-num--after">{{ $gradeTo }}</span>
+          </div>
         </div>
       </div>
-      <div class="al-schools__copy">
-        <h2>Tutors Who Can Help Students From Leading Schools</h2>
-        <p>The tutors in our network can help students from a wide range of schools across the {{ $loc }} area, including some of the most academically demanding institutions in the country. Whether your child attends a highly selective independent school or a local state school, we'll introduce you to a tutor who understands the standard expected of them and can help them get there.</p>
-        <ul class="al-schools__list">
+    </div>
+  </div>
+</section>
+
+<!-- =============================================
+     SECTION 7: SCHOOLS — list left / stats right
+     ============================================= -->
+<section class="gs-schools">
+  <div class="container">
+    <div class="gs-schools__inner">
+      <div class="gs-schools__copy">
+        <p class="loc-eyebrow">SCHOOLS WE SUPPORT</p>
+        <h2>Tutors Who Know the Standard Your School Expects</h2>
+        <p>The tutors in our network work with students from a wide range of schools across the {{ $loc }} area. Whether your child is at a selective school, an academy, or a local comprehensive, we'll introduce you to a tutor who understands the level expected of them and can help them get there.</p>
+        <ul class="gs-schools__list">
           {{ range $schools }}
           <li>{{ . }}</li>
           {{ end }}
         </ul>
         <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary" style="margin-top:1.5rem;">Find Your Tutor</a>
       </div>
+      <div class="gs-schools__stats">
+        <div class="gs-schools__stat">
+          <span class="gs-schools__stat-num">100+</span>
+          <span class="gs-schools__stat-label">5-star Google reviews</span>
+        </div>
+        <div class="gs-schools__stat">
+          <span class="gs-schools__stat-num">2025</span>
+          <span class="gs-schools__stat-label">GCSE Specialists of the Year</span>
+        </div>
+        <div class="gs-schools__stat">
+          <span class="gs-schools__stat-num">All</span>
+          <span class="gs-schools__stat-label">major exam boards covered</span>
+        </div>
+      </div>
     </div>
   </div>
 </section>
 
 <!-- =============================================
-     SECTION 7: ONLINE TUITION
+     SECTION 8: ONLINE TUITION
      ============================================= -->
 <section class="loc-online">
   <div class="container">
@@ -344,7 +288,7 @@
         <h2>{{ $onlineHeading }}</h2>
         <p>{{ $online1 }}</p>
         <p>{{ $online2 }}</p>
-        <a href="#get-help" class="btn btn-primary">Learn More</a>
+        <a href="#get-help" class="btn btn-primary">Book a Free Call</a>
       </div>
       <div class="loc-online__image">
         <div class="loc-img-placeholder loc-img-placeholder--online">
@@ -356,18 +300,18 @@
 </section>
 
 <!-- =============================================
-     SECTION 8: AREAS WE COVER
+     SECTION 9: AREAS WE COVER
      ============================================= -->
 <section class="loc-areas">
   <div class="container">
     <p class="loc-eyebrow loc-eyebrow--center">AREAS WE COVER</p>
-    <h2 class="loc-areas__title">Trusted Tutors in Your Area</h2>
-    <p class="loc-areas__lead">Our network of tutors covers {{ $loc }} and the surrounding areas, offering personalised GCSE and A-Level tuition tailored to each student's needs, goals, and level of study. We focus on finding the right tutor for every student — someone who can provide clear guidance, consistent support, and help your child make steady academic progress with confidence.</p>
+    <h2 class="loc-areas__title">GCSE Tutors Across the Region</h2>
+    <p class="loc-areas__lead">Distance doesn't decide who's the right tutor. We support GCSE students across {{ $loc }} and the surrounding areas with personalised one-to-one tuition tailored to their subjects, exam board, and goals.</p>
     <div class="loc-areas__grid">
       {{ range $areaLinks }}
         {{ $parts := split . "|" }}
-        {{ $name := index $parts 0 }}
-        {{ $href := index $parts 1 }}
+        {{ $name  := index $parts 0 }}
+        {{ $href  := index $parts 1 }}
         <a href="{{ $href }}" class="loc-area-card">{{ $name }}</a>
       {{ end }}
     </div>
@@ -375,20 +319,21 @@
 </section>
 
 <!-- =============================================
-     SECTION 9: CONTACT + FAQ
+     SECTION 10: CONTACT + FAQ
      ============================================= -->
 <section class="loc-contact-faq" id="get-help">
   <div class="loc-contact-faq__inner">
+
     <div class="loc-contact-faq__form-wrap">
       <div class="loc-contact-faq__form-bg" aria-hidden="true"></div>
       <div class="loc-contact-faq__form-card">
-        <h2>Get In Touch With Us</h2>
-        <p>Looking for a GCSE or A-Level tutor covering the {{ $loc }} area? Get in touch today and we'll help you find the right tutor for your child. Our team is here to answer your questions, understand your child's needs, and introduce you to an experienced tutor who can make a real difference.</p>
+        <h2>Find a GCSE Tutor in {{ $loc }}</h2>
+        <p>Get in touch and we'll connect you with the right GCSE tutor for your child. We'll ask a few questions about their subjects, year group, and exam board — and introduce you to a tutor who fits.</p>
         <form action="{{ .Site.Params.formspreeEndpoint }}" method="POST" novalidate>
-          <input type="hidden" name="_subject" value="New A-Level enquiry from {{ $loc }} | The Degree Gap Study">
+          <input type="hidden" name="_subject" value="New GCSE enquiry from {{ $loc }} | The Degree Gap Study">
           <input type="hidden" name="page_url" value="{{ .RelPermalink }}">
           <input type="hidden" name="location" value="{{ $loc }}">
-          <input type="hidden" name="level" value="A-Level">
+          <input type="hidden" name="level" value="GCSE">
           <div class="loc-form-group">
             <input type="text" name="name" placeholder="Full Name*" required>
           </div>
@@ -399,127 +344,55 @@
             <input type="tel" name="phone" placeholder="Phone Number*" autocomplete="tel" required>
           </div>
           <div class="loc-form-group">
-            <textarea name="message" placeholder="Write your message" rows="4"></textarea>
+            <textarea name="message" placeholder="Tell us about your child's needs" rows="4"></textarea>
           </div>
-          <button type="submit" class="btn btn-primary" style="width:100%;text-align:center;padding:16px;">SUBMIT</button>
+          <button type="submit" class="btn btn-primary" style="width:100%;text-align:center;padding:16px;">GET IN TOUCH</button>
         </form>
       </div>
     </div>
 
     <div class="loc-faq">
-      <h2>Frequently Asked Questions (FAQs)</h2>
+      <h2>Frequently Asked Questions</h2>
       <div class="loc-accordion loc-accordion--faq">
         <details class="loc-accordion__item">
           <summary class="loc-accordion__trigger">
-            <span>{{ .Params.faq_1_q | default "What is The Degree Gap?" }}</span>
+            <span>{{ .Params.faq_1_q | default "What GCSE subjects can my child get tutoring in?" }}</span>
             <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
           </summary>
           <div class="loc-accordion__body">
-            <p>{{ .Params.faq_1_a | default "The Degree Gap connects families with experienced, independent GCSE and A-Level tutors who are hand-picked for their subject knowledge, teaching ability, and professionalism." }}</p>
+            <p>{{ .Params.faq_1_a | default "Tutors in our network cover all major GCSE subjects including Maths, English, Biology, Chemistry, Physics, History, Geography, French, Spanish, Computer Science, and Economics. Get in touch and we'll find the right match for your child's specific subjects and exam board." }}</p>
           </div>
         </details>
         <details class="loc-accordion__item">
           <summary class="loc-accordion__trigger">
-            <span>{{ .Params.faq_2_q | default "What subjects do the tutors in your network cover?" }}</span>
+            <span>{{ .Params.faq_2_q | default "When is the right time to start GCSE tutoring?" }}</span>
             <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
           </summary>
           <div class="loc-accordion__body">
-            <p>{{ .Params.faq_2_a | default "Our tutors cover all major GCSE and A-Level subjects including Maths, English, Biology, Chemistry, Physics, Economics, History, Geography, Psychology, Spanish, French, and more." }}</p>
+            <p>{{ .Params.faq_2_a | default "There is no wrong time to start. Students in Year 9 benefit from building foundations before the full GCSE curriculum begins. Year 10 is the most common starting point — enough time to address gaps properly. Year 11 tutoring focuses on exam technique and performance under pressure." }}</p>
           </div>
         </details>
         <details class="loc-accordion__item">
           <summary class="loc-accordion__trigger">
-            <span>{{ .Params.faq_3_q | default "What exam boards do the tutors cover?" }}</span>
+            <span>{{ .Params.faq_3_q | default "Do your tutors cover the exam boards used in local schools?" }}</span>
             <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
           </summary>
           <div class="loc-accordion__body">
-            <p>{{ .Params.faq_3_a | default "The tutors in our network are experienced across all the major UK exam boards, including AQA, Edexcel, OCR, WJEC, and Cambridge International." }}</p>
+            <p>{{ .Params.faq_3_a | default "Yes. Tutors are experienced across AQA, Edexcel, OCR, and WJEC. When we make an introduction, we check that the tutor knows your child's specific exam board and specification — a tutor who knows the exact mark scheme can target the right content from the very first session." }}</p>
           </div>
         </details>
         <details class="loc-accordion__item">
           <summary class="loc-accordion__trigger">
-            <span>{{ .Params.faq_4_q | default "Who are the tutors in your network?" }}</span>
+            <span>{{ .Params.faq_4_q | default "How quickly will my child see results from GCSE tutoring?" }}</span>
             <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
           </summary>
           <div class="loc-accordion__body">
-            <p>{{ .Params.faq_4_a | default "All our tutors are independent professionals selected based on subject expertise, teaching experience, and communication skills." }}</p>
+            <p>{{ .Params.faq_4_a | default "Most students notice improved confidence within the first three or four sessions — well before any formal results come back. Grade improvements tend to follow within a half-term for students with a specific gap to address. For students rebuilding foundations, progress is steady and consistent." }}</p>
           </div>
         </details>
       </div>
     </div>
-  </div>
-</section>
 
-<!-- =============================================
-     SECTION 10: REVIEWS
-     ============================================= -->
-<section class="loc-reviews">
-  <div class="container">
-    <p class="loc-eyebrow loc-eyebrow--center">OUR GLOWING REVIEWS</p>
-    <h2 class="loc-reviews__title">+100 5-Star Reviews From Parents And Students</h2>
-
-    <div class="loc-reviews__grid">
-      <div class="loc-review-card">
-        <span class="loc-review-card__quote" aria-hidden="true">"</span>
-        <div class="loc-review-card__header">
-          <strong>Ellen</strong>
-          <span>Parent of IGCSE Student</span>
-        </div>
-        <p>My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughter's needs and gave a selection of tutors from. He made it clear that if it didn't feel like a good match we could try other tutors. We opted for Avery and she was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back in her abilities and gave her the confidence to face Maths GCSE exams. Highly recommend Degree Gap and will be back again in September with my youngest embarking on her GCSEs.</p>
-      </div>
-      <div class="loc-review-card">
-        <span class="loc-review-card__quote" aria-hidden="true">"</span>
-        <div class="loc-review-card__header">
-          <strong>Anonymous</strong>
-          <span>Parent of GCSE Student</span>
-        </div>
-        <p>Very good tutoring for my daughter and good communication with parents. UPDATE: My daughter passed both English and Maths GCSE (4 and 5's). We are extremely grateful to your team especially Avery for the support she gave her in both subjects. Considering she missed a large chunk of the last 3 years at school due to a social anxiety illness, this is an amazing achievement for her.</p>
-      </div>
-      <div class="loc-review-card">
-        <span class="loc-review-card__quote" aria-hidden="true">"</span>
-        <div class="loc-review-card__header">
-          <strong>Serena</strong>
-          <span>GCSE Student</span>
-        </div>
-        <p>The tutor is a very intuitive and superb teacher. She listened acutely to my specific concerns and bolstered my confidence in answering the questions. She taught me how to think critically and helped me through this highly demanding and complex course. I will happily recommend her without a second thought!</p>
-      </div>
-    </div>
-
-    <div class="loc-reviews__more" id="loc-reviews-more" hidden>
-      <div class="loc-review-card">
-        <span class="loc-review-card__quote" aria-hidden="true">"</span>
-        <div class="loc-review-card__header">
-          <strong>Nicolai N.</strong>
-          <span>A-Level Student</span>
-        </div>
-        <p>Before joining The Degree Gap, I found it hard to follow the curriculum. The sessions helped everything click. Lessons were calm, focused, and easy to understand. My grade improved significantly within the first half-term. Highly recommend.</p>
-      </div>
-      <div class="loc-review-card">
-        <span class="loc-review-card__quote" aria-hidden="true">"</span>
-        <div class="loc-review-card__header">
-          <strong>Theresa M.</strong>
-          <span>Parent of GCSE Student</span>
-        </div>
-        <p>Harry and Joe were fantastic. Their knowledge and guidance helped my son find direction in both his studies and future plans. We saw a noticeable improvement in his attitude and results after just a few sessions.</p>
-      </div>
-      <div class="loc-review-card">
-        <span class="loc-review-card__quote" aria-hidden="true">"</span>
-        <div class="loc-review-card__header">
-          <strong>Isabel H.</strong>
-          <span>Parent of iGCSE Student</span>
-        </div>
-        <p>The Degree Gap gave our son the support he needed for his iGCSEs, especially in Maths and Economics. Lessons were clear, engaging, and built his confidence week by week. Highly recommended to any parent looking for reliable, quality tuition.</p>
-      </div>
-    </div>
-
-    <button class="loc-reviews__toggle" id="loc-reviews-toggle" aria-expanded="false">
-      Show more reviews
-      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
-    </button>
-
-    <div class="loc-reviews__cta">
-      <a href="#get-help" class="btn loc-btn-gold">Free call, no obligation</a>
-    </div>
   </div>
 </section>
 
