@@ -162,6 +162,70 @@
 </section>
 
 <!-- =============================================
+     SECTION 3b: CO-FOUNDER NOTE — personal message from Jo
+     ============================================= -->
+{{ $founderMsg := .Params.founder_message | default (printf "GCSE results affect everything — sixth form choices, university applications, how a student feels about themselves for years. Families come to us when they've realised that school support alone isn't closing the gap, and that their child understands more than their grades suggest. We built The Degree Gap to fix exactly that. Every tutor in our network is matched carefully — not just by subject, but by the way they explain things. Because the right explanation, at the right moment, is what actually changes a grade.") }}
+{{ $founderImg := .Params.founder_image | default "/images/jo-godfrey.jpg" }}
+<section class="gs-founder">
+  <div class="container">
+    <div class="gs-founder__inner">
+      <div class="gs-founder__copy">
+        <p class="loc-eyebrow">A NOTE FROM OUR CO-FOUNDER</p>
+        <blockquote class="gs-founder__blockquote">
+          <p>{{ $founderMsg }}</p>
+          <footer class="gs-founder__sig">
+            <div class="gs-founder__sig-line" aria-hidden="true"></div>
+            <strong>Jo Godfrey</strong>
+            <span>Co-founder, The Degree Gap</span>
+          </footer>
+        </blockquote>
+      </div>
+      <div class="gs-founder__photo">
+        <img src="{{ $founderImg }}" alt="Jo Godfrey, Co-founder of The Degree Gap" loading="lazy" decoding="async">
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- =============================================
+     SECTION 3c: GCSE TUTOR PROFILES STRIP
+     ============================================= -->
+{{ partial "gcse-tutor-strip.html" . }}
+
+<!-- =============================================
+     SECTION 3d: HOW IT WORKS — three-step process
+     ============================================= -->
+<section class="gs-process">
+  <div class="container">
+    <div class="gs-process__header">
+      <p class="loc-eyebrow loc-eyebrow--center">HOW IT WORKS</p>
+      <h2>Up and Running in Three Steps</h2>
+      <p class="gs-process__lead">No long intake forms. No weeks of waiting. Just a short conversation and the right tutor for your child.</p>
+    </div>
+    <div class="gs-process__steps">
+      <div class="gs-process__step">
+        <div class="gs-process__num">01</div>
+        <h3>Tell Us About Your Child</h3>
+        <p>A short call or message — year group, subjects, exam board, and what's not clicking. We listen before we suggest anything.</p>
+      </div>
+      <div class="gs-process__step">
+        <div class="gs-process__num">02</div>
+        <h3>We Find the Right Match</h3>
+        <p>We introduce you to a tutor who knows your child's specific subjects, specification, and the gaps most worth closing first. Not just whoever's available.</p>
+      </div>
+      <div class="gs-process__step">
+        <div class="gs-process__num">03</div>
+        <h3>Progress Starts Quickly</h3>
+        <p>Most students feel a difference within two or three sessions. Grades follow. We stay in touch throughout and adjust the match if needed.</p>
+      </div>
+    </div>
+    <div class="gs-process__cta">
+      <a href="#get-help" class="btn btn-primary btn-lg">Get Started — It's Free</a>
+    </div>
+  </div>
+</section>
+
+<!-- =============================================
      SECTION 4: EXAM BOARDS — copy left, board cards right
      ============================================= -->
 <section class="gs-examboards">
@@ -244,36 +308,43 @@
 </section>
 
 <!-- =============================================
-     SECTION 7: SCHOOLS — list left / stats right
+     SECTION 7: SCHOOLS — copy + tags left / dark credential panel right
      ============================================= -->
 <section class="gs-schools">
   <div class="container">
     <div class="gs-schools__inner">
+
       <div class="gs-schools__copy">
         <p class="loc-eyebrow">SCHOOLS WE SUPPORT</p>
         <h2>Tutors Who Know the Standard Your School Expects</h2>
         <p>The tutors in our network work with students from a wide range of schools across the {{ $loc }} area. Whether your child is at a selective school, an academy, or a local comprehensive, we'll introduce you to a tutor who understands the level expected of them and can help them get there.</p>
-        <ul class="gs-schools__list">
+        <ul class="gs-schools__tags">
           {{ range $schools }}
           <li>{{ . }}</li>
           {{ end }}
         </ul>
-        <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary" style="margin-top:1.5rem;">Find Your Tutor</a>
+        <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary">Find Your Tutor</a>
       </div>
-      <div class="gs-schools__stats">
+
+      <div class="gs-schools__panel">
+        <p class="gs-schools__panel-eyebrow">Why families trust us</p>
         <div class="gs-schools__stat">
           <span class="gs-schools__stat-num">100+</span>
-          <span class="gs-schools__stat-label">5-star Google reviews</span>
+          <span class="gs-schools__stat-label">five-star Google reviews from real families</span>
         </div>
+        <div class="gs-schools__stat-divider" aria-hidden="true"></div>
         <div class="gs-schools__stat">
           <span class="gs-schools__stat-num">2025</span>
           <span class="gs-schools__stat-label">GCSE Specialists of the Year</span>
         </div>
+        <div class="gs-schools__stat-divider" aria-hidden="true"></div>
         <div class="gs-schools__stat">
-          <span class="gs-schools__stat-num">All</span>
-          <span class="gs-schools__stat-label">major exam boards covered</span>
+          <span class="gs-schools__stat-num">AQA · Edexcel · OCR · WJEC</span>
+          <span class="gs-schools__stat-label">every major exam board covered</span>
         </div>
+        <a href="#get-help" class="gs-schools__panel-cta">Book a free consultation →</a>
       </div>
+
     </div>
   </div>
 </section>

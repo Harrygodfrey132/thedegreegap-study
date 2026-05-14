@@ -1,0 +1,39 @@
+{{ $loc := .Params.location | default "Your Area" }}
+
+{{ $tutors := slice
+  (dict "name" "Avery Goldie"       "url" "https://thedegreegap.com/teachers/view/averygoldie"              "image" "https://thedegreegap.com/cache/bd/9b400d603fa3eed019a026bd303ed4.jpg")
+  (dict "name" "Faizaan Butt"       "url" "https://thedegreegap.com/teachers/view/faizaanb1"                "image" "https://thedegreegap.com/cache/a0/5a456a5430697e519b98e79179462a.jpg")
+  (dict "name" "Jacob Berry"        "url" "https://thedegreegap.com/teachers/view/108759843003883984075"    "image" "https://thedegreegap.com/cache/63/a430b8623078fe8465a73f61051343.jpg")
+  (dict "name" "Zainab Iqbal"       "url" "https://thedegreegap.com/teachers/view/Zainab_iqbal"             "image" "https://thedegreegap.com/cache/84/882ecca55f89a0e5713121be116566.jpg")
+  (dict "name" "Sarah Round"        "url" "https://thedegreegap.com/teachers/view/SarahRound"               "image" "https://thedegreegap.com/cache/85/2220cf64d598008cf973b9a155edf2.jpg")
+  (dict "name" "Harry Godfrey"      "url" "https://thedegreegap.com/teachers/view/harry_godfrey"            "image" "https://thedegreegap.com/cache/09/caa1e73fb0eb7272d1de50513fbd6e.jpg")
+  (dict "name" "Callum Ormsby"      "url" "https://thedegreegap.com/teachers/view/Callum_Ormsby"            "image" "https://thedegreegap.com/cache/9e/97d03614ae472818d0c828bb86c778.jpg")
+  (dict "name" "Layla Sarakbi"      "url" "https://thedegreegap.com/teachers/view/laylasarakbi"             "image" "https://thedegreegap.com/cache/15/23cd627593feee960f22d413a9e117.jpg")
+  (dict "name" "Haneet Gill"        "url" "https://thedegreegap.com/teachers/view/haneetgill"               "image" "https://thedegreegap.com/cache/8b/5d408c37b4f5cde8239f5eaac0d560.jpg")
+  (dict "name" "Jessica B"          "url" "https://thedegreegap.com/teachers/view/Jessica"                  "image" "https://thedegreegap.com/cache/2d/4ad483a6dc3f6d3381bd7557fbc5a9.jpg")
+  (dict "name" "Nicolas Baez Bano"  "url" "https://thedegreegap.com/teachers/view/nicolasbaezbano"          "image" "https://thedegreegap.com/cache/6b/dc8fa2832bbce038311b0195260710.jpg")
+}}
+
+<section class="gs-tutor-strip" aria-labelledby="gs-tutor-strip-title">
+  <div class="container">
+    <div class="gs-tutor-strip__inner">
+      <div class="gs-tutor-strip__copy">
+        <p class="loc-eyebrow">MEET THE TUTORS</p>
+        <h2 id="gs-tutor-strip-title">GCSE tutors ready to work with your child</h2>
+        <p>Browse tutor profiles, read about their approach and experience, or let us make the introduction — we'll match your child with the right person for their subjects and year group.</p>
+        <div class="gs-tutor-strip__actions">
+          <a href="https://thedegreegap.com/teachers/languages/GCSE-Maths" class="btn btn-primary" target="_blank" rel="noopener">Browse GCSE tutors</a>
+          <a href="#get-help" class="btn btn-outline">Ask us to match you</a>
+        </div>
+      </div>
+      <div class="gs-tutor-strip__gallery" aria-label="GCSE tutor profiles">
+        {{ range $tutors }}
+        <a class="gs-tutor-card" href="{{ .url }}" target="_blank" rel="noopener" aria-label="View {{ .name }}'s tutor profile">
+          <img src="{{ .image }}" alt="{{ .name }}" loading="lazy" decoding="async">
+          <span class="gs-tutor-card__name">{{ .name }}</span>
+        </a>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
