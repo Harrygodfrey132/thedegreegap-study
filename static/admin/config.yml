@@ -2,12 +2,18 @@ backend:
   name: git-gateway
   branch: main
 
+site_url: https://study.thedegreegap.com
+display_url: https://study.thedegreegap.com
+logo_url: https://study.thedegreegap.com/images/favicon.png
+
 media_folder: "static/images"
 public_folder: "/images"
 
 collections:
   - name: "locations"
     label: "Location pages"
+    label_singular: "Location page"
+    description: "City pages such as Birmingham, Manchester, Oxford. Each page has SEO settings, banner, intro, schools, online tutoring section, FAQs, subjects and reviews."
     folder: "content/locations"
     path: "{{slug}}/_index"
     extension: "md"
@@ -16,76 +22,152 @@ collections:
     slug: "{{slug}}"
     summary: "{{location}} — {{title}}"
     fields:
-      - { name: "title", label: "SEO title", widget: "string" }
-      - { name: "description", label: "SEO description", widget: "text" }
-      - { name: "layout", label: "Layout", widget: "hidden", default: "single" }
-      - { name: "location", label: "Location (city name)", widget: "string" }
-      - { name: "banner_heading", label: "Banner heading", widget: "string" }
-      - { name: "banner_description", label: "Banner description", widget: "text" }
-      - { name: "content_angle", label: "Content angle (internal note)", widget: "string", required: false }
-      - { name: "intro_1", label: "Intro paragraph 1", widget: "text" }
-      - { name: "intro_2", label: "Intro paragraph 2", widget: "text" }
-      - { name: "about_heading", label: "About heading", widget: "string" }
-      - { name: "about_image", label: "About image", widget: "image" }
-      - { name: "schools_intro", label: "Schools intro", widget: "text" }
-      - { name: "schools", label: "School names", widget: "list", field: { name: "school", label: "School", widget: "string" } }
-      - { name: "schools_image", label: "Schools image", widget: "image" }
-      - { name: "online_heading", label: "Online tutoring heading", widget: "string" }
-      - { name: "online_1", label: "Online paragraph 1", widget: "text" }
-      - { name: "online_2", label: "Online paragraph 2", widget: "text" }
-      - { name: "online_image", label: "Online image", widget: "image" }
-      - { name: "map_url", label: "Google Maps embed URL", widget: "string" }
-      - { name: "areas_intro", label: "Nearby areas intro", widget: "text" }
-      - name: "area_links"
-        label: "Nearby area links"
-        widget: "list"
-        hint: "Format: Label|/path/"
-        field: { name: "link", label: "Link (Label|/path/)", widget: "string" }
-      - name: "gcse_subjects"
-        label: "GCSE subjects"
-        widget: "list"
-        hint: "Format: Title|Description|URL"
-        field: { name: "subject", label: "Subject (Title|Description|URL)", widget: "string" }
-      - name: "alevel_subjects"
-        label: "A-Level subjects"
-        widget: "list"
-        hint: "Format: Title|Description|URL"
-        field: { name: "subject", label: "Subject (Title|Description|URL)", widget: "string" }
-      - name: "other_subjects"
-        label: "Other subjects"
-        widget: "list"
-        required: false
-        hint: "Format: Title|Description|URL"
-        field: { name: "subject", label: "Subject (Title|Description|URL)", widget: "string" }
-      - { name: "faq_1_q", label: "FAQ 1 — question", widget: "string" }
-      - { name: "faq_1_a", label: "FAQ 1 — answer", widget: "text" }
-      - { name: "faq_2_q", label: "FAQ 2 — question", widget: "string" }
-      - { name: "faq_2_a", label: "FAQ 2 — answer", widget: "text" }
-      - { name: "faq_3_q", label: "FAQ 3 — question", widget: "string" }
-      - { name: "faq_3_a", label: "FAQ 3 — answer", widget: "text" }
-      - { name: "faq_4_q", label: "FAQ 4 — question", widget: "string" }
-      - { name: "faq_4_a", label: "FAQ 4 — answer", widget: "text" }
-      - { name: "why_heading", label: "Why-choose heading", widget: "string" }
-      - { name: "why_para_1", label: "Why-choose paragraph 1", widget: "text" }
-      - { name: "why_para_2", label: "Why-choose paragraph 2", widget: "text" }
-      - { name: "accordion_quality", label: "Accordion — quality", widget: "text" }
-      - { name: "accordion_experience", label: "Accordion — experience", widget: "text" }
-      - { name: "accordion_personalised", label: "Accordion — personalised", widget: "text" }
-      - name: "reviews"
-        label: "Reviews"
-        widget: "list"
-        hint: "Format: Name|Role|Review text"
-        field: { name: "review", label: "Review (Name|Role|Text)", widget: "string" }
-      - name: "sitemap"
-        label: "Sitemap"
+      - label: "SEO"
+        name: "seo"
         widget: "object"
-        required: false
+        collapsed: false
         fields:
-          - { name: "priority", label: "Priority", widget: "number", value_type: "float", default: 0.8, required: false }
-          - { name: "changefreq", label: "Change frequency", widget: "string", default: "monthly", required: false }
+          - { name: "title", label: "SEO title (shown in Google)", widget: "string" }
+          - { name: "description", label: "SEO description (shown in Google)", widget: "text" }
+
+      - label: "Banner (top of page)"
+        name: "banner"
+        widget: "object"
+        collapsed: true
+        fields:
+          - { name: "location", label: "City name", widget: "string", hint: "e.g. Birmingham" }
+          - { name: "banner_heading", label: "Banner heading", widget: "string" }
+          - { name: "banner_description", label: "Banner description", widget: "text" }
+          - { name: "content_angle", label: "Content angle (internal note, not shown publicly)", widget: "string", required: false }
+
+      - label: "Intro section"
+        name: "intro"
+        widget: "object"
+        collapsed: true
+        fields:
+          - { name: "intro_1", label: "Paragraph 1", widget: "text" }
+          - { name: "intro_2", label: "Paragraph 2", widget: "text" }
+
+      - label: "About section"
+        name: "about"
+        widget: "object"
+        collapsed: true
+        fields:
+          - { name: "about_heading", label: "Heading", widget: "string" }
+          - { name: "about_image", label: "Image", widget: "image" }
+
+      - label: "Schools section"
+        name: "schools_section"
+        widget: "object"
+        collapsed: true
+        fields:
+          - { name: "schools_intro", label: "Intro paragraph", widget: "text" }
+          - name: "schools"
+            label: "School names"
+            widget: "list"
+            field: { name: "school", label: "School", widget: "string" }
+          - { name: "schools_image", label: "Image", widget: "image" }
+
+      - label: "Online tutoring section"
+        name: "online"
+        widget: "object"
+        collapsed: true
+        fields:
+          - { name: "online_heading", label: "Heading", widget: "string" }
+          - { name: "online_1", label: "Paragraph 1", widget: "text" }
+          - { name: "online_2", label: "Paragraph 2", widget: "text" }
+          - { name: "online_image", label: "Image", widget: "image" }
+
+      - label: "Map & nearby areas"
+        name: "map_area"
+        widget: "object"
+        collapsed: true
+        fields:
+          - { name: "map_url", label: "Google Maps embed URL", widget: "string", hint: "Paste the 'src' URL from Google Maps → Share → Embed a map" }
+          - { name: "areas_intro", label: "Nearby areas intro", widget: "text" }
+          - name: "area_links"
+            label: "Nearby area links"
+            widget: "list"
+            hint: "Format each entry as: Label|/path/   — for example: Coventry Tutors|/locations/coventry-tutors/"
+            field: { name: "link", label: "Link", widget: "string" }
+
+      - label: "Subjects offered"
+        name: "subjects"
+        widget: "object"
+        collapsed: true
+        fields:
+          - name: "gcse_subjects"
+            label: "GCSE subjects"
+            widget: "list"
+            hint: "Format: Title|Description|URL"
+            field: { name: "subject", label: "Subject", widget: "string" }
+          - name: "alevel_subjects"
+            label: "A-Level subjects"
+            widget: "list"
+            hint: "Format: Title|Description|URL"
+            field: { name: "subject", label: "Subject", widget: "string" }
+          - name: "other_subjects"
+            label: "Other subjects"
+            widget: "list"
+            required: false
+            hint: "Format: Title|Description|URL"
+            field: { name: "subject", label: "Subject", widget: "string" }
+
+      - label: "FAQs"
+        name: "faqs"
+        widget: "object"
+        collapsed: true
+        fields:
+          - { name: "faq_1_q", label: "FAQ 1 — question", widget: "string" }
+          - { name: "faq_1_a", label: "FAQ 1 — answer", widget: "text" }
+          - { name: "faq_2_q", label: "FAQ 2 — question", widget: "string" }
+          - { name: "faq_2_a", label: "FAQ 2 — answer", widget: "text" }
+          - { name: "faq_3_q", label: "FAQ 3 — question", widget: "string" }
+          - { name: "faq_3_a", label: "FAQ 3 — answer", widget: "text" }
+          - { name: "faq_4_q", label: "FAQ 4 — question", widget: "string" }
+          - { name: "faq_4_a", label: "FAQ 4 — answer", widget: "text" }
+
+      - label: "Why choose us"
+        name: "why"
+        widget: "object"
+        collapsed: true
+        fields:
+          - { name: "why_heading", label: "Heading", widget: "string" }
+          - { name: "why_para_1", label: "Paragraph 1", widget: "text" }
+          - { name: "why_para_2", label: "Paragraph 2", widget: "text" }
+          - { name: "accordion_quality", label: "Accordion — quality", widget: "text" }
+          - { name: "accordion_experience", label: "Accordion — experience", widget: "text" }
+          - { name: "accordion_personalised", label: "Accordion — personalised", widget: "text" }
+
+      - label: "Reviews"
+        name: "reviews_section"
+        widget: "object"
+        collapsed: true
+        fields:
+          - name: "reviews"
+            label: "Reviews"
+            widget: "list"
+            hint: "Format each entry as: Name|Role|Review text"
+            field: { name: "review", label: "Review", widget: "string" }
+
+      - label: "Advanced"
+        name: "advanced"
+        widget: "object"
+        collapsed: true
+        fields:
+          - { name: "layout", label: "Layout (do not change)", widget: "hidden", default: "single" }
+          - name: "sitemap"
+            label: "Sitemap settings"
+            widget: "object"
+            required: false
+            fields:
+              - { name: "priority", label: "Priority", widget: "number", value_type: "float", default: 0.8, required: false }
+              - { name: "changefreq", label: "Change frequency", widget: "string", default: "monthly", required: false }
 
   - name: "ps_subjects"
     label: "Personal statement — subject pages"
+    label_singular: "Subject page"
+    description: "One page per subject (Medicine, Law, Economics…). Used at /personal-statement-tutor/{subject}/."
     folder: "content/personal-statement-tutor"
     extension: "md"
     format: "yaml-frontmatter"
@@ -94,33 +176,45 @@ collections:
     summary: "{{subject}} — {{title}}"
     filter: { field: "subject" }
     fields:
-      - { name: "title", label: "SEO title", widget: "string" }
-      - { name: "description", label: "SEO description", widget: "text" }
-      - { name: "subject", label: "Subject", widget: "string" }
-      - name: "admissions_tests"
-        label: "Admissions tests"
+      - label: "SEO"
+        name: "seo"
+        widget: "object"
+        collapsed: false
+        fields:
+          - { name: "title", label: "SEO title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+      - { name: "subject", label: "Subject name", widget: "string", hint: "e.g. Medicine, Law" }
+      - label: "Admissions tests"
+        name: "admissions_tests"
         widget: "list"
         required: false
         fields:
           - { name: "name", label: "Test name", widget: "string" }
           - { name: "note", label: "Note", widget: "string", required: false }
-      - { name: "form_cta", label: "Form CTA heading", widget: "string" }
-      - { name: "form_intro", label: "Form intro", widget: "text" }
-      - { name: "form_message_label", label: "Form message label", widget: "string" }
-      - { name: "form_message_placeholder", label: "Form message placeholder", widget: "text" }
-      - { name: "form_button", label: "Form button text", widget: "string" }
-      - { name: "form_note", label: "Form note", widget: "string" }
-      - name: "related_pages"
-        label: "Related pages"
+      - label: "Enquiry form"
+        name: "form"
+        widget: "object"
+        collapsed: true
+        fields:
+          - { name: "form_cta", label: "Heading", widget: "string" }
+          - { name: "form_intro", label: "Intro", widget: "text" }
+          - { name: "form_message_label", label: "Message label", widget: "string" }
+          - { name: "form_message_placeholder", label: "Message placeholder", widget: "text" }
+          - { name: "form_button", label: "Button text", widget: "string" }
+          - { name: "form_note", label: "Note under form", widget: "string" }
+      - label: "Related pages"
+        name: "related_pages"
         widget: "list"
         required: false
         fields:
           - { name: "title", label: "Title", widget: "string" }
           - { name: "url", label: "URL", widget: "string" }
-      - { name: "body", label: "Body", widget: "markdown", required: false }
+      - { name: "body", label: "Body (markdown)", widget: "markdown", required: false }
 
   - name: "ps_universities"
     label: "Personal statement — university pages"
+    label_singular: "University page"
+    description: "One page per university (Oxford, Cambridge). Used at /personal-statements/{university}/."
     folder: "content/personal-statements"
     extension: "md"
     format: "yaml-frontmatter"
@@ -129,19 +223,30 @@ collections:
     summary: "{{university}} — {{title}}"
     filter: { field: "university" }
     fields:
-      - { name: "title", label: "SEO title", widget: "string" }
-      - { name: "description", label: "SEO description", widget: "text" }
-      - { name: "university", label: "University", widget: "string" }
-      - { name: "form_cta", label: "Form CTA heading", widget: "string" }
-      - { name: "form_intro", label: "Form intro", widget: "text" }
-      - { name: "form_message_label", label: "Form message label", widget: "string" }
-      - { name: "form_message_placeholder", label: "Form message placeholder", widget: "text" }
-      - { name: "form_button", label: "Form button text", widget: "string" }
-      - { name: "form_note", label: "Form note", widget: "string" }
-      - { name: "body", label: "Body", widget: "markdown", required: false }
+      - label: "SEO"
+        name: "seo"
+        widget: "object"
+        collapsed: false
+        fields:
+          - { name: "title", label: "SEO title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+      - { name: "university", label: "University name", widget: "string", hint: "e.g. Oxford, Cambridge" }
+      - label: "Enquiry form"
+        name: "form"
+        widget: "object"
+        collapsed: true
+        fields:
+          - { name: "form_cta", label: "Heading", widget: "string" }
+          - { name: "form_intro", label: "Intro", widget: "text" }
+          - { name: "form_message_label", label: "Message label", widget: "string" }
+          - { name: "form_message_placeholder", label: "Message placeholder", widget: "text" }
+          - { name: "form_button", label: "Button text", widget: "string" }
+          - { name: "form_note", label: "Note under form", widget: "string" }
+      - { name: "body", label: "Body (markdown)", widget: "markdown", required: false }
 
   - name: "pages"
     label: "Standalone pages"
+    description: "Home, landing pages, and other one-off pages."
     files:
       - file: "content/_index.md"
         label: "Home"
@@ -171,7 +276,7 @@ collections:
         fields:
           - { name: "title", label: "Title", widget: "string" }
           - { name: "description", label: "SEO description", widget: "text" }
-          - { name: "form_cta", label: "Form CTA heading", widget: "string" }
+          - { name: "form_cta", label: "Form heading", widget: "string" }
           - { name: "form_intro", label: "Form intro", widget: "text" }
           - { name: "form_message_label", label: "Form message label", widget: "string" }
           - { name: "form_message_placeholder", label: "Form message placeholder", widget: "text" }
