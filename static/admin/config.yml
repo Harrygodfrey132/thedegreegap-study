@@ -1,0 +1,134 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "static/images"
+public_folder: "/images"
+
+publish_mode: editorial_workflow
+
+collections:
+  - name: "locations"
+    label: "Location pages"
+    folder: "content/locations"
+    path: "{{slug}}/_index"
+    extension: "md"
+    format: "yaml-frontmatter"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{location}} — {{title}}"
+    fields:
+      - { name: "title", label: "SEO title", widget: "string" }
+      - { name: "description", label: "SEO description", widget: "text" }
+      - { name: "layout", label: "Layout", widget: "hidden", default: "single" }
+      - { name: "location", label: "Location (city name)", widget: "string" }
+      - { name: "banner_heading", label: "Banner heading", widget: "string" }
+      - { name: "banner_description", label: "Banner description", widget: "text" }
+      - { name: "content_angle", label: "Content angle (internal note)", widget: "string", required: false }
+      - { name: "intro_1", label: "Intro paragraph 1", widget: "text" }
+      - { name: "intro_2", label: "Intro paragraph 2", widget: "text" }
+      - { name: "about_heading", label: "About heading", widget: "string" }
+      - { name: "about_image", label: "About image", widget: "image" }
+      - { name: "schools_intro", label: "Schools intro", widget: "text" }
+      - { name: "schools", label: "School names", widget: "list", field: { name: "school", label: "School", widget: "string" } }
+      - { name: "schools_image", label: "Schools image", widget: "image" }
+      - { name: "online_heading", label: "Online tutoring heading", widget: "string" }
+      - { name: "online_1", label: "Online paragraph 1", widget: "text" }
+      - { name: "online_2", label: "Online paragraph 2", widget: "text" }
+      - { name: "online_image", label: "Online image", widget: "image" }
+      - { name: "map_url", label: "Google Maps embed URL", widget: "string" }
+      - { name: "areas_intro", label: "Nearby areas intro", widget: "text" }
+      - name: "area_links"
+        label: "Nearby area links"
+        widget: "list"
+        hint: "Format: Label|/path/"
+        field: { name: "link", label: "Link (Label|/path/)", widget: "string" }
+      - name: "gcse_subjects"
+        label: "GCSE subjects"
+        widget: "list"
+        hint: "Format: Title|Description|URL"
+        field: { name: "subject", label: "Subject (Title|Description|URL)", widget: "string" }
+      - name: "alevel_subjects"
+        label: "A-Level subjects"
+        widget: "list"
+        hint: "Format: Title|Description|URL"
+        field: { name: "subject", label: "Subject (Title|Description|URL)", widget: "string" }
+      - name: "other_subjects"
+        label: "Other subjects"
+        widget: "list"
+        required: false
+        hint: "Format: Title|Description|URL"
+        field: { name: "subject", label: "Subject (Title|Description|URL)", widget: "string" }
+      - { name: "faq_1_q", label: "FAQ 1 — question", widget: "string" }
+      - { name: "faq_1_a", label: "FAQ 1 — answer", widget: "text" }
+      - { name: "faq_2_q", label: "FAQ 2 — question", widget: "string" }
+      - { name: "faq_2_a", label: "FAQ 2 — answer", widget: "text" }
+      - { name: "faq_3_q", label: "FAQ 3 — question", widget: "string" }
+      - { name: "faq_3_a", label: "FAQ 3 — answer", widget: "text" }
+      - { name: "faq_4_q", label: "FAQ 4 — question", widget: "string" }
+      - { name: "faq_4_a", label: "FAQ 4 — answer", widget: "text" }
+      - { name: "why_heading", label: "Why-choose heading", widget: "string" }
+      - { name: "why_para_1", label: "Why-choose paragraph 1", widget: "text" }
+      - { name: "why_para_2", label: "Why-choose paragraph 2", widget: "text" }
+      - { name: "accordion_quality", label: "Accordion — quality", widget: "text" }
+      - { name: "accordion_experience", label: "Accordion — experience", widget: "text" }
+      - { name: "accordion_personalised", label: "Accordion — personalised", widget: "text" }
+      - name: "reviews"
+        label: "Reviews"
+        widget: "list"
+        hint: "Format: Name|Role|Review text"
+        field: { name: "review", label: "Review (Name|Role|Text)", widget: "string" }
+      - name: "sitemap"
+        label: "Sitemap"
+        widget: "object"
+        required: false
+        fields:
+          - { name: "priority", label: "Priority", widget: "number", value_type: "float", default: 0.8, required: false }
+          - { name: "changefreq", label: "Change frequency", widget: "string", default: "monthly", required: false }
+
+  - name: "pages"
+    label: "Standalone pages"
+    files:
+      - file: "content/_index.md"
+        label: "Home"
+        name: "home"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text", required: false }
+          - { name: "body", label: "Body", widget: "markdown", required: false }
+      - file: "content/gcse-mock-webinar/_index.md"
+        label: "GCSE Mock Webinar"
+        name: "webinar"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+          - { name: "layout", label: "Layout", widget: "hidden", default: "list" }
+          - name: "sitemap"
+            label: "Sitemap"
+            widget: "object"
+            required: false
+            fields:
+              - { name: "priority", label: "Priority", widget: "number", value_type: "float", required: false }
+              - { name: "changefreq", label: "Change frequency", widget: "string", required: false }
+          - { name: "body", label: "Body", widget: "markdown", required: false }
+      - file: "content/personal-statement-tutor/_index.md"
+        label: "Personal Statement Tutor"
+        name: "ps-tutor"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text", required: false }
+          - { name: "body", label: "Body", widget: "markdown", required: false }
+      - file: "content/personal-statements/_index.md"
+        label: "Personal Statements"
+        name: "personal-statements"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text", required: false }
+          - { name: "body", label: "Body", widget: "markdown", required: false }
+      - file: "content/past-papers/_index.md"
+        label: "Past Papers"
+        name: "past-papers"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text", required: false }
+          - { name: "body", label: "Body", widget: "markdown", required: false }
