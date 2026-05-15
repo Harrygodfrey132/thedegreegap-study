@@ -2,12 +2,18 @@ backend:
   name: git-gateway
   branch: main
 
+site_url: https://study.thedegreegap.com
+display_url: https://study.thedegreegap.com
+logo_url: https://study.thedegreegap.com/images/favicon.png
+
 media_folder: "static/images"
 public_folder: "/images"
 
 collections:
   - name: "locations"
     label: "Location pages"
+    label_singular: "Location page"
+    description: "City pages such as Birmingham or Manchester. Fields are grouped roughly top-to-bottom in the order they appear on the page."
     folder: "content/locations"
     path: "{{slug}}/_index"
     extension: "md"
@@ -19,7 +25,7 @@ collections:
       - { name: "title", label: "SEO title", widget: "string" }
       - { name: "description", label: "SEO description", widget: "text" }
       - { name: "layout", label: "Layout", widget: "hidden", default: "single" }
-      - { name: "location", label: "Location (city name)", widget: "string" }
+      - { name: "location", label: "Location (city name)", widget: "string", hint: "e.g. Birmingham" }
       - { name: "banner_heading", label: "Banner heading", widget: "string" }
       - { name: "banner_description", label: "Banner description", widget: "text" }
       - { name: "content_angle", label: "Content angle (internal note)", widget: "string", required: false }
@@ -34,7 +40,7 @@ collections:
       - { name: "online_1", label: "Online paragraph 1", widget: "text" }
       - { name: "online_2", label: "Online paragraph 2", widget: "text" }
       - { name: "online_image", label: "Online image", widget: "image" }
-      - { name: "map_url", label: "Google Maps embed URL", widget: "string" }
+      - { name: "map_url", label: "Google Maps embed URL", widget: "string", hint: "Paste the 'src' URL from Google Maps → Share → Embed a map" }
       - { name: "areas_intro", label: "Nearby areas intro", widget: "text" }
       - name: "area_links"
         label: "Nearby area links"
@@ -86,6 +92,8 @@ collections:
 
   - name: "ps_subjects"
     label: "Personal statement — subject pages"
+    label_singular: "Subject page"
+    description: "One page per subject (Medicine, Law, Economics…). Lives at /personal-statement-tutor/{slug}/."
     folder: "content/personal-statement-tutor"
     extension: "md"
     format: "yaml-frontmatter"
@@ -121,6 +129,8 @@ collections:
 
   - name: "ps_universities"
     label: "Personal statement — university pages"
+    label_singular: "University page"
+    description: "One page per university (Oxford, Cambridge). Lives at /personal-statements/{slug}/."
     folder: "content/personal-statements"
     extension: "md"
     format: "yaml-frontmatter"
@@ -142,6 +152,7 @@ collections:
 
   - name: "pages"
     label: "Standalone pages"
+    description: "Home, webinar, and other one-off pages."
     files:
       - file: "content/_index.md"
         label: "Home"
