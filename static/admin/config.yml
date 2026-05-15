@@ -84,6 +84,62 @@ collections:
           - { name: "priority", label: "Priority", widget: "number", value_type: "float", default: 0.8, required: false }
           - { name: "changefreq", label: "Change frequency", widget: "string", default: "monthly", required: false }
 
+  - name: "ps_subjects"
+    label: "Personal statement — subject pages"
+    folder: "content/personal-statement-tutor"
+    extension: "md"
+    format: "yaml-frontmatter"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{subject}} — {{title}}"
+    filter: { field: "subject" }
+    fields:
+      - { name: "title", label: "SEO title", widget: "string" }
+      - { name: "description", label: "SEO description", widget: "text" }
+      - { name: "subject", label: "Subject", widget: "string" }
+      - name: "admissions_tests"
+        label: "Admissions tests"
+        widget: "list"
+        required: false
+        fields:
+          - { name: "name", label: "Test name", widget: "string" }
+          - { name: "note", label: "Note", widget: "string", required: false }
+      - { name: "form_cta", label: "Form CTA heading", widget: "string" }
+      - { name: "form_intro", label: "Form intro", widget: "text" }
+      - { name: "form_message_label", label: "Form message label", widget: "string" }
+      - { name: "form_message_placeholder", label: "Form message placeholder", widget: "text" }
+      - { name: "form_button", label: "Form button text", widget: "string" }
+      - { name: "form_note", label: "Form note", widget: "string" }
+      - name: "related_pages"
+        label: "Related pages"
+        widget: "list"
+        required: false
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "url", label: "URL", widget: "string" }
+      - { name: "body", label: "Body", widget: "markdown", required: false }
+
+  - name: "ps_universities"
+    label: "Personal statement — university pages"
+    folder: "content/personal-statements"
+    extension: "md"
+    format: "yaml-frontmatter"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{university}} — {{title}}"
+    filter: { field: "university" }
+    fields:
+      - { name: "title", label: "SEO title", widget: "string" }
+      - { name: "description", label: "SEO description", widget: "text" }
+      - { name: "university", label: "University", widget: "string" }
+      - { name: "form_cta", label: "Form CTA heading", widget: "string" }
+      - { name: "form_intro", label: "Form intro", widget: "text" }
+      - { name: "form_message_label", label: "Form message label", widget: "string" }
+      - { name: "form_message_placeholder", label: "Form message placeholder", widget: "text" }
+      - { name: "form_button", label: "Form button text", widget: "string" }
+      - { name: "form_note", label: "Form note", widget: "string" }
+      - { name: "body", label: "Body", widget: "markdown", required: false }
+
   - name: "pages"
     label: "Standalone pages"
     files:
@@ -110,18 +166,24 @@ collections:
               - { name: "changefreq", label: "Change frequency", widget: "string", required: false }
           - { name: "body", label: "Body", widget: "markdown", required: false }
       - file: "content/personal-statement-tutor/_index.md"
-        label: "Personal Statement Tutor"
-        name: "ps-tutor"
+        label: "Personal Statement Tutor — landing"
+        name: "ps-tutor-landing"
         fields:
           - { name: "title", label: "Title", widget: "string" }
-          - { name: "description", label: "SEO description", widget: "text", required: false }
+          - { name: "description", label: "SEO description", widget: "text" }
+          - { name: "form_cta", label: "Form CTA heading", widget: "string" }
+          - { name: "form_intro", label: "Form intro", widget: "text" }
+          - { name: "form_message_label", label: "Form message label", widget: "string" }
+          - { name: "form_message_placeholder", label: "Form message placeholder", widget: "text" }
+          - { name: "form_button", label: "Form button text", widget: "string" }
+          - { name: "form_note", label: "Form note", widget: "string" }
           - { name: "body", label: "Body", widget: "markdown", required: false }
       - file: "content/personal-statements/_index.md"
-        label: "Personal Statements"
-        name: "personal-statements"
+        label: "Personal Statements — landing"
+        name: "ps-landing"
         fields:
           - { name: "title", label: "Title", widget: "string" }
-          - { name: "description", label: "SEO description", widget: "text", required: false }
+          - { name: "description", label: "SEO description", widget: "text" }
           - { name: "body", label: "Body", widget: "markdown", required: false }
       - file: "content/past-papers/_index.md"
         label: "Past Papers"
