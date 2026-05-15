@@ -1,6 +1,6 @@
 ---
 title: "Leeds Tutors | Expert Support | The Degree Gap"
-description: "The Degree Gap matches Leeds students with experienced tutors for GCSE and A-Level, helping them hit the grades that competitive sixth forms and Russell Group universities demand."
+description: "The Degree Gap matches Leeds students with experienced GCSE and A-Level tutors who target the grades competitive sixth forms expect."
 layout: "single"
 location: "Leeds"
 banner_heading: "Need a Leeds tutor who prepares students for what comes next?"

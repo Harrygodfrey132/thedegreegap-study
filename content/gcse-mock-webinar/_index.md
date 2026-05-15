@@ -1,6 +1,6 @@
 ---
 title: "GCSE Mock Webinar | The Degree Gap"
-description: "Our parent masterclass on preparing for GCSE mocks. The session isn't currently running — email admin@thedegreegap.com to be notified when the next one opens."
+description: "Our parent masterclass on preparing for GCSE mocks. Sessions are paused. Email admin@thedegreegap.com to hear when the next one runs."
 layout: "list"
 sitemap:
   priority: 0.6

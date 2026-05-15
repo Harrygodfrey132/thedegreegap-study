@@ -4,7 +4,7 @@
 {{ $rawImage := or .Params.image .Params.hero_image .Params.about_image .Params.schools_image .Params.online_image "images/harry-godfrey.jpg" }}
 {{ $ogImage := $rawImage | absURL }}
 
-<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | The Degree Gap{{ end }}</title>
+<title>{{ if .IsHome }}{{ .Site.Title }}{{ else if in .Title "The Degree Gap" }}{{ .Title }}{{ else }}{{ .Title }} | The Degree Gap{{ end }}</title>
 <meta name="description" content="{{ $desc }}">
 <meta name="author" content="The Degree Gap">
 {{ if or $isPastPapers $isPersonalStatement }}<meta name="robots" content="noindex, nofollow">{{ end }}
