@@ -1,13 +1,13 @@
 ---
 title: "Leeds Tutors | Expert Support | The Degree Gap"
-description: "The Degree Gap matches Leeds students with experienced GCSE and A-Level tutors who target the grades competitive sixth forms expect."
+description: "The Degree Gap tutoring matches Leeds students with experienced GCSE and A-Level tutors who target the grades competitive sixth forms expect."
 layout: "single"
 location: "Leeds"
 banner_heading: "Need a Leeds tutor who prepares students for what comes next?"
-banner_description: "The Degree Gap connects Leeds families with vetted, subject-specialist tutors who know what sixth forms and universities are actually looking for."
+banner_description: "The Degree Gap tutoring connects Leeds families with vetted, subject-specialist tutors who know what sixth forms and universities are actually looking for."
 content_angle: "ambition / sixth form pipeline"
 intro_1: "Leeds has no state grammar schools. Every secondary student goes through the comprehensive system, which means the route to a competitive sixth form or a Russell Group university depends entirely on grades. Notre Dame Sixth Form College, one of the most sought-after post-16 options in the city, publishes entry requirements that sit at B grades and above across relevant subjects. Many students and their parents only realise how firm those requirements are when Year 11 is already well underway. By that point, the gap between where a student is and where they need to be can be difficult to close without one-to-one support."
-intro_2: "That's where tuition makes a real difference. Leeds is home to major employers in law, finance and the public sector, and professional families here are clear-eyed about what strong GCSE and A-Level results unlock. The Degree Gap works with students across the city to close the gap between class performance and exam performance. Our tutors don't just cover content, they work on the exam technique, the essay structure, the problem-solving approach that makes results stick. A student who's been keeping up in lessons but not converting that into the grades they need is exactly who we're here for."
+intro_2: "That's where tuition makes a real difference. Leeds is home to major employers in law, finance and the public sector, and professional families here are clear-eyed about what strong GCSE and A-Level results unlock. The Degree Gap tutoring works with students across the city to close the gap between class performance and exam performance. Our tutors don't just cover content, they work on the exam technique, the essay structure, the problem-solving approach that makes results stick. A student who's been keeping up in lessons but not converting that into the grades they need is exactly who we're here for."
 about_heading: "The Leeds Tutors Who Get Results"
 schools_intro: "Students working towards sixth form entry and A-Level success come to us from schools across Leeds, including Roundhay School, Lawnswood School, Temple Moor High School and Cardinal Heenan Catholic High School. We also work regularly with families from Allerton High School and Cockburn School. Our tutors run revision workshops on exam technique and study strategy that students from any Leeds secondary are welcome to attend."
 schools: ["Roundhay School", "Lawnswood School", "Temple Moor High School", "Cardinal Heenan Catholic High School", "Allerton High School", "Cockburn School"]
@@ -18,7 +18,7 @@ map_url: "https://maps.google.com/maps?q=Leeds,UK&output=embed"
 about_image: "/images/graduation-ceremony-caps.jpg"
 schools_image: "/images/students-listening-in-classroom.jpg"
 online_image: "/images/student-studying-at-night-with-laptop.jpg"
-areas_intro: "The Degree Gap works with students from Leeds and surrounding towns, matching each family with the tutor best suited to their subject and goals."
+areas_intro: "The Degree Gap tutoring works with students from Leeds and surrounding towns, matching each family with the tutor best suited to their subject and goals."
 area_links: ["Sheffield Tutors|/locations/sheffield-tutors/", "Manchester Tutors|/locations/manchester-tutors/", "Liverpool Tutors|/locations/liverpool-tutors/", "Nottingham Tutors|/locations/nottingham-tutors/", "Derby Tutors|/locations/derby-tutors/", "Leicester Tutors|/locations/leicester-tutors/"]
 gcse_subjects: [
   "GCSE English Tuition|Sharpen analytical writing and unseen text skills for students who need to convert class understanding into the grades sixth forms want to see.|https://thedegreegap.com/teachers/languages/GCSE-English",

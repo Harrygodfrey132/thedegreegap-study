@@ -1,13 +1,13 @@
 ---
 title: "Portsmouth Tutors | Expert Support | The Degree Gap"
-description: "Find a Portsmouth tutor who starts with your child's actual gaps, not a generic plan. The Degree Gap matches students with vetted, experienced tutors."
+description: "Find a Portsmouth tutor who starts with your child's actual gaps, not a generic plan. The Degree Gap tutoring matches students with vetted, experienced tutors."
 layout: "single"
 location: "Portsmouth"
 banner_heading: "Looking for a Portsmouth tutor who actually diagnoses the problem?"
 banner_description: "Most tutoring just follows the school timetable. Our Portsmouth tutors start by finding what's been missed, then build a proper plan around it."
 content_angle: "foundation gaps"
 intro_1: "Portsmouth is an unusual city for education. It has Portsmouth Grammar School on one side, one of the leading independents on the south coast, and a state secondary sector where attainment across the city has sat below the national average for years. That gap between the two is something families feel. Students in the state sector often reach Year 10 carrying gaps they didn't know were there, and those gaps start to show at exactly the wrong moment."
-intro_2: "The Degree Gap works with Portsmouth students through one-to-one tuition that starts where the student actually is, not where the curriculum says they should be. Our tutors go back as far as they need to. Sometimes a Year 11 student's maths problem turns out to be a Year 8 algebra gap that never got properly resolved. Find it, fix it, and the progress that follows tends to surprise everyone. Regular private tuition changes the picture faster than families expect, because the issue was usually something specific all along."
+intro_2: "The Degree Gap tutoring works with Portsmouth students through one-to-one tuition that starts where the student actually is, not where the curriculum says they should be. Our tutors go back as far as they need to. Sometimes a Year 11 student's maths problem turns out to be a Year 8 algebra gap that never got properly resolved. Find it, fix it, and the progress that follows tends to surprise everyone. Regular private tuition changes the picture faster than families expect, because the issue was usually something specific all along."
 about_heading: "Tutors Who Know What Portsmouth Students Need"
 schools_intro: "We work with students from secondary schools right across Portsmouth. That includes St Edmund's Catholic School, Priory School, Admiral Lord Nelson School, Mayfield School, The Portsmouth Academy and King Richard School. Many students are working towards sixth form entry or trying to hit the grade thresholds the city's colleges publish, and our tutors build sessions around those targets. We also run revision and exam preparation workshops open to students from across the city."
 schools: ["St Edmund's Catholic School", "Priory School", "Admiral Lord Nelson School", "Mayfield School", "The Portsmouth Academy", "King Richard School"]

@@ -610,6 +610,16 @@ The first 3 will be visible immediately. The last 3 appear under "Show more revi
 
    **Do not open every sentence with the subject.** Vary it. Start with a time phrase, a condition, a short observation, a question. Mix it up.
 
+   **Avoid 3-item parallel lists.** AI loves triplets: "calculation steps, essay structure, and the small technical things" or "the topic, the exam board, the way they're losing marks". One or two specific examples reads more human than three balanced ones. If you write three, cut one. The exception is when the third item is a punchline or breaks the pattern of the first two.
+
+   **Avoid "isn't X, it's Y" framings more than once per page.** The structure "Not a content gap. It's an exam technique gap" is a strong AI tell. It's fine to use once for emphasis. Used twice in one section, it becomes pattern noise. Vary how you draw contrasts.
+
+   **No soft closing platitudes.** AI ends paragraphs with neat summary lines like "the change they see first isn't the grades, it's the attitude" or "the difference shows up faster than parents expect". Humans tend to end paragraphs on an unresolved observation or a concrete detail, not a wrapped-up moral. If your closing sentence feels like a bow on the paragraph, cut it or replace it with something specific.
+
+   **Concrete beats abstract every time.** "What each student actually needs" is abstract and AI-typical. "A fractions concept from Year 8, an algebra method that never got drilled" is concrete and human. When you describe what a tutor finds or fixes, name a real topic, a real year group, a real type of question. If the writing could describe any subject in any town, push harder for specifics.
+
+   **Polished, balanced prose is the AI default.** All-medium-length sentences, all-grammatical, all-flowing reads like an AI even when the content is correct. Deliberately leave a rougher edge: a fragment, a question, a sentence that starts with And or But, a deliberate restart mid-thought. If a paragraph reads like a corporate brochure, it's too smooth.
+
 4. **No em dashes anywhere.** Do not use the em-dash character (the long dash that looks like this: U+2014) in any field. Em-dashes are a strong AI tell, families and Google both notice. Use a comma, a colon, a full stop, or rewrite the sentence instead. This applies to every single field including banners, intros, schools, online sections, FAQs, reviews, and accordion bodies. Before saving, scan every field once for em-dashes and replace any you find.
 
 5. **No placeholder language.** Words like "cutting-edge", "bespoke", "transformative", "unlock potential", "embark on a journey", or "world-class" are banned. Write specifically, not generically.
@@ -678,6 +688,10 @@ Use as a vocabulary bank, weave concepts into original sentences, never copy ver
 - [ ] Are subject descriptions rewritten for this location rather than copied from the default bank?
 - [ ] Do at least a few subject descriptions reflect this page's content angle or local school context?
 - [ ] Does the writing have genuine burstiness, are there short sentences, fragments, and paragraph length variation throughout?
+- [ ] Are there any 3-item parallel lists you could cut to 1 or 2?
+- [ ] Does the "isn't X, it's Y" framing appear more than once in any single section?
+- [ ] Do any paragraphs end on a soft summary line that could be cut or replaced with a concrete observation?
+- [ ] Do all references to what a tutor finds or fixes name a real topic, year group, or question type rather than an abstract "what each student needs"?
 - [ ] Are there zero banned words (landscape, foster, navigate, delve, crucial, realm, testament, pivotal, seamless, robust, vibrant, tapestry, furthermore, moreover)?
 - [ ] Does every section feel like it could only be about this specific location, not any city in the UK?
 - [ ] Are there any three consecutive paragraphs of the same length? If so, fix one.

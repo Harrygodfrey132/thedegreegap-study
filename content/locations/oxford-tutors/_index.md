@@ -1,10 +1,10 @@
 ---
 title: "Oxford Tutoring | GCSE & A-Level | The Degree Gap"
-description: "Looking for an Oxford tutor for GCSE or A-Level? The Degree Gap matches families with experienced tutors who know what local sixth forms expect."
+description: "Looking for an Oxford tutor for GCSE or A-Level? The Degree Gap tutoring matches families with experienced tutors who know what local sixth forms expect."
 layout: "single"
 location: "Oxford"
 banner_heading: "Want an Oxford tutor who knows what the top sixth forms expect?"
-banner_description: "The Degree Gap finds Oxford tutors who know the exact gap between a 6 and a 7, and how to close it before the next mock."
+banner_description: "The Degree Gap tutoring finds Oxford tutors who know the exact gap between a 6 and a 7, and how to close it before the next mock."
 content_angle: "ambition / competitive sixth form entry / university shadow pressure"
 intro_1: "Oxford has no grammar schools. Every state secondary is a comprehensive, so the sorting that happens in other counties through selective entry happens here through GCSE results alone. That puts unusual weight on those exams. A grade 5 keeps the door open. A 7 opens the right one. Families feel it, and with the university sitting at the centre of the city, the bar for what 'good' looks like is set higher than the curriculum alone demands."
 intro_2: "We work with Oxford families on exactly that gap. Our tutors don't run through lessons again. They sit with the student, work through past papers, and find the precise places where understanding is solid but exam technique isn't. Whether you're looking for a GCSE tutor to secure a place at a competitive sixth form, or A-Level tuition to push a B into an A, the right tutor changes how a student approaches the work, not just what they know."

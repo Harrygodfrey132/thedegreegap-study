@@ -18,7 +18,7 @@ map_url: "https://maps.google.com/maps?q=Southampton,UK&output=embed"
 about_image: "/images/handwriting-study-notes-with-highlighters.jpg"
 schools_image: "/images/students-listening-in-classroom.jpg"
 online_image: "/images/online-study-workspace-with-coffee.jpg"
-areas_intro: "The Degree Gap works with students from Southampton and surrounding towns, matching each family with the tutor best suited to their subject and goals."
+areas_intro: "The Degree Gap tutoring works with students from Southampton and surrounding towns, matching each family with the tutor best suited to their subject and goals."
 area_links: ["Portsmouth Tutors|/locations/portsmouth-tutors/", "Brighton Tutors|/locations/brighton-tutors/", "Bristol Tutors|/locations/bristol-tutors/", "Oxford Tutors|/locations/oxford-tutors/", "Reading Tutors|/locations/reading-tutors/", "Swindon Tutors|/locations/swindon-tutors/"]
 gcse_subjects: [
   "GCSE Maths Tuition|Targeted work on the specific topics blocking a student's grade, with past paper practice built in once the foundations are solid.|https://thedegreegap.com/teachers/languages/GCSE-Maths",
