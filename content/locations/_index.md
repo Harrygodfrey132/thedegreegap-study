@@ -1,4 +1,4 @@
 ---
-title: "Tutors Near You | The Degree Gap"
-description: "Find expert GCSE and A-Level tutors in your area. The Degree Gap connects students across South London and Surrey with top university graduates."
+title: "Find a Tutor Near You | The Degree Gap"
+description: "GCSE and A-Level tutoring across the UK. Browse every city we cover and jump straight to your local tutoring page."
 ---

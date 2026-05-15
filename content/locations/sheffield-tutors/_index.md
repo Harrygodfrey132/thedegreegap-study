@@ -2,7 +2,6 @@
 title: "Sheffield Tutors | Expert Support | The Degree Gap"
 description: "Find a Sheffield tutor for GCSE and A-Level support, matched to your child's subject, year group and goals."
 layout: "single"
-hero_image: "/images/hero-tutor.png"
 location: "Sheffield"
 banner_heading: "Need a Sheffield tutor who's focused on your child's next target?"
 banner_description: "Most tutoring covers content. Our Sheffield tutors find what's actually blocking progress and work on that first."
@@ -13,8 +12,8 @@ about_heading: "The Sheffield Tutors Who Get Results"
 schools_intro: "We work with students from secondary schools across Sheffield who are aiming for competitive sixth form entry or strong A-Level results and want targeted tutoring alongside their school work. Students come to us from High Storrs School, King Ecgbert School, Tapton School, Notre Dame High School, Silverdale School and Meadowhead School. We also run exam preparation and revision strategy workshops open to any Sheffield student, whatever school they attend."
 schools: ["High Storrs School", "King Ecgbert School", "Tapton School", "Notre Dame High School", "Silverdale School", "Meadowhead School"]
 online_heading: "Online tutoring for Sheffield students, with the right tutor for the subject"
-online_1: "Most of our sessions run online through Lessonspace, which gives students a shared whiteboard and a tutor focused entirely on them. The best tutor for A-Level Chemistry or GCSE History isn't always based in your part of Sheffield. Online removes that limit. Students get the specialist they need, not just whoever happens to be nearby."
-online_2: "Regular sessions are what move grades. Online makes it much easier to keep that rhythm going: no travel, no rescheduling around commutes, no missed weeks. Sheffield students who commit to weekly sessions across a term nearly always see a difference. Not just in grades, but in how the subject feels going into an exam."
+online_1: "Most of our online tutoring runs through Lessonspace, which gives students a shared whiteboard and a tutor focused entirely on them. The best tutor for A-Level Chemistry or GCSE History isn't always based in your part of Sheffield. Online removes that limit. Students get the specialist they need, not just whoever happens to be nearby."
+online_2: "Regular sessions are what move grades. Online tutoring makes it much easier to keep that rhythm going: no travel, no rescheduling around commutes, no missed weeks. Sheffield students who commit to weekly sessions across a term nearly always see a difference. Not just in grades, but in how the subject feels going into an exam."
 map_url: "https://maps.google.com/maps?q=Sheffield,UK&output=embed"
 about_image: "/images/graduation-ceremony-caps.jpg"
 schools_image: "/images/school-clock-tower-building.jpg"
@@ -22,26 +21,26 @@ online_image: "/images/student-studying-at-night-with-laptop.jpg"
 areas_intro: "Because most of our tuition is online, students in Sheffield and nearby areas can access the right subject specialist without being limited by geography."
 area_links: ["Leeds Tutors|/locations/leeds-tutors/", "Manchester Tutors|/locations/manchester-tutors/", "Nottingham Tutors|/locations/nottingham-tutors/", "Derby Tutors|/locations/derby-tutors/", "Leicester Tutors|/locations/leicester-tutors/", "Liverpool Tutors|/locations/liverpool-tutors/"]
 gcse_subjects: [
-  "Physics|Sharp problem-solving support in forces, energy and electricity for students who need to move beyond surface understanding to score well in Sheffield's AQA papers.|https://thedegreegap.com/teachers/languages/GCSE-Physics",
-  "English|Support across Language and Literature that teaches students how to build an argument and analyse a text, rather than just encouraging them to read more and hope it comes together.|https://thedegreegap.com/teachers/languages/GCSE-English",
-  "Geography|Targeted work across physical and human geography that closes the gaps left when topics move too fast, so students can answer confidently under exam conditions.|https://thedegreegap.com/teachers/languages/GCSE-Geography",
-  "Chemistry|Patient explanation of organic, inorganic and physical chemistry for students who understand parts of the course but find others aren't sticking.|https://thedegreegap.com/teachers/languages/GCSE-Chemistry",
-  "Computer Science|Step-by-step support through programming logic and algorithms, paced around the student so no concept gets left behind.|https://thedegreegap.com/teachers/languages/GCSE-Computer-Science",
-  "Biology|Clear, structured support through biological systems and exam technique for students who want to push beyond their current grade boundary.|https://thedegreegap.com/teachers/languages/GCSE-Biology",
-  "French|Focused practice in speaking, reading and writing that builds genuine confidence rather than just enough to scrape through the listening paper.|https://thedegreegap.com/teachers/languages/GCSE-French",
-  "Maths|One-to-one support in number, algebra, geometry and statistics that gives students time to ask questions and work through problems in a way a classroom of thirty rarely allows.|https://thedegreegap.com/teachers/languages/GCSE-Maths",
-  "History|Support across source analysis, essay structure and content recall that helps students stop dropping marks they actually deserve to pick up.|https://thedegreegap.com/teachers/languages/GCSE-History",
+  "GCSE Physics Tuition|Sharp problem-solving support in forces, energy and electricity for students who need to move beyond surface understanding to score well in Sheffield's AQA papers.|https://thedegreegap.com/teachers/languages/GCSE-Physics",
+  "GCSE English Tuition|Support across Language and Literature that teaches students how to build an argument and analyse a text, rather than just encouraging them to read more and hope it comes together.|https://thedegreegap.com/teachers/languages/GCSE-English",
+  "GCSE Geography Tuition|Targeted work across physical and human geography that closes the gaps left when topics move too fast, so students can answer confidently under exam conditions.|https://thedegreegap.com/teachers/languages/GCSE-Geography",
+  "GCSE Chemistry Tuition|Patient explanation of organic, inorganic and physical chemistry for students who understand parts of the course but find others aren't sticking.|https://thedegreegap.com/teachers/languages/GCSE-Chemistry",
+  "GCSE Computer Science Tuition|Step-by-step support through programming logic and algorithms, paced around the student so no concept gets left behind.|https://thedegreegap.com/teachers/languages/GCSE-Computer-Science",
+  "GCSE Biology Tuition|Clear, structured support through biological systems and exam technique for students who want to push beyond their current grade boundary.|https://thedegreegap.com/teachers/languages/GCSE-Biology",
+  "GCSE French Tuition|Focused practice in speaking, reading and writing that builds genuine confidence rather than just enough to scrape through the listening paper.|https://thedegreegap.com/teachers/languages/GCSE-French",
+  "GCSE Maths Tuition|One-to-one support in number, algebra, geometry and statistics that gives students time to ask questions and work through problems in a way a classroom of thirty rarely allows.|https://thedegreegap.com/teachers/languages/GCSE-Maths",
+  "GCSE History Tuition|Support across source analysis, essay structure and content recall that helps students stop dropping marks they actually deserve to pick up.|https://thedegreegap.com/teachers/languages/GCSE-History",
 ]
 alevel_subjects: [
-  "Economics|Support through micro and macroeconomic models that makes the content feel concrete, with a tutor who can adjust pace when a concept isn't landing.|https://thedegreegap.com/teachers/languages/A-level-Economics",
-  "History|Building the extended analytical writing that A-Level History demands, working through argument structure, evidence selection and exam timing.|https://thedegreegap.com/teachers/languages/A-level-History",
-  "Maths|Expert support across pure maths, mechanics and statistics, finding where the A-Level difficulty became too much and rebuilding from that point.|https://thedegreegap.com/teachers/languages/A-level-Maths",
-  "Geography|Advanced geographical concepts and extended writing with patient support for students who want to close the gap between what they understand and what they can produce on paper.|https://thedegreegap.com/teachers/languages/A-level-Geography",
-  "English|Working through critical analysis and essay construction at a pace that helps students develop their own reading of a text, not just guess at what the examiner wants.|https://thedegreegap.com/teachers/languages/A-level-English",
-  "Psychology|Clear, methodical support through approaches, research methods and essay technique for students who find the volume of A-Level content hard to manage without help.|https://thedegreegap.com/teachers/languages/A-level-Psychology",
-  "Biology|Detailed guidance through advanced biological systems for students who found the step up from GCSE harder than expected and need someone to explain it differently.|https://thedegreegap.com/teachers/languages/A-level-Biology",
-  "Physics|Focused tuition in mechanics, fields and quantum physics for A-Level students who've hit a wall and need a tutor willing to go back and break it down properly.|https://thedegreegap.com/teachers/languages/A-level-Physics",
-  "Chemistry|Working through organic, inorganic and physical chemistry with tutors who explain concepts from a different angle when the first explanation hasn't landed.|https://thedegreegap.com/teachers/languages/A-level-Chemistry",
+  "A-Level Economics Tuition|Support through micro and macroeconomic models that makes the content feel concrete, with a tutor who can adjust pace when a concept isn't landing.|https://thedegreegap.com/teachers/languages/A-level-Economics",
+  "A-Level History Tuition|Building the extended analytical writing that A-Level History demands, working through argument structure, evidence selection and exam timing.|https://thedegreegap.com/teachers/languages/A-level-History",
+  "A-Level Maths Tuition|Expert support across pure maths, mechanics and statistics, finding where the A-Level difficulty became too much and rebuilding from that point.|https://thedegreegap.com/teachers/languages/A-level-Maths",
+  "A-Level Geography Tuition|Advanced geographical concepts and extended writing with patient support for students who want to close the gap between what they understand and what they can produce on paper.|https://thedegreegap.com/teachers/languages/A-level-Geography",
+  "A-Level English Tuition|Working through critical analysis and essay construction at a pace that helps students develop their own reading of a text, not just guess at what the examiner wants.|https://thedegreegap.com/teachers/languages/A-level-English",
+  "A-Level Psychology Tuition|Clear, methodical support through approaches, research methods and essay technique for students who find the volume of A-Level content hard to manage without help.|https://thedegreegap.com/teachers/languages/A-level-Psychology",
+  "A-Level Biology Tuition|Detailed guidance through advanced biological systems for students who found the step up from GCSE harder than expected and need someone to explain it differently.|https://thedegreegap.com/teachers/languages/A-level-Biology",
+  "A-Level Physics Tuition|Focused tuition in mechanics, fields and quantum physics for A-Level students who've hit a wall and need a tutor willing to go back and break it down properly.|https://thedegreegap.com/teachers/languages/A-level-Physics",
+  "A-Level Chemistry Tuition|Working through organic, inorganic and physical chemistry with tutors who explain concepts from a different angle when the first explanation hasn't landed.|https://thedegreegap.com/teachers/languages/A-level-Chemistry",
 ]
 other_subjects: [
   "University Personal Statement|Shape a strong UCAS personal statement with expert support on structure, subject motivation, and final polish.|https://thedegreegap.com/teachers/languages/Personal-Statement",
@@ -59,7 +58,7 @@ why_para_1: "When a Sheffield student starts with a tutor, the first session rar
 why_para_2: "Our tutors start by looking at recent work, not just asking what topics have been covered. They find where marks are being dropped and why. For many Sheffield students, the issue is exam technique rather than content knowledge. They understand the biology, but can't structure a six-mark answer. They know the history, but run out of time. Families usually notice a change in confidence before they see a change in grades. Both tend to follow within a few weeks of regular sessions."
 accordion_quality: "Every tutor working with Sheffield students is vetted on subject knowledge, exam board familiarity and the ability to explain things clearly. AQA is the dominant board in Sheffield schools, and we factor that into who we suggest."
 accordion_experience: "Our tutors have worked with students targeting competitive Sheffield sixth forms as well as those who need to close gaps from earlier years. They know the difference between a student who needs exam technique and one who needs to rebuild foundations, and they adapt accordingly."
-accordion_personalised: "Sheffield students come to us with different targets. Some need a specific grade for sixth form entry. Others want to push from a 6 to an 8. Every session is built around that student's next target, not a generic plan."
+accordion_personalised: "Sheffield students come to us for tutoring with different targets. Some need a specific grade for sixth form entry. Others want to push from a 6 to an 8. Every session is built around that student's next target, not a generic plan."
 reviews: [
   "Alison|Parent of A-Level Student|My son has been receiving tutor lessons in A Level History and A Level Sociology since the beginning of this year. The tutor has been such a tremendous support, teaching him content as well as exam technique.",
   "Serena|A-Level Student|My tutor is a very intuitive and superb teacher. She listened to my specific concerns and bolstered my confidence in answering questions. She taught me how to think critically and helped me through this highly demanding course. I will happily recommend without a second thought.",

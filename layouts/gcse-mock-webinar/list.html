@@ -1,0 +1,136 @@
+{{ define "main" }}
+<section class="webinar-page">
+  <div class="container webinar-container">
+
+    <!-- Badge bar -->
+    <div class="webinar-badge-bar">
+      <div class="webinar-badge">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+        <span>WINNER — GCSE SPECIALISTS OF THE YEAR 2025</span>
+      </div>
+      <p class="webinar-badge-bar__note">Want a personal recommendation? Call us on <a href="tel:07859965776">07859 965776</a></p>
+    </div>
+
+    <!-- Hero card -->
+    <article class="webinar-hero">
+      <div class="webinar-hero__media">
+        <img src="/images/webinar-hero.png" alt="Harry Godfrey presenting a GCSE mock preparation masterclass to a school audience" loading="eager" decoding="async" fetchpriority="high">
+      </div>
+      <div class="webinar-hero__body">
+        <span class="webinar-pill">MOCK SEASON ESSENTIALS</span>
+        <h1>The 45-minute masterclass every parent should watch before mocks</h1>
+        <p class="webinar-hero__status">Registrations are currently paused.</p>
+        <a href="#stay-in-the-loop" class="btn btn-primary btn-lg">Be the first to know about the next one</a>
+      </div>
+    </article>
+
+    <!-- Free resources -->
+    <section class="webinar-section webinar-section--quiet">
+      <h2>Want access to free resources?</h2>
+      <p>While the live webinar isn't running, you can still tap into our parent resource library on the main site. <a href="https://thedegreegap.com/" target="_blank" rel="noopener"><strong>Browse free GCSE resources →</strong></a></p>
+    </section>
+
+    <!-- Stay in the loop (replaces the original signup form) -->
+    <section class="webinar-section webinar-cta" id="stay-in-the-loop">
+      <div class="webinar-cta__copy">
+        <h2>Hear about the next webinar</h2>
+        <p>This webinar isn't currently running. We host parent sessions a few times a year on the topics that come up most: mock preparation, revision strategy, sixth form applications, UCAS.</p>
+        <p>Drop us a line and we'll let you know the moment the next one opens for registration.</p>
+        <p class="webinar-cta__features">As featured in <strong>Forbes</strong> and <strong>The Independent</strong>. We respect your inbox, you can unsubscribe with one click.</p>
+      </div>
+      <div class="webinar-cta__action">
+        <a href="mailto:admin@thedegreegap.com?subject=Notify%20me%20about%20the%20next%20parent%20webinar" class="btn btn-primary btn-lg webinar-cta__btn">Email admin@thedegreegap.com</a>
+        <p class="webinar-cta__small">Or call us on <a href="tel:07859965776">07859 965776</a></p>
+      </div>
+    </section>
+
+    <!-- Hosts -->
+    <section class="webinar-section webinar-hosts">
+      <div class="webinar-hosts__photos">
+        <img src="/images/loc-2.png" alt="Joe, co-founder of The Degree Gap" loading="lazy" class="webinar-hosts__avatar webinar-hosts__avatar--joe">
+        <img src="/images/harry-godfrey.jpg" alt="Harry Godfrey, co-founder of The Degree Gap" loading="lazy" class="webinar-hosts__avatar webinar-hosts__avatar--harry">
+      </div>
+      <div class="webinar-hosts__copy">
+        <h2>Meet your hosts: Joe &amp; Harry</h2>
+        <p>Joe and Harry, co-founders of <strong>The Degree Gap</strong>, have guided thousands of families through GCSEs. Their work has been featured in <strong>Forbes</strong> and <strong>The Independent</strong>, pairing high-impact academic strategy with practical support that fits real family life.</p>
+        <p>Expect a calm, confidence-building approach that turns mock season from a stress cycle into a structured plan you and your teen can follow together.</p>
+      </div>
+    </section>
+
+    <!-- Agenda -->
+    <section class="webinar-section">
+      <h2 class="webinar-section__centered">In this 45-minute masterclass, you will discover:</h2>
+      <ul class="webinar-agenda">
+        <li><span>Why mocks can make or break motivation,</span> and how to turn them into a springboard for progress rather than panic.</li>
+        <li><span>The proven RAG-rate roadmap</span> top tutors use to channel revision time into the highest-impact actions.</li>
+        <li><span>Early signs of burnout to watch for,</span> alongside reset routines that rebuild focus with minimal friction.</li>
+        <li><span>Conversation frameworks for keeping communication calm</span> and collaborative through the toughest term of the year.</li>
+      </ul>
+      <p class="webinar-agenda__note">Every takeaway is designed to give you clarity, structure, and confidence so you can support your child without confrontation or confusion.</p>
+    </section>
+
+    <!-- FAQ -->
+    <section class="webinar-section">
+      <h2>Frequently asked questions</h2>
+      <div class="webinar-faq">
+        <details>
+          <summary>How do I watch the webinar?</summary>
+          <p>The live event is currently paused. When the next session opens, registrants receive a link by email along with the replay afterwards.</p>
+        </details>
+        <details>
+          <summary>What if I can't make the scheduled time?</summary>
+          <p>Register and we'll send the replay, a printable workbook, and next steps so you can catch up at your pace.</p>
+        </details>
+        <details>
+          <summary>Got another question?</summary>
+          <p>Email us at <a href="mailto:admin@thedegreegap.com">admin@thedegreegap.com</a> and our team will respond within one working day.</p>
+        </details>
+      </div>
+    </section>
+
+    <!-- Popular areas -->
+    {{ $locationPages := where .Site.Pages "Section" "locations" }}
+    {{ $locationPages = where $locationPages "Kind" "section" }}
+    {{ $locationPages = where $locationPages "Params.layout" "single" }}
+    {{ $cards := slice }}
+    {{ range ($locationPages.ByParam "location") }}
+      {{ if ne .RelPermalink "/locations/" }}
+        {{ $cards = $cards | append . }}
+      {{ end }}
+    {{ end }}
+    {{ if $cards }}
+    <section class="webinar-section webinar-areas">
+      <h2 class="webinar-section__centered">Popular areas we cover</h2>
+      <p class="webinar-section__centered webinar-areas__lead">Browse our local tutoring pages or jump straight to the city closest to you.</p>
+      <div class="webinar-areas__grid">
+        {{ range first 12 $cards }}
+        <a href="{{ .RelPermalink }}" class="webinar-area-card">
+          <span>{{ .Params.location | default .Title }}</span>
+          <small>Find a tutor →</small>
+        </a>
+        {{ end }}
+      </div>
+      <div class="webinar-areas__view-all">
+        <a href="/locations/" class="btn btn-outline">View all locations</a>
+      </div>
+    </section>
+    {{ end }}
+
+    <!-- Testimonials -->
+    <section class="webinar-section webinar-testimonials">
+      <h2 class="webinar-section__centered">What parents say about working with The Degree Gap</h2>
+      <div class="webinar-testimonial-grid">
+        <blockquote>
+          <p>"Harry was amazing. He helped me shape my personal statement into something I was truly proud of, and thanks to his support I got into my dream university. Couldn't have done it without him, highly recommend to anyone applying to uni."</p>
+          <footer>— Aila, accepted into UCL</footer>
+        </blockquote>
+        <blockquote>
+          <p>"The Degree Gap gave our son the support he needed for his iGCSEs, especially in Maths and Economics. Lessons were clear, engaging, and built his confidence. Highly recommended."</p>
+          <footer>— Isabel H., iGCSE parent</footer>
+        </blockquote>
+      </div>
+    </section>
+
+  </div>
+</section>
+{{ end }}

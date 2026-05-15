@@ -2908,6 +2908,23 @@ p:last-child { margin-bottom: 0; }
   align-items: start;
 }
 .loc-about__image { border-radius: 16px; overflow: hidden; }
+.loc-about__cta {
+  margin-top: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.6rem;
+}
+.loc-about__cta .loc-hero__pricing { margin: 0; }
+.loc-about__cta .loc-hero__rating {
+  align-self: flex-start;
+  width: auto;
+  max-width: 100%;
+  padding: 8px 14px;
+  font-size: 0.9rem;
+}
+.loc-about__cta .loc-hero__score { font-size: 1rem; }
+.loc-about__cta .loc-hero__stars { font-size: 1rem; }
 .loc-about__copy h2 { font-size: clamp(1.7rem, 3vw, 2.5rem); margin-bottom: 1rem; }
 
 /* Accordion — styled as individual cards */
@@ -3067,7 +3084,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 .loc-subject-list { list-style: none; }
 .loc-subject-item {
   display: grid;
-  grid-template-columns: 72px 1fr 1fr auto;
+  grid-template-columns: 64px 1.1fr 2fr auto;
   gap: 16px 24px;
   align-items: center;
   padding: 26px 32px;
@@ -3090,8 +3107,8 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   opacity: 0.4;
   line-height: 1;
 }
-.loc-subject-name { font-size: 1rem; font-weight: 700; }
-.loc-subject-desc { font-size: 0.88rem; color: var(--text-muted); margin: 0; line-height: 1.6; }
+.loc-subject-name { font-size: 1.05rem; font-weight: 700; }
+.loc-subject-desc { font-size: 1rem; color: var(--text-muted); margin: 0; line-height: 1.65; }
 
 /* --- Schools --- */
 .loc-schools { overflow: hidden; }
@@ -3164,6 +3181,30 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 
 /* --- Areas grid --- */
 .loc-areas { padding: 100px 0; background: var(--cream); }
+.loc-areas__grid--more { margin-top: 14px; }
+.loc-areas__toggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  margin: 1.5rem auto 0;
+  width: fit-content;
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 10px 20px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  color: var(--text);
+}
+.loc-areas__toggle:hover { border-color: rgba(128,0,32,0.4); }
+.loc-areas__view-all { margin-top: 1.5rem; }
+.loc-areas__view-all .btn {
+  display: block;
+  width: fit-content;
+  margin: 0 auto;
+}
 .loc-areas__title { text-align: center; font-size: clamp(2rem, 3.5vw, 2.8rem); margin-bottom: 0.75rem; }
 .loc-areas__lead { text-align: center; max-width: 720px; margin: 0 auto 2.75rem; color: var(--text-muted); line-height: 1.75; }
 .loc-areas__grid {
@@ -4711,63 +4752,26 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   letter-spacing: 0.01em;
 }
 
-/* right-hand credential panel */
-.gs-schools__panel {
-  background: var(--burgundy-dark);
+/* right-hand school image */
+.gs-schools__image {
   border-radius: 16px;
-  padding: 2.5rem;
+  overflow: hidden;
+  aspect-ratio: 3/4;
+  background: var(--cream-alt, #ede8e0);
   display: flex;
-  flex-direction: column;
-  gap: 0;
+  align-items: center;
+  justify-content: center;
   position: sticky;
   top: 120px;
 }
-.gs-schools__panel-eyebrow {
-  font-size: 0.7rem;
-  text-transform: uppercase;
-  letter-spacing: 0.12em;
-  color: rgba(255,255,255,0.45);
-  margin-bottom: 2rem;
-}
-.gs-schools__stat {
+.loc-img-placeholder--school {
+  width: 100%;
+  height: 100%;
   display: flex;
-  flex-direction: column;
-  gap: 0.3rem;
-  padding: 1.5rem 0;
-}
-.gs-schools__stat-divider {
-  height: 1px;
-  background: rgba(255,255,255,0.1);
-}
-.gs-schools__stat-num {
-  font-size: clamp(1.5rem, 3.5vw, 2rem);
-  font-weight: 800;
-  color: #fff;
-  line-height: 1.1;
-  font-family: Georgia, serif;
-}
-.gs-schools__stat-label {
-  font-size: 0.8rem;
-  color: rgba(255,255,255,0.55);
-  line-height: 1.5;
-}
-.gs-schools__panel-cta {
-  display: inline-block;
-  margin-top: 2rem;
-  padding: 0.85rem 1.5rem;
-  background: rgba(255,255,255,0.1);
-  border: 1px solid rgba(255,255,255,0.2);
-  border-radius: 8px;
-  color: #fff;
-  font-size: 0.875rem;
-  font-weight: 600;
-  text-decoration: none;
-  transition: background 0.18s ease;
-  text-align: center;
-}
-.gs-schools__panel-cta:hover {
-  background: rgba(255,255,255,0.18);
-  color: #fff;
+  align-items: center;
+  justify-content: center;
+  background: #ede8e0;
+  color: #b0a090;
 }
 
 .gs-hero + .gs-timeline,
@@ -4853,6 +4857,120 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   border: 2px solid rgba(128,0,32,0.12);
   border-radius: 14px;
   pointer-events: none;
+}
+.gs-founder__video {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+.gs-founder__video-label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--color-crimson, #800020);
+  text-transform: uppercase;
+}
+.gs-founder__video .loc-lite-video {
+  width: 100%;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 24px 60px rgba(35,23,17,0.13);
+}
+.gs-founder__video .loc-lite-video__button {
+  aspect-ratio: 16/9;
+}
+.gs-founder__video .loc-lite-video__button img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* ── Local GCSE Picture section ── */
+.gs-local-picture {
+  background: var(--burgundy-dark, #3d0010);
+  padding: 80px 0;
+}
+.gs-local-picture__eyebrow {
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.45);
+  margin-bottom: 3rem;
+  text-align: center;
+}
+.gs-local-picture__stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0;
+  margin-bottom: 4rem;
+}
+.gs-local-picture__card {
+  padding: 0 2.5rem;
+  border-right: 1px solid rgba(255,255,255,0.1);
+  text-align: left;
+}
+.gs-local-picture__card:first-child {
+  padding-left: 0;
+}
+.gs-local-picture__card:last-child {
+  border-right: none;
+}
+.gs-local-picture__stat {
+  font-size: clamp(1.5rem, 3.5vw, 2.1rem);
+  font-weight: 700;
+  color: #fff;
+  line-height: 1.15;
+  margin-bottom: 0.35rem;
+  display: block;
+}
+.gs-local-picture__stat-label {
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: rgba(255,255,255,0.45);
+  display: block;
+  margin-bottom: 1rem;
+}
+.gs-local-picture__stat-note {
+  font-size: 0.875rem;
+  color: rgba(255,255,255,0.65);
+  line-height: 1.65;
+  margin: 0;
+}
+.gs-local-picture__editorial {
+  border-top: 1px solid rgba(255,255,255,0.1);
+  padding-top: 3rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem;
+  align-items: start;
+}
+.gs-local-picture__editorial h2 {
+  font-size: clamp(1.4rem, 3vw, 1.85rem);
+  color: #fff;
+  margin-bottom: 0;
+  line-height: 1.3;
+}
+.gs-local-picture__editorial-copy p {
+  color: rgba(255,255,255,0.65);
+  line-height: 1.75;
+  margin-bottom: 0.75rem;
+  font-size: 0.95rem;
+}
+.gs-local-picture__editorial-copy p:last-child {
+  margin-bottom: 0;
+}
+@media (max-width: 900px) {
+  .gs-local-picture__stats { grid-template-columns: 1fr; gap: 2.5rem; }
+  .gs-local-picture__card { padding: 0; border-right: none; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 2rem; }
+  .gs-local-picture__card:last-child { border-bottom: none; padding-bottom: 0; }
+  .gs-local-picture__editorial { grid-template-columns: 1fr; gap: 1.5rem; }
 }
 
 /* ── Section 3c: GCSE Tutor strip ── */
@@ -5001,6 +5119,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   .gs-timeline__card     { min-height: auto; }
   .gs-founder__inner     { grid-template-columns: 1fr; gap: 3rem; }
   .gs-founder__photo     { max-width: 380px; }
+  .gs-founder__video     { max-width: 480px; }
   .gs-tutor-strip__inner { grid-template-columns: 1fr; gap: 2.5rem; }
   .gs-tutor-strip__gallery { grid-template-columns: repeat(4, 1fr); }
   .gs-process__steps     { grid-template-columns: 1fr; gap: 1.25rem; }
@@ -5016,11 +5135,10 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   .gs-timeline__items    { grid-template-columns: 1fr; gap: 2rem; }
   .gs-timeline__stem     { height: 16px; }
   .gs-schools__inner     { grid-template-columns: 1fr; gap: 3rem; }
-  .gs-schools__panel     { position: static; }
+  .gs-schools__image     { position: static; aspect-ratio: 16/9; max-width: 480px; }
   .gs-editorial          { background-attachment: scroll; }
   .gs-timeline__header   { margin-bottom: 2.5rem; text-align: left; justify-content: flex-start; }
   .gs-timeline__intro    { margin: 0; }
-  .gs-schools__panel     { padding: 2rem; }
   .gs-tutor-strip__gallery { grid-template-columns: repeat(3, 1fr); }
   .gs-tutor-card:nth-child(n+9) { display: none; }
   .gs-tutor-strip__actions { flex-direction: column; }
@@ -5046,4 +5164,279 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   .gs-subject-card       { min-height: auto; }
   .gs-schools__stat      { padding: 1.25rem 0; }
   .gs-bigreview__stars   { letter-spacing: 1px; }
+}
+
+/* ============================================================
+   GCSE Mock Webinar page (/gcse-mock-webinar/)
+   ============================================================ */
+.webinar-page { padding: 56px 0 96px; background: #fafaf7; }
+.webinar-container { max-width: 980px; }
+
+.webinar-badge-bar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 32px;
+  text-align: center;
+}
+.webinar-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--burgundy);
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  font-size: 0.95rem;
+}
+.webinar-badge-bar__note { color: var(--text); font-size: 0.95rem; margin: 0; }
+.webinar-badge-bar__note a { color: var(--text); font-weight: 700; text-decoration: none; border-bottom: 1px solid currentColor; }
+
+.webinar-hero {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  align-items: center;
+  padding: 36px;
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 24px;
+  box-shadow: 0 8px 28px rgba(35, 23, 17, 0.06);
+  margin-bottom: 36px;
+}
+.webinar-hero__media {
+  border-radius: 16px;
+  overflow: hidden;
+  aspect-ratio: 4 / 3;
+  background: linear-gradient(135deg, #1f2a44 0%, #2c3a5a 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.webinar-hero__media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.webinar-pill {
+  display: inline-block;
+  background: #fb923c;
+  color: #fff;
+  padding: 6px 14px;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-bottom: 16px;
+}
+.webinar-hero__body h1 {
+  font-size: clamp(1.75rem, 3vw, 2.4rem);
+  line-height: 1.2;
+  margin: 0 0 16px;
+}
+.webinar-hero__status {
+  color: var(--text-muted);
+  font-size: 1rem;
+  margin: 0 0 20px;
+}
+
+.webinar-section {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  padding: 32px 36px;
+  margin-bottom: 28px;
+}
+.webinar-section h2 {
+  font-size: clamp(1.4rem, 2.4vw, 1.85rem);
+  margin: 0 0 16px;
+}
+.webinar-section p { font-size: 1rem; line-height: 1.65; margin: 0 0 12px; }
+.webinar-section p:last-child { margin-bottom: 0; }
+.webinar-section a:not(.btn):not(.webinar-area-card) { color: var(--burgundy); text-decoration: none; border-bottom: 1px solid rgba(128, 0, 32, 0.25); }
+.webinar-section a:not(.btn):not(.webinar-area-card):hover { border-bottom-color: var(--burgundy); }
+.webinar-section__centered { text-align: center; }
+.webinar-section--quiet { background: #f6f3ec; }
+
+.webinar-cta {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr;
+  gap: 32px;
+  align-items: center;
+}
+.webinar-cta__features {
+  font-size: 0.88rem;
+  color: var(--text-muted);
+  margin-top: 16px !important;
+}
+.webinar-cta__action { text-align: center; }
+.webinar-cta__btn { word-break: break-word; }
+.webinar-cta__small {
+  margin-top: 12px !important;
+  font-size: 0.88rem;
+  color: var(--text-muted);
+}
+
+.webinar-hosts {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 32px;
+  align-items: center;
+}
+.webinar-hosts__photos {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.webinar-hosts__photos img {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  object-fit: cover;
+  background: #1a2a47;
+}
+
+.webinar-agenda {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 16px;
+  display: grid;
+  gap: 14px;
+}
+.webinar-agenda li {
+  padding-left: 26px;
+  position: relative;
+  line-height: 1.6;
+}
+.webinar-agenda li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.55em;
+  width: 14px;
+  height: 2px;
+  background: var(--burgundy);
+}
+.webinar-agenda li span { font-weight: 700; }
+.webinar-agenda__note {
+  text-align: center;
+  font-style: italic;
+  color: var(--text-muted);
+}
+
+.webinar-faq details {
+  border-top: 1px solid var(--border);
+  padding: 14px 0;
+}
+.webinar-faq details:last-child { border-bottom: 1px solid var(--border); }
+.webinar-faq summary {
+  cursor: pointer;
+  font-weight: 700;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+}
+.webinar-faq summary::after {
+  content: "+";
+  font-size: 1.4rem;
+  color: var(--burgundy);
+  line-height: 1;
+}
+.webinar-faq details[open] summary::after { content: "−"; }
+.webinar-faq details p { margin-top: 10px; }
+
+.webinar-testimonials { background: #fdf5ec; border-color: rgba(251, 146, 60, 0.2); }
+.webinar-testimonial-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+.webinar-testimonial-grid blockquote {
+  margin: 0;
+  background: #fff;
+  border-radius: 14px;
+  padding: 22px 24px;
+  border: 1px solid rgba(35, 23, 17, 0.06);
+}
+.webinar-testimonial-grid p { font-style: italic; color: var(--text); }
+.webinar-testimonial-grid footer {
+  margin-top: 12px;
+  font-weight: 700;
+  text-align: right;
+  color: var(--text);
+  font-size: 0.92rem;
+}
+
+@media (max-width: 900px) {
+  .webinar-hero { grid-template-columns: 1fr; padding: 24px; }
+  .webinar-cta { grid-template-columns: 1fr; text-align: left; }
+  .webinar-cta__action { text-align: left; }
+  .webinar-hosts { grid-template-columns: 1fr; }
+  .webinar-hosts__photos { flex-direction: row; }
+  .webinar-testimonial-grid { grid-template-columns: 1fr; }
+  .webinar-section { padding: 24px; }
+}
+
+.webinar-hero__media-pattern {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #f4c430;
+}
+.webinar-hosts__avatar {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  background: #1a2a47;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #f4c430;
+  font-weight: 800;
+  font-size: 2.2rem;
+  font-family: var(--font-heading);
+  object-fit: cover;
+  overflow: hidden;
+}
+.webinar-hosts__avatar img { width: 100%; height: 100%; object-fit: cover; }
+
+.webinar-areas__lead { color: var(--text-muted); margin-bottom: 22px !important; }
+.webinar-areas__grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+  margin-bottom: 22px;
+}
+.webinar-area-card {
+  background: #fafaf7;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 14px 16px;
+  text-decoration: none !important;
+  color: var(--text) !important;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  transition: border-color 0.15s, transform 0.15s, box-shadow 0.15s;
+}
+.webinar-area-card:hover {
+  border-color: rgba(128, 0, 32, 0.35);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 14px rgba(35, 23, 17, 0.06);
+}
+.webinar-area-card span { font-weight: 700; font-size: 1rem; }
+.webinar-area-card small { color: var(--burgundy); font-size: 0.82rem; font-weight: 600; }
+.webinar-areas__view-all { text-align: center; }
+
+@media (max-width: 900px) {
+  .webinar-areas__grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 480px) {
+  .webinar-areas__grid { grid-template-columns: 1fr; }
 }

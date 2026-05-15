@@ -25,8 +25,12 @@ These pages must rank for tutoring searches. Google needs to see the target keyw
 3. **Banner description** — must contain "tutor", "tutors", or "tutoring".
 4. **intro_1 or intro_2** — together these two paragraphs must use "tutor", "tutors", "tutoring", or "tuition" at least three times naturally.
 5. **schools_intro** — must use "tutor", "tutors", or "tutoring" at least once.
-6. **online_heading** — must contain "tutor", "tutors", "tutoring", or "tuition".
-7. **online_1 or online_2** — must use "tutor" or "tutoring" at least twice.
+6. **online_heading** — must contain "online tutor", "online tutoring", or "online tuition" (the word "online" plus a tutoring keyword, together).
+7. **online_1 + online_2 together** — must use "online tutoring", "online tuition", or "online tutor" at least twice across the two paragraphs. "Online" on its own does not count; it has to sit next to a tutoring keyword. This is the page's main online-tuition SEO surface, so do not under-weight it.
+8. **why_heading** — must contain "tutor", "tutoring", "tuition", or "tutoring services". Generic headings like "Why families choose us" waste this position.
+9. **about_heading** — every approved option already pairs the location with "tutor/tutoring/tuition"; keep it that way when substituting.
+10. **why_para_1 + why_para_2 together** — must use "tutor", "tutoring", "tuition", "GCSE tutoring/tutor", or "A-Level tutoring/tutor" at least 3 times naturally across the two paragraphs. The Why section is a major SEO surface. Generic copy that describes patterns without ever using these keywords (e.g. "students arrive with the same pattern... our sessions target the specific gaps") wastes it. Weave the keywords into how you describe what the tutor does.
+11. **accordion_quality, accordion_experience, accordion_personalised** — each accordion body must contain "tutor", "tutoring", or "tuition" at least once. These bodies sit inside the Why section and reinforce the keyword cluster.
 
 **Keyword variations to use naturally throughout:**
 - tutor / tutors / tutoring / tuition
@@ -195,7 +199,7 @@ The file body should be empty after the closing `---`. All content is driven by 
 
 Do not leave image fields blank. Do not invent paths. Choose from the options below only.
 
-**`hero_image` — do not set this field.** The hero section uses a CSS circle graphic, not a photo. Leave it out of the frontmatter entirely.
+**`hero_image` — do not set this field.** The template already hard-codes Harry Godfrey's portrait (`/images/hero-tutor.png`) as the hero image for every location page. Omit it from frontmatter.
 
 ### About Image Gallery (`about_image`)
 
@@ -352,6 +356,7 @@ You don't have to answer all of these. Pick the one or two that feel most true f
 - No placeholder language.
 - British English.
 - These should feel like they belong to this page — not like recycled generic copy.
+- **Keyword density matters here.** This is the section Qamar specifically flagged as reading too generic on early pages. `why_para_1 + why_para_2` together must use "tutor", "tutoring", "tuition", "GCSE tutoring", or "A-Level tutoring" at least 3 times. Each of the three accordion bodies must use "tutor", "tutoring", or "tuition" at least once. Don't write around the keyword — write through it. "Our tutors find..." beats "We find...". "GCSE tutoring sessions start with..." beats "Sessions start with...".
 
 ### Academic Subjects (names and URLs fixed — descriptions original per page)
 
@@ -377,38 +382,40 @@ The description should be one concise sentence, around 15–20 words. It must fe
 
 **Subject names and URLs (fixed):**
 
+Use the full descriptive name as the card title (e.g. `GCSE Maths Tuition`, not just `Maths`). This fills the card layout properly and adds keyword weight on every card.
+
 GCSE:
-- Maths → `https://thedegreegap.com/teachers/languages/GCSE-Maths`
-- English → `https://thedegreegap.com/teachers/languages/GCSE-English`
-- Biology → `https://thedegreegap.com/teachers/languages/GCSE-Biology`
-- Chemistry → `https://thedegreegap.com/teachers/languages/GCSE-Chemistry`
-- Physics → `https://thedegreegap.com/teachers/languages/GCSE-Physics`
-- History → `https://thedegreegap.com/teachers/languages/GCSE-History`
-- Geography → `https://thedegreegap.com/teachers/languages/GCSE-Geography`
-- French → `https://thedegreegap.com/teachers/languages/GCSE-French`
-- Computer Science → `https://thedegreegap.com/teachers/languages/GCSE-Computer-Science`
+- GCSE Maths Tuition → `https://thedegreegap.com/teachers/languages/GCSE-Maths`
+- GCSE English Tuition → `https://thedegreegap.com/teachers/languages/GCSE-English`
+- GCSE Biology Tuition → `https://thedegreegap.com/teachers/languages/GCSE-Biology`
+- GCSE Chemistry Tuition → `https://thedegreegap.com/teachers/languages/GCSE-Chemistry`
+- GCSE Physics Tuition → `https://thedegreegap.com/teachers/languages/GCSE-Physics`
+- GCSE History Tuition → `https://thedegreegap.com/teachers/languages/GCSE-History`
+- GCSE Geography Tuition → `https://thedegreegap.com/teachers/languages/GCSE-Geography`
+- GCSE French Tuition → `https://thedegreegap.com/teachers/languages/GCSE-French`
+- GCSE Computer Science Tuition → `https://thedegreegap.com/teachers/languages/GCSE-Computer-Science`
 
 A-Level:
-- Maths → `https://thedegreegap.com/teachers/languages/A-level-Maths`
-- Biology → `https://thedegreegap.com/teachers/languages/A-level-Biology`
-- Chemistry → `https://thedegreegap.com/teachers/languages/A-level-Chemistry`
-- Physics → `https://thedegreegap.com/teachers/languages/A-level-Physics`
-- Psychology → `https://thedegreegap.com/teachers/languages/A-level-Psychology`
-- History → `https://thedegreegap.com/teachers/languages/A-level-History`
-- Economics → `https://thedegreegap.com/teachers/languages/A-level-Economics`
-- English → `https://thedegreegap.com/teachers/languages/A-level-English`
-- Geography → `https://thedegreegap.com/teachers/languages/A-level-Geography`
+- A-Level Maths Tuition → `https://thedegreegap.com/teachers/languages/A-level-Maths`
+- A-Level Biology Tuition → `https://thedegreegap.com/teachers/languages/A-level-Biology`
+- A-Level Chemistry Tuition → `https://thedegreegap.com/teachers/languages/A-level-Chemistry`
+- A-Level Physics Tuition → `https://thedegreegap.com/teachers/languages/A-level-Physics`
+- A-Level Psychology Tuition → `https://thedegreegap.com/teachers/languages/A-level-Psychology`
+- A-Level History Tuition → `https://thedegreegap.com/teachers/languages/A-level-History`
+- A-Level Economics Tuition → `https://thedegreegap.com/teachers/languages/A-level-Economics`
+- A-Level English Tuition → `https://thedegreegap.com/teachers/languages/A-level-English`
+- A-Level Geography Tuition → `https://thedegreegap.com/teachers/languages/A-level-Geography`
 
 **Example — how descriptions might differ by location angle:**
 
 For a confidence angle (e.g. Coventry):
-`"Maths|Structured support that rebuilds confidence in number, algebra and geometry, one step at a time.|https://..."`
+`"GCSE Maths Tuition|Structured support that rebuilds confidence in number, algebra and geometry, one step at a time.|https://..."`
 
 For an ambition angle (e.g. Cambridge):
-`"Maths|Advanced problem-solving support across algebra, geometry and statistics for students pushing towards the top grade boundaries.|https://..."`
+`"GCSE Maths Tuition|Advanced problem-solving support across algebra, geometry and statistics for students pushing towards the top grade boundaries.|https://..."`
 
 For a foundation gaps angle (e.g. Nottingham):
-`"Maths|Targeted work that traces gaps back to their root and builds solid understanding from there, rather than repeating content that has not yet clicked.|https://..."`
+`"GCSE Maths Tuition|Targeted work that traces gaps back to their root and builds solid understanding from there, rather than repeating content that has not yet clicked.|https://..."`
 
 ### About Heading (rotate — never reuse across pages)
 
@@ -416,14 +423,16 @@ Pick exactly one from the 10 options below. Substitute `{Location}` with the rea
 
 1. `"Experienced GCSE and A-Level Tutors in {Location}"`
 2. `"Trusted Tutors for {Location} Students"`
-3. `"One-to-One Tuition for {Location} Students"`
+3. `"One-to-One Tutoring for {Location} Students"`
 4. `"Private Tutors Serving {Location} Families"`
 5. `"GCSE and A-Level Tutors Covering {Location}"`
 6. `"The {Location} Tutors Who Get Results"`
-7. `"Supporting {Location} Students at Every Stage"`
+7. `"Why {Location} Families Choose Our Tutoring Services"`
 8. `"Find the Right Tutor in {Location}"`
 9. `"Tutors Who Know What {Location} Students Need"`
-10. `"Personalised Tutoring for {Location} Students"`
+10. `"Personalised GCSE and A-Level Tutoring for {Location} Students"`
+
+Every option contains "tutor" or "tutoring" and the location name. Do not strip those keywords when substituting — a heading like "Supporting Brighton students" without "tutor/tutoring" wastes the H2.
 
 ---
 
@@ -638,7 +647,13 @@ Use as a vocabulary bank — weave concepts into original sentences, never copy 
 - [ ] Does the banner_heading contain the location name AND "tutor", "tutors", or "tutoring"?
 - [ ] Does the meta description contain "[Location] tutor" or "[Location] tutoring"?
 - [ ] Do intro_1 and intro_2 together use "tutor/tutors/tutoring/tuition" at least three times?
-- [ ] Does the online_heading contain "tutor", "tutoring", or "tuition"?
+- [ ] Does the online_heading contain "online tutor", "online tutoring", or "online tuition"?
+- [ ] Do online_1 and online_2 together include "online tutoring", "online tuition", or "online tutor" at least twice?
+- [ ] Does why_heading include "tutor", "tutoring", "tuition", or "tutoring services"?
+- [ ] Do why_para_1 and why_para_2 together use "tutor/tutoring/tuition/GCSE tutoring/A-Level tutoring" at least 3 times?
+- [ ] Does each accordion body (quality, experience, personalised) include "tutor", "tutoring", or "tuition" at least once?
+- [ ] Does `about_heading` contain "tutor" or "tutoring" (not just "tuition")?
+- [ ] Do subject names use the full form (e.g. `GCSE Maths Tuition`, `A-Level Chemistry Tuition`) rather than bare subject names?
 - [ ] Does the opening read like original writing, not a filled-in template?
 - [ ] Would a reader notice the difference between this and another location's page?
 - [ ] Are subjects in a different order from the last page built?
@@ -669,7 +684,7 @@ Use as a vocabulary bank — weave concepts into original sentences, never copy 
 - [ ] Does the writing make at least one direct, opinionated statement rather than hedging everything?
 - [ ] Are contractions used naturally throughout (it's, don't, can't, we'd, they're)?
 - [ ] Are there any passive voice constructions that should be active? Fix them.
-- [ ] Is `hero_image` absent from the frontmatter? It must not appear.
+- [ ] Is `hero_image` absent from the frontmatter? It is hard-coded in the template.
 - [ ] Does `about_image` use one of the five approved paths from the About Image Gallery, matched to the page's content angle?
 - [ ] Does `online_image` use one of the five approved paths from the Online Image Gallery, matched to the online copy angle?
 - [ ] Has "that" been removed wherever the sentence works without it?

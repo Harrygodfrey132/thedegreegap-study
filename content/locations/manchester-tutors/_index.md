@@ -2,7 +2,6 @@
 title: "Manchester Tutors | A-Level and 11+ | The Degree Gap"
 description: "Find an experienced Manchester tutor for GCSE, A-Level and 11+ preparation, with one-to-one sessions built around what each student actually needs."
 layout: "single"
-hero_image: "/images/hero-tutor.png"
 location: "Manchester"
 banner_heading: "Need a Manchester tutor who prepares students, not just covers content?"
 banner_description: "The Degree Gap matches Manchester students with tutors who find the gap, close it, and give students the exam confidence to show what they know."
@@ -14,7 +13,7 @@ schools_intro: "Students come to us from secondary schools across Manchester and
 schools: ["Altrincham Grammar School for Boys", "Altrincham Grammar School for Girls", "Loreto Grammar School", "Whalley Range 11-18 High School", "Manchester Academy", "Xaverian College"]
 online_heading: "Online tutoring for Manchester students: access the right tutor, not just the nearest one"
 online_1: "Manchester is a large, spread-out city. Getting to the right tutor in person, fitting sessions around school and activities, and keeping that up week after week, is harder than it sounds. Online tuition removes all of that. Students work with the best-matched tutor for their subject, year group and exam board, regardless of where either of them is based. For families in Salford, Wythenshawe or the commuter belt stretching out towards Trafford, that matters."
-online_2: "Sessions run through Lessonspace, a platform built for focused one-to-one tutoring. There's a shared whiteboard where students and tutors work through problems in real time, which makes a real difference in Maths and the sciences. No travel, no traffic, and the consistency that makes sessions actually work. Manchester families tell us it's the regularity, a session every week rather than a scramble before mocks, that produces the results they were hoping for."
+online_2: "Sessions run through Lessonspace, a platform built for focused online tutoring. There's a shared whiteboard where students and tutors work through problems in real time, which makes a real difference in Maths and the sciences. No travel, no traffic, and the consistency that makes sessions actually work. Manchester families tell us it's the regularity, a session every week rather than a scramble before mocks, that produces the results they were hoping for."
 map_url: "https://maps.google.com/maps?q=Manchester,UK&output=embed"
 about_image: "/images/graduation-ceremony-caps.jpg"
 schools_image: "/images/school-clock-tower-building.jpg"
@@ -22,26 +21,26 @@ online_image: "/images/child-using-online-learning-laptop.jpg"
 areas_intro: "Because most of our tuition is online, students in Manchester and nearby areas can access the right subject specialist without being limited by geography."
 area_links: ["Liverpool Tutors|/locations/liverpool-tutors/", "Leeds Tutors|/locations/leeds-tutors/", "Sheffield Tutors|/locations/sheffield-tutors/", "Derby Tutors|/locations/derby-tutors/", "Nottingham Tutors|/locations/nottingham-tutors/", "Birmingham Tutors|/locations/birmingham-tutors/"]
 gcse_subjects: [
-  "English|Targeted support across Language and Literature that helps students build a reliable analytical approach and write with the confidence examiners reward.|https://thedegreegap.com/teachers/languages/GCSE-English",
-  "Physics|Clear, structured work through forces, energy and electricity for students who need the concepts explained properly, not just repeated.|https://thedegreegap.com/teachers/languages/GCSE-Physics",
-  "Maths|Expert support in algebra, number, geometry and statistics that builds the fluency Manchester students need when grade boundaries are tight.|https://thedegreegap.com/teachers/languages/GCSE-Maths",
-  "Computer Science|Practical guidance through programming, algorithms and data representation that makes the abstract concrete, one step at a time.|https://thedegreegap.com/teachers/languages/GCSE-Computer-Science",
-  "French|Steady, focused practice across all four skills that builds the confidence to perform under exam conditions, not just in informal conversation.|https://thedegreegap.com/teachers/languages/GCSE-French",
-  "Geography|Structured revision across physical and human geography, with strong support on case studies and extended writing to push students up through the grade bands.|https://thedegreegap.com/teachers/languages/GCSE-Geography",
-  "Chemistry|Careful, step-by-step tuition through organic, inorganic and physical chemistry that gives students real understanding rather than surface recall.|https://thedegreegap.com/teachers/languages/GCSE-Chemistry",
-  "History|Sharp essay technique and source analysis developed session by session, so students answer with conviction rather than second-guessing the mark scheme.|https://thedegreegap.com/teachers/languages/GCSE-History",
-  "Biology|Focused support through cells, genetics and ecology that links content to exam questions, helping students convert knowledge into marks.|https://thedegreegap.com/teachers/languages/GCSE-Biology",
+  "GCSE English Tuition|Targeted support across Language and Literature that helps students build a reliable analytical approach and write with the confidence examiners reward.|https://thedegreegap.com/teachers/languages/GCSE-English",
+  "GCSE Physics Tuition|Clear, structured work through forces, energy and electricity for students who need the concepts explained properly, not just repeated.|https://thedegreegap.com/teachers/languages/GCSE-Physics",
+  "GCSE Maths Tuition|Expert support in algebra, number, geometry and statistics that builds the fluency Manchester students need when grade boundaries are tight.|https://thedegreegap.com/teachers/languages/GCSE-Maths",
+  "GCSE Computer Science Tuition|Practical guidance through programming, algorithms and data representation that makes the abstract concrete, one step at a time.|https://thedegreegap.com/teachers/languages/GCSE-Computer-Science",
+  "GCSE French Tuition|Steady, focused practice across all four skills that builds the confidence to perform under exam conditions, not just in informal conversation.|https://thedegreegap.com/teachers/languages/GCSE-French",
+  "GCSE Geography Tuition|Structured revision across physical and human geography, with strong support on case studies and extended writing to push students up through the grade bands.|https://thedegreegap.com/teachers/languages/GCSE-Geography",
+  "GCSE Chemistry Tuition|Careful, step-by-step tuition through organic, inorganic and physical chemistry that gives students real understanding rather than surface recall.|https://thedegreegap.com/teachers/languages/GCSE-Chemistry",
+  "GCSE History Tuition|Sharp essay technique and source analysis developed session by session, so students answer with conviction rather than second-guessing the mark scheme.|https://thedegreegap.com/teachers/languages/GCSE-History",
+  "GCSE Biology Tuition|Focused support through cells, genetics and ecology that links content to exam questions, helping students convert knowledge into marks.|https://thedegreegap.com/teachers/languages/GCSE-Biology",
 ]
 alevel_subjects: [
-  "Chemistry|In-depth tuition through organic, inorganic and physical chemistry with tutors who explain things differently until they actually make sense.|https://thedegreegap.com/teachers/languages/A-level-Chemistry",
-  "Economics|Advanced micro and macroeconomic analysis with a focus on evaluation and data response, the skills that separate a C from an A at this level.|https://thedegreegap.com/teachers/languages/A-level-Economics",
-  "Biology|Expert guidance through the advanced content in genetics, physiology and ecology, building proper understanding rather than relying on memorisation.|https://thedegreegap.com/teachers/languages/A-level-Biology",
-  "Geography|Support through advanced geographical concepts, fieldwork analysis and extended writing for students targeting the top mark bands.|https://thedegreegap.com/teachers/languages/A-level-Geography",
-  "Maths|Focused, problem-solving support across pure maths, mechanics and statistics for students building the confidence that tough A-Level papers demand.|https://thedegreegap.com/teachers/languages/A-level-Maths",
-  "English|Critical analysis and essay writing developed carefully, helping students find their own voice and write arguments that stand up at A-Level.|https://thedegreegap.com/teachers/languages/A-level-English",
-  "History|Support building the analytical depth to write sustained, complex arguments under timed conditions, session by session.|https://thedegreegap.com/teachers/languages/A-level-History",
-  "Psychology|Methodical work through research methods, key studies and essay technique that makes a demanding course feel genuinely manageable.|https://thedegreegap.com/teachers/languages/A-level-Psychology",
-  "Physics|Patient, problem-focused tuition in advanced mechanics, fields and quantum physics for students who need the material approached from a different angle.|https://thedegreegap.com/teachers/languages/A-level-Physics",
+  "A-Level Chemistry Tuition|In-depth tuition through organic, inorganic and physical chemistry with tutors who explain things differently until they actually make sense.|https://thedegreegap.com/teachers/languages/A-level-Chemistry",
+  "A-Level Economics Tuition|Advanced micro and macroeconomic analysis with a focus on evaluation and data response, the skills that separate a C from an A at this level.|https://thedegreegap.com/teachers/languages/A-level-Economics",
+  "A-Level Biology Tuition|Expert guidance through the advanced content in genetics, physiology and ecology, building proper understanding rather than relying on memorisation.|https://thedegreegap.com/teachers/languages/A-level-Biology",
+  "A-Level Geography Tuition|Support through advanced geographical concepts, fieldwork analysis and extended writing for students targeting the top mark bands.|https://thedegreegap.com/teachers/languages/A-level-Geography",
+  "A-Level Maths Tuition|Focused, problem-solving support across pure maths, mechanics and statistics for students building the confidence that tough A-Level papers demand.|https://thedegreegap.com/teachers/languages/A-level-Maths",
+  "A-Level English Tuition|Critical analysis and essay writing developed carefully, helping students find their own voice and write arguments that stand up at A-Level.|https://thedegreegap.com/teachers/languages/A-level-English",
+  "A-Level History Tuition|Support building the analytical depth to write sustained, complex arguments under timed conditions, session by session.|https://thedegreegap.com/teachers/languages/A-level-History",
+  "A-Level Psychology Tuition|Methodical work through research methods, key studies and essay technique that makes a demanding course feel genuinely manageable.|https://thedegreegap.com/teachers/languages/A-level-Psychology",
+  "A-Level Physics Tuition|Patient, problem-focused tuition in advanced mechanics, fields and quantum physics for students who need the material approached from a different angle.|https://thedegreegap.com/teachers/languages/A-level-Physics",
 ]
 other_subjects: [
   "University Personal Statement|Shape a strong UCAS personal statement with expert support on structure, subject motivation, and final polish.|https://thedegreegap.com/teachers/languages/Personal-Statement",

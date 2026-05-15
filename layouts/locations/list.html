@@ -1,0 +1,31 @@
+{{ define "main" }}
+{{ $locationPages := where .Site.Pages "Section" "locations" }}
+{{ $locationPages = where $locationPages "Kind" "section" }}
+{{ $locationPages = where $locationPages "Params.layout" "single" }}
+{{ $cards := slice }}
+{{ range ($locationPages.ByParam "location") }}
+  {{ if ne .RelPermalink "/locations/" }}
+    {{ $cards = $cards | append . }}
+  {{ end }}
+{{ end }}
+
+<section class="home-section home-locations-section locations-list-page">
+  <div class="container">
+    <div class="home-section__header">
+      <div>
+        <p class="pp-eyebrow">Local Tutoring</p>
+        <h1>Find a Tutor Near You</h1>
+        <p class="home-section__lead">{{ .Description | default "GCSE and A-Level tutoring across the UK. Browse every city we cover and jump straight to the local tutoring page." }}</p>
+      </div>
+    </div>
+    <div class="home-locations-grid">
+      {{ range $cards }}
+      <a href="{{ .RelPermalink }}" class="home-location-card">
+        <span class="home-location-card__name">{{ .Params.location | default .Title }}</span>
+        <span class="home-location-card__link">Find a tutor →</span>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

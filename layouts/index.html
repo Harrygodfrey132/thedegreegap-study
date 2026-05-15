@@ -108,6 +108,7 @@
 <!-- Local Tutoring -->
 {{ $locationPages := where .Site.Pages "Section" "locations" }}
 {{ $locationPages = where $locationPages "Kind" "section" }}
+{{ $locationPages = where $locationPages "Params.layout" "single" }}
 {{ if $locationPages }}
 <section class="home-section home-locations-section">
   <div class="container">
@@ -120,13 +121,17 @@
       <a href="/locations/" class="btn btn-outline">View all locations →</a>
     </div>
     <div class="home-locations-grid">
-      {{ range $locationPages }}
-      {{ if ne .RelPermalink "/locations/" }}
+      {{ $cards := slice }}
+      {{ range ($locationPages.ByParam "location") }}
+        {{ if ne .RelPermalink "/locations/" }}
+          {{ $cards = $cards | append . }}
+        {{ end }}
+      {{ end }}
+      {{ range first 12 $cards }}
       <a href="{{ .RelPermalink }}" class="home-location-card">
         <span class="home-location-card__name">{{ .Params.location | default .Title }}</span>
         <span class="home-location-card__link">Find a tutor →</span>
       </a>
-      {{ end }}
       {{ end }}
     </div>
   </div>

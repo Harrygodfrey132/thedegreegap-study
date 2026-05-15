@@ -22,7 +22,7 @@ Location tutor page content contract:
 {{ $alevelSubjectCards := .Params.alevel_subjects | default (after 6 (first 12 $subjectCards)) }}
 {{ $otherSubjectCards := .Params.other_subjects | default (after 12 $subjectCards) }}
 {{ $hasFaq := or .Params.faq_1_q .Params.faq_2_q .Params.faq_3_q .Params.faq_4_q }}
-{{ $heroImage := .Params.hero_image | default "" }}
+{{ $heroImage := .Params.hero_image | default "/images/hero-tutor.png" }}
 {{ $aboutImage := .Params.about_image | default "" }}
 {{ $onlineImage := .Params.online_image | default "" }}
 {{ $schoolsImage := .Params.schools_image | default "" }}
@@ -50,7 +50,7 @@ Location tutor page content contract:
         <p class="loc-hero__lead">{{ $bannerLead }}</p>
         <div class="loc-hero__actions">
           <a href="#get-help" class="btn btn-primary btn-lg">Find Your Tutor</a>
-          <a href="tel:07859965776" class="btn btn-outline btn-lg">Contact Us</a>
+          <a href="tel:07859965776" class="btn btn-outline btn-lg">Call: 07859 965776</a>
         </div>
         <p class="loc-hero__pricing">From <strong>£37/hr</strong> &middot; rates agreed directly with your tutor</p>
         <a href="https://share.google/1yemVhJDnSjd6qg4n" target="_blank" rel="noopener" class="loc-hero__rating">
@@ -100,9 +100,9 @@ Location tutor page content contract:
   <div class="container">
     <div class="loc-why__inner">
       <div class="loc-why__video">
-        <div class="loc-lite-video" data-youtube-id="GG-UeN156l4" data-youtube-title="Why choose The Degree Gap — {{ $loc }} tutoring">
-          <a href="https://youtu.be/GG-UeN156l4" target="_blank" rel="noopener" class="loc-lite-video__button" aria-label="Play video: Why choose The Degree Gap">
-            <img src="https://i.ytimg.com/vi/GG-UeN156l4/hqdefault.jpg" alt="" width="480" height="360" loading="lazy" decoding="async">
+        <div class="loc-lite-video" data-youtube-id="5zKZLb9mFSk" data-youtube-title="Why choose The Degree Gap — {{ $loc }} tutoring">
+          <a href="https://youtu.be/5zKZLb9mFSk" target="_blank" rel="noopener" class="loc-lite-video__button" aria-label="Play video: Why choose The Degree Gap">
+            <img src="https://i.ytimg.com/vi/5zKZLb9mFSk/hqdefault.jpg" alt="" width="480" height="360" loading="lazy" decoding="async">
             <span class="loc-lite-video__play" aria-hidden="true">
               <svg width="34" height="34" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
             </span>
@@ -194,6 +194,22 @@ Location tutor page content contract:
           <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" opacity="0.25"><path d="M21 10c0 7-9 13-9 13S3 17 3 10a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
         </div>
         {{ end }}
+        <div class="loc-about__cta">
+          <p class="loc-hero__pricing">From <strong>£37/hr</strong> &middot; rates agreed directly with your tutor</p>
+          <a href="https://share.google/1yemVhJDnSjd6qg4n" target="_blank" rel="noopener" class="loc-hero__rating">
+            <div class="loc-hero__google">
+              <svg width="60" height="20" viewBox="0 0 60 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="Google">
+                <text x="0" y="16" font-family="Arial,sans-serif" font-size="14" font-weight="700">
+                  <tspan fill="#4285F4">G</tspan><tspan fill="#EA4335">o</tspan><tspan fill="#FBBC05">o</tspan><tspan fill="#4285F4">g</tspan><tspan fill="#34A853">l</tspan><tspan fill="#EA4335">e</tspan>
+                </text>
+              </svg>
+              <span class="loc-hero__google-label">Reviews</span>
+            </div>
+            <span class="loc-hero__score">5.0</span>
+            <div class="loc-hero__stars" aria-label="5 stars">★★★★★</div>
+            <span class="loc-hero__count">100 Google reviews</span>
+          </a>
+        </div>
       </div>
       <div class="loc-about__copy">
         <p class="loc-eyebrow">TRUSTED BY SCHOOLS &amp; PARENTS</p>
@@ -243,7 +259,7 @@ Location tutor page content contract:
 <section class="loc-reviews">
   <div class="container">
     <p class="loc-eyebrow loc-eyebrow--center">OUR GLOWING REVIEWS</p>
-    <h2 class="loc-reviews__title">+100 5-Star Reviews From Parents And Students</h2>
+    <h2 class="loc-reviews__title">100+ 5-Star Reviews From Parents And Students</h2>
 
     <div class="loc-reviews__grid">
       {{ range first 3 $reviews }}
@@ -279,7 +295,7 @@ Location tutor page content contract:
     </button>
 
     <div class="loc-reviews__cta">
-      <a href="tel:07859965776" class="btn loc-btn-gold">Free call, no obligation</a>
+      <a href="tel:07859965776" class="btn loc-btn-gold">Call: 07859 965776</a>
     </div>
   </div>
 </section>
@@ -378,7 +394,7 @@ Location tutor page content contract:
         <h2>{{ $onlineHeading }}</h2>
         <p>{{ $online1 }}</p>
         <p>{{ $online2 }}</p>
-        <a href="tel:07859965776" class="btn btn-primary">Call Us Now</a>
+        <a href="tel:07859965776" class="btn btn-primary">Call: 07859 965776</a>
       </div>
     </div>
   </div>
@@ -395,7 +411,7 @@ Location tutor page content contract:
           <p class="loc-eyebrow">TRUSTED BY SCHOOLS</p>
           <h2>Tutoring {{ $loc }} school students</h2>
           <p>{{ $schoolsIntro }}</p>
-          <a href="tel:07859965776" class="btn btn-primary">Call Us Now</a>
+          <a href="tel:07859965776" class="btn btn-primary">Call: 07859 965776</a>
         </div>
         <div class="loc-schools__img-right">
           <iframe
@@ -421,12 +437,29 @@ Location tutor page content contract:
     <h2 class="loc-areas__title">Trusted Tutors in Your Area</h2>
     <p class="loc-areas__lead">{{ $areasIntro }}</p>
     <div class="loc-areas__grid">
-      {{ range $areaLinks }}
+      {{ range first 6 $areaLinks }}
         {{ $parts := split . "|" }}
         {{ $name := index $parts 0 }}
         {{ $href := index $parts 1 }}
         <a href="{{ $href }}" class="loc-area-card">{{ $name }}</a>
       {{ end }}
+    </div>
+    {{ if gt (len $areaLinks) 6 }}
+    <div class="loc-areas__grid loc-areas__grid--more" id="loc-areas-more" hidden>
+      {{ range after 6 $areaLinks }}
+        {{ $parts := split . "|" }}
+        {{ $name := index $parts 0 }}
+        {{ $href := index $parts 1 }}
+        <a href="{{ $href }}" class="loc-area-card">{{ $name }}</a>
+      {{ end }}
+    </div>
+    <button class="loc-areas__toggle" id="loc-areas-toggle" aria-expanded="false" aria-controls="loc-areas-more">
+      Load more locations
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+    </button>
+    {{ end }}
+    <div class="loc-areas__view-all">
+      <a href="/locations/" class="btn btn-outline">View All Our Locations</a>
     </div>
   </div>
 </section>

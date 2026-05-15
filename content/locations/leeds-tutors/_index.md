@@ -2,7 +2,6 @@
 title: "Leeds Tutors | Expert Support | The Degree Gap"
 description: "The Degree Gap matches Leeds students with experienced tutors for GCSE and A-Level, helping them hit the grades that competitive sixth forms and Russell Group universities demand."
 layout: "single"
-hero_image: "/images/hero-tutor.png"
 location: "Leeds"
 banner_heading: "Need a Leeds tutor who prepares students for what comes next?"
 banner_description: "The Degree Gap connects Leeds families with vetted, subject-specialist tutors who know what sixth forms and universities are actually looking for."
@@ -22,26 +21,26 @@ online_image: "/images/student-studying-at-night-with-laptop.jpg"
 areas_intro: "The Degree Gap works with students from Leeds and surrounding towns, matching each family with the tutor best suited to their subject and goals."
 area_links: ["Sheffield Tutors|/locations/sheffield-tutors/", "Manchester Tutors|/locations/manchester-tutors/", "Liverpool Tutors|/locations/liverpool-tutors/", "Nottingham Tutors|/locations/nottingham-tutors/", "Derby Tutors|/locations/derby-tutors/", "Leicester Tutors|/locations/leicester-tutors/"]
 gcse_subjects: [
-  "English|Sharpen analytical writing and unseen text skills for students who need to convert class understanding into the grades sixth forms want to see.|https://thedegreegap.com/teachers/languages/GCSE-English",
-  "Chemistry|From balancing equations to organic chemistry, structured support that builds the confidence to tackle the harder questions on paper.|https://thedegreegap.com/teachers/languages/GCSE-Chemistry",
-  "Maths|Targeted work across algebra, geometry and statistics for students who want results that keep their post-16 options open.|https://thedegreegap.com/teachers/languages/GCSE-Maths",
-  "History|Strong essay technique and source analysis skills, built through practice and feedback rather than just reading the revision guide.|https://thedegreegap.com/teachers/languages/GCSE-History",
-  "Physics|Support that turns shakily-remembered formulas into genuine problem-solving ability, from forces and energy to waves and electricity.|https://thedegreegap.com/teachers/languages/GCSE-Physics",
-  "Computer Science|From algorithms to Python programming, one-to-one support that makes the written exam feel as manageable as the practical work.|https://thedegreegap.com/teachers/languages/GCSE-Computer-Science",
-  "Geography|Case study recall, data response and extended writing support for students who want to stop leaving marks on the table.|https://thedegreegap.com/teachers/languages/GCSE-Geography",
-  "French|Targeted practice across all four skills, helping students move from hesitant to assured in time for the speaking and writing assessments.|https://thedegreegap.com/teachers/languages/GCSE-French",
-  "Biology|Clear, logical support across the full specification, helping students understand processes rather than trying to memorise everything by rote.|https://thedegreegap.com/teachers/languages/GCSE-Biology",
+  "GCSE English Tuition|Sharpen analytical writing and unseen text skills for students who need to convert class understanding into the grades sixth forms want to see.|https://thedegreegap.com/teachers/languages/GCSE-English",
+  "GCSE Chemistry Tuition|From balancing equations to organic chemistry, structured support that builds the confidence to tackle the harder questions on paper.|https://thedegreegap.com/teachers/languages/GCSE-Chemistry",
+  "GCSE Maths Tuition|Targeted work across algebra, geometry and statistics for students who want results that keep their post-16 options open.|https://thedegreegap.com/teachers/languages/GCSE-Maths",
+  "GCSE History Tuition|Strong essay technique and source analysis skills, built through practice and feedback rather than just reading the revision guide.|https://thedegreegap.com/teachers/languages/GCSE-History",
+  "GCSE Physics Tuition|Support that turns shakily-remembered formulas into genuine problem-solving ability, from forces and energy to waves and electricity.|https://thedegreegap.com/teachers/languages/GCSE-Physics",
+  "GCSE Computer Science Tuition|From algorithms to Python programming, one-to-one support that makes the written exam feel as manageable as the practical work.|https://thedegreegap.com/teachers/languages/GCSE-Computer-Science",
+  "GCSE Geography Tuition|Case study recall, data response and extended writing support for students who want to stop leaving marks on the table.|https://thedegreegap.com/teachers/languages/GCSE-Geography",
+  "GCSE French Tuition|Targeted practice across all four skills, helping students move from hesitant to assured in time for the speaking and writing assessments.|https://thedegreegap.com/teachers/languages/GCSE-French",
+  "GCSE Biology Tuition|Clear, logical support across the full specification, helping students understand processes rather than trying to memorise everything by rote.|https://thedegreegap.com/teachers/languages/GCSE-Biology",
 ]
 alevel_subjects: [
-  "Economics|Rigorous support across micro and macroeconomic models and essay technique, for students aiming at competitive university courses in business or law.|https://thedegreegap.com/teachers/languages/A-level-Economics",
-  "Maths|Advanced problem-solving across pure maths, mechanics and statistics, with a focus on multi-step questions that define the difference between grades.|https://thedegreegap.com/teachers/languages/A-level-Maths",
-  "Psychology|Master research methods, key approaches and extended writing with tutors who know AQA's mark scheme and what examiners reward.|https://thedegreegap.com/teachers/languages/A-level-Psychology",
-  "Chemistry|Expert guidance through organic, inorganic and physical chemistry for students targeting science or medicine at Russell Group universities.|https://thedegreegap.com/teachers/languages/A-level-Chemistry",
-  "English|Build critical depth and essay confidence across literary texts, with support on how to construct arguments that examiners take seriously.|https://thedegreegap.com/teachers/languages/A-level-English",
-  "Biology|From genetics to ecosystems, advanced biological concepts unpacked clearly and connected to the exam technique that turns knowledge into marks.|https://thedegreegap.com/teachers/languages/A-level-Biology",
-  "Physics|One-to-one support across mechanics, fields and quantum physics, helping students work through the kinds of problems that trip up even diligent students.|https://thedegreegap.com/teachers/languages/A-level-Physics",
-  "Geography|Advanced concepts, fieldwork analysis and extended writing support for students working towards geography or environmental science degrees.|https://thedegreegap.com/teachers/languages/A-level-Geography",
-  "History|Support for constructing and sustaining complex historical arguments under exam pressure, across all major A-Level exam boards.|https://thedegreegap.com/teachers/languages/A-level-History",
+  "A-Level Economics Tuition|Rigorous support across micro and macroeconomic models and essay technique, for students aiming at competitive university courses in business or law.|https://thedegreegap.com/teachers/languages/A-level-Economics",
+  "A-Level Maths Tuition|Advanced problem-solving across pure maths, mechanics and statistics, with a focus on multi-step questions that define the difference between grades.|https://thedegreegap.com/teachers/languages/A-level-Maths",
+  "A-Level Psychology Tuition|Master research methods, key approaches and extended writing with tutors who know AQA's mark scheme and what examiners reward.|https://thedegreegap.com/teachers/languages/A-level-Psychology",
+  "A-Level Chemistry Tuition|Expert guidance through organic, inorganic and physical chemistry for students targeting science or medicine at Russell Group universities.|https://thedegreegap.com/teachers/languages/A-level-Chemistry",
+  "A-Level English Tuition|Build critical depth and essay confidence across literary texts, with support on how to construct arguments that examiners take seriously.|https://thedegreegap.com/teachers/languages/A-level-English",
+  "A-Level Biology Tuition|From genetics to ecosystems, advanced biological concepts unpacked clearly and connected to the exam technique that turns knowledge into marks.|https://thedegreegap.com/teachers/languages/A-level-Biology",
+  "A-Level Physics Tuition|One-to-one support across mechanics, fields and quantum physics, helping students work through the kinds of problems that trip up even diligent students.|https://thedegreegap.com/teachers/languages/A-level-Physics",
+  "A-Level Geography Tuition|Advanced concepts, fieldwork analysis and extended writing support for students working towards geography or environmental science degrees.|https://thedegreegap.com/teachers/languages/A-level-Geography",
+  "A-Level History Tuition|Support for constructing and sustaining complex historical arguments under exam pressure, across all major A-Level exam boards.|https://thedegreegap.com/teachers/languages/A-level-History",
 ]
 other_subjects: [
   "University Personal Statement|Shape a strong UCAS personal statement with expert support on structure, subject motivation, and final polish.|https://thedegreegap.com/teachers/languages/Personal-Statement",
@@ -59,7 +58,7 @@ why_para_1: "When Leeds students start their first session, what tutors usually 
 why_para_2: "What changes with regular tutoring is the precision. Tutors identify which gaps are actually costing marks, build a plan around those, and track whether the understanding is sticking. Parents in Leeds often tell us the first sign of progress isn't a grade, it's the student volunteering an answer at school again, or sitting down to revise without being asked. The grade follows. But the shift in how a student feels about a subject usually comes first."
 accordion_quality: "Our tutors are familiar with the entry requirements at Leeds's competitive sixth forms and the expectations of Russell Group admissions. We vet every tutor on subject knowledge, how clearly they explain, and how well they adapt to the individual student."
 accordion_experience: "Many of our tutors have worked with students preparing for post-16 transitions and university applications specific to this region. They know what A grades at GCSE and strong A-Level performance actually requires, not just in content but in exam execution."
-accordion_personalised: "Every plan is built around what that student needs to hit their target grade, not a one-size approach. If the gap is essay structure at A-Level Economics, that's where the session goes. If it's algebraic fluency holding back a GCSE Maths grade, we start there."
+accordion_personalised: "Every tutoring plan is built around what that student needs to hit their target grade, not a one-size approach. If the gap is essay structure at A-Level Economics, that's where the session goes. If it's algebraic fluency holding back a GCSE Maths grade, we start there."
 reviews: [
   "Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional. Both my sons exceeded their expected grades in their GCSEs and A Levels and got into their first choice universities. I cannot recommend them highly enough.",
   "Alison|Parent of A-Level Student|My son has been receiving tutor lessons in A Level History and A Level Sociology since the beginning of this year. The tutor has been such a tremendous support, teaching him content as well as exam technique.",

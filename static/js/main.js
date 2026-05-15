@@ -49,6 +49,18 @@ if (reviewsToggle && reviewsMore) {
   });
 }
 
+// Location page — load more areas
+const areasToggle = document.getElementById('loc-areas-toggle');
+const areasMore = document.getElementById('loc-areas-more');
+if (areasToggle && areasMore) {
+  areasToggle.addEventListener('click', () => {
+    const expanded = areasToggle.getAttribute('aria-expanded') === 'true';
+    areasMore.hidden = expanded;
+    areasToggle.setAttribute('aria-expanded', String(!expanded));
+    areasToggle.childNodes[0].textContent = expanded ? 'Load more locations ' : 'Show fewer locations ';
+  });
+}
+
 document.querySelectorAll('.loc-lite-video').forEach((video) => {
   const trigger = video.querySelector('.loc-lite-video__button');
   if (!trigger) return;
