@@ -3139,6 +3139,134 @@ p:last-child { margin-bottom: 0; }
   .gs-results__track { padding: 8px 20px 20px; margin: 0 -20px; gap: 16px; }
 }
 
+/* --- Explore all subjects (collapsible full-width bar) --- */
+.gs-explore { background: #fff; }
+.gs-explore__details {
+  background: #fff;
+  border-top: 1px solid var(--border, #e6e6e6);
+  border-bottom: 1px solid var(--border, #e6e6e6);
+  transition: background 0.15s ease;
+}
+.gs-explore__details[open] { background: #fdfaf5; }
+.gs-explore__summary {
+  display: block;
+  cursor: pointer;
+  list-style: none;
+  transition: background 0.15s ease;
+}
+.gs-explore__summary::-webkit-details-marker { display: none; }
+.gs-explore__summary::marker { content: ""; }
+.gs-explore__summary:hover { background: rgba(122, 28, 47, 0.03); }
+.gs-explore__summary-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 22px 32px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+}
+.gs-explore__label {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #1a1a1a;
+  letter-spacing: -0.01em;
+}
+.gs-explore__chevron {
+  color: #6b6b6b;
+  transition: transform 0.2s ease;
+  flex-shrink: 0;
+}
+.gs-explore__details[open] .gs-explore__chevron { transform: rotate(180deg); }
+.gs-explore__body-wrap {
+  border-top: 1px solid rgba(15, 22, 35, 0.06);
+  background: #fff;
+}
+.gs-explore__body {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 32px 32px 40px;
+}
+.gs-explore__grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+.gs-explore__card {
+  position: relative;
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: center;
+  gap: 16px;
+  padding: 20px 22px;
+  background: #fff;
+  border: 1px solid var(--border, #e6e6e6);
+  border-radius: 12px;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+}
+.gs-explore__card:hover {
+  transform: translateY(-2px);
+  border-color: rgba(122, 28, 47, 0.25);
+  box-shadow: 0 1px 2px rgba(15, 22, 35, 0.05), 0 12px 28px rgba(15, 22, 35, 0.08);
+}
+.gs-explore__icon {
+  width: 42px;
+  height: 42px;
+  border-radius: 10px;
+  background: #f4ede1;
+  color: #6b4a1f;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  transition: background 0.18s ease, color 0.18s ease;
+}
+.gs-explore__card:hover .gs-explore__icon {
+  background: var(--brand, #7a1c2f);
+  color: #fff;
+}
+.gs-explore__card-text { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
+.gs-explore__card-text strong {
+  font-size: 0.98rem;
+  font-weight: 600;
+  color: #1a1a1a;
+  letter-spacing: -0.005em;
+  line-height: 1.3;
+}
+.gs-explore__card-desc {
+  font-size: 0.82rem;
+  line-height: 1.45;
+  color: var(--text-muted, #6b6b6b);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.gs-explore__card-arrow {
+  color: var(--brand, #7a1c2f);
+  opacity: 0;
+  transform: translateX(-4px);
+  transition: opacity 0.18s ease, transform 0.18s ease;
+  flex-shrink: 0;
+}
+.gs-explore__card:hover .gs-explore__card-arrow {
+  opacity: 1;
+  transform: translateX(0);
+}
+@media (max-width: 900px) {
+  .gs-explore__grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 600px) {
+  .gs-explore__summary-inner { padding: 18px 20px; }
+  .gs-explore__body { padding: 24px 20px 28px; }
+  .gs-explore__label { font-size: 1rem; }
+  .gs-explore__grid { grid-template-columns: 1fr; gap: 12px; }
+  .gs-explore__card { padding: 16px 18px; }
+  .gs-explore__card-arrow { opacity: 1; transform: translateX(0); }
+}
+
 /* --- What could be next (pathways) --- */
 .gs-pathways { padding: 96px 0; background: #faf6ef; }
 .gs-pathways__inner {
@@ -5309,17 +5437,19 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   aspect-ratio: 1;
   object-fit: cover;
   border-radius: 10px;
-  border: 2px solid transparent;
-  transition: border-color 0.18s ease;
+  transition: box-shadow 0.18s ease;
   display: block;
 }
-.gs-tutor-card:hover img { border-color: var(--burgundy); }
+.gs-tutor-card:hover img {
+  box-shadow: 0 4px 16px rgba(15, 22, 35, 0.12);
+}
 .gs-tutor-card__name {
-  font-size: 0.72rem;
-  color: var(--text-muted);
+  font-size: 0.95rem;
+  color: #1a1a1a;
   text-align: center;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.3;
+  margin-top: 0.25rem;
 }
 
 /* ── Section 3d: How it works ── */
