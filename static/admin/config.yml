@@ -100,7 +100,6 @@ collections:
     create: true
     slug: "{{slug}}"
     summary: "{{subject}} — {{title}}"
-    filter: { field: "subject" }
     fields:
       - { name: "title", label: "SEO title", widget: "string" }
       - { name: "description", label: "SEO description", widget: "text" }
@@ -137,7 +136,6 @@ collections:
     create: true
     slug: "{{slug}}"
     summary: "{{university}} — {{title}}"
-    filter: { field: "university" }
     fields:
       - { name: "title", label: "SEO title", widget: "string" }
       - { name: "description", label: "SEO description", widget: "text" }
