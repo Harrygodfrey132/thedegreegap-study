@@ -4,38 +4,25 @@
 {{ $loc         := .Params.location        | default "Your Area" }}
 {{ $gradeFrom   := .Params.grade_from      | default "4" }}
 {{ $gradeTo     := .Params.grade_to        | default "7" }}
-{{ $gradeStat   := .Params.grade_stat      | default (printf "The average grade jump our %s GCSE students make in one term of one-to-one tuition." $loc) }}
+{{ $gradeStat   := .Params.grade_stat      | default "A real grade improvement achieved by one of our GCSE students in a single term of one-to-one tuition." }}
 {{ $schools     := .Params.schools         | default (slice "School One" "School Two" "School Three" "School Four" "School Five" "School Six") }}
 {{ $areaLinks   := .Params.area_links      | default (slice "Nearby Tutors|/locations/nearby-tutors/") }}
-{{ $onlineHeading := .Params.online_heading | default (printf "Online GCSE Tutoring for %s Students" $loc) }}
-{{ $online1       := .Params.online_1       | default "Online tuition connects students with the right tutor — not just the nearest one." }}
-{{ $online2       := .Params.online_2       | default "Sessions run through an interactive platform with a shared whiteboard for real-time problem solving." }}
 {{ $heroName    := .Params.hero_review_name    | default "Ellen" }}
 {{ $heroRole    := .Params.hero_review_role    | default "Parent of GCSE Student" }}
 {{ $heroSubject := .Params.hero_review_subject | default "GCSE Maths" }}
 {{ $heroText    := .Params.hero_review_text    | default "My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After just one term she went from a predicted grade 4 to achieving a grade 7 in her mock. The tutor found exactly where she'd been losing marks and worked through it methodically. She walked into her final exam calm and prepared." }}
 
-{{/* ── Section 2: Local GCSE Picture variables ── */}}
-{{ $localStat1       := .Params.local_stat_1       | default "Below Average" }}
-{{ $localStat1Label  := .Params.local_stat_1_label | default "GCSE attainment vs national" }}
-{{ $localStat1Note   := .Params.local_stat_1_note  | default "Fewer students in this area reach expected grades in English and Maths compared to the national figure." }}
-{{ $localStat2       := .Params.local_stat_2       | default "+5 months" }}
-{{ $localStat2Label  := .Params.local_stat_2_label | default "additional progress from one-to-one tuition" }}
-{{ $localStat2Note   := .Params.local_stat_2_note  | default "The Education Endowment Foundation rates one-to-one tuition as one of the most effective interventions available to GCSE students." }}
-{{ $localStat3       := .Params.local_stat_3       | default "1 in 3" }}
-{{ $localStat3Label  := .Params.local_stat_3_label | default "students benefit from targeted support" }}
-{{ $localStat3Note   := .Params.local_stat_3_note  | default "One-to-one tuition has the highest evidence base of any school intervention for GCSE improvement." }}
-{{ $localContextHeading := .Params.local_context_heading | default (printf "Why Students in %s Come to Us" $loc) }}
-{{ $localContextBody1   := .Params.local_context_body_1  | default "GCSE results in many areas fall short of national expectations — not because students aren't working hard, but because classroom teaching can't always find the exact point where understanding broke down. One-to-one tutoring exists to do exactly that." }}
-{{ $localContextBody2   := .Params.local_context_body_2  | default (printf "Families in %s typically come to us in Year 10 or Year 11 when they've realised that revision alone isn't closing the gap. Our tutors don't reteach the same content — they find the specific moment things stopped making sense and rebuild from there." $loc) }}
-
-{{/* ── Section 4: Co-founder variables ── */}}
-{{ $founderMsg     := .Params.founder_message | default (printf "GCSE results affect everything — sixth form choices, university applications, how a student feels about themselves for years. Families come to us when they've realised that school support alone isn't closing the gap, and that their child understands more than their grades suggest. We built The Degree Gap to fix exactly that. Every tutor in our network is matched carefully — not just by subject, but by the way they explain things. Because the right explanation, at the right moment, is what actually changes a grade.") }}
+{{/* ── Section 2: Your First GCSE Lesson variables ── */}}
 {{ $founderVideoId := .Params.founder_video_id | default "GG-UeN156l4" }}
-{{ $founderHeading := .Params.founder_heading  | default "The Right Explanation Changes Everything" }}
-{{ $accordionQuality     := .Params.accordion_quality     | default "All our tutors are graduates from the UK's top universities including Oxford, Cambridge, LSE, and Imperial. Every tutor is personally vetted and trained in our tutoring methodology before working with students." }}
-{{ $accordionExperience  := .Params.accordion_experience  | default "Our tutors have an average of three or more years of teaching experience. They understand the current GCSE syllabuses inside out and tailor every lesson to how each student learns best." }}
-{{ $accordionPersonalised := .Params.accordion_personalised | default "No two students are the same. We assess each student's strengths, weaknesses, and learning style before building a structured plan designed to close the gaps and build lasting confidence." }}
+{{ $firstLessonEyebrow := .Params.first_lesson_eyebrow | default "YOUR FIRST GCSE LESSON" }}
+{{ $firstLessonHeading := .Params.first_lesson_heading | default (printf "What Happens in Your First Lesson with a %s GCSE Tutor" $loc) }}
+{{ $firstLessonContext    := .Params.first_lesson_context    | default (printf "GCSE attainment in %s has trailed the national average for several years, and the gap widened further after Covid. In our experience this rarely comes down to effort — gaps that opened up quietly in Year 8 or 9 simply went unaddressed in larger classes, and only surfaced once mocks arrived. The right tutor finds those gaps, fixes them properly, and the grades follow." $loc) }}
+{{ $firstLessonQuote      := .Params.first_lesson_quote      | default "My son's grade went from a 4 to a 7 in Maths in a single term. The tutor found exactly where things had stopped clicking — years earlier than we thought — and worked through it methodically. The biggest change wasn't even the grade. It was how calm he was walking into the exam." }}
+{{ $firstLessonQuoteName  := .Params.first_lesson_quote_name  | default "Sarah K." }}
+{{ $firstLessonQuoteRole  := .Params.first_lesson_quote_role  | default "Parent of GCSE Student" }}
+{{ $firstLessonQuoteGrade := .Params.first_lesson_quote_grade | default "Grade 4 → Grade 7 in GCSE Maths" }}
+{{ $firstLessonCta        := .Params.first_lesson_cta         | default "Call the Co-Founder" }}
+{{ $firstLessonCtaPhone   := .Params.first_lesson_cta_phone   | default "07859965776" }}
 
 {{/* ── Section 5: Reviews ── */}}
 {{ $reviews := .Params.reviews | default (slice "Isabel H.|Parent of iGCSE Student|The Degree Gap gave our son the support he needed for his iGCSEs, especially in Maths and Economics. Lessons were clear, engaging, and built his confidence. Highly recommended." "Nicolai N.|A-Level Student|Before joining The Degree Gap, I found it hard to follow the curriculum. The sessions helped everything click. Lessons were calm, focused, and easy to understand. Highly recommend." "Theresa M.|Parent of GCSE Student|Harry and Joe were fantastic. Their knowledge and guidance helped my son find direction in both his studies and future plans." "Sarah K.|Parent of GCSE Student|My daughter's grades improved from a grade 4 to a grade 7 in Maths over the course of a term. The tutors are patient, knowledgeable, and genuinely invested in each student's progress." "James T.|A-Level Student|I was struggling with A-Level Chemistry and couldn't find a tutor who could explain the material clearly. The Degree Gap matched me with someone brilliant and my confidence has completely turned around." "Priya M.|Parent of GCSE Student|Friendly, professional, and effective. We've seen a real uplift in my son's attitude towards school since he started sessions with The Degree Gap." "J.O.|A-Level Economics Student|At first I was hesitant on getting a tutor, but this wasn't the case with Harry. He helped me massively with my essays, topics I didn't understand, and overall confidence with the subject. I highly recommend!" "Mahir G.|A-Level Student|Harry was an excellent teacher that helped me gain real grip of the complicated areas in my subjects like economics. I'd highly recommend for anyone looking to consistently perform at their best." "Will W.|Masters Applicant|Harry helped me with writing a personal statement for a masters degree. The advice he offered helped significantly, giving great insight. I would definitely recommend him to others." "Binh T.|A-Level Student|Harry taught me in a way that was super simple compared to other teachers from school. I really enjoyed my time and would highly recommend it to people!" "Kachi N.|University Student|Harry transformed my performance in mathematical economics modules, taking me from a third class to a first. His patience and ability to adapt to my needs exceeded my expectations." "Charlotte P.|Student|I cannot recommend Harry enough. He was helpful, welcoming and helped me achieve a grade higher than I was expected!" "Sarom I.|Parent of A-Level Student|Harry has been very helpful in tutoring my son for his economics A Level. He has lots of patience, keeps lessons interesting and is a good motivator. His subject matter expertise is excellent." "Ali M.|Grandparent of Student|Harry did an amazing job helping my grandson who was struggling with his economics work. Thank you again for all your hard work." "Marfa B.|Student|Very engaging lessons that helped me improve my grade in maths and successfully get admitted to university." "Kasia N.|Parent|Harry is a great tutor. He's very helpful and knowledgeable. His experience and expertise helped my son make decisions about choosing A-level subjects and his university course. I highly recommend Harry and Degree Gap." "Leo W.|Student|The time I have spent with my tutor here has been really valuable. He helped with a range of topics across economics and maths, explains things really clearly, and makes the sessions enjoyable." "Alexander C.|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and applications." "Aila M.|University Applicant|Harry was amazing! He helped me shape my personal statement into something I was truly proud of, and thanks to his support, I got into my dream university. Highly recommend to anyone applying to uni." "Alex A.|University Student|Can't recommend The Degree Gap highly enough. Harry immediately matched me with a very competent tutor, who was a massive help in helping me exceed my target grade and achieve a first class degree." "Dan J.|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university." "Lisa J.|Parent|Joe and Harry at The Degree Gap have exceeded all my expectations. Both my sons exceeded well above their expected grades in their GCSEs and A Levels and got into their first choice Universities." "Jessica W.|GCSE Student|Harry was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation to go on to succeed in my A-levels." "Ellen L.|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE. Thanks to The Degree Gap and our tutor Avery, she got her confidence back and faced her exams. Highly recommend." "Joanna T.|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing." "Augusta O.|Parent of GCSE Student|The Degree Gap's tutors were fabulous and my son passed all his GCSE subjects. They provided resources targeting specific areas of difficulty, and tutors were polite and on time for every lesson." "Philippa L.|Parent of GCSE Student|The team offer a really personalised service and I felt really well looked after from the start. There are lots of tutors to choose from and all subjects are catered for with great flexibility on timings. I highly recommend them." "Alison S.|Parent of A-Level Student|Jacob has been a tremendous support for my son, teaching him content as well as exam technique. Harry at The Degree Gap has also been outstanding — from day one, his responses have always been immediate and highly supportive." "Annette C.|Parent|This company helped us find a tutor for Geography and my son has excelled so much in just a few months. His tutor has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself." "Heidi M.|Parent|Emir is simply amazing with our daughter. He gets her totally — her sessions are helping her with her school work so much. We can't thank him enough!" "Omo|Parent of GCSE Student|After six months of working with Malvina, my son has improved from a grade 5 to a 6/7 in English. He now looks forward to his lessons. Thank you to Degree Gap!" "Serena A.|Student|Malvina is a very intuitive and superb teacher. She listened to my specific concerns, bolstered my confidence, and taught me how to think critically. I will happily recommend her without a second thought!" "Nick W.|Parent of A-Level Student|Sandra has been tutoring our son for Psychology A Level, providing a solid base of tutoring outside of school lessons and helping him to improve his latest grades." "Tommy M.|University Graduate|Joe was super helpful. He helped with my dissertation work and without his support I'm not sure I would have graduated so successfully and landed a successful job." "Daljit L.|Parent|My son gained almost two grades higher than his year 13 mock paper. His tutor Jacob was excellent." "Keira L.|Student|The Degree Gap has definitely helped me increase my grades from an E to a B!!" "Jeanne R.|Masters Applicant|Harry provided quick and extremely helpful feedback on my personal statement for my master's applications. I can't recommend The Degree Gap enough!" "Chris S.|Parent of GCSE Student|My daughter passed both English and Maths GCSE. Considering she missed a large chunk of school due to a social anxiety illness, this is an amazing achievement. We are extremely grateful to The Degree Gap." "Sorland P.|Grandparent|My granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone.") }}
@@ -55,8 +42,8 @@
         <h1>GCSE Tutors in {{ $loc }}<br>Who Find the Gap</h1>
         <p class="loc-hero__lead">Most students don't need to be taught the same content again. They need someone to find the exact point where things stopped making sense — and explain it differently until it does. That's what our {{ $loc }} GCSE tutors do.</p>
         <div class="loc-hero__actions">
-          <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary btn-lg">Find Your Tutor</a>
-          <a href="#get-help" class="btn btn-outline btn-lg">Free Consultation</a>
+          <a href="#get-help" class="btn btn-primary btn-lg">Book a Free Consultation Call</a>
+          <a href="tel:07859965776" class="btn btn-outline btn-lg">Call us: 07859 965776</a>
         </div>
         <p class="loc-hero__pricing">From <strong>£37/hr</strong> &middot; rates agreed directly with your tutor</p>
         <a href="https://share.google/1yemVhJDnSjd6qg4n" target="_blank" rel="noopener" class="loc-hero__rating">
@@ -75,7 +62,6 @@
       </div>
 
       <div class="loc-hero__image" aria-hidden="true">
-        <div class="loc-img-circle"></div>
         <div class="gs-grade-card">
           <div class="gs-grade-card__label">Predicted grade</div>
           <div class="gs-grade-card__num gs-grade-card__num--before">{{ $gradeFrom }}</div>
@@ -95,49 +81,43 @@
 </section>
 
 <!-- =============================================
-     SECTION 2: LOCAL GCSE PICTURE
+     SECTION 2: YOUR FIRST GCSE LESSON — copy left / video right
      ============================================= -->
-<section class="gs-local-picture">
-  <div class="container">
-    <p class="gs-local-picture__eyebrow">THE GCSE PICTURE IN {{ $loc | upper }}</p>
-    <div class="gs-local-picture__stats">
-      <div class="gs-local-picture__card">
-        <span class="gs-local-picture__stat">{{ $localStat1 }}</span>
-        <span class="gs-local-picture__stat-label">{{ $localStat1Label }}</span>
-        <p class="gs-local-picture__stat-note">{{ $localStat1Note }}</p>
-      </div>
-      <div class="gs-local-picture__card">
-        <span class="gs-local-picture__stat">{{ $localStat2 }}</span>
-        <span class="gs-local-picture__stat-label">{{ $localStat2Label }}</span>
-        <p class="gs-local-picture__stat-note">{{ $localStat2Note }}</p>
-      </div>
-      <div class="gs-local-picture__card">
-        <span class="gs-local-picture__stat">{{ $localStat3 }}</span>
-        <span class="gs-local-picture__stat-label">{{ $localStat3Label }}</span>
-        <p class="gs-local-picture__stat-note">{{ $localStat3Note }}</p>
-      </div>
-    </div>
-    <div class="gs-local-picture__editorial">
-      <h2>{{ $localContextHeading }}</h2>
-      <div class="gs-local-picture__editorial-copy">
-        <p>{{ $localContextBody1 }}</p>
-        <p>{{ $localContextBody2 }}</p>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- =============================================
-     SECTION 3: GCSE TUTOR PROFILES STRIP
-     ============================================= -->
-{{ partial "gcse-tutor-strip.html" . }}
-
-<!-- =============================================
-     SECTION 4: CO-FOUNDER — mirrors loc-about with video left
-     ============================================= -->
-<section class="loc-about">
+<section class="loc-about gs-first-lesson">
   <div class="container">
     <div class="loc-about__inner">
+
+      <div class="loc-about__copy">
+        <p class="loc-eyebrow">{{ $firstLessonEyebrow }}</p>
+        <h2>{{ $firstLessonHeading }}</h2>
+        <p>{{ $firstLessonContext }}</p>
+
+        <figure class="gs-first-lesson__quote">
+          <blockquote>
+            <p>"{{ $firstLessonQuote }}"</p>
+          </blockquote>
+          <figcaption>
+            — {{ $firstLessonQuoteName }}, {{ $firstLessonQuoteRole }} &middot; <span>{{ $firstLessonQuoteGrade }}</span>
+          </figcaption>
+        </figure>
+
+        <div class="loc-about__cta">
+          <a href="tel:{{ $firstLessonCtaPhone }}" class="btn btn-primary">{{ $firstLessonCta }}</a>
+          <a href="https://share.google/1yemVhJDnSjd6qg4n" target="_blank" rel="noopener" class="loc-hero__rating">
+            <div class="loc-hero__google">
+              <svg width="60" height="20" viewBox="0 0 60 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="Google">
+                <text x="0" y="16" font-family="Arial,sans-serif" font-size="14" font-weight="700">
+                  <tspan fill="#4285F4">G</tspan><tspan fill="#EA4335">o</tspan><tspan fill="#FBBC05">o</tspan><tspan fill="#4285F4">g</tspan><tspan fill="#34A853">l</tspan><tspan fill="#EA4335">e</tspan>
+                </text>
+              </svg>
+              <span class="loc-hero__google-label">Reviews</span>
+            </div>
+            <span class="loc-hero__score">5.0</span>
+            <div class="loc-hero__stars" aria-label="5 stars">★★★★★</div>
+            <span class="loc-hero__count">100 Google reviews</span>
+          </a>
+        </div>
+      </div>
 
       <div class="loc-about__image">
         <p class="gs-founder__video-label">
@@ -154,118 +134,128 @@
         </div>
       </div>
 
-      <div class="loc-about__copy">
-        <p class="loc-eyebrow">A NOTE FROM OUR CO-FOUNDER</p>
-        <h2>{{ $founderHeading }}</h2>
-        <p>{{ $founderMsg }}</p>
-
-        <div class="loc-accordion">
-          <details class="loc-accordion__item" open>
-            <summary class="loc-accordion__trigger">
-              <span>High Quality Standards</span>
-              <svg class="loc-accordion__icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
-            </summary>
-            <div class="loc-accordion__body">
-              <p>{{ $accordionQuality }}</p>
-            </div>
-          </details>
-          <details class="loc-accordion__item">
-            <summary class="loc-accordion__trigger">
-              <span>Experienced Tutors</span>
-              <svg class="loc-accordion__icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
-            </summary>
-            <div class="loc-accordion__body">
-              <p>{{ $accordionExperience }}</p>
-            </div>
-          </details>
-          <details class="loc-accordion__item">
-            <summary class="loc-accordion__trigger">
-              <span>Personalised Learning</span>
-              <svg class="loc-accordion__icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
-            </summary>
-            <div class="loc-accordion__body">
-              <p>{{ $accordionPersonalised }}</p>
-            </div>
-          </details>
-        </div>
-
-        <a href="#get-help" class="btn btn-primary" style="margin-top:1.5rem;">Get In Touch</a>
-      </div>
-
     </div>
   </div>
 </section>
 
 <!-- =============================================
-     SECTION 5: GCSE RESULTS — REVIEWS
+     SECTION 2B: AWARD STRIP
      ============================================= -->
-<section class="loc-reviews">
+<section class="gs-awards">
   <div class="container">
-    <p class="loc-eyebrow loc-eyebrow--center">GCSE RESULTS FROM REAL STUDENTS</p>
-    <h2 class="loc-reviews__title">100+ 5-Star Reviews From Parents And Students</h2>
-
-    <div class="loc-reviews__grid">
-      {{ range first 3 $reviews }}
-      {{ $parts := split . "|" }}
-      <div class="loc-review-card">
-        <span class="loc-review-card__quote" aria-hidden="true">"</span>
-        <div class="loc-review-card__header">
-          <strong>{{ index $parts 0 }}</strong>
-          <span>{{ index $parts 1 }}</span>
+    <p class="gs-awards__eyebrow">VOTED GCSE SPECIALISTS OF THE YEAR</p>
+    <div class="gs-awards__row">
+      <div class="gs-awards__badge">
+        <svg width="34" height="34" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6 2v3H2v3a4 4 0 0 0 4 4 6 6 0 0 0 5 5.91V20H7v2h10v-2h-4v-2.09A6 6 0 0 0 18 12a4 4 0 0 0 4-4V5h-4V2H6zm0 5V4h12v3a6 6 0 0 1-.09 1H6.09A6 6 0 0 1 6 7zm-2 1V7h.09A8 8 0 0 0 4 8a2 2 0 0 1-1.86-2zM20 8a2 2 0 0 1-2.14 0 8 8 0 0 0-.09-1H20z"/></svg>
+        <div>
+          <span class="gs-awards__year">2025</span>
+          <span class="gs-awards__label">Prestige Awards</span>
         </div>
-        <p>{{ index $parts 2 }}</p>
       </div>
-      {{ end }}
-    </div>
-
-    <div class="loc-reviews__more" id="loc-reviews-more" hidden>
-      {{ range after 3 $reviews }}
-      {{ $parts := split . "|" }}
-      <div class="loc-review-card">
-        <span class="loc-review-card__quote" aria-hidden="true">"</span>
-        <div class="loc-review-card__header">
-          <strong>{{ index $parts 0 }}</strong>
-          <span>{{ index $parts 1 }}</span>
+      <div class="gs-awards__divider" aria-hidden="true"></div>
+      <div class="gs-awards__badge">
+        <svg width="34" height="34" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6 2v3H2v3a4 4 0 0 0 4 4 6 6 0 0 0 5 5.91V20H7v2h10v-2h-4v-2.09A6 6 0 0 0 18 12a4 4 0 0 0 4-4V5h-4V2H6zm0 5V4h12v3a6 6 0 0 1-.09 1H6.09A6 6 0 0 1 6 7zm-2 1V7h.09A8 8 0 0 0 4 8a2 2 0 0 1-1.86-2zM20 8a2 2 0 0 1-2.14 0 8 8 0 0 0-.09-1H20z"/></svg>
+        <div>
+          <span class="gs-awards__year">2026</span>
+          <span class="gs-awards__label">Prestige Awards</span>
         </div>
-        <p>{{ index $parts 2 }}</p>
       </div>
-      {{ end }}
-    </div>
-
-    <button class="loc-reviews__toggle" id="loc-reviews-toggle" aria-expanded="false">
-      Show more reviews
-      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
-    </button>
-
-    <div class="loc-reviews__cta">
-      <a href="tel:07859965776" class="btn loc-btn-gold">Free call, no obligation</a>
     </div>
   </div>
 </section>
 
 <!-- =============================================
-     SECTION 6: SCHOOLS IN {{ $loc }}
+     SECTION 3: GCSE TUTOR PROFILES STRIP
      ============================================= -->
-<section class="gs-schools">
-  <div class="container">
-    <div class="gs-schools__inner">
+{{ partial "gcse-tutor-strip.html" . }}
 
-      <div class="gs-schools__copy">
-        <p class="loc-eyebrow">SCHOOLS WE SUPPORT</p>
-        <h2>Tutors Who Know the Standard Your School Expects</h2>
-        <p>The tutors in our network work with students from a wide range of schools across the {{ $loc }} area. Whether your child is at a selective school, an academy, or a local comprehensive, we'll introduce you to a tutor who understands the level expected of them and can help them get there.</p>
-        <ul class="gs-schools__tags">
-          {{ range $schools }}
-          <li>{{ . }}</li>
+<!-- =============================================
+     SECTION 4: GCSE RESULTS — REVIEWS CAROUSEL
+     ============================================= -->
+<section class="gs-results">
+  <div class="container">
+    <p class="loc-eyebrow loc-eyebrow--center">REAL RESULTS, REAL FAMILIES</p>
+    <h2 class="gs-results__title">100+ 5-Star Reviews From Parents and Students</h2>
+
+    <div class="gs-results__carousel" data-results-carousel>
+      <button type="button" class="gs-results__nav gs-results__nav--prev" data-results-prev aria-label="Previous review">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg>
+      </button>
+
+      <div class="gs-results__track" data-results-track>
+        {{ range $reviews }}
+        {{ $parts := split . "|" }}
+        {{ $name := index $parts 0 }}
+        {{ $role := index $parts 1 }}
+        {{ $text := index $parts 2 }}
+        <article class="gs-results__card">
+          <header class="gs-results__card-head">
+            <span class="gs-results__avatar" aria-hidden="true">{{ substr $name 0 1 }}</span>
+            <div class="gs-results__who">
+              <strong>{{ $name }}</strong>
+              <span class="gs-results__stars" aria-label="5 stars">★★★★★</span>
+            </div>
+          </header>
+          <p class="gs-results__role">{{ $role }}</p>
+          <p class="gs-results__text">{{ $text }}</p>
+        </article>
+        {{ end }}
+      </div>
+
+      <button type="button" class="gs-results__nav gs-results__nav--next" data-results-next aria-label="Next review">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18l6-6-6-6"/></svg>
+      </button>
+    </div>
+
+    <div class="gs-results__cta">
+      <h3>Looking for results like this?</h3>
+      <div class="gs-results__cta-buttons">
+        <a href="#get-help" class="btn btn-primary">Find Your Tutor</a>
+        <a href="tel:07859965776" class="btn btn-outline">Call 07859 965776</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- =============================================
+     SECTION 6: WHAT COULD BE NEXT
+     ============================================= -->
+{{ $pathwaysHeading := .Params.pathways_heading | default (printf "What Could Be Next After Your %s GCSEs" $loc) }}
+{{ $pathwaysLead    := .Params.pathways_lead    | default (printf "A few of the sixth forms, apprenticeships and further-education routes %s students typically move on to once their grades come through." $loc) }}
+{{ $pathwaysCtaText := .Params.pathways_cta     | default "Want a free consultation call to discuss your next path?" }}
+{{ $pathways        := .Params.pathways }}
+
+<section class="gs-pathways">
+  <div class="container">
+    <div class="gs-pathways__inner">
+
+      <div class="gs-pathways__copy">
+        <p class="loc-eyebrow">WHAT COULD BE NEXT</p>
+        <h2>{{ $pathwaysHeading }}</h2>
+        <p class="gs-pathways__lead">{{ $pathwaysLead }}</p>
+
+        <div class="loc-accordion loc-accordion--faq gs-pathways__accordion">
+          {{ range $pathways }}
+          <details class="loc-accordion__item">
+            <summary class="loc-accordion__trigger">
+              <span>{{ .title }}</span>
+              <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
+            </summary>
+            <div class="loc-accordion__body">
+              {{ .body | markdownify }}
+            </div>
+          </details>
           {{ end }}
-        </ul>
-        <a href="{{ .Site.Params.mainSiteURL }}/teachers" class="btn btn-primary">Find Your Tutor</a>
+        </div>
+
+        <div class="gs-pathways__cta">
+          <p>{{ $pathwaysCtaText }}</p>
+          <a href="#get-help" class="btn btn-primary">Book a Free Consultation Call</a>
+        </div>
       </div>
 
-      <div class="gs-schools__image">
-        <div class="loc-img-placeholder loc-img-placeholder--school">
-          <svg width="56" height="56" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" opacity="0.22"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
-        </div>
+      <div class="gs-pathways__image">
+        <img src="/images/school-clock-tower-building.jpg" alt="A school building representing the next step after GCSEs in {{ $loc }}" loading="lazy" decoding="async">
       </div>
 
     </div>
@@ -273,28 +263,7 @@
 </section>
 
 <!-- =============================================
-     SECTION 7: ONLINE TUITION
-     ============================================= -->
-<section class="loc-online">
-  <div class="container">
-    <div class="loc-online__inner">
-      <div class="loc-online__copy">
-        <h2>{{ $onlineHeading }}</h2>
-        <p>{{ $online1 }}</p>
-        <p>{{ $online2 }}</p>
-        <a href="#get-help" class="btn btn-primary">Book a Free Call</a>
-      </div>
-      <div class="loc-online__image">
-        <div class="loc-img-placeholder loc-img-placeholder--online">
-          <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" opacity="0.25"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><path d="M8 21h8m-4-4v4"/></svg>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- =============================================
-     SECTION 8: CONTACT + FAQ
+     SECTION 7: CONTACT + FAQ
      ============================================= -->
 <section class="loc-contact-faq" id="get-help">
   <div class="loc-contact-faq__inner">
@@ -311,9 +280,6 @@
           <input type="hidden" name="level" value="GCSE">
           <div class="loc-form-group">
             <input type="text" name="name" placeholder="Full Name*" required>
-          </div>
-          <div class="loc-form-group">
-            <input type="email" name="email" placeholder="Email Address*" required>
           </div>
           <div class="loc-form-group">
             <input type="tel" name="phone" placeholder="Phone Number*" autocomplete="tel" required>
@@ -372,7 +338,7 @@
 </section>
 
 <!-- =============================================
-     SECTION 9: AREAS WE COVER
+     SECTION 8: AREAS WE COVER
      ============================================= -->
 <section class="loc-areas">
   <div class="container">

@@ -61,6 +61,33 @@ if (areasToggle && areasMore) {
   });
 }
 
+// Subject page — results carousel arrows
+document.querySelectorAll('[data-results-carousel]').forEach((carousel) => {
+  const track = carousel.querySelector('[data-results-track]');
+  const prev = carousel.querySelector('[data-results-prev]');
+  const next = carousel.querySelector('[data-results-next]');
+  if (!track || !prev || !next) return;
+
+  const step = () => {
+    const card = track.querySelector('.gs-results__card');
+    if (!card) return track.clientWidth;
+    const gap = parseFloat(getComputedStyle(track).columnGap || getComputedStyle(track).gap || '20');
+    return card.getBoundingClientRect().width + gap;
+  };
+
+  const update = () => {
+    const maxScroll = track.scrollWidth - track.clientWidth - 1;
+    prev.disabled = track.scrollLeft <= 0;
+    next.disabled = track.scrollLeft >= maxScroll;
+  };
+
+  prev.addEventListener('click', () => track.scrollBy({ left: -step(), behavior: 'smooth' }));
+  next.addEventListener('click', () => track.scrollBy({ left: step(), behavior: 'smooth' }));
+  track.addEventListener('scroll', update, { passive: true });
+  window.addEventListener('resize', update);
+  update();
+});
+
 document.querySelectorAll('.loc-lite-video').forEach((video) => {
   const trigger = video.querySelector('.loc-lite-video__button');
   if (!trigger) return;
