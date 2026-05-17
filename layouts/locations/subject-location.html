@@ -123,28 +123,103 @@
 </section>
 
 <!-- =============================================
-     SECTION 4: FIND A TUTOR  (carousel)
+     SECTION 4: TUTOR PROFILE CARDS  (rich, sampled from thedegreegap.com)
      ============================================= -->
-<section class="subj-tutors">
-  <div class="container">
-    <h2 class="subj-tutors__title">Find a {{ $subject }} Tutor Near You</h2>
-    <p class="subj-tutors__lead">We handpick every tutor in our network for their subject knowledge, teaching ability, and track record with students. Our {{ $short }} tutors understand the exam boards inside out — whether your child is sitting AQA, Edexcel, or OCR — and tailor every session to close gaps quickly and build lasting confidence.</p>
+{{ $defaultProfiles := slice
+  (dict
+    "name" "Avery Goldie"
+    "country" "United Kingdom"
+    "flag" "🇬🇧"
+    "teaches" "GCSE English, GCSE Biology, GCSE History, GCSE Physics, GCSE Chemistry, University - Law, GCSE Maths, GCSE Geography, A level History, Personal Statement / Admissions, 2-1 English tutoring"
+    "price" "£37.50 - £120.00"
+    "blurb" "Hi, I am Avery. I have recently graduated from the University of Oxford, having studied Law. I have tutoring experience in a variety of subjects, including A-level..."
+    "image" "https://thedegreegap.com/cache/bd/9b400d603fa3eed019a026bd303ed4.jpg"
+    "url" "https://thedegreegap.com/teachers/view/averygoldie"
+    "verified" true
+    "online" true)
+  (dict
+    "name" "Jacob Berry"
+    "country" "United Kingdom"
+    "flag" "🇬🇧"
+    "teaches" "GCSE Physics, GCSE Maths, GCSE Chemistry, A level Physics, A level Maths"
+    "price" "£40.00 - £95.00"
+    "blurb" "Hi, I'm Jacob. I'm a Physics graduate with five years of tutoring experience across GCSE and A-Level. I focus on the multi-step problem solving that wins the top marks..."
+    "image" "https://thedegreegap.com/cache/63/a430b8623078fe8465a73f61051343.jpg"
+    "url" "https://thedegreegap.com/teachers/view/108759843003883984075"
+    "verified" true
+    "online" true)
+  (dict
+    "name" "Faizaan Butt"
+    "country" "United Kingdom"
+    "flag" "🇬🇧"
+    "teaches" "GCSE Physics, GCSE Chemistry, GCSE Biology, GCSE Maths, A level Biology"
+    "price" "£35.00 - £85.00"
+    "blurb" "Hi, I'm Faizaan, a medical student with a passion for breaking down tricky science topics. I tutor in a calm, structured way that builds confidence first, then results..."
+    "image" "https://thedegreegap.com/cache/a0/5a456a5430697e519b98e79179462a.jpg"
+    "url" "https://thedegreegap.com/teachers/view/faizaanb1"
+    "verified" true
+    "online" true)
+}}
+{{ $profiles := .Params.tutor_profiles | default $defaultProfiles }}
 
-    <div class="al-carousel" aria-label="Our {{ $short }} tutors">
-      <div class="al-carousel__track">
-        <div class="al-carousel__slide"><div class="al-tutor-card"><img src="https://thedegreegap.com/image/show/4/980/LARGE" alt="Rebecca Hanna — A-Level tutor" loading="lazy"></div></div>
-        <div class="al-carousel__slide"><div class="al-tutor-card"><img src="https://thedegreegap.com/image/show/4/298/LARGE" alt="Jacob Berry — A-Level tutor" loading="lazy"></div></div>
-        <div class="al-carousel__slide"><div class="al-tutor-card"><img src="https://thedegreegap.com/image/show/4/596/LARGE" alt="Emir Akcay — A-Level tutor" loading="lazy"></div></div>
-        <div class="al-carousel__slide"><div class="al-tutor-card"><img src="https://thedegreegap.com/image/show/4/275/LARGE" alt="Ella Peel — A-Level tutor" loading="lazy"></div></div>
-        <div class="al-carousel__slide"><div class="al-tutor-card"><img src="https://thedegreegap.com/image/show/4/575/LARGE" alt="Harvey Murray — A-Level tutor" loading="lazy"></div></div>
-      </div>
-      <div class="al-carousel__dots">
-        <button class="al-carousel__dot al-carousel__dot--active" data-slide="0" aria-label="Slide 1"></button>
-        <button class="al-carousel__dot" data-slide="1" aria-label="Slide 2"></button>
-        <button class="al-carousel__dot" data-slide="2" aria-label="Slide 3"></button>
-        <button class="al-carousel__dot" data-slide="3" aria-label="Slide 4"></button>
-        <button class="al-carousel__dot" data-slide="4" aria-label="Slide 5"></button>
-      </div>
+<section class="tdg-profiles">
+  <div class="container">
+    <p class="loc-eyebrow loc-eyebrow--center">FEATURED {{ upper $subject }} TUTORS</p>
+    <h2 class="tdg-profiles__title">Meet a {{ $subject }} tutor in {{ $loc }}</h2>
+    <p class="tdg-profiles__lead">Sample profile pulled in from our main tutor directory. Click through to view the full profile, see availability and book.</p>
+
+    <div class="tdg-profiles__grid">
+      {{ range $profiles }}
+      <article class="tdg-profile">
+        <div class="tdg-profile__photo-wrap">
+          <div class="tdg-profile__photo">
+            <img src="{{ .image }}" alt="{{ .name }} — {{ $subject }} tutor" loading="lazy" decoding="async">
+            {{ if .verified }}
+            <span class="tdg-profile__badge tdg-profile__badge--verified" aria-label="Verified tutor">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="#fff" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+            </span>
+            {{ end }}
+            {{ if .online }}
+            <span class="tdg-profile__badge tdg-profile__badge--online" aria-label="Available online">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="6"/></svg>
+            </span>
+            {{ end }}
+          </div>
+          <div class="tdg-profile__price">{{ .price }}</div>
+          <a href="{{ .url }}" target="_blank" rel="noopener" class="btn btn-primary tdg-profile__book">Book Now</a>
+          <a href="#get-help" class="btn btn-outline tdg-profile__contact">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+            Contact
+          </a>
+        </div>
+
+        <div class="tdg-profile__body">
+          <header class="tdg-profile__head">
+            <h3 class="tdg-profile__name">
+              {{ .name }}
+              <span class="tdg-profile__flag" aria-hidden="true">{{ .flag }}</span>
+            </h3>
+            <button type="button" class="tdg-profile__fav" aria-label="Save tutor">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
+            </button>
+          </header>
+
+          <p class="tdg-profile__location">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            {{ .country }}
+          </p>
+
+          <p class="tdg-profile__label"><strong>Teaches</strong></p>
+          <p class="tdg-profile__teaches">{{ .teaches }}</p>
+
+          <p class="tdg-profile__help">Have a question? We're here to <a href="#get-help">help!</a></p>
+
+          <p class="tdg-profile__label"><strong>What You Can Expect From</strong></p>
+          <p class="tdg-profile__blurb">{{ .blurb }}</p>
+          <a href="{{ .url }}" target="_blank" rel="noopener" class="tdg-profile__view">View Profile</a>
+        </div>
+      </article>
+      {{ end }}
     </div>
   </div>
 </section>

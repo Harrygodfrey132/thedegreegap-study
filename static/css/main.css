@@ -3139,6 +3139,106 @@ p:last-child { margin-bottom: 0; }
   .gs-results__track { padding: 8px 20px 20px; margin: 0 -20px; gap: 16px; }
 }
 
+/* --- Related (cross-link footer: sibling level + same level other cities) --- */
+.gs-related { padding: 80px 0 96px; background: #faf6ef; }
+.gs-related__title {
+  text-align: center;
+  font-size: clamp(1.6rem, 3vw, 2.1rem);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  margin: 0.4rem auto 2rem;
+}
+.gs-related__siblings {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  max-width: 760px;
+  margin: 0 auto 3rem;
+}
+.gs-related__sibling-card {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: center;
+  gap: 22px;
+  padding: 24px 28px;
+  background: #fff;
+  border-radius: 14px;
+  text-decoration: none;
+  color: inherit;
+  box-shadow: 0 1px 2px rgba(15, 22, 35, 0.04), 0 10px 28px rgba(15, 22, 35, 0.06);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.gs-related__sibling-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 2px 4px rgba(15, 22, 35, 0.06), 0 16px 36px rgba(15, 22, 35, 0.10);
+}
+.gs-related__sibling-icon {
+  width: 56px;
+  height: 56px;
+  border-radius: 12px;
+  background: #f4ede1;
+  color: #6b4a1f;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+.gs-related__sibling-card:hover .gs-related__sibling-icon {
+  background: var(--brand, #7a1c2f);
+  color: #fff;
+}
+.gs-related__sibling-text { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+.gs-related__sibling-eyebrow {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-muted, #6b6b6b);
+}
+.gs-related__sibling-heading {
+  font-size: 1.15rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: #1a1a1a;
+}
+.gs-related__sibling-sub {
+  font-size: 0.92rem;
+  line-height: 1.5;
+  color: var(--text-muted, #555);
+}
+.gs-related__sibling-arrow {
+  color: var(--brand, #7a1c2f);
+  transition: transform 0.2s ease;
+  flex-shrink: 0;
+}
+.gs-related__sibling-card:hover .gs-related__sibling-arrow { transform: translateX(4px); }
+
+.gs-related__subhead {
+  text-align: center;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-muted, #6b6b6b);
+  margin: 0 0 1.25rem;
+}
+.gs-related__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 12px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+@media (max-width: 600px) {
+  .gs-related { padding: 56px 0 72px; }
+  .gs-related__sibling-card { padding: 20px 20px; gap: 16px; }
+  .gs-related__sibling-icon { width: 48px; height: 48px; }
+  .gs-related__sibling-heading { font-size: 1.05rem; }
+  .gs-related__sibling-sub { font-size: 0.88rem; }
+  .gs-related__grid { grid-template-columns: 1fr; }
+}
+
 /* --- Explore all subjects (collapsible full-width bar) --- */
 .gs-explore { background: #fff; }
 .gs-explore__details {
@@ -5886,3 +5986,54 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   .whatsapp-fab { width: 54px; height: 54px; right: 16px; bottom: 16px; }
   .whatsapp-fab svg { width: 28px; height: 28px; }
 }
+
+/* =============================================
+   TDG TUTOR PROFILE CARDS (subject-location.html)
+   ============================================= */
+.tdg-profiles { padding: 80px 0; background: #f7f7f5; }
+.tdg-profiles__title { font-size: clamp(1.6rem, 3.2vw, 2.4rem); text-align: center; margin: 0 0 0.5rem; }
+.tdg-profiles__lead { text-align: center; color: var(--text-muted); margin: 0 auto 2.5rem; max-width: 640px; }
+.tdg-profiles__grid { display: grid; gap: 24px; grid-template-columns: 1fr; }
+
+.tdg-profile {
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  gap: 28px;
+  background: #fff;
+  border-radius: 14px;
+  padding: 28px;
+  box-shadow: 0 6px 22px rgba(20, 20, 40, 0.07);
+}
+@media (max-width: 700px) {
+  .tdg-profile { grid-template-columns: 1fr; padding: 22px; }
+}
+
+.tdg-profile__photo-wrap { display: flex; flex-direction: column; align-items: center; }
+.tdg-profile__photo { position: relative; width: 200px; height: 200px; border-radius: 8px; overflow: hidden; background: #eee; }
+.tdg-profile__photo img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.tdg-profile__badge {
+  position: absolute; width: 28px; height: 28px; border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,.2);
+}
+.tdg-profile__badge--verified { top: 8px; left: 8px; background: #f4c430; }
+.tdg-profile__badge--online   { top: 8px; right: 8px; background: #2ecc71; }
+
+.tdg-profile__price { font-weight: 700; margin: 18px 0 10px; border-bottom: 2px dotted #aaa; padding-bottom: 6px; font-size: 1.05rem; }
+.tdg-profile__book   { width: 200px; text-align: center; margin-bottom: 10px; }
+.tdg-profile__contact { width: 200px; text-align: center; display: inline-flex; align-items: center; justify-content: center; gap: 8px; }
+
+.tdg-profile__body { min-width: 0; }
+.tdg-profile__head { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; }
+.tdg-profile__name { font-size: 1.4rem; margin: 0 0 6px; display: flex; align-items: center; gap: 10px; }
+.tdg-profile__flag { font-size: 1.2rem; }
+.tdg-profile__fav { background: none; border: none; color: #aaa; cursor: pointer; padding: 0; }
+.tdg-profile__fav:hover { color: var(--burgundy, #6b0f1a); }
+.tdg-profile__location { color: var(--text-muted); display: inline-flex; align-items: center; gap: 6px; margin: 0 0 18px; font-size: 0.95rem; }
+.tdg-profile__label { margin: 14px 0 6px; font-size: 1rem; }
+.tdg-profile__teaches { margin: 0 0 14px; color: #333; line-height: 1.55; }
+.tdg-profile__help { margin: 14px 0; font-weight: 600; }
+.tdg-profile__help a { color: #1976d2; text-decoration: none; }
+.tdg-profile__help a:hover { text-decoration: underline; }
+.tdg-profile__blurb { margin: 0 0 6px; color: #333; line-height: 1.6; }
+.tdg-profile__view { color: #222; text-decoration: underline; font-size: 0.95rem; }
