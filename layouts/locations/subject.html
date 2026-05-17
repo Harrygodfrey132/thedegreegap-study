@@ -1,26 +1,40 @@
 {{ define "main" }}
 
 {{/* ── Frontmatter variables ── */}}
-{{ $loc         := .Params.location        | default "Your Area" }}
-{{ $gradeFrom   := .Params.grade_from      | default "4" }}
-{{ $gradeTo     := .Params.grade_to        | default "7" }}
-{{ $gradeStat   := .Params.grade_stat      | default "A real grade improvement achieved by one of our GCSE students in a single term of one-to-one tuition." }}
+{{ $loc       := .Params.location | default "Your Area" }}
+{{ $level     := .Params.level    | default "GCSE" }}
+{{ $isAlevel  := eq $level "A-Level" }}
+
+{{/* Grade card — level-aware defaults */}}
+{{ $gradeFrom := .Params.grade_from | default (cond $isAlevel "D" "4") }}
+{{ $gradeTo   := .Params.grade_to   | default (cond $isAlevel "A" "7") }}
+{{ $gradeStat := .Params.grade_stat | default (cond $isAlevel "A real grade improvement achieved by one of our A-Level students over a single year of one-to-one tuition." "A real grade improvement achieved by one of our GCSE students in a single term of one-to-one tuition.") }}
+
 {{ $schools     := .Params.schools         | default (slice "School One" "School Two" "School Three" "School Four" "School Five" "School Six") }}
 {{ $areaLinks   := .Params.area_links      | default (slice "Nearby Tutors|/locations/nearby-tutors/") }}
 {{ $heroName    := .Params.hero_review_name    | default "Ellen" }}
-{{ $heroRole    := .Params.hero_review_role    | default "Parent of GCSE Student" }}
-{{ $heroSubject := .Params.hero_review_subject | default "GCSE Maths" }}
-{{ $heroText    := .Params.hero_review_text    | default "My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After just one term she went from a predicted grade 4 to achieving a grade 7 in her mock. The tutor found exactly where she'd been losing marks and worked through it methodically. She walked into her final exam calm and prepared." }}
+{{ $heroRole    := .Params.hero_review_role    | default (printf "Parent of %s Student" $level) }}
+{{ $heroSubject := .Params.hero_review_subject | default (printf "%s Maths" $level) }}
+{{ $heroText    := .Params.hero_review_text    | default "My daughter was struggling with confidence and we decided to get a tutor. After just one term she went from a predicted grade to achieving a grade higher in her mock. The tutor found exactly where she'd been losing marks and worked through it methodically. She walked into her final exam calm and prepared." }}
 
-{{/* ── Section 2: Your First GCSE Lesson variables ── */}}
-{{ $founderVideoId := .Params.founder_video_id | default "GG-UeN156l4" }}
-{{ $firstLessonEyebrow := .Params.first_lesson_eyebrow | default "YOUR FIRST GCSE LESSON" }}
-{{ $firstLessonHeading := .Params.first_lesson_heading | default (printf "What Happens in Your First Lesson with a %s GCSE Tutor" $loc) }}
-{{ $firstLessonContext    := .Params.first_lesson_context    | default (printf "GCSE attainment in %s has trailed the national average for several years, and the gap widened further after Covid. In our experience this rarely comes down to effort — gaps that opened up quietly in Year 8 or 9 simply went unaddressed in larger classes, and only surfaced once mocks arrived. The right tutor finds those gaps, fixes them properly, and the grades follow." $loc) }}
-{{ $firstLessonQuote      := .Params.first_lesson_quote      | default "My son's grade went from a 4 to a 7 in Maths in a single term. The tutor found exactly where things had stopped clicking — years earlier than we thought — and worked through it methodically. The biggest change wasn't even the grade. It was how calm he was walking into the exam." }}
-{{ $firstLessonQuoteName  := .Params.first_lesson_quote_name  | default "Sarah K." }}
-{{ $firstLessonQuoteRole  := .Params.first_lesson_quote_role  | default "Parent of GCSE Student" }}
-{{ $firstLessonQuoteGrade := .Params.first_lesson_quote_grade | default "Grade 4 → Grade 7 in GCSE Maths" }}
+{{/* Hero H1 + lead — per-page overrides, level-aware defaults */}}
+{{ $heroHeadingLine1 := .Params.hero_heading_line1 | default (printf "%s Tutors in %s" $level $loc) }}
+{{ $heroHeadingLine2 := .Params.hero_heading_line2 | default "Who Find the Gap" }}
+{{ $heroLead         := .Params.hero_lead          | default (printf "Most students don't need to be taught the same content again. They need someone to find the exact point where things stopped making sense, then explain it differently until it does. That's what our %s %s tutors do." $loc $level) }}
+
+{{/* ── Section 2: Your First Lesson variables — level-aware ── */}}
+{{ $founderVideoId     := .Params.founder_video_id     | default "GG-UeN156l4" }}
+{{ $firstLessonEyebrow := .Params.first_lesson_eyebrow | default (printf "YOUR FIRST %s LESSON" ($level | upper)) }}
+{{ $firstLessonHeading := .Params.first_lesson_heading | default (printf "What Happens in Your First Lesson with a %s %s Tutor" $loc $level) }}
+{{ $firstLessonContext := .Params.first_lesson_context | default (cond $isAlevel
+  (printf "A-Level outcomes in %s shape university decisions — Russell Group offers, Oxbridge applications, and degree apprenticeships all ride on the grades that come back in August. In our experience this is rarely a content problem. It's a depth problem: students know the material in class but can't always apply it under timed exam conditions. The right A-Level tutor closes that gap." $loc)
+  (printf "GCSE attainment in %s has trailed the national average for several years, and the gap widened further after Covid. In our experience this rarely comes down to effort — gaps that opened up quietly in Year 8 or 9 simply went unaddressed in larger classes, and only surfaced once mocks arrived. The right GCSE tutor finds those gaps, fixes them properly, and the grades follow." $loc)) }}
+{{ $firstLessonQuote      := .Params.first_lesson_quote      | default (cond $isAlevel
+  "My son was sitting on a C in Psychology and needed an A to take his Russell Group place. After a year with his Degree Gap tutor he came out with an A. The biggest change wasn't the grade — it was how calmly he walked into the exam hall."
+  "My son's grade went from a 4 to a 7 in Maths in a single term. The tutor found exactly where things had stopped clicking — years earlier than we thought — and worked through it methodically. The biggest change wasn't even the grade. It was how calm he was walking into the exam.") }}
+{{ $firstLessonQuoteName  := .Params.first_lesson_quote_name  | default (cond $isAlevel "Nick W." "Sarah K.") }}
+{{ $firstLessonQuoteRole  := .Params.first_lesson_quote_role  | default (printf "Parent of %s Student" $level) }}
+{{ $firstLessonQuoteGrade := .Params.first_lesson_quote_grade | default (cond $isAlevel "Grade C → Grade A in A-Level Psychology" "Grade 4 → Grade 7 in GCSE Maths") }}
 {{ $firstLessonCta        := .Params.first_lesson_cta         | default "Call the Co-Founder" }}
 {{ $firstLessonCtaPhone   := .Params.first_lesson_cta_phone   | default "07859965776" }}
 
@@ -37,10 +51,10 @@
       <div class="loc-hero__copy">
         <a href="https://youtu.be/2bMD7DkUmJU" target="_blank" rel="noopener" class="loc-hero__badge">
           <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
-          WINNER — GCSE SPECIALISTS OF THE YEAR 2025
+          WINNER — TUTORING SPECIALISTS OF THE YEAR 2025
         </a>
-        <h1>GCSE Tutors in {{ $loc }}<br>Who Find the Gap</h1>
-        <p class="loc-hero__lead">Most students don't need to be taught the same content again. They need someone to find the exact point where things stopped making sense — and explain it differently until it does. That's what our {{ $loc }} GCSE tutors do.</p>
+        <h1>{{ $heroHeadingLine1 }}<br>{{ $heroHeadingLine2 }}</h1>
+        <p class="loc-hero__lead">{{ $heroLead }}</p>
         <div class="loc-hero__actions">
           <a href="#get-help" class="btn btn-primary btn-lg">Book a Free Consultation Call</a>
           <a href="tel:07859965776" class="btn btn-outline btn-lg">Call us: 07859 965776</a>
@@ -122,11 +136,11 @@
       <div class="loc-about__image">
         <p class="gs-founder__video-label">
           <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>
-          Listen to our co-founder talk about GCSEs
+          Listen to our co-founder talk about {{ $level }}s
         </p>
-        <div class="loc-lite-video" data-youtube-id="{{ $founderVideoId }}" data-youtube-title="Jo Godfrey, co-founder of The Degree Gap, talks about GCSE tutoring">
-          <a href="https://youtu.be/{{ $founderVideoId }}" target="_blank" rel="noopener" class="loc-lite-video__button" aria-label="Listen to our co-founder talk about GCSEs">
-            <img src="https://i.ytimg.com/vi/{{ $founderVideoId }}/hqdefault.jpg" alt="Jo Godfrey talks about GCSE tutoring" width="480" height="360" loading="lazy" decoding="async">
+        <div class="loc-lite-video" data-youtube-id="{{ $founderVideoId }}" data-youtube-title="Jo Godfrey, co-founder of The Degree Gap, talks about {{ $level }} tutoring">
+          <a href="https://youtu.be/{{ $founderVideoId }}" target="_blank" rel="noopener" class="loc-lite-video__button" aria-label="Listen to our co-founder talk about {{ $level }}s">
+            <img src="https://i.ytimg.com/vi/{{ $founderVideoId }}/hqdefault.jpg" alt="Jo Godfrey talks about {{ $level }} tutoring" width="480" height="360" loading="lazy" decoding="async">
             <span class="loc-lite-video__play" aria-hidden="true">
               <svg width="34" height="34" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
             </span>
@@ -143,7 +157,7 @@
      ============================================= -->
 <section class="gs-awards">
   <div class="container">
-    <p class="gs-awards__eyebrow">VOTED GCSE SPECIALISTS OF THE YEAR</p>
+    <p class="gs-awards__eyebrow">VOTED TUTORING SPECIALISTS OF THE YEAR</p>
     <div class="gs-awards__row">
       <div class="gs-awards__badge">
         <svg width="34" height="34" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6 2v3H2v3a4 4 0 0 0 4 4 6 6 0 0 0 5 5.91V20H7v2h10v-2h-4v-2.09A6 6 0 0 0 18 12a4 4 0 0 0 4-4V5h-4V2H6zm0 5V4h12v3a6 6 0 0 1-.09 1H6.09A6 6 0 0 1 6 7zm-2 1V7h.09A8 8 0 0 0 4 8a2 2 0 0 1-1.86-2zM20 8a2 2 0 0 1-2.14 0 8 8 0 0 0-.09-1H20z"/></svg>
@@ -167,13 +181,15 @@
 <!-- =============================================
      SECTION 3: EXPLORE ALL SUBJECTS (collapsed by default)
      ============================================= -->
-{{ $gcseSubjectCards := .Params.gcse_subjects | default (slice "GCSE Maths Tutoring|If your child's grade isn't matching how hard they're working, a tutor can pinpoint where things stopped clicking.|https://thedegreegap.com/teachers/languages/GCSE-Maths" "GCSE English Tutoring|For students who understand the text but can't always show it on paper. We help with structure, analysis and timing.|https://thedegreegap.com/teachers/languages/GCSE-English" "GCSE Biology Tutoring|The content is huge. We help your child know what to revise — and what examiners actually reward.|https://thedegreegap.com/teachers/languages/GCSE-Biology" "GCSE Chemistry Tutoring|The subject most families call us about. Tricky topics explained patiently, in a way that finally clicks.|https://thedegreegap.com/teachers/languages/GCSE-Chemistry" "GCSE Physics Tutoring|Many students lose marks on the maths inside the physics. Our tutors close both gaps together.|https://thedegreegap.com/teachers/languages/GCSE-Physics" "GCSE History Tutoring|Help your child write the structured, evidence-led essays examiners want — every exam board covered.|https://thedegreegap.com/teachers/languages/GCSE-History" "GCSE Geography Tutoring|Most marks are won on case studies and long answers. We make sure your child has both nailed.|https://thedegreegap.com/teachers/languages/GCSE-Geography" "GCSE Computer Science Tutoring|Demystify the programming and theory questions that scare students at exam time.|https://thedegreegap.com/teachers/languages/GCSE-Computer-Science" "GCSE Economics Tutoring|Sharpen the evaluation answers and diagrams that lift students from a 6 to an 8 or 9.|https://thedegreegap.com/teachers/languages/GCSE-Economics") }}
+{{ $defaultGcseSubjects := slice "GCSE Maths Tutoring|If your child's grade isn't matching how hard they're working, a tutor can pinpoint where things stopped clicking.|https://thedegreegap.com/teachers/languages/GCSE-Maths" "GCSE English Tutoring|For students who understand the text but can't always show it on paper. We help with structure, analysis and timing.|https://thedegreegap.com/teachers/languages/GCSE-English" "GCSE Biology Tutoring|The content is huge. We help your child know what to revise — and what examiners actually reward.|https://thedegreegap.com/teachers/languages/GCSE-Biology" "GCSE Chemistry Tutoring|The subject most families call us about. Tricky topics explained patiently, in a way that finally clicks.|https://thedegreegap.com/teachers/languages/GCSE-Chemistry" "GCSE Physics Tutoring|Many students lose marks on the maths inside the physics. Our tutors close both gaps together.|https://thedegreegap.com/teachers/languages/GCSE-Physics" "GCSE History Tutoring|Help your child write the structured, evidence-led essays examiners want — every exam board covered.|https://thedegreegap.com/teachers/languages/GCSE-History" "GCSE Geography Tutoring|Most marks are won on case studies and long answers. We make sure your child has both nailed.|https://thedegreegap.com/teachers/languages/GCSE-Geography" "GCSE Computer Science Tutoring|Demystify the programming and theory questions that scare students at exam time.|https://thedegreegap.com/teachers/languages/GCSE-Computer-Science" "GCSE Economics Tutoring|Sharpen the evaluation answers and diagrams that lift students from a 6 to an 8 or 9.|https://thedegreegap.com/teachers/languages/GCSE-Economics" }}
+{{ $defaultAlevelSubjects := slice "A-Level Maths Tutoring|Pure, mechanics and statistics — three subjects in one. Tutors target the topics your child is losing most marks on first.|https://thedegreegap.com/teachers/languages/A-Level-Maths" "A-Level Biology Tutoring|The volume of content catches most students out. We help your child structure revision and master the long-answer questions.|https://thedegreegap.com/teachers/languages/A-Level-Biology" "A-Level Chemistry Tutoring|Mechanisms, calculations and required practicals — broken down with the worked-example clarity school often skips.|https://thedegreegap.com/teachers/languages/A-Level-Chemistry" "A-Level Physics Tutoring|Most marks are won on multi-step problem solving. Our tutors teach the exam-board technique alongside the physics.|https://thedegreegap.com/teachers/languages/A-Level-Physics" "A-Level Economics Tutoring|Evaluation answers are where the A and A* grades are won. We focus on the analysis chain examiners actually reward.|https://thedegreegap.com/teachers/languages/A-Level-Economics" "A-Level Psychology Tutoring|Studies, theories and AO3 evaluation. Our tutors know exactly which detail wins marks and which is wasted effort.|https://thedegreegap.com/teachers/languages/A-Level-Psychology" "A-Level History Tutoring|Source analysis, interpretation essays and the 25-markers — we help your child argue clearly under timed conditions.|https://thedegreegap.com/teachers/languages/A-Level-History" "A-Level English Literature Tutoring|For students who understand the text but freeze on the timed essay. We build structure and exam technique.|https://thedegreegap.com/teachers/languages/A-Level-English-Literature" "A-Level Computer Science Tutoring|Programming projects, theory exams and the NEA — we cover the whole specification, not just the parts school taught.|https://thedegreegap.com/teachers/languages/A-Level-Computer-Science" }}
+{{ $subjectCards := .Params.subject_cards | default (cond $isAlevel $defaultAlevelSubjects $defaultGcseSubjects) }}
 
 <section class="gs-explore">
   <details class="gs-explore__details">
     <summary class="gs-explore__summary">
       <span class="gs-explore__summary-inner">
-        <span class="gs-explore__label">What GCSE Subjects Do We Cover?</span>
+        <span class="gs-explore__label">What {{ $level }} Subjects Do We Cover?</span>
         <svg class="gs-explore__chevron" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>
       </span>
     </summary>
@@ -181,7 +197,7 @@
     <div class="gs-explore__body-wrap">
       <div class="gs-explore__body">
         <div class="gs-explore__grid">
-          {{ range $card := $gcseSubjectCards }}
+          {{ range $card := $subjectCards }}
           {{ $parts := split $card "|" }}
           {{ $name := index $parts 0 }}
           {{ $desc := index $parts 1 }}
@@ -287,8 +303,12 @@
 <!-- =============================================
      SECTION 6: WHAT COULD BE NEXT
      ============================================= -->
-{{ $pathwaysHeading := .Params.pathways_heading | default (printf "What Could Be Next After Your %s GCSEs" $loc) }}
-{{ $pathwaysLead    := .Params.pathways_lead    | default (printf "A few of the sixth forms, apprenticeships and further-education routes %s students typically move on to once their grades come through." $loc) }}
+{{ $pathwaysHeading := .Params.pathways_heading | default (cond $isAlevel
+  (printf "What Could Be Next After Your %s A-Levels" $loc)
+  (printf "What Could Be Next After Your %s GCSEs" $loc)) }}
+{{ $pathwaysLead    := .Params.pathways_lead    | default (cond $isAlevel
+  (printf "A few of the universities, apprenticeship schemes and career routes %s A-Level students typically move on to once their grades come through." $loc)
+  (printf "A few of the sixth forms, apprenticeships and further-education routes %s GCSE students typically move on to once their grades come through." $loc)) }}
 {{ $pathwaysCtaText := .Params.pathways_cta     | default "Want a free consultation call to discuss your next path?" }}
 {{ $pathways        := .Params.pathways }}
 
@@ -322,7 +342,8 @@
       </div>
 
       <div class="gs-pathways__image">
-        <img src="/images/school-clock-tower-building.jpg" alt="A school building representing the next step after GCSEs in {{ $loc }}" loading="lazy" decoding="async">
+        {{ $pathwaysImage := .Params.pathways_image | default (cond $isAlevel "/images/graduation-ceremony-caps.jpg" "/images/school-clock-tower-building.jpg") }}
+        <img src="{{ $pathwaysImage }}" alt="{{ cond $isAlevel (printf "University graduation representing the next step after A-Levels in %s" $loc) (printf "A school building representing the next step after GCSEs in %s" $loc) }}" loading="lazy" decoding="async">
       </div>
 
     </div>
@@ -338,13 +359,13 @@
     <div class="loc-contact-faq__form-wrap">
       <div class="loc-contact-faq__form-bg" aria-hidden="true"></div>
       <div class="loc-contact-faq__form-card">
-        <h2>Find a GCSE Tutor in {{ $loc }}</h2>
-        <p>Get in touch and we'll connect you with the right GCSE tutor for your child. We'll ask a few questions about their subjects, year group, and exam board — and introduce you to a tutor who fits.</p>
+        <h2>Find a {{ $level }} Tutor in {{ $loc }}</h2>
+        <p>Get in touch and we'll connect you with the right {{ $level }} tutor for your child. We'll ask a few questions about their subjects, year group, and exam board — and introduce you to a tutor who fits.</p>
         <form action="{{ .Site.Params.formspreeEndpoint }}" method="POST" novalidate>
-          <input type="hidden" name="_subject" value="New GCSE enquiry from {{ $loc }} | The Degree Gap Study">
+          <input type="hidden" name="_subject" value="New {{ $level }} enquiry from {{ $loc }} | The Degree Gap Study">
           <input type="hidden" name="page_url" value="{{ .RelPermalink }}">
           <input type="hidden" name="location" value="{{ $loc }}">
-          <input type="hidden" name="level" value="GCSE">
+          <input type="hidden" name="level" value="{{ $level }}">
           <div class="loc-form-group">
             <input type="text" name="name" placeholder="Full Name*" required>
           </div>
@@ -359,44 +380,46 @@
       </div>
     </div>
 
+    {{/* FAQ defaults — level-aware. Used by both rendered FAQ and JSON-LD schema below. */}}
+    {{ $faq1q := .Params.faq_1_q | default (cond $isAlevel "What A-Level subjects can my child get tutoring in?" "What GCSE subjects can my child get tutoring in?") }}
+    {{ $faq1a := .Params.faq_1_a | default (cond $isAlevel "Tutors in our network cover all major A-Level subjects including Maths, Further Maths, Biology, Chemistry, Physics, Economics, Psychology, History, Geography, English Literature, and Computer Science. Get in touch and we'll find the right match for your child's specific subjects and exam board." "Tutors in our network cover all major GCSE subjects including Maths, English, Biology, Chemistry, Physics, History, Geography, French, Spanish, Computer Science, and Economics. Get in touch and we'll find the right match for your child's specific subjects and exam board.") }}
+    {{ $faq2q := .Params.faq_2_q | default (cond $isAlevel "When is the right time to start A-Level tutoring?" "When is the right time to start GCSE tutoring?") }}
+    {{ $faq2a := .Params.faq_2_a | default (cond $isAlevel "Year 12 is the most common starting point — early enough to build foundations properly before exam pressure mounts in Year 13. Students who start in Year 13 still see strong gains, especially on exam technique and the long-answer questions where the A and A* grades are won. Some families also use the summer between Year 12 and Year 13 to catch up on weaker topics before A2 content begins." "There is no wrong time to start. Students in Year 9 benefit from building foundations before the full GCSE curriculum begins. Year 10 is the most common starting point — enough time to address gaps properly. Year 11 tutoring focuses on exam technique and performance under pressure.") }}
+    {{ $faq3q := .Params.faq_3_q | default "Do your tutors cover the exam boards used in local schools?" }}
+    {{ $faq3a := .Params.faq_3_a | default (cond $isAlevel "Yes. A-Level tutors in our network are experienced across AQA, Edexcel, OCR, WJEC, and CIE. When we make an introduction, we check the tutor knows your child's specific specification — A-Level papers reward very specific evaluation chains and the mark scheme matters." "Yes. Tutors are experienced across AQA, Edexcel, OCR, and WJEC. When we make an introduction, we check that the tutor knows your child's specific exam board and specification — a tutor who knows the exact mark scheme can target the right content from the very first session.") }}
+    {{ $faq4q := .Params.faq_4_q | default (cond $isAlevel "How quickly will my child see results from A-Level tutoring?" "How quickly will my child see results from GCSE tutoring?") }}
+    {{ $faq4a := .Params.faq_4_a | default (cond $isAlevel "Most A-Level students notice a shift in confidence within the first four to six sessions — well before any formal grade improvement appears in mocks. For students aiming at Russell Group or Oxbridge, the biggest gains usually come from the analysis and evaluation work that schools rarely have time to teach properly. Grade improvements tend to follow over a half-term to a term." "Most students notice improved confidence within the first three or four sessions — well before any formal results come back. Grade improvements tend to follow within a half-term for students with a specific gap to address. For students rebuilding foundations, progress is steady and consistent.") }}
+
     <div class="loc-faq">
       <h2>Frequently Asked Questions</h2>
       <div class="loc-accordion loc-accordion--faq">
         <details class="loc-accordion__item">
           <summary class="loc-accordion__trigger">
-            <span>{{ .Params.faq_1_q | default "What GCSE subjects can my child get tutoring in?" }}</span>
+            <span>{{ $faq1q }}</span>
             <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
           </summary>
-          <div class="loc-accordion__body">
-            <p>{{ .Params.faq_1_a | default "Tutors in our network cover all major GCSE subjects including Maths, English, Biology, Chemistry, Physics, History, Geography, French, Spanish, Computer Science, and Economics. Get in touch and we'll find the right match for your child's specific subjects and exam board." }}</p>
-          </div>
+          <div class="loc-accordion__body"><p>{{ $faq1a }}</p></div>
         </details>
         <details class="loc-accordion__item">
           <summary class="loc-accordion__trigger">
-            <span>{{ .Params.faq_2_q | default "When is the right time to start GCSE tutoring?" }}</span>
+            <span>{{ $faq2q }}</span>
             <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
           </summary>
-          <div class="loc-accordion__body">
-            <p>{{ .Params.faq_2_a | default "There is no wrong time to start. Students in Year 9 benefit from building foundations before the full GCSE curriculum begins. Year 10 is the most common starting point — enough time to address gaps properly. Year 11 tutoring focuses on exam technique and performance under pressure." }}</p>
-          </div>
+          <div class="loc-accordion__body"><p>{{ $faq2a }}</p></div>
         </details>
         <details class="loc-accordion__item">
           <summary class="loc-accordion__trigger">
-            <span>{{ .Params.faq_3_q | default "Do your tutors cover the exam boards used in local schools?" }}</span>
+            <span>{{ $faq3q }}</span>
             <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
           </summary>
-          <div class="loc-accordion__body">
-            <p>{{ .Params.faq_3_a | default "Yes. Tutors are experienced across AQA, Edexcel, OCR, and WJEC. When we make an introduction, we check that the tutor knows your child's specific exam board and specification — a tutor who knows the exact mark scheme can target the right content from the very first session." }}</p>
-          </div>
+          <div class="loc-accordion__body"><p>{{ $faq3a }}</p></div>
         </details>
         <details class="loc-accordion__item">
           <summary class="loc-accordion__trigger">
-            <span>{{ .Params.faq_4_q | default "How quickly will my child see results from GCSE tutoring?" }}</span>
+            <span>{{ $faq4q }}</span>
             <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
           </summary>
-          <div class="loc-accordion__body">
-            <p>{{ .Params.faq_4_a | default "Most students notice improved confidence within the first three or four sessions — well before any formal results come back. Grade improvements tend to follow within a half-term for students with a specific gap to address. For students rebuilding foundations, progress is steady and consistent." }}</p>
-          </div>
+          <div class="loc-accordion__body"><p>{{ $faq4a }}</p></div>
         </details>
       </div>
     </div>
@@ -407,11 +430,40 @@
 <!-- =============================================
      SECTION 8: AREAS WE COVER
      ============================================= -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": {{ $faq1q | jsonify }},
+      "acceptedAnswer": { "@type": "Answer", "text": {{ $faq1a | jsonify }} }
+    },
+    {
+      "@type": "Question",
+      "name": {{ $faq2q | jsonify }},
+      "acceptedAnswer": { "@type": "Answer", "text": {{ $faq2a | jsonify }} }
+    },
+    {
+      "@type": "Question",
+      "name": {{ $faq3q | jsonify }},
+      "acceptedAnswer": { "@type": "Answer", "text": {{ $faq3a | jsonify }} }
+    },
+    {
+      "@type": "Question",
+      "name": {{ $faq4q | jsonify }},
+      "acceptedAnswer": { "@type": "Answer", "text": {{ $faq4a | jsonify }} }
+    }
+  ]
+}
+</script>
+
 <section class="loc-areas">
   <div class="container">
     <p class="loc-eyebrow loc-eyebrow--center">AREAS WE COVER</p>
-    <h2 class="loc-areas__title">GCSE Tutors Across the Region</h2>
-    <p class="loc-areas__lead">Distance doesn't decide who's the right tutor. We support GCSE students across {{ $loc }} and the surrounding areas with personalised one-to-one tuition tailored to their subjects, exam board, and goals.</p>
+    <h2 class="loc-areas__title">{{ $level }} Tutors Across the Region</h2>
+    <p class="loc-areas__lead">Distance doesn't decide who's the right tutor. We support {{ $level }} students across {{ $loc }} and the surrounding areas with personalised one-to-one tuition tailored to their subjects, exam board, and goals.</p>
     <div class="loc-areas__grid">
       {{ range $areaLinks }}
         {{ $parts := split . "|" }}
@@ -422,5 +474,52 @@
     </div>
   </div>
 </section>
+
+<!-- =============================================
+     SECTION 9: RELATED PAGES (sibling level + same level, other cities)
+     ============================================= -->
+{{ $allSubjectPages := where .Site.Pages "Layout" "subject" }}
+{{ $siblingLevelSameCity := where (where $allSubjectPages "Params.location" $loc) "Params.level" "!=" $level }}
+{{ $otherCitiesSameLevel := where (where $allSubjectPages "Params.level" $level) "Params.location" "!=" $loc }}
+
+{{ if or $siblingLevelSameCity $otherCitiesSameLevel }}
+<section class="gs-related">
+  <div class="container">
+    <p class="loc-eyebrow loc-eyebrow--center">EXPLORE MORE</p>
+    <h2 class="gs-related__title">More tutoring in {{ $loc }}</h2>
+
+    {{ if $siblingLevelSameCity }}
+    <div class="gs-related__siblings">
+      {{ range $siblingLevelSameCity }}
+      <a href="{{ .RelPermalink }}" class="gs-related__sibling-card">
+        <span class="gs-related__sibling-icon" aria-hidden="true">
+          {{ if eq .Params.level "A-Level" }}
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg>
+          {{ else }}
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+          {{ end }}
+        </span>
+        <span class="gs-related__sibling-text">
+          <span class="gs-related__sibling-eyebrow">{{ .Params.level }} tutoring</span>
+          <strong class="gs-related__sibling-heading">{{ .Params.level }} Tutors in {{ $loc }}</strong>
+          <span class="gs-related__sibling-sub">See our {{ .Params.level }} tutors, reviews and post-{{ cond (eq .Params.level "A-Level") "18" "16" }} pathways for {{ $loc }} students.</span>
+        </span>
+        <svg class="gs-related__sibling-arrow" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+      </a>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    {{ if $otherCitiesSameLevel }}
+    <p class="gs-related__subhead">{{ $level }} tutoring in other cities</p>
+    <div class="gs-related__grid">
+      {{ range $otherCitiesSameLevel }}
+      <a href="{{ .RelPermalink }}" class="loc-area-card">{{ .Params.level }} Tutors in {{ .Params.location }}</a>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
 
 {{ end }}

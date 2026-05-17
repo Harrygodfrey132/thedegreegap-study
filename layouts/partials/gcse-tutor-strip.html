@@ -1,6 +1,9 @@
-{{ $loc := .Params.location | default "Your Area" }}
+{{ $loc      := .Params.location | default "Your Area" }}
+{{ $level    := .Params.level    | default "GCSE" }}
+{{ $isAlevel := eq $level "A-Level" }}
 
-{{ $tutors := slice
+{{/* Tutor list — set per page via `tutors:` in frontmatter. Falls back to a curated default. */}}
+{{ $defaultTutors := slice
   (dict "name" "Avery Goldie"       "url" "https://thedegreegap.com/teachers/view/averygoldie"              "image" "https://thedegreegap.com/cache/bd/9b400d603fa3eed019a026bd303ed4.jpg")
   (dict "name" "Faizaan Butt"       "url" "https://thedegreegap.com/teachers/view/faizaanb1"                "image" "https://thedegreegap.com/cache/a0/5a456a5430697e519b98e79179462a.jpg")
   (dict "name" "Jacob Berry"        "url" "https://thedegreegap.com/teachers/view/108759843003883984075"    "image" "https://thedegreegap.com/cache/63/a430b8623078fe8465a73f61051343.jpg")
@@ -13,20 +16,24 @@
   (dict "name" "Jessica B"          "url" "https://thedegreegap.com/teachers/view/Jessica"                  "image" "https://thedegreegap.com/cache/2d/4ad483a6dc3f6d3381bd7557fbc5a9.jpg")
   (dict "name" "Nicolas Baez Bano"  "url" "https://thedegreegap.com/teachers/view/nicolasbaezbano"          "image" "https://thedegreegap.com/cache/6b/dc8fa2832bbce038311b0195260710.jpg")
 }}
+{{ $tutors           := .Params.tutors | default $defaultTutors }}
+{{ $browseUrl        := .Params.tutors_browse_url | default (cond $isAlevel "https://thedegreegap.com/teachers/languages/A-Level-Maths" "https://thedegreegap.com/teachers/languages/GCSE-Maths") }}
+{{ $tutorStripHead   := .Params.tutor_strip_heading | default (printf "%s tutors ready to work with your child" $level) }}
+{{ $tutorStripBody   := .Params.tutor_strip_body    | default "Browse tutor profiles, read about their approach and experience, or let us make the introduction — we'll match your child with the right person for their subjects and year group." }}
 
 <section class="gs-tutor-strip" aria-labelledby="gs-tutor-strip-title">
   <div class="container">
     <div class="gs-tutor-strip__inner">
       <div class="gs-tutor-strip__copy">
         <p class="loc-eyebrow">MEET THE TUTORS</p>
-        <h2 id="gs-tutor-strip-title">GCSE tutors ready to work with your child</h2>
-        <p>Browse tutor profiles, read about their approach and experience, or let us make the introduction — we'll match your child with the right person for their subjects and year group.</p>
+        <h2 id="gs-tutor-strip-title">{{ $tutorStripHead }}</h2>
+        <p>{{ $tutorStripBody }}</p>
         <div class="gs-tutor-strip__actions">
-          <a href="https://thedegreegap.com/teachers/languages/GCSE-Maths" class="btn btn-primary" target="_blank" rel="noopener">Browse GCSE tutors</a>
+          <a href="{{ $browseUrl }}" class="btn btn-primary" target="_blank" rel="noopener">Browse {{ $level }} tutors</a>
           <a href="#get-help" class="btn btn-outline">Ask us to match you</a>
         </div>
       </div>
-      <div class="gs-tutor-strip__gallery" aria-label="GCSE tutor profiles">
+      <div class="gs-tutor-strip__gallery" aria-label="{{ $level }} tutor profiles">
         {{ range $tutors }}
         <a class="gs-tutor-card" href="{{ .url }}" target="_blank" rel="noopener" aria-label="View {{ .name }}'s tutor profile">
           <img src="{{ .image }}" alt="{{ .name }}" loading="lazy" decoding="async">

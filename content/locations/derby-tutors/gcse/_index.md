@@ -1,51 +1,70 @@
 ---
 title: "GCSE Tutors in Derby | The Degree Gap"
-description: "Find experienced GCSE tutors in Derby for one-to-one support in Maths, English, Sciences and more — tailored sessions that close gaps and build exam confidence."
+description: "Find experienced GCSE tutors in Derby for one-to-one support that lifts grades before mocks. Maths, English, Sciences and more, matched to your child's exam board."
 layout: "subject"
 location: "Derby"
-banner_heading: "Looking for a GCSE Tutor in Derby Who Actually Finds the Gap?"
-banner_lead: "The Degree Gap connects Derby families with experienced GCSE tutors who identify exactly where things stopped making sense — and explain them differently until they do."
-online_heading: "Online GCSE Tutoring for Derby Students: the Right Tutor, Not Just the Nearest One"
-online_1: "Derby is a spread-out city. Finding the right GCSE tutor for your child's specific subject, exam board, and year group — and then making sessions fit around school, sport, and family life — isn't always straightforward in person. Online tuition removes that problem entirely. Students get matched with the best tutor for their needs, not whoever happens to be available nearby."
-online_2: "Sessions run through an interactive platform with a shared whiteboard, so students and tutors work through problems together in real time. That matters most in GCSE Maths and the sciences, where seeing the working is everything. Most Derby students are comfortable with the format from the very first session. No travel, no scheduling around traffic — just consistent, focused tutoring at a time that fits."
+level: "GCSE"
+grade_from: "E"
+grade_to: "B"
+grade_stat: "Keira moved from a grade E to a B in her GCSEs after working with her Degree Gap tutor."
 schools: ["Allestree Woodlands School", "Chellaston Academy", "Littleover Community School", "Murray Park Community School", "Ecclesbourne School", "Bemrose School"]
+area_links: ["Birmingham Tutors|/locations/birmingham-tutors/", "Nottingham Tutors|/locations/nottingham-tutors/", "Leicester Tutors|/locations/leicester-tutors/", "Sheffield Tutors|/locations/sheffield-tutors/", "Coventry Tutors|/locations/coventry-tutors/", "Leeds Tutors|/locations/leeds-tutors/"]
+
+hero_heading_line1: "Derby GCSE Tutors"
+hero_heading_line2: "Who Get the Grades Rolls-Royce Asks For"
+hero_lead: "Whether your child is in Year 11 at Chellaston aiming at a Rolls-Royce engineering apprenticeship, or at Bemrose working to clear a grade 5 in English and Maths, a Derby GCSE tutor gives them the one-to-one focus the classroom can't. We trace the gap, fix it before mocks, and get them the grades they need to keep their options open."
+
+first_lesson_eyebrow: "A DERBY PARENT'S STORY"
+first_lesson_heading: "The Difference the Right Derby GCSE Tutor Can Make"
+first_lesson_context: "Derby's GCSE results sit below the national average, and the gap widened further after Covid. In our experience this rarely comes down to effort. Larger comprehensives can't always slow down when a student misses an idea in Year 8 or 9, and by the time mocks arrive, those quiet gaps have stacked up. A good Derby GCSE tutor finds where things stopped clicking and fixes it before mocks. Proper GCSE tutoring doesn't reteach the textbook. It traces a missing concept back to where it started, then rebuilds from there."
+first_lesson_quote: "Has definitely helped me increase my grades from an E to a B."
+first_lesson_quote_name: "Keira"
+first_lesson_quote_role: "GCSE Student"
+first_lesson_quote_grade: "Grade E to Grade B"
+
+tutor_strip_heading: "Derby GCSE tutors who know the local school pace"
+tutor_strip_body: "Class sizes at Murray Park, Bemrose and Allestree aren't built for one-to-one attention. Our Derby GCSE tutors give your child that time. They've worked with Year 10 and Year 11 students across the city and know what changes between the November mocks and the summer exams. Browse profiles below, or let us match your child to the right person."
+
 pathways_heading: "What Could Be Next After Your Derby GCSEs"
-pathways_lead: "A few of the sixth forms, apprenticeships and college routes Derby students typically move on to once their grades come through."
+pathways_lead: "A few of the post-16 destinations our Derby GCSE tutoring students typically move on to once their grades come through."
 pathways:
   - title: "Sixth Forms"
     body: >
-      Many Year 11 students in Derby stay on at school sixth forms to take A Levels. Chellaston Academy and Ecclesbourne are two of the most popular destinations locally, alongside Littleover Community School and Allestree Woodlands. Entry typically requires grade 5 across the board, with grade 6 in the specific subjects taken at A Level. Ecclesbourne is one of the strongest performers in the area for A Level outcomes, while Chellaston offers an especially broad subject range.
+      Most Derby Year 11 students stay on for A Levels at a school sixth form. Chellaston Academy Sixth and Ecclesbourne School are the strongest performers locally, both asking for grade 5 across the board with grade 6 in the specific subjects taken at A Level. Littleover Community School and Allestree Woodlands Sixth Form sit alongside them. Bishop Lonsdale's smaller sixth form is an option further west. A GCSE Maths tutor or GCSE English tutor in Year 11 can be the difference between scraping in and being able to pick the subjects your child actually wants.
   - title: "Apprenticeships"
     body: >
-      Derby is one of the strongest cities in the UK for apprenticeships, thanks to its concentration of engineering employers. Rolls-Royce runs intermediate, advanced and degree-level schemes from its Sinfin site — among the most competitive in the country. Toyota hires manufacturing apprentices each year at Burnaston, and Alstom (formerly Bombardier) takes on rail engineering apprentices at Litchurch Lane. The NHS Derby and Burton trust offers healthcare apprenticeships across nursing, allied health and admin routes. Most schemes require grade 4–5 in Maths and English, with strong Science grades for engineering.
+      Derby has one of the strongest apprenticeship markets in the country thanks to its engineering employers. Rolls-Royce runs its biggest UK apprenticeship programme out of Sinfin, with intermediate, advanced and degree routes recruiting heavily from Derby Year 11 leavers. Toyota Manufacturing UK runs production and engineering apprenticeships from Burnaston, and Alstom takes on rail engineering apprentices at Litchurch Lane. The NHS Derby and Burton trust runs healthcare apprenticeships across nursing and allied health. Most require grade 4 to 5 in Maths and English, with strong GCSE Sciences tutoring often making the difference for the technical engineering routes.
   - title: "Further Education"
     body: >
-      Derby College is the main further-education option in the city. Its Roundhouse Campus in Pride Park focuses on engineering, construction and digital subjects, while the Joseph Wright Centre in the city centre covers creative, business and humanities courses. Both run BTECs, T Levels and the classroom side of apprenticeship programmes. Students further south often go to Burton and South Derbyshire College instead. Entry usually requires grade 4 in Maths and English, with higher grades for Level 3 vocational courses and T Levels.
-area_links: ["Birmingham Tutors|/locations/birmingham-tutors/", "Nottingham Tutors|/locations/nottingham-tutors/", "Leicester Tutors|/locations/leicester-tutors/", "Sheffield Tutors|/locations/sheffield-tutors/", "Coventry Tutors|/locations/coventry-tutors/", "Leeds Tutors|/locations/leeds-tutors/"]
-faq_1_q: "What GCSE subjects can Derby students get tutoring in?"
-faq_1_a: "Tutors in our network cover all core and option GCSE subjects, including Maths, English Language, English Literature, Biology, Chemistry, Physics, History, Geography, French, Spanish, Computer Science, and Economics. If your child needs support in a subject not listed, get in touch and we'll find the right match."
-faq_2_q: "My child is in Year 10 — is it too early to start GCSE tutoring?"
-faq_2_a: "Year 10 is an ideal time to start. Students who begin tutoring in Year 10 have time to address gaps properly rather than cramming in Year 11. Many of the Derby students we work with wish they'd started earlier. Getting the foundations right now means exam season is far less stressful."
-faq_3_q: "Do your tutors know the specific GCSE exam boards used in Derby schools?"
-faq_3_a: "Yes. Tutors are experienced across AQA, Edexcel, OCR, and WJEC. When we match a student with a tutor, exam board knowledge is one of the things we check. A tutor who knows your child's exact specification can target the right content and mark scheme from the very first session."
-faq_4_q: "How quickly will my child start seeing results?"
-faq_4_a: "Most families notice a change in confidence within three or four sessions, well before any formal results come back. Grades tend to follow within a half-term for students with a specific gap to address. For students who need to rebuild foundations in subjects like Maths, progress is steady rather than overnight — but it is consistent."
-first_lesson_eyebrow: "A DERBY PARENT'S STORY"
-first_lesson_heading: "The Difference the Right Derby GCSE Tutor Can Make"
-first_lesson_context: "Derby City's GCSE attainment in English and Maths has trailed the national benchmark for several years, and the gap widened further after Covid. In our experience this rarely comes down to effort — gaps that opened up quietly in Year 8 or 9 simply went unaddressed in larger classes, and only surfaced once mocks arrived. The right tutor finds those gaps, fixes them properly, and the grades follow."
-first_lesson_quote: "My son was sitting on a 4 in Maths and needed a 6 to take A Level Economics. After a term with his Degree Gap tutor he came out of his Year 11 mocks with a 7. The biggest change wasn't even the grade — it was how calm and prepared he was walking into the exam."
-first_lesson_quote_name: "Chris M."
-first_lesson_quote_role: "Derby Parent of GCSE Student"
-first_lesson_quote_grade: "Grade 4 → Grade 7 in GCSE Maths"
-first_lesson_cta: "Call the Co-Founder"
-first_lesson_cta_phone: "07859965776"
-grade_from: "4"
-grade_to: "7"
-grade_stat: "Sarah K.'s daughter improved from a grade 4 to a 7 in GCSE Maths over the course of a single term with her tutor."
-hero_review_name: "Ellen"
-hero_review_role: "Parent of GCSE Student"
-hero_review_subject: "GCSE Maths"
-hero_review_text: "My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After just one term she went from a predicted grade 4 to achieving a grade 7 in her mock. The tutor found exactly where she'd been losing marks and worked through it methodically. She walked into her final exam calm and prepared."
+      Derby College is the main FE provider in the city. The Roundhouse Campus in Pride Park focuses on engineering, construction and digital subjects, and the Joseph Wright Centre in the city centre runs creative, business and health courses. Both deliver BTECs, T Levels and the classroom side of apprenticeship programmes. Burton and South Derbyshire College serves students slightly further south. Entry usually requires grade 4 in Maths and English for Level 3 study, and one-to-one GCSE tutoring in Year 11 often makes that bar more comfortable.
+
+reviews:
+  - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B."
+  - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him."
+  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. We were given a selection of tutors to choose from and told that if it did not feel like a good match we could try others. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
+  - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings. Highly recommend."
+  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."
+  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents. My daughter passed both English and Maths GCSE."
+  - "Isabel|Parent of iGCSE Student|The Degree Gap gave our son the support he needed for his iGCSEs, especially in Maths and Economics. Lessons were clear, engaging, and built his confidence. Highly recommended."
+  - "Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional. Both my sons exceeded their expected grades in their GCSEs and A Levels and got into their first choice universities. I cannot recommend them highly enough."
+  - "Jessica|GCSE Student|I was helped with both Maths and English for my GCSEs and passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree."
+  - "Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE. Thank you."
+  - "Bryan|GCSE Student|Helped me a lot and really showed me what I need to improve on."
+  - "Heidi|Parent|Our tutor is simply amazing with our daughter. He understands her completely and her sessions are helping her with her school work so much. We cannot thank him enough."
+  - "Theresa|Parent|The Degree Gap was fantastic. Their knowledge and guidance helped my son find direction in both his studies and future plans."
+  - "Annette|Parent|This company helped us find a tutor for Geography and my son has excelled so much in just a few months. Our tutor has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself. He also manages neurodiversity effectively."
+  - "Marfa|Student|Very engaging lessons that helped me improve my grade in maths and successfully get admitted to university."
+  - "Sorland|Grandparent|My granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
+
+faq_1_q: "What GCSE subjects can my child get tutoring in across Derby?"
+faq_1_a: "Derby GCSE tutors in our network cover the full curriculum. A GCSE Maths tutor or GCSE English tutor is the most common request, and GCSE Sciences tutors come close behind for students aiming at Rolls-Royce, Toyota or Alstom apprenticeship routes. We also match families with tutors for History, Geography, Computer Science, Economics and the modern languages. Every Derby family gets a tutor who knows their child's exam board."
+faq_2_q: "When is the right time to start GCSE tutoring in Derby?"
+faq_2_a: "Year 10 is the most common starting point. That gives a clear year to fix gaps before Year 11 turns into a sprint. Students in Year 9 at Chellaston, Ecclesbourne or Allestree often start earlier to keep pace with the standard their school sets. Year 11 GCSE tutoring works too, with the focus shifting to exam technique and the topics where the most marks are leaking."
+faq_3_q: "Do your tutors cover the exam boards used in Derby schools?"
+faq_3_a: "Yes. Tutors are experienced across AQA, Edexcel, OCR and WJEC, the four boards Derby schools use most. When we introduce you to a Derby GCSE tutor, we confirm they know your child's specific exam board and specification before the first session."
+faq_4_q: "How quickly will my child see results from GCSE tutoring?"
+faq_4_a: "Most Derby families notice a shift in confidence within three or four sessions, well before any formal results come back. Grade improvements typically follow inside a half-term when there's a clear gap to fix. For students rebuilding the basics in Maths or English, progress is slower but it's steady, and tends to be visible by the next round of mocks."
+
 sitemap:
   priority: 0.7
   changefreq: monthly
