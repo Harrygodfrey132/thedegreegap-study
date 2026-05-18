@@ -1,83 +1,55 @@
 ---
 title: "English Literature Personal Statement Help"
-description: "How to write a strong English literature personal statement for UK universities. What admissions tutors look for, how to demonstrate critical reading, and how the ELAT works."
+description: "How to write an English Literature personal statement for UK universities. What admissions tutors look for, close reading, the canon debate, and reading beyond A-Level."
 subject: "English Literature"
 admissions_tests:
   - name: "ELAT"
-    note: "Oxford English"
-form_cta: "Develop an English Literature statement with a critical thread"
-form_intro: "Tell us the texts, periods, themes, or writers you want to discuss, and we will help you build a coherent literary argument."
-form_message_label: "What literary idea should your statement explore?"
-form_message_placeholder: "For example: power and language, unreliable narrators, silence in drama, Gothic anxiety, class and voice, comedy and politics, or two texts you want to compare."
-form_button: "Get English statement help"
-form_note: "We will reply with advice on making your statement analytical, comparative, and text-led."
+    note: "Discontinued by Oxford in 2024. Check current requirements with the college."
+form_cta: "Build an English Literature personal statement around a real reading life"
+form_intro: "Tell us the texts, critics, or debates you want to write about, and we'll help you turn them into a coherent statement with a critical argument running through it."
+form_message_label: "Which writers, texts, or critical questions do you want your statement to engage with?"
+form_message_placeholder: "For example: Toni Morrison's Beloved and the question of historical memory, Anne Carson's Autobiography of Red as a hybrid form, the decolonising the canon debate, Virginia Woolf's essays, Terry Eagleton's Literary Theory, James Wood's How Fiction Works, Beckett's late plays, or a comparison between a canonical text and a contemporary one."
+form_button: "Get English Literature statement help"
+form_note: "We'll reply with reading suggestions and a structural plan for your statement."
 related_pages:
-  - title: "Oxford: what's different"
+  - title: "Oxford English: what's different"
     url: "/personal-statement-tutor/oxford/"
+  - title: "Cambridge English: what's different"
+    url: "/personal-statement-tutor/cambridge/"
+  - title: "History personal statement help"
+    url: "/personal-statement-tutor/history/"
 ---
 
-## A stronger English Literature angle
+Admissions tutors at English departments are professional readers. They will read your statement the same way they read a poem. So the most useful way to plan an English Literature personal statement is to build it around a small reading list, five or six things you've genuinely engaged with, and then write paragraphs that show how you read them rather than that you read them.
 
-One of the strongest ways to write an English Literature personal statement is to show that **literature lets us study power through language**. This gives your statement a critical thread instead of becoming a list of books you enjoyed.
+Below are six texts worth considering as backbone material. None of them need to be your favourite. They need to be things you can say something interesting about.
 
-The most interesting statements compare how different writers handle one idea. You might write about how rhetoric creates authority, how silence works in drama, how class shapes voice, or why comedy can be more politically dangerous than tragedy.
+## Toni Morrison, *Beloved*
 
-## How to write this in your statement
+*Beloved* sits at the centre of the canon vs decolonising the canon debate, which any serious English Literature personal statement should at least acknowledge exists. Morrison forces a question A-Level rarely asks: what does it mean for a national literature to have been built on the silence of the people it enslaved? Write about the novel's refusal of linear time, or the way the ghost is treated as a literal household member rather than a symbol. Avoid summarising the plot. The point is what Morrison does with form, the broken chronology, the choral chapters, the unattributed speech, to make the reader experience a kind of historical disorientation. That's a close-reading observation, not a thematic one.
 
-A strong English paragraph should make a claim about how a text works. Avoid simply describing plot or saying a book was moving. Focus on form, language, structure, voice, genre, or performance.
+## Virginia Woolf, *To the Lighthouse* or the essays
 
-One possible opening idea is:
+If you write about *To the Lighthouse*, the obvious move is to talk about the "Time Passes" section as a formal experiment, ten years of war and death compressed into a few pages of bracketed parentheticals while the house decays. The less obvious move is to read Woolf's essays alongside it. "Mr Bennett and Mrs Brown" or "Modern Fiction" tell you what she was trying to do, and watching a novelist articulate her own method is rare. It also gives an English Literature tutor something to talk to you about at interview that isn't just plot.
 
-> I became interested in English when I noticed how language can make power appear natural. Reading Shakespeare alongside modern political writing made me think about how rhetoric does not simply express authority, but helps create it.
+## Anne Carson, *Autobiography of Red*
 
-From there, you could compare an unreliable narrator as a moral problem, discuss Gothic fiction as a response to social anxiety, or examine how silence functions in drama.
+A verse novel, loosely based on a fragment of the Greek poet Stesichorus, about a winged red monster called Geryon who falls in love with Herakles. Carson is useful because she breaks the genre categories A-Level depends on. Is it poetry? A novel? Translation? Criticism? Writing about Carson signals that you've thought about what a literary form is and what happens when writers refuse to stay inside one. It also pairs well with a canonical text, which is the kind of comparative move strong statements make.
 
-## Reading and research ideas
+## Samuel Beckett, the late prose or *Endgame*
 
-Useful sources include Close Readings, Approaching Shakespeare, Oxford English podcasts, *The Paris Review*, *In Our Time*, literary criticism, author interviews, and theatre productions. The strongest use of wider reading is not naming the critic, but using the critic to sharpen your own interpretation.
+Beckett is hard, and writing about him badly is worse than not writing about him at all. But the late prose, *Worstward Ho*, *Company*, *Ill Seen Ill Said*, is some of the most concentrated writing in English, and the question of what it means for a writer to keep trying to reduce language until almost nothing is left is a real literary question. If *Endgame* is more your speed, write about the stage directions. They are doing as much work as the dialogue.
 
-## What a strong English Literature personal statement looks like
+## A contemporary novel: Zadie Smith, Ali Smith, or Bernardine Evaristo
 
-English literature admissions tutors are, themselves, close readers. They will read your personal statement the same way they read a text: attending not just to what you say but to how you say it, what you choose to include, what the choices reveal about your critical sensibility. This makes the English personal statement simultaneously more demanding and more interesting than most: the form and the content are both being assessed.
+Pick one and read more than one of their books. Zadie Smith's essay "Speaking in Tongues" is a useful pairing with *White Teeth* or *NW* because it tells you how she thinks about voice. Ali Smith's seasonal quartet, *Autumn*, *Winter*, *Spring*, *Summer*, gives you a chance to write about how a novelist responds to political events in something close to real time. Evaristo's *Girl, Woman, Other* raises questions about polyphony and form that connect back to Morrison. The aim is to show that your reading life didn't stop in 1900.
 
-The strongest English applications convey a genuine reading life: a wide-ranging curiosity about literature across periods and forms, a developing critical voice, and the ability to say something interesting and specific about a text rather than simply describing its themes.
+## A work of literary theory or criticism
 
-## What admissions tutors look for
+You need one. Terry Eagleton's *Literary Theory: An Introduction* is the standard, opinionated, readable, and it explains what schools like New Criticism, structuralism, deconstruction, and feminist theory actually claim. Roland Barthes' essay "The Death of the Author" is short and worth reading firsthand rather than via summary. James Wood's *How Fiction Works* is more practical, a working critic explaining how free indirect style, detail, and dialogue do their work on the page. Pick one. Reference it once, in a sentence that shows the reading changed how you read something else. Don't quote it.
 
-**A developed critical voice.** Not just "I enjoyed this novel" or "I found this poem moving": but an argument about a text, an idea about what it's doing, a reading that goes beyond paraphrase. English tutors want to see that you can make an interpretive claim and support it with close attention to the text.
+## Reading not listing
 
-**Breadth and depth of reading.** Read widely across periods, genres, and traditions. But breadth alone is insufficient: tutors want to see depth too. Pick three or four texts or authors you've engaged with seriously, and say something genuinely insightful about them.
+The single most common mistake in an English Literature personal statement is to list favourite books with brief approving comments. Admissions tutors don't want to know what you've read. They want to know how you read. That means making a critical claim about a text and supporting it with attention to the language, the form, the choices the writer made. Close reading is the discipline's core skill. Everything else, the theory, the historical context, the comparative work, sits on top of it.
 
-**Engagement with criticism and theory.** A-level English often treats texts as if they exist in a critical vacuum. Awareness that there is a rich tradition of literary criticism: that different theoretical frameworks produce different readings: signals intellectual sophistication. You don't need to have read Derrida. But knowing that criticism is an ongoing conversation, not a set of correct answers, is important.
-
-**Quality of writing.** Your personal statement is also, implicitly, a writing sample. It should be well-constructed, clearly argued, and stylistically alive. Clichés, padding, and weak sentence structure will undermine an otherwise strong application.
-
-## Common mistakes to avoid
-
-**Reviewing texts rather than analysing them.** "This novel is a powerful exploration of isolation and identity" is a review: it describes an effect without making a critical claim. What specifically about the text creates that effect? What choices does the author make? What's being argued?
-
-**Listing books without engagement.** A paragraph cataloguing every book you've read this year, with brief descriptions of each, tells a tutor that you've read. It tells them nothing about how you read. Depth beats breadth.
-
-**Neglecting form.** Literature is made of language: of sentences, images, rhythms, structures. Statements that engage only with themes and characters, ignoring form and style, miss what makes literary study distinct. Show that you attend to *how* a text works, not just *what* it says.
-
-**Trying to impress with obscure choices.** Mentioning Blanchot, Bolaño, or Celan to signal sophistication without being able to say anything substantive is transparent. Write about what you've actually engaged with deeply, however canonical.
-
-**Poor writing in a literary personal statement.** Given what you're applying for, every sentence needs to be good. Read your statement aloud. If it sounds flat, clunky, or mechanical, revise it.
-
-## Key experiences and skills to highlight
-
-- **Wide reading**: across periods (Renaissance, Romantic, Victorian, Modernist, contemporary), genres (poetry, fiction, drama, essay), and traditions (postcolonial, American, world literature)
-- **Literary criticism**: even if only introductory (try Terry Eagleton's *Literary Theory: An Introduction* or Jonathan Culler's *Literary Theory: A Very Short Introduction*)
-- **Theatre**: if you've seen productions of plays you've read, discuss how the live experience changed or complicated your reading
-- **Writing**: if you write fiction, poetry, or essays seriously, mention it briefly. It's relevant context.
-- **Languages**: reading in translation raises interesting questions about what gets lost or gained. If you read any literature in its original language, mention it.
-
-## How to structure your English Literature personal statement
-
-**Opening:** Start with a specific critical observation about a text or a question about literature that genuinely preoccupies you. Not "I have always loved reading": something more precise and more interesting.
-
-**Core paragraphs:** Two or three paragraphs developing your critical interests. For each text or author you discuss, make an argument rather than a summary. Show what you find interesting about the writing itself.
-
-**Breadth paragraph:** Signal the range of your reading: periods, genres, traditions. But keep it brief; depth is more important.
-
-**Closing:** What questions about literature do you most want to pursue? What aspects of the degree excite you most? Make it intellectually specific.
+When you draft your English Literature personal statement, write the paragraphs first and the opening last. The opening is the hardest sentence to write and the easiest to overwrite. And if you're working with an English Literature tutor, ask them to read for one thing only on the first pass: does every paragraph make an argument, or does at least one of them just describe? If the answer is the second, that paragraph needs rewriting before anything else.

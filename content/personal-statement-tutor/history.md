@@ -8,7 +8,7 @@ admissions_tests:
 form_cta: "Turn your History interests into an argument about evidence"
 form_intro: "Tell us the periods, debates, historians, sources, or public-history questions you want to include, and we will help you shape them."
 form_message_label: "What historical argument interests you?"
-form_message_placeholder: "For example: statues and memory, revolutions, disease and empire, ordinary people in archives, propaganda, migration, or a historian you have read."
+form_message_placeholder: "For example: Thompson on the English working class, Mary Beard on Roman citizenship, Olusoga on Black British history, the Whig interpretation, history from below, a parish register you read, or the HAT past paper you found hardest."
 form_button: "Get History statement help"
 form_note: "We will reply with advice on making your History statement interpretive, not narrative."
 related_pages:
@@ -16,70 +16,38 @@ related_pages:
     url: "/personal-statement-tutor/oxford/"
   - title: "Cambridge: what's different"
     url: "/personal-statement-tutor/cambridge/"
+  - title: "English Literature Personal Statement Help"
+    url: "/personal-statement-tutor/english-literature/"
+  - title: "Politics and IR Personal Statement Help"
+    url: "/personal-statement-tutor/politics-and-international-relations/"
 ---
 
-## A stronger History angle
+Most school History stops at three things: Tudors, Nazis, Cold War. A good History personal statement starts by noticing that, and going somewhere else. Below are three different framings you can use. Pick one. Don't try to do all three in 4,000 characters.
 
-One of the strongest History personal statement angles is: **history is not the past, it is an argument about the past**. This is much stronger than saying you enjoy stories or learning what happened.
+## Angle one: historians disagreeing
 
-You can explore historiography, archives, memory, propaganda, empire, migration, or how public history changes national identity. The aim is to show that you understand history as a discipline built from evidence, interpretation, and argument.
+The strongest opening move is to write about a debate, not an event. The Whig interpretation of history (the idea that the past is a steady march towards liberal parliamentary democracy) was demolished by Herbert Butterfield in 1931, and yet you can still see it in GCSE textbooks. That's a real thing to notice. So is the longer fight between "history from above" (kings, treaties, parliaments) and "history from below," which is where E P Thompson's *The Making of the English Working Class* sits. Thompson said the poor were not just acted upon. They had political ideas of their own, and you could find those ideas in pamphlets, hymns, court records, and the minutes of friendly societies.
 
-## How to write this in your statement
+If you've read Thompson, say what he changed for you. Did you go back and re-read a chapter of your A-Level Industrial Revolution unit and find it suddenly thin? That's the move. Christopher Hill on the English Revolution does something similar: he reads the 1640s through Levellers, Diggers, and Ranters rather than through Charles I's scaffold. Eric Hobsbawm's "long nineteenth century" reframes the whole 1789-1914 period as a single argument about capital and revolution. You don't have to agree with any of them. You have to show you've noticed that they're arguing.
 
-A strong History paragraph should not retell events. It should explain how interpretations differ, why evidence is incomplete, or what a source can and cannot show.
+A History tutor will often push you here: which historian do you actually find unconvincing, and why? An admissions tutor at Oxford or Cambridge will ask the same question at interview, so it's worth getting comfortable with it in the History personal statement itself.
 
-One possible opening idea is:
+## Angle two: a period and an argument, not a period and a summary
 
-> What drew me to history was the realisation that evidence does not speak for itself. Studying different interpretations of the same event made me interested in how historians construct arguments from incomplete records.
+The second framing is to pick a period you've gone deep on, and write a paragraph that is unmistakably an argument rather than a summary. The difference matters. Summary says: "I studied the Roman Republic and found its political institutions interesting." Argument says: "Reading Mary Beard's *SPQR* convinced me that Roman citizenship was a far stranger and more elastic category than the school version suggests, and I want to understand how that elasticity broke down in the third century." One sentence tells the reader what you did. The other tells them what you think.
 
-From there, you could discuss how statues become historical arguments, why revolutions often disappoint their supporters, the role of disease in empire, how ordinary people appear in elite archives, or national memory and selective forgetting.
+Period breadth helps you here. If everyone in your school is writing about the Third Reich, writing seriously about medieval kingship, the early modern witch trials, or the Haitian Revolution stands out. David Olusoga's *Black and British* is a useful entry point because it pulls the timeline back to the Tudors and forward to the present, and it forces you to think about which archives have been read and which have been left in the box. Natalie Zemon Davis on sixteenth-century France (*The Return of Martin Guerre*) is another good one: a single legal case becomes a window onto peasant identity, marriage, and how rural communities used the law.
 
-## Reading and research ideas
+Non-European history is undersold. A History personal statement that engages with Mughal India, Song China, or West African empires before contact will be read by someone who has spent the previous hour reading about appeasement for the fortieth time. They will be grateful.
 
-Useful sources include *History Today*, *In Our Time*, Yale Open Courses, museum archives, historical documentaries, and historians' essays. When using a source, focus on the interpretation it offers and how it differs from another view.
+## Angle three: sources and method
 
-## What a strong History personal statement looks like
+The third framing is methodological. What is a source, and what can it tell you? This is the angle Oxford's HAT actively rewards, because the paper hands you an unfamiliar document and asks you to read it as a historian would.
 
-A strong history personal statement reads like the work of someone who thinks historically: which is different from someone who knows a lot of history. Historical thinking means engaging with evidence critically, understanding that the past is interpreted and argued over rather than simply recovered, and being comfortable with the ambiguity that comes when sources conflict and accounts diverge. The best history applications convey genuine intellectual excitement about the discipline, not just familiarity with events and periods.
+You can build a paragraph around a single source you've actually worked with. A parish register. A 1911 census return. A trench newspaper on the Imperial War Museum's site. A pamphlet on Early English Books Online. The point is not to summarise what the source says. It's to think about who made it, who it left out, why it survived when other things didn't, and what the silences look like. Olusoga is good on this. So is Hobsbawm, who was always interested in how statistical sources (factory inspectors' reports, census categories) shape the histories that can be written from them.
 
-Breadth matters in a history personal statement, but so does depth. Tutors want to see that you've engaged seriously with at least one or two areas: read the historiography, explored the debates, formed and tested your own views.
+If you've done an EPQ, this is where it goes. Don't describe the topic. Describe the argument, the sources you used, and the moment you changed your mind. That last bit is the one most History personal statement drafts skip, and it's the one that signals you actually did the work.
 
-## What admissions tutors look for
+## Putting it together
 
-**Historiographical awareness.** History is not just about what happened: it's about how we know, why interpretations differ, and what historians argue with each other about. A personal statement that engages with historiographical debate (E.H. Carr vs. Elton on what history is, the Intentionalist vs. Structuralist debate on the Holocaust, revisionist interpretations of the British Empire) signals a sophisticated understanding of the discipline.
-
-**Evidence of independent reading.** A-level history texts are not sufficient. Tutors want to see that you've read historians: not just about the events they cover, but engaging with their arguments, their sources, their methods. Who has shaped your understanding of a period or question you've studied?
-
-**Critical engagement with sources.** Primary sources are the raw material of history, and engaging with them: even briefly: demonstrates that you understand what historical practice actually involves. Have you looked at a document from a period you find interesting? What did it tell you? What were its limits?
-
-**A defined historical curiosity.** Not "I love all history": which period, which questions, which themes genuinely fascinate you? Medieval social structures, early modern religious conflict, the history of science, post-colonial nation building, twentieth-century genocide: specificity makes a statement memorable.
-
-## Common mistakes to avoid
-
-**Narrative retelling.** Describing historical events as if the tutor doesn't already know them is wasted space. Every sentence you spend on "During World War One, the assassination of Archduke Franz Ferdinand triggered a chain of alliances..." is a sentence you could spend on analysis, argument, or reflection.
-
-**Vague claims about the past.** "History teaches us lessons we should not forget" is a cliché that signals the absence of a real argument. What specifically does the period or question you find most compelling actually tell us? Be precise.
-
-**Ignoring historiography entirely.** The most common mistake in history personal statements is treating the subject as if it consists only of events, not of arguments about events. Engaging with even one historiographical debate transforms a statement from competent to genuinely interesting.
-
-**Listing periods and places without depth.** "I enjoy studying British history, European history, and Asian history" is a broad claim that tells a tutor nothing. Pick two or three areas you've engaged with seriously and say something substantive about them.
-
-**Confusing interest in the present with interest in the past.** Some applicants write about current affairs and assume this constitutes historical interest. History involves particular methods, sources, and forms of argument: show you understand and are drawn to those specifically.
-
-## Key experiences and skills to highlight
-
-- **Reading historians, not just textbooks**: Hilary Mantel (for a novelist's historical imagination), Norman Davies, Simon Schama, Orlando Figes, Caroline Elkins, David Olusoga, or any historians relevant to the periods you've studied
-- **Archives and primary sources**: if you've visited an archive, a museum collection, or engaged with digitised primary sources, discuss what you found and what it made you think
-- **EPQ in history**: if you've done a historical EPQ, discuss the argument, not the topic. What did you find? How did you evaluate conflicting sources?
-- **Visits and engagement**: museums, historical sites, documentary series. Brief, but useful as context.
-- **Current affairs as historical context**: connecting contemporary issues to their historical roots shows sophisticated thinking, as long as you're analysing history rather than just commenting on the present
-
-## How to structure your History personal statement
-
-**Opening:** Start with a specific historical question, debate, or source that captured your imagination. Make it argumentative, not descriptive.
-
-**Core paragraphs:** Develop two or three areas of genuine historical interest. For each, demonstrate critical thinking: engage with historiography, mention specific historians you've read, show that you've formed views and tested them against evidence.
-
-**Independent reading paragraph:** Show what you've explored beyond the syllabus. Name historians and engage briefly with their arguments.
-
-**Closing:** What historical questions do you most want to pursue at university? Ground your application in genuine intellectual curiosity, not career ambition or a desire to "preserve the past."
+You don't need all three angles. You need one, executed properly, with named historians, a real debate, and a concrete source or text. History tutoring at this stage is mostly about cutting: cutting the events the reader already knows, cutting the adjectives, cutting the sentence that says history is important because it teaches us about ourselves. Keep the argument. Keep the disagreement. Keep the specific page of Thompson, or Beard, or Davis, that made you stop and re-read.

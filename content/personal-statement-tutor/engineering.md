@@ -1,84 +1,55 @@
 ---
 title: "Engineering Personal Statement Help"
-description: "How to write a strong engineering personal statement for UK universities. What admissions tutors look for across mechanical, electrical, civil and chemical engineering: and how to stand out."
+description: "How to write an Engineering personal statement for UK universities. What admissions tutors look for across mechanical, civil, electrical and aerospace routes."
 subject: "Engineering"
 admissions_tests:
   - name: "ESAT"
-    note: "Oxford, Cambridge, Imperial, and select engineering/science courses"
-form_cta: "Write an Engineering personal statement around design trade-offs"
-form_intro: "Tell us about the systems, failures, materials, or projects that interest you, and we will help you turn them into precise engineering insight."
-form_message_label: "What Engineering problem are you drawn to?"
-form_message_placeholder: "For example: why bridges fail, battery degradation, biomimicry, safety margins, repairable products, cheap materials, or a project you built."
+    note: "Cambridge, Imperial, and some other engineering courses"
+form_cta: "Build an Engineering personal statement around a real project you iterated on"
+form_intro: "Tell us about the Arduino build, CAD model, FEA simulation, or F1 in Schools team you actually worked on. We'll help you write about it the way a department head reads it."
+form_message_label: "Which engineering discipline are you applying to, and what have you built?"
+form_message_placeholder: "For example: I'm leaning mechanical at Bath with a year in industry, I built a line-following robot with an Arduino Uno, the PID loop kept overshooting and I rewrote it three times. Or: I'm applying for the Cambridge general Engineering course and want to write about my F1 in Schools car's drag testing."
 form_button: "Get Engineering statement help"
-form_note: "We will reply with advice on showing engineering judgement, not just enthusiasm."
+form_note: "We'll reply with feedback on how a real admissions tutor reads your draft, not generic praise."
 related_pages:
   - title: "Oxford Engineering: what's different"
     url: "/personal-statement-tutor/oxford/"
   - title: "Cambridge Engineering: what's different"
     url: "/personal-statement-tutor/cambridge/"
+  - title: "Computer Science personal statement help"
+    url: "/personal-statement-tutor/computer-science/"
+  - title: "Mathematics personal statement help"
+    url: "/personal-statement-tutor/mathematics/"
 ---
 
-## A stronger Engineering angle
+## What admissions tutors actually want to see
 
-One of the most useful ways to write an Engineering personal statement is to show that **engineering is the art of compromise**. Every design has to balance cost, strength, sustainability, safety, efficiency, and usability.
+Engineering is one of the most over-applied-to subjects in the UK, and the drafts that land on tutors' desks read almost identically. Before you write anything, it's worth knowing what gets your Engineering personal statement filed under "another one" and what gets it read twice.
 
-This immediately makes your statement more interesting than a generic paragraph about bridges, cars, planes, or wanting to build things. Engineering tutors want to see how you think about constraints.
+## Four things that quietly sink an application
 
-## How to write this in your statement
+**"I've loved LEGO Technic since I was six."** Tutors at Imperial and Bristol have read this opening sentence so many times they stopped counting. Childhood toy stories tell the reader nothing about whether you can survive second-year fluid mechanics. If LEGO genuinely led somewhere, like a working differential you machined later, skip to the later thing.
 
-A strong Engineering paragraph should focus on a design problem. What was the constraint? What failed? What trade-off had to be made? What did you learn from the solution?
+**"I want to build cool stuff that changes the world."** This sentence appears in roughly a third of statements and means nothing. Engineering is a profession with chartered status, codes of practice, and a lot of spreadsheets. A statement that treats it as a romantic calling reads as someone who has not yet met the discipline.
 
-One possible opening idea is:
+**Reciting GCSE Physics grades and A-Level modules.** Your grades are already on the form. Listing them in prose burns half a paragraph and signals you've run out of things to say. The same goes for "I am taking Maths, Further Maths and Physics, which are the perfect combination for engineering."
 
-> I became interested in engineering through the idea that every design is a compromise between cost, strength, sustainability, safety, and usability. Looking at structural failures made me realise that engineering is not just about making things work, but understanding why they fail.
+**Claiming interest in every branch at once.** "I am fascinated by mechanical, electrical and chemical engineering" tells the reader you haven't picked one yet. That's fine privately. It's fatal on paper. Outside Cambridge, where the general Engineering Tripos lets you defer the choice until second year, most departments want you applying to a specific discipline: mechanical at Loughborough, civil at Surrey, electrical at Southampton, chemical at UCL, aerospace at Bristol. Your Engineering personal statement should sound like someone who's already started to commit.
 
-From there, you could explore why bridges fail, biomimicry in design, battery degradation and electric vehicles, why cheap materials can be brilliant engineering, or the challenge of making products repairable.
+## Four things that move the needle
 
-## Reading and research ideas
+**A real project, documented through its iterations.** Not "I built a robot." A line-following robot with an Arduino Uno where the first PID loop overshot the line by 40mm, you logged the sensor output, retuned the gains twice, and finally hit stable tracking at 0.8 m/s. Or a CAD model in Fusion 360 of a bike frame where the first finite element analysis showed stress concentrations at the seat tube weld and you redesigned the gusset. The iteration is the engineering. The first attempt is just enthusiasm.
 
-Useful sources include Practical Engineering, the Royal Academy of Engineering, documentaries on structural failure, and material science articles. The best use of a source is to show how it changed the way you think about a design constraint.
+**Awareness of MEng versus BEng.** Most applicants don't realise these are different degrees with different career consequences. The MEng is the integrated four-year route that maps directly onto Chartered Engineer status with the IET, IMechE or IStructE depending on discipline. The BEng is three years and requires further study or workplace evidence for chartership. Writing one sentence showing you understand which one you've picked and why signals seriousness in a way nothing else does in 47 lines.
 
-## What a strong Engineering personal statement looks like
+**A specific discipline focus.** Even at Cambridge, where the course is general for the first two years, the strongest Engineering personal statement still has a centre of gravity. Maybe yours is structural: you've read Gordon's *Structures: Or Why Things Don't Fall Down* and you want to write about why the Tacoma Narrows failure was an aeroelastic flutter problem rather than just wind. Maybe it's control systems and you've been reading about Kalman filters. The point is that a real specialism, even a tentative one, lets a tutor picture you in their department.
 
-The strongest engineering personal statements share a specific quality: they show a mind that looks at the physical world and wants to understand how it works: and then improve it. Not a passion for engineering in the abstract, but a concrete curiosity: why do suspension bridges oscillate? How does a transistor gate operate? What are the thermodynamic limits on engine efficiency? This kind of specific, grounded curiosity is what distinguishes a compelling application from a competent one.
+**A clear-eyed view of the year in industry.** Bath, Loughborough and Surrey are well known for their year-in-industry placements, and Sheffield, Bristol and Strathclyde all run strong versions too. If you're applying to any of these, mentioning that the placement year was part of your choice, rather than incidental, shows you've actually read the course pages. Departments care that you understand what the placement does for graduate employability with firms like Rolls-Royce, Arup, Dyson or BP.
 
-Engineering is also unusual among university subjects in that practical experience: building, making, fixing, designing: carries real weight. The best statements combine intellectual rigour with evidence of hands-on engagement.
+## A note on STEM competitions
 
-## What admissions tutors look for
+F1 in Schools, the Engineering Education Scheme, FIRST Robotics, the Arkwright Scholarship, the Smallpeice Trust residentials: these all carry weight, but only if you write about what you did rather than that you took part. A useful test: would your paragraph still work if you swapped "F1 in Schools" for "a school project"? If yes, you haven't said anything specific. If no, because you've named the CFD package you used or the drag coefficient you measured, you're on the right track.
 
-**Physics and mathematics application.** Engineering degrees are built on applied mathematics and physics. Tutors want to see that you engage with these subjects not just as things to pass exams in but as tools for understanding the world. Show you can move between physical intuition and mathematical description.
+## What this means for your draft
 
-**Specific engineering interests.** Broad enthusiasm for "engineering" is common and unmemorable. Enthusiasm for a particular type of engineering problem: structural analysis, control systems, materials science, fluid dynamics, circuit design: is much more effective. You don't need to have decided your specialism; you do need to show you've explored beyond the surface.
-
-**Practical experience and making things.** Engineering is ultimately about building things that work. Projects, design challenges, competitions, electronics kits, robotics, carpentry, car mechanics: anything that shows you engage with engineering as a practical discipline. What did you build? What problem were you trying to solve? What went wrong and how did you fix it?
-
-**Problem-solving approach.** Engineers are professional problem-solvers. Showing how you approach a problem: breaking it down, identifying constraints, testing solutions: is more persuasive than listing things you've made.
-
-## Common mistakes to avoid
-
-**"I've always enjoyed taking things apart."** This is a very common opening for engineering statements, and tutors see it constantly. If your practical curiosity is real, show it with a specific example: not this phrase.
-
-**Focusing entirely on either theory or practice.** Engineering at a competitive university requires both mathematical rigour and practical instinct. A statement that's entirely academic and abstract, or entirely hands-on with no intellectual content, misses the balance that tutors are looking for.
-
-**Applying to engineering without engaging with the discipline.** Some applicants apply to engineering because they're good at maths and physics but haven't explored engineering itself. Tutors can tell. Make sure your statement reflects genuine engagement with what engineering as a discipline involves.
-
-**Vague project descriptions.** "I built a robot" tells a tutor nothing useful. What was the engineering challenge? What were the constraints? What did you learn about control systems, materials, or electronics in the process?
-
-## Key experiences and skills to highlight
-
-- **Design and build projects**: school projects, personal projects, summer programs (like the Arkwright Engineering Scholarship, or Smallpeice Trust courses)
-- **Competitions**: Engineering Education Scheme, Bloodhound SSC challenges, F1 in Schools, FIRST Robotics, IMechE competitions
-- **Work experience**: engineering firms, construction sites, manufacturing plants. Focus on what you observed and what questions it raised.
-- **Electronics and computing**: Arduino, Raspberry Pi, circuit design, embedded systems
-- **Reading and engagement**: *The New Science of Strong Materials* (Gordon), *Structures* (Gordon), *Skunk Works* (Rich), engineering podcasts, IEEE Spectrum or similar technical publications
-- **Physics and Maths depth**: if you take Further Maths or Physics EPQ, flag the parts most relevant to engineering
-
-## How to structure your Engineering personal statement
-
-**Opening:** Start with a specific engineering problem, project, or insight that sparked your interest. Make it concrete.
-
-**Core paragraphs:** Develop your intellectual interests in engineering, drawing on reading or specific technical areas you've explored. Then cover practical engagement: what you've built, what you've learned from making things.
-
-**Experience paragraph:** Relevant competitions, work experience, courses. Brief and purposeful: what did you observe or do, and what did it confirm or challenge about your interest?
-
-**Closing:** What engineering questions do you want to be able to answer by the end of your degree? Ground your ambition in intellectual curiosity.
+The strongest Engineering personal statement reads like a brief technical report with personality, not a love letter to the profession. It commits to a discipline. It names a project and what failed in version one. It mentions MEng or BEng deliberately. It knows the difference between the Cambridge route and the Loughborough route. That's the document we help students build when they work with an Engineering tutor at The Degree Gap, and it's the document that gets read twice.

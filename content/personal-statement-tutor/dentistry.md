@@ -8,72 +8,37 @@ admissions_tests:
 form_cta: "Make your Dentistry personal statement practical, precise, and reflective"
 form_intro: "Tell us about your dental shadowing, dexterity evidence, UCAT preparation, and patient-care experiences, and we will help you turn them into a stronger Dentistry application."
 form_message_label: "What Dentistry evidence do you want to include?"
-form_message_placeholder: "For example: NHS or private shadowing, manual dexterity, anxious patients, oral health inequalities, communication, clinical precision, UCAT, or a specific procedure you observed."
+form_message_placeholder: "For example: NHS or private shadowing at a general practice, UCAT score and section breakdown, manual dexterity activities like sewing or jewellery-making, awareness of the NHS contract debate, a procedure you observed, or an MMI station you want to prepare for."
 form_button: "Get Dentistry statement help"
 form_note: "We will reply with advice on showing genuine commitment to dentistry rather than general healthcare interest."
 ---
 
-## A stronger Dentistry angle
+Dentistry is unusual among undergraduate applications. The work is clinical, manual, and largely set from day one of the BDS. There's no easy pivot at year three the way there is in a science or humanities degree. That changes how the statement should read. Tutors at King's, Manchester, Sheffield, Birmingham and the other BDS providers aren't looking for a curious generalist. They're looking for someone who has worked out, with evidence, that they want to spend forty years sitting next to a patient's mouth.
 
-A strong Dentistry personal statement should show that dentistry sits at the intersection of **clinical judgement, manual precision, and long-term patient trust**. This is more convincing than writing generally about healthcare or science.
+This page walks through the three stages of building a Dentistry personal statement: what you do before you write, how you draft it, and how you refine it for the MMI and panel interviews that follow.
 
-You could explore why oral health is linked to inequality, how dentists manage anxious patients, why small technical decisions affect comfort and outcome, or how prevention matters as much as treatment. The strongest Dentistry statements show that you have observed the profession carefully and understand its daily realities.
+## Before you write: research, UCAT, shadowing, and dexterity
 
-## How to write this in your statement
+Most UK dental schools use the UCAT. Your score shapes which schools are realistic, so sit it early in the summer and let the result steer your university list. Decision Making and Situational Judgement tend to matter more for dental admissions than raw Quantitative Reasoning, and some schools weight sections differently. Check each one. Birmingham, Sheffield, Newcastle, Cardiff, Bristol, Plymouth, Queen Mary, Leeds, Glasgow and Dundee all publish their UCAT thresholds, and they shift year to year.
 
-A good Dentistry paragraph should connect one specific observation to one professional quality. If you observed a filling, extraction, hygiene appointment, or consultation with a nervous patient, do not just list it. Explain what it taught you about communication, precision, patience, or dexterity.
+Most students underestimate shadowing. For Dentistry, you need direct dental work experience. Hospital placements that are fine for a Medicine application won't carry the same weight here. Spend time in an NHS general practice if you can, and try to add a second setting: a private practice, a community dental service, or a hospital oral surgery clinic. The contrast matters. NHS general dentistry is in crisis: the 2006 contract, UDA targets, and the access gap that has left parts of the country with no NHS provision at all. Admissions tutors expect you to know this, and to have asked the dentists you shadowed how the contract shapes their day. You don't need a policy answer. You need to show you've noticed.
 
-For example, a student could write about noticing how a dentist explained a procedure in stages to reduce anxiety, then connect that to the importance of trust in repeated patient care. Another could connect model-making, music, art, or technical drawing to the fine motor control dentistry requires.
+Manual dexterity is what genuinely separates this from a Medicine application. Tutors want evidence, not adjectives. Sewing and embroidery, instrument-making, jewellery, model-making, sculpture, oil painting on a small scale, watch repair, even practising surgical knot-tying from the videos on YouTube: these are the kinds of activities that read as real. Pick one or two you've actually done for months, and write about what they trained. Fine motor control under fatigue. Working in mirror image. Keeping a steady hand when the cut matters.
 
-## Reading and research ideas
+## During the draft: framing why dentistry, not medicine
 
-Useful sources include NHS oral health material, British Dental Association updates, public health reports on dental inequality, and your own shadowing reflections. Your best evidence will usually come from a precise clinical observation paired with careful reflection.
+The single hardest sentence in any Dentistry personal statement is the one that explains why dentistry rather than medicine. Most applicants write some version of "I want to combine science with working with my hands," which is fine but tells the tutor very little. Better answers come from your shadowing. A specific patient. A specific procedure. The moment you understood that a dentist owns the outcome from diagnosis through to the final polish, and lives with that outcome at every six-month recall.
 
-## What a strong Dentistry personal statement looks like
+Lean into the long-term relationship. A GP sees a patient for ten minutes and refers on. A dentist sees the same family every six months for thirty years and watches an eight-year-old's first molar erupt, fill, crack, and eventually crown. That continuity is part of what you're choosing.
 
-Dentistry is one of the most competitive undergraduate courses in the UK, and the personal statement is a crucial part of a heavily scrutinised application. The best dentistry statements demonstrate three things simultaneously: that the applicant has tested and confirmed their commitment to the profession through meaningful shadowing, that they possess the manual dexterity and attention to precision that dentistry demands, and that they understand what working as a dentist over a full career actually involves: not just the appealing parts.
+Your Dentistry personal statement should also acknowledge the harder edges. The physical toll on the back and neck. The business side of running an NHS-mixed practice. The emotional work with anxious or phobic patients. A Dentistry tutor who has read three hundred applications can tell when an applicant has only seen the photogenic parts of the job.
 
-The trap most applicants fall into is presenting motivation that sounds borrowed rather than lived. Dentistry tutors read hundreds of applications every cycle. They are very good at distinguishing between genuine commitment and polished aspiration.
+Name your reading where it's honest. The BDA's coverage of the contract dispute, the Faculty of Dental Surgery's reports on access, public health work on oral health inequalities in deprived areas. Two well-handled sources beat a list of five.
 
-## What admissions tutors look for
+## After the draft: refining for MMI and interview
 
-**Meaningful clinical shadowing.** This is non-negotiable. You need to have spent time observing dental practice: ideally in a range of settings (NHS general practice, hospital dental department, specialist practice if possible). But observing is not enough: tutors want to see that you engaged critically with what you saw. What procedures did you observe? What did they teach you about the nature of the work? What did you notice about how the dentist communicated with patients? What surprised you?
+Once your Dentistry personal statement is written, every line on the page becomes a possible MMI station. King's, UCL Eastman (at postgraduate level, but the culture filters down), Manchester, Birmingham, Glasgow and Dundee all run multi-station formats with ethics, role-play, and manual tasks. If you've claimed an interest in oral health inequality, expect to be asked what you'd actually do about it. If you've written about your jewellery work, expect a dexterity task that puts that claim under a spotlight.
 
-**Evidence of manual dexterity.** Dentistry is a precision skill. Tutors look for evidence that you have the fine motor control and spatial awareness the work requires. This can come from many sources: musical instruments (particularly strings or piano), art and sculpture, technical drawing, carpentry, surgery-adjacent hobbies, sports requiring fine coordination. Don't just state that you're dextrous; give a specific, concrete example.
+Read your statement aloud as if you were an interviewer. Where does it sound borrowed? Which sentence couldn't survive a follow-up question? Cut those. Replace them with a smaller, sharper observation. A patient who flinched. A bur changing pitch as it hit dentine. The moment a hygienist explained the recall interval to a worried parent. Specifics like these are the spine of a strong application, and they're what good Dentistry tutoring should help you find and shape.
 
-**Patient care and communication.** Dentistry involves managing anxious patients, explaining procedures clearly, and building trust over repeated visits. Evidence of patient-facing roles: volunteering, care work, customer-facing employment: with genuine reflection on what good communication looks like is valuable.
-
-**Understanding of the profession's realities.** Long-term physical demands (back, shoulders, eyes), the independent or small-business nature of many NHS practices, the balance of patient care and technical skill, the current NHS contract debates: showing you understand what the career actually involves over decades signals realistic and informed motivation.
-
-## Common mistakes to avoid
-
-**Shadowing without reflection.** "I spent two weeks at a dental surgery where I observed extractions, fillings, and routine hygiene appointments": this tells a tutor you did the shadowing. It tells them nothing about what you made of it. What specifically did you observe? What questions did it raise? What confirmed your motivation?
-
-**Dexterity claims without evidence.** "I am naturally good with my hands" is not evidence of dexterity. Specific activities, practised over time, are evidence.
-
-**Confusing dentistry with medicine.** Some applicants describe a general fascination with healthcare and anatomy that would fit medicine equally well. Dentistry is a specific discipline with its own culture, patient relationship, and technical demands. Your motivation should be grounded in dentistry specifically.
-
-**Overloading with extracurricular activities.** Dentistry tutors are primarily selecting for clinical aptitude and professional suitability, not for the most interesting person in the cohort. Keep extracurriculars brief and relevant.
-
-## Key experiences and skills to highlight
-
-- **Dental shadowing**: specific observations, ideally across multiple settings. NHS and private practice offer different perspectives.
-- **Manual dexterity evidence**: musical instruments, art, model-making, crafts, technical drawing, sport
-- **Patient-facing roles**: care work, volunteering with elderly or vulnerable people, customer-facing employment
-- **Science engagement**: dentistry degrees are heavily science-based, particularly in the first two years. Strong A-level biology and chemistry, and genuine interest in oral biology and physiology, are worth noting.
-- **First aid qualifications**: relevant and concrete.
-- **Work ethic and resilience**: dentistry is physically and emotionally demanding. Any evidence of sustained commitment to a challenging pursuit is worth including briefly.
-
-## How to structure your Dentistry personal statement
-
-**Opening:** Why dentistry specifically? Start with a concrete motivation rooted in experience, not generalised healthcare enthusiasm.
-
-**Shadowing paragraph:** Discuss your clinical shadowing with genuine specificity and reflection. What did you observe? What did it teach you?
-
-**Dexterity and practical skills paragraph:** Provide concrete evidence of manual dexterity through specific activities.
-
-**Patient care and communication:** Brief account of relevant experience with patients or in caring roles.
-
-**Academic and scientific preparation:** Signal your readiness for the science-heavy first years of the degree.
-
-**Closing:** Reinforce your motivation. Show you understand what the career involves over the long term, and that this makes you more committed, not less.
+One last check. Your statement is a clinical document in miniature. Precise, honest, no flourishes you can't defend. If a line wouldn't survive an MMI follow-up, it shouldn't be in the statement.

@@ -1,77 +1,52 @@
 ---
 title: "Computer Science Personal Statement Help"
-description: "How to write a strong computer science personal statement for UK universities. What admissions tutors look for, common mistakes, and how to demonstrate genuine interest beyond school-level coding."
+description: "How to write a Computer Science personal statement for UK universities. What admissions tutors look for, the maths question, and how to structure a CS application."
 subject: "Computer Science"
 admissions_tests:
   - name: "TMUA"
-    note: "Oxford, Cambridge, and select others"
-form_cta: "Turn your Computer Science projects into an admissions argument"
-form_intro: "Tell us what you have built, read, or explored, and we will help you explain the abstraction, trade-offs, and thinking behind it."
-form_message_label: "What CS project or idea should your statement use?"
-form_message_placeholder: "For example: Project Euler, GitHub projects, CS50, recursion, compression, cybersecurity, algorithmic bias, AI ethics, or a messy problem you tried to model."
-form_button: "Get CS statement help"
-form_note: "We will reply with advice on making your CS statement about computer science, not just coding."
+    note: "Cambridge, Imperial, Warwick, Durham, LSE, Bath and others"
+form_cta: "Write a Computer Science personal statement that reads like a future computer scientist"
+form_intro: "Tell us what you have built, broken, or read. We will help you turn it into a statement that signals algorithmic thinking, not a CV of languages."
+form_message_label: "Which CS project, book, or problem should your statement be built around?"
+form_message_placeholder: "For example: a Project Euler streak, an Advent of Code year, a small open source pull request, finishing CS50, reading Petzold's Code or SICP, the Python vs Haskell debate, a recursion problem that took you three days, or a Cambridge TMUA past paper that broke you."
+form_button: "Get Computer Science statement help"
+form_note: "We will reply with notes on what a Cambridge or Imperial CS reader would actually want to see."
+
+related_pages:
+  - title: "Oxford Computer Science: what's different"
+    url: "/personal-statement-tutor/oxford/"
+  - title: "Cambridge Computer Science: what's different"
+    url: "/personal-statement-tutor/cambridge/"
+  - title: "Mathematics personal statement help"
+    url: "/personal-statement-tutor/mathematics/"
+  - title: "Engineering personal statement help"
+    url: "/personal-statement-tutor/engineering/"
 ---
 
-## A stronger Computer Science angle
+## What CS admissions tutors actually want to see
 
-One of the strongest ways to write a Computer Science personal statement is to show that **computer science is not just coding, it is abstraction**. Coding is the visible surface. The more interesting question is how a messy human problem becomes a structure a machine can process.
+Most Computer Science personal statements fail on the same handful of moves. The applicants are clever. The statements are not. Below is what readers at Cambridge, Imperial, Oxford and UCL actually flag, and what genuinely shifts a borderline application.
 
-This lets you write about projects in a much more sophisticated way. Instead of listing languages or tools, explain the problem you were trying to solve, the trade-off you faced, and what the project taught you about algorithms, data, interfaces, or systems.
+## What goes wrong
 
-## How to write this in your statement
+**"I love coding."** This is the opening line of roughly a third of CS applications. It tells a reader nothing. Admissions tutors at Cambridge and Imperial are reading for evidence of mathematical and algorithmic thinking, not enthusiasm for the act of typing into a terminal. If your statement could be written by a hobbyist who has never thought about a proof of correctness, it's not a Computer Science personal statement, it's a coding-camp testimonial.
 
-A strong CS paragraph should move from project to principle. Do not simply say you built a website, game, bot, or app. Explain what had to be represented, simplified, optimised, or protected.
+**Boasting about projects without showing the thinking.** "I built a full-stack social media app with React, Node and MongoDB." Fine. Now what? A reader wants to know what data structure you chose for the feed, why, and what you'd do differently. The project is the prop. The reasoning is the point. A small, ugly, well-explained chess engine beats a polished CRUD app every time.
 
-One possible opening idea is:
+**Treating CS as an extension of GCSE ICT.** Talking about Microsoft Office skills, basic HTML, or "using technology to help people" places you in the wrong pile instantly. The Computer Science degree at a research university is not a vocational qualification. It is closer to applied mathematics with an engineering wing attached.
 
-> My interest in computer science deepened when I realised that programming is only the surface of the subject. While building a small project, I became more interested in the underlying question: how can a messy human problem be reduced into a structure that a machine can process?
+**The language CV.** Listing Python, Java, JavaScript, C++, HTML, CSS and SQL in one sentence is not evidence of breadth. It is evidence you have used Codecademy. Pick one or two and say something specific about them. The choice itself signals understanding: Python suggests you wanted to get going quickly, C suggests you cared about what the machine is doing, Haskell suggests someone has told you about functional programming and you went looking. Brief is fine. Awareness is the point.
 
-From there, you could explore algorithmic bias in university admissions or recruitment, why compression reveals something philosophical about information, the beauty of recursion, cybersecurity as a psychology problem, or why a bad user interface can make good code useless.
+## What actually moves the needle
 
-## Reading and research ideas
+**Algorithmic thinking shown on a real problem.** Pick one problem and write about it properly. A Project Euler question where the naive solution took twelve minutes and the rewritten one took 0.3 seconds is a gift to your statement. Advent of Code is similar territory. So is a CS50 problem set that forced you to think about hash tables. What matters is the before-and-after: the wrong mental model you started with, what broke it, and what you understand now that you didn't a month ago. That paragraph is worth more than a page of project descriptions.
 
-Useful sources include Project Euler, GitHub projects, CS50, Raspberry Pi or micro:bit projects, Python challenges, and papers or articles on AI ethics. Cambridge-style preparation often rewards evidence that you have tried to solve problems independently.
+**Knowing that Cambridge, Imperial and Oxford CS is fundamentally a maths degree.** This is the single largest gap between strong and weak applicants. At Cambridge, Imperial, Oxford and UCL, the first-year syllabus is heavy on discrete mathematics, formal logic, proof, complexity analysis and linear algebra. Most expect A* in Maths and many strongly prefer Further Maths. TMUA is now standard at Cambridge, Imperial, Warwick, Durham, LSE and Bath. If you are applying to these places, your Computer Science personal statement has to read like the statement of someone who would happily sit a proof-based first year. At more applied universities, the same degree leans toward software engineering, databases and human-computer interaction. The statement should shift accordingly. A single document trying to please both ends up pleasing neither.
 
-## What a strong Computer Science personal statement looks like
+**Reading something serious.** Charles Petzold's *Code* is the cleanest signal you can send that you've thought about what a computer actually is, from relays up to instruction sets. *Structure and Interpretation of Computer Programs* signals you've seen Scheme and lived to tell the tale. Sedgewick's *Algorithms* or any honest engagement with Knuth shows you've sat with hard material. Skip *Cracking the Coding Interview*. That book is for industry job-hunting, not university admissions, and tutors know exactly what it signals when it appears.
 
-Computer science admissions tutors are much harder to impress with coding alone than applicants tend to think. A long list of languages, frameworks, and projects: without demonstrating why they interested you or what you learned from building them: reads as a CV, not a personal statement. The strongest CS applications combine genuine intellectual curiosity about the theoretical foundations of computing with practical evidence of independent work, and show that the applicant understands computer science as a mathematical and conceptual discipline, not just a vocational skill.
+**Open source, even as a reader.** You don't have to ship a feature to a major library. Reading the source of a project you use, understanding one module, and writing two sentences about a design decision that surprised you, is the kind of detail no template-driven applicant ever includes. A genuine pull request, however small, is even better.
 
-## What admissions tutors look for
+## What to do with this
 
-**Mathematical thinking.** At every competitive CS department in the UK, the curriculum is more rigorous mathematically than most applicants expect. Formal logic, discrete mathematics, algorithm analysis, proof: these are core components of the degree. Your personal statement should signal comfort with mathematical abstraction. Mention maths interests, competitions, or the parts of A-level maths (or Further Maths) that you found most intellectually satisfying.
-
-**Genuine curiosity about computer science as a discipline.** What aspects of CS do you find genuinely interesting? Algorithms, artificial intelligence, cryptography, programming language theory, distributed systems? Specificity matters here. "I find computer science fascinating" is a claim that needs to be substantiated with evidence of independent exploration.
-
-**Independent projects.** This is one area where CS applicants can genuinely differentiate themselves. If you've built something outside of school: a web app, a game, a tool that solves a real problem: it demonstrates initiative and the ability to see a project through. What you learned from it is more important than what it does. What problem did you encounter? How did you solve it? What would you do differently?
-
-**Engagement with ideas beyond programming.** Books, papers, online courses, programming competitions: these signal that your interest extends beyond writing code. Tutors value applicants who engage with computing as an intellectual domain.
-
-## Common mistakes to avoid
-
-**Treating it like a CV.** A list of every language you know (Python, Java, JavaScript, C++, HTML, CSS…) tells a tutor nothing useful. Focus on depth of engagement, not breadth of exposure.
-
-**School-only experience.** If your only evidence of CS interest is your A-level coursework and a few lessons, tutors will question whether you've genuinely explored the subject independently. The bar for showing self-directed learning is higher in CS than in many other subjects: because the resources are freely available.
-
-**Confusing programming with computer science.** Coding is a tool; computer science is the study of computation. Students who understand the difference, and can articulate why they're interested in the latter, stand out immediately.
-
-**Overstating project complexity.** Don't describe a simple CRUD application as "a full-stack web application using industry-standard architecture." Tutors often have technical backgrounds and will see through it.
-
-## Key experiences and skills to highlight
-
-- **Independent projects**: anything built outside of school, with a focus on what you learned
-- **Programming competitions**: BIO (British Informatics Olympiad), Google Code Jam, Advent of Code, competitive programming generally
-- **Open source contributions**: even small ones demonstrate engagement with a real codebase
-- **Online learning**: MOOCs, Coursera, MIT OpenCourseWare, particularly anything on algorithms, data structures, or theory
-- **Reading**: *The Pragmatic Programmer*, *Code* by Charles Petzold, *Gödel Escher Bach* by Douglas Hofstadter, Knuth's *The Art of Computer Programming* (even dipping in), or academic CS blogs and papers
-- **Mathematics engagement**: UKMT competitions, Further Maths interest, anything that demonstrates mathematical maturity
-
-## How to structure your Computer Science personal statement
-
-**Opening:** Start with a specific intellectual interest: an idea, a problem, a discovery: not a general claim about loving computers.
-
-**Core paragraphs:** Two or three paragraphs that substantiate your interest. Discuss independent projects with genuine reflection on what you built and learned. Engage with a theoretical or conceptual area of CS that excites you.
-
-**Mathematics paragraph:** Address your mathematical preparation explicitly. CS at university is significantly more mathematical than A-level. Show you understand and welcome that.
-
-**Closing:** What do you want to explore at university that you can't explore on your own? This grounds your application in genuine academic purpose.
+Pick one project, one book, and one mathematical idea. Build the statement around those three. Let the project show your thinking, let the book show your range, and let the maths paragraph make explicit what the rest of the page only implies. If you'd like a Computer Science tutor to read a draft and tell you which of the four failure modes above it's quietly committing, send it over. We mostly work with students aiming at Cambridge, Imperial, Oxford, UCL, Warwick and Edinburgh, and we'll be honest about where the statement currently sits.

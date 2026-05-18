@@ -1,87 +1,53 @@
 ---
 title: "Mathematics Personal Statement Help"
-description: "How to write a strong mathematics personal statement for UK universities. What maths tutors look for, STEP and TMUA preparation context, and how to convey genuine mathematical passion."
+description: "How to write a Mathematics personal statement for UK universities. What admissions tutors look for, STEP and MAT context, and how to structure a Mathematics application."
 subject: "Mathematics"
 admissions_tests:
   - name: "STEP"
-    note: "Cambridge offers often include STEP"
-  - name: "TMUA"
-    note: "Oxford, Cambridge, Durham, LSE, and others"
-form_cta: "Build a Mathematics statement around proof and structure"
-form_intro: "Tell us the mathematical ideas, books, problems, competitions, or admissions tests you are working on, and we will help you write about them precisely."
-form_message_label: "What mathematical idea has caught your attention?"
-form_message_placeholder: "For example: proof, infinity, prime numbers, cryptography, voting systems, chaos theory, topology, game theory, UKMT, Project Euler, STEP, or TMUA."
-form_button: "Get Maths statement help"
-form_note: "We will reply with advice on making your Maths statement specific, rigorous, and interview-ready."
+    note: "Cambridge, Warwick, Imperial for some courses"
+  - name: "MAT"
+    note: "Oxford, Imperial, Warwick"
+form_cta: "Build a Mathematics personal statement around a real piece of mathematics"
+form_intro: "Tell us the problem, proof, book, or admissions test you are working on, and we will help you write about it with the precision Cambridge and Oxford expect."
+form_message_label: "Which piece of mathematics has actually changed how you think?"
+form_message_placeholder: "For example: a STEP III question you finally cracked, the proof that the primes are infinite, Hardy's *A Mathematician's Apology*, group theory and Rubik's cube, the MAT 2023 multiple-choice that broke you, Simon Singh's *Fermat's Last Theorem*, or why you find topology stranger than analysis."
+form_button: "Get Mathematics statement help"
+form_note: "We reply with notes on which paragraphs read like a real mathematician and which read like a sixth-former listing modules."
 related_pages:
-  - title: "Oxford: what's different"
+  - title: "Oxford Mathematics: what's different"
     url: "/personal-statement-tutor/oxford/"
-  - title: "Cambridge: what's different"
+  - title: "Cambridge Mathematics: what's different"
     url: "/personal-statement-tutor/cambridge/"
+  - title: "Computer Science Personal Statement Help"
+    url: "/personal-statement-tutor/computer-science/"
+  - title: "Economics Personal Statement Help"
+    url: "/personal-statement-tutor/economics/"
 ---
 
-## A stronger Mathematics angle
+Admissions tutors at Cambridge, Warwick and Imperial read thousands of Mathematics personal statements every cycle. Most of them sound the same. The ones that get pulled out of the pile share a small number of features, and they avoid a small number of very predictable mistakes.
 
-One of the strongest ways to write a Mathematics personal statement is to show that **maths is the search for structure beneath chaos**. This is sharper than simply saying you enjoy problem solving.
+## What Mathematics applicants keep getting wrong
 
-You might focus on proof, infinity, symmetry, game theory, cryptography, topology, number theory, or modelling uncertainty. The best statements explain a particular idea and why it changed how you think.
+**"I have always loved Mathematics."** This sentence appears in roughly one statement in three. It tells the reader nothing. Loving the subject is the floor, not a feature. A Mathematics personal statement that opens this way is asking to be skim-read.
 
-## How to write this in your statement
+**Listing A-Level grades and modules as evidence of mathematical interest.** Every applicant has done calculus, vectors, and the binomial expansion. Tutors set the curriculum. Telling them you enjoyed integration by parts is like telling a chef you enjoyed boiling water. It describes the syllabus, not you.
 
-A strong Maths paragraph should move beyond calculation. Explain what drew you to a proof, what surprised you about a result, or why a problem revealed a deeper structure.
+**Treating Further Maths as the ceiling.** Further Mathematics is the entry ticket for serious departments, not the summit. If your statement implies that FP modules are the deepest you have gone, the reader will assume you have not opened a university-level book or sat a real problem paper. STEP (Cambridge, Warwick, and Imperial for some courses) and MAT (Oxford, Imperial, Warwick) exist precisely because A-Level Mathematics does not separate the candidates the top departments need to separate.
 
-One possible opening idea is:
+**Name-dropping the Riemann Hypothesis.** Or P vs NP. Or Fermat's Last Theorem in one sentence with no follow-up. If you mention a famous problem, you have to say something about it. Admissions tutors run interviews. They will ask. A Mathematics tutor can spot a borrowed reference in under a minute.
 
-> What I find most compelling about mathematics is that it gives certainty in a world full of approximation. Exploring proof made me realise that maths is not only calculation, but a way of deciding whether something must be true.
+## What admissions tutors actually want to see
 
-From there, you could explore why infinity comes in different sizes, how prime numbers underpin encryption, the mathematics of voting systems, chaos theory and weather prediction, or why elegant proofs feel different from long calculations.
+**A specific problem you have worked on, in detail.** Not "I enjoyed STEP preparation." Pick one question. Describe the wrong turn you took, the moment you saw the trick, the lemma you had to look up. One STEP II inequality, treated honestly, is worth more than a paragraph of generalities. The same is true for MAT longer questions, BMO problems, or anything from nrich. Tutors are reading for evidence that you have spent hours stuck, not minutes browsing.
 
-## Reading and research ideas
+**Evidence of proof culture.** University Mathematics is the shift from "compute this" to "prove this." A-Level rewards you for the right answer. A first-year analysis course will mark you down for an argument that happens to land on the right answer by the wrong route. The strongest Mathematics personal statement will name this shift explicitly. Write about the first proof that felt different from a calculation: the irrationality of root two, the infinitude of primes, the uncountability of the reals. Say what changed when you saw it.
 
-Useful sources include Numberphile, Project Euler, UKMT, PROMYS, popular maths books, cryptography explainers, and university outreach. If you mention a topic, make sure you can explain it accurately and discuss what you found difficult.
+**Named areas of intellectual curiosity beyond the syllabus.** Number theory, topology, group theory, combinatorics, mathematical logic, real analysis. Pick one. Read enough to talk about it for ten minutes without bluffing. Group theory through the symmetries of the Rubik's cube is a fair entry point. Topology through the classification of surfaces is another. The point is not to sound advanced. It is to show that you know degree-level Mathematics splits into pure, applied, and statistics, and that you have already started to feel where your interest sits.
 
-## What a strong Mathematics personal statement looks like
+**A real book, treated like a real book.** G H Hardy's *A Mathematician's Apology* is the obvious one, and it is obvious for a reason: it is the closest thing the discipline has to a manifesto, and Hardy's defence of pure mathematics still sets up the pure-versus-applied tension that shapes first-year choices. Simon Singh's *Fermat's Last Theorem* or *The Code Book* work if you actually engage with the mathematical content rather than the human-interest story. Marcus du Sautoy and Ian Stewart are both fine if you can point to a specific chapter that pushed you somewhere. What is not fine is listing four titles and saying nothing about any of them.
 
-Mathematics personal statements are unusual because the strongest ones are the most honest. A student who has genuinely fallen in love with mathematics: with the satisfaction of proof, the surprise of counterexamples, the elegance of a well-chosen argument: does not need to dress that up. The best maths statements communicate authentic intellectual joy.
+## How the structure of a Mathematics degree should shape your statement
 
-What they avoid is the trap of listing mathematical topics covered at A-level. Every applicant has studied calculus, trigonometry, and statistics. Tutors know the curriculum. They want to know what you've explored beyond it, and why you found it compelling.
+A Mathematics degree at Warwick is not the same object as a Mathematics degree at Oxford, and neither is the same as a joint Maths and Statistics course at LSE. Most departments split first-year teaching into pure, applied, and statistics streams. If your Mathematics personal statement leans entirely on cryptography and modelling, you are signalling applied. If it leans on proof, structure, and abstraction, you are signalling pure. Neither is wrong. Mismatched signals are wrong. Decide which side of the split you are writing from, and let the rest of the statement agree with itself.
 
-## What admissions tutors look for
-
-**Genuine mathematical curiosity.** Not enthusiasm for maths in general: enthusiasm for specific ideas, specific results, specific areas that excited or surprised you. The Banach-Tarski paradox, the infinite primes proof, the construction of the real numbers, the P vs NP problem, the incompleteness theorems: what have you encountered that made you think "I need to understand this properly"?
-
-**Engagement with mathematics beyond the curriculum.** A-level maths and Further Maths are the foundation. Tutors want to see what you've built on top of them. This might be competition mathematics, reading, online resources, or exploring topics that aren't on the syllabus: number theory, graph theory, topology, abstract algebra, real analysis.
-
-**Proof and rigour.** University mathematics is almost entirely about proof. Students who arrive expecting more A-level mathematics often struggle. Show that you understand this shift: that you've encountered and engaged with formal proof: and that you find it more interesting, not more difficult.
-
-**Problem-solving ability.** This is demonstrated partly by your admissions test results (STEP, TMUA, or any course-specific test), but your statement should reinforce it. Competition experience, online problem sets, the types of problems you seek out: all of this signals whether you approach mathematics actively or passively.
-
-## Common mistakes to avoid
-
-**Describing A-level topics as if they are discoveries.** "I particularly enjoyed studying integration by parts" is not a compelling statement of mathematical passion. It describes curriculum content, not independent engagement.
-
-**Vague enthusiasm.** "I have always loved mathematics because it is logical and precise": tutors have read this sentence many thousands of times. It tells them nothing about you specifically.
-
-**Overclaiming.** Don't describe a superficial acquaintance with a topic as deep expertise. Maths tutors have very precise antennae for this. If you mention the Riemann Hypothesis, be prepared to discuss it in an interview. Only include things you've genuinely explored.
-
-**Neglecting the transition to proof-based maths.** Many applicants don't acknowledge that university mathematics is a qualitatively different discipline from A-level. Those who do: and who show they've already begun that transition: stand out.
-
-## Key experiences and skills to highlight
-
-- **Competition mathematics**: UKMT Junior, Intermediate, Senior, BMO, IMO selection. Even if you haven't won, regular participation signals active engagement.
-- **Independent reading**: *What is Mathematics?* (Courant & Robbins), *The Man Who Loved Only Numbers* (Hofman), *Prime Obsession* (Derbyshire), *Fermat's Last Theorem* (Singh), or more demanding texts like Spivak's *Calculus* or Hardy's *A Course of Pure Mathematics*
-- **Online exploration**: 3Blue1Brown videos, nrich.maths.org problem sets, Project Euler, Brilliant.org
-- **Extended Project Qualification**: if you've done a maths EPQ, reference it with its central argument or finding
-- **Further Maths**: if you study it, discuss the modules that interested you most (particularly pure modules relevant to university maths)
-
-## How to structure your Mathematics personal statement
-
-**Opening:** Start with a specific mathematical idea, result, or problem that genuinely captivated you. Why did it interest you? What did exploring it teach you?
-
-**Core paragraphs:** Two or three sections developing your mathematical engagement. Cover both the topics that excite you and the type of mathematical thinking you find most compelling. Use specific examples.
-
-**Proof and rigour paragraph:** Acknowledge and embrace the shift to proof-based mathematics. If you've encountered formal proof, write about it. If you haven't, write about a result that made you want to understand *why* it's true.
-
-**Competition and problem-solving:** If you have relevant experience, include it here. Even if you haven't medalled, showing active problem-seeking is valuable.
-
-**Closing:** Where do you want to go? What areas of mathematics do you want to study more deeply?
+If you are working with a Mathematics tutor on STEP or MAT alongside the statement, use the preparation as raw material. The questions you found hard, the techniques you had to learn, the problems you are still stuck on: that is the substance the statement is missing. Tell us what is on your desk this week and we will help you write about it without sounding like every other Mathematics personal statement in the pile.
