@@ -1,6 +1,6 @@
 baseURL = "https://study.thedegreegap.com/"
 languageCode = "en-gb"
-title = "The Degree Gap | Tutoring &amp; Study Resources"
+title = "The Degree Gap | Tutoring & Study Resources"
 disableKinds = ["taxonomy", "term"]
 
 [params]
