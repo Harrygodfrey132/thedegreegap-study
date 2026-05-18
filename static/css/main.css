@@ -3535,6 +3535,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   box-shadow: 0 10px 28px rgba(0,0,0,0.25);
 }
 .loc-why__copy h2 { font-size: clamp(1.7rem, 3vw, 2.5rem); margin-bottom: 1rem; }
+.loc-why__cta { margin-top: 1.5rem; display: inline-block; }
 .loc-why__bullets {
   display: grid;
   grid-template-columns: 1fr 1fr;
