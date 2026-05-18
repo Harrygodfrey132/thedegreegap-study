@@ -18,6 +18,13 @@ related_pages:
     url: "/personal-statement-tutor/cambridge/"
   - title: "History personal statement help"
     url: "/personal-statement-tutor/history/"
+faqs:
+  - q: "How many books should I actually name in an English Literature statement?"
+    a: "Five or six, read seriously, beats fifteen listed. Tutors at Oxford and Cambridge read your statement the way they'd read a poem, looking for what you do with each text rather than how many you've collected. Toni Morrison's Beloved discussed in two close-read paragraphs proves more than a sentence each on ten novels. Drop any title you can't say something specific about."
+  - q: "Should I read literary criticism before writing the statement?"
+    a: "One critic, read properly, helps a great deal. Terry Eagleton's Literary Theory gives you a vocabulary for talking about form versus content. James Wood's How Fiction Works does something different and equally useful, teaching you to notice free indirect style and other technical moves. Don't quote either at length. Use the vocabulary they gave you to read a Morrison or Woolf passage more sharply."
+  - q: "Does the canon debate need to appear in my statement?"
+    a: "Acknowledge it at minimum. The question of which voices English Literature centres has shaped every UK department's reading list over the last decade. You don't need a polemic, but a draft that writes about only Austen, Dickens and Eliot without noticing the conversation around Toni Morrison or Bernardine Evaristo reads as unaware. Show you've thought about who you read and why."
 ---
 
 Admissions tutors at English departments are professional readers. They will read your statement the same way they read a poem. So the most useful way to plan an English Literature personal statement is to build it around a small reading list, five or six things you've genuinely engaged with, and then write paragraphs that show how you read them rather than that you read them.

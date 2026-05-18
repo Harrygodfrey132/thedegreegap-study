@@ -15,6 +15,13 @@ related_pages:
     url: "/personal-statement-tutor/chemistry/"
   - title: "Physics personal statement help"
     url: "/personal-statement-tutor/physics/"
+faqs:
+  - q: "How does the Cambridge Natural Sciences Tripos affect what I write?"
+    a: "The Tripos funnels you from three experimental sciences plus maths in Year 1 to a single subject by Year 3. Your draft has to show you've understood that shape and have a view on which two sciences you'd want to keep. Don't claim to love all five sciences equally, the Tripos forces a narrowing and Cambridge tutors want to see you've already started thinking about it."
+  - q: "How do I write one statement that works for Cambridge Nat Sci and single-subject backups?"
+    a: "Lead with intersections rather than declared favourites. Biophysics, biochemistry and materials science all sit between disciplines, and writing about a question that bridges chemistry and physics reads well at Cambridge while still proving chemical interest at Manchester or Imperial. Avoid the line I can't choose, which signals indecision to a single-subject tutor at Durham or Bristol."
+  - q: "What reading actually helps a Natural Sciences draft?"
+    a: "Two books with technical content, one per discipline, beat a list of pop-science titles. Richard Dawkins's The Selfish Gene is fine as one reference but it isn't enough on its own. Pair it with something like Peter Atkins's Galileo's Finger or a real undergraduate-level chapter from a textbook you've worked through. Cambridge wants signs you've engaged with content harder than A-Level, not a longer bibliography."
 ---
 
 Natural Sciences is the odd one out in the UCAS catalogue. It's almost a Cambridge-specific course, with a handful of other universities running their own versions. That makes the Natural Sciences personal statement an unusual document to write, because it has to satisfy more than one kind of admissions tutor at once. The questions below are the ones students actually ask us when they start drafting.

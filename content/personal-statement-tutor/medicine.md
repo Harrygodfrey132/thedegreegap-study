@@ -20,6 +20,13 @@ related_pages:
     url: "/personal-statement-tutor/cambridge/"
   - title: "Dentistry personal statement help"
     url: "/personal-statement-tutor/dentistry/"
+faqs:
+  - q: "What's the biggest mistake Medicine applicants make in their personal statement?"
+    a: "Most applicants list work-experience placements without reflecting on what they actually saw. A week shadowing a surgeon means little if you can't describe one consultation that changed how you think about patient autonomy or resource scarcity. Admissions tutors at Newcastle and Sheffield want evidence you sat with unwell people and came back the next week, not a CV of hospital visits."
+  - q: "When should I start drafting my Medicine personal statement?"
+    a: "Begin reading and logging work experience by the spring of Year 12, and start the first draft in July before the October UCAS deadline. The statement isn't really written in one sitting, it's built across months of UCAT prep, care home shifts and reading Henry Marsh or Atul Gawande. Three months of revision between July and September is normal."
+  - q: "How important is work experience versus a high UCAT score?"
+    a: "Both matter, but they answer different questions. The UCAT screens you in or out at universities like Edinburgh and Glasgow before anyone reads your statement. Work experience then proves you understand what the job actually involves. A 2800 UCAT with no care experience is weaker than a 2650 with six months of regular volunteering at a hospice or care home."
 ---
 
 A Medicine personal statement isn't really written in one sitting. It's built across months of work experience, reading, and admissions-test prep, and the strongest ones read like the end of that process rather than the beginning. This page walks through what a Medicine applicant should be doing before drafting, during drafting, and after the first version is on the page.

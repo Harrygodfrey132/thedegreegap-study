@@ -20,6 +20,13 @@ related_pages:
     url: "/personal-statement-tutor/computer-science/"
   - title: "Mathematics personal statement help"
     url: "/personal-statement-tutor/mathematics/"
+faqs:
+  - q: "Should I apply to a general Engineering course or pick a discipline?"
+    a: "Cambridge runs a general course where you specialise in second year, and Oxford does the same. Imperial, Bath, Bristol and Sheffield ask you to commit to mechanical, civil, electrical or aerospace from the start. Your statement has to match. A draft that talks broadly about loving engineering reads fine for Cambridge but flat at Imperial Mechanical, where the tutor wants to see you've chosen for a reason."
+  - q: "How much detail should I give about a project I built?"
+    a: "Enough that an engineer believes you did it. If you wrote a PID loop for a line-following robot, say what the overshoot was, what gain you adjusted, and what the result looked like on the second test. Vague phrases like worked on Arduino fool no one. One project described with real numbers beats five listed in a sentence each."
+  - q: "When should I start the Engineering statement and ESAT prep together?"
+    a: "Begin your first draft in late June, get it pressure-tested by mid-August, then shift weight onto ESAT past papers through September and October. Cambridge and Imperial both use ESAT, and the Physics section rewards eight to ten weeks of focused practice. Trying to write the statement and prep for ESAT in the same fortnight before submission wrecks both."
 ---
 
 ## What admissions tutors actually want to see

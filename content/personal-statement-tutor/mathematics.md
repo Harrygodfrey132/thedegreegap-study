@@ -22,6 +22,13 @@ related_pages:
     url: "/personal-statement-tutor/computer-science/"
   - title: "Economics Personal Statement Help"
     url: "/personal-statement-tutor/economics/"
+faqs:
+  - q: "How do STEP and MAT shape what I write about?"
+    a: "Cambridge requires STEP II and III, Oxford uses the MAT, and Imperial accepts either depending on course. Your statement should reference a real problem you wrestled with, ideally one where the first attempt failed. A STEP III question you cracked after a week of frustration says more about your mathematical character than any list of grades. Don't quote your predicted A-Level scores, the form already shows them."
+  - q: "Which maths books are worth reading before applying?"
+    a: "Hardy's A Mathematician's Apology if you want to think about what mathematicians actually value, and Simon Singh's Fermat's Last Theorem for a sense of how a single problem shaped a discipline. For something harder, try Timothy Gowers's Mathematics: A Very Short Introduction. Read one properly and quote a specific argument. Listing five books in a sentence each is the giveaway of a rushed draft."
+  - q: "When should I start drafting if I'm sitting STEP next summer?"
+    a: "Begin the statement in early July, finish a usable draft by late August, then put it down until you've done four weeks of focused STEP work in September. STEP prep and personal statement writing compete for the same brain. Returning to the draft in October with sharper mathematical instincts almost always improves the writing, and the deadline is mid-October anyway."
 ---
 
 Admissions tutors at Cambridge, Warwick and Imperial read thousands of Mathematics personal statements every cycle. Most of them sound the same. The ones that get pulled out of the pile share a small number of features, and they avoid a small number of very predictable mistakes.

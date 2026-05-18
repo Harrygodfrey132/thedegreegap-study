@@ -17,6 +17,13 @@ related_pages:
     url: "/personal-statement-tutor/history/"
   - title: "Economics personal statement help"
     url: "/personal-statement-tutor/economics/"
+faqs:
+  - q: "How current does my political reading need to be?"
+    a: "Current enough that the events you cite haven't been overtaken, but anchored in something more durable than yesterday's headline. Reading Foreign Affairs or the LRB regularly puts you ahead of applicants who only watch BBC News. Reference one ongoing question, say US-China rivalry or constitutional reform, and tie it back to a theorist like Mearsheimer or a thinker like Hannah Arendt rather than the news cycle alone."
+  - q: "Do I need to take a side in an IR theory debate?"
+    a: "You need to show you know the debate exists, not settle it. The cleanest move is to hold two readings of the same event in your head. Start with Mearsheimer's offensive realism on great-power competition, then ask whether Alexander Wendt's constructivism reframes the same rivalry as built through identity and alliance choice. LSE and Oxford want intellectual flexibility, not certainty."
+  - q: "When should I start drafting if I'm also writing an EPQ on a political topic?"
+    a: "Start the statement in July and let the EPQ feed it through August. An EPQ on populism or institutional design gives you a real argument to compress into one paragraph, which most applicants don't have. Finish a usable draft by mid-September. KCL War Studies and UCL want statements that read like they emerged from sustained thinking, not a fortnight before the deadline."
 ---
 
 Most Politics and International Relations personal statements open the same way. A line about caring deeply about world events. A reference to a recent crisis. A vague pledge to make a difference. Admissions tutors at LSE, Oxford PPE, KCL War Studies and UCL read hundreds of these every cycle, and they are not what wins offers. What does win offers is a statement built around one or two political ideas the applicant can actually argue about. Below are three angles you can use as the spine of a Politics and International Relations personal statement. Pick one. Build the rest around it.

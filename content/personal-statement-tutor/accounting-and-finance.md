@@ -13,6 +13,13 @@ related_pages:
     url: "/personal-statement-tutor/economics/"
   - title: "Mathematics personal statement help"
     url: "/personal-statement-tutor/mathematics/"
+faqs:
+  - q: "Should I name a chartered route like ACA or ACCA in my statement?"
+    a: "A brief reference works if it's tied to a reason. ICAEW ACA suits audit and the Big Four route, ACCA is broader and international, CIMA leans towards management accounting inside industry. Don't list all three as career goals, it reads as undecided. Pick one, say why, and connect it to a placement year or work shadowing where you saw the work up close at PwC or Deloitte."
+  - q: "How do I keep the statement academic without losing the professional edge?"
+    a: "Anchor the practical interest in a real accounting question. Audit independence after Carillion is one. How IFRS 15 changed revenue recognition is another. Iain Martin's Crash Bang Wallop or Michael Lewis's Liar's Poker give you a reading anchor that signals genuine curiosity. Bath and Warwick want to see you can argue about accounting policy, not just admire the career outcomes."
+  - q: "Do I need A-Level Maths for Accounting and Finance?"
+    a: "For Warwick, Bath, LSE, Manchester and Loughborough, yes in practice. A few departments accept students without it, but year-one financial mathematics, statistics and quantitative methods modules assume you've done the algebra. If you're choosing A-Levels now, take Maths. Further Maths is a bonus rather than a requirement for this degree."
 ---
 
 Accounting and Finance is one of the few UCAS subjects where a school leaver has a real choice: a degree, a school-leaver programme with the Big Four, or a degree followed by a graduate scheme. That makes the statement harder than it looks. Below are the questions students ask us most often when starting an Accounting and Finance personal statement.

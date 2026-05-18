@@ -21,6 +21,13 @@ related_pages:
     url: "/personal-statement-tutor/mathematics/"
   - title: "Engineering personal statement help"
     url: "/personal-statement-tutor/engineering/"
+faqs:
+  - q: "Do I need a GitHub portfolio to apply for Computer Science?"
+    a: "Not strictly, but you need something concrete to point to. A finished CS50 problem set, a Project Euler streak past problem 50, a small Advent of Code year, or one open source pull request all count. A profile listing six languages with no commits is worse than one repo with a real README explaining what you built and why the first version didn't work."
+  - q: "How much maths should a CS personal statement show?"
+    a: "More than most applicants think. Cambridge, Imperial, Warwick and Durham use the TMUA, and the courses run on real analysis, discrete maths and proof from week one. Reference a proof you found interesting, a recurrence relation you derived, or a TMUA Paper 2 question that taught you something. CS isn't typing speed, it's algorithmic reasoning, and the draft should make that obvious."
+  - q: "Should I name programming languages in the statement?"
+    a: "Briefly, and only if they're tied to a problem. Haskell makes sense if you've used it to think about lazy evaluation. Python is worth mentioning if you wrote a non-trivial recursive solver and learned why memoisation matters. Listing Java, Python, C++, JavaScript with nothing attached is the single most common mistake in CS drafts the Cambridge readers see."
 ---
 
 ## What CS admissions tutors actually want to see

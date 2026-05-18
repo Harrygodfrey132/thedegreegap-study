@@ -13,6 +13,13 @@ related_pages:
     url: "/personal-statement-tutor/cambridge/"
   - title: "Oxford Psychology: what's different"
     url: "/personal-statement-tutor/oxford/"
+faqs:
+  - q: "Does it matter whether my Psychology degree is BPS-accredited?"
+    a: "Yes, if you might pursue clinical, educational or forensic psychology. The British Psychological Society confers Graduate Basis for Chartered Membership through accredited courses, and without it you'll need a conversion year before applying for the DClinPsy. Most mainstream BSc routes are accredited, but joint honours and some BA courses aren't. Check each course on the BPS website before finalising your UCAS five."
+  - q: "What's the single biggest weakness in Psychology personal statements?"
+    a: "Treating psychology as a soft pop-science. Citing Kahneman's Thinking, Fast and Slow is fine, but if you don't show you understand the difference between an experiment and a correlational study, the draft reads like A-Level revision. Oxford and UCL want signs of methodological literacy. Mention Loftus's eyewitness work and what made the design clever, not just what the findings were."
+  - q: "How early should I start drafting a Psychology statement?"
+    a: "July of the year before submission is sensible. Psychology is one of the most over-applied UK subjects, so two months of reading and three or four drafts is realistic. Reading one methods-heavy book like Daniel Kahneman's work alongside one paper on the replication crisis gives you genuine material to argue with by September, well ahead of the mid-October UCAS deadline."
 ---
 
 Psychology isn't one degree. It's a family of degrees that happen to share a name. A BSc at UCL looks different to a BSc at Sussex, which looks different to Oxford's Experimental Psychology, which looks different again to Cambridge's PBS. If your Psychology personal statement doesn't read the course shape, it ends up sounding right for none of them.

@@ -16,6 +16,13 @@ related_pages:
     url: "/personal-statement-tutor/oxford/"
   - title: "Cambridge Law: what's different"
     url: "/personal-statement-tutor/cambridge/"
+faqs:
+  - q: "Do I need to mention the LNAT in my Law personal statement?"
+    a: "No, and most strong statements don't. The LNAT is assessed separately by Oxford, UCL, KCL, Bristol, Durham, Glasgow, SOAS and Nottingham, so referencing your score wastes a precious line. Instead, show the kind of close-reading and argument-building the LNAT essay rewards by analysing a real case like R v Dudley and Stephens rather than asserting an interest in justice."
+  - q: "What turns Law tutors off in the opening paragraph?"
+    a: "Childhood courtroom dramas, sweeping claims about justice, and quotes from Lord Denning ripped out of context. Tutors at LSE and KCL have read thousands of these. A sharper opening picks one unresolved legal tension, say the line between consent and harm in R v Brown, and argues into it from the first sentence rather than warming up for half a page."
+  - q: "How much time should I spend on the Law statement versus LNAT prep?"
+    a: "Treat them as one project from June onwards. The LNAT essay and the personal statement reward the same skill: tight argumentation around a contested legal question. Spend roughly 40 hours on LNAT practice papers and 30 hours across four or five statement drafts. Reading Tom Bingham's The Rule of Law properly feeds both."
 ---
 
 There are dozens of ways to open a Law personal statement, and most of them sound the same. Justice. Fairness. A childhood courtroom drama. Admissions tutors at Oxford, UCL, KCL, LSE, Bristol, Durham, Glasgow, SOAS and Nottingham read thousands of these every cycle, and the LNAT exists partly because the statement alone can't separate the careful thinkers from the confident ones. So pick an angle that forces you to argue. Below are three.

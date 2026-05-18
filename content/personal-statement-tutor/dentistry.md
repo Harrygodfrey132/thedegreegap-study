@@ -11,6 +11,13 @@ form_message_label: "What Dentistry evidence do you want to include?"
 form_message_placeholder: "For example: NHS or private shadowing at a general practice, UCAT score and section breakdown, manual dexterity activities like sewing or jewellery-making, awareness of the NHS contract debate, a procedure you observed, or an MMI station you want to prepare for."
 form_button: "Get Dentistry statement help"
 form_note: "We will reply with advice on showing genuine commitment to dentistry rather than general healthcare interest."
+faqs:
+  - q: "What dexterity evidence actually convinces a Dentistry tutor?"
+    a: "Activities you've done for months, not weeks, that train fine motor control under fatigue. Embroidery, jewellery-making, watch repair, model-making and small-scale sculpture all read as real. Sewing taught steadiness in mirror image, which is closer to dental work than most applicants realise. King's and Manchester want the specific skill the activity built, not a list of hobbies dressed up as relevant."
+  - q: "How do I explain why dentistry rather than medicine?"
+    a: "Don't write about combining science with working with your hands, every Dentistry tutor at Birmingham and Sheffield has read that line a thousand times. Better answers come from your shadowing. A specific patient, a specific procedure, the moment you saw a dentist own an outcome from diagnosis through to the final polish and live with it at every six-month recall. Be concrete about one case."
+  - q: "When should I sit the UCAT relative to drafting the statement?"
+    a: "Sit the UCAT early in the summer, ideally July, so the score steers your university list before you commit hours to drafting. Cardiff, Newcastle and Dundee all publish thresholds that shift year to year. A 2700 changes which schools are realistic and therefore which course shapes the statement should fit. Start the draft in August once the score is known."
 ---
 
 Dentistry is unusual among undergraduate applications. The work is clinical, manual, and largely set from day one of the BDS. There's no easy pivot at year three the way there is in a science or humanities degree. That changes how the statement should read. Tutors at King's, Manchester, Sheffield, Birmingham and the other BDS providers aren't looking for a curious generalist. They're looking for someone who has worked out, with evidence, that they want to spend forty years sitting next to a patient's mouth.

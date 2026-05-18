@@ -13,6 +13,13 @@ related_pages:
     url: "/personal-statement-tutor/cambridge/"
   - title: "History personal statement help"
     url: "/personal-statement-tutor/history/"
+faqs:
+  - q: "How much should the personal statement say about my portfolio?"
+    a: "Enough to make one or two portfolio pieces legible as ideas. Don't describe the model in detail, the portfolio review does that. Instead, name a brief you set yourself, say a retrofit study of a 1960s tower block, and explain what question the project tried to answer. The Bartlett and Manchester want to see thinking behind the drawings, not a second photographic record."
+  - q: "Should I name the RIBA Part 1 to Part 3 route in my statement?"
+    a: "A single sentence is enough. Admissions tutors at Bath and Cambridge know you're 17 and don't expect a career plan, but a draft that treats the BA as a standalone three-year arts degree reads as naive. Show you understand the architecture qualification runs seven years through the RIBA stages, then move on to the work and the reading."
+  - q: "Which architects are worth referencing without sounding generic?"
+    a: "Peter Zumthor's Therme Vals works if you write about atmosphere and material weight rather than the photos. Lina Bo Bardi's SESC Pompeia is interesting because she converted a factory rather than demolishing it. Lacaton and Vassal are worth reading on inhabited retrofit. Avoid Zaha Hadid and Frank Gehry as opening references, every Bartlett tutor has read those statements a hundred times."
 ---
 
 ## Architecture is not one course

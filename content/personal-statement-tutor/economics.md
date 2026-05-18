@@ -20,6 +20,13 @@ related_pages:
     url: "/personal-statement-tutor/cambridge/"
   - title: "Mathematics Personal Statement Help"
     url: "/personal-statement-tutor/mathematics/"
+faqs:
+  - q: "How maths-heavy is a UK Economics degree, and should my statement reflect that?"
+    a: "Very. LSE, UCL, Warwick and Cambridge run quantitative courses where you'll meet real analysis, multivariable calculus and econometrics in first year. Your statement should show you can handle that, ideally by referencing Further Maths content or a TMUA preparation topic. A statement that only discusses Freakonomics signals you've not understood what a top UK Economics department actually teaches."
+  - q: "Which books should I actually read before drafting?"
+    a: "Pick two and read them well, don't list six. Banerjee and Duflo's Poor Economics gives you something concrete to say about RCTs and development. Piketty's Capital in the Twenty-First Century, even just the introduction and one empirical chapter, gives you wealth distribution data to argue with. Avoid Freakonomics, every tutor at Warwick has read it 400 times."
+  - q: "When should I take the TMUA, and how does it fit my drafting timeline?"
+    a: "The TMUA sits in October and again in January depending on the cycle, so finalise your statement by mid-September and treat the autumn as test-prep. Most applicants underestimate the gap between A-Level Maths and TMUA Paper 2 logic questions. Forty hours of past-paper work across August is the rough minimum if you want a competitive score for Cambridge or Warwick."
 ---
 
 ## Economics is not one course

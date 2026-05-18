@@ -1,13 +1,13 @@
 {{ $desc := or .Description .Site.Params.description }}
 {{ $isPastPapers := eq .Section "past-papers" }}
-{{ $isPersonalStatement := or (eq .Section "personal-statement-tutor") (eq .Section "personal-statements") }}
-{{ $rawImage := "images/favicon.png" }}
+{{ $isPersonalStatement := eq .Section "personal-statement-tutor" }}
+{{ $rawImage := .Params.og_image | default "images/og_image.png" }}
 {{ $ogImage := $rawImage | absURL }}
 
 <title>{{ if .IsHome }}{{ .Site.Title }}{{ else if in .Title "The Degree Gap" }}{{ .Title }}{{ else }}{{ .Title }} | The Degree Gap{{ end }}</title>
 <meta name="description" content="{{ $desc }}">
 <meta name="author" content="The Degree Gap">
-{{ if or $isPastPapers $isPersonalStatement }}<meta name="robots" content="noindex, nofollow">{{ end }}
+{{ if $isPastPapers }}<meta name="robots" content="noindex, nofollow">{{ end }}
 <link rel="canonical" href="{{ .Permalink }}">
 
 <!-- Open Graph -->
@@ -70,6 +70,27 @@
     "name": "The Degree Gap",
     "url": "{{ .Site.Params.mainSiteURL }}"
   }
+}
+</script>
+{{ end }}
+
+<!-- FAQPage schema (emitted when page frontmatter defines a `faqs` list of {q, a}) -->
+{{ with .Params.faqs }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{ range $i, $faq := . }}{{ if $i }},{{ end }}
+    {
+      "@type": "Question",
+      "name": {{ $faq.q | jsonify }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ $faq.a | jsonify }}
+      }
+    }{{ end }}
+  ]
 }
 </script>
 {{ end }}

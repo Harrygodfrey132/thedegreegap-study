@@ -20,6 +20,13 @@ related_pages:
     url: "/personal-statement-tutor/english-literature/"
   - title: "Politics and IR Personal Statement Help"
     url: "/personal-statement-tutor/politics-and-international-relations/"
+faqs:
+  - q: "Do I need to engage with historiography to get into Oxbridge for History?"
+    a: "Yes, and it's what separates the shortlist from the rest. School History teaches events, university History teaches how historians argue about those events. Reference one real debate, say E P Thompson against the older labour historians on working-class agency, or Mary Beard against the older narrative tradition on Roman citizenship. Show you know historians disagree, and that you have a view on why."
+  - q: "How do I avoid the Tudors-Nazis-Cold War trap?"
+    a: "Pick one period your school didn't cover and read into it properly. The Haitian Revolution, the Mughal economy, or English local history through a parish register all work. Oxford and Cambridge tutors read hundreds of A-Level syllabus regurgitations, and a statement that engages a non-A-Level period seriously stands out within the first paragraph. Olusoga's Black and British is one accessible entry point."
+  - q: "Should I mention the Oxford HAT or the Cambridge interview in my statement?"
+    a: "No. The HAT is assessed separately and Cambridge interviews you on a source they choose. The statement is your space to show how you read evidence, not to flag tests the tutors already know you're sitting. Use the 4,000 characters to argue about one historiographical question in depth, and let the HAT prove the rest."
 ---
 
 Most school History stops at three things: Tudors, Nazis, Cold War. A good History personal statement starts by noticing that, and going somewhere else. Below are three different framings you can use. Pick one. Don't try to do all three in 4,000 characters.
