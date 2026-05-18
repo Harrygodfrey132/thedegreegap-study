@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   {{- range .Data.Pages }}
   {{- $section := .Section }}
-  {{- $exclude := or (eq $section "past-papers") (eq $section "personal-statement-tutor") (eq $section "personal-statements") }}
+  {{- $exclude := eq $section "past-papers" }}
   {{- if not $exclude }}
   <url>
     <loc>{{ .Permalink }}</loc>

@@ -13,9 +13,9 @@ form_button: "Get Medicine statement help"
 form_note: "We will reply with advice on making your Medicine statement reflective rather than generic."
 related_pages:
   - title: "Oxford Medicine: what's different"
-    url: "/personal-statements/oxford/"
+    url: "/personal-statement-tutor/oxford/"
   - title: "Cambridge Medicine: what's different"
-    url: "/personal-statements/cambridge/"
+    url: "/personal-statement-tutor/cambridge/"
 ---
 
 ## A stronger Medicine angle

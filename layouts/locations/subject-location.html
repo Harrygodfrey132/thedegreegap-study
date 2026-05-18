@@ -125,42 +125,7 @@
 <!-- =============================================
      SECTION 4: TUTOR PROFILE CARDS  (rich, sampled from thedegreegap.com)
      ============================================= -->
-{{ $defaultProfiles := slice
-  (dict
-    "name" "Avery Goldie"
-    "country" "United Kingdom"
-    "flag" "🇬🇧"
-    "teaches" "GCSE English, GCSE Biology, GCSE History, GCSE Physics, GCSE Chemistry, University - Law, GCSE Maths, GCSE Geography, A level History, Personal Statement / Admissions, 2-1 English tutoring"
-    "price" "£37.50 - £120.00"
-    "blurb" "Hi, I am Avery. I have recently graduated from the University of Oxford, having studied Law. I have tutoring experience in a variety of subjects, including A-level..."
-    "image" "https://thedegreegap.com/cache/bd/9b400d603fa3eed019a026bd303ed4.jpg"
-    "url" "https://thedegreegap.com/teachers/view/averygoldie"
-    "verified" true
-    "online" true)
-  (dict
-    "name" "Jacob Berry"
-    "country" "United Kingdom"
-    "flag" "🇬🇧"
-    "teaches" "GCSE Physics, GCSE Maths, GCSE Chemistry, A level Physics, A level Maths"
-    "price" "£40.00 - £95.00"
-    "blurb" "Hi, I'm Jacob. I'm a Physics graduate with five years of tutoring experience across GCSE and A-Level. I focus on the multi-step problem solving that wins the top marks..."
-    "image" "https://thedegreegap.com/cache/63/a430b8623078fe8465a73f61051343.jpg"
-    "url" "https://thedegreegap.com/teachers/view/108759843003883984075"
-    "verified" true
-    "online" true)
-  (dict
-    "name" "Faizaan Butt"
-    "country" "United Kingdom"
-    "flag" "🇬🇧"
-    "teaches" "GCSE Physics, GCSE Chemistry, GCSE Biology, GCSE Maths, A level Biology"
-    "price" "£35.00 - £85.00"
-    "blurb" "Hi, I'm Faizaan, a medical student with a passion for breaking down tricky science topics. I tutor in a calm, structured way that builds confidence first, then results..."
-    "image" "https://thedegreegap.com/cache/a0/5a456a5430697e519b98e79179462a.jpg"
-    "url" "https://thedegreegap.com/teachers/view/faizaanb1"
-    "verified" true
-    "online" true)
-}}
-{{ $profiles := .Params.tutor_profiles | default $defaultProfiles }}
+{{ $profiles := .Params.tutor_profiles | default (first 3 (shuffle site.Data.tutors)) }}
 
 <section class="tdg-profiles">
   <div class="container">

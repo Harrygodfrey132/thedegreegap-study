@@ -13,9 +13,9 @@ form_button: "Get History statement help"
 form_note: "We will reply with advice on making your History statement interpretive, not narrative."
 related_pages:
   - title: "Oxford: what's different"
-    url: "/personal-statements/oxford/"
+    url: "/personal-statement-tutor/oxford/"
   - title: "Cambridge: what's different"
-    url: "/personal-statements/cambridge/"
+    url: "/personal-statement-tutor/cambridge/"
 ---
 
 ## A stronger History angle

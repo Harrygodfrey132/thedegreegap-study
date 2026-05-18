@@ -13,9 +13,9 @@ form_button: "Get Law statement help"
 form_note: "We will reply with guidance on making your Law statement analytical, not just career-focused."
 related_pages:
   - title: "Oxford Law: what's different"
-    url: "/personal-statements/oxford/"
+    url: "/personal-statement-tutor/oxford/"
   - title: "Cambridge Law: what's different"
-    url: "/personal-statements/cambridge/"
+    url: "/personal-statement-tutor/cambridge/"
 ---
 
 ## A stronger Law angle

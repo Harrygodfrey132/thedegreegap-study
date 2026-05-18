@@ -15,9 +15,9 @@ form_button: "Get Maths statement help"
 form_note: "We will reply with advice on making your Maths statement specific, rigorous, and interview-ready."
 related_pages:
   - title: "Oxford: what's different"
-    url: "/personal-statements/oxford/"
+    url: "/personal-statement-tutor/oxford/"
   - title: "Cambridge: what's different"
-    url: "/personal-statements/cambridge/"
+    url: "/personal-statement-tutor/cambridge/"
 ---
 
 ## A stronger Mathematics angle

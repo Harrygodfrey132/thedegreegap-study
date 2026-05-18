@@ -12,9 +12,9 @@ related_pages:
   - title: "Economics personal statement help"
     url: "/personal-statement-tutor/economics/"
   - title: "Oxford: what's different"
-    url: "/personal-statements/oxford/"
+    url: "/personal-statement-tutor/oxford/"
   - title: "Cambridge: what's different"
-    url: "/personal-statements/cambridge/"
+    url: "/personal-statement-tutor/cambridge/"
 ---
 
 ## A stronger Accounting and Finance angle

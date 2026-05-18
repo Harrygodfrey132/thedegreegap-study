@@ -13,7 +13,7 @@ form_button: "Get English statement help"
 form_note: "We will reply with advice on making your statement analytical, comparative, and text-led."
 related_pages:
   - title: "Oxford: what's different"
-    url: "/personal-statements/oxford/"
+    url: "/personal-statement-tutor/oxford/"
 ---
 
 ## A stronger English Literature angle

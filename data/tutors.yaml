@@ -1,0 +1,530 @@
+- name: Avery Goldie
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE English, GCSE Biology, GCSE History, GCSE Physics, GCSE Chemistry, University - Law, GCSE Maths, GCSE Geography, A level History, Personal Statement / Admissions, 2-1 English tutoring"
+  price: "£37.50 - £120.00"
+  blurb: "Hi, I am Avery. I have recently graduated from the University of Oxford, having studied Law. I have tutoring experience in a variety of subjects, including A-level..."
+  image: "https://thedegreegap.com/cache/bd/9b400d603fa3eed019a026bd303ed4.jpg"
+  url: "https://thedegreegap.com/teachers/view/averygoldie"
+  verified: true
+  online: true
+- name: Jacob Berry
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE Physics, GCSE Maths, GCSE Chemistry, A level Physics, A level Maths"
+  price: "£40.00 - £95.00"
+  blurb: "Hi, I'm Jacob. I'm a Physics graduate with five years of tutoring experience across GCSE and A-Level. I focus on the multi-step problem solving that wins the top marks..."
+  image: "https://thedegreegap.com/cache/63/a430b8623078fe8465a73f61051343.jpg"
+  url: "https://thedegreegap.com/teachers/view/108759843003883984075"
+  verified: true
+  online: true
+- name: Faizaan Butt
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE Physics, GCSE Chemistry, GCSE Biology, GCSE Maths, A level Biology"
+  price: "£35.00 - £85.00"
+  blurb: "Hi, I'm Faizaan, a medical student with a passion for breaking down tricky science topics. I tutor in a calm, structured way that builds confidence first, then results..."
+  image: "https://thedegreegap.com/cache/a0/5a456a5430697e519b98e79179462a.jpg"
+  url: "https://thedegreegap.com/teachers/view/faizaanb1"
+  verified: true
+  online: true
+- name: Alexander Kolushev
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE English, GCSE Biology, GCSE Physics, GCSE Maths, A level Philosophy"
+  price: "£40.00 - £67.50"
+  blurb: "University of Bristol student studying Social Policy with 2+ years tutoring experience. Lessons are clear and tailored: we identify what you're stuck on, tighten up the basics, then practise..."
+  image: "https://www.thedegreegap.com/cache/a6/b077bfed3b95316f2adc75c9db12d2.jpg"
+  url: "https://thedegreegap.com/teachers/view/AlexanderK"
+  verified: false
+  online: true
+- name: Alexandra
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE English, A level English, 2-1 English tutoring, 11+ English"
+  price: "£50.00 - £58.00"
+  blurb: "Experienced English teacher offering calm, patient support to KS3 and KS4 students. Focus on clarity, confidence-building and steady progress..."
+  image: "https://thedegreegap.com/cache/87/15d46b68853b539c88d019ef56bb20.jpg"
+  url: "https://thedegreegap.com/teachers/view/Alexandra"
+  verified: false
+  online: false
+- name: Alisha Amin
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE Biology, GCSE Chemistry, A level Psychology, A level Biology"
+  price: "£52.00 - £60.00"
+  blurb: "Alisha specializes in tutoring GCSE & A-Level Biology, GCSE Chemistry, and A-Level Psychology. With years of experience, she breaks down complex concepts into..."
+  image: "https://www.thedegreegap.com/cache/7d/40d00fd78e35c76e2cc207a24c2cb1.jpg"
+  url: "https://thedegreegap.com/teachers/view/Alisha"
+  verified: false
+  online: false
+- name: Anastasia Picton-Vraka
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE English, A level English, University English, 2-1 English tutoring, 11+ Maths, 11+ English"
+  price: "£45.00 - £150.00"
+  blurb: "Cambridge graduate SEN tutor with 5 years experience in SEN and secondary education. I develop tutoring sessions tailored to each student's needs..."
+  image: "https://www.thedegreegap.com/image/show/4/742/MEDIUM"
+  url: "https://thedegreegap.com/teachers/view/Anastasia"
+  verified: false
+  online: false
+- name: Annishka White
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "University - Business, GCSE Business, A level Business"
+  price: "£40.00 - £100.00"
+  blurb: "Dynamically driven and analytical educator with over 15 years of teaching business experience at secondary to university level, skilled in coaching and training individuals..."
+  image: "https://www.thedegreegap.com/cache/3d/5a6d03f68b3a23b38bf0a7c3a13f37.jpg"
+  url: "https://thedegreegap.com/teachers/view/Annishka"
+  verified: true
+  online: false
+- name: Ariana Lopez Clift
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE English, GCSE History, A level History, Personal Statement / Admissions"
+  price: "£45.00 - £54.00"
+  blurb: "Oxford graduate in Classics with 5 years experience in encouraging and supporting students with their academic goals..."
+  image: "https://www.thedegreegap.com/cache/1c/091e258431fd698c9e91a6abe79c29.jpg"
+  url: "https://thedegreegap.com/teachers/view/ArianaLopezClift"
+  verified: false
+  online: true
+- name: Arianna Seraj
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE English, University - Politics, A level English, GCSE - German, A level German, A level Politics, 2-1 English tutoring, 11+ Non-Verbal Reasoning, 11+ Verbal Reasoning, 11+ Maths, 11+ English"
+  price: "£40.00 - £50.00"
+  blurb: "First-Class Politics and International Relations student from Loughborough University with A Levels in German, English, and Politics. Achieved 11 grades of 7-9 at GCSE..."
+  image: "https://www.thedegreegap.com/cache/4e/456cf6e3fb75242e9f7ce91baa6c93.jpg"
+  url: "https://thedegreegap.com/teachers/view/Arianna_s"
+  verified: false
+  online: false
+- name: Bethany Gilchrist
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE History, A level History, A level Sociology"
+  price: "£45.00 - £54.00"
+  blurb: "Fully qualified History teacher with a PGCE from the University of Sunderland and a Bachelor's in Political Science (1:1). Five years' experience teaching..."
+  image: "https://www.thedegreegap.com/image/show/4/939/MEDIUM"
+  url: "https://thedegreegap.com/teachers/view/Bethany123"
+  verified: false
+  online: true
+- name: Cadell Langlands
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "University - Psychology, GCSE Psychology, A level Psychology"
+  price: "£60.00 - £60.00"
+  blurb: "I have taught Psychology, at a variety of levels (GCSE, A Level and Access to HE), to a wide range of students (aged 14-70+), for over 28 years..."
+  image: "https://www.thedegreegap.com/image/show/4/691/MEDIUM"
+  url: "https://thedegreegap.com/teachers/view/Cadell"
+  verified: false
+  online: false
+- name: Caitlin Lewis
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE English, University - Politics, GCSE History, A level Politics"
+  price: "£42.00 - £60.00"
+  blurb: "Experienced tutor with over four years of teaching experience across Primary, KS3, GCSE and A-Level. Combines subject knowledge with engaging activities..."
+  image: "https://www.thedegreegap.com/cache/ed/29c49c7dd763c5635f768d3b29e3f4.jpg"
+  url: "https://thedegreegap.com/teachers/view/Caitlin_Lewis"
+  verified: false
+  online: false
+- name: Callum Kendray
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE Biology, GCSE Chemistry, GCSE Maths, A level Biology, A level Chemistry"
+  price: "£45.00 - £50.00"
+  blurb: "Second-year undergraduate studying Medicine at Oxford with 1 year of tutoring experience. Focuses on solid foundations, good understanding, and strong exam technique..."
+  image: "https://www.thedegreegap.com/cache/47/30c5fe6ae4db07fe3d01e74933d9fb.jpg"
+  url: "https://thedegreegap.com/teachers/view/CallumKendray"
+  verified: false
+  online: false
+- name: Callum Ormsby
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE English, GCSE Biology, GCSE Chemistry, GCSE Maths, A level Maths, A level English, A level Biology, A level Chemistry, University Biology, Personal Statement / Admissions"
+  price: "£50.00 - £60.00"
+  blurb: "Cambridge graduate with 6 years of tutoring experience across diverse student backgrounds. Specialises in building confidence and independence through patient, encouraging instruction..."
+  image: "https://www.thedegreegap.com/cache/9e/97d03614ae472818d0c828bb86c778.jpg"
+  url: "https://thedegreegap.com/teachers/view/Callum_Ormsby"
+  verified: false
+  online: false
+- name: Connor Harrison
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE Maths, A level Maths, GCSE Computer Science"
+  price: "£10.00 - £45.00"
+  blurb: "Qualified teacher (QTS) with a BA (Hons) Primary Education with Mathematics Specialism. Has 3 years tutoring experience supporting students..."
+  image: "https://thedegreegap.com/cache/8d/070d67dc67c6a8a99422a73abaa90f.jpg"
+  url: "https://thedegreegap.com/teachers/view/Connor_Harrison"
+  verified: false
+  online: false
+- name: Corinna Hudson
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE Biology, GCSE Physics, GCSE Chemistry, A level Biology, A level Chemistry"
+  price: "£45.00 - £54.00"
+  blurb: "Dedicated tutor with over 1 year experience delivering tailored support across maths and science. Holds A levels in Biology (A), Chemistry (A) and Maths (A)..."
+  image: "https://www.thedegreegap.com/cache/05/2b7287ac7022cecd41d23666e6322b.jpg"
+  url: "https://thedegreegap.com/teachers/view/Corinna"
+  verified: false
+  online: false
+- name: Daniel Beech
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "University - Geography, GCSE Geography, A level Geography"
+  price: "£29.25 - £78.00"
+  blurb: "Online tuition provider for Geography at multiple academic levels. Teacher and examiner for GCSE and A-Level with a PhD (2017)..."
+  image: "https://www.thedegreegap.com/cache/7a/ca9089fcec5887fab3c0b9e13c47ba.jpg"
+  url: "https://thedegreegap.com/teachers/view/DanielBeechGeography"
+  verified: false
+  online: false
+- name: Daniel Partington
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE Biology, GCSE Physics, GCSE Chemistry, GCSE Maths, A level Maths, GCSE Computer Science, 11+ Maths"
+  price: "£45.00 - £54.00"
+  blurb: "A dedicated and seasoned maths tutor with 6 years experience who builds strong rapport with students and uses a student-first approach to achieve measurable improvement..."
+  image: "https://www.thedegreegap.com/cache/d8/fbffdc08d23b90f38ebdb63486e8a6.jpg"
+  url: "https://thedegreegap.com/teachers/view/DannyPart97"
+  verified: false
+  online: false
+- name: Dianne Shannon
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "University - Economics, University - Business, GCSE Economics, GCSE Business, A level Business, A level Economics, Personal Statement / Admissions"
+  price: "£30.00 - £50.00"
+  blurb: "I have worked in education for over 20 years and have experience teaching at all levels, from secondary school through to postgraduate study..."
+  image: "https://www.thedegreegap.com/cache/2e/b83f56eaaab7ac55217fcf2827ac34.jpg"
+  url: "https://thedegreegap.com/teachers/view/DianneS"
+  verified: false
+  online: false
+- name: Dora Abbi
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE English, GCSE Biology, GCSE Chemistry, A level Biology, A level Chemistry, Personal Statement / Admissions"
+  price: "£40.00 - £43.00"
+  blurb: "First year Cambridge medical student with 3+ years of tutoring experience passionate about Biology, Chemistry and English Literature. Helped students reach top grades..."
+  image: "https://www.thedegreegap.com/cache/50/2c289aecb8a7759eaf26a967da1b4c.jpg"
+  url: "https://thedegreegap.com/teachers/view/Dora_Abbi"
+  verified: false
+  online: false
+- name: Ella Peel
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE English, A level English"
+  price: "£35.00 - £70.00"
+  blurb: "I'm passionate about helping my students grow in confidence to reach their academic goals. I have a First Class Honours degree in English Literature..."
+  image: "https://www.thedegreegap.com/cache/d1/0907c83a65e002389723f697b5b2ba.jpg"
+  url: "https://thedegreegap.com/teachers/view/EllaPeel"
+  verified: true
+  online: false
+- name: Ella Meehan
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE English, GCSE History, A level English, A level History, 11+ English"
+  price: "£40.00 - £46.00"
+  blurb: "English literature tutor with a passion for helping students advance their learning. Holds a degree in English Literature and a Master's in Modern and Contemporary Writing..."
+  image: "https://www.thedegreegap.com/cache/4c/9c9d7e59c036d4f5908c70c2bbf817.jpg"
+  url: "https://thedegreegap.com/teachers/view/Ella_Meehan"
+  verified: false
+  online: false
+- name: Emir Akcay
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE English, GCSE Economics, GCSE Maths, GCSE Business, A level Maths, A level Business"
+  price: "£30.00 - £50.00"
+  blurb: "I'm a dedicated tutor with over 3 years of experience, having taught 30+ students across Maths (ages 4-18), English (ages 4-16), GCSE Economics, and Business..."
+  image: "https://www.thedegreegap.com/cache/3f/777e568d17ddb9f6be7555643cfe27.jpg"
+  url: "https://thedegreegap.com/teachers/view/EmirAkcay"
+  verified: true
+  online: true
+- name: Frances Averre
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE Physics, University Maths, GCSE Maths, A level Maths, A level Further Maths"
+  price: "£41.25 - £150.00"
+  blurb: "PGCE qualified teacher with a Master's degree in maths and extensive tutoring experience, offering instruction in mathematics from primary to university level..."
+  image: "https://thedegreegap.com/cache/38/4eed4c92840f798902f40217495f45.jpg"
+  url: "https://thedegreegap.com/teachers/view/FrancesA"
+  verified: true
+  online: false
+- name: Gloria Wei
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "University - Geography, GCSE Geography, A level Geography"
+  price: "£35.00 - £70.00"
+  blurb: "First-year Geography student at Cambridge with extensive tutoring experience. Achieving top grades throughout my academic career, I understand the skills required to excel..."
+  image: "https://www.thedegreegap.com/cache/65/c744dfc41700d7ea07277d2b749bcd.jpg"
+  url: "https://thedegreegap.com/teachers/view/Gloria_Wei"
+  verified: false
+  online: false
+- name: Hira Aslam
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE English, GCSE Biology, GCSE Physics, GCSE Chemistry, GCSE Maths, A level Biology, University - Medicine, Personal Statement / Admissions, 2-1 English tutoring, 11+ Non-Verbal Reasoning, 11+ Verbal Reasoning, 11+ Maths, 11+ English"
+  price: "£44.00 - £60.00"
+  blurb: "I am currently a 4th year medical student at a Russell Group university. I have been working in the tutoring sector for around 5 years now, both online and..."
+  image: "https://www.thedegreegap.com/cache/b5/6dbdb90901d5028627b53009b087ea.jpg"
+  url: "https://thedegreegap.com/teachers/view/HiraAslam"
+  verified: false
+  online: false
+- name: Hollie Carter
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE Geography, A level Geography, Philosophy"
+  price: "£74.00 - £74.00"
+  blurb: "Experienced teacher with 13 years in education, specialising in Geography and Philosophy. Passionate about building confidence, improving exam technique..."
+  image: "https://thedegreegap.com/cache/b3/e33eda8ae4be7dc3ddf8e45b0157e5.jpg"
+  url: "https://thedegreegap.com/teachers/view/Hollie_carter"
+  verified: true
+  online: false
+- name: Holly Weaver
+  country: United States of America
+  flag: 🇺🇸
+  teaches: "University - Politics, University - Philosophy, University - Sociology, University - Anthropology, University - Law, Personal Statement / Admissions, University - Education"
+  price: "£41.25 - £120.00"
+  blurb: "Political Science PhD Candidate with expertise in social science subjects at university level, including politics, sociology, and law. Over 10 years of tutoring experience..."
+  image: "https://thedegreegap.com/cache/0d/2a01180185e016272c69ad964300ee.jpg"
+  url: "https://thedegreegap.com/teachers/view/HollyWeaver"
+  verified: false
+  online: false
+- name: Isobel Stultiens
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE English, A level English, A level Philosophy"
+  price: "£40.00 - £46.00"
+  blurb: "Isobel has several years experience tutoring English and Religious Studies/Philosophy and Ethics. She enjoys discussing the links between literature, philosophy, art, and music..."
+  image: "https://www.thedegreegap.com/cache/36/df8eac5ccd5227629c8e0e5ead6d52.jpg"
+  url: "https://thedegreegap.com/teachers/view/Isobel"
+  verified: false
+  online: false
+- name: Jessica B
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE English, A level English, Personal Statement / Admissions"
+  price: "£10.00 - £50.00"
+  blurb: "I'm Jess, a passionate tutor for English Language and Literature with three years of experience. She emphasizes personalized, adaptive instruction..."
+  image: "https://www.thedegreegap.com/cache/2d/4ad483a6dc3f6d3381bd7557fbc5a9.jpg"
+  url: "https://thedegreegap.com/teachers/view/Jessica"
+  verified: false
+  online: false
+- name: Joe Clark
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "University - Business, GCSE Business, A level Business"
+  price: "£30.00 - £50.00"
+  blurb: "I studied Business Management and Marketing at a top business school in London. Throughout University, I gained experience from two internships in Sales and Marketing..."
+  image: "https://www.thedegreegap.com/cache/94/beecfbc6b946c0193a148c933e7342.jpg"
+  url: "https://thedegreegap.com/teachers/view/Joe_clark"
+  verified: false
+  online: true
+- name: Jon Brettell
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "University - Geography, University - Anthropology, GCSE Geography, A level Geography, Personal Statement / Admissions"
+  price: "£22.50 - £50.00"
+  blurb: "A patient tutor with a clear delivery style assisting in human and physical geography from primary through degree level. As a Dr of geography, he blends both disciplines..."
+  image: "https://www.thedegreegap.com/cache/75/14654e2c70a10573a257cb3b157ee2.jpg"
+  url: "https://thedegreegap.com/teachers/view/Jon_Brettell"
+  verified: false
+  online: false
+- name: Joshua Ramsdale
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE English, A level History, University - French, GCSE - French, GCSE - Spanish, A level French, A level Spanish, University - Spanish, 2-1 English tutoring, 11+ English"
+  price: "£40.00 - £60.00"
+  blurb: "Highly qualified educator with an MA in International Relations and BA in Modern Foreign Languages from Newcastle University. Specialises in English and History..."
+  image: "https://thedegreegap.com/cache/05/b70e031e34c2e2ade21e6068c8c3dd.jpg"
+  url: "https://thedegreegap.com/teachers/view/JoshuaRamsdale"
+  verified: false
+  online: true
+- name: Joshua Sagir
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE English, GCSE Psychology, A level Psychology"
+  price: "£11.25 - £50.00"
+  blurb: "First-Class Psychology graduate and Governors' Prize recipient. Extensive experience tutoring GCSE and A-level students, recognized as Tutor of the Term..."
+  image: "https://www.thedegreegap.com/cache/52/9d355c1a32684cb027106734e01752.jpg"
+  url: "https://thedegreegap.com/teachers/view/JoshuaSagir"
+  verified: false
+  online: false
+- name: Kailash Balamurugan
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE Biology, GCSE History, GCSE Physics, GCSE Chemistry, GCSE Maths, GCSE Geography, A level Biology, A level Chemistry"
+  price: "£30.00 - £50.00"
+  blurb: "Caring and passionate tutor with over 2 years of experience supporting students from primary through A-levels. Currently a first-year dental student at King's College London..."
+  image: "https://thedegreegap.com/cache/0b/36d80a18ea93620667bac2aece1903.jpg"
+  url: "https://thedegreegap.com/teachers/view/Kailash"
+  verified: false
+  online: true
+- name: Luhaib Abbood
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "A level Biology, University - Chemistry, University - Biology, University - Medicine"
+  price: "£50.00 - £60.00"
+  blurb: "Experienced lecturer with three degrees in Microbiology, Medical Biotechnology and Biomedical Sciences. Over 14 years in academia, teaching and research..."
+  image: "https://thedegreegap.com/cache/0f/b830fd047df0e65618379b98cefb77.jpg"
+  url: "https://thedegreegap.com/teachers/view/Luhaib_Abbood"
+  verified: false
+  online: false
+- name: Malvina Ferzaj
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE English, GCSE History, A level English, A level History, University - History, GCSE - French"
+  price: "£33.75 - £120.00"
+  blurb: "Hardworking and enthusiastic First-class Honours History/Politics Graduate dedicated to supporting students in achieving their highest potential..."
+  image: "https://www.thedegreegap.com/cache/6f/6f5ce73e16aabc4b72c54001564a3c.jpg"
+  url: "https://thedegreegap.com/teachers/view/MalvinaFerzaj"
+  verified: true
+  online: true
+- name: Mobashira Amatul
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE English, A level English, 2-1 English tutoring"
+  price: "£11.25 - £54.00"
+  blurb: "Dynamic and resourceful educator with extensive experience across KS1-KS4, GCSE and A Level English, skilled in tailoring lessons to individual needs..."
+  image: "https://thedegreegap.com/cache/c3/3b15718fd8e00f1e1cc0c8afcd6eef.jpg"
+  url: "https://thedegreegap.com/teachers/view/Mobashira"
+  verified: false
+  online: true
+- name: Modupe Sanusi
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE Economics, GCSE Maths, A level Economics, 11+ Non-Verbal Reasoning, 11+ Verbal Reasoning, 11+ Maths, 11+ English, Revision Techniques, A level Philosophy"
+  price: "£65.00 - £65.00"
+  blurb: "Oxford graduate with 11+ years of education experience. An enthusiastic teacher who loves to reap the benefits of good results and brings out the best in students..."
+  image: "https://www.thedegreegap.com/cache/0d/997c6ca45861fa44b126def3c806f4.jpg"
+  url: "https://thedegreegap.com/teachers/view/Modupe"
+  verified: false
+  online: false
+- name: Mufid Rahman
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE English, GCSE Maths, A level Maths, Personal Statement / Admissions"
+  price: "£40.00 - £100.00"
+  blurb: "Princeton University graduate now pursuing a Master's in Philosophy at King's College London. Started tutoring in 2020 and has helped students across GCSEs, A-Levels..."
+  image: "https://www.thedegreegap.com/cache/9f/73473ae2f1e08650d18dbbebf3d37c.jpg"
+  url: "https://thedegreegap.com/teachers/view/Mufid_Rahman"
+  verified: false
+  online: false
+- name: Neil Hedge
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE English, GCSE Maths"
+  price: "£7.50 - £30.00"
+  blurb: "Qualified secondary teacher with a Mathematics degree from the University of Hull and a PGCE from the University of Manchester, specialising in GCSE preparation..."
+  image: "https://www.thedegreegap.com/cache/05/c18518344849ea94a2db7e390169d4.jpg"
+  url: "https://thedegreegap.com/teachers/view/Neil_Hedge"
+  verified: false
+  online: false
+- name: Nicole Major
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE History, GCSE Geography, A level Geography, A level History, A level Politics, University - Anthropology, University - Medicine, Personal Statement / Admissions"
+  price: "£40.00 - £70.00"
+  blurb: "3rd-year Medical Student at Barts and the London School of Medicine and Dentistry with an academic background in History, Politics, and Geography..."
+  image: "https://thedegreegap.com/cache/a3/332743917689c0c39c17e3d8a8ffa6.jpg"
+  url: "https://thedegreegap.com/teachers/view/NicoleMajor"
+  verified: false
+  online: false
+- name: Oliver Saxby
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE Maths, A level Maths, 11+ Maths"
+  price: "£45.00 - £54.00"
+  blurb: "Mathematics graduate from the University of Exeter with experience supporting students across a wide range of abilities. Currently works as a Mathematics Teaching Assistant..."
+  image: "https://thedegreegap.com/cache/0c/5d79047b175439e027f689e6015b3c.jpg"
+  url: "https://thedegreegap.com/teachers/view/Oliver_Saxby"
+  verified: false
+  online: false
+- name: Orlaith Walsh
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE Biology, GCSE Physics, GCSE Chemistry, GCSE Maths, A level Biology, A level Chemistry, University Biology, Personal Statement / Admissions, Revision Techniques"
+  price: "£33.75 - £60.00"
+  blurb: "Graduate Entry Medical Student with a Biomedical Science degree from Queen's University Belfast, strong in sciences and high-performance study strategies..."
+  image: "https://www.thedegreegap.com/cache/d0/e31de4771c565ced2837e3abae0b85.jpg"
+  url: "https://thedegreegap.com/teachers/view/Orlaithwalsh"
+  verified: false
+  online: true
+- name: Peter Gillibrand
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE Economics, GCSE Maths, A level Economics, A level Politics"
+  price: "£33.75 - £54.00"
+  blurb: "Friendly and supportive tutor with 8+ years of experience passionate about helping students build confidence and understanding to achieve their academic goals..."
+  image: "https://www.thedegreegap.com/cache/68/e5a521ce248bfac98cb9180582e13a.jpg"
+  url: "https://thedegreegap.com/teachers/view/PeterGillibrand"
+  verified: false
+  online: false
+- name: Priya Jandu
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE Biology, GCSE Physics, GCSE Chemistry, A level Biology, A level Chemistry"
+  price: "£50.00 - £58.00"
+  blurb: "Medical student based in London with a BSc in Medical Science and MSc in Healthcare Technologies from King's College London. Over 2 years tutoring GCSE sciences..."
+  image: "https://thedegreegap.com/cache/24/3065e06350cb909250a25fa449a175.jpg"
+  url: "https://thedegreegap.com/teachers/view/Priya_tutoring"
+  verified: false
+  online: false
+- name: Randa Jneid
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE English, GCSE Biology, GCSE Chemistry, GCSE Maths, GCSE Business, A level Maths, A level English, A level Biology, A level Chemistry, University Education, A level Further Maths, University English, GCSE Media, 2-1 English tutoring"
+  price: "£50.00 - £50.00"
+  blurb: "With over 17 years of teaching experience and a passion for helping students succeed, I bring both expertise and enthusiasm to every tutoring session..."
+  image: "https://www.thedegreegap.com/cache/f9/18f9eaee81f50370c7bf7c43250a18.jpg"
+  url: "https://thedegreegap.com/teachers/view/Randa_Jneid"
+  verified: false
+  online: false
+- name: Rebecca Hanna
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE English, GCSE Biology, GCSE Physics, GCSE Chemistry, GCSE Maths, GCSE Geography, GCSE Further Maths, A level Maths, A level Biology, A level Chemistry, A level Physics, A level Further Maths, 11+ Maths, 11+ English"
+  price: "£10.00 - £60.00"
+  blurb: "Experienced tutor specializing in Biology, Chemistry, Mathematics, and Physics at GCSE and A-Level with a First-Class Master's degree in Pharmaceutical Biosciences..."
+  image: "https://www.thedegreegap.com/cache/ab/f0b33949c4882c2c99cb0a1d1ad0c6.jpg"
+  url: "https://thedegreegap.com/teachers/view/Rehanna"
+  verified: true
+  online: false
+- name: Safiyyah Ahmed
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE Biology, GCSE Physics, GCSE Chemistry, A level Biology, A level Chemistry"
+  price: "£10.00 - £50.00"
+  blurb: "Experienced science tutor with three years of one-to-one and group teaching across GCSE and A-level subjects. Currently studying MBBS at King's College London..."
+  image: "https://www.thedegreegap.com/cache/13/8a6088878de11ae9295d680a54b316.jpg"
+  url: "https://thedegreegap.com/teachers/view/Safiyyah_A"
+  verified: false
+  online: false
+- name: Samuel Hume
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE History, A level History, Personal Statement / Admissions, University - History"
+  price: "£10.00 - £100.00"
+  blurb: "PhD in History and MLitt in Modern History from University of Aberdeen. Offers guidance on primary research, historiography, and exam preparation across multiple levels..."
+  image: "https://www.thedegreegap.com/cache/90/84d2183718c20d53f9aeee6f0e2ad0.jpg"
+  url: "https://thedegreegap.com/teachers/view/Samuel_Hume"
+  verified: false
+  online: false
+- name: Sara Dellapiana
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "GCSE - French, GCSE - Spanish, GCSE Italian"
+  price: "£30.00 - £40.00"
+  blurb: "Sara is a native Italian speaker with a passion for languages. She graduated with a PGCE distinction in Secondary MFL and brings over 20 years of teaching experience..."
+  image: "https://www.thedegreegap.com/cache/8c/766438d03fdffde1dc9c344e40a6fe.jpg"
+  url: "https://thedegreegap.com/teachers/view/SaraDellapiana"
+  verified: true
+  online: false
+- name: Sarah Round
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: "University - Arts, University - Engineering, Personal Statement / Admissions, University - Education, University - Environmental Science, University - Architecture"
+  price: "£30.00 - £100.00"
+  blurb: "With a PhD in Architecture and over seven years of university-level teaching, I specialize in architectural design, AutoCAD, Revit, and BIM..."
+  image: "https://www.thedegreegap.com/cache/85/2220cf64d598008cf973b9a155edf2.jpg"
+  url: "https://thedegreegap.com/teachers/view/SarahRound"
+  verified: true
+  online: false

@@ -1,0 +1,4 @@
+/personal-statements/oxford/      /personal-statement-tutor/oxford/      301
+/personal-statements/cambridge/   /personal-statement-tutor/cambridge/   301
+/personal-statements/             /personal-statement-tutor/             301
+/personal-statements/*            /personal-statement-tutor/:splat       301

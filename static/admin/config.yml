@@ -126,28 +126,6 @@ collections:
           - { name: "url", label: "URL", widget: "string" }
       - { name: "body", label: "Body", widget: "markdown", required: false }
 
-  - name: "ps_universities"
-    label: "Personal statement — university pages"
-    label_singular: "University page"
-    description: "One page per university (Oxford, Cambridge). Lives at /personal-statements/{slug}/."
-    folder: "content/personal-statements"
-    extension: "md"
-    format: "yaml-frontmatter"
-    create: true
-    slug: "{{slug}}"
-    summary: "{{university}} — {{title}}"
-    fields:
-      - { name: "title", label: "SEO title", widget: "string" }
-      - { name: "description", label: "SEO description", widget: "text" }
-      - { name: "university", label: "University", widget: "string" }
-      - { name: "form_cta", label: "Form CTA heading", widget: "string" }
-      - { name: "form_intro", label: "Form intro", widget: "text" }
-      - { name: "form_message_label", label: "Form message label", widget: "string" }
-      - { name: "form_message_placeholder", label: "Form message placeholder", widget: "text" }
-      - { name: "form_button", label: "Form button text", widget: "string" }
-      - { name: "form_note", label: "Form note", widget: "string" }
-      - { name: "body", label: "Body", widget: "markdown", required: false }
-
   - name: "pages"
     label: "Standalone pages"
     description: "Home, webinar, and other one-off pages."
@@ -186,13 +164,6 @@ collections:
           - { name: "form_message_placeholder", label: "Form message placeholder", widget: "text" }
           - { name: "form_button", label: "Form button text", widget: "string" }
           - { name: "form_note", label: "Form note", widget: "string" }
-          - { name: "body", label: "Body", widget: "markdown", required: false }
-      - file: "content/personal-statements/_index.md"
-        label: "Personal Statements — landing"
-        name: "ps-landing"
-        fields:
-          - { name: "title", label: "Title", widget: "string" }
-          - { name: "description", label: "SEO description", widget: "text" }
           - { name: "body", label: "Body", widget: "markdown", required: false }
       - file: "content/past-papers/_index.md"
         label: "Past Papers"
