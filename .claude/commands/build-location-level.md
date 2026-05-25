@@ -875,6 +875,16 @@ The negative banned-list rules below catch surface tells. They don't fix rhythm.
 5. **GCSE-vs-A-Level scan (within this run).** Compare your two pages. If a sentence appears on both with only "GCSE"/"A-Level" swapped, rewrite one.
 6. **Burstiness check.** Read three paragraphs in your head. If they sound like a corporate brochure or any two consecutive sentences mirror each other, rewrite.
 7. **Page-level roughness check (not per-paragraph).** Confirm the page as a whole contains: at least one fragment somewhere, at least one sentence opening with And/But/So, and named local detail in at least 2 sections. Do NOT force these into every paragraph — that produces "carefully constructed AI" rhythm. Let some paragraphs be plain. Some sections rougher than others. Inconsistency is human; uniform roughness is AI.
+8. **Originality.ai AI-detection scan (required when API key is set).** Run the helper script against the just-written file:
+   ```bash
+   ./scripts/check-ai-score.sh content/locations/{slug}-tutors/{level}/_index.md
+   ```
+   - The script reads the AI-written body fields (hero_lead, first_lesson_context, tutor_strip_body, pathway bodies, FAQ answers), excludes verbatim reviews, and POSTs to `https://api.originality.ai/api/v1/scan/ai`.
+   - Exit code 0 = pass (AI score ≤ 0.30) or skipped (no `ORIGINALITY_API_KEY` env var set). Save the page.
+   - Exit code 1 = fail (AI score > 0.30). **Do not save.** Identify the longest / most polished paragraphs (usually first_lesson_context and pathway bodies) and rewrite them more aggressively against the positive-roughness mandates: shorter sentences, more fragments, less symmetry, blunter phrasing. Re-run the check.
+   - Exit code 2 = parse error. Read stderr, fix, re-run.
+   - **Iterate up to 2 rewrites.** If still failing after 2 attempts, save with a clear note to the user that the AI score was X and the page should be reviewed manually.
+   - Threshold override: `AI_THRESHOLD=0.35 ./scripts/check-ai-score.sh ...` (use only when justified).
 
 ---
 
