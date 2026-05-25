@@ -23,7 +23,7 @@
 {{ $heroLead         := .Params.hero_lead          | default (printf "Most students don't need to be taught the same content again. They need someone to find the exact point where things stopped making sense, then explain it differently until it does. That's what our %s %s tutors do." $loc $level) }}
 
 {{/* ── Section 2: Your First Lesson variables — level-aware ── */}}
-{{ $founderVideoId     := .Params.founder_video_id     | default "GG-UeN156l4" }}
+{{ $founderVideoId     := .Params.founder_video_id     | default (cond $isAlevel "0Ss6iO7rxts" "rR7_rq6L2hk") }}
 {{ $firstLessonEyebrow := .Params.first_lesson_eyebrow | default (printf "YOUR FIRST %s LESSON" ($level | upper)) }}
 {{ $firstLessonHeading := .Params.first_lesson_heading | default (printf "What Happens in Your First Lesson with a %s %s Tutor" $loc $level) }}
 {{ $firstLessonContext := .Params.first_lesson_context | default (cond $isAlevel
