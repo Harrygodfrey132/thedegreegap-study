@@ -875,6 +875,20 @@ The negative banned-list rules below catch surface tells. They don't fix rhythm.
 5. **GCSE-vs-A-Level scan (within this run).** Compare your two pages. If a sentence appears on both with only "GCSE"/"A-Level" swapped, rewrite one.
 6. **Burstiness check.** Read three paragraphs in your head. If they sound like a corporate brochure or any two consecutive sentences mirror each other, rewrite.
 7. **Page-level roughness check (not per-paragraph).** Confirm the page as a whole contains: at least one fragment somewhere, at least one sentence opening with And/But/So, and named local detail in at least 2 sections. Do NOT force these into every paragraph — that produces "carefully constructed AI" rhythm. Let some paragraphs be plain. Some sections rougher than others. Inconsistency is human; uniform roughness is AI.
+8. **Readability scan.** Run the helper script against the just-written file:
+   ```bash
+   ./scripts/check-readability.sh content/locations/{slug}-tutors/{level}/_index.md
+   ```
+   - Computes Flesch Reading Ease + Flesch-Kincaid Grade Level + SMOG Index on the LLM-written body fields (verbatim reviews excluded).
+   - Level-aware thresholds (auto-detected from `level:` frontmatter):
+     - **GCSE pages**: Flesch ≥ 50 AND Grade ≤ 11 (parent-of-Year-11 audience, Grade 9-10 sweet spot)
+     - **A-Level pages**: Flesch ≥ 45 AND Grade ≤ 12 (unavoidably higher-grade vocab like UCAS, specification, evaluation)
+   - Exit 0 = pass or skipped (textstat not installed). Save the page.
+   - Exit 1 = fail. **Do not save.** Identify the most academic paragraphs (usually first_lesson_context, pathway bodies) and simplify: cut long sentences, replace multi-syllable words with shorter ones, add contractions, cut "that". Re-run.
+   - Exit 2 = parse error.
+   - Iterate up to 2 rewrites. If still failing, save with manual-review note.
+   - Threshold override: `MAX_GRADE=13 ./scripts/check-readability.sh ...` (use only when justified, e.g. an Oxbridge-focused A-Level angle).
+   - One-time setup: `pip3 install textstat` (free).
 
 ---
 
