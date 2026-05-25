@@ -140,7 +140,8 @@
         </p>
         <div class="loc-lite-video" data-youtube-id="{{ $founderVideoId }}" data-youtube-title="Jo Godfrey, co-founder of The Degree Gap, talks about {{ $level }} tutoring">
           <a href="https://youtu.be/{{ $founderVideoId }}" target="_blank" rel="noopener" class="loc-lite-video__button" aria-label="Listen to our co-founder talk about {{ $level }}s">
-            <img src="https://i.ytimg.com/vi/{{ $founderVideoId }}/hqdefault.jpg" alt="Jo Godfrey talks about {{ $level }} tutoring" width="480" height="360" loading="lazy" decoding="async">
+            <img src="https://i.ytimg.com/vi/{{ $founderVideoId }}/maxresdefault.jpg" alt="Jo Godfrey talks about {{ $level }} tutoring" width="1280" height="720" loading="lazy" decoding="async"
+                 onerror="this.onerror=null;this.src='https://i.ytimg.com/vi/{{ $founderVideoId }}/mqdefault.jpg';">
             <span class="loc-lite-video__play" aria-hidden="true">
               <svg width="34" height="34" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
             </span>
