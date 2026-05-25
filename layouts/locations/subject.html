@@ -19,7 +19,7 @@
 
 {{/* Hero H1 + lead — per-page overrides, level-aware defaults */}}
 {{ $heroHeadingLine1 := .Params.hero_heading_line1 | default (printf "%s Tutors in %s" $level $loc) }}
-{{ $heroHeadingLine2 := .Params.hero_heading_line2 | default "Who Find the Gap" }}
+{{ $heroHeadingLine2 := .Params.hero_heading_line2 }}
 {{ $heroLead         := .Params.hero_lead          | default (printf "Most students don't need to be taught the same content again. They need someone to find the exact point where things stopped making sense, then explain it differently until it does. That's what our %s %s tutors do." $loc $level) }}
 
 {{/* ── Section 2: Your First Lesson variables — level-aware ── */}}
@@ -53,7 +53,7 @@
           <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
           WINNER — TUTORING SPECIALISTS OF THE YEAR 2025
         </a>
-        <h1>{{ $heroHeadingLine1 }}<br>{{ $heroHeadingLine2 }}</h1>
+        <h1>{{ $heroHeadingLine1 }}{{ with $heroHeadingLine2 }}<br>{{ . }}{{ end }}</h1>
         <p class="loc-hero__lead">{{ $heroLead }}</p>
         <div class="loc-hero__actions">
           <a href="#get-help" class="btn btn-primary btn-lg">Book a Free Consultation Call</a>
@@ -459,28 +459,14 @@
 }
 </script>
 
-<section class="loc-areas">
-  <div class="container">
-    <p class="loc-eyebrow loc-eyebrow--center">AREAS WE COVER</p>
-    <h2 class="loc-areas__title">{{ $level }} Tutors Across the Region</h2>
-    <p class="loc-areas__lead">Distance doesn't decide who's the right tutor. We support {{ $level }} students across {{ $loc }} and the surrounding areas with personalised one-to-one tuition tailored to their subjects, exam board, and goals.</p>
-    <div class="loc-areas__grid">
-      {{ range $areaLinks }}
-        {{ $parts := split . "|" }}
-        {{ $name  := index $parts 0 }}
-        {{ $href  := index $parts 1 }}
-        <a href="{{ $href }}" class="loc-area-card">{{ $name }}</a>
-      {{ end }}
-    </div>
-  </div>
-</section>
-
 <!-- =============================================
      SECTION 9: RELATED PAGES (sibling level + same level, other cities)
+     Note: the older "Areas We Cover" section has been removed from level pages —
+     it duplicated the same-level cross-city grid below with weaker intent.
      ============================================= -->
 {{ $allSubjectPages := where .Site.Pages "Layout" "subject" }}
 {{ $siblingLevelSameCity := where (where $allSubjectPages "Params.location" $loc) "Params.level" "!=" $level }}
-{{ $otherCitiesSameLevel := where (where $allSubjectPages "Params.level" $level) "Params.location" "!=" $loc }}
+{{ $otherCitiesSameLevel := first 12 (where (where $allSubjectPages "Params.level" $level) "Params.location" "!=" $loc) }}
 
 {{ if or $siblingLevelSameCity $otherCitiesSameLevel }}
 <section class="gs-related">

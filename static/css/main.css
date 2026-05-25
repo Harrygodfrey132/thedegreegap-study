@@ -5531,7 +5531,6 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   text-decoration: none;
   transition: transform 0.18s ease;
 }
-.gs-tutor-card:nth-child(n+9) { display: none; }
 .gs-tutor-card:hover { transform: translateY(-3px); }
 .gs-tutor-card img {
   width: 100%;
@@ -5552,7 +5551,6 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   line-height: 1.3;
   margin-top: 0.25rem;
 }
-
 /* ── Section 3d: How it works ── */
 .gs-process {
   padding: 100px 0;
@@ -5657,7 +5655,6 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   .gs-timeline__header   { margin-bottom: 2.5rem; text-align: left; justify-content: flex-start; }
   .gs-timeline__intro    { margin: 0; }
   .gs-tutor-strip__gallery { grid-template-columns: repeat(3, 1fr); }
-  .gs-tutor-card:nth-child(n+9) { display: none; }
   .gs-tutor-strip__actions { flex-direction: column; }
   .gs-tutor-strip__actions .btn { text-align: center; }
 }
@@ -5669,7 +5666,6 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   .gs-founder            { padding: 70px 0; }
   .gs-tutor-strip        { padding: 70px 0; }
   .gs-tutor-strip__gallery { grid-template-columns: repeat(2, 1fr); }
-  .gs-tutor-card:nth-child(n+7) { display: none; }
   .gs-process            { padding: 70px 0; }
   .gs-timeline           { padding: 70px 0; }
   .gs-subjects           { padding: 70px 0; }
