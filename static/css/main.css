@@ -3501,14 +3501,17 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   box-shadow: 0 8px 32px rgba(0,0,0,0.14);
 }
 .loc-why__video iframe { width: 100%; height: 100%; border: none; display: block; }
-.loc-lite-video,
-.loc-lite-video__button {
+.loc-lite-video {
   display: block;
   width: 100%;
-  height: 100%;
+  aspect-ratio: 16/9;
+  position: relative;
 }
 .loc-lite-video__button {
   position: relative;
+  display: block;
+  width: 100%;
+  height: 100%;
   color: #fff;
   background: #171717;
   border: 0;
@@ -3521,6 +3524,13 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   height: 100%;
   object-fit: cover;
   opacity: 0.86;
+  display: block;
+}
+.loc-lite-video iframe {
+  width: 100%;
+  height: 100%;
+  border: 0;
+  display: block;
 }
 .loc-lite-video__play {
   position: absolute;
@@ -5393,9 +5403,6 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   border-radius: 12px;
   overflow: hidden;
   box-shadow: 0 24px 60px rgba(35,23,17,0.13);
-}
-.gs-founder__video .loc-lite-video__button {
-  aspect-ratio: 4/3;
 }
 .gs-founder__video .loc-lite-video__button img {
   width: 100%;
