@@ -34,7 +34,7 @@ pathways:
       Rolls-Royce at Sinfin and Toyota at Burnaston run Derby's biggest Year 11 engineering apprenticeship intakes, with Alstom adding rail-engineering routes from Litchurch Lane. Most ask grade 4 to 5 in Maths and English, with GCSE Sciences tutoring often the difference for the technical route.
   - title: "Further Education"
     body: >
-      Derby College runs the city's main BTEC and T Level routes from the Roundhouse Campus in Pride Park and the Joseph Wright Centre in town. One-to-one GCSE tutoring in Year 11 lifts students past the grade 4 Level 3 threshold, especially for the competitive engineering and digital T Levels feeding the Rolls-Royce supply chain.
+      Derby College runs the city's main BTEC and T Level routes from the Roundhouse Campus in Pride Park and the Joseph Wright Centre in town. One-to-one GCSE tutoring in Year 11 lifts students past the grade 4 Level 3 threshold, especially for the engineering and digital T Levels feeding the Rolls-Royce supply chain.
 
 reviews:
   - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B."

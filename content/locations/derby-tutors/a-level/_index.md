@@ -1,6 +1,6 @@
 ---
 title: "Derby A-Level Tutors | Built Around Your Child | The Degree Gap"
-description: "Derby A-Level tutors who close the depth-gap between Year 12 mocks and the predicted grade UCAS sees. Maths, Sciences, Economics and more, matched per specification."
+description: "Derby A-Level tutors who close the depth-gap between Year 12 mocks and the predicted grade UCAS sees. Maths, Sciences, Economics, matched per exam-board specification."
 layout: "subject"
 location: "Derby"
 level: "A-Level"
