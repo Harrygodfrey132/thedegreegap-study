@@ -5395,7 +5395,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   box-shadow: 0 24px 60px rgba(35,23,17,0.13);
 }
 .gs-founder__video .loc-lite-video__button {
-  aspect-ratio: 16/9;
+  aspect-ratio: 4/3;
 }
 .gs-founder__video .loc-lite-video__button img {
   width: 100%;
