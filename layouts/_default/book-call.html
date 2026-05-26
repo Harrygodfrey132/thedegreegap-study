@@ -5,19 +5,20 @@
 
 {{ define "main" }}
 <section class="book-call">
-  <div class="container">
-    <div class="book-call__inner">
+  <div class="container book-call__container">
 
-      <div class="book-call__intro">
+    <div class="book-call__grid">
+
+      <header class="book-call__head">
         <h1>You're in. Now let's find your child's tutor.</h1>
         <p class="book-call__subhead">Most families have a tutor within 48 hours and see results in a few weeks.</p>
-      </div>
+      </header>
 
       <div class="book-call__media">
         <div class="book-call__video">
           <div class="loc-lite-video" data-youtube-id="rR7_rq6L2hk" data-youtube-title="GCSE Introduction Video - The Degree Gap">
             <a href="https://youtu.be/rR7_rq6L2hk" class="loc-lite-video__button" target="_blank" rel="noopener" aria-label="Watch our 90-second intro from the co-founder">
-              <img src="https://i.ytimg.com/vi/rR7_rq6L2hk/maxresdefault.jpg" alt="The Degree Gap co-founder explains how tutoring works" width="1280" height="720" loading="eager" fetchpriority="high"
+              <img src="https://i.ytimg.com/vi/rR7_rq6L2hk/maxresdefault.jpg" alt="The Degree Gap co-founder explains how tutoring works" loading="eager" fetchpriority="high"
                    onerror="this.onerror=null;this.src='https://i.ytimg.com/vi/rR7_rq6L2hk/hqdefault.jpg';">
               <span class="loc-lite-video__play" aria-hidden="true">
                 <svg width="34" height="34" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
@@ -25,7 +26,6 @@
             </a>
           </div>
         </div>
-
         <p class="book-call__caption">Watch the 90-second intro to hear how we match tutors and what the first session looks like.</p>
       </div>
 
@@ -36,26 +36,26 @@
           <form action="{{ .Site.Params.formspreeEndpoint }}" method="POST" novalidate class="book-call__form">
             <input type="hidden" name="_subject" value="Post-webinar tutoring enquiry">
             <input type="hidden" name="source" value="post-webinar-book-call">
-            <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off">
+            <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true">
 
             <div class="book-call__row">
               <div class="book-call__field">
-                <label for="bc-first">First name<span aria-hidden="true">*</span></label>
+                <label for="bc-first">First name</label>
                 <input id="bc-first" name="first_name" type="text" required autocomplete="given-name">
               </div>
               <div class="book-call__field">
-                <label for="bc-last">Last name<span aria-hidden="true">*</span></label>
+                <label for="bc-last">Last name</label>
                 <input id="bc-last" name="last_name" type="text" required autocomplete="family-name">
               </div>
             </div>
 
             <div class="book-call__field">
-              <label for="bc-phone">Mobile number<span aria-hidden="true">*</span></label>
-              <input id="bc-phone" name="phone" type="tel" required autocomplete="tel" placeholder="07XXX XXX XXX">
+              <label for="bc-phone">Mobile number</label>
+              <input id="bc-phone" name="phone" type="tel" required autocomplete="tel" inputmode="tel" placeholder="07XXX XXX XXX">
             </div>
 
             <div class="book-call__field">
-              <label for="bc-year">Your child's year group<span aria-hidden="true">*</span></label>
+              <label for="bc-year">Your child's year group</label>
               <select id="bc-year" name="year_group" required>
                 <option value="">Please select</option>
                 <option value="Year 7-8">Year 7-8</option>
@@ -69,7 +69,7 @@
             </div>
 
             <div class="book-call__field">
-              <label for="bc-subjects">Which subjects?<span aria-hidden="true">*</span></label>
+              <label for="bc-subjects">Which subjects?</label>
               <input id="bc-subjects" name="subjects" type="text" required placeholder="e.g. GCSE Maths, A-Level Chemistry">
             </div>
 
@@ -84,29 +84,29 @@
         </div>
       </div>
 
-      <!-- Awards: between copy and form on mobile; spans full width below on desktop -->
-      <div class="book-call__awards">
-        <p class="book-call__awards-eyebrow">VOTED TUTORING SPECIALISTS OF THE YEAR</p>
-        <div class="book-call__awards-row">
-          <div class="book-call__awards-badge">
-            <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6 2v3H2v3a4 4 0 0 0 4 4 6 6 0 0 0 5 5.91V20H7v2h10v-2h-4v-2.09A6 6 0 0 0 18 12a4 4 0 0 0 4-4V5h-4V2H6zm0 5V4h12v3a6 6 0 0 1-.09 1H6.09A6 6 0 0 1 6 7zm-2 1V7h.09A8 8 0 0 0 4 8a2 2 0 0 1-1.86-2zM20 8a2 2 0 0 1-2.14 0 8 8 0 0 0-.09-1H20z"/></svg>
-            <div>
-              <span class="book-call__awards-year">2025</span>
-              <span class="book-call__awards-label">Prestige Awards</span>
-            </div>
+    </div>
+
+    <div class="book-call__awards">
+      <p class="book-call__awards-eyebrow">VOTED TUTORING SPECIALISTS OF THE YEAR</p>
+      <div class="book-call__awards-row">
+        <div class="book-call__awards-badge">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6 2v3H2v3a4 4 0 0 0 4 4 6 6 0 0 0 5 5.91V20H7v2h10v-2h-4v-2.09A6 6 0 0 0 18 12a4 4 0 0 0 4-4V5h-4V2H6zm0 5V4h12v3a6 6 0 0 1-.09 1H6.09A6 6 0 0 1 6 7zm-2 1V7h.09A8 8 0 0 0 4 8a2 2 0 0 1-1.86-2zM20 8a2 2 0 0 1-2.14 0 8 8 0 0 0-.09-1H20z"/></svg>
+          <div>
+            <span class="book-call__awards-year">2025</span>
+            <span class="book-call__awards-label">Prestige Awards</span>
           </div>
-          <div class="book-call__awards-divider" aria-hidden="true"></div>
-          <div class="book-call__awards-badge">
-            <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6 2v3H2v3a4 4 0 0 0 4 4 6 6 0 0 0 5 5.91V20H7v2h10v-2h-4v-2.09A6 6 0 0 0 18 12a4 4 0 0 0 4-4V5h-4V2H6zm0 5V4h12v3a6 6 0 0 1-.09 1H6.09A6 6 0 0 1 6 7zm-2 1V7h.09A8 8 0 0 0 4 8a2 2 0 0 1-1.86-2zM20 8a2 2 0 0 1-2.14 0 8 8 0 0 0-.09-1H20z"/></svg>
-            <div>
-              <span class="book-call__awards-year">2026</span>
-              <span class="book-call__awards-label">Prestige Awards</span>
-            </div>
+        </div>
+        <div class="book-call__awards-divider" aria-hidden="true"></div>
+        <div class="book-call__awards-badge">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6 2v3H2v3a4 4 0 0 0 4 4 6 6 0 0 0 5 5.91V20H7v2h10v-2h-4v-2.09A6 6 0 0 0 18 12a4 4 0 0 0 4-4V5h-4V2H6zm0 5V4h12v3a6 6 0 0 1-.09 1H6.09A6 6 0 0 1 6 7zm-2 1V7h.09A8 8 0 0 0 4 8a2 2 0 0 1-1.86-2zM20 8a2 2 0 0 1-2.14 0 8 8 0 0 0-.09-1H20z"/></svg>
+          <div>
+            <span class="book-call__awards-year">2026</span>
+            <span class="book-call__awards-label">Prestige Awards</span>
           </div>
         </div>
       </div>
-
     </div>
+
   </div>
 </section>
 {{ end }}

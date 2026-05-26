@@ -6045,68 +6045,65 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 
 }
 
-/* ── Book a Call (post-webinar conversion page) ── */
+
+/* ── Book a Call (post-webinar conversion page) ─────────────────────────────
+   Mobile-first. Default = single column stacked in DOM order.
+   Desktop (≥960px) = two-column grid with form on the right.
+   Mobile DOM order (= mobile visual order):
+     1. Headline + subhead
+     2. Video + caption
+     3. Form card (with testimonial inside)
+     4. Awards strip
+*/
+
 .book-call {
-  padding: 72px 0 88px;
   background: var(--cream);
   font-family: var(--font-body);
-  overflow-x: hidden;             /* safety: never allow horizontal scroll */
+  padding: 40px 0 56px;
+  overflow-x: hidden;
 }
-.book-call * { min-width: 0; }    /* grid/flex items must be able to shrink */
-.book-call img,
-.book-call iframe { max-width: 100%; height: auto; }
-.book-call__inner {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-areas:
-    "intro  form"
-    "media  form"
-    "awards awards";
-  gap: 2.5rem 3rem;
-  align-items: start;
-  max-width: 1100px;
-  margin: 0 auto;
-}
-.book-call__intro,
-.book-call__media,
-.book-call__form-wrap,
-.book-call__awards { min-width: 0; }     /* explicit: grid items can shrink */
-.book-call__intro     { grid-area: intro; }
-.book-call__media     { grid-area: media; }
-.book-call__form-wrap { grid-area: form; }
-.book-call__awards    { grid-area: awards; }
+.book-call__container { max-width: 1100px; }
 
-.book-call__intro h1 {
+.book-call__grid {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.book-call__head h1 {
   font-family: var(--font-heading);
-  font-size: clamp(1.55rem, 3.2vw, 2.4rem);
-  line-height: 1.2;
-  margin: 0 0 0.7rem;
-  color: #1a1a1a;
+  font-size: 1.6rem;
+  line-height: 1.22;
   letter-spacing: -0.01em;
+  color: #1a1a1a;
+  margin: 0 0 0.6rem;
 }
 .book-call__subhead {
   font-family: var(--font-body);
-  font-size: 1.02rem;
+  font-size: 1rem;
   line-height: 1.5;
   color: #4a4a4a;
   margin: 0;
 }
+
+/* Video — sits high on mobile, just below the headline */
 .book-call__video {
   border-radius: 12px;
   overflow: hidden;
-  box-shadow: 0 18px 50px rgba(35, 23, 17, 0.13);
   background: #171717;
   aspect-ratio: 16/9;
-  margin-bottom: 1rem;
+  box-shadow: 0 12px 32px rgba(35,23,17,0.13);
+  margin-bottom: 0.85rem;
 }
 .book-call__video .loc-lite-video {
   width: 100%;
   height: 100%;
   aspect-ratio: 16/9;
 }
+.book-call__video img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .book-call__caption {
   font-family: var(--font-body);
-  font-size: 0.95rem;
+  font-size: 0.92rem;
   line-height: 1.5;
   color: #555;
   margin: 0;
@@ -6115,40 +6112,48 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 /* Form card */
 .book-call__form-card {
   background: #fff;
-  border-radius: 14px;
-  padding: 2rem 1.75rem;
-  box-shadow: 0 18px 50px rgba(35, 23, 17, 0.10);
-  border: 1px solid rgba(128, 0, 32, 0.08);
+  border-radius: 12px;
+  padding: 1.5rem 1.25rem;
+  box-shadow: 0 12px 32px rgba(35,23,17,0.10);
+  border: 1px solid rgba(128,0,32,0.08);
 }
 .book-call__form-card h2 {
   font-family: var(--font-heading);
-  font-size: 1.4rem;
+  font-size: 1.25rem;
   color: #1a1a1a;
-  margin: 0 0 1.25rem;
+  margin: 0 0 1rem;
   line-height: 1.25;
 }
-.book-call__form { display: flex; flex-direction: column; gap: 0.9rem; }
-.book-call__row { display: grid; grid-template-columns: 1fr 1fr; gap: 0.85rem; }
-.book-call__field { display: flex; flex-direction: column; }
+.book-call__form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.9rem;
+}
+.book-call__row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75rem;
+}
+.book-call__field { display: flex; flex-direction: column; min-width: 0; }
 .book-call__field label {
   font-family: var(--font-body);
-  font-size: 0.85rem;
+  font-size: 0.82rem;
   font-weight: 600;
   color: #2a2a2a;
-  margin-bottom: 0.35rem;
+  margin-bottom: 0.3rem;
 }
-.book-call__field label span { color: var(--burgundy); margin-left: 2px; }
 .book-call__field input,
 .book-call__field select {
   font-family: var(--font-body);
-  font-size: 16px;            /* 16px explicit prevents iOS Safari auto-zoom on focus */
+  font-size: 16px;             /* 16px prevents iOS Safari focus-zoom */
+  width: 100%;
+  min-width: 0;
+  min-height: 48px;
+  padding: 12px 14px;
   border: 1px solid #d8d2c4;
   border-radius: 8px;
-  padding: 12px 14px;
   background: #fff;
   color: #1a1a1a;
-  width: 100%;
-  min-height: 48px;           /* comfortable touch target */
   -webkit-appearance: none;
   appearance: none;
   transition: border-color 0.15s ease, box-shadow 0.15s ease;
@@ -6164,10 +6169,12 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 .book-call__field select:focus {
   outline: none;
   border-color: var(--burgundy);
-  box-shadow: 0 0 0 3px rgba(128, 0, 32, 0.10);
+  box-shadow: 0 0 0 3px rgba(128,0,32,0.10);
 }
 .book-call__submit {
   font-family: var(--font-body);
+  font-size: 1rem;
+  font-weight: 700;
   width: 100%;
   min-height: 52px;
   padding: 14px 16px;
@@ -6175,42 +6182,67 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   color: #fff;
   border: 0;
   border-radius: 10px;
-  font-size: 1.05rem;
-  font-weight: 700;
+  margin-top: 0.5rem;
   cursor: pointer;
   -webkit-appearance: none;
   appearance: none;
   transition: background 0.15s ease;
-  margin-top: 0.6rem;
 }
 .book-call__submit:hover { background: var(--burgundy-dark); }
 .book-call__submit:active { transform: translateY(1px); }
 
-/* Awards strip */
-.book-call__awards {
-  text-align: center;
-  padding-top: 2.25rem;
+/* Testimonial under submit */
+.book-call__quote {
+  margin: 1.25rem 0 0;
+  padding: 1.25rem 0 0;
   border-top: 1px solid rgba(0,0,0,0.08);
+  text-align: center;
+}
+.book-call__quote-stars {
+  color: #f4b400;
+  font-size: 0.95rem;
+  letter-spacing: 2px;
+  margin-bottom: 0.5rem;
+}
+.book-call__quote blockquote {
+  font-family: var(--font-body);
+  font-size: 0.92rem;
+  line-height: 1.55;
+  color: #2a2a2a;
+  margin: 0 0 0.4rem;
+}
+.book-call__quote figcaption {
+  font-family: var(--font-body);
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: #8a8a8a;
+}
+
+/* Awards strip — full width, sits below everything on mobile and desktop */
+.book-call__awards {
+  margin-top: 2rem;
+  padding-top: 1.75rem;
+  border-top: 1px solid rgba(0,0,0,0.08);
+  text-align: center;
 }
 .book-call__awards-eyebrow {
   font-family: var(--font-body);
-  font-size: 0.78rem;
+  font-size: 0.72rem;
   font-weight: 700;
-  letter-spacing: 0.18em;
+  letter-spacing: 0.16em;
   color: var(--burgundy);
-  margin: 0 0 1rem;
+  margin: 0 0 0.85rem;
 }
 .book-call__awards-row {
   display: flex;
+  flex-direction: column;
   align-items: center;
-  justify-content: center;
-  gap: 1.5rem;
-  flex-wrap: wrap;
+  gap: 0.85rem;
 }
 .book-call__awards-badge {
   display: flex;
   align-items: center;
-  gap: 0.65rem;
+  gap: 0.6rem;
   color: var(--burgundy);
 }
 .book-call__awards-badge > div {
@@ -6221,81 +6253,51 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 .book-call__awards-year {
   font-family: var(--font-heading);
   font-weight: 700;
-  font-size: 1.05rem;
+  font-size: 1rem;
   color: #1a1a1a;
   line-height: 1.1;
 }
 .book-call__awards-label {
   font-family: var(--font-body);
-  font-size: 0.78rem;
+  font-size: 0.76rem;
   color: #6a6a6a;
-  letter-spacing: 0.02em;
 }
-.book-call__awards-divider {
-  width: 1px;
-  height: 32px;
-  background: rgba(0,0,0,0.12);
-}
+.book-call__awards-divider { display: none; }
 
-/* Testimonial under submit */
-.book-call__quote {
-  margin: 1.5rem 0 0;
-  padding: 1.25rem 0 0;
-  border-top: 1px solid rgba(0,0,0,0.08);
-  text-align: center;
-}
-.book-call__quote-stars {
-  color: #f4b400;
-  font-size: 0.95rem;
-  letter-spacing: 2px;
-  margin-bottom: 0.55rem;
-}
-.book-call__quote blockquote {
-  font-family: var(--font-body);
-  font-size: 0.95rem;
-  line-height: 1.55;
-  color: #2a2a2a;
-  margin: 0 0 0.5rem;
-  padding: 0;
-}
-.book-call__quote figcaption {
-  font-family: var(--font-body);
-  font-size: 0.8rem;
-  font-weight: 600;
-  color: #8a8a8a;
-}
-
-/* ── Mobile: form first, then awards, then video ── */
-@media (max-width: 960px) {
-  .book-call { padding: 48px 0 64px; }
-  .book-call__inner {
-    grid-template-columns: 1fr;
-    grid-template-areas:
-      "intro"
-      "form"
-      "awards"
-      "media";
-    gap: 1.75rem;
-    padding: 0 4px;
-  }
-  .book-call__intro h1 { font-size: clamp(1.5rem, 6vw, 1.95rem); }
-  .book-call__subhead { font-size: 0.98rem; }
-  .book-call__awards { padding-top: 1.5rem; }
-}
-@media (max-width: 560px) {
-  .book-call { padding: 36px 0 56px; }
-  .book-call__inner { gap: 1.5rem; }
-  .book-call__intro h1 { font-size: 1.55rem; line-height: 1.22; }
-  .book-call__subhead { font-size: 0.95rem; }
-  .book-call__form-card { padding: 1.5rem 1.15rem; border-radius: 12px; }
-  .book-call__form-card h2 { font-size: 1.25rem; margin-bottom: 1rem; }
-  .book-call__row { grid-template-columns: 1fr; gap: 0.9rem; }
-  .book-call__field label { font-size: 0.82rem; }
-  .book-call__submit { font-size: 1rem; min-height: 50px; }
+/* ── Tablet / desktop ── */
+@media (min-width: 720px) {
+  .book-call { padding: 64px 0 80px; }
+  .book-call__head h1 { font-size: clamp(1.8rem, 3vw, 2.3rem); }
+  .book-call__subhead { font-size: 1.05rem; }
+  .book-call__form-card { padding: 2rem 1.75rem; }
+  .book-call__form-card h2 { font-size: 1.4rem; }
   .book-call__awards-row {
-    flex-direction: column;
-    gap: 0.85rem;
+    flex-direction: row;
+    justify-content: center;
+    gap: 1.5rem;
   }
-  .book-call__awards-divider { display: none; }
-  .book-call__quote blockquote { font-size: 0.92rem; }
+  .book-call__awards-divider {
+    display: block;
+    width: 1px;
+    height: 32px;
+    background: rgba(0,0,0,0.12);
+  }
+  .book-call__awards-eyebrow { font-size: 0.78rem; }
+}
+
+@media (min-width: 960px) {
+  .book-call { padding: 80px 0 96px; }
+  .book-call__grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas:
+      "head form"
+      "media form";
+    gap: 2rem 3rem;
+    align-items: start;
+  }
+  .book-call__head { grid-area: head; min-width: 0; }
+  .book-call__media { grid-area: media; min-width: 0; }
+  .book-call__form-wrap { grid-area: form; min-width: 0; }
+  .book-call__awards { margin-top: 2.5rem; padding-top: 2.25rem; }
 }
