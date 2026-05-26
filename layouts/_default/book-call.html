@@ -1,0 +1,135 @@
+{{ define "seo" }}
+{{ partial "seo.html" . }}
+<meta name="robots" content="noindex, follow">
+{{ end }}
+
+{{ define "main" }}
+<section class="book-call">
+  <div class="container">
+    <p class="book-call__eyebrow">NEXT STEP — FREE CONSULTATION</p>
+    <div class="book-call__inner">
+
+      <!-- LEFT: headline, video, what-happens-next, trust -->
+      <div class="book-call__copy">
+        <h1>You're in. Now let's find your child's tutor.</h1>
+        <p class="book-call__subhead">Fill in 60 seconds of details. We'll call within 24 hours and match you with up to three vetted tutors for your child's subject and exam board. Most families have a tutor confirmed within 48 hours of that call.</p>
+
+        <div class="book-call__video">
+          <div class="loc-lite-video" data-youtube-id="rR7_rq6L2hk" data-youtube-title="GCSE Introduction Video - The Degree Gap">
+            <a href="https://youtu.be/rR7_rq6L2hk" class="loc-lite-video__button" target="_blank" rel="noopener" aria-label="Watch our 90-second intro from the co-founder">
+              <img src="https://i.ytimg.com/vi/rR7_rq6L2hk/maxresdefault.jpg" alt="The Degree Gap co-founder explains how tutoring works" width="1280" height="720" loading="eager" fetchpriority="high"
+                   onerror="this.onerror=null;this.src='https://i.ytimg.com/vi/rR7_rq6L2hk/hqdefault.jpg';">
+              <span class="loc-lite-video__play" aria-hidden="true">
+                <svg width="34" height="34" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+              </span>
+            </a>
+          </div>
+        </div>
+
+        <p class="book-call__caption">Hear directly from our co-founder before the call. The 90-second video shows how we match tutors, what the first session looks like, and what makes us different from agencies that just send you a CV.</p>
+
+        <ol class="book-call__steps">
+          <li>
+            <span class="book-call__step-num">1</span>
+            <div>
+              <strong>Fill in this form</strong>
+              <span>60 seconds. No commitment.</span>
+            </div>
+          </li>
+          <li>
+            <span class="book-call__step-num">2</span>
+            <div>
+              <strong>We call within 24 hours</strong>
+              <span>One short conversation to understand what your child needs.</span>
+            </div>
+          </li>
+          <li>
+            <span class="book-call__step-num">3</span>
+            <div>
+              <strong>Tutor matched within 48 hours</strong>
+              <span>Up to three vetted profiles, all matched to subject and exam board.</span>
+            </div>
+          </li>
+        </ol>
+
+        <div class="book-call__trust">
+          <a href="https://share.google/1yemVhJDnSjd6qg4n" target="_blank" rel="noopener" class="book-call__trust-stars">
+            <span class="book-call__trust-score">5.0</span>
+            <span class="book-call__trust-bar">★★★★★</span>
+            <span class="book-call__trust-count">100+ Google reviews</span>
+          </a>
+          <span class="book-call__trust-badge">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+            WINNER — Tutoring Specialists of the Year 2025
+          </span>
+        </div>
+      </div>
+
+      <!-- RIGHT: form -->
+      <div class="book-call__form-wrap">
+        <div class="book-call__form-card">
+          <h2>Book Your Free Consultation</h2>
+          <p class="book-call__form-sub">It takes 60 seconds. Free re-matching if the tutor isn't the right fit. Free consultation, no obligation to book.</p>
+
+          <form action="{{ .Site.Params.formspreeEndpoint }}" method="POST" novalidate class="book-call__form">
+            <input type="hidden" name="_subject" value="Post-webinar tutoring enquiry">
+            <input type="hidden" name="source" value="post-webinar-book-call">
+            <input type="hidden" name="_gotcha" style="display:none">
+
+            <div class="book-call__field">
+              <label for="bc-name">Full name<span aria-hidden="true">*</span></label>
+              <input id="bc-name" name="name" type="text" required autocomplete="name" placeholder="Your name">
+            </div>
+
+            <div class="book-call__field">
+              <label for="bc-email">Email<span aria-hidden="true">*</span></label>
+              <input id="bc-email" name="email" type="email" required autocomplete="email" placeholder="you@example.com">
+            </div>
+
+            <div class="book-call__field">
+              <label for="bc-phone">Mobile number<span aria-hidden="true">*</span></label>
+              <input id="bc-phone" name="phone" type="tel" required autocomplete="tel" placeholder="07XXX XXX XXX">
+            </div>
+
+            <div class="book-call__row">
+              <div class="book-call__field">
+                <label for="bc-year">Your child's year group<span aria-hidden="true">*</span></label>
+                <select id="bc-year" name="year_group" required>
+                  <option value="">Select year</option>
+                  <option value="Year 7-8">Year 7-8</option>
+                  <option value="Year 9">Year 9</option>
+                  <option value="Year 10">Year 10</option>
+                  <option value="Year 11 (GCSE)">Year 11 (GCSE)</option>
+                  <option value="Year 12 (A-Level)">Year 12 (A-Level)</option>
+                  <option value="Year 13 (A-Level)">Year 13 (A-Level)</option>
+                  <option value="University">University</option>
+                </select>
+              </div>
+
+              <div class="book-call__field">
+                <label for="bc-when">When to start</label>
+                <select id="bc-when" name="start_timing">
+                  <option value="">No preference</option>
+                  <option value="This week (urgent)">This week — urgent</option>
+                  <option value="Next week">Next week</option>
+                  <option value="Within a month">Within a month</option>
+                  <option value="Just exploring">Just exploring</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="book-call__field">
+              <label for="bc-subjects">Which subjects?<span aria-hidden="true">*</span></label>
+              <input id="bc-subjects" name="subjects" type="text" required placeholder="e.g. GCSE Maths, A-Level Chemistry">
+            </div>
+
+            <button type="submit" class="book-call__submit">Find my child's tutor →</button>
+            <p class="book-call__privacy">We'll only call once. We'll never share your details.</p>
+          </form>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+{{ end }}
