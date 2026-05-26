@@ -6229,47 +6229,6 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   color: #8a8a8a;
 }
 
-/* Awards strip — always below, full width */
-.book-call__awards {
-  margin-top: 2rem;
-  padding-top: 1.75rem;
-  border-top: 1px solid rgba(0,0,0,0.08);
-  text-align: center;
-}
-.book-call__awards-eyebrow {
-  font-family: var(--font-body);
-  font-size: 0.72rem;
-  font-weight: 700;
-  letter-spacing: 0.16em;
-  color: var(--burgundy);
-  margin: 0 0 0.85rem;
-}
-.book-call__awards-row {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 0.85rem;
-}
-.book-call__awards-badge {
-  display: flex;
-  align-items: center;
-  gap: 0.6rem;
-  color: var(--burgundy);
-}
-.book-call__awards-badge > div { display: flex; flex-direction: column; text-align: left; }
-.book-call__awards-year {
-  font-family: var(--font-heading);
-  font-weight: 700;
-  font-size: 1rem;
-  color: #1a1a1a;
-  line-height: 1.1;
-}
-.book-call__awards-label {
-  font-family: var(--font-body);
-  font-size: 0.76rem;
-  color: #6a6a6a;
-}
-.book-call__awards-divider { display: none; }
 
 /* ── Tablet (≥720px) ── */
 @media (min-width: 720px) {
@@ -6278,9 +6237,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   .book-call__subhead { font-size: 1.05rem; }
   .book-call__form-card { padding: 2rem 1.75rem; }
   .book-call__form-card h2 { font-size: 1.4rem; }
-  .book-call__awards-row { flex-direction: row; justify-content: center; gap: 1.5rem; }
-  .book-call__awards-divider { display: block; width: 1px; height: 32px; background: rgba(0,0,0,0.12); }
-  .book-call__awards-eyebrow { font-size: 0.78rem; }
+  .book-call__reviews-count { width: auto; }
 }
 
 /* ── Desktop (≥960px): two simple columns ── */
@@ -6294,5 +6251,39 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   }
   .book-call__main { min-width: 0; gap: 1.5rem; }
   .book-call__form-wrap { min-width: 0; }
-  .book-call__awards { margin-top: 2.5rem; padding-top: 2.25rem; }
+  .book-call__reviews { margin-top: 2.5rem; padding-top: 2.25rem; }
+}
+
+/* Google Reviews strip — sits below the grid, full width */
+.book-call__reviews {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem 0.85rem;
+  margin-top: 2rem;
+  padding-top: 1.75rem;
+  border-top: 1px solid rgba(0,0,0,0.08);
+  text-decoration: none;
+  color: inherit;
+}
+.book-call__reviews:hover { text-decoration: none; }
+.book-call__reviews-logo { flex-shrink: 0; }
+.book-call__reviews-score {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: var(--burgundy);
+}
+.book-call__reviews-stars {
+  color: #f4b400;
+  letter-spacing: 1.5px;
+  font-size: 0.95rem;
+}
+.book-call__reviews-count {
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  color: #555;
+  width: 100%;
+  text-align: center;
 }
