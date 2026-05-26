@@ -295,6 +295,19 @@ Good examples (for inspiration, do not copy):
 - "Struggling to find the right tutor in Epsom?" / "We connect families with vetted, experienced tutors who prepare students with clarity and confidence."
 - "Want a tutor in Sheffield who gets results, not just covers content?" / "The Degree Gap introduces students to tutors who identify gaps fast and build a plan around them."
 
+### Banner Heading Structures (rotate, do not reuse the same shape across pages)
+
+Pick one of these structural shapes for `banner_heading`. Rewrite entirely, do not copy. Every shape must still contain the location name AND "tutor"/"tutors"/"tutoring".
+
+1. **"Looking for..." question**, "Looking for a tutor in {loc} who can actually build confidence?"
+2. **"Need a..." question**, "Need a GCSE or A-Level tutor in {loc}?"
+3. **Bold statement**, A direct, opinionated claim. "{Loc} tutors who treat ambition as the starting point, not the ceiling."
+4. **Declarative claim**, A factual-sounding headline. "{Loc} tutors for the GCSE and A-Level grades that don't happen by accident."
+5. **Contrast**, "Most tutoring sounds the same. {Loc} tutors at The Degree Gap don't."
+6. **Specific-pain question**, "Want a {loc} tutor who'll actually move the grade, not just cover content?"
+
+Across a batch of pages, never produce two headings that share both the same opener ("Looking for...", "Need a...", "Want a...") and the same sentence shape. If two pages would land in the same shape, pick a different one for one of them.
+
 ### Banner Description Structures (rotate, never always use the solution sentence)
 
 Pick one of these four structural shapes for `banner_description`. Rewrite it entirely, do not copy:
@@ -342,6 +355,17 @@ You don't have to answer all of these. Pick the one or two that feel most true f
 - Exam pressure: "Proven exam preparation for {Location} students"
 
 **why_para_1:** Do NOT restate the local school landscape or sixth form requirements, the intro already did that. Instead, describe the specific pattern tutors see when students from this area start sessions. What does a typical first session reveal? What have students been missing? What does "keeping up in class but struggling in exams" actually look like here, concretely? One short paragraph, 3 to 4 sentences.
+
+**Opening structures for why_para_1 (rotate, do not reuse the same shape across a batch):**
+
+1. **Local-school hook**, Open by naming a specific school or sixth form and what students from there typically present with. "At Exeter College, where most of the city's Year 11s land..."
+2. **Parent perspective**, Open from what parents describe in a first conversation. "Most {loc} parents describe the same situation in a first conversation..."
+3. **Number-led**, Open with a concrete number that frames the pressure. "{Loc}'s two grammar schools each take around 175 Year 7s a year..."
+4. **Curriculum-pace observation**, Open with what the local curriculum pace assumes about students. "The GCSE curriculum at {school} runs at a pace that assumes students can already..."
+5. **"What the first session reveals"**, Open on the diagnostic pattern. "In a first session with a {loc} student, what tutors find most often isn't..."
+6. **Two-student contrast**, Open by contrasting two student types from the area. "Two kinds of {loc} student arrive at their first session..."
+
+Across a batch of pages, never produce two why_para_1 openings that share the same shape. If multiple pages share a content angle (e.g. "ambition"), they must still use different shapes from this list.
 
 **why_para_2:** Describe how The Degree Gap addresses that specific pattern. Not generically ("we match students with the right tutor") but concretely, what changes, how quickly, what parents tend to notice first. If students in this area typically lack exam technique rather than content knowledge, say that. If they know the material but freeze under timed conditions, say that. One short paragraph, 3 to 4 sentences.
 
@@ -595,6 +619,8 @@ The first 3 will be visible immediately. The last 3 appear under "Show more revi
 
    **Banned words, do not use any of these:**
    landscape, foster, navigate, delve, crucial, realm, testament, pivotal, seamless, robust, comprehensive (as an adjective), vibrant, tapestry, unlock, embark, journey (metaphorical), leverage, stakeholders, furthermore, moreover, in conclusion, it is worth noting, it is important to note, a range of, a variety of, particularly, specifically, effectively, consistently, additionally, successfully.
+
+   **Banned words apply to original copy only, not to verbatim review quotes.** Reviews in the `reviews` array are real customer testimonials and must be used as written in the bank, even if they contain a banned word. Do not edit or paraphrase them to avoid banned words.
 
    **Use contractions naturally.** Write it's, don't, can't, we'd, they're, that's the way a person would say it out loud. AI avoids contractions or uses them awkwardly. Humans don't think about it. Neither should you.
 
