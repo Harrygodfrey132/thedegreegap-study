@@ -6050,7 +6050,11 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   padding: 72px 0 88px;
   background: var(--cream);
   font-family: var(--font-body);
+  overflow-x: hidden;             /* safety: never allow horizontal scroll */
 }
+.book-call * { min-width: 0; }    /* grid/flex items must be able to shrink */
+.book-call img,
+.book-call iframe { max-width: 100%; height: auto; }
 .book-call__inner {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -6063,6 +6067,10 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   max-width: 1100px;
   margin: 0 auto;
 }
+.book-call__intro,
+.book-call__media,
+.book-call__form-wrap,
+.book-call__awards { min-width: 0; }     /* explicit: grid items can shrink */
 .book-call__intro     { grid-area: intro; }
 .book-call__media     { grid-area: media; }
 .book-call__form-wrap { grid-area: form; }
