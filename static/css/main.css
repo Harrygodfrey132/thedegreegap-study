@@ -6212,38 +6212,32 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   background: rgba(0,0,0,0.12);
 }
 
-/* Testimonial below submit — outcome-specific social proof at the decision moment */
+/* Testimonial below submit — clean, no card, just a star bar + quote + name */
 .book-call__quote {
   margin: 1.5rem 0 0;
-  padding: 1.25rem 1.25rem 1rem;
-  background: var(--cream);
-  border-radius: 10px;
-  border-left: 3px solid var(--burgundy);
-  position: relative;
+  padding: 1.25rem 0 0;
+  border-top: 1px solid rgba(0,0,0,0.08);
+  text-align: center;
 }
-.book-call__quote-mark {
-  color: var(--burgundy);
-  opacity: 0.35;
-  margin-bottom: 0.25rem;
+.book-call__quote-stars {
+  color: #f4b400;
+  font-size: 0.95rem;
+  letter-spacing: 2px;
+  margin-bottom: 0.55rem;
 }
 .book-call__quote blockquote {
-  margin: 0 0 0.55rem;
-  padding: 0;
-}
-.book-call__quote blockquote p {
   font-family: var(--font-body);
   font-size: 0.95rem;
-  line-height: 1.5;
+  line-height: 1.55;
   color: #2a2a2a;
-  margin: 0;
-  font-style: italic;
+  margin: 0 0 0.5rem;
+  padding: 0;
 }
 .book-call__quote figcaption {
   font-family: var(--font-body);
-  font-size: 0.82rem;
+  font-size: 0.8rem;
   font-weight: 600;
-  color: #6a6a6a;
-  letter-spacing: 0.01em;
+  color: #8a8a8a;
 }
 
 @media (max-width: 960px) {
