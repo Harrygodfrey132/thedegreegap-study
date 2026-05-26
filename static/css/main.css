@@ -6068,9 +6068,16 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   font-family: var(--font-heading);
   font-size: clamp(1.8rem, 3.2vw, 2.4rem);
   line-height: 1.2;
-  margin: 0 0 1.5rem;
+  margin: 0 0 0.85rem;
   color: #1a1a1a;
   letter-spacing: -0.01em;
+}
+.book-call__subhead {
+  font-family: var(--font-body);
+  font-size: 1.02rem;
+  line-height: 1.5;
+  color: #4a4a4a;
+  margin: 0 0 1.5rem;
 }
 .book-call__video {
   border-radius: 12px;
@@ -6203,6 +6210,40 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   width: 1px;
   height: 32px;
   background: rgba(0,0,0,0.12);
+}
+
+/* Testimonial below submit — outcome-specific social proof at the decision moment */
+.book-call__quote {
+  margin: 1.5rem 0 0;
+  padding: 1.25rem 1.25rem 1rem;
+  background: var(--cream);
+  border-radius: 10px;
+  border-left: 3px solid var(--burgundy);
+  position: relative;
+}
+.book-call__quote-mark {
+  color: var(--burgundy);
+  opacity: 0.35;
+  margin-bottom: 0.25rem;
+}
+.book-call__quote blockquote {
+  margin: 0 0 0.55rem;
+  padding: 0;
+}
+.book-call__quote blockquote p {
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: #2a2a2a;
+  margin: 0;
+  font-style: italic;
+}
+.book-call__quote figcaption {
+  font-family: var(--font-body);
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: #6a6a6a;
+  letter-spacing: 0.01em;
 }
 
 @media (max-width: 960px) {
