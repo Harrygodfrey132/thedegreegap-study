@@ -144,4 +144,35 @@
 </div>
 
 {{ partial "formspree.html" . }}
+
+<!-- Sitewide Organization schema (homepage only) — consolidates the
+     business identity + canonical aggregateRating at the site root. -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "EducationalOrganization",
+  "@id": "https://study.thedegreegap.com/#organization",
+  "name": "The Degree Gap",
+  "alternateName": "Degree Gap",
+  "url": "https://thedegreegap.com",
+  "logo": "https://study.thedegreegap.com/images/final-logo.svg",
+  "description": "The Degree Gap matches GCSE, A-Level and university students with vetted one-to-one tutors across the UK. Online lessons from £37 per hour.",
+  "areaServed": {
+    "@type": "Country",
+    "name": "United Kingdom"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressRegion": "Hertfordshire",
+    "addressCountry": "GB"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "106",
+    "bestRating": "5",
+    "worstRating": "1"
+  }
+}
+</script>
 {{ end }}
