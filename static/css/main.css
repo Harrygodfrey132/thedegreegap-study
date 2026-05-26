@@ -6046,14 +6046,11 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 }
 
 
+
 /* ── Book a Call (post-webinar conversion page) ─────────────────────────────
-   Mobile-first. Default = single column stacked in DOM order.
-   Desktop (≥960px) = two-column grid with form on the right.
-   Mobile DOM order (= mobile visual order):
-     1. Headline + subhead
-     2. Video + caption
-     3. Form card (with testimonial inside)
-     4. Awards strip
+   Mobile-first. Single column stack by default (head, video, form, awards).
+   Desktop ≥960px: two simple columns. Left = head+video stacked tight.
+   Right = form. Awards always sits below as a full-width strip.
 */
 
 .book-call {
@@ -6069,13 +6066,17 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   flex-direction: column;
   gap: 1.5rem;
 }
-
+.book-call__main {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
 .book-call__head h1 {
   font-family: var(--font-heading);
   font-size: 1.6rem;
   line-height: 1.22;
-  letter-spacing: -0.01em;
   color: #1a1a1a;
+  letter-spacing: -0.01em;
   margin: 0 0 0.6rem;
 }
 .book-call__subhead {
@@ -6085,21 +6086,19 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   color: #4a4a4a;
   margin: 0;
 }
-
-/* Video — sits high on mobile, just below the headline */
+.book-call__media {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+}
 .book-call__video {
   border-radius: 12px;
   overflow: hidden;
   background: #171717;
   aspect-ratio: 16/9;
   box-shadow: 0 12px 32px rgba(35,23,17,0.13);
-  margin-bottom: 0.85rem;
 }
-.book-call__video .loc-lite-video {
-  width: 100%;
-  height: 100%;
-  aspect-ratio: 16/9;
-}
+.book-call__video .loc-lite-video { width: 100%; height: 100%; aspect-ratio: 16/9; }
 .book-call__video img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .book-call__caption {
   font-family: var(--font-body);
@@ -6109,7 +6108,6 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   margin: 0;
 }
 
-/* Form card */
 .book-call__form-card {
   background: #fff;
   border-radius: 12px;
@@ -6139,23 +6137,8 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   opacity: 0 !important;
   pointer-events: none !important;
 }
-.book-call__assurance {
-  font-family: var(--font-body);
-  font-size: 0.78rem;
-  text-align: center;
-  color: #8a8a8a;
-  margin: 0.7rem 0 0;
-}
-.book-call__form {
-  display: flex;
-  flex-direction: column;
-  gap: 0.9rem;
-}
-.book-call__row {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 0.75rem;
-}
+.book-call__form { display: flex; flex-direction: column; gap: 0.9rem; }
+.book-call__row { display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; }
 .book-call__field { display: flex; flex-direction: column; min-width: 0; }
 .book-call__field label {
   font-family: var(--font-body);
@@ -6167,7 +6150,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 .book-call__field input,
 .book-call__field select {
   font-family: var(--font-body);
-  font-size: 16px;             /* 16px prevents iOS Safari focus-zoom */
+  font-size: 16px;
   width: 100%;
   min-width: 0;
   min-height: 48px;
@@ -6211,9 +6194,15 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   transition: background 0.15s ease;
 }
 .book-call__submit:hover { background: var(--burgundy-dark); }
-.book-call__submit:active { transform: translateY(1px); }
+.book-call__assurance {
+  font-family: var(--font-body);
+  font-size: 0.78rem;
+  text-align: center;
+  color: #8a8a8a;
+  margin: 0.7rem 0 0;
+}
 
-/* Testimonial under submit */
+/* Testimonial */
 .book-call__quote {
   margin: 1.25rem 0 0;
   padding: 1.25rem 0 0;
@@ -6240,7 +6229,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   color: #8a8a8a;
 }
 
-/* Awards strip — full width, sits below everything on mobile and desktop */
+/* Awards strip — always below, full width */
 .book-call__awards {
   margin-top: 2rem;
   padding-top: 1.75rem;
@@ -6267,11 +6256,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   gap: 0.6rem;
   color: var(--burgundy);
 }
-.book-call__awards-badge > div {
-  display: flex;
-  flex-direction: column;
-  text-align: left;
-}
+.book-call__awards-badge > div { display: flex; flex-direction: column; text-align: left; }
 .book-call__awards-year {
   font-family: var(--font-heading);
   font-weight: 700;
@@ -6286,40 +6271,28 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 }
 .book-call__awards-divider { display: none; }
 
-/* ── Tablet / desktop ── */
+/* ── Tablet (≥720px) ── */
 @media (min-width: 720px) {
   .book-call { padding: 64px 0 80px; }
-  .book-call__head h1 { font-size: clamp(1.8rem, 3vw, 2.3rem); }
+  .book-call__head h1 { font-size: clamp(1.85rem, 3vw, 2.3rem); }
   .book-call__subhead { font-size: 1.05rem; }
   .book-call__form-card { padding: 2rem 1.75rem; }
   .book-call__form-card h2 { font-size: 1.4rem; }
-  .book-call__awards-row {
-    flex-direction: row;
-    justify-content: center;
-    gap: 1.5rem;
-  }
-  .book-call__awards-divider {
-    display: block;
-    width: 1px;
-    height: 32px;
-    background: rgba(0,0,0,0.12);
-  }
+  .book-call__awards-row { flex-direction: row; justify-content: center; gap: 1.5rem; }
+  .book-call__awards-divider { display: block; width: 1px; height: 32px; background: rgba(0,0,0,0.12); }
   .book-call__awards-eyebrow { font-size: 0.78rem; }
 }
 
+/* ── Desktop (≥960px): two simple columns ── */
 @media (min-width: 960px) {
   .book-call { padding: 80px 0 96px; }
   .book-call__grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-areas:
-      "head form"
-      "media form";
-    gap: 2rem 3rem;
+    gap: 3rem;
     align-items: start;
   }
-  .book-call__head { grid-area: head; min-width: 0; }
-  .book-call__media { grid-area: media; min-width: 0; }
-  .book-call__form-wrap { grid-area: form; min-width: 0; }
+  .book-call__main { min-width: 0; gap: 1.5rem; }
+  .book-call__form-wrap { min-width: 0; }
   .book-call__awards { margin-top: 2.5rem; padding-top: 2.25rem; }
 }
