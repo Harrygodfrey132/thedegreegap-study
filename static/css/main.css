@@ -6077,7 +6077,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   line-height: 1.22;
   color: #1a1a1a;
   letter-spacing: -0.01em;
-  margin: 5rem 0 0.6rem;   /* mobile: hard 80px top margin pushes H1 down regardless of section padding */
+  margin: 2.5rem 0 0.6rem;   /* mobile: ~40px top margin so H1 clears the sticky header */
 }
 @media (min-width: 720px) {
   .book-call__head h1 { margin-top: 0; }
