@@ -6,13 +6,10 @@
 {{ define "main" }}
 <section class="book-call">
   <div class="container">
-    <p class="book-call__eyebrow">NEXT STEP — FREE CONSULTATION</p>
     <div class="book-call__inner">
 
-      <!-- LEFT: headline, video, what-happens-next, trust -->
       <div class="book-call__copy">
         <h1>You're in. Now let's find your child's tutor.</h1>
-        <p class="book-call__subhead">Fill in 60 seconds of details. We'll call within 24 hours and match you with up to three vetted tutors for your child's subject and exam board. Most families have a tutor confirmed within 48 hours of that call.</p>
 
         <div class="book-call__video">
           <div class="loc-lite-video" data-youtube-id="rR7_rq6L2hk" data-youtube-title="GCSE Introduction Video - The Degree Gap">
@@ -26,96 +23,51 @@
           </div>
         </div>
 
-        <p class="book-call__caption">Hear directly from our co-founder before the call. The 90-second video shows how we match tutors, what the first session looks like, and what makes us different from agencies that just send you a CV.</p>
-
-        <ol class="book-call__steps">
-          <li>
-            <span class="book-call__step-num">1</span>
-            <div>
-              <strong>Fill in this form</strong>
-              <span>60 seconds. No commitment.</span>
-            </div>
-          </li>
-          <li>
-            <span class="book-call__step-num">2</span>
-            <div>
-              <strong>We call within 24 hours</strong>
-              <span>One short conversation to understand what your child needs.</span>
-            </div>
-          </li>
-          <li>
-            <span class="book-call__step-num">3</span>
-            <div>
-              <strong>Tutor matched within 48 hours</strong>
-              <span>Up to three vetted profiles, all matched to subject and exam board.</span>
-            </div>
-          </li>
-        </ol>
-
-        <div class="book-call__trust">
-          <a href="https://share.google/1yemVhJDnSjd6qg4n" target="_blank" rel="noopener" class="book-call__trust-stars">
-            <span class="book-call__trust-score">5.0</span>
-            <span class="book-call__trust-bar">★★★★★</span>
-            <span class="book-call__trust-count">100+ Google reviews</span>
-          </a>
-          <span class="book-call__trust-badge">
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
-            WINNER — Tutoring Specialists of the Year 2025
-          </span>
-        </div>
+        <p class="book-call__caption">Fill in the form to book a free consultation. Watch the 90-second intro above first so you know how we match tutors and what the first session looks like.</p>
       </div>
 
-      <!-- RIGHT: form -->
       <div class="book-call__form-wrap">
         <div class="book-call__form-card">
-          <h2>Book Your Free Consultation</h2>
-          <p class="book-call__form-sub">It takes 60 seconds. Free re-matching if the tutor isn't the right fit. Free consultation, no obligation to book.</p>
+          <h2>Book a Call with The Degree Gap</h2>
 
           <form action="{{ .Site.Params.formspreeEndpoint }}" method="POST" novalidate class="book-call__form">
             <input type="hidden" name="_subject" value="Post-webinar tutoring enquiry">
             <input type="hidden" name="source" value="post-webinar-book-call">
-            <input type="hidden" name="_gotcha" style="display:none">
+            <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off">
 
-            <div class="book-call__field">
-              <label for="bc-name">Full name<span aria-hidden="true">*</span></label>
-              <input id="bc-name" name="name" type="text" required autocomplete="name" placeholder="Your name">
+            <div class="book-call__row">
+              <div class="book-call__field">
+                <label for="bc-first">First name<span aria-hidden="true">*</span></label>
+                <input id="bc-first" name="first_name" type="text" required autocomplete="given-name">
+              </div>
+              <div class="book-call__field">
+                <label for="bc-last">Last name<span aria-hidden="true">*</span></label>
+                <input id="bc-last" name="last_name" type="text" required autocomplete="family-name">
+              </div>
             </div>
 
             <div class="book-call__field">
               <label for="bc-email">Email<span aria-hidden="true">*</span></label>
-              <input id="bc-email" name="email" type="email" required autocomplete="email" placeholder="you@example.com">
+              <input id="bc-email" name="email" type="email" required autocomplete="email">
             </div>
 
             <div class="book-call__field">
               <label for="bc-phone">Mobile number<span aria-hidden="true">*</span></label>
-              <input id="bc-phone" name="phone" type="tel" required autocomplete="tel" placeholder="07XXX XXX XXX">
+              <input id="bc-phone" name="phone" type="tel" required autocomplete="tel">
             </div>
 
-            <div class="book-call__row">
-              <div class="book-call__field">
-                <label for="bc-year">Your child's year group<span aria-hidden="true">*</span></label>
-                <select id="bc-year" name="year_group" required>
-                  <option value="">Select year</option>
-                  <option value="Year 7-8">Year 7-8</option>
-                  <option value="Year 9">Year 9</option>
-                  <option value="Year 10">Year 10</option>
-                  <option value="Year 11 (GCSE)">Year 11 (GCSE)</option>
-                  <option value="Year 12 (A-Level)">Year 12 (A-Level)</option>
-                  <option value="Year 13 (A-Level)">Year 13 (A-Level)</option>
-                  <option value="University">University</option>
-                </select>
-              </div>
-
-              <div class="book-call__field">
-                <label for="bc-when">When to start</label>
-                <select id="bc-when" name="start_timing">
-                  <option value="">No preference</option>
-                  <option value="This week (urgent)">This week — urgent</option>
-                  <option value="Next week">Next week</option>
-                  <option value="Within a month">Within a month</option>
-                  <option value="Just exploring">Just exploring</option>
-                </select>
-              </div>
+            <div class="book-call__field">
+              <label for="bc-year">Your child's year group<span aria-hidden="true">*</span></label>
+              <select id="bc-year" name="year_group" required>
+                <option value="">Please select</option>
+                <option value="Year 7-8">Year 7-8</option>
+                <option value="Year 9">Year 9</option>
+                <option value="Year 10">Year 10</option>
+                <option value="Year 11 (GCSE)">Year 11 (GCSE)</option>
+                <option value="Year 12 (A-Level)">Year 12 (A-Level)</option>
+                <option value="Year 13 (A-Level)">Year 13 (A-Level)</option>
+                <option value="University">University</option>
+              </select>
             </div>
 
             <div class="book-call__field">
@@ -123,9 +75,30 @@
               <input id="bc-subjects" name="subjects" type="text" required placeholder="e.g. GCSE Maths, A-Level Chemistry">
             </div>
 
-            <button type="submit" class="book-call__submit">Find my child's tutor →</button>
-            <p class="book-call__privacy">We'll only call once. We'll never share your details.</p>
+            <button type="submit" class="book-call__submit">Book my call</button>
           </form>
+        </div>
+      </div>
+
+      <!-- Awards: between copy and form on mobile; spans full width below on desktop -->
+      <div class="book-call__awards">
+        <p class="book-call__awards-eyebrow">VOTED TUTORING SPECIALISTS OF THE YEAR</p>
+        <div class="book-call__awards-row">
+          <div class="book-call__awards-badge">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6 2v3H2v3a4 4 0 0 0 4 4 6 6 0 0 0 5 5.91V20H7v2h10v-2h-4v-2.09A6 6 0 0 0 18 12a4 4 0 0 0 4-4V5h-4V2H6zm0 5V4h12v3a6 6 0 0 1-.09 1H6.09A6 6 0 0 1 6 7zm-2 1V7h.09A8 8 0 0 0 4 8a2 2 0 0 1-1.86-2zM20 8a2 2 0 0 1-2.14 0 8 8 0 0 0-.09-1H20z"/></svg>
+            <div>
+              <span class="book-call__awards-year">2025</span>
+              <span class="book-call__awards-label">Prestige Awards</span>
+            </div>
+          </div>
+          <div class="book-call__awards-divider" aria-hidden="true"></div>
+          <div class="book-call__awards-badge">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6 2v3H2v3a4 4 0 0 0 4 4 6 6 0 0 0 5 5.91V20H7v2h10v-2h-4v-2.09A6 6 0 0 0 18 12a4 4 0 0 0 4-4V5h-4V2H6zm0 5V4h12v3a6 6 0 0 1-.09 1H6.09A6 6 0 0 1 6 7zm-2 1V7h.09A8 8 0 0 0 4 8a2 2 0 0 1-1.86-2zM20 8a2 2 0 0 1-2.14 0 8 8 0 0 0-.09-1H20z"/></svg>
+            <div>
+              <span class="book-call__awards-year">2026</span>
+              <span class="book-call__awards-label">Prestige Awards</span>
+            </div>
+          </div>
         </div>
       </div>
 
