@@ -458,6 +458,50 @@
 }
 </script>
 
+<!-- Service schema — local tutoring offer for this {city, level} pair -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "{{ $level }} Tutoring in {{ $loc }} | The Degree Gap",
+  "description": "Expert one-to-one {{ $level }} tutoring for students in {{ $loc }}. Online lessons from £37/hr with vetted tutors matched to your child's subject and exam board.",
+  "url": "{{ .Permalink }}",
+  "provider": {
+    "@type": "EducationalOrganization",
+    "name": "The Degree Gap",
+    "url": "https://thedegreegap.com"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "{{ $loc }}"
+  },
+  "serviceType": "Online {{ $level }} Tutoring",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "{{ cond $isAlevel "A-Level student" "GCSE student" }}"
+  },
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "GBP",
+    "price": "37",
+    "priceSpecification": {
+      "@type": "UnitPriceSpecification",
+      "price": "37",
+      "priceCurrency": "GBP",
+      "unitText": "per hour",
+      "minPrice": "37"
+    }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "106",
+    "bestRating": "5",
+    "worstRating": "1"
+  }
+}
+</script>
+
 <!-- =============================================
      SECTION 9: RELATED PAGES (sibling level + same level, other cities)
      Note: the older "Areas We Cover" section has been removed from level pages —
