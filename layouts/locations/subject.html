@@ -502,6 +502,46 @@
 }
 </script>
 
+<!-- Course schema — qualifies for review-star rich results in Google SERPs -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "{{ $level }} Tutoring in {{ $loc }}",
+  "description": "One-to-one {{ $level }} tutoring for students in {{ $loc }}. Sessions are matched to the student's exam board and subject, run online, and start from £37/hr.",
+  "url": "{{ .Permalink }}",
+  "provider": {
+    "@type": "EducationalOrganization",
+    "name": "The Degree Gap",
+    "sameAs": "https://thedegreegap.com"
+  },
+  "educationalLevel": "{{ $level }}",
+  "inLanguage": "en-GB",
+  "hasCourseInstance": {
+    "@type": "CourseInstance",
+    "courseMode": "online",
+    "courseWorkload": "PT1H",
+    "instructor": {
+      "@type": "Person",
+      "name": "The Degree Gap Tutors"
+    }
+  },
+  "offers": {
+    "@type": "Offer",
+    "category": "Tutoring",
+    "priceCurrency": "GBP",
+    "price": "37"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "106",
+    "bestRating": "5",
+    "worstRating": "1"
+  }
+}
+</script>
+
 <!-- =============================================
      SECTION 9: RELATED PAGES (sibling level + same level, other cities)
      Note: the older "Areas We Cover" section has been removed from level pages —
