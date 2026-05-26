@@ -508,29 +508,54 @@
   "@context": "https://schema.org",
   "@type": "Course",
   "name": "{{ $level }} Tutoring in {{ $loc }}",
-  "description": "One-to-one {{ $level }} tutoring for students in {{ $loc }}. Sessions are matched to the student's exam board and subject, run online, and start from £37/hr.",
+  "description": "One-to-one {{ $level }} tutoring for students in {{ $loc }}. Sessions are matched to the student's exam board and subject, run online with a vetted tutor, and start from £37 per hour.",
   "url": "{{ .Permalink }}",
+  "identifier": "the-degree-gap-{{ $loc | urlize }}-{{ $level | urlize | lower }}",
   "provider": {
     "@type": "EducationalOrganization",
     "name": "The Degree Gap",
-    "sameAs": "https://thedegreegap.com"
+    "url": "https://thedegreegap.com",
+    "logo": "https://study.thedegreegap.com/images/final-logo.svg"
+  },
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "{{ cond $isAlevel "A-Level student" "GCSE student" }}",
+    "geographicArea": {
+      "@type": "City",
+      "name": "{{ $loc }}"
+    }
   },
   "educationalLevel": "{{ $level }}",
+  "teaches": "{{ cond $isAlevel "A-Level subjects including Maths, English Literature, Biology, Chemistry, Physics, Economics, History and more, mapped to the student's specification." "GCSE subjects including Maths, English Language and Literature, Combined and Triple Science, Geography, History and more, matched to the student's exam board." }}",
   "inLanguage": "en-GB",
+  "coursePrerequisites": "{{ cond $isAlevel "Enrolled on an A-Level programme at a UK sixth form or college." "Studying for GCSE qualifications at a UK secondary school." }}",
   "hasCourseInstance": {
     "@type": "CourseInstance",
     "courseMode": "online",
-    "courseWorkload": "PT1H",
+    "courseWorkload": "PT30H",
+    "location": {
+      "@type": "VirtualLocation",
+      "url": "{{ .Permalink }}"
+    },
     "instructor": {
-      "@type": "Person",
-      "name": "The Degree Gap Tutors"
+      "@type": "Organization",
+      "name": "The Degree Gap Tutors",
+      "url": "https://thedegreegap.com"
     }
   },
   "offers": {
     "@type": "Offer",
     "category": "Tutoring",
     "priceCurrency": "GBP",
-    "price": "37"
+    "price": "37",
+    "priceSpecification": {
+      "@type": "UnitPriceSpecification",
+      "price": "37",
+      "priceCurrency": "GBP",
+      "unitText": "per hour"
+    },
+    "availability": "https://schema.org/InStock",
+    "url": "{{ .Permalink }}"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
