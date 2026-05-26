@@ -32,11 +32,12 @@
       <div class="book-call__form-wrap">
         <div class="book-call__form-card">
           <h2>Book a call with Joe today</h2>
+          <p class="book-call__form-sub">Free 15-minute consultation. We'll match your child with a tutor on the same call.</p>
 
           <form action="{{ .Site.Params.formspreeEndpoint }}" method="POST" novalidate class="book-call__form">
             <input type="hidden" name="_subject" value="Post-webinar tutoring enquiry">
             <input type="hidden" name="source" value="post-webinar-book-call">
-            <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true">
+            <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" class="book-call__honeypot">
 
             <div class="book-call__row">
               <div class="book-call__field">
@@ -74,6 +75,7 @@
             </div>
 
             <button type="submit" class="book-call__submit">Book my call</button>
+            <p class="book-call__assurance">No obligation. We'll never share your number.</p>
           </form>
 
           <figure class="book-call__quote">

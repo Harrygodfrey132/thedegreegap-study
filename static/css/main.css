@@ -6121,8 +6121,30 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   font-family: var(--font-heading);
   font-size: 1.25rem;
   color: #1a1a1a;
-  margin: 0 0 1rem;
+  margin: 0 0 0.4rem;
   line-height: 1.25;
+}
+.book-call__form-sub {
+  font-family: var(--font-body);
+  font-size: 0.88rem;
+  line-height: 1.5;
+  color: #6a6a6a;
+  margin: 0 0 1.25rem;
+}
+.book-call__honeypot {
+  position: absolute !important;
+  left: -9999px !important;
+  width: 1px !important;
+  height: 1px !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
+.book-call__assurance {
+  font-family: var(--font-body);
+  font-size: 0.78rem;
+  text-align: center;
+  color: #8a8a8a;
+  margin: 0.7rem 0 0;
 }
 .book-call__form {
   display: flex;
