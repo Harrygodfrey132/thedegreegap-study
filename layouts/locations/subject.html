@@ -463,11 +463,13 @@
 {
   "@context": "https://schema.org",
   "@type": "Service",
+  "@id": "{{ .Permalink }}#service",
   "name": "{{ $level }} Tutoring in {{ $loc }} | The Degree Gap",
   "description": "Expert one-to-one {{ $level }} tutoring for students in {{ $loc }}. Online lessons from £37/hr with vetted tutors matched to your child's subject and exam board.",
   "url": "{{ .Permalink }}",
   "provider": {
     "@type": "EducationalOrganization",
+    "@id": "https://study.thedegreegap.com/#organization",
     "name": "The Degree Gap",
     "url": "https://thedegreegap.com",
     "aggregateRating": {
@@ -486,6 +488,11 @@
   "audience": {
     "@type": "EducationalAudience",
     "educationalRole": "{{ cond $isAlevel "A-Level student" "GCSE student" }}"
+  },
+  "availableChannel": {
+    "@type": "ServiceChannel",
+    "serviceUrl": "{{ .Permalink }}",
+    "availableLanguage": "English"
   },
   "offers": {
     "@type": "Offer",
@@ -507,12 +514,14 @@
 {
   "@context": "https://schema.org",
   "@type": "Course",
+  "@id": "{{ .Permalink }}#course",
   "name": "{{ $level }} Tutoring in {{ $loc }}",
   "description": "One-to-one {{ $level }} tutoring for students in {{ $loc }}. Sessions are matched to the student's exam board and subject, run online with a vetted tutor, and start from £37 per hour.",
   "url": "{{ .Permalink }}",
   "identifier": "the-degree-gap-{{ $loc | urlize }}-{{ $level | urlize | lower }}",
   "provider": {
     "@type": "EducationalOrganization",
+    "@id": "https://study.thedegreegap.com/#organization",
     "name": "The Degree Gap",
     "url": "https://thedegreegap.com",
     "logo": "https://study.thedegreegap.com/images/final-logo.svg"

@@ -504,11 +504,13 @@ Location tutor page content contract:
 {
   "@context": "https://schema.org",
   "@type": "Service",
+  "@id": "{{ .Permalink }}#service",
   "name": "Online Tutoring in {{ $loc }} | The Degree Gap",
   "description": "Expert GCSE and A-Level online tutoring for students in {{ $loc }}. One-to-one sessions from £37/hr.",
   "url": "{{ .Permalink }}",
   "provider": {
     "@type": "EducationalOrganization",
+    "@id": "https://study.thedegreegap.com/#organization",
     "name": "The Degree Gap",
     "url": "https://thedegreegap.com"
   },
@@ -517,6 +519,15 @@ Location tutor page content contract:
     "name": "{{ $loc }}"
   },
   "serviceType": "Online Tutoring",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "availableChannel": {
+    "@type": "ServiceChannel",
+    "serviceUrl": "{{ .Permalink }}",
+    "availableLanguage": "English"
+  },
   "offers": {
     "@type": "Offer",
     "priceCurrency": "GBP",
