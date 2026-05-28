@@ -6116,14 +6116,21 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   margin: 0 0 12px;
 }
 
-/* Snap Revise-themed referral page: small green hints, navy button. */
+/* Snap Revise-themed referral page: pale-green outlined pills, navy button. */
 .book-call--snap-revise .book-call__eyebrow {
-  background: rgba(60, 124, 63, 0.12);
-  color: #2F6A32;
+  background: #E2F0D0;
+  color: #2D5538;
+  border: 2px solid #2D5538;
+  padding: 8px 18px;
+  font-weight: 800;
+  letter-spacing: 0.14em;
 }
 .book-call--snap-revise .book-call__form-tag {
-  background: rgba(60, 124, 63, 0.10);
-  color: #2F6A32;
+  background: #E2F0D0;
+  color: #2D5538;
+  border: 1.5px solid #2D5538;
+  padding: 5px 12px;
+  font-weight: 800;
 }
 .book-call--snap-revise .book-call__submit {
   background: #1F2A3D;
@@ -6133,7 +6140,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   background: #2A3A4F;
 }
 .book-call--snap-revise .book-call__reviews-brand {
-  color: #2F6A32;
+  color: #2D5538;
 }
 
 .book-call__subhead {
