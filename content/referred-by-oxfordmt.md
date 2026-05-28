@@ -1,6 +1,6 @@
 ---
 title: "Find Your Tutor — OxfordMT × The Degree Gap"
-description: "We work directly with OxfordMT to make sure students who prioritise high-quality study materials also get the best one-to-one tutoring. Book a free call."
+description: "We work with OxfordMT when they're close to full capacity or don't specialise in a particular subject, to make sure students still get high-quality one-to-one tutoring."
 layout: "oxfordmt"
 robots: "noindex, follow"
 _build:
