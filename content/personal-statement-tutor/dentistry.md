@@ -1,6 +1,6 @@
 ---
 title: "Dentistry Personal Statement Help"
-description: "How to write a strong dentistry personal statement for UK dental schools. What admissions tutors look for, UCAT preparation, dexterity evidence, and how to demonstrate genuine commitment to the profession."
+description: "How to write a strong dentistry personal statement for UK dental schools. What admissions tutors look for, UCAT, dexterity, and genuine commitment."
 subject: "Dentistry"
 admissions_tests:
   - name: "UCAT"

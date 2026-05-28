@@ -1,6 +1,6 @@
 ---
 title: "Medicine Personal Statement Help"
-description: "How to write a Medicine personal statement for UK universities. What admissions tutors look for, UCAT and interview prep, and how to structure a Medicine application."
+description: "How to write a Medicine personal statement for UK universities. What admissions tutors look for, UCAT and interview prep, and how to structure it."
 subject: "Medicine"
 admissions_tests:
   - name: "UCAT"

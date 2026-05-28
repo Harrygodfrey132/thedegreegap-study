@@ -1,7 +1,7 @@
 ---
 layout: "oxbridge"
 title: "Cambridge Personal Statement Help"
-description: "A complete guide to writing a Cambridge personal statement: the UCAS statement, My Cambridge Application, the optional additional statement, admissions tests, supervision culture, the pool system, and subject-specific advice for Natural Sciences, Maths, Economics, Law, and more."
+description: "A complete guide to writing a Cambridge personal statement: the UCAS statement, My Cambridge Application, admissions tests, and subject-specific advice."
 university: "Cambridge"
 form_cta: "Get expert help with your Cambridge personal statement"
 form_intro: "Tell us your Cambridge course, college thoughts, My Cambridge Application concerns, reading, and draft stage, and we will help you plan the statement and the wider application properly."

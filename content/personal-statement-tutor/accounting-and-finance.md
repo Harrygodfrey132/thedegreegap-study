@@ -1,5 +1,5 @@
 ---
-title: "Accounting and Finance Personal Statement Help"
+title: "Accounting & Finance Personal Statement"
 description: "How to write an Accounting and Finance personal statement for UK universities. What admissions tutors look for, ACA/ACCA/CIMA routes, and how to structure it."
 subject: "Accounting and Finance"
 form_cta: "Build an Accounting and Finance personal statement that handles the dual academic and professional question"

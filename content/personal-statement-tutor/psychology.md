@@ -1,6 +1,6 @@
 ---
 title: "Psychology Personal Statement Help"
-description: "How to write a Psychology personal statement for UK universities. What admissions tutors look for, BPS accreditation, research methods, and how to match the course."
+description: "How to write a Psychology personal statement for UK universities. What admissions tutors look for, BPS accreditation, research methods, and structure."
 subject: "Psychology"
 form_cta: "Match your Psychology statement to the course shape"
 form_intro: "Tell us which universities you're applying to and what kind of Psychology genuinely interests you, and we'll help you write to the right course."

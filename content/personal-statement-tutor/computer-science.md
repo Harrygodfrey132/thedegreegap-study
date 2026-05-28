@@ -1,6 +1,6 @@
 ---
 title: "Computer Science Personal Statement Help"
-description: "How to write a Computer Science personal statement for UK universities. What admissions tutors look for, the maths question, and how to structure a CS application."
+description: "How to write a Computer Science personal statement for UK universities. What admissions tutors look for, the maths question, and how to structure it."
 subject: "Computer Science"
 admissions_tests:
   - name: "TMUA"

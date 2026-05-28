@@ -1,7 +1,7 @@
 ---
 layout: "oxbridge"
 title: "Oxford Personal Statement Help"
-description: "A complete guide to writing an Oxford personal statement: what Oxford tutors actually read for, how admissions tests and written work interact with the statement, subject-specific advice, college choice, and interview preparation."
+description: "A complete guide to writing an Oxford personal statement: what tutors read for, admissions tests, college choice, and subject-specific advice."
 university: "Oxford"
 form_cta: "Get expert help with your Oxford personal statement"
 form_intro: "Tell us your Oxford course, college thoughts, admissions test, reading, and draft stage, and we will help you make the statement academically sharper."

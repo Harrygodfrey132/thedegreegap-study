@@ -1,6 +1,6 @@
 ---
 title: "English Literature Personal Statement Help"
-description: "How to write an English Literature personal statement for UK universities. What admissions tutors look for, close reading, the canon debate, and reading beyond A-Level."
+description: "How to write an English Literature personal statement for UK universities. What admissions tutors look for, close reading, and reading beyond A-Level."
 subject: "English Literature"
 admissions_tests:
   - name: "ELAT"

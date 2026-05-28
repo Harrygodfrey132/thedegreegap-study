@@ -1,6 +1,6 @@
 ---
 title: "Personal Statement Tutor"
-description: "Premium personal statement tutoring for competitive UK university applications, with subject-specific research, supercurricular planning, draft editing, and consultation support."
+description: "Premium personal statement tutoring for competitive UK university applications. Subject-specific research, supercurricular planning, and draft editing."
 form_cta: "Book personal statement tutoring with The Degree Gap"
 form_intro: "Tell us the subject, universities, and deadline you are working towards. We will come back with the best way to support your application."
 form_message_label: "Tell us where you are in the process"

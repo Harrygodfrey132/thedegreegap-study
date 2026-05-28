@@ -1,6 +1,6 @@
 ---
 title: "Economics Personal Statement Help"
-description: "How to write an Economics personal statement for UK universities. What admissions tutors look for, course-shape differences across LSE, Oxford, and Warwick, and how to structure an Economics application."
+description: "How to write an Economics personal statement for UK universities. What admissions tutors look for, course differences across LSE, Oxford, Warwick."
 subject: "Economics"
 admissions_tests:
   - name: "TMUA"

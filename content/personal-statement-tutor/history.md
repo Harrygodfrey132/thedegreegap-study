@@ -1,6 +1,6 @@
 ---
 title: "History Personal Statement Help"
-description: "How to write a strong history personal statement for UK universities. What admissions tutors look for, how to engage with historiography, and how to demonstrate independent historical thinking."
+description: "How to write a strong history personal statement for UK universities. What admissions tutors look for, historiography, and independent thinking."
 subject: "History"
 admissions_tests:
   - name: "HAT"

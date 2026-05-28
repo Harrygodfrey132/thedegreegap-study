@@ -1,5 +1,5 @@
 ---
-title: "Tunbridge Wells Tutors | A-Level and 11+ | The Degree Gap"
+title: "Tunbridge Wells Tutors | 11+ to A-Level | The Degree Gap"
 description: "Find a Tunbridge Wells tutor for the Kent Test, GCSE and A-Level: one-to-one tuition built for a fully selective grammar county where every grade counts."
 layout: "single"
 location: "Tunbridge Wells"

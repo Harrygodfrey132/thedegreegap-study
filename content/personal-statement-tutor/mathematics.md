@@ -1,6 +1,6 @@
 ---
 title: "Mathematics Personal Statement Help"
-description: "How to write a Mathematics personal statement for UK universities. What admissions tutors look for, STEP and MAT context, and how to structure a Mathematics application."
+description: "How to write a Mathematics personal statement for UK universities. What admissions tutors look for, STEP and MAT context, and how to structure it."
 subject: "Mathematics"
 admissions_tests:
   - name: "STEP"
