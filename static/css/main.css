@@ -6116,6 +6116,31 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   margin: 0 0 12px;
 }
 
+/* Snap Revise-themed referral page: scoped colour overrides only */
+.book-call--snap-revise .book-call__eyebrow {
+  background: #85C285;
+  color: #ffffff;
+}
+.book-call--snap-revise .book-call__form-tag {
+  background: rgba(133, 194, 133, 0.22);
+  color: #3C7C3F;
+}
+.book-call--snap-revise .book-call__form-card {
+  border-color: rgba(133, 194, 133, 0.32);
+  border-top: 4px solid #85C285;
+}
+.book-call--snap-revise .book-call__submit {
+  background: #85C285;
+  color: #ffffff;
+}
+.book-call--snap-revise .book-call__submit:hover {
+  background: #6FA871;
+}
+.book-call--snap-revise .book-call__form-sub strong,
+.book-call--snap-revise .book-call__reviews-brand {
+  color: #3C7C3F;
+}
+
 .book-call__subhead {
   font-family: var(--font-body);
   font-size: 1rem;
