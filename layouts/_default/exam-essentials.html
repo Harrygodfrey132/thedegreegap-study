@@ -1,0 +1,122 @@
+{{ define "seo" }}
+{{ partial "seo.html" . }}
+<meta name="robots" content="noindex, follow">
+{{ end }}
+
+{{ define "main" }}
+<section class="book-call">
+  <div class="container book-call__container">
+
+    <div class="book-call__grid">
+
+      <div class="book-call__main">
+        <header class="book-call__head">
+          <p class="book-call__eyebrow">Exam Essentials × The Degree Gap</p>
+          <h1>Let's find the right tutor for your child.</h1>
+          <p class="book-call__subhead">We work directly with Exam Essentials to make sure that students who prioritise high-quality study materials also get the best one-to-one tutoring.</p>
+        </header>
+
+        <div class="book-call__media">
+          <div class="book-call__video">
+            <div class="loc-lite-video" data-youtube-id="rR7_rq6L2hk" data-youtube-title="GCSE Introduction Video - The Degree Gap">
+              <a href="https://youtu.be/rR7_rq6L2hk" class="loc-lite-video__button" target="_blank" rel="noopener" aria-label="Watch our 90-second intro from the co-founder">
+                <img src="https://i.ytimg.com/vi/rR7_rq6L2hk/maxresdefault.jpg" alt="The Degree Gap co-founder explains how tutoring works" loading="eager" fetchpriority="high"
+                     onerror="this.onerror=null;this.src='https://i.ytimg.com/vi/rR7_rq6L2hk/hqdefault.jpg';">
+                <span class="loc-lite-video__play" aria-hidden="true">
+                  <svg width="34" height="34" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+                </span>
+              </a>
+            </div>
+          </div>
+          <p class="book-call__caption">Watch the 90-second intro to hear how we match tutors and what the first session looks like.</p>
+        </div>
+
+        <a href="https://share.google/1yemVhJDnSjd6qg4n" target="_blank" rel="noopener" class="book-call__reviews" aria-label="Read our 106 Google reviews, rated 5.0 out of 5">
+          <span class="book-call__reviews-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" width="40" height="40" xmlns="http://www.w3.org/2000/svg">
+              <path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/>
+              <path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84A11 11 0 0 0 12 23z"/>
+              <path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18A11 11 0 0 0 1 12c0 1.77.42 3.45 1.18 4.93l2.85-2.22.81-.62z"/>
+              <path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/>
+            </svg>
+          </span>
+          <span class="book-call__reviews-body">
+            <span class="book-call__reviews-top">
+              <span class="book-call__reviews-brand">Google Reviews</span>
+              <span class="book-call__reviews-verified">
+                <svg viewBox="0 0 24 24" width="12" height="12" fill="#34A853" aria-hidden="true"><path d="M9 16.17 4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+                Verified
+              </span>
+            </span>
+            <span class="book-call__reviews-rating">
+              <span class="book-call__reviews-score">5.0</span>
+              <span class="book-call__reviews-stars" aria-label="5 out of 5">★★★★★</span>
+            </span>
+            <span class="book-call__reviews-count">Based on 106 reviews</span>
+          </span>
+        </a>
+      </div>
+
+      <div class="book-call__form-wrap">
+        <div class="book-call__form-card">
+          <p class="book-call__form-tag">For Exam Essentials students</p>
+          <h2>Book a call with Joe today</h2>
+          <p class="book-call__form-sub">Free 15-minute consultation. We'll match your child with a tutor on the same call.</p>
+
+          <form action="{{ .Site.Params.formspreeEndpoint }}" method="POST" novalidate class="book-call__form">
+            <input type="hidden" name="_subject" value="Exam Essentials tutoring enquiry">
+            <input type="hidden" name="source" value="referred-by-exam-essentials">
+            <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" class="book-call__honeypot">
+
+            <div class="book-call__row">
+              <div class="book-call__field">
+                <label for="bc-first">First name</label>
+                <input id="bc-first" name="first_name" type="text" required autocomplete="given-name">
+              </div>
+              <div class="book-call__field">
+                <label for="bc-last">Last name</label>
+                <input id="bc-last" name="last_name" type="text" required autocomplete="family-name">
+              </div>
+            </div>
+
+            <div class="book-call__field">
+              <label for="bc-phone">Mobile number</label>
+              <input id="bc-phone" name="phone" type="tel" required autocomplete="tel" inputmode="tel" placeholder="07XXX XXX XXX">
+            </div>
+
+            <div class="book-call__field">
+              <label for="bc-year">Your child's year group</label>
+              <select id="bc-year" name="year_group" required>
+                <option value="">Please select</option>
+                <option value="Year 7-8">Year 7-8</option>
+                <option value="Year 9">Year 9</option>
+                <option value="Year 10">Year 10</option>
+                <option value="Year 11 (GCSE)">Year 11 (GCSE)</option>
+                <option value="Year 12 (A-Level)">Year 12 (A-Level)</option>
+                <option value="Year 13 (A-Level)">Year 13 (A-Level)</option>
+                <option value="University">University</option>
+              </select>
+            </div>
+
+            <div class="book-call__field">
+              <label for="bc-subjects">Which subjects?</label>
+              <input id="bc-subjects" name="subjects" type="text" required placeholder="e.g. GCSE Maths, A-Level Chemistry">
+            </div>
+
+            <button type="submit" class="book-call__submit">Book my call</button>
+            <p class="book-call__assurance">No obligation. We'll never share your number.</p>
+          </form>
+
+          <figure class="book-call__quote">
+            <div class="book-call__quote-stars" aria-label="5 out of 5">★★★★★</div>
+            <blockquote>"My son went from a grade 5 to a 6/7 in GCSE English in six months. He now looks forward to his lessons."</blockquote>
+            <figcaption>Omo, Parent of GCSE Student</figcaption>
+          </figure>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</section>
+{{ end }}
