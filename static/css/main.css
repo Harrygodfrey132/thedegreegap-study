@@ -6338,3 +6338,217 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   font-size: 0.78rem;
   color: #6a6a6a;
 }
+
+/* =============================================
+   HOMEPAGE — Video-led hero + How It Works + Reviews + Final CTA
+   ============================================= */
+
+.home-hero--video .home-hero__inner {
+  max-width: 920px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.home-hero--video .home-hero__lead {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 36px;
+}
+
+.home-hero__video {
+  margin: 0 auto 32px;
+  max-width: 820px;
+}
+
+.home-hero__video-frame {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%;
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: 0 24px 60px rgba(35, 23, 17, 0.18);
+  background: #000;
+}
+
+.home-hero__video-frame iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.home-hero__cta {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 36px;
+}
+
+.home-hero--video .home-hero__proof {
+  justify-content: center;
+  text-align: left;
+}
+
+/* How It Works */
+.home-howitworks {
+  padding: 72px 0;
+  background: var(--cream);
+  border-bottom: 1px solid var(--border);
+}
+
+.home-section__header--centred {
+  text-align: center;
+  justify-content: center;
+}
+
+.home-section__header--centred > div {
+  max-width: 680px;
+  margin: 0 auto;
+}
+
+.home-section__header--centred .home-section__lead {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.home-howitworks__steps {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  counter-reset: step;
+}
+
+.home-howitworks__step {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 32px 28px 28px;
+  position: relative;
+  box-shadow: 0 8px 24px rgba(35, 23, 17, 0.04);
+}
+
+.home-howitworks__number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: var(--burgundy);
+  color: var(--white);
+  font-weight: 800;
+  font-size: 1.2rem;
+  margin-bottom: 16px;
+}
+
+.home-howitworks__step h3 {
+  font-size: 1.15rem;
+  margin-bottom: 10px;
+  line-height: 1.25;
+}
+
+.home-howitworks__step p {
+  color: var(--text-muted);
+  font-size: 0.95rem;
+  line-height: 1.65;
+  margin: 0;
+}
+
+/* Reviews band */
+.home-reviews-section .home-reviews-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 18px;
+}
+
+.home-review-card {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 24px 22px 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  box-shadow: 0 6px 18px rgba(35, 23, 17, 0.04);
+}
+
+.home-review-card__stars {
+  color: #f4b400;
+  font-size: 1rem;
+  letter-spacing: 2px;
+  line-height: 1;
+}
+
+.home-review-card__quote {
+  color: var(--text);
+  font-size: 0.92rem;
+  line-height: 1.6;
+  margin: 0;
+  flex: 1;
+}
+
+.home-review-card__author {
+  margin: 0;
+  padding-top: 12px;
+  border-top: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.home-review-card__author strong {
+  font-weight: 800;
+  color: var(--text);
+  font-size: 0.95rem;
+}
+
+.home-review-card__author span {
+  color: var(--text-muted);
+  font-size: 0.8rem;
+}
+
+/* Final CTA */
+.home-final-cta {
+  padding: 72px 0;
+  background: linear-gradient(160deg, #fdfaf6 0%, #f8f2e8 100%);
+  border-top: 1px solid var(--border);
+}
+
+.home-final-cta__inner {
+  max-width: 680px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.home-final-cta__inner h2 {
+  font-size: clamp(1.6rem, 3vw, 2.2rem);
+  margin-bottom: 14px;
+  line-height: 1.2;
+}
+
+.home-final-cta__inner p {
+  color: var(--text-muted);
+  font-size: 1.02rem;
+  line-height: 1.65;
+  margin-bottom: 26px;
+}
+
+/* Responsive */
+@media (max-width: 960px) {
+  .home-reviews-section .home-reviews-grid { grid-template-columns: repeat(2, 1fr); }
+  .home-howitworks__steps { grid-template-columns: 1fr; gap: 16px; }
+}
+
+@media (max-width: 640px) {
+  .home-hero--video .home-hero__inner { text-align: left; }
+  .home-hero__cta { justify-content: flex-start; }
+  .home-hero__cta .btn { width: 100%; text-align: center; }
+  .home-hero--video .home-hero__proof { justify-content: flex-start; }
+  .home-hero__video { margin-bottom: 24px; }
+  .home-howitworks { padding: 48px 0; }
+  .home-reviews-section .home-reviews-grid { grid-template-columns: 1fr; }
+  .home-final-cta { padding: 52px 0; }
+}
