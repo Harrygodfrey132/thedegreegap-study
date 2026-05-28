@@ -6143,6 +6143,33 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   color: #2D5538;
 }
 
+/* ExamEssentials-themed referral page: vibrant-orange outlined pills, navy button. */
+.book-call--exam-essentials .book-call__eyebrow {
+  background: #FCE8D6;
+  color: #D85F2A;
+  border: 2px solid #DE6831;
+  padding: 8px 18px;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+}
+.book-call--exam-essentials .book-call__form-tag {
+  background: #FCE8D6;
+  color: #D85F2A;
+  border: 1.5px solid #DE6831;
+  padding: 5px 12px;
+  font-weight: 800;
+}
+.book-call--exam-essentials .book-call__submit {
+  background: #1F2A3D;
+  color: #ffffff;
+}
+.book-call--exam-essentials .book-call__submit:hover {
+  background: #2A3A4F;
+}
+.book-call--exam-essentials .book-call__reviews-brand {
+  color: #D85F2A;
+}
+
 .book-call__subhead {
   font-family: var(--font-body);
   font-size: 1rem;
