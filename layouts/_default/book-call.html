@@ -4,6 +4,10 @@
 {{ end }}
 
 {{ define "main" }}
+{{ $headline := .Params.headline | default "You're in. Now let's find your child's tutor." }}
+{{ $subhead := .Params.subhead | default "Most families have a tutor within 48 hours and see results in a few weeks." }}
+{{ $formSubject := .Params.form_subject | default "Post-webinar tutoring enquiry" }}
+{{ $formSource := .Params.form_source | default "post-webinar-book-call" }}
 <section class="book-call">
   <div class="container book-call__container">
 
@@ -11,8 +15,8 @@
 
       <div class="book-call__main">
         <header class="book-call__head">
-          <h1>You're in. Now let's find your child's tutor.</h1>
-          <p class="book-call__subhead">Most families have a tutor within 48 hours and see results in a few weeks.</p>
+          <h1>{{ $headline }}</h1>
+          <p class="book-call__subhead">{{ $subhead | safeHTML }}</p>
         </header>
 
         <div class="book-call__media">
@@ -62,8 +66,8 @@
           <p class="book-call__form-sub">Free 15-minute consultation. We'll match your child with a tutor on the same call.</p>
 
           <form action="{{ .Site.Params.formspreeEndpoint }}" method="POST" novalidate class="book-call__form">
-            <input type="hidden" name="_subject" value="Post-webinar tutoring enquiry">
-            <input type="hidden" name="source" value="post-webinar-book-call">
+            <input type="hidden" name="_subject" value="{{ $formSubject }}">
+            <input type="hidden" name="source" value="{{ $formSource }}">
             <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" class="book-call__honeypot">
 
             <div class="book-call__row">
