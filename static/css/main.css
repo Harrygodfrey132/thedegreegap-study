@@ -1907,9 +1907,16 @@ p:last-child { margin-bottom: 0; }
   .hero { padding: 48px 0 40px; }
   .subjects-grid { grid-template-columns: 1fr; }
   .footer-lower { text-align: center; }
-  .home-hero { padding: 48px 0 44px; }
-  .home-hero h1 { font-size: clamp(2rem, 10vw, 3rem); }
+  .home-hero { padding: 32px 0 36px; }
+  .home-hero h1 { font-size: clamp(1.5rem, 6vw, 2rem); line-height: 1.2; }
+  .home-hero h1 br { display: none; }
+  .home-hero__lead { font-size: 0.96rem; line-height: 1.55; }
   .home-hero__actions .btn { width: 100%; text-align: center; }
+  .home-hero__cta .btn { width: 100%; text-align: center; }
+  .home-hero__proof { gap: 8px 16px; padding-top: 14px; }
+  .home-hero__proof strong { font-size: 0.78rem; }
+  .home-hero__proof span { font-size: 0.74rem; }
+  .home-hero__video { margin-bottom: 20px; }
   .home-boards-grid { grid-template-columns: 1fr; }
   .home-subjects-grid { grid-template-columns: repeat(3, 1fr); }
   .home-locations-grid { grid-template-columns: repeat(2, 1fr); }
