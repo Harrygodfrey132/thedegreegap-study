@@ -6083,35 +6083,39 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   .book-call__head h1 { margin-top: 0; }
 }
 
-/* Partnership badge — Snap Revise referral page */
-.book-call__partnership {
-  display: inline-flex;
-  align-items: center;
-  gap: 18px;
-  padding: 10px 18px;
-  background: #ffffff;
-  border: 1px solid var(--border);
+/* Snap Revise collab accents */
+.book-call__eyebrow {
+  display: inline-block;
+  font-family: var(--font-heading);
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: #ffffff;
+  background: #1f2c3c;
+  padding: 7px 14px;
   border-radius: 100px;
-  box-shadow: 0 4px 14px rgba(35, 23, 17, 0.06);
-  margin: 2.5rem 0 1.25rem;
+  margin: 2.5rem 0 1rem;
 }
 @media (min-width: 720px) {
-  .book-call__partnership { margin-top: 0; }
+  .book-call__eyebrow { margin-top: 0; }
 }
-.book-call__partnership-logo {
-  display: block;
-  height: 28px;
-  width: auto;
-  max-width: 140px;
-  object-fit: contain;
-}
-.book-call__partnership-x {
+.book-call__head h1 + .book-call__subhead,
+.book-call__eyebrow + h1 { margin-top: 0; }
+.book-call__form-tag {
+  display: inline-block;
   font-family: var(--font-heading);
-  font-size: 1.1rem;
-  font-weight: 400;
-  color: #999;
-  line-height: 1;
+  font-size: 0.62rem;
+  font-weight: 800;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: #1f2c3c;
+  background: rgba(31, 44, 60, 0.08);
+  padding: 5px 10px;
+  border-radius: 100px;
+  margin: 0 0 12px;
 }
+
 .book-call__subhead {
   font-family: var(--font-body);
   font-size: 1rem;
