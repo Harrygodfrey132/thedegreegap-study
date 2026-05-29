@@ -6150,31 +6150,31 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   color: #2D5538;
 }
 
-/* Daily Info-themed referral page: mirrors SnapRevise styling. */
+/* Daily Info-themed referral page: dark navy theme. */
 .book-call--daily-info .book-call__eyebrow {
-  background: #E2F0D0;
-  color: #2D5538;
-  border: 2px solid #2D5538;
+  background: #15294A;
+  color: #ffffff;
+  border: 2px solid #15294A;
   padding: 8px 18px;
   font-weight: 800;
   letter-spacing: 0.14em;
 }
 .book-call--daily-info .book-call__form-tag {
-  background: #E2F0D0;
-  color: #2D5538;
-  border: 1.5px solid #2D5538;
+  background: #15294A;
+  color: #ffffff;
+  border: 1.5px solid #15294A;
   padding: 5px 12px;
   font-weight: 800;
 }
 .book-call--daily-info .book-call__submit {
-  background: #1F2A3D;
+  background: #15294A;
   color: #ffffff;
 }
 .book-call--daily-info .book-call__submit:hover {
-  background: #2A3A4F;
+  background: #1E3A66;
 }
 .book-call--daily-info .book-call__reviews-brand {
-  color: #2D5538;
+  color: #15294A;
 }
 
 /* ExamEssentials-themed referral page: vibrant-orange outlined pills, navy button. */
