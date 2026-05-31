@@ -6674,3 +6674,62 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   .home-reviews-section .home-reviews-grid { grid-template-columns: 1fr; }
   .home-final-cta { padding: 52px 0; }
 }
+
+/* Referral-page locations footer (shared across snap-revise, daily-info, exam-essentials, oxford-mt). */
+.referral-locations {
+  background: #F7F8FA;
+  padding: 64px 0;
+  border-top: 1px solid #E6E9EE;
+}
+.referral-locations__head {
+  text-align: center;
+  max-width: 640px;
+  margin: 0 auto 32px;
+}
+.referral-locations__head h2 {
+  font-size: 28px;
+  margin: 0 0 12px;
+  color: #1F2A3D;
+}
+.referral-locations__head p {
+  color: #4A5568;
+  margin: 0;
+}
+.referral-locations__grid {
+  list-style: none;
+  padding: 0;
+  margin: 0 auto 28px;
+  max-width: 880px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+}
+.referral-locations__grid a {
+  display: block;
+  padding: 14px 16px;
+  background: #ffffff;
+  border: 1px solid #E0E5EC;
+  border-radius: 8px;
+  color: #1F2A3D;
+  text-decoration: none;
+  font-weight: 600;
+  text-align: center;
+  transition: border-color 0.15s, transform 0.15s;
+}
+.referral-locations__grid a:hover {
+  border-color: #1F2A3D;
+  transform: translateY(-1px);
+}
+.referral-locations__all {
+  display: block;
+  text-align: center;
+  font-weight: 700;
+  color: #1F2A3D;
+  text-decoration: none;
+}
+.referral-locations__all:hover {
+  text-decoration: underline;
+}
+@media (max-width: 640px) {
+  .referral-locations__grid { grid-template-columns: repeat(2, 1fr); }
+}
