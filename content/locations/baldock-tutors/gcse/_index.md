@@ -1,0 +1,69 @@
+---
+title: "GCSE Tutors in Baldock | One-to-One Support | The Degree Gap"
+description: "Expert Baldock GCSE tutoring for Year 10 and Year 11 students. Vetted tutors who know the local schools, the exam boards, and what mocks really test."
+layout: "subject"
+location: "Baldock"
+level: "GCSE"
+
+hero_heading_line1: "Baldock GCSE Tutors For the Year 11 Predicted-Grade Squeeze"
+hero_heading_line2: ""
+hero_lead: "Most Year 11 GCSE struggles in Baldock trace back to a Year 8 or 9 topic nobody re-explained. Our Baldock GCSE tutors find that root gap in week one, then rebuild before mocks decide the predicted grade."
+
+grade_from: "5"
+grade_to: "7"
+grade_stat: "A real GCSE English grade jump from a Year 10 student we worked with, after six months of one-to-one tutoring."
+
+first_lesson_eyebrow: "A BALDOCK YEAR 11 STORY"
+first_lesson_heading: "What a Baldock GCSE Tutor Reads in Year 10 Mock Papers"
+first_lesson_context: "GCSE results in Baldock decide everything from the Knights Templar sixth form offer to a Hills Road place in Cambridge. Most students arrive without the exam-paper depth those sixth forms ask for. A good GCSE tutor traces what's missing before any GCSE tutoring plan begins."
+first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him."
+first_lesson_quote_name: "Omo"
+first_lesson_quote_role: "Parent of GCSE Student"
+first_lesson_quote_grade: "Grade 5 → Grade 7 in GCSE English"
+
+tutor_strip_heading: "Baldock GCSE tutors who know the Knights Templar and Hitchin papers"
+tutor_strip_body: "Most Baldock GCSE tutors have walked students through the mark schemes Knights Templar and Hitchin set their papers from, with GCSE English tutors and GCSE Sciences tutors leading subject demand. Match by exam board, not just subject. Browse profiles, or let us match your child."
+
+pathways_heading: "Where Baldock Year 11s Head After GCSEs"
+pathways_lead: "A few of the post-16 routes Baldock GCSE tutoring families take after results day."
+pathways:
+  - title: "Sixth Forms"
+    body: >
+      Hitchin Boys' Sixth Form and Hitchin Girls' Sixth Form take most Baldock Year 11s aiming at Russell Group A-Levels, with Hills Road Sixth Form College in Cambridge pulling the most academically ambitious. GCSE tutoring in Year 11 typically lifts predicted grades into the grade 7-plus band those sixth forms ask for.
+  - title: "Apprenticeships"
+    body: >
+      AstraZeneca and ARM in the Cambridge corridor run apprenticeships hiring out of North Hertfordshire, alongside Lockheed Martin in Letchworth. Most ask for grade 5 in Maths and English, with GCSE Sciences tutoring often the gap between a borderline application and a clean one.
+  - title: "Further Education"
+    body: >
+      North Hertfordshire College has campuses in Hitchin and Stevenage for Level 3 vocational courses, and Long Road Sixth Form College in Cambridge takes Baldock students wanting BTEC alongside A-Levels. GCSE tuition for English and Maths resits is common at both.
+
+reviews:
+  - "Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional. Both my sons exceeded their expected grades in their GCSEs and A Levels and got into their first choice universities. I cannot recommend them highly enough."
+  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. We were given a selection of tutors to choose from and told that if it did not feel like a good match we could try others. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
+  - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him."
+  - "Jessica|GCSE Student|I was helped with both Maths and English for my GCSEs and passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree."
+  - "Isabel|Parent of iGCSE Student|The Degree Gap gave our son the support he needed for his iGCSEs, especially in Maths and Economics. Lessons were clear, engaging, and built his confidence. Highly recommended."
+  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."
+  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents. My daughter passed both English and Maths GCSE."
+  - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings. Highly recommend."
+  - "Heidi|Parent|Our tutor is simply amazing with our daughter. He understands her completely and her sessions are helping her with her school work so much. We cannot thank him enough."
+  - "Annette|Parent|This company helped us find a tutor for Geography and my son has excelled so much in just a few months. Our tutor has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself. He also manages neurodiversity effectively."
+  - "Bryan|GCSE Student|Helped me a lot and really showed me what I need to improve on."
+  - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B."
+  - "Theresa|Parent|The Degree Gap was fantastic. Their knowledge and guidance helped my son find direction in both his studies and future plans."
+  - "Sorland|Grandparent|My granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
+  - "Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE. Thank you."
+
+faq_1_q: "Can a Baldock GCSE tutor help with March mock prep?"
+faq_1_a: "Yes. March mocks set the predicted grade that goes to sixth forms, so most Baldock parents come for a focused GCSE tutoring block in January and February. Tutors work through past papers from the right exam board, drill the questions losing the most marks, and rebuild exam-day pacing."
+faq_2_q: "My daughter is finding GCSE Maths really tough. What does a Baldock GCSE tutor actually do?"
+faq_2_a: "We start with a diagnostic. Some students need to go back to a Year 8 algebra method that never properly clicked. Others have the content but freeze on the calculator paper. A Baldock GCSE Maths tutor traces the actual gap, then drills the paper 3 problem-solving questions and six-mark Maths problems examiners weight most."
+faq_3_q: "Is GCSE tutoring online or does my child need to travel?"
+faq_3_a: "All GCSE tutoring sessions run online through Lessonspace, a shared whiteboard built for one-to-one work. Baldock families like this because there's no commute on a Tuesday evening, and your child gets the right subject specialist in the country, not the nearest tutor to North Herts."
+faq_4_q: "What does GCSE tutoring in Baldock cost?"
+faq_4_a: "From £37 per hour. The exact rate depends on the tutor's subject, level, and experience. We agree the rate before anything is booked, and there are no hidden fees or platform charges on top."
+
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---
