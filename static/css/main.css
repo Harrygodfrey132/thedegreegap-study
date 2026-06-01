@@ -6721,3 +6721,283 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 @media (max-width: 640px) {
   .referral-locations__grid { grid-template-columns: repeat(2, 1fr); }
 }
+
+/* ============================================
+   Parents Guide to GCSEs — landing page
+   Re-uses .book-call__* classes for the hero/form.
+   .pg-* namespace covers the long-form sections.
+   ============================================ */
+
+.pg-meta {
+  margin: 0 0 24px;
+  font-size: 0.98rem;
+  color: #333;
+  line-height: 1.5;
+}
+.pg-meta strong { color: var(--burgundy); }
+.pg-meta [data-pg-countdown] {
+  color: #777;
+  font-variant-numeric: tabular-nums;
+}
+.pg-meta [data-pg-countdown]:not(:empty)::before { content: " · "; color: #bbb; }
+
+.pg-field-hint {
+  font-weight: 400;
+  color: #888;
+  font-size: 0.85em;
+}
+
+/* Thank-you panel (shown after successful registration) */
+.pg-thanks {
+  text-align: center;
+  padding: 8px 4px 4px;
+  animation: pgFadeIn 0.3s ease-out;
+}
+@keyframes pgFadeIn {
+  from { opacity: 0; transform: translateY(-4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.pg-thanks__icon {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: #2e7d32;
+  color: #fff;
+  display: grid;
+  place-items: center;
+  margin: 0 auto 16px;
+}
+.pg-thanks__title {
+  margin: 0 0 8px;
+  font-size: 1.5rem;
+}
+.pg-thanks__sub {
+  color: #555;
+  margin: 0 0 14px;
+}
+.pg-thanks__variant > p {
+  color: #444;
+}
+
+/* Phone add-on inside thank-you panel */
+.pg-thanks__addon {
+  margin-top: 20px;
+  padding: 18px;
+  background: #fff8e6;
+  border: 1px solid #f4d574;
+  border-radius: var(--radius);
+  text-align: left;
+}
+.pg-thanks__addon-prompt {
+  margin: 0 0 10px;
+  font-size: 1rem;
+  color: #333;
+  line-height: 1.5;
+}
+.pg-thanks__addon-body {
+  margin: 0 0 14px;
+  font-size: 0.92rem;
+  color: #444;
+  line-height: 1.55;
+}
+.pg-thanks__addon-form {
+  display: flex;
+  gap: 8px;
+}
+.pg-thanks__addon-form input {
+  flex: 1;
+  padding: 10px 12px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  font: inherit;
+}
+.pg-thanks__addon-form button { white-space: nowrap; }
+.pg-thanks__addon-confirmed {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin: 0;
+  color: #2e7d32;
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+@media (max-width: 480px) {
+  .pg-thanks__addon-form { flex-direction: column; }
+}
+
+/* Inline CTA inside text sections (hosts) */
+.pg-cta-inline {
+  margin-top: 18px;
+  display: inline-block;
+}
+
+/* Centered CTA below a content section (takeaways/testimonials/faq) */
+.pg-cta-centered {
+  text-align: center;
+  margin-top: 32px;
+}
+
+/* Inline CTA between sections — quiet, editorial */
+.pg-inline-cta {
+  padding: 28px 0;
+  text-align: center;
+  border-top: 1px solid #ece6dd;
+  border-bottom: 1px solid #ece6dd;
+}
+.pg-inline-cta p {
+  margin: 0;
+  color: #444;
+  font-size: 0.98rem;
+}
+.pg-inline-cta a {
+  color: var(--burgundy);
+  font-weight: 600;
+  text-decoration: none;
+  white-space: nowrap;
+  margin-left: 4px;
+}
+.pg-inline-cta a:hover { text-decoration: underline; }
+
+/* Final CTA — flat, confident */
+.pg-final-cta {
+  padding: 72px 0;
+  text-align: center;
+}
+.pg-final-cta__inner {
+  max-width: 560px;
+  margin: 0 auto;
+}
+.pg-final-cta h2 {
+  font-size: clamp(1.7rem, 3vw, 2.3rem);
+  margin: 0 0 12px;
+  line-height: 1.25;
+}
+.pg-final-cta p {
+  color: #555;
+  margin: 0 0 24px;
+  font-size: 1rem;
+}
+
+.pg-section {
+  padding: 64px 0;
+}
+.pg-section:nth-of-type(even) { background: #faf8f4; }
+.pg-section h2 {
+  font-size: clamp(1.6rem, 2.8vw, 2.2rem);
+  margin: 0 0 24px;
+  line-height: 1.25;
+}
+.pg-section__eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--burgundy);
+  margin: 0 0 8px;
+}
+.pg-section__eyebrow--centered,
+.pg-section__heading--centered {
+  text-align: center;
+}
+
+/* Hosts */
+.pg-hosts__inner {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 40px;
+  align-items: center;
+  max-width: 880px;
+  margin: 0 auto;
+}
+.pg-hosts__photos {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.pg-hosts__avatar {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #fff;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+}
+.pg-hosts__copy h2 { margin-top: 4px; }
+.pg-hosts__copy p { margin: 0 0 14px; line-height: 1.6; }
+@media (max-width: 720px) {
+  .pg-hosts__inner { grid-template-columns: 1fr; text-align: center; gap: 24px; }
+  .pg-hosts__photos { flex-direction: row; justify-content: center; }
+  .pg-hosts__avatar { width: 96px; height: 96px; }
+}
+
+/* Takeaways — editorial list, no cards */
+.pg-takeaways__container { max-width: 680px; }
+.pg-takeaways h2 { margin-bottom: 28px; }
+.pg-takeaways__list {
+  padding: 0 0 0 28px;
+  margin: 0 0 32px;
+  display: grid;
+  gap: 18px;
+  font-size: 1.05rem;
+  line-height: 1.65;
+}
+.pg-takeaways__list li { padding-left: 6px; }
+.pg-takeaways__list li::marker {
+  color: var(--burgundy);
+  font-weight: 700;
+}
+.pg-takeaways__cta { margin-top: 8px; }
+
+/* FAQ */
+.pg-faq__container { max-width: 780px; }
+.pg-faq__list { display: grid; gap: 12px; }
+.pg-faq__list details {
+  background: #fff;
+  border: 1px solid #e6e2dc;
+  border-radius: var(--radius);
+  padding: 0;
+  transition: box-shadow 0.2s;
+}
+.pg-faq__list details[open] {
+  background: #fcfbfa;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.05);
+}
+.pg-faq__list summary {
+  cursor: pointer;
+  font-weight: 600;
+  list-style: none;
+  padding: 16px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+.pg-faq__list summary::-webkit-details-marker { display: none; }
+.pg-faq__icon { transition: transform 0.2s; color: #666; flex-shrink: 0; }
+.pg-faq__list details[open] .pg-faq__icon { transform: rotate(90deg); }
+.pg-faq__body { padding: 0 20px 18px; color: #555; line-height: 1.6; }
+.pg-faq__body p { margin: 0; }
+
+/* Testimonials */
+.pg-testimonial-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+  margin-top: 32px;
+}
+.pg-testimonial-grid blockquote {
+  background: #fff;
+  border-radius: var(--radius);
+  padding: 24px;
+  margin: 0;
+  box-shadow: 0 2px 16px rgba(0,0,0,0.06);
+}
+.pg-testimonial__stars {
+  color: #f4b400;
+  letter-spacing: 0.1em;
+  margin-bottom: 10px;
+  font-size: 0.95rem;
+}
+.pg-testimonial-grid blockquote p { margin: 0 0 12px; line-height: 1.6; }
+.pg-testimonial-grid blockquote footer { color: #777; font-size: 0.9rem; }
+
