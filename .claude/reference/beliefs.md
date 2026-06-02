@@ -12,10 +12,13 @@ What The Degree Gap thinks is true about tutoring. These shape every page.
 
 ## On who we are
 
-- **We're online-only, and we mean it.** Every session runs through Lessonspace. We don't do "in person", "face-to-face" or "home visits". Online means a student gets matched with the right specialist in the country, not the nearest one geographically.
+- **We're an agency, not a principal.** We match families with vetted independent tutors. We don't employ them; they're independent professionals our founders have personally interviewed. Copy should use "tutors on our platform", "tutors in our network", "we match families with" — never "our employed tutors", "our staff tutors", or "we provide tutors". This wording isn't pedantic; it reflects how the business actually operates, and the wrong phrasing misstates the structure.
+- **We're online-only, and we mean it.** Every session runs through our custom in-house platform (interactive whiteboard, session replay). We don't do "in person", "face-to-face" or "home visits". Online means a student gets matched with the right specialist in the country, not the nearest one geographically.
 - **We match, not assign.** Families see profiles. If a tutor isn't the right fit, we re-match without friction.
-- **Price is from £37/hour, set per tutor.** The rate depends on subject and tutor experience and is agreed before booking.
-- **All tutors are graduates,** many from Russell Group universities. Every tutor is vetted on subject knowledge, how they explain things, and how they work with young people. A degree alone isn't enough.
+- **Consultation-first.** Every family speaks with a co-founder before any tutor is matched. No auto-routing, no form-to-introduction pipeline. This is a real brand differentiator and worth naming when describing the matching process — but stays out of the hero (it's not a pain hook).
+- **Pricing.** Standard tutors from £37/hour. Higher rates for more experienced tutors and qualified examiners. Pages default to "£37" as the entry point. Mention the higher tier only when the page's intent is the top end (Oxbridge, Medicine, A* push) — don't lead with it on broad pain-led pages.
+- **The offer goes beyond tutoring sessions.** Families get guidance on subject choices, A-Level strategy and UCAS — drawing on the founders' direct experience. Mention this on pages where the bigger picture is naturally in scope (level pages talking about post-16 routes, the parents-guide page). Not on every page. Use plain language ("guidance on subject choices and university applications"), not jargon like "educational roadmap".
+- **All tutors are graduates,** from top Russell Group universities, most with at least 2 years of one-to-one tutoring experience. Every tutor is vetted on subject knowledge, how they explain things, and how they work with young people. A degree alone isn't enough.
 
 ## On the audience
 

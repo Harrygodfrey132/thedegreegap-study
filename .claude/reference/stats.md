@@ -11,14 +11,15 @@ The verified facts and credentials The Degree Gap can cite on pages. These exist
 - **Best British Curriculum Tutoring Service Provider 2026** — voted by Lux Life
 
 ### Trust signals
-- **Trusted by UK schools** — working relationships with secondary schools across regions
+- **Working directly with 15+ UK secondary schools** — and materials shared with many more
 - **Over 100 five-star reviews on Google** — independently verified
-- **Featured in Forbes and The Independent** — editorial mentions
+- **Featured in Forbes and The Independent** — editorial mentions of co-founder Harry
 
 ### Tutor quality
 - **Only 3% of tutors come onto the platform** — applicant pass rate, reflects how selective the vetting is
 - **Founder-led rigorous interview process** — Joe and Harry interview every tutor personally
-- **All tutors are graduates** — many from Russell Group universities
+- **Most tutors have at least 2 years of one-to-one tutoring experience**
+- **All tutors are graduates** — from top Russell Group universities
 
 ### Founder credentials
 - **Co-founded by an LSE graduate** (Harry)
@@ -26,10 +27,11 @@ The verified facts and credentials The Degree Gap can cite on pages. These exist
 - Joe and Harry have **guided thousands of families through GCSEs**
 
 ### Reach
-- **Over 5,000 parents watched our webinars in 2026**
+- **Over 5,000 parents watched our webinars in the 2026 academic year**
+- **January 2026 webinar alone: over 2,500 views**
 
 ### Technology
-- **Custom in-house tutoring software** — sessions can be watched back afterwards
+- **Custom in-house tutoring platform** — interactive whiteboard plus session replay so students can revisit lessons afterwards
   - **Voice note:** do NOT write "bespoke" — that word sits on the banned list. Use "custom", "in-house", "purpose-built", or "our own platform". The underlying fact is what matters; the wording stays inside the brand voice.
 
 ## Where each one fits naturally
@@ -38,7 +40,7 @@ The verified facts and credentials The Degree Gap can cite on pages. These exist
 |---|---|
 | GCSE Specialists of the Year (Prestige 2025 + 2026) | Hero badge, trust strip near top of page |
 | Lux Life Best Curriculum Provider 2026 | Hero badge alongside Prestige, or in a why-us section |
-| Trusted by UK schools | Schools section, schools_intro on location pages |
+| 15+ UK secondary school partnerships | Schools section, schools_intro on location pages |
 | 100+ Google reviews | Reviews section header, near review carousel |
 | Forbes / The Independent mentions | Hosts/founder section, credibility paragraph |
 | 3% tutor acceptance rate | Why-choose-us, accordion_quality, tutor strip body |
@@ -64,7 +66,7 @@ The verified facts and credentials The Degree Gap can cite on pages. These exist
 
 3. **Skip stats entirely on small, scoped sections.** Eyebrows, CTA strips, one-line captions — these don't need credentials. Let them breathe.
 
-4. **Match the stat to the section's purpose.** Schools intro → "Trusted by UK schools". Tutor strip → "3% acceptance rate". Founder bio → LSE + Forbes/Independent. Don't put webinar attendance numbers on a location page.
+4. **Match the stat to the section's purpose.** Schools intro → "Working directly with 15+ UK secondary schools". Tutor strip → "3% acceptance rate". Founder bio → LSE + Forbes/Independent. Don't put webinar attendance numbers on a location page.
 
 5. **British English and house-style.** "five-star reviews", "co-founded", "5,000 hours" (numerals fine for numbers ≥1,000).
 

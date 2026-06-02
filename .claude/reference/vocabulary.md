@@ -42,6 +42,25 @@ cutting-edge, bespoke, transformative, unlock potential, embark on a journey, wo
 **Swap-outs (when "tutor" is the natural word, don't reach for):**
 educator, mentor, specialist, expert (when used as a noun for the tutor — "tutoring expert" is wrong)
 
+## Agency vs principal language (CRITICAL — we are an agency)
+
+We **match** families with **independent tutors on our platform**. We don't employ them. The wrong phrasing isn't just clumsy — it misstates how the business actually operates. See [[beliefs]] for the why.
+
+**Use these phrasings:**
+- tutors on our platform
+- tutors in our network
+- we match families with [a tutor]
+- vetted to join the platform
+- the tutor sets the pace / the tutor agrees the rate
+
+**Avoid these phrasings:**
+- our employed tutors / we employ
+- our staff tutors / our tutor team / our in-house tutors
+- we provide tutors / our tutors will teach your child
+- "join our team" framings
+
+"Our tutors" is fine as a familiar phrase (it implies "the tutors we work with", not "the tutors we employ"). The hard rule is around *employed*, *staff*, *team*, *provide* — those misstate the structure.
+
 ## House-style spellings
 
 - British English throughout: personalised, organised, colour, programme, behaviour, recognised
