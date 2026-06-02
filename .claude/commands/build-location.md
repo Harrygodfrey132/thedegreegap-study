@@ -7,6 +7,7 @@ Before doing any research, writing, or frontmatter generation, read all files in
 - `.claude/reference/tone.md` — how the voice sounds and doesn't sound
 - `.claude/reference/vocabulary.md` — words to use and words to avoid (this is the authoritative source for the banned-word list — if anything below contradicts it, the reference file wins)
 - `.claude/reference/beliefs.md` — what The Degree Gap believes about tutoring, itself, and the parent audience
+- `.claude/reference/stats.md` — verified stats and credentials (awards, founder background, tutor acceptance rate, etc.). After drafting each section, scan this file and ask: does one stat fit here naturally? Aim for 1-2 stat references per page total. Never force-fit. Never use on H1, intro paragraphs, reviews, or FAQs.
 
 Apply these consistently across every field you write. They override any conflicting guidance in this skill. The skill below describes structure and rotation; the reference files define voice.
 
