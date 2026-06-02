@@ -114,8 +114,8 @@ These pages must rank for level-specific tutoring searches. Google needs to see 
 3. **`hero_heading_line1`** — the H1. Must contain `{Location}` AND `{Level}` AND `Tutors`, plus a pain-point continuation. The whole H1 sits in this field (8-14 words). `hero_heading_line2` is deprecated and must be left as `""`.
 4. **`hero_lead`** — must use the plural phrase `{Location} GCSE tutors` or `{Location} A-Level tutors` at least once. The plural matters — it's what parents type into Google. Singular `{Level} tutor` is fine as an additional mention, but the plural phrase is required.
 5. **`first_lesson_heading`** — must contain `{Level} Tutor` or `{Level} Tutoring`.
-6. **`first_lesson_context`** — must use `{Level} tutor`, `{Level} tutoring`, or `{Level} tuition` at least **2 times** across the paragraph.
-7. **`tutor_strip_heading` + `tutor_strip_body` together** — must use `{Level} tutor` or `{Level} tutoring` at least twice.
+6. **`first_lesson_context`** — must use `{Level} tutor`, `{Level} tutoring`, or `{Level} tuition` at least **2 times** across the paragraph. **Subject-prefixed forms count.** `Baldock GCSE Maths tutor`, `A-Level Chemistry tutor`, `GCSE English Literature tutoring` all count toward the 2× requirement. You do NOT need two contiguous bare `{Level} tutor` matches. **Hard rule:** do not repeat the same bare prefix (e.g. `GCSE tutor` then `GCSE tutoring`) within the same paragraph — that reads as keyword stuffing, not natural writing.
+7. **`tutor_strip_heading` + `tutor_strip_body` together** — must use `{Level} tutor` or `{Level} tutoring` at least twice. Subject-prefixed forms count here too.
 8. **`pathways_heading` + `pathways_lead`** — together must use `{Level} tutor`, `{Level} tutoring`, or `{Level} tuition` at least once.
 9. **`pathways` accordion bodies** — each of the three accordion entries must use `tutor`, `tutoring`, or `tuition` at least once.
 10. **All four FAQs together** — must use `[Location]` and `{Level} tutor`/`{Level} tutoring` at least twice across the four answers combined.
@@ -123,7 +123,7 @@ These pages must rank for level-specific tutoring searches. Google needs to see 
     - `{Level} Maths tutor` / `{Level} Maths tutoring`
     - `{Level} English tutor` / `{Level} English tutoring` (or `{Level} English Literature tutor` for A-Level)
     - `{Level} Sciences tutor` / `{Level} Sciences tutoring` (or one of Biology / Chemistry / Physics named)
-    Spread them across at least two different sections of the page. Do not stack them in one sentence.
+    Spread them across at least two different sections of the page. Do not stack them in one sentence. **Each subject mention must sit in an editorially natural home** — `{Level} Maths tutor` in a sentence about a Maths-specific pain (a Year 8 algebra gap, the calculator paper, pure-vs-mechanics), `{Level} Sciences tutor` in a sentence about required practicals or six-mark calculations, etc. **Banned slip:** stacking two subject mentions into a single sentence with the phrase *"leading subject demand"*, *"lead the demand here"*, *"the most-requested tutors are X and Y"*. These are bolted-on lists, not real writing. If you can't find an editorial home for a subject, change which FAQ you pick so one is subject-specific.
 
 **Keyword variations to weave in naturally:**
 - GCSE tutor / GCSE tutoring / GCSE tuition
@@ -855,6 +855,23 @@ The negative banned-list rules below catch surface tells. They don't fix rhythm.
 
 > cutting-edge, bespoke, transformative, unlock potential, embark on a journey, world-class, real difference, game-changer, the right approach, take their learning to the next level.
 
+### Factual-accuracy guards (common verb mistakes)
+
+When writing about schools, universities, exam boards and tutoring, the wrong verb makes a sentence read as ChatGPT did it. These mistakes recur across pages:
+
+- **Schools do not set exam papers. Exam boards do.** Schools deliver curriculum, teach the specification, and run internal mocks. Do NOT write "the papers Knights Templar and Hitchin set" or "the mark schemes the school sets". Write "the mark schemes those schools teach to" or "the specifications taught at [school]". Exam boards (AQA, Edexcel, OCR, WJEC) are the only entities that set papers.
+- **Universities admit students. They do not hire them.** Hiring is for employees. Write "Nottingham admits", "Cambridge takes", "Loughborough offers places to" — never "Nottingham hires Year 13 students". Employers hire; universities admit.
+- **Tutoring shapes student work; it does not shape predicted grades directly.** Write "tutoring lifts students into the AAB band", "tutoring helps students reach the predicted grade their offer needs". Do NOT write "tutoring shapes predicted grades" or "tuition shapes the grades these schemes screen on". Predicted grades are produced by teachers based on performance; tutoring affects the performance, not the grade itself.
+- **A school is in a place, not a region.** If the page is about Baldock (in North Hertfordshire), do not write "not the nearest tutor to North Herts" — Baldock IS in North Herts, so the sentence contradicts itself. Use "not just the closest one geographically" or "not just whoever lives nearby". Always check: am I drawing a contrast between the location and itself?
+
+### Phrasing slips (specific banned constructions surfaced by audit)
+
+These have shown up across past pages and read as template-fill, not editorial writing:
+
+- **"leading subject demand"** / **"lead the demand here"** / **"the most-requested tutors are X and Y"** — corporate filler. No parent talks like this. If you find yourself reaching for it, you're trying to satisfy the subject-keyword rule without an editorial home. Move the subject mention to a FAQ or pathway that's actually about that subject.
+- **"the gap between a borderline X and a clean one"** — overused. Fine once across the whole page; never as a default close.
+- **Same-prefix keyword repetition within a paragraph** ("GCSE tutor traces… GCSE tutoring closes…"). If you've written `{Level} tutor` once in a paragraph, the second mention must be either subject-prefixed (`A-Level Chemistry tutor`) or just "the tutor" / "tutoring" with no level prefix.
+
 ### Sentence-level rules
 
 - **Burstiness — vary sentence length dramatically.** AI writes in uniformly medium sentences. Mix very short with longer. A two-word sentence after a long one is fine. Use fragments. A paragraph that goes long, short, long, long, short reads human. A paragraph where every sentence is the same length reads AI.
@@ -886,6 +903,13 @@ The negative banned-list rules below catch surface tells. They don't fix rhythm.
 5. **GCSE-vs-A-Level scan (within this run).** Compare your two pages. If a sentence appears on both with only "GCSE"/"A-Level" swapped, rewrite one.
 6. **Burstiness check.** Read three paragraphs in your head. If they sound like a corporate brochure or any two consecutive sentences mirror each other, rewrite.
 7. **Page-level roughness check (not per-paragraph).** Confirm the page as a whole contains: at least one fragment somewhere, at least one sentence opening with And/But/So, and named local detail in at least 2 sections. Do NOT force these into every paragraph — that produces "carefully constructed AI" rhythm. Let some paragraphs be plain. Some sections rougher than others. Inconsistency is human; uniform roughness is AI.
+8. **Factual-accuracy scan** (catches what AI-trained habits get wrong about education):
+   - Search for `school[s]? set[s]? .* paper` — schools don't set exam papers. Rewrite.
+   - Search for `universit(y|ies) hir(e|ing|es)` — universities admit, they don't hire. Rewrite.
+   - Search for `tutoring shapes? .* grades?` or `tuition shapes? .* grades?` — tutoring shapes student work, not grades themselves. Rewrite to "lifts into the X band" or "helps students reach".
+   - Search for the page's region name in `not the` or `not just` constructions — make sure you're not contrasting the page's location with itself ("not the nearest tutor to North Herts" on a page about a town IN North Herts).
+9. **3-item list scan.** Search every body field for sentences containing "X, Y, and Z" patterns where the three items are parallel (e.g. "predicted grades, application essays, and STEM aptitude"). Cut one. The rule is in the anti-AI section but slips through; the pre-save scan catches what was missed.
+10. **Same-prefix keyword repetition scan.** In every paragraph, count uses of `{Level} tutor` and `{Level} tutoring` (the bare forms). If the same bare form appears twice within a paragraph, rewrite one to either the subject-prefixed form (`{Level} Maths tutor`) or drop the level prefix entirely ("the tutor", "tutoring"). Two `GCSE tutor` mentions in adjacent sentences is keyword stuffing.
 8. **Readability scan.** Run the helper script against the just-written file:
    ```bash
    ./scripts/check-readability.sh content/locations/{slug}-tutors/{level}/_index.md
