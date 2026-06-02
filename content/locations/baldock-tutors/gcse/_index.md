@@ -15,14 +15,14 @@ grade_stat: "A real GCSE English grade jump from a Year 10 student we worked wit
 
 first_lesson_eyebrow: "A BALDOCK YEAR 11 STORY"
 first_lesson_heading: "What a Baldock GCSE Tutor Reads in Year 10 Mock Papers"
-first_lesson_context: "GCSE results in Baldock decide everything from the Knights Templar sixth form offer to a Hills Road place in Cambridge. Most students arrive without the exam-paper depth those sixth forms ask for. A good GCSE tutor traces what's missing before any GCSE tutoring plan begins."
+first_lesson_context: "GCSE results in Baldock decide everything from the Knights Templar sixth form offer to a Hills Road place in Cambridge. But most students arrive without the exam-paper depth those sixth forms ask for. A good GCSE tutor traces what's missing before any plan begins."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him."
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 → Grade 7 in GCSE English"
 
 tutor_strip_heading: "Baldock GCSE tutors who know the Knights Templar and Hitchin papers"
-tutor_strip_body: "Most Baldock GCSE tutors have walked students through the mark schemes Knights Templar and Hitchin set their papers from, with GCSE English tutors and GCSE Sciences tutors leading subject demand. Match by exam board, not just subject. Browse profiles, or let us match your child."
+tutor_strip_body: "Most Baldock GCSE tutors have walked students through the exact specifications Knights Templar and Hitchin teach. Match by exam board, not just subject. Browse profiles, or let us match your child."
 
 pathways_heading: "Where Baldock Year 11s Head After GCSEs"
 pathways_lead: "A few of the post-16 routes Baldock GCSE tutoring families take after results day."
@@ -32,10 +32,10 @@ pathways:
       Hitchin Boys' Sixth Form and Hitchin Girls' Sixth Form take most Baldock Year 11s aiming at Russell Group A-Levels, with Hills Road Sixth Form College in Cambridge pulling the most academically ambitious. GCSE tutoring in Year 11 typically lifts predicted grades into the grade 7-plus band those sixth forms ask for.
   - title: "Apprenticeships"
     body: >
-      AstraZeneca and ARM in the Cambridge corridor run apprenticeships hiring out of North Hertfordshire, alongside Lockheed Martin in Letchworth. Most ask for grade 5 in Maths and English, with GCSE Sciences tutoring often the gap between a borderline application and a clean one.
+      AstraZeneca and ARM in the Cambridge corridor run apprenticeships hiring out of North Hertfordshire, alongside Lockheed Martin in Letchworth. Most need grade 5 in Maths and English, and Sciences tutoring is often what gets a borderline application over the line.
   - title: "Further Education"
     body: >
-      North Hertfordshire College has campuses in Hitchin and Stevenage for Level 3 vocational courses, and Long Road Sixth Form College in Cambridge takes Baldock students wanting BTEC alongside A-Levels. GCSE tuition for English and Maths resits is common at both.
+      North Hertfordshire College has campuses in Hitchin and Stevenage for Level 3 vocational courses, and Long Road Sixth Form College in Cambridge takes Baldock students wanting BTEC alongside A-Levels. GCSE Maths and English resits are common at the FE end.
 
 reviews:
   - "Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional. Both my sons exceeded their expected grades in their GCSEs and A Levels and got into their first choice universities. I cannot recommend them highly enough."
@@ -55,13 +55,13 @@ reviews:
   - "Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE. Thank you."
 
 faq_1_q: "Can a Baldock GCSE tutor help with March mock prep?"
-faq_1_a: "Yes. March mocks set the predicted grade that goes to sixth forms, so most Baldock parents come for a focused GCSE tutoring block in January and February. Tutors work through past papers from the right exam board, drill the questions losing the most marks, and rebuild exam-day pacing."
+faq_1_a: "Yes. March mocks set the predicted grade that goes to sixth forms, so most Baldock parents book a focused block in January and February. Tutors work through past papers from the right exam board, then rebuild exam-day pacing on the questions losing the most marks."
 faq_2_q: "My daughter is finding GCSE Maths really tough. What does a Baldock GCSE tutor actually do?"
 faq_2_a: "We start with a diagnostic. Some students need to go back to a Year 8 algebra method that never properly clicked. Others have the content but freeze on the calculator paper. A Baldock GCSE Maths tutor traces the actual gap, then drills the paper 3 problem-solving questions and six-mark Maths problems examiners weight most."
 faq_3_q: "Is GCSE tutoring online or does my child need to travel?"
-faq_3_a: "All GCSE tutoring sessions run online through Lessonspace, a shared whiteboard built for one-to-one work. Baldock families like this because there's no commute on a Tuesday evening, and your child gets the right subject specialist in the country, not the nearest tutor to North Herts."
+faq_3_a: "All sessions run online through Lessonspace, a shared whiteboard built for one-to-one work. Baldock families like this because there's no commute on a Tuesday evening, and your child gets the right subject specialist in the country, not just whoever lives nearby."
 faq_4_q: "What does GCSE tutoring in Baldock cost?"
-faq_4_a: "From £37 per hour. The exact rate depends on the tutor's subject, level, and experience. We agree the rate before anything is booked, and there are no hidden fees or platform charges on top."
+faq_4_a: "From £37 per hour. The exact rate depends on the tutor's subject and experience. We agree it before anything is booked, with no hidden fees or platform charges on top."
 
 sitemap:
   priority: 0.7
