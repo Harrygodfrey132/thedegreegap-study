@@ -29,21 +29,34 @@ These pages must rank for tutoring searches. Google needs to see the target keyw
 
 **Target keyword pattern:** `[Location] tutor` / `[Location] tutoring` / `[Location] tutors`
 
-**Where keywords must appear:**
+**The principle:** modern Google reads topical relevance, not exact-match density. A page with `[Location] tutor` in title, H1 and meta description is already strongly anchored. Stuffing the same phrase into every paragraph reads as desperate, hurts the reader, and triggers helpful-content penalties. Use the keyword where it naturally belongs. No quotas.
 
-1. **Meta description**, must contain "[Location] tutor" or "[Location] tutoring" naturally within the sentence. Not bolted on, woven in.
-2. **Banner heading (H1)**, must contain the word "tutor", "tutors", or "tutoring" AND the location name. A pain-point question that omits "tutor" entirely wastes the most valuable SEO position on the page.
-3. **Banner description**, must contain "tutor", "tutors", or "tutoring".
-4. **intro_1 or intro_2**, together these two paragraphs must use "tutor", "tutors", "tutoring", or "tuition" at least three times naturally.
-5. **schools_intro**, must use "tutor", "tutors", or "tutoring" at least once.
-6. **online_heading**, must contain "online tutor", "online tutoring", or "online tuition" (the word "online" plus a tutoring keyword, together).
-7. **online_1 + online_2 together**, must use "online tutoring", "online tuition", or "online tutor" at least twice across the two paragraphs. "Online" on its own does not count; it has to sit next to a tutoring keyword. This is the page's main online-tuition SEO surface, so do not under-weight it.
-8. **why_heading**, must contain "tutor", "tutoring", "tuition", or "tutoring services". Generic headings like "Why families choose us" waste this position.
-9. **about_heading**, every approved option already pairs the location with "tutor/tutoring/tuition"; keep it that way when substituting.
-10. **why_para_1 + why_para_2 together**, must use "tutor", "tutoring", "tuition", "GCSE tutoring/tutor", or "A-Level tutoring/tutor" at least 3 times naturally across the two paragraphs. The Why section is a major SEO surface. Generic copy that describes patterns without ever using these keywords (e.g. "students arrive with the same pattern... our sessions target the specific gaps") wastes it. Weave the keywords into how you describe what the tutor does.
-11. **accordion_quality, accordion_experience, accordion_personalised**, each accordion body must contain "tutor", "tutoring", or "tuition" at least once. These bodies sit inside the Why section and reinforce the keyword cluster.
+**Hard SEO anchors (must contain the keyword):**
 
-**Keyword variations to use naturally throughout:**
+1. **Meta description** — must contain "[Location] tutor" or "[Location] tutoring" naturally. One mention is enough.
+2. **Banner heading (H1)** — must contain "tutor" / "tutors" / "tutoring" AND the location name. The H1 is the most valuable SEO position; don't waste it on a pain-point question that omits "tutor" entirely.
+3. **Banner description** — should contain "tutor" / "tutors" / "tutoring" once. If it reads better without it, the H1 already carries the anchor.
+4. **online_heading** — should contain "online tutor", "online tutoring", or "online tuition" (the word "online" plus a tutoring keyword, together). This is the natural anchor for the online-tuition section.
+5. **about_heading** — every approved option already pairs the location with "tutor / tutoring / tuition". Keep that pairing when substituting.
+
+**Soft guidance for body sections (no quotas, just natural use):**
+
+6. **intro_1 + intro_2** — use "tutor" / "tutoring" where they fit the sentence. Two or three natural mentions across the pair is plenty. Don't bolt the word into every paragraph close.
+7. **schools_intro** — about the schools, not about tutoring. One natural mention of "tutors" is fine; zero is also fine if the section reads better without it.
+8. **online_1 + online_2** — describe what online tuition is and why it works. The keyword fits naturally because the section IS about online tutoring. Two natural mentions across the pair is normal; three or four reads as stuffing.
+9. **why_heading** — should reference tutoring (this is the natural anchor for the why-us section).
+10. **why_para_1 + why_para_2** — the why section is about what the tutor does and how. Keyword use happens naturally because that's what the paragraphs are about. Don't count. If you've written two paragraphs about how the tutor works with the student, the word will appear. If it doesn't, the writing is too abstract — make it more concrete (what the tutor actually does in a session), not stuff the keyword in.
+11. **accordion bodies** — about the specific claim (quality, experience, personalised approach). Reference tutors where the sentence actually calls for it. Don't bolt the word in.
+
+**Banned phrasings (came out of past audit and read as template-fill):**
+
+- "leading subject demand" / "lead the demand here" / "the most-requested tutors are X and Y"
+- Same bare keyword (`tutor`, `tutoring`) in two adjacent sentences. If you've used it once in a paragraph, use a different form, a pronoun, or drop it the second time.
+- Subject mentions stacked into one sentence as a list (e.g. "Maths tutors and English tutors and Sciences tutors lead the demand").
+
+**If you reach for any of these, you're trying to satisfy a rule that no longer exists. Delete and write what the section is actually about.**
+
+**Keyword variations available to weave in naturally (no quotas):**
 - tutor / tutors / tutoring / tuition
 - private tutor / private tutoring
 - one-to-one tuition / one-to-one tutoring
@@ -51,7 +64,7 @@ These pages must rank for tutoring searches. Google needs to see the target keyw
 - GCSE tutor / A-Level tutor
 - [Location] tutor / [Location] tutoring
 
-**What NOT to do:** Do not replace "tutor" with "educator", "mentor", "specialist", or "expert" when "tutor" is the natural word. Those substitutions lose keyword value. Use them occasionally for variety but never as a default replacement.
+**What NOT to do:** Do not replace "tutor" with "educator", "mentor", "specialist", or "expert" when "tutor" is the natural word. But equally, do not force "tutor" in where another word reads better — "we" is fine, "the team" is fine, "one of our graduates" is fine. Mix freely.
 
 ---
 

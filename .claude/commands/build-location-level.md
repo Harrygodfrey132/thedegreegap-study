@@ -107,23 +107,33 @@ These pages must rank for level-specific tutoring searches. Google needs to see 
 - For GCSE pages: `[Location] GCSE tutor` / `GCSE tutoring [Location]` / `GCSE tutor [Location]`
 - For A-Level pages: `[Location] A-Level tutor` / `A-Level tutoring [Location]` / `A-Level tutor [Location]`
 
-**Where keywords must appear:**
+**The principle:** modern Google reads topical relevance, not exact-match keyword density. A page with `[Location] {Level} Tutors` in the title, H1 and description is already strongly anchored on the target keyword. Stuffing the same phrase into every paragraph produces *worse* SEO outcomes (helpful-content penalties) and a worse reader experience. Use the keyword where it naturally belongs. No quotas.
+
+**Hard SEO anchors (must contain the keyword):**
 
 1. **`title`** — must contain `[Location] {Level} Tutors` or `{Level} Tutor [Location]`.
-2. **`description`** — must contain `[Location] {Level} tutor` or `{Level} tutoring in [Location]` naturally.
+2. **`description`** — must contain `[Location] {Level} tutor` or `{Level} tutoring in [Location]` naturally (single mention is enough).
 3. **`hero_heading_line1`** — the H1. Must contain `{Location}` AND `{Level}` AND `Tutors`, plus a pain-point continuation. The whole H1 sits in this field (8-14 words). `hero_heading_line2` is deprecated and must be left as `""`.
-4. **`hero_lead`** — must use the plural phrase `{Location} GCSE tutors` or `{Location} A-Level tutors` at least once. The plural matters — it's what parents type into Google. Singular `{Level} tutor` is fine as an additional mention, but the plural phrase is required.
+4. **`hero_lead`** — should use the plural phrase `{Location} GCSE tutors` or `{Location} A-Level tutors` once (it's the natural anchor right under the H1). One mention is enough.
 5. **`first_lesson_heading`** — must contain `{Level} Tutor` or `{Level} Tutoring`.
-6. **`first_lesson_context`** — must use `{Level} tutor`, `{Level} tutoring`, or `{Level} tuition` at least **2 times** across the paragraph. **Subject-prefixed forms count.** `Baldock GCSE Maths tutor`, `A-Level Chemistry tutor`, `GCSE English Literature tutoring` all count toward the 2× requirement. You do NOT need two contiguous bare `{Level} tutor` matches. **Hard rule:** do not repeat the same bare prefix (e.g. `GCSE tutor` then `GCSE tutoring`) within the same paragraph — that reads as keyword stuffing, not natural writing.
-7. **`tutor_strip_heading` + `tutor_strip_body` together** — must use `{Level} tutor` or `{Level} tutoring` at least twice. Subject-prefixed forms count here too.
-8. **`pathways_heading` + `pathways_lead`** — together must use `{Level} tutor`, `{Level} tutoring`, or `{Level} tuition` at least once.
-9. **`pathways` accordion bodies** — each of the three accordion entries must use `tutor`, `tutoring`, or `tuition` at least once.
-10. **All four FAQs together** — must use `[Location]` and `{Level} tutor`/`{Level} tutoring` at least twice across the four answers combined.
-11. **Subject-specific phrases must appear in body copy.** Across the page (`first_lesson_context`, `pathways` bodies, `tutor_strip_body`, FAQs) include at least one explicit mention of each of:
-    - `{Level} Maths tutor` / `{Level} Maths tutoring`
-    - `{Level} English tutor` / `{Level} English tutoring` (or `{Level} English Literature tutor` for A-Level)
-    - `{Level} Sciences tutor` / `{Level} Sciences tutoring` (or one of Biology / Chemistry / Physics named)
-    Spread them across at least two different sections of the page. Do not stack them in one sentence. **Each subject mention must sit in an editorially natural home** — `{Level} Maths tutor` in a sentence about a Maths-specific pain (a Year 8 algebra gap, the calculator paper, pure-vs-mechanics), `{Level} Sciences tutor` in a sentence about required practicals or six-mark calculations, etc. **Banned slip:** stacking two subject mentions into a single sentence with the phrase *"leading subject demand"*, *"lead the demand here"*, *"the most-requested tutors are X and Y"*. These are bolted-on lists, not real writing. If you can't find an editorial home for a subject, change which FAQ you pick so one is subject-specific.
+
+**Soft guidance for body sections (no quotas, just natural use):**
+
+6. **`first_lesson_context`** — use `{Level} tutor` or `{Level} tutoring` where it fits the sentence. **One natural mention is enough.** Do not repeat the same prefix in adjacent sentences — that's stuffing.
+7. **`tutor_strip_heading` + `tutor_strip_body`** — the heading typically carries the keyword. The body can reference "the tutor" or "tutors" without the level prefix if that reads better.
+8. **`pathways_heading` + `pathways_lead`** — one mention of `{Level} tutor/tutoring/tuition` across the heading and lead is fine. If it doesn't fit, skip it — the pathways section is about destinations, not tutoring.
+9. **`pathways` accordion bodies** — these should be about the destination (sixth form, university, employer), not the tutoring. **Do not force a tutor/tutoring/tuition mention into every body.** If one of the three bodies naturally references how tutoring helps reach that destination, fine. If none do, also fine. Editorial fit beats density.
+10. **FAQs** — answer the question. If the question is about Maths or online sessions or cost, the answer naturally uses the relevant keyword. Don't bolt the location-plus-level phrase into every answer.
+11. **Subject mentions across the page** — at some point the page should reference real subject pain (Maths foundation gaps, English essay structure, Sciences required practicals). When you do, the phrase "{Level} Maths tutor" or "A-Level Chemistry tutor" should sit inside that natural editorial context — not be listed as "the most-requested subjects" or "leading subject demand". **Quota: zero.** Mention what the page is actually about. If a page leans into the Maths angle, Maths gets named multiple times. If it leans into UCAS essay work, English Literature gets named. Topic-led writing beats checklist-led writing every time.
+
+**Banned phrasings (these came out of past audit and read as template-fill):**
+
+- "leading subject demand"
+- "lead the demand here"
+- "the most-requested tutors are X and Y"
+- Same bare prefix (`GCSE tutor`, then `GCSE tutoring`) in two adjacent sentences
+
+**If you're tempted to write any of those, you've reached for a list to satisfy a rule. Delete the list and write what the section is actually about.**
 
 **Keyword variations to weave in naturally:**
 - GCSE tutor / GCSE tutoring / GCSE tuition
@@ -908,8 +918,8 @@ These have shown up across past pages and read as template-fill, not editorial w
    - Search for `universit(y|ies) hir(e|ing|es)` — universities admit, they don't hire. Rewrite.
    - Search for `tutoring shapes? .* grades?` or `tuition shapes? .* grades?` — tutoring shapes student work, not grades themselves. Rewrite to "lifts into the X band" or "helps students reach".
    - Search for the page's region name in `not the` or `not just` constructions — make sure you're not contrasting the page's location with itself ("not the nearest tutor to North Herts" on a page about a town IN North Herts).
-9. **3-item list scan.** Search every body field for sentences containing "X, Y, and Z" patterns where the three items are parallel (e.g. "predicted grades, application essays, and STEM aptitude"). Cut one. The rule is in the anti-AI section but slips through; the pre-save scan catches what was missed.
-10. **Same-prefix keyword repetition scan.** In every paragraph, count uses of `{Level} tutor` and `{Level} tutoring` (the bare forms). If the same bare form appears twice within a paragraph, rewrite one to either the subject-prefixed form (`{Level} Maths tutor`) or drop the level prefix entirely ("the tutor", "tutoring"). Two `GCSE tutor` mentions in adjacent sentences is keyword stuffing.
+9. **3-item list scan.** Search every body field for sentences containing "X, Y, and Z" patterns where the three items are parallel (e.g. "predicted grades, application essays, and STEM aptitude"). Cut one.
+10. **Stuffing scan.** Read each paragraph aloud in your head. If any sentence repeats `{Level} tutor` / `{Level} tutoring` from the previous sentence, rewrite one. If any sentence lists subjects with "tutor" appended ("Maths tutors and English tutors and Sciences tutors"), rewrite the section to be about a topic, not a list. **There are no keyword quotas. If the writing reads forced, the keyword was forced. Cut it.**
 8. **Readability scan.** Run the helper script against the just-written file:
    ```bash
    ./scripts/check-readability.sh content/locations/{slug}-tutors/{level}/_index.md
