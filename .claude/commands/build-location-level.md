@@ -531,7 +531,7 @@ Write a fresh one. e.g. for Birmingham GCSE: `What a Birmingham GCSE Tutor Spots
 
 ### First Lesson Context (`first_lesson_context`) — pick a structural opener
 
-Four shapes. Pick one different from the last page in the repo. **Hard length cap: 2-3 sentences. Prefer 2.** Must include the level-specific tutor keyword 2x.
+Four shapes. Pick one different from the last page in the repo. **Hard length cap: 2-3 sentences. Prefer 2.** Use the level-specific tutor keyword where it fits the sentence — one natural mention is enough. Do not force a second.
 
 **Why short:** The hero area at the top of the page already does the heavy lifting. The grade-jump card, the parent quote, and the eyebrow/heading all sit right here too. This paragraph is a short bridge between the hero and the quote — not an essay. Two tight sentences beats five polished ones. AI detectors penalise length AND parents skim past long top-of-page blocks.
 
@@ -634,7 +634,7 @@ The level template does not use `about_heading`. Skip.
 
 The previous version of this skill dictated the same 4 questions in the same phrasing for every page. Stop doing that. Pick 4 questions from the bank below that fit the page's angle, and use the phrasings as a starting point — vary the wording.
 
-**Rule:** Across the four FAQs, the answers together must use `[Location]` and `{Level} tutor`/`{Level} tutoring` at least twice combined.
+**No keyword quotas on FAQ answers.** Each answer addresses the question. If the question is about Maths or online sessions or cost, the answer naturally uses the relevant keyword. Don't bolt `{Location} {Level} tutor` into every answer to satisfy a count.
 
 ### GCSE FAQ Bank (pick 4, never the same 4 as the last GCSE page)
 
@@ -786,7 +786,7 @@ grade_stat: "[1 sentence quoting/paraphrasing the explicit grade jump from the a
 
 first_lesson_eyebrow: "[Fresh, inspired by eyebrow examples — short uppercase tag 3-6 words, prefer city-specific]"
 first_lesson_heading: "[Fresh, inspired by heading examples — must contain {Level} Tutor or {Level} Tutoring]"
-first_lesson_context: "[2-3 sentences max, prefer 2. NO specific attainment numbers/percentages. Qualitative context only. Level tutor keyword 2x. Pick a structural shape]"
+first_lesson_context: "[2-3 sentences max, prefer 2. NO specific attainment numbers/percentages. Qualitative context only. Use the level tutor keyword where it fits — one natural mention is enough. Pick a structural shape]"
 first_lesson_quote: "[Real review verbatim — must match level (GCSE/A-Level) of this page]"
 first_lesson_quote_name: "[First name + initial]"
 first_lesson_quote_role: "[Parent of GCSE Student / Parent of A-Level Student / etc.]"
@@ -802,13 +802,13 @@ pathways_lead: "[One fresh sentence, picked structural shape — never copied ve
 pathways:
   - title: "[Sixth Forms / Universities]"
     body: >
-      [2 sentences max. Names ≥2 specific local entities. tutor/tutoring/tuition keyword ≥1. Stop after 2 sentences.]
+      [2 sentences max. Names ≥2 specific local entities. Body is about the destination, not about tutoring. Use a tutor/tutoring/tuition mention only if the sentence naturally calls for one. Stop after 2 sentences.]
   - title: "[Apprenticeships / Degree Apprenticeships]"
     body: >
-      [Same — 2 sentences max, ≥2 named entities, tutor/tutoring/tuition ≥1.]
+      [Same — 2 sentences max, ≥2 named entities. No keyword quota — write what the section is about.]
   - title: "[Further Education / Career Pathways]"
     body: >
-      [Same — 2 sentences max, ≥2 named entities, tutor/tutoring/tuition ≥1.]
+      [Same — 2 sentences max, ≥2 named entities. No keyword quota.]
 
 reviews:
   - "Name|Role|Review text"   # 15-25 entries, level-filtered, varied order
@@ -947,19 +947,15 @@ For **each page** built:
 - [ ] `level` is exactly `"GCSE"` or `"A-Level"`
 - [ ] `location` matches the parent page spelling
 
-**SEO:**
+**SEO (hard anchors only — no body-section quotas):**
 - [ ] Title 65 chars or fewer, contains location + level
-- [ ] Description 145-160 chars, contains level + tutor/tutoring + location
+- [ ] Description 145-160 chars, contains level + tutor/tutoring + location (one natural mention)
 - [ ] `hero_heading_line1` is the full H1 (8-14 words) containing location + level + Tutors + pain-point continuation
 - [ ] `hero_heading_line2` is `""` (empty)
-- [ ] `hero_lead` uses level + tutor/tutoring at least once
+- [ ] `hero_lead` uses the plural phrase `{Location} {Level} tutors` once (natural anchor under the H1)
 - [ ] `first_lesson_heading` contains `{Level} Tutor` or `{Level} Tutoring`
-- [ ] `first_lesson_context` uses level-specific tutor keyword ≥ 2x
-- [ ] `tutor_strip_heading` + `tutor_strip_body` together use level tutor keyword ≥ 2x
-- [ ] `pathways_heading` + `pathways_lead` together use level tutor keyword ≥ 1x
-- [ ] Each `pathways` body uses tutor/tutoring/tuition ≥ 1x
-- [ ] FAQs collectively use level + location + tutor keyword ≥ 2x
-- [ ] At least one explicit mention of `{Level} Maths tutor`, `{Level} English tutor`, and `{Level} Sciences tutor` (or named Biology/Chemistry/Physics) across the page
+- [ ] Body sections (`first_lesson_context`, `tutor_strip_body`, pathway bodies, FAQ answers) use the keyword where it fits the sentence. **Do not count.** If a section reads better without a level-prefixed mention, leave it out. The title, H1, and description already anchor the page.
+- [ ] Page-level smell test: read each body field aloud. If any sentence repeats `{Level} tutor` / `{Level} tutoring` from the previous sentence, rewrite. If subject mentions are listed in one sentence ("Maths tutors and English tutors"), rewrite the section to be about a topic.
 
 **Content quality:**
 - [ ] `first_lesson_context` contains zero specific attainment numbers, percentages, or scores. Qualitative context only.

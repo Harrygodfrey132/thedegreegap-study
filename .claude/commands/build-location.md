@@ -404,7 +404,7 @@ Across a batch of pages, never produce two why_para_1 openings that share the sa
 - No placeholder language.
 - British English.
 - These should feel like they belong to this page, not like recycled generic copy.
-- **Keyword density matters here.** This is the section Qamar specifically flagged as reading too generic on early pages. `why_para_1 + why_para_2` together must use "tutor", "tutoring", "tuition", "GCSE tutoring", or "A-Level tutoring" at least 3 times. Each of the three accordion bodies must use "tutor", "tutoring", or "tuition" at least once. Don't write around the keyword, write through it. "Our tutors find..." beats "We find...". "GCSE tutoring sessions start with..." beats "Sessions start with...".
+- **Concreteness matters more than keyword count.** Qamar's original feedback was that early pages read too generic — the cure is concrete, what-the-tutor-actually-does writing, not stuffing the keyword. "Our tutors find the Year 8 algebra method that never clicked" is concrete and naturally uses the keyword. "Our tutors find what each student needs" is generic AND uses the keyword. Generic wins no SEO; concrete does. **No quotas:** if the section reads like a real account of what a tutor does, the word will appear. If it doesn't, the writing is too abstract — make it more concrete, not stuff "tutor" into more sentences.
 
 ### Academic Subjects (names and URLs fixed, descriptions original per page)
 
@@ -705,14 +705,11 @@ Use as a vocabulary bank, weave concepts into original sentences, never copy ver
 - [ ] Is the title 65 characters or fewer? Count them.
 - [ ] Does the about_heading use one of the 10 approved variations with the location name substituted?
 - [ ] Does the banner_heading contain the location name AND "tutor", "tutors", or "tutoring"?
-- [ ] Does the meta description contain "[Location] tutor" or "[Location] tutoring"?
-- [ ] Do intro_1 and intro_2 together use "tutor/tutors/tutoring/tuition" at least three times?
+- [ ] Does the meta description contain "[Location] tutor" or "[Location] tutoring" (one natural mention)?
 - [ ] Does the online_heading contain "online tutor", "online tutoring", or "online tuition"?
-- [ ] Do online_1 and online_2 together include "online tutoring", "online tuition", or "online tutor" at least twice?
 - [ ] Does why_heading include "tutor", "tutoring", "tuition", or "tutoring services"?
-- [ ] Do why_para_1 and why_para_2 together use "tutor/tutoring/tuition/GCSE tutoring/A-Level tutoring" at least 3 times?
-- [ ] Does each accordion body (quality, experience, personalised) include "tutor", "tutoring", or "tuition" at least once?
 - [ ] Does `about_heading` contain "tutor" or "tutoring" (not just "tuition")?
+- [ ] Stuffing smell test: read intro_1, intro_2, online_1, online_2, why_para_1, why_para_2 and each accordion body aloud. If any sentence repeats "tutor" / "tutoring" from the previous sentence, or if a section reads like the keyword was bolted in, rewrite. **No body-section quotas.** Hard anchors are title, meta description, H1, online_heading, why_heading, about_heading — those carry the SEO load. Body sections use the keyword where it fits the sentence.
 - [ ] Do subject names use the full form (e.g. `GCSE Maths Tuition`, `A-Level Chemistry Tuition`) rather than bare subject names?
 - [ ] Does the opening read like original writing, not a filled-in template?
 - [ ] Would a reader notice the difference between this and another location's page?
