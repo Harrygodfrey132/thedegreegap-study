@@ -448,10 +448,11 @@ Never paste verbatim. The bank is inspiration, not copy-paste source.
 
 **How to use the hook bank:**
 - Pick **one** hook that matches the city's strongest pain (the angle you identified in research).
-- For Hero Line 2: extract the pain phrase, compress to 6 words or fewer (e.g. hook #20 "Aiming for grade 9 across the board" → `For Grade 9 Across the Board`).
+- For the H1 (`hero_heading_line1`): extract the pain phrase and fit it into the 8-14 word H1 structure (see the four H1 shapes above). E.g. hook #4 ("Stuck on a Year 8 topic that never clicked") → `Birmingham GCSE Tutors Who Find the Year 8 Gap`.
 - For Hero Lead: use the hook's Q+A shape as a starting point, then rewrite both sentences with city-specific anchors (named school, employer, sixth-form).
 - Never paste the hook verbatim. The bank is inspiration, not copy-paste source. Pages need fresh wording.
 - Cross-check: if the last city's page used hook #N, your page picks a different one.
+- **Reminder:** `hero_heading_line2` is deprecated. The whole H1 sits in `hero_heading_line1`. Leave line 2 as an empty string.
 
 ---
 
@@ -566,7 +567,7 @@ For Birmingham GCSE you might write: `Birmingham GCSE tutors who've sat the King
 
 ### Tutor Strip Body (`tutor_strip_body`) — short
 
-**Hard cap: 2-3 sentences.** Must use the plural keyword `{Location} {Level} tutors` once. Must reference one specific local thing (a school, a subject paper, a geography). End with a one-line CTA ("Browse profiles, or let us match your child."). Total length under 50 words.
+**Hard cap: 2-3 sentences.** The heading already carries the plural keyword. The body should reference one specific local thing (a school, a subject paper, a geography). If "tutors" or "the tutor" fits a sentence naturally, use it. If the body reads better without a level-prefixed mention, leave it out. End with a one-line CTA ("Browse profiles, or let us match your child."). Total length under 50 words.
 
 Don't try to do everything in this slot. The tutor cards underneath are the substance. This body is just a frame.
 
@@ -615,8 +616,9 @@ The old skill let pathways bodies run 4-6 sentences. That length is the single h
 
 Each body must:
 - Name at least 2 specific local entities (schools, universities, employers — real names).
-- Use `tutor`, `tutoring`, or `tuition` once.
 - Stop after 2 sentences. If it feels incomplete, that's fine. Incomplete reads more human than thorough.
+
+Each body **may** use `tutor`, `tutoring`, or `tuition` once if it fits the sentence — but **don't force it.** Pathway bodies are about the destination (the sixth form, the university, the apprenticeship), not about tutoring. One of the three bodies naturally referencing how tutoring helps reach that destination is fine. Three of three forcing the word in is a checklist, not editorial writing.
 
 Example (good, GCSE Apprenticeships, Birmingham):
 > "HSBC's Birmingham HQ runs degree apprenticeships in finance and tech, and HS2 hires engineering apprentices from Curzon Street. Most need grade 5 in Maths and English, with GCSE Sciences tutoring often what gets students through the technical-route gate."
@@ -793,7 +795,7 @@ first_lesson_quote_role: "[Parent of GCSE Student / Parent of A-Level Student / 
 first_lesson_quote_grade: "[Grade X → Grade Y in [Subject]]"
 
 tutor_strip_heading: "[Fresh, inspired by tutor strip examples — 6-10 words, one specific anchor, never picked verbatim]"
-tutor_strip_body: "[2-3 sentences, under 50 words. MUST use plural keyword '{Location} {Level} tutors' once. Names ≥1 specific local thing. End with short CTA]"
+tutor_strip_body: "[2-3 sentences, under 50 words. The heading already carries the keyword. Body references one specific local thing (a school, a paper, a geography). Use 'tutors' / 'the tutor' if it fits a sentence naturally; don't force a level-prefixed mention. End with short CTA]"
 
 # NOTE: `schools` and `area_links` arrays are NOT rendered by the subject.html template. Skip both on new level pages.
 
@@ -920,7 +922,7 @@ These have shown up across past pages and read as template-fill, not editorial w
    - Search for the page's region name in `not the` or `not just` constructions — make sure you're not contrasting the page's location with itself ("not the nearest tutor to North Herts" on a page about a town IN North Herts).
 9. **3-item list scan.** Search every body field for sentences containing "X, Y, and Z" patterns where the three items are parallel (e.g. "predicted grades, application essays, and STEM aptitude"). Cut one.
 10. **Stuffing scan.** Read each paragraph aloud in your head. If any sentence repeats `{Level} tutor` / `{Level} tutoring` from the previous sentence, rewrite one. If any sentence lists subjects with "tutor" appended ("Maths tutors and English tutors and Sciences tutors"), rewrite the section to be about a topic, not a list. **There are no keyword quotas. If the writing reads forced, the keyword was forced. Cut it.**
-8. **Readability scan.** Run the helper script against the just-written file:
+11. **Readability scan.** Run the helper script against the just-written file:
    ```bash
    ./scripts/check-readability.sh content/locations/{slug}-tutors/{level}/_index.md
    ```
