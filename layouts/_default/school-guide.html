@@ -4,20 +4,20 @@
 {{ end }}
 
 {{ define "main" }}
-<section class="book-call book-call--daily-info">
+<section class="book-call book-call--school-guide">
   <div class="container book-call__container">
 
     <div class="book-call__grid">
 
       <div class="book-call__main">
-        <a href="https://www.dailyinfo.co.uk" target="_blank" rel="noopener" class="book-call__endorsement" aria-label="In partnership with Daily Info">
+        <a href="https://www.schoolguide.co.uk/tutordirectory" target="_blank" rel="noopener" class="book-call__endorsement" aria-label="In partnership with SchoolGuide — visit their tutor directory">
           <span class="book-call__endorsement-label">In partnership with</span>
-          <img src="/images/partners/daily-info-logo.png" alt="Daily Info" width="170" height="58" loading="lazy">
+          <img src="/images/partners/school-guide-logo.png" alt="SchoolGuide" width="200" height="27" loading="lazy">
         </a>
 
         <header class="book-call__head">
           <h1>Let's find the right tutor for your child.</h1>
-          <p class="book-call__subhead">Thank you so much for reaching out from Daily Info. Our tutors cover the whole of Oxfordshire, and if you're looking for a particular need, we're definitely here to support you.</p>
+          <p class="book-call__subhead">Thank you for reaching out from SchoolGuide. We work with them to make sure secondary school children across the UK get the academic support they need, from a tutor who knows their subject and exam board.</p>
         </header>
 
         <div class="book-call__media">
@@ -63,13 +63,13 @@
 
       <div class="book-call__form-wrap">
         <div class="book-call__form-card">
-          <p class="book-call__form-tag">For Daily Info readers</p>
+          <p class="book-call__form-tag">For SchoolGuide parents</p>
           <h2>Want your child to walk into their exams feeling ready?</h2>
           <p class="book-call__form-sub">Free 15-minute call. Joe will explain how we work, answer your questions, and give honest advice on whether tutoring is right for your child.</p>
 
           <form action="{{ .Site.Params.formspreeEndpoint }}" method="POST" novalidate class="book-call__form">
-            <input type="hidden" name="_subject" value="Daily Info tutoring enquiry">
-            <input type="hidden" name="source" value="referred-by-daily-info">
+            <input type="hidden" name="_subject" value="SchoolGuide tutoring enquiry">
+            <input type="hidden" name="source" value="referred-by-school-guide">
             <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" class="book-call__honeypot">
 
             <div class="book-call__row">
