@@ -1,6 +1,6 @@
 ---
 title: "GCSE & A-Level Tutors in Baldock | The Degree Gap"
-description: "Looking for a Baldock tutor for GCSE or A-Level? We match families with vetted private tutors who know the local schools and what top mark bands actually require."
+description: "Looking for a Baldock tutor for GCSE or A-Level? We match families with vetted private tutors who know the local schools and the top mark bands."
 layout: "single"
 location: "Baldock"
 banner_heading: "Baldock tutors for the GCSE and A-Level grades that don't happen by accident"

@@ -23,7 +23,7 @@
       <div class="gs-tutor-strip__gallery" data-tutor-gallery aria-label="{{ $level }} tutor profiles">
         {{ range $tutors }}
         <a class="gs-tutor-card" href="#get-help" aria-label="Get matched with a {{ $level }} tutor like {{ .name }}">
-          <img src="{{ .image }}" alt="{{ .name }}" loading="lazy" decoding="async"
+          <img src="{{ .image }}" alt="{{ .name }}" width="300" height="300" loading="lazy" decoding="async"
                onerror="var c=this.closest('.gs-tutor-card');c.dataset.broken='1';if(window.__tutorGalleryRebalance)window.__tutorGalleryRebalance();">
           <span class="gs-tutor-card__name">{{ .name }}</span>
         </a>

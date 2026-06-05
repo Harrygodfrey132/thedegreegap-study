@@ -1,6 +1,6 @@
 ---
 title: "GCSE Physics Tutors in Derby | The Degree Gap"
-description: "Find experienced GCSE Physics tutors in Derby. One-to-one tuition tailored to AQA, Edexcel and OCR — close the maths-in-physics gap and build exam confidence."
+description: "Experienced GCSE Physics tutors in Derby. One-to-one tuition tailored to AQA, Edexcel and OCR. Close the maths-in-physics gap, build exam confidence."
 layout: "subject-location"
 location: "Derby"
 subject: "GCSE Physics"

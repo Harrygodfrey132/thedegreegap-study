@@ -344,7 +344,7 @@
 
       <div class="gs-pathways__image">
         {{ $pathwaysImage := .Params.pathways_image | default (cond $isAlevel "/images/graduation-ceremony-caps.jpg" "/images/school-clock-tower-building.jpg") }}
-        <img src="{{ $pathwaysImage }}" alt="{{ cond $isAlevel (printf "University graduation representing the next step after A-Levels in %s" $loc) (printf "A school building representing the next step after GCSEs in %s" $loc) }}" loading="lazy" decoding="async">
+        <img src="{{ $pathwaysImage }}" alt="{{ cond $isAlevel (printf "University graduation representing the next step after A-Levels in %s" $loc) (printf "A school building representing the next step after GCSEs in %s" $loc) }}" width="1500" height="1000" loading="lazy" decoding="async">
       </div>
 
     </div>

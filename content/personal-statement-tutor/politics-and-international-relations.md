@@ -1,6 +1,6 @@
 ---
 title: "Politics & IR Personal Statement"
-description: "How to write a Politics and International Relations personal statement for UK universities. What admissions tutors look for, IR theory, and how to structure it."
+description: "How to write a Politics and IR personal statement for UK universities. What admissions tutors look for, IR theory, and how to structure it."
 subject: "Politics and International Relations"
 form_cta: "Build a Politics and IR statement around a real political idea"
 form_intro: "Tell us which thinker, theory, institution, or political question you want to anchor your statement around, and we will help you turn it into a focused argument."

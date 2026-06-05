@@ -23,7 +23,7 @@
       <div class="ps-tutor-strip__gallery" data-ps-tutor-strip aria-label="Personal statement tutor profiles">
         {{ range $tutors }}
         <a class="ps-tutor-card" href="{{ .url }}" target="_blank" rel="noopener" aria-label="View {{ .name }}'s tutor profile">
-          <img src="{{ .image }}" alt="{{ .name }}" loading="lazy" decoding="async">
+          <img src="{{ .image }}" alt="{{ .name }}" width="300" height="300" loading="lazy" decoding="async">
         </a>
         {{ end }}
       </div>

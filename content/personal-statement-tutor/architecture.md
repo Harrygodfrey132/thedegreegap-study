@@ -1,6 +1,6 @@
 ---
 title: "Architecture Personal Statement Help"
-description: "How to write an Architecture personal statement for UK universities. What admissions tutors look for, portfolio context, RIBA Part 1 routes, and course shape."
+description: "How to write an Architecture personal statement for UK universities. Portfolio context, RIBA Part 1 routes, and what admissions tutors look for."
 subject: "Architecture"
 form_cta: "Shape an Architecture statement around the course you're actually applying for"
 form_intro: "Tell us which Architecture courses you're targeting and what your portfolio is doing, and we'll help you write a statement that matches the shape of each department."

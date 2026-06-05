@@ -1,6 +1,6 @@
 ---
 title: "Engineering Personal Statement Help"
-description: "How to write an Engineering personal statement for UK universities. What admissions tutors look for across mechanical, civil, electrical and aerospace routes."
+description: "How to write an Engineering personal statement. What UK admissions tutors look for across mechanical, civil and aerospace routes."
 subject: "Engineering"
 admissions_tests:
   - name: "ESAT"
