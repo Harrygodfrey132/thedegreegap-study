@@ -22,6 +22,7 @@ What The Degree Gap thinks is true about tutoring. These shape every page.
 
 ## On the audience
 
+- **The audience is parents worried about their child's grades.** That's the starting frame for every page. Not students choosing a tutor. Not schools procuring a service. Parents, usually at the point where a predicted grade has slipped, a mock landed badly, or the GCSE-to-A-Level jump is biting. Every headline, lead and section should pass the "would a worried parent nod at this?" test.
 - **Parents are the buyer.** Pages should make a parent nod, not a teenager. The student is the user; the parent is the one searching, comparing, and paying.
 - **Most parents are not at the niche end.** Most aren't applying to Oxbridge or HSBC. Hero copy speaks to broadly-felt pain (predicted grades, mocks, the GCSE-to-A-Level jump). Niche framings (Medicine, Russell Group A*, degree apprenticeships) belong in body sections, not the hero.
 - **The pain is specific, not abstract.** A parent doesn't search "we need tutoring". They search "GCSE Maths tutor [city]" because they've watched a specific topic slip for three months. Pages should reflect that specificity.
