@@ -1,5 +1,6 @@
 ---
 title: "St Albans Tutors | One-to-One Tuition | The Degree Gap"
+nav_title: "St Albans"
 description: "Find a St Albans tutor for GCSE and A-Level: one-to-one tuition built for a high-attainment commuter city where good enough rarely is."
 layout: "single"
 location: "St Albans"

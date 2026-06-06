@@ -7,7 +7,7 @@
 <title>{{ if .IsHome }}{{ .Site.Title }}{{ else if in .Title "The Degree Gap" }}{{ .Title }}{{ else }}{{ .Title }} | The Degree Gap{{ end }}</title>
 <meta name="description" content="{{ $desc }}">
 <meta name="author" content="The Degree Gap">
-{{ if $isPastPapers }}<meta name="robots" content="noindex, nofollow">{{ end }}
+{{ if .Params.robots }}<meta name="robots" content="{{ .Params.robots }}">{{ else if $isPastPapers }}<meta name="robots" content="noindex, nofollow">{{ end }}
 <link rel="canonical" href="{{ .Permalink }}">
 
 <!-- Open Graph -->

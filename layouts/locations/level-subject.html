@@ -1,0 +1,445 @@
+{{ define "main" }}
+
+{{/* ── Frontmatter variables ── */}}
+{{ $loc      := .Params.location | default "Your Area" }}
+{{ $level    := .Params.level    | default "GCSE" }}
+{{ $subject  := .Params.subject  | default "Maths" }}
+{{ $isAlevel := eq $level "A-Level" }}
+
+{{/* ── Hero ── */}}
+{{ $heroH1   := .Params.hero_h1   | default (printf "%s %s Tutors in %s" $level $subject $loc) }}
+{{ $heroLead := .Params.hero_lead | default (printf "One-to-one %s %s tutors who fit around school, find the exact marks slipping in the top mark band, and rebuild from there. Vetted, matched to your exam board, online from £37/hr." (lower $subject) $level) }}
+
+{{/* ── Subject angle ── */}}
+{{ $angleEyebrow  := .Params.angle_eyebrow  | default (printf "WHY %s %s, SPECIFICALLY" ($subject | upper) ($level | upper)) }}
+{{ $angleHeading  := .Params.angle_heading  | default (printf "What a strong %s %s tutor actually does for %s students" $level $subject $loc) }}
+{{ $angleBody1    := .Params.angle_body_1   | default (.Params.angle_body | default (printf "Most %s students know more %s than their mock grade suggests. The marks they're losing sit in two or three specific places — an algebra step that quietly broke earlier, a topic the school rushed through, the question style that always loses three marks." $loc $subject)) }}
+{{ $angleBody2    := .Params.angle_body_2   | default (printf "A good %s %s tutor sits a student through harder questions than school sets, finds those exact gaps in week one, and the plan from session two works back through them. For %s sixth-form offers, that's the difference that earns the place." $level $subject $loc) }}
+{{ $angleImage    := .Params.angle_image    | default "/images/students-in-classroom-taking-notes.jpg" }}
+{{ $angleImageAlt := .Params.angle_image_alt | default (printf "A %s student working through a %s problem with a tutor" $level $subject) }}
+{{ $mapUrl        := .Params.map_url        | default (printf "https://maps.google.com/maps?q=%s,UK&output=embed" (replace $loc " " "+")) }}
+{{ $angleStatFrom   := .Params.angle_stat_from   | default (cond $isAlevel "C" "6") }}
+{{ $angleStatTo     := .Params.angle_stat_to     | default (cond $isAlevel "A" "8") }}
+{{ $angleStatDetail := .Params.angle_stat_detail | default (printf "Grade lift achieved by one of our %s %s students in %s in a single term." $loc $level $subject) }}
+{{ $schools := .Params.schools | default (slice) }}
+
+
+{{/* ── 3 Steps (per-page overridable) ── */}}
+{{ $stepsHeading := .Params.steps_heading | default (printf "Start %s %s tutoring in %s in 3 steps" $level $subject $loc) }}
+{{ $stepsLead    := .Params.steps_lead    | default "From first call to first lesson in under a week — no admin, no awkwardness, no obligation." }}
+{{ $steps := .Params.steps | default (slice
+  (dict "title" "Share your goals" "body" (printf "Tell us your child's year group, school, exam board, current grade and the %s %s grade they're aiming at in %s. We listen, take notes, and ask the right questions." $level $subject $loc))
+  (dict "title" "Meet your match" "body" (printf "Within 24 hours we send two or three vetted %s %s tutor profiles for %s, with a recommended first match. Free 15-minute video meeting before any session is booked." $level $subject $loc))
+  (dict "title" "Start the lessons" "body" (printf "Weekly one-to-one %s sessions over Lessonspace — our shared interactive whiteboard. Pay only for sessions you take, from £37/hr. Cancel any time." $subject))) }}
+
+{{/* ── FAQs ── */}}
+{{ $defaultFaqs := slice
+  (dict "q" (printf "What makes a good %s %s tutor?" $level $subject) "a" (printf "Subject knowledge is a must, but the real difference is the ability to find the exact point where a student stopped following — sometimes a year or two before %s — and explain it in a way that finally lands. Our %s %s tutors are vetted on how clearly they explain difficult ideas under pressure, not just on degree results. Roughly one in eight applicants make it onto the platform." $level $level $subject))
+  (dict "q" (printf "How do you match my child with the right %s %s tutor in %s?" $level $subject $loc) "a" (printf "We start with a free 15-minute consultation: year group, exam board, current grade, target grade, the school they're at in %s, and personality fit. We then send two or three %s %s tutor profiles within 24 hours, with a recommended first match. If the first session doesn't feel right, we move you to another tutor at no charge." $loc $level $subject))
+  (dict "q" (printf "Which exam boards do your %s %s tutors cover?" $level $subject) "a" (printf "All major UK exam boards — AQA, Edexcel, OCR, WJEC and CIE. When we make an introduction, we check the tutor knows your child's specific specification. A %s %s tutor who knows the exact mark scheme can target the right content from session one rather than burning time on generic revision." $level $subject))
+  (dict "q" (printf "How much does %s %s tutoring cost in %s?" $level $subject $loc) "a" (printf "From £37 per hour. Rates vary by tutor and experience level. You see the agreed rate before any session is booked. Most %s families take weekly hour-long sessions, with a second session added in the run-up to mocks." $loc))
+  (dict "q" (printf "How quickly can my child start %s %s tutoring in %s?" $level $subject $loc) "a" (printf "Usually within a few days. After the free 15-minute consultation we'll send two or three %s %s tutor profiles within 24 hours, and most %s families have a first lesson booked within a week. Sessions run online over Lessonspace, our shared interactive whiteboard, so timing is flexible around school." $level $subject $loc))
+}}
+{{ $faqs := .Params.faqs | default $defaultFaqs }}
+
+{{/* ── Tutors — filter by subject + level ── */}}
+{{ $teachToken := printf "%s %s" $level $subject }}
+{{ $altToken   := printf "%s %s" (cond $isAlevel "A level" $level) $subject }}
+{{ $matched := slice }}
+{{ range site.Data.tutors }}
+  {{ if or (in .teaches $teachToken) (in .teaches $altToken) }}
+    {{ $matched = $matched | append . }}
+  {{ end }}
+{{ end }}
+{{ $tutors := first 4 (shuffle $matched) }}
+
+{{/* ── Reviews ── */}}
+{{ $reviews := .Params.reviews | default (slice
+  (printf "Sarah K.|Parent of %s Student|My son's grade went from a 4 to a 7 in %s in a single term. The tutor found exactly where things had stopped clicking — years earlier than we thought — and worked through it methodically. The biggest change wasn't even the grade. It was how calm he was walking into the exam." $level $subject)
+  (printf "Omo|Parent of %s Student|After six months of tutoring, my son's confidence in %s has completely turned around. He now looks forward to lessons and has lifted from a 5 to a 6/7." $level $subject)
+  (printf "Daljit|Parent of %s Student|My son gained almost two grades higher than his Year 11 mock paper. His %s tutor was excellent." $level $subject)
+  (printf "Ellen|Parent of %s Student|Our %s tutor was a complete star — listened, made it simple, set good homework, gave my daughter her confidence back. Highly recommend." $level $subject)
+  (printf "Philippa|Parent of %s Student|Lots of tutors to choose from and great flexibility on timings. My daughter's %s improved enormously." $level $subject)
+  (printf "Marfa|%s Student|Very engaging %s lessons that helped me improve my grade and successfully get admitted to sixth form." $level $subject)) }}
+
+{{/* ── Sibling subjects ── */}}
+{{ $parent := .Parent }}
+{{ $siblings := slice }}
+{{ if $parent }}
+  {{ range $parent.Pages }}
+    {{ if and (ne .RelPermalink $.RelPermalink) (.Params.subject) }}
+      {{ $siblings = $siblings | append . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+<!-- =============================================
+     SECTION 1: HERO — copy left, consultation card right
+     ============================================= -->
+<section class="lvls-hero">
+  <div class="container">
+    <div class="lvls-hero__grid">
+      <div class="lvls-hero__copy">
+        <p class="loc-eyebrow">{{ $level }} TUTORING · {{ $loc | upper }}</p>
+        <h1 class="lvls-hero__title">{{ $heroH1 }}</h1>
+        <p class="lvls-hero__lead">{{ $heroLead }}</p>
+        <div class="lvls-hero__meta">
+          <span><strong>From £37/hr</strong></span>
+          <span class="lvls-hero__meta-dot" aria-hidden="true">·</span>
+          <span>Online over Lessonspace</span>
+          <span class="lvls-hero__meta-dot" aria-hidden="true">·</span>
+          <span>Tutoring Specialists of the Year 2025 &amp; 2026</span>
+        </div>
+      </div>
+
+      <aside class="lvls-hero__card" aria-label="Book a free {{ $level }} {{ $subject }} consultation">
+        <p class="lvls-hero__card-eyebrow">FREE CONSULTATION</p>
+        <h2 class="lvls-hero__card-title">Talk to a {{ $subject }} matching specialist this week</h2>
+        <ul class="lvls-hero__card-points">
+          <li>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>
+            <span>15-minute call, no obligation</span>
+          </li>
+          <li>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>
+            <span>Two or three tutor profiles within 24 hours</span>
+          </li>
+          <li>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>
+            <span>First lesson from £37 — only pay if you continue</span>
+          </li>
+        </ul>
+        <a href="/book-a-call/" class="btn btn-primary lvls-hero__card-cta">Book a Free Consultation</a>
+        <p class="lvls-hero__card-fallback">or call <a href="tel:07859965776">07859&nbsp;965776</a></p>
+        <div class="lvls-hero__card-trust">
+          <span class="lvls-hero__card-stars" aria-label="5 stars">★★★★★</span>
+          <span><strong>5.0</strong> from 100+ Google reviews</span>
+        </div>
+      </aside>
+    </div>
+  </div>
+</section>
+
+<!-- =============================================
+     SECTION 2: SUBJECT ANGLE — image left / copy right
+     ============================================= -->
+<section class="lvls-angle">
+  <div class="lvls-angle__deco" aria-hidden="true">
+    <svg viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="200" cy="200" r="190" stroke="#800020" stroke-width="1.5" stroke-dasharray="3 7" opacity="0.25"/>
+    </svg>
+  </div>
+  <div class="container">
+    <div class="lvls-angle__inner">
+      <div class="lvls-angle__image">
+        <iframe class="lvls-angle__map"
+                src="{{ $mapUrl }}"
+                title="Map of {{ $loc }} — area we cover for {{ $level }} {{ $subject }} tutoring"
+                loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"
+                allowfullscreen></iframe>
+        <span class="lvls-angle__map-tag">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-7.58-7-12a7 7 0 0 1 14 0c0 4.42-7 12-7 12z"/><circle cx="12" cy="9" r="2.5"/></svg>
+          Covering {{ $loc }} &amp; nearby
+        </span>
+      </div>
+      <div class="lvls-angle__copy">
+        <p class="loc-eyebrow">{{ $angleEyebrow }}</p>
+        <h2>{{ $angleHeading }}</h2>
+        <p>{{ $angleBody1 }}</p>
+        <p>{{ $angleBody2 }}</p>
+
+        {{ if $schools }}
+        <p class="lvls-angle__schools">
+          <strong>Schools we can help support students from:</strong>
+          {{ delimit $schools ", " " and " }}.
+        </p>
+        {{ end }}
+
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
+<!-- =============================================
+     SECTION 3: MID-PAGE CTA STRIP
+     ============================================= -->
+<section class="lvls-midcta">
+  <div class="container">
+    <div class="lvls-midcta__inner">
+      <div class="lvls-midcta__copy">
+        <p class="lvls-midcta__eyebrow">USUALLY MATCHED WITHIN 24 HOURS</p>
+        <h2>Book a free 15-minute call about your child's {{ $level }} {{ $subject }} in {{ $loc }}</h2>
+      </div>
+      <div class="lvls-midcta__actions">
+        <a href="/book-a-call/" class="btn btn-primary btn-lg lvls-midcta__btn">Book a Free Consultation</a>
+        <a href="tel:07859965776" class="lvls-midcta__phone">or call 07859&nbsp;965776</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- =============================================
+     SECTION 3B: START IN 3 STEPS — per-page customisable
+     ============================================= -->
+<section class="lvls-steps">
+  <div class="lvls-steps__deco" aria-hidden="true">
+    <svg viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="200" cy="200" r="180" stroke="#800020" stroke-width="1.5" stroke-dasharray="3 7" opacity="0.22"/>
+      <circle cx="200" cy="200" r="130" stroke="#800020" stroke-width="1" stroke-dasharray="2 6" opacity="0.18"/>
+    </svg>
+  </div>
+  <div class="container">
+    <div class="lvls-steps__head">
+      <h2>{{ $stepsHeading }}</h2>
+      <p>{{ $stepsLead }}</p>
+    </div>
+    <div class="lvls-steps__grid">
+      {{ range $i, $step := $steps }}
+      <article class="lvls-step">
+        <div class="lvls-step__visual">
+          <span class="lvls-step__num">{{ printf "%02d" (add $i 1) }}</span>
+          {{ if eq $i 0 }}
+          <svg class="lvls-step__icon" viewBox="0 0 64 64" fill="none" aria-hidden="true">
+            <rect x="10" y="14" width="44" height="36" rx="4" stroke="currentColor" stroke-width="2.5"/>
+            <path d="M18 24h28M18 32h28M18 40h18" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+          </svg>
+          {{ else if eq $i 1 }}
+          <svg class="lvls-step__icon" viewBox="0 0 64 64" fill="none" aria-hidden="true">
+            <circle cx="32" cy="24" r="10" stroke="currentColor" stroke-width="2.5"/>
+            <path d="M14 52c2-9 10-14 18-14s16 5 18 14" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+          </svg>
+          {{ else }}
+          <svg class="lvls-step__icon" viewBox="0 0 64 64" fill="none" aria-hidden="true">
+            <rect x="8" y="14" width="48" height="32" rx="3" stroke="currentColor" stroke-width="2.5"/>
+            <path d="M22 54h20M32 46v8" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+            <path d="M28 28l8 4-8 4v-8z" fill="currentColor"/>
+          </svg>
+          {{ end }}
+        </div>
+        <h3>{{ $step.title }}</h3>
+        <p>{{ $step.body }}</p>
+      </article>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+<!-- =============================================
+     SECTION 4: TUTOR SELECTION — professional cards
+     ============================================= -->
+<section class="lvls-tutors">
+  <div class="lvls-tutors__deco" aria-hidden="true">
+    <svg viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="200" cy="200" r="195" stroke="#800020" stroke-width="2" stroke-dasharray="4 8" opacity="0.28"/>
+    </svg>
+  </div>
+  <div class="container">
+    <div class="lvls-tutors__head">
+      <p class="loc-eyebrow">MEET THE TUTORS</p>
+      <h2>Some of our {{ $level }} {{ $subject }} tutors covering {{ $loc }}</h2>
+      <p>A small selection of the {{ $level }} {{ $subject }} tutors in our network. We match each {{ $loc }} student personally to the tutor who best fits their year group, exam board and the gap they're trying to close.</p>
+    </div>
+    {{ if $tutors }}
+    <div class="lvls-tutors__grid">
+      {{ range $tutors }}
+      <article class="lvls-tutor-card">
+        <div class="lvls-tutor-card__photo">
+          <img src="{{ .image }}" alt="{{ .name }}, {{ $level }} {{ $subject }} tutor" width="400" height="400" loading="lazy" decoding="async"
+               onerror="this.closest('.lvls-tutor-card').style.display='none'">
+        </div>
+        <div class="lvls-tutor-card__body">
+          <h3 class="lvls-tutor-card__name">{{ .name }}</h3>
+          <p class="lvls-tutor-card__role">{{ $level }} {{ $subject }} tutor</p>
+          <p class="lvls-tutor-card__blurb">"{{ .blurb | truncate 120 }}"</p>
+          <a href="{{ .url }}" class="lvls-tutor-card__link" target="_blank" rel="noopener">View profile →</a>
+        </div>
+      </article>
+      {{ end }}
+    </div>
+    {{ else }}
+    <p class="lvls-tutors__empty">Get in touch and we'll send four {{ $subject }} tutor profiles within 24 hours.</p>
+    {{ end }}
+    <div class="lvls-tutors__cta">
+      <a href="/book-a-call/" class="btn btn-primary">Ask us to match you</a>
+    </div>
+  </div>
+</section>
+
+<!-- =============================================
+     SECTION 6: REVIEWS — carousel
+     ============================================= -->
+<section class="lvls-reviews" aria-labelledby="lvls-reviews-title">
+  <div class="lvls-reviews__deco" aria-hidden="true">
+    <svg viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="200" cy="200" r="190" stroke="#800020" stroke-width="1.5" stroke-dasharray="3 7" opacity="0.22"/>
+      <circle cx="200" cy="200" r="150" fill="#efe5d5" opacity="0.55"/>
+    </svg>
+  </div>
+  <div class="container">
+    <div class="lvls-reviews__head">
+      <div>
+        <p class="loc-eyebrow">FEEDBACK FROM FAMILIES</p>
+        <h2 id="lvls-reviews-title">Over a hundred parents and students<br>have rated us 5.0/5</h2>
+      </div>
+      <div class="lvls-reviews__nav">
+        <button type="button" class="lvls-reviews__btn" data-lvls-prev aria-label="Previous review">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg>
+        </button>
+        <button type="button" class="lvls-reviews__btn" data-lvls-next aria-label="Next review">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18l6-6-6-6"/></svg>
+        </button>
+      </div>
+    </div>
+    <div class="lvls-reviews__viewport" data-lvls-viewport>
+      <div class="lvls-reviews__track" data-lvls-track>
+        {{ $accents := slice "#F4B400" "#B07A6F" "#5A8A8B" "#9D6E72" "#8B7E66" "#C28A4A" }}
+        {{ range $i, $r := $reviews }}
+        {{ $parts := split $r "|" }}
+        {{ $name := index $parts 0 }}
+        {{ $role := index $parts 1 }}
+        {{ $text := index $parts 2 }}
+        {{ $accent := index $accents (mod $i 6) }}
+        <article class="lvls-review-card">
+          <div class="lvls-review-card__avatar" style="background: {{ $accent }};">
+            <span>{{ substr $name 0 1 }}</span>
+          </div>
+          <h3 class="lvls-review-card__name">{{ $name }}</h3>
+          <p class="lvls-review-card__role">{{ $level }} {{ $subject }} family</p>
+          <p class="lvls-review-card__quote">"{{ $text }}"</p>
+          <p class="lvls-review-card__byline">{{ $role }}</p>
+          <span class="lvls-review-card__stars" aria-label="5 stars">★★★★★</span>
+        </article>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+(function(){
+  document.querySelectorAll('.lvls-reviews').forEach(function(section){
+    var track = section.querySelector('[data-lvls-track]');
+    var viewport = section.querySelector('[data-lvls-viewport]');
+    var prev = section.querySelector('[data-lvls-prev]');
+    var next = section.querySelector('[data-lvls-next]');
+    if (!track || !prev || !next || !viewport) return;
+    function step(){
+      var card = track.querySelector('.lvls-review-card');
+      if (!card) return 320;
+      var style = window.getComputedStyle(track);
+      var gap = parseFloat(style.columnGap || style.gap || 0) || 0;
+      return card.getBoundingClientRect().width + gap;
+    }
+    prev.addEventListener('click', function(){ viewport.scrollBy({left: -step(), behavior: 'smooth'}); });
+    next.addEventListener('click', function(){ viewport.scrollBy({left: step(),  behavior: 'smooth'}); });
+  });
+})();
+</script>
+
+<!-- =============================================
+     SECTION 6B: QUIET POST-REVIEWS CTA STRIP
+     ============================================= -->
+<section class="lvls-quietcta">
+  <div class="container">
+    <p>
+      Want results like this for your child's {{ $level }} {{ $subject }} in {{ $loc }}?
+      <a href="/book-a-call/">Book a free 15-minute consultation →</a>
+    </p>
+  </div>
+</section>
+
+<!-- =============================================
+     SECTION 8: FAQ — "Read our FAQs"
+     ============================================= -->
+<section class="lvls-faq">
+  <div class="lvls-faq__deco" aria-hidden="true">
+    <svg viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="200" cy="200" r="190" stroke="#800020" stroke-width="2" stroke-dasharray="4 8" opacity="0.35"/>
+      <circle cx="200" cy="200" r="150" fill="#efe5d5"/>
+    </svg>
+  </div>
+  <div class="container">
+    <h2 class="lvls-faq__title">Read our FAQs</h2>
+    <div class="lvls-faq__list">
+      {{ range $i, $faq := $faqs }}
+      <details class="lvls-faq__item"{{ if eq $i 0 }} open{{ end }}>
+        <summary class="lvls-faq__trigger">
+          <span class="lvls-faq__q">{{ $faq.q }}</span>
+          <svg class="lvls-faq__chev" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>
+        </summary>
+        <div class="lvls-faq__body"><p>{{ $faq.a }}</p></div>
+      </details>
+      {{ end }}
+    </div>
+    <p class="lvls-faq__closer">
+      Still have a question? <a href="/book-a-call/">Ask us on the consultation call →</a>
+    </p>
+  </div>
+</section>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{ range $i, $faq := $faqs }}{{ if $i }},{{ end }}
+    {
+      "@type": "Question",
+      "name": {{ $faq.q | jsonify }},
+      "acceptedAnswer": { "@type": "Answer", "text": {{ $faq.a | jsonify }} }
+    }
+    {{ end }}
+  ]
+}
+</script>
+
+<!-- =============================================
+     SECTION 7: FINAL CTA — Book Free Consultation
+     ============================================= -->
+<section class="lvls-cta" id="book-consultation">
+  <div class="container">
+    <div class="lvls-cta__inner">
+      <div class="lvls-cta__copy">
+        <p class="lvls-cta__eyebrow">Get started today</p>
+        <h2>Book your free<br>{{ $subject }} consultation</h2>
+        <p>A short, friendly call about your child's {{ $subject }} — where they're stuck, what they're aiming at, and which {{ $level }} {{ $subject }} tutor in our network is the right match. No obligation.</p>
+        <a href="/book-a-call/" class="btn btn-primary btn-lg">Book Consultation</a>
+        <p class="lvls-cta__assurance">First lesson risk-free · No contracts · Cancel any time</p>
+      </div>
+      <div class="lvls-cta__illustration" aria-hidden="true">
+        <img src="/images/students-in-classroom-taking-notes.jpg" alt="" width="900" height="700" loading="lazy" decoding="async">
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- =============================================
+     SECTION 8: OTHER SUBJECTS IN THIS AREA
+     ============================================= -->
+{{ if or $siblings $parent }}
+<section class="lvls-siblings">
+  <div class="container">
+    <p class="loc-eyebrow loc-eyebrow--center">EXPLORE MORE</p>
+    <h2 class="lvls-siblings__title">Other {{ $level }} subjects in {{ $loc }}</h2>
+    {{ if $siblings }}
+    <div class="lvls-siblings__grid">
+      {{ range $siblings }}
+      <a href="{{ .RelPermalink }}" class="loc-area-card">{{ .Params.level }} {{ .Params.subject }} Tutors in {{ .Params.location }}</a>
+      {{ end }}
+    </div>
+    {{ else }}
+    <p class="lvls-siblings__empty">More {{ $level }} subjects in {{ $loc }} are on the way.</p>
+    {{ end }}
+    {{ with $parent }}
+    <div class="lvls-siblings__back">
+      <a href="{{ .RelPermalink }}">← Back to all {{ $level }} tutors in {{ $loc }}</a>
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
+{{ end }}

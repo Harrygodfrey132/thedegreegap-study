@@ -3,7 +3,9 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   {{- range .Data.Pages }}
   {{- $section := .Section }}
-  {{- $exclude := eq $section "past-papers" }}
+  {{- $robots := .Params.robots | default "" }}
+  {{- $noindex := or (in $robots "noindex") .Sitemap.Disable }}
+  {{- $exclude := or (eq $section "past-papers") $noindex }}
   {{- if not $exclude }}
   <url>
     <loc>{{ .Permalink }}</loc>
