@@ -6409,6 +6409,70 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   .book-call--exam-essentials .book-call__endorsement img { height: 30px; }
 }
 
+/* Parents' Guide to GCSE — blue/purple theme */
+.book-call--parent-guide-to-gcse .book-call__eyebrow {
+  background: #E8EBF6;
+  color: #38488e;
+  border: 2px solid #38488e;
+  padding: 8px 18px;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+}
+.book-call--parent-guide-to-gcse .book-call__form-tag {
+  background: #E8EBF6;
+  color: #38488e;
+  border: 1.5px solid #38488e;
+  padding: 5px 12px;
+  font-weight: 800;
+}
+.book-call--parent-guide-to-gcse .book-call__submit {
+  background: #475bb2;
+  color: #ffffff;
+}
+.book-call--parent-guide-to-gcse .book-call__submit:hover {
+  background: #38488e;
+}
+.book-call--parent-guide-to-gcse .book-call__reviews-brand {
+  color: #475bb2;
+}
+.book-call--parent-guide-to-gcse .book-call__endorsement {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  padding: 12px 22px;
+  background: #E8EBF6;
+  border: 1.5px solid #38488e;
+  border-radius: 999px;
+  box-shadow: 0 2px 10px rgba(71, 91, 178, 0.1);
+  text-decoration: none;
+  color: #38488e;
+  transition: background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease;
+  max-width: max-content;
+}
+.book-call--parent-guide-to-gcse .book-call__endorsement:hover {
+  background: #DCE2F2;
+  box-shadow: 0 4px 14px rgba(71, 91, 178, 0.18);
+  transform: translateY(-1px);
+  text-decoration: none;
+  color: #38488e;
+}
+.book-call--parent-guide-to-gcse .book-call__endorsement-label {
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #38488e;
+  white-space: nowrap;
+  padding-right: 12px;
+  border-right: 1px solid rgba(56, 72, 142, 0.3);
+}
+.book-call--parent-guide-to-gcse .book-call__endorsement img { height: 38px; width: auto; display: block; }
+@media (max-width: 540px) {
+  .book-call--parent-guide-to-gcse .book-call__endorsement { padding: 10px 18px; gap: 10px; }
+  .book-call--parent-guide-to-gcse .book-call__endorsement-label { padding-right: 10px; font-size: 0.68rem; }
+  .book-call--parent-guide-to-gcse .book-call__endorsement img { height: 30px; }
+}
+
 .book-call__subhead {
   font-family: var(--font-body);
   font-size: 1rem;

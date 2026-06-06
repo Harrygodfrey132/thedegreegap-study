@@ -74,11 +74,12 @@ Location tutor page content contract:
         {{ if $heroImage }}
         {{ $heroResource := resources.Get (strings.TrimPrefix "/" $heroImage) }}
         {{ if $heroResource }}
-        {{ $heroWebp := $heroResource.Resize "640x webp q70" }}
-        {{ $heroFallback := $heroResource.Resize "640x q70" }}
+        {{ $heroWebp1x := $heroResource.Resize "560x webp q88" }}
+        {{ $heroWebp2x := $heroResource.Resize "960x webp q88" }}
+        {{ $heroFallback := $heroResource.Resize "720x q88" }}
         <picture class="loc-img-hero">
-          <source media="(min-width: 901px)" type="image/webp" srcset="{{ $heroWebp.RelPermalink }}">
-          <img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" alt="Tutoring support in {{ $loc }}" class="loc-img-hero__img" width="{{ $heroFallback.Width }}" height="{{ $heroFallback.Height }}" loading="eager" decoding="async" fetchpriority="high">
+          <source media="(min-width: 901px)" type="image/webp" srcset="{{ $heroWebp1x.RelPermalink }} 1x, {{ $heroWebp2x.RelPermalink }} 2x">
+          <img src="{{ $heroFallback.RelPermalink }}" alt="Tutoring support in {{ $loc }}" class="loc-img-hero__img" width="{{ $heroFallback.Width }}" height="{{ $heroFallback.Height }}" loading="eager" decoding="async" fetchpriority="high">
         </picture>
         {{ else }}
         <img src="{{ $heroImage }}" alt="Tutoring support in {{ $loc }}" class="loc-img-hero" width="420" height="580" loading="eager" decoding="async" fetchpriority="high">
