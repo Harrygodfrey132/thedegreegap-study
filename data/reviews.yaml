@@ -1,0 +1,50 @@
+# Curated Google reviews — used by the book-a-call slide-in drawer
+# and reusable across any page that wants to show real testimonials.
+- name: Omo
+  role: Parent of GCSE Student
+  text: My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him.
+- name: Sarah K.
+  role: Parent of GCSE Student
+  text: My son's grade went from a 4 to a 7 in Maths in a single term. The tutor found exactly where things had stopped clicking — years earlier than we thought — and worked through it methodically. The biggest change wasn't even the grade. It was how calm he was walking into the exam.
+- name: Ellen
+  role: Parent of GCSE Student
+  text: My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. We were given a selection of tutors to choose from and told that if it did not feel like a good match we could try others. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend.
+- name: Daljit
+  role: Parent of A-Level Student
+  text: My son gained almost two grades higher than his Year 13 mock paper. His tutor was excellent — patient, knowledgeable, and genuinely invested in his progress.
+- name: Philippa
+  role: Parent of GCSE Student
+  text: I was really pleased to discover The Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after from the start. Lots of tutors to choose from and great flexibility on timings. Highly recommend.
+- name: Alison
+  role: Parent of A-Level Student
+  text: My son has been receiving tutor lessons in A-Level History and A-Level Sociology since the beginning of this year. The tutor has been such a tremendous support, teaching him content as well as exam technique. Harry has been outstanding from day one — responses immediate and highly supportive.
+- name: Lisa
+  role: Parent of Two Students
+  text: The Degree Gap has exceeded all my expectations. They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional. Both my sons exceeded their expected grades in their GCSEs and A-Levels and got into their first-choice universities.
+- name: Annette
+  role: Parent
+  text: This company helped us find a tutor for Geography and my son has excelled so much in just a few months. Our tutor has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself. He also manages neurodiversity effectively.
+- name: Augusta
+  role: Parent of GCSE Student
+  text: The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time.
+- name: Isabel
+  role: Parent of iGCSE Student
+  text: The Degree Gap gave our son the support he needed for his iGCSEs, especially in Maths and Economics. Lessons were clear, engaging, and built his confidence. Highly recommended.
+- name: Keira
+  role: GCSE Student
+  text: Has definitely helped me increase my grades from an E to a B.
+- name: Heidi
+  role: Parent
+  text: Our tutor is simply amazing with our daughter. He understands her completely and her sessions are helping her with her school work so much. We cannot thank him enough.
+- name: Chris
+  role: Parent of GCSE Student
+  text: Very good tutoring for my daughter and good communication with parents. My daughter passed both English and Maths GCSE.
+- name: Theresa
+  role: Parent
+  text: The Degree Gap was fantastic. Their knowledge and guidance helped my son find direction in both his studies and future plans.
+- name: Sorland
+  role: Grandparent
+  text: My granddaughter uses The Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone.
+- name: Jessica
+  role: GCSE Student
+  text: I was helped with both Maths and English for my GCSEs and passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree.

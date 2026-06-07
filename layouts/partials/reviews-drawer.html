@@ -1,0 +1,67 @@
+{{/*
+  Reviews slide-in drawer.
+  - Triggered by any element with `data-reviews-open` on the page.
+  - Reviews pulled from site.Data.reviews (data/reviews.yaml).
+  - Closed by backdrop click, × button, or Escape key.
+  - On mobile (<=560px), takes over the full screen.
+*/}}
+<div class="bc-drawer" id="bc-reviews-drawer" aria-hidden="true">
+  <div class="bc-drawer__backdrop" data-reviews-close></div>
+  <aside class="bc-drawer__panel" role="dialog" aria-modal="true" aria-labelledby="bc-drawer-title" tabindex="-1">
+    <header class="bc-drawer__head">
+      <div>
+        <p class="bc-drawer__eyebrow">VERIFIED GOOGLE REVIEWS</p>
+        <h2 id="bc-drawer-title">What parents and students say</h2>
+        <div class="bc-drawer__rating">
+          <span class="bc-drawer__stars" aria-label="5 out of 5">★★★★★</span>
+          <strong>5.0</strong>
+          <span>· 106 reviews</span>
+        </div>
+      </div>
+      <button type="button" class="bc-drawer__close" data-reviews-close aria-label="Close reviews">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 6L6 18M6 6l12 12"/></svg>
+      </button>
+    </header>
+    <ul class="bc-drawer__list">
+      {{ range site.Data.reviews }}
+      <li class="bc-drawer__review">
+        <span class="bc-drawer__review-stars" aria-label="5 stars">★★★★★</span>
+        <p class="bc-drawer__review-text">"{{ .text }}"</p>
+        <p class="bc-drawer__review-byline"><strong>{{ .name }}</strong> · {{ .role }}</p>
+      </li>
+      {{ end }}
+    </ul>
+  </aside>
+</div>
+
+<script>
+(function(){
+  var drawer = document.getElementById('bc-reviews-drawer');
+  if (!drawer || drawer.dataset.bound === '1') return;
+  drawer.dataset.bound = '1';
+  var openers = document.querySelectorAll('[data-reviews-open]');
+  var closers = drawer.querySelectorAll('[data-reviews-close]');
+  var panel = drawer.querySelector('.bc-drawer__panel');
+  var lastFocus = null;
+  function open(){
+    lastFocus = document.activeElement;
+    drawer.classList.add('is-open');
+    drawer.setAttribute('aria-hidden', 'false');
+    openers.forEach(function(b){ b.setAttribute('aria-expanded','true'); });
+    document.body.style.overflow = 'hidden';
+    setTimeout(function(){ panel && panel.focus(); }, 20);
+  }
+  function close(){
+    drawer.classList.remove('is-open');
+    drawer.setAttribute('aria-hidden', 'true');
+    openers.forEach(function(b){ b.setAttribute('aria-expanded','false'); });
+    document.body.style.overflow = '';
+    if (lastFocus && lastFocus.focus) lastFocus.focus();
+  }
+  openers.forEach(function(b){ b.addEventListener('click', open); });
+  closers.forEach(function(b){ b.addEventListener('click', close); });
+  document.addEventListener('keydown', function(e){
+    if (e.key === 'Escape' && drawer.classList.contains('is-open')) close();
+  });
+})();
+</script>
