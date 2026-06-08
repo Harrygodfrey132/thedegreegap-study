@@ -1,7 +1,8 @@
 ---
-title: Aylesbury Tutors | A-Level and 11+ | From £37/hr
-description: "Find an Aylesbury tutor for the 11+, GCSE and A-Level: one-to-one
-  tuition built for a fully selective grammar county where every grade matters."
+title: Aylesbury Tutors | GCSE & A-Level Tuition from £37/hr
+description: Find expert Aylesbury tutors for GCSE and A-Level support.
+  Personalised tuition from £37/hr to help students achieve top grades and exam
+  success.
 layout: single
 location: Aylesbury
 banner_heading: Need a tutor in Aylesbury for the 11+, GCSEs or A-Levels?
