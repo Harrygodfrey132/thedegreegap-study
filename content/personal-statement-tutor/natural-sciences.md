@@ -11,10 +11,10 @@ form_note: "We'll reply with advice on writing one statement that lands at Cambr
 related_pages:
   - title: "Cambridge Natural Sciences: what's different"
     url: "/personal-statement-tutor/cambridge/"
-  - title: "Chemistry personal statement help"
-    url: "/personal-statement-tutor/chemistry/"
-  - title: "Physics personal statement help"
-    url: "/personal-statement-tutor/physics/"
+  - title: "Engineering personal statement help"
+    url: "/personal-statement-tutor/engineering/"
+  - title: "Medicine personal statement help"
+    url: "/personal-statement-tutor/medicine/"
 faqs:
   - q: "How does the Cambridge Natural Sciences Tripos affect what I write?"
     a: "The Tripos funnels you from three experimental sciences plus maths in Year 1 to a single subject by Year 3. Your draft has to show you've understood that shape and have a view on which two sciences you'd want to keep. Don't claim to love all five sciences equally, the Tripos forces a narrowing and Cambridge tutors want to see you've already started thinking about it."

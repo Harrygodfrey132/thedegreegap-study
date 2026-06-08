@@ -22,3 +22,7 @@
 
 # Epsom location root is still alive — only its A-Level subtree was removed.
 /locations/epsom-tutors/a-level/* /locations/                            301
+
+# PS subjects that were referenced but never built — send to PS hub.
+/personal-statement-tutor/chemistry/    /personal-statement-tutor/       301
+/personal-statement-tutor/physics/      /personal-statement-tutor/       301
