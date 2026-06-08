@@ -1,8 +1,8 @@
 ---
-title: GCSE & A-Level Tutors in Birmingham | From £37/hr
-description: Find experienced Birmingham tutors for GCSE and A-Level support,
-  with one-to-one sessions tailored to close gaps and build the confidence
-  students need.
+title: Birmingham Tutors | GCSE & A-Level Tuition from £37/hr
+description: Find expert Birmingham tutors for GCSE and A-Level support.
+  Personalised tuition from £37/hr to help students achieve top grades and exam
+  success.
 layout: single
 location: Birmingham
 banner_heading: Looking for a Birmingham tutor who gets to the root of the problem?
