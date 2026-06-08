@@ -8,3 +8,11 @@
   Referrer-Policy: strict-origin-when-cross-origin
   Permissions-Policy: geolocation=(), microphone=(), camera=()
   Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://www.google-analytics.com https://identity.netlify.com https://cal.com https://app.cal.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' data: https://fonts.gstatic.com; img-src 'self' data: blob: https:; connect-src 'self' https://formspree.io https://www.google-analytics.com https://*.google-analytics.com https://*.analytics.google.com https://*.netlify.com https://identity.netlify.com https://cal.com https://app.cal.com; frame-src 'self' https://www.youtube.com https://youtube.com https://www.youtube-nocookie.com https://www.google.com https://maps.google.com https://cal.com https://app.cal.com; form-action 'self' https://formspree.io; base-uri 'self'; object-src 'none'; upgrade-insecure-requests
+
+# Decap CMS admin dashboard needs to load JS/CSS/fonts from unpkg
+# and connect to Netlify Identity + Git Gateway + GitHub APIs.
+/admin/*
+  X-Frame-Options: SAMEORIGIN
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://unpkg.com https://identity.netlify.com; style-src 'self' 'unsafe-inline' https://unpkg.com https://fonts.googleapis.com; font-src 'self' data: https://unpkg.com https://fonts.gstatic.com; img-src 'self' data: blob: https:; connect-src 'self' https://unpkg.com https://identity.netlify.com https://*.netlify.com https://api.github.com; frame-src 'self'; form-action 'self'; base-uri 'self'; object-src 'none'
