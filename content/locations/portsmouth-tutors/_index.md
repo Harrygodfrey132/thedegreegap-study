@@ -1,74 +1,221 @@
 ---
-title: "Portsmouth Tutors | Expert Support | The Degree Gap"
-description: "Find a Portsmouth tutor who starts with your child's actual gaps, not a generic plan. The Degree Gap matches students with vetted, expert tutors."
-layout: "single"
-location: "Portsmouth"
-banner_heading: "Looking for a Portsmouth tutor who actually diagnoses the problem?"
-banner_description: "Most tutoring just follows the school timetable. Our Portsmouth tutors start by finding what's been missed, then build a proper plan around it."
-content_angle: "foundation gaps"
-intro_1: "Portsmouth is an unusual city for education. It has Portsmouth Grammar School on one side, one of the leading independents on the south coast, and a state secondary sector where attainment across the city has sat below the national average for years. That gap between the two is something families feel. Students in the state sector often reach Year 10 carrying gaps they didn't know were there, and those gaps start to show at exactly the wrong moment."
-intro_2: "The Degree Gap tutoring works with Portsmouth students through one-to-one tuition that starts where the student actually is, not where the curriculum says they should be. Our tutors go back as far as they need to. Sometimes a Year 11 student's maths problem turns out to be a Year 8 algebra gap that never got properly resolved. Find it, fix it, and the progress that follows tends to surprise everyone. Regular private tuition changes the picture faster than families expect, because the issue was usually something specific all along."
-about_heading: "Tutors Who Know What Portsmouth Students Need"
-schools_intro: "We work with students from secondary schools right across Portsmouth. That includes St Edmund's Catholic School, Priory School, Admiral Lord Nelson School, Mayfield School, The Portsmouth Academy and King Richard School. Many students are working towards sixth form entry or trying to hit the grade thresholds the city's colleges publish, and our tutors build sessions around those targets. We also run revision and exam preparation workshops open to students from across the city."
-schools: ["St Edmund's Catholic School", "Priory School", "Admiral Lord Nelson School", "Mayfield School", "The Portsmouth Academy", "King Richard School"]
+title: Portsmouth Tutoring | Trusted GCSE & A-Level Tutors
+description: One-to-one Portsmouth tutoring for Maths, English, Sciences and
+  more. Expert tutors, flexible online lessons and proven academic results.
+layout: single
+location: Portsmouth
+banner_heading: Looking for a Portsmouth tutor who actually diagnoses the problem?
+banner_description: Most tutoring just follows the school timetable. Our
+  Portsmouth tutors start by finding what's been missed, then build a proper
+  plan around it.
+content_angle: foundation gaps
+intro_1: Portsmouth is an unusual city for education. It has Portsmouth Grammar
+  School on one side, one of the leading independents on the south coast, and a
+  state secondary sector where attainment across the city has sat below the
+  national average for years. That gap between the two is something families
+  feel. Students in the state sector often reach Year 10 carrying gaps they
+  didn't know were there, and those gaps start to show at exactly the wrong
+  moment.
+intro_2: The Degree Gap tutoring works with Portsmouth students through
+  one-to-one tuition that starts where the student actually is, not where the
+  curriculum says they should be. Our tutors go back as far as they need to.
+  Sometimes a Year 11 student's maths problem turns out to be a Year 8 algebra
+  gap that never got properly resolved. Find it, fix it, and the progress that
+  follows tends to surprise everyone. Regular private tuition changes the
+  picture faster than families expect, because the issue was usually something
+  specific all along.
+about_heading: Tutors Who Know What Portsmouth Students Need
+about_image: /images/students-in-classroom-taking-notes.jpg
+schools_intro: We work with students from secondary schools right across
+  Portsmouth. That includes St Edmund's Catholic School, Priory School, Admiral
+  Lord Nelson School, Mayfield School, The Portsmouth Academy and King Richard
+  School. Many students are working towards sixth form entry or trying to hit
+  the grade thresholds the city's colleges publish, and our tutors build
+  sessions around those targets. We also run revision and exam preparation
+  workshops open to students from across the city.
+schools:
+  - St Edmund's Catholic School
+  - Priory School
+  - Admiral Lord Nelson School
+  - Mayfield School
+  - The Portsmouth Academy
+  - King Richard School
+schools_image: /images/empty-classroom-desks.jpg
 online_heading: "Online tutoring for Portsmouth: the right tutor isn't always the nearest one"
-online_1: "Almost all our sessions run online, and for Portsmouth students that opens things up considerably. The tutor who best matches your child's subject, exam board and way of learning might be based anywhere in the country. Online tutoring means that doesn't matter. Sessions run on Lessonspace, which has a shared whiteboard built specifically for one-to-one academic work. It's straightforward from the first session."
-online_2: "There's a consistency benefit too. No travel, no last-minute cancellations because of traffic or weather. Students settle in quickly, and the one-to-one environment at home tends to produce better focus than most people predict. Families who've tried both usually say online tutoring works at least as well, and often better."
-map_url: "https://maps.google.com/maps?q=Portsmouth,UK&output=embed"
-about_image: "/images/students-in-classroom-taking-notes.jpg"
-schools_image: "/images/empty-classroom-desks.jpg"
-online_image: "/images/child-using-online-learning-laptop.jpg"
-areas_intro: "Finding the right tutor matters more than finding the nearest one, which is why we support families across Portsmouth and well beyond."
+online_1: Almost all our sessions run online, and for Portsmouth students that
+  opens things up considerably. The tutor who best matches your child's subject,
+  exam board and way of learning might be based anywhere in the country. Online
+  tutoring means that doesn't matter. Sessions run on Lessonspace, which has a
+  shared whiteboard built specifically for one-to-one academic work. It's
+  straightforward from the first session.
+online_2: There's a consistency benefit too. No travel, no last-minute
+  cancellations because of traffic or weather. Students settle in quickly, and
+  the one-to-one environment at home tends to produce better focus than most
+  people predict. Families who've tried both usually say online tutoring works
+  at least as well, and often better.
+online_image: /images/child-using-online-learning-laptop.jpg
+map_url: https://maps.google.com/maps?q=Portsmouth,UK&output=embed
+areas_intro: Finding the right tutor matters more than finding the nearest one,
+  which is why we support families across Portsmouth and well beyond.
 area_links:
-  - "Southampton Tutors|/locations/southampton-tutors/"
-  - "Brighton Tutors|/locations/brighton-tutors/"
-  - "Bristol Tutors|/locations/bristol-tutors/"
-  - "Oxford Tutors|/locations/oxford-tutors/"
-  - "Reading Tutors|/locations/reading-tutors/"
-  - "Swindon Tutors|/locations/swindon-tutors/"
+  - Southampton Tutors|/locations/southampton-tutors/
+  - Brighton Tutors|/locations/brighton-tutors/
+  - Bristol Tutors|/locations/bristol-tutors/
+  - Oxford Tutors|/locations/oxford-tutors/
+  - Reading Tutors|/locations/reading-tutors/
+  - Swindon Tutors|/locations/swindon-tutors/
 gcse_subjects:
-  - "GCSE Maths Tuition|Patient, methodical support that traces gaps back to where they started, covering number, algebra and geometry without rushing past anything that hasn't yet clicked.|https://thedegreegap.com/teachers/languages/GCSE-Maths"
-  - "GCSE Physics Tuition|Help bridging the gap between understanding the theory and turning it into marks on an exam paper, including forces, electricity and waves.|https://thedegreegap.com/teachers/languages/GCSE-Physics"
-  - "GCSE English Tuition|Support with reading, analysis and extended writing for students who can discuss a text but haven't yet found a way to get those ideas onto the page clearly.|https://thedegreegap.com/teachers/languages/GCSE-English"
-  - "GCSE Computer Science Tuition|Targeted sessions covering algorithms, data structures and programming logic for students who lost the thread at some point and need to rebuild it.|https://thedegreegap.com/teachers/languages/GCSE-Computer-Science"
-  - "GCSE Geography Tuition|Clear support across physical and human geography, helping students connect what they've studied into well-structured answers worth full marks.|https://thedegreegap.com/teachers/languages/GCSE-Geography"
-  - "GCSE Chemistry Tuition|Structured tutoring that revisits the fundamentals when equations and formulae start to blur, building real understanding rather than surface recall.|https://thedegreegap.com/teachers/languages/GCSE-Chemistry"
-  - "GCSE French Tuition|Targeted work on grammar, vocabulary and written expression for students who've drifted behind and want to rebuild confidence with the language before exams.|https://thedegreegap.com/teachers/languages/GCSE-French"
-  - "GCSE Biology Tuition|Focused sessions across cells, genetics and ecology for students who find the sheer volume of GCSE content hard to hold onto under exam conditions.|https://thedegreegap.com/teachers/languages/GCSE-Biology"
-  - "GCSE History Tuition|Support with source analysis and extended essay technique for students who know the content but aren't yet converting it into the marks those answers should earn.|https://thedegreegap.com/teachers/languages/GCSE-History"
+  - GCSE Maths Tuition|Patient, methodical support that traces gaps back to
+    where they started, covering number, algebra and geometry without rushing
+    past anything that hasn't yet
+    clicked.|https://thedegreegap.com/teachers/languages/GCSE-Maths
+  - GCSE Physics Tuition|Help bridging the gap between understanding the theory
+    and turning it into marks on an exam paper, including forces, electricity
+    and waves.|https://thedegreegap.com/teachers/languages/GCSE-Physics
+  - GCSE English Tuition|Support with reading, analysis and extended writing for
+    students who can discuss a text but haven't yet found a way to get those
+    ideas onto the page
+    clearly.|https://thedegreegap.com/teachers/languages/GCSE-English
+  - GCSE Computer Science Tuition|Targeted sessions covering algorithms, data
+    structures and programming logic for students who lost the thread at some
+    point and need to rebuild
+    it.|https://thedegreegap.com/teachers/languages/GCSE-Computer-Science
+  - GCSE Geography Tuition|Clear support across physical and human geography,
+    helping students connect what they've studied into well-structured answers
+    worth full marks.|https://thedegreegap.com/teachers/languages/GCSE-Geography
+  - GCSE Chemistry Tuition|Structured tutoring that revisits the fundamentals
+    when equations and formulae start to blur, building real understanding
+    rather than surface
+    recall.|https://thedegreegap.com/teachers/languages/GCSE-Chemistry
+  - GCSE French Tuition|Targeted work on grammar, vocabulary and written
+    expression for students who've drifted behind and want to rebuild confidence
+    with the language before
+    exams.|https://thedegreegap.com/teachers/languages/GCSE-French
+  - GCSE Biology Tuition|Focused sessions across cells, genetics and ecology for
+    students who find the sheer volume of GCSE content hard to hold onto under
+    exam conditions.|https://thedegreegap.com/teachers/languages/GCSE-Biology
+  - GCSE History Tuition|Support with source analysis and extended essay
+    technique for students who know the content but aren't yet converting it
+    into the marks those answers should
+    earn.|https://thedegreegap.com/teachers/languages/GCSE-History
 alevel_subjects:
-  - "A-Level Chemistry Tuition|Detailed one-to-one support across organic, inorganic and physical chemistry, addressing the earlier gaps that A-Level content tends to expose quickly.|https://thedegreegap.com/teachers/languages/A-level-Chemistry"
-  - "A-Level Psychology Tuition|Help pulling together research methods, key studies and evaluation points for students who find A-Level Psychology harder to revise than it looks.|https://thedegreegap.com/teachers/languages/A-level-Psychology"
-  - "A-Level Maths Tuition|One-to-one work across pure maths, mechanics and statistics, with particular attention to the GCSE foundations that A-Level builds on from the first week.|https://thedegreegap.com/teachers/languages/A-level-Maths"
-  - "A-Level History Tuition|Essay technique and argument-building support for students aiming to reach the top mark bands and stop leaving marks behind on analysis questions.|https://thedegreegap.com/teachers/languages/A-level-History"
-  - "A-Level Geography Tuition|Structured help connecting fieldwork, case studies and theory into the kind of coherent, evaluative answers A-Level Geography examiners reward.|https://thedegreegap.com/teachers/languages/A-level-Geography"
-  - "A-Level Biology Tuition|Support with the depth and volume of A-Level content, from cellular biology through to genetics and ecosystems, for students who need more time than lessons allow.|https://thedegreegap.com/teachers/languages/A-level-Biology"
-  - "A-Level Economics Tuition|One-to-one sessions helping students write sharper evaluation and connect micro and macroeconomic theory into clear, well-argued exam responses.|https://thedegreegap.com/teachers/languages/A-level-Economics"
-  - "A-Level English Tuition|Close reading and essay planning support for students who have strong ideas but want to turn them into the kind of structured argument that scores at the top.|https://thedegreegap.com/teachers/languages/A-level-English"
-  - "A-Level Physics Tuition|Methodical sessions working through mechanics, electricity and fields for students who find exam application harder than understanding the concepts in class.|https://thedegreegap.com/teachers/languages/A-level-Physics"
+  - A-Level Chemistry Tuition|Detailed one-to-one support across organic,
+    inorganic and physical chemistry, addressing the earlier gaps that A-Level
+    content tends to expose
+    quickly.|https://thedegreegap.com/teachers/languages/A-level-Chemistry
+  - A-Level Psychology Tuition|Help pulling together research methods, key
+    studies and evaluation points for students who find A-Level Psychology
+    harder to revise than it
+    looks.|https://thedegreegap.com/teachers/languages/A-level-Psychology
+  - A-Level Maths Tuition|One-to-one work across pure maths, mechanics and
+    statistics, with particular attention to the GCSE foundations that A-Level
+    builds on from the first
+    week.|https://thedegreegap.com/teachers/languages/A-level-Maths
+  - A-Level History Tuition|Essay technique and argument-building support for
+    students aiming to reach the top mark bands and stop leaving marks behind on
+    analysis
+    questions.|https://thedegreegap.com/teachers/languages/A-level-History
+  - A-Level Geography Tuition|Structured help connecting fieldwork, case studies
+    and theory into the kind of coherent, evaluative answers A-Level Geography
+    examiners
+    reward.|https://thedegreegap.com/teachers/languages/A-level-Geography
+  - A-Level Biology Tuition|Support with the depth and volume of A-Level
+    content, from cellular biology through to genetics and ecosystems, for
+    students who need more time than lessons
+    allow.|https://thedegreegap.com/teachers/languages/A-level-Biology
+  - A-Level Economics Tuition|One-to-one sessions helping students write sharper
+    evaluation and connect micro and macroeconomic theory into clear,
+    well-argued exam
+    responses.|https://thedegreegap.com/teachers/languages/A-level-Economics
+  - A-Level English Tuition|Close reading and essay planning support for
+    students who have strong ideas but want to turn them into the kind of
+    structured argument that scores at the
+    top.|https://thedegreegap.com/teachers/languages/A-level-English
+  - A-Level Physics Tuition|Methodical sessions working through mechanics,
+    electricity and fields for students who find exam application harder than
+    understanding the concepts in
+    class.|https://thedegreegap.com/teachers/languages/A-level-Physics
 other_subjects:
-  - "University Personal Statement|Shape a strong UCAS personal statement with expert support on structure, subject motivation, and final polish.|https://thedegreegap.com/teachers/languages/Personal-Statement"
-faq_1_q: "Can you support students who have fallen significantly behind?"
-faq_1_a: "Yes. Some of the students we work with in Portsmouth have gaps stretching back a year or more. We start by working out exactly where things went wrong, not just picking up from where school left off. Then we build a plan around that."
-faq_2_q: "How much does tutoring cost in Portsmouth?"
-faq_2_a: "Sessions start from £37 per hour. The exact rate depends on the subject and the tutor, and it is always agreed before anything is booked. No surprises, no hidden fees."
-faq_3_q: "Do you offer online tutoring for students in Portsmouth?"
-faq_3_a: "Yes, and it's how most of our sessions run. Students get access to a wider pool of tutors, sessions are easier to keep consistent, and most students concentrate better one-to-one online than they do in a classroom. It works well."
-faq_4_q: "How do I know if my child actually needs a tutor?"
-faq_4_a: "Grades slipping despite effort. Confidence dropping. Putting the work in but not seeing results. Those are the clearest signs. Sometimes it is simpler than that. Some students in Portsmouth just want to go further than the classroom pace allows. Either is a good reason to get in touch."
-why_heading: "What the first session reveals for Portsmouth students"
-why_para_1: "When students start one-to-one tuition with us, the first session almost always turns up something the family wasn't expecting. Not that the student is struggling overall, but that there's one specific thing that stopped making sense at some point, and everything since has been built on top of it. For Portsmouth students, that tends to show up most in Maths and the sciences, where each year's content assumes the last year's was solid. It often wasn't. Not because of any failure on anyone's part. Just because a class of thirty can't slow down for one student who needs another week on fractions."
-why_para_2: "Once that's clear, things tend to move quickly. Tutors don't spend the tutoring session recapping what the student already knows. They go straight to the sticking point, explain it differently from how it was taught at school, and check it's genuinely understood before moving on. Parents usually notice a shift in attitude before they notice a shift in grades. The subject starts to feel less threatening. Then the grades follow. That sequence, attitude first, marks second, is what we see again and again with students across Portsmouth."
-accordion_quality: "Every tutor working with Portsmouth students is vetted individually on subject knowledge and communication before they're matched with anyone. We pay close attention to exam board familiarity, including AQA and OCR specifications used across Portsmouth's schools, and the standard expected at local sixth forms."
-accordion_experience: "Tutors with Portsmouth students are practised at identifying where understanding actually broke down rather than assuming the problem is recent. Many have experience working with students who've quietly stopped believing they're capable of improving, and know how to change that."
-accordion_personalised: "We don't start from the textbook chapter the class is currently on. We start from a conversation about what's not working, then build a tutoring plan around that. For students who've accumulated gaps over time, that diagnostic approach is what makes the difference."
+  - University Personal Statement|Shape a strong UCAS personal statement with
+    expert support on structure, subject motivation, and final
+    polish.|https://thedegreegap.com/teachers/languages/Personal-Statement
+faq_1_q: Can you support students who have fallen significantly behind?
+faq_1_a: Yes. Some of the students we work with in Portsmouth have gaps
+  stretching back a year or more. We start by working out exactly where things
+  went wrong, not just picking up from where school left off. Then we build a
+  plan around that.
+faq_2_q: How much does tutoring cost in Portsmouth?
+faq_2_a: Sessions start from £37 per hour. The exact rate depends on the subject
+  and the tutor, and it is always agreed before anything is booked. No
+  surprises, no hidden fees.
+faq_3_q: Do you offer online tutoring for students in Portsmouth?
+faq_3_a: Yes, and it's how most of our sessions run. Students get access to a
+  wider pool of tutors, sessions are easier to keep consistent, and most
+  students concentrate better one-to-one online than they do in a classroom. It
+  works well.
+faq_4_q: How do I know if my child actually needs a tutor?
+faq_4_a: Grades slipping despite effort. Confidence dropping. Putting the work
+  in but not seeing results. Those are the clearest signs. Sometimes it is
+  simpler than that. Some students in Portsmouth just want to go further than
+  the classroom pace allows. Either is a good reason to get in touch.
+why_heading: What the first session reveals for Portsmouth students
+why_para_1: When students start one-to-one tuition with us, the first session
+  almost always turns up something the family wasn't expecting. Not that the
+  student is struggling overall, but that there's one specific thing that
+  stopped making sense at some point, and everything since has been built on top
+  of it. For Portsmouth students, that tends to show up most in Maths and the
+  sciences, where each year's content assumes the last year's was solid. It
+  often wasn't. Not because of any failure on anyone's part. Just because a
+  class of thirty can't slow down for one student who needs another week on
+  fractions.
+why_para_2: Once that's clear, things tend to move quickly. Tutors don't spend
+  the tutoring session recapping what the student already knows. They go
+  straight to the sticking point, explain it differently from how it was taught
+  at school, and check it's genuinely understood before moving on. Parents
+  usually notice a shift in attitude before they notice a shift in grades. The
+  subject starts to feel less threatening. Then the grades follow. That
+  sequence, attitude first, marks second, is what we see again and again with
+  students across Portsmouth.
+accordion_quality: Every tutor working with Portsmouth students is vetted
+  individually on subject knowledge and communication before they're matched
+  with anyone. We pay close attention to exam board familiarity, including AQA
+  and OCR specifications used across Portsmouth's schools, and the standard
+  expected at local sixth forms.
+accordion_experience: Tutors with Portsmouth students are practised at
+  identifying where understanding actually broke down rather than assuming the
+  problem is recent. Many have experience working with students who've quietly
+  stopped believing they're capable of improving, and know how to change that.
+accordion_personalised: We don't start from the textbook chapter the class is
+  currently on. We start from a conversation about what's not working, then
+  build a tutoring plan around that. For students who've accumulated gaps over
+  time, that diagnostic approach is what makes the difference.
 reviews:
-  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. We were given a selection of tutors to choose from and told that if it did not feel like a good match we could try others. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
-  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."
-  - "Alison|Parent of A-Level Student|My son has been receiving tutor lessons in A Level History and A Level Sociology since the beginning of this year. The tutor has been such a tremendous support, teaching him content as well as exam technique."
-  - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B."
-  - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings. Highly recommend."
-  - "Nick|Parent of A-Level Student|Our son has been receiving tuition for Psychology A Level. The tutor has provided a solid base of support outside of school lessons and helped him to improve his latest grades."
+  - Ellen|Parent of GCSE Student|My daughter was struggling with confidence in
+    Maths GCSE and we decided to get a tutor. We were given a selection of
+    tutors to choose from and told that if it did not feel like a good match we
+    could try others. Our tutor was a complete star, listened, made it simple,
+    set good homework and gave my daughter her confidence back. Highly
+    recommend.
+  - Augusta|Parent of GCSE Student|The support given to my son by The Degree
+    Gap's tutors was fabulous and he passed all his GCSE subjects. They provided
+    experienced and organised tutors. Tutors provided resources targeting
+    specific areas of difficulty. The website is easy to use and tutors were
+    polite and on time.
+  - Alison|Parent of A-Level Student|My son has been receiving tutor lessons in
+    A Level History and A Level Sociology since the beginning of this year. The
+    tutor has been such a tremendous support, teaching him content as well as
+    exam technique.
+  - Keira|GCSE Student|Has definitely helped me increase my grades from an E to
+    a B.
+  - Philippa|Parent of GCSE Student|I was really pleased to discover the Degree
+    Gap when my daughter needed help getting the grades she needed for GCSEs.
+    The team offer a really personalised service and I felt really well looked
+    after from the start. There are lots of tutors to choose from and all
+    subjects are catered for, with great flexibility on timings. Highly
+    recommend.
+  - Nick|Parent of A-Level Student|Our son has been receiving tuition for
+    Psychology A Level. The tutor has provided a solid base of support outside
+    of school lessons and helped him to improve his latest grades.
 sitemap:
   priority: 0.8
   changefreq: monthly
