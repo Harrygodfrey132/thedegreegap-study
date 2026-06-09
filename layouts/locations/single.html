@@ -53,7 +53,7 @@ Location tutor page content contract:
           <a href="tel:07859965776" class="btn btn-outline btn-lg">Call: 07859 965776</a>
         </div>
         <p class="loc-hero__pricing">From <strong>£37/hr</strong> &middot; rates agreed directly with your tutor</p>
-        <a href="https://share.google/1yemVhJDnSjd6qg4n" target="_blank" rel="noopener" class="loc-hero__rating">
+        <button type="button" data-reviews-open class="loc-hero__rating" aria-label="Read our 107 Google reviews" aria-controls="bc-reviews-drawer" aria-expanded="false">
           <div class="loc-hero__google">
             <svg width="60" height="20" viewBox="0 0 60 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="Google">
               <text x="0" y="16" font-family="Arial,sans-serif" font-size="14" font-weight="700">
@@ -66,8 +66,8 @@ Location tutor page content contract:
           <div class="loc-hero__stars" aria-label="5 stars">
             ★★★★★
           </div>
-          <span class="loc-hero__count">100 Google reviews</span>
-        </a>
+          <span class="loc-hero__count">107 Google reviews · Click to see them →</span>
+        </button>
       </div>
       <div class="loc-hero__image" aria-hidden="true">
         <div class="loc-img-circle"></div>
@@ -198,7 +198,7 @@ Location tutor page content contract:
         {{ end }}
         <div class="loc-about__cta">
           <p class="loc-hero__pricing">From <strong>£37/hr</strong> &middot; rates agreed directly with your tutor</p>
-          <a href="https://share.google/1yemVhJDnSjd6qg4n" target="_blank" rel="noopener" class="loc-hero__rating">
+          <button type="button" data-reviews-open class="loc-hero__rating" aria-label="Read our 107 Google reviews" aria-controls="bc-reviews-drawer" aria-expanded="false">
             <div class="loc-hero__google">
               <svg width="60" height="20" viewBox="0 0 60 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="Google">
                 <text x="0" y="16" font-family="Arial,sans-serif" font-size="14" font-weight="700">
@@ -209,8 +209,8 @@ Location tutor page content contract:
             </div>
             <span class="loc-hero__score">5.0</span>
             <div class="loc-hero__stars" aria-label="5 stars">★★★★★</div>
-            <span class="loc-hero__count">100 Google reviews</span>
-          </a>
+            <span class="loc-hero__count">107 Google reviews · Click to see them →</span>
+          </button>
         </div>
       </div>
       <div class="loc-about__copy">
@@ -499,6 +499,7 @@ Location tutor page content contract:
   ]
 }
 </script>
+{{ partial "reviews-drawer.html" . }}
 {{ end }}
 
 <script type="application/ld+json">

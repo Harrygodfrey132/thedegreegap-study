@@ -7405,20 +7405,93 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 }
 .lvls-hero__card-trust {
   margin-top: 22px;
-  padding-top: 20px;
+  padding: 16px 0 0;
   border-top: 1px solid var(--border);
+  background: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 10px;
+  gap: 8px;
   color: var(--text-muted);
   font-size: 0.88rem;
+  width: 100%;
+  cursor: pointer;
+  font: inherit;
+  outline: none;
+  transition: color 0.15s ease;
 }
-.lvls-hero__card-trust strong { color: var(--text); }
+.lvls-hero__card-trust:hover { color: var(--text); }
+.lvls-hero__card-trust:focus-visible {
+  outline: 2px solid var(--burgundy);
+  outline-offset: 4px;
+  border-radius: 4px;
+}
+.lvls-hero__card-trust strong { color: var(--text); font-weight: 800; }
+.lvls-hero__card-trust-g {
+  display: inline-flex;
+  align-items: center;
+  flex-shrink: 0;
+}
 .lvls-hero__card-stars {
   color: #F4B400;
   letter-spacing: 2px;
   font-size: 0.95rem;
+}
+
+/* ---------- Google pill (reusable, clickable; opens reviews drawer) ---------- */
+.lvls-gpill {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 8px 14px;
+  font: inherit;
+  cursor: pointer;
+  color: var(--text);
+  font-size: 0.88rem;
+  font-weight: 600;
+  box-shadow: 0 4px 14px rgba(35, 23, 17, 0.08);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  text-decoration: none;
+}
+.lvls-gpill:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 8px 22px rgba(35, 23, 17, 0.12);
+}
+.lvls-gpill__g {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.lvls-gpill__stars { color: #F4B400; letter-spacing: 1px; }
+.lvls-gpill__count { color: var(--text-muted); font-weight: 600; }
+.lvls-gpill strong { color: var(--text); font-weight: 800; }
+
+/* Variant: pinned to bottom-right corner of the angle map */
+.lvls-gpill--mapcorner {
+  position: absolute;
+  bottom: 16px;
+  right: 16px;
+  font-size: 0.82rem;
+  padding: 7px 12px;
+}
+.lvls-gpill--mapcorner .lvls-gpill__count { display: none; }
+
+/* Variant: full-width banner above reviews carousel heading */
+.lvls-gpill--banner {
+  display: inline-flex;
+  margin-bottom: 14px;
+  padding: 10px 18px;
+}
+.lvls-gpill--banner strong { color: var(--text); }
+@media (max-width: 560px) {
+  .lvls-gpill--banner { font-size: 0.78rem; padding: 8px 14px; }
 }
 
 /* ---------- Subject angle ---------- */
