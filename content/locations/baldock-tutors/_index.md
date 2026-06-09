@@ -63,63 +63,63 @@ area_links:
 gcse_subjects:
   - GCSE Chemistry Tuition|Drill on the calculation steps, the moles questions
     and the mechanisms that decide the top grades at
-    GCSE.|https://thedegreegap.com/teachers/languages/GCSE-Chemistry
+    GCSE.|/book-a-call/
   - GCSE English Tuition|Sharper analytical writing for Language and Literature,
     with feedback that builds towards top-band essay
-    technique.|https://thedegreegap.com/teachers/languages/GCSE-English
+    technique.|/book-a-call/
   - GCSE Maths Tuition|Targeted help with the harder six-mark and
     problem-solving questions where ambitious students lose marks at the top of
-    the paper.|https://thedegreegap.com/teachers/languages/GCSE-Maths
+    the paper.|/book-a-call/
   - GCSE Geography Tuition|Case-study recall and long-answer technique, the two
     areas that separate a 6 from an
-    8.|https://thedegreegap.com/teachers/languages/GCSE-Geography
+    8.|/book-a-call/
   - GCSE Physics Tuition|Work on the multi-step problems and unit-conversion
     traps that catch even strong students at the top of the
-    paper.|https://thedegreegap.com/teachers/languages/GCSE-Physics
+    paper.|/book-a-call/
   - GCSE Biology Tuition|Tight coverage of the required practicals and the
     long-answer questions where grade 8 and 9 students separate
-    themselves.|https://thedegreegap.com/teachers/languages/GCSE-Biology
+    themselves.|/book-a-call/
   - GCSE History Tuition|Structured essay coaching across the major exam boards,
     with focus on the 16-mark questions where top marks are
-    won.|https://thedegreegap.com/teachers/languages/GCSE-History
+    won.|/book-a-call/
   - GCSE Computer Science Tuition|Programming projects and theory exam prep,
     with focus on the algorithm questions that decide top
-    marks.|https://thedegreegap.com/teachers/languages/GCSE-Computer-Science
+    marks.|/book-a-call/
   - GCSE French Tuition|Speaking and writing practice that lifts students into
     the higher tiers, with native-level pronunciation and
-    structure.|https://thedegreegap.com/teachers/languages/GCSE-French
+    structure.|/book-a-call/
 alevel_subjects:
   - A-Level Economics Tuition|Diagram precision and the evaluation chains that
     separate a B-grade essay from an A-grade
-    one.|https://thedegreegap.com/teachers/languages/A-level-Economics
+    one.|/book-a-call/
   - A-Level Maths Tuition|Pure, Mechanics and Statistics depth, with the
     structured proof work that separates an A from an
-    A*.|https://thedegreegap.com/teachers/languages/A-level-Maths
+    A*.|/book-a-call/
   - A-Level Physics Tuition|Problem-solving structure and the deep conceptual
     understanding that turns a B into an A* in Mechanics and
-    Fields.|https://thedegreegap.com/teachers/languages/A-level-Physics
+    Fields.|/book-a-call/
   - A-Level Psychology Tuition|Tight AO3 evaluation chains and the synoptic
     essay structure that lift students into the top
-    band.|https://thedegreegap.com/teachers/languages/A-level-Psychology
+    band.|/book-a-call/
   - A-Level Biology Tuition|Mastery of the synoptic questions and required
     practicals that decide the top mark band at
-    A-Level.|https://thedegreegap.com/teachers/languages/A-level-Biology
+    A-Level.|/book-a-call/
   - A-Level English Tuition|Critical reading and the comparative essay structure
     that decide the top mark bands at
-    A-Level.|https://thedegreegap.com/teachers/languages/A-level-English
+    A-Level.|/book-a-call/
   - A-Level Chemistry Tuition|Mechanisms, calculations and the multi-step
     organic synthesis problems where ambitious students need
-    precision.|https://thedegreegap.com/teachers/languages/A-level-Chemistry
+    precision.|/book-a-call/
   - A-Level History Tuition|Source analysis and the 25-mark essay, where most
     students lose marks they could keep with the right
-    technique.|https://thedegreegap.com/teachers/languages/A-level-History
+    technique.|/book-a-call/
   - A-Level Geography Tuition|Case studies, synoptic links and the 20-mark essay
     technique for students aiming at A* and A
-    grades.|https://thedegreegap.com/teachers/languages/A-level-Geography
+    grades.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with
     expert support on structure, subject motivation and final
-    polish.|https://thedegreegap.com/teachers/languages/Personal-Statement
+    polish.|/book-a-call/
 faq_1_q: How do I find the right tutor in Baldock?
 faq_1_a: Tell us the subject, the year group and what the student is trying to
   achieve. We take it from there. Most families hear back quickly, and you are

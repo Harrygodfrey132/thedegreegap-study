@@ -73,68 +73,68 @@ area_links:
 gcse_subjects:
   - GCSE Maths Tuition|Stretch tutoring across number, algebra and statistics
     for students who want the grade 8 and 9 mark bands within reach, not just a
-    comfortable pass.|https://thedegreegap.com/teachers/languages/GCSE-Maths
+    comfortable pass.|/book-a-call/
   - GCSE Chemistry Tuition|Precise one-to-one work through bonding, equations
     and rates for students aiming at grades 7 to 9 and the answers that get them
-    there.|https://thedegreegap.com/teachers/languages/GCSE-Chemistry
+    there.|/book-a-call/
   - GCSE English Tuition|Sharp tutoring across Language and Literature for
     students who want a method that holds up under exam timing, not just in calm
-    conditions at home.|https://thedegreegap.com/teachers/languages/GCSE-English
+    conditions at home.|/book-a-call/
   - GCSE Biology Tuition|Detailed work across the full specification for
     students who want to walk into the exam confident on the harder six and
     nine-mark
-    questions.|https://thedegreegap.com/teachers/languages/GCSE-Biology
+    questions.|/book-a-call/
   - GCSE Physics Tuition|Tutoring through forces, waves and electromagnetism
     built around the application questions that decide the top
-    grades.|https://thedegreegap.com/teachers/languages/GCSE-Physics
+    grades.|/book-a-call/
   - GCSE Computer Science Tuition|One-to-one work through programming,
     algorithms and Boolean logic for students who want both NEA and written
     paper landing at the
-    top.|https://thedegreegap.com/teachers/languages/GCSE-Computer-Science
+    top.|/book-a-call/
   - GCSE History Tuition|Source skills, essay structure and extended argument,
     taught by tutors who know what a grade 9 history answer actually looks
-    like.|https://thedegreegap.com/teachers/languages/GCSE-History
+    like.|/book-a-call/
   - GCSE French Tuition|Structured tutoring across all four skills for students
     aiming high in writing and speaking, where the easy marks at the top end get
-    missed most often.|https://thedegreegap.com/teachers/languages/GCSE-French
+    missed most often.|/book-a-call/
   - GCSE Geography Tuition|Case study revision, data response and nine-mark
     question technique, with tutoring that turns subject knowledge into the
     marks the mark scheme
-    rewards.|https://thedegreegap.com/teachers/languages/GCSE-Geography
+    rewards.|/book-a-call/
 alevel_subjects:
   - A-Level Chemistry Tuition|Step-by-step tutoring through organic, inorganic
     and physical chemistry for students preparing for medicine, dentistry or
     natural
-    sciences.|https://thedegreegap.com/teachers/languages/A-level-Chemistry
+    sciences.|/book-a-call/
   - A-Level Economics Tuition|Micro, macro and evaluation writing for students
     who want Economics to be the strongest part of their UCAS
-    application.|https://thedegreegap.com/teachers/languages/A-level-Economics
+    application.|/book-a-call/
   - A-Level Maths Tuition|Focused tutoring across pure, statistics and mechanics
     for students who want to stay ahead of Year 13 content before it gets
-    unmanageable.|https://thedegreegap.com/teachers/languages/A-level-Maths
+    unmanageable.|/book-a-call/
   - A-Level Biology Tuition|In-depth support through genetics, physiology and
     ecology for students aiming at medicine or a competitive bioscience
-    degree.|https://thedegreegap.com/teachers/languages/A-level-Biology
+    degree.|/book-a-call/
   - A-Level Physics Tuition|Patient, exam-board-aware tuition through mechanics,
     fields and quantum topics for students aiming at engineering or physics at a
-    top university.|https://thedegreegap.com/teachers/languages/A-level-Physics
+    top university.|/book-a-call/
   - A-Level English Tuition|Critical analysis and essay writing at A-Level,
     taught by tutors who know what markers reward at the top end of the mark
-    scheme.|https://thedegreegap.com/teachers/languages/A-level-English
+    scheme.|/book-a-call/
   - A-Level History Tuition|Help with the analytical essay writing A-Level
     History demands, for students aiming at top mark bands and history-led
     university
-    applications.|https://thedegreegap.com/teachers/languages/A-level-History
+    applications.|/book-a-call/
   - A-Level Psychology Tuition|Methodical work through research methods and
     evaluation writing for students who want to write with precision, not just
-    at length.|https://thedegreegap.com/teachers/languages/A-level-Psychology
+    at length.|/book-a-call/
   - A-Level Geography Tuition|Advanced concept work, fieldwork analysis and
     extended writing, with tutors who know what the top mark bands are looking
-    for.|https://thedegreegap.com/teachers/languages/A-level-Geography
+    for.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with
     expert support on structure, subject motivation, and final
-    polish.|https://thedegreegap.com/teachers/languages/Personal-Statement
+    polish.|/book-a-call/
 faq_1_q: Do you support students aiming for top universities?
 faq_1_a: Yes. We work with St Albans students preparing for Russell Group,
   medicine and Oxbridge applications. Tutors who've been through those processes

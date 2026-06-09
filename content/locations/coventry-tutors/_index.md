@@ -73,72 +73,72 @@ area_links:
 gcse_subjects:
   - GCSE Maths Tuition|Structured support that rebuilds confidence in number,
     algebra and geometry, giving students the fluency they need when exam
-    pressure kicks in.|https://thedegreegap.com/teachers/languages/GCSE-Maths
+    pressure kicks in.|/book-a-call/
   - GCSE Computer Science Tuition|Clear explanations of programming logic, data
     structures and algorithmic thinking for students who find abstract concepts
     hard to pin
-    down.|https://thedegreegap.com/teachers/languages/GCSE-Computer-Science
+    down.|/book-a-call/
   - GCSE English Tuition|Targeted work on essay structure, analytical writing
     and unseen texts, helping students turn a shaky grade into something they
-    can rely on.|https://thedegreegap.com/teachers/languages/GCSE-English
+    can rely on.|/book-a-call/
   - GCSE Physics Tuition|Support across forces, energy, electricity and waves,
     building real problem-solving ability rather than surface familiarity with
-    the topics.|https://thedegreegap.com/teachers/languages/GCSE-Physics
+    the topics.|/book-a-call/
   - GCSE History Tuition|Strong essay technique, source evaluation and content
     recall — the three things examiners reward and classrooms rarely have time
-    to drill.|https://thedegreegap.com/teachers/languages/GCSE-History
+    to drill.|/book-a-call/
   - GCSE Biology Tuition|Breaking down cells, genetics, ecosystems and
     physiology into clear steps, so students understand the logic rather than
     guessing at
-    answers.|https://thedegreegap.com/teachers/languages/GCSE-Biology
+    answers.|/book-a-call/
   - GCSE French Tuition|Consistent practice in speaking, reading, writing and
     listening, filling the gaps that build up when classroom pace outruns
-    individual progress.|https://thedegreegap.com/teachers/languages/GCSE-French
+    individual progress.|/book-a-call/
   - GCSE Geography Tuition|Case study recall, data response and extended writing
     — the three areas where Coventry students tend to lose the most
-    marks.|https://thedegreegap.com/teachers/languages/GCSE-Geography
+    marks.|/book-a-call/
   - GCSE Chemistry Tuition|Expert support across organic, inorganic and physical
     chemistry, focusing on understanding reactions rather than memorising
-    them.|https://thedegreegap.com/teachers/languages/GCSE-Chemistry
+    them.|/book-a-call/
 alevel_subjects:
   - A-Level Economics Tuition|Advanced micro and macro models, policy analysis
     and data interpretation, with tutors who know what top-grade answers
     actually look
-    like.|https://thedegreegap.com/teachers/languages/A-level-Economics
+    like.|/book-a-call/
   - A-Level Biology Tuition|In-depth support across genetics, physiology and
     ecology at A-Level, with careful attention to what each exam board expects
     in extended
-    answers.|https://thedegreegap.com/teachers/languages/A-level-Biology
+    answers.|/book-a-call/
   - A-Level Maths Tuition|Multi-step problem solving across pure maths,
     mechanics and statistics, for students who want to close the gap between
     working and getting full
-    marks.|https://thedegreegap.com/teachers/languages/A-level-Maths
+    marks.|/book-a-call/
   - A-Level History Tuition|Support in constructing sustained, well-evidenced
     arguments under timed conditions, for students who know the content but lose
     marks in the
-    writing.|https://thedegreegap.com/teachers/languages/A-level-History
+    writing.|/book-a-call/
   - A-Level Chemistry Tuition|A-Level organic, inorganic and physical chemistry
     unpacked clearly, with tutors who diagnose where understanding has broken
     down before going
-    further.|https://thedegreegap.com/teachers/languages/A-level-Chemistry
+    further.|/book-a-call/
   - A-Level Psychology Tuition|Research methods, key approaches and essay
     technique with tutors who know the mark scheme and the shortcuts examiners
     actually
-    reward.|https://thedegreegap.com/teachers/languages/A-level-Psychology
+    reward.|/book-a-call/
   - A-Level English Tuition|Critical analysis and essay writing across literary
     texts, building the depth of argument that separates a B from an A at
-    A-Level.|https://thedegreegap.com/teachers/languages/A-level-English
+    A-Level.|/book-a-call/
   - A-Level Physics Tuition|Advanced mechanics, fields and quantum physics made
     accessible through problem-focused sessions that build genuine
-    understanding.|https://thedegreegap.com/teachers/languages/A-level-Physics
+    understanding.|/book-a-call/
   - A-Level Geography Tuition|Advanced geographical concepts, fieldwork analysis
     and extended writing, with support on the parts of the course most students
     find hardest to
-    express.|https://thedegreegap.com/teachers/languages/A-level-Geography
+    express.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with
     expert support on structure, subject motivation, and final
-    polish.|https://thedegreegap.com/teachers/languages/Personal-Statement
+    polish.|/book-a-call/
 faq_1_q: How do I find the right tutor in Coventry?
 faq_1_a: Tell us the subject, the year group and what the student is trying to
   achieve. We take it from there. Most families hear back quickly, and you are

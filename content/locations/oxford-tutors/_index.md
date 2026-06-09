@@ -66,63 +66,63 @@ area_links:
 gcse_subjects:
   - GCSE Chemistry Tuition|Clear work through organic, inorganic and physical
     chemistry, with the depth Oxford sixth forms expect at the top of the grade
-    scale.|https://thedegreegap.com/teachers/languages/GCSE-Chemistry
+    scale.|/book-a-call/
   - GCSE Maths Tuition|Precision across algebra, number, geometry and
     statistics, with focus on the accuracy and speed that lands a grade 7 or
-    higher.|https://thedegreegap.com/teachers/languages/GCSE-Maths
+    higher.|/book-a-call/
   - GCSE History Tuition|Essay technique, source handling and content recall
     built to the standard students need when competing for selective sixth form
-    places.|https://thedegreegap.com/teachers/languages/GCSE-History
+    places.|/book-a-call/
   - GCSE English Tuition|Sharp analytical writing across Language and
     Literature, with close attention to the structure and textual detail
-    examiners reward.|https://thedegreegap.com/teachers/languages/GCSE-English
+    examiners reward.|/book-a-call/
   - GCSE Biology Tuition|Step-by-step support across cells, genetics, ecology
     and physiology, with the depth that separates a 6 from a 7 on the mark
-    scheme.|https://thedegreegap.com/teachers/languages/GCSE-Biology
+    scheme.|/book-a-call/
   - GCSE Geography Tuition|Targeted work across physical and human geography,
     with focus on the extended answer questions where grades are won or
-    lost.|https://thedegreegap.com/teachers/languages/GCSE-Geography
+    lost.|/book-a-call/
   - GCSE Physics Tuition|Confident problem-solving through forces, energy,
     electricity and waves, for students who want the why behind the
-    formula.|https://thedegreegap.com/teachers/languages/GCSE-Physics
+    formula.|/book-a-call/
   - GCSE French Tuition|Structured work across all four skills, with grammatical
     accuracy and range that earns marks in the upper grade
-    bands.|https://thedegreegap.com/teachers/languages/GCSE-French
+    bands.|/book-a-call/
   - GCSE Computer Science Tuition|Clarity on programming logic, algorithms and
     computer systems, for students who find the abstract elements hardest to pin
-    down.|https://thedegreegap.com/teachers/languages/GCSE-Computer-Science
+    down.|/book-a-call/
 alevel_subjects:
   - A-Level Economics Tuition|One-to-one work through micro, macro and data
     response for students aiming at the grades top universities ask
-    for.|https://thedegreegap.com/teachers/languages/A-level-Economics
+    for.|/book-a-call/
   - A-Level Maths Tuition|Advanced problem-solving across pure, mechanics and
     statistics, with focus on the multi-step questions that decide A*
-    grades.|https://thedegreegap.com/teachers/languages/A-level-Maths
+    grades.|/book-a-call/
   - A-Level Chemistry Tuition|Rigorous work through organic, inorganic and
     physical chemistry with tutors who know where the hard marks lie and how to
-    win them.|https://thedegreegap.com/teachers/languages/A-level-Chemistry
+    win them.|/book-a-call/
   - A-Level Biology Tuition|Deeper understanding across genetics, ecosystems and
     physiology, matched to what the exam board rewards at the top mark
-    bands.|https://thedegreegap.com/teachers/languages/A-level-Biology
+    bands.|/book-a-call/
   - A-Level Physics Tuition|Confident work through advanced mechanics, fields
     and quantum physics with tutors who know where the difficult marks
-    sit.|https://thedegreegap.com/teachers/languages/A-level-Physics
+    sit.|/book-a-call/
   - A-Level English Tuition|Critical depth and analytical precision in essay
     writing, built to the standard the most selective universities
-    expect.|https://thedegreegap.com/teachers/languages/A-level-English
+    expect.|/book-a-call/
   - A-Level History Tuition|Precise, sustained historical arguments under timed
     conditions, built to the standard Oxbridge and Russell Group entry
-    requires.|https://thedegreegap.com/teachers/languages/A-level-History
+    requires.|/book-a-call/
   - A-Level Psychology Tuition|Sharp work on research methods, core approaches
     and evaluation technique with tutors who know the mark scheme at the top
-    end.|https://thedegreegap.com/teachers/languages/A-level-Psychology
+    end.|/book-a-call/
   - A-Level Geography Tuition|Detailed work across physical and human geography,
     data analysis and extended writing for strong A-Level
-    predictions.|https://thedegreegap.com/teachers/languages/A-level-Geography
+    predictions.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with
     expert support on structure, subject motivation, and final
-    polish.|https://thedegreegap.com/teachers/languages/Personal-Statement
+    polish.|/book-a-call/
 faq_1_q: How much does tutoring cost in Oxford?
 faq_1_a: Sessions start from £37 per hour. The exact rate depends on the subject
   and the tutor, and it's always agreed before anything is booked. No surprises,

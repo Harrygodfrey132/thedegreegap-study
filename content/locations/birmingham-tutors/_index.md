@@ -71,76 +71,76 @@ area_links:
 gcse_subjects:
   - GCSE Biology Tuition|One-to-one support that breaks down cell biology,
     genetics and ecology for students who need to hold exam technique alongside
-    content knowledge.|https://thedegreegap.com/teachers/languages/GCSE-Biology
+    content knowledge.|/book-a-call/
   - GCSE Chemistry Tuition|Structured tuition through organic, inorganic and
     physical chemistry that builds the understanding Birmingham students need
     when topics get harder in Year
-    11.|https://thedegreegap.com/teachers/languages/GCSE-Chemistry
+    11.|/book-a-call/
   - GCSE Maths Tuition|Patient, focused support covering algebra, geometry,
     number and statistics, building fluency for students who know more than
     their exam results currently
-    show.|https://thedegreegap.com/teachers/languages/GCSE-Maths
+    show.|/book-a-call/
   - GCSE French Tuition|Steady practice across speaking, listening, reading and
     writing that builds the confidence to perform on exam day, not just in
-    class.|https://thedegreegap.com/teachers/languages/GCSE-French
+    class.|/book-a-call/
   - GCSE History Tuition|Strong essay technique and source analysis developed
     carefully, so students write with conviction rather than second-guessing the
-    mark scheme.|https://thedegreegap.com/teachers/languages/GCSE-History
+    mark scheme.|/book-a-call/
   - GCSE English Tuition|Practical support across Language and Literature that
     helps students develop a reliable approach to analysis they can use
-    independently.|https://thedegreegap.com/teachers/languages/GCSE-English
+    independently.|/book-a-call/
   - GCSE Physics Tuition|Clear, methodical guidance through forces, energy and
     electricity for students who find the subject clicks better with someone
     explaining it
-    one-to-one.|https://thedegreegap.com/teachers/languages/GCSE-Physics
+    one-to-one.|/book-a-call/
   - GCSE Computer Science Tuition|Support that makes programming fundamentals
     and algorithmic thinking approachable, building confidence alongside the
     technical skills examiners want to
-    see.|https://thedegreegap.com/teachers/languages/GCSE-Computer-Science
+    see.|/book-a-call/
   - GCSE Geography Tuition|Targeted revision across physical and human geography
     with clear support on case studies and extended writing for students aiming
     to improve their
-    grade.|https://thedegreegap.com/teachers/languages/GCSE-Geography
+    grade.|/book-a-call/
 alevel_subjects:
   - A-Level Economics Tuition|Advanced support through micro and macroeconomic
     models and evaluation that helps Birmingham students demonstrate real
     analytical
-    depth.|https://thedegreegap.com/teachers/languages/A-level-Economics
+    depth.|/book-a-call/
   - A-Level History Tuition|Building the ability to construct and sustain
     complex arguments, helping students write with the precision and confidence
     that top grades
-    require.|https://thedegreegap.com/teachers/languages/A-level-History
+    require.|/book-a-call/
   - A-Level Chemistry Tuition|Expert tuition through organic, inorganic and
     physical chemistry for students who need someone to explain things clearly,
     not just repeat what the textbook
-    says.|https://thedegreegap.com/teachers/languages/A-level-Chemistry
+    says.|/book-a-call/
   - A-Level Psychology Tuition|Methodical support through research methods, key
     approaches and essay technique that makes the subject genuinely manageable
     rather than just
-    memorised.|https://thedegreegap.com/teachers/languages/A-level-Psychology
+    memorised.|/book-a-call/
   - A-Level Maths Tuition|Focused support across pure maths, mechanics and
     statistics for students building the problem-solving confidence that A-Level
     grade boundaries
-    demand.|https://thedegreegap.com/teachers/languages/A-level-Maths
+    demand.|/book-a-call/
   - A-Level English Tuition|Critical analysis and essay writing support that
     helps students develop their own voice and write arguments that stand out at
-    A-Level.|https://thedegreegap.com/teachers/languages/A-level-English
+    A-Level.|/book-a-call/
   - A-Level Physics Tuition|Patient, problem-focused tuition in advanced
     mechanics, fields and quantum physics for students who need the concepts
     broken down
-    differently.|https://thedegreegap.com/teachers/languages/A-level-Physics
+    differently.|/book-a-call/
   - A-Level Geography Tuition|Advanced geographical concepts, fieldwork analysis
     and extended writing supported by tutors who know what the top mark bands
     actually look
-    for.|https://thedegreegap.com/teachers/languages/A-level-Geography
+    for.|/book-a-call/
   - A-Level Biology Tuition|In-depth guidance through genetics, ecology and
     physiology for students who need to develop proper understanding rather than
     surface-level
-    recall.|https://thedegreegap.com/teachers/languages/A-level-Biology
+    recall.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with
     expert support on structure, subject motivation, and final
-    polish.|https://thedegreegap.com/teachers/languages/Personal-Statement
+    polish.|/book-a-call/
 faq_1_q: Do you support students aiming for grammar or independent schools in
   Birmingham?
 faq_1_a: Yes. We work with students preparing for 11+ exams, Common Entrance and

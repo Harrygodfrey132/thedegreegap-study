@@ -7681,6 +7681,90 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 }
 .lvls-faq__closer a:hover { text-decoration: underline; }
 
+/* ---------- Who we are (founder card with photo) ---------- */
+.lvls-about {
+  padding: 56px 0;
+  background: #fdfbf8;
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+}
+.lvls-about__inner {
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  gap: 40px;
+  align-items: center;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.lvls-about__photo {
+  position: relative;
+}
+.lvls-about__photo img {
+  width: 100%;
+  height: auto;
+  border-radius: 14px;
+  display: block;
+  box-shadow: 0 12px 32px rgba(35, 23, 17, 0.12);
+  border: 4px solid var(--white);
+}
+.lvls-about__photo-caption {
+  display: block;
+  text-align: center;
+  margin-top: 12px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: var(--text-muted);
+  font-style: italic;
+}
+.lvls-about__eyebrow {
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  color: var(--burgundy);
+  margin: 0 0 8px;
+}
+.lvls-about__title {
+  font-size: clamp(1.25rem, 2vw, 1.6rem);
+  font-weight: 900;
+  letter-spacing: -0.015em;
+  line-height: 1.25;
+  color: var(--text);
+  margin: 0 0 14px;
+}
+.lvls-about__copy p {
+  font-size: 0.98rem;
+  line-height: 1.7;
+  color: var(--text-muted);
+  margin: 0 0 12px;
+}
+.lvls-about__copy p:last-of-type { margin-bottom: 18px; }
+.lvls-about__cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 11px 22px;
+  background: var(--burgundy);
+  color: var(--cream);
+  font-weight: 800;
+  font-size: 0.95rem;
+  letter-spacing: -0.005em;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background 0.15s ease;
+}
+.lvls-about__cta:hover {
+  background: var(--burgundy-dark);
+  color: var(--white);
+  text-decoration: none;
+}
+@media (max-width: 720px) {
+  .lvls-about { padding: 40px 0; }
+  .lvls-about__inner { grid-template-columns: 1fr; gap: 24px; max-width: 480px; }
+  .lvls-about__photo { max-width: 220px; margin: 0 auto; }
+  .lvls-about__copy { text-align: left; }
+}
+
 /* ---------- 3 Steps (per-page customisable) ---------- */
 .lvls-steps {
   position: relative;

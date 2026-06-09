@@ -76,77 +76,77 @@ gcse_subjects:
   - GCSE Physics Tuition|Problem-solving support across forces, energy and
     electricity for students who need to turn solid understanding into the marks
     top sixth forms
-    expect.|https://thedegreegap.com/teachers/languages/GCSE-Physics
+    expect.|/book-a-call/
   - GCSE English Tuition|Analytical writing support across Language and
     Literature, helping students argue with the precision and control that
     distinguishes a grade 7 from a grade
-    6.|https://thedegreegap.com/teachers/languages/GCSE-English
+    6.|/book-a-call/
   - GCSE History Tuition|Essay technique and source analysis developed with the
     rigour Cambridge students need when competing for places at selective sixth
-    forms and beyond.|https://thedegreegap.com/teachers/languages/GCSE-History
+    forms and beyond.|/book-a-call/
   - GCSE Computer Science Tuition|Programming fundamentals and computational
     thinking support for students who want to go beyond the syllabus and
     genuinely understand what they're
-    building.|https://thedegreegap.com/teachers/languages/GCSE-Computer-Science
+    building.|/book-a-call/
   - GCSE Biology Tuition|Clear guidance through cells, genetics and ecology that
     builds real depth, so students can handle the harder questions rather than
     just the predictable
-    ones.|https://thedegreegap.com/teachers/languages/GCSE-Biology
+    ones.|/book-a-call/
   - GCSE French Tuition|Accurate, confident performance across all four skills,
     with targeted work on the grammar points that separate the highest grades
-    from the rest.|https://thedegreegap.com/teachers/languages/GCSE-French
+    from the rest.|/book-a-call/
   - GCSE Maths Tuition|Advanced problem-solving support across algebra, geometry
     and statistics for students pushing toward the top grade boundaries Hills
-    Road asks for.|https://thedegreegap.com/teachers/languages/GCSE-Maths
+    Road asks for.|/book-a-call/
   - GCSE Geography Tuition|Support on case studies, data response and extended
     writing for students who want their Geography grade to hold its own against
     their strongest
-    subjects.|https://thedegreegap.com/teachers/languages/GCSE-Geography
+    subjects.|/book-a-call/
   - GCSE Chemistry Tuition|Structured tuition through organic, inorganic and
     physical chemistry that builds the deep understanding Cambridge's most
     competitive sixth form entries
-    reward.|https://thedegreegap.com/teachers/languages/GCSE-Chemistry
+    reward.|/book-a-call/
 alevel_subjects:
   - "A-Level History Tuition|Sustained argument, precise evidence and the
     ability to challenge historiography: the skills that separate A from A* for
     Cambridge's most ambitious
-    students.|https://thedegreegap.com/teachers/languages/A-level-History"
+    students.|/book-a-call/"
   - A-Level Maths Tuition|Expert support across pure maths, mechanics and
     statistics, tackling the multi-step problems that decide whether a student's
     prediction goes up or stays
-    put.|https://thedegreegap.com/teachers/languages/A-level-Maths
+    put.|/book-a-call/
   - A-Level Geography Tuition|Advanced geographical analysis, fieldwork and
     extended writing supported by tutors who know exactly what the top mark
     bands are looking
-    for.|https://thedegreegap.com/teachers/languages/A-level-Geography
+    for.|/book-a-call/
   - A-Level Biology Tuition|In-depth support through genetics, physiology and
     ecology for students building the subject knowledge that makes a science
     UCAS application
-    credible.|https://thedegreegap.com/teachers/languages/A-level-Biology
+    credible.|/book-a-call/
   - "A-Level Psychology Tuition|Research methods, key approaches and essay
     technique: the three things that define whether A-Level Psychology produces
     a strong grade or a frustrating
-    one.|https://thedegreegap.com/teachers/languages/A-level-Psychology"
+    one.|/book-a-call/"
   - A-Level Chemistry Tuition|Rigorous one-to-one tuition through organic,
     inorganic and physical chemistry for students who need genuine
     understanding, not just exam
-    technique.|https://thedegreegap.com/teachers/languages/A-level-Chemistry
+    technique.|/book-a-call/
   - A-Level English Tuition|Critical analysis and essay construction support
     that helps students find a distinctive voice and write arguments that hold
     up under the toughest mark
-    schemes.|https://thedegreegap.com/teachers/languages/A-level-English
+    schemes.|/book-a-call/
   - A-Level Economics Tuition|Micro and macroeconomic models, policy evaluation
     and data analysis, building the analytical depth that university economics
     departments want to
-    see.|https://thedegreegap.com/teachers/languages/A-level-Economics
+    see.|/book-a-call/
   - A-Level Physics Tuition|Focused tuition in advanced mechanics, fields and
     quantum physics for students who want their Physics grade to reflect what
     they actually
-    understand.|https://thedegreegap.com/teachers/languages/A-level-Physics
+    understand.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with
     expert support on structure, subject motivation, and final
-    polish.|https://thedegreegap.com/teachers/languages/Personal-Statement
+    polish.|/book-a-call/
 faq_1_q: Do you help with sixth form entrance exams or interviews in Cambridge?
 faq_1_a: Yes. We work with Cambridge students preparing for competitive sixth
   form entry, including aptitude tests and interviews. Tutors know what these

@@ -69,65 +69,65 @@ area_links:
 gcse_subjects:
   - GCSE English Tuition|Sharp support for Language and Literature, building the
     analytical writing and close-reading skills examiners
-    reward.|https://thedegreegap.com/teachers/languages/GCSE-English
+    reward.|/book-a-call/
   - GCSE Physics Tuition|Structured work through forces, energy and waves, with
     a focus on applying concepts to the calculation questions that cost
-    marks.|https://thedegreegap.com/teachers/languages/GCSE-Physics
+    marks.|/book-a-call/
   - GCSE Maths Tuition|Targeted help across number, algebra, geometry and
     statistics for students who need to hit their grade requirements with
-    confidence.|https://thedegreegap.com/teachers/languages/GCSE-Maths
+    confidence.|/book-a-call/
   - "GCSE History Tuition|Essay structure, source analysis and content recall:
     the three things that separate a grade 6 from a grade 8 in GCSE
-    History.|https://thedegreegap.com/teachers/languages/GCSE-History"
+    History.|/book-a-call/"
   - GCSE Chemistry Tuition|Support that turns rote learning into genuine
     understanding, so students can handle the unfamiliar questions
-    too.|https://thedegreegap.com/teachers/languages/GCSE-Chemistry
+    too.|/book-a-call/
   - GCSE Computer Science Tuition|From algorithms and data structures to
     programming logic, support that builds both the theory and the practical
-    skills.|https://thedegreegap.com/teachers/languages/GCSE-Computer-Science
+    skills.|/book-a-call/
   - GCSE Geography Tuition|Case studies, data interpretation and extended
     writing, all tied to the exam board Brighton students are actually
-    sitting.|https://thedegreegap.com/teachers/languages/GCSE-Geography
+    sitting.|/book-a-call/
   - GCSE French Tuition|Oral and written practice focused on the real exam
     tasks, building the accuracy and fluency the mark scheme
-    requires.|https://thedegreegap.com/teachers/languages/GCSE-French
+    requires.|/book-a-call/
   - GCSE Biology Tuition|Clear, logical progression through cells, genetics,
     ecology and physiology for students aiming at the higher tier grade
-    boundaries.|https://thedegreegap.com/teachers/languages/GCSE-Biology
+    boundaries.|/book-a-call/
 alevel_subjects:
   - A-Level Economics Tuition|Advanced micro and macroeconomic theory with
     strong essay and data-response technique for students targeting top A-Level
-    grades.|https://thedegreegap.com/teachers/languages/A-level-Economics
+    grades.|/book-a-call/
   - A-Level Chemistry Tuition|Rigorous support across all three branches of
     A-Level Chemistry, with the kind of depth the hardest exam questions
-    demand.|https://thedegreegap.com/teachers/languages/A-level-Chemistry
+    demand.|/book-a-call/
   - A-Level Psychology Tuition|From research methods to the major approaches,
     expert guidance on both content and the structured answers examiners want to
-    see.|https://thedegreegap.com/teachers/languages/A-level-Psychology
+    see.|/book-a-call/
   - A-Level Maths Tuition|Pure maths, mechanics and statistics support that goes
     beyond covering content to building the problem-solving instinct A-Level
-    rewards.|https://thedegreegap.com/teachers/languages/A-level-Maths
+    rewards.|/book-a-call/
   - A-Level History Tuition|Argument construction, historiography and extended
     essay writing, with tutors who know exactly what top-band answers look
-    like.|https://thedegreegap.com/teachers/languages/A-level-History
+    like.|/book-a-call/
   - A-Level Geography Tuition|Advanced physical and human geography,
     dissertation support and the extended writing skills that separate good
     results from great
-    ones.|https://thedegreegap.com/teachers/languages/A-level-Geography
+    ones.|/book-a-call/
   - A-Level English Tuition|Critical analysis and comparative essay work across
     prose, poetry and drama, building the depth university admissions tutors
-    expect.|https://thedegreegap.com/teachers/languages/A-level-English
+    expect.|/book-a-call/
   - A-Level Biology Tuition|Detailed support through genetics, physiology and
     ecology at A-Level, with exam technique built around the mark schemes that
-    matter.|https://thedegreegap.com/teachers/languages/A-level-Biology
+    matter.|/book-a-call/
   - A-Level Physics Tuition|From mechanics and fields to quantum physics,
     support that builds genuine conceptual understanding alongside the
     calculation
-    skills.|https://thedegreegap.com/teachers/languages/A-level-Physics
+    skills.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with
     expert support on structure, subject motivation, and final
-    polish.|https://thedegreegap.com/teachers/languages/Personal-Statement
+    polish.|/book-a-call/
 faq_1_q: How quickly can tuition start in Brighton?
 faq_1_a: Usually within a few days of getting in touch. Once we know the
   subject, level and what the student needs, we move quickly. No long waiting

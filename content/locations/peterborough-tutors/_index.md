@@ -72,70 +72,70 @@ gcse_subjects:
   - GCSE Biology Tuition|Clear, step-by-step tuition through the full GCSE
     specification for students who find the volume of content harder to handle
     than the concepts
-    themselves.|https://thedegreegap.com/teachers/languages/GCSE-Biology
+    themselves.|/book-a-call/
   - GCSE Maths Tuition|Targeted one-to-one work that traces the gap back to
     where it actually started, so students stop getting stuck at the same point
-    every paper.|https://thedegreegap.com/teachers/languages/GCSE-Maths
+    every paper.|/book-a-call/
   - GCSE Computer Science Tuition|Patient sessions through programming,
     algorithms and Boolean logic for students who want their coursework and
     written paper to feel like the same
-    subject.|https://thedegreegap.com/teachers/languages/GCSE-Computer-Science
+    subject.|/book-a-call/
   - GCSE English Tuition|Calm, methodical support across Language and Literature
     for students who find the exam unpredictable and want a method they can
-    actually trust.|https://thedegreegap.com/teachers/languages/GCSE-English
+    actually trust.|/book-a-call/
   - GCSE History Tuition|Help with source skills, essay structure and extended
     argument for students who know the content but can't yet turn it into
-    marks.|https://thedegreegap.com/teachers/languages/GCSE-History
+    marks.|/book-a-call/
   - GCSE French Tuition|Structured, patient tutoring across all four skills for
     students who lost their footing with the language early and want to feel in
-    control of it again.|https://thedegreegap.com/teachers/languages/GCSE-French
+    control of it again.|/book-a-call/
   - GCSE Chemistry Tuition|One-to-one work through bonding, equations and rates
     for students who need the abstract bits made concrete before they'll
-    stick.|https://thedegreegap.com/teachers/languages/GCSE-Chemistry
+    stick.|/book-a-call/
   - GCSE Physics Tuition|Support through forces, waves and electricity built
     around exam questions, not just textbook theory in
-    isolation.|https://thedegreegap.com/teachers/languages/GCSE-Physics
+    isolation.|/book-a-call/
   - GCSE Geography Tuition|Case study revision, data response and the six-mark
     question, with tutoring that turns knowledge into actual exam
-    marks.|https://thedegreegap.com/teachers/languages/GCSE-Geography
+    marks.|/book-a-call/
 alevel_subjects:
   - A-Level Psychology Tuition|Methodical one-to-one support through research
     methods and evaluation writing for students who want to write with
     precision, not just at
-    length.|https://thedegreegap.com/teachers/languages/A-level-Psychology
+    length.|/book-a-call/
   - A-Level Maths Tuition|Focused tutoring across pure, statistics and mechanics
     for students who want to stay ahead of the content before Year 13 makes it
-    unmanageable.|https://thedegreegap.com/teachers/languages/A-level-Maths
+    unmanageable.|/book-a-call/
   - A-Level Economics Tuition|Support through micro, macro and evaluation
     writing for students who want Economics to be a genuine strength, not a
     guess on results
-    day.|https://thedegreegap.com/teachers/languages/A-level-Economics
+    day.|/book-a-call/
   - A-Level English Tuition|Help developing critical analysis and essay writing
     at A-Level, for students who want to understand what markers actually reward
     at this
-    standard.|https://thedegreegap.com/teachers/languages/A-level-English
+    standard.|/book-a-call/
   - A-Level Biology Tuition|In-depth support through genetics, physiology and
     ecology for students who need more time on the material than a shared
     classroom can give
-    them.|https://thedegreegap.com/teachers/languages/A-level-Biology
+    them.|/book-a-call/
   - A-Level Chemistry Tuition|Clear, step-by-step tuition through organic,
     inorganic and physical chemistry for students who need to build real
     understanding, not just enough to scrape the next
-    mock.|https://thedegreegap.com/teachers/languages/A-level-Chemistry
+    mock.|/book-a-call/
   - A-Level History Tuition|Help with the analytical essay writing A-Level
     History demands, for students who find the jump from GCSE sharper than they
-    expected.|https://thedegreegap.com/teachers/languages/A-level-History
+    expected.|/book-a-call/
   - A-Level Physics Tuition|Patient, exam-board-aware tuition through mechanics,
     fields and quantum topics for students who find the gap between
     understanding and answering wider than it should
-    be.|https://thedegreegap.com/teachers/languages/A-level-Physics
+    be.|/book-a-call/
   - A-Level Geography Tuition|Advanced concept work, fieldwork analysis and
     extended writing, with tutors who know what the top mark bands actually want
-    to see.|https://thedegreegap.com/teachers/languages/A-level-Geography
+    to see.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with
     expert support on structure, subject motivation, and final
-    polish.|https://thedegreegap.com/teachers/languages/Personal-Statement
+    polish.|/book-a-call/
 faq_1_q: Can you support students who have fallen significantly behind?
 faq_1_a: Yes. A lot of the students we work with in Peterborough have gaps
   stretching back a year or more. We start by working out exactly where things

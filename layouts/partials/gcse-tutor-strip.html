@@ -4,7 +4,7 @@
 
 {{/* Tutor list — page frontmatter `tutors:` wins; otherwise pick 24 random from the shared pool in data/tutors.yaml. We pull more than we need so broken-image cards can be hidden and spares take their place. */}}
 {{ $tutors := .Params.tutors | default (first 24 (shuffle site.Data.tutors)) }}
-{{ $browseUrl        := .Params.tutors_browse_url | default (cond $isAlevel "https://thedegreegap.com/teachers/languages/A-Level-Maths" "https://thedegreegap.com/teachers/languages/GCSE-Maths") }}
+{{ $browseUrl        := .Params.tutors_browse_url | default (cond $isAlevel "/book-a-call/" "/book-a-call/") }}
 {{ $tutorStripHead   := .Params.tutor_strip_heading | default (printf "%s tutors ready to work with your child" $level) }}
 {{ $tutorStripBody   := .Params.tutor_strip_body    | default "Browse tutor profiles, read about their approach and experience, or let us make the introduction — we'll match your child with the right person for their subjects and year group." }}
 

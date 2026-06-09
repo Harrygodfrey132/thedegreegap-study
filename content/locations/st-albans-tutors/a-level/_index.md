@@ -22,7 +22,7 @@ first_lesson_quote_grade: "C grades to A grades"
 
 tutor_strip_heading: "St Albans A-Level tutors who've coached the Russell Group and Oxbridge gates"
 tutor_strip_body: "Our St Albans A-Level tutors have worked with Year 12s and 13s aiming at Cambridge, Oxford, Imperial, UCL and the wider Russell Group. Browse the profiles, or we'll make the introduction."
-tutors_browse_url: "https://thedegreegap.com/teachers/languages/A-level-Maths"
+tutors_browse_url: "/book-a-call/"
 
 pathways_heading: "Where St Albans A-Level Leavers Actually Go"
 pathways_lead: "Most St Albans A-Level tutoring students leave for one of these three post-18 routes."

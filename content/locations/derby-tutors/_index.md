@@ -68,77 +68,77 @@ gcse_subjects:
   - GCSE Computer Science Tuition|One-to-one support across programming,
     algorithms and data that gives Derby students a real edge in a city built on
     technical
-    industry.|https://thedegreegap.com/teachers/languages/GCSE-Computer-Science
+    industry.|/book-a-call/
   - GCSE Maths Tuition|Targeted work that traces gaps back to where they started
     and rebuilds, so Derby students go into exams with solid foundations rather
     than surface-level
-    recall.|https://thedegreegap.com/teachers/languages/GCSE-Maths
+    recall.|/book-a-call/
   - GCSE Physics Tuition|From forces and energy to electricity and space,
     support that turns a patchy understanding into the kind of exam performance
     that opens doors at sixth
-    form.|https://thedegreegap.com/teachers/languages/GCSE-Physics
+    form.|/book-a-call/
   - GCSE English Tuition|Close reading and structured writing support that helps
     Derby students stop losing marks on questions they could answer, if they
     knew what was being
-    asked.|https://thedegreegap.com/teachers/languages/GCSE-English
+    asked.|/book-a-call/
   - GCSE Chemistry Tuition|Working through organic, inorganic and physical
     chemistry with a tutor who takes the time to explain it properly, not just
     move on when the class needs
-    to.|https://thedegreegap.com/teachers/languages/GCSE-Chemistry
+    to.|/book-a-call/
   - GCSE Geography Tuition|Support connecting physical and human geography into
     coherent exam answers, with a focus on the case studies and extended writing
     that decide
-    grades.|https://thedegreegap.com/teachers/languages/GCSE-Geography
+    grades.|/book-a-call/
   - GCSE French Tuition|Patient practice across speaking, writing and reading
     that builds the accuracy and confidence Derby students need to perform well
-    on the day.|https://thedegreegap.com/teachers/languages/GCSE-French
+    on the day.|/book-a-call/
   - GCSE Biology Tuition|Clear, logical support through cells, genetics and
     ecology for students who want biology to be a genuine strength rather than a
     subject they scrape
-    through.|https://thedegreegap.com/teachers/languages/GCSE-Biology
+    through.|/book-a-call/
   - GCSE History Tuition|Sharp essay technique and source analysis for students
     who know the content but drop marks because they haven't been shown how
     examiners want it
-    presented.|https://thedegreegap.com/teachers/languages/GCSE-History
+    presented.|/book-a-call/
 alevel_subjects:
   - A-Level Physics Tuition|Methodical A-Level support across mechanics, fields
     and quantum physics for Derby students aiming at engineering, physics or
     technical
-    degrees.|https://thedegreegap.com/teachers/languages/A-level-Physics
+    degrees.|/book-a-call/
   - A-Level Chemistry Tuition|In-depth work across all three branches of A-Level
     Chemistry for students pushing towards medicine, pharmacy or a Russell Group
     science
-    degree.|https://thedegreegap.com/teachers/languages/A-level-Chemistry
+    degree.|/book-a-call/
   - A-Level Economics Tuition|Support through advanced micro and macroeconomic
     models, making the analysis feel manageable and the evaluation answers
-    sharper.|https://thedegreegap.com/teachers/languages/A-level-Economics
+    sharper.|/book-a-call/
   - A-Level Maths Tuition|A-Level tutoring across pure maths, mechanics and
     statistics for students who need the grades that competitive university
-    courses demand.|https://thedegreegap.com/teachers/languages/A-level-Maths
+    courses demand.|/book-a-call/
   - A-Level Geography Tuition|Help pulling together case studies, fieldwork and
     theory into high-quality exam answers for students aiming at strong
     predicted
-    grades.|https://thedegreegap.com/teachers/languages/A-level-Geography
+    grades.|/book-a-call/
   - A-Level Biology Tuition|Expert guidance through advanced biological systems,
     from genetics to ecosystems, for students who want biology to carry weight
     on their UCAS
-    application.|https://thedegreegap.com/teachers/languages/A-level-Biology
+    application.|/book-a-call/
   - A-Level English Tuition|Close reading and critical writing support for
     students who want A-Level English to be a strength rather than a question
     mark on their
-    application.|https://thedegreegap.com/teachers/languages/A-level-English
+    application.|/book-a-call/
   - A-Level History Tuition|Support building the kind of sustained, analytical
     argument that A-Level History examiners reward, going beyond content
     knowledge into how to use it under timed
-    conditions.|https://thedegreegap.com/teachers/languages/A-level-History
+    conditions.|/book-a-call/
   - A-Level Psychology Tuition|Clear, structured support across research
     methods, key studies and evaluation for Derby students who want to
     understand the subject, not just memorise
-    it.|https://thedegreegap.com/teachers/languages/A-level-Psychology
+    it.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with
     expert support on structure, subject motivation, and final
-    polish.|https://thedegreegap.com/teachers/languages/Personal-Statement
+    polish.|/book-a-call/
 faq_1_q: How much does tutoring cost in Derby?
 faq_1_a: Sessions start from £37 per hour. The exact rate depends on the subject
   and the tutor, and it is always agreed before anything is booked. No

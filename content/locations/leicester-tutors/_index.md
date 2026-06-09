@@ -72,74 +72,74 @@ gcse_subjects:
   - GCSE English Tuition|Targeted support across Language and Literature,
     helping students move from surface-level answers to the analytical depth
     that earns higher
-    marks.|https://thedegreegap.com/teachers/languages/GCSE-English
+    marks.|/book-a-call/
   - GCSE Maths Tuition|Patient, structured work across number, algebra, geometry
     and statistics, building the exam-day fluency that ambition alone can't
-    create.|https://thedegreegap.com/teachers/languages/GCSE-Maths
+    create.|/book-a-call/
   - GCSE Chemistry Tuition|Clear explanations through organic, inorganic and
     physical chemistry, so students understand what is happening rather than
     just memorising
-    it.|https://thedegreegap.com/teachers/languages/GCSE-Chemistry
+    it.|/book-a-call/
   - GCSE Geography Tuition|Strong support on case studies, data response and
     extended writing, helping students get the marks their knowledge
-    deserves.|https://thedegreegap.com/teachers/languages/GCSE-Geography
+    deserves.|/book-a-call/
   - GCSE Biology Tuition|Step-by-step work through cells, genetics and
     ecosystems, building the solid understanding Leicester students need to hit
     their grade
-    targets.|https://thedegreegap.com/teachers/languages/GCSE-Biology
+    targets.|/book-a-call/
   - GCSE Computer Science Tuition|Support across programming, algorithms and
     theory that makes the logic click and builds real confidence for the written
-    exam.|https://thedegreegap.com/teachers/languages/GCSE-Computer-Science
+    exam.|/book-a-call/
   - GCSE History Tuition|Essay structure, source analysis and content recall
     developed carefully, so students write with purpose rather than hoping for
-    the best.|https://thedegreegap.com/teachers/languages/GCSE-History
+    the best.|/book-a-call/
   - GCSE French Tuition|Steady, personalised practice across all four skills,
     building the accuracy and confidence to perform when it counts in the exam
-    room.|https://thedegreegap.com/teachers/languages/GCSE-French
+    room.|/book-a-call/
   - GCSE Physics Tuition|Methodical support through forces, energy and
     electricity, with a strong focus on the problem-solving skills that separate
     grades at the top
-    end.|https://thedegreegap.com/teachers/languages/GCSE-Physics
+    end.|/book-a-call/
 alevel_subjects:
   - A-Level Chemistry Tuition|Deep, expert-led tuition through the A-Level
     course, prioritising understanding over repetition and building the
     precision that top grades
-    demand.|https://thedegreegap.com/teachers/languages/A-level-Chemistry
+    demand.|/book-a-call/
   - A-Level Economics Tuition|Rigorous support through micro and macroeconomic
     models and policy analysis, helping Leicester students develop the
     evaluative depth that A-Level Economics
-    rewards.|https://thedegreegap.com/teachers/languages/A-level-Economics
+    rewards.|/book-a-call/
   - A-Level Biology Tuition|Advanced work through genetics, physiology and
     ecology with tutors who know how to teach for understanding, not just for
-    recall.|https://thedegreegap.com/teachers/languages/A-level-Biology
+    recall.|/book-a-call/
   - A-Level History Tuition|Support on constructing sustained historical
     arguments and writing under pressure, helping students reach the mark bands
     that reflect their actual
-    thinking.|https://thedegreegap.com/teachers/languages/A-level-History
+    thinking.|/book-a-call/
   - A-Level Maths Tuition|Focused support across pure maths, mechanics and
     statistics for students who want to move beyond keeping up and start pushing
     for the top
-    grades.|https://thedegreegap.com/teachers/languages/A-level-Maths
+    grades.|/book-a-call/
   - A-Level Geography Tuition|Advanced geographical analysis and extended
     writing support, with tutors who know what top mark bands require and how to
     get students
-    there.|https://thedegreegap.com/teachers/languages/A-level-Geography
+    there.|/book-a-call/
   - A-Level English Tuition|Critical analysis and essay writing support that
     helps students develop a confident, independent voice across literary and
     non-literary
-    texts.|https://thedegreegap.com/teachers/languages/A-level-English
+    texts.|/book-a-call/
   - A-Level Psychology Tuition|Clear, methodical support through research
     methods, key approaches and essay technique, helping students build the
     depth that distinguishes strong
-    answers.|https://thedegreegap.com/teachers/languages/A-level-Psychology
+    answers.|/book-a-call/
   - A-Level Physics Tuition|Problem-solving focused tuition across mechanics,
     fields and quantum physics, building the kind of understanding that exam
     questions can't trip
-    up.|https://thedegreegap.com/teachers/languages/A-level-Physics
+    up.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with
     expert support on structure, subject motivation, and final
-    polish.|https://thedegreegap.com/teachers/languages/Personal-Statement
+    polish.|/book-a-call/
 faq_1_q: How quickly can tuition start in Leicester?
 faq_1_a: Usually within a few days of getting in touch. Once we know the
   subject, level and what the student needs, we move quickly. No long waiting

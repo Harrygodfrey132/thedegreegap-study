@@ -71,70 +71,70 @@ area_links:
 gcse_subjects:
   - GCSE English Tuition|Sharpen analytical writing and unseen text skills for
     students who need to convert class understanding into the grades sixth forms
-    want to see.|https://thedegreegap.com/teachers/languages/GCSE-English
+    want to see.|/book-a-call/
   - GCSE Chemistry Tuition|From balancing equations to organic chemistry,
     structured support that builds the confidence to tackle the harder questions
-    on paper.|https://thedegreegap.com/teachers/languages/GCSE-Chemistry
+    on paper.|/book-a-call/
   - GCSE Maths Tuition|Targeted work across algebra, geometry and statistics for
     students who want results that keep their post-16 options
-    open.|https://thedegreegap.com/teachers/languages/GCSE-Maths
+    open.|/book-a-call/
   - GCSE History Tuition|Strong essay technique and source analysis skills,
     built through practice and feedback rather than just reading the revision
-    guide.|https://thedegreegap.com/teachers/languages/GCSE-History
+    guide.|/book-a-call/
   - GCSE Physics Tuition|Support that turns shakily-remembered formulas into
     genuine problem-solving ability, from forces and energy to waves and
-    electricity.|https://thedegreegap.com/teachers/languages/GCSE-Physics
+    electricity.|/book-a-call/
   - GCSE Computer Science Tuition|From algorithms to Python programming,
     one-to-one support that makes the written exam feel as manageable as the
     practical
-    work.|https://thedegreegap.com/teachers/languages/GCSE-Computer-Science
+    work.|/book-a-call/
   - GCSE Geography Tuition|Case study recall, data response and extended writing
     support for students who want to stop leaving marks on the
-    table.|https://thedegreegap.com/teachers/languages/GCSE-Geography
+    table.|/book-a-call/
   - GCSE French Tuition|Targeted practice across all four skills, helping
     students move from hesitant to assured in time for the speaking and writing
-    assessments.|https://thedegreegap.com/teachers/languages/GCSE-French
+    assessments.|/book-a-call/
   - GCSE Biology Tuition|Clear, logical support across the full specification,
     helping students understand processes rather than trying to memorise
-    everything by rote.|https://thedegreegap.com/teachers/languages/GCSE-Biology
+    everything by rote.|/book-a-call/
 alevel_subjects:
   - A-Level Economics Tuition|Rigorous support across micro and macroeconomic
     models and essay technique, for students aiming at competitive university
     courses in business or
-    law.|https://thedegreegap.com/teachers/languages/A-level-Economics
+    law.|/book-a-call/
   - A-Level Maths Tuition|Advanced problem-solving across pure maths, mechanics
     and statistics, with a focus on multi-step questions that define the
     difference between
-    grades.|https://thedegreegap.com/teachers/languages/A-level-Maths
+    grades.|/book-a-call/
   - A-Level Psychology Tuition|Master research methods, key approaches and
     extended writing with tutors who know AQA's mark scheme and what examiners
-    reward.|https://thedegreegap.com/teachers/languages/A-level-Psychology
+    reward.|/book-a-call/
   - A-Level Chemistry Tuition|Expert guidance through organic, inorganic and
     physical chemistry for students targeting science or medicine at Russell
     Group
-    universities.|https://thedegreegap.com/teachers/languages/A-level-Chemistry
+    universities.|/book-a-call/
   - A-Level English Tuition|Build critical depth and essay confidence across
     literary texts, with support on how to construct arguments that examiners
-    take seriously.|https://thedegreegap.com/teachers/languages/A-level-English
+    take seriously.|/book-a-call/
   - A-Level Biology Tuition|From genetics to ecosystems, advanced biological
     concepts unpacked clearly and connected to the exam technique that turns
     knowledge into
-    marks.|https://thedegreegap.com/teachers/languages/A-level-Biology
+    marks.|/book-a-call/
   - A-Level Physics Tuition|One-to-one support across mechanics, fields and
     quantum physics, helping students work through the kinds of problems that
     trip up even diligent
-    students.|https://thedegreegap.com/teachers/languages/A-level-Physics
+    students.|/book-a-call/
   - A-Level Geography Tuition|Advanced concepts, fieldwork analysis and extended
     writing support for students working towards geography or environmental
     science
-    degrees.|https://thedegreegap.com/teachers/languages/A-level-Geography
+    degrees.|/book-a-call/
   - A-Level History Tuition|Support for constructing and sustaining complex
     historical arguments under exam pressure, across all major A-Level exam
-    boards.|https://thedegreegap.com/teachers/languages/A-level-History
+    boards.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with
     expert support on structure, subject motivation, and final
-    polish.|https://thedegreegap.com/teachers/languages/Personal-Statement
+    polish.|/book-a-call/
 faq_1_q: How much does tutoring cost in Leeds?
 faq_1_a: Sessions start from £37 per hour. The exact rate depends on the subject
   and the tutor, and it is always agreed before anything is booked. No

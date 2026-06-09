@@ -69,69 +69,69 @@ gcse_subjects:
   - GCSE English Tuition|Sharp, focused tutoring across Language and Literature
     for students who want a method that holds up under exam timing, not just in
     calm conditions at
-    home.|https://thedegreegap.com/teachers/languages/GCSE-English
+    home.|/book-a-call/
   - GCSE Maths Tuition|Stretch tutoring across number, algebra and statistics
     for students who want the grade 8 and 9 mark bands within
-    reach.|https://thedegreegap.com/teachers/languages/GCSE-Maths
+    reach.|/book-a-call/
   - GCSE Biology Tuition|Detailed work across the full specification for
     students who want to walk into the exam confident on the harder six and
     nine-mark
-    questions.|https://thedegreegap.com/teachers/languages/GCSE-Biology
+    questions.|/book-a-call/
   - GCSE History Tuition|Source skills, essay structure and extended argument,
     taught by tutors who know what the top mark bands actually
-    reward.|https://thedegreegap.com/teachers/languages/GCSE-History
+    reward.|/book-a-call/
   - GCSE Computer Science Tuition|One-to-one work through programming,
     algorithms and Boolean logic for students who want both NEA and written
     paper landing at the top
-    end.|https://thedegreegap.com/teachers/languages/GCSE-Computer-Science
+    end.|/book-a-call/
   - GCSE Chemistry Tuition|Patient, precise tuition through bonding, equations
     and rates for students aiming at grades 7 to 9 and the answers that get them
-    there.|https://thedegreegap.com/teachers/languages/GCSE-Chemistry
+    there.|/book-a-call/
   - GCSE Physics Tuition|Support through forces, waves and electricity built
     around the application questions that decide the highest
-    grades.|https://thedegreegap.com/teachers/languages/GCSE-Physics
+    grades.|/book-a-call/
   - GCSE Geography Tuition|Case study revision, data response and nine-mark
     question technique, with tutoring that turns subject knowledge into the
     marks the mark scheme actually
-    awards.|https://thedegreegap.com/teachers/languages/GCSE-Geography
+    awards.|/book-a-call/
   - GCSE French Tuition|Structured tutoring across all four skills for students
     aiming high in writing and speaking, where the easy marks at the top end get
-    missed most often.|https://thedegreegap.com/teachers/languages/GCSE-French
+    missed most often.|/book-a-call/
 alevel_subjects:
   - A-Level Biology Tuition|In-depth support through genetics, physiology and
     ecology for students aiming at medicine, dentistry or a competitive
     bioscience
-    degree.|https://thedegreegap.com/teachers/languages/A-level-Biology
+    degree.|/book-a-call/
   - A-Level Chemistry Tuition|Clear, step-by-step tuition through organic,
     inorganic and physical chemistry for students preparing for the top end of
     the mark
-    scheme.|https://thedegreegap.com/teachers/languages/A-level-Chemistry
+    scheme.|/book-a-call/
   - A-Level English Tuition|Critical analysis and essay writing at A-Level,
     taught by tutors who know what markers reward at the top
-    end.|https://thedegreegap.com/teachers/languages/A-level-English
+    end.|/book-a-call/
   - A-Level Economics Tuition|Micro, macro and evaluation writing for students
     who want Economics to be the strongest part of their
-    application.|https://thedegreegap.com/teachers/languages/A-level-Economics
+    application.|/book-a-call/
   - A-Level Maths Tuition|Focused tutoring across pure, statistics and mechanics
     for students who want to stay ahead of Year 13 content before it becomes a
-    problem.|https://thedegreegap.com/teachers/languages/A-level-Maths
+    problem.|/book-a-call/
   - A-Level Physics Tuition|Patient, exam-board-aware tuition through mechanics,
     fields and quantum topics for students aiming at engineering or physics at a
-    top university.|https://thedegreegap.com/teachers/languages/A-level-Physics
+    top university.|/book-a-call/
   - A-Level History Tuition|Help with the analytical essay writing A-Level
     History demands, for students aiming at top mark bands and history-led
     university
-    applications.|https://thedegreegap.com/teachers/languages/A-level-History
+    applications.|/book-a-call/
   - A-Level Psychology Tuition|Methodical work through research methods and
     evaluation writing for students who want to write with precision, not just
-    at length.|https://thedegreegap.com/teachers/languages/A-level-Psychology
+    at length.|/book-a-call/
   - A-Level Geography Tuition|Advanced concept work, fieldwork analysis and
     extended writing, with tutors who know what the top mark bands are looking
-    for.|https://thedegreegap.com/teachers/languages/A-level-Geography
+    for.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with
     expert support on structure, subject motivation, and final
-    polish.|https://thedegreegap.com/teachers/languages/Personal-Statement
+    polish.|/book-a-call/
 faq_1_q: What exam boards do your tutors cover?
 faq_1_a: AQA, Edexcel, OCR and WJEC. When we match a student with a tutor in
   Exeter, exam board knowledge is part of the criteria. We don't just match on

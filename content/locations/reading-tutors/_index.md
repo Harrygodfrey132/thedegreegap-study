@@ -68,65 +68,65 @@ area_links:
 gcse_subjects:
   - GCSE Maths Tuition|Sharp exam-technique support across number, algebra,
     geometry and statistics for students pushing towards the top grade
-    boundaries.|https://thedegreegap.com/teachers/languages/GCSE-Maths
+    boundaries.|/book-a-call/
   - GCSE Computer Science Tuition|Solid grounding in programming logic,
     algorithms and data structures, the subject where Reading's tech-connected
     students often want to
-    excel.|https://thedegreegap.com/teachers/languages/GCSE-Computer-Science
+    excel.|/book-a-call/
   - GCSE French Tuition|Accurate, fluent support across speaking, writing,
     reading and listening for students who want the grade to match their
-    effort.|https://thedegreegap.com/teachers/languages/GCSE-French
+    effort.|/book-a-call/
   - "GCSE Geography Tuition|Case studies, data response and extended writing:
     everything students need to score well in one of the most
     mark-scheme-dependent GCSE
-    subjects.|https://thedegreegap.com/teachers/languages/GCSE-Geography"
+    subjects.|/book-a-call/"
   - GCSE Chemistry Tuition|Clear explanations of reactions, bonding and
     calculations, building real understanding rather than surface-level
-    recall.|https://thedegreegap.com/teachers/languages/GCSE-Chemistry
+    recall.|/book-a-call/
   - GCSE English Tuition|Targeted support across Language and Literature, from
     unpicking unseen texts to writing under pressure with focus and
-    precision.|https://thedegreegap.com/teachers/languages/GCSE-English
+    precision.|/book-a-call/
   - GCSE Physics Tuition|Problem-solving support across forces, waves and
     electricity, with a focus on applying knowledge under timed
-    conditions.|https://thedegreegap.com/teachers/languages/GCSE-Physics
+    conditions.|/book-a-call/
   - GCSE History Tuition|Source analysis, essay structure and content recall,
     built around the demands of Reading students who want results, not just
-    revision.|https://thedegreegap.com/teachers/languages/GCSE-History
+    revision.|/book-a-call/
   - GCSE Biology Tuition|From cells and genetics to ecosystems and physiology,
     support that makes complex systems logical and
-    memorable.|https://thedegreegap.com/teachers/languages/GCSE-Biology
+    memorable.|/book-a-call/
 alevel_subjects:
   - A-Level Economics Tuition|Advanced micro and macroeconomics with tutors who
     go beyond definitions and into the quality of argument examiners actually
-    reward.|https://thedegreegap.com/teachers/languages/A-level-Economics
+    reward.|/book-a-call/
   - A-Level Psychology Tuition|Research methods, key approaches and essay
     technique, with tutors who know the mark scheme and what separates a B from
-    an A.|https://thedegreegap.com/teachers/languages/A-level-Psychology
+    an A.|/book-a-call/
   - A-Level Chemistry Tuition|Organic, inorganic and physical chemistry taught
     for genuine understanding, not just enough to pass the next
-    mock.|https://thedegreegap.com/teachers/languages/A-level-Chemistry
+    mock.|/book-a-call/
   - A-Level Maths Tuition|Multi-step problem solving across pure maths,
     mechanics and statistics, with a tutor who spots exactly where the working
-    breaks down.|https://thedegreegap.com/teachers/languages/A-level-Maths
+    breaks down.|/book-a-call/
   - A-Level English Tuition|Building the critical depth and essay precision that
     Reading's most demanding sixth forms and universities
-    expect.|https://thedegreegap.com/teachers/languages/A-level-English
+    expect.|/book-a-call/
   - A-Level Geography Tuition|Advanced concepts, fieldwork and extended writing,
     supported by tutors who know what top grades in this subject actually
-    require.|https://thedegreegap.com/teachers/languages/A-level-Geography
+    require.|/book-a-call/
   - A-Level Physics Tuition|Confidence in mechanics, fields and quantum topics
     through focused, exam-board-aware tuition that doesn't skip the hard
-    parts.|https://thedegreegap.com/teachers/languages/A-level-Physics
+    parts.|/book-a-call/
   - "A-Level History Tuition|Complex essay construction and sustained argument
     under timed conditions: the skills that separate good history students from
-    great ones.|https://thedegreegap.com/teachers/languages/A-level-History"
+    great ones.|/book-a-call/"
   - A-Level Biology Tuition|Advanced biological systems from genetics to
     ecology, with tutors who prioritise understanding over surface
-    memorisation.|https://thedegreegap.com/teachers/languages/A-level-Biology
+    memorisation.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with
     expert support on structure, subject motivation, and final
-    polish.|https://thedegreegap.com/teachers/languages/Personal-Statement
+    polish.|/book-a-call/
 faq_1_q: Do you support students aiming for grammar or independent schools in Reading?
 faq_1_a: Yes. We work with students preparing for 11+ exams, Common Entrance and
   competitive sixth form entry. Tutors know what these schools are looking for
