@@ -1,8 +1,8 @@
 ---
-title: Manchester Tutors | A-Level and GCSE | The Degree Gap
-description: Find an experienced Manchester tutor for GCSE, A-Level and 11+
-  preparation, with one-to-one sessions built around what each student actually
-  needs.
+title: Manchester Tutors | GCSE & A-Level Tuition from £37/hr
+description: Find expert Manchester tutors for GCSE and A-Level support.
+  Personalised tuition from £37/hr to help students achieve top grades and exam
+  success.
 layout: single
 location: Manchester
 banner_heading: Want a Manchester tutor who prepares, not just covers content?
