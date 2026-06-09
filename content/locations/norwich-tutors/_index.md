@@ -1,74 +1,214 @@
 ---
-title: "Norwich Tutors | Expert Support | The Degree Gap"
-description: "Find a Norwich tutor who identifies exactly where your child is stuck, builds a clear plan and gets results at GCSE and A-Level."
-layout: "single"
-location: "Norwich"
-banner_heading: "Need a Norwich tutor who starts with the gap, not the grade?"
-banner_description: "Our Norwich tutors find precisely where things stopped making sense and work from there, not from the top of the syllabus."
-content_angle: "foundation gaps"
-intro_1: "Norfolk has sat below the national average for GCSE attainment for years. That's not about individual schools failing students. It's about a county where a lot of capable young people reach Year 10 carrying gaps from earlier years that nobody had time to address. Norwich is the county's biggest city, and the pattern shows up here too. Students who followed lessons, did the homework and caused no trouble in class arrive at GCSE revision and realise the foundations are shakier than they thought."
-intro_2: "That's exactly the kind of problem one-to-one tuition is built for. Our Norwich tutors don't start at the beginning of the specification and work through it. They find the specific point where understanding broke down, sometimes two or three years ago, and build properly from there. It takes a few sessions. But it changes how the whole subject feels. And it changes what's possible in the exam. Whether your child is in Year 10 chasing a grade 6, or in Year 13 working towards a UEA or Russell Group offer, our tutors work to the target that matters."
-about_heading: "Tutors Who Know What Norwich Students Need"
-schools_intro: "Our tutors work with students from secondary schools across Norwich, including City of Norwich School, Hewett Academy, Notre Dame High School, Hellesdon High School, Wymondham College and Open Academy. We also work with students from Norwich School and Norwich High School for Girls. Alongside one-to-one tutoring, we run workshops on exam technique and revision strategy that students from any of these schools can attend."
-schools: ["City of Norwich School", "Hewett Academy", "Notre Dame High School", "Hellesdon High School", "Wymondham College", "Open Academy"]
+title: Norwich Tutoring | Trusted GCSE & A-Level Tutors
+description: One-to-one Norwich tutoring for Maths, English, Sciences and more.
+  Expert tutors, flexible online lessons and proven academic results.
+layout: single
+location: Norwich
+banner_heading: Need a Norwich tutor who starts with the gap, not the grade?
+banner_description: Our Norwich tutors find precisely where things stopped
+  making sense and work from there, not from the top of the syllabus.
+content_angle: foundation gaps
+intro_1: Norfolk has sat below the national average for GCSE attainment for
+  years. That's not about individual schools failing students. It's about a
+  county where a lot of capable young people reach Year 10 carrying gaps from
+  earlier years that nobody had time to address. Norwich is the county's biggest
+  city, and the pattern shows up here too. Students who followed lessons, did
+  the homework and caused no trouble in class arrive at GCSE revision and
+  realise the foundations are shakier than they thought.
+intro_2: That's exactly the kind of problem one-to-one tuition is built for. Our
+  Norwich tutors don't start at the beginning of the specification and work
+  through it. They find the specific point where understanding broke down,
+  sometimes two or three years ago, and build properly from there. It takes a
+  few sessions. But it changes how the whole subject feels. And it changes
+  what's possible in the exam. Whether your child is in Year 10 chasing a grade
+  6, or in Year 13 working towards a UEA or Russell Group offer, our tutors work
+  to the target that matters.
+about_heading: Tutors Who Know What Norwich Students Need
+about_image: /images/students-in-classroom-taking-notes.jpg
+schools_intro: Our tutors work with students from secondary schools across
+  Norwich, including City of Norwich School, Hewett Academy, Notre Dame High
+  School, Hellesdon High School, Wymondham College and Open Academy. We also
+  work with students from Norwich School and Norwich High School for Girls.
+  Alongside one-to-one tutoring, we run workshops on exam technique and revision
+  strategy that students from any of these schools can attend.
+schools:
+  - City of Norwich School
+  - Hewett Academy
+  - Notre Dame High School
+  - Hellesdon High School
+  - Wymondham College
+  - Open Academy
+schools_image: /images/empty-classroom-desks.jpg
 online_heading: "Online tuition for Norwich students: the right tutor, not just a nearby one"
-online_1: "All of our sessions run online, and that's a genuine advantage for Norwich families. Norfolk doesn't have the deep pool of subject specialists that a larger city offers. Online tuition means your child isn't limited to whoever's available locally. The tutor best matched to their subject, year group and exam board might be based anywhere in the country. And because sessions run through Lessonspace, with a shared interactive whiteboard, the experience is closer to sitting beside someone than most families expect before they try it."
-online_2: "Consistency drives progress. A tutor who sees a student every week, knows exactly where they are and tracks what's changed since the last session gets results that one-off cramming sessions don't. Online tutoring makes that regularity easy to maintain. No travel, no cancellations because of weather or logistics. Most Norwich students are confident with the format from the first session."
-map_url: "https://maps.google.com/maps?q=Norwich,UK&output=embed"
-about_image: "/images/students-in-classroom-taking-notes.jpg"
-schools_image: "/images/empty-classroom-desks.jpg"
-online_image: "/images/online-study-workspace-with-coffee.jpg"
-areas_intro: "Because most of our tuition is online, students in Norwich and nearby areas can access the right subject specialist without being limited by geography."
+online_1: All of our sessions run online, and that's a genuine advantage for
+  Norwich families. Norfolk doesn't have the deep pool of subject specialists
+  that a larger city offers. Online tuition means your child isn't limited to
+  whoever's available locally. The tutor best matched to their subject, year
+  group and exam board might be based anywhere in the country. And because
+  sessions run through Lessonspace, with a shared interactive whiteboard, the
+  experience is closer to sitting beside someone than most families expect
+  before they try it.
+online_2: Consistency drives progress. A tutor who sees a student every week,
+  knows exactly where they are and tracks what's changed since the last session
+  gets results that one-off cramming sessions don't. Online tutoring makes that
+  regularity easy to maintain. No travel, no cancellations because of weather or
+  logistics. Most Norwich students are confident with the format from the first
+  session.
+online_image: /images/online-study-workspace-with-coffee.jpg
+map_url: https://maps.google.com/maps?q=Norwich,UK&output=embed
+areas_intro: Because most of our tuition is online, students in Norwich and
+  nearby areas can access the right subject specialist without being limited by
+  geography.
 area_links:
-  - "Cambridge Tutors|/locations/cambridge-tutors/"
-  - "Leeds Tutors|/locations/leeds-tutors/"
-  - "Nottingham Tutors|/locations/nottingham-tutors/"
-  - "Leicester Tutors|/locations/leicester-tutors/"
-  - "Derby Tutors|/locations/derby-tutors/"
-  - "Sheffield Tutors|/locations/sheffield-tutors/"
+  - Cambridge Tutors|/locations/cambridge-tutors/
+  - Leeds Tutors|/locations/leeds-tutors/
+  - Nottingham Tutors|/locations/nottingham-tutors/
+  - Leicester Tutors|/locations/leicester-tutors/
+  - Derby Tutors|/locations/derby-tutors/
+  - Sheffield Tutors|/locations/sheffield-tutors/
 gcse_subjects:
-  - "GCSE Maths Tuition|Targeted support that traces weak number and algebra foundations back to where they formed and builds solid ground for the higher paper.|https://thedegreegap.com/teachers/languages/GCSE-Maths"
-  - "GCSE Geography Tuition|Clear support connecting physical and human geography into well-structured answers, with focused work on case studies students can actually use under pressure.|https://thedegreegap.com/teachers/languages/GCSE-Geography"
-  - "GCSE Computer Science Tuition|One-to-one sessions covering algorithms, programming logic and data representation for students who want Computer Science to click rather than just be memorised.|https://thedegreegap.com/teachers/languages/GCSE-Computer-Science"
-  - "GCSE French Tuition|Steady, practical work across speaking, listening, reading and writing for students who want to stop losing marks on basics they should have locked down earlier.|https://thedegreegap.com/teachers/languages/GCSE-French"
-  - "GCSE Biology Tuition|Detailed session work through cells, genetics and ecology for students who need to build real understanding rather than surface recall before the exam.|https://thedegreegap.com/teachers/languages/GCSE-Biology"
-  - "GCSE History Tuition|Essay structure and source analysis support that helps students write convincingly under timed conditions, not just know the content going in.|https://thedegreegap.com/teachers/languages/GCSE-History"
-  - "GCSE Physics Tuition|Patient, focused guidance through forces, electricity and waves for students who find the maths inside physics the bit that trips them up.|https://thedegreegap.com/teachers/languages/GCSE-Physics"
-  - "GCSE English Tuition|Practical support across Language and Literature that builds a reliable method students can use independently on unseen texts and in timed responses.|https://thedegreegap.com/teachers/languages/GCSE-English"
-  - "GCSE Chemistry Tuition|One-to-one sessions that work back through equations and reaction types to find where understanding slipped, then rebuild it from there.|https://thedegreegap.com/teachers/languages/GCSE-Chemistry"
+  - GCSE Maths Tuition|Targeted support that traces weak number and algebra
+    foundations back to where they formed and builds solid ground for the higher
+    paper.|https://thedegreegap.com/teachers/languages/GCSE-Maths
+  - GCSE Geography Tuition|Clear support connecting physical and human geography
+    into well-structured answers, with focused work on case studies students can
+    actually use under
+    pressure.|https://thedegreegap.com/teachers/languages/GCSE-Geography
+  - GCSE Computer Science Tuition|One-to-one sessions covering algorithms,
+    programming logic and data representation for students who want Computer
+    Science to click rather than just be
+    memorised.|https://thedegreegap.com/teachers/languages/GCSE-Computer-Science
+  - GCSE French Tuition|Steady, practical work across speaking, listening,
+    reading and writing for students who want to stop losing marks on basics
+    they should have locked down
+    earlier.|https://thedegreegap.com/teachers/languages/GCSE-French
+  - GCSE Biology Tuition|Detailed session work through cells, genetics and
+    ecology for students who need to build real understanding rather than
+    surface recall before the
+    exam.|https://thedegreegap.com/teachers/languages/GCSE-Biology
+  - GCSE History Tuition|Essay structure and source analysis support that helps
+    students write convincingly under timed conditions, not just know the
+    content going in.|https://thedegreegap.com/teachers/languages/GCSE-History
+  - GCSE Physics Tuition|Patient, focused guidance through forces, electricity
+    and waves for students who find the maths inside physics the bit that trips
+    them up.|https://thedegreegap.com/teachers/languages/GCSE-Physics
+  - GCSE English Tuition|Practical support across Language and Literature that
+    builds a reliable method students can use independently on unseen texts and
+    in timed responses.|https://thedegreegap.com/teachers/languages/GCSE-English
+  - GCSE Chemistry Tuition|One-to-one sessions that work back through equations
+    and reaction types to find where understanding slipped, then rebuild it from
+    there.|https://thedegreegap.com/teachers/languages/GCSE-Chemistry
 alevel_subjects:
-  - "A-Level Psychology Tuition|Methodical support through research methods, core studies and evaluation writing for students who want to feel genuinely prepared rather than just covering the content.|https://thedegreegap.com/teachers/languages/A-level-Psychology"
-  - "A-Level Economics Tuition|Focused work on micro and macroeconomic models and the high-level evaluation writing that separates a B from an A at this level.|https://thedegreegap.com/teachers/languages/A-level-Economics"
-  - "A-Level Geography Tuition|Support that brings together fieldwork, theory and case studies into clear, well-argued exam answers that reach the top mark bands.|https://thedegreegap.com/teachers/languages/A-level-Geography"
-  - "A-Level Maths Tuition|One-to-one sessions across pure maths, mechanics and statistics that identify exactly which areas are losing marks and fix them one at a time.|https://thedegreegap.com/teachers/languages/A-level-Maths"
-  - "A-Level English Tuition|Critical writing and close reading support for students who want their analytical voice to develop beyond the formula and into something the examiner notices.|https://thedegreegap.com/teachers/languages/A-level-English"
-  - "A-Level Chemistry Tuition|Expert tuition through all three branches of A-Level Chemistry for students heading towards medicine, pharmacy or natural sciences at university.|https://thedegreegap.com/teachers/languages/A-level-Chemistry"
-  - "A-Level History Tuition|Argument structure and essay precision built carefully for students who know the history but haven't yet found the written voice the top grades need.|https://thedegreegap.com/teachers/languages/A-level-History"
-  - "A-Level Biology Tuition|In-depth session work across genetics, cells and ecology for students targeting competitive university courses and needing real depth, not revision shortcuts.|https://thedegreegap.com/teachers/languages/A-level-Biology"
-  - "A-Level Physics Tuition|Structured one-to-one support through advanced mechanics, fields and quantum physics for students aiming at engineering or physical sciences at university.|https://thedegreegap.com/teachers/languages/A-level-Physics"
+  - A-Level Psychology Tuition|Methodical support through research methods, core
+    studies and evaluation writing for students who want to feel genuinely
+    prepared rather than just covering the
+    content.|https://thedegreegap.com/teachers/languages/A-level-Psychology
+  - A-Level Economics Tuition|Focused work on micro and macroeconomic models and
+    the high-level evaluation writing that separates a B from an A at this
+    level.|https://thedegreegap.com/teachers/languages/A-level-Economics
+  - A-Level Geography Tuition|Support that brings together fieldwork, theory and
+    case studies into clear, well-argued exam answers that reach the top mark
+    bands.|https://thedegreegap.com/teachers/languages/A-level-Geography
+  - A-Level Maths Tuition|One-to-one sessions across pure maths, mechanics and
+    statistics that identify exactly which areas are losing marks and fix them
+    one at a time.|https://thedegreegap.com/teachers/languages/A-level-Maths
+  - A-Level English Tuition|Critical writing and close reading support for
+    students who want their analytical voice to develop beyond the formula and
+    into something the examiner
+    notices.|https://thedegreegap.com/teachers/languages/A-level-English
+  - A-Level Chemistry Tuition|Expert tuition through all three branches of
+    A-Level Chemistry for students heading towards medicine, pharmacy or natural
+    sciences at
+    university.|https://thedegreegap.com/teachers/languages/A-level-Chemistry
+  - A-Level History Tuition|Argument structure and essay precision built
+    carefully for students who know the history but haven't yet found the
+    written voice the top grades
+    need.|https://thedegreegap.com/teachers/languages/A-level-History
+  - A-Level Biology Tuition|In-depth session work across genetics, cells and
+    ecology for students targeting competitive university courses and needing
+    real depth, not revision
+    shortcuts.|https://thedegreegap.com/teachers/languages/A-level-Biology
+  - A-Level Physics Tuition|Structured one-to-one support through advanced
+    mechanics, fields and quantum physics for students aiming at engineering or
+    physical sciences at
+    university.|https://thedegreegap.com/teachers/languages/A-level-Physics
 other_subjects:
-  - "University Personal Statement|Shape a strong UCAS personal statement with expert support on structure, subject motivation, and final polish.|https://thedegreegap.com/teachers/languages/Personal-Statement"
-faq_1_q: "Can you support students who have fallen significantly behind?"
-faq_1_a: "Yes. Some of the students we work with in Norwich have gaps stretching back a year or more. We start by working out exactly where things went wrong, not just picking up from where school left off. Then we build a plan around that."
-faq_2_q: "How quickly can tuition start in Norwich?"
-faq_2_a: "Usually within a few days of getting in touch. Once we know the subject, level and what the student needs, we move quickly. No long waiting lists."
-faq_3_q: "How long does it take to see an improvement?"
-faq_3_a: "Most students notice something within the first few sessions. Not always in grades straight away, but in how the subject feels. Less daunting. Clearer. Grade improvements usually follow within a half term of regular sessions."
-faq_4_q: "Do you offer online tutoring for students in Norwich?"
-faq_4_a: "Yes, and it's how most of our sessions run. Students get access to a wider pool of tutors, sessions are easier to keep consistent, and most students concentrate better one-to-one online than they do in a classroom. It works well."
-why_heading: "What the first session actually shows us about Norwich students"
-why_para_1: "When a student sits down with a tutor for their first tutoring session, the gap is rarely where the parent thought it was. A Year 11 student who says she's struggling with algebra will often turn out to have a specific misunderstanding about negative numbers or fractions from Year 8 that nobody caught. A Year 13 student writing weak Chemistry essays often can't articulate the mechanism clearly because the conceptual foundation wasn't solid when the topic was first taught. The content is there, loosely. But it doesn't connect. That's what shows up in the first session."
-why_para_2: "The tutor's job is to find that exact point and work from it. Not to cover the specification from scratch. Not to re-teach what school covered last term. Just to find the moment where understanding stopped being real and make it real. For most Norwich students that's one or two specific things per subject, not a wholesale rebuild. But until those things are sorted, the rest of the subject sits on unstable ground. Parents usually notice a change in how their child talks about the subject before they see it in a mark. That's the sign it's working."
-accordion_quality: "Every tutor working with Norwich students is vetted on how clearly they explain difficult ideas, not just on their degree result. For students carrying gaps from earlier years, the ability to find where understanding broke down and explain it differently is the thing that matters."
-accordion_experience: "Our tutors have strong experience working with students who are capable but held back by foundations that weren't fully secured at the time. They know how to diagnose quickly and build steadily, without making students feel they've been falling behind without realising it."
-accordion_personalised: "Each student's first session starts with a diagnostic conversation, not a test. Tutors find the specific gaps and plan from there, which means sessions are never wasted covering material the student already understands."
+  - University Personal Statement|Shape a strong UCAS personal statement with
+    expert support on structure, subject motivation, and final
+    polish.|https://thedegreegap.com/teachers/languages/Personal-Statement
+faq_1_q: Can you support students who have fallen significantly behind?
+faq_1_a: Yes. Some of the students we work with in Norwich have gaps stretching
+  back a year or more. We start by working out exactly where things went wrong,
+  not just picking up from where school left off. Then we build a plan around
+  that.
+faq_2_q: How quickly can tuition start in Norwich?
+faq_2_a: Usually within a few days of getting in touch. Once we know the
+  subject, level and what the student needs, we move quickly. No long waiting
+  lists.
+faq_3_q: How long does it take to see an improvement?
+faq_3_a: Most students notice something within the first few sessions. Not
+  always in grades straight away, but in how the subject feels. Less daunting.
+  Clearer. Grade improvements usually follow within a half term of regular
+  sessions.
+faq_4_q: Do you offer online tutoring for students in Norwich?
+faq_4_a: Yes, and it's how most of our sessions run. Students get access to a
+  wider pool of tutors, sessions are easier to keep consistent, and most
+  students concentrate better one-to-one online than they do in a classroom. It
+  works well.
+why_heading: What the first session actually shows us about Norwich students
+why_para_1: When a student sits down with a tutor for their first tutoring
+  session, the gap is rarely where the parent thought it was. A Year 11 student
+  who says she's struggling with algebra will often turn out to have a specific
+  misunderstanding about negative numbers or fractions from Year 8 that nobody
+  caught. A Year 13 student writing weak Chemistry essays often can't articulate
+  the mechanism clearly because the conceptual foundation wasn't solid when the
+  topic was first taught. The content is there, loosely. But it doesn't connect.
+  That's what shows up in the first session.
+why_para_2: The tutor's job is to find that exact point and work from it. Not to
+  cover the specification from scratch. Not to re-teach what school covered last
+  term. Just to find the moment where understanding stopped being real and make
+  it real. For most Norwich students that's one or two specific things per
+  subject, not a wholesale rebuild. But until those things are sorted, the rest
+  of the subject sits on unstable ground. Parents usually notice a change in how
+  their child talks about the subject before they see it in a mark. That's the
+  sign it's working.
+accordion_quality: Every tutor working with Norwich students is vetted on how
+  clearly they explain difficult ideas, not just on their degree result. For
+  students carrying gaps from earlier years, the ability to find where
+  understanding broke down and explain it differently is the thing that matters.
+accordion_experience: Our tutors have strong experience working with students
+  who are capable but held back by foundations that weren't fully secured at the
+  time. They know how to diagnose quickly and build steadily, without making
+  students feel they've been falling behind without realising it.
+accordion_personalised: Each student's first session starts with a diagnostic
+  conversation, not a test. Tutors find the specific gaps and plan from there,
+  which means sessions are never wasted covering material the student already
+  understands.
 reviews:
-  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. We were given a selection of tutors to choose from and told that if it did not feel like a good match we could try others. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
-  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than his year 13 mock paper. His tutor was excellent."
-  - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B."
-  - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings. Highly recommend."
-  - "Alison|Parent of A-Level Student|My son has been receiving tutor lessons in A Level History and A Level Sociology since the beginning of this year. The tutor has been such a tremendous support, teaching him content as well as exam technique."
-  - "Annette|Parent|This company helped us find a tutor for Geography and my son has excelled so much in just a few months. Our tutor has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself. He also manages neurodiversity effectively."
+  - Ellen|Parent of GCSE Student|My daughter was struggling with confidence in
+    Maths GCSE and we decided to get a tutor. We were given a selection of
+    tutors to choose from and told that if it did not feel like a good match we
+    could try others. Our tutor was a complete star, listened, made it simple,
+    set good homework and gave my daughter her confidence back. Highly
+    recommend.
+  - Daljit|Parent of A-Level Student|My son gained almost two grades higher than
+    his year 13 mock paper. His tutor was excellent.
+  - Keira|GCSE Student|Has definitely helped me increase my grades from an E to
+    a B.
+  - Philippa|Parent of GCSE Student|I was really pleased to discover the Degree
+    Gap when my daughter needed help getting the grades she needed for GCSEs.
+    The team offer a really personalised service and I felt really well looked
+    after from the start. There are lots of tutors to choose from and all
+    subjects are catered for, with great flexibility on timings. Highly
+    recommend.
+  - Alison|Parent of A-Level Student|My son has been receiving tutor lessons in
+    A Level History and A Level Sociology since the beginning of this year. The
+    tutor has been such a tremendous support, teaching him content as well as
+    exam technique.
+  - Annette|Parent|This company helped us find a tutor for Geography and my son
+    has excelled so much in just a few months. Our tutor has gone above and
+    beyond, demonstrating incredible patience and encouraging my son to believe
+    in himself. He also manages neurodiversity effectively.
 sitemap:
   priority: 0.8
   changefreq: monthly
