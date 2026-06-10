@@ -18,7 +18,7 @@
       </div>
 
       <aside class="hub-founder-panel" aria-label="Led by Harry Godfrey">
-        <img src="/images/harry-godfrey.jpg" alt="Harry Godfrey at an education event" width="726" height="900" loading="lazy" class="hub-founder-panel__image">
+        {{ partial "responsive-image.html" (dict "src" "/images/harry-godfrey.jpg" "alt" "Harry Godfrey at an education event" "class" "hub-founder-panel__image" "loading" "lazy" "fallbackWidth" 500 "widths" (slice 300 500 750) "sizes" "(max-width: 720px) 280px, 360px" "quality" 78) }}
         <div class="hub-founder-panel__body">
           <p class="hub-founder-panel__label">Led by Harry Godfrey</p>
           <h2>Co-owner of The Degree Gap and LSE Economics graduate</h2>

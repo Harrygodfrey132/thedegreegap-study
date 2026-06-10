@@ -33,7 +33,7 @@
         </div>
       </div>
       <aside class="author-card" aria-label="About Harry Godfrey">
-        <img src="/images/harry-godfrey.jpg" alt="Harry Godfrey at a schools event" width="726" height="900" loading="lazy" class="author-card__image">
+        {{ partial "responsive-image.html" (dict "src" "/images/harry-godfrey.jpg" "alt" "Harry Godfrey at a schools event" "class" "author-card__image" "loading" "lazy" "fallbackWidth" 500 "widths" (slice 300 500 750) "sizes" "(max-width: 720px) 220px, 320px" "quality" 78) }}
         <div class="author-card__body">
           <p class="author-card__label">First consultation</p>
           <h2>Harry Godfrey</h2>

@@ -147,8 +147,8 @@
   <div class="container">
     <div class="pg-hosts__inner">
       <div class="pg-hosts__photos">
-        <img src="/images/loc-2.png" alt="Joe, co-founder of The Degree Gap" loading="lazy" decoding="async" class="pg-hosts__avatar pg-hosts__avatar--joe" width="160" height="160">
-        <img src="/images/harry-godfrey.jpg" alt="Harry Godfrey, co-founder of The Degree Gap" loading="lazy" decoding="async" class="pg-hosts__avatar pg-hosts__avatar--harry" width="160" height="160">
+        {{ partial "responsive-image.html" (dict "src" "/images/loc-2.png" "alt" "Joe, co-founder of The Degree Gap" "class" "pg-hosts__avatar pg-hosts__avatar--joe" "loading" "lazy" "fallbackWidth" 320 "widths" (slice 200 320 480) "sizes" "160px" "quality" 78) }}
+        {{ partial "responsive-image.html" (dict "src" "/images/harry-godfrey.jpg" "alt" "Harry Godfrey, co-founder of The Degree Gap" "class" "pg-hosts__avatar pg-hosts__avatar--harry" "loading" "lazy" "fallbackWidth" 320 "widths" (slice 200 320 480) "sizes" "160px" "quality" 78) }}
       </div>
       <div class="pg-hosts__copy">
         <h2>Meet Joe &amp; Harry</h2>

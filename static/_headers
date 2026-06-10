@@ -9,6 +9,24 @@
   Permissions-Policy: geolocation=(), microphone=(), camera=()
   Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://www.google-analytics.com https://identity.netlify.com https://cal.com https://app.cal.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' data: https://fonts.gstatic.com; img-src 'self' data: blob: https:; connect-src 'self' https://formspree.io https://www.google-analytics.com https://*.google-analytics.com https://*.analytics.google.com https://*.netlify.com https://identity.netlify.com https://cal.com https://app.cal.com; frame-src 'self' https://www.youtube.com https://youtube.com https://www.youtube-nocookie.com https://www.google.com https://maps.google.com https://cal.com https://app.cal.com; form-action 'self' https://formspree.io; base-uri 'self'; object-src 'none'; upgrade-insecure-requests
 
+# Long cache for Hugo-fingerprinted assets (filenames include a hash, so safe).
+/images/*_hu_*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Long cache for CSS and JS (kept short of 1yr in case we don't fingerprint everything).
+/css/*
+  Cache-Control: public, max-age=2592000
+/js/*
+  Cache-Control: public, max-age=2592000
+
+# Static images that aren't fingerprinted (logos, favicons): 30 days
+/images/*.png
+  Cache-Control: public, max-age=2592000
+/images/*.jpg
+  Cache-Control: public, max-age=2592000
+/images/*.svg
+  Cache-Control: public, max-age=2592000
+
 # Decap CMS admin dashboard needs to load JS/CSS/fonts from unpkg
 # and connect to Netlify Identity + Git Gateway + GitHub APIs.
 /admin/*

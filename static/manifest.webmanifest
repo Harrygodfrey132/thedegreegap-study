@@ -1,0 +1,31 @@
+{
+  "name": "The Degree Gap",
+  "short_name": "Degree Gap",
+  "description": "Vetted UK tutors for GCSE, A-Level, and university applications.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "browser",
+  "background_color": "#fbf7ef",
+  "theme_color": "#800020",
+  "lang": "en-GB",
+  "icons": [
+    {
+      "src": "/images/favicon.png",
+      "sizes": "266x266",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

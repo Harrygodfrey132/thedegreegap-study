@@ -135,7 +135,7 @@
   <div class="container">
     <div class="lvls-about__inner">
       <div class="lvls-about__photo">
-        <img src="/images/co-founders.png" alt="Harry Godfrey and Joe Clark, co-founders of The Degree Gap, at the Prestige Awards" width="600" height="500" loading="lazy" decoding="async">
+        {{ partial "responsive-image.html" (dict "src" "/images/co-founders.png" "alt" "Harry Godfrey and Joe Clark, co-founders of The Degree Gap, at the Prestige Awards" "loading" "lazy" "fallbackWidth" 600 "widths" (slice 280 560 840) "sizes" "(max-width: 720px) 220px, 280px" "quality" 78) }}
         <span class="lvls-about__photo-caption">Harry &amp; Joe, co-founders</span>
       </div>
       <div class="lvls-about__copy">
@@ -452,7 +452,7 @@
         <p class="lvls-cta__assurance">First lesson risk-free · No contracts · Cancel any time</p>
       </div>
       <div class="lvls-cta__illustration" aria-hidden="true">
-        <img src="/images/students-in-classroom-taking-notes.jpg" alt="" width="900" height="700" loading="lazy" decoding="async">
+        {{ partial "responsive-image.html" (dict "src" "/images/students-in-classroom-taking-notes.jpg" "alt" "" "loading" "lazy" "fallbackWidth" 700 "widths" (slice 400 700 1000) "sizes" "(min-width: 700px) 50vw, 100vw" "quality" 72) }}
       </div>
     </div>
   </div>

@@ -228,7 +228,7 @@ p:last-child { margin-bottom: 0; }
   gap: 48px;
 }
 
-.footer-col h5 {
+.footer-col h3 {
   font-family: var(--font-body);
   font-weight: 600;
   font-size: 0.85rem;

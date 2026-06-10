@@ -74,7 +74,7 @@
           </div>
 
           <figure class="book-call__quote thanks-card__quote">
-            <img class="thanks-card__quote-photo" src="/images/co-founders.png" alt="Harry and Joe, co-founders" width="160" height="120" loading="lazy" decoding="async">
+            {{ partial "responsive-image.html" (dict "src" "/images/co-founders.png" "alt" "Harry and Joe, co-founders" "class" "thanks-card__quote-photo" "loading" "lazy" "fallbackWidth" 200 "widths" (slice 200 400) "sizes" "80px" "quality" 78) }}
             <blockquote>"Give it a read and let us know what lands for you. We've spent years watching what actually moves a child past their predicted grade, and these ten things keep coming up. See you on the night!"</blockquote>
             <figcaption>Harry &amp; Joe, co-founders</figcaption>
           </figure>
