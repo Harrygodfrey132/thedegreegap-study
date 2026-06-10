@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "A-Level Tutors in Baldock For the Year 12 Step Up"
 hero_heading_line2: ""
-hero_lead: "Year 12 starts feeling like a different subject for most A-Level students. Our Baldock A-Level tutors close the GCSE-to-A-Level gap before end-of-Year-12 mocks lock predicted grades in for the year ahead."
+hero_lead: "By October of Year 12, A-Level Maths can look nothing like the GCSE Maths your child earned an 8 in last summer. Our Baldock A-Level tutors close that GCSE-to-A-Level gap before end-of-Year-12 mocks set the predicted grade for the year ahead."
 
 grade_from: "C"
 grade_to: "A"
@@ -15,17 +15,17 @@ grade_stat: "A real two-grade A-Level jump from a Baldock student we worked with
 
 first_lesson_eyebrow: "A BALDOCK A-LEVEL TURNAROUND"
 first_lesson_heading: "What a Baldock A-Level Tutor Reads in Year 12 Mocks"
-first_lesson_context: "In Year 12, A-Level Maths stops looking like GCSE Maths. Grade 8 GCSE students find themselves middling Cs by October. A Baldock A-Level tutor traces where the GCSE foundation isn't enough yet, then rebuilds it before end-of-Year-12 exams."
+first_lesson_context: "In a first session with a Baldock Year 12, we usually find the same picture. The student earned grade 8s at GCSE and is now sitting at a C in their A-Level subject. Not because the work is too hard, because A-Level rewards a different kind of thinking GCSE never asked for. A Baldock A-Level tutor names that gap, then rebuilds the method week by week."
 first_lesson_quote: "The Degree Gap helped my child go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and applications."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
-first_lesson_quote_grade: "Grade C → Grade A across A-Levels"
+first_lesson_quote_grade: "Grade C to Grade A across A-Levels"
 
 tutor_strip_heading: "Baldock A-Level tutors matched to your spec and your sixth form"
-tutor_strip_body: "Most Baldock A-Level tutors are graduates from Russell Group universities, vetted on subject knowledge before they touch a student. Match by spec, not just subject. Browse profiles or let us match your child."
+tutor_strip_body: "Most of our Baldock A-Level tutors are graduates from Russell Group universities, vetted on how clearly they explain a difficult idea, not just their degree result. Match by spec, not just subject. Browse profiles, or let us match your child."
 
 pathways_heading: "Where Baldock A-Level Leavers Actually Head"
-pathways_lead: "Three routes most Baldock A-Level tutoring students take after UCAS results."
+pathways_lead: "Three routes Baldock A-Level tutoring families take once UCAS comes through."
 pathways:
   - title: "Universities"
     body: >
@@ -58,11 +58,11 @@ reviews:
   - "Tommy|University Graduate|I wish I had found The Degree Gap when I was sitting my school exams. They helped with my dissertation work and without their help I am not sure I would have graduated so successfully and landed a successful job."
 
 faq_1_q: "Year 12 or Year 13, when's the right time to start A-Level tutoring in Baldock?"
-faq_1_a: "Year 12 is the most common starting point for Baldock families, especially where A-Level Maths is the worry. Get the GCSE-to-A-Level jump nailed before end-of-Year-12 mocks, and predicted grades arrive higher into Year 13. Year 13 January mocks are the cut-off for most UCAS predicted grades, so starting after Christmas of Year 13 is too late for most universities."
+faq_1_a: "Year 12 is the most common starting point for Baldock families, especially where A-Level Maths is the worry. Get the GCSE-to-A-Level jump nailed before end-of-Year-12 mocks, and predicted grades arrive higher going into Year 13. Year 13 January mocks are the cut-off for most UCAS predicted grades, so starting after Christmas of Year 13 is too late for most universities."
 faq_2_q: "Will the tutor know my child's A-Level exam board and specification?"
-faq_2_a: "Yes. When we match, exam board is part of the criteria. AQA Maths and Edexcel Maths are different exams, and the same is true for Chemistry across OCR and AQA. We match A-Level tutors who've actually taught your child's spec."
+faq_2_a: "Yes. When we match, exam board is part of the criteria. AQA Maths and Edexcel Maths are different exams, and the same is true for Chemistry across OCR and AQA. We match A-Level tutors who have actually taught your child's spec, not just the broad subject."
 faq_3_q: "Can a Baldock A-Level tutor help with the EPQ?"
-faq_3_a: "Yes. EPQ structure and the artefact-or-essay choice are where we do most of the work. The final write-up stays your child's own, but tutoring shapes how it's structured and where the marks land. The EPQ counts towards UCAS, and a good tutor knows how examiners read it."
+faq_3_a: "Yes. EPQ structure and the artefact-or-essay choice are where most of the work sits. The final write-up stays your child's own, but tutoring shapes how it is structured and where the marks land. The EPQ counts towards UCAS, and a good tutor knows how examiners actually read it."
 faq_4_q: "Can A-Level tutoring help my child apply for an AstraZeneca or ARM degree apprenticeship?"
 faq_4_a: "Yes. Most Cambridge-corridor degree apprenticeships open to Baldock students screen on predicted grades and the strength of the application essay. A-Level tutoring lifts predicted grades into the AAB band most schemes ask for, and tutors help shape the application essay around the scheme's selection criteria."
 

@@ -7,25 +7,25 @@ level: "GCSE"
 
 hero_heading_line1: "Baldock GCSE Tutors For the Year 11 Predicted-Grade Squeeze"
 hero_heading_line2: ""
-hero_lead: "Most Year 11 GCSE struggles in Baldock trace back to a Year 8 or 9 topic nobody re-explained. Our Baldock GCSE tutors find that root gap in week one, then rebuild before mocks decide the predicted grade."
+hero_lead: "By the time most Baldock parents reach us, the school report still says 'working hard' but the mocks are coming back lower than expected. Our Baldock GCSE tutors find the Year 8 or 9 topic nobody re-explained, then rebuild before March mocks set the predicted grade."
 
 grade_from: "5"
 grade_to: "7"
-grade_stat: "A real GCSE English grade jump from a Year 10 student we worked with, after six months of one-to-one tutoring."
+grade_stat: "A real GCSE English grade jump from a Year 10 Baldock student we worked with, after six months of weekly one-to-one tutoring."
 
 first_lesson_eyebrow: "A BALDOCK YEAR 11 STORY"
 first_lesson_heading: "What a Baldock GCSE Tutor Reads in Year 10 Mock Papers"
-first_lesson_context: "GCSE results in Baldock decide everything from the Knights Templar sixth form offer to a Hills Road place in Cambridge. But most students arrive without the exam-paper depth those sixth forms ask for. A good GCSE tutor traces what's missing before any plan begins."
+first_lesson_context: "In a first session with a Baldock Year 11 we usually find the same thing. The student is working. School is fine. What is missing is the depth that lifts a clean 6 into an 8 on the longer questions. A good GCSE tutor names that gap, then rebuilds it before mocks lock the predicted grade in."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him."
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
-first_lesson_quote_grade: "Grade 5 → Grade 7 in GCSE English"
+first_lesson_quote_grade: "Grade 5 to Grade 7 in GCSE English"
 
 tutor_strip_heading: "Baldock GCSE tutors who know the Knights Templar and Hitchin papers"
-tutor_strip_body: "Most Baldock GCSE tutors have walked students through the exact specifications Knights Templar and Hitchin teach. Match by exam board, not just subject. Browse profiles, or let us match your child."
+tutor_strip_body: "Most of our Baldock GCSE tutors have walked students through the exact specifications taught at Knights Templar and Hitchin. Match by exam board, not just subject. Browse profiles, or let us match your child."
 
 pathways_heading: "Where Baldock Year 11s Head After GCSEs"
-pathways_lead: "A few of the post-16 routes Baldock GCSE tutoring families take after results day."
+pathways_lead: "Three routes most Baldock GCSE tutoring families take once results day is behind them."
 pathways:
   - title: "Sixth Forms"
     body: >
@@ -55,13 +55,13 @@ reviews:
   - "Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE. Thank you."
 
 faq_1_q: "Can a Baldock GCSE tutor help with March mock prep?"
-faq_1_a: "Yes. March mocks set the predicted grade that goes to sixth forms, so most Baldock parents book a focused block in January and February. Tutors work through past papers from the right exam board, then rebuild exam-day pacing on the questions losing the most marks."
+faq_1_a: "Yes. March mocks set the predicted grade that goes to sixth forms, so most Baldock families book a focused block in January and February. The tutor works through past papers from the right exam board, then rebuilds exam-day pacing on the questions losing the most marks. Most students walk into March feeling like the paper is a familiar shape, not a surprise."
 faq_2_q: "My daughter is finding GCSE Maths really tough. What does a Baldock GCSE tutor actually do?"
-faq_2_a: "We start with a diagnostic. Some students need to go back to a Year 8 algebra method that never properly clicked. Others have the content but freeze on the calculator paper. A Baldock GCSE Maths tutor traces the actual gap, then drills the paper 3 problem-solving questions and six-mark Maths problems examiners weight most."
+faq_2_a: "We start with a diagnostic. Some students need to go back to a Year 8 algebra method that never properly clicked. Others have the content but freeze on the calculator paper. A Baldock GCSE Maths tutor traces the actual gap, then drills the paper 3 problem-solving questions and six-mark Maths problems examiners weight most. Most parents see the change in how their child talks about the subject before they see it in a mark."
 faq_3_q: "Is GCSE tutoring online or does my child need to travel?"
-faq_3_a: "All sessions run online through Lessonspace, a shared whiteboard built for one-to-one work. Baldock families like this because there's no commute on a Tuesday evening, and your child gets the right subject specialist in the country, not just whoever lives nearby."
+faq_3_a: "All sessions run online through Lessonspace, our shared whiteboard. Baldock families like it because there is no commute on a Tuesday evening, and your child gets the right subject specialist in the country, not just whoever happens to live nearby."
 faq_4_q: "What does GCSE tutoring in Baldock cost?"
-faq_4_a: "From £37 per hour. The exact rate depends on the tutor's subject and experience. We agree it before anything is booked, with no hidden fees or platform charges on top."
+faq_4_a: "From £37 an hour. The exact rate depends on the tutor's subject and experience. We agree it before any session is booked. No hidden fees, no platform charges on top, no contracts."
 
 sitemap:
   priority: 0.7

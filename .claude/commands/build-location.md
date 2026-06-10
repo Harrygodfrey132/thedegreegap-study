@@ -358,6 +358,18 @@ Angle examples to draw from (never copy verbatim, these show range of approach):
 
 *Foundation gaps:* "Sometimes the problem isn't today's lesson, it's a gap from two years ago that never got addressed. In Kingston, we regularly work with students who are capable but held back by shaky foundations in core subjects. / The Degree Gap starts by identifying exactly where those gaps are, then builds a structured plan to close them, not about cramming, but making sure students genuinely understand the fundamentals."
 
+*Parent-scene (USE THIS WARMER VOICE WHEN POSSIBLE):* "By the time most {Loc} parents come to us, they've usually tried everything. The talk about effort. The phone in a drawer. The promise of a holiday if the grades come through, the threat of one if they don't. Some of it works for a week. None of it lasts. / What we've watched, working with hundreds of {Loc} families, is that the students who actually pull ahead aren't the ones being pushed hardest. They're the ones whose home went quiet for an hour a day. A good tutor steps into that hour and gets the kind of honest 'I don't understand this' that almost never lands at the kitchen table. That's what we do."
+
+### Warmth principles (read this before drafting intro_1 and intro_2)
+
+The voice should sound like a knowledgeable friend who works in education and has seen this exact family situation a hundred times, not a tutoring agency selling a service. Three concrete moves:
+
+1. **Open with a scene, not a fact.** "By the time most parents come to us..." beats "St Albans has competitive schools." Lead with what the parent is feeling or doing, then bring the local context in.
+2. **Name specific small things, not generic pressures.** "The phone in a drawer" over "screen time concerns". "The Year 9 mock that came back lower than expected" over "academic worries". Specificity is the texture that signals real experience.
+3. **Speak from observation, not assertion.** "We've watched", "we see most often", "what parents tell us in the first conversation". First-person plural observation creates intimacy that "Students in {Loc} benefit from one-to-one tutoring" never will.
+
+Across both intro paragraphs, at least one sentence should explicitly acknowledge the parent's emotional reality (their tiredness, their anxiety, the comparison with other families, the conversations that don't land). Don't pity it. Just name it.
+
 ### Why Choose Us (ORIGINAL per page, go deeper than the intro)
 
 Write `why_heading`, `why_para_1`, `why_para_2`, and the three accordion fields using the local knowledge gathered during your research. These sections are now driven by frontmatter.

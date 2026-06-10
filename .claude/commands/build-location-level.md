@@ -492,6 +492,19 @@ This is the banner subline. It is **two sentences. Maximum three.** Pain or cont
 7. **Time-pressure opener.** Sentence 1 names a deadline window every parent at this level knows (March mocks, Year 13 January mocks, UCAS prediction submission). Sentence 2 names what one-to-one work fixes inside that window.
    > *"Year 13 January mocks decide UCAS predicted grades. Our Liverpool A-Level tutors lift students out of borderline territory into the offer band universities actually ask for."*
 
+8. **Parent-scene opener (USE THIS WARMER VOICE WHEN POSSIBLE).** Sentence 1 names a specific moment in the parent's actual evening, not an abstract pain. Sentence 2 brings the tutor solution in.
+   > *"By the time most Liverpool parents reach us, they have spent a few weeks quietly worried, the homework getting harder, the answers shorter, the conversations smaller. Our Liverpool GCSE tutors step into that quiet hour a few times a week and find the gap that nobody has had time to name."*
+
+**Warmth principles for the hero_lead (read before writing):**
+
+The hero lead should sound like a knowledgeable friend who works in education, not a tutoring agency selling a service. Three concrete moves:
+
+1. **Open with a scene, not a fact.** *"By the time most parents reach us…"* beats *"GCSE attainment in {Location} sits below the national average."* The fact can come in line 2.
+2. **Name a specific small detail when you can.** *"the homework getting harder, the answers shorter"* is texture that signals real experience. Generic pressures (the strain, the stress, the worry) do not.
+3. **Speak from observation, not assertion.** *"What we see most often"*, *"the same conversation keeps coming up"*. First-person plural observation creates intimacy.
+
+At least one sentence across the H1, hero lead and first_lesson_context combined should explicitly acknowledge a parent's emotional reality (their tiredness, their anxiety, the comparison with other families). Don't pity it. Just name it.
+
 **Banned in hero_lead:**
 - Three-item parallel lists ("AO3 evaluation marks, timed-paper habits, and personal statement strategy") — the parent skill flags these as AI tells.
 - Slogans and abstract pivots ("turns near-misses into firm offers", "where ambition meets technique").
@@ -542,6 +555,8 @@ Four shapes. Pick one different from the last page in the repo. **Hard length ca
 2. **Directional-context opener.** Open with where the area sits qualitatively ("Results across Birmingham sit close to the national picture, but the spread inside the city is wider than the headline suggests…"). Pivot to what that hides at the individual-student level. Then the tutor pivot. No specific numbers.
 3. **Pain-point opener.** Open with a specific topic or year-group gap typical for the area ("In Year 10 across {Location} the pattern is the same: algebra never properly drilled, fractions still wobbly…"). Pivot to attainment-level context. Then tutor.
 4. **Stakes opener.** Open with what the GCSE/A-Level outcome unlocks locally (a specific sixth form, a Rolls-Royce apprenticeship, a Russell Group offer). Pivot to the attainment picture. Then tutor.
+
+5. **Parent-observation opener (warmest variant).** Open with what the same conversation between parents sounds like in this city. *"In a first session with a {Location} Year 11 we usually find the same thing,"* or *"The conversation we hear most often from {Location} parents is…"* Pivot to the concrete topic gap, then the tutor. No specific numbers, no school names, just the recognisable scene. Use this when you want the section to read warmly rather than analytically.
 
 **Do not always lead with "{Location}'s GCSE picture splits in two" or "{Location}'s GCSE results sit below the national average".** Both of those exist in the repo already. Pick a different shape.
 

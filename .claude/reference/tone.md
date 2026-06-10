@@ -9,7 +9,6 @@ The Degree Gap is talking to parents who are making an expensive, emotional deci
 - **Confident without being cocky.** "Our tutors lift predicted grades" — fine. "We're the best tutors in St Albans" — never.
 - **Specific over abstract.** A real topic ("a fractions concept from Year 8") beats a vague one ("what each student needs"). Name year groups, named papers, real schools, real employers.
 - **Short sentences, with variety.** Mix very short with longer. Use fragments. A two-word sentence after a long one is fine. Uniform sentence length reads AI; varied length reads human.
-- **Contractions naturally.** It's, don't, can't, we'd, they're. Not "it is" and "we will".
 - **Active voice.** "Tutors structure sessions around the student", not "Sessions are structured around the student."
 - **One paragraph per page is allowed to be a fragment or a single sentence.** Not every page. Just enough roughness to not feel polished.
 
@@ -36,3 +35,19 @@ Not in every paragraph — that produces uniform roughness, which itself reads a
 - Suggest tutoring replaces school.
 - Compare ourselves to other providers by name.
 - Use em dashes (U+2014). Comma, colon, full stop, or rewrite.
+
+## Warmth: how to write a parent-facing intro that doesn't feel templated
+
+This is the difference between "passable" and "the user loves it." Default to these moves whenever a section is parent-facing (banners, intros, why-us copy, FAQ answers, founder notes):
+
+1. **Open with a scene, not a fact.** *"By the time most parents come to us, they've already tried everything"* beats *"St Albans is one of Hertfordshire's most competitive catchments."* Lead with what a parent is feeling or doing in their actual evening, then bring the local context in.
+
+2. **Name specific small details, not generic pressures.** *"The phone in a drawer. The promise of a holiday if the grades come through, the threat of one if they don't."* That texture signals you've sat across kitchen tables. *"Academic worries"* signals you've sat in a meeting room.
+
+3. **Speak from observation, not assertion.** *"We've watched"*, *"we see most often"*, *"the same conversation keeps coming up"*. First-person plural observation creates intimacy that *"Students benefit from one-to-one tutoring"* never will.
+
+4. **Acknowledge the parent's emotional reality without pitying it.** The tiredness, the comparison with other families, the conversations that don't land at the kitchen table. Naming it is enough. Never reach for sympathy verbs ("we understand", "we know how hard it is") — show, don't tell.
+
+5. **At least one short, slightly rough sentence per page.** Fragment, dropped subject, "and" or "but" at the start. Reads human; uniform prose reads AI.
+
+Apply this everywhere, not just to dedicated "warmth" sections. The voice has to be consistent across banner, intro, FAQ, and tutor-strip body, or the warm bits stand out as the only good bits.
