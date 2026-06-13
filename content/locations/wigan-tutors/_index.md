@@ -1,5 +1,5 @@
 ---
-title: "Expert Tutors in Wigan | The Degree Gap"
+title: "Wigan Expert Tutors | The Degree Gap"
 description: "One-to-one Wigan tutoring across GCSE and A-Level, with founder-vetted tutors who know what Winstanley and St John Rigby entry actually requires."
 layout: "single"
 location: "Wigan"

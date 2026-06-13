@@ -1,6 +1,6 @@
 ---
 title: "Welwyn Garden City Tutoring | The Degree Gap"
-description: "One-to-one Welwyn Garden City tutoring across GCSE and A-Level, with founder-vetted tutors who know what the local cohort needs to lift a band."
+description: "One-to-one Welwyn Garden City tutoring across GCSE and A-Level, with founder-vetted tutors who know what students from the area need to lift a band."
 layout: "single"
 location: "Welwyn Garden City"
 banner_heading: "Looking for a Welwyn Garden City tutor who can stretch a student past where the class can?"

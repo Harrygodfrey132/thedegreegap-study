@@ -1,5 +1,5 @@
 ---
-title: "GCSE & A-Level Tutors in Winchester | The Degree Gap"
+title: "Winchester GCSE & A-Level Tutors | The Degree Gap"
 description: "One-to-one Winchester tutoring with founder-vetted tutors who know what Peter Symonds entry and A-Level grade boundaries require."
 layout: "single"
 location: "Winchester"

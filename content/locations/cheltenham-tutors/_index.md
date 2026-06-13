@@ -1,5 +1,5 @@
 ---
-title: "Local Tutors in Cheltenham | GCSE & A-Level | The Degree Gap"
+title: "Cheltenham Tutors | GCSE & A-Level | The Degree Gap"
 description: "One-to-one Cheltenham tutoring matched on exam board and the grade the student is aiming for, with founder-vetted tutors."
 layout: "single"
 location: "Cheltenham"

@@ -1,5 +1,5 @@
 ---
-title: "Private Tutors in Stevenage | The Degree Gap"
+title: "Stevenage Private Tutors | The Degree Gap"
 description: "One-to-one Stevenage tutoring for GCSE and A-Level, with tutors who find the gap, name it and rebuild from there."
 layout: "single"
 location: "Stevenage"

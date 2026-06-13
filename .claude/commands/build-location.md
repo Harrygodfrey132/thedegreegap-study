@@ -287,12 +287,13 @@ Each title is assembled from two parts: a **slot A** opener and a **slot B** suf
 **Slot A, opener (pick one, rotate across pages):**
 - `{Location} Tutors`
 - `{Location} Tutoring`
-- `Private Tutors in {Location}`
-- `GCSE & A-Level Tutors in {Location}`
-- `Online Tutors in {Location}`
-- `Expert Tutors in {Location}`
+- `{Location} GCSE & A-Level Tutors`
 - `{Location} GCSE and A-Level Tutors`
-- `Local Tutors in {Location}`
+- `{Location} Private Tutors`
+- `{Location} Online Tutors`
+- `{Location} Expert Tutors`
+
+**Hard rule on Slot A: never use "Local" and never use the "...in {Location}" preposition pattern.** The Degree Gap is an online-only agency that covers the area but is not physically based in it. Openers like "Local Tutors in Wigan", "Private Tutors in Wigan", or "GCSE & A-Level Tutors in Wigan" imply physical presence and read as misleading. Always prefix the location to the qualifier ("Wigan Private Tutors"), never infix it after a preposition ("Private Tutors in Wigan").
 
 **Slot B, suffix (pick one, rotate across pages):**
 - `| The Degree Gap`
@@ -302,8 +303,8 @@ Each title is assembled from two parts: a **slot A** opener and a **slot B** suf
 - `| One-to-One Tuition | The Degree Gap`
 
 **Example combinations (do not reuse these exact ones):**
-- `"Private Tutors in Leeds | GCSE & A-Level | The Degree Gap"`, 57 chars
-- `"Online Tutors in Bristol | Expert Support | The Degree Gap"`, 58 chars
+- `"Leeds Private Tutors | GCSE & A-Level | The Degree Gap"`, 54 chars
+- `"Bristol Online Tutors | Expert Support | The Degree Gap"`, 55 chars
 - `"Sheffield Tutoring | A-Level and 11+ | The Degree Gap"`, 53 chars
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: "GCSE & A-Level Tutors in Worcester | The Degree Gap"
+title: "Worcester GCSE & A-Level Tutors | The Degree Gap"
 description: "One-to-one Worcester tutoring across GCSE and A-Level, with tutors who find the gap, name it and rebuild from there."
 layout: "single"
 location: "Worcester"

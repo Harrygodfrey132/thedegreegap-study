@@ -1,5 +1,5 @@
 ---
-title: "Online Tutors in Hemel Hempstead | The Degree Gap"
+title: "Hemel Hempstead Online Tutors | The Degree Gap"
 description: "One-to-one Hemel Hempstead tutoring for GCSE and A-Level, with patient tutors who rebuild confidence and the grade at the same time."
 layout: "single"
 location: "Hemel Hempstead"

@@ -1,5 +1,5 @@
 ---
-title: "Expert Tutors in Warwick | A-Level and 11+ | The Degree Gap"
+title: "Warwick Expert Tutors | A-Level and 11+ | The Degree Gap"
 description: "One-to-one Warwick tutoring across GCSE and A-Level, with founder-vetted tutors who know Warwick School, King's High and Myton specifications cold."
 layout: "single"
 location: "Warwick"
