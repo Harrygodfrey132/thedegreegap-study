@@ -43,6 +43,22 @@
     {{ block "main" . }}{{ end }}
   </main>
   {{ partial "footer.html" . }}
+  <div class="wa-nudge" data-wa-nudge hidden>
+    <button type="button" class="wa-nudge__close" data-wa-nudge-close aria-label="Dismiss message">
+      <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" aria-hidden="true">
+        <path d="M6 6l12 12M18 6l-6 12"/>
+      </svg>
+    </button>
+    <a
+      class="wa-nudge__link"
+      href="https://wa.me/447859965776?text=Hi%2C%20I%20am%20interested%20in%20tutoring.%20Please%20can%20I%20know%20more%3F"
+      target="_blank"
+      rel="noopener"
+      data-wa-nudge-link
+    >
+      Hi, Harry here. If anything's unclear, just message.
+    </a>
+  </div>
   <a
     href="https://wa.me/447859965776?text=Hi%2C%20I%20am%20interested%20in%20tutoring.%20Please%20can%20I%20know%20more%3F"
     target="_blank"

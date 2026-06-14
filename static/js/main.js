@@ -1,3 +1,34 @@
+// WhatsApp nudge — show once, 3 seconds after page load, then never again per browser.
+(function () {
+  const nudge = document.querySelector('[data-wa-nudge]');
+  if (!nudge) return;
+  const STORAGE_KEY = 'tdg-wa-nudge-dismissed';
+  let dismissed = false;
+  try { dismissed = localStorage.getItem(STORAGE_KEY) === '1'; } catch (e) {}
+  if (dismissed) return;
+
+  const dismiss = () => {
+    nudge.removeAttribute('data-wa-nudge-visible');
+    try { localStorage.setItem(STORAGE_KEY, '1'); } catch (e) {}
+    setTimeout(() => { nudge.hidden = true; }, 360);
+    clearTimeout(revealTimer);
+  };
+
+  const reveal = () => {
+    nudge.hidden = false;
+    requestAnimationFrame(() => nudge.setAttribute('data-wa-nudge-visible', ''));
+  };
+
+  const revealTimer = setTimeout(reveal, 3000);
+
+  const closeBtn = nudge.querySelector('[data-wa-nudge-close]');
+  if (closeBtn) closeBtn.addEventListener('click', dismiss);
+  const link = nudge.querySelector('[data-wa-nudge-link]');
+  if (link) link.addEventListener('click', () => {
+    try { localStorage.setItem(STORAGE_KEY, '1'); } catch (e) {}
+  });
+})();
+
 // Mobile nav toggle
 const toggle = document.querySelector('.nav-toggle');
 const nav = document.querySelector('.main-nav');
