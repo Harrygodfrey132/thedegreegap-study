@@ -33,7 +33,7 @@
 
     <div class="bc-thanks__body">
       <p>
-        Thank you for sending that through. I've got your enquiry<span data-thanks-subject-line> about your child's <strong data-thanks-subject>GCSE Maths</strong></span>, and Joe will be in touch within the next 24 hours, usually a lot sooner than that.
+        Thank you for sending that through. I've got your enquiry<span data-thanks-subject-line hidden> about your child's <strong data-thanks-subject></strong></span>, and Joe will be in touch within the next 24 hours, usually a lot sooner than that.
       </p>
       <p>
         When you speak, you will talk through what's going on, the exam board, the predicted grade and what you have already tried. From there Joe will send you a shortlist of two or three tutors he believes will actually fit your child, each one offering a free trial call. No card details, no awkward pressure.
@@ -71,10 +71,9 @@
     }
     var line = document.querySelector('[data-thanks-subject-line]');
     var sEl = document.querySelector('[data-thanks-subject]');
-    if (subject && sEl) {
+    if (subject && sEl && line) {
       sEl.textContent = subject;
-    } else if (line) {
-      line.style.display = 'none';
+      line.hidden = false;
     }
   } catch (_) {}
 })();
