@@ -1,0 +1,534 @@
+{{ define "seo" }}
+{{ partial "seo.html" . }}
+<meta name="robots" content="noindex, follow">
+{{ end }}
+
+{{ define "main" }}
+<style>
+  /* ===== Preview page chrome ===== */
+  .bp2-page {
+    background: #fafafa;
+    min-height: 80vh;
+    padding: 56px 24px 96px;
+    font-family: 'Poppins', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  }
+  .bp2-inner { max-width: 980px; margin: 0 auto; }
+  .bp2-intro { margin-bottom: 32px; }
+  .bp2-intro .bp2-label {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 800;
+    letter-spacing: 0.14em;
+    color: #800020;
+    margin-bottom: 8px;
+  }
+  .bp2-intro h1 {
+    font-size: 1.7rem;
+    font-weight: 900;
+    color: #171717;
+    letter-spacing: -0.015em;
+    margin: 0 0 14px;
+  }
+  .bp2-intro p {
+    font-size: 0.95rem;
+    line-height: 1.65;
+    color: #5f5a54;
+    margin: 0 0 10px;
+  }
+  .bp2-intro strong { color: #171717; font-weight: 800; }
+
+  .bp2-spec, .bp2-notes {
+    background: #ffffff;
+    border: 1px solid #e6ded4;
+    border-radius: 12px;
+    padding: 22px 26px;
+    margin: 28px 0;
+  }
+  .bp2-spec h2, .bp2-notes h2 {
+    font-size: 0.78rem;
+    font-weight: 800;
+    letter-spacing: 0.10em;
+    text-transform: uppercase;
+    color: #800020;
+    margin: 0 0 12px;
+  }
+  .bp2-spec ul, .bp2-notes ul {
+    margin: 0;
+    padding-left: 20px;
+    font-size: 0.92rem;
+    line-height: 1.7;
+    color: #171717;
+  }
+  .bp2-spec li, .bp2-notes li { margin-bottom: 6px; }
+  .bp2-spec code, .bp2-notes code {
+    background: #fbf7ef;
+    border: 1px solid #e6ded4;
+    padding: 1px 6px;
+    border-radius: 4px;
+    font-size: 0.85em;
+  }
+
+  .bp2-block { margin: 48px 0 24px; }
+  .bp2-h2 {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 16px;
+    font-size: 1.1rem;
+    font-weight: 800;
+    color: #171717;
+    margin: 0 0 6px;
+    letter-spacing: -0.01em;
+  }
+  .bp2-h2 .bp2-size {
+    font-size: 0.78rem;
+    font-weight: 700;
+    color: #5f5a54;
+    background: #fbf7ef;
+    border: 1px solid #e6ded4;
+    border-radius: 999px;
+    padding: 3px 10px;
+    letter-spacing: 0.04em;
+  }
+  .bp2-context-note {
+    font-size: 0.88rem;
+    color: #5f5a54;
+    margin: 0 0 16px;
+  }
+  .bp2-frame {
+    display: flex;
+    justify-content: center;
+    padding: 32px 16px;
+    border-radius: 12px;
+  }
+  .bp2-frame--blue {
+    background: #0e2d52; /* School Guide-style navy header. Swap to exact hex if Victoria sends one. */
+    border: 1px solid #0e2d52;
+  }
+  .bp2-frame--white {
+    background: #ffffff;
+    border: 1px dashed #d4ccc0;
+  }
+
+  /* =================================================
+     SHARED BANNER STYLES
+     ================================================= */
+  .b-banner {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    background: #fbf7ef;
+    border-radius: 10px;
+    border: 1px solid #e6ded4;
+    box-shadow: 0 8px 24px rgba(35, 23, 17, 0.18);
+    overflow: hidden;
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
+    font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+  }
+  .b-banner:hover {
+    box-shadow: 0 14px 36px rgba(35, 23, 17, 0.24);
+    transform: translateY(-1px);
+  }
+  .b-banner:focus-visible {
+    outline: 3px solid #fbf7ef;
+    outline-offset: 3px;
+  }
+
+  /* =================================================
+     728 x 90 — DESKTOP LEADERBOARD
+     Rotates through 3 messages, 4s each (12s cycle),
+     stops after 3 rotations, lands on message 1.
+     ================================================= */
+  .b-728 {
+    width: 728px;
+    height: 90px;
+  }
+  .b-728 .b-logo {
+    flex: 0 0 auto;
+    height: 44px;
+    margin: 0 18px 0 22px;
+  }
+  .b-728 .b-rotator-wrap {
+    flex: 1;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+    padding-right: 16px;
+  }
+  .b-728 .b-rotator {
+    display: flex;
+    flex-direction: column;
+    animation: b728-rotate 12s ease-in-out 3 forwards;
+  }
+  .b-728 .b-msg {
+    flex: 0 0 90px;
+    height: 90px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-right: 8px;
+  }
+  @keyframes b728-rotate {
+    0%, 30%   { transform: translateY(0); }
+    33%, 63%  { transform: translateY(-90px); }
+    67%, 97%  { transform: translateY(-180px); }
+    100%      { transform: translateY(0); }
+  }
+  .b-728 .b-line1 {
+    font-size: 21px;
+    font-weight: 800;
+    color: #171717;
+    letter-spacing: -0.012em;
+    line-height: 1.15;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .b-728 .b-line2 {
+    font-size: 14px;
+    font-weight: 500;
+    color: #5f5a54;
+    margin-top: 4px;
+    letter-spacing: -0.003em;
+  }
+  .b-728 .b-cta {
+    flex: 0 0 auto;
+    margin: 0 18px 0 6px;
+    background: #800020;
+    color: #fbf7ef;
+    font-weight: 800;
+    font-size: 13px;
+    padding: 11px 20px;
+    border-radius: 999px;
+    white-space: nowrap;
+    box-shadow: 0 4px 12px rgba(128, 0, 32, 0.18);
+    transition: background 0.15s ease;
+  }
+  .b-728:hover .b-cta { background: #5A001F; }
+
+  /* =================================================
+     320 x 100 — MOBILE LEADERBOARD
+     2 messages, 6s each (12s cycle),
+     stops after 3 rotations, lands on message 1.
+     ================================================= */
+  .b-320 {
+    width: 320px;
+    height: 100px;
+    padding: 10px 12px;
+    align-items: center;
+  }
+  .b-320 .b-logo {
+    flex: 0 0 auto;
+    height: 36px;
+    margin-right: 10px;
+  }
+  .b-320 .b-rotator-wrap {
+    flex: 1;
+    height: 80px;
+    position: relative;
+    overflow: hidden;
+  }
+  .b-320 .b-rotator {
+    display: flex;
+    flex-direction: column;
+    animation: b320-rotate 12s ease-in-out 3 forwards;
+  }
+  .b-320 .b-msg {
+    flex: 0 0 80px;
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  @keyframes b320-rotate {
+    0%, 42%   { transform: translateY(0); }
+    50%, 92%  { transform: translateY(-80px); }
+    100%      { transform: translateY(0); }
+  }
+  .b-320 .b-line1 {
+    font-size: 14px;
+    font-weight: 800;
+    color: #171717;
+    line-height: 1.15;
+    letter-spacing: -0.01em;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+  }
+  .b-320 .b-line2 {
+    font-size: 11px;
+    font-weight: 500;
+    color: #5f5a54;
+    margin-top: 2px;
+    line-height: 1.25;
+  }
+  .b-320 .b-cta {
+    flex: 0 0 auto;
+    margin-left: 8px;
+    background: #800020;
+    color: #fbf7ef;
+    font-weight: 800;
+    font-size: 11px;
+    padding: 8px 11px;
+    border-radius: 999px;
+    white-space: nowrap;
+  }
+
+  /* =================================================
+     160 x 600 — SKYSCRAPER
+     Static. Every block visible. Sits on white body.
+     ================================================= */
+  .b-160 {
+    width: 160px;
+    height: 600px;
+    flex-direction: column;
+    align-items: stretch;
+    padding: 20px 14px 18px;
+    text-align: center;
+    background: #fbf7ef;
+    border: 1px solid #ddd2c2;
+  }
+  .b-160 .sk-logo {
+    height: 50px;
+    width: auto;
+    margin: 0 auto 14px;
+    display: block;
+  }
+  .b-160 .sk-headline {
+    font-size: 17px;
+    font-weight: 800;
+    color: #171717;
+    letter-spacing: -0.015em;
+    line-height: 1.18;
+    margin: 0 0 8px;
+  }
+  .b-160 .sk-sub {
+    font-size: 11px;
+    color: #5f5a54;
+    line-height: 1.35;
+    margin: 0 0 18px;
+  }
+  .b-160 .sk-divider {
+    height: 1px;
+    background: #e6ded4;
+    margin: 4px 0 18px;
+  }
+  .b-160 .sk-stars {
+    color: #FBBC05;
+    font-size: 18px;
+    letter-spacing: 0.06em;
+    margin-bottom: 6px;
+    display: block;
+  }
+  .b-160 .sk-rating {
+    font-size: 18px;
+    font-weight: 800;
+    color: #171717;
+    line-height: 1;
+    margin-bottom: 4px;
+  }
+  .b-160 .sk-reviews-count {
+    font-size: 10.5px;
+    color: #5f5a54;
+    line-height: 1.35;
+    margin: 0 0 20px;
+  }
+  .b-160 .sk-callout {
+    background: #ffffff;
+    border: 1px solid #e6ded4;
+    border-radius: 10px;
+    padding: 12px 10px;
+    margin-bottom: 18px;
+  }
+  .b-160 .sk-callout-eyebrow {
+    font-size: 9px;
+    font-weight: 800;
+    letter-spacing: 0.1em;
+    color: #800020;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .b-160 .sk-callout-line {
+    font-size: 12px;
+    font-weight: 700;
+    color: #171717;
+    line-height: 1.25;
+  }
+  .b-160 .sk-award {
+    font-size: 10px;
+    color: #5f5a54;
+    line-height: 1.4;
+    margin: 0 0 20px;
+    font-style: italic;
+  }
+  .b-160 .sk-cta {
+    margin-top: auto;
+    background: #800020;
+    color: #fbf7ef;
+    font-weight: 800;
+    font-size: 13px;
+    padding: 11px 8px;
+    border-radius: 999px;
+    box-shadow: 0 4px 12px rgba(128, 0, 32, 0.22);
+    transition: background 0.15s ease;
+  }
+  .b-160:hover .sk-cta { background: #5A001F; }
+
+  /* =================================================
+     REDUCED MOTION
+     ================================================= */
+  @media (prefers-reduced-motion: reduce) {
+    .b-728 .b-rotator,
+    .b-320 .b-rotator { animation: none; transform: translateY(0); }
+    .b-banner:hover { transform: none; }
+  }
+
+  /* =================================================
+     RESPONSIVE PREVIEW (lets the 728 banner shrink on narrow viewports)
+     ================================================= */
+  @media (max-width: 760px) {
+    .b-728 { width: 100%; max-width: 320px; height: 100px; padding: 10px 12px; }
+    .b-728 .b-logo { height: 36px; margin: 0 10px 0 0; }
+    .b-728 .b-rotator { animation: b320-rotate 12s ease-in-out 3 forwards; }
+    .b-728 .b-msg { flex: 0 0 80px; height: 80px; }
+    .b-728 .b-line1 { font-size: 14px; gap: 5px; }
+    .b-728 .b-line2 { font-size: 11px; margin-top: 2px; }
+    .b-728 .b-cta { font-size: 11px; padding: 8px 11px; margin: 0 0 0 8px; }
+    .bp2-frame { padding: 22px 12px; }
+  }
+</style>
+
+<div class="bp2-page">
+  <div class="bp2-inner">
+
+    <header class="bp2-intro">
+      <span class="bp2-label">INTERNAL PREVIEW &middot; FOR PARTNER REVIEW</span>
+      <h1>Partner banner creatives</h1>
+      <p>Three banner sizes built to the School Guide ad spec, each shown against the background colour it will sit on. Hover or focus any banner to see the click-state. The whole banner is one clickable link.</p>
+      <p>This page is <strong>noindex</strong> and excluded from sitemap. Share the URL with whoever you'd like to show it to.</p>
+    </header>
+
+    <div class="bp2-spec">
+      <h2>To spec</h2>
+      <ul>
+        <li>Desktop leaderboard: <strong>728 &times; 90px</strong>, on the blue header</li>
+        <li>Mobile leaderboard: <strong>320 &times; 100px</strong>, on the blue header</li>
+        <li>Skyscraper: <strong>160 &times; 600px</strong>, on the white body</li>
+        <li>Max file size: 1000kb (these come in well under, HTML5 or GIF export)</li>
+        <li>Animation: 12s / 4 slides max, &ge; 2s per slide, <strong>stops after 3 rotations</strong></li>
+      </ul>
+    </div>
+
+    <!-- ===== 728 x 90 ===== -->
+    <section class="bp2-block">
+      <h2 class="bp2-h2"><span>Desktop leaderboard</span><span class="bp2-size">728 &times; 90</span></h2>
+      <p class="bp2-context-note">Sits against the School Guide blue header.</p>
+      <div class="bp2-frame bp2-frame--blue">
+        <a class="b-banner b-728" href="/referred-by-school-guide/" target="_blank" rel="noopener" aria-label="The Degree Gap, book a free call about your child's tutoring">
+          <img class="b-logo" src="/images/favicon.png" alt="The Degree Gap">
+          <div class="b-rotator-wrap" aria-hidden="true">
+            <div class="b-rotator">
+              <div class="b-msg">
+                <span class="b-line1">Find the right tutor for your child</span>
+                <span class="b-line2">A premium UK tutoring agency with vetted tutors and no contracts.</span>
+              </div>
+              <div class="b-msg">
+                <span class="b-line1">Free 40-minute call with the founders</span>
+                <span class="b-line2">We answer every enquiry personally</span>
+              </div>
+              <div class="b-msg">
+                <span class="b-line1">
+                  <span aria-hidden="true" style="display:inline-flex;align-items:center;">
+                    <svg viewBox="0 0 24 24" width="18" height="18" xmlns="http://www.w3.org/2000/svg">
+                      <path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/>
+                      <path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84A11 11 0 0 0 12 23z"/>
+                      <path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18A11 11 0 0 0 1 12c0 1.77.42 3.45 1.18 4.93l2.85-2.22.81-.62z"/>
+                      <path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/>
+                    </svg>
+                  </span>
+                  107 verified 5 Star Google reviews
+                </span>
+                <span class="b-line2">Voted GCSE Tutoring Specialists of the Year, 2025 and 2026</span>
+              </div>
+            </div>
+          </div>
+          <span class="b-cta">Book a free call &rarr;</span>
+        </a>
+      </div>
+    </section>
+
+    <!-- ===== 320 x 100 ===== -->
+    <section class="bp2-block">
+      <h2 class="bp2-h2"><span>Mobile leaderboard</span><span class="bp2-size">320 &times; 100</span></h2>
+      <p class="bp2-context-note">Sits against the School Guide blue header. Two messages at 6 seconds each, stops on message one.</p>
+      <div class="bp2-frame bp2-frame--blue">
+        <a class="b-banner b-320" href="/referred-by-school-guide/" target="_blank" rel="noopener" aria-label="The Degree Gap, book a free call about your child's tutoring">
+          <img class="b-logo" src="/images/favicon.png" alt="The Degree Gap">
+          <div class="b-rotator-wrap" aria-hidden="true">
+            <div class="b-rotator">
+              <div class="b-msg">
+                <span class="b-line1">The right tutor for your child</span>
+                <span class="b-line2">Vetted tutors. No contracts. Free trial calls.</span>
+              </div>
+              <div class="b-msg">
+                <span class="b-line1">
+                  <svg viewBox="0 0 24 24" width="13" height="13" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                    <path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/>
+                    <path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84A11 11 0 0 0 12 23z"/>
+                    <path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18A11 11 0 0 0 1 12c0 1.77.42 3.45 1.18 4.93l2.85-2.22.81-.62z"/>
+                    <path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/>
+                  </svg>
+                  5.0 · 107 Google reviews
+                </span>
+                <span class="b-line2">Free 40-minute call with the founders</span>
+              </div>
+            </div>
+          </div>
+          <span class="b-cta">Book now &rarr;</span>
+        </a>
+      </div>
+    </section>
+
+    <!-- ===== 160 x 600 ===== -->
+    <section class="bp2-block">
+      <h2 class="bp2-h2"><span>Skyscraper</span><span class="bp2-size">160 &times; 600</span></h2>
+      <p class="bp2-context-note">Sits against the white body. Static — everything visible at a glance for sidebar placement.</p>
+      <div class="bp2-frame bp2-frame--white">
+        <a class="b-banner b-160" href="/referred-by-school-guide/" target="_blank" rel="noopener" aria-label="The Degree Gap, book a free call about your child's tutoring">
+          <img class="sk-logo" src="/images/favicon.png" alt="The Degree Gap">
+          <p class="sk-headline">Tutors that move the grade</p>
+          <p class="sk-sub">Vetted UK tutors, matched personally by the founders. No contracts.</p>
+          <div class="sk-divider"></div>
+
+          <span class="sk-stars" aria-label="5 stars">★★★★★</span>
+          <div class="sk-rating">5.0</div>
+          <p class="sk-reviews-count">107 verified Google reviews</p>
+
+          <div class="sk-callout">
+            <div class="sk-callout-eyebrow">Free</div>
+            <div class="sk-callout-line">40-minute call with the founders</div>
+          </div>
+
+          <p class="sk-award">Voted GCSE Tutoring Specialists of the Year, 2025 and 2026</p>
+
+          <span class="sk-cta">Book a free call &rarr;</span>
+        </a>
+      </div>
+    </section>
+
+    <div class="bp2-notes">
+      <h2>What's wired up</h2>
+      <ul>
+        <li>Click target on all three: <code>/referred-by-school-guide/</code>. Swap per partner when each placement goes live.</li>
+        <li>Animated banners (728 &times; 90 and 320 &times; 100) stop after 3 rotations and land on the first message, per IAB spec.</li>
+        <li>Skyscraper is static for a sidebar context, every key message visible at a glance.</li>
+        <li>All three respect <code>prefers-reduced-motion</code>: animations off, first frame retained.</li>
+        <li>Built in HTML/CSS, can ship as HTML5 or be exported as GIF (well under the 1000kb cap either way).</li>
+        <li>Cream banner against the navy header gives strong contrast; the same cream against the white body needs the border + shadow you can see on the skyscraper to hold its edge.</li>
+        <li>The blue background colour here is a placeholder for the School Guide navy; if Victoria sends the exact hex we'll swap it.</li>
+      </ul>
+    </div>
+
+  </div>
+</div>
+{{ end }}
