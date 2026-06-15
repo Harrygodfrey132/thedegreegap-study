@@ -1,0 +1,503 @@
+{{ define "main" }}
+{{/*
+Subject landing page layout (e.g. GCSE Maths Tutors).
+Built for paid Google Ads traffic — single primary CTA (free 15-min call),
+founder-led tone, reusable across other GCSE / A-Level subjects.
+
+Frontmatter contract:
+  Required: subject, banner_heading, banner_description, banner_cta_primary,
+            why_blocks (3), how_steps (3), outcomes (4), boards (4),
+            method_steps (3), faqs, form_*
+  Optional: hero_eyebrow, hero_image, pricing_note, rating_text,
+            tutor_strip_heading, tutor_strip_body
+*/}}
+
+{{ $subject     := .Params.subject | default .Title }}
+{{ $heroEyebrow := .Params.hero_eyebrow | default "" }}
+{{ $h1          := .Params.banner_heading | default $subject }}
+{{ $lead        := .Params.banner_description | default "" }}
+{{ $ctaPrimary  := .Params.banner_cta_primary | default "Book your free call with Joe" }}
+{{ $ctaPhone    := .Params.banner_cta_secondary | default "07859 965776" }}
+{{ $pricing     := .Params.pricing_note | default "From £37/hr" }}
+{{ $rating      := .Params.rating_text | default "5.0 · 100+ Google reviews · As featured in The Independent" }}
+{{ $heroImage   := .Params.hero_image | default "/images/harry-godfrey.jpg" }}
+
+{{ $whyHeading  := .Params.why_heading | default (printf "Why The Degree Gap is different for %s" $subject) }}
+{{ $whyBlocks   := .Params.why_blocks  | default (slice) }}
+
+{{ $howHeading  := .Params.how_heading | default "How it works" }}
+{{ $howSteps    := .Params.how_steps   | default (slice) }}
+
+{{ $outcomesHeading := .Params.outcomes_heading | default "Real grade jumps from real Degree Gap families" }}
+{{ $outcomes        := .Params.outcomes        | default (slice) }}
+
+{{ $boardsHeading := .Params.boards_heading | default (printf "Your exam board, not just %s" $subject) }}
+{{ $boardsIntro   := .Params.boards_intro   | default "We match every tutor to your child's exact spec. The mark schemes are different. The questions are different. The way examiners award the top band is different." }}
+{{ $boards        := .Params.boards         | default (slice) }}
+
+{{ $methodHeading := .Params.method_heading | default "What a first session looks like" }}
+{{ $methodSteps   := .Params.method_steps   | default (slice) }}
+{{ $methodBodyAfter := .Params.method_body_after | default "" }}
+{{ $methodImage   := .Params.method_image   | default "/images/handwriting-study-notes-with-highlighters.jpg" }}
+
+{{ $pricingHeading := .Params.pricing_heading | default (printf "%s — no contracts, no surprises" $pricing) }}
+{{ $pricingBody    := .Params.pricing_body    | default "Sessions start from £37 an hour. The exact rate depends on the subject and the tutor, and it is always agreed before any session is booked. No surprises, no hidden fees, no contracts. You pay for the sessions you take." }}
+
+{{ $faqs := .Params.faqs | default (slice) }}
+
+<div class="sj-page-wrap">
+
+<!-- =============================================
+     SECTION 1: HERO
+     ============================================= -->
+<section class="loc-hero">
+  <div class="container">
+    <div class="loc-hero__inner">
+      <div class="loc-hero__copy">
+        {{ with $heroEyebrow }}
+        <a href="https://youtu.be/2bMD7DkUmJU" target="_blank" rel="noopener" class="loc-hero__badge">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+          {{ . }}
+        </a>
+        {{ end }}
+        <h1>{{ $h1 }}</h1>
+        <p class="loc-hero__lead">{{ $lead }}</p>
+        <div class="loc-hero__actions">
+          <a href="#get-help" class="btn btn-primary btn-lg">{{ $ctaPrimary }}</a>
+          <a href="tel:{{ replace $ctaPhone " " "" }}" class="btn btn-outline btn-lg">Call: {{ $ctaPhone }}</a>
+        </div>
+        <p class="loc-hero__pricing">{{ $pricing }} &middot; free 40-minute consultation with Joe before you commit</p>
+        <button type="button" data-reviews-open class="loc-hero__rating" aria-label="Read our Google reviews" aria-controls="bc-reviews-drawer" aria-expanded="false">
+          <div class="loc-hero__google">
+            <svg width="60" height="20" viewBox="0 0 60 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="Google">
+              <text x="0" y="16" font-family="Arial,sans-serif" font-size="14" font-weight="700">
+                <tspan fill="#4285F4">G</tspan><tspan fill="#EA4335">o</tspan><tspan fill="#FBBC05">o</tspan><tspan fill="#4285F4">g</tspan><tspan fill="#34A853">l</tspan><tspan fill="#EA4335">e</tspan>
+              </text>
+            </svg>
+            <span class="loc-hero__google-label">Reviews</span>
+          </div>
+          <span class="loc-hero__score">5.0</span>
+          <div class="loc-hero__stars" aria-label="5 stars">★★★★★</div>
+          <span class="loc-hero__count">{{ $rating }} · Click to see them →</span>
+        </button>
+      </div>
+      <div class="loc-hero__image" aria-hidden="true">
+        <div class="loc-img-circle"></div>
+        {{ $heroResource := resources.Get (strings.TrimPrefix "/" $heroImage) }}
+        {{ if $heroResource }}
+        {{ $heroWebp1x := $heroResource.Resize "560x webp q88" }}
+        {{ $heroWebp2x := $heroResource.Resize "960x webp q88" }}
+        {{ $heroFallback := $heroResource.Resize "720x q88" }}
+        <picture class="loc-img-hero">
+          <source media="(min-width: 901px)" type="image/webp" srcset="{{ $heroWebp1x.RelPermalink }} 1x, {{ $heroWebp2x.RelPermalink }} 2x">
+          <img src="{{ $heroFallback.RelPermalink }}" alt="{{ .Params.hero_alt | default (printf "%s support from The Degree Gap" $subject) }}" class="loc-img-hero__img" width="{{ $heroFallback.Width }}" height="{{ $heroFallback.Height }}" loading="eager" decoding="async" fetchpriority="high">
+        </picture>
+        {{ else }}
+        <img src="{{ $heroImage }}" alt="{{ .Params.hero_alt | default (printf "%s support from The Degree Gap" $subject) }}" class="loc-img-hero" width="420" height="580" loading="eager" decoding="async" fetchpriority="high">
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- =============================================
+     SECTION 1.5: TRUST STRIP (under the hero, above the fold on most screens)
+     ============================================= -->
+<section class="sj-trust" aria-label="Trust signals">
+  <div class="container">
+    <div class="sj-trust__inner">
+      <div class="sj-trust__item">
+        <svg class="sj-trust__icon" viewBox="0 0 24 24" width="22" height="22" fill="#FBBC05" aria-hidden="true">
+          <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+        </svg>
+        <div>
+          <strong>5.0 · 100+ Google reviews</strong>
+          <span>Independently verified</span>
+        </div>
+      </div>
+      <div class="sj-trust__divider" aria-hidden="true"></div>
+      <div class="sj-trust__item">
+        <svg class="sj-trust__icon" viewBox="0 0 24 24" width="22" height="22" fill="#C9A55C" aria-hidden="true">
+          <path d="M19 5h-2V3H7v2H5c-1.1 0-2 .9-2 2v1c0 2.55 1.92 4.63 4.39 4.94.63 1.5 1.98 2.63 3.61 2.96V19H7v2h10v-2h-4v-3.1c1.63-.33 2.98-1.46 3.61-2.96C19.08 12.63 21 10.55 21 8V7c0-1.1-.9-2-2-2zM5 8V7h2v3.82C5.84 10.4 5 9.3 5 8zm14 0c0 1.3-.84 2.4-2 2.82V7h2v1z"/>
+        </svg>
+        <div>
+          <strong>GCSE Specialists of the Year</strong>
+          <span>Prestige Awards 2025 and 2026</span>
+        </div>
+      </div>
+      <div class="sj-trust__divider" aria-hidden="true"></div>
+      <div class="sj-trust__item">
+        <svg class="sj-trust__icon" viewBox="0 0 24 24" width="22" height="22" fill="#800020" aria-hidden="true">
+          <path d="M8 5v14l11-7z"/>
+        </svg>
+        <div>
+          <strong>National Educational Webinars</strong>
+          <span>Watched by 5,000+ families</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- =============================================
+     SECTION 2: WHY THE DEGREE GAP IS DIFFERENT
+     ============================================= -->
+<section class="hub-section hub-section--tint" aria-labelledby="sj-why-title">
+  <div class="container">
+    <div class="sj-why-top">
+      <div class="sj-why-top__copy">
+        <p class="hub-eyebrow">Why us</p>
+        <h2 id="sj-why-title">{{ $whyHeading }}</h2>
+        <p class="sj-why-top__lead">A two-minute look from Joe at how matching, vetting and a real consultation change what tutoring actually does for your child.</p>
+        <a href="#get-help" class="btn btn-primary">{{ $ctaPrimary }}</a>
+      </div>
+      <div class="sj-why-top__video">
+        <div class="loc-lite-video" data-youtube-id="5zKZLb9mFSk" data-youtube-title="Why choose The Degree Gap for {{ $subject }}">
+          <a href="https://youtu.be/5zKZLb9mFSk" target="_blank" rel="noopener" class="loc-lite-video__button" aria-label="Play video: Why choose The Degree Gap">
+            <img src="https://i.ytimg.com/vi/5zKZLb9mFSk/hqdefault.jpg" alt="The Degree Gap co-founder explains how tutoring works" width="480" height="360" loading="lazy" decoding="async">
+            <span class="loc-lite-video__play" aria-hidden="true">
+              <svg width="34" height="34" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+            </span>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="hub-method-grid">
+      {{ range $i, $b := $whyBlocks }}
+      <article class="hub-method-card">
+        <span>{{ printf "%02d" (add $i 1) }}</span>
+        <h3>{{ $b.title }}</h3>
+        <p>{{ $b.body }}</p>
+      </article>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+<!-- =============================================
+     SECTION 2.4: STATS / KPI STRIP (sits between Why blocks and Founders
+     to give numerical credibility before introducing the humans)
+     ============================================= -->
+{{ with .Params.stats }}
+<section class="sj-stats" aria-label="The Degree Gap by the numbers">
+  <div class="container">
+    <div class="sj-stats__inner">
+      {{ range . }}
+      <div class="sj-stats__item">
+        <div class="sj-stats__number">{{ .number }}</div>
+        <div class="sj-stats__label">{{ .label }}</div>
+        <div class="sj-stats__body">{{ .body }}</div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<!-- =============================================
+     SECTION 2.45: PARENT VOICES (sits with Stats as the proof block, before
+     introducing the humans behind it via the Founders section)
+     ============================================= -->
+{{ with .Params.voices }}
+<section class="sj-voices" aria-labelledby="sj-voices-title">
+  <div class="container">
+    <div class="sj-voices__intro">
+      {{ with $.Params.voices_eyebrow }}<p class="hub-eyebrow">{{ . }}</p>{{ end }}
+      <h2 id="sj-voices-title">{{ $.Params.voices_heading | default "What parents say about us" }}</h2>
+      {{ with $.Params.voices_intro }}<p>{{ . }}</p>{{ end }}
+    </div>
+    <div class="sj-voices__grid">
+      {{ range . }}
+      <article class="sj-voice-card">
+        <div class="sj-voice-card__stars" aria-label="5 stars">★★★★★</div>
+        <p class="sj-voice-card__text">{{ .text }}</p>
+        <div class="sj-voice-card__author">
+          <strong>{{ .name }}</strong>
+          <span>{{ .role }}</span>
+        </div>
+      </article>
+      {{ end }}
+    </div>
+    <div class="sj-voices__footer">
+      <button type="button" data-reviews-open class="btn btn-outline" aria-controls="bc-reviews-drawer" aria-expanded="false">Read all 100+ Google reviews</button>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<!-- =============================================
+     SECTION 2.5: MEET THE FOUNDERS
+     ============================================= -->
+{{ if .Params.founders_heading }}
+<section class="sj-founders" aria-labelledby="sj-founders-title">
+  <div class="container">
+    <div class="sj-founders__inner">
+      <div class="sj-founders__image">
+        {{ partial "responsive-image.html" (dict "src" (.Params.founders_image | default "/images/founders-award.jpg") "alt" (.Params.founders_image_alt | default "Joe and Harry, co-founders of The Degree Gap") "class" "sj-founders__img" "loading" "lazy" "sizes" "(min-width: 901px) 50vw, 100vw" "widths" (slice 420 760 1100) "fallbackWidth" 760 "quality" 80) }}
+      </div>
+      <div class="sj-founders__copy">
+        {{ with .Params.founders_eyebrow }}<p class="hub-eyebrow">{{ . }}</p>{{ end }}
+        <h2 id="sj-founders-title">{{ .Params.founders_heading }}</h2>
+        <p>{{ .Params.founders_body }}</p>
+        <a href="#get-help" class="btn btn-primary">{{ .Params.founders_cta | default $ctaPrimary }}</a>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<!-- =============================================
+     SECTION 3: HOW IT WORKS
+     ============================================= -->
+<section class="hub-section hub-section--white" aria-labelledby="sj-how-title">
+  <div class="container">
+    <div class="hub-section__intro">
+      <p class="hub-eyebrow">From enquiry to first session</p>
+      <h2 id="sj-how-title">{{ $howHeading }}</h2>
+    </div>
+    <div class="hub-method-grid">
+      {{ range $i, $s := $howSteps }}
+      <article class="hub-method-card">
+        <span>{{ printf "%02d" (add $i 1) }}</span>
+        <h3>{{ $s.title }}</h3>
+        <p>{{ $s.body }}</p>
+      </article>
+      {{ end }}
+    </div>
+    <div style="text-align:center;margin-top:2rem;">
+      <a href="#get-help" class="btn btn-primary btn-lg">{{ $ctaPrimary }}</a>
+    </div>
+  </div>
+</section>
+
+<!-- =============================================
+     SECTION 3.5: WHAT A FIRST SESSION LOOKS LIKE (sits right after How it Works
+     so the parent's "what happens?" arc completes before we hit proof)
+     ============================================= -->
+<section class="loc-online">
+  <div class="container">
+    <div class="loc-online__inner">
+      <div class="loc-online__image">
+        {{ partial "responsive-image.html" (dict "src" $methodImage "alt" (printf "Inside a Degree Gap %s session" $subject) "class" "loc-img-online" "loading" "lazy" "sizes" "(min-width: 901px) 50vw, 100vw" "widths" (slice 420 760 1100) "fallbackWidth" 760 "quality" 72) }}
+      </div>
+      <div class="loc-online__copy">
+        <p class="loc-eyebrow">THE FIRST SESSION</p>
+        <h2>{{ $methodHeading }}</h2>
+        <ol style="padding-left:1.25rem;margin:0 0 1.25rem;">
+          {{ range $methodSteps }}
+          <li style="margin-bottom:0.75rem;">{{ . }}</li>
+          {{ end }}
+        </ol>
+        {{ with $methodBodyAfter }}<p>{{ . }}</p>{{ end }}
+        <a href="#get-help" class="btn btn-primary">{{ $ctaPrimary }}</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- =============================================
+     SECTION 5: MEET A FEW OF OUR TUTORS
+     ============================================= -->
+{{ partial "gcse-tutor-strip.html" . }}
+
+<!-- =============================================
+     SECTION 6: EXAM BOARD CARDS
+     ============================================= -->
+{{ if $boards }}
+<section class="hub-section hub-section--white" aria-labelledby="sj-boards-title">
+  <div class="container">
+    <div class="hub-section__intro">
+      <p class="hub-eyebrow">Match on the spec, not just the subject</p>
+      <h2 id="sj-boards-title">{{ $boardsHeading }}</h2>
+      <p>{{ $boardsIntro }}</p>
+    </div>
+    <div class="hub-subject-grid">
+      {{ range $boards }}
+      <a href="{{ .url }}" class="hub-subject-card">
+        <span class="hub-subject-card__title">{{ .name }}</span>
+        <p>{{ .body }}</p>
+        <span class="hub-subject-card__link">See {{ .name }} {{ $subject | lower }} tutors</span>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<!-- =============================================
+     SECTION 8: PRICING TRUST STRIP
+     ============================================= -->
+<section class="sj-pricing hub-section--tint">
+  <div class="container">
+    <div class="sj-pricing__inner">
+      <p class="hub-eyebrow">Pricing</p>
+      <h2 class="sj-pricing__heading">{{ $pricingHeading }}</h2>
+      <p class="sj-pricing__body">{{ $pricingBody }}</p>
+      {{ with .Params.pricing_marks }}
+      <ul class="sj-pricing__marks" role="list">
+        {{ range . }}
+        <li>
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12l5 5L20 7"/></svg>
+          <span>{{ . }}</span>
+        </li>
+        {{ end }}
+      </ul>
+      {{ end }}
+      <a href="#get-help" class="btn btn-primary btn-lg sj-pricing__cta">{{ $ctaPrimary }}</a>
+    </div>
+  </div>
+</section>
+
+<!-- =============================================
+     SECTION 9: CONTACT FORM + FAQ (combined, matches location pattern)
+     ============================================= -->
+<section class="loc-contact-faq" id="get-help">
+  <div class="loc-contact-faq__inner">
+    <div class="loc-contact-faq__form-wrap">
+      <div class="loc-contact-faq__form-bg" aria-hidden="true"></div>
+      <div class="loc-contact-faq__form-card">
+        <h2>{{ .Params.form_cta | default (printf "Tell Joe what is going wrong with %s" $subject) }}</h2>
+        <p>{{ .Params.form_intro | default "He will be on a call with you within one working day. No sales pitch, no obligation. We will talk through the exam board, the predicted grade and what you have already tried, then recommend the right tutor." }}</p>
+        <p class="loc-pricing-note">Sessions start from <strong>£37 per hour</strong>. The exact rate is agreed before any session is booked.</p>
+        <form action="{{ .Site.Params.formspreeEndpoint }}" method="POST" novalidate>
+          <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
+          <input type="hidden" name="_subject" value="New enquiry from {{ $subject }} subject page | The Degree Gap Study">
+          <input type="hidden" name="page_url" value="{{ .RelPermalink }}">
+          <input type="hidden" name="subject" value="{{ $subject }}">
+          <div class="loc-form-group">
+            <input type="text" name="name" placeholder="Full Name*" required>
+          </div>
+          <div class="loc-form-group">
+            <input type="tel" name="phone" placeholder="Phone Number*" autocomplete="tel" required>
+          </div>
+          <div class="loc-form-group">
+            <textarea name="message" rows="4" placeholder="{{ .Params.form_message_placeholder | default "Tell us where your child is stuck — exam board, predicted grade, anything you have already tried." }}"></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary loc-form-submit">{{ .Params.form_button | default "Book my free call with Joe" }}</button>
+        </form>
+      </div>
+    </div>
+
+    {{ if $faqs }}
+    <div class="loc-faq">
+      <h2>Things {{ $subject }} parents ask us</h2>
+      <div class="loc-accordion loc-accordion--faq">
+        {{ range $faqs }}
+        <details class="loc-accordion__item">
+          <summary class="loc-accordion__trigger">
+            <span>{{ .q }}</span>
+            <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
+          </summary>
+          <div class="loc-accordion__body">
+            <p>{{ .a | safeHTML }}</p>
+          </div>
+        </details>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</section>
+
+{{/* Reviews drawer (already used in location pages) */}}
+{{ partial "reviews-drawer.html" . }}
+
+</div><!-- /.sj-page-wrap -->
+
+<!-- =============================================
+     STICKY MOBILE CTA BAR (appears on scroll past hero)
+     ============================================= -->
+<div class="sj-sticky-cta" data-sj-sticky-cta hidden>
+  <a href="/book-a-call/" class="sj-sticky-cta__btn">Book my free call with Joe</a>
+  <a href="tel:07859965776" class="sj-sticky-cta__phone" aria-label="Call now on 07859 965776">
+    <svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor" aria-hidden="true">
+      <path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/>
+    </svg>
+  </a>
+</div>
+
+<script>
+(function(){
+  var bar = document.querySelector('[data-sj-sticky-cta]');
+  if (!bar) return;
+  var hero = document.querySelector('.loc-hero');
+  if (!hero || !('IntersectionObserver' in window)) {
+    // Fallback: just show after first scroll
+    var shown = false;
+    window.addEventListener('scroll', function(){
+      if (shown) return;
+      if (window.scrollY > 400) {
+        bar.hidden = false;
+        requestAnimationFrame(function(){ bar.setAttribute('data-sj-sticky-cta-visible', ''); });
+        shown = true;
+      }
+    }, { passive: true });
+    return;
+  }
+  var observer = new IntersectionObserver(function(entries){
+    entries.forEach(function(entry){
+      if (entry.isIntersecting) {
+        bar.removeAttribute('data-sj-sticky-cta-visible');
+      } else {
+        bar.hidden = false;
+        requestAnimationFrame(function(){ bar.setAttribute('data-sj-sticky-cta-visible', ''); });
+      }
+    });
+  }, { rootMargin: '0px 0px -80px 0px' });
+  observer.observe(hero);
+  // Mark body so we can push the WhatsApp FAB up on mobile when the bar is in play
+  document.body.classList.add('has-sticky-cta');
+})();
+</script>
+
+<!-- =============================================
+     STRUCTURED DATA
+     ============================================= -->
+{{ if $faqs }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{ range $i, $f := $faqs }}{{ if $i }},{{ end }}{
+      "@type": "Question",
+      "name": {{ $f.q | jsonify }},
+      "acceptedAnswer": { "@type": "Answer", "text": {{ $f.a | jsonify }} }
+    }{{ end }}
+  ]
+}
+</script>
+{{ end }}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": "{{ .Permalink }}#service",
+  "name": "{{ $subject }} Tutoring | The Degree Gap",
+  "description": {{ .Description | jsonify }},
+  "url": "{{ .Permalink }}",
+  "provider": {
+    "@type": "EducationalOrganization",
+    "@id": "https://study.thedegreegap.com/#organization",
+    "name": "The Degree Gap",
+    "url": "https://thedegreegap.com"
+  },
+  "serviceType": "Online Tutoring",
+  "audience": { "@type": "EducationalAudience", "educationalRole": "student" },
+  "availableChannel": { "@type": "ServiceChannel", "serviceUrl": "{{ .Permalink }}", "availableLanguage": "English" },
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "GBP",
+    "price": "37",
+    "priceSpecification": {
+      "@type": "UnitPriceSpecification",
+      "price": "37",
+      "priceCurrency": "GBP",
+      "unitText": "per hour",
+      "minPrice": "37"
+    }
+  }
+}
+</script>
+{{ end }}

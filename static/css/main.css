@@ -8575,4 +8575,971 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 }
 .thanks-card__soft a:hover { text-decoration: underline; }
 
+/* ============================================================
+   Subject page — pricing section
+   ============================================================ */
+.sj-pricing { padding: clamp(3rem, 6vw, 5rem) 0; }
+.sj-pricing__inner {
+  max-width: 720px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 0 1rem;
+}
+.sj-pricing__inner .hub-eyebrow { display: block; }
+.sj-pricing__heading {
+  font-size: clamp(1.75rem, 3.5vw, 2.5rem);
+  margin: 0.75rem 0 1rem;
+  line-height: 1.2;
+}
+.sj-pricing__body {
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: #444;
+  margin: 0 auto 2rem;
+  max-width: 580px;
+}
+.sj-pricing__marks {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+  margin: 0 0 2rem;
+}
+.sj-pricing__marks li {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 600;
+  color: #800020;
+  font-size: 0.95rem;
+}
+.sj-pricing__marks svg { color: #800020; flex: none; }
+.sj-pricing__cta { margin-top: 0.5rem; }
+
+@media (max-width: 600px) {
+  .sj-pricing__marks { gap: 1rem; }
+  .sj-pricing__marks li { font-size: 0.9rem; }
+}
+
+/* Grade-jump card attribution line */
+.sj-outcome-attrib {
+  margin-top: 0.85rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #800020;
+  letter-spacing: 0.01em;
+}
+
+/* ============================================================
+   Subject page — Trust strip (sits directly below the hero)
+   ============================================================ */
+.sj-trust {
+  background: #ffffff;
+  border-bottom: 1px solid #ece6dd;
+  padding: 1.5rem 0;
+}
+.sj-trust__inner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+.sj-trust__item {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  text-align: left;
+}
+.sj-trust__item div { display: flex; flex-direction: column; line-height: 1.3; }
+.sj-trust__item strong {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #1a1a1a;
+}
+.sj-trust__item span {
+  font-size: 0.78rem;
+  color: #6b6b6b;
+  letter-spacing: 0.01em;
+}
+.sj-trust__icon { flex: none; }
+.sj-trust__divider {
+  width: 1px;
+  height: 36px;
+  background: #ece6dd;
+}
+
+@media (max-width: 768px) {
+  .sj-trust { padding: 1.25rem 0; }
+  .sj-trust__inner { gap: 0.75rem; flex-direction: column; }
+  .sj-trust__divider { width: 60%; height: 1px; }
+  .sj-trust__item { text-align: left; width: auto; }
+}
+
+/* ============================================================
+   Subject page — Why section top row (copy + video)
+   ============================================================ */
+.sj-why-top {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem;
+  align-items: center;
+  margin-bottom: 3rem;
+}
+.sj-why-top__copy .hub-eyebrow { margin-bottom: 0.5rem; }
+.sj-why-top__copy h2 {
+  font-size: clamp(1.75rem, 3vw, 2.4rem);
+  margin: 0 0 1rem;
+  line-height: 1.15;
+}
+.sj-why-top__lead {
+  font-size: 1.05rem;
+  line-height: 1.65;
+  color: #444;
+  margin-bottom: 1.5rem;
+}
+.sj-why-top__video {
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 12px 32px rgba(20, 10, 5, 0.18);
+}
+
+@media (max-width: 900px) {
+  .sj-why-top { grid-template-columns: 1fr; gap: 2rem; margin-bottom: 2.5rem; }
+  .sj-why-top__video { order: -1; }
+}
+
+/* ============================================================
+   Subject page — Sticky mobile CTA bar
+   ============================================================ */
+.sj-sticky-cta { display: none; }
+
+@media (max-width: 768px) {
+  .sj-sticky-cta {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 80;
+    display: flex;
+    gap: 8px;
+    padding: 10px 12px;
+    background: #ffffff;
+    border-top: 1px solid #ece6dd;
+    box-shadow: 0 -6px 18px rgba(20, 10, 5, 0.1);
+    transform: translateY(110%);
+    transition: transform 0.28s cubic-bezier(0.2, 0.8, 0.2, 1);
+    padding-bottom: calc(10px + env(safe-area-inset-bottom));
+  }
+  .sj-sticky-cta[data-sj-sticky-cta-visible] {
+    transform: translateY(0);
+  }
+  .sj-sticky-cta__btn {
+    flex: 1;
+    background: #800020;
+    color: #ffffff;
+    padding: 14px 16px;
+    border-radius: 8px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 0.98rem;
+    text-decoration: none;
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .sj-sticky-cta__btn:hover,
+  .sj-sticky-cta__btn:active { background: #6a001a; color: #ffffff; }
+  .sj-sticky-cta__phone {
+    width: 50px;
+    height: 50px;
+    flex: none;
+    background: #25D366;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    text-decoration: none;
+  }
+  .sj-sticky-cta__phone:hover { background: #1faa54; color: #ffffff; }
+
+  /* Push the WhatsApp FAB up so the sticky bar does not cover it on mobile. */
+  body.has-sticky-cta .whatsapp-fab { bottom: 78px; }
+  /* Push the WhatsApp nudge speech bubble up by the same amount as the FAB. */
+  body.has-sticky-cta .wa-nudge { bottom: 142px; }
+}
+
+/* ============================================================
+   Subject page — Snazzy background decorations (scoped to .sj-page-wrap)
+   ============================================================ */
+
+/* HERO: subtle burgundy grid + radial wash + blob behind the founder photo */
+.sj-page-wrap .loc-hero {
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(160deg, var(--cream) 0%, #fff 52%, var(--cream) 100%);
+}
+.sj-page-wrap .loc-hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(90deg, rgba(128,0,32,0.05) 0 1px, transparent 1px),
+    linear-gradient(0deg, rgba(128,0,32,0.04) 0 1px, transparent 1px);
+  background-size: 72px 72px;
+  mask-image: linear-gradient(90deg, transparent, #000 16%, #000 84%, transparent);
+  -webkit-mask-image: linear-gradient(90deg, transparent, #000 16%, #000 84%, transparent);
+  opacity: 0.55;
+  pointer-events: none;
+  z-index: 0;
+}
+.sj-page-wrap .loc-hero .container {
+  position: relative;
+  z-index: 1;
+}
+.sj-page-wrap .loc-hero__image {
+  position: relative;
+  isolation: isolate;
+}
+.sj-page-wrap .loc-hero__image::after {
+  content: "";
+  position: absolute;
+  width: 420px;
+  height: 420px;
+  top: -60px;
+  right: -80px;
+  background: radial-gradient(circle, rgba(196,165,92,0.22), rgba(128,0,32,0.10) 45%, transparent 70%);
+  border-radius: 50%;
+  z-index: -1;
+  filter: blur(8px);
+  pointer-events: none;
+}
+
+/* TRUST STRIP: thin burgundy accent line above + soft cream wash */
+.sj-page-wrap .sj-trust {
+  position: relative;
+  background: linear-gradient(180deg, #ffffff 0%, #fdfbf7 100%);
+}
+.sj-page-wrap .sj-trust::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: min(720px, 80%);
+  height: 2px;
+  background: linear-gradient(90deg, transparent, rgba(128,0,32,0.4), rgba(196,165,92,0.5), rgba(128,0,32,0.4), transparent);
+}
+
+/* HUB-SECTION--TINT sections (Why Different, Grade Jumps, Pricing):
+   soft radial blobs of brand colour for visual interest */
+.sj-page-wrap .hub-section--tint,
+.sj-page-wrap .sj-pricing {
+  position: relative;
+  overflow: hidden;
+}
+.sj-page-wrap .hub-section--tint::before,
+.sj-page-wrap .sj-pricing::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image:
+    radial-gradient(circle at 8% 18%, rgba(128,0,32,0.045), transparent 28%),
+    radial-gradient(circle at 92% 82%, rgba(196,165,92,0.06), transparent 30%);
+  pointer-events: none;
+  z-index: 0;
+}
+.sj-page-wrap .hub-section--tint > .container,
+.sj-page-wrap .sj-pricing > .container { position: relative; z-index: 1; }
+
+/* WHITE hub sections (How it works, Exam boards):
+   keep clean but add a single subtle decorative gradient sweep */
+.sj-page-wrap .hub-section--white {
+  position: relative;
+  overflow: hidden;
+}
+.sj-page-wrap .hub-section--white::after {
+  content: "";
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  bottom: -120px;
+  right: -100px;
+  background: radial-gradient(circle, rgba(128,0,32,0.04), transparent 60%);
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 0;
+}
+.sj-page-wrap .hub-section--white > .container { position: relative; z-index: 1; }
+
+/* HUB-METHOD-CARDs (Why Different, How it works): elevated feel */
+.sj-page-wrap .hub-method-card {
+  position: relative;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+.sj-page-wrap .hub-method-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 16px 36px rgba(35,23,17,0.10);
+}
+
+/* HUB-SUBJECT-CARD (Exam board cards): make them feel clickable */
+.sj-page-wrap .hub-subject-card {
+  position: relative;
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+}
+.sj-page-wrap .hub-subject-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 14px 32px rgba(35,23,17,0.10);
+  border-color: rgba(128,0,32,0.3);
+}
+
+/* PRICING SECTION: emphasise the pricing strip with a subtle inner glow */
+.sj-page-wrap .sj-pricing__inner {
+  position: relative;
+}
+
+/* FIRST SESSION (loc-online): add a subtle pattern overlay so it doesn't feel flat */
+.sj-page-wrap .loc-online {
+  position: relative;
+  overflow: hidden;
+}
+.sj-page-wrap .loc-online::before {
+  content: "";
+  position: absolute;
+  width: 280px;
+  height: 280px;
+  top: -80px;
+  left: -100px;
+  background: radial-gradient(circle, rgba(196,165,92,0.10), transparent 60%);
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 0;
+}
+.sj-page-wrap .loc-online > .container { position: relative; z-index: 1; }
+
+@media (max-width: 900px) {
+  /* Reduce decorative weight on mobile so the page doesn't feel busy */
+  .sj-page-wrap .loc-hero__image::after { width: 280px; height: 280px; top: -30px; right: -50px; }
+  .sj-page-wrap .loc-hero::before { background-size: 48px 48px; opacity: 0.4; }
+  .sj-page-wrap .hub-section--white::after,
+  .sj-page-wrap .loc-online::before { display: none; }
+}
+
+/* ============================================================
+   Subject page — KPI Stats Strip
+   ============================================================ */
+.sj-stats {
+  padding: clamp(2.5rem, 5vw, 4rem) 0;
+  background: linear-gradient(180deg, #fdfbf7 0%, #ffffff 100%);
+  border-bottom: 1px solid #ece6dd;
+  position: relative;
+  overflow: hidden;
+}
+.sj-stats::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image:
+    radial-gradient(circle at 15% 50%, rgba(128,0,32,0.04), transparent 30%),
+    radial-gradient(circle at 85% 50%, rgba(196,165,92,0.05), transparent 30%);
+  pointer-events: none;
+}
+.sj-stats__inner {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.5rem;
+  text-align: center;
+}
+.sj-stats__item {
+  padding: 1rem 0.5rem;
+  border-right: 1px solid rgba(128,0,32,0.1);
+}
+.sj-stats__item:last-child { border-right: none; }
+.sj-stats__number {
+  font-family: Georgia, serif;
+  font-size: clamp(2.2rem, 4.5vw, 3.4rem);
+  font-weight: 800;
+  color: #800020;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  margin-bottom: 0.5rem;
+}
+.sj-stats__label {
+  font-size: 0.92rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 0.35rem;
+  letter-spacing: 0.02em;
+}
+.sj-stats__body {
+  font-size: 0.8rem;
+  color: #6b6b6b;
+  line-height: 1.4;
+  max-width: 200px;
+  margin: 0 auto;
+}
+
+@media (max-width: 900px) {
+  .sj-stats__inner { grid-template-columns: repeat(2, 1fr); gap: 1rem; }
+  .sj-stats__item { border-right: none; padding: 0.5rem; }
+  .sj-stats__item:nth-child(odd) { border-right: 1px solid rgba(128,0,32,0.1); }
+  .sj-stats__item:nth-child(-n+2) { border-bottom: 1px solid rgba(128,0,32,0.1); padding-bottom: 1.5rem; }
+  .sj-stats__item:nth-child(n+3) { padding-top: 1.5rem; }
+}
+@media (max-width: 500px) {
+  .sj-stats__inner { grid-template-columns: 1fr; }
+  .sj-stats__item,
+  .sj-stats__item:nth-child(odd) { border-right: none; border-bottom: 1px solid rgba(128,0,32,0.1); padding: 1.25rem 0; }
+  .sj-stats__item:last-child { border-bottom: none; }
+}
+
+/* ============================================================
+   Subject page — Meet the Founders
+   ============================================================ */
+.sj-founders {
+  padding: clamp(3.5rem, 6vw, 5.5rem) 0;
+  background: linear-gradient(160deg, #fdfbf7 0%, #ffffff 50%, #fdfbf7 100%);
+  position: relative;
+  overflow: hidden;
+}
+.sj-founders::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image:
+    radial-gradient(circle at 5% 20%, rgba(196,165,92,0.08), transparent 35%),
+    radial-gradient(circle at 95% 80%, rgba(128,0,32,0.05), transparent 35%);
+  pointer-events: none;
+}
+.sj-founders__inner {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem;
+  align-items: center;
+}
+.sj-founders__image {
+  position: relative;
+}
+.sj-founders__img {
+  width: 100%;
+  height: auto;
+  border-radius: 16px;
+  box-shadow: 0 20px 40px rgba(20, 10, 5, 0.18);
+  display: block;
+}
+.sj-founders__award-badge {
+  position: absolute;
+  bottom: -16px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #800020;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 10px 18px;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+  box-shadow: 0 8px 20px rgba(128,0,32,0.3);
+  max-width: calc(100% + 60px);
+}
+.sj-founders__award-badge svg { color: #FBBC05; flex: none; }
+.sj-founders__award-badge span { overflow: hidden; text-overflow: ellipsis; }
+.sj-founders__copy .hub-eyebrow { margin-bottom: 0.5rem; }
+.sj-founders__copy h2 {
+  font-size: clamp(1.85rem, 3.4vw, 2.6rem);
+  margin: 0 0 1.25rem;
+  line-height: 1.15;
+}
+.sj-founders__copy p {
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: #3a3a3a;
+  margin-bottom: 1.75rem;
+}
+
+@media (max-width: 900px) {
+  .sj-founders__inner { grid-template-columns: 1fr; gap: 2.5rem; }
+  .sj-founders__image { max-width: 480px; margin: 0 auto; }
+  .sj-founders__award-badge { font-size: 0.7rem; padding: 8px 14px; }
+}
+
+/* ============================================================
+   Subject page — Parent Voices (extra reviews section)
+   ============================================================ */
+.sj-voices {
+  padding: clamp(3rem, 6vw, 5rem) 0;
+  background: #ffffff;
+  position: relative;
+  overflow: hidden;
+}
+.sj-voices::after {
+  content: "";
+  position: absolute;
+  width: 380px;
+  height: 380px;
+  top: -140px;
+  right: -120px;
+  background: radial-gradient(circle, rgba(128,0,32,0.05), transparent 60%);
+  border-radius: 50%;
+  pointer-events: none;
+}
+.sj-voices::before {
+  content: "";
+  position: absolute;
+  width: 320px;
+  height: 320px;
+  bottom: -100px;
+  left: -100px;
+  background: radial-gradient(circle, rgba(196,165,92,0.08), transparent 60%);
+  border-radius: 50%;
+  pointer-events: none;
+}
+.sj-voices__intro {
+  position: relative;
+  text-align: center;
+  max-width: 720px;
+  margin: 0 auto 2.5rem;
+}
+.sj-voices__intro h2 {
+  font-size: clamp(1.85rem, 3.4vw, 2.6rem);
+  margin: 0.5rem 0 1rem;
+  line-height: 1.15;
+}
+.sj-voices__intro p {
+  font-size: 1.02rem;
+  line-height: 1.65;
+  color: #3a3a3a;
+}
+.sj-voices__grid {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+}
+.sj-voice-card {
+  background: #ffffff;
+  border: 1px solid #ece6dd;
+  border-radius: 14px;
+  padding: 1.75rem 1.5rem;
+  box-shadow: 0 4px 16px rgba(20, 10, 5, 0.04);
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+  display: flex;
+  flex-direction: column;
+}
+.sj-voice-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 16px 36px rgba(20, 10, 5, 0.08);
+  border-color: rgba(128,0,32,0.2);
+}
+.sj-voice-card__stars {
+  color: #FBBC05;
+  font-size: 1rem;
+  letter-spacing: 0.15em;
+  margin-bottom: 0.85rem;
+}
+.sj-voice-card__text {
+  flex: 1;
+  font-size: 0.94rem;
+  line-height: 1.6;
+  color: #2a2a2a;
+  margin-bottom: 1.25rem;
+}
+.sj-voice-card__author {
+  padding-top: 1rem;
+  border-top: 1px solid #ece6dd;
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+.sj-voice-card__author strong {
+  font-size: 0.92rem;
+  font-weight: 700;
+  color: #1a1a1a;
+}
+.sj-voice-card__author span {
+  font-size: 0.78rem;
+  color: #6b6b6b;
+}
+.sj-voices__footer {
+  position: relative;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+@media (max-width: 900px) {
+  .sj-voices__grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 640px) {
+  .sj-voices__grid { grid-template-columns: 1fr; }
+  .sj-voices::after,
+  .sj-voices::before { display: none; }
+}
+
+/* ============================================================
+   Subject page — DESIGN POLISH PASS
+   (typography, decoration, hover, premium feel)
+   ============================================================ */
+
+/* === TRUST STRIP polish — bigger icons, refined typography === */
+.sj-trust { padding: 1.75rem 0; }
+.sj-trust__inner { gap: 2.5rem; }
+.sj-trust__item { gap: 0.9rem; }
+.sj-trust__icon { width: 26px; height: 26px; }
+.sj-trust__item strong {
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+.sj-trust__item span {
+  font-size: 0.8rem;
+  color: #8a8a8a;
+}
+
+/* === STATS polish — premium number treatment with accent === */
+.sj-stats__item { padding: 1.5rem 0.75rem; }
+.sj-stats__number {
+  font-size: clamp(2.5rem, 5vw, 3.8rem);
+  font-weight: 700;
+  display: inline-block;
+  margin-bottom: 0.85rem;
+}
+.sj-stats__label {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+.sj-stats__body {
+  font-size: 0.82rem;
+  line-height: 1.5;
+  color: #8a8a8a;
+}
+
+/* === VOICE CARD polish — decorative serif quote mark, italic text, premium feel === */
+.sj-voice-card {
+  position: relative;
+  padding: 2rem 1.75rem 1.5rem;
+  border-radius: 16px;
+  background: linear-gradient(180deg, #ffffff 0%, #fdfbf7 100%);
+}
+.sj-voice-card::before {
+  content: "\201C";
+  position: absolute;
+  top: 0;
+  left: 1.25rem;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 5rem;
+  line-height: 1;
+  color: #800020;
+  opacity: 0.18;
+  font-weight: 700;
+  pointer-events: none;
+}
+.sj-voice-card__stars {
+  position: relative;
+  font-size: 1.05rem;
+  letter-spacing: 0.18em;
+  margin-bottom: 1rem;
+}
+.sj-voice-card__text {
+  position: relative;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1rem;
+  line-height: 1.65;
+  color: #2a2a2a;
+  font-style: italic;
+  margin-bottom: 1.5rem;
+}
+.sj-voice-card__author {
+  padding-top: 1.1rem;
+  border-top: 1px solid rgba(128,0,32,0.12);
+}
+.sj-voice-card__author strong {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  display: block;
+  letter-spacing: -0.005em;
+}
+.sj-voice-card__author span {
+  font-size: 0.8rem;
+  color: #8a8a8a;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+}
+.sj-voice-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 24px 48px rgba(20, 10, 5, 0.10);
+  border-color: rgba(128,0,32,0.25);
+}
+
+/* === VOICES intro polish === */
+.sj-voices__intro { margin-bottom: 3rem; }
+.sj-voices__intro .hub-eyebrow { margin-bottom: 0.85rem; font-weight: 700; }
+.sj-voices__intro h2 {
+  font-size: clamp(2rem, 3.6vw, 2.8rem);
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  line-height: 1.1;
+  margin-bottom: 1.25rem;
+}
+.sj-voices__intro p {
+  font-size: 1.08rem;
+  line-height: 1.65;
+  color: #4a4a4a;
+}
+
+/* === FOUNDERS polish — refined image treatment + better typography === */
+.sj-founders { padding: clamp(4rem, 7vw, 6rem) 0; }
+.sj-founders__inner { gap: 4rem; }
+.sj-founders__img {
+  border-radius: 20px;
+  box-shadow:
+    0 1px 2px rgba(20,10,5,0.06),
+    0 24px 56px rgba(20,10,5,0.18);
+}
+.sj-founders__image::before {
+  content: "";
+  position: absolute;
+  inset: -16px;
+  border: 1px solid rgba(128,0,32,0.15);
+  border-radius: 28px;
+  pointer-events: none;
+}
+.sj-founders__copy .hub-eyebrow {
+  margin-bottom: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+}
+.sj-founders__copy h2 {
+  font-size: clamp(2.1rem, 3.8vw, 2.95rem);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.05;
+  margin-bottom: 1.5rem;
+}
+.sj-founders__copy p {
+  font-size: 1.08rem;
+  line-height: 1.7;
+  color: #3a3a3a;
+  margin-bottom: 2rem;
+}
+
+/* === HUB-METHOD-CARDS polish — premium card design === */
+.sj-page-wrap .hub-method-card {
+  border-radius: 18px;
+  padding: 2rem 1.75rem;
+  background: linear-gradient(180deg, #ffffff 0%, #fdfbf7 100%);
+}
+.sj-page-wrap .hub-method-card span {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 2.4rem;
+  font-weight: 700;
+  color: #800020;
+  opacity: 0.85;
+  display: block;
+  margin-bottom: 0.85rem;
+  line-height: 1;
+}
+.sj-page-wrap .hub-method-card h3 {
+  font-size: 1.18rem;
+  font-weight: 700;
+  letter-spacing: -0.005em;
+  line-height: 1.3;
+  margin-bottom: 0.85rem;
+  color: #1a1a1a;
+}
+.sj-page-wrap .hub-method-card p {
+  font-size: 0.96rem;
+  line-height: 1.65;
+  color: #4a4a4a;
+}
+
+/* === HUB-SUBJECT-CARDS (exam boards) polish === */
+.sj-page-wrap .hub-subject-card {
+  border-radius: 18px;
+  padding: 2rem 1.75rem;
+  background: linear-gradient(180deg, #ffffff 0%, #fdfbf7 100%);
+  border: 1px solid #ece6dd;
+}
+.sj-page-wrap .hub-subject-card__title {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: #800020;
+  letter-spacing: -0.01em;
+  display: block;
+  margin-bottom: 0.75rem;
+}
+.sj-page-wrap .hub-subject-card p {
+  font-size: 0.95rem;
+  line-height: 1.65;
+  color: #4a4a4a;
+  margin-bottom: 1.1rem;
+}
+.sj-page-wrap .hub-subject-card__link {
+  font-size: 0.86rem;
+  font-weight: 700;
+  color: #800020;
+  letter-spacing: 0.02em;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+.sj-page-wrap .hub-subject-card__link::after {
+  content: "→";
+  transition: transform 0.2s ease;
+}
+.sj-page-wrap .hub-subject-card:hover .hub-subject-card__link::after {
+  transform: translateX(4px);
+}
+
+/* === HUB SECTION INTROS — premium typography === */
+.sj-page-wrap .hub-section__intro h2 {
+  font-size: clamp(2rem, 3.6vw, 2.8rem);
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  line-height: 1.1;
+}
+.sj-page-wrap .hub-section__intro p {
+  font-size: 1.08rem;
+  line-height: 1.65;
+  color: #4a4a4a;
+}
+.sj-page-wrap .hub-eyebrow {
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  font-size: 0.78rem;
+  color: #800020;
+  text-transform: uppercase;
+}
+
+/* === SJ-PRICING polish === */
+.sj-pricing__heading {
+  font-weight: 700;
+  letter-spacing: -0.015em;
+}
+.sj-pricing__body { font-size: 1.08rem; line-height: 1.65; }
+.sj-pricing__marks li {
+  background: rgba(128,0,32,0.06);
+  padding: 0.55rem 1.1rem;
+  border-radius: 999px;
+  border: 1px solid rgba(128,0,32,0.15);
+}
+
+/* === BUTTON polish on subject page === */
+.sj-page-wrap .btn-primary {
+  background: linear-gradient(180deg, #8a0024 0%, #6f001c 100%);
+  border: none;
+  padding: 0.95rem 1.85rem;
+  font-weight: 700;
+  letter-spacing: 0.005em;
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(128,0,32,0.22);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+}
+.sj-page-wrap .btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 14px 30px rgba(128,0,32,0.3);
+  background: linear-gradient(180deg, #95002a 0%, #7a0020 100%);
+}
+.sj-page-wrap .btn-outline {
+  border: 1.5px solid rgba(128,0,32,0.5);
+  font-weight: 700;
+  border-radius: 10px;
+  padding: 0.9rem 1.75rem;
+  transition: all 0.2s ease;
+}
+.sj-page-wrap .btn-outline:hover {
+  background: rgba(128,0,32,0.06);
+  border-color: rgba(128,0,32,0.8);
+}
+
+@media (max-width: 900px) {
+  .sj-trust__inner { gap: 1.25rem; }
+  .sj-trust__item strong { font-size: 0.92rem; }
+  .sj-founders__inner { gap: 2.5rem; }
+  .sj-founders__image::before { inset: -10px; border-radius: 22px; }
+}
+
+/* ============================================================
+   Mobile hero typography — applies to all loc-hero instances
+   (location pages AND subject pages get the same impact treatment)
+   ============================================================ */
+@media (max-width: 768px) {
+
+  /* H1 — dramatically bigger and bolder for hero impact */
+  .loc-hero h1 {
+    font-size: clamp(2.4rem, 8.5vw, 3.2rem);
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    line-height: 1.05;
+    margin-bottom: 1.1rem;
+    color: #1a1a1a;
+  }
+
+  /* Lead — heavier weight + darker for visual weight */
+  .loc-hero__lead {
+    font-size: 1.15rem;
+    line-height: 1.5;
+    font-weight: 500;
+    color: #1f1f1f;
+    margin-bottom: 1.75rem;
+    letter-spacing: -0.005em;
+  }
+
+  /* First sentence emphasis — the opening sentence reads with extra
+     weight without any markup change */
+  .loc-hero__lead::first-line {
+    font-weight: 700;
+    color: #1a1a1a;
+  }
+
+  /* Subject page only — slightly smaller eyebrow badge so the H1
+     dominates more (location pages have their own badge balance) */
+  .sj-page-wrap .loc-hero__badge {
+    font-size: 0.7rem;
+    letter-spacing: 0.1em;
+    padding: 6px 12px;
+    margin-bottom: 1.25rem;
+  }
+
+  /* Pricing strip slightly bolder so it reads at a glance */
+  .sj-page-wrap .loc-hero__pricing {
+    font-size: 0.95rem;
+    color: #2a2a2a;
+    font-weight: 500;
+  }
+
+  /* CTA buttons — primary should feel huge and confident */
+  .sj-page-wrap .loc-hero .btn-primary {
+    width: 100%;
+    padding: 1.1rem 1.5rem;
+    font-size: 1.05rem;
+  }
+  .sj-page-wrap .loc-hero .btn-outline {
+    width: 100%;
+    padding: 1rem 1.5rem;
+    font-size: 1.02rem;
+  }
+
+  /* Stack the action buttons vertically on mobile for clearer hit areas */
+  .sj-page-wrap .loc-hero__actions {
+    flex-direction: column;
+    gap: 0.75rem;
+    margin-bottom: 1.25rem;
+  }
+}
+
 
