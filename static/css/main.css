@@ -6036,7 +6036,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   height: 22px;
   border: 0;
   background: transparent;
-  color: #8a8a8a;
+  color: #5a5a5a;
   cursor: pointer;
   display: flex;
   align-items: center;
@@ -6110,10 +6110,6 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 .tdg-profile__help a:hover { text-decoration: underline; }
 .tdg-profile__blurb { margin: 0 0 6px; color: #333; line-height: 1.6; }
 .tdg-profile__view { color: #222; text-decoration: underline; font-size: 0.95rem; }
-
-
-}
-
 
 
 /* ── Book a Call (post-webinar conversion page) ─────────────────────────────
@@ -6654,7 +6650,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   font-family: var(--font-body);
   font-size: 0.78rem;
   text-align: center;
-  color: #8a8a8a;
+  color: #5a5a5a;
   margin: 0.7rem 0 0;
 }
 .book-call__phone-fallback {
@@ -6697,7 +6693,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   font-family: var(--font-body);
   font-size: 0.78rem;
   font-weight: 600;
-  color: #8a8a8a;
+  color: #5a5a5a;
 }
 
 
@@ -9202,7 +9198,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 }
 .sj-trust__item span {
   font-size: 0.8rem;
-  color: #8a8a8a;
+  color: #5a5a5a;
 }
 
 /* === STATS polish — premium number treatment with accent === */
@@ -9223,7 +9219,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 .sj-stats__body {
   font-size: 0.82rem;
   line-height: 1.5;
-  color: #8a8a8a;
+  color: #5a5a5a;
 }
 
 /* === VOICE CARD polish — decorative serif quote mark, italic text, premium feel === */
@@ -9274,7 +9270,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 }
 .sj-voice-card__author span {
   font-size: 0.8rem;
-  color: #8a8a8a;
+  color: #5a5a5a;
   font-weight: 500;
   letter-spacing: 0.01em;
 }
