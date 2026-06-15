@@ -77,9 +77,9 @@
           <p class="book-call__form-sub">Live 45-min masterclass · {{ $webinarDateDisplay }} · {{ $webinarTimeDisplay }}.</p>
 
           <form action="{{ .Site.Params.formspreeEndpoint }}" method="POST" novalidate class="book-call__form" data-pg-form>
+            <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
             <input type="hidden" name="_subject" value="{{ $formSubject }}">
             <input type="hidden" name="source" value="{{ $formSource }}">
-            <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" class="book-call__honeypot">
 
             <div class="book-call__row">
               <div class="book-call__field">

@@ -68,9 +68,9 @@
           <p class="book-call__form-sub">Free 15-minute call. Joe will explain how we work, answer your questions, and give honest advice on whether tutoring is right for your child.</p>
 
           <form action="{{ .Site.Params.formspreeEndpoint }}" method="POST" novalidate class="book-call__form">
+            <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
             <input type="hidden" name="_subject" value="Parents Guide to GCSE tutoring enquiry">
             <input type="hidden" name="source" value="referred-by-parent-guide-to-gcse">
-            <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" class="book-call__honeypot">
 
             <div class="book-call__row">
               <div class="book-call__field">
