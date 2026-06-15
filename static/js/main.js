@@ -235,15 +235,14 @@ document.querySelectorAll('[data-pg-form]').forEach((form) => {
   });
 });
 
-// Book-a-call forms: submit via fetch so we bypass Formspree's redirect/captcha
-// flow, then redirect manually to the personal thank-you page. The "this is a
-// book-a-call form" marker is a hidden _next field pointing at our thank-you URL.
+// Stash book-a-call form values so the thank-you page can personalise the note
+// from Harry. Only triggers for forms with a _next pointing at the thank-you page.
+// The native form submit + Formspree _next then handles the redirect.
 document.addEventListener('submit', function(e){
   var form = e.target;
   if (!form || !form.querySelector) return;
   var nextEl = form.querySelector('input[name="_next"]');
   if (!nextEl || !/book-a-call-thank-you/.test(nextEl.value)) return;
-
   var nameVal = '';
   var nameEl = form.querySelector('[name="name"]');
   if (nameEl && nameEl.value) {
@@ -258,30 +257,4 @@ document.addEventListener('submit', function(e){
     sessionStorage.setItem('tdg_thanks_subject', (subjEl && subjEl.value) || '');
     sessionStorage.setItem('tdg_thanks_ts', Date.now().toString());
   } catch (_) {}
-
-  if (!window.fetch || !window.FormData) return; // fall back to native submit
-
-  e.preventDefault();
-  var btn = form.querySelector('button[type="submit"], input[type="submit"]');
-  var originalLabel = '';
-  if (btn) {
-    originalLabel = btn.tagName === 'BUTTON' ? btn.textContent : btn.value;
-    btn.disabled = true;
-    if (btn.tagName === 'BUTTON') btn.textContent = 'Sending…'; else btn.value = 'Sending…';
-  }
-
-  fetch(form.action, {
-    method: 'POST',
-    body: new FormData(form),
-    headers: { 'Accept': 'application/json' }
-  }).then(function(res){
-    if (!res.ok) throw new Error('Submit failed');
-    window.location.href = nextEl.value;
-  }).catch(function(){
-    if (btn) {
-      btn.disabled = false;
-      if (btn.tagName === 'BUTTON') btn.textContent = originalLabel; else btn.value = originalLabel;
-    }
-    alert('Something went wrong sending that. Please try again, or call 07859 965776 and we will pick it up.');
-  });
 }, true);
