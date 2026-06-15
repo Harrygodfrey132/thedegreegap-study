@@ -30,6 +30,31 @@ Location tutor page content contract:
 {{ $whyHeading := .Params.why_heading | default "Expert tutoring tailored to each student" }}
 {{ $whyPara1 := .Params.why_para_1 | default "At The Degree Gap, we believe every student deserves more than a one-size-fits-all approach. That's why we match you with tutors who have been handpicked through a rigorous vetting process, covering subject expertise, teaching ability, and communication skills, so you're only ever learning from the best." }}
 {{ $whyPara2 := .Params.why_para_2 | default "Every session is tailored to your unique goals, learning style, and pace, giving you the individualised attention that crowded classrooms simply can't offer. Whether you're aiming to close knowledge gaps, boost your grades, or build lasting confidence in a subject, the tutors in our network are there to guide you every step of the way." }}
+
+{{/* ── Interlink the GCSE and A-Level child pages, if they exist ──
+     Only the FIRST occurrence of "GCSE" / "A-Level" gets linked, across
+     intro_1 and intro_2 combined. Avoids spammy repeated linking. */}}
+{{ $slug := path.Base (.File.Dir | strings.TrimSuffix "/") }}
+{{ $gcsePage := .Site.GetPage (printf "/locations/%s/gcse" $slug) }}
+{{ $alevelPage := .Site.GetPage (printf "/locations/%s/a-level" $slug) }}
+
+{{ if $gcsePage }}
+  {{ $link := printf "<a href=\"%s\">GCSE</a>" $gcsePage.RelPermalink }}
+  {{ if in $intro1 "GCSE" }}
+    {{ $intro1 = replace $intro1 "GCSE" $link 1 }}
+  {{ else if in $intro2 "GCSE" }}
+    {{ $intro2 = replace $intro2 "GCSE" $link 1 }}
+  {{ end }}
+{{ end }}
+
+{{ if $alevelPage }}
+  {{ $link := printf "<a href=\"%s\">A-Level</a>" $alevelPage.RelPermalink }}
+  {{ if in $intro1 "A-Level" }}
+    {{ $intro1 = replace $intro1 "A-Level" $link 1 }}
+  {{ else if in $intro2 "A-Level" }}
+    {{ $intro2 = replace $intro2 "A-Level" $link 1 }}
+  {{ end }}
+{{ end }}
 {{ $accordionQuality := .Params.accordion_quality | default "All our tutors are graduates from the UK's top universities including Oxford, Cambridge, LSE, and Imperial. Every tutor is personally vetted and trained in our tutoring methodology before working with students." }}
 {{ $accordionExperience := .Params.accordion_experience | default "Our tutors have an average of three or more years of teaching experience. They understand the current exam syllabuses inside out and tailor every lesson to how each student learns best." }}
 {{ $accordionPersonalised := .Params.accordion_personalised | default "No two students are the same. We assess each student's strengths, weaknesses, and learning style before building a structured plan designed to close the gaps and build lasting confidence." }}
@@ -216,7 +241,7 @@ Location tutor page content contract:
       <div class="loc-about__copy">
         <p class="loc-eyebrow">TRUSTED BY SCHOOLS &amp; PARENTS</p>
         <h2>{{ .Params.about_heading | default (printf "Leading GCSE and A-Level Tutors in %s" $loc) }}</h2>
-        <p>{{ $intro1 }}</p>
+        <p>{{ $intro1 | safeHTML }}</p>
         <p>{{ $intro2 }}</p>
 
         <div class="loc-accordion">
@@ -314,7 +339,9 @@ Location tutor page content contract:
         <p>Looking for a tutor in {{ $loc }}? Tell us what support the student needs and we will help you find a suitable tutor for their subject, level, goals, and schedule.</p>
         <p class="loc-pricing-note">Sessions start from <strong>£37 per hour</strong>. Final rates are agreed directly with your tutor.</p>
         <form action="{{ .Site.Params.formspreeEndpoint }}" method="POST" novalidate>
+          <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
           <input type="hidden" name="_subject" value="New enquiry from {{ $loc }} location page | The Degree Gap Study">
+          <input type="hidden" name="_next" value="{{ "/book-a-call-thank-you/" | absURL }}">
           <input type="hidden" name="page_url" value="{{ .RelPermalink }}">
           <input type="hidden" name="location" value="{{ $loc }}">
           <div class="loc-form-group">

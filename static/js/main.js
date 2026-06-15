@@ -234,3 +234,26 @@ document.querySelectorAll('[data-pg-form]').forEach((form) => {
     }
   });
 });
+
+// Stash book-a-call form values so the thank-you page can personalise the note
+// from Harry. Only triggers for forms with a _next pointing at the thank-you page.
+document.addEventListener('submit', function(e){
+  var form = e.target;
+  if (!form || !form.querySelector) return;
+  var nextEl = form.querySelector('input[name="_next"]');
+  if (!nextEl || !/book-a-call-thank-you/.test(nextEl.value)) return;
+  var nameVal = '';
+  var nameEl = form.querySelector('[name="name"]');
+  if (nameEl && nameEl.value) {
+    nameVal = nameEl.value;
+  } else {
+    var firstEl = form.querySelector('[name="first_name"]');
+    if (firstEl && firstEl.value) nameVal = firstEl.value;
+  }
+  var subjEl = form.querySelector('[name="subject"]');
+  try {
+    sessionStorage.setItem('tdg_thanks_name', nameVal);
+    sessionStorage.setItem('tdg_thanks_subject', (subjEl && subjEl.value) || '');
+    sessionStorage.setItem('tdg_thanks_ts', Date.now().toString());
+  } catch (_) {}
+}, true);

@@ -1,0 +1,83 @@
+{{ define "seo" }}
+{{ partial "seo.html" . }}
+<meta name="robots" content="noindex, follow">
+{{ end }}
+
+{{ define "main" }}
+<style>
+.bc-thanks{padding:4.5rem 1.5rem 5rem;background:#faf7f1;min-height:70vh}
+.bc-thanks__inner{max-width:620px;margin:0 auto;font-family:Georgia,'Times New Roman',serif}
+.bc-thanks__eyebrow{font-style:italic;font-size:0.95rem;color:#7a6f5d;margin:0 0 0.5rem;font-weight:400}
+.bc-thanks__eyebrow::before{content:"— "}
+.bc-thanks__greet{font-family:Georgia,'Times New Roman',serif;font-size:2.1rem;margin:0 0 1.5rem;font-weight:600;color:#2a2520;line-height:1.2}
+.bc-thanks__body p{font-size:1.05rem;line-height:1.75;color:#3a3530;margin:0 0 1.15rem;font-family:Georgia,'Times New Roman',serif}
+.bc-thanks__body strong{color:#1c1a17;font-weight:700}
+.bc-thanks__reviews-link{background:none;border:none;padding:0;font:inherit;color:#800020;text-decoration:underline;text-underline-offset:3px;cursor:pointer}
+.bc-thanks__reviews-link:hover{color:#5a0017}
+.bc-thanks__sign{display:flex;align-items:center;gap:0.9rem;margin:2.25rem 0 0;padding:0;border:none}
+.bc-thanks__sign-photo{width:60px !important;height:60px !important;border-radius:50%;object-fit:cover;flex-shrink:0}
+.bc-thanks__sign figcaption{display:flex;flex-direction:column;gap:0.15rem}
+.bc-thanks__sign-name{font-family:Georgia,'Times New Roman',serif;font-style:italic;font-size:1.45rem;color:#2a2520;font-weight:600;line-height:1.1}
+.bc-thanks__sign-role{font-size:0.85rem;color:#7a6f5d;font-family:Georgia,'Times New Roman',serif}
+@media (max-width:640px){
+  .bc-thanks{padding:3rem 1.25rem 4rem}
+  .bc-thanks__greet{font-size:1.8rem}
+  .bc-thanks__body p{font-size:1rem;line-height:1.7}
+}
+</style>
+<section class="bc-thanks">
+  <div class="bc-thanks__inner">
+
+    <p class="bc-thanks__eyebrow">A note from Harry</p>
+    <h1 class="bc-thanks__greet" data-thanks-greet>Hi there,</h1>
+
+    <div class="bc-thanks__body">
+      <p>
+        Thank you for sending that through. I've got your enquiry<span data-thanks-subject-line> about your child's <strong data-thanks-subject>GCSE Maths</strong></span>, and Joe will be in touch within the next 24 hours, usually a lot sooner than that.
+      </p>
+      <p>
+        When you speak, you will talk through what's going on, the exam board, the predicted grade and what you have already tried. From there Joe will send you a shortlist of two or three tutors he believes will actually fit your child, each one offering a free trial call. No card details, no awkward pressure.
+      </p>
+      <p>
+        You are in capable hands here. Joe and I built The Degree Gap because we kept watching capable students get missed in classes of thirty. We have personally interviewed every tutor on the platform, and about one in thirty-three makes it through. So whoever ends up sitting with your child has already been through us first.
+      </p>
+      <p>
+        While you wait, you might like to <a class="bc-thanks__reviews-link" href="https://maps.app.goo.gl/VUASiK6E17XPBHKYA" target="_blank" rel="noopener">read what other parents say about us on Google &rarr;</a>
+      </p>
+    </div>
+
+    <figure class="bc-thanks__sign">
+      {{ partial "responsive-image.html" (dict "src" "/images/co-founders.png" "alt" "Harry and Joe, co-founders of The Degree Gap" "class" "bc-thanks__sign-photo" "loading" "lazy" "fallbackWidth" 240 "widths" (slice 160 320) "sizes" "60px" "quality" 80) }}
+      <figcaption>
+        <span class="bc-thanks__sign-name">Thank you, Harry</span>
+        <span class="bc-thanks__sign-role">co-founder of The Degree Gap</span>
+      </figcaption>
+    </figure>
+
+  </div>
+</section>
+
+<script>
+(function(){
+  try {
+    var ts = parseInt(sessionStorage.getItem('tdg_thanks_ts') || '0', 10);
+    if (!ts || Date.now() - ts > 10 * 60 * 1000) return;
+    var name = (sessionStorage.getItem('tdg_thanks_name') || '').trim();
+    var subject = (sessionStorage.getItem('tdg_thanks_subject') || '').trim();
+    var first = name.split(/\s+/)[0];
+    if (first) {
+      var greet = document.querySelector('[data-thanks-greet]');
+      if (greet) greet.textContent = 'Hi ' + first + ',';
+    }
+    var line = document.querySelector('[data-thanks-subject-line]');
+    var sEl = document.querySelector('[data-thanks-subject]');
+    if (subject && sEl) {
+      sEl.textContent = subject;
+    } else if (line) {
+      line.style.display = 'none';
+    }
+  } catch (_) {}
+})();
+</script>
+
+{{ end }}

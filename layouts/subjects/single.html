@@ -362,6 +362,7 @@ Frontmatter contract:
         <form action="{{ .Site.Params.formspreeEndpoint }}" method="POST" novalidate>
           <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
           <input type="hidden" name="_subject" value="New enquiry from {{ $subject }} subject page | The Degree Gap Study">
+          <input type="hidden" name="_next" value="{{ "/book-a-call-thank-you/" | absURL }}">
           <input type="hidden" name="page_url" value="{{ .RelPermalink }}">
           <input type="hidden" name="subject" value="{{ $subject }}">
           <div class="loc-form-group">
