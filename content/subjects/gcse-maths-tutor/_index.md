@@ -7,13 +7,12 @@ subject: "GCSE Maths"
 level: "GCSE"
 
 # ───────────── HERO ─────────────
-hero_eyebrow: "GCSE SPECIALISTS OF THE YEAR · 2025 + 2026"
 banner_heading: "GCSE Maths Tutors That Move the Grade"
-banner_description: "You can see your child working hard and the marks are not catching up with the effort. GCSE Maths is what we do. Book a 40-minute consultation with co-founder Joe, and he will match you with two or three tutors you can trial for free before anything is paid. Sessions from £37 an hour."
+banner_description: "You can see your child working hard and the marks are not catching up with the effort. Book a free 40-minute consultation with co-founder Joe, and trial two or three tutors before paying anything."
 banner_cta_primary: "Book your free call with Joe"
 banner_cta_secondary: "07859 965776"
 pricing_note: "From £37/hr"
-rating_text: "5.0 · 100+ Google reviews · As featured in The Independent"
+rating_text: "5.0 · 100+ Google reviews"
 hero_image: "/images/founders-award.jpg"
 hero_alt: "Harry and Joe, co-founders of The Degree Gap, with the GCSE Specialists of the Year award"
 
