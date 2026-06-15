@@ -2843,6 +2843,7 @@ p:last-child { margin-bottom: 0; }
   letter-spacing: -0.02em;
 }
 .loc-hero__lead { font-size: 1.1rem; color: var(--text-muted); margin-bottom: 2rem; line-height: 1.75; }
+.sj-page-wrap .loc-hero__lead { margin-bottom: 1rem; }
 .loc-hero__actions { display: flex; gap: 14px; flex-wrap: wrap; margin-bottom: 1rem; }
 .loc-hero__pricing { font-size: 0.9rem; color: var(--text-muted); margin-bottom: 1.5rem; }
 .loc-hero__rating {
@@ -6121,7 +6122,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 .book-call {
   background: var(--cream);
   font-family: var(--font-body);
-  padding: 56px 0;
+  padding: 24px 0 48px;
   overflow-x: hidden;
 }
 .book-call__container { max-width: 1100px; }
@@ -6142,7 +6143,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   line-height: 1.22;
   color: #1a1a1a;
   letter-spacing: -0.01em;
-  margin: 2.5rem 0 0.6rem;   /* mobile: ~40px top margin so H1 clears the sticky header */
+  margin: 0.5rem 0 0.6rem;   /* tight top spacing — section padding handles header clearance */
 }
 @media (min-width: 720px) {
   .book-call__head h1 { margin-top: 0; }
