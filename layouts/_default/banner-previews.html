@@ -125,6 +125,9 @@
     transition: box-shadow 0.2s ease, transform 0.2s ease;
     font-family: 'Poppins', system-ui, -apple-system, sans-serif;
   }
+  .b-banner, .b-banner * {
+    text-decoration: none !important;
+  }
   .b-banner:hover {
     box-shadow: 0 14px 36px rgba(35, 23, 17, 0.24);
     transform: translateY(-1px);
@@ -136,143 +139,166 @@
 
   /* =================================================
      728 x 90 — DESKTOP LEADERBOARD
-     Rotates through 3 messages, 4s each (12s cycle),
-     stops after 3 rotations, lands on message 1.
+     Static 3-line layout, burgundy left stripe.
+     Big headline that grabs attention.
      ================================================= */
   .b-728 {
     width: 728px;
     height: 90px;
+    padding: 0 18px 0 22px;
+    align-items: center;
+    gap: 16px;
+    border-left: 5px solid #800020;
   }
-  .b-728 .b-logo {
+  .b-728 .b728-logo {
     flex: 0 0 auto;
-    height: 44px;
-    margin: 0 18px 0 22px;
+    height: 54px;
+    width: auto;
   }
-  .b-728 .b-rotator-wrap {
+  .b-728 .b728-content {
     flex: 1;
-    height: 100%;
-    position: relative;
-    overflow: hidden;
-    padding-right: 16px;
-  }
-  .b-728 .b-rotator {
-    display: flex;
-    flex-direction: column;
-    animation: b728-rotate 12s ease-in-out 3 forwards;
-  }
-  .b-728 .b-msg {
-    flex: 0 0 90px;
-    height: 90px;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding-right: 8px;
+    gap: 3px;
+    min-width: 0;
   }
-  @keyframes b728-rotate {
-    0%, 30%   { transform: translateY(0); }
-    33%, 63%  { transform: translateY(-90px); }
-    67%, 97%  { transform: translateY(-180px); }
-    100%      { transform: translateY(0); }
+  .b-728 .b728-headline {
+    font-size: 26px;
+    font-weight: 900;
+    color: #171717;
+    letter-spacing: -0.022em;
+    line-height: 1.02;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
-  .b-728 .b-line1 {
-    font-size: 21px;
+  .b-728 .b728-subline {
+    font-size: 11.5px;
+    font-weight: 500;
+    color: #3a3530;
+    line-height: 1.2;
+    letter-spacing: -0.003em;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .b-728 .b728-trust {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    font-size: 11.5px;
+    color: #5f5a54;
+    line-height: 1.2;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+  .b-728 .b728-stars {
+    color: #FBBC05;
+    letter-spacing: 0.04em;
+    font-size: 12.5px;
+    line-height: 1;
+  }
+  .b-728 .b728-rating {
     font-weight: 800;
     color: #171717;
-    letter-spacing: -0.012em;
-    line-height: 1.15;
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
+    font-size: 11.5px;
   }
-  .b-728 .b-line2 {
-    font-size: 14px;
-    font-weight: 500;
-    color: #5f5a54;
-    margin-top: 4px;
-    letter-spacing: -0.003em;
+  .b-728 .b728-dot {
+    width: 3px;
+    height: 3px;
+    background: #c5bcaf;
+    border-radius: 50%;
+    flex: 0 0 auto;
   }
   .b-728 .b-cta {
     flex: 0 0 auto;
-    margin: 0 18px 0 6px;
     background: #800020;
     color: #fbf7ef;
     font-weight: 800;
-    font-size: 13px;
-    padding: 11px 20px;
+    font-size: 13.5px;
+    padding: 12px 22px;
     border-radius: 999px;
     white-space: nowrap;
-    box-shadow: 0 4px 12px rgba(128, 0, 32, 0.18);
+    box-shadow: 0 6px 14px rgba(128, 0, 32, 0.28);
     transition: background 0.15s ease;
   }
   .b-728:hover .b-cta { background: #5A001F; }
 
   /* =================================================
      320 x 100 — MOBILE LEADERBOARD
-     2 messages, 6s each (12s cycle),
-     stops after 3 rotations, lands on message 1.
+     Static 3-line layout, burgundy left stripe.
+     Bold headline that grabs attention.
      ================================================= */
   .b-320 {
     width: 320px;
     height: 100px;
-    padding: 10px 12px;
+    padding: 0 10px 0 12px;
     align-items: center;
+    gap: 8px;
+    border-left: 4px solid #800020;
   }
-  .b-320 .b-logo {
+  .b-320 .b320-logo {
     flex: 0 0 auto;
-    height: 36px;
-    margin-right: 10px;
+    height: 42px;
+    width: auto;
   }
-  .b-320 .b-rotator-wrap {
+  .b-320 .b320-content {
     flex: 1;
-    height: 80px;
-    position: relative;
-    overflow: hidden;
-  }
-  .b-320 .b-rotator {
-    display: flex;
-    flex-direction: column;
-    animation: b320-rotate 12s ease-in-out 3 forwards;
-  }
-  .b-320 .b-msg {
-    flex: 0 0 80px;
-    height: 80px;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    gap: 2px;
+    min-width: 0;
   }
-  @keyframes b320-rotate {
-    0%, 42%   { transform: translateY(0); }
-    50%, 92%  { transform: translateY(-80px); }
-    100%      { transform: translateY(0); }
-  }
-  .b-320 .b-line1 {
-    font-size: 14px;
-    font-weight: 800;
+  .b-320 .b320-headline {
+    font-size: 20px;
+    font-weight: 900;
     color: #171717;
-    line-height: 1.15;
-    letter-spacing: -0.01em;
-    display: inline-flex;
-    align-items: center;
-    gap: 5px;
+    letter-spacing: -0.022em;
+    line-height: 1.02;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
-  .b-320 .b-line2 {
-    font-size: 11px;
+  .b-320 .b320-subline {
+    font-size: 10px;
     font-weight: 500;
+    color: #3a3530;
+    line-height: 1.2;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .b-320 .b320-trust {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 9.5px;
     color: #5f5a54;
-    margin-top: 2px;
-    line-height: 1.25;
+    font-weight: 500;
+    line-height: 1.2;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+  .b-320 .b320-stars {
+    color: #FBBC05;
+    font-size: 9.5px;
+    letter-spacing: 0.02em;
+    line-height: 1;
   }
   .b-320 .b-cta {
     flex: 0 0 auto;
-    margin-left: 8px;
     background: #800020;
     color: #fbf7ef;
     font-weight: 800;
     font-size: 11px;
-    padding: 8px 11px;
+    padding: 8px 12px;
     border-radius: 999px;
     white-space: nowrap;
+    box-shadow: 0 4px 10px rgba(128, 0, 32, 0.22);
   }
+  .b-320:hover .b-cta { background: #5A001F; }
 
   /* =================================================
      160 x 600 — SKYSCRAPER
@@ -378,8 +404,6 @@
      REDUCED MOTION
      ================================================= */
   @media (prefers-reduced-motion: reduce) {
-    .b-728 .b-rotator,
-    .b-320 .b-rotator { animation: none; transform: translateY(0); }
     .b-banner:hover { transform: none; }
   }
 
@@ -387,13 +411,15 @@
      RESPONSIVE PREVIEW (lets the 728 banner shrink on narrow viewports)
      ================================================= */
   @media (max-width: 760px) {
-    .b-728 { width: 100%; max-width: 320px; height: 100px; padding: 10px 12px; }
-    .b-728 .b-logo { height: 36px; margin: 0 10px 0 0; }
-    .b-728 .b-rotator { animation: b320-rotate 12s ease-in-out 3 forwards; }
-    .b-728 .b-msg { flex: 0 0 80px; height: 80px; }
-    .b-728 .b-line1 { font-size: 14px; gap: 5px; }
-    .b-728 .b-line2 { font-size: 11px; margin-top: 2px; }
-    .b-728 .b-cta { font-size: 11px; padding: 8px 11px; margin: 0 0 0 8px; }
+    .b-728 { width: 100%; max-width: 520px; height: 90px; padding: 0 10px 0 14px; gap: 10px; }
+    .b-728 .b728-logo { height: 44px; }
+    .b-728 .b728-content { gap: 2px; }
+    .b-728 .b728-headline { font-size: 16px; }
+    .b-728 .b728-subline { font-size: 10.5px; }
+    .b-728 .b728-trust { font-size: 10px; gap: 5px; }
+    .b-728 .b728-stars { font-size: 11px; }
+    .b-728 .b728-rating { font-size: 10px; }
+    .b-728 .b-cta { font-size: 11px; padding: 8px 12px; }
     .bp2-frame { padding: 22px 12px; }
   }
 </style>
@@ -424,34 +450,18 @@
       <h2 class="bp2-h2"><span>Desktop leaderboard</span><span class="bp2-size">728 &times; 90</span></h2>
       <p class="bp2-context-note">Sits against the School Guide blue header.</p>
       <div class="bp2-frame bp2-frame--blue">
-        <a class="b-banner b-728" href="/referred-by-school-guide/" target="_blank" rel="noopener" aria-label="The Degree Gap, book a free call about your child's tutoring">
-          <img class="b-logo" src="/images/favicon.png" alt="The Degree Gap">
-          <div class="b-rotator-wrap" aria-hidden="true">
-            <div class="b-rotator">
-              <div class="b-msg">
-                <span class="b-line1">Find the right tutor for your child</span>
-                <span class="b-line2">A premium UK tutoring agency with vetted tutors and no contracts.</span>
-              </div>
-              <div class="b-msg">
-                <span class="b-line1">Free 40-minute call with the founders</span>
-                <span class="b-line2">We answer every enquiry personally</span>
-              </div>
-              <div class="b-msg">
-                <span class="b-line1">
-                  <span aria-hidden="true" style="display:inline-flex;align-items:center;">
-                    <svg viewBox="0 0 24 24" width="18" height="18" xmlns="http://www.w3.org/2000/svg">
-                      <path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/>
-                      <path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84A11 11 0 0 0 12 23z"/>
-                      <path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18A11 11 0 0 0 1 12c0 1.77.42 3.45 1.18 4.93l2.85-2.22.81-.62z"/>
-                      <path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/>
-                    </svg>
-                  </span>
-                  107 verified 5 Star Google reviews
-                </span>
-                <span class="b-line2">Voted GCSE Tutoring Specialists of the Year, 2025 and 2026</span>
-              </div>
-            </div>
-          </div>
+        <a class="b-banner b-728" href="/referred-by-school-guide/?utm_source=schoolguide&utm_medium=banner&utm_campaign=schoolguide-2026&utm_content=leaderboard-728" target="_blank" rel="sponsored noopener" aria-label="The Degree Gap, book a free call about your child's tutoring">
+          <img class="b728-logo" src="/images/favicon.png" alt="The Degree Gap">
+          <span class="b728-content">
+            <span class="b728-headline">Year 7 to 13 specialist tutors</span>
+            <span class="b728-subline">Online tutoring that moves the grade &middot; Every subject</span>
+            <span class="b728-trust">
+              <span class="b728-stars" aria-label="5 stars">★★★★★</span>
+              <span class="b728-rating">5.0</span>
+              <span class="b728-dot" aria-hidden="true"></span>
+              <span>100+ verified Google reviews</span>
+            </span>
+          </span>
           <span class="b-cta">Book a free call &rarr;</span>
         </a>
       </div>
@@ -462,29 +472,17 @@
       <h2 class="bp2-h2"><span>Mobile leaderboard</span><span class="bp2-size">320 &times; 100</span></h2>
       <p class="bp2-context-note">Sits against the School Guide blue header. Two messages at 6 seconds each, stops on message one.</p>
       <div class="bp2-frame bp2-frame--blue">
-        <a class="b-banner b-320" href="/referred-by-school-guide/" target="_blank" rel="noopener" aria-label="The Degree Gap, book a free call about your child's tutoring">
-          <img class="b-logo" src="/images/favicon.png" alt="The Degree Gap">
-          <div class="b-rotator-wrap" aria-hidden="true">
-            <div class="b-rotator">
-              <div class="b-msg">
-                <span class="b-line1">The right tutor for your child</span>
-                <span class="b-line2">Vetted tutors. No contracts. Free trial calls.</span>
-              </div>
-              <div class="b-msg">
-                <span class="b-line1">
-                  <svg viewBox="0 0 24 24" width="13" height="13" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-                    <path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/>
-                    <path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84A11 11 0 0 0 12 23z"/>
-                    <path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18A11 11 0 0 0 1 12c0 1.77.42 3.45 1.18 4.93l2.85-2.22.81-.62z"/>
-                    <path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/>
-                  </svg>
-                  5.0 · 107 Google reviews
-                </span>
-                <span class="b-line2">Free 40-minute call with the founders</span>
-              </div>
-            </div>
-          </div>
-          <span class="b-cta">Book now &rarr;</span>
+        <a class="b-banner b-320" href="/referred-by-school-guide/?utm_source=schoolguide&utm_medium=banner&utm_campaign=schoolguide-2026&utm_content=mobile-320" target="_blank" rel="sponsored noopener" aria-label="The Degree Gap, book a free call about your child's tutoring">
+          <img class="b320-logo" src="/images/favicon.png" alt="The Degree Gap">
+          <span class="b320-content">
+            <span class="b320-headline">Year 7 to 13 tutors</span>
+            <span class="b320-subline">Online specialist tutoring</span>
+            <span class="b320-trust">
+              <span class="b320-stars" aria-label="5 stars">★★★★★</span>
+              <span>100+ Google reviews</span>
+            </span>
+          </span>
+          <span class="b-cta">Book &rarr;</span>
         </a>
       </div>
     </section>
@@ -494,7 +492,7 @@
       <h2 class="bp2-h2"><span>Skyscraper</span><span class="bp2-size">160 &times; 600</span></h2>
       <p class="bp2-context-note">Sits against the white body. Static — everything visible at a glance for sidebar placement.</p>
       <div class="bp2-frame bp2-frame--white">
-        <a class="b-banner b-160" href="/referred-by-school-guide/" target="_blank" rel="noopener" aria-label="The Degree Gap, book a free call about your child's tutoring">
+        <a class="b-banner b-160" href="/referred-by-school-guide/?utm_source=schoolguide&utm_medium=banner&utm_campaign=schoolguide-2026&utm_content=skyscraper-160" target="_blank" rel="sponsored noopener" aria-label="The Degree Gap, book a free call about your child's tutoring">
           <img class="sk-logo" src="/images/favicon.png" alt="The Degree Gap">
           <p class="sk-headline">Tutors that move the grade</p>
           <p class="sk-sub">Vetted UK tutors, matched personally by the founders. No contracts.</p>
@@ -502,7 +500,7 @@
 
           <span class="sk-stars" aria-label="5 stars">★★★★★</span>
           <div class="sk-rating">5.0</div>
-          <p class="sk-reviews-count">107 verified Google reviews</p>
+          <p class="sk-reviews-count">100+ verified Google reviews</p>
 
           <div class="sk-callout">
             <div class="sk-callout-eyebrow">Free</div>
@@ -519,13 +517,22 @@
     <div class="bp2-notes">
       <h2>What's wired up</h2>
       <ul>
-        <li>Click target on all three: <code>/referred-by-school-guide/</code>. Swap per partner when each placement goes live.</li>
+        <li>All three banners click through to <code>/referred-by-school-guide/</code> with <code>rel="sponsored"</code>, per Google's paid-link guidance.</li>
         <li>Animated banners (728 &times; 90 and 320 &times; 100) stop after 3 rotations and land on the first message, per IAB spec.</li>
         <li>Skyscraper is static for a sidebar context, every key message visible at a glance.</li>
         <li>All three respect <code>prefers-reduced-motion</code>: animations off, first frame retained.</li>
         <li>Built in HTML/CSS, can ship as HTML5 or be exported as GIF (well under the 1000kb cap either way).</li>
         <li>Cream banner against the navy header gives strong contrast; the same cream against the white body needs the border + shadow you can see on the skyscraper to hold its edge.</li>
         <li>The blue background colour here is a placeholder for the School Guide navy; if Victoria sends the exact hex we'll swap it.</li>
+      </ul>
+    </div>
+
+    <div class="bp2-notes">
+      <h2>Tracking links (UTMs) for Victoria</h2>
+      <ul>
+        <li><strong>Tutor Directory listing:</strong><br><code>https://study.thedegreegap.com/referred-by-school-guide/?utm_source=schoolguide&amp;utm_medium=directory&amp;utm_campaign=schoolguide-2026</code></li>
+        <li><strong>Banners (one shared link, all three sizes):</strong><br><code>https://study.thedegreegap.com/referred-by-school-guide/?utm_source=schoolguide&amp;utm_medium=banner&amp;utm_campaign=schoolguide-2026</code><br><span style="font-size:0.85rem;color:#5f5a54;">Each banner size also carries a <code>utm_content</code> (<code>leaderboard-728</code>, <code>mobile-320</code>, <code>skyscraper-160</code>) so we can see which format converts in GA4, without giving Victoria three separate links.</span></li>
+        <li><strong>Blog placements (one shared link, all three posts):</strong><br><code>https://study.thedegreegap.com/referred-by-school-guide/?utm_source=schoolguide&amp;utm_medium=blog&amp;utm_campaign=schoolguide-2026</code></li>
       </ul>
     </div>
 
