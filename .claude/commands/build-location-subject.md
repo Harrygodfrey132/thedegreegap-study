@@ -202,6 +202,18 @@ subject: "{Subject}"
 hero_h1: "{Level} {Subject} Tutors Covering {Location}"
 hero_lead: "[Two sentences. Sentence 1: parent-scene or pain opener for this subject in this city. Sentence 2: what tutors do, with at least one specific subject anchor (paper, topic, mark band). Total under 50 words.]"
 
+# OPTIONAL — consultation card overrides. Omit any field to keep the network default.
+# Defaults: eyebrow "FREE CONSULTATION"; heading "Talk to a {Subject} matching specialist this week";
+# 3 standard bullets; CTA "Book a Free Consultation".
+# Override when local framing earns the click (e.g. naming the city or a specific local pressure).
+# card_eyebrow: "FREE {LOCATION} CONSULTATION"
+# card_heading: "Talk to a {Location} {Subject} specialist this week"
+# card_points:
+#   - "15-minute call with Harry or Joe, no obligation"
+#   - "Two {Location} {Subject} tutor profiles within 24 hours"
+#   - "First lesson from £37, only pay if you continue"
+# card_cta: "Find My {Location} {Subject} Tutor"
+
 angle_eyebrow: "WHY {LEVEL} {SUBJECT} IN {LOCATION}, SPECIFICALLY"
 angle_heading: "[Single sentence in title case. Frames the subject pitch through the achievement-level theme. e.g. 'Where a GCSE Maths tutor finds the top-band marks for St Albans students']"
 angle_body_1: "[Paragraph 1 — diagnoses the specific pain pattern for this subject in this area. Names 3-4 specific pain points by name (e.g. circle theorems, iterative methods, algebraic fractions). 80-110 words.]"
@@ -253,6 +265,17 @@ sitemap:
 ### `hero_h1` — the H1
 
 Default: `{Level} {Subject} Tutors Covering {Location}`. Use this unless the location demands a slight variation (e.g. very short location names sometimes read better with "in" — "GCSE Maths Tutors in Oxford"). Keep it plain. No clever subtitles.
+
+### `card_eyebrow`, `card_heading`, `card_points`, `card_cta` — consultation card (optional)
+
+All four are optional. Omit and the card renders the network default — fine for most pages. Override only when local framing earns the click. Rules:
+
+- **No em dashes** in any bullet or heading (use a comma or split into two clauses).
+- **`card_points` must stay three bullets.** The first should be the call promise, the second the tutor-profile promise, the third the price/no-obligation promise. Don't add a fourth — it breaks the visual balance with the hero copy.
+- **Don't over-customise.** If you can't beat the default with something genuinely city-or-subject-specific, leave it. A weak local override reads worse than a clean network default.
+- **`card_cta`** stays short (under 30 chars). The button still links to `/book-a-call/`; only the label changes.
+
+The phone number and Google reviews block are not overridable — they're network-wide trust signals.
 
 ### `hero_lead` — two sentences
 

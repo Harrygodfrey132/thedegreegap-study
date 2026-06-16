@@ -26,3 +26,6 @@
 # PS subjects that were referenced but never built — send to PS hub.
 /personal-statement-tutor/chemistry/    /personal-statement-tutor/       301
 /personal-statement-tutor/physics/      /personal-statement-tutor/       301
+
+# Derby GCSE Physics page removed — send to Derby GCSE hub.
+/locations/derby-tutors/gcse/physics-tutoring/   /locations/derby-tutors/gcse/   301

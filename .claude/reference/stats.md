@@ -19,19 +19,19 @@ The verified facts and credentials The Degree Gap can cite on pages. These exist
 - **Only 3% of tutors come onto the platform** — applicant pass rate, reflects how selective the vetting is
 - **Founder-led rigorous interview process** — Joe and Harry interview every tutor personally
 - **Most tutors have at least 2 years of one-to-one tutoring experience**
-- **All tutors are graduates** — from top Russell Group universities
+- **All tutors are from top Russell Group universities and many are qualified teachers**
 
 ### Founder credentials
 - **Co-founded by an LSE graduate** (Harry)
 - **5,000+ hours of tutoring experience** between the founders
-- Joe and Harry have **guided thousands of families through GCSEs**
+- Joe and Harry have **guided hundreds of families through GCSEs**
 
 ### Reach
 - **Over 5,000 parents watched our webinars in the 2026 academic year**
-- **January 2026 webinar alone: over 2,500 views**
+- **January 2026 webinar alone got over 2,500 views**
 
 ### Technology
-- **Custom in-house tutoring platform** — interactive whiteboard plus session replay so students can revisit lessons afterwards
+- **Custom in-house tutoring platform** — interactive whiteboard plus session recordings, so students can revisit lessons afterwards
   - **Voice note:** do NOT write "bespoke" — that word sits on the banned list. Use "custom", "in-house", "purpose-built", or "our own platform". The underlying fact is what matters; the wording stays inside the brand voice.
 
 ## Where each one fits naturally

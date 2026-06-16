@@ -10,6 +10,15 @@
 {{ $heroH1   := .Params.hero_h1   | default (printf "%s %s Tutors in %s" $level $subject $loc) }}
 {{ $heroLead := .Params.hero_lead | default (printf "One-to-one %s %s tutors who fit around school, find the exact marks slipping in the top mark band, and rebuild from there. Vetted, matched to your exam board, online from £37/hr." (lower $subject) $level) }}
 
+{{/* ── Consultation card (per-page overridable) ── */}}
+{{ $cardEyebrow := .Params.card_eyebrow | default "FREE CONSULTATION" }}
+{{ $cardHeading := .Params.card_heading | default (printf "Talk to a %s matching specialist this week" $subject) }}
+{{ $cardPoints  := .Params.card_points  | default (slice
+  "15-minute call, no obligation"
+  "Two or three tutor profiles within 24 hours"
+  "First lesson from £37 — only pay if you continue") }}
+{{ $cardCta     := .Params.card_cta     | default "Book a Free Consultation" }}
+
 {{/* ── Subject angle ── */}}
 {{ $angleEyebrow  := .Params.angle_eyebrow  | default (printf "WHY %s %s, SPECIFICALLY" ($subject | upper) ($level | upper)) }}
 {{ $angleHeading  := .Params.angle_heading  | default (printf "What a strong %s %s tutor actually does for %s students" $level $subject $loc) }}
@@ -93,23 +102,17 @@
       </div>
 
       <aside class="lvls-hero__card" aria-label="Book a free {{ $level }} {{ $subject }} consultation">
-        <p class="lvls-hero__card-eyebrow">FREE CONSULTATION</p>
-        <h2 class="lvls-hero__card-title">Talk to a {{ $subject }} matching specialist this week</h2>
+        <p class="lvls-hero__card-eyebrow">{{ $cardEyebrow }}</p>
+        <h2 class="lvls-hero__card-title">{{ $cardHeading }}</h2>
         <ul class="lvls-hero__card-points">
+          {{ range $cardPoints }}
           <li>
             <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>
-            <span>15-minute call, no obligation</span>
+            <span>{{ . }}</span>
           </li>
-          <li>
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>
-            <span>Two or three tutor profiles within 24 hours</span>
-          </li>
-          <li>
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>
-            <span>First lesson from £37 — only pay if you continue</span>
-          </li>
+          {{ end }}
         </ul>
-        <a href="/book-a-call/" class="btn btn-primary lvls-hero__card-cta">Book a Free Consultation</a>
+        <a href="/book-a-call/" class="btn btn-primary lvls-hero__card-cta">{{ $cardCta }}</a>
         <p class="lvls-hero__card-fallback">or call <a href="tel:07859965776">07859&nbsp;965776</a></p>
         <button type="button" data-reviews-open class="lvls-hero__card-trust" aria-label="Read our 107 Google reviews" aria-controls="bc-reviews-drawer" aria-expanded="false">
           <span class="lvls-hero__card-trust-g" aria-hidden="true">
