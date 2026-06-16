@@ -102,8 +102,8 @@
     border-radius: 12px;
   }
   .bp2-frame--blue {
-    background: #0e2d52; /* School Guide-style navy header. Swap to exact hex if Victoria sends one. */
-    border: 1px solid #0e2d52;
+    background: #23B3BD; /* School Guide brand blue (confirmed by Victoria) */
+    border: 1px solid #23B3BD;
   }
   .bp2-frame--white {
     background: #ffffff;
@@ -151,8 +151,9 @@
   }
   .b-728 .b728-logo {
     flex: 0 0 auto;
-    height: 54px;
+    height: 32px;
     width: auto;
+    max-width: 140px;
   }
   .b-728 .b728-content {
     flex: 1;
@@ -238,8 +239,9 @@
   }
   .b-320 .b320-logo {
     flex: 0 0 auto;
-    height: 42px;
+    height: 22px;
     width: auto;
+    max-width: 96px;
   }
   .b-320 .b320-content {
     flex: 1;
@@ -313,8 +315,9 @@
     border: 1px solid #ddd2c2;
   }
   .b-160 .sk-logo {
-    height: 50px;
+    height: 28px;
     width: auto;
+    max-width: 132px;
     margin: 0 auto 16px;
     display: block;
   }
@@ -403,6 +406,112 @@
   .b-160:hover .sk-cta { background: #5A001F; }
 
   /* =================================================
+     300 x 600 — LARGE MOBILE BANNER
+     Wider sibling of the skyscraper. Static, vertical,
+     sits on white body. More breathing room than 160.
+     ================================================= */
+  .b-300 {
+    width: 300px;
+    height: 600px;
+    flex-direction: column;
+    align-items: stretch;
+    padding: 30px 24px 26px;
+    text-align: center;
+    background: #fbf7ef;
+    border: 1px solid #ddd2c2;
+  }
+  .b-300 .lm-logo {
+    height: 34px;
+    width: auto;
+    max-width: 200px;
+    margin: 0 auto 22px;
+    display: block;
+  }
+  .b-300 .lm-headline {
+    font-size: 26px;
+    font-weight: 800;
+    color: #171717;
+    letter-spacing: -0.02em;
+    line-height: 1.12;
+    margin: 0 0 12px;
+  }
+  .b-300 .lm-sub {
+    font-size: 14px;
+    color: #5f5a54;
+    line-height: 1.45;
+    margin: 0 0 26px;
+  }
+  .b-300 .lm-divider {
+    height: 1px;
+    background: #e6ded4;
+    margin: 6px 0 24px;
+  }
+  .b-300 .lm-stars {
+    color: #FBBC05;
+    font-size: 26px;
+    letter-spacing: 0.06em;
+    margin-bottom: 10px;
+    display: block;
+  }
+  .b-300 .lm-rating {
+    font-size: 26px;
+    font-weight: 800;
+    color: #171717;
+    line-height: 1;
+    margin-bottom: 6px;
+  }
+  .b-300 .lm-reviews-count {
+    font-size: 13px;
+    color: #5f5a54;
+    line-height: 1.4;
+    margin: 0 0 28px;
+  }
+  .b-300 .lm-callout {
+    background: #ffffff;
+    border: 1px solid #e6ded4;
+    border-radius: 12px;
+    padding: 16px 14px;
+    margin-bottom: 24px;
+  }
+  .b-300 .lm-callout-eyebrow {
+    font-size: 11px;
+    font-weight: 800;
+    letter-spacing: 0.12em;
+    color: #800020;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+  .b-300 .lm-callout-line {
+    font-size: 15px;
+    font-weight: 700;
+    color: #171717;
+    line-height: 1.25;
+  }
+  .b-300 .lm-award {
+    font-size: 12px;
+    color: #5f5a54;
+    line-height: 1.4;
+    margin: 0 0 26px;
+    font-style: italic;
+  }
+  .b-300 .lm-cta {
+    margin-top: auto;
+    background: #800020;
+    color: #fbf7ef;
+    font-weight: 800;
+    font-size: 16px;
+    padding: 14px 8px;
+    border-radius: 999px;
+    white-space: nowrap;
+    box-shadow: 0 4px 14px rgba(128, 0, 32, 0.24);
+    transition: background 0.15s ease;
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+  }
+  .b-300:hover .lm-cta { background: #5A001F; }
+
+  /* =================================================
      REDUCED MOTION
      ================================================= */
   @media (prefers-reduced-motion: reduce) {
@@ -442,8 +551,9 @@
         <li>Desktop leaderboard: <strong>728 &times; 90px</strong>, on the blue header</li>
         <li>Mobile leaderboard: <strong>320 &times; 100px</strong>, on the blue header</li>
         <li>Skyscraper: <strong>160 &times; 600px</strong>, on the white body</li>
-        <li>Max file size: 1000kb (these come in well under, HTML5 or GIF export)</li>
-        <li>Animation: 12s / 4 slides max, &ge; 2s per slide, <strong>stops after 3 rotations</strong></li>
+        <li>Large mobile banner: <strong>300 &times; 600px</strong>, on the white body</li>
+        <li>Max file size: 1000kb (these come in well under, PNG export)</li>
+        <li>School Guide brand blue: <code>#23B3BD</code> (now used on the leaderboard previews)</li>
       </ul>
     </div>
 
@@ -453,7 +563,7 @@
       <p class="bp2-context-note">Sits against the School Guide blue header.</p>
       <div class="bp2-frame bp2-frame--blue">
         <a class="b-banner b-728" href="/referred-by-school-guide/?utm_source=schoolguide&utm_medium=banner&utm_campaign=schoolguide-2026&utm_content=leaderboard-728" target="_blank" rel="sponsored noopener" aria-label="The Degree Gap, book a free call about your child's tutoring">
-          <img class="b728-logo" src="/images/favicon.png" alt="The Degree Gap">
+          <img class="b728-logo" src="/images/final-logo.svg" alt="The Degree Gap">
           <span class="b728-content">
             <span class="b728-headline">Year 7 to 13 specialist tutors</span>
             <span class="b728-subline">Online tutoring that moves the grade &middot; Every subject</span>
@@ -475,7 +585,7 @@
       <p class="bp2-context-note">Sits against the School Guide blue header. Two messages at 6 seconds each, stops on message one.</p>
       <div class="bp2-frame bp2-frame--blue">
         <a class="b-banner b-320" href="/referred-by-school-guide/?utm_source=schoolguide&utm_medium=banner&utm_campaign=schoolguide-2026&utm_content=mobile-320" target="_blank" rel="sponsored noopener" aria-label="The Degree Gap, book a free call about your child's tutoring">
-          <img class="b320-logo" src="/images/favicon.png" alt="The Degree Gap">
+          <img class="b320-logo" src="/images/final-logo.svg" alt="The Degree Gap">
           <span class="b320-content">
             <span class="b320-headline">Year 7 to 13 tutors</span>
             <span class="b320-subline">Online specialist tutoring</span>
@@ -495,7 +605,7 @@
       <p class="bp2-context-note">Sits against the white body. Static — everything visible at a glance for sidebar placement.</p>
       <div class="bp2-frame bp2-frame--white">
         <a class="b-banner b-160" href="/referred-by-school-guide/?utm_source=schoolguide&utm_medium=banner&utm_campaign=schoolguide-2026&utm_content=skyscraper-160" target="_blank" rel="sponsored noopener" aria-label="The Degree Gap, book a free call about your child's tutoring">
-          <img class="sk-logo" src="/images/favicon.png" alt="The Degree Gap">
+          <img class="sk-logo" src="/images/final-logo.svg" alt="The Degree Gap">
           <p class="sk-headline">Tutors that move the grade</p>
           <p class="sk-sub">Vetted UK tutors, matched personally by the founders. No contracts.</p>
           <div class="sk-divider"></div>
@@ -516,16 +626,42 @@
       </div>
     </section>
 
+    <!-- ===== 300 x 600 ===== -->
+    <section class="bp2-block">
+      <h2 class="bp2-h2"><span>Large mobile banner</span><span class="bp2-size">300 &times; 600</span></h2>
+      <p class="bp2-context-note">Sits against the white body. Wider sibling of the skyscraper, more breathing room for mobile in-content placements.</p>
+      <div class="bp2-frame bp2-frame--white">
+        <a class="b-banner b-300" href="/referred-by-school-guide/?utm_source=schoolguide&utm_medium=banner&utm_campaign=schoolguide-2026&utm_content=large-mobile-300" target="_blank" rel="sponsored noopener" aria-label="The Degree Gap, book a free call about your child's tutoring">
+          <img class="lm-logo" src="/images/final-logo.svg" alt="The Degree Gap">
+          <p class="lm-headline">Tutors that move the grade</p>
+          <p class="lm-sub">Vetted UK tutors, matched personally by the founders. No contracts.</p>
+          <div class="lm-divider"></div>
+
+          <span class="lm-stars" aria-label="5 stars">★★★★★</span>
+          <div class="lm-rating">5.0</div>
+          <p class="lm-reviews-count">100+ verified Google reviews</p>
+
+          <div class="lm-callout">
+            <div class="lm-callout-eyebrow">Free</div>
+            <div class="lm-callout-line">40-minute call with the founders</div>
+          </div>
+
+          <p class="lm-award">Voted GCSE Tutoring Specialists of the Year, 2025 and 2026</p>
+
+          <span class="lm-cta">Book a free call &rarr;</span>
+        </a>
+      </div>
+    </section>
+
     <div class="bp2-notes">
       <h2>What's wired up</h2>
       <ul>
-        <li>All three banners click through to <code>/referred-by-school-guide/</code> with <code>rel="sponsored"</code>, per Google's paid-link guidance.</li>
-        <li>Animated banners (728 &times; 90 and 320 &times; 100) stop after 3 rotations and land on the first message, per IAB spec.</li>
-        <li>Skyscraper is static for a sidebar context, every key message visible at a glance.</li>
-        <li>All three respect <code>prefers-reduced-motion</code>: animations off, first frame retained.</li>
-        <li>Built in HTML/CSS, can ship as HTML5 or be exported as GIF (well under the 1000kb cap either way).</li>
-        <li>Cream banner against the navy header gives strong contrast; the same cream against the white body needs the border + shadow you can see on the skyscraper to hold its edge.</li>
-        <li>The blue background colour here is a placeholder for the School Guide navy; if Victoria sends the exact hex we'll swap it.</li>
+        <li>All four banners click through to <code>/referred-by-school-guide/</code> with <code>rel="sponsored"</code>, per Google's paid-link guidance.</li>
+        <li>All four banners are <strong>static</strong> per partner request (no GIFs). We can test an animated GIF version later if click-through-rate warrants it.</li>
+        <li>Every key message visible at a glance, designed for scan-reading on partner sites.</li>
+        <li>Banners now carry the full <strong>The Degree Gap</strong> wordmark logo (not the favicon) for brand awareness.</li>
+        <li>For delivery, banners will be exported as <strong>PNG files</strong> per School Guide's ad system, well under the 1000kb cap.</li>
+        <li>Leaderboard previews now use School Guide's confirmed brand blue <code>#23B3BD</code>; the skyscraper and 300 &times; 600 sit on white as you'll see them on the site.</li>
       </ul>
     </div>
 
@@ -533,7 +669,7 @@
       <h2>Tracking links (UTMs) for Victoria</h2>
       <ul>
         <li><strong>Tutor Directory listing:</strong><br><code>https://study.thedegreegap.com/referred-by-school-guide/?utm_source=schoolguide&amp;utm_medium=directory&amp;utm_campaign=schoolguide-2026</code></li>
-        <li><strong>Banners (one shared link, all three sizes):</strong><br><code>https://study.thedegreegap.com/referred-by-school-guide/?utm_source=schoolguide&amp;utm_medium=banner&amp;utm_campaign=schoolguide-2026</code><br><span style="font-size:0.85rem;color:#5f5a54;">Each banner size also carries a <code>utm_content</code> (<code>leaderboard-728</code>, <code>mobile-320</code>, <code>skyscraper-160</code>) so we can see which format converts in GA4, without giving Victoria three separate links.</span></li>
+        <li><strong>Banners (one shared link, all four sizes):</strong><br><code>https://study.thedegreegap.com/referred-by-school-guide/?utm_source=schoolguide&amp;utm_medium=banner&amp;utm_campaign=schoolguide-2026</code><br><span style="font-size:0.85rem;color:#5f5a54;">Each banner size also carries a <code>utm_content</code> (<code>leaderboard-728</code>, <code>mobile-320</code>, <code>skyscraper-160</code>, <code>large-mobile-300</code>) so we can see which format converts in GA4, without giving Victoria multiple separate links.</span></li>
         <li><strong>Blog placements (one shared link, all three posts):</strong><br><code>https://study.thedegreegap.com/referred-by-school-guide/?utm_source=schoolguide&amp;utm_medium=blog&amp;utm_campaign=schoolguide-2026</code></li>
       </ul>
     </div>

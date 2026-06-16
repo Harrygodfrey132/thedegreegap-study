@@ -1,6 +1,6 @@
 ---
-title: "Find Your Tutor — SchoolGuide × The Degree Gap"
-description: "Thank you for reaching out from SchoolGuide. We work with families to make sure secondary school children get the academic support they need. Book a free 15-minute call to find the right one-to-one match."
+title: "Find Your Tutor | School Guide × The Degree Gap"
+description: "Thank you for reaching out from School Guide. The Degree Gap, voted GCSE Specialists of the Year 2025 and 2026, helps families across the UK find the right one-to-one tutor for their child."
 layout: "school-guide"
 robots: "noindex, follow"
 _build:

@@ -6179,6 +6179,19 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
     margin-top: 0;
   }
 }
+.book-call__credential {
+  display: inline-block;
+  font-family: var(--font-heading);
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #800020;
+  background: rgba(128, 0, 32, 0.06);
+  padding: 6px 12px;
+  border-radius: 100px;
+  margin: 1rem 0 0.25rem;
+}
 .book-call__form-tag {
   display: inline-block;
   font-family: var(--font-heading);
