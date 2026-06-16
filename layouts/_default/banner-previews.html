@@ -164,11 +164,11 @@
     min-width: 0;
   }
   .b-728 .b728-headline {
-    font-size: 26px;
-    font-weight: 900;
+    font-size: 22px;
+    font-weight: 800;
     color: #171717;
-    letter-spacing: -0.022em;
-    line-height: 1.02;
+    letter-spacing: -0.018em;
+    line-height: 1.05;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -227,8 +227,8 @@
 
   /* =================================================
      320 x 100 — MOBILE LEADERBOARD
-     Static 3-line layout, burgundy left stripe.
-     Bold headline that grabs attention.
+     Original 3-line layout, favicon icon (not the wordmark)
+     because the wordmark eats too much width at this size.
      ================================================= */
   .b-320 {
     width: 320px;
@@ -239,9 +239,8 @@
   }
   .b-320 .b320-logo {
     flex: 0 0 auto;
-    height: 22px;
+    height: 42px;
     width: auto;
-    max-width: 96px;
   }
   .b-320 .b320-content {
     flex: 1;
@@ -252,17 +251,17 @@
     min-width: 0;
   }
   .b-320 .b320-headline {
-    font-size: 20px;
+    font-size: 17px;
     font-weight: 900;
     color: #171717;
-    letter-spacing: -0.022em;
-    line-height: 1.02;
+    letter-spacing: -0.018em;
+    line-height: 1.05;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
   }
   .b-320 .b320-subline {
-    font-size: 10px;
+    font-size: 11px;
     font-weight: 500;
     color: #3a3530;
     line-height: 1.2;
@@ -274,7 +273,7 @@
     display: flex;
     align-items: center;
     gap: 4px;
-    font-size: 9.5px;
+    font-size: 10px;
     color: #5f5a54;
     font-weight: 500;
     line-height: 1.2;
@@ -283,7 +282,7 @@
   }
   .b-320 .b320-stars {
     color: #FBBC05;
-    font-size: 9.5px;
+    font-size: 10px;
     letter-spacing: 0.02em;
     line-height: 1;
   }
@@ -322,11 +321,11 @@
     display: block;
   }
   .b-160 .sk-headline {
-    font-size: 17px;
-    font-weight: 800;
+    font-size: 22px;
+    font-weight: 900;
     color: #171717;
-    letter-spacing: -0.015em;
-    line-height: 1.18;
+    letter-spacing: -0.022em;
+    line-height: 1.08;
     margin: 0 0 8px;
   }
   .b-160 .sk-sub {
@@ -415,83 +414,83 @@
     height: 600px;
     flex-direction: column;
     align-items: stretch;
-    padding: 30px 24px 26px;
+    padding: 22px 22px 20px;
     text-align: center;
     background: #fbf7ef;
     border: 1px solid #ddd2c2;
   }
   .b-300 .lm-logo {
-    height: 34px;
+    height: 56px;
     width: auto;
-    max-width: 200px;
-    margin: 0 auto 22px;
+    max-width: 240px;
+    margin: 0 auto 28px;
     display: block;
   }
   .b-300 .lm-headline {
-    font-size: 26px;
-    font-weight: 800;
+    font-size: 30px;
+    font-weight: 900;
     color: #171717;
-    letter-spacing: -0.02em;
-    line-height: 1.12;
+    letter-spacing: -0.025em;
+    line-height: 1.05;
     margin: 0 0 12px;
   }
   .b-300 .lm-sub {
-    font-size: 14px;
-    color: #5f5a54;
-    line-height: 1.45;
-    margin: 0 0 26px;
-  }
-  .b-300 .lm-divider {
-    height: 1px;
-    background: #e6ded4;
-    margin: 6px 0 24px;
-  }
-  .b-300 .lm-stars {
-    color: #FBBC05;
-    font-size: 26px;
-    letter-spacing: 0.06em;
-    margin-bottom: 10px;
-    display: block;
-  }
-  .b-300 .lm-rating {
-    font-size: 26px;
-    font-weight: 800;
-    color: #171717;
-    line-height: 1;
-    margin-bottom: 6px;
-  }
-  .b-300 .lm-reviews-count {
     font-size: 13px;
     color: #5f5a54;
     line-height: 1.4;
     margin: 0 0 28px;
   }
+  .b-300 .lm-divider {
+    height: 1px;
+    background: #e6ded4;
+    margin: 4px 0 28px;
+  }
+  .b-300 .lm-stars {
+    color: #FBBC05;
+    font-size: 22px;
+    letter-spacing: 0.06em;
+    margin-bottom: 8px;
+    display: block;
+  }
+  .b-300 .lm-rating {
+    font-size: 22px;
+    font-weight: 800;
+    color: #171717;
+    line-height: 1;
+    margin-bottom: 4px;
+  }
+  .b-300 .lm-reviews-count {
+    font-size: 12px;
+    color: #5f5a54;
+    line-height: 1.35;
+    margin: 0 0 28px;
+  }
   .b-300 .lm-callout {
     background: #ffffff;
     border: 1px solid #e6ded4;
-    border-radius: 12px;
-    padding: 16px 14px;
+    border-radius: 10px;
+    padding: 12px 12px;
     margin-bottom: 24px;
   }
   .b-300 .lm-callout-eyebrow {
-    font-size: 11px;
+    font-size: 10px;
     font-weight: 800;
     letter-spacing: 0.12em;
     color: #800020;
     text-transform: uppercase;
-    margin-bottom: 6px;
+    margin-bottom: 4px;
   }
   .b-300 .lm-callout-line {
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 700;
     color: #171717;
     line-height: 1.25;
   }
   .b-300 .lm-award {
-    font-size: 12px;
+    font-size: 11px;
     color: #5f5a54;
     line-height: 1.4;
-    margin: 0 0 26px;
+    margin: 0 0 24px;
     font-style: italic;
   }
   .b-300 .lm-cta {
@@ -499,11 +498,11 @@
     background: #800020;
     color: #fbf7ef;
     font-weight: 800;
-    font-size: 16px;
-    padding: 14px 8px;
+    font-size: 14px;
+    padding: 12px 8px;
     border-radius: 999px;
     white-space: nowrap;
-    box-shadow: 0 4px 14px rgba(128, 0, 32, 0.24);
+    box-shadow: 0 4px 12px rgba(128, 0, 32, 0.22);
     transition: background 0.15s ease;
     display: block;
     box-sizing: border-box;
@@ -585,7 +584,7 @@
       <p class="bp2-context-note">Sits against the School Guide blue header. Two messages at 6 seconds each, stops on message one.</p>
       <div class="bp2-frame bp2-frame--blue">
         <a class="b-banner b-320" href="/referred-by-school-guide/?utm_source=schoolguide&utm_medium=banner&utm_campaign=schoolguide-2026&utm_content=mobile-320" target="_blank" rel="sponsored noopener" aria-label="The Degree Gap, book a free call about your child's tutoring">
-          <img class="b320-logo" src="/images/final-logo.svg" alt="The Degree Gap">
+          <img class="b320-logo" src="/images/favicon.png" alt="The Degree Gap">
           <span class="b320-content">
             <span class="b320-headline">Year 7 to 13 tutors</span>
             <span class="b320-subline">Online specialist tutoring</span>

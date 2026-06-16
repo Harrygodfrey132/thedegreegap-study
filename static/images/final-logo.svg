@@ -31,14 +31,8 @@
      inkscape:window-y="37"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg136" />
-  <g
-     id="g1">
-    <path
-       style="opacity:1"
-       fill="#fefefe"
-       d="M -0.5,-0.5 C 329.5,-0.5 659.5,-0.5 989.5,-0.5C 989.5,85.8333 989.5,172.167 989.5,258.5C 659.5,258.5 329.5,258.5 -0.5,258.5C -0.5,172.167 -0.5,85.8333 -0.5,-0.5 Z"
-       id="path1" />
-  </g>
+  <!-- White background rectangle removed so the logo sits transparent on any banner colour -->
+
   <g
      id="g2">
     <path
