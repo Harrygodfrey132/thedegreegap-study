@@ -1,0 +1,19 @@
+# Build-time minification of CSS, JS and HTML output for Lighthouse scoring.
+# Netlify post-processes the published files before serving them.
+
+[build.processing]
+  skip_processing = false
+
+[build.processing.css]
+  bundle = false
+  minify = true
+
+[build.processing.js]
+  bundle = false
+  minify = true
+
+[build.processing.html]
+  pretty_urls = true
+
+[build.processing.images]
+  compress = true
