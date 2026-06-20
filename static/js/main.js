@@ -235,6 +235,59 @@ document.querySelectorAll('[data-pg-form]').forEach((form) => {
   });
 });
 
+// Anti-spam for Formspree forms. Three layers on top of Formspree's _gotcha:
+//
+//   1. Bait honeypot fields (name="address_url", name="company_website").
+//      Real users never see these (CSS hides them off-screen). Bots that
+//      auto-fill every field will fill them, and we drop the submission.
+//
+//   2. Timing check. Bots submit forms within ~500ms of page load. Humans
+//      need at least ~3 seconds to read and fill. We track when the form
+//      was rendered and reject submissions that happen too fast.
+//
+//   3. Interaction check. Real users focus on a form field before
+//      submitting. Many bots POST directly without firing focus events.
+//      We track whether the user ever focused a real (non-bait) field.
+//
+// All three checks run before the submit event reaches Formspree, so blocked
+// submissions never even leave the browser.
+(function(){
+  var forms = document.querySelectorAll('form[action*="formspree"]');
+  forms.forEach(function(form){
+    var startTime = Date.now();
+    var humanInteracted = false;
+
+    form.addEventListener('focusin', function(e){
+      if (e.target && e.target.getAttribute('data-bait') === '1') return;
+      humanInteracted = true;
+    });
+
+    form.addEventListener('submit', function(e){
+      // Layer 1: bait honeypots
+      var baits = form.querySelectorAll('[data-bait="1"]');
+      for (var i = 0; i < baits.length; i++) {
+        if (baits[i].value) {
+          e.preventDefault();
+          e.stopImmediatePropagation();
+          return false;
+        }
+      }
+      // Layer 2: timing (under 3 seconds = bot)
+      if (Date.now() - startTime < 3000) {
+        e.preventDefault();
+        e.stopImmediatePropagation();
+        return false;
+      }
+      // Layer 3: interaction (no field was ever focused = bot)
+      if (!humanInteracted) {
+        e.preventDefault();
+        e.stopImmediatePropagation();
+        return false;
+      }
+    }, true);
+  });
+})();
+
 // Stash book-a-call form values so the thank-you page can personalise the note
 // from Harry. Only triggers for forms with a _next pointing at the thank-you page.
 // The native form submit + Formspree _next then handles the redirect.
