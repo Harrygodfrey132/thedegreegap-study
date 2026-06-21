@@ -1,6 +1,6 @@
 ---
-title: "Personal Statement Tutor"
-description: "Premium personal statement tutoring for competitive UK university applications. Subject-specific research, supercurricular planning, and draft editing."
+title: "Personal Statement Tutor | UCAS Application Help | The Degree Gap"
+description: "One-to-one personal statement tutoring for UK university applications. Matched to a tutor who knows your subject and your target universities. From £37/hr."
 form_cta: "Book personal statement tutoring with The Degree Gap"
 form_intro: "Tell us the subject, universities, and deadline you are working towards. We will come back with the best way to support your application."
 form_message_label: "Tell us where you are in the process"

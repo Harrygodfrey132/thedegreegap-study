@@ -1,6 +1,6 @@
 ---
-title: "Architecture Personal Statement Help"
-description: "How to write an Architecture personal statement for UK universities. Portfolio context, RIBA Part 1 routes, and what admissions tutors look for."
+title: "Architecture Personal Statement Tutor & Editor | The Degree Gap"
+description: "One-to-one help on your Architecture personal statement. Course-shaped editing for Bartlett, Bath, Cambridge, Manchester, and the RIBA Part 1 route."
 subject: "Architecture"
 form_cta: "Shape an Architecture statement around the course you're actually applying for"
 form_intro: "Tell us which Architecture courses you're targeting and what your portfolio is doing, and we'll help you write a statement that matches the shape of each department."

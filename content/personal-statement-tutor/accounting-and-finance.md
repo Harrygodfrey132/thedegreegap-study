@@ -1,6 +1,6 @@
 ---
-title: "Accounting & Finance Personal Statement"
-description: "How to write an Accounting and Finance personal statement. What admissions tutors look for, ACA/ACCA/CIMA routes, and how to structure it."
+title: "Accounting & Finance Personal Statement Tutor | The Degree Gap"
+description: "One-to-one help on your Accounting and Finance personal statement. Specialist editing on the ACA/ACCA/CIMA angle, the placement year, and Russell Group offers."
 subject: "Accounting and Finance"
 form_cta: "Build an Accounting and Finance personal statement that handles the dual academic and professional question"
 form_intro: "Tell us where you are with the ACA/ACCA/CIMA question, the Big Four pipeline, and the placement year, and we'll help you turn it into a focused statement."
