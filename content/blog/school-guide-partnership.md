@@ -4,12 +4,12 @@ description: "We're working with School Guide, the UK's largest school informati
 date: 2026-06-21
 author: "Harry Godfrey"
 author_role: "Co-founder, The Degree Gap"
-category: "Partnerships"
+category: "Behind the Scenes"
 excerpt: "We're working with School Guide, the UK's largest school information platform, to put trusted tutoring in front of families when they need it most."
 hero_image: "/images/aerial-school-campus-building.jpg"
 tags:
-  - Partnerships
-  - Announcements
+  - Behind the Scenes
+  - Parent Advice
 related_links:
   - title: "Book a free consultation call"
     url: "/book-a-call/"

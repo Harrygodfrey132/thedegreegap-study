@@ -9,7 +9,7 @@ excerpt: "Every tutor on The Degree Gap is interviewed personally by a co-founde
 hero_image: "/images/university-library-study-hall.jpg"
 tags:
   - Behind the Scenes
-  - Parent Guide
+  - Parent Advice
 related_links:
   - title: "Book a free consultation call"
     url: "/book-a-call/"

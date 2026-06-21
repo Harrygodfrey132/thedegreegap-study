@@ -4,13 +4,13 @@ description: "Why grade 8 GCSE students are hitting B grades in Year 12 mocks, a
 date: 2026-06-14
 author: "Joe Clark"
 author_role: "Co-founder, The Degree Gap"
-category: "Parent Guide"
+category: "A-Level"
 excerpt: "Why grade 8 GCSE students are hitting B grades in Year 12 mocks, and what the analytical shift A-Level rewards actually looks like in practice."
 hero_image: "/images/student-studying-at-night-with-laptop.jpg"
 tags:
   - A-Level
   - GCSE
-  - Parent Guide
+  - Parent Advice
 related_links:
   - title: "Book a free consultation call"
     url: "/book-a-call/"

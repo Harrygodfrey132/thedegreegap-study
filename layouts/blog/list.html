@@ -421,19 +421,26 @@
     </a>
   </section>
 
-  {{/* ---- Filter chips (auto-discover unique tags from posts in the grid) ---- */}}
-  {{ $allTags := slice }}
-  {{ range $rest }}
-    {{ range .Params.tags }}
-      {{ if not (in $allTags .) }}
-        {{ $allTags = $allTags | append . }}
+  {{/* ---- Filter chips (curated category list, not auto-discovered) ----
+       Edit this slice to change the editorial taxonomy. A category only
+       renders as a filter chip if at least one post in the grid carries
+       it as a tag. This keeps the chip strip tidy and editorially curated
+       (no random tags appearing) while still being driven by real content.
+  */}}
+  {{ $blogCategories := slice "Parent Advice" "GCSE" "A-Level" "UCAS" "Behind the Scenes" }}
+  {{ $activeCategories := slice }}
+  {{ range $blogCategories }}
+    {{ $cat := . }}
+    {{ range $rest }}
+      {{ if and (in .Params.tags $cat) (not (in $activeCategories $cat)) }}
+        {{ $activeCategories = $activeCategories | append $cat }}
       {{ end }}
     {{ end }}
   {{ end }}
-  {{ if $allTags }}
+  {{ if $activeCategories }}
   <div class="blog-filters" role="tablist" aria-label="Filter posts by topic">
     <button type="button" class="blog-filter is-active" data-blog-filter="*">All</button>
-    {{ range $allTags }}
+    {{ range $activeCategories }}
     <button type="button" class="blog-filter" data-blog-filter="{{ . | urlize }}">{{ . }}</button>
     {{ end }}
   </div>
