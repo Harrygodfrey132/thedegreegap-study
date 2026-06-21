@@ -2,7 +2,7 @@
 title: "The GCSE-to-A-Level jump nobody warns parents about"
 description: "Why grade 8 GCSE students are hitting B grades in Year 12 mocks, and what the analytical shift A-Level rewards actually looks like in practice."
 date: 2026-06-14
-author: "Joe Clarke"
+author: "Joe Clark"
 author_role: "Co-founder, The Degree Gap"
 category: "Parent Guide"
 excerpt: "Why grade 8 GCSE students are hitting B grades in Year 12 mocks, and what the analytical shift A-Level rewards actually looks like in practice."
