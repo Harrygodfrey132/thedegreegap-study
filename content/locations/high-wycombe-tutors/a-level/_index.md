@@ -62,7 +62,7 @@ faq_2_a: "Most AAA offers turn on one subject. The tutor reads recent essays or 
 faq_3_q: "Can A-Level tutoring help with the AS-to-A2 jump in High Wycombe sixth forms?"
 faq_3_a: "Yes, and it's one of the most common reasons families come to us. The volume and depth step up in Year 13, especially in Sciences and Maths where Year 12 gaps compound fast. A tutor traces what's missing from Year 12 (a mechanics method, an organic chemistry mechanism, a specific evaluation chain) and rebuilds it before Year 13 content stacks on top."
 faq_4_q: "What does A-Level tutoring cost in High Wycombe?"
-faq_4_a: "From £37 an hour. The rate depends on the tutor's subject, the level and how experienced they are. We agree it with you before any session is booked. No platform charges on top, no contracts, no hidden fees."
+faq_4_a: "From £37 an hour. The rate depends on the tutor's subject, the level and how experienced they are. We agree it with you before any session is booked. No contracts, no hidden fees, no surprises."
 
 sitemap:
   priority: 0.7
