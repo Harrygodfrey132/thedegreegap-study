@@ -524,6 +524,19 @@ At least one sentence across the H1, hero lead and first_lesson_context combined
 
 **Allowed (in body sections only):** if a passage genuinely needs stretch-into-top-band language, pair it with foundation/catch-up framing in the SAME paragraph so a lower-band parent still sees themselves. Example: "Whether a student is rebuilding shaky algebra from Year 8 or pushing past a comfortable 7 into grade 8 and 9 territory, the work starts with a diagnostic." Single-sided "for the grade 8 push" framings are banned.
 
+**Hard rule: no school-rank snobbery.** Never write copy that implies one school's grade or cohort is "worth more" than another's. Parents at every kind of school read these pages — grammars, comprehensives, independents, academies — and every one of them has to feel the page was written for their child. Banned framings:
+
+- *"a grade 7 there is a different kind of grade 7 to the same number at a non-selective school"* — false (same paper, same grade) AND insulting to comprehensive parents.
+- *"the cohort is already cut for the top of the national distribution"* / *"the cohort is dense"* — implies the student is only valuable because their school filtered them.
+- *"this kind of school"* / *"at independent-school pace"* — categorical labels that rank schools implicitly.
+- *"the median student is on the Russell Group track and the top quartile is on the Oxbridge track"* — ranks both schools and students.
+- *"making sure ambition isn't capped by a class working towards a different ceiling"* — phrased as if the school sets a lower ceiling. Insults school AND students.
+- *"non-selective schools"* as a category label, even neutrally. Naming a group of schools by what they ARE NOT others a chunk of the audience. Use *"other secondaries"* / *"the comprehensives"* if a label is needed, never the negative form.
+
+**The brand belief (per `.claude/reference/beliefs.md`):** "The classroom isn't the problem; the class size is." Tutoring fills the gap a class of thirty can't, regardless of school type. NEVER frame the page as "your school is letting you down" or "your school is on a different level". Frame it as "a class of thirty doesn't have time to drill the specific thing your child needs" — true at every school.
+
+When a location has selective schools in the mix, name them factually (e.g. "Royal Grammar School, John Hampden Grammar and the comprehensives across town") without implying a hierarchy. For first_lesson_context and tutor_strip_body, prefer the universal pain ("a B in a mock, nobody can say why") over school-specific framings.
+
 **Self-check before saving the hero:** Read line 1 + line 2 + lead aloud. If it takes more than 10 seconds to read or a parent would skim past it, cut it.
 
 ### First Lesson Eyebrow (`first_lesson_eyebrow`) — write fresh, inspired by these

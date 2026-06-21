@@ -343,6 +343,19 @@ Use broader pain framings that fit every starting grade:
 
 **Allowed (in body sections only):** if a passage genuinely needs to name stretch-into-top-band work, pair it with foundation/catch-up framing in the same paragraph so a lower-band parent still sees themselves on the page. Example: "Whether a student is rebuilding shaky algebra from Year 8 or pushing past a comfortable 7 into grade 8 and 9 territory, the work starts with a diagnostic." Single-sided "for the grade 8 push" framings are banned.
 
+**Hard rule: no school-rank snobbery.** Never write copy that implies one school's grade or cohort is "worth more" than another's. The parents most likely to convert are at every kind of school — grammars, comprehensives, independents, academies, faith schools — and the page has to make every one of them feel it was written for their child. Banned framings:
+
+- *"a grade 7 there is a different kind of grade 7 to the same number at a non-selective school"* — categorically false (same paper, same mark scheme = same grade) AND insulting to comprehensive parents.
+- *"the cohort is already cut for the top of the national distribution"* — implies the student is only valuable because their school filtered them.
+- *"this kind of school"* / *"the cohort is dense"* / *"at independent-school pace"* — these tell the reader that the named school is in a category, ranking it implicitly.
+- *"the median student is on the Russell Group track and the top quartile is on the Oxbridge track"* — ranks both schools and students at once.
+- *"making sure ambition isn't capped by a class working towards a different ceiling"* — phrased as if the school sets a lower ceiling, which insults the school AND the students.
+- *"non-selective schools"* as a category label — even neutrally, naming a group of schools by what they ARE NOT others a chunk of your audience. Use *"other secondaries"* or *"the comprehensives"* if a category label is needed, never the negative form.
+
+**The brand belief (per `.claude/reference/beliefs.md`):** "The classroom isn't the problem; the class size is." Tutoring fills the gap a class of thirty can't, regardless of school type. NEVER frame the page as "your school is letting you down" or "your school is on a different level". Frame it as "a class of thirty doesn't have time to drill the specific thing your child needs" — which is true at every school.
+
+**How to apply when a location has selective schools in the mix:** name them factually (e.g. "Royal Grammar School, John Hampden Grammar, Wycombe High and the comprehensives across town") without implying a hierarchy. Talk about what the tutor does for each, not what the school is "worth". For the why_para and first_lesson_context, prefer the universal pain ("a B in a mock, nobody can say why") over school-specific framings.
+
 ### Banner Description Structures (rotate, never always use the solution sentence)
 
 Pick one of these four structural shapes for `banner_description`. Rewrite it entirely, do not copy:

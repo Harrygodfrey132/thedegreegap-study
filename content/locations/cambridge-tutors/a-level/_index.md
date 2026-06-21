@@ -15,7 +15,7 @@ grade_stat: "Real A-Level grade movement from a student who came to us in the C-
 
 first_lesson_eyebrow: "FROM JANUARY MOCK TO UCAS OFFER"
 first_lesson_heading: "What an A-Level Tutor in Cambridge Diagnoses Before Mocks"
-first_lesson_context: "A* grades at Cambridge sixth forms aren't accidents. Hills Road and Long Road run A-Level cohorts where the median student is on the Russell Group track and the top quartile is on the Oxbridge track. The pace assumes that. For a Year 12 hitting a B in an end-of-year mock with grade 8 GCSEs in the bank, the gap is rarely effort. It.s the analytical precision A-Level rewards across the longer questions, which doesn't get explicitly taught."
+first_lesson_context: "A* grades at A-Level aren't accidents. They sit on top of a method shift that GCSE rarely forced, and the pace at most Cambridge sixth forms assumes students will pick that shift up on their own. For a Year 12 hitting a B in an end-of-year mock with strong GCSEs in the bank, the gap is rarely effort. It's the analytical precision A-Level rewards across the longer questions, which doesn't always get explicitly taught."
 
 first_lesson_quote: "The Degree Gap helped my child go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and applications."
 first_lesson_quote_name: "Alexander"

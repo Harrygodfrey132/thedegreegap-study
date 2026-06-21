@@ -20,11 +20,11 @@ intro_1: Watford has a school system most other Hertfordshire towns don't share.
   to meet them one-to-one.
 intro_2: Our Watford tutors fill that gap. One-to-one tuition gives students the
   time to attempt harder questions, get specific feedback and rebuild any weak
-  topic before it becomes a problem. For ambitious students at the grammars,
-  that means stretching beyond what the classroom can pace. For students at
-  non-selective schools aiming high anyway, it means proving that capability
-  with the grades to back it up. We match each family with a tutor who knows the
-  exam board and knows what a strong answer looks like.
+  topic before it becomes a problem. For students at the grammars, that means
+  stretching beyond what the classroom pace allows. For students at any other
+  secondary in Watford, it means giving ambition the one-to-one attention a
+  class of thirty rarely has room for. We match each family with a tutor who
+  knows the exam board and knows what a strong answer looks like.
 about_heading: GCSE and A-Level Tutors Covering Watford
 about_image: /images/group-study-discussion-with-laptop.jpg
 schools_intro: Our tutors support students from secondary schools right across

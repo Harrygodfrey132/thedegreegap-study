@@ -21,10 +21,11 @@ intro_1: Aylesbury sits in Buckinghamshire, one of the few English counties
 intro_2: Our Aylesbury tutors work one-to-one with students at every stage of
   this. For 11+ candidates, that means proper preparation in verbal reasoning,
   non-verbal reasoning, English and Maths well ahead of the test. For students
-  already at a grammar, it means keeping pace with peers who all came in at the
-  same standard. For students at non-selective schools, it means making sure the
-  gap doesn't widen into GCSEs. One-to-one tuition lets the tutor work on
-  exactly what that specific student needs, and nothing else.
+  already at a grammar, it means keeping pace when the curriculum moves quickly
+  and the homework load steps up. For students at any other secondary in
+  Aylesbury, it means giving ambition the one-to-one attention a class of
+  thirty rarely has room for. One-to-one tuition lets the tutor work on exactly
+  what that specific student needs, and nothing else.
 about_heading: GCSE and A-Level Tutors Covering Aylesbury
 about_image: /images/handwriting-study-notes-with-highlighters.jpg
 schools_intro: Our tutors support students from schools right across the
