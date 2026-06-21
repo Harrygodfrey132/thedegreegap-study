@@ -7,7 +7,8 @@
 {{ define "main" }}
 <style>
   /* =================================================
-     BLOG INDEX — clean editorial, TDG cream + burgundy
+     BLOG INDEX — featured hero + filter chips + 2-col grid
+     Inspired by MyTutor, The Profs, Tutor House
      ================================================= */
   .blog-page {
     font-family: 'Poppins', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
@@ -15,45 +16,242 @@
     color: #171717;
   }
 
-  /* Hero — restrained cream band */
+  /* ---- Hero band (tight, confident) ---- */
   .blog-hero {
     background: #fbf7ef;
     border-bottom: 1px solid #ece4d4;
-    padding: 80px 24px 72px;
+    padding: 56px 24px 48px;
   }
   .blog-hero__inner {
-    max-width: 720px;
+    max-width: 800px;
     margin: 0 auto;
     text-align: center;
   }
   .blog-hero__eyebrow {
     display: inline-block;
-    font-size: 0.75rem;
+    font-size: 0.72rem;
     font-weight: 800;
     letter-spacing: 0.18em;
     color: #800020;
-    margin: 0 0 18px;
+    margin: 0 0 14px;
     text-transform: uppercase;
   }
   .blog-hero__heading {
-    font-size: clamp(2.25rem, 5vw, 3.25rem);
+    font-size: clamp(2rem, 4.5vw, 2.75rem);
     font-weight: 900;
     letter-spacing: -0.025em;
-    line-height: 1.08;
+    line-height: 1.1;
     color: #171717;
-    margin: 0 0 18px;
+    margin: 0 0 16px;
   }
   .blog-hero__lead {
-    font-size: 1.0625rem;
-    line-height: 1.6;
+    font-size: 1.05rem;
+    line-height: 1.55;
     color: #5f5a54;
-    max-width: 560px;
+    max-width: 580px;
     margin: 0 auto;
   }
 
-  /* Grid */
+  /* ---- Featured post hero card ---- */
+  .blog-featured-section {
+    padding: 72px 24px 24px;
+  }
+  .blog-featured-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  .blog-featured {
+    display: grid;
+    grid-template-columns: 1.15fr 1fr;
+    gap: 48px;
+    align-items: center;
+    text-decoration: none;
+    color: inherit;
+  }
+  @media (max-width: 880px) {
+    .blog-featured { grid-template-columns: 1fr; gap: 28px; }
+  }
+  .blog-featured__media {
+    width: 100%;
+    aspect-ratio: 16 / 11;
+    overflow: hidden;
+    border-radius: 14px;
+    background: #f3ecdf;
+  }
+  .blog-featured__media img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.5s ease;
+  }
+  .blog-featured:hover .blog-featured__media img {
+    transform: scale(1.03);
+  }
+  .blog-featured__copy {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+  }
+  .blog-featured__eyebrow {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 0.72rem;
+    font-weight: 800;
+    letter-spacing: 0.14em;
+    color: #800020;
+    text-transform: uppercase;
+  }
+  .blog-featured__eyebrow-sep {
+    color: #c5bcaf;
+    font-weight: 700;
+    letter-spacing: 0;
+  }
+  .blog-featured__title {
+    font-size: clamp(1.75rem, 3.5vw, 2.4rem);
+    font-weight: 900;
+    line-height: 1.15;
+    letter-spacing: -0.02em;
+    color: #171717;
+    margin: 0;
+    transition: color 0.18s ease;
+  }
+  .blog-featured:hover .blog-featured__title {
+    color: #800020;
+  }
+  .blog-featured__excerpt {
+    font-size: 1.05rem;
+    line-height: 1.6;
+    color: #5f5a54;
+    margin: 0;
+  }
+  .blog-featured__meta {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 0.88rem;
+    color: #6b6660;
+    font-weight: 600;
+    margin: 4px 0 0;
+  }
+  .blog-featured__meta strong { color: #171717; font-weight: 700; }
+  .blog-featured__cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.9rem;
+    font-weight: 800;
+    color: #800020;
+    margin-top: 4px;
+    letter-spacing: 0.01em;
+  }
+  .blog-featured__cta-arrow {
+    transition: transform 0.18s ease;
+  }
+  .blog-featured:hover .blog-featured__cta-arrow {
+    transform: translateX(4px);
+  }
+
+  /* ---- Webinar promo strip ---- */
+  .blog-webinar {
+    max-width: 1200px;
+    margin: 56px auto 0;
+    padding: 0 24px;
+  }
+  .blog-webinar__card {
+    background: #800020;
+    color: #fbf7ef;
+    border-radius: 14px;
+    padding: 36px 40px;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: center;
+    gap: 28px;
+    box-shadow: 0 10px 30px rgba(128, 0, 32, 0.18);
+  }
+  @media (max-width: 720px) {
+    .blog-webinar__card { grid-template-columns: 1fr; padding: 28px 26px; gap: 18px; }
+  }
+  .blog-webinar__eyebrow {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 800;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: #f4d3a3;
+    margin: 0 0 8px;
+  }
+  .blog-webinar__heading {
+    font-size: 1.4rem;
+    font-weight: 800;
+    letter-spacing: -0.015em;
+    color: #fbf7ef;
+    margin: 0 0 8px;
+    line-height: 1.2;
+  }
+  .blog-webinar__sub {
+    font-size: 0.95rem;
+    line-height: 1.55;
+    color: #f1e4dc;
+    margin: 0;
+    max-width: 560px;
+  }
+  .blog-webinar__cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background: #fbf7ef;
+    color: #800020;
+    font-weight: 800;
+    font-size: 0.95rem;
+    padding: 14px 26px;
+    border-radius: 999px;
+    text-decoration: none;
+    transition: background 0.18s ease, transform 0.18s ease;
+    white-space: nowrap;
+  }
+  .blog-webinar__cta:hover {
+    background: #fff;
+    transform: translateY(-1px);
+  }
+
+  /* ---- Filter chips ---- */
+  .blog-filters {
+    max-width: 1200px;
+    margin: 64px auto 0;
+    padding: 0 24px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: center;
+  }
+  .blog-filter {
+    background: #ffffff;
+    color: #3a3530;
+    border: 1px solid #e6ded4;
+    border-radius: 999px;
+    padding: 9px 18px;
+    font-family: inherit;
+    font-size: 0.85rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+    letter-spacing: 0.01em;
+  }
+  .blog-filter:hover {
+    background: #fbf7ef;
+    border-color: #ddd2c2;
+  }
+  .blog-filter.is-active {
+    background: #800020;
+    color: #fbf7ef;
+    border-color: #800020;
+  }
+
+  /* ---- Grid ---- */
   .blog-grid-section {
-    padding: 88px 24px 112px;
+    padding: 40px 24px 112px;
   }
   .blog-grid-inner {
     max-width: 1200px;
@@ -69,24 +267,24 @@
   }
   @media (max-width: 640px) {
     .blog-grid { grid-template-columns: 1fr; gap: 44px; }
-    .blog-hero { padding: 56px 22px 48px; }
-    .blog-grid-section { padding: 56px 22px 80px; }
+    .blog-hero { padding: 48px 22px 40px; }
+    .blog-featured-section { padding: 48px 22px 16px; }
+    .blog-grid-section { padding: 32px 22px 80px; }
   }
-
-  /* Card */
   .blog-card {
     display: flex;
     flex-direction: column;
     text-decoration: none;
     color: inherit;
   }
+  .blog-card[hidden] { display: none; }
   .blog-card__media {
     width: 100%;
     aspect-ratio: 16 / 11;
     overflow: hidden;
     border-radius: 12px;
     background: #f3ecdf;
-    margin: 0 0 24px;
+    margin: 0 0 22px;
   }
   .blog-card__media img {
     width: 100%;
@@ -98,19 +296,24 @@
   .blog-card:hover .blog-card__media img {
     transform: scale(1.04);
   }
-  .blog-card__meta {
-    font-size: 0.82rem;
-    font-weight: 600;
-    color: #6b6660;
+  .blog-card__eyebrow {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.68rem;
+    font-weight: 800;
+    letter-spacing: 0.14em;
+    color: #800020;
+    text-transform: uppercase;
     margin: 0 0 12px;
-    letter-spacing: 0.005em;
   }
-  .blog-card__meta-sep {
+  .blog-card__eyebrow-sep {
     color: #c5bcaf;
-    margin: 0 8px;
+    font-weight: 700;
+    letter-spacing: 0;
   }
   .blog-card__title {
-    font-size: 1.4rem;
+    font-size: 1.35rem;
     font-weight: 800;
     line-height: 1.22;
     letter-spacing: -0.018em;
@@ -129,30 +332,19 @@
     font-size: 0.95rem;
     line-height: 1.6;
     color: #5f5a54;
-    margin: 0 0 20px;
+    margin: 0 0 18px;
     display: -webkit-box;
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
   }
-  .blog-card__tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    margin-top: auto;
+  .blog-card__meta {
+    font-size: 0.82rem;
+    color: #6b6660;
+    font-weight: 600;
+    margin: auto 0 0;
   }
-  .blog-card__tag {
-    display: inline-block;
-    font-size: 0.7rem;
-    font-weight: 700;
-    letter-spacing: 0.05em;
-    color: #800020;
-    background: #fbf7ef;
-    border: 1px solid #e6ded4;
-    border-radius: 999px;
-    padding: 5px 12px;
-    text-transform: uppercase;
-  }
+  .blog-card__meta strong { color: #171717; font-weight: 700; }
 
   .blog-empty {
     text-align: center;
@@ -164,52 +356,150 @@
 
 <div class="blog-page">
 
+  {{/* ---- Hero band ---- */}}
   <header class="blog-hero">
     <div class="blog-hero__inner">
-      <p class="blog-hero__eyebrow">{{ .Params.hero_eyebrow | default "BLOG" }}</p>
-      <h1 class="blog-hero__heading">{{ .Params.hero_heading | default "Notes from the team" }}</h1>
+      <p class="blog-hero__eyebrow">{{ .Params.hero_eyebrow | default "EXPERT ADVICE" }}</p>
+      <h1 class="blog-hero__heading">{{ .Params.hero_heading | default "Honest guides for parents navigating GCSEs, A-Levels and university" }}</h1>
       {{ with .Params.hero_lead }}
       <p class="blog-hero__lead">{{ . }}</p>
       {{ end }}
     </div>
   </header>
 
+  {{ $posts := .Pages.ByDate.Reverse }}
+  {{ $featured := index $posts 0 }}
+  {{ $rest := after 1 $posts }}
+
+  {{/* ---- Featured post hero card ---- */}}
+  {{ if $featured }}
+  <section class="blog-featured-section">
+    <div class="blog-featured-inner">
+      <a class="blog-featured" href="{{ $featured.RelPermalink }}">
+        {{ with $featured.Params.hero_image }}
+        <div class="blog-featured__media">
+          <img src="{{ . }}" alt="" loading="lazy">
+        </div>
+        {{ end }}
+        <div class="blog-featured__copy">
+          <p class="blog-featured__eyebrow">
+            {{ with (or $featured.Params.category (index $featured.Params.tags 0)) }}{{ . }}{{ end }}
+            <span class="blog-featured__eyebrow-sep" aria-hidden="true">&middot;</span>
+            {{ $featured.ReadingTime }} min read
+          </p>
+          <h2 class="blog-featured__title">{{ $featured.Title }}</h2>
+          {{ with (or $featured.Params.excerpt $featured.Params.description) }}
+          <p class="blog-featured__excerpt">{{ . }}</p>
+          {{ end }}
+          <p class="blog-featured__meta">
+            {{ with $featured.Params.author }}<strong>{{ . }}</strong>{{ end }}
+            {{ if and $featured.Params.author (not $featured.Date.IsZero) }}<span aria-hidden="true">&middot;</span>{{ end }}
+            {{ if not $featured.Date.IsZero }}{{ $featured.Date.Format "2 Jan 2006" }}{{ end }}
+          </p>
+          <span class="blog-featured__cta">
+            Read article
+            <svg class="blog-featured__cta-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+          </span>
+        </div>
+      </a>
+    </div>
+  </section>
+  {{ end }}
+
+  {{/* ---- Webinar promo strip (always shows the GCSE Mock Webinar) ---- */}}
+  <section class="blog-webinar" aria-label="Free webinar">
+    <a class="blog-webinar__card" href="/gcse-mock-webinar/">
+      <div>
+        <p class="blog-webinar__eyebrow">FREE PARENT MASTERCLASS</p>
+        <h2 class="blog-webinar__heading">GCSE Mock Webinar: what March mocks really test</h2>
+        <p class="blog-webinar__sub">Our co-founder-led webinar for parents of Year 10 and Year 11 students. Hear when the next session runs.</p>
+      </div>
+      <span class="blog-webinar__cta">
+        Reserve your seat
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+      </span>
+    </a>
+  </section>
+
+  {{/* ---- Filter chips (auto-discover unique tags from posts in the grid) ---- */}}
+  {{ $allTags := slice }}
+  {{ range $rest }}
+    {{ range .Params.tags }}
+      {{ if not (in $allTags .) }}
+        {{ $allTags = $allTags | append . }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ if $allTags }}
+  <div class="blog-filters" role="tablist" aria-label="Filter posts by topic">
+    <button type="button" class="blog-filter is-active" data-blog-filter="*">All</button>
+    {{ range $allTags }}
+    <button type="button" class="blog-filter" data-blog-filter="{{ . | urlize }}">{{ . }}</button>
+    {{ end }}
+  </div>
+  {{ end }}
+
+  {{/* ---- Grid for the rest ---- */}}
   <section class="blog-grid-section">
     <div class="blog-grid-inner">
-      {{ $posts := .Pages.ByDate.Reverse }}
-      {{ if $posts }}
-      <div class="blog-grid">
-        {{ range $posts }}
-        <a class="blog-card" href="{{ .RelPermalink }}">
+      {{ if or $rest (not $featured) }}
+      <div class="blog-grid" data-blog-grid>
+        {{ $remaining := cond (not $featured) $posts $rest }}
+        {{ range $remaining }}
+        {{ $cardTags := slice }}
+        {{ range .Params.tags }}{{ $cardTags = $cardTags | append (. | urlize) }}{{ end }}
+        <a class="blog-card" href="{{ .RelPermalink }}" data-blog-tags="{{ delimit $cardTags " " }}">
           {{ with .Params.hero_image }}
           <div class="blog-card__media">
             <img src="{{ . }}" alt="" loading="lazy">
           </div>
           {{ end }}
-          <p class="blog-card__meta">
-            {{ with .Params.author }}{{ . }}{{ end }}
-            {{ if and .Params.author (not .Date.IsZero) }}<span class="blog-card__meta-sep" aria-hidden="true">&middot;</span>{{ end }}
-            {{ if not .Date.IsZero }}{{ .Date.Format "2 Jan 2006" }}{{ end }}
+          <p class="blog-card__eyebrow">
+            {{ with (or .Params.category (index .Params.tags 0)) }}{{ . }}{{ end }}
+            <span class="blog-card__eyebrow-sep" aria-hidden="true">&middot;</span>
+            {{ .ReadingTime }} min read
           </p>
           <h2 class="blog-card__title">{{ .Title }}</h2>
           {{ with (or .Params.excerpt .Params.description) }}
           <p class="blog-card__excerpt">{{ . }}</p>
           {{ end }}
-          {{ with .Params.tags }}
-          <div class="blog-card__tags">
-            {{ range first 3 . }}
-            <span class="blog-card__tag">{{ . }}</span>
-            {{ end }}
-          </div>
-          {{ end }}
+          <p class="blog-card__meta">
+            {{ with .Params.author }}<strong>{{ . }}</strong>{{ end }}
+            {{ if and .Params.author (not .Date.IsZero) }} &middot; {{ end }}
+            {{ if not .Date.IsZero }}{{ .Date.Format "2 Jan 2006" }}{{ end }}
+          </p>
         </a>
         {{ end }}
       </div>
-      {{ else }}
+      {{ else if not $featured }}
       <p class="blog-empty">No posts yet. Check back soon.</p>
       {{ end }}
     </div>
   </section>
 
 </div>
+
+<script>
+  (function () {
+    const filters = document.querySelectorAll('[data-blog-filter]');
+    const cards = document.querySelectorAll('[data-blog-tags]');
+    if (!filters.length || !cards.length) return;
+
+    filters.forEach(btn => {
+      btn.addEventListener('click', () => {
+        filters.forEach(f => f.classList.remove('is-active'));
+        btn.classList.add('is-active');
+        const filter = btn.getAttribute('data-blog-filter');
+        cards.forEach(card => {
+          if (filter === '*') {
+            card.hidden = false;
+          } else {
+            const tags = (card.getAttribute('data-blog-tags') || '').split(' ');
+            card.hidden = !tags.includes(filter);
+          }
+        });
+      });
+    });
+  })();
+</script>
 {{ end }}
