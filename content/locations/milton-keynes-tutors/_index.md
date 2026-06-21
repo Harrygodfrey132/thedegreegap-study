@@ -21,7 +21,7 @@ map_url: "https://maps.google.com/maps?q=Milton+Keynes,UK&output=embed"
 areas_intro: "Because most of our tuition runs online, students in Milton Keynes and the surrounding towns can access the right subject specialist without being limited by who happens to live nearby."
 area_links: ["Aylesbury Tutors|/locations/aylesbury-tutors/", "Oxford Tutors|/locations/oxford-tutors/", "Hemel Hempstead Tutors|/locations/hemel-hempstead-tutors/", "Cambridge Tutors|/locations/cambridge-tutors/", "Peterborough Tutors|/locations/peterborough-tutors/", "St Albans Tutors|/locations/st-albans-tutors/"]
 gcse_subjects: [
-  "GCSE Maths Tuition|Targeted work across number, algebra and statistics for MK students aiming at the grade 7, 8 and 9 mark bands.|/book-a-call/",
+  "GCSE Maths Tuition|Targeted work across number, algebra and statistics for MK students at whatever level they are sitting at.|/book-a-call/",
   "GCSE Chemistry Tuition|Drill on moles questions, equations and bonding diagrams that decide top grades at GCSE.|/book-a-call/",
   "GCSE Biology Tuition|Tight coverage of required practicals and long-answer questions where ambitious students separate themselves.|/book-a-call/",
   "GCSE English Tuition|Sharp analytical writing across Language and Literature, with feedback that builds towards top-band essay technique.|/book-a-call/",
@@ -34,11 +34,11 @@ gcse_subjects: [
 alevel_subjects: [
   "A-Level Maths Tuition|Pure, Mechanics and Statistics depth, with the structured proof work that separates an A from an A*.|/book-a-call/",
   "A-Level Chemistry Tuition|Mechanisms, calculations and multi-step organic synthesis problems where ambitious students need precision.|/book-a-call/",
-  "A-Level Biology Tuition|Mastery of synoptic questions and required practicals that decide the top mark band at A-Level.|/book-a-call/",
+  "A-Level Biology Tuition|Synoptic questions and required practicals, broken down at whatever level the student is sitting at.|/book-a-call/",
   "A-Level Physics Tuition|Problem-solving structure and conceptual understanding that turns a B into an A* in Mechanics and Fields.|/book-a-call/",
   "A-Level Economics Tuition|Diagram precision and the evaluation chains that separate a B-grade essay from an A-grade one.|/book-a-call/",
   "A-Level Psychology Tuition|Tight AO3 evaluation chains and the synoptic essay structure that lift students into the top band.|/book-a-call/",
-  "A-Level English Tuition|Critical reading and comparative essay structure that decide top mark bands at A-Level.|/book-a-call/",
+  "A-Level English Tuition|Critical reading and comparative essay structure, sharpened at whatever level the student is sitting at.|/book-a-call/",
   "A-Level History Tuition|Source analysis and the 25-mark essay, where most students lose marks they could keep with the right technique.|/book-a-call/",
   "A-Level Geography Tuition|Case studies, synoptic links and the 20-mark essay technique for students aiming at A* and A grades.|/book-a-call/",
 ]

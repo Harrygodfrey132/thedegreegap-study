@@ -10,7 +10,7 @@ intro_1: "Most Harrogate parents who reach us have done the work. The student is
 intro_2: "That is the gap a tutor closes. We match Harrogate families with one-to-one tutors who have walked dozens of students through the same AQA or Edexcel specification, know the difference between a 7 and a 9 in the way an examiner reads it, and can drill the technique that lifts the band. Every family speaks with a co-founder before any tutor is suggested. We would rather get the first match right than send three profiles and let the family work it out."
 about_heading: "Personalised GCSE and A-Level Tutoring for Harrogate Students"
 about_image: "/images/classical-library-books-and-busts.jpg"
-schools_intro: "Our Harrogate tutors work with students from Harrogate Grammar School, St Aidan's CE High School, Rossett School, St John Fisher Catholic High School, Harrogate Ladies' College and Ashville College. The schools are strong on paper and stronger in practice. What parents tell us most often is that a strong school does not, on its own, get a student over the top mark band. We also run revision and exam preparation workshops on request, for groups of students who want extra structure outside the classroom."
+schools_intro: "Our Harrogate tutors work with students from Harrogate Grammar School, St Aidan's CE High School, Rossett School, St John Fisher Catholic High School, Harrogate Ladies' College and Ashville College. The schools are strong on paper and stronger in practice. What parents tell us most often is that a strong school does not, on its own, close every gap a student is carrying. We also run revision and exam preparation workshops on request, for groups of students who want extra structure outside the classroom."
 schools: ["Harrogate Grammar School", "St Aidan's CE High School", "Rossett School", "St John Fisher Catholic High School", "Harrogate Ladies' College", "Ashville College"]
 schools_image: "/images/students-listening-in-classroom.jpg"
 online_heading: "How Harrogate students benefit from online tutoring"
@@ -21,7 +21,7 @@ map_url: "https://maps.google.com/maps?q=Harrogate,UK&output=embed"
 areas_intro: "Finding the right tutor matters more than finding the nearest one, which is why we support families across Harrogate and the wider Yorkshire region."
 area_links: ["Leeds Tutors|/locations/leeds-tutors/", "York Tutors|/locations/york-tutors/", "Manchester Tutors|/locations/manchester-tutors/", "Sheffield Tutors|/locations/sheffield-tutors/", "Liverpool Tutors|/locations/liverpool-tutors/", "Nottingham Tutors|/locations/nottingham-tutors/"]
 gcse_subjects: [
-  "GCSE Maths Tuition|Stretch tutoring across number, algebra and statistics for Harrogate Grammar and St Aidan's students aiming at grade 8 and 9.|/book-a-call/",
+  "GCSE Maths Tuition|Stretch tutoring across number, algebra and statistics for Harrogate Grammar and St Aidan's students across the whole mark band, from foundation work to top-grade stretch.|/book-a-call/",
   "GCSE English Tuition|Sharper analytical writing for Language and Literature, with feedback that builds towards top-band essay technique.|/book-a-call/",
   "GCSE Biology Tuition|Tight work across required practicals and long-answer questions where ambitious students separate themselves.|/book-a-call/",
   "GCSE Chemistry Tuition|Drill on the moles questions, equations and rates that decide top grades at GCSE.|/book-a-call/",
@@ -34,11 +34,11 @@ gcse_subjects: [
 alevel_subjects: [
   "A-Level Maths Tuition|Pure, Mechanics and Statistics depth, with the structured proof work that separates an A from an A*.|/book-a-call/",
   "A-Level Chemistry Tuition|Mechanisms, calculations and multi-step organic synthesis problems where ambitious students need precision.|/book-a-call/",
-  "A-Level Biology Tuition|Mastery of the synoptic questions and required practicals that decide the top mark band at A-Level.|/book-a-call/",
+  "A-Level Biology Tuition|Synoptic questions and required practicals, broken down at whatever level the student is sitting at.|/book-a-call/",
   "A-Level Physics Tuition|Problem-solving structure and the deep conceptual understanding that turns a B into an A* in Mechanics and Fields.|/book-a-call/",
   "A-Level Economics Tuition|Diagram precision and the evaluation chains that separate a B-grade essay from an A-grade one.|/book-a-call/",
   "A-Level Psychology Tuition|Tight AO3 evaluation chains and the synoptic essay structure that lifts students into the top band.|/book-a-call/",
-  "A-Level English Tuition|Critical reading and the comparative essay structure that decide top mark bands at A-Level.|/book-a-call/",
+  "A-Level English Tuition|Critical reading and the comparative essay structure, sharpened at whatever level the student is sitting at.|/book-a-call/",
   "A-Level History Tuition|Source analysis and the 25-mark essay, where most students lose marks they could keep with the right technique.|/book-a-call/",
   "A-Level Geography Tuition|Case studies, synoptic links and the 20-mark essay technique for students aiming at A* and A grades.|/book-a-call/",
 ]
@@ -56,7 +56,7 @@ faq_4_a: "Grades slipping despite effort. Confidence dropping. Putting the work 
 why_heading: "Why Harrogate families choose The Degree Gap"
 why_para_1: "Most Harrogate parents describe the same situation in a first conversation. The student is bright. The school is good. The grade is solid but solid is not what was hoped for. What tutors find inside the first session is usually a depth gap, not a content one. The student can answer a four-mark question well. The page-long evaluation question is where the marks are slipping. That difference is not really taught inside a class of thirty."
 why_para_2: "What the tutor does in week one is sit the student through a recent past paper and mark it the way an examiner would. From there the sessions focus on the longer questions and the structure that decides band 5 from band 6 marking. A weekly hour with a tutor who knows the spec tends to shift the predicted grade within a half term."
-accordion_quality: "Every tutor in our network is a graduate, vetted on subject knowledge and how clearly they explain a difficult idea under pressure. Only about three percent of applicants pass the founder-led interview. For Harrogate students aiming at the top of the grade scale, that bar matters more than where the tutor lives."
+accordion_quality: "Every tutor in our network is a graduate, vetted on subject knowledge and how clearly they explain a difficult idea under pressure. Only about three percent of applicants pass the founder-led interview. For Harrogate students working at every level of GCSE and A-Level, that bar matters more than where the tutor lives."
 accordion_experience: "Our Harrogate tutors have years of one-to-one experience across GCSE and A-Level specifications, and many are qualified examiners. The students they have walked through AQA, Edexcel and OCR papers are now sitting the same exams yours will be."
 accordion_personalised: "One Harrogate student might need stretch work in A-Level Maths above the syllabus pace. Another might be a strong predicted A in Psychology stuck on AO3 evaluation. The tutor builds the plan around the gap that actually matters, not the topic that comes next in the textbook."
 reviews: [

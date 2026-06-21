@@ -71,14 +71,13 @@ gcse_subjects:
     calm conditions at
     home.|/book-a-call/
   - GCSE Maths Tuition|Stretch tutoring across number, algebra and statistics
-    for students who want the grade 8 and 9 mark bands within
-    reach.|/book-a-call/
+    across the whole mark band.|/book-a-call/
   - GCSE Biology Tuition|Detailed work across the full specification for
     students who want to walk into the exam confident on the harder six and
     nine-mark
     questions.|/book-a-call/
   - GCSE History Tuition|Source skills, essay structure and extended argument,
-    taught by tutors who know what the top mark bands actually
+    taught by tutors who pitch sessions at whatever level the student is sitting at
     reward.|/book-a-call/
   - GCSE Computer Science Tuition|One-to-one work through programming,
     algorithms and Boolean logic for students who want both NEA and written
@@ -119,15 +118,14 @@ alevel_subjects:
     fields and quantum topics for students aiming at engineering or physics at a
     top university.|/book-a-call/
   - A-Level History Tuition|Help with the analytical essay writing A-Level
-    History demands, for students aiming at top mark bands and history-led
+    History demands, for students who want to write essays that hold up under timing, alongside history-led
     university
     applications.|/book-a-call/
   - A-Level Psychology Tuition|Methodical work through research methods and
     evaluation writing for students who want to write with precision, not just
     at length.|/book-a-call/
   - A-Level Geography Tuition|Advanced concept work, fieldwork analysis and
-    extended writing, with tutors who know what the top mark bands are looking
-    for.|/book-a-call/
+    extended writing, with tutors who pitch sessions at whatever level the student is sitting at.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with
     expert support on structure, subject motivation, and final

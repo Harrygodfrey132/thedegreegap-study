@@ -6,7 +6,7 @@ location: "Derby"
 level: "A-Level"
 grade_from: "E"
 grade_to: "C"
-grade_stat: "Joanna's son turned E and U grades into three C grades after A-Level tutoring through Year 13."
+grade_stat: "A real Year 13 A-Level jump from E and U grades into three C grades after one-to-one tutoring."
 
 hero_heading_line1: "Derby A-Level Tutors Who Close the Mock-to-UCAS Gap"
 hero_heading_line2: ""

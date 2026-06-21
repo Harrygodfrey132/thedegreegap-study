@@ -130,7 +130,7 @@ alevel_subjects:
     understanding and answering wider than it should
     be.|/book-a-call/
   - A-Level Geography Tuition|Advanced concept work, fieldwork analysis and
-    extended writing, with tutors who know what the top mark bands actually want
+    extended writing, with tutors who pitch sessions at whatever level the student is sitting at
     to see.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with

@@ -113,7 +113,7 @@ alevel_subjects:
     where students end up in the grade
     boundaries.|/book-a-call/
   - A-Level Geography Tuition|Advanced concepts, fieldwork analysis and extended
-    writing supported by tutors who know what the top mark bands actually
+    writing supported by tutors who pitch sessions at whatever level the student is sitting at
     require.|/book-a-call/
   - A-Level Chemistry Tuition|In-depth guidance through organic, inorganic and
     physical chemistry for students who need the concepts explained clearly, not

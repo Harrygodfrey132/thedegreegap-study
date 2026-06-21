@@ -121,7 +121,7 @@ alevel_subjects:
     for the top
     grades.|/book-a-call/
   - A-Level Geography Tuition|Advanced geographical analysis and extended
-    writing support, with tutors who know what top mark bands require and how to
+    writing support, with tutors who pitch sessions at whatever level the student is sitting at, and know how to
     get students
     there.|/book-a-call/
   - A-Level English Tuition|Critical analysis and essay writing support that

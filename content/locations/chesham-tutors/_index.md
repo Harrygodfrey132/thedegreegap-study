@@ -33,10 +33,10 @@ area_links:
   - Milton Keynes Tutors|/locations/milton-keynes-tutors/
   - Oxford Tutors|/locations/oxford-tutors/
 gcse_subjects:
-  - GCSE Maths Tuition|Stretch tutoring across number, algebra and statistics for grammar school students aiming at grade 8 and 9.|/book-a-call/
-  - GCSE English Tuition|Sharp tutoring across Language and Literature, with the exam-timed essay technique that decides the top mark band.|/book-a-call/
+  - GCSE Maths Tuition|Stretch tutoring across number, algebra and statistics for grammar school students across the whole mark band, from foundation work to top-grade stretch.|/book-a-call/
+  - GCSE English Tuition|Sharp tutoring across Language and Literature, with the exam-timed essay technique that rewards a tighter answer.|/book-a-call/
   - GCSE Biology Tuition|Detailed work across the full specification for students aiming at confident sixth form Biology.|/book-a-call/
-  - GCSE Chemistry Tuition|One-to-one work through bonding, equations and rates of reaction for students aiming at the top of the mark scheme.|/book-a-call/
+  - GCSE Chemistry Tuition|One-to-one work through bonding, equations and rates of reaction broken down at whatever level the student is sitting at.|/book-a-call/
   - GCSE Physics Tuition|Forces, waves and electromagnetism, built around the application questions that decide the top grades.|/book-a-call/
   - GCSE History Tuition|Source skills, essay structure and extended argument, taught by tutors who know what a grade 9 history answer actually looks like.|/book-a-call/
   - GCSE Geography Tuition|Case study revision, data response and nine-mark question technique, anchored to what the mark scheme actually rewards.|/book-a-call/
@@ -49,9 +49,9 @@ alevel_subjects:
   - A-Level Physics Tuition|Mechanics, fields and quantum topics, taught by tutors with engineering and physics backgrounds at Russell Group level.|/book-a-call/
   - A-Level Economics Tuition|Micro, macro and evaluation writing for students who want Economics to be the strongest part of their UCAS application.|/book-a-call/
   - A-Level Psychology Tuition|Methodical work through research methods and AO3 evaluation writing for students who want to write with precision, not just at length.|/book-a-call/
-  - A-Level History Tuition|Analytical essay writing at A-Level, for students aiming at top mark bands and history-led university applications.|/book-a-call/
+  - A-Level History Tuition|Analytical essay writing at A-Level, for students who want to write essays that hold up under timing, alongside history-led university applications.|/book-a-call/
   - A-Level English Tuition|Critical analysis and comparative essay structure at A-Level, taught by tutors who've marked these papers.|/book-a-call/
-  - A-Level Geography Tuition|Advanced concept work, fieldwork analysis and extended writing, with tutors who know what the top mark bands are looking for.|/book-a-call/
+  - A-Level Geography Tuition|Advanced concept work, fieldwork analysis and extended writing, with tutors who can pitch sessions at wherever the student is currently sitting.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with expert support on structure, subject motivation, and final polish.|/book-a-call/
 faq_1_q: "Do you support students aiming for grammar schools in Chesham?"
@@ -64,7 +64,7 @@ faq_4_q: "Is one-to-one tutoring better than group sessions?"
 faq_4_a: "For most students, yes. The whole session is about them. Their gaps, their questions, their pace. No waiting for others to catch up. For students in Chesham who struggle to ask questions in front of others, it's often the thing that changes everything."
 why_heading: "Why Chesham families come to The Degree Gap"
 why_para_1: "Two kinds of Chesham student arrive at their first session. The first is a grammar school student doing fine on paper but stuck at a grade band below their potential, usually because the school's pace assumes a level of independent study time they haven't built yet. The second is a non-selective student who's been told the top grades are a stretch, when actually the content is there but the exam technique isn't. Both are familiar. Both are fixable."
-why_para_2: "What changes is the focus. For the first student, sessions push past the textbook into the analytical depth the top mark band demands. For the second, sessions go straight into past papers, marked the way the exam board marks, so the student can see precisely where the marks are. Most parents tell us the first thing they notice isn't the grade. It's the way their child talks about a mark scheme."
+why_para_2: "What changes is the focus. For the first student, sessions push past the textbook into the analytical depth A-Level papers reward. For the second, sessions go straight into past papers, marked the way the exam board marks, so the student can see precisely where the marks are. Most parents tell us the first thing they notice isn't the grade. It's the way their child talks about a mark scheme."
 accordion_quality: "Every tutor working with Chesham students is assessed on subject depth and on exam-board fluency. For grammar and competitive sixth form tuition, a tutor who knows the AQA, Edexcel or OCR mark scheme cold is worth ten generally-good teachers."
 accordion_experience: "Our tutors have prepared students for the Buckinghamshire Transfer Test, grammar school sixth form entry, Russell Group applications and Oxbridge offers. They know what the standard at Chesham Grammar and the Challoner schools actually looks like at A-Level, and how to coach a student towards it without burning them out."
 accordion_personalised: "We don't run set programmes. For a Chesham student, tuition is shaped around their specific test, exam board or target grade, with sessions that stretch the student precisely where the next mark band sits."

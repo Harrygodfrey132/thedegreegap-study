@@ -21,7 +21,7 @@ map_url: "https://maps.google.com/maps?q=Guildford,UK&output=embed"
 areas_intro: "Finding the right tutor matters more than finding the nearest one, which is why we support families across Guildford and the wider Surrey region."
 area_links: ["Epsom Tutors|/locations/epsom-tutors/", "Reading Tutors|/locations/reading-tutors/", "Brighton Tutors|/locations/brighton-tutors/", "Winchester Tutors|/locations/winchester-tutors/", "Tunbridge Wells Tutors|/locations/tunbridge-wells-tutors/", "Oxford Tutors|/locations/oxford-tutors/"]
 gcse_subjects: [
-  "GCSE Maths Tuition|Stretch work across number, algebra and statistics for RGS, Guildford High and George Abbot students aiming at grade 8 and 9.|/book-a-call/",
+  "GCSE Maths Tuition|Stretch work across number, algebra and statistics for RGS, Guildford High and George Abbot students across the whole mark band, from foundation work to top-grade stretch.|/book-a-call/",
   "GCSE Chemistry Tuition|Drill on moles questions, equations and bonding diagrams that decide top grades at GCSE.|/book-a-call/",
   "GCSE Biology Tuition|Tight coverage of required practicals and long-answer questions where ambitious students separate themselves.|/book-a-call/",
   "GCSE English Tuition|Sharp analytical writing across Language and Literature, taught to the standard top sixth forms expect.|/book-a-call/",
@@ -34,11 +34,11 @@ gcse_subjects: [
 alevel_subjects: [
   "A-Level Chemistry Tuition|Mechanisms, calculations and multi-step organic synthesis problems where ambitious students need precision.|/book-a-call/",
   "A-Level Maths Tuition|Pure, Mechanics and Statistics depth, with the structured proof work that separates an A from an A*.|/book-a-call/",
-  "A-Level Biology Tuition|Mastery of synoptic questions and required practicals that decide the top mark band at A-Level.|/book-a-call/",
+  "A-Level Biology Tuition|Synoptic questions and required practicals, broken down at whatever level the student is sitting at.|/book-a-call/",
   "A-Level Physics Tuition|Problem-solving structure and the deep conceptual understanding that turns a B into an A* in Mechanics and Fields.|/book-a-call/",
   "A-Level Economics Tuition|Diagram precision and the evaluation chains that separate a B-grade essay from an A-grade one.|/book-a-call/",
   "A-Level Psychology Tuition|Tight AO3 evaluation chains and the synoptic essay structure that lift students into the top band.|/book-a-call/",
-  "A-Level English Tuition|Critical reading and comparative essay structure that decide top mark bands at A-Level.|/book-a-call/",
+  "A-Level English Tuition|Critical reading and comparative essay structure, sharpened at whatever level the student is sitting at.|/book-a-call/",
   "A-Level History Tuition|Source analysis and the 25-mark essay, where most students lose marks they could keep with the right technique.|/book-a-call/",
   "A-Level Geography Tuition|Case studies, synoptic links and the 20-mark essay technique for students aiming at A* and A grades.|/book-a-call/",
 ]
@@ -56,7 +56,7 @@ faq_4_a: "Yes, within reason. Tutors help students understand what is being aske
 why_heading: "Why Guildford families choose The Degree Gap for tutoring"
 why_para_1: "Royal Grammar School Guildford and Guildford High admit a couple of hundred Year 7s each between them, drawn from the brightest applicant pools in Surrey. By Year 10, the curriculum is being taught at a pace that already assumes top-band technique. What tutors find in a first session, more often than not, is that the gap is not knowledge. It is the difference between a strong answer and an A* answer, which is a specific structural habit the student has not been shown how to build."
 why_para_2: "What changes in week one is how the work gets marked. The tutor walks the student through a recent paper the way an examiner would, then drills the technique on the questions where the marks went. From there, sessions focus on the depth that decides 8 from 9 at GCSE, or A from A* at A-Level. The shift in confidence usually shows up first. The grade follows inside a half term."
-accordion_quality: "Every tutor in our network is a graduate, many from Russell Group universities, and only about three percent of applicants pass the founder-led interview. For RGS, Guildford High and George Abbot students aiming at the top of the grade scale, that bar matters more than postcode."
+accordion_quality: "Every tutor in our network is a graduate, many from Russell Group universities, and only about three percent of applicants pass the founder-led interview. For RGS, Guildford High and George Abbot students working at every level of GCSE and A-Level, that bar matters more than postcode."
 accordion_experience: "Our Guildford tutors have years of one-to-one experience across GCSE and A-Level specifications. Many are qualified examiners. The mark schemes they have spent years inside are the same ones your child's papers will be marked against."
 accordion_personalised: "Some Guildford students need stretch work above and beyond the syllabus. Others need a specific evaluation technique drilled until it is automatic. The tutor reads where the student is and builds the plan around the gap that actually matters."
 reviews: [

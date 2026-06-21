@@ -11,7 +11,7 @@ hero_lead: "By the time most Baldock parents reach us, the school report still s
 
 grade_from: "5"
 grade_to: "7"
-grade_stat: "A real GCSE English grade jump from a Year 10 Baldock student we worked with, after six months of weekly one-to-one tutoring."
+grade_stat: "A real GCSE English grade jump from a Year 10 student we worked with, after six months of weekly one-to-one tutoring."
 
 first_lesson_eyebrow: "A BALDOCK YEAR 11 STORY"
 first_lesson_heading: "What a Baldock GCSE Tutor Reads in Year 10 Mock Papers"

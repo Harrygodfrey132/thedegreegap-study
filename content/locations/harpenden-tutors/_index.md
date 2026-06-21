@@ -34,12 +34,12 @@ area_links:
   - Watford Tutors|/locations/watford-tutors/
 gcse_subjects:
   - GCSE Maths Tuition|Advanced problem solving across algebra, geometry and statistics for students pushing towards the top grade boundaries.|/book-a-call/
-  - GCSE English Tuition|Critical analysis, comparative essay structure and unseen prose, taught for the top mark band, not the average.|/book-a-call/
+  - GCSE English Tuition|Critical analysis, comparative essay structure and unseen prose, taught for every level of the mark band, not the average.|/book-a-call/
   - GCSE Biology Tuition|Detailed work across the full specification for students who want the six and nine-mark questions to land at the top.|/book-a-call/
-  - GCSE Chemistry Tuition|Precise tutoring through bonding, equations and rates of reaction for students aiming at the top end of the mark scheme.|/book-a-call/
+  - GCSE Chemistry Tuition|Precise tutoring through bonding, equations and rates of reaction broken down at whatever level the student is sitting at.|/book-a-call/
   - GCSE Physics Tuition|Forces, fields and electromagnetism, built around the application questions that separate a 7 from a 9.|/book-a-call/
   - GCSE History Tuition|Source skills and extended argument, taught by tutors who know what a grade 9 history answer actually looks like.|/book-a-call/
-  - GCSE Geography Tuition|Case study revision, data response and nine-mark question technique, anchored to what the top mark band actually rewards.|/book-a-call/
+  - GCSE Geography Tuition|Case study revision, data response and nine-mark question technique, anchored to what the mark scheme actually rewards.|/book-a-call/
   - GCSE French Tuition|All four skills, with the speaking and writing prep where the top marks for Harpenden students are decided.|/book-a-call/
   - GCSE Computer Science Tuition|Programming, algorithms and Boolean logic for students who want both the NEA and the written paper to land at the top end.|/book-a-call/
 alevel_subjects:
@@ -49,7 +49,7 @@ alevel_subjects:
   - A-Level Physics Tuition|Mechanics, fields and quantum topics, taught by tutors with engineering and physics backgrounds at Russell Group level.|/book-a-call/
   - A-Level Economics Tuition|Micro, macro and evaluation writing for students who want Economics to be the strongest part of their UCAS application.|/book-a-call/
   - A-Level Psychology Tuition|Research methods and AO3 evaluation writing for students who want to write precisely under timed conditions.|/book-a-call/
-  - A-Level History Tuition|Analytical essay writing at A-Level, taught by tutors who know what the top mark bands demand.|/book-a-call/
+  - A-Level History Tuition|Analytical essay writing at A-Level, taught by tutors who pitch sessions at whatever level the student is sitting at.|/book-a-call/
   - A-Level English Tuition|Critical analysis and comparative essay structure, taught by tutors who've marked these papers themselves.|/book-a-call/
   - A-Level Geography Tuition|Concept work, fieldwork analysis and extended writing for students pushing past an A into an A*.|/book-a-call/
 other_subjects:
@@ -65,7 +65,7 @@ faq_4_a: "Yes. We have a conversation first to understand what the student needs
 why_heading: "Tutoring that stretches Harpenden students past the class pace"
 why_para_1: "Most Harpenden parents describe the same situation in a first conversation. A bright child, a good school, a teacher who's said nothing's wrong. But the grade has been a 7 for two terms, and they're expecting a 9, and the gap between what a class of 30 can be pushed to and what their child is capable of has stopped looking like nothing. Our tutors don't usually find a content problem. They find a stretch problem, the harder questions the curriculum has skimmed past, the AO3 marks no one's broken down, the kind of analytical precision the top of the mark band actually rewards."
 why_para_2: "Sessions are built around that. Past papers, marked the way the exam board marks. Worked examples on the application questions a school class doesn't have time for. Essay-by-essay work on structure that holds up under a 45-minute clock, not just at home with no clock running. Most parents tell us the first thing they notice isn't the grade. It's the way their child starts talking about a mark scheme, suddenly precise instead of vague."
-accordion_quality: "Every tutor working with Harpenden students is assessed on subject depth and on exam-board fluency. For stretch tutoring at the top of the GCSE and A-Level mark bands, a tutor who knows the AQA, Edexcel or OCR mark scheme cold is worth ten generally-good teachers."
+accordion_quality: "Every tutor working with Harpenden students is assessed on subject depth and on exam-board fluency. For GCSE and A-Level tutoring at any level, a tutor who knows the AQA, Edexcel or OCR mark scheme cold is worth ten generally-good teachers."
 accordion_experience: "Our tutors have prepared students for Russell Group and Oxbridge offers, Medicine, Engineering and the kind of UCAS applications Harpenden families tend to be working towards. They know what those courses expect and how to coach a student towards it without burning them out."
 accordion_personalised: "We don't run set programmes. For a Harpenden student, tuition stretches the student precisely where the next mark band sits, on the specific topics and question types the class hasn't had time to push hard on."
 reviews:

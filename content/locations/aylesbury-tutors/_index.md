@@ -70,7 +70,7 @@ area_links:
   - Peterborough Tutors|/locations/peterborough-tutors/
 gcse_subjects:
   - GCSE Maths Tuition|Stretch tutoring across number, algebra and statistics
-    for grammar school students aiming at grade 8 and 9, and non-selective
+    for grammar school students across the whole mark band, from foundation work to top-grade stretch, and non-selective
     students working hard to close the
     gap.|/book-a-call/
   - GCSE English Tuition|Sharp tutoring across Language and Literature for
@@ -81,8 +81,7 @@ gcse_subjects:
     nine-mark
     questions.|/book-a-call/
   - GCSE Chemistry Tuition|Precise one-to-one work through bonding, equations
-    and rates of reaction for students aiming at the top of the mark
-    scheme.|/book-a-call/
+    and rates of reaction broken down at whatever level the student is sitting at.|/book-a-call/
   - GCSE Physics Tuition|Tutoring through forces, waves and electromagnetism
     built around the application questions that decide the top
     grades.|/book-a-call/
@@ -125,12 +124,11 @@ alevel_subjects:
     evaluation writing for students who want to write with precision, not just
     at length.|/book-a-call/
   - A-Level History Tuition|Help with the analytical essay writing A-Level
-    History demands, for students aiming at top mark bands and history-led
+    History demands, for students who want to write essays that hold up under timing, alongside history-led
     university
     applications.|/book-a-call/
   - A-Level Geography Tuition|Advanced concept work, fieldwork analysis and
-    extended writing, with tutors who know what the top mark bands are looking
-    for.|/book-a-call/
+    extended writing, with tutors who pitch sessions at whatever level the student is sitting at.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with
     expert support on structure, subject motivation, and final

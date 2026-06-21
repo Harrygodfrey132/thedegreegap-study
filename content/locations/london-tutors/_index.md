@@ -50,7 +50,7 @@ alevel_subjects:
   - A-Level Economics Tuition|Micro, macro and evaluation writing for students who want Economics to be the strongest part of their UCAS application.|/book-a-call/
   - A-Level Psychology Tuition|Research methods and AO3 evaluation writing for students who want to write precisely under timed conditions.|/book-a-call/
   - A-Level English Tuition|Critical analysis, comparative essay structure and unseen prose, taught by tutors who've marked these papers.|/book-a-call/
-  - A-Level History Tuition|Analytical essay writing at A-Level for students aiming at the top mark bands and history-led university applications.|/book-a-call/
+  - A-Level History Tuition|Analytical essay writing at A-Level for students working at every levels and history-led university applications.|/book-a-call/
   - A-Level Geography Tuition|Concept work, fieldwork analysis and extended writing for students pushing past a B into an A or A*.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with expert support on structure, subject motivation, and final polish.|/book-a-call/

@@ -112,7 +112,7 @@ alevel_subjects:
     builds on from the first
     week.|/book-a-call/
   - A-Level History Tuition|Essay technique and argument-building support for
-    students aiming to reach the top mark bands and stop leaving marks behind on
+    students aiming to stop leaving marks behind on
     analysis
     questions.|/book-a-call/
   - A-Level Geography Tuition|Structured help connecting fieldwork, case studies

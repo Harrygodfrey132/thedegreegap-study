@@ -24,7 +24,7 @@ intro_2: Our Watford tutors fill that gap. One-to-one tuition gives students the
   that means stretching beyond what the classroom can pace. For students at
   non-selective schools aiming high anyway, it means proving that capability
   with the grades to back it up. We match each family with a tutor who knows the
-  exam board and knows what top mark band answers look like.
+  exam board and knows what a strong answer looks like.
 about_heading: GCSE and A-Level Tutors Covering Watford
 about_image: /images/group-study-discussion-with-laptop.jpg
 schools_intro: Our tutors support students from secondary schools right across
@@ -69,7 +69,7 @@ area_links:
   - Epsom Tutors|/locations/epsom-tutors/
 gcse_subjects:
   - GCSE Maths Tuition|Stretch tutoring across number, algebra and statistics
-    for students who want the grade 8 and 9 mark bands within reach, not just a
+    across the whole mark band, not just a
     comfortable pass.|/book-a-call/
   - GCSE Biology Tuition|Detailed work across the full specification for
     students who want to walk into the exam confident on the harder six and
@@ -79,8 +79,7 @@ gcse_subjects:
     students who want a method that holds up under exam timing, not just in calm
     conditions at home.|/book-a-call/
   - GCSE Chemistry Tuition|Precise one-to-one work through bonding, equations
-    and rates for students aiming at the top of the mark
-    scheme.|/book-a-call/
+    and rates broken down at whatever level the student is sitting at.|/book-a-call/
   - GCSE Physics Tuition|Tutoring through forces, waves and electromagnetism
     built around the application questions that decide the highest
     grades.|/book-a-call/
@@ -122,12 +121,11 @@ alevel_subjects:
     taught by tutors who know what markers reward at the top end of the mark
     scheme.|/book-a-call/
   - A-Level History Tuition|Help with the analytical essay writing A-Level
-    History demands, for students aiming at top mark bands and history-led
+    History demands, for students who want to write essays that hold up under timing, alongside history-led
     university
     applications.|/book-a-call/
   - A-Level Geography Tuition|Advanced concept work, fieldwork analysis and
-    extended writing, with tutors who know what the top mark bands are looking
-    for.|/book-a-call/
+    extended writing, with tutors who pitch sessions at whatever level the student is sitting at.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with
     expert support on structure, subject motivation, and final
@@ -156,7 +154,7 @@ why_para_1: Watford's two grammar schools each take around 175 Year 7s a year on
   years working twice as hard to prove the test wasn't the end of the story.
   Watford tutors see both ends of that pattern in a first session, and the work
   isn't usually about content. It's about confidence, pace, and the small
-  technical moves that actually decide the top mark band answers.
+  technical moves that actually reward a tighter answer answers.
 why_para_2: Our tutors give those students the missing layer. Sessions often
   open with a recent piece of work, marked the way the exam board marks, so the
   student sees exactly where the marks are being left untaken. GCSE tutoring

@@ -8,7 +8,7 @@ location: Wolverhampton
 banner_heading: Wolverhampton tutors who treat ambition as the starting point, not the ceiling
 banner_description: The Degree Gap pairs Wolverhampton students with tutors who
   teach to the top of the mark scheme, not the comfortable middle, and know
-  exactly what grade 8 and 9 answers do differently.
+  exactly what the longer-mark questions reward.
 content_angle: ambition
 intro_1: Wolverhampton has a strong, mixed school system, from the independent
   Wolverhampton Grammar School, founded in 1512, through to large state
@@ -108,7 +108,7 @@ alevel_subjects:
     ahead of medicine, dentistry or chemistry
     applications.|/book-a-call/
   - A-Level Biology Tuition|In-depth support through genetics, physiology and
-    ecology for students aiming at top grades for a competitive university
+    ecology for students aiming at a competitive university
     course.|/book-a-call/
   - A-Level Maths Tuition|Focused tutoring across pure, statistics and mechanics
     for students who want to stay ahead of Year 13 content before it stops being
@@ -126,8 +126,7 @@ alevel_subjects:
     taught by tutors who know what markers reward at the top end of the mark
     scheme.|/book-a-call/
   - A-Level Geography Tuition|Advanced concept work, fieldwork analysis and
-    extended writing, with tutors who know what the top mark bands are looking
-    for.|/book-a-call/
+    extended writing, with tutors who pitch sessions at whatever level the student is sitting at.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with
     expert support on structure, subject motivation, and final
@@ -159,7 +158,7 @@ why_para_1: Ambitious Wolverhampton students often arrive at their first
   and the difference between a competent paragraph and a grade 9 paragraph is
   far smaller than students realise.
 why_para_2: Our tutors close that distance. The first few sessions usually focus
-  on what the top mark bands actually reward, the question structures examiners
+  on what the mark schemes actually reward, the question structures examiners
   are looking for and the small technical moves that lift answers into the
   highest grades. For students sitting Wolverhampton Grammar exams, applying for
   medicine, or aiming at a Russell Group, our GCSE tutoring and A-Level tuition

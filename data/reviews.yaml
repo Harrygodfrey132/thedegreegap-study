@@ -48,3 +48,27 @@
 - name: Jessica
   role: GCSE Student
   text: I was helped with both Maths and English for my GCSEs and passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree.
+- name: Nick
+  role: Parent of A-Level Student
+  text: Our son has been receiving tuition for Psychology A-Level. The tutor has provided a solid base of support outside of school lessons and helped him to improve his latest grades.
+- name: Joanna
+  role: Parent of A-Level Student
+  text: The A-Level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing.
+- name: Serena
+  role: A-Level Student
+  text: My tutor is a very intuitive and superb teacher. She listened to my specific concerns and bolstered my confidence in answering questions. She taught me how to think critically and helped me through this highly demanding course. I will happily recommend without a second thought.
+- name: Dan
+  role: A-Level Student
+  text: The Degree Gap really helped me get through my A-Levels and made a massive difference when helping me get into my first choice of university.
+- name: Alex
+  role: University Student
+  text: Cannot recommend The Degree Gap highly enough. Quick and helpful responses. I was immediately matched with a very competent tutor who was a massive help in helping me exceed my target grade and achieve a first class degree at university.
+- name: Kachi
+  role: University Student
+  text: My tutor transformed my performance in mathematical economics modules, taking me from a third class to a first. His patience and ability to adapt to my needs exceeded my expectations.
+- name: Tommy
+  role: University Student
+  text: I wish I had found The Degree Gap when I was sitting my school exams. They helped with my dissertation work and without their help I am not sure I would have graduated so successfully and landed a successful job.
+- name: Aila
+  role: University Applicant
+  text: My tutor was amazing. He helped me shape my personal statement into something I was truly proud of, and thanks to his support, I got into my dream university. Highly recommend to anyone applying to uni.

@@ -48,7 +48,7 @@ alevel_subjects:
   - A-Level Maths Tuition|Pure, statistics and mechanics tutoring for students who don't want Year 13 content to catch them out.|/book-a-call/
   - A-Level Physics Tuition|Mechanics, fields and quantum topics taught by tutors with engineering and physics backgrounds at Russell Group level.|/book-a-call/
   - A-Level Psychology Tuition|Research methods and AO3 evaluation writing for students who want to write precisely, not just at length.|/book-a-call/
-  - A-Level History Tuition|Source-based questions and analytical essay structure for students aiming at the top A-Level mark bands.|/book-a-call/
+  - A-Level History Tuition|Source-based questions and analytical essay structure for students working at every level of A-Level.|/book-a-call/
   - A-Level Economics Tuition|Micro, macro and evaluation writing, taught by tutors who know what the top of the mark band actually looks like.|/book-a-call/
   - A-Level English Tuition|Critical analysis, comparative essay structure and unseen prose, taught by tutors who've marked these papers.|/book-a-call/
   - A-Level Geography Tuition|Advanced concept work, fieldwork analysis and extended writing for students pushing past a B into an A.|/book-a-call/

@@ -33,10 +33,10 @@ area_links:
   - Epsom Tutors|/locations/epsom-tutors/
   - Winchester Tutors|/locations/winchester-tutors/
 gcse_subjects:
-  - GCSE Maths Tuition|Stretch tutoring across number, algebra and statistics for grammar school students aiming at the grade 8 and 9 mark bands.|/book-a-call/
+  - GCSE Maths Tuition|Stretch tutoring across number, algebra and statistics for grammar school students across the whole mark band, from foundation work to top-grade stretch.|/book-a-call/
   - GCSE English Tuition|Sharp tutoring across Language and Literature, with the exam-timed essay technique that decides where a Canterbury student lands.|/book-a-call/
   - GCSE Biology Tuition|Detailed work across the full specification for students confident on the easy marks but losing them on six and nine-mark questions.|/book-a-call/
-  - GCSE Chemistry Tuition|One-to-one work through bonding, equations and rates of reaction for students aiming at the top of the mark scheme.|/book-a-call/
+  - GCSE Chemistry Tuition|One-to-one work through bonding, equations and rates of reaction broken down at whatever level the student is sitting at.|/book-a-call/
   - GCSE Physics Tuition|Forces, waves and electromagnetism, built around the application questions that decide the top grades.|/book-a-call/
   - GCSE History Tuition|Source skills, essay structure and extended argument, taught by tutors who know what a grade 9 history answer actually looks like.|/book-a-call/
   - GCSE Geography Tuition|Case study revision and nine-mark question technique, anchored to what the mark scheme actually rewards.|/book-a-call/
@@ -48,7 +48,7 @@ alevel_subjects:
   - A-Level Maths Tuition|Pure, statistics and mechanics tutoring for students who want to stay ahead of Year 13 content before it becomes a problem.|/book-a-call/
   - A-Level Physics Tuition|Mechanics, fields and quantum topics, taught by tutors with engineering and physics backgrounds at Russell Group level.|/book-a-call/
   - A-Level English Tuition|Critical analysis and comparative essay structure at A-Level, taught by tutors who've marked these papers.|/book-a-call/
-  - A-Level History Tuition|Analytical essay writing for students aiming at top mark bands and history-led university applications.|/book-a-call/
+  - A-Level History Tuition|Analytical essay writing for students who want to write essays that hold up under timing, alongside history-led university applications.|/book-a-call/
   - A-Level Psychology Tuition|Research methods and AO3 evaluation writing for students who want to write with precision under timed conditions.|/book-a-call/
   - A-Level Economics Tuition|Micro, macro and evaluation writing for students who want Economics to be the strongest part of their UCAS application.|/book-a-call/
   - A-Level Geography Tuition|Advanced concept work, fieldwork analysis and extended writing for students pushing past a B into an A.|/book-a-call/

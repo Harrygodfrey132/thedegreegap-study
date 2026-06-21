@@ -38,7 +38,7 @@ alevel_subjects: [
   "A-Level Maths Tuition|Pure, Mechanics and Statistics depth, with focus on the GCSE algebra that quietly held students back in the first term.|/book-a-call/",
   "A-Level Physics Tuition|Problem-solving structure and the conceptual understanding that turns a B into an A in Mechanics and Fields.|/book-a-call/",
   "A-Level Economics Tuition|Diagram precision and the evaluation chains that separate a B-grade essay from an A-grade one.|/book-a-call/",
-  "A-Level English Tuition|Critical reading and comparative essay structure that decide top mark bands at A-Level.|/book-a-call/",
+  "A-Level English Tuition|Critical reading and comparative essay structure, sharpened at whatever level the student is sitting at.|/book-a-call/",
   "A-Level History Tuition|Source analysis and the 25-mark essay, where most students lose marks they could keep with the right technique.|/book-a-call/",
   "A-Level Geography Tuition|Case studies, synoptic links and the 20-mark essay technique for students aiming at A* and A grades.|/book-a-call/",
 ]

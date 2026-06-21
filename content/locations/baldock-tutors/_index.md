@@ -75,7 +75,7 @@ gcse_subjects:
   - GCSE Physics Tuition|Work on the multi-step problems and unit-conversion
     traps that catch even strong students at the top of the paper.|/book-a-call/
   - GCSE Biology Tuition|Tight coverage of the required practicals and the
-    long-answer questions where grade 8 and 9 students separate
+    long-answer questions where the longer questions decide
     themselves.|/book-a-call/
   - GCSE History Tuition|Structured essay coaching across the major exam boards,
     with focus on the 16-mark questions where top marks are won.|/book-a-call/
@@ -93,9 +93,9 @@ alevel_subjects:
   - A-Level Psychology Tuition|Tight AO3 evaluation chains and the synoptic
     essay structure that lift students into the top band.|/book-a-call/
   - A-Level Biology Tuition|Mastery of the synoptic questions and required
-    practicals that decide the top mark band at A-Level.|/book-a-call/
+    practicals that reward a tighter answer at A-Level.|/book-a-call/
   - A-Level English Tuition|Critical reading and the comparative essay structure
-    that decide the top mark bands at A-Level.|/book-a-call/
+    that reward a tighter answers at A-Level.|/book-a-call/
   - A-Level Chemistry Tuition|Mechanisms, calculations and the multi-step
     organic synthesis problems where ambitious students need
     precision.|/book-a-call/
@@ -145,7 +145,7 @@ why_para_2: What the tutor actually does in week one is sit the student through
 accordion_quality: Every tutor in our network is a graduate, many from Russell
   Group universities, vetted for how clearly they explain a difficult idea
   under pressure, not just their degree result. For Baldock students aiming at
-  the top mark band, that quality matters more than where the tutor lives. The
+  that quality matters more than where the tutor lives. The
   right tutor on Edexcel A-Level Chemistry beats the closest one with a
   generalist subject background, every time.
 accordion_experience: Our Baldock tutors have years of one-to-one experience

@@ -49,7 +49,7 @@ alevel_subjects:
   - A-Level Physics Tuition|Mechanics, fields and quantum topics taught by tutors with engineering and physics backgrounds at Russell Group level.|/book-a-call/
   - A-Level Economics Tuition|Micro, macro and evaluation writing for students who want the AO3 marks the mark scheme really rewards.|/book-a-call/
   - A-Level Psychology Tuition|Research methods and evaluation writing for students who want to write precisely under timed conditions.|/book-a-call/
-  - A-Level History Tuition|Analytical essay writing at A-Level, with the structure shift from a strong GCSE answer to a top mark band one.|/book-a-call/
+  - A-Level History Tuition|Analytical essay writing at A-Level, with the structure shift from a strong GCSE answer to an A-Level one.|/book-a-call/
   - A-Level English Tuition|Critical analysis and comparative essay structure at A-Level, taught by tutors who've marked these papers.|/book-a-call/
   - A-Level Geography Tuition|Concept work, fieldwork analysis and extended writing for students pushing past a B into an A.|/book-a-call/
 other_subjects:

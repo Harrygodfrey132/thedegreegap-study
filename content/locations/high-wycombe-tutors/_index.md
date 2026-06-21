@@ -7,7 +7,7 @@ banner_heading: "High Wycombe tutors for the 11+, GCSE and A-Level grades the gr
 banner_description: "Our High Wycombe tutors prepare students for the Buckinghamshire 11+ and the GCSE and A-Level standard the local grammar sixth forms are built around."
 content_angle: "ambition / competitive sixth form entry"
 intro_1: "High Wycombe sits inside one of the last fully selective grammar systems in England. The Royal Grammar School and John Hampden take boys after the 11+. Wycombe High takes girls. Three sixth forms running A-Levels at a standard that, in any given year, produces dozens of Russell Group and Oxbridge offers. That's a lot for a fifteen-year-old to be working alongside, and a lot for a parent to hold steady against, whether the child sat the 11+ or didn't."
-intro_2: "Our High Wycombe tutors work with students on every side of that pressure. For grammar school students, that means keeping pace at A-Level when the cohort is already two years ahead of national averages and the teacher's pace assumes it. For students at the local non-selective schools, it means making sure ambition doesn't get capped by a class working towards a different ceiling. And for Year 5 and 6 families thinking about the 11+, it means proper preparation in verbal reasoning, non-verbal reasoning, English and Maths, well before the test."
+intro_2: "Our High Wycombe tutors work with students on every side of that pressure. For grammar school students, that means keeping pace at GCSE and A-Level when the cohort is already two years ahead of national averages and the teacher's pace assumes it. For students at the local non-selective schools, it means making sure ambition doesn't get capped by a class working towards a different ceiling. And for Year 5 and 6 families thinking about the 11+, it means proper preparation in verbal reasoning, non-verbal reasoning, English and Maths, well before the test."
 about_heading: "Experienced GCSE and A-Level Tutors in High Wycombe"
 about_image: /images/university-lecture-hall.jpg
 schools_intro: "Our tutors support students from the full range of High Wycombe secondary schools. The Royal Grammar School, John Hampden Grammar School, Wycombe High School, Sir William Borlase's Grammar School, Cressex Community School and The Misbourne all send students our way, whether they're preparing for the 11+, working at the top of the GCSE mark band, or pushing for the A-Level grades a competitive Russell Group offer demands. We also run free workshops on revision strategy and exam technique, open to students from any local school."
@@ -33,8 +33,8 @@ area_links:
   - Milton Keynes Tutors|/locations/milton-keynes-tutors/
   - Hemel Hempstead Tutors|/locations/hemel-hempstead-tutors/
 gcse_subjects:
-  - GCSE Maths Tuition|Stretch tutoring across algebra, geometry and statistics for grammar school students aiming at the grade 8 and 9 mark bands.|/book-a-call/
-  - GCSE Biology Tuition|Full-specification work for students preparing for the top mark band and the synoptic content that decides it.|/book-a-call/
+  - GCSE Maths Tuition|Stretch tutoring across algebra, geometry and statistics for grammar school students across the whole mark band, from foundation work to top-grade stretch.|/book-a-call/
+  - GCSE Biology Tuition|Full-specification work for students preparing for every level of the mark band and the synoptic content that decides it.|/book-a-call/
   - GCSE Chemistry Tuition|Precise tutoring through bonding, equations and rates of reaction for students who want the harder questions to land.|/book-a-call/
   - GCSE Physics Tuition|Forces, fields and electromagnetism, built around the application questions that separate a 7 from a 9.|/book-a-call/
   - GCSE English Tuition|Critical analysis, comparative essay structure and exam timing for students aiming high in Language and Literature.|/book-a-call/
@@ -49,7 +49,7 @@ alevel_subjects:
   - A-Level Biology Tuition|In-depth tutoring through genetics, physiology and ecology for students aiming at competitive bioscience or medical school offers.|/book-a-call/
   - A-Level Economics Tuition|Micro, macro and evaluation writing for students who want Economics to be the strongest part of their UCAS application.|/book-a-call/
   - A-Level Psychology Tuition|Research methods and AO3 evaluation writing for students who want to write with precision, not just at length.|/book-a-call/
-  - A-Level History Tuition|Analytical essay writing at A-Level, taught by tutors who know what the top mark bands at Wycombe sixth forms demand.|/book-a-call/
+  - A-Level History Tuition|Analytical essay writing at A-Level, taught by tutors who pitch sessions at whatever level the student is sitting at.|/book-a-call/
   - A-Level English Tuition|Comparative critical analysis and unseen prose, taught by tutors who've marked these papers themselves.|/book-a-call/
   - A-Level Geography Tuition|Concept work, fieldwork analysis and extended writing for students pushing past a B into an A or A*.|/book-a-call/
 other_subjects:

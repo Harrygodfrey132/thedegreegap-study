@@ -333,6 +333,16 @@ Pick one of these structural shapes for `banner_heading`. Rewrite entirely, do n
 
 Across a batch of pages, never produce two headings that share both the same opener ("Looking for...", "Need a...", "Want a...") and the same sentence shape. If two pages would land in the same shape, pick a different one for one of them.
 
+**Hard rule (applies to EVERY field on the page, not just the H1): do not anchor copy to a specific grade band.** Phrases like "students who won't settle for a comfortable 6", "for the grade 8 push", "stretch into grade 9 territory", "for students aiming at the top mark band" exclude every parent whose child is sitting below that grade. A meaningful share of real leads come from students working at grade 3 or 4 — if any sentence on the page reads "we work with students aiming at grade 7+", those parents read it, decide the page isn't for them, and bounce. The rule applies to: `banner_heading`, `banner_description`, `intro_1`, `intro_2`, `why_para_1`, `why_para_2`, every `gcse_subjects` / `alevel_subjects` description, accordion bodies and FAQ answers.
+
+Use broader pain framings that fit every starting grade:
+- "move past wherever they're stuck", "the GCSE and A-Level grades families are aiming at", "predicted grades below where they need to be"
+- "from rebuilding foundations to pushing past a comfortable grade"
+- "whether the student is catching up or stretching ahead"
+- Just name the subject pain (algebra, AO3 evaluation, six-mark questions) without anchoring it to a grade band
+
+**Allowed (in body sections only):** if a passage genuinely needs to name stretch-into-top-band work, pair it with foundation/catch-up framing in the same paragraph so a lower-band parent still sees themselves on the page. Example: "Whether a student is rebuilding shaky algebra from Year 8 or pushing past a comfortable 7 into grade 8 and 9 territory, the work starts with a diagnostic." Single-sided "for the grade 8 push" framings are banned.
+
 ### Banner Description Structures (rotate, never always use the solution sentence)
 
 Pick one of these four structural shapes for `banner_description`. Rewrite it entirely, do not copy:

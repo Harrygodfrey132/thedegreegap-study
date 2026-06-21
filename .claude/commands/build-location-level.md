@@ -512,6 +512,18 @@ At least one sentence across the H1, hero lead and first_lesson_context combined
 - "Whether your child is at..." opener. That was the most over-used shape on existing pages. Rotate.
 - Leading with "Our tutors..." every time. Vary the opener.
 
+**Hard rule (applies to EVERY field on the page, not just the hero): do not anchor copy to a specific grade band that excludes lower-attaining students.** Phrases like "for the grade 8 push", "stretch into grade 9 territory", "for students aiming at the top mark band", "push grade 7 students into a clean grade 8" exclude every parent whose child is at grade 3 or 4. A meaningful share of real leads come from students working at lower bands — if ANY sentence on the page reads "for students aiming at grade 7+", those parents bounce. The rule applies to: `hero_heading_line1`, `hero_lead`, `first_lesson_context`, `tutor_strip_body`, every `pathways` body, every FAQ answer, every subject mention in body copy.
+
+**Hooks affected:** several entries in the GCSE/A-Level pain-point hook bank are grade-band-anchored (#10, #20, #21, #22, #33, #34, #41 etc.). Do NOT use these as the H1 or hero lead source. They may inspire body section work IF paired with a foundation/catch-up counterweight in the same paragraph.
+
+**Use these broader framings instead:**
+- "move past wherever they're stuck", "the GCSE and A-Level grades families are aiming at", "predicted grades below where they need to be"
+- "from rebuilding foundations to pushing past a comfortable grade"
+- "whether the student is catching up or stretching ahead"
+- Name the subject pain (algebra method, AO3 evaluation, six-mark questions) without naming a grade band
+
+**Allowed (in body sections only):** if a passage genuinely needs stretch-into-top-band language, pair it with foundation/catch-up framing in the SAME paragraph so a lower-band parent still sees themselves. Example: "Whether a student is rebuilding shaky algebra from Year 8 or pushing past a comfortable 7 into grade 8 and 9 territory, the work starts with a diagnostic." Single-sided "for the grade 8 push" framings are banned.
+
 **Self-check before saving the hero:** Read line 1 + line 2 + lead aloud. If it takes more than 10 seconds to read or a parent would skim past it, cut it.
 
 ### First Lesson Eyebrow (`first_lesson_eyebrow`) — write fresh, inspired by these

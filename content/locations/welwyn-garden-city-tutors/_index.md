@@ -10,7 +10,7 @@ intro_1: "Welwyn Garden City was designed as the world's second garden city, a p
 intro_2: "That is the gap we have built the platform around. We match Welwyn families with one-to-one tutors who know the AQA, Edexcel or OCR specs cold, can drill the technique that lifts a 6 into a 7 or a 7 into an 8, and have walked students through the same paper before. Every family speaks with a co-founder first, before any tutor is suggested. The first session is diagnostic. The plan is built around the gap that actually matters."
 about_heading: "Trusted Tutors for Welwyn Garden City Students"
 about_image: "/images/university-library-study-hall.jpg"
-schools_intro: "Our Welwyn Garden City tutors work with families from Stanborough School, Sir Frederic Osborn, Monk's Walk School, The Heathcote School, Onslow St Audrey's over in Hatfield and Bishop's Hatfield Girls' School. The schools are good. What parents tell us most often is that a strong school does not, on its own, get a student over the top mark band. We also run revision and exam preparation workshops on request, for groups of students who want extra structure outside the classroom."
+schools_intro: "Our Welwyn Garden City tutors work with families from Stanborough School, Sir Frederic Osborn, Monk's Walk School, The Heathcote School, Onslow St Audrey's over in Hatfield and Bishop's Hatfield Girls' School. The schools are good. What parents tell us most often is that a strong school does not, on its own, close every gap a student is carrying. We also run revision and exam preparation workshops on request, for groups of students who want extra structure outside the classroom."
 schools: ["Stanborough School", "Sir Frederic Osborn School", "Monk's Walk School", "The Heathcote School", "Onslow St Audrey's School", "Bishop's Hatfield Girls' School"]
 schools_image: "/images/school-clock-tower-building.jpg"
 online_heading: "How online tutoring works for Welwyn Garden City students"
@@ -21,7 +21,7 @@ map_url: "https://maps.google.com/maps?q=Welwyn+Garden+City,UK&output=embed"
 areas_intro: "Looking for support beyond Welwyn Garden City? Our tutors work with families across the wider Hertfordshire region, online and through the same Lessonspace platform."
 area_links: ["St Albans Tutors|/locations/st-albans-tutors/", "Hemel Hempstead Tutors|/locations/hemel-hempstead-tutors/", "Watford Tutors|/locations/watford-tutors/", "Stevenage Tutors|/locations/stevenage-tutors/", "Baldock Tutors|/locations/baldock-tutors/", "Cambridge Tutors|/locations/cambridge-tutors/"]
 gcse_subjects: [
-  "GCSE Maths Tuition|Stretch work across algebra, number and statistics for Welwyn students aiming at the grade 7, 8 and 9 mark bands.|/book-a-call/",
+  "GCSE Maths Tuition|Stretch work across algebra, number and statistics for Welwyn students across the whole mark band, from foundation work to top-grade stretch.|/book-a-call/",
   "GCSE English Tuition|Sharp analytical writing across Language and Literature, with structure that holds up under timed exam conditions.|/book-a-call/",
   "GCSE Biology Tuition|Tight coverage of required practicals and the long-answer questions where ambitious students separate themselves.|/book-a-call/",
   "GCSE Chemistry Tuition|Drill on moles questions, equations and bonding diagrams that decide top grades at GCSE.|/book-a-call/",
@@ -33,12 +33,12 @@ gcse_subjects: [
 ]
 alevel_subjects: [
   "A-Level Maths Tuition|Pure, Mechanics and Statistics depth, with the structured proof work that separates an A from an A*.|/book-a-call/",
-  "A-Level Biology Tuition|Mastery of synoptic questions and required practicals that decide the top mark band at A-Level.|/book-a-call/",
+  "A-Level Biology Tuition|Synoptic questions and required practicals, broken down at whatever level the student is sitting at.|/book-a-call/",
   "A-Level Chemistry Tuition|Mechanisms, calculations and multi-step organic synthesis problems where ambitious students need precision.|/book-a-call/",
   "A-Level Physics Tuition|Problem-solving structure and conceptual understanding that turns a B into an A* in Mechanics and Fields.|/book-a-call/",
   "A-Level Psychology Tuition|Tight AO3 evaluation chains and the synoptic essay structure that lift students into the top band.|/book-a-call/",
   "A-Level Economics Tuition|Diagram precision and the evaluation chains that separate a B-grade essay from an A-grade one.|/book-a-call/",
-  "A-Level English Tuition|Critical reading and comparative essay structure that decide top mark bands at A-Level.|/book-a-call/",
+  "A-Level English Tuition|Critical reading and comparative essay structure, sharpened at whatever level the student is sitting at.|/book-a-call/",
   "A-Level History Tuition|Source analysis and the 25-mark essay, where most students lose marks they could keep with the right technique.|/book-a-call/",
   "A-Level Geography Tuition|Case studies, synoptic links and the 20-mark essay technique for students aiming at A* and A grades.|/book-a-call/",
 ]
@@ -56,7 +56,7 @@ faq_4_a: "Grades slipping despite effort. Confidence dropping. Putting the work 
 why_heading: "Tutoring that meets the level Welwyn Garden City families are aiming at"
 why_para_1: "Most Welwyn Garden City parents describe the same situation in a first conversation. The student is bright. The school is fine. The grade is solid but solid is not what was hoped for. What tutors find inside the first session is usually a depth gap, not a content one. The student can answer a four-mark question well. The page-long evaluation question is where the marks are slipping. That difference is not really taught inside a class of thirty."
 why_para_2: "What the tutor does in week one is sit the student through a recent past paper and mark it the way an examiner would. From there the sessions focus on the longer questions and the structure that decides band 5 from band 6 marking. A weekly hour with a tutor who knows the spec tends to shift the predicted grade within a half term."
-accordion_quality: "Every tutor in our network is a graduate, vetted on subject knowledge and how clearly they explain a difficult idea under pressure. Only about three percent of applicants pass the founder-led interview. For Welwyn Garden City students aiming at the top of the grade scale, that bar matters more than where the tutor lives."
+accordion_quality: "Every tutor in our network is a graduate, vetted on subject knowledge and how clearly they explain a difficult idea under pressure. Only about three percent of applicants pass the founder-led interview. For Welwyn Garden City students working at every level of GCSE and A-Level, that bar matters more than where the tutor lives."
 accordion_experience: "Our Welwyn Garden City tutors have years of one-to-one experience across GCSE and A-Level specifications, and many are qualified examiners. The students they have walked through past papers are now sitting the same exams yours will be."
 accordion_personalised: "One Welwyn student might need stretch work above the school's syllabus pace. Another might be a strong predicted A in Psychology stuck on AO3 evaluation. The tutor builds the plan around the gap that actually matters, not the topic that comes next in the textbook."
 reviews: [

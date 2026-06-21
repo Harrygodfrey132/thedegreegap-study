@@ -1,0 +1,37 @@
+{{/*
+  default-reviews.html — returns a slice of pipe-delimited review strings
+  ("Name|Role|Text"), sourced from the canonical data/reviews.yaml.
+
+  Usage:
+    {{ $reviews := .Params.reviews | default (partial "default-reviews.html" (dict "level" "")) }}
+
+  Parameter:
+    level — "" (all reviews), "GCSE", or "A-Level"
+
+  Filter logic:
+    - level "" → return all reviews
+    - level "GCSE" → exclude reviews whose role explicitly names A-Level / University / Masters.
+      Generic roles ("Parent", "Grandparent", "Parent of Two Students") still show because
+      they are level-agnostic.
+    - level "A-Level" → exclude reviews whose role explicitly names GCSE / iGCSE.
+      Generic roles still show.
+
+  Reviews on every page that uses this partial are guaranteed real because
+  they come from data/reviews.yaml, the single source of truth.
+*/}}
+{{ $level := .level | default "" }}
+{{ $out := slice }}
+{{ range site.Data.reviews }}
+  {{ $include := true }}
+  {{ if eq $level "GCSE" }}
+    {{ $isAlevel := or (in .role "A-Level") (or (in .role "University") (in .role "Masters")) }}
+    {{ $include = not $isAlevel }}
+  {{ else if eq $level "A-Level" }}
+    {{ $isGcse := or (in .role "GCSE") (in .role "iGCSE") }}
+    {{ $include = not $isGcse }}
+  {{ end }}
+  {{ if $include }}
+    {{ $out = $out | append (printf "%s|%s|%s" .name .role .text) }}
+  {{ end }}
+{{ end }}
+{{ return $out }}

@@ -130,8 +130,7 @@ alevel_subjects:
     broken down
     differently.|/book-a-call/
   - A-Level Geography Tuition|Advanced geographical concepts, fieldwork analysis
-    and extended writing supported by tutors who know what the top mark bands
-    actually look
+    and extended writing supported by tutors who pitch sessions at whatever level the student is sitting at    actually look
     for.|/book-a-call/
   - A-Level Biology Tuition|In-depth guidance through genetics, ecology and
     physiology for students who need to develop proper understanding rather than

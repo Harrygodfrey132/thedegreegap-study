@@ -10,7 +10,7 @@ intro_1: "In Royal Leamington Spa, the parent conversation about tutoring tends 
 intro_2: "We have been matching Leamington families with one-to-one tutors for years and the same brief keeps coming up. The student is capable. The school is fine. What is needed is a weekly hour with a tutor who knows the AQA or Edexcel spec cold, can drill the technique that lifts a 7 into an 8, and can mark a paper the way an examiner reads it. Every family speaks with a co-founder first, before any tutor is suggested."
 about_heading: "Experienced GCSE and A-Level Tutors in Royal Leamington Spa"
 about_image: "/images/university-lecture-hall.jpg"
-schools_intro: "Our Royal Leamington Spa tutors work with families from North Leamington School, Trinity Catholic School, Campion School, Myton over the border in Warwick, Arnold Lodge and The Kingsley School. The schools are strong on paper and stronger in practice. What parents tell us most often is that a strong school does not, on its own, get a student into the top mark band. We also run revision and exam preparation workshops on request, for groups of students who want extra structure outside the classroom."
+schools_intro: "Our Royal Leamington Spa tutors work with families from North Leamington School, Trinity Catholic School, Campion School, Myton over the border in Warwick, Arnold Lodge and The Kingsley School. The schools are strong on paper and stronger in practice. What parents tell us most often is that a strong school does not, on its own, close every gap a student is carrying. We also run revision and exam preparation workshops on request, for groups of students who want extra structure outside the classroom."
 schools: ["North Leamington School", "Trinity Catholic School", "Campion School", "Myton School", "Arnold Lodge School", "The Kingsley School"]
 schools_image: "/images/students-listening-in-classroom.jpg"
 online_heading: "Online tutoring for Royal Leamington Spa students"
@@ -21,7 +21,7 @@ map_url: "https://maps.google.com/maps?q=Royal+Leamington+Spa,UK&output=embed"
 areas_intro: "Our tutors support students across Royal Leamington Spa and the surrounding Warwickshire area, with online tuition removing any distance barrier to finding the right specialist."
 area_links: ["Warwick Tutors|/locations/warwick-tutors/", "Coventry Tutors|/locations/coventry-tutors/", "Stratford-upon-Avon Tutors|/locations/stratford-upon-avon-tutors/", "Birmingham Tutors|/locations/birmingham-tutors/", "Oxford Tutors|/locations/oxford-tutors/", "Worcester Tutors|/locations/worcester-tutors/"]
 gcse_subjects: [
-  "GCSE Maths Tuition|Stretch work across algebra, number and statistics for Leamington students aiming at grade 8 and 9 mark bands.|/book-a-call/",
+  "GCSE Maths Tuition|Stretch work across algebra, number and statistics for Leamington students across the whole mark band, from foundation work to top-grade stretch.|/book-a-call/",
   "GCSE Chemistry Tuition|Drill on the moles questions, equations and bonding diagrams that decide top grades at GCSE.|/book-a-call/",
   "GCSE Biology Tuition|Tight work on required practicals and the long-answer questions where ambitious students separate themselves.|/book-a-call/",
   "GCSE English Tuition|Sharp analytical writing across Language and Literature, taught to the standard top sixth forms expect.|/book-a-call/",
@@ -35,10 +35,10 @@ alevel_subjects: [
   "A-Level Economics Tuition|Diagram precision and the evaluation chains that separate a B-grade essay from an A-grade one.|/book-a-call/",
   "A-Level Maths Tuition|Pure, Mechanics and Statistics depth, with the structured proof work that separates an A from an A*.|/book-a-call/",
   "A-Level Chemistry Tuition|Mechanisms, calculations and multi-step organic synthesis problems where ambitious students need precision.|/book-a-call/",
-  "A-Level Biology Tuition|Mastery of synoptic questions and required practicals that decide the top mark band at A-Level.|/book-a-call/",
+  "A-Level Biology Tuition|Synoptic questions and required practicals, broken down at whatever level the student is sitting at.|/book-a-call/",
   "A-Level Physics Tuition|Problem-solving structure and the conceptual understanding that turns a B into an A* in Mechanics and Fields.|/book-a-call/",
   "A-Level Psychology Tuition|Tight AO3 evaluation chains and the synoptic essay structure that lift students into the top band.|/book-a-call/",
-  "A-Level English Tuition|Critical reading and comparative essay structure that decide top mark bands at A-Level.|/book-a-call/",
+  "A-Level English Tuition|Critical reading and comparative essay structure, sharpened at whatever level the student is sitting at.|/book-a-call/",
   "A-Level History Tuition|Source analysis and the 25-mark essay, where most students lose marks they could keep with the right technique.|/book-a-call/",
   "A-Level Geography Tuition|Case studies, synoptic links and the 20-mark essay technique for students aiming at A* and A grades.|/book-a-call/",
 ]
@@ -56,7 +56,7 @@ faq_4_a: "AQA, Edexcel, OCR and WJEC. When we match a student with a tutor, exam
 why_heading: "Why Royal Leamington Spa families choose The Degree Gap"
 why_para_1: "The GCSE curriculum at North Leamington and at Myton runs at a pace that assumes students can already structure a long answer, manage time across a paper and write to a mark scheme they have not been shown. Most can. What tutors find in a first session, more often than not, is that the gap is not knowledge. It is two habits, the way an evaluation question gets opened, the way working is laid out for a multi-step calculation, that the student has been losing band-defining marks on."
 why_para_2: "What changes in week one is honest marking. The tutor walks the student through a recent paper the way an examiner reads it, then drills the technique on the questions where the marks went. From there sessions focus on the depth that decides 7 from 9. A weekly hour with a tutor who knows the spec tends to shift the predicted grade within a half term."
-accordion_quality: "Every tutor in our network is a graduate, many from Russell Group universities, and only about three percent of applicants pass the founder-led interview. For Leamington students aiming at the top of the grade scale, that selectivity matters more than where the tutor lives."
+accordion_quality: "Every tutor in our network is a graduate, many from Russell Group universities, and only about three percent of applicants pass the founder-led interview. For Leamington students working at every level of GCSE and A-Level, that selectivity matters more than where the tutor lives."
 accordion_experience: "Our Royal Leamington Spa tutors have years of one-to-one experience across GCSE and A-Level specifications. Many are qualified examiners. That means students get feedback on how an A is awarded, not just whether the answer was right."
 accordion_personalised: "Some Leamington students need stretch work above and beyond the syllabus. Others need an evaluation technique drilled until it is automatic. The tutor reads where the student is and builds the plan around the gap that actually matters."
 reviews: [

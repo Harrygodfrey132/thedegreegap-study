@@ -133,8 +133,7 @@ alevel_subjects:
     actually reward at this
     standard.|/book-a-call/
   - A-Level Geography Tuition|Advanced concept work, fieldwork analysis and
-    extended writing, supported by tutors who know what the top mark bands are
-    looking for.|/book-a-call/
+    extended writing, supported by tutors who pitch sessions at whatever level the student is sitting at.|/book-a-call/
   - A-Level Physics Tuition|Patient, exam-board-aware tuition through mechanics,
     fields and quantum topics for students who find the gap between
     understanding and answering wider than

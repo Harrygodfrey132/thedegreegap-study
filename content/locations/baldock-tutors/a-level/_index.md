@@ -11,7 +11,7 @@ hero_lead: "By October of Year 12, A-Level Maths can look nothing like the GCSE 
 
 grade_from: "C"
 grade_to: "A"
-grade_stat: "A real two-grade A-Level jump from a Baldock student we worked with through to university applications."
+grade_stat: "A real two-grade A-Level jump from a student we worked with through to university applications."
 
 first_lesson_eyebrow: "A BALDOCK A-LEVEL TURNAROUND"
 first_lesson_heading: "What a Baldock A-Level Tutor Reads in Year 12 Mocks"

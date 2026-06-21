@@ -10,7 +10,7 @@ intro_1: "In Warwick, the parent conversation about tutoring usually starts with
 intro_2: "This is the work we have built the platform around. We match Warwick families with one-to-one tutors who know what the independents reward at the top of the paper and what Myton's mark schemes ask for at grade 8. Every family speaks with a co-founder first, before any tutor is suggested. The first session is diagnostic. The plan is built around what is actually missing, not what the textbook says comes next."
 about_heading: "GCSE and A-Level Tutors Covering Warwick"
 about_image: "/images/classical-library-books-and-busts.jpg"
-schools_intro: "Our Warwick tutors work with families from Warwick School, King's High School for Girls, Myton School, Aylesford School, Campion School and Trinity Catholic over in Leamington. The schools are strong. But a class of thirty cannot drill the exam technique a single student needs to clear the top mark band, and that is the work we do. We also run revision and exam preparation workshops on request, for groups of students who want extra structure outside the classroom."
+schools_intro: "Our Warwick tutors work with families from Warwick School, King's High School for Girls, Myton School, Aylesford School, Campion School and Trinity Catholic over in Leamington. The schools are strong. But a class of thirty cannot drill the exam technique a single student actually needs, and that is the work we do. We also run revision and exam preparation workshops on request, for groups of students who want extra structure outside the classroom."
 schools: ["Warwick School", "King's High School for Girls", "Myton School", "Aylesford School", "Campion School", "Trinity Catholic School"]
 schools_image: "/images/aerial-school-campus-building.jpg"
 online_heading: "Why Warwick families end up choosing online tutoring"
@@ -21,7 +21,7 @@ map_url: "https://maps.google.com/maps?q=Warwick,UK&output=embed"
 areas_intro: "Finding the right tutor matters more than finding the nearest one, which is why we support families across Warwick and the surrounding Warwickshire towns."
 area_links: ["Royal Leamington Spa Tutors|/locations/royal-leamington-spa-tutors/", "Coventry Tutors|/locations/coventry-tutors/", "Stratford-upon-Avon Tutors|/locations/stratford-upon-avon-tutors/", "Birmingham Tutors|/locations/birmingham-tutors/", "Oxford Tutors|/locations/oxford-tutors/", "Worcester Tutors|/locations/worcester-tutors/"]
 gcse_subjects: [
-  "GCSE Maths Tuition|Stretch work across number, algebra and statistics for Warwick School, King's High and Myton students aiming at grade 8 and 9.|/book-a-call/",
+  "GCSE Maths Tuition|Stretch work across number, algebra and statistics for Warwick School, King's High and Myton students across the whole mark band, from foundation work to top-grade stretch.|/book-a-call/",
   "GCSE Chemistry Tuition|Drill on moles questions, equations and bonding diagrams that decide top grades at GCSE.|/book-a-call/",
   "GCSE Biology Tuition|Tight coverage of required practicals and long-answer questions where ambitious students separate themselves.|/book-a-call/",
   "GCSE English Tuition|Sharp analytical writing across Language and Literature, taught to the standard top independent sixth forms expect.|/book-a-call/",
@@ -34,11 +34,11 @@ gcse_subjects: [
 alevel_subjects: [
   "A-Level Chemistry Tuition|Mechanisms, calculations and multi-step organic synthesis problems where ambitious students need precision.|/book-a-call/",
   "A-Level Maths Tuition|Pure, Mechanics and Statistics depth, with the structured proof work that separates an A from an A*.|/book-a-call/",
-  "A-Level Biology Tuition|Mastery of the synoptic questions and required practicals that decide the top mark band at A-Level.|/book-a-call/",
+  "A-Level Biology Tuition|Synoptic questions and required practicals, broken down at whatever level the student is sitting at.|/book-a-call/",
   "A-Level Physics Tuition|Problem-solving structure and the conceptual understanding that turns a B into an A* in Mechanics and Fields.|/book-a-call/",
   "A-Level Economics Tuition|Diagram precision and the evaluation chains that separate a B-grade essay from an A-grade one.|/book-a-call/",
   "A-Level Psychology Tuition|Tight AO3 evaluation chains and the synoptic essay structure that lift students into the top band.|/book-a-call/",
-  "A-Level English Tuition|Critical reading and comparative essay structure that decide top mark bands at A-Level.|/book-a-call/",
+  "A-Level English Tuition|Critical reading and comparative essay structure, sharpened at whatever level the student is sitting at.|/book-a-call/",
   "A-Level History Tuition|Source analysis and the 25-mark essay, where most students lose marks they could keep with the right technique.|/book-a-call/",
   "A-Level Geography Tuition|Case studies, synoptic links and the 20-mark essay technique for students aiming at A* and A grades.|/book-a-call/",
 ]
@@ -56,7 +56,7 @@ faq_4_a: "Most students notice something within the first few sessions. Not alwa
 why_heading: "Tutoring that meets the level Warwick families are quietly aiming at"
 why_para_1: "At Warwick School and King's High, where the cohort is dense and the curriculum runs at independent-school pace, what tutors find in a first session is rarely a content problem. It is depth, the difference between a strong answer and an A* answer, that the student has not been shown how to build. The school is teaching the content. Adding the technique layer on top is the work of a focused one-to-one hour."
 why_para_2: "What the tutor does in week one is sit the student through a recent past paper and mark it the way an examiner would. From there, sessions focus on the longer questions and the structure that decides band 5 from band 6 marking. A weekly hour with a tutor who knows the spec tends to shift the predicted grade within a half term. For Myton students closing a wider band, the same approach applies. The starting point is just different."
-accordion_quality: "Every tutor in our network is a graduate, many from Russell Group universities, and only about three percent of applicants pass the founder-led interview. For Warwick School, King's High and Myton students aiming at the top of the grade scale, that bar matters more than where the tutor lives."
+accordion_quality: "Every tutor in our network is a graduate, many from Russell Group universities, and only about three percent of applicants pass the founder-led interview. For Warwick School, King's High and Myton students working at every level of GCSE and A-Level, that bar matters more than where the tutor lives."
 accordion_experience: "Our Warwick tutors have years of one-to-one experience across GCSE and A-Level specifications. Many are qualified examiners. The mark schemes they have spent years inside are the same ones your child's papers will be marked against."
 accordion_personalised: "A Warwick School student might need stretch work above and beyond the syllabus. A Myton student might be a strong predicted 7 stuck on a specific evaluation technique. The tutor reads where the student actually is and builds the plan from there."
 reviews: [

@@ -73,7 +73,7 @@ gcse_subjects:
     and rates for students aiming at grades 7 to 9 and the answers that get them
     there.|/book-a-call/
   - GCSE Maths Tuition|Stretch tutoring across number, algebra and statistics
-    for students who want the grade 8 and 9 mark bands within reach, not just a
+    across the whole mark band, not just a
     comfortable pass.|/book-a-call/
   - GCSE Biology Tuition|Detailed work across the full specification for
     students who want to walk into the exam confident on the harder six and
@@ -123,12 +123,11 @@ alevel_subjects:
     taught by tutors who know what markers reward at the top end of the mark
     scheme.|/book-a-call/
   - A-Level History Tuition|Help with the analytical essay writing A-Level
-    History demands, for students aiming at top mark bands and history-led
+    History demands, for students who want to write essays that hold up under timing, alongside history-led
     university
     applications.|/book-a-call/
   - A-Level Geography Tuition|Advanced concept work, fieldwork analysis and
-    extended writing, with tutors who know what the top mark bands are looking
-    for.|/book-a-call/
+    extended writing, with tutors who pitch sessions at whatever level the student is sitting at.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with
     expert support on structure, subject motivation, and final
