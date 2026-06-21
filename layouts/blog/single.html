@@ -362,18 +362,71 @@
   </div>
   {{ end }}
 
-  {{ with .Params.related_links }}
+  {{/* =================================================
+       RELATED-LINKS BLOCK
+       Two layers:
+       1. Hand-curated: from `related_links:` frontmatter (editorial precision).
+       2. Auto-discovered: topical tags map to live Site queries (scales as content grows).
+       Auto links are de-duped against manual ones and capped so the block never sprawls.
+       Tag → query map lives in the $tagMap dict below — extend it when new topical tags emerge.
+       Meta tags (Partnerships, Announcements, News) intentionally have no mapping
+       so a partnership post doesn't get unrelated location pages tacked on.
+       ================================================= */}}
+  {{ $manual := .Params.related_links | default slice }}
+  {{ $manualUrls := slice }}
+  {{ range $manual }}{{ $manualUrls = $manualUrls | append .url }}{{ end }}
+
+  {{ $autoCap := 3 }}
+  {{ $auto := slice }}
+  {{ $allSubject := where .Site.Pages "Layout" "subject" }}
+  {{ range .Params.tags }}
+    {{ $tag := . }}
+    {{ $candidates := slice }}
+    {{ if eq $tag "GCSE" }}
+      {{ $candidates = first 4 (where $allSubject "Params.level" "GCSE") }}
+    {{ else if eq $tag "A-Level" }}
+      {{ $candidates = first 4 (where $allSubject "Params.level" "A-Level") }}
+    {{ else if eq $tag "Personal Statement" }}
+      {{ $ps := where .Site.RegularPages "Section" "personal-statement-tutor" }}
+      {{ $candidates = first 4 $ps }}
+    {{ else if eq $tag "UCAS" }}
+      {{ $candidates = first 4 (where .Site.RegularPages "Section" "personal-statement-tutor") }}
+    {{ else if eq $tag "11+" }}
+      {{ $candidates = slice (site.GetPage "/locations/aylesbury-tutors/") (site.GetPage "/locations/high-wycombe-tutors/") (site.GetPage "/locations/canterbury-tutors/") }}
+    {{ end }}
+    {{ range $candidates }}
+      {{ if and . (lt (len $auto) $autoCap) (not (in $manualUrls .RelPermalink)) }}
+        {{ $auto = $auto | append . }}
+        {{ $manualUrls = $manualUrls | append .RelPermalink }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ if or $manual $auto }}
   <section class="post-related">
     <div class="post-related__inner">
       <p class="post-related__eyebrow">RELATED ON THE SITE</p>
       <h2 class="post-related__heading">Where to go next</h2>
       <ul class="post-related__list">
-        {{ range . }}
+        {{ range $manual }}
         <li>
           <a class="post-related__item" href="{{ .url }}">
             <span class="post-related__item-text">
               <strong class="post-related__item-title">{{ .title }}</strong>
               {{ with .description }}
+              <span class="post-related__item-sub">{{ . }}</span>
+              {{ end }}
+            </span>
+            <svg class="post-related__item-arrow" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+          </a>
+        </li>
+        {{ end }}
+        {{ range $auto }}
+        <li>
+          <a class="post-related__item" href="{{ .RelPermalink }}">
+            <span class="post-related__item-text">
+              <strong class="post-related__item-title">{{ .Title }}</strong>
+              {{ with .Params.description }}
               <span class="post-related__item-sub">{{ . }}</span>
               {{ end }}
             </span>
