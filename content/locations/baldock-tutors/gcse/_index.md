@@ -61,7 +61,7 @@ faq_2_a: "We start with a diagnostic. Some students need to go back to a Year 8 
 faq_3_q: "Is GCSE tutoring online or does my child need to travel?"
 faq_3_a: "All sessions run online through Lessonspace, our shared whiteboard. Baldock families like it because there is no commute on a Tuesday evening, and your child gets the right subject specialist in the country, not just whoever happens to live nearby."
 faq_4_q: "What does GCSE tutoring in Baldock cost?"
-faq_4_a: "From £37 an hour. The exact rate depends on the tutor's subject and experience. We agree it before any session is booked. No hidden fees, no platform charges on top, no contracts."
+faq_4_a: "From £37 an hour. The exact rate depends on the tutor's subject and experience. We agree it with you before any session is booked. No hidden fees, no surprise charges, no contracts."
 
 sitemap:
   priority: 0.7

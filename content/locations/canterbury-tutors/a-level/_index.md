@@ -62,7 +62,7 @@ faq_2_a: "Yes. Tutors cover Oxbridge subject interviews, Medicine MMI-style prep
 faq_3_q: "My son is considering dropping A-Level Chemistry. Is it worth trying a tutor first?"
 faq_3_a: "Often, yes, especially if the recoverable gap is content (an organic mechanism, equilibrium calculations) rather than effort or interest. A tutor traces what's actually broken in the first one or two sessions, and then you've got a real basis for the decision rather than a hunch. We've worked with plenty of students who came in considering a drop and stayed on the subject."
 faq_4_q: "How much does A-Level tutoring in Canterbury cost?"
-faq_4_a: "From £37 an hour. The rate depends on the tutor's subject, level and seniority. A recent Russell Group graduate teaching their own A-Level subject sits at the entry rate; a senior academic or qualified examiner sits higher. We agree it before any session is booked, no platform fees and no contracts."
+faq_4_a: "From £37 an hour. The rate depends on the tutor's subject, level and seniority. A recent Russell Group graduate teaching their own A-Level subject sits at the entry rate; a senior academic or qualified examiner sits higher. We agree it with you before any session is booked, no contracts, no surprises."
 
 sitemap:
   priority: 0.7
