@@ -1,0 +1,419 @@
+{{ define "seo" }}
+{{ partial "seo.html" . }}
+{{/* TEMP: noindex while the blog is in build / review. Remove this whole seo block (or just the meta line below) to ship live. */}}
+<meta name="robots" content="noindex, follow">
+{{ end }}
+
+{{ define "main" }}
+<style>
+  .post-page {
+    font-family: 'Poppins', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    background: #ffffff;
+    color: #171717;
+  }
+
+  .post-back {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 40px 24px 0;
+  }
+  .post-back__link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: #800020;
+    text-decoration: none;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+  .post-back__link:hover { color: #5A001F; }
+
+  .post-header {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 32px 24px 0;
+    text-align: center;
+  }
+  .post-header__category {
+    display: inline-block;
+    font-size: 0.72rem;
+    font-weight: 800;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: #800020;
+    margin: 0 0 18px;
+  }
+  .post-header__title {
+    font-size: clamp(2rem, 4.5vw, 3rem);
+    font-weight: 900;
+    line-height: 1.1;
+    letter-spacing: -0.025em;
+    color: #171717;
+    margin: 0 0 22px;
+  }
+  .post-header__lead {
+    font-size: 1.15rem;
+    line-height: 1.55;
+    color: #5f5a54;
+    margin: 0 0 28px;
+  }
+  .post-header__byline {
+    font-size: 0.9rem;
+    color: #6b6660;
+    font-weight: 600;
+  }
+  .post-header__byline strong { color: #171717; font-weight: 700; }
+  .post-header__byline-sep {
+    color: #c5bcaf;
+    margin: 0 8px;
+  }
+
+  .post-hero {
+    max-width: 1080px;
+    margin: 48px auto 0;
+    padding: 0 24px;
+  }
+  .post-hero img {
+    width: 100%;
+    aspect-ratio: 16 / 8;
+    object-fit: cover;
+    border-radius: 14px;
+    display: block;
+  }
+
+  .post-body {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 56px 24px 32px;
+    font-size: 1.0625rem;
+    line-height: 1.75;
+    color: #2d2a26;
+  }
+  .post-body h2 {
+    font-size: 1.6rem;
+    font-weight: 800;
+    letter-spacing: -0.015em;
+    color: #171717;
+    margin: 48px 0 18px;
+    line-height: 1.2;
+  }
+  .post-body h3 {
+    font-size: 1.25rem;
+    font-weight: 800;
+    color: #171717;
+    margin: 36px 0 14px;
+    line-height: 1.25;
+  }
+  .post-body p { margin: 0 0 22px; }
+  .post-body a {
+    color: #800020;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+  }
+  .post-body a:hover { color: #5A001F; }
+  .post-body strong { color: #171717; font-weight: 700; }
+  .post-body ul, .post-body ol { margin: 0 0 22px; padding-left: 24px; }
+  .post-body li { margin-bottom: 8px; }
+  .post-body hr {
+    border: 0;
+    border-top: 1px solid #e6ded4;
+    margin: 48px 0;
+  }
+  .post-body blockquote {
+    margin: 28px 0;
+    padding: 4px 0 4px 22px;
+    border-left: 3px solid #800020;
+    color: #3a3530;
+    font-style: italic;
+  }
+
+  .post-tags {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 16px 24px 56px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .post-tag {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    color: #800020;
+    background: #fbf7ef;
+    border: 1px solid #e6ded4;
+    border-radius: 999px;
+    padding: 5px 12px;
+    text-transform: uppercase;
+  }
+
+  /* Related-on-the-site block (drives internal-link juice out of the post) */
+  .post-related {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 24px 24px 8px;
+  }
+  .post-related__inner { }
+  .post-related__eyebrow {
+    font-size: 0.72rem;
+    font-weight: 800;
+    letter-spacing: 0.16em;
+    color: #800020;
+    margin: 0 0 10px;
+  }
+  .post-related__heading {
+    font-size: 1.5rem;
+    font-weight: 800;
+    letter-spacing: -0.015em;
+    color: #171717;
+    margin: 0 0 22px;
+    line-height: 1.2;
+  }
+  .post-related__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border-top: 1px solid #ece4d4;
+  }
+  .post-related__item {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    padding: 20px 0;
+    border-bottom: 1px solid #ece4d4;
+    text-decoration: none;
+    color: inherit;
+  }
+  .post-related__item-text {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+  .post-related__item-title {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: #171717;
+    letter-spacing: -0.005em;
+  }
+  .post-related__item-sub {
+    font-size: 0.9rem;
+    color: #6b6660;
+    line-height: 1.45;
+  }
+  .post-related__item-arrow {
+    color: #800020;
+    flex: 0 0 auto;
+  }
+
+  .post-cta {
+    background: #fbf7ef;
+    border-top: 1px solid #ece4d4;
+    border-bottom: 1px solid #ece4d4;
+    padding: 64px 24px;
+    margin-top: 32px;
+  }
+  .post-cta__inner {
+    max-width: 720px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .post-cta__title {
+    font-size: 1.6rem;
+    font-weight: 800;
+    letter-spacing: -0.015em;
+    color: #171717;
+    margin: 0 0 14px;
+  }
+  .post-cta__sub {
+    font-size: 1rem;
+    line-height: 1.55;
+    color: #5f5a54;
+    margin: 0 0 24px;
+  }
+  .post-cta__btn {
+    display: inline-block;
+    background: #800020;
+    color: #fbf7ef;
+    font-weight: 800;
+    font-size: 0.95rem;
+    padding: 14px 28px;
+    border-radius: 999px;
+    text-decoration: none;
+    box-shadow: 0 6px 16px rgba(128, 0, 32, 0.22);
+    transition: background 0.18s ease, transform 0.18s ease;
+  }
+  .post-cta__btn:hover {
+    background: #5A001F;
+    transform: translateY(-1px);
+  }
+
+  /* More-posts strip */
+  .more-posts {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 72px 24px 96px;
+  }
+  .more-posts__heading {
+    font-size: 1.4rem;
+    font-weight: 800;
+    color: #171717;
+    margin: 0 0 32px;
+    letter-spacing: -0.015em;
+  }
+  .more-posts__grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 40px 28px;
+  }
+  @media (max-width: 980px) {
+    .more-posts__grid { grid-template-columns: repeat(2, 1fr); gap: 36px 24px; }
+  }
+  @media (max-width: 640px) {
+    .more-posts__grid { grid-template-columns: 1fr; gap: 36px; }
+  }
+  .more-posts__card {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: inherit;
+  }
+  .more-posts__card-media {
+    width: 100%;
+    aspect-ratio: 16 / 11;
+    overflow: hidden;
+    border-radius: 12px;
+    background: #f3ecdf;
+    margin: 0 0 18px;
+  }
+  .more-posts__card-media img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.5s ease;
+  }
+  .more-posts__card:hover .more-posts__card-media img {
+    transform: scale(1.04);
+  }
+  .more-posts__card-meta {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: #6b6660;
+    margin: 0 0 8px;
+  }
+  .more-posts__card-title {
+    font-size: 1.15rem;
+    font-weight: 800;
+    line-height: 1.25;
+    color: #171717;
+    margin: 0;
+    transition: color 0.18s ease;
+  }
+  .more-posts__card:hover .more-posts__card-title {
+    color: #800020;
+  }
+</style>
+
+<article class="post-page">
+
+  <div class="post-back">
+    <a class="post-back__link" href="/blog/">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+      Back to blog
+    </a>
+  </div>
+
+  <header class="post-header">
+    {{ with .Params.category }}
+    <p class="post-header__category">{{ . }}</p>
+    {{ end }}
+    <h1 class="post-header__title">{{ .Title }}</h1>
+    {{ with .Params.description }}
+    <p class="post-header__lead">{{ . }}</p>
+    {{ end }}
+    <p class="post-header__byline">
+      {{ with .Params.author }}<strong>{{ . }}</strong>{{ end }}
+      {{ with .Params.author_role }}, {{ . }}{{ end }}
+      {{ if and .Params.author (not .Date.IsZero) }}<span class="post-header__byline-sep" aria-hidden="true">&middot;</span>{{ end }}
+      {{ if not .Date.IsZero }}{{ .Date.Format "2 January 2006" }}{{ end }}
+    </p>
+  </header>
+
+  {{ with .Params.hero_image }}
+  <div class="post-hero">
+    <img src="{{ . }}" alt="">
+  </div>
+  {{ end }}
+
+  <div class="post-body">
+    {{ .Content }}
+  </div>
+
+  {{ with .Params.tags }}
+  <div class="post-tags">
+    {{ range . }}
+    <span class="post-tag">{{ . }}</span>
+    {{ end }}
+  </div>
+  {{ end }}
+
+  {{ with .Params.related_links }}
+  <section class="post-related">
+    <div class="post-related__inner">
+      <p class="post-related__eyebrow">RELATED ON THE SITE</p>
+      <h2 class="post-related__heading">Where to go next</h2>
+      <ul class="post-related__list">
+        {{ range . }}
+        <li>
+          <a class="post-related__item" href="{{ .url }}">
+            <span class="post-related__item-text">
+              <strong class="post-related__item-title">{{ .title }}</strong>
+              {{ with .description }}
+              <span class="post-related__item-sub">{{ . }}</span>
+              {{ end }}
+            </span>
+            <svg class="post-related__item-arrow" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+  </section>
+  {{ end }}
+
+  <section class="post-cta">
+    <div class="post-cta__inner">
+      <h2 class="post-cta__title">Need a tutor for your child?</h2>
+      <p class="post-cta__sub">Tell us the subject, year group, and what the student is working towards. We'll come back with a free consultation call to discuss the right match.</p>
+      <a class="post-cta__btn" href="/book-a-call/">Book a free call</a>
+    </div>
+  </section>
+
+  {{ $current := . }}
+  {{ $more := first 3 (where (where .Site.RegularPages "Section" "blog") "Permalink" "!=" .Permalink) }}
+  {{ if $more }}
+  <section class="more-posts">
+    <h2 class="more-posts__heading">More from the blog</h2>
+    <div class="more-posts__grid">
+      {{ range $more }}
+      <a class="more-posts__card" href="{{ .RelPermalink }}">
+        {{ with .Params.hero_image }}
+        <div class="more-posts__card-media"><img src="{{ . }}" alt="" loading="lazy"></div>
+        {{ end }}
+        <p class="more-posts__card-meta">
+          {{ with .Params.author }}{{ . }} &middot; {{ end }}{{ .Date.Format "2 Jan 2006" }}
+        </p>
+        <h3 class="more-posts__card-title">{{ .Title }}</h3>
+      </a>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+</article>
+{{ end }}
