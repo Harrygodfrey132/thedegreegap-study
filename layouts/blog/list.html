@@ -1,9 +1,3 @@
-{{ define "seo" }}
-{{ partial "seo.html" . }}
-{{/* TEMP: noindex while the blog is in build / review. Remove this whole seo block (or just the meta line below) to ship live. */}}
-<meta name="robots" content="noindex, follow">
-{{ end }}
-
 {{ define "main" }}
 <style>
   /* =================================================
