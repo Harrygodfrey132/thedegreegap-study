@@ -30,10 +30,10 @@ pathways_lead: "A few of the post-16 destinations our Canterbury GCSE families c
 pathways:
   - title: "Sixth Forms"
     body: >
-      Simon Langton Grammar for Boys and Simon Langton Girls' Grammar keep most of their own Year 11s for A-Level, with Barton Court Grammar doing the same. Conditional offers ask for grade 6 minimum and grade 7 in subjects students want to study, plus a Year 12 entry standard the GCSE results map onto.
+      Simon Langton Grammar for Boys and Simon Langton Girls' Grammar keep most of their own Year 11s for A-Level, with Barton Court Grammar doing the same. Conditional offers vary by subject and tend to be specific about what they want, with each sixth form publishing its own entry standards.
   - title: "Apprenticeships"
     body: >
-      Canterbury Christ Church and the University of Kent both run degree apprenticeships hiring out of the Canterbury Year 11 cohort. Pfizer in nearby Sandwich and the Discovery Park life-sciences hub also pick up apprentices, most asking grade 5 in Maths and English, with grade 6 in Sciences for technical applications.
+      Canterbury Christ Church and the University of Kent both run degree apprenticeships hiring out of the Canterbury Year 11 cohort. Pfizer in nearby Sandwich and the Discovery Park life-sciences hub also pick up apprentices, most with published minimum-grade requirements in Maths and English, plus stricter Sciences requirements for technical applications.
   - title: "Further Education"
     body: >
       Canterbury College runs Level 3 BTEC programmes alongside A-Levels for students wanting a vocational route or a course outside the grammar pathway. East Kent College Group's nearby campuses pick up the broader Kent FE intake, with GCSE Maths and English resits the most common entry point.

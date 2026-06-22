@@ -1,25 +1,25 @@
 ---
 title: "Private GCSE Tutors in St Albans | The Degree Gap"
 nav_title: "GCSE"
-description: "St Albans GCSE tutors who lift students into the grade bands sixth forms here actually ask for. Maths, English, Sciences, matched per exam board."
+description: "St Albans GCSE tutors who work one-to-one to lift the predicted grade towards what the local sixth forms ask for. Maths, English, Sciences, matched per exam board."
 layout: "subject"
 location: "St Albans"
 level: "GCSE"
 grade_from: "5"
 grade_to: "7"
-grade_stat: "Omo's son moved from a grade 5 to a 6/7 in GCSE English after six months of one-to-one tutoring."
+grade_stat: "A real GCSE English outcome from a student we worked with, after six months of weekly one-to-one tutoring."
 
 hero_heading_line1: "St Albans GCSE Tutors Who Lift the Predicted Grade Where It Needs to Be"
 hero_heading_line2: ""
-hero_lead: "In St Albans the grade 7 ceiling is the real one. Our St Albans GCSE tutors push students from a comfortable 6 or 7 into the clean 8s and 9s sixth forms here actually ask for."
+hero_lead: "In St Albans, most parents are watching the gap between their child's predicted grade and what the local sixth forms quietly expect. Our St Albans GCSE tutors work one-to-one to lift the predicted grade wherever a student is sitting today."
 
 first_lesson_eyebrow: "INSIDE A ST ALBANS GCSE PUSH"
-first_lesson_heading: "Where a St Albans GCSE Tutor Finds the Top-Band Marks"
+first_lesson_heading: "What a St Albans GCSE Tutor Spots in the First Mock"
 first_lesson_context: "In St Albans, a sixth-form offer at St Albans School, Loreto or Sandringham routinely turns on the gap between where the student is sitting now and where the sixth form is set. A good GCSE tutor reads the recent paper in week one, finds where the marks are slipping, and the GCSE tutoring plan builds back from there."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him."
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
-first_lesson_quote_grade: "Grade 5 to Grade 6/7 in GCSE English"
+first_lesson_quote_grade: "GCSE English"
 
 tutor_strip_heading: "St Albans GCSE tutors who know the Sandringham and Verulam standard"
 tutor_strip_body: "Our St Albans GCSE tutors have worked with Year 10 and 11 students across St Albans School, St Albans High School for Girls, Sandringham, Verulam and Beaumont. Browse the roster, or let us match your child."
@@ -30,13 +30,13 @@ pathways_lead: "Most St Albans GCSE tutoring families end up on one of the post-
 pathways:
   - title: "Sixth Forms"
     body: >
-      Sandringham, Verulam, St Albans School and Loreto College draw the strongest of the St Albans GCSE set, with St Albans High School for Girls and Beaumont alongside them. Most ask grade 6 minimum and grade 7 in the chosen A-Level subject, which is where GCSE English tutoring in Year 11 quietly earns the offer.
+      Sandringham, Verulam, St Albans School and Loreto College draw the strongest of the St Albans GCSE set, with St Albans High School for Girls and Beaumont alongside them. Most ask for specific minimum grades in the chosen A-Level subject, which is where GCSE English tutoring in Year 11 quietly earns the offer.
   - title: "Apprenticeships"
     body: >
-      BT's research campus at Adastral Park and Rothamsted Research nearby run early-career and degree apprenticeships in tech and science, with London commuter schemes at HSBC, KPMG and the Bank of England also pulling St Albans Year 11s. Most ask grade 5 in Maths and English, with GCSE Sciences tutoring often what gets a student into the more competitive technical routes.
+      BT's research campus at Adastral Park and Rothamsted Research nearby run early-career and degree apprenticeships in tech and science, with London commuter schemes at HSBC, KPMG and the Bank of England also pulling St Albans Year 11s. Most have published minimum-grade requirements in Maths and English, with GCSE Sciences tutoring often what gets a student into the more competitive technical routes.
   - title: "Further Education"
     body: >
-      Oaklands College runs the city's main BTEC and T Level routes from the Smallford campus, with West Herts College in nearby Watford the other common stop. One-to-one GCSE Maths tuition in Year 11 lifts students past the grade 5 Level 3 threshold those courses gate behind.
+      Oaklands College runs the city's main BTEC and T Level routes from the Smallford campus, with West Herts College in nearby Watford the other common stop. One-to-one GCSE Maths tuition in Year 11 lifts students past the minimum Level 3 entry threshold those courses gate behind.
 
 reviews:
   - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him."

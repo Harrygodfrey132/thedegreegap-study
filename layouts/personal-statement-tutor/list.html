@@ -123,5 +123,43 @@
   </div>
 </section>
 
+{{/* =============================================
+     FIND A LOCAL TUTOR (soft-framed for the UCAS audience)
+     Passes link authority from this backlinked page out to the
+     location pages. Smaller 8-card grid + contextual framing so it
+     does not read as off-topic for a UCAS-focused reader.
+     ============================================= */}}
+{{ $locationPages := where .Site.Pages "Section" "locations" }}
+{{ $locationPages = where $locationPages "Kind" "section" }}
+{{ $locationPages = where $locationPages "Params.layout" "single" }}
+{{ if $locationPages }}
+<section class="home-section home-locations-section" aria-labelledby="ps-locations-title">
+  <div class="container">
+    <div class="home-section__header">
+      <div>
+        <p class="pp-eyebrow">Also from The Degree Gap</p>
+        <h2 id="ps-locations-title">Looking for GCSE or A-Level tutoring too?</h2>
+        <p class="home-section__lead">If you have a younger sibling working towards GCSEs or A-Levels, or you'd like ongoing subject tutoring alongside the personal statement work, we cover most of the UK. Browse the area pages below or view the full list.</p>
+      </div>
+      <a href="/locations/" class="btn btn-outline">View all locations →</a>
+    </div>
+    <div class="home-locations-grid">
+      {{ $cards := slice }}
+      {{ range ($locationPages.ByParam "location") }}
+        {{ if ne .RelPermalink "/locations/" }}
+          {{ $cards = $cards | append . }}
+        {{ end }}
+      {{ end }}
+      {{ range first 8 $cards }}
+      <a href="{{ .RelPermalink }}" class="home-location-card">
+        <span class="home-location-card__name">{{ .Params.location | default .Title }}</span>
+        <span class="home-location-card__link">Find a tutor →</span>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
 {{ partial "formspree.html" . }}
 {{ end }}

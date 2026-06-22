@@ -19,7 +19,7 @@ first_lesson_context: "In a first session with a Baldock Year 11 we usually find
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him."
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
-first_lesson_quote_grade: "Grade 5 to Grade 7 in GCSE English"
+first_lesson_quote_grade: "GCSE English"
 
 tutor_strip_heading: "Baldock GCSE tutors who know the Knights Templar and Hitchin papers"
 tutor_strip_body: "Most of our Baldock GCSE tutors have walked students through the exact specifications taught at Knights Templar and Hitchin. Match by exam board, not just subject. Browse profiles, or let us match your child."
@@ -29,10 +29,10 @@ pathways_lead: "Three routes most Baldock GCSE tutoring families take once resul
 pathways:
   - title: "Sixth Forms"
     body: >
-      Hitchin Boys' Sixth Form and Hitchin Girls' Sixth Form take most Baldock Year 11s aiming at Russell Group A-Levels, with Hills Road Sixth Form College in Cambridge pulling the most academically ambitious. GCSE tutoring in Year 11 typically lifts predicted grades into the grade 7-plus band those sixth forms ask for.
+      Hitchin Boys' Sixth Form and Hitchin Girls' Sixth Form take most Baldock Year 11s aiming at Russell Group A-Levels, with Hills Road Sixth Form College in Cambridge pulling the most academically ambitious. GCSE tutoring in Year 11 typically lifts the predicted grade towards what those sixth forms ask for.
   - title: "Apprenticeships"
     body: >
-      AstraZeneca and ARM in the Cambridge corridor run apprenticeships hiring out of North Hertfordshire, alongside Lockheed Martin in Letchworth. Most need grade 5 in Maths and English, and Sciences tutoring is often what gets a borderline application over the line.
+      AstraZeneca and ARM in the Cambridge corridor run apprenticeships hiring out of North Hertfordshire, alongside Lockheed Martin in Letchworth. Most have published minimum-grade requirements in Maths and English, and Sciences tutoring is often what gets a borderline application over the line.
   - title: "Further Education"
     body: >
       North Hertfordshire College has campuses in Hitchin and Stevenage for Level 3 vocational courses, and Long Road Sixth Form College in Cambridge takes Baldock students wanting BTEC alongside A-Levels. GCSE Maths and English resits are common at the FE end.

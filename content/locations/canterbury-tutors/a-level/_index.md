@@ -15,12 +15,12 @@ grade_stat: "A real A-Level grade jump from a student we worked with, after a fo
 
 first_lesson_eyebrow: "INSIDE A CANTERBURY YEAR 13 RECOVERY"
 first_lesson_heading: "What a Canterbury A-Level Tutor Reads in the First Mock"
-first_lesson_context: "A-Level results across Kent split into two stories. The grammar sixth forms run cohorts where A and A* are the norm; the non-selective sixth forms work harder against the predicted-grade clock. For a student arriving at their first session with a Year 13 mock at C, the tutor reads the paper, marks it the way the exam board marks, and identifies whether the gap is content depth, AO3 evaluation chains, or running out of time on a 2h 30 paper."
+first_lesson_context: "A-Level results across Kent split into two stories. Some sixth forms run cohorts where strong results are the norm; others work harder against the predicted-grade clock. For a student arriving at their first session with a Year 13 mock that came back lower than hoped, the tutor reads the paper, marks it the way the exam board marks, and identifies whether the gap is content depth, AO3 evaluation chains, or running out of time on a 2h 30 paper."
 
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing."
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
-first_lesson_quote_grade: "Grade E to Grade C in A-Level"
+first_lesson_quote_grade: "A-Level"
 
 tutor_strip_heading: "Canterbury A-Level tutors who know the Langton and King's standard"
 tutor_strip_body: "Most of our Canterbury A-Level tutors are recent Russell Group graduates who've been through the same specifications taught at Simon Langton, Barton Court and King's School Canterbury. Matched by exam board, not just subject. Browse profiles, or let us match your child."
@@ -33,7 +33,7 @@ pathways:
       The Langton schools send a steady share of leavers to the Russell Group and Oxbridge, with King's College London, UCL, Bristol and Warwick the most-applied-to alongside Cambridge and Oxford. The University of Kent in Canterbury itself and Canterbury Christ Church take local share, with Kent known for Law, Politics and the Sciences.
   - title: "Degree Apprenticeships"
     body: >
-      Pfizer in Sandwich and the Discovery Park life-sciences hub run degree apprenticeships in pharmaceutical research and bioscience. Eurostar's engineering routes through Ashford also draw Canterbury A-Level leavers, most asking AAB minimum across Sciences and Maths.
+      Pfizer in Sandwich and the Discovery Park life-sciences hub run degree apprenticeships in pharmaceutical research and bioscience. Eurostar's engineering routes through Ashford also draw Canterbury A-Level leavers, each with their own published minimum-grade requirements across Sciences and Maths.
   - title: "Career Pathways"
     body: >
       Some Canterbury A-Level leavers head straight into roles at Pfizer, the NHS Kent trusts or the Eurostar engineering pipeline. Pre-medical foundation years and gap years pointed at Medicine reapplications are also common, especially for students sitting BMAT or UCAT retakes.
@@ -55,8 +55,8 @@ reviews:
   - "Alex|University Student|Cannot recommend The Degree Gap highly enough. Quick and helpful responses. I was immediately matched with a very competent tutor who was a massive help in helping me exceed my target grade and achieve a first class degree at university."
   - "Tommy|University Student|I wish I had found The Degree Gap when I was sitting my school exams. They helped with my dissertation work and without their help I am not sure I would have graduated so successfully and landed a successful job."
 
-faq_1_q: "Our daughter has a Russell Group conditional offer of AAB and is sitting on ABB. What does the tutor actually do?"
-faq_1_a: "Most ABB-into-AAB jumps turn on one subject. The tutor reads recent essays or papers from the subject in question, identifies whether the gap is content, evaluation chains or exam-day pacing, and then drills that question type weekly. Past papers, marked the way the exam board marks. Most students see the predicted grade move within six to eight weeks of consistent sessions."
+faq_1_q: "Our daughter has a Russell Group conditional offer she's not on track for. What does the tutor actually do?"
+faq_1_a: "Most predicted-grade gaps turn on one subject. The tutor reads recent essays or papers from the subject in question, identifies whether the gap is content, evaluation chains or exam-day pacing, and then drills that question type weekly. Past papers, marked the way the exam board marks. Most students see the predicted grade move within six to eight weeks of consistent sessions."
 faq_2_q: "Can a Canterbury A-Level tutor help with Medicine and Oxbridge interview prep?"
 faq_2_a: "Yes. Tutors cover Oxbridge subject interviews, Medicine MMI-style prep, plus UCAT and BMAT coaching for the candidates who need them. Most start in late Year 12 once subject choices are settled, so there's time to run mock interviews before the UCAS submission window closes."
 faq_3_q: "My son is considering dropping A-Level Chemistry. Is it worth trying a tutor first?"

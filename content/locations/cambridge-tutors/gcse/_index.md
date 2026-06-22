@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Cambridge GCSE Tutors Built for the Stretch Beyond Classroom Pace"
 hero_heading_line2: ""
-hero_lead: "Some Year 11s arrive needing a confident grade 5 in English and Maths. Others are stretching for the grade 8 a Hills Road sixth-form subject offer needs. Our Cambridge GCSE tutors handle both briefs, matched on subject, exam board and where the student is sitting in the mark band."
+hero_lead: "Some Year 11s in Cambridge arrive needing a confident pass in English and Maths. Others are stretching for what a Hills Road sixth-form subject offer needs. Our Cambridge GCSE tutors handle both briefs, matched on subject, exam board and where the student is sitting today."
 
 grade_from: "5"
 grade_to: "7"
@@ -20,7 +20,7 @@ first_lesson_context: "The conversation we hear most often from Cambridge parent
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him."
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
-first_lesson_quote_grade: "Grade 5 to Grade 7 in GCSE English"
+first_lesson_quote_grade: "GCSE English"
 
 tutor_strip_heading: "Cambridge GCSE tutors who've worked with Hills Road, Long Road and Parkside students"
 tutor_strip_body: "Most of our Cambridge GCSE tutors are recent graduates of Cambridge and the rest of the Russell Group. They've coached students through the specifications taught at Hills Road, Long Road, Parkside and the wider Cambridge school cohort. Browse profiles, or let us match your child."
@@ -30,10 +30,10 @@ pathways_lead: "Three routes most Cambridge Year 11s take after results day."
 pathways:
   - title: "Sixth Forms"
     body: >
-      Hills Road Sixth Form College and Long Road Sixth Form College take most of the city's academically-aimed Year 11s, with conditional offers usually asking grade 6 minimum and grade 7 in the subjects the student wants to study. Parkside, Netherhall and Stephen Perse run their own sixth forms too, with their own entry standards.
+      Hills Road Sixth Form College and Long Road Sixth Form College take most of the city's academically-aimed Year 11s, with conditional offers that vary by subject and tend to be specific about what they want. Parkside, Netherhall and Stephen Perse run their own sixth forms too, with their own entry standards.
   - title: "Apprenticeships"
     body: >
-      AstraZeneca's Cambridge HQ runs degree apprenticeships in pharmaceuticals and tech. ARM and Microsoft Research take engineering apprentices out of the local tech corridor. Most schemes ask for grade 5 minimum in Maths and English, with grade 6 in Sciences for technical routes.
+      AstraZeneca's Cambridge HQ runs degree apprenticeships in pharmaceuticals and tech. ARM and Microsoft Research take engineering apprentices out of the local tech corridor. Most schemes have published minimum-grade requirements in Maths and English, with stricter Sciences requirements for technical routes.
   - title: "Further Education"
     body: >
       Cambridge Regional College and the College of West Anglia in the wider area cover Level 3 BTEC routes alongside A-Levels, with vocational pathways into engineering, healthcare and the local tech apprenticeship pipeline. GCSE Maths and English resits are the most common entry-point.
@@ -55,7 +55,7 @@ reviews:
   - "Theresa|Parent|The Degree Gap was fantastic. Their knowledge and guidance helped my son find direction in both his studies and future plans."
   - "Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE. Thank you."
 
-faq_1_q: "Hills Road is asking grade 7 in the subject. What does a Cambridge GCSE tutor do to close that gap?"
+faq_1_q: "Hills Road has specific subject requirements for its A-Levels. How does a Cambridge GCSE tutor help close the gap?"
 faq_1_a: "Most grade 6 to grade 7 jumps live in the question types the classroom hasn't had time for. The tutor takes recent papers, identifies the question types losing the most marks, and drills them weekly. For English Literature, that's the unseen poetry analysis under timed conditions. For Maths, the six-mark problem-solving questions on paper 3. For Sciences, the application questions in the longer-mark slots."
 faq_2_q: "My son got a clean grade 9 on the November mocks. Can a GCSE tutor stretch him further?"
 faq_2_a: "Yes, and it's a fair share of what we do in Cambridge. For a strong grade 9 student, tutoring shifts into A-Level content early, A-Level Maths techniques applied to GCSE problems, A-Level Biology depth on synoptic GCSE topics. It softens the GCSE-to-A-Level jump that catches even strong students out the following September."

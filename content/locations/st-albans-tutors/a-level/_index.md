@@ -1,24 +1,24 @@
 ---
 title: "Expert A-Level Tutors in St Albans | The Degree Gap"
-description: "St Albans A-Level tutors who lift A grades into A* for Oxbridge, Medicine and Russell Group offers. Maths, Sciences, Economics, matched per exam board."
+description: "St Albans A-Level tutors who lift the predicted grade for Oxbridge, Medicine and Russell Group offers. Maths, Sciences, Economics, matched per exam board."
 layout: "subject"
 location: "St Albans"
 level: "A-Level"
 grade_from: "C"
 grade_to: "A"
-grade_stat: "Alexander's child went from C grades to A grades with their Degree Gap tutor."
+grade_stat: "A real A-Level outcome from a student we worked with through Year 13."
 
-hero_heading_line1: "St Albans A-Level Tutors For the A* and Russell Group Push"
+hero_heading_line1: "St Albans A-Level Tutors Who Lift the Predicted Grade Before UCAS"
 hero_heading_line2: ""
-hero_lead: "Our St Albans A-Level tutors lift A grades into A*s, year after year. Most start in Year 12, ahead of the January mocks that set the UCAS predicted grade Russell Group offers depend on."
+hero_lead: "Our St Albans A-Level tutors work one-to-one with students to lift the predicted grade, year after year. Most start in Year 12, ahead of the January mocks that set the UCAS predicted grade Russell Group offers depend on."
 
-first_lesson_eyebrow: "ONE ST ALBANS A-STAR STORY"
-first_lesson_heading: "How a St Albans A-Level Tutor Lifts an A Into an A*"
-first_lesson_context: "A-Level results across Hertfordshire sit above the national picture, but inside St Albans the bar is higher again. So our St Albans A-Level tutors don't focus on struggling students; the A-Level tutoring plan lifts confident A candidates into the A* band Russell Group and Medicine offers actually expect."
+first_lesson_eyebrow: "ONE ST ALBANS A-LEVEL STORY"
+first_lesson_heading: "How a St Albans A-Level Tutor Closes the Predicted-Grade Gap"
+first_lesson_context: "A-Level results across Hertfordshire sit above the national picture. Our St Albans A-Level tutors work one-to-one with students at every level of that picture, lifting the predicted grade wherever it needs to go for the universities they have in mind."
 first_lesson_quote: "The Degree Gap helped my child go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and applications."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
-first_lesson_quote_grade: "C grades to A grades"
+first_lesson_quote_grade: "A-Level"
 
 tutor_strip_heading: "St Albans A-Level tutors who've coached the Russell Group and Oxbridge gates"
 tutor_strip_body: "Our St Albans A-Level tutors have worked with Year 12s and 13s aiming at Cambridge, Oxford, Imperial, UCL and the wider Russell Group. Browse the profiles, or we'll make the introduction."
@@ -29,10 +29,10 @@ pathways_lead: "Most St Albans A-Level tutoring students leave for one of these 
 pathways:
   - title: "Universities"
     body: >
-      Cambridge sits 30 minutes up the line and pulls a steady stream of St Albans A-Level students, with Oxford, UCL, Imperial and LSE close behind. An A-Level Maths tutor in Year 12 is usually what lifts a predicted A into the A* the competitive Medicine, Engineering and Natural Sciences offers ask for.
+      Cambridge sits 30 minutes up the line and pulls a steady stream of St Albans A-Level students, with Oxford, UCL, Imperial and LSE close behind. An A-Level Maths tutor in Year 12 is usually what lifts the predicted grade towards what the competitive Medicine, Engineering and Natural Sciences offers ask for.
   - title: "Degree Apprenticeships"
     body: >
-      PwC, KPMG, Deloitte and the Bank of England run school-leaver and degree apprenticeships out of London a short train ride away, with BT at Adastral Park hiring locally for tech routes. Most ask AAB to A*AA at A-Level, and A-Level Economics tutoring at the higher end is often what pulls a predicted ABB into the AAB band the scheme actually needs.
+      PwC, KPMG, Deloitte and the Bank of England run school-leaver and degree apprenticeships out of London a short train ride away, with BT at Adastral Park hiring locally for tech routes. Each has its own published predicted-grade requirements, and A-Level Economics tutoring is often what pulls the predicted grade towards what the scheme actually needs.
   - title: "Career Pathways"
     body: >
       Finance and consulting pull the bulk of St Albans A-Level leavers through the commuter line into the City, with Medicine via UCL, King's and Imperial the other strong route. A-Level English Literature tutoring sits behind the strongest law-degree offers, and A-Level Chemistry tutoring behind the competitive Medicine ones.

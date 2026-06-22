@@ -14,7 +14,7 @@ hero_lead: "Our Derby A-Level tutors lift predicted grades by a band, sometimes 
 
 first_lesson_eyebrow: "FROM YEAR 12 MOCKS TO YEAR 13 OFFER"
 first_lesson_heading: "What a Derby A-Level Tutor Diagnoses in Week One"
-first_lesson_context: "By the end of Year 12, A-Level grades are already shaping the predicted grade UCAS will see. Our Derby A-Level tutors close the depth-gap that costs students the A and A* marks, and the A-Level tutoring plan builds Year 13 confidence from there."
+first_lesson_context: "By the end of Year 12, A-Level results are already shaping the predicted grade UCAS will see. Our Derby A-Level tutors close the depth-gap that costs students marks at the top end of their paper, and the A-Level tutoring plan builds Year 13 confidence from there."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing."
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
@@ -28,10 +28,10 @@ pathways_lead: "Three routes most Derby A-Level tutoring students take after UCA
 pathways:
   - title: "Universities"
     body: >
-      The University of Nottingham is the most-applied-to Russell Group destination for Derby A-Level students, with Loughborough strong on Engineering and Sport Science alongside it. An A-Level Maths tutor or A-Level Sciences tutor in Year 12 is usually what lifts a predicted B into the A or A* the competitive STEM courses ask for.
+      The University of Nottingham is the most-applied-to Russell Group destination for Derby A-Level students, with Loughborough strong on Engineering and Sport Science alongside it. An A-Level Maths tutor or A-Level Sciences tutor in Year 12 is usually what lifts the predicted grade towards what the competitive STEM courses ask for.
   - title: "Degree Apprenticeships"
     body: >
-      Rolls-Royce runs Level 6 degree apprenticeships from Sinfin across engineering disciplines, with Toyota at Burnaston and Alstom at Litchurch Lane alongside it. Most ask BBB to AAB at A-Level, with A-Level Maths tutoring or A-Level Physics tutoring at the higher end often what separates an offer from a near-miss.
+      Rolls-Royce runs Level 6 degree apprenticeships from Sinfin across engineering disciplines, with Toyota at Burnaston and Alstom at Litchurch Lane alongside it. Each has its own published predicted-grade requirements, with A-Level Maths tutoring or A-Level Physics tutoring at the higher end often what separates an offer from a near-miss.
   - title: "Career Pathways"
     body: >
       Engineering is the dominant Derby route, with Rolls-Royce, Toyota and Alstom together pulling the city's STEM A-Level leavers. Healthcare via Nursing and Medicine degrees feeds the NHS Derby and Burton trust, with A-Level English Literature tutoring or A-Level History tutoring also leading into the legal and education routes Derby students often take.

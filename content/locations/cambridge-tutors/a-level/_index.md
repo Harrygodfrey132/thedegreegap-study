@@ -15,12 +15,12 @@ grade_stat: "Real A-Level grade movement from a student who came to us in the C-
 
 first_lesson_eyebrow: "FROM JANUARY MOCK TO UCAS OFFER"
 first_lesson_heading: "What an A-Level Tutor in Cambridge Diagnoses Before Mocks"
-first_lesson_context: "A* grades at A-Level aren't accidents. They sit on top of a method shift that GCSE rarely forced, and the pace at most Cambridge sixth forms assumes students will pick that shift up on their own. For a Year 12 hitting a B in an end-of-year mock with strong GCSEs in the bank, the gap is rarely effort. It's the analytical precision A-Level rewards across the longer questions, which doesn't always get explicitly taught."
+first_lesson_context: "Top A-Level results aren't accidents. They sit on top of a method shift that GCSE rarely forced, and the pace at most Cambridge sixth forms assumes students will pick that shift up on their own. For a Year 12 hitting a lower mark in an end-of-year mock than expected, the gap is rarely effort. It's the analytical precision A-Level rewards across the longer questions, which doesn't always get explicitly taught."
 
 first_lesson_quote: "The Degree Gap helped my child go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and applications."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
-first_lesson_quote_grade: "Grade C to Grade A in A-Level"
+first_lesson_quote_grade: "A-Level"
 
 tutor_strip_heading: "Cambridge A-Level tutors who've sat the offers the city is aiming at"
 tutor_strip_body: "Most of our Cambridge A-Level tutors are Cambridge, Oxford and Russell Group graduates who've recently come through the same A-Level papers and the same UCAS gates. Matched by specification, not just subject. Browse profiles, or let us match your child."
@@ -33,7 +33,7 @@ pathways:
       Hills Road and Long Road sit among the biggest feeder colleges into Oxbridge nationally, with steady cohorts also heading to Imperial, UCL, Warwick and the rest of the Russell Group. The University of Cambridge itself takes a small but consistent local share, alongside Anglia Ruskin on the city's vocational and creative side.
   - title: "Degree Apprenticeships"
     body: >
-      AstraZeneca, ARM and Microsoft Research run degree apprenticeships in pharmaceutical research, semiconductor engineering and software, drawing from Cambridge A-Level leavers. Most ask AAB minimum, with Maths and Sciences carrying the weight on technical-route applications.
+      AstraZeneca, ARM and Microsoft Research run degree apprenticeships in pharmaceutical research, semiconductor engineering and software, drawing from Cambridge A-Level leavers. Each has its own minimum-grade requirements, with Maths and Sciences carrying the weight on technical-route applications.
   - title: "Career Pathways"
     body: >
       Some Cambridge A-Level leavers go straight into roles at AstraZeneca, GSK and the Silicon Fen tech corridor without the university step. Pre-medical foundation routes and gap years pointed at Medicine reapplications also feature, especially for students sitting Cambridge or Oxford Medicine retakes.
@@ -56,9 +56,9 @@ reviews:
   - "Jeanne|University Applicant|I received quick and extremely helpful feedback on my personal statement for my master's applications. I can't recommend The Degree Gap enough."
 
 faq_1_q: "Can a Cambridge A-Level tutor help with Oxbridge and Medicine applications?"
-faq_1_a: "Yes, and it's a meaningful share of our Cambridge A-Level work. Tutors cover interview preparation for both Oxbridge and Medicine, UCAT and BMAT coaching, plus the A* gap work for the predicted grade those offers ask for. Most students start in late Year 12 or early Year 13, before the UCAS submission window closes."
-faq_2_q: "My son got grade 9 in GCSE Maths but he's hitting a C in Year 12 Maths mocks. What's gone wrong?"
-faq_2_a: "Nothing's gone wrong, the subject has changed. A-Level Maths uses different methods, expects independent practice in volume, and rewards the multi-step problems GCSE rarely touches. A tutor traces which pure, mechanics or statistics method is causing the leak, then drills it weekly. Most students are back at A or A* by the end of Year 12 mocks."
+faq_1_a: "Yes, and it's a meaningful share of our Cambridge A-Level work. Tutors cover interview preparation for both Oxbridge and Medicine, UCAT and BMAT coaching, plus the predicted-grade work those offers turn on. Most students start in late Year 12 or early Year 13, before the UCAS submission window closes."
+faq_2_q: "My son did well in GCSE Maths but he's struggling in Year 12 Maths mocks. What's gone wrong?"
+faq_2_a: "Nothing's gone wrong, the subject has changed. A-Level Maths uses different methods, expects independent practice in volume, and rewards the multi-step problems GCSE rarely touches. A tutor traces which pure, mechanics or statistics method is causing the leak, then drills it weekly. Most students are back on track by the end of Year 12 mocks."
 faq_3_q: "Will the tutor know my child's exam board and specification?"
 faq_3_a: "Yes, and matching on specification is one of the first things we check. AQA Biology and OCR Biology aren't the same paper. Edexcel and Edexcel International further diverge. We match on the specification the sixth form is teaching, not just the subject name."
 faq_4_q: "What does A-Level tutoring in Cambridge cost?"

@@ -7,20 +7,20 @@ level: "GCSE"
 
 hero_heading_line1: "High Wycombe GCSE Tutors Who Lift the Predicted Grade Where It Needs to Be"
 hero_heading_line2: ""
-hero_lead: "By Year 11, a grade 7 isn't always the win it sounds like. Not when the local grammar sixth forms ask for grade 7 just to stay on for A-Level, and most subjects want grade 8 to take them. Our High Wycombe GCSE tutors lift the predicted grade wherever a student is sitting today, towards what the grammar sixth forms quietly ask for."
+hero_lead: "By Year 11, most High Wycombe parents are watching the gap between their child's predicted grade and what the local sixth forms quietly expect. Our High Wycombe GCSE tutors work one-to-one to lift the predicted grade wherever a student is sitting today, towards what the sixth form is actually asking for."
 
 grade_from: "5"
 grade_to: "7"
 grade_stat: "Real GCSE English grade jump from a Year 10 student we worked with, after six months of weekly one-to-one tutoring."
 
-first_lesson_eyebrow: "A WYCOMBE GRAMMAR YEAR 10 STORY"
-first_lesson_heading: "Where a High Wycombe GCSE Tutor Earns the Extra Mark Band"
-first_lesson_context: "The grade 7-to-grade-8 gap at GCSE is rarely a content gap. It's a question-by-question gap, the same student losing two or three marks on the longer Biology questions, half a band on the Maths problem-solving paper, a stray AO3 mark on the English Literature essay. A GCSE tutor reads recent mock papers, marks them the way the exam board marks, and rebuilds the question types where the marks are sitting on the table."
+first_lesson_eyebrow: "A WYCOMBE YEAR 10 STORY"
+first_lesson_heading: "What a High Wycombe GCSE Tutor Spots in the First Mock"
+first_lesson_context: "The gap between where a GCSE student is sitting today and where they could be is rarely a content gap. It's a question-by-question gap, the same student losing marks on the longer Biology questions, dropping points on the Maths problem-solving paper, a stray AO3 mark on the English Literature essay. A GCSE tutor reads recent mock papers, marks them the way the exam board marks, and rebuilds the question types where the marks are leaking."
 
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him."
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
-first_lesson_quote_grade: "Grade 5 to Grade 7 in GCSE English"
+first_lesson_quote_grade: "GCSE English"
 
 tutor_strip_heading: "High Wycombe GCSE tutors who know what the Royal Grammar bar looks like"
 tutor_strip_body: "Most of our High Wycombe GCSE tutors have walked students through the specifications the Royal Grammar, John Hampden and Wycombe High teach. Match by exam board and by the question types those schools weight hardest in mocks. Browse profiles, or let us match your child."
@@ -30,10 +30,10 @@ pathways_lead: "Three routes most High Wycombe Year 11s take once results day is
 pathways:
   - title: "Sixth Forms"
     body: >
-      The Royal Grammar School, John Hampden Grammar and Wycombe High keep most of their own students for A-Level, but conditional offers ask for grade 7 minimum, and grade 8 in the subjects students want to study. Amersham School and Princes Risborough run sixth forms too, with broader entry requirements and BTEC routes alongside A-Levels.
+      The Royal Grammar School, John Hampden Grammar and Wycombe High keep most of their own students for A-Level, with conditional offers that vary by subject and tend to be specific about what they want. Amersham School and Princes Risborough run sixth forms too, with broader entry requirements and BTEC routes alongside A-Levels.
   - title: "Apprenticeships"
     body: >
-      Adams Foods in Aylesbury, Heathrow nearby and the Buckinghamshire apprenticeship hub all run schemes drawing from Wycombe Year 11s. Most ask grade 5 in Maths and English, with technical routes wanting grade 6 in Sciences.
+      Adams Foods in Aylesbury, Heathrow nearby and the Buckinghamshire apprenticeship hub all run schemes drawing from Wycombe Year 11s. Most have minimum requirements in Maths and English, with technical routes asking for specific levels in Sciences.
   - title: "Further Education"
     body: >
       Buckinghamshire College Group's Wycombe campus runs Level 3 vocational courses and BTEC programmes for students taking a different route to A-Levels. Activate Learning's nearby Reading campus also picks up Wycombe students wanting a course outside the grammar pathway.
@@ -55,8 +55,8 @@ reviews:
   - "Theresa|Parent|The Degree Gap was fantastic. Their knowledge and guidance helped my son find direction in both his studies and future plans."
   - "Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE. Thank you."
 
-faq_1_q: "We're aiming for grade 8 to stay on at a Wycombe grammar sixth form. What does the tutor actually do differently?"
-faq_1_a: "Grade 8 is mostly a question-type problem, not a content problem. The tutor takes recent mock papers, identifies the question types where marks are leaking (six-mark Maths problems, AO3 evaluation paragraphs in English, application questions in Sciences), and drills those specifically. Most students go from a clean 7 to a clean 8 inside a half term of weekly sessions."
+faq_1_q: "How does a tutor help a Wycombe student aim for a grammar sixth form place?"
+faq_1_a: "Most of the gap between where a student is and where the sixth form is asking for is a question-type problem, not a content one. The tutor takes recent mock papers, identifies the question types where marks are leaking (six-mark Maths problems, AO3 evaluation paragraphs in English, application questions in Sciences), and drills those specifically. Most students see the predicted grade move inside a half term of weekly sessions."
 faq_2_q: "Do you cover all three Sciences for triple-award students in High Wycombe?"
 faq_2_a: "Yes, with separate Biology, Chemistry and Physics specialists. Triple Science students at the grammars tend to plateau on the six and nine-mark questions in one specific subject, not all three. We match a subject specialist for whichever Science is leaking marks, rather than asking one tutor to cover all three."
 faq_3_q: "When should we book GCSE tutoring? Year 10 or wait until Year 11?"

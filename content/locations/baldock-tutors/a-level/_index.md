@@ -15,11 +15,11 @@ grade_stat: "A real two-grade A-Level jump from a student we worked with through
 
 first_lesson_eyebrow: "A BALDOCK A-LEVEL TURNAROUND"
 first_lesson_heading: "What a Baldock A-Level Tutor Reads in Year 12 Mocks"
-first_lesson_context: "In a first session with a Baldock Year 12, we usually find the same picture. The student earned grade 8s at GCSE and is now sitting at a C in their A-Level subject. Not because the work is too hard, because A-Level rewards a different kind of thinking GCSE never asked for. A Baldock A-Level tutor names that gap, then rebuilds the method week by week."
+first_lesson_context: "In a first session with a Baldock Year 12, we usually find the same picture. The student arrived with strong GCSEs and is now sitting at a lower mark in their A-Level subject than expected. Not because the work is too hard, because A-Level rewards a different kind of thinking GCSE never asked for. A Baldock A-Level tutor names that gap, then rebuilds the method week by week."
 first_lesson_quote: "The Degree Gap helped my child go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and applications."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
-first_lesson_quote_grade: "Grade C to Grade A across A-Levels"
+first_lesson_quote_grade: "A-Level"
 
 tutor_strip_heading: "Baldock A-Level tutors matched to your spec and your sixth form"
 tutor_strip_body: "Most of our Baldock A-Level tutors are graduates from Russell Group universities, vetted on how clearly they explain a difficult idea, not just their degree result. Match by spec, not just subject. Browse profiles, or let us match your child."
@@ -29,10 +29,10 @@ pathways_lead: "Three routes Baldock A-Level tutoring families take once UCAS co
 pathways:
   - title: "Universities"
     body: >
-      Cambridge takes a small slice each year, with Nottingham and Loughborough admitting most of Baldock's Year 13 cohort, plus a steady London commute into UCL and KCL. A-Level tutoring lifts predicted grades into the AAB-to-AAA band most Russell Group conditional offers ask for.
+      Cambridge takes a small slice each year, with Nottingham and Loughborough admitting most of Baldock's Year 13 cohort, plus a steady London commute into UCL and KCL. A-Level tutoring lifts the predicted grade towards what most Russell Group conditional offers ask for.
   - title: "Degree Apprenticeships"
     body: >
-      AstraZeneca runs degree apprenticeships from its Cambridge campus, and ARM in Cambridge takes engineering and tech routes. Most ask for AAB at minimum, which is where A-Level tutoring earns its place across Year 13.
+      AstraZeneca runs degree apprenticeships from its Cambridge campus, and ARM in Cambridge takes engineering and tech routes. Each has its own minimum-grade requirements, which is where A-Level tutoring earns its place across Year 13.
   - title: "Career Pathways"
     body: >
       Plenty of Baldock A-Level leavers head straight into the City, with the London commuter line putting Goldman Sachs and HSBC graduate routes within reach from Year 13. A-Level tutoring helps students hit the predicted grades these schemes screen on.
