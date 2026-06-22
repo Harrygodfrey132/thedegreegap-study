@@ -6980,6 +6980,125 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   font-size: 0.8rem;
 }
 
+/* Blog strip on homepage */
+.home-blog-section {
+  padding-bottom: 72px;
+}
+
+.home-blog-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 28px;
+}
+
+.home-blog-card {
+  display: flex;
+  flex-direction: column;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+  box-shadow: 0 6px 18px rgba(35, 23, 17, 0.04);
+  transition: box-shadow 0.18s ease, transform 0.18s ease;
+}
+
+.home-blog-card:hover {
+  box-shadow: 0 12px 28px rgba(35, 23, 17, 0.08);
+  transform: translateY(-2px);
+}
+
+.home-blog-card__media {
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  overflow: hidden;
+  background: #f3ecdf;
+}
+
+.home-blog-card__media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.5s ease;
+}
+
+.home-blog-card:hover .home-blog-card__media img {
+  transform: scale(1.04);
+}
+
+.home-blog-card__body {
+  padding: 22px 22px 24px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  gap: 12px;
+}
+
+.home-blog-card__eyebrow {
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  color: #800020;
+  text-transform: uppercase;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.home-blog-card__eyebrow-sep {
+  color: #c5bcaf;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.home-blog-card__title {
+  font-size: 1.15rem;
+  font-weight: 800;
+  letter-spacing: -0.018em;
+  color: var(--text);
+  line-height: 1.25;
+  margin: 0;
+  transition: color 0.18s ease;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.home-blog-card:hover .home-blog-card__title {
+  color: #800020;
+}
+
+.home-blog-card__excerpt {
+  font-size: 0.9rem;
+  line-height: 1.55;
+  color: var(--text-muted);
+  margin: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.home-blog-card__cta {
+  font-size: 0.85rem;
+  font-weight: 800;
+  color: #800020;
+  margin-top: auto;
+  padding-top: 4px;
+}
+
+@media (max-width: 880px) {
+  .home-blog-grid { grid-template-columns: repeat(2, 1fr); gap: 22px; }
+}
+
+@media (max-width: 600px) {
+  .home-blog-grid { grid-template-columns: 1fr; gap: 22px; }
+}
+
 /* Final CTA */
 .home-final-cta {
   padding: 72px 0;

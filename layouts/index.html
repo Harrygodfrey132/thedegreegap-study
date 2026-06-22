@@ -4,8 +4,8 @@
 <section class="home-hero home-hero--video">
   <div class="container">
     <div class="home-hero__inner">
-      <h1>Personalised Tutoring That Helps Students <br>Reach Their Potential</h1>
-      <p class="home-hero__lead">A small UK tutoring agency that knows the difference between a tired student and a lazy one. We match families with tutors who know it too.</p>
+      <h1>Award-winning GCSE and A-Level <br>tutoring specialists</h1>
+      <p class="home-hero__lead">A UK tutoring agency that personally matches students with vetted and qualified tutors.</p>
       <div class="home-hero__video">
         <div class="loc-lite-video" data-youtube-id="5zKZLb9mFSk" data-youtube-title="The Degree Gap — introduction">
           <a href="https://youtu.be/5zKZLb9mFSk" class="loc-lite-video__button" target="_blank" rel="noopener" aria-label="Play video: The Degree Gap introduction">
@@ -72,7 +72,7 @@
       <li class="home-howitworks__step">
         <span class="home-howitworks__number">3</span>
         <h3>Start sessions from £37/hr</h3>
-        <p>Online one-to-one through Lessonspace, weekly and consistent. Most families notice the change in confidence within the first few sessions.</p>
+        <p>Online one-to-one through Lessonspace, weekly and consistent. The first change parents tend to notice is how their child talks about the subject, not the grade.</p>
       </li>
     </ol>
   </div>
@@ -145,8 +145,8 @@
   <div class="container">
     <div class="home-section__header">
       <div>
-        <p class="pp-eyebrow">What Families Say</p>
-        <h2>Real students. Real grades. Real reviews.</h2>
+        <p class="pp-eyebrow">What parents tell us</p>
+        <h2>What parents and students actually say</h2>
         <p class="home-section__lead">Over 100 five-star reviews on Google. A few from parents and students we've worked with recently.</p>
       </div>
       <a href="https://share.google/Oq5KJu7wswxBZKspk" class="btn btn-outline" target="_blank" rel="noopener">Read more reviews →</a>
@@ -186,8 +186,8 @@
     <div class="home-section__header">
       <div>
         <p class="pp-eyebrow">Local Tutoring</p>
-        <h2>Find a Tutor That Covers Your Area</h2>
-        <p class="home-section__lead">We provide GCSE and A-Level tutoring across the UK. Find your local tutoring page for schools, subject guides, and everything you need to get started.</p>
+        <h2>Find a tutor for your area</h2>
+        <p class="home-section__lead">GCSE and A-Level tutoring for families across the UK. Click through to your area for the local schools we know, the exam boards we match on, and what parents nearby have asked us about most often.</p>
       </div>
       <a href="/locations/" class="btn btn-outline">View all locations →</a>
     </div>
@@ -202,6 +202,46 @@
       <a href="{{ .RelPermalink }}" class="home-location-card">
         <span class="home-location-card__name">{{ .Params.location | default .Title }}</span>
         <span class="home-location-card__link">Find a tutor →</span>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<!-- From the Blog (3 latest posts) — moved to the bottom so the page leads with the offer first -->
+{{ $blogPosts := first 3 (where .Site.RegularPages "Section" "blog").ByDate.Reverse }}
+{{ if $blogPosts }}
+<section class="home-section home-blog-section">
+  <div class="container">
+    <div class="home-section__header">
+      <div>
+        <p class="pp-eyebrow">From the Blog</p>
+        <h2>Honest guides for parents</h2>
+        <p class="home-section__lead">Founder-written notes on GCSEs, A-Levels and UCAS. The conversations we hear most often from families.</p>
+      </div>
+      <a href="/blog/" class="btn btn-outline">View all articles →</a>
+    </div>
+    <div class="home-blog-grid">
+      {{ range $blogPosts }}
+      <a href="{{ .RelPermalink }}" class="home-blog-card">
+        {{ with .Params.hero_image }}
+        <div class="home-blog-card__media">
+          <img src="{{ . }}" alt="" loading="lazy">
+        </div>
+        {{ end }}
+        <div class="home-blog-card__body">
+          <p class="home-blog-card__eyebrow">
+            {{ with (or .Params.category (index .Params.tags 0)) }}{{ . }}{{ end }}
+            <span class="home-blog-card__eyebrow-sep" aria-hidden="true">&middot;</span>
+            {{ .ReadingTime }} min read
+          </p>
+          <h3 class="home-blog-card__title">{{ .Title }}</h3>
+          {{ with (or .Params.excerpt .Params.description) }}
+          <p class="home-blog-card__excerpt">{{ . }}</p>
+          {{ end }}
+          <span class="home-blog-card__cta">Read article →</span>
+        </div>
       </a>
       {{ end }}
     </div>
