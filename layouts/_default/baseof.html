@@ -14,9 +14,12 @@
   <link rel="preconnect" href="https://i.ytimg.com" crossorigin>
   <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
   <link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
-  <!-- Preload hint so browser starts CSS fetch earlier in the critical path -->
-  <link rel="preload" href="/css/main.css" as="style">
-  <link rel="stylesheet" href="/css/main.css">
+  <!-- Preload hint so browser starts CSS fetch earlier in the critical path.
+       Cache-busting query string uses the CSS file's modification time so
+       browsers re-fetch automatically whenever main.css changes. -->
+  {{ $cssVersion := (os.Stat "static/css/main.css").ModTime.Unix }}
+  <link rel="preload" href="/css/main.css?v={{ $cssVersion }}" as="style">
+  <link rel="stylesheet" href="/css/main.css?v={{ $cssVersion }}">
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-X8HZE9WB3J"></script>
   <script>
