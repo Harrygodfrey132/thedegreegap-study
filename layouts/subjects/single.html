@@ -226,6 +226,62 @@ Frontmatter contract:
 {{ end }}
 
 <!-- =============================================
+     SECTION 2.47: CONTACT FORM + FAQ (right after Parent Voices)
+     ============================================= -->
+<section class="loc-contact-faq" id="get-help">
+  <div class="loc-contact-faq__inner">
+    <div class="loc-contact-faq__form-wrap">
+      <div class="loc-contact-faq__form-bg" aria-hidden="true"></div>
+      <div class="loc-contact-faq__form-card">
+        <h2>{{ .Params.form_cta | default (printf "Tell Joe what is going wrong with %s" $subject) }}</h2>
+        <p>{{ .Params.form_intro | default "He will be on a call with you within one working day. No sales pitch, no obligation. We will talk through the exam board, the predicted grade and what you have already tried, then recommend the right tutor." }}</p>
+        <p class="loc-pricing-note">Sessions start from <strong>£37 per hour</strong>. The exact rate is agreed before any session is booked.</p>
+        <form action="{{ .Site.Params.formspreeEndpoint }}" method="POST" novalidate>
+          <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
+          <div aria-hidden="true" style="position:absolute;left:-9999px;top:-9999px;width:0;height:0;overflow:hidden;opacity:0">
+            <input type="text" name="address_url" data-bait="1" tabindex="-1" autocomplete="off">
+            <input type="email" name="company_website" data-bait="1" tabindex="-1" autocomplete="off">
+          </div>
+          <input type="hidden" name="_subject" value="New enquiry from {{ $subject }} subject page | The Degree Gap Study">
+          <input type="hidden" name="_next" value="{{ "/book-a-call-thank-you/" | absURL }}">
+          <input type="hidden" name="page_url" value="{{ .RelPermalink }}">
+          <input type="hidden" name="subject" value="{{ $subject }}">
+          <div class="loc-form-group">
+            <input type="text" name="name" placeholder="Full Name*" required>
+          </div>
+          <div class="loc-form-group">
+            <input type="tel" name="phone" placeholder="Phone Number*" autocomplete="tel" required>
+          </div>
+          <div class="loc-form-group">
+            <textarea name="message" rows="4" placeholder="{{ .Params.form_message_placeholder | default "Tell us where your child is stuck — exam board, predicted grade, anything you have already tried." }}"></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary loc-form-submit">{{ .Params.form_button | default "Book my free call with Joe" }}</button>
+        </form>
+      </div>
+    </div>
+
+    {{ if $faqs }}
+    <div class="loc-faq">
+      <h2>Things {{ $subject }} parents ask us</h2>
+      <div class="loc-accordion loc-accordion--faq">
+        {{ range $faqs }}
+        <details class="loc-accordion__item">
+          <summary class="loc-accordion__trigger">
+            <span>{{ .q }}</span>
+            <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
+          </summary>
+          <div class="loc-accordion__body">
+            <p>{{ .a | safeHTML }}</p>
+          </div>
+        </details>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</section>
+
+<!-- =============================================
      SECTION 2.5: MEET THE FOUNDERS
      ============================================= -->
 {{ if .Params.founders_heading }}
@@ -349,62 +405,45 @@ Frontmatter contract:
 </section>
 
 <!-- =============================================
-     SECTION 9: CONTACT FORM + FAQ (combined, matches location pattern)
+     SECTION 8.5: FIND A LOCAL TUTOR
+     Lets a parent on the subject page jump to the location page
+     for their area, or browse all locations. Mirrors the homepage
+     Local Tutoring section's pattern + styling.
      ============================================= -->
-<section class="loc-contact-faq" id="get-help">
-  <div class="loc-contact-faq__inner">
-    <div class="loc-contact-faq__form-wrap">
-      <div class="loc-contact-faq__form-bg" aria-hidden="true"></div>
-      <div class="loc-contact-faq__form-card">
-        <h2>{{ .Params.form_cta | default (printf "Tell Joe what is going wrong with %s" $subject) }}</h2>
-        <p>{{ .Params.form_intro | default "He will be on a call with you within one working day. No sales pitch, no obligation. We will talk through the exam board, the predicted grade and what you have already tried, then recommend the right tutor." }}</p>
-        <p class="loc-pricing-note">Sessions start from <strong>£37 per hour</strong>. The exact rate is agreed before any session is booked.</p>
-        <form action="{{ .Site.Params.formspreeEndpoint }}" method="POST" novalidate>
-          <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
-          <div aria-hidden="true" style="position:absolute;left:-9999px;top:-9999px;width:0;height:0;overflow:hidden;opacity:0">
-            <input type="text" name="address_url" data-bait="1" tabindex="-1" autocomplete="off">
-            <input type="email" name="company_website" data-bait="1" tabindex="-1" autocomplete="off">
-          </div>
-          <input type="hidden" name="_subject" value="New enquiry from {{ $subject }} subject page | The Degree Gap Study">
-          <input type="hidden" name="_next" value="{{ "/book-a-call-thank-you/" | absURL }}">
-          <input type="hidden" name="page_url" value="{{ .RelPermalink }}">
-          <input type="hidden" name="subject" value="{{ $subject }}">
-          <div class="loc-form-group">
-            <input type="text" name="name" placeholder="Full Name*" required>
-          </div>
-          <div class="loc-form-group">
-            <input type="tel" name="phone" placeholder="Phone Number*" autocomplete="tel" required>
-          </div>
-          <div class="loc-form-group">
-            <textarea name="message" rows="4" placeholder="{{ .Params.form_message_placeholder | default "Tell us where your child is stuck — exam board, predicted grade, anything you have already tried." }}"></textarea>
-          </div>
-          <button type="submit" class="btn btn-primary loc-form-submit">{{ .Params.form_button | default "Book my free call with Joe" }}</button>
-        </form>
+{{ $locationPages := where .Site.Pages "Section" "locations" }}
+{{ $locationPages = where $locationPages "Kind" "section" }}
+{{ $locationPages = where $locationPages "Params.layout" "single" }}
+{{ if $locationPages }}
+<section class="home-section home-locations-section" aria-labelledby="sj-locations-title">
+  <div class="container">
+    <div class="home-section__header">
+      <div>
+        <p class="pp-eyebrow">Find a local tutor</p>
+        <h2 id="sj-locations-title">{{ $subject }} tutoring in your area</h2>
+        <p class="home-section__lead">We match families across the UK with vetted {{ $subject }} tutors. Click through to your nearest area for the local schools we know and the exam boards we match on.</p>
       </div>
+      <a href="/locations/" class="btn btn-outline">View all locations →</a>
     </div>
-
-    {{ if $faqs }}
-    <div class="loc-faq">
-      <h2>Things {{ $subject }} parents ask us</h2>
-      <div class="loc-accordion loc-accordion--faq">
-        {{ range $faqs }}
-        <details class="loc-accordion__item">
-          <summary class="loc-accordion__trigger">
-            <span>{{ .q }}</span>
-            <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
-          </summary>
-          <div class="loc-accordion__body">
-            <p>{{ .a | safeHTML }}</p>
-          </div>
-        </details>
+    <div class="home-locations-grid">
+      {{ $cards := slice }}
+      {{ range ($locationPages.ByParam "location") }}
+        {{ if ne .RelPermalink "/locations/" }}
+          {{ $cards = $cards | append . }}
         {{ end }}
-      </div>
+      {{ end }}
+      {{ range first 12 $cards }}
+      <a href="{{ .RelPermalink }}" class="home-location-card">
+        <span class="home-location-card__name">{{ .Params.location | default .Title }}</span>
+        <span class="home-location-card__link">Find a tutor →</span>
+      </a>
+      {{ end }}
     </div>
-    {{ end }}
   </div>
 </section>
+{{ end }}
 
-{{/* Reviews drawer (already used in location pages) */}}
+{{/* Form + FAQ section moved higher up (right after the Trust strip).
+     Reviews drawer (already used in location pages) */}}
 {{ partial "reviews-drawer.html" . }}
 
 </div><!-- /.sj-page-wrap -->

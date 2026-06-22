@@ -9672,3 +9672,38 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 }
 
 
+
+/* ============================================================
+   Subject page — light quieting pass
+   Three targeted moves only: drop decorative background overlays,
+   soften card shadows, hide the floating sticky CTA bar.
+   Structure, typography, colours and tints unchanged.
+   ============================================================ */
+
+/* 1. Remove decorative pseudo-element background overlays */
+.sj-page-wrap .loc-hero::before,
+.sj-page-wrap .sj-trust::before,
+.sj-page-wrap .hub-section--tint::before,
+.sj-page-wrap .sj-pricing::before,
+.sj-page-wrap .loc-online::before,
+.sj-page-wrap .sj-stats::before {
+  display: none !important;
+}
+
+/* 2. Soften card shadows (was heavy 6-18px, now subtle 2-6px) */
+.sj-page-wrap .sj-voices article,
+.sj-page-wrap .sj-voices__card,
+.sj-page-wrap .sj-founders__card,
+.sj-page-wrap .sj-stats__tile,
+.sj-page-wrap .sj-stats__item,
+.sj-page-wrap .sj-boards__card,
+.sj-page-wrap .loc-online__card,
+.sj-page-wrap .loc-faq-card {
+  box-shadow: 0 2px 6px rgba(35, 23, 17, 0.05) !important;
+}
+
+/* 3. Hide the floating sticky CTA bar at the bottom of the viewport */
+.has-sticky-cta .sj-sticky-cta,
+.sj-sticky-cta {
+  display: none !important;
+}
