@@ -1,3 +1,22 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# DECAP CMS CONFIG — The Degree Gap
+#
+# GOING-FORWARD RULE
+# Every new content page in the repo MUST be registered in one of the
+# collections below, otherwise it will NOT appear in the admin UI and parents
+# of pages will quietly lose the ability to edit them.
+#
+# When a new page template or content section is added:
+#   1. If it fits an existing folder collection (e.g. a new /locations/{city}/
+#      parent page), nothing to do — the folder picks it up.
+#   2. If it is a new one-off marketing/standalone page, add a new entry to the
+#      `standalone_pages` collection's `files:` list below.
+#   3. If it is a new content type (new section under content/), add a new
+#      collection.
+#
+# If a page is missing from admin, look here first.
+# ─────────────────────────────────────────────────────────────────────────────
+
 backend:
   name: git-gateway
   branch: main
@@ -10,8 +29,12 @@ media_folder: "static/images"
 public_folder: "/images"
 
 collections:
+
+  # ===========================================================================
+  # 1. LOCATIONS — parent city pages (one per location)
+  # ===========================================================================
   - name: "locations"
-    label: "Location pages"
+    label: "Locations — parent pages"
     label_singular: "Location page"
     description: "City pages such as Birmingham or Manchester. Fields are grouped roughly top-to-bottom in the order they appear on the page."
     folder: "content/locations"
@@ -90,9 +113,144 @@ collections:
           - { name: "priority", label: "Priority", widget: "number", value_type: "float", default: 0.8, required: false }
           - { name: "changefreq", label: "Change frequency", widget: "string", default: "monthly", required: false }
 
+  # ===========================================================================
+  # 2. LOCATIONS — GCSE level pages (one per location)
+  # Lives at content/locations/{slug}/gcse/_index.md
+  # ===========================================================================
+  - name: "locations_gcse"
+    label: "Locations — GCSE level pages"
+    label_singular: "GCSE level page"
+    description: "Deep-dive GCSE pages under each location, e.g. /locations/baldock-tutors/gcse/."
+    folder: "content/locations"
+    path: "{{slug}}/gcse/_index"
+    extension: "md"
+    format: "yaml-frontmatter"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{location}} GCSE — {{title}}"
+    fields:
+      - { name: "title", label: "SEO title", widget: "string" }
+      - { name: "description", label: "SEO description", widget: "text" }
+      - { name: "layout", label: "Layout", widget: "hidden", default: "subject" }
+      - { name: "location", label: "Location", widget: "string" }
+      - { name: "level", label: "Level", widget: "hidden", default: "GCSE" }
+      - { name: "hero_heading_line1", label: "Hero heading (H1)", widget: "string" }
+      - { name: "hero_heading_line2", label: "Hero heading — line 2 (deprecated, leave empty)", widget: "string", required: false, default: "" }
+      - { name: "hero_lead", label: "Hero lead paragraph", widget: "text" }
+      - { name: "grade_from", label: "Grade card — from", widget: "string", hint: "e.g. 5 (must reflect a real testimonial)" }
+      - { name: "grade_to", label: "Grade card — to", widget: "string", hint: "e.g. 7" }
+      - { name: "grade_stat", label: "Grade card — caption", widget: "text" }
+      - { name: "first_lesson_eyebrow", label: "First-lesson eyebrow", widget: "string" }
+      - { name: "first_lesson_heading", label: "First-lesson heading", widget: "string" }
+      - { name: "first_lesson_context", label: "First-lesson context paragraph", widget: "text" }
+      - { name: "first_lesson_quote", label: "First-lesson pull quote", widget: "text", hint: "Verbatim from a real Google review. Do not edit." }
+      - { name: "first_lesson_quote_name", label: "First-lesson quote — name", widget: "string" }
+      - { name: "first_lesson_quote_role", label: "First-lesson quote — role", widget: "string" }
+      - { name: "first_lesson_quote_grade", label: "First-lesson quote — grade caption", widget: "string" }
+      - { name: "tutor_strip_heading", label: "Tutor strip heading", widget: "string" }
+      - { name: "tutor_strip_body", label: "Tutor strip body", widget: "text" }
+      - { name: "tutors_browse_url", label: "Tutors browse URL", widget: "string", required: false, default: "/book-a-call/" }
+      - { name: "pathways_heading", label: "Pathways heading", widget: "string" }
+      - { name: "pathways_lead", label: "Pathways lead", widget: "text" }
+      - name: "pathways"
+        label: "Pathways (3 items)"
+        widget: "list"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "body", label: "Body", widget: "text" }
+      - name: "reviews"
+        label: "Reviews (verbatim, do not edit text)"
+        widget: "list"
+        hint: "Format: Name|Role|Review text"
+        field: { name: "review", label: "Review (Name|Role|Text)", widget: "string" }
+      - { name: "faq_1_q", label: "FAQ 1 — question", widget: "string" }
+      - { name: "faq_1_a", label: "FAQ 1 — answer", widget: "text" }
+      - { name: "faq_2_q", label: "FAQ 2 — question", widget: "string" }
+      - { name: "faq_2_a", label: "FAQ 2 — answer", widget: "text" }
+      - { name: "faq_3_q", label: "FAQ 3 — question", widget: "string" }
+      - { name: "faq_3_a", label: "FAQ 3 — answer", widget: "text" }
+      - { name: "faq_4_q", label: "FAQ 4 — question", widget: "string" }
+      - { name: "faq_4_a", label: "FAQ 4 — answer", widget: "text" }
+      - name: "sitemap"
+        label: "Sitemap"
+        widget: "object"
+        required: false
+        fields:
+          - { name: "priority", label: "Priority", widget: "number", value_type: "float", default: 0.7, required: false }
+          - { name: "changefreq", label: "Change frequency", widget: "string", default: "monthly", required: false }
+
+  # ===========================================================================
+  # 3. LOCATIONS — A-Level level pages (one per location)
+  # Lives at content/locations/{slug}/a-level/_index.md
+  # ===========================================================================
+  - name: "locations_alevel"
+    label: "Locations — A-Level level pages"
+    label_singular: "A-Level level page"
+    description: "Deep-dive A-Level pages under each location, e.g. /locations/st-albans-tutors/a-level/."
+    folder: "content/locations"
+    path: "{{slug}}/a-level/_index"
+    extension: "md"
+    format: "yaml-frontmatter"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{location}} A-Level — {{title}}"
+    fields:
+      - { name: "title", label: "SEO title", widget: "string" }
+      - { name: "description", label: "SEO description", widget: "text" }
+      - { name: "layout", label: "Layout", widget: "hidden", default: "subject" }
+      - { name: "location", label: "Location", widget: "string" }
+      - { name: "level", label: "Level", widget: "hidden", default: "A-Level" }
+      - { name: "hero_heading_line1", label: "Hero heading (H1)", widget: "string" }
+      - { name: "hero_heading_line2", label: "Hero heading — line 2 (deprecated, leave empty)", widget: "string", required: false, default: "" }
+      - { name: "hero_lead", label: "Hero lead paragraph", widget: "text" }
+      - { name: "grade_from", label: "Grade card — from", widget: "string" }
+      - { name: "grade_to", label: "Grade card — to", widget: "string" }
+      - { name: "grade_stat", label: "Grade card — caption", widget: "text" }
+      - { name: "first_lesson_eyebrow", label: "First-lesson eyebrow", widget: "string" }
+      - { name: "first_lesson_heading", label: "First-lesson heading", widget: "string" }
+      - { name: "first_lesson_context", label: "First-lesson context paragraph", widget: "text" }
+      - { name: "first_lesson_quote", label: "First-lesson pull quote (verbatim, do not edit)", widget: "text" }
+      - { name: "first_lesson_quote_name", label: "First-lesson quote — name", widget: "string" }
+      - { name: "first_lesson_quote_role", label: "First-lesson quote — role", widget: "string" }
+      - { name: "first_lesson_quote_grade", label: "First-lesson quote — grade caption", widget: "string" }
+      - { name: "tutor_strip_heading", label: "Tutor strip heading", widget: "string" }
+      - { name: "tutor_strip_body", label: "Tutor strip body", widget: "text" }
+      - { name: "tutors_browse_url", label: "Tutors browse URL", widget: "string", required: false, default: "/book-a-call/" }
+      - { name: "pathways_heading", label: "Pathways heading", widget: "string" }
+      - { name: "pathways_lead", label: "Pathways lead", widget: "text" }
+      - name: "pathways"
+        label: "Pathways (3 items)"
+        widget: "list"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "body", label: "Body", widget: "text" }
+      - name: "reviews"
+        label: "Reviews (verbatim, do not edit text)"
+        widget: "list"
+        hint: "Format: Name|Role|Review text"
+        field: { name: "review", label: "Review (Name|Role|Text)", widget: "string" }
+      - { name: "faq_1_q", label: "FAQ 1 — question", widget: "string" }
+      - { name: "faq_1_a", label: "FAQ 1 — answer", widget: "text" }
+      - { name: "faq_2_q", label: "FAQ 2 — question", widget: "string" }
+      - { name: "faq_2_a", label: "FAQ 2 — answer", widget: "text" }
+      - { name: "faq_3_q", label: "FAQ 3 — question", widget: "string" }
+      - { name: "faq_3_a", label: "FAQ 3 — answer", widget: "text" }
+      - { name: "faq_4_q", label: "FAQ 4 — question", widget: "string" }
+      - { name: "faq_4_a", label: "FAQ 4 — answer", widget: "text" }
+      - name: "sitemap"
+        label: "Sitemap"
+        widget: "object"
+        required: false
+        fields:
+          - { name: "priority", label: "Priority", widget: "number", value_type: "float", default: 0.7, required: false }
+          - { name: "changefreq", label: "Change frequency", widget: "string", default: "monthly", required: false }
+
+  # ===========================================================================
+  # 4. PERSONAL STATEMENT — subject pages
+  # ===========================================================================
   - name: "ps_subjects"
     label: "Personal statement — subject pages"
-    label_singular: "Subject page"
+    label_singular: "PS subject page"
     description: "One page per subject (Medicine, Law, Economics…). Lives at /personal-statement-tutor/{slug}/."
     folder: "content/personal-statement-tutor"
     extension: "md"
@@ -104,6 +262,8 @@ collections:
       - { name: "title", label: "SEO title", widget: "string" }
       - { name: "description", label: "SEO description", widget: "text" }
       - { name: "subject", label: "Subject", widget: "string" }
+      - { name: "layout", label: "Layout", widget: "string", required: false, hint: "Leave blank unless using a special layout (e.g. oxbridge)" }
+      - { name: "university", label: "University", widget: "string", required: false, hint: "For Oxford/Cambridge guides only" }
       - name: "admissions_tests"
         label: "Admissions tests"
         widget: "list"
@@ -124,12 +284,340 @@ collections:
         fields:
           - { name: "title", label: "Title", widget: "string" }
           - { name: "url", label: "URL", widget: "string" }
+      - name: "faqs"
+        label: "FAQs"
+        widget: "list"
+        required: false
+        fields:
+          - { name: "q", label: "Question", widget: "string" }
+          - { name: "a", label: "Answer", widget: "text" }
       - { name: "body", label: "Body", widget: "markdown", required: false }
 
+  # ===========================================================================
+  # 5. BLOG — posts
+  # ===========================================================================
+  - name: "blog_posts"
+    label: "Blog posts"
+    label_singular: "Blog post"
+    description: "Articles under /blog/. Each has a title, date, author, hero image, and markdown body."
+    folder: "content/blog"
+    filter: { field: "date" }
+    extension: "md"
+    format: "yaml-frontmatter"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{date | date('YYYY-MM-DD')}} — {{title}}"
+    fields:
+      - { name: "title", label: "Title", widget: "string" }
+      - { name: "description", label: "SEO description", widget: "text" }
+      - { name: "date", label: "Publish date", widget: "datetime" }
+      - { name: "author", label: "Author", widget: "string", default: "Harry Godfrey" }
+      - { name: "author_role", label: "Author role", widget: "string", default: "Co-founder, The Degree Gap" }
+      - { name: "category", label: "Category", widget: "select", options: ["Parent Advice", "GCSE", "A-Level", "UCAS", "Behind the Scenes"] }
+      - { name: "excerpt", label: "Excerpt", widget: "text", hint: "1-2 sentences shown in blog grid and previews" }
+      - { name: "hero_image", label: "Hero image", widget: "image" }
+      - name: "tags"
+        label: "Tags"
+        widget: "list"
+        required: false
+        field: { name: "tag", label: "Tag", widget: "string" }
+      - name: "related_links"
+        label: "Related links"
+        widget: "list"
+        required: false
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "url", label: "URL", widget: "string" }
+          - { name: "description", label: "Description", widget: "text", required: false }
+      - { name: "body", label: "Body", widget: "markdown" }
+
+  # ===========================================================================
+  # 6. SUBJECTS — marketing pages
+  # ===========================================================================
+  - name: "subjects"
+    label: "Subjects — marketing pages"
+    label_singular: "Subject page"
+    description: "High-converting subject pages (e.g. /subjects/gcse-maths-tutor/). Heavy schema."
+    folder: "content/subjects"
+    path: "{{slug}}/_index"
+    extension: "md"
+    format: "yaml-frontmatter"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{subject}} — {{title}}"
+    fields:
+      - { name: "title", label: "SEO title", widget: "string" }
+      - { name: "description", label: "SEO description", widget: "text" }
+      - { name: "robots", label: "Robots", widget: "string", required: false, default: "noindex, nofollow" }
+      - { name: "layout", label: "Layout", widget: "hidden", default: "single" }
+      - { name: "subject", label: "Subject", widget: "string", hint: "e.g. GCSE Maths" }
+      - { name: "level", label: "Level", widget: "string", hint: "GCSE or A-Level" }
+      - { name: "banner_heading", label: "Banner heading", widget: "string" }
+      - { name: "banner_description", label: "Banner description", widget: "text" }
+      - { name: "banner_cta_primary", label: "Banner CTA — primary", widget: "string" }
+      - { name: "banner_cta_secondary", label: "Banner CTA — secondary", widget: "string" }
+      - { name: "pricing_note", label: "Pricing note", widget: "string" }
+      - { name: "rating_text", label: "Rating text", widget: "string" }
+      - { name: "hero_image", label: "Hero image", widget: "image" }
+      - { name: "hero_alt", label: "Hero image alt text", widget: "string" }
+      - { name: "why_heading", label: "Why heading", widget: "string" }
+      - name: "why_blocks"
+        label: "Why blocks"
+        widget: "list"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "body", label: "Body", widget: "text" }
+      - { name: "how_heading", label: "How-it-works heading", widget: "string" }
+      - name: "how_steps"
+        label: "How-it-works steps"
+        widget: "list"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "body", label: "Body", widget: "text" }
+      - { name: "stats_heading", label: "Stats heading", widget: "string" }
+      - name: "stats"
+        label: "Stats"
+        widget: "list"
+        fields:
+          - { name: "number", label: "Number", widget: "string" }
+          - { name: "label", label: "Label", widget: "string" }
+          - { name: "body", label: "Body", widget: "text" }
+      - { name: "founders_heading", label: "Founders heading", widget: "string" }
+      - { name: "founders_eyebrow", label: "Founders eyebrow", widget: "string" }
+      - { name: "founders_body", label: "Founders body", widget: "text" }
+      - { name: "founders_image", label: "Founders image", widget: "image" }
+      - { name: "founders_image_alt", label: "Founders image alt", widget: "string" }
+      - { name: "founders_cta", label: "Founders CTA", widget: "string" }
+      - { name: "voices_heading", label: "Voices heading", widget: "string" }
+      - { name: "voices_eyebrow", label: "Voices eyebrow", widget: "string" }
+      - { name: "voices_intro", label: "Voices intro", widget: "text" }
+      - name: "voices"
+        label: "Voices (verbatim Google reviews — do not edit text)"
+        widget: "list"
+        fields:
+          - { name: "name", label: "Name", widget: "string" }
+          - { name: "role", label: "Role", widget: "string" }
+          - { name: "text", label: "Text", widget: "text" }
+      - { name: "tutor_strip_heading", label: "Tutor strip heading", widget: "string" }
+      - { name: "tutor_strip_body", label: "Tutor strip body", widget: "text" }
+      - { name: "boards_heading", label: "Boards heading", widget: "string" }
+      - { name: "boards_intro", label: "Boards intro", widget: "text" }
+      - name: "boards"
+        label: "Exam boards"
+        widget: "list"
+        fields:
+          - { name: "name", label: "Name", widget: "string" }
+          - { name: "url", label: "URL", widget: "string" }
+          - { name: "body", label: "Body", widget: "text" }
+      - { name: "method_heading", label: "Method heading", widget: "string" }
+      - name: "method_steps"
+        label: "Method steps"
+        widget: "list"
+        field: { name: "step", label: "Step", widget: "text" }
+      - { name: "method_body_after", label: "Method body (after steps)", widget: "text" }
+      - { name: "method_image", label: "Method image", widget: "image" }
+      - { name: "pricing_heading", label: "Pricing heading", widget: "string" }
+      - { name: "pricing_body", label: "Pricing body", widget: "text" }
+      - name: "pricing_marks"
+        label: "Pricing marks (tick-list)"
+        widget: "list"
+        field: { name: "mark", label: "Mark", widget: "string" }
+      - name: "faqs"
+        label: "FAQs"
+        widget: "list"
+        fields:
+          - { name: "q", label: "Question", widget: "string" }
+          - { name: "a", label: "Answer", widget: "text" }
+      - { name: "form_cta", label: "Form CTA heading", widget: "string" }
+      - { name: "form_intro", label: "Form intro", widget: "text" }
+      - { name: "form_message_label", label: "Form message label", widget: "string" }
+      - { name: "form_message_placeholder", label: "Form message placeholder", widget: "text" }
+      - { name: "form_button", label: "Form button text", widget: "string" }
+      - { name: "form_note", label: "Form note", widget: "string" }
+      - name: "sitemap"
+        label: "Sitemap"
+        widget: "object"
+        required: false
+        fields:
+          - { name: "priority", label: "Priority", widget: "number", value_type: "float", required: false }
+          - { name: "changefreq", label: "Change frequency", widget: "string", required: false }
+
+  # ===========================================================================
+  # 7. REFERRAL / PARTNERSHIP pages
+  # All share the same minimal schema (title, description, layout, robots).
+  # ===========================================================================
+  - name: "referrals"
+    label: "Referral / partnership pages"
+    description: "Landing pages for partner referrals (School Guide, Snap Revise, etc.). Each is a thin shell — copy is in the layout file."
+    files:
+      - file: "content/referred-by-school-guide.md"
+        label: "School Guide"
+        name: "school-guide"
+        fields:
+          - { name: "title", label: "SEO title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+          - { name: "layout", label: "Layout", widget: "hidden", default: "school-guide" }
+          - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
+      - file: "content/referred-by-top-school-guide.md"
+        label: "Top School Guide"
+        name: "top-school-guide"
+        fields:
+          - { name: "title", label: "SEO title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+          - { name: "layout", label: "Layout", widget: "hidden", default: "top-school-guide" }
+          - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
+      - file: "content/referred-by-snap-revise.md"
+        label: "Snap Revise"
+        name: "snap-revise"
+        fields:
+          - { name: "title", label: "SEO title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+          - { name: "layout", label: "Layout", widget: "hidden", default: "snap-revise" }
+          - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
+      - file: "content/referred-by-daily-info.md"
+        label: "Daily Info"
+        name: "daily-info"
+        fields:
+          - { name: "title", label: "SEO title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+          - { name: "layout", label: "Layout", widget: "hidden", default: "daily-info" }
+          - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
+      - file: "content/referred-by-exam-essentials.md"
+        label: "Exam Essentials"
+        name: "exam-essentials"
+        fields:
+          - { name: "title", label: "SEO title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+          - { name: "layout", label: "Layout", widget: "hidden", default: "exam-essentials" }
+          - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
+      - file: "content/referred-by-oxford-mt.md"
+        label: "Oxford MT"
+        name: "oxford-mt"
+        fields:
+          - { name: "title", label: "SEO title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+          - { name: "layout", label: "Layout", widget: "hidden", default: "oxford-mt" }
+          - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
+      - file: "content/referred-by-parent-guide-to-gcse.md"
+        label: "Parent Guide to GCSE"
+        name: "parent-guide-to-gcse"
+        fields:
+          - { name: "title", label: "SEO title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+          - { name: "layout", label: "Layout", widget: "hidden", default: "parent-guide-to-gcse" }
+          - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
+
+  # ===========================================================================
+  # 8. PAST PAPERS — section + subject + board pages
+  # ===========================================================================
+  - name: "past_papers"
+    label: "Past papers — section pages"
+    description: "Hub pages under /past-papers/ — GCSE landing, GCSE Maths landing, and exam-board landings (AQA, Edexcel, OCR)."
+    files:
+      - file: "content/past-papers/_index.md"
+        label: "Past Papers — landing"
+        name: "past-papers-landing"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text", required: false }
+          - { name: "body", label: "Body", widget: "markdown", required: false }
+      - file: "content/past-papers/gcse/_index.md"
+        label: "Past Papers — GCSE landing"
+        name: "past-papers-gcse"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+          - { name: "nav_title", label: "Nav title", widget: "string", required: false }
+          - { name: "layout", label: "Layout", widget: "hidden", default: "gcse" }
+          - name: "sitemap"
+            label: "Sitemap"
+            widget: "object"
+            required: false
+            fields:
+              - { name: "priority", label: "Priority", widget: "number", value_type: "float", required: false }
+              - { name: "changefreq", label: "Change frequency", widget: "string", required: false }
+      - file: "content/past-papers/gcse/maths/_index.md"
+        label: "Past Papers — GCSE Maths landing"
+        name: "past-papers-gcse-maths"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+          - { name: "nav_title", label: "Nav title", widget: "string", required: false }
+          - { name: "layout", label: "Layout", widget: "hidden", default: "subject" }
+          - name: "sitemap"
+            label: "Sitemap"
+            widget: "object"
+            required: false
+            fields:
+              - { name: "priority", label: "Priority", widget: "number", value_type: "float", required: false }
+              - { name: "changefreq", label: "Change frequency", widget: "string", required: false }
+      - file: "content/past-papers/gcse/maths/aqa/_index.md"
+        label: "Past Papers — AQA Maths"
+        name: "past-papers-gcse-maths-aqa"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+          - { name: "nav_title", label: "Nav title", widget: "string", required: false }
+          - { name: "layout", label: "Layout", widget: "hidden", default: "board" }
+          - { name: "board", label: "Board name", widget: "string" }
+          - { name: "board_slug", label: "Board slug", widget: "string" }
+          - { name: "data_key", label: "Data key", widget: "string", hint: "Key into /data/papers.yaml" }
+          - { name: "body", label: "Body", widget: "markdown", required: false }
+          - name: "sitemap"
+            label: "Sitemap"
+            widget: "object"
+            required: false
+            fields:
+              - { name: "priority", label: "Priority", widget: "number", value_type: "float", required: false }
+              - { name: "changefreq", label: "Change frequency", widget: "string", required: false }
+      - file: "content/past-papers/gcse/maths/edexcel/_index.md"
+        label: "Past Papers — Edexcel Maths"
+        name: "past-papers-gcse-maths-edexcel"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+          - { name: "nav_title", label: "Nav title", widget: "string", required: false }
+          - { name: "layout", label: "Layout", widget: "hidden", default: "board" }
+          - { name: "board", label: "Board name", widget: "string" }
+          - { name: "board_slug", label: "Board slug", widget: "string" }
+          - { name: "data_key", label: "Data key", widget: "string" }
+          - { name: "body", label: "Body", widget: "markdown", required: false }
+          - name: "sitemap"
+            label: "Sitemap"
+            widget: "object"
+            required: false
+            fields:
+              - { name: "priority", label: "Priority", widget: "number", value_type: "float", required: false }
+              - { name: "changefreq", label: "Change frequency", widget: "string", required: false }
+      - file: "content/past-papers/gcse/maths/ocr/_index.md"
+        label: "Past Papers — OCR Maths"
+        name: "past-papers-gcse-maths-ocr"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+          - { name: "nav_title", label: "Nav title", widget: "string", required: false }
+          - { name: "layout", label: "Layout", widget: "hidden", default: "board" }
+          - { name: "board", label: "Board name", widget: "string" }
+          - { name: "board_slug", label: "Board slug", widget: "string" }
+          - { name: "data_key", label: "Data key", widget: "string" }
+          - { name: "body", label: "Body", widget: "markdown", required: false }
+          - name: "sitemap"
+            label: "Sitemap"
+            widget: "object"
+            required: false
+            fields:
+              - { name: "priority", label: "Priority", widget: "number", value_type: "float", required: false }
+              - { name: "changefreq", label: "Change frequency", widget: "string", required: false }
+
+  # ===========================================================================
+  # 9. STANDALONE pages — Home, hub pages, marketing one-offs, thank-yous,
+  #    blog index, subjects index, locations index, banner previews.
+  # ===========================================================================
   - name: "pages"
     label: "Standalone pages"
-    description: "Home, webinar, and other one-off pages."
+    description: "Home page, section landing pages, thank-you pages, and other one-offs."
     files:
+      # ── Top-level ─────────────────────────────────────────────────────────
       - file: "content/_index.md"
         label: "Home"
         name: "home"
@@ -137,6 +625,8 @@ collections:
           - { name: "title", label: "Title", widget: "string" }
           - { name: "description", label: "SEO description", widget: "text", required: false }
           - { name: "body", label: "Body", widget: "markdown", required: false }
+
+      # ── Webinar / parents guide ───────────────────────────────────────────
       - file: "content/gcse-mock-webinar/_index.md"
         label: "GCSE Mock Webinar"
         name: "webinar"
@@ -152,6 +642,50 @@ collections:
               - { name: "priority", label: "Priority", widget: "number", value_type: "float", required: false }
               - { name: "changefreq", label: "Change frequency", widget: "string", required: false }
           - { name: "body", label: "Body", widget: "markdown", required: false }
+
+      - file: "content/parents-guide-to-gcses.md"
+        label: "Parents Guide to GCSEs (webinar signup)"
+        name: "parents-guide-to-gcses"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+          - { name: "layout", label: "Layout", widget: "hidden", default: "parents-guide-to-gcses" }
+          - { name: "webinar_date", label: "Webinar start (ISO datetime)", widget: "datetime" }
+          - { name: "webinar_end_date", label: "Webinar end (ISO datetime)", widget: "datetime" }
+          - { name: "webinar_date_display", label: "Display date", widget: "string", hint: "e.g. Sunday 16 November 2026" }
+          - { name: "webinar_time_display", label: "Display time", widget: "string", hint: "e.g. 8–8:45pm (UK time)" }
+          - { name: "form_subject", label: "Form subject (Formspree)", widget: "string" }
+          - { name: "form_source", label: "Form source tag", widget: "string" }
+
+      # ── Book a call + thank you pages ─────────────────────────────────────
+      - file: "content/book-a-call.md"
+        label: "Book a Call"
+        name: "book-a-call"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+          - { name: "layout", label: "Layout", widget: "hidden", default: "book-call" }
+          - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
+
+      - file: "content/book-a-call-thank-you.md"
+        label: "Book a Call — Thank You"
+        name: "book-a-call-thank-you"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+          - { name: "layout", label: "Layout", widget: "hidden", default: "book-a-call-thank-you" }
+          - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
+
+      - file: "content/webinar-thank-you.md"
+        label: "Webinar — Thank You"
+        name: "webinar-thank-you"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+          - { name: "layout", label: "Layout", widget: "hidden", default: "webinar-thank-you" }
+          - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
+
+      # ── Section landing pages ─────────────────────────────────────────────
       - file: "content/personal-statement-tutor/_index.md"
         label: "Personal Statement Tutor — landing"
         name: "ps-tutor-landing"
@@ -165,10 +699,58 @@ collections:
           - { name: "form_button", label: "Form button text", widget: "string" }
           - { name: "form_note", label: "Form note", widget: "string" }
           - { name: "body", label: "Body", widget: "markdown", required: false }
-      - file: "content/past-papers/_index.md"
-        label: "Past Papers"
-        name: "past-papers"
+
+      - file: "content/locations/_index.md"
+        label: "Locations — landing"
+        name: "locations-landing"
         fields:
           - { name: "title", label: "Title", widget: "string" }
-          - { name: "description", label: "SEO description", widget: "text", required: false }
+          - { name: "nav_title", label: "Nav title", widget: "string", required: false }
+          - { name: "description", label: "SEO description", widget: "text" }
+
+      - file: "content/subjects/_index.md"
+        label: "Subjects — landing"
+        name: "subjects-landing"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "nav_title", label: "Nav title", widget: "string", required: false }
+          - { name: "description", label: "SEO description", widget: "text" }
+
+      - file: "content/blog/_index.md"
+        label: "Blog — landing"
+        name: "blog-landing"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+          - { name: "hero_eyebrow", label: "Hero eyebrow", widget: "string", required: false }
+          - { name: "hero_heading", label: "Hero heading", widget: "string", required: false }
+          - { name: "hero_lead", label: "Hero lead", widget: "text", required: false }
+
+      # ── Banner previews (internal partner-review pages) ───────────────────
+      - file: "content/banner-preview.md"
+        label: "Banner Preview (single)"
+        name: "banner-preview"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+          - { name: "layout", label: "Layout", widget: "hidden", default: "banner-preview" }
+          - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
+
+      - file: "content/banner-previews.md"
+        label: "Banner Previews (gallery)"
+        name: "banner-previews"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+          - { name: "layout", label: "Layout", widget: "hidden", default: "banner-previews" }
+          - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
+
+      # ── Deeper-nested level subpages (one-offs) ───────────────────────────
+      - file: "content/locations/st-albans-tutors/gcse/maths/_index.md"
+        label: "St Albans GCSE Maths (sub-subject)"
+        name: "st-albans-gcse-maths"
+        fields:
+          - { name: "title", label: "SEO title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+          - { name: "layout", label: "Layout", widget: "hidden", default: "subject" }
           - { name: "body", label: "Body", widget: "markdown", required: false }
