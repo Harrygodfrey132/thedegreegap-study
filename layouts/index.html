@@ -227,7 +227,7 @@
       <a href="{{ .RelPermalink }}" class="home-blog-card">
         {{ with .Params.hero_image }}
         <div class="home-blog-card__media">
-          <img src="{{ . }}" alt="" loading="lazy">
+          <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
         </div>
         {{ end }}
         <div class="home-blog-card__body">

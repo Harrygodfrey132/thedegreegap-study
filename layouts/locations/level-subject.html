@@ -455,7 +455,7 @@
         <p class="lvls-cta__assurance">First lesson risk-free · No contracts · Cancel any time</p>
       </div>
       <div class="lvls-cta__illustration" aria-hidden="true">
-        {{ partial "responsive-image.html" (dict "src" "/images/students-in-classroom-taking-notes.jpg" "alt" "" "loading" "lazy" "fallbackWidth" 700 "widths" (slice 400 700 1000) "sizes" "(min-width: 700px) 50vw, 100vw" "quality" 72) }}
+        {{ partial "responsive-image.html" (dict "src" "/images/students-in-classroom-taking-notes.jpg" "alt" (printf "%s %s tutoring consultation with The Degree Gap" $level $subject) "loading" "lazy" "fallbackWidth" 700 "widths" (slice 400 700 1000) "sizes" "(min-width: 700px) 50vw, 100vw" "quality" 72) }}
       </div>
     </div>
   </div>

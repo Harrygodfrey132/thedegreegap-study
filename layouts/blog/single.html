@@ -449,7 +449,7 @@
 
   {{ with .Params.hero_image }}
   <div class="post-hero">
-    <img src="{{ . }}" alt="">
+    <img src="{{ . }}" alt="{{ $.Title }}">
   </div>
   {{ end }}
 
@@ -559,7 +559,7 @@
       {{ range $more }}
       <a class="more-posts__card" href="{{ .RelPermalink }}">
         {{ with .Params.hero_image }}
-        <div class="more-posts__card-media"><img src="{{ . }}" alt="" loading="lazy"></div>
+        <div class="more-posts__card-media"><img src="{{ . }}" alt="{{ $.Title }}" loading="lazy"></div>
         {{ end }}
         <p class="more-posts__card-meta">
           {{ with .Params.author }}{{ . }} &middot; {{ end }}{{ .Date.Format "2 Jan 2006" }}

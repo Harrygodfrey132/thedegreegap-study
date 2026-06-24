@@ -372,7 +372,7 @@
       <a class="blog-featured" href="{{ $featured.RelPermalink }}">
         {{ with $featured.Params.hero_image }}
         <div class="blog-featured__media">
-          <img src="{{ . }}" alt="" loading="lazy">
+          <img src="{{ . }}" alt="{{ $featured.Title }}" loading="lazy">
         </div>
         {{ end }}
         <div class="blog-featured__copy">
@@ -452,7 +452,7 @@
         <a class="blog-card" href="{{ .RelPermalink }}" data-blog-tags="{{ delimit $cardTags " " }}">
           {{ with .Params.hero_image }}
           <div class="blog-card__media">
-            <img src="{{ . }}" alt="" loading="lazy">
+            <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
           </div>
           {{ end }}
           <p class="blog-card__eyebrow">
