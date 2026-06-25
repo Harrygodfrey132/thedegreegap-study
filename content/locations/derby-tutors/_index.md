@@ -1,7 +1,7 @@
 ---
-title: Derby Tutors | GCSE & A-Level Tuition from £37/hr
-description: Find expert Derby tutors for GCSE and A-Level support. Personalised
-  tuition from £37/hr to help students achieve top grades and exam success.
+title: Derby Tutoring | Trusted GCSE & A-Level Tutors
+description: One-to-one Derby tutoring for Maths, English, Sciences and more.
+  Expert tutors, flexible online lessons and proven academic results.
 layout: single
 location: Derby
 banner_heading: Need a Derby tutor who matches your child's ambition?
@@ -67,48 +67,38 @@ area_links:
 gcse_subjects:
   - GCSE Computer Science Tuition|One-to-one support across programming,
     algorithms and data that gives Derby students a real edge in a city built on
-    technical
-    industry.|/book-a-call/
+    technical industry.|/book-a-call/
   - GCSE Maths Tuition|Targeted work that traces gaps back to where they started
     and rebuilds, so Derby students go into exams with solid foundations rather
-    than surface-level
-    recall.|/book-a-call/
+    than surface-level recall.|/book-a-call/
   - GCSE Physics Tuition|From forces and energy to electricity and space,
     support that turns a patchy understanding into the kind of exam performance
-    that opens doors at sixth
-    form.|/book-a-call/
+    that opens doors at sixth form.|/book-a-call/
   - GCSE English Tuition|Close reading and structured writing support that helps
     Derby students stop losing marks on questions they could answer, if they
-    knew what was being
-    asked.|/book-a-call/
+    knew what was being asked.|/book-a-call/
   - GCSE Chemistry Tuition|Working through organic, inorganic and physical
     chemistry with a tutor who takes the time to explain it properly, not just
-    move on when the class needs
-    to.|/book-a-call/
+    move on when the class needs to.|/book-a-call/
   - GCSE Geography Tuition|Support connecting physical and human geography into
     coherent exam answers, with a focus on the case studies and extended writing
-    that decide
-    grades.|/book-a-call/
+    that decide grades.|/book-a-call/
   - GCSE French Tuition|Patient practice across speaking, writing and reading
     that builds the accuracy and confidence Derby students need to perform well
     on the day.|/book-a-call/
   - GCSE Biology Tuition|Clear, logical support through cells, genetics and
     ecology for students who want biology to be a genuine strength rather than a
-    subject they scrape
-    through.|/book-a-call/
+    subject they scrape through.|/book-a-call/
   - GCSE History Tuition|Sharp essay technique and source analysis for students
     who know the content but drop marks because they haven't been shown how
-    examiners want it
-    presented.|/book-a-call/
+    examiners want it presented.|/book-a-call/
 alevel_subjects:
   - A-Level Physics Tuition|Methodical A-Level support across mechanics, fields
     and quantum physics for Derby students aiming at engineering, physics or
-    technical
-    degrees.|/book-a-call/
+    technical degrees.|/book-a-call/
   - A-Level Chemistry Tuition|In-depth work across all three branches of A-Level
     Chemistry for students pushing towards medicine, pharmacy or a Russell Group
-    science
-    degree.|/book-a-call/
+    science degree.|/book-a-call/
   - A-Level Economics Tuition|Support through advanced micro and macroeconomic
     models, making the analysis feel manageable and the evaluation answers
     sharper.|/book-a-call/
@@ -117,24 +107,19 @@ alevel_subjects:
     courses demand.|/book-a-call/
   - A-Level Geography Tuition|Help pulling together case studies, fieldwork and
     theory into high-quality exam answers for students aiming at strong
-    predicted
-    grades.|/book-a-call/
+    predicted grades.|/book-a-call/
   - A-Level Biology Tuition|Expert guidance through advanced biological systems,
     from genetics to ecosystems, for students who want biology to carry weight
-    on their UCAS
-    application.|/book-a-call/
+    on their UCAS application.|/book-a-call/
   - A-Level English Tuition|Close reading and critical writing support for
     students who want A-Level English to be a strength rather than a question
-    mark on their
-    application.|/book-a-call/
+    mark on their application.|/book-a-call/
   - A-Level History Tuition|Support building the kind of sustained, analytical
     argument that A-Level History examiners reward, going beyond content
-    knowledge into how to use it under timed
-    conditions.|/book-a-call/
+    knowledge into how to use it under timed conditions.|/book-a-call/
   - A-Level Psychology Tuition|Clear, structured support across research
     methods, key studies and evaluation for Derby students who want to
-    understand the subject, not just memorise
-    it.|/book-a-call/
+    understand the subject, not just memorise it.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with
     expert support on structure, subject motivation, and final
