@@ -1,7 +1,8 @@
 ---
-title: Norwich Tutoring | Trusted GCSE & A-Level Tutors
-description: One-to-one Norwich tutoring for Maths, English, Sciences and more.
-  Expert tutors, flexible online lessons and proven academic results.
+title: Norwich Tutors | GCSE & A-Level Tuition from £37/hr
+description: Find expert Norwich tutors for GCSE and A-Level support.
+  Personalised tuition from £37/hr to help students achieve top grades and exam
+  success.
 layout: single
 location: Norwich
 banner_heading: Need a Norwich tutor who starts with the gap, not the grade?
@@ -72,20 +73,16 @@ gcse_subjects:
     paper.|/book-a-call/
   - GCSE Geography Tuition|Clear support connecting physical and human geography
     into well-structured answers, with focused work on case studies students can
-    actually use under
-    pressure.|/book-a-call/
+    actually use under pressure.|/book-a-call/
   - GCSE Computer Science Tuition|One-to-one sessions covering algorithms,
     programming logic and data representation for students who want Computer
-    Science to click rather than just be
-    memorised.|/book-a-call/
+    Science to click rather than just be memorised.|/book-a-call/
   - GCSE French Tuition|Steady, practical work across speaking, listening,
     reading and writing for students who want to stop losing marks on basics
-    they should have locked down
-    earlier.|/book-a-call/
+    they should have locked down earlier.|/book-a-call/
   - GCSE Biology Tuition|Detailed session work through cells, genetics and
     ecology for students who need to build real understanding rather than
-    surface recall before the
-    exam.|/book-a-call/
+    surface recall before the exam.|/book-a-call/
   - GCSE History Tuition|Essay structure and source analysis support that helps
     students write convincingly under timed conditions, not just know the
     content going in.|/book-a-call/
@@ -101,8 +98,7 @@ gcse_subjects:
 alevel_subjects:
   - A-Level Psychology Tuition|Methodical support through research methods, core
     studies and evaluation writing for students who want to feel genuinely
-    prepared rather than just covering the
-    content.|/book-a-call/
+    prepared rather than just covering the content.|/book-a-call/
   - A-Level Economics Tuition|Focused work on micro and macroeconomic models and
     the high-level evaluation writing that separates a B from an A at this
     level.|/book-a-call/
@@ -114,24 +110,19 @@ alevel_subjects:
     one at a time.|/book-a-call/
   - A-Level English Tuition|Critical writing and close reading support for
     students who want their analytical voice to develop beyond the formula and
-    into something the examiner
-    notices.|/book-a-call/
+    into something the examiner notices.|/book-a-call/
   - A-Level Chemistry Tuition|Expert tuition through all three branches of
     A-Level Chemistry for students heading towards medicine, pharmacy or natural
-    sciences at
-    university.|/book-a-call/
+    sciences at university.|/book-a-call/
   - A-Level History Tuition|Argument structure and essay precision built
     carefully for students who know the history but haven't yet found the
-    written voice the top grades
-    need.|/book-a-call/
+    written voice the top grades need.|/book-a-call/
   - A-Level Biology Tuition|In-depth session work across genetics, cells and
     ecology for students targeting competitive university courses and needing
-    real depth, not revision
-    shortcuts.|/book-a-call/
+    real depth, not revision shortcuts.|/book-a-call/
   - A-Level Physics Tuition|Structured one-to-one support through advanced
     mechanics, fields and quantum physics for students aiming at engineering or
-    physical sciences at
-    university.|/book-a-call/
+    physical sciences at university.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with
     expert support on structure, subject motivation, and final
