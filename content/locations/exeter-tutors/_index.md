@@ -1,7 +1,8 @@
 ---
-title: Exeter Tutoring | Trusted GCSE & A-Level Tutors
-description: One-to-one Exeter tutoring for Maths, English, Sciences and more.
-  Expert tutors, flexible online lessons and proven academic results.
+title: Exeter Tutors | GCSE & A-Level Tuition from £37/hr
+description: Find expert Exeter tutors for GCSE and A-Level support.
+  Personalised tuition from £37/hr to help students achieve top grades and exam
+  success.
 layout: single
 location: Exeter
 banner_heading: Need a tutor in Exeter who knows what top grades take?
@@ -68,21 +69,18 @@ area_links:
 gcse_subjects:
   - GCSE English Tuition|Sharp, focused tutoring across Language and Literature
     for students who want a method that holds up under exam timing, not just in
-    calm conditions at
-    home.|/book-a-call/
+    calm conditions at home.|/book-a-call/
   - GCSE Maths Tuition|Stretch tutoring across number, algebra and statistics
     across the whole mark band.|/book-a-call/
   - GCSE Biology Tuition|Detailed work across the full specification for
     students who want to walk into the exam confident on the harder six and
-    nine-mark
-    questions.|/book-a-call/
+    nine-mark questions.|/book-a-call/
   - GCSE History Tuition|Source skills, essay structure and extended argument,
-    taught by tutors who pitch sessions at whatever level the student is sitting at
-    reward.|/book-a-call/
+    taught by tutors who pitch sessions at whatever level the student is sitting
+    at reward.|/book-a-call/
   - GCSE Computer Science Tuition|One-to-one work through programming,
     algorithms and Boolean logic for students who want both NEA and written
-    paper landing at the top
-    end.|/book-a-call/
+    paper landing at the top end.|/book-a-call/
   - GCSE Chemistry Tuition|Patient, precise tuition through bonding, equations
     and rates for students aiming at grades 7 to 9 and the answers that get them
     there.|/book-a-call/
@@ -91,23 +89,19 @@ gcse_subjects:
     grades.|/book-a-call/
   - GCSE Geography Tuition|Case study revision, data response and nine-mark
     question technique, with tutoring that turns subject knowledge into the
-    marks the mark scheme actually
-    awards.|/book-a-call/
+    marks the mark scheme actually awards.|/book-a-call/
   - GCSE French Tuition|Structured tutoring across all four skills for students
     aiming high in writing and speaking, where the easy marks at the top end get
     missed most often.|/book-a-call/
 alevel_subjects:
   - A-Level Biology Tuition|In-depth support through genetics, physiology and
     ecology for students aiming at medicine, dentistry or a competitive
-    bioscience
-    degree.|/book-a-call/
+    bioscience degree.|/book-a-call/
   - A-Level Chemistry Tuition|Clear, step-by-step tuition through organic,
     inorganic and physical chemistry for students preparing for the top end of
-    the mark
-    scheme.|/book-a-call/
+    the mark scheme.|/book-a-call/
   - A-Level English Tuition|Critical analysis and essay writing at A-Level,
-    taught by tutors who know what markers reward at the top
-    end.|/book-a-call/
+    taught by tutors who know what markers reward at the top end.|/book-a-call/
   - A-Level Economics Tuition|Micro, macro and evaluation writing for students
     who want Economics to be the strongest part of their
     application.|/book-a-call/
@@ -118,14 +112,14 @@ alevel_subjects:
     fields and quantum topics for students aiming at engineering or physics at a
     top university.|/book-a-call/
   - A-Level History Tuition|Help with the analytical essay writing A-Level
-    History demands, for students who want to write essays that hold up under timing, alongside history-led
-    university
-    applications.|/book-a-call/
+    History demands, for students who want to write essays that hold up under
+    timing, alongside history-led university applications.|/book-a-call/
   - A-Level Psychology Tuition|Methodical work through research methods and
     evaluation writing for students who want to write with precision, not just
     at length.|/book-a-call/
   - A-Level Geography Tuition|Advanced concept work, fieldwork analysis and
-    extended writing, with tutors who pitch sessions at whatever level the student is sitting at.|/book-a-call/
+    extended writing, with tutors who pitch sessions at whatever level the
+    student is sitting at.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with
     expert support on structure, subject motivation, and final
