@@ -1,7 +1,8 @@
 ---
-title: Sheffield Tutoring | Trusted GCSE & A-Level Tutors
-description: One-to-one Sheffield tutoring for Maths, English, Sciences and
-  more. Expert tutors, flexible online lessons and proven academic results.
+title: Sheffield Tutors | GCSE & A-Level Tuition from £37/hr
+description: Find expert Sheffield tutors for GCSE and A-Level support.
+  Personalised tuition from £37/hr to help students achieve top grades and exam
+  success.
 layout: single
 location: Sheffield
 banner_heading: Need a Sheffield tutor who's focused on your child's next target?
@@ -67,20 +68,16 @@ area_links:
 gcse_subjects:
   - GCSE Physics Tuition|Sharp problem-solving support in forces, energy and
     electricity for students who need to move beyond surface understanding to
-    score well in Sheffield's AQA
-    papers.|/book-a-call/
+    score well in Sheffield's AQA papers.|/book-a-call/
   - GCSE English Tuition|Support across Language and Literature that teaches
     students how to build an argument and analyse a text, rather than just
-    encouraging them to read more and hope it comes
-    together.|/book-a-call/
+    encouraging them to read more and hope it comes together.|/book-a-call/
   - GCSE Geography Tuition|Targeted work across physical and human geography
     that closes the gaps left when topics move too fast, so students can answer
-    confidently under exam
-    conditions.|/book-a-call/
+    confidently under exam conditions.|/book-a-call/
   - GCSE Chemistry Tuition|Patient explanation of organic, inorganic and
     physical chemistry for students who understand parts of the course but find
-    others aren't
-    sticking.|/book-a-call/
+    others aren't sticking.|/book-a-call/
   - GCSE Computer Science Tuition|Step-by-step support through programming logic
     and algorithms, paced around the student so no concept gets left
     behind.|/book-a-call/
@@ -92,48 +89,38 @@ gcse_subjects:
     listening paper.|/book-a-call/
   - GCSE Maths Tuition|One-to-one support in number, algebra, geometry and
     statistics that gives students time to ask questions and work through
-    problems in a way a classroom of thirty rarely
-    allows.|/book-a-call/
+    problems in a way a classroom of thirty rarely allows.|/book-a-call/
   - GCSE History Tuition|Support across source analysis, essay structure and
     content recall that helps students stop dropping marks they actually deserve
     to pick up.|/book-a-call/
 alevel_subjects:
   - A-Level Economics Tuition|Support through micro and macroeconomic models
     that makes the content feel concrete, with a tutor who can adjust pace when
-    a concept isn't
-    landing.|/book-a-call/
+    a concept isn't landing.|/book-a-call/
   - A-Level History Tuition|Building the extended analytical writing that
     A-Level History demands, working through argument structure, evidence
-    selection and exam
-    timing.|/book-a-call/
+    selection and exam timing.|/book-a-call/
   - A-Level Maths Tuition|Expert support across pure maths, mechanics and
     statistics, finding where the A-Level difficulty became too much and
-    rebuilding from that
-    point.|/book-a-call/
+    rebuilding from that point.|/book-a-call/
   - A-Level Geography Tuition|Advanced geographical concepts and extended
     writing with patient support for students who want to close the gap between
-    what they understand and what they can produce on
-    paper.|/book-a-call/
+    what they understand and what they can produce on paper.|/book-a-call/
   - A-Level English Tuition|Working through critical analysis and essay
     construction at a pace that helps students develop their own reading of a
-    text, not just guess at what the examiner
-    wants.|/book-a-call/
+    text, not just guess at what the examiner wants.|/book-a-call/
   - A-Level Psychology Tuition|Clear, methodical support through approaches,
     research methods and essay technique for students who find the volume of
-    A-Level content hard to manage without
-    help.|/book-a-call/
+    A-Level content hard to manage without help.|/book-a-call/
   - A-Level Biology Tuition|Detailed guidance through advanced biological
     systems for students who found the step up from GCSE harder than expected
-    and need someone to explain it
-    differently.|/book-a-call/
+    and need someone to explain it differently.|/book-a-call/
   - A-Level Physics Tuition|Focused tuition in mechanics, fields and quantum
     physics for A-Level students who've hit a wall and need a tutor willing to
-    go back and break it down
-    properly.|/book-a-call/
+    go back and break it down properly.|/book-a-call/
   - A-Level Chemistry Tuition|Working through organic, inorganic and physical
     chemistry with tutors who explain concepts from a different angle when the
-    first explanation hasn't
-    landed.|/book-a-call/
+    first explanation hasn't landed.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with
     expert support on structure, subject motivation, and final
