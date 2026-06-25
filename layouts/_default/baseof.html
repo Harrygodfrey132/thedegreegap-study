@@ -14,6 +14,7 @@
   <link rel="preconnect" href="https://i.ytimg.com" crossorigin>
   <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
   <link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
+  <link rel="preconnect" href="https://connect.facebook.net" crossorigin>
   <!-- Preload hint so browser starts CSS fetch earlier in the critical path.
        Cache-busting query string uses the CSS file's modification time so
        browsers re-fetch automatically whenever main.css changes. -->
@@ -28,6 +29,23 @@
     gtag('js', new Date());
     gtag('config', 'G-X8HZE9WB3J');
   </script>
+  <!-- Meta Pixel Code -->
+  <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '649718761297329');
+    fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=649718761297329&ev=PageView&noscript=1"
+    alt=""/></noscript>
+  <!-- End Meta Pixel Code -->
   <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32.png">
   <link rel="icon" type="image/png" sizes="266x266" href="/images/favicon.png">
   <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
