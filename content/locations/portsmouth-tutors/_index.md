@@ -1,7 +1,8 @@
 ---
-title: Portsmouth Tutoring | Trusted GCSE & A-Level Tutors
-description: One-to-one Portsmouth tutoring for Maths, English, Sciences and
-  more. Expert tutors, flexible online lessons and proven academic results.
+title: Portsmouth Tutors | GCSE & A-Level Tuition from £37/hr
+description: Find expert Portsmouth tutors for GCSE and A-Level support.
+  Personalised tuition from £37/hr to help students achieve top grades and exam
+  success.
 layout: single
 location: Portsmouth
 banner_heading: Looking for a Portsmouth tutor who actually diagnoses the problem?
@@ -67,74 +68,59 @@ area_links:
 gcse_subjects:
   - GCSE Maths Tuition|Patient, methodical support that traces gaps back to
     where they started, covering number, algebra and geometry without rushing
-    past anything that hasn't yet
-    clicked.|/book-a-call/
+    past anything that hasn't yet clicked.|/book-a-call/
   - GCSE Physics Tuition|Help bridging the gap between understanding the theory
     and turning it into marks on an exam paper, including forces, electricity
     and waves.|/book-a-call/
   - GCSE English Tuition|Support with reading, analysis and extended writing for
     students who can discuss a text but haven't yet found a way to get those
-    ideas onto the page
-    clearly.|/book-a-call/
+    ideas onto the page clearly.|/book-a-call/
   - GCSE Computer Science Tuition|Targeted sessions covering algorithms, data
     structures and programming logic for students who lost the thread at some
-    point and need to rebuild
-    it.|/book-a-call/
+    point and need to rebuild it.|/book-a-call/
   - GCSE Geography Tuition|Clear support across physical and human geography,
     helping students connect what they've studied into well-structured answers
     worth full marks.|/book-a-call/
   - GCSE Chemistry Tuition|Structured tutoring that revisits the fundamentals
     when equations and formulae start to blur, building real understanding
-    rather than surface
-    recall.|/book-a-call/
+    rather than surface recall.|/book-a-call/
   - GCSE French Tuition|Targeted work on grammar, vocabulary and written
     expression for students who've drifted behind and want to rebuild confidence
-    with the language before
-    exams.|/book-a-call/
+    with the language before exams.|/book-a-call/
   - GCSE Biology Tuition|Focused sessions across cells, genetics and ecology for
     students who find the sheer volume of GCSE content hard to hold onto under
     exam conditions.|/book-a-call/
   - GCSE History Tuition|Support with source analysis and extended essay
     technique for students who know the content but aren't yet converting it
-    into the marks those answers should
-    earn.|/book-a-call/
+    into the marks those answers should earn.|/book-a-call/
 alevel_subjects:
   - A-Level Chemistry Tuition|Detailed one-to-one support across organic,
     inorganic and physical chemistry, addressing the earlier gaps that A-Level
-    content tends to expose
-    quickly.|/book-a-call/
+    content tends to expose quickly.|/book-a-call/
   - A-Level Psychology Tuition|Help pulling together research methods, key
     studies and evaluation points for students who find A-Level Psychology
-    harder to revise than it
-    looks.|/book-a-call/
+    harder to revise than it looks.|/book-a-call/
   - A-Level Maths Tuition|One-to-one work across pure maths, mechanics and
     statistics, with particular attention to the GCSE foundations that A-Level
-    builds on from the first
-    week.|/book-a-call/
+    builds on from the first week.|/book-a-call/
   - A-Level History Tuition|Essay technique and argument-building support for
-    students aiming to stop leaving marks behind on
-    analysis
+    students aiming to stop leaving marks behind on analysis
     questions.|/book-a-call/
   - A-Level Geography Tuition|Structured help connecting fieldwork, case studies
     and theory into the kind of coherent, evaluative answers A-Level Geography
-    examiners
-    reward.|/book-a-call/
+    examiners reward.|/book-a-call/
   - A-Level Biology Tuition|Support with the depth and volume of A-Level
     content, from cellular biology through to genetics and ecosystems, for
-    students who need more time than lessons
-    allow.|/book-a-call/
+    students who need more time than lessons allow.|/book-a-call/
   - A-Level Economics Tuition|One-to-one sessions helping students write sharper
     evaluation and connect micro and macroeconomic theory into clear,
-    well-argued exam
-    responses.|/book-a-call/
+    well-argued exam responses.|/book-a-call/
   - A-Level English Tuition|Close reading and essay planning support for
     students who have strong ideas but want to turn them into the kind of
-    structured argument that scores at the
-    top.|/book-a-call/
+    structured argument that scores at the top.|/book-a-call/
   - A-Level Physics Tuition|Methodical sessions working through mechanics,
     electricity and fields for students who find exam application harder than
-    understanding the concepts in
-    class.|/book-a-call/
+    understanding the concepts in class.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with
     expert support on structure, subject motivation, and final
