@@ -1,7 +1,8 @@
 ---
-title: Reading Tutoring | Trusted GCSE & A-Level Tutors
-description: One-to-one Reading tutoring for Maths, English, Sciences and more.
-  Expert tutors, flexible online lessons and proven academic results.
+title: Reading Tutors | GCSE & A-Level Tuition from £37/hr
+description: Find expert Reading tutors for GCSE and A-Level support.
+  Personalised tuition from £37/hr to help students achieve top grades and exam
+  success.
 layout: single
 location: Reading
 banner_heading: Looking for a Reading tutor who knows what this area actually demands?
@@ -71,15 +72,13 @@ gcse_subjects:
     boundaries.|/book-a-call/
   - GCSE Computer Science Tuition|Solid grounding in programming logic,
     algorithms and data structures, the subject where Reading's tech-connected
-    students often want to
-    excel.|/book-a-call/
+    students often want to excel.|/book-a-call/
   - GCSE French Tuition|Accurate, fluent support across speaking, writing,
     reading and listening for students who want the grade to match their
     effort.|/book-a-call/
   - "GCSE Geography Tuition|Case studies, data response and extended writing:
     everything students need to score well in one of the most
-    mark-scheme-dependent GCSE
-    subjects.|/book-a-call/"
+    mark-scheme-dependent GCSE subjects.|/book-a-call/"
   - GCSE Chemistry Tuition|Clear explanations of reactions, bonding and
     calculations, building real understanding rather than surface-level
     recall.|/book-a-call/
@@ -93,8 +92,7 @@ gcse_subjects:
     built around the demands of Reading students who want results, not just
     revision.|/book-a-call/
   - GCSE Biology Tuition|From cells and genetics to ecosystems and physiology,
-    support that makes complex systems logical and
-    memorable.|/book-a-call/
+    support that makes complex systems logical and memorable.|/book-a-call/
 alevel_subjects:
   - A-Level Economics Tuition|Advanced micro and macroeconomics with tutors who
     go beyond definitions and into the quality of argument examiners actually
@@ -109,8 +107,7 @@ alevel_subjects:
     mechanics and statistics, with a tutor who spots exactly where the working
     breaks down.|/book-a-call/
   - A-Level English Tuition|Building the critical depth and essay precision that
-    Reading's most demanding sixth forms and universities
-    expect.|/book-a-call/
+    Reading's most demanding sixth forms and universities expect.|/book-a-call/
   - A-Level Geography Tuition|Advanced concepts, fieldwork and extended writing,
     supported by tutors who know what top grades in this subject actually
     require.|/book-a-call/
