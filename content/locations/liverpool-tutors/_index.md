@@ -1,8 +1,7 @@
 ---
-title: Liverpool Tutors | GCSE & A-Level Tuition from £37/hr
-description: Find expert Liverpool tutors for GCSE and A-Level support.
-  Personalised tuition from £37/hr to help students achieve top grades and exam
-  success.
+title: Liverpool Tutoring | Trusted GCSE & A-Level Tutors
+description: One-to-one Liverpool tutoring for Maths, English, Sciences and
+  more. Expert tutors, flexible online lessons and proven academic results.
 layout: single
 location: Liverpool
 banner_heading: Need a Liverpool tutor who actually closes the gap?
@@ -74,12 +73,10 @@ area_links:
 gcse_subjects:
   - GCSE English Tuition|Support across Language and Literature that builds a
     reliable approach to analysis, so students write with purpose and stop
-    second-guessing every
-    answer.|/book-a-call/
+    second-guessing every answer.|/book-a-call/
   - GCSE Physics Tuition|Clear, methodical support through forces, energy, waves
     and electricity that builds genuine understanding rather than surface-level
-    familiarity with the
-    content.|/book-a-call/
+    familiarity with the content.|/book-a-call/
   - GCSE History Tuition|Strong essay technique and source analysis developed
     over time, giving students the tools to write with confidence rather than
     memory alone.|/book-a-call/
@@ -88,8 +85,7 @@ gcse_subjects:
     there.|/book-a-call/
   - GCSE Computer Science Tuition|Support that makes programming logic and
     algorithmic thinking approachable, closing the gap between what students can
-    do in class and what exams ask
-    for.|/book-a-call/
+    do in class and what exams ask for.|/book-a-call/
   - GCSE Biology Tuition|Breaking down cell biology, genetics, ecology and
     physiology into logical steps that students can hold onto under exam
     conditions.|/book-a-call/
@@ -101,44 +97,35 @@ gcse_subjects:
     technique.|/book-a-call/
   - GCSE Chemistry Tuition|Structured tuition through organic, inorganic and
     physical chemistry that builds real understanding of reactions, not just the
-    ability to recall
-    them.|/book-a-call/
+    ability to recall them.|/book-a-call/
 alevel_subjects:
   - A-Level Psychology Tuition|Methodical support through research methods, key
     approaches and essay structure that makes the subject manageable and the
-    mark scheme less of a
-    mystery.|/book-a-call/
+    mark scheme less of a mystery.|/book-a-call/
   - A-Level Maths Tuition|Advanced support across pure maths, mechanics and
     statistics, with a strong focus on the multi-step problems that determine
-    where students end up in the grade
-    boundaries.|/book-a-call/
+    where students end up in the grade boundaries.|/book-a-call/
   - A-Level Geography Tuition|Advanced concepts, fieldwork analysis and extended
-    writing supported by tutors who pitch sessions at whatever level the student is sitting at
-    require.|/book-a-call/
+    writing supported by tutors who pitch sessions at whatever level the student
+    is sitting at require.|/book-a-call/
   - A-Level Chemistry Tuition|In-depth guidance through organic, inorganic and
     physical chemistry for students who need the concepts explained clearly, not
-    repeated
-    louder.|/book-a-call/
+    repeated louder.|/book-a-call/
   - A-Level English Tuition|Critical analysis and essay writing support that
     helps students develop arguments with real depth and write at the level
-    A-Level examiners
-    expect.|/book-a-call/
+    A-Level examiners expect.|/book-a-call/
   - A-Level Biology Tuition|Expert guidance through genetics, homeostasis and
     ecology for students building the kind of understanding that translates into
-    exam marks, not just revision
-    notes.|/book-a-call/
+    exam marks, not just revision notes.|/book-a-call/
   - A-Level History Tuition|Support that sharpens the ability to construct and
     sustain complex historical arguments under timed conditions, at the level
-    competitive sixth forms and universities
-    want.|/book-a-call/
+    competitive sixth forms and universities want.|/book-a-call/
   - A-Level Economics Tuition|Rigorous one-to-one support through micro and
     macroeconomic models, policy analysis and data interpretation, with a focus
-    on evaluation and applied
-    thinking.|/book-a-call/
+    on evaluation and applied thinking.|/book-a-call/
   - A-Level Physics Tuition|Problem-focused tuition in advanced mechanics,
     fields and quantum physics that builds the confidence to tackle unfamiliar
-    questions, not just familiar
-    ones.|/book-a-call/
+    questions, not just familiar ones.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with
     expert support on structure, subject motivation, and final
