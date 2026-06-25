@@ -1,8 +1,7 @@
 ---
-title: Wolverhampton Tutors | GCSE & A-Level Tuition from £37/hr
-description: Find expert Wolverhampton tutors for GCSE and A-Level support.
-  Personalised tuition from £37/hr to help students achieve top grades and exam
-  success.
+title: Wolverhampton Tutoring | Trusted GCSE & A-Level Tutors
+description: One-to-one Wolverhampton tutoring for Maths, English, Sciences and
+  more. Expert tutors, flexible online lessons and proven academic results.
 layout: single
 location: Wolverhampton
 banner_heading: Wolverhampton tutors who treat ambition as the starting point, not the ceiling
@@ -72,12 +71,10 @@ gcse_subjects:
     comfortable pass.|/book-a-call/
   - GCSE Biology Tuition|Detailed work through the full GCSE specification for
     students who want to walk into the exam confident on the harder six and
-    nine-mark
-    questions.|/book-a-call/
+    nine-mark questions.|/book-a-call/
   - GCSE English Tuition|Sharp, focused tuition across Language and Literature
     for students who want a method that works under exam timing, not just at
-    home with no clock
-    running.|/book-a-call/
+    home with no clock running.|/book-a-call/
   - GCSE Chemistry Tuition|One-to-one work through bonding, equations and rates
     of reaction for students aiming at grades 7 to 9 and the answers that get
     them there.|/book-a-call/
@@ -86,12 +83,10 @@ gcse_subjects:
     grades.|/book-a-call/
   - GCSE Computer Science Tuition|Patient sessions through programming,
     algorithms and data representation for students who want both their NEA and
-    written paper to land at the top
-    end.|/book-a-call/
+    written paper to land at the top end.|/book-a-call/
   - GCSE Geography Tuition|Case study revision, data response and nine-mark
     question technique, with tutoring that turns subject knowledge into the
-    marks the mark scheme actually
-    awards.|/book-a-call/
+    marks the mark scheme actually awards.|/book-a-call/
   - GCSE History Tuition|Source skills, essay structure and extended argument,
     taught by tutors who know what a grade 9 history answer looks
     like.|/book-a-call/
@@ -101,12 +96,10 @@ gcse_subjects:
 alevel_subjects:
   - A-Level Economics Tuition|Support through micro, macro and evaluation
     writing for students who want Economics to be the strongest part of their
-    UCAS
-    application.|/book-a-call/
+    UCAS application.|/book-a-call/
   - A-Level Chemistry Tuition|Step-by-step tutoring through organic, inorganic
     and physical chemistry for students who need to build genuine understanding
-    ahead of medicine, dentistry or chemistry
-    applications.|/book-a-call/
+    ahead of medicine, dentistry or chemistry applications.|/book-a-call/
   - A-Level Biology Tuition|In-depth support through genetics, physiology and
     ecology for students aiming at a competitive university
     course.|/book-a-call/
@@ -126,7 +119,8 @@ alevel_subjects:
     taught by tutors who know what markers reward at the top end of the mark
     scheme.|/book-a-call/
   - A-Level Geography Tuition|Advanced concept work, fieldwork analysis and
-    extended writing, with tutors who pitch sessions at whatever level the student is sitting at.|/book-a-call/
+    extended writing, with tutors who pitch sessions at whatever level the
+    student is sitting at.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with
     expert support on structure, subject motivation, and final
