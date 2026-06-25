@@ -1,7 +1,7 @@
 ---
-title: Tunbridge Wells Tutoring | Trusted GCSE & A-Level Tutors
-description: One-to-one Tunbridge Wells tutoring for Maths, English, Sciences
-  and more. Expert tutors, flexible online lessons and proven academic results.
+title: Tunbridge Tutoring | Trusted GCSE & A-Level Tutors
+description: One-to-one Tunbridge tutoring for Maths, English, Sciences and
+  more. Expert tutors, flexible online lessons and proven academic results.
 layout: single
 location: Tunbridge Wells
 banner_heading: Looking for a Tunbridge Wells tutor for the Kent Test, GCSEs or A-Levels?
@@ -72,11 +72,10 @@ area_links:
 gcse_subjects:
   - GCSE English Tuition|Sharp tutoring across Language and Literature for
     students who want a method that holds up under exam timing, not just at home
-    with no clock
-    running.|/book-a-call/
+    with no clock running.|/book-a-call/
   - GCSE Maths Tuition|Stretch tutoring across number, algebra and statistics
-    for grammar school students across the whole mark band, from foundation work to top-grade stretch, and for students
-    working hard to close any
+    for grammar school students across the whole mark band, from foundation work
+    to top-grade stretch, and for students working hard to close any
     gap.|/book-a-call/
   - GCSE History Tuition|Source skills, essay structure and extended argument,
     taught by tutors who know what a grade 9 history answer actually looks
@@ -86,38 +85,32 @@ gcse_subjects:
     there.|/book-a-call/
   - GCSE Biology Tuition|Detailed work across the full specification for
     students who want to walk into the exam confident on the harder six and
-    nine-mark
-    questions.|/book-a-call/
+    nine-mark questions.|/book-a-call/
   - GCSE Physics Tuition|Tutoring through forces, waves and electromagnetism
     built around the application questions that decide the top
     grades.|/book-a-call/
   - GCSE Computer Science Tuition|One-to-one work through programming,
     algorithms and Boolean logic for students who want both NEA and written
-    paper to land at the top
-    end.|/book-a-call/
+    paper to land at the top end.|/book-a-call/
   - GCSE French Tuition|Structured tutoring across all four skills for students
     aiming high in writing and speaking, where the easy marks at the top end get
     missed most often.|/book-a-call/
   - GCSE Geography Tuition|Case study revision, data response and nine-mark
     question technique, with tutoring that turns subject knowledge into the
-    marks the mark scheme actually
-    awards.|/book-a-call/
+    marks the mark scheme actually awards.|/book-a-call/
 alevel_subjects:
   - A-Level History Tuition|Help with the analytical essay writing A-Level
-    History demands, for students who want to write essays that hold up under timing, alongside history-led
-    university
-    applications.|/book-a-call/
+    History demands, for students who want to write essays that hold up under
+    timing, alongside history-led university applications.|/book-a-call/
   - A-Level Chemistry Tuition|Step-by-step tutoring through organic, inorganic
     and physical chemistry for students preparing for medicine, dentistry or
-    natural
-    sciences.|/book-a-call/
+    natural sciences.|/book-a-call/
   - A-Level Maths Tuition|Focused tutoring across pure, statistics and mechanics
     for students who want to stay ahead of Year 13 content before it gets
     unmanageable.|/book-a-call/
   - A-Level Biology Tuition|In-depth support through genetics, physiology and
     ecology for students aiming at medicine, dentistry or a competitive
-    bioscience
-    degree.|/book-a-call/
+    bioscience degree.|/book-a-call/
   - A-Level Physics Tuition|Patient, exam-board-aware tuition through mechanics,
     fields and quantum topics for students aiming at engineering or physics at a
     top university.|/book-a-call/
@@ -131,7 +124,8 @@ alevel_subjects:
     taught by tutors who know what markers reward at the top end of the mark
     scheme.|/book-a-call/
   - A-Level Geography Tuition|Advanced concept work, fieldwork analysis and
-    extended writing, with tutors who pitch sessions at whatever level the student is sitting at.|/book-a-call/
+    extended writing, with tutors who pitch sessions at whatever level the
+    student is sitting at.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with
     expert support on structure, subject motivation, and final
