@@ -1,8 +1,7 @@
 ---
-title: Nottingham Tutors | GCSE & A-Level Tuition from £37/hr
-description: Find expert Nottingham tutors for GCSE and A-Level support.
-  Personalised tuition from £37/hr to help students achieve top grades and exam
-  success.
+title: Nottingham Tutoring | Trusted GCSE & A-Level Tutors
+description: One-to-one Nottingham tutoring for Maths, English, Sciences and
+  more. Expert tutors, flexible online lessons and proven academic results.
 layout: single
 location: Nottingham
 banner_heading: Need a Nottingham tutor who finds the gap, not just covers content?
@@ -76,67 +75,53 @@ gcse_subjects:
     any exam question.|/book-a-call/
   - GCSE Computer Science Tuition|Support that makes programming logic and
     algorithmic thinking genuinely clear, rather than something students
-    memorise and hope comes
-    up.|/book-a-call/
+    memorise and hope comes up.|/book-a-call/
   - GCSE English Tuition|Close reading, essay structure and language analysis
     taught one step at a time, so students can approach an unseen text with a
     real strategy.|/book-a-call/
   - GCSE Geography Tuition|Case studies, data response and extended writing
     approached with a tutor who fills in the context schools don't always have
-    time to cover
-    fully.|/book-a-call/
+    time to cover fully.|/book-a-call/
   - GCSE Chemistry Tuition|Organic, inorganic and physical chemistry broken down
     into building blocks, so students understand reactions rather than just
-    hoping they remember
-    them.|/book-a-call/
+    hoping they remember them.|/book-a-call/
   - GCSE French Tuition|Speaking, listening, reading and writing practised in a
     low-pressure one-to-one setting where students can make mistakes without an
     audience.|/book-a-call/
   - GCSE Biology Tuition|Cell biology, genetics and ecology explained with
     patience and clarity, focusing on the gaps that hold students back rather
-    than content they already
-    know.|/book-a-call/
+    than content they already know.|/book-a-call/
   - GCSE Physics Tuition|Forces, energy and electricity taught with a focus on
     problem-solving, so students can handle questions they haven't seen before
-    rather than only familiar
-    ones.|/book-a-call/
+    rather than only familiar ones.|/book-a-call/
 alevel_subjects:
   - A-Level Psychology Tuition|Research methods, key approaches and extended
     writing supported with precision, so students understand the material well
-    enough to evaluate it, not just recall
-    it.|/book-a-call/
+    enough to evaluate it, not just recall it.|/book-a-call/
   - A-Level Maths Tuition|Advanced support across pure maths, mechanics and
     statistics, with a particular focus on multi-step problem solving for
-    students whose GCSE base needs strengthening
-    first.|/book-a-call/
+    students whose GCSE base needs strengthening first.|/book-a-call/
   - A-Level Geography Tuition|Analytical writing, fieldwork interpretation and
     complex geographical concepts approached by tutors who know where the mark
-    bands sit and how students reach
-    them.|/book-a-call/
+    bands sit and how students reach them.|/book-a-call/
   - A-Level English Tuition|Critical analysis and essay writing developed
     carefully, helping students build an independent voice in a subject where
-    real understanding counts for more than technique
-    alone.|/book-a-call/
+    real understanding counts for more than technique alone.|/book-a-call/
   - A-Level Biology Tuition|Genetics, ecology and physiology at depth, supported
     by tutors who know the gap between what students think they understand and
-    what examiners actually want to
-    see.|/book-a-call/
+    what examiners actually want to see.|/book-a-call/
   - A-Level History Tuition|Complex argument construction and precise historical
     writing supported by tutors who push students beyond summary and into
-    genuine analytical
-    depth.|/book-a-call/
+    genuine analytical depth.|/book-a-call/
   - A-Level Economics Tuition|Micro and macroeconomic models, policy evaluation
     and data analysis supported with the rigour A-Level Economics needs beyond
-    what classroom time usually
-    allows.|/book-a-call/
+    what classroom time usually allows.|/book-a-call/
   - A-Level Physics Tuition|Advanced mechanics, fields and quantum physics
     explained clearly, with problem-solving practice that builds the confidence
-    students need for a demanding
-    course.|/book-a-call/
+    students need for a demanding course.|/book-a-call/
   - A-Level Chemistry Tuition|Organic, inorganic and physical chemistry at
     A-Level, with tutors who prioritise genuine understanding over rote recall
-    and know where students typically lose
-    marks.|/book-a-call/
+    and know where students typically lose marks.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with
     expert support on structure, subject motivation, and final
