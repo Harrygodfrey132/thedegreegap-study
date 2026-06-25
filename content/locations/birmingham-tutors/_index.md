@@ -1,8 +1,7 @@
 ---
-title: Birmingham Tutors | GCSE & A-Level Tuition from £37/hr
-description: Find expert Birmingham tutors for GCSE and A-Level support.
-  Personalised tuition from £37/hr to help students achieve top grades and exam
-  success.
+title: Birmingham Tutoring | Trusted GCSE & A-Level Tutors
+description: One-to-one Birmingham tutoring for Maths, English, Sciences and
+  more. Expert tutors, flexible online lessons and proven academic results.
 layout: single
 location: Birmingham
 banner_heading: Looking for a Birmingham tutor who gets to the root of the problem?
@@ -74,12 +73,10 @@ gcse_subjects:
     content knowledge.|/book-a-call/
   - GCSE Chemistry Tuition|Structured tuition through organic, inorganic and
     physical chemistry that builds the understanding Birmingham students need
-    when topics get harder in Year
-    11.|/book-a-call/
+    when topics get harder in Year 11.|/book-a-call/
   - GCSE Maths Tuition|Patient, focused support covering algebra, geometry,
     number and statistics, building fluency for students who know more than
-    their exam results currently
-    show.|/book-a-call/
+    their exam results currently show.|/book-a-call/
   - GCSE French Tuition|Steady practice across speaking, listening, reading and
     writing that builds the confidence to perform on exam day, not just in
     class.|/book-a-call/
@@ -91,51 +88,41 @@ gcse_subjects:
     independently.|/book-a-call/
   - GCSE Physics Tuition|Clear, methodical guidance through forces, energy and
     electricity for students who find the subject clicks better with someone
-    explaining it
-    one-to-one.|/book-a-call/
+    explaining it one-to-one.|/book-a-call/
   - GCSE Computer Science Tuition|Support that makes programming fundamentals
     and algorithmic thinking approachable, building confidence alongside the
-    technical skills examiners want to
-    see.|/book-a-call/
+    technical skills examiners want to see.|/book-a-call/
   - GCSE Geography Tuition|Targeted revision across physical and human geography
     with clear support on case studies and extended writing for students aiming
-    to improve their
-    grade.|/book-a-call/
+    to improve their grade.|/book-a-call/
 alevel_subjects:
   - A-Level Economics Tuition|Advanced support through micro and macroeconomic
     models and evaluation that helps Birmingham students demonstrate real
-    analytical
-    depth.|/book-a-call/
+    analytical depth.|/book-a-call/
   - A-Level History Tuition|Building the ability to construct and sustain
     complex arguments, helping students write with the precision and confidence
-    that top grades
-    require.|/book-a-call/
+    that top grades require.|/book-a-call/
   - A-Level Chemistry Tuition|Expert tuition through organic, inorganic and
     physical chemistry for students who need someone to explain things clearly,
-    not just repeat what the textbook
-    says.|/book-a-call/
+    not just repeat what the textbook says.|/book-a-call/
   - A-Level Psychology Tuition|Methodical support through research methods, key
     approaches and essay technique that makes the subject genuinely manageable
-    rather than just
-    memorised.|/book-a-call/
+    rather than just memorised.|/book-a-call/
   - A-Level Maths Tuition|Focused support across pure maths, mechanics and
     statistics for students building the problem-solving confidence that A-Level
-    grade boundaries
-    demand.|/book-a-call/
+    grade boundaries demand.|/book-a-call/
   - A-Level English Tuition|Critical analysis and essay writing support that
     helps students develop their own voice and write arguments that stand out at
     A-Level.|/book-a-call/
   - A-Level Physics Tuition|Patient, problem-focused tuition in advanced
     mechanics, fields and quantum physics for students who need the concepts
-    broken down
-    differently.|/book-a-call/
+    broken down differently.|/book-a-call/
   - A-Level Geography Tuition|Advanced geographical concepts, fieldwork analysis
-    and extended writing supported by tutors who pitch sessions at whatever level the student is sitting at    actually look
-    for.|/book-a-call/
+    and extended writing supported by tutors who pitch sessions at whatever
+    level the student is sitting at    actually look for.|/book-a-call/
   - A-Level Biology Tuition|In-depth guidance through genetics, ecology and
     physiology for students who need to develop proper understanding rather than
-    surface-level
-    recall.|/book-a-call/
+    surface-level recall.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with
     expert support on structure, subject motivation, and final
