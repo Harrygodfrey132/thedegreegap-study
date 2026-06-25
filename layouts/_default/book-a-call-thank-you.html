@@ -79,4 +79,11 @@
 })();
 </script>
 
+<!-- Meta Pixel — Lead conversion fires once on the thank-you page -->
+<script>
+  if (typeof fbq === 'function') {
+    fbq('track', 'Lead');
+  }
+</script>
+
 {{ end }}
