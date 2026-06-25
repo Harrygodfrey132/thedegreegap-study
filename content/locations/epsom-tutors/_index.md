@@ -1,7 +1,7 @@
 ---
-title: Epsom Tutors | GCSE & A-Level Tuition from £37/hr
-description: Find expert Epsom tutors for GCSE and A-Level support. Personalised
-  tuition from £37/hr to help students achieve top grades and exam success.
+title: Epsom Tutoring | Trusted GCSE & A-Level Tutors
+description: One-to-one Epsom tutoring for Maths, English, Sciences and more.
+  Expert tutors, flexible online lessons and proven academic results.
 layout: single
 location: Epsom
 banner_heading: Looking for a private tutor in Epsom who actually pushes results?
@@ -73,12 +73,10 @@ gcse_subjects:
     and rates for students aiming at grades 7 to 9 and the answers that get them
     there.|/book-a-call/
   - GCSE Maths Tuition|Stretch tutoring across number, algebra and statistics
-    across the whole mark band, not just a
-    comfortable pass.|/book-a-call/
+    across the whole mark band, not just a comfortable pass.|/book-a-call/
   - GCSE Biology Tuition|Detailed work across the full specification for
     students who want to walk into the exam confident on the harder six and
-    nine-mark
-    questions.|/book-a-call/
+    nine-mark questions.|/book-a-call/
   - GCSE English Tuition|Sharp tutoring across Language and Literature for
     students who want a method that holds up under exam timing, not just in calm
     conditions at home.|/book-a-call/
@@ -90,12 +88,10 @@ gcse_subjects:
     like.|/book-a-call/
   - GCSE Computer Science Tuition|One-to-one work through programming,
     algorithms and Boolean logic for students who want both NEA and written
-    paper to land at the top
-    end.|/book-a-call/
+    paper to land at the top end.|/book-a-call/
   - GCSE Geography Tuition|Case study revision, data response and nine-mark
     question technique, with tutoring that turns subject knowledge into the
-    marks the mark scheme actually
-    awards.|/book-a-call/
+    marks the mark scheme actually awards.|/book-a-call/
   - GCSE French Tuition|Structured tutoring across all four skills for students
     aiming high in writing and speaking, where the easy marks at the top end get
     missed most often.|/book-a-call/
@@ -105,8 +101,7 @@ alevel_subjects:
     application.|/book-a-call/
   - A-Level Biology Tuition|In-depth support through genetics, physiology and
     ecology for students aiming at medicine, dentistry or a competitive
-    bioscience
-    degree.|/book-a-call/
+    bioscience degree.|/book-a-call/
   - A-Level Chemistry Tuition|Step-by-step tutoring through organic, inorganic
     and physical chemistry for students preparing for medicine or natural
     sciences.|/book-a-call/
@@ -123,11 +118,11 @@ alevel_subjects:
     taught by tutors who know what markers reward at the top end of the mark
     scheme.|/book-a-call/
   - A-Level History Tuition|Help with the analytical essay writing A-Level
-    History demands, for students who want to write essays that hold up under timing, alongside history-led
-    university
-    applications.|/book-a-call/
+    History demands, for students who want to write essays that hold up under
+    timing, alongside history-led university applications.|/book-a-call/
   - A-Level Geography Tuition|Advanced concept work, fieldwork analysis and
-    extended writing, with tutors who pitch sessions at whatever level the student is sitting at.|/book-a-call/
+    extended writing, with tutors who pitch sessions at whatever level the
+    student is sitting at.|/book-a-call/
 other_subjects:
   - University Personal Statement|Shape a strong UCAS personal statement with
     expert support on structure, subject motivation, and final
