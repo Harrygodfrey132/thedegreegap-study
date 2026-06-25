@@ -1,7 +1,7 @@
 ---
-title: Leeds Tutoring | Trusted GCSE & A-Level Tutors
-description: One-to-one Leeds tutoring for Maths, English, Sciences and more.
-  Expert tutors, flexible online lessons and proven academic results.
+title: Leeds Tutors | GCSE & A-Level Tuition from £37/hr
+description: Find expert Leeds tutors for GCSE and A-Level support. Personalised
+  tuition from £37/hr to help students achieve top grades and exam success.
 layout: single
 location: Leeds
 banner_heading: Need a Leeds tutor who prepares students for what comes next?
@@ -86,8 +86,7 @@ gcse_subjects:
     electricity.|/book-a-call/
   - GCSE Computer Science Tuition|From algorithms to Python programming,
     one-to-one support that makes the written exam feel as manageable as the
-    practical
-    work.|/book-a-call/
+    practical work.|/book-a-call/
   - GCSE Geography Tuition|Case study recall, data response and extended writing
     support for students who want to stop leaving marks on the
     table.|/book-a-call/
@@ -100,34 +99,28 @@ gcse_subjects:
 alevel_subjects:
   - A-Level Economics Tuition|Rigorous support across micro and macroeconomic
     models and essay technique, for students aiming at competitive university
-    courses in business or
-    law.|/book-a-call/
+    courses in business or law.|/book-a-call/
   - A-Level Maths Tuition|Advanced problem-solving across pure maths, mechanics
     and statistics, with a focus on multi-step questions that define the
-    difference between
-    grades.|/book-a-call/
+    difference between grades.|/book-a-call/
   - A-Level Psychology Tuition|Master research methods, key approaches and
     extended writing with tutors who know AQA's mark scheme and what examiners
     reward.|/book-a-call/
   - A-Level Chemistry Tuition|Expert guidance through organic, inorganic and
     physical chemistry for students targeting science or medicine at Russell
-    Group
-    universities.|/book-a-call/
+    Group universities.|/book-a-call/
   - A-Level English Tuition|Build critical depth and essay confidence across
     literary texts, with support on how to construct arguments that examiners
     take seriously.|/book-a-call/
   - A-Level Biology Tuition|From genetics to ecosystems, advanced biological
     concepts unpacked clearly and connected to the exam technique that turns
-    knowledge into
-    marks.|/book-a-call/
+    knowledge into marks.|/book-a-call/
   - A-Level Physics Tuition|One-to-one support across mechanics, fields and
     quantum physics, helping students work through the kinds of problems that
-    trip up even diligent
-    students.|/book-a-call/
+    trip up even diligent students.|/book-a-call/
   - A-Level Geography Tuition|Advanced concepts, fieldwork analysis and extended
     writing support for students working towards geography or environmental
-    science
-    degrees.|/book-a-call/
+    science degrees.|/book-a-call/
   - A-Level History Tuition|Support for constructing and sustaining complex
     historical arguments under exam pressure, across all major A-Level exam
     boards.|/book-a-call/
