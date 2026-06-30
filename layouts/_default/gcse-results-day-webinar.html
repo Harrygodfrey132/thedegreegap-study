@@ -1115,9 +1115,11 @@
 
     /* Static identifiers — these tie the submission to the
        specific Zoho lead form configured in the CRM. Rotate
-       both together if Zoho regenerates the form. */
-    add('xnQsjsdp', '5dc3137515188e31d59c662a1d96b89833da680c35625e4975fd813a94f0db32');
-    add('xmIwtLD', 'a0055e4f8de7c9fb52b18349c560fcf79ead70151733aabfe583cf30f5bea6dba3dc1cc57cb64cbe01a3f54f6b5d69e5');
+       both together if Zoho regenerates the form (which
+       happens whenever the CRM-side schema changes, e.g. a
+       new field added). */
+    add('xnQsjsdp', 'c7dee3ce47564c6f1ba6ab91940ef001866c2bfb54b8c7ccd2a3300d2624bd49');
+    add('xmIwtLD', 'cac7759cc1d02e32640e249994056e5077c9940a60296c0769d592972051535b8ce8f1da0208f42431ec2105bb164657');
     add('actionType', 'TGVhZHM=');
     add('returnURL', 'null');
     add('aG9uZXlwb3Q', '');
@@ -1133,6 +1135,7 @@
     var phone = (data.get('phone') || '').trim();
     if (phone) add('Phone', phone);
 
+    add('LEADCF5', 'Webinar');
     add('LEADCF3', 'GCSE - Year 11');
     add('Lead Source', 'August Webinar');
 
