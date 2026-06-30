@@ -1,0 +1,327 @@
+{{ define "seo" }}
+{{ partial "seo.html" . }}
+<meta name="robots" content="noindex, follow">
+{{ end }}
+
+{{ define "main" }}
+
+<style>
+  .rdb-page {
+    font-family: 'Poppins', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    color: #171717;
+    background: #fbf7ef;
+  }
+
+  /* Hero */
+  .rdb-hero {
+    background:
+      radial-gradient(1200px 600px at 50% -20%, rgba(245, 165, 36, 0.12), rgba(245, 165, 36, 0) 65%),
+      #fbf7ef;
+    padding: 64px 24px 56px;
+    text-align: center;
+  }
+  .rdb-hero__inner { max-width: 760px; margin: 0 auto; }
+  .rdb-hero__tick {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 64px;
+    height: 64px;
+    background: #800020;
+    color: #fbf7ef;
+    border-radius: 50%;
+    margin: 0 auto 24px;
+    box-shadow: 0 12px 28px rgba(128, 0, 32, 0.20);
+  }
+  .rdb-hero h1 {
+    font-family: inherit;
+    font-size: clamp(2.2rem, 5vw, 3.2rem);
+    font-weight: 700;
+    line-height: 1.08;
+    letter-spacing: -0.025em;
+    color: #1f1b18;
+    margin: 0 auto 18px;
+    max-width: 22ch;
+  }
+  .rdb-hero__eyebrow {
+    display: inline-block;
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.22em;
+    color: #800020;
+    text-transform: uppercase;
+    margin: 0 auto 20px;
+  }
+  .rdb-hero__sub {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #5f5a54;
+    margin: 0 auto;
+    max-width: 56ch;
+  }
+
+  /* Options grid — three A-Level tutoring options */
+  .rdb-options { padding: 64px 24px; background: #ffffff; border-top: 1px solid #ece4d4; border-bottom: 1px solid #ece4d4; }
+  .rdb-options__head { text-align: center; max-width: 720px; margin: 0 auto 44px; }
+  .rdb-options__eyebrow {
+    display: inline-block;
+    font-size: 0.74rem;
+    font-weight: 700;
+    letter-spacing: 0.22em;
+    color: #800020;
+    text-transform: uppercase;
+    margin: 0 0 14px;
+  }
+  .rdb-options__head h2 {
+    font-family: inherit;
+    font-size: clamp(1.8rem, 3.6vw, 2.4rem);
+    font-weight: 700;
+    letter-spacing: -0.022em;
+    line-height: 1.15;
+    color: #1f1b18;
+    margin: 0 0 14px;
+  }
+  .rdb-options__head p { font-size: 1.05rem; line-height: 1.55; color: #5f5a54; margin: 0; }
+  .rdb-options__grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 22px;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  @media (max-width: 880px) { .rdb-options__grid { grid-template-columns: 1fr; } }
+  .rdb-option {
+    background: #fbf7ef;
+    border: 1px solid #ece4d4;
+    border-radius: 14px;
+    padding: 32px 28px;
+  }
+  .rdb-option__tag {
+    display: inline-block;
+    font-size: 0.74rem;
+    font-weight: 700;
+    letter-spacing: 0.16em;
+    color: #800020;
+    text-transform: uppercase;
+    margin: 0 0 14px;
+  }
+  .rdb-option h3 {
+    font-family: inherit;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #1f1b18;
+    letter-spacing: -0.015em;
+    line-height: 1.25;
+    margin: 0 0 12px;
+  }
+  .rdb-option p {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #3a3530;
+    margin: 0;
+  }
+
+  /* Form section */
+  .rdb-form-section { padding: 72px 24px 88px; background: #fbf7ef; }
+  .rdb-form-section__inner { max-width: 600px; margin: 0 auto; text-align: center; }
+  .rdb-form-section__eyebrow {
+    display: inline-block;
+    font-size: 0.74rem;
+    font-weight: 700;
+    letter-spacing: 0.22em;
+    color: #800020;
+    text-transform: uppercase;
+    margin: 0 0 14px;
+  }
+  .rdb-form-section h2 {
+    font-family: inherit;
+    font-size: clamp(1.8rem, 3.6vw, 2.4rem);
+    font-weight: 700;
+    letter-spacing: -0.022em;
+    line-height: 1.12;
+    color: #1f1b18;
+    margin: 0 0 14px;
+  }
+  .rdb-form-section__lead {
+    font-size: 1.1rem;
+    line-height: 1.55;
+    color: #5f5a54;
+    margin: 0 0 32px;
+  }
+  .rdb-form-card {
+    background: #ffffff;
+    border: 1px solid #ece4d4;
+    border-radius: 16px;
+    padding: 36px 32px 28px;
+    box-shadow: 0 12px 36px rgba(35, 23, 17, 0.08);
+    text-align: left;
+  }
+  .rdb-form-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+  }
+  @media (max-width: 520px) { .rdb-form-row { grid-template-columns: 1fr; } }
+  .rdb-field { margin-bottom: 14px; }
+  .rdb-field label {
+    display: block;
+    font-size: 0.82rem;
+    font-weight: 700;
+    color: #171717;
+    margin: 0 0 6px;
+  }
+  .rdb-field input,
+  .rdb-field select {
+    width: 100%;
+    box-sizing: border-box;
+    font-family: inherit;
+    font-size: 1rem;
+    color: #171717;
+    background: #ffffff;
+    border: 1.5px solid #e6ded4;
+    border-radius: 8px;
+    padding: 13px 14px;
+    line-height: 1.4;
+    transition: border-color 0.2s, box-shadow 0.2s;
+    appearance: none;
+  }
+  .rdb-field input:focus,
+  .rdb-field select:focus {
+    outline: none;
+    border-color: #800020;
+    box-shadow: 0 0 0 4px rgba(128, 0, 32, 0.10);
+  }
+  .rdb-field select {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%23800020' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 14px center;
+    padding-right: 40px;
+  }
+  .rdb-submit {
+    width: 100%;
+    background: #800020;
+    color: #fbf7ef;
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: 700;
+    padding: 15px 18px;
+    border: none;
+    border-radius: 999px;
+    cursor: pointer;
+    box-shadow: 0 8px 20px rgba(128, 0, 32, 0.18);
+    transition: background 0.18s, transform 0.18s, box-shadow 0.18s;
+    margin-top: 6px;
+  }
+  .rdb-submit:hover {
+    background: #5A001F;
+    transform: translateY(-1px);
+    box-shadow: 0 12px 24px rgba(128, 0, 32, 0.22);
+  }
+  .rdb-assurance {
+    margin: 14px 0 0;
+    font-size: 0.86rem;
+    color: #5f5a54;
+    text-align: center;
+  }
+</style>
+
+<div class="rdb-page">
+
+  <!-- Hero confirmation -->
+  <section class="rdb-hero">
+    <div class="rdb-hero__inner">
+      <div class="rdb-hero__tick" aria-hidden="true">
+        <svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg>
+      </div>
+      <h1>Thank you for joining the webinar</h1>
+      <p class="rdb-hero__eyebrow">Tutoring Specialist of the Year</p>
+      <p class="rdb-hero__sub">A confirmation email is on its way with the joining link. Since you mentioned you're considering A-Level tutoring, here are the options we can talk through on a free consultation call.</p>
+    </div>
+  </section>
+
+  <!-- A-Level tutoring options -->
+  <section class="rdb-options">
+    <div class="rdb-options__head">
+      <p class="rdb-options__eyebrow">A-Level tutoring options</p>
+      <h2>Tutoring support across Year 12 and Year 13</h2>
+      <p>Every option below is one-to-one with a tutor matched to the subject, exam board and the student's current level.</p>
+    </div>
+    <div class="rdb-options__grid">
+      <article class="rdb-option">
+        <span class="rdb-option__tag">Year 12 — foundations</span>
+        <h3>Building strong A-Level foundations</h3>
+        <p>For students starting Year 12 who want to build subject knowledge confidently from the beginning. Weekly sessions focused on the first-year content, study skills and exam technique.</p>
+      </article>
+      <article class="rdb-option">
+        <span class="rdb-option__tag">Year 13 — exam push</span>
+        <h3>Targeted Year 13 exam preparation</h3>
+        <p>For students in their final A-Level year who need focused support across content, past papers and exam strategy in the months leading up to summer exams.</p>
+      </article>
+      <article class="rdb-option">
+        <span class="rdb-option__tag">UCAS &amp; personal statement</span>
+        <h3>University application support</h3>
+        <p>Personal statement coaching, subject-specific UCAS guidance and admissions test preparation for students applying to competitive courses and universities.</p>
+      </article>
+    </div>
+  </section>
+
+  <!-- Book a call form -->
+  <section class="rdb-form-section" id="book">
+    <div class="rdb-form-section__inner">
+      <p class="rdb-form-section__eyebrow">Free consultation call</p>
+      <h2>Book a free call</h2>
+      <p class="rdb-form-section__lead">A 15-minute call with Joe or Harry to discuss your child's situation and the right tutoring fit. No obligation.</p>
+
+      <div class="rdb-form-card">
+        <form action="{{ .Site.Params.formspreeEndpoint }}" method="POST" novalidate>
+          <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
+          <input type="hidden" name="_subject" value="A-Level tutoring enquiry — Results Day webinar">
+          <input type="hidden" name="_next" value="{{ "/book-a-call-thank-you/" | absURL }}">
+          <input type="hidden" name="source" value="results-day-webinar-a-level">
+
+          <div class="rdb-form-row">
+            <div class="rdb-field">
+              <label for="rdb-first">First name</label>
+              <input id="rdb-first" name="first_name" type="text" required autocomplete="given-name">
+            </div>
+            <div class="rdb-field">
+              <label for="rdb-last">Last name</label>
+              <input id="rdb-last" name="last_name" type="text" required autocomplete="family-name">
+            </div>
+          </div>
+
+          <div class="rdb-field">
+            <label for="rdb-email">Email</label>
+            <input id="rdb-email" name="email" type="email" required autocomplete="email" placeholder="you@example.com">
+          </div>
+
+          <div class="rdb-field">
+            <label for="rdb-phone">Mobile number</label>
+            <input id="rdb-phone" name="phone" type="tel" required autocomplete="tel" inputmode="tel" placeholder="07XXX XXX XXX">
+          </div>
+
+          <div class="rdb-field">
+            <label for="rdb-year">Year your child is starting in September</label>
+            <select id="rdb-year" name="year_group" required>
+              <option value="">Please select</option>
+              <option value="Year 12 (A-Level)">Year 12 (A-Level)</option>
+              <option value="Year 13 (A-Level)">Year 13 (A-Level)</option>
+              <option value="Not sure yet">Not sure yet</option>
+            </select>
+          </div>
+
+          <div class="rdb-field">
+            <label for="rdb-subjects">Which A-Level subjects?</label>
+            <input id="rdb-subjects" name="subjects" type="text" required placeholder="e.g. A-Level Maths, A-Level Biology">
+          </div>
+
+          <button type="submit" class="rdb-submit">Book my free call</button>
+          <p class="rdb-assurance">Free, no obligation. We respond within one working day.</p>
+        </form>
+      </div>
+    </div>
+  </section>
+
+</div>
+
+{{ end }}

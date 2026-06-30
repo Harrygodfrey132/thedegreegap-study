@@ -680,6 +680,15 @@ collections:
           - { name: "layout", label: "Layout", widget: "hidden", default: "gcse-results-day-webinar-thanks" }
           - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
 
+      - file: "content/gcse-results-day-webinar-book-a-call.md"
+        label: "GCSE Results Day Webinar — Book a Call"
+        name: "gcse-results-day-webinar-book-a-call"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+          - { name: "layout", label: "Layout", widget: "hidden", default: "gcse-results-day-webinar-book-a-call" }
+          - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
+
       # ── Book a call + thank you pages ─────────────────────────────────────
       - file: "content/book-a-call.md"
         label: "Book a Call"

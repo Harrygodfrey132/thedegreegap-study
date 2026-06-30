@@ -859,7 +859,7 @@
   <section class="rd-audiences">
     <div class="rd-audiences__head">
       <h2>What you and your child will take from the session</h2>
-      <p>The live session is designed for parents. The replay and parent handout are intended to support follow-up conversations with your child at home.</p>
+      <p>The live session is designed for parents. The replay supports follow-up conversations with your child at home.</p>
     </div>
     <div class="rd-audiences__grid">
       <div class="rd-audience-card">
@@ -955,7 +955,7 @@
           </div>
 
           <button type="submit" class="rd-register__submit">Save my seat</button>
-          <p class="rd-register__assurance">Free. Can't make it live? We'll email you the replay and the parent handout.</p>
+          <p class="rd-register__assurance">Free. Can't make it live? We'll email you the replay.</p>
         </form>
       </div>
     </div>
@@ -977,7 +977,7 @@
           <span>What if I can't make the live time?</span>
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
         </summary>
-        <p>Register anyway. We send the full replay to everyone who signs up, plus the parent handout so you can catch up at your own pace.</p>
+        <p>Register anyway. We send the full replay to everyone who signs up so you can catch up at your own pace.</p>
       </details>
       <details>
         <summary>
@@ -1078,42 +1078,72 @@
      mode: 'no-cors' because Zoho doesn't return CORS
      headers — we don't need the response, just the post. */
   function submitZohoLead(data) {
-    var z = new FormData();
-    z.append('xnQsjsdp', '5dc3137515188e31d59c662a1d96b89833da680c35625e4975fd813a94f0db32');
-    z.append('xmIwtLD', 'a0055e4f8de7c9fb52b18349c560fcf79ead70151733aabfe583cf30f5bea6dba3dc1cc57cb64cbe01a3f54f6b5d69e5');
-    z.append('actionType', 'TGVhZHM=');
-    z.append('returnURL', 'null');
-    z.append('aG9uZXlwb3Q', '');
+    /* Cross-origin POST to Zoho's WebToLeadForm endpoint, via
+       a hidden form targeting an invisible iframe. This is the
+       exact transport Zoho's snippet was designed for — same
+       Content-Type (application/x-www-form-urlencoded), same
+       request shape, same field semantics — so the lead lands
+       in the CRM the same way it would from their own embed.
+       sendBeacon / fetch no-cors are both quieter but Zoho's
+       endpoint can silently drop them when the Content-Type
+       mismatch isn't multipart-friendly. */
+
+    var iframe = document.getElementById('zoho-target');
+    if (!iframe) {
+      iframe = document.createElement('iframe');
+      iframe.name = 'zoho-target';
+      iframe.id = 'zoho-target';
+      iframe.setAttribute('aria-hidden', 'true');
+      iframe.style.cssText = 'position:absolute;width:0;height:0;border:0;visibility:hidden;left:-9999px;top:-9999px';
+      document.body.appendChild(iframe);
+    }
+
+    var f = document.createElement('form');
+    f.method = 'POST';
+    f.action = 'https://crm.zoho.eu/crm/WebToLeadForm';
+    f.target = 'zoho-target';
+    f.acceptCharset = 'UTF-8';
+    f.style.cssText = 'position:absolute;left:-9999px;top:-9999px;visibility:hidden';
+
+    function add(name, value) {
+      var i = document.createElement('input');
+      i.type = 'hidden';
+      i.name = name;
+      i.value = value;
+      f.appendChild(i);
+    }
+
+    /* Static identifiers — these tie the submission to the
+       specific Zoho lead form configured in the CRM. Rotate
+       both together if Zoho regenerates the form. */
+    add('xnQsjsdp', '5dc3137515188e31d59c662a1d96b89833da680c35625e4975fd813a94f0db32');
+    add('xmIwtLD', 'a0055e4f8de7c9fb52b18349c560fcf79ead70151733aabfe583cf30f5bea6dba3dc1cc57cb64cbe01a3f54f6b5d69e5');
+    add('actionType', 'TGVhZHM=');
+    add('returnURL', 'null');
+    add('aG9uZXlwb3Q', '');
 
     var first = (data.get('first_name') || '').trim();
     var last  = (data.get('last_name')  || '').trim();
     var fullName = (first + ' ' + last).trim() || last || first;
-    z.append('Last Name', fullName);
+    add('Last Name', fullName);
 
     var email = (data.get('email') || '').trim();
-    if (email) z.append('Email', email);
+    if (email) add('Email', email);
 
     var phone = (data.get('phone') || '').trim();
-    if (phone) z.append('Phone', phone);
+    if (phone) add('Phone', phone);
 
-    z.append('LEADCF3', 'GCSE - Year 11');
-    z.append('Lead Source', 'August Webinar');
+    add('LEADCF3', 'GCSE - Year 11');
+    add('Lead Source', 'August Webinar');
 
     var alevelInterest = data.get('interest_a_level') === 'yes';
-    z.append('Lead Status', alevelInterest ? 'Interested In Tutoring' : 'Not Interested In Tutoring');
+    add('Lead Status', alevelInterest ? 'Interested In Tutoring' : 'Not Interested In Tutoring');
 
     var plan = data.get('plan_after_gcse');
-    if (plan === 'A-Levels') {
-      z.append('Country', '2028');
-    }
+    if (plan === 'A-Levels') add('Country', '2028');
 
-    try {
-      fetch('https://crm.zoho.eu/crm/WebToLeadForm', {
-        method: 'POST',
-        body: z,
-        mode: 'no-cors'
-      }).catch(function () {});
-    } catch (err) { /* best-effort, never blocks Formspree */ }
+    document.body.appendChild(f);
+    f.submit();
   }
 
   /* Form submission: Zoho only. The webinar lead lifecycle
@@ -1148,14 +1178,15 @@
 
       if (typeof fbq === 'function') { fbq('track', 'Lead'); }
 
-      /* Small delay so the no-cors fetch has a real chance to
-         leave the browser before navigation. */
+      /* The hidden-iframe POST to Zoho needs a moment to leave
+         the browser before we navigate away. 600ms is a safe
+         margin without feeling laggy to the user. */
       var destination = (alevel && alevel.checked)
-        ? '/book-a-call/?source=results-day-webinar'
+        ? '/gcse-results-day-webinar-book-a-call/'
         : '/gcse-results-day-webinar-thanks/';
       window.setTimeout(function () {
         window.location.href = destination;
-      }, 250);
+      }, 600);
     });
   })();
 </script>
@@ -1175,7 +1206,7 @@
     {
       "@type": "Question",
       "name": "What if I can't make the live time?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Register anyway. We send the full replay to everyone who signs up, plus the parent handout so you can catch up at your own pace." }
+      "acceptedAnswer": { "@type": "Answer", "text": "Register anyway. We send the full replay to everyone who signs up so you can catch up at your own pace." }
     },
     {
       "@type": "Question",
