@@ -324,4 +324,34 @@
 
 </div>
 
+{{/* =================================================================
+     Lead conversion tracking for this page.
+     Fires the site-wide Meta Pixel "Lead" event on:
+       1) Submission of the book-a-call form (the .rdb-form-card form)
+       2) Any click on a WhatsApp link (the floating FAB and the
+          nudge bubble both link to wa.me/... — selector matches both)
+     ================================================================= */}}
+<script>
+  (function () {
+    function fireLead() {
+      if (typeof fbq === 'function') {
+        fbq('track', 'Lead');
+      }
+    }
+    function bind() {
+      var form = document.querySelector('.rdb-form-card form');
+      if (form) form.addEventListener('submit', fireLead);
+      var waLinks = document.querySelectorAll('a[href*="wa.me"], a[href*="whatsapp.com"]');
+      for (var i = 0; i < waLinks.length; i++) {
+        waLinks[i].addEventListener('click', fireLead);
+      }
+    }
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', bind);
+    } else {
+      bind();
+    }
+  })();
+</script>
+
 {{ end }}
