@@ -670,6 +670,7 @@ collections:
           - { name: "webinar_time_display", label: "Display time", widget: "string", hint: "e.g. 7–7:45pm (UK time)" }
           - { name: "form_subject", label: "Form subject (Formspree)", widget: "string" }
           - { name: "form_source", label: "Form source tag", widget: "string" }
+          - { name: "body", label: "Body content (for SEO + internal links)", widget: "markdown", required: false, hint: "Optional. Renders as a 'Further reading' section between the parent/child split and the registration form. Use the link button in the toolbar to add internal links to other pages (e.g. /personal-statement-tutor/ or /locations/birmingham-tutors/)." }
 
       - file: "content/gcse-results-day-webinar-thanks.md"
         label: "GCSE Results Day Webinar — Thank You"

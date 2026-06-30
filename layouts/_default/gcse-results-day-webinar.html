@@ -406,6 +406,52 @@
   }
 
   /* =========================
+     FREE-TEXT BODY (SEO + internal links)
+     ========================= */
+  .rd-content {
+    background: #ffffff;
+    padding: 88px 24px 96px;
+    border-top: 1px solid #ece4d4;
+  }
+  .rd-content__inner {
+    max-width: 720px;
+    margin: 0 auto;
+    font-size: 1.05rem;
+    line-height: 1.75;
+    color: #2d2a26;
+  }
+  .rd-content__inner h2 {
+    font-family: inherit;
+    font-size: clamp(1.8rem, 3.6vw, 2.4rem);
+    font-weight: 700;
+    letter-spacing: -0.022em;
+    line-height: 1.15;
+    color: #1f1b18;
+    margin: 48px 0 18px;
+  }
+  .rd-content__inner > h2:first-child { margin-top: 0; }
+  .rd-content__inner h3 {
+    font-family: inherit;
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: #1f1b18;
+    margin: 36px 0 12px;
+  }
+  .rd-content__inner p { margin: 0 0 18px; }
+  .rd-content__inner a {
+    color: #800020;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+    font-weight: 600;
+  }
+  .rd-content__inner a:hover { color: #5A001F; }
+  .rd-content__inner ul,
+  .rd-content__inner ol { margin: 0 0 18px; padding-left: 24px; }
+  .rd-content__inner li { margin-bottom: 8px; }
+  .rd-content__inner strong { color: #1f1b18; font-weight: 700; }
+
+  /* =========================
      REGISTRATION SECTION
      ========================= */
   .rd-register {
@@ -900,6 +946,18 @@
       </div>
     </div>
   </section>
+
+  {{/* ==================== FREE-TEXT BODY (SEO + internal links) ====================
+       Renders the markdown body from the content file when present.
+       Edited from /admin/ via the markdown widget so the SEO team can
+       add internal links to other pages without touching the layout. */}}
+  {{ if .Content }}
+  <section class="rd-content">
+    <div class="rd-content__inner">
+      {{ .Content }}
+    </div>
+  </section>
+  {{ end }}
 
   <!-- ==================== REGISTRATION ==================== -->
   <section class="rd-register" id="register">
