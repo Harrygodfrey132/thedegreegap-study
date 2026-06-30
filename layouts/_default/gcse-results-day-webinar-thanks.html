@@ -1,0 +1,234 @@
+{{ define "seo" }}
+{{ partial "seo.html" . }}
+<meta name="robots" content="noindex, follow">
+{{ end }}
+
+{{ define "main" }}
+
+{{ $webinarDateDisplay := "Monday 17 August 2026" }}
+{{ $webinarTimeDisplay := "7–7:45pm (UK time)" }}
+{{ with site.GetPage "/gcse-results-day-webinar" }}
+  {{ $webinarDateDisplay = (.Params.webinar_date_display | default $webinarDateDisplay) }}
+  {{ $webinarTimeDisplay = (.Params.webinar_time_display | default $webinarTimeDisplay) }}
+{{ end }}
+
+<style>
+  .rdt-page {
+    font-family: 'Poppins', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    color: #171717;
+    background: #fbf7ef;
+  }
+
+  /* Hero / confirmation band */
+  .rdt-hero {
+    position: relative;
+    background:
+      radial-gradient(1200px 600px at 50% -20%, rgba(245, 165, 36, 0.12), rgba(245, 165, 36, 0) 65%),
+      #fbf7ef;
+    padding: 64px 24px 72px;
+    text-align: center;
+  }
+  .rdt-hero__inner { max-width: 720px; margin: 0 auto; }
+  .rdt-hero__tick {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 64px;
+    height: 64px;
+    background: #800020;
+    color: #fbf7ef;
+    border-radius: 50%;
+    margin: 0 auto 24px;
+    box-shadow: 0 12px 28px rgba(128, 0, 32, 0.20);
+  }
+  .rdt-hero h1 {
+    font-family: inherit;
+    font-size: clamp(2.2rem, 5vw, 3.4rem);
+    font-weight: 700;
+    line-height: 1.08;
+    letter-spacing: -0.025em;
+    color: #1f1b18;
+    margin: 0 auto 18px;
+    max-width: 22ch;
+  }
+  .rdt-hero__sub {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #5f5a54;
+    margin: 0 auto 28px;
+    max-width: 56ch;
+  }
+  .rdt-hero__details {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background: #ffffff;
+    border: 1px solid #ece4d4;
+    padding: 10px 18px;
+    border-radius: 999px;
+    font-size: 0.96rem;
+    font-weight: 600;
+    color: #2d2a26;
+    box-shadow: 0 4px 14px rgba(35, 23, 17, 0.05);
+  }
+  .rdt-hero__details svg { color: #800020; flex: 0 0 auto; }
+  .rdt-hero__details strong { color: #1f1b18; font-weight: 700; }
+
+  /* Reviews band */
+  .rdt-reviews { background: #ffffff; padding: 88px 24px; border-top: 1px solid #ece4d4; border-bottom: 1px solid #ece4d4; }
+  .rdt-reviews__head { text-align: center; max-width: 760px; margin: 0 auto 48px; }
+  .rdt-reviews__eyebrow {
+    display: inline-block;
+    font-size: 0.74rem;
+    font-weight: 700;
+    letter-spacing: 0.22em;
+    color: #800020;
+    text-transform: uppercase;
+    margin: 0 0 14px;
+  }
+  .rdt-reviews__head h2 {
+    font-family: inherit;
+    font-size: clamp(1.8rem, 3.6vw, 2.4rem);
+    font-weight: 700;
+    letter-spacing: -0.022em;
+    line-height: 1.12;
+    color: #1f1b18;
+    margin: 0 0 12px;
+  }
+  .rdt-reviews__head p { font-size: 1.05rem; line-height: 1.55; color: #5f5a54; margin: 0; }
+  .rdt-reviews__grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 22px;
+    max-width: 1080px;
+    margin: 0 auto;
+  }
+  @media (max-width: 980px) { .rdt-reviews__grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 640px) { .rdt-reviews__grid { grid-template-columns: 1fr; } }
+  .rdt-review {
+    background: #fbf7ef;
+    border: 1px solid #ece4d4;
+    border-radius: 14px;
+    padding: 28px 26px 24px;
+    display: flex;
+    flex-direction: column;
+  }
+  .rdt-review__stars {
+    color: #f5a524;
+    font-size: 0.95rem;
+    letter-spacing: 0.06em;
+    margin: 0 0 14px;
+  }
+  .rdt-review__text {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #2d2a26;
+    margin: 0 0 18px;
+    flex: 1;
+  }
+  .rdt-review__footer {
+    font-size: 0.86rem;
+    color: #5f5a54;
+  }
+  .rdt-review__footer strong { color: #1f1b18; font-weight: 700; }
+
+  /* Soft tutoring CTA */
+  .rdt-tutor-cta {
+    background: #fbf7ef;
+    padding: 88px 24px 104px;
+  }
+  .rdt-tutor-cta__inner {
+    max-width: 680px;
+    margin: 0 auto;
+    text-align: center;
+    background: #ffffff;
+    border: 1px solid #ece4d4;
+    border-radius: 18px;
+    padding: 44px 36px;
+    box-shadow: 0 12px 36px rgba(35, 23, 17, 0.08);
+  }
+  .rdt-tutor-cta h2 {
+    font-family: inherit;
+    font-size: clamp(1.6rem, 3.2vw, 2.1rem);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    line-height: 1.18;
+    color: #1f1b18;
+    margin: 0 0 14px;
+  }
+  .rdt-tutor-cta p {
+    font-size: 1.05rem;
+    line-height: 1.6;
+    color: #3a3530;
+    margin: 0 0 26px;
+  }
+  .rdt-tutor-cta a {
+    display: inline-flex;
+    align-items: center;
+    gap: 9px;
+    background: #800020;
+    color: #fbf7ef;
+    font-weight: 700;
+    font-size: 1rem;
+    padding: 14px 28px;
+    border-radius: 999px;
+    text-decoration: none;
+    box-shadow: 0 8px 20px rgba(128, 0, 32, 0.18);
+    transition: background 0.18s, transform 0.18s, box-shadow 0.18s;
+  }
+  .rdt-tutor-cta a:hover {
+    background: #5A001F;
+    transform: translateY(-1px);
+    box-shadow: 0 12px 24px rgba(128, 0, 32, 0.22);
+  }
+</style>
+
+<div class="rdt-page">
+
+  <section class="rdt-hero">
+    <div class="rdt-hero__inner">
+      <div class="rdt-hero__tick" aria-hidden="true">
+        <svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg>
+      </div>
+      <h1>Thank you for signing up to our webinar</h1>
+      <p class="rdt-hero__sub">A confirmation email is on its way with the joining link. If you can't make the live session, we'll automatically send you the replay and the parent handout the following morning.</p>
+      <span class="rdt-hero__details">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
+        <span><strong>{{ $webinarDateDisplay }}</strong>, {{ $webinarTimeDisplay }}</span>
+      </span>
+    </div>
+  </section>
+
+  {{/* Show a curated 6 reviews — fewer than the full list, more
+       than two, so the page feels substantial without becoming a wall. */}}
+  <section class="rdt-reviews">
+    <div class="rdt-reviews__head">
+      <p class="rdt-reviews__eyebrow">While you wait</p>
+      <h2>What other parents say about working with us</h2>
+      <p>Rated 5.0 on Google from over 100 verified reviews.</p>
+    </div>
+    <div class="rdt-reviews__grid">
+      {{ range first 6 site.Data.reviews }}
+      <article class="rdt-review">
+        <div class="rdt-review__stars" aria-label="5 out of 5">★★★★★</div>
+        <p class="rdt-review__text">"{{ .text }}"</p>
+        <p class="rdt-review__footer"><strong>{{ .name }}</strong>, {{ .role }}</p>
+      </article>
+      {{ end }}
+    </div>
+  </section>
+
+  <section class="rdt-tutor-cta">
+    <div class="rdt-tutor-cta__inner">
+      <h2>Considering tutoring support for your child?</h2>
+      <p>If you'd like to discuss tutoring with one of our team, a free 1-to-1 consultation call is the best place to start. There's no obligation, and we'll only suggest tutoring if we think it's the right fit for your child's situation.</p>
+      <a href="/book-a-call/?source=results-day-webinar-thanks">
+        Book a free consultation call
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+      </a>
+    </div>
+  </section>
+
+</div>
+
+{{ end }}

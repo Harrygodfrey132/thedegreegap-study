@@ -1,0 +1,1233 @@
+{{ define "seo" }}
+{{ partial "seo.html" . }}
+{{ end }}
+
+{{ define "main" }}
+
+<style>
+  /* =================================================
+     GCSE RESULTS DAY WEBINAR
+     Structure mirrors a centered event landing page:
+     hero (no sidebar) → hosts → topic cards → audience
+     split → register section → FAQ → final CTA.
+     ================================================= */
+  .rd-page {
+    font-family: 'Poppins', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    color: #171717;
+    background: #fbf7ef;
+  }
+
+  /* =========================
+     HERO — calm, warm, inviting (softened from aggressive)
+     ========================= */
+  .rd-hero {
+    position: relative;
+    overflow-x: hidden;
+    background:
+      radial-gradient(1200px 600px at 50% -20%, rgba(245, 165, 36, 0.12), rgba(245, 165, 36, 0) 65%),
+      radial-gradient(900px 500px at 80% 60%, rgba(128, 0, 32, 0.04), rgba(128, 0, 32, 0) 65%),
+      #fbf7ef;
+    padding: 40px 16px 64px;
+    text-align: center;
+  }
+  @media (min-width: 760px) {
+    .rd-hero { padding: 72px 24px 96px; }
+  }
+  .rd-hero__inner {
+    max-width: 880px;
+    margin: 0 auto;
+  }
+
+  .rd-hero h1 {
+    font-family: inherit;
+    font-size: 2.55rem; /* ~40.8px — biggest size that comfortably fits "they knew before" on one line at 390px */
+    font-weight: 700;
+    line-height: 1.06;
+    letter-spacing: -0.025em;
+    color: #1f1b18;
+    margin: 0 auto 22px;
+    overflow-wrap: break-word;
+  }
+  @media (min-width: 480px) {
+    .rd-hero h1 { font-size: 3.1rem; line-height: 1.05; }
+  }
+  @media (min-width: 760px) {
+    .rd-hero h1 {
+      font-size: clamp(3.4rem, 6vw, 5rem);
+      max-width: 20ch;
+      text-wrap: balance;
+    }
+  }
+  .rd-hero h1 .rd-accent {
+    background: linear-gradient(180deg, transparent 62%, #f5cf9b 62%);
+    padding: 0 6px;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+  }
+  .rd-hero__lead {
+    font-size: clamp(1.1rem, 1.3vw, 1.25rem);
+    line-height: 1.6;
+    color: #5f5a54;
+    max-width: 580px;
+    margin: 0 auto 40px;
+    font-weight: 400;
+  }
+  .rd-hero__cta-row {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 14px;
+    margin-bottom: 20px;
+  }
+  .rd-cta-primary {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 9px;
+    background: #800020;
+    color: #fbf7ef;
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: 700;
+    letter-spacing: 0.005em;
+    padding: 16px 28px;
+    border: none;
+    border-radius: 999px;
+    cursor: pointer;
+    text-decoration: none;
+    box-shadow: 0 8px 22px rgba(128, 0, 32, 0.18);
+    transition: transform 0.18s ease, box-shadow 0.18s ease, background 0.18s ease;
+  }
+  .rd-cta-primary:hover {
+    background: #5A001F;
+    transform: translateY(-1px);
+    box-shadow: 0 12px 26px rgba(128, 0, 32, 0.22);
+  }
+  .rd-cta-primary svg { transition: transform 0.18s ease; }
+  .rd-cta-primary:hover svg { transform: translateX(2px); }
+  .rd-hero__time {
+    font-size: 0.94rem;
+    color: #5f5a54;
+    margin: 4px 0 0;
+  }
+  .rd-hero__time strong { color: #1f1b18; font-weight: 600; }
+
+  .rd-hero__trust {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+    max-width: 720px;
+    margin: 52px auto 0;
+  }
+  @media (max-width: 640px) {
+    .rd-hero__trust { grid-template-columns: 1fr; gap: 10px; }
+  }
+  .rd-hero__trust-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background: rgba(255, 255, 255, 0.7);
+    border: 1px solid #ece4d4;
+    border-radius: 12px;
+    padding: 14px 16px;
+    text-align: left;
+  }
+  .rd-hero__trust-stars {
+    color: #f5a524;
+    letter-spacing: 0.04em;
+    font-size: 1.05rem;
+    line-height: 1;
+    flex: 0 0 auto;
+  }
+  .rd-hero__trust-icon {
+    display: inline-flex;
+    color: #800020;
+    flex: 0 0 auto;
+  }
+  .rd-hero__trust-text {
+    font-size: 0.85rem;
+    line-height: 1.35;
+    color: #5f5a54;
+  }
+  .rd-hero__trust-text strong { color: #1f1b18; font-weight: 700; }
+  .rd-hero__trust-text small { font-size: 0.78rem; color: #6b6660; }
+
+  /* =========================
+     HOSTS (award photo, centered)
+     ========================= */
+  .rd-hosts {
+    background: #ffffff;
+    padding: 104px 24px;
+  }
+  .rd-hosts__inner {
+    max-width: 1080px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: minmax(0, 480px) 1fr;
+    gap: 64px;
+    align-items: center;
+  }
+  @media (max-width: 880px) {
+    .rd-hosts__inner { grid-template-columns: 1fr; gap: 36px; }
+    .rd-hosts { padding: 64px 24px; }
+  }
+  .rd-hosts__photo {
+    position: relative;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 12px 36px rgba(35, 23, 17, 0.10);
+  }
+  .rd-hosts__photo img { width: 100%; height: auto; display: block; }
+  .rd-hosts__photo-tag {
+    position: absolute;
+    left: 16px;
+    bottom: 16px;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: rgba(255, 255, 255, 0.96);
+    backdrop-filter: blur(4px);
+    border: 1px solid #ece4d4;
+    color: #800020;
+    font-size: 0.82rem;
+    font-weight: 700;
+    padding: 9px 14px;
+    border-radius: 999px;
+    box-shadow: 0 6px 16px rgba(35, 23, 17, 0.10);
+  }
+  .rd-hosts__eyebrow {
+    display: inline-block;
+    font-size: 0.78rem;
+    font-weight: 800;
+    letter-spacing: 0.20em;
+    color: #800020;
+    text-transform: uppercase;
+    margin: 0 0 14px;
+  }
+  .rd-hosts h2 {
+    font-family: inherit;
+    font-size: clamp(1.8rem, 3.6vw, 2.4rem);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+    color: #1f1b18;
+    margin: 0 0 22px;
+  }
+  .rd-hosts__copy p {
+    font-size: 1.05rem;
+    line-height: 1.7;
+    color: #3a3530;
+    margin: 0 0 18px;
+  }
+  .rd-hosts__copy a.rd-inline-cta {
+    display: inline-block;
+    margin-top: 8px;
+    color: #800020;
+    font-weight: 800;
+    text-decoration: none;
+    border-bottom: 2px solid #800020;
+    padding-bottom: 2px;
+  }
+  .rd-hosts__copy a.rd-inline-cta:hover { color: #5A001F; border-color: #5A001F; }
+
+  /* =========================
+     TOPIC CARDS
+     ========================= */
+  .rd-topics { padding: 104px 24px; background: #fbf7ef; }
+  .rd-topics__head {
+    text-align: center;
+    max-width: 720px;
+    margin: 0 auto 60px;
+  }
+  .rd-topics__eyebrow {
+    display: inline-block;
+    font-size: 0.74rem;
+    font-weight: 700;
+    letter-spacing: 0.22em;
+    color: #800020;
+    text-transform: uppercase;
+    margin: 0 0 18px;
+  }
+  .rd-topics__head h2 {
+    font-family: inherit;
+    font-size: clamp(1.9rem, 3.8vw, 2.6rem);
+    font-weight: 700;
+    letter-spacing: -0.022em;
+    line-height: 1.12;
+    color: #1f1b18;
+    margin: 0 0 16px;
+  }
+  .rd-topics__head p {
+    font-size: 1.1rem;
+    line-height: 1.55;
+    color: #5f5a54;
+    margin: 0;
+  }
+  .rd-topics__grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  @media (max-width: 980px) { .rd-topics__grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 600px) { .rd-topics__grid { grid-template-columns: 1fr; } }
+  .rd-topic-card {
+    background: #ffffff;
+    border: 1px solid #ece4d4;
+    border-radius: 14px;
+    padding: 30px 28px 28px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  .rd-topic-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 14px 30px rgba(35, 23, 17, 0.06);
+  }
+  .rd-topic-card__num {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 38px;
+    height: 38px;
+    background: #fbf2ee;
+    border: 1px solid #f1d9d9;
+    color: #800020;
+    border-radius: 50%;
+    font-size: 1rem;
+    font-weight: 700;
+    margin: 0 0 18px;
+  }
+  .rd-topic-card h3 {
+    font-family: inherit;
+    font-size: 1.18rem;
+    font-weight: 700;
+    color: #1f1b18;
+    letter-spacing: -0.01em;
+    line-height: 1.3;
+    margin: 0 0 12px;
+  }
+  .rd-topic-card p {
+    font-size: 1rem;
+    line-height: 1.65;
+    color: #5f5a54;
+    margin: 0;
+  }
+
+  /* =========================
+     AUDIENCE SPLIT
+     ========================= */
+  .rd-audiences { padding: 104px 24px; background: #ffffff; }
+  .rd-audiences__head {
+    text-align: center;
+    max-width: 720px;
+    margin: 0 auto 56px;
+  }
+  .rd-audiences__head h2 {
+    font-family: inherit;
+    font-size: clamp(1.9rem, 3.8vw, 2.6rem);
+    font-weight: 700;
+    letter-spacing: -0.022em;
+    line-height: 1.12;
+    color: #1f1b18;
+    margin: 0 0 14px;
+  }
+  .rd-audiences__head p {
+    font-size: 1.1rem;
+    line-height: 1.55;
+    color: #5f5a54;
+    margin: 0;
+  }
+  .rd-audiences__grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+    max-width: 1040px;
+    margin: 0 auto;
+  }
+  @media (max-width: 760px) { .rd-audiences__grid { grid-template-columns: 1fr; } }
+  .rd-audience-card {
+    background: #fbf7ef;
+    border: 1px solid #ece4d4;
+    border-radius: 16px;
+    padding: 36px 32px 32px;
+  }
+  .rd-audience-card__tag {
+    display: inline-block;
+    font-size: 0.74rem;
+    font-weight: 700;
+    letter-spacing: 0.18em;
+    color: #800020;
+    text-transform: uppercase;
+    margin: 0 0 16px;
+  }
+  .rd-audience-card h3 {
+    font-family: inherit;
+    font-size: 1.35rem;
+    font-weight: 700;
+    color: #1f1b18;
+    letter-spacing: -0.015em;
+    line-height: 1.25;
+    margin: 0 0 22px;
+  }
+  .rd-audience-card ul { list-style: none; margin: 0; padding: 0; }
+  .rd-audience-card li {
+    position: relative;
+    padding-left: 32px;
+    margin-bottom: 14px;
+    font-size: 1.02rem;
+    line-height: 1.55;
+    color: #3a3530;
+  }
+  .rd-audience-card li:last-child { margin-bottom: 0; }
+  .rd-audience-card li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 6px;
+    width: 18px;
+    height: 18px;
+    background-color: #800020;
+    mask: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='3.4' stroke-linecap='round' stroke-linejoin='round'><polyline points='20 6 9 17 4 12'/></svg>") center/contain no-repeat;
+    -webkit-mask: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='3.4' stroke-linecap='round' stroke-linejoin='round'><polyline points='20 6 9 17 4 12'/></svg>") center/contain no-repeat;
+  }
+
+  /* =========================
+     REGISTRATION SECTION
+     ========================= */
+  .rd-register {
+    background:
+      radial-gradient(900px 500px at 50% -10%, rgba(245, 165, 36, 0.10), rgba(245, 165, 36, 0) 60%),
+      #fbf7ef;
+    padding: 104px 24px;
+  }
+  .rd-register__inner {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .rd-register__eyebrow {
+    display: inline-block;
+    font-size: 0.74rem;
+    font-weight: 700;
+    letter-spacing: 0.22em;
+    color: #800020;
+    text-transform: uppercase;
+    margin: 0 0 18px;
+  }
+  .rd-register h2 {
+    font-family: inherit;
+    font-size: clamp(1.9rem, 3.8vw, 2.6rem);
+    font-weight: 700;
+    letter-spacing: -0.022em;
+    line-height: 1.12;
+    color: #1f1b18;
+    margin: 0 0 14px;
+  }
+  .rd-register__lead {
+    font-size: 1.1rem;
+    line-height: 1.55;
+    color: #5f5a54;
+    margin: 0 0 36px;
+  }
+  .rd-register__card {
+    background: #ffffff;
+    border: 1px solid #ece4d4;
+    border-radius: 16px;
+    padding: 36px 32px 28px;
+    box-shadow: 0 12px 36px rgba(35, 23, 17, 0.08);
+    text-align: left;
+  }
+  .rd-register__form-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+  }
+  @media (max-width: 520px) {
+    .rd-register__form-row { grid-template-columns: 1fr; }
+  }
+  .rd-register__field { margin-bottom: 14px; }
+  .rd-register__field label {
+    display: block;
+    font-size: 0.82rem;
+    font-weight: 700;
+    color: #171717;
+    margin: 0 0 6px;
+  }
+  .rd-register__field input {
+    width: 100%;
+    box-sizing: border-box;
+    font-family: inherit;
+    font-size: 1rem;
+    color: #171717;
+    background: #ffffff;
+    border: 1.5px solid #e6ded4;
+    border-radius: 8px;
+    padding: 13px 14px;
+    line-height: 1.4;
+    transition: border-color 0.2s, box-shadow 0.2s;
+  }
+  .rd-register__field input:focus {
+    outline: none;
+    border-color: #800020;
+    box-shadow: 0 0 0 4px rgba(128, 0, 32, 0.10);
+  }
+  /* Radio group — "What's your child's plan after GCSEs?" */
+  .rd-radio-group {
+    border: none;
+    padding: 0;
+    margin: 22px 0 24px;
+  }
+  .rd-radio-group legend {
+    font-size: 0.92rem;
+    font-weight: 700;
+    color: #171717;
+    margin: 0 0 12px;
+    padding: 0;
+  }
+  .rd-radio-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+  }
+  @media (max-width: 520px) {
+    .rd-radio-grid { grid-template-columns: 1fr; }
+  }
+  .rd-radio {
+    display: block;
+    cursor: pointer;
+    position: relative;
+  }
+  .rd-radio input {
+    position: absolute;
+    opacity: 0;
+    pointer-events: none;
+  }
+  .rd-radio__visual {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    background: #ffffff;
+    border: 1.5px solid #e6ded4;
+    border-radius: 10px;
+    padding: 14px 12px;
+    font-size: 0.96rem;
+    font-weight: 700;
+    color: #2d2a26;
+    transition: background 0.15s, border-color 0.15s, color 0.15s, box-shadow 0.15s, transform 0.15s;
+  }
+  .rd-radio__visual svg { color: #800020; transition: color 0.15s; }
+  .rd-radio:hover .rd-radio__visual {
+    border-color: #c5bcaf;
+  }
+  .rd-radio input:checked + .rd-radio__visual {
+    background: #800020;
+    border-color: #800020;
+    color: #fbf7ef;
+    box-shadow: 0 10px 20px rgba(128, 0, 32, 0.22);
+    transform: translateY(-1px);
+  }
+  .rd-radio input:checked + .rd-radio__visual svg { color: #fbf7ef; }
+  .rd-radio input:focus-visible + .rd-radio__visual {
+    outline: 3px solid rgba(128, 0, 32, 0.22);
+    outline-offset: 2px;
+  }
+
+  /* Conditional follow-up block — visually integrated with the
+     form so it doesn't read as a "loose box stuck on top of the
+     submit button". */
+  .rd-conditional {
+    margin: 14px 0 24px;
+    padding: 0;
+    animation: rd-fade-in 0.28s ease;
+  }
+  .rd-conditional .rd-checkbox { margin-bottom: 0; }
+  @keyframes rd-fade-in {
+    from { opacity: 0; transform: translateY(-4px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+  .rd-conditional .rd-checkbox { margin: 0; }
+
+  .rd-checkbox {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    margin: 0 0 24px;
+    padding: 14px 16px;
+    background: #fbf7ef;
+    border-radius: 8px;
+    cursor: pointer;
+    user-select: none;
+  }
+  .rd-checkbox input { position: absolute; opacity: 0; pointer-events: none; }
+  .rd-checkbox__box {
+    flex: 0 0 auto;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    border: 1.5px solid #c5bcaf;
+    border-radius: 6px;
+    background: #ffffff;
+    color: transparent;
+    transition: background 0.15s, border-color 0.15s, color 0.15s;
+    margin-top: 1px;
+  }
+  .rd-checkbox input:checked + .rd-checkbox__box {
+    background: #800020;
+    border-color: #800020;
+    color: #fbf7ef;
+  }
+  .rd-checkbox__label {
+    font-size: 0.96rem;
+    line-height: 1.45;
+    color: #2d2a26;
+    font-weight: 500;
+  }
+  .rd-register__submit {
+    width: 100%;
+    background: #800020;
+    color: #fbf7ef;
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: 700;
+    padding: 15px 18px;
+    border: none;
+    border-radius: 999px;
+    cursor: pointer;
+    box-shadow: 0 8px 20px rgba(128, 0, 32, 0.18);
+    transition: background 0.18s, transform 0.18s, box-shadow 0.18s;
+  }
+  .rd-register__submit:hover {
+    background: #5A001F;
+    transform: translateY(-1px);
+    box-shadow: 0 12px 24px rgba(128, 0, 32, 0.22);
+  }
+  .rd-register__assurance {
+    margin: 14px 0 0;
+    font-size: 0.86rem;
+    color: #5f5a54;
+    text-align: center;
+  }
+
+  .rd-thanks {
+    display: none;
+    background: #fbf7ef;
+    border: 1px solid #ece4d4;
+    border-radius: 16px;
+    padding: 36px 28px;
+    text-align: center;
+    margin-top: 24px;
+  }
+  .rd-thanks.is-shown { display: block; }
+  .rd-thanks__icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 56px;
+    height: 56px;
+    background: #800020;
+    color: #fbf7ef;
+    border-radius: 50%;
+    margin: 0 auto 16px;
+  }
+  .rd-thanks h3 {
+    font-family: inherit;
+    font-size: 1.5rem;
+    font-weight: 800;
+    color: #171717;
+    margin: 0 0 10px;
+  }
+  .rd-thanks p { font-size: 1rem; color: #3a3530; line-height: 1.5; margin: 0; }
+  .rd-thanks__cta {
+    display: none;
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid #ece4d4;
+  }
+  .rd-thanks__cta.is-shown { display: block; }
+  .rd-thanks__cta a {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 10px;
+    background: #800020;
+    color: #fbf7ef;
+    font-weight: 800;
+    padding: 12px 22px;
+    border-radius: 999px;
+    text-decoration: none;
+  }
+  .rd-thanks__cta a:hover { background: #5A001F; }
+
+  /* =========================
+     FAQ
+     ========================= */
+  .rd-faq { padding: 104px 24px; background: #ffffff; }
+  .rd-faq__inner { max-width: 720px; margin: 0 auto; }
+  .rd-faq h2 {
+    font-family: inherit;
+    font-size: clamp(1.8rem, 3.6vw, 2.4rem);
+    font-weight: 700;
+    letter-spacing: -0.022em;
+    color: #1f1b18;
+    text-align: center;
+    margin: 0 0 44px;
+  }
+  .rd-faq details {
+    background: #fbf7ef;
+    border: 1px solid #ece4d4;
+    border-radius: 10px;
+    padding: 20px 24px;
+    margin-bottom: 10px;
+  }
+  .rd-faq summary {
+    cursor: pointer;
+    font-size: 1.04rem;
+    font-weight: 600;
+    color: #1f1b18;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+  }
+  .rd-faq summary::-webkit-details-marker { display: none; }
+  .rd-faq summary svg {
+    color: #800020;
+    flex: 0 0 auto;
+    transition: transform 0.18s ease;
+  }
+  .rd-faq details[open] summary svg { transform: rotate(90deg); }
+  .rd-faq details p {
+    margin: 14px 0 0;
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #3a3530;
+  }
+
+  /* =========================
+     FINAL CTA
+     ========================= */
+  .rd-final {
+    background: #fbf7ef;
+    border-top: 1px solid #ece4d4;
+    padding: 88px 24px 96px;
+    text-align: center;
+  }
+  .rd-final h2 {
+    font-family: inherit;
+    font-size: clamp(1.8rem, 3.6vw, 2.4rem);
+    font-weight: 700;
+    letter-spacing: -0.022em;
+    color: #1f1b18;
+    margin: 0 0 14px;
+  }
+  .rd-final p { color: #5f5a54; font-size: 1.02rem; margin: 0 0 32px; }
+  .rd-final a {
+    display: inline-flex;
+    align-items: center;
+    gap: 9px;
+    background: #800020;
+    color: #fbf7ef;
+    font-weight: 700;
+    font-size: 1rem;
+    padding: 16px 30px;
+    border-radius: 999px;
+    text-decoration: none;
+    box-shadow: 0 8px 22px rgba(128, 0, 32, 0.18);
+    transition: transform 0.18s, background 0.18s, box-shadow 0.18s;
+  }
+  .rd-final a:hover {
+    background: #5A001F;
+    transform: translateY(-1px);
+    box-shadow: 0 12px 26px rgba(128, 0, 32, 0.22);
+  }
+</style>
+
+{{ $webinarDate := .Params.webinar_date }}
+{{ $webinarEndDate := .Params.webinar_end_date }}
+{{ $webinarDateDisplay := .Params.webinar_date_display | default "TBC" }}
+{{ $webinarTimeDisplay := .Params.webinar_time_display | default "TBC" }}
+{{ $formSubject := .Params.form_subject | default "GCSE Results Day Webinar — registration" }}
+{{ $formSource := .Params.form_source | default "gcse-results-day-webinar" }}
+
+<div class="rd-page">
+
+  <!-- ==================== HERO ==================== -->
+  <section class="rd-hero">
+    <div class="rd-hero__inner">
+      <h1>
+        What every parent wishes they knew before
+        <span class="rd-accent">GCSE results day</span>
+      </h1>
+
+      <p class="rd-hero__lead">Joe and Harry, co-founders of The Degree Gap, take you through the practical steps for results day: what to expect, how to read the results in context, and how to support your child through any outcome.</p>
+
+      <div class="rd-hero__cta-row">
+        <a href="#register" class="rd-cta-primary">
+          Register for your free seat
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+        </a>
+      </div>
+      <p class="rd-hero__time"><strong>{{ $webinarDateDisplay }}</strong>, {{ $webinarTimeDisplay }}. 45 minutes, live with replay.</p>
+
+      <div class="rd-hero__trust">
+        <div class="rd-hero__trust-item">
+          <span class="rd-hero__trust-stars" aria-hidden="true">★★★★★</span>
+          <span class="rd-hero__trust-text"><strong>5.0</strong> on Google<br><small>100+ verified reviews</small></span>
+        </div>
+        <div class="rd-hero__trust-item">
+          <span class="rd-hero__trust-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+          </span>
+          <span class="rd-hero__trust-text"><strong>Featured in</strong><br><small>Forbes &amp; The Independent</small></span>
+        </div>
+        <div class="rd-hero__trust-item">
+          <span class="rd-hero__trust-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="6"/><path d="M15.477 12.89 17 22l-5-3-5 3 1.523-9.11"/></svg>
+          </span>
+          <span class="rd-hero__trust-text"><strong>Specialists of the Year</strong><br><small>2025 &amp; 2026</small></span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== HOSTS ==================== -->
+  <section class="rd-hosts">
+    <div class="rd-hosts__inner">
+      <div class="rd-hosts__photo">
+        {{ partial "responsive-image.html" (dict "src" "/images/founders-award.jpg" "alt" "Joe and Harry, co-founders of The Degree Gap, holding the Prestige Award for GCSE Tutoring Specialists of the Year" "loading" "lazy" "fallbackWidth" 960 "widths" (slice 480 720 1080) "sizes" "(min-width: 901px) 480px, 100vw" "quality" 80) }}
+        <span class="rd-hosts__photo-tag">
+          <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="8" r="6"/><path d="M15.477 12.89 17 22l-5-3-5 3 1.523-9.11"/></svg>
+          GCSE Specialists of the Year, 2025 &amp; 2026
+        </span>
+      </div>
+      <div class="rd-hosts__copy">
+        <p class="rd-hosts__eyebrow">Your hosts</p>
+        <h2>Joe &amp; Harry, The Degree Gap</h2>
+        <p>Joe and Harry have supported hundreds of families through GCSE results day. Their experience spans grade reviews, post-results decisions, and planning for A-Levels, BTECs and T-Levels across a wide range of student outcomes.</p>
+        <p>This session brings together the practical information and conversation strategies parents most often ask about in the days before results day. The Degree Gap has been featured in <strong>Forbes</strong> and <strong>The Independent</strong> for its work supporting GCSE and A-Level families.</p>
+        <a href="#register" class="rd-inline-cta">Save your seat with Joe &amp; Harry &rarr;</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== TOPIC CARDS ==================== -->
+  <section class="rd-topics">
+    <div class="rd-topics__head">
+      <p class="rd-topics__eyebrow">On this topic</p>
+      <h2>A practical walkthrough of the day, end to end</h2>
+      <p>Six topics, covered in detail during the live session.</p>
+    </div>
+    <div class="rd-topics__grid">
+      <div class="rd-topic-card">
+        <span class="rd-topic-card__num">1</span>
+        <h3>The logistics of the day itself</h3>
+        <p>Collection times, how schools release results, and why in-person collection is usually recommended.</p>
+      </div>
+      <div class="rd-topic-card">
+        <span class="rd-topic-card__num">2</span>
+        <h3>The 9-1 grades, properly explained</h3>
+        <p>What each grade represents, how to interpret it in context, and why comparisons to the old A*-G system can be misleading.</p>
+      </div>
+      <div class="rd-topic-card">
+        <span class="rd-topic-card__num">3</span>
+        <h3>When results are below expectations</h3>
+        <p>A clear explanation of the remarks process, what schools can and can't influence, and how to weigh the costs and benefits of a resit.</p>
+      </div>
+      <div class="rd-topic-card">
+        <span class="rd-topic-card__num">4</span>
+        <h3>A-Levels, BTECs, T-Levels</h3>
+        <p>The strengths of each route, and how to match your child's learning style and goals to the right post-16 pathway.</p>
+      </div>
+      <div class="rd-topic-card">
+        <span class="rd-topic-card__num">5</span>
+        <h3>The post-results conversation</h3>
+        <p>Practical guidance for the first conversation after results: what to say, what to avoid, and how to focus the discussion on the next stage.</p>
+      </div>
+      <div class="rd-topic-card">
+        <span class="rd-topic-card__num">6</span>
+        <h3>Live Q&amp;A</h3>
+        <p>An open session at the end of the webinar for your specific questions on remarks, sixth-form applications, resits or any other concerns about your child's results.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== AUDIENCE SPLIT ==================== -->
+  <section class="rd-audiences">
+    <div class="rd-audiences__head">
+      <h2>What you and your child will take from the session</h2>
+      <p>The live session is designed for parents. The replay and parent handout are intended to support follow-up conversations with your child at home.</p>
+    </div>
+    <div class="rd-audiences__grid">
+      <div class="rd-audience-card">
+        <span class="rd-audience-card__tag">For parents</span>
+        <h3>Prepared, informed, and ready to support</h3>
+        <ul>
+          <li>A clear overview of how results day runs from start to finish.</li>
+          <li>An understanding of the remarks process and when a resit is the right decision.</li>
+          <li>A practical framework for the post-results conversation with your child.</li>
+          <li>Confidence to guide whichever post-16 pathway comes next.</li>
+        </ul>
+      </div>
+      <div class="rd-audience-card">
+        <span class="rd-audience-card__tag">For your child</span>
+        <h3>A supportive, informed home environment</h3>
+        <ul>
+          <li>A parent who understands the result in context, not only the grade.</li>
+          <li>Time to process the result before any next-step decisions are made.</li>
+          <li>Clear information about A-Levels, BTECs and T-Levels presented without ranking.</li>
+          <li>A first conversation focused on the next stage rather than the grade itself.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== REGISTRATION ==================== -->
+  <section class="rd-register" id="register">
+    <div class="rd-register__inner">
+      <p class="rd-register__eyebrow">Free registration</p>
+      <h2>Save your seat</h2>
+      <p class="rd-register__lead">{{ $webinarDateDisplay }}, {{ $webinarTimeDisplay }}. 45 minutes. Live with replay.</p>
+
+      <div class="rd-register__card">
+        <form action="#" method="POST" novalidate data-pg-form>
+          <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
+
+          <div class="rd-register__form-row">
+            <div class="rd-register__field">
+              <label for="rd-first">First name</label>
+              <input id="rd-first" name="first_name" type="text" required autocomplete="given-name">
+            </div>
+            <div class="rd-register__field">
+              <label for="rd-last">Last name</label>
+              <input id="rd-last" name="last_name" type="text" required autocomplete="family-name">
+            </div>
+          </div>
+
+          <div class="rd-register__field">
+            <label for="rd-email">Email</label>
+            <input id="rd-email" name="email" type="email" required autocomplete="email" placeholder="you@example.com">
+          </div>
+
+          <div class="rd-register__field">
+            <label for="rd-phone">Mobile number <span style="color:#5f5a54;font-weight:500">(optional)</span></label>
+            <input id="rd-phone" name="phone" type="tel" autocomplete="tel" inputmode="tel" placeholder="07XXX XXX XXX">
+          </div>
+
+          <fieldset class="rd-radio-group">
+            <legend>What's your child's plan after GCSEs?</legend>
+            <div class="rd-radio-grid">
+              <label class="rd-radio">
+                <input type="radio" name="plan_after_gcse" value="Work" required>
+                <span class="rd-radio__visual">
+                  <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 7H4a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2zM16 7V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2"/></svg>
+                  Work
+                </span>
+              </label>
+              <label class="rd-radio">
+                <input type="radio" name="plan_after_gcse" value="College" required>
+                <span class="rd-radio__visual">
+                  <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg>
+                  College
+                </span>
+              </label>
+              <label class="rd-radio">
+                <input type="radio" name="plan_after_gcse" value="A-Levels" data-rd-alevel-trigger required>
+                <span class="rd-radio__visual">
+                  <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+                  A-Levels
+                </span>
+              </label>
+            </div>
+          </fieldset>
+
+          <div class="rd-conditional" data-rd-alevel-condition hidden>
+            <label class="rd-checkbox" for="rd-alevel">
+              <input id="rd-alevel" type="checkbox" name="interest_a_level" value="yes" data-rd-alevel>
+              <span class="rd-checkbox__box" aria-hidden="true">
+                <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+              </span>
+              <span class="rd-checkbox__label">Would you be interested in A-Level tutoring in Year 12 or 13?</span>
+            </label>
+          </div>
+
+          <button type="submit" class="rd-register__submit">Save my seat</button>
+          <p class="rd-register__assurance">Free. Can't make it live? We'll email you the replay and the parent handout.</p>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== FAQ ==================== -->
+  <section class="rd-faq">
+    <div class="rd-faq__inner">
+      <h2>Frequently asked</h2>
+      <details>
+        <summary>
+          <span>How do I watch?</span>
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
+        </summary>
+        <p>We'll email you the live link 24 hours and 1 hour before the webinar. You can join from any device. No app, no sign-up needed.</p>
+      </details>
+      <details>
+        <summary>
+          <span>What if I can't make the live time?</span>
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
+        </summary>
+        <p>Register anyway. We send the full replay to everyone who signs up, plus the parent handout so you can catch up at your own pace.</p>
+      </details>
+      <details>
+        <summary>
+          <span>Should I bring my child to the session?</span>
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
+        </summary>
+        <p>The session is designed for parents. Many parents choose to watch the replay with their child afterwards, which is the order we'd recommend for the most productive follow-up conversation.</p>
+      </details>
+      <details>
+        <summary>
+          <span>Is it really free?</span>
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
+        </summary>
+        <p>Yes. The session is free to attend and contains no sales content. We run it annually as a free resource for parents of GCSE students.</p>
+      </details>
+      <details>
+        <summary>
+          <span>What about A-Level results day?</span>
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
+        </summary>
+        <p>If you also have an A-Level student, much of the framework carries across, especially the post-results conversation and the route-mapping. The university and clearing details are A-Level specific and we cover those in a separate session closer to the time.</p>
+      </details>
+      <details>
+        <summary>
+          <span>Got another question?</span>
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
+        </summary>
+        <p>Email <a href="mailto:admin@thedegreegap.com">admin@thedegreegap.com</a> and we'll respond within one working day.</p>
+      </details>
+    </div>
+  </section>
+
+  <!-- ==================== FINAL CTA ==================== -->
+  <section class="rd-final">
+    <h2>Register for the GCSE Results Day webinar</h2>
+    <p>{{ $webinarDateDisplay }} &middot; {{ $webinarTimeDisplay }} &middot; free</p>
+    <a href="#register">
+      Save your seat
+      <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+    </a>
+  </section>
+
+</div>
+
+<script>
+  /* Progressive disclosure: show the A-Level Year 12/13 question
+     only when the A-Levels plan radio is picked. Hide and uncheck
+     it if the user switches back to Work or College. */
+  (function () {
+    var radios = document.querySelectorAll('input[name="plan_after_gcse"]');
+    var condition = document.querySelector('[data-rd-alevel-condition]');
+    var alevelInterest = document.querySelector('#rd-alevel');
+    if (!radios.length || !condition) return;
+    function update() {
+      var picked = document.querySelector('input[name="plan_after_gcse"]:checked');
+      var isAlevels = picked && picked.value === 'A-Levels';
+      if (isAlevels) {
+        condition.removeAttribute('hidden');
+      } else {
+        condition.setAttribute('hidden', '');
+        if (alevelInterest) alevelInterest.checked = false;
+      }
+    }
+    radios.forEach(function (r) { r.addEventListener('change', update); });
+    update();
+  })();
+
+  /* UK phone normaliser — every submitted number is forced
+     to E.164 +44 format so it routes cleanly through Twilio
+     for outbound SMS, regardless of how the parent typed it.
+       07859 965776   -> +447859965776
+       +44 7859 965776 -> +447859965776
+       447859965776   -> +447859965776
+       7859965776     -> +447859965776 */
+  function normaliseUkPhone(raw) {
+    if (!raw) return '';
+    var digits = String(raw).replace(/\D/g, '');
+    if (!digits) return '';
+    if (digits.indexOf('44') === 0) digits = digits.substring(2);
+    if (digits.charAt(0) === '0') digits = digits.substring(1);
+    return '+44' + digits;
+  }
+
+  /* Zoho CRM web-to-lead — fire-and-forget. Maps the
+     registration form values onto the Zoho lead schema:
+       Last Name   = first_name + " " + last_name
+       Email       = registration email
+       Phone       = normalised +44 number
+       LEADCF3     = "GCSE - Year 11" (always)
+       Lead Source = "August Webinar" (always)
+       Lead Status = "Interested In Tutoring" if the A-Level
+                     follow-up box was ticked, otherwise
+                     "Not Interested In Tutoring"
+       Country     = A-Level results year (2028) if the
+                     student's plan is A-Levels, else blank
+     The xnQsjsdp + xmIwtLD tokens identify the Zoho form
+     and are static, not per-session. Submitted with
+     mode: 'no-cors' because Zoho doesn't return CORS
+     headers — we don't need the response, just the post. */
+  function submitZohoLead(data) {
+    var z = new FormData();
+    z.append('xnQsjsdp', '5dc3137515188e31d59c662a1d96b89833da680c35625e4975fd813a94f0db32');
+    z.append('xmIwtLD', 'a0055e4f8de7c9fb52b18349c560fcf79ead70151733aabfe583cf30f5bea6dba3dc1cc57cb64cbe01a3f54f6b5d69e5');
+    z.append('actionType', 'TGVhZHM=');
+    z.append('returnURL', 'null');
+    z.append('aG9uZXlwb3Q', '');
+
+    var first = (data.get('first_name') || '').trim();
+    var last  = (data.get('last_name')  || '').trim();
+    var fullName = (first + ' ' + last).trim() || last || first;
+    z.append('Last Name', fullName);
+
+    var email = (data.get('email') || '').trim();
+    if (email) z.append('Email', email);
+
+    var phone = (data.get('phone') || '').trim();
+    if (phone) z.append('Phone', phone);
+
+    z.append('LEADCF3', 'GCSE - Year 11');
+    z.append('Lead Source', 'August Webinar');
+
+    var alevelInterest = data.get('interest_a_level') === 'yes';
+    z.append('Lead Status', alevelInterest ? 'Interested In Tutoring' : 'Not Interested In Tutoring');
+
+    var plan = data.get('plan_after_gcse');
+    if (plan === 'A-Levels') {
+      z.append('Country', '2028');
+    }
+
+    try {
+      fetch('https://crm.zoho.eu/crm/WebToLeadForm', {
+        method: 'POST',
+        body: z,
+        mode: 'no-cors'
+      }).catch(function () {});
+    } catch (err) { /* best-effort, never blocks Formspree */ }
+  }
+
+  /* Form submission: Zoho only. The webinar lead lifecycle
+     runs entirely through Zoho CRM. Formspree is not used on
+     this page — the book-a-call page has its own Formspree
+     wiring for 1-to-1 enquiries.
+
+     After the lead is dispatched we redirect:
+       - A-Level interest ticked  -> /book-a-call/ (1-to-1 path)
+       - Otherwise                -> /gcse-results-day-webinar-thanks/
+                                     (replay confirmation + reviews) */
+  (function () {
+    var form = document.querySelector('[data-pg-form]');
+    if (!form) return;
+    var alevel = document.querySelector('[data-rd-alevel]');
+
+    form.addEventListener('submit', function (e) {
+      e.preventDefault();
+      var btn = form.querySelector('[type="submit"]');
+      var data = new FormData(form);
+
+      /* Force phone to +44 E.164 so the value Zoho stores is
+         the same one Twilio will dial later. */
+      var rawPhone = data.get('phone');
+      if (rawPhone) {
+        data.set('phone', normaliseUkPhone(rawPhone));
+      }
+
+      if (btn) { btn.disabled = true; btn.textContent = 'Saving...'; }
+
+      submitZohoLead(data);
+
+      if (typeof fbq === 'function') { fbq('track', 'Lead'); }
+
+      /* Small delay so the no-cors fetch has a real chance to
+         leave the browser before navigation. */
+      var destination = (alevel && alevel.checked)
+        ? '/book-a-call/?source=results-day-webinar'
+        : '/gcse-results-day-webinar-thanks/';
+      window.setTimeout(function () {
+        window.location.href = destination;
+      }, 250);
+    });
+  })();
+</script>
+
+{{/* FAQPage schema — eligible for Google's FAQ rich results,
+     mirroring the on-page <details> questions verbatim. */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I watch the webinar?",
+      "acceptedAnswer": { "@type": "Answer", "text": "We'll email you the live link 24 hours and 1 hour before the webinar. You can join from any device. No app, no sign-up needed." }
+    },
+    {
+      "@type": "Question",
+      "name": "What if I can't make the live time?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Register anyway. We send the full replay to everyone who signs up, plus the parent handout so you can catch up at your own pace." }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I bring my child to the session?",
+      "acceptedAnswer": { "@type": "Answer", "text": "The session is designed for parents. Many parents choose to watch the replay with their child afterwards, which is the order we would recommend for the most productive follow-up conversation." }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the GCSE Results Day Webinar really free?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Yes. The session is free to attend and contains no sales content. We run it annually as a free resource for parents of GCSE students." }
+    },
+    {
+      "@type": "Question",
+      "name": "What about A-Level results day?",
+      "acceptedAnswer": { "@type": "Answer", "text": "If you also have an A-Level student, much of the framework carries across, especially the post-results conversation and the route-mapping. The university and clearing details are A-Level specific and we cover those in a separate session closer to the time." }
+    }
+  ]
+}
+</script>
+
+{{ with $webinarDate }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "GCSE Results Day Webinar 2026",
+  "description": "Free 45-minute live walkthrough for parents of GCSE students. What happens on results day, what the grades actually mean, and how to handle whatever the envelope says.",
+  "startDate": "{{ . }}",
+  {{ with $webinarEndDate }}"endDate": "{{ . }}",{{ end }}
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
+  "location": {
+    "@type": "VirtualLocation",
+    "url": "{{ $.Permalink }}"
+  },
+  "image": "https://study.thedegreegap.com/images/og_image.png",
+  "organizer": {
+    "@type": "EducationalOrganization",
+    "@id": "https://study.thedegreegap.com/#organization",
+    "name": "The Degree Gap",
+    "url": "https://thedegreegap.com"
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "GBP",
+    "availability": "https://schema.org/InStock",
+    "url": "{{ $.Permalink }}",
+    "validFrom": "{{ now.Format "2006-01-02" }}"
+  }
+}
+</script>
+{{ end }}
+
+{{ end }}

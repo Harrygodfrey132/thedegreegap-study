@@ -657,6 +657,29 @@ collections:
           - { name: "form_subject", label: "Form subject (Formspree)", widget: "string" }
           - { name: "form_source", label: "Form source tag", widget: "string" }
 
+      - file: "content/gcse-results-day-webinar.md"
+        label: "GCSE Results Day Webinar (signup)"
+        name: "gcse-results-day-webinar"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+          - { name: "layout", label: "Layout", widget: "hidden", default: "gcse-results-day-webinar" }
+          - { name: "webinar_date", label: "Webinar start (ISO datetime)", widget: "datetime" }
+          - { name: "webinar_end_date", label: "Webinar end (ISO datetime)", widget: "datetime" }
+          - { name: "webinar_date_display", label: "Display date", widget: "string", hint: "e.g. Monday 17 August 2026" }
+          - { name: "webinar_time_display", label: "Display time", widget: "string", hint: "e.g. 7–7:45pm (UK time)" }
+          - { name: "form_subject", label: "Form subject (Formspree)", widget: "string" }
+          - { name: "form_source", label: "Form source tag", widget: "string" }
+
+      - file: "content/gcse-results-day-webinar-thanks.md"
+        label: "GCSE Results Day Webinar — Thank You"
+        name: "gcse-results-day-webinar-thanks"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+          - { name: "layout", label: "Layout", widget: "hidden", default: "gcse-results-day-webinar-thanks" }
+          - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
+
       # ── Book a call + thank you pages ─────────────────────────────────────
       - file: "content/book-a-call.md"
         label: "Book a Call"
