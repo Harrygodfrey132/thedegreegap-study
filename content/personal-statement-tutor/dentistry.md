@@ -11,6 +11,13 @@ form_message_label: "What Dentistry evidence do you want to include?"
 form_message_placeholder: "For example: NHS or private shadowing at a general practice, UCAT score and section breakdown, manual dexterity activities like sewing or jewellery-making, awareness of the NHS contract debate, a procedure you observed, or an MMI station you want to prepare for."
 form_button: "Get Dentistry statement help"
 form_note: "We will reply with advice on showing genuine commitment to dentistry rather than general healthcare interest."
+related_pages:
+  - title: "Medicine personal statement help"
+    url: "/personal-statement-tutor/medicine/"
+  - title: "Natural Sciences personal statement help"
+    url: "/personal-statement-tutor/natural-sciences/"
+  - title: "Cambridge: what's different"
+    url: "/personal-statement-tutor/cambridge/"
 faqs:
   - q: "What dexterity evidence actually convinces a Dentistry tutor?"
     a: "Activities you've done for months, not weeks, that train fine motor control under fatigue. Embroidery, jewellery-making, watch repair, model-making and small-scale sculpture all read as real. Sewing taught steadiness in mirror image, which is closer to dental work than most applicants realise. King's and Manchester want the specific skill the activity built, not a list of hobbies dressed up as relevant."
