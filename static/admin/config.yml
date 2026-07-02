@@ -506,6 +506,14 @@ collections:
           - { name: "description", label: "SEO description", widget: "text" }
           - { name: "layout", label: "Layout", widget: "hidden", default: "parent-guide-to-gcse" }
           - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
+      - file: "content/referred-by-tutor-wiz.md"
+        label: "Tutorwiz"
+        name: "tutor-wiz"
+        fields:
+          - { name: "title", label: "SEO title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+          - { name: "layout", label: "Layout", widget: "hidden", default: "tutor-wiz" }
+          - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
 
   # ===========================================================================
   # 8. PAST PAPERS — section + subject + board pages

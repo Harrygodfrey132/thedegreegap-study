@@ -6557,6 +6557,71 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   .book-call--exam-essentials .book-call__endorsement img { height: 30px; }
 }
 
+.book-call--tutor-wiz .book-call__eyebrow {
+  background: #ECE7F6;
+  color: #503487;
+  border: 2px solid #6A4DA3;
+  padding: 8px 18px;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+}
+.book-call--tutor-wiz .book-call__form-tag {
+  background: #ECE7F6;
+  color: #503487;
+  border: 1.5px solid #6A4DA3;
+  padding: 5px 12px;
+  font-weight: 800;
+}
+.book-call--tutor-wiz .book-call__submit {
+  background: #503487;
+  color: #ffffff;
+}
+.book-call--tutor-wiz .book-call__submit:hover {
+  background: #3E2769;
+}
+.book-call--tutor-wiz .book-call__reviews-brand {
+  color: #503487;
+}
+
+/* Tutorwiz endorsement badge — light purple pill with the brand logo */
+.book-call--tutor-wiz .book-call__endorsement {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  padding: 12px 22px;
+  background: #ECE7F6;
+  border: 1.5px solid #6A4DA3;
+  border-radius: 999px;
+  box-shadow: 0 2px 10px rgba(80, 52, 135, 0.1);
+  text-decoration: none;
+  color: #503487;
+  transition: background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease;
+  max-width: max-content;
+}
+.book-call--tutor-wiz .book-call__endorsement:hover {
+  background: #E2D9F2;
+  box-shadow: 0 4px 14px rgba(80, 52, 135, 0.18);
+  transform: translateY(-1px);
+  text-decoration: none;
+  color: #503487;
+}
+.book-call--tutor-wiz .book-call__endorsement-label {
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #503487;
+  white-space: nowrap;
+  padding-right: 12px;
+  border-right: 1px solid rgba(80, 52, 135, 0.35);
+}
+.book-call--tutor-wiz .book-call__endorsement img { height: 46px; width: auto; display: block; }
+@media (max-width: 540px) {
+  .book-call--tutor-wiz .book-call__endorsement { padding: 10px 18px; gap: 10px; }
+  .book-call--tutor-wiz .book-call__endorsement-label { padding-right: 10px; font-size: 0.68rem; }
+  .book-call--tutor-wiz .book-call__endorsement img { height: 40px; }
+}
+
 /* Parents' Guide to GCSE — blue/purple theme */
 .book-call--parent-guide-to-gcse .book-call__eyebrow {
   background: #E8EBF6;
