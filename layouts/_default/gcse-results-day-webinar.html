@@ -1107,7 +1107,7 @@
     if (!radios.length || !condition) return;
     function update() {
       var picked = document.querySelector('input[name="plan_after_gcse"]:checked');
-      var isAlevels = picked && picked.value === 'A-Levels';
+      var isAlevels = picked && picked.hasAttribute('data-rd-alevel-trigger');
       if (isAlevels) {
         condition.removeAttribute('hidden');
       } else {
@@ -1217,7 +1217,7 @@
     add('Lead Status', alevelInterest ? 'Interested In Tutoring' : 'Not Interested In Tutoring');
 
     var plan = data.get('plan_after_gcse');
-    if (plan === 'A-Levels') add('Country', '2028');
+    if (plan === 'Sixth form') add('Country', '2028');
 
     document.body.appendChild(f);
     f.submit();
