@@ -483,7 +483,7 @@ collections:
           - { name: "layout", label: "Layout", widget: "hidden", default: "daily-info" }
           - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
       - file: "content/referred-by-exam-essentials.md"
-        label: "Exam Essentials"
+        label: "ExamEssentials"
         name: "exam-essentials"
         fields:
           - { name: "title", label: "SEO title", widget: "string" }
@@ -688,6 +688,15 @@ collections:
           - { name: "description", label: "SEO description", widget: "text" }
           - { name: "layout", label: "Layout", widget: "hidden", default: "gcse-results-day-webinar-thanks" }
           - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
+
+      - file: "content/gcse-results-day-webinar-terms.md"
+        label: "GCSE Results Day Webinar — Terms & Conditions"
+        name: "gcse-results-day-webinar-terms"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+          - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
+          - { name: "body", label: "Terms & Conditions content", widget: "markdown" }
 
       - file: "content/gcse-results-day-webinar-book-a-call.md"
         label: "GCSE Results Day Webinar — Book a Call"

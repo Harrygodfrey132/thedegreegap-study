@@ -670,6 +670,18 @@
     color: #5f5a54;
     text-align: center;
   }
+  .rd-consent {
+    margin-top: 4px;
+    align-items: flex-start;
+  }
+  .rd-consent .rd-checkbox__label { font-size: 0.82rem; line-height: 1.5; }
+  .rd-consent .rd-checkbox__label a { color: #800020; font-weight: 700; text-decoration: underline; }
+  .rd-consent-error {
+    margin: 8px 0 0;
+    font-size: 0.84rem;
+    font-weight: 600;
+    color: #b00020;
+  }
 
   .rd-thanks {
     display: none;
@@ -1028,8 +1040,17 @@
             </label>
           </div>
 
+          <label class="rd-checkbox rd-consent" for="rd-consent">
+            <input id="rd-consent" type="checkbox" name="consent_terms" value="yes" required data-rd-consent>
+            <span class="rd-checkbox__box" aria-hidden="true">
+              <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+            </span>
+            <span class="rd-checkbox__label">I agree to the <a href="/gcse-results-day-webinar-terms/" target="_blank" rel="noopener">webinar terms and conditions</a>. This covers the reminder and replay emails, free resources, and, if I leave a number and I'm interested, a call about my child's next steps. I can stop the emails or texts at any time by replying STOP.</span>
+          </label>
+          <p class="rd-consent-error" data-rd-consent-error hidden role="alert">Please tick the box to agree to the terms and conditions before saving your seat.</p>
+
           <button type="submit" class="rd-register__submit">Save my seat</button>
-          <p class="rd-register__assurance">Free. Can't make it live? We'll email you the replay.</p>
+          <p class="rd-register__assurance">Free. Can't make it live? We'll email you the replay. Stop emails or texts any time by replying STOP.</p>
         </form>
       </div>
     </div>
@@ -1239,6 +1260,18 @@
 
     form.addEventListener('submit', function (e) {
       e.preventDefault();
+
+      /* Require agreement to the terms before anything is submitted.
+         The form is novalidate, so this check is what actually gates it. */
+      var consent = form.querySelector('[data-rd-consent]');
+      var consentError = form.querySelector('[data-rd-consent-error]');
+      if (consent && !consent.checked) {
+        if (consentError) consentError.hidden = false;
+        consent.focus();
+        return;
+      }
+      if (consentError) consentError.hidden = true;
+
       var btn = form.querySelector('[type="submit"]');
       var data = new FormData(form);
 
