@@ -537,6 +537,20 @@ At least one sentence across the H1, hero lead and first_lesson_context combined
 
 When a location has selective schools in the mix, name them factually (e.g. "Royal Grammar School, John Hampden Grammar and the comprehensives across town") without implying a hierarchy. For first_lesson_context and tutor_strip_body, prefer the universal pain ("a B in a mock, nobody can say why") over school-specific framings.
 
+**Hard rule: no manufactured universals about entry requirements.** Never state that a sixth form, university, or employer "always", "almost always", "universally" or "typically" asks for a specific grade or band unless you've verified that exact figure live in this session AND the source is the institution's own current admissions page. Other institutions' published standards change year to year. Claiming "Xaverian, Loreto and Connell almost always ask for a 6 in the subject" reads as fact and isn't — each college publishes its own subject-by-subject requirements, which vary by route. The rule applies to every named sixth form, university and degree-apprenticeship scheme AND every grade code (AAB, AAA, A*AA, grade 6, etc.).
+
+Banned framings:
+- *"Manchester Medicine asks AAA including Biology and a second science"* → soften to *"asks for top A-Level grades including Biology and a second science"* unless verified live
+- *"HSBC UK typically asks for AAB or ABB"* → *"publishes minimum predicted-grade requirements for each route, with the more competitive schemes asking near the top of the A-Level band"*
+- *"[Sixth form] almost always asks for a 6"* → *"publishes subject-specific requirements, with the more competitive A-Level subjects often asking for a 6"*
+
+Allowed:
+- A verified entry requirement when the institution publishes it AND you've read the admissions page in this session. Note the source URL in your working notes.
+- Qualitative patterns that are genuinely broadly true across UK FE/apprenticeships ("most ask for grade 4 to 5 in Maths and English").
+- Soft quantifiers like "often", "many of which", "with X the common ask for [subject group]" — these signal a pattern without claiming a universal.
+
+**The principle:** direct voice on what tutoring does. Cautious voice on what other institutions ask for. The first is your own claim about your own service. The second is a claim about somebody else's published standards.
+
 **Self-check before saving the hero:** Read line 1 + line 2 + lead aloud. If it takes more than 10 seconds to read or a parent would skim past it, cut it.
 
 ### First Lesson Eyebrow (`first_lesson_eyebrow`) — write fresh, inspired by these
@@ -960,6 +974,10 @@ These have shown up across past pages and read as template-fill, not editorial w
    - Search for `universit(y|ies) hir(e|ing|es)` — universities admit, they don't hire. Rewrite.
    - Search for `tutoring shapes? .* grades?` or `tuition shapes? .* grades?` — tutoring shapes student work, not grades themselves. Rewrite to "lifts into the X band" or "helps students reach".
    - Search for the page's region name in `not the` or `not just` constructions — make sure you're not contrasting the page's location with itself ("not the nearest tutor to North Herts" on a page about a town IN North Herts).
+   - **Manufactured-universals scan** (per the Hard rule above):
+     - Search for `almost always` / `universally` / `always asks?` / `always require` near a sixth-form, university or employer name — soften to "often", "many of which", or "publishes minimum requirements that vary by route".
+     - Search for hard grade codes near institution names: `AAA`, `AAB`, `A\*AA`, `grade 6 in the subject` paired with verbs like "asks", "requires", "needs". Each one needs to have been verified live in this session, or soften to "top A-Level grades", "near the top of the A-Level band", or "subject-specific requirements that vary by route".
+     - Test: would the named institution complain if they saw this exact phrasing on a third-party site claiming to know their requirements? If yes, soften.
 9. **3-item list scan.** Search every body field for sentences containing "X, Y, and Z" patterns where the three items are parallel (e.g. "predicted grades, application essays, and STEM aptitude"). Cut one.
 10. **Stuffing scan.** Read each paragraph aloud in your head. If any sentence repeats `{Level} tutor` / `{Level} tutoring` from the previous sentence, rewrite one. If any sentence lists subjects with "tutor" appended ("Maths tutors and English tutors and Sciences tutors"), rewrite the section to be about a topic, not a list. **There are no keyword quotas. If the writing reads forced, the keyword was forced. Cut it.**
 11. **Readability scan.** Run the helper script against the just-written file:
@@ -1001,6 +1019,7 @@ For **each page** built:
 
 **Content quality:**
 - [ ] `first_lesson_context` contains zero specific attainment numbers, percentages, or scores. Qualitative context only.
+- [ ] Zero manufactured universals about external institutions. No "Xaverian almost always asks for a 6", no "Manchester Medicine asks AAA", no "HSBC UK typically asks for AAB". Every named grade code paired with an institution must be verified live this session, or softened to a qualitative phrasing.
 - [ ] `pathways` names ≥ 8 specific local entities across the three categories
 - [ ] `first_lesson_quote` is a REAL review — verbatim
 - [ ] `grade_from`/`grade_to`/`grade_stat` anchored to that same real review

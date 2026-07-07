@@ -15,7 +15,7 @@ grade_stat: "A real GCSE grade jump from E to B, from a student we worked with o
 
 first_lesson_eyebrow: "ONE BIRMINGHAM PARENT'S STORY"
 first_lesson_heading: "How a Birmingham GCSE Tutor Reads a Year 10 Paper"
-first_lesson_context: "GCSE outcomes across Birmingham sit close to the national picture, but the spread inside the city is wider than the headline suggests. A child applying for King Edward VI Camp Hill is working at one extreme; a Year 11 at Hodge Hill chasing the grade 5 in English and Maths a Joseph Chamberlain Sixth Form offer needs is at another. A Birmingham GCSE tutor reads each student's most recent paper in week one and the plan starts from there, not from a generic syllabus."
+first_lesson_context: "GCSE outcomes across Birmingham sit close to the national picture, but the spread inside the city is wider than the headline suggests. A child applying for King Edward VI Camp Hill is working at one extreme; a Year 11 at a city comprehensive chasing the grades a Joseph Chamberlain Sixth Form offer needs is at another. A Birmingham GCSE tutor reads each student's most recent paper in week one and the plan starts from there, not from a generic syllabus."
 
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B."
 first_lesson_quote_name: "Keira"

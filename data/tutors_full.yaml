@@ -805,6 +805,21 @@
   online: true
   qualifications: BA History and Politics, Manchester Metropolitan University; MA International Relations, University of Sheffield;
     PhD Politics, University of Manchester
+- name: Adam Gupta
+  slug: ag2117
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: University - Economics, A level Economics
+  price: £37.50 - £50.00
+  blurb: Adam holds a Masters in Economics from Cambridge and an MSc in Business Analytics, with 3+ years of A Level Economics
+    tutoring experience. He specialises in breaking complex topics into simple, intuitive ideas and provides support for Oxbridge
+    admissions, having worked with 50+ applicants.
+  image: https://thedegreegap.com/cache/ce/96912c03fea6e92983f4cd88e92448.jpg
+  url: https://thedegreegap.com/teachers/view/ag2117
+  verified: true
+  online: true
+  qualifications: BA Economics, University of Cambridge; Masters Economics, University of Cambridge; MSc Business Analytics;
+    A Levels Maths, Further Maths, Economics (3 A*)
 - name: Arianna Seraj
   slug: Arianna_s
   country: United Kingdom
@@ -1097,6 +1112,20 @@
   online: true
   qualifications: BSc Biomedical Science with a Year in Industry, University of Sheffield; MBBS Graduate Medicine, King's
     College London
+- name: Shyam Jayabal
+  slug: ShyamJ
+  country: United Kingdom
+  flag: 🇬🇧
+  teaches: GCSE Economics, GCSE Maths, A level Maths, A level Economics, Personal Statement / Admissions, A level Further
+    Maths, 11+ Non-Verbal Reasoning, 11+ Maths, Revision Techniques
+  price: £22.50 - £54.00
+  blurb: Economics graduate from Imperial College London with over six years of tutoring experience across 11+ through A-Level
+    students. Specialises in Maths, Further Maths (Pearson Edexcel) and Economics across all boards, with online lessons available.
+  image: https://thedegreegap.com/cache/37/b15ecdc0087cb8792a3914aee2452a.jpg
+  url: https://thedegreegap.com/teachers/view/ShyamJ
+  verified: true
+  online: true
+  qualifications: BSc Economics, Imperial College London; BSc Economics, Finance and Data Science (2024-2026)
 - name: Lucy Bowyer
   slug: lucymbowyer
   country: United Kingdom

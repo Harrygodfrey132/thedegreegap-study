@@ -1,0 +1,196 @@
+{{/* Fixed-position lead-capture card used on blog single + list pages.
+     Floats on the right of the viewport. Hidden below 1280px.
+     Fades in once the reader reaches the article body and back out
+     before the bottom CTA / footer. Posts to the site-wide Formspree
+     endpoint and routes to /book-a-call-thank-you/ so Meta Pixel
+     Lead fires. */}}
+<aside class="sticky-form" aria-labelledby="sticky-form-heading">
+  <div class="sticky-form__panel">
+    <div class="sticky-form__head">
+      <h2 class="sticky-form__heading" id="sticky-form-heading">Find a tutor</h2>
+      <p class="sticky-form__sub">Online tutors from top UK universities.</p>
+    </div>
+
+    <form class="sticky-form__form" action="{{ .Site.Params.formspreeEndpoint }}" method="POST" novalidate>
+      <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
+      <input type="hidden" name="_subject" value="New enquiry from blog sidebar | The Degree Gap">
+      <input type="hidden" name="_next" value="{{ "/book-a-call-thank-you/" | absURL }}">
+      <input type="hidden" name="page_url" value="{{ .RelPermalink }}">
+      <input type="hidden" name="source" value="blog-sidebar">
+
+      <div class="sticky-form__group">
+        <label class="sticky-form__label" for="sticky-form-name">Name</label>
+        <input class="sticky-form__input" type="text" id="sticky-form-name" name="name" autocomplete="name" required>
+      </div>
+
+      <div class="sticky-form__group">
+        <label class="sticky-form__label" for="sticky-form-phone">Mobile number</label>
+        <input class="sticky-form__input" type="tel" id="sticky-form-phone" name="phone" autocomplete="tel" required>
+      </div>
+
+      <div class="sticky-form__group">
+        <label class="sticky-form__label" for="sticky-form-reason">What do you need help with?</label>
+        <textarea class="sticky-form__textarea" id="sticky-form-reason" name="message" rows="3" required></textarea>
+      </div>
+
+      <button class="sticky-form__btn" type="submit">Send enquiry</button>
+      <p class="sticky-form__note">We reply within one working day.</p>
+    </form>
+  </div>
+</aside>
+
+<style>
+  .sticky-form {
+    display: none;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    color: #171717;
+  }
+  @media (min-width: 1280px) {
+    .sticky-form {
+      display: block;
+      position: fixed;
+      right: 32px;
+      top: 112px;
+      width: 308px;
+      z-index: 40;
+      opacity: 0;
+      transform: translateY(-6px);
+      pointer-events: none;
+      transition: opacity 0.32s ease, transform 0.32s ease;
+    }
+    .sticky-form.is-visible {
+      opacity: 1;
+      transform: translateY(0);
+      pointer-events: auto;
+    }
+  }
+
+  .sticky-form__panel {
+    background: #ffffff;
+    border: 1px solid #e6ded4;
+    border-radius: 5px;
+    box-shadow: 0 16px 44px rgba(35, 23, 17, 0.08);
+    overflow: hidden;
+  }
+
+  /* Cream-tinted header strip — quiet bit of brand texture
+     that ties the card to the rest of the site without
+     shouting. */
+  .sticky-form__head {
+    background: #fbf7ef;
+    border-bottom: 1px solid #efe5d5;
+    padding: 20px 22px 18px;
+    position: relative;
+  }
+  .sticky-form__head::before {
+    content: "";
+    position: absolute;
+    inset: 0 0 auto 0;
+    height: 3px;
+    background: #800020;
+  }
+  .sticky-form__heading {
+    font-family: inherit;
+    font-size: 1.18rem;
+    font-weight: 700;
+    letter-spacing: -0.015em;
+    color: #171717;
+    margin: 0 0 4px;
+    line-height: 1.2;
+  }
+  .sticky-form__sub {
+    font-size: 0.85rem;
+    color: #5f5a54;
+    margin: 0;
+    line-height: 1.45;
+  }
+
+  .sticky-form__form {
+    padding: 20px 22px 18px;
+  }
+  .sticky-form__group { margin-bottom: 14px; }
+  .sticky-form__label {
+    display: block;
+    font-size: 0.84rem;
+    font-weight: 600;
+    color: #171717;
+    margin-bottom: 6px;
+  }
+  .sticky-form__input,
+  .sticky-form__textarea {
+    width: 100%;
+    box-sizing: border-box;
+    font-family: inherit;
+    font-size: 0.92rem;
+    color: #171717;
+    background: #ffffff;
+    border: 1px solid #e6ded4;
+    border-radius: 5px;
+    padding: 10px 12px;
+    line-height: 1.4;
+    transition: border-color 0.2s;
+    appearance: none;
+  }
+  .sticky-form__input:focus,
+  .sticky-form__textarea:focus {
+    outline: none;
+    border-color: #800020;
+  }
+  .sticky-form__textarea {
+    resize: vertical;
+    min-height: 78px;
+  }
+
+  .sticky-form__btn {
+    margin-top: 4px;
+    width: 100%;
+    background: #800020;
+    color: #ffffff;
+    font-family: inherit;
+    font-size: 0.95rem;
+    font-weight: 700;
+    padding: 13px 18px;
+    border: 1px solid #800020;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.2s, border-color 0.2s, transform 0.15s;
+  }
+  .sticky-form__btn:hover {
+    background: #5A001F;
+    border-color: #5A001F;
+    transform: translateY(-1px);
+  }
+
+  .sticky-form__note {
+    margin: 10px 0 0;
+    font-size: 0.78rem;
+    color: #5f5a54;
+    text-align: center;
+  }
+</style>
+
+<script>
+  (function () {
+    var form = document.querySelector('.sticky-form');
+    if (!form || !window.matchMedia('(min-width: 1280px)').matches) return;
+    var show = document.querySelector('[data-sticky-form-show]');
+    var hide = document.querySelector('[data-sticky-form-hide]') || document.querySelector('.site-footer');
+    if (!show) return;
+    var ticking = false;
+    function update() {
+      ticking = false;
+      var vh = window.innerHeight;
+      var passed = show.getBoundingClientRect().top < vh * 0.55;
+      var blocked = hide ? (hide.getBoundingClientRect().top < vh * 0.85) : false;
+      form.classList.toggle('is-visible', passed && !blocked);
+    }
+    function onScroll() {
+      if (ticking) return;
+      ticking = true;
+      window.requestAnimationFrame(update);
+    }
+    window.addEventListener('scroll', onScroll, { passive: true });
+    window.addEventListener('resize', onScroll);
+    update();
+  })();
+</script>

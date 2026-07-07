@@ -150,7 +150,7 @@ Every entry has:
 
 **Fits:** all pages
 **Q:** How do you vet your {Level} {Subject} tutors?
-**A skeleton:** Roughly one in eight applicants makes it onto the platform. Written application, subject knowledge test, structured interview on clarity under pressure, reference checks. DBS for under-18s. Ongoing rating-based monitoring; tutors below 4.8 are removed from the active pool.
+**A skeleton:** Roughly one in eight applicants makes it onto the platform. Written application, subject knowledge test, structured interview on clarity under pressure, reference checks. 
 
 ### E02 — Tutor backgrounds
 

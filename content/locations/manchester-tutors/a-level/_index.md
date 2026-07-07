@@ -30,7 +30,7 @@ pathways_lead: "Three routes Manchester A-Level families take once UCAS results 
 pathways:
   - title: "Universities"
     body: >
-      The University of Manchester sits inside the city and admits one of the largest Russell Group undergraduate intakes, with strong cohorts also heading to UCL, Imperial, LSE, Leeds and Sheffield. An A-Level Sciences tutor in Year 12 is usually what lifts the predicted grade into the AAA territory the competitive Medicine and Engineering courses ask for.
+      The University of Manchester sits inside the city and admits one of the largest Russell Group undergraduate intakes, with strong cohorts also heading to UCL, Imperial, LSE, Leeds and Sheffield. An A-Level Sciences tutor in Year 12 can help lift the predicted grade towards what the competitive Medicine and Engineering courses ask for.
   - title: "Degree Apprenticeships"
     body: >
       BNY Mellon and Goldman Sachs run engineering and finance degree apprenticeships out of Spinningfields, with PwC, KPMG and Deloitte running parallel schemes from the same Manchester offices. Each has its own published grade requirements; the technical Goldman routes ask the highest.
@@ -62,7 +62,7 @@ faq_1_a: "Yes. Both schemes screen on predicted grades first, and a Manchester A
 faq_2_q: "Will tutoring help with the EPQ alongside the three A-Levels?"
 faq_2_a: "Yes. The EPQ rewards a clear research question, properly cited evidence, and a defended conclusion. We pair students with A-Level tutors who've examined or marked EPQs before, and the work fits alongside the main three subjects rather than competing with them. Final submitted work stays the student's own."
 faq_3_q: "Can an A-Level tutor help with a University of Manchester Medicine application?"
-faq_3_a: "Yes. Manchester Medicine asks AAA at A-Level including Biology and a second science, plus the UCAT. We pair students with tutors who've sat the UCAT, sat Manchester Medicine interviews, and know which subject combinations the admissions team weight. The work runs from late Year 12 through to interview prep in December."
+faq_3_a: "Yes. Manchester Medicine asks for top A-Level grades including Biology and a second science, plus a strong UCAT score. We pair students with tutors who've sat the UCAT, walked candidates through Manchester Medicine interviews, and know what the admissions process weights. The work runs from late Year 12 through to interview prep in December."
 faq_4_q: "What does an A-Level retake plan in Manchester look like?"
 faq_4_a: "Retakes need a different approach from first-attempt A-Level tutoring. Manchester retake students usually know the content but need to fix what went wrong on exam day, where pacing slipped, where evaluation went shallow. We pair retake students with A-Level tutors who've coached the exact specification, and the work is faster and more targeted than a Year 12 plan."
 

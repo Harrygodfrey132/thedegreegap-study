@@ -15,7 +15,7 @@ grade_stat: "Real GCSE English grade jump from a Year 10 student we worked with,
 
 first_lesson_eyebrow: "FROM GRADE 5 TO XAVERIAN ENTRY"
 first_lesson_heading: "Inside Week One With a Manchester GCSE Tutor"
-first_lesson_context: "Results across the city sit below the national picture, but the harder reality for most Manchester families is the sixth-form gate. Xaverian, Loreto and Connell almost always ask for a 6 in the subject the student wants to take at A-Level. A grade 5 in Chemistry quietly closes the A-Level Chemistry door."
+first_lesson_context: "Results across the city sit below the national picture, but the harder reality for most Manchester families is the sixth-form gate. Xaverian, Loreto and Connell publish minimum grade requirements that often run higher for the more competitive A-Level subjects, with a 6 in the subject the common ask for Sciences, Maths and Economics. A grade 5 in Chemistry can quietly limit the A-Level Chemistry options."
 
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him."
 first_lesson_quote_name: "Omo"
@@ -30,7 +30,7 @@ pathways_lead: "Three routes most Manchester families consider after results day
 pathways:
   - title: "Sixth Forms"
     body: >
-      Xaverian College in Rusholme, Loreto College in Hulme and Connell Sixth Form in Beswick are the three big city-centre options, each typically asking for a grade 6 in the subject the student wants to take at A-Level. A GCSE tutor in Year 11 lifts the subject grade itself, not just the headline average.
+      Xaverian College in Rusholme, Loreto College in Hulme and Connell Sixth Form in Beswick are the three big city-centre options, with subject-specific grade requirements that vary by route. A GCSE tutor in Year 11 lifts the subject grade itself, not just the headline average.
   - title: "Apprenticeships"
     body: >
       The BBC and ITV at MediaCityUK, the Co-op at Angel Square, and Manchester Airport Group all run Year 11 apprenticeship intakes. Most ask for grade 4 to 5 in Maths and English; the more technical routes at BNY Mellon and NCC Group ask higher.
@@ -56,7 +56,7 @@ reviews:
   - "Marfa|Student|Very engaging lessons that helped me improve my grade in maths and successfully get admitted to university."
 
 faq_1_q: "My daughter is on a grade 5 in Chemistry but needs a 6 for Xaverian A-Level Chemistry. What can a tutor do?"
-faq_1_a: "The grade 5 to 6 jump in Sciences is almost always about the longer-answer questions and the calculation steps. Manchester GCSE Chemistry tutors mark a recent paper in week one, find which six-mark and required-practical questions are leaking marks, and the plan from session two drills exactly those question types until the band shifts."
+faq_1_a: "The grade 5 to 6 jump in Sciences usually comes down to the longer-answer questions and the calculation steps. Manchester GCSE Chemistry tutors mark a recent paper in week one, find which six-mark and required-practical questions are leaking marks, and the plan from session two drills those question types until the band shifts."
 faq_2_q: "Should we start GCSE tutoring in Year 10 or wait until Year 11?"
 faq_2_a: "Year 10 is the more common starting point in Manchester. The November mocks come quickly in Year 11, and the predicted grade your sixth form sees is largely fixed by March. A Year 10 start gives the tutor a full year to find the underlying gap, where Year 11 turns into past-paper sprint work."
 faq_3_q: "How does online GCSE tutoring work for families in Didsbury, Chorlton and South Manchester?"

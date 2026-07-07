@@ -59,13 +59,13 @@ reviews:
   - "Jeanne|University Applicant|I received quick and extremely helpful feedback on my personal statement for my master's applications. I can't recommend The Degree Gap enough."
 
 faq_1_q: "My daughter is applying for an HSBC UK degree apprenticeship at Centenary Square. Can A-Level tutoring help with that application?"
-faq_1_a: "Yes. HSBC UK screens degree apprenticeship applicants on predicted grades first, typically AAB or ABB depending on the route. A Birmingham A-Level tutor in Year 12 lifts the predicted grade towards the band the scheme needs, and the work runs alongside subject tutoring through the application year."
+faq_1_a: "Yes. HSBC UK publishes minimum predicted-grade requirements for each degree apprenticeship route, with the more competitive schemes asking near the top of the A-Level band. A Birmingham A-Level tutor in Year 12 helps lift the predicted grade towards what the chosen scheme needs, and the work runs alongside subject tutoring through the application year."
 faq_2_q: "A-Level Economics 25-mark essays keep coming back with comments about evaluation depth. What does a tutor do about that?"
 faq_2_a: "AO3 evaluation is where most A-Level Economics marks live at the top of the band. A Birmingham A-Level Economics tutor marks recent 25-markers the way an examiner would, finds where the chain breaks (usually after the first counter-argument), and the plan from session two drills the evaluation structure on past papers until it lands every time."
 faq_3_q: "Our son is in Year 12 at King Edward VI Aston Sixth Form and his Maths mocks are weaker than expected. What's the usual pattern?"
 faq_3_a: "Common in Year 12, even at strong sixth forms. A-Level Maths is genuinely a different subject from GCSE, especially pure and the volume of independent practice it expects. A Birmingham A-Level Maths tutor diagnoses on a past paper in week one, usually finds the gap in pure or mechanics, and the plan from session two drills the multi-step methods Year 12 papers reward."
 faq_4_q: "How does A-Level tutoring help with a Birmingham Medicine offer?"
-faq_4_a: "University of Birmingham Medicine asks AAA at A-Level including Biology and Chemistry, plus the UCAT. We pair students with A-Level tutors who've sat the UCAT and walked candidates through the Medicine interview process, with subject tutoring running through Year 12 and 13 alongside the application work."
+faq_4_a: "University of Birmingham Medicine asks for top A-Level grades including Biology and Chemistry, plus the UCAT. We pair students with A-Level tutors who've sat the UCAT and walked candidates through the Medicine interview process, with subject tutoring running through Year 12 and 13 alongside the application work."
 
 sitemap:
   priority: 0.7

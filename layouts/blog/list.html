@@ -441,7 +441,7 @@
   {{ end }}
 
   {{/* ---- Grid for the rest ---- */}}
-  <section class="blog-grid-section">
+  <section class="blog-grid-section" data-sticky-form-show>
     <div class="blog-grid-inner">
       {{ if or $rest (not $featured) }}
       <div class="blog-grid" data-blog-grid>
@@ -477,6 +477,8 @@
       {{ end }}
     </div>
   </section>
+
+  {{ partial "blog-sticky-form.html" . }}
 
 </div>
 
