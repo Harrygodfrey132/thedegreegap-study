@@ -5,6 +5,38 @@
 
 {{ define "main" }}
 <style>
+  /* ===== EXPORT MODE: add ?export=728|320|160|300 to isolate one banner flush
+     in the top-left corner for a clean high-resolution screenshot. Harmless
+     on the normal preview (only activates when the query param is present). ===== */
+  body.exporting { margin: 0 !important; background: transparent !important; }
+  /* hide the site header, footer, and any floating widgets — keep only <main> */
+  body.exporting > * { display: none !important; }
+  body.exporting > main { display: block !important; margin: 0 !important; padding: 0 !important; }
+  body.exporting .export-target .b-banner { z-index: 99999 !important; }
+  body.exporting .bp2-page { padding: 0 !important; margin: 0 !important; background: transparent !important; min-height: 0 !important; }
+  body.exporting .bp2-inner { max-width: none !important; margin: 0 !important; padding: 0 !important; }
+  body.exporting .bp2-block,
+  body.exporting .bp2-spec,
+  body.exporting .bp2-notes { display: none !important; }
+  body.exporting .bp2-block.export-target { display: block !important; }
+  body.exporting .bp2-block.export-target .bp2-h2 { display: none !important; }
+  body.exporting .bp2-block.export-target .bp2-frame { padding: 0 !important; margin: 0 !important; background: transparent !important; border: 0 !important; }
+  body.exporting .export-target .b-banner { position: fixed !important; top: 0 !important; left: 0 !important; margin: 0 !important; box-sizing: border-box !important; transform: none !important; }
+  /* keep the leaderboard at its desktop size regardless of viewport width */
+  body.exporting .b-728 { width: 728px !important; max-width: none !important; height: 90px !important; }
+</style>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var m = new URLSearchParams(location.search).get('export');
+    if (!m) return;
+    var map = { '728': '.b-728', '320': '.b-320', '160': '.b-160', '300': '.b-300' };
+    var sel = map[m]; if (!sel) return;
+    var banner = document.querySelector(sel); if (!banner) return;
+    var block = banner.closest('.bp2-block'); if (block) block.classList.add('export-target');
+    document.body.classList.add('exporting');
+  });
+</script>
+<style>
   /* ===== Preview page chrome ===== */
   .bp2-page {
     background: #fafafa;
