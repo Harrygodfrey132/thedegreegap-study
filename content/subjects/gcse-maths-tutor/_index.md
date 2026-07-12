@@ -1,20 +1,25 @@
 ---
 title: "GCSE Maths Tutors That Move the Grade | The Degree Gap"
 description: "Your child is working hard and the GCSE Maths grade is not catching up with the effort. Book a 40-minute consultation with co-founder Joe, then take free trial calls with the tutors he matches you with. Sessions from £37/hr."
-robots: "noindex, nofollow"
+robots: "index, follow"
 layout: "single"
 subject: "GCSE Maths"
 level: "GCSE"
 
 # ───────────── HERO ─────────────
 banner_heading: "GCSE Maths Tutors That Move the Grade"
-banner_description: "You can see your child working hard and the marks are not catching up with the effort. Book a free 40-minute consultation with co-founder Joe, and trial two or three tutors before paying anything."
+banner_description: "You can see your child working hard, and the marks just are not catching up with the effort."
 banner_cta_primary: "Book your free call with Joe"
 banner_cta_secondary: "07859 965776"
 pricing_note: "From £37/hr"
 rating_text: "5.0 · 100+ Google reviews"
 hero_image: "/images/founders-award.jpg"
 hero_alt: "Harry and Joe, co-founders of The Degree Gap, with the GCSE Specialists of the Year award"
+grade_jump_from: "4"
+grade_jump_to: "7"
+grade_jump_name: "Sarah K."
+grade_jump_role: "parent"
+grade_jump_text: "A real GCSE Maths grade jump, in one term."
 
 # ───────────── WHY DIFFERENT ─────────────
 why_heading: "Why parents bring their Maths problem to us"

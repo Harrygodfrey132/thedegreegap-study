@@ -52,9 +52,53 @@
     </div>
   </div>
 
+  <div class="footer-areas">
+    <div class="container">
+      <h3 class="footer-areas__title">Areas we cover</h3>
+      <ul class="footer-areas__grid">
+        <li><a href="/locations/london-tutors/">London Tutors</a></li>
+        <li><a href="/locations/manchester-tutors/">Manchester Tutors</a></li>
+        <li><a href="/locations/birmingham-tutors/">Birmingham Tutors</a></li>
+        <li><a href="/locations/leeds-tutors/">Leeds Tutors</a></li>
+        <li><a href="/locations/liverpool-tutors/">Liverpool Tutors</a></li>
+        <li><a href="/locations/sheffield-tutors/">Sheffield Tutors</a></li>
+        <li><a href="/locations/bristol-tutors/">Bristol Tutors</a></li>
+        <li><a href="/locations/nottingham-tutors/">Nottingham Tutors</a></li>
+        <li><a href="/locations/leicester-tutors/">Leicester Tutors</a></li>
+        <li><a href="/locations/coventry-tutors/">Coventry Tutors</a></li>
+        <li><a href="/locations/southampton-tutors/">Southampton Tutors</a></li>
+        <li><a href="/locations/reading-tutors/">Reading Tutors</a></li>
+        <li><a href="/locations/brighton-tutors/">Brighton Tutors</a></li>
+        <li><a href="/locations/cambridge-tutors/">Cambridge Tutors</a></li>
+        <li><a href="/locations/oxford-tutors/">Oxford Tutors</a></li>
+        <li><a href="/locations/wolverhampton-tutors/">Wolverhampton Tutors</a></li>
+        <li><a href="/locations/aylesbury-tutors/">Aylesbury Tutors</a></li>
+        <li><a href="/locations/norwich-tutors/">Norwich Tutors</a></li>
+        <li><a href="/locations/watford-tutors/">Watford Tutors</a></li>
+        <li><a href="/locations/st-albans-tutors/">St Albans Tutors</a></li>
+        <li><a href="/locations/peterborough-tutors/">Peterborough Tutors</a></li>
+      </ul>
+      <a class="footer-areas__all" href="/locations/">See all locations we cover &rarr;</a>
+    </div>
+  </div>
+
   <div class="footer-lower">
     <div class="container">
       <p>Need More Information? Check Out Our <a href="{{ .Site.Params.mainSiteURL }}/faq" target="_blank" rel="noopener">FAQ</a></p>
     </div>
   </div>
 </footer>
+
+<style>
+  .footer-areas { border-top: 1px solid rgba(128,128,128,0.22); padding: 26px 0 6px; }
+  .footer-areas .container { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
+  .footer-areas__title { font-size: 0.95rem; font-weight: 700; margin: 0 0 14px; opacity: 0.95; }
+  .footer-areas__grid {
+    list-style: none; margin: 0 0 14px; padding: 0;
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 7px 20px;
+  }
+  .footer-areas__grid a { color: inherit; opacity: 0.72; text-decoration: none; font-size: 0.86rem; }
+  .footer-areas__grid a:hover { opacity: 1; text-decoration: underline; }
+  .footer-areas__all { display: inline-block; color: inherit; opacity: 0.85; font-size: 0.85rem; font-weight: 600; text-decoration: none; }
+  .footer-areas__all:hover { text-decoration: underline; opacity: 1; }
+</style>

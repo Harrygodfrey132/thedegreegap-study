@@ -1,170 +1,244 @@
 {{ define "main" }}
 {{/*
-Subject landing page layout (e.g. GCSE Maths Tutors).
-Built for paid Google Ads traffic — single primary CTA (free 15-min call),
-founder-led tone, reusable across other GCSE / A-Level subjects.
-
-Frontmatter contract:
-  Required: subject, banner_heading, banner_description, banner_cta_primary,
-            why_blocks (3), how_steps (3), outcomes (4), boards (4),
-            method_steps (3), faqs, form_*
-  Optional: hero_eyebrow, hero_image, pricing_note, rating_text,
-            tutor_strip_heading, tutor_strip_body
+Subject landing page (e.g. GCSE Maths Tutors). noindex paid-ads traffic.
+Conversion-first, premium finish: form in the hero, a signature grade-jump
+proof element, orchestrated entrance + scroll reveals (reduced-motion safe),
+a process timeline, one consolidated trust signal. Reusable across subjects.
 */}}
 
 {{ $subject     := .Params.subject | default .Title }}
-{{ $heroEyebrow := .Params.hero_eyebrow | default "" }}
 {{ $h1          := .Params.banner_heading | default $subject }}
 {{ $lead        := .Params.banner_description | default "" }}
 {{ $ctaPrimary  := .Params.banner_cta_primary | default "Book your free call with Joe" }}
 {{ $ctaPhone    := .Params.banner_cta_secondary | default "07859 965776" }}
+{{ $phoneClean  := replace $ctaPhone " " "" }}
 {{ $pricing     := .Params.pricing_note | default "From £37/hr" }}
-{{ $rating      := .Params.rating_text | default "5.0 · 100+ Google reviews · As featured in The Independent" }}
-{{ $heroImage   := .Params.hero_image | default "/images/harry-godfrey.jpg" }}
+{{ $formBtn     := .Params.form_button | default "Book my free call with Joe" }}
+{{ $msgPh       := .Params.form_message_placeholder | default "Where is your child stuck? Exam board, predicted grade, anything you have already tried." }}
 
-{{ $whyHeading  := .Params.why_heading | default (printf "Why The Degree Gap is different for %s" $subject) }}
+{{ $whyHeading  := .Params.why_heading | default (printf "Why parents bring their %s problem to us" $subject) }}
 {{ $whyBlocks   := .Params.why_blocks  | default (slice) }}
-
 {{ $howHeading  := .Params.how_heading | default "How it works" }}
 {{ $howSteps    := .Params.how_steps   | default (slice) }}
-
-{{ $outcomesHeading := .Params.outcomes_heading | default "Real grade jumps from real Degree Gap families" }}
-{{ $outcomes        := .Params.outcomes        | default (slice) }}
-
-{{ $boardsHeading := .Params.boards_heading | default (printf "Your exam board, not just %s" $subject) }}
-{{ $boardsIntro   := .Params.boards_intro   | default "We match every tutor to your child's exact spec. The mark schemes are different. The questions are different. The way examiners award the top band is different." }}
-{{ $boards        := .Params.boards         | default (slice) }}
-
-{{ $methodHeading := .Params.method_heading | default "What a first session looks like" }}
-{{ $methodSteps   := .Params.method_steps   | default (slice) }}
-{{ $methodBodyAfter := .Params.method_body_after | default "" }}
-{{ $methodImage   := .Params.method_image   | default "/images/handwriting-study-notes-with-highlighters.jpg" }}
-
-{{ $pricingHeading := .Params.pricing_heading | default (printf "%s — no contracts, no surprises" $pricing) }}
-{{ $pricingBody    := .Params.pricing_body    | default "Sessions start from £37 an hour. The exact rate depends on the subject and the tutor, and it is always agreed before any session is booked. No surprises, no hidden fees, no contracts. You pay for the sessions you take." }}
-
 {{ $faqs := .Params.faqs | default (slice) }}
+
+{{/* grade-jump proof: only shown when a real, subject-relevant grade jump is provided */}}
+{{ $gjFrom := .Params.grade_jump_from }}
+{{ $gjTo   := .Params.grade_jump_to }}
+{{ $gjName := .Params.grade_jump_name }}
+{{ $gjText := .Params.grade_jump_text }}
 
 <div class="sj-page-wrap">
 
-<!-- =============================================
-     SECTION 1: HERO
-     ============================================= -->
-<section class="loc-hero">
+<style>
+  /* =========================================================
+     Subject page — premium, conversion-first (scoped to .sj-page-wrap)
+     ========================================================= */
+  .sj-page-wrap { --bg:#800020; --bg-dk:#5A001F; --cream:#fbf7ef; --ink:#1f1b18; --muted:#5f5a54; --line:#ece4d4; --gold:#FBBC05; --green:#1a7f47; }
+  .sj-page-wrap .hub-section { padding: 60px 0; }
+  .sj-page-wrap .sj-voices   { padding: 60px 0; }
+  .sj-page-wrap .sj-founders { padding: 64px 0; }
+  .sj-page-wrap .sj-trust    { padding: 0; }
+  @media (max-width: 700px) { .sj-page-wrap .hub-section, .sj-page-wrap .sj-voices, .sj-page-wrap .sj-founders { padding: 44px 0; } }
+
+  /* ---- Motion: reveal on load / scroll. No-JS + reduced-motion = always visible ---- */
+  @keyframes mxUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: none; } }
+  .sj-page-wrap.mx-anim [data-reveal] { opacity: 0; }
+  .sj-page-wrap.mx-anim [data-reveal].is-in { animation: mxUp .72s cubic-bezier(.22,.61,.36,1) both; }
+  .sj-page-wrap.mx-anim [data-reveal][data-d="1"].is-in { animation-delay: .06s; }
+  .sj-page-wrap.mx-anim [data-reveal][data-d="2"].is-in { animation-delay: .12s; }
+  .sj-page-wrap.mx-anim [data-reveal][data-d="3"].is-in { animation-delay: .18s; }
+  .sj-page-wrap.mx-anim [data-reveal][data-d="4"].is-in { animation-delay: .24s; }
+  .sj-page-wrap.mx-anim [data-reveal][data-d="5"].is-in { animation-delay: .30s; }
+  @media (prefers-reduced-motion: reduce) { .sj-page-wrap.mx-anim [data-reveal] { opacity: 1 !important; animation: none !important; } }
+
+  /* ---- Hero ---- */
+  .mxh-hero { position: relative; overflow: hidden;
+    background:
+      radial-gradient(1100px 560px at 26% -12%, rgba(245,165,36,0.14), rgba(245,165,36,0) 60%),
+      radial-gradient(760px 520px at 96% 8%, rgba(128,0,32,0.05), rgba(128,0,32,0) 62%),
+      var(--cream);
+    padding: 40px 0 52px; }
+  @media (min-width: 760px) { .mxh-hero { padding: 58px 0 66px; } }
+  .mxh-hero::after { content:""; position:absolute; left:0; right:0; bottom:0; height:1px; background:linear-gradient(90deg,transparent,rgba(128,0,32,.14),transparent); }
+  .mxh-grid { display: grid; grid-template-columns: 1.02fr 0.98fr; gap: 48px; align-items: center; }
+  @media (max-width: 940px) { .mxh-grid { grid-template-columns: 1fr; gap: 30px; max-width: 560px; margin: 0 auto; } }
+  .mxh-badge { display: inline-flex; align-items: center; gap: 7px; background: #fff; border: 1px solid var(--line); color: var(--bg); font-weight: 700; font-size: 0.8rem; padding: 6px 13px; border-radius: 999px; text-decoration: none; margin-bottom: 20px; box-shadow: 0 4px 12px rgba(35,23,17,.05); }
+  .mxh-badge svg { color: var(--gold); }
+  .mxh-copy h1 { font-size: clamp(2.2rem, 4.8vw, 3.2rem); font-weight: 800; line-height: 1.06; letter-spacing: -0.03em; color: var(--ink); margin: 0 0 12px; }
+  .mxh-underline { display:block; width:74px; height:5px; border-radius:3px; background:linear-gradient(90deg,var(--bg),var(--gold)); margin: 0 0 18px; transform-origin:left; }
+  .sj-page-wrap.mx-anim .mxh-underline.is-in { animation: mxGrow .8s .2s cubic-bezier(.22,.61,.36,1) both; }
+  @keyframes mxGrow { from { transform: scaleX(0); opacity:0; } to { transform: scaleX(1); opacity:1; } }
+  .mxh-lead { font-size: 1.12rem; line-height: 1.6; color: var(--muted); margin: 0 0 22px; max-width: 42ch; }
+  .mxh-jump { display:inline-flex; align-items:center; gap:16px; background:#fff; border:1px solid #f1e0e0; border-radius:15px; padding:12px 20px 12px 16px; box-shadow:0 12px 34px rgba(128,0,32,0.10); margin:0 0 24px; }
+  .mxh-jump__grades { display:inline-flex; align-items:center; gap:12px; }
+  .mxh-jump__g { display:inline-flex; flex-direction:column; align-items:center; line-height:1; }
+  .mxh-jump__num { font-size:1.85rem; font-weight:800; letter-spacing:-.02em; }
+  .mxh-jump__g--from .mxh-jump__num { color:#c3b8ad; }
+  .mxh-jump__g--to .mxh-jump__num { color:var(--bg); }
+  .mxh-jump__cap { font-size:.58rem; letter-spacing:.09em; text-transform:uppercase; color:#9a8f85; margin-top:4px; font-weight:800; }
+  .mxh-jump__arrow { color:var(--green); flex:0 0 auto; }
+  .mxh-jump__txt { font-size:.84rem; line-height:1.35; color:var(--muted); font-weight:600; border-left:1px solid #f1e0e0; padding-left:16px; }
+  .mxh-jump__txt small { display:block; color:#9a8f85; font-weight:500; margin-top:2px; }
+  .mxh-benefits { list-style: none; margin: 0 0 22px; padding: 0; display: grid; gap: 11px; }
+  .mxh-benefits li { display: flex; align-items: flex-start; gap: 11px; font-size: 1rem; line-height: 1.4; color: #2d2a26; font-weight: 600; }
+  .mxh-benefits svg { flex: 0 0 auto; margin-top: 2px; color: var(--green); }
+  .mxh-foot { display: flex; align-items: center; gap: 18px; flex-wrap: wrap; }
+  .mxh-phone { color: var(--bg); font-weight: 700; text-decoration: none; font-size: 0.95rem; }
+  .mxh-phone:hover { text-decoration: underline; }
+
+  .loc-hero__rating--clean { display: inline-flex; align-items: center; gap: 10px; background: #fff; border: 1px solid var(--line); border-radius: 999px; padding: 8px 15px; cursor: pointer; box-shadow: 0 4px 14px rgba(35,23,17,0.06); transition: box-shadow .18s ease, transform .18s ease; width: auto; }
+  .loc-hero__rating--clean:hover { box-shadow: 0 8px 20px rgba(35,23,17,0.11); transform: translateY(-1px); }
+  .loc-hero__rating--clean .loc-hero__stars { color: var(--gold); letter-spacing: 1.5px; font-size: 0.98rem; }
+  .loc-hero__rating--clean .loc-hero__score { font-weight: 800; color: var(--ink); font-size: 1rem; }
+  .loc-hero__rating--clean .rt-arrow { color: var(--bg); display: inline-flex; }
+
+  /* ---- Hero form card ---- */
+  .mxh-formcard { position:relative; background: #fff; border: 1px solid var(--line); border-radius: 18px; padding: 28px 26px 22px; box-shadow: 0 24px 64px rgba(35,23,17,0.14), 0 2px 6px rgba(35,23,17,0.06); }
+  .mxh-formcard::before { content:""; position:absolute; top:0; left:26px; right:26px; height:3px; border-radius:0 0 3px 3px; background:linear-gradient(90deg,var(--bg),var(--gold)); }
+  .mxh-formcard h2 { font-size: 1.4rem; font-weight: 800; color: var(--ink); margin: 6px 0 6px; letter-spacing: -0.015em; }
+  .mxh-formcard__sub { font-size: 0.9rem; line-height: 1.45; color: var(--muted); margin: 0 0 18px; }
+  .mxh-formcard .loc-form-group input, .mxh-formcard .loc-form-group textarea { width:100%; box-sizing:border-box; font-family:inherit; font-size:1rem; color:var(--ink); background:#fff; border:1.5px solid #e6ded4; border-radius:10px; padding:13px 14px; margin-bottom:12px; transition:border-color .18s, box-shadow .18s; }
+  .mxh-formcard input:focus, .mxh-formcard textarea:focus { outline:none; border-color:var(--bg); box-shadow:0 0 0 4px rgba(128,0,32,0.1); }
+
+  /* shared form bits */
+  .sj-form-submit { width: 100%; }
+  .mx-form-marks { list-style: none; margin: 14px 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: 8px 16px; }
+  .mx-form-marks li { display: inline-flex; align-items: center; gap: 6px; font-size: 0.82rem; color: var(--muted); font-weight: 600; }
+  .mx-form-marks svg { color: var(--green); flex: 0 0 auto; }
+
+  /* ---- Trust row ---- */
+  .sj-page-wrap .sj-trust { background:#fff; border-bottom:1px solid var(--line); }
+  .sj-page-wrap .sj-trust__inner { padding: 20px 0; }
+
+  /* ---- Process timeline (how it works) ---- */
+  .mx-steps { position: relative; display: grid; grid-template-columns: repeat(3, 1fr); gap: 28px; margin-top: 8px; }
+  .mx-steps::before { content:""; position:absolute; top:28px; left:16.66%; right:16.66%; height:2px; background:repeating-linear-gradient(90deg,#e3cccc 0 8px,transparent 8px 16px); z-index:0; }
+  @media (max-width: 760px) { .mx-steps { grid-template-columns: 1fr; gap: 22px; } .mx-steps::before { display:none; } }
+  .mx-step { position: relative; z-index: 1; text-align: center; padding: 0 6px; }
+  .mx-step__num { width:56px; height:56px; border-radius:50%; background:var(--bg); color:#fff; font-weight:800; font-size:1.2rem; display:flex; align-items:center; justify-content:center; margin:0 auto 18px; box-shadow:0 10px 22px rgba(128,0,32,.26); border:4px solid var(--cream); }
+  .mx-step h3 { font-size:1.15rem; font-weight:800; color:var(--ink); margin:0 0 8px; letter-spacing:-.01em; }
+  .mx-step p { font-size:.96rem; line-height:1.6; color:var(--muted); margin:0; }
+
+  /* ---- Reviews polish ---- */
+  .sj-page-wrap .sj-voice-card { position:relative; box-shadow:0 10px 30px rgba(35,23,17,.05); }
+  .sj-page-wrap .sj-voice-card__stars { color:var(--gold); }
+
+  /* ---- Final CTA ---- */
+  .mx-final { position:relative; overflow:hidden; background: radial-gradient(700px 380px at 50% -30%, rgba(245,165,36,.12), rgba(245,165,36,0) 62%), var(--cream); border-top: 1px solid var(--line); padding: 66px 24px; text-align: center; }
+  .mx-final h2 { font-size: clamp(1.7rem, 3.6vw, 2.35rem); font-weight: 800; color: var(--ink); margin: 0 0 10px; letter-spacing: -0.025em; }
+  .mx-final p { color: var(--muted); margin: 0 0 26px; font-size: 1.08rem; }
+</style>
+
+<!-- ===== HERO ===== -->
+<section class="mxh-hero">
   <div class="container">
-    <div class="loc-hero__inner">
-      <div class="loc-hero__copy">
-        {{ with $heroEyebrow }}
-        <a href="https://youtu.be/2bMD7DkUmJU" target="_blank" rel="noopener" class="loc-hero__badge">
-          <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
-          {{ . }}
-        </a>
-        {{ end }}
-        <h1>{{ $h1 }}</h1>
-        <p class="loc-hero__lead">{{ $lead }}</p>
-        <div class="loc-hero__actions">
-          <a href="#get-help" class="btn btn-primary btn-lg">{{ $ctaPrimary }}</a>
-          <a href="tel:{{ replace $ctaPhone " " "" }}" class="btn btn-outline btn-lg">Call: {{ $ctaPhone }}</a>
+    <div class="mxh-grid">
+      <div class="mxh-copy">
+        <h1 data-reveal data-d="1">{{ $h1 }}</h1>
+        <span class="mxh-underline" data-reveal data-d="1" aria-hidden="true"></span>
+        <p class="mxh-lead" data-reveal data-d="2">{{ $lead }}</p>
+        {{ if $gjFrom }}
+        <div class="mxh-jump" data-reveal data-d="3" aria-label="A real grade jump from a family we worked with: predicted {{ $gjFrom }} to achieved {{ $gjTo }}">
+          <span class="mxh-jump__grades" aria-hidden="true">
+            <span class="mxh-jump__g mxh-jump__g--from"><span class="mxh-jump__num">{{ $gjFrom }}</span><span class="mxh-jump__cap">Predicted</span></span>
+            <svg class="mxh-jump__arrow" width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12h15M13 6l6 6-6 6"/></svg>
+            <span class="mxh-jump__g mxh-jump__g--to"><span class="mxh-jump__num">{{ $gjTo }}</span><span class="mxh-jump__cap">Achieved</span></span>
+          </span>
+          <span class="mxh-jump__txt">{{ $gjText | default (printf "A real %s grade jump, in one term." $subject) }}<small>{{ with $gjName }}{{ . }}{{ with $.Params.grade_jump_role }}, {{ . }}{{ end }}{{ end }}</small></span>
         </div>
-        <p class="loc-hero__pricing">{{ $pricing }} &middot; free 40-minute consultation with Joe before you commit</p>
-        <button type="button" data-reviews-open class="loc-hero__rating" aria-label="Read our Google reviews" aria-controls="bc-reviews-drawer" aria-expanded="false">
-          <div class="loc-hero__google">
-            <svg width="60" height="20" viewBox="0 0 60 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="Google">
-              <text x="0" y="16" font-family="Arial,sans-serif" font-size="14" font-weight="700">
-                <tspan fill="#4285F4">G</tspan><tspan fill="#EA4335">o</tspan><tspan fill="#FBBC05">o</tspan><tspan fill="#4285F4">g</tspan><tspan fill="#34A853">l</tspan><tspan fill="#EA4335">e</tspan>
-              </text>
-            </svg>
-            <span class="loc-hero__google-label">Reviews</span>
-          </div>
-          <span class="loc-hero__score">5.0</span>
-          <div class="loc-hero__stars" aria-label="5 stars">★★★★★</div>
-          <span class="loc-hero__count">{{ $rating }} · Click to see them →</span>
-        </button>
-      </div>
-      <div class="loc-hero__image" aria-hidden="true">
-        <div class="loc-img-circle"></div>
-        {{ $heroResource := resources.Get (strings.TrimPrefix "/" $heroImage) }}
-        {{ if $heroResource }}
-        {{ $heroWebp1x := $heroResource.Resize "560x webp q88" }}
-        {{ $heroWebp2x := $heroResource.Resize "960x webp q88" }}
-        {{ $heroFallback := $heroResource.Resize "720x q88" }}
-        <picture class="loc-img-hero">
-          <source media="(min-width: 901px)" type="image/webp" srcset="{{ $heroWebp1x.RelPermalink }} 1x, {{ $heroWebp2x.RelPermalink }} 2x">
-          <img src="{{ $heroFallback.RelPermalink }}" alt="{{ .Params.hero_alt | default (printf "%s support from The Degree Gap" $subject) }}" class="loc-img-hero__img" width="{{ $heroFallback.Width }}" height="{{ $heroFallback.Height }}" loading="eager" decoding="async" fetchpriority="high">
-        </picture>
-        {{ else }}
-        <img src="{{ $heroImage }}" alt="{{ .Params.hero_alt | default (printf "%s support from The Degree Gap" $subject) }}" class="loc-img-hero" width="420" height="580" loading="eager" decoding="async" fetchpriority="high">
         {{ end }}
+        <div class="mxh-foot" data-reveal data-d="4">
+          <button type="button" data-reviews-open class="loc-hero__rating loc-hero__rating--clean" aria-label="Read our Google reviews" aria-controls="bc-reviews-drawer" aria-expanded="false">
+            <svg width="20" height="20" viewBox="0 0 24 24" aria-label="Google" role="img">
+              <path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92a5.06 5.06 0 0 1-2.2 3.32v2.77h3.57c2.08-1.92 3.27-4.74 3.27-8.1z"/>
+              <path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84A11 11 0 0 0 12 23z"/>
+              <path fill="#FBBC05" d="M5.84 14.1a6.6 6.6 0 0 1 0-4.2V7.06H2.18a11 11 0 0 0 0 9.88l3.66-2.84z"/>
+              <path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.06l3.66 2.84C6.71 7.31 9.14 5.38 12 5.38z"/>
+            </svg>
+            <span class="loc-hero__stars" aria-hidden="true">★★★★★</span>
+            <span class="loc-hero__score">5.0</span>
+            <span class="rt-arrow" aria-hidden="true"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+          </button>
+          <a href="tel:{{ $phoneClean }}" class="mxh-phone">or call {{ $ctaPhone }}</a>
+        </div>
+      </div>
+
+      <div class="mxh-formcard" data-reveal data-d="3">
+        <h2>{{ $ctaPrimary }}</h2>
+        <p class="mxh-formcard__sub">A 40-minute consultation. Joe calls you back within one working day, then sends two or three tutors with free trial calls.</p>
+        {{ partial "sj-lead-form.html" (dict "ctx" . "btn" $formBtn "msgPh" $msgPh "subject" $subject) }}
       </div>
     </div>
   </div>
 </section>
 
-<!-- =============================================
-     SECTION 1.5: TRUST STRIP (under the hero, above the fold on most screens)
-     ============================================= -->
+<!-- ===== TRUST ROW ===== -->
 <section class="sj-trust" aria-label="Trust signals">
   <div class="container">
-    <div class="sj-trust__inner">
+    <div class="sj-trust__inner" data-reveal>
       <div class="sj-trust__item">
-        <svg class="sj-trust__icon" viewBox="0 0 24 24" width="22" height="22" fill="#FBBC05" aria-hidden="true">
-          <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
-        </svg>
-        <div>
-          <strong>5.0 · 100+ Google reviews</strong>
-          <span>Independently verified</span>
-        </div>
+        <svg class="sj-trust__icon" viewBox="0 0 24 24" width="22" height="22" fill="#FBBC05" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+        <div><strong>5.0 on Google</strong><span>100+ verified reviews</span></div>
       </div>
       <div class="sj-trust__divider" aria-hidden="true"></div>
       <div class="sj-trust__item">
-        <svg class="sj-trust__icon" viewBox="0 0 24 24" width="22" height="22" fill="#C9A55C" aria-hidden="true">
-          <path d="M19 5h-2V3H7v2H5c-1.1 0-2 .9-2 2v1c0 2.55 1.92 4.63 4.39 4.94.63 1.5 1.98 2.63 3.61 2.96V19H7v2h10v-2h-4v-3.1c1.63-.33 2.98-1.46 3.61-2.96C19.08 12.63 21 10.55 21 8V7c0-1.1-.9-2-2-2zM5 8V7h2v3.82C5.84 10.4 5 9.3 5 8zm14 0c0 1.3-.84 2.4-2 2.82V7h2v1z"/>
-        </svg>
-        <div>
-          <strong>GCSE Specialists of the Year</strong>
-          <span>Prestige Awards 2025 and 2026</span>
-        </div>
+        <svg class="sj-trust__icon" viewBox="0 0 24 24" width="22" height="22" fill="#800020" aria-hidden="true"><path d="M9 11.24V7.5a2.5 2.5 0 0 1 5 0v3.74a6 6 0 1 1-5 0zM11.5 6.5a1 1 0 0 0-1 1v4.51l-.5.29a4 4 0 1 0 4 0l-.5-.29V7.5a1 1 0 0 0-1-1z"/></svg>
+        <div><strong>Founder-interviewed tutors</strong><span>Roughly 3% of applicants pass</span></div>
       </div>
       <div class="sj-trust__divider" aria-hidden="true"></div>
       <div class="sj-trust__item">
-        <svg class="sj-trust__icon" viewBox="0 0 24 24" width="22" height="22" fill="#800020" aria-hidden="true">
-          <path d="M8 5v14l11-7z"/>
-        </svg>
-        <div>
-          <strong>National Educational Webinars</strong>
-          <span>Watched by 5,000+ families</span>
-        </div>
+        <svg class="sj-trust__icon" viewBox="0 0 24 24" width="22" height="22" fill="#C9A55C" aria-hidden="true"><path d="M12 1l3 5 5 1-3.5 4 1 5-5.5-2.5L6.5 16l1-5L4 7l5-1z"/></svg>
+        <div><strong>5,000+ hours delivered</strong><span>GCSE, A-Level and university</span></div>
       </div>
     </div>
   </div>
 </section>
 
-<!-- =============================================
-     SECTION 2: WHY THE DEGREE GAP IS DIFFERENT
-     ============================================= -->
+<!-- ===== HOW IT WORKS (timeline) ===== -->
+<section class="hub-section hub-section--white" aria-labelledby="sj-how-title">
+  <div class="container">
+    <div class="hub-section__intro" data-reveal>
+      <p class="hub-eyebrow">From enquiry to first session</p>
+      <h2 id="sj-how-title">{{ $howHeading }}</h2>
+    </div>
+    <div class="mx-steps">
+      {{ range $i, $s := $howSteps }}
+      <div class="mx-step" data-reveal data-d="{{ add $i 1 }}">
+        <div class="mx-step__num">{{ add $i 1 }}</div>
+        <h3>{{ $s.title }}</h3>
+        <p>{{ $s.body }}</p>
+      </div>
+      {{ end }}
+    </div>
+    <div style="text-align:center;margin-top:2.4rem;" data-reveal>
+      <a href="#get-help" class="btn btn-primary btn-lg">{{ $ctaPrimary }}</a>
+    </div>
+  </div>
+</section>
+
+<!-- ===== WHY US (+ founder video) ===== -->
 <section class="hub-section hub-section--tint" aria-labelledby="sj-why-title">
   <div class="container">
     <div class="sj-why-top">
-      <div class="sj-why-top__copy">
+      <div class="sj-why-top__copy" data-reveal>
         <p class="hub-eyebrow">Why us</p>
         <h2 id="sj-why-title">{{ $whyHeading }}</h2>
         <p class="sj-why-top__lead">A 20-second video from Joe on how The Degree Gap process actually works, from your first call to the tutor your child sits with.</p>
         <a href="#get-help" class="btn btn-primary">{{ $ctaPrimary }}</a>
       </div>
-      <div class="sj-why-top__video">
+      <div class="sj-why-top__video" data-reveal data-d="2">
         <div class="loc-lite-video" data-youtube-id="5zKZLb9mFSk" data-youtube-title="Why choose The Degree Gap for {{ $subject }}">
           <a href="https://youtu.be/5zKZLb9mFSk" target="_blank" rel="noopener" class="loc-lite-video__button" aria-label="Play video: Why choose The Degree Gap">
             <img src="https://i.ytimg.com/vi/5zKZLb9mFSk/hqdefault.jpg" alt="The Degree Gap co-founder explains how tutoring works" width="480" height="360" loading="lazy" decoding="async">
-            <span class="loc-lite-video__play" aria-hidden="true">
-              <svg width="34" height="34" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
-            </span>
+            <span class="loc-lite-video__play" aria-hidden="true"><svg width="34" height="34" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></span>
           </a>
         </div>
       </div>
     </div>
     <div class="hub-method-grid">
       {{ range $i, $b := $whyBlocks }}
-      <article class="hub-method-card">
+      <article class="hub-method-card" data-reveal data-d="{{ add $i 1 }}">
         <span>{{ printf "%02d" (add $i 1) }}</span>
         <h3>{{ $b.title }}</h3>
         <p>{{ $b.body }}</p>
@@ -174,124 +248,40 @@ Frontmatter contract:
   </div>
 </section>
 
-<!-- =============================================
-     SECTION 2.4: STATS / KPI STRIP (sits between Why blocks and Founders
-     to give numerical credibility before introducing the humans)
-     ============================================= -->
-{{ with .Params.stats }}
-<section class="sj-stats" aria-label="The Degree Gap by the numbers">
-  <div class="container">
-    <div class="sj-stats__inner">
-      {{ range . }}
-      <div class="sj-stats__item">
-        <div class="sj-stats__number">{{ .number }}</div>
-        <div class="sj-stats__label">{{ .label }}</div>
-        <div class="sj-stats__body">{{ .body }}</div>
-      </div>
-      {{ end }}
-    </div>
-  </div>
-</section>
-{{ end }}
-
-<!-- =============================================
-     SECTION 2.45: PARENT VOICES (sits with Stats as the proof block, before
-     introducing the humans behind it via the Founders section)
-     ============================================= -->
+<!-- ===== REVIEWS (3) ===== -->
 {{ with .Params.voices }}
 <section class="sj-voices" aria-labelledby="sj-voices-title">
   <div class="container">
-    <div class="sj-voices__intro">
+    <div class="sj-voices__intro" data-reveal>
       {{ with $.Params.voices_eyebrow }}<p class="hub-eyebrow">{{ . }}</p>{{ end }}
       <h2 id="sj-voices-title">{{ $.Params.voices_heading | default "What parents say about us" }}</h2>
       {{ with $.Params.voices_intro }}<p>{{ . }}</p>{{ end }}
     </div>
     <div class="sj-voices__grid">
-      {{ range . }}
-      <article class="sj-voice-card">
+      {{ range $i, $v := (first 3 .) }}
+      <article class="sj-voice-card" data-reveal data-d="{{ add $i 1 }}">
         <div class="sj-voice-card__stars" aria-label="5 stars">★★★★★</div>
-        <p class="sj-voice-card__text">{{ .text }}</p>
-        <div class="sj-voice-card__author">
-          <strong>{{ .name }}</strong>
-          <span>{{ .role }}</span>
-        </div>
+        <p class="sj-voice-card__text">{{ $v.text }}</p>
+        <div class="sj-voice-card__author"><strong>{{ $v.name }}</strong><span>{{ $v.role }}</span></div>
       </article>
       {{ end }}
     </div>
-    <div class="sj-voices__footer">
-      <button type="button" data-reviews-open class="btn btn-outline" aria-controls="bc-reviews-drawer" aria-expanded="false">Read all 100+ Google reviews</button>
+    <div class="sj-voices__footer" data-reveal>
+      <button type="button" data-reviews-open class="btn btn-outline" aria-controls="bc-reviews-drawer" aria-expanded="false">Read more Google reviews</button>
     </div>
   </div>
 </section>
 {{ end }}
 
-<!-- =============================================
-     SECTION 2.47: CONTACT FORM + FAQ (right after Parent Voices)
-     ============================================= -->
-<section class="loc-contact-faq" id="get-help">
-  <div class="loc-contact-faq__inner">
-    <div class="loc-contact-faq__form-wrap">
-      <div class="loc-contact-faq__form-bg" aria-hidden="true"></div>
-      <div class="loc-contact-faq__form-card">
-        <h2>{{ .Params.form_cta | default (printf "Tell Joe what is going wrong with %s" $subject) }}</h2>
-        <p>{{ .Params.form_intro | default "He will be on a call with you within one working day. No sales pitch, no obligation. We will talk through the exam board, the predicted grade and what you have already tried, then recommend the right tutor." }}</p>
-        <p class="loc-pricing-note">Sessions start from <strong>£37 per hour</strong>. The exact rate is agreed before any session is booked.</p>
-        <form action="{{ .Site.Params.formspreeEndpoint }}" method="POST" novalidate>
-          <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
-          <div aria-hidden="true" style="position:absolute;left:-9999px;top:-9999px;width:0;height:0;overflow:hidden;opacity:0">
-            <input type="text" name="address_url" data-bait="1" tabindex="-1" autocomplete="off">
-            <input type="email" name="company_website" data-bait="1" tabindex="-1" autocomplete="off">
-          </div>
-          <input type="hidden" name="_subject" value="New enquiry from {{ $subject }} subject page | The Degree Gap Study">
-          <input type="hidden" name="_next" value="{{ "/book-a-call-thank-you/" | absURL }}">
-          <input type="hidden" name="page_url" value="{{ .RelPermalink }}">
-          <input type="hidden" name="subject" value="{{ $subject }}">
-          <div class="loc-form-group">
-            <input type="text" name="name" placeholder="Full Name*" required>
-          </div>
-          <div class="loc-form-group">
-            <input type="tel" name="phone" placeholder="Phone Number*" autocomplete="tel" required>
-          </div>
-          <div class="loc-form-group">
-            <textarea name="message" rows="4" placeholder="{{ .Params.form_message_placeholder | default "Tell us where your child is stuck — exam board, predicted grade, anything you have already tried." }}"></textarea>
-          </div>
-          <button type="submit" class="btn btn-primary loc-form-submit">{{ .Params.form_button | default "Book my free call with Joe" }}</button>
-        </form>
-      </div>
-    </div>
-
-    {{ if $faqs }}
-    <div class="loc-faq">
-      <h2>Things {{ $subject }} parents ask us</h2>
-      <div class="loc-accordion loc-accordion--faq">
-        {{ range $faqs }}
-        <details class="loc-accordion__item">
-          <summary class="loc-accordion__trigger">
-            <span>{{ .q }}</span>
-            <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
-          </summary>
-          <div class="loc-accordion__body">
-            <p>{{ .a | safeHTML }}</p>
-          </div>
-        </details>
-        {{ end }}
-      </div>
-    </div>
-    {{ end }}
-  </div>
-</section>
-
-<!-- =============================================
-     SECTION 2.5: MEET THE FOUNDERS
-     ============================================= -->
+<!-- ===== MEET THE FOUNDERS ===== -->
 {{ if .Params.founders_heading }}
 <section class="sj-founders" aria-labelledby="sj-founders-title">
   <div class="container">
     <div class="sj-founders__inner">
-      <div class="sj-founders__image">
+      <div class="sj-founders__image" data-reveal>
         {{ partial "responsive-image.html" (dict "src" (.Params.founders_image | default "/images/founders-award.jpg") "alt" (.Params.founders_image_alt | default "Joe and Harry, co-founders of The Degree Gap") "class" "sj-founders__img" "loading" "lazy" "sizes" "(min-width: 901px) 50vw, 100vw" "widths" (slice 420 760 1100) "fallbackWidth" 760 "quality" 80) }}
       </div>
-      <div class="sj-founders__copy">
+      <div class="sj-founders__copy" data-reveal data-d="2">
         {{ with .Params.founders_eyebrow }}<p class="hub-eyebrow">{{ . }}</p>{{ end }}
         <h2 id="sj-founders-title">{{ .Params.founders_heading }}</h2>
         <p>{{ .Params.founders_body }}</p>
@@ -302,201 +292,150 @@ Frontmatter contract:
 </section>
 {{ end }}
 
-<!-- =============================================
-     SECTION 3: HOW IT WORKS
-     ============================================= -->
-<section class="hub-section hub-section--white" aria-labelledby="sj-how-title">
-  <div class="container">
-    <div class="hub-section__intro">
-      <p class="hub-eyebrow">From enquiry to first session</p>
-      <h2 id="sj-how-title">{{ $howHeading }}</h2>
-    </div>
-    <div class="hub-method-grid">
-      {{ range $i, $s := $howSteps }}
-      <article class="hub-method-card">
-        <span>{{ printf "%02d" (add $i 1) }}</span>
-        <h3>{{ $s.title }}</h3>
-        <p>{{ $s.body }}</p>
-      </article>
-      {{ end }}
-    </div>
-    <div style="text-align:center;margin-top:2rem;">
-      <a href="#get-help" class="btn btn-primary btn-lg">{{ $ctaPrimary }}</a>
-    </div>
-  </div>
-</section>
-
-<!-- =============================================
-     SECTION 3.5: WHAT A FIRST SESSION LOOKS LIKE (sits right after How it Works
-     so the parent's "what happens?" arc completes before we hit proof)
-     ============================================= -->
-<section class="loc-online">
-  <div class="container">
-    <div class="loc-online__inner">
-      <div class="loc-online__image">
-        {{ partial "responsive-image.html" (dict "src" $methodImage "alt" (printf "Inside a Degree Gap %s session" $subject) "class" "loc-img-online" "loading" "lazy" "sizes" "(min-width: 901px) 50vw, 100vw" "widths" (slice 420 760 1100) "fallbackWidth" 760 "quality" 72) }}
-      </div>
-      <div class="loc-online__copy">
-        <p class="loc-eyebrow">THE FIRST SESSION</p>
-        <h2>{{ $methodHeading }}</h2>
-        <ol style="padding-left:1.25rem;margin:0 0 1.25rem;">
-          {{ range $methodSteps }}
-          <li style="margin-bottom:0.75rem;">{{ . }}</li>
-          {{ end }}
-        </ol>
-        {{ with $methodBodyAfter }}<p>{{ . }}</p>{{ end }}
-        <a href="#get-help" class="btn btn-primary">{{ $ctaPrimary }}</a>
+<!-- ===== SECOND FORM + FAQ ===== -->
+<section class="loc-contact-faq" id="get-help">
+  <div class="loc-contact-faq__inner">
+    <div class="loc-contact-faq__form-wrap" data-reveal>
+      <div class="loc-contact-faq__form-bg" aria-hidden="true"></div>
+      <div class="loc-contact-faq__form-card">
+        <h2>{{ .Params.form_cta | default (printf "Tell Joe what is going wrong with %s" $subject) }}</h2>
+        <p>{{ .Params.form_intro | default "He will be on a call with you within one working day. No sales pitch, no obligation." }}</p>
+        {{ partial "sj-lead-form.html" (dict "ctx" . "btn" $formBtn "msgPh" $msgPh "subject" $subject) }}
       </div>
     </div>
-  </div>
-</section>
-
-<!-- =============================================
-     SECTION 5: MEET A FEW OF OUR TUTORS
-     ============================================= -->
-{{ partial "gcse-tutor-strip.html" . }}
-
-<!-- =============================================
-     SECTION 6: EXAM BOARD CARDS
-     ============================================= -->
-{{ if $boards }}
-<section class="hub-section hub-section--white" aria-labelledby="sj-boards-title">
-  <div class="container">
-    <div class="hub-section__intro">
-      <p class="hub-eyebrow">Match on the spec, not just the subject</p>
-      <h2 id="sj-boards-title">{{ $boardsHeading }}</h2>
-      <p>{{ $boardsIntro }}</p>
-    </div>
-    <div class="hub-subject-grid">
-      {{ range $boards }}
-      <a href="{{ .url }}" class="hub-subject-card">
-        <span class="hub-subject-card__title">{{ .name }}</span>
-        <p>{{ .body }}</p>
-        <span class="hub-subject-card__link">See {{ .name }} {{ $subject | lower }} tutors</span>
-      </a>
-      {{ end }}
-    </div>
-  </div>
-</section>
-{{ end }}
-
-<!-- =============================================
-     SECTION 8: PRICING TRUST STRIP
-     ============================================= -->
-<section class="sj-pricing hub-section--tint">
-  <div class="container">
-    <div class="sj-pricing__inner">
-      <p class="hub-eyebrow">Pricing</p>
-      <h2 class="sj-pricing__heading">{{ $pricingHeading }}</h2>
-      <p class="sj-pricing__body">{{ $pricingBody }}</p>
-      {{ with .Params.pricing_marks }}
-      <ul class="sj-pricing__marks" role="list">
-        {{ range . }}
-        <li>
-          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12l5 5L20 7"/></svg>
-          <span>{{ . }}</span>
-        </li>
+    {{ if $faqs }}
+    <div class="loc-faq" data-reveal data-d="2">
+      <h2>Things {{ $subject }} parents ask us</h2>
+      <div class="loc-accordion loc-accordion--faq">
+        {{ range $faqs }}
+        <details class="loc-accordion__item">
+          <summary class="loc-accordion__trigger">
+            <span>{{ .q }}</span>
+            <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
+          </summary>
+          <div class="loc-accordion__body"><p>{{ .a | safeHTML }}</p></div>
+        </details>
         {{ end }}
-      </ul>
-      {{ end }}
-      <a href="#get-help" class="btn btn-primary btn-lg sj-pricing__cta">{{ $ctaPrimary }}</a>
-    </div>
-  </div>
-</section>
-
-<!-- =============================================
-     SECTION 8.5: FIND A LOCAL TUTOR
-     Lets a parent on the subject page jump to the location page
-     for their area, or browse all locations. Mirrors the homepage
-     Local Tutoring section's pattern + styling.
-     ============================================= -->
-{{ $locationPages := where .Site.Pages "Section" "locations" }}
-{{ $locationPages = where $locationPages "Kind" "section" }}
-{{ $locationPages = where $locationPages "Params.layout" "single" }}
-{{ if $locationPages }}
-<section class="home-section home-locations-section" aria-labelledby="sj-locations-title">
-  <div class="container">
-    <div class="home-section__header">
-      <div>
-        <p class="pp-eyebrow">Find a local tutor</p>
-        <h2 id="sj-locations-title">{{ $subject }} tutoring in your area</h2>
-        <p class="home-section__lead">We match families across the UK with vetted {{ $subject }} tutors. Click through to your nearest area for the local schools we know and the exam boards we match on.</p>
       </div>
-      <a href="/locations/" class="btn btn-outline">View all locations →</a>
     </div>
-    <div class="home-locations-grid">
-      {{ $cards := slice }}
-      {{ range ($locationPages.ByParam "location") }}
-        {{ if ne .RelPermalink "/locations/" }}
-          {{ $cards = $cards | append . }}
-        {{ end }}
-      {{ end }}
-      {{ range first 12 $cards }}
-      <a href="{{ .RelPermalink }}" class="home-location-card">
-        <span class="home-location-card__name">{{ .Params.location | default .Title }}</span>
-        <span class="home-location-card__link">Find a tutor →</span>
-      </a>
-      {{ end }}
+    {{ end }}
+  </div>
+</section>
+
+<!-- ===== KEEP EXPLORING (auto-generated internal links) ===== -->
+{{ $all := where (where (where .Site.Pages "Section" "subjects") "Kind" "section") "Params.layout" "single" }}
+{{ $lvl := .Params.level | default "" }}
+{{ $core := "" }}
+{{ if eq $lvl "GCSE" }}{{ $core = strings.TrimPrefix "GCSE " .Params.subject }}{{ else if eq $lvl "A-Level" }}{{ $core = strings.TrimPrefix "A-Level " .Params.subject }}{{ end }}
+{{ $sibling := false }}
+{{ if ne $core "" }}
+  {{ $sibName := printf "%s %s" (cond (eq $lvl "GCSE") "A-Level" "GCSE") $core }}
+  {{ with (where $all "Params.subject" $sibName) }}{{ $sibling = index . 0 }}{{ end }}
+{{ end }}
+{{ $peers := slice }}
+{{ range (where $all "Params.level" $lvl).ByParam "subject" }}{{ if ne .RelPermalink $.RelPermalink }}{{ $peers = $peers | append . }}{{ end }}{{ end }}
+{{ if lt (len $peers) 4 }}{{ range $all.ByParam "subject" }}{{ if and (ne .RelPermalink $.RelPermalink) (not (in $peers .)) }}{{ $peers = $peers | append . }}{{ end }}{{ end }}{{ end }}
+<style>
+  .mx-related { background:#fff; border-top:1px solid var(--line); padding:54px 24px; }
+  .mx-related__inner { max-width:940px; margin:0 auto; text-align:center; }
+  .mx-related h2 { font-size:clamp(1.4rem,3vw,1.9rem); font-weight:800; letter-spacing:-0.02em; color:var(--ink); margin:0 0 6px; }
+  .mx-related__sub { color:var(--muted); margin:0 0 26px; }
+  .mx-related__feat { display:inline-flex; align-items:center; gap:9px; max-width:100%; margin:0 auto 24px; background:var(--cream); border:1px solid #f0e0e0; border-radius:14px; padding:16px 24px; text-decoration:none; color:var(--ink); font-weight:700; box-shadow:0 8px 24px rgba(128,0,32,.07); transition:transform .18s, box-shadow .18s; }
+  .mx-related__feat:hover { transform:translateY(-1px); box-shadow:0 12px 28px rgba(128,0,32,.12); }
+  .mx-related__feat span { color:var(--bg); }
+  .mx-related__grid { display:flex; flex-wrap:wrap; justify-content:center; gap:10px; margin:0 0 24px; }
+  .mx-related__pill { display:inline-flex; align-items:center; background:#fff; border:1px solid var(--line); border-radius:999px; padding:9px 16px; font-size:.9rem; font-weight:600; color:var(--ink); text-decoration:none; transition:border-color .15s, color .15s, transform .15s; }
+  .mx-related__pill:hover { border-color:#e6c9c9; color:var(--bg); transform:translateY(-1px); }
+  .mx-related__nav { display:flex; gap:8px 26px; justify-content:center; flex-wrap:wrap; }
+  .mx-related__nav a { color:var(--bg); font-weight:700; text-decoration:none; font-size:.95rem; }
+  .mx-related__nav a:hover { text-decoration:underline; }
+</style>
+<section class="mx-related" data-reveal>
+  <div class="mx-related__inner">
+    <h2>Keep exploring</h2>
+    <p class="mx-related__sub">Other subjects our tutors cover, and how to find the right person for your child.</p>
+    {{ if $sibling }}
+    <a class="mx-related__feat" href="{{ $sibling.RelPermalink }}">Also tutoring {{ $sibling.Params.subject }} <span>&rarr;</span></a>
+    {{ end }}
+    {{ with $peers }}
+    <div class="mx-related__grid">
+      {{ range first 8 . }}<a class="mx-related__pill" href="{{ .RelPermalink }}">{{ .Params.subject }}</a>{{ end }}
+    </div>
+    {{ end }}
+    <div class="mx-related__nav">
+      <a href="/subjects/">Browse all subjects &rarr;</a>
+      <a href="/locations/">Find a tutor in your area &rarr;</a>
+      <a href="/personal-statement-tutor/">University applications &rarr;</a>
     </div>
   </div>
 </section>
-{{ end }}
 
-{{/* Form + FAQ section moved higher up (right after the Trust strip).
-     Reviews drawer (already used in location pages) */}}
+<!-- ===== FINAL CTA ===== -->
+<section class="mx-final">
+  <div data-reveal>
+    <h2>{{ .Params.final_cta_heading | default (cond (in (slice "GCSE" "A-Level") (.Params.level | default "")) (printf "Ready to move the %s grade?" $subject) (printf "Ready to find the right %s tutor?" $subject)) }}</h2>
+    <p>One free 40-minute call with Joe. Trial two or three tutors before you pay a penny.</p>
+    <a href="#get-help" class="btn btn-primary btn-lg">{{ $ctaPrimary }}</a>
+  </div>
+</section>
+
 {{ partial "reviews-drawer.html" . }}
 
 </div><!-- /.sj-page-wrap -->
 
-<!-- =============================================
-     STICKY MOBILE CTA BAR (appears on scroll past hero)
-     ============================================= -->
+<!-- ===== STICKY MOBILE CTA BAR ===== -->
 <div class="sj-sticky-cta" data-sj-sticky-cta hidden>
-  <a href="/book-a-call/" class="sj-sticky-cta__btn">Book my free call with Joe</a>
+  <a href="#get-help" class="sj-sticky-cta__btn">Book my free call with Joe</a>
   <a href="tel:+447859965776" class="sj-sticky-cta__phone" aria-label="Call now on 07859 965776">
-    <svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor" aria-hidden="true">
-      <path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/>
-    </svg>
+    <svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor" aria-hidden="true"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
   </a>
 </div>
 
 <script>
+/* Orchestrated reveals: hero animates on load, sections animate as they scroll
+   into view. No-JS and prefers-reduced-motion both leave everything visible. */
+(function(){
+  var wrap = document.querySelector('.sj-page-wrap');
+  if (!wrap) return;
+  var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if (reduce || !('IntersectionObserver' in window)) return;
+  wrap.classList.add('mx-anim');
+  var items = wrap.querySelectorAll('[data-reveal]');
+  var hero = wrap.querySelector('.mxh-hero');
+  var io = new IntersectionObserver(function(entries){
+    entries.forEach(function(e){ if (e.isIntersecting){ e.target.classList.add('is-in'); io.unobserve(e.target); } });
+  }, { rootMargin: '0px 0px -8% 0px', threshold: 0.08 });
+  items.forEach(function(el){
+    if (hero && hero.contains(el)) { el.classList.add('is-in'); }  /* hero reveals immediately */
+    else { io.observe(el); }
+  });
+})();
+
+/* Sticky mobile CTA */
 (function(){
   var bar = document.querySelector('[data-sj-sticky-cta]');
   if (!bar) return;
-  var hero = document.querySelector('.loc-hero');
+  var hero = document.querySelector('.mxh-hero');
   if (!hero || !('IntersectionObserver' in window)) {
-    // Fallback: just show after first scroll
     var shown = false;
     window.addEventListener('scroll', function(){
       if (shown) return;
-      if (window.scrollY > 400) {
-        bar.hidden = false;
-        requestAnimationFrame(function(){ bar.setAttribute('data-sj-sticky-cta-visible', ''); });
-        shown = true;
-      }
+      if (window.scrollY > 500) { bar.hidden = false; requestAnimationFrame(function(){ bar.setAttribute('data-sj-sticky-cta-visible', ''); }); shown = true; }
     }, { passive: true });
     return;
   }
   var observer = new IntersectionObserver(function(entries){
     entries.forEach(function(entry){
-      if (entry.isIntersecting) {
-        bar.removeAttribute('data-sj-sticky-cta-visible');
-      } else {
-        bar.hidden = false;
-        requestAnimationFrame(function(){ bar.setAttribute('data-sj-sticky-cta-visible', ''); });
-      }
+      if (entry.isIntersecting) { bar.removeAttribute('data-sj-sticky-cta-visible'); }
+      else { bar.hidden = false; requestAnimationFrame(function(){ bar.setAttribute('data-sj-sticky-cta-visible', ''); }); }
     });
   }, { rootMargin: '0px 0px -80px 0px' });
   observer.observe(hero);
-  // Mark body so we can push the WhatsApp FAB up on mobile when the bar is in play
   document.body.classList.add('has-sticky-cta');
 })();
 </script>
 
-<!-- =============================================
-     STRUCTURED DATA
-     ============================================= -->
+<!-- ===== STRUCTURED DATA ===== -->
 {{ if $faqs }}
 <script type="application/ld+json">
 {
@@ -521,27 +460,11 @@ Frontmatter contract:
   "name": "{{ $subject }} Tutoring | The Degree Gap",
   "description": {{ .Description | jsonify }},
   "url": "{{ .Permalink }}",
-  "provider": {
-    "@type": "EducationalOrganization",
-    "@id": "https://study.thedegreegap.com/#organization",
-    "name": "The Degree Gap",
-    "url": "https://thedegreegap.com"
-  },
+  "provider": { "@type": "EducationalOrganization", "@id": "https://study.thedegreegap.com/#organization", "name": "The Degree Gap", "url": "https://thedegreegap.com" },
   "serviceType": "Online Tutoring",
   "audience": { "@type": "EducationalAudience", "educationalRole": "student" },
   "availableChannel": { "@type": "ServiceChannel", "serviceUrl": "{{ .Permalink }}", "availableLanguage": "English" },
-  "offers": {
-    "@type": "Offer",
-    "priceCurrency": "GBP",
-    "price": "37",
-    "priceSpecification": {
-      "@type": "UnitPriceSpecification",
-      "price": "37",
-      "priceCurrency": "GBP",
-      "unitText": "per hour",
-      "minPrice": "37"
-    }
-  }
+  "offers": { "@type": "Offer", "priceCurrency": "GBP", "price": "37", "priceSpecification": { "@type": "UnitPriceSpecification", "price": "37", "priceCurrency": "GBP", "unitText": "per hour", "minPrice": "37" } }
 }
 </script>
 {{ end }}

@@ -680,6 +680,23 @@ collections:
           - { name: "form_source", label: "Form source tag", widget: "string" }
           - { name: "body", label: "Body content (for SEO + internal links)", widget: "markdown", required: false, hint: "Optional. Renders as a 'Further reading' section between the parent/child split and the registration form. Use the link button in the toolbar to add internal links to other pages (e.g. /personal-statement-tutor/ or /locations/birmingham-tutors/)." }
 
+      - file: "content/gcse-summit.md"
+        label: "GCSE Summit — A Parent's Guide (signup)"
+        name: "gcse-summit"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+          - { name: "layout", label: "Layout", widget: "hidden", default: "gcse-summit" }
+          - { name: "webinar_date", label: "Webinar start (ISO datetime)", widget: "datetime" }
+          - { name: "webinar_end_date", label: "Webinar end (ISO datetime)", widget: "datetime" }
+          - { name: "webinar_date_display", label: "Display date", widget: "string", hint: "e.g. 28 January" }
+          - { name: "webinar_time_display", label: "Display time", widget: "string", hint: "e.g. 7–8pm (UK time)" }
+          - { name: "youtube_id", label: "YouTube video ID (90-second overview)", widget: "string", hint: "The 11-character ID from the video URL, e.g. UnBjkc345CY" }
+          - { name: "free_resources_url", label: "Free resources button URL", widget: "string", default: "/past-papers/" }
+          - { name: "form_source", label: "Form source tag", widget: "string" }
+          - { name: "lead_source", label: "Zoho Lead Source", widget: "string", hint: "e.g. January Webinar" }
+          - { name: "body", label: "Body content (optional SEO section)", widget: "markdown", required: false }
+
       - file: "content/gcse-results-day-webinar-thanks.md"
         label: "GCSE Results Day Webinar — Thank You"
         name: "gcse-results-day-webinar-thanks"

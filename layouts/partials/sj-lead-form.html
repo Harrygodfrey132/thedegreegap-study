@@ -1,0 +1,20 @@
+{{/* Reusable subject-page lead form (Formspree). dict: ctx, btn, msgPh, subject */}}
+<form action="{{ .ctx.Site.Params.formspreeEndpoint }}" method="POST" novalidate>
+  <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
+  <div aria-hidden="true" style="position:absolute;left:-9999px;top:-9999px;width:0;height:0;overflow:hidden;opacity:0">
+    <input type="text" name="address_url" data-bait="1" tabindex="-1" autocomplete="off">
+  </div>
+  <input type="hidden" name="_subject" value="New enquiry from {{ .subject }} subject page | The Degree Gap Study">
+  <input type="hidden" name="_next" value="{{ "/book-a-call-thank-you/" | absURL }}">
+  <input type="hidden" name="page_url" value="{{ .ctx.RelPermalink }}">
+  <input type="hidden" name="subject" value="{{ .subject }}">
+  <div class="loc-form-group"><input type="text" name="name" placeholder="Full name*" required></div>
+  <div class="loc-form-group"><input type="tel" name="phone" placeholder="Phone number*" autocomplete="tel" required></div>
+  <div class="loc-form-group"><textarea name="message" rows="3" placeholder="{{ .msgPh }}"></textarea></div>
+  <button type="submit" class="btn btn-primary sj-form-submit">{{ .btn }}</button>
+  <ul class="mx-form-marks">
+    <li><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12l5 5L20 7"/></svg>Free consultation</li>
+    <li><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12l5 5L20 7"/></svg>No card, no obligation</li>
+    <li><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12l5 5L20 7"/></svg>Reply within 1 working day</li>
+  </ul>
+</form>

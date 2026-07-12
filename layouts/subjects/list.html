@@ -1,0 +1,144 @@
+{{ define "main" }}
+{{/* Subjects hub — auto-lists every subject page, grouped GCSE / A-Level / Specialised. */}}
+{{ $subjectPages := where .Site.Pages "Section" "subjects" }}
+{{ $subjectPages = where $subjectPages "Kind" "section" }}
+{{ $subjectPages = where $subjectPages "Params.layout" "single" }}
+{{ $gcse   := where $subjectPages "Params.level" "GCSE" }}
+{{ $alevel := where $subjectPages "Params.level" "A-Level" }}
+{{ $spec   := $subjectPages | complement $gcse $alevel }}
+
+<div class="sh-page">
+
+<style>
+  .sh-page { --bg:#800020; --bg-dk:#5A001F; --cream:#fbf7ef; --ink:#1f1b18; --muted:#5f5a54; --line:#ece4d4; --gold:#FBBC05;
+    font-family: 'Poppins', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: var(--ink); background: var(--cream); }
+  .sh-page * { box-sizing: border-box; }
+  .sh-wrap { max-width: 1140px; margin: 0 auto; padding: 0 24px; }
+
+  /* Hero */
+  .sh-hero { position: relative; overflow: hidden; text-align: center;
+    background: radial-gradient(1100px 560px at 50% -20%, rgba(245,165,36,0.13), rgba(245,165,36,0) 60%), var(--cream);
+    padding: 56px 0 44px; border-bottom: 1px solid var(--line); }
+  @media (min-width: 760px) { .sh-hero { padding: 76px 0 58px; } }
+  .sh-eyebrow { display:inline-block; font-size:.74rem; font-weight:800; letter-spacing:.2em; text-transform:uppercase; color:var(--bg); margin:0 0 16px; }
+  .sh-hero h1 { font-size: clamp(2.1rem, 4.6vw, 3.1rem); font-weight:800; line-height:1.08; letter-spacing:-0.028em; color:var(--ink); margin:0 auto 16px; max-width:18ch; text-wrap:balance; }
+  .sh-hero__lead { font-size:1.12rem; line-height:1.6; color:var(--muted); max-width:60ch; margin:0 auto 26px; }
+  .sh-cta { display:inline-flex; align-items:center; gap:9px; background:var(--bg); color:var(--cream); font-weight:700; font-size:1rem; padding:15px 28px; border-radius:999px; text-decoration:none; box-shadow:0 8px 22px rgba(128,0,32,.18); transition:transform .18s, background .18s, box-shadow .18s; }
+  .sh-cta:hover { background:var(--bg-dk); transform:translateY(-1px); box-shadow:0 12px 26px rgba(128,0,32,.22); }
+  .sh-cta svg { transition:transform .18s; } .sh-cta:hover svg { transform:translateX(2px); }
+  .sh-trust { margin:22px 0 0; font-size:.86rem; color:var(--muted); }
+  .sh-trust strong { color:var(--ink); font-weight:700; } .sh-trust .sh-stars { color:var(--gold); letter-spacing:1px; }
+
+  /* Groups */
+  .sh-group { padding: 52px 0; }
+  .sh-group:nth-child(even) { background:#fff; border-top:1px solid var(--line); border-bottom:1px solid var(--line); }
+  .sh-group__head { margin:0 0 26px; }
+  .sh-group__label { display:inline-block; font-size:.72rem; font-weight:800; letter-spacing:.16em; text-transform:uppercase; color:var(--bg); margin:0 0 8px; }
+  .sh-group h2 { font-size: clamp(1.5rem, 3vw, 2rem); font-weight:800; letter-spacing:-0.02em; color:var(--ink); margin:0; }
+  .sh-group__note { font-size:1rem; color:var(--muted); margin:8px 0 0; }
+
+  .sh-grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(215px, 1fr)); gap:16px; }
+  .sh-card { display:flex; flex-direction:column; justify-content:space-between; gap:20px; min-height:120px;
+    background:#fff; border:1px solid var(--line); border-radius:14px; padding:20px 20px 18px; text-decoration:none; color:var(--ink);
+    box-shadow:0 6px 18px rgba(35,23,17,.04); transition:transform .18s, box-shadow .18s, border-color .18s; }
+  .sh-group:nth-child(even) .sh-card { background:var(--cream); }
+  .sh-card:hover { transform:translateY(-3px); border-color:#e6c9c9; box-shadow:0 16px 34px rgba(128,0,32,.10); }
+  .sh-card__name { font-size:1.12rem; font-weight:700; letter-spacing:-0.01em; line-height:1.2; }
+  .sh-card__go { display:inline-flex; align-items:center; gap:7px; font-size:.82rem; font-weight:700; color:var(--bg); }
+  .sh-card__go svg { transition:transform .18s; } .sh-card:hover .sh-card__go svg { transform:translateX(3px); }
+
+  /* Closing CTA */
+  .sh-final { text-align:center; padding:66px 24px; background: radial-gradient(700px 380px at 50% -30%, rgba(245,165,36,.1), rgba(245,165,36,0) 62%), var(--cream); border-top:1px solid var(--line); }
+  .sh-final h2 { font-size:clamp(1.6rem,3.4vw,2.2rem); font-weight:800; letter-spacing:-0.022em; color:var(--ink); margin:0 0 10px; }
+  .sh-final p { color:var(--muted); font-size:1.05rem; margin:0 0 24px; }
+</style>
+
+{{ $goArrow := `<span class="sh-card__go">Find a tutor <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>` }}
+
+<!-- HERO -->
+<section class="sh-hero">
+  <div class="sh-wrap">
+    <p class="sh-eyebrow">{{ .Params.hero_eyebrow | default "Every subject, one standard" }}</p>
+    <h1>{{ .Params.hero_heading | default "Expert tutors for every subject your child studies" }}</h1>
+    <p class="sh-hero__lead">{{ .Params.hero_lead | default "GCSE, A-Level and specialist support, matched to the exact exam board and to the way your child learns." }}</p>
+    <a href="/book-a-call/" class="sh-cta">Book your free call with Joe <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg></a>
+    <p class="sh-trust"><span class="sh-stars" aria-hidden="true">★★★★★</span> <strong>5.0</strong> on Google &middot; GCSE Specialists of the Year 2025 &amp; 2026</p>
+  </div>
+</section>
+
+<!-- GCSE -->
+{{ with $gcse }}
+<section class="sh-group">
+  <div class="sh-wrap">
+    <div class="sh-group__head">
+      <span class="sh-group__label">GCSE</span>
+      <h2>GCSE subject tutors</h2>
+      <p class="sh-group__note">Matched to your child's exam board, from £37 an hour.</p>
+    </div>
+    <div class="sh-grid">
+      {{ range .ByParam "subject" }}
+      <a href="{{ .RelPermalink }}" class="sh-card">
+        <span class="sh-card__name">{{ strings.TrimPrefix "GCSE " .Params.subject }}</span>
+        {{ $goArrow | safeHTML }}
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<!-- A-LEVEL -->
+{{ with $alevel }}
+<section class="sh-group">
+  <div class="sh-wrap">
+    <div class="sh-group__head">
+      <span class="sh-group__label">A-Level</span>
+      <h2>A-Level subject tutors</h2>
+      <p class="sh-group__note">Depth, evaluation and the UCAS grades that follow.</p>
+    </div>
+    <div class="sh-grid">
+      {{ range .ByParam "subject" }}
+      <a href="{{ .RelPermalink }}" class="sh-card">
+        <span class="sh-card__name">{{ strings.TrimPrefix "A-Level " .Params.subject }}</span>
+        {{ $goArrow | safeHTML }}
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<!-- SPECIALISED -->
+<section class="sh-group">
+  <div class="sh-wrap">
+    <div class="sh-group__head">
+      <span class="sh-group__label">Specialist support</span>
+      <h2>Beyond the exam subjects</h2>
+      <p class="sh-group__note">Entrance exams, reading, additional needs and university applications.</p>
+    </div>
+    <div class="sh-grid">
+      {{ range $spec.ByParam "subject" }}
+      <a href="{{ .RelPermalink }}" class="sh-card">
+        <span class="sh-card__name">{{ .Params.subject }}</span>
+        {{ $goArrow | safeHTML }}
+      </a>
+      {{ end }}
+      <a href="/personal-statement-tutor/" class="sh-card">
+        <span class="sh-card__name">UCAS Personal Statement</span>
+        {{ $goArrow | safeHTML }}
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- CLOSING CTA -->
+<section class="sh-final">
+  <div class="sh-wrap">
+    <h2>Not sure which tutor is right?</h2>
+    <p>Start with a free 40-minute call with co-founder Joe. He will point you the right way, whichever subject it is.</p>
+    <a href="/book-a-call/" class="sh-cta">Book your free call with Joe <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg></a>
+  </div>
+</section>
+
+</div>
+{{ end }}
