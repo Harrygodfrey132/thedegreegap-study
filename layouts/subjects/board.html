@@ -1,0 +1,243 @@
+{{ define "main" }}
+{{/*
+Exam-board sub-page (e.g. /subjects/gcse-maths-tutor/aqa/). Conversion-first,
+but the core value is a real board-specific assessment breakdown — the papers,
+weighting and pitfalls for THIS exact board. Reusable across board/subject combos.
+*/}}
+{{ $board   := .Params.board | default "" }}
+{{ $subject := .Params.subject | default .Title }}
+{{ $h1      := .Params.banner_heading | default (printf "%s %s Tutors" $board $subject) }}
+{{ $lead    := .Params.banner_description | default "" }}
+{{ $ctaPrimary := .Params.banner_cta_primary | default "Book your free call with Joe" }}
+{{ $ctaPhone   := .Params.banner_cta_secondary | default "07859 965776" }}
+{{ $phoneClean := replace $ctaPhone " " "" }}
+{{ $pricing := .Params.pricing_note | default "From £37/hr" }}
+{{ $formBtn := .Params.form_button | default "Book my free call with Joe" }}
+{{ $msgPh   := .Params.form_message_placeholder | default (printf "Where is your child stuck with %s %s? Predicted grade, the topics slipping, anything you have tried." $board $subject) }}
+{{ $gjFrom := .Params.grade_jump_from }}{{ $gjTo := .Params.grade_jump_to }}{{ $gjName := .Params.grade_jump_name }}{{ $gjText := .Params.grade_jump_text }}
+{{ $parent := .Parent }}
+{{ $siblings := where (where .Site.Pages "Params.layout" "board") "Params.subject" $subject }}
+
+<div class="sj-page-wrap">
+<style>
+  .sj-page-wrap { --bg:#800020; --bg-dk:#5A001F; --cream:#fbf7ef; --ink:#1f1b18; --muted:#5f5a54; --line:#ece4d4; --gold:#FBBC05; --green:#1a7f47; }
+  .sj-page-wrap .hub-section { padding: 58px 0; }
+  .sj-page-wrap .sj-voices { padding: 58px 0; } .sj-page-wrap .sj-founders { padding: 60px 0; }
+
+  .bh-hero { position:relative; overflow:hidden; background: radial-gradient(1000px 520px at 26% -12%, rgba(245,165,36,.13), rgba(245,165,36,0) 60%), var(--cream); padding: 38px 0 50px; }
+  @media (min-width:760px){ .bh-hero{ padding:54px 0 60px; } }
+  .bh-grid { display:grid; grid-template-columns:1.02fr .98fr; gap:48px; align-items:center; }
+  @media (max-width:940px){ .bh-grid{ grid-template-columns:1fr; gap:30px; max-width:560px; margin:0 auto; } }
+  .bh-eyebrow { display:inline-flex; align-items:center; gap:8px; background:#fff; border:1px solid var(--line); color:var(--bg); font-weight:800; font-size:.72rem; letter-spacing:.12em; text-transform:uppercase; padding:6px 13px; border-radius:999px; margin:0 0 18px; }
+  .bh-copy h1 { font-size:clamp(2rem,4.4vw,2.95rem); font-weight:800; line-height:1.08; letter-spacing:-0.028em; color:var(--ink); margin:0 0 14px; }
+  .bh-lead { font-size:1.1rem; line-height:1.6; color:var(--muted); margin:0 0 22px; max-width:42ch; }
+  .bh-foot { display:flex; align-items:center; gap:18px; flex-wrap:wrap; }
+  .bh-rating { display:inline-flex; align-items:center; gap:9px; background:#fff; border:1px solid var(--line); border-radius:999px; padding:8px 14px; font-size:.95rem; }
+  .bh-rating .st { color:var(--gold); letter-spacing:1.5px; } .bh-rating b { color:var(--ink); }
+  .bh-phone { color:var(--bg); font-weight:700; text-decoration:none; font-size:.95rem; } .bh-phone:hover{ text-decoration:underline; }
+  .bh-jump { display:inline-flex; align-items:center; gap:16px; background:#fff; border:1px solid #f1e0e0; border-radius:15px; padding:12px 20px 12px 16px; box-shadow:0 12px 34px rgba(128,0,32,.1); margin:0 0 22px; }
+  .bh-jump .g { display:inline-flex; flex-direction:column; align-items:center; line-height:1; }
+  .bh-jump .n { font-size:1.8rem; font-weight:800; } .bh-jump .from .n{ color:#c3b8ad; } .bh-jump .to .n{ color:var(--bg); }
+  .bh-jump .c { font-size:.56rem; letter-spacing:.09em; text-transform:uppercase; color:#9a8f85; margin-top:4px; font-weight:800; }
+  .bh-jump .t { font-size:.82rem; line-height:1.35; color:var(--muted); font-weight:600; border-left:1px solid #f1e0e0; padding-left:16px; } .bh-jump .t small{ display:block; color:#9a8f85; font-weight:500; }
+  .bh-card { position:relative; background:#fff; border:1px solid var(--line); border-radius:18px; padding:28px 26px 22px; box-shadow:0 24px 64px rgba(35,23,17,.14); }
+  .bh-card::before { content:""; position:absolute; top:0; left:26px; right:26px; height:3px; border-radius:0 0 3px 3px; background:linear-gradient(90deg,var(--bg),var(--gold)); }
+  .bh-card h2 { font-size:1.4rem; font-weight:800; color:var(--ink); margin:6px 0 6px; }
+  .bh-card__sub { font-size:.9rem; line-height:1.45; color:var(--muted); margin:0 0 18px; }
+  .bh-card .loc-form-group input, .bh-card .loc-form-group textarea { width:100%; box-sizing:border-box; font-family:inherit; font-size:1rem; color:var(--ink); background:#fff; border:1.5px solid #e6ded4; border-radius:10px; padding:13px 14px; margin-bottom:12px; }
+  .bh-card input:focus, .bh-card textarea:focus { outline:none; border-color:var(--bg); box-shadow:0 0 0 4px rgba(128,0,32,.1); }
+  .sj-form-submit { width:100%; }
+  .mx-form-marks { list-style:none; margin:14px 0 0; padding:0; display:flex; flex-wrap:wrap; gap:8px 16px; }
+  .mx-form-marks li { display:inline-flex; align-items:center; gap:6px; font-size:.82rem; color:var(--muted); font-weight:600; } .mx-form-marks svg{ color:var(--green); }
+
+  .sj-page-wrap .sj-trust { background:#fff; border-top:1px solid var(--line); border-bottom:1px solid var(--line); } .sj-page-wrap .sj-trust__inner{ padding:20px 0; }
+
+  /* Assessment / papers — the board-specific core */
+  .bd-assess { padding:60px 0; background:#fff; }
+  .bd-assess__intro { max-width:760px; margin:0 auto 34px; text-align:center; }
+  .bd-assess__intro .eb { display:inline-block; font-size:.72rem; font-weight:800; letter-spacing:.16em; text-transform:uppercase; color:var(--bg); margin:0 0 10px; }
+  .bd-assess__intro h2 { font-size:clamp(1.6rem,3.4vw,2.2rem); font-weight:800; letter-spacing:-0.02em; color:var(--ink); margin:0 0 12px; text-wrap:balance; }
+  .bd-assess__intro p { font-size:1.05rem; line-height:1.65; color:var(--muted); margin:0; }
+  .bd-papers { display:grid; grid-template-columns:repeat(auto-fit, minmax(250px, 1fr)); gap:18px; max-width:1000px; margin:0 auto; }
+  .bd-paper { background:var(--cream); border:1px solid var(--line); border-radius:14px; padding:24px 22px; }
+  .bd-paper__name { display:flex; align-items:center; gap:10px; font-size:1.08rem; font-weight:800; color:var(--ink); margin:0 0 10px; }
+  .bd-paper__name::before { content:""; width:8px; height:8px; border-radius:50%; background:var(--bg); flex:0 0 auto; }
+  .bd-paper p { font-size:.98rem; line-height:1.6; color:var(--muted); margin:0; }
+
+  .bd-related { background:var(--cream); border-top:1px solid var(--line); padding:52px 24px; text-align:center; }
+  .bd-related__inner { max-width:900px; margin:0 auto; }
+  .bd-related h2 { font-size:1.5rem; font-weight:800; color:var(--ink); margin:0 0 6px; }
+  .bd-related__sub { color:var(--muted); margin:0 0 24px; }
+  .bd-related__grid { display:flex; flex-wrap:wrap; justify-content:center; gap:12px; }
+  .bd-related__card { display:inline-flex; align-items:center; gap:8px; background:#fff; border:1px solid var(--line); border-radius:999px; padding:11px 20px; font-weight:700; color:var(--ink); text-decoration:none; transition:border-color .15s,color .15s,transform .15s; }
+  .bd-related__card:hover { border-color:#e6c9c9; color:var(--bg); transform:translateY(-1px); }
+  .bd-related__card--parent { background:var(--bg); color:#fff; } .bd-related__card--parent:hover{ background:var(--bg-dk); color:#fff; }
+
+  .mx-final { background: radial-gradient(700px 380px at 50% -30%, rgba(245,165,36,.1), rgba(245,165,36,0) 62%), var(--cream); border-top:1px solid var(--line); padding:64px 24px; text-align:center; }
+  .mx-final h2 { font-size:clamp(1.6rem,3.4vw,2.2rem); font-weight:800; letter-spacing:-0.022em; color:var(--ink); margin:0 0 10px; }
+  .mx-final p { color:var(--muted); margin:0 0 24px; font-size:1.05rem; }
+</style>
+
+<!-- HERO -->
+<section class="bh-hero">
+  <div class="container">
+    <div class="bh-grid">
+      <div class="bh-copy">
+        <span class="bh-eyebrow">{{ $board }} board specialist</span>
+        <h1>{{ $h1 }}</h1>
+        <p class="bh-lead">{{ $lead }}</p>
+        {{ if $gjFrom }}
+        <div class="bh-jump" aria-label="A real grade jump: {{ $gjFrom }} to {{ $gjTo }}">
+          <span class="g from"><span class="n">{{ $gjFrom }}</span><span class="c">Predicted</span></span>
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#1a7f47" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12h15M13 6l6 6-6 6"/></svg>
+          <span class="g to"><span class="n">{{ $gjTo }}</span><span class="c">Achieved</span></span>
+          <span class="t">{{ $gjText | default "A real grade jump, in one term." }}{{ with $gjName }}<small>{{ . }}{{ with $.Params.grade_jump_role }}, {{ . }}{{ end }}</small>{{ end }}</span>
+        </div>
+        {{ end }}
+        <div class="bh-foot">
+          <span class="bh-rating"><span class="st" aria-hidden="true">★★★★★</span> <b>5.0</b> on Google</span>
+          <a href="tel:{{ $phoneClean }}" class="bh-phone">or call {{ $ctaPhone }}</a>
+        </div>
+      </div>
+      <div class="bh-card">
+        <h2>{{ $ctaPrimary }}</h2>
+        <p class="bh-card__sub">A 40-minute consultation about {{ $board }} {{ $subject }}. Joe calls you back within one working day, then sends two or three tutors with free trial calls.</p>
+        {{ partial "sj-lead-form.html" (dict "ctx" . "btn" $formBtn "msgPh" $msgPh "subject" (printf "%s %s" $board $subject)) }}
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- TRUST -->
+<section class="sj-trust" aria-label="Trust signals">
+  <div class="container"><div class="sj-trust__inner">
+    <div class="sj-trust__item"><svg class="sj-trust__icon" viewBox="0 0 24 24" width="22" height="22" fill="#FBBC05"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg><div><strong>5.0 on Google</strong><span>100+ verified reviews</span></div></div>
+    <div class="sj-trust__divider" aria-hidden="true"></div>
+    <div class="sj-trust__item"><svg class="sj-trust__icon" viewBox="0 0 24 24" width="22" height="22" fill="#800020"><path d="M9 11.24V7.5a2.5 2.5 0 0 1 5 0v3.74a6 6 0 1 1-5 0z"/></svg><div><strong>Matched to the {{ $board }} spec</strong><span>Not just the subject</span></div></div>
+    <div class="sj-trust__divider" aria-hidden="true"></div>
+    <div class="sj-trust__item"><svg class="sj-trust__icon" viewBox="0 0 24 24" width="22" height="22" fill="#C9A55C"><path d="M12 1l3 5 5 1-3.5 4 1 5-5.5-2.5L6.5 16l1-5L4 7l5-1z"/></svg><div><strong>5,000+ hours delivered</strong><span>GCSE, A-Level and university</span></div></div>
+  </div></div>
+</section>
+
+<!-- ASSESSMENT (board-specific core) -->
+{{ with .Params.papers }}
+<section class="bd-assess">
+  <div class="container">
+    <div class="bd-assess__intro">
+      <span class="eb">How it is examined</span>
+      <h2>{{ $.Params.assess_heading | default (printf "How %s %s is actually assessed" $board $subject) }}</h2>
+      {{ with $.Params.assess_intro }}<p>{{ . }}</p>{{ end }}
+    </div>
+    <div class="bd-papers">
+      {{ range . }}
+      <div class="bd-paper">
+        <p class="bd-paper__name">{{ .name }}</p>
+        <p>{{ .detail }}</p>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<!-- BOARD POINTS -->
+{{ with .Params.board_points }}
+<section class="hub-section hub-section--tint">
+  <div class="container">
+    <div class="hub-section__intro">
+      <p class="hub-eyebrow">Where the marks are</p>
+      <h2>{{ $.Params.board_points_heading | default (printf "What a %s %s tutor drills" $board $subject) }}</h2>
+    </div>
+    <div class="hub-method-grid">
+      {{ range $i, $p := . }}
+      <article class="hub-method-card"><span>{{ printf "%02d" (add $i 1) }}</span><h3>{{ $p.title }}</h3><p>{{ $p.body }}</p></article>
+      {{ end }}
+    </div>
+    <div style="text-align:center;margin-top:2.2rem;"><a href="#get-help" class="btn btn-primary btn-lg">{{ $ctaPrimary }}</a></div>
+  </div>
+</section>
+{{ end }}
+
+<!-- HOW IT WORKS -->
+{{ with .Params.how_steps }}
+<section class="hub-section hub-section--white">
+  <div class="container">
+    <div class="hub-section__intro"><p class="hub-eyebrow">From enquiry to first session</p><h2>{{ $.Params.how_heading | default "How it works" }}</h2></div>
+    <div class="hub-method-grid">
+      {{ range $i, $s := . }}<article class="hub-method-card"><span>{{ printf "%02d" (add $i 1) }}</span><h3>{{ $s.title }}</h3><p>{{ $s.body }}</p></article>{{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<!-- REVIEWS -->
+{{ with .Params.voices }}
+<section class="sj-voices">
+  <div class="container">
+    <div class="sj-voices__intro">{{ with $.Params.voices_eyebrow }}<p class="hub-eyebrow">{{ . }}</p>{{ end }}<h2>{{ $.Params.voices_heading | default "What parents say about us" }}</h2>{{ with $.Params.voices_intro }}<p>{{ . }}</p>{{ end }}</div>
+    <div class="sj-voices__grid">
+      {{ range first 3 . }}<article class="sj-voice-card"><div class="sj-voice-card__stars" aria-label="5 stars">★★★★★</div><p class="sj-voice-card__text">{{ .text }}</p><div class="sj-voice-card__author"><strong>{{ .name }}</strong><span>{{ .role }}</span></div></article>{{ end }}
+    </div>
+    <div class="sj-voices__footer"><button type="button" data-reviews-open class="btn btn-outline" aria-controls="bc-reviews-drawer">Read more Google reviews</button></div>
+  </div>
+</section>
+{{ end }}
+
+<!-- FORM + FAQ -->
+<section class="loc-contact-faq" id="get-help">
+  <div class="loc-contact-faq__inner">
+    <div class="loc-contact-faq__form-wrap">
+      <div class="loc-contact-faq__form-bg" aria-hidden="true"></div>
+      <div class="loc-contact-faq__form-card">
+        <h2>{{ .Params.form_cta | default (printf "Tell Joe about your child's %s %s" $board $subject) }}</h2>
+        <p>{{ .Params.form_intro | default "He will call you back within one working day. No sales pitch, no obligation." }}</p>
+        {{ partial "sj-lead-form.html" (dict "ctx" . "btn" $formBtn "msgPh" $msgPh "subject" (printf "%s %s" $board $subject)) }}
+      </div>
+    </div>
+    {{ with .Params.faqs }}
+    <div class="loc-faq">
+      <h2>{{ $board }} {{ $subject }} questions parents ask</h2>
+      <div class="loc-accordion loc-accordion--faq">
+        {{ range . }}<details class="loc-accordion__item"><summary class="loc-accordion__trigger"><span>{{ .q }}</span><svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg></summary><div class="loc-accordion__body"><p>{{ .a | safeHTML }}</p></div></details>{{ end }}
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</section>
+
+<!-- RELATED: parent subject + sibling boards -->
+<section class="bd-related">
+  <div class="bd-related__inner">
+    <h2>Not sure which board your child sits?</h2>
+    <p class="bd-related__sub">Joe works it out with you on the first call. Or explore the other boards and the full subject.</p>
+    <div class="bd-related__grid">
+      {{ with $parent }}<a class="bd-related__card bd-related__card--parent" href="{{ .RelPermalink }}">All {{ $subject }} tutoring &rarr;</a>{{ end }}
+      {{ range $siblings }}{{ if ne .RelPermalink $.RelPermalink }}<a class="bd-related__card" href="{{ .RelPermalink }}">{{ .Params.board }} {{ $subject }}</a>{{ end }}{{ end }}
+    </div>
+  </div>
+</section>
+
+<!-- FINAL CTA -->
+<section class="mx-final">
+  <h2>Get a tutor who knows the {{ $board }} spec</h2>
+  <p>One free 40-minute call with Joe. Trial two or three tutors before you pay a penny.</p>
+  <a href="#get-help" class="btn btn-primary btn-lg">{{ $ctaPrimary }}</a>
+</section>
+
+{{ partial "reviews-drawer.html" . }}
+</div>
+
+<!-- Sticky mobile CTA -->
+<div class="sj-sticky-cta" data-sj-sticky-cta hidden>
+  <a href="#get-help" class="sj-sticky-cta__btn">Book my free call with Joe</a>
+  <a href="tel:+447859965776" class="sj-sticky-cta__phone" aria-label="Call now"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg></a>
+</div>
+<script>
+(function(){var b=document.querySelector('[data-sj-sticky-cta]');if(!b)return;var h=document.querySelector('.bh-hero');if(!h||!('IntersectionObserver' in window)){window.addEventListener('scroll',function(){if(window.scrollY>500){b.hidden=false;b.setAttribute('data-sj-sticky-cta-visible','');}},{passive:true,once:true});return;}new IntersectionObserver(function(e){e.forEach(function(x){if(x.isIntersecting){b.removeAttribute('data-sj-sticky-cta-visible');}else{b.hidden=false;requestAnimationFrame(function(){b.setAttribute('data-sj-sticky-cta-visible','');});}});},{rootMargin:'0px 0px -80px 0px'}).observe(h);document.body.classList.add('has-sticky-cta');})();
+</script>
+
+{{ if .Params.faqs }}
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{{ range $i,$f := .Params.faqs }}{{ if $i }},{{ end }}{"@type":"Question","name":{{ $f.q | jsonify }},"acceptedAnswer":{"@type":"Answer","text":{{ $f.a | jsonify }}}}{{ end }}]}</script>
+{{ end }}
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":"{{ $board }} {{ $subject }} Tutoring | The Degree Gap","description":{{ .Description | jsonify }},"url":"{{ .Permalink }}","provider":{"@type":"EducationalOrganization","name":"The Degree Gap","url":"https://thedegreegap.com"},"serviceType":"Online Tutoring","offers":{"@type":"Offer","priceCurrency":"GBP","price":"37"}}</script>
+{{ end }}

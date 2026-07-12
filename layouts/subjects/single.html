@@ -335,6 +335,7 @@ a process timeline, one consolidated trust signal. Reusable across subjects.
 {{ $peers := slice }}
 {{ range (where $all "Params.level" $lvl).ByParam "subject" }}{{ if ne .RelPermalink $.RelPermalink }}{{ $peers = $peers | append . }}{{ end }}{{ end }}
 {{ if lt (len $peers) 4 }}{{ range $all.ByParam "subject" }}{{ if and (ne .RelPermalink $.RelPermalink) (not (in $peers .)) }}{{ $peers = $peers | append . }}{{ end }}{{ end }}{{ end }}
+{{ $boardKids := where (where .Site.Pages "Params.layout" "board") "Params.subject" .Params.subject }}
 <style>
   .mx-related { background:#fff; border-top:1px solid var(--line); padding:54px 24px; }
   .mx-related__inner { max-width:940px; margin:0 auto; text-align:center; }
@@ -354,6 +355,12 @@ a process timeline, one consolidated trust signal. Reusable across subjects.
   <div class="mx-related__inner">
     <h2>Keep exploring</h2>
     <p class="mx-related__sub">Other subjects our tutors cover, and how to find the right person for your child.</p>
+    {{ with $boardKids }}
+    <p style="font-weight:700;color:var(--ink);margin:20px 0 12px;">Tutoring matched to your exact exam board</p>
+    <div class="mx-related__grid">
+      {{ range .ByParam "board" }}<a class="mx-related__pill" style="border-color:#e6c9c9;color:var(--bg);font-weight:700;" href="{{ .RelPermalink }}">{{ .Params.board }} &rarr;</a>{{ end }}
+    </div>
+    {{ end }}
     {{ if $sibling }}
     <a class="mx-related__feat" href="{{ $sibling.RelPermalink }}">Also tutoring {{ $sibling.Params.subject }} <span>&rarr;</span></a>
     {{ end }}

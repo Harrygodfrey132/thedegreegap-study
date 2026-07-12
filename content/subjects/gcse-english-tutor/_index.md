@@ -16,9 +16,9 @@ rating_text: "5.0 · 100+ Google reviews"
 hero_image: "/images/founders-award.jpg"
 hero_alt: "Harry and Joe, co-founders of The Degree Gap, with the GCSE Specialists of the Year award"
 grade_jump_from: "5"
-grade_jump_to: "7"
+grade_jump_to: "6/7"
 grade_jump_name: "Omo"
-grade_jump_text: "A real GCSE English grade jump, in one term."
+grade_jump_text: "A real GCSE English grade jump, in six months."
 
 # ───────────── WHY DIFFERENT ─────────────
 why_heading: "Why parents bring their English problem to us"

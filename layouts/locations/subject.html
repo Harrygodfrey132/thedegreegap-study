@@ -30,11 +30,11 @@
   (printf "A-Level outcomes in %s shape university decisions — Russell Group offers, Oxbridge applications, and degree apprenticeships all ride on the grades that come back in August. In our experience this is rarely a content problem. It's a depth problem: students know the material in class but can't always apply it under timed exam conditions. The right A-Level tutor closes that gap." $loc)
   (printf "GCSE attainment in %s has trailed the national average for several years, and the gap widened further after Covid. In our experience this rarely comes down to effort — gaps that opened up quietly in Year 8 or 9 simply went unaddressed in larger classes, and only surfaced once mocks arrived. The right GCSE tutor finds those gaps, fixes them properly, and the grades follow." $loc)) }}
 {{ $firstLessonQuote      := .Params.first_lesson_quote      | default (cond $isAlevel
-  "My son was sitting on a C in Psychology and needed an A to take his Russell Group place. After a year with his Degree Gap tutor he came out with an A. The biggest change wasn't the grade — it was how calmly he walked into the exam hall."
-  "My son's grade went from a 4 to a 7 in Maths in a single term. The tutor found exactly where things had stopped clicking — years earlier than we thought — and worked through it methodically. The biggest change wasn't even the grade. It was how calm he was walking into the exam.") }}
-{{ $firstLessonQuoteName  := .Params.first_lesson_quote_name  | default (cond $isAlevel "Nick W." "Sarah K.") }}
-{{ $firstLessonQuoteRole  := .Params.first_lesson_quote_role  | default (printf "Parent of %s Student" $level) }}
-{{ $firstLessonQuoteGrade := .Params.first_lesson_quote_grade | default (cond $isAlevel "Grade C → Grade A in A-Level Psychology" "Grade 4 → Grade 7 in GCSE Maths") }}
+  "The Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and applications."
+  "Has definitely helped me increase my grades from an E to a B.") }}
+{{ $firstLessonQuoteName  := .Params.first_lesson_quote_name  | default (cond $isAlevel "Alexander" "Keira") }}
+{{ $firstLessonQuoteRole  := .Params.first_lesson_quote_role  | default (cond $isAlevel "Parent of A-Level Student" "GCSE Student") }}
+{{ $firstLessonQuoteGrade := .Params.first_lesson_quote_grade | default (cond $isAlevel "Grade C → Grade A" "Grade E → Grade B") }}
 {{ $firstLessonCta        := .Params.first_lesson_cta         | default "Call the Co-Founder" }}
 {{ $firstLessonCtaPhone   := .Params.first_lesson_cta_phone   | default "07859965776" }}
 

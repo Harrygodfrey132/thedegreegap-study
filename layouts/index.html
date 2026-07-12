@@ -112,6 +112,40 @@
   </section>
 </div>
 
+<!-- Subjects we cover (GCSE & A-Level) -->
+{{ $subj := where (where (where .Site.Pages "Section" "subjects") "Kind" "section") "Params.layout" "single" }}
+{{ if $subj }}
+{{ $gcseSet := where $subj "Params.level" "GCSE" }}
+{{ $alevelSet := where $subj "Params.level" "A-Level" }}
+{{ $specSet := $subj | complement $gcseSet $alevelSet }}
+<section class="home-section home-subjects-section">
+  <div class="container">
+    <div class="home-section__header">
+      <div>
+        <p class="pp-eyebrow">Expert Tutoring</p>
+        <h2>Subjects we cover</h2>
+        <p class="home-section__lead">Specialist GCSE and A-Level tutors for every major subject, matched to your child's exact exam board. Plus 11+, reading and additional-needs support.</p>
+      </div>
+      <a href="/subjects/" class="btn btn-outline">View all subjects →</a>
+    </div>
+    <p style="font-weight:800;font-size:0.76rem;letter-spacing:0.12em;text-transform:uppercase;color:#800020;margin:8px 0 12px;">GCSE</p>
+    <div class="home-subjects-grid">
+      {{ range $gcseSet.ByParam "subject" }}<a href="{{ .RelPermalink }}" class="home-subject-card">{{ strings.TrimPrefix "GCSE " .Params.subject }}</a>{{ end }}
+    </div>
+    <p style="font-weight:800;font-size:0.76rem;letter-spacing:0.12em;text-transform:uppercase;color:#800020;margin:26px 0 12px;">A-Level</p>
+    <div class="home-subjects-grid">
+      {{ range $alevelSet.ByParam "subject" }}<a href="{{ .RelPermalink }}" class="home-subject-card">{{ strings.TrimPrefix "A-Level " .Params.subject }}</a>{{ end }}
+    </div>
+    {{ with $specSet }}
+    <p style="font-weight:800;font-size:0.76rem;letter-spacing:0.12em;text-transform:uppercase;color:#800020;margin:26px 0 12px;">Specialist support</p>
+    <div class="home-subjects-grid">
+      {{ range .ByParam "subject" }}<a href="{{ .RelPermalink }}" class="home-subject-card">{{ .Params.subject }}</a>{{ end }}
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
 <!-- Personal Statement section -->
 <section class="home-section">
   <div class="container">

@@ -40,11 +40,11 @@ steps:
     body: "Weekly one-to-one GCSE Maths sessions over Lessonspace, our shared interactive whiteboard. Most St Albans Year 11s take a second weekly hour in the run-up to the March mocks that set sixth-form predicted grades. From £37/hr, cancel any time."
 
 reviews:
-  - "Sarah K.|Parent of GCSE Student|My son's grade went from a 4 to a 7 in Maths in a single term. The tutor found exactly where things had stopped clicking — years earlier than we thought — and worked through it methodically. The biggest change wasn't even the grade. It was how calm he was walking into the exam."
-  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. Our tutor was a complete star — listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
-  - "Daljit|Parent of GCSE Student|My son gained almost two grades higher than his Year 11 mock paper. His Maths tutor was excellent."
-  - "Jessica|GCSE Student|I was helped with both Maths and English for my GCSEs and passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels."
-  - "Marfa|GCSE Student|Very engaging Maths lessons that helped me improve my grade and successfully get admitted to sixth form."
+  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
+  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents. My daughter passed both English and Maths GCSE with grades 4 and 5."
+  - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B."
+  - "Jessica|GCSE Student|I was helped with both Maths and English for my GCSEs and passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree."
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than his year 13 mock paper. His tutor Jacob was excellent."
 
 robots: "noindex, follow"
 sitemap:
