@@ -18,14 +18,84 @@
         <p class="home-section__lead">{{ .Description | default "GCSE and A-Level tutoring across the UK. Browse every city we cover and jump straight to the local tutoring page." }}</p>
       </div>
     </div>
-    <div class="home-locations-grid">
+
+    <div class="locations-search" data-locations-search>
+      <label class="locations-search__label" for="locations-search-input">Search your area</label>
+      <div class="locations-search__field">
+        <svg class="locations-search__icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <circle cx="11" cy="11" r="8"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+        <input
+          type="search"
+          id="locations-search-input"
+          class="locations-search__input"
+          placeholder="e.g. Oxford, London, Manchester…"
+          autocomplete="off"
+          aria-label="Search for your town or city"
+          data-locations-search-input>
+      </div>
+      <p class="locations-search__count" data-locations-search-count aria-live="polite"></p>
+    </div>
+
+    <div class="home-locations-grid" data-locations-grid>
       {{ range $cards }}
-      <a href="{{ .RelPermalink }}" class="home-location-card">
-        <span class="home-location-card__name">{{ .Params.location | default .Title }}</span>
+      {{ $name := .Params.location | default .Title }}
+      <a href="{{ .RelPermalink }}" class="home-location-card" data-location-card data-location-name="{{ lower $name }}">
+        <span class="home-location-card__name">{{ $name }}</span>
         <span class="home-location-card__link">Find a tutor →</span>
       </a>
       {{ end }}
     </div>
+
+    <p class="locations-search__empty" data-locations-search-empty hidden>
+      No areas match your search yet. Try a nearby town or city, or <a href="/book-a-call/">get in touch</a> and we'll help you find a tutor.
+    </p>
   </div>
 </section>
+
+<script>
+(function () {
+  var root = document.querySelector('[data-locations-search]');
+  var grid = document.querySelector('[data-locations-grid]');
+  if (!root || !grid) return;
+
+  var input = root.querySelector('[data-locations-search-input]');
+  var count = root.querySelector('[data-locations-search-count]');
+  var empty = document.querySelector('[data-locations-search-empty]');
+  var cards = Array.prototype.slice.call(grid.querySelectorAll('[data-location-card]'));
+  var total = cards.length;
+
+  function normalise(value) {
+    return (value || '').toLowerCase().trim();
+  }
+
+  function filter() {
+    var query = normalise(input.value);
+    var visible = 0;
+
+    cards.forEach(function (card) {
+      var name = card.getAttribute('data-location-name') || '';
+      var match = query === '' || name.indexOf(query) !== -1;
+      card.hidden = !match;
+      if (match) visible++;
+    });
+
+    if (empty) empty.hidden = visible !== 0;
+
+    if (count) {
+      if (query === '') {
+        count.textContent = 'Showing all ' + total + ' locations';
+      } else if (visible === 0) {
+        count.textContent = 'No locations found';
+      } else {
+        count.textContent = 'Showing ' + visible + ' of ' + total + ' locations';
+      }
+    }
+  }
+
+  input.addEventListener('input', filter);
+  filter();
+})();
+</script>
 {{ end }}

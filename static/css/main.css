@@ -1704,6 +1704,66 @@ p:last-child { margin-bottom: 0; }
   color: var(--burgundy);
   font-weight: 600;
 }
+.home-location-card[hidden] { display: none; }
+
+/* Locations search */
+.locations-search {
+  margin-top: 2rem;
+  max-width: 520px;
+}
+.locations-search__label {
+  display: block;
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 8px;
+}
+.locations-search__field {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.locations-search__icon {
+  position: absolute;
+  left: 16px;
+  color: var(--text-muted);
+  pointer-events: none;
+}
+.locations-search__input {
+  width: 100%;
+  padding: 14px 18px 14px 44px;
+  font-size: 1rem;
+  font-family: var(--font-body);
+  color: var(--text);
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  transition: border-color 0.15s, box-shadow 0.15s;
+  -webkit-appearance: none;
+  appearance: none;
+}
+.locations-search__input::placeholder { color: var(--text-muted); }
+.locations-search__input:focus {
+  outline: none;
+  border-color: var(--burgundy);
+  box-shadow: 0 0 0 3px rgba(128, 0, 32, 0.12);
+}
+.locations-search__count {
+  margin-top: 10px;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+.locations-search__empty {
+  margin-top: 1.5rem;
+  padding: 20px 22px;
+  background: var(--cream-dark);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  color: var(--text-muted);
+  font-size: 0.95rem;
+}
+.locations-search__empty[hidden] { display: none; }
+.locations-search__empty a { color: var(--burgundy); font-weight: 600; }
 
 /* Proof strip */
 .home-proof-section { border-top: 1px solid var(--border); }
