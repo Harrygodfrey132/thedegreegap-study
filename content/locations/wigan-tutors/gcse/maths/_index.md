@@ -58,7 +58,7 @@ reviews:
   - "Marfa|Student|Very engaging lessons that helped me improve my grade in maths and successfully get admitted to university."
 
 # FAQ picks: G01, A11, A12, E01, C02
-robots: "noindex, follow"
 sitemap:
-  disable: true
+  priority: 0.6
+  changefreq: monthly
 ---

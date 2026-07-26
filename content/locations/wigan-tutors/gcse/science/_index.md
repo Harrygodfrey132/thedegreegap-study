@@ -58,7 +58,7 @@ reviews:
   - "Theresa|Parent|The Degree Gap was fantastic. Their knowledge and guidance helped my son find direction in both his studies and future plans."
 
 # FAQ picks: G02, A08, A13, E03, C10
-robots: "noindex, follow"
 sitemap:
-  disable: true
+  priority: 0.6
+  changefreq: monthly
 ---

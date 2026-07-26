@@ -58,7 +58,7 @@ reviews:
   - "Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE. Thank you."
 
 # FAQ picks: G05, A07, A03, E02, C03
-robots: "noindex, follow"
 sitemap:
-  disable: true
+  priority: 0.6
+  changefreq: monthly
 ---
