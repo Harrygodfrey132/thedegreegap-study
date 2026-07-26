@@ -3,3 +3,10 @@
 public/
 resources/_gen/
 .tmp_tutors/
+
+# Google Search Console MCP — never commit credentials
+.secrets/
+*service_account*.json
+*service-account*.json
+client_secret*.json
+gsc_*.json
