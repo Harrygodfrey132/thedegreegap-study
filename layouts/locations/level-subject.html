@@ -51,9 +51,13 @@
 }}
 {{ $faqs := .Params.faqs | default $defaultFaqs }}
 
-{{/* ── Tutors — filter by subject + level ── */}}
-{{ $teachToken := printf "%s %s" $level $subject }}
-{{ $altToken   := printf "%s %s" (cond $isAlevel "A level" $level) $subject }}
+{{/* ── Tutors — filter by subject + level ──
+     The tutor bundle has no "Science" tag (tutors are labelled Biology/Chemistry/Physics),
+     so a combined Science page filters on the Chemistry pool to show a real tutor list.
+     Only the filter token changes; every visible label still reads "{{ $subject }}". */}}
+{{ $tutorSubject := cond (eq $subject "Science") "Chemistry" $subject }}
+{{ $teachToken := printf "%s %s" $level $tutorSubject }}
+{{ $altToken   := printf "%s %s" (cond $isAlevel "A level" $level) $tutorSubject }}
 {{ $matched := slice }}
 {{ range site.Data.tutors }}
   {{ if or (in .teaches $teachToken) (in .teaches $altToken) }}
