@@ -62,6 +62,8 @@ We use your information to:
 
 6.3 **Telephone and text.** If, and only if, you provide your mobile number and tell us you are interested in tutoring, we may call or text you about your child's next steps. If you provide a number but do not express interest, we will not call you for that purpose; you will simply receive the free resources by email.
 
+6.4 **Our free webinar series.** By ticking the consent box and registering, you also agree to join The Degree Gap's free parent webinar series. This means we will email you invitations to our other free webinars over the following year, so you can save your place at any that are useful to you. Every invitation includes an unsubscribe link and you can opt out at any time (see section 8).
+
 ## 7. Marketing and consent
 
 7.1 Your consent to receive free resources, updates, and (where applicable) calls or texts is given when you tick the consent box on the registration form.

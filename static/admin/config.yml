@@ -332,6 +332,50 @@ collections:
       - { name: "body", label: "Body", widget: "markdown" }
 
   # ===========================================================================
+  # 5b. WEBINARS — parent webinar pages under /webinars/
+  # ===========================================================================
+  - name: "webinars"
+    label: "Webinars"
+    label_singular: "Webinar"
+    description: "Parent webinar pages under /webinars/. Each registration writes its own Zoho Lead Source — set it to match the Lead Source pick-list value in Zoho exactly."
+    folder: "content/webinars"
+    extension: "md"
+    format: "yaml-frontmatter"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{title}}"
+    fields:
+      - { name: "title", label: "SEO title", widget: "string" }
+      - { name: "description", label: "SEO description", widget: "text" }
+      - { name: "layout", label: "Layout", widget: "hidden", default: "single" }
+      - { name: "lead_source", label: "Zoho Lead Source", widget: "string", hint: "MUST match the Zoho Lead Source pick-list value exactly, e.g. 'March 2027 Webinar'." }
+      - { name: "hero_eyebrow", label: "Hero eyebrow (small label above the title)", widget: "string", required: false }
+      - { name: "hero_h1", label: "Hero heading (H1)", widget: "string" }
+      - { name: "hero_lead", label: "Hero lead paragraph", widget: "text" }
+      - { name: "card_title", label: "Hub card title", widget: "string", required: false, hint: "Shown on the /webinars/ hub. Defaults to the hero heading." }
+      - { name: "card_summary", label: "Hub card summary", widget: "text", required: false }
+      - { name: "cta_label", label: "Hero button label", widget: "string", required: false, default: "Register for the webinar" }
+      - { name: "webinar_date", label: "Start date/time", widget: "datetime", required: false }
+      - { name: "webinar_end_date", label: "End date/time", widget: "datetime", required: false }
+      - { name: "webinar_date_display", label: "Date (as shown on the page)", widget: "string", hint: "e.g. 'Thursday 28 January 2027' or 'March 2027'." }
+      - { name: "webinar_time_display", label: "Time (as shown on the page)", widget: "string", default: "7–8pm (UK time)" }
+      - { name: "youtube_id", label: "YouTube video ID (optional overview)", widget: "string", required: false }
+      - { name: "free_resources_url", label: "Free resources URL (optional)", widget: "string", required: false }
+      - { name: "outcomes_heading", label: "Outcomes heading", widget: "string", required: false, default: "What you will take away" }
+      - { name: "outcomes_sub", label: "Outcomes sub-line", widget: "string", required: false }
+      - name: "outcomes"
+        label: "Outcomes (one per line, format: Bold part|rest of sentence)"
+        widget: "list"
+        required: false
+        field: { name: "outcome", label: "Outcome (Bold|rest)", widget: "string" }
+      - { name: "register_heading", label: "Register section heading", widget: "string", required: false }
+      - { name: "register_lead", label: "Register section sub-line", widget: "string", required: false }
+      - { name: "submit_label", label: "Form button label", widget: "string", required: false, default: "Save my place" }
+      - { name: "event_name", label: "Schema event name", widget: "string", required: false }
+      - { name: "event_description", label: "Schema event description", widget: "text", required: false }
+      - { name: "body", label: "Body (agenda / speakers, optional)", widget: "markdown", required: false }
+
+  # ===========================================================================
   # 6. SUBJECTS — marketing pages
   # ===========================================================================
   - name: "subjects"
