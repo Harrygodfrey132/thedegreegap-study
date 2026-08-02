@@ -21,7 +21,7 @@
         <h4>Related pages</h4>
         <ul>
           {{ range . }}
-          <li><a href="{{ .url }}">{{ .title }}</a></li>
+          <li><a href="{{ partial "url.html" .url }}">{{ .title }}</a></li>
           {{ end }}
         </ul>
       </div>
@@ -35,7 +35,7 @@
           {{ end }}
           {{ end }}
         </ul>
-        <a href="/personal-statement-tutor/" class="sidebar-view-all">Personal statement tutoring →</a>
+        <a href="{{ "personal-statement-tutor/" | relURL }}" class="sidebar-view-all">Personal statement tutoring →</a>
       </div>
     </aside>
   </div>

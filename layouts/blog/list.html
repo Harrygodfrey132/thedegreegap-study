@@ -372,7 +372,7 @@
       <a class="blog-featured" href="{{ $featured.RelPermalink }}">
         {{ with $featured.Params.hero_image }}
         <div class="blog-featured__media">
-          <img src="{{ . }}" alt="{{ $featured.Title }}" loading="lazy">
+          <img src="{{ partial "url.html" . }}" alt="{{ $featured.Title }}" loading="lazy">
         </div>
         {{ end }}
         <div class="blog-featured__copy">
@@ -402,7 +402,7 @@
 
   {{/* ---- Webinar promo strip (always shows the GCSE Mock Webinar) ---- */}}
   <section class="blog-webinar" aria-label="Free webinar">
-    <a class="blog-webinar__card" href="/gcse-mock-webinar/">
+    <a class="blog-webinar__card" href="{{ "gcse-mock-webinar/" | relURL }}">
       <div>
         <p class="blog-webinar__eyebrow">FREE PARENT MASTERCLASS</p>
         <h2 class="blog-webinar__heading">GCSE Mock Webinar: what March mocks really test</h2>
@@ -452,7 +452,7 @@
         <a class="blog-card" href="{{ .RelPermalink }}" data-blog-tags="{{ delimit $cardTags " " }}">
           {{ with .Params.hero_image }}
           <div class="blog-card__media">
-            <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+            <img src="{{ partial "url.html" . }}" alt="{{ $.Title }}" loading="lazy">
           </div>
           {{ end }}
           <p class="blog-card__eyebrow">

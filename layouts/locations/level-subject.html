@@ -116,7 +116,7 @@
           </li>
           {{ end }}
         </ul>
-        <a href="/book-a-call/" class="btn btn-primary lvls-hero__card-cta">{{ $cardCta }}</a>
+        <a href="{{ "book-a-call/" | relURL }}" class="btn btn-primary lvls-hero__card-cta">{{ $cardCta }}</a>
         <p class="lvls-hero__card-fallback">or call <a href="tel:+447859965776">07859&nbsp;965776</a></p>
         <button type="button" data-reviews-open class="lvls-hero__card-trust" aria-label="Read our 107 Google reviews" aria-controls="bc-reviews-drawer" aria-expanded="false">
           <span class="lvls-hero__card-trust-g" aria-hidden="true">
@@ -150,7 +150,7 @@
         <h3 class="lvls-about__title">We know UK education and what parents like you are up against</h3>
         <p>The Degree Gap is a UK-based company that knows education inside out. Outside of tutoring, we run webinars for thousands of parents, speak at schools about GCSE and A-Level preparation, and have spent years listening to the same worries you're probably about to bring to us. We find you tutors with the grades but also the compassion and ability to listen to your child's worries.</p>
         <p>That is what got us voted GCSE Tutoring Specialists of the Year at the 2026 Prestige Awards and why we have over 100 5 star reviews.</p>
-        <a href="/book-a-call/" class="lvls-about__cta">Speak to one of us about your child &rarr;</a>
+        <a href="{{ "book-a-call/" | relURL }}" class="lvls-about__cta">Speak to one of us about your child &rarr;</a>
       </div>
     </div>
   </div>
@@ -224,7 +224,7 @@
         <h2>Book a free 15-minute call about your child's {{ $level }} {{ $subject }} in {{ $loc }}</h2>
       </div>
       <div class="lvls-midcta__actions">
-        <a href="/book-a-call/" class="btn btn-primary btn-lg lvls-midcta__btn">Book a Free Consultation</a>
+        <a href="{{ "book-a-call/" | relURL }}" class="btn btn-primary btn-lg lvls-midcta__btn">Book a Free Consultation</a>
         <a href="tel:+447859965776" class="lvls-midcta__phone">or call 07859&nbsp;965776</a>
       </div>
     </div>
@@ -297,14 +297,14 @@
       {{ range $tutors }}
       <article class="lvls-tutor-card">
         <div class="lvls-tutor-card__photo">
-          <img src="{{ .image }}" alt="{{ .name }}, {{ $level }} {{ $subject }} tutor" width="400" height="400" loading="lazy" decoding="async"
+          <img src="{{ partial "url.html" .image }}" alt="{{ .name }}, {{ $level }} {{ $subject }} tutor" width="400" height="400" loading="lazy" decoding="async"
                onerror="this.closest('.lvls-tutor-card').style.display='none'">
         </div>
         <div class="lvls-tutor-card__body">
           <h3 class="lvls-tutor-card__name">{{ .name }}</h3>
           <p class="lvls-tutor-card__role">{{ $level }} {{ $subject }} tutor</p>
           <p class="lvls-tutor-card__blurb">"{{ .blurb | truncate 120 }}"</p>
-          <a href="{{ .url }}" class="lvls-tutor-card__link" target="_blank" rel="noopener">View profile →</a>
+          <a href="{{ partial "url.html" .url }}" class="lvls-tutor-card__link" target="_blank" rel="noopener">View profile →</a>
         </div>
       </article>
       {{ end }}
@@ -313,7 +313,7 @@
     <p class="lvls-tutors__empty">Get in touch and we'll send four {{ $subject }} tutor profiles within 24 hours.</p>
     {{ end }}
     <div class="lvls-tutors__cta">
-      <a href="/book-a-call/" class="btn btn-primary">Ask us to match you</a>
+      <a href="{{ "book-a-call/" | relURL }}" class="btn btn-primary">Ask us to match you</a>
     </div>
   </div>
 </section>
@@ -395,7 +395,7 @@
   <div class="container">
     <p>
       Want results like this for your child's {{ $level }} {{ $subject }} in {{ $loc }}?
-      <a href="/book-a-call/">Book a free 15-minute consultation →</a>
+      <a href="{{ "book-a-call/" | relURL }}">Book a free 15-minute consultation →</a>
     </p>
   </div>
 </section>
@@ -424,7 +424,7 @@
       {{ end }}
     </div>
     <p class="lvls-faq__closer">
-      Still have a question? <a href="/book-a-call/">Ask us on the consultation call →</a>
+      Still have a question? <a href="{{ "book-a-call/" | relURL }}">Ask us on the consultation call →</a>
     </p>
   </div>
 </section>
@@ -455,7 +455,7 @@
         <p class="lvls-cta__eyebrow">Get started today</p>
         <h2>Book your free<br>{{ $subject }} consultation</h2>
         <p>A short, friendly call about your child's {{ $subject }} — where they're stuck, what they're aiming at, and which {{ $level }} {{ $subject }} tutor in our network is the right match. No obligation.</p>
-        <a href="/book-a-call/" class="btn btn-primary btn-lg">Book Consultation</a>
+        <a href="{{ "book-a-call/" | relURL }}" class="btn btn-primary btn-lg">Book Consultation</a>
         <p class="lvls-cta__assurance">First lesson risk-free · No contracts · Cancel any time</p>
       </div>
       <div class="lvls-cta__illustration" aria-hidden="true">

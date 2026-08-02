@@ -1,31 +1,13 @@
-/personal-statements/oxford/      /personal-statement-tutor/oxford/      301
-/personal-statements/cambridge/   /personal-statement-tutor/cambridge/   301
-/personal-statements/             /personal-statement-tutor/             301
-/personal-statements/*            /personal-statement-tutor/:splat       301
+# The study site now lives at thedegreegap.com/study/ so it sits inside the
+# main domain rather than on a separate subdomain.
+#
+# This Netlify site is kept alive purely to redirect the old subdomain. Every
+# path maps one-to-one onto its new address, so each old URL redirects straight
+# to its equivalent page rather than dumping everyone on the homepage.
+#
+# The path-level redirects that used to live here (personal-statements, removed
+# location pages) now run on Apache — see static/.htaccess, which Hugo ships
+# into the deployed site. Old subdomain URLs therefore take two hops at most:
+# subdomain -> /study/<same path> -> final destination.
 
-# Removed location pages — redirect to the locations index so any
-# old backlinks or stale Google cache entries land on something useful
-# instead of 404. Wildcards cover both the location root and any
-# A-Level / GCSE subject pages under it.
-/locations/wimbledon-tutors/*     /locations/                            301
-/locations/richmond-tutors/*      /locations/                            301
-/locations/croydon-tutors/*       /locations/                            301
-/locations/beckenham-tutors/*     /locations/                            301
-/locations/purley-tutors/*        /locations/                            301
-/locations/sutton-tutors/*        /locations/                            301
-/locations/dulwich-tutors/*       /locations/                            301
-/locations/clapham-tutors/*       /locations/                            301
-/locations/reigate-tutors/*       /locations/                            301
-/locations/kingston-tutors/*      /locations/                            301
-/locations/wallington-tutors/*    /locations/                            301
-/locations/bromley-tutors/*       /locations/                            301
-
-# Epsom location root is still alive — only its A-Level subtree was removed.
-/locations/epsom-tutors/a-level/* /locations/                            301
-
-# PS subjects that were referenced but never built — send to PS hub.
-/personal-statement-tutor/chemistry/    /personal-statement-tutor/       301
-/personal-statement-tutor/physics/      /personal-statement-tutor/       301
-
-# Derby GCSE Physics page removed — send to Derby GCSE hub.
-/locations/derby-tutors/gcse/physics-tutoring/   /locations/derby-tutors/gcse/   301
+/*  https://thedegreegap.com/study/:splat  301!

@@ -4,7 +4,7 @@
 {{ $locationPages = where $locationPages "Params.layout" "single" }}
 {{ $cards := slice }}
 {{ range ($locationPages.ByParam "location") }}
-  {{ if ne .RelPermalink "/locations/" }}
+  {{ if ne .RelPermalink ("locations/" | relURL) }}
     {{ $cards = $cards | append . }}
   {{ end }}
 {{ end }}
@@ -49,7 +49,7 @@
     </div>
 
     <p class="locations-search__empty" data-locations-search-empty hidden>
-      No areas match your search yet. Try a nearby town or city, or <a href="/book-a-call/">get in touch</a> and we'll help you find a tutor.
+      No areas match your search yet. Try a nearby town or city, or <a href="{{ "book-a-call/" | relURL }}">get in touch</a> and we'll help you find a tutor.
     </p>
   </div>
 </section>

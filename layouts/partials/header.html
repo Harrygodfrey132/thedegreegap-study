@@ -5,17 +5,17 @@
       <button class="nav-toggle" aria-label="Open menu" aria-expanded="false">
         <span></span><span></span><span></span>
       </button>
-      <a href="https://study.thedegreegap.com/" class="header-logo" aria-label="The Degree Gap Study home">
-        <img src="/images/final-logo.svg" alt="The Degree Gap" width="214" height="56">
+      <a href="{{ "" | absURL }}" class="header-logo" aria-label="The Degree Gap Study home">
+        <img src="{{ "images/final-logo.svg" | relURL }}" alt="The Degree Gap" width="214" height="56">
       </a>
     </div>
 
     <nav class="main-nav" aria-label="Main navigation">
       <ul>
-        <li><a href="/book-a-call/" target="_blank" rel="noopener">Find Tutors</a></li>
+        <li><a href="{{ "book-a-call/" | relURL }}" target="_blank" rel="noopener">Find Tutors</a></li>
         <li><a href="{{ .Site.Params.mainSiteURL }}/gcse-and-a-level-tutoring-reviews">Reviews</a></li>
-        <li><a href="/blog/">Blog</a></li>
-        <li><a href="/webinars/">Webinars</a></li>
+        <li><a href="{{ "blog/" | relURL }}">Blog</a></li>
+        <li><a href="{{ "webinars/" | relURL }}">Webinars</a></li>
         <li><a href="{{ .Site.Params.mainSiteURL }}/Pricing">Pricing</a></li>
         <li><a href="{{ .Site.Params.mainSiteURL }}/apply-to-tutor">Apply To Tutor</a></li>
       </ul>

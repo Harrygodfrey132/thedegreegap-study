@@ -1,0 +1,3 @@
+{{- /* Route markdown links through the shared URL resolver so site-root paths
+       survive being served from a subdirectory. See partials/url.html. */ -}}
+<a href="{{ partial "url.html" .Destination }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if strings.HasPrefix .Destination "http" }} target="_blank" rel="noopener"{{ end }}>{{ .Text | safeHTML }}</a>

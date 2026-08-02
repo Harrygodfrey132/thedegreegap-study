@@ -87,11 +87,11 @@
         <p>Oxford and Cambridge applications involve earlier deadlines, college choices, admissions tests, written work, interviews, and, for Cambridge, extra forms and the winter pool. We help students understand how the personal statement fits into the whole process.</p>
       </div>
       <div class="hub-oxbridge-list">
-        <a href="/personal-statement-tutor/oxford/" class="hub-oxbridge-link">
+        <a href="{{ "personal-statement-tutor/oxford/" | relURL }}" class="hub-oxbridge-link">
           <span>Oxford support</span>
           <p>Academic statement strategy, course fit, admissions test context, written work, and interview preparation.</p>
         </a>
-        <a href="/personal-statement-tutor/cambridge/" class="hub-oxbridge-link">
+        <a href="{{ "personal-statement-tutor/cambridge/" | relURL }}" class="hub-oxbridge-link">
           <span>Cambridge support</span>
           <p>Course and college strategy, My Cambridge Application, supervisions, admissions tests, interviews, and pooling.</p>
         </a>
@@ -141,12 +141,12 @@
         <h2 id="ps-locations-title">Looking for GCSE or A-Level tutoring too?</h2>
         <p class="home-section__lead">If you have a younger sibling working towards GCSEs or A-Levels, or you'd like ongoing subject tutoring alongside the personal statement work, we cover most of the UK. Browse the area pages below or view the full list.</p>
       </div>
-      <a href="/locations/" class="btn btn-outline">View all locations →</a>
+      <a href="{{ "locations/" | relURL }}" class="btn btn-outline">View all locations →</a>
     </div>
     <div class="home-locations-grid">
       {{ $cards := slice }}
       {{ range ($locationPages.ByParam "location") }}
-        {{ if ne .RelPermalink "/locations/" }}
+        {{ if ne .RelPermalink ("locations/" | relURL) }}
           {{ $cards = $cards | append . }}
         {{ end }}
       {{ end }}

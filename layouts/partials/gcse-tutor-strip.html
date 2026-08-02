@@ -16,14 +16,14 @@
         <h2 id="gs-tutor-strip-title">{{ $tutorStripHead }}</h2>
         <p>{{ $tutorStripBody }}</p>
         <div class="gs-tutor-strip__actions">
-          <a href="{{ $browseUrl }}" class="btn btn-primary" target="_blank" rel="noopener">Browse {{ $level }} tutors</a>
+          <a href="{{ partial "url.html" $browseUrl }}" class="btn btn-primary" target="_blank" rel="noopener">Browse {{ $level }} tutors</a>
           <a href="#get-help" class="btn btn-outline">Ask us to match you</a>
         </div>
       </div>
       <div class="gs-tutor-strip__gallery" data-tutor-gallery aria-label="{{ $level }} tutor profiles">
         {{ range $tutors }}
         <a class="gs-tutor-card" href="#get-help" aria-label="Get matched with a {{ $level }} tutor like {{ .name }}">
-          <img src="{{ .image }}" alt="{{ .name }}" width="300" height="300" loading="lazy" decoding="async"
+          <img src="{{ partial "url.html" .image }}" alt="{{ .name }}" width="300" height="300" loading="lazy" decoding="async"
                onerror="var c=this.closest('.gs-tutor-card');c.dataset.broken='1';if(window.__tutorGalleryRebalance)window.__tutorGalleryRebalance();">
           <span class="gs-tutor-card__name">{{ .name }}</span>
         </a>

@@ -5,8 +5,8 @@
     <h1>GCSE Past Papers</h1>
     <p class="pp-hero__lead">Free GCSE past papers and mark schemes from AQA, OCR, and Edexcel. Foundation and Higher tier — no sign-up required.</p>
     <div class="pp-hero__actions">
-      <a href="/past-papers/gcse/maths/" class="btn btn-primary">Browse GCSE Maths</a>
-      <a href="/book-a-call/" class="btn btn-outline">Find a GCSE tutor →</a>
+      <a href="{{ "past-papers/gcse/maths/" | relURL }}" class="btn btn-primary">Browse GCSE Maths</a>
+      <a href="{{ "book-a-call/" | relURL }}" class="btn btn-outline">Find a GCSE tutor →</a>
     </div>
   </div>
 </section>
@@ -17,7 +17,7 @@
     <p class="pp-section__lead">Select a subject to browse past papers by exam board and year.</p>
 
     <div class="pp-subject-grid">
-      <a href="/past-papers/gcse/maths/" class="pp-subject-card pp-subject-card--active">
+      <a href="{{ "past-papers/gcse/maths/" | relURL }}" class="pp-subject-card pp-subject-card--active">
         <span class="pp-subject-card__name">Maths</span>
         <span class="pp-subject-card__boards">AQA · OCR · Edexcel</span>
         <span class="pp-subject-card__cta">Browse papers →</span>
@@ -59,7 +59,7 @@
         </div>
       </div>
       <div class="pp-cta-band__actions">
-        <a href="/book-a-call/" class="btn btn-primary btn-lg">Find a GCSE tutor</a>
+        <a href="{{ "book-a-call/" | relURL }}" class="btn btn-primary btn-lg">Find a GCSE tutor</a>
         <a href="https://share.google/Oq5KJu7wswxBZKspk" class="btn btn-outline btn-lg" target="_blank" rel="noopener">Read our reviews</a>
       </div>
     </div>

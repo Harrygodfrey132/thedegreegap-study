@@ -21,9 +21,9 @@ backend:
   name: git-gateway
   branch: main
 
-site_url: https://study.thedegreegap.com
-display_url: https://study.thedegreegap.com
-logo_url: https://study.thedegreegap.com/images/favicon.png
+site_url: https://thedegreegap.com/study
+display_url: https://thedegreegap.com/study
+logo_url: https://thedegreegap.com/study/images/favicon.png
 
 media_folder: "static/images"
 public_folder: "/images"

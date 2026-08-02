@@ -94,7 +94,7 @@
     {{ $locationPages = where $locationPages "Params.layout" "single" }}
     {{ $cards := slice }}
     {{ range ($locationPages.ByParam "location") }}
-      {{ if ne .RelPermalink "/locations/" }}
+      {{ if ne .RelPermalink ("locations/" | relURL) }}
         {{ $cards = $cards | append . }}
       {{ end }}
     {{ end }}
@@ -111,7 +111,7 @@
         {{ end }}
       </div>
       <div class="webinar-areas__view-all">
-        <a href="/locations/" class="btn btn-outline">View all locations</a>
+        <a href="{{ "locations/" | relURL }}" class="btn btn-outline">View all locations</a>
       </div>
     </section>
     {{ end }}

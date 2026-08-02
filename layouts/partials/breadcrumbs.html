@@ -2,7 +2,7 @@
 <div class="breadcrumbs">
   <div class="container">
     <ol>
-      <li><a href="/">Home</a></li>
+      <li><a href="{{ "" | relURL }}">Home</a></li>
       {{ range .Ancestors.Reverse }}
       {{ if not .IsHome }}
       <li><a href="{{ .RelPermalink }}">{{ .Params.nav_title | default .Title }}</a></li>

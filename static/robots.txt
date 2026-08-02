@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://study.thedegreegap.com/sitemap.xml
+Sitemap: https://thedegreegap.com/study/sitemap.xml

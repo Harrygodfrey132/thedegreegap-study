@@ -5,9 +5,9 @@
     <h1>{{ .Title }}</h1>
     <p class="pp-hero__lead">Free GCSE Maths past papers and mark schemes for Foundation and Higher tier. Download question papers from AQA, OCR, and Edexcel — no sign-up required.</p>
     <div class="pp-hero__actions">
-      <a href="/past-papers/gcse/maths/aqa/" class="btn btn-primary">AQA Papers</a>
-      <a href="/past-papers/gcse/maths/edexcel/" class="btn btn-outline">Edexcel Papers</a>
-      <a href="/past-papers/gcse/maths/ocr/" class="btn btn-outline">OCR Papers</a>
+      <a href="{{ "past-papers/gcse/maths/aqa/" | relURL }}" class="btn btn-primary">AQA Papers</a>
+      <a href="{{ "past-papers/gcse/maths/edexcel/" | relURL }}" class="btn btn-outline">Edexcel Papers</a>
+      <a href="{{ "past-papers/gcse/maths/ocr/" | relURL }}" class="btn btn-outline">OCR Papers</a>
     </div>
     <div class="pp-proof-row">
       <span><strong>GCSE Tutoring Specialists of the Year</strong> Prestige Awards 2025 &amp; 2026</span>
@@ -24,21 +24,21 @@
     <p class="pp-section__lead">Each board has a different specification. Make sure you practise with the right papers.</p>
     <div class="pp-boards-grid">
 
-      <a href="/past-papers/gcse/maths/aqa/" class="pp-board-card pp-board-card--aqa">
+      <a href="{{ "past-papers/gcse/maths/aqa/" | relURL }}" class="pp-board-card pp-board-card--aqa">
         <div class="pp-board-card__name">AQA</div>
         <p class="pp-board-card__full-name">Assessment and Qualifications Alliance</p>
         <p class="pp-board-card__desc">Three papers: Paper 1 non-calculator, Papers 2 &amp; 3 calculator. Foundation (grades 1–5) and Higher (grades 4–9).</p>
         <span class="pp-board-card__cta">Browse AQA papers →</span>
       </a>
 
-      <a href="/past-papers/gcse/maths/ocr/" class="pp-board-card pp-board-card--ocr">
+      <a href="{{ "past-papers/gcse/maths/ocr/" | relURL }}" class="pp-board-card pp-board-card--ocr">
         <div class="pp-board-card__name">OCR</div>
         <p class="pp-board-card__full-name">Oxford, Cambridge and RSA · Specification J560</p>
         <p class="pp-board-card__desc">Six papers total: Papers 1–3 Foundation, Papers 4–6 Higher. Papers 2 and 5 are non-calculator.</p>
         <span class="pp-board-card__cta">Browse OCR papers →</span>
       </a>
 
-      <a href="/past-papers/gcse/maths/edexcel/" class="pp-board-card pp-board-card--edexcel">
+      <a href="{{ "past-papers/gcse/maths/edexcel/" | relURL }}" class="pp-board-card pp-board-card--edexcel">
         <div class="pp-board-card__name">Edexcel</div>
         <p class="pp-board-card__full-name">Pearson Edexcel</p>
         <p class="pp-board-card__desc">Three papers: Paper 1 non-calculator, Papers 2 &amp; 3 calculator. Foundation (grades 1–5) and Higher (grades 4–9).</p>
@@ -85,7 +85,7 @@
         <p>The Degree Gap GCSE Maths tutors are specialists in AQA, OCR, and Edexcel. They can work through past papers with you, explain mark scheme logic, and help you tackle the topics that cost most marks.</p>
       </div>
       <div class="pp-cta-band__actions">
-        <a href="/book-a-call/" class="btn btn-primary btn-lg">Find a Maths tutor</a>
+        <a href="{{ "book-a-call/" | relURL }}" class="btn btn-primary btn-lg">Find a Maths tutor</a>
         <a href="https://share.google/Oq5KJu7wswxBZKspk" class="btn btn-outline btn-lg" target="_blank" rel="noopener">Read our reviews</a>
       </div>
     </div>

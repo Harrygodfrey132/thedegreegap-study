@@ -42,9 +42,9 @@
 <nav class="pp-board-nav" aria-label="Exam board selector">
   <div class="container">
     <span class="pp-board-nav__label">Exam board:</span>
-    <a href="/past-papers/gcse/maths/aqa/"{{ if eq $boardSlug "aqa" }} class="active" aria-current="page"{{ end }}>AQA</a>
-    <a href="/past-papers/gcse/maths/ocr/"{{ if eq $boardSlug "ocr" }} class="active" aria-current="page"{{ end }}>OCR</a>
-    <a href="/past-papers/gcse/maths/edexcel/"{{ if eq $boardSlug "edexcel" }} class="active" aria-current="page"{{ end }}>Edexcel</a>
+    <a href="{{ "past-papers/gcse/maths/aqa/" | relURL }}"{{ if eq $boardSlug "aqa" }} class="active" aria-current="page"{{ end }}>AQA</a>
+    <a href="{{ "past-papers/gcse/maths/ocr/" | relURL }}"{{ if eq $boardSlug "ocr" }} class="active" aria-current="page"{{ end }}>OCR</a>
+    <a href="{{ "past-papers/gcse/maths/edexcel/" | relURL }}"{{ if eq $boardSlug "edexcel" }} class="active" aria-current="page"{{ end }}>Edexcel</a>
   </div>
 </nav>
 
@@ -89,10 +89,10 @@
             {{ $name := .name }}
             <div class="pp-year-row">
               <span class="pp-year-row__label">{{ $year }} {{ $name }}</span>
-              <a href="/past-papers/gcse/maths/{{ $boardSlug }}/{{ $year }}-{{ $slug }}/{{ $paper.slug }}/#question-paper" class="pp-year-row__btn pp-year-row__btn--qp">
+              <a href="{{ (printf "past-papers/gcse/maths/%s/%s-%s/%s/" $boardSlug $year $slug $paper.slug) | relURL }}#question-paper" class="pp-year-row__btn pp-year-row__btn--qp">
                 Question Paper
               </a>
-              <a href="/past-papers/gcse/maths/{{ $boardSlug }}/{{ $year }}-{{ $slug }}/{{ $paper.slug }}/#mark-scheme" class="pp-year-row__btn pp-year-row__btn--ms">
+              <a href="{{ (printf "past-papers/gcse/maths/%s/%s-%s/%s/" $boardSlug $year $slug $paper.slug) | relURL }}#mark-scheme" class="pp-year-row__btn pp-year-row__btn--ms">
                 Mark Scheme
               </a>
             </div>
@@ -129,10 +129,10 @@
             {{ $name := .name }}
             <div class="pp-year-row">
               <span class="pp-year-row__label">{{ $year }} {{ $name }}</span>
-              <a href="/past-papers/gcse/maths/{{ $boardSlug }}/{{ $year }}-{{ $slug }}/{{ $paper.slug }}/#question-paper" class="pp-year-row__btn pp-year-row__btn--qp">
+              <a href="{{ (printf "past-papers/gcse/maths/%s/%s-%s/%s/" $boardSlug $year $slug $paper.slug) | relURL }}#question-paper" class="pp-year-row__btn pp-year-row__btn--qp">
                 Question Paper
               </a>
-              <a href="/past-papers/gcse/maths/{{ $boardSlug }}/{{ $year }}-{{ $slug }}/{{ $paper.slug }}/#mark-scheme" class="pp-year-row__btn pp-year-row__btn--ms">
+              <a href="{{ (printf "past-papers/gcse/maths/%s/%s-%s/%s/" $boardSlug $year $slug $paper.slug) | relURL }}#mark-scheme" class="pp-year-row__btn pp-year-row__btn--ms">
                 Mark Scheme
               </a>
             </div>
@@ -151,18 +151,18 @@
         <p class="pp-sidebar-cta__eyebrow">Struggling with {{ $board }} Maths?</p>
         <h3>Get expert GCSE Maths tutoring</h3>
         <p>Our tutors are specialists in the {{ $board }} GCSE Maths specification — paper structure, mark scheme logic, and the topics that come up most.</p>
-        <a href="/book-a-call/" class="btn btn-primary">Find a tutor →</a>
+        <a href="{{ "book-a-call/" | relURL }}" class="btn btn-primary">Find a tutor →</a>
         <p class="pp-sidebar-cta__proof">GCSE Tutoring Specialists of the Year 2025 &amp; 2026</p>
       </div>
 
       <div class="pp-sidebar-nav">
         <h4>Other boards</h4>
         <ul>
-          {{ if ne $boardSlug "aqa" }}<li><a href="/past-papers/gcse/maths/aqa/">AQA GCSE Maths</a></li>{{ end }}
-          {{ if ne $boardSlug "ocr" }}<li><a href="/past-papers/gcse/maths/ocr/">OCR GCSE Maths</a></li>{{ end }}
-          {{ if ne $boardSlug "edexcel" }}<li><a href="/past-papers/gcse/maths/edexcel/">Edexcel GCSE Maths</a></li>{{ end }}
+          {{ if ne $boardSlug "aqa" }}<li><a href="{{ "past-papers/gcse/maths/aqa/" | relURL }}">AQA GCSE Maths</a></li>{{ end }}
+          {{ if ne $boardSlug "ocr" }}<li><a href="{{ "past-papers/gcse/maths/ocr/" | relURL }}">OCR GCSE Maths</a></li>{{ end }}
+          {{ if ne $boardSlug "edexcel" }}<li><a href="{{ "past-papers/gcse/maths/edexcel/" | relURL }}">Edexcel GCSE Maths</a></li>{{ end }}
         </ul>
-        <a href="/past-papers/gcse/maths/" class="sidebar-view-all">← All GCSE Maths boards</a>
+        <a href="{{ "past-papers/gcse/maths/" | relURL }}" class="sidebar-view-all">← All GCSE Maths boards</a>
       </div>
 
     </aside>
@@ -178,7 +178,7 @@
         <p>Our GCSE Maths tutors know the {{ $board }} specification inside out — paper structure, mark scheme logic, and the topics that come up most often. Whether you need help with a particular topic or want to work through papers together, we can help.</p>
       </div>
       <div class="pp-cta-band__actions">
-        <a href="/book-a-call/" class="btn btn-primary btn-lg">Find a GCSE Maths tutor</a>
+        <a href="{{ "book-a-call/" | relURL }}" class="btn btn-primary btn-lg">Find a GCSE Maths tutor</a>
         <a href="https://share.google/Oq5KJu7wswxBZKspk" class="btn btn-outline btn-lg" target="_blank" rel="noopener">Read Google reviews</a>
       </div>
     </div>

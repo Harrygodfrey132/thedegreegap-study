@@ -108,7 +108,7 @@ Location tutor page content contract:
           <img src="{{ $heroFallback.RelPermalink }}" alt="Tutoring support in {{ $loc }}" class="loc-img-hero__img" width="{{ $heroFallback.Width }}" height="{{ $heroFallback.Height }}" loading="eager" decoding="async" fetchpriority="high">
         </picture>
         {{ else }}
-        <img src="{{ $heroImage }}" alt="Tutoring support in {{ $loc }}" class="loc-img-hero" width="420" height="580" loading="eager" decoding="async" fetchpriority="high">
+        <img src="{{ partial "url.html" $heroImage }}" alt="Tutoring support in {{ $loc }}" class="loc-img-hero" width="420" height="580" loading="eager" decoding="async" fetchpriority="high">
         {{ end }}
         {{ else }}
         <div class="loc-img-placeholder loc-img-placeholder--hero">
@@ -170,7 +170,7 @@ Location tutor page content contract:
           <span class="loc-subject-num">{{ printf "%02d." (add $index 1) }}</span>
           <span class="loc-subject-name">{{ index $parts 0 }}</span>
           <p class="loc-subject-desc">{{ index $parts 1 }}</p>
-          <a href="{{ $href }}" class="btn btn-primary">Find a Tutor</a>
+          <a href="{{ partial "url.html" $href }}" class="btn btn-primary">Find a Tutor</a>
         </li>
         {{ end }}
       </ol>
@@ -185,7 +185,7 @@ Location tutor page content contract:
           <span class="loc-subject-num">{{ printf "%02d." (add $index 1) }}</span>
           <span class="loc-subject-name">{{ index $parts 0 }}</span>
           <p class="loc-subject-desc">{{ index $parts 1 }}</p>
-          <a href="{{ $href }}" class="btn btn-primary">Find a Tutor</a>
+          <a href="{{ partial "url.html" $href }}" class="btn btn-primary">Find a Tutor</a>
         </li>
         {{ end }}
       </ol>
@@ -200,7 +200,7 @@ Location tutor page content contract:
           <span class="loc-subject-num">{{ printf "%02d." (add $index 1) }}</span>
           <span class="loc-subject-name">{{ index $parts 0 }}</span>
           <p class="loc-subject-desc">{{ index $parts 1 }}</p>
-          <a href="{{ $href }}" class="btn btn-primary">Find a Tutor</a>
+          <a href="{{ partial "url.html" $href }}" class="btn btn-primary">Find a Tutor</a>
         </li>
         {{ end }}
       </ol>
@@ -343,7 +343,7 @@ Location tutor page content contract:
           <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
           <div aria-hidden="true" style="position:absolute;left:-9999px;top:-9999px;width:0;height:0;overflow:hidden;opacity:0"><input type="text" name="address_url" data-bait="1" tabindex="-1" autocomplete="off"><input type="email" name="company_website" data-bait="1" tabindex="-1" autocomplete="off"></div>
           <input type="hidden" name="_subject" value="New enquiry from {{ $loc }} location page | The Degree Gap Study">
-          <input type="hidden" name="_next" value="{{ "/book-a-call-thank-you/" | absURL }}">
+          <input type="hidden" name="_next" value="{{ "book-a-call-thank-you/" | absURL }}">
           <input type="hidden" name="page_url" value="{{ .RelPermalink }}">
           <input type="hidden" name="location" value="{{ $loc }}">
           <div class="loc-form-group">
@@ -513,7 +513,7 @@ Location tutor page content contract:
         {{ $parts := split . "|" }}
         {{ $name := index $parts 0 }}
         {{ $href := index $parts 1 }}
-        <a href="{{ $href }}" class="loc-area-card">{{ $name }}</a>
+        <a href="{{ partial "url.html" $href }}" class="loc-area-card">{{ $name }}</a>
       {{ end }}
     </div>
     {{ if gt (len $areaLinks) 6 }}
@@ -522,7 +522,7 @@ Location tutor page content contract:
         {{ $parts := split . "|" }}
         {{ $name := index $parts 0 }}
         {{ $href := index $parts 1 }}
-        <a href="{{ $href }}" class="loc-area-card">{{ $name }}</a>
+        <a href="{{ partial "url.html" $href }}" class="loc-area-card">{{ $name }}</a>
       {{ end }}
     </div>
     <button class="loc-areas__toggle" id="loc-areas-toggle" aria-expanded="false" aria-controls="loc-areas-more">
@@ -531,7 +531,7 @@ Location tutor page content contract:
     </button>
     {{ end }}
     <div class="loc-areas__view-all">
-      <a href="/locations/" class="btn btn-outline">View All Our Locations</a>
+      <a href="{{ "locations/" | relURL }}" class="btn btn-outline">View All Our Locations</a>
     </div>
   </div>
 </section>
@@ -582,7 +582,7 @@ Location tutor page content contract:
   "url": "{{ .Permalink }}",
   "provider": {
     "@type": "EducationalOrganization",
-    "@id": "https://study.thedegreegap.com/#organization",
+    "@id": "{{ "#organization" | absURL }}",
     "name": "The Degree Gap",
     "url": "https://thedegreegap.com"
   },

@@ -35,7 +35,7 @@
         <h1>{{ $bannerHeading }}</h1>
         <p class="loc-hero__lead">{{ $bannerLead }}</p>
         <div class="loc-hero__actions">
-          <a href="/book-a-call/" class="btn btn-primary btn-lg">Find Your Tutor</a>
+          <a href="{{ "book-a-call/" | relURL }}" class="btn btn-primary btn-lg">Find Your Tutor</a>
           <a href="#get-help" class="btn btn-outline btn-lg">Contact Us</a>
         </div>
         <div class="subj-hero-boards">
@@ -138,7 +138,7 @@
       <article class="tdg-profile">
         <div class="tdg-profile__photo-wrap">
           <div class="tdg-profile__photo">
-            <img src="{{ .image }}" alt="{{ .name }} — {{ $subject }} tutor" width="300" height="300" loading="lazy" decoding="async">
+            <img src="{{ partial "url.html" .image }}" alt="{{ .name }} — {{ $subject }} tutor" width="300" height="300" loading="lazy" decoding="async">
             {{ if .verified }}
             <span class="tdg-profile__badge tdg-profile__badge--verified" aria-label="Verified tutor">
               <svg width="14" height="14" viewBox="0 0 24 24" fill="#fff" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
@@ -151,7 +151,7 @@
             {{ end }}
           </div>
           <div class="tdg-profile__price">{{ .price }}</div>
-          <a href="{{ .url }}" target="_blank" rel="noopener" class="btn btn-primary tdg-profile__book">Book Now</a>
+          <a href="{{ partial "url.html" .url }}" target="_blank" rel="noopener" class="btn btn-primary tdg-profile__book">Book Now</a>
           <a href="#get-help" class="btn btn-outline tdg-profile__contact">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
             Contact
@@ -181,7 +181,7 @@
 
           <p class="tdg-profile__label"><strong>What You Can Expect From</strong></p>
           <p class="tdg-profile__blurb">{{ .blurb }}</p>
-          <a href="{{ .url }}" target="_blank" rel="noopener" class="tdg-profile__view">View Profile</a>
+          <a href="{{ partial "url.html" .url }}" target="_blank" rel="noopener" class="tdg-profile__view">View Profile</a>
         </div>
       </article>
       {{ end }}
@@ -318,7 +318,7 @@
       </div>
       <div class="subj-schools__cta-block">
         <p>Ready to find a {{ $short }} tutor for your child?</p>
-        <a href="/book-a-call/" class="btn btn-primary">Find Your Tutor</a>
+        <a href="{{ "book-a-call/" | relURL }}" class="btn btn-primary">Find Your Tutor</a>
         <a href="#get-help" class="btn btn-outline subj-schools__cta-outline">Book a Free Call</a>
       </div>
     </div>
@@ -338,7 +338,7 @@
         {{ $parts := split . "|" }}
         {{ $name := index $parts 0 }}
         {{ $href := index $parts 1 }}
-        <a href="{{ $href }}" class="loc-area-card">{{ $name }}</a>
+        <a href="{{ partial "url.html" $href }}" class="loc-area-card">{{ $name }}</a>
       {{ end }}
     </div>
   </div>
@@ -358,7 +358,7 @@
           <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
           <div aria-hidden="true" style="position:absolute;left:-9999px;top:-9999px;width:0;height:0;overflow:hidden;opacity:0"><input type="text" name="address_url" data-bait="1" tabindex="-1" autocomplete="off"><input type="email" name="company_website" data-bait="1" tabindex="-1" autocomplete="off"></div>
           <input type="hidden" name="_subject" value="New {{ $subject }} enquiry from {{ $loc }} | The Degree Gap Study">
-          <input type="hidden" name="_next" value="{{ "/book-a-call-thank-you/" | absURL }}">
+          <input type="hidden" name="_next" value="{{ "book-a-call-thank-you/" | absURL }}">
           <input type="hidden" name="page_url" value="{{ .RelPermalink }}">
           <input type="hidden" name="location" value="{{ $loc }}">
           <input type="hidden" name="subject" value="{{ $subject }}">

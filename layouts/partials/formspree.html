@@ -19,7 +19,7 @@
           <input type="email" name="company_website" data-bait="1" tabindex="-1" autocomplete="off">
         </div>
         <input type="hidden" name="_subject" value="New enquiry{{ with $subject }}: {{ . }}{{ end }}{{ with $university }} ({{ . }}){{ end }} | The Degree Gap Study">
-        <input type="hidden" name="_next" value="{{ "/book-a-call-thank-you/" | absURL }}">
+        <input type="hidden" name="_next" value="{{ "book-a-call-thank-you/" | absURL }}">
         <input type="hidden" name="page_url" value="{{ .RelPermalink }}">
         {{ with $subject }}<input type="hidden" name="subject" value="{{ . }}">{{ end }}
         {{ with $university }}<input type="hidden" name="university" value="{{ . }}">{{ end }}

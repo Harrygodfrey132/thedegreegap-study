@@ -1,0 +1,27 @@
+# Redirects for the study site, served from /study/ on thedegreegap.com.
+#
+# These were previously handled by Netlify's _redirects file, which Apache
+# ignores. Hugo copies this file from static/ into the build root, so it ships
+# with every deploy and survives rsync --delete.
+
+RewriteEngine On
+RewriteBase /study/
+
+# Personal statement pages moved to /personal-statement-tutor/
+RewriteRule ^personal-statements/oxford/?$      /study/personal-statement-tutor/oxford/     [L,R=301]
+RewriteRule ^personal-statements/cambridge/?$   /study/personal-statement-tutor/cambridge/  [L,R=301]
+RewriteRule ^personal-statements/?$             /study/personal-statement-tutor/            [L,R=301]
+RewriteRule ^personal-statements/(.*)$          /study/personal-statement-tutor/$1          [L,R=301]
+
+# PS subjects that were referenced but never built.
+RewriteRule ^personal-statement-tutor/(chemistry|physics)/?$  /study/personal-statement-tutor/  [L,R=301]
+
+# Removed location pages — send old backlinks to the locations index rather
+# than 404. Covers each location root and any subject page beneath it.
+RewriteRule ^locations/(wimbledon|richmond|croydon|beckenham|purley|sutton|dulwich|clapham|reigate|kingston|wallington|bromley)-tutors(/.*)?$  /study/locations/  [L,R=301]
+
+# Epsom's location root is still live — only its A-Level subtree was removed.
+RewriteRule ^locations/epsom-tutors/a-level(/.*)?$  /study/locations/  [L,R=301]
+
+# Derby GCSE Physics page removed — send to the Derby GCSE hub.
+RewriteRule ^locations/derby-tutors/gcse/physics-tutoring/?$  /study/locations/derby-tutors/gcse/  [L,R=301]

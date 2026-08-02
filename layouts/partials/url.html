@@ -1,0 +1,16 @@
+{{- /*
+  Resolves a URL for output in href/src.
+
+  Site-root paths ("/book-a-call/") are rewritten relative to baseURL so they
+  keep working when the site is served from a subdirectory. Note the leading
+  slash must be trimmed first: Hugo's relURL drops the baseURL path component
+  for inputs that already begin with "/".
+
+  External URLs, anchors, mailto: and tel: are passed through untouched.
+*/ -}}
+{{- $u := . -}}
+{{- if hasPrefix $u "/" -}}
+  {{- strings.TrimPrefix "/" $u | relURL -}}
+{{- else -}}
+  {{- $u -}}
+{{- end -}}

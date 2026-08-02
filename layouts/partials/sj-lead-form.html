@@ -5,7 +5,7 @@
     <input type="text" name="address_url" data-bait="1" tabindex="-1" autocomplete="off">
   </div>
   <input type="hidden" name="_subject" value="New enquiry from {{ .subject }} subject page | The Degree Gap Study">
-  <input type="hidden" name="_next" value="{{ "/book-a-call-thank-you/" | absURL }}">
+  <input type="hidden" name="_next" value="{{ "book-a-call-thank-you/" | absURL }}">
   <input type="hidden" name="page_url" value="{{ .ctx.RelPermalink }}">
   <input type="hidden" name="subject" value="{{ .subject }}">
   <div class="loc-form-group"><input type="text" name="name" placeholder="Full name*" required></div>

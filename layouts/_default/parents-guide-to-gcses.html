@@ -273,10 +273,10 @@
     "@type": "VirtualLocation",
     "url": "{{ $.Permalink }}"
   },
-  "image": "https://study.thedegreegap.com/images/og_image.png",
+  "image": "{{ "images/og_image.png" | absURL }}",
   "organizer": {
     "@type": "EducationalOrganization",
-    "@id": "https://study.thedegreegap.com/#organization",
+    "@id": "{{ "#organization" | absURL }}",
     "name": "The Degree Gap",
     "url": "https://thedegreegap.com"
   },

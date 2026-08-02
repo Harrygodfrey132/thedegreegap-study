@@ -1,4 +1,4 @@
-baseURL = "https://study.thedegreegap.com/"
+baseURL = "https://thedegreegap.com/study/"
 languageCode = "en-gb"
 title = "The Degree Gap | Tutoring & Study Resources"
 disableKinds = ["taxonomy", "term"]

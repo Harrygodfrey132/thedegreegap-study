@@ -19,8 +19,8 @@
        Cache-busting query string uses the CSS file's modification time so
        browsers re-fetch automatically whenever main.css changes. -->
   {{ $cssVersion := (os.Stat "static/css/main.css").ModTime.Unix }}
-  <link rel="preload" href="/css/main.css?v={{ $cssVersion }}" as="style">
-  <link rel="stylesheet" href="/css/main.css?v={{ $cssVersion }}">
+  <link rel="preload" href="{{ "css/main.css" | relURL }}?v={{ $cssVersion }}" as="style">
+  <link rel="stylesheet" href="{{ "css/main.css" | relURL }}?v={{ $cssVersion }}">
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-X8HZE9WB3J"></script>
   <script>
@@ -46,10 +46,10 @@
     src="https://www.facebook.com/tr?id=1021519429438081&ev=PageView&noscript=1"
     alt=""/></noscript>
   <!-- End Meta Pixel Code -->
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32.png">
-  <link rel="icon" type="image/png" sizes="266x266" href="/images/favicon.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
-  <link rel="manifest" href="/manifest.webmanifest">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ "images/favicon-32.png" | relURL }}">
+  <link rel="icon" type="image/png" sizes="266x266" href="{{ "images/favicon.png" | relURL }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ "images/apple-touch-icon.png" | relURL }}">
+  <link rel="manifest" href="{{ "manifest.webmanifest" | relURL }}">
   <meta name="theme-color" content="#800020">
   <script>
     // Only load the Netlify Identity widget when handling an invite/recovery
@@ -100,12 +100,12 @@
       window.netlifyIdentity.on("init", user => {
         if (!user) {
           window.netlifyIdentity.on("login", () => {
-            document.location.href = "/admin/";
+            document.location.href = "{{ "admin/" | relURL }}";
           });
         }
       });
     }
   </script>
-  <script src="/js/main.js" defer></script>
+  <script src="{{ "js/main.js" | relURL }}" defer></script>
 </body>
 </html>

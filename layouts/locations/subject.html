@@ -225,7 +225,7 @@
               {{ $href = $child.RelPermalink }}
             {{ end }}
           {{ end }}
-          <a href="{{ $href }}" class="gs-explore__card">
+          <a href="{{ partial "url.html" $href }}" class="gs-explore__card">
             <span class="gs-explore__icon" aria-hidden="true">
               {{ if in $name "Maths" }}
                 <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 7h6M7 4v6M14 5l4 4M14 9l4-4M5 19l4-4M5 15l4 4M14 16h6M14 20h6"/></svg>
@@ -366,7 +366,7 @@
 
       <div class="gs-pathways__image">
         {{ $pathwaysImage := .Params.pathways_image | default (cond $isAlevel "/images/graduation-ceremony-caps.jpg" "/images/school-clock-tower-building.jpg") }}
-        <img src="{{ $pathwaysImage }}" alt="{{ cond $isAlevel (printf "University graduation representing the next step after A-Levels in %s" $loc) (printf "A school building representing the next step after GCSEs in %s" $loc) }}" width="1500" height="1000" loading="lazy" decoding="async">
+        <img src="{{ partial "url.html" $pathwaysImage }}" alt="{{ cond $isAlevel (printf "University graduation representing the next step after A-Levels in %s" $loc) (printf "A school building representing the next step after GCSEs in %s" $loc) }}" width="1500" height="1000" loading="lazy" decoding="async">
       </div>
 
     </div>
@@ -388,7 +388,7 @@
           <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
           <div aria-hidden="true" style="position:absolute;left:-9999px;top:-9999px;width:0;height:0;overflow:hidden;opacity:0"><input type="text" name="address_url" data-bait="1" tabindex="-1" autocomplete="off"><input type="email" name="company_website" data-bait="1" tabindex="-1" autocomplete="off"></div>
           <input type="hidden" name="_subject" value="New {{ $level }} enquiry from {{ $loc }} | The Degree Gap Study">
-          <input type="hidden" name="_next" value="{{ "/book-a-call-thank-you/" | absURL }}">
+          <input type="hidden" name="_next" value="{{ "book-a-call-thank-you/" | absURL }}">
           <input type="hidden" name="page_url" value="{{ .RelPermalink }}">
           <input type="hidden" name="location" value="{{ $loc }}">
           <input type="hidden" name="level" value="{{ $level }}">
@@ -494,7 +494,7 @@
   "url": "{{ .Permalink }}",
   "provider": {
     "@type": "EducationalOrganization",
-    "@id": "https://study.thedegreegap.com/#organization",
+    "@id": "{{ "#organization" | absURL }}",
     "name": "The Degree Gap",
     "url": "https://thedegreegap.com",
     "aggregateRating": {
@@ -546,10 +546,10 @@
   "identifier": "the-degree-gap-{{ $loc | urlize }}-{{ $level | urlize | lower }}",
   "provider": {
     "@type": "EducationalOrganization",
-    "@id": "https://study.thedegreegap.com/#organization",
+    "@id": "{{ "#organization" | absURL }}",
     "name": "The Degree Gap",
     "url": "https://thedegreegap.com",
-    "logo": "https://study.thedegreegap.com/images/final-logo.svg"
+    "logo": "{{ "images/final-logo.svg" | absURL }}"
   },
   "audience": {
     "@type": "EducationalAudience",
