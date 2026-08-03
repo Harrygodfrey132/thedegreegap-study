@@ -1,6 +1,6 @@
 ---
 title: "GCSE French Tutor Jobs (Online, UK) | The Degree Gap"
-description: "GCSE French is four skills assessed separately. Tutor GCSE French online with The Degree Gap. Enhanced DBS required."
+description: "GCSE French is assessed across four skills. Tutor GCSE French online with The Degree Gap. Enhanced DBS required."
 robots: "index, follow"
 role_title: "GCSE French Tutor"
 h1: "GCSE French Tutor Jobs"
@@ -11,33 +11,39 @@ employment_type: "Part-time, self-employed"
 work_type: "Online, UK wide"
 ---
 
-## The role
+## About the role
 
-We are taking on GCSE French tutors, and we are fussy about who we say yes to.
+The Degree Gap is recruiting experienced GCSE French tutors for online one-to-one teaching.
 
-GCSE French is four skills assessed separately, and the speaking exam is where confident students most often underperform.
+GCSE French is assessed across four skills. The speaking examination is the component in which otherwise capable students most frequently underperform.
 
-Joe speaks to the family before you ever hear a name, so you start knowing the predicted grade, the mock that came back lower than everyone hoped, and what the school has already tried. You are not opening an email from a stranger and guessing.
+Students are matched to tutors by one of the co-founders following a consultation with the family. You will receive the student's current attainment, target grade and relevant background before the first session. We recruit for GCSE French on a rolling basis.
 
-## What the teaching looks like
+## Responsibilities
 
-- Preparing the speaking exam, including role play and photo card
-- Teaching writing to the mark scheme, where range and accuracy are both credited
-- Building listening technique, which is a skill rather than a vocabulary problem
-- Working translation in both directions
+- Prepare students for the speaking examination, including role play and photo card
+- Teach written response against the mark scheme criteria for range and accuracy
+- Develop listening technique as a discrete skill
+- Deliver translation in both directions
 
-## Who we take on
+## Requirements
 
-You can rehearse the speaking exam properly and calm a student who freezes in it.
+Candidates must be able to prepare students for the speaking examination and manage examination anxiety.
 
-Beyond that, two years of teaching or tutoring behind you, real experience with GCSE French at this level rather than the subject in general, and an enhanced DBS. We check the DBS before you meet a student, so it is worth having it to hand. You will also need the right to work in the UK, somewhere quiet to teach from and a connection that does not drop halfway through a session.
+- A minimum of two years' teaching or tutoring experience
+- Demonstrable experience teaching GCSE French at this level
+- An enhanced DBS certificate, verified before any student is assigned
+- The right to work in the UK
+- A reliable internet connection and a quiet teaching environment
 
-## How it works week to week
+## Terms
 
-You tell us when you are free and how many students you want. Nothing lands in your diary that you have not agreed to take, you are not advertising yourself anywhere, and you are not chasing families for money. If a student goes quiet or something awkward comes up, you ring us and we deal with it.
+The role is self-employed and part-time, with hours set by the tutor. Students are allocated according to your stated availability and subject coverage. Sessions are scheduled and paid through the platform, so tutors do not invoice families directly and are not required to advertise or source their own students. A named contact is available for scheduling and safeguarding matters.
 
-## Talk to us
+## Selection process
 
-Harry or Joe will interview you before anything else happens. We turn down most people who apply, so expect a real conversation: what you know, how you teach GCSE French, and what you do with a student who has decided they are no good at it.
+All applicants are interviewed by a co-founder before appointment. The interview covers subject knowledge, teaching approach, and experience of supporting students working below their target grade. We appoint a small proportion of applicants.
 
-Message us on WhatsApp or send an email telling us what you have taught. That is the whole application.
+## How to apply
+
+Contact us by WhatsApp or email with a summary of your teaching experience and the subjects and levels you cover.

@@ -1,6 +1,6 @@
 ---
 title: "A-Level English Tutor Jobs (Online, UK) | The Degree Gap"
-description: "A-Level English asks for a sustained critical argument. Tutor A-Level English online with The Degree Gap. Enhanced DBS required."
+description: "A-Level English requires a sustained critical argument. Tutor A-Level English online with The Degree Gap. Enhanced DBS required."
 robots: "index, follow"
 role_title: "A-Level English Tutor"
 h1: "A-Level English Tutor Jobs"
@@ -11,33 +11,39 @@ employment_type: "Part-time, self-employed"
 work_type: "Online, UK wide"
 ---
 
-## The role
+## About the role
 
-We are taking on A-Level English tutors, and we are fussy about who we say yes to.
+The Degree Gap is recruiting experienced A-Level English tutors for online one-to-one teaching.
 
-A-Level English asks for a sustained critical argument, and that is a different skill from the GCSE essay that got the student here. Many arrive writing fluently and still losing marks on argument.
+A-Level English requires a sustained critical argument, a materially different skill from the GCSE essay. Fluent writers often plateau in the middle bands.
 
-Joe speaks to the family before you ever hear a name, so you start knowing the predicted grade, the mock that came back lower than everyone hoped, and what the school has already tried. You are not opening an email from a stranger and guessing.
+Students are matched to tutors by one of the co-founders following a consultation with the family. You will receive the student's current attainment, target grade and relevant background before the first session. We recruit for A-Level English on a rolling basis.
 
-## What the teaching looks like
+## Responsibilities
 
-- Building a critical argument across an essay rather than a sequence of observations
-- Teaching students to use critical readings without letting them replace their own line
-- Working with the set texts and comparative questions on the student's specification
-- Supporting coursework where the specification includes it
+- Develop sustained critical argument across extended essays
+- Teach the use of critical readings in support of a student's own line
+- Deliver set text and comparative components of the specification
+- Support coursework where the specification includes it
 
-## Who we take on
+## Requirements
 
-You can teach argument. Students who write well but score in the middle band usually need structure, not more reading.
+Candidates must be able to teach argument structure, not only textual knowledge.
 
-Beyond that, two years of teaching or tutoring behind you, real experience with A-Level English at this level rather than the subject in general, and an enhanced DBS. We check the DBS before you meet a student, so it is worth having it to hand. You will also need the right to work in the UK, somewhere quiet to teach from and a connection that does not drop halfway through a session.
+- A minimum of two years' teaching or tutoring experience
+- Demonstrable experience teaching A-Level English at this level
+- An enhanced DBS certificate, verified before any student is assigned
+- The right to work in the UK
+- A reliable internet connection and a quiet teaching environment
 
-## How it works week to week
+## Terms
 
-You tell us when you are free and how many students you want. Nothing lands in your diary that you have not agreed to take, you are not advertising yourself anywhere, and you are not chasing families for money. If a student goes quiet or something awkward comes up, you ring us and we deal with it.
+The role is self-employed and part-time, with hours set by the tutor. Students are allocated according to your stated availability and subject coverage. Sessions are scheduled and paid through the platform, so tutors do not invoice families directly and are not required to advertise or source their own students. A named contact is available for scheduling and safeguarding matters.
 
-## Talk to us
+## Selection process
 
-Harry or Joe will interview you before anything else happens. We turn down most people who apply, so expect a real conversation: what you know, how you teach A-Level English, and what you do with a student who has decided they are no good at it.
+All applicants are interviewed by a co-founder before appointment. The interview covers subject knowledge, teaching approach, and experience of supporting students working below their target grade. We appoint a small proportion of applicants.
 
-Message us on WhatsApp or send an email telling us what you have taught. That is the whole application.
+## How to apply
+
+Contact us by WhatsApp or email with a summary of your teaching experience and the subjects and levels you cover.

@@ -1,6 +1,6 @@
 ---
 title: "GCSE Chemistry Tutor Jobs (Online, UK) | The Degree Gap"
-description: "GCSE Chemistry is where the maths content surprises people. Tutor GCSE Chemistry online with The Degree Gap. Enhanced DBS required."
+description: "The quantitative content of GCSE Chemistry, particularly moles. Tutor GCSE Chemistry online with The Degree Gap. Enhanced DBS required."
 robots: "index, follow"
 role_title: "GCSE Chemistry Tutor"
 h1: "GCSE Chemistry Tutor Jobs"
@@ -11,33 +11,39 @@ employment_type: "Part-time, self-employed"
 work_type: "Online, UK wide"
 ---
 
-## The role
+## About the role
 
-We are taking on GCSE Chemistry tutors, and we are fussy about who we say yes to.
+The Degree Gap is recruiting experienced GCSE Chemistry tutors for online one-to-one teaching.
 
-GCSE Chemistry is where the maths content surprises people. Moles, balancing and percentage yield lose marks for students who are otherwise fine on the theory.
+The quantitative content of GCSE Chemistry, particularly moles, balancing and yield calculations, accounts for a disproportionate share of lost marks.
 
-Joe speaks to the family before you ever hear a name, so you start knowing the predicted grade, the mock that came back lower than everyone hoped, and what the school has already tried. You are not opening an email from a stranger and guessing.
+Students are matched to tutors by one of the co-founders following a consultation with the family. You will receive the student's current attainment, target grade and relevant background before the first session. We recruit for GCSE Chemistry on a rolling basis.
 
-## What the teaching looks like
+## Responsibilities
 
-- Teaching quantitative chemistry properly, which is the most common weak point
-- Working through required practicals and the questions built on them
-- Teaching equations and balancing until they are automatic rather than reasoned each time
-- Covering organic and physical chemistry to the specification's depth
+- Teach quantitative chemistry to a secure standard
+- Deliver the required practicals and associated written questions
+- Develop fluency in chemical equations and balancing
+- Cover organic and physical chemistry to specification depth
 
-## Who we take on
+## Requirements
 
-You are confident with the calculation side. A tutor who is strong on theory and vague on moles will not shift the grade.
+Candidates must be confident with the calculation content, not only the theory.
 
-Beyond that, two years of teaching or tutoring behind you, real experience with GCSE Chemistry at this level rather than the subject in general, and an enhanced DBS. We check the DBS before you meet a student, so it is worth having it to hand. You will also need the right to work in the UK, somewhere quiet to teach from and a connection that does not drop halfway through a session.
+- A minimum of two years' teaching or tutoring experience
+- Demonstrable experience teaching GCSE Chemistry at this level
+- An enhanced DBS certificate, verified before any student is assigned
+- The right to work in the UK
+- A reliable internet connection and a quiet teaching environment
 
-## How it works week to week
+## Terms
 
-You tell us when you are free and how many students you want. Nothing lands in your diary that you have not agreed to take, you are not advertising yourself anywhere, and you are not chasing families for money. If a student goes quiet or something awkward comes up, you ring us and we deal with it.
+The role is self-employed and part-time, with hours set by the tutor. Students are allocated according to your stated availability and subject coverage. Sessions are scheduled and paid through the platform, so tutors do not invoice families directly and are not required to advertise or source their own students. A named contact is available for scheduling and safeguarding matters.
 
-## Talk to us
+## Selection process
 
-Harry or Joe will interview you before anything else happens. We turn down most people who apply, so expect a real conversation: what you know, how you teach GCSE Chemistry, and what you do with a student who has decided they are no good at it.
+All applicants are interviewed by a co-founder before appointment. The interview covers subject knowledge, teaching approach, and experience of supporting students working below their target grade. We appoint a small proportion of applicants.
 
-Message us on WhatsApp or send an email telling us what you have taught. That is the whole application.
+## How to apply
+
+Contact us by WhatsApp or email with a summary of your teaching experience and the subjects and levels you cover.
