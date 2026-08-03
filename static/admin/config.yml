@@ -376,6 +376,31 @@ collections:
       - { name: "body", label: "Body (agenda / speakers, optional)", widget: "markdown", required: false }
 
   # ===========================================================================
+  # 5b. TUTOR JOBS — one role page per subject, listed on /jobs/
+  # ===========================================================================
+  - name: "jobs"
+    label: "Tutor Jobs"
+    label_singular: "Tutor Job"
+    description: "Recruitment pages under /jobs/. One role per subject. Keep the body specific to the subject — near-identical role pages get treated as thin content and drop out of the index."
+    folder: "content/jobs"
+    extension: "md"
+    format: "yaml-frontmatter"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{role_title}}"
+    fields:
+      - { name: "title", label: "SEO title", widget: "string", hint: "e.g. 'GCSE Maths Tutor Jobs (Online, UK) | The Degree Gap'." }
+      - { name: "description", label: "SEO description", widget: "text", hint: "Must be unique per role. Also used as the summary in the Google Jobs listing." }
+      - { name: "robots", label: "Robots", widget: "hidden", default: "index, follow" }
+      - { name: "role_title", label: "Role title (H1)", widget: "string", hint: "e.g. 'GCSE Maths Tutor'. Used as the job title in structured data." }
+      - { name: "subject", label: "Subject", widget: "string", hint: "e.g. 'GCSE Maths'. Must match the subject page." }
+      - { name: "level", label: "Level", widget: "select", options: ["GCSE", "A-Level", "11+", "SEN Support", "Reading"], hint: "Groups the role on the /jobs/ hub." }
+      - { name: "subject_page", label: "Matching subject page", widget: "string", hint: "e.g. '/subjects/gcse-maths-tutor/'. Links the role to its parent subject page." }
+      - { name: "employment_type", label: "Employment type", widget: "string", default: "Part-time, self-employed" }
+      - { name: "work_type", label: "Work type", widget: "string", default: "Online, UK wide" }
+      - { name: "body", label: "Role description", widget: "markdown", hint: "Overview, what the teaching involves, what we look for. Keep it specific to this subject." }
+
+  # ===========================================================================
   # 6. SUBJECTS — marketing pages
   # ===========================================================================
   - name: "subjects"

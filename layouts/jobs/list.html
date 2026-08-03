@@ -1,0 +1,119 @@
+{{ define "main" }}
+{{/* Jobs hub — auto-lists every role in content/jobs/, grouped by level.
+     Adding a new subject job page needs no template change. */}}
+{{ $roles  := where .Site.RegularPages "Section" "jobs" }}
+{{ $gcse   := where $roles "Params.level" "GCSE" }}
+{{ $alevel := where $roles "Params.level" "A-Level" }}
+{{ $other  := $roles | complement $gcse $alevel }}
+
+<div class="jb-page">
+
+<style>
+  .jb-page { --bg:#800020; --bg-dk:#5A001F; --cream:#fbf7ef; --ink:#1f1b18; --muted:#5f5a54; --line:#ece4d4; --gold:#FBBC05;
+    font-family:'Poppins', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color:var(--ink); background:var(--cream); }
+  .jb-page * { box-sizing:border-box; }
+  .jb-wrap { max-width:1140px; margin:0 auto; padding:0 24px; }
+
+  .jb-hero { text-align:center; padding:56px 0 44px; border-bottom:1px solid var(--line);
+    background:radial-gradient(1100px 560px at 50% -20%, rgba(245,165,36,.13), rgba(245,165,36,0) 60%), var(--cream); }
+  @media (min-width:760px) { .jb-hero { padding:76px 0 58px; } }
+  .jb-eyebrow { display:inline-block; font-size:.74rem; font-weight:800; letter-spacing:.2em; text-transform:uppercase; color:var(--bg); margin:0 0 16px; }
+  .jb-hero h1 { font-size:clamp(2.1rem,4.6vw,3.1rem); font-weight:800; line-height:1.08; letter-spacing:-.028em; margin:0 auto 16px; max-width:20ch; text-wrap:balance; }
+  .jb-hero__lead { font-size:1.12rem; line-height:1.6; color:var(--muted); max-width:62ch; margin:0 auto 26px; }
+
+  .jb-facts { display:flex; flex-wrap:wrap; justify-content:center; gap:10px; margin:26px 0 0; }
+  .jb-fact { display:inline-flex; align-items:center; gap:7px; background:#fff; border:1px solid var(--line); border-radius:999px;
+    padding:8px 16px; font-size:.86rem; font-weight:600; color:var(--ink); }
+
+  .jb-group { padding:52px 0; }
+  .jb-group:nth-of-type(even) { background:#fff; border-top:1px solid var(--line); border-bottom:1px solid var(--line); }
+  .jb-group__label { display:inline-block; font-size:.72rem; font-weight:800; letter-spacing:.16em; text-transform:uppercase; color:var(--bg); margin:0 0 8px; }
+  .jb-group h2 { font-size:clamp(1.5rem,3vw,2rem); font-weight:800; letter-spacing:-.02em; margin:0 0 26px; }
+
+  .jb-grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(260px,1fr)); gap:16px; }
+  .jb-card { display:flex; flex-direction:column; justify-content:space-between; gap:16px; background:#fff; border:1px solid var(--line);
+    border-radius:14px; padding:22px; text-decoration:none; color:var(--ink); box-shadow:0 6px 18px rgba(35,23,17,.04);
+    transition:transform .18s, box-shadow .18s, border-color .18s; }
+  .jb-group:nth-of-type(even) .jb-card { background:var(--cream); }
+  .jb-card:hover { transform:translateY(-3px); border-color:#e6c9c9; box-shadow:0 16px 34px rgba(128,0,32,.10); }
+  .jb-card__name { font-size:1.14rem; font-weight:700; letter-spacing:-.01em; line-height:1.25; }
+  .jb-card__meta { font-size:.86rem; color:var(--muted); margin-top:6px; }
+  .jb-card__go { display:inline-flex; align-items:center; gap:7px; font-size:.82rem; font-weight:700; color:var(--bg); }
+  .jb-card__go svg { transition:transform .18s; } .jb-card:hover .jb-card__go svg { transform:translateX(3px); }
+
+  .jb-req { padding:52px 0; }
+  .jb-req h2 { font-size:clamp(1.4rem,2.8vw,1.9rem); font-weight:800; letter-spacing:-.02em; margin:0 0 18px; }
+  .jb-req ul { margin:0; padding-left:20px; color:var(--muted); font-size:1.02rem; line-height:1.75; max-width:72ch; }
+  .jb-req strong { color:var(--ink); font-weight:700; }
+
+  .jb-final { text-align:center; padding:66px 24px; border-top:1px solid var(--line);
+    background:radial-gradient(700px 380px at 50% -30%, rgba(245,165,36,.1), rgba(245,165,36,0) 62%), var(--cream); }
+  .jb-final h2 { font-size:clamp(1.6rem,3.4vw,2.2rem); font-weight:800; letter-spacing:-.022em; margin:0 0 10px; }
+  .jb-final p { color:var(--muted); font-size:1.05rem; margin:0 0 24px; }
+  .jb-cta { display:inline-flex; align-items:center; gap:9px; background:var(--bg); color:var(--cream); font-weight:700; font-size:1rem;
+    padding:15px 28px; border-radius:999px; text-decoration:none; box-shadow:0 8px 22px rgba(128,0,32,.18); transition:transform .18s, background .18s; }
+  .jb-cta:hover { background:var(--bg-dk); transform:translateY(-1px); }
+</style>
+
+{{ $arrow := `<span class="jb-card__go">View role <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>` }}
+{{ $applyURL := "https://thedegreegap.com/apply-to-tutor" }}
+
+<section class="jb-hero">
+  <div class="jb-wrap">
+    <span class="jb-eyebrow">{{ .Params.hero_eyebrow }}</span>
+    <h1>{{ .Params.hero_heading }}</h1>
+    <p class="jb-hero__lead">{{ .Params.hero_lead }}</p>
+    <a class="jb-cta" href="{{ $applyURL }}">Apply to tutor
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+    <div class="jb-facts">
+      <span class="jb-fact">Online, UK wide</span>
+      <span class="jb-fact">You set your availability</span>
+      <span class="jb-fact">Enhanced DBS required</span>
+      <span class="jb-fact">2+ years experience</span>
+    </div>
+  </div>
+</section>
+
+{{ range slice (dict "label" "GCSE" "title" "GCSE tutoring roles" "pages" $gcse) (dict "label" "A-Level" "title" "A-Level tutoring roles" "pages" $alevel) (dict "label" "Specialised" "title" "11+, SEN and reading roles" "pages" $other) }}
+  {{ if .pages }}
+  <section class="jb-group">
+    <div class="jb-wrap">
+      <span class="jb-group__label">{{ .label }}</span>
+      <h2>{{ .title }}</h2>
+      <div class="jb-grid">
+        {{ range sort .pages "Params.subject" }}
+        <a class="jb-card" href="{{ .RelPermalink }}">
+          <span>
+            <span class="jb-card__name">{{ .Params.role_title }}</span>
+            <span class="jb-card__meta">{{ .Params.work_type }}</span>
+          </span>
+          {{ $arrow | safeHTML }}
+        </a>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  {{ end }}
+{{ end }}
+
+<section class="jb-req">
+  <div class="jb-wrap">
+    <h2>What every role requires</h2>
+    <ul>
+      <li><strong>Two or more years</strong> of teaching or tutoring experience.</li>
+      <li><strong>An enhanced DBS check.</strong> This is a requirement of every role and we verify it before a student is assigned.</li>
+      <li><strong>Direct experience in the subject you apply for.</strong> We ask about the specification and the mark scheme at interview.</li>
+      <li><strong>The right to work in the UK</strong>, and a reliable connection and quiet space to teach from.</li>
+    </ul>
+  </div>
+</section>
+
+<section class="jb-final">
+  <h2>One application covers every subject you teach</h2>
+  <p>Tell us the subjects and levels you have taught and we will take it from there.</p>
+  <a class="jb-cta" href="{{ $applyURL }}">Apply to tutor
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+</section>
+
+</div>
+{{ end }}
