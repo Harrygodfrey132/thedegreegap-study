@@ -386,6 +386,19 @@ a process timeline, one consolidated trust signal. Reusable across subjects.
   </div>
 </section>
 
+{{/* Link through to the matching recruitment page. Tutors land on subject
+     pages while looking for work, and this is the only route from here. */}}
+{{ with site.GetPage (printf "/jobs/%s" (path.Base .File.Dir)) }}
+<section class="mx-tutorlink">
+  <style>
+    .mx-tutorlink { padding:26px 24px; text-align:center; border-top:1px solid #ece4d4; background:#fbf7ef; }
+    .mx-tutorlink p { margin:0; font-size:.98rem; color:#5f5a54; }
+    .mx-tutorlink a { color:#800020; font-weight:700; }
+  </style>
+  <p>Are you a tutor rather than a parent? We are hiring. See the <a href="{{ .RelPermalink }}">{{ .Params.subject }} tutor role</a>.</p>
+</section>
+{{ end }}
+
 {{ partial "reviews-drawer.html" . }}
 
 </div><!-- /.sj-page-wrap -->

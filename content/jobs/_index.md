@@ -1,6 +1,6 @@
 ---
 title: "Online Tutor Jobs UK | GCSE & A-Level Tutoring Roles | The Degree Gap"
-description: "Apply for online tutoring jobs with The Degree Gap. We recruit experienced GCSE, A-Level, 11+ and SEN tutors across the UK. Two or more years of experience and an enhanced DBS check required."
+description: "Online tutoring jobs with The Degree Gap. We take on experienced GCSE, A-Level, 11+ and SEN tutors across the UK. Two years experience and an enhanced DBS required."
 robots: "index, follow"
 layout: "list"
 
