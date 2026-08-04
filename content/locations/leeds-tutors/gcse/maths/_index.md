@@ -18,7 +18,7 @@ angle_image: "/images/maths-equations-close-up.jpg"
 angle_image_alt: "A GCSE Maths student working through a higher-paper problem with a tutor"
 angle_stat_from: "5"
 angle_stat_to: "7"
-angle_stat_detail: "A real grade lift achieved by one of our Leeds GCSE Maths students over a term of weekly one-to-one sessions."
+angle_stat_detail: "The lift we most often work towards over a term of weekly one-to-one GCSE Maths sessions."
 schools:
   - "Roundhay School"
   - "Lawnswood School"

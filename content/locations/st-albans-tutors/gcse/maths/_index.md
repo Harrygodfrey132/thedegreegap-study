@@ -18,7 +18,7 @@ angle_image: "/images/students-in-classroom-taking-notes.jpg"
 angle_image_alt: "A GCSE Maths student working through a higher-paper question with a tutor"
 angle_stat_from: "6"
 angle_stat_to: "8"
-angle_stat_detail: "A real grade lift achieved by one of our St Albans GCSE Maths students in a single term of weekly one-to-one sessions."
+angle_stat_detail: "The lift we most often work towards over a term of weekly one-to-one GCSE Maths sessions."
 schools:
   - "Sandringham"
   - "Verulam"

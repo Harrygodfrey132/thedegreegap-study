@@ -18,7 +18,7 @@ angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"
 angle_image_alt: "A GCSE English student annotating an unseen poem with a tutor"
 angle_stat_from: "5"
 angle_stat_to: "7"
-angle_stat_detail: "A real grade lift achieved by one of our Wigan GCSE English students across a term of weekly sessions."
+angle_stat_detail: "A one to two band move is the usual target across a term of weekly one-to-one GCSE English work."
 schools:
   - "The Deanery CE High School"
   - "Standish Community High School"

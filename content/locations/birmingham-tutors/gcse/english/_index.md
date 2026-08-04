@@ -18,7 +18,7 @@ angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"
 angle_image_alt: "A GCSE English student building a comparison essay plan with a tutor"
 angle_stat_from: "5"
 angle_stat_to: "7"
-angle_stat_detail: "A real grade lift achieved by one of our Birmingham GCSE English students across a term of weekly sessions."
+angle_stat_detail: "The lift we most often work towards over a term of weekly one-to-one GCSE English sessions."
 schools:
   - "King Edward VI Camp Hill School for Girls"
   - "Sutton Coldfield Grammar School for Girls"

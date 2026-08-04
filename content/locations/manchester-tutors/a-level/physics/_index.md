@@ -18,7 +18,7 @@ angle_image: "/images/student-completing-maths-worksheet.jpg"
 angle_image_alt: "An A-Level Physics student working through a multi-step Mechanics problem with a tutor"
 angle_stat_from: "B"
 angle_stat_to: "A"
-angle_stat_detail: "A real A-Level grade lift achieved by one of our A-Level Physics students, across Year 12 to Year 13."
+angle_stat_detail: "The kind of movement A-Level Physics sessions are built around across Year 12 into Year 13."
 
 schools:
   - "Xaverian College"

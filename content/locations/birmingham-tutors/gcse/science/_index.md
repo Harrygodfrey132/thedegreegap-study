@@ -18,7 +18,7 @@ angle_image: "/images/chemistry-lab-glassware.jpg"
 angle_image_alt: "A GCSE Science student working through a required practical with a tutor"
 angle_stat_from: "4"
 angle_stat_to: "6"
-angle_stat_detail: "A real grade lift achieved by one of our Birmingham GCSE Science students over a term of weekly one-to-one sessions."
+angle_stat_detail: "Where a term of weekly one-to-one GCSE Science sessions is typically aimed."
 schools:
   - "King Edward VI Aston School"
   - "King Edward VI Camp Hill School for Girls"

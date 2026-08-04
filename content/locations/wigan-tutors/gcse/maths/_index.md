@@ -18,7 +18,7 @@ angle_image: "/images/maths-equations-close-up.jpg"
 angle_image_alt: "A GCSE Maths student working through a higher-paper algebra question with a tutor"
 angle_stat_from: "5"
 angle_stat_to: "7"
-angle_stat_detail: "A real grade lift achieved by one of our Wigan GCSE Maths students over a term of weekly one-to-one sessions."
+angle_stat_detail: "Where a term of weekly one-to-one GCSE Maths sessions is typically aimed."
 schools:
   - "Standish Community High School"
   - "The Deanery CE High School"

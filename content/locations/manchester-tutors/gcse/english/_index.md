@@ -18,7 +18,7 @@ angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"
 angle_image_alt: "A GCSE English student annotating an unseen poem with a tutor"
 angle_stat_from: "5"
 angle_stat_to: "7"
-angle_stat_detail: "A real grade lift achieved by one of our Manchester GCSE English students across a term of weekly sessions."
+angle_stat_detail: "The lift we most often work towards over a term of weekly one-to-one GCSE English sessions."
 schools:
   - "Altrincham Grammar School for Girls"
   - "Loreto Grammar School"

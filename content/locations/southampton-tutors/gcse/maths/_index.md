@@ -18,7 +18,7 @@ angle_image: "/images/students-in-classroom-taking-notes.jpg"
 angle_image_alt: "A GCSE Maths student working through a foundation algebra question with a tutor"
 angle_stat_from: "4"
 angle_stat_to: "6"
-angle_stat_detail: "A real GCSE Maths grade lift achieved by one of our students over two terms of weekly one-to-one tutoring."
+angle_stat_detail: "The kind of movement weekly one-to-one GCSE Maths sessions are built around over a term."
 
 schools:
   - "Cantell School"
