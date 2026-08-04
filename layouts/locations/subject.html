@@ -209,18 +209,12 @@
           {{ $name := index $parts 0 }}
           {{ $desc := index $parts 1 }}
           {{ $href := cond (gt (len $parts) 2) (index $parts 2) (printf "%s/teachers" $.Site.Params.mainSiteURL) }}
-          {{/* Each card links to the most specific page that exists for that exact
-               subject, in this order:
-                 1. a {level} {subject} page for this city, if there is one
-                 2. the site-wide {level} {subject} page
-                 3. the fallback already set above
+          {{/* A card links to this city's own {level} {subject} page when one
+               exists, and otherwise falls back to the booking page set above.
                Matching is on the card's exact subject token, so Biology, Chemistry
-               and Physics each reach their own page and only the Science card ever
-               reaches the combined Science page. */}}
+               and Physics do not get folded into the combined Science page. They
+               fall back to booking until this city has a page of its own for them. */}}
           {{ $cardSubject := lower (replace (replace $name (printf "%s " $level) "") " Tutoring" "") }}
-          {{ with site.GetPage (printf "/subjects/%s-%s-tutor" (lower $level) (replace $cardSubject " " "-")) }}
-            {{ $href = .RelPermalink }}
-          {{ end }}
           {{ range $child := $childSubjectPages }}
             {{ if and $child.Params.subject (eq $cardSubject (lower $child.Params.subject)) }}
               {{ $href = $child.RelPermalink }}
