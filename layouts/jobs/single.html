@@ -5,6 +5,14 @@
 {{ $subjectPage := site.GetPage (printf "/subjects/%s" (path.Base .Params.subject_page)) }}
 {{ $siblings := where (where site.RegularPages "Section" "jobs") "Params.level" .Params.level }}
 
+{{/* Hourly pay, by level. A-Level pays more; 11+, SEN and Reading sit on the
+     GCSE tier. Both figures appear in the visible copy below as well as in the
+     JobPosting schema, so the structured data always matches the page. A role
+     can override either figure from its own front matter. */}}
+{{ $isALevel := eq .Params.level "A-Level" }}
+{{ $rate := .Params.hourly_rate | default (cond $isALevel 30 25) }}
+{{ $startRate := .Params.starting_rate | default (cond $isALevel 25 22) }}
+
 <div class="jb-page jb-role">
 
 <style>
@@ -62,6 +70,7 @@
   <div class="jb-wrap">
     <h1>{{ .Params.h1 | default .Params.role_title }}</h1>
     <div class="jb-tags">
+      <span class="jb-tag">&pound;{{ $rate }} per hour</span>
       <span class="jb-tag">{{ .Params.work_type }}</span>
       <span class="jb-tag">{{ .Params.employment_type }}</span>
       <span class="jb-tag">Enhanced DBS required</span>
@@ -79,6 +88,9 @@
 <div class="jb-wrap">
   <div class="jb-body">
     {{ .Content }}
+
+    <h2>Pay</h2>
+    <p>This role is advertised at &pound;{{ $rate }} per hour. Lots of new tutors start at &pound;{{ $startRate }} per hour, and the rate is completely up to you. We keep it flexible so we can accommodate the best tutors.</p>
 
     {{ with $subjectPage }}
     <h2>Related information</h2>
@@ -110,7 +122,8 @@
 </div>
 
 {{/* JobPosting structured data — makes the role eligible for Google Jobs.
-     Fields we cannot state truthfully (pay) are omitted rather than guessed. */}}
+     baseSalary carries the same hourly figure shown in the visible copy above,
+     which is what Search Console's "Missing field baseSalary" warning wanted. */}}
 {{ $posted := .Lastmod }}
 {{ $valid := $posted.AddDate 1 0 0 }}
 <script type="application/ld+json">
@@ -123,6 +136,15 @@
   "datePosted": {{ $posted.Format "2006-01-02" }},
   "validThrough": {{ $valid.Format "2006-01-02" }},
   "employmentType": ["PART_TIME", "CONTRACTOR"],
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "GBP",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": {{ $rate }},
+      "unitText": "HOUR"
+    }
+  },
   "hiringOrganization": {
     "@type": "Organization",
     "name": "The Degree Gap",
