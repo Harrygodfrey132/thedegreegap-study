@@ -1,6 +1,6 @@
 ---
-title: "GCSE English Tutors Who Get the Marks Onto the Page | The Degree Gap"
-description: "Your child has read the book and understands it, and the English essays still are not scoring. Book a 40-minute consultation with co-founder Joe, then take free trial calls with the GCSE English tutors he matches you with. Sessions from £37/hr."
+title: "GCSE English Tutors Who Get Marks Onto the Page"
+description: "Your child has read the book and understands it, and the essays still are not scoring. Free call with co-founder Joe, then trial lessons from £37/hr."
 robots: "index, follow"
 layout: "single"
 subject: "GCSE English"

@@ -108,7 +108,7 @@
       {{ if $resultsPage }}
       <a class="wb-card wb-card--featured" href="{{ $resultsPage.RelPermalink }}">
         <span class="wb-card__badge">{{ $calSvg | safeHTML }} {{ $resultsPage.Params.webinar_date_display | default "Monday 17 August 2026" }}</span>
-        <h3 class="wb-card__title">{{ $resultsPage.Params.card_title | default "GCSE Results Day Webinar" }}</h3>
+        <h2 class="wb-card__title">{{ $resultsPage.Params.card_title | default "GCSE Results Day Webinar" }}</h2>
         <p class="wb-card__summary">A free live session for parents: what happens on results day, what the grades actually mean, and how to handle whatever the envelope says. Plus live Q&amp;A.</p>
         <span class="wb-card__cta">Save my place {{ $arrowSvg | safeHTML }}</span>
       </a>
@@ -118,7 +118,7 @@
       {{ range sort .Pages "Params.webinar_date" }}
       <a class="wb-card" href="{{ .RelPermalink }}">
         <span class="wb-card__badge">{{ $calSvg | safeHTML }} {{ .Params.webinar_date_display | default "Date coming soon" }}</span>
-        <h3 class="wb-card__title">{{ .Params.card_title | default .Params.hero_h1 | default .Title }}</h3>
+        <h2 class="wb-card__title">{{ .Params.card_title | default .Params.hero_h1 | default .Title }}</h2>
         <p class="wb-card__summary">{{ .Params.card_summary | default .Params.hero_lead | default .Description }}</p>
         <span class="wb-card__cta">{{ .Params.cta_label | default "Register" }} {{ $arrowSvg | safeHTML }}</span>
       </a>

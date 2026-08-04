@@ -1,5 +1,5 @@
 ---
-title: Wolverhampton Tutoring | Trusted GCSE & A-Level Tutors
+title: "Wolverhampton Tutoring | GCSE & A-Level Tutors"
 description: One-to-one Wolverhampton tutoring for Maths, English, Sciences and
   more. Expert tutors, flexible online lessons and proven academic results.
 layout: single

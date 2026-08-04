@@ -7,7 +7,7 @@ webinar_end_date: 2027-01-28T20:00:00+00:00
 webinar_date_display: "28 January"
 webinar_time_display: "7–8pm (UK time)"
 youtube_id: "UnBjkc345CY"
-free_resources_url: "/past-papers/"
+free_resources_url: "/blog/"
 form_source: "gcse-summit"
 lead_source: "January Webinar"
 sitemap:

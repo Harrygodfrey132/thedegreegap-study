@@ -1,6 +1,6 @@
 ---
-title: "GCSE Combined Science Tutors: All Three, One Plan | The Degree Gap"
-description: "Two GCSEs, three sciences and a spec that never sits still, and the revision spreads so thin that none of it feels solid. Book a 40-minute consultation with co-founder Joe, then take free trial calls with the GCSE Combined Science tutors he matches you with. Sessions from £37/hr."
+title: "GCSE Combined Science Tutors: All Three Sciences"
+description: "Two GCSEs, three sciences and a spec that never sits still, so the revision spreads too thin to hold. Free call with co-founder Joe, then trial lessons from £37/hr."
 robots: "index, follow"
 layout: "single"
 subject: "GCSE Combined Science"

@@ -9,7 +9,7 @@
 {{ $dateDisplay := .Params.webinar_date_display | default "28 January" }}
 {{ $timeDisplay := .Params.webinar_time_display | default "7–8pm (UK time)" }}
 {{ $ytId := .Params.youtube_id | default "UnBjkc345CY" }}
-{{ $resourcesUrl := .Params.free_resources_url | default "/past-papers/" }}
+{{ $resourcesUrl := .Params.free_resources_url | default "/blog/" }}
 {{ $leadSource := .Params.lead_source | default "January Webinar" }}
 
 <style>
@@ -381,7 +381,7 @@
   <section class="gs-resources">
     <h2>Want access to free resources?</h2>
     <a href="{{ partial "url.html" $resourcesUrl }}" class="gs-cta">
-      Free papers link
+      Read our free parent guides
       <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
     </a>
   </section>

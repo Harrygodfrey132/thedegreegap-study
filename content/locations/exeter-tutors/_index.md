@@ -1,5 +1,5 @@
 ---
-title: Exeter Tutors | GCSE & A-Level Tuition from £37/hr
+title: "Exeter Tutors | GCSE & A-Level from £37/hr"
 description: Find expert Exeter tutors for GCSE and A-Level support.
   Personalised tuition from £37/hr to help students achieve top grades and exam
   success.

@@ -1,6 +1,6 @@
 ---
 title: "Loughborough GCSE & A-Level Tutors | The Degree Gap"
-description: "One-to-one Loughborough tutoring across GCSE and A-Level, with founder-vetted tutors who know what Loughborough Grammar, Charnwood and De Lisle students are working towards."
+description: "One-to-one Loughborough tutoring across GCSE and A-Level, with founder-vetted tutors who know Loughborough Grammar, Charnwood and De Lisle."
 layout: "single"
 location: "Loughborough"
 banner_heading: "Loughborough tutors who treat a student's ambition as the starting point, not the ceiling."

@@ -16,11 +16,11 @@
   <link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
   <link rel="preconnect" href="https://connect.facebook.net" crossorigin>
   <!-- Preload hint so browser starts CSS fetch earlier in the critical path.
-       Cache-busting query string uses the CSS file's modification time so
-       browsers re-fetch automatically whenever main.css changes. -->
-  {{ $cssVersion := (os.Stat "static/css/main.css").ModTime.Unix }}
-  <link rel="preload" href="{{ "css/main.css" | relURL }}?v={{ $cssVersion }}" as="style">
-  <link rel="stylesheet" href="{{ "css/main.css" | relURL }}?v={{ $cssVersion }}">
+       The stylesheet is minified and fingerprinted, so its filename changes
+       whenever the contents do and it can be cached for a year. -->
+  {{ $css := resources.Get "css/main.css" | minify | fingerprint "sha256" }}
+  <link rel="preload" href="{{ $css.RelPermalink }}" as="style">
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}">
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-X8HZE9WB3J"></script>
   <script>

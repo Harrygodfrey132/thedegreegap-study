@@ -1,5 +1,5 @@
 ---
-title: Southampton Tutoring | Trusted GCSE & A-Level Tutors
+title: "Southampton Tutoring | GCSE & A-Level Tutors"
 description: One-to-one Southampton tutoring for Maths, English, Sciences and
   more. Expert tutors, flexible online lessons and proven academic results.
 layout: single

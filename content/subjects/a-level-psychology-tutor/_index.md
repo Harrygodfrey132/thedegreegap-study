@@ -1,6 +1,6 @@
 ---
-title: "A-Level Psychology Tutors Who Fix the Evaluation Marks | The Degree Gap"
-description: "Your child knows the studies but the A-Level Psychology marks keep leaking on research methods and evaluation. Book a 40-minute consultation with co-founder Joe, then take free trial calls with the tutors he matches you with. Sessions from £37/hr."
+title: "A-Level Psychology Tutors for Evaluation Marks"
+description: "Your child knows the studies, and the marks keep leaking on research methods and evaluation. Free call with co-founder Joe, then trial lessons from £37/hr."
 robots: "index, follow"
 layout: "single"
 subject: "A-Level Psychology"

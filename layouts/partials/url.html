@@ -6,10 +6,18 @@
   slash must be trimmed first: Hugo's relURL drops the baseURL path component
   for inputs that already begin with "/".
 
+  Already-resolved paths (anything a Hugo .RelPermalink produced, which already
+  carries the baseURL subdirectory) pass through untouched. Without this check a
+  "/study/locations/leeds-tutors/gcse/maths/" input came back out as
+  "/study/study/locations/..." and 404'd.
+
   External URLs, anchors, mailto: and tel: are passed through untouched.
 */ -}}
 {{- $u := . -}}
-{{- if hasPrefix $u "/" -}}
+{{- $basePath := or (urls.Parse site.BaseURL).Path "/" -}}
+{{- if and (ne $basePath "/") (hasPrefix $u $basePath) -}}
+  {{- $u -}}
+{{- else if hasPrefix $u "/" -}}
   {{- strings.TrimPrefix "/" $u | relURL -}}
 {{- else -}}
   {{- $u -}}

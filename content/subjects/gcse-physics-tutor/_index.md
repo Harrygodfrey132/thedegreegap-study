@@ -1,6 +1,6 @@
 ---
 title: "GCSE Physics Tutors Who Make the Equations Click | The Degree Gap"
-description: "The physics makes sense until a question asks them to rearrange the equation, sort the units and show every step, and then the marks fall away. Book a 40-minute consultation with co-founder Joe, then take free trial calls with the GCSE Physics tutors he matches you with. Sessions from £37/hr."
+description: "The physics makes sense until a question asks them to rearrange the equation and show every step. Free call with co-founder Joe, then trial lessons from £37/hr."
 robots: "index, follow"
 layout: "single"
 subject: "GCSE Physics"

@@ -1,5 +1,5 @@
 ---
-title: Leicester Tutoring | Trusted GCSE & A-Level Tutors
+title: "Leicester Tutoring | GCSE & A-Level Tutors"
 description: One-to-one Leicester tutoring for Maths, English, Sciences and
   more. Expert tutors, flexible online lessons and proven academic results.
 layout: single

@@ -1,5 +1,5 @@
 ---
-title: St Albans Tutors | GCSE & A-Level Tuition from £37/hr
+title: "St Albans Tutors | GCSE & A-Level from £37/hr"
 description: Find expert St Albans tutors for GCSE and A-Level support.
   Personalised tuition from £37/hr to help students achieve top grades and exam
   success.

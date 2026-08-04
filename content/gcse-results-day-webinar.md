@@ -1,6 +1,6 @@
 ---
-title: "GCSE Results Day Webinar 2026 — Free Parent Masterclass | The Degree Gap"
-description: "Free one-hour live session for parents of GCSE students: a 30-minute walkthrough plus 30 minutes of live Q&A. What happens on results day, what the grades actually mean, and how to handle whatever the envelope says. Monday 17 August 2026, 7–8pm UK time."
+title: "GCSE Results Day 2026: Free Parent Webinar"
+description: "Free one-hour live session for parents: what happens on GCSE results day, what the grades actually mean, and what to do next. 17 August 2026, 7-8pm."
 layout: "gcse-results-day-webinar"
 webinar_date: 2026-08-17T18:00:00+00:00
 webinar_end_date: 2026-08-17T19:00:00+00:00

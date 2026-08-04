@@ -25,3 +25,67 @@ RewriteRule ^locations/epsom-tutors/a-level(/.*)?$  /study/locations/  [L,R=301]
 
 # Derby GCSE Physics page removed — send to the Derby GCSE hub.
 RewriteRule ^locations/derby-tutors/gcse/physics-tutoring/?$  /study/locations/derby-tutors/gcse/  [L,R=301]
+
+# The past-papers section was scaffolded but the paper pages were never written,
+# so it never renders. Send anything under it to the free parent guides, which
+# is the closest live equivalent.
+RewriteRule ^past-papers(/.*)?$  /study/blog/  [L,R=301]
+
+
+# ---------------------------------------------------------------------------
+# Security headers and caching.
+#
+# These used to come from Netlify's _headers file, which Apache ignores, so
+# since the move to /study/ the live site has been serving none of them. Both
+# blocks are guarded by IfModule so a host without mod_headers/mod_expires
+# degrades quietly instead of throwing a 500.
+# ---------------------------------------------------------------------------
+
+<IfModule mod_headers.c>
+  Header always set X-Frame-Options "SAMEORIGIN"
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set Permissions-Policy "geolocation=(), microphone=(), camera=()"
+  Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://www.google-analytics.com https://identity.netlify.com https://cal.com https://app.cal.com https://connect.facebook.net; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' data: https://fonts.gstatic.com; img-src 'self' data: blob: https:; connect-src 'self' https://formspree.io https://www.google-analytics.com https://*.google-analytics.com https://*.analytics.google.com https://*.netlify.com https://identity.netlify.com https://cal.com https://app.cal.com https://www.facebook.com https://connect.facebook.net https://crm.zoho.eu; frame-src 'self' https://www.youtube.com https://youtube.com https://www.youtube-nocookie.com https://www.google.com https://maps.google.com https://cal.com https://app.cal.com https://crm.zoho.eu; form-action 'self' https://formspree.io https://crm.zoho.eu; base-uri 'self'; object-src 'none'; upgrade-insecure-requests"
+
+  # Decap CMS needs unpkg for its own JS/CSS/fonts and GitHub for Git Gateway,
+  # so it gets its own policy rather than the site-wide one.
+  <If "%{REQUEST_URI} =~ m#^/study/admin/#">
+    Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://unpkg.com https://identity.netlify.com; style-src 'self' 'unsafe-inline' https://unpkg.com https://fonts.googleapis.com; font-src 'self' data: https://unpkg.com https://fonts.gstatic.com; img-src 'self' data: blob: https:; connect-src 'self' https://unpkg.com https://identity.netlify.com https://*.netlify.com https://api.github.com; frame-src 'self'; form-action 'self'; base-uri 'self'; object-src 'none'"
+  </If>
+
+  # Hugo fingerprints the stylesheet, so its filename changes whenever the
+  # contents do and it can be cached hard.
+  <FilesMatch "\.min\.[0-9a-f]{64}\.(css|js)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+
+  # Hugo's processed images carry a content hash in the filename too.
+  <FilesMatch "_hu_[0-9a-f]+.*\.(png|jpg|jpeg|webp|avif)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+</IfModule>
+
+<IfModule mod_expires.c>
+  ExpiresActive On
+
+  # Un-fingerprinted assets (logos, favicons, hand-written JS): 30 days.
+  ExpiresByType text/css                  "access plus 30 days"
+  ExpiresByType application/javascript    "access plus 30 days"
+  ExpiresByType image/png                 "access plus 30 days"
+  ExpiresByType image/jpeg                "access plus 30 days"
+  ExpiresByType image/svg+xml             "access plus 30 days"
+  ExpiresByType image/webp                "access plus 30 days"
+  ExpiresByType image/avif                "access plus 30 days"
+  ExpiresByType image/x-icon              "access plus 30 days"
+  ExpiresByType font/woff2                "access plus 1 year"
+
+  # HTML must revalidate so content edits go live immediately.
+  ExpiresByType text/html                 "access plus 0 seconds"
+</IfModule>
+
+<IfModule mod_headers.c>
+  <FilesMatch "\.html$">
+    Header set Cache-Control "public, max-age=0, must-revalidate"
+  </FilesMatch>
+</IfModule>

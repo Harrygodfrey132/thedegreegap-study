@@ -1,6 +1,6 @@
 ---
-title: Royal Leamington spa Tutors | GCSE & A-Level Tuition from £37/hr
-description: Find expert Royal Leamington spa Tutors for GCSE and A-Level
+title: "Royal Leamington Spa Tutors | GCSE & A-Level"
+description: Find expert Royal Leamington Spa tutors for GCSE and A-Level
   support. Personalised tuition from £37/hr to help students achieve top grades
   and exam success.
 layout: single

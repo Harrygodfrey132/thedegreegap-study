@@ -1,6 +1,6 @@
 ---
 title: "A-Level Physics Tutors Who Rebuild the Maths | The Degree Gap"
-description: "Your child gets the Physics, but the marks stall on the maths underneath it. Book a 40-minute consultation with co-founder Joe, then take free trial calls with the tutors he matches you with. Sessions from £37/hr."
+description: "Your child gets the Physics, and the marks stall on the maths underneath it. Free call with co-founder Joe, then trial lessons from £37/hr."
 robots: "index, follow"
 layout: "single"
 subject: "A-Level Physics"

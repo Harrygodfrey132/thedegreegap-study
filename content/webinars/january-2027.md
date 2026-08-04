@@ -1,6 +1,6 @@
 ---
-title: "GCSE Summit: A Parent's Guide to Supporting GCSE Success | The Degree Gap"
-description: "Our flagship free parent webinar. How to support your child through GCSEs, keep motivation up when the pressure peaks, and use mock results to build real progress. January 2027."
+title: "GCSE Summit: A Parent's Guide to GCSE Success"
+description: "Our flagship free parent webinar. How to support your child through GCSEs, keep motivation up, and use mock results to build real progress."
 layout: "single"
 hero_eyebrow: "January 2027 · The GCSE Summit"
 hero_h1: "A Parent's Guide to Supporting GCSE Success"
@@ -12,7 +12,7 @@ webinar_end_date: 2027-01-22T20:00:00+00:00
 webinar_date_display: "January 2027"
 webinar_time_display: "Evening session (UK time)"
 youtube_id: "UnBjkc345CY"
-free_resources_url: "/past-papers/"
+free_resources_url: "/blog/"
 outcomes_sub: "One focused hour, built around what parents ask us most."
 outcomes:
   - "Support without the standoffs|practical ways to help that your child will actually accept."

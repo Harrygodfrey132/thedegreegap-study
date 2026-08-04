@@ -1,6 +1,6 @@
 ---
 title: "A-Level Economics Tutors Who Coach the Essay | The Degree Gap"
-description: "Your child is working hard, and the Economics essays and evaluation marks keep slipping away. Book a 40-minute consultation with co-founder Joe, then take free trial calls with the A-Level Economics tutors he matches you with. Sessions from £37/hr."
+description: "Your child is working hard, and the Economics essays and evaluation marks keep slipping away. Free call with co-founder Joe, then trial lessons from £37/hr."
 robots: "index, follow"
 layout: "single"
 subject: "A-Level Economics"

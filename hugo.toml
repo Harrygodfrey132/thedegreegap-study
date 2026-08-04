@@ -3,6 +3,10 @@ languageCode = "en-gb"
 title = "The Degree Gap | Tutoring & Study Resources"
 disableKinds = ["taxonomy", "term"]
 
+# Derive each page's Lastmod from its last git commit. Without this only the
+# handful of pages carrying an explicit date got a <lastmod> in the sitemap.
+enableGitInfo = true
+
 [params]
   formspreeEndpoint = "https://formspree.io/f/mvgonabg"
   phone = "+447859965776"
@@ -27,6 +31,12 @@ disableKinds = ["taxonomy", "term"]
   [[module.mounts]]
     source = "static/images"
     target = "assets/images"
+  # main.css lives in static/ so Decap CMS can edit it, but it is also mounted
+  # into assets/ so baseof.html can minify and fingerprint it. Netlify used to
+  # minify on deploy; Apache does not, so Hugo has to do it now.
+  [[module.mounts]]
+    source = "static/css"
+    target = "assets/css"
   [[module.mounts]]
     source = "static"
     target = "static"

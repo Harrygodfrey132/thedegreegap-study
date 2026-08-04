@@ -1,6 +1,6 @@
 ---
-title: "ADHD & SEN Tutors Who Teach How Your Child Learns | The Degree Gap"
-description: "Your child learns differently, and a class of thirty does not always have room for that. Book a free 40-minute call with co-founder Joe, then take free trial calls with the ADHD and SEN tutors he matches you with. Sessions from £37/hr."
+title: "ADHD & SEN Tutors for How Your Child Learns"
+description: "Your child learns differently, and a class of thirty does not always have room for that. Free call with co-founder Joe, then trial lessons from £37/hr."
 robots: "index, follow"
 layout: "single"
 subject: "ADHD & SEN"

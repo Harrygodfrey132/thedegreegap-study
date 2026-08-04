@@ -1,5 +1,5 @@
 ---
-title: Derby GCSE Tutors | Expert GCSE Tuition From £37/hr
+title: "Derby GCSE Tutors | GCSE Tuition from £37/hr"
 description: Find experienced Derby GCSE tutors. Personalised support for Maths,
   English, Science and more to boost confidence, grades and exam results.
 layout: subject

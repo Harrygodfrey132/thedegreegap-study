@@ -1,5 +1,5 @@
 ---
-title: "Edexcel GCSE Chemistry Tutors for the Calculation Papers | The Degree Gap"
+title: "Edexcel GCSE Chemistry Tutors for Calculations"
 description: "Edexcel GCSE Chemistry tutor who knows the calculation-heavy 1CH0 papers. Free 40-minute call with co-founder Joe, then free trial lessons. From £37/hr."
 robots: "index, follow"
 layout: "board"

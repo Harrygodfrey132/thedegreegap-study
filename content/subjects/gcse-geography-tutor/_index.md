@@ -1,6 +1,6 @@
 ---
-title: "GCSE Geography Tutors Who Turn Case Studies Into Grades | The Degree Gap"
-description: "Your child knows the case studies but the marks are not landing on the 9-mark answers. Book a 40-minute consultation with co-founder Joe, then take free trial calls with the tutors he matches you with. Sessions from £37/hr."
+title: "GCSE Geography Tutors for the 9-Mark Answers"
+description: "Your child knows the case studies, and the marks are not landing on the 9-mark answers. Free call with co-founder Joe, then trial lessons from £37/hr."
 robots: "index, follow"
 layout: "single"
 subject: "GCSE Geography"

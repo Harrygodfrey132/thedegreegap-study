@@ -1,7 +1,7 @@
 ---
 title: "GCSE English Tutors in Leeds | The Degree Gap"
 nav_title: "English"
-description: "GCSE English tutors covering Leeds for Language and Literature, building the essay structure and timing a competitive sixth form asks for. Online, AQA or Edexcel, from £37/hr."
+description: "GCSE English tutors covering Leeds for Language and Literature, building the essay structure and timing sixth forms ask for. From £37/hr."
 layout: "level-subject"
 location: "Leeds"
 level: "GCSE"

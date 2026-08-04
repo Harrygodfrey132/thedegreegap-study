@@ -1,7 +1,7 @@
 ---
 title: "GCSE Maths Tutors in Leeds | The Degree Gap"
 nav_title: "Maths"
-description: "GCSE Maths tutors covering Leeds who rebuild the gap behind a slipping grade, from a secure 5 to the 6 or 7 Notre Dame wants. Online, AQA, Edexcel or OCR, from £37/hr."
+description: "GCSE Maths tutors covering Leeds who rebuild the gap behind a slipping grade, from a secure 5 to a 6 or 7. AQA, Edexcel or OCR, from £37/hr."
 layout: "level-subject"
 location: "Leeds"
 level: "GCSE"

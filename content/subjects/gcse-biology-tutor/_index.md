@@ -1,6 +1,6 @@
 ---
 title: "GCSE Biology Tutors Who Make It Stick | The Degree Gap"
-description: "Your child can recite the whole spec and still lose marks on the six-mark answers. Book a 40-minute consultation with co-founder Joe, then take free trial calls with the GCSE Biology tutors he matches you with. Sessions from £37/hr."
+description: "Your child can recite the whole spec and still lose marks on the six-mark answers. Free call with co-founder Joe, then trial lessons from £37/hr."
 robots: "index, follow"
 layout: "single"
 subject: "GCSE Biology"

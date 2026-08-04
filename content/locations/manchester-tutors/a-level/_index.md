@@ -1,6 +1,6 @@
 ---
 title: "Manchester A-Level Tutors | Online One-to-One | The Degree Gap"
-description: "Manchester A-Level tutoring for Year 12 and Year 13 students. One-to-one tutors who lift predicted grades for Manchester, the Russell Group, and local degree apprenticeships."
+description: "Manchester A-Level tutoring for Year 12 and Year 13. One-to-one tutors who lift predicted grades for the Russell Group and degree apprenticeships."
 layout: "subject"
 location: "Manchester"
 level: "A-Level"

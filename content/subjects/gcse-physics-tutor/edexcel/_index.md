@@ -1,6 +1,6 @@
 ---
 title: "Edexcel GCSE Physics Tutors | 1PH0 | The Degree Gap"
-description: "An Edexcel GCSE Physics tutor matched to the 1PH0 spec across both papers, drilling the wordy multi-step calculations, core practicals and the formulae list. From £37/hr."
+description: "An Edexcel GCSE Physics tutor matched to the 1PH0 spec, drilling the multi-step calculations, core practicals and formulae list. From £37/hr."
 robots: "index, follow"
 layout: "board"
 board: "Edexcel"

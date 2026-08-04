@@ -1,6 +1,6 @@
 ---
-title: "How to Maximise Every GCSE Mark — March 2027 Webinar | The Degree Gap"
-description: "Free parent webinar with our GCSE Maths, English and Science specialists. Practical revision and exam-technique advice for Year 10 and Year 11, from tutors who teach it every week. March 2027."
+title: "How to Maximise Every GCSE Mark, March 2027"
+description: "Free parent webinar with our GCSE Maths, English and Science specialists. Practical revision and exam-technique advice for Year 10 and Year 11."
 layout: "single"
 hero_eyebrow: "March 2027 · Maths, English & Science specialists"
 hero_h1: "How to Maximise Every GCSE Mark"

@@ -1,6 +1,6 @@
 ---
-title: "A-Level Biology Tutors for the Content That Never Stops | The Degree Gap"
-description: "The content does not stop coming, and the synoptic questions link topics your child studied months apart. Book a 40-minute consultation with co-founder Joe, then take free trial calls with the A-Level Biology tutors he matches you with. Sessions from £37/hr."
+title: "A-Level Biology Tutors for Synoptic Questions"
+description: "The content never stops, and the synoptic questions link topics your child studied months apart. Free call with co-founder Joe, then trial lessons from £37/hr."
 robots: "index, follow"
 layout: "single"
 subject: "A-Level Biology"

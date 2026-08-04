@@ -1,6 +1,6 @@
 ---
 title: "GCSE & A-Level Subject Tutors | The Degree Gap"
-description: "Specialist GCSE, A-Level and 11+ tutors across every major subject, matched to your child's exam board and the way they learn. Free 40-minute consultation with a co-founder first."
+description: "Specialist GCSE, A-Level and 11+ tutors matched to your child's exam board and the way they learn. Free 40-minute call with a co-founder first."
 nav_title: "Subjects"
 hero_eyebrow: "Every subject, one standard"
 hero_heading: "Expert tutors for every subject your child studies"

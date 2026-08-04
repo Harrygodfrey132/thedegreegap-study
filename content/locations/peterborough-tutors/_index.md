@@ -1,5 +1,5 @@
 ---
-title: Peterborough Tutoring | Trusted GCSE & A-Level Tutors
+title: "Peterborough Tutoring | GCSE & A-Level Tutors"
 description: One-to-one Peterborough tutoring for Maths, English, Sciences and
   more. Expert tutors, flexible online lessons and proven academic results.
 layout: single

@@ -1,6 +1,6 @@
 ---
-title: "A-Level English Tutors Who Build the Critical Argument | The Degree Gap"
-description: "Your child could talk about the text for an hour, and the A-Level English essays still read like description, not argument. Book a 40-minute consultation with co-founder Joe, then take free trial calls with the A-Level English tutors he matches you with. Sessions from £37/hr."
+title: "A-Level English Tutors Who Build the Argument"
+description: "Your child could talk about the text for an hour, and the essays still read like description. Free call with co-founder Joe, then trial lessons from £37/hr."
 robots: "index, follow"
 layout: "single"
 subject: "A-Level English"

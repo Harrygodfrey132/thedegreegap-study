@@ -1,6 +1,6 @@
 ---
-title: "How much does a GCSE tutor cost per hour in the UK? (2026 research piece)"
-description: "Researched 2026 guide to GCSE tutoring prices in the UK. Real hourly rates from £25 to £150+, regional breakdowns, platform comparisons, Sutton Trust uptake data, and what good value actually looks like."
+title: "How Much Does a GCSE Tutor Cost? UK 2026 Rates"
+description: "Researched 2026 guide to UK GCSE tutoring prices. Real hourly rates from £25 to £150+, regional breakdowns, and what good value actually looks like."
 date: 2026-06-22
 author: "Harry Godfrey"
 author_role: "Co-founder, The Degree Gap"

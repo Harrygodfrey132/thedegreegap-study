@@ -1,6 +1,6 @@
 ---
 title: "11+ Tutors for Grammar and Independent Entrance | The Degree Gap"
-description: "Your child is bright and the 11+ still feels like a lot to ask of a ten-year-old. Book a 40-minute consultation with co-founder Joe, then take free trial calls with the 11+ tutors he matches you with. Sessions from £37/hr."
+description: "Your child is bright, and the 11+ still feels like a lot to ask of a ten-year-old. Free call with co-founder Joe, then trial lessons from £37/hr."
 robots: "index, follow"
 layout: "single"
 subject: "11+"

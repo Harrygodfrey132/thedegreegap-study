@@ -1,5 +1,5 @@
 ---
-title: Liverpool Tutoring | Trusted GCSE & A-Level Tutors
+title: "Liverpool Tutoring | GCSE & A-Level Tutors"
 description: One-to-one Liverpool tutoring for Maths, English, Sciences and
   more. Expert tutors, flexible online lessons and proven academic results.
 layout: single

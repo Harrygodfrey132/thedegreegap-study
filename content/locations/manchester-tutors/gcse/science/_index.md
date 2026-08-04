@@ -1,7 +1,7 @@
 ---
 title: "GCSE Science Tutors in Manchester | The Degree Gap"
 nav_title: "Science"
-description: "GCSE Science tutors covering Manchester, Combined or Triple, matched to Biology, Chemistry or Physics for the long-answer and required-practical marks. AQA or Edexcel, from £37/hr."
+description: "GCSE Science tutors covering Manchester, Combined or Triple, for the long-answer and required-practical marks. AQA or Edexcel, from £37/hr."
 layout: "level-subject"
 location: "Manchester"
 level: "GCSE"

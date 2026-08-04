@@ -1,6 +1,6 @@
 ---
-title: "GCSE Spanish Tutors That Build Vocabulary and Confidence | The Degree Gap"
-description: "Your child knows more Spanish than the grade shows, and the vocabulary, the fast listening and the written tasks are where it slips. Book a 40-minute consultation with co-founder Joe, then take free trial calls with the GCSE Spanish tutors he matches you with. Sessions from £37/hr."
+title: "GCSE Spanish Tutors Who Build Vocabulary"
+description: "Your child knows more Spanish than the grade shows. Vocabulary and fast listening are where it slips. Free call with co-founder Joe, then trial lessons from £37/hr."
 robots: "index, follow"
 layout: "single"
 subject: "GCSE Spanish"

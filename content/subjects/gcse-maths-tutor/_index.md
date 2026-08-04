@@ -1,6 +1,6 @@
 ---
 title: "GCSE Maths Tutors That Move the Grade | The Degree Gap"
-description: "Your child is working hard and the GCSE Maths grade is not catching up with the effort. Book a 40-minute consultation with co-founder Joe, then take free trial calls with the tutors he matches you with. Sessions from £37/hr."
+description: "Your child is working hard and the GCSE Maths grade is not catching up with the effort. Free call with co-founder Joe, then trial lessons from £37/hr."
 robots: "index, follow"
 layout: "single"
 subject: "GCSE Maths"

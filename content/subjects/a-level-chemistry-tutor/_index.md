@@ -1,6 +1,6 @@
 ---
 title: "A-Level Chemistry Tutors Who Make It Manageable | The Degree Gap"
-description: "There is a lot of A-Level Chemistry, and somewhere between the organic mechanisms, the rate equations and the required practicals your child has lost the thread. Book a 40-minute consultation with co-founder Joe, then take free trial calls with the A-Level Chemistry tutors he matches you with. Sessions from £37/hr."
+description: "A-Level Chemistry piles up, and somewhere between mechanisms, rate equations and practicals it slips. Free call with co-founder Joe, then trial lessons from £37/hr."
 robots: "index, follow"
 layout: "single"
 subject: "A-Level Chemistry"

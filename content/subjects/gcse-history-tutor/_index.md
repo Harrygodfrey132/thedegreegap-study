@@ -1,6 +1,6 @@
 ---
-title: "GCSE History Tutors Who Turn Knowledge Into Marks | The Degree Gap"
-description: "Your child knows the topic inside out and the History answers still are not scoring. Book a 40-minute consultation with co-founder Joe, then take free trial calls with the GCSE History tutors he matches you with. Sessions from £37/hr."
+title: "GCSE History Tutors: Knowledge Into Marks"
+description: "Your child knows the topic inside out, and the History answers still are not scoring. Free call with co-founder Joe, then trial lessons from £37/hr."
 robots: "index, follow"
 layout: "single"
 subject: "GCSE History"

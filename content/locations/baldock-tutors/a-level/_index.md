@@ -1,5 +1,5 @@
 ---
-title: Baldock  A-Level Tutors | Expert Tuition From £37/hr
+title: "Baldock A-Level Tutors | Tuition from £37/hr"
 description: Baldock A-Level tutors helping students improve grades, secure A*
   results and strengthen university applications. Trusted Baldock A-Level
   tutors.

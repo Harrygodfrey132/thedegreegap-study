@@ -1,6 +1,6 @@
 ---
-title: "A-Level Spanish Tutors for Translation and Essay Precision | The Degree Gap"
-description: "Your teenager speaks Spanish confidently but loses marks on the translation and the set-text essays. Book a 40-minute consultation with co-founder Joe, then take free trial calls with the A-Level Spanish tutors he matches you with. Sessions from £37/hr."
+title: "A-Level Spanish Tutors for Translation Marks"
+description: "Your teenager speaks Spanish confidently and still loses marks on translation and set-text essays. Free call with co-founder Joe, then trial lessons from £37/hr."
 robots: "index, follow"
 layout: "single"
 subject: "A-Level Spanish"

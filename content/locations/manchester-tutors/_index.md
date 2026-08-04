@@ -1,5 +1,5 @@
 ---
-title: Manchester Tutoring | Trusted GCSE & A-Level Tutors
+title: "Manchester Tutoring | GCSE & A-Level Tutors"
 description: One-to-one Manchester tutoring for Maths, English, Sciences and
   more. Expert tutors, flexible online lessons and proven academic results.
 layout: single

@@ -1,5 +1,5 @@
 ---
-title: Birmingham Tutoring | Trusted GCSE & A-Level Tutors
+title: "Birmingham Tutoring | GCSE & A-Level Tutors"
 description: One-to-one Birmingham tutoring for Maths, English, Sciences and
   more. Expert tutors, flexible online lessons and proven academic results.
 layout: single

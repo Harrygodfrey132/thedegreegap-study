@@ -1,6 +1,6 @@
 ---
-title: "Parents' Guide to Support and GCSE Success — November 2026 | The Degree Gap"
-description: "Free live webinar for parents of GCSE students. How to keep your child motivated, build a revision routine that holds, and turn mock results into a calm plan. November 2026."
+title: "Parents' Guide to GCSE Success, November 2026"
+description: "Free live webinar for parents of GCSE students. How to keep your child motivated, build a revision routine that holds, and stay calm after mocks."
 layout: "single"
 hero_eyebrow: "November 2026 · Free parent webinar"
 hero_h1: "Parents' Guide to Support and GCSE Success"

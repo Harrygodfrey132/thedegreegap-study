@@ -1,6 +1,6 @@
 ---
 title: "GCSE Tutors in Aylesbury | Expert Tutors | The Degree Gap"
-description: "One-to-one Aylesbury GCSE tutoring for the county's selective system, tracing the gap that's costing marks and rebuilding it before the mocks that set predicted grades."
+description: "One-to-one Aylesbury GCSE tutoring for the county's selective system, tracing the gap that's costing marks before mocks set predicted grades."
 layout: "subject"
 location: "Aylesbury"
 level: "GCSE"

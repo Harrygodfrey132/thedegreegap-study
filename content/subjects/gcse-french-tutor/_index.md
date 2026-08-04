@@ -1,6 +1,6 @@
 ---
 title: "GCSE French Tutors That Steady the Speaking Exam | The Degree Gap"
-description: "Your child understands French in class but freezes in the speaking exam and drops marks on the tenses. Book a 40-minute consultation with co-founder Joe, then take free trial calls with the GCSE French tutors he matches you with. Sessions from £37/hr."
+description: "Your child understands French in class, then freezes in the speaking exam and drops marks on tenses. Free call with co-founder Joe, then trial lessons from £37/hr."
 robots: "index, follow"
 layout: "single"
 subject: "GCSE French"

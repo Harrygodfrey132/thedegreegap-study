@@ -1,5 +1,5 @@
 ---
-title: Brighton Tutoring | Trusted GCSE & A-Level Tutors
+title: "Brighton Tutoring | GCSE & A-Level Tutors"
 description: One-to-one Brighton tutoring for Maths, English, Sciences and more.
   Expert tutors, flexible online lessons and proven academic results.
 layout: single

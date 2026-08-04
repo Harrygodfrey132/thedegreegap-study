@@ -1,6 +1,6 @@
 ---
 title: "A-Level History Tutors That Build the Argument | The Degree Gap"
-description: "Your child knows the history. The essays keep losing marks for analysis, not knowledge. Book a 40-minute consultation with co-founder Joe, then take free trial calls with the A-Level History tutors he matches you with. Sessions from £37/hr."
+description: "Your child knows the history. The essays keep losing marks for analysis, not knowledge. Free call with co-founder Joe, then trial lessons from £37/hr."
 robots: "index, follow"
 layout: "single"
 subject: "A-Level History"

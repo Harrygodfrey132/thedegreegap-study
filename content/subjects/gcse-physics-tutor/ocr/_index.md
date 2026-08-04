@@ -1,6 +1,6 @@
 ---
 title: "OCR GCSE Physics Tutors | Gateway J249 | The Degree Gap"
-description: "An OCR GCSE Physics tutor matched to the Gateway A (J249) spec, P1 to P8. We drill the data and graph questions, the PAGs and the maths under the concepts. From £37/hr."
+description: "An OCR GCSE Physics tutor matched to the Gateway A (J249) spec. We drill the data and graph questions, the PAGs and the maths. From £37/hr."
 robots: "index, follow"
 layout: "board"
 board: "OCR"

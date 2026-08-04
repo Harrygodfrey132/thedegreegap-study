@@ -1,6 +1,6 @@
 ---
 title: "How to maximise every GCSE mark"
-description: "A summary of our parent webinar with three of our specialist tutors. Practical revision advice for GCSE Maths, English and Science from people who teach it every week."
+description: "A summary of our parent webinar with three specialist tutors. Practical revision advice for GCSE Maths, English and Science."
 date: 2026-06-22
 author: "Joe Clark"
 author_role: "Co-founder, The Degree Gap"

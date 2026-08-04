@@ -1,6 +1,6 @@
 ---
-title: Tunbridge Tutoring | Trusted GCSE & A-Level Tutors
-description: One-to-one Tunbridge tutoring for Maths, English, Sciences and
+title: "Tunbridge Wells Tutoring | GCSE & A-Level Tutors"
+description: One-to-one Tunbridge Wells tutoring for Maths, English, Sciences and
   more. Expert tutors, flexible online lessons and proven academic results.
 layout: single
 location: Tunbridge Wells

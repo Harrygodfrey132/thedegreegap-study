@@ -1,6 +1,6 @@
 ---
 title: "GCSE Chemistry Tutors Who Make the Marks Add Up | The Degree Gap"
-description: "The content makes sense in class, then the moles calculations and six-mark questions fall apart in the exam. Book a 40-minute consultation with co-founder Joe, then take free trial calls with the GCSE Chemistry tutors he matches you with. Sessions from £37/hr."
+description: "It makes sense in class, then the moles calculations and six-mark questions fall apart in the exam. Free call with co-founder Joe, then trial lessons from £37/hr."
 robots: "index, follow"
 layout: "single"
 subject: "GCSE Chemistry"

@@ -1,5 +1,5 @@
 ---
-title: "OCR Gateway GCSE Chemistry Tutors Who Know the PAGs | The Degree Gap"
+title: "OCR Gateway GCSE Chemistry Tutors Who Know PAGs"
 description: "OCR Gateway GCSE Chemistry tutor who knows the PAGs and J248 papers. Free 40-minute call with co-founder Joe, then free trial lessons. From £37/hr."
 robots: "index, follow"
 layout: "board"

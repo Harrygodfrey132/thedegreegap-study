@@ -1,6 +1,6 @@
 ---
 title: "A-Level Geography Tutors for Essays and the NEA | The Degree Gap"
-description: "Your child knows the systems and the case studies. The 20-mark evaluation essays and the NEA are where the grade is decided. Book a 40-minute consultation with co-founder Joe, then take free trial calls with the A-Level Geography tutors he matches you with. Sessions from £37/hr."
+description: "Your child knows the systems and the case studies. The 20-mark essays and the NEA decide the grade. Free call with co-founder Joe, then trial lessons from £37/hr."
 robots: "index, follow"
 layout: "single"
 subject: "A-Level Geography"

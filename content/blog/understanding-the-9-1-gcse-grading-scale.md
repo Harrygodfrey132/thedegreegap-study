@@ -1,6 +1,6 @@
 ---
-title: "Understanding the 9-1 GCSE grading scale: a parent's guide"
-description: "A plain-English guide to the 9-1 GCSE grading scale. What the numbers actually mean, how they compare to the old A*-G letters, what counts as a pass, and what sixth forms and colleges actually ask for in 2026."
+title: "The 9-1 GCSE Grading Scale: A Parent's Guide"
+description: "A plain-English guide to the 9-1 GCSE grading scale: what the numbers mean, how they map to the old A*-G letters, and what counts as a pass."
 date: 2026-06-22
 author: "Harry Godfrey"
 author_role: "Co-founder, The Degree Gap"

@@ -1,6 +1,6 @@
 ---
 title: "High Wycombe A-Level Tutors | Online One-to-One | The Degree Gap"
-description: "High Wycombe A-Level tutoring matched on subject, exam board and the kind of teaching your child responds to. One-to-one tutors who lift the predicted grade before UCAS."
+description: "High Wycombe A-Level tutoring matched on subject, exam board and how your child learns. One-to-one tutors who lift the predicted grade before UCAS."
 layout: "subject"
 location: "High Wycombe"
 level: "A-Level"

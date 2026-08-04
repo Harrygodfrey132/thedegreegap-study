@@ -1,5 +1,5 @@
 ---
-title: Baldock GCSE Tutors | Expert GCSE Tuition From £37/hr
+title: "Baldock GCSE Tutors | GCSE Tuition from £37/hr"
 description: Find experienced Baldock GCSE tutors. Personalised support for
   Maths, English, Science and more to boost confidence, grades and exam results.
 layout: subject
