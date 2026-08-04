@@ -29,7 +29,9 @@
 {{ $mapUrl        := .Params.map_url        | default (printf "https://maps.google.com/maps?q=%s,UK&output=embed" (replace $loc " " "+")) }}
 {{ $angleStatFrom   := .Params.angle_stat_from   | default (cond $isAlevel "C" "6") }}
 {{ $angleStatTo     := .Params.angle_stat_to     | default (cond $isAlevel "A" "8") }}
-{{ $angleStatDetail := .Params.angle_stat_detail | default (printf "Grade lift achieved by one of our %s %s students in %s in a single term." $loc $level $subject) }}
+{{/* The fallback states what the sessions aim at. It must never assert that a
+     specific student in this city achieved it, because we cannot evidence that. */}}
+{{ $angleStatDetail := .Params.angle_stat_detail | default (printf "Where a term of weekly one-to-one %s %s sessions is typically aimed." $level $subject) }}
 {{ $schools := .Params.schools | default (slice) }}
 
 
