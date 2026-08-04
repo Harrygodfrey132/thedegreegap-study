@@ -209,19 +209,20 @@
           {{ $name := index $parts 0 }}
           {{ $desc := index $parts 1 }}
           {{ $href := cond (gt (len $parts) 2) (index $parts 2) (printf "%s/teachers" $.Site.Params.mainSiteURL) }}
-          {{/* If a dedicated {level} {subject} page exists for this city, point the card at it.
-               Match on the card's exact subject token, not a substring, so a "Computer Science"
-               card never captures the combined "Science" page. That combined Science page also
-               covers Biology, Chemistry and Physics, so those three cards route to it as well. */}}
+          {{/* Each card links to the most specific page that exists for that exact
+               subject, in this order:
+                 1. a {level} {subject} page for this city, if there is one
+                 2. the site-wide {level} {subject} page
+                 3. the fallback already set above
+               Matching is on the card's exact subject token, so Biology, Chemistry
+               and Physics each reach their own page and only the Science card ever
+               reaches the combined Science page. */}}
           {{ $cardSubject := lower (replace (replace $name (printf "%s " $level) "") " Tutoring" "") }}
-          {{ $scienceCards := slice "science" "biology" "chemistry" "physics" }}
+          {{ with site.GetPage (printf "/subjects/%s-%s-tutor" (lower $level) (replace $cardSubject " " "-")) }}
+            {{ $href = .RelPermalink }}
+          {{ end }}
           {{ range $child := $childSubjectPages }}
-            {{ $childSubject := lower $child.Params.subject }}
-            {{ $match := eq $cardSubject $childSubject }}
-            {{ if and (eq $childSubject "science") (in $scienceCards $cardSubject) }}
-              {{ $match = true }}
-            {{ end }}
-            {{ if and $child.Params.subject $match }}
+            {{ if and $child.Params.subject (eq $cardSubject (lower $child.Params.subject)) }}
               {{ $href = $child.RelPermalink }}
             {{ end }}
           {{ end }}
