@@ -1244,6 +1244,25 @@
     f.submit();
   }
 
+  /* Conversion tracking. Registering for the webinar is the lead,
+     full stop — the A-Level tick only decides where we send them
+     next, it does not change whether this counts as a conversion.
+     One event per signup, so GA4 and Meta agree on the number.
+
+     gtag and fbq are loaded in baseof.html; both are guarded in
+     case an ad blocker has stripped them. */
+  function trackWebinarLead() {
+    if (typeof gtag === 'function') {
+      gtag('event', 'generate_lead', {
+        event_category: 'webinar',
+        event_label: 'gcse-results-day-webinar'
+      });
+    }
+    if (typeof fbq === 'function') {
+      fbq('track', 'Lead', { content_name: 'GCSE Results Day Webinar' });
+    }
+  }
+
   /* Form submission: Zoho only. The webinar lead lifecycle
      runs entirely through Zoho CRM. Formspree is not used on
      this page — the book-a-call page has its own Formspree
@@ -1286,7 +1305,7 @@
 
       submitZohoLead(data);
 
-      if (typeof fbq === 'function') { fbq('track', 'Lead'); }
+      trackWebinarLead();
 
       /* The hidden-iframe POST to Zoho needs a moment to leave
          the browser before we navigate away. 600ms is a safe
