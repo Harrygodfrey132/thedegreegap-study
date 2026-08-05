@@ -369,6 +369,22 @@ a process timeline, one consolidated trust signal. Reusable across subjects.
       {{ range first 8 . }}<a class="mx-related__pill" href="{{ .RelPermalink }}">{{ .Params.subject }}</a>{{ end }}
     </div>
     {{ end }}
+    {{/* The return leg of the cross-link: subject page down to the city
+         pages that cover this exact level and subject. Location pages
+         carry "GCSE" + "Maths" as separate params, so the key is built
+         from both. Combined Science is the one place the two trees name
+         the subject differently. */}}
+    {{ $locKey := replace .Params.subject "Combined Science" "Science" }}
+    {{ $locCovered := slice }}
+    {{ range where .Site.Pages "Params.layout" "level-subject" }}
+      {{ if eq (printf "%s %s" .Params.level .Params.subject) $locKey }}{{ $locCovered = $locCovered | append . }}{{ end }}
+    {{ end }}
+    {{ with $locCovered }}
+    <p style="font-weight:700;color:var(--ink);margin:24px 0 12px;">Areas we cover for {{ $.Params.subject }}</p>
+    <div class="mx-related__grid">
+      {{ range (sort . "Params.location") }}<a class="mx-related__pill" href="{{ .RelPermalink }}">{{ .Params.location }}</a>{{ end }}
+    </div>
+    {{ end }}
     <div class="mx-related__nav">
       <a href="{{ "subjects/" | relURL }}">Browse all subjects &rarr;</a>
       <a href="{{ "locations/" | relURL }}">Find a tutor in your area &rarr;</a>

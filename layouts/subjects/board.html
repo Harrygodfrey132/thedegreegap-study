@@ -72,6 +72,7 @@ weighting and pitfalls for THIS exact board. Reusable across board/subject combo
   .bd-related__card { display:inline-flex; align-items:center; gap:8px; background:#fff; border:1px solid var(--line); border-radius:999px; padding:11px 20px; font-weight:700; color:var(--ink); text-decoration:none; transition:border-color .15s,color .15s,transform .15s; }
   .bd-related__card:hover { border-color:#e6c9c9; color:var(--bg); transform:translateY(-1px); }
   .bd-related__card--parent { background:var(--bg); color:#fff; } .bd-related__card--parent:hover{ background:var(--bg-dk); color:#fff; }
+  .bd-related__label { font-weight:700; color:var(--ink); font-size:.95rem; margin:26px 0 12px; }
 
   .mx-final { background: radial-gradient(700px 380px at 50% -30%, rgba(245,165,36,.1), rgba(245,165,36,0) 62%), var(--cream); border-top:1px solid var(--line); padding:64px 24px; text-align:center; }
   .mx-final h2 { font-size:clamp(1.6rem,3.4vw,2.2rem); font-weight:800; letter-spacing:-0.022em; color:var(--ink); margin:0 0 10px; }
@@ -214,6 +215,20 @@ weighting and pitfalls for THIS exact board. Reusable across board/subject combo
       {{ with $parent }}<a class="bd-related__card bd-related__card--parent" href="{{ .RelPermalink }}">All {{ $subject }} tutoring &rarr;</a>{{ end }}
       {{ range $siblings }}{{ if ne .RelPermalink $.RelPermalink }}<a class="bd-related__card" href="{{ .RelPermalink }}">{{ .Params.board }} {{ $subject }}</a>{{ end }}{{ end }}
     </div>
+
+    {{/* Same board, other subjects. A school enters its cohort with one
+         board across most of the department, so a family here for AQA
+         Maths is usually sitting AQA Physics and Chemistry too. These
+         were the most relevant pages on the site with no link to them. */}}
+    {{ $sameBoard := where (where .Site.Pages "Params.layout" "board") "Params.board" $board }}
+    {{ $otherSubjects := slice }}
+    {{ range $sameBoard }}{{ if ne .Params.subject $subject }}{{ $otherSubjects = $otherSubjects | append . }}{{ end }}{{ end }}
+    {{ with $otherSubjects }}
+    <p class="bd-related__label">Sitting {{ $board }} in other subjects too?</p>
+    <div class="bd-related__grid">
+      {{ range .ByParam "subject" }}<a class="bd-related__card" href="{{ .RelPermalink }}">{{ $board }} {{ .Params.subject }}</a>{{ end }}
+    </div>
+    {{ end }}
   </div>
 </section>
 

@@ -493,5 +493,74 @@
 </section>
 {{ end }}
 
+<!-- =============================================
+     SECTION 9: GO DEEPER
+     Cross-links out of the location silo. Until now a location
+     subject page only linked to its own city's siblings and its
+     parent level page, so the /locations/ and /subjects/ trees
+     never touched. This links to the national subject guide, to
+     the exam-board pages for the same subject, and to the same
+     subject in the cities this location already claims as its
+     area. Every link is resolved against a real page, so a city
+     that has no page for this subject yet is simply skipped.
+     ============================================= -->
+{{ $subjKey := printf "%s %s" $level $subject }}
+{{ $hubKey  := replace $subjKey "GCSE Science" "GCSE Combined Science" }}
+{{ $hubPage := false }}
+{{ with where (where (where .Site.Pages "Section" "subjects") "Params.layout" "single") "Params.subject" $hubKey }}{{ $hubPage = index . 0 }}{{ end }}
+{{ $boardPages := where (where .Site.Pages "Params.layout" "board") "Params.subject" $hubKey }}
+{{ $levelSlug := path.Base .Parent.RelPermalink }}
+{{ $subjSlug  := path.Base .RelPermalink }}
+{{ $nearby := slice }}
+{{ with .Parent.Parent }}
+  {{ range .Params.area_links }}
+    {{ $parts := split . "|" }}
+    {{ if ge (len $parts) 2 }}
+      {{ with site.GetPage (printf "%s%s/%s" (index $parts 1) $levelSlug $subjSlug) }}{{ $nearby = $nearby | append . }}{{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ if lt (len $nearby) 3 }}
+  {{ range where .Site.Pages "Params.layout" "level-subject" }}
+    {{ if and (eq .Params.level $level) (eq .Params.subject $subject) (ne .RelPermalink $.RelPermalink) (not (in $nearby .)) }}{{ $nearby = $nearby | append . }}{{ end }}
+  {{ end }}
+{{ end }}
+{{ if or $hubPage $boardPages }}
+<style>
+  .lvls-deeper { background:#fff; border-top:1px solid #ece4d4; padding:56px 24px; }
+  .lvls-deeper__inner { max-width:940px; margin:0 auto; text-align:center; }
+  .lvls-deeper h2 { font-size:clamp(1.35rem,3vw,1.85rem); font-weight:800; letter-spacing:-0.02em; color:#1f1b18; margin:0 0 8px; }
+  .lvls-deeper__sub { color:#5f5a54; margin:0 0 26px; }
+  .lvls-deeper__label { font-weight:700; color:#1f1b18; margin:22px 0 12px; font-size:.95rem; }
+  .lvls-deeper__feat { display:inline-flex; align-items:center; gap:9px; max-width:100%; margin:0 auto; background:#fbf7ef; border:1px solid #f0e0e0; border-radius:14px; padding:16px 24px; text-decoration:none; color:#1f1b18; font-weight:700; box-shadow:0 8px 24px rgba(128,0,32,.07); transition:transform .18s, box-shadow .18s; }
+  .lvls-deeper__feat:hover { transform:translateY(-1px); box-shadow:0 12px 28px rgba(128,0,32,.12); }
+  .lvls-deeper__feat span { color:#800020; }
+  .lvls-deeper__grid { display:flex; flex-wrap:wrap; justify-content:center; gap:10px; }
+  .lvls-deeper__pill { display:inline-flex; align-items:center; background:#fff; border:1px solid #ece4d4; border-radius:999px; padding:9px 16px; font-size:.9rem; font-weight:600; color:#1f1b18; text-decoration:none; transition:border-color .15s, color .15s, transform .15s; }
+  .lvls-deeper__pill:hover { border-color:#e6c9c9; color:#800020; transform:translateY(-1px); }
+</style>
+<section class="lvls-deeper">
+  <div class="lvls-deeper__inner">
+    <h2>More on {{ $level }} {{ $subject }}</h2>
+    <p class="lvls-deeper__sub">Sessions run online, so a {{ $loc }} family works with the right specialist rather than the nearest one.</p>
+    {{ with $hubPage }}
+    <a class="lvls-deeper__feat" href="{{ .RelPermalink }}">How we tutor {{ $level }} {{ $subject }} <span>&rarr;</span></a>
+    {{ end }}
+    {{ with $boardPages }}
+    <p class="lvls-deeper__label">Matched to the exam board your child actually sits</p>
+    <div class="lvls-deeper__grid">
+      {{ range .ByParam "board" }}<a class="lvls-deeper__pill" href="{{ .RelPermalink }}">{{ .Params.board }} {{ $level }} {{ $subject }}</a>{{ end }}
+    </div>
+    {{ end }}
+    {{ with $nearby }}
+    <p class="lvls-deeper__label">{{ $level }} {{ $subject }} tutors covering nearby</p>
+    <div class="lvls-deeper__grid">
+      {{ range first 4 . }}<a class="lvls-deeper__pill" href="{{ .RelPermalink }}">{{ .Params.location }}</a>{{ end }}
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
 {{ partial "reviews-drawer.html" . }}
 {{ end }}
