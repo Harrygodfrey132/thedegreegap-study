@@ -120,7 +120,7 @@
         </ul>
         <a href="{{ "book-a-call/" | relURL }}" class="btn btn-primary lvls-hero__card-cta">{{ $cardCta }}</a>
         <p class="lvls-hero__card-fallback">or call <a href="tel:+447859965776">07859&nbsp;965776</a></p>
-        <button type="button" data-reviews-open class="lvls-hero__card-trust" aria-label="Read our 107 Google reviews" aria-controls="bc-reviews-drawer" aria-expanded="false">
+        <button type="button" data-reviews-open class="lvls-hero__card-trust" aria-label="Read our {{ site.Params.googleReviewCount }} Google reviews" aria-controls="bc-reviews-drawer" aria-expanded="false">
           <span class="lvls-hero__card-trust-g" aria-hidden="true">
             <svg viewBox="0 0 24 24" width="16" height="16" xmlns="http://www.w3.org/2000/svg">
               <path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/>
@@ -130,7 +130,7 @@
             </svg>
           </span>
           <span class="lvls-hero__card-stars" aria-label="5 stars">★★★★★</span>
-          <span><strong>5.0</strong> from 107 Google reviews</span>
+          <span><strong>5.0</strong> from {{ site.Params.googleReviewCount }} Google reviews</span>
         </button>
       </aside>
     </div>
@@ -180,7 +180,7 @@
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-7.58-7-12a7 7 0 0 1 14 0c0 4.42-7 12-7 12z"/><circle cx="12" cy="9" r="2.5"/></svg>
           Covering {{ $loc }} &amp; nearby
         </span>
-        <button type="button" data-reviews-open class="lvls-gpill lvls-gpill--mapcorner" aria-label="Read our 107 Google reviews" aria-controls="bc-reviews-drawer" aria-expanded="false">
+        <button type="button" data-reviews-open class="lvls-gpill lvls-gpill--mapcorner" aria-label="Read our {{ site.Params.googleReviewCount }} Google reviews" aria-controls="bc-reviews-drawer" aria-expanded="false">
           <span class="lvls-gpill__g" aria-hidden="true">
             <svg viewBox="0 0 24 24" width="18" height="18" xmlns="http://www.w3.org/2000/svg">
               <path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/>
@@ -191,7 +191,7 @@
           </span>
           <strong>5.0</strong>
           <span class="lvls-gpill__stars" aria-label="5 stars">★★★★★</span>
-          <span class="lvls-gpill__count">107 reviews</span>
+          <span class="lvls-gpill__count">{{ site.Params.googleReviewCount }} reviews</span>
         </button>
       </div>
       <div class="lvls-angle__copy">
