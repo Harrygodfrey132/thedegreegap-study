@@ -1,6 +1,6 @@
 ---
-title: "GCSE History Tutors: Knowledge Into Marks"
-description: "Your child knows the topic inside out, and the History answers still are not scoring. Free call with co-founder Joe, then trial lessons from £37/hr."
+title: "GCSE History Tutors Online, from £37"
+description: "Turning knowledge into marks is the whole job at GCSE History. Online tutors for source questions and essay structure, from £37 an hour. 108 reviews."
 robots: "index, follow"
 layout: "single"
 subject: "GCSE History"

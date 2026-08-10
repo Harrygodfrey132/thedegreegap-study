@@ -1,6 +1,6 @@
 ---
-title: "A-Level Geography Tutors for Essays and the NEA | The Degree Gap"
-description: "Your child knows the systems and the case studies. The 20-mark essays and the NEA decide the grade. Free call with co-founder Joe, then trial lessons from £37/hr."
+title: "A-Level Geography Tutors, Online 1-to-1"
+description: "Essays, case studies and the NEA, taught online by specialist A-Level Geography tutors. Free 30-minute call before anyone is matched, then £37 an hour."
 robots: "index, follow"
 layout: "single"
 subject: "A-Level Geography"

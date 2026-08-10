@@ -1,6 +1,6 @@
 ---
-title: "GCSE French Tutors That Steady the Speaking Exam | The Degree Gap"
-description: "Your child understands French in class, then freezes in the speaking exam and drops marks on tenses. Free call with co-founder Joe, then trial lessons from £37/hr."
+title: "GCSE French Tutor Online, from £37/hr"
+description: "The speaking exam is where confidence goes first. Online GCSE French tutors, one to one from £37 an hour, rated 5.0 from 108 Google reviews."
 robots: "index, follow"
 layout: "single"
 subject: "GCSE French"

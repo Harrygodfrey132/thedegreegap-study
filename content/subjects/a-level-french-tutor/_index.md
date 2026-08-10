@@ -1,6 +1,6 @@
 ---
-title: "A-Level French Tutors for Essays and the IRP | The Degree Gap"
-description: "GCSE French came easily. The essays on the set film and text, written in French, plus the IRP, do not. Free call with co-founder Joe, then trial lessons from £37/hr."
+title: "A-Level French Tutor Online, 1-to-1"
+description: "Essays, translation and the IRP, with a tutor matched to your child rather than assigned. Online A-Level French tutoring from £37 an hour. Free call first."
 robots: "index, follow"
 layout: "single"
 subject: "A-Level French"

@@ -1,6 +1,6 @@
 ---
-title: "GCSE Combined Science Tutors: All Three Sciences"
-description: "Two GCSEs, three sciences and a spec that never sits still, so the revision spreads too thin to hold. Free call with co-founder Joe, then trial lessons from £37/hr."
+title: "GCSE Combined Science Tutors Online"
+description: "All three sciences, taught online by specialists rather than one generalist. GCSE Combined Science tutoring from £37 an hour, 108 Google reviews at 5.0."
 robots: "index, follow"
 layout: "single"
 subject: "GCSE Combined Science"

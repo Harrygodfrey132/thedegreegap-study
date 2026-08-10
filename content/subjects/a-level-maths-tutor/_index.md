@@ -1,6 +1,6 @@
 ---
-title: "A-Level Maths Tutors for the Year 12 Jump"
-description: "The GCSE Maths grade was there. Then the first A-Level term knocked it back and nobody can say why. Free call with co-founder Joe, then trial lessons from £37/hr."
+title: "A-Level Maths Tutors Online, from £37/hr"
+description: "The Year 12 jump is the steepest in the course. Specialist A-Level Maths tutors, online one to one from £37/hr, rated 5.0 across 108 Google reviews."
 robots: "index, follow"
 layout: "single"
 subject: "A-Level Maths"

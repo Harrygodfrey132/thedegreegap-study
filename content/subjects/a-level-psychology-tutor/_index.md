@@ -1,6 +1,6 @@
 ---
-title: "A-Level Psychology Tutors for Evaluation Marks"
-description: "Your child knows the studies, and the marks keep leaking on research methods and evaluation. Free call with co-founder Joe, then trial lessons from £37/hr."
+title: "A-Level Psychology Tutors Online, £37/hr"
+description: "Content is rarely the problem in A-Level Psychology. Evaluation and the 16-markers usually are. Online tutors from £37 an hour, free call before matching."
 robots: "index, follow"
 layout: "single"
 subject: "A-Level Psychology"

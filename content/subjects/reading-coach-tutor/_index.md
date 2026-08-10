@@ -1,6 +1,6 @@
 ---
-title: "Reading Coaches Who Build Fluency and Confidence | The Degree Gap"
-description: "Your child has fallen behind on reading, or has quietly decided books are not for them. Free call with co-founder Joe, then trial lessons from £37/hr."
+title: "Online Reading Coaches, from £37/hr"
+description: "One-to-one reading support online, building fluency and confidence at a pace that suits your child. Free call with a co-founder first, then £37 an hour."
 robots: "index, follow"
 layout: "single"
 subject: "Reading"

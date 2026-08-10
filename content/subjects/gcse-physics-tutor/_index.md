@@ -1,6 +1,6 @@
 ---
-title: "GCSE Physics Tutors Who Make the Equations Click | The Degree Gap"
-description: "The physics makes sense until a question asks them to rearrange the equation and show every step. Free call with co-founder Joe, then trial lessons from £37/hr."
+title: "GCSE Physics Tutors Online, £37/hr"
+description: "Most GCSE Physics marks are lost on the maths, not the physics. Online one-to-one tutoring from £37 an hour, with a free call before anyone is matched."
 robots: "index, follow"
 layout: "single"
 subject: "GCSE Physics"

@@ -1,6 +1,6 @@
 ---
-title: "GCSE English Tutors Who Get Marks Onto the Page"
-description: "Your child has read the book and understands it, and the essays still are not scoring. Free call with co-founder Joe, then trial lessons from £37/hr."
+title: "Find a GCSE English Tutor, Online"
+description: "Getting the marks onto the page is a technique problem more often than a knowledge one. Online GCSE English tutors from £37 an hour, rated 5.0."
 robots: "index, follow"
 layout: "single"
 subject: "GCSE English"

@@ -1,6 +1,6 @@
 ---
-title: "GCSE Maths Tutors That Move the Grade | The Degree Gap"
-description: "Your child is working hard and the GCSE Maths grade is not catching up with the effort. Free call with co-founder Joe, then trial lessons from £37/hr."
+title: "GCSE Maths Tutors Online, from £37/hr"
+description: "Online one-to-one GCSE Maths tutoring, rated 5.0 from 108 Google reviews. A tutor matched to your child, not assigned. Free call first, then £37 an hour."
 robots: "index, follow"
 layout: "single"
 subject: "GCSE Maths"

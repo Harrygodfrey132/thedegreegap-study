@@ -1,6 +1,6 @@
 ---
-title: "ADHD & SEN Tutors for How Your Child Learns"
-description: "Your child learns differently, and a class of thirty does not always have room for that. Free call with co-founder Joe, then trial lessons from £37/hr."
+title: "SEN and ADHD Tutors Online, 1-to-1"
+description: "Tutors experienced in ADHD, dyslexia and wider SEN needs, working online at your child's pace. Free 30-minute call before matching, then £37 an hour."
 robots: "index, follow"
 layout: "single"
 subject: "ADHD & SEN"

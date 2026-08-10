@@ -1,6 +1,6 @@
 ---
-title: "A-Level English Tutors Who Build the Argument"
-description: "Your child could talk about the text for an hour, and the essays still read like description. Free call with co-founder Joe, then trial lessons from £37/hr."
+title: "Online A-Level English Tutors, from £37"
+description: "Rated 5.0 from 108 Google reviews. Our online A-Level English tutors build the argument the mark scheme actually rewards, one to one from £37 an hour."
 robots: "index, follow"
 layout: "single"
 subject: "A-Level English"

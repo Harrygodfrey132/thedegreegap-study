@@ -1,6 +1,6 @@
 ---
-title: "A-Level Chemistry Tutors Who Make It Manageable | The Degree Gap"
-description: "A-Level Chemistry piles up, and somewhere between mechanisms, rate equations and practicals it slips. Free call with co-founder Joe, then trial lessons from £37/hr."
+title: "Online A-Level Chemistry Tutors, £37/hr"
+description: "Mechanisms, rate equations and the practical endorsement, taught one to one online. £37 an hour to start, and 108 Google reviews at 5.0."
 robots: "index, follow"
 layout: "single"
 subject: "A-Level Chemistry"

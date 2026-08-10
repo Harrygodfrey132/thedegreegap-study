@@ -1,6 +1,6 @@
 ---
-title: "A-Level Biology Tutors for Synoptic Questions"
-description: "The content never stops, and the synoptic questions link topics your child studied months apart. Free call with co-founder Joe, then trial lessons from £37/hr."
+title: "A-Level Biology Tutor, Online 1-to-1"
+description: "Synoptic questions catch out students who know the content. Our online A-Level Biology tutors work on exactly that, from £37 an hour. Free call first."
 robots: "index, follow"
 layout: "single"
 subject: "A-Level Biology"

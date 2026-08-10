@@ -1,6 +1,6 @@
 ---
-title: "GCSE Geography Tutors for the 9-Mark Answers"
-description: "Your child knows the case studies, and the marks are not landing on the 9-mark answers. Free call with co-founder Joe, then trial lessons from £37/hr."
+title: "Online GCSE Geography Tutors, £37/hr"
+description: "The nine-mark answers decide the grade. Online GCSE Geography tutors for case studies, fieldwork and exam technique, one to one from £37 an hour."
 robots: "index, follow"
 layout: "single"
 subject: "GCSE Geography"

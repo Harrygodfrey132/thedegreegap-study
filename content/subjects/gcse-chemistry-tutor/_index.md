@@ -1,6 +1,6 @@
 ---
-title: "GCSE Chemistry Tutors Who Make the Marks Add Up | The Degree Gap"
-description: "It makes sense in class, then the moles calculations and six-mark questions fall apart in the exam. Free call with co-founder Joe, then trial lessons from £37/hr."
+title: "GCSE Chemistry Tutor Online, 1-to-1"
+description: "Rated 5.0 across 108 Google reviews. Online GCSE Chemistry tutors who work through equations, moles and the practicals, one to one from £37 an hour."
 robots: "index, follow"
 layout: "single"
 subject: "GCSE Chemistry"

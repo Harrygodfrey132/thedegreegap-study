@@ -1,6 +1,6 @@
 ---
-title: "GCSE Spanish Tutors Who Build Vocabulary"
-description: "Your child knows more Spanish than the grade shows. Vocabulary and fast listening are where it slips. Free call with co-founder Joe, then trial lessons from £37/hr."
+title: "Online GCSE Spanish Tutors, 1-to-1"
+description: "Vocabulary, writing and the speaking exam, taught online by GCSE Spanish specialists. Free 30-minute call with a co-founder first, then £37 an hour."
 robots: "index, follow"
 layout: "single"
 subject: "GCSE Spanish"
