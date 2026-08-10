@@ -513,7 +513,8 @@
     color: #171717;
     margin: 0 0 6px;
   }
-  .rd-register__field input {
+  .rd-register__field input,
+  .rd-register__field select {
     width: 100%;
     box-sizing: border-box;
     font-family: inherit;
@@ -526,7 +527,17 @@
     line-height: 1.4;
     transition: border-color 0.2s, box-shadow 0.2s;
   }
-  .rd-register__field input:focus {
+  .rd-register__field select {
+    -webkit-appearance: none;
+    appearance: none;
+    padding-right: 38px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath fill='none' stroke='%2357514a' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round' d='M1 1.5 6 6.5 11 1.5'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 14px center;
+    background-size: 12px 8px;
+  }
+  .rd-register__field input:focus,
+  .rd-register__field select:focus {
     outline: none;
     border-color: #800020;
     box-shadow: 0 0 0 4px rgba(128, 0, 32, 0.10);
@@ -1003,6 +1014,24 @@
             <input id="rd-phone" name="phone" type="tel" autocomplete="tel" inputmode="tel" placeholder="07XXX XXX XXX">
           </div>
 
+          <div class="rd-register__field">
+            <label for="rd-year">Year of study</label>
+            <select id="rd-year" name="year_of_study" required>
+              <option value="" disabled selected>Please choose</option>
+              <option value="11+ Exams">11+ exams</option>
+              <option value="Year 7">Year 7</option>
+              <option value="Year 8">Year 8</option>
+              <option value="Year 9">Year 9</option>
+              <option value="Year 10">Year 10</option>
+              <option value="GCSE - Year 11">Year 11 (GCSE)</option>
+              <option value="Year 11 resit">Year 11 resit</option>
+              <option value="A level - Yr 12">Year 12 (A-Level)</option>
+              <option value="A level - Yr 13">Year 13 (A-Level)</option>
+              <option value="Masters">Masters</option>
+              <option value="Unsure">Not sure yet</option>
+            </select>
+          </div>
+
           <fieldset class="rd-radio-group">
             <legend>What's your child's plan after GCSEs?</legend>
             <div class="rd-radio-grid">
@@ -1161,7 +1190,7 @@
        Last Name   = first_name + " " + last_name
        Email       = registration email
        Phone       = normalised +44 number
-       LEADCF3     = "GCSE - Year 11" (always)
+       LEADCF3     = year of study chosen by the parent
        Lead Source = "August Webinar" (always)
        Lead Status = "Interested In Tutoring" if the A-Level
                      follow-up box was ticked, otherwise
@@ -1231,7 +1260,9 @@
     if (phone) add('Phone', phone);
 
     add('LEADCF5', 'Webinar');
-    add('LEADCF3', 'GCSE - Year 11');
+    /* Year of study is chosen by the parent. Values match the Zoho
+       LEADCF3 picklist exactly; fall back only if the select is missing. */
+    add('LEADCF3', (data.get('year_of_study') || 'Unsure').trim());
     add('Lead Source', 'August Webinar');
 
     var alevelInterest = data.get('interest_a_level') === 'yes';
