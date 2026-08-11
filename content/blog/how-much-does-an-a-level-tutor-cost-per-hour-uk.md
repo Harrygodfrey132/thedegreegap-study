@@ -17,6 +17,9 @@ related_links:
   - title: "How much does a GCSE tutor cost per hour?"
     url: "/blog/how-much-does-a-gcse-tutor-cost-per-hour-uk/"
     description: "The same research, done for GCSE rates, where the national average sits £10 to £20 lower."
+  - title: "When should my child start A-Level tutoring?"
+    url: "/blog/when-should-my-child-start-a-level-tutoring/"
+    description: "Why the autumn of Year 12 matters more than parents expect, and how predicted grades are formed."
 ---
 
 Most parents come to A-Level tutoring having already paid for GCSE tutoring, and the first thing they notice is that the number went up. Sometimes by a little, sometimes by half again. The question we get asked on consultation calls, almost word for word, is *why does A-Level cost more when it is the same hour of the same tutor's time?*

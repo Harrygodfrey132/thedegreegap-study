@@ -17,6 +17,9 @@ related_links:
   - title: "Find a tutor in your area"
     url: "/locations/"
     description: "Local tutoring pages for every city we cover, with the schools we know and the exam boards we match on."
+  - title: "Results day 2026: what to do if the grades are not what you hoped"
+    url: "/blog/results-day-2026-grades-not-what-you-hoped/"
+    description: "Remarks, review-of-marking deadlines, November resits and the first 48 hours."
 ---
 
 If you sat GCSEs in the era of A*, A, B, C and so on, the 9-1 scale your child is being graded on can feel like a different language. Most parents who reach out say the same thing: nobody's properly explained what the numbers mean, what counts as a pass, or whether a 6 is something to celebrate or worry about. Here's the plain answer, with the 2026 figures from Ofqual to back it up.

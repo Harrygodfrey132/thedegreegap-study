@@ -1,0 +1,61 @@
+{{- /*
+  Standard end-of-post CTA. Offers judgement on choices rather than a tutoring
+  pitch, which is what earns the click on informational posts.
+
+  Place at the very bottom of a post. Bare form uses the default copy.
+  Optional named params to override per post: heading, body, label, url.
+
+  Copy lives here, not in each post, so it is one edit sitewide.
+*/ -}}
+{{- $heading := .Get "heading" | default "Not sure what your child actually needs?" -}}
+{{- $body := .Get "body" | default "That is the most common reason families call us, and it is a good reason. Harry or Joe will spend thirty minutes with you on GCSE or A-Level choices, what the current grades are actually telling you, and whether tutoring is even the right answer yet. Nobody is matched with a tutor on that call, and a fair number of them end with us saying wait." -}}
+{{- $label := .Get "label" | default "Book a free 30-minute call" -}}
+{{- $url := .Get "url" | default "/book-a-call/" -}}
+<aside class="dg-callcta">
+  <p class="dg-callcta__heading">{{ $heading }}</p>
+  <p class="dg-callcta__body">{{ $body }}</p>
+  <p class="dg-callcta__action"><a href="{{ $url | relURL }}">{{ $label }} <span aria-hidden="true">&rarr;</span></a></p>
+</aside>
+<style>
+  .dg-callcta {
+    margin: 40px 0 8px;
+    padding: 26px 26px 22px;
+    background: var(--cream, #fbf7ef);
+    border: 1px solid rgba(128, 0, 32, 0.16);
+    border-left: 4px solid var(--burgundy, #800020);
+    border-radius: 12px;
+  }
+  .dg-callcta__heading {
+    margin: 0 0 10px;
+    font-size: 1.12rem;
+    font-weight: 700;
+    line-height: 1.35;
+    color: #171717;
+  }
+  .dg-callcta__body {
+    margin: 0 0 18px;
+    font-size: 0.97rem;
+    line-height: 1.6;
+    color: #46403a;
+  }
+  .dg-callcta__action { margin: 0; }
+  .dg-callcta__action a {
+    display: inline-block;
+    background: var(--burgundy, #800020);
+    color: var(--cream, #fbf7ef);
+    font-weight: 700;
+    font-size: 0.96rem;
+    text-decoration: none;
+    padding: 13px 22px;
+    border-radius: 999px;
+    transition: background 0.18s, transform 0.18s;
+  }
+  .dg-callcta__action a:hover {
+    background: var(--burgundy-dark, #5A001F);
+    transform: translateY(-1px);
+  }
+  @media (max-width: 520px) {
+    .dg-callcta { padding: 22px 18px 18px; }
+    .dg-callcta__action a { display: block; text-align: center; }
+  }
+</style>
