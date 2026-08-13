@@ -72,17 +72,11 @@
             <input type="hidden" name="_subject" value="ExamEssentials tutoring enquiry">
             <input type="hidden" name="source" value="referred-by-exam-essentials">
             <input type="hidden" name="_next" value="{{ "book-a-call-thank-you/" | absURL }}">
-            {{ partial "book-call-zoho-fields.html" (dict "page" . "referrer" "ExamEssentials") }}
+            <input type="hidden" name="page_url" value="{{ .RelPermalink }}">
 
-            <div class="book-call__row">
-              <div class="book-call__field">
-                <label for="bc-first">First name</label>
-                <input id="bc-first" name="first_name" type="text" required autocomplete="given-name">
-              </div>
-              <div class="book-call__field">
-                <label for="bc-last">Last name</label>
-                <input id="bc-last" name="last_name" type="text" required autocomplete="family-name">
-              </div>
+            <div class="book-call__field">
+              <label for="bc-name">Your name</label>
+              <input id="bc-name" name="name" type="text" required autocomplete="name" placeholder="e.g. Emma Clarke">
             </div>
 
             <div class="book-call__field">
@@ -106,7 +100,7 @@
 
             <div class="book-call__field">
               <label for="bc-subjects">Which subjects?</label>
-              <input id="bc-subjects" name="subjects" type="text" required placeholder="e.g. GCSE Maths, A-Level Chemistry">
+              <input id="bc-subjects" name="message" type="text" required placeholder="e.g. GCSE Maths, A-Level Chemistry">
             </div>
 
             <button type="submit" class="book-call__submit">Get in touch</button>

@@ -81,17 +81,12 @@
             <input type="hidden" name="_subject" value="{{ $formSubject }}">
             <input type="hidden" name="source" value="{{ $formSource }}">
             <input type="hidden" name="_next" value="{{ "book-a-call-thank-you/" | absURL }}">
-            {{ partial "book-call-zoho-fields.html" (dict "page" .) }}
+            <input type="hidden" name="page_url" value="{{ .RelPermalink }}">
+            <input type="hidden" name="message" value="Parents Guide to GCSEs download">
 
-            <div class="book-call__row">
-              <div class="book-call__field">
-                <label for="pg-first">First name</label>
-                <input id="pg-first" name="first_name" type="text" required autocomplete="given-name">
-              </div>
-              <div class="book-call__field">
-                <label for="pg-last">Last name</label>
-                <input id="pg-last" name="last_name" type="text" required autocomplete="family-name">
-              </div>
+            <div class="pg-field">
+              <label for="pg-name">Your name</label>
+              <input id="pg-name" name="name" type="text" required autocomplete="name" placeholder="e.g. Emma Clarke">
             </div>
 
             <div class="book-call__field">

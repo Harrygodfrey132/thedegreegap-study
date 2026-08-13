@@ -70,25 +70,11 @@
             <input type="hidden" name="_subject" value="Post-webinar tutoring enquiry">
             <input type="hidden" name="_next" value="{{ "book-a-call-thank-you/" | absURL }}">
             <input type="hidden" name="source" value="booked call">
-            {{/* The Formspree -> Zapier -> Zoho zap maps First Name from "name",
-                 and Description from "page_url" + "message". This form collects
-                 first_name/last_name/year_group/subjects instead, so without
-                 these three the lead lands in Zoho nameless and with an empty
-                 description. page_url is rendered here; name and message are
-                 filled from the visible fields on submit, below. */}}
             <input type="hidden" name="page_url" value="{{ .RelPermalink }}">
-            <input type="hidden" name="name" value="">
-            <input type="hidden" name="message" value="">
 
-            <div class="book-call__row">
-              <div class="book-call__field">
-                <label for="bc-first">First name</label>
-                <input id="bc-first" name="first_name" type="text" required autocomplete="given-name">
-              </div>
-              <div class="book-call__field">
-                <label for="bc-last">Last name</label>
-                <input id="bc-last" name="last_name" type="text" required autocomplete="family-name">
-              </div>
+            <div class="book-call__field">
+              <label for="bc-name">Your name</label>
+              <input id="bc-name" name="name" type="text" required autocomplete="name" placeholder="e.g. Emma Clarke">
             </div>
 
             <div class="book-call__field">
@@ -112,7 +98,7 @@
 
             <div class="book-call__field">
               <label for="bc-subjects">Which subjects?</label>
-              <input id="bc-subjects" name="subjects" type="text" required placeholder="e.g. GCSE Maths, A-Level Chemistry">
+              <input id="bc-subjects" name="message" type="text" required placeholder="e.g. GCSE Maths, A-Level Chemistry">
             </div>
 
             <button type="submit" class="book-call__submit">Get in touch</button>
@@ -120,51 +106,6 @@
             <p class="book-call__phone-fallback">Prefer to talk first? Call <a href="tel:+447859965776">07859&nbsp;965776</a></p>
           </form>
 
-          <script>
-            /* Fill the hidden name and message fields the Zoho zap reads, from the
-               fields this form actually asks for. Runs on submit so it picks up
-               whatever was typed. If this script never runs the form still posts
-               page_url, first_name, last_name, year_group and subjects, so this
-               can only add data, never remove it.
-
-               page_url stays as this page, matching what every other form on the
-               site means by it. The referring page goes into the message instead,
-               since on a book-a-call the interesting question is which page sent
-               them here. */
-            (function () {
-              var form = document.querySelector('.book-call__form');
-              if (!form) return;
-
-              var cameFrom = '';
-              try {
-                if (document.referrer) {
-                  var ref = new URL(document.referrer);
-                  if (ref.host === window.location.host &&
-                      ref.pathname.replace(/\/+$/, '') !== window.location.pathname.replace(/\/+$/, '')) {
-                    cameFrom = ref.pathname + ref.search;
-                  }
-                }
-              } catch (e) { /* opaque or malformed referrer, skip it */ }
-
-              form.addEventListener('submit', function () {
-                function val(n) {
-                  var el = form.querySelector('[name="' + n + '"]');
-                  return el && el.value ? el.value.trim() : '';
-                }
-                function set(n, v) {
-                  var el = form.querySelector('input[type="hidden"][name="' + n + '"]');
-                  if (el) el.value = v;
-                }
-                var parts = [];
-                if (val('year_group')) parts.push('Year group: ' + val('year_group'));
-                if (val('subjects')) parts.push('Subjects: ' + val('subjects'));
-                if (cameFrom) parts.push('Came from: ' + cameFrom);
-
-                set('name', (val('first_name') + ' ' + val('last_name')).trim());
-                set('message', parts.join('. '));
-              });
-            })();
-          </script>
 
           <figure class="book-call__quote">
             <div class="book-call__quote-stars" aria-label="5 out of 5">★★★★★</div>
