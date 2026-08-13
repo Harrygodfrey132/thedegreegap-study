@@ -9908,3 +9908,71 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 .sj-sticky-cta {
   display: none !important;
 }
+
+/* UKM2-Education-themed referral page: deep navy on the logo's cream, taken from
+   the partner mark (navy #1E3A5A, cream #F2ECE0). Mirrors the exam-essentials
+   variant structurally so the two pages behave identically. */
+.book-call--ukmm-education .book-call__eyebrow {
+  background: #F2ECE0;
+  color: #1E3A5A;
+  border: 2px solid #1E3A5A;
+  padding: 8px 18px;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+}
+.book-call--ukmm-education .book-call__form-tag {
+  background: #F2ECE0;
+  color: #1E3A5A;
+  border: 1.5px solid #1E3A5A;
+  padding: 5px 12px;
+  font-weight: 800;
+}
+.book-call--ukmm-education .book-call__submit {
+  background: #1E3A5A;
+  color: #ffffff;
+}
+.book-call--ukmm-education .book-call__submit:hover {
+  background: #16293F;
+}
+.book-call--ukmm-education .book-call__reviews-brand {
+  color: #1E3A5A;
+}
+
+/* UKM2 endorsement badge — cream pill carrying the navy logo */
+.book-call--ukmm-education .book-call__endorsement {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  padding: 12px 22px;
+  background: #F2ECE0;
+  border: 1.5px solid #1E3A5A;
+  border-radius: 999px;
+  box-shadow: 0 2px 10px rgba(30, 58, 90, 0.10);
+  text-decoration: none;
+  color: #1E3A5A;
+  transition: background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease;
+  max-width: max-content;
+}
+.book-call--ukmm-education .book-call__endorsement:hover {
+  background: #E9E1D0;
+  box-shadow: 0 4px 14px rgba(30, 58, 90, 0.18);
+  transform: translateY(-1px);
+  text-decoration: none;
+  color: #1E3A5A;
+}
+.book-call--ukmm-education .book-call__endorsement-label {
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #1E3A5A;
+  white-space: nowrap;
+  padding-right: 12px;
+  border-right: 1px solid rgba(30, 58, 90, 0.35);
+}
+.book-call--ukmm-education .book-call__endorsement img { height: 42px; width: auto; display: block; }
+@media (max-width: 540px) {
+  .book-call--ukmm-education .book-call__endorsement { padding: 10px 18px; gap: 10px; }
+  .book-call--ukmm-education .book-call__endorsement-label { padding-right: 10px; font-size: 0.68rem; }
+  .book-call--ukmm-education .book-call__endorsement img { height: 34px; }
+}
