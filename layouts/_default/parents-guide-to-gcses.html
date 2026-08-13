@@ -80,6 +80,8 @@
             <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
             <input type="hidden" name="_subject" value="{{ $formSubject }}">
             <input type="hidden" name="source" value="{{ $formSource }}">
+            <input type="hidden" name="_next" value="{{ "book-a-call-thank-you/" | absURL }}">
+            {{ partial "book-call-zoho-fields.html" (dict "page" .) }}
 
             <div class="book-call__row">
               <div class="book-call__field">

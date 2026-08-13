@@ -75,6 +75,8 @@
             </div>
             <input type="hidden" name="_subject" value="Top School Guide tutoring enquiry">
             <input type="hidden" name="source" value="referred-by-top-school-guide">
+            <input type="hidden" name="_next" value="{{ "book-a-call-thank-you/" | absURL }}">
+            {{ partial "book-call-zoho-fields.html" (dict "page" . "referrer" "Top School Guide") }}
 
             <div class="book-call__row">
               <div class="book-call__field">
