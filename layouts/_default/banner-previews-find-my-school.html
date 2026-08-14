@@ -1,0 +1,512 @@
+{{ define "seo" }}
+{{ partial "seo.html" . }}
+<meta name="robots" content="noindex, follow">
+{{ end }}
+
+{{ define "main" }}
+{{/* Landing destination. Attribution is by landing-page URL: the form on this
+     page posts its own path in the hidden page_url field, so every lead arriving
+     from these banners is stamped /referred-by-find-my-school/ in Zoho. The UTMs
+     are additive, for FindMySchool's own analytics, not what the attribution
+     depends on. */}}
+{{ $dest := "referred-by-find-my-school/" }}
+{{ $utm := "utm_source=findmyschool&utm_medium=banner&utm_campaign=fms-2026&utm_content=" }}
+{{ $reviews := site.Params.googleReviewCount }}
+
+<style>
+  /* ===== EXPORT MODE: ?export=728|300|halfpage|320|native isolates one banner
+     flush top-left for a clean screenshot. Inert without the query param. ===== */
+  body.exporting { margin: 0 !important; background: transparent !important; }
+  body.exporting > * { display: none !important; }
+  body.exporting > main { display: block !important; margin: 0 !important; padding: 0 !important; }
+  body.exporting .fms-page { padding: 0 !important; margin: 0 !important; background: transparent !important; min-height: 0 !important; }
+  body.exporting .fms-inner { max-width: none !important; margin: 0 !important; padding: 0 !important; }
+  body.exporting .fms-block, body.exporting .fms-card, body.exporting .fms-intro { display: none !important; }
+  body.exporting .fms-block.export-target { display: block !important; }
+  body.exporting .fms-block.export-target .fms-h2, body.exporting .fms-block.export-target .fms-note { display: none !important; }
+  body.exporting .fms-block.export-target .fms-frame { padding: 0 !important; margin: 0 !important; background: transparent !important; border: 0 !important; }
+  body.exporting .export-target .f-banner { position: fixed !important; top: 0 !important; left: 0 !important; margin: 0 !important; box-sizing: border-box !important; }
+  body.exporting .f-728 { width: 728px !important; max-width: none !important; height: 90px !important; transform: none !important; }
+
+  /* ===== Page chrome ===== */
+  .fms-page {
+    background: #fafafa;
+    min-height: 80vh;
+    padding: 56px 24px 96px;
+    font-family: 'Poppins', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  }
+  .fms-inner { max-width: 1000px; margin: 0 auto; }
+  .fms-intro { margin-bottom: 34px; }
+  .fms-label {
+    display: inline-block; font-size: 0.7rem; font-weight: 800;
+    letter-spacing: 0.14em; color: #800020; margin-bottom: 8px;
+  }
+  .fms-intro h1 {
+    font-size: 1.8rem; font-weight: 900; color: #171717;
+    letter-spacing: -0.015em; margin: 0 0 14px;
+  }
+  .fms-intro p { font-size: 0.95rem; line-height: 1.65; color: #5f5a54; margin: 0 0 10px; }
+  .fms-intro strong { color: #171717; font-weight: 800; }
+
+  .fms-card {
+    background: #ffffff; border: 1px solid #e6ded4; border-radius: 12px;
+    padding: 22px 26px; margin: 28px 0;
+  }
+  .fms-card h2 {
+    font-size: 0.78rem; font-weight: 800; letter-spacing: 0.10em;
+    text-transform: uppercase; color: #800020; margin: 0 0 14px;
+  }
+  .fms-card--warn { border-left: 4px solid #800020; background: #fffaf9; }
+  .fms-card ul, .fms-card ol {
+    margin: 0; padding-left: 20px; font-size: 0.92rem; line-height: 1.7; color: #171717;
+  }
+  .fms-card li { margin-bottom: 8px; }
+  .fms-card li:last-child { margin-bottom: 0; }
+  .fms-card p { font-size: 0.92rem; line-height: 1.7; color: #171717; margin: 0 0 10px; }
+  .fms-card p:last-child { margin-bottom: 0; }
+  .fms-card code {
+    background: #fbf7ef; border: 1px solid #e6ded4; padding: 1px 6px;
+    border-radius: 4px; font-size: 0.85em;
+  }
+  .fms-good { color: #2D5538; font-weight: 800; }
+  .fms-bad { color: #800020; font-weight: 800; }
+
+  .fms-table-wrap { overflow-x: auto; }
+  .fms-table { width: 100%; border-collapse: collapse; font-size: 0.88rem; }
+  .fms-table th, .fms-table td {
+    text-align: left; padding: 10px 12px; border-bottom: 1px solid #efe9e1;
+    line-height: 1.5; vertical-align: top;
+  }
+  .fms-table th {
+    font-size: 0.7rem; letter-spacing: 0.08em; text-transform: uppercase;
+    color: #5f5a54; font-weight: 800; border-bottom: 2px solid #e6ded4;
+  }
+  .fms-table td:first-child { font-weight: 700; color: #171717; }
+  .fms-table tr:last-child td { border-bottom: none; }
+
+  .fms-slot {
+    border: 2px dashed #d4ccc0; border-radius: 10px; padding: 26px 22px;
+    text-align: center; color: #5f5a54; font-size: 0.9rem; line-height: 1.6;
+    background: #fbf7ef;
+  }
+  .fms-slot strong { display: block; color: #800020; font-weight: 800; margin-bottom: 6px; }
+
+  .fms-block { margin: 48px 0 24px; }
+  .fms-h2 {
+    display: flex; align-items: baseline; justify-content: space-between; gap: 16px;
+    font-size: 1.1rem; font-weight: 800; color: #171717; margin: 0 0 6px;
+    letter-spacing: -0.01em;
+  }
+  .fms-h2 .fms-size {
+    font-size: 0.78rem; font-weight: 700; color: #5f5a54; background: #fbf7ef;
+    border: 1px solid #e6ded4; border-radius: 999px; padding: 3px 10px; letter-spacing: 0.04em;
+  }
+  .fms-note { font-size: 0.88rem; color: #5f5a54; margin: 0 0 16px; }
+  .fms-frame {
+    display: flex; justify-content: center; padding: 32px 16px;
+    border-radius: 12px; background: #ffffff; border: 1px dashed #d4ccc0;
+  }
+
+  /* =================================================
+     SHARED BANNER STYLES
+     Pale burgundy ground carried over from the mockup,
+     recoloured to the real brand burgundy #800020.
+     ================================================= */
+  .f-banner {
+    position: relative; display: flex; text-decoration: none; overflow: hidden;
+    background: #F9EFEE; border: 1px solid #E5CFCE; border-radius: 14px;
+    box-shadow: 0 8px 24px rgba(35, 23, 17, 0.14);
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
+    font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+    box-sizing: border-box;
+  }
+  .f-banner, .f-banner * { text-decoration: none !important; }
+  .f-banner:hover { box-shadow: 0 14px 36px rgba(35, 23, 17, 0.2); transform: translateY(-1px); }
+  .f-banner:focus-visible { outline: 3px solid #800020; outline-offset: 3px; }
+  .f-motif { position: absolute; pointer-events: none; }
+  .f-body { position: relative; display: flex; box-sizing: border-box; height: 100%; }
+
+  .f-pill {
+    display: inline-flex; align-items: center; gap: 6px; background: #FFFFFF;
+    border: 1px solid #E5CFCE; border-radius: 999px; padding: 4px 11px;
+    font-size: 9.5px; letter-spacing: 0.12em; color: #800020; font-weight: 700;
+    white-space: nowrap; align-self: flex-start;
+  }
+  .f-head { font-weight: 900; color: #2B2321; letter-spacing: -0.018em; line-height: 1.14; }
+  .f-sub { color: #5C4A47; line-height: 1.45; }
+  .f-trust { display: flex; align-items: center; gap: 6px; color: #5C4A47; white-space: nowrap; }
+  .f-stars { color: #FBBC05; line-height: 1; letter-spacing: 0.03em; }
+  .f-rating { font-weight: 900; color: #2B2321; }
+  .f-dot { width: 3px; height: 3px; background: #C9AFAD; border-radius: 50%; flex: 0 0 auto; }
+  .f-cta {
+    display: inline-flex; align-items: center; justify-content: center; gap: 7px;
+    background: #800020; color: #FDF6F5; font-weight: 800; border-radius: 999px;
+    white-space: nowrap; box-shadow: 0 6px 14px rgba(128, 0, 32, 0.26);
+    transition: background 0.15s ease;
+  }
+  .f-banner:hover .f-cta { background: #5A001F; }
+  .f-award {
+    font-weight: 800; letter-spacing: 0.04em; text-transform: uppercase;
+    color: #800020; line-height: 1.35;
+  }
+
+  /* ===== 728 x 90 leaderboard ===== */
+  .f-728 { width: 728px; height: 90px; align-items: center; }
+  .f-728 .f-body { width: 100%; align-items: center; gap: 16px; padding: 0 18px 0 20px; }
+  .f-728 .f728-logo { flex: 0 0 auto; height: 44px; width: auto; max-width: 170px; }
+  .f-728 .f728-text { flex: 1; display: flex; flex-direction: column; gap: 3px; min-width: 0; }
+  .f-728 .f-head { font-size: 17px; }
+  .f-728 .f-sub { font-size: 11.5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .f-728 .f-trust { font-size: 11px; }
+  .f-728 .f-stars { font-size: 12px; }
+  .f-728 .f-rating { font-size: 11.5px; }
+  .f-728 .f-cta { flex: 0 0 auto; font-size: 13.5px; padding: 12px 20px; }
+  .f-728 .f-motif { right: -22px; bottom: -26px; width: 132px; height: 132px; }
+
+  /* ===== 300 x 250 MPU ===== */
+  .f-300x250 { width: 300px; height: 250px; }
+  .f-300x250 .f-body { flex-direction: column; width: 100%; padding: 18px 18px 16px; }
+  .f-300x250 .f-head { font-size: 21px; margin: 12px 0 7px; max-width: 230px; }
+  .f-300x250 .f-sub { font-size: 12px; margin: 0 0 auto; max-width: 220px; }
+  .f-300x250 .f-trust { font-size: 10.5px; margin: 10px 0 10px; }
+  .f-300x250 .f-stars { font-size: 11px; }
+  .f-300x250 .f-rating { font-size: 11px; }
+  .f-300x250 .f-cta { align-self: flex-start; font-size: 12.5px; padding: 0 18px; height: 40px; }
+  .f-300x250 .f-motif { right: -20px; bottom: -22px; width: 118px; height: 118px; }
+
+  /* ===== 300 x 600 half page ===== */
+  .f-300x600 { width: 300px; height: 600px; }
+  .f-300x600 .f-body { flex-direction: column; width: 100%; padding: 26px 22px 24px; }
+  .f-300x600 .fhp-logo { height: 32px; width: auto; max-width: 150px; margin: 0; display: block; align-self: flex-start; flex: 0 0 auto; }
+  .f-300x600 .f-head { font-size: 26px; margin: 26px 0 10px; }
+  .f-300x600 .f-sub { font-size: 13.5px; margin: 0 0 20px; }
+  .f-300x600 .fhp-rule { height: 1px; background: #E5CFCE; margin: 0 0 20px; }
+  .f-300x600 .f-stars { font-size: 20px; display: block; margin-bottom: 5px; }
+  .f-300x600 .fhp-rating { font-size: 19px; font-weight: 900; color: #2B2321; line-height: 1; margin-bottom: 5px; }
+  .f-300x600 .fhp-count { font-size: 11.5px; color: #5C4A47; margin: 0 0 22px; line-height: 1.4; }
+  .f-300x600 .fhp-callout {
+    background: #FFFFFF; border: 1px solid #E5CFCE; border-radius: 10px;
+    padding: 13px 12px; margin-bottom: 20px;
+  }
+  .f-300x600 .fhp-eyebrow {
+    font-size: 9px; font-weight: 800; letter-spacing: 0.1em; color: #800020;
+    text-transform: uppercase; margin-bottom: 4px; display: block;
+  }
+  .f-300x600 .fhp-line { display: block; font-size: 13px; font-weight: 700; color: #2B2321; line-height: 1.3; }
+  .f-300x600 .f-award { font-size: 10px; margin: 0 0 22px; }
+  .f-300x600 .f-cta { margin-top: auto; font-size: 14px; height: 48px; }
+  .f-300x600 .f-motif { right: -24px; top: -40px; width: 148px; height: 148px; }
+
+  /* ===== 320 x 100 mobile ===== */
+  .f-320 { width: 320px; height: 100px; align-items: center; }
+  .f-320 .f-body { width: 100%; align-items: center; gap: 9px; padding: 0 11px; }
+  .f-320 .f320-text { flex: 1; display: flex; flex-direction: column; gap: 3px; min-width: 0; }
+  .f-320 .f-pill { font-size: 7.5px; padding: 2px 8px; letter-spacing: 0.1em; }
+  .f-320 .f-head { font-size: 13.5px; }
+  .f-320 .f-trust { font-size: 9px; gap: 4px; }
+  .f-320 .f-stars { font-size: 9px; }
+  .f-320 .f-cta { flex: 0 0 auto; font-size: 10.5px; padding: 9px 12px; }
+
+  /* ===== Native in-content unit (the supplied mockup, fixed up) ===== */
+  .f-native { width: 100%; max-width: 620px; }
+  .f-native .f-body { flex-direction: column; width: 100%; padding: 26px 24px 24px; }
+  .f-native .f-head { font-size: 25px; margin: 14px 0 8px; max-width: 380px; }
+  .f-native .f-sub { font-size: 14px; margin: 0 0 16px; max-width: 380px; }
+  .f-native .f-trust { font-size: 12px; margin: 0 0 18px; }
+  .f-native .f-stars { font-size: 13px; }
+  .f-native .f-rating { font-size: 12.5px; }
+  .f-native .f-cta { align-self: flex-start; font-size: 14px; padding: 0 22px; height: 46px; }
+  .f-native .f-motif { right: -18px; bottom: -18px; width: 130px; height: 130px; }
+
+  @media (max-width: 800px) {
+    .fms-page { padding: 40px 14px 72px; }
+    .f-728 { transform: scale(0.62); transform-origin: left center; }
+    .fms-frame { justify-content: flex-start; overflow-x: auto; }
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var m = new URLSearchParams(location.search).get('export');
+    if (!m) return;
+    var map = { '728': '.f-728', '300': '.f-300x250', 'halfpage': '.f-300x600', '320': '.f-320', 'native': '.f-native' };
+    var sel = map[m]; if (!sel) return;
+    var banner = document.querySelector(sel); if (!banner) return;
+    var block = banner.closest('.fms-block'); if (block) block.classList.add('export-target');
+    document.body.classList.add('exporting');
+  });
+</script>
+
+<div class="fms-page">
+  <div class="fms-inner">
+
+    <header class="fms-intro">
+      <span class="fms-label">INTERNAL &middot; FOR PARTNER REVIEW</span>
+      <h1>FindMySchool banner creatives and partnership breakdown</h1>
+      <p>Five units built from the supplied mockup, recoloured to the real brand burgundy and cut to fixed IAB sizes so they drop into standard ad slots. Hover any banner to see the click state. The whole banner is one clickable link.</p>
+      <p>Underneath is a condensed version of the partnership proposal: the offer, the placements, the numbers and what still needs answering.</p>
+      <p>This page is <strong>noindex</strong> and excluded from the sitemap. Safe to share the URL directly.</p>
+    </header>
+
+    <div class="fms-card fms-card--warn">
+      <h2>Evaluation of the supplied mockup</h2>
+      <p><span class="fms-good">What works and has been kept:</span> the pale burgundy ground reads as distinct against a mostly-white host site without shouting. <em>"Grades not where they should be?"</em> is a good parent-pain opener and sits right in our voice. The pill CTA matches the banner family already running with School Guide.</p>
+      <p><span class="fms-bad">What had to be fixed before it could ship:</span></p>
+      <ul>
+        <li><strong>It was not a link.</strong> The CTA was a <code>&lt;button&gt;</code> with an <code>onclick</code> handler left over from the tool that generated it. No <code>href</code>, no destination, no tracking. Now a real anchor carrying FindMySchool UTMs.</li>
+        <li><strong>Wrong burgundy.</strong> The mockup used <code>#6B1F2E</code>. Brand burgundy is <code>#800020</code>, which is visibly warmer and more saturated. Corrected throughout.</li>
+        <li><strong>Undefined CSS variables.</strong> <code>var(--surface-1)</code> and <code>var(--font-voice)</code> do not exist outside the generating tool, so on FindMySchool's site the banner would have rendered with a transparent background and a default system font.</li>
+        <li><strong>Missing icon font.</strong> The book and arrow glyphs were Tabler icons (<code>class="ti ti-book-2"</code>). FindMySchool will not be loading that font, so both would have rendered as empty boxes. Replaced with inline SVG.</li>
+        <li><strong>No trust signal at all.</strong> This is the biggest one. The 5.0 rating, the {{ $reviews }} Google reviews and the Prestige award are our strongest conversion levers and none of them appeared. All three are now in, sized to fit each unit.</li>
+        <li><strong>No fixed dimensions.</strong> The unit was fluid width. Ad slots are fixed sizes, so it has been cut to 728&times;90, 300&times;250, 300&times;600 and 320&times;100, plus a fluid native version for the editorial placement.</li>
+        <li><strong>House style.</strong> "A-level" corrected to "A-Level".</li>
+      </ul>
+    </div>
+
+    <!-- ===== 728 x 90 ===== -->
+    <section class="fms-block">
+      <h2 class="fms-h2"><span>Desktop leaderboard</span><span class="fms-size">728 &times; 90</span></h2>
+      <p class="fms-note">For the GCSE, A-Level and combined league tables. Highest-intent inventory on the site.</p>
+      <div class="fms-frame">
+        {{/* No motif on the leaderboard: at 90px tall it collides with the CTA. */}}
+        <a class="f-banner f-728" href="{{ printf "%s?%sleaderboard-728" $dest $utm | relURL }}" target="_blank" rel="sponsored noopener" aria-label="The Degree Gap, find a GCSE or A-Level tutor">
+          <span class="f-body">
+            <img class="f728-logo" src="{{ "images/final-logo.svg" | relURL }}" alt="The Degree Gap">
+            <span class="f728-text">
+              <span class="f-head">Grades not where they should be?</span>
+              <span class="f-sub">We match your child with a qualified GCSE or A-Level tutor.</span>
+              <span class="f-trust">
+                <span class="f-stars" aria-label="5 out of 5">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
+                <span class="f-rating">5.0</span>
+                <span class="f-dot" aria-hidden="true"></span>
+                <span>{{ $reviews }} Google reviews</span>
+              </span>
+            </span>
+            <span class="f-cta">Find my tutor &rarr;</span>
+          </span>
+        </a>
+      </div>
+    </section>
+
+    <!-- ===== 300 x 250 ===== -->
+    <section class="fms-block">
+      <h2 class="fms-h2"><span>MPU</span><span class="fms-size">300 &times; 250</span></h2>
+      <p class="fms-note">Sits beside results data on a school profile. The workhorse size, and the closest to the supplied mockup.</p>
+      <div class="fms-frame">
+        <a class="f-banner f-300x250" href="{{ printf "%s?%smpu-300x250" $dest $utm | relURL }}" target="_blank" rel="sponsored noopener" aria-label="The Degree Gap, find a GCSE or A-Level tutor">
+          {{ partial "fms-motif.html" . }}
+          <span class="f-body">
+            <span class="f-pill">THE DEGREE GAP</span>
+            <span class="f-head">Grades not where they should be?</span>
+            <span class="f-sub">Qualified GCSE and A-Level tutors, matched to your child.</span>
+            <span class="f-trust">
+              <span class="f-stars" aria-label="5 out of 5">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
+              <span class="f-rating">5.0</span>
+              <span class="f-dot" aria-hidden="true"></span>
+              <span>{{ $reviews }} Google reviews</span>
+            </span>
+            <span class="f-cta">Find my tutor &rarr;</span>
+          </span>
+        </a>
+      </div>
+    </section>
+
+    <!-- ===== 300 x 600 ===== -->
+    <section class="fms-block">
+      <h2 class="fms-h2"><span>Half page</span><span class="fms-size">300 &times; 600</span></h2>
+      <p class="fms-note">Sidebar unit for the sixth form and secondary hubs, where there is room to carry the award and the free-call offer.</p>
+      <div class="fms-frame">
+        <a class="f-banner f-300x600" href="{{ printf "%s?%shalfpage-300x600" $dest $utm | relURL }}" target="_blank" rel="sponsored noopener" aria-label="The Degree Gap, find a GCSE or A-Level tutor">
+          {{ partial "fms-motif.html" . }}
+          <span class="f-body">
+            <img class="fhp-logo" src="{{ "images/final-logo.svg" | relURL }}" alt="The Degree Gap">
+            <span class="f-head">Grades not where they should be?</span>
+            <span class="f-sub">We match your child with a qualified GCSE or A-Level tutor, by subject and exam board.</span>
+            <span class="fhp-rule"></span>
+            <span class="f-stars" aria-label="5 out of 5">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
+            <span class="fhp-rating">5.0</span>
+            <span class="fhp-count">{{ $reviews }} verified Google reviews</span>
+            <span class="fhp-callout">
+              <span class="fhp-eyebrow">Free</span>
+              <span class="fhp-line">15-minute call with the founders</span>
+            </span>
+            <span class="f-award">GCSE Tutoring Specialists of the Year &middot; 2025 &amp; 2026</span>
+            <span class="f-cta">Find my tutor &rarr;</span>
+          </span>
+        </a>
+      </div>
+    </section>
+
+    <!-- ===== 320 x 100 ===== -->
+    <section class="fms-block">
+      <h2 class="fms-h2"><span>Mobile leaderboard</span><span class="fms-size">320 &times; 100</span></h2>
+      <p class="fms-note">Mobile is where most of this traffic will land, so this one carries the most weight in practice.</p>
+      <div class="fms-frame">
+        {{/* No motif and no favicon here: the motif collides with the CTA at
+             100px tall, and apple-touch-icon.png has an opaque cream square that
+             shows against the pink. The pill carries the brand instead. */}}
+        <a class="f-banner f-320" href="{{ printf "%s?%smobile-320x100" $dest $utm | relURL }}" target="_blank" rel="sponsored noopener" aria-label="The Degree Gap, find a GCSE or A-Level tutor">
+          <span class="f-body">
+            <span class="f320-text">
+              <span class="f-pill">THE DEGREE GAP</span>
+              <span class="f-head">Grades not where they should be?</span>
+              <span class="f-trust">
+                <span class="f-stars" aria-label="5 out of 5">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
+                <span>5.0 &middot; {{ $reviews }} reviews</span>
+              </span>
+            </span>
+            <span class="f-cta">Find my tutor &rarr;</span>
+          </span>
+        </a>
+      </div>
+    </section>
+
+    <!-- ===== Native ===== -->
+    <section class="fms-block">
+      <h2 class="fms-h2"><span>Native in-content unit</span><span class="fms-size">Fluid, max 620px</span></h2>
+      <p class="fms-note">The supplied mockup, fixed up. For the co-branded results-season article and the School Match "recommended next step" slot, where a fixed ad size would look bolted on.</p>
+      <div class="fms-frame">
+        <a class="f-banner f-native" href="{{ printf "%s?%snative-incontent" $dest $utm | relURL }}" target="_blank" rel="sponsored noopener" aria-label="The Degree Gap, find a GCSE or A-Level tutor">
+          {{ partial "fms-motif.html" . }}
+          <span class="f-body">
+            <span class="f-pill">THE DEGREE GAP</span>
+            <span class="f-head">Grades not where they should be?</span>
+            <span class="f-sub">The Degree Gap matches your child with a qualified GCSE or A-Level tutor, by subject and by exam board.</span>
+            <span class="f-trust">
+              <span class="f-stars" aria-label="5 out of 5">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
+              <span class="f-rating">5.0</span>
+              <span class="f-dot" aria-hidden="true"></span>
+              <span>{{ $reviews }} verified Google reviews</span>
+            </span>
+            <span class="f-cta">Find my tutor &rarr;</span>
+          </span>
+        </a>
+      </div>
+    </section>
+
+    <!-- ================= PROPOSAL BREAKDOWN ================= -->
+
+    <header class="fms-intro" style="margin-top:72px;">
+      <span class="fms-label">PARTNERSHIP PROPOSAL &middot; CONDENSED</span>
+      <h1>The Degree Gap &times; FindMySchool</h1>
+      <p>A performance partnership for GCSE and A-Level families, paid per converted customer. Prepared for FindMySchool (Leovate Ltd), August 2026.</p>
+    </header>
+
+    <div class="fms-card">
+      <h2>The offer, in one line</h2>
+      <p><strong>FindMySchool earns £75 for every referred enquiry that becomes a paying customer.</strong> Nothing is charged for impressions, clicks or enquiries that do not convert. Creative is supplied by us and adapted per page, subject to FindMySchool's design approval.</p>
+    </div>
+
+    <div class="fms-card">
+      <h2>Why the fit works</h2>
+      <ul>
+        <li><strong>Intent.</strong> Parents comparing league tables have exam performance front of mind. Tutoring is the adjacent action.</li>
+        <li><strong>Audience.</strong> State schools are 74% of school profile visits, and those families are the core tutoring market.</li>
+        <li><strong>Timing.</strong> Traffic peaks at spring allocation and August results, which is exactly when tutoring demand spikes.</li>
+        <li><strong>Geography.</strong> London is 35% of sixth form page visits, where tutor availability and willingness to pay are both highest.</li>
+      </ul>
+    </div>
+
+    <div class="fms-card">
+      <h2>Placements, ranked by expected performance</h2>
+      <div class="fms-table-wrap">
+        <table class="fms-table">
+          <thead>
+            <tr><th>#</th><th>Placement</th><th>Unit</th><th>Why</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>1</td><td>League tables<br><code>/rankings/gcse</code>, <code>/rankings/a-levels</code></td><td>728&times;90 + 320&times;100</td><td>Highest-intent inventory on the site.</td></tr>
+            <tr><td>2</td><td>Phase hubs<br>sixth form, secondary, London boroughs</td><td>300&times;600</td><td>Sidebar room for the award and the free-call offer.</td></tr>
+            <tr><td>3</td><td>School profiles</td><td>300&times;250</td><td>Sits naturally beside results data.</td></tr>
+            <tr><td>4</td><td>Editorial<br>co-branded results-season article</td><td>Native</td><td>Published ahead of results day with a form embedded.</td></tr>
+            <tr><td>5</td><td>School Match<br>post-results next step</td><td>Native</td><td>The most native integration available.</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="fms-card">
+      <h2>Estimated leads</h2>
+      <p style="margin:0 0 14px;">Per roughly <strong>20,000 relevant monthly page views</strong>. Recovered from the proposal document.</p>
+      <div class="fms-table-wrap">
+        <table class="fms-table">
+          <thead>
+            <tr><th>Scenario</th><th>Placement</th><th>CTR</th><th>Form rate</th><th>Leads / mo</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Conservative</td><td>Standard banner, run of site</td><td>0.2%</td><td>8%</td><td>5&ndash;8</td></tr>
+            <tr><td>Base case</td><td>Contextual banner on GCSE / A-Level pages</td><td>0.8%</td><td>12%</td><td>15&ndash;20</td></tr>
+            <tr><td>Strong</td><td>Native placements plus results-season timing</td><td>1.5%</td><td>15%</td><td>40&ndash;45</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p style="margin-top:16px;">What the surrounding text already commits to, applied to roughly <strong>20,000 relevant monthly page views</strong>:</p>
+      <div class="fms-table-wrap">
+        <table class="fms-table">
+          <thead>
+            <tr><th>Measure</th><th>Base case</th><th>At August and March peaks</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Enquiry to customer</td><td>40&ndash;60%</td><td>40&ndash;60%</td></tr>
+            <tr><td>New paying customers / month</td><td>6&ndash;12</td><td>9&ndash;24 (1.5&ndash;2&times;)</td></tr>
+            <tr><td>Revenue to FindMySchool</td><td>£450&ndash;900</td><td>£1,500+</td></tr>
+            <tr><td>Equivalent cost per lead</td><td colspan="2">£30&ndash;45, against a £75 fee paid only on conversion</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p style="margin-top:14px;color:#5f5a54;font-size:0.88rem;"><strong style="color:#800020;">Check the conservative row before sending.</strong> The base case and strong rows both reconcile against 20,000 page views: 0.8% of 20,000 is 160 clicks, 12% of those is 19 leads, which matches the stated 15&ndash;20. The strong row lands on 45, matching 40&ndash;45. The conservative row does not: 0.2% of 20,000 is 40 clicks and 8% of those is 3, not the 5&ndash;8 shown. It would need roughly 35,000 to 50,000 page views to produce that range. Either the row is using a different traffic base or the figure is overstated, and it is the one number a partner is most likely to check.</p>
+      <p style="margin-top:10px;color:#5f5a54;font-size:0.88rem;">Worth knowing too: a 0.8% base-case CTR is well above typical display performance, where 0.05% to 0.1% is normal and contextual placements rarely clear 0.5%. The numbers are defensible as a target for well-matched native units, but they are the optimistic end. The 60-day pilot is what settles it.</p>
+    </div>
+
+    <div class="fms-card">
+      <h2>Campaign calendar</h2>
+      <div class="fms-table-wrap">
+        <table class="fms-table">
+          <thead><tr><th>Period</th><th>Focus</th></tr></thead>
+          <tbody>
+            <tr><td>August 2026</td><td>GCSE and A-Level results days. Peak parent anxiety and peak traffic. Launch window for banners plus a co-branded guide on next steps after disappointing results.</td></tr>
+            <tr><td>Sept &ndash; Nov 2026</td><td>Application deadlines and mock exam season. Steady contextual placements on league tables and phase hubs.</td></tr>
+            <tr><td>March 2027</td><td>Secondary offer day. Second traffic peak. Joint campaign aimed at parents whose child did not get a first-choice place.</td></tr>
+            <tr><td>April &ndash; June 2027</td><td>Exam run-up. Last-minute revision support messaging on GCSE and A-Level ranking pages.</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="fms-card">
+      <h2>Commercial terms</h2>
+      <ul>
+        <li><strong>£75 per converted customer.</strong> No charge for impressions, clicks or unconverted enquiries.</li>
+        <li><strong>90-day attribution.</strong> Anyone who first arrives via FindMySchool tracking and books within 90 days counts as referred.</li>
+        <li><strong>Independent visibility.</strong> Leads land on a dedicated page with FindMySchool UTMs and a unique form endpoint, so FindMySchool sees every lead it sends without relying on us to report it.</li>
+        <li><strong>Monthly conversion report</strong> against that lead list, with reasonable audit rights on request.</li>
+      </ul>
+    </div>
+
+    <div class="fms-card fms-card--warn">
+      <h2>Open items before this goes out</h2>
+      <ul>
+        <li><strong>The results-day window has effectively closed.</strong> A-Level results were 13 August and GCSE results are 20 August. "Launched before GCSE results day" now means live within six days, including FindMySchool's design approval and ad trafficking. Either move the pilot start to the September and October catch-up window, which is still strong for tutoring demand, or scope a much smaller results-week test on one placement.</li>
+        <li><strong>The dedicated landing page does not exist yet.</strong> The proposal promises <code>referred-by-find-my-school</code> with its own form endpoint. These banners currently point at <code>/book-a-call/</code> carrying the right UTMs, so nothing is broken, but the unique endpoint needs building before launch or the attribution promise cannot be kept.</li>
+        <li><strong>Section 6, the campaign calendar,</strong> did not come through either. Same as the figures table.</li>
+        <li><strong>Contact block is unfilled</strong> in the proposal footer: name, email and phone are still placeholders.</li>
+      </ul>
+    </div>
+
+    <div class="fms-card">
+      <h2>Next steps as proposed</h2>
+      <ol>
+        <li>Short call to align on placements, attribution window and reporting.</li>
+        <li>60-day pilot on the league tables and sixth form hubs.</li>
+        <li>Review real traffic, lead and conversion numbers, then expand on the data.</li>
+      </ol>
+    </div>
+
+    <div class="fms-card">
+      <h2>Exporting a banner as an image</h2>
+      <p>Add <code>?export=</code> to this page's URL to isolate one unit flush in the top-left corner for a clean screenshot: <code>728</code>, <code>300</code>, <code>halfpage</code>, <code>320</code> or <code>native</code>.</p>
+    </div>
+
+  </div>
+</div>
+{{ end }}

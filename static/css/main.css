@@ -9976,3 +9976,81 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   .book-call--ukmm-education .book-call__endorsement-label { padding-right: 10px; font-size: 0.68rem; }
   .book-call--ukmm-education .book-call__endorsement img { height: 34px; }
 }
+
+/* FindMySchool referral page. Blue #2A4BCE is FindMySchool's primary, sampled
+   from their live stylesheet at findmyschool.uk. Confirm against their brand
+   guidelines when the logo file arrives, since a sampled colour is evidence and
+   not the same thing as a spec. */
+.book-call--find-my-school .book-call__eyebrow {
+  background: #F0F4F8;
+  color: #2A4BCE;
+  border: 2px solid #2A4BCE;
+  padding: 8px 18px;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+}
+.book-call--find-my-school .book-call__form-tag {
+  background: #F0F4F8;
+  color: #2A4BCE;
+  border: 1.5px solid #2A4BCE;
+  padding: 5px 12px;
+  font-weight: 800;
+}
+.book-call--find-my-school .book-call__submit {
+  background: #2A4BCE;
+  color: #ffffff;
+}
+.book-call--find-my-school .book-call__submit:hover {
+  background: #1F39A0;
+}
+.book-call--find-my-school .book-call__reviews-brand {
+  color: #2A4BCE;
+}
+
+/* Partner badge. Same pill as the UKM2 page, in FindMySchool blue. */
+.book-call--find-my-school .book-call__endorsement {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  padding: 12px 22px;
+  background: #F0F4F8;
+  border: 1.5px solid #2A4BCE;
+  border-radius: 999px;
+  box-shadow: 0 2px 10px rgba(42, 75, 206, 0.10);
+  text-decoration: none;
+  color: #2A4BCE;
+  transition: background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease;
+  max-width: max-content;
+}
+.book-call--find-my-school .book-call__endorsement:hover {
+  background: #E4EBF6;
+  box-shadow: 0 4px 14px rgba(42, 75, 206, 0.18);
+  transform: translateY(-1px);
+  text-decoration: none;
+  color: #2A4BCE;
+}
+.book-call--find-my-school .book-call__endorsement-label {
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #2A4BCE;
+  white-space: nowrap;
+  padding-right: 12px;
+  border-right: 1px solid rgba(42, 75, 206, 0.35);
+}
+.book-call--find-my-school .book-call__endorsement img { height: 42px; width: auto; display: block; }
+/* Fallback wordmark, used until the real logo file is saved into static/images/partners/. */
+.book-call--find-my-school .book-call__endorsement-wordmark {
+  font-size: 1.05rem;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+  color: #2A4BCE;
+  white-space: nowrap;
+}
+@media (max-width: 540px) {
+  .book-call--find-my-school .book-call__endorsement { padding: 10px 18px; gap: 10px; }
+  .book-call--find-my-school .book-call__endorsement-label { padding-right: 10px; font-size: 0.68rem; }
+  .book-call--find-my-school .book-call__endorsement img { height: 34px; }
+  .book-call--find-my-school .book-call__endorsement-wordmark { font-size: 0.95rem; }
+}
