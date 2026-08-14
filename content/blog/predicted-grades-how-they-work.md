@@ -47,9 +47,13 @@ The practical consequence: **the mock is not a practice run.** For a Year 13, th
 
 This surprises most parents, because the conversation at home is nearly always about a prediction that feels too harsh.
 
-Analysis of UCAS data published by the University and College Union in 2016 found that, taking a student's best three A-Levels together, **only around 16% of students were predicted accurately**, and roughly **three quarters were predicted at least one grade too high**. Around half of individual grades were correct.
+Research by Richard Murphy and Gill Wyness, published in *Education Economics* in 2020, looked at three years of UK university application data. Taking a student's best three A-Levels together, **only 16% of applicants were predicted accurately. 75% were predicted at least one grade too high, and just 8% too low.**
 
-That research is now a decade old and predates several changes to the system, so treat it as direction rather than as this year's number. The direction has been consistent across every study since, including work by Cambridge Assessment reaching similar conclusions.
+So a prediction is roughly nine times more likely to be generous than harsh.
+
+The same study found something less comfortable. High-attaining students from disadvantaged backgrounds were more likely than their peers to be predicted *below* what they went on to achieve, which is the opposite error and a more costly one, because it shapes where a student thinks it is worth applying.
+
+The data predates the pandemic and the grading changes that followed, so treat it as direction rather than as this year's number.
 
 Two things follow from it.
 
@@ -103,8 +107,8 @@ For most Year 13s, during the autumn term, drawing heavily on the Year 12 summer
 
 ## Sources
 
-- [University and College Union, *Predicted grades: accuracy and impact* (December 2016)](https://www.ucu.org.uk/media/8409/Predicted-grades-accuracy-and-impact-Dec-16/pdf/Predicted_grades_report_Dec2016.pdf) for the 16% accuracy and over-prediction figures.
-- [Department for Business, Innovation and Skills, *Investigating the accuracy of predicted A-Level grades*](https://assets.publishing.service.gov.uk/media/5a75b811e5274a436829972a/11-1043-investigating-accuracy-predicted-a-level-grades.pdf) for the underlying pattern.
+- Murphy, R. and Wyness, G. (2020), *Minority Report: the impact of predicted grades on university admissions of disadvantaged groups*, Education Economics 28(4), for the 16%, 75% and 8% figures and the finding on disadvantaged students. [Full paper (PDF, UCL Discovery)](https://discovery.ucl.ac.uk/10096670/3/Wyness_main_body_April2020revised_accepted.pdf).
+- [Economics Observatory, *Should we stop using predicted A-level grades in university applications?*](https://www.economicsobservatory.com/should-we-stop-using-predicted-level-grades-university-applications) for a readable summary of the same research.
 - [UCAS, 2027 entry deadlines](https://www.ucas.com/events/2027-entry-deadline-for-the-universities-of-oxford-and-cambridge-and-most-courses-in-medicine-475536) for the October submission date.
 
 School policy on predicted grades varies. Ask your child's sixth form what theirs is, because it is rarely published.
