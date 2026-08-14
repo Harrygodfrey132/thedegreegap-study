@@ -145,6 +145,17 @@
     transition: background 0.15s ease;
   }
   .f-banner:hover .f-cta { background: #5A001F; }
+  /* Paid-ad label. Small and muted, but present on every unit so the ad is
+     obviously identifiable without competing with the headline. */
+  .f-ad {
+    position: absolute; top: 7px; right: 11px; z-index: 2;
+    font-size: 7.5px; font-weight: 700; letter-spacing: 0.14em;
+    text-transform: uppercase; color: #A08D8B; line-height: 1;
+  }
+  /* On the half page the motif occupies the top-right, so the label runs inline
+     above the logo instead of fighting it for the corner. */
+  .f-300x600 .f-ad { position: static; align-self: flex-start; margin: 0 0 12px; }
+
   .f-award {
     font-weight: 800; letter-spacing: 0.04em; text-transform: uppercase;
     color: #800020; line-height: 1.35;
@@ -244,6 +255,7 @@
       <span class="fms-label">INTERNAL &middot; FOR PARTNER REVIEW</span>
       <h1>FindMySchool banner creatives and partnership breakdown</h1>
       <p>Five units built from the supplied mockup, recoloured to the real brand burgundy and cut to fixed IAB sizes so they drop into standard ad slots. Hover any banner to see the click state. The whole banner is one clickable link.</p>
+      <p>Every unit carries a small <strong>Ad</strong> label. Under the CAP Code an ad has to be obviously identifiable, and responsibility sits with the advertiser and the publisher, so it is not something either side can leave to the other. The co-branded article needs more than this: it wants "Advertisement feature" at the top, above the headline.</p>
       <p>Underneath is a condensed version of the partnership proposal: the offer, the placements, the numbers and what still needs answering.</p>
       <p>This page is <strong>noindex</strong> and excluded from the sitemap. Safe to share the URL directly.</p>
     </header>
@@ -271,6 +283,7 @@
         {{/* No motif on the leaderboard: at 90px tall it collides with the CTA. */}}
         <a class="f-banner f-728" href="{{ printf "%s?%sleaderboard-728" $dest $utm | relURL }}" target="_blank" rel="sponsored noopener" aria-label="The Degree Gap, find a GCSE or A-Level tutor">
           <span class="f-body">
+            <span class="f-ad">Ad</span>
             <img class="f728-logo" src="{{ "images/final-logo.svg" | relURL }}" alt="The Degree Gap">
             <span class="f728-text">
               <span class="f-head">Grades not where they should be?</span>
@@ -296,6 +309,7 @@
         <a class="f-banner f-300x250" href="{{ printf "%s?%smpu-300x250" $dest $utm | relURL }}" target="_blank" rel="sponsored noopener" aria-label="The Degree Gap, find a GCSE or A-Level tutor">
           {{ partial "fms-motif.html" . }}
           <span class="f-body">
+            <span class="f-ad">Ad</span>
             <span class="f-pill">THE DEGREE GAP</span>
             <span class="f-head">Grades not where they should be?</span>
             <span class="f-sub">Qualified GCSE and A-Level tutors, matched to your child.</span>
@@ -319,6 +333,7 @@
         <a class="f-banner f-300x600" href="{{ printf "%s?%shalfpage-300x600" $dest $utm | relURL }}" target="_blank" rel="sponsored noopener" aria-label="The Degree Gap, find a GCSE or A-Level tutor">
           {{ partial "fms-motif.html" . }}
           <span class="f-body">
+            <span class="f-ad">Ad</span>
             <img class="fhp-logo" src="{{ "images/final-logo.svg" | relURL }}" alt="The Degree Gap">
             <span class="f-head">Grades not where they should be?</span>
             <span class="f-sub">We match your child with a qualified GCSE or A-Level tutor, by subject and exam board.</span>
@@ -347,6 +362,7 @@
              shows against the pink. The pill carries the brand instead. */}}
         <a class="f-banner f-320" href="{{ printf "%s?%smobile-320x100" $dest $utm | relURL }}" target="_blank" rel="sponsored noopener" aria-label="The Degree Gap, find a GCSE or A-Level tutor">
           <span class="f-body">
+            <span class="f-ad">Ad</span>
             <span class="f320-text">
               <span class="f-pill">THE DEGREE GAP</span>
               <span class="f-head">Grades not where they should be?</span>
@@ -369,6 +385,7 @@
         <a class="f-banner f-native" href="{{ printf "%s?%snative-incontent" $dest $utm | relURL }}" target="_blank" rel="sponsored noopener" aria-label="The Degree Gap, find a GCSE or A-Level tutor">
           {{ partial "fms-motif.html" . }}
           <span class="f-body">
+            <span class="f-ad">Ad</span>
             <span class="f-pill">THE DEGREE GAP</span>
             <span class="f-head">Grades not where they should be?</span>
             <span class="f-sub">The Degree Gap matches your child with a qualified GCSE or A-Level tutor, by subject and by exam board.</span>
