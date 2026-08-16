@@ -43,6 +43,12 @@ enableGitInfo = true
   [[module.mounts]]
     source = "static/css"
     target = "assets/css"
+  # Same reason as main.css above: main.js is served unfingerprinted otherwise,
+  # and Cloudflare caches it for 4 hours, so a JS change does not reach visitors
+  # until that expires. Mounting it here lets baseof.html fingerprint it.
+  [[module.mounts]]
+    source = "static/js"
+    target = "assets/js"
   [[module.mounts]]
     source = "static"
     target = "static"

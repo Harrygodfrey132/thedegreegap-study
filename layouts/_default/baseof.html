@@ -106,6 +106,10 @@
       });
     }
   </script>
-  <script src="{{ "js/main.js" | relURL }}" defer></script>
+  {{/* Fingerprinted so a JS change busts the Cloudflare cache immediately.
+       Unfingerprinted, main.js sits behind a 4-hour max-age and edits do not
+       reach visitors until it expires. */}}
+  {{ $js := resources.Get "js/main.js" | fingerprint "sha256" }}
+  <script src="{{ $js.RelPermalink }}" defer></script>
 </body>
 </html>
