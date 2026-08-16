@@ -311,3 +311,80 @@ document.addEventListener('submit', function(e){
     sessionStorage.setItem('tdg_thanks_ts', Date.now().toString());
   } catch (_) {}
 }, true);
+
+/* ---------------------------------------------------------------------------
+   Lead attribution.
+
+   Records where a visitor first arrived from, then carries it to whichever
+   form they eventually submit. Without this every /book-a-call/ lead looks
+   identical, because the source field on each form is hardcoded per page.
+
+   First touch wins: the first page of the session is what gets stored, so a
+   visitor who lands on a blog post from Google and reaches the booking form
+   three clicks later is still attributed to Google and to that post, not to an
+   internal navigation.
+
+   This only ever writes to hidden inputs carrying data-attribution. It never
+   touches the name, phone, year group or message fields, so if any of it fails
+   the lead still arrives complete and only the attribution is missing. That
+   ordering is deliberate.
+   --------------------------------------------------------------------------- */
+(function () {
+  var KEY = 'tdg_attribution';
+  var UTMS = ['utm_source', 'utm_medium', 'utm_campaign'];
+
+  function capture() {
+    try {
+      if (sessionStorage.getItem(KEY)) return; // already captured this visit
+      var q = new URLSearchParams(window.location.search);
+      var data = { landing_page: window.location.pathname };
+
+      UTMS.forEach(function (k) {
+        var v = q.get(k);
+        if (v) data[k] = String(v).slice(0, 120);
+      });
+
+      var ref = document.referrer || '';
+      var out = '';
+      if (ref) {
+        try {
+          var u = new URL(ref);
+          // An internal referrer is not a source, so it is treated as direct.
+          if (u.host !== window.location.host) out = u.host + u.pathname;
+        } catch (e) {
+          out = ref.slice(0, 180);
+        }
+      }
+      data.referrer = out || 'direct';
+
+      sessionStorage.setItem(KEY, JSON.stringify(data));
+    } catch (e) { /* private mode, storage disabled: attribution is optional */ }
+  }
+
+  function populate() {
+    try {
+      var raw = sessionStorage.getItem(KEY);
+      if (!raw) return;
+      var data = JSON.parse(raw);
+      var fields = document.querySelectorAll('input[data-attribution]');
+      for (var i = 0; i < fields.length; i++) {
+        var el = fields[i];
+        var val = data[el.getAttribute('data-attribution')];
+        if (val) {
+          el.value = val;
+          el.disabled = false;
+        } else {
+          // Disabled inputs are not submitted, which keeps the email clean.
+          el.disabled = true;
+        }
+      }
+    } catch (e) { /* leave the fields as they are */ }
+  }
+
+  capture();
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', populate);
+  } else {
+    populate();
+  }
+})();

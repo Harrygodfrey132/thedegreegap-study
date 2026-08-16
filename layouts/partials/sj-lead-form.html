@@ -7,6 +7,7 @@
   <input type="hidden" name="_subject" value="New enquiry from {{ .subject }} subject page | The Degree Gap Study">
   <input type="hidden" name="_next" value="{{ "book-a-call-thank-you/" | absURL }}">
   <input type="hidden" name="page_url" value="{{ .ctx.RelPermalink }}">
+  {{ partial "attribution-fields.html" . }}
   <input type="hidden" name="subject" value="{{ .subject }}">
   <div class="loc-form-group"><input type="text" name="name" placeholder="Full name*" required></div>
   <div class="loc-form-group"><input type="tel" name="phone" placeholder="Phone number*" autocomplete="tel" required></div>

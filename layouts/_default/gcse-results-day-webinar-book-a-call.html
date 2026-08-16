@@ -278,6 +278,8 @@
           <input type="hidden" name="_subject" value="A-Level tutoring enquiry — Results Day webinar">
           <input type="hidden" name="_next" value="{{ "book-a-call-thank-you/" | absURL }}">
           <input type="hidden" name="source" value="results-day-webinar-a-level">
+          <input type="hidden" name="page_url" value="{{ .RelPermalink }}">
+          {{ partial "attribution-fields.html" . }}
 
           <div class="rdb-form-row">
             <div class="rdb-field">

@@ -82,6 +82,7 @@
             <input type="hidden" name="source" value="{{ $formSource }}">
             <input type="hidden" name="_next" value="{{ "book-a-call-thank-you/" | absURL }}">
             <input type="hidden" name="page_url" value="{{ .RelPermalink }}">
+            {{ partial "attribution-fields.html" . }}
             <input type="hidden" name="message" value="Parents Guide to GCSEs download">
 
             <div class="pg-field">

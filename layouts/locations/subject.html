@@ -385,6 +385,7 @@
           <input type="hidden" name="_subject" value="New {{ $level }} enquiry from {{ $loc }} | The Degree Gap Study">
           <input type="hidden" name="_next" value="{{ "book-a-call-thank-you/" | absURL }}">
           <input type="hidden" name="page_url" value="{{ .RelPermalink }}">
+          {{ partial "attribution-fields.html" . }}
           <input type="hidden" name="location" value="{{ $loc }}">
           <input type="hidden" name="level" value="{{ $level }}">
           <div class="loc-form-group">

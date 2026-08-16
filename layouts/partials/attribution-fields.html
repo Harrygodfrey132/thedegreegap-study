@@ -1,0 +1,24 @@
+{{/* Lead attribution fields.
+
+     Populated by the attribution block in static/js/main.js from the FIRST page
+     of the visit, so a parent who arrives on a blog post from Google and books
+     three pages later still carries that original source rather than an
+     internal click.
+
+     Two deliberate safety properties:
+
+     1. These are additive only. If JavaScript does not run, the form still
+        submits name, phone, year group and message, which are the fields the
+        lead actually depends on. Attribution is the only thing lost.
+     2. Fields with no value are disabled at populate time, and disabled inputs
+        are not submitted, so the Formspree email stays clean instead of listing
+        five empty rows.
+
+     Include this inside a <form>, alongside the existing source and page_url
+     fields rather than in place of them: source says which form was used,
+     page_url says which page it sat on, these say where the visitor came from. */}}
+<input type="hidden" name="utm_source" data-attribution="utm_source">
+<input type="hidden" name="utm_medium" data-attribution="utm_medium">
+<input type="hidden" name="utm_campaign" data-attribution="utm_campaign">
+<input type="hidden" name="referrer" data-attribution="referrer">
+<input type="hidden" name="landing_page" data-attribution="landing_page">

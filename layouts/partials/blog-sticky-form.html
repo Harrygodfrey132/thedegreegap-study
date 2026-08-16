@@ -16,6 +16,7 @@
       <input type="hidden" name="_subject" value="New enquiry from blog sidebar | The Degree Gap">
       <input type="hidden" name="_next" value="{{ "book-a-call-thank-you/" | absURL }}">
       <input type="hidden" name="page_url" value="{{ .RelPermalink }}">
+      {{ partial "attribution-fields.html" . }}
       <input type="hidden" name="source" value="blog-sidebar">
 
       <div class="sticky-form__group">
