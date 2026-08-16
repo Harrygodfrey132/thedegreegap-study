@@ -10054,3 +10054,79 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   .book-call--find-my-school .book-call__endorsement img { height: 34px; }
   .book-call--find-my-school .book-call__endorsement-wordmark { font-size: 0.95rem; }
 }
+
+/* MyGCSEMaths referral page. Blue #0098FF is their own brand colour, taken from
+   the markup on mygcsemaths.com rather than sampled by eye. #EAF4FF is the pale
+   tint their site uses behind the hero. */
+.book-call--my-gcse-maths .book-call__eyebrow {
+  background: #EAF4FF;
+  color: #0075C4;
+  border: 2px solid #0098FF;
+  padding: 8px 18px;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+}
+.book-call--my-gcse-maths .book-call__form-tag {
+  background: #EAF4FF;
+  color: #0075C4;
+  border: 1.5px solid #0098FF;
+  padding: 5px 12px;
+  font-weight: 800;
+}
+.book-call--my-gcse-maths .book-call__submit {
+  background: #0098FF;
+  color: #ffffff;
+}
+.book-call--my-gcse-maths .book-call__submit:hover {
+  background: #007ACC;
+}
+.book-call--my-gcse-maths .book-call__reviews-brand {
+  color: #0075C4;
+}
+
+/* Partner badge. Clickable through to mygcsemaths.com. */
+.book-call--my-gcse-maths .book-call__endorsement {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  padding: 12px 22px;
+  background: #EAF4FF;
+  border: 1.5px solid #0098FF;
+  border-radius: 999px;
+  box-shadow: 0 2px 10px rgba(0, 152, 255, 0.12);
+  text-decoration: none;
+  color: #0075C4;
+  transition: background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease;
+  max-width: max-content;
+}
+.book-call--my-gcse-maths .book-call__endorsement:hover {
+  background: #DCEBFC;
+  box-shadow: 0 4px 14px rgba(0, 152, 255, 0.22);
+  transform: translateY(-1px);
+  text-decoration: none;
+  color: #0075C4;
+}
+.book-call--my-gcse-maths .book-call__endorsement-label {
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #0075C4;
+  white-space: nowrap;
+  padding-right: 12px;
+  border-right: 1px solid rgba(0, 152, 255, 0.4);
+}
+.book-call--my-gcse-maths .book-call__endorsement img { height: 30px; width: auto; display: block; }
+.book-call--my-gcse-maths .book-call__endorsement-wordmark {
+  font-size: 1.05rem;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+  color: #0075C4;
+  white-space: nowrap;
+}
+@media (max-width: 540px) {
+  .book-call--my-gcse-maths .book-call__endorsement { padding: 10px 18px; gap: 10px; }
+  .book-call--my-gcse-maths .book-call__endorsement-label { padding-right: 10px; font-size: 0.68rem; }
+  .book-call--my-gcse-maths .book-call__endorsement img { height: 24px; }
+  .book-call--my-gcse-maths .book-call__endorsement-wordmark { font-size: 0.95rem; }
+}
