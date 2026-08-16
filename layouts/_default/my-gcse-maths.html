@@ -18,7 +18,7 @@
         <a class="book-call__endorsement" href="https://www.mygcsemaths.com" target="_blank" rel="noopener" aria-label="In partnership with MyGCSEMaths, opens in a new tab">
           <span class="book-call__endorsement-label">In partnership with</span>
           {{ if $hasLogo }}
-            <img src="{{ $logoPath | relURL }}" alt="MyGCSEMaths" width="210" height="30" loading="lazy">
+            <img src="{{ $logoPath | relURL }}" alt="MyGCSEMaths" width="182" height="26" loading="lazy">
           {{ else }}
             <span class="book-call__endorsement-wordmark">MyGCSEMaths</span>
           {{ end }}
@@ -82,7 +82,7 @@
             <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
             <input type="hidden" name="_subject" value="MyGCSEMaths tutoring enquiry">
             <input type="hidden" name="_next" value="{{ "book-a-call-thank-you/" | absURL }}">
-            <input type="hidden" name="source" value="referred-for-my-gcse-maths">
+            <input type="hidden" name="source" value="referred-by-my-gcse-maths">
             <input type="hidden" name="page_url" value="{{ .RelPermalink }}">
 
             <div class="book-call__field">
