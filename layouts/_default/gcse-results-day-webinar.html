@@ -1247,6 +1247,10 @@
     add('actionType', 'TGVhZHM=');
     add('returnURL', 'null');
     add('aG9uZXlwb3Q', '');
+    /* Present in Zoho's own generated form and previously missing from ours.
+       Empty is what their embed sends when there is no Google Ads click to
+       attribute, but the field is part of the expected payload. */
+    add('zc_gad', '');
 
     var first = (data.get('first_name') || '').trim();
     var last  = (data.get('last_name')  || '').trim();
@@ -1338,19 +1342,27 @@
 
       trackWebinarLead();
 
-      /* The hidden-iframe POST to Zoho needs a moment to leave
-         the browser before we navigate away. 600ms is a safe
-         margin without feeling laggy to the user. */
-      /* Built with relURL so these stay correct under the /study/ prefix.
-         They were previously hardcoded as root-relative paths, which worked on
-         the old study.thedegreegap.com subdomain and started 404ing after the
-         move to thedegreegap.com/study/. */
+      /* Built with relURL so these stay correct under the /study/ prefix. They
+         were previously hardcoded as root-relative paths, which worked on the
+         old study.thedegreegap.com subdomain and 404ed after the move. */
       var destination = (alevel && alevel.checked)
         ? '{{ "gcse-results-day-webinar-book-a-call/" | relURL }}'
         : '{{ "gcse-results-day-webinar-thanks/" | relURL }}';
-      window.setTimeout(function () {
+
+      /* Navigating the top frame destroys the hidden iframe and cancels any
+         request still in flight, so the old fixed 600ms timer was a race: on a
+         slow connection the lead could be dropped before it left the browser.
+         Now we move as soon as Zoho answers, with a 4s ceiling so a hanging
+         endpoint never traps the parent on the form. */
+      var moved = false;
+      function go() {
+        if (moved) return;
+        moved = true;
         window.location.href = destination;
-      }, 600);
+      }
+      var target = document.getElementById('zoho-target');
+      if (target) target.addEventListener('load', go);
+      window.setTimeout(go, 4000);
     });
   })();
 </script>
