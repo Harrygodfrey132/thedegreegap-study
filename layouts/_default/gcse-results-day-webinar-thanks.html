@@ -232,3 +232,24 @@
 </div>
 
 {{ end }}
+
+{{/* Parents who ticked the A-Level tutoring question are forwarded to the
+     booking page. The flag is written just before the Zoho submission and read
+     here after Zoho sends them back, because Zoho's own confirmation page sits
+     in between and we cannot pass anything through it.
+
+     Ten-minute window so an old flag from an earlier visit cannot hijack a
+     later one, and the flag is cleared either way so a refresh stays put. */}}
+<script>
+(function () {
+  try {
+    var ts = parseInt(sessionStorage.getItem('tdg_webinar_ts') || '0', 10);
+    var wants = sessionStorage.getItem('tdg_webinar_alevel');
+    sessionStorage.removeItem('tdg_webinar_alevel');
+    sessionStorage.removeItem('tdg_webinar_ts');
+    if (wants === 'yes' && ts && Date.now() - ts < 10 * 60 * 1000) {
+      window.location.replace('{{ "gcse-results-day-webinar-book-a-call/" | relURL }}');
+    }
+  } catch (_) {}
+})();
+</script>

@@ -1264,11 +1264,26 @@
           examEl.value = examEl.getAttribute('data-rd-examyear-value') || '';
         }
 
-        /* Send the A-Level crowd to the booking page after Zoho saves the lead. */
+        /* Where the parent goes next.
+
+           Zoho only honours returnURL when a redirect is configured on the form
+           itself, and this form was generated with returnURL "null", so Zoho
+           shows its own confirmation page and ignores what we send. We still
+           send it, in case that gets configured.
+
+           So the A-Level branch is remembered here instead. sessionStorage is
+           per origin and survives the round trip out to Zoho and back, so once
+           the redirect is pointed at the thanks page that page can forward the
+           parents who asked about A-Level tutoring. If it is never configured
+           the flag is simply never read, and nothing breaks. */
         var returnEl = form.querySelector('[data-rd-return]');
         if (returnEl && wantsALevel) {
           returnEl.value = '{{ "gcse-results-day-webinar-book-a-call/" | absURL }}';
         }
+        try {
+          sessionStorage.setItem('tdg_webinar_alevel', wantsALevel ? 'yes' : 'no');
+          sessionStorage.setItem('tdg_webinar_ts', Date.now().toString());
+        } catch (_) {}
 
         /* Our own inputs are not Zoho fields. Disabling them keeps the payload
            to exactly what Zoho's form expects. */
