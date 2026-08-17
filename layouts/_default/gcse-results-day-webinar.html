@@ -1341,9 +1341,13 @@
       /* The hidden-iframe POST to Zoho needs a moment to leave
          the browser before we navigate away. 600ms is a safe
          margin without feeling laggy to the user. */
+      /* Built with relURL so these stay correct under the /study/ prefix.
+         They were previously hardcoded as root-relative paths, which worked on
+         the old study.thedegreegap.com subdomain and started 404ing after the
+         move to thedegreegap.com/study/. */
       var destination = (alevel && alevel.checked)
-        ? '/gcse-results-day-webinar-book-a-call/'
-        : '/gcse-results-day-webinar-thanks/';
+        ? '{{ "gcse-results-day-webinar-book-a-call/" | relURL }}'
+        : '{{ "gcse-results-day-webinar-thanks/" | relURL }}';
       window.setTimeout(function () {
         window.location.href = destination;
       }, 600);
