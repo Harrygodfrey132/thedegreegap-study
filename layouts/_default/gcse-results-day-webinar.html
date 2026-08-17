@@ -1049,9 +1049,59 @@
           </label>
           <p class="rd-consent-error" data-rd-consent-error hidden role="alert">Please tick the box to agree to the terms and conditions before saving your seat.</p>
 
+
           <button type="submit" class="rd-register__submit">Save my seat</button>
           <p class="rd-register__assurance">Free. Can't make it live? We'll email you the replay. Stop emails or texts any time by replying STOP.</p>
         </form>
+
+          {{/* ===================================================================
+               Zoho's real web-to-lead form, hidden, submitted on our behalf.
+
+               Why this exists rather than a form built in JavaScript:
+
+               Zoho's own embed loads a script from WebFormServlet which
+               document.write()s a second script that appends a hidden field
+               named Zm9ybWZpbGxpbmd0aW1l ("formfillingtime") to the form. The
+               value is minted per request and encodes when the form was served.
+               It is the server-side half of the anti-spam pair whose client-side
+               half is the aG9uZXlwb3Q honeypot.
+
+               Submissions without it are accepted and silently discarded. Zoho
+               still answers "Your response has been submitted successfully", so
+               a submission looks fine from the outside while no lead is created.
+               That is precisely the symptom we had.
+
+               document.write only works during initial parse, and the injected
+               script appends to document.getElementsByName('WebToLeads...')[0],
+               so the form has to exist in the HTML with that exact name and the
+               script has to sit inside it. A form assembled at submit time can
+               never carry this field, which is why the previous approach failed.
+               =================================================================== */}}
+          <form name="WebToLeads741231000007690047" id="webform741231000007690047"
+                action="https://crm.zoho.eu/crm/WebToLeadForm" method="POST"
+                accept-charset="UTF-8" target="zoho-target"
+                style="display:none" aria-hidden="true" tabindex="-1" data-zoho-form>
+            <input type="hidden" name="xnQsjsdp" value="c7dee3ce47564c6f1ba6ab91940ef001866c2bfb54b8c7ccd2a3300d2624bd49">
+            <input type="hidden" name="xmIwtLD" value="cac7759cc1d02e32640e249994056e5077c9940a60296c0769d592972051535b8ce8f1da0208f42431ec2105bb164657">
+            <input type="hidden" name="actionType" value="TGVhZHM=">
+            <input type="hidden" name="returnURL" value="null">
+            <input type="hidden" name="zc_gad" value="">
+            <input type="hidden" name="aG9uZXlwb3Q" value="">
+            <input type="hidden" name="Last Name" value="">
+            <input type="hidden" name="Email" value="">
+            <input type="hidden" name="Phone" value="">
+            <input type="hidden" name="LEADCF5" value="Webinar">
+            <input type="hidden" name="LEADCF3" value="GCSE - Year 11">
+            <input type="hidden" name="Lead Source" value="August Webinar">
+            <input type="hidden" name="Lead Status" value="Not Interested In Tutoring">
+            <input type="hidden" name="Country" value="">
+            {{/* Must stay inside this form and must not be deferred: it runs at
+                 parse time and appends the anti-spam field. */}}
+            <script src="https://crm.zohopublic.eu/crm/WebFormServlet?rid=ea9a5774c032f57593cf08d7392ad88627b511af7500d1c4fd2a41870e249050"></script>
+          </form>
+          <iframe name="zoho-target" id="zoho-target" aria-hidden="true" tabindex="-1"
+                  style="position:absolute;width:0;height:0;border:0;visibility:hidden;left:-9999px;top:-9999px"></iframe>
+
       </div>
     </div>
   </section>
@@ -1172,82 +1222,49 @@
      and are static, not per-session. Submitted with
      mode: 'no-cors' because Zoho doesn't return CORS
      headers — we don't need the response, just the post. */
+  /* Fill Zoho's real form and submit it.
+
+     The form is rendered in the page above, complete with Zoho's WebFormServlet
+     script, so by the time this runs it already carries the per-request
+     Zm9ybWZpbGxpbmd0aW1l anti-spam field. That field cannot be added here: it is
+     written at parse time and only ever attaches to a form that exists in the
+     HTML. Building a form in JavaScript, as this used to, produced submissions
+     Zoho accepted with a success page and then discarded.
+
+     It targets a hidden iframe so we keep control of where the parent goes next,
+     which is why returnURL stays "null". */
   function submitZohoLead(data) {
-    /* Cross-origin POST to Zoho's WebToLeadForm endpoint, via
-       a hidden form targeting an invisible iframe. This is the
-       exact transport Zoho's snippet was designed for — same
-       Content-Type (application/x-www-form-urlencoded), same
-       request shape, same field semantics — so the lead lands
-       in the CRM the same way it would from their own embed.
-       sendBeacon / fetch no-cors are both quieter but Zoho's
-       endpoint can silently drop them when the Content-Type
-       mismatch isn't multipart-friendly. */
+    var zf = document.querySelector('[data-zoho-form]');
+    if (!zf) return false;
 
-    var iframe = document.getElementById('zoho-target');
-    if (!iframe) {
-      iframe = document.createElement('iframe');
-      iframe.name = 'zoho-target';
-      iframe.id = 'zoho-target';
-      iframe.setAttribute('aria-hidden', 'true');
-      iframe.style.cssText = 'position:absolute;width:0;height:0;border:0;visibility:hidden;left:-9999px;top:-9999px';
-      document.body.appendChild(iframe);
+    function set(name, value) {
+      var el = zf.querySelector('[name="' + name + '"]');
+      if (el) el.value = value == null ? '' : value;
     }
-
-    var f = document.createElement('form');
-    f.method = 'POST';
-    f.action = 'https://crm.zoho.eu/crm/WebToLeadForm';
-    f.target = 'zoho-target';
-    f.acceptCharset = 'UTF-8';
-    f.style.cssText = 'position:absolute;left:-9999px;top:-9999px;visibility:hidden';
-
-    function add(name, value) {
-      var i = document.createElement('input');
-      i.type = 'hidden';
-      i.name = name;
-      i.value = value;
-      f.appendChild(i);
-    }
-
-    /* Static identifiers — these tie the submission to the
-       specific Zoho lead form configured in the CRM. Rotate
-       both together if Zoho regenerates the form (which
-       happens whenever the CRM-side schema changes, e.g. a
-       new field added). */
-    add('xnQsjsdp', 'c7dee3ce47564c6f1ba6ab91940ef001866c2bfb54b8c7ccd2a3300d2624bd49');
-    add('xmIwtLD', 'cac7759cc1d02e32640e249994056e5077c9940a60296c0769d592972051535b8ce8f1da0208f42431ec2105bb164657');
-    add('actionType', 'TGVhZHM=');
-    add('returnURL', 'null');
-    add('aG9uZXlwb3Q', '');
-    /* In Zoho's own generated form and previously missing from ours. Empty when
-       there is no Google Ads click to attribute, but part of what they send. */
-    add('zc_gad', '');
 
     var first = (data.get('first_name') || '').trim();
     var last  = (data.get('last_name')  || '').trim();
-    var fullName = (first + ' ' + last).trim() || last || first;
-    add('Last Name', fullName);
+    set('Last Name', ((first + ' ' + last).trim() || last || first).substring(0, 80));
+    set('Email', (data.get('email') || '').trim());
+    set('Phone', (data.get('phone') || '').trim());
 
-    var email = (data.get('email') || '').trim();
-    if (email) add('Email', email);
+    /* Zoho's picklists. LEADCF3 is fixed: everyone registering for a GCSE
+       results day webinar has just sat GCSEs. */
+    set('LEADCF5', 'Webinar');
+    set('LEADCF3', 'GCSE - Year 11');
+    set('Lead Source', 'August Webinar');
+    set('Lead Status', data.get('interest_a_level') === 'yes'
+      ? 'Interested In Tutoring'
+      : 'Not Interested In Tutoring');
 
-    var phone = (data.get('phone') || '').trim();
-    if (phone) add('Phone', phone);
+    /* Exam Year for A Level Results, only meaningful for a sixth-form plan.
+       Derived from the webinar year rather than hardcoded. */
+    set('Country', data.get('plan_after_gcse') === 'Sixth form'
+      ? '{{ add (int (dateFormat "2006" $webinarDate)) 2 }}'
+      : '');
 
-    add('LEADCF5', 'Webinar');
-    add('LEADCF3', 'GCSE - Year 11');
-    add('Lead Source', 'August Webinar');
-
-    var alevelInterest = data.get('interest_a_level') === 'yes';
-    add('Lead Status', alevelInterest ? 'Interested In Tutoring' : 'Not Interested In Tutoring');
-
-    var plan = data.get('plan_after_gcse');
-    /* Exam Year for A Level Results. Everyone registering has just sat GCSEs,
-       so sixth form means Year 12 and 13 next and results two years out.
-       Derived from the webinar date so it does not need editing next August. */
-    if (plan === 'Sixth form') add('Country', '{{ add (int (dateFormat "2006" $webinarDate)) 2 }}');
-
-    document.body.appendChild(f);
-    f.submit();
+    zf.submit();
+    return true;
   }
 
   /* Conversion tracking. Registering for the webinar is the lead,
@@ -1309,20 +1326,13 @@
 
       if (btn) { btn.disabled = true; btn.textContent = 'Saving...'; }
 
-      submitZohoLead(data);
-
-      trackWebinarLead();
-
-      /* Built with relURL. These were hardcoded root-relative paths, correct on
-         the old study.thedegreegap.com subdomain and a 404 once the site moved
-         under /study/. That is what sent registrants to an error page. */
+      /* Destination and the load listener are set up BEFORE submitting.
+         Attaching afterwards is a race: Zoho can answer before the listener
+         exists, and then the parent sits on the form until the ceiling. */
       var destination = (alevel && alevel.checked)
         ? '{{ "gcse-results-day-webinar-book-a-call/" | relURL }}'
         : '{{ "gcse-results-day-webinar-thanks/" | relURL }}';
 
-      /* Navigating tears the iframe down and cancels anything still in flight,
-         so leave as soon as Zoho answers rather than guessing a fixed delay.
-         2.5s ceiling so a slow endpoint never traps the parent on the form. */
       var moved = false;
       function go() {
         if (moved) return;
@@ -1331,7 +1341,15 @@
       }
       var zt = document.getElementById('zoho-target');
       if (zt) zt.addEventListener('load', go);
-      window.setTimeout(go, 2500);
+
+      submitZohoLead(data);
+      trackWebinarLead();
+
+      /* A slow TLS handshake to Zoho can abort the POST before the body is even
+         sent, and the parent would still land on the thanks page none the wiser.
+         The iframe load normally fires in well under a second, so this ceiling
+         only bites on a bad connection. Generous on purpose. */
+      window.setTimeout(go, 8000);
     });
   })();
 </script>
