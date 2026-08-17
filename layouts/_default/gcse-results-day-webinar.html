@@ -835,10 +835,7 @@
 {{ $webinarTimeDisplay := .Params.webinar_time_display | default "TBC" }}
 {{ $formSubject := .Params.form_subject | default "GCSE Results Day Webinar — registration" }}
 {{ $formSource := .Params.form_source | default "gcse-results-day-webinar" }}
-{{/* A student sitting GCSEs in the summer of the webinar year takes A-Levels
-     across the following two years, so their A-Level results land in webinar
-     year + 2. Computed rather than hardcoded so it does not rot next August. */}}
-{{ $alevelResultsYear := add (int (dateFormat "2006" $webinarDate)) 2 }}
+
 
 <div class="rd-page">
 
@@ -1018,13 +1015,18 @@
           <input type="text" name="aG9uZXlwb3Q" value="" style="display:none" tabindex="-1" autocomplete="off" aria-hidden="true">
 
           {{/* Fixed lead attributes. */}}
+          {{/* Everyone registering for a GCSE results day webinar is a Year 11
+               who has just sat GCSEs, so this is fixed rather than asked. It was
+               previously a dropdown, which added a field to the form and let a
+               parent pick a year that contradicted the whole premise. */}}
+          <input type="hidden" name="LEADCF3" value="GCSE - Year 11">
           <input type="hidden" name="LEADCF5" value="Webinar">
           <input type="hidden" name="Lead Source" value="August Webinar">
           {{/* Flipped to "Interested In Tutoring" by JS when the A-Level box is ticked. */}}
           <input type="hidden" name="Lead Status" value="Not Interested In Tutoring" data-rd-status>
           {{/* Exam Year for A Level Results. Filled by JS only when the plan is
                sixth form, since it is meaningless otherwise. */}}
-          <input type="hidden" name="Country" value="" data-rd-examyear data-rd-examyear-value="{{ $alevelResultsYear }}">
+          <input type="hidden" name="Country" value="" data-rd-examyear data-rd-examyear-value="{{ add (int (dateFormat "2006" $webinarDate)) 2 }}">
 
           <div class="rd-register__form-row">
             <div class="rd-register__field">
@@ -1047,23 +1049,6 @@
             <input id="rd-phone" name="Phone" type="tel" autocomplete="tel" inputmode="tel" maxlength="30" placeholder="07XXX XXX XXX">
           </div>
 
-          <div class="rd-register__field">
-            <label for="rd-year">Year of study</label>
-            <select id="rd-year" name="LEADCF3" required>
-              <option value="" disabled selected>Please choose</option>
-              <option value="11+ Exams">11+ exams</option>
-              <option value="Year 7">Year 7</option>
-              <option value="Year 8">Year 8</option>
-              <option value="Year 9">Year 9</option>
-              <option value="Year 10">Year 10</option>
-              <option value="GCSE - Year 11">Year 11 (GCSE)</option>
-              <option value="Year 11 resit">Year 11 resit</option>
-              <option value="A level - Yr 12">Year 12 (A-Level)</option>
-              <option value="A level - Yr 13">Year 13 (A-Level)</option>
-              <option value="Masters">Masters</option>
-              <option value="Unsure">Not sure yet</option>
-            </select>
-          </div>
 
           <fieldset class="rd-radio-group">
             <legend>What's your child's plan after GCSEs?</legend>
@@ -1270,7 +1255,9 @@
         var statusEl = form.querySelector('[data-rd-status]');
         if (statusEl && wantsALevel) statusEl.value = 'Interested In Tutoring';
 
-        /* Exam year only means something for a sixth-form plan. */
+        /* Exam Year for A Level Results. Everyone here sat GCSEs this summer,
+           so sixth form means Year 12 and 13 next and results two years out.
+           Computed from the webinar year so it does not rot next August. */
         var planEl = form.querySelector('input[name="plan_after_gcse"]:checked');
         var examEl = form.querySelector('[data-rd-examyear]');
         if (examEl && planEl && planEl.value === 'Sixth form') {
