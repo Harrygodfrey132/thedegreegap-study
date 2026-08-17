@@ -835,6 +835,10 @@
 {{ $webinarTimeDisplay := .Params.webinar_time_display | default "TBC" }}
 {{ $formSubject := .Params.form_subject | default "GCSE Results Day Webinar — registration" }}
 {{ $formSource := .Params.form_source | default "gcse-results-day-webinar" }}
+{{/* A student sitting GCSEs in the summer of the webinar year takes A-Levels
+     across the following two years, so their A-Level results land in webinar
+     year + 2. Computed rather than hardcoded so it does not rot next August. */}}
+{{ $alevelResultsYear := add (int (dateFormat "2006" $webinarDate)) 2 }}
 
 <div class="rd-page">
 
@@ -990,33 +994,62 @@
       <p class="rd-register__lead">{{ $webinarDateDisplay }}, {{ $webinarTimeDisplay }}. One hour: a 30-minute walkthrough and 30 minutes of live Q&amp;A, with replay.</p>
 
       <div class="rd-register__card">
-        <form action="#" method="POST" novalidate data-pg-form>
-          <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
+        {{/* Posts directly to Zoho, top level, exactly as Zoho's own embed does.
+             This replaced a version that rebuilt the payload in JavaScript and
+             pushed it through a hidden iframe. That iframe POST is a third-party
+             request, and browsers now restrict cookies and storage in that
+             context, which is the most likely reason leads stopped arriving.
+             A top-level navigation is first-party and has none of those limits.
+
+             The visible inputs carry Zoho's real field names, so a lead lands
+             even if none of the JavaScript below runs. */}}
+        <form action="https://crm.zoho.eu/crm/WebToLeadForm" method="POST" accept-charset="UTF-8" novalidate data-pg-form>
+          {{/* Zoho form identity. Rotate xnQsjsdp and xmIwtLD together if the
+               form is regenerated in the CRM. */}}
+          <input type="hidden" name="xnQsjsdp" value="c7dee3ce47564c6f1ba6ab91940ef001866c2bfb54b8c7ccd2a3300d2624bd49">
+          <input type="hidden" name="xmIwtLD" value="cac7759cc1d02e32640e249994056e5077c9940a60296c0769d592972051535b8ce8f1da0208f42431ec2105bb164657">
+          <input type="hidden" name="actionType" value="TGVhZHM=">
+          <input type="hidden" name="zc_gad" value="">
+          {{/* Zoho redirects the parent here once the lead is stored, so there is
+               no timing race between saving the lead and moving the page on.
+               Switched to the book-a-call page by JS if A-Level interest is ticked. */}}
+          <input type="hidden" name="returnURL" value="{{ "gcse-results-day-webinar-thanks/" | absURL }}" data-rd-return>
+          {{/* Zoho's own honeypot. Must be submitted and must stay empty. */}}
+          <input type="text" name="aG9uZXlwb3Q" value="" style="display:none" tabindex="-1" autocomplete="off" aria-hidden="true">
+
+          {{/* Fixed lead attributes. */}}
+          <input type="hidden" name="LEADCF5" value="Webinar">
+          <input type="hidden" name="Lead Source" value="August Webinar">
+          {{/* Flipped to "Interested In Tutoring" by JS when the A-Level box is ticked. */}}
+          <input type="hidden" name="Lead Status" value="Not Interested In Tutoring" data-rd-status>
+          {{/* Exam Year for A Level Results. Filled by JS only when the plan is
+               sixth form, since it is meaningless otherwise. */}}
+          <input type="hidden" name="Country" value="" data-rd-examyear data-rd-examyear-value="{{ $alevelResultsYear }}">
 
           <div class="rd-register__form-row">
             <div class="rd-register__field">
               <label for="rd-first">First name</label>
-              <input id="rd-first" name="first_name" type="text" required autocomplete="given-name">
+              <input id="rd-first" type="text" required autocomplete="given-name" data-rd-first>
             </div>
             <div class="rd-register__field">
               <label for="rd-last">Last name</label>
-              <input id="rd-last" name="last_name" type="text" required autocomplete="family-name">
+              <input id="rd-last" name="Last Name" type="text" required autocomplete="family-name" maxlength="80">
             </div>
           </div>
 
           <div class="rd-register__field">
             <label for="rd-email">Email</label>
-            <input id="rd-email" name="email" type="email" required autocomplete="email" placeholder="you@example.com">
+            <input id="rd-email" name="Email" type="email" required autocomplete="email" maxlength="100" placeholder="you@example.com">
           </div>
 
           <div class="rd-register__field">
             <label for="rd-phone">Mobile number <span style="color:#5f5a54;font-weight:500">(optional)</span></label>
-            <input id="rd-phone" name="phone" type="tel" autocomplete="tel" inputmode="tel" placeholder="07XXX XXX XXX">
+            <input id="rd-phone" name="Phone" type="tel" autocomplete="tel" inputmode="tel" maxlength="30" placeholder="07XXX XXX XXX">
           </div>
 
           <div class="rd-register__field">
             <label for="rd-year">Year of study</label>
-            <select id="rd-year" name="year_of_study" required>
+            <select id="rd-year" name="LEADCF3" required>
               <option value="" disabled selected>Please choose</option>
               <option value="11+ Exams">11+ exams</option>
               <option value="Year 7">Year 7</option>
@@ -1169,13 +1202,11 @@
     update();
   })();
 
-  /* UK phone normaliser — every submitted number is forced
-     to E.164 +44 format so it routes cleanly through Twilio
-     for outbound SMS, regardless of how the parent typed it.
-       07859 965776   -> +447859965776
+  /* UK phone normaliser. Forces every submitted number to E.164 +44 so the
+     value Zoho stores is the one Twilio will dial later.
+       07859 965776    -> +447859965776
        +44 7859 965776 -> +447859965776
-       447859965776   -> +447859965776
-       7859965776     -> +447859965776 */
+       7859965776      -> +447859965776 */
   function normaliseUkPhone(raw) {
     if (!raw) return '';
     var digits = String(raw).replace(/\D/g, '');
@@ -1185,184 +1216,87 @@
     return '+44' + digits;
   }
 
-  /* Zoho CRM web-to-lead — fire-and-forget. Maps the
-     registration form values onto the Zoho lead schema:
-       Last Name   = first_name + " " + last_name
-       Email       = registration email
-       Phone       = normalised +44 number
-       LEADCF3     = year of study chosen by the parent
-       Lead Source = "August Webinar" (always)
-       Lead Status = "Interested In Tutoring" if the A-Level
-                     follow-up box was ticked, otherwise
-                     "Not Interested In Tutoring"
-       Country     = A-Level results year (2028) if the
-                     student's plan is A-Levels, else blank
-     The xnQsjsdp + xmIwtLD tokens identify the Zoho form
-     and are static, not per-session. Submitted with
-     mode: 'no-cors' because Zoho doesn't return CORS
-     headers — we don't need the response, just the post. */
-  function submitZohoLead(data) {
-    /* Cross-origin POST to Zoho's WebToLeadForm endpoint, via
-       a hidden form targeting an invisible iframe. This is the
-       exact transport Zoho's snippet was designed for — same
-       Content-Type (application/x-www-form-urlencoded), same
-       request shape, same field semantics — so the lead lands
-       in the CRM the same way it would from their own embed.
-       sendBeacon / fetch no-cors are both quieter but Zoho's
-       endpoint can silently drop them when the Content-Type
-       mismatch isn't multipart-friendly. */
-
-    var iframe = document.getElementById('zoho-target');
-    if (!iframe) {
-      iframe = document.createElement('iframe');
-      iframe.name = 'zoho-target';
-      iframe.id = 'zoho-target';
-      iframe.setAttribute('aria-hidden', 'true');
-      iframe.style.cssText = 'position:absolute;width:0;height:0;border:0;visibility:hidden;left:-9999px;top:-9999px';
-      document.body.appendChild(iframe);
-    }
-
-    var f = document.createElement('form');
-    f.method = 'POST';
-    f.action = 'https://crm.zoho.eu/crm/WebToLeadForm';
-    f.target = 'zoho-target';
-    f.acceptCharset = 'UTF-8';
-    f.style.cssText = 'position:absolute;left:-9999px;top:-9999px;visibility:hidden';
-
-    function add(name, value) {
-      var i = document.createElement('input');
-      i.type = 'hidden';
-      i.name = name;
-      i.value = value;
-      f.appendChild(i);
-    }
-
-    /* Static identifiers — these tie the submission to the
-       specific Zoho lead form configured in the CRM. Rotate
-       both together if Zoho regenerates the form (which
-       happens whenever the CRM-side schema changes, e.g. a
-       new field added). */
-    add('xnQsjsdp', 'c7dee3ce47564c6f1ba6ab91940ef001866c2bfb54b8c7ccd2a3300d2624bd49');
-    add('xmIwtLD', 'cac7759cc1d02e32640e249994056e5077c9940a60296c0769d592972051535b8ce8f1da0208f42431ec2105bb164657');
-    add('actionType', 'TGVhZHM=');
-    add('returnURL', 'null');
-    add('aG9uZXlwb3Q', '');
-    /* Present in Zoho's own generated form and previously missing from ours.
-       Empty is what their embed sends when there is no Google Ads click to
-       attribute, but the field is part of the expected payload. */
-    add('zc_gad', '');
-
-    var first = (data.get('first_name') || '').trim();
-    var last  = (data.get('last_name')  || '').trim();
-    var fullName = (first + ' ' + last).trim() || last || first;
-    add('Last Name', fullName);
-
-    var email = (data.get('email') || '').trim();
-    if (email) add('Email', email);
-
-    var phone = (data.get('phone') || '').trim();
-    if (phone) add('Phone', phone);
-
-    add('LEADCF5', 'Webinar');
-    /* Year of study is chosen by the parent. Values match the Zoho
-       LEADCF3 picklist exactly; fall back only if the select is missing. */
-    add('LEADCF3', (data.get('year_of_study') || 'Unsure').trim());
-    add('Lead Source', 'August Webinar');
-
-    var alevelInterest = data.get('interest_a_level') === 'yes';
-    add('Lead Status', alevelInterest ? 'Interested In Tutoring' : 'Not Interested In Tutoring');
-
-    var plan = data.get('plan_after_gcse');
-    if (plan === 'Sixth form') add('Country', '2028');
-
-    document.body.appendChild(f);
-    f.submit();
-  }
-
-  /* Conversion tracking. Registering for the webinar is the lead,
-     full stop — the A-Level tick only decides where we send them
-     next, it does not change whether this counts as a conversion.
-     One event per signup, so GA4 and Meta agree on the number.
-
-     gtag and fbq are loaded in baseof.html; both are guarded in
-     case an ad blocker has stripped them. */
+  /* Conversion tracking. Registering is the lead; the A-Level tick only decides
+     where the parent is sent next. One event per signup so GA4 and Meta agree.
+     Both are guarded in case an ad blocker stripped them. */
   function trackWebinarLead() {
     if (typeof gtag === 'function') {
-      gtag('event', 'generate_lead', {
-        event_category: 'webinar',
-        event_label: 'gcse-results-day-webinar'
-      });
+      gtag('event', 'generate_lead', { event_category: 'webinar', event_label: 'gcse-results-day-webinar' });
     }
     if (typeof fbq === 'function') {
       fbq('track', 'Lead', { content_name: 'GCSE Results Day Webinar' });
     }
   }
 
-  /* Form submission: Zoho only. The webinar lead lifecycle
-     runs entirely through Zoho CRM. Formspree is not used on
-     this page — the book-a-call page has its own Formspree
-     wiring for 1-to-1 enquiries.
+  /* Submit handling.
 
-     After the lead is dispatched we redirect:
-       - A-Level interest ticked  -> /book-a-call/ (1-to-1 path)
-       - Otherwise                -> /gcse-results-day-webinar-thanks/
-                                     (replay confirmation + reviews) */
+     The form posts itself to Zoho. Everything here only decorates that
+     submission, so a failure in this block cannot stop a lead being created:
+     the surname, email, phone and year of study are already on inputs carrying
+     Zoho's own field names.
+
+     The one thing that does block submission is the consent tick, which is
+     deliberate and is checked first. */
   (function () {
     var form = document.querySelector('[data-pg-form]');
     if (!form) return;
-    var alevel = document.querySelector('[data-rd-alevel]');
 
     form.addEventListener('submit', function (e) {
-      e.preventDefault();
-
-      /* Require agreement to the terms before anything is submitted.
-         The form is novalidate, so this check is what actually gates it. */
       var consent = form.querySelector('[data-rd-consent]');
       var consentError = form.querySelector('[data-rd-consent-error]');
       if (consent && !consent.checked) {
+        e.preventDefault();
         if (consentError) consentError.hidden = false;
         consent.focus();
         return;
       }
       if (consentError) consentError.hidden = true;
 
+      try {
+        /* Zoho stores one name field, so put the full name in it. If this throws
+           the surname is already in place and the lead still lands. */
+        var firstEl = form.querySelector('[data-rd-first]');
+        var lastEl  = form.querySelector('[name="Last Name"]');
+        if (firstEl && lastEl) {
+          var full = (firstEl.value.trim() + ' ' + lastEl.value.trim()).trim();
+          if (full) lastEl.value = full.substring(0, 80);
+        }
+
+        var phoneEl = form.querySelector('[name="Phone"]');
+        if (phoneEl && phoneEl.value) phoneEl.value = normaliseUkPhone(phoneEl.value);
+
+        var wantsALevel = !!form.querySelector('[data-rd-alevel]:checked');
+
+        var statusEl = form.querySelector('[data-rd-status]');
+        if (statusEl && wantsALevel) statusEl.value = 'Interested In Tutoring';
+
+        /* Exam year only means something for a sixth-form plan. */
+        var planEl = form.querySelector('input[name="plan_after_gcse"]:checked');
+        var examEl = form.querySelector('[data-rd-examyear]');
+        if (examEl && planEl && planEl.value === 'Sixth form') {
+          examEl.value = examEl.getAttribute('data-rd-examyear-value') || '';
+        }
+
+        /* Send the A-Level crowd to the booking page after Zoho saves the lead. */
+        var returnEl = form.querySelector('[data-rd-return]');
+        if (returnEl && wantsALevel) {
+          returnEl.value = '{{ "gcse-results-day-webinar-book-a-call/" | absURL }}';
+        }
+
+        /* Our own inputs are not Zoho fields. Disabling them keeps the payload
+           to exactly what Zoho's form expects. */
+        ['[data-rd-first]', 'input[name="plan_after_gcse"]', '[data-rd-alevel]', '[data-rd-consent]']
+          .forEach(function (sel) {
+            form.querySelectorAll(sel).forEach(function (el) { el.disabled = true; });
+          });
+
+        trackWebinarLead();
+      } catch (err) {
+        /* Never block the submission because decoration failed. */
+      }
+
       var btn = form.querySelector('[type="submit"]');
-      var data = new FormData(form);
-
-      /* Force phone to +44 E.164 so the value Zoho stores is
-         the same one Twilio will dial later. */
-      var rawPhone = data.get('phone');
-      if (rawPhone) {
-        data.set('phone', normaliseUkPhone(rawPhone));
-      }
-
       if (btn) { btn.disabled = true; btn.textContent = 'Saving...'; }
-
-      submitZohoLead(data);
-
-      trackWebinarLead();
-
-      /* Built with relURL so these stay correct under the /study/ prefix. They
-         were previously hardcoded as root-relative paths, which worked on the
-         old study.thedegreegap.com subdomain and 404ed after the move. */
-      var destination = (alevel && alevel.checked)
-        ? '{{ "gcse-results-day-webinar-book-a-call/" | relURL }}'
-        : '{{ "gcse-results-day-webinar-thanks/" | relURL }}';
-
-      /* Navigating the top frame destroys the hidden iframe and cancels any
-         request still in flight, so the old fixed 600ms timer was a race: on a
-         slow connection the lead could be dropped before it left the browser.
-         Now we move as soon as Zoho answers, with a 4s ceiling so a hanging
-         endpoint never traps the parent on the form. */
-      var moved = false;
-      function go() {
-        if (moved) return;
-        moved = true;
-        window.location.href = destination;
-      }
-      var target = document.getElementById('zoho-target');
-      if (target) target.addEventListener('load', go);
-      window.setTimeout(go, 4000);
     });
   })();
 </script>
