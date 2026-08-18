@@ -8,7 +8,7 @@ webinar_date_display: "Monday 17 August 2026"
 webinar_time_display: "7–8pm (UK time)"
 # Paste the YouTube video ID here (the part after v= or youtu.be/) and the
 # player appears. Leave empty and the page shows a "being uploaded" panel.
-replay_video_id: ""
+replay_video_id: "8VuxLCxcGkU"
 sitemap:
   priority: 0.7
   changefreq: monthly
