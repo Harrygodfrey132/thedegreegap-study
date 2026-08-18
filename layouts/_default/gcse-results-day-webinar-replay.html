@@ -1,0 +1,181 @@
+{{ define "seo" }}
+{{ partial "seo.html" . }}
+{{ end }}
+
+{{ define "main" }}
+{{ $videoId := .Params.replay_video_id | default "" }}
+{{ $dateDisplay := .Params.webinar_date_display | default "" }}
+
+<style>
+  .wr-page {
+    background: linear-gradient(180deg, #fbf7ef 0%, #ffffff 60%);
+    padding: 56px 20px 80px;
+    font-family: 'Poppins', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  }
+  .wr-inner { max-width: 860px; margin: 0 auto; }
+  .wr-eyebrow {
+    display: inline-block;
+    font-size: 0.72rem; font-weight: 800; letter-spacing: 0.14em;
+    text-transform: uppercase; color: #800020;
+    background: #fff; border: 1px solid #e6ded4; border-radius: 999px;
+    padding: 6px 14px; margin-bottom: 18px;
+  }
+  .wr-page h1 {
+    font-size: clamp(1.8rem, 4.4vw, 2.7rem); font-weight: 900; color: #171717;
+    letter-spacing: -0.02em; line-height: 1.12; margin: 0 0 14px;
+  }
+  .wr-lead { font-size: 1.05rem; line-height: 1.65; color: #5f5a54; margin: 0 0 28px; max-width: 620px; }
+  .wr-lead strong { color: #171717; }
+
+  /* Video. Click to load, so the page stays fast and nothing is
+     requested from YouTube until the parent actually presses play. */
+  .wr-video {
+    position: relative; width: 100%; aspect-ratio: 16 / 9;
+    border-radius: 14px; overflow: hidden; background: #000;
+    box-shadow: 0 18px 46px rgba(35, 23, 17, 0.18);
+    border: 1px solid #e6ded4;
+  }
+  .wr-video img, .wr-video iframe {
+    position: absolute; inset: 0; width: 100%; height: 100%;
+    object-fit: cover; border: 0; display: block;
+  }
+  .wr-video button {
+    position: absolute; inset: 0; width: 100%; height: 100%;
+    background: transparent; border: 0; cursor: pointer; padding: 0;
+    display: flex; align-items: center; justify-content: center;
+  }
+  .wr-play {
+    width: 76px; height: 76px; border-radius: 50%;
+    background: #800020; color: #fff;
+    display: flex; align-items: center; justify-content: center;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+    transition: transform 0.18s ease, background 0.18s ease;
+  }
+  .wr-video button:hover .wr-play { transform: scale(1.07); background: #5A001F; }
+  .wr-video button:focus-visible { outline: 3px solid #800020; outline-offset: 3px; }
+
+  .wr-pending {
+    display: flex; align-items: center; justify-content: center; text-align: center;
+    width: 100%; aspect-ratio: 16 / 9; border-radius: 14px;
+    background: #fbf7ef; border: 2px dashed #d4ccc0; padding: 30px;
+    color: #5f5a54; font-size: 1rem; line-height: 1.6;
+  }
+  .wr-pending strong { display: block; color: #171717; font-size: 1.15rem; margin-bottom: 8px; }
+
+  .wr-covers { margin: 40px 0 0; }
+  .wr-covers h2 { font-size: 1.15rem; font-weight: 800; color: #171717; margin: 0 0 16px; }
+  .wr-covers ul { margin: 0; padding: 0; list-style: none; display: grid; gap: 12px; }
+  .wr-covers li {
+    display: flex; gap: 12px; align-items: flex-start;
+    font-size: 0.98rem; line-height: 1.6; color: #3a3530;
+  }
+  .wr-covers svg { flex: 0 0 auto; margin-top: 3px; color: #800020; }
+
+  .wr-cta {
+    margin-top: 44px; background: #ffffff; border: 1px solid #e6ded4;
+    border-radius: 16px; padding: 30px 28px;
+    box-shadow: 0 14px 38px rgba(35, 23, 17, 0.07);
+  }
+  .wr-cta h2 { font-size: 1.3rem; font-weight: 900; color: #171717; margin: 0 0 8px; letter-spacing: -0.01em; }
+  .wr-cta p { font-size: 0.98rem; line-height: 1.6; color: #5f5a54; margin: 0 0 20px; }
+  .wr-cta a {
+    display: inline-flex; align-items: center; gap: 9px;
+    background: #800020; color: #fff; font-weight: 800; font-size: 1rem;
+    padding: 15px 28px; border-radius: 999px; text-decoration: none;
+    box-shadow: 0 8px 20px rgba(128, 0, 32, 0.26);
+    transition: background 0.15s ease, transform 0.15s ease;
+  }
+  .wr-cta a:hover { background: #5A001F; transform: translateY(-1px); text-decoration: none; }
+  .wr-note { font-size: 0.86rem; color: #7a736b; margin: 14px 0 0; }
+
+  @media (max-width: 560px) {
+    .wr-page { padding: 36px 16px 60px; }
+    .wr-play { width: 60px; height: 60px; }
+  }
+</style>
+
+<div class="wr-page">
+  <div class="wr-inner">
+
+    <span class="wr-eyebrow">Replay &middot; free to watch</span>
+    <h1>GCSE Results Day 2026: the replay</h1>
+    <p class="wr-lead">
+      Joe and Harry take you through results day: what to expect, how to read the grades in context, and how to support your child through whatever the envelope says.
+      {{ with $dateDisplay }}Recorded live on {{ . }}.{{ end }}
+      <strong>Nothing to sign up for, just press play.</strong>
+    </p>
+
+    {{ if $videoId }}
+      <div class="wr-video" data-wr-video data-video-id="{{ $videoId }}">
+        <img src="https://i.ytimg.com/vi/{{ $videoId }}/maxresdefault.jpg"
+             alt="GCSE Results Day 2026 parent webinar replay"
+             width="1280" height="720" loading="eager" fetchpriority="high"
+             onerror="this.onerror=null;this.src='https://i.ytimg.com/vi/{{ $videoId }}/hqdefault.jpg';">
+        <button type="button" aria-label="Play the GCSE Results Day webinar replay">
+          <span class="wr-play" aria-hidden="true">
+            <svg width="30" height="30" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+          </span>
+        </button>
+      </div>
+    {{ else }}
+      {{/* No video ID set yet. Set replay_video_id in the page front matter and
+           the player appears; nothing else needs changing. */}}
+      <div class="wr-pending">
+        <p><strong>The replay is being uploaded.</strong>
+        It will appear here shortly. If you would rather we email you when it is ready, just get in touch.</p>
+      </div>
+    {{ end }}
+
+    <div class="wr-covers">
+      <h2>What the session covers</h2>
+      <ul>
+        {{ range slice
+          "What actually happens on results day, hour by hour"
+          "How to read the grades in context rather than in isolation"
+          "What to say in the first ten minutes, whatever the result"
+          "Remarks, reviews of marking and the deadlines that run in days"
+          "Sixth form places, resits and the routes that stay open" }}
+        <li>
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>
+          <span>{{ . }}</span>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+
+    <div class="wr-cta">
+      <h2>Want to talk it through for your own child?</h2>
+      <p>A free 15-minute call with Joe or Harry. No pitch, and we will say plainly if tutoring is not what your child needs right now.</p>
+      <a href="{{ "book-a-call/" | relURL }}">
+        Book a free call
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+      </a>
+      <p class="wr-note">Sessions from £37 an hour. No contract, and you only pay for lessons taken.</p>
+    </div>
+
+  </div>
+</div>
+
+<script>
+  /* Swap the thumbnail for the real player on click. Nothing loads from
+     YouTube until the parent presses play, which keeps the page fast and
+     avoids setting third-party cookies on people who never watch. */
+  (function () {
+    var box = document.querySelector('[data-wr-video]');
+    if (!box) return;
+    var btn = box.querySelector('button');
+    if (!btn) return;
+    btn.addEventListener('click', function () {
+      var id = box.getAttribute('data-video-id');
+      if (!id) return;
+      var f = document.createElement('iframe');
+      f.src = 'https://www.youtube-nocookie.com/embed/' + id + '?autoplay=1&rel=0';
+      f.title = 'GCSE Results Day 2026 parent webinar replay';
+      f.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+      f.allowFullscreen = true;
+      box.innerHTML = '';
+      box.appendChild(f);
+    });
+  })();
+</script>
+{{ end }}
