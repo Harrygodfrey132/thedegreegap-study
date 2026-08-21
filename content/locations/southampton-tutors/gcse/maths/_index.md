@@ -57,9 +57,5 @@ reviews:
   - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."
   - "Marfa|Student|Very engaging lessons that helped me improve my grade in maths and successfully get admitted to university."
 
-robots: "noindex, follow"
-sitemap:
-  disable: true
-
 # FAQ picks: G02, A07, A12, E05, C03
 ---

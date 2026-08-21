@@ -46,7 +46,4 @@ reviews:
   - "Jessica|GCSE Student|I was helped with both Maths and English for my GCSEs and passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree."
   - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than his year 13 mock paper. His tutor Jacob was excellent."
 
-robots: "noindex, follow"
-sitemap:
-  disable: true
 ---
