@@ -10132,3 +10132,15 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   .book-call--my-gcse-maths .book-call__endorsement-label { padding-right: 10px; font-size: 0.62rem; }
   .book-call--my-gcse-maths .book-call__endorsement img { height: 22px; }
 }
+
+/* Inline validation message, injected by the phone check in main.js. Sits
+   directly under the field it belongs to. Deep red rather than a pure red,
+   to stay inside the brand palette and read as a correction, not an alarm. */
+.field-error {
+  margin: 6px 0 0;
+  font-size: 0.85rem;
+  line-height: 1.4;
+  color: #800020;
+}
+.field-error[hidden] { display: none; }
+input[aria-invalid="true"] { border-color: #800020; }

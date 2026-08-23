@@ -388,3 +388,177 @@ document.addEventListener('submit', function(e){
     populate();
   }
 })();
+
+/* ---------------------------------------------------------------------------
+   Phone number validation.
+
+   Every form on the site carries novalidate, and type="tel" checks nothing on
+   its own (it only changes the on-screen keyboard), so until now any string at
+   all reached the CRM. The bot layers above already handle automated junk, so
+   what gets through here is human: typos, and people who want the guide but
+   not the call.
+
+   This blocks a submission whose phone field cannot be a real UK number, and
+   normalises the ones that can be, so Zoho receives 07859965776 whether the
+   parent typed +44 7859 965776, (07859) 965776 or 07859-965-776.
+
+   What counts as valid:
+     mobile    07 plus 9 digits, on the ranges Ofcom actually allocates to
+               mobiles (071-075, 077-079, plus 07624 for the Isle of Man)
+     landline  01, 02 or 03 followed by 8 or 9 digits
+
+   Landlines are accepted on purpose. Joe rings these leads, and a real landline
+   is worth more than a fake mobile. Set MOBILE_ONLY to true to refuse them.
+
+   070 (personal numbering) and 076 (pagers) are rejected: they are not mobiles
+   and are common in junk entries. So is any number whose digits are all the
+   same, which is what 07111111111 and 00000000000 are.
+
+   Empty is left alone. Some phone fields are optional, and the required
+   attribute already covers the ones that are not.
+   --------------------------------------------------------------------------- */
+(function () {
+  var MOBILE_ONLY = false;
+
+  var MOBILE    = /^07(?:[1-57-9]\d{8}|624\d{6})$/;
+  var LANDLINE  = /^0[123]\d{8,9}$/;
+  var ALL_SAME  = /^0?(\d)\1+$/;
+  var SUB_SAME  = /^07(\d)\1{8}$/;
+  var NOT_MOBILE = /^07[06]\d{8}$/;
+
+  var MESSAGES = {
+    missing:   'Please enter a contact number so we can call you back.',
+    repeated:  'Please enter a real contact number.',
+    notmobile: 'That is not a mobile number. UK mobiles start 071 to 075 or 077 to 079.',
+    invalid:   MOBILE_ONLY
+      ? 'Please check this. A UK mobile is 11 digits starting 07.'
+      : 'Please check this. A UK mobile is 11 digits starting 07, or enter a landline.'
+  };
+
+  function normalise(raw) {
+    var s = String(raw || '').trim();
+    var plus = s.charAt(0) === '+';
+    var d = s.replace(/\D/g, '');
+    if (!d) return '';
+    if (plus && d.indexOf('44') === 0) d = '0' + d.slice(2);
+    else if (d.indexOf('0044') === 0) d = '0' + d.slice(4);
+    else if (!plus && d.indexOf('44') === 0 && d.length >= 12) d = '0' + d.slice(2);
+    return d;
+  }
+
+  function classify(raw) {
+    var s = String(raw || '').trim();
+    if (!s) return 'empty';
+    // Something was typed but there is not a digit in it. That is not an empty
+    // field, it is 'abcdef', and novalidate means required will not catch it.
+    var n = normalise(s);
+    if (!n) return 'invalid';
+    if (ALL_SAME.test(n) || SUB_SAME.test(n)) return 'repeated';
+    if (MOBILE.test(n)) return 'mobile';
+    if (!MOBILE_ONLY && LANDLINE.test(n)) return 'landline';
+    if (NOT_MOBILE.test(n)) return 'notmobile';
+    return 'invalid';
+  }
+
+  function errorNode(input) {
+    var id = (input.id || 'phone') + '-error';
+    var el = document.getElementById(id);
+    if (!el) {
+      el = document.createElement('p');
+      el.id = id;
+      el.setAttribute('role', 'alert');
+      el.className = 'field-error';
+      el.hidden = true;
+      if (input.parentNode) input.parentNode.insertBefore(el, input.nextSibling);
+    }
+    return el;
+  }
+
+  function clear(input) {
+    var el = document.getElementById((input.id || 'phone') + '-error');
+    if (el) { el.hidden = true; el.textContent = ''; }
+    input.removeAttribute('aria-invalid');
+  }
+
+  // Returns true when the field is good to submit.
+  function check(input, quiet) {
+    var verdict = classify(input.value);
+    // novalidate switches off the browser's own required check, so a field the
+    // page already marks required is enforced here instead. Optional phone
+    // fields are left alone when empty.
+    if (verdict === 'empty') {
+      if (!input.hasAttribute('required')) { clear(input); return true; }
+      verdict = 'missing';
+    }
+    if (verdict === 'mobile' || verdict === 'landline') {
+      clear(input);
+      return true;
+    }
+    if (!quiet) {
+      var el = errorNode(input);
+      el.textContent = MESSAGES[verdict] || MESSAGES.invalid;
+      el.hidden = false;
+      input.setAttribute('aria-invalid', 'true');
+      input.setAttribute('aria-describedby', el.id);
+    }
+    return false;
+  }
+
+  function fields(form) {
+    return form.querySelectorAll('input[type="tel"]');
+  }
+
+  // Validate on the way out of the field, but never scold someone mid-typing:
+  // a half-entered number is wrong right up until it is finished.
+  document.addEventListener('blur', function (e) {
+    var t = e.target;
+    if (t && t.tagName === 'INPUT' && t.type === 'tel') check(t);
+  }, true);
+
+  document.addEventListener('input', function (e) {
+    var t = e.target;
+    if (t && t.tagName === 'INPUT' && t.type === 'tel') clear(t);
+  }, true);
+
+  // Capture phase on document runs before the per-form anti-spam listeners, so
+  // a bad number stops here and never reaches Formspree or Zoho.
+  document.addEventListener('submit', function (e) {
+    var form = e.target;
+    if (!form || !form.querySelectorAll) return;
+    var els = fields(form);
+    var firstBad = null;
+    for (var i = 0; i < els.length; i++) {
+      if (!check(els[i])) { if (!firstBad) firstBad = els[i]; }
+    }
+    if (firstBad) {
+      e.preventDefault();
+      e.stopImmediatePropagation();
+      firstBad.focus();
+      return false;
+    }
+    // Good numbers go to the CRM in one consistent shape.
+    for (var j = 0; j < els.length; j++) {
+      var n = normalise(els[j].value);
+      if (n) els[j].value = n;
+    }
+  }, true);
+
+  // The parents-guide add-on sits outside a form and is posted by its own
+  // handler, so it gets the same check wired to its button.
+  document.addEventListener('DOMContentLoaded', function () {
+    var addon = document.querySelector('[data-pg-addon-phone]');
+    if (!addon) return;
+    var btn = addon.parentNode && addon.parentNode.querySelector('button');
+    if (!btn) return;
+    btn.addEventListener('click', function (ev) {
+      if (!addon.value.trim()) return;
+      if (!check(addon)) {
+        ev.preventDefault();
+        ev.stopImmediatePropagation();
+        addon.focus();
+      } else {
+        addon.value = normalise(addon.value);
+      }
+    }, true);
+  });
+})();
