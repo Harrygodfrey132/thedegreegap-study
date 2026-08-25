@@ -1,11 +1,11 @@
 ---
-title: "Results Day 2026: What to Do If the Grades Are Not What You Hoped"
-description: "A calm guide for parents on results day 2026. Remarks and reviews of marking, the deadlines that matter, November GCSE resits, Clearing, and what to do in the first 48 hours."
+title: "GCSE Results Day 2026: What Time, and What to Do Next"
+description: "GCSE results day is Thursday 20 August 2026, from 8am. What time results are released, how to read the grade slip, reviews of marking and their deadlines, November resits, and what to do if the grades are not what you hoped."
 date: 2026-08-08
 author: "Harry Godfrey"
 author_role: "Co-founder, The Degree Gap"
 category: "Parent Advice"
-excerpt: "A-Level results land on 13 August and GCSEs on 20 August. If the grades come in lower than expected, most of the decisions worth making happen in the first 48 hours. Here is what your options actually are, and what each one costs."
+excerpt: "GCSE results day 2026 is Thursday 20 August, with most schools opening from 8am. Here is what time results are released, how to read the slip, and what your options are if the grades come in lower than you hoped."
 hero_image: "/images/school-clock-tower-building.jpg"
 tags:
   - Parent Advice
@@ -26,7 +26,28 @@ related_links:
     description: "The entry deadline, the exam dates, and how to choose between November and next summer."
 ---
 
-**A-Level results day is Thursday 13 August 2026. GCSE results day is Thursday 20 August 2026.** Most schools open from 8am, though some open at 8:30 or 9am, so check yours.
+**GCSE results day 2026 is Thursday 20 August.** A-Level results were Thursday 13 August.
+
+## What time do GCSE results come out?
+
+Results are released to schools ahead of the day and go out to students **from 8am on Thursday 20 August 2026**. Individual schools set their own opening time, so some hand out slips at 8am and others at 8:30 or 9am. Check your school's arrangements rather than assuming.
+
+A few practical points for the morning:
+
+- **Someone needs to collect them in person, or your school will have an online route.** Arrangements differ, and this is worth knowing the day before rather than at 7:45am.
+- **Ask for the component marks, not just the grades.** They are the most useful thing you will get all day, and the reason is in the next section.
+- **Nothing expires on the day.** The earliest deadline that matters is 20 August, and that one is for A-Level priority reviews.
+
+## Watch: our results day webinar for parents
+
+{{< youtube
+    id="8VuxLCxcGkU"
+    title="GCSE Results Day 2026 Tips & Advice | Online Webinar"
+    description="Harry Godfrey and Joe Clark walk parents through GCSE results day 2026: how to read the grade slip, when a review of marking is worth requesting, the November resit series for English and Maths, and how to handle the first conversation at home."
+    uploadDate="2026-08-17"
+    duration="PT40M1S" >}}
+
+Forty minutes, recorded a few days before results day. Joe and I go through the same ground as this article and take questions from parents at the end. If you would rather watch than read, start there and use the rest of this page for the dates and deadlines.
 
 Every other article we have written is for a parent calmly deciding whether to hire a tutor. This one is for the morning it is not calm, when the envelope is open and the number is a 3 or a 4 and everyone in the kitchen is upset.
 
