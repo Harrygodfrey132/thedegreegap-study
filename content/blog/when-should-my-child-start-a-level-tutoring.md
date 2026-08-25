@@ -20,6 +20,9 @@ related_links:
   - title: "How far before the exams is too late to get a tutor?"
     url: "/blog/how-far-before-exams-is-too-late-to-get-a-tutor/"
     description: "What a late start can and cannot realistically deliver."
+  - title: "UCAS 2027: the three-question personal statement and the autumn deadlines"
+    url: "/blog/ucas-2027-personal-statement-and-autumn-deadlines/"
+    description: "The 15 October and 13 January deadlines, and what the three questions are actually asking for."
 ---
 
 The A-Level answer is not the GCSE answer, and the difference is the thing most families miss.

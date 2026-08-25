@@ -21,6 +21,9 @@ related_links:
   - title: "How many hours of tutoring does it take to improve a grade?"
     url: "/blog/how-many-hours-of-tutoring-to-improve-a-grade/"
     description: "What a grade band actually costs in weekly sessions, and what makes it faster or slower."
+  - title: "UCAS 2027: the three-question personal statement and the autumn deadlines"
+    url: "/blog/ucas-2027-personal-statement-and-autumn-deadlines/"
+    description: "The 15 October and 13 January deadlines, and what the three questions are actually asking for."
 ---
 
 A predicted grade is the school's estimate of what your child will achieve in the summer, written on the UCAS reference and used by universities to decide whether to make an offer.

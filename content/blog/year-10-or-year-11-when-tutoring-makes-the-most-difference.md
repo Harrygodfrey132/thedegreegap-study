@@ -17,6 +17,9 @@ related_links:
   - title: "When should my child start GCSE tutoring?"
     url: "/blog/when-should-my-child-start-gcse-tutoring/"
     description: "Why September beats January, and the signals that say start now."
+  - title: "Foundation or higher tier: the Year 11 decision nobody asks parents about"
+    url: "/blog/foundation-or-higher-tier-gcse-year-11/"
+    description: "Why foundation maths stops at a grade 5, and when the entry is still worth challenging."
 ---
 
 The [Sutton Trust's Private Tutoring 2026 report](https://www.suttontrust.com/our-research/private-tutoring-2026/) found that 25% of Year 11 students in England and Wales have had private tutoring, against 10% in Year 10. Year 11 is the peak year by a wide margin.

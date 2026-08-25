@@ -21,6 +21,9 @@ related_links:
   - title: "When should my child start GCSE tutoring?"
     url: "/blog/when-should-my-child-start-gcse-tutoring/"
     description: "Why September beats January, and the signals that say start now."
+  - title: "November 2026 GCSE resits: the decision to make by early October"
+    url: "/blog/november-2026-gcse-resits-english-and-maths/"
+    description: "The entry deadline, the exam dates, and how to choose between November and next summer."
 ---
 
 **A-Level results day is Thursday 13 August 2026. GCSE results day is Thursday 20 August 2026.** Most schools open from 8am, though some open at 8:30 or 9am, so check yours.
@@ -74,7 +77,7 @@ If English Language or Maths came in below a grade 4, there is a resit series th
 | What | When |
 |---|---|
 | Entry deadline (through the school or college) | Around **4 October 2026** |
-| Exams | **2 to 18 November 2026** |
+| Exams | **3 to 9 November 2026** |
 | Results | **14 January 2027** |
 
 The autumn series covers **GCSE English Language and Maths only**. Other subjects wait until summer 2027.
@@ -127,7 +130,7 @@ Both results exist, and the higher grade is the one that gets used in practice b
 
 - [AQA, results days](https://www.aqa.org.uk/exams-administration/results-days) for the 13 and 20 August 2026 dates.
 - [JCQ, post-results services](https://www.jcq.org.uk/exam-results-data/post-results/) and the [JCQ post-results services booklet](https://www.jcq.org.uk/wp-content/uploads/sites/2/2026/05/Post-Results-Service_26_FINAL.pdf) for the 20 August and 24 September 2026 deadlines and the service definitions.
-- Awarding body guidance for the November 2026 series dates and the early-October entry deadline. The autumn timetable is provisional until boards confirm it, so check with your school for the specific papers.
+- Awarding body guidance for the November 2026 series dates and the early-October entry deadline. Boards sit their papers within the same week, so check with your school for the specific dates and board.
 
 Fees, deadlines and college arrangements vary. Confirm the specifics with your school's exams officer.
 

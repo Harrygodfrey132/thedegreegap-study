@@ -482,6 +482,9 @@
   {{ $autoCap := 3 }}
   {{ $auto := slice }}
   {{ $allSubject := where .Site.Pages "Layout" "subject" }}
+  {{/* Hoisted out of the range below: inside it the dot is the tag string, not the page,
+       so .Site is not reachable and the Personal Statement / UCAS branches error out. */}}
+  {{ $allPersonalStatement := where .Site.RegularPages "Section" "personal-statement-tutor" }}
   {{ range .Params.tags }}
     {{ $tag := . }}
     {{ $candidates := slice }}
@@ -490,10 +493,9 @@
     {{ else if eq $tag "A-Level" }}
       {{ $candidates = first 4 (where $allSubject "Params.level" "A-Level") }}
     {{ else if eq $tag "Personal Statement" }}
-      {{ $ps := where .Site.RegularPages "Section" "personal-statement-tutor" }}
-      {{ $candidates = first 4 $ps }}
+      {{ $candidates = first 4 $allPersonalStatement }}
     {{ else if eq $tag "UCAS" }}
-      {{ $candidates = first 4 (where .Site.RegularPages "Section" "personal-statement-tutor") }}
+      {{ $candidates = first 4 $allPersonalStatement }}
     {{ else if eq $tag "11+" }}
       {{ $candidates = slice (site.GetPage "/locations/aylesbury-tutors/") (site.GetPage "/locations/high-wycombe-tutors/") (site.GetPage "/locations/canterbury-tutors/") }}
     {{ end }}

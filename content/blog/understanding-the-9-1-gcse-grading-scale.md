@@ -20,6 +20,9 @@ related_links:
   - title: "Results day 2026: what to do if the grades are not what you hoped"
     url: "/blog/results-day-2026-grades-not-what-you-hoped/"
     description: "Remarks, review-of-marking deadlines, November resits and the first 48 hours."
+  - title: "Foundation or higher tier: the Year 11 decision nobody asks parents about"
+    url: "/blog/foundation-or-higher-tier-gcse-year-11/"
+    description: "Why foundation maths stops at a grade 5, and when the entry is still worth challenging."
 ---
 
 If you sat GCSEs in the era of A*, A, B, C and so on, the 9-1 scale your child is being graded on can feel like a different language. Most parents who reach out say the same thing: nobody's properly explained what the numbers mean, what counts as a pass, or whether a 6 is something to celebrate or worry about. Here's the plain answer, with the 2026 figures from Ofqual to back it up.
