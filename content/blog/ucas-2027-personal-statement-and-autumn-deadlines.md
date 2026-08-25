@@ -87,7 +87,7 @@ No. One statement goes to all five choices.
 For Oxford, Cambridge and most medicine, dentistry and veterinary courses, yes, and it is strictly enforced. There is no route in afterwards for that cycle.
 
 **When should the first draft exist?**
-For an October applicant, the end of September at the latest, which means starting in the first week or two of term. For a January applicant, before Christmas — the holidays are where a good statement gets rewritten and a late one gets rushed.
+For an October applicant, the end of September at the latest, which means starting in the first week or two of term. For a January applicant, before Christmas. The holidays are where a good statement gets rewritten and a late one gets rushed.
 
 **Does the new format make it easier?**
 Easier to structure, harder to hide in. The questions are specific enough that a thin answer is visibly thin.

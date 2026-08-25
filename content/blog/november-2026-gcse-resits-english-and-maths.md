@@ -37,7 +37,7 @@ It mostly has not. There is a real choice here, it has a deadline in early Octob
 | Maths papers | 4, 6 and 9 November 2026 |
 | Results | **14 January 2027**, 8am for students |
 
-Two things about that table. The 4 October date is the awarding bodies' deadline, and **your child's centre will have set its own cut-off well before it** — often the middle of September, because the exams officer has to collate everything. If you want to be part of this decision, the week your child starts college is the week to ask, not October.
+Two things about that table. The 4 October date is the awarding bodies' deadline, and **your child's centre will have set its own cut-off well before it**, often the middle of September, because the exams officer has to collate everything. If you want to be part of this decision, the week your child starts college is the week to ask, not October.
 
 The paper dates above are AQA's. Edexcel and OCR sit within the same week, but if your child is entered with a different board, ask the exams officer for the actual dates rather than assuming.
 
@@ -45,7 +45,7 @@ The paper dates above are AQA's. Edexcel and OCR sit within the same week, but i
 
 The autumn series is **GCSE English Language and Maths only**.
 
-Everything else — English Literature, the sciences, history, languages — waits until summer 2027. Parents are caught out by the English distinction more than any other: a child who missed a 4 in Literature cannot resit it in November, and a child who missed a 4 in Language can.
+Everything else waits until summer 2027: English Literature, the sciences, history and languages. Parents are caught out by the English distinction more than any other: a child who missed a 4 in Literature cannot resit it in November, and a child who missed a 4 in Language can.
 
 ## What the college is actually required to do
 
@@ -68,7 +68,7 @@ The specifics vary between providers, so ask your college's policy directly rath
 
 Here is the honest version of the trade-off, which is not the version anyone gets in the corridor.
 
-**November suits a student who was close, and whose problem was technique.** A near miss — a few marks, a paper that went wrong on the day, timing that fell apart in the last question — is exactly what ten weeks of focused work fixes. Sitting it in November means it is finished, and it means the whole of Year 12 or the first year of a BTEC is not carrying it.
+**November suits a student who was close, and whose problem was technique.** A near miss is exactly what ten weeks of focused work fixes: a few marks, a paper that went wrong on the day, timing that fell apart in the last question. Sitting it in November means it is finished, and it means the whole of Year 12 or the first year of a BTEC is not carrying it.
 
 **Summer suits a student who needs to rebuild the subject.** If the gap is thirty or forty marks, ten weeks alongside a brand new post-16 course is not enough, and a second failure in January is genuinely demoralising in a way the first one was not. Nothing is lost by waiting. The grade counts the same in June.
 
@@ -84,7 +84,7 @@ We do a lot of these between September and November, and the pattern is consiste
 
 **The marks are in the topics they already half-know.** A student two marks short does not need new content. They need the arithmetic they rush, the working they do not show, and the four-mark questions they leave blank because the wording confused them.
 
-**Exam technique is the fastest thing to fix and the last thing anyone teaches.** Reading the command word, showing method to bank marks on a wrong answer, leaving nothing blank — a student can gain a grade boundary's worth of marks on that alone.
+**Exam technique is the fastest thing to fix and the last thing anyone teaches.** Reading the command word, showing method to bank marks on a wrong answer, leaving nothing blank: a student can gain a grade boundary's worth of marks on that alone.
 
 **Ten weeks means eight in practice.** Half-term takes a week, and the last week before the exam is consolidation, not new learning. If tutoring is part of the plan, the useful window starts in the middle of September. It does not start in late October.
 

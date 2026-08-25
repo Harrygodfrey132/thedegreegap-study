@@ -32,9 +32,9 @@ Only some are. In England, tiered GCSEs are:
 
 - **Maths**
 - **Combined Science**, and the three separate sciences
-- **Modern foreign languages** — French, German and Spanish
+- **Modern foreign languages**: French, German and Spanish
 
-Everything else — English Language, English Literature, history, geography, RS, computer science — is single tier. Every student sits the same paper and the full 9 to 1 range is available to all of them. If your child's difficult subject is English, tiering is not part of the problem.
+Everything else is single tier: English Language, English Literature, history, geography, RS and computer science. Every student sits the same paper and the full 9 to 1 range is available to all of them. If your child's difficult subject is English, tiering is not part of the problem.
 
 ## What each tier can award
 
@@ -68,7 +68,7 @@ The mock is the evidence the department will use, so the mock matters more than 
 
 ## The trade-off, honestly
 
-Roughly half of sixteen-year-olds taking GCSE maths are entered for foundation tier — in 2023 it was around 46% of awards at that age. It is a normal outcome, not a failure, and for a lot of students it is straightforwardly the right one.
+Roughly half of sixteen-year-olds taking GCSE maths are entered for foundation tier. It is a normal outcome, not a failure, and for a lot of students it is straightforwardly the right one.
 
 **Foundation is right when a 4 or 5 is the realistic ceiling.** The paper is built for that range, the questions are accessible, and a student who would spend a third of a higher paper staring at questions they cannot start will do better, and feel better, on a paper they can actually attempt. A secure 5 from foundation beats a fragile 4 from higher, and it beats a U by a distance.
 
@@ -114,7 +114,7 @@ No. English Language and English Literature are single tier, and the full 9 to 1
 A grade 5, which is a strong pass and equivalent to a high C or low B on the old scale. Nothing above it is available.
 
 **If they take higher and it goes badly, what do they get?**
-A grade 4, or the allowed grade 3 if they narrowly miss. Below that it is a U — there are no grades 2 or 1 on the higher paper.
+A grade 4, or the allowed grade 3 if they narrowly miss. Below that it is a U: there are no grades 2 or 1 on the higher paper.
 
 **Does a foundation grade 5 look different to a higher tier grade 5 on the certificate?**
 No. The certificate shows the grade, not the tier. Sixth forms sometimes ask, particularly for maths, because the tier tells them something the grade does not.
@@ -134,7 +134,7 @@ Entry deadlines, amendment cut-offs and sixth form entry requirements vary. Conf
 
 ## Where The Degree Gap fits
 
-We are an online-only tutoring agency for GCSE and A-Level, and the autumn of Year 11 is when tier conversations come up most. A good number of them are not really about tutoring at all — they are about whether the school's read is right, and what the next step actually requires.
+We are an online-only tutoring agency for GCSE and A-Level, and the autumn of Year 11 is when tier conversations come up most. A good number of them are not really about tutoring at all. They are about whether the school's read is right, and what the next step actually requires.
 
 Every family speaks to Joe or me on a free 30-minute call before any tutor is suggested, and we are happy to spend it on this.
 
