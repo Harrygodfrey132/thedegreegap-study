@@ -14,7 +14,7 @@
 {{ $reviews := site.Params.googleReviewCount }}
 
 <style>
-  /* ===== EXPORT MODE: ?export=728|300|halfpage|320|native isolates one banner
+  /* ===== EXPORT MODE: ?export=728|300|halfpage|skyscraper|320|native isolates one banner
      flush top-left for a clean screenshot. Inert without the query param. ===== */
   body.exporting { margin: 0 !important; background: transparent !important; }
   body.exporting > * { display: none !important; }
@@ -209,6 +209,42 @@
   .f-300x600 .f-motif { right: -24px; top: -40px; width: 148px; height: 148px; }
 
   /* ===== 320 x 100 mobile ===== */
+  /* ===== 160 x 600 wide skyscraper =====
+     The skinnier desktop sidebar unit. 160 is the IAB wide skyscraper, the
+     standard size directly below the 300x600 half page, so it drops into an
+     existing slot rather than needing a custom one cut for it.
+
+     Same content order as the half page, but the sub copy is shorter and the
+     free-call callout is a single line. At 160px wide the body has about 132px
+     of usable width, and anything longer breaks into a column of two-word
+     lines that nobody reads. ===== */
+  .f-160x600 { width: 160px; height: 600px; }
+  .f-160x600 .f-body { flex-direction: column; width: 100%; padding: 16px 14px 16px; }
+  /* No motif on this one, same call as the 320x100. At 160px wide the cap
+     cannot both bleed off the right edge and keep its tassel inside the frame,
+     and pulling it far enough in to fix that puts the pale circle underneath
+     the wordmark. A clipped cap reads as an unidentifiable maroon shape, so the
+     unit carries the brand through the logo, the stars and the burgundy CTA
+     instead. With the corner free, the Ad label goes back to it. */
+  .f-160x600 .fsky-logo { height: 26px; width: auto; max-width: 104px; margin: 4px 0 26px; display: block; align-self: flex-start; flex: 0 0 auto; }
+  .f-160x600 .f-head { font-size: 19px; margin: 0 0 14px; }
+  .f-160x600 .f-sub { font-size: 12.5px; margin: 0 0 22px; }
+  .f-160x600 .fsky-rule { height: 1px; background: #E5CFCE; margin: 0 0 20px; }
+  .f-160x600 .f-stars { font-size: 16px; display: block; margin-bottom: 6px; letter-spacing: 0.02em; }
+  .f-160x600 .fsky-rating { font-size: 18px; font-weight: 900; color: #2B2321; line-height: 1; margin-bottom: 6px; }
+  .f-160x600 .fsky-count { font-size: 11px; color: #5C4A47; margin: 0 0 24px; line-height: 1.4; }
+  .f-160x600 .fsky-callout {
+    background: #FFFFFF; border: 1px solid #E5CFCE; border-radius: 10px;
+    padding: 12px 11px; margin: 0 0 24px;
+  }
+  .f-160x600 .fsky-eyebrow {
+    display: block; font-size: 8px; letter-spacing: 0.12em; text-transform: uppercase;
+    color: #800020; font-weight: 800; margin-bottom: 3px;
+  }
+  .f-160x600 .fsky-line { display: block; font-size: 11.5px; font-weight: 700; color: #2B2321; line-height: 1.3; }
+  .f-160x600 .f-award { font-size: 9px; margin: 0 0 22px; }
+  .f-160x600 .f-cta { margin-top: auto; font-size: 13px; height: 46px; }
+
   .f-320 { width: 320px; height: 100px; align-items: center; }
   .f-320 .f-body { width: 100%; align-items: center; gap: 9px; padding: 0 11px; }
   .f-320 .f320-text { flex: 1; display: flex; flex-direction: column; gap: 3px; min-width: 0; }
@@ -240,7 +276,7 @@
   document.addEventListener('DOMContentLoaded', function () {
     var m = new URLSearchParams(location.search).get('export');
     if (!m) return;
-    var map = { '728': '.f-728', '300': '.f-300x250', 'halfpage': '.f-300x600', '320': '.f-320', 'native': '.f-native' };
+    var map = { '728': '.f-728', '300': '.f-300x250', 'halfpage': '.f-300x600', 'skyscraper': '.f-160x600', '320': '.f-320', 'native': '.f-native' };
     var sel = map[m]; if (!sel) return;
     var banner = document.querySelector(sel); if (!banner) return;
     var block = banner.closest('.fms-block'); if (block) block.classList.add('export-target');
@@ -254,7 +290,7 @@
     <header class="fms-intro">
       <span class="fms-label">INTERNAL &middot; FOR PARTNER REVIEW</span>
       <h1>FindMySchool banner creatives and partnership breakdown</h1>
-      <p>Five units built from the supplied mockup, recoloured to the real brand burgundy and cut to fixed IAB sizes so they drop into standard ad slots. Hover any banner to see the click state. The whole banner is one clickable link.</p>
+      <p>Six units built from the supplied mockup, recoloured to the real brand burgundy and cut to fixed IAB sizes so they drop into standard ad slots. Hover any banner to see the click state. The whole banner is one clickable link.</p>
       <p>Every unit carries a small <strong>Ad</strong> label. Under the CAP Code an ad has to be obviously identifiable, and responsibility sits with the advertiser and the publisher, so it is not something either side can leave to the other. The co-branded article needs more than this: it wants "Advertisement feature" at the top, above the headline.</p>
       <p>Underneath is a condensed version of the partnership proposal: the offer, the placements, the numbers and what still needs answering.</p>
       <p>This page is <strong>noindex</strong> and excluded from the sitemap. Safe to share the URL directly.</p>
@@ -270,7 +306,7 @@
         <li><strong>Undefined CSS variables.</strong> <code>var(--surface-1)</code> and <code>var(--font-voice)</code> do not exist outside the generating tool, so on FindMySchool's site the banner would have rendered with a transparent background and a default system font.</li>
         <li><strong>Missing icon font.</strong> The book and arrow glyphs were Tabler icons (<code>class="ti ti-book-2"</code>). FindMySchool will not be loading that font, so both would have rendered as empty boxes. Replaced with inline SVG.</li>
         <li><strong>No trust signal at all.</strong> This is the biggest one. The 5.0 rating, the {{ $reviews }} Google reviews and the Prestige award are our strongest conversion levers and none of them appeared. All three are now in, sized to fit each unit.</li>
-        <li><strong>No fixed dimensions.</strong> The unit was fluid width. Ad slots are fixed sizes, so it has been cut to 728&times;90, 300&times;250, 300&times;600 and 320&times;100, plus a fluid native version for the editorial placement.</li>
+        <li><strong>No fixed dimensions.</strong> The unit was fluid width. Ad slots are fixed sizes, so it has been cut to 728&times;90, 300&times;250, 300&times;600, 160&times;600 and 320&times;100, plus a fluid native version for the editorial placement.</li>
         <li><strong>House style.</strong> "A-level" corrected to "A-Level".</li>
       </ul>
     </div>
@@ -344,6 +380,32 @@
             <span class="fhp-callout">
               <span class="fhp-eyebrow">Free</span>
               <span class="fhp-line">15-minute call with the founders</span>
+            </span>
+            <span class="f-award">GCSE Tutoring Specialists of the Year &middot; 2025 &amp; 2026</span>
+            <span class="f-cta">Find my tutor &rarr;</span>
+          </span>
+        </a>
+      </div>
+    </section>
+
+    <!-- ===== 160 x 600 ===== -->
+    <section class="fms-block">
+      <h2 class="fms-h2"><span>Wide skyscraper</span><span class="fms-size">160 &times; 600</span></h2>
+      <p class="fms-note">The skinnier desktop right-hand unit. 160&times;600 is the IAB wide skyscraper, the standard size directly below the half page, so it fits a narrower sidebar without anyone cutting a custom slot for it. If their rail is narrower still, say so and we will cut a 120&times;600 from the same design, though at that width the sub copy and the award line have to come out.</p>
+      <div class="fms-frame">
+        <a class="f-banner f-160x600" href="{{ printf "%s?%sskyscraper-160x600" $dest $utm | relURL }}" target="_blank" rel="sponsored noopener" aria-label="The Degree Gap, find a GCSE or A-Level tutor">
+          <span class="f-body">
+            <span class="f-ad">Ad</span>
+            <img class="fsky-logo" src="{{ "images/final-logo.svg" | relURL }}" alt="The Degree Gap">
+            <span class="f-head">Grades not where they should be?</span>
+            <span class="f-sub">One-to-one GCSE and A-Level tutors, matched by subject and exam board.</span>
+            <span class="fsky-rule"></span>
+            <span class="f-stars" aria-label="5 out of 5">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
+            <span class="fsky-rating">5.0</span>
+            <span class="fsky-count">{{ $reviews }} verified Google reviews</span>
+            <span class="fsky-callout">
+              <span class="fsky-eyebrow">Free</span>
+              <span class="fsky-line">15-minute call with the founders</span>
             </span>
             <span class="f-award">GCSE Tutoring Specialists of the Year &middot; 2025 &amp; 2026</span>
             <span class="f-cta">Find my tutor &rarr;</span>
@@ -521,7 +583,7 @@
 
     <div class="fms-card">
       <h2>Exporting a banner as an image</h2>
-      <p>Add <code>?export=</code> to this page's URL to isolate one unit flush in the top-left corner for a clean screenshot: <code>728</code>, <code>300</code>, <code>halfpage</code>, <code>320</code> or <code>native</code>.</p>
+      <p>Add <code>?export=</code> to this page's URL to isolate one unit flush in the top-left corner for a clean screenshot: <code>728</code>, <code>300</code>, <code>halfpage</code>, <code>skyscraper</code>, <code>320</code> or <code>native</code>.</p>
     </div>
 
   </div>
