@@ -16,13 +16,13 @@
 {{ $cardPoints  := .Params.card_points  | default (slice
   "15-minute call, no obligation"
   "Two or three tutor profiles within 24 hours"
-  "First lesson from £37 — only pay if you continue") }}
+  "First lesson from £37, only pay if you continue") }}
 {{ $cardCta     := .Params.card_cta     | default "Book a Free Consultation" }}
 
 {{/* ── Subject angle ── */}}
 {{ $angleEyebrow  := .Params.angle_eyebrow  | default (printf "WHY %s %s, SPECIFICALLY" ($subject | upper) ($level | upper)) }}
 {{ $angleHeading  := .Params.angle_heading  | default (printf "What a strong %s %s tutor actually does for %s students" $level $subject $loc) }}
-{{ $angleBody1    := .Params.angle_body_1   | default (.Params.angle_body | default (printf "Most %s students know more %s than their mock grade suggests. The marks they're losing sit in two or three specific places — an algebra step that quietly broke earlier, a topic the school rushed through, the question style that always loses three marks." $loc $subject)) }}
+{{ $angleBody1    := .Params.angle_body_1   | default (.Params.angle_body | default (printf "Most %s students know more %s than their mock grade suggests. The marks they're losing sit in two or three specific places. An algebra step that quietly broke earlier, a topic the school rushed through, the question style that always loses three marks." $loc $subject)) }}
 {{ $angleBody2    := .Params.angle_body_2   | default (printf "A good %s %s tutor sits a student through harder questions than school sets, finds those exact gaps in week one, and the plan from session two works back through them. For %s sixth-form offers, that's the difference that earns the place." $level $subject $loc) }}
 {{ $angleImage    := .Params.angle_image    | default "/images/students-in-classroom-taking-notes.jpg" }}
 {{ $angleImageAlt := .Params.angle_image_alt | default (printf "A %s student working through a %s problem with a tutor" $level $subject) }}
@@ -37,17 +37,17 @@
 
 {{/* ── 3 Steps (per-page overridable) ── */}}
 {{ $stepsHeading := .Params.steps_heading | default (printf "Start %s %s tutoring in %s in 3 steps" $level $subject $loc) }}
-{{ $stepsLead    := .Params.steps_lead    | default "From first call to first lesson in under a week — no admin, no awkwardness, no obligation." }}
+{{ $stepsLead    := .Params.steps_lead    | default "From first call to first lesson in under a week, with no admin and no obligation." }}
 {{ $steps := .Params.steps | default (slice
   (dict "title" "Share your goals" "body" (printf "Tell us your child's year group, school, exam board, current grade and the %s %s grade they're aiming at in %s. We listen, take notes, and ask the right questions." $level $subject $loc))
   (dict "title" "Meet your match" "body" (printf "Within 24 hours we send two or three vetted %s %s tutor profiles for %s, with a recommended first match. Free 15-minute video meeting before any session is booked." $level $subject $loc))
-  (dict "title" "Start the lessons" "body" (printf "Weekly one-to-one %s sessions over Lessonspace — our shared interactive whiteboard. Pay only for sessions you take, from £37/hr. Cancel any time." $subject))) }}
+  (dict "title" "Start the lessons" "body" (printf "Weekly one-to-one %s sessions over Lessonspace, our shared interactive whiteboard. Pay only for sessions you take, from £37/hr. Cancel any time." $subject))) }}
 
 {{/* ── FAQs ── */}}
 {{ $defaultFaqs := slice
-  (dict "q" (printf "What makes a good %s %s tutor?" $level $subject) "a" (printf "Subject knowledge is a must, but the real difference is the ability to find the exact point where a student stopped following — sometimes a year or two before %s — and explain it in a way that finally lands. Our %s %s tutors are vetted on how clearly they explain difficult ideas under pressure, not just on degree results. Roughly one in eight applicants make it onto the platform." $level $level $subject))
+  (dict "q" (printf "What makes a good %s %s tutor?" $level $subject) "a" (printf "Subject knowledge is a must, but the real difference is the ability to find the exact point where a student stopped following, sometimes a year or two before %s, and explain it in a way that finally lands. Our %s %s tutors are vetted on how clearly they explain difficult ideas under pressure, not just on degree results. Roughly one in eight applicants make it onto the platform." $level $level $subject))
   (dict "q" (printf "How do you match my child with the right %s %s tutor in %s?" $level $subject $loc) "a" (printf "We start with a free 15-minute consultation: year group, exam board, current grade, target grade, the school they're at in %s, and personality fit. We then send two or three %s %s tutor profiles within 24 hours, with a recommended first match. If the first session doesn't feel right, we move you to another tutor at no charge." $loc $level $subject))
-  (dict "q" (printf "Which exam boards do your %s %s tutors cover?" $level $subject) "a" (printf "All major UK exam boards — AQA, Edexcel, OCR, WJEC and CIE. When we make an introduction, we check the tutor knows your child's specific specification. A %s %s tutor who knows the exact mark scheme can target the right content from session one rather than burning time on generic revision." $level $subject))
+  (dict "q" (printf "Which exam boards do your %s %s tutors cover?" $level $subject) "a" (printf "All major UK exam boards: AQA, Edexcel, OCR, WJEC and CIE. When we make an introduction, we check the tutor knows your child's specific specification. A %s %s tutor who knows the exact mark scheme can target the right content from session one rather than burning time on generic revision." $level $subject))
   (dict "q" (printf "How much does %s %s tutoring cost in %s?" $level $subject $loc) "a" (printf "From £37 per hour. Rates vary by tutor and experience level. You see the agreed rate before any session is booked. Most %s families take weekly hour-long sessions, with a second session added in the run-up to mocks." $loc))
   (dict "q" (printf "How quickly can my child start %s %s tutoring in %s?" $level $subject $loc) "a" (printf "Usually within a few days. After the free 15-minute consultation we'll send two or three %s %s tutor profiles within 24 hours, and most %s families have a first lesson booked within a week. Sessions run online over Lessonspace, our shared interactive whiteboard, so timing is flexible around school." $level $subject $loc))
 }}
@@ -172,7 +172,7 @@
       <div class="lvls-angle__image">
         <iframe class="lvls-angle__map"
                 src="{{ $mapUrl }}"
-                title="Map of {{ $loc }} — area we cover for {{ $level }} {{ $subject }} tutoring"
+                title="Map of {{ $loc }}, an area we cover for {{ $level }} {{ $subject }} tutoring"
                 loading="lazy"
                 referrerpolicy="no-referrer-when-downgrade"
                 allowfullscreen></iframe>
@@ -456,7 +456,7 @@
       <div class="lvls-cta__copy">
         <p class="lvls-cta__eyebrow">Get started today</p>
         <h2>Book your free<br>{{ $subject }} consultation</h2>
-        <p>A short, friendly call about your child's {{ $subject }} — where they're stuck, what they're aiming at, and which {{ $level }} {{ $subject }} tutor in our network is the right match. No obligation.</p>
+        <p>A short, friendly call about your child's {{ $subject }}. Where they're stuck, what they're aiming at, and which {{ $level }} {{ $subject }} tutor in our network is the right match. No obligation.</p>
         <a href="{{ "book-a-call/" | relURL }}" class="btn btn-primary btn-lg">Book Consultation</a>
         <p class="lvls-cta__assurance">First lesson risk-free · No contracts · Cancel any time</p>
       </div>
