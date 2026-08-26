@@ -331,7 +331,11 @@ document.addEventListener('submit', function(e){
    --------------------------------------------------------------------------- */
 (function () {
   var KEY = 'tdg_attribution';
-  var UTMS = ['utm_source', 'utm_medium', 'utm_campaign'];
+  // utm_content carries which placement on the partner's own site was clicked
+  // (which banner, which article). The referrer field records their host and,
+  // where their Referrer-Policy allows it, the path. utm_content is the only
+  // one of the two that is reliable, because most sites now send origin only.
+  var UTMS = ['utm_source', 'utm_medium', 'utm_campaign', 'utm_content'];
 
   function capture() {
     try {
@@ -372,6 +376,12 @@ document.addEventListener('submit', function(e){
         var val = data[el.getAttribute('data-attribution')];
         if (val) {
           el.value = val;
+          el.disabled = false;
+        } else if (el.value) {
+          // A page-level default, set in front matter and rendered by
+          // attribution-fields.html. The partner referral pages use it so a
+          // lead is still attributed when the partner links to the bare URL.
+          // Nothing was captured this visit, so the default stands.
           el.disabled = false;
         } else {
           // Disabled inputs are not submitted, which keeps the email clean.

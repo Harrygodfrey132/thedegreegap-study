@@ -16,9 +16,26 @@
 
      Include this inside a <form>, alongside the existing source and page_url
      fields rather than in place of them: source says which form was used,
-     page_url says which page it sat on, these say where the visitor came from. */}}
-<input type="hidden" name="utm_source" data-attribution="utm_source">
-<input type="hidden" name="utm_medium" data-attribution="utm_medium">
-<input type="hidden" name="utm_campaign" data-attribution="utm_campaign">
+     page_url says which page it sat on, these say where the visitor came from.
+
+     PAGE-LEVEL DEFAULTS. A page can pre-fill the three utm_ fields from front
+     matter:
+
+       utm_source_default:   "find-my-school"
+       utm_medium_default:   "referral"
+       utm_campaign_default: "partner-page"
+
+     The partner referral pages under referred-by- use this so a lead is
+     still attributed when the partner links to the bare URL with no query
+     string on it. A real ?utm_source= in the URL always wins: main.js
+     overwrites the default with whatever it captured on the landing page.
+     Pages that set nothing behave exactly as before. */}}
+{{ $utmSource   := .Params.utm_source_default }}
+{{ $utmMedium   := .Params.utm_medium_default }}
+{{ $utmCampaign := .Params.utm_campaign_default }}
+<input type="hidden" name="utm_source" data-attribution="utm_source"{{ with $utmSource }} value="{{ . }}"{{ end }}>
+<input type="hidden" name="utm_medium" data-attribution="utm_medium"{{ with $utmMedium }} value="{{ . }}"{{ end }}>
+<input type="hidden" name="utm_campaign" data-attribution="utm_campaign"{{ with $utmCampaign }} value="{{ . }}"{{ end }}>
+<input type="hidden" name="utm_content" data-attribution="utm_content">
 <input type="hidden" name="referrer" data-attribution="referrer">
 <input type="hidden" name="landing_page" data-attribution="landing_page">
