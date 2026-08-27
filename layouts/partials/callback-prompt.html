@@ -35,29 +35,20 @@
       <h2 class="cbp__title" id="cbp-title">Not sure where to start?</h2>
       <p class="cbp__lead">Speak to one of us before anything is booked. We will tell you honestly whether tutoring is what your child needs, and which tutor fits if it is.</p>
 
-      <ul class="cbp__points">
-        <li>
-          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>
-          <span>Two or three tutor profiles within 24 hours</span>
-        </li>
-        <li>
-          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>
-          <span>First lesson from £37, only pay if you continue</span>
-        </li>
-      </ul>
+      {{/* A real review, verbatim from data/reviews.yaml. Sits above the button
+           so the proof is the last thing read before the decision. Chosen for
+           being level-agnostic: the previous one said "year 13 mock", which
+           put an A-Level story in front of GCSE parents on most of these
+           pages. Do not trim it. These are a real person's words and the
+           owner can spot an edit. */}}
+      <figure class="cbp__quote">
+        <span class="cbp__stars" aria-hidden="true">★★★★★</span>
+        <blockquote>The Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and applications.</blockquote>
+        <figcaption>Alexander, parent <span class="cbp__quote-sep" aria-hidden="true">·</span> one of {{ site.Params.googleReviewCount }} Google reviews</figcaption>
+      </figure>
 
       <a class="cbp__cta" href="{{ "book-a-call/" | relURL }}" data-cbp-cta>Book a free call</a>
 
-      {{/* A real review, verbatim from data/reviews.yaml, tutor's name and all.
-           A specific outcome carries further than an average, and the review
-           count rides along in the attribution so the volume proof is not lost
-           with it. Do not paraphrase or trim this: it is a real person's words
-           and the owner can spot an edit. */}}
-      <figure class="cbp__quote">
-        <span class="cbp__stars" aria-hidden="true">★★★★★</span>
-        <blockquote>My son gained almost two grades higher than his year 13 mock paper. His tutor Jacob was excellent.</blockquote>
-        <figcaption>Daljit, parent of an A-Level student <span class="cbp__quote-sep" aria-hidden="true">·</span> one of {{ site.Params.googleReviewCount }} Google reviews</figcaption>
-      </figure>
       <button type="button" class="cbp__dismiss" data-cbp-close>No thanks, just looking</button>
     </div>
   </div>

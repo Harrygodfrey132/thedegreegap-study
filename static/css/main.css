@@ -10366,7 +10366,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 .cbp__cta:focus-visible { outline: 3px solid #800020; outline-offset: 3px; }
 
 .cbp__quote {
-  margin: 16px 0 0;
+  margin: 0 0 18px;
   padding: 13px 15px;
   border-radius: 12px;
   background: #FAF6F2;
