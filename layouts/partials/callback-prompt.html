@@ -20,9 +20,13 @@
     </button>
 
     <figure class="cbp__media">
-      <img src="{{ "images/co-founders-crop.jpg" | relURL }}"
+      {{/* Cropped to the panel's real shape, not square. The panel measures
+           about 254x504, so a square source has its outer half thrown away by
+           object-fit, and Harry and Joe sit side by side, so each of them
+           loses an outer half of their face. */}}
+      <img src="{{ "images/co-founders-panel.jpg" | relURL }}"
            alt="Harry Godfrey and Joe Clark, co-founders of The Degree Gap"
-           width="600" height="600" loading="lazy" decoding="async">
+           width="580" height="1076" loading="lazy" decoding="async">
       <figcaption>Harry &amp; Joe, co-founders</figcaption>
     </figure>
 
