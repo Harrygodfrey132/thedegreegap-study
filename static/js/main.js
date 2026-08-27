@@ -436,7 +436,7 @@ document.addEventListener('submit', function(e){
   // timer fires, which is why the timer was what every visitor actually got.
   // 1.5 screens is past the hero and into the body on every page type.
   var SCROLL_SCREENS = 1.5;
-  var DEFER_CAP = 60000;
+  var DEFER_CAP = 25000;
   var DISMISS_DAYS = 14;
   var CLICKED_DAYS = 90;
 
@@ -496,11 +496,13 @@ document.addEventListener('submit', function(e){
   function show() {
     if (open) return;
     if (Date.now() - start < MIN_DWELL) return;
-    // Stand down while a booking form is on screen, but not forever. On a
-    // short blog post the sidebar form can sit in the viewport for the whole
-    // visit, and without this cap the dialog would never open on that page at
-    // all. After DEFER_CAP the reader has had the form in front of them for a
-    // minute and not used it, so the prompt is fair.
+    // Stand down while a booking form is on screen, but not forever. On the
+    // subject pages the consultation card is in the hero and on a blog post the
+    // sidebar form can sit in the viewport all visit, so without a cap the
+    // dialog would never open on those pages at all for a reader who does not
+    // scroll. 60s was measured as the real wait on 108 subject pages and on
+    // blog desktop, which is most of the "it takes a while". 25s still gives
+    // someone a fair look at the form first.
     if (formInView() && Date.now() - start < DEFER_CAP) {
       window.setTimeout(show, 4000);
       return;
