@@ -10365,6 +10365,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 .cbp__cta:hover { background: #5A001F; transform: translateY(-1px); }
 .cbp__cta:focus-visible { outline: 3px solid #800020; outline-offset: 3px; }
 
+.cbp__rating { display: none; }
 .cbp__quote {
   margin: 0 0 18px;
   padding: 13px 15px;
@@ -10436,7 +10437,21 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
      picture was decorating a claim the words were making anyway, and card
      height is the thing that decides whether this reads as an interstitial. */
   .cbp__media { display: none; }
-  .cbp__body { padding: 26px 20px 20px; }
+  .cbp__body { padding: 24px 20px 18px; }
+  /* On a phone the full quote block is what pushes the card past a comfortable
+     height. The rating says the same thing in one line, so the words Harry
+     wanted all stay and the height comes off the proof instead. */
+  .cbp__quote { display: none; }
+  .cbp__rating {
+    display: block;
+    margin: 0 0 14px;
+    font-size: 12.5px;
+    color: #5C4A47;
+  }
+  .cbp__rating strong { color: #2B2321; }
+  .cbp__lead { font-size: 13.5px; margin-bottom: 14px; }
+  .cbp__points { margin-bottom: 16px; }
+  .cbp__points li { margin-bottom: 7px; }
   .cbp__title { font-size: 22px; }
   .cbp__lead { font-size: 13.5px; margin-bottom: 15px; }
   .cbp__points { margin-bottom: 18px; }

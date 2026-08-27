@@ -33,21 +33,36 @@
     <div class="cbp__body">
       <p class="cbp__eyebrow">Free 15-minute call</p>
       <h2 class="cbp__title" id="cbp-title">Not sure where to start?</h2>
-      <p class="cbp__lead" id="cbp-lead">It is a confusing system, and nobody sits parents down and explains it. Different sixth forms ask for different things, and everyone you ask says something else. One call with Harry or Joe, and you will know where your child stands.</p>
+      <p class="cbp__lead" id="cbp-lead">Speak to one of us before anything is booked. We will tell you honestly whether tutoring is what your child needs, and which tutor fits if it is.</p>
+
+      <ul class="cbp__points">
+        <li>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>
+          <span>Two or three tutor profiles within 24 hours</span>
+        </li>
+        <li>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>
+          <span>First lesson from £37, only pay if you continue</span>
+        </li>
+      </ul>
 
       {{/* A real review, verbatim from data/reviews.yaml. Sits above the button
            so the proof is the last thing read before the decision. Chosen for
-           being level-agnostic and for naming Harry and Joe, which is the
-           promise directly above it. The modal is selling a conversation, not
-           a grade, so the proof should be about the conversation. Do not trim
-           it. These are a real person's words and the owner can spot an
-           edit. */}}
+           chosen to prove the exact claim above it. The lead promises a
+           match, so the review is the one about being matched: they listened,
+           they paired her, the pairing worked. A review about something else,
+           however good, is evidence for a different argument. Do not trim it.
+           These are a real person's words and the owner can spot an edit. */}}
       <figure class="cbp__quote">
         <span class="cbp__stars" aria-hidden="true">★★★★★</span>
-        <blockquote>Harry and Joe were extremely helpful, with a wealth of knowledge and contacts that helped my son to follow the right path.</blockquote>
-        <figcaption>Theresa, parent <span class="cbp__quote-sep" aria-hidden="true">·</span> one of {{ site.Params.googleReviewCount }} Google reviews</figcaption>
+        <blockquote>The Degree Gap took time to understand my child's worries. They paired me with Connor, who my daughter got on well with. Her confidence has skyrocketed since.</blockquote>
+        <figcaption>Dawn, parent <span class="cbp__quote-sep" aria-hidden="true">·</span> one of {{ site.Params.googleReviewCount }} Google reviews</figcaption>
       </figure>
 
+      <p class="cbp__rating">
+        <span class="cbp__stars" aria-hidden="true">★★★★★</span>
+        <strong>5.0</strong> from {{ site.Params.googleReviewCount }} Google reviews
+      </p>
       <a class="cbp__cta" href="{{ "book-a-call/" | relURL }}" data-cbp-cta>Book a free call</a>
 
       <button type="button" class="cbp__dismiss" data-cbp-close>No thanks, just looking</button>
