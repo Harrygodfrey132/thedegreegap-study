@@ -463,6 +463,22 @@ document.addEventListener('submit', function(e){
   }
 
   var open = false, start = Date.now(), timer = null, lastFocus = null, scrollY = 0;
+  var clicked = false;
+
+  /* GA4 events. Without these the dialog is unmeasurable: there is no way to
+     tell a version that converts from one that annoys, and no way to justify
+     the next change to its timing. GA4 attaches the page path itself, so the
+     only extra we send is how long the reader had been on the page, which is
+     what we would want to tune next. Silent if gtag is missing. */
+  function track(name, extra) {
+    try {
+      if (typeof window.gtag !== 'function') return;
+      var d = { seconds_on_page: Math.round((Date.now() - start) / 1000),
+                device: phone ? 'mobile' : 'desktop' };
+      if (extra) for (var k in extra) d[k] = extra[k];
+      window.gtag('event', name, d);
+    } catch (e) { /* measurement is never worth breaking the page for */ }
+  }
 
   function focusable() {
     return card.querySelectorAll('a[href], button:not([disabled])');
@@ -509,6 +525,7 @@ document.addEventListener('submit', function(e){
       });
     });
     document.addEventListener('keydown', onKey);
+    track('cbp_shown');
   }
 
   function close(days) {
@@ -526,6 +543,7 @@ document.addEventListener('submit', function(e){
 
     window.setTimeout(function () { root.hidden = true; }, 320);
     if (lastFocus && lastFocus.focus) lastFocus.focus();
+    if (!clicked) track('cbp_dismissed');
   }
 
   function onScroll() {
@@ -539,7 +557,11 @@ document.addEventListener('submit', function(e){
   }
   var cta = root.querySelector('[data-cbp-cta]');
   // Suppress before navigation, not after: the page is about to unload.
-  if (cta) cta.addEventListener('click', function () { suppress(CLICKED_DAYS); });
+  if (cta) cta.addEventListener('click', function () {
+    clicked = true;
+    suppress(CLICKED_DAYS);
+    track('cbp_clicked');
+  });
 
   window.addEventListener('scroll', onScroll, { passive: true });
   timer = window.setTimeout(show, MAX_WAIT);
