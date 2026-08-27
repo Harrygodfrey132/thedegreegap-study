@@ -10278,7 +10278,6 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   margin: 0;
   background: #F9EFEE;
 }
-.cbp__media picture { display: contents; }
 .cbp__media img {
   width: 100%;
   height: 100%;
@@ -10415,36 +10414,24 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 
 /* ----- phones: stack, with the photo as a short band on top ----- */
 @media (max-width: 720px) {
-  .cbp { padding: 16px; align-items: flex-end; }
+  .cbp { padding: 16px; }
   .cbp__card {
     flex-direction: column;
     max-height: calc(100vh - 32px);
     border-radius: 18px;
   }
-  /* Stacked, the photo becomes a band. min-height:0 and an explicit height
-     are both needed: a flex item defaults to min-height:auto, so without them
-     the image's intrinsic 600px drives the band and eats half the card. */
-  .cbp__media {
-    flex: 0 0 168px;
-    width: 100%;
-    height: 168px;
-    min-height: 0;
-    overflow: hidden;
-  }
-  /* The wide crop is already framed on both faces, so it just fills the band. */
-  .cbp__media img { height: 168px; object-position: 50% 50%; }
-  .cbp__media figcaption { padding: 22px 14px 10px; font-size: 10.5px; }
-  .cbp__body { padding: 22px 20px 20px; }
+  /* No photo on a phone. It was the tallest thing in the card and the weakest:
+     the awards backdrop turns to noise at band size and the caption lands on
+     Joe's chin. The copy already promises a call with a co-founder, so the
+     picture was decorating a claim the words were making anyway, and card
+     height is the thing that decides whether this reads as an interstitial. */
+  .cbp__media { display: none; }
+  .cbp__body { padding: 26px 20px 20px; }
   .cbp__title { font-size: 22px; }
   .cbp__lead { font-size: 13.5px; margin-bottom: 15px; }
   .cbp__points { margin-bottom: 18px; }
   .cbp__points li { font-size: 13px; }
   .cbp__cta { height: 48px; font-size: 14.5px; }
-}
-
-/* Short screens in landscape: drop the photo rather than scroll the dialog. */
-@media (max-height: 560px) and (max-width: 720px) {
-  .cbp__media { display: none; }
 }
 
 @media (prefers-reduced-motion: reduce) {

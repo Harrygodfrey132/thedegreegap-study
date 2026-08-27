@@ -20,16 +20,9 @@
     </button>
 
     <figure class="cbp__media">
-      {{/* Two crops, because one cannot serve both shapes. Desktop gets a tall
-           panel down the left, phones get a wide band across the top, and
-           Harry stands a head taller than Joe so a single square source loses
-           a face in one layout or the other. */}}
-      <picture>
-        <source media="(max-width: 720px)" srcset="{{ "images/co-founders-wide.jpg" | relURL }}">
-        <img src="{{ "images/co-founders-crop.jpg" | relURL }}"
-             alt="Harry Godfrey and Joe Clark, co-founders of The Degree Gap"
-             width="600" height="600" loading="lazy" decoding="async">
-      </picture>
+      <img src="{{ "images/co-founders-crop.jpg" | relURL }}"
+           alt="Harry Godfrey and Joe Clark, co-founders of The Degree Gap"
+           width="600" height="600" loading="lazy" decoding="async">
       <figcaption>Harry &amp; Joe, co-founders</figcaption>
     </figure>
 
