@@ -1,0 +1,61 @@
+{{/*
+  Booking modal for the locations and blog pages.
+
+  Shown by the callback-prompt block in static/js/main.js once per visitor per
+  fortnight, on scroll depth or dwell, whichever comes first. Mobile waits
+  longer and deeper than desktop on purpose: Google's intrusive interstitial
+  rule is mobile-only and aimed at overlays that cover the content straight
+  after a search click, and these are the pages that live on search traffic.
+
+  The photo is Harry and Joe rather than stock, because the copy promises a
+  call with a co-founder and the picture should be the people who pick up.
+
+  Renders hidden, so with JavaScript off nothing appears and nothing shifts.
+*/}}
+<div class="cbp" id="cbp" hidden data-cbp>
+  <div class="cbp__scrim" data-cbp-close></div>
+  <div class="cbp__card" role="dialog" aria-modal="true" aria-labelledby="cbp-title" tabindex="-1">
+    <button type="button" class="cbp__close" data-cbp-close aria-label="Close">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" aria-hidden="true"><path d="M18 6L6 18M6 6l12 12"/></svg>
+    </button>
+
+    <figure class="cbp__media">
+      {{/* Two crops, because one cannot serve both shapes. Desktop gets a tall
+           panel down the left, phones get a wide band across the top, and
+           Harry stands a head taller than Joe so a single square source loses
+           a face in one layout or the other. */}}
+      <picture>
+        <source media="(max-width: 720px)" srcset="{{ "images/co-founders-wide.jpg" | relURL }}">
+        <img src="{{ "images/co-founders-crop.jpg" | relURL }}"
+             alt="Harry Godfrey and Joe Clark, co-founders of The Degree Gap"
+             width="600" height="600" loading="lazy" decoding="async">
+      </picture>
+      <figcaption>Harry &amp; Joe, co-founders</figcaption>
+    </figure>
+
+    <div class="cbp__body">
+      <p class="cbp__eyebrow">Free 15-minute call</p>
+      <h2 class="cbp__title" id="cbp-title">Not sure where to start?</h2>
+      <p class="cbp__lead">Speak to one of us before anything is booked. We will tell you honestly whether tutoring is what your child needs, and which tutor fits if it is.</p>
+
+      <ul class="cbp__points">
+        <li>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>
+          <span>Two or three tutor profiles within 24 hours</span>
+        </li>
+        <li>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>
+          <span>First lesson from £37, only pay if you continue</span>
+        </li>
+      </ul>
+
+      <a class="cbp__cta" href="{{ "book-a-call/" | relURL }}" data-cbp-cta>Book a free call</a>
+
+      <p class="cbp__trust">
+        <span class="cbp__stars" aria-hidden="true">★★★★★</span>
+        <strong>5.0</strong> from {{ site.Params.googleReviewCount }} Google reviews
+      </p>
+      <button type="button" class="cbp__dismiss" data-cbp-close>No thanks, just looking</button>
+    </div>
+  </div>
+</div>

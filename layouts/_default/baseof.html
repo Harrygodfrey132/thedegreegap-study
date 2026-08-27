@@ -106,6 +106,14 @@
       });
     }
   </script>
+  {{/* Callback prompt. Locations and blog only: those are the pages that take
+       search traffic and have the furthest to travel to a booking. Not on
+       /book-a-call/ itself, and not on the referral landing pages, which
+       already open with a form. */}}
+  {{ if in (slice "locations" "blog") .Section }}
+    {{ partial "callback-prompt.html" . }}
+  {{ end }}
+
   {{/* Fingerprinted so a JS change busts the Cloudflare cache immediately.
        Unfingerprinted, main.js sits behind a 4-hour max-age and edits do not
        reach visitors until it expires. */}}

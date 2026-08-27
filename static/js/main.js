@@ -398,3 +398,135 @@ document.addEventListener('submit', function(e){
     populate();
   }
 })();
+
+/* ---------------------------------------------------------------------------
+   Callback modal.
+
+   Opens the booking dialog on the locations and blog pages, once per visitor
+   per fortnight, on whichever comes first: the reader passing a share of the
+   page, or a dwell timer. A minimum dwell sits under both so someone who
+   flicks to the bottom in two seconds is not interrupted before they have read
+   anything.
+
+   Phones wait longer and deeper than desktop. Google's intrusive interstitial
+   rule is mobile-only and aimed at overlays that cover the content straight
+   after a search click, and these pages live on search traffic. Later and
+   deeper puts real distance between the click and the dialog.
+
+   Because this one is modal, it takes focus, traps Tab inside itself, locks
+   the page behind it and restores all three on close.
+
+   Everything is optional: if any of it throws, the page is unchanged and the
+   dialog simply never opens.
+   --------------------------------------------------------------------------- */
+(function () {
+  var root = document.querySelector('[data-cbp]');
+  if (!root) return;
+
+  var card = root.querySelector('.cbp__card');
+  var phone = window.matchMedia('(max-width: 720px)').matches;
+
+  var KEY = 'tdg_cbp_until';
+  var MIN_DWELL = phone ? 14000 : 6000;
+  var MAX_WAIT = phone ? 34000 : 16000;
+  var SCROLL_AT = phone ? 0.55 : 0.4;
+  var DISMISS_DAYS = 14;
+  var CLICKED_DAYS = 90;
+
+  function suppressed() {
+    try {
+      var until = parseInt(localStorage.getItem(KEY) || '0', 10);
+      return until && Date.now() < until;
+    } catch (e) { return false; }
+  }
+  function suppress(days) {
+    try { localStorage.setItem(KEY, String(Date.now() + days * 86400000)); } catch (e) {}
+  }
+  if (suppressed()) return;
+
+  // No point interrupting someone already looking at a booking form.
+  var FORMS = '.book-call__form, .lvls-hero__card, form[action*="formspree"]';
+  function formInView() {
+    var n = document.querySelectorAll(FORMS);
+    for (var i = 0; i < n.length; i++) {
+      var r = n[i].getBoundingClientRect();
+      if (r.top < window.innerHeight && r.bottom > 0) return true;
+    }
+    return false;
+  }
+
+  var open = false, start = Date.now(), timer = null, lastFocus = null, scrollY = 0;
+
+  function focusable() {
+    return card.querySelectorAll('a[href], button:not([disabled])');
+  }
+  function onKey(e) {
+    if (e.key === 'Escape') { close(DISMISS_DAYS); return; }
+    if (e.key !== 'Tab') return;
+    var f = focusable();
+    if (!f.length) return;
+    var first = f[0], last = f[f.length - 1];
+    if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
+    else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
+  }
+
+  function show() {
+    if (open) return;
+    if (Date.now() - start < MIN_DWELL) return;
+    if (formInView()) { window.setTimeout(show, 4000); return; }
+    open = true;
+    if (timer) { window.clearTimeout(timer); timer = null; }
+    window.removeEventListener('scroll', onScroll);
+
+    lastFocus = document.activeElement;
+    scrollY = window.pageYOffset || document.documentElement.scrollTop;
+    // Lock the page without losing the reader's place.
+    document.body.style.position = 'fixed';
+    document.body.style.top = (-scrollY) + 'px';
+    document.body.style.left = '0';
+    document.body.style.right = '0';
+
+    root.hidden = false;
+    window.requestAnimationFrame(function () {
+      window.requestAnimationFrame(function () {
+        root.classList.add('is-open');
+        if (card) card.focus();
+      });
+    });
+    document.addEventListener('keydown', onKey);
+  }
+
+  function close(days) {
+    if (!open) return;
+    open = false;
+    suppress(days);
+    root.classList.remove('is-open');
+    document.removeEventListener('keydown', onKey);
+
+    document.body.style.position = '';
+    document.body.style.top = '';
+    document.body.style.left = '';
+    document.body.style.right = '';
+    window.scrollTo(0, scrollY);
+
+    window.setTimeout(function () { root.hidden = true; }, 320);
+    if (lastFocus && lastFocus.focus) lastFocus.focus();
+  }
+
+  function onScroll() {
+    var h = document.documentElement.scrollHeight - window.innerHeight;
+    if (h <= 0) return;
+    if ((window.pageYOffset || document.documentElement.scrollTop) / h >= SCROLL_AT) show();
+  }
+
+  var closers = root.querySelectorAll('[data-cbp-close]');
+  for (var i = 0; i < closers.length; i++) {
+    closers[i].addEventListener('click', function () { close(DISMISS_DAYS); });
+  }
+  var cta = root.querySelector('[data-cbp-cta]');
+  // Suppress before navigation, not after: the page is about to unload.
+  if (cta) cta.addEventListener('click', function () { suppress(CLICKED_DAYS); });
+
+  window.addEventListener('scroll', onScroll, { passive: true });
+  timer = window.setTimeout(show, MAX_WAIT);
+})();
