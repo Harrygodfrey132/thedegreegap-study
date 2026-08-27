@@ -1,17 +1,39 @@
 {{/*
   Booking modal for the locations and blog pages.
 
-  Shown by the callback-prompt block in static/js/main.js once per visitor per
-  fortnight, on scroll depth or dwell, whichever comes first. Mobile waits
-  longer and deeper than desktop on purpose: Google's intrusive interstitial
-  rule is mobile-only and aimed at overlays that cover the content straight
-  after a search click, and these are the pages that live on search traffic.
+  The copy is page-aware. A parent reading the Harrogate GCSE Maths page is
+  thinking about Harrogate GCSE Maths, and a modal that opens with a generic
+  question throws away everything the page already knows about them. Location
+  pages carry location, level and subject params, so the headline and the first
+  promise are built from those. Blog posts have none, so they fall back to the
+  general version.
 
-  The photo is Harry and Joe rather than stock, because the copy promises a
-  call with a co-founder and the picture should be the people who pick up.
+  "in {Location}" is fine here. The rule against it is on meta titles, where it
+  implies an office we do not have. In body copy it is just how a parent talks.
 
-  Renders hidden, so with JavaScript off nothing appears and nothing shifts.
+  Shown by the callback-modal block in static/js/main.js. Renders hidden, so
+  with JavaScript off nothing appears and nothing shifts.
 */}}
+{{ $loc := .Params.location }}
+{{ $lvl := .Params.level }}
+{{ $sub := .Params.subject }}
+
+{{/* Most specific thing we can honestly call the tutor on this page. */}}
+{{ $what := "tutor" }}
+{{ if and $lvl $sub }}{{ $what = printf "%s %s tutor" $lvl $sub }}
+{{ else if $lvl }}{{ $what = printf "%s tutor" $lvl }}
+{{ end }}
+
+{{/* "a GCSE tutor" but "an A-Level tutor": A-Level opens on a vowel sound. */}}
+{{ $article := "a" }}
+{{ if hasPrefix $what "A-Level" }}{{ $article = "an" }}{{ end }}
+
+{{ $title := "Not sure where to start?" }}
+{{ if $loc }}{{ $title = printf "Looking for %s %s in %s?" $article $what $loc }}{{ end }}
+
+{{ $match := "Two or three tutor profiles within 24 hours" }}
+{{ if $loc }}{{ $match = printf "Two or three %s profiles within 24 hours" $what }}{{ end }}
+
 <div class="cbp" id="cbp" hidden data-cbp>
   <div class="cbp__scrim" data-cbp-close></div>
   <div class="cbp__card" role="dialog" aria-modal="true" aria-labelledby="cbp-title" tabindex="-1">
@@ -28,26 +50,31 @@
 
     <div class="cbp__body">
       <p class="cbp__eyebrow">Free 15-minute call</p>
-      <h2 class="cbp__title" id="cbp-title">Not sure where to start?</h2>
-      <p class="cbp__lead">Speak to one of us before anything is booked. We will tell you honestly whether tutoring is what your child needs, and which tutor fits if it is.</p>
+      <h2 class="cbp__title" id="cbp-title">{{ $title }}</h2>
+      <p class="cbp__lead">Speak to Harry or Joe before anything is booked. No pitch, and an honest answer on whether tutoring is what your child needs.</p>
 
       <ul class="cbp__points">
         <li>
           <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>
-          <span>Two or three tutor profiles within 24 hours</span>
+          <span>{{ $match }}</span>
         </li>
         <li>
           <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>
-          <span>First lesson from £37, only pay if you continue</span>
+          <span>Matched on your exam board, not just the subject</span>
+        </li>
+        <li>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>
+          <span>First lesson from £37, and only pay if you continue</span>
         </li>
       </ul>
 
-      <a class="cbp__cta" href="{{ "book-a-call/" | relURL }}" data-cbp-cta>Book a free call</a>
+      <a class="cbp__cta" href="{{ "book-a-call/" | relURL }}" data-cbp-cta>Book my free call</a>
 
       <p class="cbp__trust">
         <span class="cbp__stars" aria-hidden="true">★★★★★</span>
         <strong>5.0</strong> from {{ site.Params.googleReviewCount }} Google reviews
       </p>
+      <p class="cbp__award">Tutoring Specialists of the Year 2025 &amp; 2026</p>
       <button type="button" class="cbp__dismiss" data-cbp-close>No thanks, just looking</button>
     </div>
   </div>
