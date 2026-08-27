@@ -529,15 +529,4 @@ document.addEventListener('submit', function(e){
 
   window.addEventListener('scroll', onScroll, { passive: true });
   timer = window.setTimeout(show, MAX_WAIT);
-
-  // Exit intent, desktop only. The pointer leaving through the top of the
-  // window is the one moment where interrupting costs nothing, because the
-  // visitor was already going. Phones have no equivalent gesture, and the
-  // minimum dwell still applies so this cannot fire on a bounce.
-  if (!phone) {
-    document.addEventListener('mouseout', function (e) {
-      if (e.clientY > 0 || e.relatedTarget || e.toElement) return;
-      show();
-    });
-  }
 })();
