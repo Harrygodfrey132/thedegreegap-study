@@ -10365,14 +10365,24 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 .cbp__cta:hover { background: #5A001F; transform: translateY(-1px); }
 .cbp__cta:focus-visible { outline: 3px solid #800020; outline-offset: 3px; }
 
-.cbp__trust {
-  margin: 14px 0 0;
-  text-align: center;
-  font-size: 12.5px;
-  color: #5C4A47;
+.cbp__quote {
+  margin: 16px 0 0;
+  padding: 13px 15px;
+  border-radius: 12px;
+  background: #FAF6F2;
+  border: 1px solid #EFE5DE;
 }
-.cbp__stars { color: #FBBC05; letter-spacing: 0.06em; margin-right: 5px; }
-.cbp__trust strong { color: #2B2321; }
+.cbp__stars { color: #FBBC05; letter-spacing: 0.06em; font-size: 12px; }
+.cbp__quote blockquote {
+  margin: 5px 0 7px;
+  font-size: 13px;
+  line-height: 1.5;
+  color: #2B2321;
+}
+.cbp__quote blockquote::before { content: '"'; }
+.cbp__quote blockquote::after { content: '"'; }
+.cbp__quote figcaption { font-size: 11px; color: #8A7B78; line-height: 1.4; }
+.cbp__quote-sep { margin: 0 3px; }
 
 .cbp__dismiss {
   display: block;
