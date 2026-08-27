@@ -427,9 +427,16 @@ document.addEventListener('submit', function(e){
   var phone = window.matchMedia('(max-width: 720px)').matches;
 
   var KEY = 'tdg_cbp_until';
-  var MIN_DWELL = phone ? 14000 : 6000;
-  var MAX_WAIT = phone ? 34000 : 16000;
-  var SCROLL_AT = phone ? 0.55 : 0.4;
+  var MIN_DWELL = phone ? 7000 : 5000;
+  var MAX_WAIT = phone ? 20000 : 12000;
+  // Screens scrolled, not a share of the page. These pages run from about
+  // 6,000px to 14,400px, so a percentage means wildly different distances:
+  // 40% was 2.2 screens on a level page and 3.9 on a hub, and 55% on mobile
+  // was between 5.0 and 8.8 screens. Nobody reaches that before the fallback
+  // timer fires, which is why the timer was what every visitor actually got.
+  // 1.5 screens is past the hero and into the body on every page type.
+  var SCROLL_SCREENS = 1.5;
+  var DEFER_CAP = 60000;
   var DISMISS_DAYS = 14;
   var CLICKED_DAYS = 90;
 
@@ -473,7 +480,15 @@ document.addEventListener('submit', function(e){
   function show() {
     if (open) return;
     if (Date.now() - start < MIN_DWELL) return;
-    if (formInView()) { window.setTimeout(show, 4000); return; }
+    // Stand down while a booking form is on screen, but not forever. On a
+    // short blog post the sidebar form can sit in the viewport for the whole
+    // visit, and without this cap the dialog would never open on that page at
+    // all. After DEFER_CAP the reader has had the form in front of them for a
+    // minute and not used it, so the prompt is fair.
+    if (formInView() && Date.now() - start < DEFER_CAP) {
+      window.setTimeout(show, 4000);
+      return;
+    }
     open = true;
     if (timer) { window.clearTimeout(timer); timer = null; }
     window.removeEventListener('scroll', onScroll);
@@ -514,9 +529,8 @@ document.addEventListener('submit', function(e){
   }
 
   function onScroll() {
-    var h = document.documentElement.scrollHeight - window.innerHeight;
-    if (h <= 0) return;
-    if ((window.pageYOffset || document.documentElement.scrollTop) / h >= SCROLL_AT) show();
+    var y = window.pageYOffset || document.documentElement.scrollTop;
+    if (y >= window.innerHeight * SCROLL_SCREENS) show();
   }
 
   var closers = root.querySelectorAll('[data-cbp-close]');
