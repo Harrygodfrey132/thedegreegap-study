@@ -1,5 +1,5 @@
 ---
-title: "Brighton GCSE Maths Tutors | Online One-to-One | The Degree Gap"
+title: "Brighton GCSE Maths Tutors | Online | The Degree Gap"
 nav_title: "Maths"
 description: "Online GCSE Maths tutors covering Brighton and Hove, with BHASVIC and Varndean entry grades in mind. Matched on exam board, one-to-one from £37 an hour."
 layout: "level-subject"

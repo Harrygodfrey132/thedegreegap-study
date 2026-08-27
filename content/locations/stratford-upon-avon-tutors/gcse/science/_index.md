@@ -1,5 +1,5 @@
 ---
-title: "Stratford-upon-Avon GCSE Science Tutors | Online | The Degree Gap"
+title: "Stratford-upon-Avon Online GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
 description: "Online GCSE Science tutors covering Stratford-upon-Avon, for Triple and Combined. Required practicals, six-mark answers and the weakest of the three, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Stratford-upon-Avon"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors Covering Stratford-upon-Avon"
+hero_h1: "Stratford-upon-Avon GCSE Science Tutors, Online and One-to-One"
 hero_lead: "Triple Science gets chosen at fourteen and almost never gets revisited, even when one of the three turns out to be the one dragging everything. Our Stratford-upon-Avon GCSE Science tutors work online and start by finding out which of them it is."
 
 angle_eyebrow: "A CHOICE MADE AT FOURTEEN, CARRIED TO SIXTEEN"

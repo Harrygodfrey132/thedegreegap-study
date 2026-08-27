@@ -1,5 +1,5 @@
 ---
-title: "Stevenage GCSE Science Tutors | Combined and Triple | The Degree Gap"
+title: "Stevenage Online GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
 description: "One-to-one GCSE Science tutors for Stevenage families. Required practicals, long-answer marks and the calculations, taught one topic at a time. From £37/hr."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Stevenage"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "GCSE Science Tutors Covering Stevenage"
+hero_h1: "Online GCSE Science Tutors for Stevenage, Matched on Exam Board"
 hero_lead: "Combined science is a lot of content moving quickly, and a student who falls behind in November is often still behind in May because nothing ever slows down enough to catch up. Our Stevenage GCSE Science tutors give back the time to go over it properly."
 
 angle_eyebrow: "WHEN SCIENCE MOVES FASTER THAN THE STUDENT"

@@ -1,5 +1,5 @@
 ---
-title: "Stratford-upon-Avon GCSE Maths Tutors | One-to-One Online | The Degree Gap"
+title: "Stratford-upon-Avon Online GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "GCSE Maths tutors for Stratford-upon-Avon families at King Edward VI, Stratford Girls' Grammar and Alcester Grammar. Matched on AQA, Edexcel or OCR."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Stratford-upon-Avon"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors Covering Stratford-upon-Avon"
+hero_h1: "Online GCSE Maths Tutoring for Stratford-upon-Avon Students"
 hero_lead: "Sitting near the bottom of a Maths set at a Warwickshire grammar tells you almost nothing about the grade, and it tells a fifteen year old rather a lot. Our Stratford-upon-Avon GCSE Maths tutors work from the paper instead of from the set."
 
 angle_eyebrow: "WHAT SET POSITION STOPS TELLING YOU AT SIXTEEN"

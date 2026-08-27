@@ -1,5 +1,5 @@
 ---
-title: "Winchester GCSE Maths Tutors | One-to-One Online | The Degree Gap"
+title: "Online GCSE Maths Tutors | Winchester | The Degree Gap"
 nav_title: "Maths"
 description: "GCSE Maths tutors for Winchester families pushing past a grade 7 on the higher paper. Matched on AQA, Edexcel or OCR, Peter Symonds entry in mind, from £37/hr."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Winchester"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors Covering Winchester"
+hero_h1: "Online GCSE Maths Tutors for Winchester, Matched on Exam Board"
 hero_lead: "A Winchester Year 11 who has never once found Maths hard can still stall at a grade 7, because the last third of the higher paper is not more of the same. Our Winchester GCSE Maths tutors work in that third."
 
 angle_eyebrow: "WHAT THE LAST THIRD OF THE HIGHER PAPER ASKS FOR"

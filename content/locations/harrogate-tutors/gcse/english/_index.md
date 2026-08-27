@@ -1,5 +1,5 @@
 ---
-title: "Harrogate GCSE English Tutors | Online One-to-One | The Degree Gap"
+title: "Harrogate Online GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "Online GCSE English tutors covering Harrogate, working on essay structure, unseen poetry and timed writing. Matched on exam board, one-to-one from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Harrogate"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors Covering Harrogate"
+hero_h1: "Online GCSE English Tutors for Harrogate, Matched on Exam Board"
 hero_lead: "English is the subject where a hard-working Harrogate student can revise all term and watch the grade sit still. Usually because the thing being marked is not what was revised. Our Harrogate GCSE English tutors work online, on the writing itself, week by week."
 
 angle_eyebrow: "WHY REVISION DOES NOT MOVE AN ENGLISH GRADE"

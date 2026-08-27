@@ -1,5 +1,5 @@
 ---
-title: "Southampton A-Level Biology Tutors | Year 12 and Year 13 | The Degree Gap"
+title: "Southampton Online A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
 description: "One-to-one A-Level Biology tutors for Southampton students. Synoptic long answers, required practicals and application questions, matched on specification."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Southampton"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "A-Level Biology Tutors Covering Southampton"
+hero_h1: "Online A-Level Biology Tutors for Southampton, Matched on Exam Board"
 hero_lead: "A-Level Biology is the subject students most often revise thoroughly and still underperform in, because the papers test whether you can apply the content to something you have never seen. Our Southampton A-Level Biology tutors work on that gap between knowing it and using it."
 
 angle_eyebrow: "WHY REVISION AND RESULTS COME APART IN A-LEVEL BIOLOGY"

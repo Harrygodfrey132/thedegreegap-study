@@ -1,5 +1,5 @@
 ---
-title: "GCSE Science Tutors in Manchester | The Degree Gap"
+title: "Manchester Online GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
 description: "GCSE Science tutors covering Manchester, Combined or Triple, for the long-answer and required-practical marks. AQA or Edexcel, from £37/hr."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Manchester"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "GCSE Science Tutors Covering Manchester"
+hero_h1: "Online GCSE Science Tutoring for Manchester Students"
 hero_lead: "Most Manchester students who struggle with GCSE Science are not short on revision. They know the content and still lose marks on the six-mark explanations, the required practicals and the maths tucked inside Physics. Our Manchester GCSE Science tutors work on turning what a student knows into what the mark scheme rewards."
 
 angle_eyebrow: "WHY GCSE SCIENCE IN MANCHESTER, SPECIFICALLY"

@@ -1,5 +1,5 @@
 ---
-title: "Exeter GCSE Maths Tutors | One-to-One Online | The Degree Gap"
+title: "GCSE Maths Tutors Covering Exeter | Online | The Degree Gap"
 nav_title: "Maths"
 description: "GCSE Maths tutors for Exeter families, matched on AQA, Edexcel or OCR. From an Exeter College course minimum to the Exeter Mathematics School bar, from £37/hr."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Exeter"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors Covering Exeter"
+hero_h1: "Online One-to-One GCSE Maths Tutors for Exeter Families"
 hero_lead: "Exeter Year 11s all sit the same Maths paper, then split in two directions, one towards a college course with a published minimum and one towards a sixth form built entirely around Maths. Our Exeter GCSE Maths tutors find whichever paper problem is in the way."
 
 angle_eyebrow: "TWO EXETER MATHS DESTINATIONS, ONE PAPER"

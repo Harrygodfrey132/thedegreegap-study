@@ -1,5 +1,5 @@
 ---
-title: "GCSE Science Tutors in Wigan | The Degree Gap"
+title: "Online GCSE Science Tutors | Wigan | The Degree Gap"
 nav_title: "Science"
 description: "GCSE Science tutors covering Wigan for Combined and Triple, with Biology, Chemistry and Physics specialists for the practicals and long-answer marks. From £37/hr."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Wigan"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "GCSE Science Tutors Covering Wigan"
+hero_h1: "Online GCSE Science Tutoring for Wigan Students"
 hero_lead: "GCSE Science is where a lot of Wigan students quietly lose ground: they revise hard, know the facts, and still drop marks on the long-answer questions and the required practicals. Our Wigan GCSE Science tutors work on the application and exam technique that content revision alone never fixes."
 
 angle_eyebrow: "WHY GCSE SCIENCE IN WIGAN, SPECIFICALLY"

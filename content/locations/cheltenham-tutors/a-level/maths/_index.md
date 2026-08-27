@@ -1,5 +1,5 @@
 ---
-title: "Cheltenham A-Level Maths Tutors | Year 12 and Year 13 | The Degree Gap"
+title: "Cheltenham A-Level Maths Tutors | Online | The Degree Gap"
 nav_title: "Maths"
 description: "One-to-one A-Level Maths tutors for Cheltenham students. Pure, Mechanics and Statistics, matched on Edexcel, AQA or OCR MEI. Online sessions from £37/hr."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Cheltenham"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "A-Level Maths Tutors Covering Cheltenham"
+hero_h1: "Online One-to-One A-Level Maths Tutors for Cheltenham Families"
 hero_lead: "The drop between a strong GCSE Maths grade and the first Year 12 report catches Cheltenham students every autumn, and it is not a sign the subject was the wrong choice. Our Cheltenham A-Level Maths tutors close that gap while the evidence for a predicted grade is still being made."
 
 angle_eyebrow: "THE YEAR 12 DROP IN A-LEVEL MATHS"

@@ -1,5 +1,5 @@
 ---
-title: "St Albans GCSE English Tutors | Language and Literature | The Degree Gap"
+title: "St Albans Online GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "One-to-one GCSE English tutors for St Albans families. Literature essays, unseen poetry and Language writing, marked the way an examiner marks. From £37/hr."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "St Albans"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors Covering St Albans"
+hero_h1: "Online GCSE English Tutors for St Albans, Matched on Exam Board"
 hero_lead: "English is often the subject where a strong St Albans student first meets a grade they did not expect, because it is the one that rewards a way of writing rather than a body of knowledge. Our St Albans GCSE English tutors teach that way of writing directly."
 
 angle_eyebrow: "WHY ENGLISH BEHAVES DIFFERENTLY FROM EVERY OTHER GCSE"

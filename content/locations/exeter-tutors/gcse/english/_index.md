@@ -1,5 +1,5 @@
 ---
-title: "Exeter GCSE English Tutors | One-to-One Online | The Degree Gap"
+title: "Online GCSE English Tutors | Exeter | The Degree Gap"
 nav_title: "English"
 description: "GCSE English tutors for Exeter families, matched on board and set texts. For students who need the grade Exeter College asks for, whatever course they want."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Exeter"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors Covering Exeter"
+hero_h1: "Exeter GCSE English Tutors, Online and One-to-One"
 hero_lead: "He has decided English is not his subject, and since he wants engineering he reckons that is fine. It is not, because nearly every Exeter College course asks for English, and our Exeter GCSE English tutors work mostly with students who would rather be doing something else."
 
 angle_eyebrow: "THE SUBJECT EVERY EXETER ROUTE ASKS FOR"

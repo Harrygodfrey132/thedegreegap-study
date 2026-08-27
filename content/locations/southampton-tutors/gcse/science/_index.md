@@ -1,5 +1,5 @@
 ---
-title: "Southampton GCSE Science Tutors | Online | The Degree Gap"
+title: "Online GCSE Science Tutors | Southampton | The Degree Gap"
 nav_title: "Science"
 description: "Online GCSE Science tutors covering Southampton, for Combined and Triple. Command words, required practicals and six-mark answers, one-to-one from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Southampton"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors Covering Southampton"
+hero_h1: "Online One-to-One GCSE Science Tutors for Southampton Families"
 hero_lead: "Describe and explain are worth different marks, and most students answer them the same way. That single habit costs more on a Science paper than any missing topic. Our Southampton GCSE Science tutors work online and start there."
 
 angle_eyebrow: "THE COMMAND WORD NOBODY REVISES"

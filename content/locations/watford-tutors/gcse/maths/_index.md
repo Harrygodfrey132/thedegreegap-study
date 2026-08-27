@@ -1,5 +1,5 @@
 ---
-title: "Watford GCSE Maths Tutors | The Degree Gap"
+title: "GCSE Maths Tutors Covering Watford | Online | The Degree Gap"
 nav_title: "Maths"
 description: "GCSE Maths tutors covering Watford, matched to the AQA, Edexcel or OCR spec taught at the grammars and Queens' alike. One-to-one online, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Watford"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors Covering Watford"
+hero_h1: "Online GCSE Maths Tutors Covering Watford"
 hero_lead: "Two students in the same Watford Year 11 can need completely different things from a Maths hour, and one of them usually isn't getting it. Our Watford GCSE Maths tutors read which brief is in front of them, then work the question styles losing the marks."
 
 angle_eyebrow: "WHAT WATFORD GCSE MATHS ACTUALLY ASKS FOR"

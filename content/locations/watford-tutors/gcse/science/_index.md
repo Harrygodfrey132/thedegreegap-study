@@ -1,5 +1,5 @@
 ---
-title: "Watford GCSE Science Tutors | The Degree Gap"
+title: "Online GCSE Science Tutors | Watford | The Degree Gap"
 nav_title: "Science"
 description: "GCSE Science tutors covering Watford for Combined or Triple, matched to Biology, Chemistry or Physics on the AQA or Edexcel spec. One-to-one, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Watford"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "GCSE Science Tutors Covering Watford"
+hero_h1: "Online GCSE Science Tutoring for Watford Students"
 hero_lead: "Combined Science is two GCSEs and three subjects sharing one revision timetable, and it usually comes apart in whichever of the three nobody enjoys. Our Watford GCSE Science tutors work out which one is dragging the grade and fix that, rather than revising all three thinly."
 
 angle_eyebrow: "WHY WATFORD GCSE SCIENCE IS THREE PROBLEMS"

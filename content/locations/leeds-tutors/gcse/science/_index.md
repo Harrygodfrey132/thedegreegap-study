@@ -1,5 +1,5 @@
 ---
-title: "GCSE Science Tutors in Leeds | The Degree Gap"
+title: "Leeds GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
 description: "GCSE Science tutors covering Leeds, Combined or Triple, with Biology, Chemistry and Physics specialists for the practicals and long-answer marks. From £37/hr."
 layout: "level-subject"

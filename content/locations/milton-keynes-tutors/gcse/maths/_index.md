@@ -1,12 +1,12 @@
 ---
-title: "Milton Keynes GCSE Maths Tutors | The Degree Gap"
+title: "Online GCSE Maths Tutors | Milton Keynes | The Degree Gap"
 description: "GCSE Maths tutors covering Milton Keynes, matched to the AQA, Edexcel or OCR paper taught at Denbigh, Walton High or Oakgrove. Higher and foundation, from £37 an hour."
 layout: "level-subject"
 location: "Milton Keynes"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors Covering Milton Keynes"
+hero_h1: "Online GCSE Maths Tutors for Milton Keynes, Matched on Exam Board"
 hero_lead: "The call we take most often here is from a family whose Year 11 is tracking a 5 when they were hoping for a 7. Our Milton Keynes GCSE Maths tutors find out which parts of the paper that gap is actually sitting in, because it is rarely spread evenly across the subject."
 
 angle_eyebrow: "WHERE THE MARKS GO IN A MILTON KEYNES MOCK"

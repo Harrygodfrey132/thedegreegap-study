@@ -1,5 +1,5 @@
 ---
-title: "GCSE English Tutors in Birmingham | The Degree Gap"
+title: "Online GCSE English Tutors | Birmingham | The Degree Gap"
 nav_title: "English"
 description: "GCSE English tutors covering Birmingham for Language and Literature, building the essay structure and timing that turn understanding into marks. From £37/hr."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Birmingham"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors Covering Birmingham"
+hero_h1: "Online GCSE English Tutors Covering Birmingham"
 hero_lead: "In Birmingham the GCSE English grade that decides a sixth-form route often comes down to what a student can put on the page in the exam hall, not what they understand about the text. Our Birmingham GCSE English tutors build the essay structure and timing that turn understanding into marks."
 
 angle_eyebrow: "WHY GCSE ENGLISH IN BIRMINGHAM, SPECIFICALLY"

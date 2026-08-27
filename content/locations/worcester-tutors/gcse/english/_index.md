@@ -1,5 +1,5 @@
 ---
-title: "Worcester GCSE English Tutors | Online One-to-One | The Degree Gap"
+title: "Online GCSE English Tutors | Worcester | The Degree Gap"
 nav_title: "English"
 description: "Online GCSE English tutors covering Worcester, working on closed-book quote recall, essay structure and timing. Matched on set texts and board, from £37 an hour."
 layout: "level-subject"

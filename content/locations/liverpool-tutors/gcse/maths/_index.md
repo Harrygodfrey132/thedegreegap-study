@@ -1,5 +1,5 @@
 ---
-title: "Liverpool GCSE Maths Tutors | The Degree Gap"
+title: "Online GCSE Maths Tutors | Liverpool | The Degree Gap"
 nav_title: "Maths"
 description: "Liverpool GCSE Maths tutors matched to the AQA, Edexcel or OCR paper your child actually sits. One-to-one work on higher tier and Paper 3, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Liverpool"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors Covering Liverpool"
+hero_h1: "Online GCSE Maths Tutors Covering Liverpool"
 hero_lead: "The revision is happening. The mark isn't moving. Our Liverpool GCSE Maths tutors start by marking a recent higher paper, then work out whether the marks are going on method or on the way the question was read."
 
 angle_eyebrow: "WHY GCSE MATHS IN LIVERPOOL, SPECIFICALLY"

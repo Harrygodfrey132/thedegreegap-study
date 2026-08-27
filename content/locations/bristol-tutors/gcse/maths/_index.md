@@ -1,5 +1,5 @@
 ---
-title: "Bristol GCSE Maths Tutors | The Degree Gap"
+title: "GCSE Maths Tutors Covering Bristol | Online | The Degree Gap"
 nav_title: "Maths"
 description: "Bristol GCSE Maths tutors matched to the AQA, Edexcel or OCR paper your child sits, working the higher tier and the back of Paper 3. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Bristol"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors Covering Bristol"
+hero_h1: "Online GCSE Maths Tutors for Bristol, Matched on Exam Board"
 hero_lead: "Most Bristol parents get in touch when the hours have gone up and the mark hasn't. Our Bristol GCSE Maths tutors mark a recent higher paper before planning anything, because the reason is usually narrower than it looks from home."
 
 angle_eyebrow: "WHY GCSE MATHS IN BRISTOL, SPECIFICALLY"

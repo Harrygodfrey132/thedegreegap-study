@@ -1,5 +1,5 @@
 ---
-title: "Harrogate GCSE Maths Tutors | Online One-to-One | The Degree Gap"
+title: "Harrogate GCSE Maths Tutors | Online | The Degree Gap"
 nav_title: "Maths"
 description: "Online GCSE Maths tutors covering Harrogate, matched on AQA, Edexcel or OCR and on the questions actually losing marks. Weekly one-to-one, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Harrogate"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors Covering Harrogate"
+hero_h1: "Online GCSE Maths Tutoring for Harrogate Students"
 hero_lead: "Most Harrogate parents who call us about Maths are not holding a bad report. They are holding a mock that came back a grade under the one everyone had in mind. Our Harrogate GCSE Maths tutors work online, weekly, on the questions where those marks are actually going."
 
 angle_eyebrow: "WHERE THE MARKS GO ON A HARROGATE MATHS MOCK"

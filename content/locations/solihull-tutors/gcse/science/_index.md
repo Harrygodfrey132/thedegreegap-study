@@ -1,5 +1,5 @@
 ---
-title: "Solihull GCSE Science Tutors | Biology, Chemistry, Physics | The Degree Gap"
+title: "Online GCSE Science Tutors | Solihull | The Degree Gap"
 nav_title: "Science"
 description: "GCSE Science tutors for Solihull families, triple or combined, matched on AQA, Edexcel or OCR. Required practicals rebuilt as method, from £37/hr."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Solihull"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "GCSE Science Tutors Covering Solihull"
+hero_h1: "Online GCSE Science Tutoring for Solihull Students"
 hero_lead: "A fixed share of every Science paper comes back to experiments your child has already run in a school lab, and it is almost always the last thing anybody revises. Our Solihull GCSE Science tutors start there, because those are the most winnable marks on the paper."
 
 angle_eyebrow: "THE MOST WINNABLE MARKS ON A SCIENCE PAPER"

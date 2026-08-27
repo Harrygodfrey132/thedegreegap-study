@@ -1,5 +1,5 @@
 ---
-title: "London GCSE English Tutors | The Degree Gap"
+title: "London GCSE English Tutors | Online | The Degree Gap"
 nav_title: "English"
 description: "London GCSE English tutors for Language and Literature, matched to the AQA or Edexcel spec your child's school teaches. One-to-one, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "London"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors Covering London"
+hero_h1: "Online One-to-One GCSE English Tutors for London Families"
 hero_lead: "Most GCSE English marks are lost on the page, not in the reading. Our London GCSE English tutors work on essay structure, evidence selection and the timing that decides how much of the answer actually gets written."
 
 angle_eyebrow: "WHY GCSE ENGLISH ACROSS LONDON, SPECIFICALLY"

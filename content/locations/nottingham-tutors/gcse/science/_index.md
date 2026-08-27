@@ -1,5 +1,5 @@
 ---
-title: "Nottingham GCSE Science Tutors | Online | The Degree Gap"
+title: "Nottingham Online GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
 description: "Online GCSE Science tutors covering Nottingham, for Combined and Triple. Required practicals, six-mark answers and the maths inside Physics, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Nottingham"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors Covering Nottingham"
+hero_h1: "Online GCSE Science Tutoring for Nottingham Students"
 hero_lead: "A lot of Nottingham students lose Science marks to Maths rather than to Science. Rearranging, converting, reading a graph. Our Nottingham GCSE Science tutors work online and find out which of the three subjects is really costing the grade before planning anything."
 
 angle_eyebrow: "THE MATHS HIDING INSIDE A SCIENCE PAPER"

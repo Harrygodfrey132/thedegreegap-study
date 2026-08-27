@@ -1,5 +1,5 @@
 ---
-title: "GCSE Maths Tutors in Birmingham | The Degree Gap"
+title: "Birmingham GCSE Maths Tutors | Online | The Degree Gap"
 nav_title: "Maths"
 description: "GCSE Maths tutors covering Birmingham who trace a slipping grade back to its root and rebuild before mocks. Online, AQA or Edexcel, from £37/hr."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Birmingham"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors Covering Birmingham"
+hero_h1: "Online GCSE Maths Tutors for Birmingham, Matched on Exam Board"
 hero_lead: "By Year 11, a slipping GCSE Maths grade in Birmingham usually traces back to a Year 8 or 9 topic nobody re-explained. Our Birmingham GCSE Maths tutors find that root gap in the first session and rebuild it, before the mock that fixes the predicted grade a sixth form will see."
 
 angle_eyebrow: "WHY GCSE MATHS IN BIRMINGHAM, SPECIFICALLY"

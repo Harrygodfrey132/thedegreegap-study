@@ -1,5 +1,5 @@
 ---
-title: "Sheffield GCSE Maths Tutors | The Degree Gap"
+title: "Sheffield GCSE Maths Tutors | Online | The Degree Gap"
 nav_title: "Maths"
 description: "Sheffield GCSE Maths tutors matched to the AQA, Edexcel or OCR paper your child sits, working on higher tier and the back of Paper 3. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Sheffield"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors Covering Sheffield"
+hero_h1: "Online GCSE Maths Tutors Covering Sheffield"
 hero_lead: "A Sheffield sixth form publishes a number, and a mock paper comes back under it. Our Sheffield GCSE Maths tutors work backwards from that number, starting with the questions where the marks are actually being lost."
 
 angle_eyebrow: "WHY GCSE MATHS IN SHEFFIELD, SPECIFICALLY"

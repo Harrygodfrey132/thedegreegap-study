@@ -1,5 +1,5 @@
 ---
-title: "Cheltenham GCSE Maths Tutors | One-to-One Online | The Degree Gap"
+title: "Cheltenham Online GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "One-to-one GCSE Maths tutors for Cheltenham families, matched on AQA, Edexcel or OCR. From a safe grade 4 to the band a competitive sixth form asks for."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Cheltenham"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors Covering Cheltenham"
+hero_h1: "Online GCSE Maths Tutors Covering Cheltenham"
 hero_lead: "By the time most Cheltenham parents call us about Maths, the revision guides are stacked on the kitchen table and the latest mock came back the same as the one before it. Our Cheltenham GCSE Maths tutors find which questions are losing the marks, then work those."
 
 angle_eyebrow: "WHY GCSE MATHS IN CHELTENHAM IS ITS OWN PROBLEM"

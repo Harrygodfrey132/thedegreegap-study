@@ -1,5 +1,5 @@
 ---
-title: "Portsmouth GCSE Maths Tutors | Online One-to-One | The Degree Gap"
+title: "Portsmouth GCSE Maths Tutors | Online | The Degree Gap"
 nav_title: "Maths"
 description: "Online GCSE Maths tutors covering Portsmouth, including the foundation and higher tier decision. Matched on AQA, Edexcel or OCR, from £37 an hour."
 layout: "level-subject"

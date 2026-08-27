@@ -7,7 +7,7 @@ location: "Stevenage"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors Covering Stevenage"
+hero_h1: "Stevenage A-Level Biology Tutors, Online and One-to-One"
 hero_lead: "A-Level Biology is the subject students think they can revise by reading, right up until the first paper comes back. Our Stevenage A-Level Biology tutors work online, on the answers themselves, because that is what the marks are actually for."
 
 angle_eyebrow: "WHY READING IT AGAIN CHANGES NOTHING"

@@ -1,5 +1,5 @@
 ---
-title: "Solihull GCSE Maths Tutors | One-to-One Online | The Degree Gap"
+title: "Solihull GCSE Maths Tutors | Online | The Degree Gap"
 nav_title: "Maths"
 description: "GCSE Maths tutors for Solihull families working the step from a grade 6 to a 7. Matched on AQA, Edexcel or OCR, with local sixth form entry in mind."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Solihull"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors Covering Solihull"
+hero_h1: "Solihull GCSE Maths Tutors, Online and One-to-One"
 hero_lead: "The report says grade 6, the sixth form wants a 7, and everybody at home has been told those are basically the same thing. They are not, and our Solihull GCSE Maths tutors spend most of their time in the gap between those two numbers."
 
 angle_eyebrow: "THE GAP BETWEEN A SOLIHULL 6 AND A SOLIHULL 7"

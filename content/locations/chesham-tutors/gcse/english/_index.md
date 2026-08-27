@@ -1,5 +1,5 @@
 ---
-title: "Chesham GCSE English Tutors | One-to-One Online | The Degree Gap"
+title: "Chesham GCSE English Tutors | Online | The Degree Gap"
 nav_title: "English"
 description: "GCSE English Language and Literature tutors for Chesham families, matched on AQA, Edexcel or Eduqas. For grammar and upper school students alike, from £37/hr."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Chesham"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors Covering Chesham"
+hero_h1: "Online One-to-One GCSE English Tutors for Chesham Families"
 hero_lead: "The Maths grade came back fine and the English one did not, and nobody at home can work out why, given how much she reads. Our Chesham GCSE English tutors start where reading well stops being the same thing as writing to a mark scheme."
 
 angle_eyebrow: "WHERE THE CHESHAM ELEVEN PLUS STOPS HELPING"

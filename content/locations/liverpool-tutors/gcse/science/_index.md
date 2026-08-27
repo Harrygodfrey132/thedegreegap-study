@@ -1,5 +1,5 @@
 ---
-title: "Liverpool GCSE Science Tutors | The Degree Gap"
+title: "Liverpool Online GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
 description: "Liverpool GCSE Science tutors for Combined and Triple, with Biology, Chemistry and Physics specialists for the required practicals and long-answer marks."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Liverpool"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "GCSE Science Tutors Covering Liverpool"
+hero_h1: "Liverpool GCSE Science Tutors, Online and One-to-One"
 hero_lead: "Science is the subject where revision and marks come apart most visibly. Our Liverpool GCSE Science tutors work out whether the marks are going on recall, on the six-mark answers, or on the maths hiding inside Physics and Chemistry."
 
 angle_eyebrow: "WHY GCSE SCIENCE IN LIVERPOOL, SPECIFICALLY"

@@ -1,5 +1,5 @@
 ---
-title: "Leicester A-Level Maths Tutors | Online One-to-One | The Degree Gap"
+title: "Leicester Online A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Online A-Level Maths tutors covering Leicester, for Year 12 and Year 13. Pure, Mechanics and Statistics, matched on exam board, one-to-one from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Leicester"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors Covering Leicester"
+hero_h1: "Online One-to-One A-Level Maths Tutors for Leicester Families"
 hero_lead: "A lot of Leicester students are the first in the family to sit A-Levels, which means nobody at the kitchen table can tell them what a full-mark solution looks like. Our Leicester A-Level Maths tutors work online and show them, week by week."
 
 angle_eyebrow: "THE ANSWER IS RIGHT AND THE MARKS ARE MISSING"

@@ -1,5 +1,5 @@
 ---
-title: "Leamington Spa GCSE Maths Tutors | Online | The Degree Gap"
+title: "Royal Leamington Spa Online GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Online GCSE Maths tutors covering Royal Leamington Spa, working on retrieval and mixed-topic papers. Matched on AQA, Edexcel or OCR, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Royal Leamington Spa"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors Covering Royal Leamington Spa"
+hero_h1: "Online GCSE Maths Tutors for Royal Leamington Spa, Matched on Exam Board"
 hero_lead: "It clicked in the lesson. It clicked in the homework. Three weeks later, on a mixed paper, it has gone. Our Royal Leamington Spa GCSE Maths tutors work online on exactly that gap, because it is the most common one and the least talked about."
 
 angle_eyebrow: "UNDERSTOOD IT THEN, CANNOT DO IT NOW"

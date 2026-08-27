@@ -1,5 +1,5 @@
 ---
-title: "Aylesbury GCSE English Tutors | The Degree Gap"
+title: "Aylesbury GCSE English Tutors | Online | The Degree Gap"
 nav_title: "English"
 description: "GCSE English tutors covering Aylesbury for Language and Literature, matched to the AQA or Edexcel set texts taught across the Aylesbury Vale. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Aylesbury"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors Covering Aylesbury"
+hero_h1: "Aylesbury GCSE English Tutors, Online and One-to-One"
 hero_lead: "You have read the essay. It is not bad. It is just not a 7, and nobody at school has been able to tell you what the difference actually is. Our Aylesbury GCSE English tutors can name it, usually within one marked script."
 
 angle_eyebrow: "WHERE AYLESBURY ENGLISH ESSAYS LOSE A BAND"

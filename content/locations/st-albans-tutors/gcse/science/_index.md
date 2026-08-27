@@ -1,5 +1,5 @@
 ---
-title: "St Albans GCSE Science Tutors | Triple and Combined | The Degree Gap"
+title: "Online GCSE Science Tutors | St Albans | The Degree Gap"
 nav_title: "Science"
 description: "One-to-one GCSE Science tutors for St Albans families. Required practicals, long-answer structure and the calculation marks, across triple and combined."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "St Albans"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "GCSE Science Tutors Covering St Albans"
+hero_h1: "Online One-to-One GCSE Science Tutors for St Albans Families"
 hero_lead: "Triple science is three GCSEs run at the pace of two, and it is common for a St Albans student to hold two of the three comfortably and lose ground in the other. Our St Albans GCSE Science tutors work the one that is costing marks rather than all three at once."
 
 angle_eyebrow: "HOW SCIENCE MARKS ARE ACTUALLY DISTRIBUTED"

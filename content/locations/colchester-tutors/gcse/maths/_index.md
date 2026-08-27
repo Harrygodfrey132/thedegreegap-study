@@ -1,5 +1,5 @@
 ---
-title: "Colchester GCSE Maths Tutors | Online One-to-One | The Degree Gap"
+title: "Colchester GCSE Maths Tutors | Online | The Degree Gap"
 nav_title: "Maths"
 description: "One-to-one GCSE Maths tutors for Colchester families, matched on AQA, Edexcel or OCR and on the grade the next step actually asks for. From £37/hr."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Colchester"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors Covering Colchester"
+hero_h1: "Online GCSE Maths Tutors Covering Colchester"
 hero_lead: "Nearly every Colchester Year 11 is heading somewhere that publishes a Maths number on its entry requirements. Our Colchester GCSE Maths tutors start from that number and work backwards, rather than starting at the top of the specification and hoping."
 
 angle_eyebrow: "GCSE MATHS AND THE NUMBER COLCHESTER STUDENTS NEED"

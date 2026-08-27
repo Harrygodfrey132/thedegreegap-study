@@ -1,5 +1,5 @@
 ---
-title: "York GCSE Maths Tutors | Online One-to-One | The Degree Gap"
+title: "York Online GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Online GCSE Maths tutors covering York, with sixth form and degree requirements in view. Matched on AQA, Edexcel or OCR, one-to-one from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "York"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors Covering York"
+hero_h1: "York GCSE Maths Tutors, Online and One-to-One"
 hero_lead: "GCSE Maths is the subject that quietly closes doors years later, which is why York parents tend to ask about it earliest. Our York GCSE Maths tutors work online, weekly, on the questions deciding where that grade lands."
 
 angle_eyebrow: "THE GRADE THAT KEEPS BEING ASKED FOR"

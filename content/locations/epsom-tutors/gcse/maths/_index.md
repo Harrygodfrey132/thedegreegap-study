@@ -1,5 +1,5 @@
 ---
-title: "Epsom GCSE Maths Tutors | The Degree Gap"
+title: "Epsom GCSE Maths Tutors | One-to-One Online | The Degree Gap"
 nav_title: "Maths"
 description: "GCSE Maths tutors covering Epsom, working the higher-paper questions that separate a 6 from an 8 for Glyn and Rosebery sixth-form places. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Epsom"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors Covering Epsom"
+hero_h1: "Online GCSE Maths Tutors Covering Epsom"
 hero_lead: "The report says your child is doing well. The conversation at the school gate is about 8s and 9s. Both things are true at once, and that is the particular discomfort of a Surrey Year 11. Our Epsom GCSE Maths tutors deal in the specific marks between those two positions."
 
 angle_eyebrow: "WHAT SEPARATES A 6 FROM AN 8 AROUND EPSOM"

@@ -1,12 +1,12 @@
 ---
-title: "Canterbury GCSE Maths Tutors | The Degree Gap"
+title: "Canterbury GCSE Maths Tutors | Online | The Degree Gap"
 description: "GCSE Maths tutors covering Canterbury, matched to the board taught at Simon Langton, Barton Court or The Canterbury Academy. Higher and foundation tier."
 layout: "level-subject"
 location: "Canterbury"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors Covering Canterbury"
+hero_h1: "Online GCSE Maths Tutors for Canterbury, Matched on Exam Board"
 hero_lead: "The Kent Test sorted this city's students at eleven, and Maths is the subject where that sorting still gets felt at sixteen. Our Canterbury GCSE Maths tutors work the questions actually costing the grade, whichever school your child ended up at."
 
 angle_eyebrow: "WHERE A CANTERBURY MATHS GRADE GOES"

@@ -1,12 +1,12 @@
 ---
-title: "Canterbury GCSE Science Tutors | The Degree Gap"
+title: "Canterbury Online GCSE Science Tutors | The Degree Gap"
 description: "GCSE Science tutors covering Canterbury for Triple or Combined, matched on Biology, Chemistry or Physics and the board taught at your child's school."
 layout: "level-subject"
 location: "Canterbury"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "GCSE Science Tutors Covering Canterbury"
+hero_h1: "Canterbury GCSE Science Tutors, Online and One-to-One"
 hero_lead: "One grade covers three subjects, which is why Science is the hardest GCSE to read from a report. Our Canterbury GCSE Science tutors start by asking which of the three your child would drop tomorrow if they could, because that answer is usually the grade."
 
 angle_eyebrow: "TRIPLE, COMBINED AND THE DECISION UNDERNEATH"

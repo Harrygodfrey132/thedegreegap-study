@@ -1,5 +1,5 @@
 ---
-title: "Colchester GCSE Science Tutors | Combined and Triple | The Degree Gap"
+title: "Colchester GCSE Science Tutors | Online | The Degree Gap"
 nav_title: "Science"
 description: "One-to-one GCSE Science tutors for Colchester families. Required practicals, long-answer structure and the calculation marks, across combined and triple."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Colchester"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "GCSE Science Tutors Covering Colchester"
+hero_h1: "Online GCSE Science Tutors for Colchester, Matched on Exam Board"
 hero_lead: "Science is three subjects taught as one qualification, and a Colchester student can be steady in two of them and quietly sinking in the third. Our Colchester GCSE Science tutors find which one is pulling the grade down and work there."
 
 angle_eyebrow: "THE SCIENCE PAPER AND WHAT IT REWARDS"

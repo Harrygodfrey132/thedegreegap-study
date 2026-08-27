@@ -1,5 +1,5 @@
 ---
-title: "Colchester A-Level Maths Tutors | Online | The Degree Gap"
+title: "Online A-Level Maths Tutors | Colchester | The Degree Gap"
 nav_title: "Maths"
 description: "Online A-Level Maths tutors covering Colchester, for Year 12 and Year 13 at CSFC and the grammar sixth forms. Matched on exam board, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Colchester"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors Covering Colchester"
+hero_h1: "Online One-to-One A-Level Maths Tutors for Colchester Families"
 hero_lead: "A large sixth form college is a good thing with one cost attached, which is that nobody has time to watch how one student writes a solution. Our Colchester A-Level Maths tutors work online and spend the hour doing exactly that."
 
 angle_eyebrow: "NOBODY IS WATCHING THE WORKING"

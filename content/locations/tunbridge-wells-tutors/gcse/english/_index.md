@@ -1,5 +1,5 @@
 ---
-title: "Tunbridge Wells GCSE English Tutors | Online | The Degree Gap"
+title: "Tunbridge Wells Online GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "Online GCSE English tutors covering Tunbridge Wells, working on analysis, comparison and timed writing. Matched on set texts and exam board, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Tunbridge Wells"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors Covering Tunbridge Wells"
+hero_h1: "Online One-to-One GCSE English Tutors for Tunbridge Wells Families"
 hero_lead: "A lot of Tunbridge Wells students were strong readers at eleven and have been coasting on it ever since. Then the Literature mock comes back a band lower than expected. Our Tunbridge Wells GCSE English tutors work online, on the writing, with the essay open on screen."
 
 angle_eyebrow: "WHEN BEING GOOD AT ENGLISH STOPS BEING ENOUGH"

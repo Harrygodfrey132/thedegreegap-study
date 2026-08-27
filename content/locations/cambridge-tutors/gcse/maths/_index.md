@@ -1,5 +1,5 @@
 ---
-title: "Cambridge GCSE Maths Tutors | The Degree Gap"
+title: "Cambridge Online GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "GCSE Maths tutors covering Cambridge, matched to the board taught at Chesterton, Parkside or The Perse. Higher and foundation tier, one-to-one from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Cambridge"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors Covering Cambridge"
+hero_h1: "Online GCSE Maths Tutoring for Cambridge Students"
 hero_lead: "In one Cambridge household the worry is a secure pass; three streets away it is whether a 7 will hold for Hills Road. Our Cambridge GCSE Maths tutors work out which of those two briefs is in front of them before planning a single lesson."
 
 angle_eyebrow: "TWO DIFFERENT MATHS PROBLEMS IN ONE CITY"

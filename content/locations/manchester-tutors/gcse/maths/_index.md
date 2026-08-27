@@ -1,5 +1,5 @@
 ---
-title: "GCSE Maths Tutors in Manchester | The Degree Gap"
+title: "Manchester GCSE Maths Tutors | Online | The Degree Gap"
 nav_title: "Maths"
 description: "GCSE Maths tutors covering Manchester, from a steady grade 5 for college to the 7 Xaverian and the Trafford grammars want. Online, AQA, Edexcel or OCR, from £37/hr."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Manchester"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors Covering Manchester"
+hero_h1: "Manchester GCSE Maths Tutors, Online and One-to-One"
 hero_lead: "By the time most Manchester parents reach us about GCSE Maths, the effort is there but the paper lands a grade short of target, a shaky 5 or a 6 where a Xaverian Science route asks for a 7. Our Manchester GCSE Maths tutors find where the marks leak and rebuild from there."
 
 angle_eyebrow: "WHY GCSE MATHS IN MANCHESTER, SPECIFICALLY"

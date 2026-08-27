@@ -1,5 +1,5 @@
 ---
-title: "London GCSE Maths Tutors | The Degree Gap"
+title: "GCSE Maths Tutors Covering London | Online | The Degree Gap"
 nav_title: "Maths"
 description: "London GCSE Maths tutors matched to the AQA, Edexcel or OCR paper your child actually sits. One-to-one work on the higher tier and Paper 3, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "London"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors Covering London"
+hero_h1: "Online GCSE Maths Tutoring for London Students"
 hero_lead: "By the time most London parents get in touch about GCSE Maths, the effort is there and the mark isn't moving. Our London GCSE Maths tutors sit the student through a recent higher paper and find where the marks are actually going."
 
 angle_eyebrow: "WHY GCSE MATHS ACROSS LONDON, SPECIFICALLY"

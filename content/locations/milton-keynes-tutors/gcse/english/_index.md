@@ -1,12 +1,12 @@
 ---
-title: "Milton Keynes GCSE English Tutors | The Degree Gap"
+title: "Milton Keynes Online GCSE English Tutors | The Degree Gap"
 description: "GCSE English tutors covering Milton Keynes for Language and Literature, matched to the set texts and board taught at Denbigh, Walton High and Shenley Brook End."
 layout: "level-subject"
 location: "Milton Keynes"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors Covering Milton Keynes"
+hero_h1: "Online GCSE English Tutors Covering Milton Keynes"
 hero_lead: "English is the subject where a parent can read the essay, think it looks perfectly good, and have no idea why it scored a 5. Our Milton Keynes GCSE English tutors mark it in front of the student and show them exactly where the band boundary sits."
 
 angle_eyebrow: "WHY A DECENT ESSAY SCORES A 5"

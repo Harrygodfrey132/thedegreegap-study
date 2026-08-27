@@ -1,5 +1,5 @@
 ---
-title: "Chesham GCSE Science Tutors | Biology, Chemistry, Physics | The Degree Gap"
+title: "Online GCSE Science Tutors | Chesham | The Degree Gap"
 nav_title: "Science"
 description: "GCSE Science tutors for Chesham families, combined or triple, matched on AQA, Edexcel or OCR. Biology, Chemistry and Physics taught as three subjects, from £37/hr."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Chesham"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "GCSE Science Tutors Covering Chesham"
+hero_h1: "Chesham GCSE Science Tutors, Online and One-to-One"
 hero_lead: "Biology comes back fine, Chemistry lands a grade lower, and nobody has mentioned Physics since October. Our Chesham GCSE Science tutors treat those as three separate problems, because on the paper that is exactly what they are."
 
 angle_eyebrow: "ONE SCIENCE GRADE, THREE DIFFERENT PROBLEMS"

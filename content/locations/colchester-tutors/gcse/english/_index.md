@@ -1,5 +1,5 @@
 ---
-title: "Colchester GCSE English Tutors | Language and Literature | The Degree Gap"
+title: "Colchester Online GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "One-to-one GCSE English tutors for Colchester families. Literature essays, unseen poetry and Language writing tasks, taught to the mark scheme. From £37/hr."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Colchester"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors Covering Colchester"
+hero_h1: "Colchester GCSE English Tutors, Online and One-to-One"
 hero_lead: "English is the GCSE where effort and grade come apart most visibly, and a Colchester Year 11 can revise a set text thoroughly and still write a grade 4 essay about it. Our Colchester GCSE English tutors work on how the answer is built, not on how much is known."
 
 angle_eyebrow: "WHAT ACTUALLY DECIDES A GCSE ENGLISH GRADE"

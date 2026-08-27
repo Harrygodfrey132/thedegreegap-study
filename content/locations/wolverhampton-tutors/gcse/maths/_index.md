@@ -1,12 +1,12 @@
 ---
-title: "Wolverhampton GCSE Maths Tutors | The Degree Gap"
+title: "Wolverhampton Online GCSE Maths Tutors | The Degree Gap"
 description: "GCSE Maths tutors covering Wolverhampton, matched to the AQA, Edexcel or OCR paper taught at Highfields, Heath Park or Smestow. Higher and foundation tier."
 layout: "level-subject"
 location: "Wolverhampton"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors Covering Wolverhampton"
+hero_h1: "Online GCSE Maths Tutoring for Wolverhampton Students"
 hero_lead: "A lot of the families we work with here are sending the first person in the household to university, and Maths is the subject that most often stands in the way. Our Wolverhampton GCSE Maths tutors work the specific questions costing the grade rather than the whole syllabus."
 
 angle_eyebrow: "WHERE A WOLVERHAMPTON MATHS GRADE GOES"

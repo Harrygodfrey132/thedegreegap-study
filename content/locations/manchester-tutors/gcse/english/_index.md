@@ -1,5 +1,5 @@
 ---
-title: "GCSE English Tutors in Manchester | The Degree Gap"
+title: "Online GCSE English Tutors | Manchester | The Degree Gap"
 nav_title: "English"
 description: "GCSE English tutors covering Manchester for Language and Literature, from a secure grade 5 to the 7 Xaverian and Loreto humanities routes want. From £37/hr."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Manchester"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors Covering Manchester"
+hero_h1: "Online One-to-One GCSE English Tutors for Manchester Families"
 hero_lead: "A Xaverian or Loreto humanities offer often turns on a grade 6 in English becoming a 7, and that gap lives in the writing, not the reading. Our Manchester GCSE English tutors fix the comparison-essay structure and the timed paragraphs that decide it."
 
 angle_eyebrow: "WHY GCSE ENGLISH IN MANCHESTER, SPECIFICALLY"

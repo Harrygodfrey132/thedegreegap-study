@@ -1,5 +1,5 @@
 ---
-title: "Solihull GCSE English Tutors | One-to-One Online | The Degree Gap"
+title: "Solihull Online GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "GCSE English Language and Literature tutors for Solihull families, matched on board and set texts. For the Language grade that revision alone will not move."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Solihull"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors Covering Solihull"
+hero_h1: "Online One-to-One GCSE English Tutors for Solihull Families"
 hero_lead: "She revised English properly for the first time this year, and the Literature grade moved while the Language one sat exactly where it had been. Our Solihull GCSE English tutors work on the paper that does not answer to revision, because it wants practice instead."
 
 angle_eyebrow: "THE ENGLISH PAPER REVISION DOES NOT FIX"

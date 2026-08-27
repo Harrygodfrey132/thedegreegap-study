@@ -1,5 +1,5 @@
 ---
-title: "Stevenage GCSE English Tutors | Language and Literature | The Degree Gap"
+title: "Stevenage GCSE English Tutors | Online | The Degree Gap"
 nav_title: "English"
 description: "One-to-one GCSE English tutors for Stevenage families. Essay planning, evidence and timed writing taught directly, for Language and Literature. From £37/hr."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Stevenage"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors Covering Stevenage"
+hero_h1: "Online GCSE English Tutors Covering Stevenage"
 hero_lead: "Most students are never explicitly taught how to plan an essay. They are told to plan, marked on the result, and left to work out the middle themselves. Our Stevenage GCSE English tutors teach that middle part directly, which is where a lot of the missing marks live."
 
 angle_eyebrow: "THE PART OF ENGLISH NOBODY TEACHES"

@@ -1,5 +1,5 @@
 ---
-title: "Portsmouth GCSE Science Tutors | Online | The Degree Gap"
+title: "Online GCSE Science Tutors | Portsmouth | The Degree Gap"
 nav_title: "Science"
 description: "Online GCSE Science tutors covering Portsmouth, for Combined and Triple. Tiering, required practicals and six-mark answers, one-to-one from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Portsmouth"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors Covering Portsmouth"
+hero_h1: "Portsmouth GCSE Science Tutors, Online and One-to-One"
 hero_lead: "Science is tiered too, and almost nobody talks about it at home the way they talk about Maths. Our Portsmouth GCSE Science tutors work online and check that decision alongside the marks, because the two are the same conversation."
 
 angle_eyebrow: "THE TIER DECISION NOBODY MENTIONS"

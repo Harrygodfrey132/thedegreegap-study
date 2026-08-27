@@ -1,5 +1,5 @@
 ---
-title: "Cheltenham GCSE Science Tutors | Combined and Triple | The Degree Gap"
+title: "Online GCSE Science Tutors | Cheltenham | The Degree Gap"
 nav_title: "Science"
 description: "One-to-one GCSE Science tutors for Cheltenham families. Required practicals, six-mark answers and the calculation marks, across combined and triple award."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Cheltenham"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "GCSE Science Tutors Covering Cheltenham"
+hero_h1: "Online GCSE Science Tutoring for Cheltenham Students"
 hero_lead: "Science is the GCSE where students revise the hardest and gain the least, because most of the revision is recall and a good share of the marks are not. Our Cheltenham GCSE Science tutors work the parts of the paper that reward method."
 
 angle_eyebrow: "WHERE CHELTENHAM STUDENTS LOSE SCIENCE MARKS"

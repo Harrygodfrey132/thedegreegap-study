@@ -7,7 +7,7 @@ location: "Loughborough"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors Covering Loughborough"
+hero_h1: "Loughborough GCSE English Tutors, Online and One-to-One"
 hero_lead: "A lot of Loughborough students are comfortable with a physics problem and completely lost in front of a blank essay page. Our Loughborough GCSE English tutors work online, and they treat the essay as something with rules, because it has them."
 
 angle_eyebrow: "WHEN THE STRONG SUBJECTS MAKE ENGLISH HARDER"

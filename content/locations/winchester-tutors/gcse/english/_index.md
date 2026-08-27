@@ -1,5 +1,5 @@
 ---
-title: "Winchester GCSE English Tutors | One-to-One Online | The Degree Gap"
+title: "Winchester GCSE English Tutors | Online | The Degree Gap"
 nav_title: "English"
 description: "GCSE English Language and Literature tutors for Winchester families, matched on board and set texts. For fluent writers stalled at a grade 6, from £37/hr."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Winchester"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors Covering Winchester"
+hero_h1: "Online One-to-One GCSE English Tutors for Winchester Families"
 hero_lead: "She writes beautifully and the grade still says 6, which is the most common reason Winchester parents ring us about English. Our Winchester GCSE English tutors close that gap by teaching what the examiner is paying for, which turns out not to be fluency."
 
 angle_eyebrow: "WHY FLUENT WRITING STALLS AT A GRADE 6"

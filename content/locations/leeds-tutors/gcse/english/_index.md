@@ -1,5 +1,5 @@
 ---
-title: "GCSE English Tutors in Leeds | The Degree Gap"
+title: "GCSE English Tutors Covering Leeds | Online | The Degree Gap"
 nav_title: "English"
 description: "GCSE English tutors covering Leeds for Language and Literature, building the essay structure and timing sixth forms ask for. From £37/hr."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Leeds"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors Covering Leeds"
+hero_h1: "Leeds GCSE English Tutors, Online and One-to-One"
 hero_lead: "With no grammar schools in Leeds, a GCSE English grade carries real weight for sixth-form entry, and the marks that decide it live in the writing, not the reading. Our Leeds GCSE English tutors work on essay structure and timing until the argument holds up in the exam hall."
 
 angle_eyebrow: "WHY GCSE ENGLISH IN LEEDS, SPECIFICALLY"

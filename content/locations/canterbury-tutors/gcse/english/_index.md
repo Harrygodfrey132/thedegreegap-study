@@ -1,12 +1,12 @@
 ---
-title: "Canterbury GCSE English Tutors | The Degree Gap"
+title: "Online GCSE English Tutors | Canterbury | The Degree Gap"
 description: "GCSE English tutors covering Canterbury for Language and Literature, matched to the set texts and exam board taught at your child's school. From £37 an hour."
 layout: "level-subject"
 location: "Canterbury"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors Covering Canterbury"
+hero_h1: "Online GCSE English Tutors Covering Canterbury"
 hero_lead: "English is the subject a parent can read and still not see why it scored what it did. The essay looks reasonable, the grade will not move, and nobody at home can explain the gap. Our Canterbury GCSE English tutors mark the writing in front of the student and show them where the boundary sits."
 
 angle_eyebrow: "WHY A REASONABLE ESSAY STOPS SHORT"

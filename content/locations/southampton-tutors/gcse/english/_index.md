@@ -1,5 +1,5 @@
 ---
-title: "Southampton GCSE English Tutors | Language and Literature | The Degree Gap"
+title: "Online GCSE English Tutors | Southampton | The Degree Gap"
 nav_title: "English"
 description: "One-to-one GCSE English tutors for Southampton families. Language paper reading and writing, Literature essays and timed technique. Online, from £37/hr."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Southampton"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors Covering Southampton"
+hero_h1: "Southampton GCSE English Tutors, Online and One-to-One"
 hero_lead: "English is two GCSEs marked in almost opposite ways, and a Southampton student can be steady in Literature and losing marks all over Language without anyone naming why. Our Southampton GCSE English tutors work out which of the two is actually holding the grade down."
 
 angle_eyebrow: "TWO ENGLISH GCSES, TWO DIFFERENT PROBLEMS"

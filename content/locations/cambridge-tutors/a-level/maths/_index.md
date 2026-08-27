@@ -1,5 +1,5 @@
 ---
-title: "Cambridge A-Level Maths Tutors | Online One-to-One | The Degree Gap"
+title: "Online A-Level Maths Tutors | Cambridge | The Degree Gap"
 nav_title: "Maths"
 description: "Online A-Level Maths tutors covering Cambridge, for Year 12 and Year 13. Pure, Mechanics and Statistics, plus admissions test work, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Cambridge"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors Covering Cambridge"
+hero_h1: "Cambridge A-Level Maths Tutors, Online and One-to-One"
 hero_lead: "At Hills Road and Long Road a student can work genuinely hard, sit in the middle of a strong Maths set, and have no idea whether that is a problem. Our Cambridge A-Level Maths tutors work online and start by answering that question properly."
 
 angle_eyebrow: "WHAT A MID-TABLE POSITION MEANS IN A STRONG SET"

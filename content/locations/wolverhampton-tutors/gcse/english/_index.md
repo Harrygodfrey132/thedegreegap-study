@@ -1,12 +1,12 @@
 ---
-title: "Wolverhampton GCSE English Tutors | The Degree Gap"
+title: "Wolverhampton GCSE English Tutors | Online | The Degree Gap"
 description: "GCSE English tutors covering Wolverhampton for Language and Literature, matched to the set texts and exam board taught at your child's school."
 layout: "level-subject"
 location: "Wolverhampton"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors Covering Wolverhampton"
+hero_h1: "Online GCSE English Tutors Covering Wolverhampton"
 hero_lead: "English decides more sixth form options than any other subject, because it sits on almost every entry requirement whether or not your child intends to carry it on. Our Wolverhampton GCSE English tutors work the structure and timing that move an answer up a band."
 
 angle_eyebrow: "WHY A SENSIBLE ESSAY SCORES A 4"

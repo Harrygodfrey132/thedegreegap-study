@@ -1,5 +1,5 @@
 ---
-title: "Brighton GCSE English Tutors | Online | The Degree Gap"
+title: "Online GCSE English Tutors | Brighton | The Degree Gap"
 nav_title: "English"
 description: "Online GCSE English tutors covering Brighton and Hove, working on Language Paper 1 evaluation, comparison and timing. Matched on set texts, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Brighton"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors Covering Brighton"
+hero_h1: "Online One-to-One GCSE English Tutors for Brighton Families"
 hero_lead: "English is the subject where a Brighton student can be genuinely interesting in a classroom discussion and still lose marks on the page. The gap is almost always the writing, not the thinking. Our Brighton GCSE English tutors work online, with the essay open on screen."
 
 angle_eyebrow: "GOOD IN THE LESSON, AVERAGE ON THE PAPER"

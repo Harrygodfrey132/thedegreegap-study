@@ -1,5 +1,5 @@
 ---
-title: "Worcester GCSE Maths Tutors | One-to-One Online | The Degree Gap"
+title: "Worcester GCSE Maths Tutors | Online | The Degree Gap"
 nav_title: "Maths"
 description: "GCSE Maths tutors for Worcester families where the effort is going in and the mark is not moving. Board matched, questions chosen for them, from £37/hr."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Worcester"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors Covering Worcester"
+hero_h1: "Online GCSE Maths Tutoring for Worcester Students"
 hero_lead: "The revision timetable is on the fridge, the hours are going in, and the mock came back where it was before. Our Worcester GCSE Maths tutors usually find those hours went on the questions your child could already do."
 
 angle_eyebrow: "WHY THE REVISION HOURS ARE NOT SHOWING UP"

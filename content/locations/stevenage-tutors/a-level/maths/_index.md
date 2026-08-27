@@ -1,5 +1,5 @@
 ---
-title: "Stevenage A-Level Maths Tutors | Online One-to-One | The Degree Gap"
+title: "Online A-Level Maths Tutors | Stevenage | The Degree Gap"
 nav_title: "Maths"
 description: "Online A-Level Maths tutors covering Stevenage, for Year 12 and Year 13. Pure, Mechanics and Statistics, matched on exam board, one-to-one from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Stevenage"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors Covering Stevenage"
+hero_h1: "Online A-Level Maths Tutoring for Stevenage Students"
 hero_lead: "In Stevenage the Maths grade is doing two jobs at once, because the degree apprenticeships on the doorstep read it as closely as any university does. Our Stevenage A-Level Maths tutors work online, weekly, on the marks that decide it."
 
 angle_eyebrow: "ONE GRADE, TWO DIFFERENT APPLICATIONS"

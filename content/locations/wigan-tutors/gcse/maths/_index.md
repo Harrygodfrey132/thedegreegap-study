@@ -1,5 +1,5 @@
 ---
-title: "GCSE Maths Tutors in Wigan | The Degree Gap"
+title: "Wigan GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "GCSE Maths tutors covering Wigan, from a secure grade 5 to the 7 Winstanley and St John Rigby A-Levels want. Online, AQA, Edexcel or OCR, from £37/hr."
 layout: "level-subject"

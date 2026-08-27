@@ -1,5 +1,5 @@
 ---
-title: "Stratford-upon-Avon GCSE English Tutors | One-to-One Online | The Degree Gap"
+title: "Stratford-upon-Avon Online GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "GCSE English Language and Literature tutors for Stratford-upon-Avon families, matched on board and set texts. Shakespeare taught the way the examiner reads it."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Stratford-upon-Avon"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors Covering Stratford-upon-Avon"
+hero_h1: "Online One-to-One GCSE English Tutors for Stratford-upon-Avon Families"
 hero_lead: "Growing up twenty minutes from the theatre turns out not to help much with the Shakespeare paper, and plenty of Stratford students find that out in a mock. Our Stratford-upon-Avon GCSE English tutors teach the play the way an examiner reads it, which is not the way the town does."
 
 angle_eyebrow: "THE SHAKESPEARE PAPER, IN SHAKESPEARE'S TOWN"

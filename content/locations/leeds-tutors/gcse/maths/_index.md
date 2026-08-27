@@ -1,5 +1,5 @@
 ---
-title: "GCSE Maths Tutors in Leeds | The Degree Gap"
+title: "Leeds Online GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "GCSE Maths tutors covering Leeds who rebuild the gap behind a slipping grade, from a secure 5 to a 6 or 7. AQA, Edexcel or OCR, from £37/hr."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Leeds"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors Covering Leeds"
+hero_h1: "Online One-to-One GCSE Maths Tutors for Leeds Families"
 hero_lead: "In Leeds there are no grammar schools, so the route to a competitive sixth form or a Russell Group place runs entirely through grades, and GCSE Maths is one of the gates. Our Leeds GCSE Maths tutors find where a paper is leaking marks and rebuild before mocks turn it into a predicted grade."
 
 angle_eyebrow: "WHY GCSE MATHS IN LEEDS, SPECIFICALLY"

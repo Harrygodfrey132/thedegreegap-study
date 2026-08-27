@@ -1,12 +1,12 @@
 ---
-title: "Wolverhampton GCSE Science Tutors | The Degree Gap"
+title: "Online GCSE Science Tutors | Wolverhampton | The Degree Gap"
 description: "GCSE Science tutors covering Wolverhampton for Triple or Combined, matched on Biology, Chemistry or Physics and the board your child's school teaches."
 layout: "level-subject"
 location: "Wolverhampton"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "GCSE Science Tutors Covering Wolverhampton"
+hero_h1: "Wolverhampton GCSE Science Tutors, Online and One-to-One"
 hero_lead: "One grade covers three subjects, which makes Science the hardest GCSE for a parent to read from a report. Our Wolverhampton GCSE Science tutors separate the three first, because the answer is almost always one of them rather than all three."
 
 angle_eyebrow: "ONE GRADE, THREE SUBJECTS"

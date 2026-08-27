@@ -1,5 +1,5 @@
 ---
-title: "Nottingham GCSE Maths Tutors | Online One-to-One | The Degree Gap"
+title: "Online GCSE Maths Tutors | Nottingham | The Degree Gap"
 nav_title: "Maths"
 description: "Online GCSE Maths tutors covering Nottingham, tracing gaps back to the topic that broke first. Matched on AQA, Edexcel or OCR, one-to-one from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Nottingham"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors Covering Nottingham"
+hero_h1: "Online GCSE Maths Tutors for Nottingham, Matched on Exam Board"
 hero_lead: "By the time a Nottingham family calls us about Maths, the revision guide has usually been bought twice. The problem is rarely this term's topic. Our Nottingham GCSE Maths tutors work online and go back to whichever one broke first, then build forward from there."
 
 angle_eyebrow: "THE TOPIC THAT BROKE BEFORE THE ONE THEY ARE STUCK ON"

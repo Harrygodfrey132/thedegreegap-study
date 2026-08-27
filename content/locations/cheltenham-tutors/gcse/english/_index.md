@@ -1,5 +1,5 @@
 ---
-title: "Cheltenham GCSE English Tutors | Language and Literature | The Degree Gap"
+title: "Online GCSE English Tutors | Cheltenham | The Degree Gap"
 nav_title: "English"
 description: "One-to-one GCSE English tutors for Cheltenham families. Essay structure, unseen poetry and timed writing across AQA, Edexcel and Eduqas. Online, from £37/hr."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Cheltenham"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors Covering Cheltenham"
+hero_h1: "Online GCSE English Tutors for Cheltenham, Matched on Exam Board"
 hero_lead: "English is the subject where a Cheltenham student can read widely, revise properly and still watch the grade sit still. Our Cheltenham GCSE English tutors work on the thing the mark scheme is actually paying for, which is argument built on evidence, written to time."
 
 angle_eyebrow: "WHAT MOVES A GCSE ENGLISH GRADE IN CHELTENHAM"

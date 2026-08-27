@@ -1,5 +1,5 @@
 ---
-title: "Southampton A-Level Maths Tutors | Year 12 and Year 13 | The Degree Gap"
+title: "Southampton A-Level Maths Tutors | Online | The Degree Gap"
 nav_title: "Maths"
 description: "One-to-one A-Level Maths tutors for Southampton students. Pure, Mechanics and Statistics on Edexcel, AQA or OCR MEI, matched on specification. From £37/hr."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Southampton"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "A-Level Maths Tutors Covering Southampton"
+hero_h1: "Online A-Level Maths Tutors Covering Southampton"
 hero_lead: "Plenty of Southampton students get through Year 12 Maths on procedure and then meet Year 13, where the questions stop announcing which method they want. Our Southampton A-Level Maths tutors work on choosing the method, not just executing it."
 
 angle_eyebrow: "WHERE YEAR 13 MATHS GETS HARDER"

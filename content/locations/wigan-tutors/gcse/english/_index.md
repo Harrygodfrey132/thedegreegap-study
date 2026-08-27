@@ -1,5 +1,5 @@
 ---
-title: "GCSE English Tutors in Wigan | The Degree Gap"
+title: "GCSE English Tutors Covering Wigan | Online | The Degree Gap"
 nav_title: "English"
 description: "GCSE English tutors covering Wigan for Language and Literature, from a secure grade 5 to the 7 sixth-form A-Levels want. Online, AQA or Edexcel, from £37/hr."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Wigan"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors Covering Wigan"
+hero_h1: "Online GCSE English Tutors for Wigan, Matched on Exam Board"
 hero_lead: "In a lot of Wigan homes the GCSE English worry sounds the same: the ideas are there in conversation but they don't land on the page under timed conditions. Our Wigan GCSE English tutors build the essay structure and evidence selection that turn a good point into a marked one."
 
 angle_eyebrow: "WHY GCSE ENGLISH IN WIGAN, SPECIFICALLY"

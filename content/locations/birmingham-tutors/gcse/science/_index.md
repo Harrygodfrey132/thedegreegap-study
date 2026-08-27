@@ -1,5 +1,5 @@
 ---
-title: "GCSE Science Tutors in Birmingham | The Degree Gap"
+title: "Birmingham Online GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
 description: "GCSE Science tutors covering Birmingham, Combined or Triple, with Biology, Chemistry and Physics specialists for the practicals and long-answer marks. From £37/hr."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Birmingham"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "GCSE Science Tutors Covering Birmingham"
+hero_h1: "Online GCSE Science Tutoring for Birmingham Students"
 hero_lead: "GCSE Science is where a lot of hard-working Birmingham students lose marks they have earned, knowing the content but dropping the six-mark explanations, the required practicals and the calculations. Our Birmingham GCSE Science tutors work on the application and exam technique that revision alone does not reach."
 
 angle_eyebrow: "WHY GCSE SCIENCE IN BIRMINGHAM, SPECIFICALLY"

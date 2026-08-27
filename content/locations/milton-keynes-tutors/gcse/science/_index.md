@@ -1,12 +1,12 @@
 ---
-title: "Milton Keynes GCSE Science Tutors | The Degree Gap"
+title: "Milton Keynes GCSE Science Tutors | Online | The Degree Gap"
 description: "GCSE Science tutors covering Milton Keynes for Triple or Combined, matched on Biology, Chemistry or Physics and the board your child's school teaches. From £37 an hour."
 layout: "level-subject"
 location: "Milton Keynes"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "GCSE Science Tutors Covering Milton Keynes"
+hero_h1: "Online One-to-One GCSE Science Tutors for Milton Keynes Families"
 hero_lead: "One grade covers three subjects, which is why Science is the hardest GCSE for a parent to diagnose from a report. Our Milton Keynes GCSE Science tutors pull the three apart first, because the answer is almost always one of them rather than all three."
 
 angle_eyebrow: "ONE GRADE, THREE SUBJECTS"

@@ -7,7 +7,7 @@ location: "Colchester"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors Covering Colchester"
+hero_h1: "Online A-Level Biology Tutoring for Colchester Students"
 hero_lead: "Plenty of Year 13 Biology students revise as though Year 12 is finished business. It is not, and the papers say so. Our Colchester A-Level Biology tutors work online, on the whole course, from the first session."
 
 angle_eyebrow: "YEAR 12 CONTENT IS STILL ON THE PAPER"

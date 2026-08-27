@@ -1,5 +1,5 @@
 ---
-title: "Tunbridge Wells A-Level Maths Tutors | Online | The Degree Gap"
+title: "Tunbridge Wells Online A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Online A-Level Maths tutors covering Tunbridge Wells, for Year 12 and Year 13. Pure, Mechanics and Statistics, matched on exam board, from £37 an hour."
 layout: "level-subject"

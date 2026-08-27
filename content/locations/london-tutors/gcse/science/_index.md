@@ -1,5 +1,5 @@
 ---
-title: "London GCSE Science Tutors | The Degree Gap"
+title: "Online GCSE Science Tutors | London | The Degree Gap"
 nav_title: "Science"
 description: "London GCSE Science tutors for Combined or Triple, matched to Biology, Chemistry or Physics on the AQA or Edexcel spec. One-to-one, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "London"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "GCSE Science Tutors Covering London"
+hero_h1: "Online GCSE Science Tutors Covering London"
 hero_lead: "Two GCSEs, three sciences, and revision spread so thin that none of it feels solid. Our London GCSE Science tutors split the subject back into its parts and work on the required practicals and long-answer questions where the marks actually sit."
 
 angle_eyebrow: "WHY GCSE SCIENCE ACROSS LONDON, SPECIFICALLY"

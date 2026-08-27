@@ -1,5 +1,5 @@
 ---
-title: "GCSE Maths Tutors in Southampton | The Degree Gap"
+title: "Southampton Online GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "GCSE Maths tutors covering Southampton. One-to-one help closing Year 8 foundation gaps before Year 11 mocks that decide Richard Taunton sixth form entry."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Southampton"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors Covering Southampton"
+hero_h1: "Online GCSE Maths Tutoring for Southampton Students"
 hero_lead: "By the time most Southampton parents reach us about GCSE Maths, the Year 10 mock has come back at a 4 or low 5 and the Richard Taunton grade is starting to look out of reach. Our Southampton GCSE Maths tutors find the Year 8 algebra or fractions gap quietly underneath it and rebuild from there."
 
 angle_eyebrow: "WHY GCSE MATHS IN SOUTHAMPTON"

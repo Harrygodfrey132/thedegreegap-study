@@ -1,5 +1,5 @@
 ---
-title: "Aylesbury GCSE Science Tutors | The Degree Gap"
+title: "Online GCSE Science Tutors | Aylesbury | The Degree Gap"
 nav_title: "Science"
 description: "GCSE Science tutors covering Aylesbury for Triple or Combined, matched on Biology, Chemistry or Physics and the AQA or Edexcel spec. One-to-one, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Aylesbury"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "GCSE Science Tutors Covering Aylesbury"
+hero_h1: "Online GCSE Science Tutoring for Aylesbury Students"
 hero_lead: "Triple Science is three GCSEs taught at the pace of a class that mostly keeps up, and a student who falls half a topic behind rarely catches up on their own. Our Aylesbury GCSE Science tutors work the calculations and long-answer questions where the grade is actually decided."
 
 angle_eyebrow: "WHY AYLESBURY SCIENCE MARKS GO MISSING"

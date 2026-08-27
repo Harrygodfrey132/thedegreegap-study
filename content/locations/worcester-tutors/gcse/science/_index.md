@@ -1,5 +1,5 @@
 ---
-title: "Worcester GCSE Science Tutors | Online | The Degree Gap"
+title: "Worcester Online GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
 description: "Online GCSE Science tutors covering Worcester, for Combined and Triple. Revising from the specification rather than from notes, one-to-one from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Worcester"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors Covering Worcester"
+hero_h1: "Online One-to-One GCSE Science Tutors for Worcester Families"
 hero_lead: "Students revise from their notes, and notes are a record of what was taught well. Whatever got rushed in November never makes it in. Our Worcester GCSE Science tutors work online and start from the specification instead."
 
 angle_eyebrow: "REVISING FROM NOTES REVISES THE WRONG THING"

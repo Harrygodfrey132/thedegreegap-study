@@ -7,7 +7,7 @@ location: "Tunbridge Wells"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors Covering Tunbridge Wells"
+hero_h1: "Tunbridge Wells GCSE Maths Tutors, Online and One-to-One"
 hero_lead: "In a selective county, a mid-table Maths position tells a parent almost nothing, because the whole class was selected. Our Tunbridge Wells GCSE Maths tutors work online and start from the paper itself, marking it the way an examiner would before anyone plans anything."
 
 angle_eyebrow: "WHAT A CLASS RANK HIDES IN A SELECTIVE COUNTY"

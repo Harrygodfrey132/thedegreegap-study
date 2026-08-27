@@ -1,5 +1,5 @@
 ---
-title: "Exeter GCSE Science Tutors | Biology, Chemistry, Physics | The Degree Gap"
+title: "Exeter GCSE Science Tutors | Online | The Degree Gap"
 nav_title: "Science"
 description: "GCSE Science tutors for Exeter families, combined or triple, matched on AQA, Edexcel or OCR. Application questions and calculation work, from £37/hr."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Exeter"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "GCSE Science Tutors Covering Exeter"
+hero_h1: "Online GCSE Science Tutors Covering Exeter"
 hero_lead: "Biology gets the revision hours because it looks like the one you can read, and it still comes back lowest of the three. Our Exeter GCSE Science tutors usually start by moving the hours rather than by adding more of them."
 
 angle_eyebrow: "WHY THE EASY SCIENCE IS THE ONE LOSING MARKS"

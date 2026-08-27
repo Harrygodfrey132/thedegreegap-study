@@ -1,5 +1,5 @@
 ---
-title: "Stevenage GCSE Maths Tutors | Online One-to-One | The Degree Gap"
+title: "Stevenage Online GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "One-to-one GCSE Maths tutors for Stevenage families. We find where the understanding broke down, often years earlier, and rebuild forwards. From £37/hr."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Stevenage"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors Covering Stevenage"
+hero_h1: "Online One-to-One GCSE Maths Tutors for Stevenage Families"
 hero_lead: "Maths is the subject where a small gap does not stay small, because almost every topic stands on an earlier one. Our Stevenage GCSE Maths tutors find the layer that never set properly and rebuild from there, which is usually faster than families fear."
 
 angle_eyebrow: "WHY GCSE MATHS COMPOUNDS"

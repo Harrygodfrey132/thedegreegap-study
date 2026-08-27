@@ -1,5 +1,5 @@
 ---
-title: "Harrogate A-Level Maths Tutors | Online One-to-One | The Degree Gap"
+title: "Online A-Level Maths Tutors | Harrogate | The Degree Gap"
 nav_title: "Maths"
 description: "Online A-Level Maths tutors covering Harrogate, for Year 12 and Year 13. Pure, Mechanics and Statistics, matched on exam board, one-to-one from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Harrogate"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors Covering Harrogate"
+hero_h1: "Online One-to-One A-Level Maths Tutors for Harrogate Families"
 hero_lead: "The students who struggle most in Year 12 Maths are often the ones who found GCSE easy and never had to build a method. Our Harrogate A-Level Maths tutors work online, weekly, on the algebra underneath the topic rather than the topic itself."
 
 angle_eyebrow: "THE YEAR 12 DROP NOBODY WARNS FAMILIES ABOUT"

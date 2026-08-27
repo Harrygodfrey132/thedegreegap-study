@@ -1,5 +1,5 @@
 ---
-title: "Stevenage A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Stevenage Online A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "Online A-Level Chemistry tutors covering Stevenage, for Year 12 and Year 13. Organic mechanisms, calculation chains and required practicals, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Stevenage"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors Covering Stevenage"
+hero_h1: "Online A-Level Chemistry Tutors for Stevenage, Matched on Exam Board"
 hero_lead: "Almost every A-Level Chemistry student is good at one half of the subject and quietly avoiding the other. Our Stevenage A-Level Chemistry tutors work online and start by finding out which half, because the fix is different for each."
 
 angle_eyebrow: "THE HALF OF CHEMISTRY THEY HAVE BEEN AVOIDING"

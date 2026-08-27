@@ -7,7 +7,7 @@ location: "Coventry"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors Covering Coventry"
+hero_h1: "Online GCSE Science Tutors for Coventry, Matched on Exam Board"
 hero_lead: "Most students revise Science by subject. The exam is set by paper, and the two are not the same thing. Our Coventry GCSE Science tutors work online and start by mapping what a student has actually revised against what each paper is going to ask."
 
 angle_eyebrow: "REVISED BY SUBJECT, EXAMINED BY PAPER"

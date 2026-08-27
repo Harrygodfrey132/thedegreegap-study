@@ -1,5 +1,5 @@
 ---
-title: "A-Level Physics Tutors in Manchester | The Degree Gap"
+title: "Manchester Online A-Level Physics Tutors | The Degree Gap"
 nav_title: "Physics"
 description: "A-Level Physics tutors covering Manchester sixth forms. One-to-one help with Mechanics, Fields and required practicals across AQA, OCR and Edexcel. From £37/hr."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Manchester"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "A-Level Physics Tutors Covering Manchester"
+hero_h1: "Online A-Level Physics Tutors for Manchester, Matched on Exam Board"
 hero_lead: "By the time most Manchester parents reach us about A-Level Physics, the Year 12 end-of-year mock has come back below the predicted grade and the Russell Group offer is starting to look tight. Our Manchester A-Level Physics tutors find the Mechanics and Fields questions bleeding marks and rebuild the technique before Year 13."
 
 angle_eyebrow: "WHY A-LEVEL PHYSICS IN MANCHESTER"
