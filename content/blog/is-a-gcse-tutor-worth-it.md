@@ -57,7 +57,7 @@ In our experience, tutoring pays for itself most clearly in these situations:
 - **A grade boundary is genuinely in play.** Moving from a 3 to a 4 in Maths or English changes what happens next, because it is the difference between resitting post-16 and not. Moving a 5 to a 6, or a 6 to a 7, opens up subject choices. The value is concentrated at these boundaries.
 - **They have lost confidence rather than ability.** Very common, very fixable, and school does not have the time to do it.
 - **They are strong but scattergun.** Bright students who revise by rereading notes and never do a timed paper leave a lot of marks behind. Structure fixes that quickly.
-- **A subject is taught by a teacher they have not clicked with.** It happens. It is nobody's fault. A different explanation of the same idea can unlock it.
+- **A subject is taught by a teacher they have not clicked with.** It happens. It is nobody's fault. A different explanation of the same idea can be all it takes.
 
 ## When it is not worth it, and we say so
 

@@ -155,7 +155,7 @@ If you are paying £40 an hour for a tutor who delivers all four, you are paying
 
 The honest commercial argument for GCSE tutoring sits in the grade differential. An hour a week for two terms is typically 24 to 30 sessions, or roughly £900 to £1,400 at the standard tier. That investment is often the difference between a grade 5 and a grade 7 in a core subject, which is frequently the difference between a chosen sixth form taking your child or not.
 
-The long-tail of that sixth-form decision (the A-Level grades it enables, the university place those grades unlock, the career path that opens up) tends to be much larger than the tutoring cost. This is not an argument for tutoring at any price. It is an argument for choosing the right tier for your child and committing to consistency, rather than buying a cheap option that does not work or an expensive option that overshoots the need.
+The long-tail of that sixth-form decision (the A-Level grades it enables, the university place those grades open up, the career path that follows) tends to be much larger than the tutoring cost. This is not an argument for tutoring at any price. It is an argument for choosing the right tier for your child and committing to consistency, rather than buying a cheap option that does not work or an expensive option that overshoots the need.
 
 ## Frequently asked questions
 
@@ -163,7 +163,7 @@ The long-tail of that sixth-form decision (the A-Level grades it enables, the un
 No. £35 to £45 is the standard 2026 rate for a vetted graduate tutor and sits squarely in the national average band. Anything below £25 typically signals an unvetted marketplace listing or a tutor very early in their career.
 
 **Should I pay more for a qualified teacher?**
-It depends on the student. For a student rebuilding foundations or who has lost confidence in a subject, a qualified teacher's pacing and pastoral skill is often worth the premium. For a student already sitting at a strong grade and pushing for the top band on technique, a recent graduate from a strong university is often just as effective at a lower rate, particularly if they got top grades in the subject themselves.
+It depends on the student. For a student rebuilding foundations or who has lost confidence in a subject, a qualified teacher's pacing and pastoral skill is often worth the premium. For a student already sitting at a strong grade and pushing for the top band on technique, a recent graduate from a strong university is often just as effective at a lower rate, especially if they got top grades in the subject themselves.
 
 **Are sibling discounts standard?**
 Many tutors and agencies offer 5% to 10% off for siblings, but it is not universal. Worth asking before you commit.
@@ -179,8 +179,8 @@ On most platforms (MyTutor, Tutorful, GoStudent) you pay the platform, which han
 
 ## Sources
 
-- [Sutton Trust — Private Tutoring 2026 report](https://www.suttontrust.com/our-research/private-tutoring-2026/) — for the 29% national uptake figure, the 45% London figure, the year-group breakdown and the socioeconomic comparisons.
-- [Deep Market Insights — UK Private Tutoring Market Size and Trends](https://deepmarketinsights.com/vista/insights/private-tutoring-market/united-kingdom) — for the $4.94 billion 2024 market size and 2033 forecast.
+- [Sutton Trust, Private Tutoring 2026 report](https://www.suttontrust.com/our-research/private-tutoring-2026/), for the 29% national uptake figure, the 45% London figure, the year-group breakdown and the socioeconomic comparisons.
+- [Deep Market Insights, UK Private Tutoring Market Size and Trends](https://deepmarketinsights.com/vista/insights/private-tutoring-market/united-kingdom), for the $4.94 billion 2024 market size and 2033 forecast.
 
 Pricing benchmarks (£35-£45/hr national average for GCSE, regional premiums, online vs in-person gap, tier breakdowns) are aggregated from public listings across the main UK tutoring marketplaces and agencies as of 2026.
 

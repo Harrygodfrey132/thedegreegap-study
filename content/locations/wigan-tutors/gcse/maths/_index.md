@@ -10,7 +10,7 @@ subject: "Maths"
 hero_h1: "GCSE Maths Tutors Covering Wigan"
 hero_lead: "By the time most Wigan parents reach us about GCSE Maths, the effort is there but the paper keeps coming back short of the grade Winstanley or St John Rigby will want. Our Wigan GCSE Maths tutors trace the marks back to where they leak and rebuild from there."
 
-angle_eyebrow: "WHY GCSE MATHS IN WIGAN, SPECIFICALLY"
+angle_eyebrow: "WHERE THE GCSE MATHS MARKS GO IN WIGAN"
 angle_heading: "Where a GCSE Maths tutor finds the marks Wigan papers keep leaking"
 angle_body_1: "GCSE Maths in Wigan tends to split two ways. Some Year 11s need a confident grade 5 that isn't wobbling by results day; others are chasing the 7 that A-Level Maths at Winstanley quietly expects. The marks leak in the same few places either way: the algebraic manipulation buried inside a multi-mark question, the wordy problem-solving at the back of the calculator paper, and further down, a Year 8 fractions or negatives method that never fully set. It usually isn't effort. It's a handful of question styles and one or two foundations that slipped."
 angle_body_2: "The first lesson sits the student through a recent higher paper and marks it the way the exam board does, so we can see whether the gap is technique or foundation. From lesson two the plan targets whichever it is: drilling the algebra and the multi-step calculator questions for the student near the top, rebuilding the earlier method for the one catching up. For a Winstanley or St John Rigby A-Level place, where the Maths and Science routes ask for a strong grade in the subject, that's the work that earns the offer."

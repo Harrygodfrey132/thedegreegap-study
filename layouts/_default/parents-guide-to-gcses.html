@@ -9,7 +9,7 @@
 {{ $webinarEndDate := .Params.webinar_end_date }}
 {{ $webinarDateDisplay := .Params.webinar_date_display | default "TBC" }}
 {{ $webinarTimeDisplay := .Params.webinar_time_display | default "TBC" }}
-{{ $formSubject := .Params.form_subject | default "Parents Guide to GCSEs — webinar registration" }}
+{{ $formSubject := .Params.form_subject | default "Parents Guide to GCSEs: webinar registration" }}
 {{ $formSource := .Params.form_source | default "parents-guide-to-gcses" }}
 
 <section class="book-call pg-page">
@@ -21,7 +21,7 @@
         <header class="book-call__head">
           <p class="book-call__eyebrow">Free parent masterclass</p>
           <h1>Want your child to walk into GCSE exams feeling ready?</h1>
-          <p class="book-call__subhead">Free 45-minute live masterclass for parents. Joe and Harry — co-founders of The Degree Gap — show you exactly how to support your child through mocks and exam season, without the stress.</p>
+          <p class="book-call__subhead">Free 45-minute live masterclass for parents. Joe and Harry, co-founders of The Degree Gap, show you exactly how to support your child through mocks and exam season, without the stress.</p>
         </header>
 
         <p class="pg-meta" aria-live="polite">
@@ -31,7 +31,7 @@
 
         <div class="book-call__media">
           <div class="book-call__video">
-            <div class="loc-lite-video" data-youtube-id="5zKZLb9mFSk" data-youtube-title="The Degree Gap — introduction">
+            <div class="loc-lite-video" data-youtube-id="5zKZLb9mFSk" data-youtube-title="The Degree Gap: introduction">
               <a href="https://youtu.be/5zKZLb9mFSk" class="loc-lite-video__button" target="_blank" rel="noopener" aria-label="Watch the 40-second intro">
                 <img src="https://i.ytimg.com/vi/5zKZLb9mFSk/hqdefault.jpg" alt="The Degree Gap co-founders introduce the parent masterclass" width="1280" height="720" loading="eager" fetchpriority="high"
                      onerror="this.onerror=null;this.src='https://i.ytimg.com/vi/5zKZLb9mFSk/hqdefault.jpg';">
@@ -110,7 +110,7 @@
               <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg>
             </div>
             <h3 class="pg-thanks__title">You're in.</h3>
-            <p class="pg-thanks__sub">Check your inbox — we've sent confirmation with the live link.</p>
+            <p class="pg-thanks__sub">Check your inbox. We've sent confirmation with the live link.</p>
 
             <!-- Phone-added confirmation -->
             <div class="pg-thanks__variant" data-pg-thanks-with-phone hidden>
@@ -217,14 +217,14 @@
           <span>How do I watch?</span>
           <svg class="pg-faq__icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
         </summary>
-        <div class="pg-faq__body"><p>We'll email you the live link 24 hours and 1 hour before the webinar. You can join from any device — phone, tablet, or laptop. No app or sign-up needed.</p></div>
+        <div class="pg-faq__body"><p>We'll email you the live link 24 hours and 1 hour before the webinar. You can join from any device: phone, tablet or laptop. No app or sign-up needed.</p></div>
       </details>
       <details>
         <summary>
           <span>What if I can't make the live time?</span>
           <svg class="pg-faq__icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
         </summary>
-        <div class="pg-faq__body"><p>Register anyway — we send the full replay to everyone who registers, plus a printable workbook so you can catch up at your own pace.</p></div>
+        <div class="pg-faq__body"><p>Register anyway. We send the full replay to everyone who registers, plus a printable workbook so you can catch up at your own pace.</p></div>
       </details>
       <details>
         <summary>
@@ -261,7 +261,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Event",
-  "name": "Parents Guide to GCSEs — Free Webinar",
+  "name": "Parents Guide to GCSEs: Free Webinar",
   "description": "Free 45-minute live masterclass for parents of GCSE students. Practical strategies for mocks, revision, and exam confidence.",
   "startDate": "{{ . }}",
   {{ with $webinarEndDate }}"endDate": "{{ . }}",{{ end }}
@@ -298,12 +298,12 @@
     {
       "@type": "Question",
       "name": "How do I watch the webinar?",
-      "acceptedAnswer": { "@type": "Answer", "text": "We'll email you the live link 24 hours and 1 hour before the webinar. You can join from any device — phone, tablet, or laptop." }
+      "acceptedAnswer": { "@type": "Answer", "text": "We'll email you the live link 24 hours and 1 hour before the webinar. You can join from any device: phone, tablet or laptop." }
     },
     {
       "@type": "Question",
       "name": "What if I can't make the live time?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Register anyway — we send the full replay to everyone who registers, plus a printable workbook so you can catch up at your own pace." }
+      "acceptedAnswer": { "@type": "Answer", "text": "Register anyway. We send the full replay to everyone who registers, plus a printable workbook so you can catch up at your own pace." }
     },
     {
       "@type": "Question",

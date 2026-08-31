@@ -20,7 +20,7 @@ intro_1: Leeds has no state grammar schools. Every secondary student goes
   without one-to-one support.
 intro_2: That's where tuition makes a real difference. Leeds is home to major
   employers in law, finance and the public sector, and professional families
-  here are clear-eyed about what strong GCSE and A-Level results unlock. The
+  here are clear-eyed about what strong GCSE and A-Level results open up. The
   Degree Gap tutoring works with students across the city to close the gap
   between class performance and exam performance. Our tutors don't just cover
   content, they work on the exam technique, the essay structure, the

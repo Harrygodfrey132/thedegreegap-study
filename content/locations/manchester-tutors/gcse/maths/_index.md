@@ -10,7 +10,7 @@ subject: "Maths"
 hero_h1: "Manchester GCSE Maths Tutors, Online and One-to-One"
 hero_lead: "By the time most Manchester parents reach us about GCSE Maths, the effort is there but the paper lands a grade short of target, a shaky 5 or a 6 where a Xaverian Science route asks for a 7. Our Manchester GCSE Maths tutors find where the marks leak and rebuild from there."
 
-angle_eyebrow: "WHY GCSE MATHS IN MANCHESTER, SPECIFICALLY"
+angle_eyebrow: "WHERE THE GCSE MATHS MARKS GO IN MANCHESTER"
 angle_heading: "Where a GCSE Maths tutor finds the marks Manchester papers leave behind"
 angle_body_1: "Across Manchester the same few things cost marks in GCSE Maths, whatever grade a student is chasing. The algebraic manipulation inside a multi-mark question. The wordy problem-solving at the back of calculator Paper 3, where reading the question is half the battle. Circle theorem proofs and iterative methods, the top-band questions that separate a 7 from an 8. And for students catching up, a Year 8 fractions or negatives method that never quite set and now trips the harder work built on top. Almost none of it is about working harder. It is question style, and one or two foundations."
 angle_body_2: "Week one, the tutor marks a recent higher paper the way the board does and sorts the losses into technique or foundation. The plan from session two goes straight at whichever it is: the algebra and multi-step calculator questions for a student near the top, the earlier method rebuilt for one still closing a gap. For A-Level Maths or a Science route at Xaverian, Loreto or Connell, where the subject grade is often a 6 or 7 minimum, that is the work that turns a predicted grade into an offer."

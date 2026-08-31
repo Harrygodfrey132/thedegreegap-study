@@ -1,6 +1,6 @@
 ---
 title: "OCR GCSE Maths Past Papers & Mark Schemes – All Years & Tiers"
-description: "Free OCR GCSE Maths past papers and mark schemes for Foundation and Higher tier, all papers from 2017 to 2024. Download question papers and mark schemes — no sign-up required."
+description: "Free OCR GCSE Maths past papers and mark schemes for Foundation and Higher tier, all papers from 2017 to 2024. Download question papers and mark schemes, no sign-up required."
 nav_title: "OCR Maths"
 layout: board
 sitemap:

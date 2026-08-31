@@ -47,7 +47,7 @@ online_1: Almost all our sessions run online, and for Portsmouth students that
   opens things up considerably. The tutor who best matches your child's subject,
   exam board and way of learning might be based anywhere in the country. Online
   tutoring means that doesn't matter. Sessions run on Lessonspace, which has a
-  shared whiteboard built specifically for one-to-one academic work. It's
+  shared whiteboard built for one-to-one academic work. It's
   straightforward from the first session.
 online_2: There's a consistency benefit too. No travel, no last-minute
   cancellations because of traffic or weather. Students settle in quickly, and

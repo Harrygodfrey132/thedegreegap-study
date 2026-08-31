@@ -10,7 +10,7 @@ subject: "English"
 hero_h1: "GCSE English Tutors Covering Liverpool"
 hero_lead: "English is the subject where Liverpool parents most often hear that their child is doing fine, right up until the mock comes back. Our Liverpool GCSE English tutors read the actual answers and find where the marks stop being awarded."
 
-angle_eyebrow: "WHY GCSE ENGLISH IN LIVERPOOL, SPECIFICALLY"
+angle_eyebrow: "WHERE THE GCSE ENGLISH MARKS GO IN LIVERPOOL"
 angle_heading: "Where a GCSE English Tutor Finds the Marks a Liverpool Mock Missed"
 angle_body_1: "English hides its gaps better than Maths does. A Liverpool student can know the text well, talk about it confidently in class, and still come out of the Literature paper with a grade 4. What goes wrong is almost always structural: a comparison that describes two poems in turn instead of holding them against each other, an unseen poetry answer that retells rather than analyses, quotations chosen because they are memorable rather than because they prove something, and a Language paper where the writing question gets fifteen minutes because the reading questions ate the clock."
 angle_body_2: "A tutor starts with a real answer the student has written, marked against the actual assessment objectives, so the student can see which sentences earned marks and which ones only filled space. That is usually the moment it clicks. From there the work is repetition on the shapes that score: a comparative paragraph that carries both texts at once, a planning method that takes four minutes, and timed practice until the writing question stops being the one that runs out of road. For a Calderstones or St Edward's sixth form asking for a strong grade in English before A-Level, that is where the place is won."

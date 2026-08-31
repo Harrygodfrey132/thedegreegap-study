@@ -10,7 +10,7 @@ subject: "Science"
 hero_h1: "GCSE Science Tutors Covering Sheffield"
 hero_lead: "Three subjects, one grade, and no obvious answer to which of them is pulling it down. Our Sheffield GCSE Science tutors mark a recent paper across all three and find out where the marks are really going before anything else is planned."
 
-angle_eyebrow: "WHY GCSE SCIENCE IN SHEFFIELD, SPECIFICALLY"
+angle_eyebrow: "WHERE THE GCSE SCIENCE MARKS GO IN SHEFFIELD"
 angle_heading: "Where a GCSE Science Tutor Finds the Marks Behind a Sheffield Grade"
 angle_body_1: "Combined Science hides a lot. A student comes home with one grade covering three subjects, so a solid Biology performance can mask a Physics score that has been sliding since Year 10, and nobody spots it until the mock. When we mark those papers the losses sit in the same places: the six and nine-mark answers that want a structured explanation rather than a memory dump, the required practicals that examiners return to every year, the rearranged equations and unit conversions inside Physics, and the moles and concentration calculations in Chemistry done against the clock."
 angle_body_2: "That's why the first session is diagnostic rather than instructional. Once we can see which of the three is dragging, and which question type inside it, we can match a Biology, Chemistry or Physics specialist to the actual problem instead of spreading one tutor thinly across everything. It matters more in Sheffield than in most cities, because the Sciences are the gate for both routes out of Year 11 here: the A-Level requirements at Silverdale or High Storrs, and the engineering apprenticeships the AMRC Training Centre runs with Boeing, Rolls-Royce and McLaren out on the Advanced Manufacturing Park."

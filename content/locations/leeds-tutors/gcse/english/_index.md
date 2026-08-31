@@ -10,7 +10,7 @@ subject: "English"
 hero_h1: "Leeds GCSE English Tutors, Online and One-to-One"
 hero_lead: "With no grammar schools in Leeds, a GCSE English grade carries real weight for sixth-form entry, and the marks that decide it live in the writing, not the reading. Our Leeds GCSE English tutors work on essay structure and timing until the argument holds up in the exam hall."
 
-angle_eyebrow: "WHY GCSE ENGLISH IN LEEDS, SPECIFICALLY"
+angle_eyebrow: "WHERE THE GCSE ENGLISH MARKS GO IN LEEDS"
 angle_heading: "Where a GCSE English tutor turns Leeds students' reading into marks"
 angle_body_1: "Reading is rarely what holds a Leeds student back in GCSE English. The marks slip in the writing and in the timing. The comparison question needs a structure a student can repeat under pressure, and the unseen poetry rewards a method rather than a folder of notes. Language Paper 1 hands out its AO5 and AO6 marks for writing crafted at speed, which is a different skill from writing well with time to spare. And students who choose sharp evidence in a class discussion often reach for the thin quote in the hall. The understanding is there. The shaping for the mark scheme is not yet."
 angle_body_2: "Week one, the tutor marks a recent essay against the actual assessment objectives, so it is clear the marks are sitting in structure and evidence, not in ability or effort. From there the work is practical: one reliable frame for the comparison answer, paragraphs written to time, and the habit of picking the quote that earns the analysis marks. Notre Dame and Elliott Hudson ask for grade 5 and 6 across relevant subjects, and an English, History or Psychology route wants a strong grade in the subject. That move from knowing the text to writing about it is what gets a student there."

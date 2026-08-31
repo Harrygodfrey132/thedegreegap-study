@@ -13,7 +13,7 @@ form_note: "We will reply with practical next steps for the Oxford part of your 
 
 Oxford and Cambridge look similar from the outside. They share the same early UCAS deadline, the same college system, the same admissions tests and interviews in December. They are not the same. Oxford and Cambridge have different teaching cultures, different admissions processes, different additional forms, and different expectations on paper. The first real decision for any Oxbridge candidate is not "How do I write the statement?" It is "Which of these two universities actually suits the way I think?"
 
-This guide is specifically about Oxford. If you are deciding between the two, read the Cambridge guide separately - the comparison at the end of this page gives a practical summary of the differences that matter most.
+This guide is about Oxford. If you are deciding between the two, read the Cambridge guide separately - the comparison at the end of this page gives a practical summary of the differences that matter most.
 
 ## The Oxford process at a glance
 
@@ -78,7 +78,7 @@ Admissions tutors for PPE are also used to students who have strong opinions. Ha
 
 ### Law
 
-Oxford Law requires LNAT. The statement should show that you think analytically about legal questions - not that you want to be a barrister. Students who write about career ambitions in Law statements consistently underperform against students who write about arguments, principles, cases, and the philosophical underpinning of legal reasoning. Read widely: criminal law, constitutional law, contract, legal theory, jurisprudence. Use one or two sources seriously. The statement should feel like the work of someone who has asked hard questions about what law is and why it binds us.
+Oxford Law requires LNAT. The statement should show that you think analytically about legal questions - not that you want to be a barrister. Students who write about career ambitions in Law statements tend to underperform against students who write about arguments, principles, cases, and the philosophical underpinning of legal reasoning. Read widely: criminal law, constitutional law, contract, legal theory, jurisprudence. Use one or two sources seriously. The statement should feel like the work of someone who has asked hard questions about what law is and why it binds us.
 
 ### History
 

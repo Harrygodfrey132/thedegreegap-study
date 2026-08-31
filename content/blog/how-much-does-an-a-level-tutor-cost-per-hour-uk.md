@@ -72,7 +72,7 @@ Online tutoring flattens most of this. If you live in Norwich or Wigan and want 
 
 This is the part that matters more than the number.
 
-**At £35 to £45**, you are usually buying a recent graduate who did well in the subject themselves. That can be excellent value, particularly for a student who understands the content but is losing marks on exam technique, because a strong recent graduate remembers exactly how they cracked the same papers. It is weaker value if your child has real gaps in the foundations, because teaching someone from a standing start is a skill that takes time to build.
+**At £35 to £45**, you are usually buying a recent graduate who did well in the subject themselves. That can be excellent value, especially for a student who understands the content but is losing marks on exam technique, because a strong recent graduate remembers exactly how they cracked the same papers. It is weaker value if your child has real gaps in the foundations, because teaching someone from a standing start is a skill that takes time to build.
 
 **At £50 to £70**, you are usually buying a qualified teacher or an experienced specialist tutor. The difference shows up most when a student has lost confidence or has a genuine hole in the content. Pacing, sequencing and knowing when to slow down are teaching skills, and they are what the extra £15 an hour buys.
 

@@ -33,7 +33,7 @@ papers:
 # ───────────── BOARD POINTS ─────────────
 board_points_heading: "What an OCR A-Level Maths tutor drills"
 board_points:
-  - title: "The comprehension paper, specifically"
+  - title: "The comprehension paper,"
     body: "OCR's Paper 3 comprehension is unlike anything at GCSE. Tutors work through past comprehension articles so your child learns to pull the maths out of unfamiliar writing and answer the way OCR rewards, rather than freezing at an article they have never met."
   - title: "The pure underneath all three papers"
     body: "Pure runs through every OCR paper, so a shaky foundation shows up everywhere. Tutors go back to the algebra and functions the mocks keep exposing, then build through the harder Year 13 pure until the method marks hold."

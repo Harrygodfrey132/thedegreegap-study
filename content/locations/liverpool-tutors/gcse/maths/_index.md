@@ -10,7 +10,7 @@ subject: "Maths"
 hero_h1: "Online GCSE Maths Tutors Covering Liverpool"
 hero_lead: "The revision is happening. The mark isn't moving. Our Liverpool GCSE Maths tutors start by marking a recent higher paper, then work out whether the marks are going on method or on the way the question was read."
 
-angle_eyebrow: "WHY GCSE MATHS IN LIVERPOOL, SPECIFICALLY"
+angle_eyebrow: "WHERE THE GCSE MATHS MARKS GO IN LIVERPOOL"
 angle_heading: "Where a GCSE Maths Tutor Finds the Marks That Move a Liverpool Grade"
 angle_body_1: "Liverpool asks two different things of a GCSE Maths tutor. One student needs a secure grade 5 to hold a college place. Another is a few marks short of what St Edward's or Blue Coat want before A-Level Maths. Both tend to lose marks in the same four places: algebraic fractions buried inside a multi-mark question, circle theorem proofs that need a reason written on every line, iterative numerical methods, and the long wordy problems at the back of Paper 3. Very little of that is missing knowledge. It's question style."
 angle_body_2: "So the first lesson is a marked paper, not a lesson plan. The tutor separates marks lost to method from marks lost to misreading what was asked, because those need different fixes. From there the plan targets whichever block is actually bleeding, whether that means going back to Year 9 algebra or drilling the last six questions of Paper 3 until timing stops being the problem. For a Cardinal Heenan or St Edward's sixth-form place, or the numeracy stage of a Jaguar Land Rover apprenticeship at Halewood, that gap is usually what the offer turns on."

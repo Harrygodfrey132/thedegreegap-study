@@ -59,7 +59,7 @@ faq_1_q: "She revises for hours and the grade stays the same. What are we missin
 faq_1_a: "Almost certainly what the hours are spent on. Re-reading a topic you already understand feels productive and changes nothing, and it is what most students default to because it is comfortable. A tutor marks a recent paper, identifies the three or four question types genuinely bleeding marks, and puts every session there instead. The hours often go down rather than up."
 faq_2_q: "Is Year 10 or Year 11 the right time to start?"
 faq_2_a: "Year 10, when you have the choice. The content steps up that year and the gaps that open are small enough to close quickly if someone spots them. Left alone they compound for twelve months and then appear all at once in a mock. Year 11 still works, and plenty of families start there. The plan just narrows to exam technique and past papers."
-faq_3_q: "Can a tutor help with the mocks specifically?"
+faq_3_q: "Can a tutor help with the mocks?"
 faq_3_a: "Yes, and it is one of the more measurable things tutoring does. The weeks before go on full papers under time, marked against the real mark scheme rather than ticked. Afterwards, the paper becomes the plan, because every lost mark tells you precisely what the next sessions need to cover. Mock grades also feed the prediction sixth forms see, so they are worth taking seriously."
 faq_4_q: "What if the tutor is not right for my child?"
 faq_4_a: "Tell us and we re-match. Every family speaks with Harry or Joe before a tutor is proposed, which is why most first matches land. But at fifteen the way someone explains a thing matters as much as whether they know it, and you often cannot judge that until a session or two has happened. No contract, no minimum term."

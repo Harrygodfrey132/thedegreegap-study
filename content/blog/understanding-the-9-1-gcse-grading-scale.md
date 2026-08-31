@@ -46,8 +46,8 @@ The 9-1 scale runs from the highest grade at the top to the lowest pass-recognis
 | **8** | Comfortably top tier. Awarded to roughly the next 7%. |
 | **7** | Strong grade, equivalent to the old grade A. |
 | **6** | Solid grade, sitting above the standard pass. |
-| **5** | "Strong pass" — the grade most sixth forms ask for in core subjects. |
-| **4** | "Standard pass" — the government's official benchmark. |
+| **5** | "Strong pass", the grade most sixth forms ask for in core subjects. |
+| **4** | "Standard pass", the government's official benchmark. |
 | **3** | Below the standard pass. Roughly equivalent to a low D or high E in the old system. |
 | **2** | Below the pass mark. Roughly equivalent to an E or F. |
 | **1** | The lowest numbered grade. Roughly the old G. |
@@ -110,7 +110,7 @@ If your child is targeting a specific sixth form, the most reliable thing to do 
 
 A subtle thing parents often don't know: the marks needed for each grade aren't fixed in advance. They're set on results day by senior examiners after all the papers have been marked. The process is overseen by Ofqual and is designed to keep standards consistent across exam boards and from year to year.
 
-Practically, this means that **a paper that was harder than expected won't punish students** — the grade boundaries shift downward to reflect that. It also means published "pass marks" for the year ahead don't really exist; they're set retrospectively. That's why teachers and tutors talk about **mark schemes** and **examiner expectations** rather than absolute scores.
+Practically, this means that **a paper that was harder than expected won't punish students**, the grade boundaries shift downward to reflect that. It also means published "pass marks" for the year ahead don't really exist; they're set retrospectively. That's why teachers and tutors talk about **mark schemes** and **examiner expectations** rather than absolute scores.
 
 ## Frequently asked questions
 
@@ -134,16 +134,16 @@ Yes. English and Maths can be retaken, and many post-16 colleges build retakes i
 
 ## Sources
 
-- [Ofqual — GCSE 9 to 1 grades: a brief guide for parents](https://ofqual.blog.gov.uk/2018/03/02/gcse-9-to-1-grades-a-brief-guide-for-parents/)
-- [Ofqual — GCSE and level 1 and 2 results 2025 at a glance](https://ofqual.blog.gov.uk/2025/08/21/gcse-and-level-1-and-2-results-2025-at-a-glance/)
-- [FFT Education Datalab — GCSE results 2025: main trends in grades and entries](https://ffteducationdatalab.org.uk/2025/08/gcse-results-2025-the-main-trends-in-grades-and-entries/)
-- [Schools Week — GCSE results 2025: 8 key trends in England's data](https://schoolsweek.co.uk/gcse-results-2025-8-key-trends-in-englands-data/)
+- [Ofqual, GCSE 9 to 1 grades: a brief guide for parents](https://ofqual.blog.gov.uk/2018/03/02/gcse-9-to-1-grades-a-brief-guide-for-parents/)
+- [Ofqual, GCSE and level 1 and 2 results 2025 at a glance](https://ofqual.blog.gov.uk/2025/08/21/gcse-and-level-1-and-2-results-2025-at-a-glance/)
+- [FFT Education Datalab, GCSE results 2025: main trends in grades and entries](https://ffteducationdatalab.org.uk/2025/08/gcse-results-2025-the-main-trends-in-grades-and-entries/)
+- [Schools Week, GCSE results 2025: 8 key trends in England's data](https://schoolsweek.co.uk/gcse-results-2025-8-key-trends-in-englands-data/)
 
 ---
 
 ## Where The Degree Gap fits
 
-Whatever grade your child is sitting at right now, there's almost certainly a route forward. A grade 3 student who's been written off as "not academic" often turns out to have a specific gap that's blocking everything else, and once it's named and rebuilt, the grade moves quickly. A grade 6 student aiming at a 7 or 8 usually doesn't need more content — they need exam-technique work on the questions that decide the higher band. Both are exactly what we match families with tutors for.
+Whatever grade your child is sitting at right now, there's almost certainly a route forward. A grade 3 student who's been written off as "not academic" often turns out to have a specific gap that's blocking everything else, and once it's named and rebuilt, the grade moves quickly. A grade 6 student aiming at a 7 or 8 usually doesn't need more content, they need exam-technique work on the questions that decide the higher band. Both are exactly what we match families with tutors for.
 
 If you've just looked at your child's predicted grade and aren't sure what to do next, the easiest first step is a free 30-minute consultation with Joe or me. We'll talk through where things actually sit, what's realistic, and whether tutoring is the right call. We'll tell you honestly if it isn't.
 

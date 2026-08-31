@@ -10,7 +10,7 @@ subject: "Science"
 hero_h1: "Liverpool GCSE Science Tutors, Online and One-to-One"
 hero_lead: "Science is the subject where revision and marks come apart most visibly. Our Liverpool GCSE Science tutors work out whether the marks are going on recall, on the six-mark answers, or on the maths hiding inside Physics and Chemistry."
 
-angle_eyebrow: "WHY GCSE SCIENCE IN LIVERPOOL, SPECIFICALLY"
+angle_eyebrow: "WHERE THE GCSE SCIENCE MARKS GO IN LIVERPOOL"
 angle_heading: "Where a GCSE Science Tutor Finds the Marks Liverpool Revision Misses"
 angle_body_1: "Most Liverpool students who struggle with GCSE Science are not short on revision. They know the content and lose the marks somewhere else: the six and nine-mark questions that want a structured explanation rather than everything the student can remember, the required practicals that examiners return to year after year, the maths inside Physics where a rearranged equation or a unit conversion quietly costs the whole answer, and the moles and concentration calculations in Chemistry under time pressure. Knowing a fact and applying it to an unfamiliar context are separate skills, and only one of them gets practised at home."
 angle_body_2: "The tutor marks a recent paper across all three sciences first, because the answer is rarely that a student is bad at Science. It's usually that one of the three is dragging, and often one type of question inside it. From there we can match a Biology, Chemistry or Physics specialist to whichever subject is leaking rather than spreading one tutor across everything. For a St Edward's or Cardinal Heenan Science A-Level, or an engineering route with an employer like Unilever or AstraZeneca out at Speke, the Sciences are the gate, and that is the work that opens it."

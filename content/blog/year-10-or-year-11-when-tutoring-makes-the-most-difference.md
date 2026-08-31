@@ -40,7 +40,7 @@ In Year 11, with mocks in November and exams in May, going back two years is a h
 
 **It is easier to fit in.** One hour a week in Year 10 competes with normal homework. In Year 11 it competes with revision, coursework, mock preparation and everything else. The same commitment is meaningfully harder to sustain a year later.
 
-**Tutors are available.** Demand is lower, so the choice of tutor is wider, particularly in core subjects.
+**Tutors are available.** Demand is lower, so the choice of tutor is wider, especially in core subjects.
 
 ## What Year 11 is good for
 
@@ -60,7 +60,7 @@ Year 11 is not the wrong answer. It is good at a different set of things, and fo
 
 The useful question is not "which year" but "what kind of problem is this".
 
-**Foundations problem, so Year 10.** They are missing underlying content, often from before GCSE started. Signs: they can do the practice questions in the lesson and cannot do them a week later, or a whole topic area is consistently weak, or they are in a lower set than their effort suggests they should be. This needs time and Year 10 has it.
+**Foundations problem, so Year 10.** They are missing underlying content, often from before GCSE started. Signs: they can do the practice questions in the lesson and cannot do them a week later, or a whole topic area stays weak week after week, or they are in a lower set than their effort suggests they should be. This needs time and Year 10 has it.
 
 **Technique or confidence problem, so Year 11 is fine.** They know the material and the marks do not reflect it. Signs: they revise and the assessment still comes back low, or they run out of time, or they say "I knew it, I just wrote the wrong thing". This is fast to fix and best fixed close to the exam.
 

@@ -15,12 +15,12 @@ intro_1: Coventry sits below the national average for GCSE attainment, yet it's
   whose families have real ambitions for what comes next. That gap between
   aspiration and results is something The Degree Gap sees regularly. Students
   who want to reach a competitive sixth form, access a good university, or land
-  one of the apprenticeships at local employers like Jaguar Land Rover — and who
+  one of the apprenticeships at local employers like Jaguar Land Rover, and who
   are working hard but not yet hitting the grades that make those options open.
 intro_2: One-to-one tuition changes that equation. Our Coventry tutors don't
-  just cover topics again and hope something sticks. They find the specific gap
-  — a concept from Year 9 that was never properly understood, a weakness in
-  written exam answers, a topic where confidence collapsed — and work forward
+  just cover topics again and hope something sticks. They find the specific gap,
+  a concept from Year 9 that was never properly understood, a weakness in
+  written exam answers, a topic where confidence collapsed, and work forward
   from there. We support GCSE students trying to close the distance between
   effort and results, and A-Level students who need more than classroom time can
   offer. Private tuition, done properly, is about precision. Not repetition.
@@ -43,18 +43,18 @@ schools:
   - Woodlands Academy
   - President Kennedy School
 schools_image: /images/students-listening-in-classroom.jpg
-online_heading: Online tuition for Coventry students — the right tutor, not just
+online_heading: Online tuition for Coventry students, the right tutor, not just
   the nearest one
 online_1: Most sessions with Coventry students run online through Lessonspace, a
   platform built for online tutoring. The interactive whiteboard lets tutors and
-  students work through problems side by side in real time — important for Maths
+  students work through problems side by side in real time, important for Maths
   and the sciences, where seeing each step matters. There's no travel time, no
   geography barrier, and access to a far wider pool of tutors than any
   in-person-only approach allows.
 online_2: What makes the difference is regularity. A student who meets their
   tutor once a week across a term will outperform one who books five sessions in
   the fortnight before an exam. Coventry families tell us online tutoring makes
-  that weekly rhythm much easier to keep — sessions slot around school, clubs,
+  that weekly rhythm much easier to keep, sessions slot around school, clubs,
   and family life without anyone needing to drive across the city. For students
   working to close a real gap between where they are and where they want to be,
   consistency is the thing that turns sessions into results.
@@ -85,7 +85,7 @@ gcse_subjects:
     building real problem-solving ability rather than surface familiarity with
     the topics.|/book-a-call/
   - GCSE History Tuition|Strong essay technique, source evaluation and content
-    recall — the three things examiners reward and classrooms rarely have time
+    recall, the three things examiners reward and classrooms rarely have time
     to drill.|/book-a-call/
   - GCSE Biology Tuition|Breaking down cells, genetics, ecosystems and
     physiology into clear steps, so students understand the logic rather than
@@ -94,8 +94,8 @@ gcse_subjects:
   - GCSE French Tuition|Consistent practice in speaking, reading, writing and
     listening, filling the gaps that build up when classroom pace outruns
     individual progress.|/book-a-call/
-  - GCSE Geography Tuition|Case study recall, data response and extended writing
-    — the three areas where Coventry students tend to lose the most
+  - GCSE Geography Tuition|Case study recall, data response and extended writing,
+    the three areas where Coventry students tend to lose the most
     marks.|/book-a-call/
   - GCSE Chemistry Tuition|Expert support across organic, inorganic and physical
     chemistry, focusing on understanding reactions rather than memorising
@@ -160,7 +160,7 @@ faq_4_a: Yes, and it is more common than people think. A lot of the students we
 why_heading: What the first session usually reveals
 why_para_1: When Coventry students start tutoring, the first session tends to
   uncover something the classroom never had time to find. It's rarely the topic
-  they think is the problem. More often it's something earlier — a method in
+  they think is the problem. More often it's something earlier, a method in
   Maths that got glossed over, a writing skill in English that was assumed
   rather than taught, or a gap in scientific reasoning from Year 9 that has
   quietly made every topic since harder. Students arrive thinking they need more

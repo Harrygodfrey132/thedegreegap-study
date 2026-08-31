@@ -10,7 +10,7 @@ subject: "Maths"
 hero_h1: "Online One-to-One GCSE Maths Tutors for Leeds Families"
 hero_lead: "In Leeds there are no grammar schools, so the route to a competitive sixth form or a Russell Group place runs entirely through grades, and GCSE Maths is one of the gates. Our Leeds GCSE Maths tutors find where a paper is leaking marks and rebuild before mocks turn it into a predicted grade."
 
-angle_eyebrow: "WHY GCSE MATHS IN LEEDS, SPECIFICALLY"
+angle_eyebrow: "WHERE THE GCSE MATHS MARKS GO IN LEEDS"
 angle_heading: "Where a GCSE Maths tutor finds the marks Leeds students need for the grade"
 angle_body_1: "Because Leeds runs entirely on comprehensives, a GCSE Maths grade is doing real work: it is what opens Notre Dame, Elliott Hudson or a strong school sixth form, and later a Russell Group route. The marks tend to leak in a few reliable places. The algebra rearrangement inside a multi-mark question. The geometry and ratio through the middle of the paper. The multi-step problem-solving at the back. And underneath, an earlier method, fractions or negatives from Year 8, that never fully set and now undermines the harder topics stacked on it. It is seldom about effort. It is question style and one or two foundations."
 angle_body_2: "The first lesson works through a recent paper and marks it the way the board does, sorting the losses into technique or foundation. From session two the plan targets whichever it is, rebuilding the earlier method for a student closing a gap, or drilling the top-band questions for one pushing higher. Notre Dame Sixth Form College publishes entry requirements at grade 5 and 6 across relevant subjects, and for A-Level Maths that usually means a 6 or 7. That is the gap a term of focused Maths work is built to close."

@@ -10,7 +10,7 @@ subject: "English"
 hero_h1: "Online GCSE English Tutors for Wigan, Matched on Exam Board"
 hero_lead: "In a lot of Wigan homes the GCSE English worry sounds the same: the ideas are there in conversation but they don't land on the page under timed conditions. Our Wigan GCSE English tutors build the essay structure and evidence selection that turn a good point into a marked one."
 
-angle_eyebrow: "WHY GCSE ENGLISH IN WIGAN, SPECIFICALLY"
+angle_eyebrow: "WHERE THE GCSE ENGLISH MARKS GO IN WIGAN"
 angle_heading: "Where a GCSE English tutor turns Wigan students' ideas into marks"
 angle_body_1: "GCSE English in Wigan rarely comes down to reading ability. Two things tend to hold students back. For some it's getting a secure grade 5 across Language and Literature when the timed essay falls apart under the clock. For others it's the jump from a comfortable 6 to the 7 a Winstanley or St John Rigby humanities A-Level looks for. The marks usually leak in the same places: the comparison paper's essay structure, unseen poetry analysis, evidence selection under timing, and the AO5 and AO6 writing technique on Language Paper 1. Good ideas, not yet shaped for the mark scheme."
 angle_body_2: "Week one, the tutor reads a recent essay and a marked paper to see where the argument is losing marks, not just where the spelling slips. From there the plan is practical: a repeatable structure for the comparison question, timed paragraphs so the writing holds up in the hall, and the specific evidence a mark scheme rewards. For students aiming at English, History or Psychology A-Level at St John Rigby or Winstanley, where a strong grade in the subject matters, that shift from knowing the text to writing about it is what moves the grade."

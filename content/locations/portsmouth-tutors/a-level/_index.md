@@ -60,7 +60,7 @@ faq_1_a: "Yes, and faster than most families expect, because it is a habit rathe
 faq_2_q: "Is Year 12 the right time to start, or should we wait?"
 faq_2_a: "Year 12, if you have the choice. Predicted grades come from Year 12 performance plus the Year 13 mock, so the window for changing a prediction closes earlier than most people realise. Starting in Year 13 still works and we do it often. There is simply less room, and more of each hour goes on exam papers than on rebuilding foundations."
 faq_3_q: "Can a tutor help with a BAE Systems or Royal Navy apprenticeship application?"
-faq_3_a: "Yes. These routes screen on predicted grades first, so the subject work is the main event, particularly Maths and Physics for the engineering schemes. Beyond that a tutor can help a student explain their subjects clearly at the assessment stage. Each scheme publishes its own entry requirements and the timings vary, so check the specific programme early in Year 13."
+faq_3_a: "Yes. These routes screen on predicted grades first, so the subject work is the main event, above all Maths and Physics for the engineering schemes. Beyond that a tutor can help a student explain their subjects clearly at the assessment stage. Each scheme publishes its own entry requirements and the timings vary, so check the specific programme early in Year 13."
 faq_4_q: "What if the tutor is not the right fit?"
 faq_4_a: "We re-match, and there is no friction in asking. Every family speaks with Harry or Joe before a tutor is proposed, which is why most first matches work. But personality matters at this age as much as subject knowledge, and sometimes that only shows after a session or two. Nothing is locked in and there is no minimum term."
 

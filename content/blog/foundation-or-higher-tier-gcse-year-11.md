@@ -117,7 +117,7 @@ A grade 5, which is a strong pass and equivalent to a high C or low B on the old
 A grade 4, or the allowed grade 3 if they narrowly miss. Below that it is a U: there are no grades 2 or 1 on the higher paper.
 
 **Does a foundation grade 5 look different to a higher tier grade 5 on the certificate?**
-No. The certificate shows the grade, not the tier. Sixth forms sometimes ask, particularly for maths, because the tier tells them something the grade does not.
+No. The certificate shows the grade, not the tier. Sixth forms sometimes ask, especially for maths, because the tier tells them something the grade does not.
 
 **Which tier for Combined Science if the sciences are uneven?**
 Combined Science is entered as one subject at one tier, so it is a single decision across all three. That is exactly why an uneven student can end up debating it, and why the mock evidence per paper is worth asking about.

@@ -11,9 +11,9 @@ form_button: "Get Cambridge statement help"
 form_note: "We will reply with practical next steps for the Cambridge part of your application."
 ---
 
-Cambridge applications share the early October UCAS deadline with Oxford, but the process is architecturally different. Cambridge has its own additional form - My Cambridge Application - with its own deadline, its own optional personal statement field, and its own set of course-specific questions. Cambridge also has a pool system that Oxford does not, a teaching model built entirely around supervisions, and course structures in some subjects - particularly Natural Sciences and Mathematics - that differ significantly from anything available at Oxford.
+Cambridge applications share the early October UCAS deadline with Oxford, but the process is architecturally different. Cambridge has its own additional form - My Cambridge Application - with its own deadline, its own optional personal statement field, and its own set of course-specific questions. Cambridge also has a pool system that Oxford does not, a teaching model built entirely around supervisions, and course structures in some subjects, Natural Sciences and Mathematics above all, that differ significantly from anything available at Oxford.
 
-You cannot apply to Oxford and Cambridge in the same UCAS cycle. This guide is specifically about Cambridge. If you are still deciding between the two, read the Oxford guide as well. The comparison at the end of this page summarises the practical differences that matter most.
+You cannot apply to Oxford and Cambridge in the same UCAS cycle. This guide is about Cambridge. If you are still deciding between the two, read the Oxford guide as well. The comparison at the end of this page summarises the practical differences that matter most.
 
 ## The Cambridge process at a glance
 
@@ -46,7 +46,7 @@ What MCA contains:
 - Transcript requests for students educated outside the UK standard system
 - An **optional additional personal statement** field
 
-The subject-specific questions are important. They ask about your preparation for the course in a more direct way than UCAS allows. Treat them carefully and specifically - Cambridge reads MCA as seriously as the UCAS form.
+The subject-specific questions are important. They ask about your preparation for the course in a more direct way than UCAS allows. Treat them carefully and - Cambridge reads MCA as seriously as the UCAS form.
 
 ### The optional additional personal statement
 
@@ -181,7 +181,7 @@ Key things to understand about the pool:
 
 **You do not know you have been pooled in real time.** Cambridge notifies applicants of final outcomes in January. The process is opaque from the applicant's side by design.
 
-**What the pool means for application strategy:** Because of the pool, Cambridge applicants effectively have their application considered by more than one college. A very strong application that does not fit neatly into one college's subject balance can still end up with an offer. This makes Cambridge, in some ways, marginally more forgiving of college misalignment than Oxford.
+**What the pool means for application strategy:** Because of the pool, Cambridge applicants in practice have their application considered by more than one college. A very strong application that does not fit neatly into one college's subject balance can still end up with an offer. This makes Cambridge, in some ways, marginally more forgiving of college misalignment than Oxford.
 
 ## Interviews at Cambridge
 
@@ -194,7 +194,7 @@ For humanities and social science courses, the interview is structured around id
 Preparing for interviews:
 - **Practise thinking aloud.** The most common reason interviews go badly is not inability to think - it is inability to think out loud. Practise talking through problems, arguments, and ideas with someone who will interrupt and challenge.
 - **Know your statement deeply.** Any source, claim, project, or idea in your personal statement can appear in an interview. Re-read your statement before the interview. Prepare one level deeper on every idea you included.
-- **Be willing to be wrong.** Cambridge interviewers are specifically looking for intellectual flexibility. If you dig in on a wrong position to avoid being seen as uncertain, that is a worse signal than saying "I think I was wrong about that - let me think again."
+- **Be willing to be wrong.** Cambridge interviewers are looking for intellectual flexibility. If you dig in on a wrong position to avoid being seen as uncertain, that is a worse signal than saying "I think I was wrong about that - let me think again."
 
 ## What to do if things go wrong
 
@@ -245,7 +245,7 @@ The pool is a mechanism for redistributing strong applications between colleges 
 
 ### How different is Cambridge from Oxford in the application process?
 
-Significantly different. Cambridge has My Cambridge Application (Oxford does not), the pool (Oxford does not have an equivalent), an optional additional personal statement (Oxford does not), and distinctive course structures - particularly Natural Sciences - that require different application strategies. The teaching formats are also different: Cambridge's supervision system is central in a way that Oxford's tutorial system, though similar, is not always described.
+Significantly different. Cambridge has My Cambridge Application (Oxford does not), the pool (Oxford does not have an equivalent), an optional additional personal statement (Oxford does not), and distinctive course structures, Natural Sciences above all, that require different application strategies. The teaching formats are also different: Cambridge's supervision system is central in a way that Oxford's tutorial system, though similar, is not always described.
 
 ### How mathematical does a Cambridge Economics statement need to be?
 

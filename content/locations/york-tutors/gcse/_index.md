@@ -29,7 +29,7 @@ pathways_lead: "Three routes York families tend to weigh up once the summer exam
 pathways:
   - title: "Sixth Forms"
     body: >
-      York College takes students from across the city, and school sixth forms at Fulford, Archbishop Holgate's and All Saints run alongside it, with Bootham School and St Peter's in the independent sector. Each publishes its own entry requirements, and the A-Level subjects tend to ask for a grade in that subject specifically.
+      York College takes students from across the city, and school sixth forms at Fulford, Archbishop Holgate's and All Saints run alongside it, with Bootham School and St Peter's in the independent sector. Each publishes its own entry requirements, and the A-Level subjects tend to ask for a grade in that subject itself.
   - title: "Apprenticeships"
     body: >
       Nestlé still runs apprenticeships from the confectionery site, and Aviva and Hiscox both hire school leavers into their York offices. Most ask for grade 4 to 5 in Maths and English before anything else is considered.

@@ -10,7 +10,7 @@ subject: "English"
 hero_h1: "Online GCSE English Tutors Covering Birmingham"
 hero_lead: "In Birmingham the GCSE English grade that decides a sixth-form route often comes down to what a student can put on the page in the exam hall, not what they understand about the text. Our Birmingham GCSE English tutors build the essay structure and timing that turn understanding into marks."
 
-angle_eyebrow: "WHY GCSE ENGLISH IN BIRMINGHAM, SPECIFICALLY"
+angle_eyebrow: "WHERE THE GCSE ENGLISH MARKS GO IN BIRMINGHAM"
 angle_heading: "Where a GCSE English tutor turns Birmingham students' reading into a grade"
 angle_body_1: "With GCSE English across Birmingham, reading ability is seldom the ceiling. The marks are lost in the writing and the timing. On Literature it is the comparison question, where a repeatable structure separates a 5 from a 7, and the unseen poetry, which rewards a method rather than pre-learned notes. On Language Paper 1 it is the AO5 and AO6 marks for crafted writing produced at speed. Underneath both, students who argue a point well in class but reach for the weak quote under exam pressure. The reading is done. The shaping for the mark scheme is the work."
 angle_body_2: "In the first session the tutor marks a recent essay against the assessment objectives, so a parent can see the marks are sitting in structure and evidence, not in ability. The lessons that follow are practical: one dependable frame for the comparison answer, paragraphs written to time, and the habit of choosing the quote that earns AO2. For an English, History or Psychology route at a King Edward VI sixth form, Joseph Chamberlain or Cadbury College, where a solid 6 or 7 is the ask, that is the shift from knowing the text to writing about it that lands the offer."

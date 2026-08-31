@@ -42,7 +42,7 @@ For a student going into **Year 13** this September:
 | 13 January 2027, 6pm | Main UCAS deadline for 2027 entry |
 | 10 May 2027 | Summer 2027 exams begin (provisional) |
 
-For a student going into **Year 12** this September, the exams are nearly two years away and it is tempting to file the whole thing under "next year". But this is the year that produces the prediction they will apply with in autumn 2027. The leverage is at its highest right now, and it is completely invisible right now. That combination is why the autumn of Year 12 is the most underused window at A-Level, in the same way Year 10 is at GCSE.
+For a student going into **Year 12** this September, the exams are nearly two years away and it is tempting to file the whole thing under "next year". But this is the year that produces the prediction they will apply with in autumn 2027. The gain available is at its highest right now, and it is completely invisible right now. That combination is why the autumn of Year 12 is the most underused window at A-Level, in the same way Year 10 is at GCSE.
 
 Entry requirements vary a great deal between courses and providers, so check the specific ones your child is interested in rather than working from a general impression. The point here is not which grades are needed. It is that the prediction is made from Year 12 work, and Year 12 work is happening now.
 

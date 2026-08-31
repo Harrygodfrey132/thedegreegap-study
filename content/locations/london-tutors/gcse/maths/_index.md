@@ -10,7 +10,7 @@ subject: "Maths"
 hero_h1: "Online GCSE Maths Tutoring for London Students"
 hero_lead: "By the time most London parents get in touch about GCSE Maths, the effort is there and the mark isn't moving. Our London GCSE Maths tutors sit the student through a recent higher paper and find where the marks are actually going."
 
-angle_eyebrow: "WHY GCSE MATHS ACROSS LONDON, SPECIFICALLY"
+angle_eyebrow: "WHERE THE GCSE MATHS MARKS GO IN LONDON"
 angle_heading: "Where a GCSE Maths tutor finds the marks that move a London grade"
 angle_body_1: "London runs two GCSE Maths conversations at once. In one, a student is a few marks off what a selective sixth form asks for. In the other, a Year 10 has been moved onto higher tier without the algebra to survive it. Both end up in the same place on the paper: algebraic fractions buried inside multi-mark questions, circle theorem proofs that need a reason on every line, iterative numerical methods, and the wordy problem-solving that fills the back of Paper 3. Almost none of that is a knowledge gap. It's a question-style gap."
 angle_body_2: "The first lesson is a marked paper, not a lesson plan. A tutor goes through it question by question, separating the marks lost to method from the marks lost to misreading what was asked. And those need different fixes. From there the plan targets whichever block is actually bleeding, whether that means rebuilding Year 9 algebra or drilling the last six questions of Paper 3 until the timing stops being the problem. For a student with Tiffin School or Brampton Manor Academy sixth form in mind, that gap is usually what the offer turns on."

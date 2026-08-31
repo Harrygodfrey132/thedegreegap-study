@@ -6,7 +6,7 @@
 {{ $tutors := .Params.tutors | default (first 24 (shuffle site.Data.tutors)) }}
 {{ $browseUrl        := .Params.tutors_browse_url | default (cond $isAlevel "/book-a-call/" "/book-a-call/") }}
 {{ $tutorStripHead   := .Params.tutor_strip_heading | default (printf "%s tutors ready to work with your child" $level) }}
-{{ $tutorStripBody   := .Params.tutor_strip_body    | default "Browse tutor profiles, read about their approach and experience, or let us make the introduction — we'll match your child with the right person for their subjects and year group." }}
+{{ $tutorStripBody   := .Params.tutor_strip_body    | default "Browse tutor profiles, read about their approach and experience, or let us make the introduction, and we'll match your child with the right person for their subjects and year group." }}
 
 <section class="gs-tutor-strip" aria-labelledby="gs-tutor-strip-title">
   <div class="container">

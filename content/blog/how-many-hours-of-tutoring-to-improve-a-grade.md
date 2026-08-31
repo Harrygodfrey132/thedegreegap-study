@@ -96,7 +96,7 @@ Movement on those four is a better early signal than any grade prediction, becau
 No, and neither can anyone else. Any agency offering a grade guarantee is either defining "guarantee" very narrowly in the terms, or making a promise it cannot control, because the person sitting the exam is your child rather than the tutor.
 
 **Is two hours a week twice as fast?**
-No. Returns diminish and the risk of burnout rises, particularly in Year 11 when they are already carrying a full timetable and revision. Two hours per subject makes sense in the run-up to mocks and exams, not as a default all year.
+No. Returns diminish and the risk of burnout rises, especially in Year 11 when they are already carrying a full timetable and revision. Two hours per subject makes sense in the run-up to mocks and exams, not as a default all year.
 
 **We have eight weeks. Is it pointless?**
 Not pointless, but be clear about what it can do. Eight weeks is enough to fix technique, drill past papers and tighten timing, which is often worth several marks per paper. It is not enough to rebuild two years of missing content.

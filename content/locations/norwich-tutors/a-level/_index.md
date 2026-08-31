@@ -57,7 +57,7 @@ reviews:
 
 faq_1_q: "She knows the content but the essays keep scoring in the middle. Why?"
 faq_1_a: "Because the essays are almost certainly describing rather than arguing, which is the single most common A-Level pattern we see. A student writes everything they know in a sensible order and it reads like a summary, so it scores like one. The fix is structural. A tutor teaches the shape of an evaluated paragraph and then marks the same essay again and again until that shape is automatic."
-faq_2_q: "Can a tutor help with a UEA application specifically?"
+faq_2_q: "Can a tutor help with a UEA application?"
 faq_2_a: "Yes, though the honest answer is that the subject grades do most of the work. UEA publishes its own entry requirements course by course and they vary a lot between subjects, so the first job is checking the ones that actually apply. Beyond that a tutor can help with the personal statement and, for the courses that interview, with talking about the subject properly."
 faq_3_q: "Should we start in Year 12 or wait until Year 13?"
 faq_3_a: "Year 12 is the better answer and the one most families wish they had taken. Predicted grades come out of Year 12 work plus the Year 13 mock, so the window to change one closes earlier than it looks. A Year 13 start still helps and we do plenty of them. It just narrows to exam papers and technique rather than rebuilding anything underneath."

@@ -77,13 +77,13 @@ There are two separate services and parents often conflate them.
 | Standard review of marking | 24 September 2026 | Everything else, including GCSE |
 | Clerical re-check | 24 September 2026 | All |
 
-The priority deadline exists specifically to protect university places, and it is one week after A-Level results day. If your child has missed an offer and the margin was small, that is the deadline to work to.
+The priority deadline exists to protect university places, and it is one week after A-Level results day. If your child has missed an offer and the margin was small, that is the deadline to work to.
 
 Two practical points. **Requests go through the school, not through you.** You cannot contact the exam board directly, so the conversation you need is with the exams officer. And **the school will usually charge a fee**, often refunded if the grade changes. Ask what it is before committing.
 
 ## Option two, for A-Level: the university conversation
 
-If your child has missed the conditions of an offer, the offer is not automatically gone. Universities have discretion and frequently use it, particularly where the miss was narrow.
+If your child has missed the conditions of an offer, the offer is not automatically gone. Universities have discretion and frequently use it, especially where the miss was narrow.
 
 **Call the university directly, and have your child make the call.** Admissions teams are staffed heavily on results day for exactly this. It is a far better use of the morning than refreshing UCAS Track.
 

@@ -10,7 +10,7 @@ subject: "Science"
 hero_h1: "Online GCSE Science Tutoring for Wigan Students"
 hero_lead: "GCSE Science is where a lot of Wigan students quietly lose ground: they revise hard, know the facts, and still drop marks on the long-answer questions and the required practicals. Our Wigan GCSE Science tutors work on the application and exam technique that content revision alone never fixes."
 
-angle_eyebrow: "WHY GCSE SCIENCE IN WIGAN, SPECIFICALLY"
+angle_eyebrow: "WHERE THE GCSE SCIENCE MARKS GO IN WIGAN"
 angle_heading: "Where a GCSE Science tutor finds the marks Wigan revision misses"
 angle_body_1: "GCSE Science in Wigan usually isn't a revision problem, it's an application one. Students learn the content and then lose marks in predictable places: the six and nine-mark long-answer questions that want a structured explanation, the required practicals examiners quietly love to test, the maths inside Physics where a unit conversion or a rearranged equation trips them, and the calculations in Chemistry under time. It splits two ways across the borough too. Some students need a secure grade 4 or 5 in Combined Science; others need the 6s and 7s that Triple and the Winstanley Science A-Levels ask for."
 angle_body_2: "The tutor starts by marking a recent paper across all three sciences to see whether the marks are going on recall, on the long-answer structure, or on the maths. From there it's specialist work: a Biology, Chemistry or Physics tutor for whichever subject is leaking most, drilling the practicals and the extended answers until they hold up. For a St John Rigby or Winstanley Science route, or a technical apprenticeship with an employer like Kraft Heinz at Kitt Green where the Sciences carry weight, that's the difference between a pass and a place."

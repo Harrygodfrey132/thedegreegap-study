@@ -10,7 +10,7 @@ subject: "Science"
 hero_h1: "Online GCSE Science Tutors Covering London"
 hero_lead: "Two GCSEs, three sciences, and revision spread so thin that none of it feels solid. Our London GCSE Science tutors split the subject back into its parts and work on the required practicals and long-answer questions where the marks actually sit."
 
-angle_eyebrow: "WHY GCSE SCIENCE ACROSS LONDON, SPECIFICALLY"
+angle_eyebrow: "WHERE THE GCSE SCIENCE MARKS GO IN LONDON"
 angle_heading: "Where a GCSE Science tutor finds the marks London students lose across three subjects"
 angle_body_1: "Combined Science is three subjects sharing one revision timetable, and that is usually where it comes apart. The required practicals get learned as a list of steps rather than as a method a student could be asked to evaluate. Six-mark questions get answered in bullet points. Chemistry calculations, moles and concentration above all, get quietly avoided until the week before. And the maths inside Physics, rearranging an equation and carrying the units through, is the single most common place a Science grade leaks without anyone noticing."
 angle_body_2: "So the first job is separating the three again. A tutor works out which of Biology, Chemistry or Physics is dragging the combined grade, then works on that one properly instead of revising everything a little. Required practicals get taught as method and variables. Six-mark answers get planned before they get written. For students at Brampton Manor Academy or Tiffin School with A-Level Sciences in mind, that separation matters early, because Triple and Combined leave students at different starting points in Year 12."

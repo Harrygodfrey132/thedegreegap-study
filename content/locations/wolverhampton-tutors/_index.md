@@ -28,7 +28,7 @@ about_image: /images/graduation-ceremony-caps.jpg
 schools_intro: Our tutors support students from secondary schools right across
   Wolverhampton. From Wolverhampton Grammar School and Our Lady & St Chad
   Catholic Academy to Highfields School, Heath Park Academy, Smestow Academy and
-  St Edmund's Catholic Academy, students come to us for a range of reasons,
+  St Edmund's Catholic Academy, students come to us for all sorts of reasons,
   whether they're aiming for top grades, preparing for sixth form entry at
   Wulfrun College or building a strong UCAS application. We also run workshops
   on exam technique and study skills, open to students from any local school.

@@ -1,0 +1,16 @@
+{{ define "seo" }}{{ partial "seo.html" . }}<meta name="robots" content="noindex, nofollow">{{ end }}
+{{ define "main" }}
+<div style="max-width:820px;margin:0 auto;padding:50px 22px 80px;font-family:'Poppins',system-ui,sans-serif">
+  <h1 style="font-size:1.5rem;font-weight:900;margin:0 0 6px">Review badges preview</h1>
+  <p style="color:#5f5a54;margin:0 0 34px">Internal only. Figures come from hugo.toml.</p>
+
+  <h2 style="font-size:.78rem;letter-spacing:.1em;text-transform:uppercase;color:#800020;margin:0 0 4px">Both platforms</h2>
+  {{ partial "review-badges.html" . }}
+
+  <h2 style="font-size:.78rem;letter-spacing:.1em;text-transform:uppercase;color:#800020;margin:34px 0 4px">Google only</h2>
+  {{ partial "review-badges.html" (dict "ctx" . "only" "google") }}
+
+  <h2 style="font-size:.78rem;letter-spacing:.1em;text-transform:uppercase;color:#800020;margin:34px 0 4px">Compact, both</h2>
+  {{ partial "review-badges.html" (dict "ctx" . "compact" true) }}
+</div>
+{{ end }}

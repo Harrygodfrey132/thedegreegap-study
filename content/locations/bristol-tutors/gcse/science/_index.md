@@ -10,7 +10,7 @@ subject: "Science"
 hero_h1: "GCSE Science Tutors Covering Bristol"
 hero_lead: "One grade, three subjects, and no way of telling from a report which one is dragging. Our Bristol GCSE Science tutors mark a recent paper across all three before deciding what the sessions should actually do."
 
-angle_eyebrow: "WHY GCSE SCIENCE IN BRISTOL, SPECIFICALLY"
+angle_eyebrow: "WHERE THE GCSE SCIENCE MARKS GO IN BRISTOL"
 angle_heading: "Where a GCSE Science Tutor Finds What a Bristol Report Doesn't Say"
 angle_body_1: "Science is the subject where hard revision and a flat grade sit together most often. The content gets learned and the marks go somewhere else: the six and nine-mark questions that reward a structured explanation over everything a student can remember, the required practicals examiners come back to year after year, the maths buried in Physics where one rearranged equation or missed unit conversion takes the whole answer down, and the moles and concentration work in Chemistry done under time. Recalling a fact and applying it to a context you've never seen are different skills. Only the first one gets revised at the kitchen table."
 angle_body_2: "The tutor marks across all three subjects first, because the real problem is usually narrower than a Science grade suggests. Once we know it's Physics calculations rather than Science generally, we can put a specialist on it instead of thinning one tutor across everything. That specificity matters in Bristol, where Science is the gate on both routes out of Year 11: a Science A-Level at Cotham or Redland Green, and the engineering apprenticeships that Airbus and GKN run up at Filton, where the technical assessment leans on exactly the applied Physics that a Combined Science student practises least."

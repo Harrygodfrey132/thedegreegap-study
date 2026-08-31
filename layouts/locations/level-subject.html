@@ -20,7 +20,7 @@
 {{ $cardCta     := .Params.card_cta     | default "Book a Free Consultation" }}
 
 {{/* ── Subject angle ── */}}
-{{ $angleEyebrow  := .Params.angle_eyebrow  | default (printf "WHY %s %s, SPECIFICALLY" ($subject | upper) ($level | upper)) }}
+{{ $angleEyebrow  := .Params.angle_eyebrow  | default (printf "WHERE THE %s %s MARKS GO" ($level | upper) ($subject | upper)) }}
 {{ $angleHeading  := .Params.angle_heading  | default (printf "What a strong %s %s tutor actually does for %s students" $level $subject $loc) }}
 {{ $angleBody1    := .Params.angle_body_1   | default (.Params.angle_body | default (printf "Most %s students know more %s than their mock grade suggests. The marks they're losing sit in two or three specific places. An algebra step that quietly broke earlier, a topic the school rushed through, the question style that always loses three marks." $loc $subject)) }}
 {{ $angleBody2    := .Params.angle_body_2   | default (printf "A good %s %s tutor sits a student through harder questions than school sets, finds those exact gaps in week one, and the plan from session two works back through them. For %s sixth-form offers, that's the difference that earns the place." $level $subject $loc) }}

@@ -10,7 +10,7 @@ subject: "Maths"
 hero_h1: "Online GCSE Maths Tutors Covering Sheffield"
 hero_lead: "A Sheffield sixth form publishes a number, and a mock paper comes back under it. Our Sheffield GCSE Maths tutors work backwards from that number, starting with the questions where the marks are actually being lost."
 
-angle_eyebrow: "WHY GCSE MATHS IN SHEFFIELD, SPECIFICALLY"
+angle_eyebrow: "WHERE THE GCSE MATHS MARKS GO IN SHEFFIELD"
 angle_heading: "Where a GCSE Maths Tutor Finds the Marks Between a Sheffield Mock and an Offer"
 angle_body_1: "Sheffield puts a specific kind of pressure on GCSE Maths. There are no grammar schools, so the competition arrives later, at the point where King Edward VII, Silverdale and High Storrs publish what they want for A-Level Maths and a Year 11 realises the mock is a band short. The marks are rarely spread evenly across the paper. They cluster: algebra rearranged one step too few, circle theorem proofs written without a reason on each line, iterative methods that get abandoned halfway, and the multi-stage problem solving at the back of Paper 3 where the question has to be decoded before it can be answered."
 angle_body_2: "The first session is a marked paper. Not a topic list, an actual paper, gone through question by question so the student can see the difference between a method they can't do and a method they rushed. Those need opposite fixes and get treated as such. After that the plan works to the published requirement rather than to a vague sense of improvement, which also makes progress measurable between now and March. For a Silverdale or King Ecgbert A-Level place, or the numeracy assessment on an AMRC engineering apprenticeship, this is the stretch of paper that decides it."

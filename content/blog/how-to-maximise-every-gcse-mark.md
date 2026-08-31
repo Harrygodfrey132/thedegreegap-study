@@ -33,7 +33,7 @@ The fix: look at the last few questions on each topic in the textbook, plus the 
 
 **Build a web of crossover topics.** Modern GCSE Maths questions often combine two topics in one question. Proportion plus percentage increase. Ratio plus probability. Algebra is the largest topic block on the higher paper, and students need to be confident with deriving algebraic formulae and recognising when to use them.
 
-Emily uses two techniques from her teaching that work for revision too. *Same surface, different depth*: a mind map starting with one simple mathematical idea (a trapezium, for example) and branching out into all the different exam contexts it could appear in — area, perimeter, money problems, gradient on a coordinate grid, enlargement, 3D shapes. *Goal-free problems*: take a past paper question, cover up the final question, and just see what the student can work out from the information given. Removes the cognitive distraction of racing to the answer and builds the habit of seeing what's linked to what. There are goal-free versions of past paper questions freely available online.
+Emily uses two techniques from her teaching that work for revision too. *Same surface, different depth*: a mind map starting with one simple mathematical idea (a trapezium, for example) and branching out into all the different exam contexts it could appear in, area, perimeter, money problems, gradient on a coordinate grid, enlargement, 3D shapes. *Goal-free problems*: take a past paper question, cover up the final question, and just see what the student can work out from the information given. Removes the cognitive distraction of racing to the answer and builds the habit of seeing what's linked to what. There are goal-free versions of past paper questions freely available online.
 
 **Active past paper revision.** Most students rush this. Three concrete moves to do it properly:
 
@@ -47,23 +47,23 @@ The headline: quality of revision matters much more than quantity, and the way t
 
 Jess specialises in English Language and Literature and has three years of tutoring experience across one-to-one and group settings. Her advice was structured around AQA but applies to most exam boards.
 
-**The core skills the mark scheme tests.** Students need an in-depth working knowledge of a wide range of language devices and structural features — not just adjectives and verbs and alliteration, but the harder ones too (superlatives, hyperbole, oxymoron, juxtaposition). They need to be able to spot these in a text AND use them in their own writing. Question 5 on both Language papers is the student's own written work, and it's worth half the marks of the paper.
+**The core skills the mark scheme tests.** Students need an in-depth working knowledge of a wide range of language devices and structural features, not just adjectives and verbs and alliteration, but the harder ones too (superlatives, hyperbole, oxymoron, juxtaposition). They need to be able to spot these in a text AND use them in their own writing. Question 5 on both Language papers is the student's own written work, and it's worth half the marks of the paper.
 
 For the analysis itself, Jess recommends sticking to whichever framework the school teaches (PEEL, PETAL, PETER) and using analysis keywords that signal original thinking to the examiner: *this implies*, *this suggests*, *this has connotations with*, *this references*.
 
-**For Question 5 specifically.** The mark scheme asks for a range of language devices, structural devices, punctuation, ambitious vocabulary and clear organisation. Jess's structural tip: use intentional paragraph starters (*firstly*, *additionally*, *furthermore*, *finally*) to signal organisation. Examiners are testing whether the student knows the devices, not whether they could write the next bestseller.
+**For Question 5.** The mark scheme asks for language devices, structural devices, punctuation, ambitious vocabulary and clear organisation. Jess's structural tip: use intentional paragraph starters (*firstly*, *additionally*, *furthermore*, *finally*) to signal organisation. Examiners are testing whether the student knows the devices, not whether they could write the next bestseller.
 
-**Literature: think context, themes, characters.** For each text, students need a working understanding of the period and the author, the themes (Animal Farm: power and control, corruption, propaganda, equality, class), and the characters (Jess recommends building character cards with key quotes, traits and pivotal moments).
+**Literature: think context, themes, characters.** For each text, students need a working understanding of the period and the author, the themes (Animal Farm: power and control, corruption, propaganda, equality, class), and the characters (Jess recommends building character cards with key quotes, traits and turning points).
 
 **Common mistakes she sees.** Losing focus on the question (especially when it specifies line numbers); generic comments (*"short sentences create tension"* without saying what they do in this specific extract); and feeling overwhelmed by Question 5. On timing: there is no rule that says students have to answer in order. If timing is a worry, starting with Question 5 and working backwards is fine. Don't risk running out of time on the biggest question on the paper.
 
-**Multimodal revision.** Jess closed on the cone of learning (Edgar Dale) — within two weeks we remember about 10% of what we read but 90% of what we do and 70% of what we say. Practical implications:
+**Multimodal revision.** Jess closed on the cone of learning (Edgar Dale), within two weeks we remember about 10% of what we read but 90% of what we do and 70% of what we say. Practical implications:
 
 - Reduce notes to half a page, then to a paragraph, then to a flashcard. Each reduction forces active thinking.
 - Teach the material out loud to a parent or a friend. Teaching forces clarity.
 - Mood boards for characters. Audio recordings of notes for students who learn by ear. Dramatic performance of key Shakespeare quotes.
 - Essay plans, not full essays. Saves time, builds a backup plan the student can reach for in the exam.
-- Colour-code every theme and character in each text by confidence — green for comfortable, yellow for needs work, red for tricky. Spend the revision time on the reds.
+- Colour-code every theme and character in each text by confidence, green for comfortable, yellow for needs work, red for tricky. Spend the revision time on the reds.
 
 ## GCSE Sciences: 75% content, 25% past papers
 
@@ -71,7 +71,7 @@ Callum has a master's and bachelor's from Cambridge in biological natural scienc
 
 **The two halves of GCSE Science success.** Understanding the content on the specification, and examination technique. These need to be developed separately and then brought together. Callum's recommended split for revision time: **75% on content, 25% on past papers**. Most students drift the other way as exams approach because past papers feel productive and content revision feels slow. But the foundation is the content.
 
-**What "understanding content" really means.** Not just memorising that increasing temperature increases reaction rate, but understanding why. Not just being able to repeat a textbook definition, but being able to apply the concept to an unfamiliar scenario. GCSE Science questions often give the student a context they haven't seen before — a specific plant, a specific experiment — and ask them to apply principles they've covered. Students who've genuinely understood the content can do this; students who've memorised without understanding can't.
+**What "understanding content" really means.** Not just memorising that increasing temperature increases reaction rate, but understanding why. Not just being able to repeat a textbook definition, but being able to apply the concept to an unfamiliar scenario. GCSE Science questions often give the student a context they haven't seen before, a specific plant, a specific experiment, and ask them to apply principles they've covered. Students who've genuinely understood the content can do this; students who've memorised without understanding can't.
 
 **The single biggest content mistake Callum sees.** Vague answers. A student can know the right thing and write it in a way that doesn't earn the marks because they didn't use the precise scientific language the mark scheme rewards. A three-mark question that's roughly right in plain English can score one mark or zero. Precision of language is part of understanding the content, not just exam technique.
 
@@ -86,7 +86,7 @@ Callum has a master's and bachelor's from Cambridge in biological natural scienc
 - **Read the command word.** *Describe*, *explain*, *evaluate*, *calculate* all require different approaches. Misinterpreting these costs marks.
 - **Know your exam board, and use that board's mark schemes when marking past papers.** It surprises Callum how many students don't know which board they're sitting.
 - **Show your method on calculations.** Method marks are valuable. Doing the calculation in your head is fine if the final answer is right, but if you make a mistake, you've thrown away marks you could have kept. Write more than feels necessary.
-- **Time yourself.** A mark per minute is a good rule of thumb — a three-mark question gets three minutes. Don't sit your first timed paper on the day of the exam.
+- **Time yourself.** A mark per minute is a good rule of thumb, a three-mark question gets three minutes. Don't sit your first timed paper on the day of the exam.
 
 **Build a mistakes bank.** Every question Callum got wrong during his own GCSEs and A-Levels went into a document. He revisited it regularly. The mistakes bank gets bigger over time, but the gaps it represents close, and the same mistakes stop turning up in the real thing.
 
@@ -102,7 +102,7 @@ If your child is in Year 10 or Year 11 and any of this resonates, it usually mea
 
 ## Watch the full webinar
 
-The complete session, including Emily's, Jess's and Callum's full talks and our Q&A with parents, is on YouTube here: [How to maximise every GCSE mark — full webinar](https://www.youtube.com/watch?v=UnBjkc345CY&t=3172s).
+The complete session, including Emily's, Jess's and Callum's full talks and our Q&A with parents, is on YouTube here: [How to maximise every GCSE mark, full webinar](https://www.youtube.com/watch?v=UnBjkc345CY&t=3172s).
 
 ---
 

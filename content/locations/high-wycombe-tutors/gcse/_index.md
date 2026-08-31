@@ -56,7 +56,7 @@ reviews:
   - "Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE. Thank you."
 
 faq_1_q: "How does a tutor help a Wycombe student aim for a grammar sixth form place?"
-faq_1_a: "Most of the gap between where a student is and where the sixth form is asking for is a question-type problem, not a content one. The tutor takes recent mock papers, identifies the question types where marks are leaking (six-mark Maths problems, AO3 evaluation paragraphs in English, application questions in Sciences), and drills those specifically. Most students see the predicted grade move inside a half term of weekly sessions."
+faq_1_a: "Most of the gap between where a student is and where the sixth form is asking for is a question-type problem, not a content one. The tutor takes recent mock papers, identifies the question types where marks are leaking (six-mark Maths problems, AO3 evaluation paragraphs in English, application questions in Sciences), and drills those. Most students see the predicted grade move inside a half term of weekly sessions."
 faq_2_q: "Do you cover all three Sciences for triple-award students in High Wycombe?"
 faq_2_a: "Yes, with separate Biology, Chemistry and Physics specialists. Triple Science students at the grammars tend to plateau on the six and nine-mark questions in one specific subject, not all three. We match a subject specialist for whichever Science is leaking marks, rather than asking one tutor to cover all three."
 faq_3_q: "When should we book GCSE tutoring? Year 10 or wait until Year 11?"

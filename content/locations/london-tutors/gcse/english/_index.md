@@ -10,7 +10,7 @@ subject: "English"
 hero_h1: "Online One-to-One GCSE English Tutors for London Families"
 hero_lead: "Most GCSE English marks are lost on the page, not in the reading. Our London GCSE English tutors work on essay structure, evidence selection and the timing that decides how much of the answer actually gets written."
 
-angle_eyebrow: "WHY GCSE ENGLISH ACROSS LONDON, SPECIFICALLY"
+angle_eyebrow: "WHERE THE GCSE ENGLISH MARKS GO IN LONDON"
 angle_heading: "Where a GCSE English tutor finds the marks London students leave on the page"
 angle_body_1: "English is the subject where London parents most often say the same thing. She understands the book, so why is the grade a 5? The gap usually sits in four places. Unseen poetry, where an opinion arrives without the evidence to hold it up. The comparison question, which needs its structure decided before the pen moves. AO5 and AO6 on the writing paper, where technical accuracy quietly carries marks students assume are free. And timing, which costs more than the other three put together."
 angle_body_2: "A tutor starts with a marked answer rather than a topic. Read against the mark scheme, it shows quickly whether the marks are going on ideas, on evidence, or on running out of paper. From there the work is drills. A paragraph structure that holds up under time. A bank of quotations short enough to actually recall in an exam hall. Full papers written to the clock. Students at Mossbourne Community Academy and Highgate School sit different specifications, so the tutor matches the board before anything else."

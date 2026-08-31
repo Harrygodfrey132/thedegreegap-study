@@ -70,7 +70,7 @@ There is also a pastoral element that is easy to dismiss and genuinely matters. 
 
 Genuinely underrated, and very few families think of it.
 
-GCSE and A-Level exam timetables are spread over several weeks. If a student sits Biology paper one on a Tuesday and paper two the following Monday, there is a week in between, and an hour in that week aimed squarely at paper two content is about the highest-leverage session available anywhere in the process.
+GCSE and A-Level exam timetables are spread over several weeks. If a student sits Biology paper one on a Tuesday and paper two the following Monday, there is a week in between, and an hour in that week aimed squarely at paper two content is about the most valuable single session available anywhere in the process.
 
 The same applies to a subject sat late in the window. A student with a Physics paper in the second week of June has time to do real work on it in late May.
 
@@ -107,7 +107,7 @@ Usually yes, for technique, timed papers and targeted topics. Not for learning a
 No. Intensive Easter blocks are good for consolidating and drilling. They cannot replace two years of teaching, and it is worth being wary of anyone who suggests otherwise.
 
 **Is it too late for A-Level?**
-The same logic applies, with one difference: A-Level content is more synoptic, so late gap-filling is harder. The upside is that A-Level exam technique, particularly essay structure and extended-response marking, responds very well to late work.
+The same logic applies, with one difference: A-Level content is more synoptic, so late gap-filling is harder. The upside is that A-Level exam technique, especially essay structure and extended-response marking, responds very well to late work.
 
 **Should we book more than one hour a week this close in?**
 In the final six weeks, two hours a week in one subject is reasonable if your child has the capacity for it. Watch for burnout rather than assuming more is better.

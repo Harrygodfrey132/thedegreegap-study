@@ -10,7 +10,7 @@ subject: "English"
 hero_h1: "GCSE English Tutors Covering Sheffield"
 hero_lead: "The essays come back with comments a parent can't act on and a grade that hasn't shifted in a year. Our Sheffield GCSE English tutors mark the student's own writing against the assessment objectives and show them exactly where the marks stopped."
 
-angle_eyebrow: "WHY GCSE ENGLISH IN SHEFFIELD, SPECIFICALLY"
+angle_eyebrow: "WHERE THE GCSE ENGLISH MARKS GO IN SHEFFIELD"
 angle_heading: "Where a GCSE English Tutor Moves a Sheffield Grade That Has Sat Still"
 angle_body_1: "English is the subject where a Sheffield student can work hard for a year and watch the grade stay exactly where it was. That's because effort goes into the wrong half of the problem: more reading, more quotations learned, more revision guides. The marks are lost somewhere else. A comparison written as two separate descriptions rather than one argument. An unseen poem retold instead of analysed. Quotations picked for being memorable rather than for proving a point. And a Language paper where the writing question, worth as much as anything else, gets whatever minutes are left at the end."
 angle_body_2: "So the tutor works from the student's own answers rather than from the text. An essay is marked in front of them against the actual objectives, which is usually the first time anyone has shown them why one paragraph scored and the next one didn't. From there it's drilling the shapes that earn marks, a four-minute plan, a comparative paragraph that carries both texts at once, and enough timed practice that the last question stops being the rushed one. For a King Edward VII or Notre Dame English A-Level, where the subject grade is looked at on its own, that is the work that closes the gap."
@@ -35,7 +35,7 @@ steps:
   - title: "Share your goals"
     body: "Tell us whether it's English Language, English Literature or both, the exam board, and which set texts the school teaches. Sheffield schools don't all teach the same novel and play, so matching a tutor who already knows those texts saves the first few weeks."
   - title: "Meet your match"
-    body: "Two or three tutor profiles arrive within 24 hours, with a free 15-minute meeting before anything is booked. We match on the paper doing the damage, so a student losing marks on the unseen poetry question gets a tutor who teaches that question specifically."
+    body: "Two or three tutor profiles arrive within 24 hours, with a free 15-minute meeting before anything is booked. We match on the paper doing the damage, so a student losing marks on the unseen poetry question gets a tutor who teaches that exact question."
   - title: "Start the lessons"
     body: "Weekly hour-long sessions on Lessonspace, our shared whiteboard, where a paragraph gets built, marked and rebuilt while the student watches. Most Sheffield Year 11s settle into one essay written between sessions and marked properly in the next. From £37 an hour."
 

@@ -10,7 +10,7 @@ subject: "Maths"
 hero_h1: "Online GCSE Maths Tutors Covering St Albans"
 hero_lead: "One-to-one GCSE Maths tutors who fit around school, find the marks slipping on the higher paper, and rebuild from there. Matched to AQA, Edexcel or OCR, online sessions from £37/hr."
 
-angle_eyebrow: "WHY GCSE MATHS IN ST ALBANS, SPECIFICALLY"
+angle_eyebrow: "WHERE THE GCSE MATHS MARKS GO IN ST ALBANS"
 angle_heading: "Where a GCSE Maths tutor finds the top-band marks for St Albans students"
 angle_body_1: "In St Albans, the grade 7 ceiling on the higher Maths paper is the real one. Year 11s sitting on a comfortable 6 or 7 aren't losing marks because they don't know the content. They are losing them in three or four predictable places: the algebraic manipulation step inside a multi-mark question, the trickier circle theorem proofs, the iterative numerical methods, and the wordy problem-solving questions at the back of the paper. Most St Albans students we see have done the work; the marks are sitting in question style, not subject knowledge."
 angle_body_2: "That's where a GCSE Maths tutor earns the offer. The first lesson sits the student through a recent higher-tier paper, finds which question styles are bleeding marks, and the plan from lesson two pushes past the comfortable 7 into 8 and 9 territory. Sandringham, Verulam and St Albans School each publish their own sixth-form entry requirements by subject, and Maths generally asks for more than the rest, so the number worth working to is the one on this year's page."

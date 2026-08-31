@@ -1,5 +1,5 @@
 ---
-title: "GCSE Results Day Webinar — Terms & Conditions"
+title: "GCSE Results Day Webinar, Terms & Conditions"
 description: "The full terms and conditions and privacy notice for registering for and attending The Degree Gap's free GCSE Results Day webinar."
 robots: "noindex, follow"
 sitemap:
