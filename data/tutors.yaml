@@ -8,7 +8,7 @@
   blurb: Harry is a London School of Economics graduate and co-founder of The Degree Gap. He brings over 2,000 hours of tutoring
     experience and two years of full-time teaching across GCSE through undergraduate curricula. Before establishing The Degree
     Gap, he managed a tutoring agency supporting international students seeking admission to prestigious universities.
-  image: https://www.thedegreegap.com/cache/09/caa1e73fb0eb7272d1de50513fbd6e.jpg
+  image: /images/tutors/harry-godfrey.jpg
   url: https://thedegreegap.com/teachers/view/harry_godfrey
   verified: false
   online: true
@@ -22,7 +22,7 @@
   blurb: Joe Clark studied Business Management and Marketing at a prestigious London business school and gained experience
     through internships in Sales and Marketing. He achieved top A-level grades and brings expert guidance to help students
     excel in their studies.
-  image: https://www.thedegreegap.com/cache/94/beecfbc6b946c0193a148c933e7342.jpg
+  image: /images/tutors/joe-clark.jpg
   url: https://thedegreegap.com/teachers/view/Joe_clark
   verified: false
   online: true
@@ -37,7 +37,7 @@
   blurb: Vipin is a highly accomplished mathematics tutor with distinguished academic credentials from Cambridge University.
     He specializes in supporting students across undergraduate and postgraduate levels in pure and applied mathematics, linear
     algebra, and analysis.
-  image: https://www.thedegreegap.com/cache/48/ab7a52df69607ef69a4be9a50fc954.jpg
+  image: /images/tutors/vipin-chaudhary.jpg
   url: https://thedegreegap.com/teachers/view/Vipin_Chaudhary
   verified: false
   online: true
@@ -52,7 +52,7 @@
   blurb: Callum is a University of Cambridge graduate with 6 years of tutoring experience across diverse student backgrounds.
     He has worked as Principal Biological Sciences Form Tutor for a university admissions mentoring service. His patient approach
     focuses on building confidence and independence through tailored instruction.
-  image: https://www.thedegreegap.com/cache/9e/97d03614ae472818d0c828bb86c778.jpg
+  image: /images/tutors/callum-ormsby.jpg
   url: https://thedegreegap.com/teachers/view/Callum_Ormsby
   verified: true
   online: true
@@ -65,7 +65,7 @@
   price: £30.00 - £90.00
   blurb: I'm a 1st year student at the University of Nottingham, studying Politics and International Relations. She has provided
     tutoring in mathematics for approximately seven years across diverse age groups.
-  image: https://www.thedegreegap.com/cache/61/c1c7075fb87b6c3123e712b55adc7f.jpg
+  image: /images/tutors/ritisha-kulkarni.jpg
   url: https://thedegreegap.com/teachers/view/rkulkarni
   verified: false
   online: true
@@ -78,7 +78,7 @@
   price: £10.00 - £45.00
   blurb: Qualified teacher with a BA (Hons) in Primary Education with Mathematics Specialism. Brings 3 years of tutoring experience
     in mathematics, further mathematics, and computer science across varying student abilities.
-  image: https://www.thedegreegap.com/cache/8d/070d67dc67c6a8a99422a73abaa90f.jpg
+  image: /images/tutors/connor-harrison.jpg
   url: https://thedegreegap.com/teachers/view/Connor_Harrison
   verified: true
   online: true
@@ -92,7 +92,7 @@
   blurb: Dynamically driven analytical educator with over 15 years of experience teaching business at secondary to college
     level. Proficient in using independent decision-making skills and critical thinking to enhance student understanding of
     real-world scenarios.
-  image: https://www.thedegreegap.com/cache/3d/5a6d03f68b3a23b38bf0a7c3a13f37.jpg
+  image: /images/tutors/annishka-white.jpg
   url: https://thedegreegap.com/teachers/view/Annishka
   verified: true
   online: true
@@ -107,7 +107,7 @@
   blurb: Dianne Shannon has worked in education for over 20 years with experience teaching at all levels, from secondary school
     through to postgraduate study. She holds a BA in Business Administration (with distinction), a Postgraduate Certificate
     in Teaching in FE, and a Master's in Education.
-  image: https://www.thedegreegap.com/cache/2e/b83f56eaaab7ac55217fcf2827ac34.jpg
+  image: /images/tutors/dianne-shannon.jpg
   url: https://thedegreegap.com/teachers/view/DianneS
   verified: false
   online: true
@@ -121,7 +121,7 @@
   blurb: A patient tutor with a clear delivery style that can assist in both human and physical geography, from primary through
     GCSE, A Level and Degree education. As a Dr of geography my own research blended human and physical as a way of exploring
     landscape.
-  image: https://thedegreegap.com/cache/75/14654e2c70a10573a257cb3b157ee2.jpg
+  image: /images/tutors/jon-brettell.jpg
   url: https://thedegreegap.com/teachers/view/Jon_Brettell
   verified: false
   online: true
@@ -137,7 +137,7 @@
   price: £37.50 - £120.00
   blurb: Recently graduated from Oxford University with a Law degree, Avery offers tutoring across multiple subjects at GCSE
     and A-level. I work with students to create a learning plan that is specifically catered to them.
-  image: https://thedegreegap.com/cache/bd/9b400d603fa3eed019a026bd303ed4.jpg
+  image: /images/tutors/avery-goldie.jpg
   url: https://thedegreegap.com/teachers/view/averygoldie
   verified: true
   online: true
@@ -150,7 +150,7 @@
   price: £45.00 - £55.00
   blurb: DBS-certified science tutor based in London with over 5 years of online tutoring experience and a 100% pass rate.
     Currently a 3rd Year Medical Student with a first-class biomedical sciences degree.
-  image: https://thedegreegap.com/cache/24/02f214b3bbf0b2bb41747c31ece6aa.jpg
+  image: /images/tutors/maya-jandu.jpg
   url: https://thedegreegap.com/teachers/view/mayajandu
   verified: true
   online: true
@@ -165,7 +165,7 @@
   price: £35.00 - £70.00
   blurb: I'm passionate about helping my students grow in confidence to reach their academic goals. Ella holds a First Class
     Honours degree in English Literature and emphasizes personalized instruction tailored to individual learning styles.
-  image: https://thedegreegap.com/cache/d1/0907c83a65e002389723f697b5b2ba.jpg
+  image: /images/tutors/ella-peel.jpg
   url: https://thedegreegap.com/teachers/view/EllaPeel
   verified: true
   online: true
@@ -180,7 +180,7 @@
   price: £24.75 - £66.00
   blurb: '"My name is Darcy Ind and I am a recent graduate from the University of Sheffield with a 2.1 in BA Modern Languages
     (French, Spanish and German). The tutor has worked both online and in schools teaching these languages at GCSE level."'
-  image: https://thedegreegap.com/cache/1d/014a8df5f87c5932f0497c18134a4f.jpg
+  image: /images/tutors/darcy-ind.jpg
   url: https://thedegreegap.com/teachers/view/darcyind
   verified: true
   online: true
@@ -193,7 +193,7 @@
   price: £41.25 - £150.00
   blurb: '"Hi! My name is Frances, I am a PGCE qualified teacher with a Master''s degree in maths and many years of tutoring
     experience! I tutor maths from primary to university level, and physics from primary to GCSE."'
-  image: https://thedegreegap.com/cache/38/4eed4c92840f798902f40217495f45.jpg
+  image: /images/tutors/frances-averre.jpg
   url: https://thedegreegap.com/teachers/view/FrancesA
   verified: true
   online: true
@@ -206,7 +206,7 @@
   price: £30.00 - £40.00
   blurb: '"Sara is a native Italian speaker with a passion for languages. She graduated in English and Spanish Language and
     Literature at the University of Bergamo, having also spent two years studying at the University of Manchester."'
-  image: https://thedegreegap.com/cache/8c/766438d03fdffde1dc9c344e40a6fe.jpg
+  image: /images/tutors/sara-dellapiana.jpg
   url: https://thedegreegap.com/teachers/view/SaraDellapiana
   verified: true
   online: true
@@ -221,7 +221,7 @@
   blurb: '"Neil Hedge is a qualified secondary teacher with a Mathematics degree who specializes in GCSE preparation. He combines
     academic rigour with a supportive, motivational approach to help students achieve excellent results while building genuine
     mastery and confidence."'
-  image: https://thedegreegap.com/cache/05/c18518344849ea94a2db7e390169d4.jpg
+  image: /images/tutors/neil-hedge.jpg
   url: https://thedegreegap.com/teachers/view/Neil_Hedge
   verified: true
   online: true
@@ -236,7 +236,7 @@
   blurb: '"Jacob is currently preparing for his PhD after completing his Bachelor''s from Oxford in Ancient and Modern History
     and his Master''s from St Andrews in Medieval History. During his studies, he began tutoring and has accumulated 3 years
     of experience. He teaches History and English at A-Level to KS3, plus A-Level Sociology."'
-  image: https://thedegreegap.com/cache/63/a430b8623078fe8465a73f61051343.jpg
+  image: /images/tutors/jacob-berry.jpg
   url: https://thedegreegap.com/teachers/view/108759843003883984075
   verified: true
   online: true
@@ -250,7 +250,7 @@
   blurb: '"Hardworking and enthusiastic First-class Honours History/Politics Graduate dedicated to supporting students in
     achieving their highest potential in their academic performance. The tutor brings six years of private tutoring experience
     with a 100% success rate in helping students meet their target grades."'
-  image: https://thedegreegap.com/cache/6f/6f5ce73e16aabc4b72c54001564a3c.jpg
+  image: /images/tutors/malvina-ferzaj.jpg
   url: https://thedegreegap.com/teachers/view/MalvinaFerzaj
   verified: true
   online: true
@@ -264,7 +264,7 @@
   blurb: '"Zain holds a BSc in Human Biology and Infectious Diseases from the University of Salford (First Class Honours)
     and is currently studying Medicine. He brings extensive experience tutoring GCSE students across science and maths, plus
     A-level biology instruction."'
-  image: https://thedegreegap.com/cache/f4/979028bda37dc487f526570011d368.jpg
+  image: /images/tutors/zain-mirza.jpg
   url: https://thedegreegap.com/teachers/view/Zain_Mirza
   verified: true
   online: true
@@ -279,7 +279,7 @@
   price: £55.00 - £70.00
   blurb: '"Transform your grades with personalized, expert tutoring! With over 500 hours of experience, I specialize in teaching
     Mathematics, Further Mathematics and Physics to GCSE and A-Level students."'
-  image: https://thedegreegap.com/cache/1a/370456d7c0fb117cd8eaf3ad6ab931.jpg
+  image: /images/tutors/shikhar-agarwal.jpg
   url: https://thedegreegap.com/teachers/view/Shikhar
   verified: true
   online: true
@@ -292,7 +292,7 @@
   price: £10.00 - £90.00
   blurb: '"Hello, I''m Sandra, currently completing my Psychology MSci at Royal Holloway, University of London. While I aspire
     to become a clinical psychologist, my passion for teaching has always been a key driving force in my career."'
-  image: https://thedegreegap.com/cache/30/f101c61e5c816a2a4e4e8a9a70dbf5.jpg
+  image: /images/tutors/sandra-sabu.jpg
   url: https://thedegreegap.com/teachers/view/sandrasabu
   verified: true
   online: true
@@ -309,7 +309,7 @@
   blurb: Faizaan has seven years of tutoring experience across all educational levels. He holds a Cambridge University Law
     degree and emphasises efficiency, perfection and diligence, with results exceeding client expectations through enthusiastic,
     engaging and interactive sessions.
-  image: https://thedegreegap.com/cache/a0/5a456a5430697e519b98e79179462a.jpg
+  image: /images/tutors/faizaan-butt.jpg
   url: https://thedegreegap.com/teachers/view/faizaanb1
   verified: true
   online: true
@@ -323,7 +323,7 @@
   blurb: An experienced educator with 13 years in the field, Hollie specialises in Geography instruction and also teaches
     Philosophy. She brings expertise across multiple exam boards and serves as Director of the IB Diploma at Brentwood School,
     where she examines for the programme.
-  image: https://thedegreegap.com/cache/b3/e33eda8ae4be7dc3ddf8e45b0157e5.jpg
+  image: /images/tutors/hollie-carter.jpg
   url: https://thedegreegap.com/teachers/view/Hollie_carter
   verified: true
   online: true
@@ -338,7 +338,7 @@
   blurb: Ardis is a 3rd-year medical student at the University of Birmingham offering tutoring with 4+ years of experience
     across GCSE and A-Level subjects. She achieved mostly 9s at GCSE and A*s at A-Level, plus secured multiple medical school
     offers including from Russell Group universities.
-  image: https://thedegreegap.com/cache/ef/340b388ff91c01774767734495ea0c.jpg
+  image: /images/tutors/ardis-rexha.jpg
   url: https://thedegreegap.com/teachers/view/ardis_rexha
   verified: true
   online: true
@@ -352,7 +352,7 @@
   blurb: An experienced science tutor with three years of tutoring experience across multiple exam boards. Currently studying
     MBBS at King's College London, bringing deep understanding of science subjects and real-world applications to lessons.
     Has demonstrated success guiding students to top grades.
-  image: https://thedegreegap.com/cache/13/8a6088878de11ae9295d680a54b316.jpg
+  image: /images/tutors/safiyyah-ahmed.jpg
   url: https://thedegreegap.com/teachers/view/Safiyyah_A
   verified: true
   online: true
@@ -368,7 +368,7 @@
   blurb: An experienced English tutor with over 17 years of teaching background and a First Class PGCE from Coventry University.
     She tailors each session to your unique needs and goals through personalised lessons covering exam preparation, conversation
     skills, and literature comprehension.
-  image: https://thedegreegap.com/cache/f9/18f9eaee81f50370c7bf7c43250a18.jpg
+  image: /images/tutors/randa-jneid.jpg
   url: https://thedegreegap.com/teachers/view/Randa_Jneid
   verified: false
   online: true
@@ -383,7 +383,7 @@
   blurb: Alisha specialises in breaking down complex science and psychology concepts into understandable explanations. Her
     goal is to make every lesson engaging, motivating, and even fun while helping students achieve top results, using active
     learning through discussion and exam practice.
-  image: https://thedegreegap.com/cache/7d/40d00fd78e35c76e2cc207a24c2cb1.jpg
+  image: /images/tutors/alisha-amin.jpg
   url: https://thedegreegap.com/teachers/view/Alisha
   verified: true
   online: true
@@ -397,7 +397,7 @@
   blurb: Experienced maths educator with 9 years of tutoring expertise focused on helping students understand concepts rather
     than memorise them. Known for simplifying complex problems through clear explanations and adapting teaching methods to
     each student's unique learning style.
-  image: https://thedegreegap.com/image/show/4/515/MEDIUM
+  image: /images/tutors/tayyaba-hussain.jpg
   url: https://thedegreegap.com/teachers/view/Tayyaba
   verified: true
   online: true
@@ -411,7 +411,7 @@
   blurb: An experienced educator with a Master's in Chemical Engineering from Imperial College London, Thanu brings over 7
     years of tutoring experience. He has a strong track record of helping students build confidence and achieve at least a
     two-grade improvement in attainment using personalised, science-backed methods.
-  image: https://thedegreegap.com/cache/83/9b7d6f23c7767e137bf80e018e61ed.jpg
+  image: /images/tutors/thanu-yogeswaran.jpg
   url: https://thedegreegap.com/teachers/view/ThanuYogeswaran
   verified: true
   online: true
@@ -425,7 +425,7 @@
   price: £40.00 - £60.00
   blurb: Second-year Computer Science student at Imperial College London with A*A*AA A-levels and First Class first-year results.
     Specialises in university applications for Computer Science and Maths, offering support with admission tests and interviews.
-  image: https://thedegreegap.com/cache/c8/dfb6ddbbf64b75dcb218ee9902f80f.jpg
+  image: /images/tutors/ashrith-agastyaraju.jpg
   url: https://thedegreegap.com/teachers/view/ashrith_agas
   verified: true
   online: true
@@ -440,7 +440,7 @@
   blurb: Jess is an experienced English tutor with three years of background, having worked with community projects and private
     lessons. She emphasises a personalised approach and adapting to the needs of each student, covering topics from Shakespeare
     to creative writing.
-  image: https://thedegreegap.com/cache/2d/4ad483a6dc3f6d3381bd7557fbc5a9.jpg
+  image: /images/tutors/jessica-b.jpg
   url: https://thedegreegap.com/teachers/view/Jessica
   verified: false
   online: true
@@ -454,7 +454,7 @@
   blurb: Experienced Maths tutor specialising in 11+ and GCSE preparation with four years of online tutoring experience. Believes
     the key to doing well in Maths is through practice, helping students understand topics through practical problem-solving
     and past paper work.
-  image: https://thedegreegap.com/image/show/4/529/MEDIUM
+  image: /images/tutors/humaira-habib.jpg
   url: https://thedegreegap.com/teachers/view/103198205109626178000
   verified: true
   online: true
@@ -468,7 +468,7 @@
   blurb: Francis brings over 30 years of teaching experience with a Master's in Chemistry from the University of Essex. He
     specialises in GCSE and A-Level tutoring, offering tailored lessons that emphasise understanding and exam strategies to
     help students achieve strong results.
-  image: https://thedegreegap.com/cache/b9/cdcba12dfd54ddf6f0ea7223143664.jpg
+  image: /images/tutors/francis-isaac.jpg
   url: https://thedegreegap.com/teachers/view/francisisaac
   verified: true
   online: true
@@ -482,7 +482,7 @@
   blurb: Mechanical Engineering student with hands-on experience in propulsion systems and aerodynamics. Brings real-world
     engineering experience into lessons to make abstract concepts like thermodynamics, fluid dynamics, and mechanics more
     engaging, tailoring instruction based on individual learning styles.
-  image: https://thedegreegap.com/cache/d3/19c1744fd73bc7f448f7820b4dbdbe.jpg
+  image: /images/tutors/zain-mumtaz.jpg
   url: https://thedegreegap.com/teachers/view/Zain_Mumtaz
   verified: true
   online: true
@@ -497,7 +497,7 @@
   blurb: Oxford medical student providing specialised instruction across GCSE and A-level sciences, mathematics, and university
     medicine preparation. Tailors lessons to meet the aspirations and needs of each individual student to help them achieve
     their educational objectives.
-  image: https://thedegreegap.com/cache/15/23cd627593feee960f22d413a9e117.jpg
+  image: /images/tutors/layla-sarakbi.jpg
   url: https://thedegreegap.com/teachers/view/laylasarakbi
   verified: true
   online: true
@@ -511,7 +511,7 @@
   blurb: First-Class Psychology graduate and Governors' Prize recipient with extensive tutoring experience. Recognised as
     Tutor of the Term for exceptional student outcomes, providing calm, patient, and motivational instruction adapted to diverse
     learning styles.
-  image: https://thedegreegap.com/cache/52/9d355c1a32684cb027106734e01752.jpg
+  image: /images/tutors/joshua-sagir.jpg
   url: https://thedegreegap.com/teachers/view/JoshuaSagir
   verified: true
   online: true
@@ -525,7 +525,7 @@
   blurb: Experienced educator across multiple key stages with expertise in GCSE and A-level English. A dynamic and resourceful
     teacher skilled at tailoring lessons to individual needs and fostering inclusive, engaging instruction for students of
     all abilities.
-  image: https://thedegreegap.com/cache/c3/3b15718fd8e00f1e1cc0c8afcd6eef.jpg
+  image: /images/tutors/mobashira-amatul.jpg
   url: https://thedegreegap.com/teachers/view/Mobashira
   verified: true
   online: true
@@ -540,7 +540,7 @@
   blurb: First-year dental student at King's College London with four A*s in A level sciences and maths. Offers over three
     years of tutoring experience with tailored teaching methods adapted to each student's needs, focused on building conceptual
     understanding rather than rote memorisation.
-  image: https://thedegreegap.com/cache/43/5ca52683d58216f3e6415f4efbc721.jpg
+  image: /images/tutors/harvey-murray.jpg
   url: https://thedegreegap.com/teachers/view/harv9ymurray
   verified: true
   online: true
@@ -554,7 +554,7 @@
   blurb: Economics tutor pursuing a PPE degree at UCL who achieved A*A*A*A at A-level in one year. Specialises in exam strategy
     and precision-focused lessons tailored to exam board specifications. Recipient of the Pearson Edexcel Learner Award for
     highest Economics A-level grade in the Middle East.
-  image: https://thedegreegap.com/cache/14/1b1d9f7c2557d4ba76e97958314038.jpg
+  image: /images/tutors/sayyeda-zainab-rajabali.jpg
   url: https://thedegreegap.com/teachers/view/sayyedazainabrajabali
   verified: true
   online: true
@@ -567,26 +567,11 @@
   price: £45.00 - £50.00
   blurb: Second-year Medicine student at Oxford with a year of tutoring experience in A Level subjects. Focuses on solid foundations,
     good understanding, and strong exam technique while building supportive relationships with students.
-  image: https://thedegreegap.com/cache/47/30c5fe6ae4db07fe3d01e74933d9fb.jpg
+  image: /images/tutors/callum-kendray.jpg
   url: https://thedegreegap.com/teachers/view/CallumKendray
   verified: true
   online: true
   qualifications: Medicine, University of Oxford; A*A*A*A* A-levels
-- name: Sarah Jenkins
-  slug: Sarah_Jenkins
-  country: United Kingdom
-  flag: 🇬🇧
-  teaches: GCSE English, GCSE Maths, 2-1 English tutoring, 11+ Non-Verbal Reasoining, 11+ Verbal Reasoning, 11+ Maths, 11+
-    English
-  price: £40.00 - £60.00
-  blurb: With 20 years of experience supporting children and young people, Sarah provides tailored lessons mindful of individual
-    challenges. She holds a BA in Youth Studies and maintains current safeguarding certifications. Her philosophy is that
-    anyone can learn if they're given the right facilitation.
-  image: https://thedegreegap.com/cache/c1/2643af934e5090e70709377a538feb.jpg
-  url: https://thedegreegap.com/teachers/view/Sarah_Jenkins
-  verified: true
-  online: true
-  qualifications: BA Hons Youth Studies and Practical Theology, University of Gloucestershire
 - name: Emir Akcay
   slug: EmirAkcay
   country: United Kingdom
@@ -595,26 +580,11 @@
   price: £30.00 - £50.00
   blurb: An experienced tutor with 3+ years teaching across multiple subjects for ages 4 to 18. Emir focuses on making lessons
     clear, engaging, and tailored to each student's needs. Over 85% of his students have achieved grade 7/A or above.
-  image: https://thedegreegap.com/cache/3f/777e568d17ddb9f6be7555643cfe27.jpg
+  image: /images/tutors/emir-akcay.jpg
   url: https://thedegreegap.com/teachers/view/EmirAkcay
   verified: true
   online: true
   qualifications: A-Levels in Maths, Business Studies and Economics, Alexandra Park Sixth Form
-- name: Haneet Gill
-  slug: haneetgill
-  country: United Kingdom
-  flag: 🇬🇧
-  teaches: GCSE Biology, GCSE Physics, GCSE Chemistry, GCSE Maths, A level Maths, A level Chemistry, A level Physics, Personal
-    Statement / Admissions
-  price: £10.00 - £100.00
-  blurb: Physics student at Imperial College London with five years of tutoring experience. Haneet achieved 3 A*s at A Level
-    and ten top grades at GCSE. She has developed the ability to make complex topics accessible and engaging, tailoring her
-    approach to suit each student's learning style.
-  image: https://thedegreegap.com/cache/8b/5d408c37b4f5cde8239f5eaac0d560.jpg
-  url: https://thedegreegap.com/teachers/view/haneetgill
-  verified: true
-  online: true
-  qualifications: Physics, Imperial College London
 - name: Mufid Rahman
   slug: Mufid_Rahman
   country: United Kingdom
@@ -624,7 +594,7 @@
   blurb: Princeton graduate currently pursuing a Master's in Philosophy at King's College London. Mufid has been tutoring
     since 2020 across GCSEs, A-Levels and admissions support. He tailors lessons to individual student needs and prioritises
     exam preparation.
-  image: https://thedegreegap.com/cache/9f/73473ae2f1e08650d18dbbebf3d37c.jpg
+  image: /images/tutors/mufid-rahman.jpg
   url: https://thedegreegap.com/teachers/view/Mufid_Rahman
   verified: false
   online: true
@@ -639,7 +609,7 @@
   blurb: Fourth-year medical student with 5 years of tutoring experience across all levels. Hira achieved 10 A*s at GCSE and
     top decile UCAT scores. She specialises in interactive, tailored lessons with exam-focused preparation and university
     admissions support.
-  image: https://thedegreegap.com/cache/b5/6dbdb90901d5028627b53009b087ea.jpg
+  image: /images/tutors/hira-aslam.jpg
   url: https://thedegreegap.com/teachers/view/HiraAslam
   verified: true
   online: true
@@ -657,7 +627,7 @@
   blurb: Nicolas is a specialist tutor with 8+ years' experience teaching students aged 9 to 20 across Maths, Sciences, Economics,
     Business and Computing. He delivers structured, exam-aligned instruction with proven track records of 1 to 3 grade improvements.
     He specialises in supporting learners with ADHD, dyslexia and autism spectrum conditions.
-  image: https://thedegreegap.com/cache/6b/dc8fa2832bbce038311b0195260710.jpg
+  image: /images/tutors/nicolas-baez-bano.jpg
   url: https://thedegreegap.com/teachers/view/nicolasbaezbano
   verified: true
   online: true
@@ -671,7 +641,7 @@
   price: £40.00 - £40.00
   blurb: A humanities tutor specialising in essay writing and exam strategy. Niamh emphasises student-paced learning and helps
     students understand complex concepts while developing strong study habits.
-  image: https://thedegreegap.com/cache/13/940dde7eaef486d202c5ec94bbfda9.jpg
+  image: /images/tutors/niamh-elizabeth.jpg
   url: https://thedegreegap.com/teachers/view/niamher
   verified: false
   online: true
@@ -685,7 +655,7 @@
   blurb: Medical student with a BSc in Medical Science and MSc in Healthcare Technologies from King's College London. Priya
     offers personalised tutoring with over 2 years of experience, tailoring sessions to individual student needs and helping
     them reach their potential.
-  image: https://thedegreegap.com/cache/24/3065e06350cb909250a25fa449a175.jpg
+  image: /images/tutors/priya-jandu.jpg
   url: https://thedegreegap.com/teachers/view/Priya_tutoring
   verified: true
   online: true
@@ -700,7 +670,7 @@
   blurb: Kailash is a first-year dental student at King's College London who achieved all A*s and 9s in his own exams. He
     provides personalised tutoring focused on understanding rather than memorisation, using structured revision, active recall
     and exam practice to build student confidence and problem-solving skills.
-  image: https://thedegreegap.com/cache/0b/36d80a18ea93620667bac2aece1903.jpg
+  image: /images/tutors/kailash-balamurugan.jpg
   url: https://thedegreegap.com/teachers/view/Kailash
   verified: true
   online: true
@@ -715,7 +685,7 @@
   blurb: Medicine student at Imperial College London with three A* A-Levels who emphasises active learning and confidence-building.
     Many of her students have moved up two grade boundaries. Lessons are tailored to individual goals, from raising predicted
     grades to securing university offers.
-  image: https://thedegreegap.com/cache/84/882ecca55f89a0e5713121be116566.jpg
+  image: /images/tutors/zainab-iqbal.jpg
   url: https://thedegreegap.com/teachers/view/Zainab_iqbal
   verified: true
   online: true
@@ -728,7 +698,7 @@
   price: £60.00
   blurb: An experienced psychology educator with over 28 years of teaching across multiple levels. Specialises in making complex
     psychological concepts accessible through real-world examples and engaging instruction techniques.
-  image: https://thedegreegap.com/cache/ed/be6973e8c7a6c02c39562f5e8688cb.jpg
+  image: /images/tutors/cadell-langlands.jpg
   url: https://thedegreegap.com/teachers/view/Cadell
   verified: true
   online: true
@@ -743,7 +713,7 @@
   blurb: Experienced educator with over 20 years in teaching and private banking. Offers personalised lesson structures with
     assessment, adaptive pacing, and exam technique focus. A kind, conscientious tutor supporting SEND students with engaging
     materials.
-  image: https://thedegreegap.com/cache/c0/071ee7c638ce3bed3b291accd07bd0.jpg
+  image: /images/tutors/helen-lee.jpg
   url: https://thedegreegap.com/teachers/view/109191125088266878172
   verified: true
   online: true
@@ -758,7 +728,7 @@
   blurb: A Cambridge medical student with over three years of tutoring experience. She has helped students reach top grades
     and, more importantly, develop a genuine intrigue in the subject. Offers structured support for GCSE and A-level preparation
     across sciences and humanities.
-  image: https://thedegreegap.com/cache/50/2c289aecb8a7759eaf26a967da1b4c.jpg
+  image: /images/tutors/dora-abbi.jpg
   url: https://thedegreegap.com/teachers/view/Dora_Abbi
   verified: true
   online: true
@@ -772,7 +742,7 @@
   blurb: Qualified Science and Maths educator with PGCE certification, holding an MSc in Psychology and Neuroscience. Currently
     a 4th-year medical student with five years of online tutoring experience, emphasising personalised learning approaches
     for student success.
-  image: https://thedegreegap.com/cache/d6/b9fdb21a1f69f731a9e30df5feda76.jpg
+  image: /images/tutors/elias-araye.jpg
   url: https://thedegreegap.com/teachers/view/eliasstar
   verified: true
   online: true
@@ -785,7 +755,7 @@
   price: £45.00 - £150.00
   blurb: Cambridge graduate with 5 years of SEN and secondary education experience. Sessions are tailored to each student's
     learning style, interests, and educational objectives. Specialises in English and entrance exam preparation.
-  image: https://thedegreegap.com/cache/ef/316d8f0349410d2caf733dde60ed69.jpg
+  image: /images/tutors/anastasia-picton-vraka.jpg
   url: https://thedegreegap.com/teachers/view/Anastasia
   verified: false
   online: true
@@ -799,7 +769,7 @@
   blurb: Caitlin is an experienced tutor with over four years of teaching across Primary through A-Level. Currently pursuing
     a PhD in Politics at the University of Manchester while teaching undergraduates, she combines subject knowledge with engaging
     activities that help students make progress.
-  image: https://thedegreegap.com/cache/ed/29c49c7dd763c5635f768d3b29e3f4.jpg
+  image: /images/tutors/caitlin-lewis.jpg
   url: https://thedegreegap.com/teachers/view/Caitlin_Lewis
   verified: true
   online: true
@@ -815,7 +785,7 @@
   blurb: First-Class Politics and International Relations graduate from Loughborough University with A-level expertise in
     German, English, and Politics. Achieved full 11+ marks and prioritises an empathetic, motivational teaching approach that
     combines academic rigour with humour to make learning engaging.
-  image: https://thedegreegap.com/cache/4e/456cf6e3fb75242e9f7ce91baa6c93.jpg
+  image: /images/tutors/arianna-seraj.jpg
   url: https://thedegreegap.com/teachers/view/Arianna_s
   verified: true
   online: true
@@ -832,7 +802,7 @@
   blurb: Josiah brings years of tutoring experience guiding students through GCSEs, A-Levels, and university admissions. He
     uses a personalised approach involving goal-setting, strength and weakness analysis, and spaced repetition to support
     student success across numerous subjects.
-  image: https://thedegreegap.com/cache/2c/dd176bc0a421e3f5be19b6318c24d0.jpg
+  image: /images/tutors/josiah-bejide.jpg
   url: https://thedegreegap.com/teachers/view/Vetrix42
   verified: true
   online: true
@@ -848,7 +818,7 @@
   blurb: Experienced tutor with seven years of one-to-one and small-group teaching across KS1 to KS5, holding a Master's degree
     from Imperial College London. Specialises in Maths and Science with expertise in university entrance exam preparation
     including MAT and TMUA, focusing on building understanding and student confidence.
-  image: https://thedegreegap.com/image/show/4/843/MEDIUM
+  image: /images/tutors/navdha-yamdagni.jpg
   url: https://thedegreegap.com/teachers/view/navdha333
   verified: true
   online: true
@@ -861,7 +831,7 @@
   price: £45.00 - £54.00
   blurb: Oxford graduate in Classics with 5 years of tutoring experience. Specialises in helping students achieve higher grades
     through tailored lessons designed to fit any student's level.
-  image: https://thedegreegap.com/cache/1c/091e258431fd698c9e91a6abe79c29.jpg
+  image: /images/tutors/ariana-lopez-clift.jpg
   url: https://thedegreegap.com/teachers/view/ArianaLopezClift
   verified: true
   online: true
@@ -874,7 +844,7 @@
   price: £50.00 - £58.00
   blurb: Experienced English teacher offering calm, patient support for KS3 and KS4 students. Creates personalised 5-step
     plans addressing key challenges while building confidence, with 7+ years of teaching experience.
-  image: https://thedegreegap.com/image/show/4/907/MEDIUM
+  image: /images/tutors/alexandra.jpg
   url: https://thedegreegap.com/teachers/view/Alexandra
   verified: true
   online: true
@@ -888,7 +858,7 @@
   blurb: Emily holds a first-class mathematics degree from Lancaster University and is pursuing an MSc in Applied Mathematics
     at Imperial College London. She brings over four years of classroom teaching and tutoring experience, specialising in
     helping students develop confidence and positive mindsets in mathematics.
-  image: https://thedegreegap.com/image/show/4/931/MEDIUM
+  image: /images/tutors/emily-lowe.jpg
   url: https://thedegreegap.com/teachers/view/misslowemaths
   verified: true
   online: true
@@ -901,7 +871,7 @@
   price: £45.00 - £54.00
   blurb: Fully qualified History teacher with a PGCE and 5 years of school experience. A friendly and dedicated teacher who
     specialises in adaptive, high quality lessons and exam-focused instruction across multiple exam boards.
-  image: https://thedegreegap.com/cache/f4/0c4cf97bf359433262a1a310b06c68.jpg
+  image: /images/tutors/bethany-gilchrist.jpg
   url: https://thedegreegap.com/teachers/view/Bethany123
   verified: true
   online: true
@@ -915,7 +885,7 @@
   blurb: Ella holds a degree in English Literature and a Master's in Modern and Contemporary Writing. She currently works
     as a Reading Coach in secondary schools and specialises in creating a supportive, engaging space where students feel comfortable
     exploring texts and developing critical thinking skills.
-  image: https://thedegreegap.com/cache/4c/9c9d7e59c036d4f5908c70c2bbf817.jpg
+  image: /images/tutors/ella-meehan.jpg
   url: https://thedegreegap.com/teachers/view/Ella_Meehan
   verified: true
   online: true
@@ -929,7 +899,7 @@
   price: £50.00
   blurb: Laura is a Science teacher with 16 years of classroom experience and 8 years of online tutoring. She works at an
     OFSTED-rated outstanding grammar school and has extensive expertise in exam board specifications and marking criteria.
-  image: https://thedegreegap.com/image/show/4/965/MEDIUM
+  image: /images/tutors/laura-bould.jpg
   url: https://thedegreegap.com/teachers/view/laubould
   verified: true
   online: true
@@ -944,7 +914,7 @@
   blurb: Corinna is an experienced tutor with over five years in science industries and expertise in supporting learners with
     SEND needs. She holds a first-class BSc in Biosciences and focuses on creating a supportive environment that builds student
     confidence and motivation.
-  image: https://thedegreegap.com/cache/05/2b7287ac7022cecd41d23666e6322b.jpg
+  image: /images/tutors/corinna-hudson.jpg
   url: https://thedegreegap.com/teachers/view/Corinna
   verified: false
   online: true
@@ -959,7 +929,7 @@
   blurb: Highly experienced geography educator with examiner credentials and specialist revision expertise. Known for dynamic
     teaching methods, strong focus on exam technique and essay writing, plus extensive personal geographical experience across
     volcanoes, Latin America, and regional studies.
-  image: https://thedegreegap.com/cache/38/6e7bb130042fbf637f212a1951b862.jpg
+  image: /images/tutors/sian-taylder.jpg
   url: https://thedegreegap.com/teachers/view/sianitysian
   verified: true
   online: true
@@ -973,7 +943,7 @@
   blurb: Will Turner is an experienced tutor with over six years of teaching experience and 1,000+ tutoring hours, specializing
     in mathematics instruction. He holds A-Levels in Maths and Further Maths, and is certified in advanced mathematics topics.
     He has a proven track record improving grades and building student confidence across all ability levels.
-  image: https://thedegreegap.com/cache/1f/c4988c04825bd7a48e0888ad30c0c0.jpg
+  image: /images/tutors/will-turner.jpg
   url: https://thedegreegap.com/teachers/view/WillTurner
   verified: true
   online: true
@@ -988,7 +958,7 @@
   blurb: Rebecca holds a First-Class Master's degree in Pharmaceutical Biosciences and brings three years of personal tutoring
     experience. She specializes in adapting her teaching approach for diverse learners, including those with special educational
     needs, focusing on building strong foundations and independent thinking rather than memorization.
-  image: https://thedegreegap.com/cache/ab/f0b33949c4882c2c99cb0a1d1ad0c6.jpg
+  image: /images/tutors/rebecca-hanna.jpg
   url: https://thedegreegap.com/teachers/view/Rehanna
   verified: true
   online: true
@@ -1003,7 +973,7 @@
   blurb: Highly qualified educator with an MA in International Relations and BA in Modern Foreign Languages from Newcastle
     University. Brings over six years of online and in-person tutoring experience helping students aged 12-18 excel in GCSE
     and A-Level exams through personalized, confidence-building instruction.
-  image: https://thedegreegap.com/cache/05/b70e031e34c2e2ade21e6068c8c3dd.jpg
+  image: /images/tutors/joshua-ramsdale.jpg
   url: https://thedegreegap.com/teachers/view/JoshuaRamsdale
   verified: false
   online: true
@@ -1018,7 +988,7 @@
     Mathematics & Computer Science from the University of Leeds. He emphasizes building strong rapport with students and employs
     a student-first approach to establish clear targets and measurable progress. He shares systematic strategies for maximizing
     exam performance that have helped numerous students achieve their target grades.
-  image: https://thedegreegap.com/image/show/4/1013/MEDIUM
+  image: /images/tutors/daniel-partington.jpg
   url: https://thedegreegap.com/teachers/view/DannyPart97
   verified: true
   online: true
@@ -1032,7 +1002,7 @@
   blurb: Cambridge History graduate with a Double First-Class degree offering personalized tutoring across English and History
     at multiple levels. She combines strong subject expertise with admissions guidance experience, particularly for Oxbridge
     applications.
-  image: https://thedegreegap.com/cache/82/f64c952dbf7161cbe86a01e88163c7.jpg
+  image: /images/tutors/ritu-patel.jpg
   url: https://thedegreegap.com/teachers/view/ritu2004
   verified: true
   online: true
@@ -1046,7 +1016,7 @@
   price: £40.00 - £70.00
   blurb: A third-year medical student at Barts and the London with strong academics in history, politics, and geography. She
     offers tutoring across GCSE and A-level subjects, plus medical school entrance preparation.
-  image: https://thedegreegap.com/cache/a3/332743917689c0c39c17e3d8a8ffa6.jpg
+  image: /images/tutors/nicole-major.jpg
   url: https://thedegreegap.com/teachers/view/NicoleMajor
   verified: true
   online: true
@@ -1060,7 +1030,7 @@
   blurb: 'A University of Bristol Social Policy student with over 2 years of tutoring experience. Lessons are clear and tailored:
     identifying what you''re stuck on, tightening up the basics, then practising the exact question types that come up in
     exams.'
-  image: https://thedegreegap.com/image/show/4/1083/MEDIUM
+  image: /images/tutors/alexander-kolushev.jpg
   url: https://thedegreegap.com/teachers/view/AlexanderK
   verified: false
   online: true
@@ -1075,7 +1045,7 @@
   blurb: Graduate Entry Medical Student with a Biomedical Science degree offering structured, exam-focused tutoring. Combines
     strong academic background in sciences with practical classroom experience to tailor lessons to individual learning styles
     and exam requirements.
-  image: https://thedegreegap.com/cache/d0/e31de4771c565ced2837e3abae0b85.jpg
+  image: /images/tutors/orlaith-walsh.jpg
   url: https://thedegreegap.com/teachers/view/Orlaithwalsh
   verified: false
   online: true
@@ -1091,7 +1061,7 @@
   blurb: Lucy is a biomedical science graduate from the University of Sheffield and a final year medical student at King's
     College London. With 5 years of tutoring experience working with over 60 students aged 6-22, she specialises in exam preparation,
     personal statements and medical school guidance.
-  image: https://thedegreegap.com/image/show/4/1094/MEDIUM
+  image: /images/tutors/lucy-palmer.jpg
   url: https://thedegreegap.com/teachers/view/lucyannpalmer
   verified: true
   online: true
@@ -1105,7 +1075,7 @@
   price: £40.00 - £50.00
   blurb: A third-year Durham University student specialising in modern languages and English. Lucy brings two years of tutoring
     experience with an emphasis on conversation-based learning and exam technique mastery across multiple subjects.
-  image: https://thedegreegap.com/cache/12/057a7764b7eb5e5c5129a70c511701.jpg
+  image: /images/tutors/lucy-bowyer.jpg
   url: https://thedegreegap.com/teachers/view/lucymbowyer
   verified: true
   online: true
@@ -1119,28 +1089,12 @@
   blurb: An experienced tutor with 8+ years in education and 6+ years as a journalist specialising in explaining current affairs
     to young people. Holds an MSc in Economics and combines academic expertise with the practical ability to break down complex
     concepts into engaging explanations.
-  image: https://thedegreegap.com/cache/68/e5a521ce248bfac98cb9180582e13a.jpg
+  image: /images/tutors/peter-gillibrand.jpg
   url: https://thedegreegap.com/teachers/view/PeterGillibrand
   verified: true
   online: true
   qualifications: MSc Economics, University of Exeter; MA Broadcast Journalism, Cardiff University; BA Politics, Philosophy
     and Economics, University of Exeter
-- name: Lorayne Lee
-  slug: loraynelee
-  country: United Kingdom
-  flag: 🇬🇧
-  teaches: GCSE Biology, GCSE Physics, GCSE Chemistry, GCSE Maths, A level Maths, A level Biology, A level Chemistry, A level
-    Further Maths
-  price: £33.75 - £81.00
-  blurb: A patient tutor who creates relaxed learning environments focused on conceptual understanding. She previously tutored
-    11 A Level students, helping most lift from D/E grades to Cs and Bs, and holds A*s in A Level Maths and Chemistry plus
-    a Gold UK Chemistry Olympiad award.
-  image: https://thedegreegap.com/cache/f5/613a09907222d09f335f3afacad061.jpg
-  url: https://thedegreegap.com/teachers/view/loraynelee
-  verified: true
-  online: true
-  qualifications: A* A Level Maths and Chemistry; A A Level Biology and Further Maths; Gold UK Chemistry Olympiad; Offer from
-    Imperial College London for MSci Chemistry
 - name: Yasmin Thomas
   slug: Yasmin_thomas
   country: United Kingdom
@@ -1150,7 +1104,7 @@
   blurb: Yasmin is an English literature graduate and trained GCSE examiner who helps students build confidence and improve
     their writing. She offers a flexible, supportive approach that adapts to each student's way of learning, with strong expertise
     in marking standards and exam preparation.
-  image: https://thedegreegap.com/cache/5a/4e9e5b932a9978ba967c4dd7b028f7.jpg
+  image: /images/tutors/yasmin-thomas.jpg
   url: https://thedegreegap.com/teachers/view/Yasmin_thomas
   verified: true
   online: true
@@ -1165,7 +1119,7 @@
   blurb: Nikolay holds an MA in Economics and brings over 20 years of teaching experience across international schools and
     universities. He specialises in breaking down complex economic concepts into clear, accessible explanations that help
     students achieve confidence and mastery.
-  image: https://thedegreegap.com/cache/9b/b1852457023c75b4f335e55c84102c.jpg
+  image: /images/tutors/nikolay.jpg
   url: https://thedegreegap.com/teachers/view/106424731414183010144
   verified: true
   online: true
@@ -1181,7 +1135,7 @@
   blurb: A 2025 Oxford graduate offering tutoring across English Literature, Spanish and Maths at GCSE and A Level. Luke tailors
     every session to the individual student and focuses on building genuine understanding alongside the confidence to apply
     it under pressure.
-  image: https://thedegreegap.com/image/show/4/1229/MEDIUM
+  image: /images/tutors/luke-nixon.jpg
   url: https://thedegreegap.com/teachers/view/lukenixon
   verified: true
   online: true
@@ -1197,7 +1151,7 @@
   blurb: With over eleven years in education, Modupe brings Oxford-educated expertise in Economics and Mathematics. An enthusiastic
     teacher who loves to reap the benefits of good results, he focuses on maximising each student's potential with patience
     and encouragement.
-  image: https://thedegreegap.com/cache/0d/997c6ca45861fa44b126def3c806f4.jpg
+  image: /images/tutors/modupe-sanusi.jpg
   url: https://thedegreegap.com/teachers/view/Modupe
   verified: true
   online: true
