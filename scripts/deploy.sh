@@ -36,6 +36,18 @@ echo "==> Building"
 # turning it on here would ship something different from what gets tested.
 hugo --cleanDestinationDir
 
+# A `hugo server` left running renders over public/ with its own localhost
+# baseURL, and it can do that between the build above and the rsync below.
+# Shipping that would put <link rel="canonical" href="http://localhost:...">
+# on every page and point every form's _next redirect at a dead address, so
+# check the build we are about to send rather than trusting it.
+if grep -rlq 'http://localhost:' public/ 2>/dev/null; then
+  echo "ABORT: public/ contains localhost URLs, so a dev server has rendered over the build." >&2
+  echo "       Stop any running 'hugo server' and re-run this script." >&2
+  grep -rl 'http://localhost:' public/ 2>/dev/null | head -3 | sed 's/^/       e.g. /' >&2
+  exit 1
+fi
+
 # Trailing slash on the source is load-bearing: it copies the contents of
 # public/ into DEPLOY_PATH rather than nesting a public/ directory inside it.
 RSYNC_ARGS=(
@@ -58,7 +70,11 @@ if [[ -z "${DRY_RUN:-}" ]]; then
   echo "==> Done. Verifying the new build is live"
   # The fingerprinted stylesheet only exists in the new build, so its presence
   # is proof the deploy landed rather than a cached copy of the old one.
-  if curl -sS -m 20 https://thedegreegap.com/study/ | grep -q 'main\.min\.[0-9a-f]\{64\}\.css'; then
+  # Read the page into a variable first. Piping curl into `grep -q` makes grep
+  # exit on the first match, which SIGPIPEs curl into exit 23, and pipefail then
+  # reports every successful deploy as a failure.
+  live_html="$(curl -sS -m 20 https://thedegreegap.com/study/ || true)"
+  if grep -q 'main\.min\.[0-9a-f]\{64\}\.css' <<<"$live_html"; then
     echo "    live build confirmed"
   else
     echo "    WARNING: live page still references the old stylesheet." >&2
