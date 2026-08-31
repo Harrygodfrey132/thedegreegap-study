@@ -568,3 +568,53 @@ document.addEventListener('submit', function(e){
   window.addEventListener('scroll', onScroll, { passive: true });
   timer = window.setTimeout(show, MAX_WAIT);
 })();
+
+/* ---------------------------------------------------------------
+   Required-field enforcement.
+
+   Every form on the site carries `novalidate`, added so the browser's
+   own error bubbles never fire while someone is still typing. The side
+   effect is that `required` stops being enforced at all, so a booking
+   form can post with an empty phone and the lead reaches Zoho with
+   nobody to ring. Formspree does not enforce required either.
+
+   This listens on the capture phase so it runs before any form's own
+   submit handler and can block the submit outright. checkValidity()
+   and reportValidity() both still work on a novalidate form when they
+   are called directly, so the native error UI does the work rather
+   than a second set of styles to keep in sync.
+--------------------------------------------------------------- */
+(function () {
+  /* `required` counts a single space as filled, so a phone of " " would
+     otherwise pass. Anything actually dialable has at least seven digits. */
+  var MIN_PHONE_DIGITS = 7;
+  var PHONE_MESSAGE = 'Enter a phone number we can reach you on.';
+
+  function gradePhone(form) {
+    var phone = form.querySelector('input[name="phone"]');
+    if (!phone || !phone.required) return;
+    var digits = (phone.value.match(/\d/g) || []).length;
+    phone.setCustomValidity(digits >= MIN_PHONE_DIGITS ? '' : PHONE_MESSAGE);
+  }
+
+  document.addEventListener('submit', function (e) {
+    var form = e.target;
+    if (!form || form.nodeName !== 'FORM') return;
+    /* Forms without novalidate are already validated by the browser. */
+    if (!form.hasAttribute('novalidate')) return;
+
+    gradePhone(form);
+    if (form.checkValidity()) return;
+
+    e.preventDefault();
+    e.stopPropagation();
+    form.reportValidity();
+  }, true);
+
+  /* Clear the custom message as soon as they start correcting it, so the
+     field does not sit in an invalid state while they type. */
+  document.addEventListener('input', function (e) {
+    var el = e.target;
+    if (el && el.name === 'phone' && el.setCustomValidity) el.setCustomValidity('');
+  }, true);
+})();
