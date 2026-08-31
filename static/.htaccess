@@ -20,9 +20,6 @@ RewriteRule ^personal-statement-tutor/(chemistry|physics)/?$  /study/personal-st
 # than 404. Covers each location root and any subject page beneath it.
 RewriteRule ^locations/(wimbledon|richmond|croydon|beckenham|purley|sutton|dulwich|clapham|reigate|kingston|wallington|bromley)-tutors(/.*)?$  /study/locations/  [L,R=301]
 
-# Epsom's location root is still live — only its A-Level subtree was removed.
-RewriteRule ^locations/epsom-tutors/a-level(/.*)?$  /study/locations/  [L,R=301]
-
 # Derby GCSE Physics page removed — send to the Derby GCSE hub.
 RewriteRule ^locations/derby-tutors/gcse/physics-tutoring/?$  /study/locations/derby-tutors/gcse/  [L,R=301]
 

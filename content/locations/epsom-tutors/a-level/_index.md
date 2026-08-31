@@ -1,11 +1,11 @@
 ---
-title: "A-Level Tutors in Epsom | Expert Tutors | The Degree Gap"
+title: "Epsom A-Level Tutors | Online One-to-One | The Degree Gap"
 description: "Epsom A-Level tutors who find the marks Year 12 answers leave behind and lift predicted grades before UCAS. One-to-one online tutoring from £37 an hour."
 layout: "subject"
 location: "Epsom"
 level: "A-Level"
 
-hero_heading_line1: "Epsom A-Level Tutors Who Find the Marks Year 12 Answers Leave Behind"
+hero_heading_line1: "Online Epsom A-Level Tutors Who Find the Marks Year 12 Answers Leave Behind"
 hero_heading_line2: ""
 hero_lead: "Plenty of Epsom students walk into Year 12 off decent GCSEs and then watch the marks refuse to follow the effort. Our Epsom A-Level tutors find where the depth marks are leaking and rebuild the technique before Year 12 mocks fix a prediction."
 

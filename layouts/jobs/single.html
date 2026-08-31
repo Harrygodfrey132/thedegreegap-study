@@ -131,7 +131,13 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "title": {{ .Params.role_title }},
-  "description": {{ printf "<p>%s</p>%s" .Params.description .Content | safeHTML | jsonify }},
+  {{/* No jsonify here. Hugo's JS-context escaper already quotes and escapes a
+       string printed inside <script type="application/ld+json">, so piping
+       through jsonify first wraps it in a second set of quotes and Google ends
+       up reading a description that starts with a literal " and shows raw
+       \u003cp\u003e escapes as text. The other fields below rely on the same
+       escaper, which is why they render correctly. */}}
+  "description": {{ printf "<p>%s</p>%s" .Params.description .Content }},
   "identifier": { "@type": "PropertyValue", "name": "The Degree Gap", "value": {{ path.Base .RelPermalink }} },
   "datePosted": {{ $posted.Format "2006-01-02" }},
   "validThrough": {{ $valid.Format "2006-01-02" }},
