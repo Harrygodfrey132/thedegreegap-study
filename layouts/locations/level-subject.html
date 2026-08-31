@@ -306,7 +306,7 @@
           <h3 class="lvls-tutor-card__name">{{ .name }}</h3>
           <p class="lvls-tutor-card__role">{{ $level }} {{ $subject }} tutor</p>
           <p class="lvls-tutor-card__blurb">"{{ .blurb | truncate 120 }}"</p>
-          <a href="{{ partial "url.html" .url }}" class="lvls-tutor-card__link" target="_blank" rel="noopener">View profile →</a>
+          <a href="{{ "book-a-call/" | relURL }}" class="lvls-tutor-card__link">Book a free call →</a>
         </div>
       </article>
       {{ end }}

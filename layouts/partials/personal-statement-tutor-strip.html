@@ -18,17 +18,17 @@
       <div class="ps-tutor-strip__copy">
         <p class="ps-tutor-strip__eyebrow">Meet the tutors</p>
         <h2 id="ps-tutor-strip-title">Personal statement tutors are waiting to speak to you</h2>
-        <p>Choose a specialist, read their profile, or send us a quick enquiry and we will help match you with the right person for your subject and deadline.</p>
+        <p>Tell us your subject and your deadline and we will match you with the right person, usually with two or three profiles back within 24 hours.</p>
       </div>
       <div class="ps-tutor-strip__gallery" data-ps-tutor-strip aria-label="Personal statement tutor profiles">
         {{ range $tutors }}
-        <a class="ps-tutor-card" href="{{ partial "url.html" .url }}" target="_blank" rel="noopener" aria-label="View {{ .name }}'s tutor profile">
+        <a class="ps-tutor-card" href="{{ "book-a-call/" | relURL }}" aria-label="Book a free call about personal statement tutoring">
           <img src="{{ partial "url.html" .image }}" alt="{{ .name }}" width="300" height="300" loading="lazy" decoding="async">
         </a>
         {{ end }}
       </div>
       <div class="ps-tutor-strip__actions">
-        <a href="{{ "book-a-call/" | relURL }}" class="btn btn-primary" target="_blank" rel="noopener">Browse personal statement tutors</a>
+        <a href="{{ "book-a-call/" | relURL }}" class="btn btn-primary">Book a free call</a>
         <a href="#get-help" class="btn btn-outline">Ask us to match you</a>
       </div>
     </div>
