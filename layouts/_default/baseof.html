@@ -46,9 +46,17 @@
     src="https://www.facebook.com/tr?id=1021519429438081&ev=PageView&noscript=1"
     alt=""/></noscript>
   <!-- End Meta Pixel Code -->
-  <link rel="icon" type="image/png" sizes="32x32" href="{{ "images/favicon-32.png" | relURL }}">
-  <link rel="icon" type="image/png" sizes="266x266" href="{{ "images/favicon.png" | relURL }}">
-  <link rel="apple-touch-icon" sizes="180x180" href="{{ "images/apple-touch-icon.png" | relURL }}">
+  {{/* Favicons are generated from final-logo.svg, cropped to the mark so it fills
+       the frame instead of floating in padding, then supersampled down from a
+       1024px master. The SVG comes first: browsers that support it render it
+       crisply at every size and on every display, which no fixed-size PNG can.
+       ?v=2 busts the cached copies of the old files, which reuse these names. */}}
+  <link rel="icon" type="image/svg+xml" href="{{ "images/favicon.svg" | relURL }}?v=2">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ "images/favicon-16.png" | relURL }}?v=2">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ "images/favicon-32.png" | relURL }}?v=2">
+  <link rel="icon" type="image/png" sizes="48x48" href="{{ "images/favicon-48.png" | relURL }}?v=2">
+  <link rel="icon" type="image/png" sizes="192x192" href="{{ "images/favicon-192.png" | relURL }}?v=2">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ "images/apple-touch-icon.png" | relURL }}?v=2">
   <link rel="manifest" href="{{ "manifest.webmanifest" | relURL }}">
   <meta name="theme-color" content="#800020">
   <script>
