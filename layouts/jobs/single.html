@@ -3,7 +3,9 @@
 {{ $mailto := printf "mailto:%s?subject=%s&body=%s" site.Params.email (printf "%s application" $subjectRef | urlquery) (printf "Hi Harry and Joe,\n\nI would like to apply to tutor %s. Here is a bit about my teaching experience:\n\n" .Params.subject | urlquery) }}
 {{/* Applications go to the recruitment WhatsApp line, not the parent
      enquiry number in site.Params.phone. See data/recruitment.yaml. */}}
-{{ $whatsapp := printf "https://wa.me/%s?text=%s" site.Data.recruitment.whatsapp_e164 (printf "Hi, I would like to apply for the %s tutor role. My teaching experience so far:\n" .Params.subject | urlquery) }}
+{{/* Deliberately general rather than naming the role: one application covers
+     every subject a tutor can teach, which is what the page says too. */}}
+{{ $whatsapp := printf "https://wa.me/%s?text=%s" site.Data.recruitment.whatsapp_e164 ("Hi, I would like to apply to tutor with The Degree Gap. The subjects and levels I have taught are:\n" | urlquery) }}
 {{ $subjectPage := site.GetPage (printf "/subjects/%s" (path.Base .Params.subject_page)) }}
 {{ $siblings := where (where site.RegularPages "Section" "jobs") "Params.level" .Params.level }}
 
