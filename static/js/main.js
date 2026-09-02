@@ -451,8 +451,15 @@ document.addEventListener('submit', function(e){
   }
   if (suppressed()) return;
 
-  // No point interrupting someone already looking at a booking form.
-  var FORMS = '.book-call__form, .lvls-hero__card, form[action*="formspree"]';
+  // No point interrupting someone already looking at a booking form. This has
+  // to be an actual form: .lvls-hero__card used to be in here, but the subject
+  // pages it appears on carry no form at all, so it deferred against a card
+  // that just links to /book-a-call/. Because that card sits in the hero it is
+  // on screen at load, so the dialog retried every 4s until DEFER_CAP and did
+  // not open until 28s on desktop, which is long enough for anyone testing it
+  // to conclude it is broken. The two hub and level layouts that do carry a
+  // form are still covered by the formspree selector.
+  var FORMS = '.book-call__form, form[action*="formspree"]';
   function formInView() {
     var n = document.querySelectorAll(FORMS);
     for (var i = 0; i < n.length; i++) {
