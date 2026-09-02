@@ -16,7 +16,7 @@ enableGitInfo = true
   # in visible copy, aria-labels and AggregateRating schema across ~17 layouts,
   # so update it here only. Must match the live Google Business Profile, since
   # schema that disagrees with what a user can see is a structured-data breach.
-  googleReviewCount = 108
+  googleReviewCount = 109
   googleReviewRating = "5.0"
 
 [markup.goldmark.renderer]

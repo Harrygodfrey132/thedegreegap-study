@@ -7,8 +7,10 @@
   rule is mobile-only and aimed at overlays that cover the content straight
   after a search click, and these are the pages that live on search traffic.
 
-  The photo is Harry and Joe rather than stock, because the copy promises a
-  call with a co-founder and the picture should be the people who pick up.
+  Photo is Harry at his desk, cut out of its background, because the copy
+  promises a call with a co-founder and the picture should be the person who
+  picks up. Source is images/hero-tutor.png, keyed on its flat cream backdrop
+  rather than run through a segmentation model, which removed the laptop.
 
   Renders hidden, so with JavaScript off nothing appears and nothing shifts.
 */}}
@@ -16,55 +18,28 @@
   <div class="cbp__scrim" data-cbp-close></div>
   <div class="cbp__card" role="dialog" aria-modal="true" aria-labelledby="cbp-title" aria-describedby="cbp-lead" tabindex="-1">
     <button type="button" class="cbp__close" data-cbp-close aria-label="Close">
-      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" aria-hidden="true"><path d="M18 6L6 18M6 6l12 12"/></svg>
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" aria-hidden="true"><path d="M18 6L6 18M6 6l12 12"/></svg>
     </button>
 
-    <figure class="cbp__media">
-      {{/* Cropped to the panel's real shape, not square. The panel measures
-           about 254x504, so a square source has its outer half thrown away by
-           object-fit, and Harry and Joe sit side by side, so each of them
-           loses an outer half of their face. */}}
-      <img src="{{ "images/co-founders-panel.jpg" | relURL }}"
-           alt="Harry Godfrey and Joe Clark, co-founders of The Degree Gap"
-           width="580" height="1076" loading="lazy" decoding="async">
-      <figcaption>Harry &amp; Joe, co-founders</figcaption>
-    </figure>
+    <div class="cbp__media">
+      <img src="{{ "images/harry-at-computer.png" | relURL }}"
+           alt="Harry Godfrey, co-founder of The Degree Gap, at his desk"
+           width="852" height="880" loading="lazy" decoding="async">
+      {{/* Rating badge sits over the photo, bottom left, so the proof is read
+           before the eye reaches the button. Count comes from the one param
+           the AggregateRating schema also reads, so the number a visitor sees
+           and the number Google is told can never drift apart. */}}
+      <p class="cbp__badge">
+        <span class="cbp__badge-stars" aria-hidden="true">★★★★★</span>
+        <span class="cbp__badge-text">{{ site.Params.googleReviewCount }} five-star reviews</span>
+      </p>
+    </div>
 
     <div class="cbp__body">
       <p class="cbp__eyebrow">Free 15-minute call</p>
       <h2 class="cbp__title" id="cbp-title">Not sure where to start?</h2>
-      <p class="cbp__lead" id="cbp-lead">Speak to one of us before anything is booked. We will tell you honestly whether tutoring is what your child needs, and which tutor fits if it is.</p>
-
-      <ul class="cbp__points">
-        <li>
-          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>
-          <span>Two or three tutor profiles within 24 hours</span>
-        </li>
-        <li>
-          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>
-          <span>First lesson from £37, only pay if you continue</span>
-        </li>
-      </ul>
-
-      {{/* A real review, verbatim from data/reviews.yaml. Sits above the button
-           so the proof is the last thing read before the decision. Chosen for
-           chosen to prove the exact claim above it. The lead promises a
-           match, so the review is the one about being matched: they listened,
-           they paired her, the pairing worked. A review about something else,
-           however good, is evidence for a different argument. Do not trim it.
-           These are a real person's words and the owner can spot an edit. */}}
-      <figure class="cbp__quote">
-        <span class="cbp__stars" aria-hidden="true">★★★★★</span>
-        <blockquote>The Degree Gap took time to understand my child's worries. They paired me with Connor, who my daughter got on well with. Her confidence has skyrocketed since.</blockquote>
-        <figcaption>Dawn, parent <span class="cbp__quote-sep" aria-hidden="true">·</span> one of {{ site.Params.googleReviewCount }} Google reviews</figcaption>
-      </figure>
-
-      <p class="cbp__rating">
-        <span class="cbp__stars" aria-hidden="true">★★★★★</span>
-        <strong>5.0</strong> from {{ site.Params.googleReviewCount }} Google reviews
-      </p>
+      <p class="cbp__lead" id="cbp-lead">Speak to one of us before anything is booked. We will tell you honestly whether tutoring is what your child needs.</p>
       <a class="cbp__cta" href="{{ "book-a-call/" | relURL }}" data-cbp-cta>Book a free call</a>
-
       <button type="button" class="cbp__dismiss" data-cbp-close>No thanks, just looking</button>
     </div>
   </div>
