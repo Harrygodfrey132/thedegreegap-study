@@ -65,7 +65,7 @@
 {{ $mailto := printf "mailto:%s?subject=%s&body=%s" site.Params.email ("Tutor application" | urlquery) ("Hi Harry and Joe,\n\nI would like to apply to tutor with The Degree Gap. The subjects and levels I have taught are:\n\n" | urlquery) }}
 {{/* Applications go to the recruitment WhatsApp line, not the parent
      enquiry number in site.Params.phone. See data/recruitment.yaml. */}}
-{{ $whatsapp := printf "https://wa.me/%s?text=%s" site.Data.recruitment.whatsapp_e164 ("Hi, I am interested in tutoring with The Degree Gap. I have been teaching " | urlquery) }}
+{{ $whatsapp := printf "https://wa.me/%s?text=%s" site.Data.recruitment.whatsapp_e164 ("Hi, I would like to apply to tutor with The Degree Gap. The subjects and levels I have taught are:\n" | urlquery) }}
 
 <section class="jb-hero">
   <div class="jb-wrap">
