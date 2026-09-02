@@ -46,4 +46,4 @@ All applicants are interviewed by a co-founder before appointment. The interview
 
 ## How to apply
 
-Contact us by WhatsApp or email with a summary of your teaching experience and the subjects and levels you cover.
+Contact us on WhatsApp at +44 7446 948019, or by email, with a summary of your teaching experience and the subjects and levels you cover.

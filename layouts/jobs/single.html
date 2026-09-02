@@ -1,7 +1,9 @@
 {{ define "main" }}
 {{ $subjectRef := printf "%s tutor role" .Params.subject }}
 {{ $mailto := printf "mailto:%s?subject=%s&body=%s" site.Params.email (printf "%s application" $subjectRef | urlquery) (printf "Hi Harry and Joe,\n\nI would like to apply to tutor %s. Here is a bit about my teaching experience:\n\n" .Params.subject | urlquery) }}
-{{ $whatsapp := printf "https://wa.me/%s?text=%s" (replaceRE "[^0-9]" "" site.Params.phone) (printf "Hi, I am interested in the %s role. I have been teaching for " .Params.subject | urlquery) }}
+{{/* Applications go to the recruitment WhatsApp line, not the parent
+     enquiry number in site.Params.phone. See data/recruitment.yaml. */}}
+{{ $whatsapp := printf "https://wa.me/%s?text=%s" site.Data.recruitment.whatsapp_e164 (printf "Hi, I am interested in the %s role. I have been teaching for " .Params.subject | urlquery) }}
 {{ $subjectPage := site.GetPage (printf "/subjects/%s" (path.Base .Params.subject_page)) }}
 {{ $siblings := where (where site.RegularPages "Section" "jobs") "Params.level" .Params.level }}
 
