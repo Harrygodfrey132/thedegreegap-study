@@ -150,7 +150,7 @@ Every entry has:
 
 **Fits:** all pages
 **Q:** How do you vet your {Level} {Subject} tutors?
-**A skeleton:** Roughly one in eight applicants makes it onto the platform. Written application, subject knowledge test, structured interview on clarity under pressure, reference checks. 
+**A skeleton:** Around 3% of applicants come onto the platform. Written application, subject knowledge test, structured interview on clarity under pressure, reference checks. This is the figure in stats.md and it is the source of truth: do not restate it as a one-in-N ratio. 
 
 ### E02 — Tutor backgrounds
 
@@ -184,7 +184,7 @@ Every entry has:
 
 **Fits:** all pages
 **Q:** What happens if the tutor is not the right fit for my child?
-**A skeleton:** Free 15-minute video meeting with the recommended tutor before any paid session. If first session doesn't feel right, swap within 24 hours, no charge. Roughly one in eight applicants makes the platform, so there's depth in the network.
+**A skeleton:** Free 15-minute video meeting with the recommended tutor before any paid session. If first session doesn't feel right, swap within 24 hours, no charge. Around 3% of applicants come onto the platform, so there's depth in the network.
 
 ### C02 — Cost
 

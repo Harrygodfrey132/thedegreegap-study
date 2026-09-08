@@ -47,7 +47,7 @@ faqs:
   - q: "What grade improvements have your GCSE English tutors actually delivered?"
     a: "We do not promise outcomes, but we can describe what is typical. One Year 10 student we worked with moved from a grade 5 to a 6/7 across six months of weekly sessions, and his parent's own words were that he went from disengaged to looking forward to the lessons. A band of movement over a term or two is the realistic shape. Jumps larger than that happen, but they are not what we would plan around."
   - q: "What happens if the tutor is not the right fit for my child?"
-    a: "You meet the recommended tutor on a free 15-minute video call before any paid session, so most mismatches get caught before they cost anything. If the first paid lesson still does not feel right, tell us within 24 hours and we swap at no charge. Roughly one in eight applicants makes it onto the platform, so there is real depth to re-match from rather than one alternative."
+    a: "You meet the recommended tutor on a free 15-minute video call before any paid session, so most mismatches get caught before they cost anything. If the first paid lesson still does not feel right, tell us within 24 hours and we swap at no charge. Around 3% of applicants come onto the platform, so there is real depth to re-match from rather than one alternative."
 
 reviews:
   - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of working with Malvina, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons and has learned strategies that help him approach English in a way that resonates with him."

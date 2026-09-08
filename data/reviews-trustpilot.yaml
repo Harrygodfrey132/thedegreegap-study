@@ -1,0 +1,121 @@
+# Real Trustpilot reviews only. Scraped verbatim from
+# https://www.trustpilot.com/review/thedegreegap.com on 2026-09-08.
+# TrustScore at time of capture: 4.6 from 19 reviews.
+# Do not add, invent, embellish, re-grade or tidy any review.
+# Text is transcribed exactly as published, including emoji, typos and
+# punctuation the house style would normally forbid (e.g. em dashes).
+# These are a SEPARATE source from data/reviews.yaml, which is Google-only.
+- name: "Chamarika"
+  role: "Parent of GCSE Student"
+  title: "Good tutoring platform"
+  source: trustpilot
+  rating: 5
+  text: "Good tutoring platform. I did have some initial issues with a couple of tutors but Joe is very responsive and works to swiftly resolve things. My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring. We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s. Thank you to all the 3x tutors."
+- name: "hermione jenkins"
+  role: "GCSE Student"
+  title: "GCSE Maths"
+  source: trustpilot
+  rating: 5
+  text: "Came here to search for a GCSE maths tutor and was recommended Rebecca Hanna by the very helpful Harry. Rebecca was nothing but helpful and comforting. I highly recommend her, especially since she helped me pass the GCSE! Thank you."
+- name: "A Cole"
+  role: "Parent of GCSE Student"
+  title: "Would recommend !"
+  source: trustpilot
+  rating: 5
+  text: "Ben has just received his exam results, and we couldn't be more thrilled! Thanks to the incredible support from Ella, Ben has passed all his exams, achieving an amazing result in English. Thank you Ella! Your energy and expertise made a significant difference."
+- name: "Sam S"
+  role: "Parent of GCSE Student"
+  title: "100% recommend"
+  source: trustpilot
+  rating: 5
+  text: "Excellent experience. Founders are accessible, hands on, responsive and flexible. As are the tutors - quality all round. It was great to be able to trial a few to find the right fit, who my daughter felt most comfortable with. She got at least a grade higher in GCSEs because of the tuition which helped her get into a top school (grammar) for As."
+- name: "Ian Eberle"
+  role: "Parent"
+  title: "Fantastic Company"
+  source: trustpilot
+  rating: 5
+  text: "Fantastic service - Highly recommend!"
+- name: "Eric Bell"
+  role: "Parent"
+  title: "Truly a great service, recommended!!!"
+  source: trustpilot
+  rating: 5
+  text: "⭐⭐⭐⭐⭐ Excellent tutoring service. The team really takes the time to understand the student and find the right tutor rather than simply filling a slot. Professional, friendly, and genuinely focused on helping students succeed. Highly recommended!"
+- name: "Sahrin"
+  role: "Parent"
+  title: "Amazing experience"
+  source: trustpilot
+  rating: 5
+  text: "Excellent experience, highly recommend!"
+- name: "Isadora Parra de Souza"
+  role: "Student"
+  title: "That's it's truly worth it!!"
+  source: trustpilot
+  rating: 5
+  text: "It was so good and worth it!"
+- name: "Matthew"
+  role: "A-Level Student"
+  title: "Very good Economics Tutor"
+  source: trustpilot
+  rating: 5
+  text: "My tutor was very helpful leading to the result that I wanted, giving helpful tips and techniques to get the most out of my Economics. I used Sayyeda-Zainab Rajabali for A Level Economics and she was always very helpful and taught at a high level."
+- name: "Jo Gourley"
+  role: "Parent of GCSE Student"
+  title: "Support for English Language"
+  source: trustpilot
+  rating: 5
+  text: "We got in touch with The Degree Gap to help support our son to pass his English Language GCSE. Although we were close to the exam period when we started, his weekly tutor sessions made such a difference. He passed and has gained entrance to college without need for any re-sits. Thank you!"
+- name: "Gilmoore Muroyiwa"
+  role: "Parent of GCSE Student"
+  title: "Initially I was hesitant to enrol my…"
+  source: trustpilot
+  rating: 5
+  text: "Initially I was hesitant to enrol my son for online lessons. However, the company has well experienced, knowledgeable and helpful tutors. There is also flexibility around booking of lessons. At the end of the day, my son achieved the next top grade than what had been predicted in his mid-year school GCSE exams. I am forever indebted to The Degree Gap."
+- name: "Leo Whittle"
+  role: "A-Level Student"
+  title: "The Degree Gap tutored me throughout my…"
+  source: trustpilot
+  rating: 5
+  text: "The Degree Gap tutored me throughout my A level journey and helped boost my grades to the highest grades. The flexibility of timing was the most helpful thing. My tutor, Harry, found time whenever I needed him to help me on any topic. This involved question run through, marking of questions and general support throughout my 2 years of studying. Overall, the degree gap gave me excellent tutoring over a flexible time period."
+- name: "John Jones"
+  role: "Parent of A-Level Student"
+  title: "Freddie really enjoyed his time with…"
+  source: trustpilot
+  rating: 5
+  text: "Freddie really enjoyed his time with The Degree Gap. He got help with his three A levels (maths, computer science and business) and managed to get his number one choice attending Liverpool Uni to study a masters in Maths. The tutors were organised, supportive and spent time understanding where the knowledge gaps where to ensure best chance of success in exams! Highly recommended"
+- name: "raj"
+  role: "Parent of A-Level Student"
+  title: "Brilliant"
+  source: trustpilot
+  rating: 5
+  text: "Brilliant support and communication. We had the best tutor for history and sociology, Jacob, and this definitely influenced my son's amazing A level grades. Would not hesitate to recommend. Jacob also took account of and understood my son's struggles with dyslexia and how this affected his ability to study and get all the (vast) knowledge he has in his head into the paper. Such a struggle for these SEN children but they can achieve. We are so proud of our son and thank you Degree Gap for helping us!"
+- name: "SIMONE CLISSOLD"
+  role: "Parent of GCSE Student"
+  title: "English GCSE- results"
+  source: trustpilot
+  rating: 5
+  text: "My son has just passed his English GCSE with a Grade 5 — he only needed a Grade 4, so we are absolutely over the moon and incredibly proud! 🎉👏 With all of my son SEN needs and the challenges he has faced throughout his education, there were times when we genuinely weren't sure he would get here. But today he has proved that anything is achievable with the right support, belief and determination. A huge thank you to Emir, Your encouragement and motivation has meant so much. We are so grateful for everything you have done. 🙏"
+- name: "Matthew Eberle"
+  role: "Parent"
+  title: "Professional experience"
+  source: trustpilot
+  rating: 5
+  text: "The Degree Gap is an extremely well run tutoring business. They take the time to get to know your child and suggest the right tutors. It is great I got to try out as many tutors as I needed to before picking the right fit. We have been working with them for over a year now! No issues!"
+- name: "Abby"
+  role: "Parent of A-Level Student"
+  title: "Harry has tutored my son in both maths…"
+  source: trustpilot
+  rating: 5
+  text: "Harry has tutored my son in both maths and economics A-levels and has been fantastic. Harry has been professional, approachable and engaging, he has explained things clearly and has fully supported my son through the last 2 years. We are absolutely delighted with the results. Thank you!"
+- name: "nikola"
+  role: "iGCSE Student"
+  title: "The Degree Gap paired me with a great…"
+  source: trustpilot
+  rating: 5
+  text: "The Degree Gap paired me with a great tutor for my igcse exams. Harry was eager and really knew his stuff about Maths. It was nice that i got a free trial call first, so i could see if it was a good match. Would highly recommend to a friend."
+- name: "Maureen Jackson"
+  role: "Student"
+  title: "The Degree gap actually made tutoring…"
+  source: trustpilot
+  rating: 5
+  text: "The Degree gap actually made tutoring approachable. It's the worst feeling when you are struggling, frustrated and feel helpless. I was matched with a great tutor who always made time for me. The software made it easy to navigate topics I found difficult. Having that reliable support was critical to my much improved grades. Thank you so much!"

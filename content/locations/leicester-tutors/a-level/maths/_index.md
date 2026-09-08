@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online One-to-One A-Level Maths Tutors for Leicester Families"
-hero_lead: "A lot of Leicester students are the first in the family to sit A-Levels, which means nobody at the kitchen table can tell them what a full-mark solution looks like. Our Leicester A-Level Maths tutors work online and show them, week by week."
+hero_lead: "Most students have never seen what a full-mark A-Level Maths solution actually looks like. They have only been told their own fell short of one. Our Leicester A-Level Maths tutors work online and show them, week by week."
 
 angle_eyebrow: "THE ANSWER IS RIGHT AND THE MARKS ARE MISSING"
 angle_heading: "Where an Online A-Level Maths Tutor Finds the Marks for Leicester Students"
