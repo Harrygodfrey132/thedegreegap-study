@@ -63,9 +63,9 @@ accordion_personalised: "Every plan starts with a diagnostic rather than a sylla
 reviews:
   - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."
   - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents. My daughter passed both English and Maths GCSE with grades 4 and 5."
-  - "Dawn|Parent of GCSE Student|The Degree Gap took time to understand my child's worries. They paired me with Connor, who my daughter got on well with. Her confidence has skyrocketed since. Thanks again."
+  - "Dawn|Parent of GCSE Student|The Degree Gap took time to understand my child’s worries. They paired me with Connor, who my daughter got on well with. Her confidence has skyrocketed since. Thanks again."
   - "Philippa|Parent of GCSE Student|I was really pleased to discover The Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and great flexibility on timings. Highly recommend."
-  - "Theresa|Parent|Harry and Joe were extremely helpful, with a wealth of knowledge and contacts that helped my son to follow the right path."
+  - "Theresa|Parent|Harry and Joe were extremely helpful with a wealth of knowledge and contacts that helped my son to follow the right path."
 
 sitemap:
   priority: 0.7

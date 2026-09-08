@@ -54,7 +54,7 @@ faqs:
 reviews:
   - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of working with Malvina, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons and has learned strategies that help him approach English in a way that resonates with him."
   - "Serena|Student|Malvina is a very intuitive and superb teacher. She listened acutely to my specific concerns and bolstered my confidence in answering the questions. She taught me how to think critically and helped me through this highly demanding course."
-  - "Jessica|GCSE Student|Harry was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree."
+  - "Jessica|GCSE Student|I highly recommend Harry – he was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree!!"
   - "Heidi|Parent|Emir is simply amazing with our daughter. He gets her totally, and her sessions are helping her with her school work so much. We cannot thank him enough."
   - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents. My daughter passed both English and Maths GCSE with grades 4 and 5."
 ---

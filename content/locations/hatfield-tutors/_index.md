@@ -74,7 +74,7 @@ reviews:
   - Heidi|Parent|Our tutor is simply amazing with our daughter. He understands her completely and her sessions are helping her with her school work so much. We cannot thank him enough.
   - Daljit|Parent of A-Level Student|My son gained almost two grades higher than his year 13 mock paper. His tutor was excellent.
   - Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time.
-  - Sorland|Grandparent|My granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone.
+  - Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone.
 sitemap:
   priority: 0.8
   changefreq: monthly

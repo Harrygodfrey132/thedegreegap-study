@@ -189,7 +189,7 @@ reviews:
     recommend.
   - Daljit|Parent of A-Level Student|My son gained almost two grades higher than
     his year 13 mock paper. His tutor was excellent.
-  - Keira|GCSE Student|Has definitely helped me increase my grades from an E to
+  - Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!
     a B.
 sitemap:
   priority: 0.8

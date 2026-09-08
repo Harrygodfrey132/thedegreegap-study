@@ -70,11 +70,11 @@ accordion_experience: "Our tutors have worked with students from across North Ox
 accordion_personalised: "We don't run set programmes. For a Banbury student, the first sessions are a diagnostic, then the plan is built around the specific gap, not a generic six-week timetable."
 reviews:
   - Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. We were given a selection of tutors to choose from and told that if it did not feel like a good match we could try others. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend.
-  - Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing.
-  - Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B.
-  - Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE. Thank you.
+  - Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing
+  - Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!
+  - Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE thank you
   - Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him.
-  - Jessica|GCSE Student|I was helped with both Maths and English for my GCSEs and passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree.
+  - Jessica|GCSE Student|I highly recommend Harry – he was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree!!
 sitemap:
   priority: 0.8
   changefreq: monthly

@@ -51,9 +51,9 @@ faqs:
 reviews:
   - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry, who listened to her needs and gave us a selection of tutors to choose from. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
   - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents. My daughter passed both English and Maths GCSE with grades 4 and 5."
-  - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B."
-  - "Marfa|University Student|Very engaging lessons that helped me improve my grade in Maths and successfully get admitted to university."
-  - "Bryan|GCSE Student|Helped me a lot and really showed me what I need to improve on."
+  - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Marfa|University Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university"
+  - "Bryan|GCSE Student|Helped me a lot and really showed me what i need to improve on"
 
 # FAQ picks: G03, A11, A01, E04, C09
 sitemap:

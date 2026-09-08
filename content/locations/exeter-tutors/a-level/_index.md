@@ -39,18 +39,18 @@ pathways:
       Some students go straight into work across healthcare, hospitality and the marine and environmental sectors the South West is known for. Gap years used to strengthen a reapplication are common too, especially where a competitive course was missed by a single grade.
 
 reviews:
-  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than his year 13 mock paper. His tutor Jacob was excellent."
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
   - "Alison|Parent of A-Level Student|My son has been receiving lessons with Jacob Berry in A-Level History and subsequently A-Level Sociology since the beginning of this year. Jacob has been such a tremendous support for my son, teaching him content as well as exam technique."
-  - "Alexander|Parent|The Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and applications."
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
   - "Serena|Student|Malvina is a very intuitive and superb teacher. She listened acutely to my specific concerns and bolstered my confidence in answering the questions. She taught me how to think critically and helped me through this highly demanding course."
-  - "Nick|Parent of A-Level Student|Sandra Sabu has been tutoring our son for Psychology A-Level. Sandra has provided a solid base of tutoring outside of school lessons and helped him to improve his latest grades."
-  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A-Level Physics, all whilst being kind and supportive."
-  - "Joanna|Parent of A-Level Student|The A-Level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing."
-  - "Aila|University Applicant|Harry was amazing. He helped me shape my personal statement into something I was truly proud of, and thanks to his support I got into my dream university. Highly recommend to anyone applying to uni."
-  - "Cat|Parent of A-Level Student|My 18 year old son had A-Level Economics tutoring with Harry. He was excellent, knew exactly what he needed to learn and was able to explain in terms which made it simple to understand. The online platform was convenient and easy to use."
-  - "Dan|A-Level Student|The Degree Gap really helped me get through my A-Levels and made a massive difference when helping me get into my first choice of university."
-  - "Alex|University Student|Cannot recommend The Degree Gap highly enough. Quick and helpful responses from Harry. He immediately matched me with a very competent tutor who was a massive help in helping me exceed my target grade and achieve a first class degree at university."
-  - "Nicolai|University Student|Had troubles connecting with tutors until I met Harry. He helped me understand the curriculum and theories in a way that stuck with me, and made each session feel calm and relaxing. Highly recommend."
+  - "Nick|Parent of A-Level Student|Sandra Sabu has been tutoring our son for Psychology A Level. Sandra has provided a solid base of tutoring outside of school lessons and helped him to improve his latest grades."
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Aila|University Applicant|Harry was amazing! He helped me shape my personal statement into something I was truly proud of, and thanks to his support, I got into my dream university! Couldn’t have done it without him–highly recommend to anyone applying to uni."
+  - "Cat|Parent of A-Level Student|My 18 year old son had A-level Economics tutoring with Harry.  He was excellent, knew exactly what he needed to learn and was able to explain in terms which made it simple to understand.  The online platform was convenient and easy to use."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Alex|University Student|Can’t recommend The Degree Gap highly enough. Quick and helpful responses from Harry. He immediately matched me with a very competent tutor, who was a massive help in helping me exceed my target grade and achieve a first class degree at university."
+  - "Nicolai|University Student|Had troubles connecting with tutors until I met Harry, helped me understand the curriculum and theories in a way that stuck with me, also made each session feel calm and relaxing. Highly recommend"
 
 faq_1_q: "My son is quiet and will not ask questions in a big class. Does one-to-one help?"
 faq_1_a: "It is one of the clearest cases for it. A student who stays silent in a room of thirty usually starts talking by the second or third one-to-one session, with nobody there to be embarrassed in front of. Spend the free 15-minute meeting watching how he reacts, not quizzing the tutor on qualifications. If he says three words in twenty minutes, that pairing is wrong and we will find another."

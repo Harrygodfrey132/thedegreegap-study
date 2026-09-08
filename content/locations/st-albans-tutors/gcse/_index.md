@@ -85,7 +85,7 @@ reviews:
     could try others. Our tutor was a complete star, listened, made it simple,
     set good homework and gave my daughter her confidence back. Highly
     recommend.
-  - Keira|GCSE Student|Has definitely helped me increase my grades from an E to
+  - Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!
     a B.
   - Chris|Parent of GCSE Student|Very good tutoring for my daughter and good
     communication with parents. My daughter passed both English and Maths GCSE.
@@ -95,9 +95,9 @@ reviews:
   - Isabel|Parent of iGCSE Student|The Degree Gap gave our son the support he
     needed for his iGCSEs, especially in Maths and Economics. Lessons were
     clear, engaging, and built his confidence. Highly recommended.
-  - Bryan|GCSE Student|Helped me a lot and really showed me what I need to
+  - Bryan|GCSE Student|Helped me a lot and really showed me what i need to improve on
     improve on.
-  - Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE.
+  - Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE thank you
     Thank you.
   - Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone
     above and beyond to pair both my sons with the appropriate tutors, all of

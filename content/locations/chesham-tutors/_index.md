@@ -71,10 +71,10 @@ accordion_personalised: "We don't run set programmes. For a Chesham student, tui
 reviews:
   - Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings. Highly recommend.
   - Alison|Parent of A-Level Student|My son has been receiving tutor lessons in A Level History and A Level Sociology since the beginning of this year. The tutor has been such a tremendous support, teaching him content as well as exam technique.
-  - Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional. Both my sons exceeded their expected grades in their GCSEs and A Levels and got into their first choice universities. I cannot recommend them highly enough.
-  - Mahir|A-Level Student|My tutor was an excellent teacher that helped me gain real grip of the complicated areas in my subjects like economics. I'd highly recommend for anyone looking to consistently perform at their best.
+  - Lisa|Parent|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough.
+  - Mahir|A-Level Student|Harry was an excellent teacher that helped me gain real grip of the complicated areas in my subjects like economics - I'd highly recommend for anyone looking to consistently perform at their best.
   - Daljit|Parent of A-Level Student|My son gained almost two grades higher than his year 13 mock paper. His tutor was excellent.
-  - Aila|University Applicant|My tutor was amazing. He helped me shape my personal statement into something I was truly proud of, and thanks to his support, I got into my dream university. Highly recommend to anyone applying to uni.
+  - Aila|University Applicant|Harry was amazing! He helped me shape my personal statement into something I was truly proud of, and thanks to his support, I got into my dream university! Couldn’t have done it without him–highly recommend to anyone applying to uni.
 sitemap:
   priority: 0.8
   changefreq: monthly

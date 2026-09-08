@@ -38,20 +38,20 @@ pathways:
       Some Chelmsford leavers go straight into roles at Teledyne e2v, the Essex NHS trusts or the finance and insurance firms clustered around the county town. Foundation years and gap years pointed at a stronger reapplication are common too, especially for Medicine and Law hopefuls.
 
 reviews:
-  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing."
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
   - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than his year 13 mock paper. His tutor was excellent."
-  - "Alexander|Parent|The Degree Gap helped my child go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and applications."
-  - "Sarom|Parent of A-Level Student|The Degree Gap has been very helpful in tutoring my son for his economics A Level. His tutor has lots of patience, keeps lessons interesting and is a good motivator. The subject matter expertise is excellent."
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Sarom|Parent of A-Level Student|Harry has been very helpful in tutoring my son for his economics A Level. He has lots of patience, keeps lessons interesting and is a good motivator. Needless to say his subject matter is expertise is excellent."
   - "Nicolai|A-Level Student|Before joining The Degree Gap, I found it hard to follow the curriculum. The sessions helped everything click. Lessons were calm, focused, and easy to understand. Highly recommend."
   - "Serena|A-Level Student|My tutor is a very intuitive and superb teacher. She listened to my specific concerns and bolstered my confidence in answering questions. She taught me how to think critically and helped me through this highly demanding course. I will happily recommend without a second thought."
   - "J.O.|A-Level Student|At first I was hesitant on getting a tutor, but this wasn't the case. My tutor helped me massively with my essays, topics I didn't understand, and overall confidence with the subject. I highly recommend."
   - "Nick|Parent of A-Level Student|Our son has been receiving tuition for Psychology A Level. The tutor has provided a solid base of support outside of school lessons and helped him to improve his latest grades."
-  - "Mahir|A-Level Student|My tutor was an excellent teacher that helped me gain real grip of the complicated areas in my subjects like economics. I'd highly recommend for anyone looking to consistently perform at their best."
+  - "Mahir|A-Level Student|Harry was an excellent teacher that helped me gain real grip of the complicated areas in my subjects like economics - I'd highly recommend for anyone looking to consistently perform at their best."
   - "Binh|A-Level Student|My sessions were super simple compared to what I'd experienced with other teachers. I really enjoyed my time and would highly recommend it to people."
-  - "Charlotte|Student|I cannot recommend The Degree Gap enough. My tutor was helpful, welcoming and helped me achieve a grade higher than I was expected."
-  - "Aila|University Applicant|My tutor was amazing. He helped me shape my personal statement into something I was truly proud of, and thanks to his support, I got into my dream university. Highly recommend to anyone applying to uni."
+  - "Charlotte|Student|I cannot recommend Harry enough. He was helpful welcoming and helped me achieve a grade higher than I was expected!"
+  - "Aila|University Applicant|Harry was amazing! He helped me shape my personal statement into something I was truly proud of, and thanks to his support, I got into my dream university! Couldn’t have done it without him–highly recommend to anyone applying to uni."
   - "Kasia|Parent|Our tutor is a great teacher. Very helpful and knowledgeable. His experience and expertise helped my son make decisions about choosing A-level subjects and his university course. I highly recommend The Degree Gap."
-  - "Alex|University Student|Cannot recommend The Degree Gap highly enough. Quick and helpful responses. I was immediately matched with a very competent tutor who was a massive help in helping me exceed my target grade and achieve a first class degree at university."
+  - "Alex|University Student|Can’t recommend The Degree Gap highly enough. Quick and helpful responses from Harry. He immediately matched me with a very competent tutor, who was a massive help in helping me exceed my target grade and achieve a first class degree at university."
   - "Tommy|University Student|I wish I had found The Degree Gap when I was sitting my school exams. They helped with my dissertation work and without their help I am not sure I would have graduated so successfully and landed a successful job."
 
 faq_1_q: "The examiner comments say 'more evaluation' but she doesn't know what that means in practice. Can a tutor teach it?"

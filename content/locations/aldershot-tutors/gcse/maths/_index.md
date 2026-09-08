@@ -53,8 +53,8 @@ faqs:
 
 reviews:
   - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry, who listened to her needs and gave us a selection of tutors to choose from. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
-  - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B."
+  - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
   - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents. My daughter passed both English and Maths GCSE with grades 4 and 5."
   - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."
-  - "Dawn|Parent of GCSE Student|The Degree Gap took time to understand my child's worries. They paired me with Connor, who my daughter got on well with. Her confidence has skyrocketed since. Thanks again."
+  - "Dawn|Parent of GCSE Student|The Degree Gap took time to understand my child’s worries. They paired me with Connor, who my daughter got on well with. Her confidence has skyrocketed since. Thanks again."
 ---

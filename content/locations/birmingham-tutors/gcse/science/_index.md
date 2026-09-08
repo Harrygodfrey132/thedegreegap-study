@@ -54,7 +54,7 @@ reviews:
   - "Annette|Parent|This company helped us find a tutor for Geography and my son has excelled so much in just a few months. Our tutor has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself. He also manages neurodiversity effectively."
   - "Heidi|Parent|Our tutor is simply amazing with our daughter. He understands her completely and her sessions are helping her with her school work so much. We cannot thank him enough."
   - "Theresa|Parent|The Degree Gap was fantastic. Their knowledge and guidance helped my son find direction in both his studies and future plans."
-  - "Sorland|Grandparent|My granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
+  - "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
 
 # FAQ picks: G04, A12, A13, E03, C01
 sitemap:

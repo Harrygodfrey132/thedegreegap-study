@@ -187,7 +187,7 @@ reviews:
     polite and on time.
   - Daljit|Parent of A-Level Student|My son gained almost two grades higher than
     his year 13 mock paper. His tutor was excellent.
-  - Bryan|GCSE Student|Helped me a lot and really showed me what I need to
+  - Bryan|GCSE Student|Helped me a lot and really showed me what i need to improve on
     improve on.
   - Ellen|Parent of GCSE Student|My daughter was struggling with confidence in
     Maths GCSE and we decided to get a tutor. We were given a selection of

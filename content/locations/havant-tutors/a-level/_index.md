@@ -37,11 +37,11 @@ pathways:
       Some students go straight into technical, engineering and commercial roles with employers across the Portsmouth and Havant estates. Gap years used to strengthen a reapplication are common too, especially where a competitive course was missed by a single grade first time.
 
 reviews:
-  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than his year 13 mock paper. His tutor Jacob was excellent."
-  - "Joanna|Parent of A-Level Student|The A-Level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing."
-  - "Nick|Parent of A-Level Student|Sandra Sabu has been tutoring our son for Psychology A-Level. Sandra has provided a solid base of tutoring outside of school lessons and helped him to improve his latest grades."
-  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations. They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional. Both my sons exceeded well above their expected grades and got into their first-choice universities."
-  - "Dan|A-Level Student|The Degree Gap really helped me get through my A-Levels and made a massive difference when helping me get into my first choice of university."
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Nick|Parent of A-Level Student|Sandra Sabu has been tutoring our son for Psychology A Level. Sandra has provided a solid base of tutoring outside of school lessons and helped him to improve his latest grades."
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
 
 sitemap:
   priority: 0.7

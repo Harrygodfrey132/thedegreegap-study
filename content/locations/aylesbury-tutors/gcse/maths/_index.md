@@ -51,10 +51,10 @@ faqs:
 
 reviews:
   - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry, who listened to her needs and gave us a selection of tutors to choose from. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
-  - "Isabel|Parent of iGCSE Student|Harry helped our son enormously with his Maths and Economics iGCSE prep. He was patient, fun and engaging, just what we needed. Highly recommended."
-  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations. They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional. Both my sons exceeded well above their expected grades and got into their first-choice universities."
-  - "Alexander|Parent|The Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and applications."
-  - "Marfa|University Student|Very engaging lessons that helped me improve my grade in Maths and successfully get admitted to university."
+  - "Isabel|Parent of iGCSE Student|Harry helped our son enormously with his maths and economics iGCSE prep. He was patient, fun and engaging - just what we needed. Highly recommended."
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Marfa|University Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university"
 
 # FAQ picks: G01, A04, A06, E04, C03
 sitemap:

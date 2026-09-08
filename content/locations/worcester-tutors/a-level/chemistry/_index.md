@@ -53,8 +53,8 @@ faqs:
 
 reviews:
   - "Chamarika|Parent of GCSE Student|Good tutoring platform. I did have some initial issues with a couple of tutors but Joe is very responsive and works to swiftly resolve things. My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring. We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s. Thank you to all the 3x tutors."
-  - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B."
-  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than his year 13 mock paper. His tutor Jacob was excellent."
+  - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
   - "Matthew Eberle|Parent|The Degree Gap is an extremely well run tutoring business. They take the time to get to know your child and suggest the right tutors. It is great I got to try out as many tutors as I needed to before picking the right fit. We have been working with them for over a year now! No issues!"
   - "Leo Whittle|A-Level Student|The Degree Gap tutored me throughout my A level journey and helped boost my grades to the highest grades. The flexibility of timing was the most helpful thing. My tutor, Harry, found time whenever I needed him to help me on any topic. This involved question run through, marking of questions and general support throughout my 2 years of studying. Overall, the degree gap gave me excellent tutoring over a flexible time period."
 ---

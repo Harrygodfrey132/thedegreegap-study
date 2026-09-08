@@ -211,7 +211,7 @@ reviews:
     whom have been exceptional. Both my sons exceeded their expected grades in
     their GCSEs and A Levels and got into their first choice universities. I
     cannot recommend them highly enough.
-  - Bryan|GCSE Student|Helped me a lot and really showed me what I need to
+  - Bryan|GCSE Student|Helped me a lot and really showed me what i need to improve on
     improve on.
 sitemap:
   priority: 0.8

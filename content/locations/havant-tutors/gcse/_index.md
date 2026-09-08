@@ -38,10 +38,10 @@ pathways:
 
 reviews:
   - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."
-  - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B."
+  - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
   - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry, who listened to her needs and gave us a selection of tutors to choose from. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
   - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of working with Malvina, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons and has learned strategies that help him approach English in a way that resonates with him."
-  - "Sorland|Grandparent|My granddaughter uses The Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
+  - "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
 
 sitemap:
   priority: 0.7

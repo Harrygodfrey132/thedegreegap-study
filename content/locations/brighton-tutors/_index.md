@@ -186,7 +186,7 @@ reviews:
     recommend.
   - Daljit|Parent of A-Level Student|My son gained almost two grades higher than
     his year 13 mock paper. His tutor was excellent.
-  - Keira|GCSE Student|Has definitely helped me increase my grades from an E to
+  - Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!
     a B.
   - Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone
     above and beyond to pair both my sons with the appropriate tutors, all of

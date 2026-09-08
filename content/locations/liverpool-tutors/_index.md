@@ -198,7 +198,7 @@ reviews:
   - Heidi|Parent|Our tutor is simply amazing with our daughter. He understands
     her completely and her sessions are helping her with her school work so
     much. We cannot thank him enough.
-  - Bryan|GCSE Student|Helped me a lot and really showed me what I need to
+  - Bryan|GCSE Student|Helped me a lot and really showed me what i need to improve on
     improve on.
 sitemap:
   priority: 0.8

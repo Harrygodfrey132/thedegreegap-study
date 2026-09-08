@@ -51,9 +51,9 @@ faqs:
 
 reviews:
   - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry, who listened to her needs and gave us a selection of tutors to choose from. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
-  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations. They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional. Both my sons exceeded well above their expected grades and got into their first-choice universities."
-  - "Marfa|University Student|Very engaging lessons that helped me improve my grade in Maths and successfully get admitted to university."
-  - "Isabel|Parent of iGCSE Student|Harry helped our son enormously with his Maths and Economics iGCSE prep. He was patient, fun and engaging, just what we needed. Highly recommended."
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Marfa|University Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university"
+  - "Isabel|Parent of iGCSE Student|Harry helped our son enormously with his maths and economics iGCSE prep. He was patient, fun and engaging - just what we needed. Highly recommended."
   - "Philippa|Parent of GCSE Student|I was really pleased to discover The Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and great flexibility on timings. Highly recommend."
 
 # FAQ picks: G05, A12, A01, E01, C02

@@ -191,7 +191,7 @@ reviews:
     A Level History and A Level Sociology since the beginning of this year. The
     tutor has been such a tremendous support, teaching him content as well as
     exam technique.
-  - Keira|GCSE Student|Has definitely helped me increase my grades from an E to
+  - Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!
     a B.
   - Philippa|Parent of GCSE Student|I was really pleased to discover the Degree
     Gap when my daughter needed help getting the grades she needed for GCSEs.

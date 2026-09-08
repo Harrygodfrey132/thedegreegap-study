@@ -53,7 +53,7 @@ faqs:
 reviews:
   - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of working with Malvina, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons and has learned strategies that help him approach English in a way that resonates with him."
   - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents. My daughter passed both English and Maths GCSE with grades 4 and 5."
-  - "Dawn|Parent of GCSE Student|The Degree Gap took time to understand my child's worries. They paired me with Connor, who my daughter got on well with. Her confidence has skyrocketed since. Thanks again."
-  - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B."
+  - "Dawn|Parent of GCSE Student|The Degree Gap took time to understand my child’s worries. They paired me with Connor, who my daughter got on well with. Her confidence has skyrocketed since. Thanks again."
+  - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
   - "Philippa|Parent of GCSE Student|I was really pleased to discover The Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and great flexibility on timings. Highly recommend."
 ---

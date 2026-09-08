@@ -52,9 +52,9 @@ faqs:
 # FAQ picks: G03, G04, A05, E05, C03
 
 reviews:
-  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than his year 13 mock paper. His tutor Jacob was excellent."
-  - "Joanna|Parent of A-Level Student|The A-Level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing."
-  - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B."
-  - "Marfa|University Student|Very engaging lessons that helped me improve my grade in Maths and successfully get admitted to university."
-  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations. They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional. Both my sons exceeded well above their expected grades and got into their first-choice universities."
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Marfa|University Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university"
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
 ---

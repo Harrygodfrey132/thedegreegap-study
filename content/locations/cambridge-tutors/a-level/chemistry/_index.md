@@ -52,9 +52,9 @@ faqs:
 # FAQ picks: G03, A14, A01, E01, C09
 
 reviews:
-  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than his year 13 mock paper. His tutor Jacob was excellent."
-  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A-Level Physics, all whilst being kind and supportive."
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
   - "Serena|Student|Malvina is a very intuitive and superb teacher. She listened acutely to my specific concerns and bolstered my confidence in answering the questions. She taught me how to think critically and helped me through this highly demanding course."
-  - "Joanna|Parent of A-Level Student|The A-Level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing."
-  - "Alexander|Parent|The Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and applications."
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 ---

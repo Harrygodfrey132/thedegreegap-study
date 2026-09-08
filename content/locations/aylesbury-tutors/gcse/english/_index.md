@@ -54,7 +54,7 @@ reviews:
   - "Serena|Student|Malvina is a very intuitive and superb teacher. She listened acutely to my specific concerns and bolstered my confidence in answering the questions. She taught me how to think critically and helped me through this highly demanding course."
   - "Philippa|Parent of GCSE Student|I was really pleased to discover The Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and great flexibility on timings. Highly recommend."
   - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents. My daughter passed both English and Maths GCSE with grades 4 and 5."
-  - "Sorland|Grandparent|My granddaughter uses The Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
+  - "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
 
 # FAQ picks: G05, A03, A02, E05, C01
 sitemap:

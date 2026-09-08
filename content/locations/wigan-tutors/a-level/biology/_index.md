@@ -52,9 +52,9 @@ faqs:
 # FAQ picks: G03, A05, A01, E01, C07
 
 reviews:
-  - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B."
-  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than his year 13 mock paper. His tutor Jacob was excellent."
+  - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
   - "Serena|Student|Malvina is a very intuitive and superb teacher. She listened acutely to my specific concerns and bolstered my confidence in answering the questions. She taught me how to think critically and helped me through this highly demanding course."
   - "Alison|Parent of A-Level Student|My son has been receiving lessons with Jacob Berry in A-Level History and subsequently A-Level Sociology since the beginning of this year. Jacob has been such a tremendous support for my son, teaching him content as well as exam technique."
-  - "Alexander|Parent|The Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and applications."
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 ---

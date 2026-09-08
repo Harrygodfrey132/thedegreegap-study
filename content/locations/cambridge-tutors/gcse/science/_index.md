@@ -51,10 +51,10 @@ faqs:
     a: "There is more room than results day makes it feel. Start by checking the sixth form's actual position rather than assuming, since places are sometimes held for a student who misses by one grade in one subject. The review of marking route has a deadline shortly after results day and is worth using where a paper looks out of line with everything else. Science has no November resit window, so a resit means the following summer, and the more useful conversation is usually about which Level 3 route fits. We will say what we think on the call."
 
 reviews:
-  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A-Level Physics, all whilst being kind and supportive."
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
   - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."
-  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations. They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional. Both my sons exceeded well above their expected grades and got into their first-choice universities."
-  - "Dawn|Parent of GCSE Student|The Degree Gap took time to understand my child's worries. They paired me with Connor, who my daughter got on well with. Her confidence has skyrocketed since. Thanks again."
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Dawn|Parent of GCSE Student|The Degree Gap took time to understand my child’s worries. They paired me with Connor, who my daughter got on well with. Her confidence has skyrocketed since. Thanks again."
   - "Heidi|Parent|Emir is simply amazing with our daughter. He gets her totally, and her sessions are helping her with her school work so much. We cannot thank him enough."
 
 # FAQ picks: G01, A12, A06, E04, C08

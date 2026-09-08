@@ -52,9 +52,9 @@ faqs:
 # FAQ picks: G04, A08, A09, E04, C03
 
 reviews:
-  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than his year 13 mock paper. His tutor Jacob was excellent."
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
   - "Matthew Eberle|Parent|The Degree Gap is an extremely well run tutoring business. They take the time to get to know your child and suggest the right tutors. It is great I got to try out as many tutors as I needed to before picking the right fit. We have been working with them for over a year now! No issues!"
-  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations. They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional. Both my sons exceeded well above their expected grades and got into their first-choice universities."
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
   - "Leo Whittle|A-Level Student|The Degree Gap tutored me throughout my A level journey and helped boost my grades to the highest grades. The flexibility of timing was the most helpful thing. My tutor, Harry, found time whenever I needed him to help me on any topic. This involved question run through, marking of questions and general support throughout my 2 years of studying. Overall, the degree gap gave me excellent tutoring over a flexible time period."
   - "Alison|Parent of A-Level Student|My son has been receiving lessons with Jacob Berry in A-Level History and subsequently A-Level Sociology since the beginning of this year. Jacob has been such a tremendous support for my son, teaching him content as well as exam technique."
 ---

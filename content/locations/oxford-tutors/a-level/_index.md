@@ -38,21 +38,21 @@ pathways:
       Some Oxford leavers step straight into roles at the university and its colleges, the John Radcliffe or the science and tech firms around Milton Park and Harwell. Foundation years and gap years pointed at a stronger reapplication are common too, especially for Medicine.
 
 reviews:
-  - "Alexander|Parent|The Degree Gap helped my child go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and applications."
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
   - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than his year 13 mock paper. His tutor was excellent."
   - "Nick|Parent of A-Level Student|Our son has been receiving tuition for Psychology A Level. The tutor has provided a solid base of support outside of school lessons and helped him to improve his latest grades."
   - "Serena|A-Level Student|My tutor is a very intuitive and superb teacher. She listened to my specific concerns and bolstered my confidence in answering questions. She taught me how to think critically and helped me through this highly demanding course. I will happily recommend without a second thought."
-  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing."
-  - "Dan|A-Level Student|The Degree Gap really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
-  - "Mahir|A-Level Student|My tutor was an excellent teacher that helped me gain real grip of the complicated areas in my subjects like economics. I'd highly recommend for anyone looking to consistently perform at their best."
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Mahir|A-Level Student|Harry was an excellent teacher that helped me gain real grip of the complicated areas in my subjects like economics - I'd highly recommend for anyone looking to consistently perform at their best."
   - "Kachi|University Student|My tutor transformed my performance in mathematical economics modules, taking me from a third class to a first. His patience and ability to adapt to my needs exceeded my expectations."
   - "Nicolai|A-Level Student|Before joining The Degree Gap, I found it hard to follow the curriculum. The sessions helped everything click. Lessons were calm, focused, and easy to understand. Highly recommend."
   - "Binh|A-Level Student|My sessions were super simple compared to what I'd experienced with other teachers. I really enjoyed my time and would highly recommend it to people."
-  - "Aila|University Applicant|My tutor was amazing. He helped me shape my personal statement into something I was truly proud of, and thanks to his support, I got into my dream university. Highly recommend to anyone applying to uni."
+  - "Aila|University Applicant|Harry was amazing! He helped me shape my personal statement into something I was truly proud of, and thanks to his support, I got into my dream university! Couldn’t have done it without him–highly recommend to anyone applying to uni."
   - "J.O.|A-Level Student|At first I was hesitant on getting a tutor, but this wasn't the case. My tutor helped me massively with my essays, topics I didn't understand, and overall confidence with the subject. I highly recommend."
-  - "Sarom|Parent of A-Level Student|The Degree Gap has been very helpful in tutoring my son for his economics A Level. His tutor has lots of patience, keeps lessons interesting and is a good motivator. The subject matter expertise is excellent."
+  - "Sarom|Parent of A-Level Student|Harry has been very helpful in tutoring my son for his economics A Level. He has lots of patience, keeps lessons interesting and is a good motivator. Needless to say his subject matter is expertise is excellent."
   - "Tommy|University Student|I wish I had found The Degree Gap when I was sitting my school exams. They helped with my dissertation work and without their help I am not sure I would have graduated so successfully and landed a successful job."
-  - "Alex|University Student|Cannot recommend The Degree Gap highly enough. Quick and helpful responses. I was immediately matched with a very competent tutor who was a massive help in helping me exceed my target grade and achieve a first class degree at university."
+  - "Alex|University Student|Can’t recommend The Degree Gap highly enough. Quick and helpful responses from Harry. He immediately matched me with a very competent tutor, who was a massive help in helping me exceed my target grade and achieve a first class degree at university."
 
 faq_1_q: "Can an Oxford A-Level tutor help with an Oxford or other Oxbridge application?"
 faq_1_a: "Yes. Tutors cover subject interviews, admissions-test prep and the A*-grade work the top offers turn on, and it usually starts in late Year 12 once subjects are settled. That leaves time for mock interviews before the UCAS deadline. The subject grades come first though, because no amount of interview polish rescues a shaky predicted grade."

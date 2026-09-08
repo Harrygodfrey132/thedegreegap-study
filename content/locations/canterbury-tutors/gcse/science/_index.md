@@ -49,11 +49,11 @@ faqs:
     a: "Yes, and holiday weeks are often where the most focused progress happens, especially intensive blocks at October half term and Easter for Year 11. Science suits this because a required practical can be rebuilt properly in a couple of uninterrupted sessions rather than in fragments around homework. The online format means scheduling stays flexible, and sessions are recorded so nothing is lost between blocks."
 
 reviews:
-  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A-Level Physics, all whilst being kind and supportive."
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
   - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."
-  - "Annette|Parent|This company helped us find Jon Brettell for Geography and my son has excelled so much in just a few months. Jon has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself. He also manages neurodiversity effectively."
+  - "Annette|Parent|This company helped us find Jon Brettell for Geography and my son has excelled so much in just a few months. Jon has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself – a difficult task.  He also manages neurodiversity effectively."
   - "Heidi|Parent|Emir is simply amazing with our daughter. He gets her totally, and her sessions are helping her with her school work so much. We cannot thank him enough."
-  - "Bryan|GCSE Student|Helped me a lot and really showed me what I need to improve on."
+  - "Bryan|GCSE Student|Helped me a lot and really showed me what i need to improve on"
 
 # FAQ picks: G05, A12, A01, E05, C05
 sitemap:

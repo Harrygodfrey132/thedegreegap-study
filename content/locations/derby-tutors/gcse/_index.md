@@ -50,7 +50,7 @@ pathways:
       3 entry threshold, especially for the engineering and digital T Levels
       feeding the Rolls-Royce supply chain.
 reviews:
-  - Keira|GCSE Student|Has definitely helped me increase my grades from an E to
+  - Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!
     a B.
   - Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with
     English and was completely disengaged from the subject. After six months of
@@ -76,7 +76,7 @@ reviews:
     after from the start. There are lots of tutors to choose from and all
     subjects are catered for, with great flexibility on timings. Highly
     recommend.
-  - Bryan|GCSE Student|Helped me a lot and really showed me what I need to
+  - Bryan|GCSE Student|Helped me a lot and really showed me what i need to improve on
     improve on.
   - Jessica|GCSE Student|I was helped with both Maths and English for my GCSEs
     and passed both subjects with great results, which gave me the foundation
@@ -87,7 +87,7 @@ reviews:
   - Heidi|Parent|Our tutor is simply amazing with our daughter. He understands
     her completely and her sessions are helping her with her school work so
     much. We cannot thank him enough.
-  - Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE.
+  - Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE thank you
     Thank you.
   - Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone
     above and beyond to pair both my sons with the appropriate tutors, all of

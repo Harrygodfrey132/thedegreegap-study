@@ -39,21 +39,21 @@ pathways:
       Canterbury College runs Level 3 BTEC programmes alongside A-Levels for students wanting a vocational route or a course outside the grammar pathway. East Kent College Group's nearby campuses pick up the broader Kent FE intake, with GCSE Maths and English resits the most common entry point.
 
 reviews:
-  - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B."
+  - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
   - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him."
   - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. We were given a selection of tutors to choose from and told that if it did not feel like a good match we could try others. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
   - "Heidi|Parent|Our tutor is simply amazing with our daughter. He understands her completely and her sessions are helping her with her school work so much. We cannot thank him enough."
   - "Annette|Parent|This company helped us find a tutor for Geography and my son has excelled so much in just a few months. Our tutor has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself. He also manages neurodiversity effectively."
   - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings. Highly recommend."
   - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."
-  - "Bryan|GCSE Student|Helped me a lot and really showed me what I need to improve on."
-  - "Jessica|GCSE Student|I was helped with both Maths and English for my GCSEs and passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree."
+  - "Bryan|GCSE Student|Helped me a lot and really showed me what i need to improve on"
+  - "Jessica|GCSE Student|I highly recommend Harry – he was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree!!"
   - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents. My daughter passed both English and Maths GCSE."
   - "Isabel|Parent of iGCSE Student|The Degree Gap gave our son the support he needed for his iGCSEs, especially in Maths and Economics. Lessons were clear, engaging, and built his confidence. Highly recommended."
-  - "Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional. Both my sons exceeded their expected grades in their GCSEs and A Levels and got into their first choice universities. I cannot recommend them highly enough."
-  - "Sorland|Grandparent|My granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
+  - "Lisa|Parent|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
   - "Theresa|Parent|The Degree Gap was fantastic. Their knowledge and guidance helped my son find direction in both his studies and future plans."
-  - "Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE. Thank you."
+  - "Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE thank you"
 
 faq_1_q: "My daughter has fallen behind in GCSE Maths. Where does a Canterbury GCSE tutor actually start?"
 faq_1_a: "With a diagnostic. The first session usually isn't about the Year 11 topic on the school's whiteboard. It's about which Year 8 or 9 method never properly clicked, fractions, the algebra that won't come back, the timing problem on the calculator paper. Once that's named, the tutor rebuilds the method and drills it until it's automatic, then comes back to the current syllabus with the foundation in place."

@@ -39,18 +39,18 @@ pathways:
       Some students go straight into work locally, in healthcare support, construction, logistics and the port economy at Harwich. Others take a gap year to strengthen a reapplication, which is most common where a Medicine or Veterinary application fell a grade short first time round.
 
 reviews:
-  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than his year 13 mock paper. His tutor Jacob was excellent."
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
   - "Alison|Parent of A-Level Student|My son has been receiving lessons with Jacob Berry in A-Level History and subsequently A-Level Sociology since the beginning of this year. Jacob has been such a tremendous support for my son, teaching him content as well as exam technique."
-  - "Joanna|Parent of A-Level Student|The A-Level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing."
-  - "Alexander|Parent|The Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and applications."
-  - "Nick|Parent of A-Level Student|Sandra Sabu has been tutoring our son for Psychology A-Level. Sandra has provided a solid base of tutoring outside of school lessons and helped him to improve his latest grades."
-  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A-Level Physics, all whilst being kind and supportive."
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Nick|Parent of A-Level Student|Sandra Sabu has been tutoring our son for Psychology A Level. Sandra has provided a solid base of tutoring outside of school lessons and helped him to improve his latest grades."
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
   - "Serena|Student|Malvina is a very intuitive and superb teacher. She listened acutely to my specific concerns and bolstered my confidence in answering the questions. She taught me how to think critically and helped me through this highly demanding course."
-  - "Cat|Parent of A-Level Student|My 18 year old son had A-Level Economics tutoring with Harry. He was excellent, knew exactly what he needed to learn and was able to explain in terms which made it simple to understand. The online platform was convenient and easy to use."
-  - "Dan|A-Level Student|The Degree Gap really helped me get through my A-Levels and made a massive difference when helping me get into my first choice of university."
-  - "Aila|University Applicant|Harry was amazing. He helped me shape my personal statement into something I was truly proud of, and thanks to his support I got into my dream university. Highly recommend to anyone applying to uni."
-  - "Theresa|Parent|Harry and Joe were extremely helpful, with a wealth of knowledge and contacts that helped my son to follow the right path."
-  - "Nicolai|University Student|Had troubles connecting with tutors until I met Harry. He helped me understand the curriculum and theories in a way that stuck with me, and made each session feel calm and relaxing. Highly recommend."
+  - "Cat|Parent of A-Level Student|My 18 year old son had A-level Economics tutoring with Harry.  He was excellent, knew exactly what he needed to learn and was able to explain in terms which made it simple to understand.  The online platform was convenient and easy to use."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Aila|University Applicant|Harry was amazing! He helped me shape my personal statement into something I was truly proud of, and thanks to his support, I got into my dream university! Couldn’t have done it without him–highly recommend to anyone applying to uni."
+  - "Theresa|Parent|Harry and Joe were extremely helpful with a wealth of knowledge and contacts that helped my son to follow the right path."
+  - "Nicolai|University Student|Had troubles connecting with tutors until I met Harry, helped me understand the curriculum and theories in a way that stuck with me, also made each session feel calm and relaxing. Highly recommend"
 
 faq_1_q: "How many sessions before we see the grade move?"
 faq_1_a: "Eight to twelve weekly sessions for one band is the usual answer, assuming work is happening between lessons. It runs faster when the problem is technique, because the content is already there and only the method is missing. It runs slower when part of the specification was never secure, since that means rebuilding before climbing. What you should see by session three is a clear statement of what is actually wrong. If nobody can name it by then, the diagnosis has not happened."

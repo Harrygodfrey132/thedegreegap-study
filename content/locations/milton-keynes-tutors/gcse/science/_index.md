@@ -49,11 +49,11 @@ faqs:
     a: "There is more room than results day makes it feel. Ask the sixth form directly before you assume anything, because a single missed grade in a single subject is often negotiable when the rest holds up. Science has no November resit window, unlike English Language and Maths, so a resit means the following summer. That usually makes the more useful conversation about which Level 3 route fits, and we will say what we honestly think on the call."
 
 reviews:
-  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A-Level Physics, all whilst being kind and supportive."
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
   - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."
-  - "Annette|Parent|This company helped us find Jon Brettell for Geography and my son has excelled so much in just a few months. Jon has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself. He also manages neurodiversity effectively."
+  - "Annette|Parent|This company helped us find Jon Brettell for Geography and my son has excelled so much in just a few months. Jon has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself – a difficult task.  He also manages neurodiversity effectively."
   - "Heidi|Parent|Emir is simply amazing with our daughter. He gets her totally, and her sessions are helping her with her school work so much. We cannot thank him enough."
-  - "Bryan|GCSE Student|Helped me a lot and really showed me what I need to improve on."
+  - "Bryan|GCSE Student|Helped me a lot and really showed me what i need to improve on"
 
 # FAQ picks: G05, A12, A04, E01, C08
 sitemap:

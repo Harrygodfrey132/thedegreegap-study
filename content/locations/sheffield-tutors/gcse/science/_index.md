@@ -54,7 +54,7 @@ faqs:
 reviews:
   - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."
   - "Annette|Parent|This company helped us find a tutor for Geography and my son has excelled so much in just a few months. Our tutor has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself. He also manages neurodiversity effectively."
-  - "Bryan|GCSE Student|Helped me a lot and really showed me what I need to improve on."
+  - "Bryan|GCSE Student|Helped me a lot and really showed me what i need to improve on"
   - "Heidi|Parent|Our tutor is simply amazing with our daughter. He understands her completely and her sessions are helping her with her school work so much. We cannot thank him enough."
   - "Theresa|Parent|The Degree Gap was fantastic. Their knowledge and guidance helped my son find direction in both his studies and future plans."
 

@@ -195,7 +195,7 @@ reviews:
     after from the start. There are lots of tutors to choose from and all
     subjects are catered for, with great flexibility on timings. Highly
     recommend.
-  - Bryan|GCSE Student|Helped me a lot and really showed me what I need to
+  - Bryan|GCSE Student|Helped me a lot and really showed me what i need to improve on
     improve on.
 sitemap:
   priority: 0.8

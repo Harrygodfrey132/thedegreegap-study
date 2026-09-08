@@ -69,12 +69,12 @@ accordion_quality: "Every tutor working with High Wycombe students is assessed o
 accordion_experience: "Our tutors have prepared students for the Buckinghamshire Transfer Test, competitive grammar sixth form entry at RGS and Wycombe High, Russell Group applications and Oxbridge offers. They know the standard those courses expect and how to coach a student towards it without burning them out."
 accordion_personalised: "We don't run set programmes. For a High Wycombe student, tuition is shaped around their specific test, exam board or target grade, with sessions that stretch the student precisely where the next mark band sits."
 reviews:
-  - Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional. Both my sons exceeded their expected grades in their GCSEs and A Levels and got into their first choice universities. I cannot recommend them highly enough.
+  - Lisa|Parent|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough.
   - Nick|Parent of A-Level Student|Our son has been receiving tuition for Psychology A Level. The tutor has provided a solid base of support outside of school lessons and helped him to improve his latest grades.
-  - Alexander|Parent|The Degree Gap helped my child go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and applications.
+  - Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application.
   - Serena|A-Level Student|My tutor is a very intuitive and superb teacher. She listened to my specific concerns and bolstered my confidence in answering questions. She taught me how to think critically and helped me through this highly demanding course. I will happily recommend without a second thought.
   - Kachi|University Student|My tutor transformed my performance in mathematical economics modules, taking me from a third class to a first. His patience and ability to adapt to my needs exceeded my expectations.
-  - Alex|University Student|Cannot recommend The Degree Gap highly enough. Quick and helpful responses. I was immediately matched with a very competent tutor who was a massive help in helping me exceed my target grade and achieve a first class degree at university.
+  - Alex|University Student|Can’t recommend The Degree Gap highly enough. Quick and helpful responses from Harry. He immediately matched me with a very competent tutor, who was a massive help in helping me exceed my target grade and achieve a first class degree at university.
 sitemap:
   priority: 0.8
   changefreq: monthly

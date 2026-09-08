@@ -101,16 +101,16 @@ reviews:
     has excelled so much in just a few months. Our tutor has gone above and
     beyond, demonstrating incredible patience and encouraging my son to believe
     in himself. He also manages neurodiversity effectively.
-  - Bryan|GCSE Student|Helped me a lot and really showed me what I need to
+  - Bryan|GCSE Student|Helped me a lot and really showed me what i need to improve on
     improve on.
-  - Keira|GCSE Student|Has definitely helped me increase my grades from an E to
+  - Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!
     a B.
   - Theresa|Parent|The Degree Gap was fantastic. Their knowledge and guidance
     helped my son find direction in both his studies and future plans.
   - Sorland|Grandparent|My granddaughter uses the Degree Gap tutoring services
     across a few subjects. She is not only improving academically but really
     enjoys the setup and structure too. I would recommend to anyone.
-  - Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE.
+  - Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE thank you
     Thank you.
 faq_1_q: Can a Baldock GCSE tutor help with March mock prep?
 faq_1_a: Yes. March mocks set the predicted grade that goes to sixth forms, so

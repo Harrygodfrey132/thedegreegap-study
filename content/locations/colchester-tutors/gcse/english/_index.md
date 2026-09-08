@@ -53,8 +53,8 @@ faqs:
 
 reviews:
   - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of working with Malvina, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons and has learned strategies that help him approach English in a way that resonates with him."
-  - "Jessica|GCSE Student|Harry was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree."
-  - "Dawn|Parent of GCSE Student|The Degree Gap took time to understand my child's worries. They paired me with Connor, who my daughter got on well with. Her confidence has skyrocketed since. Thanks again."
-  - "Annette|Parent|This company helped us find Jon Brettell for Geography and my son has excelled so much in just a few months. Jon has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself. He also manages neurodiversity effectively."
+  - "Jessica|GCSE Student|I highly recommend Harry – he was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree!!"
+  - "Dawn|Parent of GCSE Student|The Degree Gap took time to understand my child’s worries. They paired me with Connor, who my daughter got on well with. Her confidence has skyrocketed since. Thanks again."
+  - "Annette|Parent|This company helped us find Jon Brettell for Geography and my son has excelled so much in just a few months. Jon has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself – a difficult task.  He also manages neurodiversity effectively."
   - "Serena|Student|Malvina is a very intuitive and superb teacher. She listened acutely to my specific concerns and bolstered my confidence in answering the questions. She taught me how to think critically and helped me through this highly demanding course."
 ---

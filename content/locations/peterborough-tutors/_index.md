@@ -188,7 +188,7 @@ reviews:
   - Nick|Parent of A-Level Student|Our son has been receiving tuition for
     Psychology A Level. The tutor has provided a solid base of support outside
     of school lessons and helped him to improve his latest grades.
-  - Bryan|GCSE Student|Helped me a lot and really showed me what I need to
+  - Bryan|GCSE Student|Helped me a lot and really showed me what i need to improve on
     improve on.
   - Joanna|Parent of A-Level Student|The A level tutoring made such a difference
     to my son, who had left studying until the final hour, managing to turn E
