@@ -27,7 +27,7 @@
       <li class="bc-drawer__review">
         <span class="bc-drawer__review-stars" aria-label="5 stars">★★★★★</span>
         <p class="bc-drawer__review-text">"{{ .text }}"</p>
-        <p class="bc-drawer__review-byline"><strong>{{ .name }}</strong> · {{ .role }}</p>
+        <p class="bc-drawer__review-byline"><strong>{{ .name }}</strong>{{ with .role }} · {{ . }}{{ end }}</p>
       </li>
       {{ end }}
     </ul>

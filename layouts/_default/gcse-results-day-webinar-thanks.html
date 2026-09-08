@@ -212,7 +212,7 @@
       <article class="rdt-review">
         <div class="rdt-review__stars" aria-label="5 out of 5">★★★★★</div>
         <p class="rdt-review__text">"{{ .text }}"</p>
-        <p class="rdt-review__footer"><strong>{{ .name }}</strong>, {{ .role }}</p>
+        <p class="rdt-review__footer"><strong>{{ .name }}</strong>{{ with .role }}, {{ . }}{{ end }}</p>
       </article>
       {{ end }}
     </div>

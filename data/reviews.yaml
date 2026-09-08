@@ -1,90 +1,550 @@
-# Real Google reviews only. Every entry below is a genuine review left for
-# The Degree Gap. Do not add, invent, embellish or re-grade any review.
-# If a review is not in the owner's real Google review list, it does not go here.
-- name: Omo
-  role: Parent of GCSE Student
-  text: My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of working with Malvina, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons and has learned strategies that help him approach English in a way that resonates with him.
-- name: Ellen
-  role: Parent of GCSE Student
-  text: My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry, who listened to her needs and gave us a selection of tutors to choose from. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend.
-- name: Daljit
-  role: Parent of A-Level Student
-  text: My son gained almost two grades higher than his year 13 mock paper. His tutor Jacob was excellent.
-- name: Philippa
-  role: Parent of GCSE Student
-  text: I was really pleased to discover The Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and great flexibility on timings. Highly recommend.
-- name: Alison
-  role: Parent of A-Level Student
-  text: My son has been receiving lessons with Jacob Berry in A-Level History and subsequently A-Level Sociology since the beginning of this year. Jacob has been such a tremendous support for my son, teaching him content as well as exam technique.
-- name: Lisa
-  role: Parent of Two Students
-  text: Joe and Harry at The Degree Gap have exceeded all my expectations. They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional. Both my sons exceeded well above their expected grades and got into their first-choice universities.
-- name: Annette
-  role: Parent
-  text: This company helped us find Jon Brettell for Geography and my son has excelled so much in just a few months. Jon has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself. He also manages neurodiversity effectively.
-- name: Augusta
-  role: Parent of GCSE Student
-  text: The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time.
-- name: Isabel
-  role: Parent of iGCSE Student
-  text: Harry helped our son enormously with his Maths and Economics iGCSE prep. He was patient, fun and engaging, just what we needed. Highly recommended.
-- name: Keira
-  role: GCSE Student
-  text: Has definitely helped me increase my grades from an E to a B.
-- name: Heidi
-  role: Parent
-  text: Emir is simply amazing with our daughter. He gets her totally, and her sessions are helping her with her school work so much. We cannot thank him enough.
-- name: Chris
-  role: Parent of GCSE Student
-  text: Very good tutoring for my daughter and good communication with parents. My daughter passed both English and Maths GCSE with grades 4 and 5.
-- name: Theresa
-  role: Parent
-  text: Harry and Joe were extremely helpful, with a wealth of knowledge and contacts that helped my son to follow the right path.
-- name: Sorland
-  role: Grandparent
-  text: My granddaughter uses The Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone.
-- name: Jessica
-  role: GCSE Student
-  text: Harry was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree.
-- name: Nick
-  role: Parent of A-Level Student
-  text: Sandra Sabu has been tutoring our son for Psychology A-Level. Sandra has provided a solid base of tutoring outside of school lessons and helped him to improve his latest grades.
-- name: Joanna
-  role: Parent of A-Level Student
-  text: The A-Level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing.
-- name: Serena
-  role: Student
-  text: Malvina is a very intuitive and superb teacher. She listened acutely to my specific concerns and bolstered my confidence in answering the questions. She taught me how to think critically and helped me through this highly demanding course.
-- name: Dan
-  role: A-Level Student
-  text: The Degree Gap really helped me get through my A-Levels and made a massive difference when helping me get into my first choice of university.
-- name: Alex
-  role: University Student
-  text: Cannot recommend The Degree Gap highly enough. Quick and helpful responses from Harry. He immediately matched me with a very competent tutor who was a massive help in helping me exceed my target grade and achieve a first class degree at university.
-- name: Kachi
-  role: University Student
-  text: Harry transformed my performance in mathematical economics modules, taking me from a third class to a first. His patience and ability to adapt to my needs helped me exceed my expectations.
-- name: Tommy
-  role: University Student
-  text: I wish I had known about The Degree Gap when I was sitting my school exams. Joe helped with my dissertation work and without his help I am not sure I would have graduated so successfully and landed a successful job.
-- name: Aila
-  role: University Applicant
-  text: Harry was amazing. He helped me shape my personal statement into something I was truly proud of, and thanks to his support I got into my dream university. Highly recommend to anyone applying to uni.
-- name: Cat
-  role: Parent of A-Level Student
-  text: My 18 year old son had A-Level Economics tutoring with Harry. He was excellent, knew exactly what he needed to learn and was able to explain in terms which made it simple to understand. The online platform was convenient and easy to use.
-- name: Sureet
-  role: Parent of A-Level Student
-  text: Haneet has really helped my son in navigating his A-Level Physics, all whilst being kind and supportive.
-- name: Dawn
-  role: Parent of GCSE Student
-  text: The Degree Gap took time to understand my child's worries. They paired me with Connor, who my daughter got on well with. Her confidence has skyrocketed since. Thanks again.
-- name: Marfa
-  role: University Student
-  text: Very engaging lessons that helped me improve my grade in Maths and successfully get admitted to university.
-- name: Alexander
-  role: Parent
-  text: The Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and applications.
-- name: Nicolai
-  role: University Student
-  text: Had troubles connecting with tutors until I met Harry. He helped me understand the curriculum and theories in a way that stuck with me, and made each session feel calm and relaxing. Highly recommend.
+# Real Google reviews only.
+#
+# Rebuilt 2026-09-08 directly from the Google Business Profile API export.
+# Every `text` below is VERBATIM as the reviewer wrote it. That includes their
+# typos ("jis year 13", "recomend", "avaliable", "git goid"), their punctuation
+# ("B!!"), their capitalisation ("maths", "A-levels") and their emoji.
+#
+# DO NOT copy-edit these. The previous version of this file had been silently
+# tidied into house style on every single entry, and in several cases truncated:
+# Kachi's review had been cut to 59% of what he wrote, Lisa's lost a sentence,
+# Heidi's lost more than half. If a review needs shortening for a layout, do it
+# at render time, never in this file.
+#
+# `role` is the ONLY editorial field here. Google does not supply it; it is
+# inferred from the review text ("my son" -> Parent) and left empty where the
+# text does not say. Everything else comes straight from the API.
+#
+# Reviews with a star rating but no written comment are not listed. There were
+# 21 of those in the export.
+#
+# Total in the export: 109 reviews. Listed here (those with text): 88.
+# Star ratings: 86 five-star, 2 four-star.
+- name: "Heidi Milburn"
+  role: "Parent"
+  source: google
+  rating: 5
+  date: 2026-04-29
+  text: "Emir, is simply amazing with our daughter. He 'gets' her totally, her sessions are helping her with her school work so much. We can't thank him enough ! Harry and Joe are always on hand should you need anything. Degreegap is an excellent company to work with, lots of excellent tutors avaliable to teach different subjects, great availability, very reasonably priced. Would highly recommend."
+- name: "Dawn Lattimer"
+  role: "Parent"
+  source: google
+  rating: 5
+  date: 2026-07-02
+  text: "The Degree Gap took time to understand my child’s worries. They paired me with Connor, who my daughter got on well with. Her confidence has skyrocketed since. Thanks again."
+- name: "Cat Humphries"
+  role: "Parent of A-Level Student"
+  source: google
+  rating: 5
+  date: 2026-06-11
+  text: "My 18 year old son had A-level Economics tutoring with Harry.  He was excellent, knew exactly what he needed to learn and was able to explain in terms which made it simple to understand.  The online platform was convenient and easy to use."
+- name: "Simone Clissold"
+  role: "Parent of GCSE Student"
+  source: google
+  rating: 5
+  date: 2026-06-07
+  text: "Hi Emir,\n\nAll the English exams have now finished 😊 My son came out after each one saying they were okay 😊👍 Fingers crossed he passes.\n\nThank you again for supporting him, keeping him calm, focused and motivated throughout. We really appreciate everything you’ve done. it’s definitely been a challenging few months.\n\nAs you know, my son is autistic and has ADHD, and he struggles to revise independently. During sessions, you got him answering past paper questions, discussing the answers together, setting work between sessions, and marking it together in class, which really helped him.\n\nI would highly recommend your services to others.\n\nWishing you a lovely summer, and I’ll update you with the results in August 🤞\n\nSimone"
+- name: "Sureet Mehra"
+  role: "Parent of A-Level Student"
+  source: google
+  rating: 5
+  date: 2026-05-14
+  text: "Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+- name: "Annette Catling"
+  role: "Parent"
+  source: google
+  rating: 5
+  date: 2026-05-11
+  text: "This company helped us find Jon Brettell for Geography and my son has excelled so much in just a few months. Jon has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself – a difficult task.  He also manages neurodiversity effectively."
+- name: "Nick Wright"
+  role: "Parent of A-Level Student"
+  source: google
+  rating: 5
+  date: 2026-05-11
+  text: "Sandra Sabu has been tutoring our son for Psychology A Level. Sandra has provided a solid base of tutoring outside of school lessons and helped him to improve his latest grades."
+- name: "Bryan Akala"
+  role: "Student"
+  source: google
+  rating: 5
+  date: 2026-05-10
+  text: "Helped me a lot and really showed me what i need to improve on"
+- name: "Alison shah"
+  role: "Parent of A-Level Student"
+  source: google
+  rating: 5
+  date: 2026-05-08
+  text: "My son has been receiving tutor lessons with Jacob Berry in A level History and subsequently A level Sociology since the beginning of this year.\nJacob has been such a tremendous support for my son, teaching him content as well as exam technique, with which, as a dyslexic, he really has needed additional support.\nJacob also sets him weekly essays as homework, marks and returns them which is just invaluable.\nHarry at The Degree Gap has also been outstanding - from day one when I first got in touch to now, when we are about to end our tutor sessions.  When I communicate his responses to me have always been immediate and highly supportive, plus credit to Harry for matching us with Jacob.\nI would not hesitate to recommend The Degree Gap and absolutely to recommend Jacob."
+- name: "Omo"
+  role: "Parent of GCSE Student"
+  source: google
+  rating: 5
+  date: 2026-04-23
+  text: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
+- name: "serena adeosun"
+  role: "Student"
+  source: google
+  rating: 5
+  date: 2026-04-08
+  text: "Malvina is a very intuitive and superb teacher. She listened acutely to my specific concerns and bolstered my confidence in answering the questions. She taught me how to think critically and helped me through this highly demanding and complex course.\nI will happily recomend her without a second thought!"
+- name: "Google User"
+  role: "Parent"
+  source: google
+  rating: 5
+  date: 2026-04-05
+  text: "I found the webinar incredibly helpful. It provided practical strategies that my child could start using straight away. The post-webinar support has been excellent, the extra resources and follow-up answers made a real difference."
+- name: "Sorland Pinnacle"
+  role: "Grandparent"
+  source: google
+  rating: 5
+  date: 2026-04-04
+  text: "My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
+- name: "Erica Thompson"
+  role: ""
+  source: google
+  rating: 5
+  date: 2026-04-04
+  text: "The webinar was a great experience and very helpful to me"
+- name: "John Harrison"
+  role: ""
+  source: google
+  rating: 5
+  date: 2026-03-30
+  text: "Shared some useful tips as part of a free webinar on how to maximise exam marks."
+- name: "Jemima Khan"
+  role: "Student"
+  source: google
+  rating: 5
+  date: 2026-03-26
+  text: "I recently watched one of The Degree Gaps webinar sessions, and I can honestly say it was such a valuable and inspiring experience. The session was incredibly well-structured, with clear explanations and a really engaging delivery that kept me interested the whole time.\n\nWhat stood out the most was how approachable and relatable everything felt. The speakers didn’t just give generic advice – they shared real insights, practical tips, and honest perspectives about different pathways and opportunities, which made it feel genuinely useful rather than overwhelming. I especially appreciated how they broke things down in a way that made complex ideas much easier to understand.\n\nThe interactive elements were also a highlight. It felt like a safe space to ask questions and actually be heard, which made the whole experience more personal and meaningful. I came away feeling much more informed, motivated, and confident about my future options.\n\nOverall, it was such a worthwhile session, and I would definitely recommend Degree Gaps webinars to anyone who’s looking for guidance, clarity, or just a bit of inspiration when thinking about their next steps."
+- name: "Gabriela"
+  role: ""
+  source: google
+  rating: 5
+  date: 2026-03-26
+  text: "Gave great advice and helped me a lot!"
+- name: "Yvonne Smith"
+  role: ""
+  source: google
+  rating: 5
+  date: 2026-03-26
+  text: "Really informative session with useful tips and tricks to help with exam approach and techniques. Thank you!!"
+- name: "Lisa Dunnett"
+  role: ""
+  source: google
+  rating: 5
+  date: 2026-03-26
+  text: "some great tips!"
+- name: "Philippa Langton"
+  role: "Parent of GCSE Student"
+  source: google
+  rating: 5
+  date: 2026-03-22
+  text: "I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings to fit around school lessons. The tutors we have used are lovely.  The Degree Gap use an advanced online platform which enables interactive tuition. We also attended a free webinar from the Degree Gap which was very informative and added value. I highly recommend them."
+- name: "Louisa Jones"
+  role: ""
+  source: google
+  rating: 5
+  date: 2026-03-01
+  text: "Some excellent tips with clear information. The addition of printable sheets for reference and help were really useful tools too."
+- name: "Hazel Woodward"
+  role: ""
+  source: google
+  rating: 5
+  date: 2026-02-23
+  text: "Great webinar from The degree gap. Plenty of resources and ideas shared on how to support learners going into their GCSE exams. Would recommend ⭐️⭐️⭐️⭐️⭐️"
+- name: "Jeanne Ruault"
+  role: "Student"
+  source: google
+  rating: 5
+  date: 2026-02-21
+  text: "I can’t recommend The degree gap enough! Harry provided quick and extremely helpful feedback on my personal statement for my master’s applications. Thank you, Harry!"
+- name: "Cheri Hollands"
+  role: ""
+  source: google
+  rating: 5
+  date: 2026-02-20
+  text: "Great presentation, with clearly presented content that gave excellent hints and tips"
+- name: "Amanda Johnson"
+  role: "Parent"
+  source: google
+  rating: 5
+  date: 2026-02-18
+  text: "\"I recently attended The Degree Gap’s free webinar for parents and it was incredibly eye-opening. Instead of the usual vague advice, Harry and Joe provided actual, actionable strategies for revision.  It’s helped me understand how to support my child without adding to their stress. Really enjoyed the guest expert session with Matt. Highly recommend for any parent feeling overwhelmed by the upcoming exam season! Very grateful for the bonus live Q&A and free downloads.”"
+- name: "Richard Pringle"
+  role: ""
+  source: google
+  rating: 5
+  date: 2026-02-18
+  text: "I attended a GCSE revision webinar and thought it was fantastic! It was packed full of really useful strategies and advice, none of which I had heard of before. There were also some resources shared which were incredibly helpful. Clearly a lot of time and effort went into the creation of the webinar, it really showed. I will definitely consider using the tutoring service as they came across as knowledgeable, relatable and enthusiastic. Highly recommend"
+- name: "Sarah Deacon"
+  role: ""
+  source: google
+  rating: 5
+  date: 2026-02-17
+  text: "Attended a seminar run by Harry and Joe.  Excellent and engaging and will definitely be looking forward to working with them shortly"
+- name: "Rebecca Williamson"
+  role: "Parent"
+  source: google
+  rating: 5
+  date: 2026-02-01
+  text: "This seminar was excellent - a good length and jam packed with realistic advice that is instantly implementable.  The follow up email was hugely appreciated and we have a plan, resources and much better focus for the months ahead. I initially watched this as a parent and have now watched it with my son and husband.  Thank you."
+- name: "Priya Patel"
+  role: "Parent of GCSE Student"
+  source: google
+  rating: 5
+  date: 2026-01-31
+  text: "Thank you to Harry and Joe for a very informative webinar on a parent's guide to supporting GCSE success. Great advice and tips given and they sent useful free resources by email which my daughter will use to help with her upcoming exams."
+- name: "Nimita Simran Ramsinghani"
+  role: ""
+  source: google
+  rating: 5
+  date: 2026-01-30
+  text: "Very helpful and very resourceful"
+- name: "Simon Dunne"
+  role: "Parent"
+  source: google
+  rating: 5
+  date: 2026-01-29
+  text: "Fantastic guidance for parents supporting kids with revision for GCSEs….practical advice and tools shared. Highly recommend!"
+- name: "Magdalena Pacyniak"
+  role: ""
+  source: google
+  rating: 5
+  date: 2026-01-28
+  text: "Very good and helpful information 😊"
+- name: "nena martin-harris"
+  role: "Parent"
+  source: google
+  rating: 5
+  date: 2026-01-29
+  text: "I found the webinar really informative and so grateful for the links and access to free resources as everything is so expensive these days and there is so much out there that you need to sign up to and agree to ‘trial’ before you buy, am just super impressed that these guys have realised how important it is to be so inclusive so all students have an equal chance .Thank you"
+- name: "Henrietta Prosser"
+  role: ""
+  source: google
+  rating: 5
+  date: 2026-01-29
+  text: "Excellent webinar with lots of useful advice and practical tips that were easy to follow and apply."
+- name: "Lydie Cantelo"
+  role: "Parent"
+  source: google
+  rating: 5
+  date: 2026-01-29
+  text: "very insightful presentation. It will help us as parents with our GCSE journey."
+- name: "Janna Rigby"
+  role: ""
+  source: google
+  rating: 5
+  date: 2026-01-29
+  text: "Excellent webinar. Clear, practical tips and free resources shared hugely appreciated."
+- name: "S TW"
+  role: ""
+  source: google
+  rating: 5
+  date: 2026-01-29
+  text: "Very well presented, informative, extremely helpful...Thank you!"
+- name: "Darren Harger"
+  role: "Parent"
+  source: google
+  rating: 5
+  date: 2026-01-28
+  text: "A really helpful experience for supporting our Son.Thank you Joe,Harry and Matt."
+- name: "Ash Ash"
+  role: ""
+  source: google
+  rating: 5
+  date: 2026-01-28
+  text: "The webinar was very useful, clear, and informative. The explanations were easy to understand. Thank you for a great session."
+- name: "F&T Kemp"
+  role: ""
+  source: google
+  rating: 5
+  date: 2026-01-28
+  text: "Informative presentation. Useful revision strategies with helpful methods to revise in particular for maths."
+- name: "Etienne Terblanche"
+  role: "Parent of GCSE Student"
+  source: google
+  rating: 4
+  date: 2026-01-28
+  text: "Great session on how to support our boy with his up & coming GCSE's exams. Very informative webinar with practical tips & techniques to use - by child & parent."
+- name: "Gaming James"
+  role: "Parent"
+  source: google
+  rating: 5
+  date: 2026-01-28
+  text: "Excellent presentation. Clear and very informative. I would highly recommend all parents take a look."
+- name: "Veronica Collins"
+  role: "Parent"
+  source: google
+  rating: 5
+  date: 2026-01-28
+  text: "Very useful information and tips!! For parents as it was mentioned in the session it would be good to provide one for the students as general guidance !!"
+- name: "H Eakin"
+  role: ""
+  source: google
+  rating: 5
+  date: 2026-01-28
+  text: "Useful downloads provided.  Thank you!"
+- name: "Keira Lei"
+  role: "GCSE Student"
+  source: google
+  rating: 5
+  date: 2025-11-12
+  text: "Has definitely helped me increase my grades from an E to a B!!"
+- name: "Nazrul Islam"
+  role: "Parent of GCSE Student"
+  source: google
+  rating: 5
+  date: 2025-11-08
+  text: "My daughter found the tutors were very helpful for her GCSE thank you"
+- name: "daljit lall"
+  role: "Parent of A-Level Student"
+  source: google
+  rating: 5
+  date: 2025-11-06
+  text: "My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+- name: "Joel Dunston"
+  role: "Student"
+  source: google
+  rating: 5
+  date: 2025-10-07
+  text: "The degree gap is an amazing place and have helped me achieve so much and I am looking forward to it helping it achieve a higher class of skills and ready for the RAF"
+- name: "Augusta Oloke"
+  role: "Parent of GCSE Student"
+  source: google
+  rating: 5
+  date: 2025-09-15
+  text: "The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. The website is easy to use and effective, I had no disappointment in scheduling lessons for my son. Tutors were polite and on time for their lessons."
+- name: "Joanna tweed"
+  role: "Parent of A-Level Student"
+  source: google
+  rating: 5
+  date: 2025-09-08
+  text: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+- name: "Chris Smith"
+  role: "Parent of GCSE Student"
+  source: google
+  rating: 5
+  date: 2025-06-20
+  text: "Very good tutoring for my daughter and good communication with parents.\n\nUPDATE: My daughter passed both English and Maths GCSE (4 and 5's). We are extremely grateful to your team especially Avery for the support she gave her in both subjects. Considering she missed a large chunk of the last 3 years at school due to a social anxiety illness, this is an amazing achievement for her."
+- name: "Ellen Logan"
+  role: "Parent of GCSE Student"
+  source: google
+  rating: 5
+  date: 2025-06-09
+  text: "My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. We opted for Avery and she was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back in her abilities and gave her the confidence to face Maths GCSE exams. Highly recommend Degree Gap and will be back again in September with my youngest embarking on her GCSEs"
+- name: "Jessica Wagstaff"
+  role: "Student"
+  source: google
+  rating: 5
+  date: 2025-05-14
+  text: "I highly recommend Harry – he was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree!!"
+- name: "Lisa James"
+  role: "Parent of Two Students"
+  source: google
+  rating: 5
+  date: 2025-05-08
+  text: "Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+- name: "Tommy Massie"
+  role: "University Student"
+  source: google
+  rating: 5
+  date: 2025-05-08
+  text: "Joe was super helpful for me, I wish I knew about him when I was sitting my school exams! He helped with my dissertation work and without his help I’m not sure I would have graduated so successfully and landed a successful job.\n\nThanks again Joe!"
+- name: "Anders Grandien"
+  role: "iGCSE Student"
+  source: google
+  rating: 5
+  date: 2025-05-02
+  text: "I reached out to The Degree Gap to get some help to prepare for my iGCSE exams and was very impressed by their tutors and professionalism!"
+- name: "joe white"
+  role: "Student"
+  source: google
+  rating: 5
+  date: 2025-04-22
+  text: "Highly recommend the Degree Gap as a tutoring agency! Their platform is easy to use and having used tutors across a variety of subjects, they have all been consistently excellent."
+- name: "Chris James"
+  role: ""
+  source: google
+  rating: 5
+  date: 2025-04-06
+  text: "They provide a really professional and supportive service. I would definitely recommend their tutoring to anyone looking for academic help."
+- name: "Georgie Simpson"
+  role: ""
+  source: google
+  rating: 5
+  date: 2025-04-03
+  text: "A professionally-run agency while retaining compassion and understanding of each tutor and tutee’s individual needs."
+- name: "Dan James"
+  role: "A-Level Student"
+  source: google
+  rating: 5
+  date: 2025-04-03
+  text: "Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+- name: "Gson"
+  role: ""
+  source: google
+  rating: 5
+  date: 2025-04-03
+  text: "Quick response time, exactly what I needed"
+- name: "Alex Allenby"
+  role: "University Student"
+  source: google
+  rating: 5
+  date: 2025-04-02
+  text: "Can’t recommend The Degree Gap highly enough. Quick and helpful responses from Harry. He immediately matched me with a very competent tutor, who was a massive help in helping me exceed my target grade and achieve a first class degree at university."
+- name: "Charles De-Vyott"
+  role: "University Student"
+  source: google
+  rating: 5
+  date: 2025-03-26
+  text: "Joe and Harry helped me massively with partnering me with the right tutor to help me improve the standard of my dissertation.\n\nVery happy with the service and I’d highly recommend to others needing a boost with their academic progress."
+- name: "Aila Muhammad"
+  role: "Student"
+  source: google
+  rating: 5
+  date: 2025-03-25
+  text: "Harry was amazing! He helped me shape my personal statement into something I was truly proud of, and thanks to his support, I got into my dream university! Couldn’t have done it without him–highly recommend to anyone applying to uni."
+- name: "Conor Sankey"
+  role: ""
+  source: google
+  rating: 5
+  date: 2025-03-24
+  text: "The team have been a massive help. Can't recommend them enough!"
+- name: "Alexander Chung"
+  role: "Parent"
+  source: google
+  rating: 5
+  date: 2025-03-24
+  text: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+- name: "Thibau Grumett"
+  role: ""
+  source: google
+  rating: 5
+  date: 2025-03-24
+  text: "An outstanding and, as far as my experience goes, extremely professional tutor agency!"
+- name: "Theresa McIntyre"
+  role: "Parent"
+  source: google
+  rating: 4
+  date: 2025-03-22
+  text: "Harry and Joe were extremely helpful with a wealth of knowledge and contacts that helped my son to follow the right path."
+- name: "Leo Whittle"
+  role: "Student"
+  source: google
+  rating: 5
+  date: 2025-03-21
+  text: "The time I have spent with my tutor here has  really valuable.  He has helped so much with a range of topics across economics and maths. He explains things really clearly and makes the sessions enjoyable."
+- name: "Kasia Niedzwiedzka Landera"
+  role: "Parent"
+  source: google
+  rating: 5
+  date: 2025-03-21
+  text: "Harry is a great tutor. He's very helpful and knowledgeable. He's git goid understanding of student's needs as well as current situation when it comes to university education in the UK. His experience and expertise helped my son make some decisions about choosing A level subject and university course. I highly recommend Harry and Degree Gap."
+- name: "Marfa Boyarinova"
+  role: "Student"
+  source: google
+  rating: 5
+  date: 2025-02-27
+  text: "very engaging lessons that helped me improve my grade in maths and successfully get admitted to university"
+- name: "Ali Miles-Lambert"
+  role: "Grandparent"
+  source: google
+  rating: 5
+  date: 2025-02-26
+  text: "Harry did an amazing job helping my grandson who was struggling with his economics work. Thank you again, Harry, for all your hard work."
+- name: "Isabel Heggie"
+  role: "Parent of iGCSE Student"
+  source: google
+  rating: 5
+  date: 2025-02-26
+  text: "Harry helped our son enormously with his maths and economics iGCSE prep. He was patient, fun and engaging - just what we needed. Highly recommended."
+- name: "Sarom Ing"
+  role: "Parent of A-Level Student"
+  source: google
+  rating: 5
+  date: 2025-02-25
+  text: "Harry has been very helpful in tutoring my son for his economics A Level. He has lots of patience, keeps lessons interesting and is a good motivator. Needless to say his subject matter is expertise is excellent."
+- name: "Nicolai Nissen"
+  role: "University Student"
+  source: google
+  rating: 5
+  date: 2025-02-25
+  text: "Had troubles connecting with tutors until I met Harry, helped me understand the curriculum and theories in a way that stuck with me, also made each session feel calm and relaxing. Highly recommend"
+- name: "james zanenga"
+  role: ""
+  source: google
+  rating: 5
+  date: 2025-02-25
+  text: "Great Tutor, kind and friendly."
+- name: "Charlotte Pitman"
+  role: "Student"
+  source: google
+  rating: 5
+  date: 2025-02-25
+  text: "I cannot recommend Harry enough. He was helpful welcoming and helped me achieve a grade higher than I was expected!"
+- name: "Kachi Nwizu"
+  role: "University Student"
+  source: google
+  rating: 5
+  date: 2025-02-25
+  text: "Harry Godfrey transformed my performance in mathematical economics modules—such as microeconomics, macroeconomics, and statistics and maths for economics—taking me from a third class (or lower) to a first. I know for a fact that his support helped me exceed my expectations, thanks to his patience and ability to adapt to my needs."
+- name: "Binh Trinh"
+  role: "A-Level Student"
+  source: google
+  rating: 5
+  date: 2024-12-22
+  text: "I was very fortunate enough to encounter Harry during my time taking A level economics. I really struggled a lot with long 30 marked essays as well as evaluation and learning the graphs as for at the time it was really hard and I didn’t understand. However the way how Harry taught me was super simple compared to other teachers from school. I really enjoyed my time when Harry taught me and I would highly recommend it to people!"
+- name: "Will W"
+  role: "University Student"
+  source: google
+  rating: 5
+  date: 2024-08-22
+  text: "Harry helped me with writing a personal statement for a masters degree. The advice he offered helped significantly, giving great insight. I would definitely recommend him to others."
+- name: "Lorenzo Mantilla Gutierrez"
+  role: "Student"
+  source: google
+  rating: 5
+  date: 2024-08-22
+  text: "Really helpful and simplifies complicated mathematical finance and economic concepts in a friendly demeanour. Will recommend to any young person wanting to improve grades and more importantly the concepts of finance and economics"
+- name: "Mahir Garg"
+  role: "A-Level Student"
+  source: google
+  rating: 5
+  date: 2024-08-21
+  text: "Harry was an excellent teacher that helped me gain real grip of the complicated areas in my subjects like economics - I'd highly recommend for anyone looking to consistently perform at their best."
+- name: "J.O"
+  role: "A-Level Student"
+  source: google
+  rating: 5
+  date: 2024-08-12
+  text: "I was put into contact with Harry from a friend of mine who did economics in the year above me. And at first I was hesitant on getting a Tutor as I wasn’t sure if they were effective especially for the price they demand, but this wasn’t the case with Harry. He’s helped me massively with my essays, topics I didn’t understand beforehand and overall confidence with the subject. I highly recommend!"
+- name: "Julia Kaglik"
+  role: "University Student"
+  source: google
+  rating: 5
+  date: 2024-08-07
+  text: "Harry did an amazing job at supporting me with my statistics module in my first year of uni, thanks to him my second year was a breeze as everything he taught me stuck with me. Harry explains things really well with different examples, as a visual learner I appreciated that Harry wrote everything out for me and didn’t just explain verbally. I would definitely recommend him to anyone and I will for sure keep him in mind if I ever need help again."
+- name: "Aman Jha"
+  role: "University Student"
+  source: google
+  rating: 5
+  date: 2024-08-07
+  text: "Harry has been a game-changer in my academic journey. After a tough first year due to the coronavirus, Harry's tutoring in economics and mathematics turned things around for me. His knowledge and clear teaching style made complex concepts easy to understand. Thanks to his guidance, I’ve now secured my dream job. I would definitely recommend \"The Degree Gap\" for anyone looking to excel in their studies."
+- name: "Louis Niesler"
+  role: "University Student"
+  source: google
+  rating: 5
+  date: 2024-08-07
+  text: "I was struggling with my Business degree and reached out to Harry who helped me pass my Quantitative Analysis module. Highly recommend"
+- name: "Lucas Ing"
+  role: "A-Level Student"
+  source: google
+  rating: 5
+  date: 2024-08-06
+  text: "I was having trouble with some areas of my economics a level course before getting in contact with Harry. He walked me through everything I needed help with, from content I was weak with to exam technique that I was lacking. His insight, examples and willingness to go the extra step really helped me to regain my confidence in economics, having achieved a predicted a* with his help."
+- name: "Paul Suciu"
+  role: "University Student"
+  source: google
+  rating: 5
+  date: 2024-08-06
+  text: "I began to struggle with my undergraduate economics degree in my second year. After taking several lessons with Harry Godfrey, I improved and eventually completed my degree, which I am very proud of. Harry has the patience to help you with everything from simple topics to very complex ones."
