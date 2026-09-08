@@ -7,7 +7,7 @@ location: "Birmingham"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online One-to-One A-Level Maths Tutors for Birmingham Families"
+hero_h1: "Birmingham A-Level Maths Tutors, Online and One-to-One"
 hero_lead: "Coordinate geometry looks like the easy part of A-Level Maths and quietly costs students the top grades. Our Birmingham A-Level Maths tutors work on circles, tangents and the questions that combine two techniques at once."
 
 angle_eyebrow: "THE TOPIC THAT LOOKS EASY ON PAPER"

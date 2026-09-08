@@ -7,7 +7,7 @@ location: "Liverpool"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online One-to-One A-Level Maths Tutors for Liverpool Families"
+hero_h1: "Online A-Level Maths Tutors Covering Liverpool"
 hero_lead: "In Year 13 Maths the questions stop testing one technique at a time. Our Liverpool A-Level Maths tutors work on the composite calculus, vectors and numerical methods where students who know each rule still lose the question."
 
 angle_eyebrow: "KNOWING THE RULE IS NOT THE SAME AS CHOOSING IT"

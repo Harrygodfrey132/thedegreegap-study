@@ -7,7 +7,7 @@ location: "Royal Leamington Spa"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online One-to-One A-Level Maths Tutors for Royal Leamington Spa Families"
+hero_h1: "Online A-Level Maths Tutors Covering Royal Leamington Spa"
 hero_lead: "Statistics is the paper strong students under-prepare for and then lose the top grade on. Our Royal Leamington Spa A-Level Maths tutors work on conditional probability, the normal distribution and reading what a question is actually asking."
 
 angle_eyebrow: "THE PAPER NOBODY PLANS FOR"

@@ -7,7 +7,7 @@ location: "Worcester"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online One-to-One A-Level Chemistry Tutors for Worcester Families"
+hero_h1: "Online A-Level Chemistry Tutoring for Worcester Students"
 hero_lead: "In organic chemistry the conditions carry as many marks as the products. Our Worcester A-Level Chemistry tutors work on alcohol oxidation, on reflux against distillation, and on writing the reagents precisely."
 
 angle_eyebrow: "THE CONDITIONS ARE THE ANSWER"

@@ -7,7 +7,7 @@ location: "Liverpool"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online One-to-One A-Level Chemistry Tutors for Liverpool Families"
+hero_h1: "Online A-Level Chemistry Tutoring for Liverpool Students"
 hero_lead: "The Year 13 Chemistry papers ask students to interpret rather than recall, and that catches out good students. Our Liverpool A-Level Chemistry tutors work on transition metals, electrochemistry and reading a spectrum properly."
 
 angle_eyebrow: "WHEN CHEMISTRY STOPS BEING RECALL"

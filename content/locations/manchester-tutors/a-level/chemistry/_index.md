@@ -7,7 +7,7 @@ location: "Manchester"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online One-to-One A-Level Chemistry Tutors for Manchester Families"
+hero_h1: "Online A-Level Chemistry Tutors for Manchester, Matched on Exam Board"
 hero_lead: "Two Manchester students can lose the same twenty marks in Chemistry for completely different reasons. Our Manchester A-Level Chemistry tutors work out which it is first, then work on the enthalpy cycles and the rate data."
 
 angle_eyebrow: "SAME MARKS LOST, DIFFERENT REASONS"

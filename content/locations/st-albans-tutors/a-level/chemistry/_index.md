@@ -7,7 +7,7 @@ location: "St Albans"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online One-to-One A-Level Chemistry Tutors for St Albans Families"
+hero_h1: "Online A-Level Chemistry Tutors for St Albans, Matched on Exam Board"
 hero_lead: "Inorganic chemistry is the half of the A-Level that students revise last and lose marks on first. Our St Albans A-Level Chemistry tutors work on periodicity, the trend explanations and the titration curves that decide whole questions."
 
 angle_eyebrow: "THE HALF THAT GETS REVISED LAST"

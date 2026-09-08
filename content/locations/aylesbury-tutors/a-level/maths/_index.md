@@ -7,7 +7,7 @@ location: "Aylesbury"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online One-to-One A-Level Maths Tutors for Aylesbury Families"
+hero_h1: "Online A-Level Maths Tutors for Aylesbury, Matched on Exam Board"
 hero_lead: "Calculus is where A-Level Maths stops rewarding memory. Our Aylesbury A-Level Maths tutors work on differentiation from first principles, rates of change and the optimisation problems that ask a student to build the equation themselves."
 
 angle_eyebrow: "THE QUESTIONS WITH NO EQUATION TO START FROM"

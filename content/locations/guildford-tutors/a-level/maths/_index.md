@@ -7,7 +7,7 @@ location: "Guildford"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online One-to-One A-Level Maths Tutors for Guildford Families"
+hero_h1: "Online A-Level Maths Tutors for Guildford, Matched on Exam Board"
 hero_lead: "Trigonometry is where a lot of strong Guildford students first come unstuck at A-Level. Our Guildford A-Level Maths tutors work on the identities, the exponential models and the integration technique that decide the top grades."
 
 angle_eyebrow: "THE TOPIC EVERYONE SAYS THEY CANNOT DO"

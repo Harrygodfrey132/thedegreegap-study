@@ -7,7 +7,7 @@ location: "Wigan"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online One-to-One A-Level Maths Tutors for Wigan Families"
+hero_h1: "Online A-Level Maths Tutors for Wigan, Matched on Exam Board"
 hero_lead: "A-Level Maths does not get harder gradually. It gets harder in about three weeks of Year 12. Our Wigan A-Level Maths tutors rebuild the algebra underneath before working on anything the class is currently doing."
 
 angle_eyebrow: "THE ALGEBRA UNDER EVERYTHING"

@@ -7,7 +7,7 @@ location: "Guildford"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online One-to-One A-Level Chemistry Tutors for Guildford Families"
+hero_h1: "Online A-Level Chemistry Tutors Covering Guildford"
 hero_lead: "A-Level Chemistry saves its hardest questions for students who are otherwise doing well. Our Guildford A-Level Chemistry tutors work on stereochemistry, carbonyl chemistry and the unknown-structure questions that pull everything together."
 
 angle_eyebrow: "THE QUESTION THAT USES ALL OF IT AT ONCE"

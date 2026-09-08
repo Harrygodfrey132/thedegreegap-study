@@ -7,7 +7,7 @@ location: "Epsom"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online One-to-One A-Level Maths Tutors for Epsom Families"
+hero_h1: "Online A-Level Maths Tutoring for Epsom Students"
 hero_lead: "A grade 8 at GCSE Maths guarantees nothing in Year 12. Our Epsom A-Level Maths tutors work on proof, on the mechanics questions that carry across topics, and on the statistics paper that most students meet without ever having been taught how to read it."
 
 angle_eyebrow: "WHERE THE A BECOMES AN A STAR"

@@ -7,7 +7,7 @@ location: "Aylesbury"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online One-to-One A-Level Biology Tutors for Aylesbury Families"
+hero_h1: "Online A-Level Biology Tutoring for Aylesbury Students"
 hero_lead: "In Aylesbury the students who ask for help in Biology are usually already doing well. Our Aylesbury A-Level Biology tutors work on water potential, cell division precision and the long answers, where the last grade actually sits."
 
 angle_eyebrow: "THE DIFFERENCE BETWEEN SIX MARKS AND FIFTEEN"

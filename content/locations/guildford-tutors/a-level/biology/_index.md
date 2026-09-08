@@ -7,7 +7,7 @@ location: "Guildford"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online One-to-One A-Level Biology Tutors for Guildford Families"
+hero_h1: "Online A-Level Biology Tutoring for Guildford Students"
 hero_lead: "Most Guildford students who want an A star in Biology are already working hard enough for one. Our Guildford A-Level Biology tutors work on the synoptic answers and the experimental critique that separate the top band from the one below it."
 
 angle_eyebrow: "THE LAST TEN PER CENT"

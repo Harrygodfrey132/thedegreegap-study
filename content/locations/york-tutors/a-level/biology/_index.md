@@ -7,7 +7,7 @@ location: "York"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online One-to-One A-Level Biology Tutors for York Families"
+hero_h1: "Online A-Level Biology Tutors Covering York"
 hero_lead: "Genetics questions are marked on how the cross is set out, not on whether the answer is right. Our York A-Level Biology tutors work on sex linkage, codominance and the notation that carries the marks."
 
 angle_eyebrow: "THE MARKS ARE IN THE SETTING OUT"

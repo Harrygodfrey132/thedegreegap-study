@@ -7,7 +7,7 @@ location: "Nottingham"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online One-to-One A-Level Biology Tutors for Nottingham Families"
+hero_h1: "Online A-Level Biology Tutoring for Nottingham Students"
 hero_lead: "Ecology looks like the gentle end of A-Level Biology and is where a lot of Nottingham students lose their marks. Our Nottingham A-Level Biology tutors work on sampling methods, population genetics and the data questions attached to them."
 
 angle_eyebrow: "THE TOPIC THAT TURNS OUT TO BE MATHS"

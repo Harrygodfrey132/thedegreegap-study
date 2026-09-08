@@ -7,7 +7,7 @@ location: "Royal Leamington Spa"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online One-to-One A-Level Chemistry Tutors for Royal Leamington Spa Families"
+hero_h1: "Online A-Level Chemistry Tutoring for Royal Leamington Spa Students"
 hero_lead: "Alkene chemistry is where organic mechanisms start being marked strictly. Our Royal Leamington Spa A-Level Chemistry tutors work on electrophilic addition, carbocation stability and the polymer questions that follow from them."
 
 angle_eyebrow: "WHERE THE ARROWS START COUNTING"

@@ -7,7 +7,7 @@ location: "Wigan"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online One-to-One A-Level Biology Tutors for Wigan Families"
+hero_h1: "Online A-Level Biology Tutoring for Wigan Students"
 hero_lead: "A grade 7 in GCSE Biology and a D in the first Year 12 assessment is the most common call we take from Wigan. Our Wigan A-Level Biology tutors find what changed, because it is almost never the effort."
 
 angle_eyebrow: "THE GAP BETWEEN GCSE AND YEAR 12"

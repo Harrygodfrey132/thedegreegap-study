@@ -7,7 +7,7 @@ location: "Worcester"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online One-to-One A-Level Maths Tutors for Worcester Families"
+hero_h1: "Online A-Level Maths Tutors Covering Worcester"
 hero_lead: "Integration is where a lot of Worcester students can do the calculus and still lose the question. Our Worcester A-Level Maths tutors work on limits, areas between curves and knowing what the integral is being asked to measure."
 
 angle_eyebrow: "THE CALCULUS IS NOT THE HARD PART"

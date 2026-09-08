@@ -7,7 +7,7 @@ location: "Worcester"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online One-to-One A-Level Biology Tutors for Worcester Families"
+hero_h1: "Worcester A-Level Biology Tutors, Online and One-to-One"
 hero_lead: "By the time most Worcester parents call us about Biology, the effort has never been the problem. Our Worcester A-Level Biology tutors work on respiration, ATP yield and the statistics, where understanding tends to go patchy."
 
 angle_eyebrow: "EFFORT IS FINE, UNDERSTANDING IS PATCHY"

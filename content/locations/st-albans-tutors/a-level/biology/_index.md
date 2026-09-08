@@ -7,7 +7,7 @@ location: "St Albans"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online One-to-One A-Level Biology Tutors for St Albans Families"
+hero_h1: "Online A-Level Biology Tutors Covering St Albans"
 hero_lead: "By the time most St Albans parents call us about Biology, the effort is not in question and the grade has still slipped. Our St Albans A-Level Biology tutors work on exchange surfaces, protein synthesis and the unfamiliar-organism questions where it usually goes."
 
 angle_eyebrow: "AN ORGANISM NOBODY HAS TAUGHT THEM"

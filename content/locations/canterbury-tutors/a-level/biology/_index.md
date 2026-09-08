@@ -7,7 +7,7 @@ location: "Canterbury"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online One-to-One A-Level Biology Tutors for Canterbury Families"
+hero_h1: "Canterbury A-Level Biology Tutors, Online and One-to-One"
 hero_lead: "In a Kent grammar cohort a B in Biology can feel like falling behind, even when it is a good grade. Our Canterbury A-Level Biology tutors work on the blocks that separate a B from an A, populations, pathways and the statistics."
 
 angle_eyebrow: "WHERE THE B BECOMES AN A"

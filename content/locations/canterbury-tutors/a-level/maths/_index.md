@@ -7,7 +7,7 @@ location: "Canterbury"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online One-to-One A-Level Maths Tutors for Canterbury Families"
+hero_h1: "Online A-Level Maths Tutors Covering Canterbury"
 hero_lead: "Plenty of Canterbury students arrive at A-Level Maths off a grade 9 and meet the first real difficulty of their school career. Our Canterbury A-Level Maths tutors work on series, parametrics and differential equations, where that usually happens."
 
 angle_eyebrow: "THE FIRST SUBJECT THAT HAS NOT COME EASILY"

@@ -7,7 +7,7 @@ location: "Royal Leamington Spa"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online One-to-One A-Level Biology Tutors for Royal Leamington Spa Families"
+hero_h1: "Royal Leamington Spa A-Level Biology Tutors, Online and One-to-One"
 hero_lead: "Gene technology is the part of A-Level Biology that reads easily and answers badly. Our Royal Leamington Spa A-Level Biology tutors work on PCR, electrophoresis and the classification questions where precision decides the grade."
 
 angle_eyebrow: "EASY TO READ, HARD TO ANSWER"

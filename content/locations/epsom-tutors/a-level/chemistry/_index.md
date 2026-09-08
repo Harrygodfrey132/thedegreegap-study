@@ -7,7 +7,7 @@ location: "Epsom"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online One-to-One A-Level Chemistry Tutors for Epsom Families"
+hero_h1: "Epsom A-Level Chemistry Tutors, Online and One-to-One"
 hero_lead: "A-Level Chemistry is the subject where a student can understand every lesson and still lose a third of the paper. Our Epsom A-Level Chemistry tutors work on the multi-step synthesis routes and the calculation chains, where the marks actually go."
 
 angle_eyebrow: "UNDERSTANDING IT AND SCORING IT ARE DIFFERENT THINGS"

@@ -7,7 +7,7 @@ location: "Manchester"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online One-to-One A-Level Biology Tutors for Manchester Families"
+hero_h1: "Online A-Level Biology Tutors Covering Manchester"
 hero_lead: "Manchester A-Level Biology tutors meet two students in the same week. One is holding a C and needs a B to keep an offer. One is chasing an A star for Medicine. The first job is knowing which is which."
 
 angle_eyebrow: "TWO STUDENTS, TWO PAPERS"

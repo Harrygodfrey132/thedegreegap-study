@@ -7,7 +7,7 @@ location: "Wigan"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online One-to-One A-Level Chemistry Tutors for Wigan Families"
+hero_h1: "Online A-Level Chemistry Tutors Covering Wigan"
 hero_lead: "Most Wigan students who fall behind in A-Level Chemistry fall behind in the first half-term, on moles. Our Wigan A-Level Chemistry tutors go back and fix that properly, because everything above it is built on top."
 
 angle_eyebrow: "IT IS ALMOST ALWAYS THE MOLES"

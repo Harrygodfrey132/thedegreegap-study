@@ -7,7 +7,7 @@ location: "Wolverhampton"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online One-to-One A-Level Maths Tutors for Wolverhampton Families"
+hero_h1: "Wolverhampton A-Level Maths Tutors, Online and One-to-One"
 hero_lead: "When a Wolverhampton student stalls in Year 12 Maths it is almost never the new topic. Our Wolverhampton A-Level Maths tutors go back to surds, indices and the algebra everything else is standing on."
 
 angle_eyebrow: "IT IS RARELY THIS WEEK'S LESSON"

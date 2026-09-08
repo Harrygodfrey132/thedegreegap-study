@@ -7,7 +7,7 @@ location: "Canterbury"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online One-to-One A-Level Chemistry Tutors for Canterbury Families"
+hero_h1: "Online A-Level Chemistry Tutoring for Canterbury Students"
 hero_lead: "The last two grades in A-Level Chemistry are bought with accuracy rather than effort. Our Canterbury A-Level Chemistry tutors work on buffer calculations, entropy and the aromatic mechanisms where careful students still drop marks."
 
 angle_eyebrow: "THE MARKS THAT GO ONE AT A TIME"

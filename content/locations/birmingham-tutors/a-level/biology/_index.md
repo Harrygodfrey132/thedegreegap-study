@@ -7,7 +7,7 @@ location: "Birmingham"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online One-to-One A-Level Biology Tutors for Birmingham Families"
+hero_h1: "Online A-Level Biology Tutors for Birmingham, Matched on Exam Board"
 hero_lead: "Across Birmingham we get two Biology calls. One student needs a C turned into a B to hold an offer. One needs an A star for Medicine. Our Birmingham A-Level Biology tutors work out which before planning anything."
 
 angle_eyebrow: "ONE SUBJECT, TWO CONVERSATIONS"

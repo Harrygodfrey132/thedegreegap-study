@@ -7,7 +7,7 @@ location: "Cheltenham"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online One-to-One A-Level Chemistry Tutors for Cheltenham Families"
+hero_h1: "Online A-Level Chemistry Tutors for Cheltenham, Matched on Exam Board"
 hero_lead: "The practical questions on an A-Level Chemistry paper are worth more than most students think and get revised less than anything else. Our Cheltenham A-Level Chemistry tutors work on method, evaluation and titration precision."
 
 angle_eyebrow: "THE QUESTIONS NOBODY REVISES FOR"

@@ -7,7 +7,7 @@ location: "Nottingham"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online One-to-One A-Level Chemistry Tutors for Nottingham Families"
+hero_h1: "Online A-Level Chemistry Tutors Covering Nottingham"
 hero_lead: "pH calculations are where A-Level Chemistry stops forgiving a shaky grasp of logarithms. Our Nottingham A-Level Chemistry tutors work on acid-base theory and the calculation chains that follow from it."
 
 angle_eyebrow: "WHERE THE MATHS CATCHES UP"

@@ -7,7 +7,7 @@ location: "Leeds"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online One-to-One A-Level Biology Tutors for Leeds Families"
+hero_h1: "Online A-Level Biology Tutors for Leeds, Matched on Exam Board"
 hero_lead: "Leeds A-Level Biology tutors meet two students. One needs a B held steady to keep a firm offer. One needs an A* for Medicine. Our tutors read which brief is in front of them before they plan anything."
 
 angle_eyebrow: "TWO STUDENTS, TWO BRIEFS"

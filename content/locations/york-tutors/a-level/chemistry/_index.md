@@ -7,7 +7,7 @@ location: "York"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online One-to-One A-Level Chemistry Tutors for York Families"
+hero_h1: "Online A-Level Chemistry Tutors for York, Matched on Exam Board"
 hero_lead: "Equilibrium questions want a compromise explained, not a rule recited. Our York A-Level Chemistry tutors work on Le Chatelier reasoning, industrial conditions and why the textbook answer is rarely the one used."
 
 angle_eyebrow: "WHY THE BEST CONDITIONS ARE NOT USED"

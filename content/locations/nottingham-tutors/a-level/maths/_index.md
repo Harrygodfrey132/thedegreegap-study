@@ -7,7 +7,7 @@ location: "Nottingham"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online One-to-One A-Level Maths Tutors for Nottingham Families"
+hero_h1: "Online A-Level Maths Tutors for Nottingham, Matched on Exam Board"
 hero_lead: "Series questions look like formula substitution and then ask students to work backwards from an answer. Our Nottingham A-Level Maths tutors work on arithmetic and geometric sequences, sums to infinity and the problems built on them."
 
 angle_eyebrow: "WORKING BACKWARDS FROM THE ANSWER"

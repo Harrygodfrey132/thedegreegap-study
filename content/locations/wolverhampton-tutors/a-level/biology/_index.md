@@ -7,7 +7,7 @@ location: "Wolverhampton"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online One-to-One A-Level Biology Tutors for Wolverhampton Families"
+hero_h1: "Online A-Level Biology Tutors for Wolverhampton, Matched on Exam Board"
 hero_lead: "A lot of Wolverhampton students lose Biology marks on questions they actually knew the answer to. Our Wolverhampton A-Level Biology tutors work on command words and on transport in plants, where that happens most."
 
 angle_eyebrow: "ANSWERING THE QUESTION THAT WAS ASKED"

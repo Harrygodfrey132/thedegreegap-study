@@ -7,7 +7,7 @@ location: "Liverpool"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online One-to-One A-Level Biology Tutors for Liverpool Families"
+hero_h1: "Liverpool A-Level Biology Tutors, Online and One-to-One"
 hero_lead: "Year 13 Biology is where a manageable subject turns into a very large one. Our Liverpool A-Level Biology tutors work on the second-year blocks that carry the most marks, coordination, control and the gene technologies."
 
 angle_eyebrow: "THE YEAR THE CONTENT DOUBLES"

@@ -7,7 +7,7 @@ location: "Cheltenham"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online One-to-One A-Level Biology Tutors for Cheltenham Families"
+hero_h1: "Online A-Level Biology Tutors Covering Cheltenham"
 hero_lead: "A lot of Cheltenham students know enough Biology for an A and run out of time before they can show it. Our Cheltenham A-Level Biology tutors work on pacing, on mutation and variation, and on the practical questions."
 
 angle_eyebrow: "KNOWING IT AND FINISHING IT"

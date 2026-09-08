@@ -7,7 +7,7 @@ location: "Aylesbury"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online One-to-One A-Level Chemistry Tutors for Aylesbury Families"
+hero_h1: "Online A-Level Chemistry Tutors Covering Aylesbury"
 hero_lead: "Year 13 Chemistry adds a layer of organic content that arrives fast and gets examined hard. Our Aylesbury A-Level Chemistry tutors work on amines, polymers and the reasoning questions that sit on top of them."
 
 angle_eyebrow: "THE CONTENT THAT ARRIVES LAST AND COUNTS MOST"
