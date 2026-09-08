@@ -1,0 +1,22 @@
+# Aggregate review figures for the AggregateRating structured data.
+#
+# Taken from the Google Business Profile API export of 2026-09-08, the same
+# export data/reviews.yaml was rebuilt from. Covers ALL reviews in the export,
+# including the 21 that carry a star rating but no written comment, which is why
+# the total here (109) is higher than the number of entries in reviews.yaml (88).
+#
+# ratingValue must stay honest: it is a real average, not a marketing number.
+# Google acts on inaccurate AggregateRating markup. Recalculate whenever the
+# review set changes rather than leaving it pinned at 5.0.
+#
+#   106 x 5 star + 3 x 4 star  =  542 / 109  =  4.972
+#
+# The three four-star reviews are Kalpana Rai, Etienne Terblanche and
+# Theresa McIntyre.
+
+reviewCount: 109
+ratingValue: "4.97"
+fiveStar: 106
+fourStar: 3
+source: Google Business Profile API
+captured: 2026-09-08

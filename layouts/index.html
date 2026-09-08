@@ -356,8 +356,8 @@
   },
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": "5.0",
-    "reviewCount": "{{ site.Params.googleReviewCount }}",
+    "ratingValue": "{{ site.Data.review_stats.ratingValue }}",
+    "reviewCount": "{{ site.Data.review_stats.reviewCount }}",
     "bestRating": "5",
     "worstRating": "1"
   }
