@@ -14,7 +14,7 @@ intro_1: Watford has a school system most other Hertfordshire towns don't share.
   Watford Grammar School for Boys and Watford Grammar School for Girls both use
   partial aptitude selection at Year 7, with a proportion of places set aside on
   academic and musical aptitude tests. That sits on top of a strong field of
-  non-selective state schools, faith schools and independents serving a commuter
+  state schools, faith schools and independents serving a commuter
   town that runs straight into Euston in twenty minutes. The result is a
   competitive catchment where parents have professional careers in London,
   expectations to match, and a school system that doesn't always have the time

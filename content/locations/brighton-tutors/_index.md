@@ -9,8 +9,8 @@ banner_description: "The Degree Gap tutoring connects Brighton families with
   tutors who focus on the grades that open doors: sixth form entry, university
   offers, and everything in between."
 content_angle: exam pressure
-intro_1: Brighton has no state grammar schools. Every secondary school in the
-  city is non-selective. But that doesn't make the pressure disappear. BHASVIC,
+intro_1: Brighton has no state grammar schools, which does not make the
+  pressure disappear. BHASVIC,
   the city's flagship sixth form college, is one of the most oversubscribed
   post-16 institutions in the South East, and it publishes clear grade
   requirements. Students who want a place there need to hit those numbers. For

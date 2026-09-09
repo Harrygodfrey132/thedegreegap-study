@@ -1,7 +1,7 @@
 ---
 title: "Tunbridge Wells GCSE Maths Tutors | Online | The Degree Gap"
 nav_title: "Maths"
-description: "Online GCSE Maths tutors covering Tunbridge Wells, for grammar and non-selective students alike. Matched on AQA, Edexcel or OCR, one-to-one from £37 an hour."
+description: "Online GCSE Maths tutors covering Tunbridge Wells, for students at every school in the town. Matched on AQA, Edexcel or OCR, one-to-one from £37 an hour."
 layout: "level-subject"
 location: "Tunbridge Wells"
 level: "GCSE"
@@ -42,7 +42,7 @@ faqs:
   - q: "Is GCSE Maths tutoring in Tunbridge Wells online or in person?"
     a: "Online, on Lessonspace, our shared whiteboard. Families in Tunbridge Wells, Southborough, Pembury, Crowborough and the villages out towards Tonbridge all reach the same network, and we match on exam board rather than on how far someone lives from the Pantiles. For a commuter town the practical benefit is timing: the hour starts when it says it will, with no drive attached at the end of a school day that already involved a train."
   - q: "How does GCSE Maths in Tunbridge Wells compare with the national picture?"
-    a: "Kent is fully selective, so the town's results sit above the national average overall, but that average hides two quite different experiences. In a grammar set the bar in the room is high and a student can work hard, stay in the middle and still be short of what they want. In the non-selective schools a capable student can be near the top of their class and still be carrying a topic gap from Year 8 that nobody had time to go back for. The tutoring brief is different in each case, and the first session is what tells us which one we are looking at."
+    a: "Kent is fully selective, so the town's results sit above the national average overall, but that average hides two quite different experiences. In some sets the bar in the room is high, and a student can work hard, stay in the middle and still be short of what they want. In others a capable student can be near the top of their class and still be carrying a topic gap from Year 8 that nobody had time to go back for. Both happen at every school in the town. The tutoring brief is different in each case, and the first session is what tells us which one we are looking at."
   - q: "Should my child take foundation or higher tier GCSE Maths?"
     a: "Higher tier caps at grade 9 and floors at a 4, sometimes a 3. Foundation caps at 5 and floors at 1. A student sitting around a 4 or 5 in Year 10 mocks is usually better served by higher tier with targeted preparation on the early and middle questions, because that is where the grades 4 to 6 actually live. A student sitting lower than that often does better on foundation, where the same marks are easier to reach. A tutor's job around this decision is the Year 10 diagnostic, so the school conversation happens with evidence in hand."
   - q: "How do you vet your Maths tutors?"

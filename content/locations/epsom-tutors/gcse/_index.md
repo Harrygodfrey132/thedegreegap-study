@@ -22,7 +22,7 @@ first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to Grade 7 in GCSE English"
 
 tutor_strip_heading: "Epsom GCSE tutors who know the pace Glyn and Rosebery set"
-tutor_strip_body: "Surrey runs non-selective but competitive, and our Epsom tutors know the specs taught across Glyn, Rosebery, Blenheim High and Epsom College alike. We match on subject and exam board, not on postcode. Browse profiles, or let us find the fit."
+tutor_strip_body: "Epsom is competitive without running a grammar system, and our Epsom tutors know the specs taught across Glyn, Rosebery, Blenheim High and Epsom College alike. We match on subject and exam board, not on postcode. Browse profiles, or let us find the fit."
 
 pathways_heading: "The Next Move After Epsom GCSEs"
 pathways_lead: "Once the GCSE grades are in, most Epsom families are choosing between these."

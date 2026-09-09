@@ -14,8 +14,8 @@ intro_1: Aylesbury sits in Buckinghamshire, one of the few English counties
   still running a fully selective grammar school system. Children in the town
   sit the Buckinghamshire Transfer Test, the 11+, in the autumn of Year 6, and
   the result decides whether they go on to Aylesbury Grammar School, Aylesbury
-  High School, Sir Henry Floyd Grammar, or to one of the non-selective
-  secondaries like Mandeville, The Grange or The Aylesbury Vale Academy. That's
+  High School, Sir Henry Floyd Grammar, or to Mandeville, The Grange or
+  The Aylesbury Vale Academy. That's
   a lot of pressure on an eleven-year-old, and a lot of pressure on the GCSE
   years that follow, whichever side of the line a child lands on.
 intro_2: Our Aylesbury tutors work one-to-one with students at every stage of
@@ -71,9 +71,8 @@ area_links:
   - Peterborough Tutors|/locations/peterborough-tutors/
 gcse_subjects:
   - GCSE Maths Tuition|Stretch tutoring across number, algebra and statistics
-    for grammar school students across the whole mark band, from foundation work to top-grade stretch, and non-selective
-    students working hard to close the
-    gap.|/book-a-call/
+    across the whole mark band, from foundation work to top-grade stretch,
+    at every school in the town.|/book-a-call/
   - GCSE English Tuition|Sharp tutoring across Language and Literature for
     students who want a method that holds up under exam timing, not just at home
     with no clock.|/book-a-call/
