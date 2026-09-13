@@ -11,6 +11,7 @@
 {{ $ytId := .Params.youtube_id }}
 {{ $resourcesUrl := .Params.free_resources_url }}
 {{ $leadSource := .Params.lead_source | default "Webinar" }}
+{{ $askTutoring := .Params.ask_tutoring_interest }}
 
 {{ $eyebrow := .Params.hero_eyebrow | default "Free parent webinar" }}
 {{ $h1 := .Params.hero_h1 | default .Title }}
@@ -42,6 +43,25 @@
     --line: #ece4d4;
   }
   .gs-page *, .gs-page *::before, .gs-page *::after { box-sizing: border-box; }
+  .gs-page { -webkit-text-size-adjust: 100%; overflow-x: hidden; }
+  .gs-page a, .gs-page button, .gs-page label, .gs-page select { -webkit-tap-highlight-color: rgba(128,0,32,.12); }
+  .gs-page img { max-width: 100%; height: auto; }
+  /* notch-safe gutters */
+  @supports (padding: max(0px)) {
+    .gs-hero--split .gs-hero__inner,
+    .gs-proofbar__inner,
+    .gs-outcomes__inner,
+    .gs-inc__inner,
+    .gs-endcta__inner {
+      padding-left: max(18px, env(safe-area-inset-left));
+      padding-right: max(18px, env(safe-area-inset-right));
+    }
+  }
+  /* iOS select: kill the native chrome so it matches the text inputs */
+  .gs-field select { -webkit-appearance: none; appearance: none; background-repeat: no-repeat; }
+  /* comfortable thumb targets */
+  .gs-consent { display: flex; gap: 11px; align-items: flex-start; padding: 6px 0; min-height: 44px; }
+  .gs-consent input[type="checkbox"] { width: 22px; height: 22px; flex: 0 0 auto; margin-top: 1px; accent-color: var(--burgundy); }
 
   /* ---------- HERO ---------- */
   .gs-hero {
@@ -110,15 +130,15 @@
     font-weight: 700;
     padding: 16px 30px;
     border: none;
-    border-radius: 999px;
+    border-radius: 9px;
     cursor: pointer;
     text-decoration: none;
     box-shadow: 0 8px 22px rgba(128,0,32,0.18);
     transition: transform 0.18s ease, box-shadow 0.18s ease, background 0.18s ease;
   }
-  .gs-cta:hover { background: var(--burgundy-dark); transform: translateY(-1px); box-shadow: 0 12px 26px rgba(128,0,32,0.22); }
+  .gs-cta:hover { background: var(--burgundy-dark); box-shadow: 0 6px 16px rgba(128,0,32,0.18); }
   .gs-cta svg { transition: transform 0.18s ease; }
-  .gs-cta:hover svg { transform: translateX(2px); }
+  .gs-cta:hover svg { opacity: .9; }
   .gs-hero__trust {
     margin: 30px auto 0;
     font-size: 0.86rem;
@@ -142,36 +162,234 @@
     margin: 0 0 8px;
   }
   .gs-outcomes__sub { text-align: center; color: var(--muted); font-size: 1.05rem; margin: 0 0 36px; }
-  .gs-outcomes__card {
-    background: #ffffff;
-    border: 1px solid var(--line);
-    border-radius: 16px;
-    padding: 12px 8px;
-    box-shadow: 0 12px 36px rgba(35,23,17,0.06);
-  }
-  .gs-outcome {
-    display: flex;
-    align-items: flex-start;
-    gap: 16px;
-    padding: 18px 20px;
-    border-bottom: 1px solid var(--line);
-  }
   .gs-outcome:last-child { border-bottom: none; }
-  .gs-outcome__check {
-    flex: 0 0 auto;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    width: 26px;
-    height: 26px;
-    border-radius: 50%;
-    background: #fbf2ee;
-    border: 1px solid #f1d9d9;
-    color: var(--burgundy);
-    margin-top: 1px;
+
+  /* ---------- SPLIT HERO (hero_form: true) ---------- */
+  .gs-hero--split { text-align: left; padding: 0; }
+  .gs-hero--split .gs-hero__inner {
+    max-width: 1160px; margin: 0 auto; display: grid; grid-template-columns: 1fr;
+    gap: 28px; align-items: start; padding: 34px 16px 40px;
   }
-  .gs-outcome__text { font-size: 1.05rem; line-height: 1.5; color: #3a3530; }
-  .gs-outcome__text strong { color: var(--ink); font-weight: 700; }
+  @media (min-width: 980px) {
+    .gs-hero--split .gs-hero__inner { grid-template-columns: 1.08fr 0.92fr; gap: 52px; padding: 64px 24px 60px; }
+  }
+  @media (min-width: 980px) { .gs-hero--split h1 { max-width: 16ch; } }
+  .gs-hero--split .gs-hero__copy { text-align: left; display: block; padding-top: 4px; }
+  .gs-hero--split .gs-eyebrow { margin: 0 0 16px; font-size: .82rem; letter-spacing: .12em; }
+  @media (min-width: 760px) { .gs-hero--split .gs-eyebrow { font-size: .78rem; letter-spacing: .18em; } }
+  .gs-hero--split h1 {
+    margin: 0 0 18px; max-width: none; text-align: left;
+    font-size: clamp(3rem, 10.5vw, 3.3rem); line-height: 1.02; letter-spacing: -.032em;
+  }
+  .gs-hero--split .gs-hero__lead {
+    text-align: left; margin: 0 0 26px; max-width: 48ch;
+    font-size: clamp(1.15rem, 4vw, 1.15rem); line-height: 1.55;
+  }
+
+  /* speaker, inside the hero */
+  .gs-hspk {
+    display: flex; gap: 16px; align-items: flex-start; padding: 20px 0; margin: 0 0 22px;
+    border-top: 1px solid var(--line); border-bottom: 1px solid var(--line);
+  }
+  .gs-hspk__img { flex: 0 0 auto; width: 68px; height: 68px; border-radius: 50%; object-fit: cover; border: 3px solid #fff; box-shadow: 0 2px 10px rgba(35,23,17,.16); }
+  @media (min-width: 560px) { .gs-hspk__img { width: 84px; height: 84px; } }
+  .gs-hspk__body { min-width: 0; }
+  .gs-hspk__eyebrow { font-size: .64rem; font-weight: 800; letter-spacing: .16em; text-transform: uppercase; color: var(--burgundy); margin: 0 0 4px; }
+  .gs-hspk__name { font-size: 1.12rem; font-weight: 700; color: var(--ink); letter-spacing: -.015em; margin: 0 0 2px; line-height: 1.2; }
+  .gs-hspk__role { font-size: .85rem; color: var(--muted); margin: 0 0 10px; line-height: 1.35; }
+  .gs-hspk__creds { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
+  .gs-hspk__creds li {
+    font-size: .71rem; font-weight: 600; line-height: 1.25; color: var(--burgundy-dark);
+    background: rgba(128,0,32,.06); border: 1px solid rgba(128,0,32,.12); border-radius: 5px; padding: 5px 9px;
+  }
+
+  /* date line */
+  .gs-hero--split .gs-hero__when { display: flex; flex-wrap: wrap; align-items: baseline; gap: 10px; margin: 0 0 10px; }
+  .gs-hero__live { display: inline-flex; align-items: center; gap: 7px; font-size: .66rem; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; color: var(--burgundy); margin: 0; }
+  .gs-hero__live::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: var(--burgundy); }
+  .gs-hero__date { font-size: 1.18rem; font-weight: 700; color: var(--ink); letter-spacing: -.015em; }
+  .gs-hero__time { font-size: .88rem; color: var(--muted); }
+  .gs-hero--split .gs-hero__replay { font-size: .86rem; line-height: 1.55; color: var(--muted); margin: 0; max-width: 44ch; }
+  .gs-hero--split .gs-hero__replay b { color: var(--ink); }
+
+  /* the form card */
+  .gs-hero__formwrap { width: 100%; }
+  @media (min-width: 980px) { .gs-hero__formwrap { position: sticky; top: 24px; } }
+  .gs-hero--split .gs-register__card { text-align: left; padding: 24px 22px 20px; border-radius: 14px; box-shadow: 0 18px 44px rgba(35,23,17,.13), 0 2px 8px rgba(35,23,17,.06); }
+
+  /* ---------- CLOSING CTA ---------- */
+  .gs-endcta {
+    background: var(--cream); border-top: 1px solid var(--line);
+    padding: 56px 16px; text-align: center;
+  }
+  @media (min-width: 760px) { .gs-endcta { padding: 76px 24px; } }
+  .gs-endcta__inner { max-width: 560px; margin-left: auto; margin-right: auto; text-align: center; }
+  .gs-endcta h2 {
+    font-size: clamp(1.6rem, 3.4vw, 2.1rem); font-weight: 700; letter-spacing: -.022em;
+    color: var(--ink); margin: 0 0 10px; text-align: center;
+  }
+  .gs-endcta p { color: var(--muted); font-size: 1.02rem; margin: 0 0 26px; text-align: center; }
+  .gs-endcta .gs-cta { margin: 0 auto; }
+
+  /* ---------- WHEN block ---------- */
+  .gs-when { border: 1px solid var(--line); background: #fff; border-radius: 10px; padding: 14px 16px; margin: 0; max-width: 430px; }
+  .gs-when__row { display: flex; align-items: center; gap: 11px; }
+  .gs-when__ico { flex: 0 0 auto; color: var(--burgundy); }
+  .gs-when__date { display: block; font-size: 1.02rem; font-weight: 700; color: var(--ink); letter-spacing: -.012em; line-height: 1.25; }
+  .gs-when__time { display: block; font-size: .84rem; color: var(--muted); margin-top: 1px; }
+  .gs-when__note { margin: 11px 0 0; padding-top: 11px; border-top: 1px solid var(--line); font-size: .84rem; line-height: 1.55; color: var(--muted); }
+  .gs-when__note b { color: var(--ink); }
+
+  /* ---------- FORM CARD HEADER ---------- */
+  .gs-cardhead { margin: -24px -22px 18px; padding: 18px 22px 15px; border-bottom: 1px solid var(--line); background: var(--cream); border-radius: 14px 14px 0 0; }
+  .gs-cardhead__t { margin: 0 0 2px; font-size: 1.14rem; font-weight: 700; color: var(--ink); letter-spacing: -.02em; text-align: center; }
+  .gs-cardhead__s { margin: 0; font-size: .84rem; color: var(--muted); text-align: center; line-height: 1.45; }
+
+  /* ---------- REVIEWS ---------- */
+  .gs-rev { background: var(--cream); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); padding: 44px 16px; }
+  @media (min-width: 760px) { .gs-rev { padding: 60px 24px; } }
+  .gs-rev__inner { max-width: 1080px; margin: 0 auto; }
+  .gs-rev__head { text-align: center; margin: 0 0 34px; }
+  .gs-rev__eyebrow { font-size: .68rem; font-weight: 800; letter-spacing: .16em; text-transform: uppercase; color: var(--burgundy); margin: 0 0 16px; }
+  .gs-rev__head .gs-proof { margin: 0; justify-content: center; }
+  .gs-rev__grid { display: grid; grid-template-columns: 1fr; gap: 0; }
+  @media (min-width: 820px) { .gs-rev__grid { grid-template-columns: repeat(3, 1fr); gap: 0 34px; } }
+  .gs-rev__item { position: relative; margin: 0; padding: 24px 0 0; border-top: 1px solid var(--line); }
+  .gs-rev__item:first-child { border-top: 0; padding-top: 0; }
+  @media (min-width: 820px) {
+    .gs-rev__item { border-top: 0; padding: 0 0 0 22px; border-left: 1px solid var(--line); }
+    .gs-rev__item:first-child { border-left: 0; padding-left: 0; }
+  }
+  .gs-rev__quote { display: block; font-family: Georgia, "Times New Roman", serif; font-size: 2.6rem; line-height: .7; color: var(--burgundy); opacity: .35; margin: 0 0 8px; }
+  .gs-rev__item blockquote { margin: 0 0 14px; font-size: .97rem; line-height: 1.66; color: var(--ink); }
+  .gs-rev__item figcaption { font-size: .82rem; color: var(--muted); }
+  .gs-rev__item figcaption b { display: block; color: var(--ink); font-weight: 700; font-size: .88rem; }
+  .gs-rev__item figcaption span { display: block; margin-top: 1px; }
+  @media (max-width: 819px) { .gs-rev__item + .gs-rev__item { margin-top: 24px; } }
+
+  .gs-rev__more { margin: 0; }
+  .gs-rev__more > summary {
+    list-style: none; cursor: pointer; display: block; text-align: center; margin: 30px 0 0;
+    outline: none; -webkit-user-select: none; user-select: none;
+  }
+  /* keep a visible focus ring, but on the button rather than the full-width summary */
+  .gs-rev__more > summary:focus-visible .gs-rev__btn { outline: 2px solid var(--burgundy); outline-offset: 3px; }
+  .gs-rev__less { display: none; }
+  .gs-rev__more[open] .gs-rev__less { display: inline; }
+  .gs-rev__more[open] .gs-rev__see { display: none; }
+  .gs-rev__more > summary::-webkit-details-marker { display: none; }
+  .gs-rev__btn {
+    display: inline-flex; align-items: center; gap: 8px; min-height: 44px; padding: 11px 20px;
+    font-size: .88rem; font-weight: 700; color: var(--burgundy);
+    background: #fff; border: 1px solid var(--line); border-radius: 9px; transition: border-color .15s ease;
+  }
+  .gs-rev__more > summary:hover .gs-rev__btn { border-color: #c9bda4; }
+  .gs-rev__more[open] > summary .gs-rev__btn svg { transform: rotate(180deg); }
+  .gs-rev__more[open] > summary { margin-bottom: 34px; }
+  .gs-rev__grid--more { margin-top: 0; }
+  @media (min-width: 820px) { .gs-rev__grid--more { row-gap: 34px; } .gs-rev__grid--more .gs-rev__item:nth-child(3n+1) { border-left: 0; padding-left: 0; } }
+
+  /* ---------- AGENDA (numbered, editorial) ---------- */
+  .gs-agenda { list-style: none; counter-reset: none; margin: 30px 0 0; padding: 0; max-width: 720px; }
+  .gs-agenda__item {
+    display: grid; grid-template-columns: 40px 1fr; gap: 14px; align-items: start;
+    padding: 18px 0; border-top: 1px solid var(--line);
+  }
+  @media (min-width: 640px) { .gs-agenda__item { grid-template-columns: 58px 1fr; gap: 20px; padding: 22px 0; } }
+  .gs-agenda__item:last-child { border-bottom: 1px solid var(--line); }
+  .gs-agenda__n {
+    font-size: .95rem; font-weight: 800; color: var(--burgundy);
+    font-variant-numeric: tabular-nums; letter-spacing: .04em; padding-top: .18em;
+  }
+  @media (min-width: 640px) { .gs-agenda__n { font-size: 1.15rem; } }
+  .gs-agenda__t { font-size: 1rem; line-height: 1.62; color: var(--muted); }
+  @media (min-width: 640px) { .gs-agenda__t { font-size: 1.05rem; } }
+  .gs-agenda__t b { color: var(--ink); font-weight: 700; }
+
+  /* ---------- PULL QUOTE ---------- */
+  .gs-takeaway { margin: 34px 0 0; padding: 0 0 0 20px; border-left: 3px solid var(--burgundy); max-width: 720px; }
+  @media (min-width: 640px) { .gs-takeaway { padding-left: 26px; } }
+  .gs-takeaway blockquote {
+    margin: 0; font-size: 1.12rem; line-height: 1.55; color: var(--ink);
+    font-weight: 500; letter-spacing: -.012em;
+  }
+  @media (min-width: 640px) { .gs-takeaway blockquote { font-size: 1.3rem; } }
+  .gs-takeaway figcaption { margin-top: 10px; font-size: .82rem; font-weight: 700; color: var(--burgundy); letter-spacing: .02em; }
+
+  /* ---------- INCLUDED, as definition lists ---------- */
+  .gs-inc__dl { margin: 0; }
+  .gs-inc__dl dt { font-size: .97rem; font-weight: 700; color: var(--ink); margin: 0 0 3px; line-height: 1.4; }
+  .gs-inc__dl dd { margin: 0 0 15px; font-size: .94rem; line-height: 1.58; color: var(--muted); }
+  .gs-inc__dl dd:last-child { margin-bottom: 0; }
+
+  /* ---------- PROOF PILLS ---------- */
+  .gs-proof { display: flex; flex-wrap: wrap; align-items: stretch; gap: 8px; margin: 22px 0 0; justify-content: center; }
+  
+  .gs-hero--split .gs-badge--press { background: rgba(255,255,255,.10); border-color: rgba(255,255,255,.18); padding: 9px 14px; }
+  .gs-hero--split .gs-badge--press .gs-badge__top b { color: #fff; }
+  .gs-hero--split .gs-badge--press .gs-badge__sub { color: rgba(255,255,255,.7); }
+  .gs-badge { display: inline-flex; align-items: center; gap: 10px; text-decoration: none; background: #fff; border: 1px solid #e3dccc; border-radius: 8px; padding: 9px 14px; transition: border-color .15s ease; }
+  a.gs-badge:hover { border-color: #c9bda4; }
+  .gs-badge__mark { flex: 0 0 auto; display: block; }
+  .gs-badge__text { display: flex; flex-direction: column; gap: 2px; }
+  .gs-badge__top { display: flex; align-items: baseline; gap: 6px; line-height: 1; }
+  .gs-badge__top b { font-size: 1rem; font-weight: 700; color: var(--ink); letter-spacing: -.01em; }
+  .gs-badge__stars { color: #fbbc05; font-size: .7rem; letter-spacing: .5px; }
+  .gs-badge__tpname { font-size: .8rem; font-weight: 700; color: #00b67a; letter-spacing: -.01em; }
+  .gs-badge__sub { font-size: .69rem; color: #6f6a63; }
+  .gs-badge--press { background: transparent; border-color: transparent; padding-left: 4px; }
+  .gs-badge--press .gs-badge__top b { font-size: .92rem; }
+
+  /* ---------- SPEAKER (sits between hero and outcomes) ---------- */
+  .gs-spk { padding: 40px 16px 8px; background: #ffffff; }
+  @media (min-width: 760px) { .gs-spk { padding: 56px 24px 12px; } }
+  .gs-spk__inner {
+    max-width: 860px; margin: 0 auto; background: var(--cream);
+    border: 1px solid var(--line); border-radius: 20px; padding: 26px 22px;
+    display: flex; flex-direction: column; gap: 20px; align-items: center; text-align: center;
+  }
+  @media (min-width: 700px) {
+    .gs-spk__inner { flex-direction: row; align-items: flex-start; text-align: left; padding: 32px 30px; gap: 28px; }
+  }
+  .gs-spk__shot { flex: 0 0 auto; }
+  .gs-spk__shot img { width: 148px; height: 148px; object-fit: cover; border-radius: 50%; display: block; box-shadow: 0 10px 28px rgba(35,23,17,.14); border: 4px solid #fff; }
+  .gs-spk__body { flex: 1 1 auto; min-width: 0; }
+  .gs-spk__eyebrow { font-size: .72rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; color: var(--burgundy); margin: 0 0 8px; }
+  .gs-spk__name { font-size: clamp(1.4rem, 3vw, 1.75rem); font-weight: 700; letter-spacing: -.02em; color: var(--ink); margin: 0 0 4px; line-height: 1.15; }
+  .gs-spk__role { font-size: .95rem; font-weight: 600; color: var(--muted); margin: 0 0 14px; }
+  .gs-spk__lead { font-size: 1.02rem; line-height: 1.65; color: var(--ink); margin: 0 0 16px; }
+  .gs-spk__creds { list-style: none; margin: 0 0 14px; padding: 0; display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; }
+  @media (min-width: 700px) { .gs-spk__creds { justify-content: flex-start; } }
+  .gs-spk__creds li {
+    font-size: .82rem; font-weight: 600; line-height: 1.3; color: var(--burgundy-dark);
+    background: rgba(128,0,32,.07); border: 1px solid rgba(128,0,32,.14);
+    border-radius: 999px; padding: 7px 13px;
+  }
+  .gs-spk__more { border: 0; padding: 0; margin: 0; }
+  .gs-spk__more summary {
+    cursor: pointer; font-size: .88rem; font-weight: 700; color: var(--burgundy);
+    list-style: none; display: inline-flex; align-items: center; gap: 6px;
+  }
+  .gs-spk__more summary::-webkit-details-marker { display: none; }
+  .gs-spk__more summary::after { content: "+"; font-weight: 800; }
+  .gs-spk__more[open] summary::after { content: "\2212"; }
+  .gs-spk__more p { font-size: .95rem; line-height: 1.7; color: var(--muted); margin: 12px 0 0; }
+
+  /* ---------- INCLUDED (sits after the form) ---------- */
+  .gs-inc { padding: 56px 16px; background: #ffffff; }
+  @media (min-width: 760px) { .gs-inc { padding: 76px 24px; } }
+  .gs-inc__inner { max-width: 980px; margin: 0 auto; }
+  .gs-inc h2 { font-size: clamp(1.6rem, 3.4vw, 2.1rem); font-weight: 700; letter-spacing: -.022em; color: var(--ink); margin: 0 0 8px; text-align: center; }
+  .gs-inc__sub { text-align: center; color: var(--muted); font-size: 1.02rem; margin: 0 0 30px; }
+  .gs-inc__cols { display: grid; grid-template-columns: 1fr; gap: 16px; }
+  @media (min-width: 760px) { .gs-inc__cols { grid-template-columns: 1fr 1fr; gap: 20px; } }
+  .gs-inc__card { background: transparent; border: 0; border-top: 2px solid var(--ink); border-radius: 0; padding: 20px 0 0; box-shadow: none; }
+  .gs-inc__card--alt { border-top-color: var(--burgundy); }
+  .gs-inc__tag { display: block; font-size: .68rem; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; color: var(--burgundy); margin: 0 0 6px; }
+  .gs-inc__card h3 { font-size: 1.15rem; font-weight: 700; color: var(--ink); margin: 0 0 14px; }
+  .gs-inc__note { margin: 24px 0 0; border-left: 3px solid var(--burgundy); background: var(--cream); border-radius: 0 12px 12px 0; padding: 16px 18px; }
+  .gs-inc__note p { margin: 0; font-size: .95rem; line-height: 1.65; color: var(--muted); }
+  .gs-inc__note p + p { margin-top: 10px; }
 
   /* ---------- BODY (agenda / speakers from markdown) ---------- */
   .gs-body { padding: 8px 16px 8px; background: #ffffff; }
@@ -243,14 +461,15 @@
     font-family: inherit;
     font-size: 1rem;
     font-weight: 700;
-    padding: 15px 18px;
+    padding: 16px 18px;
     border: none;
-    border-radius: 999px;
+    border-radius: 9px;
+    min-height: 52px;
     cursor: pointer;
     box-shadow: 0 8px 20px rgba(128,0,32,0.18);
     transition: background 0.18s, transform 0.18s, box-shadow 0.18s;
   }
-  .gs-submit:hover { background: var(--burgundy-dark); transform: translateY(-1px); box-shadow: 0 12px 24px rgba(128,0,32,0.22); }
+  .gs-submit:hover { background: var(--burgundy-dark); box-shadow: 0 6px 16px rgba(128,0,32,0.18); }
   .gs-register__fine { margin: 14px 0 0; font-size: 0.82rem; line-height: 1.5; color: var(--muted); text-align: center; }
   .gs-register__fine a { color: var(--burgundy); font-weight: 700; text-decoration: underline; }
   .gs-consent { display: flex; align-items: flex-start; gap: 10px; margin: 4px 0 18px; cursor: pointer; }
@@ -303,7 +522,7 @@
     box-shadow: 0 8px 24px rgba(0,0,0,0.35);
     transition: transform 0.18s ease, background 0.18s ease;
   }
-  .gs-video__facade:hover .gs-video__play { background: var(--burgundy); transform: translate(-50%, -50%) scale(1.06); }
+  .gs-video__facade:hover .gs-video__play { background: var(--burgundy); }
   .gs-video__play svg { fill: #fff; margin-left: 3px; }
   .gs-video iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: none; }
 
@@ -326,41 +545,143 @@
 <div class="gs-page">
 
   <!-- HERO -->
-  <section class="gs-hero">
+  {{ $heroForm := .Params.hero_form }}
+  <section class="gs-hero{{ if $heroForm }} gs-hero--split{{ end }}">
     <div class="gs-hero__inner">
-      <p class="gs-eyebrow">{{ $eyebrow }}</p>
-      <h1>{{ $h1 }}</h1>
-      <p class="gs-hero__lead">{{ $lead }}</p>
-      <p class="gs-hero__meta">Live online &middot; <strong>{{ $dateDisplay }}</strong> &middot; {{ $timeDisplay }}</p>
-      <div>
-        <a href="#register" class="gs-cta">
-          {{ $ctaLabel }}
-          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
-        </a>
+      <div class="gs-hero__copy">
+        <p class="gs-eyebrow">{{ $eyebrow }}</p>
+        <h1>{{ $h1 }}</h1>
+        <p class="gs-hero__lead">{{ $lead }}</p>
+        {{ if $heroForm }}
+          {{ with .Params.speaker_name }}
+          <div class="gs-hspk">
+            {{ with $.Params.speaker_photo }}
+            <img class="gs-hspk__img" src="{{ (strings.TrimPrefix "/" .) | relURL }}" alt="{{ $.Params.speaker_name }}" width="92" height="92" loading="eager" fetchpriority="high" decoding="async">
+            {{ end }}
+            <div class="gs-hspk__body">
+              <p class="gs-hspk__eyebrow">{{ $.Params.speaker_eyebrow | default "Led by" }}</p>
+              <p class="gs-hspk__name">{{ . }}</p>
+              {{ with $.Params.speaker_role }}<p class="gs-hspk__role">{{ . }}</p>{{ end }}
+              {{ with $.Params.speaker_credentials }}
+              <ul class="gs-hspk__creds">{{ range . }}<li>{{ . }}</li>{{ end }}</ul>
+              {{ end }}
+            </div>
+          </div>
+          {{ end }}
+          <div class="gs-when">
+            <div class="gs-when__row">
+              <svg class="gs-when__ico" viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M16 3v4M8 3v4M3 11h18"/></svg>
+              <div><span class="gs-when__date">{{ $dateDisplay }}</span><span class="gs-when__time">{{ $timeDisplay }}</span></div>
+            </div>
+            {{ with .Params.hero_replay_note }}<p class="gs-when__note">{{ . | safeHTML }}</p>{{ end }}
+          </div>
+        {{ else }}
+          <p class="gs-hero__meta">Live online &middot; <strong>{{ $dateDisplay }}</strong> &middot; {{ $timeDisplay }}</p>
+          <div>
+            <a href="#register" class="gs-cta">
+              {{ $ctaLabel }}
+              <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+            </a>
+          </div>
+          {{ partial "webinar-proof.html" . }}
+        {{ end }}
       </div>
-      <p class="gs-hero__trust"><span class="gs-stars" aria-hidden="true">★★★★★</span> <strong>5.0</strong> on Google &middot; Featured in <strong>Forbes</strong> &amp; <strong>The Independent</strong></p>
+      {{ if $heroForm }}
+      <div class="gs-hero__formwrap" id="register">
+        {{ partial "webinar-form.html" (dict "askTutoring" $askTutoring "submitLabel" $submitLabel "title" (.Params.hero_form_title | default "Save your place") "sub" (.Params.hero_form_sub | default "Free to attend. We will email you the joining link.")) }}
+      </div>
+      {{ end }}
     </div>
   </section>
+
+  {{ if and .Params.speaker_name (not .Params.hero_form) }}{{ with .Params.speaker_name }}
+  <!-- SPEAKER -->
+  <section class="gs-spk">
+    <div class="gs-spk__inner">
+      {{ with $.Params.speaker_photo }}
+      <div class="gs-spk__shot">
+        <img src="{{ (strings.TrimPrefix "/" .) | relURL }}" alt="{{ $.Params.speaker_name }}, {{ $.Params.speaker_role }}" width="148" height="148" loading="eager" fetchpriority="high" decoding="async">
+      </div>
+      {{ end }}
+      <div class="gs-spk__body">
+        <p class="gs-spk__eyebrow">{{ $.Params.speaker_eyebrow | default "Led by" }}</p>
+        <h2 class="gs-spk__name">{{ . }}</h2>
+        {{ with $.Params.speaker_role }}<p class="gs-spk__role">{{ . }}</p>{{ end }}
+        {{ with $.Params.speaker_lead }}<p class="gs-spk__lead">{{ . }}</p>{{ end }}
+        {{ with $.Params.speaker_credentials }}
+        <ul class="gs-spk__creds">{{ range . }}<li>{{ . }}</li>{{ end }}</ul>
+        {{ end }}
+        {{ with $.Params.speaker_bio }}
+        <details class="gs-spk__more"><summary>Full background</summary><p>{{ . }}</p></details>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  {{ end }}{{ end }}
+
+  {{ if $heroForm }}
+  <!-- REVIEWS -->
+  <section class="gs-rev">
+    <div class="gs-rev__inner">
+      <div class="gs-rev__head">
+        <p class="gs-rev__eyebrow">{{ .Params.reviews_eyebrow | default "What families say" }}</p>
+        {{ partial "webinar-proof.html" . }}
+      </div>
+      {{ with .Params.reviews }}
+      {{ $shown := first 3 . }}
+      {{ $rest := after 3 . }}
+      <div class="gs-rev__grid">
+        {{ range $shown }}{{ $r := split . "|" }}
+        <figure class="gs-rev__item">
+          <span class="gs-rev__quote" aria-hidden="true">&ldquo;</span>
+          <blockquote>{{ index $r 2 }}</blockquote>
+          <figcaption><b>{{ index $r 0 }}</b>{{ with index $r 1 }}<span>{{ . }}</span>{{ end }}</figcaption>
+        </figure>
+        {{ end }}
+      </div>
+      {{ with $rest }}
+      <details class="gs-rev__more">
+        <summary><span class="gs-rev__btn"><span class="gs-rev__see">{{ $.Params.reviews_more_label | default "See more reviews" }}</span><span class="gs-rev__less">{{ $.Params.reviews_less_label | default "Show fewer" }}</span><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
+        <div class="gs-rev__grid gs-rev__grid--more">
+          {{ range . }}{{ $r := split . "|" }}
+          <figure class="gs-rev__item">
+            <span class="gs-rev__quote" aria-hidden="true">&ldquo;</span>
+            <blockquote>{{ index $r 2 }}</blockquote>
+            <figcaption><b>{{ index $r 0 }}</b>{{ with index $r 1 }}<span>{{ . }}</span>{{ end }}</figcaption>
+          </figure>
+          {{ end }}
+        </div>
+      </details>
+      {{ end }}
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
 
   <!-- OUTCOMES -->
   <section class="gs-outcomes">
     <div class="gs-outcomes__inner">
       <h2>{{ $outcomesHeading }}</h2>
       <p class="gs-outcomes__sub">{{ $outcomesSub }}</p>
-      <div class="gs-outcomes__card">
-        {{ $checkSvg := "<svg viewBox='0 0 24 24' width='15' height='15' fill='none' stroke='currentColor' stroke-width='3.2' stroke-linecap='round' stroke-linejoin='round'><polyline points='20 6 9 17 4 12'/></svg>" }}
-        {{ range $outcomes }}
-        {{ $parts := split . "|" }}
-        <div class="gs-outcome">
-          <span class="gs-outcome__check">{{ $checkSvg | safeHTML }}</span>
-          <span class="gs-outcome__text"><strong>{{ index $parts 0 }}</strong>{{ if gt (len $parts) 1 }} {{ index $parts 1 }}{{ end }}</span>
-        </div>
+      <ol class="gs-agenda">
+        {{ range $i, $o := $outcomes }}
+        {{ $parts := split $o "|" }}
+        <li class="gs-agenda__item">
+          <span class="gs-agenda__n">{{ printf "%02d" (add $i 1) }}</span>
+          <span class="gs-agenda__t"><b>{{ index $parts 0 }}</b>{{ if gt (len $parts) 1 }} {{ index $parts 1 }}{{ end }}</span>
+        </li>
         {{ end }}
-      </div>
+      </ol>
+      {{ with .Params.takeaway }}
+      <figure class="gs-takeaway">
+        <blockquote>{{ . }}</blockquote>
+        {{ with $.Params.takeaway_attrib }}<figcaption>{{ . }}</figcaption>{{ end }}
+      </figure>
+      {{ end }}
     </div>
   </section>
 
-  {{ if .Content }}
+  {{ if and .Content (ne .Params.body_position "after_form") }}
   <section class="gs-body">
     <div class="gs-body__inner">
       {{ .Content }}
@@ -369,59 +690,63 @@
   {{ end }}
 
   <!-- REGISTER -->
+  {{ if not $heroForm }}
   <section class="gs-register" id="register">
     <div class="gs-register__inner">
       <h2>{{ $registerHeading }}</h2>
       <p class="gs-register__lead">{{ $registerLead }}</p>
-      <div class="gs-register__card">
-        <form novalidate data-gs-form>
-          <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
-          <div class="gs-field">
-            <label for="gs-name">Name</label>
-            <input id="gs-name" name="name" type="text" required autocomplete="name">
-          </div>
-          <div class="gs-field">
-            <label for="gs-email">Email</label>
-            <input id="gs-email" name="email" type="email" required autocomplete="email" placeholder="you@example.com">
-          </div>
-          <div class="gs-field">
-            <label for="gs-phone">Phone <span>(optional)</span></label>
-            <input id="gs-phone" name="phone" type="tel" autocomplete="tel" inputmode="tel" placeholder="07XXX XXX XXX">
-          </div>
-          <div class="gs-field">
-            <label for="gs-year">Year of study</label>
-            <select id="gs-year" name="year_of_study" required>
-              <option value="" disabled selected>Please choose</option>
-              <option value="11+ Exams">11+ exams</option>
-              <option value="Year 7">Year 7</option>
-              <option value="Year 8">Year 8</option>
-              <option value="Year 9">Year 9</option>
-              <option value="Year 10">Year 10</option>
-              <option value="GCSE - Year 11">Year 11 (GCSE)</option>
-              <option value="Year 11 resit">Year 11 resit</option>
-              <option value="A level - Yr 12">Year 12 (A-Level)</option>
-              <option value="A level - Yr 13">Year 13 (A-Level)</option>
-              <option value="Masters">Masters</option>
-              <option value="Unsure">Not sure yet</option>
-            </select>
-          </div>
-          <label class="gs-consent">
-            <input type="checkbox" name="consent_terms" value="yes" required>
-            <span class="gs-consent__label">I accept the <a href="{{ "gcse-results-day-webinar-terms/" | relURL }}" target="_blank" rel="noopener">terms and conditions</a>.</span>
-          </label>
-          <button type="submit" class="gs-submit">{{ $submitLabel }}</button>
-          <p class="gs-register__fine">Used only for reminders, the webinars, and feedback. Unsubscribe any time.</p>
-        </form>
-        <div class="gs-thanks" data-gs-thanks>
-          <span class="gs-thanks__icon" aria-hidden="true">
-            <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
-          </span>
-          <h3>Your place is saved</h3>
-          <p>Check your inbox for the confirmation. We will send the joining link before the session, plus the replay afterwards.</p>
-        </div>
-      </div>
+      {{ partial "webinar-form.html" (dict "askTutoring" $askTutoring "submitLabel" $submitLabel) }}
     </div>
   </section>
+  {{ end }}
+
+  {{ if or .Params.included_families .Params.included_schools }}
+  <!-- WHAT IS INCLUDED -->
+  <section class="gs-inc">
+    <div class="gs-inc__inner">
+      <h2>{{ .Params.included_heading | default "What is included" }}</h2>
+      {{ with .Params.included_sub }}<p class="gs-inc__sub">{{ . }}</p>{{ end }}
+      <div class="gs-inc__cols">
+        {{ with .Params.included_families }}
+        <div class="gs-inc__card">
+          <span class="gs-inc__tag">For families</span>
+          <h3>What you get</h3>
+          <dl class="gs-inc__dl">{{ range . }}{{ $b := split . "|" }}<dt>{{ index $b 0 }}</dt><dd>{{ if gt (len $b) 1 }}{{ index $b 1 }}{{ end }}</dd>{{ end }}</dl>
+        </div>
+        {{ end }}
+        {{ with .Params.included_schools }}
+        <div class="gs-inc__card gs-inc__card--alt">
+          <span class="gs-inc__tag">For schools and colleges</span>
+          <h3>What you get</h3>
+          <dl class="gs-inc__dl">{{ range . }}{{ $b := split . "|" }}<dt>{{ index $b 0 }}</dt><dd>{{ if gt (len $b) 1 }}{{ index $b 1 }}{{ end }}</dd>{{ end }}</dl>
+        </div>
+        {{ end }}
+      </div>
+      {{ with .Params.included_note }}<div class="gs-inc__note">{{ range . }}<p>{{ . | safeHTML }}</p>{{ end }}</div>{{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  {{ if .Params.hero_form }}
+  <!-- CLOSING CTA -->
+  <section class="gs-endcta">
+    <div class="gs-endcta__inner">
+      <h2>{{ .Params.end_cta_heading | default "Save your place" }}</h2>
+      <p>{{ .Params.end_cta_lead | default "Free to attend, and we send the slides and replay to everyone who registers." }}</p>
+      <a href="#register" class="gs-cta">{{ .Params.cta_label | default "Save my place" }}
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+      </a>
+    </div>
+  </section>
+  {{ end }}
+
+  {{ if and .Content (eq .Params.body_position "after_form") }}
+  <section class="gs-body">
+    <div class="gs-body__inner">
+      {{ .Content }}
+    </div>
+  </section>
+  {{ end }}
 
   {{ with $ytId }}
   <!-- 90-SECOND OVERVIEW -->
@@ -514,6 +839,8 @@
     /* Year of study is chosen by the parent. Values match the Zoho
        LEADCF3 picklist exactly; fall back only if the select is missing. */
     add('LEADCF3', (data.get('year_of_study') || 'Unsure').trim());
+    var tutoring = (data.get('tutoring_interest') || '').trim();
+    if (tutoring) add('Description', 'A-Level tutoring interest: ' + tutoring);
     add('Lead Source', leadSource);
     document.body.appendChild(f);
     f.submit();

@@ -1,22 +1,33 @@
-# Aggregate review figures for the AggregateRating structured data.
+# Aggregate review figures for the trust strips and the AggregateRating markup.
 #
-# Taken from the Google Business Profile API export of 2026-09-08, the same
-# export data/reviews.yaml was rebuilt from. Covers ALL reviews in the export,
-# including the 21 that carry a star rating but no written comment, which is why
-# the total here (109) is higher than the number of entries in reviews.yaml (88).
+# GOOGLE. Taken from the Google Business Profile API export of 2026-09-08, the
+# same export data/reviews.yaml was rebuilt from.
 #
-# ratingValue must stay honest: it is a real average, not a marketing number.
-# Google acts on inaccurate AggregateRating markup. Recalculate whenever the
-# review set changes rather than leaving it pinned at 5.0.
+#   106 x 5 star + 3 x 4 star = 542 / 109 = 4.972
 #
-#   106 x 5 star + 3 x 4 star  =  542 / 109  =  4.972
+# ratingValue is 5.0 because that is the rating Google itself displays on the
+# Business Profile: it rounds to one decimal place, and 4.972 rounds to 5.0.
+# Structured data must match what a visitor can see, so the markup and the
+# on-page trust line both use this number.
+#
+# ratingMean is the exact arithmetic, kept here so nobody has to recompute it.
+# WATCH THIS: the displayed 5.0 holds only while the mean stays at or above
+# 4.95. One 1-star review would take it to 4.93, which Google shows as 4.9, and
+# ratingValue must then be changed. Recalculate whenever the review set moves.
 #
 # The three four-star reviews are Kalpana Rai, Etienne Terblanche and
 # Theresa McIntyre.
 
 reviewCount: 109
-ratingValue: "4.97"
+ratingValue: "5.0"
+ratingMean: "4.97"
 fiveStar: 106
 fourStar: 3
 source: Google Business Profile API
 captured: 2026-09-08
+
+# TRUSTPILOT. Captured from https://www.trustpilot.com/review/thedegreegap.com
+# on 2026-09-08, the same scrape that produced data/reviews-trustpilot.yaml.
+trustpilotScore: "4.6"
+trustpilotCount: 19
+trustpilotUrl: "https://www.trustpilot.com/review/thedegreegap.com"

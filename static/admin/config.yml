@@ -361,6 +361,7 @@ collections:
       - { name: "webinar_time_display", label: "Time (as shown on the page)", widget: "string", default: "7–8pm (UK time)" }
       - { name: "youtube_id", label: "YouTube video ID (optional overview)", widget: "string", required: false }
       - { name: "free_resources_url", label: "Free resources URL (optional)", widget: "string", required: false }
+      - { name: "ask_tutoring_interest", label: "Ask 'interested in A-Level tutoring?' on the form", widget: "boolean", required: false, default: false, hint: "Adds a required dropdown to the registration form. The answer is written to the Zoho lead Description." }
       - { name: "outcomes_heading", label: "Outcomes heading", widget: "string", required: false, default: "What you will take away" }
       - { name: "outcomes_sub", label: "Outcomes sub-line", widget: "string", required: false }
       - name: "outcomes"

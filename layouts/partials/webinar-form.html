@@ -1,0 +1,64 @@
+  <div class="gs-register__card">
+        {{ with .title }}
+        <div class="gs-cardhead">
+          <p class="gs-cardhead__t">{{ . }}</p>
+          {{ with $.sub }}<p class="gs-cardhead__s">{{ . }}</p>{{ end }}
+        </div>
+        {{ end }}
+        <form novalidate data-gs-form>
+          <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
+          <div class="gs-field">
+            <label for="gs-name">Name</label>
+            <input id="gs-name" name="name" type="text" required autocomplete="name">
+          </div>
+          <div class="gs-field">
+            <label for="gs-email">Email</label>
+            <input id="gs-email" name="email" type="email" required autocomplete="email" placeholder="you@example.com">
+          </div>
+          <div class="gs-field">
+            <label for="gs-phone">Phone <span>(optional)</span></label>
+            <input id="gs-phone" name="phone" type="tel" autocomplete="tel" inputmode="tel" placeholder="07XXX XXX XXX">
+          </div>
+          <div class="gs-field">
+            <label for="gs-year">Year of study</label>
+            <select id="gs-year" name="year_of_study" required>
+              <option value="" disabled selected>Please choose</option>
+              <option value="11+ Exams">11+ exams</option>
+              <option value="Year 7">Year 7</option>
+              <option value="Year 8">Year 8</option>
+              <option value="Year 9">Year 9</option>
+              <option value="Year 10">Year 10</option>
+              <option value="GCSE - Year 11">Year 11 (GCSE)</option>
+              <option value="Year 11 resit">Year 11 resit</option>
+              <option value="A level - Yr 12">Year 12 (A-Level)</option>
+              <option value="A level - Yr 13">Year 13 (A-Level)</option>
+              <option value="Masters">Masters</option>
+              <option value="Unsure">Not sure yet</option>
+            </select>
+          </div>
+          {{ if .askTutoring }}
+          <div class="gs-field">
+            <label for="gs-tutoring">Are you or your child interested in A-Level tutoring?</label>
+            <select id="gs-tutoring" name="tutoring_interest" required>
+              <option value="" disabled selected>Please choose</option>
+              <option value="Yes - please get in touch">Yes, please get in touch</option>
+              <option value="Maybe - send me more information">Maybe, send me more information</option>
+              <option value="No - just here for the webinar">No, just here for the webinar</option>
+            </select>
+          </div>
+          {{ end }}
+          <label class="gs-consent">
+            <input type="checkbox" name="consent_terms" value="yes" required>
+            <span class="gs-consent__label">I accept the <a href="{{ "gcse-results-day-webinar-terms/" | relURL }}" target="_blank" rel="noopener">terms and conditions</a>.</span>
+          </label>
+          <button type="submit" class="gs-submit">{{ .submitLabel }}</button>
+          <p class="gs-register__fine">Used only for reminders, the webinars, and feedback. Unsubscribe any time.</p>
+        </form>
+        <div class="gs-thanks" data-gs-thanks>
+          <span class="gs-thanks__icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+          </span>
+          <h3>Your place is saved</h3>
+          <p>Check your inbox for the confirmation. We will send the joining link before the session, plus the replay afterwards.</p>
+        </div>
+      </div>
