@@ -1,0 +1,60 @@
+---
+title: "Basingstoke GCSE Science Tutors | Online | The Degree Gap"
+nav_title: "Science"
+description: "Online GCSE Science tutors covering Basingstoke for triple and combined award. Biology, Chemistry and Physics separated out, exam board matched, from £37 an hour."
+layout: "level-subject"
+location: "Basingstoke"
+level: "GCSE"
+subject: "Science"
+
+hero_h1: "Online GCSE Science Tutoring for Basingstoke Students"
+hero_lead: "A single Science grade is the average of three subjects, and averages hide things. Our Basingstoke GCSE Science tutors work online, pull the three apart, and spend the term on the one that is actually costing marks."
+
+angle_eyebrow: "WHAT AN AVERAGE HIDES"
+angle_heading: "Pulling Three Sciences Apart Before Spending a Term on Them"
+angle_body_1: "The most useful thing a parent in Basingstoke can know about GCSE Science is that the grade on the report is an average, and the average is doing a lot of work. A student can be solid in Biology, missing one block in Physics, and drifting in Chemistry, and all of that arrives as a single number that suggests a general weakness. It is almost never general. It is usually one thing: equation rearranging that never quite landed, moles and concentration calculations where an early slip poisons every line after it, or the required practicals, which carry marks in both papers and are the hardest part of the course to make up alone."
+angle_body_2: "So the first hour is a diagnostic rather than a lesson. It works backwards from wrong answers on a recent paper, question number by question number, and the output is a plan that names one science and one skill rather than a promise to work harder at Science. Most students here move at 16, to Queen Mary's College or Basingstoke College of Technology, and both publish their own entry requirements which shift between years, with the Sciences generally sitting near the top of what either asks for. That makes the Year 11 Science grade a gate rather than a report line, and it is worth checking the current requirement rather than assuming it has held."
+angle_image: "/images/fluorescent-cells-under-microscope.jpg"
+angle_image_alt: "A GCSE Science student working through a required practical question with an online tutor"
+angle_stat_from: "4"
+angle_stat_to: "6"
+angle_stat_detail: "The kind of lift a term of weekly one-to-one Science hours usually targets, once the weakest of the three has been named."
+
+schools:
+  - "Aldworth School"
+  - "Brighton Hill Community School"
+  - "The Costello School"
+  - "The Vyne Community School"
+  - "Queen Mary's College"
+  - "Basingstoke College of Technology"
+
+steps_heading: "Start online GCSE Science tutoring in Basingstoke in 3 steps"
+steps_lead: "Two or three profiles inside a day. The first question is never how your child is doing at Science, it is which of the three papers the marks are leaving on."
+steps:
+  - title: "Share your goals"
+    body: "Year group, school, exam board, and triple or combined. Then which science feels worst and when that started, because something that began this year is a different job from something that has been true since Year 9. A photo of a marked mock is the most useful thing you can send us."
+  - title: "Meet your match"
+    body: "Profiles the next day, chosen on the specification and on the science that needs the hours rather than on Science broadly. Free 15-minute video meeting with the tutor before any paid session, which matters most when a student is unconvinced about the idea."
+  - title: "Start the lessons"
+    body: "A weekly hour online over Lessonspace, our shared whiteboard. Real exam questions, working written out on screen rather than described, and gaps taught from the start rather than skimmed. Every session is recorded. From £37/hr, cancel any week."
+
+faqs:
+  - q: "What grade do you need for A-Level Sciences at Basingstoke sixth forms?"
+    a: "Queen Mary's College and Basingstoke College of Technology each publish their own entry requirements and revise them between years, and the Sciences generally sit near the top of what either asks for. Some providers word the requirement differently depending on whether a student sat triple or combined, so if your child has moved between routes it is worth reading the exact wording rather than the headline number. Where a student is a grade short, twelve to sixteen weeks of weekly hours is a realistic frame, which in practice means starting in the autumn rather than waiting for mock results."
+  - q: "What is the difference between AQA, Edexcel and OCR GCSE Science, and does it matter for tutoring?"
+    a: "Yes, and more than in most subjects. Content overlaps, examining does not. The boards differ on how required practicals are assessed, how the six-mark answers are marked, and which formulae appear in the paper rather than needing recall. A student can understand a topic properly and still drop marks because the question is built the way another board builds it. We confirm the board on the consultation call, and where a student has changed schools mid-course we look for someone who has taught both."
+  - q: "Why is my child struggling with GCSE Science?"
+    a: "Most often because Science asks for a style of writing nobody teaches head-on. A student learns the content, then loses marks on extended answers for listing three correct points with nothing joining them, or for describing when the command word wanted an explanation. The other frequent cause sits further back: a student who never really got equation rearranging in Year 9 keeps running into it, because it appears somewhere in every Physics paper. The first hour works out which of those two it is, because the term looks entirely different depending on the answer."
+  - q: "Are your GCSE Science tutors qualified teachers or university students?"
+    a: "Both, and which one suits depends on the student in front of us. The network includes qualified secondary teachers, Russell Group graduates, and current undergraduates who sat these papers recently. A student who needs a topic rebuilt from its foundations usually does better with a qualified teacher who has taught that sequence many times. A student whose content is largely there but whose answers are not scoring often does better with a recent graduate who knows the current mark scheme in fine detail. We suggest based on the diagnostic rather than on a standing preference."
+  - q: "Can my child have Science tutoring during the school holidays?"
+    a: "Yes, and holiday weeks are often where the most concentrated progress happens. During term an hour has to fit around everything else a Year 10 or Year 11 is carrying, while a half-term or Easter block can take one weak science and rebuild it across several consecutive days. Everything runs online, so scheduling stays flexible and families away from home keep their slot. The required practicals are a common holiday focus, because they are awkward to revise alone and straightforward to work through with a tutor."
+# FAQ picks: G01, A02, A07, E02, C05
+
+reviews:
+  - "Jeanne|Student|I can’t recommend The degree gap enough! Harry provided quick and extremely helpful feedback on my personal statement for my master’s applications. Thank you, Harry!"
+  - "Darren|Parent|A really helpful experience for supporting our Son.Thank you Joe,Harry and Matt."
+  - "Joel|Student|The degree gap is an amazing place and have helped me achieve so much and I am looking forward to it helping it achieve a higher class of skills and ready for the RAF"
+  - "joe|Student|Highly recommend the Degree Gap as a tutoring agency! Their platform is easy to use and having used tutors across a variety of subjects, they have all been consistently excellent."
+  - "Kasia|Parent|Harry is a great tutor. He's very helpful and knowledgeable. He's git goid understanding of student's needs as well as current situation when it comes to university education in the UK. His experience and expertise helped my son make some decisions about choosing A level subject and university course. I highly recommend Harry and Degree Gap."
+---
