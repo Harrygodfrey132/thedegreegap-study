@@ -808,6 +808,9 @@
   /* Zoho CRM web-to-lead — same lead form as the results-day webinar,
      tagged with this page's own Lead Source. Fire-and-forget POST via
      a hidden iframe (Zoho returns no CORS headers). */
+  var LEAD_STATUS_YES = "{{ .Params.lead_status_yes | default "Interested In Tutoring" }}";
+  var LEAD_STATUS_NO  = "{{ .Params.lead_status_no  | default "Not Interested In Tutoring" }}";
+
   function submitZohoLead(data, leadSource) {
     var iframe = document.getElementById('zoho-target');
     if (!iframe) {
@@ -840,7 +843,15 @@
        LEADCF3 picklist exactly; fall back only if the select is missing. */
     add('LEADCF3', (data.get('year_of_study') || 'Unsure').trim());
     var tutoring = (data.get('tutoring_interest') || '').trim();
-    if (tutoring) add('Description', 'A-Level tutoring interest: ' + tutoring);
+    if (tutoring) {
+      /* Keep the raw answer for the audit trail... */
+      add('Description', 'A-Level tutoring interest: ' + tutoring);
+      /* ...and drive Lead Status from it so sales can filter on it.
+         These two values MUST exist in the Zoho Lead Status pick-list or the
+         write is silently dropped. Override per page with
+         lead_status_yes / lead_status_no. */
+      add('Lead Status', tutoring === 'Yes' ? LEAD_STATUS_YES : LEAD_STATUS_NO);
+    }
     add('Lead Source', leadSource);
     document.body.appendChild(f);
     f.submit();
@@ -851,6 +862,16 @@
     if (!form) return;
     var card = form.closest('.gs-register__card');
     var thanks = card ? card.querySelector('[data-gs-thanks]') : null;
+    /* Where a registration goes after the lead is dispatched.
+       Same split the August results-day webinar used:
+         said yes to tutoring -> the book-a-call page (1-to-1 path)
+         everyone else        -> the lighter thank-you page
+       Only active when the page asks the tutoring question; otherwise the
+       form keeps the inline confirmation it had before. */
+    var routeYes = "{{ (.Params.redirect_interested | default "book-a-call/") | relURL }}";
+    var routeElse = "{{ (.Params.redirect_default | default "webinar-thank-you/") | relURL }}";
+    var routing = {{ if .Params.ask_tutoring_interest }}true{{ else }}false{{ end }};
+
     form.addEventListener('submit', function (e) {
       e.preventDefault();
       if (!form.checkValidity()) { form.reportValidity(); return; }
@@ -859,12 +880,32 @@
       var rawPhone = data.get('phone');
       if (rawPhone) data.set('phone', normaliseUkPhone(rawPhone));
       if (btn) { btn.disabled = true; btn.textContent = 'Saving...'; }
-      submitZohoLead(data, {{ $leadSource }});
-      if (typeof fbq === 'function') { fbq('track', 'Lead'); }
-      window.setTimeout(function () {
+
+      /* Decide the destination BEFORE submitting. Working it out afterwards is
+         a race: Zoho can answer before the listener exists. */
+      var interested = (data.get('tutoring_interest') || '').indexOf('Yes') === 0;
+      var destination = routing
+        ? (interested ? routeYes : routeElse) + '?source=' + encodeURIComponent({{ $leadSource }})
+        : null;
+
+      var moved = false;
+      function done() {
+        if (moved) return;
+        moved = true;
+        if (destination) { window.location.href = destination; return; }
         form.style.display = 'none';
         if (thanks) thanks.classList.add('is-shown');
-      }, 500);
+      }
+
+      /* The hidden iframe loading is the real signal that Zoho took the post. */
+      var zt = document.getElementById('zoho-target');
+      if (zt) zt.addEventListener('load', done);
+
+      submitZohoLead(data, {{ $leadSource }});
+      if (typeof fbq === 'function') { fbq('track', 'Lead'); }
+
+      /* Ceiling for a bad connection, so nobody is stranded on a dead button. */
+      window.setTimeout(done, 8000);
     });
   })();
 </script>
