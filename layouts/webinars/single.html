@@ -850,7 +850,13 @@
          These two values MUST exist in the Zoho Lead Status pick-list or the
          write is silently dropped. Override per page with
          lead_status_yes / lead_status_no. */
-      add('Lead Status', tutoring === 'Yes' ? LEAD_STATUS_YES : LEAD_STATUS_NO);
+      /* Zoho Web-to-Lead only accepts fields present in the form definition
+         behind xnQsjsdp/xmIwtLD. Send both the display label and the API name,
+         so whichever the form knows about is the one that lands. Anything it
+         does not recognise is ignored rather than erroring. */
+      var status = (tutoring === 'Yes') ? LEAD_STATUS_YES : LEAD_STATUS_NO;
+      add('Lead Status', status);
+      add('Lead_Status', status);
     }
     add('Lead Source', leadSource);
     document.body.appendChild(f);
