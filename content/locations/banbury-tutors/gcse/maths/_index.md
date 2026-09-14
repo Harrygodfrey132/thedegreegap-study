@@ -32,11 +32,11 @@ steps_heading: "Start online GCSE Maths tutoring in Banbury in 3 steps"
 steps_lead: "Profiles inside a day. If you only send one paper, send the non-calculator one."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, exam board and tier, the grade now and the one that matters next. Tell us if there is a clear gap between the calculator and non-calculator papers, because that difference decides where the early weeks go."
+    body: "The basics: year group, school, exam board, tier, the grade now and the one that matters next. Tell us if there is a clear gap between the calculator and non-calculator papers, because that difference decides where the early weeks go."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, matched on the specification, the tier, and whether the work is method or arithmetic fluency. A free 15-minute video meeting with the tutor comes before any paid session."
+    body: "A shortlist of two or three arrives the following day, matched on the specification, the tier, and whether the work is method or arithmetic fluency. You get a free 15-minute video meeting with them before committing."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard, with working written out on screen rather than done in someone's head. Short arithmetic drills sit alongside the topic work, because fluency builds through frequency. Sessions are recorded. From £37/hr, cancel any week."
+    body: "Weekly one-to-one hours over Lessonspace, our shared interactive whiteboard, with working written out on screen rather than done in someone's head. Short arithmetic drills sit alongside the topic work, because fluency builds through frequency. Sessions are recorded. From £37 an hour, pause whenever you need to."
 
 faqs:
   - q: "What is the hardest part of GCSE Maths for Banbury students?"
@@ -44,7 +44,7 @@ faqs:
   - q: "What is the difference between AQA, Edexcel and OCR GCSE Maths, and does it matter for tutoring?"
     a: "It matters more than most parents expect. The core content is nearly identical, but the boards differ in how questions are worded, how multi-step problems are built, and which formulae are printed in the paper rather than memorised. A student drilled on one board's past papers can be genuinely thrown by another's phrasing while knowing exactly the same maths. We confirm the board on the consultation call before proposing anyone, and match on it, because familiarity with a board's habits is worth a lot in the final two terms."
   - q: "How do I know if my child needs a Maths tutor or just more revision?"
-    a: "Look at the working on a recent paper rather than at the grade. Clean, organised working with small slips and unfinished questions at the end points to accuracy and pace, and more timed practice marked honestly may be enough by itself. Working that stops partway through, or questions left blank, points to a method gap, and that is where a tutor is genuinely faster than anything a student can do alone. If your child is already scoring well and wants stretch, targeted practice beats a full programme."
+    a: "There is a quick test. Give your child a past paper question they got wrong, with no help, and watch what happens in the first thirty seconds. If they start, go wrong somewhere in the middle and can see roughly where, that is a practice problem and more marked papers may fix it. If they stare at it, or ask which topic it is, the method is not there to practise and a tutor is the faster route by a distance. Students in the second group rarely improve through repetition alone."
   - q: "Are your GCSE Maths tutors qualified teachers or university students?"
     a: "Both, and which suits depends on the student. The network has qualified secondary teachers, Russell Group graduates and current undergraduates who sat these papers recently. A student needing arithmetic and algebra rebuilt from the foundations usually does better with a qualified teacher who has taught that sequence many times. A student whose method is sound but who unravels under exam conditions often does better with a recent graduate who remembers that pressure. We suggest on the diagnostic."
   - q: "What happens if my child gets their results and has not hit the grade they needed?"

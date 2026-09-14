@@ -34,9 +34,9 @@ steps:
   - title: "Share your goals"
     body: "Year group, school, exam board, and whether the worry is the reading side, the writing side or both. Name the set texts for Literature. A piece of your child's own timed writing with marks on it is the most useful thing you can send."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, matched on the board and the set texts, and on experience with the writing paper, which not every English tutor works on directly. A free 15-minute video meeting comes before any paid session."
+    body: "Profiles the next day, matched on the board and the set texts, and on experience with the writing paper, which not every English tutor works on directly. Your child meets the tutor on a free 15-minute video call first."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard. Writing gets planned, produced to time and marked against the real criteria on screen, including the technical accuracy marks most students give away. Sessions are recorded. From £37/hr, cancel any week."
+    body: "Weekly hour-long sessions on Lessonspace, where tutor and student write on the same screen. Writing gets planned, produced to time and marked against the real criteria on screen, including the technical accuracy marks most students give away. Sessions are recorded. From £37 an hour, with nothing to sign."
 
 faqs:
   - q: "Is the GCSE English standard in Hemel Hempstead similar to nearby areas?"
@@ -46,7 +46,7 @@ faqs:
   - q: "Why is my child struggling with GCSE English?"
     a: "Often because the writing has never been taught as a skill in its own right, separate from the reading. Schools cover the texts carefully and then set work that has its own rules, and the space between understanding a book and scoring on a question about it is where marks disappear. On the Language paper, students lose a surprising number of marks on technical accuracy and on structure, both of which are learnable and neither of which feels like it should matter as much as it does."
   - q: "How do you vet your GCSE English tutors?"
-    a: "Around 3% of people who apply come onto the platform. There is a written application, a check on subject knowledge, and a structured interview where the thing being judged is how clearly somebody explains an idea under pressure, since that is what decides whether a student improves. References follow, and Joe and Harry interview personally. In English we look hard for tutors who mark honestly, because encouraging but vague feedback on writing does nothing for a grade."
+    a: "About three in every hundred applicants come through. There is an application form, a subject knowledge check and a live interview, and the interview is deliberately uncomfortable, because teaching one-to-one is uncomfortable when a student is stuck and the clock is going. Someone who can stay clear in that moment is worth a great deal. Harry and Joe interview every one of them, which is slower than delegating it and produces better matches."
   - q: "What if my child does not want a tutor?"
     a: "It is the worry parents raise most, and forcing it rarely works. Most resistance happens before a student has met anyone and is about what having a tutor seems to say about them rather than about the hour. The free 15-minute video meeting exists for that: your child meets the tutor first and gets a say in the match. Most students who were against the idea have come round by the second or third session. If they genuinely still do not want it after that, pause it."
 # FAQ picks: G06, A02, A07, E01, C07

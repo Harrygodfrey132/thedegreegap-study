@@ -32,11 +32,11 @@ steps_heading: "Start online GCSE Science tutoring in Baldock in 3 steps"
 steps_lead: "Profiles inside a day. If you have a marked paper, the six-mark questions on it tell us most of what we need."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, exam board, and triple or combined. Then which of the three sciences feels worst. Send a marked mock if there is one, because the extended answers show immediately whether the problem is content or the way it is being written down."
+    body: "Start with year group, school, board, and triple or combined. Then which of the three sciences feels worst. Send a marked mock if there is one, because the extended answers show immediately whether the problem is content or the way it is being written down."
   - title: "Meet your match"
-    body: "Profiles the next day, shortlisted on the specification and on the science that needs the hours rather than on Science generally. A free 15-minute video meeting with the tutor comes before any paid session."
+    body: "Two or three profiles within a day, narrowed by specification and by which of the three is behind rather than on Science generally. There is They meet on a short free video call before any session is paid for."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard. Extended answers get planned and written on screen, then marked against the real scheme in front of your child. Missing content gets taught properly rather than skimmed. Sessions are recorded. From £37/hr, cancel any week."
+    body: "A standing weekly hour on Lessonspace, our own interactive whiteboard. Extended answers get planned and written on screen, then marked against the real scheme in front of your child. Missing content gets taught properly rather than skimmed. Sessions are recorded. £37 an hour and up, with no minimum term."
 
 faqs:
   - q: "What is the hardest part of GCSE Science for students around Baldock?"
@@ -46,7 +46,7 @@ faqs:
   - q: "Should my child take foundation or higher tier GCSE Science?"
     a: "It comes down to where your child sits in Year 10 rather than where anyone would like them to end up. Higher tier reaches the top grades but scores very little below its floor, while foundation caps lower and makes the marks available far more reachable. A student close to the boundary is often right on higher with focused work on the specific topics that decide it. A student well below usually does better on foundation, where questions are winnable and confidence builds. A Year 10 diagnostic makes that a decision rather than a guess, and school should be part of it."
   - q: "How do you vet your GCSE Science tutors?"
-    a: "Around 3% of applicants come onto the platform. There is a written application, a check on subject knowledge, and then a structured interview in which the thing being judged is how clearly somebody explains an idea under pressure, because that is what actually decides whether a student improves. References are checked afterwards. Joe and Harry conduct the interviews themselves. In Science it matters especially, because explaining a mechanism clearly to someone who does not yet understand it is a different skill from knowing it."
+    a: "The pass rate sits around 3%. We ask for a written application, test subject knowledge, and then interview, and it is the interview that does the work. What is being judged there is not how much someone knows but whether they can tell when a student has stopped following and change tack. Joe and Harry do this personally. It is slow and it is the reason we can usually match a family properly on the first attempt rather than the second."
   - q: "Can my child have Science tutoring during the school holidays?"
     a: "Yes, and holidays are frequently where the most focused progress happens. In term time an hour has to fit around everything else a Year 10 or Year 11 is carrying, whereas a half-term or Easter block can take the extended answers, or one weak science, and work on them across several consecutive days. Science suits that because the content comes in blocks. Everything runs online, so scheduling stays flexible and families away from home keep their usual slot."
 # FAQ picks: G05, A02, A12, E01, C05

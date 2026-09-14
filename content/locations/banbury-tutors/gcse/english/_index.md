@@ -34,9 +34,9 @@ steps:
   - title: "Share your goals"
     body: "Year group, school, exam board, and whether Language, Literature or both are the worry. Name the set texts. Tell us roughly how much your child writes in a timed answer, because a short script and a weak script are different problems."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, matched on the board, the set texts, and on patience, because this particular gap gets worse when a student feels rushed. A free 15-minute video meeting comes before any paid session."
+    body: "We send two or three names the next morning, matched on the board, the set texts, and on patience, because this particular gap gets worse when a student feels rushed. A no-cost 15-minute video call with the tutor comes first."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard. Answers get planned, then written without stopping, then improved, so the writing and the editing stop competing. Work is marked on screen. Sessions are recorded. From £37/hr, cancel any week."
+    body: "Weekly hour-long sessions on Lessonspace, where tutor and student write on the same screen. Answers get planned, then written without stopping, then improved, so the writing and the editing stop competing. Work is marked on screen. Sessions are recorded. From £37 an hour, with nothing to sign."
 
 faqs:
   - q: "What grade do you need for A-Level English around Banbury?"
@@ -46,9 +46,9 @@ faqs:
   - q: "Why is my child struggling with GCSE English?"
     a: "There are two common causes and they need different work. The first is that the writing has never been taught as a skill separate from the reading, so a student who understands a text writes a description of it rather than an argument. The second, less discussed, is simply not producing enough words in the time, usually because every sentence is being edited before it is written. The first hour looks at a real timed answer, which makes it obvious which of the two you are dealing with."
   - q: "How do you vet your GCSE English tutors?"
-    a: "Around 3% of people who apply come onto the platform. There is a written application, a check on subject knowledge, and a structured interview where the thing being judged is how clearly somebody explains an idea under pressure, since that is what decides whether a student improves. References follow, and Joe and Harry interview personally. In English we also look hard for tutors who mark honestly, because vague encouragement on a piece of writing helps nobody."
+    a: "Roughly 3% get through. It runs in order: an application, a check that the subject knowledge is genuinely there, then a structured interview built around explaining something clearly while under a bit of pressure. The last stage is the one that decides it, because a tutor who cannot be understood in the first ten minutes of an hour is no use however well they know English. References are checked at the end, and the founders do the interviewing."
   - q: "How do I cancel or pause GCSE English tutoring?"
-    a: "There is no contract, so nothing formal needs cancelling. Sessions are paid one at a time, and pausing means telling your tutor, ideally a day or two before the next slot so they are not holding the time. Families pause for exam leave, for holidays, or because the thing they came for has been dealt with. Picking it up again later is a message rather than a rejoining process, and we keep you with the same tutor wherever their timetable allows."
+    a: "There is nothing to cancel, which surprises people. You are not on a plan and we are not holding a balance. Each session is paid for on its own, so stopping means telling your tutor you are stopping, ideally with a day or two of notice so they are not keeping the slot free for nobody. Families step away for exam leave, for a busy half-term, or because the problem they came about has been dealt with. Coming back later is a message, not a re-registration."
 # FAQ picks: G01, A04, A07, E01, C09
 
 reviews:

@@ -34,9 +34,9 @@ steps:
   - title: "Share your goals"
     body: "Year group, school, exam board, and whether Language, Literature or both are the concern. Name the set texts. If your child is in Year 10, say so, because the plan looks different and calmer than a Year 11 one."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, matched on the board and the specific set texts. A free 15-minute video meeting with the tutor comes before any paid session, which matters most when the work is going to run over a long stretch."
+    body: "A shortlist of two or three arrives the following day, matched on the board and the specific set texts. You get a free 15-minute video meeting with them before committing, which matters most when the work is going to run over a long stretch."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard, planning and writing real answers rather than talking about them. In Year 10 the emphasis is on building a repeatable paragraph shape and writing regularly. Sessions are recorded. From £37/hr, cancel any week."
+    body: "A standing weekly hour on Lessonspace, our own interactive whiteboard, planning and writing real answers rather than talking about them. In Year 10 the emphasis is on building a repeatable paragraph shape and writing regularly. Sessions are recorded. From £37 an hour, and nothing commits you past the next session."
 
 faqs:
   - q: "What is the hardest part of GCSE English for Norwich students?"
@@ -48,7 +48,7 @@ faqs:
   - q: "Can an English tutor help a child with dyslexia, ADHD or processing differences?"
     a: "Yes, and several tutors in the network work this way regularly. The help in English is structural: planning frames that keep an argument on track, a fixed paragraph shape so writing does not begin from nothing each time, and long answers broken into named parts. Where handwriting or stamina is the difficulty, building up gradually from Year 10 matters more than any single technique. Tell us on the consultation call what school already has in place, including exam access arrangements, and we match on it."
   - q: "How much does GCSE English tutoring cost in Norwich, and what is included?"
-    a: "From £37 an hour, with the rate depending on the tutor's experience and agreed before anything is booked. The hour covers the session, the preparation behind it, the practice material, the marking of work set between sessions, and a short note on what was covered. There is no joining fee, no materials charge and no contract, and sessions are paid one at a time. The consultation call and the 15-minute meeting with your chosen tutor both happen before you pay anything."
+    a: "Rates begin at £37 an hour. What that buys beyond the hour itself is the part worth knowing: the tutor prepares against your child's specification and set texts, supplies the practice, marks whatever was set between sessions, and writes a short note on what was covered. Nothing else is charged. No registration fee, no resource packs, no minimum block to commit to. You also pay nothing until after the consultation call and the introductory meeting with the tutor you choose."
 # FAQ picks: G05, A04, A15, E03, C02
 
 reviews:

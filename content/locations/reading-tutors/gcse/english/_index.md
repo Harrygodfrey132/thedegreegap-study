@@ -34,9 +34,9 @@ steps:
   - title: "Share your goals"
     body: "Year group, school, exam board, and whether Language, Literature or both are the worry. Name the set texts, including the poetry cluster if you know it. A marked essay with the teacher's comments on it is worth more to us than a report."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, shortlisted on the board and on the exact texts your child is studying rather than on English generally. A free 15-minute video meeting with the tutor comes before any paid session."
+    body: "A shortlist of two or three arrives the following day, shortlisted on the board and on the exact texts your child is studying rather than on English generally. Before anything is paid for there is a free 15-minute video call with the tutor."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard, planning and writing real answers rather than talking about them. Paragraphs are built on screen and marked against the real scheme while your child watches. Sessions are recorded. From £37/hr, cancel any week."
+    body: "Once a week, online, using Lessonspace, the whiteboard the tutor and your child share, planning and writing real answers rather than talking about them. Paragraphs are built on screen and marked against the real scheme while your child watches. Sessions are recorded. From £37 an hour, pause whenever you need to."
 
 faqs:
   - q: "Is GCSE English tutoring in Reading available in person or only online?"

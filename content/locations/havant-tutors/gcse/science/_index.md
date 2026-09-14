@@ -32,11 +32,11 @@ steps_heading: "Start online GCSE Science tutoring in Havant in 3 steps"
 steps_lead: "Profiles inside a day. Science splits into three, and knowing which one deserves the term is most of the value."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, exam board, and triple or combined. Then which of the three feels worst, and roughly when it started going wrong. A marked mock paper is worth more than a report, because the question numbers show where the marks are actually going."
+    body: "Tell us the year group, the school, the board, and whether it is triple or combined. Then which of the three feels worst, and roughly when it started going wrong. A marked mock paper is worth more than a report, because the question numbers show where the marks are actually going."
   - title: "Meet your match"
-    body: "Profiles the next day, shortlisted on the specification and on the science that needs the hours. Where a student has changed school or board partway we look for a tutor who has taught both, which counts for a lot in Science because the practicals are examined differently. Free 15-minute video meeting first."
+    body: "A shortlist of two or three arrives the following day, chosen on the board and on whichever science is costing the marks. Where a student has changed school or board partway we look for a tutor who has taught both, which counts for a lot in Science because the practicals are examined differently. A no-cost 15-minute video call with the tutor comes first first."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard. Real exam questions, method written out on screen, and missing topics taught properly from the beginning. Sessions are recorded so they can be revisited. From £37/hr, cancel any week."
+    body: "An hour a week, online, on Lessonspace with a whiteboard both sides can write on. Real exam questions, method written out on screen, and missing topics taught properly from the beginning. Sessions are recorded so they can be revisited. From £37 an hour, with nothing to sign."
 
 faqs:
   - q: "What grade do you need for A-Level Sciences near Havant?"

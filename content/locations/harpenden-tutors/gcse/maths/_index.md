@@ -32,11 +32,11 @@ steps_heading: "Start online GCSE Maths tutoring in Harpenden in 3 steps"
 steps_lead: "Profiles inside a day. If your child understands everything in the lesson and freezes on homework, that is the gap."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, exam board and tier, the grade now and the one that matters next. Tell us whether your child can follow a method but not begin one alone, because that is a specific gap with a specific fix."
+    body: "Tell us the year group, the school, the board and the tier, the grade now and the one that matters next. Tell us whether your child can follow a method but not begin one alone, because that is a specific gap with a specific fix."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, matched on the specification, the tier, and on temperament, because this work needs a tutor comfortable sitting in silence while a student thinks. A free 15-minute video meeting comes first."
+    body: "Two or three profiles within a day, matched on the specification, the tier, and on temperament, because this work needs a tutor comfortable sitting in silence while a student thinks. A no-cost 15-minute video call with the tutor comes first first."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard, where your child does most of the writing rather than watching. Hesitations get noted and worked on rather than talked over. Sessions are recorded. From £37/hr, cancel any week."
+    body: "A weekly hour on the shared Lessonspace whiteboard we built for this, where your child does most of the writing rather than watching. Hesitations get noted and worked on rather than talked over. Sessions are recorded. From £37 an hour, with nothing to sign."
 
 faqs:
   - q: "What grade do you need for A-Level Maths at sixth forms near Harpenden?"

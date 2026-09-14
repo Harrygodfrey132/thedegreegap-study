@@ -32,11 +32,11 @@ steps_heading: "Start online GCSE Maths tutoring in Norwich in 3 steps"
 steps_lead: "Profiles inside a day. The exam board is the first thing we confirm, because it changes what has to be memorised."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, exam board and tier, the grade now and the one that matters next. The board matters more here than parents expect, because it decides which formulae your child has to carry into the hall and which are printed for them."
+    body: "Tell us the year group, the school, the board and the tier, the grade now and the one that matters next. The board matters more here than parents expect, because it decides which formulae your child has to carry into the hall and which are printed for them."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, matched on the specification and tier. Tutors who know a board well know its formula sheet, its question style and where its papers traditionally get hard. A free 15-minute video meeting comes before any paid session."
+    body: "A day later you get two or three profiles, matched on the specification and tier. Tutors who know a board well know its formula sheet, its question style and where its papers traditionally get hard. Before anything is paid for there is a free 15-minute video call with the tutor."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard, with working written out on screen rather than done mentally. Recall of what is not printed gets built through short regular practice rather than one long list. Sessions are recorded. From £37/hr, cancel any week."
+    body: "Weekly hour-long sessions on Lessonspace, where tutor and student write on the same screen, with working written out on screen rather than done mentally. Recall of what is not printed gets built through short regular practice rather than one long list. Sessions are recorded. From £37/hr, cancel any week."
 
 faqs:
   - q: "What is the hardest topic in GCSE Maths for Norwich students?"
@@ -46,9 +46,9 @@ faqs:
   - q: "What happens in a typical GCSE Maths tutoring session?"
     a: "An hour in three parts. The first fifteen minutes are spent on the work set last week, marked properly so errors surface rather than being skimmed over. The middle half hour is teaching, aimed at whatever the diagnostic pointed at, with every step written out on the shared whiteboard rather than done in someone's head. The last fifteen minutes are exam questions on that topic, marked against the real scheme in front of your child. The next week's work is set at the end so it follows directly."
   - q: "How do you vet your GCSE Maths tutors?"
-    a: "Around 3% of people who apply come onto the platform. There is a written application, a subject knowledge check, then a structured interview where what is being assessed is how clearly somebody explains an idea under pressure, since that is what decides whether a student actually improves. References are checked afterwards. Joe and Harry interview personally rather than delegating it. Being strong at Maths and being able to teach it across a one-to-one hour are genuinely different skills."
+    a: "Around 3% of people who apply join the platform. Knowledge is the easy part to check and rarely the reason someone is turned down. What we are really testing at interview is explanation under pressure: can this person take a Maths idea apart and rebuild it for somebody who is lost, without making them feel stupid. Founders conduct the interviews, references follow, and nobody reaches a student without clearing both."
   - q: "What if my child does not want a tutor?"
-    a: "It is the most common worry parents bring, and it deserves handling gently rather than overriding. Most resistance comes before a student has met anybody, and is usually about what having a tutor seems to say about them rather than the hour itself. The free 15-minute video meeting exists for this: your child meets the tutor first and has a say in the match. Most students who were against the idea have changed their mind by the second or third session. If they still do not want it after that, stop."
+    a: "It is the most common worry parents bring, and it deserves handling gently rather than overriding. Most resistance comes before a student has met anybody, and is usually about what having a tutor seems to say about them rather than the hour itself. The There is a free 15-minute call with the tutor before anything is booked exists for this: your child meets the tutor first and has a say in the match. Most students who were against the idea have changed their mind by the second or third session. If they still do not want it after that, stop."
 # FAQ picks: G05, A02, A08, E01, C07
 
 reviews:

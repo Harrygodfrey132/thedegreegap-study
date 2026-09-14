@@ -32,11 +32,11 @@ steps_heading: "Start online GCSE Maths tutoring in Warwick in 3 steps"
 steps_lead: "Profiles inside a day. The earlier in the year this starts, the more of it can be rebuilding rather than patching."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, exam board and tier, the grade now and the one that matters next. Send a marked mock if you have one, because whether this is a twelve-week job or a six-week one is visible in which question numbers went wrong."
+    body: "Tell us the year group, the school, the board and the tier, the grade now and the one that matters next. Send a marked mock if you have one, because whether this is a twelve-week job or a six-week one is visible in which question numbers went wrong."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, matched on the specification, the tier and the kind of gap the paper points to. A free 15-minute video meeting with the tutor comes before any paid session, so your child has a say."
+    body: "Two or three suggestions land within twenty four hours, matched on the specification, the tier and the kind of gap the paper points to. Nothing gets booked until a free 15-minute video meeting has happened, so your child has a say."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard, with every step written out on screen. Work is set at the end of each session so the method gets used before the next one. Sessions are recorded. From £37/hr, cancel any week."
+    body: "Weekly hour-long sessions on Lessonspace, where tutor and student write on the same screen, with every step written out on screen. Work is set at the end of each session so the method gets used before the next one. Sessions are recorded. From £37/hr, cancel any week."
 
 faqs:
   - q: "What grade do you need for A-Level Maths at Warwick sixth forms?"

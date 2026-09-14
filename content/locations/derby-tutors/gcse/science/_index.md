@@ -32,11 +32,11 @@ steps_heading: "Start online GCSE Science tutoring in Derby in 3 steps"
 steps_lead: "Profiles inside a day. The most useful thing you can tell us is which practicals your child actually did rather than watched."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, exam board, and triple or combined. Then which of the three sciences feels worst. If there has been a change of school or teacher partway through, say so, because that is often where the practical gaps come from."
+    body: "Start with year group, school, board, and triple or combined. Then which of the three sciences feels worst. If there has been a change of school or teacher partway through, say so, because that is often where the practical gaps come from."
   - title: "Meet your match"
-    body: "Profiles the next day, shortlisted on the specification and on the science that needs the hours. Where a student has moved between boards we look for a tutor who has taught both, which counts in Science because the practicals are examined differently. Free 15-minute video meeting first."
+    body: "Two or three tutor profiles come back inside a day, chosen on the board and on whichever science is costing the marks. Where a student has moved between boards we look for a tutor who has taught both, which counts in Science because the practicals are examined differently. There is a free 15-minute call with the tutor before anything is booked first."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard. Real exam questions, method written out on screen, and each required practical taken apart into named variables and steps rather than described. Sessions are recorded. From £37/hr, cancel any week."
+    body: "A standing weekly hour on Lessonspace, our own interactive whiteboard. Real exam questions, method written out on screen, and each required practical taken apart into named variables and steps rather than described. Sessions are recorded. From £37 an hour, with nothing to sign."
 
 faqs:
   - q: "Is GCSE Science tutoring in Derby available in person or only online?"

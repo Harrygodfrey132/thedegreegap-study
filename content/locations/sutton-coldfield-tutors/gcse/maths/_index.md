@@ -34,9 +34,9 @@ steps:
   - title: "Share your goals"
     body: "Year group, school, exam board, current set and tier, and the grade that matters next. Tell us if the tier is still open or being reviewed, because the first session can be built around answering that with a real paper."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, matched on the specification and on experience teaching both tiers, which matters where the entry is still being decided. A free 15-minute video meeting comes before any paid session."
+    body: "Two or three tutor profiles come back inside a day, matched on the specification and on experience teaching both tiers, which matters where the entry is still being decided. A free 15-minute video introduction comes before the first paid hour."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard, with every step written out on screen. Where the tier is in question, work runs at both levels for the first weeks so the evidence keeps building. Sessions are recorded. From £37/hr, cancel any week."
+    body: "Weekly hour-long sessions on Lessonspace, where tutor and student write on the same screen, with every step written out on screen. Where the tier is in question, work runs at both levels for the first weeks so the evidence keeps building. Sessions are recorded. From £37 an hour, and nothing commits you past the next session."
 
 faqs:
   - q: "How does GCSE Maths performance in Sutton Coldfield compare to the national average?"

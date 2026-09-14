@@ -32,11 +32,11 @@ steps_heading: "Start online GCSE Science tutoring in Warwick in 3 steps"
 steps_lead: "Profiles inside a day. Look at the graph questions on your child's last paper, they are often the quickest marks available."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, exam board, and triple or combined. Which of the three feels worst is useful, and so is a marked mock, because the data questions sit in predictable places and it is obvious at a glance whether they were answered or skipped."
+    body: "Tell us the year group, the school, the board, and whether it is triple or combined. Which of the three feels worst is useful, and so is a marked mock, because the data questions sit in predictable places and it is obvious at a glance whether they were answered or skipped."
   - title: "Meet your match"
-    body: "Profiles the next day, shortlisted on the specification and on the science that needs the hours. A free 15-minute video meeting with the tutor comes before any paid session, so nobody commits before meeting."
+    body: "Profiles the next day, chosen on the board and on whichever science is costing the marks. Before anything is paid for there is a free 15-minute video call with the tutor, so nobody commits before meeting."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard. Graphs and tables get worked on screen, real exam questions get marked against the real scheme, and required practicals are broken into named parts. Sessions are recorded. From £37/hr, cancel any week."
+    body: "A weekly hour on the shared Lessonspace whiteboard we built for this. Graphs and tables get worked on screen, real exam questions get marked against the real scheme, and required practicals are broken into named parts. Sessions are recorded. From £37/hr, cancel any week."
 
 faqs:
   - q: "How does GCSE Science performance around Warwick compare to the national average?"
@@ -46,9 +46,9 @@ faqs:
   - q: "How much Science homework should my child do between tutoring sessions?"
     a: "Twenty to thirty minutes, and it should be exam questions rather than reading. Answering cold and then marking against the scheme builds what the paper actually tests, while re-reading notes builds the feeling of knowing, which does not transfer. Where data questions are the gap, two or three short graph questions a week does more than one long session. Most tutors set the work at the end of the hour so it follows directly from what was taught, and mark it before you next meet."
   - q: "How do you vet your GCSE Science tutors?"
-    a: "Around 3% of people who apply come onto the platform. There is a written application, a check on subject knowledge, then a structured interview where the thing being assessed is how clearly somebody explains an idea under pressure, because that is what decides whether a student improves. References follow, and Joe and Harry run the interviews themselves. In Science it matters especially, since explaining a mechanism to somebody who does not yet understand it is a different skill from knowing it."
+    a: "Roughly 3% make it onto the platform. Subject knowledge gets checked, but it is not the filter that matters, because most applicants for Science know the subject perfectly well. The filter is whether they can explain an idea to somebody who does not yet understand it and read whether it has landed. That gets tested live, by Joe or Harry rather than by anyone else, and references are taken before a tutor works with a family."
   - q: "What if my child does not want a tutor?"
-    a: "It is the most common worry parents raise and it is worth handling gently. Most resistance happens before a student has met anybody, and is usually about what having a tutor seems to say about them rather than the hour itself. The free 15-minute video meeting exists for this: your child meets the tutor first and has a say in the match. Most students who were against it have come round by the second or third session, because one adult with no class watching is not school-shaped."
+    a: "It is the most common worry parents raise and it is worth handling gently. Most resistance happens before a student has met anybody, and is usually about what having a tutor seems to say about them rather than the hour itself. The There is a free 15-minute call with the tutor before anything is booked exists for this: your child meets the tutor first and has a say in the match. Most students who were against it have come round by the second or third session, because one adult with no class watching is not school-shaped."
 # FAQ picks: G02, A06, A09, E01, C07
 
 reviews:

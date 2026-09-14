@@ -34,9 +34,9 @@ steps:
   - title: "Share your goals"
     body: "Year group, school, exam board, and triple or combined. Then the useful detail: which required practicals your child has done, and whether any were missed through absence or done in a group where somebody else held the equipment."
   - title: "Meet your match"
-    body: "Profiles the next day, shortlisted on the specification and on the science that needs the hours. Where a student has moved between boards we look for a tutor who has taught both, since the practicals are examined differently. Free 15-minute video meeting first."
+    body: "Two or three profiles within a day, chosen on the board and on whichever science is costing the marks. Where a student has moved between boards we look for a tutor who has taught both, since the practicals are examined differently. A no-cost 15-minute video call with the tutor comes first first."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard. Practicals get taken apart into named variables, apparatus and sources of error rather than described, and real past questions on each one are worked through. Sessions are recorded. From £37/hr, cancel any week."
+    body: "One hour a week on Lessonspace, the shared whiteboard we run every session on. Practicals get taken apart into named variables, apparatus and sources of error rather than described, and real past questions on each one are worked through. Sessions are recorded. From £37 an hour, with nothing to sign."
 
 faqs:
   - q: "What is the hardest part of GCSE Science for Norwich students?"
@@ -46,7 +46,7 @@ faqs:
   - q: "My child is in Year 10, is it too early to start GCSE Science tutoring?"
     a: "Year 10 is the better starting point for Science, more clearly than for most subjects, because the required practicals are spread across both years. A student working with a tutor in Year 10 can cover each practical close to when it is actually done in school, while the detail is fresh and the lab book is still to hand. Year 10 work is also calmer: rebuilding method rather than drilling papers, which suits a student who has begun to decide Science is not for them. Nothing is imminent, so the pressure is lower."
   - q: "How do you vet your GCSE Science tutors?"
-    a: "Around 3% of applicants come onto the platform. There is a written application, a subject knowledge check, and a structured interview in which the thing being judged is how clearly somebody explains an idea under pressure, because that is what decides whether a student improves. References are checked afterwards, and Joe and Harry conduct the interviews themselves. In Science it matters especially, since explaining a mechanism to somebody who does not yet understand it is a different skill from knowing it."
+    a: "Roughly 3% make it onto the platform. Subject knowledge gets checked, but it is not the filter that matters, because most applicants for Science know the subject perfectly well. The filter is whether they can explain an idea to somebody who does not yet understand it and read whether it has landed. That gets tested live, by Joe or Harry rather than by anyone else, and references are taken before a tutor works with a family."
   - q: "Can my child have Science tutoring during the school holidays?"
     a: "Yes, and holiday weeks often produce the most concentrated progress of the year. In term time an hour competes with everything else a Year 10 or Year 11 is carrying, while a half-term or Easter block can take the required practicals, or one weak science, and work through them across several consecutive days. Science suits that because its content comes in blocks. Everything runs online, so scheduling stays flexible and families away from home keep their usual slot."
 # FAQ picks: G05, A03, A04, E01, C05

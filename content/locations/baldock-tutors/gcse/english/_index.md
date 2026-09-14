@@ -34,9 +34,9 @@ steps:
   - title: "Share your goals"
     body: "Year group, school, exam board, and whether the worry is Language, Literature or both. Name the set texts, because schools choose differently and it decides the match. A marked essay with the teacher's comments is worth more to us than any report."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, matched on the exam board and on the specific texts your child is studying. A free 15-minute video meeting with the tutor before any paid session, which matters most where a student is unsure about the whole idea."
+    body: "Two or three suggestions land within twenty four hours, matched on the exam board and on the specific texts your child is studying. A no-cost 15-minute video call with the tutor comes first, which matters most where a student is unsure about the whole idea."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard, planning and writing real answers rather than talking about them. Paragraphs are built on screen and marked against the scheme while your child watches. Sessions are recorded. From £37/hr, cancel any week."
+    body: "One hour a week on Lessonspace, the shared whiteboard we run every session on, planning and writing real answers rather than talking about them. Paragraphs are built on screen and marked against the scheme while your child watches. Sessions are recorded. From £37 an hour, and no contract holds you to the next one."
 
 faqs:
   - q: "Is the GCSE English standard around Baldock similar to Cambridge or St Albans?"

@@ -32,11 +32,11 @@ steps_heading: "Start online GCSE Maths tutoring in Sevenoaks in 3 steps"
 steps_lead: "Profiles inside a day. In Maths the useful first question is which year the gap began, not which topic the class is covering now."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, exam board and tier, the current grade and the one that matters next. If you have a marked mock, send it. The pattern of which question numbers went wrong tells us more in five minutes than a term of reports will."
+    body: "The basics: year group, school, exam board, tier, the current grade and the one that matters next. If you have a marked mock, send it. The pattern of which question numbers went wrong tells us more in five minutes than a term of reports will."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, matched on the specification, the tier and the kind of gap the paper points to. A free 15-minute video meeting with the tutor comes before any paid session, so your child has a say in who they work with."
+    body: "Profiles the next day, matched on the specification, the tier and the kind of gap the paper points to. Nothing gets booked until They meet on a short free video call before any session is paid for has happened, so your child has a say in who they work with."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard, with working written out on screen rather than described aloud. Missing foundations get taught from the beginning rather than patched over. Sessions are recorded, so a method can be replayed halfway through homework. From £37/hr, cancel any week."
+    body: "One hour a week on Lessonspace, the shared whiteboard we run every session on, with working written out on screen rather than described aloud. Missing foundations get taught from the beginning rather than patched over. Sessions are recorded, so a method can be replayed halfway through homework. From £37 an hour, pause whenever you need to."
 
 faqs:
   - q: "What grade do you need for A-Level Maths at Sevenoaks sixth forms?"
@@ -46,7 +46,7 @@ faqs:
   - q: "My child is in Year 10, is it too early to start GCSE Maths tutoring?"
     a: "Year 10 is the best time, not too early. The content in Year 11 stacks directly on top of Year 10, so a gap closed now stops causing damage for the next eighteen months, whereas the same gap found in March of Year 11 has to be fixed while everything else is happening at once. Year 10 work also looks different: more rebuilding of method and less exam drilling, which is calmer and tends to suit students who have started to decide they are not a maths person. It is the cheapest version of this in every sense."
   - q: "How do you vet your GCSE Maths tutors?"
-    a: "Around 3% of applicants come onto the platform. It runs as a written application, a check on subject knowledge, then a structured interview where the thing being assessed is how clearly somebody explains an idea under pressure, since that is what decides whether a student actually improves. References are checked after that. Joe and Harry run the interviews themselves rather than delegating them. The reasoning is straightforward: someone can be excellent at Maths and still be no use across a one-to-one hour, and the interview is built to catch exactly that."
+    a: "About 3% of applicants end up on the platform. The written stage and the subject test remove some, but the interview removes most, because it asks someone to take an idea and make it land with a person who does not yet have it. That is a separate ability from knowing the material, and plenty of strong graduates do not have it. Joe and Harry run those interviews themselves rather than handing them to anyone else, and references are taken afterwards."
   - q: "How much does GCSE Maths tutoring cost in Sevenoaks, and what is included?"
     a: "From £37 an hour, with the rate depending on the tutor's experience and agreed before anything is booked. That hour covers the session itself plus the preparation behind it, the practice material, marking, and a short note afterwards on what was covered and what was set. There is no joining fee, no materials charge and no contract, and sessions are paid one at a time, so stopping is simply a matter of saying so. The free consultation call and the 15-minute meeting with your chosen tutor both come before you pay anything."
 # FAQ picks: G01, A11, A04, E01, C02

@@ -34,9 +34,9 @@ steps:
   - title: "Share your goals"
     body: "Year group, school, exam board, and whether Language, Literature or both are the problem. Name the set texts, because schools choose differently. If you have an essay with the teacher's marking on it, send that, it is the single most useful thing we can see."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, matched on the exam board and on the specific texts your child is studying. A free 15-minute video meeting with the tutor comes before any paid session, which matters most if your child is unconvinced."
+    body: "Two or three profiles the next day, matched on the exam board and on the specific texts your child is studying. Before anything is paid for there is a free 15-minute video call with the tutor, which matters most if your child is unconvinced."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard, spent planning and writing real answers rather than discussing them. Paragraphs get built on screen and marked against the scheme while your child watches. Sessions are recorded. From £37/hr, cancel any week."
+    body: "Weekly hour-long sessions on Lessonspace, where tutor and student write on the same screen, spent planning and writing real answers rather than discussing them. Paragraphs get built on screen and marked against the scheme while your child watches. Sessions are recorded. From £37 an hour, with nothing to sign."
 
 faqs:
   - q: "What is the hardest part of GCSE English for Peterborough students?"

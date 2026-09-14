@@ -32,11 +32,11 @@ steps_heading: "Start online GCSE Maths tutoring in Peterborough in 3 steps"
 steps_lead: "Profiles inside a day. Send a marked paper and we can usually see the pattern before the first session starts."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, exam board and tier, the grade now and the grade that matters next. A marked mock is the most useful thing you can send, because the difference between a blank question and a half-attempted one tells us what the term is for."
+    body: "Tell us the year group, the school, the board and the tier, the grade now and the grade that matters next. A marked mock is the most useful thing you can send, because the difference between a blank question and a half-attempted one tells us what the term is for."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, matched on the specification, the tier and the kind of gap the paper shows. A free 15-minute video meeting with the tutor comes before any paid session, so your child has a say in the match."
+    body: "A day later you get two or three profiles, matched on the specification, the tier and the kind of gap the paper shows. There is A free quarter-hour video meeting happens before anyone commits, so your child has a say in the match."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard, with every step written on screen rather than done mentally. Answers get marked against the real scheme in front of your child, so the value of written working stops being an argument. Sessions are recorded. From £37/hr, cancel any week."
+    body: "A weekly hour on the shared Lessonspace whiteboard we built for this, with every step written on screen rather than done mentally. Answers get marked against the real scheme in front of your child, so the value of written working stops being an argument. Sessions are recorded. £37 an hour upwards, paid one session at a time."
 
 faqs:
   - q: "Is the GCSE Maths standard in Peterborough similar to Cambridge?"
@@ -46,7 +46,7 @@ faqs:
   - q: "Should my child take foundation or higher tier GCSE Maths?"
     a: "It depends on where your child sits now rather than on where anyone hopes they will end up. Higher tier reaches the top grades but pays very little below its floor, while foundation caps lower and makes the marks on the paper considerably more reachable. A student near the boundary in Year 10 is often right on higher with focused work on the topics that decide it. A student well below usually does better on foundation, where the questions are winnable. A Year 10 diagnostic makes that a decision rather than a guess, and school should be in the conversation."
   - q: "How do you vet your GCSE Maths tutors?"
-    a: "Around 3% of people who apply come onto the platform. There is a written application, a check on subject knowledge, and then a structured interview where what is really being assessed is how clearly somebody explains an idea under pressure, because that is what decides whether a student improves. References are checked afterwards. Joe and Harry do the interviews themselves rather than handing them off. The reasoning is simple: being good at Maths and being able to teach it across a one-to-one hour are different skills."
+    a: "Around 3% of people who apply join the platform. Knowledge is the easy part to check and rarely the reason someone is turned down. What we are really testing at interview is explanation under pressure: can this person take a Maths idea apart and rebuild it for somebody who is lost, without making them feel stupid. Founders conduct the interviews, references follow, and nobody reaches a student without clearing both."
   - q: "Is GCSE Maths tutoring actually worth the money?"
     a: "It depends on the gap, and we would rather say that than pretend otherwise. Where a student is a grade or two below what their next step asks for, the hours usually justify themselves, because the grade is the thing standing between them and a route they want. Where a student is already close and needs practice rather than teaching, a short block aimed at one topic is better value than a year of weekly sessions. The consultation call exists to give the honest version, and sometimes that means saying tutoring is not what your child needs."
 # FAQ picks: G06, A09, A12, E01, C03

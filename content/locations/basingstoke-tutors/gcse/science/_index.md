@@ -32,11 +32,11 @@ steps_heading: "Start online GCSE Science tutoring in Basingstoke in 3 steps"
 steps_lead: "Two or three profiles inside a day. The first question is never how your child is doing at Science, it is which of the three papers the marks are leaving on."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, exam board, and triple or combined. Then which science feels worst and when that started, because something that began this year is a different job from something that has been true since Year 9. A photo of a marked mock is the most useful thing you can send us."
+    body: "The basics first: year group, school, exam board, triple or combined. Then which science feels worst and when that started, because something that began this year is a different job from something that has been true since Year 9. A photo of a marked mock is the most useful thing you can send us."
   - title: "Meet your match"
-    body: "Profiles the next day, chosen on the specification and on the science that needs the hours rather than on Science broadly. Free 15-minute video meeting with the tutor before any paid session, which matters most when a student is unconvinced about the idea."
+    body: "A shortlist of two or three arrives the following day, chosen on the specification and on the science that needs the hours rather than on Science broadly. There is a free 15-minute call with the tutor before anything is booked, which matters most when a student is unconvinced about the idea."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard. Real exam questions, working written out on screen rather than described, and gaps taught from the start rather than skimmed. Every session is recorded. From £37/hr, cancel any week."
+    body: "One hour a week on Lessonspace, the shared whiteboard we run every session on. Real exam questions, working written out on screen rather than described, and gaps taught from the start rather than skimmed. Every session is recorded. From £37 an hour, pause whenever you need to."
 
 faqs:
   - q: "Is GCSE Science tutoring in Basingstoke available in person or only online?"
@@ -48,7 +48,7 @@ faqs:
   - q: "Can a Science tutor help a child with dyslexia, ADHD or processing differences?"
     a: "Yes, and several tutors in the network do this regularly. In Science the practical help is mostly about reducing how much has to be held at once: a consistent layout for calculations so steps do not get lost, planning frames for the six-mark answers, and each required practical learned as named parts rather than a paragraph of prose. One-to-one suits this better than a class because the pace belongs to the student. Tell us on the call what school has in place, including exam access arrangements."
   - q: "Can I sit in on my child's Science sessions?"
-    a: "You can, and plenty of parents do for the first one to see how it works. Most students settle better without an audience though, so after that we usually suggest stepping back. What replaces it is more useful anyway: every session is recorded, so you can watch any part later, and the tutor sends a short note on what was covered and what was set for the week. If you want a proper conversation about progress, ask for one at any point."
+    a: "Most parents watch the first one and then stop, and that is usually the right instinct. What you lose by stepping back is less than it sounds, because the recording of every session is yours and the tutor writes a short note afterwards saying what was covered and what was set. What your child gains is the freedom to say they do not understand something without a parent hearing it, which in Science is where most of the useful work starts. If you would rather stay, nobody will mind."
 # FAQ picks: G03, A04, A06, E03, C06
 
 reviews:

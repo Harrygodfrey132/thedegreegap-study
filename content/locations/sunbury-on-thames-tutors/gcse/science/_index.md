@@ -32,11 +32,11 @@ steps_heading: "Start online GCSE Science tutoring in Sunbury-on-Thames in 3 ste
 steps_lead: "Profiles inside a day. Ask your child which of the three they would drop if they could, the answer is usually the one."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, exam board, and triple or combined. Then how the three compare, as separate impressions rather than an overall sense of how Science is going, because the average is exactly what hides the problem."
+    body: "We need the year group, the school, the exam board and the Science route. Then how the three compare, as separate impressions rather than an overall sense of how Science is going, because the average is exactly what hides the problem."
   - title: "Meet your match"
-    body: "Profiles the next day, shortlisted on the specification and on the single science that needs the hours rather than on Science broadly. A free 15-minute video meeting with the tutor comes before any paid session."
+    body: "Two or three profiles within a day, shortlisted on the specification and on the single science that needs the hours rather than on Science broadly. There is A free 15-minute video introduction comes before the first paid hour."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard. Real exam questions in the science that needs them, method written out on screen, and required practicals broken into named variables and steps. Sessions are recorded. From £37/hr, cancel any week."
+    body: "A weekly hour online over Lessonspace, our shared whiteboard. Real exam questions in the science that needs them, method written out on screen, and required practicals broken into named variables and steps. Sessions are recorded. From £37 an hour, and nothing commits you past the next session."
 
 faqs:
   - q: "Is GCSE Science tutoring around Sunbury-on-Thames available in person or only online?"
@@ -46,9 +46,9 @@ faqs:
   - q: "How can I tell which parts of GCSE Science my child is losing marks on?"
     a: "Start by splitting the three sciences apart rather than looking at the combined grade, because the average is what hides the problem. Then within the weakest one, sort the lost marks into recall questions, data and graph questions, and the longer six-mark answers. Almost every student is clearly worse at one of those three, and each needs different work. Ten minutes doing that with a marked paper is worth more than a term of general revision."
   - q: "How do you vet your GCSE Science tutors?"
-    a: "Around 3% of people who apply come onto the platform. There is a written application, a check on subject knowledge, then a structured interview where the thing being judged is how clearly somebody explains an idea under pressure, since that is what decides whether a student improves. References follow and Joe and Harry interview personally. In Science we often want real depth in one named science rather than broad coverage of all three, and the interview is built to find that."
+    a: "The pass rate sits around 3%. We ask for a written application, test subject knowledge, and then interview, and it is the interview that does the work. What is being judged there is not how much someone knows but whether they can tell when a student has stopped following and change tack. Joe and Harry do this personally. It is slow and it is the reason we can usually match a family properly on the first attempt rather than the second."
   - q: "How do I cancel or pause GCSE Science tutoring?"
-    a: "There is no contract, so nothing formal needs cancelling. Sessions are paid one at a time, and pausing means telling your tutor, ideally a day or two before the next slot so they are not holding the time. Families pause for exam leave, for holidays, or because the one science they came about has been brought level. Starting again later is a message rather than a rejoining process, and we keep you with the same tutor where their timetable allows."
+    a: "Families pause more often than they stop, and the usual reasons are exam leave, a holiday, or a term where the timetable simply will not take another commitment. None of that needs explaining to us. Give your tutor a day or two of warning so the slot is not held empty, and pick up whenever suits. Because sessions are paid one at a time there is no unused credit to chase and nothing to unwind, and we keep you with the same tutor if their availability allows."
 # FAQ picks: G03, A04, A06, E01, C09
 
 reviews:

@@ -32,11 +32,11 @@ steps_heading: "Start online GCSE Maths tutoring in Baldock in 3 steps"
 steps_lead: "Profiles inside a day. The question that decides everything is whether the marks are lost to method or to conditions."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, exam board and tier, plus the grade now and the grade that matters next. A marked mock is the most useful thing you can send, because clean working that still loses marks means something quite different from working that stops halfway."
+    body: "The basics: year group, school, exam board, tier, plus the grade now and the grade that matters next. A marked mock is the most useful thing you can send, because clean working that still loses marks means something quite different from working that stops halfway."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, matched on the specification, the tier, and whether the work is rebuilding method or rebuilding performance under time. A free 15-minute video meeting with the tutor comes before any paid session."
+    body: "Two or three profiles the next day, matched on the specification, the tier, and whether the work is rebuilding method or rebuilding performance under time. You get a free 15-minute video meeting with them before committing."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard, with working written out on screen. Where exam conditions are the issue, questions get done to time and marked in front of your child so the lost marks become visible. Sessions are recorded. From £37/hr, cancel any week."
+    body: "One hour a week on Lessonspace, the shared whiteboard we run every session on, with working written out on screen. Where exam conditions are the issue, questions get done to time and marked in front of your child so the lost marks become visible. Sessions are recorded. £37 an hour and up, with no minimum term."
 
 faqs:
   - q: "How does GCSE Maths performance around Baldock compare to the national average?"

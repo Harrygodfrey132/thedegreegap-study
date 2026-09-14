@@ -32,11 +32,11 @@ steps_heading: "Start online GCSE Science tutoring in High Wycombe in 3 steps"
 steps_lead: "Profiles inside a day. With triple Science the decision that matters is which of the three gets the term."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, exam board, and triple or combined. If it is triple, tell us how the three compare, because they almost never move together. A marked mock in the weakest one is worth more than a general description of how things are going."
+    body: "Year group and school, then the board and whether your child is on triple or combined. If it is triple, tell us how the three compare, because they almost never move together. A marked mock in the weakest one is worth more than a general description of how things are going."
   - title: "Meet your match"
-    body: "Profiles the next day, shortlisted on the specification and on the single science that needs the hours rather than on Science as a whole. A free 15-minute video meeting with the tutor comes before any paid session."
+    body: "Two or three suggestions land within twenty four hours, shortlisted on the specification and on the single science that needs the hours rather than on Science as a whole. A free quarter-hour video meeting happens before anyone commits."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard. Real exam questions with method written on screen, required practicals broken into named variables and steps, and missing content taught rather than revised. Sessions are recorded. From £37/hr, cancel any week."
+    body: "Weekly one-to-one hours over Lessonspace, our shared interactive whiteboard. Real exam questions with method written on screen, required practicals broken into named variables and steps, and missing content taught rather than revised. Sessions are recorded. From £37 an hour, with nothing to sign."
 
 faqs:
   - q: "Is the GCSE Science workload in High Wycombe different from nearby areas?"
@@ -46,9 +46,9 @@ faqs:
   - q: "Why is my child's Science predicted grade lower than I expected?"
     a: "Predicted grades come from mock performance plus a teacher's judgement, and in Science the gap is usually between understanding the ideas and writing them the way the mark scheme wants. A student who can explain a process perfectly out loud may be writing three correct statements with no links between them on a six-mark question, which scores far less than it feels like it should. On triple, the prediction may also be dragged down by one of the three. Reading the actual script rather than the grade sorts out which of those it is."
   - q: "How do you vet your GCSE Science tutors?"
-    a: "Around 3% of people who apply come onto the platform. There is a written application, a check on subject knowledge, then a structured interview where what is really being judged is how clearly somebody explains something under pressure, since that is what decides whether a student improves. References are checked afterwards, and Joe and Harry run the interviews themselves. For triple Science this matters, because we are often looking for real depth in one named science rather than general coverage of all three."
+    a: "Roughly 3% make it onto the platform. Subject knowledge gets checked, but it is not the filter that matters, because most applicants for Science know the subject perfectly well. The filter is whether they can explain an idea to somebody who does not yet understand it and read whether it has landed. That gets tested live, by Joe or Harry rather than by anyone else, and references are taken before a tutor works with a family."
   - q: "What if my child does not want a tutor?"
-    a: "It is the worry parents raise most, and it is worth handling gently. Most resistance happens before a student has met anyone and is about what having a tutor seems to say about them. That is what the free 15-minute video meeting is for: your child meets the tutor first and gets an opinion on the match. With triple Science there is often a second thing going on, which is that a capable student finds it hard to admit one of the three has got away from them. Naming it as a timetable problem rather than a personal one usually helps."
+    a: "It is the worry parents raise most, and it is worth handling gently. Most resistance happens before a student has met anyone and is about what having a tutor seems to say about them. That is what the You get a free 15-minute video meeting with them before committing is for: your child meets the tutor first and gets an opinion on the match. With triple Science there is often a second thing going on, which is that a capable student finds it hard to admit one of the three has got away from them. Naming it as a timetable problem rather than a personal one usually helps."
 # FAQ picks: G06, A03, A14, E01, C07
 
 reviews:

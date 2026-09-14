@@ -34,9 +34,9 @@ steps:
   - title: "Share your goals"
     body: "Year group, school, exam board, and triple or combined. Then the question that matters most: which of the three feels worst, and whether that is recent or has been true since Year 9. A marked mock beats a report every time, because the question numbers show where marks are going."
   - title: "Meet your match"
-    body: "Profiles the next day, chosen on the specification and on the science that needs the hours rather than on Science as a whole. A free 15-minute video meeting with the tutor comes before any paid session, so nobody is committed before they have met."
+    body: "A day later you get two or three profiles, chosen on the specification and on the science that needs the hours rather than on Science as a whole. There is Your child meets the tutor on a free 15-minute video call first, so nobody is committed before they have met."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard. Real exam questions, method written out on screen rather than talked through, and anything missing taught from the start rather than revised over. Every session is recorded. From £37/hr, cancel any week."
+    body: "Weekly hour-long sessions on Lessonspace, where tutor and student write on the same screen. Real exam questions, method written out on screen rather than talked through, and anything missing taught from the start rather than revised over. Every session is recorded. From £37 an hour, and nothing commits you past the next session."
 
 faqs:
   - q: "How does GCSE Science performance around Sevenoaks compare to the national average?"

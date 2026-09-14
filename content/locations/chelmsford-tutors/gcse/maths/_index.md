@@ -32,11 +32,11 @@ steps_heading: "Start online GCSE Maths tutoring in Chelmsford in 3 steps"
 steps_lead: "Profiles inside a day, and an honest answer on the call about whether tutoring is the right tool at all."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, exam board and tier, the grade now and the one that matters next. Send a marked mock if you have one. Whether the working is clean-but-wrong or simply absent is the single most useful thing on the page."
+    body: "The basics: year group, school, exam board, tier, the grade now and the one that matters next. Send a marked mock if you have one. Whether the working is clean-but-wrong or simply absent is the single most useful thing on the page."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, matched on the specification, the tier and whether the work is rebuilding method or building accuracy under time. A free 15-minute video meeting with the tutor comes before any paid session."
+    body: "Two or three profiles within a day, matched on the specification, the tier and whether the work is rebuilding method or building accuracy under time. They meet on a short free video call before any session is paid for."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard, with every step written on screen. Where the gap is accuracy, papers get done to time and marked in front of your child. Where it is method, topics are rebuilt from the beginning. Sessions are recorded. From £37/hr, cancel any week."
+    body: "Weekly hour-long sessions on Lessonspace, where tutor and student write on the same screen, with every step written on screen. Where the gap is accuracy, papers get done to time and marked in front of your child. Where it is method, topics are rebuilt from the beginning. Sessions are recorded. From £37 an hour, with nothing to sign."
 
 faqs:
   - q: "Is the GCSE Maths standard in Chelmsford similar to nearby areas?"
@@ -44,11 +44,11 @@ faqs:
   - q: "How many GCSE Maths tutoring sessions does it take to improve a grade?"
     a: "Eight to twelve weekly sessions for a band of movement is the usual frame, provided practice is happening in between. It goes faster where the gap is exam technique, because habits change quickly once a student has seen a mark scheme applied to their own work. It goes slower where the gap runs back two or three years, since the rebuilding has to happen before the marks follow. The first session is a diagnostic and the plan from session two follows what it finds rather than a fixed programme."
   - q: "How do I know if my child needs a Maths tutor or just more revision?"
-    a: "Look at the working on a recent past paper rather than at the grade. Clean, organised working with small errors and unfinished questions at the end points to accuracy and pace, and more timed practice marked honestly may be enough on its own. Working that stops partway through, or questions left blank, points to a method gap, and that is where a tutor is genuinely faster than anything a student can do alone. If your child is already scoring well across mocks and simply wants stretch, targeted practice beats a full programme."
+    a: "The honest signal is whether effort is already being made without result. A student who is not revising at all does not need a tutor yet, they need a routine, and we will say so on the call. A student who has genuinely put in the hours across two terms and whose grade has not moved has a method problem rather than a motivation one, and that is precisely what one-to-one fixes. The distinction matters because tutoring on top of no revision tends to produce one good hour a week and nothing else."
   - q: "Can a Maths tutor help a child with dyslexia, ADHD or processing differences?"
     a: "Yes, and a number of tutors in the network do this regularly. In Maths most of the practical help is about reducing load: a consistent layout so steps do not get lost, multi-step questions broken into named stages, and one method worked until it is automatic rather than three covered in an hour. Where exam conditions are the difficulty, timed practice is introduced gradually rather than imposed. Tell us on the consultation call what school already has in place, including any exam access arrangements, and we match accordingly."
   - q: "What happens if the tutor is not the right fit for my child?"
-    a: "You meet them first, free, for fifteen minutes on video before anything is paid for, and plenty of families use that to rule somebody out. If the first paid session still does not feel right, tell us and we will move your child to a different tutor without charging for the change. Nobody has to justify it. Around 3% of applicants come onto the platform, so there is enough depth to offer a genuinely different kind of match rather than a near-identical one."
+    a: "Nothing awkward, and no cost. The introductory video call exists so most mismatches are caught before any money is involved, and families do rule people out at that stage, which is what it is for. If it takes a paid session to realise, tell us and the next tutor is arranged without a charge for the change and without anybody asking your child to justify it. With roughly 3% of applicants on the platform there is enough range to find a genuinely different kind of teacher rather than a near-identical one."
 # FAQ picks: G06, A01, A10, E03, C01
 
 reviews:

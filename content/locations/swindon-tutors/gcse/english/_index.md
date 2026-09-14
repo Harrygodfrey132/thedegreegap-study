@@ -34,9 +34,9 @@ steps:
   - title: "Share your goals"
     body: "Year group, school, exam board, and whether Language, Literature or both are the worry. Name the set texts. A marked mock is worth more than a report, and we look at the last answer first because that is where pacing shows."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, matched on the exam board and the actual set texts your child is studying. A free 15-minute video meeting with the tutor comes before any paid session, so your child has a say."
+    body: "A day later you get two or three profiles, matched on the exam board and the actual set texts your child is studying. Nothing gets booked until a free 15-minute video meeting has happened, so your child has a say."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard, planning and writing real answers against a clock rather than discussing them. Work is marked on screen while your child watches. Sessions are recorded. From £37/hr, cancel any week."
+    body: "One hour a week on Lessonspace, the shared whiteboard we run every session on, planning and writing real answers against a clock rather than discussing them. Work is marked on screen while your child watches. Sessions are recorded. From £37 an hour, and nothing commits you past the next session."
 
 faqs:
   - q: "Is GCSE English tutoring in Swindon available in person or only online?"

@@ -32,11 +32,11 @@ steps_heading: "Start online GCSE Maths tutoring in High Wycombe in 3 steps"
 steps_lead: "Profiles inside a day. The useful question is when Maths stopped making sense, not which topic the class is on."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, exam board and tier, plus the grade now and the one that matters next. Then the thing that helps most: roughly when your child started saying they were bad at Maths. That date usually points straight at the topic."
+    body: "Tell us the year group, the school, the board and the tier, plus the grade now and the one that matters next. Then the thing that helps most: roughly when your child started saying they were bad at Maths. That date usually points straight at the topic."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, matched on the specification and tier, and on temperament as much as anything, because a student who has decided they cannot do Maths needs a particular kind of patience. Free 15-minute video meeting before any paid session."
+    body: "A day later you get two or three profiles, matched on the specification and tier, and on temperament as much as anything, because a student who has decided they cannot do Maths needs a particular kind of patience. A no-cost 15-minute video call with the tutor comes first."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard, with every step written on screen. Early sessions deliberately finish questions your child would have skipped, because that is what shifts the belief. Sessions are recorded. From £37/hr, cancel any week."
+    body: "A weekly hour online over Lessonspace, our shared whiteboard, with every step written on screen. Early sessions deliberately finish questions your child would have skipped, because that is what shifts the belief. Sessions are recorded. From £37 an hour, and nothing commits you past the next session."
 
 faqs:
   - q: "What is the hardest topic in GCSE Maths for High Wycombe students?"

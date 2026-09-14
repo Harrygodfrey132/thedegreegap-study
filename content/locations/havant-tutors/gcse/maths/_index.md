@@ -32,11 +32,11 @@ steps_heading: "Start online GCSE Maths tutoring in Havant in 3 steps"
 steps_lead: "Profiles inside a day. In Maths the first job is finding which year the gap started, not which topic the class is on now."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, exam board and tier, plus the current grade and the one that matters for September. If you have a marked mock, send it. The pattern of which question numbers went wrong tells us more in five minutes than a term of reports does."
+    body: "We need year group, school, exam board and which tier, plus the current grade and the one that matters for September. If you have a marked mock, send it. The pattern of which question numbers went wrong tells us more in five minutes than a term of reports does."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, matched on the specification, the tier and the kind of gap the paper points at. A free 15-minute video meeting with the tutor comes before any paid session, so your child meets them before committing."
+    body: "Two or three profiles within a day, matched on the specification, the tier and the kind of gap the paper points at. There is You get a free 15-minute video meeting with them before committing, so your child meets them before committing."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard, with the working written out on screen rather than talked through. Anything missing gets taught from the start rather than patched. Sessions are recorded so a method can be watched again mid-homework. From £37/hr, cancel any week."
+    body: "One hour a week on Lessonspace, the shared whiteboard we run every session on, with the working written out on screen rather than talked through. Anything missing gets taught from the start rather than patched. Sessions are recorded so a method can be watched again mid-homework. From £37 an hour, and no contract holds you to the next one."
 
 faqs:
   - q: "How does GCSE Maths performance in Havant compare to the national average?"
@@ -46,7 +46,7 @@ faqs:
   - q: "Should my child take foundation or higher tier GCSE Maths?"
     a: "Higher tier reaches the top grades but pays very little below its floor, while foundation caps lower and makes the marks on the paper far more reachable. The right answer depends on where your child is sitting in Year 10 rather than on what anyone hopes for. A student near the boundary is often right on higher with focused preparation on the topics that decide it. A student well below usually does better on foundation, where the questions are winnable and confidence builds. A Year 10 diagnostic turns that into a decision rather than a guess, and school should be part of the conversation too."
   - q: "How do you vet your GCSE Maths tutors?"
-    a: "Around 3% of people who apply come onto the platform. It runs in stages: a written application, a check on subject knowledge, and then a structured interview where the thing being judged is how clearly somebody explains an idea while under pressure, because that is what decides whether a student improves. References follow. Joe and Harry do the interviews themselves rather than handing it off. The reasoning is simple enough: a tutor who knows Maths but cannot make it land is no use for an hour a week."
+    a: "About three in every hundred applicants come through. There is an application form, a subject knowledge check and a live interview, and the interview is deliberately uncomfortable, because teaching one-to-one is uncomfortable when a student is stuck and the clock is going. Someone who can stay clear in that moment is worth a great deal. Harry and Joe interview every one of them, which is slower than delegating it and produces better matches."
   - q: "Can I do GCSE Maths tutoring on a budget?"
     a: "Yes, and the usual way is to be deliberate about timing rather than buying more hours. One weekly session through Year 10 does more than two a week started in April, because the gap has time to close before Year 11 content stacks on top of it. Another approach is a short block, six to eight weekly sessions aimed at a single topic area that the mock shows is doing the damage, then stopping. Sessions are paid one at a time with no contract, so adding a second hour only for the weeks before mocks is straightforward."
 # FAQ picks: G02, A11, A12, E01, C04

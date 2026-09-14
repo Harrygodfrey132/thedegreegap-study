@@ -34,9 +34,9 @@ steps:
   - title: "Share your goals"
     body: "Year group, school, exam board, and whether Language, Literature or both are the worry. Name the set texts. A marked essay with the teacher's comments on it tells us more than any report, because the shape of the argument is visible on the page."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, matched on the board and the specific texts your child is studying. A free 15-minute video meeting with the tutor comes before any paid session."
+    body: "We send two or three names the next morning, matched on the board and the specific texts your child is studying. Before anything is paid for there is a free 15-minute video call with the tutor."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard. Answers get planned on screen before they are written, then written to time and marked against the real scheme while your child watches. Sessions are recorded. From £37/hr, cancel any week."
+    body: "Once a week, online, using Lessonspace, the whiteboard the tutor and your child share. Answers get planned on screen before they are written, then written to time and marked against the real scheme while your child watches. Sessions are recorded. From £37 an hour, and nothing commits you past the next session."
 
 faqs:
   - q: "Is GCSE English tutoring in Warwick available in person or only online?"

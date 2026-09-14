@@ -32,11 +32,11 @@ steps_heading: "Start online GCSE Science tutoring in Swindon in 3 steps"
 steps_lead: "Profiles inside a day. How your child currently revises Science usually explains most of the gap on its own."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, exam board, and triple or combined. Tell us how your child revises Science at the moment, honestly, because that answer often explains the grade. Which of the three feels worst is the other thing worth knowing."
+    body: "Year group and school, then the board and whether your child is on triple or combined. Tell us how your child revises Science at the moment, honestly, because that answer often explains the grade. Which of the three feels worst is the other thing worth knowing."
   - title: "Meet your match"
-    body: "Profiles the next day, shortlisted on the specification and on the science that needs the hours rather than on Science in general. Free 15-minute video meeting with the tutor before any paid session."
+    body: "Two or three suggestions land within twenty four hours, narrowed by specification and by which of the three is behind rather than on Science in general. A free 15-minute video introduction comes before the first paid hour."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard. Exam questions from the start, marked against the real scheme in front of your child, with method written out on screen. Work between sessions is set at the end so it follows what was taught. Sessions are recorded. From £37/hr, cancel any week."
+    body: "Weekly one-to-one hours over Lessonspace, our shared interactive whiteboard. Exam questions from the start, marked against the real scheme in front of your child, with method written out on screen. Work between sessions is set at the end so it follows what was taught. Sessions are recorded. From £37 an hour, pause whenever you need to."
 
 faqs:
   - q: "How does GCSE Science performance in Swindon compare to the national average?"
@@ -46,7 +46,7 @@ faqs:
   - q: "How much Science homework should my child do between tutoring sessions?"
     a: "Twenty to thirty minutes, and it should be exam questions rather than reading. Answering a question cold and then marking it against the scheme builds the thing the paper tests; re-reading notes builds the feeling of knowing, which is not the same and does not transfer. Where required practicals are the gap, short recall work on variables, apparatus and sources of error a few times a week does more than one long session. Most tutors set the work at the end of the hour so it lines up with what was just taught."
   - q: "Can a Science tutor help a child with dyslexia, ADHD or processing differences?"
-    a: "Yes, and several tutors in the network do this regularly. In Science the practical help is about reducing how much has to be held at once: a consistent layout for calculations, planning frames for the six-mark answers, and each required practical learned as named parts rather than a paragraph of prose. One-to-one suits this better than a class because the pace belongs to the student. Tell us on the call what school already has in place, including any exam access arrangements, and we match accordingly."
+    a: "Yes. The adjustments that work in Science tend to be concrete rather than general: writing calculations in a fixed layout every time so nothing is lost mid-question, learning practicals as a numbered list of variables and steps instead of a paragraph, and using the whiteboard to show a process as a diagram rather than a block of text. Several tutors do this routinely. The most useful thing you can do is tell us on the call what already works at school, including any access arrangements, rather than leaving us to discover it."
   - q: "Can I sit in on my child's Science sessions?"
     a: "You can, and plenty of parents do for the first one to see how it works. Most students settle better without an audience though, so after that we usually suggest stepping back. What replaces it is more useful anyway: every session is recorded, so you can watch any part of it later, and the tutor sends a short note on what was covered and what was set for the week. If you want a proper conversation about progress, ask for one at any point rather than waiting."
 # FAQ picks: G02, A08, A09, E03, C06

@@ -34,9 +34,9 @@ steps:
   - title: "Share your goals"
     body: "Year group, school, exam board, and whether the worry is Language, Literature or both. Name the set texts. Most importantly, send a marked essay if you have one, because the teacher's annotations usually point at the objective without naming it."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, matched on the board and the specific texts your child is studying. A free 15-minute video meeting with the tutor comes before any paid session, so your child has a say in who they work with."
+    body: "We send two or three names the next morning, matched on the board and the specific texts your child is studying. They meet on a short free video call before any session is paid for, so your child has a say in who they work with."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard, planning and writing real answers. Paragraphs get built on screen and marked against the actual objectives in front of your child, so the thing being fixed is visible rather than abstract. Sessions are recorded. From £37/hr, cancel any week."
+    body: "A weekly hour on the shared Lessonspace whiteboard we built for this, planning and writing real answers. Paragraphs get built on screen and marked against the actual objectives in front of your child, so the thing being fixed is visible rather than abstract. Sessions are recorded. From £37 an hour, pause whenever you need to."
 
 faqs:
   - q: "Is the GCSE English standard in High Wycombe similar to nearby areas?"
@@ -48,7 +48,7 @@ faqs:
   - q: "What grade improvements have your English tutors actually delivered?"
     a: "We do not promise grades, because nobody honestly can. What we can describe is what usually happens. Where the problem is one assessment objective or timing, a term of weekly hours moving a student a full band is common, since the fix is narrow and the marks are concentrated in one place. Where a student finds the texts themselves genuinely hard, the same term brings visible movement without the full band, and a good tutor says so within the first few weeks rather than at the end. The reviews here are real and unedited."
   - q: "How quickly can my child start GCSE English tutoring in High Wycombe?"
-    a: "Usually inside a week. The free consultation call with Joe or Harry can normally happen within a day or two, and two or three tutor profiles follow within twenty four hours of it. Then a free 15-minute video meeting with whichever tutor you like, and the first paid session typically the week after. Nothing is paid until your child has met them. If the timing is tight, mock season or a looming application, say so on the call, because it is often possible to move faster."
+    a: "Usually inside a week. The free consultation call with Joe or Harry can normally happen within a day or two, and two or three tutor profiles follow within twenty four hours of it. Then You get a free 15-minute video meeting with them before committing with whichever tutor you like, and the first paid session typically the week after. Nothing is paid until your child has met them. If the timing is tight, mock season or a looming application, say so on the call, because it is often possible to move faster."
 # FAQ picks: G06, A06, A07, E05, C10
 
 reviews:

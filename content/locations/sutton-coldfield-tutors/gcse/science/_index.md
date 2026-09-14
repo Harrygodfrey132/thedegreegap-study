@@ -32,11 +32,11 @@ steps_heading: "Start online GCSE Science tutoring in Sutton Coldfield in 3 step
 steps_lead: "Profiles inside a day. If your child can recite the content and still loses the long questions, this is usually the reason."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, exam board, and triple or combined. Tell us how your child revises, because flashcards and recall apps point at one problem while blank six-mark answers point at another. Which of the three sciences feels worst is useful too."
+    body: "Tell us the year group, the school, the board, and whether it is triple or combined. Tell us how your child revises, because flashcards and recall apps point at one problem while blank six-mark answers point at another. Which of the three sciences feels worst is useful too."
   - title: "Meet your match"
-    body: "Profiles the next day, shortlisted on the specification and on the science that needs the hours. A free 15-minute video meeting with the tutor comes before any paid session, so nobody commits before meeting."
+    body: "We send two or three names the next morning, narrowed by specification and by which of the three is behind. You get a free 15-minute video meeting with them before committing, so nobody commits before meeting."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard. Processes get narrated and drawn on screen rather than listed, then tested with real six-mark questions marked against the scheme. Sessions are recorded. From £37/hr, cancel any week."
+    body: "A weekly hour online over Lessonspace, our shared whiteboard. Processes get narrated and drawn on screen rather than listed, then tested with real six-mark questions marked against the scheme. Sessions are recorded. From £37 an hour, and no contract holds you to the next one."
 
 faqs:
   - q: "Is the GCSE Science standard in Sutton Coldfield similar to nearby areas?"
@@ -46,7 +46,7 @@ faqs:
   - q: "How much Science homework should my child do between tutoring sessions?"
     a: "Twenty to thirty minutes, and it should be exam questions rather than reading or flashcards. Answering a six-mark question cold and marking it against the scheme builds exactly the skill the paper tests, while recall apps build the feeling of knowing, which does not transfer to the longer questions. Where practicals are the gap, short recall work on variables, apparatus and sources of error a few times a week does more than one long session. Tutors set the work at the end of the hour."
   - q: "How do you vet your GCSE Science tutors?"
-    a: "Around 3% of people who apply come onto the platform. There is a written application, a check on subject knowledge, then a structured interview where the thing being judged is how clearly somebody explains an idea under pressure, since that is what decides whether a student improves. References follow and Joe and Harry interview personally. For this kind of work it matters especially, because narrating a mechanism clearly to someone who does not yet understand it is the whole job."
+    a: "The pass rate sits around 3%. We ask for a written application, test subject knowledge, and then interview, and it is the interview that does the work. What is being judged there is not how much someone knows but whether they can tell when a student has stopped following and change tack. Joe and Harry do this personally. It is slow and it is the reason we can usually match a family properly on the first attempt rather than the second."
   - q: "Can my child have Science tutoring during the school holidays?"
     a: "Yes, and holiday weeks are often where the most focused progress happens. In term time an hour competes with everything else a Year 10 or Year 11 is carrying. A half-term or Easter block can take one science and rebuild the mechanisms across several consecutive days, which suits Science because the content comes in connected blocks rather than isolated facts. Everything runs online, so scheduling stays flexible and families away from home keep their usual slot."
 # FAQ picks: G06, A07, A09, E01, C05

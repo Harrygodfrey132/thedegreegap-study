@@ -34,9 +34,9 @@ steps:
   - title: "Share your goals"
     body: "Year group, school, exam board, and whether your child is on triple or combined. Then the part that matters most: which of the three sciences feels worst, and whether that is a recent thing or has been true since Year 9. If you have a mock paper, the question numbers tell us more than the grade does."
   - title: "Meet your match"
-    body: "Profiles the next day, shortlisted on the specification and on the science that actually needs the hours rather than on Science in general. A free 15-minute video meeting with the tutor comes before any paid session, so your child meets them first."
+    body: "We send two or three names the next morning, shortlisted on the specification and on the science that actually needs the hours rather than on Science in general. Your child meets the tutor on a free 15-minute video call first, so your child meets them first."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard, working through real exam questions with the method written out rather than described. Missing topics get taught properly rather than revised. Sessions are recorded, so anything can be watched again. From £37/hr, cancel any week."
+    body: "A weekly hour on the shared Lessonspace whiteboard we built for this, working through real exam questions with the method written out rather than described. Missing topics get taught properly rather than revised. Sessions are recorded, so anything can be watched again. £37 an hour and up, with no minimum term."
 
 faqs:
   - q: "What is the hardest topic in GCSE Science for Tunbridge Wells students?"

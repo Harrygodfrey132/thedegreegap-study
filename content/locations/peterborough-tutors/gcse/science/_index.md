@@ -32,11 +32,11 @@ steps_heading: "Start online GCSE Science tutoring in Peterborough in 3 steps"
 steps_lead: "Two or three profiles inside a day. If the wrong answers are calculations rather than explanations, that changes the whole plan."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, exam board, and triple or combined. Tell us which of the three sciences feels worst, and if you know it, how your child is finding GCSE Maths, because the two are connected far more often than parents expect."
+    body: "Year group and school, then the board and whether your child is on triple or combined. Tell us which of the three sciences feels worst, and if you know it, how your child is finding GCSE Maths, because the two are connected far more often than parents expect."
   - title: "Meet your match"
-    body: "Profiles the next day, shortlisted on the specification and on the science that needs the hours. Where the gap looks like calculation rather than content we look for a tutor comfortable teaching both sides of that. Free 15-minute video meeting before any paid session."
+    body: "Two or three profiles within a day, chosen on the board and on whichever science is costing the marks. Where the gap looks like calculation rather than content we look for a tutor comfortable teaching both sides of that. Nothing gets booked until a free 15-minute video meeting has happened."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard. Real exam questions with the working written out on screen, equations rearranged step by step rather than quoted, and required practicals broken into named parts. Sessions are recorded. From £37/hr, cancel any week."
+    body: "Weekly hour-long sessions on Lessonspace, where tutor and student write on the same screen. Real exam questions with the working written out on screen, equations rearranged step by step rather than quoted, and required practicals broken into named parts. Sessions are recorded. From £37 an hour, pause whenever you need to."
 
 faqs:
   - q: "How does GCSE Science performance in Peterborough compare to the national average?"
@@ -46,7 +46,7 @@ faqs:
   - q: "How long is each GCSE Science tutoring session?"
     a: "Most are sixty minutes, which suits Science well because the content comes in blocks that fit an hour. Some families book ninety minutes in the run-up to exams, especially where a student is doing triple and wants to cover more than one science in a sitting, though an hour a week done properly beats a longer session done tiredly. For younger students, or where concentration is genuinely the limiting factor, forty-five minutes sometimes works better. It is worth raising on the consultation call rather than defaulting."
   - q: "How do you vet your GCSE Science tutors?"
-    a: "Around 3% of applicants come onto the platform. A written application, a check on subject knowledge, then a structured interview where the thing being judged is how clearly somebody explains an idea under pressure, since that is what actually decides whether a student improves. References follow. Joe and Harry interview personally. In Science this matters especially, because explaining a mechanism to somebody who does not yet understand it is a genuinely different skill from knowing the mechanism."
+    a: "Roughly 3% make it onto the platform. Subject knowledge gets checked, but it is not the filter that matters, because most applicants for Science know the subject perfectly well. The filter is whether they can explain an idea to somebody who does not yet understand it and read whether it has landed. That gets tested live, by Joe or Harry rather than by anyone else, and references are taken before a tutor works with a family."
   - q: "Can I do GCSE Science tutoring on a budget?"
     a: "Yes, mostly by being deliberate about when rather than buying more hours. One weekly session through Year 10 achieves more than two a week started in April, because the gap closes before Year 11 content stacks on top. Another route is a short block, six to eight weekly sessions aimed at the one science the mock shows is doing the damage, then stopping. Sessions are paid one at a time with no contract, so adding a second hour only for the weeks before mocks is straightforward."
 # FAQ picks: G02, A08, A15, E01, C04

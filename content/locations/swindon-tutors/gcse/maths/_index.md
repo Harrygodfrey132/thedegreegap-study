@@ -32,11 +32,11 @@ steps_heading: "Start online GCSE Maths tutoring in Swindon in 3 steps"
 steps_lead: "Profiles inside a day. Bring one marked paper and the first session can tell you where the term should go."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, exam board and tier, the grade now and the one that matters next. A marked mock is the most useful thing you can send, because where on the paper the marks went decides everything that follows."
+    body: "The basics: year group, school, exam board, tier, the grade now and the one that matters next. A marked mock is the most useful thing you can send, because where on the paper the marks went decides everything that follows."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, matched on the specification, the tier and whether the work is specific topics or general accuracy. A free 15-minute video meeting with the tutor before any paid session."
+    body: "We send two or three names the next morning, matched on the specification, the tier and whether the work is specific topics or general accuracy. Your child meets the tutor on a free 15-minute video call first."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard, with working written on screen. Sessions target the block of the paper that is losing marks rather than working through the specification in order. Sessions are recorded. From £37/hr, cancel any week."
+    body: "A weekly hour online over Lessonspace, our shared whiteboard, with working written on screen. Sessions target the block of the paper that is losing marks rather than working through the specification in order. Sessions are recorded. From £37 an hour, and nothing commits you past the next session."
 
 faqs:
   - q: "What is the hardest part of GCSE Maths for Swindon students?"
@@ -46,7 +46,7 @@ faqs:
   - q: "What happens in a typical GCSE Maths tutoring session?"
     a: "An hour in three parts. The first fifteen minutes are spent on the work set last week, marked properly so mistakes surface rather than being glossed over. The middle half hour is the actual teaching, aimed at whichever block of the paper the diagnostic pointed at, with every step written out on the shared whiteboard rather than done mentally. The final fifteen minutes are exam questions on that topic, marked against the real scheme in front of your child. Homework is set at the end so it follows directly from what was covered."
   - q: "How do you vet your GCSE Maths tutors?"
-    a: "Around 3% of people who apply come onto the platform. There is a written application, a subject knowledge check, and a structured interview where the thing being assessed is how clearly somebody explains an idea under pressure, because that is what decides whether a student improves. References are checked afterwards. Joe and Harry conduct the interviews themselves rather than delegating them. Being good at Maths and being able to teach it one-to-one are different skills, and the interview exists to tell them apart."
+    a: "About 3% of applicants end up on the platform. The written stage and the subject test remove some, but the interview removes most, because it asks someone to take an idea and make it land with a person who does not yet have it. That is a separate ability from knowing the material, and plenty of strong graduates do not have it. Joe and Harry run those interviews themselves rather than handing them to anyone else, and references are taken afterwards."
   - q: "How do I cancel or pause GCSE Maths tutoring?"
     a: "There is no contract, so there is nothing formal to cancel. Sessions are paid one at a time, and pausing means telling your tutor, ideally a day or two before the next slot so they are not holding the time. Families pause for exam leave, for holidays, or because the thing they came for has been sorted. Picking it up again later is a message rather than a rejoining process, and we keep you with the same tutor wherever their timetable allows."
 # FAQ picks: G05, A06, A08, E01, C09

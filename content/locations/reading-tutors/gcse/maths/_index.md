@@ -32,11 +32,11 @@ steps_heading: "Start online GCSE Maths tutoring in Reading in 3 steps"
 steps_lead: "Profiles inside a day. Bring the mock paper rather than the mock grade and the first session does far more."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, exam board and tier, the current predicted grade and the one that matters for September. Send a marked mock if you have one, because the script shows whether this is a time problem, a method problem or a content problem."
+    body: "The basics: year group, school, exam board, tier, the current predicted grade and the one that matters for September. Send a marked mock if you have one, because the script shows whether this is a time problem, a method problem or a content problem."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, matched on the specification, the tier and the kind of gap the script points at. A free 15-minute video meeting with the tutor comes before any paid session, so your child gets a say."
+    body: "Two or three tutor profiles come back inside a day, matched on the specification, the tier and the kind of gap the script points at. A free 15-minute video introduction comes before the first paid hour, so your child gets a say."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard, with working written out on screen. Where time is the problem, questions get done against a clock and marked in front of your child. Sessions are recorded so a method can be replayed. From £37/hr, cancel any week."
+    body: "Weekly hour-long sessions on Lessonspace, where tutor and student write on the same screen, with working written out on screen. Where time is the problem, questions get done against a clock and marked in front of your child. Sessions are recorded so a method can be replayed. From £37 an hour, and nothing commits you past the next session."
 
 faqs:
   - q: "Is GCSE Maths tutoring in Reading available in person or only online?"

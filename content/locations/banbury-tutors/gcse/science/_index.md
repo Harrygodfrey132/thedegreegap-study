@@ -34,9 +34,9 @@ steps:
   - title: "Share your goals"
     body: "Year group, school, exam board, triple or combined, and which tier your child is currently entered for. Then which of the three sciences feels worst. If the tier is still being decided, tell us and we will build the first session around that."
   - title: "Meet your match"
-    body: "Profiles the next day, shortlisted on the specification, the tier and the science that needs the hours. A free 15-minute video meeting with the tutor comes before any paid session."
+    body: "Profiles the next day, shortlisted on the specification, the tier and the science that needs the hours. Nothing gets booked until They meet on a short free video call before any session is paid for has happened."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard. Real exam questions at the relevant tier, method written out on screen, and required practicals broken into named variables and steps. Sessions are recorded. From £37/hr, cancel any week."
+    body: "One hour a week on Lessonspace, the shared whiteboard we run every session on. Real exam questions at the relevant tier, method written out on screen, and required practicals broken into named variables and steps. Sessions are recorded. Rates start at £37 an hour and you can stop any week."
 
 faqs:
   - q: "How does GCSE Science performance around Banbury compare to the national average?"

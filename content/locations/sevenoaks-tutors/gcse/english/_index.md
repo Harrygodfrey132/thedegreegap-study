@@ -34,9 +34,9 @@ steps:
   - title: "Share your goals"
     body: "Year group, school, exam board, and which papers are the worry, Language or Literature or both. Tell us the set texts, and send a marked essay if you have one. That single piece of writing with a teacher's comments on it is the most useful thing we can see."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, matched on the exam board and on the set texts your child is actually studying, which matters in Literature because the texts differ between schools. A free 15-minute video meeting with the tutor comes before any paid session."
+    body: "A shortlist of two or three arrives the following day, matched on the exam board and on the set texts your child is actually studying, which matters in Literature because the texts differ between schools. Nothing gets booked until A free quarter-hour video meeting happens before anyone commits has happened."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard, planning and writing real exam answers rather than talking about them. Paragraphs get built on screen and marked against the scheme in front of your child. Sessions are recorded. From £37/hr, cancel any week."
+    body: "Weekly one-to-one hours over Lessonspace, our shared interactive whiteboard, planning and writing real exam answers rather than talking about them. Paragraphs get built on screen and marked against the scheme in front of your child. Sessions are recorded. From £37 an hour, and nothing commits you past the next session."
 
 faqs:
   - q: "Is GCSE English tutoring in Sevenoaks available in person or only online?"

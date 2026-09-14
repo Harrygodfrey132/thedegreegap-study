@@ -34,9 +34,9 @@ steps:
   - title: "Share your goals"
     body: "Year group, school, exam board, and which of the set texts is causing the trouble. Be honest about whether your child has actually finished the book, because that changes the plan completely and nobody is judging."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, matched on the board and on the specific text, which matters here because schools choose different nineteenth-century novels. A free 15-minute video meeting comes before any paid session."
+    body: "We send two or three names the next morning, matched on the board and on the specific text, which matters here because schools choose different nineteenth-century novels. There is a free 15-minute call with the tutor before anything is booked."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard. Key passages get read and unpacked on screen before any essay work, then answers are planned, written to time and marked against the real scheme. Sessions are recorded. From £37/hr, cancel any week."
+    body: "One hour a week on Lessonspace, the shared whiteboard we run every session on. Key passages get read and unpacked on screen before any essay work, then answers are planned, written to time and marked against the real scheme. Sessions are recorded. From £37/hr, cancel any week."
 
 faqs:
   - q: "Is GCSE English tutoring in Sutton Coldfield available in person or only online?"

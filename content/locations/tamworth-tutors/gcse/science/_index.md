@@ -31,11 +31,11 @@ steps_heading: "Start online GCSE Science tutoring in Tamworth in 3 steps"
 steps_lead: "Profiles inside a day. In Science the useful first question is not how your child is doing, it is which paper the marks are going missing on."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, exam board, and triple or combined. Tell us which science feels worst and roughly when that started, because a problem that began in Year 10 is a different job from one that has been there since Year 9. A photo of a marked mock is the single most useful thing you can send."
+    body: "Tell us the year group, the school, the board, and whether it is triple or combined. Tell us which science feels worst and roughly when that started, because a problem that began in Year 10 is a different job from one that has been there since Year 9. A photo of a marked mock is the single most useful thing you can send."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, chosen on the specification and on the science that needs the hours. Free 15-minute video meeting with the tutor before anything is booked, which matters if your child is unsure about the whole idea."
+    body: "A shortlist of two or three arrives the following day, chosen on the specification and on the science that needs the hours. Nothing gets booked until a free 15-minute video meeting has happened, which matters if your child is unsure about the whole idea."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard. Real exam questions, method written out on screen rather than talked through, and anything missing taught from the beginning rather than skimmed. Every session is recorded. From £37/hr, cancel any week."
+    body: "Weekly hour-long sessions on Lessonspace, where tutor and student write on the same screen. Real exam questions, method written out on screen rather than talked through, and anything missing taught from the beginning rather than skimmed. Every session is recorded. £37 an hour upwards, paid one session at a time."
 
 faqs:
   - q: "How does GCSE Science performance in Tamworth compare to the national average?"
@@ -45,7 +45,7 @@ faqs:
   - q: "Should my child take foundation or higher tier GCSE Science?"
     a: "Higher tier reaches the top grades but has a floor below which a student scores very little, while foundation caps lower and is a great deal safer for a student sitting near that floor. The honest answer depends on where your child is in Year 10, not on ambition. A student sitting borderline is often right on higher with targeted preparation on the specific topics that decide it. A student well below is usually better served by foundation, where the marks are reachable and confidence builds. A diagnostic in Year 10 is what makes that call a decision rather than a guess, and it is a conversation to have with school as well as with us."
   - q: "How do you vet your GCSE Science tutors?"
-    a: "Around 3% of people who apply come onto the platform. The process runs in stages: a written application, a check on subject knowledge, then a structured interview where the thing being assessed is how clearly someone explains an idea under pressure, because that is the part of tutoring that actually decides whether a student improves. References are checked afterwards. Joe and Harry interview personally rather than delegating it. The reason for being that selective is simple: a tutor who knows a subject but cannot explain it is no use in a one-to-one hour."
+    a: "Roughly 3% get through. It runs in order: an application, a check that the subject knowledge is genuinely there, then a structured interview built around explaining something clearly while under a bit of pressure. The last stage is the one that decides it, because a tutor who cannot be understood in the first ten minutes of an hour is no use however well they know Science. References are checked at the end, and the founders do the interviewing."
   - q: "How do I cancel or pause GCSE Science tutoring?"
     a: "There is no contract and nothing to exit. Sessions are paid for one at a time, so pausing means telling your tutor you are stopping for a while, ideally a day or two before the next slot so they are not holding time for you. Families pause for exam leave, for holidays, or because the thing they came for got fixed. Picking back up later is a message rather than a rejoining process, and where possible we keep you with the same tutor."
 # FAQ picks: G02, A02, A12, E01, C09

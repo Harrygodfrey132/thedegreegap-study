@@ -32,11 +32,11 @@ steps_heading: "Start online GCSE Science tutoring in Reading in 3 steps"
 steps_lead: "Profiles inside a day. If your child has been revising hard without the grade moving, that is usually a method problem rather than an effort one."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, exam board, and triple or combined. Tell us how your child currently revises Science, because that answer often explains the gap on its own. Which of the three feels worst is the other thing worth saying."
+    body: "We need the year group, the school, the exam board and the Science route. Tell us how your child currently revises Science, because that answer often explains the gap on its own. Which of the three feels worst is the other thing worth saying."
   - title: "Meet your match"
-    body: "Profiles the next day, shortlisted on the specification and on the science that needs the hours. Free 15-minute video meeting with the tutor before any paid session, so nobody commits before they have met."
+    body: "A shortlist of two or three arrives the following day, narrowed by specification and by which of the three is behind. You get a free 15-minute video meeting with them before committing, so nobody commits before they have met."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard. Real exam questions from the start, marked against the real scheme in front of your child, with the method written out rather than described. Missing content gets taught properly. Sessions are recorded. From £37/hr, cancel any week."
+    body: "Weekly hour-long sessions on Lessonspace, where tutor and student write on the same screen. Real exam questions from the start, marked against the real scheme in front of your child, with the method written out rather than described. Missing content gets taught properly. Sessions are recorded. £37 an hour upwards, paid one session at a time."
 
 faqs:
   - q: "What grade do you need for A-Level Sciences at Reading sixth forms?"
@@ -46,7 +46,7 @@ faqs:
   - q: "How do I know if my child needs a Science tutor or just more revision?"
     a: "Look at how they revise before deciding. If the revision is flashcards, notes and videos and the grade has not moved in two terms, more of it will not help and a tutor changes the method rather than the volume. If your child is already working through past papers and marking them honestly but stalls on the six-mark questions or the calculations, a tutor is the fastest fix because both are teachable habits. If they are doing neither and simply have not started, the first thing to try is structured past-paper practice, and we will say so."
   - q: "How do you vet your GCSE Science tutors?"
-    a: "Around 3% of people who apply come onto the platform. There is a written application, a subject knowledge check, then a structured interview where what is assessed is how clearly somebody explains an idea under pressure, because that is what decides whether a student improves. References follow. Joe and Harry interview personally rather than delegating. In Science it matters especially, since explaining a mechanism to somebody who does not yet understand it is a different skill from knowing it well."
+    a: "The pass rate sits around 3%. We ask for a written application, test subject knowledge, and then interview, and it is the interview that does the work. What is being judged there is not how much someone knows but whether they can tell when a student has stopped following and change tack. Joe and Harry do this personally. It is slow and it is the reason we can usually match a family properly on the first attempt rather than the second."
   - q: "How much does GCSE Science tutoring cost in Reading, and what is included?"
     a: "From £37 an hour, with the rate depending on the tutor's experience and agreed before anything is booked. The hour covers the session, the preparation behind it, the practice material, the marking and a short note afterwards on what was covered and set. There is no joining fee, no materials charge and no contract, and sessions are paid one at a time. The consultation call and the 15-minute meeting with your chosen tutor both happen before you pay anything at all."
 # FAQ picks: G01, A02, A10, E01, C02

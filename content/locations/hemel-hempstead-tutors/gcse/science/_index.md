@@ -32,11 +32,11 @@ steps_heading: "Start online GCSE Science tutoring in Hemel Hempstead in 3 steps
 steps_lead: "Profiles inside a day. If your child revises hard and still freezes on odd-looking questions, this is usually why."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, exam board, and triple or combined. Tell us whether the marks go on questions about topics your child has not revised, or on questions about topics they have. Those are opposite problems and they point different ways."
+    body: "We need the year group, the school, the exam board and the Science route. Tell us whether the marks go on questions about topics your child has not revised, or on questions about topics they have. Those are opposite problems and they point different ways."
   - title: "Meet your match"
-    body: "Profiles the next day, shortlisted on the specification and on the science that needs the hours. A free 15-minute video meeting with the tutor comes before any paid session, so nobody commits before meeting."
+    body: "A day later you get two or three profiles, chosen on the board and on whichever science is costing the marks. Nothing gets booked until a free 15-minute video meeting has happened, so nobody commits before meeting."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard. Unfamiliar questions get worked cold, with the principle named before the answer is written, and required practicals broken into named parts. Sessions are recorded. From £37/hr, cancel any week."
+    body: "An hour a week, online, on Lessonspace with a whiteboard both sides can write on. Unfamiliar questions get worked cold, with the principle named before the answer is written, and required practicals broken into named parts. Sessions are recorded. From £37 an hour, pause whenever you need to."
 
 faqs:
   - q: "What grade do you need for A-Level Sciences around Hemel Hempstead?"
@@ -48,7 +48,7 @@ faqs:
   - q: "Can a Science tutor help a child with dyslexia, ADHD or processing differences?"
     a: "Yes, and several tutors in the network do this regularly. In Science the help is about reducing load: a consistent layout for calculations, planning frames for extended answers, and each required practical learned as named parts rather than prose. For unfamiliar-context questions, having a fixed routine for reading the question is often what makes the difference. Tell us on the consultation call what school has in place, including exam access arrangements, and we match on it."
   - q: "How much does GCSE Science tutoring cost in Hemel Hempstead, and what is included?"
-    a: "From £37 an hour, with the rate set by the tutor's experience and agreed before anything is booked. The hour covers the session, the preparation, the practice material, the marking of work set between sessions and a short note on what was covered. There is no joining fee, no materials charge and no contract, and sessions are paid one at a time. The consultation call and the 15-minute meeting with your chosen tutor both happen before you pay anything at all."
+    a: "From £37 an hour. It is probably more useful to say what you are not charged for: there is no joining fee, no charge for materials or past papers, no admin fee for changing tutor, and no minimum number of sessions. The rate covers the hour, the preparation behind it, the marking of anything set in between and a written note afterwards. You pay for the first session only once your child has met the tutor and you are both happy."
 # FAQ picks: G01, A06, A08, E03, C02
 
 reviews:

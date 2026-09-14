@@ -32,11 +32,11 @@ steps_heading: "Start online GCSE Maths tutoring in Sunbury-on-Thames in 3 steps
 steps_lead: "Profiles inside a day. If your child was always quick at Maths and is now stuck, that is a specific pattern with a specific fix."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, exam board and tier, the grade now and the one that matters next. Tell us whether Maths used to be a strength, because a student losing an old strength needs a different approach from one who never had it."
+    body: "The basics: year group, school, exam board, tier, the grade now and the one that matters next. Tell us whether Maths used to be a strength, because a student losing an old strength needs a different approach from one who never had it."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, matched on the specification, the tier and the kind of gap the paper points to. A free 15-minute video meeting with the tutor comes before any paid session."
+    body: "Two or three suggestions land within twenty four hours, matched on the specification, the tier and the kind of gap the paper points to. There is Your child meets the tutor on a free 15-minute video call first."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard. Your child explains methods aloud as well as performing them, because reasoning that cannot be explained tends not to survive a hard question. Sessions are recorded. From £37/hr, cancel any week."
+    body: "An hour a week, online, on Lessonspace with a whiteboard both sides can write on. Your child explains methods aloud as well as performing them, because reasoning that cannot be explained tends not to survive a hard question. Sessions are recorded. £37 an hour and up, with no minimum term."
 
 faqs:
   - q: "How does GCSE Maths performance around Sunbury-on-Thames compare to the national average?"

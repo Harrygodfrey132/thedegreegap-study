@@ -32,11 +32,11 @@ steps_heading: "Start online GCSE Science tutoring in Chelmsford in 3 steps"
 steps_lead: "Profiles inside a day. Triple and combined need genuinely different plans, so that is the first thing we ask."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, exam board, and triple or combined. On triple, tell us how the three compare, because they almost never move together. On combined, tell us which of the three feels worst and whether any practicals were missed."
+    body: "Tell us the year group, the school, the board, and whether it is triple or combined. On triple, tell us how the three compare, because they almost never move together. On combined, tell us which of the three feels worst and whether any practicals were missed."
   - title: "Meet your match"
-    body: "Profiles the next day, shortlisted on the specification, the route, and the science that needs the hours. A free 15-minute video meeting with the tutor comes before any paid session, so nobody commits before meeting."
+    body: "Profiles the next day, shortlisted on the specification, the route, and the science that needs the hours. Before anything is paid for there is a free 15-minute video call with the tutor, so nobody commits before meeting."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard. Real exam questions with method written out on screen, required practicals broken into named variables and steps, and missing content taught rather than revised over. Sessions are recorded. From £37/hr, cancel any week."
+    body: "Once a week, online, using Lessonspace, the whiteboard the tutor and your child share. Real exam questions with method written out on screen, required practicals broken into named variables and steps, and missing content taught rather than revised over. Sessions are recorded. From £37/hr, cancel any week."
 
 faqs:
   - q: "What grade do you need for A-Level Sciences at Chelmsford sixth forms?"
@@ -46,9 +46,9 @@ faqs:
   - q: "How long is each GCSE Science tutoring session?"
     a: "Most are sixty minutes, which suits Science because the content comes in blocks that fit an hour. Families on triple sometimes book ninety minutes closer to exams so more than one science can be covered in a sitting, though an hour done well beats a longer session done tiredly. For younger students, or where concentration is the real constraint, forty-five minutes can work better and still does the job if it happens every week. Worth raising on the consultation call rather than taking the default."
   - q: "What grade improvements have your Science tutors actually delivered?"
-    a: "We do not promise grades, because nobody honestly can. What we can describe is the pattern. Where the problem is the required practicals or how extended answers are written, a term of weekly hours moving a student a full band is common, since the fix is narrow and the marks are concentrated. Where the gap runs back two or three years the same term brings visible movement without the full band, and a good tutor says so early rather than at the end. The reviews on this page are real and unedited."
+    a: "Honestly, it varies enough that any single number would be misleading. What is fair to say is that the size of the move tracks the type of problem. A student writing three disconnected statements on a six-mark question is losing marks they could have next month, because that is a writing habit. A student who never securely learned the chemistry of Year 10 is looking at a longer road and a smaller visible change in one term. Any tutor worth having tells you which of those you are in by about week three."
   - q: "Can I sit in on my child's Science sessions?"
-    a: "You can, and plenty of parents do for the first one to see how it works. Most students settle better without an audience, so after that we usually suggest stepping back. What you get instead is more useful anyway: every session is recorded, so you can watch any part later, and the tutor sends a short note on what was covered and what was set. If you want a proper conversation about progress, ask at any point rather than waiting for a natural moment."
+    a: "Yes, though it is worth thinking about it from your child's side. A fifteen-year-old who knows a parent is listening tends to perform rather than admit confusion, and admitting confusion is the entire point of a one-to-one hour. Most families watch the first session, decide it looks fine, and leave them to it. You still see everything through the recording and the note the tutor sends afterwards, and you can ask for a proper progress conversation whenever you want one."
 # FAQ picks: G01, A04, A15, E05, C06
 
 reviews:

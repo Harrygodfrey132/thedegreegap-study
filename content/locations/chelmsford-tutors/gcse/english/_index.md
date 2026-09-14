@@ -34,9 +34,9 @@ steps:
   - title: "Share your goals"
     body: "Year group, school, exam board, and the most recent marks in Language and Literature as separate numbers rather than an overall impression. Name the set texts. A marked essay from whichever is weaker is the most useful thing you can send."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, matched on the board and the set texts, and on whichever of the two papers needs the hours. A free 15-minute video meeting with the tutor comes before any paid session."
+    body: "Two or three profiles within a day, matched on the board and the set texts, and on whichever of the two papers needs the hours. There is A free quarter-hour video meeting happens before anyone commits."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard, planning and writing real answers rather than discussing them. Where Language is the gap, sessions work on unseen extracts against a clock. Where Literature is, on evidence and argument. Sessions are recorded. From £37/hr, cancel any week."
+    body: "A weekly hour online over Lessonspace, our shared whiteboard, planning and writing real answers rather than discussing them. Where Language is the gap, sessions work on unseen extracts against a clock. Where Literature is, on evidence and argument. Sessions are recorded. From £37 an hour, and nothing commits you past the next session."
 
 faqs:
   - q: "How does GCSE English performance in Chelmsford compare to the national average?"
@@ -46,7 +46,7 @@ faqs:
   - q: "How much English homework should my child do between tutoring sessions?"
     a: "Twenty to forty minutes, and what it is matters far more than how long it takes. One planned paragraph written to time beats an hour of re-reading notes, because marks go to how an argument is built rather than to how much of the text is recalled. For Language, one timed response to an unseen extract each week is worth more than any amount of revision, since the skill is the response itself. Most tutors set the work at the end of the hour and mark it before you next meet."
   - q: "How do you vet your GCSE English tutors?"
-    a: "Around 3% of people who apply come onto the platform. There is a written application, a check on subject knowledge, then a structured interview in which the thing being judged is how clearly somebody explains an idea under pressure, since that is what decides whether a student improves. References follow. Joe and Harry run the interviews themselves. In English we also look for tutors who mark honestly, because vague encouragement on a piece of writing is worse than useless."
+    a: "Roughly 3% get through. It runs in order: an application, a check that the subject knowledge is genuinely there, then a structured interview built around explaining something clearly while under a bit of pressure. The last stage is the one that decides it, because a tutor who cannot be understood in the first ten minutes of an hour is no use however well they know English. References are checked at the end, and the founders do the interviewing."
   - q: "What if my child does not want a tutor?"
     a: "It is the worry parents raise most, and pushing through it rarely works. Most resistance comes before a student has met anybody and is about what having a tutor seems to say about them rather than the hour itself. That is what the free 15-minute video meeting is for: your child meets the tutor first and has a say in the match. Most students who were against the idea have come round by the second or third session. If they genuinely still do not want it after that, stop, and say so."
 # FAQ picks: G02, A04, A09, E01, C07

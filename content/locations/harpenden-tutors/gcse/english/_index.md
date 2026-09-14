@@ -34,9 +34,9 @@ steps:
   - title: "Share your goals"
     body: "Year group, school, exam board, and whether Language, Literature or both are the worry. Name the set texts. A marked essay tells us most, because vague analysis is visible in a single paragraph and so is the fix."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, matched on the board and on the specific texts your child is studying, which matters in Literature because schools choose differently. A free 15-minute video meeting comes before any paid session."
+    body: "Profiles the next day, matched on the board and on the specific texts your child is studying, which matters in Literature because schools choose differently. They meet on a short free video call before any session is paid for."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard. Sentences get rewritten on screen and pushed further, then answers written to time and marked against the real scheme while your child watches. Sessions are recorded. From £37/hr, cancel any week."
+    body: "A standing weekly hour on Lessonspace, our own interactive whiteboard. Sentences get rewritten on screen and pushed further, then answers written to time and marked against the real scheme while your child watches. Sessions are recorded. £37 an hour upwards, paid one session at a time."
 
 faqs:
   - q: "Is GCSE English tutoring in Harpenden available in person or only online?"

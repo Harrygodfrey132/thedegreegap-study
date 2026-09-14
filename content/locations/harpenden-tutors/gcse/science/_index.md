@@ -34,9 +34,9 @@ steps:
   - title: "Share your goals"
     body: "Year group, school, exam board, triple or combined, and roughly when Science stopped feeling comfortable. If the answer is around the end of Year 10, that tells us most of what we need to plan the term."
   - title: "Meet your match"
-    body: "Profiles the next day, shortlisted on the specification, the tier and the science that needs the hours. A free 15-minute video meeting with the tutor comes before any paid session, so your child has a say."
+    body: "Two or three suggestions land within twenty four hours, shortlisted on the specification, the tier and the science that needs the hours. A free quarter-hour video meeting happens before anyone commits, so your child has a say."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard. The harder topics get taught with the method written out and practised rather than described, and required practicals broken into named parts. Sessions are recorded. From £37/hr, cancel any week."
+    body: "A weekly hour on the shared Lessonspace whiteboard we built for this. The harder topics get taught with the method written out and practised rather than described, and required practicals broken into named parts. Sessions are recorded. From £37 an hour, and nothing commits you past the next session."
 
 faqs:
   - q: "How does GCSE Science performance around Harpenden compare to the national average?"
@@ -48,7 +48,7 @@ faqs:
   - q: "What grade improvements have your Science tutors actually delivered?"
     a: "We do not promise grades, because nobody honestly can. What we can describe is the pattern. Where a student stalled at the step into the harder topics and the content is otherwise sound, a term of weekly hours moving a band is common, since the fix is a method change rather than a rebuild. Where the gap runs back further, the same term brings visible movement without the full band, and a good tutor says so early. The reviews here are real and unedited."
   - q: "How quickly can my child start GCSE Science tutoring in Harpenden?"
-    a: "Usually inside a week. The free consultation call with Joe or Harry can normally happen within a day or two, and two or three tutor profiles follow within twenty four hours of that. Then a free 15-minute video meeting with whichever tutor you like, and the first paid session typically the week after. Nothing is paid until your child has met them. If the timing is tight, mock season or a tier decision pending, say so on the call."
+    a: "In practice, a few days. The limiting factor is almost never us, it is finding a slot in your week and your child's. The consultation call can usually happen the same day or the next; profiles follow within a day of that; the introductory meeting takes fifteen minutes and can be squeezed into most evenings. Families who tell us it is urgent, because a tier decision is pending or mocks are close, generally start faster than families who are planning ahead."
 # FAQ picks: G02, A03, A12, E05, C10
 
 reviews:

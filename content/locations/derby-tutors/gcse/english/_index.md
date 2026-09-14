@@ -34,9 +34,9 @@ steps:
   - title: "Share your goals"
     body: "Year group, school, exam board, and whether Language, Literature or both are the worry. Name the set texts. If you have an essay with a teacher's marking on it, send that, because it shows us far more than a grade does."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, matched on the exam board and the actual set texts, which matters in Literature because schools choose differently. A free 15-minute video meeting with the tutor before any paid session, so your child gets a say."
+    body: "Two or three suggestions land within twenty four hours, matched on the exam board and the actual set texts, which matters in Literature because schools choose differently. A free 15-minute video introduction comes before the first paid hour, so your child gets a say."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard, planning and writing real answers rather than discussing them. Paragraphs get built on screen and marked against the scheme while your child watches. Sessions are recorded. From £37/hr, cancel any week."
+    body: "A weekly hour online over Lessonspace, our shared whiteboard, planning and writing real answers rather than discussing them. Paragraphs get built on screen and marked against the scheme while your child watches. Sessions are recorded. £37 an hour and up, with no minimum term."
 
 faqs:
   - q: "How does GCSE English performance in Derby compare to the national average?"

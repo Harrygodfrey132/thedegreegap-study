@@ -34,9 +34,9 @@ steps:
   - title: "Share your goals"
     body: "Year group, school, exam board, and whether Language, Literature or both are the worry. Name the set texts. Send a timed assessed piece if you have one, because untimed homework rarely shows the problem that sets the prediction."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, matched on the board and on the specific set texts, which matters here because students attend schools across several boroughs. A free 15-minute video meeting comes before any paid session."
+    body: "Two or three tutor profiles come back inside a day, matched on the board and on the specific set texts, which matters here because students attend schools across several boroughs. Before anything is paid for there is a free 15-minute video call with the tutor."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard. Answers get planned and written against a clock, then marked on screen against the real scheme, so the pacing habit builds rather than being described. Sessions are recorded. From £37/hr, cancel any week."
+    body: "A standing weekly hour on Lessonspace, our own interactive whiteboard. Answers get planned and written against a clock, then marked on screen against the real scheme, so the pacing habit builds rather than being described. Sessions are recorded. From £37 an hour, with nothing to sign."
 
 faqs:
   - q: "Is the GCSE English standard around Sunbury-on-Thames similar to nearby areas?"
@@ -48,7 +48,7 @@ faqs:
   - q: "Can an English tutor help a child with dyslexia, ADHD or processing differences?"
     a: "Yes, and several tutors in the network work this way regularly. In English the help is structural: planning frames that keep an argument on track, a fixed paragraph shape so writing does not start from nothing, and long answers broken into named parts. Where a student has extra time, the work is often about using it deliberately rather than simply having more of it. Tell us on the consultation call what school has in place, including exam access arrangements."
   - q: "How much does GCSE English tutoring cost around Sunbury-on-Thames, and what is included?"
-    a: "From £37 an hour, with the rate set by the tutor's experience and agreed before anything is booked. The hour covers the session, the preparation behind it, the practice material, the marking of work set between sessions and a short note on what was covered. There is no joining fee, no materials charge and no contract, and sessions are paid one at a time. The consultation call and the 15-minute meeting with your chosen tutor both come before you pay anything."
+    a: "The sequence matters as much as the number. You speak to Joe or Harry at no cost, receive tutor profiles at no cost, and your child meets the tutor on a short video call at no cost. Money only changes hands at the first actual lesson, which starts at £37 an hour depending on the tutor's experience and is agreed in advance. After that you pay session by session, so there is never a balance sitting with us and stopping is simply a matter of saying so."
 # FAQ picks: G06, A08, A14, E03, C02
 
 reviews:

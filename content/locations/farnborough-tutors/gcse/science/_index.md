@@ -34,9 +34,9 @@ steps:
   - title: "Share your goals"
     body: "Year group, school, exam board, triple or combined, and where your child is hoping to go at 16. Then which of the three sciences feels worst. If you have a marked mock, send it, because the question numbers tell us far more than the overall grade does."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, shortlisted on the specification and on the science that actually needs the hours. A free 15-minute video meeting with the tutor comes first, before any paid session, so your child gets a say in the match."
+    body: "Profiles the next day, shortlisted on the specification and on the science that actually needs the hours. A free 15-minute video introduction comes before the first paid hour, so your child gets a say in the match."
   - title: "Start the lessons"
-    body: "A weekly hour online over Lessonspace, our shared whiteboard. Real exam questions, method written out on screen, and missing topics taught properly rather than revised over. Sessions are recorded so anything can be rewatched. From £37/hr, cancel any week."
+    body: "A weekly hour online over Lessonspace, our shared whiteboard. Real exam questions, method written out on screen, and missing topics taught properly rather than revised over. Sessions are recorded so anything can be rewatched. £37 an hour upwards, paid one session at a time."
 
 faqs:
   - q: "Can a Farnborough Science tutor help my child apply for an engineering apprenticeship?"
