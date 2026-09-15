@@ -16,7 +16,11 @@
             <input id="gs-email" name="email" type="email" required autocomplete="email" placeholder="you@example.com">
           </div>
           <div class="gs-field">
-            <label for="gs-phone">Phone <span>(optional)</span></label>
+            {{/* Pages that route a "yes" into a phone call set phoneLabel, so the
+                 number collected is a parent's. Students register for these webinars
+                 directly, and a minor is not the person to ring about a service a
+                 parent would be paying for. */}}
+            <label for="gs-phone">{{ .phoneLabel | default "Phone" }} <span>(optional)</span></label>
             <input id="gs-phone" name="phone" type="tel" autocomplete="tel" inputmode="tel" placeholder="07XXX XXX XXX">
           </div>
           <div class="gs-field">

@@ -26,7 +26,7 @@ speaker_credentials:
   - "7 years Head of Careers, Ratcliffe College"
   - "5 years lecturing at Nottingham Trent University"
   - "Recognised in the Good Schools Guide and by ISI"
-speaker_bio: "Kate Grace is an independent careers consultant with over a decade of experience in careers education and university admissions. She spent seven years as Head of Careers at Ratcliffe College, a leading independent school in the East Midlands, where she built the department from scratch and earned recognition in the Good Schools Guide and from ISI. Prior to this, she spent five years as Employability Module Lead at Nottingham Trent University, lecturing across a suite of degree programmes and sitting on the other side of the process, reading personal statements and supporting students with graduate and placement applications. This gives her a 360-degree view of what admissions tutors and employers are really looking for. Kate holds an Associate Fellowship of the Higher Education Academy and a BA (Hons) in English and Drama from the University of Birmingham. She is the founder of Go-Getter Careers Tuition, and specialises in helping students stand out in an increasingly AI-homogenised applications landscape. Kate is a guest speaker rather than a tutor on our platform."
+speaker_bio: "Kate Grace is an independent careers consultant with over a decade of experience in careers education and university admissions. She spent seven years as Head of Careers at Ratcliffe College, a leading independent school in the East Midlands, where she built the department from scratch and earned recognition in the Good Schools Guide and from ISI. Prior to this, she spent five years as Employability Module Lead at Nottingham Trent University, lecturing across a suite of degree programmes and sitting on the other side of the process, reading personal statements and supporting students with graduate and placement applications. This gives her a 360-degree view of what admissions tutors and employers are really looking for. Kate holds an Associate Fellowship of the Higher Education Academy and a BA (Hons) in English and Drama from the University of Birmingham. She is the founder of Go-Getter Careers Tuition, and specialises in helping students stand out at a time when AI is making applications sound increasingly alike. Kate is a guest speaker rather than a tutor on our platform."
 
 outcomes_heading: "What we'll cover"
 outcomes_sub: "One session, covering both year groups, with live Q&A at the end."
@@ -57,21 +57,23 @@ register_heading: "Save your place"
 register_lead: "Free to attend, with live Q&A at the end. Leave your details and we will email the joining link, plus a reminder before the session."
 submit_label: "Save my place"
 ask_tutoring_interest: true
+# A yes routes to a call, so the number we collect must be a parent's.
+phone_label: "Parent or guardian's phone"
 body_position: "after_form"
 
 included_heading: "What is included"
 included_sub: "Free either way. Here is exactly what you get, whether you are a parent or a school putting it in front of your cohort."
 included_families:
-  - "The live hour, free.|One session covering both Year 12 and Year 13, run live rather than pre-recorded."
-  - "Live Q&A at the end.|Questions typed in, so nobody has to speak up to get an answer."
-  - "The slides by email|afterwards, whether or not you make it on the night."
-  - "Real anonymised examples|from personal statements and interviews Kate has worked on, not invented ones."
-  - "A replay link,|so a student can watch it back during study time."
+  - "The live hour, free|One session covering both Year 12 and Year 13, run on the night rather than pre-recorded."
+  - "Questions answered on the night|Typed into the chat, so nobody has to speak up to get an answer."
+  - "The slides by email|Sent afterwards, whether or not you make it on the night."
+  - "Real anonymised examples|From personal statements and interviews Kate has worked on, not invented ones."
+  - "A replay link|So a student can watch it back during study time."
 included_schools:
-  - "No cost, to you or your families.|Nothing to book, host or invoice."
-  - "One link to share.|Newsletter, parent bulletin or careers page. We handle registration and reminders."
-  - "Real anonymised examples|from personal statements and interviews Kate has worked on, which is the part students remember."
-  - "A replay you can use in school|in a tutor period, a careers lesson or on your careers page, and again with next year's cohort."
+  - "No cost to you or your families|Nothing to book, host or invoice."
+  - "One link to share|Put it in a newsletter, a parent bulletin or your careers page. We handle registration and reminders."
+  - "Real anonymised examples|From personal statements and interviews Kate has worked on, which is the part students remember."
+  - "A replay you can use in school|In a tutor period, a careers lesson or on your careers page, and again with next year's cohort."
 included_note:
   - "<b>Running a school?</b> Email <a href=\"mailto:admin@thedegreegap.com\">admin@thedegreegap.com</a> and we will send a blurb, a newsletter image and the registration link, ready to paste."
 
@@ -80,9 +82,9 @@ event_description: "A free online webinar for Year 12 and Year 13 students and t
 lead_source: "September UCAS Webinar"
 
 # Mid-page routes back to the registration form in the hero.
-mid_cta_1: "Kate is running this one live, with a real Q&A at the end."
+mid_cta_1: "Kate is running it herself on the evening of the 30th."
 mid_cta_1_label: "Register for the session"
-mid_cta_2: "That is the hour. Wednesday 30 September, 7 to 8pm."
+mid_cta_2: "Wednesday 30 September, 7 to 8pm. Signing up takes about twenty seconds."
 mid_cta_2_label: "Get my place"
 sitemap:
   priority: 0.7

@@ -27,6 +27,7 @@
 {{ $registerHeading := .Params.register_heading | default "Register for the webinar at no cost" }}
 {{ $registerLead := .Params.register_lead | default "We will email the link and send optional reminders." }}
 {{ $submitLabel := .Params.submit_label | default "Save my place" }}
+{{ $phoneLabel := .Params.phone_label }}
 {{ $eventName := .Params.event_name | default $h1 }}
 {{ $eventDescription := .Params.event_description | default $lead }}
 
@@ -593,7 +594,7 @@
       </div>
       {{ if $heroForm }}
       <div class="gs-hero__formwrap" id="register">
-        {{ partial "webinar-form.html" (dict "askTutoring" $askTutoring "submitLabel" $submitLabel "title" (.Params.hero_form_title | default "Save your place") "sub" (.Params.hero_form_sub | default "Free to attend. We will email you the joining link.")) }}
+        {{ partial "webinar-form.html" (dict "askTutoring" $askTutoring "submitLabel" $submitLabel "phoneLabel" $phoneLabel "title" (.Params.hero_form_title | default "Save your place") "sub" (.Params.hero_form_sub | default "Free to attend. We will email you the joining link.")) }}
       </div>
       {{ end }}
     </div>
@@ -722,7 +723,7 @@
     <div class="gs-register__inner">
       <h2>{{ $registerHeading }}</h2>
       <p class="gs-register__lead">{{ $registerLead }}</p>
-      {{ partial "webinar-form.html" (dict "askTutoring" $askTutoring "submitLabel" $submitLabel) }}
+      {{ partial "webinar-form.html" (dict "askTutoring" $askTutoring "submitLabel" $submitLabel "phoneLabel" $phoneLabel) }}
     </div>
   </section>
   {{ end }}
