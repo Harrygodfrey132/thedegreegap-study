@@ -805,6 +805,15 @@
 
 </div>
 
+{{/* The Zoho POST target. It MUST exist in the markup rather than being built on
+     submit: the submit handler binds its load listener to this element before
+     posting, and a listener cannot bind to an iframe that does not exist yet.
+     Creating it lazily meant the listener never bound, so every registration sat
+     out the fallback ceiling instead of moving on as soon as Zoho answered.
+     Same approach as the results-day webinar page. */}}
+<iframe name="zoho-target" id="zoho-target" aria-hidden="true" tabindex="-1"
+        style="position:absolute;width:0;height:0;border:0;visibility:hidden;left:-9999px;top:-9999px"></iframe>
+
 <script>
   /* Lazy YouTube: load the iframe only when the parent clicks play.
      Keeps the page fast (no YouTube JS on first load). */
@@ -838,15 +847,23 @@
   var LEAD_STATUS_YES = "{{ .Params.lead_status_yes | default "Interested In Tutoring" }}";
   var LEAD_STATUS_NO  = "{{ .Params.lead_status_no  | default "Not Interested In Tutoring" }}";
 
-  function submitZohoLead(data, leadSource) {
+  /* Returns the POST target. Normally already in the markup; this only builds
+     one as a fallback if the template changes underneath us. */
+  function zohoFrame() {
     var iframe = document.getElementById('zoho-target');
     if (!iframe) {
       iframe = document.createElement('iframe');
       iframe.name = 'zoho-target'; iframe.id = 'zoho-target';
       iframe.setAttribute('aria-hidden', 'true');
+      iframe.setAttribute('tabindex', '-1');
       iframe.style.cssText = 'position:absolute;width:0;height:0;border:0;visibility:hidden;left:-9999px;top:-9999px';
       document.body.appendChild(iframe);
     }
+    return iframe;
+  }
+
+  function submitZohoLead(data, leadSource) {
+    var iframe = zohoFrame();
     var f = document.createElement('form');
     f.method = 'POST';
     f.action = 'https://crm.zoho.eu/crm/WebToLeadForm';
@@ -928,14 +945,18 @@
         if (thanks) thanks.classList.add('is-shown');
       }
 
-      /* The hidden iframe loading is the real signal that Zoho took the post. */
-      var zt = document.getElementById('zoho-target');
-      if (zt) zt.addEventListener('load', done);
+      /* The iframe is in the markup, so its own initial load fired long ago and
+         the next load event on it is Zoho answering the post. */
+      zohoFrame().addEventListener('load', done);
 
       submitZohoLead(data, {{ $leadSource }});
       if (typeof fbq === 'function') { fbq('track', 'Lead'); }
 
       /* Ceiling for a bad connection, so nobody is stranded on a dead button. */
+      /* Ceiling, not the normal path. With the listener bound the redirect fires
+         as soon as Zoho answers, usually well under a second. This only matters
+         if the POST never completes, and it stays generous so a slow connection
+         is not sent onward before the lead has actually landed. */
       window.setTimeout(done, 8000);
     });
   })();
