@@ -823,6 +823,16 @@ collections:
           - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
 
       # ── Section landing pages ─────────────────────────────────────────────
+      - file: "content/webinar-thanks.md"
+        label: "Webinar — Generic Thanks"
+        name: "webinar-thanks"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+          - { name: "layout", label: "Layout", widget: "hidden", default: "webinar-thanks" }
+          - { name: "webinar_ref", label: "Which webinar's date to show", widget: "string", default: "/webinars/what-top-universities-look-for" }
+          - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
+
       - file: "content/personal-statement-tutor/_index.md"
         label: "Personal Statement Tutor — landing"
         name: "ps-tutor-landing"

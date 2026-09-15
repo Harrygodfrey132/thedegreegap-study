@@ -80,6 +80,9 @@ included_note:
 event_name: "What Top Universities Are Really Looking For"
 event_description: "A free online webinar for Year 12 and Year 13 students and their parents, led by independent careers consultant and former Head of Careers Kate Grace, on how university expectations shift from GCSE to sixth form, with anonymised examples from real personal statements and interviews."
 lead_source: "September UCAS Webinar"
+# A no to tutoring goes to the plain webinar confirmation, not the page that
+# promises a parent guide PDF these registrants never asked for.
+redirect_default: "webinar-thanks/"
 
 # Mid-page routes back to the registration form in the hero.
 mid_cta_1: "Kate is running it herself on the evening of the 30th."
