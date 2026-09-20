@@ -42,10 +42,10 @@ When you register we collect:
 - your email address;
 - whether you are registering as a parent or guardian, a student, or a member of school or college staff;
 - the year group of the student the registration relates to;
-- if you register as a parent or guardian, whether you have asked us to contact you about tutoring and, if you have, your telephone number (optional); and
+- if you register as a parent or guardian, whether you have asked us to contact you about tutoring and, if you have, your telephone number; and
 - limited technical and analytics data about your visit (see section 11).
 
-You do not have to provide a telephone number to attend a Webinar. We do not ask students or school staff for a telephone number, and we do not ask them about tutoring.
+You do not have to provide a telephone number to attend a Webinar. We ask for one only if you ask us to contact you about tutoring. We do not ask students or school staff for a telephone number, and we do not ask them about tutoring.
 
 ## 5. How we use your information, and our lawful bases
 

@@ -361,7 +361,7 @@ collections:
       - { name: "webinar_time_display", label: "Time (as shown on the page)", widget: "string", default: "7–8pm (UK time)" }
       - { name: "youtube_id", label: "YouTube video ID (optional overview)", widget: "string", required: false }
       - { name: "free_resources_url", label: "Free resources URL (optional)", widget: "string", required: false }
-      - { name: "ask_tutoring_interest", label: "Tutoring opt-in on the form", widget: "boolean", required: false, default: false, hint: "Adds an optional 'please get in touch about tutoring' tick box, shown only to a parent or guardian. The phone field then appears only once it is ticked. Yes/No is written to the Zoho lead Description and drives Lead Status." }
+      - { name: "ask_tutoring_interest", label: "Tutoring opt-in on the form", widget: "boolean", required: false, default: false, hint: "Adds an optional 'please get in touch about tutoring' tick box, shown only to a parent or guardian. The phone field then appears, and is required, only once it is ticked. Yes/No is written to the Zoho lead Description and drives Lead Status." }
       - { name: "ask_registrant_type", label: "Ask who is registering (parent, student, school staff)", widget: "boolean", required: false, default: false, hint: "Set this on any page schools share. Students and school staff then never see the tutoring opt-in or the phone field." }
       - { name: "hide_whatsapp", label: "Hide the WhatsApp prompt on this page", widget: "boolean", required: false, default: false, hint: "The prompt opens a tutoring enquiry. Hide it on pages schools are asked to share." }
       - { name: "outcomes_heading", label: "Outcomes heading", widget: "string", required: false, default: "What you will take away" }

@@ -7,9 +7,9 @@
                         staff. Pages that schools share set this, so a student is
                         never asked a question written for a parent.
        askTutoring      a tutoring opt-in, shown only to a parent or guardian.
-                        The phone field then appears only once that box is
-                        ticked, since a number is only ever used to return that
-                        request.
+                        The phone field then appears, and is required, only
+                        once that box is ticked, since a number is only ever
+                        used to return that request.
        phoneLabel       phone label on pages without the opt-in
        yearLabel        label for the year select
        yearGroups       list of "zoho value|label". Values must match the Zoho
@@ -82,9 +82,9 @@
             </label>
           </div>
           <div class="gs-field" data-gs-phone>
-            <label for="gs-phone">Phone number <span>(optional)</span></label>
+            <label for="gs-phone">Phone number</label>
             <input id="gs-phone" name="phone" type="tel" autocomplete="tel" inputmode="tel" placeholder="07XXX XXX XXX">
-            <p class="gs-field__hint">Only so we can return that request. We do not use it for anything else.</p>
+            <p class="gs-field__hint">So we can call you about tutoring. We do not use it for anything else.</p>
           </div>
           {{ end }}
           <label class="gs-consent">
@@ -128,8 +128,12 @@
       var isStaff = !!who && role === 'Teacher or school staff';
       show(tutoringWrap, tutoring, isParent);
       /* With an opt-in on the page, the phone field exists only to return a
-         parent's request, so it appears once the box is ticked. */
-      show(phoneWrap, phone, tutoring ? (isParent && tutoring.checked) : true);
+         parent's request, so it appears once the box is ticked, and a ticked
+         box needs a number to call. Required is set here rather than in the
+         markup so that, without JS, nobody is made to give one. */
+      var wantsCall = isParent && !!tutoring && tutoring.checked;
+      show(phoneWrap, phone, tutoring ? wantsCall : true);
+      if (phone && tutoring) phone.required = wantsCall;
       show(yearWrap, year, !isStaff);
       if (year) year.required = !isStaff;
     }
