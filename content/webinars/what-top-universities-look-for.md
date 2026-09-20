@@ -21,7 +21,6 @@ hero_replay_note: "<b>Cannot make it live?</b> Register anyway. Everyone who sig
 # registering and only shows the tutoring opt-in, and the phone field, to a
 # parent who ticks it. Students and school staff are never asked.
 ask_registrant_type: true
-ask_school: true
 ask_tutoring_interest: true
 year_label: "Year group"
 # Values must match the Zoho LEADCF3 picklist exactly.

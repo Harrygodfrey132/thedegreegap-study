@@ -6,7 +6,6 @@
        askRegistrant    ask who is registering: a parent, a student, or school
                         staff. Pages that schools share set this, so a student is
                         never asked a question written for a parent.
-       askSchool        an optional school or college field
        askTutoring      a tutoring opt-in, shown only to a parent or guardian.
                         The phone field then appears only once that box is
                         ticked, since a number is only ever used to return that
@@ -72,12 +71,6 @@
               {{ range $yearGroups }}{{ $o := split . "|" }}<option value="{{ index $o 0 }}">{{ if gt (len $o) 1 }}{{ index $o 1 }}{{ else }}{{ index $o 0 }}{{ end }}</option>{{ end }}
             </select>
           </div>
-          {{ if .askSchool }}
-          <div class="gs-field">
-            <label for="gs-school">School or college <span>(optional)</span></label>
-            <input id="gs-school" name="school" type="text" autocomplete="organization">
-          </div>
-          {{ end }}
           {{ if .askTutoring }}
           {{/* Parent-only. The script below hides it, and the phone field, from
                students and school staff, and disables the inputs so they are

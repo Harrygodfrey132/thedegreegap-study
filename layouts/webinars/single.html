@@ -620,7 +620,6 @@
         {{ partial "webinar-form.html" (dict
           "askTutoring" $askTutoring
           "askRegistrant" .Params.ask_registrant_type
-          "askSchool" .Params.ask_school
           "submitLabel" $submitLabel
           "phoneLabel" $phoneLabel
           "yearLabel" .Params.year_label
@@ -691,7 +690,6 @@
       {{ partial "webinar-form.html" (dict
         "askTutoring" $askTutoring
         "askRegistrant" .Params.ask_registrant_type
-        "askSchool" .Params.ask_school
         "submitLabel" $submitLabel
         "phoneLabel" $phoneLabel
         "yearLabel" .Params.year_label
@@ -968,8 +966,6 @@
     }
     var registrant = (data.get('registrant') || '').trim();
     if (registrant) notes.push('Registering as: ' + registrant);
-    var school = (data.get('school') || '').trim();
-    if (school) notes.push('School: ' + school);
     if (notes.length) add('Description', notes.join('\n'));
     add('Lead Source', leadSource);
     document.body.appendChild(f);

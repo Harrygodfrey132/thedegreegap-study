@@ -42,7 +42,6 @@ When you register we collect:
 - your email address;
 - whether you are registering as a parent or guardian, a student, or a member of school or college staff;
 - the year group of the student the registration relates to;
-- the name of the school or college, if you choose to give it;
 - if you register as a parent or guardian, whether you have asked us to contact you about tutoring and, if you have, your telephone number (optional); and
 - limited technical and analytics data about your visit (see section 11).
 
