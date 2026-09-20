@@ -6,7 +6,6 @@
 {{ $heroHeading := .Params.hero_heading | default .Title }}
 {{ $heroLead := .Params.hero_lead | default .Description }}
 {{ $credential := .Params.hero_credential | default "Matched with a tutor who read the subject at a Russell Group university and reads a draft the way a judge does." }}
-{{ partial "breadcrumbs.html" . }}
 
 <section class="support-hero">
   <div class="container">
@@ -60,6 +59,32 @@
 
       {{ .Content }}
 
+      {{ with .Params.why_tutor }}
+      <section class="comp-why" aria-labelledby="comp-why-title">
+        <h2 id="comp-why-title">Why a tutor genuinely helps with {{ $comp }}</h2>
+        <p class="comp-why__intro">{{ $.Params.why_tutor_intro | default "Not by writing any of it. The competition forbids that, and so do we. This is what one-to-one help actually changes." }}</p>
+        <ul class="comp-why__list">
+          {{ range . }}
+          <li>
+            <strong>{{ .title }}</strong>
+            <p>{{ .text }}</p>
+          </li>
+          {{ end }}
+        </ul>
+      </section>
+      {{ end }}
+
+      <aside class="comp-cta" aria-labelledby="comp-cta-title">
+        <p class="comp-cta__eyebrow">Free 15-minute call</p>
+        <h2 id="comp-cta-title">You do not need to do this alone</h2>
+        <p>Get in touch with a qualified adviser within 24 hours. Tell us the competition, the subject and the deadline, and we'll say honestly whether a tutor would help and who we'd match the student with. Every family speaks with a co-founder before any tutor is matched.</p>
+        <div class="comp-cta__actions">
+          <a href="{{ "book-a-call/" | relURL }}" class="btn btn-primary btn-lg">Book a free call</a>
+          <a href="#get-help" class="btn btn-outline btn-lg">Ask about {{ $comp }} support</a>
+        </div>
+        <p class="comp-cta__proof"><span class="comp-cta__stars" aria-hidden="true">★★★★★</span> <strong>5.0</strong> from {{ site.Params.googleReviewCount }} Google reviews. <button type="button" class="comp-cta__reviews-link" data-reviews-open>Read them</button></p>
+      </aside>
+
       {{ partial "essay-competition-process.html" . }}
 
       {{ with .Params.faqs }}
@@ -105,5 +130,7 @@
   </div>
 </div>
 
+{{ partial "essay-reviews.html" . }}
 {{ partial "formspree.html" . }}
+{{ partial "reviews-drawer.html" . }}
 {{ end }}

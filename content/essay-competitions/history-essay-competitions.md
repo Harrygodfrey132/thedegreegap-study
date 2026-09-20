@@ -25,13 +25,27 @@ facts:
     value: "Julia Wood up to £500. Robson £600 and £400, split between student and school. Fitzwilliam £200. Newnham £400, £200 and £100. John Locke US$5,000, US$2,000 and US$1,000 scholarships. The Concord Review: publication, and the Emerson Prize for selected published authors."
   - label: "Cost"
     value: "All free to enter except The Concord Review, which charges an author membership to submit."
+why_tutor_intro: "Every prize here is judged by historians who require the student's own work. A History tutor changes what the student reads, asks and argues, not who writes it."
+why_tutor:
+  - title: "Somewhere the syllabus didn't go"
+    text: "A tutor who read History at Oxford, Cambridge or another Russell Group university knows the periods the judges see too much of, and can point a student towards the Haitian Revolution or the Mughal economy with two books to start on."
+  - title: "Naming the debate"
+    text: "Historiography is what separates a university essay from a school one. A tutor shows the student which historians disagree about their question, and helps them pick a side and defend it."
+  - title: "Reading one source properly"
+    text: "A parish register, a Hansard debate, a pamphlet. A tutor teaches the questions a historian asks of a document, which is worth more to the judges than ten sources summarised."
+  - title: "Argument, not narrative"
+    text: "The claim in paragraph one, held to the end. A tutor agrees the structure on the shared whiteboard before drafting, so the story of what happened serves the argument instead of replacing it."
+  - title: "The ceiling and the footnotes"
+    text: "Julia Wood's 4,000 words is a ceiling, not a target, and Robson counts footnotes. A tutor reads the final draft as a college fellow would and cuts what isn't earning its place."
+  - title: "Honest advice on scope"
+    text: "Whether The Concord Review is realistic this year, whether the EPQ can become a Julia Wood entry, and which July deadline fits the student's exams. A tutor has seen enough entries to say."
 sidebar_cta: "Work one-to-one with a tutor who can turn a favourite period into a historical argument, with a debate named and a source read properly."
 form_cta: "Get tutoring for a history essay competition"
-form_intro: "Tell us which competition, the question or period if the student has one, and what they've read beyond the A-Level course. We'll come back with how we'd support the entry and who we'd match them with."
-form_message_label: "Which competition, and where is the student now?"
+form_intro: "Tell us the competition, the period the student cares about, and anything they've read beyond the A-Level course. We'll come back with a plan and a History tutor to run it."
+form_message_label: "Which prize, and which period?"
 form_message_placeholder: "For example: my daughter is in Year 12 doing History, English and Politics, wants to enter the Julia Wood competition on something to do with the Haitian Revolution, and has read one chapter of C. L. R. James."
 form_button: "Ask about history competition tutoring"
-form_note: "We reply within one working day. No obligation, and the student writes every word."
+form_note: "We reply within one working day, with no obligation. The essay is the student's own, start to finish."
 related_pages:
   - title: "Oxford and Cambridge college essay prizes"
     url: "/essay-competitions/oxford-and-cambridge-college-essay-competitions/"
@@ -51,7 +65,7 @@ faqs:
   - q: "What do the judges mean by historiography?"
     a: "That historians disagree, and the student knows it. An essay that names a debate, Thompson against the older labour historians, Beard against the narrative tradition on Rome, and takes a side in it is doing what university History does. An essay that tells the story of what happened, however well, is doing what school History does. The competitions are set by university historians, and they shortlist the first kind."
   - q: "How much help is allowed?"
-    a: "The essay must be the student's own work, and the colleges say so. Talking the question through, being pointed at two or three historians and a primary source, and having a draft marked is the help a teacher gives, and that's the line we work to. A tutor on our platform asks the questions and marks the draft. The student reads, writes and submits it."
+    a: "The colleges ask for unaided work in the sense that matters: the argument and the prose must be the student's. Suggesting which historians disagree about the question, handing over a primary source and marking a draft against what a college fellow rewards is teaching, and it's what History tutors on our platform do. Writing any of it would disqualify the entry, and we don't."
 ---
 
 By the spring of Year 12 most History students have done the Tudors, the Nazis and the Cold War, and some of them have found the thing they actually care about, which is usually none of those. The competitions on this page are where that goes. Two of them, Julia Wood and Robson, are judged by Oxford and Cambridge historians and close in late July, which suits a Year 12 timetable well.
@@ -64,7 +78,7 @@ The 2026 deadline was 2pm on 22 July, and the college reported 1,039 entries, so
 
 ## The Robson History Prize
 
-Trinity College, Cambridge sets the Robson questions in March and closes the prize at 12 noon on the last working day of July, with no late entries. Year 12 students write no more than 3,000 words including footnotes. The first prize is £600 and the second £400, each split between the student and their school, with the school's half as book tokens.
+Trinity College, Cambridge sets the Robson questions in March and closes the prize at 12 noon on the last working day of July, with no late entries. Year 12 students write no more than 3,000 words including footnotes. Trinity gives half of each prize to the student and half to their school as book tokens: £600 for first and £400 for second.
 
 Robson questions are historians' questions. They tend to ask about causation, continuity and the use of evidence rather than about a period, and the college fellows who mark them are reading for an argument they could disagree with. A student who has read one serious historian on their chosen problem is at a large advantage.
 
@@ -99,7 +113,3 @@ Every one of these prizes is judged by people who teach History at a university,
 **Counterfactuals done with discipline.** John Locke's Library of Alexandria question invites a fantasy. The strong answer sets out what the library actually held, what was already copied elsewhere, and what the loss did and didn't change, before it speculates.
 
 **The word limit respected.** Julia Wood's 4,000 words is a ceiling, not a target. Robson counts footnotes. A tutor's most useful job in July is cutting.
-
-## How we help
-
-A History tutor on our platform, someone who read the subject at Oxford, Cambridge or another Russell Group university, works with the student from the question onwards. Which question, and which period, they can actually argue. Two or three historians and one primary source, chosen for the question. A structure agreed on the shared whiteboard before a word is written. Then drafts marked the way a college fellow reads them: where is the claim, where is the evidence, which historian would disagree. The student reads, writes and submits it. That's what every prize here requires, and it's what makes the essay worth having.

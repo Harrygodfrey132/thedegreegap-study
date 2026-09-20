@@ -28,13 +28,27 @@ facts:
     value: "A winner from each Commonwealth region and one overall winner. The regional winners are brought to London for a week of literary and cultural events, ending with an award ceremony at a Royal Palace hosted by The Queen."
   - label: "Cost"
     value: "Free to enter."
+why_tutor_intro: "The Royal Commonwealth Society wants the student's own writing, and so do we. A tutor's job on a Commonwealth entry is to ask the right questions and read honestly."
+why_tutor:
+  - title: "Finding the claim in the theme"
+    text: "A theme invites a poster. A tutor's first job is to get the student to one sentence somebody could disagree with, before any writing starts, so the piece has a point rather than a topic."
+  - title: "One idea in a thousand words"
+    text: "Most drafts try to cover everything. A tutor helps the student choose the one scene worth the space and drop the rest, which is the hardest edit for a 13-year-old to make alone."
+  - title: "A reader who isn't a parent or a teacher"
+    text: "Honest reactions to a draft from someone with no stake in being kind: what a stranger takes from the first line, where they stop reading, what they remember."
+  - title: "Voice, not polish"
+    text: "The judges are reading thousands of pieces, and the ones that sound like a real young writer stand out. A tutor cuts the borrowed model-answer phrasing and keeps the sentences that sound like the student."
+  - title: "The rules, the form and the deadline"
+    text: "Which forms the current rules accept, the word limit, the April deadline, and entering in the student's own name. Simple things, and the ones that get an entry rejected."
+  - title: "Pacing for younger writers"
+    text: "Tutors on our platform who work with Year 8 to Year 10 students run this as three or four short sessions over a month, not a marathon in the last week."
 sidebar_cta: "Work one-to-one with an English tutor who can turn a theme into a claim and help a student say one thing well in 1,000 words."
 form_cta: "Get tutoring for a Commonwealth competition entry"
 form_intro: "Tell us the student's year group, whether they have an idea yet, and how much time there is before the deadline. We'll come back with how we'd support the piece."
 form_message_label: "Where is the student with the piece?"
 form_message_placeholder: "For example: my daughter is in Year 9, her school has pushed the Commonwealth competition, she wants to write about her grandmother's village in Kerala but her draft reads like a school report."
 form_button: "Ask about Commonwealth competition tutoring"
-form_note: "We reply within one working day. No obligation, and the student writes every word."
+form_note: "We reply within a working day. No pressure, and the writing stays the student's."
 related_pages:
   - title: "Orwell Youth Prize"
     url: "/essay-competitions/orwell-youth-prize/"
@@ -88,7 +102,3 @@ Almost every competition on this site sets a question. This one sets a theme, an
 **Write like the writer, not like a textbook.** The judges are reading thousands of pieces. A voice that sounds like a real 14-year-old, with a real opinion, stands out from the first line. A voice borrowed from a GCSE model answer does not.
 
 **Cut the last paragraph.** Most drafts end by restating the theme. If the piece has done its work, the reader already knows what it meant. End on the scene, or on the thing the student still can't decide.
-
-## How we help
-
-For this competition the tutor is usually an English tutor, and the job is closer to editing than to teaching. A first session to find the claim in what the student already wants to write about. A draft read honestly, with the slogans marked. A second draft cut to length. And the rules read together, so the student submits the right form, on time, with their own name on their own work.

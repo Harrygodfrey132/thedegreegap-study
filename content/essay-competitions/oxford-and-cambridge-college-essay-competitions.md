@@ -25,13 +25,27 @@ facts:
     value: "Typically £100 to £600, often split between the student and their school, plus commendations. Winners are sometimes invited to a prize-giving at the college."
   - label: "Cost"
     value: "Free to enter. None of the competitions on this page stated a fee in 2026."
+why_tutor_intro: "Every college on this page requires the student's own work, and a tutor on our platform never writes a word of an entry. What changes is everything before and after the writing."
+why_tutor:
+  - title: "Someone who has been marked by a fellow"
+    text: "Tutors on our platform who read the subject at Oxford or Cambridge know what a college prize rewards in 2,500 words: a claim held to the end, not coverage. They've had their own essays returned by the people who judge these."
+  - title: "Picking the right prize for this student"
+    text: "A dozen competitions, with different dates, limits and rules. A tutor matches the student's period, text or interest to the prize whose question fits, and the deadline to the school year, rather than guessing from a list."
+  - title: "The reading the question needs"
+    text: "One or two texts chosen for the question, and the chapter where the argument lives. Not a reading list that looks impressive and never gets finished."
+  - title: "Structure before the first draft"
+    text: "A plan on the shared whiteboard, with the objection a fellow would raise built in. Most college entries fail on structure, not knowledge, and structure is fixable before a word is written."
+  - title: "The cut"
+    text: "Trinity, Queens' and Fitzwilliam all say over-length entries go unread. A tutor reads the final draft as a fellow would, marks the paragraph doing no work, and gets the essay under the limit with the argument intact."
+  - title: "A first session that finds the prize, from £37"
+    text: "One lesson to pick the competition and the question, priced by the hour like every session on our platform. If the student and tutor don't click, we re-match without fuss."
 sidebar_cta: "Work one-to-one with a tutor who read the subject at Oxford or Cambridge and knows what a college fellow rewards in 2,500 words."
 form_cta: "Get tutoring for a college essay prize entry"
 form_intro: "Tell us which college competition the student is aiming at, or the subject if they haven't chosen, and the year group. We'll suggest the right prize and match them with a tutor."
 form_message_label: "Which competition or subject, and where is the student now?"
 form_message_placeholder: "For example: my daughter is in Year 12 studying History, English and Politics, she wants to enter the Robson History Prize at Trinity, and she has a question in mind but hasn't read beyond the A-Level textbook."
 form_button: "Ask about college essay prize tutoring"
-form_note: "We reply within one working day. No obligation, and the student writes every word."
+form_note: "One working day to reply, no obligation. The college's own-work rule is ours too."
 related_pages:
   - title: "Oxford application support"
     url: "/personal-statement-tutor/oxford/"
@@ -99,5 +113,3 @@ Trinity splits each cash prize equally between the student and their school, wit
 Read the questions from any of these and one thing stands out: they're set by people who teach the subject, and they want to see a student think the way an undergraduate does. A Robson question is a historian's question. A Gould question expects close reading, not plot summary. The Kelvin wants a scientific argument, not a project write-up.
 
 So the same problems that sink a John Locke entry sink these, in a smaller field where each one is more visible. Coverage in place of a claim. Sources cited to show they've been read rather than used to prove something. The introduction that restates the question for 300 words. And, more than anywhere else, the entry that goes over the word count, because most colleges say in plain terms that they won't read it.
-
-A tutor on our platform who read the subject at Oxford or Cambridge knows what a fellow is looking for at this length. The work is the same as for any serious essay: choose a question the student can argue, agree the reading, plan the structure before a word goes down, and mark the drafts honestly. The student writes it. That's not a rule we've added. It's what every one of these colleges requires.

@@ -12,6 +12,16 @@
 
   Renders hidden, so with JavaScript off nothing appears and nothing shifts.
 */}}
+{{/* Copy varies by section. Essay competition guides get the adviser framing
+     and a review about writing help; everything else keeps the original copy.
+     Any page can override a line with cbp_title, cbp_lead or cbp_points. */}}
+{{ $isEssay := eq .Section "essay-competitions" }}
+{{ $comp := .Params.competition | default "an essay competition" }}
+{{ $eyebrow := .Params.cbp_eyebrow | default (cond $isEssay "Free 15-minute call about the entry" "Free 15-minute call") }}
+{{ $title := .Params.cbp_title | default (cond $isEssay "You do not need to do this alone" "Not sure where to start?") }}
+{{ $lead := .Params.cbp_lead | default (cond $isEssay (printf "Get in touch with a qualified adviser within 24 hours. We will tell you honestly whether a tutor would help with a %s entry, and who we would match the student with." $comp) "Speak to one of us before anything is booked. We will tell you honestly whether tutoring is what your child needs, and which tutor fits if it is.") }}
+{{ $points := .Params.cbp_points | default (cond $isEssay (slice "A tutor who read the subject at a Russell Group university" "Two or three tutor profiles within 24 hours, first session from £37") (slice "Two or three tutor profiles within 24 hours" "First lesson from £37, only pay if you continue")) }}
+{{ $essayReview := index (where site.Data.reviews "name" "Aila Muhammad") 0 }}
 <div class="cbp" id="cbp" hidden data-cbp>
   <div class="cbp__scrim" data-cbp-close></div>
   <div class="cbp__card" role="dialog" aria-modal="true" aria-labelledby="cbp-title" aria-describedby="cbp-lead" tabindex="-1">
@@ -31,19 +41,17 @@
     </figure>
 
     <div class="cbp__body">
-      <p class="cbp__eyebrow">Free 15-minute call</p>
-      <h2 class="cbp__title" id="cbp-title">Not sure where to start?</h2>
-      <p class="cbp__lead" id="cbp-lead">Speak to one of us before anything is booked. We will tell you honestly whether tutoring is what your child needs, and which tutor fits if it is.</p>
+      <p class="cbp__eyebrow">{{ $eyebrow }}</p>
+      <h2 class="cbp__title" id="cbp-title">{{ $title }}</h2>
+      <p class="cbp__lead" id="cbp-lead">{{ $lead }}</p>
 
       <ul class="cbp__points">
+        {{ range $points }}
         <li>
           <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>
-          <span>Two or three tutor profiles within 24 hours</span>
+          <span>{{ . }}</span>
         </li>
-        <li>
-          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>
-          <span>First lesson from £37, only pay if you continue</span>
-        </li>
+        {{ end }}
       </ul>
 
       {{/* A real review, verbatim from data/reviews.yaml. Sits above the button
@@ -53,11 +61,22 @@
            they paired her, the pairing worked. A review about something else,
            however good, is evidence for a different argument. Do not trim it.
            These are a real person's words and the owner can spot an edit. */}}
+      {{ if and $isEssay $essayReview }}
+      {{/* Essay pages promise help shaping a piece of writing that stays the
+           student's own, so the review is the one about exactly that. Pulled
+           from data/reviews.yaml so it is verbatim by construction. */}}
+      <figure class="cbp__quote">
+        <span class="cbp__stars" aria-hidden="true">★★★★★</span>
+        <blockquote>{{ $essayReview.text }}</blockquote>
+        <figcaption>Aila, student <span class="cbp__quote-sep" aria-hidden="true">·</span> one of {{ site.Params.googleReviewCount }} Google reviews</figcaption>
+      </figure>
+      {{ else }}
       <figure class="cbp__quote">
         <span class="cbp__stars" aria-hidden="true">★★★★★</span>
         <blockquote>The Degree Gap took time to understand my child's worries. They paired me with Connor, who my daughter got on well with. Her confidence has skyrocketed since.</blockquote>
         <figcaption>Dawn, parent <span class="cbp__quote-sep" aria-hidden="true">·</span> one of {{ site.Params.googleReviewCount }} Google reviews</figcaption>
       </figure>
+      {{ end }}
 
       <p class="cbp__rating">
         <span class="cbp__stars" aria-hidden="true">★★★★★</span>

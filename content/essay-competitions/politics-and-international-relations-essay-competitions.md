@@ -25,13 +25,27 @@ facts:
     value: "R.A. Butler: £600 and £400, each split between student and school, plus around eight special commendations and forty commendations. LSE UPR: publication, a conference invitation and a certificate. Harvard International Review: gold, silver and bronze medals. John Locke: scholarships towards its programmes."
   - label: "Cost"
     value: "R.A. Butler, John Locke and LSE UPR are free. The Harvard International Review contest charges an entry fee."
+why_tutor_intro: "The R.A. Butler and John Locke rules both require the student's own work, and we hold to that. Here's what a Politics or IR tutor actually does for an entry."
+why_tutor:
+  - title: "Defining the concept first"
+    text: "Democracy, crisis, authoritarianism, self-determination. A tutor who read Politics or IR makes the student pin down the word the question turns on before anything else, which is the step most entries skip."
+  - title: "Building a real comparison"
+    text: "One case proves nothing. A tutor helps choose two cases that differ in the right way, and shows how to use the difference as evidence."
+  - title: "Sources a judge can check"
+    text: "Freedom House, the V-Dem indices, Electoral Commission data, a named statute or judgment. Where to find them and how to cite them without eating the word limit."
+  - title: "Theory used, not recited"
+    text: "Realism and liberalism as tools for asking why a state did something, applied to the question in hand, rather than a paragraph listing schools of thought."
+  - title: "The other side, properly"
+    text: "A tutor argues the opposing case until the student can state it better than most of its supporters, and then answer it. That's what turns an op-ed into political science."
+  - title: "Choosing the right competition"
+    text: "R.A. Butler, John Locke, LSE UPR or Harvard International Review. A tutor helps match the student's timetable and ambition to the right one, and the same reading often serves two."
 sidebar_cta: "Work one-to-one with a tutor who can turn a strong political opinion into a defined concept, a comparison and a piece of evidence."
 form_cta: "Get tutoring for a politics essay competition"
-form_intro: "Tell us which competition, the question if the student has one, and what they've read. We'll come back with how we'd support the entry and who we'd match them with."
-form_message_label: "Which competition, and where is the student now?"
+form_intro: "Tell us whether it's the R.A. Butler Prize, John Locke or another, the question if there is one, and the student's subjects. We'll come back with a plan for the entry and a tutor to run it."
+form_message_label: "Which prize, and which question?"
 form_message_placeholder: "For example: my daughter is in Year 12 doing Politics, History and Economics, wants to enter the R.A. Butler Prize in July, and has strong views on whether democracy is in crisis but hasn't read anything beyond the news."
 form_button: "Ask about politics competition tutoring"
-form_note: "We reply within one working day. No obligation, and the student writes every word."
+form_note: "Reply within a working day, no obligation. The student writes and submits every word."
 related_pages:
   - title: "John Locke essay competition"
     url: "/essay-competitions/john-locke-essay-competition/"
@@ -51,7 +65,7 @@ faqs:
   - q: "Should the essay take a side on a live issue?"
     a: "Yes, and it should expect to be disagreed with. The trap is the op-ed: a confident voice, a few examples from the news, no evidence anyone could check. The fix is a comparison and a source. Two cases rather than one. A Freedom House score, a V-Dem index, a turnout series from the Electoral Commission rather than an impression. The student's view survives that process or it doesn't, and either way the essay is better."
   - q: "How much help is allowed?"
-    a: "The essay must be the student's own work, and Trinity and John Locke both say so in plain terms. Talking the question through, being pointed at reading and having a draft marked is the help a teacher gives, and that's the line we work to. A tutor on our platform argues with the student and marks the draft. The student writes every sentence and submits it themselves."
+    a: "Trinity's rules and the Institute's declaration both say the essay must be the student's own, and the Institute contacts a referee to check. A tutor who defines the concept with the student, points them at V-Dem or Freedom House and reads the draft as a hostile examiner is doing what a politics teacher does with a strong Year 12. A tutor who drafts a paragraph is breaking the rules, and we won't."
 ---
 
 There's a type of sixth former who argues about power. Not party politics, or not only. Why the council can close a library. Whether a referendum settles anything. Why one country's election went one way and its neighbour's the other. That student usually ends up applying for Politics, PPE, International Relations or History, and the question is where to put the arguing before then.
@@ -62,7 +76,7 @@ The competitions below are the answer. They fall into three kinds: the college p
 
 Trinity College, Cambridge runs the R.A. Butler Prize with the university's Department of Politics and International Studies, and for a UK Year 12 it's the best fit on this page. Students in their penultimate year of school, from any country, write up to 3,000 words including footnotes on one of a set of topics released in March. The deadline in 2026 was 12 noon on 31 July, and the college doesn't accept late entries. The prize drew 1,040 entries that year.
 
-The first prize is £600 and the second £400, each split equally between the student and their school, with the school's half as book tokens. What matters more is the commendation list: the department typically names around eight special commendations and forty commendations, so a good essay has a realistic chance of a line a school reference can use. The next topics are due in March 2027.
+The first prize is £600 and the second £400, each split down the middle with the student's school, which takes its half in book tokens. What matters more is the commendation list: the department typically names around eight special commendations and forty commendations, so a good essay has a realistic chance of a line a school reference can use. The next topics are due in March 2027.
 
 ## John Locke: Politics, International Relations and Public Policy
 
@@ -95,7 +109,3 @@ Every judge on this page, apart from the LSE undergraduates, teaches politics fo
 **Theory used, not recited.** In international relations, realism and liberalism are tools for asking why states do things, not names to drop. One school of thought applied to the actual question beats a tour of all of them.
 
 **The other side, stated properly.** These are contested questions, and the judges hold views. An essay that gives the strongest version of the opposing case and answers it reads as political science. One that ignores it reads as an op-ed.
-
-## How we help
-
-A Politics or IR tutor on our platform works with the student from the question onwards. Which question they can actually argue. The concept, defined in the first session. Two or three sources, chosen for the question rather than for the bibliography. A plan on the shared whiteboard before a word is written, and drafts marked the way a department would read them. The student writes it and submits it. That's the rule of every competition here, and it's ours.

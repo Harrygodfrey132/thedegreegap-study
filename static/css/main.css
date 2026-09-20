@@ -10541,3 +10541,74 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   .comp-calendar { display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; }
   .comp-calendar th, .comp-calendar td { min-width: 160px; }
 }
+
+/* Competition guides: why-a-tutor list and the mid-page call to action. Both
+   sit inside .page-content, whose list and heading rules need overriding. */
+.comp-why { margin: 44px 0 8px; }
+.comp-why__intro { max-width: 640px; color: var(--text-muted); }
+.page-content .comp-why__list {
+  list-style: none;
+  margin: 22px 0 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+}
+.page-content .comp-why__list li {
+  margin: 0;
+  padding: 18px 20px;
+  background: #fdfbf8;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  font-size: 0.95rem;
+}
+.page-content .comp-why__list li::before { content: none; }
+.comp-why__list strong { display: block; margin-bottom: 6px; color: var(--text); font-size: 1rem; line-height: 1.3; }
+.comp-why__list p { margin: 0; color: var(--text-muted); line-height: 1.6; font-size: 0.93rem; }
+
+.comp-cta {
+  margin: 40px 0;
+  padding: 30px 32px;
+  background: var(--burgundy);
+  color: #fff;
+  border-radius: var(--radius);
+  box-shadow: 0 16px 36px rgba(128, 0, 32, 0.18);
+}
+.comp-cta__eyebrow {
+  margin: 0 0 10px;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.78);
+}
+.page-content .comp-cta h2 {
+  margin: 0 0 10px;
+  padding: 0;
+  border: 0;
+  color: #fff;
+  font-size: clamp(1.5rem, 2.4vw, 2rem);
+}
+.comp-cta p { color: rgba(255, 255, 255, 0.92); }
+.comp-cta__actions { display: flex; flex-wrap: wrap; gap: 12px; margin: 18px 0 16px; }
+.comp-cta .btn-primary { background: #fff; color: var(--burgundy); border-color: #fff; }
+.comp-cta .btn-primary:hover { background: var(--cream); border-color: var(--cream); color: var(--burgundy-dark); }
+.comp-cta .btn-outline { color: #fff; border-color: rgba(255, 255, 255, 0.6); }
+.comp-cta .btn-outline:hover { background: #fff; color: var(--burgundy); }
+.comp-cta__proof { margin: 0; font-size: 0.9rem; }
+.comp-cta__stars { color: #FBBC05; letter-spacing: 1px; }
+.comp-cta__reviews-link {
+  padding: 0;
+  border: 0;
+  background: none;
+  color: #fff;
+  font: inherit;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.comp-reviews__cta { display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; }
+
+@media (max-width: 720px) {
+  .page-content .comp-why__list { grid-template-columns: 1fr; }
+  .comp-cta { padding: 24px 20px; }
+}

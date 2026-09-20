@@ -18,6 +18,10 @@ related_pages:
     url: "/personal-statement-tutor/cambridge/"
   - title: "History personal statement help"
     url: "/personal-statement-tutor/history/"
+  - title: "John Locke essay competition guide"
+    url: "/essay-competitions/john-locke-essay-competition/"
+  - title: "Essay competitions worth entering"
+    url: "/essay-competitions/"
 faqs:
   - q: "How many books should I actually name in an English Literature statement?"
     a: "Five or six, read seriously, beats fifteen listed. Tutors at Oxford and Cambridge read your statement the way they'd read a poem, looking for what you do with each text rather than how many you've collected. Toni Morrison's Beloved discussed in two close-read paragraphs proves more than a sentence each on ten novels. Drop any title you can't say something specific about."

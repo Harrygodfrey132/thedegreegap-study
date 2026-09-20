@@ -28,13 +28,27 @@ facts:
     value: "Winners receive £100, a certificate and the complete works of Orwell for themselves and their school. Runners-up receive a copy of Orwell's essays and a certificate. Around 40 pieces are shortlisted each year."
   - label: "Cost"
     value: "Free to enter."
+why_tutor_intro: "The Orwell Foundation asks for original work, and a tutor never writes any of it. Here's where one-to-one help earns its place on an Orwell entry."
+why_tutor:
+  - title: "Finding the scene inside the subject"
+    text: "Students arrive with an issue and no way in. A tutor asks the questions that turn 'the housing crisis' into the empty flat above the shop, which is where Orwell's own essays start."
+  - title: "Orwell's rules applied to the draft"
+    text: "Plain words, active verbs, cut what can be cut. A tutor reads the draft against the six rules and marks every sentence that breaks one, which is faster than the student learning it alone."
+  - title: "Making the February feedback count"
+    text: "Enter early and the Foundation sends personal feedback. A tutor works through it with the student and helps them revise before the April deadline, which is the best free edit in any competition on this site."
+  - title: "Political writing without the op-ed"
+    text: "A reader who pushes back. Where's the evidence the student saw for themselves, and what would someone who disagrees say? The winning pieces have both."
+  - title: "A form chosen to fit"
+    text: "Essay, reportage, story or poem. A tutor helps the student pick the form that carries the argument, not the one that seemed easier."
+  - title: "Short sessions, priced by the hour"
+    text: "Three or four sessions between the theme coming out and the April deadline, from £37 each. Nothing to buy up front, and a co-founder on the phone before any tutor is matched."
 sidebar_cta: "Work one-to-one with a tutor who can help a student write about something they've actually seen, in language Orwell would have let through."
 form_cta: "Get tutoring for an Orwell Youth Prize entry"
 form_intro: "Tell us the student's year group, whether they have a subject in mind, and how far the draft has got. We'll come back with how we'd support the piece."
 form_message_label: "Where is the student with the piece?"
 form_message_placeholder: "For example: my son is in Year 11, he wants to write about the bus service being cut in our town, and he has 1,800 words of notes and no idea what the argument is."
 form_button: "Ask about Orwell Youth Prize tutoring"
-form_note: "We reply within one working day. No obligation, and the student writes every word."
+form_note: "A reply within one working day, and no obligation. The piece stays entirely the student's own."
 related_pages:
   - title: "Queen's Commonwealth Writing Competition"
     url: "/essay-competitions/queens-commonwealth-writing-competition/"
@@ -54,7 +68,7 @@ faqs:
   - q: "How does this help a university application?"
     a: "Directly, not much, unless the student is shortlisted, and then it's a line in the statement and a good interview conversation. Indirectly, a lot. Writing 1,500 words about something real, to a theme, and having it read by strangers, is the closest thing a Year 12 gets to the essay work a humanities degree runs on. It's also a very good way to find out whether they like it."
   - q: "How much help is allowed?"
-    a: "The piece must be the student's own work. Talking it through, being pointed at examples of good political writing and having a draft read critically are the kinds of help a teacher gives, and that's the line we work to. A tutor on our platform asks the questions and marks the draft. The student writes it, and enters it themselves."
+    a: "The Foundation wants the student's own writing, and it can tell. What's fine is what a good English teacher would do: talk through the subject, suggest a couple of Orwell essays to read, and hand a draft back covered in questions. That's the job a tutor on our platform does. Nobody writes a sentence for the student, and the student enters the piece themselves."
 ---
 
 Somewhere in most schools there's a Year 10 with opinions and nowhere to put them. The bus route that got cut. The uniform rule that makes no sense. The thing that happened to a cousin. They can write, when they're allowed to write about something that matters, and the Orwell Youth Prize is where that gets to happen.
@@ -107,7 +121,3 @@ The other thing the winning entries share is a scene. Orwell's best essays start
 **Overwriting.** Sixth formers, in particular, reach for the long word. Orwell's rules exist because the plain sentence is harder to write and better to read.
 
 **Missing the early deadline.** The feedback is the best thing about the prize, and it's only there for the students who enter in February.
-
-## How we help
-
-For the Orwell prize a tutor's job is mostly editing. A first session to find the scene inside the subject, and the claim inside the scene. A draft read against Orwell's rules, honestly. And, if the student entered early, a session working through the Foundation's feedback before the final version goes in. The student writes it, in their own words. That's the whole point of the prize.

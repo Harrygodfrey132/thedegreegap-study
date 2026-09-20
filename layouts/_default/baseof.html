@@ -123,7 +123,7 @@
        search traffic and have the furthest to travel to a booking. Not on
        /book-a-call/ itself, and not on the referral landing pages, which
        already open with a form. */}}
-  {{ if in (slice "locations" "blog") .Section }}
+  {{ if in (slice "locations" "blog" "essay-competitions") .Section }}
     {{ partial "callback-prompt.html" . }}
   {{ end }}
 

@@ -25,13 +25,27 @@ facts:
     value: "John Locke: US$5,000, US$2,000 and US$1,000 scholarships per category. Newnham: £400, £200 and £100. Think prize: shortlisted entrants receive a year's subscription to Think, with further prizes for the longlist and the winner. Lloyd Davies: prizes and commendations."
   - label: "Cost"
     value: "All free to enter."
+why_tutor_intro: "Nobody can write a philosophy essay for someone else and have it survive a question at interview. The student writes it. A tutor changes how they think about it first."
+why_tutor:
+  - title: "From 'it depends' to a thesis"
+    text: "Most students start with a sense that the question is complicated. A tutor who read Philosophy gets them to a claim in the first session, and to the reasons for it in the second."
+  - title: "The objector in the room"
+    text: "The tutor argues the strongest objection to the student's thesis until the student can state it better than the tutor can. The reply that follows is the heart of the essay."
+  - title: "One text, read closely"
+    text: "Which chapter of Mill, Kant, Parfit or Nagel the question actually needs, and how to take a single argument apart on the page rather than name-dropping four."
+  - title: "Plain language over vocabulary"
+    text: "Sixth formers reach for the technical term. A tutor cuts the borrowed jargon and keeps the sentence that says what the student means, which is what the judges reward."
+  - title: "No 'it's subjective' ending"
+    text: "The most common last paragraph in a school philosophy essay, and the one guaranteed to lose the judges. A tutor makes sure the essay ends on the argument, not on a shrug."
+  - title: "For students without a Philosophy A-Level"
+    text: "Most entrants have never sat a philosophy lesson. A tutor teaches the method, thesis, objection and reply, from scratch in a few sessions, and the student applies it to their own question."
 sidebar_cta: "Work one-to-one with a tutor who can take a student from 'it depends what you mean' to a thesis, an objection and a reply."
 form_cta: "Get tutoring for a philosophy essay competition"
-form_intro: "Tell us which competition, the question if the student has one, and what they've read. We'll come back with how we'd support the entry and who we'd match them with."
-form_message_label: "Which competition, and where is the student now?"
+form_intro: "Tell us the competition, the question the student is drawn to, and whether they study Philosophy or Religious Studies. We'll suggest a tutor who reads their thesis the way an objector would."
+form_message_label: "Which question, and what does the student already think about it?"
 form_message_placeholder: "For example: my son is in Year 12 doing Religious Studies, Maths and English, wants to enter John Locke Philosophy on whether it's ever wrong to do the right thing for the wrong reasons, and has read some Kant on the school course but nothing else."
 form_button: "Ask about philosophy competition tutoring"
-form_note: "We reply within one working day. No obligation, and the student writes every word."
+form_note: "One working day to reply, and no obligation. The argument, and every sentence of it, stays the student's."
 related_pages:
   - title: "John Locke essay competition"
     url: "/essay-competitions/john-locke-essay-competition/"
@@ -51,7 +65,7 @@ faqs:
   - q: "Should the essay use thought experiments?"
     a: "If it does something with them. The trolley problem and the experience machine are in half the entries. The essay that uses one to isolate the exact feature the question turns on, and then varies it, is doing philosophy. The essay that describes one and says it shows the issue is complicated is not. Better still is a thought experiment the student built for the question."
   - q: "How much help is allowed?"
-    a: "The essay must be the student's own work, and every competition here says so. Talking the question through, being pointed at one or two texts and having a draft marked is the help a teacher gives, and that's the line we work to. A tutor on our platform plays the objector and marks the draft. The student writes every sentence."
+    a: "Enough to make the argument better, and none that makes it someone else's. Philosophy is unusual here: the help that works is a person disagreeing with the student out loud until the thesis holds. That's what a tutor on our platform does across three or four sessions. The writing, the citations and the submission are the student's, which every competition here requires."
 ---
 
 Philosophy hardly exists as an A-Level, so the sixth former who asks "but why is that wrong?" usually has nowhere in the timetable to put the question. That's what these competitions are for. Every one of them is free, most take students who have never sat a philosophy lesson, and the judges are philosophers who want to see an argument built rather than a topic described.
@@ -76,22 +90,15 @@ Trinity College, Cambridge lists a Philosophy Essay Prize among its competitions
 
 One to avoid chasing: the Uehiro Oxford Prize in Practical Ethics is open only to students already at a UK university. School students can't enter, however good the question looks.
 
-## What philosophers reward
+## The shape of a philosophy essay the judges shortlist
 
-Philosophers read essays for a structure, and it's a simple one.
+Philosophers read for a structure, and it's the same one whether the judge sits at the Royal Institute of Philosophy, Oriel or the John Locke Institute. In order:
 
-**A thesis in the first paragraph.** Not a promise to explore the question. A claim: it is never wrong to do the right thing for the wrong reasons, because what makes an act right is what it does, not why it was done. The reader now knows what they're arguing with.
+1. **The thesis, in the first paragraph.** Not a promise to explore the question. A claim: it is never wrong to do the right thing for the wrong reasons, because what makes an act right is what it does, not why it was done. The reader now knows what they're arguing with.
+2. **The terms, defined.** Every question here turns on a word. Right, wrong, reason, consolation, experience. The essay that stops to say what it means by the word, and why that meaning rather than another, has done philosophy before it has argued anything.
+3. **The strongest objection, given fairly.** Not a weak version set up to be knocked down. The best objection the student can find, stated so well that the reader briefly agrees with it. An essay with no objection in it is a speech.
+4. **The reply.** This is the paragraph the whole essay exists for, and the one most drafts rush. It should be longer than the objection, and it should concede whatever the objection gets right.
+5. **One text, read closely.** A single argument from Mill, Kant, Parfit or Nagel, quoted and taken apart, beats a paragraph naming all four. The judges know the names. They want to see whether the student can read one.
+6. **An ending that argues.** The most common last paragraph in a school philosophy essay says the question is ultimately subjective. It is the one ending guaranteed to lose the judges. If the student's honest view is that the question has no answer, the essay has to argue for that, which is harder than it sounds.
 
-**Terms defined.** Every question here turns on a word. Right, wrong, reason, consolation, experience. The essay that stops to say what it means by the word, and why, has done philosophy before it has argued anything.
-
-**The strongest objection, given fairly.** Not a weak version set up to be knocked down. The best objection the student can find, stated so well that the reader briefly agrees with it. Then the reply. An essay with no objection in it is a speech.
-
-**One text, engaged closely.** A single argument from Mill, Kant, Parfit or Nagel, quoted and taken apart, beats a paragraph naming all four. The judges know the names. They want to see whether the student can read one.
-
-**Plain language.** Philosophy has a vocabulary, and sixth formers reach for it. The essay that says what it means in ordinary words, and uses the technical term only when nothing else will do, reads as confident. The other kind reads as borrowed.
-
-**No "it's subjective".** The most common last paragraph in a school philosophy essay, and the one guaranteed to lose the judges. If the student's honest view is that the question has no answer, the essay has to argue for that, which is harder than it sounds.
-
-## How we help
-
-A Philosophy tutor on our platform plays the objector. The first session finds the thesis inside what the student already thinks, and defines the terms. The second builds the strongest case against it, on a shared whiteboard, until the student can state it better than the tutor. Then the reply, then the draft, then the draft marked the way a philosopher marks: where is the claim, where is the objection, what does this paragraph do. The student writes every sentence. A philosophy essay written by anyone else wouldn't be theirs, and the judges would notice.
+Throughout, plain language. Philosophy has a vocabulary and sixth formers reach for it. The essay that says what it means in ordinary words, and uses the technical term only when nothing else will do, reads as confident. The other kind reads as borrowed.

@@ -20,6 +20,10 @@ related_pages:
     url: "/personal-statement-tutor/english-literature/"
   - title: "Politics and IR Personal Statement Help"
     url: "/personal-statement-tutor/politics-and-international-relations/"
+  - title: "John Locke essay competition guide"
+    url: "/essay-competitions/john-locke-essay-competition/"
+  - title: "Essay competitions worth entering"
+    url: "/essay-competitions/"
 faqs:
   - q: "Do I need to engage with historiography to get into Oxbridge for History?"
     a: "Yes, and it's what separates the shortlist from the rest. School History teaches events, university History teaches how historians argue about those events. Reference one real debate, say E P Thompson against the older labour historians on working-class agency, or Mary Beard against the older narrative tradition on Roman citizenship. Show you know historians disagree, and that you have a view on why."

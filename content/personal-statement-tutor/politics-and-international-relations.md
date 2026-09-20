@@ -17,6 +17,10 @@ related_pages:
     url: "/personal-statement-tutor/history/"
   - title: "Economics personal statement help"
     url: "/personal-statement-tutor/economics/"
+  - title: "John Locke essay competition guide"
+    url: "/essay-competitions/john-locke-essay-competition/"
+  - title: "Essay competitions worth entering"
+    url: "/essay-competitions/"
 faqs:
   - q: "How current does my political reading need to be?"
     a: "Current enough that the events you cite haven't been overtaken, but anchored in something more durable than yesterday's headline. Reading Foreign Affairs or the LRB regularly puts you ahead of applicants who only watch BBC News. Reference one ongoing question, say US-China rivalry or constitutional reform, and tie it back to a theorist like Mearsheimer or a thinker like Hannah Arendt rather than the news cycle alone."

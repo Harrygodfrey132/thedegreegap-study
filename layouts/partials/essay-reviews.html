@@ -1,0 +1,63 @@
+{{/* Reviews for the essay competition pages. Picked by name from
+     data/reviews.yaml, so every word is verbatim by construction. The names are
+     the reviews about essays, applications and getting into university, which
+     is the claim these pages make. Order is deliberate: the first three are
+     what most readers see. */}}
+{{ $names := slice "Alison shah" "Aila Muhammad" "J.O" "Binh Trinh" "Lisa James" "Alexander Chung" "Dan James" "Kasia Niedzwiedzka Landera" "Jeanne Ruault" }}
+{{ $reviews := slice }}
+{{ range $names }}
+  {{ $n := . }}
+  {{ range where site.Data.reviews "name" $n }}{{ $reviews = $reviews | append . }}{{ end }}
+{{ end }}
+{{ $count := site.Params.googleReviewCount }}
+<section class="loc-reviews comp-reviews" aria-labelledby="comp-reviews-title">
+  <div class="container">
+    <p class="loc-eyebrow loc-eyebrow--center">Real Google reviews</p>
+    <h2 class="loc-reviews__title" id="comp-reviews-title">What parents and students say about tutoring with us</h2>
+    <div class="loc-reviews__grid">
+      {{ range first 3 $reviews }}
+      <div class="loc-review-card">
+        <span class="loc-review-card__quote" aria-hidden="true">"</span>
+        <div class="loc-review-card__header">
+          <strong>{{ .name }}</strong>
+          <span>{{ .role }}</span>
+        </div>
+        <p>{{ .text }}</p>
+      </div>
+      {{ end }}
+    </div>
+    <div class="loc-reviews__more" id="comp-reviews-more" hidden>
+      {{ range after 3 $reviews }}
+      <div class="loc-review-card">
+        <span class="loc-review-card__quote" aria-hidden="true">"</span>
+        <div class="loc-review-card__header">
+          <strong>{{ .name }}</strong>
+          <span>{{ .role }}</span>
+        </div>
+        <p>{{ .text }}</p>
+      </div>
+      {{ end }}
+    </div>
+    <button class="loc-reviews__toggle" id="comp-reviews-toggle" aria-expanded="false" aria-controls="comp-reviews-more">
+      Show more reviews
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+    </button>
+    <div class="loc-reviews__cta comp-reviews__cta">
+      <a href="{{ "book-a-call/" | relURL }}" class="btn btn-primary btn-lg">Book a free call</a>
+      <button type="button" class="btn btn-outline btn-lg" data-reviews-open>Read all {{ $count }} Google reviews</button>
+    </div>
+  </div>
+</section>
+<script>
+(function () {
+  var btn = document.getElementById('comp-reviews-toggle');
+  var more = document.getElementById('comp-reviews-more');
+  if (!btn || !more) return;
+  btn.addEventListener('click', function () {
+    var open = more.hidden;
+    more.hidden = !open;
+    btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    btn.firstChild.textContent = open ? 'Show fewer reviews ' : 'Show more reviews ';
+  });
+})();
+</script>

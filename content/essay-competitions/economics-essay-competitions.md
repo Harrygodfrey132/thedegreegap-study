@@ -25,13 +25,27 @@ facts:
     value: "IEA sixth-form category 2026: £1,500 first prize and £750 to each of two runners-up. Marshall Society: prizes for winners and publication in The Dismal Scientist. John Locke: US$5,000, US$2,000 and US$1,000 scholarships."
   - label: "Cost"
     value: "All free to enter."
+why_tutor_intro: "An economics judge can tell a student's argument from a coached one, and the competitions require the student's own work anyway. This is what a tutor changes without touching the draft."
+why_tutor:
+  - title: "From opinion to mechanism"
+    text: "A tutor who read Economics at university turns 'a cashless society hurts the poor' into a causal argument: what changes, for whom, through which channel, and what the evidence says."
+  - title: "The one model the question needs"
+    text: "Consumer surplus, elasticity, moral hazard, the discount rate. One idea from the course, drawn properly on the shared whiteboard and applied to the actual question, rather than a tour of the specification."
+  - title: "Evidence that does work"
+    text: "Where to find the Bank of England report, the ONS series or the Competition and Markets Authority study the question needs, and how to read a table rather than a headline."
+  - title: "The strongest counterargument, stated fairly"
+    text: "The IEA has a house view and the Marshall Society judges are Cambridge economists. A tutor plays the other side until the student can answer it."
+  - title: "A plan that survives the summer"
+    text: "The Marshall Society and the IEA close at the end of August. A tutor sets a timetable that gets a full draft written in July and cut in August, holidays included."
+  - title: "A co-founder who read Economics on the first call"
+    text: "Harry read Economics at LSE and often takes the first consultation himself, so the match starts with someone who knows the subject. Sessions are priced by the hour, from £37, with nothing up front."
 sidebar_cta: "Work one-to-one with an Economics tutor who can turn a current-affairs opinion into a mechanism, a model and a piece of evidence."
 form_cta: "Get tutoring for an economics essay competition"
-form_intro: "Tell us which competition, the question if the student has one, and what they've read. We'll come back with how we'd support the entry and who we'd match them with."
-form_message_label: "Which competition, and where is the student now?"
+form_intro: "Tell us which of the economics prizes the student is aiming at, or their A-Level subjects if they haven't chosen, and what they've read. We'll say which competition fits and who we'd match them with."
+form_message_label: "Which prize, and what has the student read so far?"
 form_message_placeholder: "For example: my son is in Year 12, applying for Economics at LSE and Warwick, wants to enter the Marshall Society competition over the summer, and has read Poor Economics but hasn't chosen a title."
 form_button: "Ask about economics competition tutoring"
-form_note: "We reply within one working day. No obligation, and the student writes every word."
+form_note: "We come back within one working day. No obligation, and the essay is the student's from first draft to submission."
 related_pages:
   - title: "John Locke essay competition"
     url: "/essay-competitions/john-locke-essay-competition/"
@@ -95,7 +109,3 @@ The judges for all of these are economists, and they read the way economists rea
 **The counterargument taken seriously.** The IEA in particular will have a house view on its question. A student who states the strongest version of the other side and answers it has done something most entries don't.
 
 **Cutting.** Every one of these has a hard limit. The last week is for taking out the paragraph that explains what inflation is.
-
-## How we help
-
-An Economics tutor on our platform, usually someone who read the subject at LSE, Cambridge, Warwick or another top department, works with the student from the question onwards. Which title they can actually argue. Which two or three sources the question needs. A session on the mechanism before a word is written, on a shared whiteboard, with the diagram drawn properly. Then drafts marked the way the judges will read them. The student writes it, submits it and defends it.

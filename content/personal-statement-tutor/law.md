@@ -16,6 +16,10 @@ related_pages:
     url: "/personal-statement-tutor/oxford/"
   - title: "Cambridge Law: what's different"
     url: "/personal-statement-tutor/cambridge/"
+  - title: "John Locke essay competition guide"
+    url: "/essay-competitions/john-locke-essay-competition/"
+  - title: "Essay competitions worth entering"
+    url: "/essay-competitions/"
 faqs:
   - q: "Do I need to mention the LNAT in my Law personal statement?"
     a: "No, and most strong statements don't. The LNAT is assessed separately by Oxford, UCL, KCL, Bristol, Durham, Glasgow, SOAS and Nottingham, so referencing your score wastes a precious line. Instead, show the kind of close-reading and argument-building the LNAT essay rewards by analysing a real case like R v Dudley and Stephens rather than asserting an interest in justice."
