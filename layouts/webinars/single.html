@@ -546,6 +546,29 @@
   .gs-back { padding: 30px 16px 50px; background: var(--cream); text-align: center; }
   .gs-back a { color: var(--burgundy); font-weight: 700; text-decoration: none; font-size: 0.95rem; }
   .gs-back a:hover { text-decoration: underline; }
+
+  /* ---------- FORM EXTRAS ---------- */
+  /* The hidden attribute has to beat the display rules above, or a field the
+     form script hides from a student would still show. */
+  .gs-page [hidden] { display: none !important; }
+  .gs-field__hint { margin: 6px 0 0; font-size: .8rem; line-height: 1.5; color: var(--muted); }
+  .gs-consent--optin { margin: 2px 0 16px; }
+  .gs-consent__label > span { color: var(--muted); font-weight: 500; }
+
+  /* ---------- SHARE BLOCK (wording a school can paste) ---------- */
+  .gs-inc { border-top: 1px solid var(--line); }
+  .gs-share { margin: 28px 0 0; border: 1px solid var(--line); background: var(--cream); border-radius: 12px; padding: 20px 20px 18px; }
+  .gs-share h3 { font-size: 1.1rem; font-weight: 700; color: var(--ink); margin: 0 0 4px; }
+  .gs-share__lead { margin: 0 0 14px; font-size: .94rem; color: var(--muted); line-height: 1.55; }
+  .gs-share__text { margin: 0; padding: 16px 18px; background: #fff; border: 1px solid var(--line); border-radius: 9px; font-size: .95rem; line-height: 1.65; color: var(--ink); white-space: pre-line; overflow-wrap: anywhere; }
+  .gs-share__row { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; margin: 14px 0 0; }
+  .gs-share__copy { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; padding: 10px 18px; font-family: inherit; font-size: .88rem; font-weight: 700; color: var(--burgundy); background: #fff; border: 1px solid var(--line); border-radius: 9px; cursor: pointer; transition: border-color .15s ease; }
+  .gs-share__copy:hover { border-color: #c9bda4; }
+  .gs-share__copy:focus-visible { outline: 2px solid var(--burgundy); outline-offset: 3px; }
+  .gs-share__status { font-size: .84rem; color: var(--muted); }
+  .gs-share__note { margin: 14px 0 0; font-size: .9rem; line-height: 1.6; color: var(--muted); }
+  .gs-share__note a { color: var(--burgundy); font-weight: 700; text-decoration: underline; }
+  .gs-body { padding-bottom: 28px; }
 </style>
 
 <div class="gs-page">
@@ -594,38 +617,143 @@
       </div>
       {{ if $heroForm }}
       <div class="gs-hero__formwrap" id="register">
-        {{ partial "webinar-form.html" (dict "askTutoring" $askTutoring "submitLabel" $submitLabel "phoneLabel" $phoneLabel "title" (.Params.hero_form_title | default "Save your place") "sub" (.Params.hero_form_sub | default "Free to attend. We will email you the joining link.")) }}
+        {{ partial "webinar-form.html" (dict
+          "askTutoring" $askTutoring
+          "askRegistrant" .Params.ask_registrant_type
+          "askSchool" .Params.ask_school
+          "submitLabel" $submitLabel
+          "phoneLabel" $phoneLabel
+          "yearLabel" .Params.year_label
+          "yearGroups" .Params.year_groups
+          "termsUrl" .Params.terms_url
+          "finePrint" .Params.form_fine_print
+          "title" (.Params.hero_form_title | default "Save your place")
+          "sub" (.Params.hero_form_sub | default "Free to attend. We will email you the joining link.")) }}
       </div>
       {{ end }}
     </div>
   </section>
 
-  {{ if and .Params.speaker_name (not .Params.hero_form) }}{{ with .Params.speaker_name }}
-  <!-- SPEAKER -->
-  <section class="gs-spk">
-    <div class="gs-spk__inner">
-      {{ with $.Params.speaker_photo }}
-      <div class="gs-spk__shot">
-        <img src="{{ (strings.TrimPrefix "/" .) | relURL }}" alt="{{ $.Params.speaker_name }}, {{ $.Params.speaker_role }}" width="148" height="148" loading="eager" fetchpriority="high" decoding="async">
-      </div>
+  {{ if and .Params.speaker_name (not $heroForm) }}{{ partial "webinar-speaker.html" (dict "page" . "eager" true) }}{{ end }}
+
+  <!-- OUTCOMES -->
+  <section class="gs-outcomes">
+    <div class="gs-outcomes__inner">
+      <h2>{{ $outcomesHeading }}</h2>
+      <p class="gs-outcomes__sub">{{ $outcomesSub }}</p>
+      <ol class="gs-agenda">
+        {{ range $i, $o := $outcomes }}
+        {{ $parts := split $o "|" }}
+        <li class="gs-agenda__item">
+          <span class="gs-agenda__n">{{ printf "%02d" (add $i 1) }}</span>
+          <span class="gs-agenda__t"><b>{{ index $parts 0 }}</b>{{ if gt (len $parts) 1 }} {{ index $parts 1 }}{{ end }}</span>
+        </li>
+        {{ end }}
+      </ol>
+      {{ with .Params.takeaway }}
+      <figure class="gs-takeaway">
+        <blockquote>{{ . }}</blockquote>
+        {{ with $.Params.takeaway_attrib }}<figcaption>{{ . }}</figcaption>{{ end }}
+      </figure>
       {{ end }}
-      <div class="gs-spk__body">
-        <p class="gs-spk__eyebrow">{{ $.Params.speaker_eyebrow | default "Led by" }}</p>
-        <h2 class="gs-spk__name">{{ . }}</h2>
-        {{ with $.Params.speaker_role }}<p class="gs-spk__role">{{ . }}</p>{{ end }}
-        {{ with $.Params.speaker_lead }}<p class="gs-spk__lead">{{ . }}</p>{{ end }}
-        {{ with $.Params.speaker_credentials }}
-        <ul class="gs-spk__creds">{{ range . }}<li>{{ . }}</li>{{ end }}</ul>
-        {{ end }}
-        {{ with $.Params.speaker_bio }}
-        <details class="gs-spk__more"><summary>Full background</summary><p>{{ . }}</p></details>
-        {{ end }}
-      </div>
     </div>
   </section>
-  {{ end }}{{ end }}
 
   {{ if $heroForm }}
+  {{/* Split-hero pages: the form is in the hero, so the page reads what is
+       covered, who is running it, what a school gets, then proof, then one
+       last route back to the form. */}}
+  <div class="gs-jump">
+    <div class="gs-jump__inner">
+      <p>{{ .Params.mid_cta_1 | default "Free to attend, with a live Q&A at the end." }}</p>
+      <a href="#register" class="gs-cta">{{ .Params.mid_cta_1_label | default "Register for the session" }}
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+      </a>
+    </div>
+  </div>
+  {{ with .Params.speaker_name }}{{ partial "webinar-speaker.html" (dict "page" $ "eager" false "eyebrow" "About the speaker") }}{{ end }}
+  {{ end }}
+
+  {{ if and .Content (not $heroForm) (ne .Params.body_position "after_form") }}
+  <section class="gs-body">
+    <div class="gs-body__inner">
+      {{ .Content }}
+    </div>
+  </section>
+  {{ end }}
+
+  <!-- REGISTER -->
+  {{ if not $heroForm }}
+  <section class="gs-register" id="register">
+    <div class="gs-register__inner">
+      <h2>{{ $registerHeading }}</h2>
+      <p class="gs-register__lead">{{ $registerLead }}</p>
+      {{ partial "webinar-form.html" (dict
+        "askTutoring" $askTutoring
+        "askRegistrant" .Params.ask_registrant_type
+        "askSchool" .Params.ask_school
+        "submitLabel" $submitLabel
+        "phoneLabel" $phoneLabel
+        "yearLabel" .Params.year_label
+        "yearGroups" .Params.year_groups
+        "termsUrl" .Params.terms_url
+        "finePrint" .Params.form_fine_print) }}
+    </div>
+  </section>
+  {{ end }}
+
+  {{ if or .Params.included_families .Params.included_schools }}
+  <!-- WHAT IS INCLUDED -->
+  <section class="gs-inc">
+    <div class="gs-inc__inner">
+      <h2>{{ .Params.included_heading | default "What is included" }}</h2>
+      {{ with .Params.included_sub }}<p class="gs-inc__sub">{{ . }}</p>{{ end }}
+      <div class="gs-inc__cols">
+        {{ with .Params.included_families }}
+        <div class="gs-inc__card">
+          <span class="gs-inc__tag">For families</span>
+          <h3>What you get</h3>
+          <dl class="gs-inc__dl">{{ range . }}{{ $b := split . "|" }}<dt>{{ index $b 0 }}</dt><dd>{{ if gt (len $b) 1 }}{{ index $b 1 }}{{ end }}</dd>{{ end }}</dl>
+        </div>
+        {{ end }}
+        {{ with .Params.included_schools }}
+        <div class="gs-inc__card gs-inc__card--alt">
+          <span class="gs-inc__tag">For schools and colleges</span>
+          <h3>What you get</h3>
+          <dl class="gs-inc__dl">{{ range . }}{{ $b := split . "|" }}<dt>{{ index $b 0 }}</dt><dd>{{ if gt (len $b) 1 }}{{ index $b 1 }}{{ end }}</dd>{{ end }}</dl>
+        </div>
+        {{ end }}
+      </div>
+      {{ with .Params.share_blurb }}
+      <div class="gs-share">
+        <h3>{{ $.Params.share_heading | default "Wording you can paste" }}</h3>
+        {{ with $.Params.share_lead }}<p class="gs-share__lead">{{ . }}</p>{{ end }}
+        <p class="gs-share__text" id="gs-share-text">{{ . }}</p>
+        <div class="gs-share__row">
+          <button type="button" class="gs-share__copy" data-gs-copy="gs-share-text">
+            <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V5a2 2 0 0 1 2-2h10"/></svg>
+            Copy the wording
+          </button>
+          <span class="gs-share__status" data-gs-copy-status aria-live="polite"></span>
+        </div>
+        {{ with $.Params.share_note }}<p class="gs-share__note">{{ . | safeHTML }}</p>{{ end }}
+      </div>
+      {{ end }}
+      {{ with .Params.included_note }}<div class="gs-inc__note">{{ range . }}<p>{{ . | safeHTML }}</p>{{ end }}</div>{{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  {{ if $heroForm }}
+  <div class="gs-jump">
+    <div class="gs-jump__inner">
+      <p>{{ .Params.mid_cta_2 | default (printf "%s, %s. Free, and the replay goes to everyone who registers." $dateDisplay $timeDisplay) }}</p>
+      <a href="#register" class="gs-cta">{{ .Params.mid_cta_2_label | default "Save my place" }}
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+      </a>
+    </div>
+  </div>
+
   <!-- REVIEWS -->
   <section class="gs-rev">
     <div class="gs-rev__inner">
@@ -662,54 +790,8 @@
       {{ end }}
     </div>
   </section>
-  {{ end }}
 
-  {{ if $heroForm }}
-  <div class="gs-jump">
-    <div class="gs-jump__inner">
-      <p>{{ .Params.mid_cta_1 | default "Free to attend, with a live Q&A at the end." }}</p>
-      <a href="#register" class="gs-cta">{{ .Params.mid_cta_1_label | default "Register for the session" }}
-        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
-      </a>
-    </div>
-  </div>
-  {{ end }}
-
-  <!-- OUTCOMES -->
-  <section class="gs-outcomes">
-    <div class="gs-outcomes__inner">
-      <h2>{{ $outcomesHeading }}</h2>
-      <p class="gs-outcomes__sub">{{ $outcomesSub }}</p>
-      <ol class="gs-agenda">
-        {{ range $i, $o := $outcomes }}
-        {{ $parts := split $o "|" }}
-        <li class="gs-agenda__item">
-          <span class="gs-agenda__n">{{ printf "%02d" (add $i 1) }}</span>
-          <span class="gs-agenda__t"><b>{{ index $parts 0 }}</b>{{ if gt (len $parts) 1 }} {{ index $parts 1 }}{{ end }}</span>
-        </li>
-        {{ end }}
-      </ol>
-      {{ with .Params.takeaway }}
-      <figure class="gs-takeaway">
-        <blockquote>{{ . }}</blockquote>
-        {{ with $.Params.takeaway_attrib }}<figcaption>{{ . }}</figcaption>{{ end }}
-      </figure>
-      {{ end }}
-    </div>
-  </section>
-
-  {{ if $heroForm }}
-  <div class="gs-jump">
-    <div class="gs-jump__inner">
-      <p>{{ .Params.mid_cta_2 | default (printf "%s, %s. Signing up takes about twenty seconds." $dateDisplay $timeDisplay) }}</p>
-      <a href="#register" class="gs-cta">{{ .Params.mid_cta_2_label | default "Get my place" }}
-        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
-      </a>
-    </div>
-  </div>
-  {{ end }}
-
-  {{ if and .Content (ne .Params.body_position "after_form") }}
+  {{ if .Content }}
   <section class="gs-body">
     <div class="gs-body__inner">
       {{ .Content }}
@@ -717,45 +799,6 @@
   </section>
   {{ end }}
 
-  <!-- REGISTER -->
-  {{ if not $heroForm }}
-  <section class="gs-register" id="register">
-    <div class="gs-register__inner">
-      <h2>{{ $registerHeading }}</h2>
-      <p class="gs-register__lead">{{ $registerLead }}</p>
-      {{ partial "webinar-form.html" (dict "askTutoring" $askTutoring "submitLabel" $submitLabel "phoneLabel" $phoneLabel) }}
-    </div>
-  </section>
-  {{ end }}
-
-  {{ if or .Params.included_families .Params.included_schools }}
-  <!-- WHAT IS INCLUDED -->
-  <section class="gs-inc">
-    <div class="gs-inc__inner">
-      <h2>{{ .Params.included_heading | default "What is included" }}</h2>
-      {{ with .Params.included_sub }}<p class="gs-inc__sub">{{ . }}</p>{{ end }}
-      <div class="gs-inc__cols">
-        {{ with .Params.included_families }}
-        <div class="gs-inc__card">
-          <span class="gs-inc__tag">For families</span>
-          <h3>What you get</h3>
-          <dl class="gs-inc__dl">{{ range . }}{{ $b := split . "|" }}<dt>{{ index $b 0 }}</dt><dd>{{ if gt (len $b) 1 }}{{ index $b 1 }}{{ end }}</dd>{{ end }}</dl>
-        </div>
-        {{ end }}
-        {{ with .Params.included_schools }}
-        <div class="gs-inc__card gs-inc__card--alt">
-          <span class="gs-inc__tag">For schools and colleges</span>
-          <h3>What you get</h3>
-          <dl class="gs-inc__dl">{{ range . }}{{ $b := split . "|" }}<dt>{{ index $b 0 }}</dt><dd>{{ if gt (len $b) 1 }}{{ index $b 1 }}{{ end }}</dd>{{ end }}</dl>
-        </div>
-        {{ end }}
-      </div>
-      {{ with .Params.included_note }}<div class="gs-inc__note">{{ range . }}<p>{{ . | safeHTML }}</p>{{ end }}</div>{{ end }}
-    </div>
-  </section>
-  {{ end }}
-
-  {{ if .Params.hero_form }}
   <!-- CLOSING CTA -->
   <section class="gs-endcta">
     <div class="gs-endcta__inner">
@@ -766,9 +809,7 @@
       </a>
     </div>
   </section>
-  {{ end }}
-
-  {{ if and .Content (eq .Params.body_position "after_form") }}
+  {{ else if and .Content (eq .Params.body_position "after_form") }}
   <section class="gs-body">
     <div class="gs-body__inner">
       {{ .Content }}
@@ -832,6 +873,28 @@
     });
   })();
 
+  /* Copy the paste-ready wording for a school newsletter. */
+  (function () {
+    var btn = document.querySelector('[data-gs-copy]');
+    if (!btn) return;
+    var src = document.getElementById(btn.getAttribute('data-gs-copy'));
+    var status = document.querySelector('[data-gs-copy-status]');
+    function say(msg) { if (status) status.textContent = msg; }
+    btn.addEventListener('click', function () {
+      var text = src ? src.textContent.trim() : '';
+      if (!text) return;
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(function () { say('Copied.'); }, function () { say('Select the text above and copy it.'); });
+        return;
+      }
+      try {
+        var range = document.createRange(); range.selectNodeContents(src);
+        var sel = window.getSelection(); sel.removeAllRanges(); sel.addRange(range);
+        say(document.execCommand('copy') ? 'Copied.' : 'Select the text above and copy it.');
+      } catch (e) { say('Select the text above and copy it.'); }
+    });
+  })();
+
   /* UK phone -> +44 E.164 so Zoho/Twilio store one clean format. */
   function normaliseUkPhone(raw) {
     if (!raw) return '';
@@ -863,7 +926,7 @@
     return iframe;
   }
 
-  function submitZohoLead(data, leadSource) {
+  function submitZohoLead(data, leadSource, tutoring) {
     var iframe = zohoFrame();
     var f = document.createElement('form');
     f.method = 'POST';
@@ -887,10 +950,12 @@
     /* Year of study is chosen by the parent. Values match the Zoho
        LEADCF3 picklist exactly; fall back only if the select is missing. */
     add('LEADCF3', (data.get('year_of_study') || 'Unsure').trim());
-    var tutoring = (data.get('tutoring_interest') || '').trim();
+    /* Description is the audit trail. The tutoring line goes first, word for
+       word as it always has, because a Zoho workflow rule is keyed on it. */
+    var notes = [];
     if (tutoring) {
       /* Keep the raw answer for the audit trail... */
-      add('Description', 'A-Level tutoring interest: ' + tutoring);
+      notes.push('A-Level tutoring interest: ' + tutoring);
       /* ...and drive Lead Status from it so sales can filter on it.
          These two values MUST exist in the Zoho Lead Status pick-list or the
          write is silently dropped. Override per page with
@@ -901,6 +966,11 @@
          workflow rule in Zoho keyed on the Description line above. */
       add('Lead Status', (tutoring === 'Yes') ? LEAD_STATUS_YES : LEAD_STATUS_NO);
     }
+    var registrant = (data.get('registrant') || '').trim();
+    if (registrant) notes.push('Registering as: ' + registrant);
+    var school = (data.get('school') || '').trim();
+    if (school) notes.push('School: ' + school);
+    if (notes.length) add('Description', notes.join('\n'));
     add('Lead Source', leadSource);
     document.body.appendChild(f);
     f.submit();
@@ -932,7 +1002,17 @@
 
       /* Decide the destination BEFORE submitting. Working it out afterwards is
          a race: Zoho can answer before the listener exists. */
-      var interested = (data.get('tutoring_interest') || '').indexOf('Yes') === 0;
+      /* The opt-in is a checkbox on pages that ask who is registering, and a
+         yes/no select elsewhere. A field the form script has hidden from a
+         student or a teacher is disabled, so it reads as unanswered. */
+      var tutoringField = form.querySelector('[name="tutoring_interest"]');
+      var tutoring = '';
+      if (tutoringField && !tutoringField.disabled) {
+        tutoring = tutoringField.type === 'checkbox'
+          ? (tutoringField.checked ? 'Yes' : 'No')
+          : (data.get('tutoring_interest') || '').trim();
+      }
+      var interested = tutoring === 'Yes';
       var destination = routing
         ? (interested ? routeYes : routeElse) + '?source=' + encodeURIComponent({{ $leadSource }})
         : null;
@@ -950,7 +1030,7 @@
          the next load event on it is Zoho answering the post. */
       zohoFrame().addEventListener('load', done);
 
-      submitZohoLead(data, {{ $leadSource }});
+      submitZohoLead(data, {{ $leadSource }}, tutoring);
       if (typeof fbq === 'function') { fbq('track', 'Lead'); }
 
       /* Ceiling for a bad connection, so nobody is stranded on a dead button. */

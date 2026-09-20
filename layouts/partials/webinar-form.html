@@ -1,3 +1,36 @@
+{{/* Registration card shared by the webinar pages.
+
+     Params (all optional unless noted):
+       title, sub       card header
+       submitLabel      button text (required)
+       askRegistrant    ask who is registering: a parent, a student, or school
+                        staff. Pages that schools share set this, so a student is
+                        never asked a question written for a parent.
+       askSchool        an optional school or college field
+       askTutoring      a tutoring opt-in, shown only to a parent or guardian.
+                        The phone field then appears only once that box is
+                        ticked, since a number is only ever used to return that
+                        request.
+       phoneLabel       phone label on pages without the opt-in
+       yearLabel        label for the year select
+       yearGroups       list of "zoho value|label". Values must match the Zoho
+                        LEADCF3 picklist exactly or the write is dropped.
+       termsUrl         site-relative path to the terms the consent box cites
+       finePrint        the line under the button
+*/}}
+{{ $yearGroups := .yearGroups | default (slice
+  "11+ Exams|11+ exams"
+  "Year 7|Year 7"
+  "Year 8|Year 8"
+  "Year 9|Year 9"
+  "Year 10|Year 10"
+  "GCSE - Year 11|Year 11 (GCSE)"
+  "Year 11 resit|Year 11 resit"
+  "A level - Yr 12|Year 12 (A-Level)"
+  "A level - Yr 13|Year 13 (A-Level)"
+  "Masters|Masters"
+  "Unsure|Not sure yet") }}
+{{ $termsUrl := .termsUrl | default "gcse-results-day-webinar-terms/" }}
   <div class="gs-register__card">
         {{ with .title }}
         <div class="gs-cardhead">
@@ -7,6 +40,17 @@
         {{ end }}
         <form novalidate data-gs-form>
           <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
+          {{ if .askRegistrant }}
+          <div class="gs-field">
+            <label for="gs-registrant">I am registering as</label>
+            <select id="gs-registrant" name="registrant" required>
+              <option value="" disabled selected>Please choose</option>
+              <option value="Parent or guardian">A parent or guardian</option>
+              <option value="Student">A student</option>
+              <option value="Teacher or school staff">A teacher or member of school staff</option>
+            </select>
+          </div>
+          {{ end }}
           <div class="gs-field">
             <label for="gs-name">Name</label>
             <input id="gs-name" name="name" type="text" required autocomplete="name">
@@ -15,47 +59,47 @@
             <label for="gs-email">Email</label>
             <input id="gs-email" name="email" type="email" required autocomplete="email" placeholder="you@example.com">
           </div>
-          <div class="gs-field">
-            {{/* Pages that route a "yes" into a phone call set phoneLabel, so the
-                 number collected is a parent's. Students register for these webinars
-                 directly, and a minor is not the person to ring about a service a
-                 parent would be paying for. */}}
+          {{ if not .askTutoring }}
+          <div class="gs-field" data-gs-phone>
             <label for="gs-phone">{{ .phoneLabel | default "Phone" }} <span>(optional)</span></label>
             <input id="gs-phone" name="phone" type="tel" autocomplete="tel" inputmode="tel" placeholder="07XXX XXX XXX">
           </div>
-          <div class="gs-field">
-            <label for="gs-year">Year of study</label>
+          {{ end }}
+          <div class="gs-field" data-gs-year>
+            <label for="gs-year">{{ .yearLabel | default "Year of study" }}</label>
             <select id="gs-year" name="year_of_study" required>
               <option value="" disabled selected>Please choose</option>
-              <option value="11+ Exams">11+ exams</option>
-              <option value="Year 7">Year 7</option>
-              <option value="Year 8">Year 8</option>
-              <option value="Year 9">Year 9</option>
-              <option value="Year 10">Year 10</option>
-              <option value="GCSE - Year 11">Year 11 (GCSE)</option>
-              <option value="Year 11 resit">Year 11 resit</option>
-              <option value="A level - Yr 12">Year 12 (A-Level)</option>
-              <option value="A level - Yr 13">Year 13 (A-Level)</option>
-              <option value="Masters">Masters</option>
-              <option value="Unsure">Not sure yet</option>
+              {{ range $yearGroups }}{{ $o := split . "|" }}<option value="{{ index $o 0 }}">{{ if gt (len $o) 1 }}{{ index $o 1 }}{{ else }}{{ index $o 0 }}{{ end }}</option>{{ end }}
             </select>
           </div>
-          {{ if .askTutoring }}
+          {{ if .askSchool }}
           <div class="gs-field">
-            <label for="gs-tutoring">Is your child interested in A-Level tutoring?</label>
-            <select id="gs-tutoring" name="tutoring_interest" required>
-              <option value="" disabled selected>Please choose</option>
-              <option value="Yes">Yes</option>
-              <option value="No">No</option>
-            </select>
+            <label for="gs-school">School or college <span>(optional)</span></label>
+            <input id="gs-school" name="school" type="text" autocomplete="organization">
+          </div>
+          {{ end }}
+          {{ if .askTutoring }}
+          {{/* Parent-only. The script below hides it, and the phone field, from
+               students and school staff, and disables the inputs so they are
+               left out of the FormData the submit handler reads. */}}
+          <div class="gs-field gs-field--optin" data-gs-tutoring>
+            <label class="gs-consent gs-consent--optin">
+              <input type="checkbox" name="tutoring_interest" value="Yes">
+              <span class="gs-consent__label">Please get in touch about one-to-one A-Level tutoring for my child. <span>Optional.</span></span>
+            </label>
+          </div>
+          <div class="gs-field" data-gs-phone>
+            <label for="gs-phone">Phone number <span>(optional)</span></label>
+            <input id="gs-phone" name="phone" type="tel" autocomplete="tel" inputmode="tel" placeholder="07XXX XXX XXX">
+            <p class="gs-field__hint">Only so we can return that request. We do not use it for anything else.</p>
           </div>
           {{ end }}
           <label class="gs-consent">
             <input type="checkbox" name="consent_terms" value="yes" required>
-            <span class="gs-consent__label">I accept the <a href="{{ "gcse-results-day-webinar-terms/" | relURL }}" target="_blank" rel="noopener">terms and conditions</a>.</span>
+            <span class="gs-consent__label">I accept the <a href="{{ $termsUrl | relURL }}" target="_blank" rel="noopener">terms and conditions</a>.</span>
           </label>
           <button type="submit" class="gs-submit">{{ .submitLabel }}</button>
-          <p class="gs-register__fine">Used only for reminders, the webinars, and feedback. Unsubscribe any time.</p>
+          <p class="gs-register__fine">{{ .finePrint | default "Used only for reminders, the webinars, and feedback. Unsubscribe any time." }}</p>
         </form>
         <div class="gs-thanks" data-gs-thanks>
           <span class="gs-thanks__icon" aria-hidden="true">
@@ -65,3 +109,41 @@
           <p>Check your inbox for the confirmation. We will send the joining link before the session, plus the replay afterwards.</p>
         </div>
       </div>
+{{ if or .askRegistrant .askTutoring }}
+<script>
+  /* Show each question only to the person it is written for. Without JS every
+     field shows and the form still works, so this only ever narrows. */
+  (function () {
+    var form = document.querySelector('[data-gs-form]');
+    if (!form) return;
+    var who = form.querySelector('[name="registrant"]');
+    var tutoringWrap = form.querySelector('[data-gs-tutoring]');
+    var tutoring = form.querySelector('[name="tutoring_interest"]');
+    var phoneWrap = form.querySelector('[data-gs-phone]');
+    var phone = form.querySelector('[name="phone"]');
+    var yearWrap = form.querySelector('[data-gs-year]');
+    var year = form.querySelector('[name="year_of_study"]');
+
+    function show(wrap, field, on) {
+      if (wrap) wrap.hidden = !on;
+      if (field) field.disabled = !on;
+    }
+
+    function update() {
+      var role = who ? who.value : 'Parent or guardian';
+      var isParent = !who || role === 'Parent or guardian';
+      var isStaff = !!who && role === 'Teacher or school staff';
+      show(tutoringWrap, tutoring, isParent);
+      /* With an opt-in on the page, the phone field exists only to return a
+         parent's request, so it appears once the box is ticked. */
+      show(phoneWrap, phone, tutoring ? (isParent && tutoring.checked) : true);
+      show(yearWrap, year, !isStaff);
+      if (year) year.required = !isStaff;
+    }
+
+    if (who) who.addEventListener('change', update);
+    if (tutoring) tutoring.addEventListener('change', update);
+    update();
+  })();
+</script>
+{{ end }}

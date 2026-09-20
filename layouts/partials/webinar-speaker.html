@@ -1,0 +1,32 @@
+{{/* Speaker card, built from the page's speaker_* params.
+
+     Call with (dict "page" . "eager" true "eyebrow" "Led by").
+       eager    true where the card sits directly under the hero and the photo
+                is above the fold. The split-hero page already shows the photo
+                in the hero, so its card loads the image lazily.
+       eyebrow  overrides speaker_eyebrow, for a card that is not the first
+                mention of the speaker on the page. */}}
+{{ $p := .page }}
+{{ $eyebrow := .eyebrow | default ($p.Params.speaker_eyebrow | default "Led by") }}
+  <!-- SPEAKER -->
+  <section class="gs-spk">
+    <div class="gs-spk__inner">
+      {{ with $p.Params.speaker_photo }}
+      <div class="gs-spk__shot">
+        <img src="{{ (strings.TrimPrefix "/" .) | relURL }}" alt="{{ $p.Params.speaker_name }}, {{ $p.Params.speaker_role }}" width="148" height="148"{{ if $.eager }} loading="eager" fetchpriority="high"{{ else }} loading="lazy"{{ end }} decoding="async">
+      </div>
+      {{ end }}
+      <div class="gs-spk__body">
+        <p class="gs-spk__eyebrow">{{ $eyebrow }}</p>
+        <h2 class="gs-spk__name">{{ $p.Params.speaker_name }}</h2>
+        {{ with $p.Params.speaker_role }}<p class="gs-spk__role">{{ . }}</p>{{ end }}
+        {{ with $p.Params.speaker_lead }}<p class="gs-spk__lead">{{ . }}</p>{{ end }}
+        {{ with $p.Params.speaker_credentials }}
+        <ul class="gs-spk__creds">{{ range . }}<li>{{ . }}</li>{{ end }}</ul>
+        {{ end }}
+        {{ with $p.Params.speaker_bio }}
+        <details class="gs-spk__more"><summary>Full background</summary><p>{{ . }}</p></details>
+        {{ end }}
+      </div>
+    </div>
+  </section>
