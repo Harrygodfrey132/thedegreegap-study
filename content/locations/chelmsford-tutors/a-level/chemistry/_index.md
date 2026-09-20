@@ -48,7 +48,7 @@ faqs:
   - q: "How much does A-Level Chemistry tutoring cost, and what is included?"
     a: "From £37 an hour, with the rate rising with experience and agreed before anything is booked. The hour covers the session, the preparation, the practice material, marking of work set in between and a short written note afterwards. No joining fee, no materials charge and no contract, and sessions are paid one at a time. The consultation call and the introductory meeting with your chosen tutor are both free."
   - q: "Is A-Level Chemistry tutoring in Chelmsford available in person or only online?"
-    a: "Everything runs online over Lessonspace, our shared whiteboard, and for organic chemistry it works particularly well, because structures and routes are drawn on screen and saved rather than wiped. The session is recorded, so a route can be replayed during revision. It also means matching on specification rather than on who lives within driving distance."
+    a: "Everything runs online over Lessonspace, our shared whiteboard, and for organic chemistry it works especially well, because structures and routes are drawn on screen and saved rather than wiped. The session is recorded, so a route can be replayed during revision. It also means matching on specification rather than on who lives within driving distance."
 # FAQ picks: A01, A14, C04, E03, G04
 
 reviews:
