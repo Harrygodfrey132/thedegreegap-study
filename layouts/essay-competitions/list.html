@@ -1,0 +1,148 @@
+{{ define "main" }}
+{{/* Essay competitions hub. Lists every guide in the section, ordered by
+     weight, plus a calendar built from each page's deadline_summary. */}}
+{{ $guides := .Pages.ByWeight }}
+<section class="hub-hero" aria-labelledby="hub-hero-title">
+  <div class="container">
+    <div class="hub-hero__grid">
+      <div class="hub-hero__copy">
+        <p class="hub-eyebrow">{{ .Params.hero_eyebrow | default "Essay competition support" }}</p>
+        <h1 id="hub-hero-title">{{ .Params.hero_heading | default .Title }}</h1>
+        <p class="hub-hero__lead">{{ .Params.hero_lead | default .Description }}</p>
+        <div class="hub-hero__actions">
+          <a href="#competitions" class="btn btn-primary btn-lg">See the competitions</a>
+          <a href="{{ "book-a-call/" | relURL }}" class="btn btn-outline btn-lg">Book a free call</a>
+        </div>
+        <div class="hub-proof-row" aria-label="The Degree Gap proof points">
+          <span><strong>100+ five-star reviews</strong> on our Google Business Profile</span>
+          <span><strong>GCSE Specialist of the Year</strong> Prestige Awards 2025 and 2026</span>
+          <span><strong>Russell Group graduates</strong> interviewed one by one by a co-founder</span>
+        </div>
+      </div>
+
+      <aside class="hub-founder-panel" aria-label="Led by Harry Godfrey">
+        {{ partial "responsive-image.html" (dict "src" "/images/harry-godfrey.jpg" "alt" "Harry Godfrey at an education event" "class" "hub-founder-panel__image" "loading" "lazy" "fallbackWidth" 500 "widths" (slice 300 500 750) "sizes" "(max-width: 720px) 280px, 360px" "quality" 78) }}
+        <div class="hub-founder-panel__body">
+          <p class="hub-founder-panel__label">Led by Harry Godfrey</p>
+          <h2>Co-owner of The Degree Gap and LSE Economics graduate</h2>
+          <p>Harry has helped students apply for LSE, Oxford, Cambridge, UCL, King's College London, and other leading UK universities. He also speaks at schools about supercurricular work and top-university applications.</p>
+        </div>
+      </aside>
+    </div>
+  </div>
+</section>
+
+<section class="hub-section hub-section--white" aria-labelledby="hub-why-title">
+  <div class="container">
+    <div class="hub-section__intro">
+      <p class="hub-eyebrow">Why it matters</p>
+      <h2 id="hub-why-title">A competition essay is the best supercurricular a sixth former can do</h2>
+      <p>Not because of the prize. Because it forces a student to pick a question, read past the specification, take a position and defend it in a fixed word count, then hand it to a stranger to judge. Nothing on the A-Level course asks for that.</p>
+    </div>
+    <div class="hub-method-grid">
+      <article class="hub-method-card">
+        <span>01</span>
+        <h3>It gives the personal statement something real</h3>
+        <p>Reading-list paragraphs are the weakest part of most statements. An essay the student researched, argued and submitted is evidence, and the argument inside it is what an admissions tutor wants to talk about at interview.</p>
+      </article>
+      <article class="hub-method-card">
+        <span>02</span>
+        <h3>It teaches the skill A-Level doesn't</h3>
+        <p>School essays reward coverage. A judged essay rewards one claim, defended against the strongest objection, in 2,000 words or fewer. That's the skill undergraduate work runs on, and most students meet it for the first time in a competition.</p>
+      </article>
+      <article class="hub-method-card">
+        <span>03</span>
+        <h3>The deadline does the motivating</h3>
+        <p>Summer term drifts. A submission date months away, with the questions already published, gives a Year 12 a reason to read beyond the syllabus while the exams are still a year off. And a shortlisting is something a school reference can name.</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="hub-section hub-section--tint" id="competitions" aria-labelledby="hub-comp-title">
+  <div class="container">
+    <div class="hub-section__intro">
+      <p class="hub-eyebrow">The competitions</p>
+      <h2 id="hub-comp-title">Pick the competition, then read the guide</h2>
+      <p>Each guide covers who can enter, what the judges reward, where entries usually fall down, and how we support a student through it. The John Locke prize is the one most families ask about, so it has the longest guide.</p>
+    </div>
+    <div class="hub-subject-grid">
+      {{ range $guides }}
+      {{ $comp := .Params.competition | default .Title }}
+      <a href="{{ .RelPermalink }}" class="hub-subject-card">
+        <span class="hub-subject-card__title">{{ $comp }}</span>
+        <p>{{ .Params.card_blurb | default .Description }}</p>
+        <span class="hub-subject-card__link">Read the {{ $comp }} guide</span>
+      </a>
+      {{ end }}
+    </div>
+
+    {{ $calendar := where $guides "Params.deadline_summary" "!=" nil }}
+    {{ with $calendar }}
+    <div class="hub-section__intro" style="margin-top:56px;">
+      <p class="hub-eyebrow">The year at a glance</p>
+      <h2>When each competition falls</h2>
+      <p>Organisers move dates by a week or two most years, so treat these as the usual pattern and confirm on the official page before a student plans a summer around one.</p>
+    </div>
+    <table class="comp-calendar">
+      <thead>
+        <tr>
+          <th scope="col">Competition</th>
+          <th scope="col">Who it's for</th>
+          <th scope="col">Usual deadline</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range . }}
+        <tr>
+          <td><a href="{{ .RelPermalink }}">{{ .Params.competition | default .Title }}</a></td>
+          <td>{{ .Params.card_audience | default "Sixth form" }}</td>
+          <td>{{ .Params.deadline_summary }}</td>
+        </tr>
+        {{ end }}
+      </tbody>
+    </table>
+    {{ end }}
+  </div>
+</section>
+
+<section class="hub-section hub-section--white">
+  <div class="container">
+    {{ partial "essay-competition-process.html" . }}
+  </div>
+</section>
+
+{{ with .Content }}
+<section class="hub-section hub-section--white" style="padding-top:0;" aria-label="Other competitions and ones to treat with care">
+  <div class="container">
+    <div class="page-content" style="max-width:760px;">
+      {{ . }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<section class="hub-section hub-section--tint" aria-labelledby="hub-next-title">
+  <div class="container">
+    <div class="hub-split">
+      <div class="hub-section__intro hub-section__intro--flush">
+        <p class="hub-eyebrow">After the essay</p>
+        <h2 id="hub-next-title">The entry is worth most when it feeds the application</h2>
+        <p>A shortlisted essay, or even a well-argued one that wasn't, belongs in the personal statement and comes up at interview. We help students carry the work through: the statement, the admissions test where there is one, and the interview conversation about what they argued and what they'd now change.</p>
+      </div>
+      <div class="hub-oxbridge-list">
+        <a href="{{ "personal-statement-tutor/" | relURL }}" class="hub-oxbridge-link">
+          <span>Personal statement tutoring</span>
+          <p>Subject-by-subject guides and one-to-one help turning reading and competition work into a statement an admissions tutor wants to discuss.</p>
+        </a>
+        <a href="{{ "personal-statement-tutor/oxford/" | relURL }}" class="hub-oxbridge-link">
+          <span>Oxford and Cambridge applications</span>
+          <p>Course strategy, admissions tests, written work and interview preparation, with the essay competition as part of the academic case.</p>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ partial "formspree.html" . }}
+{{ end }}

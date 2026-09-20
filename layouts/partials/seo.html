@@ -1,6 +1,8 @@
 {{ $desc := or .Description .Site.Params.description }}
 {{ $isPastPapers := eq .Section "past-papers" }}
 {{ $isPersonalStatement := eq .Section "personal-statement-tutor" }}
+{{ $isEssayCompetition := eq .Section "essay-competitions" }}
+{{ $isArticle := or $isPersonalStatement $isEssayCompetition }}
 {{ $rawImage := .Params.og_image | default "images/og_image.png" }}
 {{ $ogImage := $rawImage | absURL }}
 
@@ -18,7 +20,7 @@
 <meta property="og:site_name" content="The Degree Gap">
 <meta property="og:locale" content="en_GB">
 <meta property="og:image" content="{{ $ogImage }}">
-{{ if and (not .IsHome) $isPersonalStatement }}<meta property="article:author" content="Harry Godfrey">{{ end }}
+{{ if and (not .IsHome) $isArticle }}<meta property="article:author" content="Harry Godfrey">{{ end }}
 
 <!-- Page Schema -->
 {{ if .IsHome }}
@@ -51,7 +53,7 @@
   }
 }
 </script>
-{{ else if $isPersonalStatement }}
+{{ else if $isArticle }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

@@ -294,6 +294,64 @@ collections:
       - { name: "body", label: "Body", widget: "markdown", required: false }
 
   # ===========================================================================
+  # 4b. ESSAY COMPETITIONS — guide pages
+  # ===========================================================================
+  - name: "essay_competitions"
+    label: "Essay competitions — guide pages"
+    label_singular: "Essay competition guide"
+    description: "One guide per competition (John Locke, Oxbridge college prizes…). Lives at /essay-competitions/{slug}/. The _index.md entry is the hub page."
+    folder: "content/essay-competitions"
+    extension: "md"
+    format: "yaml-frontmatter"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{competition}} — {{title}}"
+    fields:
+      - { name: "title", label: "SEO title", widget: "string" }
+      - { name: "description", label: "SEO description", widget: "text" }
+      - { name: "competition", label: "Competition short name", widget: "string", required: false, hint: "Used on cards, the sidebar and CTAs, e.g. John Locke essay prize" }
+      - { name: "nav_title", label: "Breadcrumb title", widget: "string", required: false }
+      - { name: "weight", label: "Order on the hub (lower first)", widget: "number", value_type: "int", required: false }
+      - { name: "hero_eyebrow", label: "Hero eyebrow", widget: "string", required: false }
+      - { name: "hero_heading", label: "Hero heading", widget: "string", required: false }
+      - { name: "hero_lead", label: "Hero lead", widget: "text", required: false }
+      - { name: "hero_credential", label: "Hero credential line", widget: "string", required: false }
+      - { name: "card_blurb", label: "Hub card blurb", widget: "text", required: false }
+      - { name: "card_audience", label: "Hub calendar: who it's for", widget: "string", required: false }
+      - { name: "deadline_summary", label: "Hub calendar: usual deadline", widget: "string", required: false }
+      - { name: "official_url", label: "Official competition URL", widget: "string", required: false }
+      - name: "facts"
+        label: "At-a-glance facts"
+        widget: "list"
+        required: false
+        fields:
+          - { name: "label", label: "Label", widget: "string" }
+          - { name: "value", label: "Value", widget: "text" }
+      - { name: "sidebar_cta", label: "Sidebar CTA text", widget: "text", required: false }
+      - { name: "subject", label: "Form hidden subject", widget: "string", required: false, hint: "Tags the enquiry email, e.g. Essay competition: John Locke" }
+      - { name: "form_cta", label: "Form CTA heading", widget: "string", required: false }
+      - { name: "form_intro", label: "Form intro", widget: "text", required: false }
+      - { name: "form_message_label", label: "Form message label", widget: "string", required: false }
+      - { name: "form_message_placeholder", label: "Form message placeholder", widget: "text", required: false }
+      - { name: "form_button", label: "Form button text", widget: "string", required: false }
+      - { name: "form_note", label: "Form note", widget: "string", required: false }
+      - name: "related_pages"
+        label: "Related pages"
+        widget: "list"
+        required: false
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "url", label: "URL", widget: "string" }
+      - name: "faqs"
+        label: "FAQs"
+        widget: "list"
+        required: false
+        fields:
+          - { name: "q", label: "Question", widget: "string" }
+          - { name: "a", label: "Answer", widget: "text" }
+      - { name: "body", label: "Body", widget: "markdown", required: false }
+
+  # ===========================================================================
   # 5. BLOG — posts
   # ===========================================================================
   - name: "blog_posts"
