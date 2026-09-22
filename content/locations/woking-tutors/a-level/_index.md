@@ -22,7 +22,7 @@ first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Cs to As, with university applications alongside"
 
 tutor_strip_heading: "Woking A-Level tutors who remember which Year 12 topics bite"
-tutor_strip_body: "Students at Woking College, St John the Baptist and Gordon's sit different specifications, and at this level the specification decides most of the value. A lot of our tutors sat these papers recently enough to remember the wording. Ask for two profiles and see."
+tutor_strip_body: "Students at Woking College, St John the Baptist and Gordon's sit different specifications, which at this level decides most of the value. A lot of our tutors sat these papers recently enough to remember the wording, and every session runs one-to-one on Lessonspace. Ask for two profiles and see."
 
 pathways_heading: "What Woking Students Do With Two Years of A-Levels"
 pathways_lead: "The three routes that come up most in a Year 12 conversation at this end of Surrey."
@@ -35,7 +35,7 @@ pathways:
       McLaren advertises degree apprentice roles at its Woking site, and the University of Surrey delivers degree apprenticeships for employers around the county. Each scheme publishes its own entry requirements, and the deadlines often fall well before the UCAS one.
   - title: "Career Pathways"
     body: >
-      Woking's employer base is unusual for a town this size, with McLaren at the Technology Centre, WWF-UK's Living Planet Centre and Capgemini's office near the station. Ashford and St Peter's Hospitals recruits and trains across north Surrey, and the fast line into Waterloo puts London employers inside a commute.
+      Woking's employer base is unusual for a town this size, with McLaren at the Technology Centre, WWF-UK's Living Planet Centre and Capgemini's Woking office. Ashford and St Peter's Hospitals recruits and trains across north Surrey, and the fast line into Waterloo puts London employers inside a commute.
 
 reviews:
   - "Cat|Parent of A-Level Student|My 18 year old son had A-level Economics tutoring with Harry.  He was excellent, knew exactly what he needed to learn and was able to explain in terms which made it simple to understand.  The online platform was convenient and easy to use."

@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online GCSE Tutors Working With Woking Families on the Subject Grade the Offer Needs"
 hero_heading_line2: ""
-hero_lead: "Most of Woking's secondaries stop at sixteen, so Year 11 grades decide where a student goes next as well as how they finish. Our Woking GCSE tutors work one-to-one online over Lessonspace, an hour a week, on the subjects a course asks about."
+hero_lead: "Three of Woking's biggest secondaries stop at sixteen, so Year 11 grades decide where a student goes next as well as how they finish. Our Woking GCSE tutors work one-to-one online over Lessonspace, an hour a week, on the subjects a course asks about."
 
 grade_from: "5"
 grade_to: "6/7"
@@ -35,7 +35,7 @@ pathways:
       McLaren runs apprenticeships from its Technology Centre in Woking, across areas like manufacturing, vehicle development and IT, and Ashford and St Peter's Hospitals takes on apprentices across north Surrey. Maths and English are named in nearly all of them, and applications tend to open months before results day.
   - title: "Further Education"
     body: >
-      Brooklands College runs T Levels and other Level 3 courses from its Weybridge and Ashford campuses, and Guildford College adds technical routes and BTECs a few miles down the A320. Both also teach GCSE English and Maths for students who need to sit either again.
+      Brooklands College runs T Levels and other Level 3 courses from its Weybridge and Ashford campuses, and Guildford College adds technical routes and BTECs a short way down the road. Both also teach GCSE English and Maths for students who need to sit either again.
 
 reviews:
   - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
