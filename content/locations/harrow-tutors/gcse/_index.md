@@ -58,7 +58,7 @@ faq_2_a: "With a marked paper, not a conversation. Where the lost marks cluster 
 faq_3_q: "Harrow schools use different exam boards. Does that change the match?"
 faq_3_a: "Yes, and it is the first thing we check rather than a detail settled later. Schools across the borough sit different specifications, and boards word their questions differently, examine the practicals differently and print different formulae. A tutor who already knows your child's spec is useful inside ten minutes. One who does not spends the first few sessions catching up, at your expense. We confirm the board on the consultation call, before anybody is suggested."
 faq_4_q: "How much of the hour is my child actually working?"
-faq_4_a: "Most of it, and that is rather the point. A typical hour starts with the work set last week, marked together so the mistakes get named out loud. The middle stretch goes on whichever topic is bleeding marks, with your child writing on the shared whiteboard rather than watching the tutor write. The last part is exam questions on that topic against the mark scheme. Sessions are recorded online, so anything that went past too fast can be watched again."
+faq_4_a: "Most of it, and that is rather the point. A typical hour starts with the work set last week, marked together so the mistakes get named out loud. The middle stretch goes on whichever topic is bleeding marks, with your child writing on the shared Lessonspace whiteboard rather than watching the tutor write. The last part is exam questions on that topic against the mark scheme. Sessions are recorded online, so anything that went past too fast can be watched again."
 
 sitemap:
   priority: 0.7
