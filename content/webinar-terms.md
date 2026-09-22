@@ -6,7 +6,7 @@ sitemap:
   disable: true
 ---
 
-_Last updated 20 September 2026._
+_Last updated 22 September 2026._
 
 These terms and conditions ("Terms") govern your registration for and attendance at any of the free online webinars provided by The Degree Gap ("we", "us", "our") for students, parents and schools (each "a Webinar"), and how we handle the personal information you give us. By ticking the consent box on a registration form and submitting your details, you confirm that you have read, understood, and agree to be bound by these Terms. If you do not agree, please do not register.
 
@@ -42,10 +42,11 @@ When you register we collect:
 - your email address;
 - whether you are registering as a parent or guardian, a student, or a member of school or college staff;
 - the year group of the student the registration relates to;
-- if you register as a parent or guardian, whether you have asked us to contact you about tutoring and, if you have, your telephone number; and
+- whether you have told us you may be interested in academic support;
+- if you register as a parent or guardian, your telephone number, where you choose to give one; and
 - limited technical and analytics data about your visit (see section 11).
 
-You do not have to provide a telephone number to attend a Webinar. We ask for one only if you ask us to contact you about tutoring. We do not ask students or school staff for a telephone number, and we do not ask them about tutoring.
+You do not have to provide a telephone number to attend a Webinar, and it is never a condition of registering. We ask for one only where you register as a parent or guardian, so that we can text you a reminder before the session and, if you have told us you may be interested in academic support, speak to you about it. We do not ask students or school staff for a telephone number at all.
 
 ## 5. How we use your information, and our lawful bases
 
@@ -54,7 +55,8 @@ We use your information to:
 - register you and deliver the Webinar, the replay and the slides to you (lawful basis: performance of the service you have requested / our legitimate interests in running the Webinar);
 - send you Webinar emails, being a reminder approximately 24 hours before, a reminder approximately one hour before, and the replay, the slides and related resources afterwards (lawful basis: our legitimate interests and, where required, your consent);
 - send you free resources, occasional updates and invitations to our other free webinars by email (lawful basis: your consent, given when you tick the box);
-- contact you by telephone or text message about tutoring, but only where you registered as a parent or guardian, asked us to contact you about tutoring, and provided your number (lawful basis: your consent); and
+- send you a text reminder shortly before a Webinar you have registered for, where you registered as a parent or guardian and gave us a number (lawful basis: our legitimate interests in delivering the Webinar you asked for);
+- contact you by telephone or text message about tutoring, but only where you registered as a parent or guardian, told us you may be interested in academic support, and provided your number (lawful basis: your consent); and
 - maintain our records, improve our services, and meet our legal obligations (lawful basis: our legitimate interests and legal obligations).
 
 ## 6. The communications you will receive
@@ -63,7 +65,9 @@ We use your information to:
 
 6.2 **Free resources and our free webinar series.** By ticking the consent box and registering, you join The Degree Gap's free email list. This means we will email you free resources, occasional updates, and invitations to our other free webinars over the following year, so you can save a place at any that are useful to you. Every email includes an unsubscribe link and you can opt out at any time (see section 8).
 
-6.3 **Telephone and text.** If, and only if, you register as a parent or guardian, ask us to contact you about tutoring, and provide your number, we may call or text you about tutoring for your child. If you do not ask, we will not call or text you. We never call or text students, and we never contact a student about tutoring.
+6.3 **Telephone and text.** We only ever hold a telephone number for someone who registered as a parent or guardian and chose to give one. Where we hold one, we may text you a reminder shortly before a Webinar you registered for. We will only call or text you about tutoring if you also ticked the box saying you may be interested in academic support; if you did not tick it, we will not contact you about tutoring. We never ask a student for a telephone number, and we never call or text a student.
+
+6.4 **If a student registers.** A student who tells us they may be interested in academic support is recorded as interested and contacted by email only. We do not take their telephone number and we do not call them.
 
 ## 7. Marketing and consent
 

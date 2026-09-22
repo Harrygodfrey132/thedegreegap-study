@@ -13,10 +13,12 @@
                         It stays low-commitment on purpose, since the
                         registration is what the page is actually for.
        tutoringLabel    wording of that opt-in, where a page wants its own
-       phoneLabel       label on the phone field. The field is always shown and
-                        always optional, and carries an over-18s note rather
-                        than being hidden from anyone, so a parent is never
-                        asked twice and a pupil knows to leave it alone.
+       phoneLabel       label on the phone field. Where the form asks who is
+                        registering, the field goes to a parent or guardian
+                        only, so no pupil is ever asked for a number. It is
+                        always optional, and it is asked for the reminder
+                        rather than held back behind the opt-in, because a
+                        number given once covers both.
        yearLabel        label for the year select
        yearGroups       list of "zoho value|label". Values must match the Zoho
                         LEADCF3 picklist exactly or the write is dropped.
@@ -65,8 +67,9 @@
             <input id="gs-email" name="email" type="email" required autocomplete="email" placeholder="you@example.com">
           </div>
           <div class="gs-field" data-gs-phone>
-            <label for="gs-phone">{{ .phoneLabel | default "Phone" }} <span>(optional, over 18s only)</span></label>
+            <label for="gs-phone">{{ .phoneLabel | default "Phone" }} <span>(optional)</span></label>
             <input id="gs-phone" name="phone" type="tel" autocomplete="tel" inputmode="tel" placeholder="07XXX XXX XXX">
+            {{ if .askRegistrant }}<p class="gs-field__hint">So we can text you a reminder before the session starts.</p>{{ end }}
           </div>
           <div class="gs-field" data-gs-year>
             <label for="gs-year">{{ .yearLabel | default "Year of study" }}</label>
@@ -112,6 +115,8 @@
     var who = form.querySelector('[name="registrant"]');
     var tutoringWrap = form.querySelector('[data-gs-tutoring]');
     var tutoring = form.querySelector('[name="tutoring_interest"]');
+    var phoneWrap = form.querySelector('[data-gs-phone]');
+    var phone = form.querySelector('[name="phone"]');
     var yearWrap = form.querySelector('[data-gs-year]');
     var year = form.querySelector('[name="year_of_study"]');
 
@@ -122,13 +127,17 @@
 
     function update() {
       var role = who ? who.value : 'Parent or guardian';
+      var isParent = !who || role === 'Parent or guardian';
       var isStaff = !!who && role === 'Teacher or school staff';
       /* A parent and a student can each want academic support, so both are
          offered it. A teacher circulating the page to a class is not making an
-         enquiry, so they are not asked. The phone field is left alone in every
-         case: it is optional, it says who should fill it in, and hiding it
-         from anyone only loses numbers we would otherwise be given. */
+         enquiry, so they are not asked. */
       show(tutoringWrap, tutoring, !isStaff);
+      /* Only a parent is asked for a number, and never made to give one. We do
+         not take a pupil's phone number at all, whatever they tick, which is
+         the line that lets a school put this page in front of a year group. */
+      show(phoneWrap, phone, isParent);
+      if (phone) phone.required = false;
       show(yearWrap, year, !isStaff);
       if (year) year.required = !isStaff;
     }

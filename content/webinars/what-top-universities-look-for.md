@@ -18,8 +18,9 @@ hero_form_sub: "Free to attend. We email the joining link, the slides and the re
 hero_replay_note: "<b>Cannot make it live?</b> Register anyway. Everyone who signs up gets the slides and the replay."
 
 # Registration form. The page is shared by schools, so the form asks who is
-# registering and only shows the tutoring opt-in, and the phone field, to a
-# parent who ticks it. Students and school staff are never asked.
+# registering. Only a parent or guardian is asked for a phone number. The
+# academic-support opt-in goes to parents and students, never to school staff,
+# and only a parent who ticks it is moved on to the booking page.
 ask_registrant_type: true
 ask_tutoring_interest: true
 year_label: "Year group"
@@ -30,7 +31,7 @@ year_groups:
   - "A level - Yr 13|Year 13"
   - "Unsure|Other, or not sure"
 terms_url: "webinar-terms/"
-form_fine_print: "We email the joining link, a reminder, the slides and the replay, plus invitations to our other free webinars. Unsubscribe any time. We only get in touch about tutoring if a parent ticks the box asking us to."
+form_fine_print: "We email the joining link, a reminder, the slides and the replay, plus invitations to our other free webinars. Unsubscribe any time. We ask a parent for a phone number so we can text a reminder, and we never ask a student for one."
 # The site-wide WhatsApp prompt opens a tutoring enquiry. Not on a page a
 # school is being asked to put in front of its families.
 hide_whatsapp: true

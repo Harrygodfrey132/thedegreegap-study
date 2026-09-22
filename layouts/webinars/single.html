@@ -1008,9 +1008,15 @@
           ? (tutoringField.checked ? 'Yes' : 'No')
           : (data.get('tutoring_interest') || '').trim();
       }
+      /* Only a parent is moved on to the booking page. A student who says they
+         are interested still reaches us flagged as interested, and is sent to
+         the ordinary confirmation instead: a page a school hands to a year
+         group should not walk a sixth-former towards booking a paid call. */
+      var registrantField = form.querySelector('[name="registrant"]');
+      var isParent = !registrantField || registrantField.value === 'Parent or guardian';
       var interested = tutoring === 'Yes';
       var destination = routing
-        ? (interested ? routeYes : routeElse) + '?source=' + encodeURIComponent({{ $leadSource }})
+        ? ((interested && isParent) ? routeYes : routeElse) + '?source=' + encodeURIComponent({{ $leadSource }})
         : null;
 
       var moved = false;
