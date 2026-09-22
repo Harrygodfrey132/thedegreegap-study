@@ -1,0 +1,72 @@
+---
+title: "Croydon Private Tutors | GCSE & A-Level | The Degree Gap"
+description: "One-to-one Croydon tutoring online over Lessonspace for GCSE and A-Level, matched on exam board, for a borough with more sixth-form doors than most. From £37/hr."
+layout: "single"
+location: "Croydon"
+banner_heading: "Online Croydon tutors for the autumn when each sixth form publishes its own number"
+banner_description: "One-to-one tutoring online over Lessonspace, matched on the paper your child sits, for a borough where Whitgift, Coulsdon and the Harris sixth forms each want a different number by the spring."
+content_angle: "a post-16 map with dozens of doors, each publishing its own number"
+intro_1: "The open evenings in Croydon start in September and do not really stop until half term. Coulsdon one week, Archbishop Tenison's the next, a Harris sixth form the week after, and each prospectus opens on a different page of numbers. Seven 5s with a 6 in the subject at one. Grade 4s in English and Maths plus the course's own bar at another. Six 7s and an entrance paper at Whitgift or Trinity. And underneath all of it sits a Year 11 with one set of GCSE mock grades due in November, which every one of those places will read in its own way. Parents tell us the same thing. They have the prospectuses. They do not have a plan."
+intro_2: "So the first thing we do is work out which number actually matters for your child, then which subject is furthest from it. Every family speaks with a co-founder before any tutor is suggested, and that call usually settles it in twenty minutes. From there we match on the specification the school teaches rather than on who lives near East Croydon, because every session is one-to-one and online over Lessonspace, our shared whiteboard. It works the same way at A-Level, where the number is a predicted grade and the readers are universities fifteen minutes up the line and the apprenticeship schemes at HMRC and the hospital. The tutor's first hour is a diagnostic. The plan comes out of that, not out of a syllabus."
+about_heading: "Private Tutors Serving Croydon Families"
+about_image: "/images/graduation-ceremony-caps.jpg"
+schools_intro: "Our Croydon tutors work with families from Riddlesdown Collegiate in Purley up to Harris Academy South Norwood and St Joseph's College in Upper Norwood, and from Whitgift, Trinity and Croydon High to Coloma and Archbishop Tenison's nearer the centre. The borough is big enough that two students in the same year can be sitting different boards for the same subject, so we ask about the specification before we ask about anything else. We also run revision and exam preparation workshops on request, for groups of students who want extra structure outside the classroom."
+schools: ["Whitgift School", "Trinity School", "Coloma Convent Girls' School", "Archbishop Tenison's CE High School", "Harris Invictus Academy Croydon", "Riddlesdown Collegiate"]
+schools_image: "/images/aerial-school-campus-building.jpg"
+online_heading: "Why online tutoring fits a Croydon school week"
+online_1: "Croydon students already travel. Buses up to Upper Norwood, the train down to Coulsdon for college, and a good number of parents on the fifteen-minute run into Victoria or London Bridge every morning. A drive to a tutor's house on a Tuesday evening is the bit that makes families give up by February. A weekly hour at the kitchen table over Lessonspace, our shared whiteboard, is the version that lasts, and lasting is what moves a grade."
+online_2: "It also widens who your child can work with. The tutor who knows one board's Chemistry paper inside out may live in Leeds, and online that does not matter. We match on the specification and the tier, then on how the person explains, and the free video meeting before any paid session lets your child decide whether the explaining lands. Every session is recorded, so the working is still there the night before a mock."
+online_image: "/images/online-study-workspace-with-coffee.jpg"
+map_url: "https://maps.google.com/maps?q=Croydon,UK&output=embed"
+areas_intro: "Sessions run online, so a family in Croydon and a family in Sevenoaks can end up with the same tutor, chosen for the paper rather than the postcode."
+area_links: ["London Tutors|/locations/london-tutors/", "Sutton Tutors|/locations/sutton-tutors/", "Bromley Tutors|/locations/bromley-tutors/", "Epsom Tutors|/locations/epsom-tutors/", "Sevenoaks Tutors|/locations/sevenoaks-tutors/", "Guildford Tutors|/locations/guildford-tutors/", "Sunbury-on-Thames Tutors|/locations/sunbury-on-thames-tutors/", "Tunbridge Wells Tutors|/locations/tunbridge-wells-tutors/"]
+gcse_subjects: [
+  "GCSE Chemistry Tuition|Moles, equations and rates written out line by line, because some Croydon sixth forms read the Sciences grade strictly.|/book-a-call/",
+  "GCSE English Tuition|Language and Literature worked separately, with the writing half of each paper given the marking it rarely gets.|/book-a-call/",
+  "GCSE Computer Science Tuition|Trace tables, algorithms and the theory paper, taught from wherever the student actually is rather than where the class is.|/book-a-call/",
+  "GCSE Maths Tuition|The grade nearly every Croydon sixth form and college asks about, rebuilt from the algebra underneath the wrong answers.|/book-a-call/",
+  "GCSE Geography Tuition|Case studies and the nine-mark answers, practised against the mark scheme rather than reread from the textbook.|/book-a-call/",
+  "GCSE Physics Tuition|Rearranging, units and the multi-step questions at the back of the paper, with the Maths inside them checked first.|/book-a-call/",
+  "GCSE French Tuition|Speaking and writing built up week by week, at whatever tier the student is entered for.|/book-a-call/",
+  "GCSE Biology Tuition|Required practicals and six-mark answers turned into exam questions, not a memory of the lesson.|/book-a-call/",
+  "GCSE History Tuition|Sixteen-mark essays and source questions across the main boards, structured from whatever the student can already write.|/book-a-call/",
+]
+alevel_subjects: [
+  "A-Level Economics Tuition|Diagram precision and evaluation chains for the twenty-five markers, the essays that decide a London offer.|/book-a-call/",
+  "A-Level Physics Tuition|Mechanics and Fields problem-solving built on the algebra underneath, with the Maths gap closed alongside.|/book-a-call/",
+  "A-Level English Tuition|Critical reading and the comparative essay, marked against the real scheme rather than praised in general.|/book-a-call/",
+  "A-Level Maths Tuition|Pure, Mechanics and Statistics, starting with the Year 11 algebra that Year 12 Pure quietly assumes.|/book-a-call/",
+  "A-Level Psychology Tuition|AO3 evaluation and research methods, the two places a knowledgeable student still loses the band.|/book-a-call/",
+  "A-Level Geography Tuition|Synoptic links, case studies and the twenty-mark essay, drilled until the structure runs on its own.|/book-a-call/",
+  "A-Level Chemistry Tuition|Mechanisms taught as rules and calculation chains written in full, for the second-year papers that lean on the first.|/book-a-call/",
+  "A-Level History Tuition|Source questions and the twenty-five-mark essay, where technique keeps marks that content alone drops.|/book-a-call/",
+  "A-Level Biology Tuition|Synoptic answers and required practicals, taught as questions with a mark scheme rather than pages of notes.|/book-a-call/",
+]
+other_subjects: [
+  "University Personal Statement|Shape a strong UCAS personal statement with support on structure, subject motivation and final polish.|/book-a-call/",
+]
+faq_1_q: "Do you help with the Sutton grammar test and the Whitgift or Trinity entrance papers?"
+faq_1_a: "Yes, and it is a big part of what Croydon families ask us for. The Sutton test is sat in mid-September at the start of Year 6, with registration over the summer, so the useful work happens in Year 5. Whitgift and Trinity run their own entrance papers at several points from 10 upwards, and both set a GCSE bar and an exam for sixth-form entry too. Tutors on our platform know the shape of each one and prepare students on technique as well as content. We will also tell you honestly if a test is not the right route for your child."
+faq_2_q: "Two Croydon schools, same subject, different exam board. Does that change the match?"
+faq_2_a: "It changes it completely, which is why the board is the first thing we confirm. Schools across the borough sit different specifications for the same subject, and AQA, Edexcel and OCR word their questions differently, print different formulae and weight the long answers differently. A tutor who knows your child's board is useful inside ten minutes. One who does not spends the first few sessions catching up at your expense. Tell us the school and the board on the call, or send a photo of the exercise book and we will work it out."
+faq_3_q: "The November mocks are what the sixth forms will see. Can a tutor help before then?"
+faq_3_a: "Yes, and the earlier in the autumn the better. Most Croydon sixth forms and colleges take applications over the winter and read the mock grades that arrive just before, so the run-up to November is where a weekly hour does the most. The tutor works through past papers from the right board, marks them the way an examiner would and drills whatever is bleeding marks, which is usually two or three question types rather than a whole topic. A start after the mocks still helps. It just means the predicted grade has already been written once."
+faq_4_q: "What happens on the first call, before any tutor is suggested?"
+faq_4_a: "You speak to Harry or Joe, not a booking system. The call takes about fifteen minutes and covers the year group, the school, the board, the honest current grade and the number your child actually needs, whether that is a college course, a sixth-form place or an apprenticeship. Then two or three tutor profiles arrive within a day, with a recommended first match, and there is a free short video meeting with the tutor before anything is paid for. No contract, no minimum term. If tutoring is not the right tool right now, we will say so on the call."
+why_heading: "Why Croydon families choose our tutoring for the year before sixth form"
+why_para_1: "Two kinds of Croydon student arrive at a first session. One is sitting on a 4 in Maths and needs it to hold, because the college course and the apprenticeship both ask to see it. The other has a comfortable 6 in Biology and a sixth form that reads the Sciences grade strictly. They sound like different problems. In the first hour they usually are not, because both are losing marks in the same two places on the paper: the multi-step question where the method never gets written down, and the six-marker answered in one line."
+why_para_2: "So the first session is spent on the student's own marked paper rather than on the next topic in the book. The tutor works back through the wrong answers until the understanding runs out, and that point is usually earlier than the report suggests. From there the plan builds forward alongside school, not instead of it. The first thing to change is usually the working on the page. Steps written down, units carried through, the six-marker with three points instead of one."
+accordion_quality: "Every tutor on the platform is a graduate, interviewed by Harry or Joe on subject knowledge and on how clearly they explain a hard idea to a fifteen-year-old who has stopped listening. Roughly 3% of applicants get through, and the explaining is what fails most of them."
+accordion_experience: "Our Croydon tutors have years of one-to-one experience across the GCSE and A-Level specifications, and many are qualified examiners who have marked the papers your child will sit. That shows most on the longer answers, where knowing the content and knowing what earns the mark are different things."
+accordion_personalised: "We ask about the exam board, the tier, the sixth form or college your child is aiming at and which topics feel shaky, then build the sessions around what is actually missing. A Year 10 who needs the tier decision made carefully and a Year 13 with a conditional offer get different plans from the same first question."
+reviews:
+  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. We opted for Avery and she was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back in her abilities and gave her the confidence to face Maths GCSE exams. Highly recommend Degree Gap and will be back again in September with my youngest embarking on her GCSEs"
+  - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Heidi|Parent|Emir, is simply amazing with our daughter. He 'gets' her totally, her sessions are helping her with her school work so much. We can't thank him enough ! Harry and Joe are always on hand should you need anything. Degreegap is an excellent company to work with, lots of excellent tutors avaliable to teach different subjects, great availability, very reasonably priced. Would highly recommend."
+  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. The website is easy to use and effective, I had no disappointment in scheduling lessons for my son. Tutors were polite and on time for their lessons."
+sitemap:
+  priority: 0.8
+  changefreq: monthly
+---

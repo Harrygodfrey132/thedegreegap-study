@@ -7,7 +7,7 @@ location: "Newcastle upon Tyne"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science tutors for Newcastle upon Tyne students stuck on the calculation questions"
+hero_h1: "Online GCSE Science tutors for Newcastle upon Tyne when Maths stops working in Physics"
 hero_lead: "Fine in Maths, blank in Physics, and nobody can say why the same sum stops working in a different room. Our Newcastle upon Tyne GCSE Science tutors teach one method for all three sciences, one-to-one online over Lessonspace, until it travels."
 
 angle_eyebrow: "ONE METHOD, THREE CLASSROOMS"
