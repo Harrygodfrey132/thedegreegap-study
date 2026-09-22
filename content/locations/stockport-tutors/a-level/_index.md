@@ -22,7 +22,7 @@ first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Cs to As at A-Level, plus help with university choices"
 
 tutor_strip_heading: "Stockport A-Level tutors who know what a fresh start hides"
-tutor_strip_body: "Most tutors we suggest are recent graduates who know which Year 12 topics rest on a GCSE method. Around 3% of applicants get through the founder-led interview, and every session is one-to-one, online, over Lessonspace, and recorded. Browse the profiles, or let us match your child."
+tutor_strip_body: "Most tutors we suggest are recent graduates who know which Year 12 topics rest on a GCSE method. Around 3% of applicants get through the founder-led interview, and every session is one-to-one, online, over Lessonspace, and recorded. See the profiles, or ask us to choose."
 
 pathways_heading: "Where Stockport A-Level Students Head at Eighteen"
 pathways_lead: "The three routes Stockport families weigh up in Year 12, and what each of them reads before anything else."
@@ -54,7 +54,7 @@ reviews:
 faq_1_q: "Nobody at the college knows my son yet. Does that change how a tutor works?"
 faq_1_a: "It changes where the tutor starts. A school sixth form would have had him for five years and would know which topics he skated over. A college teacher in September has a grade and a name. So the first session is not about the current chapter. The tutor goes back through a recent GCSE paper and the first Year 12 work and finds the methods the new content leans on, which is usually two or three specific things rather than a general weakness. Once those are named the term has a shape, and the college work starts making sense again."
 faq_2_q: "Which term actually decides the predicted grade that goes to UCAS?"
-faq_2_a: "The end of Year 12 and the first term of Year 13, in most Stockport colleges and sixth forms. Predictions are built from Year 12 results and the autumn assessments of Year 13, then sent with the application. That is earlier than most families plan for. Work landing in Year 12 counts twice, once in the prediction that shapes the offers and again in the exam that has to meet them. A Year 13 start still moves the final grade, but the offers will have been made against a number set before the tutor arrived."
+faq_2_a: "The end of Year 12 and the first term of Year 13, in most Stockport colleges and sixth forms. Predictions are built from Year 12 results and the autumn assessments of Year 13, then sent with the application. That is earlier than most families plan for. Work landing in Year 12 counts twice: it feeds the prediction the offers are made against, and it is still there in the exam. A Year 13 start still moves the final grade, but the offers will have been made against a number set before the tutor arrived."
 faq_3_q: "My daughter wants the AstraZeneca degree apprenticeship in Macclesfield rather than university. Does A-Level tutoring still fit?"
 faq_3_a: "Yes, and the grade work is the same. AstraZeneca's laboratory science degree apprenticeships at Macclesfield ask for A-Level grades in the BCC range including Chemistry, with GCSE Maths, English and Science at grade 4 or above underneath, and the scheme recruits each year for a September start. Manchester Metropolitan and Salford run degree apprenticeships with local employers too. Tutors in our network work on the predicted grade the application screens on, and we can talk through the timing, because these schemes run on their own calendar rather than the UCAS one."
 faq_4_q: "Is A-Level tutoring for Stockport students online?"

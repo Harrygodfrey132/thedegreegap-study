@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science tutors Stockport parents call when the mock arrives as two grades"
-hero_lead: "Combined Science is two GCSEs on the slip, both cut from one total across six papers, so one weak paper drags the pair. Our Stockport GCSE Science tutors work one-to-one online over Lessonspace to find that paper before it costs both grades."
+hero_lead: "Combined Science is two GCSEs on the slip, both cut from one total across six papers, so one weak paper drags the pair. Our Stockport GCSE Science tutors find that paper, one-to-one online over Lessonspace, before it costs both grades."
 
 angle_eyebrow: "TWO GRADES, ONE TOTAL, SIX PAPERS"
 angle_heading: "Why One Weak Science Paper Costs Two Grades on a Stockport Application"
@@ -36,15 +36,15 @@ steps:
   - title: "Share your goals"
     body: "Year group, school, board, and whether it is combined or triple. Then the question that matters: which of the three sciences feels worst, and whether that started this year or back in Year 9 when the practicals were done."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, chosen on the board and on the science costing the marks rather than on Science in general. A free 15-minute video call with the tutor comes first, and the tier question can be raised on it."
+    body: "Two or three profiles inside a day, picked on the board and on the one science the marks are coming off, not on Science as a whole. The free 15-minute meeting with the tutor comes first, and the tier question can be raised on it."
   - title: "Start the lessons"
-    body: "Once a week, one-to-one, online over Lessonspace, the whiteboard the tutor and your child share. The hour runs on exam questions from the weak paper, with every rearrangement written out, and the practicals turned back into the questions they become. From £37 an hour, no contract."
+    body: "Once a week, one-to-one, online over Lessonspace, where the tutor and your child write on the same screen. The hour runs on exam questions from the weak paper, with every rearrangement written out, and the practicals turned back into the questions they become. From £37 an hour, no contract."
 
 faqs:
   - q: "How does GCSE Science performance in Stockport compare to the national average?"
     a: "Results across the borough sit close to the national picture on the headline measures, and the spread underneath that figure is wide, school to school and often within one school. A borough figure tells you nothing about one child on one tier. What is worth knowing is that Combined Science is two of the GCSEs a college counts, so a pair of 4s does twice the work of any other grade 4 on the application. The comparison that helps is your child's last marked Science paper against the line their chosen course publishes, which is what the first session is for."
   - q: "How many GCSE Science tutoring sessions does it take to improve a grade?"
-    a: "Eight to twelve weekly sessions for one grade band, provided the past-paper questions between lessons actually get done. It is faster when the problem is exam technique, such as six-mark answers that list true things without answering the question, because that habit fixes in weeks. It is slower when the gap is a foundation one, such as Year 9 equations that never held, because something has to be built before it can be practised. The first session is a diagnostic on a marked paper, and it tells us which of those two we are looking at, so the plan from session two is honest about the timeline."
+    a: "Eight to twelve weekly sessions for one grade band, provided the past-paper questions between lessons actually get done. It is faster when the problem is exam technique, such as six-mark answers that list true things without answering the question, because that habit fixes in weeks. It is slower when the gap is a foundation one, such as Year 9 equations that never held, because a missing foundation has to be laid before it can be drilled. The first session is a diagnostic on a marked paper, and it tells us which of those two we are looking at, so the plan from session two is honest about the timeline."
   - q: "How long is each GCSE Science tutoring session?"
     a: "Sixty minutes, for nearly every Year 10 and Year 11. A Science hour breaks naturally into three: ten minutes on the questions set last week, forty on the paper losing the marks, ten on exam questions under a light clock. Forty-five minutes sometimes works better for a Year 9 who is just starting the course, or for a student who finds an hour of concentration hard at first. For a triple award student in the spring of Year 11, some families move to ninety minutes so all three sciences get covered in a week. Length gets agreed on the consultation call and can change during the term."
   - q: "What credentials does The Degree Gap have as a tutoring agency?"

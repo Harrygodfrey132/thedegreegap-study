@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online one-to-one GCSE English tutoring for Stockport Year 11s whose predicted grade just dropped"
-hero_lead: "The report comes home with the English prediction a grade lower than the summer one, and nobody can say which essay did it. Our Stockport GCSE English tutors work one-to-one online over Lessonspace to find that essay and fix the habit behind it."
+hero_lead: "The report comes home with the English prediction a grade lower than the summer one, and nobody can say which essay did it. Our Stockport GCSE English tutors track that essay down, one-to-one online over Lessonspace, and fix the habit behind it."
 
 angle_eyebrow: "A GRADE BUILT ON FOUR ESSAYS"
 angle_heading: "Why an English Prediction Moves More Than a Maths One, and How to Move It Back"
@@ -33,15 +33,15 @@ steps_heading: "Start online GCSE English tutoring in Stockport in 3 steps"
 steps_lead: "Profiles inside a day. Send the essay the prediction dropped on, if school will give it back, because the mark scheme tells us more than the number."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, exam board, and whether Language, Literature or both are the worry. Name the set texts and the poetry cluster. Tell us what the prediction was in the summer and what it is now, because the size of the drop points at the cause."
+    body: "Which year, which school, which board, and whether the worry is Language, Literature or both. Name the set texts and the poetry cluster. Tell us what the prediction was in the summer and what it is now, because the size of the drop points at the cause."
   - title: "Meet your match"
-    body: "Two or three profiles the next morning, matched on the board and on the exact texts your child studies, not on English in general. There is a free 15-minute video call with the tutor before anything is booked."
+    body: "Two or three profiles within a day, chosen for the board and for the exact texts on your child's timetable rather than for English in general. You meet the tutor on a free 15-minute call before anything is booked."
   - title: "Start the lessons"
     body: "Weekly one-to-one sessions online over Lessonspace, our shared whiteboard, with the essay written on screen and marked line by line against the real scheme. Timed practice comes in once the plan holds. From £37 an hour, no minimum term."
 
 faqs:
   - q: "What grade do you need for A-Level English at Stockport sixth forms and colleges?"
-    a: "Each provider publishes its own line and revises it between years, so read this year's page rather than an older sibling's memory. Aquinas sets a minimum of six GCSEs at grade 4 or above including English Language and Maths, with subject requirements listed course by course. Stockport Grammar asks for an average of grade 6 across the best eight GCSEs for its sixth form, and Cheadle Hulme School works from a points total across nine subjects. For A-Level English Literature, a 6 in Literature is the common ask. From a 4 or 5 now, twelve to sixteen weeks of weekly sessions is the usual window to a 6."
+    a: "Each provider publishes its own line and revises it between years, so read this year's page rather than an older sibling's memory. Aquinas wants six grade 4s or better, English Language and Maths among them, with subject requirements listed course by course. Stockport Grammar asks for an average of grade 6 across the best eight GCSEs for its sixth form, and Cheadle Hulme School works from a points total across nine subjects. For A-Level English Literature, a 6 in Literature is the common ask. From a 4 or 5 now, twelve to sixteen weeks of weekly sessions is the usual window to a 6."
   - q: "What is the difference between AQA, Edexcel and OCR GCSE English, and does it matter?"
     a: "It matters most for Literature. Schools across Stockport sit different boards, the boards set different texts and poetry anthologies, and a tutor who knows the wrong cluster is no use for the comparison question. In Language the skills overlap heavily, but the question numbering, the marks per question and the time each paper allows differ, and exam technique has to be built for the paper your child will sit. AQA's two Language papers, for example, each end with a 40-mark writing task that is worth planning by the minute. We confirm the board and the texts on the consultation call before suggesting anyone."
   - q: "Why is my child's English predicted grade lower than I expected?"
@@ -49,7 +49,7 @@ faqs:
   - q: "How do you vet your GCSE English tutors?"
     a: "Around 3% of applicants come onto the platform. It runs in stages: a written application, a subject test on the texts and the assessment objectives, then a structured interview with Harry or Joe built around explaining something clearly to a student who has stopped listening. That last stage removes most people. To know Macbeth is not the same as being able to show a fifteen-year-old how to plan an answer on it in four minutes. References are checked at the end. The tutors who get through are graduates, many of them teachers or examiners, and every one is judged on clarity before credentials."
   - q: "Can I do GCSE English tutoring on a budget?"
-    a: "Yes, by being deliberate about timing rather than buying more hours. One weekly session from Year 10 does more than two a week started in April, because essay habits are built by repetition over months, not crammed. Another route is a short block, six to eight weekly sessions aimed at the one paper the prediction dropped on, then a pause. Sessions are paid one at a time, from £37 an hour, with no joining fee and no contract, so a Stockport family can stop after the block and come back before the summer exams if the mocks say so."
+    a: "Yes, and the lever is when the sessions happen rather than how many there are. One weekly session from Year 10 does more than two a week started in April, because essay habits are built by repetition over months, not crammed. The other option is a short run of six to eight weekly sessions aimed at the one paper the prediction dropped on, then a pause. Sessions are paid one at a time, from £37 an hour, with no joining fee and no contract, so a Stockport family can stop after the block and come back before the summer exams if the mocks say so."
 # FAQ picks: A02, A14, C04, E01, G01
 
 reviews:
