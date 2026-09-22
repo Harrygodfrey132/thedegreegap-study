@@ -34,13 +34,13 @@ steps:
   - title: "Share your goals"
     body: "Year group, school, exam board and the set texts, plus which of the two English GCSEs is causing the trouble. If you have a recent mock with the marks broken down by question, that is worth more to us than any report."
   - title: "Meet your match"
-    body: "Two or three profiles come back the next day, matched on the board and on the paper doing the damage rather than on English in general. A free 15-minute video meeting with the tutor comes before anything is booked."
+    body: "Two or three profiles come back the next day, matched on the board and on the paper doing the damage rather than on English in general. You get a free 15-minute video meeting with them before any lesson is paid for."
   - title: "Start the lessons"
     body: "One hour a week on Lessonspace, our shared whiteboard, with the student writing and the tutor marking live rather than talking about writing. Plans first, paragraphs second, whole answers under time after that. £37 an hour upwards, no contract."
 
 faqs:
   - q: "Is GCSE English tutoring for Northampton students all online?"
-    a: "Yes, every session runs online through Lessonspace, our shared whiteboard. For English that turns out to be an advantage rather than a compromise, because the student's writing appears on screen where the tutor can annotate it live, and the whole session is recorded for replaying later. It also means a family in Duston, Far Cotton or out towards Moulton gets the tutor who knows their board and their set texts, instead of whoever happens to live nearby and is free on a Tuesday."
+    a: "Yes, all of it. Sessions run on Lessonspace, the shared whiteboard we use for every lesson. For English that turns out to be an advantage rather than a compromise, because the student's writing appears on screen where the tutor can annotate it live, and the whole session is recorded for replaying later. It also means a family in Duston, Far Cotton or out towards Moulton gets the tutor who knows their board and their set texts, instead of whoever happens to live nearby and is free on a Tuesday."
   - q: "My child is in Year 10. Is it too early to start GCSE English tutoring in Northampton?"
     a: "Year 10 is the better year of the two, and English is the subject where that is most true. The reading and writing habits that decide Language marks take months to shift, so a student who starts in Year 10 gets time to build them before the Year 11 mock round. Literature also stacks: the texts a Northampton school teaches in Year 10 come back in the summer of Year 11, and revisiting them while they are fresh beats meeting them again cold."
   - q: "How can I tell which parts of GCSE English my child is losing marks on?"
@@ -48,7 +48,7 @@ faqs:
   - q: "Are your English tutors qualified teachers or university graduates?"
     a: "Both, and the right answer depends on the student. The network includes qualified secondary English teachers, Russell Group graduates and postgraduates who sat these papers recently enough to remember exactly how the mark scheme behaves. For a student who needs the basics rebuilt patiently, an experienced teacher is usually the better fit. For one who is close to the top of the band and losing marks on precision, a recent high achiever often has the sharper detail. We say which we think on the call."
   - q: "What happens if the tutor is not the right fit for my child?"
-    a: "Tell us and we re-match, at no cost and with no awkward conversation. The free 15-minute video meeting before any paid session exists to catch most mismatches early, and families do rule people out at that stage, which is exactly what it is for. If it takes a first paid lesson to work out, that is fine too. Around 3% of applicants get onto the platform, so there is depth to choose from rather than one alternative."
+    a: "Say so and we re-match, free of charge and without any awkward conversation. The free 15-minute video meeting before any paid session exists to catch most mismatches early, and families do rule people out at that stage, which is exactly what it is for. If it takes a first paid lesson to work out, that is fine too. Around 3% of applicants get onto the platform, so there is depth to choose from rather than one alternative."
 # FAQ picks: A04, A06, C01, E02, G03
 
 reviews:

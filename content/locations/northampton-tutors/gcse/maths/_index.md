@@ -32,7 +32,7 @@ steps_heading: "Start online GCSE Maths tutoring in Northampton in 3 steps"
 steps_lead: "Two or three profiles inside a day, and it pays to know the tier before the March mocks set what sixth forms and colleges see."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, exam board and tier, plus the grade now and the one that matters next. Tell us which paper the marks go missing on, because Paper 1 and Paper 3 fail for completely different reasons and need different terms of work."
+    body: "Year group, school, exam board and tier, then the grade today against the grade the next step asks for. Tell us which paper the marks go missing on, because Paper 1 and Paper 3 fail for completely different reasons and need different terms of work."
   - title: "Meet your match"
     body: "A day later you get two or three profiles, chosen on the specification, the tier and the kind of gap the paper points at. There is a free 15-minute video meeting with the tutor before anything is booked."
   - title: "Start the lessons"
@@ -48,7 +48,7 @@ faqs:
   - q: "What grade movement have your GCSE Maths tutors actually delivered for Northampton students?"
     a: "We quote what reviewers have written rather than an average, because averages in this trade are mostly marketing. One student wrote that tutoring took her from an E to a B. A parent described her daughter going from struggling with confidence in GCSE Maths to sitting the exams with it back. A term of weekly work on a real foundation gap commonly moves a band, sometimes two where the problem turns out to be technique. Nobody here promises a grade."
   - q: "Is GCSE Maths tutoring actually worth the money?"
-    a: "It depends on the gap, and we will say so on the call. For a student sitting below the grade their next step needs, a one or two band lift usually opens something concrete: a sixth form course, a Level 3 place at Northampton College, an apprenticeship that names Maths. That is worth an hour a week. For a student already comfortably at target, the honest answer is often a short block before mocks instead of a programme, and sometimes nothing at all."
+    a: "That depends on the size of the gap, and the call is where we say so plainly. For a student sitting below the grade their next step needs, a one or two band lift usually opens something concrete: a sixth form course, a Level 3 place at Northampton College, an apprenticeship that names Maths. That is worth an hour a week. For a student already comfortably at target, the honest answer is often a short block before mocks instead of a programme, and sometimes nothing at all."
 # FAQ picks: A08, A10, C03, E05, G06
 
 reviews:
