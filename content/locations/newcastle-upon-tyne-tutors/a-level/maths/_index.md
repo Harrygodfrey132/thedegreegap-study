@@ -1,7 +1,7 @@
 ---
 title: "A-Level Maths Tuition for Newcastle upon Tyne | The Degree Gap"
 nav_title: "Maths"
-description: "Online A-Level Maths tutors covering Newcastle upon Tyne, matched on the exam board and on where Mechanics sits in it. One-to-one over Lessonspace, from £37 an hour."
+description: "Online A-Level Maths tutors covering Newcastle upon Tyne, matched on the exam board and where Mechanics sits in it. One-to-one on Lessonspace, from £37/hr."
 layout: "level-subject"
 location: "Newcastle upon Tyne"
 level: "A-Level"
@@ -59,4 +59,8 @@ reviews:
   - "Leo|Student|The time I have spent with my tutor here has  really valuable.  He has helped so much with a range of topics across economics and maths. He explains things really clearly and makes the sessions enjoyable."
   - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
   - "Kasia|Parent|Harry is a great tutor. He's very helpful and knowledgeable. He's git goid understanding of student's needs as well as current situation when it comes to university education in the UK. His experience and expertise helped my son make some decisions about choosing A level subject and university course. I highly recommend Harry and Degree Gap."
+
+sitemap:
+  priority: 0.7
+  changefreq: monthly
 ---

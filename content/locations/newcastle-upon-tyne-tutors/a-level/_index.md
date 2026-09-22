@@ -1,6 +1,6 @@
 ---
 title: "A-Level Tutors Covering Newcastle upon Tyne | The Degree Gap"
-description: "Newcastle upon Tyne A-Level tutors for the grades that dipped after strong GCSEs. One-to-one online tutoring over Lessonspace, matched on the specification, from £37 an hour."
+description: "Newcastle upon Tyne A-Level tutors for grades that dipped after strong GCSEs. One-to-one online tutoring on Lessonspace, matched on specification. From £37/hr."
 layout: "subject"
 location: "Newcastle upon Tyne"
 level: "A-Level"

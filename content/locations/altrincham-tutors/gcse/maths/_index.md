@@ -1,7 +1,7 @@
 ---
 title: "Altrincham GCSE Maths Tuition | From £37/hr | The Degree Gap"
 nav_title: "Maths"
-description: "Online GCSE Maths tutors covering Altrincham for the questions that decide the top of the higher paper, from algebraic proof to circle theorems. From £37 an hour."
+description: "Online GCSE Maths tutors covering Altrincham for the questions that decide the top of the higher paper, from algebraic proof to circle theorems. From £37/hr."
 layout: "level-subject"
 location: "Altrincham"
 level: "GCSE"
@@ -13,7 +13,7 @@ hero_lead: "Plenty of Altrincham Year 11s have the first half of the Maths paper
 angle_eyebrow: "THE QUESTIONS THAT START WITH 'PROVE'"
 angle_heading: "Where the Grade Goes When the Arithmetic Is Already Fine"
 angle_body_1: "In Altrincham the Maths problem is rarely the arithmetic. Trafford's results sit near the top of the country, and the first two-thirds of each paper get done. The grade is decided in the last third, on questions that don't look like the ones in the textbook: an algebraic proof that an expression is always a multiple of four, a circle theorem buried inside a problem about a tangent, an iteration question that wants an explanation as well as a value, a vector proof that three points sit on a line. None of that is new content. It's method under unfamiliar wording, and a class of thirty rarely has the time to drill it."
-angle_body_2: "So the first session sits the student through the back half of a recent higher paper, and the wrong answers say which of those question types is leaking. Where the working is clean and the marks are missing, the plan is technique: how a proof is laid out so every mark is visible, when to draw the radius, what 'show that' is actually asking for. Where the method itself is shaky, the tutor goes back to the algebra underneath it first. Either way the aim is a grade that opens the next step, which around here means the sixth forms at the two Altrincham grammars, Loreto, Sale Grammar and Altrincham College, each publishing its own Maths requirement and revising it between years."
+angle_body_2: "So the first session sits the student through the back half of a recent higher paper, and the wrong answers say which of those question types is leaking. Where the working is clean and the marks are missing, the plan is technique: how a proof is laid out so every mark is visible, when to draw the radius, what 'show that' is asking for. Where the method itself is shaky, the tutor goes back to the algebra underneath it first. Either way the aim is a grade that opens the next step, which means the sixth forms at the two Altrincham grammars, Loreto, Sale Grammar and Altrincham College, each publishing its own Maths requirement and revising it between years."
 angle_image: "/images/maths-equations-close-up.jpg"
 angle_image_alt: "A GCSE Maths student working through an algebraic proof with an online tutor"
 angle_stat_from: "6"

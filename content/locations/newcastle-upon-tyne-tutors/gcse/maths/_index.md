@@ -1,7 +1,7 @@
 ---
 title: "Newcastle upon Tyne GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "Online GCSE Maths tutors covering Newcastle upon Tyne, for the Year 11 whose working stops halfway through a question. One-to-one over Lessonspace, from £37 an hour."
+description: "Online GCSE Maths tutors covering Newcastle upon Tyne, for the Year 11 whose working stops halfway through a question. One-to-one on Lessonspace, from £37/hr."
 layout: "level-subject"
 location: "Newcastle upon Tyne"
 level: "GCSE"
@@ -12,7 +12,7 @@ hero_lead: "Look at the last mock. The first line of each long question is there
 
 angle_eyebrow: "THE SECOND HALF OF THE QUESTION"
 angle_heading: "Why a Half-Finished Answer Costs the Same Marks on Either Tier"
-angle_body_1: "A Newcastle Maths paper is marked the same way in Fenham as in Gosforth, and the pattern tutors see on it is the same too. The student can start. They write the first line of a ratio question, set up the equation for a worded problem, draw the diagram for a circle theorem, then stop, because the next step was never done alone in class. On the foundation paper that is the gap between a 3 and a secure 4. On the higher paper it is the gap between a 6 and the 7 an A-Level Maths place asks for. Same habit, same cost, and it costs most on the five-mark problem-solving questions at the back of Papers 2 and 3."
+angle_body_1: "A Newcastle Maths paper is marked the same way in Fenham as in Gosforth, and the pattern on it is the same too. The student can start. They write the first line of a ratio question, set up the equation for a worded problem, draw the diagram for a circle theorem, then stop, because the next step was never done alone in class. On the foundation paper that is the gap between a 3 and a secure 4. On the higher paper it is the gap between a 6 and the 7 an A-Level Maths place asks for. Same habit, same cost, and it costs most on the five-mark problem-solving questions at the back of Papers 2 and 3."
 angle_body_2: "The first session sits the student in front of the questions they abandoned and asks them to carry on out loud, which shows the tutor exactly which step is missing, and it is rarely the hard one. From there the plan drills that step until it holds, then chains it into full questions, written out on the Lessonspace whiteboard rather than done in the head. It also settles the tier where that is still open, because a Year 10 near the boundary is often right on higher with focused work. Newcastle Sixth Form College, Gosforth Academy and Newcastle College each publish their own Maths requirement, and the tutor works back from the one your child needs."
 angle_image: "/images/maths-equations-close-up.jpg"
 angle_image_alt: "A GCSE Maths student finishing a multi-step problem with an online tutor"
@@ -59,4 +59,8 @@ reviews:
   - "Isabel|Parent of iGCSE Student|Harry helped our son enormously with his maths and economics iGCSE prep. He was patient, fun and engaging - just what we needed. Highly recommended."
   - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
   - "Marfa|Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university"
+
+sitemap:
+  priority: 0.7
+  changefreq: monthly
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Newcastle upon Tyne Tutors | GCSE & A-Level | The Degree Gap"
-description: "Newcastle upon Tyne tutoring for GCSE and A-Level: one-to-one, online over Lessonspace, matched on exam board and built around the grades local sixth forms ask for."
+description: "Newcastle upon Tyne tutoring for GCSE and A-Level: one-to-one, online over Lessonspace, matched on exam board, built round the grades local sixth forms ask for."
 layout: "single"
 location: "Newcastle upon Tyne"
 banner_heading: "Online Newcastle upon Tyne tutors for the mocks that sixth-form applications are built on"

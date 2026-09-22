@@ -1,7 +1,7 @@
 ---
 title: "GCSE Science Tutors for Newcastle upon Tyne | The Degree Gap"
 nav_title: "Science"
-description: "Online GCSE Science tutors covering Newcastle upon Tyne, combined and triple. One method for the calculation questions in all three sciences, one-to-one over Lessonspace, from £37/hr."
+description: "Online GCSE Science tutors covering Newcastle upon Tyne. One method for the calculations in all three sciences, one-to-one on Lessonspace, from £37/hr."
 layout: "level-subject"
 location: "Newcastle upon Tyne"
 level: "GCSE"
@@ -12,8 +12,8 @@ hero_lead: "Fine in Maths, blank in Physics, and nobody can say why the same sum
 
 angle_eyebrow: "ONE METHOD, THREE CLASSROOMS"
 angle_heading: "Why the Same Calculation Works in Maths and Fails in Physics"
-angle_body_1: "Combined Science comes home as one grade with a hyphen in it, taught by three teachers in three rooms, and the calculation questions run through all of them. Rearranged equations in Physics, moles and concentration in Chemistry, percentage change and magnification in Biology: each is taught its own way, none of them the way the Maths department did it, and a student who is fine in Maths on Tuesday goes blank on the same step in Physics on Thursday. Add units, standard form and significant figures, and the marks that bleed are not science marks at all. Newcastle College names science alongside Maths and English in its published T Level requirements, and the sixth forms set their own bar for the A-Level sciences, so those are expensive marks to lose."
-angle_body_2: "The first session pulls one recent paper apart into the three sciences and then into question types, and the calculation questions usually land in one pile with the same missing step. The tutor then teaches that step once, the same way for all three subjects, written out on the Lessonspace whiteboard with the units carried through every line, and drills it inside real exam questions until it holds whichever room it turns up in. Where the tier is still open in Year 10, the same paper settles it. St Mary's, Gosforth Academy, the Royal Grammar School and the other sixth forms each publish their own requirements for the A-Level sciences, revised between years, and the plan works back from the one that matters."
+angle_body_1: "Combined Science comes home as one grade with a hyphen in it, taught by three teachers in three rooms, and the calculation questions run through all of them. Rearranged equations in Physics, moles and concentration in Chemistry, percentage change and magnification in Biology: each is taught its own way, none of them the way Maths did it, so a student who is fine in Maths on Tuesday goes blank on the same step in Physics on Thursday. Add units, standard form and significant figures, and the marks that bleed are not science marks at all. Newcastle College names science beside Maths and English in its T Level requirements, and the sixth forms set their own bar for the A-Level sciences. Expensive marks to lose."
+angle_body_2: "The first session pulls one recent paper apart into the three sciences and then into question types, and the calculation questions usually land in one pile with the same missing step. The tutor teaches that step once, the same way for all three subjects, written out on the Lessonspace whiteboard with the units carried through every line, then drills it inside real exam questions until it holds whichever room it turns up in. Where the tier is still open in Year 10, the same paper settles it. St Mary's, Gosforth Academy, the Royal Grammar School and the other sixth forms each publish their own requirements for the A-Level sciences, revised between years."
 angle_image: "/images/chemistry-lab-glassware.jpg"
 angle_image_alt: "A GCSE Science student working through a calculation question with an online tutor"
 angle_stat_from: "4-4"
@@ -58,4 +58,8 @@ reviews:
   - "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
   - "Heidi|Parent|Emir, is simply amazing with our daughter. He 'gets' her totally, her sessions are helping her with her school work so much. We can't thank him enough ! Harry and Joe are always on hand should you need anything. Degreegap is an excellent company to work with, lots of excellent tutors avaliable to teach different subjects, great availability, very reasonably priced. Would highly recommend."
   - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+
+sitemap:
+  priority: 0.7
+  changefreq: monthly
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Altrincham GCSE Science Tutors | One-to-One | The Degree Gap"
 nav_title: "Science"
-description: "Online GCSE Science tutors covering Altrincham for combined and triple award, finding which of six papers leaks the marks and the Maths inside it. From £37 an hour."
+description: "Online GCSE Science tutors covering Altrincham for combined and triple award, finding which of six papers leaks the marks and the Maths inside it. From £37/hr."
 layout: "level-subject"
 location: "Altrincham"
 level: "GCSE"
@@ -47,7 +47,7 @@ faqs:
   - q: "Why is my child struggling with GCSE Science when they revise so much?"
     a: "Usually because the revision is rehearsing recall and the paper is testing method. Science revision drifts towards the parts that feel like learning, the definitions and the flashcards, and away from the parts that feel like Maths: rearranging an equation, converting units, reading a gradient off a graph, working out moles from a mass. Those questions are where the marks leak, and no amount of re-reading fixes them. The other common cause is the six-mark answers, where the student knows the content and writes it in the wrong order. A first session with a marked paper tells us which of the two it is, and each needs a different term."
   - q: "What grade improvements have your GCSE Science tutors actually delivered?"
-    a: "We only quote what parents and students have written themselves. A Year 10 who went from a grade 5 to a 6/7 in six months. A student who moved from an E to a B. A daughter who passed both English and Maths after missing much of three years. Two grades above a Year 13 mock. None of those are Science, and we won't pretend they are; what they share is the shape of the work, a marked paper first and one weekly hour on the thing it showed. For Altrincham students a term of that is typically aimed at moving one band, and we'd rather say that than promise a 9."
+    a: "We only quote what parents and students have written themselves. A Year 10 who went from a grade 5 to a 6/7 in six months. A student who moved from an E to a B. A daughter who passed both English and Maths after missing much of three years. Two grades above a Year 13 mock. None of those are Science; what they share is the shape of the work, a marked paper first and one weekly hour on the thing it showed. For Altrincham students a term of that is typically aimed at moving one band, and we'd rather say that than promise a 9."
   - q: "What happens if my child's GCSE Science result comes in below the predicted grade?"
     a: "We keep working with the family through results day. Science can't be resat in November the way Maths and English can, so the choice is the following summer or the next step with the grade in hand. For most Altrincham students the second is the right call: the sixth forms publish their science requirements up front, and where a student has missed one by a grade, a conversation with the sixth form about which course still fits is usually more useful than a resit year. Where a resit is right, an eight-week block in the autumn on the paper that let the grade down is the shape that works."
 # FAQ picks: A03, A07, C08, E05, G03
