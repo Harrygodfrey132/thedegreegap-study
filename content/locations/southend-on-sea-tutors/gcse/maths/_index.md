@@ -34,9 +34,9 @@ steps:
   - title: "Share your goals"
     body: "Year group, school, exam board and tier, plus the grade now and the grade that matters next. If there is a recent marked paper, send it across. Ten minutes with the actual script tells us more than a whole report does."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, matched on the specification, on the tier and on the kind of gap the paper points at. There is a free 15-minute video meeting with whoever you like the look of before anything is booked."
+    body: "Two or three profiles the next day, chosen on the specification, on the tier, and on the type of gap the script points to. Whoever you like the look of, there is a free 15-minute video meeting with them before a penny is spent."
   - title: "Start the lessons"
-    body: "A standing weekly hour on Lessonspace, our shared interactive whiteboard, with every step written out on screen rather than done in somebody's head. Where the tier decision is still open, a Year 10 diagnostic settles it. £37 an hour and up, paid one session at a time."
+    body: "One standing hour a week on Lessonspace, the shared whiteboard we teach on, with the working typed out in front of your child instead of held in somebody's head. Where the tier decision is still open, a Year 10 diagnostic settles it. £37 an hour and up, paid one session at a time."
 
 faqs:
   - q: "How does GCSE Maths performance in Southend-on-Sea compare to the national average?"
@@ -46,9 +46,9 @@ faqs:
   - q: "Can the same tutor help with both GCSE Maths and another subject?"
     a: "Some do, and with Maths the pairing worth asking about is Physics or the calculation side of Chemistry. A student in Southend-on-Sea losing marks on rearranging in GCSE Maths is very likely losing the same marks in a Physics six-marker, and one tutor seeing both is quicker than two working separately. Most tutors specialise, though. For Maths alongside English or History you want two people, and we would say so on the call rather than stretch one match to cover both."
   - q: "Are your GCSE Maths tutors qualified teachers or university students?"
-    a: "Both, and we pick on the problem rather than the credential. A student who needs a topic taught properly from the beginning usually does best with a qualified teacher who has taught it a hundred times and knows exactly where it goes wrong. A student whose method is sound but whose marks are not often does better with a recent graduate who sat the current papers and remembers the mark scheme detail. Sometimes the deciding factor is simply which of them your child will talk to."
+    a: "We have both, and the match is made on the problem rather than the CV. Where a topic has to be taught properly from scratch, a qualified teacher who has taught it a hundred times and knows the exact place it falls over is usually the better fit. A student whose method is sound but whose marks are not often does better with a recent graduate who sat the current papers and remembers the mark scheme detail. Sometimes the deciding factor is simply which of them your child will talk to."
   - q: "What if my child doesn't want a tutor?"
-    a: "Common, and worth taking seriously rather than overruling. Most resistance happens before they have met anybody and is really about what accepting help seems to say about them. The free 15-minute video meeting exists for exactly that: your child sees the tutor first and can turn down a particular person without turning down the idea. Most come round inside two or three sessions, because one adult paying full attention is not school-shaped. If they still do not want it, pause. No charge, no argument."
+    a: "Common, and worth taking seriously rather than overruling. Most of the resistance arrives before they have met anybody, and it is really about what accepting help seems to announce. So your child meets the tutor on a free video call first and gets a veto. To turn down one person is not to turn down the idea. Most come round inside two or three sessions, because one adult paying full attention is not school-shaped. If they still do not want it, pause. No charge, no argument."
 # FAQ picks: A07, A13, C07, E02, G02
 
 reviews:

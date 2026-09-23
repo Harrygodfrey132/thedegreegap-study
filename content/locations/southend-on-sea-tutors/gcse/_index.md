@@ -22,7 +22,7 @@ first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B at GCSE"
 
 tutor_strip_heading: "Southend-on-Sea GCSE tutors who ask for the mock before the timetable"
-tutor_strip_body: "Schools across the city sit different boards and enter students at different tiers, so we confirm both before anybody is proposed. Each tutor clears a founder-led interview that around 3% of applicants pass. Browse the profiles, or let us match your child."
+tutor_strip_body: "Schools across the city sit different boards and enter students at different tiers, so we confirm both before anybody is proposed. Around 3% of applicants get through the founder-led interview, so the shortlist is short for a reason. Have a look at the profiles, or leave the matching to us."
 
 pathways_heading: "The September After Year 11 in Southend-on-Sea"
 pathways_lead: "Three routes, and most families in the city are weighing at least two of them by February."
@@ -31,8 +31,8 @@ pathways:
     body: >
       The four grammar sixth forms carry on at sixteen, and Belfairs Academy, Chase High School,
       Shoeburyness High School, Cecil Jones Academy, St Bernard's and St Thomas More all run their own.
-      Each publishes its own entry requirements and revises them between years, with A-Level courses
-      generally asking for a grade in the subject a student wants to keep.
+      Every one of them sets its own bar and moves it between years, and a subject carried into
+      A-Level usually has a requirement attached to that subject rather than the average.
   - title: "Apprenticeships"
     body: >
       Ipeco builds aircraft crew seating in the city and runs Level 2 and Level 3 apprenticeships, while
@@ -60,7 +60,7 @@ reviews:
   - "Isabel|Parent of iGCSE Student|Harry helped our son enormously with his maths and economics iGCSE prep. He was patient, fun and engaging - just what we needed. Highly recommended."
 
 faq_1_q: "Year 9, Year 10 or Year 11: when does GCSE tutoring actually make sense?"
-faq_1_a: "Year 10 where you have the choice. The content steps up that year and the gaps that open are still small enough to close in a few weeks, whereas left alone they pile up and arrive together in a Year 11 mock. Year 9 is worth it when a subject has already been written off at home. Year 11 still works and plenty of families start there, though the plan narrows towards technique and past papers rather than teaching anything from the beginning."
+faq_1_a: "Year 10, if the choice is yours. That is the year the content steps up, and a gap opened in October is still small enough to close by Christmas, whereas the same gap left alone joins three others and turns up together in a Year 11 mock. Year 9 is worth it when a subject has already been written off at home. Year 11 still works and plenty of families start there, though the plan narrows towards technique and past papers rather than teaching anything from the beginning."
 faq_2_q: "Do your tutors cover the exam boards Southend-on-Sea schools use?"
 faq_2_a: "Yes, and the board is the first thing we confirm rather than a detail sorted later. Schools across the city and out towards Rayleigh and Benfleet do not all sit the same specification, and boards differ on how questions get worded, how practicals are examined and which formulae are printed rather than learned. A tutor who knows your child's spec is doing useful work in the first ten minutes. One who does not spends three sessions catching up at your expense."
 faq_3_q: "How does tutoring fit around sixth form applications in the autumn?"

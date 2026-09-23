@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online A-Level Tutors Who Give Luton Students Room to Be Wrong Out Loud"
 hero_heading_line2: ""
-hero_lead: "Nobody wants to be the student asking what the method actually means in front of a large sixth form group. Our Luton A-Level tutors give an hour a week where asking costs nothing, online and one-to-one."
+hero_lead: "Nobody wants to be the student asking what the method actually means in front of a large sixth form group. Our Luton A-Level tutors give an hour a week where asking costs nothing, online and one-to-one over Lessonspace."
 
 grade_from: "C"
 grade_to: "A"
@@ -22,7 +22,7 @@ first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Two grades above a Year 13 mock"
 
 tutor_strip_heading: "The Luton A-Level tutors who take the basic question seriously"
-tutor_strip_body: "Most tutors on the platform are recent graduates who remember exactly where Year 13 leans on Year 12, and several are qualified examiners. Around 3% of applicants clear the founder-led interview. Browse the profiles, or let us send you two."
+tutor_strip_body: "Most tutors on the platform are recent graduates who remember exactly where Year 13 leans on Year 12, and several are qualified examiners. Around 3% of applicants clear the founder-led interview. Lessons run one-to-one on Lessonspace, our shared whiteboard, and each one is recorded. Browse the profiles, or let us send you two."
 
 pathways_heading: "Where a Luton Sixth Former Goes Next"
 pathways_lead: "Most students end up on one of three routes, and the deadlines do not all land in the same term."

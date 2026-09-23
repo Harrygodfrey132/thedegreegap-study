@@ -35,9 +35,9 @@ steps:
   - title: "Share your goals"
     body: "Year group, sixth form, exam board and which optional modules the school has chosen, plus any courses or schemes being considered. A student aiming at an engineering route needs different work from one keeping options open, and it changes who we suggest."
   - title: "Meet your match"
-    body: "Two or three profiles the next day, matched on the specification and on the strand doing the damage. A free 15-minute video call with the tutor comes before anything is paid for."
+    body: "A shortlist of two or three lands the next day, chosen on the specification and on whichever strand is losing the marks. Nothing is paid for until your child has had a free 15-minute call with them."
   - title: "Start the lessons"
-    body: "One hour a week on Lessonspace, the shared whiteboard every session runs on, with your child working through questions rather than watching somebody else do them. The plan is built backwards from the prediction date. £37 an hour upwards, paid one session at a time."
+    body: "An hour a week on Lessonspace, our shared whiteboard, and your child holds the pen for most of it rather than watching a screen fill up. The plan is built backwards from the prediction date. £37 an hour upwards, paid one session at a time."
 
 faqs:
   - q: "How does online A-Level Maths tutoring work for Southend-on-Sea families?"
@@ -46,8 +46,8 @@ faqs:
     a: "Year 12, and the gap between the two is wider than most families expect. Predictions rest on Year 12 performance and the first assessments of Year 13, and they reach universities in the autumn, so an offer is often made against a number settled before revision has properly begun. A Year 13 start still lifts the final grade and plenty of families do it. But that work lands after the doors have opened or not, which is a different and smaller job."
   - q: "What happens in a typical A-Level Maths session?"
     a: "An hour in three rough parts, though tutors vary it. The first stretch goes on last week's questions, marked and handed back with the lost marks named. The middle is the topic doing the most damage, worked on the whiteboard with your child writing rather than watching. The last stretch is exam questions under something close to exam conditions, then a walk through the mark scheme so they can see where the marks were meant to be. Homework comes out of whatever went wrong."
-  - q: "Can an A-Level Maths tutor help a child with dyslexia, ADHD or processing differences?"
-    a: "Yes, and several tutors do this week in, week out. The practical help is mostly about load: a consistent layout so multi-step working does not get lost halfway down a page, long questions split into named stages, and one method drilled until it is automatic rather than three offered as options. Timed practice comes in gradually where exam conditions are the difficulty. Tell us on the consultation call what school already has in place, including exam access arrangements."
+  - q: "Can tutoring work for a child with dyslexia, ADHD or processing differences?"
+    a: "Yes, and several tutors do this week in, week out. The practical help is mostly about load. A layout that stays the same every week, so a long solution does not get lost down the page. Questions broken into named stages. One method drilled until it runs on its own rather than three offered as choices. Timed practice comes in gradually where exam conditions are the difficulty. On the first call, tell us what the sixth form already does, access arrangements included, and the match is made around it."
   - q: "Is A-Level Maths tutoring actually worth the money?"
     a: "Depends on the gap, and we would rather say that than sell you a term. For a Southend-on-Sea student sitting a band below what their course needs, A-Level Maths is usually the most efficient hour you can buy, because marks lost to method come back quickly and the grade carries the whole application. For a student already comfortable at target, the honest answer is a short block before mocks rather than a programme. Harry or Joe will tell you which of the two you are looking at."
 # FAQ picks: A05, A08, C03, E03, G03

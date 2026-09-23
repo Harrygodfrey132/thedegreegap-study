@@ -36,7 +36,7 @@ steps:
   - title: "Meet your match"
     body: "Two or three profiles the next day, chosen on the board, the tier and the kind of question the paper says is going wrong. A free 15-minute video meeting with the tutor comes before anything is paid for."
   - title: "Start the lessons"
-    body: "A weekly hour on Lessonspace, our shared whiteboard, with every step written on screen instead of done in somebody's head. Real past-paper questions from early on. From £37 an hour, paid one session at a time."
+    body: "A weekly one-to-one hour online on Lessonspace, our shared whiteboard, with every step written on screen instead of done in somebody's head. Real past-paper questions from early on. From £37 an hour, paid one session at a time."
 
 faqs:
   - q: "How does GCSE Maths performance in Bolton compare with the national picture?"

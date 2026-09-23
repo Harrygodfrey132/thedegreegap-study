@@ -22,7 +22,7 @@ first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "C grades to A grades at A-Level"
 
 tutor_strip_heading: "Bolton A-Level tutors who know what the offer asks for"
-tutor_strip_body: "Students here sit A-Levels at Bolton School, Canon Slade, Turton and The Sixth Form Bolton, on several different boards. We confirm the specification first, then the module choices. Around 3% of applicants clear the founder-led interview. Browse the profiles, or let us match your child."
+tutor_strip_body: "Students here sit A-Levels at Bolton School, Canon Slade, Turton and The Sixth Form Bolton, on several different boards. We confirm the specification first, then the module choices. Every session is one-to-one and online over Lessonspace, and around 3% of applicants clear the founder-led interview. Browse the profiles, or let us match your child."
 
 pathways_heading: "The Three Routes Bolton A-Level Students Weigh Up"
 pathways_lead: "Most families here look seriously at two of these three, and the deadlines do not line up neatly."

@@ -32,9 +32,9 @@ steps_heading: "Start online GCSE Science tutoring in Southend-on-Sea in 3 steps
 steps_lead: "Profiles inside a day. The useful opening question is which of the three your child would drop tomorrow if they could."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, board, and whether it is triple or combined. Then the question that decides most of the plan: which of the three feels worst, and whether that has been true since Year 9 or only started this year."
+    body: "Year group, school, board, and whether it is triple or combined. Then the question that shapes most of the plan: which of the three would they drop, and has that been the case since Year 9 or only since September."
   - title: "Meet your match"
-    body: "Profiles the next day, picked on the board and on whichever science is costing the marks rather than on Science in general. A free 15-minute call with the tutor comes before anything is booked."
+    body: "Profiles the next day, picked on the board and on the one science bleeding the marks rather than on the subject as a block. A free 15-minute call with the tutor comes before anything is booked."
   - title: "Start the lessons"
     body: "A weekly hour on Lessonspace, our shared interactive whiteboard, working real exam questions with the method written out on screen. Required practicals get rebuilt as answers rather than revised as memories. From £37 an hour, paid one session at a time."
 
@@ -46,7 +46,7 @@ faqs:
   - q: "Should my child take foundation or higher tier GCSE Science?"
     a: "Where your child sits now decides it, not where anybody hopes they land. The higher paper reaches the top grades and gives away very little underneath its floor. Foundation caps lower but puts far more of the available marks within reach, which for some students is the difference between a pass and nothing at all. Entries get reviewed during Year 10 at most schools here, so a diagnostic that autumn turns the question into a decision. Whatever we think, that conversation belongs with the school too."
   - q: "How do you vet your GCSE Science tutors?"
-    a: "Around 3% of applicants end up on the platform. There is a written application, then a check that the subject knowledge is genuinely there, then a structured interview about explaining a difficult idea to somebody who does not have it yet. The last stage removes most people, which is rather the point: a tutor who cannot be followed in the first ten minutes is no use however much Chemistry they know. Joe and Harry run those interviews themselves, and references get taken at the end."
+    a: "Around 3% of applicants end up on the platform. It runs in stages: an application, a subject test that has to be passed properly, and then an interview built around taking a hard idea and landing it with somebody who has not met it before. The last stage removes most people, which is rather the point: a tutor who cannot be followed in the first ten minutes is no use however much Chemistry they know. Joe and Harry run those interviews themselves, and references get taken at the end."
   - q: "How do I pause or cancel GCSE Science tutoring in Southend-on-Sea?"
     a: "There is nothing to cancel, which is the short answer. No contract, no minimum term, and no notice beyond telling us before the next session so the tutor is not sitting waiting. You pay for sessions taken and nothing else. Families across the city often run tutoring in blocks rather than continuously, heavier before mocks and lighter afterwards, and that is a normal way to use it rather than something we would talk you out of."
 # FAQ picks: A10, A12, C09, E01, G04

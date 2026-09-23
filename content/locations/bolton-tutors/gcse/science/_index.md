@@ -36,13 +36,13 @@ steps:
   - title: "Meet your match"
     body: "Profiles the next day, picked on the board and on the science losing the marks rather than on Science in general. A free 15-minute video meeting with the tutor comes before anything is booked."
   - title: "Start the lessons"
-    body: "A standing weekly hour on Lessonspace, our shared whiteboard. Real exam questions with the method typed out on screen, and practicals written up the way a mark scheme wants them. From £37 an hour, one session at a time."
+    body: "A standing weekly hour, one-to-one and online on Lessonspace, our shared whiteboard. Real exam questions with the method typed out on screen, and practicals written up the way a mark scheme wants them. From £37 an hour, one session at a time."
 
 faqs:
   - q: "Is GCSE Science tutoring for Bolton families run online?"
     a: "Yes, all of it, over Lessonspace, the shared whiteboard the tutor and your child both write on. Science suits it well, because diagrams, graphs and calculation steps get built up on screen while they are being explained, and the recording stays there afterwards. Families across Bolton, Horwich, Westhoughton, Farnworth and the villages north of the town reach exactly the same network, and the match is made on the board and the award rather than on who lives nearby."
   - q: "When is the best time to start GCSE Science tutoring in Year 11?"
-    a: "September to February, and the earlier half of that window is worth more. Autumn mocks feed the predicted grades Bolton sixth forms read when they make offers, so work landing before those papers counts twice over. Science has a second reason: there is a lot of content, and spreading it over two terms beats squeezing it into the spring. A start after mocks still helps, it just becomes technique and past papers rather than teaching anything properly from scratch."
+    a: "September to February, and the earlier half of that window is worth more. Autumn mocks feed the predicted grades Bolton sixth forms read when they make offers, so work landing before those papers counts twice over. Science has a second reason: there is a lot of content, and spreading it over two terms beats squeezing it into the spring. But a start after mocks still helps. It just becomes technique and past papers rather than teaching anything properly from scratch."
   - q: "My child is in Year 10. Is that too early for Science tutoring?"
     a: "Year 10 is the best point to start. Year 11 content sits directly on top of Year 10, so a gap closed now stops doing damage for eighteen months, and the required practicals being done this year are the ones examined next. Year 10 sessions are calmer too, weighted towards method and understanding rather than paper drilling, which suits a student who has quietly started to decide one of the sciences is not for them."
   - q: "What credentials does The Degree Gap have as a tutoring agency?"

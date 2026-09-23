@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Luton GCSE Tutors Who Close the Foundation Gap Before the Tier Is Decided"
 hero_heading_line2: ""
-hero_lead: "Parents' evening says the same two things every year: capable, needs to push. Our Luton GCSE tutors turn that into something you can act on, by finding the topic underneath it. Sessions are online and one-to-one."
+hero_lead: "Parents' evening says the same two things every year: capable, needs to push. Our Luton GCSE tutors turn that into something you can act on, by finding the topic underneath it. Sessions are online and one-to-one, over Lessonspace."
 
 grade_from: "E"
 grade_to: "B"
@@ -22,7 +22,7 @@ first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "E to B at GCSE"
 
 tutor_strip_heading: "Luton GCSE tutors picked for the board and the tier"
-tutor_strip_body: "Denbigh, Challney, Icknield, Stopsley and Lealands don't all sit the same boards, so we confirm the specification before proposing anyone. Each tutor clears a founder-led interview that around 3% of applicants pass. Browse the profiles, or let us match your child."
+tutor_strip_body: "Denbigh, Challney, Icknield, Stopsley and Lealands don't all sit the same boards, so we confirm the specification before proposing anyone. Each tutor clears a founder-led interview that around 3% of applicants pass, and every lesson runs one-to-one on Lessonspace, our shared whiteboard. Browse the profiles, or let us match your child."
 
 pathways_heading: "What Sixteen Looks Like for a Luton Year 11"
 pathways_lead: "Post-16 here means an application rather than a walk upstairs, so it pays to know what each route asks for."

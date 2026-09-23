@@ -36,7 +36,7 @@ steps:
   - title: "Meet your match"
     body: "A shortlist of two or three the next day, matched on the specification and on the strand that needs the hours. A free 15-minute video meeting with the tutor comes before anything is booked."
   - title: "Start the lessons"
-    body: "An hour a week on Lessonspace, the shared whiteboard, with your child working through questions rather than watching somebody else do them. Work is set between sessions and marked before the next one. From £37 an hour, no minimum term."
+    body: "An hour a week, one-to-one and online on Lessonspace, the shared whiteboard, with your child working through questions rather than watching somebody else do them. Work is set between sessions and marked before the next one. From £37 an hour, no minimum term."
 
 faqs:
   - q: "What is the hardest part of A-Level Maths for Bolton students?"

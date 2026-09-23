@@ -36,7 +36,7 @@ steps:
   - title: "Meet your match"
     body: "Two or three profiles the next morning, matched on the board and on the exact texts your child studies. A free 15-minute video meeting with the tutor comes before any paid session."
   - title: "Start the lessons"
-    body: "One hour a week on Lessonspace, the whiteboard the tutor and your child share. Answers get planned, written, marked against the real criteria, then written again. From £37 an hour, pause whenever you need to."
+    body: "One hour a week, one-to-one and online on Lessonspace, the whiteboard the tutor and your child share. Answers get planned, written, marked against the real criteria, then written again. From £37 an hour, pause whenever you need to."
 
 faqs:
   - q: "What grade do you need for A-Level English at Bolton sixth forms?"
