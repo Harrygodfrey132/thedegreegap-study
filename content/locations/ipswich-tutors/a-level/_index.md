@@ -35,7 +35,7 @@ pathways:
       BT Group runs a Level 6 digital and technology apprenticeship out of Adastral Park at Martlesham, and the University of Suffolk added five more degree-level programmes for 2026, from data science to project management. Deadlines for these routes often land well before results day, so it is the predicted grade that gets screened.
   - title: "Career Pathways"
     body: >
-      WTW keeps around 1,300 office staff in the Willis Building and AXA has an Ipswich office too, while East Suffolk and North Essex NHS Foundation Trust runs apprenticeships out of Ipswich Hospital. Suffolk County Council and the Port of Felixstowe both take on school leavers at eighteen.
+      WTW keeps around 1,300 office staff in the Willis Building and AXA has an Ipswich office too, while East Suffolk and North Essex NHS Foundation Trust runs apprenticeships out of Ipswich Hospital. Suffolk County Council is one of the county's largest employers, and the Port of Felixstowe takes its apprentices on from eighteen.
 
 reviews:
   - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
@@ -58,7 +58,7 @@ faq_1_a: "It moves the work the prediction is built on, which is the only honest
 faq_2_q: "Can tutoring help with a degree apprenticeship application?"
 faq_2_a: "Yes, and in Ipswich it comes up as often as UCAS does. BT Group's Level 6 digital and technology apprenticeship at Adastral Park publishes a requirement of three A-Levels at BCC or above plus five GCSEs at grade 4 to 9 including English and Maths, with applications closing in the spring. Schemes like that read predicted grades and a written application. Tutors work on the subject grade the scheme names, and we can look over how the application reads."
 faq_3_q: "He got grade 8s at GCSE and A-Level has flattened him. What happened?"
-faq_3_a: "Nothing unusual, and it is rarely about effort. At GCSE a strong student can pattern-match: the question announces the topic, and the right method follows. A-Level papers stop announcing it. The student has to pick a method with nothing pointing at one, and that skill was never needed before, so it was never built. The fix is drilling on unlabelled questions rather than more content, and it tends to land inside a term."
+faq_3_a: "Nothing unusual, and it is rarely about effort. At GCSE a strong student can pattern-match: the question announces the topic, and the right method follows. A-Level papers stop announcing it. The student has to pick a method with nothing pointing at one. And that skill was never needed before, so it was never built. The fix is drilling on unlabelled questions rather than more content, and it tends to land inside a term."
 faq_4_q: "Is Year 12 or Year 13 the right time to start?"
 faq_4_a: "Year 12, and the gap between the two is wider than most families expect. Work done in Year 12 counts twice: once in the prediction that shapes the offers, once in the paper that has to meet it. Year 13 still moves a final grade and plenty of Ipswich families begin there, though by then the offers have usually been made against a number set earlier. Before Christmas of Year 13 is the point worth aiming at if Year 12 has gone."
 

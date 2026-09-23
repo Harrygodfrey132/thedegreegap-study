@@ -15,14 +15,14 @@ grade_stat: "A real GCSE lift from an E to a B, in the words of the student who 
 
 first_lesson_eyebrow: "THE NUMBER THE APPLICATION IS READ ON"
 first_lesson_heading: "What an Ipswich GCSE Tutor Reads Before Anything Else"
-first_lesson_context: "Results across Suffolk sit close to the national picture, a little under it on some measures, and neither fact tells you much about one child on one paper. The thing that matters more here is timing. The application goes in during the autumn, the mock comes weeks later, and an October start gives a GCSE tutor two terms to move a number that gets read twice."
+first_lesson_context: "Results across Suffolk sit close to the national picture, a little under it on some measures, and neither fact tells you much about one child on one paper. What matters more here is timing. The application goes in during the autumn, the mock comes weeks later, and an October start gives a GCSE tutor two terms to move a number that gets read twice."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B at GCSE"
 
 tutor_strip_heading: "Ipswich GCSE tutors who know which board your school teaches"
-tutor_strip_body: "Copleston, Northgate, Kesgrave and Chantry are not all on the same specifications, so we confirm the board before proposing anybody. Each tutor clears a founder-led interview that around 3% of applicants pass. Browse the profiles, or let us match your child."
+tutor_strip_body: "Copleston, Northgate, Kesgrave and Chantry are not all on the same specifications, so we confirm the board before proposing anybody. Each tutor clears a founder-led interview that around 3% of applicants pass. Browse the profiles. Or let us match your child."
 
 pathways_heading: "Where the Town's Year 11s Land at Sixteen"
 pathways_lead: "Three routes, and plenty of Ipswich families are weighing all three at the same time."
@@ -58,7 +58,7 @@ faq_2_a: "Year 10 if you have the choice. The content steps up that year and the
 faq_3_q: "Can a tutor help with the mocks that post-16 offers get checked against?"
 faq_3_a: "That is one of the most common reasons Ipswich families get in touch. Tutors work through real past papers under time, then mark them the way an examiner would rather than the way a student marks their own work. The gap is usually between knowing a topic and writing it down in the twelve minutes the question allows. Start in the autumn and there is room to fix both. Start in March and it becomes technique only. It all runs one-to-one and online over Lessonspace, so a paper gets marked on the shared whiteboard while your child watches it happen."
 faq_4_q: "Do you have separate Biology, Chemistry and Physics tutors for triple Science?"
-faq_4_a: "Yes, and for triple Science students it is usually worth it. Three sciences taught by three teachers produce three different sorts of gap, and a Chemistry specialist will spot a moles problem faster than a generalist ever does. It matters in a town where the technical routes at Adastral Park and the Port of Felixstowe read Science grades closely. For combined award, one tutor across all three is often the better use of the hour. We will say which we think fits on the call."
+faq_4_a: "Yes, and for triple Science students it is usually worth it. Three sciences taught by three teachers produce three different sorts of gap, and a Chemistry specialist will spot a moles problem faster than a generalist ever does. It matters in a town where the technical routes at Adastral Park and the Port of Felixstowe read Science grades closely. But for combined award, one tutor across all three is often the better use of the hour. We will say which we think fits on the call."
 
 sitemap:
   priority: 0.7
