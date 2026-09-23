@@ -32,7 +32,7 @@ steps_heading: "Start online GCSE Science tutoring in Luton in 3 steps"
 steps_lead: "Two or three profiles inside a day. Dig out the last marked paper if you can: one combined grade on a report hides which of the three is the problem."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, board, and triple or combined. Then the question that decides most of the plan: which of the three feels worst, and whether that has been true since Year 9 or only since September."
+    body: "Year group, school, board, and triple or combined. Then the question that decides most of the plan: which of the three your child would drop tomorrow if they could, and how long that has been the answer."
   - title: "Meet your match"
     body: "Profiles the next day, chosen on the board and on whichever of the three is costing the marks rather than on Science as a whole. Your child meets them on a free 15-minute video call before anything is paid for."
   - title: "Start the lessons"
