@@ -18,7 +18,7 @@ angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"
 angle_image_alt: "A GCSE English student planning an unseen extract answer with an online tutor"
 angle_stat_from: "4"
 angle_stat_to: "6"
-angle_stat_detail: "Where a term of weekly one-to-one GCSE English sessions is typically aimed once the writing has a structure the student trusts."
+angle_stat_detail: "Roughly where a term of weekly one-to-one GCSE English hours gets pointed once the writing has a structure the student trusts."
 
 schools:
   - "Challney High School for Girls"
@@ -32,9 +32,9 @@ steps_heading: "Start online GCSE English tutoring in Luton in 3 steps"
 steps_lead: "Profiles inside a day. Tell us which of the two papers the marks are going on, because Language and Literature need different terms of work."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, exam board, and whether Language, Literature or both are the worry. Name the set texts if you know them. Say whether your child talks about books better than they write about them, because that changes how the hour is built."
+    body: "Give us the year group, the school and the board, then say which of the two papers is the worry. If you know the set texts, name them. Tell us as well whether your child talks about books better than they write about them, because that changes how the hour gets built."
   - title: "Meet your match"
-    body: "Two or three names arrive the next morning, matched on the board and on the exact texts your child studies. A free 15-minute video meeting with the tutor comes before anything is booked."
+    body: "Two or three names come back the following morning, picked on the board and on the texts your child is actually studying. Nothing is booked until they've met on a free 15-minute video call."
   - title: "Start the lessons"
     body: "Once a week on Lessonspace, the whiteboard the tutor and your child share, working on real answers rather than notes about answers. Written work comes back marked against the band descriptors. From £37 an hour, and you can pause whenever you need to."
 
@@ -46,9 +46,9 @@ faqs:
   - q: "My child is in Year 10. Is that too early to start English tutoring?"
     a: "Year 10 is the better start rather than the early one. The set texts are still being taught, so a tutor can build the argument alongside the reading instead of rebuilding it from half-remembered notes in March. Essay structure takes months to become automatic, and Year 10 has months. Sessions at this stage feel less like exam prep and more like planning, redrafting and reading work aloud. By the time the Year 11 mocks come round the student has a shape they trust rather than a blank page."
   - q: "What grade improvements have your English tutors actually delivered?"
-    a: "Real ones, and we quote them from reviews rather than invent them. One parent describes a Year 10 who was disengaged from English moving from a grade 5 to a 6/7 across six months of weekly sessions. A student writes about going from an E to a B. We won't promise a number, because the honest answer depends on where a student starts and how much writing happens between lessons. On the consultation call we will tell you what a term tends to look like from your child's starting point."
+    a: "Real ones, and we quote them from reviews rather than invent them. One parent writes about a Year 10 who had switched off from English and came out at a 6/7 after six months of weekly lessons, up from a grade 5. A student describes going from an E to a B. We won't promise a number, because the honest answer depends on where a student starts and how much writing happens between lessons. On the consultation call we will tell you what a term tends to look like from your child's starting point."
   - q: "What happens if the tutor is not the right fit for my child?"
-    a: "You tell us and we re-match at no cost. There's a free 15-minute video meeting with the recommended tutor before any paid session, and families do use it to rule somebody out, which is exactly what it's for. English is the subject where fit matters most, because a fifteen-year-old has to be willing to show a stranger writing they suspect is bad. If that doesn't happen, nothing else does. Around 3% of applicants come onto the platform, so there is depth to move to."
+    a: "You tell us and we re-match at no cost. The free 15-minute video call with the recommended tutor happens before any money changes hands, and families do use it to say no, which is exactly what it's there for. English is the subject where fit matters most, because a fifteen-year-old has to be willing to show a stranger writing they suspect is bad. If that doesn't happen, nothing else does. Around 3% of applicants come onto the platform, so there is depth to move to."
 # FAQ picks: A03, A04, C01, E05, G06
 
 reviews:

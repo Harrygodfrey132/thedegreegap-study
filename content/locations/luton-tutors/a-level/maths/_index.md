@@ -15,10 +15,10 @@ angle_heading: "Why Year 12 Maths Is a Different Subject, Not a Harder One"
 angle_body_1: "At GCSE a question usually tells you what it wants. Factorise this, find that angle, solve for x. A student who is quick at spotting patterns can carry a strong grade on that alone, and plenty of Luton students reach Year 12 having done exactly that. Then Pure asks for a proof with no starting equation. Mechanics wants a diagram drawn before any algebra happens. The Statistics questions hand over a data set and a context rather than a formula. The gap isn't effort and it isn't the wrong subject choice. Nobody has taught method choice, because at GCSE it was never needed."
 angle_body_2: "So tutors work from past paper questions with the topic label taken off, which is uncomfortable for about three weeks and then stops being uncomfortable. Alongside that goes the strand nobody revises, usually Mechanics or Statistics depending on temperament, since that's where marks quietly sit. Luton Sixth Form College asks for a grade 6 in GCSE Maths before A-Level Maths and puts students who arrive on a 6 into an extra weekly support class, which tells you how real the jump is. Work landing in Year 12 also reaches the prediction that goes to UCAS."
 angle_image: "/images/student-completing-maths-worksheet.jpg"
-angle_image_alt: "An A-Level Maths student working through a mechanics problem with an online tutor"
+angle_image_alt: "A Luton A-Level Maths student choosing a method for an unlabelled question with an online tutor"
 angle_stat_from: "D"
 angle_stat_to: "B"
-angle_stat_detail: "Where a year of weekly one-to-one A-Level Maths sessions is typically aimed when method choice is the gap."
+angle_stat_detail: "Roughly where a year of weekly one-to-one A-Level Maths hours gets pointed when method choice is the gap."
 
 schools:
   - "Cardinal Newman Catholic School"
@@ -32,9 +32,9 @@ steps_heading: "Start online A-Level Maths tutoring in Luton in 3 steps"
 steps_lead: "Profiles inside a day. Year 12 is the cheaper place to fix this, because the prediction gets written long before the exam."
 steps:
   - title: "Share your goals"
-    body: "Year group, college, exam board, and which strand is hurting. If there are courses or apprenticeship schemes in mind, say so, because a student aiming at the top of the band needs different work from one aiming to pass, and it changes who we suggest."
+    body: "Year group, college, exam board, and which strand is hurting. Mention any courses or schemes already in mind, because a student chasing the top of the band and a student aiming to pass need different hours, and it changes who we put forward."
   - title: "Meet your match"
-    body: "A shortlist of two or three arrives the following day, matched on the specification and on the strand that needs the hours. There's a free 15-minute video meeting with the tutor before anything is booked."
+    body: "Two or three names come back the following day, chosen on the board and on the strand that actually needs the work. A free 15-minute video call with the tutor comes before anything is booked."
   - title: "Start the lessons"
     body: "An hour a week on Lessonspace, our shared whiteboard, with your child working rather than watching. Questions arrive without their topic labels, so choosing the method becomes the thing being practised. From £37 an hour, paid one session at a time."
 
@@ -46,9 +46,9 @@ faqs:
   - q: "How long is each A-Level Maths session?"
     a: "Sixty minutes as standard, and plenty of Year 13 students move to ninety in the spring, because a full paper can't be attempted and reviewed inside an hour. Longer sessions suit content-heavy stretches, a whole Mechanics topic or a Statistics module that got taught quickly. Year 12 students usually stay at an hour a week across the year. Either way the slot stays in the same place in the week, because a moving appointment is the first one to get dropped. We agree it on the consultation call."
   - q: "Are your A-Level Maths tutors qualified teachers or university students?"
-    a: "Both, and we match on the problem rather than the credential. A student who needs a topic opened up from scratch often suits a qualified teacher who has taught it many times and knows where it tends to go wrong. A student whose difficulty is method choice often does better with a recent graduate who sat these papers a few years ago and still thinks the way the mark scheme does. Several tutors are qualified examiners. Around 3% of applicants come onto the platform, and the interview is what stops most of them."
+    a: "Both. The match is made on the problem rather than the label. Where a topic has to be built from nothing, a qualified teacher who has taught it fifty times and knows every place it goes wrong is usually the better bet. Where the difficulty is method choice, a recent graduate who sat these papers a few years ago and still thinks the way the mark scheme does often gets further. Several tutors are qualified examiners. Around 3% of applicants come onto the platform, and the interview is what stops most of them."
   - q: "How quickly can my child start A-Level Maths tutoring in Luton?"
-    a: "Usually inside a week. The free consultation with Harry or Joe normally happens within a day or two, and two or three tutor profiles follow within twenty four hours of that call. Then there's a free 15-minute video meeting with whichever tutor you like, and the first paid session tends to land the week after. Most Luton families are matched within a day of the consultation. Nothing is paid until your child has met the tutor and you both think they're the right one."
+    a: "Usually inside a week. The free consultation with Harry or Joe normally happens inside a day or two, and profiles follow the morning after it. Then there's a free 15-minute video meeting with whichever tutor you like, and the first paid session tends to land the week after. Most Luton families are matched within a day of the consultation. Nothing is paid until your child has met the tutor and you both think they're the right one."
 # FAQ picks: A09, A15, C10, E02, G04
 
 reviews:

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Southend-on-Sea When the Ideas Outrun the Writing"
-hero_lead: "Plenty of students can talk about a text far better than they can write about one. Our Southend-on-Sea GCSE English tutors close that distance, one marked and rewritten essay at a time."
+hero_lead: "Plenty of students can talk about a text far better than they can write about one. Our Southend-on-Sea GCSE English tutors close that distance in one-to-one online hours on Lessonspace, one marked and rewritten essay at a time."
 
 angle_eyebrow: "THE IDEA LANDS, THE ESSAY DOES NOT"
 angle_heading: "The Distance Between Having the Idea and Scoring It"

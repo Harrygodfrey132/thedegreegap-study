@@ -12,13 +12,13 @@ hero_lead: "Most students aren't weak at Science. They're weak at one of the thr
 
 angle_eyebrow: "TAUGHT SEPARATELY, GRADED TOGETHER"
 angle_heading: "Three Teachers, One Grade, and the Course It Has to Open"
-angle_body_1: "Science gets taught as three subjects by three teachers in three rooms and comes back as one number, which is why parents arrive certain their child is weak at Science. Usually they aren't. They're fine in Biology, a block behind in Physics and drifting in Chemistry, and the average buries all three facts at once. The culprits repeat as well: rearranging an equation in Physics, moles and concentration work in Chemistry, and the genetics questions where the working has to be set out the way the scheme wants it. Required practicals are the other one, examined months after the lesson everybody half remembers."
-angle_body_2: "So the first hour pulls the three apart using a real paper, working backwards from wrong answers rather than forwards through the specification. It settles the tier question too, where that is still open, because higher and foundation reward different preparation and entries get reviewed during Year 10. Locally it matters because Luton Sixth Form College publishes a higher bar for Maths and the Sciences than its general A-Level threshold, and the wording is not the same for a student who sat triple as for one who sat combined. Barnfield College publishes its own requirements too, with Science sitting inside several technical routes."
+angle_body_1: "Science gets taught as three subjects by three teachers in three rooms and comes back as one number, which is why parents arrive certain their child is weak at Science. Usually they aren't. They're fine in Biology, a block behind in Physics and drifting in Chemistry, and the average buries all three facts at once. The culprits repeat as well: an equation that has to be rearranged in Physics, the mole calculations in Chemistry, and Biology's long answers where marks sit in the explanation rather than the fact. Required practicals are the fourth, examined months after the lesson everybody half remembers."
+angle_body_2: "So the first hour pulls the three apart using a real paper, starting from what went wrong instead of from where the syllabus has got to. The tier gets settled in the same hour if it's still open, since the two papers ask for different preparation and entries are reviewed during Year 10. Locally it matters because Luton Sixth Form College publishes a higher bar for Maths and the Sciences than its general A-Level threshold, and the wording is not the same for a student who sat triple as for one who sat combined. Barnfield College publishes its own requirements too, with Science sitting inside several technical routes."
 angle_image: "/images/chemistry-lab-glassware.jpg"
-angle_image_alt: "A GCSE Science student working through a required practical question with an online tutor"
+angle_image_alt: "A Luton GCSE Science student working through a mole calculation with an online tutor"
 angle_stat_from: "4"
 angle_stat_to: "6"
-angle_stat_detail: "Where a term of weekly one-to-one GCSE Science sessions is typically aimed once the calculation work underneath has been rebuilt."
+angle_stat_detail: "Roughly where a term of weekly one-to-one GCSE Science hours gets pointed once the calculation work underneath has been rebuilt."
 
 schools:
   - "Cardinal Newman Catholic School"
@@ -29,14 +29,14 @@ schools:
   - "The Chalk Hills Academy"
 
 steps_heading: "Start online GCSE Science tutoring in Luton in 3 steps"
-steps_lead: "Profiles inside a day. Send a marked paper if you have one, because the combined grade on a report tells you almost nothing."
+steps_lead: "Two or three profiles inside a day. Dig out the last marked paper if you can: one combined grade on a report hides which of the three is the problem."
 steps:
   - title: "Share your goals"
-    body: "Year group, school, exam board, and whether it's triple or combined. Then the question that matters most: which of the three feels worst, and whether that started this year or back in Year 9."
+    body: "Year group, school, board, and triple or combined. Then the question that decides most of the plan: which of the three feels worst, and whether that has been true since Year 9 or only since September."
   - title: "Meet your match"
-    body: "Profiles the next day, chosen on the board and on whichever science is costing the marks rather than on Science in general. A free 15-minute video meeting with the tutor comes first, before anything is paid for."
+    body: "Profiles the next day, chosen on the board and on whichever of the three is costing the marks rather than on Science as a whole. Your child meets them on a free 15-minute video call before anything is paid for."
   - title: "Start the lessons"
-    body: "A weekly hour on Lessonspace, our shared whiteboard, working through real exam questions with the method written out on screen. Anything missing gets taught from the beginning rather than revised over. From £37 an hour, one session at a time."
+    body: "A weekly hour on Lessonspace, our shared whiteboard, spent on real exam questions with the method built on screen as it goes. Anything that was never properly learned gets taught rather than revised over. From £37 an hour, one session at a time."
 
 faqs:
   - q: "What grade do you need for A-Level Science at Luton sixth forms?"
@@ -44,11 +44,11 @@ faqs:
   - q: "Why is my child struggling with GCSE Science?"
     a: "Most often because something in Year 9 got learned by heart rather than understood, and Science punishes that later than other subjects do. Year 10 and 11 content assumes the method underneath is automatic, so a student who memorised their way through the early units meets calculation questions with nothing to fall back on. The other common cause is maths rather than science: a Physics answer needing a formula rearranged, or a Chemistry answer needing a ratio. That pattern comes up often enough across Luton that week one is spent working out which of the two it is."
   - q: "Should my child take foundation or higher tier GCSE Science?"
-    a: "Start from where your child sits now rather than where anyone hopes they'll finish. Higher tier reaches the top grades and gives away very little below its floor. Foundation stops earlier and makes the marks on the page far more reachable, which for some students is the difference between a grade and nothing at all. A student near the boundary in Year 10 is often right on higher, with focused work on the topics that decide it. A diagnostic turns that into a decision rather than a guess, and school belongs in the conversation."
+    a: "Start from where your child sits now rather than where anyone hopes they'll finish. Higher tier reaches the top grades and gives away very little below its floor. Foundation stops earlier and makes the marks on the page far more reachable, which for some students is the difference between a grade and nothing at all. A student sitting near the boundary in Year 10 is often better off on higher, provided the topics that decide it get the hours. A diagnostic turns that into a decision rather than a guess, and school belongs in the conversation."
   - q: "Can a Science tutor help a child with dyslexia, ADHD or processing differences?"
-    a: "Yes, and we ask about it when matching rather than waiting for it to come up. Plenty of tutors on the platform work with neurodivergent students regularly. In Science the help tends to be structural: a consistent layout for calculations so steps don't get lost, six-mark answers broken into named parts, diagrams built on screen instead of copied off a board. Every session is recorded, so anything explained too fast can be watched again. Tell us on the call what school already has in place, including exam access arrangements."
+    a: "Yes, and we ask about it when matching rather than waiting for it to come up. Plenty of tutors on the platform work with neurodivergent students regularly. In Science the help tends to be structural: a consistent layout for calculations so steps don't get lost, six-mark answers broken into named parts, diagrams built on screen instead of copied off a board. Every session is recorded, so anything explained too fast can be watched again. Say on the call what school has already put in place, access arrangements included."
   - q: "Can I sit in on the sessions?"
-    a: "Yes, and most tutors welcome it for the first one. After that most parents step back, because a fifteen-year-old admits confusion more freely without an audience, and that admission is where the hour earns its money. You won't lose sight of what's happening. Notes follow each session saying what was covered and what was set, and the recording is there if you want to see how something was explained. Most families dip back in once a term, which works better than watching every week."
+    a: "Yes. Most tutors like having a parent there for the first session. After that most families drift out of the room, because a fifteen-year-old owns up to being lost more easily without an audience, and that admission is where the hour earns its money. You won't lose sight of what's happening. Notes follow each session saying what was covered and what was set, and the recording is there if you want to see how something was explained. Most families dip back in once a term, which works better than watching every week."
 # FAQ picks: A07, A12, C06, E03, G01
 
 reviews:

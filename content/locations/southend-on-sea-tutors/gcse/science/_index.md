@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online Southend-on-Sea GCSE Science Tutors Who Take the Combined Grade Apart First"
-hero_lead: "Combined Science hands you one grade for three subjects taught by three teachers in three rooms. Our Southend-on-Sea GCSE Science tutors work out which of the three is doing the damage before any term gets committed."
+hero_lead: "Combined Science hands you one grade for three subjects taught by three teachers in three rooms. Our Southend-on-Sea GCSE Science tutors work out which of the three is doing the damage, one-to-one and online on Lessonspace, before any term gets committed."
 
 angle_eyebrow: "THREE SUBJECTS, ONE NUMBER ON THE REPORT"
 angle_heading: "Which of the Three Sciences Gets the Hours"

@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online GCSE Tutors for the Southend-on-Sea Year 11 Who Went Quiet After Mocks"
 hero_heading_line2: ""
-hero_lead: "The effort is going in and the grade has not moved since Year 10. Our Southend-on-Sea GCSE tutors read the marked paper first, then spend the term where the marks are actually leaking."
+hero_lead: "The effort is going in and the grade has not moved since Year 10. Our Southend-on-Sea GCSE tutors work one-to-one and online over Lessonspace, reading the marked paper first, then spending the term where the marks are actually leaking."
 
 grade_from: "E"
 grade_to: "B"
@@ -22,7 +22,7 @@ first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B at GCSE"
 
 tutor_strip_heading: "Southend-on-Sea GCSE tutors who ask for the mock before the timetable"
-tutor_strip_body: "Schools across the city sit different boards and enter students at different tiers, so we confirm both before anybody is proposed. Around 3% of applicants get through the founder-led interview, so the shortlist is short for a reason. Have a look at the profiles, or leave the matching to us."
+tutor_strip_body: "Schools across the city sit different boards and enter students at different tiers, so both get confirmed first. Around 3% of applicants get through the founder-led interview. Every hour runs one-to-one and online on Lessonspace, so browse the profiles or leave the matching to us."
 
 pathways_heading: "The September After Year 11 in Southend-on-Sea"
 pathways_lead: "Three routes, and most families in the city are weighing at least two of them by February."

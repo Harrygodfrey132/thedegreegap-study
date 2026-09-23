@@ -52,13 +52,13 @@ reviews:
   - "Theresa|Parent|Harry and Joe were extremely helpful with a wealth of knowledge and contacts that helped my son to follow the right path."
 
 faq_1_q: "Is Year 12 or Year 13 the better time to start A-Level tutoring?"
-faq_1_a: "Year 12, and the difference is bigger than families expect. Predicted grades grow out of Year 12 work and reach universities early in Year 13, so an hour a week that lands in the first year counts twice, once for the application and again for the exam. A Year 13 start still moves the final grade, and plenty of families do it. By then, though, the offers have usually been made against a number set the year before."
+faq_1_a: "Year 12, and the difference is bigger than families expect. Predicted grades grow out of Year 12 work and reach universities early in Year 13, so an hour a week that lands in the first year counts twice, once for the application and again for the exam. Families do still start in Year 13, and the final grade moves. By then, though, offers have been made against a number written the year before."
 faq_2_q: "My child got a strong GCSE grade and is now struggling. What changed?"
 faq_2_a: "The subject did. At GCSE a question tends to announce the method it wants, and a student who is good at spotting patterns can go a long way on that alone. A-Level questions stop announcing it, so the student has to choose, and that is a different skill nobody has taught them yet. It is not an effort problem and it is not a sign they picked the wrong subject. Tutors work on method choice first, using past paper questions with the topic label taken off."
 faq_3_q: "How does tutoring help with UCAS predicted grades?"
 faq_3_a: "It works on the evidence the prediction is based on: mock scripts, class assessments and the work a teacher has in front of them. Tutors mark those scripts the way an examiner would, find where the marks are going, then drill that until the next assessment shows something different. The timing matters more at A-Level than at GCSE. Work that lands before the Year 13 mock window feeds the prediction. Work that lands after it can only help the exam."
 faq_4_q: "What if the tutor isn't right for my child?"
-faq_4_a: "Tell us and we re-match, at no charge. There's a free 15-minute video meeting with the tutor before any paid session, which catches most mismatches before money is involved, and families do rule people out at that stage. At seventeen a student knows quickly whether somebody's explanations land, and their read on it is usually right. No contract and no minimum term, so nothing has to be unpicked."
+faq_4_a: "Tell us and we re-match, at no charge. Your child meets the tutor on a free 15-minute video call first, and most mismatches get spotted there, before anybody has paid for anything. At seventeen a student knows quickly whether somebody's explanations land, and their read on it is usually right. No contract and no minimum term, so nothing has to be unpicked."
 
 sitemap:
   priority: 0.7

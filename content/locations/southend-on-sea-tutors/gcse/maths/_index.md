@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors Helping Southend-on-Sea Families Read a Paper Instead of a Grade"
-hero_lead: "One number arrives, and a hundred decisions get made off it. Our Southend-on-Sea GCSE Maths tutors go through the marked paper question by question, because the pattern in the lost marks is what tells you what to do next."
+hero_lead: "One number arrives, and a hundred decisions get made off it. Our Southend-on-Sea GCSE Maths tutors go through the marked paper question by question, in a one-to-one online hour on Lessonspace, because the pattern in the lost marks is what tells you what to do next."
 
 angle_eyebrow: "ONE NUMBER, SEVERAL DIFFERENT PROBLEMS"
 angle_heading: "Two Very Different Maths Briefs in One City"

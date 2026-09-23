@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors Who Find Where Southend-on-Sea Answers Stop Earning Method Marks"
-hero_lead: "At A-Level the right answer is only part of the mark. Our Southend-on-Sea A-Level Maths tutors read the working line by line, because that is where the marks quietly go."
+hero_lead: "At A-Level the right answer is only part of the mark. Our Southend-on-Sea A-Level Maths tutors read the working line by line, in a one-to-one online hour on Lessonspace, because that is where the marks quietly go."
 
 angle_eyebrow: "THE ANSWER WAS RIGHT, THE MARKS WERE NOT"
 angle_heading: "Why the Working Matters More Than the Answer From Year 12 On"

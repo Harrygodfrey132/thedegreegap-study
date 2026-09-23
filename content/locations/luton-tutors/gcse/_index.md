@@ -22,7 +22,7 @@ first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "E to B at GCSE"
 
 tutor_strip_heading: "Luton GCSE tutors picked for the board and the tier"
-tutor_strip_body: "Denbigh, Challney, Icknield, Stopsley and Lealands don't all sit the same boards, so we confirm the specification before proposing anyone. Each tutor clears a founder-led interview that around 3% of applicants pass, and every lesson runs one-to-one on Lessonspace, our shared whiteboard. Browse the profiles, or let us match your child."
+tutor_strip_body: "Denbigh, Challney, Icknield, Stopsley and Lealands don't all sit the same boards, so the board gets confirmed before anybody is put forward. Roughly 3% of applicants clear the founder-led interview. Lessons run one-to-one on Lessonspace, our shared whiteboard. Browse the profiles, or let us match your child."
 
 pathways_heading: "What Sixteen Looks Like for a Luton Year 11"
 pathways_lead: "Post-16 here means an application rather than a walk upstairs, so it pays to know what each route asks for."
@@ -52,13 +52,13 @@ reviews:
   - "Etienne|Parent of GCSE Student|Great session on how to support our boy with his up & coming GCSE's exams. Very informative webinar with practical tips & techniques to use - by child & parent."
 
 faq_1_q: "Year 10 or Year 11, when does GCSE tutoring make the most difference?"
-faq_1_a: "Year 10, where you have the choice. The content steps up that year and any gap that opens is still small, so a weekly hour closes it before Year 11 piles more on top. Year 11 works too and plenty of families start there. The plan just leans towards past papers and exam technique rather than teaching a topic properly from the beginning. If your child is already in Year 11, the autumn is worth more than the spring, because the mocks come first."
+faq_1_a: "Year 10, where you have the choice. The content steps up that year and any gap that opens is still small, so a weekly hour closes it before Year 11 piles more on top. Year 11 works too and plenty of families start there. The plan just leans towards past papers and timing rather than rebuilding a topic from scratch. If your child is already in Year 11, the autumn is worth more than the spring, because the mocks come first."
 faq_2_q: "My child has fallen a long way behind. Is it too late?"
 faq_2_a: "No, and it is the call we take most often. The work is slower, that's all. The tutor starts with a marked paper, finds the earliest thing that doesn't hold up, then rebuilds from there rather than racing to catch the class. Most students carrying a gap that size are also carrying the belief they're simply bad at the subject, and that shifts first. We'll be honest on the consultation call about what a term can move and what it can't."
 faq_3_q: "Can a tutor help with the Year 11 mocks?"
-faq_3_a: "Yes, and mocks are why a lot of Luton families ring us. The winter set matters here because those grades feed the predictions that go on post-16 applications in the autumn and spring. Tutors work through past papers under time, mark them the way an examiner would, then spend the following weeks on whatever the paper showed. The hour usually splits in two: part on the weak topic, part on how the answer gets written. Timing on the long questions is often the quickest win."
+faq_3_a: "Yes, and mocks are why a lot of Luton families ring us. The winter set matters here because those grades feed the predictions that go on post-16 applications in the autumn and spring. A tutor will set a paper under proper conditions, mark it against the real scheme, then spend the following weeks on whatever that showed up. The hour usually splits in two: part on the weak topic, part on how the answer gets written. Timing on the long questions is often the quickest win."
 faq_4_q: "How much does GCSE tutoring cost in Luton?"
-faq_4_a: "From £37 an hour. The rate depends on the tutor's experience and it's agreed before anything is booked, so nothing lands later as a surprise. That hour covers the lesson itself, the prep behind it, any resources and the notes afterwards. No joining fee, no materials charge, no contract, and you pay one session at a time. If money is tight, one hour a week through Year 10 does more than two a week started in April."
+faq_4_a: "From £37 an hour. The rate depends on the tutor's experience and it's agreed before anything is booked, so nothing lands later as a surprise. That hour covers the lesson itself, the prep behind it, any resources and the notes afterwards. No joining fee, no materials charge, no contract, and you pay one session at a time. If money is tight, an hour a week from the start of Year 10 beats two a week booked in a panic in April."
 
 sitemap:
   priority: 0.7
