@@ -15,7 +15,7 @@ angle_heading: "Which of the Three Sciences Is Actually Costing the Grade"
 angle_body_1: "Ask most Year 11s which science is going wrong and you get a shrug, which is fair enough when the grade turns up as one number and the report turns up as one comment. Underneath it the problems are separate and they are narrow. Physics loses marks on rearranging and on unit work. Chemistry on moles and concentration. In Biology it is usually the six-mark answers, where the content is all there and the order it comes out in is not. Required practicals sit across all three and get revised as a memory of an afternoon rather than as the questions examiners write about them."
 angle_body_2: "So the first hour pulls the three apart with a real paper and works backwards from wrong answers instead of forwards through the specification. Where the tier is still open it settles that too, because higher and foundation reward genuinely different preparation and entries often get reviewed during Year 10. Science travels further here than in most cities. The engineering and digital routes at UTC Plymouth, the trade apprenticeships at Princess Yachts and the intake at Devonport all name a science or technology subject, and City College Plymouth asks for combined science on a good many of its Level 3 courses."
 angle_image: "/images/chemistry-lab-glassware.jpg"
-angle_image_alt: "A GCSE Science student working through a required practical question with an online tutor"
+angle_image_alt: "A Plymouth GCSE Science student taking apart a six-mark question with an online tutor"
 angle_stat_from: "3"
 angle_stat_to: "5"
 angle_stat_detail: "Where a term of weekly one-to-one GCSE Science hours is typically pointed once the diagnostic has sorted the three apart."
@@ -34,7 +34,7 @@ steps:
   - title: "Share your goals"
     body: "Year group, school, board, and whether your child is entered for triple or combined. Then the question that decides everything else: which of the three feels worst, and has that been true since Year 9 or only since the last mock?"
   - title: "Meet your match"
-    body: "Profiles the next day, picked on the board and on whichever science is losing the marks rather than on Science in general. A free 15-minute call with the tutor comes before anything is booked."
+    body: "Profiles the next day, picked on the board and on whichever science is losing the marks rather than on Science in general. A free 15-minute call with that tutor happens before anything is paid for."
   - title: "Start the lessons"
     body: "A standing weekly hour on Lessonspace, our own interactive whiteboard. Real exam questions with the method written out on screen, and anything missing taught from the start rather than revised over the top. From £37 an hour, paid one session at a time."
 
@@ -44,11 +44,11 @@ faqs:
   - q: "How do I know whether my child needs a Science tutor or just more revision?"
     a: "Look at a marked paper rather than at the grade. Clean working with the marks lost towards the back is exam technique, and a tutor shifts that fairly quickly. Blank space or crossed-out attempts on multi-step questions is a method gap, and that needs teaching rather than more revision. If recall is solid and the long answers are thin, that is structure, which is also teachable. A student already scoring well across mocks may need targeted practice and nothing more, and we will say so."
   - q: "Should my child take foundation or higher tier Science?"
-    a: "It depends where they are now rather than where anybody hopes they will be in June. Higher tier reaches the top grades and scores very little below its floor. Foundation caps lower and makes the marks on the paper far more reachable, which for a student sitting near the boundary can mean a better grade rather than a worse one. Entries are often reviewed during Year 10, so a diagnostic then turns the decision into evidence. School sees your child in the lab, so keep them in the conversation."
+    a: "It depends where they are now rather than where anybody hopes they will be in June. Higher tier reaches the top grades and gives very little back below its floor. Foundation caps lower and makes the marks on the paper far more reachable, which for a student sitting near the boundary can mean a better grade rather than a worse one. Entries are often reviewed during Year 10, so a diagnostic then turns the decision into evidence. School sees your child in the lab, so keep them in the conversation."
   - q: "Can a Science tutor help a child with dyslexia, ADHD or processing differences?"
     a: "Yes, and we ask about it when matching rather than waiting for you to raise it. A number of tutors work this way regularly. What helps in Science is practical: one consistent layout for calculations so multi-step working does not get lost, long questions broken into named stages, and a single method drilled until it is automatic rather than three shown once. The whiteboard helps, since everything stays on screen and every session is recorded. Tell us what school already has in place, including exam access arrangements."
   - q: "How much does GCSE Science tutoring cost in Plymouth, and what does it include?"
-    a: "From £37 an hour, with the rate depending on the tutor and agreed before anything is booked. It covers the live lesson, the preparation behind it, the practice questions and the feedback afterwards. No materials fee, no joining fee, no contract, and you pay one session at a time. Most Plymouth families start with one weekly hour in a single science rather than three, because an hour spread across Biology, Chemistry and Physics usually achieves less than fixing the one costing the grade."
+    a: "From £37 an hour, with the rate depending on the tutor and agreed before anything is booked. It covers the live lesson, the preparation behind it, the practice questions and the feedback afterwards. No materials fee, no joining fee and no contract, and each session is paid for on its own. Most Plymouth families start with one weekly hour in a single science rather than three, because an hour spread across Biology, Chemistry and Physics usually achieves less than fixing the one costing the grade."
 # FAQ picks: A10, A12, C02, E03, G05
 
 reviews:

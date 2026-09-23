@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors Helping Tonbridge Families Split One Grade Into Three Subjects"
-hero_lead: "Combined award reports three subjects as two grades, and triple reports them as three. Either way the number hides which one is doing the damage. Our Tonbridge GCSE Science tutors name it before a term gets spent."
+hero_lead: "Combined award reports three subjects as two grades, and triple reports them as three. Either way the number hides which one is doing the damage. Our Tonbridge GCSE Science tutors name it before a term gets spent, one-to-one online over Lessonspace."
 
 angle_eyebrow: "THREE ROOMS, THREE TEACHERS, ONE GRADE"
 angle_heading: "Which of the Three Sciences Is Actually Costing the Marks"
@@ -29,7 +29,7 @@ schools:
   - "Hillview School for Girls"
 
 steps_heading: "Start online GCSE Science tutoring in Tonbridge in 3 steps"
-steps_lead: "Profiles within a day. The most useful thing said on the first call is usually which of the three feels worst."
+steps_lead: "Tell us which of the three feels worst and most of the term is already scoped. Profiles follow the next day."
 steps:
   - title: "Share your goals"
     body: "Year group, school, exam board, and whether it is triple or combined. Then the question that decides the plan: which of the three feels worst, and has that been true since Year 9 or only since the last mock came back."

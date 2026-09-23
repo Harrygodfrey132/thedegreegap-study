@@ -34,7 +34,7 @@ steps:
   - title: "Share your goals"
     body: "Year group, sixth form and exam board, plus whatever courses or schemes are being considered. A student aiming at an engineering route needs different work from one aiming to keep the subject alive, and it changes who we suggest."
   - title: "Meet your match"
-    body: "A shortlist of two or three arrives the following day, matched on the specification and on the strand that needs the hours. There is a free 15-minute call with the tutor before anything is booked."
+    body: "Two or three names come back the following day, picked on the specification and on the strand that needs the hours. There is a free 15-minute video meeting before any money changes hands."
   - title: "Start the lessons"
     body: "One hour a week on Lessonspace, the shared whiteboard every session runs on, with your child working through questions rather than watching someone else do it. Sessions are recorded, so a method can be replayed later in the week. From £37 an hour, paid one at a time."
 
@@ -46,9 +46,9 @@ faqs:
   - q: "What happens in a typical A-Level Maths session?"
     a: "An hour in three parts. The first fifteen minutes go on last week's work, marked together, so the misconceptions surface rather than being corrected in silence. The middle half hour takes whichever topic is losing the most marks and works it properly, with your child writing on the whiteboard instead of watching. The last stretch is exam questions on that topic, with the mark scheme opened afterwards so it is clear where method marks were there to be had even when the answer went wrong."
   - q: "How do you vet your A-Level Maths tutors?"
-    a: "Around 3% of applicants come onto the platform. It runs in order: a written application, a check that the subject knowledge is genuinely there at A-Level depth rather than at GCSE depth, then a structured interview built around explaining something hard while under a bit of pressure. That last stage removes most people. References are taken afterwards, and Joe and Harry run the interviews themselves rather than handing them to anyone else."
+    a: "Around 3% of applicants come onto the platform. The order is a written application, then a subject check pitched at A-Level depth rather than GCSE depth, then a structured interview that asks somebody to explain something hard while slightly under pressure. That last stage removes most people. References are taken afterwards, and Joe and Harry run the interviews themselves rather than handing them to anyone else."
   - q: "Is A-Level Maths tutoring actually worth the money?"
-    a: "It depends on the gap, and we would rather say that than pretend otherwise. For a student sitting below the grade a course or a scheme asks for, a band usually opens something concrete, a university offer or an apprenticeship place, and the arithmetic on that is easy. For a student already at target the marginal gain is smaller, and a short block before mocks may be the better spend. The consultation call exists to give you that answer straight, including when the answer is not yet."
+    a: "That depends on the gap, and pretending otherwise would not help you. For a student sitting below the grade a course or a scheme asks for, a band usually opens something concrete, a university offer or an apprenticeship place, and the arithmetic on that is easy. For a student already at target the marginal gain is smaller, and a short block before mocks may be the better spend. The consultation call exists to give you that answer straight, including when the answer is not yet."
 # FAQ picks: A01, A08, C03, E01, G03
 
 reviews:

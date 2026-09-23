@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors Who Find Where Tonbridge Essays Stop Making an Argument"
-hero_lead: "Two English grades come out of one department, and they slip for different reasons. Our Tonbridge GCSE English tutors pull Language and Literature apart in week one, then go after the essay that retells instead of arguing."
+hero_lead: "Two English grades come out of one department, and they slip for different reasons. Our Tonbridge GCSE English tutors pull Language and Literature apart in week one, then go after the essay that retells instead of arguing, one-to-one online over Lessonspace."
 
 angle_eyebrow: "TWO SUBJECTS, ONE DEPARTMENT"
 angle_heading: "Why the English Grade Moves Last, and What a Tonbridge Tutor Does About It"
@@ -29,7 +29,7 @@ schools:
   - "Leigh Academy Tonbridge"
 
 steps_heading: "Start online GCSE English tutoring in Tonbridge in 3 steps"
-steps_lead: "Most families are matched inside a day. Bring a marked essay if you have one, because it says more than a report ever does."
+steps_lead: "Matched inside a day, usually. The thing worth digging out first is the set text list, because it varies school by school around here."
 steps:
   - title: "Share your goals"
     body: "Year group, school, exam board and the set texts, which vary between Tonbridge schools more than parents expect. Tell us whether the worry is Language, Literature or both, and what the sixth form your child is looking at asks for in English."

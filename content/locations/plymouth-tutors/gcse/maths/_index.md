@@ -15,7 +15,7 @@ angle_heading: "Where Plymouth Students Lose Maths Marks Before They Reach the C
 angle_body_1: "Maths at GCSE is two separate skills wearing one grade. There is the fluency Paper 1 wants, fractions, indices and algebra done by hand with nothing on the desk to check the arithmetic. Then there is the problem solving at the back of Papers 2 and 3, where a question describes a situation and never names the topic. Plymouth students turn up with either gap, sometimes both. The culprits are narrow and they repeat: rearranging a formula with the unknown in the wrong place, ratio inside a wordy problem, percentage change run backwards, and multi-mark questions where partial working was worth marks nobody claimed."
 angle_body_2: "So the first hour is a recent paper marked question by question, with the lost marks sorted into fluency, method and reading. After that the working gets written out on screen rather than talked through, because a student who watches a method does not own it. And this reaches past the Maths grade. Sixth forms at Devonport High School for Boys and Plymouth High School for Girls publish their own requirements, usually an average across the best GCSEs plus a grade in the subject itself, while the engineering intakes at Devonport and Princess Yachts name Maths on the application form. One grade, two doors."
 angle_image: "/images/maths-equations-close-up.jpg"
-angle_image_alt: "A GCSE Maths student working through a non-calculator question with an online tutor"
+angle_image_alt: "A Plymouth GCSE Maths student working through a non-calculator question on a shared whiteboard"
 angle_stat_from: "4"
 angle_stat_to: "6"
 angle_stat_detail: "Where a term of weekly one-to-one GCSE Maths hours is typically pointed once Paper 1 stops leaking marks."
@@ -34,7 +34,7 @@ steps:
   - title: "Share your goals"
     body: "Year group, school, exam board and tier, plus the grade now and the grade the next step asks for. Tell us whether the damage is on the non-calculator paper or on the wordy problems at the back, if you know. If you do not, a marked mock will tell us."
   - title: "Meet your match"
-    body: "Two or three profiles arrive the next day, matched on the specification, the tier and the kind of gap the paper points at. There is a free 15-minute video meeting with the tutor before anything is paid for."
+    body: "Two or three profiles land the next day, chosen on the specification, the tier and the kind of gap the marked paper points at. There is a free 15-minute video meeting with the tutor before anything is paid for."
   - title: "Start the lessons"
     body: "A weekly hour on Lessonspace, our shared whiteboard, with every step of the working written out on screen instead of done in somebody's head. Sessions can go to twice a week in the run-up to mocks. From £37 an hour, paid one session at a time."
 

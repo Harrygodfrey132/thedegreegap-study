@@ -22,7 +22,7 @@ first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B at GCSE"
 
 tutor_strip_heading: "Plymouth GCSE tutors matched to the paper your child sits"
-tutor_strip_body: "Students at Plymstock, Hele's, Notre Dame and the three grammar schools are not all entered for the same board, so the specification gets confirmed first. Each tutor clears a founder-led interview that around 3% of applicants pass. Have a look at the profiles, or let us pick the match."
+tutor_strip_body: "Students at Plymstock, Hele's, Notre Dame and the three grammar schools are not all entered for the same board, so the specification gets confirmed first. Every tutor has been through an interview with Joe or Harry that around 3% of applicants come through. Have a look at the profiles, or let us pick the match."
 
 pathways_heading: "Where Plymouth Year 11s Go After Results Day"
 pathways_lead: "Three routes, and in this city all three of them are busy."
@@ -62,7 +62,7 @@ reviews:
 faq_1_q: "Year 10 or Year 11, when does GCSE tutoring actually make a difference?"
 faq_1_a: "Both work, for different reasons. In Year 10 there is room to go back and teach something properly, so a gap closes before Year 11 stacks new content on top of it. From September of Year 11 the plan narrows towards past papers and technique, because the calendar decides it. Applications go in during the autumn and the mocks follow in the winter. Start after February and you are mostly buying exam technique, which still moves marks, just not as many."
 faq_2_q: "Do your tutors cover the exam boards Plymouth schools use?"
-faq_2_a: "Yes, and it gets confirmed before any tutor is suggested rather than assumed later. Schools across the city do not all sit the same board, and the boards differ in how questions are worded, how practicals are examined and which formulae are printed rather than learned. A tutor who already knows your child's specification is working properly ten minutes into the first online session. One who does not spends the first few sessions catching up, at your expense."
+faq_2_a: "Yes, and it gets confirmed before any tutor is suggested rather than assumed later. Schools across the city do not all sit the same board, and the boards differ in how questions are worded, how practicals are examined and which formulae are printed rather than learned. A tutor who already knows your child's specification is working properly ten minutes into the first online session. One who does not spends a fortnight learning the paper on your money."
 faq_3_q: "My child is fine in class and falls apart in the mock. What can a tutor do about that?"
 faq_3_a: "That is one of the clearest cases for one-to-one work, because the content is mostly there and the performance is not. Sessions get built around real questions, timed, marked against the scheme, with your child writing instead of watching. The pattern usually turns out to be narrow: one question type, one topic block, one habit of not showing the working. Once it has a name it can be drilled, and a spring mock tends to read differently from a winter one."
 faq_4_q: "How much does GCSE tutoring cost in Plymouth?"

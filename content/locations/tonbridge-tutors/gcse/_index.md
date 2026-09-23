@@ -60,7 +60,7 @@ reviews:
   - "Annette|Parent|This company helped us find Jon Brettell for Geography and my son has excelled so much in just a few months. Jon has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself – a difficult task.  He also manages neurodiversity effectively."
 
 faq_1_q: "How does a GCSE tutor work alongside what school is already doing?"
-faq_1_a: "It starts with a marked paper, not the next chapter. The tutor reads where the marks are going, then builds the plan from that. Most of the hour then runs just ahead of class, so a new topic lands twice rather than once. Homework gets set, but it is short and it is exam questions. When a school test is close, the plan bends around it for a week or two."
+faq_1_a: "It starts with a marked paper, not the next chapter. The tutor reads where the marks are going, then builds the plan from that. Most of the hour then runs just ahead of class, so a new topic lands twice rather than once. Homework gets set, but it is short and it is exam questions. When a school test is close, the plan bends around it for a week or two. The hour itself runs one-to-one online, over Lessonspace."
 faq_2_q: "Can a tutor get my daughter ready for the mocks the sixth form will read?"
 faq_2_a: "Yes, and it is one of the most common reasons families here get in touch. The work splits in two. Past papers against the clock, marked the way an examiner marks them, so the timing stops being a shock on the day. Then the topics where marks keep leaking, drilled until they hold. Schools set mocks at different points in Year 11, so tell us the date and we build backwards from it."
 faq_3_q: "Can we get separate Biology, Chemistry and Physics tutors, or is it one Science tutor?"

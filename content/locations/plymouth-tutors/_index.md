@@ -3,10 +3,10 @@ title: "Plymouth Tutors | GCSE & A-Level | The Degree Gap"
 description: "Online one-to-one Plymouth tutoring for GCSE and A-Level, matched on the exam specification rather than the drive. Sessions from £37 an hour."
 layout: "single"
 location: "Plymouth"
-banner_heading: "Online GCSE and A-Level tutors for Plymouth, chosen on the specification not the drive"
+banner_heading: "Online GCSE and A-Level tutors for Plymouth, chosen on the specification, not the drive"
 banner_description: "Every session runs online and one-to-one over Lessonspace, so a Plymouth family gets the tutor who knows their child's paper rather than the one who lives nearest."
 content_angle: "selective entry and the engineering route at sixteen"
-intro_1: "By the time a Plymouth parent gets in touch, the same decision has usually been going round the kitchen for weeks. A Year 10 report that says working hard. A mock that came back under the report. And a city where what happens next forks more sharply than in most places: Devonport High School for Boys, Devonport High School for Girls and Plymouth High School for Girls all select at eleven through the city's own 11 plus, the comprehensives take everybody else, and at sixteen the choice runs between a school sixth form, City College Plymouth and an apprenticeship intake at Devonport that runs into the hundreds. Results across the city spent years below the national picture and have been closing on it."
+intro_1: "By the time a Plymouth parent gets in touch, the same decision has usually been going round the kitchen for weeks. A Year 10 report that says working hard. A mock that came back under the report. And a city where what happens next forks more sharply than in most places: Devonport High School for Boys, Devonport High School for Girls and Plymouth High School for Girls all select at eleven through the city's own 11 plus, the comprehensives take everybody else, and at sixteen the choice runs between a school sixth form, City College Plymouth and an apprenticeship intake at Devonport that runs into the hundreds. Results across the city sat below the national picture for a long time and have been closing on it."
 intro_2: "So one set of Year 11 grades is doing two jobs at once, and nobody at home can tell which job is at risk. That is where we start. Every family speaks with Harry or Joe before any tutor is suggested, and the first session is a diagnostic rather than a lesson: a recent paper, marked the way an examiner marks it, working backwards through the wrong answers until the understanding runs out. We match families with tutors on our platform who know the specification your child is entered for. Sessions are online, one-to-one, on Lessonspace. The plan comes out of what that paper showed, not out of the next chapter in the book."
 about_heading: "GCSE and A-Level Tutors Covering Plymouth"
 about_image: "/images/students-in-classroom-taking-notes.jpg"
@@ -25,7 +25,7 @@ gcse_subjects: [
   "GCSE Physics Tuition|Equation work and the multi-step questions where a sound method still loses marks on units.|/book-a-call/",
   "GCSE Maths Tuition|The grade sixth forms and apprenticeship intakes both read, rebuilt from wherever the method actually stops.|/book-a-call/",
   "GCSE Geography Tuition|Case-study recall and the longer answers, drilled against the mark scheme rather than the textbook.|/book-a-call/",
-  "GCSE Chemistry Tuition|Moles, equations and rates, with every calculation step written out on screen instead of talked through.|/book-a-call/",
+  "GCSE Chemistry Tuition|Moles and concentration, equations and rates, taught with the arithmetic shown rather than assumed.|/book-a-call/",
   "GCSE Computer Science Tuition|Algorithms, trace tables and the programming project, taught from whatever your child can already do.|/book-a-call/",
   "GCSE Biology Tuition|Required practicals and the six-mark answers, handled as exam questions rather than as lesson notes.|/book-a-call/",
   "GCSE French Tuition|Speaking and writing built up in small pieces, at whatever level your child is starting from.|/book-a-call/",
