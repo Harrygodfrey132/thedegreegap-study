@@ -619,6 +619,7 @@
       <div class="gs-hero__formwrap" id="register">
         {{ partial "webinar-form.html" (dict
           "askTutoring" $askTutoring
+          "tutoringLabel" .Params.tutoring_label
           "askRegistrant" .Params.ask_registrant_type
           "submitLabel" $submitLabel
           "phoneLabel" $phoneLabel
@@ -689,6 +690,7 @@
       <p class="gs-register__lead">{{ $registerLead }}</p>
       {{ partial "webinar-form.html" (dict
         "askTutoring" $askTutoring
+        "tutoringLabel" .Params.tutoring_label
         "askRegistrant" .Params.ask_registrant_type
         "submitLabel" $submitLabel
         "phoneLabel" $phoneLabel
