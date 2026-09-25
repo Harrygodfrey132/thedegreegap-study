@@ -51,3 +51,36 @@ This is the difference between "passable" and "the user loves it." Default to th
 5. **At least one short, slightly rough sentence per page.** Fragment, dropped subject, "and" or "but" at the start. Reads human; uniform prose reads AI.
 
 Apply this everywhere, not just to dedicated "warmth" sections. The voice has to be consistent across banner, intro, FAQ, and tutor-strip body, or the warm bits stand out as the only good bits.
+
+## Parent-chat voice (the house standard from September 2026)
+
+Agreed by Harry and Joe after reviewing the GCSE Maths page (`content/subjects/gcse-maths-tutor/_index.md`). That page is the reference example: when in doubt, read it and match it. This applies to every location page going forward, and to any page a parent lands on.
+
+**The test:** would Joe say this, word for word, on the phone to a worried parent? Parents love a chat and switch off at a sales pitch. If a line sounds like a brochure, a consultant or a salesperson, rewrite it the way you'd say it out loud.
+
+### How it sounds
+
+1. **Talk to the parent, not about them.** "If your child is working hard and the Maths grade still isn't moving, you're not alone" beats "Students often underperform relative to effort."
+2. **Everyday words over trade words.** "Talk to a member of the team to start the matching process", not "Talk to a Maths matching specialist". "Have a quick chat with us", not "Book a consultation session". If a parent would have to guess what a word means, swap it.
+3. **Explain anything a parent won't recognise.** Never "Online over Lessonspace". Say "Online using the platform Lessonspace, plus replay available".
+4. **Say what happens next, plainly and in order.** A quick chat, 2 or 3 tutor profiles within 24 hours, a free video meeting with the tutor, then weekly lessons. Parents relax when they can see the steps.
+5. **Reassure with facts, not adjectives.** "No contract, and you can stop whenever you like" and "Lessons from £37, no contract" do more than "flexible" or "affordable". Never "only pay if you continue", which reads as if the £37 buys the next lesson.
+6. **Ask FAQs the way a parent would ask them.** "How much does it cost?", "My child doesn't really want a tutor. Is that normal?", "What if we don't click with the tutor?". Not "What is the pricing structure?". Answer in the first sentence, then keep it short and kind.
+7. **Normalise the worry.** "Very normal, and it's probably the thing parents mention most." "It happens, and we'd much rather sort it than…" Naming that other families feel the same is more reassuring than any promise.
+8. **Contractions and short sentences.** "You'll", "we'd", "it's", "doesn't". Mix a few very short lines in. Read it aloud: if you'd run out of breath, split it.
+9. **Friendly calls to action.** "Talk it through with us", "Speak to one of us about your child", "Book your free GCSE Maths consultation". No urgency tricks, no countdowns, no "Don't miss out".
+
+### Before and after (from the GCSE Maths page)
+
+| Before (sounds like a sales call) | After (sounds like a parent chat) |
+|---|---|
+| Talk to a Maths matching specialist this week | Talk to a member of the team to start the matching process |
+| Online over Lessonspace | Online using the platform Lessonspace, plus replay available |
+| First lesson from £37, only pay if you continue | Lessons from £37, no contract |
+| Share your goals | Have a quick chat with us |
+| What if the tutor isn't the right fit? | What if we don't click with the tutor? |
+| Is online tutoring as good as in person for Maths? | Does online tutoring actually work for Maths? |
+
+### What stays the same
+
+Everything above in this file, `vocabulary.md` and `beliefs.md` still applies: no em dashes, no banned words, no grade promises, agency wording ("tutors on our platform"), online only, British English. The parent-chat voice is how those rules should sound, not a replacement for them. Promise only what we actually do: our promise is a response with 2 or 3 tutor profiles within 24 hours of the call, not voice notes.
