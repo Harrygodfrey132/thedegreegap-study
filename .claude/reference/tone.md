@@ -61,9 +61,9 @@ Agreed by Harry and Joe after reviewing the GCSE Maths page (`content/subjects/g
 ### How it sounds
 
 1. **Talk to the parent, not about them.** "If your child is working hard and the Maths grade still isn't moving, you're not alone" beats "Students often underperform relative to effort."
-2. **Everyday words over trade words.** "Talk to a member of the team to start the matching process", not "Talk to a Maths matching specialist". "Have a quick chat with us", not "Book a consultation session". If a parent would have to guess what a word means, swap it.
+2. **Everyday words over trade words.** "Talk to a member of the team to start the matching process", not "Talk to a Maths matching specialist". "A free consultation call where we get to know you and your child", not "Book a consultation session". If a parent would have to guess what a word means, swap it.
 3. **Explain anything a parent won't recognise.** Never "Online over Lessonspace". Say "Online using the platform Lessonspace, plus replay available".
-4. **Say what happens next, plainly and in order.** A quick chat, 2 or 3 tutor profiles within 24 hours, a free video meeting with the tutor, then weekly lessons. Parents relax when they can see the steps.
+4. **Say what happens next, plainly and in order.** A free consultation call (usually around 30 minutes, where we get to know you and your child so we can personalise the matching), 2 or 3 tutor profiles within 24 hours of that call, a free video meeting with the tutor, then weekly lessons. Parents relax when they can see the steps. Never call it a "15-minute call".
 5. **Reassure with facts, not adjectives.** "No contract, and you can stop whenever you like" and "Lessons from £37, no contract" do more than "flexible" or "affordable". Never "only pay if you continue", which reads as if the £37 buys the next lesson.
 6. **Ask FAQs the way a parent would ask them.** "How much does it cost?", "My child doesn't really want a tutor. Is that normal?", "What if we don't click with the tutor?". Not "What is the pricing structure?". Answer in the first sentence, then keep it short and kind.
 7. **Normalise the worry.** "Very normal, and it's probably the thing parents mention most." "It happens, and we'd much rather sort it than…" Naming that other families feel the same is more reassuring than any promise.
@@ -77,10 +77,10 @@ Agreed by Harry and Joe after reviewing the GCSE Maths page (`content/subjects/g
 | Talk to a Maths matching specialist this week | Talk to a member of the team to start the matching process |
 | Online over Lessonspace | Online using the platform Lessonspace, plus replay available |
 | First lesson from £37, only pay if you continue | Lessons from £37, no contract |
-| Share your goals | Have a quick chat with us |
+| Share your goals | A free consultation call (usually around 30 minutes, to get to know you and your child) |
 | What if the tutor isn't the right fit? | What if we don't click with the tutor? |
 | Is online tutoring as good as in person for Maths? | Does online tutoring actually work for Maths? |
 
 ### What stays the same
 
-Everything above in this file, `vocabulary.md` and `beliefs.md` still applies: no em dashes, no banned words, no grade promises, agency wording ("tutors on our platform"), online only, British English. The parent-chat voice is how those rules should sound, not a replacement for them. Promise only what we actually do: our promise is a response with 2 or 3 tutor profiles within 24 hours of the call, not voice notes.
+Everything above in this file, `vocabulary.md` and `beliefs.md` still applies: no em dashes, no banned words, no grade promises, agency wording ("tutors on our platform"), online only, British English. The parent-chat voice is how those rules should sound, not a replacement for them. Promise only what we actually do: a free consultation call of around 30 minutes, then 2 or 3 tutor profiles within 24 hours of that call. Not voice notes, and never a "15-minute call".

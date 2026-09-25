@@ -19,13 +19,13 @@ subject_short: "Maths"
 # ───────────── HERO ─────────────
 hero_eyebrow: "GCSE MATHS TUTORING · ONLINE, ACROSS THE UK"
 hero_h1: "Online GCSE Maths Tutors, Matched to Your Child"
-hero_lead: "If your child is working hard and the Maths grade still isn't moving, you're not alone, and it can be turned around. Have a quick chat with our team, and within 24 hours you'll get profiles of two or three tutors we think would suit your child. Pick the one that feels right, and lessons start from there."
+hero_lead: "If your child is working hard and the Maths grade still isn't moving, you're not alone, and it can be turned around. Book a free consultation call with our team so we can get to know your child, and within 24 hours of it you'll get profiles of two or three tutors we think would suit your child. Pick the one that feels right, and lessons start from there."
 meta_2: "Online using the platform Lessonspace, plus replay available"
 meta_3: "GCSE Tutoring Specialists of the Year 2025 & 2026"
 
 card_heading: "Talk to a member of the team to start the matching process"
 card_points:
-  - "A free 15-minute call, no obligation"
+  - "A free consultation call, usually around 30 minutes"
   - "2 or 3 tutor profiles within 24 hours of the call"
   - "Lessons from £37, no contract"
 
@@ -51,8 +51,8 @@ review_names:
 steps_heading: "Start GCSE Maths tutoring in 3 steps"
 steps_lead: "Most families have their first lesson booked within a week. And you don't pay anything until your child has found a tutor they like."
 steps:
-  - title: "Have a quick chat with us"
-    body: "A relaxed 15-minute call with a member of the team. Tell us what's going on with Maths, the exam board if you know it, and what you've tried so far. No pressure and no sales pitch."
+  - title: "A free consultation call"
+    body: "A relaxed chat with a member of the team, usually around 30 minutes. It's how we get to know you and your child: what's going on with Maths, the exam board if you know it, what you've tried so far and how your child likes to learn. That's what lets us personalise everything from there. No pressure and no sales pitch."
   - title: "Meet 2 or 3 tutors"
     body: "Within 24 hours of the call you'll get profiles of two or three tutors we've picked for your child, so you can see who they are before choosing. Your child can then meet your favourite on a free video call."
   - title: "Start weekly lessons"
@@ -60,7 +60,7 @@ steps:
 
 # ───────────── CLOSING CTA ─────────────
 final_heading: "Book your free<br>GCSE Maths consultation"
-final_body: "A friendly 15-minute chat about your child's Maths: where they're stuck, what they're aiming for and what they're like as a learner. Within 24 hours you'll have profiles of two or three tutors to choose from."
+final_body: "A friendly consultation call, usually around 30 minutes, so we can get to know your child: where they're stuck with Maths, what they're aiming for and what they're like as a learner. Within 24 hours you'll have profiles of two or three tutors to choose from."
 final_assurance: "Free call · Lessons from £37 · No contract"
 
 faq_items:
