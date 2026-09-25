@@ -17,8 +17,7 @@ subject: "Maths"
 
 hero_eyebrow: "GCSE TUTORING · ALL OF THE UK"
 hero_h1: "Online GCSE Maths Tutors, Matched on Exam Board"
-card_heading: "Book a free call"
-hero_lead: "One-to-one online tutors who find the gap behind a slipping grade and rebuild it before the mocks. From £37 an hour."
+hero_lead: "By Year 11, a slipping GCSE Maths grade usually traces back to a Year 8 or 9 topic nobody re-explained. Our GCSE Maths tutors find that root gap in the first session and rebuild it, before the mock that fixes the predicted grade a sixth form will see."
 
 # ───────────── THE MAP SECTION ─────────────
 map_tag: "Covering all of the UK"
