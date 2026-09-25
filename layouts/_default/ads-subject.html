@@ -82,17 +82,20 @@
      stretched every card in the carousel to the longest one. */}}
 <style>
   .ads-page .loc-eyebrow, .ads-page .lvls-about__eyebrow { font-size:0.72rem; font-weight:800; letter-spacing:0.12em; color:var(--burgundy); }
-  .ads-page .lvls-review-card__quote { display:-webkit-box; -webkit-line-clamp:9; -webkit-box-orient:vertical; overflow:hidden; }
+  .ads-page .lvls-review-card__quote { display:-webkit-box; -webkit-line-clamp:6; -webkit-box-orient:vertical; overflow:hidden; }
   .ads-reviews-more { text-align:center; margin-top:28px; }
-  .ads-page .lvls-hero__card-points { margin-bottom:20px; gap:8px; }
-  .ads-page .lvls-hero__card-title { margin-bottom:16px; }
-  .ads-hero-form { gap:0.75rem; }
+  .ads-page .lvls-hero { padding:64px 0 72px; }
+  .ads-page .lvls-hero__lead { margin-bottom:22px; }
+  .ads-card { padding:30px 30px 24px; }
+  .ads-card .lvls-hero__card-title { margin-bottom:18px; }
+  .ads-hero-form { gap:0.7rem; }
+  .ads-hero-form .lvls-hero__card-cta { border:0; cursor:pointer; margin-top:6px; }
+  .ads-card__note { text-align:center; font-size:0.85rem; color:var(--text-muted); margin:12px 0 0; }
   #book { scroll-margin-top:110px; }
-  .ads-hero-form .lvls-hero__card-cta { border:0; cursor:pointer; margin-top:4px; }
-  @media (max-width: 420px) { .ads-hero-form .book-call__row { grid-template-columns:1fr; } }
-  @media (max-width: 720px) { .ads-page .lvls-hero { padding:32px 0 40px; } .ads-page .lvls-hero__meta { display:none; } .ads-page .lvls-hero__lead { margin-bottom:0; } }
-  .ads-lesson .lvls-angle__image img { width:100%; height:520px; object-fit:cover; border-radius:14px; box-shadow:var(--shadow); display:block; }
-  @media (max-width: 980px) { .ads-lesson .lvls-angle__image img { height:300px; } }
+  /* On a phone the WhatsApp speech bubble opens on top of the form fields.
+     The green button itself stays. */
+  @media (max-width: 720px) { body:has(.ads-page) .wa-nudge { display:none !important; } }
+  @media (max-width: 720px) { .ads-page .lvls-hero { padding:28px 0 36px; } .ads-card { padding:24px 20px 20px; } }
 </style>
 
 <!-- =============================================
@@ -106,30 +109,22 @@
         <p class="loc-eyebrow">{{ $heroEyebrow }}</p>
         <h1 class="lvls-hero__title">{{ $heroH1 }}</h1>
         <p class="lvls-hero__lead">{{ $heroLead }}</p>
-        <div class="lvls-hero__meta">
-          <span><strong>From £37/hr</strong></span>
-          <span class="lvls-hero__meta-dot" aria-hidden="true">·</span>
-          <span>Online over Lessonspace</span>
-          <span class="lvls-hero__meta-dot" aria-hidden="true">·</span>
-          <span>Tutoring Specialists of the Year 2025 &amp; 2026</span>
-        </div>
+        <button type="button" data-reviews-open class="lvls-gpill ads-hero-rating" aria-label="Read our {{ $count }} Google reviews" aria-controls="bc-reviews-drawer" aria-expanded="false">
+          <span class="lvls-gpill__g" aria-hidden="true"><svg viewBox="0 0 24 24" width="18" height="18"><path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/><path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84A11 11 0 0 0 12 23z"/><path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18A11 11 0 0 0 1 12c0 1.77.42 3.45 1.18 4.93l2.85-2.22.81-.62z"/><path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/></svg></span>
+          <strong>5.0</strong>
+          <span class="lvls-gpill__stars" aria-hidden="true">★★★★★</span>
+          <span class="lvls-gpill__count">{{ $count }} Google reviews</span>
+        </button>
       </div>
 
-      <aside class="lvls-hero__card" id="book" aria-label="Book a free {{ $level }} {{ $subject }} consultation">
+      <aside class="lvls-hero__card ads-card" id="book" aria-label="Book a free {{ $level }} {{ $subject }} consultation">
         <p class="lvls-hero__card-eyebrow">{{ $cardEyebrow }}</p>
         <h2 class="lvls-hero__card-title">{{ $cardHeading }}</h2>
-        <ul class="lvls-hero__card-points">
-          {{ range $cardPoints }}
-          <li>
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>
-            <span>{{ . }}</span>
-          </li>
-          {{ end }}
-        </ul>
-        {{/* The booking form itself, in the card, so a parent from an ad can
-             book without a second page. Same fields, field names and redirect
-             as /book-a-call/, so the lead reaches Zoho in the usual shape and
-             the thank-you page counts it as a conversion. */}}
+        {{/* The booking form itself, so a parent from an ad can book without a
+             second page. Same field names and redirect as /book-a-call/, so
+             the lead reaches Zoho in the usual shape and the thank-you page
+             counts it as a conversion. Kept to two fields on purpose: the
+             year group and exam board come up on the call anyway. */}}
         <form action="{{ site.Params.formspreeEndpoint }}" method="POST" novalidate class="book-call__form ads-hero-form">
           <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
           <div aria-hidden="true" style="position:absolute;left:-9999px;top:-9999px;width:0;height:0;overflow:hidden;opacity:0">
@@ -143,42 +138,17 @@
           <input type="hidden" name="subject" value="{{ $level }} {{ $subject }}">
           <input type="hidden" name="message" value="{{ $level }} {{ $subject }}">
           {{ partial "attribution-fields.html" . }}
-          <div class="book-call__row">
-            <div class="book-call__field">
-              <label for="ads-name">Your name</label>
-              <input id="ads-name" name="name" type="text" required autocomplete="name" placeholder="e.g. Emma Clarke">
-            </div>
-            <div class="book-call__field">
-              <label for="ads-phone">Mobile number</label>
-              <input id="ads-phone" name="phone" type="tel" required autocomplete="tel" inputmode="tel" placeholder="07XXX XXX XXX">
-            </div>
+          <div class="book-call__field">
+            <label for="ads-name">Your name</label>
+            <input id="ads-name" name="name" type="text" required autocomplete="name" placeholder="e.g. Emma Clarke">
           </div>
           <div class="book-call__field">
-            <label for="ads-year">Your child's year group</label>
-            <select id="ads-year" name="year_group" required>
-              <option value="">Please select</option>
-              <option value="Year 9">Year 9</option>
-              <option value="Year 10">Year 10</option>
-              <option value="Year 11 (GCSE)">Year 11</option>
-              <option value="Resitting GCSE Maths">Resitting GCSE Maths</option>
-              <option value="Other">Another year</option>
-            </select>
+            <label for="ads-phone">Mobile number</label>
+            <input id="ads-phone" name="phone" type="tel" required autocomplete="tel" inputmode="tel" placeholder="07XXX XXX XXX">
           </div>
           <button type="submit" class="btn btn-primary lvls-hero__card-cta">{{ $cardCta }}</button>
         </form>
-        <p class="lvls-hero__card-fallback">or call <a href="tel:+447859965776" data-track="click_to_call" data-track-place="hero_card">07859&nbsp;965776</a></p>
-        <button type="button" data-reviews-open class="lvls-hero__card-trust" aria-label="Read our {{ $count }} Google reviews" aria-controls="bc-reviews-drawer" aria-expanded="false">
-          <span class="lvls-hero__card-trust-g" aria-hidden="true">
-            <svg viewBox="0 0 24 24" width="16" height="16" xmlns="http://www.w3.org/2000/svg">
-              <path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/>
-              <path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84A11 11 0 0 0 12 23z"/>
-              <path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18A11 11 0 0 0 1 12c0 1.77.42 3.45 1.18 4.93l2.85-2.22.81-.62z"/>
-              <path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/>
-            </svg>
-          </span>
-          <span class="lvls-hero__card-stars" aria-label="5 stars">★★★★★</span>
-          <span><strong>5.0</strong> from {{ $count }} Google reviews</span>
-        </button>
+        <p class="ads-card__note">{{ $p.card_note | default "Free 15-minute call. No obligation." }}</p>
       </aside>
     </div>
   </div>
