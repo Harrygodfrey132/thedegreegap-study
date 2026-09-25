@@ -19,19 +19,6 @@ hero_eyebrow: "GCSE TUTORING · ALL OF THE UK"
 hero_h1: "Online GCSE Maths Tutors, Matched on Exam Board"
 hero_lead: "By Year 11, a slipping GCSE Maths grade usually traces back to a Year 8 or 9 topic nobody re-explained. Our GCSE Maths tutors find that root gap in the first session and rebuild it, before the mock that fixes the predicted grade a sixth form will see."
 
-# ───────────── SOUND FAMILIAR (after Who we are) ─────────────
-signs_heading: "The four things parents usually tell us on the first call"
-signs_intro: "If one of these sounds like your house, you're in the right place. None of them is about ability, and all of them are fixable."
-signs:
-  - title: "The mock came back lower than the effort deserved"
-    body: "Usually one or two topics from Year 8 or 9 never quite set, and they cost marks right through the paper. The first session finds them, so the revision finally goes somewhere."
-  - title: "They follow it in class, then freeze on the paper"
-    body: "That's exam technique, not understanding. The tutor works through the question styles under timed conditions until they stop feeling like a surprise."
-  - title: "They've decided they're just not a maths person"
-    body: "Confidence comes back once the gap underneath is filled. Most parents hear the change in how their child talks about Maths before they see it in a mark."
-  - title: "Sixth form wants a 6 or 7, and they're sitting on a 5"
-    body: "The top grades are decided by the multi-step questions at the back of the Higher paper. Tutors know those question types and how examiners award them."
-
 # ───────────── THE MAP SECTION ─────────────
 map_tag: "Covering all of the UK"
 angle_eyebrow: "WE COVER ALL OF THE UK"
@@ -59,22 +46,13 @@ steps:
 lesson:
   eyebrow: "INSIDE A LESSON"
   heading: "What an hour of GCSE Maths tutoring actually looks like"
-  intro: "Every lesson is one-to-one and live, on a shared online whiteboard. Your child and the tutor write on the same page, so the tutor sees every line of working, not just the final answer."
   image: "/images/child-using-online-learning-laptop.jpg"
-  image_alt: "A GCSE student in an online one-to-one Maths lesson at home"
-  parts:
-    - time: "First 15 min"
-      body: "Go through last week's practice together, marked, and put right anything that went wrong before it sets."
-    - time: "Next 30 min"
-      body: "The topic costing the most marks, taught step by step, with your child doing the working rather than watching."
-    - time: "Last 15 min"
-      body: "Real exam questions on that topic, marked against the mark scheme, so your child sees exactly where the marks are won."
-  parent_title: "What you get as a parent"
-  parent_points:
-    - "Feedback after each lesson on what was covered"
-    - "A recording of every lesson to rewatch before a test"
-    - "You're welcome to sit in on the first session"
-    - "Practice set between lessons, usually an hour or so"
+  image_alt: "A GCSE student in a one-to-one online Maths lesson at home"
+  paragraphs:
+    - "Lessons are one-to-one and live, on a shared whiteboard. Your child and the tutor write on the same page, so the tutor sees every line of working, not just the answer at the end. That is usually where the marks go missing."
+    - "Most hours follow the same rhythm. The first few minutes go on last week's practice, marked together, so a mistake gets put right before it sets. The middle of the lesson is the topic costing the most marks, with your child doing the working rather than watching it. Then real exam questions on that topic, marked the way an examiner would."
+  parents_label: "For you as a parent"
+  parents: "You get a short note after each lesson on what was covered, and every lesson is recorded so your child can go back over a method the night before a test. You're welcome to sit in on the first one. Most parents step back after that."
 
 # ───────────── TUTORS ─────────────
 # Names must match data/tutors.yaml. Leave this out to show four at random,
@@ -99,22 +77,15 @@ review_names:
 
 # ───────────── WHAT IT COSTS (after the reviews) ─────────────
 pricing:
-  heading: "From £37 an hour. No contract, no joining fee."
-  intro: "The exact rate depends on the tutor's experience, and it's agreed with you before anything is booked. You pay per lesson and can stop whenever you like."
-  free:
-    - "Your 15-minute consultation call"
-    - "A 15-minute video meeting with your chosen tutor"
-    - "Switching tutor if the fit isn't right"
-  included:
-    - "One-to-one time with the tutor, usually an hour"
-    - "Their preparation and the practice they set"
-    - "Feedback after each lesson"
-    - "A recording of the lesson to rewatch"
-  never:
-    - "Joining or materials fees"
-    - "Minimum terms or blocks of lessons upfront"
-    - "Card details before you've chosen a tutor"
-  note: "No obligation. If tutoring isn't the right move for your child yet, we'll tell you."
+  heading: "What GCSE Maths tutoring costs"
+  intro: "No packages to buy and nothing to sign. The exact rate depends on the tutor, and it's agreed with you before anything is booked."
+  cards:
+    - title: "Nothing to get started"
+      body: "The 15-minute consultation call and a video meeting with your chosen tutor are both free. No card details, no pressure."
+    - title: "From £37 an hour"
+      body: "That covers the lesson itself, the tutor's preparation, the practice they set and the feedback afterwards. No joining or materials fees."
+    - title: "No contract"
+      body: "You pay for the lessons you take. If it isn't working, tell us and we'll change the tutor, or you simply stop."
 
 # ───────────── FAQ ─────────────
 # faq_items rather than faqs: seo.html turns a `faqs` list into FAQPage
