@@ -9,7 +9,10 @@
   sections, same lvls-* classes from main.css, same look. The differences
   are all about the traffic being paid rather than local search:
 
-    - UK-wide copy, and the map section says we cover all of the UK
+    - UK-wide copy (the map section was dropped at the founders' review,
+      25 Sep 2026, so "all of the UK" now lives in the FAQ)
+    - order agreed at that review: hero, reviews, tutors, who we are,
+      3 steps, FAQ, closing call to book
     - no sibling-subject or nearby-area link lists
     - tutors and reviews can be named in front matter, and reviews are
       pulled from data/reviews.yaml so they stay word for word
@@ -81,8 +84,6 @@
   .ads-page .loc-eyebrow, .ads-page .lvls-about__eyebrow { font-size:0.72rem; font-weight:800; letter-spacing:0.12em; color:var(--burgundy); }
   .ads-page .lvls-review-card__quote { display:-webkit-box; -webkit-line-clamp:9; -webkit-box-orient:vertical; overflow:hidden; }
   .ads-reviews-more { text-align:center; margin-top:28px; }
-  .ads-lesson .lvls-angle__image img { width:100%; height:520px; object-fit:cover; border-radius:14px; box-shadow:var(--shadow); display:block; }
-  @media (max-width: 980px) { .ads-lesson .lvls-angle__image img { height:300px; } }
 </style>
 
 <!-- =============================================
@@ -136,212 +137,7 @@
 </section>
 
 <!-- =============================================
-     SECTION 2: WHO WE ARE, founder card (Harry & Joe)
-     ============================================= -->
-<section class="lvls-about">
-  <div class="container">
-    <div class="lvls-about__inner">
-      <div class="lvls-about__photo">
-        {{ partial "responsive-image.html" (dict "src" "/images/co-founders.png" "alt" "Harry Godfrey and Joe Clark, co-founders of The Degree Gap, at the Prestige Awards" "loading" "lazy" "fallbackWidth" 600 "widths" (slice 280 560 840) "sizes" "(max-width: 720px) 220px, 280px" "quality" 78) }}
-        <span class="lvls-about__photo-caption">Harry &amp; Joe, co-founders</span>
-      </div>
-      <div class="lvls-about__copy">
-        <p class="lvls-about__eyebrow">WHO WE ARE</p>
-        <h2 class="lvls-about__title">{{ $p.about_heading | default "We know UK education and what parents like you are up against" }}</h2>
-        {{ with $p.about_paragraphs }}{{ range . }}<p>{{ . }}</p>{{ end }}{{ else }}
-        <p>The Degree Gap is a UK-based company that knows education inside out. Outside of tutoring, we run webinars for thousands of parents, speak at schools about GCSE and A-Level preparation, and have spent years listening to the same worries you're probably about to bring to us. We find you tutors with the grades but also the compassion and ability to listen to your child's worries.</p>
-        <p>That is what got us voted GCSE Tutoring Specialists of the Year at the 2026 Prestige Awards and why we have over 100 5 star reviews.</p>{{ end }}
-        <a href="{{ $book }}" class="lvls-about__cta" data-track="book_call_click" data-track-place="about">Speak to one of us about your child &rarr;</a>
-      </div>
-    </div>
-  </div>
-</section>
-
-
-<!-- =============================================
-     SECTION 3: WHERE WE COVER, map of the UK / copy right
-     ============================================= -->
-<section class="lvls-angle">
-  <div class="lvls-angle__deco" aria-hidden="true">
-    <svg viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <circle cx="200" cy="200" r="190" stroke="#800020" stroke-width="1.5" stroke-dasharray="3 7" opacity="0.25"/>
-    </svg>
-  </div>
-  <div class="container">
-    <div class="lvls-angle__inner">
-      <div class="lvls-angle__image">
-        <iframe class="lvls-angle__map"
-                src="{{ $mapUrl }}"
-                title="Map of the United Kingdom. The Degree Gap covers all of it for {{ $level }} {{ $subject }} tutoring"
-                loading="lazy"
-                referrerpolicy="no-referrer-when-downgrade"
-                allowfullscreen></iframe>
-        <span class="lvls-angle__map-tag">
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-7.58-7-12a7 7 0 0 1 14 0c0 4.42-7 12-7 12z"/><circle cx="12" cy="9" r="2.5"/></svg>
-          {{ $p.map_tag | default "Covering all of the UK" }}
-        </span>
-        <button type="button" data-reviews-open class="lvls-gpill lvls-gpill--mapcorner" aria-label="Read our {{ $count }} Google reviews" aria-controls="bc-reviews-drawer" aria-expanded="false">
-          <span class="lvls-gpill__g" aria-hidden="true">
-            <svg viewBox="0 0 24 24" width="18" height="18" xmlns="http://www.w3.org/2000/svg">
-              <path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/>
-              <path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84A11 11 0 0 0 12 23z"/>
-              <path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18A11 11 0 0 0 1 12c0 1.77.42 3.45 1.18 4.93l2.85-2.22.81-.62z"/>
-              <path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/>
-            </svg>
-          </span>
-          <strong>5.0</strong>
-          <span class="lvls-gpill__stars" aria-label="5 stars">★★★★★</span>
-          <span class="lvls-gpill__count">{{ $count }} reviews</span>
-        </button>
-      </div>
-      <div class="lvls-angle__copy">
-        <p class="loc-eyebrow">{{ $p.angle_eyebrow }}</p>
-        <h2>{{ $p.angle_heading }}</h2>
-        <p>{{ $p.angle_body_1 }}</p>
-        <p>{{ $p.angle_body_2 }}</p>
-        {{ with $p.coverage }}
-        <p class="lvls-angle__schools">
-          <strong>{{ $p.coverage_label | default "We cover all of the UK" }}</strong>
-          {{ . }}
-        </p>
-        {{ end }}
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- =============================================
-     SECTION 4: MID-PAGE CTA STRIP
-     ============================================= -->
-<section class="lvls-midcta">
-  <div class="container">
-    <div class="lvls-midcta__inner">
-      <div class="lvls-midcta__copy">
-        <p class="lvls-midcta__eyebrow">{{ $p.midcta_eyebrow | default "USUALLY MATCHED WITHIN 24 HOURS" }}</p>
-        <h2>{{ $p.midcta_heading | default (printf "Book a free 15-minute call about your child's %s %s" $level $subject) }}</h2>
-      </div>
-      <div class="lvls-midcta__actions">
-        <a href="{{ $book }}" class="btn btn-primary btn-lg lvls-midcta__btn" data-track="book_call_click" data-track-place="midcta">Book a Free Consultation</a>
-        <a href="tel:+447859965776" class="lvls-midcta__phone" data-track="click_to_call" data-track-place="midcta">or call 07859&nbsp;965776</a>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- =============================================
-     SECTION 5: START IN 3 STEPS
-     ============================================= -->
-<section class="lvls-steps">
-  <div class="lvls-steps__deco" aria-hidden="true">
-    <svg viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <circle cx="200" cy="200" r="180" stroke="#800020" stroke-width="1.5" stroke-dasharray="3 7" opacity="0.22"/>
-      <circle cx="200" cy="200" r="130" stroke="#800020" stroke-width="1" stroke-dasharray="2 6" opacity="0.18"/>
-    </svg>
-  </div>
-  <div class="container">
-    <div class="lvls-steps__head">
-      <h2>{{ $stepsHeading }}</h2>
-      <p>{{ $stepsLead }}</p>
-    </div>
-    <div class="lvls-steps__grid">
-      {{ range $i, $step := $steps }}
-      <article class="lvls-step">
-        <div class="lvls-step__visual">
-          <span class="lvls-step__num">{{ printf "%02d" (add $i 1) }}</span>
-          {{ if eq $i 0 }}
-          <svg class="lvls-step__icon" viewBox="0 0 64 64" fill="none" aria-hidden="true">
-            <rect x="10" y="14" width="44" height="36" rx="4" stroke="currentColor" stroke-width="2.5"/>
-            <path d="M18 24h28M18 32h28M18 40h18" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
-          </svg>
-          {{ else if eq $i 1 }}
-          <svg class="lvls-step__icon" viewBox="0 0 64 64" fill="none" aria-hidden="true">
-            <circle cx="32" cy="24" r="10" stroke="currentColor" stroke-width="2.5"/>
-            <path d="M14 52c2-9 10-14 18-14s16 5 18 14" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
-          </svg>
-          {{ else }}
-          <svg class="lvls-step__icon" viewBox="0 0 64 64" fill="none" aria-hidden="true">
-            <rect x="8" y="14" width="48" height="32" rx="3" stroke="currentColor" stroke-width="2.5"/>
-            <path d="M22 54h20M32 46v8" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
-            <path d="M28 28l8 4-8 4v-8z" fill="currentColor"/>
-          </svg>
-          {{ end }}
-        </div>
-        <h3>{{ $step.title }}</h3>
-        <p>{{ $step.body }}</p>
-      </article>
-      {{ end }}
-    </div>
-  </div>
-</section>
-
-
-<!-- =============================================
-     SECTION 5B: INSIDE A LESSON, same shape as the map section
-     ============================================= -->
-{{ with $p.lesson }}
-<section class="lvls-angle ads-lesson">
-  <div class="container">
-    <div class="lvls-angle__inner">
-      <div class="lvls-angle__image">
-        {{ partial "responsive-image.html" (dict "src" .image "alt" .image_alt "loading" "lazy" "fallbackWidth" 760 "widths" (slice 480 760 1100) "sizes" "(max-width: 980px) 100vw, 45vw" "quality" 72) }}
-      </div>
-      <div class="lvls-angle__copy">
-        <p class="loc-eyebrow">{{ .eyebrow }}</p>
-        <h2>{{ .heading }}</h2>
-        {{ range .paragraphs }}<p>{{ . }}</p>{{ end }}
-        {{ with .parents }}
-        <p class="lvls-angle__schools">
-          <strong>{{ $.Params.lesson.parents_label | default "For you as a parent" }}</strong>
-          {{ . }}
-        </p>
-        {{ end }}
-      </div>
-    </div>
-  </div>
-</section>
-{{ end }}
-
-<!-- =============================================
-     SECTION 6: TUTOR SELECTION
-     ============================================= -->
-<section class="lvls-tutors">
-  <div class="lvls-tutors__deco" aria-hidden="true">
-    <svg viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <circle cx="200" cy="200" r="195" stroke="#800020" stroke-width="2" stroke-dasharray="4 8" opacity="0.28"/>
-    </svg>
-  </div>
-  <div class="container">
-    <div class="lvls-tutors__head">
-      <p class="loc-eyebrow">{{ $p.tutors_eyebrow | default "MEET THE TUTORS" }}</p>
-      <h2>{{ $p.tutors_heading | default (printf "Some of our %s %s tutors" $level $subject) }}</h2>
-      <p>{{ $p.tutors_intro | default (printf "A small selection of the %s %s tutors in our network. We match each student personally to the tutor who best fits their year group, exam board and the gap they're trying to close." $level $subject) }}</p>
-    </div>
-    {{ if $tutors }}
-    <div class="lvls-tutors__grid">
-      {{ range $tutors }}
-      <article class="lvls-tutor-card">
-        <div class="lvls-tutor-card__photo">
-          <img src="{{ partial "url.html" .image }}" alt="{{ .name }}, {{ $level }} {{ $subject }} tutor" width="400" height="400" loading="lazy" decoding="async"
-               onerror="this.closest('.lvls-tutor-card').style.display='none'">
-        </div>
-        <div class="lvls-tutor-card__body">
-          <h3 class="lvls-tutor-card__name">{{ .name }}</h3>
-          <p class="lvls-tutor-card__role">{{ $level }} {{ $subject }} tutor</p>
-          <p class="lvls-tutor-card__blurb">"{{ strings.Trim .blurb "\" " | truncate 120 }}"</p>
-          <a href="{{ $book }}" class="lvls-tutor-card__link" data-track="book_call_click" data-track-place="tutor_card">Book a free call →</a>
-        </div>
-      </article>
-      {{ end }}
-    </div>
-    {{ end }}
-    <div class="lvls-tutors__cta">
-      <a href="{{ $book }}" class="btn btn-primary" data-track="book_call_click" data-track-place="tutors">Ask us to match you</a>
-    </div>
-  </div>
-</section>
-
-<!-- =============================================
-     SECTION 7: REVIEWS, carousel
+     SECTION 2: REVIEWS, carousel
      ============================================= -->
 {{ with $reviews }}
 <section class="lvls-reviews" aria-labelledby="lvls-reviews-title">
@@ -412,54 +208,116 @@
 </script>
 
 <!-- =============================================
-     SECTION 8: QUIET POST-REVIEWS CTA STRIP
+     SECTION 3: TUTOR SELECTION
      ============================================= -->
-<section class="lvls-quietcta">
-  <div class="container">
-    <p>
-      Want results like this for your child's {{ $level }} {{ $subject }}?
-      <a href="{{ $book }}" data-track="book_call_click" data-track-place="quietcta">Book a free 15-minute consultation →</a>
-    </p>
+<section class="lvls-tutors">
+  <div class="lvls-tutors__deco" aria-hidden="true">
+    <svg viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="200" cy="200" r="195" stroke="#800020" stroke-width="2" stroke-dasharray="4 8" opacity="0.28"/>
+    </svg>
   </div>
-</section>
-
-
-<!-- =============================================
-     SECTION 8B: WHAT IT COSTS, same cards as the 3 steps
-     ============================================= -->
-{{ with $p.pricing }}
-<section class="lvls-steps">
   <div class="container">
-    <div class="lvls-steps__head">
-      <h2>{{ .heading }}</h2>
-      <p>{{ .intro }}</p>
+    <div class="lvls-tutors__head">
+      <p class="loc-eyebrow">{{ $p.tutors_eyebrow | default "MEET THE TUTORS" }}</p>
+      <h2>{{ $p.tutors_heading | default (printf "Some of our %s %s tutors" $level $subject) }}</h2>
+      <p>{{ $p.tutors_intro | default (printf "A small selection of the %s %s tutors in our network. We match each student personally to the tutor who best fits their year group, exam board and the gap they're trying to close." $level $subject) }}</p>
     </div>
-    <div class="lvls-steps__grid">
-      {{ range $i, $c := .cards }}
-      <article class="lvls-step">
-        <div class="lvls-step__visual">
-          {{ if eq $i 0 }}
-          <svg class="lvls-step__icon" viewBox="0 0 64 64" fill="none" aria-hidden="true"><path d="M20 12h-5a3 3 0 0 0-3 3c0 20 16 37 37 37a3 3 0 0 0 3-3v-5l-9-4-5 5c-6-3-11-8-14-14l5-5-4-9z" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round"/></svg>
-          {{ else if eq $i 1 }}
-          <svg class="lvls-step__icon" viewBox="0 0 64 64" fill="none" aria-hidden="true"><circle cx="32" cy="32" r="21" stroke="currentColor" stroke-width="2.5"/><path d="M38 23c-1.5-2-3.6-3-6-3-4 0-6.5 2.6-6.5 6.5V38M22 32h12M22 44h19" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/></svg>
-          {{ else }}
-          <svg class="lvls-step__icon" viewBox="0 0 64 64" fill="none" aria-hidden="true"><rect x="14" y="10" width="36" height="44" rx="3" stroke="currentColor" stroke-width="2.5"/><path d="M22 22h20M22 30h20M22 38h10" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/><path d="M10 54L54 10" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/></svg>
-          {{ end }}
+    {{ if $tutors }}
+    <div class="lvls-tutors__grid">
+      {{ range $tutors }}
+      <article class="lvls-tutor-card">
+        <div class="lvls-tutor-card__photo">
+          <img src="{{ partial "url.html" .image }}" alt="{{ .name }}, {{ $level }} {{ $subject }} tutor" width="400" height="400" loading="lazy" decoding="async"
+               onerror="this.closest('.lvls-tutor-card').style.display='none'">
         </div>
-        <h3>{{ $c.title }}</h3>
-        <p>{{ $c.body }}</p>
+        <div class="lvls-tutor-card__body">
+          <h3 class="lvls-tutor-card__name">{{ .name }}</h3>
+          <p class="lvls-tutor-card__role">{{ $level }} {{ $subject }} tutor</p>
+          <p class="lvls-tutor-card__blurb">"{{ strings.Trim .blurb "\" " | truncate 120 }}"</p>
+          <a href="{{ $book }}" class="lvls-tutor-card__link" data-track="book_call_click" data-track-place="tutor_card">Book a free call →</a>
+        </div>
       </article>
       {{ end }}
     </div>
+    {{ end }}
     <div class="lvls-tutors__cta">
-      <a href="{{ $book }}" class="btn btn-primary" data-track="book_call_click" data-track-place="pricing">Book a Free Consultation</a>
+      <a href="{{ $book }}" class="btn btn-primary" data-track="book_call_click" data-track-place="tutors">Ask us to match you</a>
     </div>
   </div>
 </section>
-{{ end }}
 
 <!-- =============================================
-     SECTION 9: FAQ
+     SECTION 4: WHO WE ARE, founder card (Harry & Joe)
+     ============================================= -->
+<section class="lvls-about">
+  <div class="container">
+    <div class="lvls-about__inner">
+      <div class="lvls-about__photo">
+        {{ partial "responsive-image.html" (dict "src" "/images/co-founders.png" "alt" "Harry Godfrey and Joe Clark, co-founders of The Degree Gap, at the Prestige Awards" "loading" "lazy" "fallbackWidth" 600 "widths" (slice 280 560 840) "sizes" "(max-width: 720px) 220px, 280px" "quality" 78) }}
+        <span class="lvls-about__photo-caption">Harry &amp; Joe, co-founders</span>
+      </div>
+      <div class="lvls-about__copy">
+        <p class="lvls-about__eyebrow">WHO WE ARE</p>
+        <h2 class="lvls-about__title">{{ $p.about_heading | default "We know UK education and what parents like you are up against" }}</h2>
+        {{ with $p.about_paragraphs }}{{ range . }}<p>{{ . }}</p>{{ end }}{{ else }}
+        <p>The Degree Gap is a UK-based company that knows education inside out. Outside of tutoring, we run webinars for thousands of parents, speak at schools about GCSE and A-Level preparation, and have spent years listening to the same worries you're probably about to bring to us. We find you tutors with the grades but also the compassion and ability to listen to your child's worries.</p>
+        <p>That is what got us voted GCSE Tutoring Specialists of the Year at the 2026 Prestige Awards and why we have over 100 5 star reviews.</p>{{ end }}
+        <a href="{{ $book }}" class="lvls-about__cta" data-track="book_call_click" data-track-place="about">Speak to one of us about your child &rarr;</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- =============================================
+     SECTION 5: START IN 3 STEPS
+     ============================================= -->
+<section class="lvls-steps">
+  <div class="lvls-steps__deco" aria-hidden="true">
+    <svg viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="200" cy="200" r="180" stroke="#800020" stroke-width="1.5" stroke-dasharray="3 7" opacity="0.22"/>
+      <circle cx="200" cy="200" r="130" stroke="#800020" stroke-width="1" stroke-dasharray="2 6" opacity="0.18"/>
+    </svg>
+  </div>
+  <div class="container">
+    <div class="lvls-steps__head">
+      <h2>{{ $stepsHeading }}</h2>
+      <p>{{ $stepsLead }}</p>
+    </div>
+    <div class="lvls-steps__grid">
+      {{ range $i, $step := $steps }}
+      <article class="lvls-step">
+        <div class="lvls-step__visual">
+          <span class="lvls-step__num">{{ printf "%02d" (add $i 1) }}</span>
+          {{ if eq $i 0 }}
+          <svg class="lvls-step__icon" viewBox="0 0 64 64" fill="none" aria-hidden="true">
+            <rect x="10" y="14" width="44" height="36" rx="4" stroke="currentColor" stroke-width="2.5"/>
+            <path d="M18 24h28M18 32h28M18 40h18" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+          </svg>
+          {{ else if eq $i 1 }}
+          <svg class="lvls-step__icon" viewBox="0 0 64 64" fill="none" aria-hidden="true">
+            <circle cx="32" cy="24" r="10" stroke="currentColor" stroke-width="2.5"/>
+            <path d="M14 52c2-9 10-14 18-14s16 5 18 14" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+          </svg>
+          {{ else }}
+          <svg class="lvls-step__icon" viewBox="0 0 64 64" fill="none" aria-hidden="true">
+            <rect x="8" y="14" width="48" height="32" rx="3" stroke="currentColor" stroke-width="2.5"/>
+            <path d="M22 54h20M32 46v8" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+            <path d="M28 28l8 4-8 4v-8z" fill="currentColor"/>
+          </svg>
+          {{ end }}
+        </div>
+        <h3>{{ $step.title }}</h3>
+        <p>{{ $step.body }}</p>
+      </article>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+
+<!-- =============================================
+     SECTION 6: FAQ
      ============================================= -->
 {{ with $faqs }}
 <section class="lvls-faq">
@@ -490,14 +348,14 @@
 {{ end }}
 
 <!-- =============================================
-     SECTION 10: FINAL CTA, Book Free Consultation
+     SECTION 7: FINAL CTA, Book Free Consultation
      ============================================= -->
 <section class="lvls-cta" id="book-consultation">
   <div class="container">
     <div class="lvls-cta__inner">
       <div class="lvls-cta__copy">
         <p class="lvls-cta__eyebrow">{{ $p.final_eyebrow | default "Get started today" }}</p>
-        <h2>Book your free<br>{{ $subject }} consultation</h2>
+        <h2>{{ $p.final_heading | default (printf "Book your free<br>%s consultation" $subject) | safeHTML }}</h2>
         <p>{{ $p.final_body | default (printf "A short, friendly call about your child's %s. Where they're stuck, what they're aiming at, and which %s %s tutor in our network is the right match. No obligation." $subject $level $subject) }}</p>
         <a href="{{ $book }}" class="btn btn-primary btn-lg" data-track="book_call_click" data-track-place="final">Book Consultation</a>
         <p class="lvls-cta__assurance">{{ $p.final_assurance | default "First lesson risk-free · No contracts · Cancel any time" }}</p>
