@@ -12,11 +12,11 @@
 
 {{/* ── Consultation card (per-page overridable) ── */}}
 {{ $cardEyebrow := .Params.card_eyebrow | default "FREE CONSULTATION" }}
-{{ $cardHeading := .Params.card_heading | default (printf "Talk to a %s matching specialist this week" $subject) }}
+{{ $cardHeading := .Params.card_heading | default "Talk to a member of the team to start the matching process" }}
 {{ $cardPoints  := .Params.card_points  | default (slice
-  "15-minute call, no obligation"
-  "Two or three tutor profiles within 24 hours"
-  "First lesson from £37, only pay if you continue") }}
+  "A free consultation call, usually around 30 minutes"
+  "2 or 3 tutor profiles within 24 hours of the call"
+  "Lessons from £37, no contract") }}
 {{ $cardCta     := .Params.card_cta     | default "Book a Free Consultation" }}
 
 {{/* ── Subject angle ── */}}
@@ -101,7 +101,7 @@
         <div class="lvls-hero__meta">
           <span><strong>From £37/hr</strong></span>
           <span class="lvls-hero__meta-dot" aria-hidden="true">·</span>
-          <span>Online over Lessonspace</span>
+          <span>Online using the platform Lessonspace, plus replay available</span>
           <span class="lvls-hero__meta-dot" aria-hidden="true">·</span>
           <span>Tutoring Specialists of the Year 2025 &amp; 2026</span>
         </div>
