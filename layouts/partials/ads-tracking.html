@@ -1,0 +1,33 @@
+{{/* Measurement for pages that take Google Ads traffic, and for the
+     thank-you page their bookings land on.
+
+     1. Google Ads. Loads only once googleAdsId is set in hugo.toml, so this
+        ships dark until the account is linked. gtag.js is already on every
+        page for GA4, and a second config call is all Ads needs. It also
+        keeps the ad click in Google's own first-party cookie, which is how
+        the conversion on the thank-you page is tied back to the ad.
+
+     2. Clicks on anything carrying data-track (the phone links) go to GA4 as
+        an event named by that attribute, with data-track-place saying which
+        link it was. A parent who rings from the ad never touches a form, so
+        without this they look like a bounce. Silent if gtag is missing. */}}
+{{ with site.Params.googleAdsId }}
+<script>
+  gtag('config', {{ . }});
+</script>
+{{ end }}
+<script>
+(function () {
+  document.addEventListener('click', function (e) {
+    var el = e.target && e.target.closest ? e.target.closest('[data-track]') : null;
+    if (!el) return;
+    try {
+      if (typeof window.gtag !== 'function') return;
+      window.gtag('event', el.getAttribute('data-track'), {
+        link_location: el.getAttribute('data-track-place') || '',
+        page_path: window.location.pathname
+      });
+    } catch (err) { /* measurement is never worth breaking a click for */ }
+  });
+})();
+</script>

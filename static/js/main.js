@@ -337,6 +337,46 @@ document.addEventListener('submit', function(e){
   // one of the two that is reliable, because most sites now send origin only.
   var UTMS = ['utm_source', 'utm_medium', 'utm_campaign', 'utm_content'];
 
+  // Google Ads click IDs. gclid is the one Google Ads needs to match a lead
+  // back to the ad click, which is what lets a lead that turns into a paying
+  // family be uploaded as an offline conversion later. gbraid and wbraid are
+  // what Google sends instead of gclid for some iOS traffic.
+  //
+  // These do not follow the first-touch rule above. The latest ad click is
+  // the one Google credits, and a parent often clicks an ad, leaves, and
+  // books days later, so the IDs are kept in localStorage for 90 days (the
+  // life of Google's own click cookie) and overwritten by any newer click.
+  var CLICK_IDS = ['gclid', 'gbraid', 'wbraid'];
+  var CLICK_KEY = 'tdg_click_ids';
+  var CLICK_TTL = 90 * 86400000;
+
+  function captureClickIds() {
+    try {
+      var q = new URLSearchParams(window.location.search);
+      var found = {}, any = false;
+      CLICK_IDS.forEach(function (k) {
+        var v = q.get(k);
+        if (v) { found[k] = String(v).slice(0, 200); any = true; }
+      });
+      if (!any) return;
+      found.ts = Date.now();
+      localStorage.setItem(CLICK_KEY, JSON.stringify(found));
+    } catch (e) { /* storage disabled: the lead still arrives, minus the ID */ }
+  }
+
+  function storedClickIds() {
+    try {
+      var raw = localStorage.getItem(CLICK_KEY);
+      if (!raw) return null;
+      var d = JSON.parse(raw);
+      if (!d || !d.ts || Date.now() - d.ts > CLICK_TTL) {
+        localStorage.removeItem(CLICK_KEY);
+        return null;
+      }
+      return d;
+    } catch (e) { return null; }
+  }
+
   function capture() {
     try {
       if (sessionStorage.getItem(KEY)) return; // already captured this visit
@@ -368,8 +408,11 @@ document.addEventListener('submit', function(e){
   function populate() {
     try {
       var raw = sessionStorage.getItem(KEY);
-      if (!raw) return;
-      var data = JSON.parse(raw);
+      var data = raw ? JSON.parse(raw) : {};
+      var clicks = storedClickIds();
+      if (clicks) {
+        CLICK_IDS.forEach(function (k) { if (clicks[k]) data[k] = clicks[k]; });
+      }
       var fields = document.querySelectorAll('input[data-attribution]');
       for (var i = 0; i < fields.length; i++) {
         var el = fields[i];
@@ -391,6 +434,7 @@ document.addEventListener('submit', function(e){
     } catch (e) { /* leave the fields as they are */ }
   }
 
+  captureClickIds();
   capture();
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', populate);

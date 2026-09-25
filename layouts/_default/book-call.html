@@ -121,5 +121,19 @@
   </div>
 </section>
 
+{{/* Pages that send parents here for one subject pass it in the URL
+     (/book-a-call/?subject=GCSE+Maths, from the Google Ads pages), so the
+     "Which subjects?" box arrives filled in. Only ever fills an empty box,
+     and sets .value, so nothing from the URL is rendered as HTML. */}}
+<script>
+(function () {
+  try {
+    var s = new URLSearchParams(window.location.search).get('subject');
+    var el = document.getElementById('bc-subjects');
+    if (s && el && !el.value) el.value = s.slice(0, 60);
+  } catch (e) { /* the box stays empty, as before */ }
+})();
+</script>
+
 {{ partial "reviews-drawer.html" . }}
 {{ end }}

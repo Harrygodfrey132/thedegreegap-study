@@ -7874,6 +7874,12 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   padding: 7px 12px;
 }
 .lvls-gpill--mapcorner .lvls-gpill__count { display: none; }
+/* On a phone the map is too narrow for the area tag and the rating pill to
+   share the bottom edge, and the pill was covering the end of the area name.
+   Move the pill to the top corner instead. */
+@media (max-width: 560px) {
+  .lvls-gpill--mapcorner { top: 16px; bottom: auto; }
+}
 
 /* Variant: full-width banner above reviews carousel heading */
 .lvls-gpill--banner {

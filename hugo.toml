@@ -18,6 +18,14 @@ enableGitInfo = true
   # schema that disagrees with what a user can see is a structured-data breach.
   googleReviewCount = 109
   googleReviewRating = "5.0"
+  # Google Ads, read by partials/ads-tracking.html on the Google Ads landing
+  # pages and on /book-a-call-thank-you/, where the lead conversion fires.
+  # Both stay blank until the Ads account is linked, and while they are blank
+  # nothing Ads-related loads or fires. googleAdsId is the tag ID ("AW-..."),
+  # googleAdsLeadLabel the label of the lead conversion action. Both are in
+  # Google Ads under Goals > Conversions > (the lead action) > Tag setup.
+  googleAdsId = ""
+  googleAdsLeadLabel = ""
 
 [markup.goldmark.renderer]
   unsafe = true

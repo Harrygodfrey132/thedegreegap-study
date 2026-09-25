@@ -29,7 +29,13 @@
      still attributed when the partner links to the bare URL with no query
      string on it. A real ?utm_source= in the URL always wins: main.js
      overwrites the default with whatever it captured on the landing page.
-     Pages that set nothing behave exactly as before. */}}
+     Pages that set nothing behave exactly as before.
+
+     GOOGLE ADS CLICK IDS. gclid, gbraid and wbraid carry the ID of the ad
+     click the visitor arrived from, kept by main.js for 90 days. They are
+     what a lead needs to be uploaded back to Google Ads as an offline
+     conversion once the family pays. Empty, and so disabled, on any lead
+     that did not come from an ad. */}}
 {{ $utmSource   := .Params.utm_source_default }}
 {{ $utmMedium   := .Params.utm_medium_default }}
 {{ $utmCampaign := .Params.utm_campaign_default }}
@@ -39,3 +45,6 @@
 <input type="hidden" name="utm_content" data-attribution="utm_content">
 <input type="hidden" name="referrer" data-attribution="referrer">
 <input type="hidden" name="landing_page" data-attribution="landing_page">
+<input type="hidden" name="gclid" data-attribution="gclid">
+<input type="hidden" name="gbraid" data-attribution="gbraid">
+<input type="hidden" name="wbraid" data-attribution="wbraid">

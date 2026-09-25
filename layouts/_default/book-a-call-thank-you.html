@@ -86,4 +86,32 @@
   }
 </script>
 
+{{/* GA4 and Google Ads lead conversion.
+
+     Counts only a real booking: main.js stamps tdg_thanks_ts when a form
+     that redirects here is submitted, so a visit with no fresh stamp (a
+     bookmark, a reload an hour later) counts nothing, and the stamp is
+     remembered once counted, so a reload straight after does not count it
+     twice. generate_lead is GA4's standard lead event and can be imported
+     into Google Ads as a conversion from GA4. The direct Ads conversion
+     below only renders once googleAdsId and googleAdsLeadLabel are set in
+     hugo.toml, and uses the stamp as its transaction ID so Google also
+     drops any duplicate. */}}
+{{ partial "ads-tracking.html" . }}
+<script>
+(function () {
+  try {
+    var ts = parseInt(sessionStorage.getItem('tdg_thanks_ts') || '0', 10);
+    if (!ts || Date.now() - ts > 10 * 60 * 1000) return;
+    if (sessionStorage.getItem('tdg_lead_counted') === String(ts)) return;
+    sessionStorage.setItem('tdg_lead_counted', String(ts));
+    if (typeof window.gtag !== 'function') return;
+    window.gtag('event', 'generate_lead', { lead_subject: sessionStorage.getItem('tdg_thanks_subject') || '' });
+    {{- with site.Params.googleAdsId }}{{ with site.Params.googleAdsLeadLabel }}
+    window.gtag('event', 'conversion', { send_to: {{ printf "%s/%s" site.Params.googleAdsId site.Params.googleAdsLeadLabel }}, transaction_id: 'tdg-' + ts });
+    {{- end }}{{ end }}
+  } catch (e) { /* measurement is never worth breaking the page for */ }
+})();
+</script>
+
 {{ end }}

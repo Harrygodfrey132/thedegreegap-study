@@ -122,8 +122,10 @@
   {{/* Callback prompt. Locations and blog only: those are the pages that take
        search traffic and have the furthest to travel to a booking. Not on
        /book-a-call/ itself, and not on the referral landing pages, which
-       already open with a form. */}}
-  {{ if in (slice "locations" "blog") .Section }}
+       already open with a form. A page outside those sections can opt in with
+       callback_prompt: true (the Google Ads pages built on the location
+       design do, so they behave like the page they copy). */}}
+  {{ if or (in (slice "locations" "blog") .Section) .Params.callback_prompt }}
     {{ partial "callback-prompt.html" . }}
   {{ end }}
 
