@@ -1,6 +1,8 @@
-{{ define "main" }}
+
 {{/*
-  Google Ads landing page on the location page design.
+  Subject page on the location page design. Used by
+  /subjects/gcse-maths-tutor/ (design: "location" in its front matter),
+  which is also the page the GCSE Maths Google Ads land on.
 
   This is the level-subject layout (layouts/locations/level-subject.html,
   e.g. /locations/birmingham-tutors/gcse/maths/) made national: same
@@ -8,8 +10,7 @@
   are all about the traffic being paid rather than local search:
 
     - UK-wide copy, and the map section says we cover all of the UK
-    - noindex, out of the sitemap, and no sibling-subject or nearby-area
-      link lists, which only exist to move search visitors around the site
+    - no sibling-subject or nearby-area link lists
     - tutors and reviews can be named in front matter, and reviews are
       pulled from data/reviews.yaml so they stay word for word
     - every booking button goes to /book-a-call/ with the subject carried
@@ -20,7 +21,7 @@
 
 {{ $p        := .Params }}
 {{ $level    := $p.level   | default "GCSE" }}
-{{ $subject  := $p.subject | default "Maths" }}
+{{ $subject  := $p.subject_short | default ($p.subject | default "Maths") }}
 {{ $area     := $p.area    | default "the UK" }}
 {{ $count    := site.Params.googleReviewCount }}
 {{ $book     := printf "%s?subject=%s" ("book-a-call/" | relURL) (urlquery (printf "%s %s" $level $subject)) }}
@@ -511,4 +512,3 @@
 
 {{ partial "reviews-drawer.html" . }}
 {{ partial "ads-tracking.html" . }}
-{{ end }}

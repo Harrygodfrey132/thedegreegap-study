@@ -1,4 +1,11 @@
 {{ define "main" }}
+{{/* A subject page can switch to the location page design (the one the
+     Google Ads traffic lands on) with design: "location". Its layout stays
+     "single", so the other templates that find subject hubs by layout still
+     link to it. */}}
+{{ if eq .Params.design "location" }}
+{{ partial "ads-subject-body.html" . }}
+{{ else }}
 {{/*
 Subject landing page (e.g. GCSE Maths Tutors). noindex paid-ads traffic.
 Conversion-first, premium finish: form in the hero, a signature grade-jump
@@ -503,4 +510,5 @@ a process timeline, one consolidated trust signal. Reusable across subjects.
   "offers": { "@type": "Offer", "priceCurrency": "GBP", "price": "37", "priceSpecification": { "@type": "UnitPriceSpecification", "price": "37", "priceCurrency": "GBP", "unitText": "per hour", "minPrice": "37" } }
 }
 </script>
+{{ end }}
 {{ end }}
