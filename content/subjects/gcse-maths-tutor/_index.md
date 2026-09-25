@@ -2,8 +2,8 @@
 # GCSE Maths subject page, on the location page design (design: "location",
 # rendered by layouts/partials/ads-subject-body.html). Also the final URL for
 # the GCSE Maths Google Ads: https://thedegreegap.com/study/subjects/gcse-maths-tutor/
-title: "Online GCSE Maths Tutors | Across the UK | The Degree Gap"
-description: "Online GCSE Maths tutors for families across the whole of the UK. We trace a slipping grade back to its root and rebuild it before the mocks. AQA, Edexcel, OCR or WJEC, from £37/hr."
+title: "GCSE Maths Tutors Online, Matched to Your Child | The Degree Gap"
+description: "One-to-one online GCSE Maths tutors, hand-picked for your child's exam board by our founders. Around 3% of tutors who apply get through. Free call first, then from £37/hr."
 layout: "single"
 design: "location"
 robots: "index, follow"
@@ -12,43 +12,67 @@ level: "GCSE"
 subject: "GCSE Maths"
 subject_short: "Maths"
 
-hero_eyebrow: "GCSE TUTORING · ALL OF THE UK"
+# ───────────── HERO ─────────────
+# The lead says what we actually do, in order: you tell us, we send tutors,
+# your child meets one free, lessons begin. No stats in the H1 (stats.md).
+hero_eyebrow: "GCSE MATHS TUTORING · ONLINE, ACROSS THE UK"
 hero_h1: "Online GCSE Maths Tutors, Matched on Exam Board"
-hero_lead: "By Year 11, a slipping GCSE Maths grade usually traces back to a Year 8 or 9 topic nobody re-explained. Our GCSE Maths tutors find that root gap in the first session and rebuild it, before the mock that fixes the predicted grade a sixth form will see."
+hero_lead: "Your child is putting the work in and the Maths grade isn't moving. Tell us what's going on, and within 24 hours we'll send you two or three GCSE Maths tutors who know their exam board, every one of them interviewed by our founders. Your child meets them first, free, then learns one-to-one online."
+meta_2: "One-to-one, online"
+meta_3: "GCSE Tutoring Specialists of the Year 2025 & 2026"
 
+card_heading: "Talk to us about your child's Maths this week"
+card_points:
+  - "A free 15-minute call, no obligation"
+  - "Two or three hand-picked tutors within 24 hours"
+  - "A free video meeting with your chosen tutor first"
+
+# ───────────── WHO WE ARE ─────────────
+# The founders' own story (story.md) plus two credentials: the 3% and the award.
+about_heading: "Two founders who interview every tutor themselves"
+about_paragraphs:
+  - "We're Harry and Joe. We were both tutored growing up, and we both had one tutor who was excellent and one who was only okay. That difference is the reason The Degree Gap exists. The right tutor changes how a child feels about a subject. The wrong one is just an expensive hour a week."
+  - "So we interview every tutor on the platform ourselves, and only around 3% of the people who apply get through. They're graduates of top Russell Group universities, many of them qualified teachers. It's a big part of why we were voted GCSE Tutoring Specialists of the Year at the Prestige Awards in 2025 and again in 2026."
+
+# ───────────── THE MAP SECTION ─────────────
 map_tag: "Covering all of the UK"
-angle_eyebrow: "WE COVER ALL OF THE UK"
-angle_heading: "Where a GCSE Maths tutor traces the gap the exam papers keep exposing"
-angle_body_1: "Wherever in the UK your child sits GCSE Maths, the marks tend to leak in the same spots: the algebra rearrangement inside a multi-mark question, the geometry and ratio in the middle of the paper, the multi-step problem-solving at the back, and, for many, an earlier method, fractions, negatives, or proportion, that never set and now blocks the harder work. The grade is rarely capped by effort. It is one or two foundations and a handful of question styles."
-angle_body_2: "The first lesson marks a recent paper and traces each lost mark back to where the method actually broke, which is often two or three years earlier than the topic on screen. From session two the plan rebuilds from that root and layers the exam technique on top. For the grade 6 or 7 a sixth form asks for in Maths and the Sciences, or the grade 4 or 5 a college course or apprenticeship screens on, that rebuilt foundation is what moves the grade."
+angle_eyebrow: "WHERE THE MARKS GO"
+angle_heading: "Why the hard work isn't showing up in the Maths grade"
+angle_body_1: "It's rarely effort. A slipping GCSE Maths grade usually traces back to a method from Year 8 or 9 that never quite set, like fractions, negatives or rearranging a formula. It hides inside the harder questions and quietly costs marks right through the paper. Add a few question styles nobody has shown your child how to unpick, and the grade stalls however many hours go in."
+angle_body_2: "So a good tutor doesn't start at page one of the textbook. The first lesson marks a recent paper the way an examiner would and traces each lost mark back to where the method actually broke. From the second lesson, the plan rebuilds that root and layers the exam technique on top. Whether your child needs the grade 4 a college course asks for or the 7 a sixth form wants for A-Level Maths, that's what moves it."
 coverage_label: "We cover all of the UK"
-coverage: "Every lesson runs online, so it makes no difference where you live. Your child is matched with the right GCSE Maths tutor for their exam board, not just the nearest one."
+coverage: "Every lesson is online, so where you live makes no difference. We match on exam board and on the gap your child needs to close, not on postcode. That means the right GCSE Maths tutor in the country, not just the nearest one."
 
-midcta_heading: "Book a free 15-minute call about your child's GCSE Maths"
+# ───────────── MID-PAGE CTA ─────────────
+midcta_heading: "Tell us what's going on with Maths. We'll send you two or three tutors who fit."
 
-steps_heading: "Start GCSE Maths tutoring in 3 steps"
-steps_lead: "From first call to first lesson in under a week, and most families are matched within 24 hours, well before the mocks that fix predicted grades."
+# ───────────── STEPS ─────────────
+steps_heading: "From first call to first lesson in under a week"
+steps_lead: "Nothing to sign and nothing to pay until your child has met their tutor and wants to carry on."
 steps:
-  - title: "Share your goals"
-    body: "Tell us the year group, the school, the AQA, Edexcel or OCR specification, the current Maths grade and the target. We listen, take notes and ask the right questions."
-  - title: "Meet your match"
-    body: "Within 24 hours we send two or three vetted GCSE Maths tutors matched to the exam board and the grade you are chasing. Free 15-minute video meeting with your chosen tutor before any session."
-  - title: "Start the lessons"
-    body: "Weekly one-to-one GCSE Maths on Lessonspace, our shared whiteboard. Many Year 11s add a second hour before the November and March mocks. From £37/hr, cancel any time."
+  - title: "A free 15-minute call"
+    body: "One of us listens first: the year group, the exam board, the predicted grade, the mock that went badly and what you've already tried. If tutoring isn't the right move yet, we'll tell you."
+  - title: "Two or three hand-picked tutors"
+    body: "Within 24 hours we send you profiles of tutors who know your child's exam board and the grade they're chasing. Your child meets the one you like best on a free 15-minute video call."
+  - title: "Weekly one-to-one lessons"
+    body: "Lessons run online on Lessonspace, our shared whiteboard, and are recorded to rewatch. From £37 an hour, paid per lesson. Many Year 11s add a second hour in the run-up to the mocks."
 
+# ───────────── INSIDE A LESSON ─────────────
 lesson:
   eyebrow: "INSIDE A LESSON"
   heading: "What an hour of GCSE Maths tutoring actually looks like"
   image: "/images/child-using-online-learning-laptop.jpg"
   image_alt: "A GCSE student in a one-to-one online Maths lesson at home"
   paragraphs:
-    - "Lessons are one-to-one and live, on a shared whiteboard. Your child and the tutor write on the same page, so the tutor sees every line of working, not just the answer at the end. That is usually where the marks go missing."
-    - "Most hours follow the same rhythm. The first few minutes go on last week's practice, marked together, so a mistake gets put right before it sets. The middle of the lesson is the topic costing the most marks, with your child doing the working rather than watching it. Then real exam questions on that topic, marked the way an examiner would."
+    - "Lessons are one-to-one and live, on a shared whiteboard. Your child and the tutor write on the same page, so the tutor sees every line of working, not just the answer at the end. That's usually where the marks go missing."
+    - "Most hours follow the same rhythm. The first few minutes go on last week's practice, marked together, so a mistake is put right before it sets. The middle of the lesson is the topic costing the most marks, with your child doing the working rather than watching it. Then real exam questions on that topic, marked the way an examiner would."
   parents_label: "For you as a parent"
   parents: "You get a short note after each lesson on what was covered, and every lesson is recorded so your child can go back over a method the night before a test. You're welcome to sit in on the first one. Most parents step back after that."
 
-tutors_heading: "Some of our GCSE Maths tutors"
-tutors_intro: "A small selection of the GCSE Maths tutors in our network. Around 3% of the tutors who apply get through our interviews. After your call we match your child personally, on year group, exam board and the gap they're trying to close."
+# ───────────── TUTORS ─────────────
+tutors_eyebrow: "MEET SOME OF THE TUTORS"
+tutors_heading: "Some of the GCSE Maths tutors on our platform"
+tutors_intro: "Every tutor here has sat an interview with Harry or Joe, and most have at least two years of one-to-one tutoring behind them. You won't be scrolling through hundreds of profiles, guessing. After your call, we pick the two or three who fit your child."
 tutor_names:
   - "Emily Lowe"
   - "Avery Goldie"
@@ -63,16 +87,21 @@ review_names:
   - "Isabel Heggie"
   - "Philippa Langton"
 
+# ───────────── PRICING ─────────────
 pricing:
   heading: "What GCSE Maths tutoring costs"
   intro: "No packages to buy and nothing to sign. The exact rate depends on the tutor, and it's agreed with you before anything is booked."
   cards:
     - title: "Nothing to get started"
-      body: "The 15-minute consultation call and a video meeting with your chosen tutor are both free. No card details, no pressure."
+      body: "The 15-minute call and a video meeting with your chosen tutor are both free. No card details, no pressure."
     - title: "From £37 an hour"
-      body: "That covers the lesson itself, the tutor's preparation, the practice they set and the feedback afterwards. No joining or materials fees."
+      body: "That covers the lesson, the tutor's preparation, the practice they set and the feedback afterwards. No joining or materials fees."
     - title: "No contract"
       body: "You pay for the lessons you take. If it isn't working, tell us and we'll change the tutor, or you simply stop."
+
+# ───────────── FINAL CTA ─────────────
+final_body: "Fifteen minutes with one of us about your child's Maths: where they're stuck, what they're aiming for and which tutor would fit. You'll have profiles within 24 hours, and you don't pay anything until your child has met their tutor."
+final_assurance: "Free call · No contract · Stop any time"
 
 faq_items:
   - q: "Do you cover my area for GCSE Maths tutoring?"
@@ -83,6 +112,8 @@ faq_items:
     a: "It's the most common worry we hear, and it usually fades once they meet the tutor. One adult, full attention and no classmates watching feels nothing like a Maths lesson at school. That's why your child meets their tutor on a free video call before anything is booked. If after a couple of lessons they really don't want to carry on, you stop. No contract, no questions."
   - q: "What if the tutor isn't the right fit?"
     a: "Tell us and we'll match your child with someone else, at no charge and with no awkward conversation. We would rather get the fit right than have a student sitting through lessons that aren't working. The right match is most of what makes tutoring work, which is why we send two or three profiles rather than assigning one."
+  - q: "Why should I trust The Degree Gap with my child's Maths?"
+    a: "Because we're not a directory. Harry and Joe interview every tutor themselves, and around 3% of applicants get through. Outside tutoring, we work directly with more than 15 UK secondary schools, over 5,000 parents watched our webinars in the 2026 academic year, and Harry has been featured in Forbes and The Independent. But the proof that matters most is the 100+ five-star Google reviews from parents who've been where you are."
   - q: "Is online tutoring as good as in person for Maths?"
     a: "For most students it's better. The tutor and your child write on the same whiteboard, so every step of working is visible and can be corrected as it happens. Past papers go straight onto the screen to be marked line by line, and every lesson is recorded, so a method can be rewatched the night before a test. It also means your child gets the right tutor for their exam board, not the nearest one."
   - q: "My child has ADHD, dyslexia or anxiety. Can a tutor still help?"

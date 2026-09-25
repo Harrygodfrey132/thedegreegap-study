@@ -99,9 +99,9 @@
         <div class="lvls-hero__meta">
           <span><strong>From £37/hr</strong></span>
           <span class="lvls-hero__meta-dot" aria-hidden="true">·</span>
-          <span>Online over Lessonspace</span>
+          <span>{{ $p.meta_2 | default "Online over Lessonspace" }}</span>
           <span class="lvls-hero__meta-dot" aria-hidden="true">·</span>
-          <span>Tutoring Specialists of the Year 2025 &amp; 2026</span>
+          <span>{{ $p.meta_3 | default "Tutoring Specialists of the Year 2025 & 2026" }}</span>
         </div>
       </div>
 
@@ -147,9 +147,10 @@
       </div>
       <div class="lvls-about__copy">
         <p class="lvls-about__eyebrow">WHO WE ARE</p>
-        <h2 class="lvls-about__title">We know UK education and what parents like you are up against</h2>
+        <h2 class="lvls-about__title">{{ $p.about_heading | default "We know UK education and what parents like you are up against" }}</h2>
+        {{ with $p.about_paragraphs }}{{ range . }}<p>{{ . }}</p>{{ end }}{{ else }}
         <p>The Degree Gap is a UK-based company that knows education inside out. Outside of tutoring, we run webinars for thousands of parents, speak at schools about GCSE and A-Level preparation, and have spent years listening to the same worries you're probably about to bring to us. We find you tutors with the grades but also the compassion and ability to listen to your child's worries.</p>
-        <p>That is what got us voted GCSE Tutoring Specialists of the Year at the 2026 Prestige Awards and why we have over 100 5 star reviews.</p>
+        <p>That is what got us voted GCSE Tutoring Specialists of the Year at the 2026 Prestige Awards and why we have over 100 5 star reviews.</p>{{ end }}
         <a href="{{ $book }}" class="lvls-about__cta" data-track="book_call_click" data-track-place="about">Speak to one of us about your child &rarr;</a>
       </div>
     </div>
@@ -311,7 +312,7 @@
   </div>
   <div class="container">
     <div class="lvls-tutors__head">
-      <p class="loc-eyebrow">MEET THE TUTORS</p>
+      <p class="loc-eyebrow">{{ $p.tutors_eyebrow | default "MEET THE TUTORS" }}</p>
       <h2>{{ $p.tutors_heading | default (printf "Some of our %s %s tutors" $level $subject) }}</h2>
       <p>{{ $p.tutors_intro | default (printf "A small selection of the %s %s tutors in our network. We match each student personally to the tutor who best fits their year group, exam board and the gap they're trying to close." $level $subject) }}</p>
     </div>
@@ -495,11 +496,11 @@
   <div class="container">
     <div class="lvls-cta__inner">
       <div class="lvls-cta__copy">
-        <p class="lvls-cta__eyebrow">Get started today</p>
+        <p class="lvls-cta__eyebrow">{{ $p.final_eyebrow | default "Get started today" }}</p>
         <h2>Book your free<br>{{ $subject }} consultation</h2>
         <p>{{ $p.final_body | default (printf "A short, friendly call about your child's %s. Where they're stuck, what they're aiming at, and which %s %s tutor in our network is the right match. No obligation." $subject $level $subject) }}</p>
         <a href="{{ $book }}" class="btn btn-primary btn-lg" data-track="book_call_click" data-track-place="final">Book Consultation</a>
-        <p class="lvls-cta__assurance">First lesson risk-free · No contracts · Cancel any time</p>
+        <p class="lvls-cta__assurance">{{ $p.final_assurance | default "First lesson risk-free · No contracts · Cancel any time" }}</p>
       </div>
       <div class="lvls-cta__illustration" aria-hidden="true">
         {{ partial "responsive-image.html" (dict "src" "/images/students-in-classroom-taking-notes.jpg" "alt" (printf "%s %s tutoring consultation with The Degree Gap" $level $subject) "loading" "lazy" "fallbackWidth" 700 "widths" (slice 400 700 1000) "sizes" "(min-width: 700px) 50vw, 100vw" "quality" 72) }}
