@@ -6,7 +6,7 @@ description: St Albans GCSE tutors providing personalised support in Maths,
 layout: subject
 location: St Albans
 level: GCSE
-hero_heading_line1: St Albans GCSE Tutors Who Lift the Predicted Grade Where It Needs to Be
+hero_heading_line1: "Online St Albans GCSE Tutors Who Lift the Predicted Grade Where It Needs to Be"
 hero_heading_line2: ""
 hero_lead: In St Albans, most parents are watching the gap between their child's
   predicted grade and what the local sixth forms quietly expect. Our St Albans

@@ -7,7 +7,7 @@ location: "Didsbury"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors Covering Didsbury, for Two Grades That Both Get Read"
+hero_h1: "Online GCSE English Tutors Covering Didsbury, for Two Grades That Both Get Read"
 hero_lead: "Some children read everything at home and still bring back a disappointing English mock. Our Didsbury GCSE English tutors work one-to-one online on the part that's actually costing marks, whether that's unseen poetry, quotations or simply finishing the essay in time."
 
 card_eyebrow: "FREE CONSULTATION"

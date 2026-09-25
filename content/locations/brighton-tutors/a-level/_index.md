@@ -5,7 +5,7 @@ layout: "subject"
 location: "Brighton"
 level: "A-Level"
 
-hero_heading_line1: "Brighton A-Level Tutors Built for the Pace of a Big Sixth-Form College"
+hero_heading_line1: "Online Brighton A-Level Tutors Built for the Pace of a Big Sixth-Form College"
 hero_heading_line2: ""
 hero_lead: "Some Year 12s are still finding their feet after the jump from GCSE. Others are in Year 13 with an offer to hit and a mock that came back short. Our Brighton A-Level tutors work both ends, tracing what's actually leaking marks and rebuilding it before predictions go to UCAS."
 

@@ -5,7 +5,7 @@ layout: "subject"
 location: "Worcester"
 level: "A-Level"
 
-hero_heading_line1: "Worcester A-Level Tutors for the Year That Sets the Prediction"
+hero_heading_line1: "Online Worcester A-Level Tutors for the Year That Sets the Prediction"
 hero_heading_line2: ""
 hero_lead: "The grade that goes to UCAS is written months before anyone sits a real paper, and there is no appeal against it. Our Worcester A-Level tutors work in the window where that number is still being decided rather than after it has been."
 

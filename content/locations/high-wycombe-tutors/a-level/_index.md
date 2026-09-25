@@ -5,7 +5,7 @@ layout: "subject"
 location: "High Wycombe"
 level: "A-Level"
 
-hero_heading_line1: "High Wycombe A-Level Tutors Who Lift the Predicted Grade Before UCAS"
+hero_heading_line1: "Online High Wycombe A-Level Tutors Who Lift the Predicted Grade Before UCAS"
 hero_heading_line2: ""
 hero_lead: "Our High Wycombe A-Level tutors work one-to-one with students to lift the predicted grade before UCAS predictions go to admissions tutors. Most families start in Year 12, ahead of the end-of-year mocks that decide the predicted grade a sixth form sends out."
 

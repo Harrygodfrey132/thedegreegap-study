@@ -4,7 +4,7 @@ description: One-to-one Peterborough tutoring for Maths, English, Sciences and
   more. Expert tutors, flexible online lessons and proven academic results.
 layout: single
 location: Peterborough
-banner_heading: Looking for a GCSE or A-Level tutor in Peterborough?
+banner_heading: "Looking for an online GCSE or A-Level tutor in Peterborough?"
 banner_description: Our Peterborough tutors find the gaps that classroom
   teaching can't catch and rebuild from the right point, so students walk into
   exams knowing what they're doing.

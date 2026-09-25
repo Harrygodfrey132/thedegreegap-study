@@ -5,7 +5,7 @@ layout: "subject"
 location: "High Wycombe"
 level: "GCSE"
 
-hero_heading_line1: "High Wycombe GCSE Tutors Who Lift the Predicted Grade Where It Needs to Be"
+hero_heading_line1: "Online High Wycombe GCSE Tutors Who Lift the Predicted Grade Where It Needs to Be"
 hero_heading_line2: ""
 hero_lead: "By Year 11, most High Wycombe parents are watching the gap between their child's predicted grade and what the local sixth forms quietly expect. Our High Wycombe GCSE tutors work one-to-one to lift the predicted grade wherever a student is sitting today, towards what the sixth form is actually asking for."
 

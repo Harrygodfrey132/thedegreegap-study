@@ -5,7 +5,7 @@ layout: "subject"
 location: "Tunbridge Wells"
 level: "GCSE"
 
-hero_heading_line1: "Tunbridge Wells GCSE Tutors For the Gap a Fast Class Leaves Behind"
+hero_heading_line1: "Online Tunbridge Wells GCSE Tutors For the Gap a Fast Class Leaves Behind"
 hero_heading_line2: ""
 hero_lead: "In a town where the Kent Test sorts children early, the pressure on GCSE grades rarely lets up. Our Tunbridge Wells GCSE tutors give a student the one-to-one hour to fix the specific topic a fast-moving class had to leave behind."
 

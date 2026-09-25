@@ -4,7 +4,7 @@ description: One-to-one Tunbridge Wells tutoring for Maths, English, Sciences an
   more. Expert tutors, flexible online lessons and proven academic results.
 layout: single
 location: Tunbridge Wells
-banner_heading: Looking for a Tunbridge Wells tutor for the Kent Test, GCSEs or A-Levels?
+banner_heading: "Looking for an online Tunbridge Wells tutor for the Kent Test, GCSEs or A-Levels?"
 banner_description: Our Tunbridge Wells tutors prepare students for the 11+, top
   GCSE grades and the A-Level standards that competitive universities now
   expect.

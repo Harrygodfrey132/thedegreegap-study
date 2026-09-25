@@ -5,7 +5,7 @@ layout: "subject"
 location: "Knutsford"
 level: "GCSE"
 
-hero_heading_line1: "Knutsford GCSE Tutors for Year 11s Deciding Whether to Stay or Go at Sixteen"
+hero_heading_line1: "Online Knutsford GCSE Tutors for Year 11s Deciding Whether to Stay or Go at Sixteen"
 hero_heading_line2: ""
 hero_lead: "If the mock grades came home lower than all that effort deserved, you're not alone, and it can be turned around. Our Knutsford GCSE tutors find the topic that's costing marks and work on it one-to-one, online, an hour a week."
 

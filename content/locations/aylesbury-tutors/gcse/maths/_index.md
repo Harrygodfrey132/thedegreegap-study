@@ -7,7 +7,7 @@ location: "Aylesbury"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors Covering Aylesbury"
+hero_h1: "Online GCSE Maths Tutors Covering Aylesbury"
 hero_lead: "In Buckinghamshire a comfortable grade 6 in Maths can still fall short of the sixth-form course a student wants. Our Aylesbury GCSE Maths tutors find the four or five question styles standing between that 6 and a clean 8."
 
 angle_eyebrow: "WHAT THE TOP OF THE HIGHER PAPER ASKS FOR"

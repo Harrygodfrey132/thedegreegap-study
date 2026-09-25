@@ -5,7 +5,7 @@ layout: "subject"
 location: "Knutsford"
 level: "A-Level"
 
-hero_heading_line1: "Knutsford A-Level Tutors Who Help Year 12s Find Their Feet Before Predictions"
+hero_heading_line1: "Online Knutsford A-Level Tutors Who Help Year 12s Find Their Feet Before Predictions"
 hero_heading_line2: ""
 hero_lead: "A good set of GCSEs, then a first A-Level test that comes back two grades lower. It happens more than parents think, and our Knutsford A-Level tutors work one-to-one online on that step up before it turns into a predicted grade."
 

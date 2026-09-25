@@ -5,7 +5,7 @@ description: Find expert Sheffield tutors for GCSE and A-Level support.
   success.
 layout: single
 location: Sheffield
-banner_heading: Need a Sheffield tutor who's focused on your child's next target?
+banner_heading: "Need an online Sheffield tutor who's focused on your child's next target?"
 banner_description: Most tutoring covers content. Our Sheffield tutors find
   what's actually blocking progress and work on that first.
 content_angle: exam pressure / sixth form entry

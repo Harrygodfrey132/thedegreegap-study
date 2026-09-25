@@ -5,7 +5,7 @@ layout: "subject"
 location: "Peterborough"
 level: "GCSE"
 
-hero_heading_line1: "Peterborough GCSE Tutors Who Rebuild Before the Mocks, Not After"
+hero_heading_line1: "Online Peterborough GCSE Tutors Who Rebuild Before the Mocks, Not After"
 hero_heading_line2: ""
 hero_lead: "Mocks do not create the problem, they publish it. Our Peterborough GCSE tutors would rather find the gap in October than argue with a predicted grade in March, so the first session is a diagnostic and the plan follows from it."
 

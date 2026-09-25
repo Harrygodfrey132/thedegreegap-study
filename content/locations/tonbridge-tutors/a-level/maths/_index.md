@@ -7,7 +7,7 @@ location: "Tonbridge"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "A-Level Maths Tutors Covering Tonbridge"
+hero_h1: "Online A-Level Maths Tutors Covering Tonbridge"
 hero_lead: "Your child was good at GCSE Maths, and now Year 12 feels like a different subject. Our Tonbridge A-Level Maths tutors work one-to-one online on the part that changed: choosing the method when the question no longer tells you."
 
 card_eyebrow: "FREE CONSULTATION"

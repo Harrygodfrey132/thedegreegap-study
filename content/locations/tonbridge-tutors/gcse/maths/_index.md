@@ -7,7 +7,7 @@ location: "Tonbridge"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors Covering Tonbridge"
+hero_h1: "Online GCSE Maths Tutors Covering Tonbridge"
 hero_lead: "If your child is working hard and the Maths grade still isn't moving, you're not alone. Our Tonbridge GCSE Maths tutors go back to the step where the method first went wobbly, often algebra or fractions from Year 8, and rebuild from there."
 
 card_eyebrow: "FREE CONSULTATION"

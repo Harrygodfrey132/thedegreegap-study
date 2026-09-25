@@ -5,7 +5,7 @@ layout: "subject"
 location: "Stratford-upon-Avon"
 level: "GCSE"
 
-hero_heading_line1: "GCSE Tutors Covering Stratford-upon-Avon and the Grammars Around It"
+hero_heading_line1: "Online GCSE Tutors Covering Stratford-upon-Avon and the Grammars Around It"
 hero_heading_line2: ""
 hero_lead: "Getting through the Warwickshire 11+ was the hard part, and it changed the comparison rather than removing it. Our Stratford-upon-Avon GCSE tutors work with students who are now measured against a cohort that all passed the same test."
 

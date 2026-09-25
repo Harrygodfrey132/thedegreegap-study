@@ -3,7 +3,7 @@ title: "Harpenden Online Tutors | Expert Support | The Degree Gap"
 description: "Harpenden tutoring for GCSE and A-Level students. One-to-one tutors who stretch students past the class pace, matched on subject, exam board and target grade."
 layout: single
 location: Harpenden
-banner_heading: "Harpenden tutoring built for the stretch a class of 30 can't give"
+banner_heading: "Online Harpenden tutoring built for the stretch a class of 30 can't give"
 banner_description: "Our Harpenden tutoring is built around the specific stretch each student needs next, with tutors matched on subject, exam board and target grade."
 content_angle: "ambition"
 intro_1: "Harpenden parents tend to come to us with a particular kind of worry. Their child is doing well. The school is good. The teachers are doing their job. But by Year 10, the gap between what their child is capable of and what a class of 30 can be pushed to has opened up, and they can see it. A grade 7 in a mock isn't a problem in most parts of the country. In Harpenden, where most peers are doing A-Levels and most of those A-Levels are pointed at Russell Group universities, it can feel like the start of one."

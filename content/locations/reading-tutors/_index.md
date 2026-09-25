@@ -5,7 +5,7 @@ description: Find expert Reading tutors for GCSE and A-Level support.
   success.
 layout: single
 location: Reading
-banner_heading: Looking for a Reading tutor who knows what this area actually demands?
+banner_heading: "Looking for an online Reading tutor who knows what this area actually demands?"
 banner_description: The Degree Gap tutoring connects Reading students with
   vetted tutors who understand the pressure here and what it takes to meet it.
 content_angle: exam pressure / grammar school competition

@@ -5,7 +5,7 @@ layout: "subject"
 location: "Guildford"
 level: "GCSE"
 
-hero_heading_line1: "Guildford GCSE Tutors Who Fix the Technique Behind a Stuck Grade"
+hero_heading_line1: "Online Guildford GCSE Tutors Who Fix the Technique Behind a Stuck Grade"
 hero_heading_line2: ""
 hero_lead: "By the time a lot of Guildford parents call, the effort at home has gone up and the grade hasn't followed, and nobody can quite say which topic is the problem. Our Guildford GCSE tutors spend the first session finding exactly that, then rebuild it one-to-one until the marks move."
 

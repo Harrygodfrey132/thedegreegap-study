@@ -4,7 +4,7 @@ description: "Leicester GCSE tutors who trace a stuck grade to its root and rebu
 layout: "subject"
 location: "Leicester"
 level: "GCSE"
-hero_heading_line1: "Leicester GCSE Tutors Who Rebuild the Basics Before They Cost a Grade"
+hero_heading_line1: "Online Leicester GCSE Tutors Who Rebuild the Basics Before They Cost a Grade"
 hero_heading_line2: ""
 hero_lead: "Doing the revision but the grade still won't move? Our Leicester GCSE tutors trace it back to the topic that never properly landed and rebuild from there, well before mocks decide anything."
 grade_from: "5"

@@ -4,7 +4,7 @@ description: "Milton Keynes GCSE tutors who give Year 11 the one-to-one time a b
 layout: "subject"
 location: "Milton Keynes"
 level: "GCSE"
-hero_heading_line1: "Milton Keynes GCSE Tutors Who Give Year 11 the Time a Big Class Can't"
+hero_heading_line1: "Online Milton Keynes GCSE Tutors Who Give Year 11 the Time a Big Class Can't"
 hero_heading_line2: ""
 hero_lead: "Some Milton Keynes Year 11s need a confident grade 4 or 5; others are stretching for a 7 or 8. Our Milton Keynes GCSE tutors handle both, starting from where the student actually is rather than where the syllabus says they should be."
 grade_from: "E"

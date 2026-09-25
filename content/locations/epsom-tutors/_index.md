@@ -4,7 +4,7 @@ description: One-to-one Epsom tutoring for Maths, English, Sciences and more.
   Expert tutors, flexible online lessons and proven academic results.
 layout: single
 location: Epsom
-banner_heading: Looking for a private tutor in Epsom who actually pushes results?
+banner_heading: "Looking for an online private tutor in Epsom who actually pushes results?"
 banner_description: Our Epsom tutors raise the ceiling for ambitious students,
   with one-to-one tuition matched on subject, exam board and the standard top
   universities expect.

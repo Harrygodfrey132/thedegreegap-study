@@ -7,7 +7,7 @@ location: "Watford"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors Covering Watford"
+hero_h1: "Online GCSE English Tutors Covering Watford"
 hero_lead: "English is the subject where a hardworking Watford student can revise for weeks and watch the grade sit still. Our Watford GCSE English tutors work on what actually moves it: planning under time, choosing evidence, and the writing task that carries half a paper."
 
 angle_eyebrow: "WHERE WATFORD ENGLISH MARKS GO MISSING"

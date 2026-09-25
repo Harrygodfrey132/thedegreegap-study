@@ -5,7 +5,7 @@ layout: "subject"
 location: "Solihull"
 level: "GCSE"
 
-hero_heading_line1: "Solihull GCSE Tutors for the Grades That Decide the Next Step"
+hero_heading_line1: "Online Solihull GCSE Tutors for the Grades That Decide the Next Step"
 hero_heading_line2: ""
 hero_lead: "Solihull has no grammar schools of its own, so the sorting that happens elsewhere at eleven happens here at sixteen instead. Our Solihull GCSE tutors work towards the specific numbers local sixth forms publish, rather than towards a general sense of doing well."
 

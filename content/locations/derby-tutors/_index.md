@@ -4,7 +4,7 @@ description: One-to-one Derby tutoring for Maths, English, Sciences and more.
   Expert tutors, flexible online lessons and proven academic results.
 layout: single
 location: Derby
-banner_heading: Need a Derby tutor who matches your child's ambition?
+banner_heading: "Need an online Derby tutor who matches your child's ambition?"
 banner_description: Most tutoring just covers the content again. Our Derby
   tutors find what's actually missing and build from there.
 content_angle: ambition meets foundation gaps

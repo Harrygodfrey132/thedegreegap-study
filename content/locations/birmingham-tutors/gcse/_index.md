@@ -5,7 +5,7 @@ layout: "subject"
 location: "Birmingham"
 level: "GCSE"
 
-hero_heading_line1: "Birmingham GCSE Tutors For Year 11s Working Towards Their Sixth-Form Offer"
+hero_heading_line1: "Online Birmingham GCSE Tutors For Year 11s Working Towards Their Sixth-Form Offer"
 hero_heading_line2: ""
 hero_lead: "By Year 11 most GCSE struggles trace back to a Year 8 or Year 9 topic nobody re-explained. Our Birmingham GCSE tutors find that root gap in week one and rebuild from there, well before the mock that sets the predicted grade your sixth form will see."
 

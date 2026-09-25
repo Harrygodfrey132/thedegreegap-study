@@ -5,7 +5,7 @@ layout: "subject"
 location: "Loughborough"
 level: "A-Level"
 
-hero_heading_line1: "Loughborough A-Level Tutors for the Grades a Course Actually Requires"
+hero_heading_line1: "Online Loughborough A-Level Tutors for the Grades a Course Actually Requires"
 hero_heading_line2: ""
 hero_lead: "Engineering wants Maths and Physics. Medicine wants Chemistry. Sport and Biomedical courses want the Sciences held together. Our Loughborough A-Level tutors work to the specific subject a specific course is gated on, rather than spreading an hour thinly across three."
 

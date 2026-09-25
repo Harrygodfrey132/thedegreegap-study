@@ -5,7 +5,7 @@ layout: "subject"
 location: "Winchester"
 level: "GCSE"
 
-hero_heading_line1: "Winchester GCSE Tutors Working Back From a Published Number"
+hero_heading_line1: "Online Winchester GCSE Tutors Working Back From a Published Number"
 hero_heading_line2: ""
 hero_lead: "Most of the city's Year 11s are heading to the same college, and its course requirements are specific rather than vague. Our Winchester GCSE tutors start from the grade a particular course asks for and work back to the questions currently costing it."
 

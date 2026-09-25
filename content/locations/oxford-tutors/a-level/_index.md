@@ -5,7 +5,7 @@ layout: "subject"
 location: "Oxford"
 level: "A-Level"
 
-hero_heading_line1: "Oxford A-Level Tutors For the Year 12 When Old Study Habits Break"
+hero_heading_line1: "Online Oxford A-Level Tutors For the Year 12 When Old Study Habits Break"
 hero_heading_line2: ""
 hero_lead: "Living in a university city sets a certain expectation, and by Year 12 a lot of Oxford students feel it as pressure rather than fuel. Our Oxford A-Level tutors work out where the marks are actually leaking and steady the grade before predictions reach UCAS."
 

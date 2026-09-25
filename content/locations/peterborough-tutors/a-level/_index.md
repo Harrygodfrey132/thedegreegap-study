@@ -5,7 +5,7 @@ layout: "subject"
 location: "Peterborough"
 level: "A-Level"
 
-hero_heading_line1: "Peterborough A-Level Tutors For Year 12, Before the Gap Widens"
+hero_heading_line1: "Online Peterborough A-Level Tutors For Year 12, Before the Gap Widens"
 hero_heading_line2: ""
 hero_lead: "A-Level content compounds, so a shaky first term quietly makes the second one harder. Our Peterborough A-Level tutors would rather work in Year 12 than spend Year 13 trying to catch up on two years at once."
 

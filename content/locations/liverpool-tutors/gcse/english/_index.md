@@ -7,7 +7,7 @@ location: "Liverpool"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors Covering Liverpool"
+hero_h1: "Online GCSE English Tutors Covering Liverpool"
 hero_lead: "English is the subject where Liverpool parents most often hear that their child is doing fine, right up until the mock comes back. Our Liverpool GCSE English tutors read the actual answers and find where the marks stop being awarded."
 
 angle_eyebrow: "WHERE THE GCSE ENGLISH MARKS GO IN LIVERPOOL"

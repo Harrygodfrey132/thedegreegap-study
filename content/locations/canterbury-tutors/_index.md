@@ -3,7 +3,7 @@ title: "Canterbury Tutors | GCSE and A-Level | The Degree Gap"
 description: "Canterbury tutoring for Kent Test, GCSE and A-Level students. One-to-one tutors matched on subject, exam board and the Kent selective system."
 layout: single
 location: Canterbury
-banner_heading: "Canterbury tutoring for the Kent Test and the GCSE and A-Level grades the Langton grammars expect"
+banner_heading: "Online Canterbury tutoring for the Kent Test and the GCSE and A-Level grades the Langton grammars expect"
 banner_description: "Our Canterbury tutors prepare students for the Kent Test and the GCSE and A-Level standard the Langton, Barton Court and King's sixth forms demand."
 content_angle: "exam pressure / Kent selective system"
 intro_1: "Canterbury sits inside Kent's selective grammar system. The Kent Test, in Year 6, decides whether a child goes on to Simon Langton Boys', Simon Langton Girls' or Barton Court Grammar, or to one of the other secondaries across the city. King's School Canterbury sits alongside them as one of the oldest independent schools in the country. That's a lot of academic gravity for one city, and a lot of pressure for students to be working against from a very young age."

@@ -5,7 +5,7 @@ layout: "subject"
 location: "Chesham"
 level: "GCSE"
 
-hero_heading_line1: "Chesham GCSE Tutors for the Stretch a Class of Thirty Cannot Give"
+hero_heading_line1: "Online Chesham GCSE Tutors for the Stretch a Class of Thirty Cannot Give"
 hero_heading_line2: ""
 hero_lead: "You moved out of London partly for the schools, and the schools are doing an honest job. A class of thirty with a curriculum to finish can still only stretch one student so far. Our Chesham GCSE tutors add the hour that is aimed at your child rather than the middle of the room."
 

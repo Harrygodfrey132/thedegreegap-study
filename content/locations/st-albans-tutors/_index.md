@@ -5,7 +5,7 @@ description: Find expert St Albans tutors for GCSE and A-Level support.
   success.
 layout: single
 location: St Albans
-banner_heading: St Albans tutors for the GCSE and A-Level grades that don't happen by accident
+banner_heading: "Online St Albans tutors for the GCSE and A-Level grades that don't happen by accident"
 banner_description: Specialist one-to-one tutoring for ambitious St Albans
   students in one of the country's most competitive academic catchments, exam
   board matched and mark scheme accurate.

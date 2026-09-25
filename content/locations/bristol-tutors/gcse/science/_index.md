@@ -7,7 +7,7 @@ location: "Bristol"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "GCSE Science Tutors Covering Bristol"
+hero_h1: "Online GCSE Science Tutors Covering Bristol"
 hero_lead: "One grade, three subjects, and no way of telling from a report which one is dragging. Our Bristol GCSE Science tutors mark a recent paper across all three before deciding what the sessions should actually do."
 
 angle_eyebrow: "WHERE THE GCSE SCIENCE MARKS GO IN BRISTOL"

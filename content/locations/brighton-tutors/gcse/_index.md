@@ -5,7 +5,7 @@ layout: "subject"
 location: "Brighton"
 level: "GCSE"
 
-hero_heading_line1: "Brighton GCSE Tutors Who Turn Understanding Into Marks on Exam Day"
+hero_heading_line1: "Online Brighton GCSE Tutors Who Turn Understanding Into Marks on Exam Day"
 hero_heading_line2: ""
 hero_lead: "Written plenty in class but the marks aren't showing up in the exam? Our Brighton GCSE tutors find where the answers are losing marks, an essay that never quite lands or a method that never got drilled, and rebuild it before the mocks fix a predicted grade."
 

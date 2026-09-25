@@ -5,7 +5,7 @@ layout: "subject"
 location: "Gerrards Cross"
 level: "A-Level"
 
-hero_heading_line1: "A-Level Tutors in Gerrards Cross for the Big Step Up From GCSE"
+hero_heading_line1: "Online A-Level Tutors in Gerrards Cross for the Big Step Up From GCSE"
 hero_heading_line2: ""
 hero_lead: "Lots of students who did well at GCSE get their first A-Level test back and don't recognise the mark. Our Gerrards Cross A-Level tutors help them work out what changed, an hour a week online, long before predicted grades are written."
 

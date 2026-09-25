@@ -5,7 +5,7 @@ layout: "subject"
 location: "Colchester"
 level: "GCSE"
 
-hero_heading_line1: "Colchester GCSE Tutors Working the Questions That Cost the Marks"
+hero_heading_line1: "Online Colchester GCSE Tutors Working the Questions That Cost the Marks"
 hero_heading_line2: ""
 hero_lead: "Almost every Colchester Year 11 is heading towards a place that publishes entry requirements, whether that is a school sixth form, the sixth form college or a college course. Our Colchester GCSE tutors work backwards from the number your child actually needs."
 

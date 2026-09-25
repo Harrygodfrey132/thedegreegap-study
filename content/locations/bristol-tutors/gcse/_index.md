@@ -5,7 +5,7 @@ layout: "subject"
 location: "Bristol"
 level: "GCSE"
 
-hero_heading_line1: "GCSE Tutors in Bristol Who Close the Gap the Classroom Missed"
+hero_heading_line1: "Online GCSE Tutors in Bristol Who Close the Gap the Classroom Missed"
 hero_heading_line2: ""
 hero_lead: "Our Bristol GCSE tutors move a grade the classroom couldn't, by finding the exact topic that stopped making sense. For most families that starts with a set of mocks that came back lower than the hours of revision had promised."
 

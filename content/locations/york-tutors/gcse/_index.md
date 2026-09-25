@@ -5,7 +5,7 @@ layout: "subject"
 location: "York"
 level: "GCSE"
 
-hero_heading_line1: "York GCSE Tutors For the Year 10 Term Where Content Gets Harder"
+hero_heading_line1: "Online York GCSE Tutors For the Year 10 Term Where Content Gets Harder"
 hero_heading_line2: ""
 hero_lead: "Year 10 is where the content stops being an extension of Year 9 and starts being its own thing. Our York GCSE tutors find the point where that shift lost a student, and rebuild from there rather than from wherever the class is now."
 

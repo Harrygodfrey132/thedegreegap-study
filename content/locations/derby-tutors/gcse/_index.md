@@ -5,7 +5,7 @@ description: Find experienced Derby GCSE tutors. Personalised support for Maths,
 layout: subject
 location: Derby
 level: GCSE
-hero_heading_line1: Derby GCSE Tutors Who Catch What School Misses
+hero_heading_line1: "Online Derby GCSE Tutors Who Catch What School Misses"
 hero_heading_line2: ""
 hero_lead: Year 11 mocks landing well below predicted? Our Derby GCSE tutors
   trace the gap back to where it started and fix exam technique before the next

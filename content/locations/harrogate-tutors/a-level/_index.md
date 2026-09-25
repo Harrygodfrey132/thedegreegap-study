@@ -5,7 +5,7 @@ layout: "subject"
 location: "Harrogate"
 level: "A-Level"
 
-hero_heading_line1: "Harrogate A-Level Tutors Working on the Prediction, Not Around It"
+hero_heading_line1: "Online Harrogate A-Level Tutors Working on the Prediction, Not Around It"
 hero_heading_line2: ""
 hero_lead: "A predicted grade is written months before any real paper is sat, and there is no appeal against one. Our Harrogate A-Level tutors work in the window where it is still being built, which in practice means Year 12 and the first term of Year 13."
 

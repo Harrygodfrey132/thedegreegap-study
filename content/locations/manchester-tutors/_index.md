@@ -4,7 +4,7 @@ description: One-to-one Manchester tutoring for Maths, English, Sciences and
   more. Expert tutors, flexible online lessons and proven academic results.
 layout: single
 location: Manchester
-banner_heading: Want a Manchester tutor who prepares, not just covers content?
+banner_heading: "Want an online Manchester tutor who prepares, not just covers content?"
 banner_description: The Degree Gap tutoring matches Manchester students with
   tutors who find the gap, close it, and give students the exam confidence to
   show what they know.

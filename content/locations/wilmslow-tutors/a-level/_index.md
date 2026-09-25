@@ -5,7 +5,7 @@ layout: "subject"
 location: "Wilmslow"
 level: "A-Level"
 
-hero_heading_line1: "Wilmslow A-Level Tutors for When Year 12 Suddenly Feels Much Harder"
+hero_heading_line1: "Online Wilmslow A-Level Tutors for When Year 12 Suddenly Feels Much Harder"
 hero_heading_line2: ""
 hero_lead: "Did fine at GCSE, and now the first Year 12 test has come back well below that? Our Wilmslow A-Level tutors work one-to-one online on the step up, before the Year 12 exams that feed into predicted grades."
 

@@ -5,7 +5,7 @@ layout: "subject"
 location: "Cheltenham"
 level: "A-Level"
 
-hero_heading_line1: "A-Level Tutors Covering Cheltenham, Working the Predicted Grade"
+hero_heading_line1: "Online A-Level Tutors Covering Cheltenham, Working the Predicted Grade"
 hero_heading_line2: ""
 hero_lead: "The predicted grade on a UCAS form comes out of Year 12 work and the autumn mocks, months before anyone sits a real paper. Our Cheltenham A-Level tutors get in while that evidence is still being made, rather than after it has already been written down."
 

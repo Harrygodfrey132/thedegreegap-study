@@ -7,7 +7,7 @@ location: "Epsom"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "GCSE Science Tutors Covering Epsom"
+hero_h1: "Online GCSE Science Tutors Covering Epsom"
 hero_lead: "A Science grade is an average of three subjects, and averages hide things. One of the three is usually doing the damage while the other two quietly carry it. Our Epsom GCSE Science tutors find which one, then work on that instead of revising everything a little."
 
 angle_eyebrow: "THE ONE SCIENCE HOLDING AN EPSOM GRADE DOWN"

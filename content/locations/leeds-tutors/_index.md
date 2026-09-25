@@ -4,7 +4,7 @@ description: Find expert Leeds tutors for GCSE and A-Level support. Personalised
   tuition from £37/hr to help students achieve top grades and exam success.
 layout: single
 location: Leeds
-banner_heading: Need a Leeds tutor who prepares students for what comes next?
+banner_heading: "Need an online Leeds tutor who prepares students for what comes next?"
 banner_description: The Degree Gap tutoring connects Leeds families with vetted,
   subject-specialist tutors who know what sixth forms and universities are
   actually looking for.

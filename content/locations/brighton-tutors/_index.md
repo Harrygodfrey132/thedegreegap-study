@@ -4,7 +4,7 @@ description: One-to-one Brighton tutoring for Maths, English, Sciences and more.
   Expert tutors, flexible online lessons and proven academic results.
 layout: single
 location: Brighton
-banner_heading: Need a Brighton tutor who prepares students for what comes next?
+banner_heading: "Need an online Brighton tutor who prepares students for what comes next?"
 banner_description: "The Degree Gap tutoring connects Brighton families with
   tutors who focus on the grades that open doors: sixth form entry, university
   offers, and everything in between."

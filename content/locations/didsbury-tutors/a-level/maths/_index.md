@@ -7,7 +7,7 @@ location: "Didsbury"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "A-Level Maths Tutors Covering Didsbury, for the Big Step Up From GCSE"
+hero_h1: "Online A-Level Maths Tutors Covering Didsbury, for the Big Step Up From GCSE"
 hero_lead: "A 7 or 8 at GCSE and now tests coming back with half the marks: it's one of the calls we get most in the autumn. Our Didsbury A-Level Maths tutors work one-to-one online on the part that's changed, which is usually deciding what to do, not doing it."
 
 card_eyebrow: "FREE CONSULTATION"

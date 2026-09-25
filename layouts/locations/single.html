@@ -8,7 +8,7 @@ Location tutor page content contract:
 {{ $loc := .Params.location | default "Your Area" }}
 {{ $schools := .Params.schools | default (slice "Whitgift School" "Trinity School" "Old Palace of John Whitgift School" "Croydon High School" "Archbishop Tenison's CE High School") }}
 {{ $areaLinks := .Params.area_links | default (slice "Croydon Tutors|/locations/croydon-tutors/" "Purley Tutors|/locations/purley-tutors/" "Addington Tutors|/locations/addington-tutors/" "Mitcham Tutors|/locations/mitcham-tutors/" "Bromley Tutors|/locations/bromley-tutors/" "Thornton Heath Tutors|/locations/thornton-heath-tutors/" "Tooting Tutors|/locations/tooting-tutors/" "Balham Tutors|/locations/balham-tutors/" "Streatham Tutors|/locations/streatham-tutors/") }}
-{{ $bannerHeading := .Params.banner_heading | default "Struggling to Achieve the Grades You Want?" }}
+{{ $bannerHeading := .Params.banner_heading | default "Struggling to Achieve the Grades You Want? Our Online Tutors Can Help" }}
 {{ $bannerLead := .Params.banner_description | default (.Params.banner_lead | default "Connect with top tutors from prestigious universities and start improving today.") }}
 {{ $intro1 := .Params.intro_1 | default "We founded The Degree Gap because we saw how overwhelming education can be for families. Students are asked to make life-shaping choices, face intense exam pressure, and navigate competitive university applications, often without clear guidance." }}
 {{ $intro2 := .Params.intro_2 | default (printf "That's why we work directly with schools and families in %s, delivering personalised sessions on revision strategies, exam preparation, and subject mastery." $loc) }}

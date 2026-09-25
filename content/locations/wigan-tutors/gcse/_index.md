@@ -5,7 +5,7 @@ layout: "subject"
 location: "Wigan"
 level: "GCSE"
 
-hero_heading_line1: "Wigan GCSE Tutors Who Rebuild the Topic That Stopped Clicking"
+hero_heading_line1: "Online Wigan GCSE Tutors Who Rebuild the Topic That Stopped Clicking"
 hero_heading_line2: ""
 hero_lead: "By the time most Wigan parents reach us, they've watched the homework get shorter and the answers vaguer, with no clear reason why. Our Wigan GCSE tutors take that quiet hour a couple of times a week and find the gap a busy class moved past."
 

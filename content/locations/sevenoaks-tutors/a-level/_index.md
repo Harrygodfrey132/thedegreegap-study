@@ -5,7 +5,7 @@ layout: "subject"
 location: "Sevenoaks"
 level: "A-Level"
 
-hero_heading_line1: "Sevenoaks A-Level Tutors Who Recover a Grade Before Exams Land"
+hero_heading_line1: "Online Sevenoaks A-Level Tutors Who Recover a Grade Before Exams Land"
 hero_heading_line2: ""
 hero_lead: "A subject that felt fine in Year 12 can come apart when Year 13 asks for real depth, and the predicted grade slides with it. Our Sevenoaks A-Level tutors find where the marks are going and rebuild the technique in time to change the grade the papers give back."
 

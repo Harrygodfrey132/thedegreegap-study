@@ -5,7 +5,7 @@ description: Find expert Cambridge tutors for GCSE and A-Level support.
   success.
 layout: single
 location: Cambridge
-banner_heading: Need a Cambridge tutor who understands what top grades actually take?
+banner_heading: "Need an online Cambridge tutor who understands what top grades actually take?"
 banner_description: The Degree Gap tutoring matches students with tutors who
   know the standard Hills Road and the top universities expect, and how to get
   there.

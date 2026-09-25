@@ -5,7 +5,7 @@ description: Find expert Portsmouth tutors for GCSE and A-Level support.
   success.
 layout: single
 location: Portsmouth
-banner_heading: Looking for a Portsmouth tutor who actually diagnoses the problem?
+banner_heading: "Looking for an online Portsmouth tutor who actually diagnoses the problem?"
 banner_description: Most tutoring just follows the school timetable. Our
   Portsmouth tutors start by finding what's been missed, then build a proper
   plan around it.

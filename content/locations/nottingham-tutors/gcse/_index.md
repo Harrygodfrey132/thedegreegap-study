@@ -4,7 +4,7 @@ description: "Nottingham GCSE tutors who find the gap behind a stuck grade and r
 layout: "subject"
 location: "Nottingham"
 level: "GCSE"
-hero_heading_line1: "Nottingham GCSE Tutors For the Year 11 Whose Grades Have Stalled"
+hero_heading_line1: "Online Nottingham GCSE Tutors For the Year 11 Whose Grades Have Stalled"
 hero_heading_line2: ""
 hero_lead: "By the time most Nottingham parents get in touch, they've watched the homework get harder and the answers get shorter for weeks. Our Nottingham GCSE tutors step into that quiet hour a couple of times a week and find the gap nobody has had time to name."
 grade_from: "E"

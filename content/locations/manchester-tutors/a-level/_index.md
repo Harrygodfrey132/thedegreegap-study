@@ -5,7 +5,7 @@ layout: "subject"
 location: "Manchester"
 level: "A-Level"
 
-hero_heading_line1: "Manchester A-Level Tutors For UCAS Offers and the City's Best Apprenticeships"
+hero_heading_line1: "Online Manchester A-Level Tutors For UCAS Offers and the City's Best Apprenticeships"
 hero_heading_line2: ""
 hero_lead: "Predicted grades arriving below the offer you had in mind. Our Manchester A-Level tutors lift students into the band the University of Manchester, the wider Russell Group, and the city's degree-apprenticeship schemes are actually asking for."
 

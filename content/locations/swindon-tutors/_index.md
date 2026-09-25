@@ -5,7 +5,7 @@ description: Find expert Swindon tutors for GCSE and A-Level support.
   success.
 layout: single
 location: Swindon
-banner_heading: Expert Swindon tutors for GCSE and A-Level
+banner_heading: "Expert online Swindon tutors for GCSE and A-Level"
 banner_description: Our Swindon tutors close the foundation gaps that hold
   students back at GCSE, and build the grades that post-16 entry demands.
 content_angle: foundation gaps

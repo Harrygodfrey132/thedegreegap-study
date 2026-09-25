@@ -5,7 +5,7 @@ description: Find expert Coventry tutors for GCSE and A-Level support.
   success.
 layout: single
 location: Coventry
-banner_heading: Looking for a Coventry tutor who goes beyond covering the syllabus?
+banner_heading: "Looking for an online Coventry tutor who goes beyond covering the syllabus?"
 banner_description: Most tutoring repeats what school already taught. Our
   Coventry tutors find the exact point where understanding broke down and build
   from there.

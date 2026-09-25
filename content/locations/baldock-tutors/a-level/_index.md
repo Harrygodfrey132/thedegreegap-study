@@ -6,7 +6,7 @@ description: Baldock A-Level tutors helping students improve grades, secure A*
 layout: subject
 location: Baldock
 level: A-Level
-hero_heading_line1: A-Level Tutors in Baldock For the Year 12 Step Up
+hero_heading_line1: "Online A-Level Tutors in Baldock For the Year 12 Step Up"
 hero_heading_line2: ""
 hero_lead: By October of Year 12, A-Level Maths can look nothing like the GCSE
   Maths your child earned an 8 in last summer. Our Baldock A-Level tutors close

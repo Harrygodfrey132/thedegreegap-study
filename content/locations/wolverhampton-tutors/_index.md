@@ -4,7 +4,7 @@ description: One-to-one Wolverhampton tutoring for Maths, English, Sciences and
   more. Expert tutors, flexible online lessons and proven academic results.
 layout: single
 location: Wolverhampton
-banner_heading: Wolverhampton tutors who treat ambition as the starting point, not the ceiling
+banner_heading: "Online Wolverhampton tutors who treat ambition as the starting point, not the ceiling"
 banner_description: The Degree Gap pairs Wolverhampton students with tutors who
   teach to the top of the mark scheme, not the comfortable middle, and know
   exactly what the longer-mark questions reward.

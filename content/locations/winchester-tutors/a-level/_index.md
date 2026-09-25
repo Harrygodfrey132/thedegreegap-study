@@ -5,7 +5,7 @@ layout: "subject"
 location: "Winchester"
 level: "A-Level"
 
-hero_heading_line1: "Winchester A-Level Tutors for the Feedback a Big College Cannot Give"
+hero_heading_line1: "Online Winchester A-Level Tutors for the Feedback a Big College Cannot Give"
 hero_heading_line2: ""
 hero_lead: "Moving from a school year group into a college of thousands changes how much individual attention a student gets, overnight. Our Winchester A-Level tutors restore the one thing lost in that move, which is somebody reading what your child actually wrote."
 

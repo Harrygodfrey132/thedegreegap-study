@@ -5,7 +5,7 @@ layout: "subject"
 location: "Solihull"
 level: "A-Level"
 
-hero_heading_line1: "Solihull A-Level Tutors for Whichever Gate Your Child Is Walking Through"
+hero_heading_line1: "Online Solihull A-Level Tutors for Whichever Gate Your Child Is Walking Through"
 hero_heading_line2: ""
 hero_lead: "Not every Solihull student is aiming at university, and the borough's biggest employers ask for grades too. Our Solihull A-Level tutors work to the requirement that actually applies, whether that is a UCAS offer or a degree apprenticeship at Jaguar Land Rover."
 

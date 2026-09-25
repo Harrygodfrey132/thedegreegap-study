@@ -7,7 +7,7 @@ location: "Sheffield"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors Covering Sheffield"
+hero_h1: "Online GCSE English Tutors Covering Sheffield"
 hero_lead: "The essays come back with comments a parent can't act on and a grade that hasn't shifted in a year. Our Sheffield GCSE English tutors mark the student's own writing against the assessment objectives and show them exactly where the marks stopped."
 
 angle_eyebrow: "WHERE THE GCSE ENGLISH MARKS GO IN SHEFFIELD"

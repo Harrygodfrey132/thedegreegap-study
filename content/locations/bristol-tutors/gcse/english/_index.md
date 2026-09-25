@@ -7,7 +7,7 @@ location: "Bristol"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors Covering Bristol"
+hero_h1: "Online GCSE English Tutors Covering Bristol"
 hero_lead: "English is the subject where the feedback is hardest for a parent to act on. Our Bristol GCSE English tutors take the student's own essay, mark it against the assessment objectives, and show them the exact sentence where the marks stopped."
 
 angle_eyebrow: "WHERE THE GCSE ENGLISH MARKS GO IN BRISTOL"

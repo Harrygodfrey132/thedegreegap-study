@@ -5,7 +5,7 @@ layout: "subject"
 location: "Beaconsfield"
 level: "A-Level"
 
-hero_heading_line1: "Beaconsfield A-Level Tutors for the Year 12 Wobble Nobody Warned You About"
+hero_heading_line1: "Online Beaconsfield A-Level Tutors for the Year 12 Wobble Nobody Warned You About"
 hero_heading_line2: ""
 hero_lead: "Plenty of students who sailed through GCSEs come home in the first term of Year 12 with a test mark that shocks everyone. Our Beaconsfield A-Level tutors work one-to-one online to find where it went wrong while there's still lots of time."
 

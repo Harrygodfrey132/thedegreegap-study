@@ -5,7 +5,7 @@ layout: "subject"
 location: "Exeter"
 level: "A-Level"
 
-hero_heading_line1: "Exeter A-Level Tutors for the Step Up Nobody Warns Students About"
+hero_heading_line1: "Online Exeter A-Level Tutors for the Step Up Nobody Warns Students About"
 hero_heading_line2: ""
 hero_lead: "Moving from a school year group into a college of thousands changes how much individual attention a student gets, overnight. Our Exeter A-Level tutors put back the one thing that goes missing in that move, which is somebody reading what your child actually wrote."
 

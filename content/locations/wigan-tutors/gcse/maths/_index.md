@@ -7,7 +7,7 @@ location: "Wigan"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors Covering Wigan"
+hero_h1: "Online GCSE Maths Tutors Covering Wigan"
 hero_lead: "By the time most Wigan parents reach us about GCSE Maths, the effort is there but the paper keeps coming back short of the grade Winstanley or St John Rigby will want. Our Wigan GCSE Maths tutors trace the marks back to where they leak and rebuild from there."
 
 angle_eyebrow: "WHERE THE GCSE MATHS MARKS GO IN WIGAN"

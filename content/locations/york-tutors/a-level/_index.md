@@ -5,7 +5,7 @@ layout: "subject"
 location: "York"
 level: "A-Level"
 
-hero_heading_line1: "York A-Level Tutors For the Year 13 Mock That Sets the UCAS Prediction"
+hero_heading_line1: "Online York A-Level Tutors For the Year 13 Mock That Sets the UCAS Prediction"
 hero_heading_line2: ""
 hero_lead: "The January mock in Year 13 does more work than any other paper a student sits, because the prediction that goes to UCAS comes out of it. Our York A-Level tutors aim at that date rather than at the summer."
 

@@ -5,7 +5,7 @@ layout: "subject"
 location: "Swindon"
 level: "GCSE"
 
-hero_heading_line1: "Swindon GCSE Tutors Who Fix What Extra Revision Has Not"
+hero_heading_line1: "Online Swindon GCSE Tutors Who Fix What Extra Revision Has Not"
 hero_heading_line2: ""
 hero_lead: "More hours at the desk is the first thing every family tries and the least reliable thing that works. Our Swindon GCSE tutors find the handful of question types actually costing marks, then spend the sessions on those."
 

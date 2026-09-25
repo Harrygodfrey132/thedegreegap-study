@@ -5,7 +5,7 @@ layout: "subject"
 location: "Watford"
 level: "GCSE"
 
-hero_heading_line1: "Watford GCSE Tutors For the One-to-One Time a Busy Class Can't Give"
+hero_heading_line1: "Online Watford GCSE Tutors For the One-to-One Time a Busy Class Can't Give"
 hero_heading_line2: ""
 hero_lead: "Watford runs on commuter time, and by the time parents are back from Euston the homework is half-done and half-avoided. Our Watford GCSE tutors take a quiet hour a couple of evenings a week and find the gap the class moved past too fast."
 

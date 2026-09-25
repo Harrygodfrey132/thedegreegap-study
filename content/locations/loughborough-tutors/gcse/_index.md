@@ -5,7 +5,7 @@ layout: "subject"
 location: "Loughborough"
 level: "GCSE"
 
-hero_heading_line1: "Loughborough GCSE Tutors Who Explain It a Second and Third Way"
+hero_heading_line1: "Online Loughborough GCSE Tutors Who Explain It a Second and Third Way"
 hero_heading_line2: ""
 hero_lead: "Plenty of Loughborough parents can do the Maths themselves and have already tried teaching it at the kitchen table. Our Loughborough GCSE tutors are for the point after that, when it is clear the problem is not the content but how it is being explained."
 

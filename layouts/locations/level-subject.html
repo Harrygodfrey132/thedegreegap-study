@@ -7,7 +7,7 @@
 {{ $isAlevel := eq $level "A-Level" }}
 
 {{/* ── Hero ── */}}
-{{ $heroH1   := .Params.hero_h1   | default (printf "%s %s Tutors in %s" $level $subject $loc) }}
+{{ $heroH1   := .Params.hero_h1   | default (printf "Online %s %s Tutors in %s" $level $subject $loc) }}
 {{ $heroLead := .Params.hero_lead | default (printf "One-to-one %s %s tutors who fit around school, find the exact marks slipping in the top mark band, and rebuild from there. Vetted, matched to your exam board, online from £37/hr." (lower $subject) $level) }}
 
 {{/* ── Consultation card (per-page overridable) ── */}}

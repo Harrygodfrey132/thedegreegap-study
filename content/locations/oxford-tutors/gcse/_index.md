@@ -5,7 +5,7 @@ layout: "subject"
 location: "Oxford"
 level: "GCSE"
 
-hero_heading_line1: "Oxford GCSE Tutors For the Year 11 Who's Working Hard but Stuck"
+hero_heading_line1: "Online Oxford GCSE Tutors For the Year 11 Who's Working Hard but Stuck"
 hero_heading_line2: ""
 hero_lead: "Most Oxford parents come to us after a quiet few weeks: the homework getting shorter, the shrugs getting longer, no clear answer to what's wrong. Our Oxford GCSE tutors take that hour a couple of times a week and find the gap the class was moving too fast to catch."
 

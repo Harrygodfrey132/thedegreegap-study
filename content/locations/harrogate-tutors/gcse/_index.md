@@ -5,7 +5,7 @@ layout: "subject"
 location: "Harrogate"
 level: "GCSE"
 
-hero_heading_line1: "Harrogate GCSE Tutors for the Hour Built Around One Student"
+hero_heading_line1: "Online Harrogate GCSE Tutors for the Hour Built Around One Student"
 hero_heading_line2: ""
 hero_lead: "Most Harrogate parents who reach us are not unhappy with the school. The report is fine, the teaching is good, and the mock still came back below what the family hoped. Our Harrogate GCSE tutors add the thing a class of thirty cannot, which is a plan aimed at one student."
 

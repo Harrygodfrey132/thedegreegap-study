@@ -3,7 +3,7 @@ title: "Banbury Tutoring | Expert Support | The Degree Gap"
 description: "Banbury tutoring for GCSE and A-Level students. One-to-one tutors who trace gaps back to the root and rebuild from there, matched on subject and exam board."
 layout: single
 location: Banbury
-banner_heading: "Banbury tutors who go back to where the gap started, not just where the syllabus is now"
+banner_heading: "Online Banbury tutors who go back to where the gap started, not just where the syllabus is now"
 banner_description: "Our Banbury tutoring starts with what's actually holding the grade back, not the next chapter of the textbook."
 content_angle: "foundation gaps"
 intro_1: "Sometimes the problem isn't this week's homework. It's a Year 8 topic, two years back, that never quite clicked. By GCSE that gap has had time to spread. Algebra that the Year 11 textbook treats as background knowledge is the bit a student is still quietly working around. Essay structure that the Year 10 teacher mentioned once becomes the reason a B grade won't move. Most Banbury parents who get in touch describe a version of this, and the pattern is almost always the same."

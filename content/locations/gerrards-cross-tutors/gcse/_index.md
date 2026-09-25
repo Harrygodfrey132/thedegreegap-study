@@ -5,7 +5,7 @@ layout: "subject"
 location: "Gerrards Cross"
 level: "GCSE"
 
-hero_heading_line1: "Gerrards Cross GCSE Tutors Who Find the Topic Behind a Disappointing Mock"
+hero_heading_line1: "Online Gerrards Cross GCSE Tutors Who Find the Topic Behind a Disappointing Mock"
 hero_heading_line2: ""
 hero_lead: "The mock comes home a grade lower than anyone expected, and your child can't really tell you why. Our Gerrards Cross GCSE tutors sit down with that paper, find where the marks went, and work on it one hour a week, online."
 

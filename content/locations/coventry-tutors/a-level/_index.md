@@ -5,7 +5,7 @@ layout: "subject"
 location: "Coventry"
 level: "A-Level"
 
-hero_heading_line1: "Coventry A-Level Tutors For Students Whose GCSE Habits Stopped Working"
+hero_heading_line1: "Online Coventry A-Level Tutors For Students Whose GCSE Habits Stopped Working"
 hero_heading_line2: ""
 hero_lead: "A grade 8 at GCSE Maths doesn't always carry into Year 12, and by the end of the year the mock is already shaping what UCAS sees. Our Coventry A-Level tutors find where the depth is leaking marks and rebuild it before the predictions are set."
 

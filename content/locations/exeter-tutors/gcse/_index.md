@@ -5,7 +5,7 @@ layout: "subject"
 location: "Exeter"
 level: "GCSE"
 
-hero_heading_line1: "Exeter GCSE Tutors Working Backwards From the Grade That Is Needed"
+hero_heading_line1: "Online Exeter GCSE Tutors Working Backwards From the Grade That Is Needed"
 hero_heading_line2: ""
 hero_lead: "Almost every Year 11 in this city is heading to one place after GCSEs, and it publishes what it wants. Our Exeter GCSE tutors start from the number your child's course actually asks for and work back to the questions currently costing it."
 

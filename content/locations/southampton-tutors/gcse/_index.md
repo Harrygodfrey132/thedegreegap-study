@@ -5,7 +5,7 @@ layout: "subject"
 location: "Southampton"
 level: "GCSE"
 
-hero_heading_line1: "Southampton GCSE Tutors Who Get Year 11 Ready for a College Offer"
+hero_heading_line1: "Online Southampton GCSE Tutors Who Get Year 11 Ready for a College Offer"
 hero_heading_line2: ""
 hero_lead: "In Southampton the March mocks quietly become the predicted grade a sixth-form college sees, and the place a student wants can turn on a single subject. Our Southampton GCSE tutors find where the marks are leaking and rebuild the method before that window closes."
 

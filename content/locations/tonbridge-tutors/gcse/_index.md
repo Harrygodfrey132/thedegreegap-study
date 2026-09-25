@@ -5,7 +5,7 @@ layout: "subject"
 location: "Tonbridge"
 level: "GCSE"
 
-hero_heading_line1: "Tonbridge GCSE Tutors for the Sixth Form Place Your Child Is Hoping For"
+hero_heading_line1: "Online Tonbridge GCSE Tutors for the Sixth Form Place Your Child Is Hoping For"
 hero_heading_line2: ""
 hero_lead: "By Year 11 the sixth form question is suddenly real, and every one of them asks for GCSE grades in its own way. Our Tonbridge GCSE tutors work one-to-one online on whichever grade is standing between your child and the place they want."
 

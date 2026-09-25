@@ -4,7 +4,7 @@ description: One-to-one Southampton tutoring for Maths, English, Sciences and
   more. Expert tutors, flexible online lessons and proven academic results.
 layout: single
 location: Southampton
-banner_heading: Looking for a Southampton tutor who actually changes results?
+banner_heading: "Looking for an online Southampton tutor who actually changes results?"
 banner_description: Most tutoring covers this week's topic. Our Southampton
   tutors go back further, find where things stopped making sense, and fix it
   from there.

@@ -3,7 +3,7 @@ title: "Hatfield Private Tutors | Expert Support | The Degree Gap"
 description: "Find a Hatfield tutor for GCSE and A-Level support. One-to-one tutoring from £37/hr, matched to subject, exam board and the way your child learns."
 layout: single
 location: Hatfield
-banner_heading: "Looking for a Hatfield tutor who can actually shift the grade?"
+banner_heading: "Looking for an online Hatfield tutor who can actually shift the grade?"
 banner_description: "Our Hatfield tutors work one-to-one with students on the specific gap that's holding their grade back, not the whole syllabus all over again."
 content_angle: "school environment / mixed attainment"
 intro_1: "Most Hatfield parents who come to us are tired of having the same conversation. The Year 9 report came back lower than expected. The Year 11 mocks confirmed something they'd been quietly worrying about for months. Effort isn't the problem. The phone goes in a drawer, the revision timetable gets stuck to the fridge, but the grades don't move. And it's hard to know whether the issue is the topic, the technique, or just how stretched a class of 30 is going to be when the curriculum has to keep moving."

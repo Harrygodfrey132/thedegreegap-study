@@ -5,7 +5,7 @@ layout: "subject"
 location: "Stratford-upon-Avon"
 level: "A-Level"
 
-hero_heading_line1: "A-Level Tutors Covering Stratford-upon-Avon and South Warwickshire"
+hero_heading_line1: "Online A-Level Tutors Covering Stratford-upon-Avon and South Warwickshire"
 hero_heading_line2: ""
 hero_lead: "The distance from a B to an A is usually content. The step from an A to an A* almost never is. Our Stratford-upon-Avon A-Level tutors teach the judgement that decides the top band, because it is rarely taught anywhere else."
 

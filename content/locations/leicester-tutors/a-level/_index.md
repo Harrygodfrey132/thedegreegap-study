@@ -4,7 +4,7 @@ description: "Leicester A-Level tutors who close the depth gap that costs marks 
 layout: "subject"
 location: "Leicester"
 level: "A-Level"
-hero_heading_line1: "Leicester A-Level Tutors Who Close the Gap Between Knowing It and Showing It"
+hero_heading_line1: "Online Leicester A-Level Tutors Who Close the Gap Between Knowing It and Showing It"
 hero_heading_line2: ""
 hero_lead: "Our Leicester A-Level tutors lift predicted grades by a band, sometimes two. Most students start in Year 12, ahead of the mocks that fix what UCAS eventually sees."
 grade_from: "C"

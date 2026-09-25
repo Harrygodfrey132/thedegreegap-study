@@ -7,7 +7,7 @@ location: "Epsom"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors Covering Epsom"
+hero_h1: "Online GCSE English Tutors Covering Epsom"
 hero_lead: "An English grade decides more sixth-form options than any other subject, because it sits on almost every entry requirement whether or not your child intends to study it. Our Epsom GCSE English tutors work the analysis and timing that move an essay from solid to top band."
 
 angle_eyebrow: "WHY EPSOM ENGLISH ESSAYS STOP SHORT"

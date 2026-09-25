@@ -4,7 +4,7 @@ description: One-to-one Bristol tutoring for Maths, English, Sciences and more.
   Expert tutors, flexible online lessons and proven academic results.
 layout: single
 location: Bristol
-banner_heading: Need a Bristol tutor who prepares students for the grades that matter?
+banner_heading: "Need an online Bristol tutor who prepares students for the grades that matter?"
 banner_description: The Degree Gap tutoring connects Bristol families with
   tutors who understand what sixth form entry and university applications
   actually demand, and who build a plan around getting there.

@@ -7,7 +7,7 @@ location: "Tonbridge"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors Covering Tonbridge"
+hero_h1: "Online GCSE English Tutors Covering Tonbridge"
 hero_lead: "Plenty of Tonbridge children read loads and still come out of an English mock wondering what went wrong. Our Tonbridge GCSE English tutors work on the parts reading alone doesn't fix: planning an essay, remembering quotations and finishing inside the time."
 
 card_eyebrow: "FREE CONSULTATION"

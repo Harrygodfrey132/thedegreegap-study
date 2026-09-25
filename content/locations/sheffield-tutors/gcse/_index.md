@@ -4,7 +4,7 @@ description: "Sheffield GCSE tutors who trace a slipping grade back to its root 
 layout: "subject"
 location: "Sheffield"
 level: "GCSE"
-hero_heading_line1: "Sheffield GCSE Tutors Who Find Where a Grade Quietly Slipped"
+hero_heading_line1: "Online Sheffield GCSE Tutors Who Find Where a Grade Quietly Slipped"
 hero_heading_line2: ""
 hero_lead: "A grade that was fine in Year 9 starts wobbling in Year 10, and nobody can quite say why. Our Sheffield GCSE tutors trace it back to the topic that first cracked and rebuild from there, before mocks turn a wobble into a predicted grade."
 grade_from: "5"

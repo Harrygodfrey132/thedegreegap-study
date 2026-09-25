@@ -5,7 +5,7 @@ layout: "subject"
 location: "Wigan"
 level: "A-Level"
 
-hero_heading_line1: "Wigan A-Level Tutors For Students Feeling the Year 12 Jump"
+hero_heading_line1: "Online Wigan A-Level Tutors For Students Feeling the Year 12 Jump"
 hero_heading_line2: ""
 hero_lead: "Our Wigan A-Level tutors close the gap that opens when Year 12 moves faster than a class can slow down for. Most students start ahead of the mocks that set their UCAS predictions, while there's still time to change the number."
 

@@ -5,7 +5,7 @@ layout: "subject"
 location: "Epsom"
 level: "GCSE"
 
-hero_heading_line1: "Epsom GCSE Tutors Who Restart a Grade That Stopped Climbing"
+hero_heading_line1: "Online Epsom GCSE Tutors Who Restart a Grade That Stopped Climbing"
 hero_heading_line2: ""
 hero_lead: "The mock came back fine, but fine isn't what the sixth-form race in this part of Surrey rewards, and the grade has quietly stopped moving. Our Epsom GCSE tutors find the topic holding it back and rebuild the method until the marks climb again."
 

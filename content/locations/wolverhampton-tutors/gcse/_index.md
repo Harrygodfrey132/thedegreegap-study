@@ -5,7 +5,7 @@ layout: "subject"
 location: "Wolverhampton"
 level: "GCSE"
 
-hero_heading_line1: "Wolverhampton GCSE Tutors Who Take Ambition as the Starting Point"
+hero_heading_line1: "Online Wolverhampton GCSE Tutors Who Take Ambition as the Starting Point"
 hero_heading_line2: ""
 hero_lead: "Plenty of Wolverhampton students are aiming well past what their current predicted grade suggests, and nobody has had time to show them how to get there. Our Wolverhampton GCSE tutors work on the technique that closes that distance."
 

@@ -5,7 +5,7 @@ layout: "subject"
 location: "Manchester"
 level: "GCSE"
 
-hero_heading_line1: "Manchester GCSE Tutors Who Hit the Subject Grade Sixth Forms Want"
+hero_heading_line1: "Online Manchester GCSE Tutors Who Hit the Subject Grade Sixth Forms Want"
 hero_heading_line2: ""
 hero_lead: "By the time most Manchester parents reach us, the homework has been getting shorter and the predicted grade has quietly slipped from a 6 to a 5. Our Manchester GCSE tutors step into the hour after dinner a few times a week and find the topic that's been costing the marks."
 

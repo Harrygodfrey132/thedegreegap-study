@@ -5,7 +5,7 @@ description: Find expert Exeter tutors for GCSE and A-Level support.
   success.
 layout: single
 location: Exeter
-banner_heading: Need a tutor in Exeter who knows what top grades take?
+banner_heading: "Need an online tutor in Exeter who knows what top grades take?"
 banner_description: Our Exeter tutors prepare students for the entry grades
   Exeter College requires and the top university courses beyond it, with the
   precision a busy classroom can't match.

@@ -5,7 +5,7 @@ description: Find experienced Baldock GCSE tutors. Personalised support for
 layout: subject
 location: Baldock
 level: GCSE
-hero_heading_line1: Baldock GCSE Tutors For the Year 11 Predicted-Grade Squeeze
+hero_heading_line1: "Online Baldock GCSE Tutors For the Year 11 Predicted-Grade Squeeze"
 hero_heading_line2: ""
 hero_lead: By the time most Baldock parents reach us, the school report still
   says 'working hard' but the mocks are coming back lower than expected. Our

@@ -5,7 +5,7 @@ layout: "subject"
 location: "Sevenoaks"
 level: "GCSE"
 
-hero_heading_line1: "Sevenoaks GCSE Tutors Who Catch the Topic a Fast Class Moved Past"
+hero_heading_line1: "Online Sevenoaks GCSE Tutors Who Catch the Topic a Fast Class Moved Past"
 hero_heading_line2: ""
 hero_lead: "By Year 11, most GCSE trouble traces back to a topic from Year 8 or 9 nobody had time to re-explain, and in a fast West Kent classroom that's easy to miss. Our Sevenoaks GCSE tutors find that root gap in the first session and rebuild from there."
 

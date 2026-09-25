@@ -4,7 +4,7 @@ description: "Leeds GCSE tutors who trace the gap back to where it started and r
 layout: "subject"
 location: "Leeds"
 level: "GCSE"
-hero_heading_line1: "Leeds GCSE Tutors Who Find the Gap Behind a Slipping Mock Grade"
+hero_heading_line1: "Online Leeds GCSE Tutors Who Find the Gap Behind a Slipping Mock Grade"
 hero_heading_line2: ""
 hero_lead: "By Year 11, most GCSE struggles trace back to a Year 8 or 9 topic nobody had time to re-explain. Our Leeds GCSE tutors find that root gap in the first session and rebuild from there, before mocks turn it into a predicted grade."
 grade_from: "5"

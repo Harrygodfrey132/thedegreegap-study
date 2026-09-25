@@ -5,8 +5,7 @@ description: Find expert Royal Leamington Spa tutors for GCSE and A-Level
   and exam success.
 layout: single
 location: Royal Leamington Spa
-banner_heading: Royal Leamington Spa tutors for students who know what they want
-  their predicted grade to look like
+banner_heading: "Online Royal Leamington Spa tutors for students who know what they want their predicted grade to look like"
 banner_description: Most tutoring works for the middle of the room. Ours is
   built around finding the tutor who knows your child's spec and can drill the
   technique that decides the top band.

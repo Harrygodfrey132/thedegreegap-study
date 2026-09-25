@@ -4,7 +4,7 @@ description: One-to-one Leicester tutoring for Maths, English, Sciences and
   more. Expert tutors, flexible online lessons and proven academic results.
 layout: single
 location: Leicester
-banner_heading: Need a Leicester tutor who turns ambition into the right grades?
+banner_heading: "Need an online Leicester tutor who turns ambition into the right grades?"
 banner_description: The Degree Gap tutoring matches Leicester students with
   tutors who close that gap, one session at a time.
 content_angle: ambition gap

@@ -5,7 +5,7 @@ layout: "subject"
 location: "Tunbridge Wells"
 level: "A-Level"
 
-hero_heading_line1: "A-Level Tutors in Tunbridge Wells For Students Meeting Their First Real Wall"
+hero_heading_line1: "Online A-Level Tutors in Tunbridge Wells For Students Meeting Their First Real Wall"
 hero_heading_line2: ""
 hero_lead: "For a lot of Tunbridge Wells students, A-Level is the first time hard work alone stops being enough, and the Year 12 grades show it. Our Tunbridge Wells A-Level tutors find where the subject changed shape and rebuild the study around it, well before UCAS predictions go in."
 

@@ -3,7 +3,7 @@ title: "Chesham GCSE and A-Level Tutors | The Degree Gap"
 description: "Chesham tutoring for the 11+, GCSE and A-Level. One-to-one tutors matched on subject, exam board, and the standard the local grammars are calibrated to."
 layout: single
 location: Chesham
-banner_heading: "Want a Chesham tutor who can stretch a student past where the class is set?"
+banner_heading: "Want an online Chesham tutor who can stretch a student past where the class is set?"
 banner_description: "Our Chesham tutoring is built around what each student actually needs next, with tutors matched on subject, exam board and target grade."
 content_angle: "ambition / commuter belt"
 intro_1: "A lot of Chesham families come to us with the same story. They moved out of London for the schools and the space. They expected the schools would carry the academic load that the move was supposed to make easier. And in most cases the schools do an honest job. But a class of 30, with a curriculum that has to move, can only stretch a strong student so far. By Year 10 a parent often notices their child is bright, doing the work, and quietly coasting at a grade band below what they're capable of."

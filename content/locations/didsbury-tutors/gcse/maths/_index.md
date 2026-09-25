@@ -7,7 +7,7 @@ location: "Didsbury"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "GCSE Maths Tutors Covering Didsbury, for the Grade Every Sixth Form Checks First"
+hero_h1: "Online GCSE Maths Tutors Covering Didsbury, for the Grade Every Sixth Form Checks First"
 hero_lead: "If your child is working hard and the Maths grade still isn't moving, you're not alone, and it can be turned around. Our Didsbury GCSE Maths tutors work one-to-one online, going back to the method that first went wrong, often algebra from Year 8."
 
 card_eyebrow: "FREE CONSULTATION"

@@ -5,7 +5,7 @@ layout: "subject"
 location: "Tonbridge"
 level: "A-Level"
 
-hero_heading_line1: "Tonbridge A-Level Tutors for the Year 12 Step Up Nobody Quite Warns You About"
+hero_heading_line1: "Online Tonbridge A-Level Tutors for the Year 12 Step Up Nobody Quite Warns You About"
 hero_heading_line2: ""
 hero_lead: "A good set of GCSEs, then a first Year 12 test that comes back a couple of grades lower. It happens far more than parents think, and our Tonbridge A-Level tutors work one-to-one online to find out why."
 

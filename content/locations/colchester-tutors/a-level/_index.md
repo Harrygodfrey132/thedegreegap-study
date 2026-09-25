@@ -5,7 +5,7 @@ layout: "subject"
 location: "Colchester"
 level: "A-Level"
 
-hero_heading_line1: "Colchester A-Level Tutors for the Year That Sets the Prediction"
+hero_heading_line1: "Online Colchester A-Level Tutors for the Year That Sets the Prediction"
 hero_heading_line2: ""
 hero_lead: "Most Colchester students move from a school of a few hundred into a sixth form of a few thousand, and the amount of individual attention changes overnight. Our Colchester A-Level tutors put back the one thing that gets lost in that move, which is somebody reading what your child actually wrote."
 

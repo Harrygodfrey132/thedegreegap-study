@@ -5,7 +5,7 @@ layout: "subject"
 location: "Royal Leamington Spa"
 level: "A-Level"
 
-hero_heading_line1: "A-Level Tutors Covering Royal Leamington Spa and the Warwick District"
+hero_heading_line1: "Online A-Level Tutors Covering Royal Leamington Spa and the Warwick District"
 hero_heading_line2: ""
 hero_lead: "A-Level rewards a way of working that GCSE never asked for, and most students are expected to pick it up on their own. Our Royal Leamington Spa A-Level tutors teach it deliberately, in the term where it still feeds the predicted grade rather than after."
 

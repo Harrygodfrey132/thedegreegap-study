@@ -7,7 +7,7 @@ location: "Didsbury"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "GCSE Science Tutors Covering Didsbury, for Students Eyeing Science at Sixth Form"
+hero_h1: "Online GCSE Science Tutors Covering Didsbury, for Students Eyeing Science at Sixth Form"
 hero_lead: "A combined Science grade can hide the fact that one of the three is doing all the damage. Our Didsbury GCSE Science tutors work one-to-one online, find the weak science first, and start there, whether it's Chemistry calculations or the six-mark Biology answers."
 
 card_eyebrow: "FREE CONSULTATION"

@@ -7,7 +7,7 @@ location: "Cambridge"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "GCSE English Tutors Covering Cambridge"
+hero_h1: "Online GCSE English Tutors Covering Cambridge"
 hero_lead: "Two Cambridge students can hand in essays of much the same quality and be graded a band apart, and the difference is almost always structure rather than insight. Our Cambridge GCSE English tutors work on argument, evidence and timing, the three things that decide where an answer lands."
 
 angle_eyebrow: "WHERE CAMBRIDGE ENGLISH MARKS GO MISSING"

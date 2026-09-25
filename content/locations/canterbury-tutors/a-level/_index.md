@@ -5,7 +5,7 @@ layout: "subject"
 location: "Canterbury"
 level: "A-Level"
 
-hero_heading_line1: "Canterbury A-Level Tutors Built for the Russell Group Conditional Push"
+hero_heading_line1: "Online Canterbury A-Level Tutors Built for the Russell Group Conditional Push"
 hero_heading_line2: ""
 hero_lead: "By the time most Canterbury parents reach us, the Year 13 mock has come back and the predicted grade is sitting a band below the offer. Our Canterbury A-Level tutors find what's missing on the page (content, evaluation, exam-day pacing), then close the gap before predictions are submitted."
 

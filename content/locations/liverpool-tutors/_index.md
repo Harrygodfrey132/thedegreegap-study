@@ -4,7 +4,7 @@ description: One-to-one Liverpool tutoring for Maths, English, Sciences and
   more. Expert tutors, flexible online lessons and proven academic results.
 layout: single
 location: Liverpool
-banner_heading: Need a Liverpool tutor who actually closes the gap?
+banner_heading: "Need an online Liverpool tutor who actually closes the gap?"
 banner_description: Our Liverpool tutors identify exactly where things stopped
   making sense and build a plan around that, not a generic programme that
   assumes everyone starts from the same place.

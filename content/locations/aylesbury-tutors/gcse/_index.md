@@ -5,7 +5,7 @@ layout: "subject"
 location: "Aylesbury"
 level: "GCSE"
 
-hero_heading_line1: "GCSE Tutors in Aylesbury Who Rebuild the Method That Slipped"
+hero_heading_line1: "Online GCSE Tutors in Aylesbury Who Rebuild the Method That Slipped"
 hero_heading_line2: ""
 hero_lead: "Mocks back, and the grade isn't where the sixth-form place needs it? Our Aylesbury GCSE tutors find the topics losing the most marks and fix the technique in weeks, not terms."
 

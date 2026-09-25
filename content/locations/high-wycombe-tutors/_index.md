@@ -3,7 +3,7 @@ title: "High Wycombe Tutors | 11+ to A-level | The Degree Gap"
 description: "High Wycombe tutoring for the 11+, GCSE and A-Level. One-to-one support matched to subject, exam board and the standard the local grammars expect."
 layout: single
 location: High Wycombe
-banner_heading: "High Wycombe tutors for the 11+, GCSE and A-Level grades the grammars are set against"
+banner_heading: "Online High Wycombe tutors for the 11+, GCSE and A-Level grades the grammars are set against"
 banner_description: "Our High Wycombe tutors prepare students for the Buckinghamshire 11+ and the GCSE and A-Level standard the local grammar sixth forms are built around."
 content_angle: "ambition / competitive sixth form entry"
 intro_1: "High Wycombe sits inside one of the last fully selective grammar systems in England. The Royal Grammar School and John Hampden take boys after the 11+. Wycombe High takes girls. Three sixth forms running A-Levels at a standard that, in any given year, produces dozens of Russell Group and Oxbridge offers. That's a lot for a fifteen-year-old to be working alongside, and a lot for a parent to hold steady against, whether the child sat the 11+ or didn't."

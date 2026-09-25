@@ -4,7 +4,7 @@ description: One-to-one Nottingham tutoring for Maths, English, Sciences and
   more. Expert tutors, flexible online lessons and proven academic results.
 layout: single
 location: Nottingham
-banner_heading: Need a Nottingham tutor who finds the gap, not just covers content?
+banner_heading: "Need an online Nottingham tutor who finds the gap, not just covers content?"
 banner_description: The Degree Gap tutoring connects Nottingham students with
   tutors who trace problems back to their root and build from there, so hard
   work finally starts to show in grades.

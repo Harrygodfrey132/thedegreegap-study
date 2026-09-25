@@ -5,7 +5,7 @@ layout: "subject"
 location: "Swindon"
 level: "A-Level"
 
-hero_heading_line1: "Swindon A-Level Tutors Who Work on the Paper, Not the Textbook"
+hero_heading_line1: "Online Swindon A-Level Tutors Who Work on the Paper, Not the Textbook"
 hero_heading_line2: ""
 hero_lead: "By Year 13 the content has usually been taught. What has not been taught is how to convert it inside a timed paper. Our Swindon A-Level tutors spend the hour on that, because it is where the last band nearly always sits."
 

@@ -5,7 +5,7 @@ layout: "subject"
 location: "Worcester"
 level: "GCSE"
 
-hero_heading_line1: "Worcester GCSE Tutors for When Effort Has Stopped Working"
+hero_heading_line1: "Online Worcester GCSE Tutors for When Effort Has Stopped Working"
 hero_heading_line2: ""
 hero_lead: "You have had the teacher meeting, written the revision timetable, bought the highlighters. The report still says effort is fine and understanding is patchy. Our Worcester GCSE tutors deal with the second half of that sentence, which is the half nobody has looked at properly."
 

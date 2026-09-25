@@ -5,7 +5,7 @@ layout: "subject"
 location: "Stevenage"
 level: "A-Level"
 
-hero_heading_line1: "Stevenage A-Level Tutors for the Two Years That Decide the Offer"
+hero_heading_line1: "Online Stevenage A-Level Tutors for the Two Years That Decide the Offer"
 hero_heading_line2: ""
 hero_lead: "Not every Stevenage student is aiming at university, and the town's biggest employers ask for grades too. Our Stevenage A-Level tutors work to whichever gate a student is actually walking through, whether that is a UCAS offer or a degree apprenticeship at GSK or Airbus."
 

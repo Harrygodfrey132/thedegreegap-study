@@ -5,7 +5,7 @@ layout: "subject"
 location: "Didsbury"
 level: "A-Level"
 
-hero_heading_line1: "Didsbury A-Level Tutors Who Catch the Year 12 Dip Before Predictions Are Written"
+hero_heading_line1: "Online Didsbury A-Level Tutors Who Catch the Year 12 Dip Before Predictions Are Written"
 hero_heading_line2: ""
 hero_lead: "Good GCSEs, a happy first week of sixth form, then a first marked test that comes back two grades lower. Our Didsbury A-Level tutors work one-to-one online to find out why, and fix it while there's still plenty of time."
 

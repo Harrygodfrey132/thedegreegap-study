@@ -4,7 +4,7 @@ description: "Sheffield A-Level tutors who close the GCSE-to-A-Level jump in Mat
 layout: "subject"
 location: "Sheffield"
 level: "A-Level"
-hero_heading_line1: "Sheffield A-Level Tutors For the Maths and Physics Step Up From GCSE"
+hero_heading_line1: "Online Sheffield A-Level Tutors For the Maths and Physics Step Up From GCSE"
 hero_heading_line2: ""
 hero_lead: "The jump from GCSE to A-Level Maths catches out students who never had to revise before, and by the first Year 12 mock the gap is real. Our Sheffield A-Level tutors rebuild the pure and mechanics that school moves through fast, before it hardens into a predicted grade."
 grade_from: "C"

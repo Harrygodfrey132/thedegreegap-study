@@ -5,7 +5,7 @@ layout: "subject"
 location: "Chelmsford"
 level: "GCSE"
 
-hero_heading_line1: "Chelmsford GCSE Tutors Who Find the Topic Behind a Stalled Grade"
+hero_heading_line1: "Online Chelmsford GCSE Tutors Who Find the Topic Behind a Stalled Grade"
 hero_heading_line2: ""
 hero_lead: "By Year 11, most GCSE struggles trace back to a topic from Year 8 or 9 that nobody stopped to re-explain. Not effort, usually. Our Chelmsford GCSE tutors find that root gap in the first session and rebuild from there, so the current syllabus finally has something to stand on."
 

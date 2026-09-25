@@ -18,7 +18,7 @@
 {{ $heroText    := .Params.hero_review_text    | default "My daughter was struggling with confidence and we decided to get a tutor. After just one term she went from a predicted grade to achieving a grade higher in her mock. The tutor found exactly where she'd been losing marks and worked through it methodically. She walked into her final exam calm and prepared." }}
 
 {{/* Hero H1 + lead — per-page overrides, level-aware defaults */}}
-{{ $heroHeadingLine1 := .Params.hero_heading_line1 | default (printf "%s Tutors in %s" $level $loc) }}
+{{ $heroHeadingLine1 := .Params.hero_heading_line1 | default (printf "Online %s Tutors in %s" $level $loc) }}
 {{ $heroHeadingLine2 := .Params.hero_heading_line2 }}
 {{ $heroLead         := .Params.hero_lead          | default (printf "Most students don't need to be taught the same content again. They need someone to find the exact point where things stopped making sense, then explain it differently until it does. That's what our %s %s tutors do." $loc $level) }}
 

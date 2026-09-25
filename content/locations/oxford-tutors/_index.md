@@ -5,7 +5,7 @@ description: Find expert Oxford tutors for GCSE and A-Level support.
   success.
 layout: single
 location: Oxford
-banner_heading: Want an Oxford tutor who knows what the top sixth forms expect?
+banner_heading: "Want an online Oxford tutor who knows what the top sixth forms expect?"
 banner_description: The Degree Gap tutoring finds Oxford tutors who know the
   exact gap between a 6 and a 7, and how to close it before the next mock.
 content_angle: ambition / competitive sixth form entry / university shadow pressure

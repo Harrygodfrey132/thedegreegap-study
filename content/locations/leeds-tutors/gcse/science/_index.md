@@ -7,7 +7,7 @@ location: "Leeds"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "GCSE Science Tutors Covering Leeds"
+hero_h1: "Online GCSE Science Tutors Covering Leeds"
 hero_lead: "GCSE Science is where a lot of capable Leeds students lose marks they have done the work for, knowing the content but dropping the six-mark explanations and the required practicals. Our Leeds GCSE Science tutors work on the application and exam technique that revision alone leaves untouched."
 
 angle_eyebrow: "WHERE THE GCSE SCIENCE MARKS GO IN LEEDS"

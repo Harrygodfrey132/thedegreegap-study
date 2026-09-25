@@ -5,7 +5,7 @@ layout: "subject"
 location: "Norwich"
 level: "GCSE"
 
-hero_heading_line1: "Norwich GCSE Tutors For the Gaps That Opened Long Before Year 11"
+hero_heading_line1: "Online Norwich GCSE Tutors For the Gaps That Opened Long Before Year 11"
 hero_heading_line2: ""
 hero_lead: "By the time a mock grade looks wrong, the cause is usually two years old. Our Norwich GCSE tutors work backwards to the topic that never landed, then forwards from there, instead of revising the bit the class happens to be on."
 

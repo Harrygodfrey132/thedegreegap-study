@@ -5,7 +5,7 @@ layout: "subject"
 location: "Canterbury"
 level: "GCSE"
 
-hero_heading_line1: "Canterbury GCSE Tutors Who Find the Year 8 Gap Before Mocks Land"
+hero_heading_line1: "Online Canterbury GCSE Tutors Who Find the Year 8 Gap Before Mocks Land"
 hero_heading_line2: ""
 hero_lead: "By Year 11, most GCSE struggles trace back to a Year 8 or Year 9 topic nobody re-explained. Our Canterbury GCSE tutors find that root gap in the first session and rebuild from there, ahead of the mocks that decide whether a Langton sixth form continuation lands or not."
 

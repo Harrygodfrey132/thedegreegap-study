@@ -5,7 +5,7 @@ layout: "subject"
 location: "Reading"
 level: "GCSE"
 
-hero_heading_line1: "GCSE Tutors in Reading Who Rebuild What a Big Class Skims Past"
+hero_heading_line1: "Online GCSE Tutors in Reading Who Rebuild What a Big Class Skims Past"
 hero_heading_line2: ""
 hero_lead: "By the time most Reading parents call, they've watched it happen slowly. The homework taking longer, the answers getting shorter, a subject that used to be fine now quietly avoided. Our Reading GCSE tutors find the gap nobody at school has had time to name."
 

@@ -3,7 +3,7 @@ title: "London Tutors | GCSE and A-Level | The Degree Gap"
 description: "London tutoring for GCSE and A-Level students. One-to-one tutors matched on subject, exam board and the standard your child's school is actually set against."
 layout: single
 location: London
-banner_heading: "Need a London tutor matched on subject and exam board, not just postcode?"
+banner_heading: "Need an online London tutor matched on subject and exam board, not just postcode?"
 banner_description: "Our London tutors are matched on subject, exam board and how a student learns, so the work in the session lines up with the work the school is actually setting."
 content_angle: "school environment"
 intro_1: "Finding a tutor in London isn't the hard bit. There are thousands. The hard bit is finding one who knows the exam board the school is teaching, has marked the kind of papers the student is sitting, and explains it in a way the student actually responds to. Most parents who get in touch tell us they've tried that already, once or twice. The first tutor was fine but didn't know the spec. The second knew the spec but couldn't hold a teenager's attention for an hour. The third was great but moved away or stopped replying."

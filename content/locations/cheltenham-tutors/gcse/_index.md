@@ -5,7 +5,7 @@ layout: "subject"
 location: "Cheltenham"
 level: "GCSE"
 
-hero_heading_line1: "Cheltenham GCSE Tutors for the Marks the Classroom Runs Past"
+hero_heading_line1: "Online Cheltenham GCSE Tutors for the Marks the Classroom Runs Past"
 hero_heading_line2: ""
 hero_lead: "Some Cheltenham Year 11s need English and Maths made safe. Others are chasing the band a competitive sixth form asks for. Our Cheltenham GCSE tutors read which of those is actually in front of them, then work the specific questions losing marks rather than the whole subject."
 

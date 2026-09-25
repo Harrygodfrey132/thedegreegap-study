@@ -5,7 +5,7 @@ layout: "subject"
 location: "Royal Leamington Spa"
 level: "GCSE"
 
-hero_heading_line1: "GCSE Tutors Covering Royal Leamington Spa, From Year 10 Onwards"
+hero_heading_line1: "Online GCSE Tutors Covering Royal Leamington Spa, From Year 10 Onwards"
 hero_heading_line2: ""
 hero_lead: "Families here tend to start the tutoring conversation in Year 9 or 10 rather than in the panic of Year 11, which changes what is possible. Our Royal Leamington Spa GCSE tutors use that time properly, building method while there is still room for it to compound."
 

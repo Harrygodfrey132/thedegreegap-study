@@ -4,7 +4,7 @@ description: "Liverpool GCSE tutors who close the gap between the effort at home
 layout: "subject"
 location: "Liverpool"
 level: "GCSE"
-hero_heading_line1: "Liverpool GCSE Tutors Who Close the Gap Between Effort and Marks"
+hero_heading_line1: "Online Liverpool GCSE Tutors Who Close the Gap Between Effort and Marks"
 hero_heading_line2: ""
 hero_lead: "By the time most Liverpool parents reach us, the effort at home has gone up, the marks have stayed flat, and the evenings have got quieter. Our Liverpool GCSE tutors step into that gap a couple of times a week and find the thing school hasn't had time to name."
 grade_from: "E"

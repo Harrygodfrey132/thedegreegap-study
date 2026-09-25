@@ -5,7 +5,7 @@ layout: "subject"
 location: "Cambridge"
 level: "GCSE"
 
-hero_heading_line1: "Cambridge GCSE Tutors Built for the Stretch Beyond Classroom Pace"
+hero_heading_line1: "Online Cambridge GCSE Tutors Built for the Stretch Beyond Classroom Pace"
 hero_heading_line2: ""
 hero_lead: "Some Year 11s in Cambridge arrive needing a confident pass in English and Maths. Others are stretching for what a Hills Road sixth-form subject offer needs. Our Cambridge GCSE tutors handle both briefs, matched on subject, exam board and where the student is sitting today."
 

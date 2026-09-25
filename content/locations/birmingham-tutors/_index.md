@@ -4,7 +4,7 @@ description: One-to-one Birmingham tutoring for Maths, English, Sciences and
   more. Expert tutors, flexible online lessons and proven academic results.
 layout: single
 location: Birmingham
-banner_heading: Looking for a Birmingham tutor who gets to the root of the problem?
+banner_heading: "Looking for an online Birmingham tutor who gets to the root of the problem?"
 banner_description: Most tutoring covers the same content again and hopes it
   sticks. Our Birmingham tutors find what's not working and explain it
   differently until it does.

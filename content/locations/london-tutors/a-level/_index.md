@@ -5,7 +5,7 @@ layout: "subject"
 location: "London"
 level: "A-Level"
 
-hero_heading_line1: "London A-Level Tutors Who Close the Jump From GCSE to Year 12"
+hero_heading_line1: "Online London A-Level Tutors Who Close the Jump From GCSE to Year 12"
 hero_heading_line2: ""
 hero_lead: "Some Year 12s arrive having coasted through GCSEs and hit a wall in the first term. Others are in Year 13 with a predicted grade sitting just under the offer. Our London A-Level tutors handle both, and the work looks different each time."
 

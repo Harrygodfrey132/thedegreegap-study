@@ -5,7 +5,7 @@ layout: "subject"
 location: "Wolverhampton"
 level: "A-Level"
 
-hero_heading_line1: "Wolverhampton A-Level Tutors Who Lift a Prediction Into Offer Range"
+hero_heading_line1: "Online Wolverhampton A-Level Tutors Who Lift a Prediction Into Offer Range"
 hero_heading_line2: ""
 hero_lead: "A predicted grade one band under the offer is the most common reason families here get in touch. Our Wolverhampton A-Level tutors work on the marks that move a prediction, which is nearly always technique rather than more content."
 

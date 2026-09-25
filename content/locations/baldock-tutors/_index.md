@@ -4,7 +4,7 @@ description: One-to-one Baldock tutoring for Maths, English, Sciences and more.
   Expert tutors, flexible online lessons and proven academic results.
 layout: single
 location: Baldock
-banner_heading: Baldock tutors for the GCSE and A-Level grades that don't happen by accident
+banner_heading: "Online Baldock tutors for the GCSE and A-Level grades that don't happen by accident"
 banner_description: Most Baldock families come to us already knowing their child
   is capable. They just haven't yet met the tutor who can prove it back to them.
   That is what we do.

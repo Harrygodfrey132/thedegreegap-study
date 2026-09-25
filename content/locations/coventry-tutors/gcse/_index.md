@@ -5,7 +5,7 @@ layout: "subject"
 location: "Coventry"
 level: "GCSE"
 
-hero_heading_line1: "Coventry GCSE Tutors Who Steady a Slipping Grade Before Mocks"
+hero_heading_line1: "Online Coventry GCSE Tutors Who Steady a Slipping Grade Before Mocks"
 hero_heading_line2: ""
 hero_lead: "Year 10 went fine, then the Year 11 mocks came back lower than anyone expected? Our Coventry GCSE tutors trace which topics are quietly losing marks and rebuild the method before the next round, when the predicted grade starts to stick."
 

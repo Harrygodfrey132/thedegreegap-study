@@ -5,7 +5,7 @@ layout: "subject"
 location: "Stevenage"
 level: "GCSE"
 
-hero_heading_line1: "Stevenage GCSE Tutors Who Start Where the Understanding Broke"
+hero_heading_line1: "Online Stevenage GCSE Tutors Who Start Where the Understanding Broke"
 hero_heading_line2: ""
 hero_lead: "When a Stevenage Year 11 is working hard and the grades will not move, the problem is usually older than the topic they are stuck on. Our Stevenage GCSE tutors trace it back to where it actually started, then rebuild forwards. Sometimes that is Year 8. Often it is quicker than families fear."
 
