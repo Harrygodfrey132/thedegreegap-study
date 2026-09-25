@@ -72,9 +72,71 @@
 
 {{ $faqs := $p.faq_items | default (slice) }}
 
+
+{{/* Styles for the three sections this page adds to the location design
+     (signs, inside a lesson, pricing). They reuse the lvls palette, type
+     scale and card shapes so they read as part of the same page. */}}
+<style>
+  /* Column paragraph rules in main.css turn the section eyebrows grey and
+     large on these pages. Put them back to the house eyebrow. */
+  .ads-page .loc-eyebrow { font-size:0.72rem; font-weight:800; letter-spacing:0.12em; line-height:1.4; color:var(--burgundy); margin-bottom:0.75rem; }
+  .ads-page .lvls-about__eyebrow { color:var(--burgundy); font-size:0.72rem; }
+  .ads-page h1, .ads-page h2 { text-wrap:balance; }
+  /* Long verbatim reviews stretched every card in the row to the longest.
+     Clamp to an even height; the full wording is one click away in the
+     reviews drawer. */
+  .ads-page .lvls-review-card__quote { display:-webkit-box; -webkit-line-clamp:9; -webkit-box-orient:vertical; overflow:hidden; }
+  .ads-reviews-more { text-align:center; margin-top:28px; }
+  .ads-signs { padding:88px 0; background:var(--cream); }
+  .ads-signs__head, .ads-price__head { text-align:center; max-width:720px; margin:0 auto 44px; }
+  .ads-signs__head h2, .ads-price__head h2 { font-size:clamp(1.9rem,3vw,2.5rem); font-weight:900; letter-spacing:-0.02em; margin:10px 0 14px; }
+  .ads-signs__head p, .ads-price__head p { color:var(--text-muted); font-size:1.02rem; line-height:1.7; }
+  .ads-signs__grid { display:grid; grid-template-columns:repeat(2,1fr); gap:20px; max-width:1000px; margin:0 auto; }
+  .ads-sign { position:relative; background:var(--white); border:1px solid var(--border); border-radius:16px; padding:28px 28px 26px 32px; box-shadow:0 6px 22px rgba(35,23,17,0.05); overflow:hidden; }
+  .ads-sign::before { content:""; position:absolute; left:0; top:0; bottom:0; width:5px; background:var(--burgundy); }
+  .ads-sign h3 { font-size:1.15rem; font-weight:900; letter-spacing:-0.01em; line-height:1.35; color:var(--text); margin:0 0 10px; }
+  .ads-sign p { color:var(--text-muted); line-height:1.65; font-size:0.97rem; margin:0; }
+  .ads-signs__foot { text-align:center; margin-top:36px; }
+
+  .ads-lesson__list { list-style:none; margin:6px 0 24px; padding:0; display:flex; flex-direction:column; gap:14px; }
+  .ads-lesson__list li { display:grid; grid-template-columns:auto 1fr; gap:18px; align-items:start; background:var(--white); border:1px solid var(--border); border-radius:12px; padding:14px 16px; }
+  .ads-lesson__time { font-size:0.74rem; font-weight:900; letter-spacing:0.08em; text-transform:uppercase; color:var(--burgundy); padding-top:3px; white-space:nowrap; min-width:92px; }
+  .ads-lesson__list li p { margin:0; font-size:0.97rem; line-height:1.6; color:var(--text); }
+  .ads-lesson__parent { margin-top:6px; padding-top:22px; border-top:1px solid var(--border); }
+  .ads-lesson__parent-title { font-size:0.78rem !important; font-weight:800; letter-spacing:0.08em; text-transform:uppercase; color:var(--burgundy) !important; margin:0 0 12px !important; }
+  .ads-lesson__parent ul { list-style:none; margin:0; padding:0; display:grid; grid-template-columns:1fr 1fr; gap:10px 20px; }
+  .ads-lesson__parent li { display:flex; gap:10px; align-items:flex-start; font-size:0.95rem; line-height:1.5; color:var(--text); }
+  .ads-lesson__parent svg { color:var(--burgundy); flex-shrink:0; margin-top:3px; }
+  .ads-lesson .lvls-angle__image img { width:100%; height:560px; object-fit:cover; border-radius:14px; box-shadow:var(--shadow); display:block; }
+
+  .ads-price { padding:88px 0; background:var(--cream); }
+  .ads-price__grid { display:grid; grid-template-columns:repeat(3,1fr); gap:22px; max-width:1040px; margin:0 auto; }
+  .ads-price__card { background:var(--white); border:1px solid var(--border); border-radius:16px; padding:30px 28px; box-shadow:0 6px 22px rgba(35,23,17,0.05); }
+  .ads-price__card--main { border:2px solid var(--burgundy); box-shadow:0 18px 44px rgba(128,0,32,0.12); }
+  .ads-price__label { font-size:0.74rem; font-weight:800; letter-spacing:0.12em; text-transform:uppercase; color:var(--burgundy); margin:0 0 10px; }
+  .ads-price__big { font-size:2.4rem; font-weight:900; letter-spacing:-0.03em; line-height:1; color:var(--text); margin:0 0 16px; }
+  .ads-price__big small { font-size:1rem; font-weight:700; color:var(--text-muted); letter-spacing:0; }
+  .ads-price__card ul { list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:10px; }
+  .ads-price__card li { display:flex; gap:10px; align-items:flex-start; font-size:0.95rem; line-height:1.5; color:var(--text); }
+  .ads-price__card li svg { color:var(--burgundy); flex-shrink:0; margin-top:3px; }
+  .ads-price__card--never li svg { color:#9a8f85; }
+  .ads-price__from { display:block; font-size:0.85rem; font-weight:700; color:var(--text-muted); letter-spacing:0; margin-bottom:6px; }
+  .ads-price__foot { text-align:center; margin-top:36px; }
+  .ads-price__foot p { margin-top:12px; color:var(--text-muted); font-size:0.9rem; }
+
+  @media (max-width: 980px) {
+    .ads-signs, .ads-price { padding:56px 0; }
+    .ads-signs__grid, .ads-price__grid { grid-template-columns:1fr; }
+    .ads-lesson .lvls-angle__image img { height:300px; }
+    .ads-lesson__parent ul { grid-template-columns:1fr; }
+    .ads-lesson__list li { grid-template-columns:1fr; gap:4px; }
+  }
+</style>
+
 <!-- =============================================
      SECTION 1: HERO, copy left, consultation card right
      ============================================= -->
+<div class="ads-page">
 <section class="lvls-hero">
   <div class="container">
     <div class="lvls-hero__grid">
@@ -141,6 +203,33 @@
     </div>
   </div>
 </section>
+
+
+<!-- =============================================
+     SECTION 2B: SOUND FAMILIAR, the reasons parents get in touch
+     ============================================= -->
+{{ with $p.signs }}
+<section class="ads-signs">
+  <div class="container">
+    <div class="ads-signs__head">
+      <p class="loc-eyebrow loc-eyebrow--center">{{ $p.signs_eyebrow | default "SOUND FAMILIAR?" }}</p>
+      <h2>{{ $p.signs_heading }}</h2>
+      <p>{{ $p.signs_intro }}</p>
+    </div>
+    <div class="ads-signs__grid">
+      {{ range . }}
+      <article class="ads-sign">
+        <h3>{{ .title }}</h3>
+        <p>{{ .body }}</p>
+      </article>
+      {{ end }}
+    </div>
+    <div class="ads-signs__foot">
+      <a href="{{ $book }}" class="btn btn-primary btn-lg" data-track="book_call_click" data-track-place="signs">Talk it through with us, free</a>
+    </div>
+  </div>
+</section>
+{{ end }}
 
 <!-- =============================================
      SECTION 3: WHERE WE COVER, map of the UK / copy right
@@ -258,6 +347,38 @@
   </div>
 </section>
 
+
+<!-- =============================================
+     SECTION 5B: INSIDE A LESSON, image left / copy right
+     ============================================= -->
+{{ with $p.lesson }}
+<section class="lvls-angle ads-lesson">
+  <div class="container">
+    <div class="lvls-angle__inner">
+      <div class="lvls-angle__image">
+        {{ partial "responsive-image.html" (dict "src" .image "alt" .image_alt "loading" "lazy" "fallbackWidth" 760 "widths" (slice 480 760 1100) "sizes" "(max-width: 980px) 100vw, 45vw" "quality" 72) }}
+      </div>
+      <div class="lvls-angle__copy">
+        <p class="loc-eyebrow">{{ .eyebrow }}</p>
+        <h2>{{ .heading }}</h2>
+        <p>{{ .intro }}</p>
+        <ol class="ads-lesson__list">
+          {{ range .parts }}
+          <li><span class="ads-lesson__time">{{ .time }}</span><p>{{ .body }}</p></li>
+          {{ end }}
+        </ol>
+        <div class="ads-lesson__parent">
+          <p class="ads-lesson__parent-title">{{ .parent_title }}</p>
+          <ul>
+            {{ range .parent_points }}<li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg><span>{{ . }}</span></li>{{ end }}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
 <!-- =============================================
      SECTION 6: TUTOR SELECTION
      ============================================= -->
@@ -311,7 +432,7 @@
   <div class="container">
     <div class="lvls-reviews__head">
       <div>
-        <h2 id="lvls-reviews-title">Over a hundred parents and students<br>have rated us 5.0/5</h2>
+        <h2 id="lvls-reviews-title">Over a hundred parents and students have rated us 5.0/5</h2>
       </div>
       <div class="lvls-reviews__nav">
         <button type="button" class="lvls-reviews__btn" data-lvls-prev aria-label="Previous review">
@@ -339,6 +460,9 @@
         </article>
         {{ end }}
       </div>
+    </div>
+    <div class="ads-reviews-more">
+      <button type="button" data-reviews-open class="btn btn-outline" aria-controls="bc-reviews-drawer" aria-expanded="false">Read all {{ $count }} Google reviews in full</button>
     </div>
   </div>
 </section>
@@ -376,6 +500,43 @@
     </p>
   </div>
 </section>
+
+
+<!-- =============================================
+     SECTION 8B: WHAT IT COSTS
+     ============================================= -->
+{{ with $p.pricing }}
+<section class="ads-price">
+  <div class="container">
+    <div class="ads-price__head">
+      <p class="loc-eyebrow loc-eyebrow--center">WHAT IT COSTS</p>
+      <h2>{{ .heading }}</h2>
+      <p>{{ .intro }}</p>
+    </div>
+    <div class="ads-price__grid">
+      <div class="ads-price__card">
+        <p class="ads-price__label">Free before you commit</p>
+        <p class="ads-price__big">£0</p>
+        <ul>{{ range .free }}<li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg><span>{{ . }}</span></li>{{ end }}</ul>
+      </div>
+      <div class="ads-price__card ads-price__card--main">
+        <p class="ads-price__label">Each lesson</p>
+        <p class="ads-price__big"><span class="ads-price__from">From</span>£37<small>/hr</small></p>
+        <ul>{{ range .included }}<li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg><span>{{ . }}</span></li>{{ end }}</ul>
+      </div>
+      <div class="ads-price__card ads-price__card--never">
+        <p class="ads-price__label">Never</p>
+        <p class="ads-price__big">No contract</p>
+        <ul>{{ range .never }}<li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" aria-hidden="true"><path d="M18 6L6 18M6 6l12 12"/></svg><span>{{ . }}</span></li>{{ end }}</ul>
+      </div>
+    </div>
+    <div class="ads-price__foot">
+      <a href="{{ $book }}" class="btn btn-primary btn-lg" data-track="book_call_click" data-track-place="pricing">Book a Free Consultation</a>
+      <p>{{ .note }}</p>
+    </div>
+  </div>
+</section>
+{{ end }}
 
 <!-- =============================================
      SECTION 9: FAQ
@@ -427,6 +588,8 @@
     </div>
   </div>
 </section>
+
+</div><!-- /.ads-page -->
 
 {{ partial "reviews-drawer.html" . }}
 {{ partial "ads-tracking.html" . }}
