@@ -11,7 +11,7 @@
 
     - UK-wide copy (the map section was dropped at the founders' review,
       25 Sep 2026, so "all of the UK" now lives in the FAQ)
-    - order agreed at that review: hero, reviews, tutors, who we are,
+    - order agreed at that review: hero, tutors, reviews, who we are,
       3 steps, FAQ, closing call to book
     - no sibling-subject or nearby-area link lists
     - tutors and reviews can be named in front matter, and reviews are
@@ -137,7 +137,46 @@
 </section>
 
 <!-- =============================================
-     SECTION 2: REVIEWS, carousel
+     SECTION 2: TUTOR SELECTION
+     ============================================= -->
+<section class="lvls-tutors">
+  <div class="lvls-tutors__deco" aria-hidden="true">
+    <svg viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="200" cy="200" r="195" stroke="#800020" stroke-width="2" stroke-dasharray="4 8" opacity="0.28"/>
+    </svg>
+  </div>
+  <div class="container">
+    <div class="lvls-tutors__head">
+      <p class="loc-eyebrow">{{ $p.tutors_eyebrow | default "MEET THE TUTORS" }}</p>
+      <h2>{{ $p.tutors_heading | default (printf "Some of our %s %s tutors" $level $subject) }}</h2>
+      <p>{{ $p.tutors_intro | default (printf "A small selection of the %s %s tutors in our network. We match each student personally to the tutor who best fits their year group, exam board and the gap they're trying to close." $level $subject) }}</p>
+    </div>
+    {{ if $tutors }}
+    <div class="lvls-tutors__grid">
+      {{ range $tutors }}
+      <article class="lvls-tutor-card">
+        <div class="lvls-tutor-card__photo">
+          <img src="{{ partial "url.html" .image }}" alt="{{ .name }}, {{ $level }} {{ $subject }} tutor" width="400" height="400" loading="lazy" decoding="async"
+               onerror="this.closest('.lvls-tutor-card').style.display='none'">
+        </div>
+        <div class="lvls-tutor-card__body">
+          <h3 class="lvls-tutor-card__name">{{ .name }}</h3>
+          <p class="lvls-tutor-card__role">{{ $level }} {{ $subject }} tutor</p>
+          <p class="lvls-tutor-card__blurb">"{{ strings.Trim .blurb "\" " | truncate 120 }}"</p>
+          <a href="{{ $book }}" class="lvls-tutor-card__link" data-track="book_call_click" data-track-place="tutor_card">Book a free call →</a>
+        </div>
+      </article>
+      {{ end }}
+    </div>
+    {{ end }}
+    <div class="lvls-tutors__cta">
+      <a href="{{ $book }}" class="btn btn-primary" data-track="book_call_click" data-track-place="tutors">Ask us to match you</a>
+    </div>
+  </div>
+</section>
+
+<!-- =============================================
+     SECTION 3: REVIEWS, carousel
      ============================================= -->
 {{ with $reviews }}
 <section class="lvls-reviews" aria-labelledby="lvls-reviews-title">
@@ -206,45 +245,6 @@
   });
 })();
 </script>
-
-<!-- =============================================
-     SECTION 3: TUTOR SELECTION
-     ============================================= -->
-<section class="lvls-tutors">
-  <div class="lvls-tutors__deco" aria-hidden="true">
-    <svg viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <circle cx="200" cy="200" r="195" stroke="#800020" stroke-width="2" stroke-dasharray="4 8" opacity="0.28"/>
-    </svg>
-  </div>
-  <div class="container">
-    <div class="lvls-tutors__head">
-      <p class="loc-eyebrow">{{ $p.tutors_eyebrow | default "MEET THE TUTORS" }}</p>
-      <h2>{{ $p.tutors_heading | default (printf "Some of our %s %s tutors" $level $subject) }}</h2>
-      <p>{{ $p.tutors_intro | default (printf "A small selection of the %s %s tutors in our network. We match each student personally to the tutor who best fits their year group, exam board and the gap they're trying to close." $level $subject) }}</p>
-    </div>
-    {{ if $tutors }}
-    <div class="lvls-tutors__grid">
-      {{ range $tutors }}
-      <article class="lvls-tutor-card">
-        <div class="lvls-tutor-card__photo">
-          <img src="{{ partial "url.html" .image }}" alt="{{ .name }}, {{ $level }} {{ $subject }} tutor" width="400" height="400" loading="lazy" decoding="async"
-               onerror="this.closest('.lvls-tutor-card').style.display='none'">
-        </div>
-        <div class="lvls-tutor-card__body">
-          <h3 class="lvls-tutor-card__name">{{ .name }}</h3>
-          <p class="lvls-tutor-card__role">{{ $level }} {{ $subject }} tutor</p>
-          <p class="lvls-tutor-card__blurb">"{{ strings.Trim .blurb "\" " | truncate 120 }}"</p>
-          <a href="{{ $book }}" class="lvls-tutor-card__link" data-track="book_call_click" data-track-place="tutor_card">Book a free call →</a>
-        </div>
-      </article>
-      {{ end }}
-    </div>
-    {{ end }}
-    <div class="lvls-tutors__cta">
-      <a href="{{ $book }}" class="btn btn-primary" data-track="book_call_click" data-track-place="tutors">Ask us to match you</a>
-    </div>
-  </div>
-</section>
 
 <!-- =============================================
      SECTION 4: WHO WE ARE, founder card (Harry & Joe)

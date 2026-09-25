@@ -4,7 +4,7 @@
 # the GCSE Maths Google Ads: https://thedegreegap.com/study/subjects/gcse-maths-tutor/
 #
 # Structure and wording follow Harry and Joe's review of 25 Sep 2026:
-# hero, reviews, tutors, who we are, 3 steps, FAQ, closing call to book.
+# hero, tutors, reviews, who we are, 3 steps, FAQ, closing call to book.
 # Tone: reassuring and chatty, the way we talk to parents on the phone.
 title: "GCSE Maths Tutors Online, Matched to Your Child | The Degree Gap"
 description: "Friendly one-to-one online GCSE Maths tutors, hand-picked for your child by our team. Free chat first, tutor profiles within 24 hours, lessons from £37 with no contract."
