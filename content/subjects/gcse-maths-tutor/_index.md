@@ -7,7 +7,7 @@
 # hero, reviews, tutors, who we are, 3 steps, FAQ, closing call to book.
 # Tone: reassuring and chatty, the way we talk to parents on the phone.
 title: "GCSE Maths Tutors Online, Matched to Your Child | The Degree Gap"
-description: "Friendly one-to-one online GCSE Maths tutors, hand-picked for your child by our team. Free chat first, tutor voice notes within 24 hours, lessons from £37 with no contract."
+description: "Friendly one-to-one online GCSE Maths tutors, hand-picked for your child by our team. Free chat first, tutor profiles within 24 hours, lessons from £37 with no contract."
 layout: "single"
 design: "location"
 robots: "index, follow"
@@ -19,14 +19,14 @@ subject_short: "Maths"
 # ───────────── HERO ─────────────
 hero_eyebrow: "GCSE MATHS TUTORING · ONLINE, ACROSS THE UK"
 hero_h1: "Online GCSE Maths Tutors, Matched to Your Child"
-hero_lead: "If your child is working hard and the Maths grade still isn't moving, you're not alone, and it can be turned around. Have a quick chat with our team, and within 24 hours you'll get voice notes from two or three tutors we think would suit your child. Pick the one that feels right, and lessons start from there."
+hero_lead: "If your child is working hard and the Maths grade still isn't moving, you're not alone, and it can be turned around. Have a quick chat with our team, and within 24 hours you'll get profiles of two or three tutors we think would suit your child. Pick the one that feels right, and lessons start from there."
 meta_2: "Online using the platform Lessonspace, plus replay available"
 meta_3: "GCSE Tutoring Specialists of the Year 2025 & 2026"
 
 card_heading: "Talk to a member of the team to start the matching process"
 card_points:
   - "A free 15-minute call, no obligation"
-  - "2 or 3 tutor voice notes within 24 hours of the call"
+  - "2 or 3 tutor profiles within 24 hours of the call"
   - "Lessons from £37, no contract"
 
 # ───────────── TUTORS ─────────────
@@ -53,14 +53,14 @@ steps_lead: "Most families have their first lesson booked within a week. And you
 steps:
   - title: "Have a quick chat with us"
     body: "A relaxed 15-minute call with a member of the team. Tell us what's going on with Maths, the exam board if you know it, and what you've tried so far. No pressure and no sales pitch."
-  - title: "Hear from 2 or 3 tutors"
-    body: "Within 24 hours of the call you'll get voice notes from two or three tutors we've picked for your child, so you can hear who they are before choosing. Your child can then meet your favourite on a free video call."
+  - title: "Meet 2 or 3 tutors"
+    body: "Within 24 hours of the call you'll get profiles of two or three tutors we've picked for your child, so you can see who they are before choosing. Your child can then meet your favourite on a free video call."
   - title: "Start weekly lessons"
     body: "Lessons are one-to-one and online, using the platform Lessonspace, with a replay of every lesson to look back on. From £37 an hour, no contract, and you can stop whenever you like."
 
 # ───────────── CLOSING CTA ─────────────
 final_heading: "Book your free<br>GCSE Maths consultation"
-final_body: "A friendly 15-minute chat about your child's Maths: where they're stuck, what they're aiming for and what they're like as a learner. Within 24 hours you'll have voice notes from two or three tutors to choose from."
+final_body: "A friendly 15-minute chat about your child's Maths: where they're stuck, what they're aiming for and what they're like as a learner. Within 24 hours you'll have profiles of two or three tutors to choose from."
 final_assurance: "Free call · Lessons from £37 · No contract"
 
 faq_items:
