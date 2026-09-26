@@ -1,155 +1,83 @@
 ---
-title: "Find a GCSE English Tutor, Online"
-description: "Getting the marks onto the page is a technique problem more often than a knowledge one. Online GCSE English tutors from £37 an hour, rated 5.0."
-robots: "index, follow"
+# GCSE English subject page, on the location page design (design: "location",
+# rendered by layouts/partials/ads-subject-body.html). Structure and
+# parent-chat voice follow the GCSE Maths reference page.
+title: "GCSE English Tutors Online, Matched to Your Child | The Degree Gap"
+description: "Friendly one-to-one online GCSE English tutors, matched to your child's texts. Free consultation call, profiles within 24 hours, lessons from £37, no contract."
 layout: "single"
-subject: "GCSE English"
+design: "location"
+robots: "index, follow"
+callback_prompt: true
 level: "GCSE"
+subject: "GCSE English"
+subject_short: "English"
 
 # ───────────── HERO ─────────────
-banner_heading: "GCSE English Tutors Who Get the Marks Onto the Page"
-banner_description: "Your child has read the text and has plenty to say about it. Getting that onto the page, the way an examiner actually rewards, is where the marks keep going missing."
-banner_cta_primary: "Book your free call with Joe"
-banner_cta_secondary: "07859 965776"
-pricing_note: "From £37/hr"
-rating_text: "5.0 · 100+ Google reviews"
-hero_image: "/images/founders-award.jpg"
-hero_alt: "Harry and Joe, co-founders of The Degree Gap, with the GCSE Specialists of the Year award"
-grade_jump_from: "5"
-grade_jump_to: "6/7"
-grade_jump_name: "Omo"
-grade_jump_text: "A real GCSE English grade jump, in six months."
+hero_eyebrow: "GCSE ENGLISH TUTORING · ONLINE, ACROSS THE UK"
+hero_h1: "Online GCSE English Tutors, Matched to Your Child"
+hero_lead: "If your child has read the books, has plenty to say about them, and the English grade still isn't moving, you're not alone. It's usually technique, not ability, and that can be taught. Book a free consultation call with our team so we can get to know your child, and within 24 hours of it you'll get profiles of two or three tutors we think would suit them."
+meta_2: "Online using the platform Lessonspace, plus replay available"
+meta_3: "GCSE Tutoring Specialists of the Year 2025 & 2026"
 
-# ───────────── WHY DIFFERENT ─────────────
-why_heading: "Why parents bring their English problem to us"
-why_blocks:
-  - title: "We have read enough essays to tell a good English tutor from a good graduate"
-    body: "Anyone with a strong English degree can talk beautifully about a book. Marking a GCSE essay the way an examiner does, then teaching a fifteen-year-old to write one, is a different skill entirely. Harry and Joe have interviewed every tutor on the platform themselves, and roughly thirty-three people apply for every one they say yes to. So by the time a name reaches you, someone who knows what AO1, AO2 and AO3 actually reward has already sat across from them."
-  - title: "Your child's board and set texts, not just 'English'"
-    body: "AQA, Edexcel, OCR and Eduqas do not set the same papers, and they do not always study the same books. One school's Year 11 is deep in Macbeth and An Inspector Calls, the next is on Romeo and Juliet and Lord of the Flies, and the poetry clusters differ again. Tutoring on the wrong text is time your child does not have. If you are not sure which board or which texts your child sits, Joe works that out with you on the first call, before any tutor is matched."
-  - title: "We start by finding where the marks are leaking"
-    body: "Most parents can tell the grade has stalled but not why. Is it the reading questions on Paper 1, the Question 5 writing that is worth half the paper, Literature essays that read like plot summary, or the unseen poetry that nobody feels truly taught? That is what the 40-minute consultation with Joe is for. A proper conversation about the mock, the predicted grade and the exact place the marks go missing, before he puts a shortlist together."
+card_heading: "Talk to a member of the team to start the matching process"
+card_points:
+  - "A free consultation call, usually around 30 minutes"
+  - "2 or 3 tutor profiles within 24 hours of the call"
+  - "Lessons from £37, no contract"
 
-# ───────────── HOW IT WORKS ─────────────
-how_heading: "From your first message to the first paid lesson"
-how_steps:
-  - title: "A 40-minute consultation with Joe"
-    body: "When you enquire, Joe calls you back to fix a time that suits you. The consultation is a real forty-minute conversation about your child's English, which board they sit, which texts they are studying, the predicted grade and where the essays or the writing are falling down. From there he starts working out which tutors would genuinely fit."
-  - title: "Free trial calls with two or three matches"
-    body: "Joe sends a shortlist of two or three tutors he thinks could work, and each one offers a free trial call. Your child gets to see how the tutor pulls a paragraph apart or plans an essay, and you get to see who they actually warm to. You are not committing to anything after, there are no card details, and nobody chases you."
-  - title: "You pick the tutor who fits, and lessons begin"
-    body: "You choose the tutor who felt right, and weekly lessons start on Lessonspace, our shared online whiteboard, where the tutor can annotate an essay or a poem alongside your child in real time. You pay per lesson. No contracts. If it stops working, you stop."
+# ───────────── TUTORS ─────────────
+tutors_eyebrow: "MEET SOME OF THE TUTORS"
+tutors_heading: "Some of the GCSE English tutors you could be matched with"
+tutors_intro: "You won't be left scrolling through hundreds of profiles, guessing who can actually teach essay writing. We've met every tutor on our platform, and after your call we pick the two or three who know your child's board and texts and who we think will get on best with them. Here are a few of them."
+tutor_names:
+  - "Yasmin Thomas"
+  - "Randa Jneid"
+  - "Ella Meehan"
+  - "Jessica B"
 
-# ───────────── KPI STATS STRIP ─────────────
-stats_heading: "The platform behind the tutor, in numbers"
-stats:
-  - number: "3%"
-    label: "Tutor acceptance rate"
-    body: "Around one in thirty-three who apply make it past Joe and Harry"
-  - number: "100+"
-    label: "Five-star Google reviews"
-    body: "Real Degree Gap families, all independently verified"
-  - number: "5,000+"
-    label: "Hours of tutoring delivered"
-    body: "Across GCSE, A-Level and university applications"
-  - number: "15+"
-    label: "UK schools we work with"
-    body: "Directly, with resources shared to many more"
+review_names:
+  - "Omo"
+  - "Simone Clissold"
+  - "Chris Smith"
+  - "Jessica Wagstaff"
+  - "Philippa Langton"
+  - "Augusta Oloke"
 
-# ───────────── MEET THE FOUNDERS ─────────────
-founders_heading: "Meet Harry and Joe"
-founders_eyebrow: "Who runs The Degree Gap"
-founders_body: "We are Harry and Joe, the two who started The Degree Gap. We built it because we kept watching the same thing happen. A bright student, plenty to say about a book, quietly slipping in a class of thirty where there is never quite time to sit with one child's essay and show them why it is not scoring. So we built one-to-one tutoring around the child, matched on the exam board and the way they learn. Between us we have over 5,000 hours of one-to-one teaching, and a firm view on where a GCSE English grade is really won. It is rarely reading more. It is learning to put what they already think onto the page."
-founders_image: "/images/founders-award.jpg"
-founders_image_alt: "Harry and Joe, co-founders of The Degree Gap, with the GCSE Specialists of the Year award"
-founders_cta: "Book your free call with Joe"
+# ───────────── 3 STEPS ─────────────
+steps_heading: "Start GCSE English tutoring in 3 steps"
+steps_lead: "Most families have their first lesson booked within a week. And you don't pay anything until your child has found a tutor they like."
+steps:
+  - title: "A free consultation call"
+    body: "A relaxed chat with a member of the team, usually around 30 minutes. It's how we get to know you and your child: whether it's Language, Literature or both, the exam board and set texts if you know them, where the marks are going and how your child likes to learn. That's what lets us personalise everything from there. No pressure and no sales pitch."
+  - title: "Meet 2 or 3 tutors"
+    body: "Within 24 hours of the call you'll get profiles of two or three tutors we've picked for your child, so you can see who they are before choosing. Your child can then meet your favourite on a free video call."
+  - title: "Start weekly lessons"
+    body: "Lessons are one-to-one and online, using the platform Lessonspace, where the tutor can annotate an essay or a poem with your child as they go, and there's a replay of every lesson to look back on. From £37 an hour, no contract, and you can stop whenever you like."
 
-# ───────────── PARENT VOICES (reviews surfaced from data) ─────────────
-voices_heading: "What families tell us, in their own words"
-voices_eyebrow: "Verified Google reviews"
-voices_intro: "Real reviews from real Degree Gap families, all verified on Google. We picked the ones below because they speak to English, and to what tutoring actually changes once a student stops retelling the story and starts arguing a point."
-voices:
-  - name: "Omo"
-    role: "Parent of GCSE Student"
-    text: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him."
-  - name: "Chris"
-    role: "Parent of GCSE Student"
-    text: "Very good tutoring for my daughter and good communication with parents. My daughter passed both English and Maths GCSE."
-  - name: "Jessica"
-    role: "GCSE Student"
-    text: "I was helped with both Maths and English for my GCSEs and passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree."
-  - name: "Philippa"
-    role: "Parent of GCSE Student"
-    text: "I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings. Highly recommend."
-  - name: "Augusta"
-    role: "Parent of GCSE Student"
-    text: "The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."
-  - name: "Bryan"
-    role: "GCSE Student"
-    text: "Helped me a lot and really showed me what I need to improve on."
+# ───────────── CLOSING CTA ─────────────
+final_heading: "Book your free<br>GCSE English consultation"
+final_body: "A friendly consultation call, usually around 30 minutes, so we can get to know your child: which texts they're studying, whether it's the reading, the writing or the Literature essays losing marks, and what they're like as a learner. Within 24 hours you'll have profiles of two or three tutors to choose from."
+final_assurance: "Free call · Lessons from £37 · No contract"
 
-# ───────────── TUTOR STRIP ─────────────
-tutor_strip_heading: "A few of the English tutors you might meet"
-tutor_strip_body: "You will not be left scrolling profiles, guessing which graduate can actually teach essay writing. That is our job. After your call with Joe, we come back with two or three names chosen for your child's board, their set texts and the exact thing tripping the grade up, whether that is essay structure, embedding quotations or the unseen poetry comparison. Every one has cleared a founder-led interview that only about three in a hundred applicants pass. The faces below are just a preview."
-
-# ───────────── EXAM BOARDS ─────────────
-# TODO: swap board URLs from #get-help to the real /aqa/, /edexcel/, /ocr/, /wjec/ pages once built
-boards_heading: "Your exam board and your child's texts, not just English"
-boards_intro: "AQA, Edexcel, OCR and Eduqas mark to different assessment objectives, set different papers and study different books. The reading questions carry different weight, and the writing questions sit in different places. If your child is taught one board and tutored on another, marks slip through the gap. Not sure which board they sit? Joe helps you pin it down on the first call."
-boards:
-  - name: "AQA"
-    url: "#get-help"
-    body: "The most common board for GCSE English. Language Paper 1 is fiction reading plus a creative Question 5, Paper 2 is two non-fiction texts plus writing to present a viewpoint, and the Literature exams are closed book, so quotations come from memory. We drill the essay technique and the Question 5 writing where half the paper's marks sit."
-  - name: "Edexcel"
-    url: "#get-help"
-    body: "Pearson Edexcel spreads 19th, 20th and 21st century texts across the Language papers and puts Shakespeare and a post-1914 text on Literature Paper 1. Our tutors know which assessment objectives Edexcel leans on and where students lose marks embedding and analysing quotations rather than just quoting them."
-  - name: "OCR"
-    url: "#get-help"
-    body: "OCR frames its papers around communicating information and exploring effects, with 19th-century prose sitting alongside the literature. We match your child with a tutor who knows OCR's question wording and can teach the analysis it rewards instead of plot retelling."
-  - name: "Eduqas / WJEC"
-    url: "#get-help"
-    body: "Eduqas, the England-facing arm of WJEC, splits reading and writing across its components and leans hard on the unseen poetry comparison. Less common in England, with its own mark scheme and question style, and we have tutors who know both by heart."
-
-# ───────────── FIRST SESSION METHOD ─────────────
-method_heading: "What a first lesson actually looks like"
-method_steps:
-  - "The tutor sits your child down with a real essay question or a Question 5 task, no clock on the first attempt."
-  - "Then marks it the way an examiner would, line by line, against the assessment objectives."
-  - "And shows your child where the marks were won and lost, and the technique that lifts a paragraph into the top band."
-method_body_after: "From there, lessons work on the things costing the marks. Structuring an essay with PEEL or PETAL so it argues a point rather than retells the story. Embedding a quotation and actually analysing it. Comparing two unseen poems without freezing. Writing well when the clock is running. Most parents notice the confidence shift first. The grade tends to follow."
-method_image: "/images/classical-library-books-and-busts.jpg"
-
-# ───────────── PRICING ─────────────
-pricing_heading: "What English tutoring actually costs"
-pricing_body: "Lessons start at £37 an hour. The exact rate depends on the tutor you choose, and we agree it with you before anything is booked. You pay per lesson. No upfront fees, no contracts, no notice period. If English tutoring stops being the right thing for your child, you stop, and there is nothing to unwind."
-pricing_marks:
-  - "Pay per lesson"
-  - "Free consultation and trial calls"
-  - "Cancel any time"
-
-# ───────────── FAQ ─────────────
-faqs:
-  - q: "How do I know if my child actually needs a GCSE English tutor?"
-    a: "The clearest sign is a gap between how much your child understands and what the essay scores. They have read the book, they can talk about it, and the marks still will not move. Or the reading questions are fine and Question 5 keeps dragging the grade down. Sometimes it is the unseen poetry, which few students feel truly taught. Any of those is a good reason to call. If we do not think tutoring is the right move, we will say so."
-  - q: "Do you cover both English Language and English Literature?"
-    a: "Yes. They are two separate GCSEs and they reward different things, so we match a tutor who can work across both. Language is reading unseen texts and the writing questions. Literature is Shakespeare, the 19th-century novel, a modern text and poetry, both the anthology and the unseen. On the first call Joe finds out which one is dragging the grade, and often it is both, then matches accordingly."
-  - q: "My child understands the texts but the essays score low. What is going wrong?"
-    a: "This is the most common thing we hear about English. Usually the essay is retelling the story rather than arguing a point, quotations are dropped in without being unpicked, or there is no clear structure holding it together. A good tutor teaches the technique, PEEL or PETAL, embedding and analysing a quotation, writing about language and structure, so the understanding that is already there finally starts scoring."
-  - q: "Can a tutor really help with Question 5 and the creative writing?"
-    a: "Yes, and it matters, because Question 5 is worth 40 of the 80 marks on each Language paper. Half the paper. Writing to describe, to narrate or to argue a viewpoint is a craft you can teach, not a talent a student either has or does not. The tutor works on planning fast, structuring a piece, varying sentences and landing the ending, all under timed conditions."
-  - q: "Do you tutor GCSE English online or in person?"
-    a: "Everything runs online through Lessonspace, our shared whiteboard. The tutor can pull up your child's essay or a poem and annotate it with them in real time, highlighting where a paragraph loses marks and marking it as an examiner would. Most students focus better one-to-one online than in a class of thirty. We do not do in-person."
-  - q: "Is the consultation and the trial calls really free?"
-    a: "Yes. The 40-minute consultation with Joe costs nothing. The trial calls with the tutors he suggests are free too. You only start paying once you have chosen a tutor and weekly lessons begin. No catch, no card details up front."
-
-# ───────────── FINAL FORM ─────────────
-form_cta: "Tell Joe what is going on with the English"
-form_intro: "Joe will call you back within one working day to set up a 40-minute consultation. He will ask which board and which texts your child sits, the predicted grade, and whether it is the reading, the writing or the Literature essays losing the marks, then send two or three tutors with free trial calls so you can pick the one who fits. If he does not think tutoring is right for now, he will tell you."
-form_message_label: "Where is your child stuck?"
-form_message_placeholder: "For example: Year 11 AQA English, on Macbeth and An Inspector Calls, predicted a 5, hoping for a 7. The reading questions are fine but the essays read like plot summary and Question 5 keeps losing marks."
-form_button: "Book my free call with Joe"
-form_note: "We usually reply within one working day. No obligation. Lessons start from £37 an hour."
-
+faq_items:
+  - q: "My child understands the texts but the essays score low. What's going wrong?"
+    a: "It's the thing we hear most about English, and it's usually technique rather than understanding. The essay retells the story instead of arguing a point, or quotations get dropped in without being picked apart. A tutor shows your child how to plan an argument, embed a quotation and write about the writer's choices, so what they already think finally starts scoring."
+  - q: "Do you cover English Language and English Literature?"
+    a: "Yes, both. They're two separate GCSEs and they reward different things. Language is reading unseen texts plus the writing questions. Literature is Shakespeare, a 19th-century novel, a modern text and poetry, both the anthology and the unseen. On the call we'll find out which one is dragging, and often it's a bit of both."
+  - q: "Do the tutors know my child's exam board and set texts?"
+    a: "Yes. AQA, Edexcel, OCR and Eduqas set different papers, and schools pick different books, so one Year 11 is on Macbeth and An Inspector Calls while the next is on Romeo and Juliet and Lord of the Flies. We pick tutors who know your child's board and texts. Not sure which they are? It's usually on the front of a mock paper, or we can work it out on the call."
+  - q: "Can a tutor help with the creative writing question?"
+    a: "Yes, and it's worth it. On AQA, Question 5 is 40 of the 80 marks on each Language paper, so half the paper. Writing to describe, narrate or argue is a craft that can be taught, not a talent you either have or don't. The tutor works on planning quickly, structuring a piece and varying sentences, all against the clock."
+  - q: "How much does it cost?"
+    a: "Lessons start from £37 an hour. The exact price depends on the tutor, and we'll always agree it with you before anything is booked. There's no contract, no joining fee and nothing to pay upfront. You just pay for the lessons you have, and the first chat with us and the video meeting with your tutor are free."
+  - q: "What if we don't click with the tutor?"
+    a: "Just let us know and we'll find someone else, with no charge and no awkward conversation. It happens, and we'd much rather sort it than have your child sit through lessons that aren't working. It's also why you hear from two or three tutors before choosing, rather than being handed one."
+  - q: "Does online tutoring actually work for English?"
+    a: "It does, and it suits English well. On Lessonspace the tutor can pull up your child's essay or a poem and mark it up with them in real time, showing exactly where a paragraph gains or loses marks. Every lesson has a replay too, which is handy for going back over a quotation or a plan before a mock."
+  - q: "My child doesn't really want a tutor. Is that normal?"
+    a: "Very normal, and it's probably the thing parents mention most. It usually changes once they meet the tutor, because it feels nothing like an English lesson at school. There's one person, their full attention and nobody else reading over their shoulder. That's why your child gets to meet the tutor on a free video call first."
+  - q: "Do you cover where we live?"
+    a: "Yes, we cover the whole of the UK. All our lessons are online, so it doesn't matter whether you're in a city or a village. It also means we can pick the tutor who's the best fit for your child, rather than whoever happens to live nearby."
 sitemap:
   priority: 0.9
   changefreq: monthly

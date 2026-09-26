@@ -1,148 +1,84 @@
 ---
-title: "Online GCSE Spanish Tutors, 1-to-1"
-description: "Vocabulary, writing and the speaking exam, taught online by GCSE Spanish specialists. Free 30-minute call with a co-founder first, then £37 an hour."
-robots: "index, follow"
+# GCSE Spanish subject page, on the location page design (design: "location",
+# rendered by layouts/partials/ads-subject-body.html). Structure and
+# parent-chat voice follow the GCSE Maths reference page.
+title: "GCSE Spanish Tutors Online, Matched to Your Child | The Degree Gap"
+description: "Friendly one-to-one online GCSE Spanish tutors for listening and writing. Free consultation call, profiles within 24 hours, lessons from £37, no contract."
 layout: "single"
-subject: "GCSE Spanish"
+design: "location"
+robots: "index, follow"
+callback_prompt: true
 level: "GCSE"
+subject: "GCSE Spanish"
+subject_short: "Spanish"
+teaches_token: "GCSE - Spanish"
 
 # ───────────── HERO ─────────────
-banner_heading: "GCSE Spanish Tutors Who Steady the Listening and Sharpen the Writing"
-banner_description: "You can see the vocabulary going in. What you cannot see is why the listening still runs away from them in the exam."
-banner_cta_primary: "Book your free call with Joe"
-banner_cta_secondary: "07859 965776"
-pricing_note: "From £37/hr"
-rating_text: "5.0 · 100+ Google reviews"
-hero_image: "/images/founders-award.jpg"
-hero_alt: "Harry and Joe, co-founders of The Degree Gap, with the GCSE Specialists of the Year award"
-grade_jump_from: "E"
-grade_jump_to: "B"
-grade_jump_text: "A real grade jump, in one term."
+hero_eyebrow: "GCSE SPANISH TUTORING · ONLINE, ACROSS THE UK"
+hero_h1: "Online GCSE Spanish Tutors, Matched to Your Child"
+hero_lead: "If you can see the vocabulary going in and the Spanish grade still isn't moving, you're not alone. Usually it's one skill, the listening or the writing, quietly dragging the rest down, and that can be turned around. Book a free consultation call with our team so we can get to know your child, and within 24 hours of it you'll get profiles of two or three tutors we think would suit them."
+meta_2: "Online using the platform Lessonspace, plus replay available"
+meta_3: "GCSE Tutoring Specialists of the Year 2025 & 2026"
 
-# ───────────── WHY DIFFERENT ─────────────
-why_heading: "What we do differently with GCSE Spanish"
-why_blocks:
-  - title: "We have met every tutor we put in front of you"
-    body: "The hardest part of finding a Spanish tutor is usually not knowing who you are getting, a name off a directory or a profile you cannot really read. Harry and Joe have sat and interviewed every tutor on the platform themselves, and roughly thirty-three people apply for every one we take on. So by the time a name reaches you, it has already been through two people who know the difference between someone who speaks Spanish and someone who can teach a fifteen-year-old to write it under exam conditions."
-  - title: "Four skills, marked separately, and usually only one is dragging the grade"
-    body: "GCSE Spanish is really four exams in one: listening, speaking, reading and writing, each worth a quarter of the grade. A grade rarely slips across all four at once. Far more often the reading is fine and it's the listening that plays too fast, or the writing quietly losing marks on tenses and adjective agreement. The tutor's first job is finding which of the four is actually costing the grade, so the sessions go there and not over the parts that already work."
-  - title: "We start by listening to you, not selling to you"
-    body: "Most parents who reach us can't name exactly what has gone wrong, only that the effort is going in and the Spanish grade is stuck. That's what the 40-minute call with Joe is for. He'll ask about the board, the predicted grade, the mock that came back lower than hoped, and whether it's the vocabulary that won't stick or the speaking exam that makes them freeze. From there he builds a small shortlist of tutors who can do something about it."
+card_heading: "Talk to a member of the team to start the matching process"
+card_points:
+  - "A free consultation call, usually around 30 minutes"
+  - "2 or 3 tutor profiles within 24 hours of the call"
+  - "Lessons from £37, no contract"
 
-# ───────────── HOW IT WORKS ─────────────
-how_heading: "How a Spanish match actually happens"
-how_steps:
-  - title: "A 40-minute consultation with Joe"
-    body: "When you get in touch, Joe calls you back to fix a time that suits you. The call itself is a proper conversation about your child's Spanish, the exam board, the predicted grade and where the marks are going, whether that's the listening speed, the vocabulary or the written tasks. By the end of it he already has a sense of which tutors would fit."
-  - title: "Free trial calls with two or three tutors"
-    body: "Joe sends a shortlist of two or three tutors he thinks could work for your child, and each one offers a free trial call. You get to meet them, watch how they explain a tricky bit of Spanish, and see who your child actually warms to. No commitment after, no card details, no awkward pressure."
-  - title: "You pick the tutor that fits, and sessions begin"
-    body: "From the trial calls you choose the tutor who feels right, and weekly sessions start on Lessonspace, our shared online whiteboard. The tutor can play audio for listening practice and mark a piece of writing live on screen. You pay per session, no contracts, and if it ever stops working, you stop."
+# ───────────── TUTORS ─────────────
+tutors_eyebrow: "MEET SOME OF THE TUTORS"
+tutors_heading: "Some of the GCSE Spanish tutors you could be matched with"
+tutors_intro: "You won't be left scrolling through hundreds of profiles on your own. We've met every tutor on our platform, and after your call we pick the two or three who know your child's board and who we think will get on best with them. Here are a few of them."
+tutor_names:
+  - "Darcy Ind"
+  - "Luke Nixon"
+  - "Joshua Ramsdale"
+  - "Sara Dellapiana"
 
-# ───────────── KPI STATS STRIP ─────────────
-stats_heading: "The platform in numbers"
-stats:
-  - number: "3%"
-    label: "Tutor acceptance rate"
-    body: "Around one in thirty-three applicants makes it past Joe and Harry"
-  - number: "100+"
-    label: "Five-star Google reviews"
-    body: "Real Degree Gap families, independently verified"
-  - number: "5,000+"
-    label: "Hours of tutoring delivered"
-    body: "Across GCSE, A-Level and university applications"
-  - number: "15+"
-    label: "UK schools we work with"
-    body: "Directly, with resources shared to many more"
+review_names:
+  - "Keira Lei"
+  - "Philippa Langton"
+  - "Augusta Oloke"
+  - "Nazrul Islam"
+  - "Lisa James"
+  - "Sorland Pinnacle"
 
-# ───────────── MEET THE FOUNDERS ─────────────
-founders_heading: "Meet Harry and Joe"
-founders_eyebrow: "Who runs The Degree Gap"
-founders_body: "We're Harry and Joe, the two who started The Degree Gap. We built it because we kept seeing the same thing: capable students quietly getting lost in a class of thirty, where the pace and the attention could never quite match what they needed. So we set up one-to-one tutoring around the child, matched on the exam board and on how they learn, not just on the subject on the timetable. Between us we've got over five thousand hours of one-to-one teaching, and a firm view about what actually moves a GCSE Spanish grade."
-founders_image: "/images/founders-award.jpg"
-founders_image_alt: "Harry and Joe, co-founders of The Degree Gap, with the GCSE Specialists of the Year award"
-founders_cta: "Book your free call with Joe"
+# ───────────── 3 STEPS ─────────────
+steps_heading: "Start GCSE Spanish tutoring in 3 steps"
+steps_lead: "Most families have their first lesson booked within a week. And you don't pay anything until your child has found a tutor they like."
+steps:
+  - title: "A free consultation call"
+    body: "A relaxed chat with a member of the team, usually around 30 minutes. It's how we get to know you and your child: the exam board and tier if you know them, whether it's the listening, the speaking or the writing losing marks, and how your child likes to learn. That's what lets us personalise everything from there. No pressure and no sales pitch."
+  - title: "Meet 2 or 3 tutors"
+    body: "Within 24 hours of the call you'll get profiles of two or three tutors we've picked for your child, so you can see who they are before choosing. Your child can then meet your favourite on a free video call."
+  - title: "Start weekly lessons"
+    body: "Lessons are one-to-one and online, using the platform Lessonspace, where the tutor can play listening clips and mark writing live on screen, and there's a replay of every lesson to look back on. From £37 an hour, no contract, and you can stop whenever you like."
 
-# ───────────── PARENT VOICES (reviews surfaced from data) ─────────────
-voices_heading: "What families say after the sessions start"
-voices_eyebrow: "Verified Google reviews"
-voices_intro: "Real reviews from real Degree Gap families, all verified on Google. Spanish usually sits inside a bigger picture for these families, so the reviews below span subjects, but what they describe is the thing tutoring actually changes."
-voices:
-  - name: "Keira"
-    role: "GCSE Student"
-    text: "Has definitely helped me increase my grades from an E to a B."
-  - name: "Philippa"
-    role: "Parent of GCSE Student"
-    text: "I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings. Highly recommend."
-  - name: "Heidi"
-    role: "Parent"
-    text: "Our tutor is simply amazing with our daughter. He understands her completely and her sessions are helping her with her school work so much. We cannot thank him enough."
-  - name: "Augusta"
-    role: "Parent of GCSE Student"
-    text: "The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."
-  - name: "Nazrul"
-    role: "Parent"
-    text: "My daughter found the tutors were very helpful for her GCSE. Thank you."
-  - name: "J.O."
-    role: "A-Level Student"
-    text: "At first I was hesitant on getting a tutor, but this wasn't the case. My tutor helped me massively with my essays, topics I didn't understand, and overall confidence with the subject. I highly recommend."
+# ───────────── CLOSING CTA ─────────────
+final_heading: "Book your free<br>GCSE Spanish consultation"
+final_body: "A friendly consultation call, usually around 30 minutes, so we can get to know your child: which of the four skills is costing marks, which board they sit and what they're like as a learner. Within 24 hours you'll have profiles of two or three tutors to choose from."
+final_assurance: "Free call · Lessons from £37 · No contract"
 
-# ───────────── TUTOR STRIP ─────────────
-tutor_strip_heading: "A few of the Spanish tutors you might meet"
-tutor_strip_body: "You won't be left scrolling through hundreds of profiles, guessing which one suits your child. We do that part. After the call with Joe, we come back with two or three names picked for your child's exam board and for whatever is actually going wrong, whether that's the listening speed or the writing that keeps bleeding marks. Every one of them cleared the same interview that only about three in a hundred applicants pass. The faces below are a small preview of who's on the other end of it."
-
-# ───────────── EXAM BOARDS ─────────────
-# TODO: swap board URLs from #get-help to the real /aqa/, /edexcel/ pages once built
-boards_heading: "AQA or Edexcel, and it matters more than parents expect"
-boards_intro: "AQA and Edexcel set GCSE Spanish differently. The four skills are the same, but the question styles, the mark schemes and the vocabulary they lean on are not. A child taught one board and drilled on the other loses marks that have nothing to do with how good their Spanish is. Not sure which board your child sits? Joe will find out on the first call."
-boards:
-  - name: "AQA"
-    url: "#get-help"
-    body: "The most common board for GCSE Spanish. The listening paper now includes a dictation section, the reading paper asks for translation into English, and the writing paper wants translation back into Spanish across different tenses. We drill the points where marks quietly disappear."
-  - name: "Edexcel"
-    url: "#get-help"
-    body: "Pearson Edexcel marks the same four skills with its own question framing and its own idea of what a top-band answer looks like. Our tutors know where Edexcel students tend to drop marks in the writing and translation, and how the speaking is built, so practice matches the paper your child actually sits."
-
-# ───────────── FIRST SESSION METHOD ─────────────
-method_heading: "What the first Spanish session actually looks like"
-method_steps:
-  - "The tutor plays a section of a listening paper at real exam speed and watches where it falls apart, usually the moment the audio moves faster than the vocabulary can keep up."
-  - "Then looks at a recent piece of writing and marks it the way an examiner would, tense by tense, opinion by opinion."
-  - "Shows your child where the marks actually went, and the technique that turns a safe sentence into one that scores up a band."
-method_body_after: "From there the sessions move onto whatever is costing the points, the listening drills at speed, or the writing that needs more than one tense to score. Most parents notice the confidence shift first. The grade tends to follow over the half term after."
-method_image: "/images/child-using-online-learning-laptop.jpg"
-
-# ───────────── PRICING ─────────────
-pricing_heading: "What it costs"
-pricing_body: "Sessions start at £37 an hour. The exact rate depends on the tutor, and we agree it with you before anything is booked. You pay per session. No upfront fees and no contracts. If at any point it isn't working for your child, you stop. No phone calls trying to leave, no money tied up in something that isn't helping."
-pricing_marks:
-  - "Pay per session"
-  - "Free consultation and trial calls"
-  - "Cancel any time"
-
-# ───────────── FAQ ─────────────
-faqs:
-  - q: "How do I know if my child actually needs a GCSE Spanish tutor?"
-    a: "The clearest sign is effort that isn't showing up in the grade. The vocabulary is being revised, but the listening still runs away from them and the writing keeps coming back with the same marks lost. Sometimes it's simpler than that, some students just want to push further than the class pace allows. Either is a good reason to get in touch, and we'll tell you honestly on the call if we don't think tutoring is the right move."
+faq_items:
   - q: "My child knows the words but the listening goes too fast. What helps?"
-    a: "This is one of the most common things we hear about Spanish. There's a real gap between knowing a word on a page and catching it in fast, connected speech. Tutors work with audio at real exam speed, build the recall so common words don't need decoding mid-sentence, and cover the dictation section where AQA students often lose easy marks. It's practice, but it's targeted practice, not playing tracks and hoping."
-  - q: "The writing tasks keep losing marks. What does a tutor actually change?"
-    a: "Usually the Spanish is better than the mark suggests. The marks go on things the student can't see: a tense that slips, an adjective that doesn't agree, an answer that stays in the present when the task wanted past and future too. A tutor marks the writing the way the examiner does, shows where each mark went, and drills the handful of structures that lift an answer up a band. Most students find the writing is the fastest part to move once someone shows them the pattern."
-  - q: "Do you cover both AQA and Edexcel Spanish?"
-    a: "Yes, and we match on it deliberately. The two boards mark the writing and translation differently and ask for different things in the speaking, so a tutor who knows your child's board can practise the actual paper rather than a near version of it. If you're not sure which board your child sits, Joe will work it out with you on the first call."
-  - q: "Do you teach GCSE Spanish online or in person?"
-    a: "Everything runs online through Lessonspace, our shared whiteboard. It suits Spanish well. The tutor can play listening clips and mark writing live on screen, and speaking practice, the role-play, the photo card and the general conversation, works naturally over a call once the nerves settle. Most students focus better one-to-one online than they do in a class of thirty. We don't do in-person."
-  - q: "Is the consultation and are the trial calls really free?"
-    a: "Yes. The 40-minute consultation with Joe is free, and the trial calls with the tutors he suggests are free too. You only start paying once you've chosen a tutor and weekly sessions begin. No catch, no card details up front."
-
-# ───────────── FINAL FORM ─────────────
-form_cta: "Tell Joe where the Spanish is slipping"
-form_intro: "Joe will call you back within one working day to arrange a 40-minute consultation. He'll ask about the exam board, the predicted grade and what you've already tried, then send two or three tutors with free trial calls so you can pick the one that fits. If he doesn't think tutoring is the right move right now, he'll say so."
-form_message_label: "Where is the Spanish slipping?"
-form_message_placeholder: "For example: Year 11 AQA Spanish, predicted a 4, hoping for a 6. The listening runs away from them and the writing keeps losing marks on tenses."
-form_button: "Book my free call with Joe"
-form_note: "We typically respond within one working day. No obligation. Sessions start from £37 an hour."
-
+    a: "Practice at real exam speed, with someone showing them what to listen for. Knowing a word on a page and catching it in fast speech are different skills. The tutor works with real listening papers, builds up recall of the common words so they don't need decoding mid-sentence, and covers the dictation section where AQA students often drop easy marks."
+  - q: "The writing keeps losing marks. What does a tutor actually change?"
+    a: "Usually the Spanish is better than the mark suggests. The marks go on things your child can't see yet: a tense that slips, an adjective that doesn't agree, an answer that stays in the present when the task wanted past and future too. The tutor marks the writing the way an examiner would and drills the few structures that lift an answer up a band."
+  - q: "How is GCSE Spanish examined?"
+    a: "As four separate papers: Listening, Speaking, Reading and Writing, each worth a quarter of the grade, at Foundation or Higher tier. A grade rarely slips across all four at once, so the tutor's first job is finding which skill is costing the most marks and starting there."
+  - q: "My child freezes in the speaking exam. Can a tutor help?"
+    a: "Yes, and it's really common. The tutor rehearses the speaking tasks out loud, the role-play and the photo card, until the answers come without the long pause. Your child builds a bank of opinions and reasons to fall back on, so there's much less to freeze over on the day."
+  - q: "Do the tutors know my child's exam board?"
+    a: "Yes. AQA and Edexcel test the same four skills but word the questions, the translation and the speaking differently, so we pick tutors who know your child's board. Not sure which it is? It's usually on the front of a mock paper, or we can work it out on the call."
+  - q: "How much does it cost?"
+    a: "Lessons start from £37 an hour. The exact price depends on the tutor, and we'll always agree it with you before anything is booked. There's no contract, no joining fee and nothing to pay upfront. You just pay for the lessons you have, and the first chat with us and the video meeting with your tutor are free."
+  - q: "What if we don't click with the tutor?"
+    a: "Just let us know and we'll find someone else, with no charge and no awkward conversation. It happens, and we'd much rather sort it than have your child sit through lessons that aren't working. It's also why you hear from two or three tutors before choosing, rather than being handed one."
+  - q: "Does online tutoring actually work for Spanish?"
+    a: "It does, and it suits a language well. On Lessonspace the tutor can play listening clips, mark a piece of writing live on screen and run speaking practice over the call. Every lesson has a replay too, so your child can listen back to their own answers before the speaking exam."
+  - q: "Do you cover where we live?"
+    a: "Yes, we cover the whole of the UK. All our lessons are online, so it doesn't matter whether you're in a city or a village. It also means we can pick the tutor who's the best fit for your child, rather than whoever happens to live nearby."
 sitemap:
   priority: 0.9
   changefreq: monthly
