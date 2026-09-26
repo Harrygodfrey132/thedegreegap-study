@@ -24,37 +24,44 @@
 
 {{ $p        := .Params }}
 {{ $level    := $p.level   | default "GCSE" }}
-{{ $subject  := $p.subject_short | default ($p.subject | default "Maths") }}
+{{ $subject  := $p.subject_short | default (strings.TrimPrefix (printf "%s " $level) ($p.subject | default "Maths")) }}
+{{/* $label is how the page names its own subject in running copy ("GCSE
+     Maths"). Pages that aren't a level plus a subject (11+, SEN, Reading)
+     set subject_label. Exam-board pages (layout "board") prefix the board. */}}
+{{ $isBoard  := eq $p.layout "board" }}
+{{ $board    := $p.board | default "" }}
+{{ $label    := $p.subject_label | default (printf "%s %s" $level $subject) }}
+{{ $fullLabel := cond $isBoard (printf "%s %s" $board $label) $label }}
 {{ $area     := $p.area    | default "the UK" }}
 {{ $count    := site.Params.googleReviewCount }}
-{{ $book     := printf "%s?subject=%s" ("book-a-call/" | relURL) (urlquery (printf "%s %s" $level $subject)) }}
+{{ $book     := printf "%s?subject=%s" ("book-a-call/" | relURL) (urlquery ($p.book_subject | default $fullLabel)) }}
 
 {{/* ── Hero ── */}}
-{{ $heroEyebrow := $p.hero_eyebrow | default (printf "%s TUTORING · ALL OF THE UK" $level) }}
-{{ $heroH1   := $p.hero_h1   | default (printf "Online %s %s Tutors, Matched on Exam Board" $level $subject) }}
+{{ $heroEyebrow := $p.hero_eyebrow | default (printf "%s TUTORING · ONLINE, ACROSS THE UK" (upper $fullLabel)) }}
+{{ $heroH1   := $p.hero_h1   | default (printf "Online %s Tutors, Matched to Your Child" $fullLabel) }}
 {{ $heroLead := $p.hero_lead | default "" }}
 
 {{/* ── Consultation card ── */}}
 {{ $cardEyebrow := $p.card_eyebrow | default "FREE CONSULTATION" }}
-{{ $cardHeading := $p.card_heading | default (printf "Talk to a %s matching specialist this week" $subject) }}
+{{ $cardHeading := $p.card_heading | default "Talk to a member of the team to start the matching process" }}
 {{ $cardPoints  := $p.card_points  | default (slice
   "A free consultation call, usually around 30 minutes"
-  "Two or three tutor profiles within 24 hours"
-  "First lesson from £37, only pay if you continue") }}
+  "2 or 3 tutor profiles within 24 hours of the call"
+  "Lessons from £37, no contract") }}
 {{ $cardCta     := $p.card_cta     | default "Book a Free Consultation" }}
 
 {{/* ── Coverage (the map section) ── */}}
 {{ $mapUrl := $p.map_url | default "https://maps.google.com/maps?q=United+Kingdom&z=5&output=embed" }}
 
 {{/* ── Steps ── */}}
-{{ $stepsHeading := $p.steps_heading | default (printf "Start %s %s tutoring in 3 steps" $level $subject) }}
-{{ $stepsLead    := $p.steps_lead    | default "From first call to first lesson in under a week, with no admin and no obligation." }}
+{{ $stepsHeading := $p.steps_heading | default (printf "Start %s tutoring in 3 steps" $fullLabel) }}
+{{ $stepsLead    := $p.steps_lead    | default "Most families have their first lesson booked within a week. And you don't pay anything until your child has found a tutor they like." }}
 {{ $steps        := $p.steps         | default (slice) }}
 
 {{/* ── Tutors: named in front matter if given, otherwise four at random
      from everyone who teaches this level and subject, as on the location
      pages. ── */}}
-{{ $teachToken := printf "%s %s" $level $subject }}
+{{ $teachToken := $p.teaches_token | default (replace $label "A-Level" "A level") }}
 {{ $tutors := slice }}
 {{ with $p.tutor_names }}
   {{ range . }}
@@ -106,7 +113,7 @@
         </div>
       </div>
 
-      <aside class="lvls-hero__card" aria-label="Book a free {{ $level }} {{ $subject }} consultation">
+      <aside class="lvls-hero__card" aria-label="Book a free {{ $fullLabel }} consultation">
         <p class="lvls-hero__card-eyebrow">{{ $cardEyebrow }}</p>
         <h2 class="lvls-hero__card-title">{{ $cardHeading }}</h2>
         <ul class="lvls-hero__card-points">
@@ -148,20 +155,20 @@
   <div class="container">
     <div class="lvls-tutors__head">
       <p class="loc-eyebrow">{{ $p.tutors_eyebrow | default "MEET THE TUTORS" }}</p>
-      <h2>{{ $p.tutors_heading | default (printf "Some of our %s %s tutors" $level $subject) }}</h2>
-      <p>{{ $p.tutors_intro | default (printf "A small selection of the %s %s tutors in our network. We match each student personally to the tutor who best fits their year group, exam board and the gap they're trying to close." $level $subject) }}</p>
+      <h2>{{ $p.tutors_heading | default (printf "Some of the %s tutors you could be matched with" $label) }}</h2>
+      <p>{{ $p.tutors_intro | default "You won't be left scrolling through hundreds of profiles on your own. We've met every tutor on our platform, and after your call we pick the two or three we think will get on best with your child. Here are a few of them." }}</p>
     </div>
     {{ if $tutors }}
     <div class="lvls-tutors__grid">
       {{ range $tutors }}
       <article class="lvls-tutor-card">
         <div class="lvls-tutor-card__photo">
-          <img src="{{ partial "url.html" .image }}" alt="{{ .name }}, {{ $level }} {{ $subject }} tutor" width="400" height="400" loading="lazy" decoding="async"
+          <img src="{{ partial "url.html" .image }}" alt="{{ .name }}, {{ $label }} tutor" width="400" height="400" loading="lazy" decoding="async"
                onerror="this.closest('.lvls-tutor-card').style.display='none'">
         </div>
         <div class="lvls-tutor-card__body">
           <h3 class="lvls-tutor-card__name">{{ .name }}</h3>
-          <p class="lvls-tutor-card__role">{{ $level }} {{ $subject }} tutor</p>
+          <p class="lvls-tutor-card__role">{{ $label }} tutor</p>
           <p class="lvls-tutor-card__blurb">"{{ strings.Trim .blurb "\" " | truncate 120 }}"</p>
           <a href="{{ $book }}" class="lvls-tutor-card__link" data-track="book_call_click" data-track-place="tutor_card">Book a free call →</a>
         </div>
@@ -245,6 +252,76 @@
   });
 })();
 </script>
+
+<!-- =============================================
+     SECTION 3b: THE SPECIFICATION
+     Exam-board pages show how their board examines the subject, paper by
+     paper, and where the marks are won. Subject pages with board pages
+     under them show a card per board instead, so a parent can go straight
+     to the specification their child sits.
+     ============================================= -->
+{{ $boardKids := slice }}
+{{ if not $isBoard }}{{ $boardKids = where (where site.Pages "Params.layout" "board") "Params.subject" $p.subject }}{{ end }}
+{{ if or $p.papers $p.board_points $boardKids }}
+<style>
+  .ads-spec { padding:72px 0; background:#fff; border-top:1px solid #ece4d4; }
+  .ads-spec__head { max-width:760px; margin:0 auto 34px; text-align:center; }
+  .ads-spec__head h2 { font-size:clamp(1.6rem,3.4vw,2.2rem); font-weight:800; letter-spacing:-0.02em; color:#1f1b18; margin:6px 0 12px; text-wrap:balance; }
+  .ads-spec__head p { font-size:1.05rem; line-height:1.65; color:#5f5a54; margin:0; }
+  .ads-spec__grid { display:grid; grid-template-columns:repeat(auto-fit, minmax(240px, 1fr)); gap:18px; max-width:1040px; margin:0 auto; }
+  .ads-spec__card { background:#fbf7ef; border:1px solid #ece4d4; border-radius:14px; padding:24px 22px; }
+  .ads-spec__card h3 { display:flex; align-items:center; gap:10px; font-size:1.06rem; font-weight:800; color:#1f1b18; margin:0 0 10px; }
+  .ads-spec__card h3::before { content:""; width:8px; height:8px; border-radius:50%; background:#800020; flex:0 0 auto; }
+  .ads-spec__card p { font-size:.98rem; line-height:1.6; color:#5f5a54; margin:0; }
+  .ads-spec__sub { margin-top:56px; }
+  a.ads-spec__card { display:block; text-decoration:none; transition:transform .18s, box-shadow .18s, border-color .18s; }
+  a.ads-spec__card:hover { transform:translateY(-2px); border-color:#e6c9c9; box-shadow:0 12px 28px rgba(128,0,32,.1); }
+  .ads-spec__go { display:inline-block; margin-top:14px; color:#800020; font-weight:700; font-size:.95rem; }
+  .ads-spec__cta { text-align:center; margin-top:34px; }
+</style>
+<section class="ads-spec" id="specification">
+  <div class="container">
+    {{ with $p.papers }}
+    <div class="ads-spec__head">
+      <p class="loc-eyebrow">{{ $p.assess_eyebrow | default "THE SPECIFICATION" }}</p>
+      <h2>{{ $p.assess_heading | default (printf "How %s is examined, paper by paper" $fullLabel) }}</h2>
+      {{ with $p.assess_intro }}<p>{{ . }}</p>{{ end }}
+    </div>
+    <div class="ads-spec__grid">
+      {{ range . }}<article class="ads-spec__card"><h3>{{ .name }}</h3><p>{{ .detail }}</p></article>{{ end }}
+    </div>
+    {{ end }}
+    {{ with $p.board_points }}
+    <div class="ads-spec__head{{ if $p.papers }} ads-spec__sub{{ end }}">
+      <p class="loc-eyebrow">WHERE THE MARKS ARE</p>
+      <h2>{{ $p.board_points_heading | default (printf "What a %s tutor works on" $fullLabel) }}</h2>
+    </div>
+    <div class="ads-spec__grid">
+      {{ range . }}<article class="ads-spec__card"><h3>{{ .title }}</h3><p>{{ .body }}</p></article>{{ end }}
+    </div>
+    {{ end }}
+    {{ with $boardKids }}
+    <div class="ads-spec__head">
+      <p class="loc-eyebrow">MATCHED TO THE SPECIFICATION</p>
+      <h2>{{ $p.boards_heading | default (printf "Which exam board does your child sit for %s?" $label) }}</h2>
+      <p>{{ $p.boards_intro | default "Each board sets its papers differently, so we pick tutors who know your child's one. Tap your board to see how it's examined and where the marks are won. Not sure which it is? It's usually on the front of a mock paper, or we'll work it out with you on the call." }}</p>
+    </div>
+    <div class="ads-spec__grid">
+      {{ range .ByParam "board" }}
+      <a class="ads-spec__card" href="{{ .RelPermalink }}">
+        <h3>{{ .Params.board }} {{ $label }}</h3>
+        <p>{{ .Params.card_summary | default .Description }}</p>
+        <span class="ads-spec__go">See the {{ .Params.board }} papers &rarr;</span>
+      </a>
+      {{ end }}
+    </div>
+    {{ end }}
+    <div class="ads-spec__cta">
+      <a href="{{ $book }}" class="btn btn-primary" data-track="book_call_click" data-track-place="specification">{{ $p.spec_cta | default "Talk it through with us" }}</a>
+    </div>
+  </div>
+</section>
+{{ end }}
 
 <!-- =============================================
      SECTION 4: WHO WE ARE, founder card (Harry & Joe)
@@ -355,19 +432,97 @@
     <div class="lvls-cta__inner">
       <div class="lvls-cta__copy">
         <p class="lvls-cta__eyebrow">{{ $p.final_eyebrow | default "Get started today" }}</p>
-        <h2>{{ $p.final_heading | default (printf "Book your free<br>%s consultation" $subject) | safeHTML }}</h2>
-        <p>{{ $p.final_body | default (printf "A short, friendly call about your child's %s. Where they're stuck, what they're aiming at, and which %s %s tutor in our network is the right match. No obligation." $subject $level $subject) }}</p>
+        <h2>{{ $p.final_heading | default (printf "Book your free<br>%s consultation" $fullLabel) | safeHTML }}</h2>
+        <p>{{ $p.final_body | default (printf "A friendly consultation call, usually around 30 minutes, so we can get to know your child: where they're stuck with %s, what they're aiming for and what they're like as a learner. Within 24 hours you'll have profiles of two or three tutors to choose from." $subject) }}</p>
         <a href="{{ $book }}" class="btn btn-primary btn-lg" data-track="book_call_click" data-track-place="final">Book Consultation</a>
-        <p class="lvls-cta__assurance">{{ $p.final_assurance | default "First lesson risk-free · No contracts · Cancel any time" }}</p>
+        <p class="lvls-cta__assurance">{{ $p.final_assurance | default "Free call · Lessons from £37 · No contract" }}</p>
       </div>
       <div class="lvls-cta__illustration" aria-hidden="true">
-        {{ partial "responsive-image.html" (dict "src" "/images/students-in-classroom-taking-notes.jpg" "alt" (printf "%s %s tutoring consultation with The Degree Gap" $level $subject) "loading" "lazy" "fallbackWidth" 700 "widths" (slice 400 700 1000) "sizes" "(min-width: 700px) 50vw, 100vw" "quality" 72) }}
+        {{ partial "responsive-image.html" (dict "src" "/images/students-in-classroom-taking-notes.jpg" "alt" (printf "%s tutoring consultation with The Degree Gap" $fullLabel) "loading" "lazy" "fallbackWidth" 700 "widths" (slice 400 700 1000) "sizes" "(min-width: 700px) 50vw, 100vw" "quality" 72) }}
       </div>
     </div>
   </div>
 </section>
 
+
+<!-- =============================================
+     SECTION 8: MORE ON THIS SUBJECT (internal links)
+     Board pages link up to their subject and across to the other boards
+     and to the same board in other subjects. Subject pages link to the
+     other level, to peer subjects and to the location pages that cover
+     them. Kept at the foot so it never gets between a parent and the call.
+     ============================================= -->
+{{ $hubs := where (where (where site.Pages "Section" "subjects") "Kind" "section") "Params.layout" "single" }}
+{{ $parentHub := false }}{{ $boardSibs := slice }}{{ $sameBoard := slice }}
+{{ $sibling := false }}{{ $peers := slice }}{{ $locCovered := slice }}
+{{ if $isBoard }}
+  {{ with .Parent }}{{ $parentHub = . }}{{ end }}
+  {{ range where (where site.Pages "Params.layout" "board") "Params.subject" $p.subject }}{{ if ne .RelPermalink $.RelPermalink }}{{ $boardSibs = $boardSibs | append . }}{{ end }}{{ end }}
+  {{ range where (where site.Pages "Params.layout" "board") "Params.board" $board }}{{ if ne .Params.subject $p.subject }}{{ $sameBoard = $sameBoard | append . }}{{ end }}{{ end }}
+{{ else }}
+  {{ $core := "" }}
+  {{ if eq $level "GCSE" }}{{ $core = strings.TrimPrefix "GCSE " $p.subject }}{{ else if eq $level "A-Level" }}{{ $core = strings.TrimPrefix "A-Level " $p.subject }}{{ end }}
+  {{ if ne $core "" }}
+    {{ with where $hubs "Params.subject" (printf "%s %s" (cond (eq $level "GCSE") "A-Level" "GCSE") $core) }}{{ $sibling = index . 0 }}{{ end }}
+  {{ end }}
+  {{ range (where $hubs "Params.level" $level).ByParam "subject" }}{{ if ne .RelPermalink $.RelPermalink }}{{ $peers = $peers | append . }}{{ end }}{{ end }}
+  {{ $locKey := replace $p.subject "Combined Science" "Science" }}
+  {{ range where site.Pages "Params.layout" "level-subject" }}
+    {{ if eq (printf "%s %s" .Params.level .Params.subject) $locKey }}{{ $locCovered = $locCovered | append . }}{{ end }}
+  {{ end }}
+{{ end }}
+<style>
+  .ads-more { background:#fff; border-top:1px solid #ece4d4; padding:56px 24px; }
+  .ads-more__inner { max-width:940px; margin:0 auto; text-align:center; }
+  .ads-more h2 { font-size:clamp(1.35rem,3vw,1.85rem); font-weight:800; letter-spacing:-0.02em; color:#1f1b18; margin:0 0 8px; }
+  .ads-more__label { font-weight:700; color:#1f1b18; margin:24px 0 12px; font-size:.95rem; }
+  .ads-more__feat { display:inline-flex; align-items:center; gap:9px; max-width:100%; margin:14px auto 0; background:#fbf7ef; border:1px solid #f0e0e0; border-radius:14px; padding:16px 24px; text-decoration:none; color:#1f1b18; font-weight:700; box-shadow:0 8px 24px rgba(128,0,32,.07); }
+  .ads-more__feat span { color:#800020; }
+  .ads-more__grid { display:flex; flex-wrap:wrap; justify-content:center; gap:10px; }
+  .ads-more__pill { display:inline-flex; align-items:center; background:#fff; border:1px solid #ece4d4; border-radius:999px; padding:9px 16px; font-size:.9rem; font-weight:600; color:#1f1b18; text-decoration:none; transition:border-color .15s, color .15s; }
+  .ads-more__pill:hover { border-color:#e6c9c9; color:#800020; }
+  .ads-more__nav { display:flex; gap:8px 26px; justify-content:center; flex-wrap:wrap; margin-top:28px; }
+  .ads-more__nav a { color:#800020; font-weight:700; text-decoration:none; font-size:.95rem; }
+</style>
+<section class="ads-more">
+  <div class="ads-more__inner">
+    <h2>{{ if $isBoard }}More on {{ $label }}{{ else }}Keep exploring{{ end }}</h2>
+    {{ with $parentHub }}<a class="ads-more__feat" href="{{ .RelPermalink }}">All {{ $label }} tutoring <span>&rarr;</span></a>{{ end }}
+    {{ with $boardSibs }}
+    <p class="ads-more__label">The other {{ $label }} exam boards</p>
+    <div class="ads-more__grid">{{ range .ByParam "board" }}<a class="ads-more__pill" href="{{ .RelPermalink }}">{{ .Params.board }} {{ $label }}</a>{{ end }}</div>
+    {{ end }}
+    {{ with $sameBoard }}
+    <p class="ads-more__label">Sitting {{ $board }} in other subjects too?</p>
+    <div class="ads-more__grid">{{ range .ByParam "subject" }}<a class="ads-more__pill" href="{{ .RelPermalink }}">{{ $board }} {{ .Params.subject }}</a>{{ end }}</div>
+    {{ end }}
+    {{ with $sibling }}<a class="ads-more__feat" href="{{ .RelPermalink }}">Also tutoring {{ .Params.subject }} <span>&rarr;</span></a>{{ end }}
+    {{ with $peers }}
+    <p class="ads-more__label">Other {{ $level }} subjects</p>
+    <div class="ads-more__grid">{{ range first 10 . }}<a class="ads-more__pill" href="{{ .RelPermalink }}">{{ .Params.subject }}</a>{{ end }}</div>
+    {{ end }}
+    {{ with $locCovered }}
+    <p class="ads-more__label">Areas we cover for {{ $label }}</p>
+    <div class="ads-more__grid">{{ range (sort . "Params.location") }}<a class="ads-more__pill" href="{{ .RelPermalink }}">{{ .Params.location }}</a>{{ end }}</div>
+    {{ end }}
+    <div class="ads-more__nav">
+      <a href="{{ "subjects/" | relURL }}">Browse all subjects &rarr;</a>
+      <a href="{{ "locations/" | relURL }}">Find a tutor in your area &rarr;</a>
+    </div>
+    {{/* Tutors land on subject pages while looking for work, and this is
+         their only route to the matching recruitment page. */}}
+    {{ if not $isBoard }}{{ with site.GetPage (printf "/jobs/%s" (path.Base $.File.Dir)) }}
+    <p class="ads-more__label" style="font-weight:400;color:#5f5a54;">Are you a tutor rather than a parent? We're hiring. See the <a href="{{ .RelPermalink }}" style="color:#800020;font-weight:700;">{{ .Params.subject }} tutor role</a>.</p>
+    {{ end }}{{ end }}
+  </div>
+</section>
+
 </div><!-- /.ads-page -->
+
+{{ with $faqs }}
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{{ range $i, $f := . }}{{ if $i }},{{ end }}{"@type":"Question","name":{{ $f.q | jsonify }},"acceptedAnswer":{"@type":"Answer","text":{{ $f.a | jsonify }}}}{{ end }}]}</script>
+{{ end }}
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","@id":{{ printf "%s#service" .Permalink | jsonify }},"name":{{ printf "%s Tutoring | The Degree Gap" $fullLabel | jsonify }},"description":{{ .Description | jsonify }},"url":{{ .Permalink | jsonify }},"provider":{"@type":"EducationalOrganization","name":"The Degree Gap","url":"https://thedegreegap.com"},"areaServed":{"@type":"Country","name":"United Kingdom"},"serviceType":"Online Tutoring","offers":{"@type":"Offer","priceCurrency":"GBP","price":"37"}}</script>
 
 {{ partial "reviews-drawer.html" . }}
 {{ partial "ads-tracking.html" . }}

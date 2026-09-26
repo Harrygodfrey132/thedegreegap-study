@@ -1,4 +1,9 @@
 {{ define "main" }}
+{{/* Board pages can switch to the location page design with design:
+     "location", the same way subject pages do (see subjects/single.html). */}}
+{{ if eq .Params.design "location" }}
+{{ partial "ads-subject-body.html" . }}
+{{ else }}
 {{/*
 Exam-board sub-page (e.g. /subjects/gcse-maths-tutor/aqa/). Conversion-first,
 but the core value is a real board-specific assessment breakdown — the papers,
@@ -255,4 +260,5 @@ weighting and pitfalls for THIS exact board. Reusable across board/subject combo
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{{ range $i,$f := .Params.faqs }}{{ if $i }},{{ end }}{"@type":"Question","name":{{ $f.q | jsonify }},"acceptedAnswer":{"@type":"Answer","text":{{ $f.a | jsonify }}}}{{ end }}]}</script>
 {{ end }}
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":"{{ $board }} {{ $subject }} Tutoring | The Degree Gap","description":{{ .Description | jsonify }},"url":"{{ .Permalink }}","provider":{"@type":"EducationalOrganization","name":"The Degree Gap","url":"https://thedegreegap.com"},"serviceType":"Online Tutoring","offers":{"@type":"Offer","priceCurrency":"GBP","price":"37"}}</script>
+{{ end }}
 {{ end }}
