@@ -1,0 +1,9 @@
+{{/* Google Tag Manager, the <noscript> half. Google requires this immediately
+     after the opening <body> tag, so it lives in its own partial rather than
+     being bundled with the <head> snippet. Silent when no container is set. */}}
+{{ with site.Params.googleTagManagerId }}
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ . }}"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+{{ end }}

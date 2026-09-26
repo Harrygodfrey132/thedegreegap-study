@@ -1,0 +1,16 @@
+{{/* Cookiebot consent management.
+
+     MUST be the first script in <head>, above GTM, gtag.js and the Meta Pixel.
+     data-blockingmode="auto" works by intercepting the tracking scripts that
+     come after it and holding them until the visitor consents. Anything loaded
+     above this line is never seen, so it fires regardless of consent. If you
+     add a new script to <head>, add it below this partial.
+
+     Deliberately not async or defer: auto-blocking has to be in place before
+     the parser reaches the tags it is meant to block.
+
+     Loads only when cookiebotId is set in hugo.toml, so consent can be pulled
+     from the whole site by blanking one value. */}}
+{{ with site.Params.cookiebotId }}
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="{{ . }}" data-blockingmode="auto" type="text/javascript"></script>
+{{ end }}
