@@ -1,151 +1,83 @@
 ---
-title: "Online A-Level English Tutors, from £37"
-description: "Rated 5.0 from 108 Google reviews. Our online A-Level English tutors build the argument the mark scheme actually rewards, one to one from £37 an hour."
-robots: "index, follow"
+# A-Level English subject page, on the location page design (design: "location",
+# rendered by layouts/partials/ads-subject-body.html). Mirrors the reference
+# page content/subjects/gcse-maths-tutor/_index.md in the parent-chat voice.
+title: "Online A-Level English Tutors, One-to-One | The Degree Gap"
+description: "One-to-one online A-Level English tutors, picked for your child by our team. Free consultation call, tutor profiles within 24 hours, lessons from £37, no contract."
 layout: "single"
-subject: "A-Level English"
+design: "location"
+robots: "index, follow"
+callback_prompt: true
 level: "A-Level"
+subject: "A-Level English"
+subject_short: "English"
 
 # ───────────── HERO ─────────────
-banner_heading: "A-Level English Tutors Who Build the Critical Argument"
-banner_description: "At GCSE the marks came from naming the technique. A-Level English rewards an argument built and sustained across whole texts, and that is where a lot of confident readers suddenly stall."
-banner_cta_primary: "Book your free call with Joe"
-banner_cta_secondary: "07859 965776"
-pricing_note: "From £37/hr"
-rating_text: "5.0 · 100+ Google reviews"
-hero_image: "/images/founders-award.jpg"
-hero_alt: "Harry and Joe, co-founders of The Degree Gap, with the GCSE Specialists of the Year award"
+hero_eyebrow: "A-LEVEL ENGLISH TUTORING · ONLINE, ACROSS THE UK"
+hero_h1: "Online A-Level English Tutors, Matched to Your Child"
+hero_lead: "If your child loves the texts and the essays still come back in the middle bands, you're not alone. It's the most common thing we hear about A-Level English, and it can be fixed. Book a free consultation call with our team so we can get to know your child, and within 24 hours of it you'll get profiles of two or three tutors we think would suit them. Pick the one that feels right, and lessons start from there."
+meta_2: "Online using the platform Lessonspace, plus replay available"
+meta_3: "Best British Curriculum Tutoring Service Provider 2026"
 
-# ───────────── WHY DIFFERENT ─────────────
-why_heading: "Why parents bring their A-Level English problem to us"
-why_blocks:
-  - title: "We have met every tutor before your child does"
-    body: "Plenty of English graduates can talk brilliantly about a novel. Reading an A-Level essay the way a senior examiner does, seeing where the argument thins out or where context has been bolted on rather than woven in, then teaching an eighteen-year-old to fix it, is a different skill entirely. Harry and Joe have interviewed every tutor on the platform themselves, and about thirty-three people apply for every one they say yes to. So by the time a name reaches you, someone who understands what AO1 through AO5 actually reward has already sat across from them."
-  - title: "Your child's board, set texts and coursework, not just 'English'"
-    body: "AQA A, AQA B, Edexcel, OCR and Eduqas do not set the same papers, do not always study the same texts, and split the comparative essay and the NEA coursework in their own way. One school is comparing Othello against a cluster of poetry, the next is reading two texts through feminist and Marxist criticism for the coursework. Tutoring on the wrong spec is time your child does not have in Year 12 or 13. If you are not sure which board or which texts your child sits, Joe works it out with you on the first call, before any tutor is matched."
-  - title: "We start by finding where the argument breaks down"
-    body: "Most parents can tell the grade has stalled but not why. Is it the comparative essay that never quite compares, the unseen prose or poetry that panics them, an argument that opens well and drifts into retelling the plot, or context and critical readings dropped in as decoration rather than doing any real work? That is what the 40-minute consultation with Joe is for. A proper conversation about the mock, the predicted grade and the exact place the essay loses its grip, before he puts a shortlist together."
+card_heading: "Talk to a member of the team to start the matching process"
+card_points:
+  - "A free consultation call, usually around 30 minutes"
+  - "2 or 3 tutor profiles within 24 hours of the call"
+  - "Lessons from £37, no contract"
 
-# ───────────── HOW IT WORKS ─────────────
-how_heading: "From your first message to the first paid lesson"
-how_steps:
-  - title: "A 40-minute consultation with Joe"
-    body: "When you enquire, Joe calls you back to fix a time that suits you. It is a real forty-minute conversation about your child's A-Level English, which board they sit, the set texts, the predicted grade and whether it is the comparative essay, the unseen analysis or the coursework losing the marks. From there he starts working out which tutors would genuinely fit."
-  - title: "Free trial calls with two or three matches"
-    body: "Joe sends a shortlist of two or three tutors he believes could work, and each one offers a free trial call. Your child gets to see how the tutor takes an argument apart and rebuilds it, and you get to see who they actually warm to. No commitment afterwards, no card details, and nobody chases you."
-  - title: "You pick the tutor who fits, and lessons begin"
-    body: "You choose the tutor who felt right, and weekly lessons start on Lessonspace, our shared online whiteboard, where the tutor can annotate an essay or an unseen passage alongside your child in real time. You pay per lesson. No contracts. If it stops working, you stop."
+# ───────────── TUTORS ─────────────
+tutors_eyebrow: "MEET SOME OF THE TUTORS"
+tutors_heading: "Some of the A-Level English tutors you could be matched with"
+tutors_intro: "You won't be left scrolling through hundreds of profiles on your own. We've met every tutor on our platform, and after your call we pick the two or three who know your child's exam board and set texts, and who we think they'll get on with. Here are a few of them."
+tutor_names:
+  - "Anastasia Picton-Vraka"
+  - "Mobashira Amatul"
+  - "Ella Meehan"
+  - "Ella Peel"
 
-# ───────────── KPI STATS STRIP ─────────────
-stats_heading: "The platform behind the tutor, in numbers"
-stats:
-  - number: "3%"
-    label: "Tutor acceptance rate"
-    body: "Around one in thirty-three who apply make it past Joe and Harry"
-  - number: "100+"
-    label: "Five-star Google reviews"
-    body: "Real Degree Gap families, all independently verified"
-  - number: "5,000+"
-    label: "Hours of tutoring delivered"
-    body: "Across GCSE, A-Level and university applications"
-  - number: "15+"
-    label: "UK schools we work with"
-    body: "Directly, with resources shared to many more"
+review_names:
+  - "serena adeosun"
+  - "Joanna tweed"
+  - "Dan James"
+  - "Alexander Chung"
+  - "Dawn Lattimer"
+  - "Heidi Milburn"
 
-# ───────────── MEET THE FOUNDERS ─────────────
-founders_heading: "Meet Harry and Joe"
-founders_eyebrow: "Who runs The Degree Gap"
-founders_body: "We are Harry and Joe, the two who started The Degree Gap. We built it because we kept seeing the same thing. A student who wrote strong GCSE essays arrives at A-Level, keeps naming the metaphors and the caesura, and cannot work out why the grade has dropped. Nobody has shown them that the goalposts moved. A-Level English rewards an argument built and held across whole texts, with context and critical readings woven in, not a hunt for techniques. So we built one-to-one tutoring around the student, matched on the exam board and the way they think. Between us we have over 5,000 hours of one-to-one teaching, and a firm view on where an A-Level English grade is really won. It is rarely reading more. It is learning to argue a case of their own."
-founders_image: "/images/founders-award.jpg"
-founders_image_alt: "Harry and Joe, co-founders of The Degree Gap, with the GCSE Specialists of the Year award"
-founders_cta: "Book your free call with Joe"
+# ───────────── 3 STEPS ─────────────
+steps_heading: "Start A-Level English tutoring in 3 steps"
+steps_lead: "Most families have their first lesson booked within a week. And you don't pay anything until your child has found a tutor they like."
+steps:
+  - title: "A free consultation call"
+    body: "A relaxed chat with a member of the team, usually around 30 minutes. It's how we get to know you and your child: the exam board and set texts, where the essays are losing marks, how the coursework is going and what they're aiming for, whether that's a predicted grade for UCAS or a university offer. No pressure and no sales pitch."
+  - title: "Meet 2 or 3 tutors"
+    body: "Within 24 hours of the call you'll get profiles of two or three tutors we've picked for your child, so you can see who they are before choosing. Your child can then meet your favourite on a free video call."
+  - title: "Start weekly lessons"
+    body: "Lessons are one-to-one and online, using the platform Lessonspace, where the tutor and your child can mark up an essay or an unseen passage together, with a replay of every lesson. From £37 an hour, no contract, and you can stop whenever you like."
 
-# ───────────── PARENT VOICES (reviews surfaced from data) ─────────────
-voices_heading: "What A-Level families tell us, in their own words"
-voices_eyebrow: "Verified Google reviews"
-voices_intro: "Real reviews from real Degree Gap families, all verified on Google. We picked the ones below because they speak to A-Level, and to what tutoring changes once a student stops feature-spotting and starts arguing a case of their own."
-voices:
-  - name: "Serena"
-    role: "A-Level Student"
-    text: "My tutor is a very intuitive and superb teacher. She listened to my specific concerns and bolstered my confidence in answering questions. She taught me how to think critically and helped me through this highly demanding course. I will happily recommend without a second thought."
-  - name: "J.O."
-    role: "A-Level Student"
-    text: "At first I was hesitant on getting a tutor, but this wasn't the case. My tutor helped me massively with my essays, topics I didn't understand, and overall confidence with the subject. I highly recommend."
-  - name: "Daljit"
-    role: "Parent of A-Level Student"
-    text: "My son gained almost two grades higher than his year 13 mock paper. His tutor was excellent."
-  - name: "Alison"
-    role: "Parent of A-Level Student"
-    text: "My son has been receiving tutor lessons in A Level History and A Level Sociology since the beginning of this year. The tutor has been such a tremendous support, teaching him content as well as exam technique."
-  - name: "Nicolai"
-    role: "A-Level Student"
-    text: "Before joining The Degree Gap, I found it hard to follow the curriculum. The sessions helped everything click. Lessons were calm, focused, and easy to understand. Highly recommend."
-  - name: "Nick"
-    role: "Parent of A-Level Student"
-    text: "Our son has been receiving tuition for Psychology A Level. The tutor has provided a solid base of support outside of school lessons and helped him to improve his latest grades."
+# ───────────── CLOSING CTA ─────────────
+final_heading: "Book your free<br>A-Level English consultation"
+final_body: "A friendly consultation call, usually around 30 minutes, so we can get to know your child: their texts, where the essays are slipping and what they're aiming for. Within 24 hours you'll have profiles of two or three tutors to choose from."
+final_assurance: "Free call · Lessons from £37 · No contract"
 
-# ───────────── TUTOR STRIP ─────────────
-tutor_strip_heading: "A few of the A-Level English tutors you might meet"
-tutor_strip_body: "You will not be left scrolling profiles, guessing which graduate can teach a comparative essay. That is our job. After your call with Joe, we come back with two or three names chosen for your child's board, their set texts and the exact thing holding the grade back, whether that is structuring an argument, handling the unseen, weaving in context and critical readings, or the coursework. Every one has cleared a founder-led interview that only about three in a hundred applicants pass. The faces below are just a preview."
-
-# ───────────── EXAM BOARDS ─────────────
-# TODO: swap board URLs from #get-help to the real /aqa/, /edexcel/, /ocr/, /eduqas/ pages once built
-boards_heading: "Your board, your child's texts and the coursework, not just A-Level English"
-boards_intro: "AQA A, AQA B, Edexcel, OCR and Eduqas mark to different assessment objectives, set different papers and split the comparative essay and the NEA coursework in their own way. The texts differ, and so does what a top-band essay has to do with them. If your child is taught one spec and tutored on another, marks slip through the gap. Not sure which board they sit? Joe helps you pin it down on the first call."
-boards:
-  - name: "AQA A and B"
-    url: "#get-help"
-    body: "AQA runs two A-Level English Literature specs and they are not interchangeable. Spec A is organised around Love through the ages and a shared-context paper, spec B around genre, Aspects of tragedy and comedy, read through critical theory. Which one your child sits changes what their essays have to do, so we match the tutor to the exact spec."
-  - name: "Edexcel"
-    url: "#get-help"
-    body: "Pearson Edexcel builds the A-Level around drama, a themed prose comparison and poetry that pairs a named collection with unseen work, plus a comparative coursework essay. Our tutors know where Edexcel wants two texts genuinely compared rather than written about side by side."
-  - name: "OCR"
-    url: "#get-help"
-    body: "OCR sets drama and poetry pre-1900 alongside a comparative and contextual study that includes an unseen close reading passage, then a coursework folder. We match a tutor who can teach the close reading and the comparison OCR actually rewards, not plot summary with quotations attached."
-  - name: "Eduqas / WJEC"
-    url: "#get-help"
-    body: "Eduqas, the England-facing arm of WJEC, leans on poetry pre-1900 and unseen analysis alongside drama and a prose comparison, with its own coursework. Less common in England, with its own question style, and we have tutors who know both by heart."
-
-# ───────────── FIRST SESSION METHOD ─────────────
-method_heading: "What a first lesson actually looks like"
-method_steps:
-  - "The tutor sits your child down with a real essay question or an unseen passage, no clock on the first attempt."
-  - "Then marks it the way a senior examiner would, against the assessment objectives, paragraph by paragraph."
-  - "And shows your child where the argument was holding and where it slipped into description, then the technique that lifts a paragraph into the top band."
-method_body_after: "From there, lessons work on the things costing the marks. Building a line of argument and holding it across a whole essay. Comparing two texts so they truly speak to each other rather than sitting next to each other. Reading an unseen passage under time without freezing. Weaving in context and critical readings so they do real work, AO3 and AO5 rather than decoration. Most parents notice the confidence shift first. The grade tends to follow."
-method_image: "/images/library-bookshelves-with-hanging-lights.jpg"
-
-# ───────────── PRICING ─────────────
-pricing_heading: "What A-Level English tutoring actually costs"
-pricing_body: "Lessons start at £37 an hour. The exact rate depends on the tutor you choose, and we agree it with you before anything is booked. You pay per lesson. No upfront fees, no contracts, no notice period. If the tutoring stops being the right thing for your child, you stop, and there is nothing to unwind."
-pricing_marks:
-  - "Pay per lesson"
-  - "Free consultation and trial calls"
-  - "Cancel any time"
-
-# ───────────── FAQ ─────────────
-faqs:
-  - q: "How do I know if my child actually needs an A-Level English tutor?"
-    a: "The clearest sign is a gap between how much your child understands and what the essay scores. They can talk about the text for an hour, and the grade will not move. Or the points are all there but they never build into a single argument. Sometimes it is the unseen that throws them, or context and critical readings that sit on top of the essay instead of driving it. Any of those is a good reason to call. If we do not think tutoring is the right move, we will say so."
-  - q: "What is so different about A-Level English compared with GCSE?"
-    a: "At GCSE, a lot of the marks came from spotting the technique and naming it. A-Level asks for something harder. You have to build a critical argument and sustain it across whole texts, compare two of them so they genuinely speak to each other, read unseen prose and poetry cold, and weave in context and different critical readings so they do real work. That step, from identifying devices to arguing a case, is where most students stall, and it is exactly what a good tutor rebuilds."
+faq_items:
+  - q: "My child got a good GCSE in English. Why are they struggling now?"
+    a: "Because A-Level English asks for something different, and it catches out lots of strong students. At GCSE, plenty of marks came from spotting a technique and naming it. A-Level wants an argument of their own, built and held across a whole text, with context and critics' readings doing real work rather than sitting on top. That step is a skill, and a tutor can teach it."
+  - q: "They understand the texts, so why are the essays stuck?"
+    a: "Usually the essay is describing or listing techniques instead of arguing a point. Sometimes the comparison names two texts without really comparing them, or context gets bolted on at the end. In lessons the tutor marks real essays against the assessment objectives, shows your child where the argument slips, and practises holding one line from the first sentence to the last."
+  - q: "Do the tutors know my child's exam board and set texts?"
+    a: "Yes. AQA runs two different specs, A and B, and Edexcel, OCR and Eduqas each set their own papers, texts and coursework. AQA A is built around Love through the ages, for example, while AQA B looks at genres like tragedy and comedy through critical theory. We'll pick tutors who know your child's spec. Not sure which one it is? We can work it out together on the call."
   - q: "Can a tutor help with the NEA coursework?"
-    a: "Yes, within reason. The tutor helps your child understand what the coursework is really asking, choose a strong comparison, shape the argument and sharpen the critical framing, whether that is a feminist, Marxist or post-colonial reading. Everything submitted stays your child's own work, and the tutor keeps to what the exam board allows. But the difference to the thinking behind the essay is usually significant."
-  - q: "My child understands the texts but the essays are stuck. What is going wrong?"
-    a: "This is the most common thing we hear about A-Level English. Usually the essay is describing what happens or listing techniques rather than arguing a point, the comparison names two texts without really comparing them, or context and critical readings are bolted on at the end instead of shaping the argument. A good tutor teaches how to hold a line of argument from the first line to the last, and how to make AO3 and AO5 earn their place."
-  - q: "Do you tutor A-Level English online or in person?"
-    a: "Everything runs online through Lessonspace, our shared whiteboard. The tutor can pull up your child's essay or an unseen passage and annotate it with them in real time, marking it against the assessment objectives the way an examiner would. Most students focus better one-to-one online than in a class of thirty. We do not do in-person."
-  - q: "Is the consultation and the trial calls really free?"
-    a: "Yes. The 40-minute consultation with Joe costs nothing. The trial calls with the tutors he suggests are free too. You only start paying once you have chosen a tutor and weekly lessons begin. No catch, no card details up front."
-
-# ───────────── FINAL FORM ─────────────
-form_cta: "Tell Joe what is going on with the English"
-form_intro: "Joe will call you back within one working day to set up a 40-minute consultation. He will ask which board and which texts your child sits, the predicted grade, and whether it is the comparative essay, the unseen analysis or the coursework losing the marks, then send two or three tutors with free trial calls so you can pick the one who fits. If he does not think tutoring is right for now, he will tell you."
-form_message_label: "Where is your child stuck?"
-form_message_placeholder: "For example: Year 13 AQA A English Literature, on Othello and the Love through the ages poetry, predicted a C, hoping for a B. The essays make good points but never build into an argument, and the unseen throws them."
-form_button: "Book my free call with Joe"
-form_note: "We usually reply within one working day. No obligation. Lessons start from £37 an hour."
-
+    a: "Yes, within what the exam board allows. The tutor can help your child understand what the coursework is asking, pick a strong pairing of texts, shape the argument and sharpen the critical angle. Everything handed in stays your child's own work. But a tutor who knows how it's marked makes a big difference to the thinking behind it."
+  - q: "How much does it cost?"
+    a: "Lessons start from £37 an hour. The exact price depends on the tutor, and we'll always agree it with you before anything is booked. There's no contract, no joining fee and nothing to pay upfront. The consultation call with us and the video meeting with your tutor are both free."
+  - q: "What if we don't click with the tutor?"
+    a: "Just let us know and we'll find someone else, with no charge and no awkward conversation. It happens, and we'd much rather sort it than have your child sit through lessons that aren't working. It's also why you see two or three tutors before choosing, rather than being handed one."
+  - q: "Does online tutoring actually work for English?"
+    a: "It does, and English suits it well. On Lessonspace the tutor and your child can both write on the same essay or unseen poem, annotating it line by line. Every lesson has a replay too, so your child can go back over how a paragraph was rebuilt before they write the next one."
+  - q: "Is it too late to start in Year 13?"
+    a: "No, and lots of families start then. Earlier gives the tutor more time before predicted grades and the mocks, but there's plenty a tutor can do with a few months, from tightening essay structure to planning timed answers. We'd never promise a grade. We'll tell you honestly on the call what we think is realistic."
+  - q: "Do you cover where we live?"
+    a: "Yes, we cover the whole of the UK. All our lessons are online, so it doesn't matter where you are. It also means we can pick the tutor who knows your child's texts best, rather than whoever happens to live nearby."
 sitemap:
   priority: 0.9
   changefreq: monthly

@@ -1,154 +1,83 @@
 ---
-title: "A-Level Geography Tutors, Online 1-to-1"
-description: "Essays, case studies and the NEA, taught online by specialist A-Level Geography tutors. Free 30-minute call before anyone is matched, then £37 an hour."
-robots: "index, follow"
+# A-Level Geography subject page, on the location page design (design: "location",
+# rendered by layouts/partials/ads-subject-body.html). Mirrors the reference
+# page content/subjects/gcse-maths-tutor/_index.md in the parent-chat voice.
+title: "Online A-Level Geography Tutors, One-to-One | The Degree Gap"
+description: "One-to-one online A-Level Geography tutors for the essays and the NEA. Free consultation call, tutor profiles within 24 hours, lessons from £37, no contract."
 layout: "single"
-subject: "A-Level Geography"
+design: "location"
+robots: "index, follow"
+callback_prompt: true
 level: "A-Level"
+subject: "A-Level Geography"
+subject_short: "Geography"
 
 # ───────────── HERO ─────────────
-banner_heading: "A-Level Geography Tutors for the Evaluation Essays and the NEA"
-banner_description: "The systems are learned and the case studies are solid. It is the 20-mark evaluations, and the NEA nobody has time to walk them through, where the grade is really decided."
-banner_cta_primary: "Book your free call with Joe"
-banner_cta_secondary: "07859 965776"
-pricing_note: "From £37/hr"
-rating_text: "5.0 · 100+ Google reviews"
-hero_image: "/images/founders-award.jpg"
-hero_alt: "Harry and Joe, co-founders of The Degree Gap, with the GCSE Specialists of the Year award"
-# grade_jump omitted on purpose. No real A-Level parent review in the bank gives a
-# specific from/to grade (Daljit's "almost two grades" names no numbers), so there is
-# nothing to anchor an honest grade chip to. The hero runs without it.
+hero_eyebrow: "A-LEVEL GEOGRAPHY TUTORING · ONLINE, ACROSS THE UK"
+hero_h1: "Online A-Level Geography Tutors, Matched to Your Child"
+hero_lead: "If your child knows the case studies inside out and the long essays still come back in the middle bands, you're not alone. Or maybe the NEA has stalled. Both can be sorted. Book a free consultation call with our team so we can get to know your child, and within 24 hours of it you'll get profiles of two or three tutors we think would suit them. Pick the one that feels right, and lessons start from there."
+meta_2: "Online using the platform Lessonspace, plus replay available"
+meta_3: "Best British Curriculum Tutoring Service Provider 2026"
 
-# ───────────── WHY DIFFERENT ─────────────
-why_heading: "Why the knowledge is there and the essays still stall"
-why_blocks:
-  - title: "We have met every tutor we put in front of you"
-    body: "The worst part of finding a tutor is usually the guesswork. A name off a directory, a degree listed and not much else, and a hope that it lands. We took that part out. Harry and Joe have interviewed every tutor on the platform, and about thirty-three apply for every one they say yes to. So by the time a name reaches you, it has already been through two people who know what a 20-mark Geography evaluation actually rewards, which is a line of argument carried to a judgement, not another paragraph of case-study detail."
-  - title: "Your child's board and options, not just 'Geography'"
-    body: "AQA, Edexcel, OCR and Eduqas all call it Geography, then set different options and mark the long answers in their own way. One board runs a synoptic paper off a pre-released resource booklet. Another spreads the 20-mark essays across two papers. Learn one board's superpowers or coasts and sit another board's questions, and the material no longer fits the command word in front of you. If you are not sure which board or options your child sits, Joe works that out with you on the first call, before anything else is decided."
-  - title: "We start by reading a real essay, not selling"
-    body: "Most parents who reach us cannot name exactly what is going wrong. The reading is done, the case studies are solid, and the essay marks still sit in the middle bands. That is what the 40-minute consultation with Joe is for. A proper conversation about the predicted grade, the 'assess' question that keeps losing marks, whether the problem is the evaluation or the synoptic links, and how the NEA is coming along. From there he puts together a short list of tutors who can do something about it."
+card_heading: "Talk to a member of the team to start the matching process"
+card_points:
+  - "A free consultation call, usually around 30 minutes"
+  - "2 or 3 tutor profiles within 24 hours of the call"
+  - "Lessons from £37, no contract"
 
-# ───────────── HOW IT WORKS ─────────────
-how_heading: "How we get from your enquiry to a tutor who fits"
-how_steps:
-  - title: "A 40-minute consultation with Joe"
-    body: "When you enquire, Joe calls you back to arrange a time that suits you. The consultation is a proper forty-minute conversation about your child's Geography, the exam board and options, whether the marks are going missing on the 20-mark evaluations or the data-response questions, and where the NEA has got to. From there he starts thinking about which tutors would fit."
-  - title: "Free trial calls with two or three tutor matches"
-    body: "Joe sends a short list of two or three tutors he thinks could work for your child. Each one offers a free trial call, so you can meet them, watch how they take apart an 'evaluate' question, and see who your child actually clicks with. No commitment afterwards, no card details, no pressure."
-  - title: "You pick the tutor that fits, and sessions begin"
-    body: "From the trial calls you choose the tutor who feels right, and weekly sessions begin on Lessonspace, our shared online whiteboard. You pay per session, there are no contracts, and if at any point it is not working, you stop."
+# ───────────── TUTORS ─────────────
+tutors_eyebrow: "MEET SOME OF THE TUTORS"
+tutors_heading: "Some of the A-Level Geography tutors you could be matched with"
+tutors_intro: "You won't be left scrolling through hundreds of profiles on your own. We've met every tutor on our platform, and after your call we pick the two or three who know your child's board and options, and who we think they'll get on with. Here are a few of them."
+tutor_names:
+  - "Sian Taylder"
+  - "Hollie Carter"
+  - "Jon Brettell"
+  - "Nicole Major"
 
-# ───────────── KPI STATS STRIP ─────────────
-stats_heading: "Four numbers that describe the platform"
-stats:
-  - number: "3%"
-    label: "Tutor acceptance rate"
-    body: "Only one in every 33 tutor applicants makes it through Joe and Harry"
-  - number: "100+"
-    label: "Five-star Google reviews"
-    body: "Real Degree Gap families, independently verified"
-  - number: "5,000+"
-    label: "Hours of tutoring delivered"
-    body: "Across GCSE, A-Level and university applications"
-  - number: "15+"
-    label: "UK schools we work with"
-    body: "Directly. Many more receive resources we have built"
+review_names:
+  - "Annette Catling"
+  - "Joanna tweed"
+  - "Dan James"
+  - "Alexander Chung"
+  - "Sorland Pinnacle"
+  - "Dawn Lattimer"
 
-# ───────────── MEET THE FOUNDERS ─────────────
-founders_heading: "Meet Harry and Joe"
-founders_eyebrow: "Who runs The Degree Gap"
-founders_body: "We are Harry and Joe, the co-founders of The Degree Gap. We started this because we kept seeing the same thing happen. Capable students quietly missed in a class of thirty, where the pace and the attention could not match what they needed. A-Level Geography feels it more than most, because the step from knowing the systems to arguing a judgement across a 20-mark essay is exactly the kind of thing a busy classroom struggles to teach one student at a time. So we built one-to-one tutoring around the child, matched on the exam board and on the way they learn. Between us we have logged more than 5,000 hours of one-to-one teaching, and a firm view on what actually moves an A-Level Geography grade."
-founders_image: "/images/founders-award.jpg"
-founders_image_alt: "Harry and Joe, co-founders of The Degree Gap, with the GCSE Specialists of the Year award"
-founders_cta: "Book your free call with Joe"
+# ───────────── 3 STEPS ─────────────
+steps_heading: "Start A-Level Geography tutoring in 3 steps"
+steps_lead: "Most families have their first lesson booked within a week. And you don't pay anything until your child has found a tutor they like."
+steps:
+  - title: "A free consultation call"
+    body: "A relaxed chat with a member of the team, usually around 30 minutes. It's how we get to know you and your child: the exam board and options, whether it's the essays, the data questions or the NEA that's worrying them, and what they're aiming for, whether that's a predicted grade for UCAS or a university offer. No pressure and no sales pitch."
+  - title: "Meet 2 or 3 tutors"
+    body: "Within 24 hours of the call you'll get profiles of two or three tutors we've picked for your child, so you can see who they are before choosing. Your child can then meet your favourite on a free video call."
+  - title: "Start weekly lessons"
+    body: "Lessons are one-to-one and online, using the platform Lessonspace, where the tutor can mark an essay line by line or talk through a graph with your child, with a replay of every lesson. From £37 an hour, no contract, and you can stop whenever you like."
 
-# ───────────── PARENT VOICES (reviews surfaced from data) ─────────────
-voices_heading: "What families say once the sessions start"
-voices_eyebrow: "Verified Google reviews"
-voices_intro: "Real reviews from real Degree Gap families, all verified on Google. One names Geography directly. The rest speak to A-Level study, the essays, the independent research and the confidence that grows alongside it."
-voices:
-  - name: "Serena"
-    role: "A-Level Student"
-    text: "My tutor is a very intuitive and superb teacher. She listened to my specific concerns and bolstered my confidence in answering questions. She taught me how to think critically and helped me through this highly demanding course. I will happily recommend without a second thought."
-  - name: "Annette"
-    role: "Parent"
-    text: "This company helped us find a tutor for Geography and my son has excelled so much in just a few months. Our tutor has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself. He also manages neurodiversity effectively."
-  - name: "J.O."
-    role: "A-Level Student"
-    text: "At first I was hesitant on getting a tutor, but this wasn't the case. My tutor helped me massively with my essays, topics I didn't understand, and overall confidence with the subject. I highly recommend."
-  - name: "Daljit"
-    role: "Parent of A-Level Student"
-    text: "My son gained almost two grades higher than his year 13 mock paper. His tutor was excellent."
-  - name: "Lisa"
-    role: "Parent"
-    text: "The Degree Gap has exceeded all my expectations. They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional. Both my sons exceeded their expected grades in their GCSEs and A Levels and got into their first choice universities. I cannot recommend them highly enough."
-  - name: "Tommy"
-    role: "University Student"
-    text: "I wish I had found The Degree Gap when I was sitting my school exams. They helped with my dissertation work and without their help I am not sure I would have graduated so successfully and landed a successful job."
+# ───────────── CLOSING CTA ─────────────
+final_heading: "Book your free<br>A-Level Geography consultation"
+final_body: "A friendly consultation call, usually around 30 minutes, so we can get to know your child: their board, where the marks are slipping, how the NEA is going and what they're aiming for. Within 24 hours you'll have profiles of two or three tutors to choose from."
+final_assurance: "Free call · Lessons from £37 · No contract"
 
-# ───────────── TUTOR STRIP ─────────────
-tutor_strip_heading: "A few of the Geography tutors you could be matched with"
-tutor_strip_body: "You will not be scrolling through hundreds of profiles, guessing which one suits your child. We do that part. Roughly three in every hundred applicants make it onto the platform, and after your call with Joe we come back with two or three of them, picked for your child's exam board and options and for whatever is actually costing the marks, whether that is the evaluation in a 20-mark essay or the write-up of the NEA. The faces below are a small preview."
-
-# ───────────── EXAM BOARDS ─────────────
-# TODO: swap board URLs from #get-help to the real /aqa/, /edexcel/, /ocr/, /wjec/ pages once built
-boards_heading: "Four boards, four ways of marking the same subject"
-boards_intro: "AQA, Edexcel, OCR and Eduqas look like the same A-Level, and they are not. The options differ, the essay tariffs differ, and some boards build a whole synoptic paper around a pre-released booklet while others thread the skills through every paper. Teach one board and tutor on another, and the marks pay for it. Not sure which board your child is on? Joe will help you find out on the first call."
-boards:
-  - name: "AQA"
-    url: "#get-help"
-    body: "Two exam papers plus the NEA. Paper 1 is physical, the water and carbon cycles, coastal systems and the hazards options. Paper 2 is human, global systems, changing places and contemporary urban environments. The 20-mark 'evaluate' essays run across both, and the independent investigation of 3,000 to 4,000 words counts for a fifth of the grade. We drill the essays and guide the write-up."
-  - name: "Edexcel"
-    url: "#get-help"
-    body: "Three papers plus the independent investigation. Physical topics like tectonics, coasts and the water and carbon cycles on one, human topics like globalisation, superpowers and regenerating places on another, then a synoptic paper built on a pre-released resource booklet. Our tutors know where Edexcel students tend to lose the evaluation marks."
-  - name: "OCR"
-    url: "#get-help"
-    body: "Physical systems, human interactions and a geographical debates paper, plus the investigative NEA. The debates paper rewards a sustained argument on the likes of climate change or the future of food, held all the way to a judgement. We match a tutor who knows OCR's question framing and what each part is looking for."
-  - name: "WJEC / Eduqas"
-    url: "#get-help"
-    body: "Coastal or glaciated change and tectonic hazards, changing places and global systems, then the 21st-century challenges paper and the independent investigation. Eduqas has its own command words and rewards the synoptic links in its own way. We match tutors who know that spec and mark to it from the first session."
-
-# ───────────── FIRST SESSION METHOD ─────────────
-method_heading: "The first session, step by step"
-method_steps:
-  - "The tutor takes a recent 20-mark essay your child has written, on a topic they have already covered. No rewriting on the first run."
-  - "Then marks it the way an examiner would, against the levels, checking whether the answer builds a judgement or just describes the geography."
-  - "Walks your child through the exact point where the writing stops evaluating and starts listing, and shows them how to carry an argument to the conclusion the mark scheme wants."
-method_body_after: "From there, sessions move onto sustaining a line of argument across the 20-mark essays, making the synoptic links between the physical and human topics, handling the data-response questions, and shaping the NEA from title to conclusion. Most parents notice the confidence shift first, the essays starting to read like arguments rather than accounts. The marks tend to follow over a half term or two."
-method_image: "/images/handwriting-study-notes-with-highlighters.jpg"
-
-# ───────────── PRICING ─────────────
-pricing_heading: "What you will actually pay"
-pricing_body: "Sessions start at £37 an hour. The exact rate depends on the tutor, and we agree it with you before anything is booked. You pay per session. No upfront fees, no contracts. If at any point this is not working for your child, you stop. No phone calls trying to leave, no money locked up in something that is not helping."
-pricing_marks:
-  - "Pay per session"
-  - "Free consultation and trial calls"
-  - "Cancel any time"
-
-# ───────────── FAQ ─────────────
-faqs:
-  - q: "How do I know if my child actually needs an A-Level Geography tutor?"
-    a: "The clearest sign is effort that is not showing up in the marks. The reading is done, the case studies are learned, and the essays still come back in the middle bands. Often it is the 20-mark evaluations, the answers that describe the geography well but never quite argue a judgement. Sometimes the NEA has stalled and nobody at school has the time to sit with it. Either is a good reason to get in touch, and we will tell you honestly on the call if we do not think tutoring is the right move."
-  - q: "My child knows the content but the 20-mark essays keep losing marks. Why?"
-    a: "This is the most common thing we hear about A-Level Geography, and it is almost never a knowledge problem. Your child knows the carbon cycle or the superpowers material well. What the 20-mark questions want is that knowledge weighed up and carried to a judgement, which is a separate skill from recall. A tutor works on the shape of the answer, taking a position early, using the case study to prove a point rather than fill a paragraph, and reaching a conclusion that actually decides the question. That is where the top-band marks sit."
-  - q: "Can a tutor help with the NEA independent investigation?"
-    a: "Yes, within the rules. The NEA is a 3,000 to 4,000 word independent investigation worth a fifth of the A-Level, and it trips up plenty of students because it is not taught like the rest of the course. A tutor helps your child settle on a workable question, plan the data collection, run the right statistical and presentation techniques, and structure the write-up so the analysis and evaluation earn the marks. Everything submitted stays your child's own work, that line does not move."
-  - q: "Do you match my child's exact board and options? AQA, Edexcel, OCR and Eduqas feel different."
-    a: "Yes, and it matters more at A-Level than parents expect. The boards set different options and mark the essays and the synoptic work differently, and some build a whole paper around a pre-released booklet. We match your child with a tutor who knows their exact board and topics. If you are not sure which one they sit, Joe will help you work it out on the first call."
-  - q: "What about the data-response questions and the synoptic links?"
-    a: "Both are marks a lot of students leave on the table. The data questions reward reading a graph or a statistical test properly and saying what it actually shows, not just describing it. The synoptic questions reward pulling a physical topic and a human topic into one argument. Neither gets much rehearsal in a full class, and both are things a tutor can drill directly until your child knows what the examiner is after."
-  - q: "Do you teach A-Level Geography in person or just online?"
-    a: "Every session runs on Lessonspace, our shared online whiteboard, where the tutor can mark a 20-mark essay line by line, annotate a resource booklet, or build up a data table with your child watching it happen. Most students focus better one-to-one online than in a class of thirty. We do not do in-person."
-
-# ───────────── FINAL FORM ─────────────
-form_cta: "Tell Joe where the Geography is stuck"
-form_intro: "Joe will call you back within one working day to arrange a 40-minute consultation. He will ask about the exam board, the options, where the essays are losing marks, how the NEA is going and what you have already tried, then send you two or three tutors with free trial calls so you can pick the one that fits. If he does not think tutoring is the right move for now, he will tell you that too."
-form_message_label: "Where is your child stuck?"
-form_message_placeholder: "For example: Year 12 AQA Geography, predicted a C. The content is solid but the 20-mark evaluations keep coming back mid-band, and the NEA has not really started."
-form_button: "Book my free call with Joe"
-form_note: "We typically respond within one working day. No obligation. Sessions start from £37 an hour."
-
+faq_items:
+  - q: "My child knows the content. Why do the 20-mark essays keep losing marks?"
+    a: "It's almost never a knowledge problem, and it's the thing we hear most about A-Level Geography. Those questions want the knowledge weighed up and carried to a judgement, which is a different skill from remembering it. In lessons the tutor marks real essays against the levels, and shows your child how to take a position early, use a case study to prove a point and finish with a conclusion that actually answers the question."
+  - q: "Can a tutor help with the NEA?"
+    a: "Yes, within the exam board's rules. The NEA is an independent investigation of 3,000 to 4,000 words, and it counts for a fifth of the A-Level. The tutor helps your child settle on a workable question, plan the data collection, choose the right techniques and structure the write-up so the analysis earns the marks. Everything handed in stays your child's own work."
+  - q: "Do the tutors know my child's exam board?"
+    a: "Yes. AQA, Edexcel, OCR and Eduqas set different options and mark the essays in their own way. Edexcel, for example, builds a whole synoptic paper around a resource booklet released before the exam, and OCR has a paper on geographical debates. We'll pick tutors who know your child's board. Not sure which it is? We can work it out together on the call."
+  - q: "What about the data questions and the synoptic links?"
+    a: "Both are marks lots of students leave behind. The data questions reward reading a graph or a statistical test and saying what it really shows, not just describing it. The synoptic questions reward pulling physical and human topics into one argument. Neither gets much practice in a full class, and a tutor can drill both."
+  - q: "How much does it cost?"
+    a: "Lessons start from £37 an hour. The exact price depends on the tutor, and we'll always agree it with you before anything is booked. There's no contract, no joining fee and nothing to pay upfront. The consultation call with us and the video meeting with your tutor are both free."
+  - q: "What if we don't click with the tutor?"
+    a: "Just let us know and we'll find someone else, with no charge and no awkward conversation. It happens, and we'd much rather sort it than have your child sit through lessons that aren't working. It's also why you see two or three tutors before choosing, rather than being handed one."
+  - q: "Does online tutoring actually work for Geography?"
+    a: "It does. On Lessonspace the tutor and your child can both write on the same essay, map or data table, so the tutor sees exactly how an answer is being built. Every lesson has a replay too, which helps when revising a case study the week before a test."
+  - q: "My child is dyslexic and finds the long essays hard to plan. Can you still help?"
+    a: "Yes. Tell us on the call what works for your child and what doesn't, and we'll pick tutors with that in mind. One-to-one lessons let the tutor break an essay plan into small steps and go at your child's pace, without the pressure of a classroom."
+  - q: "Do you cover where we live?"
+    a: "Yes, we cover the whole of the UK. All our lessons are online, so it doesn't matter where you are. It also means we can pick the tutor who knows your child's board best, rather than whoever happens to live nearby."
 sitemap:
   priority: 0.9
   changefreq: monthly
