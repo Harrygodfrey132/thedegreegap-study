@@ -1,95 +1,105 @@
 ---
-title: "Edexcel GCSE Chemistry Tutors for Calculations"
-description: "Edexcel GCSE Chemistry tutor who knows the calculation-heavy 1CH0 papers. Free 40-minute call with co-founder Joe, then free trial lessons. From £37/hr."
+# Edexcel GCSE Chemistry specification page, on the location page design
+# (design: "location", rendered by layouts/partials/ads-subject-body.html).
+# Same structure and parent-chat voice as the GCSE Chemistry page above it,
+# plus the paper-by-paper breakdown of the Edexcel 1CH0 specification.
+title: "Online Edexcel GCSE Chemistry Tutors (1CH0) | The Degree Gap"
+description: "One-to-one online Edexcel GCSE Chemistry tutors who know the 1CH0 papers. Free consultation call, tutor profiles within 24 hours, lessons from £37, no contract."
+card_summary: "Spec 1CH0. Two papers of 1 hour 45 minutes, 100 marks each, with lots of worded calculations."
 robots: "index, follow"
 layout: "board"
+design: "location"
+callback_prompt: true
 board: "Edexcel"
-subject: "GCSE Chemistry"
 level: "GCSE"
+subject: "GCSE Chemistry"
+subject_short: "Chemistry"
 
 # ───────────── HERO ─────────────
-banner_heading: "Edexcel GCSE Chemistry Tutors for the Calculation-Heavy Papers"
-banner_description: "The chemistry makes sense in the lesson, then Edexcel wraps it in a worded calculation and the marks slip on the working. We match your child with a tutor who knows exactly how 1CH0 asks its questions."
-banner_cta_primary: "Book your free call with Joe"
-banner_cta_secondary: "07859 965776"
-pricing_note: "From £37/hr"
+hero_eyebrow: "EDEXCEL GCSE CHEMISTRY · SPEC 1CH0 · ONLINE, ACROSS THE UK"
+hero_h1: "Online Edexcel GCSE Chemistry Tutors Who Know the 1CH0 Papers"
+hero_lead: "If the Chemistry makes sense in the lesson, then Edexcel wraps it in a long worded calculation and the marks slip, you're not alone. Book a free consultation call so we can get to know your child, and within 24 hours of it you'll get profiles of two or three tutors who know how the 1CH0 papers ask their questions."
+meta_2: "Online using the platform Lessonspace, plus replay available"
+meta_3: "GCSE Tutoring Specialists of the Year 2025 & 2026"
 
-# ───────────── ASSESSMENT (board-specific core) ─────────────
-assess_heading: "How Edexcel GCSE Chemistry is actually assessed"
-assess_intro: "Separate Chemistry is two papers of equal weight, and Edexcel is known for wrapping its maths in longer, applied questions. Here is what each paper covers, and where students most often lose the marks."
+card_heading: "Talk to a member of the team to start the matching process"
+card_points:
+  - "A free consultation call, usually around 30 minutes"
+  - "2 or 3 tutor profiles within 24 hours of the call"
+  - "Lessons from £37, no contract"
+
+# ───────────── TUTORS ─────────────
+tutors_eyebrow: "MEET SOME OF THE TUTORS"
+tutors_heading: "Some of the Edexcel GCSE Chemistry tutors you could be matched with"
+tutors_intro: "We've met every tutor on our platform, and after your call we pick the two or three who know the Edexcel papers and who we think will get on best with your child. Here are a few of them."
+tutor_names:
+  - "Thanu Yogeswaran"
+  - "Francis Isaac"
+  - "Rebecca Hanna"
+  - "Elias Araye"
+
+review_names:
+  - "Dawn Lattimer"
+  - "Augusta Oloke"
+  - "Alexander Chung"
+  - "Nazrul Islam"
+  - "Philippa Langton"
+
+# ───────────── THE SPECIFICATION ─────────────
+assess_heading: "How Edexcel GCSE Chemistry is examined, paper by paper"
+assess_intro: "Separate Chemistry with Edexcel (spec 1CH0) is two papers of equal weight, and Edexcel is known for wrapping its maths in longer, applied questions. Here's what each paper covers, and where students most often lose marks."
 papers:
   - name: "Paper 1 (1CH0/1)"
     detail: "1 hour 45 minutes, 100 marks, half the GCSE. Key concepts in chemistry, states of matter and mixtures, chemical changes, extracting metals and equilibria, plus the first block of separate chemistry. A lot of the moles, concentration and yield work sits here."
   - name: "Paper 2 (1CH0/2)"
-    detail: "1 hour 45 minutes, 100 marks, the other half. Key concepts again, groups in the periodic table, rates of reaction and energy changes, fuels and Earth science, and the second block of separate chemistry. More of the qualitative reasoning and the atmosphere and resources content lands here."
-  - name: "The calculation load"
-    detail: "Edexcel leans harder on worded, applied calculation than most families expect. Moles, concentration, percentage yield, atom economy, gas volumes and unit conversions come up across both papers, and the marks follow the working, not just the final number. A tutor drills the method until the numbers stop costing marks."
-  - name: "Core practicals and apparatus"
-    detail: "Edexcel questions like to name the apparatus and ask you to justify a technique, from the copper sulfate electrolysis to the salt preparation and the acid-alkali titration. A tutor works through what each core practical is really testing and how to write the answer the mark scheme rewards."
-
-# ───────────── BOARD POINTS ─────────────
-board_points_heading: "What an Edexcel Chemistry tutor drills"
+    detail: "1 hour 45 minutes, 100 marks, the other half. Key concepts again, groups in the periodic table, rates of reaction and energy changes, fuels and Earth science, and the second block of separate chemistry. More of the reasoning questions and the atmosphere and resources content land here."
+  - name: "The calculations"
+    detail: "Moles, concentration, percentage yield, atom economy, gas volumes and unit conversions come up across both papers, often worded as a real-life problem. The marks follow the working, not just the final number."
+  - name: "Core practicals and tiers"
+    detail: "Edexcel questions like to name the apparatus and ask your child to explain the technique, from the copper sulfate electrolysis to the salt preparation and the acid-alkali titration. Foundation covers grades 1 to 5, Higher covers 4 to 9."
+board_points_heading: "What an Edexcel Chemistry tutor works on that a busy class can't"
 board_points:
   - title: "The worded calculation questions"
-    body: "Edexcel wraps its maths in longer, applied wording, so a moles or yield question can hide inside a paragraph before a child spots what is being asked. A tutor teaches them to pull the numbers out, pick the method and show every step, because Edexcel gives the marks to the working."
+    body: "A moles or yield question can be hidden inside a paragraph before your child spots what's being asked. A tutor teaches them to pull the numbers out, pick the method and show every step, because Edexcel gives the marks to the working."
   - title: "Concentration, yield and atom economy"
-    body: "These come up more heavily on Edexcel than families expect, and unit conversions are where the marks slip. A tutor drills grams to moles, cm3 to dm3 and the percentage calculations until the numbers stop being the thing that costs the grade."
-  - title: "Core practicals and apparatus technique"
-    body: "Edexcel likes to name the equipment and ask a child to justify the method, from the salt preparation to the acid-alkali titration. A tutor works through what each core practical is testing and how to phrase the answer the mark scheme is looking for."
+    body: "These come up more than families expect, and unit conversions are where the marks slip. A tutor practises grams to moles, cm3 to dm3 and the percentage calculations with your child until the numbers stop costing marks."
+  - title: "Core practicals and the apparatus"
+    body: "Edexcel likes to name the equipment and ask why the method works. A tutor goes through what each core practical is testing, from the salt preparation to the titration, and how to word the answer the mark scheme is looking for."
 
-# ───────────── HOW IT WORKS ─────────────
-how_heading: "How it works"
-how_steps:
-  - title: "A 40-minute call with Joe"
-    body: "When you get in touch, co-founder Joe calls you back within one working day to fix a time. The call is a proper conversation about your child's Edexcel Chemistry, the predicted grade, the mock that came back low and the topics the class moved past too fast. From there he starts building a shortlist."
-  - title: "Free trial calls with two or three tutors"
-    body: "Joe sends two or three tutors he thinks fit your child, and each offers a free trial call. You watch how they explain a worded calculation, and you see who your child actually clicks with. No card details, no pressure, no obligation after."
-  - title: "You choose, and sessions begin on Lessonspace"
-    body: "You pick the tutor who feels right, and weekly sessions start on Lessonspace, our shared online whiteboard. You pay per session, there are no contracts, and if it ever stops working, you stop."
-
-# ───────────── PARENT VOICES ─────────────
-voices_eyebrow: "Verified Google reviews"
-voices_heading: "What parents tell us, in their own words"
-voices_intro: "Every review here is verified on Google and left in the family's own words. None of them names Chemistry, so we have not dressed any of these up as a Chemistry story. What they share is the thing an Edexcel Chemistry parent is really after: the grade moving, and a child who stops dreading the paper."
-voices:
-  - name: "Omo"
-    role: "Parent of GCSE Student"
-    text: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him."
-  - name: "Augusta"
-    role: "Parent of GCSE Student"
-    text: "The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."
-  - name: "Jessica"
-    role: "GCSE Student"
-    text: "I was helped with both Maths and English for my GCSEs and passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree."
-  - name: "Heidi"
-    role: "Parent"
-    text: "Our tutor is simply amazing with our daughter. He understands her completely and her sessions are helping her with her school work so much. We cannot thank him enough."
-  - name: "Nazrul"
-    role: "Parent"
-    text: "My daughter found the tutors were very helpful for her GCSE. Thank you."
-  - name: "Sorland"
-    role: "Grandparent"
-    text: "My granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
+# ───────────── 3 STEPS ─────────────
+steps_heading: "Start Edexcel GCSE Chemistry tutoring in 3 steps"
+steps_lead: "Most families have their first lesson booked within a week. And you don't pay anything until your child has found a tutor they like."
+steps:
+  - title: "A free consultation call"
+    body: "A relaxed chat with a member of the team, usually around 30 minutes. We'll check your child sits Edexcel 1CH0, then get to know you both: the tier, where the marks are slipping, what you've tried so far and how your child likes to learn. No pressure and no sales pitch."
+  - title: "Meet 2 or 3 tutors"
+    body: "Within 24 hours of the call you'll get profiles of two or three tutors who know the Edexcel Chemistry papers, so you can see who they are before choosing. Your child can then meet your favourite on a free video call."
+  - title: "Start weekly lessons"
+    body: "Lessons are one-to-one and online, using the platform Lessonspace, with a replay of every lesson to look back on. From £37 an hour, no contract, and you can stop whenever you like."
 
 # ───────────── FAQ ─────────────
-faqs:
-  - q: "Which Edexcel Chemistry specification is this?"
-    a: "Separate GCSE Chemistry is Edexcel (Pearson) 1CH0, sat as two papers, 1CH0/1 and 1CH0/2, each 1 hour 45 minutes and worth 100 marks. If your child sits Combined Science instead, that is Edexcel 1SC0, where chemistry is one part of a larger award. Joe will confirm which one your child is on during the first call."
+faq_items:
+  - q: "How do I know if my child sits Edexcel for GCSE Chemistry?"
+    a: "It's on the exam timetable and on any past paper the school sends home, shown as Pearson Edexcel with the code 1CH0 for separate Chemistry. If your child does Combined Science instead, that's Edexcel 1SC0, where Chemistry is one part of a bigger award. Not sure? We'll check it with you on the call before matching anyone."
   - q: "Why does Edexcel Chemistry feel so calculation-heavy?"
-    a: "Because it is, more than families expect. Edexcel wraps its maths in longer, worded questions, so a moles, concentration or yield calculation can hide inside a paragraph before a child spots it. And the marks go to the working, not just the final number. A tutor teaches your child to pull the numbers out, choose the method and show every step."
-  - q: "Where do students lose marks on Edexcel Chemistry?"
-    a: "Two places most often. Unit conversions, like grams to moles or cm3 to dm3, and the small precision the mark scheme quietly wants, from state symbols in an ionic equation to the right significant figures. A tutor marks past papers the Edexcel way and drills the exact points where the marks are slipping."
-  - q: "Are the Edexcel core practicals examined?"
-    a: "Yes, and Edexcel likes to name the apparatus and ask a child to justify the technique. From the copper sulfate electrolysis to the salt preparation and the acid-alkali titration, a tutor works through what each core practical is testing and how to phrase the answer the mark scheme rewards."
-  - q: "Foundation or Higher tier for Edexcel Chemistry?"
-    a: "Foundation covers grades 1 to 5 and Higher covers grades 4 to 9. Because Edexcel carries a heavy calculation load, the tier choice matters, and sitting the wrong one can cap a grade before the paper starts. Joe and the tutor look at the predicted grade and where your child is now, and talk the choice through with you honestly."
-  - q: "Can Edexcel Chemistry be taught well online?"
-    a: "Yes. Sessions run on Lessonspace, our shared whiteboard, which suits the calculation work well. The tutor can walk through a worded moles question line by line on screen, show every unit conversion and mark it the Edexcel way as they go. Most students concentrate better one-to-one online than in a full class. We do not do in person."
+    a: "Because it is, more than families expect. Edexcel wraps its maths in longer, worded questions, so a moles or yield calculation can hide inside a paragraph. And the marks go to the working, not just the answer. A tutor teaches your child to spot the method and show every step."
+  - q: "Where do students usually lose marks?"
+    a: "Two places most often. Unit conversions, like grams to moles or cm3 to dm3, and the small details the mark scheme wants, from state symbols in an ionic equation to the right significant figures. A tutor marks past papers the Edexcel way and works on exactly those points."
+  - q: "Are the core practicals examined?"
+    a: "Yes. Edexcel likes to name the apparatus and ask your child to explain the technique, from the copper sulfate electrolysis to the salt preparation and the acid-alkali titration. A tutor goes through what each one is testing and how to word the answer."
+  - q: "Foundation or Higher tier, which should my child sit?"
+    a: "Foundation covers grades 1 to 5 and Higher covers 4 to 9. The school usually decides from the mocks, and with this much calculation in the papers the choice matters. A tutor can give you an honest view, and we'll talk it through with you on the call."
+  - q: "How much does it cost?"
+    a: "Lessons start from £37 an hour. The exact price depends on the tutor, and we'll always agree it with you before anything is booked. There's no contract and nothing to pay upfront, and the consultation call and the video meeting with your tutor are free."
+  - q: "What if we don't click with the tutor?"
+    a: "Just let us know and we'll find someone else, with no charge and no awkward conversation. It happens, and we'd much rather sort it than have your child sit through lessons that aren't working."
+  - q: "Does online tutoring actually work for Chemistry?"
+    a: "It does, and it suits the calculation work well. Your child and the tutor share a whiteboard in Lessonspace, so the tutor can walk through a worded moles question line by line and show every unit conversion as they go. Every lesson has a replay too, which is handy the night before a test."
 
-# ───────────── FINAL FORM ─────────────
-form_cta: "Tell Joe what is going on with Edexcel Chemistry"
-form_intro: "He will call you back within one working day to set up a 40-minute consultation. He will ask about the tier, the predicted grade and where the marks are slipping, from the worded moles questions to the unit conversions, then send two or three tutors with free trial calls. If tutoring is not the right move for now, he will tell you that too."
-form_button: "Book my free call with Joe"
+# ───────────── CLOSING CTA ─────────────
+final_heading: "Book your free<br>Edexcel GCSE Chemistry consultation"
+final_body: "A friendly consultation call, usually around 30 minutes, so we can get to know your child: which tier they're on, where the Edexcel papers are catching them out and what they're like as a learner. Within 24 hours you'll have profiles of two or three tutors to choose from."
+final_assurance: "Free call · Lessons from £37 · No contract"
 
 sitemap:
   priority: 0.7

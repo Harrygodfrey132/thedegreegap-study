@@ -1,95 +1,105 @@
 ---
-title: "AQA GCSE Chemistry Tutors Who Know Both Papers | The Degree Gap"
-description: "AQA GCSE Chemistry tutor matched to your child's board (8462). Free 40-minute call with co-founder Joe, then free trial lessons. Sessions from £37/hr."
+# AQA GCSE Chemistry specification page, on the location page design (design:
+# "location", rendered by layouts/partials/ads-subject-body.html). Same
+# structure and parent-chat voice as the GCSE Chemistry page above it, plus the
+# paper-by-paper breakdown of the AQA 8462 specification.
+title: "Online AQA GCSE Chemistry Tutors (8462) | The Degree Gap"
+description: "One-to-one online AQA GCSE Chemistry tutors who know the 8462 papers. Free consultation call, tutor profiles within 24 hours, lessons from £37 with no contract."
+card_summary: "Spec 8462. Two papers of 1 hour 45 minutes, 100 marks each, with eight required practicals examined."
 robots: "index, follow"
 layout: "board"
+design: "location"
+callback_prompt: true
 board: "AQA"
-subject: "GCSE Chemistry"
 level: "GCSE"
+subject: "GCSE Chemistry"
+subject_short: "Chemistry"
 
 # ───────────── HERO ─────────────
-banner_heading: "AQA GCSE Chemistry Tutors Who Know Both Papers"
-banner_description: "Your child gets the theory in class, then the moles questions in Paper 1 and the six-mark answers in Paper 2 come back with half the marks missing. We match them with a tutor who knows AQA 8462 inside out."
-banner_cta_primary: "Book your free call with Joe"
-banner_cta_secondary: "07859 965776"
-pricing_note: "From £37/hr"
+hero_eyebrow: "AQA GCSE CHEMISTRY · SPEC 8462 · ONLINE, ACROSS THE UK"
+hero_h1: "Online AQA GCSE Chemistry Tutors Who Know the 8462 Papers"
+hero_lead: "If your child gets the theory in class, then the moles questions in Paper 1 and the six-mark answers in Paper 2 come back with half the marks missing, you're not alone. Book a free consultation call so we can get to know your child, and within 24 hours of it you'll get profiles of two or three tutors who know the AQA papers inside out."
+meta_2: "Online using the platform Lessonspace, plus replay available"
+meta_3: "GCSE Tutoring Specialists of the Year 2025 & 2026"
 
-# ───────────── ASSESSMENT (board-specific core) ─────────────
-assess_heading: "How AQA GCSE Chemistry is actually assessed"
-assess_intro: "Separate Chemistry is two papers, sat at the end of Year 11, each worth half the grade. Here is what sits in each one, and where the marks are really won and lost."
+card_heading: "Talk to a member of the team to start the matching process"
+card_points:
+  - "A free consultation call, usually around 30 minutes"
+  - "2 or 3 tutor profiles within 24 hours of the call"
+  - "Lessons from £37, no contract"
+
+# ───────────── TUTORS ─────────────
+tutors_eyebrow: "MEET SOME OF THE TUTORS"
+tutors_heading: "Some of the AQA GCSE Chemistry tutors you could be matched with"
+tutors_intro: "We've met every tutor on our platform, and after your call we pick the two or three who know the AQA papers and who we think will get on best with your child. Here are a few of them."
+tutor_names:
+  - "Francis Isaac"
+  - "Safiyyah Ahmed"
+  - "Elias Araye"
+  - "Corinna Hudson"
+
+review_names:
+  - "Augusta Oloke"
+  - "Philippa Langton"
+  - "Keira Lei"
+  - "Dawn Lattimer"
+  - "Nazrul Islam"
+
+# ───────────── THE SPECIFICATION ─────────────
+assess_heading: "How AQA GCSE Chemistry is examined, paper by paper"
+assess_intro: "Separate Chemistry with AQA (spec 8462) is two papers, sat at the end of Year 11, and each one is worth half the grade. Here's what's in each, and where the marks are really won and lost."
 papers:
-  - name: "Paper 1 · Topics 1 to 5"
-    detail: "1 hour 45 minutes, 100 marks, half the GCSE. Atomic structure and the periodic table, bonding and structure, quantitative chemistry, chemical changes and energy changes. This is the paper where the moles and reacting-mass calculations live, so it is where careful working earns or loses the marks."
-  - name: "Paper 2 · Topics 6 to 10"
-    detail: "1 hour 45 minutes, 100 marks, the other half. The rate and extent of chemical change, organic chemistry, chemical analysis, the chemistry of the atmosphere and using resources. More extended writing here, and the six-mark answers examiners grade by levels."
+  - name: "Paper 1: Topics 1 to 5"
+    detail: "1 hour 45 minutes, 100 marks, half the GCSE. Atomic structure and the periodic table, bonding and structure, quantitative chemistry, chemical changes and energy changes. The moles and reacting-mass calculations live here, so careful working is what earns the marks."
+  - name: "Paper 2: Topics 6 to 10"
+    detail: "1 hour 45 minutes, 100 marks, the other half. Rates and extent of chemical change, organic chemistry, chemical analysis, the chemistry of the atmosphere and using resources. There's more extended writing here, including the six-mark answers that are marked in levels."
   - name: "Eight required practicals"
-    detail: "AQA can ask about any of the eight separate-science practicals in either paper, from making a soluble salt and titration to electrolysis, rates, chromatography and testing for ions. The questions are about method and results, so a tutor drills what the examiner wants written, not just what happened on the bench."
-  - name: "Question styles and tiers"
-    detail: "Foundation covers grades 1 to 5, Higher covers 4 to 9, and both mix multiple choice, short structured answers and longer open response. A tutor makes sure your child is sitting the right tier and knows how each question type is marked."
-
-# ───────────── BOARD POINTS ─────────────
-board_points_heading: "What an AQA Chemistry tutor drills"
+    detail: "AQA can ask about any of the eight separate-science practicals in either paper, from making a soluble salt and titration to electrolysis, rates, chromatography and testing for ions. The questions are about method and results, so it's what your child writes that counts, not just what happened in the lab."
+  - name: "Tiers and question styles"
+    detail: "Foundation covers grades 1 to 5, Higher covers 4 to 9. Both mix multiple choice, short structured answers and longer open responses, and each type is marked a little differently."
+board_points_heading: "What an AQA Chemistry tutor works on that a busy class can't"
 board_points:
-  - title: "The quantitative chemistry that decides Paper 1"
-    body: "Moles, relative formula mass, reacting masses, concentration and percentage yield are where AQA hides the maths, and where bright students quietly leak marks. A tutor works the calculation inside the chemistry, step by step, until the working itself earns the marks the answer deserves."
-  - title: "Level-marked six-mark answers"
-    body: "AQA grades its longer answers in bands, and a full-looking answer can still land in the bottom band if it misses the linked reasoning. A tutor shows your child how these are marked and drills the structure, the right technical words and the state symbols that push an answer up a level."
-  - title: "The eight required practicals, examined"
-    body: "AQA can test any of the eight separate-science practicals in either paper. A tutor goes through the method, the variables and the expected results for each, so a question on titration, electrolysis or testing for ions reads as familiar rather than a surprise."
+  - title: "The calculations in Paper 1"
+    body: "Moles, relative formula mass, reacting masses, concentration and percentage yield are where AQA hides the maths, and where capable students quietly lose marks. A tutor goes through them step by step with your child until the working itself earns the marks."
+  - title: "Six-mark answers marked in levels"
+    body: "AQA marks its longer answers in bands, and an answer that looks full can still land in the bottom band if the reasoning isn't linked up. A tutor shows your child how these are marked and practises the structure and the technical words that move an answer up a level."
+  - title: "The eight required practicals"
+    body: "Any of the eight can come up in either paper. A tutor goes through the method, the variables and the expected results for each, so a question on titration, electrolysis or testing for ions feels familiar rather than a surprise."
 
-# ───────────── HOW IT WORKS ─────────────
-how_heading: "How it works"
-how_steps:
-  - title: "A 40-minute call with Joe"
-    body: "When you get in touch, co-founder Joe calls you back within one working day to fix a time. The call is a proper conversation about your child's AQA Chemistry, the predicted grade, the mock that came back low and the topics the class moved past too fast. From there he starts building a shortlist."
-  - title: "Free trial calls with two or three tutors"
-    body: "Joe sends two or three tutors he thinks fit your child, and each offers a free trial call. You watch how they explain a tricky bit of chemistry, and you see who your child actually clicks with. No card details, no pressure, no obligation after."
-  - title: "You choose, and sessions begin on Lessonspace"
-    body: "You pick the tutor who feels right, and weekly sessions start on Lessonspace, our shared online whiteboard. You pay per session, there are no contracts, and if it ever stops working, you stop."
-
-# ───────────── PARENT VOICES ─────────────
-voices_eyebrow: "Verified Google reviews"
-voices_heading: "What parents tell us, in their own words"
-voices_intro: "Every review here is verified on Google and left in the family's own words. None of them names Chemistry, so we have not relabelled any as a Chemistry story. What they point to is the thing an AQA Chemistry parent is really after: the grade moving, and a child who stops dreading the paper."
-voices:
-  - name: "Augusta"
-    role: "Parent of GCSE Student"
-    text: "The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."
-  - name: "Chris"
-    role: "Parent of GCSE Student"
-    text: "Very good tutoring for my daughter and good communication with parents. My daughter passed both English and Maths GCSE."
-  - name: "Philippa"
-    role: "Parent of GCSE Student"
-    text: "I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings. Highly recommend."
-  - name: "Ellen"
-    role: "Parent of GCSE Student"
-    text: "My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. We were given a selection of tutors to choose from and told that if it did not feel like a good match we could try others. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
-  - name: "Keira"
-    role: "GCSE Student"
-    text: "Has definitely helped me increase my grades from an E to a B."
-  - name: "Lisa"
-    role: "Parent"
-    text: "The Degree Gap has exceeded all my expectations. They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional. Both my sons exceeded their expected grades in their GCSEs and A Levels and got into their first choice universities. I cannot recommend them highly enough."
+# ───────────── 3 STEPS ─────────────
+steps_heading: "Start AQA GCSE Chemistry tutoring in 3 steps"
+steps_lead: "Most families have their first lesson booked within a week. And you don't pay anything until your child has found a tutor they like."
+steps:
+  - title: "A free consultation call"
+    body: "A relaxed chat with a member of the team, usually around 30 minutes. We'll check your child sits AQA 8462, then get to know you both: the tier, which topics are slipping, what you've tried so far and how your child likes to learn. No pressure and no sales pitch."
+  - title: "Meet 2 or 3 tutors"
+    body: "Within 24 hours of the call you'll get profiles of two or three tutors who know the AQA Chemistry papers, so you can see who they are before choosing. Your child can then meet your favourite on a free video call."
+  - title: "Start weekly lessons"
+    body: "Lessons are one-to-one and online, using the platform Lessonspace, with a replay of every lesson to look back on. From £37 an hour, no contract, and you can stop whenever you like."
 
 # ───────────── FAQ ─────────────
-faqs:
-  - q: "Which AQA Chemistry specification does my child sit?"
-    a: "Separate GCSE Chemistry is AQA 8462, sat as two papers. Paper 1 covers topics 1 to 5 and Paper 2 covers topics 6 to 10, each 1 hour 45 minutes and worth 100 marks. If your child does Combined Science instead, that is AQA Trilogy 8464, where chemistry is a smaller share. Not sure which one? Joe works it out with you on the first call."
+faq_items:
+  - q: "How do I know if my child sits AQA for GCSE Chemistry?"
+    a: "It's on the exam timetable and at the top of any past paper the school sends home, shown as AQA with the spec code 8462 for separate Chemistry. If your child does Combined Science instead, that's AQA Trilogy 8464, where Chemistry is a smaller share. Not sure? We'll check it with you on the call before matching anyone."
+  - q: "Foundation or Higher tier, which should my child sit?"
+    a: "Foundation goes up to grade 5 and Higher runs from 4 to 9. The school usually decides from the mocks, and it depends on where your child is now. A tutor can give you an honest view, and we'll talk it through with you on the call."
   - q: "How much of AQA Chemistry is maths?"
-    a: "More than most parents expect, and it is often the real problem under a Chemistry grade. Moles, relative formula mass, reacting masses, concentration and percentage yield are all calculation, and most of them sit in Paper 1. If rearranging a formula or converting units never quite clicked, that gap shows up here. A tutor works the maths inside the chemistry so the numbers stop costing marks."
-  - q: "My child knows the content but the marks do not follow. Why?"
-    a: "This is the most common thing we hear about AQA Chemistry. The knowledge is there, but the exam wants it written a precise way. State symbols in the ionic equation. Working shown on every line of a moles calculation. The linked reasoning AQA needs before a six-mark answer moves up a level. A tutor marks past papers the way an AQA examiner does and drills the phrasing until the answer earns what your child already knows."
+    a: "More than most parents expect. Moles, relative formula mass, reacting masses, concentration and percentage yield are all calculations, and most of them sit in Paper 1. If rearranging a formula or converting units never quite clicked, it shows up here, and it's one of the first things a tutor looks at."
+  - q: "My child knows the content, so why aren't the marks following?"
+    a: "It's the thing we hear most, and it's usually about how the answer is written. AQA wants state symbols in the ionic equation, working on every line of a moles calculation and linked reasoning before a six-mark answer moves up a level. A tutor marks past papers the AQA way and practises the wording until the marks match what your child knows."
   - q: "Are the required practicals actually examined?"
-    a: "Yes. AQA can ask about any of the eight separate-science required practicals in either paper, and the questions are about method, variables and results rather than just recall. A tutor goes through each one, from titration and electrolysis to chromatography and testing for ions, so a practical question reads as familiar."
-  - q: "Foundation or Higher tier for AQA Chemistry?"
-    a: "Foundation covers grades 1 to 5 and Higher covers grades 4 to 9, and the right tier depends on the predicted grade and where your child is now. It is one of the first things Joe and the tutor look at, because sitting the wrong tier caps a grade before the exam even starts. There is no single right answer, and we talk it through with you honestly."
-  - q: "Can AQA Chemistry really be taught well online?"
-    a: "Yes. Every session runs on Lessonspace, our shared whiteboard, and it suits chemistry better than people expect. The tutor can work a moles calculation line by line on screen, draw a displayed formula and balance an equation with your child watching every step. Most students focus better one-to-one online than in a class of thirty. We do not do in person."
+    a: "Yes. AQA can ask about any of the eight separate-science required practicals in either paper, and the questions are about method, variables and results rather than just recall. A tutor goes through each one, from titration and electrolysis to chromatography and testing for ions."
+  - q: "How much does it cost?"
+    a: "Lessons start from £37 an hour. The exact price depends on the tutor, and we'll always agree it with you before anything is booked. There's no contract and nothing to pay upfront, and the consultation call and the video meeting with your tutor are free."
+  - q: "What if we don't click with the tutor?"
+    a: "Just let us know and we'll find someone else, with no charge and no awkward conversation. It happens, and we'd much rather sort it than have your child sit through lessons that aren't working."
+  - q: "Does online tutoring actually work for Chemistry?"
+    a: "It does, and lots of children find it easier. Your child and the tutor share a whiteboard in Lessonspace, so the tutor can work a moles calculation line by line, draw a displayed formula and mark an AQA past paper with your child watching. Every lesson has a replay too, which is handy the night before a test."
 
-# ───────────── FINAL FORM ─────────────
-form_cta: "Tell Joe what is going on with AQA Chemistry"
-form_intro: "He will call you back within one working day to set up a 40-minute consultation. He will ask about the tier, the predicted grade and the topics slipping, whether that is the moles calculations or the six-mark answers, then send two or three tutors with free trial calls. If he does not think tutoring is the right move for now, he will say so."
-form_button: "Book my free call with Joe"
+# ───────────── CLOSING CTA ─────────────
+final_heading: "Book your free<br>AQA GCSE Chemistry consultation"
+final_body: "A friendly consultation call, usually around 30 minutes, so we can get to know your child: which tier they're on, where the AQA papers are catching them out and what they're like as a learner. Within 24 hours you'll have profiles of two or three tutors to choose from."
+final_assurance: "Free call · Lessons from £37 · No contract"
 
 sitemap:
   priority: 0.7

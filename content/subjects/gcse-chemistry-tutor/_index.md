@@ -1,151 +1,88 @@
 ---
-title: "GCSE Chemistry Tutor Online, 1-to-1"
-description: "Rated 5.0 across 108 Google reviews. Online GCSE Chemistry tutors who work through equations, moles and the practicals, one to one from £37 an hour."
-robots: "index, follow"
+# GCSE Chemistry subject page, on the location page design (design: "location",
+# rendered by layouts/partials/ads-subject-body.html). Same structure and
+# parent-chat voice as the GCSE Maths reference page. The AQA, Edexcel and OCR
+# pages underneath show up as board cards automatically.
+title: "GCSE Chemistry Tutors Online, One-to-One | The Degree Gap"
+description: "One-to-one online GCSE Chemistry tutors, picked for your child by our team. Free consultation call, profiles within 24 hours, lessons from £37, no contract."
 layout: "single"
-subject: "GCSE Chemistry"
+design: "location"
+robots: "index, follow"
+callback_prompt: true
 level: "GCSE"
+subject: "GCSE Chemistry"
+subject_short: "Chemistry"
 
 # ───────────── HERO ─────────────
-banner_heading: "GCSE Chemistry Tutors Who Make the Marks Add Up"
-banner_description: "The theory makes sense in the lesson, then the moles questions and the six-mark answers come back with half the marks missing."
-banner_cta_primary: "Book your free call with Joe"
-banner_cta_secondary: "07859 965776"
-pricing_note: "From £37/hr"
-rating_text: "5.0 · 100+ Google reviews"
-hero_image: "/images/founders-award.jpg"
-hero_alt: "Harry and Joe, co-founders of The Degree Gap, with the GCSE Specialists of the Year award"
+hero_eyebrow: "GCSE CHEMISTRY TUTORING · ONLINE, ACROSS THE UK"
+hero_h1: "Online GCSE Chemistry Tutors, Matched to Your Child"
+hero_lead: "If your child gets the Chemistry in class but the moles questions and six-mark answers keep coming back with half the marks missing, you're not alone, and it can be sorted. Book a free consultation call so we can get to know your child, and within 24 hours of it you'll get profiles of two or three tutors we think would suit them."
+meta_2: "Online using the platform Lessonspace, plus replay available"
+meta_3: "GCSE Tutoring Specialists of the Year 2025 & 2026"
 
-# ───────────── WHY DIFFERENT ─────────────
-why_heading: "Why parents bring their Chemistry problem to us"
-why_blocks:
-  - title: "We have met every Chemistry tutor we put in front of you"
-    body: "The hardest part of finding a tutor is usually the not knowing. A name off a directory, a profile that lists a degree and not much else. We changed that part. Harry and Joe have interviewed every tutor on the platform themselves, and roughly thirty-three people apply for every one we say yes to. So by the time a name reaches you, it has already been through two people who know what a Chemistry mark scheme actually rewards, from the state symbols in an ionic equation to the working an examiner needs to see before they hand over the marks on a moles calculation."
-  - title: "Your child's board, not just 'Chemistry'"
-    body: "AQA, Edexcel and OCR cover the same science and reward it in their own ways. The formula support differs, the required practicals are examined differently, and the higher-tier calculation questions are not framed the same from one board to the next. Teach a child on one board and tutor them on another, and the marks quietly leak. If you are not sure which board your child sits, Joe works that out with you on the first call, before any tutor is matched."
-  - title: "We start by finding where it actually broke"
-    body: "Most parents who reach us cannot name the exact problem. Only that the effort is going in and the Chemistry grade is not moving. That is what the call with Joe is for. A proper conversation about the predicted grade, the mock that came back lower than hoped, and the topic the class moved past too fast, whether that is electrolysis or the mole calculations that never quite clicked. From there he puts together a short list of tutors who can do something about it."
+card_heading: "Talk to a member of the team to start the matching process"
+card_points:
+  - "A free consultation call, usually around 30 minutes"
+  - "2 or 3 tutor profiles within 24 hours of the call"
+  - "Lessons from £37, no contract"
 
-# ───────────── HOW IT WORKS ─────────────
-how_heading: "From your first message to your child's first paid session"
-how_steps:
-  - title: "A 40-minute consultation with Joe"
-    body: "When you enquire, Joe calls you back to fix a time that suits you. The consultation is a proper forty-minute conversation about what is happening with your child's Chemistry, the exam board, the predicted grade and the topics the school moved past too quickly. From there he starts working out which tutors would fit."
-  - title: "Free trial calls with two or three tutor matches"
-    body: "Joe sends a short list of two or three tutors he thinks could work for your child, and each one offers a free trial call. You meet them, watch how they explain a tricky Chemistry question, and see who your child actually clicks with. No commitment afterwards, no card details and no pressure."
-  - title: "You pick the tutor that fits, and sessions begin"
-    body: "From the trial calls you choose the tutor who feels right for your child, and weekly sessions start on Lessonspace, our shared online whiteboard. You pay per session, there are no contracts, and if at any point it is not working, you stop."
+# ───────────── TUTORS ─────────────
+tutors_eyebrow: "MEET SOME OF THE TUTORS"
+tutors_heading: "Some of the GCSE Chemistry tutors you could be matched with"
+tutors_intro: "You won't be left scrolling through hundreds of profiles on your own. We've met every tutor on our platform, and after your call we pick the two or three who know your child's exam board and who we think will get on best with them. Here are a few of them."
+tutor_names:
+  - "Francis Isaac"
+  - "Thanu Yogeswaran"
+  - "Safiyyah Ahmed"
+  - "Laura Bould"
 
-# ───────────── KPI STATS STRIP ─────────────
-stats_heading: "What the platform looks like, by the numbers"
-stats:
-  - number: "3%"
-    label: "Tutor acceptance rate"
-    body: "Only one in every 33 tutor applicants makes it through Joe and Harry"
-  - number: "100+"
-    label: "Five-star Google reviews"
-    body: "Real Degree Gap families, independently verified"
-  - number: "5,000+"
-    label: "Hours of tutoring delivered"
-    body: "Across GCSE, A-Level and university applications"
-  - number: "15+"
-    label: "UK schools we work with"
-    body: "Directly. Many more receive resources we have built"
-
-# ───────────── MEET THE FOUNDERS ─────────────
-founders_heading: "Meet Harry and Joe"
-founders_eyebrow: "Who runs The Degree Gap"
-founders_body: "We are Harry and Joe, the co-founders of The Degree Gap. We started this because we kept seeing the same thing. Capable students quietly getting missed in a class of thirty, where the pace and the attention could not match what they actually needed. So we built one-to-one tutoring around the child, matched on the exam board and the way they learn, not just the subject on the timetable. Between us we have over five thousand hours of one-to-one teaching, and a firm view on why Chemistry trips up bright students. Usually it is the maths hiding inside the subject, and the precision the mark scheme quietly asks for."
-founders_image: "/images/founders-award.jpg"
-founders_image_alt: "Harry and Joe, co-founders of The Degree Gap, with the GCSE Specialists of the Year award"
-founders_cta: "Book your free call with Joe"
-
-# ───────────── PARENT VOICES (reviews surfaced from data) ─────────────
-voices_heading: "What parents tell us, in their own words"
-voices_eyebrow: "Verified Google reviews"
-voices_intro: "Real reviews from real Degree Gap families, all verified on Google. None of them name a subject, so we have not dressed any of these up as Chemistry. What they share is the thing every Chemistry parent is really after: the grade moving, and a child who stops dreading the paper."
-voices:
-  - name: "Augusta"
-    role: "Parent of GCSE Student"
-    text: "The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."
-  - name: "Lisa"
-    role: "Parent of Two Students"
-    text: "The Degree Gap has exceeded all my expectations. They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional. Both my sons exceeded their expected grades in their GCSEs and A Levels and got into their first choice universities. I cannot recommend them highly enough."
-  - name: "Philippa"
-    role: "Parent of GCSE Student"
-    text: "I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings. Highly recommend."
-  - name: "Alexander"
-    role: "Parent"
-    text: "The Degree Gap helped my child go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and applications."
-  - name: "Charlotte"
-    role: "GCSE Student"
-    text: "I cannot recommend The Degree Gap enough. My tutor was helpful, welcoming and helped me achieve a grade higher than I was expected."
-  - name: "Sorland"
-    role: "Grandparent"
-    text: "My granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
-
-# ───────────── TUTOR STRIP ─────────────
-tutor_strip_heading: "A few of the Chemistry tutors you might meet"
-tutor_strip_body: "You will not be left scrolling hundreds of profiles, guessing which one suits your child. We do that part. After the call with Joe, we come back with two or three names chosen for your child's exam board and for what is actually going wrong, the moles working that never earns full marks, or the six-mark answers that read well but miss the points. The faces below are a small preview of who is on the other end of that."
+review_names:
+  - "Philippa Langton"
+  - "Augusta Oloke"
+  - "Dawn Lattimer"
+  - "Keira Lei"
+  - "Lisa James"
+  - "Sorland Pinnacle"
 
 # ───────────── EXAM BOARDS ─────────────
-# TODO: swap board URLs from #get-help to the real /aqa/, /edexcel/, /ocr/ pages once built
-boards_heading: "Your exam board, not just GCSE Chemistry"
-boards_intro: "AQA, Edexcel and OCR set the same science and reward it differently. The calculation questions are framed their own way, the required practicals show up differently in the paper, and the formula support is not identical. Tutor a child on the wrong board and the marks suffer for it. Not sure which one your child sits? Joe will help you pin it down on the first call."
-boards:
-  - name: "AQA"
-    url: "#get-help"
-    body: "The most common board for GCSE Chemistry. Paper 1 covers atomic structure, bonding and quantitative chemistry, Paper 2 the rates, organic and analysis content. Maths skills carry real weight here, so tutors drill the moles and yield questions where the marks sit, and the six-mark answers examiners grade by levels."
-  - name: "Edexcel"
-    url: "#get-help"
-    body: "Separate papers with a strong run of applied, worded calculation questions. Our tutors know the core practicals Edexcel leans on, and where students lose marks converting units or dropping the state symbols in an ionic equation."
-  - name: "OCR Gateway (A)"
-    url: "#get-help"
-    body: "The concept-led OCR route, built around the practical activity groups. We match students with tutors who know how Gateway frames its calculation and required-practical questions, and can drill the technique that fits."
-  - name: "OCR Twenty First Century (B)"
-    url: "#get-help"
-    body: "The context-led OCR route, heavy on applying Chemistry to unfamiliar reactions and data. Tutors work on reading a reaction a child has never seen and pulling the right method out of it, which is exactly where this board separates the grades."
+boards_heading: "Which exam board does your child sit for GCSE Chemistry?"
+boards_intro: "AQA, Edexcel and OCR teach the same science but set and mark their papers in their own way, from how the calculations are worded to how the required practicals come up. So we pick tutors who know your child's board. Tap yours to see how it's examined. Not sure which it is? It's usually on the front of a mock paper, or we'll work it out with you on the call."
 
-# ───────────── FIRST SESSION METHOD ─────────────
-method_heading: "What a first session actually looks like"
-method_steps:
-  - "The tutor sits your child through a recent Chemistry paper, calculations and all, with no clock running on the first go."
-  - "Then marks it the way an examiner does, checking the working on every moles question and the state symbols on every equation."
-  - "Walks your child through where the marks actually went, and shows them how to write the answer the mark scheme is looking for."
-method_body_after: "After that, sessions move onto the topics bleeding the marks and the technique that wins them back, whether that is the mole calculations or the organic naming that never stuck. Most parents notice the confidence shift first. The grade tends to follow within a half term."
-method_image: "/images/student-completing-maths-worksheet.jpg"
+# ───────────── 3 STEPS ─────────────
+steps_heading: "Start GCSE Chemistry tutoring in 3 steps"
+steps_lead: "Most families have their first lesson booked within a week. And you don't pay anything until your child has found a tutor they like."
+steps:
+  - title: "A free consultation call"
+    body: "A relaxed chat with a member of the team, usually around 30 minutes. It's how we get to know you and your child: which topics aren't sticking, whether it's the calculations or the longer answers, the exam board and tier if you know them, and how your child likes to learn. No pressure and no sales pitch."
+  - title: "Meet 2 or 3 tutors"
+    body: "Within 24 hours of the call you'll get profiles of two or three tutors we've picked for your child, so you can see who they are before choosing. Your child can then meet your favourite on a free video call."
+  - title: "Start weekly lessons"
+    body: "Lessons are one-to-one and online, using the platform Lessonspace, with a replay of every lesson to look back on. From £37 an hour, no contract, and you can stop whenever you like."
 
-# ───────────── PRICING ─────────────
-pricing_heading: "What it actually costs"
-pricing_body: "Sessions start at £37 an hour. The exact rate depends on the tutor, and we agree it with you before anything is booked. You pay per session. No upfront fees, no contracts. If at any point this is not working for your child, you stop. No chasing anyone to cancel, no money tied up in something that is not helping."
-pricing_marks:
-  - "Pay per session"
-  - "Free consultation and trial calls"
-  - "Cancel any time"
+# ───────────── CLOSING CTA ─────────────
+final_heading: "Book your free<br>GCSE Chemistry consultation"
+final_body: "A friendly consultation call, usually around 30 minutes, so we can get to know your child: where Chemistry is catching them out, what they're aiming for and what they're like as a learner. Within 24 hours you'll have profiles of two or three tutors to choose from."
+final_assurance: "Free call · Lessons from £37 · No contract"
 
-# ───────────── FAQ ─────────────
-faqs:
-  - q: "How do I know if my child needs a GCSE Chemistry tutor?"
-    a: "The clearest sign is effort going in with the grade sitting still. Homework done, revision cards made, and the mock still comes back short. Sometimes it is narrower than that, a child who can recite the theory but freezes on a moles question, or writes a full six-mark answer that only picks up two marks. Sometimes a student just wants to push further than the class has time for. Any of those is a good reason to get in touch, and we will tell you honestly if we do not think tutoring is the right move."
-  - q: "My child understands the theory but the marks do not follow. What is going on?"
-    a: "This is the most common thing we hear about Chemistry. The knowledge is there, but the exam wants it written a precise way. State symbols in the ionic equation. The working shown on every step of a moles calculation. The right technical word in a six-mark answer. A tutor marks past papers the way an examiner does, points out exactly where the marks are slipping, and drills the phrasing until the answer earns what your child already knows."
+faq_items:
+  - q: "Do you cover where we live?"
+    a: "Yes, we cover the whole of the UK. All our lessons are online, so it doesn't matter whether you're in a city or a village. It also means we can pick the tutor who's the best fit for your child, rather than whoever happens to live nearby."
+  - q: "How much does it cost?"
+    a: "Lessons start from £37 an hour. The exact price depends on the tutor, and we'll always agree it with you before anything is booked. There's no contract and nothing to pay upfront, and the consultation call and the video meeting with your tutor are free."
+  - q: "My child understands it in class, so why aren't the marks following?"
+    a: "It's the thing we hear most about Chemistry, and it's usually about how the answer is written, not what your child knows. The exam wants state symbols in the ionic equation, every step of a moles calculation shown, and the right technical words in a six-mark answer. A tutor marks past papers the way an examiner would and practises the wording until your child gets the marks for what they already know."
   - q: "How much of GCSE Chemistry is actually maths?"
-    a: "More than most families expect, and it is often the real problem hiding under a Chemistry grade. Moles, relative formula mass, concentration, percentage yield, gas volumes, all of it is calculation. If a child never quite nailed rearranging a formula or converting units, that gap shows up again right here. A good tutor works the maths inside the Chemistry directly, so the numbers stop being the thing that costs the marks."
-  - q: "Will the tutor match my child's exam board?"
-    a: "Yes, and it is part of how we choose the shortlist. AQA, Edexcel, OCR Gateway and OCR Twenty First Century cover the same content but frame their calculations and required practicals differently. We match your child with a tutor who knows their board, so the past papers, the mark scheme and the practical questions are the right ones from the first session. If you are not sure which board your child sits, Joe will help you work it out."
-  - q: "Can Chemistry really be taught well online?"
-    a: "Yes. Every session runs on Lessonspace, our shared whiteboard, and it suits Chemistry better than people expect. The tutor can work through a moles calculation line by line on screen, draw out a displayed formula, and balance an equation with your child watching every step. Most students concentrate better one-to-one online than they do in a class of thirty. We do not do in person."
-  - q: "Are the consultation and the trial calls actually free?"
-    a: "Yes. The 40-minute consultation with Joe is free. The trial calls with the tutors he suggests are free too. You only start paying once you have chosen a tutor and weekly sessions begin. No catch, and no card details upfront."
-
-# ───────────── FINAL FORM ─────────────
-form_cta: "Tell Joe what is going on with Chemistry"
-form_intro: "Joe will call you back within one working day to set up a 40-minute consultation. He will ask about the exam board, the predicted grade and what you have already tried, then send you two or three tutors with free trial calls so you can pick the one that fits. If he does not think tutoring is the right move for now, he will tell you that too."
-form_message_label: "Where is your child stuck?"
-form_message_placeholder: "For example: Year 11 AQA Chemistry, predicted a 5, hoping for a 7. Fine in class, but the moles calculations and six-mark questions fall apart under time."
-form_button: "Book my free call with Joe"
-form_note: "We typically respond within one working day. No obligation. Sessions start from £37 an hour."
-
+    a: "More than most families expect. Moles, relative formula mass, concentration, percentage yield and gas volumes are all calculations. If rearranging a formula or converting units never quite clicked, it shows up again here. A tutor works on the maths inside the Chemistry, so the numbers stop costing marks."
+  - q: "Do the tutors know my child's exam board?"
+    a: "Yes. We pick tutors who know your child's board, whether that's AQA, Edexcel, OCR Gateway or OCR Twenty First Century, at Foundation or Higher tier. They frame their calculations and required practicals differently, so it matters. Not sure which one it is? It's usually on the front of a mock paper, or we can work it out with you on the call."
+  - q: "What does a tutor actually do in a Chemistry lesson?"
+    a: "The first lesson is usually about finding where the marks are going, often with a recent paper and no clock running. After that, lessons focus on the topics that are costing the most, whether that's moles, electrolysis or organic chemistry, plus the required practicals and the way the exam wants answers written."
+  - q: "Does online tutoring actually work for Chemistry?"
+    a: "It does, and lots of children find it easier. Your child and the tutor share a whiteboard in Lessonspace, so the tutor can balance an equation, draw a displayed formula or work through a moles calculation line by line while your child watches. Every lesson has a replay too, which is handy the night before a test."
+  - q: "What if we don't click with the tutor?"
+    a: "Just let us know and we'll find someone else, with no charge and no awkward conversation. It happens, and we'd much rather sort it than have your child sit through lessons that aren't working. It's also why you hear about two or three tutors before choosing, rather than being handed one."
+  - q: "My child doesn't really want a tutor. Is that normal?"
+    a: "Very normal, and it's probably the thing parents mention most. It usually changes once they meet the tutor, because one-to-one feels nothing like a class of thirty. That's why your child gets to meet the tutor on a free video call first. And if it's really not working after a couple of lessons, you simply stop."
 sitemap:
   priority: 0.9
   changefreq: monthly
