@@ -1,150 +1,86 @@
 ---
-title: "11+ Tutors Online, from £37 an Hour"
-description: "Online one-to-one 11+ preparation with tutors matched to your child. Verbal and non-verbal reasoning, maths and English. Free call first, from £37/hr."
-robots: "index, follow"
+# 11+ subject page, on the location page design (design: "location",
+# rendered by layouts/partials/ads-subject-body.html). Not a level plus a
+# subject, so subject_label, book_subject and teaches_token are set here.
+# Tone: reassuring and chatty, the way we talk to parents on the phone.
+title: "Online 11+ Tutors, Matched to Your Child | The Degree Gap"
+description: "Friendly one-to-one online 11+ tutors, matched to your child and their schools. Free consultation call, profiles within 24 hours, lessons from £37, no contract."
 layout: "single"
-subject: "11+"
+design: "location"
+robots: "index, follow"
+callback_prompt: true
 level: "11+"
+subject: "11+"
+subject_short: "11+"
+subject_label: "11+"
+book_subject: "11+"
 
 # ───────────── HERO ─────────────
-banner_heading: "11+ Tutors Who Get Your Child Ready Without the Dread"
-banner_description: "You want your child prepared for the grammar or independent school test, not drilled to the point they dread Saturday mornings."
-banner_cta_primary: "Book your free call with Joe"
-banner_cta_secondary: "07859 965776"
-pricing_note: "From £37/hr"
-rating_text: "5.0 · 100+ Google reviews"
-hero_image: "/images/founders-award.jpg"
-hero_alt: "Harry and Joe, co-founders of The Degree Gap, with the GCSE Specialists of the Year award"
+hero_eyebrow: "11+ TUTORING · ONLINE, ACROSS THE UK"
+hero_h1: "Online 11+ Tutors, Matched to Your Child"
+hero_lead: "You want your child ready for the grammar or independent school test, not drilled until they dread Saturday mornings. Book a free consultation call with our team so we can get to know your child and the schools you're aiming for, and within 24 hours of it you'll get profiles of two or three tutors we think would suit them. Pick the one that feels right, and lessons start from there."
+meta_2: "Online using the platform Lessonspace, plus replay available"
+meta_3: "GCSE Tutoring Specialists of the Year 2025 & 2026"
 
-# ───────────── WHY DIFFERENT ─────────────
-why_heading: "Why parents bring the 11+ to us"
-why_blocks:
-  - title: "We have met every tutor before your child does"
-    body: "The hardest part of finding an 11+ tutor is usually the not knowing, a name off a directory, a profile you can't really read. We took that part out. Harry and Joe interview every tutor on the platform personally, and only about one applicant in thirty makes it through, so by the time a name reaches you it has already been past people who know what the 11+ actually tests and how a young child copes with it."
-  - title: "The right test for your child's schools, not just 'the 11+'"
-    body: "The 11+ isn't one exam. A GL grammar paper, an ISEB pre-test for an independent school and a school's own written paper ask for different things, and preparing for the wrong format wastes the months you've got. If you're not sure which one your child will sit, Joe works it out with you on the first call, before any tutor is matched."
-  - title: "We start by listening, not drilling"
-    body: "Most parents who reach us can't quite name what's wrong, only that their child is bright and the practice papers keep going badly, or that the nerves are the real problem. That's what the call with Joe is for. A proper conversation about the target schools, where your child is now and how they handle a bit of pressure. From there he puts together a short list of tutors who suit a child of that age."
+card_heading: "Talk to a member of the team to start the matching process"
+card_points:
+  - "A free consultation call, usually around 30 minutes"
+  - "2 or 3 tutor profiles within 24 hours of the call"
+  - "Lessons from £37, no contract"
 
-# ───────────── HOW IT WORKS ─────────────
-how_heading: "From your first message to your child's first session"
-how_steps:
-  - title: "A 40-minute consultation with Joe"
-    body: "When you get in touch, Joe calls you back to find a time that works. The consultation is a proper forty-minute conversation about your child, the schools you're aiming at, which test they'll sit and how they're finding the practice so far. From there he starts thinking about which tutors would fit."
-  - title: "Free trial calls with two or three matches"
-    body: "Joe sends a short list of tutors he thinks could work for your child, and each one offers a free trial call. You get to meet them, see how they explain a tricky question and, just as importantly, see who your child actually warms to. No commitment after, no card details, no pressure."
-  - title: "You pick the tutor, and sessions begin"
-    body: "You choose the tutor who feels right for your child, and weekly sessions start on Lessonspace, our shared online whiteboard. You pay per session, there are no contracts, and if it ever stops working, you stop."
+# ───────────── TUTORS ─────────────
+tutors_eyebrow: "MEET SOME OF THE TUTORS"
+tutors_heading: "Some of the 11+ tutors you could be matched with"
+tutors_intro: "You won't be left scrolling through hundreds of profiles, trying to guess who'd suit a ten-year-old. We've met every tutor on our platform, and after your call we pick the two or three we think will get on best with your child and know the test they'll sit. Here are a few of them."
+teaches_token: "11+ Maths"
+tutor_names:
+  - "Laura Bould"
+  - "Arianna Seraj"
+  - "Will Turner"
+  - "Humaira Habib"
 
-# ───────────── KPI STATS STRIP ─────────────
-stats_heading: "What the platform looks like, by the numbers"
-stats:
-  - number: "3%"
-    label: "Tutor acceptance rate"
-    body: "Only about one in every 33 tutor applicants makes it through Joe and Harry"
-  - number: "100+"
-    label: "Five-star Google reviews"
-    body: "Real Degree Gap families, independently verified"
-  - number: "5,000+"
-    label: "Hours of tutoring delivered"
-    body: "Across 11+, GCSE and A-Level"
-  - number: "15+"
-    label: "UK schools we work with"
-    body: "Directly. Many more receive resources we have built"
+review_names:
+  - "Dawn Lattimer"
+  - "Ellen Logan"
+  - "Heidi Milburn"
+  - "Sorland Pinnacle"
+  - "Philippa Langton"
 
-# ───────────── MEET THE FOUNDERS ─────────────
-founders_heading: "Meet Harry and Joe"
-founders_eyebrow: "Who runs The Degree Gap"
-founders_body: "We're Harry and Joe, the co-founders of The Degree Gap. We started this because we kept watching the same thing happen. Bright children were quietly getting lost in a class of thirty, where the pace and the attention couldn't match what any one child actually needed. So we built one-to-one tutoring around the child, matched to the schools they're aiming at and the way they learn. Between us we've spent more than five thousand hours teaching one-to-one, and we hold a firm view on what actually helps a ten-year-old walk into an 11+ exam calm rather than rattled."
-founders_image: "/images/founders-award.jpg"
-founders_image_alt: "Harry and Joe, co-founders of The Degree Gap, with the GCSE Specialists of the Year award"
-founders_cta: "Book your free call with Joe"
+# ───────────── 3 STEPS ─────────────
+steps_heading: "Start 11+ tutoring in 3 steps"
+steps_lead: "Most families have their first lesson booked within a week. And you don't pay anything until your child has found a tutor they like."
+steps:
+  - title: "A free consultation call"
+    body: "A relaxed chat with a member of the team, usually around 30 minutes. We'll talk about the schools you're aiming for, which test your child is likely to sit, how the practice is going and how they cope with a bit of pressure. Not sure which test it is? We'll help you work it out. No pressure and no sales pitch."
+  - title: "Meet 2 or 3 tutors"
+    body: "Within 24 hours of the call you'll get profiles of two or three tutors we've picked for your child and their test, so you can see who they are before choosing. Your child can then meet your favourite on a free video call."
+  - title: "Start weekly lessons"
+    body: "Lessons are one-to-one and online, using the platform Lessonspace, with a replay of every lesson to look back on. From £37 an hour, no contract, and you can stop whenever you like."
 
-# ───────────── PARENT VOICES (reviews surfaced from data) ─────────────
-voices_heading: "What parents tell us, in their own words"
-voices_eyebrow: "Verified Google reviews"
-voices_intro: "Real reviews from real Degree Gap families, all verified on Google. We picked ones that speak to what matters most when a young child is preparing for something this big: patience, steadiness, and a tutor who takes the pressure down rather than piling it on."
-voices:
-  - name: "Heidi"
-    role: "Parent"
-    text: "Our tutor is simply amazing with our daughter. He understands her completely and her sessions are helping her with her school work so much. We cannot thank him enough."
-  - name: "Annette"
-    role: "Parent"
-    text: "This company helped us find a tutor for Geography and my son has excelled so much in just a few months. Our tutor has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself. He also manages neurodiversity effectively."
-  - name: "Sorland"
-    role: "Grandparent"
-    text: "My granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
-  - name: "Philippa"
-    role: "Parent"
-    text: "I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings. Highly recommend."
-  - name: "Augusta"
-    role: "Parent"
-    text: "The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."
-  - name: "Theresa"
-    role: "Parent"
-    text: "The Degree Gap was fantastic. Their knowledge and guidance helped my son find direction in both his studies and future plans."
+# ───────────── CLOSING CTA ─────────────
+final_heading: "Book your free<br>11+ consultation"
+final_body: "A friendly consultation call, usually around 30 minutes, so we can get to know your child: the schools you're aiming for, which parts of the test feel hard and how they handle a timer. Within 24 hours you'll have profiles of two or three tutors to choose from."
+final_assurance: "Free call · Lessons from £37 · No contract"
 
-# ───────────── TUTOR STRIP ─────────────
-tutor_strip_heading: "A few of the tutors your child might meet"
-tutor_strip_body: "You won't be scrolling through hundreds of profiles trying to guess which one suits a nervous ten-year-old. We do that part. After the call with Joe, we come back with two or three names chosen for your child's target schools and the test they'll actually sit. The faces below are a small preview of who's on the other end of that."
-
-# ───────────── TEST FORMATS / PROVIDERS (repurposed boards section) ─────────────
-boards_heading: "The test your child will sit, not just 'the 11+'"
-boards_intro: "People say 'the 11+' like it's a single exam. It's really a family of different tests, and they don't all reward the same things. Here's the short version of what's out there. If you're not sure which one your child will face, Joe will help you pin it down on the first call."
-boards:
-  - name: "GL Assessment"
-    url: "#get-help"
-    body: "The most widely used provider for grammar school consortiums. Papers are built from set question banks and cover verbal reasoning, non-verbal reasoning, maths and English. Because the format stays fairly consistent, a lot of the work is getting your child comfortable with the question types and the timing."
-  - name: "CEM (now GL)"
-    url: "#get-help"
-    body: "CEM ran many areas' tests for years and had a reputation for a less predictable, mixed format meant to be harder to over-prepare for. It has since moved under GL, so most regions that used CEM now sit GL-style papers. We keep track of what your child's specific consortium is using this year."
-  - name: "ISEB Common Pre-Test"
-    url: "#get-help"
-    body: "Used by a lot of independent senior schools as an early sift, usually taken in Year 6 or early Year 7. It's online and adaptive, so the questions get easier or harder as your child answers, across verbal reasoning, non-verbal reasoning, English and maths."
-  - name: "School-specific papers"
-    url: "#get-help"
-    body: "Plenty of independent schools set their own written papers and interviews alongside or instead of the common tests. These vary school to school, so real preparation means knowing the style of the actual schools you're aiming at, not a generic paper."
-
-# ───────────── FIRST SESSION METHOD ─────────────
-method_heading: "What a first session actually looks like"
-method_steps:
-  - "The tutor gives your child a short, relaxed set of questions across the four areas, verbal reasoning, non-verbal reasoning, maths and English, with no timer on the first go."
-  - "They watch how your child works, where they slow right down, which question types throw them and what they rush."
-  - "Then they show one or two techniques, a way to spot the pattern in a non-verbal sequence, or a cleaner method for an inference question in the comprehension."
-method_body_after: "After that, sessions build up the areas that need it and the exam-day habits that stop a capable child losing easy marks to nerves. Most parents tell us the dread goes first. The scores tend to steady once it has."
-method_image: "/images/student-completing-maths-worksheet.jpg"
-
-# ───────────── PRICING ─────────────
-pricing_heading: "What it actually costs"
-pricing_body: "Sessions start at £37 an hour. The exact rate depends on the tutor, and we agree it with you before anything is booked. You pay per session. No upfront fees, no contracts. If it ever stops being right for your child, you stop. No phone calls trying to leave. No money tied up in something that isn't helping."
-pricing_marks:
-  - "Pay per session"
-  - "Free consultation and trial calls"
-  - "Cancel any time"
-
-# ───────────── FAQ ─────────────
-faqs:
-  - q: "How early should we start preparing for the 11+?"
-    a: "It depends on the child and the test date, but most families we work with start in Year 5, sometimes the year before. There's no prize for starting at seven. Going too hard too early is how a bright child ends up dreading the whole thing. A steady hour a week, built around where your child actually needs the work, does more than months of daily papers."
+faq_items:
+  - q: "Do you cover where we live?"
+    a: "Yes, we cover the whole of the UK. All our lessons are online, so it doesn't matter whether you're in a city or a village. It also means we can pick the tutor who knows your child's test best, rather than whoever happens to live nearby."
   - q: "Which 11+ test will my child actually sit?"
-    a: "That comes down to your region and the schools you're aiming at. Some grammar consortiums use GL, many independent schools use the ISEB Common Pre-Test, and some schools set their own papers on top. If you're not sure, Joe will help you work it out on the first call, and we match your child with a tutor who knows that format."
+    a: "It depends on your area and the schools you're aiming for, because the 11+ isn't one exam. Many grammar school areas use GL Assessment papers. CEM ran a lot of areas' tests for years and has since moved under GL, so most of those areas now sit GL-style papers. Lots of independent schools use the ISEB Common Pre-Test, and some set their own written papers too. If you're not sure, we'll help you work it out on the call and match a tutor who knows that format."
+  - q: "How early should we start preparing?"
+    a: "Most families we work with start in Year 5, sometimes the year before. There's no prize for starting at seven, and going too hard too early is how a bright child ends up dreading the whole thing. A steady hour a week, aimed at where your child needs it, does more than months of daily papers."
+  - q: "What does a tutor actually do in an 11+ lesson?"
+    a: "The first lesson is a relaxed look at where your child is, across verbal reasoning, non-verbal reasoning, maths and English, with no timer on the first go. The tutor watches where they slow down and which question types throw them. After that, lessons build up the areas that need it and the exam-day habits that stop a capable child losing easy marks."
   - q: "Isn't 11+ preparation just drilling past papers?"
-    a: "Past papers matter, but on their own they're not enough, and doing nothing but papers is how children burn out. The bigger wins are usually technique and timing, spotting the pattern in a non-verbal question quickly, reading a comprehension for the inference rather than the surface, staying calm when the clock is running. We build those first, then use papers to check they've landed."
-  - q: "My child gets nervous under timed conditions. Can you help with that?"
-    a: "Yes, and it's one of the most common reasons parents come to us at this age. A child can know the material and still freeze the moment a timer starts. Tutors bring the timing in gradually rather than all at once, so your child gets used to the pressure in small steps instead of meeting it cold on exam day."
-  - q: "Do you prepare children for the 11+ online or in person?"
-    a: "All sessions run on Lessonspace, our shared online whiteboard, where the tutor and your child work through questions together on screen. Most children settle into it quickly, and one-to-one online holds their attention better than you'd expect at this age. We do not do in-person."
-  - q: "Is the consultation and are the trial calls really free?"
-    a: "Yes. The 40-minute consultation with Joe is free. The trial calls with the tutors he suggests are free too. You only start paying once you've chosen a tutor and weekly sessions begin. No catch, no card details up front."
-
-# ───────────── FINAL FORM ─────────────
-form_cta: "Tell Joe about your child and the schools you're aiming at"
-form_intro: "Joe will call you back within one working day to set up a 40-minute consultation. He'll ask which schools you're targeting, which test your child will sit and how the practice is going so far, then send you two or three tutors with free trial calls so you can pick the one your child clicks with. If he doesn't think tutoring is the right move yet, he'll tell you that too."
-form_message_label: "Where is your child up to?"
-form_message_placeholder: "For example: Year 5, sitting the GL grammar test next September. Strong at maths, but non-verbal reasoning and the timing are the worry."
-form_button: "Book my free call with Joe"
-form_note: "We typically respond within one working day. No obligation. Sessions start from £37 an hour."
-
+    a: "Past papers matter, but on their own they're not enough, and nothing but papers is how children burn out. The bigger wins are usually technique and timing, like spotting the pattern in a non-verbal question or reading a comprehension for what's meant, not just what's said. Tutors build those first, then use papers to check they've stuck."
+  - q: "My child gets nervous with a timer. Can you help with that?"
+    a: "Yes, and it's one of the most common things parents tell us at this age. A child can know the material and still freeze the moment the clock starts. Tutors bring timing in gradually, so your child gets used to the pressure in small steps instead of meeting it cold on the day."
+  - q: "How much does it cost?"
+    a: "Lessons start from £37 an hour. The exact price depends on the tutor, and we'll always agree it with you before anything is booked. There's no contract, no joining fee and nothing to pay upfront. You just pay for the lessons you have, and the first chat with us and the video meeting with your tutor are free."
+  - q: "What if we don't click with the tutor?"
+    a: "Just let us know and we'll find someone else, with no charge and no awkward conversation. It happens, and at ten or eleven it matters even more that your child likes the person on the other side of the screen. It's also why you hear from two or three tutors before choosing, rather than being handed one."
+  - q: "Does online tutoring actually work for a ten-year-old?"
+    a: "It does, and most children settle in quicker than parents expect. Lessons use a platform called Lessonspace, where your child and the tutor work on the same whiteboard, so the tutor can see every step and help straight away. Every lesson has a replay too, which is handy for going back over a tricky question type before the next practice paper."
 sitemap:
   priority: 0.9
   changefreq: monthly
