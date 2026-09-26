@@ -3,6 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  {{ partial "cookiebot.html" . }}
+  {{ partial "gtm-head.html" . }}
   {{ block "seo" . }}{{ partial "seo.html" . }}{{ end }}
   {{ with .Params.hero_image }}
     {{ $hero := resources.Get (strings.TrimPrefix "/" .) }}
@@ -71,6 +73,7 @@
   </script>
 </head>
 <body>
+  {{ partial "gtm-body.html" . }}
   {{ partial "header.html" . }}
   <main>
     {{ block "main" . }}{{ end }}

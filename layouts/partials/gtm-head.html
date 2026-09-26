@@ -1,0 +1,18 @@
+{{/* Google Tag Manager container, the <head> half.
+
+     Loads only when googleTagManagerId is set in hugo.toml, so the container
+     can be retired by blanking one value rather than editing this layout.
+
+     Sits high in <head> because GTM injects the tags it manages, and some of
+     those need to fire before the page finishes rendering. dataLayer is
+     created with the ||[] form here and in the gtag.js block further down, so
+     whichever runs first wins and neither clobbers the other. */}}
+{{ with site.Params.googleTagManagerId }}
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer',{{ . }});</script>
+<!-- End Google Tag Manager -->
+{{ end }}

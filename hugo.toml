@@ -26,6 +26,16 @@ enableGitInfo = true
   # Google Ads under Goals > Conversions > (the lead action) > Tag setup.
   googleAdsId = ""
   googleAdsLeadLabel = ""
+  # Google Tag Manager container, loaded by partials/gtm-head.html and
+  # gtm-body.html. Blank it to remove GTM from every page in one edit.
+  # Note: GA4 (G-X8HZE9WB3J) and the Meta Pixel are hardcoded in baseof.html,
+  # so do not also add tags for those inside this container or page views and
+  # conversions get counted twice.
+  googleTagManagerId = "GTM-WJCKZ85H"
+  # Cookiebot consent banner, loaded by partials/cookiebot.html as the first
+  # script in <head> so its auto-blocking can hold GTM, GA4 and the Meta Pixel
+  # until the visitor consents. Blank it to remove consent from every page.
+  cookiebotId = "aeafae27-f559-4eb3-ac77-9e43fcb68fab"
 
 [markup.goldmark.renderer]
   unsafe = true
