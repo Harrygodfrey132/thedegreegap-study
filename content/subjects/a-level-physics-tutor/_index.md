@@ -1,155 +1,83 @@
 ---
-title: "A-Level Physics Tutors Online, from £37/hr"
-description: "Online one-to-one A-Level Physics tutoring, rated 5.0 from 108 Google reviews. Tutors who fix the maths behind the physics. Free call first, from £37/hr."
-robots: "index, follow"
+# A-Level Physics subject page, on the location page design (design: "location",
+# rendered by layouts/partials/ads-subject-body.html). Structure and voice follow
+# the GCSE Maths reference page (content/subjects/gcse-maths-tutor/_index.md).
+title: "Online A-Level Physics Tutors, One-to-One | The Degree Gap"
+description: "One-to-one online A-Level Physics tutors, picked by our team. Free consultation call, tutor profiles within 24 hours, lessons from £37, no contract."
 layout: "single"
-subject: "A-Level Physics"
+design: "location"
+robots: "index, follow"
+callback_prompt: true
 level: "A-Level"
+subject: "A-Level Physics"
+subject_short: "Physics"
 
 # ───────────── HERO ─────────────
-banner_heading: "A-Level Physics Tutors Who Rebuild the Maths Underneath"
-banner_description: "Your child gets the Physics. It is the algebra, the logs and the multi-step derivations underneath that keep costing the marks."
-banner_cta_primary: "Book your free call with Joe"
-banner_cta_secondary: "07859 965776"
-pricing_note: "From £37/hr"
-rating_text: "5.0 · 100+ Google reviews"
-hero_image: "/images/founders-award.jpg"
-hero_alt: "Harry and Joe, co-founders of The Degree Gap, with the GCSE Specialists of the Year award"
-grade_jump_from: "C"
-grade_jump_to: "A"
-grade_jump_name: "Alexander"
-grade_jump_text: "A real A-Level grade jump."
+hero_eyebrow: "A-LEVEL PHYSICS TUTORING · ONLINE, ACROSS THE UK"
+hero_h1: "Online A-Level Physics Tutors, Matched to Your Child"
+hero_lead: "If your child understands the Physics in class but the marks keep slipping away in the working, you're not alone. It's often the maths underneath, the rearranging, the logs and the long multi-step questions. Book a free consultation call with our team so we can get to know your child, and within 24 hours of it you'll get profiles of two or three tutors we think would suit them. Pick the one that feels right, and lessons start from there."
+meta_2: "Online using the platform Lessonspace, plus replay available"
+meta_3: "Best British Curriculum Tutoring Service Provider 2026"
 
-# ───────────── WHY DIFFERENT ─────────────
-why_heading: "Where the A-Level Physics marks actually go"
-why_blocks:
-  - title: "Every tutor we put in front of you has sat these papers"
-    body: "Finding a Physics tutor from a directory is a gamble, a name and a degree and not much else to go on. We took that part out. Harry and Joe interview every tutor personally, and about thirty-three apply for each one we say yes to. Most of the Physics tutors we match are recent Physics or Engineering graduates who came through AQA, OCR or Edexcel themselves, so they know the exact point where the maths starts biting and how the long unstructured questions get marked."
-  - title: "The problem is usually the maths, not the Physics"
-    body: "Most students who reach us can explain the concept and still lose the marks, because A-Level Physics quietly assumes a maths toolkit the specification never stops to teach. Rearranging an equation with logs in it. Reading a gradient off a graph. Carrying units through a four-step derivation. If your child did not take A-Level Maths alongside, that gap widens fast through Year 12. A good tutor rebuilds that toolkit first, and then the Physics has somewhere solid to stand."
-  - title: "AQA, OCR and Edexcel are not the same paper"
-    body: "The content overlaps and the papers do not. OCR leans harder on extended, unstructured writing, AQA carries the heaviest required-practical load in the written exam, and Edexcel weights the data-analysis questions differently. A student taught on one board and drilled on another loses marks that were there to take. If you are not sure which board your child sits, Joe works that out with you on the first call, before any tutor is matched."
+card_heading: "Talk to a member of the team to start the matching process"
+card_points:
+  - "A free consultation call, usually around 30 minutes"
+  - "2 or 3 tutor profiles within 24 hours of the call"
+  - "Lessons from £37, no contract"
 
-# ───────────── HOW IT WORKS ─────────────
-how_heading: "From your first message to the first paid session"
-how_steps:
-  - title: "A 40-minute consultation with Joe"
-    body: "When you enquire, Joe calls you back to fix a time that suits you. The consultation is a proper conversation about where the Physics is going wrong, the exam board, the predicted grade, whether your child took A-Level Maths alongside, and which topics from Mechanics to Fields keep costing marks. From there he starts working out which tutors would actually fit."
-  - title: "Free trial calls with two or three tutor matches"
-    body: "Joe sends a shortlist of two or three tutors he believes could work, and each one offers a free trial call so you can meet them, watch how they explain a multi-step problem, and see who your child actually clicks with. No commitment afterwards, no card details and no awkward pressure."
-  - title: "You pick the tutor that fits, and sessions begin"
-    body: "From the trial calls you choose the tutor that feels right, and weekly sessions run on Lessonspace, our shared online whiteboard, where a tutor can mark a past paper line by line and work a derivation out in real time. You pay per session, there are no contracts, and if at any point it is not working, you stop."
+# ───────────── TUTORS ─────────────
+tutors_eyebrow: "MEET SOME OF THE TUTORS"
+tutors_heading: "Some of the A-Level Physics tutors you could be matched with"
+tutors_intro: "You won't be left scrolling through hundreds of profiles on your own. We've met every tutor on our platform, and after your call we pick the two or three we think will get on best with your child and know their exam board. Most of our Physics tutors are strong at Maths too, which matters more than people think. Here are a few of them."
+tutor_names:
+  - "Vipin Chaudhary"
+  - "Shikhar Agarwal"
+  - "Harvey Murray"
+  - "Rebecca Hanna"
 
-# ───────────── KPI STATS STRIP ─────────────
-stats_heading: "The platform in numbers"
-stats:
-  - number: "3%"
-    label: "Tutor acceptance rate"
-    body: "Only one in every 33 tutor applicants makes it through Joe and Harry"
-  - number: "100+"
-    label: "Five-star Google reviews"
-    body: "Real Degree Gap families, independently verified"
-  - number: "5,000+"
-    label: "Hours of tutoring delivered"
-    body: "Across GCSE, A-Level and university applications"
-  - number: "15+"
-    label: "UK schools we work with"
-    body: "Directly. Many more receive resources we have built"
+review_names:
+  - "Sureet Mehra"
+  - "Alexander Chung"
+  - "daljit lall"
+  - "Charlotte Pitman"
+  - "Dan James"
+  - "serena adeosun"
 
-# ───────────── MEET THE FOUNDERS ─────────────
-founders_heading: "Meet Harry and Joe"
-founders_eyebrow: "Who runs The Degree Gap"
-founders_body: "We are Harry and Joe, the co-founders of The Degree Gap. We started this because we kept seeing the same thing happen. Capable students were quietly getting missed in a class of thirty, where the pace could not match what they actually needed, and at A-Level that gap shows up fastest in Physics. So we built one-to-one tutoring around the student, matched on the exam board and on the way they learn. Between us we have over five thousand hours of one-to-one teaching, and because A-Level Physics sits right next to the degree decision, we help with the subject choices and the university route too, not just the next paper."
-founders_image: "/images/founders-award.jpg"
-founders_image_alt: "Harry and Joe, co-founders of The Degree Gap, with the GCSE Specialists of the Year award"
-founders_cta: "Book your free call with Joe"
+# ───────────── 3 STEPS ─────────────
+steps_heading: "Start A-Level Physics tutoring in 3 steps"
+steps_lead: "Most families have their first lesson booked within a week. And you don't pay anything until your child has found a tutor they like."
+steps:
+  - title: "A free consultation call"
+    body: "A relaxed chat with a member of the team, usually around 30 minutes. It's how we get to know you and your child: where Physics is going wrong, the exam board if you know it, whether they're taking A-Level Maths too, and what they're aiming for after sixth form. That's what lets us personalise everything from there. No pressure and no sales pitch."
+  - title: "Meet 2 or 3 tutors"
+    body: "Within 24 hours of the call you'll get profiles of two or three tutors we've picked for your child, so you can see who they are before choosing. Your child can then meet your favourite on a free video call and see how they talk through a problem."
+  - title: "Start weekly lessons"
+    body: "Lessons are one-to-one and online, using the platform Lessonspace, with a replay of every lesson to look back on when a derivation needs another look. From £37 an hour, no contract, and you can stop whenever you like."
 
-# ───────────── PARENT VOICES (reviews surfaced from data) ─────────────
-voices_heading: "What families tell us, in their own words"
-voices_eyebrow: "Verified Google reviews"
-voices_intro: "Real reviews from real Degree Gap families, all verified on Google. The ones below speak to what A-Level tutoring actually changes, the jump in difficulty, the exam technique, and the grades families walked away with."
-voices:
-  - name: "Alexander"
-    role: "Parent of A-Level Student"
-    text: "The Degree Gap helped my child go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and applications."
-  - name: "Serena"
-    role: "A-Level Student"
-    text: "My tutor is a very intuitive and superb teacher. She listened to my specific concerns and bolstered my confidence in answering questions. She taught me how to think critically and helped me through this highly demanding course. I will happily recommend without a second thought."
-  - name: "Daljit"
-    role: "Parent of A-Level Student"
-    text: "My son gained almost two grades higher than his year 13 mock paper. His tutor was excellent."
-  - name: "Nicolai"
-    role: "A-Level Student"
-    text: "Before joining The Degree Gap, I found it hard to follow the curriculum. The sessions helped everything click. Lessons were calm, focused, and easy to understand. Highly recommend."
-  - name: "Alex"
-    role: "University Student"
-    text: "Cannot recommend The Degree Gap highly enough. Quick and helpful responses. I was immediately matched with a very competent tutor who was a massive help in helping me exceed my target grade and achieve a first class degree at university."
-  - name: "Theresa"
-    role: "Parent"
-    text: "The Degree Gap was fantastic. Their knowledge and guidance helped my son find direction in both his studies and future plans."
+# ───────────── CLOSING CTA ─────────────
+final_heading: "Book your free<br>A-Level Physics consultation"
+final_body: "A friendly consultation call, usually around 30 minutes, so we can get to know your child: where the Physics marks are going, the grade they're aiming for and what they're like as a learner. Within 24 hours you'll have profiles of two or three tutors to choose from."
+final_assurance: "Free call · Lessons from £37 · No contract"
 
-# ───────────── TUTOR STRIP ─────────────
-tutor_strip_heading: "A few of the Physics tutors you might meet"
-tutor_strip_body: "You will not be scrolling through hundreds of profiles, trying to guess which one is right for your child. We do that bit. After the call with Joe, we come back with two or three names hand-picked for your child's exam board and the exact place the marks are going, whether that is the maths underneath or the long six-mark problems. The faces below are a small preview of who is on the other end of that."
-
-# ───────────── EXAM BOARDS ─────────────
-# TODO: swap board URLs from #get-help to the real board pages once built
-boards_heading: "Your exam board, not just A-Level Physics"
-boards_intro: "AQA, OCR and Edexcel each mark A-Level Physics differently. The content overlaps. The papers do not. If your child is taught one board and drilled on another, the marks suffer for it. Not sure which board your child is on? Joe will help you pin it down on the first call."
-boards:
-  - name: "AQA"
-    url: "#get-help"
-    body: "The most common board for A-Level Physics. Carries the heaviest required-practical content in the written papers, so we drill the practical-skills and graph questions where marks quietly stack up."
-  - name: "OCR A"
-    url: "#get-help"
-    body: "Leans harder on extended, unstructured answers. We match students with tutors who know how OCR frames the long problem-solving questions and how examiners award the top of the band."
-  - name: "OCR B (Advancing Physics)"
-    url: "#get-help"
-    body: "The context-led route, where the Physics comes wrapped in a scenario. We pair students with tutors who can strip the question back to the physics and the maths it is actually testing."
-  - name: "Edexcel"
-    url: "#get-help"
-    body: "Weights data analysis and applied scenarios differently across the papers. Our tutors know which question types Edexcel leans on and where students drop marks in the multi-step working."
-
-# ───────────── FIRST SESSION METHOD ─────────────
-method_heading: "What the first Physics session actually looks like"
-method_steps:
-  - "The tutor sits your child through a recent past paper, no time pressure on the first run."
-  - "Then marks it the way an examiner would, mark by mark, the working as well as the final answer."
-  - "Walks your child through where the marks went, and pins down whether it is a physics gap or the maths underneath it."
-method_body_after: "From there, sessions target the topics losing the points and rebuild the maths toolkit the paper assumes. Most parents notice the shift in confidence first. The grade tends to follow through the Year 12 and Year 13 mocks."
-method_image: "/images/student-completing-maths-worksheet.jpg"
-
-# ───────────── PRICING ─────────────
-pricing_heading: "What it actually costs"
-pricing_body: "Sessions start at £37 an hour. The exact rate depends on the tutor, and we agree it with you before anything is booked. You pay per session. No upfront fees, no contracts. If at any point this is not working for your child, you stop. No phone calls trying to leave. No money locked up in something that is not helping."
-pricing_marks:
-  - "Pay per session"
-  - "Free consultation and trial calls"
-  - "Cancel any time"
-
-# ───────────── FAQ ─────────────
-faqs:
-  - q: "How do I know if my child actually needs an A-Level Physics tutor?"
-    a: "The clearest sign is effort going in without the marks following, usually because the Physics makes sense in class but falls apart in the written working. Predicted grades slipping. Mocks coming back lower than the classwork suggests. A quiet avoidance of the harder problem sheets. Some students simply want to push further than the class has time for. Either is a fair reason to get in touch, and we will tell you honestly on the call if we do not think tutoring is the right move."
+faq_items:
+  - q: "Do you cover where we live?"
+    a: "Yes, we cover the whole of the UK. All our lessons are online, so it doesn't matter whether you're in a city or a village. It also means we can pick the Physics tutor who's the best fit for your child, rather than whoever happens to live nearby."
+  - q: "How much does it cost?"
+    a: "Lessons start from £37 an hour. The exact price depends on the tutor, and we'll always agree it with you before anything is booked. There's no contract, no joining fee and nothing to pay upfront. You just pay for the lessons you have, and the first chat with us and the video meeting with your tutor are free."
   - q: "My child understands the Physics but still loses marks. Why?"
-    a: "This is the most common thing we hear at A-Level Physics. The concept is fine, but the marks go on the maths underneath it, rearranging equations, working with logs, reading a graph gradient, carrying units through a long derivation. It hits hardest when a student did not take A-Level Maths alongside. A tutor works out exactly where the working breaks and rebuilds that toolkit, so knowing the physics finally turns into marks on the page."
+    a: "It's the thing we hear most about A-Level Physics, and it's usually the maths underneath. Rearranging an equation with logs in it, reading a gradient off a graph, carrying units through a four-step answer. A tutor works out exactly where the working breaks down and rebuilds those skills, so knowing the Physics finally turns into marks on the page."
+  - q: "My child isn't doing A-Level Maths. Is that a problem?"
+    a: "It's workable, but it does make Physics harder, because the two share so much of the same maths. If your child is already partway through without it, a tutor spends the early lessons on the exact maths the Physics leans on. If they're still choosing subjects, or thinking about a Physics or Engineering degree, it's worth talking through on the call."
   - q: "Do you cover the required practicals?"
-    a: "Yes. The practicals themselves happen at school, but the marks live in the written papers, the graph work, the analysis, the questions on method and uncertainty. Those come up across AQA, OCR and Edexcel and they are very learnable. Tutors work through past-paper practical questions the way an examiner marks them, so your child is not guessing at what the question is actually asking for."
-  - q: "Do you do A-Level Physics in person or just online?"
-    a: "All sessions run through Lessonspace, our shared online whiteboard, where a tutor can mark a past paper on screen and work a multi-step derivation out line by line as your child watches. Most students concentrate better one-to-one online than they do in a class of thirty. We do not do in-person."
-  - q: "Should my child take A-Level Maths alongside Physics?"
-    a: "For most Physics and Engineering degree routes it is strongly worth it, and it makes the Physics itself far easier because the two share so much of the same maths. If your child is already partway through without it, that is workable, a tutor just spends the early sessions building the specific maths the Physics leans on. It is one of the things Joe will talk through with you on the first call, alongside the subject and degree choices."
-  - q: "Is the consultation and the trial calls really free?"
-    a: "Yes. The 40-minute consultation with Joe is free. The trial calls with the tutors he suggests are free. You only start paying once you have chosen a tutor and weekly sessions begin. No catch, no card details upfront."
-
-# ───────────── FINAL FORM ─────────────
-form_cta: "Tell Joe where the Physics is going wrong"
-form_intro: "Joe will call you back within one working day to arrange a 40-minute consultation. He will ask about the exam board, the predicted grade, whether your child took A-Level Maths alongside and what you have already tried, then send you two or three tutors with free trial calls so you can pick the one that fits. If he does not think tutoring is the right move for now, he will tell you that too."
-form_message_label: "Where is your child stuck?"
-form_message_placeholder: "For example: Year 12 AQA Physics, predicted a C, hoping for a B or an A. The maths in the Mechanics questions keeps costing marks, and the mocks came back lower than the classwork."
-form_button: "Book my free call with Joe"
-form_note: "We typically respond within one working day. No obligation. Sessions start from £37 an hour."
-
+    a: "Yes. The practicals happen at school, but the marks for them are in the written papers: the graphs, the analysis, and questions on method and uncertainty. Those come up on every board and they're very learnable. A tutor works through past-paper practical questions the way an examiner marks them, so your child isn't guessing at what the question wants."
+  - q: "Do the tutors know my child's exam board?"
+    a: "Yes. Our tutors cover AQA, OCR A, OCR B (Advancing Physics) and Edexcel, and we'll pick tutors who know your child's one. The content overlaps but the papers don't, from the long unstructured questions to how the practical skills are tested. Not sure which board it is? It's usually on the front of a mock paper, or we can help you work it out on the call."
+  - q: "Does online tutoring actually work for Physics?"
+    a: "It does, and a lot of students find it easier. Lessons use a platform called Lessonspace, where your child and the tutor share a whiteboard, so the tutor can see every line of working and spot the step where it goes wrong. Every lesson has a replay too, which is really handy for going back over a method before a test."
+  - q: "My teenager says they don't need a tutor. Is that normal?"
+    a: "Very normal, especially at A-Level. It usually changes once they meet the tutor, because it feels nothing like a lesson at school. There's one person, their full attention, and often someone only a few years older who sat the same papers. That's why your child meets the tutor on a free video call first. If it really isn't for them after a couple of lessons, you simply stop."
+  - q: "What if we don't click with the tutor?"
+    a: "Just let us know and we'll find someone else, with no charge and no awkward conversation. It happens, and we'd much rather sort it than have your child sit through lessons that aren't working. It's also why you hear from two or three tutors before choosing, rather than being handed one."
 sitemap:
   priority: 0.9
   changefreq: monthly
