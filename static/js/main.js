@@ -313,6 +313,61 @@ document.addEventListener('submit', function(e){
 }, true);
 
 /* ---------------------------------------------------------------------------
+   Lead details for GTM.
+
+   Stashes the three fields the book_call_submit dataLayer event needs, so the
+   thank-you page can announce the lead to GTM without the values being in its
+   URL. Reaching the thank-you page is itself the success signal: Formspree
+   only follows _next once it has accepted the submission, so a stash that is
+   never read means the submit never completed.
+
+   Kept separate from the tdg_thanks_* stash above on purpose. If this throws,
+   the personalised note on the thank-you page still works, and vice versa.
+
+   The subjects field is named "message" on the booking form and is labelled
+   "Which subjects?", so #bc-subjects is tried first. Other forms that redirect
+   to the same thank-you page do carry a real [name="subject"], which is why
+   that is the fallback rather than the first choice.
+   --------------------------------------------------------------------------- */
+(function () {
+  // Formspree and the CRM want a number Google can match on, so normalise to
+  // E.164. A UK mobile typed as 07... becomes +447..., 0044 and 44 prefixes are
+  // folded to +44, and anything already starting + is left alone. A number we
+  // cannot place is passed through digits-only rather than guessed at, because
+  // a wrong country code is worse for matching than no country code.
+  function toE164(raw) {
+    var v = String(raw || '').replace(/[^\d+]/g, '');
+    if (!v) return '';
+    if (v.charAt(0) === '+') return v;
+    if (v.indexOf('00') === 0) return '+' + v.slice(2);
+    if (v.charAt(0) === '0') return '+44' + v.slice(1);
+    if (v.indexOf('44') === 0) return '+' + v;
+    return v;
+  }
+
+  document.addEventListener('submit', function (e) {
+    var form = e.target;
+    if (!form || !form.querySelector) return;
+    var nextEl = form.querySelector('input[name="_next"]');
+    if (!nextEl || !/book-a-call-thank-you/.test(nextEl.value)) return;
+
+    var phoneEl = form.querySelector('[name="phone"]');
+    var yearEl = form.querySelector('[name="year_group"]');
+    var subjEl = form.querySelector('#bc-subjects')
+      || form.querySelector('[name="subject"]')
+      || form.querySelector('[name="message"]');
+
+    try {
+      sessionStorage.setItem('tdg_lead', JSON.stringify({
+        lead_phone: toE164(phoneEl && phoneEl.value),
+        form_subject: ((subjEl && subjEl.value) || '').trim(),
+        year_group: ((yearEl && yearEl.value) || '').trim()
+      }));
+    } catch (_) {}
+  }, true);
+})();
+
+/* ---------------------------------------------------------------------------
    Lead attribution.
 
    Records where a visitor first arrived from, then carries it to whichever

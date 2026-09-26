@@ -114,4 +114,33 @@
 })();
 </script>
 
+
+{{/* Hands the lead to GTM. main.js stashed tdg_lead when the booking form was
+     submitted, so its presence here means Formspree accepted the submission
+     and redirected. Read once, push once, then drop the key, so a reload or a
+     later revisit cannot replay the event.
+
+     Deliberately separate from the gated gtag block above, which counts the
+     GA4 and Google Ads conversion directly. This only announces the lead on
+     the dataLayer; whether that becomes a conversion is decided by the tags
+     in GTM. If you add a lead conversion tag there, make sure it is not
+     counting the same booking the hardcoded block already counts. */}}
+<script data-cookieconsent="ignore">
+(function () {
+  try {
+    var raw = sessionStorage.getItem('tdg_lead');
+    if (!raw) return;
+    sessionStorage.removeItem('tdg_lead');
+    var lead = JSON.parse(raw);
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({
+      event: 'book_call_submit',
+      lead_phone: lead.lead_phone || '',
+      form_subject: lead.form_subject || '',
+      year_group: lead.year_group || ''
+    });
+  } catch (_) { /* measurement is never worth breaking the page for */ }
+})();
+</script>
+
 {{ end }}
