@@ -1,93 +1,104 @@
 ---
-title: "OCR GCSE Maths Tutors | The Degree Gap"
-description: "An OCR GCSE Maths tutor who knows the J560 papers and method marks. Free call with co-founder Joe, free trial calls, online sessions from £37/hr."
+# OCR GCSE Maths specification page, on the location page design (design:
+# "location", rendered by layouts/partials/ads-subject-body.html). Same
+# structure and parent-chat voice as the GCSE Maths page above it, plus the
+# paper-by-paper breakdown of the OCR J560 specification.
+title: "Online OCR GCSE Maths Tutors (J560) | The Degree Gap"
+description: "Online OCR GCSE Maths tutors who know the J560 papers and method marks. Free consultation call, tutor profiles within 24 hours, lessons from £37 with no contract."
+card_summary: "Spec J560. Three papers of 1 hour 30 minutes, one without a calculator, with marks for showing reasoning."
 robots: "index, follow"
 layout: "board"
+design: "location"
+callback_prompt: true
 board: "OCR"
-subject: "GCSE Maths"
 level: "GCSE"
+subject: "GCSE Maths"
+subject_short: "Maths"
 
 # ───────────── HERO ─────────────
-banner_heading: "OCR GCSE Maths Tutors Who Know the Method Marks"
-banner_description: "OCR asks students to show their reasoning, not just the answer, and a right number with no method still drops marks. We match your child with a tutor who drills the OCR papers the way they are actually marked."
-banner_cta_primary: "Book your free call with Joe"
-banner_cta_secondary: "07859 965776"
-pricing_note: "From £37/hr"
+hero_eyebrow: "OCR GCSE MATHS · SPEC J560 · ONLINE, ACROSS THE UK"
+hero_h1: "Online OCR GCSE Maths Tutors Who Know the J560 Papers"
+hero_lead: "If your child gets the right answer and still loses marks because the working wasn't there, you're not alone. OCR wants to see the reasoning. Book a free consultation call so we can get to know your child, and within 24 hours of it you'll get profiles of two or three tutors who know the OCR papers well."
+meta_2: "Online using the platform Lessonspace, plus replay available"
+meta_3: "GCSE Tutoring Specialists of the Year 2025 & 2026"
 
+card_heading: "Talk to a member of the team to start the matching process"
+card_points:
+  - "A free consultation call, usually around 30 minutes"
+  - "2 or 3 tutor profiles within 24 hours of the call"
+  - "Lessons from £37, no contract"
 
-# ───────────── ASSESSMENT (board-specific core) ─────────────
-assess_heading: "Inside the OCR GCSE Maths papers"
-assess_intro: "OCR (spec J560) runs three papers like the other boards, with a touch more weight on reasoning and communicating method. One paper without a calculator, two with, each worth 80 marks and each counting equally. Here is what your child actually faces in the exam."
+# ───────────── TUTORS ─────────────
+tutors_eyebrow: "MEET SOME OF THE TUTORS"
+tutors_heading: "Some of the OCR GCSE Maths tutors you could be matched with"
+tutors_intro: "We've met every tutor on our platform, and after your call we pick the two or three who know the OCR papers and who we think will get on best with your child. Here are a few of them."
+tutor_names:
+  - "Emily Lowe"
+  - "Connor Harrison"
+  - "Will Turner"
+  - "Humaira Habib"
+
+review_names:
+  - "Ellen Logan"
+  - "Keira Lei"
+  - "Isabel Heggie"
+  - "Jessica Wagstaff"
+  - "Nazrul Islam"
+  - "Philippa Langton"
+
+# ───────────── THE SPECIFICATION ─────────────
+assess_heading: "How OCR GCSE Maths is examined, paper by paper"
+assess_intro: "OCR (spec J560) sets three papers, one without a calculator and two with, each 1 hour 30 minutes and each counting equally. Foundation students sit Papers 1, 2 and 3, and Higher students sit Papers 4, 5 and 6. OCR puts a bit more weight on reasoning and explaining the method than the other boards."
 papers:
-  - name: "Paper 1: Non-calculator"
-    detail: "1 hour 30 minutes, 80 marks, no calculator. OCR often asks students to show that or explain why rather than simply work out, so a right answer with no method can still drop marks."
-  - name: "Paper 2: Calculator"
-    detail: "1 hour 30 minutes, 80 marks. OCR rewards a clearly communicated method, so the habit of writing each step down, not just the final line, is worth building early."
-  - name: "Paper 3: Calculator"
-    detail: "1 hour 30 minutes, 80 marks. All three papers count equally, and OCR's later questions lean into reasoning, chains of steps the student has to justify as they go."
+  - name: "Calculator paper (Paper 1 or 4)"
+    detail: "1 hour 30 minutes, 100 marks. OCR often asks your child to show that something is true or explain why, rather than just work it out, so a right answer with no method can still drop marks."
+  - name: "Non-calculator paper (Paper 2 or 5)"
+    detail: "1 hour 30 minutes, 100 marks, no calculator. Arithmetic, fractions and, on Higher, surds need to be secure, and OCR still rewards a method the examiner can follow line by line."
+  - name: "Calculator paper (Paper 3 or 6)"
+    detail: "1 hour 30 minutes, 100 marks. The last paper carries the same weight as the other two, and its later questions lean into reasoning: chains of steps your child has to justify as they go."
   - name: "Tiers and the formula sheet"
-    detail: "Foundation covers grades 1 to 5, Higher covers 4 to 9. OCR (J560) provides a formula sheet in the exam and puts a touch more weight on reasoning and communicating method than the other boards."
-
-# ───────────── BOARD POINTS ─────────────
-board_points_heading: "What an OCR tutor drills that a class of thirty cannot"
+    detail: "Foundation covers grades 1 to 5, Higher covers 4 to 9. OCR gives students a formula sheet in the exam, so the work shifts from memorising formulae to knowing which one a question needs."
+board_points_heading: "What an OCR tutor works on that a busy class can't"
 board_points:
-  - title: "Answering show that and explain why"
-    body: "OCR asks for justification more than the other boards, so a correct answer with no reasoning still drops marks. We build the habit of writing the why, not just the what, on every question that asks for it."
-  - title: "Communicating the method clearly"
-    body: "OCR rewards a method the examiner can follow. We drill laying each step down in order, which is exactly where quick, careless students quietly lose marks they had already earned in their head."
-  - title: "Working through the reasoning chains"
-    body: "OCR's harder questions ask students to link steps and justify each one as they go, whether they are catching up or stretching ahead. We practise the specific OCR phrasing so nothing on the paper reads as a surprise on the day."
+  - title: "Answering \"show that\" and \"explain why\""
+    body: "OCR asks for justification more than the other boards, so a correct answer with no reasoning can still lose marks. A tutor builds the habit of writing the why, not just the what, on every question that asks for it."
+  - title: "Setting out the method clearly"
+    body: "OCR rewards working the examiner can follow. Quick children often do the steps in their head and lose marks they'd already earned. We get them writing each step down, in order, until it's second nature."
+  - title: "The longer reasoning questions"
+    body: "The harder OCR questions ask your child to link steps together and justify each one. Whether they're catching up or aiming high, a tutor practises OCR's own phrasing so nothing on the paper feels like a surprise on the day."
 
-# ───────────── HOW IT WORKS ─────────────
-how_heading: "From your first message to the first OCR session"
-how_steps:
-  - title: "A 40-minute consultation with Joe"
-    body: "When you get in touch, Joe calls you back within one working day. He confirms your child sits OCR, asks what the mocks looked like, and talks through the predicted grade, the tier and the topics losing marks."
-  - title: "Free trial calls with two or three tutors"
-    body: "Joe sends a shortlist of tutors who know the OCR J560 papers and its reasoning-heavy questions. Each offers a free trial call, so your child can see who they learn best from. No card details, no obligation."
-  - title: "You pick the tutor that fits"
-    body: "You pick the tutor who felt right, and weekly sessions begin on Lessonspace, our shared online whiteboard. You pay per session, there are no contracts, and if it stops working, you stop."
-
-# ───────────── REVIEWS ─────────────
-voices_eyebrow: "Verified Google reviews"
-voices_heading: "What parents and students say"
-voices_intro: "Verified Google reviews from Degree Gap families. These speak directly to GCSE Maths, from rebuilding confidence to moving the grade."
-voices:
-  - name: "Ellen"
-    role: "Parent of GCSE Student"
-    text: "My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. We were given a selection of tutors to choose from and told that if it did not feel like a good match we could try others. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
-  - name: "Isabel"
-    role: "Parent of iGCSE Student"
-    text: "The Degree Gap gave our son the support he needed for his iGCSEs, especially in Maths and Economics. Lessons were clear, engaging, and built his confidence. Highly recommended."
-  - name: "Chris"
-    role: "Parent of GCSE Student"
-    text: "Very good tutoring for my daughter and good communication with parents. My daughter passed both English and Maths GCSE."
-  - name: "Jessica"
-    role: "GCSE Student"
-    text: "I was helped with both Maths and English for my GCSEs and passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree."
-  - name: "Lisa"
-    role: "Parent"
-    text: "The Degree Gap has exceeded all my expectations. They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional. Both my sons exceeded their expected grades in their GCSEs and A Levels and got into their first choice universities. I cannot recommend them highly enough."
+# ───────────── 3 STEPS ─────────────
+steps_heading: "Start OCR GCSE Maths tutoring in 3 steps"
+steps_lead: "Most families have their first lesson booked within a week. And you don't pay anything until your child has found a tutor they like."
+steps:
+  - title: "A free consultation call"
+    body: "A relaxed chat with a member of the team, usually around 30 minutes. We'll check your child sits OCR, then get to know you both: the tier, how the mocks went, where the marks are slipping and how your child likes to learn. No pressure and no sales pitch."
+  - title: "Meet 2 or 3 tutors"
+    body: "Within 24 hours of the call you'll get profiles of two or three tutors who know the OCR J560 papers, so you can see who they are before choosing. Your child can then meet your favourite on a free video call."
+  - title: "Start weekly lessons"
+    body: "Lessons are one-to-one and online, using the platform Lessonspace, with a replay of every lesson to look back on. From £37 an hour, no contract, and you can stop whenever you like."
 
 # ───────────── FAQ ─────────────
-faqs:
+faq_items:
   - q: "How do I know if my child sits OCR for GCSE Maths?"
-    a: "It is on the exam timetable and the top of past papers, shown as OCR, spec code J560. Not sure? Joe confirms it on the first call. OCR phrases questions in its own way, so matching a tutor to the right board matters more than parents expect."
-  - q: "Why does my child lose marks on OCR even when the answer is right?"
-    a: "OCR asks students to show that and explain why more than the other boards, so a correct answer with no working or reasoning can still drop marks. We build the habit of writing the method and the why, not just the final line."
-  - q: "What makes the OCR J560 papers different?"
-    a: "The three-paper structure matches the other boards, but OCR puts a little more weight on reasoning and communicating method, and provides a formula sheet in the exam. The later questions ask students to justify each step as they go."
-  - q: "Foundation or Higher tier for OCR Maths?"
-    a: "Foundation covers grades 1 to 5, Higher covers 4 to 9. The school usually sets the tier from mock results. A tutor can give you an honest view on whether to protect a solid Foundation grade or push for Higher, and we talk it through with you."
-  - q: "Do your tutors actually know the OCR spec?"
-    a: "Yes. Joe matches on board, not just subject. Your child works with a tutor who knows OCR's phrasing and its reasoning-heavy questions, so the papers hold no surprises on the day."
-  - q: "Is OCR GCSE Maths tutoring online or in person?"
-    a: "Every session is on Lessonspace, our shared online whiteboard, where the tutor can work an OCR past paper through step by step. Most students focus better one-to-one online than in a class of thirty. We do not do in-person."
+    a: "It's on the exam timetable and at the top of any past paper the school sends home, shown as OCR with the spec code J560. If you're not sure, we'll check it with you on the call before matching anyone, because each board words its questions in its own way."
+  - q: "Why does my child lose marks when the answer is right?"
+    a: "Because OCR gives a lot of its marks for the working and the reasoning, not just the final number. It's one of the most common things parents tell us. A tutor gets your child writing down each step and the reason for it, which is usually a quick win."
+  - q: "Foundation or Higher tier, which should my child sit?"
+    a: "Foundation goes up to grade 5 and Higher runs from 4 to 9. The school usually decides from the mocks, but it isn't always final. A tutor can give you an honest view on whether your child is better off protecting a strong Foundation grade or pushing for Higher, and we'll talk it through with you."
+  - q: "Do your tutors actually know the OCR J560 papers?"
+    a: "Yes. When we match a tutor we check they know the board, not just the Maths. We pick tutors who know OCR's phrasing and its reasoning questions, so the papers hold no surprises on the day."
+  - q: "How much does it cost?"
+    a: "Lessons start from £37 an hour. The exact price depends on the tutor, and we'll always agree it with you before anything is booked. There's no contract and nothing to pay upfront, and the consultation call and the video meeting with your tutor are free."
+  - q: "What if we don't click with the tutor?"
+    a: "Just let us know and we'll find someone else, with no charge and no awkward conversation. It happens, and we'd much rather sort it than have your child sit through lessons that aren't working."
+  - q: "Does online tutoring actually work for Maths?"
+    a: "It does, and a lot of children find it easier. Your child and the tutor write on the same whiteboard in Lessonspace, so the tutor can see every line of working and mark an OCR past paper step by step. Every lesson has a replay too, which is handy the night before a test."
 
-# ───────────── FINAL FORM ─────────────
-form_cta: "Tell Joe about your child's OCR GCSE Maths"
-form_intro: "He will call you back within one working day, confirm your child sits OCR, and ask what the mocks looked like. Then two or three tutors, each with a free trial call, so you can pick the right fit. No obligation."
-form_button: "Book my free call with Joe"
+# ───────────── CLOSING CTA ─────────────
+final_heading: "Book your free<br>OCR GCSE Maths consultation"
+final_body: "A friendly consultation call, usually around 30 minutes, so we can get to know your child: which tier they're on, where the OCR papers are catching them out and what they're like as a learner. Within 24 hours you'll have profiles of two or three tutors to choose from."
+final_assurance: "Free call · Lessons from £37 · No contract"
 
 sitemap:
   priority: 0.7

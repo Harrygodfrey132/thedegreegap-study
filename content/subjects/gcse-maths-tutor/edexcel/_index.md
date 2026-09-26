@@ -1,93 +1,104 @@
 ---
-title: "Edexcel GCSE Maths Tutors | The Degree Gap"
-description: "An Edexcel GCSE Maths tutor who knows the 1MA1 worded questions. Book a free call with co-founder Joe, take free trial calls, sessions from £37/hr."
+# Edexcel GCSE Maths specification page, on the location page design (design:
+# "location", rendered by layouts/partials/ads-subject-body.html). Same
+# structure and parent-chat voice as the GCSE Maths page above it, plus the
+# paper-by-paper breakdown of the Edexcel 1MA1 specification.
+title: "Online Edexcel GCSE Maths Tutors (1MA1) | The Degree Gap"
+description: "Online Edexcel GCSE Maths tutors who know the 1MA1 worded questions. Free consultation call, tutor profiles within 24 hours, lessons from £37 with no contract."
+card_summary: "Spec 1MA1. Three papers of 1 hour 30 minutes, one without a calculator, lots of worded problem-solving."
 robots: "index, follow"
 layout: "board"
+design: "location"
+callback_prompt: true
 board: "Edexcel"
-subject: "GCSE Maths"
 level: "GCSE"
+subject: "GCSE Maths"
+subject_short: "Maths"
 
 # ───────────── HERO ─────────────
-banner_heading: "Edexcel GCSE Maths Tutors Who Know the Worded Questions"
-banner_description: "Edexcel hides the maths inside worded, real-life questions, and a child who can do the technique still stalls when it is buried in a paragraph. We match them with a tutor who knows exactly how those questions work."
-banner_cta_primary: "Book your free call with Joe"
-banner_cta_secondary: "07859 965776"
-pricing_note: "From £37/hr"
+hero_eyebrow: "EDEXCEL GCSE MATHS · SPEC 1MA1 · ONLINE, ACROSS THE UK"
+hero_h1: "Online Edexcel GCSE Maths Tutors Who Know the 1MA1 Papers"
+hero_lead: "If your child can do the method in class but freezes when Edexcel wraps it in a paragraph of real-life context, you're not alone. Book a free consultation call so we can get to know your child, and within 24 hours of it you'll get profiles of two or three tutors who know the Edexcel papers well."
+meta_2: "Online using the platform Lessonspace, plus replay available"
+meta_3: "GCSE Tutoring Specialists of the Year 2025 & 2026"
 
+card_heading: "Talk to a member of the team to start the matching process"
+card_points:
+  - "A free consultation call, usually around 30 minutes"
+  - "2 or 3 tutor profiles within 24 hours of the call"
+  - "Lessons from £37, no contract"
 
-# ───────────── ASSESSMENT (board-specific core) ─────────────
-assess_heading: "What the Edexcel GCSE Maths papers actually test"
-assess_intro: "Edexcel (spec 1MA1) sets the same three papers as every board, but the character is different. More worded questions, more multi-step problem-solving, more maths hidden inside real-life context. Here is how the papers break down."
+# ───────────── TUTORS ─────────────
+tutors_eyebrow: "MEET SOME OF THE TUTORS"
+tutors_heading: "Some of the Edexcel GCSE Maths tutors you could be matched with"
+tutors_intro: "We've met every tutor on our platform, and after your call we pick the two or three who know the Edexcel papers and who we think will get on best with your child. Here are a few of them."
+tutor_names:
+  - "Neil Hedge"
+  - "Frances Averre"
+  - "Daniel Partington"
+  - "Tayyaba Hussain"
+
+review_names:
+  - "Ellen Logan"
+  - "Chris Smith"
+  - "Keira Lei"
+  - "Jessica Wagstaff"
+  - "Augusta Oloke"
+  - "Dawn Lattimer"
+
+# ───────────── THE SPECIFICATION ─────────────
+assess_heading: "How Edexcel GCSE Maths is examined, paper by paper"
+assess_intro: "Edexcel (spec 1MA1) sets three papers, one without a calculator and two with, each 1 hour 30 minutes and 80 marks, and each counting equally. The shape matches the other boards. What feels different is the wording: more real-life context, more questions with several steps and no prompts."
 papers:
   - name: "Paper 1: Non-calculator"
-    detail: "1 hour 30 minutes, 80 marks, sat without a calculator. Edexcel tends to open gently and build, so the multi-step questions that decide the grade sit deeper in the paper where time pressure bites."
+    detail: "1 hour 30 minutes, 80 marks, no calculator. It tends to open gently and build, so the longer questions that decide the grade sit deeper in the paper, just when time starts to feel tight."
   - name: "Paper 2: Calculator"
-    detail: "1 hour 30 minutes, 80 marks. Expect worded, real-context questions, best buys, compound interest, mixed ratio, where the maths is hidden inside a paragraph the student has to unpick first."
+    detail: "1 hour 30 minutes, 80 marks. Expect worded, real-life questions like best buys, compound interest and mixed ratio, where your child has to pull the Maths out of a paragraph before doing any working."
   - name: "Paper 3: Calculator"
-    detail: "1 hour 30 minutes, 80 marks. All three papers carry equal weight, and Paper 3 keeps the same functional, problem-first flavour right to the end."
-  - name: "Tiers and problem-solving weight"
-    detail: "Foundation runs grades 1 to 5, Higher runs 4 to 9. Across the 1MA1 specification Edexcel leans harder than most on problem-solving and functional questions, so knowing a topic and answering the Edexcel version of it are two different jobs."
-
-# ───────────── BOARD POINTS ─────────────
-board_points_heading: "Where the Edexcel grade is really decided"
+    detail: "1 hour 30 minutes, 80 marks. It carries the same weight as the other two and keeps the same problem-first feel right to the last question."
+  - name: "Tiers and problem-solving"
+    detail: "Foundation covers grades 1 to 5, Higher covers 4 to 9. Across 1MA1, Edexcel leans on problem-solving and real-life questions, so knowing a topic and answering the Edexcel version of it are two different jobs."
+board_points_heading: "What an Edexcel tutor works on that a busy class can't"
 board_points:
-  - title: "Unpicking the worded question first"
-    body: "Edexcel buries the maths inside real-life context, best buys, recipes scaled up, mixed ratio. We teach students to translate the paragraph into maths before touching a number, which is usually where the lost marks come back."
-  - title: "Planning the multi-step chain"
-    body: "Edexcel's grade-deciding questions stack three or four steps with no prompts, and missing one unravels the rest. We drill spotting the chain and planning it on paper before writing, so a single slip does not cost the whole question."
-  - title: "The problem-solving marks, from catch-up to stretch"
-    body: "Edexcel leans hard on functional, problem-solving questions. A student who can do the technique in isolation still stalls when it is wrapped in an unfamiliar context, whether they are rebuilding foundations or pushing for the top band. That gap is exactly what we target."
+  - title: "Turning the words into Maths"
+    body: "Edexcel hides the Maths inside everyday situations, like a recipe scaled up or two phone deals to compare. A tutor teaches your child to work out what the question is asking before touching a number. That's usually where lost marks start coming back."
+  - title: "Planning the questions with several steps"
+    body: "The questions that decide the grade often stack three or four steps with no hints, and one slip early on unravels the rest. Your child practises spotting the chain and sketching a plan first, so one small mistake doesn't cost the whole question."
+  - title: "Using what they know in a new setting"
+    body: "Lots of children can do a topic on its own and still stall when it turns up somewhere unfamiliar. Whether your child is rebuilding the basics or aiming for the top grades, that's the gap a tutor works on, one question at a time."
 
-# ───────────── HOW IT WORKS ─────────────
-how_heading: "From enquiry to your child's first Edexcel session"
-how_steps:
-  - title: "A 40-minute consultation with Joe"
-    body: "Joe calls you back within one working day. He confirms your child is on Edexcel, then asks where the worded, multi-step questions are catching them out, alongside the predicted grade and the tier. It is a conversation, not a sales call."
-  - title: "Free trial calls with two or three tutors"
-    body: "Joe puts forward two or three tutors who know how Edexcel phrases its problem-solving questions. Each offers a free trial call so your child can meet them and see who explains things in a way that lands. No commitment afterwards."
-  - title: "You pick the tutor that fits"
-    body: "From the trial calls you choose the tutor who suits your child, and weekly sessions start on Lessonspace, our shared whiteboard. You pay per session, there are no contracts, and you can stop any time it is not working."
-
-# ───────────── REVIEWS ─────────────
-voices_eyebrow: "Verified Google reviews"
-voices_heading: "What Degree Gap families tell us"
-voices_intro: "Every review here is verified on Google and left by a real Degree Gap family. We pulled the ones that speak to GCSE Maths and the shift parents notice first."
-voices:
-  - name: "Chris"
-    role: "Parent of GCSE Student"
-    text: "Very good tutoring for my daughter and good communication with parents. My daughter passed both English and Maths GCSE."
-  - name: "Jessica"
-    role: "GCSE Student"
-    text: "I was helped with both Maths and English for my GCSEs and passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree."
-  - name: "Ellen"
-    role: "Parent of GCSE Student"
-    text: "My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. We were given a selection of tutors to choose from and told that if it did not feel like a good match we could try others. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
-  - name: "Lisa"
-    role: "Parent"
-    text: "The Degree Gap has exceeded all my expectations. They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional. Both my sons exceeded their expected grades in their GCSEs and A Levels and got into their first choice universities. I cannot recommend them highly enough."
-  - name: "Isabel"
-    role: "Parent of iGCSE Student"
-    text: "The Degree Gap gave our son the support he needed for his iGCSEs, especially in Maths and Economics. Lessons were clear, engaging, and built his confidence. Highly recommended."
+# ───────────── 3 STEPS ─────────────
+steps_heading: "Start Edexcel GCSE Maths tutoring in 3 steps"
+steps_lead: "Most families have their first lesson booked within a week. And you don't pay anything until your child has found a tutor they like."
+steps:
+  - title: "A free consultation call"
+    body: "A relaxed chat with a member of the team, usually around 30 minutes. We'll check your child sits Edexcel, then get to know you both: the tier, where the worded questions are catching them out, what you've tried so far and how your child likes to learn. No pressure and no sales pitch."
+  - title: "Meet 2 or 3 tutors"
+    body: "Within 24 hours of the call you'll get profiles of two or three tutors who know the Edexcel papers, so you can see who they are before choosing. Your child can then meet your favourite on a free video call."
+  - title: "Start weekly lessons"
+    body: "Lessons are one-to-one and online, using the platform Lessonspace, with a replay of every lesson to look back on. From £37 an hour, no contract, and you can stop whenever you like."
 
 # ───────────── FAQ ─────────────
-faqs:
+faq_items:
   - q: "How do I know if my child sits Edexcel for GCSE Maths?"
-    a: "Check the exam timetable or the header of a past paper, shown as Edexcel or Pearson Edexcel, spec code 1MA1. Joe confirms the board on the first call, because Edexcel questions are worded differently from AQA and OCR and tutoring the wrong ones loses marks."
-  - q: "Why does my child get the method but still lose marks on Edexcel?"
-    a: "Edexcel wraps the maths inside worded, real-life questions, so a student who can do the technique in isolation still stalls when it is buried in a paragraph. We teach them to translate the question into maths first, which is usually where the marks come back."
-  - q: "What is different about the Edexcel 1MA1 papers?"
-    a: "Same three-paper structure as the other boards, but Edexcel leans harder on multi-step problem-solving and functional questions. The grade tends to be decided on the longer worded questions rather than the short recall ones."
-  - q: "Foundation or Higher tier for Edexcel Maths?"
-    a: "Foundation runs grades 1 to 5, Higher runs 4 to 9. Mocks usually guide the school's choice. A tutor can tell you whether your child is safer aiming for a strong Foundation grade or stretching for the Higher paper, and we discuss that openly."
-  - q: "Do your tutors know the Edexcel spec, not just Maths?"
-    a: "Yes. Board knowledge is part of how Joe matches. Your child gets a tutor who knows how Edexcel phrases its problem-solving questions and where students most often drop marks on the longer, multi-step questions."
-  - q: "Is Edexcel GCSE Maths tutoring online or in person?"
-    a: "All sessions run on Lessonspace, our shared whiteboard, so a tutor can unpick an Edexcel worded question on screen with your child, step by step. Most students concentrate better one-to-one online than in a full classroom. We do not do in-person."
+    a: "It's on the exam timetable and at the top of any past paper the school sends home, shown as Edexcel or Pearson Edexcel with the spec code 1MA1. If you're not sure, we'll check it with you on the call before matching anyone, because the boards word their questions differently."
+  - q: "Why does my child know the method but still lose marks?"
+    a: "Usually because Edexcel wraps the Maths in a real-life paragraph, and your child can't see which method it wants. It's really common. A tutor practises reading the question and turning it into Maths first, which is often where the marks come back."
+  - q: "Foundation or Higher tier, which should my child sit?"
+    a: "Foundation goes up to grade 5 and Higher runs from 4 to 9. The school usually decides from the mocks, but it isn't always final. A tutor can give you an honest view on whether your child is better off protecting a strong Foundation grade or pushing for Higher, and we'll talk it through with you."
+  - q: "Do your tutors actually know the Edexcel 1MA1 papers?"
+    a: "Yes. When we match a tutor we check they know the board, not just the Maths. We pick tutors who know how Edexcel words its problem-solving questions and where students tend to drop marks on the longer ones."
+  - q: "How much does it cost?"
+    a: "Lessons start from £37 an hour. The exact price depends on the tutor, and we'll always agree it with you before anything is booked. There's no contract and nothing to pay upfront, and the consultation call and the video meeting with your tutor are free."
+  - q: "What if we don't click with the tutor?"
+    a: "Just let us know and we'll find someone else, with no charge and no awkward conversation. It happens, and we'd much rather sort it than have your child sit through lessons that aren't working."
+  - q: "Does online tutoring actually work for Maths?"
+    a: "It does, and a lot of children find it easier. Your child and the tutor write on the same whiteboard in Lessonspace, so the tutor can unpick an Edexcel worded question step by step and see every line of working. Every lesson has a replay too, which is handy the night before a test."
 
-# ───────────── FINAL FORM ─────────────
-form_cta: "Tell Joe about your child's Edexcel GCSE Maths"
-form_intro: "He calls you back within one working day, confirms the board, and asks where the Edexcel questions are catching your child out. Then he sends two or three tutors with free trial calls. No pressure, no obligation."
-form_button: "Book my free call with Joe"
+# ───────────── CLOSING CTA ─────────────
+final_heading: "Book your free<br>Edexcel GCSE Maths consultation"
+final_body: "A friendly consultation call, usually around 30 minutes, so we can get to know your child: which tier they're on, where the Edexcel papers are catching them out and what they're like as a learner. Within 24 hours you'll have profiles of two or three tutors to choose from."
+final_assurance: "Free call · Lessons from £37 · No contract"
 
 sitemap:
   priority: 0.7
