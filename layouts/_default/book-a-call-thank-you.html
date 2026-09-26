@@ -108,6 +108,19 @@
     if (typeof window.gtag !== 'function') return;
     window.gtag('event', 'generate_lead', { lead_subject: sessionStorage.getItem('tdg_thanks_subject') || '' });
     {{- with site.Params.googleAdsId }}{{ with site.Params.googleAdsLeadLabel }}
+    // Enhanced conversions. main.js stored the number in E.164 on submit, which
+    // is the only format Google accepts, and gtag.js hashes it before it leaves
+    // the browser: the raw number is never sent. This has to run before the
+    // conversion event below, and before the dataLayer block further down the
+    // page removes tdg_lead, which is why the key is read and not cleared here.
+    // Lets Google match a booking to an ad click when the cookie cannot, which
+    // is most of the point once a parent has declined cookies.
+    try {
+      var lead = JSON.parse(sessionStorage.getItem('tdg_lead') || '{}');
+      if (lead.lead_phone && lead.lead_phone.charAt(0) === '+') {
+        window.gtag('set', 'user_data', { phone_number: lead.lead_phone });
+      }
+    } catch (e2) { /* a missing number must not stop the conversion counting */ }
     window.gtag('event', 'conversion', { send_to: {{ printf "%s/%s" site.Params.googleAdsId site.Params.googleAdsLeadLabel }}, transaction_id: 'tdg-' + ts });
     {{- end }}{{ end }}
   } catch (e) { /* measurement is never worth breaking the page for */ }

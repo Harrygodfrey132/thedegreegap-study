@@ -24,8 +24,8 @@ enableGitInfo = true
   # nothing Ads-related loads or fires. googleAdsId is the tag ID ("AW-..."),
   # googleAdsLeadLabel the label of the lead conversion action. Both are in
   # Google Ads under Goals > Conversions > (the lead action) > Tag setup.
-  googleAdsId = ""
-  googleAdsLeadLabel = ""
+  googleAdsId = "AW-17482445189"
+  googleAdsLeadLabel = "nlkhCL-HkoYdEIXjo5BB"
   # Google Tag Manager container, loaded by partials/gtm-head.html and
   # gtm-body.html. Blank it to remove GTM from every page in one edit.
   # Note: GA4 (G-X8HZE9WB3J) and the Meta Pixel are hardcoded in baseof.html,
