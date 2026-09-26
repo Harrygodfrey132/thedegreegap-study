@@ -46,7 +46,7 @@ review_names:
 
 # ───────────── EXAM BOARDS ─────────────
 boards_heading: "Which exam board does your child sit for GCSE Chemistry?"
-boards_intro: "AQA, Edexcel and OCR teach the same science but set and mark their papers in their own way, from how the calculations are worded to how the required practicals come up. So we pick tutors who know your child's board. Tap yours to see how it's examined. Not sure which it is? It's usually on the front of a mock paper, or we'll work it out with you on the call."
+boards_intro: "AQA, Edexcel and OCR teach the same science but set and mark their papers in their own way. So we pick tutors who know your child's board. Not sure which it is? It's usually on the front of a mock paper, or we'll work it out with you on the call."
 
 # ───────────── 3 STEPS ─────────────
 steps_heading: "Start GCSE Chemistry tutoring in 3 steps"

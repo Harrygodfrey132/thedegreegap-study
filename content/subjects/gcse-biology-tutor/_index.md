@@ -45,7 +45,7 @@ review_names:
   - "Lisa James"
 
 # ───────────── EXAM BOARDS ─────────────
-boards_intro: "AQA, Edexcel and OCR teach a lot of the same Biology and then ask about it differently, so we pick tutors who know your child's board. Tap yours to see how it's examined and where the marks are won. Not sure which it is? It's usually on the front of a mock paper, or we'll work it out with you on the call."
+boards_intro: "AQA, Edexcel and OCR teach a lot of the same Biology and then ask about it differently, so we pick tutors who know your child's board. Not sure which it is? It's usually on the front of a mock paper, or we'll work it out with you on the call."
 
 # ───────────── 3 STEPS ─────────────
 steps_heading: "Start GCSE Biology tutoring in 3 steps"

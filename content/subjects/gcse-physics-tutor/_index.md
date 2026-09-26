@@ -46,7 +46,7 @@ review_names:
 
 # ───────────── EXAM BOARDS ─────────────
 boards_heading: "Which exam board does your child sit for GCSE Physics?"
-boards_intro: "AQA, Edexcel and OCR teach much the same physics, but they set and mark their papers differently. So we pick tutors who know your child's board. Tap yours to see how it's examined. Not sure which one it is? It's usually on the front of a mock paper, or we'll work it out with you on the call."
+boards_intro: "AQA, Edexcel and OCR teach much the same physics, but each asks its questions and marks the answers in its own way. So we pick tutors who know your child's board. Not sure which one it is? It's usually on the front of a mock paper, or we'll work it out with you on the call."
 
 # ───────────── 3 STEPS ─────────────
 steps_heading: "Start GCSE Physics tutoring in 3 steps"

@@ -1,11 +1,12 @@
 ---
-# OCR GCSE Biology specification page, on the location page design (design:
-# "location", rendered by layouts/partials/ads-subject-body.html). Same
-# structure and parent-chat voice as the AQA GCSE Maths reference page, plus
-# the paper-by-paper breakdown of OCR Gateway Biology A (J247).
-title: "Online OCR GCSE Biology Tutors (Gateway J247) | The Degree Gap"
-description: "One-to-one online OCR Gateway GCSE Biology tutors who know the J247 papers. Free consultation call, tutor profiles within 24 hours, lessons from £37, no contract."
-card_summary: "Gateway A, spec J247. Two papers of 1 hour 45 minutes, 90 marks each, with practical skills on both."
+# OCR GCSE Biology exam-board page, on the location page design (design:
+# "location", rendered by layouts/partials/ads-subject-body.html).
+# Written for parents: it tells them we cover OCR and what that means
+# for their child. No spec codes or paper-by-paper detail, which parents
+# skip (Sep 2026 review).
+title: "OCR GCSE Biology Tutors Online, Matched to Your Child | The Degree Gap"
+description: "One-to-one online OCR GCSE Biology tutors who already know your child's exams. Free consultation call, tutor profiles within 24 hours, lessons from £37, no contract."
+card_summary: "Tutors who know OCR Biology, whether your child's school uses Gateway or Twenty First Century."
 robots: "index, follow"
 layout: "board"
 design: "location"
@@ -16,9 +17,9 @@ subject: "GCSE Biology"
 subject_short: "Biology"
 
 # ───────────── HERO ─────────────
-hero_eyebrow: "OCR GATEWAY GCSE BIOLOGY · SPEC J247 · ONLINE, ACROSS THE UK"
-hero_h1: "Online OCR Gateway GCSE Biology Tutors Who Know the J247 Papers"
-hero_lead: "If your child sits OCR Gateway and knows the Biology but loses marks when a question asks them to judge a method or a set of data, you're not alone. Book a free consultation call so we can get to know your child, and within 24 hours of it you'll get profiles of two or three tutors who know the OCR papers inside out."
+hero_eyebrow: "OCR GCSE BIOLOGY TUTORING · ONLINE, ACROSS THE UK"
+hero_h1: "Online OCR GCSE Biology Tutors Who Know Your Child's Exams"
+hero_lead: "If your child's Biology mock came back lower than either of you expected, you're not alone, and it gives a tutor plenty to work with. Every tutor we suggest already knows the OCR Biology exams, so lessons go straight to what your child will actually sit. Book a free consultation call so we can get to know them, and within 24 hours of it you'll get profiles of two or three tutors to choose from."
 meta_2: "Online using the platform Lessonspace, plus replay available"
 meta_3: "GCSE Tutoring Specialists of the Year 2025 & 2026"
 
@@ -31,7 +32,7 @@ card_points:
 # ───────────── TUTORS ─────────────
 tutors_eyebrow: "MEET SOME OF THE TUTORS"
 tutors_heading: "Some of the OCR GCSE Biology tutors you could be matched with"
-tutors_intro: "We've met every tutor on our platform, and after your call we pick the two or three who know the OCR papers and who we think will get on best with your child. Here are a few of them."
+tutors_intro: "We've met every tutor on our platform. After your call, we pick two or three who know OCR Biology and who we think will get on best with your child. Here are a few of them."
 tutor_names:
   - "Laura Bould"
   - "Rebecca Hanna"
@@ -45,60 +46,50 @@ review_names:
   - "Sorland Pinnacle"
   - "Heidi Milburn"
 
-# ───────────── THE SPECIFICATION ─────────────
-assess_heading: "How OCR Gateway GCSE Biology is examined, paper by paper"
-assess_intro: "OCR Gateway Biology A (spec J247) is two written papers, each 1 hour 45 minutes and 90 marks, and each worth half the grade. There's no coursework. Gateway builds its Biology up in order, from the cell to the whole planet, and leans hard on working scientifically. Here's the shape of it."
-papers:
-  - name: "Paper 1 (J247/01 or 02)"
-    detail: "1 hour 45 minutes, 90 marks, half the grade. B1 cell level systems, B2 scaling up and B3 organism level systems, plus the B7 practical skills that run through everything."
-  - name: "Paper 2 (J247/03 or 04)"
-    detail: "The same length and 90 marks, sat separately. B4 community level systems, B5 genes, inheritance and selection, and B6 global challenges, again with B7 practical skills threaded in."
-  - name: "PAGs and B7 practical skills"
-    detail: "OCR groups its practicals into PAGs, practical activity groups, and brings B7 practical skills into both papers. Microscopy, osmosis, the food tests, the rate of photosynthesis and field sampling turn up as written questions on method and results."
-  - name: "Working scientifically and tiers"
-    detail: "Expect questions that hand your child a table or a graph and ask them to analyse it, spot the flaw in a method or judge whether the evidence supports a claim. Foundation covers grades 1 to 5, Higher covers 4 to 9."
-board_points_heading: "What an OCR tutor works on that a busy class can't"
+# ───────────── WHY THE EXAM BOARD MATTERS ─────────────
+board_points_heading: "You don't need to know the OCR Biology course. Your child's tutor will."
+board_points_intro: "OCR asks its Biology questions in its own way, and not every tutor knows it as well as AQA. The ones we suggest do, so every lesson goes on your child."
 board_points:
-  - title: "The B1 to B6 build"
-    body: "Gateway is written to build up, cells first, then organisms, communities and finally the global picture, and later topics lean on earlier ones. A tutor makes sure the basics under B4 to B6 are solid, because a wobble in B1 quietly weakens everything built on it."
-  - title: "Judging data and evidence"
-    body: "The questions that catch Gateway students out are rarely pure recall. They hand over a dataset or a method and ask your child to analyse it, criticise it or judge it. Your child's tutor practises exactly this: describing a trend, spotting a weakness and saying whether the evidence really holds."
-  - title: "PAGs and the practical questions"
-    body: "The practical activity groups feed straight into the written papers, so B7 is examined even though there's no lab on the day. A tutor rehearses the method, variables and results questions until your child can answer them without the equipment in front of them."
+  - title: "Practice from OCR's own papers"
+    body: "Your child works through OCR questions and past papers, marked the way OCR marks them. They learn what the examiners want, and nothing is wasted on another board's material."
+  - title: "Turning a bad mock into a plan"
+    body: "The tutor goes through the mock with your child, finds where the marks went and builds the next few weeks around it. It's often fewer gaps than it looks."
+  - title: "Data questions that don't scare them"
+    body: "OCR likes to give students data to work with. The tutor gives your child a routine for reading a graph or a table and saying what it shows, so these become marks they can count on."
 
 # ───────────── 3 STEPS ─────────────
 steps_heading: "Start OCR GCSE Biology tutoring in 3 steps"
 steps_lead: "Most families have their first lesson booked within a week. And you don't pay anything until your child has found a tutor they like."
 steps:
   - title: "A free consultation call"
-    body: "A relaxed chat with a member of the team, usually around 30 minutes. We'll check which OCR route your child sits, then get to know you both: the tier, where the marks are going, what you've tried so far and how your child likes to learn. No pressure and no sales pitch."
+    body: "A relaxed chat with a member of the team, usually around 30 minutes. We'll get to know you and your child: how Biology is going, how the mocks went and how your child likes to learn. We'll also check which OCR course they take and which tier. Not sure? That's fine, we'll work it out together. No pressure and no sales pitch."
   - title: "Meet 2 or 3 tutors"
-    body: "Within 24 hours of the call you'll get profiles of two or three tutors who know the OCR Biology papers, so you can see who they are before choosing. Your child can then meet your favourite on a free video call."
+    body: "Within 24 hours of the call you'll get profiles of two or three tutors who know the OCR exams, so you can see who they are before choosing. Your child can then meet your favourite on a free video call."
   - title: "Start weekly lessons"
     body: "Lessons are one-to-one and online, using the platform Lessonspace, with a replay of every lesson to look back on. From £37 an hour, no contract, and you can stop whenever you like."
 
 # ───────────── FAQ ─────────────
 faq_items:
-  - q: "How do I know if my child sits OCR for GCSE Biology?"
-    a: "It's on the exam timetable and at the top of any past paper the school sends home. OCR runs two Biology routes, so check the code too: J247 is Gateway A, the one this page covers, and J257 is Twenty First Century B, which leans harder on ideas about science and evaluating evidence. Not sure? We'll work it out with you on the call before matching anyone."
-  - q: "How is OCR Gateway Biology examined?"
-    a: "Two written papers of 1 hour 45 minutes, 90 marks each and worth half the grade each. Paper 1 covers B1 to B3 and Paper 2 covers B4 to B6, with B7 practical skills tested across both. There's no coursework."
-  - q: "What are PAGs, and do the tutors cover them?"
-    a: "PAGs are OCR's practical activity groups, the practicals your child works through in class. They're tested in the written papers rather than in a lab, so they matter. Tutors go through microscopy, osmosis, the food tests, the rate of photosynthesis and field sampling, and practise the questions on method and results."
-  - q: "Gateway keeps asking my child to evaluate data. Why is that where the marks go?"
-    a: "Because Gateway is built to test whether a student can work scientifically, not just remember facts. A lot of marks sit in analysing a graph, spotting a flaw in a method or judging whether evidence supports a conclusion. A tutor practises that skill directly, and most students pick it up faster than their parents expect."
+  - q: "Do your tutors really know the OCR Biology exams?"
+    a: "Yes. We only suggest tutors who already know OCR GCSE Biology, including how OCR words its questions and what its examiners give marks for. That goes for both of OCR's Biology courses, Gateway and Twenty First Century, and the biology in OCR Combined Science. We'll check which your child sits on the call."
+  - q: "How do I know if my child sits OCR?"
+    a: "It's printed on the front of every mock paper and usually on the exam timetable. If the school mentions Gateway or Twenty First Century, that's OCR. Still not sure? We'll help you work it out on the call."
+  - q: "My child's mock was much lower than expected. Should we be worried?"
+    a: "It's worth acting on, but it's very common and usually more fixable than it feels. Mocks show where the gaps are while there's still time. A tutor starts by going through the paper with your child, so the first few lessons go straight on the marks that were lost."
   - q: "Foundation or Higher tier, which should my child sit?"
-    a: "Foundation covers grades 1 to 5 and Higher covers 4 to 9. The school usually decides, often from the mocks. It does shape the lessons, since Higher pushes harder on the longer answers and the data questions, so we match your child with a tutor who knows the tier they're entered for."
+    a: "It depends on where your child is now. Higher tier covers grades 4 to 9, while Foundation tops out at a 5. The school usually decides after the mocks, and a tutor can help your child get to the point where Higher feels like a fair choice."
+  - q: "How soon will we see a difference?"
+    a: "Most parents notice a change in how their child talks about Biology within the first few lessons, before it shows up in a mark. Moving up a grade usually takes a term or so of weekly lessons. We'd never promise a grade, but the earlier you start, the more time the tutor has."
   - q: "How much does it cost?"
     a: "Lessons start from £37 an hour. The exact price depends on the tutor, and we'll always agree it with you before anything is booked. There's no contract and nothing to pay upfront, and the consultation call and the video meeting with your tutor are free."
   - q: "What if we don't click with the tutor?"
     a: "Just let us know and we'll find someone else, with no charge and no awkward conversation. It happens, and we'd much rather sort it than have your child sit through lessons that aren't working."
   - q: "Does online tutoring actually work for Biology?"
-    a: "It does, and a lot of children find it easier. Your child and the tutor share a whiteboard in Lessonspace, so the tutor can sketch a diagram, mark an OCR past paper answer line by line and talk through a data question step by step. Every lesson has a replay too, which is handy the night before a test."
+    a: "It does. Your child and the tutor share a whiteboard in Lessonspace, where they can draw and label diagrams and work through data questions together. And every lesson has a replay, which is useful when your child sits down to revise."
 
 # ───────────── CLOSING CTA ─────────────
 final_heading: "Book your free<br>OCR GCSE Biology consultation"
-final_body: "A friendly consultation call, usually around 30 minutes, so we can get to know your child: which OCR route and tier they're on, where the papers are catching them out and what they're like as a learner. Within 24 hours you'll have profiles of two or three tutors to choose from."
+final_body: "A friendly consultation call, usually around 30 minutes, so we can get to know your child: how the mocks went, what they're aiming for and what they're like as a learner. Within 24 hours you'll have profiles of two or three tutors to choose from."
 final_assurance: "Free call · Lessons from £37 · No contract"
 
 sitemap:

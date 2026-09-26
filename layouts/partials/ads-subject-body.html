@@ -254,15 +254,17 @@
 </script>
 
 <!-- =============================================
-     SECTION 3b: THE SPECIFICATION
-     Exam-board pages show how their board examines the subject, paper by
-     paper, and where the marks are won. Subject pages with board pages
-     under them show a card per board instead, so a parent can go straight
-     to the specification their child sits.
+     SECTION 3b: THE EXAM BOARD
+     Exam-board pages say, the way we'd say it to a parent, why it helps
+     that the tutor already knows their child's board: a short intro and
+     three cards. No spec codes or paper-by-paper detail: parents want to
+     know we cover the board, not how its papers are built (Sep 2026
+     review). Subject pages with board pages under them show a card per
+     board instead, so a parent can go straight to their child's one.
      ============================================= -->
 {{ $boardKids := slice }}
 {{ if not $isBoard }}{{ $boardKids = where (where site.Pages "Params.layout" "board") "Params.subject" $p.subject }}{{ end }}
-{{ if or $p.papers $p.board_points $boardKids }}
+{{ if or $p.board_points $boardKids }}
 <style>
   .ads-spec { padding:72px 0; background:#fff; border-top:1px solid #ece4d4; }
   .ads-spec__head { max-width:760px; margin:0 auto 34px; text-align:center; }
@@ -273,7 +275,6 @@
   .ads-spec__card h3 { display:flex; align-items:center; gap:10px; font-size:1.06rem; font-weight:800; color:#1f1b18; margin:0 0 10px; }
   .ads-spec__card h3::before { content:""; width:8px; height:8px; border-radius:50%; background:#800020; flex:0 0 auto; }
   .ads-spec__card p { font-size:.98rem; line-height:1.6; color:#5f5a54; margin:0; }
-  .ads-spec__sub { margin-top:56px; }
   a.ads-spec__card { display:block; text-decoration:none; transition:transform .18s, box-shadow .18s, border-color .18s; }
   a.ads-spec__card:hover { transform:translateY(-2px); border-color:#e6c9c9; box-shadow:0 12px 28px rgba(128,0,32,.1); }
   .ads-spec__go { display:inline-block; margin-top:14px; color:#800020; font-weight:700; font-size:.95rem; }
@@ -281,20 +282,11 @@
 </style>
 <section class="ads-spec" id="specification">
   <div class="container">
-    {{ with $p.papers }}
-    <div class="ads-spec__head">
-      <p class="loc-eyebrow">{{ $p.assess_eyebrow | default "THE SPECIFICATION" }}</p>
-      <h2>{{ $p.assess_heading | default (printf "How %s is examined, paper by paper" $fullLabel) }}</h2>
-      {{ with $p.assess_intro }}<p>{{ . }}</p>{{ end }}
-    </div>
-    <div class="ads-spec__grid">
-      {{ range . }}<article class="ads-spec__card"><h3>{{ .name }}</h3><p>{{ .detail }}</p></article>{{ end }}
-    </div>
-    {{ end }}
     {{ with $p.board_points }}
-    <div class="ads-spec__head{{ if $p.papers }} ads-spec__sub{{ end }}">
-      <p class="loc-eyebrow">WHERE THE MARKS ARE</p>
-      <h2>{{ $p.board_points_heading | default (printf "What a %s tutor works on" $fullLabel) }}</h2>
+    <div class="ads-spec__head">
+      <p class="loc-eyebrow">{{ $p.board_points_eyebrow | default "WHY THE EXAM BOARD MATTERS" }}</p>
+      <h2>{{ $p.board_points_heading | default (printf "You don't need to know the %s course. Your child's tutor will." $fullLabel) }}</h2>
+      {{ with $p.board_points_intro }}<p>{{ . }}</p>{{ end }}
     </div>
     <div class="ads-spec__grid">
       {{ range . }}<article class="ads-spec__card"><h3>{{ .title }}</h3><p>{{ .body }}</p></article>{{ end }}
@@ -302,16 +294,16 @@
     {{ end }}
     {{ with $boardKids }}
     <div class="ads-spec__head">
-      <p class="loc-eyebrow">MATCHED TO THE SPECIFICATION</p>
+      <p class="loc-eyebrow">MATCHED TO YOUR CHILD'S EXAM BOARD</p>
       <h2>{{ $p.boards_heading | default (printf "Which exam board does your child sit for %s?" $label) }}</h2>
-      <p>{{ $p.boards_intro | default "Each board sets its papers differently, so we pick tutors who know your child's one. Tap your board to see how it's examined and where the marks are won. Not sure which it is? It's usually on the front of a mock paper, or we'll work it out with you on the call." }}</p>
+      <p>{{ $p.boards_intro | default "Each board words its questions and marks the answers a little differently, so we pick tutors who know your child's one. Not sure which it is? It's usually on the front of a mock paper, or we'll work it out with you on the call." }}</p>
     </div>
     <div class="ads-spec__grid">
       {{ range .ByParam "board" }}
       <a class="ads-spec__card" href="{{ .RelPermalink }}">
         <h3>{{ .Params.board }} {{ $label }}</h3>
         <p>{{ .Params.card_summary | default .Description }}</p>
-        <span class="ads-spec__go">See the {{ .Params.board }} papers &rarr;</span>
+        <span class="ads-spec__go">{{ .Params.board }} {{ $subject }} tutoring &rarr;</span>
       </a>
       {{ end }}
     </div>

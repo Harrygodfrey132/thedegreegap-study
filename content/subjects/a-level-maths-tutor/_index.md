@@ -46,7 +46,7 @@ review_names:
 
 # ───────────── EXAM BOARDS ─────────────
 boards_heading: "Which exam board does your child sit for A-Level Maths?"
-boards_intro: "AQA, Edexcel and OCR all teach the same pure, mechanics and statistics, but they split it across the papers differently. So we pick tutors who know your child's one. Tap your board to see how it's examined. Not sure which it is, or whether it's OCR B (MEI)? It's on the front of a mock paper, or we'll work it out with you on the call."
+boards_intro: "AQA, Edexcel and OCR teach much the same A-Level Maths, but each sets and marks its papers in its own way. So we pick tutors who know your child's board, including OCR B (MEI). Not sure which it is? It's on the front of a mock paper, or we'll work it out with you on the call."
 
 # ───────────── 3 STEPS ─────────────
 steps_heading: "Start A-Level Maths tutoring in 3 steps"

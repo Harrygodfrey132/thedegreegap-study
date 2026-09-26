@@ -1,11 +1,12 @@
 ---
-# Edexcel GCSE Biology specification page, on the location page design
-# (design: "location", rendered by layouts/partials/ads-subject-body.html).
-# Same structure and parent-chat voice as the AQA GCSE Maths reference page,
-# plus the paper-by-paper breakdown of the Pearson Edexcel 1BI0 specification.
-title: "Online Edexcel GCSE Biology Tutors (1BI0) | The Degree Gap"
-description: "One-to-one online Edexcel GCSE Biology tutors who know the 1BI0 papers. Free consultation call, tutor profiles within 24 hours, lessons from £37 with no contract."
-card_summary: "Spec 1BI0. Two papers of 1 hour 45 minutes, 100 marks each, with Topic 1 key concepts on both."
+# Edexcel GCSE Biology exam-board page, on the location page design (design:
+# "location", rendered by layouts/partials/ads-subject-body.html).
+# Written for parents: it tells them we cover Edexcel and what that means
+# for their child. No spec codes or paper-by-paper detail, which parents
+# skip (Sep 2026 review).
+title: "Edexcel GCSE Biology Tutors Online, Matched to Your Child | The Degree Gap"
+description: "One-to-one online Edexcel GCSE Biology tutors who already know your child's exams. Free consultation call, tutor profiles within 24 hours, lessons from £37, no contract."
+card_summary: "Tutors who know Edexcel Biology, including Edexcel International GCSE, at Foundation or Higher tier."
 robots: "index, follow"
 layout: "board"
 design: "location"
@@ -16,9 +17,9 @@ subject: "GCSE Biology"
 subject_short: "Biology"
 
 # ───────────── HERO ─────────────
-hero_eyebrow: "EDEXCEL GCSE BIOLOGY · SPEC 1BI0 · ONLINE, ACROSS THE UK"
-hero_h1: "Online Edexcel GCSE Biology Tutors Who Know the 1BI0 Papers"
-hero_lead: "If your child sits Edexcel and knows the Biology but freezes when a question hands them an organism or a set of data they've never seen, you're not alone. Book a free consultation call so we can get to know your child, and within 24 hours of it you'll get profiles of two or three tutors who know the Edexcel papers inside out."
+hero_eyebrow: "EDEXCEL GCSE BIOLOGY TUTORING · ONLINE, ACROSS THE UK"
+hero_h1: "Online Edexcel GCSE Biology Tutors Who Know Your Child's Exams"
+hero_lead: "If your child knows their Biology but freezes when a question is about something they've never seen before, it's more common than you'd think. The tutors we suggest already know the Edexcel Biology exams, so none of your child's lessons go on the wrong material. Book a free consultation call so we can get to know them, and within 24 hours of it you'll get profiles of two or three tutors to choose from."
 meta_2: "Online using the platform Lessonspace, plus replay available"
 meta_3: "GCSE Tutoring Specialists of the Year 2025 & 2026"
 
@@ -31,7 +32,7 @@ card_points:
 # ───────────── TUTORS ─────────────
 tutors_eyebrow: "MEET SOME OF THE TUTORS"
 tutors_heading: "Some of the Edexcel GCSE Biology tutors you could be matched with"
-tutors_intro: "We've met every tutor on our platform, and after your call we pick the two or three who know the Edexcel papers and who we think will get on best with your child. Here are a few of them."
+tutors_intro: "We've met every tutor on our platform, and after your call we pick the two or three who know Edexcel Biology and who we think your child will get on with best. Here are a few of them."
 tutor_names:
   - "Elias Araye"
   - "Corinna Hudson"
@@ -45,60 +46,50 @@ review_names:
   - "Nazrul Islam"
   - "Lisa James"
 
-# ───────────── THE SPECIFICATION ─────────────
-assess_heading: "How Edexcel GCSE Biology is examined, paper by paper"
-assess_intro: "Pearson Edexcel GCSE Biology (spec 1BI0) is two written papers, each 1 hour 45 minutes and 100 marks, and each worth half the grade. There's no coursework. What sets Edexcel apart isn't so much the content as the way the questions arrive, often wrapped around an unfamiliar context or a set of data. Here's how it breaks down."
-papers:
-  - name: "Paper 1 (1BI0/1F or 1H)"
-    detail: "1 hour 45 minutes, 100 marks, half the grade. Topics 1 to 5: key concepts in biology, cells and control, genetics, natural selection and genetic modification, and health, disease and the development of medicines."
-  - name: "Paper 2 (1BI0/2F or 2H)"
-    detail: "The same length and marks, sat separately. Topics 6 to 9: plant structures, animal coordination and homeostasis, exchange and transport, and ecosystems and material cycles. Topic 1, key concepts, can come up on both papers."
-  - name: "The core practicals"
-    detail: "Edexcel calls them core practicals, and they come back as written questions on method, variables and results. Osmosis, microscopy, the food tests, the rate of photosynthesis and quadrat sampling are the ones students most often meet in the exam."
-  - name: "Application, data and tiers"
-    detail: "This is the Edexcel signature. Questions hand your child an organism, an experiment or a dataset they've never seen and ask them to apply what they know. Foundation covers grades 1 to 5, Higher covers 4 to 9."
-board_points_heading: "What an Edexcel tutor works on that a busy class can't"
+# ───────────── WHY THE EXAM BOARD MATTERS ─────────────
+board_points_heading: "You don't need to know the Edexcel Biology course. Your child's tutor will."
+board_points_intro: "Edexcel has its own style of Biology question, and it likes to test what your child can do with what they know. A tutor who already knows that style can get them ready for it."
 board_points:
-  - title: "Working from an unfamiliar context"
-    body: "Edexcel likes to set a question around a plant, an animal or a study your child has never covered. Panic makes them reach for a learned answer that doesn't fit. A tutor teaches them to read what the question gives, pick out the Biology that applies and reason forward from there."
-  - title: "The data and maths questions"
-    body: "Graphs, tables, percentages and rates run through both papers. Your child's tutor practises reading data accurately, describing a trend in the right words and doing the calculation the question is after, so those marks stop slipping away."
-  - title: "Core practicals across both papers"
-    body: "The core practicals come back as exam questions, and Topic 1 key concepts can turn up on either paper. A tutor rehearses the method and results questions and keeps the early topics sharp, so nothing gets dropped between Paper 1 and Paper 2."
+  - title: "The real Edexcel style"
+    body: "Your child practises on Edexcel questions and past papers, marked the way Edexcel marks them, so the exam looks familiar long before they sit it."
+  - title: "Using what they already know"
+    body: "Exam questions often put familiar Biology in an unfamiliar setting. The tutor shows your child how to spot the idea behind the question, so a new example stops being a reason to panic."
+  - title: "Graphs and data, calmly"
+    body: "Reading graphs and tables is where lots of Biology marks slip. The tutor gives your child a simple routine for them, so these become steady marks."
 
 # ───────────── 3 STEPS ─────────────
 steps_heading: "Start Edexcel GCSE Biology tutoring in 3 steps"
 steps_lead: "Most families have their first lesson booked within a week. And you don't pay anything until your child has found a tutor they like."
 steps:
   - title: "A free consultation call"
-    body: "A relaxed chat with a member of the team, usually around 30 minutes. We'll check your child sits Edexcel, then get to know you both: the tier, where the marks are going, what you've tried so far and how your child likes to learn. No pressure and no sales pitch."
+    body: "A relaxed chat with a member of the team, usually around 30 minutes. We'll get to know you and your child: how Biology is going, what you've tried and how your child likes to learn. We'll check the details of their course with you too, like which tier and whether it's GCSE or International GCSE. No pressure and no sales pitch."
   - title: "Meet 2 or 3 tutors"
-    body: "Within 24 hours of the call you'll get profiles of two or three tutors who know the Edexcel Biology papers, so you can see who they are before choosing. Your child can then meet your favourite on a free video call."
+    body: "Within 24 hours of the call you'll get profiles of two or three tutors who know Edexcel Biology, so you can see who they are before choosing. Your child can then meet your favourite on a free video call."
   - title: "Start weekly lessons"
     body: "Lessons are one-to-one and online, using the platform Lessonspace, with a replay of every lesson to look back on. From £37 an hour, no contract, and you can stop whenever you like."
 
 # ───────────── FAQ ─────────────
 faq_items:
-  - q: "How do I know if my child sits Edexcel for GCSE Biology?"
-    a: "It's on the exam timetable and at the top of any past paper the school sends home, shown as Pearson Edexcel with the spec code 1BI0. If you're not sure, we'll check it with you on the call before matching anyone, because practising another board's questions quietly costs marks."
-  - q: "How is Edexcel GCSE Biology examined?"
-    a: "Two written papers of 1 hour 45 minutes, 100 marks each and worth half the grade each. Paper 1 covers Topics 1 to 5 and Paper 2 covers Topics 6 to 9, with the key concepts in Topic 1 able to appear on either. There's no coursework."
-  - q: "Why does my child freeze on the questions about things they've never studied?"
-    a: "Because Edexcel sets questions around an organism, experiment or dataset your child hasn't met on purpose, and the instinct is to hunt for a learned answer that doesn't fit. It's really common. A tutor teaches the opposite habit, reading what the question gives and reasoning from it, which is the skill Edexcel is testing."
-  - q: "Edexcel keeps asking graph and data questions. Can a tutor help?"
-    a: "Yes, and it's one of the most common reasons Edexcel families come to us. Tutors work on describing trends precisely, doing the percentage, ratio and rate calculations, and saying something useful about a graph rather than just repeating it. It's a technique, and it's very teachable."
-  - q: "Do the tutors cover Edexcel's core practicals?"
-    a: "Yes. Edexcel asks about the core practicals in the written papers, so they matter as much as any topic. Tutors go through osmosis, microscopy, the food tests, the rate of photosynthesis and quadrat sampling, and teach your child to answer on method, variables and results."
+  - q: "Do your tutors really know the Edexcel Biology exams?"
+    a: "Yes. We only suggest tutors who already know Edexcel GCSE Biology, including how Edexcel words its questions and what its examiners give marks for. That covers triple Science, the biology in Edexcel Combined Science and both tiers. We'll check exactly what your child sits on the call."
+  - q: "Do you cover Edexcel International GCSE Biology?"
+    a: "Yes. Lots of independent schools use Edexcel International GCSE, often called iGCSE, and it's examined a little differently from the standard GCSE. Tell us which one your child sits on the call and we'll pick tutors who know it."
+  - q: "How do I know if my child sits Edexcel?"
+    a: "It's printed on the front of every mock paper, sometimes as Pearson Edexcel, which is the same board. It's usually on the exam timetable too. If you're still not sure, we'll work it out with you on the call."
+  - q: "Why does my child freeze on questions about things they've never studied?"
+    a: "Because it feels like the question is about something they missed. Usually it's testing an idea they do know, just in a new setting. A tutor practises lots of these with your child and teaches them to find the familiar idea first, and the freezing tends to fade."
+  - q: "Is it too late to start in Year 11?"
+    a: "No. Plenty of families start in Year 11, and there's usually time to move things on, especially before the mocks, which for most schools fall between November and January. If the exams are closer, the tutor focuses on the topics and questions worth the most marks."
+  - q: "My child doesn't really want a tutor. Is that normal?"
+    a: "Very normal. It usually changes once they meet the tutor, because it feels nothing like a lesson at school: one person, their full attention and nobody else watching. That's why your child gets to meet the tutor on a free video call first, and if it really isn't for them after a couple of lessons, you simply stop."
   - q: "How much does it cost?"
     a: "Lessons start from £37 an hour. The exact price depends on the tutor, and we'll always agree it with you before anything is booked. There's no contract and nothing to pay upfront, and the consultation call and the video meeting with your tutor are free."
   - q: "What if we don't click with the tutor?"
     a: "Just let us know and we'll find someone else, with no charge and no awkward conversation. It happens, and we'd much rather sort it than have your child sit through lessons that aren't working."
-  - q: "Does online tutoring actually work for Biology?"
-    a: "It does, and a lot of children find it easier. Your child and the tutor share a whiteboard in Lessonspace, so the tutor can sketch a diagram, mark an Edexcel past paper answer line by line and talk through a data question step by step. Every lesson has a replay too, which is handy the night before a test."
 
 # ───────────── CLOSING CTA ─────────────
 final_heading: "Book your free<br>Edexcel GCSE Biology consultation"
-final_body: "A friendly consultation call, usually around 30 minutes, so we can get to know your child: which tier they're on, where the Edexcel papers are catching them out and what they're like as a learner. Within 24 hours you'll have profiles of two or three tutors to choose from."
+final_body: "A friendly consultation call, usually around 30 minutes, so we can get to know your child: what's going on with Biology, what they're aiming for and what they're like as a learner. Within 24 hours you'll have profiles of two or three tutors who know Edexcel to choose from."
 final_assurance: "Free call · Lessons from £37 · No contract"
 
 sitemap:
