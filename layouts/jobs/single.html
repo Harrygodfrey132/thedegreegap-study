@@ -106,7 +106,7 @@
   <section class="jb-related">
     <h2>Other {{ .Params.level }} roles</h2>
     <div class="jb-related__links">
-      {{ range first 12 (sort (where $siblings "Permalink" "!=" .Permalink) "Params.subject") }}
+      {{ range first 10 (sort (where $siblings "Permalink" "!=" .Permalink) "Params.subject") }}
       <a class="jb-chip" href="{{ .RelPermalink }}">{{ .Params.subject }}</a>
       {{ end }}
     </div>

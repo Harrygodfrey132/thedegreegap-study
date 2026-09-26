@@ -103,7 +103,7 @@
       <h2 class="webinar-section__centered">Popular areas we cover</h2>
       <p class="webinar-section__centered webinar-areas__lead">Browse our local tutoring pages or jump straight to the city closest to you.</p>
       <div class="webinar-areas__grid">
-        {{ range first 12 $cards }}
+        {{ range partial "pick-areas.html" (dict "pages" $cards "max" 8) }}
         <a href="{{ .RelPermalink }}" class="webinar-area-card">
           <span>{{ .Params.location | default .Title }}</span>
           <small>Find a tutor →</small>

@@ -1,0 +1,25 @@
+{{/* Picks the places for a short list of areas from the location pages
+     passed in. At most 10, never the whole set: /locations/ is where every
+     area is listed. Cities in site.Params.featuredAreas (hugo.toml) go in
+     first, in that order, and any slots left are filled alphabetically, so
+     a subject missing from one of those cities still shows a full list.
+     Returns the pick sorted by name, ready to range over:
+       {{ range partial "pick-areas.html" $pages }}
+     A grid that wants fewer, say two full rows of four, passes a max:
+       {{ range partial "pick-areas.html" (dict "pages" $pages "max" 8) }} */}}
+{{ $pages := . }}
+{{ $max := 10 }}
+{{ if reflect.IsMap . }}
+  {{ $pages = .pages }}
+  {{ with .max }}{{ if lt . $max }}{{ $max = . }}{{ end }}{{ end }}
+{{ end }}
+{{ $picked := slice }}
+{{ range site.Params.featuredAreas }}
+  {{ if lt (len $picked) $max }}
+    {{ with where $pages "Params.location" . }}{{ $picked = $picked | append (index . 0) }}{{ end }}
+  {{ end }}
+{{ end }}
+{{ range sort $pages "Params.location" }}
+  {{ if and (lt (len $picked) $max) (not (in $picked .)) }}{{ $picked = $picked | append . }}{{ end }}
+{{ end }}
+{{ return sort $picked "Params.location" }}

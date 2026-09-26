@@ -477,7 +477,7 @@
     <h2 class="lvls-siblings__title">Other {{ $level }} subjects in {{ $loc }}</h2>
     {{ if $siblings }}
     <div class="lvls-siblings__grid">
-      {{ range $siblings }}
+      {{ range first 10 $siblings }}
       <a href="{{ .RelPermalink }}" class="loc-area-card">{{ .Params.level }} {{ .Params.subject }} Tutors in {{ .Params.location }}</a>
       {{ end }}
     </div>
@@ -549,7 +549,7 @@
     {{ with $boardPages }}
     <p class="lvls-deeper__label">Matched to the exam board your child actually sits</p>
     <div class="lvls-deeper__grid">
-      {{ range .ByParam "board" }}<a class="lvls-deeper__pill" href="{{ .RelPermalink }}">{{ .Params.board }} {{ $level }} {{ $subject }}</a>{{ end }}
+      {{ range first 10 (.ByParam "board") }}<a class="lvls-deeper__pill" href="{{ .RelPermalink }}">{{ .Params.board }} {{ $level }} {{ $subject }}</a>{{ end }}
     </div>
     {{ end }}
     {{ with $nearby }}

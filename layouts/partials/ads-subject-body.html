@@ -490,11 +490,11 @@
     {{ with $parentHub }}<a class="ads-more__feat" href="{{ .RelPermalink }}">All {{ $label }} tutoring <span>&rarr;</span></a>{{ end }}
     {{ with $boardSibs }}
     <p class="ads-more__label">The other {{ $label }} exam boards</p>
-    <div class="ads-more__grid">{{ range .ByParam "board" }}<a class="ads-more__pill" href="{{ .RelPermalink }}">{{ .Params.board }} {{ $label }}</a>{{ end }}</div>
+    <div class="ads-more__grid">{{ range first 10 (.ByParam "board") }}<a class="ads-more__pill" href="{{ .RelPermalink }}">{{ .Params.board }} {{ $label }}</a>{{ end }}</div>
     {{ end }}
     {{ with $sameBoard }}
     <p class="ads-more__label">Sitting {{ $board }} in other subjects too?</p>
-    <div class="ads-more__grid">{{ range .ByParam "subject" }}<a class="ads-more__pill" href="{{ .RelPermalink }}">{{ $board }} {{ .Params.subject }}</a>{{ end }}</div>
+    <div class="ads-more__grid">{{ range first 10 (.ByParam "subject") }}<a class="ads-more__pill" href="{{ .RelPermalink }}">{{ $board }} {{ .Params.subject }}</a>{{ end }}</div>
     {{ end }}
     {{ with $sibling }}<a class="ads-more__feat" href="{{ .RelPermalink }}">Also tutoring {{ .Params.subject }} <span>&rarr;</span></a>{{ end }}
     {{ with $peers }}
@@ -503,7 +503,7 @@
     {{ end }}
     {{ with $locCovered }}
     <p class="ads-more__label">Areas we cover for {{ $label }}</p>
-    <div class="ads-more__grid">{{ range (sort . "Params.location") }}<a class="ads-more__pill" href="{{ .RelPermalink }}">{{ .Params.location }}</a>{{ end }}</div>
+    <div class="ads-more__grid">{{ range partial "pick-areas.html" . }}<a class="ads-more__pill" href="{{ .RelPermalink }}">{{ .Params.location }}</a>{{ end }}</div>
     {{ end }}
     <div class="ads-more__nav">
       <a href="{{ "subjects/" | relURL }}">Browse all subjects &rarr;</a>

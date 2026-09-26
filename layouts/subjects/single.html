@@ -365,7 +365,7 @@ a process timeline, one consolidated trust signal. Reusable across subjects.
     {{ with $boardKids }}
     <p style="font-weight:700;color:var(--ink);margin:20px 0 12px;">Tutoring matched to your exact exam board</p>
     <div class="mx-related__grid">
-      {{ range .ByParam "board" }}<a class="mx-related__pill" style="border-color:#e6c9c9;color:var(--bg);font-weight:700;" href="{{ .RelPermalink }}">{{ .Params.board }} &rarr;</a>{{ end }}
+      {{ range first 10 (.ByParam "board") }}<a class="mx-related__pill" style="border-color:#e6c9c9;color:var(--bg);font-weight:700;" href="{{ .RelPermalink }}">{{ .Params.board }} &rarr;</a>{{ end }}
     </div>
     {{ end }}
     {{ if $sibling }}
@@ -380,7 +380,7 @@ a process timeline, one consolidated trust signal. Reusable across subjects.
          pages that cover this exact level and subject. Location pages
          carry "GCSE" + "Maths" as separate params, so the key is built
          from both. Combined Science is the one place the two trees name
-         the subject differently. */}}
+         the subject differently. pick-areas.html keeps it to 10 places. */}}
     {{ $locKey := replace .Params.subject "Combined Science" "Science" }}
     {{ $locCovered := slice }}
     {{ range where .Site.Pages "Params.layout" "level-subject" }}
@@ -389,7 +389,7 @@ a process timeline, one consolidated trust signal. Reusable across subjects.
     {{ with $locCovered }}
     <p style="font-weight:700;color:var(--ink);margin:24px 0 12px;">Areas we cover for {{ $.Params.subject }}</p>
     <div class="mx-related__grid">
-      {{ range (sort . "Params.location") }}<a class="mx-related__pill" href="{{ .RelPermalink }}">{{ .Params.location }}</a>{{ end }}
+      {{ range partial "pick-areas.html" . }}<a class="mx-related__pill" href="{{ .RelPermalink }}">{{ .Params.location }}</a>{{ end }}
     </div>
     {{ end }}
     <div class="mx-related__nav">

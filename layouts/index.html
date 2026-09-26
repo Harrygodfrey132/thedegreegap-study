@@ -130,16 +130,16 @@
     </div>
     <p style="font-weight:800;font-size:0.76rem;letter-spacing:0.12em;text-transform:uppercase;color:#800020;margin:8px 0 12px;">GCSE</p>
     <div class="home-subjects-grid">
-      {{ range $gcseSet.ByParam "subject" }}<a href="{{ .RelPermalink }}" class="home-subject-card">{{ strings.TrimPrefix "GCSE " .Params.subject }}</a>{{ end }}
+      {{ range first 10 ($gcseSet.ByParam "subject") }}<a href="{{ .RelPermalink }}" class="home-subject-card">{{ strings.TrimPrefix "GCSE " .Params.subject }}</a>{{ end }}
     </div>
     <p style="font-weight:800;font-size:0.76rem;letter-spacing:0.12em;text-transform:uppercase;color:#800020;margin:26px 0 12px;">A-Level</p>
     <div class="home-subjects-grid">
-      {{ range $alevelSet.ByParam "subject" }}<a href="{{ .RelPermalink }}" class="home-subject-card">{{ strings.TrimPrefix "A-Level " .Params.subject }}</a>{{ end }}
+      {{ range first 10 ($alevelSet.ByParam "subject") }}<a href="{{ .RelPermalink }}" class="home-subject-card">{{ strings.TrimPrefix "A-Level " .Params.subject }}</a>{{ end }}
     </div>
     {{ with $specSet }}
     <p style="font-weight:800;font-size:0.76rem;letter-spacing:0.12em;text-transform:uppercase;color:#800020;margin:26px 0 12px;">Specialist support</p>
     <div class="home-subjects-grid">
-      {{ range .ByParam "subject" }}<a href="{{ .RelPermalink }}" class="home-subject-card">{{ .Params.subject }}</a>{{ end }}
+      {{ range first 10 (.ByParam "subject") }}<a href="{{ .RelPermalink }}" class="home-subject-card">{{ .Params.subject }}</a>{{ end }}
     </div>
     {{ end }}
   </div>
@@ -166,8 +166,6 @@
       <a href="{{ "personal-statement-tutor/psychology/" | relURL }}" class="home-subject-card">Psychology</a>
       <a href="{{ "personal-statement-tutor/history/" | relURL }}" class="home-subject-card">History</a>
       <a href="{{ "personal-statement-tutor/mathematics/" | relURL }}" class="home-subject-card">Mathematics</a>
-      <a href="{{ "personal-statement-tutor/english-literature/" | relURL }}" class="home-subject-card">English Literature</a>
-      <a href="{{ "personal-statement-tutor/natural-sciences/" | relURL }}" class="home-subject-card">Natural Sciences</a>
       <a href="{{ "personal-statement-tutor/oxford/" | relURL }}" class="home-subject-card home-subject-card--special">Oxford</a>
       <a href="{{ "personal-statement-tutor/cambridge/" | relURL }}" class="home-subject-card home-subject-card--special">Cambridge</a>
     </div>
@@ -232,7 +230,7 @@
           {{ $cards = $cards | append . }}
         {{ end }}
       {{ end }}
-      {{ range first 12 $cards }}
+      {{ range partial "pick-areas.html" (dict "pages" $cards "max" 8) }}
       <a href="{{ .RelPermalink }}" class="home-location-card">
         <span class="home-location-card__name">{{ .Params.location | default .Title }}</span>
         <span class="home-location-card__link">Find a tutor →</span>

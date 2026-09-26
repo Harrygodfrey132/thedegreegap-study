@@ -218,7 +218,8 @@ weighting and pitfalls for THIS exact board. Reusable across board/subject combo
     <p class="bd-related__sub">Joe works it out with you on the first call. Or explore the other boards and the full subject.</p>
     <div class="bd-related__grid">
       {{ with $parent }}<a class="bd-related__card bd-related__card--parent" href="{{ .RelPermalink }}">All {{ $subject }} tutoring &rarr;</a>{{ end }}
-      {{ range $siblings }}{{ if ne .RelPermalink $.RelPermalink }}<a class="bd-related__card" href="{{ .RelPermalink }}">{{ .Params.board }} {{ $subject }}</a>{{ end }}{{ end }}
+      {{/* Nine boards at most, so with the card above the grid stays at ten. */}}
+      {{ range first 9 (where $siblings "RelPermalink" "!=" $.RelPermalink) }}<a class="bd-related__card" href="{{ .RelPermalink }}">{{ .Params.board }} {{ $subject }}</a>{{ end }}
     </div>
 
     {{/* Same board, other subjects. A school enters its cohort with one
@@ -231,7 +232,7 @@ weighting and pitfalls for THIS exact board. Reusable across board/subject combo
     {{ with $otherSubjects }}
     <p class="bd-related__label">Sitting {{ $board }} in other subjects too?</p>
     <div class="bd-related__grid">
-      {{ range .ByParam "subject" }}<a class="bd-related__card" href="{{ .RelPermalink }}">{{ $board }} {{ .Params.subject }}</a>{{ end }}
+      {{ range first 10 (.ByParam "subject") }}<a class="bd-related__card" href="{{ .RelPermalink }}">{{ $board }} {{ .Params.subject }}</a>{{ end }}
     </div>
     {{ end }}
   </div>

@@ -18,6 +18,17 @@ enableGitInfo = true
   # schema that disagrees with what a user can see is a structured-data breach.
   googleReviewCount = 109
   googleReviewRating = "5.0"
+  # Short lists of areas show at most 10 places, never all of them; /locations/
+  # is the full list. That covers the "Areas we cover" chips on subject pages
+  # (10) and the area cards on the homepage and GCSE mock webinar page (8, two
+  # rows of four). They take these in order first, skipping any without a page
+  # for that subject, and fill any spare slots alphabetically. Reorder or swap
+  # names here to change them all.
+  featuredAreas = [
+    "London", "Birmingham", "Manchester", "Leeds", "Liverpool",
+    "Sheffield", "Bristol", "Newcastle upon Tyne", "Nottingham", "Leicester",
+    "Coventry", "Southampton", "Brighton", "Reading", "Milton Keynes",
+  ]
   # Google Ads, read by partials/ads-tracking.html on the Google Ads landing
   # pages and on /book-a-call-thank-you/, where the lead conversion fires.
   # Both stay blank until the Ads account is linked, and while they are blank
