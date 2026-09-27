@@ -2,21 +2,21 @@
 {{/*
   Reviews page (content/reviews.md), at /study/reviews/.
 
-  Every review is pulled from data/reviews.yaml (Google) and
-  data/reviews-trustpilot.yaml (Trustpilot) and shown word for word. The
-  page copy and the choice of featured reviews live in the front matter.
-  Headline numbers come from hugo.toml (Google) and data/review_stats.yaml
-  (Trustpilot), the same sources as the rest of the site.
+  The reviews are the page: a short header with both ratings, then every
+  written review from data/reviews.yaml (Google) and
+  data/reviews-trustpilot.yaml (Trustpilot), word for word, then a closing
+  call to book. Booking cards styled like the review cards are dealt into
+  the wall after the 6th review and every 12th after that, and every
+  booking link carries data-track so clicks reach GA4
+  (partials/ads-tracking.html).
 
-  Order: hero, results in parents' words, three themes, the full wall of
-  reviews (filters, "show more", and booking cards mixed in), a booking
-  band, the founders, 3 steps, FAQ, closing call to book. Booking buttons
-  go to /book-a-call/ and carry data-track so clicks reach GA4
-  (partials/ads-tracking.html). The wall is plain HTML first: with
-  JavaScript off every review shows, in CSS columns.
+  With JavaScript off, every review shows, in CSS columns. With it on, the
+  wall becomes a masonry that shows 18 at a time, filters, and never moves
+  a card that's already on screen when more load.
 
   No Review or AggregateRating schema on purpose: Google treats review
   markup about your own business as self-serving (see review-badges.html).
+  No sticky bar either: main.css hides .sj-sticky-cta site-wide on purpose.
 */}}
 {{ $p := .Params }}
 {{ $book := "book-a-call/" | relURL }}
@@ -33,16 +33,9 @@
 {{ $tpScore := $stats.trustpilotScore }}
 {{ $tpCount := int $stats.trustpilotCount }}
 {{ $tpUrl := $stats.trustpilotUrl }}
-{{ $written := add (len $g) (len $tp) }}
-{{ $fill := dict "{gCount}" (string $gCount) "{gRating}" $gRating "{gRatingOnly}" (string (sub $gCount (len $g))) "{tpScore}" $tpScore "{tpCount}" (string $tpCount) }}
 
-{{/* Reviews that name Harry or Joe, for the founders heading. */}}
-{{ $hj := 0 }}
-{{ range $g }}{{ if findRE `\b(Harry|Joe)\b` .text }}{{ $hj = add $hj 1 }}{{ end }}{{ end }}
-{{ range $tp }}{{ if findRE `\b(Harry|Joe)\b` .text }}{{ $hj = add $hj 1 }}{{ end }}{{ end }}
-
-{{/* The wall: newest Google reviews first, a Trustpilot review after
-     every fourth, and any Trustpilot reviews left over at the end. */}}
+{{/* Newest Google reviews first, a Trustpilot review after every fourth,
+     and any Trustpilot reviews left over at the end. */}}
 {{ $wall := slice }}
 {{ $ti := 0 }}
 {{ range $i, $r := sort $g "date" "desc" }}
@@ -52,17 +45,13 @@
 {{ if lt $ti (len $tp) }}{{ range after $ti $tp }}{{ $wall = $wall | append . }}{{ end }}{{ end }}
 
 <style>
-  .rv-page { --rv-ink:#1f1b18; --rv-muted:#5f5a54; --rv-line:#ece4d4; --rv-gold:#F4B400; --rv-green:#00B67A; --rv-serif:Georgia, "Times New Roman", serif; }
-  .rv-page .loc-eyebrow, .rv-page .lvls-about__eyebrow { font-size:0.72rem; font-weight:800; letter-spacing:0.12em; color:var(--burgundy); }
-  .rv-head { max-width:760px; margin:0 auto 40px; text-align:center; }
-  .rv-head h2 { font-size:clamp(1.7rem,3.6vw,2.4rem); font-weight:800; letter-spacing:-0.02em; line-height:1.15; color:var(--rv-ink); margin:8px 0 12px; text-wrap:balance; }
-  .rv-head p.rv-head__intro { font-size:1.06rem; line-height:1.65; color:var(--rv-muted); margin:0; }
-  .rv-center { text-align:center; margin-top:36px; }
+  .rv-page { --rv-ink:#1f1b18; --rv-muted:#5f5a54; --rv-line:#ece4d4; --rv-gold:#F4B400; --rv-green:#00B67A;
+             background:var(--cream); padding:64px 0 96px; }
+  .rv-page .loc-eyebrow { font-size:0.72rem; font-weight:800; letter-spacing:0.14em; color:var(--burgundy); }
   .rv-sr { position:absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap; border:0; }
-  /* main.css underlines every link on hover; these are cards and buttons. */
-  .rv-page .rv-score:hover, .rv-page .rv-cta__btn:hover, .rv-page .rv-cta__phone:hover, .rv-page .rv-cta__link:hover,
-  .rv-page .rv-hero__phone:hover, .rv-page .rv-band__phone:hover, .rv-page .rv-inline-cta a:hover { text-decoration:none; }
+  .rv-page a:hover { text-decoration:none; }
 
+  /* Stars, platform marks, avatars */
   .rv-stars { display:inline-flex; gap:2px; line-height:1; }
   .rv-stars span { color:#d9d2c7; font-size:15px; }
   .rv-stars--google span.on { color:var(--rv-gold); }
@@ -71,73 +60,35 @@
   .rv-stars--trustpilot span.half { background:linear-gradient(90deg, var(--rv-green) 50%, #dcdce6 50%); }
   .rv-platform { display:inline-flex; align-items:center; gap:6px; font-size:.8rem; font-weight:700; color:var(--rv-muted); white-space:nowrap; }
   .rv-avatar { width:40px; height:40px; flex:none; border-radius:50%; color:#fff; font-weight:800; font-size:1rem; display:inline-flex; align-items:center; justify-content:center; }
-  .rv-who__name { display:block; font-weight:800; color:var(--rv-ink); font-size:.98rem; }
-  .rv-who__role { display:block; font-size:.84rem; color:var(--rv-muted); }
 
-  /* Hero */
-  .rv-hero { position:relative; overflow:hidden; background:radial-gradient(900px 480px at 88% -8%, #f5e4e4 0%, rgba(245,228,228,0) 62%), var(--cream); padding:76px 0 92px; border-bottom:1px solid var(--rv-line); }
-  .rv-hero__grid { display:grid; grid-template-columns:minmax(0,1.05fr) minmax(0,.95fr); gap:64px; align-items:center; }
-  .rv-hero__title { font-size:clamp(2.3rem,5.2vw,3.7rem); line-height:1.04; letter-spacing:-0.035em; font-weight:800; color:var(--rv-ink); margin:12px 0 18px; text-wrap:balance; }
-  .rv-hero__lead { font-size:1.14rem; line-height:1.65; color:var(--rv-muted); max-width:34em; margin:0 0 28px; }
-  .rv-scores { display:flex; flex-wrap:wrap; gap:12px; margin:0 0 32px; }
-  .rv-score { display:inline-flex; align-items:center; gap:12px; padding:12px 18px 12px 14px; background:#fff; border:1px solid var(--rv-line); border-radius:16px; text-decoration:none; color:var(--rv-ink); box-shadow:0 10px 24px rgba(35,23,17,.06); transition:transform .18s, box-shadow .18s, border-color .18s; }
-  .rv-score:hover { transform:translateY(-2px); border-color:#e6c9c9; box-shadow:0 16px 30px rgba(35,23,17,.1); color:var(--rv-ink); }
-  .rv-score .rv-platform svg { width:28px; height:28px; }
-  .rv-score__num { font-size:1.9rem; font-weight:800; letter-spacing:-0.02em; line-height:1; }
-  .rv-score__body { display:flex; flex-direction:column; gap:6px; }
-  .rv-score__meta { font-size:.8rem; color:var(--rv-muted); font-weight:600; }
-  .rv-hero__actions { display:flex; flex-wrap:wrap; align-items:center; gap:14px 22px; }
-  .rv-hero__phone { font-weight:700; color:var(--burgundy); text-decoration:none; border-bottom:1px solid rgba(128,0,32,.25); }
-  .rv-hero__phone:hover { color:var(--burgundy); border-bottom-color:var(--burgundy); }
-  .rv-hero__feature { position:relative; }
-  .rv-hero__deco { position:absolute; width:560px; height:560px; left:50%; top:50%; transform:translate(-45%,-50%); pointer-events:none; }
-  .rv-feature-stack { position:relative; }
-  .rv-feature-stack::before { content:""; position:absolute; inset:22px -16px -18px 26px; background:#f3e3e3; border-radius:26px; transform:rotate(2.4deg); }
-  .rv-feature { position:relative; margin:0; background:#fff; border:1px solid #f0e6da; border-radius:24px; padding:44px 38px 30px; box-shadow:0 34px 70px rgba(35,23,17,.13); }
-  .rv-feature::before { content:"\201C"; position:absolute; top:-4px; left:28px; font-family:var(--rv-serif); font-size:7.5rem; line-height:1; color:rgba(128,0,32,.13); }
-  .rv-feature .rv-stars { position:relative; margin-bottom:16px; }
-  .rv-feature__text { position:relative; margin:0 0 26px; font-family:var(--rv-serif); font-size:1.24rem; line-height:1.6; color:var(--rv-ink); }
-  .rv-feature__who { display:flex; align-items:center; gap:12px; padding-top:20px; border-top:1px solid #f1ebe2; }
-  .rv-feature__who .rv-platform { margin-left:auto; }
+  /* Header */
+  .rv-intro { max-width:780px; margin:0 auto 34px; text-align:center; }
+  .rv-intro h1 { font-size:clamp(2.2rem,4.8vw,3.3rem); font-weight:800; letter-spacing:-0.035em; line-height:1.06; color:var(--rv-ink); margin:12px 0 14px; text-wrap:balance; }
+  .rv-intro__lead { font-size:1.1rem; line-height:1.6; color:var(--rv-muted); max-width:36em; margin:0 auto 28px; text-wrap:balance; }
+  .rv-ratings { display:inline-flex; align-items:stretch; margin:0 0 28px; background:#fff; border:1px solid var(--rv-line); border-radius:18px; box-shadow:0 10px 28px rgba(35,23,17,.06); overflow:hidden; }
+  .rv-rating { display:flex; align-items:center; gap:14px; padding:14px 26px; color:var(--rv-ink); text-decoration:none; transition:background .15s; }
+  .rv-rating + .rv-rating { border-left:1px solid var(--rv-line); }
+  .rv-rating:hover { background:#fffaf5; color:var(--rv-ink); }
+  .rv-rating:focus-visible { outline:3px solid rgba(128,0,32,.35); outline-offset:-3px; }
+  .rv-rating__top { display:flex; align-items:center; gap:10px; }
+  .rv-rating .rv-platform svg { width:26px; height:26px; }
+  .rv-rating__num { font-size:1.8rem; font-weight:800; letter-spacing:-0.02em; line-height:1; }
+  .rv-rating__meta { display:flex; flex-direction:column; align-items:flex-start; gap:5px; }
+  .rv-rating__count { font-size:.78rem; font-weight:600; color:var(--rv-muted); white-space:nowrap; }
+  .rv-actions { display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:12px 22px; }
+  .rv-phone { font-weight:700; color:var(--burgundy); text-decoration:none; border-bottom:1px solid rgba(128,0,32,.25); }
+  .rv-phone:hover { color:var(--burgundy); border-bottom-color:var(--burgundy); }
 
-  /* Results */
-  .rv-results { background:#fff; padding:86px 0; }
-  .rv-results__grid { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:18px; }
-  .rv-result { margin:0; display:flex; flex-direction:column; background:var(--cream); border:1px solid #efe3d3; border-radius:20px; padding:26px 22px 22px; transition:transform .18s, box-shadow .18s; }
-  .rv-result:hover { transform:translateY(-3px); box-shadow:0 18px 36px rgba(35,23,17,.08); }
-  .rv-result__label { align-self:flex-start; font-size:.7rem; font-weight:800; letter-spacing:.12em; text-transform:uppercase; color:var(--burgundy); background:#fff; border:1px solid #f0dada; border-radius:999px; padding:5px 11px; margin:0 0 18px; }
-  .rv-result__jump { display:flex; align-items:center; flex-wrap:wrap; gap:4px 10px; margin:0 0 6px; }
-  .rv-result__from { font-size:1.35rem; font-weight:800; color:#a39a90; }
-  .rv-result__arrow { color:var(--burgundy); flex:none; }
-  .rv-result__to-group { display:inline-flex; align-items:center; gap:10px; white-space:nowrap; }
-  .rv-result__to { font-size:2.6rem; font-weight:800; letter-spacing:-0.03em; line-height:1; color:var(--burgundy); }
-  .rv-result__note { font-size:.84rem; color:var(--rv-muted); margin:0 0 16px; }
-  .rv-result__quote { margin:0 0 18px; font-family:var(--rv-serif); font-size:1rem; line-height:1.6; color:var(--rv-ink); }
-  .rv-result__who { margin-top:auto; padding-top:14px; border-top:1px solid #eadfce; display:flex; align-items:center; justify-content:space-between; gap:6px 10px; flex-wrap:wrap; font-size:.86rem; color:var(--rv-muted); }
-  .rv-result__who strong { color:var(--rv-ink); }
-  .rv-inline-cta { text-align:center; margin:38px 0 0; font-size:1.05rem; color:var(--rv-muted); }
-  .rv-inline-cta a { font-weight:700; color:var(--burgundy); text-decoration:none; border-bottom:1px solid rgba(128,0,32,.3); }
-  .rv-inline-cta a:hover { color:var(--burgundy); border-bottom-color:var(--burgundy); }
-
-  /* Themes */
-  .rv-themes { background:linear-gradient(180deg, #f6efe3 0%, var(--cream) 100%); padding:86px 0; border-top:1px solid var(--rv-line); }
-  .rv-themes__grid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:22px; }
-  .rv-theme { margin:0; display:flex; flex-direction:column; background:#fff; border:1px solid #f0e6da; border-radius:22px; padding:30px 28px 24px; box-shadow:0 16px 40px rgba(35,23,17,.07); }
-  .rv-theme__num { font-size:.74rem; font-weight:800; letter-spacing:.14em; color:var(--burgundy); margin:0 0 10px; }
-  .rv-theme__title { font-size:1.2rem; font-weight:800; letter-spacing:-0.01em; line-height:1.3; color:var(--rv-ink); margin:0 0 14px; }
-  .rv-theme__text { margin:0 0 22px; font-family:var(--rv-serif); font-size:1.02rem; line-height:1.65; color:#3b3530; }
-  .rv-theme__who { margin-top:auto; display:flex; align-items:center; gap:12px; padding-top:18px; border-top:1px solid #f1ebe2; }
-  .rv-theme__who .rv-platform { margin-left:auto; }
-
-  /* The wall */
-  .rv-wall-section { background:var(--cream); padding:86px 0 72px; border-top:1px solid var(--rv-line); }
-  .rv-filters { display:flex; flex-wrap:wrap; justify-content:center; gap:8px; margin:-6px auto 30px; }
-  .rv-chip { display:inline-flex; align-items:center; gap:8px; font:inherit; font-size:.9rem; font-weight:700; color:var(--rv-ink); background:#fff; border:1px solid var(--rv-line); border-radius:999px; padding:9px 12px 9px 16px; cursor:pointer; transition:border-color .15s, color .15s, background .15s; }
+  /* Filters */
+  .rv-filters { display:flex; flex-wrap:wrap; justify-content:center; gap:8px; margin:0 auto 26px; }
+  .rv-chip { display:inline-flex; align-items:center; gap:8px; flex:none; font:inherit; font-size:.9rem; font-weight:700; color:var(--rv-ink); background:#fff; border:1px solid var(--rv-line); border-radius:999px; padding:9px 12px 9px 16px; cursor:pointer; transition:border-color .15s, color .15s, background .15s; }
   .rv-chip:hover { border-color:#e6c9c9; color:var(--burgundy); }
   .rv-chip[aria-pressed="true"] { background:var(--burgundy); border-color:var(--burgundy); color:#fff; }
   .rv-chip__n { font-size:.74rem; font-weight:800; color:var(--burgundy); background:#f4ecec; border-radius:999px; padding:2px 8px; }
   .rv-chip[aria-pressed="true"] .rv-chip__n { color:#fff; background:rgba(255,255,255,.22); }
   .rv-chip:focus-visible, .rv-card__more:focus-visible { outline:3px solid rgba(128,0,32,.35); outline-offset:2px; }
+
+  /* The wall */
   .rv-wall { columns:3 300px; column-gap:18px; }
   .rv-wall > * { break-inside:avoid; margin:0 0 18px; }
   .rv-wall.is-js { columns:auto; display:flex; align-items:flex-start; gap:18px; }
@@ -155,207 +106,78 @@
   .rv-card__more { align-self:flex-start; font:inherit; font-size:.88rem; font-weight:700; color:var(--burgundy); background:none; border:0; border-bottom:1px solid rgba(128,0,32,.3); padding:0; cursor:pointer; }
   .rv-card__foot { display:flex; align-items:center; justify-content:space-between; gap:10px; padding-top:12px; border-top:1px solid #f1ebe2; }
   .rv-card__date { font-size:.78rem; color:#8b837a; }
-  .rv-cta { display:flex; flex-direction:column; gap:10px; border-radius:18px; padding:26px 24px; }
-  .rv-cta__title { margin:0; font-size:1.28rem; font-weight:800; letter-spacing:-0.01em; line-height:1.25; }
-  .rv-cta__body { margin:0 0 6px; font-size:.97rem; line-height:1.6; }
-  .rv-cta__btn { align-self:flex-start; display:inline-flex; align-items:center; padding:12px 18px; border-radius:10px; font-weight:800; font-size:.95rem; text-decoration:none; transition:transform .15s; }
-  .rv-cta__btn:hover { transform:translateY(-1px); }
-  .rv-cta--burgundy { background:linear-gradient(145deg, #8a0a2b 0%, #5A001F 100%); color:#fff; box-shadow:0 18px 40px rgba(90,0,31,.22); }
-  .rv-cta--burgundy .rv-cta__body { color:rgba(255,255,255,.86); }
-  .rv-cta--burgundy .rv-cta__btn, .rv-cta--burgundy .rv-cta__btn:hover { background:#fff; color:var(--burgundy); }
-  .rv-cta--ink { background:#1f1b18; color:#fff; }
-  .rv-cta--ink .rv-cta__body { color:rgba(255,255,255,.78); }
-  .rv-cta--ink .rv-cta__btn, .rv-cta--ink .rv-cta__btn:hover { background:var(--burgundy); color:#fff; }
-  .rv-cta--phone { background:#fff; border:2px solid var(--burgundy); color:var(--rv-ink); }
-  .rv-cta--phone .rv-cta__body { color:var(--rv-muted); }
-  .rv-cta__phone { align-self:flex-start; display:inline-flex; align-items:center; gap:10px; padding:12px 18px; border-radius:10px; background:var(--burgundy); color:#fff; font-weight:800; font-size:1.1rem; text-decoration:none; }
-  .rv-cta__phone:hover { background:#6a001a; color:#fff; }
-  .rv-cta__link { font-weight:700; font-size:.92rem; color:var(--burgundy); text-decoration:none; }
-  .rv-more { text-align:center; margin-top:16px; }
+
+  /* Booking cards: the same card as a review, so they sit in the wall
+     rather than shout over it. An icon where the avatar would be. */
+  .rv-card--cta { position:relative; overflow:hidden; gap:14px; padding:26px 22px 22px; border-color:#ecdada; box-shadow:0 12px 30px rgba(128,0,32,.07); }
+  .rv-card--cta::before { content:""; position:absolute; top:0; left:0; right:0; height:4px; background:linear-gradient(90deg, #800020, #a8324c); }
+  .rv-cta__icon { width:40px; height:40px; flex:none; border-radius:50%; background:#f7eaea; color:var(--burgundy); display:inline-flex; align-items:center; justify-content:center; }
+  .rv-cta__eyebrow { font-size:.68rem; font-weight:800; letter-spacing:.14em; color:var(--burgundy); }
+  .rv-cta__title { margin:2px 0 0; font-size:1.08rem; font-weight:800; line-height:1.3; color:var(--rv-ink); }
+  .rv-cta__body { margin:0; font-size:.95rem; line-height:1.6; color:var(--rv-muted); }
+  .rv-cta__btn { display:flex; align-items:center; justify-content:center; gap:10px; width:100%; padding:13px 16px; border-radius:10px; background:var(--burgundy); color:#fff; font-weight:800; font-size:.95rem; text-decoration:none; transition:background .15s, transform .15s; }
+  .rv-cta__btn:hover { background:#6a001a; color:#fff; transform:translateY(-1px); }
+
+  .rv-more { text-align:center; margin-top:18px; }
   .rv-more__status { margin:0 0 14px; font-size:.88rem; color:var(--rv-muted); }
   .rv-more__status:empty { display:none; }
 
-  /* Band */
-  .rv-band { position:relative; overflow:hidden; background:linear-gradient(120deg, #800020 0%, #5A001F 100%); color:#fff; padding:72px 0; text-align:center; }
-  .rv-band__deco { position:absolute; width:620px; height:620px; right:-180px; top:50%; transform:translateY(-50%); pointer-events:none; }
-  .rv-band__inner { position:relative; }
-  .rv-band h2 { color:#fff; font-size:clamp(1.7rem,3.6vw,2.5rem); font-weight:800; letter-spacing:-0.02em; margin:0 0 12px; text-wrap:balance; }
-  .rv-band p { color:rgba(255,255,255,.86); font-size:1.08rem; line-height:1.6; max-width:38em; margin:0 auto 28px; }
-  .rv-band__actions { display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:14px 24px; }
-  .rv-btn-light, .rv-btn-light:hover { background:#fff; border-color:#fff; color:var(--burgundy); }
-  .rv-band__phone { color:#fff; font-weight:700; text-decoration:none; border-bottom:1px solid rgba(255,255,255,.45); }
-  .rv-band__phone:hover { color:#fff; border-bottom-color:#fff; }
+  /* Closing */
+  .rv-closing { position:relative; overflow:hidden; max-width:720px; margin:64px auto 0; text-align:center; background:#fff; border:1px solid var(--rv-line); border-radius:24px; padding:46px 40px 36px; box-shadow:0 18px 44px rgba(35,23,17,.07); }
+  .rv-closing::before { content:""; position:absolute; top:0; left:0; right:0; height:4px; background:linear-gradient(90deg, #800020, #a8324c); }
+  .rv-closing h2 { font-size:clamp(1.6rem,3.2vw,2.1rem); font-weight:800; letter-spacing:-0.02em; line-height:1.2; color:var(--rv-ink); margin:0 0 10px; text-wrap:balance; }
+  .rv-closing__body { font-size:1.05rem; line-height:1.6; color:var(--rv-muted); max-width:32em; margin:0 auto 26px; text-wrap:balance; }
+  .rv-closing__assurance { font-size:.85rem; color:#8b837a; margin:20px 0 0; }
 
-  .rv-page .lvls-faq__body p a { color:var(--burgundy); font-weight:700; }
-
-  @media (max-width: 1060px) { .rv-results__grid { grid-template-columns:repeat(2,minmax(0,1fr)); } }
-  @media (max-width: 960px) {
-    .rv-hero { padding:48px 0 64px; }
-    .rv-hero__grid { grid-template-columns:1fr; gap:44px; }
-    .rv-hero__deco { display:none; }
-    .rv-themes__grid { grid-template-columns:1fr; max-width:580px; margin:0 auto; }
-  }
   @media (max-width: 560px) {
-    .rv-results, .rv-themes, .rv-wall-section { padding:60px 0; }
-    .rv-results__grid { grid-template-columns:1fr; }
-    .rv-score { flex:1 1 100%; }
-    .rv-feature { padding:38px 22px 24px; }
-    .rv-feature-stack::before { inset:16px -6px -12px 14px; }
-    .rv-feature__text { font-size:1.08rem; }
-    .rv-hero__actions .btn { width:100%; justify-content:center; text-align:center; }
-    .rv-filters { gap:6px; }
-    .rv-chip { font-size:.84rem; padding:7px 10px 7px 13px; gap:6px; }
+    .rv-page { padding:40px 0 64px; }
+    .rv-intro { margin-bottom:28px; }
+    .rv-intro__lead { font-size:1.02rem; margin-bottom:24px; }
+    .rv-ratings { display:flex; width:100%; }
+    .rv-rating { flex:1 1 0; flex-direction:column; justify-content:center; gap:8px; padding:14px 8px; }
+    .rv-rating__meta { align-items:center; }
+    .rv-rating__num { font-size:1.6rem; }
+    .rv-actions .btn { width:100%; justify-content:center; text-align:center; }
+    /* One row of filters that scrolls sideways, instead of three rows. */
+    .rv-filters { flex-wrap:nowrap; justify-content:flex-start; overflow-x:auto; margin:0 -16px 22px; padding:2px 16px 6px; scrollbar-width:none; -webkit-overflow-scrolling:touch; }
+    .rv-filters::-webkit-scrollbar { display:none; }
+    .rv-chip { font-size:.86rem; padding:8px 10px 8px 14px; }
+    .rv-closing { margin-top:48px; padding:38px 22px 30px; border-radius:20px; }
   }
 </style>
 
-<div class="rv-page">
+<section class="rv-page">
+  <div class="container">
 
-<!-- =============================================
-     HERO: the headline numbers, a featured review, the first call to book
-     ============================================= -->
-<section class="rv-hero">
-  <div class="container rv-hero__grid">
-    <div class="rv-hero__copy">
-      <p class="loc-eyebrow">{{ $p.hero.eyebrow }}</p>
-      <h1 class="rv-hero__title">{{ $p.hero.heading }}</h1>
-      <p class="rv-hero__lead">{{ $p.hero.lead }}</p>
-      <div class="rv-scores">
-        <a class="rv-score" href="{{ $gUrl }}" target="_blank" rel="noopener" aria-label="Rated {{ $gRating }} out of 5 from {{ $gCount }} Google reviews. Opens Google." data-track="review_platform_click" data-track-place="reviews_hero_google">
-          {{ partial "review-platform.html" (dict "source" "google" "icon_only" true) }}
-          <span class="rv-score__num">{{ $gRating }}</span>
-          <span class="rv-score__body">
+    <header class="rv-intro">
+      <p class="loc-eyebrow">{{ $p.eyebrow }}</p>
+      <h1>{{ $p.heading }}</h1>
+      <p class="rv-intro__lead">{{ $p.lead }}</p>
+      <div class="rv-ratings">
+        <a class="rv-rating" href="{{ $gUrl }}" target="_blank" rel="noopener" aria-label="Rated {{ $gRating }} out of 5 from {{ $gCount }} Google reviews. Opens Google." data-track="review_platform_click" data-track-place="reviews_header_google">
+          <span class="rv-rating__top">{{ partial "review-platform.html" (dict "source" "google" "icon_only" true) }}<span class="rv-rating__num">{{ $gRating }}</span></span>
+          <span class="rv-rating__meta">
             <span class="rv-stars rv-stars--google" aria-hidden="true">{{ $r := float $gRating }}{{ range seq 5 }}<span{{ if ge $r (float .) }} class="on"{{ end }}>&#9733;</span>{{ end }}</span>
-            <span class="rv-score__meta">{{ $gCount }} Google reviews</span>
+            <span class="rv-rating__count">{{ $gCount }} Google reviews</span>
           </span>
         </a>
-        <a class="rv-score" href="{{ $tpUrl }}" target="_blank" rel="noopener" aria-label="Rated {{ $tpScore }} out of 5 from {{ $tpCount }} Trustpilot reviews. Opens Trustpilot." data-track="review_platform_click" data-track-place="reviews_hero_trustpilot">
-          {{ partial "review-platform.html" (dict "source" "trustpilot" "icon_only" true) }}
-          <span class="rv-score__num">{{ $tpScore }}</span>
-          <span class="rv-score__body">
-            {{/* Whole and half stars drawn from the score, so the picture can
-                 never disagree with the number beside it. */}}
+        <a class="rv-rating" href="{{ $tpUrl }}" target="_blank" rel="noopener" aria-label="Rated {{ $tpScore }} out of 5 from {{ $tpCount }} Trustpilot reviews. Opens Trustpilot." data-track="review_platform_click" data-track-place="reviews_header_trustpilot">
+          <span class="rv-rating__top">{{ partial "review-platform.html" (dict "source" "trustpilot" "icon_only" true) }}<span class="rv-rating__num">{{ $tpScore }}</span></span>
+          <span class="rv-rating__meta">
+            {{/* Whole and half stars drawn from the score, so the picture
+                 can never disagree with the number beside it. */}}
             <span class="rv-stars rv-stars--trustpilot" aria-hidden="true">{{ $r := float $tpScore }}{{ range seq 5 }}<span class="{{ if ge $r (float .) }}on{{ else if gt $r (sub (float .) 0.5) }}half{{ end }}">&#9733;</span>{{ end }}</span>
-            <span class="rv-score__meta">{{ $tpCount }} Trustpilot reviews</span>
+            <span class="rv-rating__count">{{ $tpCount }} Trustpilot reviews</span>
           </span>
         </a>
       </div>
-      <div class="rv-hero__actions">
-        <a href="{{ $book }}" class="btn btn-primary btn-lg" data-track="book_call_click" data-track-place="reviews_hero">Book a free consultation</a>
-        <a href="{{ $tel }}" class="rv-hero__phone" data-track="click_to_call" data-track-place="reviews_hero">or call {{ $phone }}</a>
+      <div class="rv-actions">
+        <a href="{{ $book }}" class="btn btn-primary btn-lg" data-track="book_call_click" data-track-place="reviews_header">Book a free consultation</a>
+        <a href="{{ $tel }}" class="rv-phone" data-track="click_to_call" data-track-place="reviews_header">or call {{ $phone }}</a>
       </div>
-    </div>
+    </header>
 
-    <div class="rv-hero__feature">
-      <svg class="rv-hero__deco" viewBox="0 0 400 400" fill="none" aria-hidden="true"><circle cx="200" cy="200" r="190" stroke="#800020" stroke-width="1.5" stroke-dasharray="3 7" opacity="0.25"/><circle cx="200" cy="200" r="150" stroke="#800020" stroke-width="1" stroke-dasharray="2 6" opacity="0.18"/></svg>
-      {{ with $p.hero.featured }}
-      {{ $found := where (cond (eq .source "trustpilot") $tp $g) "name" .name }}
-      {{ if not $found }}{{ errorf "reviews page: no %s review from %q to feature in the hero" .source .name }}{{ end }}
-      {{ $r := index $found 0 }}
-      <div class="rv-feature-stack">
-        <figure class="rv-feature">
-          <span class="rv-stars rv-stars--{{ .source }}" role="img" aria-label="{{ $r.rating }} out of 5 stars">{{ range seq 5 }}<span{{ if le . (int $r.rating) }} class="on"{{ end }}>&#9733;</span>{{ end }}</span>
-          <blockquote class="rv-feature__text">{{ replace (htmlEscape $r.text) "\n" "<br>" | safeHTML }}</blockquote>
-          <figcaption class="rv-feature__who">
-            <span class="rv-avatar" style="background:#800020" aria-hidden="true">{{ upper (substr $r.name 0 1) }}</span>
-            <span><span class="rv-who__name">{{ $r.name }}</span>{{ with $r.role }}<span class="rv-who__role">{{ . }}</span>{{ end }}</span>
-            {{ partial "review-platform.html" .source }}
-          </figcaption>
-        </figure>
-      </div>
-      {{ end }}
-    </div>
-  </div>
-</section>
-
-<!-- =============================================
-     RESULTS: grade jumps quoted from the reviews that report them
-     ============================================= -->
-{{ with $p.results }}
-<section class="rv-results">
-  <div class="container">
-    <div class="rv-head">
-      <p class="loc-eyebrow">{{ .eyebrow }}</p>
-      <h2>{{ .heading }}</h2>
-      <p class="rv-head__intro">{{ .intro }}</p>
-    </div>
-    <div class="rv-results__grid">
-      {{ range .items }}
-      {{ $found := where (cond (eq .source "trustpilot") $tp $g) "name" .name }}
-      {{ if not $found }}{{ errorf "reviews page: no %s review from %q for a results card" .source .name }}{{ end }}
-      {{ $r := index $found 0 }}
-      {{/* Each quoted piece must appear in the review exactly as written, so
-           a results card can never put words in a parent's mouth. */}}
-      {{ range .quote }}{{ if not (in $r.text .) }}{{ errorf "reviews page: %q isn't in %s's review, word for word" . $r.name }}{{ end }}{{ end }}
-      {{ $q := delimit .quote " … " }}
-      {{ if findRE `^[a-z]` $q }}{{ $q = print "…" $q }}{{ end }}
-      <figure class="rv-result">
-        <p class="rv-result__label">{{ .label }}</p>
-        <p class="rv-result__jump">
-          <span class="rv-sr">From {{ .from }} to {{ .to }}</span>
-          <span class="rv-result__from" aria-hidden="true">{{ .from }}</span>
-          <span class="rv-result__to-group" aria-hidden="true">
-            <svg class="rv-result__arrow" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
-            <span class="rv-result__to">{{ .to }}</span>
-          </span>
-        </p>
-        <p class="rv-result__note">{{ .note }}</p>
-        <blockquote class="rv-result__quote">&ldquo;{{ $q }}&rdquo;</blockquote>
-        <figcaption class="rv-result__who">
-          <span><strong>{{ $r.name }}</strong>{{ with $r.role }}, {{ . }}{{ end }}</span>
-          {{ partial "review-platform.html" .source }}
-        </figcaption>
-      </figure>
-      {{ end }}
-    </div>
-    <p class="rv-inline-cta">{{ .cta_lead }} <a href="{{ $book }}" data-track="book_call_click" data-track-place="reviews_results">{{ .cta }} &rarr;</a></p>
-  </div>
-</section>
-{{ end }}
-
-<!-- =============================================
-     THEMES: three reviews that each say something families keep saying
-     ============================================= -->
-{{ with $p.themes }}
-<section class="rv-themes">
-  <div class="container">
-    <div class="rv-head">
-      <p class="loc-eyebrow">{{ .eyebrow }}</p>
-      <h2>{{ .heading }}</h2>
-    </div>
-    <div class="rv-themes__grid">
-      {{ range $i, $t := .items }}
-      {{ $found := where (cond (eq $t.source "trustpilot") $tp $g) "name" $t.name }}
-      {{ if not $found }}{{ errorf "reviews page: no %s review from %q for a theme" $t.source $t.name }}{{ end }}
-      {{ $r := index $found 0 }}
-      <figure class="rv-theme">
-        <p class="rv-theme__num">{{ printf "%02d" (add $i 1) }}</p>
-        <h3 class="rv-theme__title">{{ $t.title }}</h3>
-        <blockquote class="rv-theme__text">&ldquo;{{ replace (htmlEscape $r.text) "\n" "<br>" | safeHTML }}&rdquo;</blockquote>
-        <figcaption class="rv-theme__who">
-          <span class="rv-avatar" style="background:{{ index (slice "#5A8A8B" "#9D6E72" "#3E5C76") (mod $i 3) | safeCSS }}" aria-hidden="true">{{ upper (substr $r.name 0 1) }}</span>
-          <span><span class="rv-who__name">{{ $r.name }}</span>{{ with $r.role }}<span class="rv-who__role">{{ . }}</span>{{ end }}</span>
-          {{ partial "review-platform.html" $t.source }}
-        </figcaption>
-      </figure>
-      {{ end }}
-    </div>
-    <div class="rv-center">
-      <a href="{{ $book }}" class="btn btn-primary" data-track="book_call_click" data-track-place="reviews_themes">{{ .cta }}</a>
-    </div>
-  </div>
-</section>
-{{ end }}
-
-<!-- =============================================
-     THE WALL: every written review, with booking cards mixed in
-     ============================================= -->
-<section class="rv-wall-section" id="all-reviews">
-  <div class="container">
-    <div class="rv-head">
-      <p class="loc-eyebrow">{{ $p.wall.eyebrow }}</p>
-      <h2>{{ replace $p.wall.heading "{count}" (string $written) }}</h2>
-      <p class="rv-head__intro">{{ $p.wall.intro }}</p>
-    </div>
+    <h2 class="rv-sr">All {{ len $wall }} reviews</h2>
     <div class="rv-filters" role="group" aria-label="Filter the reviews">
       {{ range slice (slice "all" "All") (slice "parent" "Parents") (slice "student" "Students") (slice "gcse" "GCSE") (slice "alevel" "A-Level") (slice "university" "University") (slice "google" "Google") (slice "trustpilot" "Trustpilot") }}
       <button type="button" class="rv-chip" data-rv-filter="{{ index . 0 }}" aria-pressed="{{ if eq (index . 0) "all" }}true{{ else }}false{{ end }}" hidden>{{ index . 1 }} <span class="rv-chip__n" data-rv-count></span></button>
@@ -363,25 +185,38 @@
     </div>
 
     <div class="rv-wall" data-rv-wall>
-      {{ $ctas := $p.wall.ctas }}
+      {{ $ctas := $p.ctas }}
       {{ $k := 0 }}
       {{ range $i, $r := $wall }}
         {{ partial "review-card.html" (dict "r" $r "i" $i) }}
-        {{/* Booking cards after the 6th review and every 12th after that.
-             These are the no-JavaScript positions; the script re-deals them
-             through whatever the filters leave showing. */}}
+        {{/* These are the no-JavaScript positions; the script re-deals the
+             booking cards through whatever the filters leave showing. */}}
         {{ $n := add $i 1 }}
         {{ if and (lt $k (len $ctas)) (or (eq $n 6) (and (gt $n 6) (eq (mod (sub $n 6) 12) 0))) }}
           {{ $c := index $ctas $k }}
-          <aside class="rv-cta rv-cta--{{ $c.style }}" data-rv-cta>
-            <p class="rv-cta__title">{{ $c.heading }}</p>
+          <aside class="rv-card rv-card--cta" data-rv-cta aria-label="{{ $c.heading }}">
+            <div class="rv-card__head">
+              <span class="rv-cta__icon" aria-hidden="true">
+                {{ $icon := $c.icon | default (cond (eq $c.phone true) "phone" "calendar") }}
+                {{ if eq $icon "phone" }}
+                <svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
+                {{ else if eq $icon "calendar" }}
+                <svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18M9 16l2 2 4-4"/></svg>
+                {{ else }}
+                <svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="6" width="14" height="12" rx="2"/><path d="M16 10l6-4v12l-6-4"/></svg>
+                {{ end }}
+              </span>
+              <span class="rv-card__who">
+                <span class="rv-cta__eyebrow">{{ $c.eyebrow }}</span>
+                <span class="rv-cta__title">{{ $c.heading }}</span>
+              </span>
+            </div>
             <p class="rv-cta__body">{{ $c.body }}</p>
-            {{ if eq $c.style "phone" }}
-            <a class="rv-cta__phone" href="{{ $tel }}" data-track="click_to_call" data-track-place="reviews_wall">
-              <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
-              {{ $phone }}
+            {{ if $c.phone }}
+            <a class="rv-cta__btn" href="{{ $tel }}" data-track="click_to_call" data-track-place="reviews_wall">
+              <svg viewBox="0 0 24 24" width="17" height="17" fill="currentColor" aria-hidden="true"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
+              Call {{ $phone }}
             </a>
-            <a class="rv-cta__link" href="{{ $book }}" data-track="book_call_click" data-track-place="reviews_wall">{{ $c.button }} &rarr;</a>
             {{ else }}
             <a class="rv-cta__btn" href="{{ $book }}" data-track="book_call_click" data-track-place="reviews_wall">{{ $c.button }}</a>
             {{ end }}
@@ -395,149 +230,23 @@
       <p class="rv-more__status" data-rv-status aria-live="polite"></p>
       <button type="button" class="btn btn-outline" data-rv-more hidden>Show more reviews</button>
     </div>
-  </div>
-</section>
 
-<!-- =============================================
-     BAND: a call to book straight after the wall
-     ============================================= -->
-{{ with $p.band }}
-<section class="rv-band">
-  <svg class="rv-band__deco" viewBox="0 0 400 400" fill="none" aria-hidden="true"><circle cx="200" cy="200" r="190" stroke="#ffffff" stroke-width="1.5" stroke-dasharray="3 7" opacity="0.22"/><circle cx="200" cy="200" r="140" stroke="#ffffff" stroke-width="1" stroke-dasharray="2 6" opacity="0.16"/></svg>
-  <div class="container rv-band__inner">
-    <h2>{{ .heading }}</h2>
-    <p>{{ .body }}</p>
-    <div class="rv-band__actions">
-      <a href="{{ $book }}" class="btn btn-lg rv-btn-light" data-track="book_call_click" data-track-place="reviews_band">{{ .button }}</a>
-      <a href="{{ $tel }}" class="rv-band__phone" data-track="click_to_call" data-track-place="reviews_band">or call {{ $phone }}</a>
-    </div>
-  </div>
-</section>
-{{ end }}
-
-<!-- =============================================
-     FOUNDERS: so many reviews name Harry and Joe, so say who they are
-     ============================================= -->
-{{ with $p.founders }}
-<section class="lvls-about">
-  <div class="container">
-    <div class="lvls-about__inner">
-      <div class="lvls-about__photo">
-        {{ partial "responsive-image.html" (dict "src" "/images/co-founders.png" "alt" "Harry Godfrey and Joe Clark, co-founders of The Degree Gap, at the Prestige Awards" "loading" "lazy" "fallbackWidth" 600 "widths" (slice 280 560 840) "sizes" "(max-width: 720px) 220px, 280px" "quality" 78) }}
-        <span class="lvls-about__photo-caption">Harry &amp; Joe, co-founders</span>
+    <div class="rv-closing" id="book-consultation">
+      <h2>{{ $p.closing_heading }}</h2>
+      <p class="rv-closing__body">{{ $p.closing_body }}</p>
+      <div class="rv-actions">
+        <a href="{{ $book }}" class="btn btn-primary btn-lg" data-track="book_call_click" data-track-place="reviews_closing">Book a free consultation</a>
+        <a href="{{ $tel }}" class="rv-phone" data-track="click_to_call" data-track-place="reviews_closing">or call {{ $phone }}</a>
       </div>
-      <div class="lvls-about__copy">
-        <p class="lvls-about__eyebrow">WHO WE ARE</p>
-        <h2 class="lvls-about__title">{{ replace .heading "{count}" (string $hj) }}</h2>
-        {{ range .paragraphs }}<p>{{ . }}</p>{{ end }}
-        <a href="{{ $book }}" class="lvls-about__cta" data-track="book_call_click" data-track-place="reviews_founders">{{ .cta }} &rarr;</a>
-      </div>
+      <p class="rv-closing__assurance">{{ $p.closing_assurance }}</p>
     </div>
+
   </div>
 </section>
-{{ end }}
-
-<!-- =============================================
-     3 STEPS
-     ============================================= -->
-<section class="lvls-steps">
-  <div class="lvls-steps__deco" aria-hidden="true">
-    <svg viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <circle cx="200" cy="200" r="180" stroke="#800020" stroke-width="1.5" stroke-dasharray="3 7" opacity="0.22"/>
-      <circle cx="200" cy="200" r="130" stroke="#800020" stroke-width="1" stroke-dasharray="2 6" opacity="0.18"/>
-    </svg>
-  </div>
-  <div class="container">
-    <div class="lvls-steps__head">
-      <h2>{{ $p.steps_heading }}</h2>
-      <p>{{ $p.steps_lead }}</p>
-    </div>
-    <div class="lvls-steps__grid">
-      {{ range $i, $step := $p.steps }}
-      <article class="lvls-step">
-        <div class="lvls-step__visual">
-          <span class="lvls-step__num">{{ printf "%02d" (add $i 1) }}</span>
-          {{ if eq $i 0 }}
-          <svg class="lvls-step__icon" viewBox="0 0 64 64" fill="none" aria-hidden="true"><rect x="10" y="14" width="44" height="36" rx="4" stroke="currentColor" stroke-width="2.5"/><path d="M18 24h28M18 32h28M18 40h18" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/></svg>
-          {{ else if eq $i 1 }}
-          <svg class="lvls-step__icon" viewBox="0 0 64 64" fill="none" aria-hidden="true"><circle cx="32" cy="24" r="10" stroke="currentColor" stroke-width="2.5"/><path d="M14 52c2-9 10-14 18-14s16 5 18 14" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/></svg>
-          {{ else }}
-          <svg class="lvls-step__icon" viewBox="0 0 64 64" fill="none" aria-hidden="true"><rect x="8" y="14" width="48" height="32" rx="3" stroke="currentColor" stroke-width="2.5"/><path d="M22 54h20M32 46v8" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/><path d="M28 28l8 4-8 4v-8z" fill="currentColor"/></svg>
-          {{ end }}
-        </div>
-        <h3>{{ $step.title }}</h3>
-        <p>{{ $step.body }}</p>
-      </article>
-      {{ end }}
-    </div>
-    <div class="rv-center">
-      <a href="{{ $book }}" class="btn btn-primary btn-lg" data-track="book_call_click" data-track-place="reviews_steps">{{ $p.steps_cta }}</a>
-    </div>
-  </div>
-</section>
-
-<!-- =============================================
-     FAQ: the honest answers about the reviews themselves
-     ============================================= -->
-{{ with $p.faq_items }}
-<section class="lvls-faq">
-  <div class="lvls-faq__deco" aria-hidden="true">
-    <svg viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <circle cx="200" cy="200" r="190" stroke="#800020" stroke-width="2" stroke-dasharray="4 8" opacity="0.35"/>
-      <circle cx="200" cy="200" r="150" fill="#efe5d5"/>
-    </svg>
-  </div>
-  <div class="container">
-    <h2 class="lvls-faq__title">{{ $p.faq_heading | default "Read our FAQs" }}</h2>
-    <div class="lvls-faq__list">
-      {{ range $i, $faq := . }}
-      {{ $q := $faq.q }}{{ $a := $faq.a }}
-      {{ range $key, $val := $fill }}{{ $q = replace $q $key $val }}{{ $a = replace $a $key $val }}{{ end }}
-      <details class="lvls-faq__item"{{ if eq $i 0 }} open{{ end }}>
-        <summary class="lvls-faq__trigger">
-          <span class="lvls-faq__q">{{ $q }}</span>
-          <svg class="lvls-faq__chev" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>
-        </summary>
-        <div class="lvls-faq__body"><p>{{ $a | markdownify }}</p></div>
-      </details>
-      {{ end }}
-    </div>
-    <p class="lvls-faq__closer">
-      Still have a question? <a href="{{ $book }}" data-track="book_call_click" data-track-place="reviews_faq">Ask us on the consultation call →</a>
-    </p>
-  </div>
-</section>
-{{ end }}
-
-<!-- =============================================
-     CLOSING CALL TO BOOK
-     ============================================= -->
-<section class="lvls-cta" id="book-consultation">
-  <div class="container">
-    <div class="lvls-cta__inner">
-      <div class="lvls-cta__copy">
-        <p class="lvls-cta__eyebrow">Get started today</p>
-        <h2>{{ $p.final_heading | safeHTML }}</h2>
-        <p>{{ $p.final_body }}</p>
-        <a href="{{ $book }}" class="btn btn-primary btn-lg" data-track="book_call_click" data-track-place="reviews_final">Book Consultation</a>
-        <p class="lvls-cta__assurance">{{ $p.final_assurance }}</p>
-      </div>
-      <div class="lvls-cta__illustration" aria-hidden="true">
-        {{ partial "responsive-image.html" (dict "src" "/images/students-in-classroom-taking-notes.jpg" "alt" "Tutoring consultation with The Degree Gap" "loading" "lazy" "fallbackWidth" 700 "widths" (slice 400 700 1000) "sizes" "(min-width: 700px) 50vw, 100vw" "quality" 72) }}
-      </div>
-    </div>
-  </div>
-</section>
-
-</div><!-- /.rv-page -->
-
-{{/* No sticky booking bar: main.css hides .sj-sticky-cta site-wide on
-     purpose ("Hide the floating sticky CTA bar"), and adding it here would
-     also push the WhatsApp button up for a bar nobody sees. */}}
 
 <script>
 /* The wall. With the script running it becomes a masonry of columns that
-   each take the next card when they're the shortest, shows 12 reviews at a
+   each take the next card when they're the shortest, shows 18 reviews at a
    time, filters, and deals the booking cards in after the 6th review and
    every 12th after that. Nothing already on screen moves when more load. */
 (function () {
@@ -548,7 +257,7 @@
   var chips = [].slice.call(document.querySelectorAll('[data-rv-filter]'));
   var moreBtn = document.querySelector('[data-rv-more]');
   var status = document.querySelector('[data-rv-status]');
-  var STEP = 12, FIRST_CTA = 6, CTA_EVERY = 12;
+  var STEP = 18, FIRST_CTA = 6, CTA_EVERY = 12;
   var filter = 'all', shown = STEP, cols = [], placed = 0, ctaCache = [];
 
   function matches(f, el) {
@@ -649,7 +358,6 @@
     }, 150);
   });
 })();
-
 </script>
 
 {{ partial "ads-tracking.html" . }}
