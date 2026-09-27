@@ -1,49 +1,28 @@
-{{/* One card on the reviews wall (layouts/_default/reviews.html).
+{{/* One review on the reviews page wall (layouts/_default/reviews.html),
+     drawn as the house review card (.lvls-review-card, the same card as
+     the reviews carousel on the subject and location pages): circle
+     initial, first name, a burgundy label, the review in italics, who
+     wrote it, then the stars.
 
-     Takes (dict "r" review "i" index). The review is shown exactly as it is
-     in data/reviews.yaml or data/reviews-trustpilot.yaml. Long ones are only
-     clamped on screen, and only once the page's script is running, so with
-     JavaScript off every word is visible.
-
-     The data-* attributes feed the filter buttons. Who wrote it comes from
-     the role; the level comes from the role too, and only when the role
-     doesn't say does it fall back to the review naming GCSE or A-Level. */}}
+     Takes (dict "r" review "i" index). The text is exactly as it is in
+     data/reviews.yaml or data/reviews-trustpilot.yaml. Long reviews are
+     only clamped on screen, and only once the page's script is running,
+     so with JavaScript off every word shows. */}}
 {{ $r := .r }}
 {{ $i := .i | default 0 }}
 {{ $src := $r.source | default "google" }}
-{{ $role := $r.role | default "" }}
-
-{{ $who := "" }}
-{{ if or (in $role "Parent") (in $role "Grandparent") }}{{ $who = "parent" }}{{ else if in $role "Student" }}{{ $who = "student" }}{{ end }}
-
-{{ $levels := slice }}
-{{ if in $role "A-Level" }}{{ $levels = $levels | append "alevel" }}{{ end }}
-{{ if in $role "GCSE" }}{{ $levels = $levels | append "gcse" }}{{ end }}
-{{ if in $role "University" }}{{ $levels = $levels | append "university" }}{{ end }}
-{{ if not $levels }}
-  {{ $lt := lower $r.text }}
-  {{ if findRE `\ba[ -]?levels?\b` $lt }}{{ $levels = $levels | append "alevel" }}{{ end }}
-  {{ if findRE `\bi?gcse` $lt }}{{ $levels = $levels | append "gcse" }}{{ end }}
-{{ end }}
-
 {{ $rating := int ($r.rating | default 5) }}
-{{ $long := gt (len $r.text) 330 }}
-{{ $accents := slice "#800020" "#5A8A8B" "#9D6E72" "#3E5C76" "#B07A6F" "#6F7A4E" }}
+{{ $long := gt (len $r.text) 380 }}
+{{/* The carousel's own avatar colours, in the carousel's order. */}}
+{{ $accents := slice "#F4B400" "#B07A6F" "#5A8A8B" "#9D6E72" "#8B7E66" "#C28A4A" }}
+{{ $first := index (split $r.name " ") 0 }}
 
-<article class="rv-card{{ if $long }} is-long{{ end }}" data-rv-review data-source="{{ $src }}" data-who="{{ $who }}" data-level="{{ delimit $levels " " }}">
-  <header class="rv-card__head">
-    <span class="rv-avatar" style="background:{{ index $accents (mod $i (len $accents)) | safeCSS }}" aria-hidden="true">{{ upper (substr $r.name 0 1) }}</span>
-    <span class="rv-card__who">
-      <span class="rv-card__name">{{ $r.name }}</span>
-      {{ with $role }}<span class="rv-card__role">{{ . }}</span>{{ end }}
-    </span>
-    <span class="rv-stars rv-stars--{{ $src }}" role="img" aria-label="{{ $rating }} out of 5 stars">{{ range seq 5 }}<span{{ if le . $rating }} class="on"{{ end }}>&#9733;</span>{{ end }}</span>
-  </header>
-  {{ with $r.title }}{{ if not (strings.HasSuffix . "…") }}<p class="rv-card__title">{{ . }}</p>{{ end }}{{ end }}
-  <p class="rv-card__text" id="rv-text-{{ $i }}">{{ replace (htmlEscape $r.text) "\n" "<br>" | safeHTML }}</p>
+<article class="lvls-review-card rv-card{{ if $long }} is-long{{ end }}" data-rv-review>
+  <div class="lvls-review-card__avatar" style="background: {{ index $accents (mod $i (len $accents)) | safeCSS }};" aria-hidden="true"><span>{{ upper (substr $first 0 1) }}</span></div>
+  <h3 class="lvls-review-card__name">{{ $first }}</h3>
+  <p class="lvls-review-card__role">{{ cond (eq $rating 5) "Five-star" (printf "%s-star" (index (slice "No" "One" "Two" "Three" "Four") $rating)) }} {{ cond (eq $src "trustpilot") "Trustpilot" "Google" }} review</p>
+  <p class="lvls-review-card__quote" id="rv-text-{{ $i }}">"{{ replace (htmlEscape $r.text) "\n" "<br>" | safeHTML }}"</p>
   {{ if $long }}<button type="button" class="rv-card__more" data-rv-readmore aria-expanded="false" aria-controls="rv-text-{{ $i }}" hidden>Read more</button>{{ end }}
-  <footer class="rv-card__foot">
-    {{ partial "review-platform.html" $src }}
-    {{ with $r.date }}<span class="rv-card__date">{{ time.Format "January 2006" . }}</span>{{ end }}
-  </footer>
+  {{ with $r.role }}<p class="lvls-review-card__byline">{{ . }}</p>{{ end }}
+  <span class="lvls-review-card__stars" role="img" aria-label="{{ $rating }} out of 5 stars">{{ range seq 5 }}<span{{ if gt . $rating }} class="off"{{ end }}>&#9733;</span>{{ end }}</span>
 </article>

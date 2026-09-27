@@ -1,22 +1,22 @@
 {{ define "main" }}
 {{/*
-  Reviews page (content/reviews.md), at /study/reviews/.
+  Reviews page (content/reviews.md), at /study/reviews/: a wall of every
+  written review, drawn with the house testimonial card (.lvls-review-card,
+  the card in the reviews carousel on the subject and location pages), on
+  the same background as that carousel section.
 
-  The reviews are the page: a short header with both ratings, then every
-  written review from data/reviews.yaml (Google) and
-  data/reviews-trustpilot.yaml (Trustpilot), word for word, then a closing
-  call to book. Booking cards styled like the review cards are dealt into
-  the wall after the 6th review and every 12th after that, and every
-  booking link carries data-track so clicks reach GA4
-  (partials/ads-tracking.html).
+  Every review comes from data/reviews.yaml (Google) and
+  data/reviews-trustpilot.yaml (Trustpilot), word for word. Booking cards
+  drawn like the review cards are dealt in after the 6th review and every
+  12th after that, and every booking link carries data-track so clicks
+  reach GA4 (partials/ads-tracking.html).
 
-  With JavaScript off, every review shows, in CSS columns. With it on, the
-  wall becomes a masonry that shows 18 at a time, filters, and never moves
-  a card that's already on screen when more load.
+  With JavaScript off every review shows, in CSS columns. With it on, the
+  wall becomes a masonry that shows 24 at a time and never moves a card
+  that's already on screen when more load.
 
   No Review or AggregateRating schema on purpose: Google treats review
   markup about your own business as self-serving (see review-badges.html).
-  No sticky bar either: main.css hides .sj-sticky-cta site-wide on purpose.
 */}}
 {{ $p := .Params }}
 {{ $book := "book-a-call/" | relURL }}
@@ -30,9 +30,6 @@
 {{ $gCount := int site.Params.googleReviewCount }}
 {{ $gRating := site.Params.googleReviewRating }}
 {{ $gUrl := "https://share.google/Oq5KJu7wswxBZKspk" }}
-{{ $tpScore := $stats.trustpilotScore }}
-{{ $tpCount := int $stats.trustpilotCount }}
-{{ $tpUrl := $stats.trustpilotUrl }}
 
 {{/* Newest Google reviews first, a Trustpilot review after every fourth,
      and any Trustpilot reviews left over at the end. */}}
@@ -45,143 +42,88 @@
 {{ if lt $ti (len $tp) }}{{ range after $ti $tp }}{{ $wall = $wall | append . }}{{ end }}{{ end }}
 
 <style>
-  .rv-page { --rv-ink:#1f1b18; --rv-muted:#5f5a54; --rv-line:#ece4d4; --rv-gold:#F4B400; --rv-green:#00B67A;
-             background:var(--cream); padding:64px 0 96px; }
-  .rv-page .loc-eyebrow { font-size:0.72rem; font-weight:800; letter-spacing:0.14em; color:var(--burgundy); }
-  .rv-sr { position:absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap; border:0; }
+  .rv-page { padding:64px 0 96px; }
   .rv-page a:hover { text-decoration:none; }
 
-  /* Stars, platform marks, avatars */
-  .rv-stars { display:inline-flex; gap:2px; line-height:1; }
-  .rv-stars span { color:#d9d2c7; font-size:15px; }
-  .rv-stars--google span.on { color:var(--rv-gold); }
-  .rv-stars--trustpilot span { display:inline-flex; align-items:center; justify-content:center; width:17px; height:17px; font-size:11px; color:#fff; background:#dcdce6; }
-  .rv-stars--trustpilot span.on { background:var(--rv-green); }
-  .rv-stars--trustpilot span.half { background:linear-gradient(90deg, var(--rv-green) 50%, #dcdce6 50%); }
-  .rv-platform { display:inline-flex; align-items:center; gap:6px; font-size:.8rem; font-weight:700; color:var(--rv-muted); white-space:nowrap; }
-  .rv-avatar { width:40px; height:40px; flex:none; border-radius:50%; color:#fff; font-weight:800; font-size:1rem; display:inline-flex; align-items:center; justify-content:center; }
+  /* Heading row, laid out like the carousel's: title left, button right. */
+  .rv-head { display:flex; align-items:flex-end; justify-content:space-between; gap:24px 40px; flex-wrap:wrap; margin-bottom:40px; }
+  .rv-head h1 { font-size:clamp(2rem,3.6vw,2.8rem); line-height:1.1; font-weight:900; letter-spacing:-0.02em; color:var(--text); max-width:680px; margin:0; text-wrap:balance; }
+  .rv-rating { display:flex; flex-wrap:wrap; gap:8px 22px; margin:16px 0 0; }
+  .rv-rating a { display:inline-flex; align-items:center; gap:8px; color:var(--text-muted); font-size:.95rem; font-weight:600; }
+  .rv-rating a:hover { color:var(--text); }
+  .rv-rating strong { color:var(--text); font-weight:800; }
+  .rv-rating__stars { color:#F4B400; letter-spacing:2px; font-size:.95rem; }
+  .rv-head__cta { display:flex; flex-direction:column; align-items:center; gap:10px; flex-shrink:0; }
+  .rv-head__phone { margin:0; font-size:.88rem; color:var(--text-muted); }
+  .rv-head__phone a { color:var(--burgundy); font-weight:800; white-space:nowrap; }
 
-  /* Header */
-  .rv-intro { max-width:780px; margin:0 auto 34px; text-align:center; }
-  .rv-intro h1 { font-size:clamp(2.2rem,4.8vw,3.3rem); font-weight:800; letter-spacing:-0.035em; line-height:1.06; color:var(--rv-ink); margin:12px 0 14px; text-wrap:balance; }
-  .rv-intro__lead { font-size:1.1rem; line-height:1.6; color:var(--rv-muted); max-width:36em; margin:0 auto 28px; text-wrap:balance; }
-  .rv-ratings { display:inline-flex; align-items:stretch; margin:0 0 28px; background:#fff; border:1px solid var(--rv-line); border-radius:18px; box-shadow:0 10px 28px rgba(35,23,17,.06); overflow:hidden; }
-  .rv-rating { display:flex; align-items:center; gap:14px; padding:14px 26px; color:var(--rv-ink); text-decoration:none; transition:background .15s; }
-  .rv-rating + .rv-rating { border-left:1px solid var(--rv-line); }
-  .rv-rating:hover { background:#fffaf5; color:var(--rv-ink); }
-  .rv-rating:focus-visible { outline:3px solid rgba(128,0,32,.35); outline-offset:-3px; }
-  .rv-rating__top { display:flex; align-items:center; gap:10px; }
-  .rv-rating .rv-platform svg { width:26px; height:26px; }
-  .rv-rating__num { font-size:1.8rem; font-weight:800; letter-spacing:-0.02em; line-height:1; }
-  .rv-rating__meta { display:flex; flex-direction:column; align-items:flex-start; gap:5px; }
-  .rv-rating__count { font-size:.78rem; font-weight:600; color:var(--rv-muted); white-space:nowrap; }
-  .rv-actions { display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:12px 22px; }
-  .rv-phone { font-weight:700; color:var(--burgundy); text-decoration:none; border-bottom:1px solid rgba(128,0,32,.25); }
-  .rv-phone:hover { color:var(--burgundy); border-bottom-color:var(--burgundy); }
-
-  /* Filters */
-  .rv-filters { display:flex; flex-wrap:wrap; justify-content:center; gap:8px; margin:0 auto 26px; }
-  .rv-chip { display:inline-flex; align-items:center; gap:8px; flex:none; font:inherit; font-size:.9rem; font-weight:700; color:var(--rv-ink); background:#fff; border:1px solid var(--rv-line); border-radius:999px; padding:9px 12px 9px 16px; cursor:pointer; transition:border-color .15s, color .15s, background .15s; }
-  .rv-chip:hover { border-color:#e6c9c9; color:var(--burgundy); }
-  .rv-chip[aria-pressed="true"] { background:var(--burgundy); border-color:var(--burgundy); color:#fff; }
-  .rv-chip__n { font-size:.74rem; font-weight:800; color:var(--burgundy); background:#f4ecec; border-radius:999px; padding:2px 8px; }
-  .rv-chip[aria-pressed="true"] .rv-chip__n { color:#fff; background:rgba(255,255,255,.22); }
-  .rv-chip:focus-visible, .rv-card__more:focus-visible { outline:3px solid rgba(128,0,32,.35); outline-offset:2px; }
-
-  /* The wall */
-  .rv-wall { columns:3 300px; column-gap:18px; }
-  .rv-wall > * { break-inside:avoid; margin:0 0 18px; }
-  .rv-wall.is-js { columns:auto; display:flex; align-items:flex-start; gap:18px; }
-  .rv-wall.is-js > .rv-col { flex:1 1 0; min-width:0; margin:0; display:flex; flex-direction:column; gap:18px; }
+  /* The wall: the carousel card, laid out in columns. */
+  .rv-wall { columns:3 320px; column-gap:24px; }
+  .rv-wall > * { break-inside:avoid; margin:0 0 24px; }
+  .rv-wall.is-js { columns:auto; display:flex; align-items:flex-start; gap:24px; }
+  .rv-wall.is-js > .rv-col { flex:1 1 0; min-width:0; margin:0; display:flex; flex-direction:column; gap:24px; }
   .rv-col > * { margin:0; }
-  .rv-card { display:flex; flex-direction:column; gap:12px; background:#fff; border:1px solid var(--rv-line); border-radius:18px; padding:22px 22px 16px; box-shadow:0 8px 22px rgba(35,23,17,.05); }
-  .rv-card__head { display:flex; align-items:center; gap:12px; }
-  .rv-card__who { display:flex; flex-direction:column; flex:1; min-width:0; }
-  .rv-card__name { font-weight:800; color:var(--rv-ink); font-size:.98rem; line-height:1.25; overflow-wrap:anywhere; }
-  .rv-card__role { font-size:.8rem; color:var(--rv-muted); }
-  .rv-card__head .rv-stars { flex:none; align-self:flex-start; margin-top:3px; }
-  .rv-card__title { margin:0; font-weight:800; font-size:1rem; color:var(--rv-ink); }
-  .rv-card__text { margin:0; font-size:.97rem; line-height:1.65; color:#3b3530; overflow-wrap:anywhere; }
-  .rv-wall.is-js .rv-card.is-long:not(.is-open) .rv-card__text { display:-webkit-box; -webkit-line-clamp:8; -webkit-box-orient:vertical; overflow:hidden; }
-  .rv-card__more { align-self:flex-start; font:inherit; font-size:.88rem; font-weight:700; color:var(--burgundy); background:none; border:0; border-bottom:1px solid rgba(128,0,32,.3); padding:0; cursor:pointer; }
-  .rv-card__foot { display:flex; align-items:center; justify-content:space-between; gap:10px; padding-top:12px; border-top:1px solid #f1ebe2; }
-  .rv-card__date { font-size:.78rem; color:#8b837a; }
+  .rv-wall .lvls-review-card { flex:none; width:auto; scroll-snap-align:none; }
+  .rv-wall .lvls-review-card__stars span.off { color:#dcd3c6; }
+  .rv-wall.is-js .rv-card.is-long:not(.is-open) .lvls-review-card__quote { display:-webkit-box; -webkit-line-clamp:9; -webkit-box-orient:vertical; overflow:hidden; }
+  .rv-card__more { align-self:flex-start; margin:-8px 0 18px; padding:0; font:inherit; font-size:.88rem; font-weight:800; color:var(--burgundy); background:none; border:0; cursor:pointer; }
+  .rv-card__more:hover { text-decoration:underline; }
+  .rv-card__more:focus-visible { outline:2px solid var(--burgundy); outline-offset:3px; border-radius:2px; }
 
-  /* Booking cards: the same card as a review, so they sit in the wall
-     rather than shout over it. An icon where the avatar would be. */
-  .rv-card--cta { position:relative; overflow:hidden; gap:14px; padding:26px 22px 22px; border-color:#ecdada; box-shadow:0 12px 30px rgba(128,0,32,.07); }
-  .rv-card--cta::before { content:""; position:absolute; top:0; left:0; right:0; height:4px; background:linear-gradient(90deg, #800020, #a8324c); }
-  .rv-cta__icon { width:40px; height:40px; flex:none; border-radius:50%; background:#f7eaea; color:var(--burgundy); display:inline-flex; align-items:center; justify-content:center; }
-  .rv-cta__eyebrow { font-size:.68rem; font-weight:800; letter-spacing:.14em; color:var(--burgundy); }
-  .rv-cta__title { margin:2px 0 0; font-size:1.08rem; font-weight:800; line-height:1.3; color:var(--rv-ink); }
-  .rv-cta__body { margin:0; font-size:.95rem; line-height:1.6; color:var(--rv-muted); }
-  .rv-cta__btn { display:flex; align-items:center; justify-content:center; gap:10px; width:100%; padding:13px 16px; border-radius:10px; background:var(--burgundy); color:#fff; font-weight:800; font-size:.95rem; text-decoration:none; transition:background .15s, transform .15s; }
-  .rv-cta__btn:hover { background:#6a001a; color:#fff; transform:translateY(-1px); }
+  /* Booking cards: the same card, on white, with the burgundy circle. */
+  .rv-card--cta { background:var(--white); border-color:rgba(128,0,32,.28); box-shadow:0 12px 30px rgba(128,0,32,.08); }
+  .rv-card--cta .lvls-review-card__avatar { background:var(--burgundy); }
+  .rv-cta__text { margin:0 0 22px; font-size:.98rem; line-height:1.65; color:var(--text-muted); }
+  .rv-cta__btn { display:flex; align-items:center; justify-content:center; gap:10px; width:100%; padding:14px 18px; font-weight:800; }
+  .rv-cta__phone { margin:14px 0 0; text-align:center; font-size:.88rem; color:var(--text-muted); }
+  .rv-cta__phone a { color:var(--burgundy); font-weight:800; white-space:nowrap; }
 
-  .rv-more { text-align:center; margin-top:18px; }
-  .rv-more__status { margin:0 0 14px; font-size:.88rem; color:var(--rv-muted); }
+  .rv-more { text-align:center; margin-top:16px; }
+  .rv-more__status { margin:0 0 14px; font-size:.88rem; color:var(--text-muted); }
   .rv-more__status:empty { display:none; }
 
-  /* Closing */
-  .rv-closing { position:relative; overflow:hidden; max-width:720px; margin:64px auto 0; text-align:center; background:#fff; border:1px solid var(--rv-line); border-radius:24px; padding:46px 40px 36px; box-shadow:0 18px 44px rgba(35,23,17,.07); }
-  .rv-closing::before { content:""; position:absolute; top:0; left:0; right:0; height:4px; background:linear-gradient(90deg, #800020, #a8324c); }
-  .rv-closing h2 { font-size:clamp(1.6rem,3.2vw,2.1rem); font-weight:800; letter-spacing:-0.02em; line-height:1.2; color:var(--rv-ink); margin:0 0 10px; text-wrap:balance; }
-  .rv-closing__body { font-size:1.05rem; line-height:1.6; color:var(--rv-muted); max-width:32em; margin:0 auto 26px; text-wrap:balance; }
-  .rv-closing__assurance { font-size:.85rem; color:#8b837a; margin:20px 0 0; }
-
+  @media (max-width: 980px) {
+    .rv-head { flex-direction:column; align-items:flex-start; }
+    .rv-head__cta { align-items:flex-start; }
+  }
   @media (max-width: 560px) {
     .rv-page { padding:40px 0 64px; }
-    .rv-intro { margin-bottom:28px; }
-    .rv-intro__lead { font-size:1.02rem; margin-bottom:24px; }
-    .rv-ratings { display:flex; width:100%; }
-    .rv-rating { flex:1 1 0; flex-direction:column; justify-content:center; gap:8px; padding:14px 8px; }
-    .rv-rating__meta { align-items:center; }
-    .rv-rating__num { font-size:1.6rem; }
-    .rv-actions .btn { width:100%; justify-content:center; text-align:center; }
-    /* One row of filters that scrolls sideways, instead of three rows. */
-    .rv-filters { flex-wrap:nowrap; justify-content:flex-start; overflow-x:auto; margin:0 -16px 22px; padding:2px 16px 6px; scrollbar-width:none; -webkit-overflow-scrolling:touch; }
-    .rv-filters::-webkit-scrollbar { display:none; }
-    .rv-chip { font-size:.86rem; padding:8px 10px 8px 14px; }
-    .rv-closing { margin-top:48px; padding:38px 22px 30px; border-radius:20px; }
+    .rv-head { margin-bottom:28px; }
+    .rv-head__cta, .rv-head__cta .btn { width:100%; }
+    .rv-head__cta { align-items:center; }
+    .rv-head__cta .btn { text-align:center; }
+    .rv-wall .lvls-review-card { padding:28px 24px; }
   }
 </style>
 
-<section class="rv-page">
+<section class="lvls-reviews rv-page">
+  <div class="lvls-reviews__deco" aria-hidden="true">
+    <svg viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="200" cy="200" r="190" stroke="#800020" stroke-width="1.5" stroke-dasharray="3 7" opacity="0.22"/>
+      <circle cx="200" cy="200" r="150" fill="#efe5d5" opacity="0.55"/>
+    </svg>
+  </div>
   <div class="container">
 
-    <header class="rv-intro">
-      <p class="loc-eyebrow">{{ $p.eyebrow }}</p>
-      <h1>{{ $p.heading }}</h1>
-      <p class="rv-intro__lead">{{ $p.lead }}</p>
-      <div class="rv-ratings">
-        <a class="rv-rating" href="{{ $gUrl }}" target="_blank" rel="noopener" aria-label="Rated {{ $gRating }} out of 5 from {{ $gCount }} Google reviews. Opens Google." data-track="review_platform_click" data-track-place="reviews_header_google">
-          <span class="rv-rating__top">{{ partial "review-platform.html" (dict "source" "google" "icon_only" true) }}<span class="rv-rating__num">{{ $gRating }}</span></span>
-          <span class="rv-rating__meta">
-            <span class="rv-stars rv-stars--google" aria-hidden="true">{{ $r := float $gRating }}{{ range seq 5 }}<span{{ if ge $r (float .) }} class="on"{{ end }}>&#9733;</span>{{ end }}</span>
-            <span class="rv-rating__count">{{ $gCount }} Google reviews</span>
-          </span>
-        </a>
-        <a class="rv-rating" href="{{ $tpUrl }}" target="_blank" rel="noopener" aria-label="Rated {{ $tpScore }} out of 5 from {{ $tpCount }} Trustpilot reviews. Opens Trustpilot." data-track="review_platform_click" data-track-place="reviews_header_trustpilot">
-          <span class="rv-rating__top">{{ partial "review-platform.html" (dict "source" "trustpilot" "icon_only" true) }}<span class="rv-rating__num">{{ $tpScore }}</span></span>
-          <span class="rv-rating__meta">
-            {{/* Whole and half stars drawn from the score, so the picture
-                 can never disagree with the number beside it. */}}
-            <span class="rv-stars rv-stars--trustpilot" aria-hidden="true">{{ $r := float $tpScore }}{{ range seq 5 }}<span class="{{ if ge $r (float .) }}on{{ else if gt $r (sub (float .) 0.5) }}half{{ end }}">&#9733;</span>{{ end }}</span>
-            <span class="rv-rating__count">{{ $tpCount }} Trustpilot reviews</span>
-          </span>
-        </a>
+    <div class="rv-head">
+      <div>
+        <p class="loc-eyebrow">Reviews</p>
+        <h1>{{ $p.heading }}</h1>
+        <p class="rv-rating">
+          <a href="{{ $gUrl }}" target="_blank" rel="noopener" data-track="review_platform_click" data-track-place="reviews_head_google">
+            {{ partial "review-platform.html" (dict "source" "google" "icon_only" true) }}
+            <strong>{{ $gRating }}</strong><span class="rv-rating__stars" aria-hidden="true">★★★★★</span>{{ $gCount }} Google reviews
+          </a>
+          <a href="{{ $stats.trustpilotUrl }}" target="_blank" rel="noopener" data-track="review_platform_click" data-track-place="reviews_head_trustpilot">
+            {{ partial "review-platform.html" (dict "source" "trustpilot" "icon_only" true) }}
+            <strong>{{ $stats.trustpilotScore }}</strong>{{ $stats.trustpilotCount }} Trustpilot reviews
+          </a>
+        </p>
       </div>
-      <div class="rv-actions">
-        <a href="{{ $book }}" class="btn btn-primary btn-lg" data-track="book_call_click" data-track-place="reviews_header">Book a free consultation</a>
-        <a href="{{ $tel }}" class="rv-phone" data-track="click_to_call" data-track-place="reviews_header">or call {{ $phone }}</a>
+      <div class="rv-head__cta">
+        <a href="{{ $book }}" class="btn btn-primary btn-lg" data-track="book_call_click" data-track-place="reviews_head">Book a free consultation</a>
+        <p class="rv-head__phone">or call <a href="{{ $tel }}" data-track="click_to_call" data-track-place="reviews_head">{{ $phone }}</a></p>
       </div>
-    </header>
-
-    <h2 class="rv-sr">All {{ len $wall }} reviews</h2>
-    <div class="rv-filters" role="group" aria-label="Filter the reviews">
-      {{ range slice (slice "all" "All") (slice "parent" "Parents") (slice "student" "Students") (slice "gcse" "GCSE") (slice "alevel" "A-Level") (slice "university" "University") (slice "google" "Google") (slice "trustpilot" "Trustpilot") }}
-      <button type="button" class="rv-chip" data-rv-filter="{{ index . 0 }}" aria-pressed="{{ if eq (index . 0) "all" }}true{{ else }}false{{ end }}" hidden>{{ index . 1 }} <span class="rv-chip__n" data-rv-count></span></button>
-      {{ end }}
     </div>
 
     <div class="rv-wall" data-rv-wall>
@@ -189,36 +131,27 @@
       {{ $k := 0 }}
       {{ range $i, $r := $wall }}
         {{ partial "review-card.html" (dict "r" $r "i" $i) }}
-        {{/* These are the no-JavaScript positions; the script re-deals the
-             booking cards through whatever the filters leave showing. */}}
+        {{/* No-JavaScript positions; the script re-deals the booking cards
+             through however many reviews are showing. */}}
         {{ $n := add $i 1 }}
         {{ if and (lt $k (len $ctas)) (or (eq $n 6) (and (gt $n 6) (eq (mod (sub $n 6) 12) 0))) }}
           {{ $c := index $ctas $k }}
-          <aside class="rv-card rv-card--cta" data-rv-cta aria-label="{{ $c.heading }}">
-            <div class="rv-card__head">
-              <span class="rv-cta__icon" aria-hidden="true">
-                {{ $icon := $c.icon | default (cond (eq $c.phone true) "phone" "calendar") }}
-                {{ if eq $icon "phone" }}
-                <svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
-                {{ else if eq $icon "calendar" }}
-                <svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18M9 16l2 2 4-4"/></svg>
-                {{ else }}
-                <svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="6" width="14" height="12" rx="2"/><path d="M16 10l6-4v12l-6-4"/></svg>
-                {{ end }}
-              </span>
-              <span class="rv-card__who">
-                <span class="rv-cta__eyebrow">{{ $c.eyebrow }}</span>
-                <span class="rv-cta__title">{{ $c.heading }}</span>
-              </span>
+          <aside class="lvls-review-card rv-card rv-card--cta" data-rv-cta aria-label="{{ $c.title }}">
+            <div class="lvls-review-card__avatar" aria-hidden="true">
+              {{ if $c.phone }}
+              <svg viewBox="0 0 24 24" width="26" height="26" fill="currentColor"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
+              {{ else }}
+              <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18M9 16l2 2 4-4"/></svg>
+              {{ end }}
             </div>
-            <p class="rv-cta__body">{{ $c.body }}</p>
+            <p class="lvls-review-card__name">{{ $c.title }}</p>
+            <p class="lvls-review-card__role">{{ $c.label }}</p>
+            <p class="rv-cta__text">{{ $c.text }}</p>
             {{ if $c.phone }}
-            <a class="rv-cta__btn" href="{{ $tel }}" data-track="click_to_call" data-track-place="reviews_wall">
-              <svg viewBox="0 0 24 24" width="17" height="17" fill="currentColor" aria-hidden="true"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
-              Call {{ $phone }}
-            </a>
+            <a class="btn btn-primary rv-cta__btn" href="{{ $tel }}" data-track="click_to_call" data-track-place="reviews_wall">Call {{ $phone }}</a>
             {{ else }}
-            <a class="rv-cta__btn" href="{{ $book }}" data-track="book_call_click" data-track-place="reviews_wall">{{ $c.button }}</a>
+            <a class="btn btn-primary rv-cta__btn" href="{{ $book }}" data-track="book_call_click" data-track-place="reviews_wall">{{ $c.button }}</a>
+            <p class="rv-cta__phone">or call <a href="{{ $tel }}" data-track="click_to_call" data-track-place="reviews_wall">{{ $phone }}</a></p>
             {{ end }}
           </aside>
           {{ $k = add $k 1 }}
@@ -231,40 +164,24 @@
       <button type="button" class="btn btn-outline" data-rv-more hidden>Show more reviews</button>
     </div>
 
-    <div class="rv-closing" id="book-consultation">
-      <h2>{{ $p.closing_heading }}</h2>
-      <p class="rv-closing__body">{{ $p.closing_body }}</p>
-      <div class="rv-actions">
-        <a href="{{ $book }}" class="btn btn-primary btn-lg" data-track="book_call_click" data-track-place="reviews_closing">Book a free consultation</a>
-        <a href="{{ $tel }}" class="rv-phone" data-track="click_to_call" data-track-place="reviews_closing">or call {{ $phone }}</a>
-      </div>
-      <p class="rv-closing__assurance">{{ $p.closing_assurance }}</p>
-    </div>
-
   </div>
 </section>
 
 <script>
 /* The wall. With the script running it becomes a masonry of columns that
-   each take the next card when they're the shortest, shows 18 reviews at a
-   time, filters, and deals the booking cards in after the 6th review and
-   every 12th after that. Nothing already on screen moves when more load. */
+   each take the next card when they're the shortest, shows 24 reviews at a
+   time, and deals the booking cards in after the 6th review and every 12th
+   after that. Nothing already on screen moves when more load. */
 (function () {
   var wall = document.querySelector('[data-rv-wall]');
   if (!wall) return;
   var reviews = [].slice.call(wall.querySelectorAll('[data-rv-review]'));
   var ctaTemplates = [].slice.call(wall.querySelectorAll('[data-rv-cta]'));
-  var chips = [].slice.call(document.querySelectorAll('[data-rv-filter]'));
   var moreBtn = document.querySelector('[data-rv-more]');
   var status = document.querySelector('[data-rv-status]');
-  var STEP = 18, FIRST_CTA = 6, CTA_EVERY = 12;
-  var filter = 'all', shown = STEP, cols = [], placed = 0, ctaCache = [];
+  var STEP = 24, FIRST_CTA = 6, CTA_EVERY = 12;
+  var shown = STEP, cols = [], placed = 0, ctaCache = [];
 
-  function matches(f, el) {
-    if (f === 'all') return true;
-    var d = el.dataset;
-    return d.source === f || d.who === f || (' ' + (d.level || '') + ' ').indexOf(' ' + f + ' ') > -1;
-  }
   function ctaAt(k) {
     if (!ctaCache[k]) {
       var t = ctaTemplates[k % ctaTemplates.length];
@@ -273,14 +190,13 @@
     return ctaCache[k];
   }
   function sequence() {
-    var list = reviews.filter(function (el) { return matches(filter, el); });
-    var vis = list.slice(0, shown), seq = [], k = 0;
+    var vis = reviews.slice(0, shown), seq = [], k = 0;
     vis.forEach(function (el, i) {
       seq.push(el);
       var n = i + 1;
       if (ctaTemplates.length && (n === FIRST_CTA || (n > FIRST_CTA && (n - FIRST_CTA) % CTA_EVERY === 0))) seq.push(ctaAt(k++));
     });
-    return { seq: seq, total: list.length, count: vis.length };
+    return { seq: seq, count: vis.length };
   }
   function colCount() {
     var w = wall.clientWidth;
@@ -295,7 +211,7 @@
   function fitMore(card) {
     var b = card.querySelector('[data-rv-readmore]');
     if (!b || card.classList.contains('is-open')) return;
-    var t = card.querySelector('.rv-card__text');
+    var t = card.querySelector('.lvls-review-card__quote');
     b.hidden = t.scrollHeight <= t.clientHeight + 2;
   }
   function place() {
@@ -305,8 +221,8 @@
       fitMore(st.seq[i]);
     }
     placed = st.seq.length;
-    if (moreBtn) moreBtn.hidden = st.count >= st.total;
-    if (status) status.textContent = 'Showing ' + st.count + ' of ' + st.total + ' review' + (st.total === 1 ? '' : 's');
+    if (moreBtn) moreBtn.hidden = st.count >= reviews.length;
+    if (status) status.textContent = 'Showing ' + st.count + ' of ' + reviews.length + ' reviews';
   }
   function build() {
     var n = colCount();
@@ -322,20 +238,6 @@
     place();
   }
 
-  chips.forEach(function (b) {
-    var f = b.getAttribute('data-rv-filter');
-    var n = reviews.filter(function (el) { return matches(f, el); }).length;
-    var c = b.querySelector('[data-rv-count]');
-    if (c) c.textContent = n;
-    b.hidden = n === 0;
-    b.addEventListener('click', function () {
-      if (filter === f) return;
-      filter = f;
-      shown = STEP;
-      chips.forEach(function (x) { x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
-      build();
-    });
-  });
   if (moreBtn) moreBtn.addEventListener('click', function () { shown += STEP; place(); });
   wall.addEventListener('click', function (e) {
     var btn = e.target.closest ? e.target.closest('[data-rv-readmore]') : null;

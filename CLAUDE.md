@@ -1,5 +1,13 @@
 # The Degree Gap study site
 
+## Design: build from the house pieces
+
+New pages and page changes follow `.claude/reference/design.md`: the
+colours, type, cards, calls to action and page recipes taken from the
+subject and location pages (the `lvls-*` classes in `static/css/main.css`).
+Don't invent new colours, fonts or card styles for one page. Reviews always
+look like the testimonial card (`.lvls-review-card`), wherever they appear.
+
 ## Lists of links: 10 at most
 
 Any selection of links to other pages (chips, pills and card grids such as
