@@ -1,200 +1,84 @@
 ---
+# Voice pilot (27 Sep 2026): rewritten in the parent-chat voice from
+# .claude/reference/tone.md. Local detail stays, but only where a parent
+# would use it: the schools, the grammar tests, the villages nearby.
+# Reviews, links, images and the title are unchanged from before.
 title: "Watford Tutors | GCSE & A-Level from £37/hr"
-description: Find expert Watford tutors for GCSE and A-Level support.
-  Personalised tuition from £37/hr to help students achieve top grades and exam
-  success.
-layout: single
-location: Watford
-banner_heading: "Need an online GCSE or A-Level tutor in Watford who can actually move the grade?"
-banner_description: Our Watford tutors give students the individual attention a
-  busy classroom can't, with tutoring matched on subject, exam board and what
-  each student is aiming at.
-content_angle: competitive area
-intro_1: Watford has a school system most other Hertfordshire towns don't share.
-  Watford Grammar School for Boys and Watford Grammar School for Girls both use
-  partial aptitude selection at Year 7, with a proportion of places set aside on
-  academic and musical aptitude tests. That sits on top of a strong field of
-  state schools, faith schools and independents serving a commuter
-  town that runs straight into Euston in twenty minutes. The result is a
-  competitive catchment where parents have professional careers in London,
-  expectations to match, and a school system that doesn't always have the time
-  to meet them one-to-one.
-intro_2: Our Watford tutors fill that gap. One-to-one tuition gives students the
-  time to attempt harder questions, get specific feedback and rebuild any weak
-  topic before it becomes a problem. For students at the grammars, that means
-  stretching beyond what the classroom pace allows. For students at any other
-  secondary in Watford, it means giving ambition the one-to-one attention a
-  class of thirty rarely has room for. We match each family with a tutor who
-  knows the exam board and knows what a strong answer looks like.
-about_heading: GCSE and A-Level Tutors Covering Watford
-about_image: /images/group-study-discussion-with-laptop.jpg
-schools_intro: Our tutors support students from secondary schools right across
-  Watford. Watford Grammar School for Boys, Watford Grammar School for Girls,
-  Parmiter's School, Queens' School, St Michael's Catholic High School and
-  Westfield Academy all send students our way, whether they're preparing for
-  grammar school aptitude tests, working towards top GCSEs or building a strong
-  A-Level base for sixth form. We also run workshops on revision strategy and
-  exam technique, open to students from any local school.
+description: "Watford tutors for GCSE and A-Level, one-to-one and online. A free call with one of our founders first, then 2 or 3 tutor profiles within 24 hours. From £37."
+layout: "single"
+location: "Watford"
+banner_heading: "Online Watford Tutors for GCSE and A-Level, Matched to Your Child"
+banner_description: "If your child is working hard and the grades still aren't where you'd hoped, you're not alone, and it's usually more fixable than it feels right now. Book a free call and you'll speak to one of us, Harry or Joe, the founders of The Degree Gap. Within 24 hours you'll have profiles of two or three tutors we think will suit your child."
+content_angle: "reassurance: the same worry at every Watford school, answered warmly"
+intro_1: "We're Harry and Joe. We were both tutored growing up, and we each had two tutors, one brilliant and one who was only okay. So we learnt early that it isn't having a tutor that helps most. It's having the right one. That's the reason we started The Degree Gap, and it's why you'll choose from two or three tutors rather than being handed one."
+intro_2: "Here's how it works. First, a free call of around 30 minutes, where one of us gets to know you and your child: what's happening at school, what you've tried so far and how they like to learn. Within 24 hours of that call you'll have profiles of two or three tutors, and your child can meet your favourite on a free video call. Then it's a lesson a week, from £37, with no contract. And if your child doesn't click with their tutor, we'll find someone else, with no charge and no awkward conversation."
+about_heading: "GCSE and A-Level Tutors Covering Watford"
+about_image: "/images/group-study-discussion-with-laptop.jpg"
+schools_intro: "We work with families from schools right across Watford, including Watford Grammar School for Boys, Watford Grammar School for Girls, Parmiter's, Queens', St Michael's Catholic High School and Westfield Academy. Every school picks its own exam boards, so we'll check your child's on the call and only suggest tutors who know them. Not sure which board they're on? It's usually printed on the front of a mock paper. We also work directly with more than 15 UK secondary schools, running revision and exam technique workshops."
 schools:
-  - Watford Grammar School for Boys
-  - Watford Grammar School for Girls
-  - Parmiter's School
-  - Queens' School
-  - St Michael's Catholic High School
-  - Westfield Academy
-schools_image: /images/students-listening-in-classroom.jpg
-online_heading: "Online tutoring for Watford students: specialist tutors matched on exam board"
-online_1: Most of our Watford tuition runs online through Lessonspace, a shared
-  whiteboard platform built for one-to-one work. Watford families aren't limited
-  to whoever happens to drive over from the next town. For a niche A-Level like
-  Further Maths or Politics, or a senior examiner for GCSE English Literature,
-  we pull from a national pool of online tutors and match precisely on subject,
-  exam board and teaching style.
-online_2: And online tuition suits a Watford household running on commuter time.
-  Parents back from London at 7pm, sessions at 7.30pm, no extra drive. Past
-  papers get marked on the whiteboard live, with the student seeing exactly
-  where the marks are being lost. Most students concentrate harder one-to-one
-  online than they do in a class of thirty, and the weekly consistency of online
-  tutoring is easier to maintain than in-person work.
-online_image: /images/student-studying-on-bed-with-laptop.jpg
-map_url: https://maps.google.com/maps?q=Watford,UK&output=embed
-areas_intro: The Degree Gap works with students from Watford and surrounding
-  towns, matching each family with the tutor best suited to their subject and
-  goals.
+  - "Watford Grammar School for Boys"
+  - "Watford Grammar School for Girls"
+  - "Parmiter's School"
+  - "Queens' School"
+  - "St Michael's Catholic High School"
+  - "Westfield Academy"
+schools_image: "/images/students-listening-in-classroom.jpg"
+online_heading: "How online tutoring works for Watford families"
+online_1: "Lessons are one-to-one and online, using a platform called Lessonspace. Your child and the tutor write on the same whiteboard, so the tutor can see every step of their working and help the moment something goes wrong. Every lesson has a replay too, which is really handy for going back over a method the night before a test. Most children are comfortable with it by the end of their first lesson."
+online_2: "Being online also means we can choose from tutors right across the UK, so if your child needs someone for a less common A-Level like Further Maths or Politics, we're not stuck with whoever happens to live nearby. And nobody's doing a school-night drive across town, so lessons fit around clubs, sport and tea rather than the other way round."
+online_image: "/images/student-studying-on-bed-with-laptop.jpg"
+map_url: "https://maps.google.com/maps?q=Watford,UK&output=embed"
+areas_intro: "Wherever you are around Watford, from Oxhey and Garston to Kings Langley and Rickmansworth, lessons work the same way. We also help families in the towns below."
 area_links:
-  - St Albans Tutors|/locations/st-albans-tutors/
-  - Aylesbury Tutors|/locations/aylesbury-tutors/
-  - Reading Tutors|/locations/reading-tutors/
-  - Oxford Tutors|/locations/oxford-tutors/
-  - Cambridge Tutors|/locations/cambridge-tutors/
-  - Epsom Tutors|/locations/epsom-tutors/
+  - "St Albans Tutors|/locations/st-albans-tutors/"
+  - "Aylesbury Tutors|/locations/aylesbury-tutors/"
+  - "Reading Tutors|/locations/reading-tutors/"
+  - "Oxford Tutors|/locations/oxford-tutors/"
+  - "Cambridge Tutors|/locations/cambridge-tutors/"
+  - "Epsom Tutors|/locations/epsom-tutors/"
 gcse_subjects:
-  - GCSE Maths Tuition|Stretch tutoring across number, algebra and statistics
-    across the whole mark band, not just a comfortable pass.|/book-a-call/
-  - GCSE Biology Tuition|Detailed work across the full specification for
-    students who want to walk into the exam confident on the harder six and
-    nine-mark questions.|/book-a-call/
-  - GCSE English Tuition|Sharp tutoring across Language and Literature for
-    students who want a method that holds up under exam timing, not just in calm
-    conditions at home.|/book-a-call/
-  - GCSE Chemistry Tuition|Precise one-to-one work through bonding, equations
-    and rates broken down at whatever level the student is sitting
-    at.|/book-a-call/
-  - GCSE Physics Tuition|Tutoring through forces, waves and electromagnetism
-    built around the application questions that decide the highest
-    grades.|/book-a-call/
-  - GCSE Computer Science Tuition|One-to-one work through programming,
-    algorithms and Boolean logic for students who want both NEA and written
-    paper to land at the top end.|/book-a-call/
-  - GCSE History Tuition|Source skills, essay structure and extended argument,
-    taught by tutors who know what a grade 9 history answer actually looks
-    like.|/book-a-call/
-  - GCSE Geography Tuition|Case study revision, data response and nine-mark
-    question technique, with tutoring that turns subject knowledge into the
-    marks the mark scheme actually awards.|/book-a-call/
-  - GCSE French Tuition|Structured tutoring across all four skills for students
-    aiming high in writing and speaking, where the easy marks at the top end get
-    missed most often.|/book-a-call/
+  - "GCSE Maths Tuition|We find the method that never quite clicked, often from Year 8 or 9, and build up from there at your child's pace.|/book-a-call/"
+  - "GCSE Biology Tuition|The six-mark answers and required practicals, which is where most Biology marks quietly slip away.|/book-a-call/"
+  - "GCSE English Tuition|Quotations that actually stick, and essays planned and finished inside the time, for Language and Literature.|/book-a-call/"
+  - "GCSE Chemistry Tuition|Bonding, equations and calculations, taken one line at a time so your child can see where the working goes wrong.|/book-a-call/"
+  - "GCSE Physics Tuition|Rearranging equations and using them in unfamiliar questions, practised until it stops feeling like guesswork.|/book-a-call/"
+  - "GCSE Computer Science Tuition|Programming, algorithms and the written papers, picked up from wherever your child lost the thread.|/book-a-call/"
+  - "GCSE History Tuition|Source questions and longer essays, with a simple way to plan an answer before the writing starts.|/book-a-call/"
+  - "GCSE Geography Tuition|Case studies learnt in enough detail to use, and the longer answers planned before a word goes down.|/book-a-call/"
+  - "GCSE French Tuition|Vocabulary that sticks, and calm, regular practice for the speaking exam, which worries most students more than it needs to.|/book-a-call/"
 alevel_subjects:
-  - A-Level Maths Tuition|Focused tutoring across pure, statistics and mechanics
-    for students who want to stay ahead of Year 13 content before it gets
-    unmanageable.|/book-a-call/
-  - A-Level Economics Tuition|Micro, macro and evaluation writing for students
-    who want Economics to be the strongest part of their UCAS
-    application.|/book-a-call/
-  - A-Level Chemistry Tuition|Step-by-step tutoring through organic, inorganic
-    and physical chemistry for students preparing for medicine, dentistry or
-    natural sciences.|/book-a-call/
-  - A-Level Biology Tuition|In-depth support through genetics, physiology and
-    ecology for students aiming at medicine or a competitive bioscience
-    degree.|/book-a-call/
-  - A-Level Physics Tuition|Patient, exam-board-aware tuition through mechanics,
-    fields and quantum topics for students aiming at engineering or physics at a
-    top university.|/book-a-call/
-  - A-Level Psychology Tuition|Methodical work through research methods and
-    evaluation writing for students who want to write with precision, not just
-    at length.|/book-a-call/
-  - A-Level English Tuition|Critical analysis and essay writing at A-Level,
-    taught by tutors who know what markers reward at the top end of the mark
-    scheme.|/book-a-call/
-  - A-Level History Tuition|Help with the analytical essay writing A-Level
-    History demands, for students who want to write essays that hold up under
-    timing, alongside history-led university applications.|/book-a-call/
-  - A-Level Geography Tuition|Advanced concept work, fieldwork analysis and
-    extended writing, with tutors who pitch sessions at whatever level the
-    student is sitting at.|/book-a-call/
+  - "A-Level Maths Tuition|Pure, statistics and mechanics, with lots of practice at choosing the right method, not just following one.|/book-a-call/"
+  - "A-Level Economics Tuition|Clear diagrams, and essays that go beyond the first obvious point, which is what examiners look for.|/book-a-call/"
+  - "A-Level Chemistry Tuition|Organic reactions and multi-step calculations, where the jump from GCSE tends to hit hardest.|/book-a-call/"
+  - "A-Level Biology Tuition|Long written answers and practical skills, worked through on real past papers until they feel familiar.|/book-a-call/"
+  - "A-Level Physics Tuition|Mechanics, fields and the maths underneath, so an unfamiliar question stops looking impossible.|/book-a-call/"
+  - "A-Level Psychology Tuition|Research methods and evaluation, written the way the exam rewards, without writing twice as much.|/book-a-call/"
+  - "A-Level English Tuition|Close reading and essays that answer the actual question, shaped for the exam board your child is sitting.|/book-a-call/"
+  - "A-Level History Tuition|Essay planning, sources and interpretations, with each practice essay marked and talked through.|/book-a-call/"
+  - "A-Level Geography Tuition|The coursework write-up and the long essays, planned properly before your child starts writing.|/book-a-call/"
 other_subjects:
-  - University Personal Statement|Shape a strong UCAS personal statement with
-    expert support on structure, subject motivation, and final
-    polish.|/book-a-call/
-faq_1_q: Do you support students aiming for grammar or independent schools in Watford?
-faq_1_a: Yes. We work with students preparing for the Watford Grammar Schools'
-  aptitude tests, the 11+ and competitive sixth form entry. Tutors know what
-  these schools are looking for and prepare students accordingly, not just on
-  content but on how to perform under timed conditions.
-faq_2_q: What exam boards do your tutors cover?
-faq_2_a: AQA, Edexcel, OCR and WJEC. When we match a student with a tutor in
-  Watford, exam board knowledge is part of the criteria. We don't just match on
-  subject.
-faq_3_q: Can tutors help with GCSE mock preparation in Watford?
-faq_3_a: Yes. Mocks are one of the most common reasons families come to us.
-  Tutors work through past papers, tighten exam technique and focus on the
-  topics most likely to come up. Students go in knowing what to expect.
-faq_4_q: How quickly can tuition start in Watford?
-faq_4_a: Usually within a few days of getting in touch. Once we know the
-  subject, year group and what the student needs, we move quickly. No long
-  waiting lists.
-why_heading: Why Watford families choose our GCSE and A-Level tutoring
-why_para_1: Watford's two grammar schools each take around 175 Year 7s a year on
-  a mix of academic and aptitude scores. Students who get in have already been
-  pushed to perform on a test. Students who don't get in often spend the GCSE
-  years working twice as hard to prove the test wasn't the end of the story.
-  Watford tutors see both ends of that pattern in a first session, and the work
-  isn't usually about content. It's about confidence, pace, and the small
-  technical moves that actually reward a tighter answer answers.
-why_para_2: Our tutors give those students the missing layer. Sessions often
-  open with a recent piece of work, marked the way the exam board marks, so the
-  student sees exactly where the marks are being left untaken. GCSE tutoring
-  drills the technical moves that lift grade 7 answers into the 8 to 9 band.
-  A-Level tuition focuses on the evaluation writing, the synoptic links and the
-  precision examiners actually reward. For students preparing for the Watford
-  Grammar aptitude tests or competitive sixth form entry, we work on timed
-  conditions early so the test doesn't feel new on the day.
-accordion_quality: Every tutor working with Watford students is assessed on
-  subject depth and on exam-board fluency. For an aptitude test, GCSE or A-Level
-  paper, a tutor who knows the specification and mark scheme cold is the
-  difference between general help and real grade movement.
-accordion_experience: Our tutors have prepared students for Watford Grammar
-  aptitude tests, competitive sixth form entry, Russell Group applications and
-  Oxbridge offers. They know the standard those processes expect and how to
-  coach a student towards it without overloading them.
-accordion_personalised: We don't run set programmes. For a Watford student,
-  tutoring is shaped around the specific test, exam board or target grade, with
-  sessions that move at the pace the student actually needs, not a generic plan.
+  - "University Personal Statement|A UCAS personal statement that still sounds like your child, with help from the first rough plan to the final read-through.|/book-a-call/"
+faq_1_q: "My child is sitting the Watford Grammar tests. Can you help with that?"
+faq_1_a: "Yes. On the call we'll ask what your child is sitting and how they're feeling about it, then suggest tutors who know the Watford Grammar entry tests well. Plenty of calm, timed practice means nothing on the day feels new, and that tends to settle nerves more than anything. We also help older students who are applying for a sixth form place."
+faq_2_q: "We're in Bushey, not Watford itself. Can you still help?"
+faq_2_a: "Yes, of course. Every lesson is online, so it makes no difference whether you're in Watford, Bushey, Croxley Green, Abbots Langley or further out. Lessons happen at home, at a time that suits your family."
+faq_3_q: "How much does it cost?"
+faq_3_a: "Lessons start from £37 an hour. The exact price depends on the tutor, and we'll always agree it with you before anything is booked. There's no contract, no joining fee and nothing to pay upfront. The call with us is free, and so is the video call where your child meets the tutor. After that you just pay for the lessons you have, and you can pause or stop whenever you like."
+faq_4_q: "My child doesn't really want a tutor. Is that normal?"
+faq_4_a: "Very normal, and it's probably the thing parents mention most. Most teenagers picture another school lesson, and that usually changes once they meet the tutor, because it feels nothing like one. There's one person, their full attention and nobody else watching. That's why your child meets the tutor on a free video call before anything is booked. If it really isn't working after a couple of lessons, you simply stop."
+why_heading: "Why Watford families choose our GCSE and A-Level tutoring"
+why_para_1: "Most Watford parents get in touch at the same sort of moment. A mock comes home lower than anyone expected, or parents' evening leaves you with a nagging feeling that one subject is slipping. Sometimes it's a child who got into one of the grammars and has lost a bit of confidence now they're no longer top of the class. Sometimes it's a child at another school in town who's working hard and still stuck on the same grade. Either way, it's rarely about effort or ability."
+why_para_2: "Usually there's something older underneath, like an algebra method from Year 8 or a way of planning essays that never quite went in, and everything since has been built on top of it. So the tutor's first proper lesson looks at a recent mock or piece of homework to find it, and the plan comes from that rather than the next chapter of the textbook. Parents tend to notice the change at home before it shows in a mark. Homework stops being such a battle, and you start hearing things like 'that actually made sense'."
+accordion_quality: "We interview every tutor ourselves, and only around 3% of the people who apply make it onto the platform. Good grades aren't enough on their own. We're looking for people who can explain a tricky idea calmly to a teenager who's already feeling a bit lost."
+accordion_experience: "Most of the tutors we'd suggest for your child have at least two years of one-to-one teaching behind them, across AQA, Edexcel, OCR and WJEC. Between them they've helped children through the grammar schools' entry tests, Year 11 mocks, sixth form applications and the step up to A-Level."
+accordion_personalised: "There's no set programme. The tutor looks at where things stand in the first lesson, lets you know what they've found and builds the next few weeks around it. If your child needs to catch up, the pace is gentle. If they're ready to be stretched, it moves faster."
 reviews:
-  - Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone
-    above and beyond to pair both my sons with the appropriate tutors, all of
-    whom have been exceptional. Both my sons exceeded their expected grades in
-    their GCSEs and A Levels and got into their first choice universities. I
-    cannot recommend them highly enough.
-  - Ellen|Parent of GCSE Student|My daughter was struggling with confidence in
-    Maths GCSE and we decided to get a tutor. We were given a selection of
-    tutors to choose from and told that if it did not feel like a good match we
-    could try others. Our tutor was a complete star, listened, made it simple,
-    set good homework and gave my daughter her confidence back. Highly
-    recommend.
-  - Daljit|Parent of A-Level Student|My son gained almost two grades higher than
-    his year 13 mock paper. His tutor was excellent.
-  - Joanna|Parent of A-Level Student|The A level tutoring made such a difference
-    to my son, who had left studying until the final hour, managing to turn E
-    and U grades into 3 C grades. Amazing.
-  - Augusta|Parent of GCSE Student|The support given to my son by The Degree
-    Gap's tutors was fabulous and he passed all his GCSE subjects. They provided
-    experienced and organised tutors. Tutors provided resources targeting
-    specific areas of difficulty. The website is easy to use and tutors were
-    polite and on time.
-  - Theresa|Parent|The Degree Gap was fantastic. Their knowledge and guidance
-    helped my son find direction in both his studies and future plans.
+  - "Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional. Both my sons exceeded their expected grades in their GCSEs and A Levels and got into their first choice universities. I cannot recommend them highly enough."
+  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. We were given a selection of tutors to choose from and told that if it did not feel like a good match we could try others. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than his year 13 mock paper. His tutor was excellent."
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing."
+  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."
+  - "Theresa|Parent|The Degree Gap was fantastic. Their knowledge and guidance helped my son find direction in both his studies and future plans."
 sitemap:
   priority: 0.8
   changefreq: monthly
