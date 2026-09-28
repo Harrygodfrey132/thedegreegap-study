@@ -1,40 +1,40 @@
 ---
 title: "Aldershot GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "Online GCSE tutors covering Aldershot for Year 10 and Year 11, matched on exam board. Built for students who have changed schools mid-course. From £37/hr."
+description: "Aldershot GCSE tutors who find the topic a school move left behind. One-to-one lessons online, from £37 an hour with no contract. Start with a free call."
 layout: "subject"
 location: "Aldershot"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors Covering Aldershot"
-hero_lead: "A student who has changed school partway through Year 10 has gaps nobody put there on purpose, and the syllabus does not go back for them. Our Aldershot GCSE tutors work online, weekly, on finding the join first."
+hero_heading_line1: "Online Aldershot GCSE Tutors Who Find the Topic Your Child Missed"
+hero_lead: "Is Maths homework taking all evening and still coming back wrong? If your child has changed schools along the way, there's often one topic they simply never met. Our Aldershot GCSE tutors find it first, then build forward from there."
 
 grade_from: "4"
 grade_to: "6"
-grade_stat: "The kind of movement a term of weekly one-to-one hours is usually pointed at, once the missing block underneath has been rebuilt."
+grade_stat: "A 4 up to a 6 is what a couple of terms of weekly lessons usually aims for. The climb starts once the missing topic's back in place."
 
-first_lesson_eyebrow: "WHY THE GAP IS RARELY THIS TERM'S TOPIC"
-first_lesson_heading: "The Join Nobody Went Back For"
-first_lesson_context: "In a first session with an Aldershot Year 11 we work backwards rather than forwards. A student who cannot do trigonometry usually cannot rearrange a formula, and a student who cannot rearrange a formula often missed a term of algebra somewhere between two schools. That is not a knowledge problem or an effort problem, it is a scheduling accident, and it stays invisible because the class has no reason to revisit it. One-to-one is the only setting where going back three terms for one student is possible at all, which is most of why an hour a week can move a grade a whole classroom could not."
+first_lesson_eyebrow: "TWO SCHOOLS, ONE MISSING TOPIC"
+first_lesson_heading: "What an Aldershot GCSE Tutor Checks After a School Move"
+first_lesson_context: "Every school teaches the course in its own order, so a move in Year 10 can mean missing a topic like simultaneous equations entirely. Through nobody's fault, it won't show until the harder work built on it stops making sense. So an Aldershot GCSE tutor works backwards from recent mistakes to find that gap."
 first_lesson_quote: "The Degree Gap took time to understand my child's worries. They paired me with Connor, who my daughter got on well with. Her confidence has skyrocketed since. Thanks again."
 first_lesson_quote_name: "Dawn"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "GCSE"
 
-tutor_strip_heading: "Aldershot GCSE tutors matched on the specification your child sits now"
-tutor_strip_body: "Hampshire schools sit across AQA, Edexcel and OCR, and a student who has moved may have started on one and be finishing on another. We confirm the current board before suggesting anyone, and where a move is in play we look for tutors who have taught the subject on both. Around three in every hundred applicants make it onto the platform, and the interview mostly tests whether they can explain clearly when a student is stuck. Browse profiles, or let us match your child."
+tutor_strip_heading: "Aldershot GCSE tutors who know more than one exam board"
+tutor_strip_body: "Hampshire schools use a mix of AQA, Edexcel and OCR, so a move can mean a new exam board mid-course. Mention your child's old board on your free call with Harry or Joe. Within 24 hours you'll see two or three tutors who know both."
 
-pathways_heading: "Where Aldershot Year 11s Go Next"
-pathways_lead: "Three routes, and what each one publishes."
+pathways_heading: "Where Aldershot Teenagers Go at 16"
+pathways_lead: "The three routes most families here look at, and what they each ask for."
 pathways:
   - title: "Sixth Forms"
     body: >
-      Most of the town's Year 11s head to Farnborough Sixth Form College, with Alton College drawing others and some students staying on locally. Each sets its own entry requirements by subject and revises them between years, and Maths and the Sciences generally ask for more than the rest, so work from this year's admissions page rather than a friend's recollection.
+      Most Aldershot Year 11s go on to Farnborough Sixth Form College, while Alton College suits some and others stay on locally. Each sets its own entry grades subject by subject, and they can shift from year to year.
   - title: "Apprenticeships"
     body: >
-      The aerospace and defence employers around Farnborough take engineering and technical apprentices, and the Army offers its own entry routes locally. Published minimum grades in Maths and English are the usual gate, and technical entries generally want the Sciences alongside.
+      Around Farnborough, the aerospace and defence employers take on engineering apprentices, and the Army has its own ways in. Most set a minimum grade in Maths and English, and you'll often see a Science asked for on technical roles.
   - title: "Further Education"
     body: >
-      Farnborough College of Technology covers Level 3 vocational and applied routes across engineering, digital, health and business. GCSE Maths and English resits run alongside, and students below a grade 4 in either are normally expected to keep studying them post-16.
+      At Farnborough College of Technology, the Level 3 courses cover everything from engineering to health and business. A grade under 4 in Maths or English just means your child keeps studying it there, on top of their main course.
 
 reviews:
   - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."

@@ -1,40 +1,40 @@
 ---
 title: "Aldershot A-Level Tutors | Online One-to-One | The Degree Gap"
-description: "Online A-Level tutors covering Aldershot for Year 12 and Year 13, matched on exam board and module. Predicted grades, UCAS and apprenticeships. From £37/hr."
+description: "Aldershot A-Level tutors, online and one-to-one, for the predicted grades universities and apprenticeships look at. From £37 an hour, and no contract."
 layout: "subject"
 location: "Aldershot"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors Covering Aldershot"
-hero_lead: "The first two terms of Year 12 decide the predicted grade, and the predicted grade decides which offers arrive at all. Our Aldershot A-Level tutors work online, weekly, on getting that number honest early."
+hero_heading_line1: "Online A-Level Tutors in Aldershot for the Year That Sets Predicted Grades"
+hero_lead: "Lots of teenagers treat Year 12 as a warm-up. But the predicted grades on your child's applications lean heavily on it. Aldershot A-Level tutors on our platform can pick up a shaky subject now, while there's time to move it."
 
 grade_from: "C"
 grade_to: "A"
-grade_stat: "The kind of movement a year of weekly one-to-one A-Level hours is built around, whether that starts from a difficult Year 12 or a solid grade that needs more."
+grade_stat: "A C to an A takes time, and weekly lessons from early in Year 12 give it the most room."
 
-first_lesson_eyebrow: "WHY YEAR 12 MATTERS MORE THAN IT LOOKS"
-first_lesson_heading: "The Grade Is Predicted Before It Is Earned"
-first_lesson_context: "Almost every route out of sixth form reads a number that is set long before any real paper is sat. University offers turn on the prediction. The engineering and defence apprenticeships around Farnborough ask for one too, often earlier in the year than UCAS does. So a Year 12 who is coping rather than secure has less runway than the calendar suggests, and the first place that shows is the January mock. What we do in a first session is look at working rather than answers, because that is where the difference between coping and secure is visible while there is still time to act on it."
+first_lesson_eyebrow: "BEFORE THE UCAS FORM GOES IN"
+first_lesson_heading: "Why Start A-Level Tutoring in Year 12?"
+first_lesson_context: "Universities make offers on predicted grades, and the degree apprenticeships around Farnborough often want them even earlier in the year. So if a subject's wobbling, Year 12 is the easiest time to sort it, though Year 13 isn't too late. For engineering routes, Maths tends to carry the most weight."
 first_lesson_quote: "My son gained almost two grades higher than his year 13 mock paper. His tutor Jacob was excellent."
 first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "A-Level"
 
-tutor_strip_heading: "Aldershot A-Level tutors matched on board and module, not just subject"
-tutor_strip_body: "At A-Level the specialist pool is much thinner than at GCSE, and Mechanics and Statistics are not interchangeable any more than organic and physical chemistry are. We confirm the board and the module order before suggesting anyone. Around three in every hundred applicants make it onto the platform, and many are qualified examiners who have marked the papers your child will sit. Browse profiles, or let us match your child."
+tutor_strip_heading: "Aldershot A-Level tutors, each one interviewed by Harry and Joe"
+tutor_strip_body: "Tell us your child's subjects and exam boards on a free call. Within a day of that call, two or three profiles will be with you. Then comes a free video meeting, where your child can meet the tutor before anything's booked."
 
-pathways_heading: "What Comes After A-Levels in Aldershot"
-pathways_lead: "Three routes, and what each one rests on."
+pathways_heading: "Where Aldershot A-Levels Can Take Your Child"
+pathways_lead: "There's no rush to choose, but it helps to know what each route looks at."
 pathways:
   - title: "Universities"
     body: >
-      Surrey, Southampton, Reading and the London institutions are all within reach, and the fast links make a wider set of options realistic than the map suggests. Competitive courses turn on the predicted grade before the achieved one, and for Medicine, Dentistry, Veterinary and Oxbridge the deadline is 15 October rather than January, which pulls the whole timetable into Year 12's summer.
+      Surrey, Southampton and Reading are all within reach, and London's universities are a quick train ride away. For Medicine, Dentistry, Vet Science or Oxbridge, UCAS closes on 15 October, so the summer after Year 12 gets busy.
   - title: "Degree Apprenticeships"
     body: >
-      The aerospace and defence employers around Farnborough run higher and degree apprenticeship routes, and the Army offers technical and professional entry locally. Each publishes its own entry requirements, they move between intakes, and Maths carries the most weight on technical entries.
+      Aerospace and defence employers around Farnborough run degree apprenticeships, and the Army has technical and professional routes in. Their entry grades vary from scheme to scheme and can move between intakes, so check the current ones.
   - title: "Career Pathways"
     body: >
-      Some students go straight into technical and logistics roles with the same employers, or into the services. Gap years used to strengthen a reapplication are common too, especially where a competitive course was missed by a single grade first time.
+      Some go straight into technical or logistics work with those same employers, and others join the services. A few take a year out and reapply to university, often for a course they only just missed.
 
 reviews:
   - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
