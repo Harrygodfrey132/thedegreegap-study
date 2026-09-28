@@ -10,3 +10,6 @@ resources/_gen/
 *service-account*.json
 client_secret*.json
 gsc_*.json
+
+# Python bytecode from running scripts/check-pages.py
+__pycache__/
