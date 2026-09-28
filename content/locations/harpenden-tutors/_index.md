@@ -1,16 +1,16 @@
 ---
 title: "Harpenden Online Tutors | Expert Support | The Degree Gap"
-description: "Harpenden tutoring for GCSE and A-Level students. One-to-one tutors who stretch students past the class pace, matched on subject, exam board and target grade."
+description: "When GCSE or A-Level gets harder, Harpenden tutoring can help. Online one-to-one lessons from £37 with no contract, after a free call with our founders."
 layout: single
 location: Harpenden
-banner_heading: "Online Harpenden tutoring built for the stretch a class of 30 can't give"
-banner_description: "Our Harpenden tutoring is built around the specific stretch each student needs next, with tutors matched on subject, exam board and target grade."
-content_angle: "ambition"
-intro_1: "Harpenden parents tend to come to us with a particular kind of worry. Their child is doing well. The school is good. The teachers are doing their job. But by Year 10, the gap between what their child is capable of and what a class of 30 can be pushed to has opened up, and they can see it. A grade 7 in a mock isn't a problem in most parts of the country. In Harpenden, where most peers are doing A-Levels and most of those A-Levels are pointed at Russell Group universities, it can feel like the start of one."
-intro_2: "Our Harpenden tutors work with students on closing that specific gap. The work isn't usually about content. The school's covered the content. It's about what a class working at the middle pace doesn't get to, the analytical depth, the harder application questions, the timed essay structure that decides where a grade 8 student lands versus a grade 9. Sir John Lawes, St George's, Roundwood Park and the catchment schools across St Albans all send students our way, working at every level from solid GCSE foundations to A* push at A-Level."
+banner_heading: "GCSE or A-Level Suddenly Harder? Online Harpenden Tutors for the Step Up"
+banner_description: "Lots of capable children hit a wall in Year 10 or Year 12. It's normal, and the right tutor can help them over it."
+content_angle: "the step up: a capable, busy Harpenden child who hits a wall in Year 10 or at the jump to A-Level"
+intro_1: "For years it came easily. Homework done before tea, good reports, no fuss. Then Year 10 arrived, or the first term of A-Levels, and now your child is at the desk for two hours on something that used to take twenty minutes, and bringing home marks they've never had before. If that's your house at the moment, you're in good company. Plenty of your child's friends in Harpenden will be staying on for A-Levels, often with Russell Group universities in mind, so a dip at the step up can feel alarming. It happens to far more children than you'd guess."
+intro_2: "Your child is probably working harder than ever. The trouble is the questions have changed shape. GCSE papers start asking them to use an idea somewhere they've never seen it, and A-Level wants an argument where GCSE wanted a list. A tutor can teach that new skill directly, one question type at a time, on the exam board your child actually sits. Some weeks the whole lesson is a single six-mark 'explain why' question, pulled apart line by line."
 about_heading: "Personalised GCSE and A-Level Tutoring for Harpenden Students"
 about_image: /images/graduation-ceremony-caps.jpg
-schools_intro: "Tutors who work with us support students from the secondary schools across Harpenden and the wider St Albans catchment. Sir John Lawes School, St George's School, Roundwood Park School, Sandringham School, St Albans Girls' School and Beaumont School all send students our way, whether they're working at the top of the GCSE mark band, pushing for the A-Level grades a Russell Group offer demands, or building a strong Year 12 foundation. We also run free workshops on revision strategy and exam technique, open to students from any local school."
+schools_intro: "Tutors on our platform teach children from Sir John Lawes, St George's and Roundwood Park, as well as Sandringham, St Albans Girls' School and Beaumont in the wider St Albans catchment. With that many schools in the mix, one friendship group can be sitting several exam boards, so the first thing we'll ask is which boards your child sits. We also run free workshops on revision and exam technique, open to pupils from any school nearby."
 schools:
   - Sir John Lawes School
   - St George's School Harpenden
@@ -19,12 +19,12 @@ schools:
   - St Albans Girls' School
   - Beaumont School
 schools_image: /images/aerial-school-campus-building.jpg
-online_heading: "Online tutoring for Harpenden students that matches on subject and standard"
-online_1: "Most of our work with Harpenden families runs online through Lessonspace, our shared whiteboard built for one-to-one sessions. The best A-Level Chemistry tutor for an A* push student isn't necessarily the one who lives nearest. We match on subject, exam board and the kind of teaching the student responds to, then sessions run from home, with no commute on either side. For families juggling sport, music and the rest of a typical Harpenden week, that matters."
-online_2: "And online tutoring keeps weekly sessions consistent, which is where most of the grade movement actually happens. No travel, no dropped sessions when the day runs long, and most students concentrate harder one-to-one online than they do in a busy classroom. Every session is recorded so students can revisit the bits that didn't quite land. Lessonspace takes about a minute to learn."
+online_heading: "Online tutoring for a Harpenden week that's already full"
+online_1: "Your child and the tutor share one whiteboard on Lessonspace, the platform every lesson runs on. The tutor can watch an essay plan or a titration calculation take shape on screen and step in at the exact line it drifts. Online also widens the choice. The best A-Level Chemistry tutor for your child doesn't need to live anywhere near Harpenden, and usually won't."
+online_2: "And with sport, music and everything else a Harpenden week holds, losing the drive matters. A lesson can start ten minutes after training finishes. Each one is recorded too, so when the Year 12 notes stop making sense at 10pm, your child can replay the bit where the tutor explained it rather than sitting there stuck."
 online_image: /images/online-study-workspace-with-coffee.jpg
 map_url: "https://maps.google.com/maps?q=Harpenden,UK&output=embed"
-areas_intro: "Because most of our tuition is online, students in Harpenden and the wider area can access the right subject specialist without being limited by which tutors happen to live nearby."
+areas_intro: "Families nearby in St Albans, Hemel Hempstead, Hatfield or Welwyn Garden City get exactly the same lessons, and so does everyone in the other towns below."
 area_links:
   - St Albans Tutors|/locations/st-albans-tutors/
   - Welwyn Garden City Tutors|/locations/welwyn-garden-city-tutors/
@@ -33,41 +33,41 @@ area_links:
   - Stevenage Tutors|/locations/stevenage-tutors/
   - Watford Tutors|/locations/watford-tutors/
 gcse_subjects:
-  - GCSE Maths Tuition|Advanced problem solving across algebra, geometry and statistics for students pushing towards the top grade boundaries.|/book-a-call/
-  - GCSE English Tuition|Critical analysis, comparative essay structure and unseen prose, taught for every level of the mark band, not the average.|/book-a-call/
-  - GCSE Biology Tuition|Detailed work across the full specification for students who want the six and nine-mark questions to land at the top.|/book-a-call/
-  - GCSE Chemistry Tuition|Precise tutoring through bonding, equations and rates of reaction broken down at whatever level the student is sitting at.|/book-a-call/
-  - GCSE Physics Tuition|Forces, fields and electromagnetism, built around the application questions that separate a 7 from a 9.|/book-a-call/
-  - GCSE History Tuition|Source skills and extended argument, taught by tutors who know what a grade 9 history answer actually looks like.|/book-a-call/
-  - GCSE Geography Tuition|Case study revision, data response and nine-mark question technique, anchored to what the mark scheme actually rewards.|/book-a-call/
-  - GCSE French Tuition|All four skills, with the speaking and writing prep where the top marks for Harpenden students are decided.|/book-a-call/
-  - GCSE Computer Science Tuition|Programming, algorithms and Boolean logic for students who want both the NEA and the written paper to land at the top end.|/book-a-call/
+  - "GCSE Maths Tuition|The harder algebra and multi-step problems that arrive in Year 10, with the older methods they depend on checked first.|/book-a-call/"
+  - "GCSE English Tuition|Unseen texts and comparison essays, the parts of GCSE English where memorised answers stop working.|/book-a-call/"
+  - "GCSE Biology Tuition|The move from learning facts to explaining processes, with six-mark questions practised until your child needs no prompting.|/book-a-call/"
+  - "GCSE Chemistry Tuition|Moles and quantitative chemistry, where GCSE Chemistry turns properly mathematical and confident children often wobble.|/book-a-call/"
+  - "GCSE Physics Tuition|Electricity and the required practicals, with enough equation practice that Year 11 questions stop feeling like tricks.|/book-a-call/"
+  - "GCSE History Tuition|Longer essays and source work as the course starts asking for judgement, with every practice answer marked and explained.|/book-a-call/"
+  - "GCSE Geography Tuition|Case studies your child can bend to fit the question, and extended answers that weigh evidence instead of listing it.|/book-a-call/"
+  - "GCSE French Tuition|The step from phrases learnt by heart to sentences your child can build, which is what speaking and writing reward.|/book-a-call/"
+  - "GCSE Computer Science Tuition|Algorithms and programming as they get more abstract through Years 10 and 11, at a pace that fits a busy week.|/book-a-call/"
 alevel_subjects:
-  - A-Level Biology Tuition|In-depth tutoring through genetics, physiology and ecology for students aiming at medicine, dentistry or competitive bioscience offers.|/book-a-call/
-  - A-Level Chemistry Tuition|Step-by-step work through organic, inorganic and physical chemistry for students preparing for medicine, dentistry or natural sciences.|/book-a-call/
-  - A-Level Maths Tuition|Pure, statistics and mechanics tutoring for students aiming at engineering, economics or maths at a Russell Group university.|/book-a-call/
-  - A-Level Physics Tuition|Mechanics, fields and quantum topics, taught by tutors with engineering and physics backgrounds at Russell Group level.|/book-a-call/
-  - A-Level Economics Tuition|Micro, macro and evaluation writing for students who want Economics to be the strongest part of their UCAS application.|/book-a-call/
-  - A-Level Psychology Tuition|Research methods and AO3 evaluation writing for students who want to write precisely under timed conditions.|/book-a-call/
-  - A-Level History Tuition|Analytical essay writing at A-Level, taught by tutors who pitch sessions at whatever level the student is sitting at.|/book-a-call/
-  - A-Level English Tuition|Critical analysis and comparative essay structure, taught by tutors who've marked these papers themselves.|/book-a-call/
-  - A-Level Geography Tuition|Concept work, fieldwork analysis and extended writing for students pushing past an A into an A*.|/book-a-call/
+  - "A-Level Biology Tuition|The sheer volume of Year 12 content made manageable, with long answers practised whether or not medicine is on the cards.|/book-a-call/"
+  - "A-Level Chemistry Tuition|The GCSE-to-A-Level jump in Chemistry, mostly organic mechanisms and equilibria, tackled week by week before it snowballs.|/book-a-call/"
+  - "A-Level Maths Tuition|Proof and calculus for a child who's suddenly unsure how to start a question, however GCSE Maths went.|/book-a-call/"
+  - "A-Level Physics Tuition|The maths inside A-Level Physics, practised alongside the physics itself, for engineering hopefuls and anyone finding Year 12 a shock.|/book-a-call/"
+  - "A-Level Economics Tuition|Essay writing from scratch for a subject many first meet in Year 12, with diagrams drilled until they're automatic.|/book-a-call/"
+  - "A-Level Psychology Tuition|AO3 evaluation built up from the first essay of Year 12, so it's a habit long before the exams.|/book-a-call/"
+  - "A-Level History Tuition|From GCSE answers to A-Level arguments: interpretations and timed essays, marked and discussed every week.|/book-a-call/"
+  - "A-Level English Tuition|Critical views and close analysis used with confidence, so your child's essays argue a case instead of retelling the plot.|/book-a-call/"
+  - "A-Level Geography Tuition|The independent investigation planned early, alongside the synoptic essays that tie the whole course together.|/book-a-call/"
 other_subjects:
-  - University Personal Statement|Shape a strong UCAS personal statement with expert support on structure, subject motivation, and final polish.|/book-a-call/
-faq_1_q: "Do you offer online tutoring for students in Harpenden?"
-faq_1_a: "Yes, and it's how most of our sessions run. Students get access to a wider pool of tutors, sessions are easier to keep consistent, and most students concentrate better one-to-one online than they do in a classroom. It works well."
-faq_2_q: "What qualifications do your tutors have?"
-faq_2_a: "All our tutors are graduates, many from Russell Group universities. Every tutor is vetted individually before working with students, on subject knowledge, how they explain things, and how they work with young people. A degree alone isn't enough."
-faq_3_q: "How much does tutoring cost in Harpenden?"
-faq_3_a: "Sessions start from £37 per hour. The exact rate depends on the subject and the tutor, and it's always agreed before anything is booked. No surprises, no hidden fees."
-faq_4_q: "Is there a free consultation before we commit?"
-faq_4_a: "Yes. We have a conversation first to understand what the student needs. No pressure, no obligation. We'd rather spend time getting the match right than rush an introduction that doesn't work."
-why_heading: "Tutoring that stretches Harpenden students past the class pace"
-why_para_1: "Most Harpenden parents describe the same situation in a first conversation. A bright child, a good school, a teacher who's said nothing's wrong. But the grade has been a 7 for two terms, and they're expecting a 9, and the gap between what a class of 30 can be pushed to and what their child is capable of has stopped looking like nothing. Our tutors don't usually find a content problem. They find a stretch problem, the harder questions the curriculum has skimmed past, the AO3 marks no one's broken down, the kind of analytical precision the top of the mark band actually rewards."
-why_para_2: "Sessions are built around that. Past papers, marked the way the exam board marks. Worked examples on the application questions a school class doesn't have time for. Essay-by-essay work on structure that holds up under a 45-minute clock, not just at home with no clock running. Most parents tell us the first thing they notice isn't the grade. It's the way their child starts talking about a mark scheme, suddenly precise instead of vague."
-accordion_quality: "Every tutor working with Harpenden students is assessed on subject depth and on exam-board fluency. For GCSE and A-Level tutoring at any level, a tutor who knows the AQA, Edexcel or OCR mark scheme cold is worth ten generally-good teachers."
-accordion_experience: "Our tutors have prepared students for Russell Group and Oxbridge offers, Medicine, Engineering and the kind of UCAS applications Harpenden families tend to be working towards. They know what those courses expect and how to coach a student towards it without burning them out."
-accordion_personalised: "We don't run set programmes. For a Harpenden student, tuition stretches the student precisely where the next mark band sits, on the specific topics and question types the class hasn't had time to push hard on."
+  - "University Personal Statement|Personal statement help for a busy Year 12, from a page of scribbled ideas to a draft they're proud to send.|/book-a-call/"
+faq_1_q: "GCSEs went fine but A-Levels are hard. Is that normal?"
+faq_1_a: "Very common, and it rarely means your child picked the wrong subjects. A-Levels ask for a different kind of thinking, and the first term is usually when that bites. A tutor can show your child how answers are marked now, before any gap has time to grow."
+faq_2_q: "How does it all work?"
+faq_2_a: "You'll speak to Harry or Joe on a free call so we can get to know your child. Within 24 hours you'll have a shortlist of two or three. Your child meets the tutor you prefer on a free video call. Then lessons are weekly."
+faq_3_q: "What do lessons cost? Is there a contract?"
+faq_3_a: "From £37 an hour, depending on the tutor, and we'll agree the rate before anything's booked. No contract, no term to sign up for and no hidden fees. You pay lesson by lesson."
+faq_4_q: "What if my child and the tutor don't click?"
+faq_4_a: "Tell us and we'll find someone else, at no cost. It happens now and then, and a quick swap is much better than weeks of lessons your child dreads."
+why_heading: "How our tutors help Harpenden teenagers over the step up"
+why_para_1: "Year 10 is usually where the course stops revisiting and starts stacking. New topics lean on old ones, so a gap that didn't matter in Year 8 suddenly matters every week. Year 12 is the same again, only faster. When a Harpenden teenager starts lessons, the tutor often meets a child who's bright and organised but has rarely had to struggle, so they've no plan for when something won't click. They wait for it to make sense on its own. Then the test arrives, and it hasn't."
+why_para_2: "Part of the tutor's job, then, is teaching your child what to do when they're stuck: which step to go back to, and when to ask. Alongside that come real exam questions for their board, done every week and marked honestly. Listen out for a change in how they talk about it. Less 'I just don't get it' about the whole subject, and more naming the one bit they don't."
+accordion_quality: "Most of the tutors you'll see studied at Russell Group universities, and each one was interviewed by Harry or Joe before joining. A degree in Chemistry isn't enough on its own. They have to explain it clearly to a 16-year-old meeting it for the first time."
+accordion_experience: "Most tutors we'd suggest have taught one-to-one for at least two years, and plenty have seen children through the jump to A-Level before. Some have helped with applications for Medicine, Engineering, Oxbridge and other Russell Group courses, the kind many Harpenden families are weighing up."
+accordion_personalised: "It depends which step your child is on. In Year 10 that might mean rebuilding a topic from Year 8, and in Year 12 learning to write an argument from scratch. Either way, the first lesson decides where to begin."
 reviews:
   - Lisa|Parent|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough.
   - Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application.
