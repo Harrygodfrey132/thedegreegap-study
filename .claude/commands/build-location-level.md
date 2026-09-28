@@ -11,6 +11,31 @@ Before doing any research, writing, or frontmatter generation, read all files in
 
 Apply these consistently across every field you write on both pages. They override any conflicting guidance in this skill. The skill below describes structure and rotation; the reference files define voice.
 
+## House Voice: Parent-Chat, on Every Page (required)
+
+Since September 2026 every location page is written in the parent-chat voice in `.claude/reference/tone.md`. It is not one option among the rotation banks below. The banks choose structure and angle; this is the voice every option is written in. Where an example further down talks about "students" in the third person, or opens with a statistic or the local school system, it shows the angle only: write it the parent-chat way.
+
+Before writing, read `content/locations/watford-tutors/_index.md` (a town page in this voice) and `content/subjects/gcse-maths-tutor/_index.md` (the reference page Harry and Joe signed off). Match how they sound. Don't lift their sentences: they are the voice, not the words.
+
+- **The test for every field:** would Joe say this, word for word, on the phone to a worried parent? If a line sounds like a report, a brochure or a sales call, say it the way you'd say it out loud.
+- **Talk to the parent about their child.** "Your child", "your son or daughter", "you". Keep "students" for when you really do mean students in general.
+- **Family first, town second.** Open with what the parent is seeing at home or worrying about, then bring in the local detail (schools, entry tests, sixth forms) where a parent would use it. An opener that leads with a league table, a statistic or how the local school system works is the old voice.
+- **Contractions and short sentences.** You'll, we'd, it's, doesn't. Mix in a few very short lines. Read it aloud.
+- **Normalise the worry, then make the next step small and plain.** Say what happens next, in order, and reassure with facts (from £37, no contract, a different tutor if they don't click), not adjectives.
+- The free call keeps the length the rest of the site gives it. "15-minute call" is fine for now.
+
+## Before Saving: Run the Checker (required)
+
+    python3 scripts/check-pages.py content/locations/{slug}-tutors/gcse/_index.md content/locations/{slug}-tutors/a-level/_index.md
+
+It compares the page's own writing with every other location page of the same type, ignoring town names, and checks the voice rules above. Fix every FAIL before saving:
+
+- more than 30% of the page's own writing also on another page (it names the page, and the fields to rewrite)
+- never saying "your child"
+- an em dash, a banned word or phrase, an exclamation mark, or a grade promise
+
+Then read every WARN and fix what you agree with. A few stock sentences shared with other pages are fine (the price, how the steps work); a page built out of them is not. The examples in this skill and in tone.md are models, not lines to paste, and the checker will show you if one slipped in. Don't save a page that fails.
+
 ## Your Role
 
 You are a specialist content writer for The Degree Gap. You build **per-level deep-dive pages** for a UK location: one focused on GCSE tutoring and one focused on A-Level tutoring. Both pages live under the existing parent location page (e.g. `/locations/derby-tutors/`) and use the shared `subject.html` template.
@@ -468,31 +493,31 @@ This is the banner subline. It is **two sentences. Maximum three.** Pain or cont
 - Total under 50 words. Aim for 30-40.
 - **No specific named schools, employers or universities in the hero lead.** That detail is earned in the body.
 
-**Four structural shapes — pick one, rotate across pages:**
+**Structural shapes — pick one, rotate across pages. Every shape talks to the parent about their child (see House Voice at the top); the parent-scene opener is the default:**
 
 1. **Pain → solution.** Sentence 1 names a broadly-felt pain. Sentence 2 names what the tutor does.
-   > *"Mock results just came back and the predicted grade isn't where it needs to be. Our Bristol GCSE tutors trace the gap back to where it started and rebuild before the next round of mocks."*
+   > *"Mock results are back and the predicted grade isn't where your child needs it to be. Our Bristol GCSE tutors trace the gap back to where it started and rebuild before the next round of mocks."*
 
 2. **Question → answer.** Sentence 1 is the parent's actual question. Sentence 2 is the direct answer using the plural keyword.
-   > *"Year 11 mocks landed harder than expected? Our Bristol GCSE tutors find the topics losing the most marks and fix exam technique in weeks, not terms."*
+   > *"Did the Year 11 mocks land harder than your child expected? Our Bristol GCSE tutors find the topics losing the most marks and start on exam technique from the first lesson."*
 
 3. **Stake → fix.** Sentence 1 names what's at risk (the predicted grade, the sixth-form offer, the UCAS submission). Sentence 2 names how tutoring changes it.
-   > *"By March, mock grades become the predicted grade your sixth form sees. Our Bristol GCSE tutors lift students out of borderline-5 territory into a confident grade 6 or 7."*
+   > *"By March, your child's mock grades become the predicted grade their sixth form sees. Our Bristol GCSE tutors work on the handful of topics that keep a borderline 5 from becoming a confident 6."*
 
 4. **Bold claim → proof.** Sentence 1 is a confident, plain statement. Sentence 2 grounds it in a moment in the year.
-   > *"Our Bristol A-Level tutors lift predicted grades by a band, sometimes two. Most start in Year 12, ahead of the January mocks that decide UCAS offers."*
+   > *"Our Bristol A-Level tutors often help lift a predicted grade by a band. Most families start in Year 12, well before the Year 13 mocks that feed into UCAS predictions."*
 
 5. **Foundation-gap opener (GCSE only).** Sentence 1 names a broadly-felt early-years gap that compounds into Year 11. Sentence 2 names the trace-and-rebuild.
-   > *"By Year 11 most GCSE struggles trace back to a Year 8 or 9 topic nobody re-explained. Our Bristol GCSE tutors find that root gap in week one and rebuild from there."*
+   > *"If your child is struggling in Year 11, it usually traces back to a Year 8 or 9 topic nobody had time to re-explain. Our Bristol GCSE tutors find that gap in the first lesson and rebuild from there."*
 
 6. **Comparison opener.** Sentence 1 names a broad contrast inside the parent reader's mind (grade 5 vs grade 8 trajectories, Year 12 vs Year 13 needs). Sentence 2 names what tutoring does in both halves. No named local schools.
-   > *"Some Year 11s arrive needing a confident grade 5 in English and Maths; others are stretching for grade 8 and 9. Our Manchester GCSE tutors handle both briefs."*
+   > *"Some Manchester parents want a safe grade 5 in English and Maths; others have a child reaching for 8s and 9s. Our Manchester GCSE tutors work with both, at your child's pace."*
    (3 sentences allowed for this shape only.)
 
 7. **Time-pressure opener.** Sentence 1 names a deadline window every parent at this level knows (March mocks, Year 13 January mocks, UCAS prediction submission). Sentence 2 names what one-to-one work fixes inside that window.
-   > *"Year 13 January mocks decide UCAS predicted grades. Our Liverpool A-Level tutors lift students out of borderline territory into the offer band universities actually ask for."*
+   > *"Year 13 mocks feed straight into your child's UCAS predicted grades. Our Liverpool A-Level tutors work on the papers that keep a borderline grade short of the offer your child is aiming for."*
 
-8. **Parent-scene opener (USE THIS WARMER VOICE WHEN POSSIBLE).** Sentence 1 names a specific moment in the parent's actual evening, not an abstract pain. Sentence 2 brings the tutor solution in.
+8. **Parent-scene opener (the default: the house voice).** Sentence 1 names a specific moment in the parent's actual evening, not an abstract pain. Sentence 2 brings the tutor solution in.
    > *"By the time most Liverpool parents reach us, they have spent a few weeks quietly worried, the homework getting harder, the answers shorter, the conversations smaller. Our Liverpool GCSE tutors step into that quiet hour a few times a week and find the gap that nobody has had time to name."*
 
 **Warmth principles for the hero_lead (read before writing):**
@@ -1035,6 +1060,8 @@ For **each page** built:
 - [ ] Parent quote matches the level.
 
 **Anti-AI:**
+- [ ] Every parent-facing field talks to the parent about "your child", in the parent-chat voice from tone.md. Would Joe say it, word for word, on the phone?
+- [ ] `python3 scripts/check-pages.py` passes on both files (no FAIL), and you've read every WARN
 - [ ] Zero em-dashes anywhere outside verbatim reviews
 - [ ] Zero banned words
 - [ ] Zero banned phrases

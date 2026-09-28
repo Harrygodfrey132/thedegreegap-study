@@ -11,6 +11,31 @@ Before doing any research, writing, or frontmatter generation, read all files in
 
 Apply these consistently across every field you write. They override any conflicting guidance in this skill. The skill below describes structure and rotation; the reference files define voice.
 
+## House Voice: Parent-Chat, on Every Page (required)
+
+Since September 2026 every location page is written in the parent-chat voice in `.claude/reference/tone.md`. It is not one option among the rotation banks below. The banks choose structure and angle; this is the voice every option is written in. Where an example further down talks about "students" in the third person, or opens with a statistic or the local school system, it shows the angle only: write it the parent-chat way.
+
+Before writing, read `content/locations/watford-tutors/_index.md` (a town page in this voice) and `content/subjects/gcse-maths-tutor/_index.md` (the reference page Harry and Joe signed off). Match how they sound. Don't lift their sentences: they are the voice, not the words.
+
+- **The test for every field:** would Joe say this, word for word, on the phone to a worried parent? If a line sounds like a report, a brochure or a sales call, say it the way you'd say it out loud.
+- **Talk to the parent about their child.** "Your child", "your son or daughter", "you". Keep "students" for when you really do mean students in general.
+- **Family first, town second.** Open with what the parent is seeing at home or worrying about, then bring in the local detail (schools, entry tests, sixth forms) where a parent would use it. An opener that leads with a league table, a statistic or how the local school system works is the old voice.
+- **Contractions and short sentences.** You'll, we'd, it's, doesn't. Mix in a few very short lines. Read it aloud.
+- **Normalise the worry, then make the next step small and plain.** Say what happens next, in order, and reassure with facts (from £37, no contract, a different tutor if they don't click), not adjectives.
+- The free call keeps the length the rest of the site gives it. "15-minute call" is fine for now.
+
+## Before Saving: Run the Checker (required)
+
+    python3 scripts/check-pages.py content/locations/{slug}-tutors/_index.md
+
+It compares the page's own writing with every other location page of the same type, ignoring town names, and checks the voice rules above. Fix every FAIL before saving:
+
+- more than 30% of the page's own writing also on another page (it names the page, and the fields to rewrite)
+- never saying "your child"
+- an em dash, a banned word or phrase, an exclamation mark, or a grade promise
+
+Then read every WARN and fix what you agree with. A few stock sentences shared with other pages are fine (the price, how the steps work); a page built out of them is not. The examples in this skill and in tone.md are models, not lines to paste, and the checker will show you if one slipped in. Don't save a page that fails.
+
 ## Your Role
 
 You are a specialist content writer for The Degree Gap, a UK tutoring company. You write local landing pages that feel like they were written *for* that specific town, not like a template with the town name swapped in.
@@ -374,15 +399,15 @@ Write content for `intro_1` and `intro_2`, two original paragraphs.
 
 The `schools_intro` field handles the third paragraph (schools + workshops). Write it to naturally name the schools and mention the workshop offer.
 
-Angle examples to draw from (never copy verbatim, these show range of approach):
+Angle examples to draw from. They show the range of angles, all in the house voice: never copy them verbatim, and the checker will catch it if you do.
 
-*Exam-pressure:* "With GCSEs and A-Levels looming, many families in Bromley are feeling the strain. Students who once kept up comfortably are now finding that harder topics, tighter deadlines, and growing expectations are leaving them unsure where to turn. / The Degree Gap works with students one-to-one to cut through that uncertainty. We focus on what matters most, filling gaps, sharpening exam technique, and giving students the confidence to walk into their exams prepared."
+*Parent-scene (the default opener):* "By the time most {Loc} parents come to us, they've usually tried everything. The talk about effort. The phone in a drawer. The promise of a holiday if the grades come through, the threat of one if they don't. Some of it works for a week. None of it lasts. / What we've watched, working with hundreds of {Loc} families, is that the children who actually pull ahead aren't the ones being pushed hardest. They're the ones whose home went quiet for an hour a day. A good tutor steps into that hour and gets the kind of honest 'I don't understand this' that almost never lands at the kitchen table. That's what we do."
 
-*Confidence:* "It's not always about ability. Across Epsom, we meet students who are bright but have lost confidence, they've stopped putting their hand up, they dread certain subjects, or they've quietly decided they're 'just not good at maths.' / That's exactly what The Degree Gap was built to change. Through patient, personalised tuition, we help students reconnect with learning and start believing in what they can achieve."
+*Exam pressure:* "Once exams are close, the whole house feels it. If your child kept up without much fuss last year and now seems to be treading water, with harder topics and tighter deadlines landing at once, you're far from the only {Loc} family telling us that. / A tutor takes some of the weight off. They find which topics are actually costing marks, practise getting what your child knows onto the paper in time, and give them something steady to lean on in the run-up."
 
-*Foundation gaps:* "Sometimes the problem isn't today's lesson, it's a gap from two years ago that never got addressed. In Kingston, we regularly work with students who are capable but held back by shaky foundations in core subjects. / The Degree Gap starts by identifying exactly where those gaps are, then builds a structured plan to close them, not about cramming, but making sure students genuinely understand the fundamentals."
+*Confidence:* "It's often not about ability. Plenty of the {Loc} parents we speak to have a child who's bright but has gone quiet in class, dreads one subject, or has decided they're 'just not a maths person'. / One-to-one, with nobody else watching, that usually starts to shift. The tutor goes back to where it stopped making sense and lets your child get a few things right, and the confidence tends to come back before the grade does."
 
-*Parent-scene (USE THIS WARMER VOICE WHEN POSSIBLE):* "By the time most {Loc} parents come to us, they've usually tried everything. The talk about effort. The phone in a drawer. The promise of a holiday if the grades come through, the threat of one if they don't. Some of it works for a week. None of it lasts. / What we've watched, working with hundreds of {Loc} families, is that the students who actually pull ahead aren't the ones being pushed hardest. They're the ones whose home went quiet for an hour a day. A good tutor steps into that hour and gets the kind of honest 'I don't understand this' that almost never lands at the kitchen table. That's what we do."
+*Foundation gaps:* "Sometimes the thing your child is stuck on this week isn't this week's topic at all. It's a method from Year 8 that never quite went in, and everything since has been stacked on top of it. / So the tutor looks backwards before going forwards: a recent mock, where the marks are going, and the gap underneath. The plan comes from that, not from the next chapter of the textbook."
 
 ### Warmth principles (read this before drafting intro_1 and intro_2)
 
@@ -756,6 +781,8 @@ Use as a vocabulary bank, weave concepts into original sentences, never copy ver
 - [ ] Is the banner heading genuinely different from Cambridge and Oxford?
 - [ ] Does the online tuition section connect to this page's angle?
 - [ ] Is the tone warm and plain, would a normal parent find it easy to read?
+- [ ] Does every parent-facing field talk to the parent about "your child", in the parent-chat voice from tone.md? Would Joe say it, word for word, on the phone?
+- [ ] Does `python3 scripts/check-pages.py` pass on this file (no FAIL), and have you read every WARN?
 - [ ] Are there zero em dashes anywhere in the file?
 - [ ] Are there zero banned phrases (cutting-edge, bespoke, transformative, unlock potential, world-class)?
 - [ ] Is everything in British English?
