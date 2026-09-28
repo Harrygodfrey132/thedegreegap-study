@@ -1,40 +1,40 @@
 ---
 title: "Fareham GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "Online GCSE tutors covering Fareham for Year 10 and Year 11, matched on exam board, with the college your child is applying to in view. From £37/hr."
+description: "Fareham GCSE tutors, online and one-to-one, planning around every college your child is weighing up. A free call first, then 2 or 3 tutor profiles in 24 hours."
 layout: "subject"
 location: "Fareham"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors Covering Fareham"
-hero_lead: "Fareham Year 11s apply towards Portsmouth, Southampton and Fareham itself, and the entry standards do not agree with each other. Our Fareham GCSE tutors work online, weekly, against the requirement that actually applies."
+hero_heading_line1: "Online GCSE Tutors in Fareham Who Keep Your Child's College Choices Open"
+hero_lead: "Two or three colleges on the shortlist, and none of them ask for quite the same grades. Our Fareham GCSE tutors work towards whichever asks the most, in weekly one-to-one lessons online, so nothing gets ruled out by accident."
 
 grade_from: "4"
 grade_to: "6"
-grade_stat: "The kind of movement a term of weekly one-to-one hours is usually pointed at, whether the student is catching up or pushing on."
+grade_stat: "Two grades up is the aim when a college's requirement sits above where your child is now. Planned back from the course, term by term."
 
-first_lesson_eyebrow: "WHICH NUMBER ARE WE ACTUALLY WORKING TO"
-first_lesson_heading: "The Requirement Depends on Which Way You Are Facing"
-first_lesson_context: "In a first session with a Fareham Year 11 the second question, after what is going wrong, is where they are hoping to go. It is not small talk. Fareham College, the Portsmouth and Havant colleges, Barton Peveril and St Vincent each publish their own entry standards subject by subject, they revise them between years, and they do not match. A student working generally harder is aiming at nothing in particular. A student working towards a named requirement in a named subject has something to measure against, and so does the tutor. Where the family genuinely has not decided, we plan against the tighter of the two, because that keeps the option open rather than closing it by accident in February."
+first_lesson_eyebrow: "WHICH COLLEGE, WHICH GRADE"
+first_lesson_heading: "GCSE Tutoring for a Year 11 Who Hasn't Decided Yet"
+first_lesson_context: "Fareham College, Barton Peveril, St Vincent and the Portsmouth and Havant colleges each publish their own requirements for every subject, and they don't line up. It's completely normal not to have picked one yet. But until your child does, a GCSE tutor plans around the strictest."
 first_lesson_quote: "I was really pleased to discover The Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start."
 first_lesson_quote_name: "Philippa"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "GCSE"
 
-tutor_strip_heading: "Fareham GCSE tutors matched on the specification your child's school teaches"
-tutor_strip_body: "Hampshire schools sit across AQA, Edexcel and OCR, and the boards differ in how the extended questions are marked rather than in what is taught. We confirm the board before suggesting anyone. Around three in every hundred applicants make it onto the platform, and the interview mostly tests whether they can explain clearly when a student is stuck. Browse profiles, or let us match your child."
+tutor_strip_heading: "Fareham GCSE tutors working towards more than one college"
+tutor_strip_body: "Many of the tutors on our platform are qualified teachers. After a free call you'll have two or three profiles within 24 hours, then a free video meeting so your child can see if they get on. Browse them whenever you like."
 
-pathways_heading: "Where Fareham Year 11s Go Next"
-pathways_lead: "Three routes, and what each one publishes."
+pathways_heading: "Post-16 in Fareham Means Looking in Several Directions"
+pathways_lead: "Not every option is in Fareham itself, so here's the lie of the land."
 pathways:
   - title: "Sixth Forms"
     body: >
-      Fareham College takes a large share locally, with students also travelling to the Portsmouth and Havant colleges, to Barton Peveril in Eastleigh and to St Vincent in Gosport. Each sets its own entry requirements by subject and revises them between years, so the number worth working to is the one on this year's admissions page for the specific course.
+      Plenty of the town's Year 11s stay local at Fareham College, while others travel to Barton Peveril in Eastleigh, St Vincent in Gosport or the Portsmouth and Havant colleges. It's worth reading this year's requirements for the actual course, because they change by subject and don't stay put from one year to the next.
   - title: "Apprenticeships"
     body: >
-      The marine, defence and engineering employers across the Solent take apprentices, with the naval base and the Whiteley business parks hiring locally too. Most publish minimum grades in Maths and English, with the Sciences named on the technical routes.
+      Marine, defence and engineering employers across the Solent take on apprentices, and the naval base and the Whiteley business parks recruit locally as well. Most name a grade in Maths and English, and the technical routes add the Sciences.
   - title: "Further Education"
     body: >
-      Fareham College and Havant and South Downs College carry most of the Level 3 and T Level provision in reach. GCSE Maths and English resits run alongside, and students below a grade 4 in either are normally expected to keep studying them post-16.
+      Fareham College and Havant and South Downs College run most of the T Levels and Level 3 courses within reach. Wherever your child goes, a Maths or English grade under 4 normally means carrying on with that subject alongside the course.
 
 reviews:
   - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."

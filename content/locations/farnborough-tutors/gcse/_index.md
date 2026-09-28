@@ -1,40 +1,40 @@
 ---
 title: "Farnborough GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "Online GCSE tutors covering Farnborough for Year 10 and Year 11, working to the subject requirement for sixth form college rather than the general entry line."
+description: "GCSE tutoring in Farnborough, online and one-to-one, aimed at the grade your child's chosen A-Level asks for as well as the college's. From £37, no contract."
 layout: "subject"
 location: "Farnborough"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors Covering Farnborough"
-hero_lead: "Getting into the sixth form college and getting onto the A-Level a student actually wants are two different bars, and only one of them gets talked about. Our Farnborough GCSE tutors work online to the second one."
+hero_heading_line1: "Online Farnborough GCSE Tutors for the Course Your Child Has Their Heart Set On"
+hero_lead: "Your Year 11 says it's all under control, and maybe it is. But it's worth checking that the grades they're aiming at match the course they want, and that's where our Farnborough GCSE tutors start, online and one-to-one."
 
 grade_from: "5"
 grade_to: "7"
-grade_stat: "The kind of movement a term of weekly one-to-one hours is usually pointed at, whether the student is catching up or pushing on."
+grade_stat: "The sort of climb weekly lessons are aimed at across Year 10 and Year 11. How far and how fast depends on where your child starts."
 
-first_lesson_eyebrow: "TWO NUMBERS, AND ONLY ONE GETS MENTIONED"
-first_lesson_heading: "The Course Requirement, Not the College One"
-first_lesson_context: "In a first session with a Farnborough Year 11 we ask which A-Levels they are hoping to take before we ask anything about grades. It sounds like a detour and it is not. There is a general entry standard for the college, and then a separate requirement for each individual A-Level, and the second is usually higher. Maths and the Sciences generally ask for more in the subject itself than the general line implies. A student working towards the college number can clear it comfortably and still find in August that the course they wanted is closed to them. Naming the right target in October is most of the work."
+first_lesson_eyebrow: "THE COLLEGE PLACE AND THE COURSE"
+first_lesson_heading: "Before Grades, a Farnborough GCSE Tutor Asks About Courses"
+first_lesson_context: "There's a good reason for asking. One grade gets your child into the college and another gets them onto the A-Level they want, and in Maths and the Sciences that second one is often higher. Aim only at the college's general line, and the course itself can slip out of reach on results day."
 first_lesson_quote: "I was really pleased to discover The Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start."
 first_lesson_quote_name: "Philippa"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "GCSE"
 
-tutor_strip_heading: "Farnborough GCSE tutors matched on the specification your child's school teaches"
-tutor_strip_body: "Hampshire schools sit across AQA, Edexcel and OCR, and the boards differ in how the extended questions are marked rather than in what gets taught. We confirm the board before suggesting anyone. Around three in every hundred applicants make it onto the platform, and the interview mostly tests whether they can explain clearly when a student is stuck. Browse profiles, or let us match your child."
+tutor_strip_heading: "Farnborough GCSE tutors who plan around your child's A-Level choices"
+tutor_strip_body: "On a free call, tell us which courses your child has an eye on, at Farnborough Sixth Form College or anywhere else, and within 24 hours you'll have two or three tutor profiles. Harry or Joe, our co-founders, interviewed every one of them. You're welcome to browse first."
 
-pathways_heading: "Where Farnborough Year 11s Go Next"
-pathways_lead: "Three routes, and what each one publishes."
+pathways_heading: "Farnborough's Options Once Year 11 Is Over"
+pathways_lead: "Worth reading with your child before the college forms go in."
 pathways:
   - title: "Sixth Forms"
     body: >
-      Farnborough Sixth Form College takes the largest share of the town's Year 11s, with Farnborough College of Technology and Alton College drawing others. Each sets its own entry requirements, and the important detail is that they run at two levels: a general entry standard, then a subject-specific requirement per A-Level. Work from this year's admissions page for the specific course.
+      Farnborough Sixth Form College takes more of the town's Year 11s than anywhere else, and Farnborough College of Technology and Alton College draw others. Each has a general entry line and then a grade for every A-Level, so look up this year's requirement for the exact course your child wants.
   - title: "Apprenticeships"
     body: >
-      The aerospace and defence employers around Farnborough Airport run engineering and technical apprenticeships, and the wider north Hampshire employers take others. Published minimum grades in Maths and English are the usual gate, with the Sciences named on the technical routes.
+      The aerospace and defence firms around Farnborough Airport train engineering and technical apprentices, and employers across north Hampshire take on others. Maths and English grades are usually the first thing they check, with Science added for the technical routes.
   - title: "Further Education"
     body: >
-      Farnborough College of Technology covers Level 3 vocational and applied routes across engineering, digital, health and business. GCSE Maths and English resits run alongside, and students below a grade 4 in either are normally expected to keep studying them post-16.
+      For a more hands-on route, Farnborough College of Technology offers Level 3 vocational courses, whether that's engineering, digital, health or business. If Maths or English comes in below a 4, it usually stays on your child's timetable after 16.
 
 reviews:
   - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry, who listened to her needs and gave us a selection of tutors to choose from. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."

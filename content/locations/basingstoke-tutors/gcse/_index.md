@@ -1,40 +1,40 @@
 ---
 title: "Basingstoke GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "Online GCSE tutors covering Basingstoke for Year 10 and Year 11, matched on exam board. Written work marked weekly against the real scheme. From £37/hr."
+description: "Basingstoke GCSE tutors, online and one-to-one, for the child who knows the work but loses marks on paper. Written answers marked every week, from £37 an hour."
 layout: "subject"
 location: "Basingstoke"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors Covering Basingstoke"
-hero_lead: "Most GCSE subjects are examined through extended writing, and extended writing improves through being marked rather than through being revised. Our Basingstoke GCSE tutors work online, and something gets marked every week."
+hero_heading_line1: "Online Basingstoke GCSE Tutors Who Help Your Child Get It Down on Paper"
+hero_lead: "Ask your child about photosynthesis over tea and they can explain the lot. Then a six-mark question on it comes back with two marks. Our Basingstoke GCSE tutors work on that gap online, one-to-one, with something written and marked every week."
 
 grade_from: "4"
 grade_to: "6"
-grade_stat: "The kind of movement a term of weekly one-to-one hours is usually pointed at, whether the student is catching up or pushing on."
+grade_stat: "What a school year of weekly lessons, each ending with an answer to mark, is aimed at. A goal, not a promise."
 
-first_lesson_eyebrow: "REVISION IS INPUT, THE EXAM IS OUTPUT"
-first_lesson_heading: "The Piece That Comes Back Marked"
-first_lesson_context: "The most common thing we hear from Basingstoke parents is that their child knows the subject and cannot show it. That is almost always accurate, and it is a diagnosis rather than a complaint. Extended answers are the mechanism most GCSE subjects are graded through, and they only improve by being written and then marked with the reason for each lost mark named. In a large year group that cannot happen weekly for every student, however good the teaching is. So a first session here starts from a piece of the student's own writing rather than from a topic, because the writing shows the problem and the topic list does not."
+first_lesson_eyebrow: "WHERE THE MARKS GO MISSING"
+first_lesson_heading: "Why a GCSE Tutor Starts With Your Child's Writing"
+first_lesson_context: "Good knowledge and disappointing marks come up more than anything else when Basingstoke parents call, and the longer written answers are usually why. A big year group just doesn't leave time to hand each one back with every lost mark explained, however good the teaching. So a GCSE tutor marks something your child wrote recently, line by line, and the following week's answer shows whether it's gone in."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of working with Malvina, he has improved from a grade 5 to a 6/7."
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "GCSE"
 
-tutor_strip_heading: "Basingstoke GCSE tutors who mark to the real scheme"
-tutor_strip_body: "Hampshire schools sit across AQA, Edexcel and OCR, and the boards differ most in how the extended answers are marked. We confirm the board before suggesting anyone, and for the written subjects we shortlist on whether a tutor marks to the published scheme rather than to their own sense of a good answer. Around three in every hundred applicants make it onto the platform. Browse profiles, or let us match your child."
+tutor_strip_heading: "Basingstoke GCSE tutors who'll mark your child's long answers"
+tutor_strip_body: "Hampshire schools use AQA, Edexcel or OCR, and each board marks long answers differently, so we'll ask which one your child sits. We interview every tutor ourselves, and only about 3% of applicants get through. Browse the profiles, or book a free call and we'll pick two or three."
 
-pathways_heading: "Where Basingstoke Year 11s Go Next"
-pathways_lead: "Three routes, and what each one publishes."
+pathways_heading: "Where Basingstoke Teenagers Head After GCSEs"
+pathways_lead: "Here's where your child could go next, and what to check."
 pathways:
   - title: "Sixth Forms"
     body: >
-      Queen Mary's College takes a very large share of the town's Year 12s, with Basingstoke College of Technology alongside it and some students travelling towards Winchester or Reading. Each sets its own entry requirements by subject and revises them between years, so the number worth working to is the one on this year's admissions page for the specific course.
+      Queen Mary's College is where a big chunk of the town's Year 12s end up, with Basingstoke College of Technology and the colleges out towards Winchester or Reading taking others. Entry grades vary from course to course and can shift between years, so it's worth checking this year's figures for the course your child has in mind.
   - title: "Apprenticeships"
     body: >
-      The town's technology, manufacturing and professional-services employers run apprenticeship routes, with the wider north Hampshire and Thames Valley employers taking others. Published minimum grades in Maths and English are the usual gate, and technical entries generally want the Sciences alongside.
+      Basingstoke's technology, manufacturing and professional-services firms take on apprentices, and there are more across north Hampshire and the Thames Valley. Most want to see a set grade in Maths and English first, and the technical routes often ask about Science too.
   - title: "Further Education"
     body: >
-      Basingstoke College of Technology covers Level 3 vocational and applied routes across engineering, digital, health and business. GCSE Maths and English resits run alongside, and students below a grade 4 in either are normally expected to keep studying them post-16.
+      If your child would rather learn by doing, Basingstoke College of Technology runs Level 3 courses in engineering, digital, health and business. And if Maths or English lands below a 4, they'll normally keep studying it after 16.
 
 reviews:
   - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of working with Malvina, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons and has learned strategies that help him approach English in a way that resonates with him."

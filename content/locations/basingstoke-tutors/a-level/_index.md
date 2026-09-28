@@ -1,40 +1,40 @@
 ---
 title: "Basingstoke A-Level Tutors | Online One-to-One | The Degree Gap"
-description: "Online A-Level tutors covering Basingstoke for Year 12 and Year 13, matched on exam board and module. Weekly marked work and honest predicted grades."
+description: "Basingstoke A-Level tutors, online and one-to-one, for the subject that's started to slip. A free call with a co-founder, then 2 or 3 profiles within 24 hours."
 layout: "subject"
 location: "Basingstoke"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors Covering Basingstoke"
-hero_lead: "At A-Level the gap between understanding a subject and scoring it widens, and only marked work closes it. Our Basingstoke A-Level tutors work online, and every session ends with something to write."
+hero_heading_line1: "Online A-Level Tutors in Basingstoke for When One Subject Starts to Slip"
+hero_lead: "Often it isn't all three A-Levels. Just the one, and you can hear it in the way your child talks about it. That's the subject our Basingstoke A-Level tutors pick up, online and one-to-one, starting from the last test that didn't go well."
 
 grade_from: "C"
 grade_to: "A"
-grade_stat: "The kind of movement a year of weekly one-to-one A-Level hours is built around, whether that starts from a difficult Year 12 or a solid grade that needs more."
+grade_stat: "The size of climb that a year of weekly lessons on the struggling subject is built around, whether your child starts in Year 12 or Year 13."
 
-first_lesson_eyebrow: "THE GAP THAT WIDENS AFTER GCSE"
-first_lesson_heading: "Knowing It and Scoring It Are Further Apart Now"
-first_lesson_context: "At GCSE a student who understands a topic will usually score reasonably on it. At A-Level that stops being true. The extended answers want a chain of reasoning in a particular order, the calculations want every step written, and the essays want an argument rather than a summary. So the distance between what a student knows and what they can put on paper widens sharply in Year 12, and the only thing that closes it is writing something and having it marked properly before the thinking has faded. A first session here starts from the student's own work for exactly that reason."
+first_lesson_eyebrow: "ONE SUBJECT AT A TIME"
+first_lesson_heading: "What an A-Level Tutor Looks at First"
+first_lesson_context: "One grade in one subject can be all that stands between your child and the course they want. That's why the first lesson with an A-Level tutor goes on that subject alone, working back from a recent test to where the marks went. Quite often it's a couple of topics, not the whole course."
 first_lesson_quote: "My son gained almost two grades higher than his year 13 mock paper. His tutor Jacob was excellent."
 first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "A-Level"
 
-tutor_strip_heading: "Basingstoke A-Level tutors matched on board and module, not just subject"
-tutor_strip_body: "At A-Level the specialist pool is far thinner than at GCSE, and Mechanics and Statistics are not interchangeable any more than organic and physical chemistry are. We confirm the board and the module order before suggesting anyone. Around three in every hundred applicants make it onto the platform, and many are qualified examiners who have marked the papers your child will sit. Browse profiles, or let us match your child."
+tutor_strip_heading: "Basingstoke A-Level tutors for the subject that's worrying you"
+tutor_strip_body: "Tell Harry or Joe, our co-founders, which subject it is on a free call, plus the exam board if you know it. Within 24 hours you'll have two or three tutor profiles, all Russell Group graduates. Or browse them now and see who stands out."
 
-pathways_heading: "What Comes After A-Levels in Basingstoke"
-pathways_lead: "Three routes, and what each one rests on."
+pathways_heading: "What Basingstoke A-Levels Can Lead To"
+pathways_lead: "Your child's options after Year 13, and what each one looks at."
 pathways:
   - title: "Universities"
     body: >
-      Southampton, Reading, Surrey and the London institutions are all realistic from here, with the rail links widening the field. Competitive courses turn on the predicted grade before the achieved one, and for Medicine, Dentistry, Veterinary and Oxbridge the deadline is 15 October rather than January, which pulls the timetable into Year 12's summer.
+      The rail links put Southampton, Reading, Surrey and the London universities all within reach, and for the competitive courses, admissions read the predicted grade long before results day. And for Medicine, Dentistry, Veterinary or Oxbridge, applications close on 15 October, not in January, so the planning starts in the summer of Year 12.
   - title: "Degree Apprenticeships"
     body: >
-      The town's technology and professional-services employers run higher and degree apprenticeship routes, with the wider Thames Valley schemes reachable on the train. Each publishes its own entry requirements, they move between intakes, and Maths carries the most weight on technical and financial entries.
+      If your child fancies earning while they study, the town's technology and professional-services employers run higher and degree apprenticeships, with more along the train line into the Thames Valley. Each sets its own entry grades, which can change between intakes, and Maths counts most on technical and finance routes.
   - title: "Career Pathways"
     body: >
-      Some students go straight into technical, digital and commercial roles with local employers. Gap years and foundation years pointed at a stronger reapplication are common too, especially where a competitive course was missed by a single grade first time.
+      Some sixth formers go straight into technical, digital or commercial jobs with local employers. Others take a gap year or a foundation year and reapply, often after missing a competitive course by a single grade.
 
 reviews:
   - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"

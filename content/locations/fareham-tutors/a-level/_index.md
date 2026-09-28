@@ -1,40 +1,40 @@
 ---
 title: "Fareham A-Level Tutors | Online One-to-One | The Degree Gap"
-description: "Online A-Level tutors covering Fareham for Year 12 and Year 13, matched on exam board and module. Predicted grades, UCAS and Solent apprenticeships."
+description: "A-Level tutoring in Fareham, online and one-to-one, for a predicted grade that isn't there yet, whether your child has university or an apprenticeship in mind."
 layout: "subject"
 location: "Fareham"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors Covering Fareham"
-hero_lead: "Fareham students study across several colleges, which means the teaching, the module order and the mock timetable all differ. Our Fareham A-Level tutors work online and match to the course your child is actually on."
+hero_heading_line1: "Online Fareham A-Level Tutors for a Predicted Grade That's Not There Yet"
+hero_lead: "The predicted grade came home lower than the course asks for, and your child says they'll sort it. Online and one-to-one, our Fareham A-Level tutors work on the tests and essays that prediction is drawn from."
 
 grade_from: "C"
 grade_to: "A"
-grade_stat: "The kind of movement a year of weekly one-to-one A-Level hours is built around, whether that starts from a difficult Year 12 or a solid grade that needs more."
+grade_stat: "What weekly lessons through Year 12 and into Year 13 are built to work towards. The tutor will tell you plainly how it's going along the way."
 
-first_lesson_eyebrow: "SAME SUBJECT, DIFFERENT COURSE"
-first_lesson_heading: "Matched to the Board and the Module Order"
-first_lesson_context: "Because Fareham students spread across colleges in three directions, two Year 12s in the same street can be sitting different boards, in a different module order, with mocks in different months. That matters more at A-Level than at GCSE. Mechanics and Statistics are not interchangeable, and a tutor who is strong on one is not automatically strong on the other. So the first thing we establish is not what is going wrong but which course the student is actually on, because getting that wrong wastes a term politely. From there the first session looks at working rather than answers, which is where the difference between coping and secure becomes visible."
+first_lesson_eyebrow: "TWO ROUTES, ONE SET OF GRADES"
+first_lesson_heading: "The Subject a Fareham A-Level Tutor Starts With"
+first_lesson_context: "Some sixth formers in Fareham are set on Southampton or Portsmouth, while others have an eye on a degree apprenticeship with a Solent employer. Both look hard at the predicted grade. So the first weeks of A-Level tutoring go on whichever subject sits furthest from where your child needs it."
 first_lesson_quote: "My son gained almost two grades higher than his year 13 mock paper. His tutor Jacob was excellent."
 first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "A-Level"
 
-tutor_strip_heading: "Fareham A-Level tutors matched on board and module, not just subject"
-tutor_strip_body: "At A-Level the specialist pool is far thinner than at GCSE. We confirm the board and the module order before suggesting anyone, and where a specific module is the problem we shortlist on that rather than on the subject. Around three in every hundred applicants make it onto the platform, and many are qualified examiners who have marked the papers your child will sit. Browse profiles, or let us match your child."
+tutor_strip_heading: "Fareham A-Level tutors matched to your child's exact course"
+tutor_strip_body: "Two Year 12s on one Fareham street can take the same A-Level with different boards, in a different order, so we check your child's first. About 3% of tutors who apply get in. A free call with Harry or Joe, who run The Degree Gap, is where to start."
 
-pathways_heading: "What Comes After A-Levels in Fareham"
-pathways_lead: "Three routes, and what each one rests on."
+pathways_heading: "After Sixth Form in Fareham"
+pathways_lead: "What's on offer once the A-Levels are done."
 pathways:
   - title: "Universities"
     body: >
-      Southampton and Portsmouth are both on the doorstep, with Southampton in the Russell Group and strong on Engineering, Medicine and the sciences, and Solent drawing others. Competitive courses turn on the predicted grade before the achieved one, and for Medicine, Dentistry, Veterinary and Oxbridge the deadline is 15 October rather than January.
+      Southampton and Portsmouth are both close to home, Southampton being the Russell Group option, and Solent is another. Medicine, Veterinary, Dentistry and Oxbridge applications have to be in by 15 October, and for any competitive course the predicted grade is what admissions see first.
   - title: "Degree Apprenticeships"
     body: >
-      BAE Systems, Lloyd's Register and the marine and aerospace employers across the Solent run degree and higher apprenticeships, with ABP taking apprentices into port and logistics roles. Each publishes its own predicted-grade requirements, and the more competitive schemes ask near the top of the range.
+      BAE Systems and Lloyd's Register run degree and higher apprenticeships alongside the Solent's other marine and aerospace employers, and ABP takes apprentices into port and logistics work. Each publishes the predicted grades it wants, and the most sought-after schemes ask for grades near the top.
   - title: "Career Pathways"
     body: >
-      Maritime, defence and engineering shape a lot of local careers, with the naval base and the Whiteley business parks hiring directly. Gap years and foundation years pointed at a stronger reapplication are common too, especially where a competitive course was missed by one grade.
+      Whiteley's business parks and the naval base take people on directly, and maritime, defence and engineering make up a lot of local work. A foundation year or a gap year before reapplying is common as well, often when the first choice was one grade away.
 
 reviews:
   - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
