@@ -494,14 +494,7 @@
     "@type": "EducationalOrganization",
     "@id": "{{ "#organization" | absURL }}",
     "name": "The Degree Gap",
-    "url": "https://thedegreegap.com",
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "ratingValue": "{{ site.Data.review_stats.ratingValue }}",
-      "reviewCount": "{{ site.Data.review_stats.reviewCount }}",
-      "bestRating": "5",
-      "worstRating": "1"
-    }
+    "url": "https://thedegreegap.com"
   },
   "areaServed": {
     "@type": "City",
@@ -532,7 +525,9 @@
 }
 </script>
 
-<!-- Course schema — qualifies for review-star rich results in Google SERPs -->
+<!-- Course schema for this {city, level} pair -->
+{{/* No aggregateRating: see the note on the Organization schema in
+     index.html. The Google rating is marked up nowhere in the site. */}}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -588,13 +583,6 @@
     },
     "availability": "https://schema.org/InStock",
     "url": "{{ .Permalink }}"
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "{{ site.Data.review_stats.ratingValue }}",
-    "reviewCount": "{{ site.Data.review_stats.reviewCount }}",
-    "bestRating": "5",
-    "worstRating": "1"
   }
 }
 </script>

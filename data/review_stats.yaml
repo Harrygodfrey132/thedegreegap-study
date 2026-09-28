@@ -1,4 +1,6 @@
-# Aggregate review figures for the trust strips and the AggregateRating markup.
+# Aggregate review figures for the trust strips. Not for schema: these are
+# Google's reviews, and Google forbids AggregateRating markup for reviews
+# collected on another site, so none of the site's structured data uses them.
 #
 # GOOGLE. Taken from the Google Business Profile API export of 2026-09-08, the
 # same export data/reviews.yaml was rebuilt from.
@@ -7,8 +9,8 @@
 #
 # ratingValue is 5.0 because that is the rating Google itself displays on the
 # Business Profile: it rounds to one decimal place, and 4.972 rounds to 5.0.
-# Structured data must match what a visitor can see, so the markup and the
-# on-page trust line both use this number.
+# What we show must match what a visitor sees on Google, so the on-page trust
+# line uses this number.
 #
 # ratingMean is the exact arithmetic, kept here so nobody has to recompute it.
 # WATCH THIS: the displayed 5.0 holds only while the mean stays at or above

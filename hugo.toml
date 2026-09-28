@@ -13,9 +13,10 @@ enableGitInfo = true
   email = "admin@thedegreegap.com"
   mainSiteURL = "https://thedegreegap.com"
   # Google review count and rating. Single source of truth: this number appears
-  # in visible copy, aria-labels and AggregateRating schema across ~17 layouts,
-  # so update it here only. Must match the live Google Business Profile, since
-  # schema that disagrees with what a user can see is a structured-data breach.
+  # in visible copy and aria-labels across ~17 layouts, so update it here only.
+  # Must match the live Google Business Profile. It is deliberately not marked
+  # up as AggregateRating anywhere: Google forbids rating markup for reviews
+  # collected on another site.
   googleReviewCount = 109
   googleReviewRating = "5.0"
   # Google Ads, read by partials/ads-tracking.html on the Google Ads landing
