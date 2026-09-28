@@ -1,64 +1,64 @@
 ---
 title: "Sevenoaks Private Tutors | The Degree Gap"
-description: "One-to-one Sevenoaks tutoring for the Kent Test, GCSE and A-Level, matched on exam board and the standard the school is actually working at."
+description: "Sevenoaks tutors for the Kent Test, GCSE and A-Level, one-to-one and online. A clear picture of where your child stands, and lessons from £37, no contract."
 layout: "single"
 location: "Sevenoaks"
-banner_heading: "Online Sevenoaks tutors for the Kent Test, GCSEs and A-Levels that don't happen by accident."
-banner_description: "Every Sevenoaks family speaks with a co-founder before any tutor is matched, then we pair on subject, exam board and the specific standard the student is going for."
-content_angle: "exam pressure"
-intro_1: "Sevenoaks sits inside the Kent selective system, which means the academic pressure starts years earlier than the GCSE crunch most parents elsewhere are bracing for. The Kent Test arrives in Year 6. The route through Weald of Kent Grammar, Tonbridge Grammar, Judd or Skinners depends on a single set of papers sat one autumn morning. For families looking at the independent side, Sevenoaks School is one of the most competitive intakes in the country and runs the IB Diploma instead of A-Levels. Whichever route a child is on, the bar in this town is set high and set early."
-intro_2: "Our Sevenoaks tutors work one-to-one with students at every stage of that. For Year 5 and 6 children, that means proper preparation for the Kent Test in English, Maths and reasoning, well ahead of the autumn. For students already inside a grammar, it means keeping pace with a class where every student arrived at the same selective standard. For students sitting GCSEs or A-Levels at Knole, Trinity, Walthamstow Hall or the comprehensives nearby, it means closing the gap between predicted and aimed-for grades with one-to-one work the classroom of thirty can't give."
+banner_heading: "Sevenoaks tutors for the Kent Test, GCSE and A-Level, online, with honest marking from the first lesson"
+banner_description: "When a lot rides on a handful of papers, you want to know where your child really stands. Our tutors mark the way examiners do, and you're welcome to see what each lesson covers."
+content_angle: "a lot riding on a handful of papers, from the Kent Test in Year 6 onwards: parents who want a clear picture of where their child stands, with honest marking and lessons they can drop in on"
+intro_1: "Is my child actually ready? Most Sevenoaks parents get round to asking us that sooner or later. It's a fair question, because a lot rides on a handful of papers here, and it starts young. The Kent Test comes in Year 6: English, Maths and reasoning, sat on one autumn morning, with Weald of Kent, Tonbridge Grammar, Judd and Skinners on the other side of it. Then GCSEs. Then A-Levels, or the IB Diploma if your child moves on to Sevenoaks School. And practice at the kitchen table can leave everyone more tense, without making the answer any clearer."
+intro_2: "A good tutor gives you that clearer picture, and your child a calmer run at each exam. For a Year 5, that's timed practice at Kent Test papers well before the autumn. For a teenager at Knole, Trinity, Walthamstow Hall or one of the grammars, it's finding the subject that's slipping and giving it proper attention, one lesson a week. You'll hear plainly what's secure and what isn't. To start, book a free call with Harry or Joe, our co-founders, and within a day you'll see profiles of the two or three tutors we'd pick."
 about_heading: "Personalised GCSE and A-Level Tutoring for Sevenoaks Students"
 about_image: "/images/classical-library-books-and-busts.jpg"
-schools_intro: "Our Sevenoaks tutors support students from Sevenoaks School, Walthamstow Hall, Knole Academy, Trinity School, Weald of Kent Grammar School and Tonbridge Grammar School. Some are preparing for the Kent Test the autumn after next. Others are mid-GCSE, working to keep pace in a class that doesn't slow down. We also run revision and exam preparation workshops on request, open to students from any local school who want extra structure outside the timetable."
+schools_intro: "Some families come to us a year or two before the Kent Test. Others have children at Sevenoaks School, Walthamstow Hall, Knole Academy, Trinity School, Weald of Kent Grammar or Tonbridge Grammar, somewhere between Year 7 and a sixth form application. Harry and Joe spend a lot of their days in schools running revision workshops, 'Dragon's Den' sessions included. It keeps them close to what children are finding hard this year."
 schools: ["Sevenoaks School", "Walthamstow Hall", "Knole Academy", "Trinity School", "Weald of Kent Grammar School", "Tonbridge Grammar School"]
 schools_image: "/images/school-clock-tower-building.jpg"
-online_heading: "Online tuition for Sevenoaks students: Kent Test, GCSE and A-Level specialists"
-online_1: "Most Sevenoaks tutoring runs online through Lessonspace, our shared whiteboard, with the tutor marking work on screen and walking the student through it line by line. For Kent Test preparation, that means a tutor who knows the test format and works through reasoning, English and Maths papers live, while a parent can drop in and see exactly what's being covered. For GCSE and A-Level students, families aren't limited to whoever happens to live near the station."
-online_2: "Online tutoring tends to work well for students under this much selective pressure. There's no unfamiliar room. Sessions slot in around school and clubs without a school-night drive into Tunbridge Wells or up to London. Weekly consistency, which matters more than total hours for the Kent Test and for GCSE prep, is easier to hold. The platform takes about a minute to learn."
+online_heading: "How online tutoring works for Sevenoaks families who like to see the work"
+online_1: "Lessons happen on Lessonspace. It's an online whiteboard, so the tutor sees every step your child writes as they write it. For the Kent Test, that means reasoning and Maths papers worked through live, with the tutor watching how an answer was reached rather than just whether it's right. You're welcome to pull up a chair for the last few minutes. And each lesson is recorded, so if you'd like to know what was covered, or your child wants a method again before the next paper, it's all there."
+online_2: "No one has to sit in school-night traffic into Tunbridge Wells or catch a train up to London for a lesson, either. We can choose from tutors anywhere in the UK, not just near Sevenoaks station. So we pick the one who knows your child's test or exam board. It also makes a regular weekly slot far easier to keep, which does more good than a burst of cramming in the last month."
 online_image: "/images/student-studying-at-night-with-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Sevenoaks,UK&output=embed"
-areas_intro: "Looking for support beyond Sevenoaks? Our tutors work with families across Kent and the wider south-east, matched on exam board and what each student actually needs."
+areas_intro: "Families across Sevenoaks and the Kent and south-east towns below all get the same thing: online lessons with a tutor picked for the paper your child is sitting."
 area_links: ["Tunbridge Wells Tutors|/locations/tunbridge-wells-tutors/", "London Tutors|/locations/london-tutors/", "Canterbury Tutors|/locations/canterbury-tutors/", "Brighton Tutors|/locations/brighton-tutors/", "Epsom Tutors|/locations/epsom-tutors/", "Guildford Tutors|/locations/guildford-tutors/"]
 gcse_subjects: [
-  "GCSE English Tuition|Analytical writing for Language and Literature, with a method that holds up under exam timing, not just at home with no clock running.|/book-a-call/",
-  "GCSE Maths Tuition|Stretch tutoring across number, algebra and statistics, from foundation work right through to the top of the higher tier.|/book-a-call/",
-  "GCSE Chemistry Tuition|Precise one-to-one work through bonding, equations and rates, with focus on the answers the mark scheme is actually looking for.|/book-a-call/",
-  "GCSE History Tuition|Source skills, essay structure and the extended argument, taught by tutors who know what top-band History answers look like.|/book-a-call/",
-  "GCSE Physics Tuition|Tutoring through forces, waves and electromagnetism built around the application questions that decide the top grades.|/book-a-call/",
-  "GCSE Biology Tuition|Detailed work across the full specification, with the harder six and nine-mark questions taken slowly until the pattern lands.|/book-a-call/",
-  "GCSE French Tuition|Structured tutoring across all four skills for students aiming high in writing and speaking, where the easy marks at the top end get missed most often.|/book-a-call/",
-  "GCSE Geography Tuition|Case study revision, data response and nine-mark question technique, turning subject knowledge into the marks the mark scheme rewards.|/book-a-call/",
-  "GCSE Computer Science Tuition|One-to-one work through programming, algorithms and Boolean logic, with the NEA and written paper both built up deliberately.|/book-a-call/",
+  "GCSE English Tuition|Essays marked against the real mark scheme, so your child can see exactly which paragraph earned what.|/book-a-call/",
+  "GCSE Maths Tuition|Whether your child is filling gaps or pushing on, the problem-solving questions get plenty of timed practice.|/book-a-call/",
+  "GCSE Chemistry Tuition|Rates calculations and bonding, with each answer checked against the wording examiners are looking for.|/book-a-call/",
+  "GCSE History Tuition|A clear plan for every question type, so your child isn't still deciding on a structure halfway through.|/book-a-call/",
+  "GCSE Physics Tuition|Application questions on forces and electricity, practised until an unfamiliar setup no longer causes panic.|/book-a-call/",
+  "GCSE Biology Tuition|Longer six-mark answers broken down calmly, so your child sees how marks are handed out point by point.|/book-a-call/",
+  "GCSE French Tuition|Regular speaking practice with the tutor, so the speaking exam feels more like a conversation than an ordeal.|/book-a-call/",
+  "GCSE Geography Tuition|Data questions and case studies practised little and often, rather than crammed in a panic before mocks.|/book-a-call/",
+  "GCSE Computer Science Tuition|Algorithms and Boolean logic worked through steadily, with the written papers practised in timed chunks.|/book-a-call/",
 ]
 alevel_subjects: [
-  "A-Level History Tuition|Analytical essay writing A-Level History demands, with structure that holds up under timing and the source skills that lift the band.|/book-a-call/",
-  "A-Level Chemistry Tuition|Step-by-step tutoring through organic, inorganic and physical chemistry for students preparing for medicine, dentistry or natural sciences.|/book-a-call/",
-  "A-Level Maths Tuition|Pure, statistics and mechanics worked in depth, with the structured proof work that decides A from A*.|/book-a-call/",
-  "A-Level Biology Tuition|Genetics, physiology and ecology taken in detail for students aiming at medicine, dentistry or a competitive bioscience degree.|/book-a-call/",
-  "A-Level Physics Tuition|Patient, exam-board-aware tuition through mechanics, fields and quantum for students aiming at engineering or physics at a strong university.|/book-a-call/",
-  "A-Level Psychology Tuition|Methodical work through research methods and evaluation writing, with precision not just length.|/book-a-call/",
-  "A-Level Economics Tuition|Micro, macro and the evaluation chains that turn an Economics paper into the strongest part of a UCAS application.|/book-a-call/",
-  "A-Level English Tuition|Critical analysis and essay writing at A-Level, taught by tutors who know what markers reward at the top of the mark scheme.|/book-a-call/",
-  "A-Level Geography Tuition|Advanced concept work, fieldwork analysis and the 20-mark essay, pitched at whatever level the student is sitting at.|/book-a-call/",
+  "A-Level History Tuition|A quick plan, then a full essay under timed conditions, with honest feedback on where the argument holds.|/book-a-call/",
+  "A-Level Chemistry Tuition|Organic and physical chemistry at a sensible pace, whether your child is eyeing Medicine or just wants calmer revision.|/book-a-call/",
+  "A-Level Maths Tuition|Proof and calculus under exam timing, with the tutor pointing out where method marks can still be picked up.|/book-a-call/",
+  "A-Level Biology Tuition|Genetics and physiology in depth, for future medics and for anyone who'd like Biology to feel less of a slog.|/book-a-call/",
+  "A-Level Physics Tuition|Fields and quantum taken slowly, then practised at pace, for engineering hopefuls and anyone finding the jump hard.|/book-a-call/",
+  "A-Level Psychology Tuition|Research methods drilled until they're automatic, and evaluation written precisely rather than at great length.|/book-a-call/",
+  "A-Level Economics Tuition|Micro and macro essays where the evaluation goes a step further each time, which helps a UCAS application too.|/book-a-call/",
+  "A-Level English Tuition|Set texts read closely and essays written to time, with feedback shaped by what markers actually reward.|/book-a-call/",
+  "A-Level Geography Tuition|Fieldwork analysis and the longer essays, pitched wherever your child is starting and paced to avoid a late rush.|/book-a-call/",
 ]
 other_subjects: [
-  "University Personal Statement|Shape a strong UCAS personal statement with expert support on structure, subject motivation and final polish.|/book-a-call/",
+  "University Personal Statement|A UCAS personal statement that's clear and in your child's own voice, finished well before the deadline looms.|/book-a-call/",
 ]
-faq_1_q: "Do you support students aiming for grammar or independent schools in Sevenoaks?"
-faq_1_a: "Yes. We work with students preparing for the Kent Test (11+), Common Entrance and competitive sixth form entry. Tutors know what the Kent Test is looking for and prepare students accordingly, not just on content but on how to perform under timed conditions."
-faq_2_q: "What exam boards do your tutors cover?"
-faq_2_a: "AQA, Edexcel, OCR and WJEC. When we match a student with a tutor in Sevenoaks, exam board knowledge is part of the criteria. We don't just match on subject."
-faq_3_q: "Do you help with sixth form entrance exams or interviews?"
-faq_3_a: "Yes. We work with Sevenoaks students preparing for competitive grammar and independent sixth form entry, including aptitude tests and interviews. Tutors know what these schools look for and how to prepare students properly, not just on content."
-faq_4_q: "What if my child doesn't get on with their tutor?"
-faq_4_a: "Tell us and we will sort it. No awkward conversation, no process. We would rather find the right match than have a student sitting through sessions that are not working for them."
-why_heading: "Why Sevenoaks families come to us for tutoring at every stage"
-why_para_1: "Two kinds of Sevenoaks student tend to arrive at their first session. The first is the Year 5 or 6 child whose family has decided to prepare for the Kent Test properly, where the work is less about new content and more about pace, reasoning under pressure, and the timing strategies the test rewards. The second is a Year 10 or 11 already inside a strong school who's quietly slipping in one subject. The room they're in moves fast. The teacher is doing what a class of thirty allows. What the tutor finds in week one is usually a topic from a year ago that never got nailed and has been quietly affecting every assessment since."
-why_para_2: "What the tutor does first in both cases is honest marking. For Kent Test students, that means timed reasoning and English papers worked through in detail, with the way an answer is laid out as important as the answer itself. For GCSE and A-Level students, sessions go straight into recent work, marked the way the exam board marks. From there the plan moves into the topic or paper part that's been costing the most. Most parents in Sevenoaks notice the shift in how their child talks about the next assessment first, before it shows up on a paper."
-accordion_quality: "Every tutor working with Sevenoaks students is assessed on subject depth and on exam-board fluency. For Kent Test, GCSE or A-Level tutoring under this much selective pressure, a tutor who knows the test format or mark scheme cold matters more than a generally-good teacher who doesn't."
-accordion_experience: "Our Sevenoaks tutors have prepared students for the Kent Test, competitive grammar sixth form entry, Russell Group applications and Oxbridge offers. They know the standard those routes expect and how to coach a student towards it without burning them out."
-accordion_personalised: "We don't run set programmes. For a Sevenoaks student, tuition is shaped around their specific test, exam board or target grade, with sessions that move at the pace the student actually needs rather than a generic timetable."
+faq_1_q: "My child might sit the Kent Test next autumn. Can you help them get ready?"
+faq_1_a: "Yes. The tutor works through English, Maths and reasoning papers with your child, practising the timing until the format feels ordinary. If you start well before the autumn, it can stay calm and weekly rather than rushed. We can help with Common Entrance too."
+faq_2_q: "Won't a tutor just add to the pressure?"
+faq_2_a: "It shouldn't. When your child knows someone is working on the gaps with them, home usually gets calmer. If it ever feels like too much, you can pause. There's no contract."
+faq_3_q: "Do you help with sixth form entry tests and interviews?"
+faq_3_a: "Yes. For competitive grammar and independent sixth form places, tutors on our platform help your child prepare for any aptitude tests and interviews. That means timed practice for the tests, and practice interviews where your child gets used to explaining their thinking out loud."
+faq_4_q: "What if my child and the tutor don't get on?"
+faq_4_a: "Tell us, and we'll find someone else at no charge. Harry and Joe each had one excellent tutor and one who was only okay when they were growing up, so we'd much rather swap than let lessons drift."
+why_heading: "Sevenoaks tutoring that shows you where the marks are going"
+why_para_1: "In a first lesson with a Sevenoaks child, the tutor usually finds less missing than you'd fear. Most of the content is there. What costs marks is how it comes out against a clock. A Year 6 child who can do every reasoning question at home with no clock running, just not at the Kent Test's pace. A Year 11 who understands the Chemistry but writes a six-mark answer worth three, because the key word the mark scheme wanted never made it onto the page. Neither shows up clearly on a report. And both children tend to blame themselves."
+why_para_2: "So the work is mostly honest, timed practice, marked the way the real thing is marked. For the Kent Test, that means papers against the clock and a look at how each answer was reached. For GCSE and A-Level, it means recent work marked against the exam board's scheme, with the most time going to whichever part of the paper costs the most. Lessons stay weekly rather than turning into a late cram, so your child isn't running on empty when the exam arrives. You'll often spot the change at home before any mark moves. Less dread on a Sunday night."
+accordion_quality: "Harry or Joe meet every tutor before they join, and only about 3% of applicants get a place on the platform. For Sevenoaks families, we also check the tutor knows the paper your child is sitting, from the Kent Test format to the exam board's mark scheme."
+accordion_experience: "Tutors we suggest in Sevenoaks have helped children through the Kent Test, grammar sixth form entry, and Russell Group and Oxbridge applications. They know what each stage asks for, and how to prepare a child for it without wearing them out."
+accordion_personalised: "No set programme. Each plan is built around your child's next exam, whether that's the Kent Test or an A-Level paper. And the pace is one your child can keep up, not a timetable fixed back in September."
 reviews: [
   "Heidi|Parent|Our tutor is simply amazing with our daughter. He understands her completely and her sessions are helping her with her school work so much. We cannot thank him enough.",
   "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings. Highly recommend.",
