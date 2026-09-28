@@ -1,37 +1,16 @@
 ---
 title: "Wolverhampton Tutoring | GCSE & A-Level Tutors"
-description: One-to-one Wolverhampton tutoring for Maths, English, Sciences and
-  more. Expert tutors, flexible online lessons and proven academic results.
+description: "Wolverhampton tutors for GCSE and A-Level, online and one-to-one, plus help with subject choices and university applications. From £37, no contract."
 layout: single
 location: Wolverhampton
-banner_heading: "Online Wolverhampton tutors who treat ambition as the starting point, not the ceiling"
-banner_description: The Degree Gap pairs Wolverhampton students with tutors who
-  teach to the top of the mark scheme, not the comfortable middle, and know
-  exactly what the longer-mark questions reward.
-content_angle: ambition
-intro_1: Wolverhampton has a strong, mixed school system, from the independent
-  Wolverhampton Grammar School, founded in 1512, through to large state
-  secondaries that serve a young, diverse, ambitious population. A lot of the
-  families we work with in the city are sending the first generation in their
-  household to university, and the bar they've set for their child is higher
-  than the bar a class of thirty can realistically aim at. That's not a
-  criticism of the schools. It's just what 28 students per teacher means in
-  practice.
-intro_2: Our Wolverhampton tutors fill the gap that the classroom can't.
-  One-to-one tuition gives an ambitious student the attention to stretch beyond
-  the syllabus, the time to nail the harder exam questions, and the steady pace
-  of feedback that turns a grade 6 student into a grade 8 student. We match each
-  family with a tutor who knows the exam board, knows what top grade answers
-  actually look like, and knows how to keep a motivated student moving forward.
+banner_heading: "From GCSE and A-Level to University, Online Wolverhampton Tutors in Your Child's Corner"
+banner_description: "You want every door open for your child, even if A-Levels and university applications are new ground for your family. A tutor helps with the grades. We'll help with the rest."
+content_angle: "first in the family: weekly tutoring plus plain guidance on A-Level choices, sixth form and UCAS, for parents who haven't been through it themselves"
+intro_1: "Some of the Wolverhampton parents we speak to didn't go to university themselves, and they're determined their child will have the choice. Others did, years ago, and barely recognise today's GCSE grades or the UCAS process. Either way, it's hard to help with homework you can't check, or to know what to ask at parents' evening. That's not a failing. The system has changed a lot, and nobody hands parents a guide to it."
+intro_2: "So we help with both halves. Each week, a tutor works with your child on whichever subjects need it most, whether they're aiming for sixth form at Wulfrun College or a medicine application a few years on. Around that, Harry and Joe, who started The Degree Gap, can talk you through bigger decisions, like which A-Levels keep doors open. It starts with a free call. Within 24 hours we'll send you two or three tutors to look at, and there's a chance to meet your top choice before anything's booked."
 about_heading: Experienced GCSE and A-Level Tutors in Wolverhampton
 about_image: /images/graduation-ceremony-caps.jpg
-schools_intro: Our tutors support students from secondary schools right across
-  Wolverhampton. From Wolverhampton Grammar School and Our Lady & St Chad
-  Catholic Academy to Highfields School, Heath Park Academy, Smestow Academy and
-  St Edmund's Catholic Academy, students come to us for all sorts of reasons,
-  whether they're aiming for top grades, preparing for sixth form entry at
-  Wulfrun College or building a strong UCAS application. We also run workshops
-  on exam technique and study skills, open to students from any local school.
+schools_intro: "Wolverhampton children want very different things from school, and we work with families across the city, with children at Wolverhampton Grammar School, Our Lady & St Chad Catholic Academy, Highfields School, Heath Park Academy, Smestow Academy and St Edmund's Catholic Academy. One wants a strong UCAS application. Another just wants to stop dreading Maths. Both matter. Our 'Dragon's Den' revision workshops run in schools too, and Harry and Joe often lead them themselves."
 schools:
   - Wolverhampton Grammar School
   - Our Lady & St Chad Catholic Academy
@@ -40,24 +19,12 @@ schools:
   - Smestow Academy
   - St Edmund's Catholic Academy
 schools_image: /images/students-listening-in-classroom.jpg
-online_heading: "Online tutoring for Wolverhampton students: a specialist for every subject"
-online_1: Most of our work with Wolverhampton families happens online through
-  Lessonspace. It's a shared whiteboard platform designed for one-to-one
-  tuition, and it means students aren't limited to whichever tutors happen to
-  live within a short drive. If a student needs a Russell Group graduate
-  teaching A-Level Maths or a senior examiner for GCSE English Literature, we
-  draw from a national pool of online tutors and match on subject, exam board
-  and teaching style.
-online_2: For ambitious students in Wolverhampton, online tuition often suits
-  the pace they want to work at. Sessions can be scheduled around busy school
-  weeks, homework can be looked at quickly between lessons, and there's no time
-  lost to travel. Most students find they concentrate harder one-to-one online
-  than they do in a busy classroom. The setup is simple from the first session.
+online_heading: "Why online tutoring gives Wolverhampton families more choice"
+online_1: "Because every lesson is online, we can pick your child's tutor from right across the UK, rather than only from the Wolverhampton area. If your child would get on best with a tutor who also marks GCSE English Literature papers, we can look for one anywhere in the country. Lessonspace, the platform lessons run on, lets the tutor see your child's working as it's written and step in straight away."
+online_2: "It's easier on family life, too. Nobody has to do a cross-city drive after a long day at work, and lessons can go in whenever suits your week. Every lesson is recorded, which means a tricky explanation can be watched again at any point. Most children get the hang of it inside a lesson or two."
 online_image: /images/student-celebrating-online-learning.jpg
 map_url: https://maps.google.com/maps?q=Wolverhampton,UK&output=embed
-areas_intro: The Degree Gap works with students from Wolverhampton and
-  surrounding towns, matching each family with the tutor best suited to their
-  subject and goals.
+areas_intro: "Your postcode makes no difference to lessons, so we help families all over Wolverhampton and in each of the towns and cities below."
 area_links:
   - Birmingham Tutors|/locations/birmingham-tutors/
   - Coventry Tutors|/locations/coventry-tutors/
@@ -66,111 +33,41 @@ area_links:
   - Leicester Tutors|/locations/leicester-tutors/
   - Sheffield Tutors|/locations/sheffield-tutors/
 gcse_subjects:
-  - GCSE Maths Tuition|Stretch tutoring across number, algebra and statistics
-    for students who want the top grade boundaries within reach, not just a
-    comfortable pass.|/book-a-call/
-  - GCSE Biology Tuition|Detailed work through the full GCSE specification for
-    students who want to walk into the exam confident on the harder six and
-    nine-mark questions.|/book-a-call/
-  - GCSE English Tuition|Sharp, focused tuition across Language and Literature
-    for students who want a method that works under exam timing, not just at
-    home with no clock running.|/book-a-call/
-  - GCSE Chemistry Tuition|One-to-one work through bonding, equations and rates
-    of reaction for students aiming at grades 7 to 9 and the answers that get
-    them there.|/book-a-call/
-  - GCSE Physics Tuition|Tutoring through forces, waves and electromagnetism
-    built around the application questions that decide the top
-    grades.|/book-a-call/
-  - GCSE Computer Science Tuition|Patient sessions through programming,
-    algorithms and data representation for students who want both their NEA and
-    written paper to land at the top end.|/book-a-call/
-  - GCSE Geography Tuition|Case study revision, data response and nine-mark
-    question technique, with tutoring that turns subject knowledge into the
-    marks the mark scheme actually awards.|/book-a-call/
-  - GCSE History Tuition|Source skills, essay structure and extended argument,
-    taught by tutors who know what a grade 9 history answer looks
-    like.|/book-a-call/
-  - GCSE French Tuition|Structured tutoring across all four skills for students
-    aiming high in writing and speaking, where the easy marks at the top end get
-    missed most often.|/book-a-call/
+  - "GCSE Maths Tuition|Whatever's holding your child's Maths back, found and worked on, since sixth form courses often ask for a good Maths grade.|/book-a-call/"
+  - "GCSE Biology Tuition|Biology for a child with half an eye on medicine or nursing, with practice on the longer answers from the start.|/book-a-call/"
+  - "GCSE English Tuition|Clear, confident writing for Language and Literature, the kind that helps in every other subject and later in applications too.|/book-a-call/"
+  - "GCSE Chemistry Tuition|Bonding, rates and chemical calculations, explained until your child could teach them back to you.|/book-a-call/"
+  - "GCSE Physics Tuition|Waves, forces and electricity, with plenty of practice on the questions that set Physics in an everyday situation.|/book-a-call/"
+  - "GCSE Computer Science Tuition|Programming and theory side by side, for a child already wondering about computing or engineering after school.|/book-a-call/"
+  - "GCSE Geography Tuition|Human and physical topics tied to real examples your child remembers, then used well in the longer written answers.|/book-a-call/"
+  - "GCSE History Tuition|History taught as argument as well as facts, a skill that carries straight into A-Level and university essays.|/book-a-call/"
+  - "GCSE French Tuition|A GCSE language keeps options open later, so the tutor makes speaking and listening practice a regular, low-stress habit.|/book-a-call/"
 alevel_subjects:
-  - A-Level Economics Tuition|Support through micro, macro and evaluation
-    writing for students who want Economics to be the strongest part of their
-    UCAS application.|/book-a-call/
-  - A-Level Chemistry Tuition|Step-by-step tutoring through organic, inorganic
-    and physical chemistry for students who need to build genuine understanding
-    ahead of medicine, dentistry or chemistry applications.|/book-a-call/
-  - A-Level Biology Tuition|In-depth support through genetics, physiology and
-    ecology for students aiming at a competitive university
-    course.|/book-a-call/
-  - A-Level Maths Tuition|Focused tutoring across pure, statistics and mechanics
-    for students who want to stay ahead of Year 13 content before it stops being
-    optional to do so.|/book-a-call/
-  - A-Level Physics Tuition|Patient, exam-board-aware tuition through mechanics,
-    fields and quantum topics for students aiming at engineering or physics at a
-    top university.|/book-a-call/
-  - A-Level Psychology Tuition|Methodical work through research methods and
-    evaluation writing for students who want to write with precision, not just
-    at length.|/book-a-call/
-  - A-Level History Tuition|Help with the analytical essay writing A-Level
-    History demands, for students who want top band answers, not just the safe
-    middle.|/book-a-call/
-  - A-Level English Tuition|Critical analysis and essay writing at A-Level,
-    taught by tutors who know what markers reward at the top end of the mark
-    scheme.|/book-a-call/
-  - A-Level Geography Tuition|Advanced concept work, fieldwork analysis and
-    extended writing, with tutors who pitch sessions at whatever level the
-    student is sitting at.|/book-a-call/
+  - "A-Level Economics Tuition|Current news turned into essay examples, and a clear way to explain every diagram in words.|/book-a-call/"
+  - "A-Level Chemistry Tuition|Organic mechanisms, inorganic trends and physical calculations, taught steadily for a child whose plans might include medicine or dentistry.|/book-a-call/"
+  - "A-Level Biology Tuition|Genetics, physiology and the practical skills, taught thoroughly for a child with a competitive university course in mind.|/book-a-call/"
+  - "A-Level Maths Tuition|A step ahead of the class in pure, statistics and mechanics, so Year 13 feels calmer when it comes.|/book-a-call/"
+  - "A-Level Physics Tuition|Mechanics, fields and quantum, with plenty of exam-style questions for a child with engineering or physics in mind.|/book-a-call/"
+  - "A-Level Psychology Tuition|Evaluation written with precision instead of padding, a habit that helps with A-Level essays now and university work later.|/book-a-call/"
+  - "A-Level History Tuition|Analytical essays taken apart and rebuilt with your child, so every paragraph earns its place.|/book-a-call/"
+  - "A-Level English Tuition|Close reading and critical essays, with help putting your child's own opinion into words an examiner will reward.|/book-a-call/"
+  - "A-Level Geography Tuition|Extended writing and fieldwork analysis, pitched at wherever your child is starting from rather than a one-size plan.|/book-a-call/"
 other_subjects:
-  - University Personal Statement|Shape a strong UCAS personal statement with
-    expert support on structure, subject motivation, and final
-    polish.|/book-a-call/
-faq_1_q: How do I find the right tutor in Wolverhampton?
-faq_1_a: Tell us the subject, the year group and what the student is trying to
-  achieve. We take it from there. Most families hear back quickly, and you're
-  not left scrolling through profiles trying to work out who's right.
-faq_2_q: What qualifications do your tutors have?
-faq_2_a: All our tutors are graduates, and many come from Russell Group
-  universities. Every tutor is vetted individually on subject knowledge, on how
-  they explain things, and on how they work with young people. A degree alone
-  isn't enough for us.
-faq_3_q: How much does tutoring cost in Wolverhampton?
-faq_3_a: Sessions start from £37 per hour. The exact rate depends on the subject
-  and the tutor, and it's agreed before anything is booked. No surprises, no
-  hidden fees.
-faq_4_q: Do you help with sixth form entrance exams or interviews?
-faq_4_a: Yes. We work with Wolverhampton students preparing for competitive
-  sixth form entry, including aptitude tests and interviews. Tutors know what
-  these schools are looking for and how to prepare students properly, not just
-  on content.
-why_heading: Why Wolverhampton families choose our A-Level and GCSE tutoring
-why_para_1: Ambitious Wolverhampton students often arrive at their first
-  tutoring session in the same place. They're doing well in class. They're
-  hitting grade 6 or 7 mocks. But the jump to a grade 8 or 9, or from an A-Level
-  B to an A or A*, hasn't been explained to them. School has shown them how to
-  be solid. It hasn't shown them what the top of the mark scheme actually wants,
-  and the difference between a competent paragraph and a grade 9 paragraph is
-  far smaller than students realise.
-why_para_2: Our tutors close that distance. The first few sessions usually focus
-  on what the mark schemes actually reward, the question structures examiners
-  are looking for and the small technical moves that lift answers into the
-  highest grades. For students sitting Wolverhampton Grammar exams, applying for
-  medicine, or aiming at a Russell Group, our GCSE tutoring and A-Level tuition
-  keeps that ambition realistic and tactical, not vague. Most parents say the
-  shift in their child's confidence shows up well before the next mock.
-accordion_quality: Every tutor working with ambitious Wolverhampton students is
-  assessed on subject depth and on whether they actually know what top grade
-  answers look like. A tutor who can teach a grade 6 student isn't always the
-  right person to lift a grade 7 student into the 8 to 9 band, and we match
-  accordingly.
-accordion_experience: Our tutors have worked with students aiming at medicine,
-  dentistry, engineering and the most competitive university courses. They know
-  the standard those applications require, and they know how to coach a student
-  towards it without burning them out before exams.
-accordion_personalised: We don't run set programmes. For an ambitious
-  Wolverhampton student, tutoring is shaped around their specific subjects,
-  target grades and university plans, with the room to stretch beyond the
-  syllabus where it'll help.
+  - "University Personal Statement|A UCAS personal statement shaped with someone who's written one before, which helps when nobody at home has.|/book-a-call/"
+faq_1_q: "I didn't go to university myself. Can you help with UCAS?"
+faq_1_a: "Yes, and plenty of parents ask us exactly that. Alongside the weekly lessons, Harry and Joe can talk you through choosing A-Levels, sixth form options and the UCAS process, in plain English. We've been through it ourselves, so just ask about anything that's unfamiliar."
+faq_2_q: "How do you choose your tutors?"
+faq_2_a: "They're all graduates of top Russell Group universities, and many are qualified teachers. But a degree isn't enough on its own. The bit we care about most is whether they can explain a hard idea clearly and kindly to a teenager."
+faq_3_q: "How much are lessons, and is there a contract?"
+faq_3_a: "It depends on the tutor, starting from £37 an hour. You'll always know the rate before the first lesson, you pay lesson by lesson, and there's no contract tying you in."
+faq_4_q: "Can a tutor help with sixth form applications, including tests and interviews?"
+faq_4_a: "Yes. Whether it's Wulfrun College or a sixth form further afield, the tutor can help your child prepare for any entry test and practise interview questions out loud, so talking about themselves feels less awkward."
+why_heading: "Tutoring that shows Wolverhampton children what the exam is really asking"
+why_para_1: "Take two Year 11s who start lessons in the same week. One is working hard and not moving past the same grade. The other is doing well and wants more, maybe with medicine in mind. Very often they're missing the same thing: nobody has shown them exactly what the mark scheme is asking for. The knowledge is there. But the gap between an answer that picks up some of the marks and one that gets all of them is often a sentence or two, and that's rarely spelled out when there are thirty others in the room."
+why_para_2: "So the tutor spells it out. Word by word, if that's what it takes. They'll mark a past paper alongside your child, point to the words that earned each mark, and practise until your child does it without being prompted. And because it's one-to-one, your child can ask the questions they'd never ask in class. Often, the first thing parents notice is their child talking about the future with a bit more certainty, well before a report shows it."
+accordion_quality: "Just 3% or so of the tutors who apply to us get onto the platform. Each one sits an interview with Harry and Joe, who are looking for more than good grades: someone who can stretch a keen child and steady a worried one, sometimes in the same week."
+accordion_experience: "Most have been tutoring for a couple of years at least, and between them they've helped teenagers apply for medicine, dentistry, engineering and other competitive courses. They know what those applications involve, and how to build towards them without the whole thing taking over family life."
+accordion_personalised: "Every plan is built around your child's own goals and the subjects that matter most to them, and the tutor will happily go beyond the syllabus when a bit of extra stretch would help."
 reviews:
   - Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone
     above and beyond to pair both my sons with the appropriate tutors, all of
