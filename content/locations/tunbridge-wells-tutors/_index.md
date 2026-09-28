@@ -1,39 +1,16 @@
 ---
 title: "Tunbridge Wells Tutoring | GCSE & A-Level Tutors"
-description: One-to-one Tunbridge Wells tutoring for Maths, English, Sciences and
-  more. Expert tutors, flexible online lessons and proven academic results.
+description: "Tunbridge Wells tutoring for the Kent Test, GCSE and A-Level: one-to-one online lessons where your child can ask anything. From £37 an hour, no contract."
 layout: single
 location: Tunbridge Wells
-banner_heading: "Looking for an online Tunbridge Wells tutor for the Kent Test, GCSEs or A-Levels?"
-banner_description: Our Tunbridge Wells tutors prepare students for the 11+, top
-  GCSE grades and the A-Level standards that competitive universities now
-  expect.
-content_angle: exam pressure
-intro_1: Tunbridge Wells sits in Kent, a fully selective grammar school county.
-  Children in the town sit the Kent Test, the county's 11+, in Year 6, and the
-  result shapes the next seven years. Pass, and the route runs through Tunbridge
-  Wells Grammar School for Boys, Tunbridge Wells Girls' Grammar School,
-  Skinners' or Bennett Memorial. Not pass, and the route runs through Tunbridge
-  Wells High School, Skinners' Kent Academy or one of the independents like Kent
-  College Pembury. Whichever route a child takes, the pressure on GCSE grades
-  and A-Level performance in this town sits well above the national average.
-intro_2: Our Tunbridge Wells tutors work one-to-one with students at every stage
-  of this. For Kent Test candidates, that means proper preparation in English,
-  Maths and reasoning well ahead of the autumn test. For students already in a
-  grammar, it means keeping pace with a class where everyone arrived at the same
-  selective standard. For students aiming higher than their current school is
-  set up to push them towards, it means closing the gap quickly. One-to-one
-  tuition lets the tutor work on exactly what that specific student needs, and
-  nothing else.
+banner_heading: "When Your Child Has Gone Quiet About School: Online Tunbridge Wells Tutors for GCSE and A-Level"
+banner_description: "Our Tunbridge Wells tutors work one-to-one and online, so the questions your child keeps to themselves in class finally get asked, and answered."
+content_angle: "confidence after the Kent Test: the bright child who's gone quiet and stopped asking questions, at any Tunbridge Wells school, and one-to-one lessons where being stuck is normal"
+intro_1: "It often shows up at home before it shows up in a report. The child who used to tell you about their day now says 'fine' and heads upstairs. Homework that took half an hour takes all evening. Then one day they announce they're 'just not clever', which is hard to hear about a child you know is bright. We hear this from Tunbridge Wells parents a lot, and it isn't tied to one kind of school. Some children who passed the Kent Test find, somewhere in Year 8, that they're no longer top of anything, and it rattles them more than anyone expected."
+intro_2: "One-to-one, a lot of that quietness starts to lift. There's nobody to compare themselves with and nobody to overhear a 'silly' question, so the tutor can rewind to where your child first got lost and build back up from something they can already do. The start is gentle, too. Step one is a free chat with Harry or Joe. Then, within a day, a shortlist of two or three tutors, and a free video meeting so your child sees a friendly face before any lesson is booked. Lessons are from £37, with no contract, and if the match isn't right, we'll find someone new."
 about_heading: Experienced GCSE and A-Level Tutors in Tunbridge Wells
 about_image: /images/student-completing-maths-worksheet.jpg
-schools_intro: Our tutors support students from schools right across Tunbridge
-  Wells. Tunbridge Wells Grammar School for Boys, Tunbridge Wells Girls' Grammar
-  School, The Skinners' School, Bennett Memorial Diocesan School, Tunbridge
-  Wells High School and Kent College Pembury all send students our way, whether
-  they're preparing for the Kent Test, working towards top GCSE grades or
-  building a strong A-Level base. We also run workshops on revision strategy and
-  exam technique, open to students from any local school.
+schools_intro: "The children we help in Tunbridge Wells go to all sorts of schools: Tunbridge Wells Grammar School for Boys, Tunbridge Wells Girls' Grammar School, The Skinners' School, Bennett Memorial Diocesan School, Tunbridge Wells High School and Kent College Pembury among them. Each of them makes its own choice of exam boards, so before we suggest anyone, we'll find out which papers your child is sitting. And when Harry and Joe aren't matching families with tutors, they're often in a classroom somewhere, leading a revision workshop."
 schools:
   - Tunbridge Wells Grammar School for Boys
   - Tunbridge Wells Girls' Grammar School
@@ -42,26 +19,12 @@ schools:
   - Tunbridge Wells High School
   - Kent College Pembury
 schools_image: /images/school-clock-tower-building.jpg
-online_heading: "Online tuition for Tunbridge Wells students: Kent Test, GCSE
-  and A-Level specialists"
-online_1: Most of our work with Tunbridge Wells families runs online through
-  Lessonspace, a shared whiteboard platform built for one-to-one sessions. For
-  Kent Test preparation, that means a tutor who knows the test format and works
-  through reasoning, English and Maths papers with the student on the
-  whiteboard, live, while the parent can drop in and see exactly what's being
-  covered. For GCSE and A-Level, families aren't limited to whoever happens to
-  live locally.
-online_2: And online tutoring tends to work well for students under
-  selective-exam pressure. There's no unfamiliar room. Sessions slot in around
-  school and clubs without time lost to travel. Most students concentrate harder
-  one-to-one online than they do in a busy classroom, and weekly consistency,
-  which matters more than total hours for the Kent Test and for GCSE prep, is
-  easier to maintain. The platform takes about a minute to learn.
+online_heading: "Why online tutoring can suit a Tunbridge Wells child who's gone quiet in class"
+online_1: "For a child who's lost some confidence, learning from home can be a relief. They're at their own desk, with no classmates around. Lessonspace, the online platform we use, gives your child and the tutor one whiteboard to share, so the tutor can see the moment your child hesitates and step in before a small muddle turns into a big one. Every lesson is recorded, too, and your child can replay an explanation privately as many times as they need."
+online_2: "With tutors from all over the country to choose from, we can think about personality as well as subject. For a quiet child, that part matters. Some need someone gentle and patient; others open up with a tutor who's a bit more lively. And with no car journey involved, the lesson can sit in the same slot every week, Wednesday after tea or whenever suits, until it's simply part of the routine."
 online_image: /images/child-using-online-learning-laptop.jpg
 map_url: https://maps.google.com/maps?q=Tunbridge+Wells,UK&output=embed
-areas_intro: Looking for support beyond Tunbridge Wells? Our tutors work with
-  families across Kent and the surrounding region, online and matched on what
-  each student actually needs.
+areas_intro: "Whether you're in the middle of Tunbridge Wells, out towards Pembury or further across Kent, lessons run in exactly the same way, as they do in the other towns below."
 area_links:
   - Brighton Tutors|/locations/brighton-tutors/
   - Reading Tutors|/locations/reading-tutors/
@@ -70,113 +33,41 @@ area_links:
   - Epsom Tutors|/locations/epsom-tutors/
   - St Albans Tutors|/locations/st-albans-tutors/
 gcse_subjects:
-  - GCSE English Tuition|Sharp tutoring across Language and Literature for
-    students who want a method that holds up under exam timing, not just at home
-    with no clock running.|/book-a-call/
-  - GCSE Maths Tuition|Stretch tutoring across number, algebra and statistics
-    for grammar school students across the whole mark band, from foundation work
-    to top-grade stretch, and for students working hard to close any
-    gap.|/book-a-call/
-  - GCSE History Tuition|Source skills, essay structure and extended argument,
-    taught by tutors who know what a grade 9 history answer actually looks
-    like.|/book-a-call/
-  - GCSE Chemistry Tuition|Precise one-to-one work through bonding, equations
-    and rates for students aiming at grades 7 to 9 and the answers that get them
-    there.|/book-a-call/
-  - GCSE Biology Tuition|Detailed work across the full specification for
-    students who want to walk into the exam confident on the harder six and
-    nine-mark questions.|/book-a-call/
-  - GCSE Physics Tuition|Tutoring through forces, waves and electromagnetism
-    built around the application questions that decide the top
-    grades.|/book-a-call/
-  - GCSE Computer Science Tuition|One-to-one work through programming,
-    algorithms and Boolean logic for students who want both NEA and written
-    paper to land at the top end.|/book-a-call/
-  - GCSE French Tuition|Structured tutoring across all four skills for students
-    aiming high in writing and speaking, where the easy marks at the top end get
-    missed most often.|/book-a-call/
-  - GCSE Geography Tuition|Case study revision, data response and nine-mark
-    question technique, with tutoring that turns subject knowledge into the
-    marks the mark scheme actually awards.|/book-a-call/
+  - "GCSE English Tuition|A simple plan your child can trust for every essay, so the blank page stops being the scariest part.|/book-a-call/"
+  - "GCSE Maths Tuition|The questions your child has been quietly skipping, taken one at a time until they're no longer the ones to dread.|/book-a-call/"
+  - "GCSE History Tuition|Source questions made less mysterious, with one reliable way in that works on whatever source the paper includes.|/book-a-call/"
+  - "GCSE Chemistry Tuition|Equations and calculations explained until they make sense, with plenty of room for your child to say 'I don't get it'.|/book-a-call/"
+  - "GCSE Biology Tuition|Longer written answers practised without pressure, until your child trusts what they know about cells, genes and ecosystems.|/book-a-call/"
+  - "GCSE Physics Tuition|Formulas, units and rearranging gone over patiently, since it's usually the maths that first knocks a child's belief in Physics.|/book-a-call/"
+  - "GCSE Computer Science Tuition|Small coding tasks built up step by step, so your child sees their own program working before the harder questions arrive.|/book-a-call/"
+  - "GCSE French Tuition|French conversation with one friendly person instead of a whole class listening, which is often what a nervous speaker needs.|/book-a-call/"
+  - "GCSE Geography Tuition|Case study facts turned into proper long answers a paragraph at a time, until your child stops underselling what they know.|/book-a-call/"
 alevel_subjects:
-  - A-Level History Tuition|Help with the analytical essay writing A-Level
-    History demands, for students who want to write essays that hold up under
-    timing, alongside history-led university applications.|/book-a-call/
-  - A-Level Chemistry Tuition|Step-by-step tutoring through organic, inorganic
-    and physical chemistry for students preparing for medicine, dentistry or
-    natural sciences.|/book-a-call/
-  - A-Level Maths Tuition|Focused tutoring across pure, statistics and mechanics
-    for students who want to stay ahead of Year 13 content before it gets
-    unmanageable.|/book-a-call/
-  - A-Level Biology Tuition|In-depth support through genetics, physiology and
-    ecology for students aiming at medicine, dentistry or a competitive
-    bioscience degree.|/book-a-call/
-  - A-Level Physics Tuition|Patient, exam-board-aware tuition through mechanics,
-    fields and quantum topics for students aiming at engineering or physics at a
-    top university.|/book-a-call/
-  - A-Level Psychology Tuition|Methodical work through research methods and
-    evaluation writing for students who want to write with precision, not just
-    at length.|/book-a-call/
-  - A-Level Economics Tuition|Micro, macro and evaluation writing for students
-    who want Economics to be the strongest part of their UCAS
-    application.|/book-a-call/
-  - A-Level English Tuition|Critical analysis and essay writing at A-Level,
-    taught by tutors who know what markers reward at the top end of the mark
-    scheme.|/book-a-call/
-  - A-Level Geography Tuition|Advanced concept work, fieldwork analysis and
-    extended writing, with tutors who pitch sessions at whatever level the
-    student is sitting at.|/book-a-call/
+  - "A-Level History Tuition|Timed essays marked kindly but honestly, so your child can see their argument getting sharper from one week to the next.|/book-a-call/"
+  - "A-Level Chemistry Tuition|The Year 12 topics that tend to knock confidence, like equilibrium and energetics, taken slowly with no question too basic.|/book-a-call/"
+  - "A-Level Maths Tuition|Pure maths explained in plain words, every step on the whiteboard, so your child stops assuming everyone else finds it easy.|/book-a-call/"
+  - "A-Level Biology Tuition|Genetics and respiration broken into pieces your child can master one at a time, then checked on past papers.|/book-a-call/"
+  - "A-Level Physics Tuition|Harder problems approached from the parts your child can already do, until the whole question starts to look possible.|/book-a-call/"
+  - "A-Level Psychology Tuition|Research methods demystified, and evaluation written in your child's own words rather than phrases learnt off by heart.|/book-a-call/"
+  - "A-Level Economics Tuition|Diagrams and data questions talked through together, so your child can explain an idea out loud before writing it down.|/book-a-call/"
+  - "A-Level English Tuition|Your child's own reading of the text turned into a clear argument, instead of guessing at what the examiner wants.|/book-a-call/"
+  - "A-Level Geography Tuition|Coursework broken into manageable stages with regular check-ins, so the write-up never has to feel like too much at once.|/book-a-call/"
 other_subjects:
-  - University Personal Statement|Shape a strong UCAS personal statement with
-    expert support on structure, subject motivation, and final
-    polish.|/book-a-call/
-faq_1_q: Do you support students aiming for grammar or independent schools in
-  Tunbridge Wells?
-faq_1_a: Yes. We work with students preparing for the Kent Test (11+), Common
-  Entrance and competitive sixth form entry. Tutors know what the Kent Test is
-  looking for and prepare students accordingly, not just on content but on how
-  to perform under timed conditions.
-faq_2_q: What exam boards do your tutors cover?
-faq_2_a: AQA, Edexcel, OCR and WJEC. When we match a student with a tutor in
-  Tunbridge Wells, exam board knowledge is part of the criteria. We don't just
-  match on subject.
-faq_3_q: Can tutors help with GCSE mock preparation in Tunbridge Wells?
-faq_3_a: Yes. Mocks are one of the most common reasons families come to us.
-  Tutors work through past papers, tighten exam technique and focus on the
-  topics most likely to come up. Students go in knowing what to expect.
-faq_4_q: Do you offer tutoring during school holidays in Tunbridge Wells?
-faq_4_a: Yes. Holiday sessions are popular with Tunbridge Wells families. Some
-  use the time to get ahead, some to catch up, some to prepare intensively for
-  the Kent Test or for exams. We fit around what works for the family.
-why_heading: Why Tunbridge Wells families choose The Degree Gap tutoring
-why_para_1: In Tunbridge Wells, selective exam pressure doesn't end with the
-  Kent Test. It starts there. Children who pass arrive in a grammar Year 7 where
-  everyone was top of their primary class, which means by Year 8 some students
-  are no longer top of anything, and that knock to confidence can take a year to
-  repair. Children at non-grammar schools often spend GCSE years trying to prove
-  the test didn't decide their ceiling. What tutors see in a first session,
-  whichever route the student is on, isn't a lack of ability. It's a student
-  who's been told they should know how to perform under pressure without ever
-  being shown how.
-why_para_2: Our tutors work on that directly. For Kent Test candidates, tuition
-  pairs reasoning practice with the timing strategies the test rewards. For GCSE
-  and A-Level students, sessions go straight into recent work, marked the way
-  the exam board marks, so the student sees exactly where the marks are being
-  left untaken. A-Level tutoring drills the evaluation writing, the synoptic
-  links and the precision examiners reward. Most parents notice the shift in how
-  their child talks about the next exam first, before the next mock catches up.
-accordion_quality: Every tutor working with Tunbridge Wells students is assessed
-  on subject depth and on exam-board fluency. For Kent Test, GCSE or A-Level
-  tutoring under this much selective pressure, a tutor who knows the
-  specification and mark scheme cold matters more than a generally-good teacher.
-accordion_experience: Our tutors have prepared students for the Kent Test,
-  competitive grammar sixth form entry, Russell Group applications and Oxbridge
-  offers. They know the standard those courses expect and how to coach a student
-  towards it without burning them out.
-accordion_personalised: We don't run set programmes. For a Tunbridge Wells
-  student, tuition is shaped around their specific test, exam board or target
-  grade, with sessions that move at the pace the student actually needs, not a
-  generic timetable.
+  - "University Personal Statement|A UCAS personal statement for the child who insists they've got nothing to write about, which is almost never true.|/book-a-call/"
+faq_1_q: "Do you help with the Kent Test, or only GCSEs and A-Levels?"
+faq_1_a: "Both. For the Kent Test, a tutor works through English, Maths and reasoning with your child well ahead of the autumn test, at a pace a ten-year-old can manage. We help with Common Entrance and sixth form applications as well."
+faq_2_q: "How do we know the tutor will know my child's exam board?"
+faq_2_a: "Because we ask before we match. Whether it's AQA, Edexcel, OCR or WJEC, every tutor we suggest will know your child's paper. Not sure which? A teacher or an old mock will tell you."
+faq_3_q: "Mocks are coming up. Is it worth starting now?"
+faq_3_a: "Yes, if you can. A few weeks is enough for a tutor to find the topics costing the most marks and practise them on real past papers. And even a slightly better mock can do a lot for a child who's been doubting themselves."
+faq_4_q: "Do lessons stop over half term and the summer?"
+faq_4_a: "Only if you want them to. Plenty of Tunbridge Wells families keep going through the holidays, or add a lesson or two before the Kent Test or exam season. A few weeks off is fine as well, and with no contract, it's entirely your call."
+why_heading: "How our Tunbridge Wells tutors help a child find their feet again"
+why_para_1: "On a first call, Tunbridge Wells parents often describe the same child in different words. Bright, but not trying any more. Clever, but convinced otherwise. When the tutor sits down with them, the picture is usually simpler than it looks from home. Somewhere along the way your child stopped asking questions, perhaps because everyone else seemed to get it, and small gaps have been stacking up quietly ever since. Often they're children who were used to getting things right first time and have never had to practise being stuck."
+why_para_2: "So the tutor starts with something your child can do, then moves one small step at a time into the part they've been avoiding. It's normal to get stuck, and lessons treat it that way, so your child gets used to saying 'hang on, I don't follow' out loud. That's the habit we most want them to carry back into the classroom. The first sign it's working is usually small: a question at dinner about something from school, asked because they actually want to know."
+accordion_quality: "Every tutor on the platform has been interviewed by Harry or Joe, and fewer than one in thirty applicants get in. We pay close attention to how they handle mistakes, because a tutor who can point out an error kindly is worth a lot to a child who's lost faith in themselves."
+accordion_experience: "Two years or more of one-to-one tutoring is typical for the tutors we'd suggest, from Kent Test preparation through to GCSE and A-Level papers. They're used to children who've decided they're bad at a subject, and can slow right down without it ever feeling babyish."
+accordion_personalised: "The pace is set around your child rather than a scheme of work. If they need three weeks on equations before the rest of the algebra makes sense, that's what they'll get, and nobody will make them feel slow about it."
 reviews:
   - Heidi|Parent|Our tutor is simply amazing with our daughter. He understands
     her completely and her sessions are helping her with her school work so
