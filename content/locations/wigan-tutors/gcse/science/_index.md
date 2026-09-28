@@ -1,24 +1,24 @@
 ---
 title: "Online GCSE Science Tutors | Wigan | The Degree Gap"
 nav_title: "Science"
-description: "GCSE Science tutors covering Wigan for Combined and Triple, with Biology, Chemistry and Physics specialists for the practicals and long-answer marks. From £37/hr."
+description: "Online GCSE Science tutors for Wigan families, Combined or Triple, giving your child a way into every question, from calculations to six-markers. From £37."
 layout: "level-subject"
 location: "Wigan"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutoring for Wigan Students"
-hero_lead: "GCSE Science is where a lot of Wigan students quietly lose ground: they revise hard, know the facts, and still drop marks on the long-answer questions and the required practicals. Our Wigan GCSE Science tutors work on the application and exam technique that content revision alone never fixes."
+hero_h1: "Online GCSE Science Tutors for Wigan Families"
+hero_lead: "If your child stares at a Science question, can't see where to begin and skips it, those skipped questions add up fast in an exam. Our Wigan GCSE Science tutors teach your child a first step for every kind of question, one-to-one and online."
 
-angle_eyebrow: "WHERE THE GCSE SCIENCE MARKS GO IN WIGAN"
-angle_heading: "Where a GCSE Science tutor finds the marks Wigan revision misses"
-angle_body_1: "GCSE Science in Wigan usually isn't a revision problem, it's an application one. Students learn the content and then lose marks in predictable places: the six and nine-mark long-answer questions that want a structured explanation, the required practicals examiners quietly love to test, the maths inside Physics where a unit conversion or a rearranged equation trips them, and the calculations in Chemistry under time. It splits two ways across the borough too. Some students need a secure grade 4 or 5 in Combined Science; others need the 6s and 7s that Triple and the Winstanley Science A-Levels ask for."
-angle_body_2: "The tutor starts by marking a recent paper across all three sciences to see whether the marks are going on recall, on the long-answer structure, or on the maths. From there it's specialist work: a Biology, Chemistry or Physics tutor for whichever subject is leaking most, drilling the practicals and the extended answers until they hold up. For a St John Rigby or Winstanley Science route, or a technical apprenticeship with an employer like Kraft Heinz at Kitt Green where the Sciences carry weight, that's the difference between a pass and a place."
+angle_eyebrow: "A FIRST STEP FOR EVERY KIND OF QUESTION"
+angle_heading: "Why Making a Start Earns Marks in GCSE Science, Even Without the Answer"
+angle_body_1: "It's one of the first things we look for on a marked paper: questions left blank. When a Science question looks unfamiliar, plenty of children skip it, meaning to come back, and never do. A blank space scores nothing. A sensible start usually scores something. On a calculation, writing the right equation and putting the numbers in can earn a mark even if the final answer goes wrong. On a six-mark question, a few correct points in a sensible order still reach the lower marks. And the blanks tend to cluster in the same places: multi-step calculations in Chemistry and Physics, the six-mark answers, and any question with a lot of reading before it gets to the point."
+angle_body_2: "So part of every lesson is practising a first step. For a calculation, it's writing down the equation and the units before anything else. For a six-marker, it's a quick plan of two or three points. For a long question, it's underlining what's actually being asked. The tutor also marks a recent paper with your child to find which topics sit behind the blanks, and fills those in properly. Some Wigan children need a secure 4 or 5 in Combined Science. Others are aiming at a Science A-Level at Winstanley or St John Rigby, or an engineering apprenticeship with Kraft Heinz at Kitt Green, where the Sciences carry weight."
 angle_image: "/images/chemistry-lab-glassware.jpg"
-angle_image_alt: "A GCSE Science student working through a required practical with a tutor"
+angle_image_alt: "Glass beakers and a conical flask on a white bench, one holding a pipette"
 angle_stat_from: "4"
 angle_stat_to: "6"
-angle_stat_detail: "The kind of movement weekly one-to-one GCSE Science sessions are built around over a term."
+angle_stat_detail: "What a term of weekly lessons is aimed at, once every question gets a proper start."
 schools:
   - "Standish Community High School"
   - "The Deanery CE High School"
@@ -28,27 +28,27 @@ schools:
   - "Winstanley College"
   - "St John Rigby College"
 
-steps_heading: "Start GCSE Science tutoring in Wigan in 3 steps"
-steps_lead: "Most Wigan families are matched within 24 hours, and for Science we can match a single-subject specialist where one subject is the problem."
+steps_heading: "Getting GCSE Science Help in Wigan: What Happens Next"
+steps_lead: "Profiles usually land within a day of your call. Starting before the Year 11 mocks gives your child time to practise a way into every question."
 steps:
-  - title: "Share your goals"
-    body: "Tell us whether it's Combined or Triple Science, which of Biology, Chemistry or Physics is the worry, the year group and school, the AQA or Edexcel specification, and the target grade."
-  - title: "Meet your match"
-    body: "Within 24 hours we send two or three vetted Science tutors. Where one subject is leaking marks we match a specialist for it rather than a generalist across all three. Free 15-minute video meeting before any lesson."
-  - title: "Start the lessons"
-    body: "Weekly one-to-one over Lessonspace, our shared whiteboard, working real practicals and long-answer questions. Many Wigan Year 11s add a second hour before mocks. From £37/hr, cancel any time."
+  - title: "A 15-minute call with us"
+    body: "A free 15-minute call with Harry or Joe, the co-founders, to get to know you and your child: which science is the worry, Combined or Triple, AQA or Edexcel, and the grade they're hoping for."
+  - title: "Profiles the next day"
+    body: "Within 24 hours you'll have two or three tutor profiles, chosen for your child's board and the science needing most help. Your child gets a free 15-minute video meeting with whoever you pick."
+  - title: "Weekly lessons, no contract"
+    body: "Weekly one-to-one lessons on an online platform called Lessonspace, with a replay of each one. From £37 an hour, no contract, and a free change of tutor if they don't click."
 
 faqs:
-  - q: "How does GCSE Science performance in Wigan compare to the national average?"
-    a: "Wigan sits close to the England average at GCSE, with strong sixth-form provision at Winstanley and St John Rigby pulling outcomes up for students who reach them. What the borough average hides is the spread inside a single classroom: some students need a secure grade 4 or 5 in Combined Science, others the 6s and 7s Triple and the Science A-Levels want. A tutor works to whichever brief is actually in front of them, rather than a one-size plan."
-  - q: "What happens in a typical GCSE Science tutoring session?"
-    a: "Most sessions run 60 minutes in three parts. The first fifteen minutes reviews the week's homework and surfaces misconceptions from the marking. The middle thirty drills the topic bleeding the most marks, often a required practical or a six-mark explanation, with the method broken down step by step. The last fifteen puts it straight into exam-paper practice with a mark-scheme walkthrough, so the student sees exactly how the marks are awarded."
-  - q: "Can one tutor cover all three Sciences, or do we need separate specialists?"
-    a: "It depends on where the marks are going. For a student who is broadly fine but wants coordination, one strong tutor across Combined Science works well, and a Maths and Physics specialist often adds a small advantage for the calculation-heavy topics. But when one subject is clearly the weak spot, we match a specialist for it, a Biology, Chemistry or Physics tutor who knows that spec's practicals and long-answer questions cold, rather than spreading one tutor thin."
-  - q: "Can a GCSE Science tutor help a child with dyslexia, ADHD or processing differences?"
-    a: "Yes, and we ask about learning differences when we match, so the tutor is chosen with that in mind. Many of our tutors work regularly with neurodivergent students, and Lessonspace's shared whiteboard suits Science well: diagrams built up in stages, explanations chunked, practicals scaffolded visually rather than delivered as a wall of text. Tell us in the consultation call and we match accordingly."
-  - q: "How quickly can my child start GCSE Science tutoring in Wigan?"
-    a: "Usually within a few days. After a free 15-minute consultation we send two or three tutor profiles within 24 hours, you have a free 15-minute meeting with your chosen tutor, and the first paid session is typically inside a week. Most Wigan families are matched within 24 hours of that first call, which matters most in the run-up to mocks when a specialist's time fills up."
+  - q: "My child wants a Science A-Level at Winstanley or St John Rigby. What should we be aiming for?"
+    a: "Start with the current entry requirements for that exact course on the college's own website, because the Wigan colleges each set their own and they can change between years. Science A-Levels often ask for more in the matching GCSE than the general entry does, and some word it differently for Combined and Triple. Once you know the number, the tutor plans the weeks around closing the gap, starting with the science that's furthest away. It's far easier with a year to go than a term."
+  - q: "Why does my child leave so many Science questions blank?"
+    a: "Usually because they can't see how to start, not because they know nothing. A question with a lot of reading, or a calculation that needs two steps, can look impossible at first glance, so it gets skipped and never revisited. Worry about writing something wrong plays a part too. The tutor gives your child a first move for each type of question and practises it until starting feels automatic. Even a partial answer gives the examiner something to credit."
+  - q: "Is Higher or Foundation right for my child in Science? Their school in Wigan hasn't decided yet."
+    a: "It depends where your child is now, and the school makes the final call nearer the time. Foundation papers go up to a grade 5 (5-5 on Combined), while Higher papers cover grades 4 to 9. A child sitting around a 4 or 5 could go either way, which is where a tutor's view of recent papers helps. Higher keeps a 6 or above within reach, which matters for Science A-Levels. If Foundation is the better fit, a strong grade there is a perfectly good result."
+  - q: "My child has dyslexia and dreads the long written answers. Can a tutor help?"
+    a: "Yes. We'll ask about it on the call and suggest tutors who are used to working with children who learn differently, including dyslexia, ADHD and anxiety. For the long answers, a tutor can show your child how to plan in a few words and write in short, clear sentences, which is all a six-mark answer needs. The shared whiteboard helps too, because diagrams and key words can go down before the sentences do. Tell us what works for your child and we'll match with that in mind."
+  - q: "The mocks are coming up. How quickly can my child start?"
+    a: "Usually within a week. You'll have tutor profiles within 24 hours of the call, and once your child has met the tutor you like, the first lesson can go in as soon as suits you. If the mocks are only a few weeks away, the tutor will start with the question types your child leaves blank most, since that's often the quickest place to gain marks. There's no contract, so you can carry on after the mocks or stop there."
 
 reviews:
   - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."
@@ -57,7 +57,7 @@ reviews:
   - "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
   - "Theresa|Parent|The Degree Gap was fantastic. Their knowledge and guidance helped my son find direction in both his studies and future plans."
 
-# FAQ picks: G02, A08, A13, E03, C10
+# FAQ picks: G01, custom, A12, E03, C10
 sitemap:
   priority: 0.6
   changefreq: monthly
