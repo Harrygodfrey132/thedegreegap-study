@@ -1,0 +1,10 @@
+{{- /*
+  Short name for a page in a breadcrumb trail.
+
+  nav_title wins when a page sets one. Otherwise the title up to its first
+  " | ", because titles are written for the search result and carry a price
+  or strapline after the pipe ("Leeds Tutors | GCSE & A-Level from £37/hr"),
+  which Google shows word for word in the breadcrumb under the result.
+*/ -}}
+{{- $name := .Params.nav_title | default .LinkTitle -}}
+{{- return strings.TrimSpace (index (split $name " | ") 0) -}}

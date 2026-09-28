@@ -4,7 +4,23 @@
 {{ $rawImage := .Params.og_image | default "images/og_image.png" }}
 {{ $ogImage := $rawImage | absURL }}
 
-<title>{{ if .IsHome }}{{ .Site.Title }}{{ else if in .Title "The Degree Gap" }}{{ .Title }}{{ else }}{{ .Title }} | The Degree Gap{{ end }}</title>
+{{/* The " | The Degree Gap" suffix is kept only while the whole title fits
+     the 65-character limit the page builders work to, whether the template
+     adds it or the front matter already carries it. Past that Google cuts the
+     title off, so the suffix was pushing the words that say what the page is
+     about out of the result; Google shows the site name above the result
+     anyway. A title naming the brand anywhere else is left as written.
+     RuneCount, not len, so "£" counts as one character. */}}
+{{ $brand := " | The Degree Gap" }}
+{{ $pageTitle := .Title }}
+{{ if .IsHome }}
+  {{ $pageTitle = .Site.Title }}
+{{ else if or (strings.HasSuffix .Title $brand) (not (in .Title "The Degree Gap")) }}
+  {{ $base := strings.TrimSuffix $brand .Title }}
+  {{ $branded := printf "%s%s" $base $brand }}
+  {{ $pageTitle = cond (le (strings.RuneCount $branded) 65) $branded $base }}
+{{ end }}
+<title>{{ $pageTitle }}</title>
 <meta name="description" content="{{ $desc }}">
 <meta name="author" content="The Degree Gap">
 {{ if .Params.robots }}<meta name="robots" content="{{ .Params.robots }}">{{ else if $isPastPapers }}<meta name="robots" content="noindex, nofollow">{{ end }}
@@ -18,6 +34,7 @@
 <meta property="og:site_name" content="The Degree Gap">
 <meta property="og:locale" content="en_GB">
 <meta property="og:image" content="{{ $ogImage }}">
+<meta name="twitter:card" content="summary_large_image">
 {{ if and (not .IsHome) $isPersonalStatement }}<meta property="article:author" content="Harry Godfrey">{{ end }}
 
 <!-- Page Schema -->
@@ -96,7 +113,13 @@
 {{ end }}
 
 <!-- BreadcrumbList (used by Google Search — not shown visually on page) -->
+{{/* .Ancestors includes the home page, which the "Home" entry already covers,
+     so it is skipped. Listing it twice gave every trail two positions with the
+     same URL. Names come from crumb-name.html, which keeps the SEO strapline
+     out of the breadcrumb Google displays. */}}
 {{ if not .IsHome }}
+{{ $trail := slice }}
+{{ range .Ancestors.Reverse }}{{ if not .IsHome }}{{ $trail = $trail | append . }}{{ end }}{{ end }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -108,18 +131,18 @@
       "name": "Home",
       "item": "{{ .Site.BaseURL }}"
     }
-    {{ range $i, $a := .Ancestors.Reverse }},
+    {{ range $i, $a := $trail }},
     {
       "@type": "ListItem",
       "position": {{ add $i 2 }},
-      "name": "{{ $a.Params.nav_title | default $a.Title }}",
+      "name": "{{ partial "crumb-name.html" $a }}",
       "item": "{{ $a.Permalink }}"
     }
     {{ end }},
     {
       "@type": "ListItem",
-      "position": {{ add (len .Ancestors) 2 }},
-      "name": "{{ .Params.nav_title | default .Title }}",
+      "position": {{ add (len $trail) 2 }},
+      "name": "{{ partial "crumb-name.html" . }}",
       "item": "{{ .Permalink }}"
     }
   ]
