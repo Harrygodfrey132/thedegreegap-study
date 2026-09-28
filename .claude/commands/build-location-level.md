@@ -287,7 +287,7 @@ Use first names only.
 - Mention university admission
 - Are from "Parent of A-Level Student", "A-Level Student", or "University Student/Applicant"
 
-Aim for **15-25 reviews per page**. Quality over quantity.
+Aim for **6 to 8 reviews per page**, most relevant first. The carousel shows the first 6 (the full set lives in the reviews drawer), and a longer list only put the same review text on every town's hub. Quality over quantity.
 
 **Vary review order across pages.** Do not always put Omo first on every GCSE page or Nick first on every A-Level page. Pick a different anchor and re-shuffle the rest.
 
@@ -828,7 +828,7 @@ Older pages still have these fields filled in; harmless to leave, but new pages 
 | `tutor_strip_heading` / `_body` | partial `gcse-tutor-strip.html` | section above the carousel | |
 | `tutors` | tutor cards in strip | from site data by default | usually omitted, defaults work |
 | `tutors_browse_url` | CTA link | | usually omitted |
-| `reviews` | review carousel cards | format: `Name|Role|Text` | 15-25 entries |
+| `reviews` | review carousel cards (first 6 shown) | format: `Name|Role|Text` | 6-8 entries, most relevant first |
 | `pathways_heading` | `<h2>` in pathways section | H2 large | |
 | `pathways_lead` | `<p class="gs-pathways__lead">` | body lead paragraph | |
 | `pathways[].title` | `<summary>` text | accordion label | "Sixth Forms" / "Apprenticeships" / "Further Education" (GCSE); "Universities" / "Degree Apprenticeships" / "Career Pathways" (A-Level) |
@@ -892,7 +892,7 @@ pathways:
       [Same — 2 sentences max, ≥2 named entities. No keyword quota.]
 
 reviews:
-  - "Name|Role|Review text"   # 15-25 entries, level-filtered, varied order
+  - "Name|Role|Review text"   # 6-8 entries, level-filtered, most relevant first (the first 6 show)
 
 tutors:
   - name: "..."
@@ -1048,7 +1048,7 @@ For **each page** built:
 - [ ] `pathways` names ≥ 8 specific local entities across the three categories
 - [ ] `first_lesson_quote` is a REAL review — verbatim
 - [ ] `grade_from`/`grade_to`/`grade_stat` anchored to that same real review
-- [ ] `reviews` has 15-25 entries, all level-relevant, order varied from last page
+- [ ] `reviews` has 6-8 entries, all level-relevant, the most relevant first and a different lead review from the last page
 - [ ] `tutors` has 8-10 entries with valid URLs and image paths
 
 **Uniqueness — the big one:**

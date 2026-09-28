@@ -254,7 +254,9 @@
             </span>
             <span class="gs-explore__card-text">
               <strong>{{ $name }}</strong>
-              <span class="gs-explore__card-desc">{{ $desc }}</span>
+              {{/* The default descriptions were the same ten lines on all 180
+                   hubs, so they only print when a page writes its own cards. */}}
+              {{ if $.Params.subject_cards }}<span class="gs-explore__card-desc">{{ $desc }}</span>{{ end }}
             </span>
             <svg class="gs-explore__card-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
           </a>
@@ -284,7 +286,11 @@
       </button>
 
       <div class="gs-results__track" data-results-track>
-        {{ range $reviews }}
+        {{/* The first six only: two swipes of three. Hubs list 12 to 21
+             reviews from the same pool, which put the same few hundred words
+             on every town's hub; the full set is one click away in the
+             reviews drawer. Put a page's most relevant reviews first. */}}
+        {{ range first 6 $reviews }}
         {{ $parts := split . "|" }}
         {{ $name := index $parts 0 }}
         {{ $role := index $parts 1 }}
@@ -594,8 +600,36 @@
      ============================================= -->
 {{ $allSubjectPages := where .Site.Pages "Layout" "subject" }}
 {{ $siblingLevelSameCity := where (where $allSubjectPages "Params.location" $loc) "Params.level" "!=" $level }}
-{{ $otherCitiesSameLevel := first 8 (where (where $allSubjectPages "Params.level" $level) "Params.location" "!=" $loc) }}
 {{ $parentLocationPage := .Parent }}
+{{/* Other towns at this level: the ones this town's own page lists in
+     area_links first, then the towns that follow it alphabetically. Taking
+     the first 8 of the whole list sent every hub's links to the same 8
+     towns and gave all 180 hubs an identical block. */}}
+{{ $levelSlug := cond $isAlevel "a-level" "gcse" }}
+{{ $otherCitiesSameLevel := slice }}
+{{ $pickedTowns := slice $loc }}
+{{ with $parentLocationPage }}
+  {{ range .Params.area_links }}
+    {{ $bits := split . "|" }}
+    {{ if ge (len $bits) 2 }}
+      {{ with site.GetPage (printf "%s/%s" (strings.TrimSuffix "/" (index $bits 1)) $levelSlug) }}
+        {{ if and (lt (len $otherCitiesSameLevel) 8) (not (in $pickedTowns .Params.location)) }}
+          {{ $otherCitiesSameLevel = $otherCitiesSameLevel | append . }}
+          {{ $pickedTowns = $pickedTowns | append .Params.location }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ $sameLevel := where (where $allSubjectPages "Params.level" $level) "Params.location" "!=" $loc }}
+{{ $rotation := (where $sameLevel "Params.location" "gt" $loc).ByParam "location" }}
+{{ $rotation = $rotation | append ((where $sameLevel "Params.location" "lt" $loc).ByParam "location") }}
+{{ range $rotation }}
+  {{ if and (lt (len $otherCitiesSameLevel) 8) (not (in $pickedTowns .Params.location)) }}
+    {{ $otherCitiesSameLevel = $otherCitiesSameLevel | append . }}
+    {{ $pickedTowns = $pickedTowns | append .Params.location }}
+  {{ end }}
+{{ end }}
 
 {{ if or $siblingLevelSameCity $otherCitiesSameLevel }}
 <section class="gs-related">
@@ -637,7 +671,7 @@
     </div>
 
     {{ if $otherCitiesSameLevel }}
-    <p class="gs-related__subhead">{{ $level }} tutoring in other cities</p>
+    <p class="gs-related__subhead">{{ $level }} tutoring in other towns we cover</p>
     <div class="gs-related__grid">
       {{ range $otherCitiesSameLevel }}
       <a href="{{ .RelPermalink }}" class="loc-area-card">{{ .Params.level }} Tutors in {{ .Params.location }}</a>
