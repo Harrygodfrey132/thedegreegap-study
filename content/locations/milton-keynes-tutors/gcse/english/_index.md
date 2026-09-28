@@ -1,23 +1,23 @@
 ---
 title: "Milton Keynes Online GCSE English Tutors | The Degree Gap"
-description: "GCSE English tutors covering Milton Keynes for Language and Literature, matched to the set texts and board taught at Denbigh, Walton High and Shenley Brook End."
+description: "Milton Keynes GCSE English tutors for Language and Literature, matched to your child's exam board and set texts at Denbigh, Walton High and beyond. From £37."
 layout: "level-subject"
 location: "Milton Keynes"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors Covering Milton Keynes"
-hero_lead: "English is the subject where a parent can read the essay, think it looks perfectly good, and have no idea why it scored a 5. Our Milton Keynes GCSE English tutors mark it in front of the student and show them exactly where the band boundary sits."
+hero_h1: "Online GCSE English Tutors Across Milton Keynes"
+hero_lead: "Ask your child what their last English essay was arguing. If you get a list of quotations back, that's often why the grade's stuck at a 5. Our Milton Keynes GCSE English tutors help them find a point and carry it through."
 
-angle_eyebrow: "WHY A DECENT ESSAY SCORES A 5"
-angle_heading: "The Difference Between Writing Well and Answering the Question"
-angle_body_1: "Most students who stall in English are not bad writers. They are answering a slightly different question from the one on the paper. The structure question on Language Paper 1 asks how the writer has ordered the text, and gets an answer about word choice instead, which is a different assessment objective and scores almost nothing. The Paper 2 comparison asks how two writers' viewpoints differ, and gets two summaries placed side by side with nothing joining them. Quotations get dropped in and left to speak for themselves. And the writing task, worth a large share of the grade, gets whatever minutes are left, with punctuation range and sentence variety quietly costing a band on their own."
-angle_body_2: "None of that improves by reading the text again, which is why more revision so often changes nothing here. It improves by writing under time, having it marked honestly against the real scheme, and rewriting it while the reasoning is still fresh. So that is what the hour is: produce, mark on screen, rebuild. Schools across Milton Keynes teach different set texts and sit different boards, so a tutor matched on English generally rather than on the actual play or novel spends the first fortnight catching up on reading your child has already done."
+angle_eyebrow: "WHAT IS THE ESSAY ACTUALLY ARGUING?"
+angle_heading: "From a List of Quotations to a Real Argument"
+angle_body_1: "Plenty of essays that land on a 5 share a shape. A quotation, the technique in it, what it shows, then on to the next. Each paragraph is fine. But nothing joins them up, so the essay never says anything as a whole. Higher up the mark scheme, examiners want an idea about the text running through the answer, with quotations chosen to back it up. It costs marks on the Language papers too. The comparison turns into two separate summaries, and the writing, half of all the Language marks, wanders with no clear direction. None of this is about being clever. It's a habit, and habits change."
+angle_body_2: "So lessons start with the argument, not the quotations. First, the tutor asks what your child actually thinks the writer is up to. That idea then steers every paragraph, and quotations get picked to prove it, not to fill space. Your child writes, the tutor marks it with them on screen, and they rewrite. Every Milton Keynes school picks its own texts and board, so we match your child with a tutor who knows their actual novel and play. It's worth getting right. Denbigh, Walton High, Oakgrove and The Hazeley Academy each decide their own sixth form entry requirements, and English is often part of the general bar."
 angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"
-angle_image_alt: "A GCSE English student rewriting a timed paragraph with a tutor"
+angle_image_alt: "Handwritten GCSE English notes and highlighters, with a paragraph rewritten after marking"
 angle_stat_from: "5"
 angle_stat_to: "7"
-angle_stat_detail: "Where a term of weekly one-to-one English work tends to be pointed once structure and timing are sorted."
+angle_stat_detail: "Where a term of weekly lessons is aimed, once your child's essays have an argument running through them."
 schools:
   - "Walton High"
   - "Denbigh School"
@@ -26,27 +26,27 @@ schools:
   - "The Hazeley Academy"
   - "Lord Grey School"
 
-steps_heading: "Start Milton Keynes GCSE English Tutoring in 3 Steps"
-steps_lead: "Tell us the set texts in the first message. In English that saves a whole session, and a session is a whole essay."
+steps_heading: "Starting GCSE English Tutoring in Milton Keynes, Step by Step"
+steps_lead: "Mention the novel, play and poems when you book, and the first lesson can start on your child's own texts. Tutor profiles usually follow within a day."
 steps:
-  - title: "Share your goals"
-    body: "Year group, school, and whether the worry is Language, Literature or both. Send the board and the texts as well. An hour spent on Jekyll and Hyde does not transfer to an hour on A Christmas Carol, and a tutor matched on the wrong text starts from behind."
-  - title: "Meet your match"
-    body: "Two or three profiles inside 24 hours, matched on specification and text. Use the free 15-minute call to see how your child reacts to having their own writing questioned, because that is most of what these sessions involve and not every teenager takes to it immediately."
-  - title: "Start the lessons"
-    body: "Weekly hours on Lessonspace, our shared whiteboard, with most of the time spent producing work rather than discussing it. Marking happens on screen, sentence by sentence, so a student sees which line cost the mark instead of being told about it. From £37/hr."
+  - title: "Tell us what's on the reading list"
+    body: "On the free call, you'll talk to Harry or Joe, our founders, about your child and their English. Tell us the year group, the school, and which part of English worries you most. Send the board and texts too. Revising Jekyll and Hyde won't help with A Christmas Carol."
+  - title: "Two or three profiles to choose from"
+    body: "Within 24 hours of the call you'll have two or three profiles, matched on board and texts. Pick one, and your child meets them on a free 15-minute video call. A good sign is your child explaining a point from their own essay and the tutor gently asking for more."
+  - title: "Write, mark, rewrite"
+    body: "Weekly one-to-one lessons on Lessonspace, the online platform we use, each one recorded to rewatch. Marking goes line by line, so your child sees which sentence lost the mark. Lessons cost from £37 an hour. No contract, and a new tutor for free if they don't click."
 
 faqs:
-  - q: "What grade do sixth forms around Milton Keynes ask for in English?"
-    a: "Denbigh, Walton High, Oakgrove and the Hazeley Academy all run their own sixth forms and each publishes its own entry requirements, which vary by subject and are revised between years. English appears on more of those requirements than any other subject, because it is often part of the general entry threshold as well as the requirement for English itself. That makes it worth checking the current admissions page for the specific course rather than working from a general number."
-  - q: "When is the best time to start English tutoring in Year 11?"
-    a: "September to February, and ahead of the mocks that feed sixth-form conversations rather than after them. English responds well to a run of weeks because the improvements compound: structure first, then evidence selection, then timing. Starting in April is still worth doing and the shape changes, becoming a short block on the two or three things that will move most marks in the time left. We will say which on the call."
-  - q: "Why is my child's English predicted grade lower than I expected?"
-    a: "Predictions come from mock performance and teacher judgement, and English mocks punish timing more harshly than almost any other subject. A student who writes strong analysis slowly gets predicted on the unfinished paper, not on the quality of the paragraphs they did manage. That is the most common cause we see and also one of the more fixable, because timing responds to practice under real conditions far faster than analytical depth does."
-  - q: "What grade improvements have your English tutors actually delivered?"
-    a: "The most common pattern is a one to two band lift across a term of weekly sessions. Reviews on our Google profile include a Year 10 student moving from a grade 5 to a 6/7 in English over six months, and students who passed both English and Maths after arriving unsure they would. Nobody can honestly guarantee a grade, so we do not. What we will do on the call is say what looks realistic from where your child is now, including when the answer is that they do not need us."
-  - q: "How do I cancel or pause if it is not working?"
-    a: "There is no contract. Pause any time with a day or two of notice for the next session, and you only pay for sessions taken. No exit fee and no commitment beyond the coming week. The more useful thing is to tell us early if the match feels wrong rather than sitting politely with it, because that is the most common way families waste money here. We will swap the tutor without any awkwardness."
+  - q: "Milton Keynes schools teach different English set texts. Will the tutor know my child's?"
+    a: "Yes, that's one of the first things we match on. Tell us the novel, the play, the poetry cluster and the exam board on the call, and the profiles we send will be tutors who know them. It matters more in English than most subjects. A tutor who has to read your child's play first spends the opening lessons catching up, and those are lessons your child could have spent writing."
+  - q: "When should a Milton Keynes Year 11 start GCSE English tutoring?"
+    a: "As early in Year 11 as you can, and ideally well before the mocks, since those results tend to shape the sixth form conversation. It gives time to work on the argument first, then how quotations are used, then pacing, each building on the last. A spring start is still worth it. It just becomes a shorter plan aimed at the two or three changes that will gain the most marks before summer, and we'll talk you through which on the call."
+  - q: "Why is my child's English prediction lower than their essays deserve?"
+    a: "Mostly because predictions lean on mock results, and an English mock is unforgiving if your child runs out of time. Lovely analysis on three questions and nothing on the fourth still adds up to a lower grade. Teachers also go on the work they've seen through the year, which may not have been timed. The good news is that pacing is one of the quicker things to fix. A few weeks of timed questions, marked straight away, shows your child where the minutes go."
+  - q: "What sort of English improvement have families actually seen?"
+    a: "The reviews on this page say it best. One parent writes that their Year 10 son 'has improved from a grade 5 to a 6/7' in English after six months, and a former student says they passed both English and Maths 'with great results'. Nobody can promise a grade, and we won't pretend otherwise. On the call, though, we'll give you our honest view of what's realistic for your child, and that includes telling you if we don't think a tutor is needed."
+  - q: "Can we pause or stop the English lessons if we need to?"
+    a: "Yes, any time. There's no contract, so it's simply a case of letting the tutor know a day or two before the next lesson, and you only ever pay for lessons that happen. You can pause over a holiday or around exams and pick up again after. If the problem is the tutor rather than the timing, tell us early. We'll suggest someone else, free of charge, so your child isn't stuck with lessons that aren't working."
 
 reviews:
   - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of working with Malvina, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons and has learned strategies that help him approach English in a way that resonates with him."
@@ -55,7 +55,7 @@ reviews:
   - "Dawn|Parent of GCSE Student|The Degree Gap took time to understand my child’s worries. They paired me with Connor, who my daughter got on well with. Her confidence has skyrocketed since. Thanks again."
   - "Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE thank you"
 
-# FAQ picks: G01, A03, A14, E05, C09
+# FAQ picks: custom, A03, A14, E05, C09
 sitemap:
   priority: 0.6
   changefreq: monthly
