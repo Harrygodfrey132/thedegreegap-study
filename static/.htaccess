@@ -18,7 +18,18 @@ RewriteRule ^personal-statement-tutor/(chemistry|physics)/?$  /study/personal-st
 
 # Removed location pages — send old backlinks to the locations index rather
 # than 404. Covers each location root and any subject page beneath it.
-RewriteRule ^locations/(wimbledon|richmond|croydon|beckenham|purley|sutton|dulwich|clapham|reigate|kingston|wallington|bromley)-tutors(/.*)?$  /study/locations/  [L,R=301]
+# Only list a town here while it has no page set. Croydon, Sutton, Bromley and
+# Reigate were rebuilt in September and sat behind this rule, unreachable, so a
+# town that comes back must come off this list in the same commit.
+RewriteRule ^locations/(wimbledon|richmond|beckenham|purley|dulwich|clapham|kingston|wallington)-tutors(/.*)?$  /study/locations/  [L,R=301]
+
+# Rebuilt towns keep old backlinks to sub-pages the new set does not have (the
+# pre-May URLs) landing on that town's hub. The conditions leave every page
+# that exists alone, and a directory without its trailing slash falls through
+# to mod_dir as normal.
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^locations/(croydon|sutton|bromley|reigate)-tutors/.+$  /study/locations/$1-tutors/  [L,R=301]
 
 # Derby GCSE Physics page removed — send to the Derby GCSE hub.
 RewriteRule ^locations/derby-tutors/gcse/physics-tutoring/?$  /study/locations/derby-tutors/gcse/  [L,R=301]

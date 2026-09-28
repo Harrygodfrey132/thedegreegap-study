@@ -73,6 +73,13 @@
   </script>
 </head>
 <body>
+  {{/* Cloudflare's Email Obfuscation rewrites every address on the page into a
+       link to /cdn-cgi/l/email-protection, which returns 404 to crawlers, so
+       the footer address alone gave every page a "broken link" in audits and
+       showed "[email protected]" to anyone without JavaScript. These markers
+       switch it off for the page. They go through safeHTML because Go
+       templates strip HTML comments written directly in a layout. */}}
+  {{ "<!--email_off-->" | safeHTML }}
   {{ partial "gtm-body.html" . }}
   {{ partial "header.html" . }}
   <main>
@@ -137,5 +144,6 @@
        reach visitors until it expires. */}}
   {{ $js := resources.Get "js/main.js" | fingerprint "sha256" }}
   <script src="{{ $js.RelPermalink }}" defer></script>
+  {{ "<!--/email_off-->" | safeHTML }}
 </body>
 </html>

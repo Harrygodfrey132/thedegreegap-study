@@ -14,7 +14,10 @@
 <aside class="dg-callcta">
   <p class="dg-callcta__heading">{{ $heading }}</p>
   <p class="dg-callcta__body">{{ $body }}</p>
-  <p class="dg-callcta__action"><a href="{{ $url | relURL }}">{{ $label }} <span aria-hidden="true">&rarr;</span></a></p>
+  {{- /* Through url.html, not relURL: relURL drops the /study/ prefix from a
+         leading-slash path, which sent this button to the main site's
+         /book-a-call/ instead of ours. */}}
+  <p class="dg-callcta__action"><a href="{{ partial "url.html" $url }}">{{ $label }} <span aria-hidden="true">&rarr;</span></a></p>
 </aside>
 <style>
   .dg-callcta {
