@@ -1,42 +1,42 @@
 ---
 title: "Chesham GCSE Tutors | Grammar and Upper School | The Degree Gap"
-description: "Chesham GCSE tutoring for Year 10 and Year 11, matched on exam board. For students at Chesham Grammar, Dr Challoner's and the Chiltern upper schools."
+description: "Chesham GCSE tutors who teach at your child's pace, whether that means pushing ahead or going back over a topic. Online, one-to-one, from £37, no contract."
 layout: "subject"
 location: "Chesham"
 level: "GCSE"
 
-hero_heading_line1: "Online Chesham GCSE Tutors for the Stretch a Class of Thirty Cannot Give"
+hero_heading_line1: "Online Chesham GCSE Tutors for When the Class Pace Doesn't Suit Your Child"
 hero_heading_line2: ""
-hero_lead: "You moved out of London partly for the schools, and the schools are doing an honest job. A class of thirty with a curriculum to finish can still only stretch one student so far. Our Chesham GCSE tutors add the hour that is aimed at your child rather than the middle of the room."
+hero_lead: "One week your child flies through the homework and wants more. The next, a topic's gone over their head, and you can't quite work out how to help. Our Chesham GCSE tutors work at your child's pace, one-to-one and online."
 
 grade_from: "6"
 grade_to: "8"
-grade_stat: "The move a term of weekly one-to-one work is usually pointed at when the content is already broadly secure."
+grade_stat: "When most of the course is secure, a 6 to an 8 is what weekly lessons aim for. Never a promise, though."
 
-first_lesson_eyebrow: "WHY A GOOD SCHOOL IS NOT THE WHOLE ANSWER"
-first_lesson_heading: "Teaching to the Middle Is the Only Way to Run a Class"
-first_lesson_context: "A teacher with thirty students and a syllabus to finish has to pitch at the middle. That is not a failing, it is the only workable arrangement, and the Buckinghamshire schools do it well. But it means a student slightly ahead gets consolidation they did not need, and a student who missed one idea in October carries it to May because there was never a moment to catch it. One-to-one is not better teaching. It is teaching aimed at one person, which is a different thing, and it is the reason an hour a week can move a grade the classroom could not."
+first_lesson_eyebrow: "THIRTY CHILDREN, ONE PACE"
+first_lesson_heading: "An Hour With a Chesham GCSE Tutor That's All About Your Child"
+first_lesson_context: "With thirty in the room, a teacher has to aim each lesson at the middle. So if your child's ahead, they wait, and if they missed something in October, it can quietly follow them all the way to May. A Chesham GCSE tutor plans for one child, and the hour goes wherever yours needs it."
 
 first_lesson_quote: "My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back."
 first_lesson_quote_name: "Ellen"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "GCSE Maths"
 
-tutor_strip_heading: "Chesham GCSE tutors matched to the board and to the brief"
-tutor_strip_body: "Stretching a secure student and rebuilding a shaky topic are different jobs, and not every tutor is good at both, so we ask which it is before matching. Buckinghamshire schools sit across AQA, Edexcel and OCR and the specification is confirmed on the first call. Browse profiles, or let us match your child."
+tutor_strip_heading: "Chesham GCSE tutors picked for stretching ahead or catching up"
+tutor_strip_body: "Some children need pushing on and some need a topic rebuilt, and those are different jobs, so we'll ask which. Buckinghamshire schools use AQA, Edexcel and OCR between them, so we'll check the board too. Look through the profiles yourself, or leave it with us."
 
-pathways_heading: "Where Chesham Year 11s Go Next"
-pathways_lead: "Three routes, and what each one publishes."
+pathways_heading: "Chesham at 16: Your Child's Next Step"
+pathways_lead: "Three routes, each with its own entry grades."
 pathways:
   - title: "Sixth Forms"
     body: >
-      Chesham Grammar, Dr Challoner's Grammar and Dr Challoner's High all run sixth forms, with Chiltern Hills Academy, The Amersham School and The Misbourne alongside them. Each sets its own entry requirements by subject and revises them between years, and the Sciences and Maths usually ask for more, so check the current page for the specific course.
+      There are sixth forms at Chesham Grammar, Dr Challoner's Grammar and Dr Challoner's High, and at Chiltern Hills Academy, The Amersham School and The Misbourne. The grades they ask for differ by course and can move between years, and they're often a notch higher for Maths and the Sciences.
   - title: "Apprenticeships"
     body: >
-      The Metropolitan line puts London employers within reach for higher and degree apprenticeships, alongside the technology, pharmaceutical and professional services employers across the Chilterns and along the M40. Published minimum grades in Maths and English are the usual gate.
+      The Metropolitan line brings London employers within reach, and there are technology and pharmaceutical firms across the Chilterns and out along the M40. Whatever the role, your child's Maths and English grades are usually the first thing they'll look at.
   - title: "Further Education"
     body: >
-      Buckinghamshire College Group and the Amersham campus cover Level 3 vocational routes, with London colleges realistic on the train for more specialised courses. Maths and English resits sit alongside those courses, and anyone short of a grade 4 usually has to carry on with them after 16.
+      Buckinghamshire College Group runs Level 3 vocational courses, including at its Amersham campus, and London colleges are a realistic train ride away for anything more specialised. A grade under 4 in Maths or English won't close the door, but it does mean carrying on with that subject after 16.
 
 reviews:
   - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry, who listened to her needs and gave us a selection of tutors to choose from. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
@@ -52,14 +52,14 @@ reviews:
   - "Bryan|GCSE Student|Helped me a lot and really showed me what i need to improve on"
   - "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
 
-faq_1_q: "The school says my son is doing fine. Am I worrying over nothing?"
-faq_1_a: "No, and both things are usually true at once. Doing fine against the class and falling short of a named course requirement are two different measurements, and a school reporting one is not dodging the other. The useful question at parents' evening is narrower than how he is getting on. Ask which question types he loses most marks on, and how close the last mock was to the next grade boundary."
-faq_2_q: "Can a tutor help a child with dyslexia, ADHD or processing differences?"
-faq_2_a: "Yes, and we ask about learning differences at the matching stage rather than waiting for you to raise it. Several tutors work regularly with neurodivergent students. Online suits this well: the working stays on the shared whiteboard instead of being wiped off a board, explanations can be broken into steps at the student's own pace, and because every session is recorded nothing has to be held in memory first time round."
-faq_3_q: "Do you tutor across both the grammar and upper school systems here?"
-faq_3_a: "Yes, and the brief differs rather than the standard. A grammar-school student is often being stretched past what the class has time for. An upper-school student may be rebuilding a topic that slid past. Both sit the same paper and lose marks in the same places: long answers that describe instead of explain, questions abandoned partway, poor timing. We match on what the student needs, not on which school they attend."
-faq_4_q: "How quickly can we start, and what does it cost?"
-faq_4_a: "Usually inside a week. A free 15-minute call, two or three tutor profiles within 24 hours, then a free meeting with whoever you choose before any paid session. From £37 an hour, agreed beforehand, covering the lesson, preparation, any papers set and the feedback. No joining fee and no contract. As an agency we retain a margin on the rate, which covers the matching and support."
+faq_1_q: "His teachers say he's doing fine. Am I fussing over nothing?"
+faq_1_a: "Probably not, and the school may well be right too. 'Fine' tends to mean fine compared with the rest of the class. It doesn't tell you whether he's on course for the grade his sixth form subject needs. At the next parents' evening, try asking where in a paper he drops the most marks, and how far his last mock was from the next grade up. Those two answers will tell you a lot."
+faq_2_q: "Is online tutoring OK for a child with dyslexia or ADHD?"
+faq_2_a: "Yes, and it can suit them really well. We'll ask about it on the call, so you don't have to bring it up, and several tutors on our platform regularly teach children who learn differently. In Lessonspace, the online classroom we use, nothing gets wiped off the whiteboard, and each step can go as slowly as your child needs. There's a replay of every lesson too, so nothing has to stick first time."
+faq_3_q: "Chesham has grammars and upper schools. Does that change what the tutor does?"
+faq_3_a: "Less than you'd think. Whichever school your child's at, they're sitting the same GCSEs, and marks tend to go missing in the same places: long answers that describe when they should explain, and questions left half finished. What shapes the plan is where your child is, ready to be stretched or needing a topic put right. That's what we'll ask about on the call, not which school's on the blazer."
+faq_4_q: "What does it cost, and how soon could lessons start?"
+faq_4_a: "From £37 an hour, and you'll know the exact rate before anything's booked. That includes the tutor's preparation and any marking, not just the hour itself. No joining fee or contract, and as an agency we keep a share of the rate for the matching and support. Most families start within a week: a free 15-minute call with Harry or Joe, two or three profiles within 24 hours, then a free meeting with the tutor you like best."
 
 sitemap:
   priority: 0.7
