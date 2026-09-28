@@ -1,10 +1,20 @@
 {{/*
   Reviews slide-in drawer.
   - Triggered by any element with `data-reviews-open` on the page.
-  - Reviews pulled from site.Data.reviews (data/reviews.yaml).
+  - Reviews come from site.Data.reviews (data/reviews.yaml). They are published
+    once as a fingerprinted JSON file and fetched the first time the drawer
+    opens. Printing all of them into every page put the same 3,700 or so words
+    on every location, subject and landing page, more than the page's own
+    text, which made the pages look far more alike to Google than they are.
+  - Each review shows its real star rating from the data, not a flat five.
   - Closed by backdrop click, × button, or Escape key.
   - On mobile (<=560px), takes over the full screen.
 */}}
+{{ $list := slice }}
+{{ range site.Data.reviews }}
+  {{ $list = $list | append (dict "name" .name "role" (.role | default "") "rating" (.rating | default 5) "text" .text) }}
+{{ end }}
+{{ $json := resources.FromString "data/reviews.json" ($list | jsonify) | fingerprint "sha256" }}
 <div class="bc-drawer" id="bc-reviews-drawer" aria-hidden="true">
   <div class="bc-drawer__backdrop" data-reviews-close></div>
   <aside class="bc-drawer__panel" role="dialog" aria-modal="true" aria-labelledby="bc-drawer-title" tabindex="-1">
@@ -22,14 +32,8 @@
         <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 6L6 18M6 6l12 12"/></svg>
       </button>
     </header>
-    <ul class="bc-drawer__list">
-      {{ range site.Data.reviews }}
-      <li class="bc-drawer__review">
-        <span class="bc-drawer__review-stars" aria-label="5 stars">★★★★★</span>
-        <p class="bc-drawer__review-text">"{{ .text }}"</p>
-        <p class="bc-drawer__review-byline"><strong>{{ .name }}</strong>{{ with .role }} · {{ . }}{{ end }}</p>
-      </li>
-      {{ end }}
+    <ul class="bc-drawer__list" data-reviews-src="{{ $json.RelPermalink }}" aria-busy="true">
+      <li class="bc-drawer__review bc-drawer__status">Loading reviews</li>
     </ul>
   </aside>
 </div>
@@ -42,8 +46,55 @@
   var openers = document.querySelectorAll('[data-reviews-open]');
   var closers = drawer.querySelectorAll('[data-reviews-close]');
   var panel = drawer.querySelector('.bc-drawer__panel');
+  var list = drawer.querySelector('.bc-drawer__list');
   var lastFocus = null;
+  var loading = false;
+
+  function el(tag, cls, text){
+    var n = document.createElement(tag);
+    if (cls) n.className = cls;
+    if (text) n.textContent = text;
+    return n;
+  }
+  function render(items){
+    var frag = document.createDocumentFragment();
+    items.forEach(function(r){
+      var stars = Math.max(1, Math.min(5, parseInt(r.rating, 10) || 5));
+      var li = el('li', 'bc-drawer__review');
+      var s = el('span', 'bc-drawer__review-stars', '★★★★★'.slice(0, stars) + '☆☆☆☆☆'.slice(0, 5 - stars));
+      s.setAttribute('aria-label', stars + ' out of 5 stars');
+      var by = el('p', 'bc-drawer__review-byline');
+      by.appendChild(el('strong', '', r.name));
+      if (r.role) by.appendChild(document.createTextNode(' · ' + r.role));
+      li.appendChild(s);
+      li.appendChild(el('p', 'bc-drawer__review-text', '"' + r.text + '"'));
+      li.appendChild(by);
+      frag.appendChild(li);
+    });
+    list.replaceChildren(frag);
+    list.setAttribute('aria-busy', 'false');
+  }
+  function failed(){
+    loading = false;
+    var li = el('li', 'bc-drawer__review bc-drawer__status', 'The reviews didn’t load. ');
+    var a = el('a', '', 'Read them on Google');
+    a.href = 'https://www.google.com/search?q=The+Degree+Gap+reviews';
+    a.target = '_blank';
+    a.rel = 'noopener';
+    li.appendChild(a);
+    list.replaceChildren(li);
+    list.setAttribute('aria-busy', 'false');
+  }
+  function load(){
+    if (loading || !list || !list.dataset.reviewsSrc) return;
+    loading = true;
+    fetch(list.dataset.reviewsSrc)
+      .then(function(res){ if (!res.ok) throw new Error(res.status); return res.json(); })
+      .then(render)
+      .catch(failed);
+  }
   function open(){
+    load();
     lastFocus = document.activeElement;
     drawer.classList.add('is-open');
     drawer.setAttribute('aria-hidden', 'false');
@@ -58,7 +109,13 @@
     document.body.style.overflow = '';
     if (lastFocus && lastFocus.focus) lastFocus.focus();
   }
-  openers.forEach(function(b){ b.addEventListener('click', open); });
+  // Start the fetch as soon as a visitor heads for a button, so the list is
+  // usually there by the time the drawer has slid in.
+  openers.forEach(function(b){
+    b.addEventListener('click', open);
+    b.addEventListener('pointerenter', load, { once: true });
+    b.addEventListener('focus', load, { once: true });
+  });
   closers.forEach(function(b){ b.addEventListener('click', close); });
   document.addEventListener('keydown', function(e){
     if (e.key === 'Escape' && drawer.classList.contains('is-open')) close();

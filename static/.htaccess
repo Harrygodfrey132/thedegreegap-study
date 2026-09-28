@@ -68,6 +68,11 @@ RewriteRule ^past-papers(/.*)?$  /study/blog/  [L,R=301]
     Header set Cache-Control "public, max-age=31536000, immutable"
   </FilesMatch>
 
+  # So does the reviews file the drawer loads (partials/reviews-drawer.html).
+  <FilesMatch "^reviews\.[0-9a-f]{64}\.json$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+
   # Hugo's processed images carry a content hash in the filename too.
   <FilesMatch "_hu_[0-9a-f]+.*\.(png|jpg|jpeg|webp|avif)$">
     Header set Cache-Control "public, max-age=31536000, immutable"
