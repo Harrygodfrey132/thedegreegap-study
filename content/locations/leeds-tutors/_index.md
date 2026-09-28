@@ -18,15 +18,13 @@ intro_1: Leeds has no state grammar schools. Every secondary student goes
   requirements are when Year 11 is already well underway. By that point, the gap
   between where a student is and where they need to be can be difficult to close
   without one-to-one support.
-intro_2: That's where tuition makes a real difference. Leeds is home to major
+intro_2: That's where tuition earns its place. Leeds is home to major
   employers in law, finance and the public sector, and professional families
   here are clear-eyed about what strong GCSE and A-Level results open up. The
   Degree Gap tutoring works with students across the city to close the gap
   between class performance and exam performance. Our tutors don't just cover
   content, they work on the exam technique, the essay structure, the
-  problem-solving approach that makes results stick. A student who's been
-  keeping up in lessons but not converting that into the grades they need is
-  exactly who we're here for.
+  problem-solving approach that makes results stick. If your child keeps up in lessons but isn't turning that into the grades they need, that's exactly who we're here for.
 about_heading: The Leeds Tutors Who Get Results
 about_image: /images/graduation-ceremony-caps.jpg
 schools_intro: Students working towards sixth form entry and A-Level success

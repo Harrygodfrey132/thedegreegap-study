@@ -16,8 +16,7 @@ intro_1: Leicester has one of the highest proportions of first-generation
   show is wider than it should be. Without grammar schools in the state sector,
   students who want a strong sixth form place are competing for a limited number
   of sought-after spots, with Wyggeston and Queen Elizabeth I College among the
-  most oversubscribed post-16 providers in the East Midlands. A tutor can make a
-  real difference to whether a student hits those grade thresholds.
+  most oversubscribed post-16 providers in the East Midlands. A tutor gives your child a better run at those grade thresholds.
 intro_2: The Degree Gap tutoring works with Leicester families to match students
   with tutors who understand what the local sixth form market demands and what
   it actually takes to get there. One-to-one tuition is where the specific

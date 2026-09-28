@@ -55,9 +55,7 @@ online_1: Manchester is a large, spread-out city. Getting to the right tutor in
   Salford, Wythenshawe or the commuter belt stretching out towards Trafford,
   that matters.
 online_2: Sessions run through Lessonspace, a platform built for focused online
-  tutoring. There's a shared whiteboard where students and tutors work through
-  problems in real time, which makes a real difference in Maths and the
-  sciences. No travel, no traffic, and the consistency that makes sessions
+  tutoring. There's a shared whiteboard where your child and their tutor work through problems together as they go, which helps most in Maths and the sciences. No travel, no traffic, and the consistency that makes sessions
   actually work. Manchester families tell us it's the regularity, a session
   every week rather than a scramble before mocks, that produces the results they
   were hoping for.

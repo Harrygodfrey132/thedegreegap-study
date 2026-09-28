@@ -136,8 +136,7 @@ faq_1_a: Yes. We work with students preparing for 11+ exams, Common Entrance and
 faq_2_q: My child is struggling with confidence. Can you help?
 faq_2_a: Yes, and it's more common than people think. A lot of the students we
   work with in Birmingham aren't short of ability. They've just hit a rough
-  patch and stopped believing in themselves. The right tutor makes a real
-  difference to that, often faster than families expect.
+  patch and stopped believing in themselves. A tutor your child gets on with can rebuild that belief, often faster than families expect.
 faq_3_q: Do you offer online tutoring for students in Birmingham?
 faq_3_a: Yes, and it's how most of our sessions run. Students get access to a
   wider pool of tutors, sessions are easier to keep consistent, and most

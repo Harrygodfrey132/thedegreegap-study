@@ -155,8 +155,7 @@ faq_3_a: Sessions start from £37 per hour. The exact rate depends on the subjec
 faq_4_q: My child is struggling with confidence. Can you help?
 faq_4_a: Yes, and it is more common than people think. A lot of the students we
   work with in Coventry are not short of ability. They have just hit a rough
-  patch and stopped believing in themselves. The right tutor makes a real
-  difference to that, often faster than families expect.
+  patch and stopped believing in themselves. Once your child clicks with a tutor, that belief tends to come back sooner than families expect.
 why_heading: What the first session usually reveals
 why_para_1: When Coventry students start tutoring, the first session tends to
   uncover something the classroom never had time to find. It's rarely the topic

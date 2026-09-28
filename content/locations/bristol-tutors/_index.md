@@ -54,9 +54,7 @@ online_1: Bristol is a city of distinct neighbourhoods. Getting to a tutor
 online_2: Most Bristol families find online tutoring suits their child quickly.
   Sessions are easier to keep consistent when there's no travel involved. And
   because we draw from a national pool of tutors, we can match on subject, exam
-  board and teaching style, not just postcode. For students preparing for
-  competitive sixth form entry or pushing for predicted grades that will support
-  a university application, that match makes a real difference.
+  board and teaching style, not just postcode. If your child is aiming for a competitive sixth form, or needs predicted grades that will carry a university application, that match counts for a lot.
 online_image: /images/child-using-online-learning-laptop.jpg
 map_url: https://maps.google.com/maps?q=Bristol,UK&output=embed
 areas_intro: Because most of our tuition is online, students in Bristol and
