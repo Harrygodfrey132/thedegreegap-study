@@ -1,24 +1,24 @@
 ---
 title: "Birmingham Online GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "GCSE Science tutors covering Birmingham, Combined or Triple, with Biology, Chemistry and Physics specialists for the practicals and long-answer marks. From £37/hr."
+description: "Online GCSE Science tutors for Birmingham families, from King Edward VI to city comprehensives. Required practicals, Combined or Triple. From £37 an hour."
 layout: "level-subject"
 location: "Birmingham"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutoring for Birmingham Students"
-hero_lead: "GCSE Science is where a lot of hard-working Birmingham students lose marks they have earned, knowing the content but dropping the six-mark explanations, the required practicals and the calculations. Our Birmingham GCSE Science tutors work on the application and exam technique that revision alone does not reach."
+hero_h1: "Online GCSE Science Tutors for Birmingham Families"
+hero_lead: "Ask your child about their last Science practical and you may hear a friend did the measuring. Normal in a busy lab. But the exam still asks about it, so Birmingham GCSE Science tutors go over each practical with your child until they could run it alone."
 
-angle_eyebrow: "WHERE THE GCSE SCIENCE MARKS GO IN BIRMINGHAM"
-angle_heading: "Where a GCSE Science tutor finds the marks Birmingham students have already earned"
-angle_body_1: "GCSE Science in Birmingham is usually an application problem. Students revise the content and then lose marks in familiar places: the six and nine-mark long-answer questions that need a structured explanation, the required practicals examiners come back to, the maths inside Physics where a rearranged equation or a unit conversion trips a strong student, and the Chemistry calculations that go wrong under time. The city's spread runs through Science too. Some students want a steady 4 or 5 in Combined Science; others need the 6s and 7s that Triple and a Science A-Level at a King Edward VI or Joseph Chamberlain sixth form ask for."
-angle_body_2: "The tutor begins by marking a recent paper across all three sciences to see whether the marks are going on recall, on long-answer structure, or on the maths. From there it is specialist work: a Biology, Chemistry or Physics tutor for whichever subject leaks most, drilling the practicals and extended answers until they hold up. For a Science A-Level route, or a technical apprenticeship with an employer like JLR at Solihull or the engineering roles on HS2 at Curzon Street where the Sciences carry weight, that focused work is the difference between a pass and a place."
+angle_eyebrow: "WHEN A LAB PARTNER HELD THE THERMOMETER"
+angle_heading: "What Birmingham Families Should Know About the Practical Questions in GCSE Science"
+angle_body_1: "In a class of thirty, required practicals are often done in pairs or threes. One measures, one writes, one watches the clock, and the bell goes before everyone's had a go at every job. That's how most school labs run. The catch is that there's no practical exam at GCSE. The practicals are tested in the written papers instead, for at least 15% of the marks, and the questions ask things your child can only answer if they followed the whole method: which variable was kept the same, why a result didn't repeat, what they'd change to make it more accurate. Sometimes it's a six-mark question on the whole method."
+angle_body_2: "So the first few lessons rebuild the practicals your child half-remembers. The tutor sketches the apparatus on the shared whiteboard, your child talks through each step, then they try the questions exams ask about it. It's steady work, and it adds up. For a Science A-Level at a King Edward VI sixth form or Joseph Chamberlain, where 6s and 7s are what's asked for, those marks count. And if your child is eyeing a technical apprenticeship at JLR in Solihull or on HS2 at Curzon Street, being able to explain how an experiment works gives them something real to say."
 angle_image: "/images/chemistry-lab-glassware.jpg"
-angle_image_alt: "A GCSE Science student working through a required practical with a tutor"
+angle_image_alt: "Chemistry glassware on a lab bench, set up for a GCSE required practical"
 angle_stat_from: "4"
 angle_stat_to: "6"
-angle_stat_detail: "Where a term of weekly one-to-one GCSE Science sessions is typically aimed."
+angle_stat_detail: "What a year of weekly lessons usually aims at, practical questions included."
 schools:
   - "King Edward VI Aston School"
   - "King Edward VI Camp Hill School for Girls"
@@ -27,27 +27,27 @@ schools:
   - "Lordswood Girls' School"
   - "Moseley School and Sixth Form"
 
-steps_heading: "Start GCSE Science tutoring in Birmingham in 3 steps"
-steps_lead: "Most Birmingham families are matched within 24 hours, and for Science we can match a single-subject specialist where one subject is the problem."
+steps_heading: "How Birmingham families get started with GCSE Science help"
+steps_lead: "Tutor profiles usually land within a day of your call, which leaves time to work through the practicals before mock season comes round in Year 11."
 steps:
-  - title: "Share your goals"
-    body: "Tell us if it is Combined or Triple Science, which of Biology, Chemistry or Physics is the worry, the year group and school, the exam board, and the grade you are aiming at."
-  - title: "Meet your match"
-    body: "Within 24 hours we send two or three vetted Science tutors. When one subject is the weak spot, we match a specialist for it rather than a generalist across all three. Free 15-minute video meeting before any lesson."
-  - title: "Start the lessons"
-    body: "Weekly one-to-one on Lessonspace, our shared whiteboard, working practicals and six-mark answers step by step. A second hour before mocks is common. From £37/hr, cancel any time."
+  - title: "Talk to Harry or Joe"
+    body: "A free call with one of our two co-founders, to get to know you and your child. Tell us whether it's Combined or Triple, which science worries you most and how the practicals are going."
+  - title: "Choose from two or three tutors"
+    body: "Within 24 hours of the call you'll have two or three tutor profiles, picked for the science that's costing marks. Your child then meets your favourite in a 15-minute video meeting, and that's free too."
+  - title: "Lessons once a week"
+    body: "One-to-one and online, using the platform Lessonspace, with a replay of every lesson. From £37 an hour, no contract, and a different tutor free of charge if they don't click."
 
 faqs:
-  - q: "Can a Birmingham GCSE Science tutor help my child apply for a JLR or HS2 apprenticeship?"
-    a: "Yes. The engineering and technical apprenticeships at employers like JLR in Solihull and HS2 at Curzon Street screen on GCSE grades, usually a grade 5 in Maths and English and strong Science grades for the technical routes, and often ask for an application that shows genuine interest in the field. A Science tutor lifts the grades that clear the screen and can help a student talk about the practical and problem-solving side of the subject in the application."
-  - q: "Should my child take foundation or higher tier GCSE Science?"
-    a: "Higher tier reaches the top grades but floors around a 4; foundation caps near a 5. In Combined Science the tier is set per subject, so a Birmingham student can sit higher in one science and foundation in another where that fits. At a borderline 4 or 5 in Year 10 mocks, higher is usually right but needs targeted work on the six-mark questions and the maths. The confident call comes from a Year 10 diagnostic, and we will tell you plainly which tier fits."
-  - q: "Can one tutor cover all three Sciences, or do we need separate specialists?"
-    a: "It depends where the marks are going. A student who is broadly solid and wants coordination is well served by one strong Combined Science tutor, and a Maths and Physics specialist often helps most with the calculation-heavy topics. When one science is clearly the weak spot, we match a specialist who knows that spec's practicals and long-answer questions, rather than asking one tutor to cover ground they are thinner on."
-  - q: "Can a GCSE Science tutor help a child with dyslexia, ADHD or processing differences?"
-    a: "Yes. We ask about learning differences at the matching stage so the tutor is chosen with them in mind. Many tutors work regularly with neurodivergent students, and the shared whiteboard on Lessonspace suits Science: diagrams built in stages, explanations broken into chunks, practicals scaffolded visually instead of arriving as a block of text. Tell us on the consultation call and we match accordingly."
-  - q: "What happens if the Science tutor is not the right fit for my child?"
-    a: "There is a free 15-minute video meeting with the recommended tutor before any paid session, so your child meets them first. If the first lesson does not feel right, we swap within 24 hours at no cost. With only around 3% of applicants making it onto the platform, there is depth to match from, including a specialist for whichever science is the problem."
+  - q: "Is Science worth the effort if my child is aiming for JLR or HS2 rather than A-Levels?"
+    a: "Yes, very much. Technical apprenticeships with employers like JLR in Solihull, or the engineering roles on HS2 at Curzon Street, look closely at GCSE grades, and Science usually counts alongside Maths and English. Many also want an application that shows real interest in the work. So a tutor helps twice over: lifting the grades that get your child past the first check, and making sure they understand their practical work well enough to write about it with confidence."
+  - q: "How much of the Science exam is actually about the practicals?"
+    a: "At least 15% of the marks, spread through the written papers. There's no separate practical exam, so everything your child did in the lab gets tested on paper. With AQA that means 21 required practicals in Combined Science and 28 across the three Triple subjects. Edexcel calls them core practicals and OCR organises its own, but the questions look alike: name the variables, spot the error, suggest an improvement, or describe the whole method in a six-mark answer."
+  - q: "Is it worth starting in Year 10, while the practicals are still being done in class?"
+    a: "Yes, it's a good time. A lot of the course is still being taught, and nothing has had time to set hard. A tutor can go over each practical soon after your child's done it in class, while it's still fresh, and fix shaky topics before Year 11 piles more on top. Lessons in Year 10 tend to feel less like exam cramming and more like understanding it properly."
+  - q: "How do you know a tutor can teach the practical side of Science?"
+    a: "By hearing them explain it. Harry and Joe interview every tutor personally, and only around 3% of the people who apply make it onto the platform. A strong degree isn't enough on its own. We want to hear a tutor explain something like a failed practical to a teenager who's lost, calmly and clearly, because that's most of what the job is."
+  - q: "Are we stuck with the first tutor we pick?"
+    a: "Not at all. If your child and the tutor don't click, we'll find someone else, and the change costs nothing. Some pairings just don't work, and it's nobody's fault. It's one reason you see two or three profiles before choosing, and why your child meets the tutor before any lessons are booked. If it still isn't working after a lesson or two, tell us and we'll sort it."
 
 reviews:
   - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."
@@ -56,7 +56,7 @@ reviews:
   - "Theresa|Parent|The Degree Gap was fantastic. Their knowledge and guidance helped my son find direction in both his studies and future plans."
   - "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
 
-# FAQ picks: G04, A12, A13, E03, C01
+# FAQ picks: G04, custom, A04, E01, C01
 sitemap:
   priority: 0.6
   changefreq: monthly
