@@ -361,7 +361,9 @@
 
       <div class="gs-pathways__image">
         {{ $pathwaysImage := .Params.pathways_image | default (cond $isAlevel "/images/graduation-ceremony-caps.jpg" "/images/school-clock-tower-building.jpg") }}
-        <img src="{{ partial "url.html" $pathwaysImage }}" alt="{{ cond $isAlevel (printf "University graduation representing the next step after A-Levels in %s" $loc) (printf "A school building representing the next step after GCSEs in %s" $loc) }}" width="1500" height="1000" loading="lazy" decoding="async">
+        {{/* Resized through the partial: the default GCSE image is a 4.7 MB
+             original, and this block is on every GCSE and A-Level hub. */}}
+        {{ partial "responsive-image.html" (dict "src" $pathwaysImage "alt" (cond $isAlevel (printf "University graduation representing the next step after A-Levels in %s" $loc) (printf "A school building representing the next step after GCSEs in %s" $loc)) "loading" "lazy" "widths" (slice 480 760 1100) "fallbackWidth" 760 "sizes" "(min-width: 901px) 540px, (min-width: 529px) 480px, calc(100vw - 48px)") }}
       </div>
 
     </div>

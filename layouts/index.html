@@ -298,7 +298,7 @@
       <a href="{{ .RelPermalink }}" class="home-blog-card">
         {{ with .Params.hero_image }}
         <div class="home-blog-card__media">
-          <img src="{{ partial "url.html" . }}" alt="{{ $.Title }}" loading="lazy">
+          {{ partial "responsive-image.html" (dict "src" . "alt" "" "loading" "lazy" "widths" (slice 420 760) "fallbackWidth" 420 "sizes" "(min-width: 1000px) 360px, (min-width: 601px) 50vw, 100vw") }}
         </div>
         {{ end }}
         <div class="home-blog-card__body">
