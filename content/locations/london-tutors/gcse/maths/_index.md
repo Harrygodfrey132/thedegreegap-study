@@ -1,24 +1,24 @@
 ---
 title: "GCSE Maths Tutors Covering London | Online | The Degree Gap"
 nav_title: "Maths"
-description: "London GCSE Maths tutors matched to the AQA, Edexcel or OCR paper your child actually sits. One-to-one work on the higher tier and Paper 3, from £37 an hour."
+description: "One-to-one GCSE Maths tutors across every London borough, online. For a Year 10 new to higher tier or a Year 11 chasing a sixth form place. From £37."
 layout: "level-subject"
 location: "London"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutoring for London Students"
-hero_lead: "By the time most London parents get in touch about GCSE Maths, the effort is there and the mark isn't moving. Our London GCSE Maths tutors sit the student through a recent higher paper and find where the marks are actually going."
+hero_h1: "Online GCSE Maths Tutors for Every London Borough"
+hero_lead: "We tend to hear one of two GCSE Maths worries from London parents. Your child is a few marks off the sixth form they want, or they've moved up to higher tier without the algebra for it. Either way, our London GCSE Maths tutors start with a marked paper."
 
-angle_eyebrow: "WHERE THE GCSE MATHS MARKS GO IN LONDON"
-angle_heading: "Where a GCSE Maths tutor finds the marks that move a London grade"
-angle_body_1: "London runs two GCSE Maths conversations at once. In one, a student is a few marks off what a selective sixth form asks for. In the other, a Year 10 has been moved onto higher tier without the algebra to survive it. Both end up in the same place on the paper: algebraic fractions buried inside multi-mark questions, circle theorem proofs that need a reason on every line, iterative numerical methods, and the wordy problem-solving that fills the back of Paper 3. Almost none of that is a knowledge gap. It's a question-style gap."
-angle_body_2: "The first lesson is a marked paper, not a lesson plan. A tutor goes through it question by question, separating the marks lost to method from the marks lost to misreading what was asked. And those need different fixes. From there the plan targets whichever block is actually bleeding, whether that means rebuilding Year 9 algebra or drilling the last six questions of Paper 3 until the timing stops being the problem. For a student with Tiffin School or Brampton Manor Academy sixth form in mind, that gap is usually what the offer turns on."
+angle_eyebrow: "TWO GCSE MATHS WORRIES WE HEAR ACROSS LONDON"
+angle_heading: "Why Both London Maths Worries End Up on the Same Questions"
+angle_body_1: "In the first worry, your child is within touching distance of a selective sixth form, a few marks short. In the second, they're in Year 10, newly moved onto higher tier, and the algebra hasn't caught up. They sound like opposite problems. But on the paper they usually meet in the same places. Algebraic fractions hidden inside questions worth several marks. Circle theorem proofs, where every line needs a reason. Iterative methods. And the long, wordy problems near the end of each paper. Very little of that is about not knowing the Maths. It's about not spotting what the question wants."
+angle_body_2: "Your child's tutor starts with a recent paper, marked the way an examiner would mark it. Then there's one simple question for every lost mark: did your child not know how, or not see what was being asked? The answer shapes the plan. A Year 10 new to higher tier might spend a few weeks rebuilding Year 9 algebra before anything else. A Year 11 hoping for a sixth form place at Tiffin School or Brampton Manor Academy is more likely to practise the last few questions against the clock. Same starting point, very different weeks."
 angle_image: "/images/maths-equations-close-up.jpg"
-angle_image_alt: "A GCSE Maths student working through a higher-tier algebra question with a tutor"
+angle_image_alt: "Close-up of a GCSE Maths circle theorem proof, with a reason on each line"
 angle_stat_from: "5"
 angle_stat_to: "7"
-angle_stat_detail: "The lift we most often work towards across a term of weekly one-to-one GCSE Maths sessions."
+angle_stat_detail: "A 5 up to a 7 is what a term of weekly lessons would aim at. Not a promise."
 
 schools:
   - "Tiffin School"
@@ -28,27 +28,27 @@ schools:
   - "Highgate School"
   - "Westminster School"
 
-steps_heading: "Start GCSE Maths tutoring covering London in 3 steps"
-steps_lead: "Most London families are matched inside 24 hours, which matters most between September and the March mocks that set sixth-form predicted grades."
+steps_heading: "What happens after you get in touch about GCSE Maths"
+steps_lead: "Lessons usually start within a week of your first call. And starting in the autumn leaves the most room before the November and March mocks."
 steps:
-  - title: "Share your goals"
-    body: "Tell us the exam board, the tier and the target. London schools run AQA, Edexcel and OCR between them, and the papers are not interchangeable. We also ask which Year 10 or Year 11 topics have already been flagged, because that usually points at where the diagnostic should start."
-  - title: "Meet your match"
-    body: "Two or three tutor profiles arrive within 24 hours, with a free 15-minute meeting before anything is booked. We match on the specification and on the part of the paper that's costing marks, so a student losing Paper 3 problem-solving marks gets someone who teaches that end of the paper."
-  - title: "Start the lessons"
-    body: "Weekly hour-long sessions on Lessonspace, our shared whiteboard, so every worked solution can be saved and revisited. Most London families add a second weekly session in the run-up to November and March mocks. From £37 an hour."
+  - title: "Talk to us first"
+    body: "You'll speak to Harry or Joe, our co-founders, on a free call of about 15 minutes. We'll ask about your child's exam board, tier and target, and any topics school has already flagged. Between them, London's schools sit AQA, Edexcel and OCR, and each board asks its questions in its own way."
+  - title: "Choose who your child meets"
+    body: "Within 24 hours of the call you'll get two or three tutor profiles. We choose them for your child's board and for the part of the paper that's costing marks. So a child losing marks on the final problems gets a tutor who's good at exactly those. Then there's a free 15-minute video meeting before you book anything."
+  - title: "Weekly lessons, replay included"
+    body: "Your child has a one-to-one lesson each week, online using the platform Lessonspace, and can replay any of them later. Plenty of London families add a second lesson before the mocks. From £37 an hour, and no contract."
 
 faqs:
-  - q: "How does GCSE Maths attainment across London compare to the national picture?"
-    a: "London sits above the England average, and it has done for years. The more useful detail for a parent is the spread. The gap between the strongest and weakest boroughs is wider than in any other region, so a grade that looks comfortable against the national figure can look very different against the sixth forms your child is actually applying to. Because London applications routinely cross borough lines, the pool your child is compared with is bigger than the local one."
-  - q: "Should my child focus on the calculator or the non-calculator paper?"
-    a: "Both, and they're weighted equally, so the question is really which one is bleeding more marks. The non-calculator paper rewards arithmetic fluency and clean algebraic manipulation. The calculator papers reward accuracy across multi-step work and the patience to read a long question properly. Most students lose marks in different places on each. A tutor's first diagnostic is usually just marking one of each and seeing which pattern is worse."
-  - q: "How can I tell which GCSE Maths topics my child is losing marks on?"
-    a: "Look at question numbers on a recent mock rather than the total. Higher-tier papers build in difficulty, so marks lost across the early questions point at arithmetic and method, while marks lost from question 17 onwards usually point at exam technique rather than knowledge. If the paper is mostly right until the last third and then falls away, the issue is often timing and stamina, which is a faster fix than it sounds."
-  - q: "Are your tutors qualified teachers or university students?"
-    a: "Both, and the right answer depends on the student. The network includes qualified secondary teachers, Russell Group graduates and postgraduates who sat these papers recently enough to remember the mark scheme in detail. Every tutor clears a founder-led interview that only about 3% of applicants pass, testing subject knowledge and how clearly they explain something under pressure. A degree on its own has never been enough."
-  - q: "How quickly can my child start GCSE Maths tutoring?"
-    a: "Usually inside a week. You speak with Harry or Joe first, which takes about 15 minutes and carries no obligation. Two or three tutor profiles follow within 24 hours, and you get a free 15-minute meeting with whoever you pick before any money changes hands. First paid session is typically a few days after that."
+  - q: "Is the GCSE Maths standard higher in London?"
+    a: "On average, yes. London's results sit above England's, and have for years. But the average hides a big spread: the gap between the strongest and weakest boroughs is wider than in any other region. And because sixth form applications here often cross borough lines, your child may be compared with a much bigger pool than their own school. So a grade that looks comfortable nationally can feel tight for the sixth forms they're actually applying to."
+  - q: "How can I work out where my child is dropping marks?"
+    a: "Look at the question numbers on their last mock, not just the total. Whichever board your child's London school uses, GCSE Maths papers get harder as they go. If marks go early on, it's usually arithmetic or a method that isn't secure yet. If the paper's mostly right until the last third and then falls away, it's more often timing and exam technique. That's good news, because it's usually quicker to put right than a gap in understanding."
+  - q: "Which paper should my child practise more, calculator or non-calculator?"
+    a: "Every paper carries the same weight, so it's really about which one's losing more marks. The non-calculator paper leans on quick, accurate arithmetic and tidy algebra. The calculator papers lean on reading a long question carefully and staying accurate over several steps. Most children drop marks in different places on each. A tutor will often mark one of each early on and start with whichever looks worse."
+  - q: "My child has dyslexia or ADHD. Can a Maths tutor still help?"
+    a: "Yes. Tell us about it on the call and we'll look for tutors who've worked with it before. One-to-one takes a lot of pressure off: there's no class watching, and the tutor can slow down, split a method into smaller pieces and go over it as often as your child needs. Every lesson has a replay too, so your child can watch a tricky bit again at their own pace."
+  - q: "How soon could my child start?"
+    a: "Usually within a week of your first call. The profiles come within a day, the meeting with the tutor is a free 15 minutes, and the first proper lesson tends to follow a few days later. If a mock is coming up fast, tell us on the call and we'll move as quickly as we can."
 
 reviews:
   - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. We were given a selection of tutors to choose from and told that if it did not feel like a good match we could try others. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
@@ -61,5 +61,5 @@ sitemap:
   priority: 0.6
   changefreq: monthly
 
-# FAQ picks: G02, A11, A06, E02, C10
+# FAQ picks: G02, A06, A11, E03, C10
 ---
