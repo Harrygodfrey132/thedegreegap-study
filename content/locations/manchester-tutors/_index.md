@@ -1,42 +1,16 @@
 ---
 title: "Manchester Tutoring | GCSE & A-Level Tutors"
-description: One-to-one Manchester tutoring for Maths, English, Sciences and
-  more. Expert tutors, flexible online lessons and proven academic results.
+description: "Mocks not showing what your child knows? Manchester tutoring for the 11+, GCSE and A-Level, online. A free call first, then 2 or 3 tutor profiles. From £37."
 layout: single
 location: Manchester
-banner_heading: "Want an online Manchester tutor who prepares, not just covers content?"
-banner_description: The Degree Gap tutoring matches Manchester students with
-  tutors who find the gap, close it, and give students the exam confidence to
-  show what they know.
-content_angle: exam pressure / 11+ and selective school competition
-intro_1: Just across the city boundary, Trafford has four of the most
-  sought-after grammar schools in England. Altrincham Grammar for Boys,
-  Altrincham Grammar for Girls, Sale Grammar and Loreto Grammar are all rated
-  Outstanding by Ofsted and receive far more applications than they have places.
-  That pull creates exam pressure that reaches well beyond Trafford itself.
-  Families in Didsbury, Chorlton, Stretford and across South Manchester weigh up
-  11+ preparation alongside everything else, and even those not applying feel
-  the competitive backdrop it sets. At the same time, results across Manchester
-  city track below the national average on Progress 8, which means capable
-  students are often not getting the results their ability deserves.
-intro_2: That gap between ambition and outcome is exactly what The Degree Gap
-  was built to close. Our Manchester tutors work with students one-to-one,
-  whether that's a Year 5 or 6 student building the reasoning skills the
-  Trafford 11+ demands, a GCSE student whose results haven't kept pace with the
-  effort they're putting in, or an A-Level student who needs subject-specific
-  tuition before grades are locked in. Tuition isn't about going over the same
-  lesson again. It's about finding what the classroom couldn't address and
-  dealing with it properly.
+banner_heading: "Mocks Underselling Your Child? Online Manchester Tutors Who Prepare for the Real Exam"
+banner_description: "Our Manchester tutors work out why the marks aren't matching what your child knows, fix that first, then practise until the real paper feels familiar."
+content_angle: "exam pressure with the 11+ in the background: the child who knows more than the mocks show"
+intro_1: "If you live in Didsbury, Chorlton or Stretford, the grammar school question has probably come up at your kitchen table at some point. Trafford's grammars are close by, among them Altrincham Grammar for Boys, Altrincham Grammar for Girls, Sale Grammar and Loreto Grammar. Each gets far more applications than it has places. So the 11+ hangs over plenty of South Manchester homes, even the ones that decide not to apply. Then there's the wider picture. Across Manchester as a whole, the progress children make at secondary school sits below the national average. That's a citywide figure, not a verdict on any school or on your child. But it does mean a lot of bright children end up with grades that don't show what they can do."
+intro_2: "Closing that gap is why we started The Degree Gap. For a Year 5 or 6 child, it might mean building the reasoning the Trafford 11+ asks for. At GCSE, it's often a child whose marks haven't kept up with the hours they're putting in. And in the sixth form years, it's the one subject that needs a proper one-to-one tutor before the grades are locked in. None of it means sitting through the same lesson again. The tutor finds the thing the classroom couldn't stop for, and sorts it out properly."
 about_heading: Experienced GCSE and A-Level Tutors in Manchester
 about_image: /images/graduation-ceremony-caps.jpg
-schools_intro: Students come to us from secondary schools across Manchester and
-  Trafford, including Altrincham Grammar School for Boys, Altrincham Grammar
-  School for Girls, Loreto Grammar School, Whalley Range 11-18 High School,
-  Manchester Academy and Xaverian College, where competition for places means
-  students are working towards grade thresholds that leave no room to coast. Our
-  tutors support students from all of these schools, and we also run workshops
-  on exam technique, revision planning and study habits for students at any
-  stage.
+schools_intro: "We work with families from schools on both sides of the Manchester and Trafford boundary, including Altrincham Grammar School for Boys, Altrincham Grammar School for Girls, Loreto Grammar School, Whalley Range 11-18 High School, Manchester Academy and Xaverian College. Wherever your child is, there'll be a grade they're working towards, for a sixth form place, a college course or a university offer. We also run workshops on exam technique, revision planning and study habits, open to students at any stage."
 schools:
   - Altrincham Grammar School for Boys
   - Altrincham Grammar School for Girls
@@ -45,25 +19,12 @@ schools:
   - Manchester Academy
   - Xaverian College
 schools_image: /images/school-clock-tower-building.jpg
-online_heading: "Online tutoring for Manchester students: access the right
-  tutor, not just the nearest one"
-online_1: Manchester is a large, spread-out city. Getting to the right tutor in
-  person, fitting sessions around school and activities, and keeping that up
-  week after week, is harder than it sounds. Online tuition removes all of that.
-  Students work with the best-matched tutor for their subject, year group and
-  exam board, regardless of where either of them is based. For families in
-  Salford, Wythenshawe or the commuter belt stretching out towards Trafford,
-  that matters.
-online_2: Sessions run through Lessonspace, a platform built for focused online
-  tutoring. There's a shared whiteboard where your child and their tutor work through problems together as they go, which helps most in Maths and the sciences. No travel, no traffic, and the consistency that makes sessions
-  actually work. Manchester families tell us it's the regularity, a session
-  every week rather than a scramble before mocks, that produces the results they
-  were hoping for.
+online_heading: "Why online tutoring suits a city the size of Manchester"
+online_1: "Manchester's a big, spread-out city. Getting your child to a tutor across town, around school and clubs, every single week, is harder than it sounds. Online, none of that matters. We can pick the tutor who best fits your child's subject, year group and exam board, wherever either of them lives. That counts for a lot if you're in Salford, Wythenshawe or out in the commuter towns towards Trafford."
+online_2: "Lessons run on the platform Lessonspace. It has a shared whiteboard, so the tutor watches a Maths or Science problem take shape line by line and can catch a slip the moment it happens. You get a replay of every lesson as well. No traffic, no dropping off, and it's easy to keep lessons going week after week. Manchester parents often tell us that's what did it in the end: an hour every week, rather than a scramble before the mocks."
 online_image: /images/child-using-online-learning-laptop.jpg
 map_url: https://maps.google.com/maps?q=Manchester,UK&output=embed
-areas_intro: Because most of our tuition is online, students in Manchester and
-  nearby areas can access the right subject specialist without being limited by
-  geography.
+areas_intro: "Salford, Stretford, Didsbury or further out: with every lesson online, where you live doesn't change a thing. Nearby cities are listed below too."
 area_links:
   - Liverpool Tutors|/locations/liverpool-tutors/
   - Leeds Tutors|/locations/leeds-tutors/
@@ -72,112 +33,41 @@ area_links:
   - Nottingham Tutors|/locations/nottingham-tutors/
   - Birmingham Tutors|/locations/birmingham-tutors/
 gcse_subjects:
-  - GCSE English Tuition|Targeted support across Language and Literature that
-    helps students build a reliable analytical approach and write with the
-    confidence examiners reward.|/book-a-call/
-  - GCSE Physics Tuition|Clear, structured work through forces, energy and
-    electricity for students who need the concepts explained properly, not just
-    repeated.|/book-a-call/
-  - GCSE Maths Tuition|Expert support in algebra, number, geometry and
-    statistics that builds the fluency Manchester students need when grade
-    boundaries are tight.|/book-a-call/
-  - GCSE Computer Science Tuition|Practical guidance through programming,
-    algorithms and data representation that makes the abstract concrete, one
-    step at a time.|/book-a-call/
-  - GCSE French Tuition|Steady, focused practice across all four skills that
-    builds the confidence to perform under exam conditions, not just in informal
-    conversation.|/book-a-call/
-  - GCSE Geography Tuition|Structured revision across physical and human
-    geography, with strong support on case studies and extended writing to push
-    students up through the grade bands.|/book-a-call/
-  - GCSE Chemistry Tuition|Careful, step-by-step tuition through organic,
-    inorganic and physical chemistry that gives students real understanding
-    rather than surface recall.|/book-a-call/
-  - GCSE History Tuition|Sharp essay technique and source analysis developed
-    session by session, so students answer with conviction rather than
-    second-guessing the mark scheme.|/book-a-call/
-  - GCSE Biology Tuition|Focused support through cells, genetics and ecology
-    that links content to exam questions, helping students convert knowledge
-    into marks.|/book-a-call/
+  - "GCSE English Tuition|A way into any Language or Literature question that your child can rely on, then practice writing it up with the clock running.|/book-a-call/"
+  - "GCSE Physics Tuition|Forces, energy and electricity explained properly, and explained differently if the first way doesn't land, rather than just repeated.|/book-a-call/"
+  - "GCSE Maths Tuition|Algebra, number, geometry and statistics practised until they're fluent, because in Maths a few marks either way can decide the grade.|/book-a-call/"
+  - "GCSE Computer Science Tuition|Programming, algorithms and how computers store data, made concrete one step at a time so the abstract parts stop feeling abstract.|/book-a-call/"
+  - "GCSE French Tuition|Speaking, listening, reading and writing practised calmly one-to-one, so your child can do it in the exam room, not just in a friendly chat.|/book-a-call/"
+  - "GCSE Geography Tuition|Physical and human topics tied to the case studies your child needs, then longer answers practised until they pick up the marks on offer.|/book-a-call/"
+  - "GCSE Chemistry Tuition|Reactions and calculations taken step by step, so your child understands why an answer's right, not just what it looks like.|/book-a-call/"
+  - "GCSE History Tuition|Source questions and essay technique built up lesson by lesson, so your child argues a point firmly instead of second-guessing it.|/book-a-call/"
+  - "GCSE Biology Tuition|Cells, genetics and ecology linked to the way exam questions really ask about them, so what your child knows turns into marks.|/book-a-call/"
 alevel_subjects:
-  - A-Level Chemistry Tuition|In-depth tuition through organic, inorganic and
-    physical chemistry with tutors who explain things differently until they
-    actually make sense.|/book-a-call/
-  - A-Level Economics Tuition|Advanced micro and macroeconomic analysis with a
-    focus on evaluation and data response, the skills that separate a C from an
-    A at this level.|/book-a-call/
-  - A-Level Biology Tuition|Expert guidance through the advanced content in
-    genetics, physiology and ecology, building proper understanding rather than
-    relying on memorisation.|/book-a-call/
-  - A-Level Geography Tuition|Support through advanced geographical concepts,
-    fieldwork analysis and extended writing for students targeting the top mark
-    bands.|/book-a-call/
-  - A-Level Maths Tuition|Focused, problem-solving support across pure maths,
-    mechanics and statistics for students building the confidence that tough
-    A-Level papers demand.|/book-a-call/
-  - A-Level English Tuition|Critical analysis and essay writing developed
-    carefully, helping students find their own voice and write arguments that
-    stand up at A-Level.|/book-a-call/
-  - A-Level History Tuition|Support building the analytical depth to write
-    sustained, complex arguments under timed conditions, session by
-    session.|/book-a-call/
-  - A-Level Psychology Tuition|Methodical work through research methods, key
-    studies and essay technique that makes a demanding course feel genuinely
-    manageable.|/book-a-call/
-  - A-Level Physics Tuition|Patient, problem-focused tuition in advanced
-    mechanics, fields and quantum physics for students who need the material
-    approached from a different angle.|/book-a-call/
+  - "A-Level Chemistry Tuition|Organic, inorganic and physical chemistry, with a tutor who'll explain it a second and a third way until it clicks.|/book-a-call/"
+  - "A-Level Economics Tuition|Micro and macro, with extra time on evaluation and data questions, which is often where a C and an A part company.|/book-a-call/"
+  - "A-Level Biology Tuition|Genetics, physiology and ecology understood rather than memorised, because there's too much at A-Level to learn by rote.|/book-a-call/"
+  - "A-Level Geography Tuition|Fieldwork analysis and the longer essays, with a tutor who knows where the marks sit in each kind of answer.|/book-a-call/"
+  - "A-Level Maths Tuition|Pure, mechanics and statistics, with lots of problem practice so the harder papers stop feeling so daunting.|/book-a-call/"
+  - "A-Level English Tuition|Close reading and essay practice that helps your child find their own view of a text and argue it clearly.|/book-a-call/"
+  - "A-Level History Tuition|Long, argued essays written to time, with each one marked and talked through so the next one's sharper.|/book-a-call/"
+  - "A-Level Psychology Tuition|Research methods, key studies and essay technique, broken down so a heavy course feels manageable week by week.|/book-a-call/"
+  - "A-Level Physics Tuition|Mechanics, fields and quantum physics approached from a fresh angle when the textbook's version hasn't gone in.|/book-a-call/"
 other_subjects:
-  - University Personal Statement|Shape a strong UCAS personal statement with
-    expert support on structure, subject motivation, and final
-    polish.|/book-a-call/
-faq_1_q: Do you support students aiming for grammar or independent schools in
-  Manchester?
-faq_1_a: Yes. We work with students preparing for 11+ exams, Common Entrance and
-  competitive sixth form entry. Tutors know what the Trafford grammar schools
-  and Manchester's independent schools are looking for and prepare students
-  accordingly, not just on content but on how to perform under that kind of
-  pressure.
-faq_2_q: How much does tutoring cost in Manchester?
-faq_2_a: Sessions start from £37 per hour. The exact rate depends on the subject
-  and the tutor, and it is always agreed before anything is booked. No
-  surprises, no hidden fees.
-faq_3_q: Can tutors help with GCSE mock preparation in Manchester?
-faq_3_a: Yes. Mocks are one of the most common reasons families come to us.
-  Tutors work through past papers, tighten exam technique and focus on the
-  topics most likely to come up. Students go in knowing what to expect.
-faq_4_q: How quickly can tuition start in Manchester?
-faq_4_a: Usually within a few days of getting in touch. Once we know the
-  subject, level and what the student needs, we move quickly. No long waiting
-  lists.
-why_heading: What the first session with a Manchester student usually reveals
-why_para_1: Most students don't arrive with a single obvious gap. What tutors
-  find more often is a student who can follow an explanation in class but can't
-  reproduce it independently. They nod along, the lesson moves on, and then the
-  exam question appears and the process isn't there. That's not a confidence
-  problem. It's a signal something wasn't properly embedded, and nobody had the
-  time to find out what. First sessions usually show students who know more than
-  they think, but who've never been pushed to explain their reasoning out loud.
-why_para_2: "That's what one-to-one tuition does differently. A tutor can stop
-  at the exact moment where a student hesitates, ask the right question, and
-  find out what's actually missing. It doesn't take long. Within two or three
-  sessions, most students start to feel the difference, not just in grades, but
-  in how much less frightening the subject feels when they sit down with it.
-  Manchester parents often tell us that's the first thing they notice: their
-  child is less anxious about the subject before any result has come back."
-accordion_quality: Every tutor working with Manchester students is vetted on
-  subject knowledge and on how clearly they explain things under exam
-  conditions. For students targeting the Trafford grammars, competitive sixth
-  forms like Loreto College or Xaverian, or university entry, that means tutors
-  who understand the standard required and how to prepare students for it.
-accordion_experience: Our tutors have experience with Manchester students across
-  11+, GCSE and A-Level, and they know how to build exam performance steadily
-  rather than just covering content. They understand the pressure points in
-  Greater Manchester's school system.
-accordion_personalised: No two students arrive with the same gap. Tutors spend
-  the first session working out exactly where understanding breaks down, then
-  structure every subsequent session around closing that specific gap, not
-  following a generic plan.
+  - "University Personal Statement|A UCAS personal statement that's properly structured and says, in your child's own words, why they want the subject.|/book-a-call/"
+faq_1_q: "Can you help with the Trafford 11+ or a place at an independent school?"
+faq_1_a: "Yes. We help children preparing for the 11+, Common Entrance and competitive sixth form entry. The tutors we'd suggest know what the Trafford grammars and Manchester's independent schools look for. Alongside the content, they'll get your child used to working against the clock, so the pressure on the day feels familiar."
+faq_2_q: "How much does a Manchester tutor cost?"
+faq_2_a: "From £37 an hour. The exact rate depends on the tutor and the subject, and you'll agree it before anything's booked. There's no contract and no hidden fees, and you can stop whenever you like."
+faq_3_q: "The mocks are coming up. Is it worth starting now?"
+faq_3_a: "Yes, and mocks are one of the most common reasons families ring us. The tutor works through past papers with your child, sharpens exam technique and focuses on the topics costing the most marks. So your child walks in knowing what to expect."
+faq_4_q: "How quickly can we get started?"
+faq_4_a: "Often in a few days. After a free call about your child, you'll see two or three tutor profiles within a day, and the first lesson can go in the diary as soon as you've chosen."
+why_heading: "What a Manchester tutor usually spots in your child's first lesson"
+why_para_1: "It's rarely one obvious gap. More often, your child can follow an explanation in class but can't do it on their own afterwards. They nod along, the lesson moves on, and then the exam question turns up and the method isn't there. That's not really a confidence problem. It usually means something never quite sank in, and nobody had the time to find out what. In a first lesson, children often turn out to know more than they think. They've just never been asked to explain their thinking out loud."
+why_para_2: "One-to-one, the tutor can stop at the exact moment your child hesitates, ask a question and see what's missing. It doesn't take long. Often within two or three lessons your child starts to feel differently about the subject, and it looks a lot less frightening when they sit down with it. That's usually the first thing Manchester parents mention to us. A child who's calmer about Maths or Chemistry, well before any mark comes back."
+accordion_quality: "Every tutor we suggest has been vetted on what they know and on how clearly they explain the kind of question your child will meet in the exam. If your child is aiming for the Trafford grammars, a place at Loreto College or Xaverian, or a university offer, we'll look for a tutor who knows what those places expect and how to get your child ready."
+accordion_experience: "The tutors we work with have taken Manchester children through the 11+, GCSEs and A-Levels. They build exam performance up steadily rather than just covering content, and they know where the pressure points fall in Greater Manchester's schools."
+accordion_personalised: "No two children arrive with the same gap. So the first lesson works out where understanding breaks down, and every lesson after that is built around closing it, not around a plan written for someone else."
 reviews:
   - Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone
     above and beyond to pair both my sons with the appropriate tutors, all of

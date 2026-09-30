@@ -1,39 +1,16 @@
 ---
 title: "Birmingham Tutoring | GCSE & A-Level Tutors"
-description: One-to-one Birmingham tutoring for Maths, English, Sciences and
-  more. Expert tutors, flexible online lessons and proven academic results.
+description: "When a topic just won't stick, our Birmingham tutors find where your child's marks go and try a different explanation. GCSE and A-Level, online, from £37."
 layout: single
 location: Birmingham
 banner_heading: "Looking for an online Birmingham tutor who gets to the root of the problem?"
-banner_description: Most tutoring covers the same content again and hopes it
-  sticks. Our Birmingham tutors find what's not working and explain it
-  differently until it does.
+banner_description: "Going over the same topic again rarely makes it stick. Our Birmingham tutors find the bit that isn't working for your child and explain it another way until it does."
 content_angle: exam pressure / selective school competition
-intro_1: Birmingham has one of the most competitive secondary school systems in
-  the country. The King Edward VI grammar schools attract thousands of
-  applicants each year, with some schools receiving close to 1,800 applications
-  for around 180 places. That level of competition shapes how families across
-  the city think about education, well beyond those directly applying. It sets a
-  tone. Students in Birmingham's comprehensives often feel the pull of that
-  standard, and many start looking for tutoring when they realise the gap
-  between where they are and where they want to be.
-intro_2: The Degree Gap tutoring works with Birmingham students at every stage.
-  Some come to us preparing for 11+ entry. Others are in Year 10 or 11, quietly
-  struggling in large classes where there's rarely time to slow down and explain
-  something a different way. Some are already in sixth form and finding that
-  A-Level content requires a different kind of thinking than anything they've
-  covered before. Whatever the situation, our tutors start by finding exactly
-  where things stopped making sense, then build a plan around it. That's what
-  proper one-to-one tuition does.
+intro_1: "The 11+ might be weeks away, or your child might be in Year 10 at a big comprehensive across the city. Either way, you'll have heard the numbers. Some of the King Edward VI grammar schools get close to 1,800 applications for around 180 places. That kind of competition sets a tone well beyond the families who apply. It gets talked about at the school gate, and children at the comprehensives feel the pull of it too. And that's often when tutoring comes up: the moment you spot a gap between where your child is and where they'd like to be."
+intro_2: "We help Birmingham families at every stage. Some come to us in the run-up to the 11+. Some have a child in Year 10 or 11 who's quietly struggling in a full class, where there's rarely time to stop. What they need is someone to go back over a topic slowly, one-to-one. Others have a sixth former finding that A-Level asks for a kind of thinking GCSE never did. Wherever your child is, the tutor starts by finding the point where things stopped making sense. Then they build the plan from there."
 about_heading: The Birmingham Tutors Who Get Results
 about_image: /images/graduation-ceremony-caps.jpg
-schools_intro: The Degree Gap tutoring works with students from Birmingham
-  secondary schools right across the city, including King Edward VI Aston
-  School, King Edward VI Camp Hill School for Girls, Sutton Coldfield Grammar
-  School for Girls, Handsworth Wood Girls' Academy, Lordswood Girls' School and
-  Moseley School and Sixth Form. One-to-one tutoring is available for students
-  in any year group, and we run workshops on exam technique and revision
-  planning for students from these and other local schools.
+schools_intro: "Some of the Birmingham families we work with have children at King Edward VI Aston School, King Edward VI Camp Hill School for Girls or Sutton Coldfield Grammar School for Girls. Others have a son or daughter at Handsworth Wood Girls' Academy, Lordswood Girls' School or Moseley School and Sixth Form. Your child can start one-to-one lessons in any year. And we run workshops on exam technique and planning revision for pupils from these schools and others around the city."
 schools:
   - King Edward VI Aston School
   - King Edward VI Camp Hill School for Girls
@@ -42,24 +19,12 @@ schools:
   - Lordswood Girls' School
   - Moseley School and Sixth Form
 schools_image: /images/students-listening-in-classroom.jpg
-online_heading: "Online tutoring for Birmingham students: the right tutor, not
-  just the nearest one"
-online_1: Birmingham is a large city. Finding a specialist tutor for the right
-  subject, exam board and year group, and then fitting sessions around school,
-  clubs and family life, isn't always straightforward in person. Online tuition
-  removes that problem entirely. Students work with the best tutor for their
-  needs, not whoever happens to be available nearby.
-online_2: Sessions run through Lessonspace, a platform built for focused
-  one-to-one work. There's a shared interactive whiteboard so students and
-  tutors work through problems together in real time, which matters most in
-  subjects like Maths and the sciences. Most Birmingham families find their
-  child is comfortable with online tutoring from the very first session. No
-  travel, no scheduling around traffic, and the flexibility to book at a time
-  that actually works around school and everything else.
+online_heading: "Online tutoring for Birmingham families, without the drive across the city"
+online_1: "Birmingham's a big place. Finding a tutor who knows your child's subject, exam board and year group isn't easy. Fitting lessons around school, clubs and family life is harder still, if it all has to happen in person. Online, that problem goes away. Your child gets the best tutor for what they need, not whoever's free nearby."
+online_2: "Lessons run on Lessonspace, a platform built for one-to-one teaching. Your child and the tutor work on the same whiteboard at the same time, which helps most in Maths and the sciences, where the working matters. There's a replay of every lesson, too. Most Birmingham children are comfortable with it from the first lesson. No traffic, no dash across the city, and a time that fits around everything else."
 online_image: /images/student-studying-at-night-with-laptop.jpg
 map_url: https://maps.google.com/maps?q=Birmingham,UK&output=embed
-areas_intro: Distance doesn't decide who's the right tutor for a student, which
-  is why we support families across Birmingham and well beyond.
+areas_intro: "How far away a tutor lives doesn't decide whether they're right for your child. So we help families across Birmingham and well beyond."
 area_links:
   - Coventry Tutors|/locations/coventry-tutors/
   - Derby Tutors|/locations/derby-tutors/
@@ -68,112 +33,41 @@ area_links:
   - Manchester Tutors|/locations/manchester-tutors/
   - Sheffield Tutors|/locations/sheffield-tutors/
 gcse_subjects:
-  - GCSE Biology Tuition|One-to-one support that breaks down cell biology,
-    genetics and ecology for students who need to hold exam technique alongside
-    content knowledge.|/book-a-call/
-  - GCSE Chemistry Tuition|Structured tuition through organic, inorganic and
-    physical chemistry that builds the understanding Birmingham students need
-    when topics get harder in Year 11.|/book-a-call/
-  - GCSE Maths Tuition|Patient, focused support covering algebra, geometry,
-    number and statistics, building fluency for students who know more than
-    their exam results currently show.|/book-a-call/
-  - GCSE French Tuition|Steady practice across speaking, listening, reading and
-    writing that builds the confidence to perform on exam day, not just in
-    class.|/book-a-call/
-  - GCSE History Tuition|Strong essay technique and source analysis developed
-    carefully, so students write with conviction rather than second-guessing the
-    mark scheme.|/book-a-call/
-  - GCSE English Tuition|Practical support across Language and Literature that
-    helps students develop a reliable approach to analysis they can use
-    independently.|/book-a-call/
-  - GCSE Physics Tuition|Clear, methodical guidance through forces, energy and
-    electricity for students who find the subject clicks better with someone
-    explaining it one-to-one.|/book-a-call/
-  - GCSE Computer Science Tuition|Support that makes programming fundamentals
-    and algorithmic thinking approachable, building confidence alongside the
-    technical skills examiners want to see.|/book-a-call/
-  - GCSE Geography Tuition|Targeted revision across physical and human geography
-    with clear support on case studies and extended writing for students aiming
-    to improve their grade.|/book-a-call/
+  - "GCSE Biology Tuition|Cells, genetics and ecology broken down one-to-one, with exam technique practised alongside the content so your child can use what they know.|/book-a-call/"
+  - "GCSE Chemistry Tuition|Bonding, rates and chemical calculations, taken steadily so the harder Year 11 topics have something solid to build on.|/book-a-call/"
+  - "GCSE Maths Tuition|Patient work on algebra, geometry, number and statistics, for the child who knows more than their exam results are showing.|/book-a-call/"
+  - "GCSE French Tuition|Speaking, listening, reading and writing, practised steadily so your child can do in the exam what they already manage in class.|/book-a-call/"
+  - "GCSE History Tuition|Essay technique and source work built up carefully, so your child writes with conviction instead of second-guessing the mark scheme.|/book-a-call/"
+  - "GCSE English Tuition|Language and Literature, with one reliable way into analysis that your child can use on any text, on their own.|/book-a-call/"
+  - "GCSE Physics Tuition|Forces, energy and electricity, explained step by step for the child who needs to hear it one-to-one before it clicks.|/book-a-call/"
+  - "GCSE Computer Science Tuition|Programming basics and algorithms made approachable, so confidence grows along with the skills examiners want to see.|/book-a-call/"
+  - "GCSE Geography Tuition|Physical and human geography, with clear help on case studies and the longer written answers, wherever the grade is now.|/book-a-call/"
 alevel_subjects:
-  - A-Level Economics Tuition|Advanced support through micro and macroeconomic
-    models and evaluation that helps Birmingham students demonstrate real
-    analytical depth.|/book-a-call/
-  - A-Level History Tuition|Building the ability to construct and sustain
-    complex arguments, helping students write with the precision and confidence
-    that top grades require.|/book-a-call/
-  - A-Level Chemistry Tuition|Expert tuition through organic, inorganic and
-    physical chemistry for students who need someone to explain things clearly,
-    not just repeat what the textbook says.|/book-a-call/
-  - A-Level Psychology Tuition|Methodical support through research methods, key
-    approaches and essay technique that makes the subject genuinely manageable
-    rather than just memorised.|/book-a-call/
-  - A-Level Maths Tuition|Focused support across pure maths, mechanics and
-    statistics for students building the problem-solving confidence that A-Level
-    grade boundaries demand.|/book-a-call/
-  - A-Level English Tuition|Critical analysis and essay writing support that
-    helps students develop their own voice and write arguments that stand out at
-    A-Level.|/book-a-call/
-  - A-Level Physics Tuition|Patient, problem-focused tuition in advanced
-    mechanics, fields and quantum physics for students who need the concepts
-    broken down differently.|/book-a-call/
-  - A-Level Geography Tuition|Advanced geographical concepts, fieldwork analysis
-    and extended writing supported by tutors who pitch sessions at whatever
-    level the student is sitting at    actually look for.|/book-a-call/
-  - A-Level Biology Tuition|In-depth guidance through genetics, ecology and
-    physiology for students who need to develop proper understanding rather than
-    surface-level recall.|/book-a-call/
+  - "A-Level Economics Tuition|Micro and macro models, and the evaluation that shows an examiner the argument has really been thought through.|/book-a-call/"
+  - "A-Level History Tuition|How to build an argument and hold it for a whole essay, written with precision and confidence rather than padding.|/book-a-call/"
+  - "A-Level Chemistry Tuition|Organic, inorganic and physical chemistry, explained in plain words so your child isn't left rereading the textbook to make sense of it.|/book-a-call/"
+  - "A-Level Psychology Tuition|Research methods, the key approaches and essay technique, so the subject feels manageable rather than a pile of things to memorise.|/book-a-call/"
+  - "A-Level Maths Tuition|Pure, mechanics and statistics, and the confidence to start a problem they haven't seen before.|/book-a-call/"
+  - "A-Level English Tuition|Critical analysis and essay writing, so your child's argument sounds like their own and stands out.|/book-a-call/"
+  - "A-Level Physics Tuition|Mechanics, fields and quantum physics, explained patiently, and from a different angle when the first explanation doesn't land.|/book-a-call/"
+  - "A-Level Geography Tuition|Fieldwork analysis, the big geographical ideas and extended writing, with each lesson pitched at wherever your child is now.|/book-a-call/"
+  - "A-Level Biology Tuition|Genetics, ecology and physiology, understood properly rather than learnt by rote, so unfamiliar questions don't throw them.|/book-a-call/"
 other_subjects:
-  - University Personal Statement|Shape a strong UCAS personal statement with
-    expert support on structure, subject motivation, and final
-    polish.|/book-a-call/
-faq_1_q: Do you support students aiming for grammar or independent schools in
-  Birmingham?
-faq_1_a: Yes. We work with students preparing for 11+ exams, Common Entrance and
-  competitive sixth form entry. Tutors know what these schools are looking for
-  and prepare students accordingly, not just on content but on how to perform
-  under that kind of pressure.
-faq_2_q: My child is struggling with confidence. Can you help?
-faq_2_a: Yes, and it's more common than people think. A lot of the students we
-  work with in Birmingham aren't short of ability. They've just hit a rough
-  patch and stopped believing in themselves. A tutor your child gets on with can rebuild that belief, often faster than families expect.
-faq_3_q: Do you offer online tutoring for students in Birmingham?
-faq_3_a: Yes, and it's how most of our sessions run. Students get access to a
-  wider pool of tutors, sessions are easier to keep consistent, and most
-  students concentrate better one-to-one online than they do in a classroom. It
-  works well.
-faq_4_q: How do I know if my child actually needs a tutor?
-faq_4_a: Grades slipping despite effort. Confidence dropping. Putting the work
-  in but not seeing results. Those are the clearest signs. Sometimes it's
-  simpler than that. Some students in Birmingham just want to go further than
-  the classroom pace allows. Either is a good reason to get in touch.
-why_heading: Why Birmingham families choose The Degree Gap
-why_para_1: Students who come to us for tutoring usually aren't catastrophically
-  behind. The more common pattern is a student who's kept up well enough in
-  class but can't translate that into exam results. Sometimes it's a student at
-  a grammar school who knows the content but has never been properly shown how
-  to approach a timed paper. More often it's a student at a comprehensive with a
-  gap from Year 8 that nobody addressed, because the class kept moving and there
-  was no reason to stop.
-why_para_2: Tutors start by finding what the student actually knows, not what
-  they should know by now. That distinction matters more than it sounds. Within
-  a few tutoring sessions most students start to feel more in control of the
-  subject. The anxiety drops first. The grades follow. Birmingham parents often
-  tell us the shift they noticed first was in how their child talked about
-  school, before any result came back.
-accordion_quality: We assess every tutor working with Birmingham students on how
-  clearly they explain things, not just on their academic credentials. For
-  students aiming at King Edward VI schools, competitive sixth forms or
-  university, that means tutors who know the standard expected and how to
-  prepare students for it.
-accordion_experience: Tutors have strong track records with Birmingham students
-  across 11+, GCSE and A-Level. They know the exam boards, they understand the
-  pressure points in this city's school system, and they know how to build a
-  student's performance steadily rather than throwing content at them.
-accordion_personalised: We assess what each student knows before building any
-  tutoring plan. For Birmingham students aiming at grammar schools or
-  competitive sixth forms, that precision matters. We trace gaps to where they
-  actually started, not just where school last noticed them.
+  - "University Personal Statement|Support with the UCAS personal statement, from finding what your child wants to say about their subject to shaping the final draft.|/book-a-call/"
+faq_1_q: "Can you help my child get into a grammar or independent school in Birmingham?"
+faq_1_a: "Yes. We help children preparing for the 11+, Common Entrance (the exam some independent schools use) and competitive sixth form entry. The tutors know what these schools look for. So they get your child ready for the content, and for doing well under that kind of pressure."
+faq_2_q: "My child's lost their confidence. Can a tutor help with that?"
+faq_2_a: "Yes, and you're far from the only parent asking. Plenty of the Birmingham children we work with aren't short of ability. They've hit a rough patch and stopped believing in themselves. A tutor they get on with can rebuild that, often faster than families expect."
+faq_3_q: "Will online lessons work for my child?"
+faq_3_a: "For most children, yes. Every lesson we arrange is online, so the tutor can be the best match for your child rather than the nearest one. It's easier to keep a weekly slot going when nobody has to drive to it. And most children concentrate better with one person's full attention than in a busy classroom."
+faq_4_q: "How can I tell whether my child really needs a tutor?"
+faq_4_a: "There are usually a few signs. Grades slipping despite the effort. Confidence dropping. Hours of revision that never seem to reach the results. Or it's simpler than that: maybe your child is itching to move faster than the class can. Either way, a free call is a good place to talk it through."
+why_heading: "Why Birmingham families choose our tutoring"
+why_para_1: "Most children who start with us aren't miles behind. The more common story is a child who's kept up well enough in class but can't turn it into exam marks. Sometimes they know the content and have never really been shown how to tackle a timed paper. Just as often, there's a gap from Year 8 that nobody went back to, because the class kept moving and there was no reason to stop."
+why_para_2: "The tutor starts with what your child actually knows, not what they're supposed to know by now. That sounds like a small difference. It isn't. Within a few lessons, most children feel more in control of the subject. The worry eases first, and the grades tend to follow. Birmingham parents often tell us the first change they noticed was in how their child talked about school, before any result came back."
+accordion_quality: "We check every tutor on how clearly they explain things, not just on their grades and degree. If your child is aiming for a King Edward VI school, a competitive sixth form or university, their tutor will know the standard and how to get them ready for it."
+accordion_experience: "Tutors on our platform have helped Birmingham children with the 11+, GCSEs and A-Levels. They know the exam boards and the pressure points in the city's schools. And they'll build your child's marks up steadily rather than piling on content."
+accordion_personalised: "Before any plan is made, the tutor finds out what your child already knows. If they're aiming for a grammar school or a competitive sixth form, getting that right matters. Gaps get traced back to where they started, not where school last noticed them."
 reviews:
   - Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone
     above and beyond to pair both my sons with the appropriate tutors, all of
