@@ -1,41 +1,41 @@
 ---
 title: "Maidstone A-Level Tuition | From £37/hr | The Degree Gap"
-description: "Maidstone A-Level tutors for the topic that got explained once and needed twice. One-to-one online tutoring over Lessonspace for Year 12 and 13, from £37 an hour."
+description: "Maidstone A-Level tutors for the topic your child needed explained twice. One-to-one lessons online for Year 12 and 13, from £37 an hour, with no contract."
 layout: "subject"
 location: "Maidstone"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level tutors who give Maidstone students the second explanation a class moves past"
+hero_heading_line1: "Online Maidstone A-Level Tutors for the Topic Your Child Needed Explained Twice"
 hero_heading_line2: ""
-hero_lead: "By Year 12 each topic gets explained once and the class moves on, and a student who needed to hear it twice starts pretending they didn't. Our Maidstone A-Level tutors give the second explanation, and a third if that's the one that lands."
+hero_lead: "In Year 12 a topic gets explained once and the class moves on. If your child needed to hear it twice, they'll often just pretend they didn't. Our Maidstone A-Level tutors give the second explanation, and a third if that's the one that lands."
 
 grade_from: "C"
 grade_to: "A"
-grade_stat: "A real A-Level move from C grades to A grades, with university choices worked through along the way."
+grade_stat: "Cs to As for one parent's child, plus help choosing universities and getting the applications in."
 
 first_lesson_eyebrow: "EXPLAINED ONCE, NEEDED TWICE"
 first_lesson_heading: "What a Maidstone A-Level Tutor Explains a Second Time"
-first_lesson_context: "The line we hear most from Maidstone parents in Year 12 is that their child was fine at GCSE and has gone quiet about sixth form. Usually a topic got explained once in the autumn, didn't quite land, and everything since has been built on top of it. An A-Level tutor's first hour finds that topic, which is rarely the one the student names."
+first_lesson_context: "What we hear most from parents of Maidstone Year 12s is that their child was fine at GCSE and has gone quiet about sixth form. Usually one topic was explained once in the autumn, didn't quite land, and everything since has been stacked on top of it. An A-Level tutor's first hour goes looking for it, and it's rarely the one your child names."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Cs to As at A-Level"
 
 tutor_strip_heading: "Maidstone A-Level tutors who teach the topic the class moved past"
-tutor_strip_body: "The grammar sixth forms, the school sixth forms and MidKent College don't all teach the same board or the same module order, so we confirm the specification before we suggest anyone. Many tutors sat these papers themselves a few years ago. Browse the profiles, or let us match your child."
+tutor_strip_body: "Maidstone's grammar and school sixth forms, and MidKent College, don't all use the same exam board or module order. So we check your child's course before suggesting anyone, and many tutors sat these papers only a few years ago. Have a browse, or ask us to choose."
 
 pathways_heading: "What Maidstone A-Levels Open Up at Eighteen"
-pathways_lead: "A good tutor keeps all three of these in view from the first session, because each one reads the grades differently."
+pathways_lead: "A good tutor keeps all three in mind from the first lesson, because each one weighs your child's grades a bit differently."
 pathways:
   - title: "Universities"
     body: >
-      The University of Kent and Canterbury Christ Church are under an hour away, the University of Greenwich's Medway campus is closer still, and the London universities sit at the end of the line from Maidstone East. Offers rest on predicted grades written in Year 12 and early Year 13, months before any paper is sat.
+      The University of Kent and Canterbury Christ Church are under an hour away, Greenwich's Medway campus is closer still, and the London universities are at the end of the line from Maidstone East. Offers rest on the predicted grades teachers write early in Year 13, months before your child sits a single paper.
   - title: "Degree Apprenticeships"
     body: >
-      Kent County Council, the Maidstone and Tunbridge Wells NHS Trust and the Gallagher Group all run apprenticeship schemes that recruit at eighteen, with the degree-level routes asking for A-Level grades and a written application. Each publishes its own requirements, revised between intakes, and the windows often close before the UCAS one does.
+      Kent County Council, the Maidstone and Tunbridge Wells NHS Trust and the Gallagher Group all run apprenticeship schemes that take on eighteen-year-olds, and the degree-level ones want A-Level grades plus a written application. Each sets its own requirements, which can change between intakes, and the deadlines often come before the UCAS one.
   - title: "Career Pathways"
     body: >
-      Kent Police's headquarters on Sutton Road, Kent County Council at County Hall and Maidstone Hospital are the town's big employers at eighteen, with the London firms an hour up the line from Maidstone East. Most graduate and school-leaver schemes screen on A-Level grades first and interview second.
+      Kent Police's headquarters on Sutton Road, Kent County Council at County Hall and Maidstone Hospital are the town's big employers at eighteen, and the London firms are an hour up the line from Maidstone East. Most school-leaver and graduate schemes look at A-Level grades first and interview second.
 
 reviews:
   - "Cat|Parent of A-Level Student|My 18 year old son had A-level Economics tutoring with Harry.  He was excellent, knew exactly what he needed to learn and was able to explain in terms which made it simple to understand.  The online platform was convenient and easy to use."
@@ -52,13 +52,13 @@ reviews:
   - "Nick|Parent of A-Level Student|Sandra Sabu has been tutoring our son for Psychology A Level. Sandra has provided a solid base of tutoring outside of school lessons and helped him to improve his latest grades."
 
 faq_1_q: "Strong GCSEs, and now Year 12 isn't working. Is that normal?"
-faq_1_a: "Very, and it isn't a sign the GCSE grades were wrong. GCSE rewards recognising a question type and running the method for it. A-Level questions stop announcing which method they want, and a student who was carried by pattern-matching suddenly has nothing to match. The content is also taught once, quickly, in a room where everyone else seems to have it. The fix is not more effort. It's going back to the autumn topics the current work depends on and rebuilding them properly, which is faster than it sounds because the student has met them before."
+faq_1_a: "Yes, very, and it doesn't mean the GCSE grades were wrong. GCSE rewards spotting a question type and running the method that goes with it. At A-Level the questions stop saying which method they want, so a teenager who got by on spotting patterns suddenly has nothing to spot. And the content's taught once, quickly, in a room where everyone else seems to get it. More effort won't fix that. Going back to the autumn topics the current work depends on will, and it's quicker than it sounds, because your child has met them before."
 faq_2_q: "When does the predicted grade get written, and can tutoring still change it?"
-faq_2_a: "Most sixth forms write UCAS predictions in the first term of Year 13, using the end-of-Year-12 exams and the first weeks of the new year, so the number is set long before June. A tutor changes it by changing the evidence: a stronger summer paper in Year 12, better marked work in the autumn, a teacher who sees a different student in class. Year 12 gives the most room. An autumn start in Year 13 still helps, because a first mock that comes back a grade higher is often the last thing a teacher looks at before deciding."
-faq_3_q: "Can a tutor help with a Kent County Council or NHS degree apprenticeship application?"
-faq_3_a: "Yes, on both halves. The grades come first: Kent County Council, the Maidstone and Tunbridge Wells NHS Trust and the other big local employers each publish entry requirements for their apprenticeship routes, with the degree-level ones asking for A-Level grades, and the tutoring works towards those in the usual way. The second half is the written application and the assessment stage, which A-Level study doesn't prepare anyone for. Harry and Joe have taken students through both. The consultation call is the place to say which schemes are in view, because their deadlines sit earlier than UCAS and the plan has to run to them."
-faq_4_q: "Do the online sessions work for A-Level essay subjects as well as Maths?"
-faq_4_a: "Yes, and for essays they're arguably better. Sessions run on Lessonspace, our shared whiteboard, where a History or English essay can be pasted in, marked line by line while the student watches, and rewritten together on the same screen. In Maths the working goes up step by step, so the tutor can see the exact line where a method went wrong. Every session is recorded, so a Year 13 revising in April can watch the October explanation again. And there's no drive across Maidstone on a school night, which is most of why the weekly hour keeps happening for two years."
+faq_2_a: "Most sixth forms write UCAS predictions in the first term of Year 13. They use the end-of-Year-12 exams and the first few weeks back, so the number's set long before June. Tutoring can't touch the prediction itself, but it can change what the teacher bases it on: a stronger summer paper in Year 12, better marked work in the autumn, and how your child comes across in class. Year 12 gives the most room. An autumn start in Year 13 can still help, though. Where a school runs an early mock before predictions go in, a result that comes back a grade higher is often the last thing the teacher sees before deciding."
+faq_3_q: "Can you help if my child's applying for a Kent County Council or NHS apprenticeship?"
+faq_3_a: "Yes, with both halves of it. First the grades. Kent County Council, the Maidstone and Tunbridge Wells NHS Trust and the other big local employers each publish entry requirements. The degree-level routes ask for A-Level grades, so the tutor works towards those. Then there's the written application and the assessment stage, which A-Level study doesn't prepare anyone for. Harry and Joe, our co-founders, have helped families through both. Tell us on the call which schemes your child's looking at, because their deadlines often come earlier than UCAS and the plan needs to fit them."
+faq_4_q: "Does online tutoring work for essay subjects, or just Maths?"
+faq_4_a: "It works for both, and for essays it's arguably better. Lessons happen on the platform Lessonspace, a shared online whiteboard. Your child can paste in a History or English essay, watch the tutor mark it line by line, then rewrite it together on the same screen. In Maths the working goes up one step at a time, so the tutor sees the exact line where a method went wrong. Every lesson's recorded too, so in April your child can rewatch the explanation from October. And there's no drive across Maidstone on a school night, which is a big part of why the weekly hour keeps happening for two years."
 
 sitemap:
   priority: 0.7

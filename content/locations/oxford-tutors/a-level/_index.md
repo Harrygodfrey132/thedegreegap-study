@@ -1,41 +1,41 @@
 ---
 title: "Oxford A-Level Tutors | Expert Tutors | The Degree Gap"
-description: "Oxford A-Level tutoring for Year 12 and 13 students in a university city, matched on subject and exam board, lifting predicted grades before UCAS offers are set."
+description: "Oxford A-Level tutors for when Year 12 feels harder than it should and the predicted grade starts to slip. Online, one-to-one, from £37 an hour, no contract."
 layout: "subject"
 location: "Oxford"
 level: "A-Level"
 
-hero_heading_line1: "Online Oxford A-Level Tutors For the Year 12 When Old Study Habits Break"
+hero_heading_line1: "Online Oxford A-Level Tutors for When Your Child's GCSE Study Habits Stop Working"
 hero_heading_line2: ""
-hero_lead: "Living in a university city sets a certain expectation, and by Year 12 a lot of Oxford students feel it as pressure rather than fuel. Our Oxford A-Level tutors work out where the marks are actually leaking and steady the grade before predictions reach UCAS."
+hero_lead: "Grow up in a university city and there's an expectation in the air, and by Year 12 a lot of Oxford teenagers feel it as pressure. Our Oxford A-Level tutors find where your child's marks are slipping and steady the grade before the school sends predictions to UCAS."
 
 grade_from: "C"
 grade_to: "A"
-grade_stat: "A real A-Level jump from a student we worked with, from C grades to A grades across their subjects."
+grade_stat: "One parent told us their child went from Cs to As, with help on university choices along the way."
 
-first_lesson_eyebrow: "IN THE SHADOW OF THE SPIRES"
-first_lesson_heading: "How an Oxford A-Level Tutor Rebuilds the Way a Student Works"
-first_lesson_context: "In a first session with an Oxford Year 12, the issue is rarely the content, it's method: notes that pile up but don't connect, essays that describe when the marks are in the argument. An A-Level tutor marks the recent work against the real scheme and rebuilds how the student studies, not just what they know."
+first_lesson_eyebrow: "WHAT WE SEE IN AN OXFORD YEAR 12"
+first_lesson_heading: "How an Oxford A-Level Tutor Rebuilds the Way Your Child Studies"
+first_lesson_context: "When we first meet an Oxford Year 12, the content's usually fine. It's the method that's slipped: pages of notes that don't join up, and essays that describe when the marks are in the argument. So an A-Level tutor marks a recent essay or test the way the exam board would, and changes how your child studies as well as what they know."
 first_lesson_quote: "The Degree Gap helped my child go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and applications."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "C grades to A grades in A-Level"
 
 tutor_strip_heading: "Oxford A-Level tutors who've come through the Russell Group themselves"
-tutor_strip_body: "Most of our Oxford A-Level tutors are recent Russell Group graduates, some from Oxford itself, who've taught the specs the city's sixth forms use. They mark work the way an examiner would, so a student sees where the marks went. Matched by exam board, not just subject. Browse profiles, or let us match your child."
+tutor_strip_body: "Our tutors are Russell Group graduates, some from Oxford itself, and they know the exam boards the city's sixth forms use. They mark your child's work the way an examiner would, so you can both see where the marks went. Look through the profiles, or we'll shortlist a few."
 
-pathways_heading: "The Post-18 Step From Oxford's Sixth Forms"
-pathways_lead: "Oxford A-Level students head off in three broad directions once UCAS clears."
+pathways_heading: "What Comes Next for Oxford's Year 13s"
+pathways_lead: "Most Oxford sixth formers end up going one of three ways after results day."
 pathways:
   - title: "Universities"
     body: >
-      The city's sixth forms send leavers to the Russell Group and beyond, with the University of Oxford and Oxford Brookes both on the doorstep and Bristol, Bath and UCL common targets. The most competitive courses set their own grade conditions, which is where the predicted grade counts.
+      Oxford sixth formers apply all over the Russell Group and beyond it, with the University of Oxford and Oxford Brookes right here, and Bristol, Bath and UCL coming up a lot. The most sought-after courses each name their own grade conditions, and that's the point where your child's predicted grade matters.
   - title: "Degree Apprenticeships"
     body: >
-      BMW Group's MINI plant at Cowley runs degree apprenticeships in engineering and manufacturing, and the UK Atomic Energy Authority at Culham takes apprentices into fusion research and advanced engineering, with Oxford University Hospitals hiring across clinical and technical routes. Each publishes its own entry requirements.
+      BMW Group's MINI plant at Cowley runs degree apprenticeships in engineering and manufacturing, and the UK Atomic Energy Authority at Culham takes apprentices into fusion research and advanced engineering. Oxford University Hospitals recruits across clinical and technical routes too, and each one sets out the grades it wants.
   - title: "Career Pathways"
     body: >
-      Some Oxford leavers step straight into roles at the university and its colleges, the John Radcliffe or the science and tech firms around Milton Park and Harwell. Foundation years and gap years pointed at a stronger reapplication are common too, especially for Medicine.
+      Some head straight into work at the university and its colleges, at the John Radcliffe, or with the science and tech firms around Milton Park and Harwell. Others take a gap year and reapply with a stronger application, or start on a course with a foundation year, and both come up most with Medicine.
 
 reviews:
   - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
@@ -54,14 +54,14 @@ reviews:
   - "Tommy|University Student|I wish I had found The Degree Gap when I was sitting my school exams. They helped with my dissertation work and without their help I am not sure I would have graduated so successfully and landed a successful job."
   - "Alex|University Student|Can’t recommend The Degree Gap highly enough. Quick and helpful responses from Harry. He immediately matched me with a very competent tutor, who was a massive help in helping me exceed my target grade and achieve a first class degree at university."
 
-faq_1_q: "Can an Oxford A-Level tutor help with an Oxford or other Oxbridge application?"
-faq_1_a: "Yes. Tutors cover subject interviews, admissions-test prep and the A*-grade work the top offers turn on, and it usually starts in late Year 12 once subjects are settled. That leaves time for mock interviews before the UCAS deadline. The subject grades come first though, because no amount of interview polish rescues a shaky predicted grade."
-faq_2_q: "Can a tutor help with a degree apprenticeship at BMW MINI or UKAEA Culham instead of university?"
-faq_2_a: "Yes. Those schemes screen on predicted grades and on how the application reads. So tutors work on the subject grades the route needs, especially in Maths and the Sciences, and help sharpen the written side. Most start in Year 12 so the evidence is in place before the window, and it sits alongside a UCAS plan since plenty of students apply to both."
+faq_1_q: "Could a tutor help my child apply to Oxford or Cambridge?"
+faq_1_a: "Yes. Tutors help with subject interviews, admissions-test preparation and the A* work the top offers ask for. It usually starts in late Year 12, once your child's settled on a subject, which leaves time to practise interviews properly before any invitation arrives. But the A-Level grades come first. A polished interview won't rescue a shaky predicted grade."
+faq_2_q: "What if my son's thinking about an apprenticeship at the MINI plant or Culham instead of university?"
+faq_2_a: "We can help with that too. Schemes like these weigh up predicted grades and the written application. So your son's tutor would focus on the subjects the route cares about, often Maths and the Sciences, and help with the writing as well. Starting in Year 12 gives time to get the grades in shape before applications open. Plenty of young people apply to both, so it can run alongside a UCAS plan."
 faq_3_q: "He aced GCSE without trying and now the A-Level grades have dropped. What changes with a tutor?"
-faq_3_a: "The step up is real: A-Level rewards depth and independent study that GCSE never asked for. A tutor names exactly what changed, then rebuilds the method around it, from note-taking to timed practice. Most students find the grade follows once the way they work catches up with the demand."
-faq_4_q: "What does A-Level tutoring in Oxford cost?"
-faq_4_a: "From £37 an hour. A recent Russell Group graduate teaching their own subject sits at the entry rate, and a senior tutor or qualified examiner sits higher. We agree the rate with you before any session, and there are no contracts."
+faq_3_a: "Quite a lot, because the step up is real. A-Level wants depth and independent study that GCSE never asked of your son. The tutor pins down what's changed, then rebuilds how he works around it, from the way he takes notes to timed practice. Once the way he works catches up, the grade usually follows."
+faq_4_q: "How much is an A-Level tutor in Oxford?"
+faq_4_a: "From £37 an hour. That's the rate for a recent graduate teaching the subject they studied, and senior tutors and qualified examiners charge more. You'll know the price before anything's booked, and you won't sign a contract."
 
 sitemap:
   priority: 0.7

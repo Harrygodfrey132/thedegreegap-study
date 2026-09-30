@@ -1,41 +1,41 @@
 ---
 title: "A-Level Tutors in Tunbridge Wells | The Degree Gap"
-description: "Tunbridge Wells A-Level tutoring for Year 12 and 13, matched on subject and exam board, lifting predicted grades before the mocks that set UCAS offers."
+description: "Tunbridge Wells A-Level tutors for the bright child who's never needed to revise. One-to-one online lessons that build a way of studying. From £37, no contract."
 layout: "subject"
 location: "Tunbridge Wells"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors in Tunbridge Wells For Students Meeting Their First Real Wall"
+hero_heading_line1: "Online Tunbridge Wells A-Level Tutors for Bright Children Who've Never Had to Revise"
 hero_heading_line2: ""
-hero_lead: "For a lot of Tunbridge Wells students, A-Level is the first time hard work alone stops being enough, and the Year 12 grades show it. Our Tunbridge Wells A-Level tutors find where the subject changed shape and rebuild the study around it, well before UCAS predictions go in."
+hero_lead: "It can come as a shock. For plenty of Tunbridge Wells teenagers, A-Level is the first time being bright isn't enough by itself, and Year 12 shows it. Our Tunbridge Wells A-Level tutors help your child build a way of studying that works, before predictions go to UCAS."
 
 grade_from: "C"
 grade_to: "A"
-grade_stat: "A real A-Level result from a student we worked with, close to two grades up on the Year 13 mock."
+grade_stat: "Taken from a parent's review on this page: their son beat his Year 13 mock by nearly two grades."
 
-first_lesson_eyebrow: "A SELECTIVE-TOWN YEAR 12 STORY"
-first_lesson_heading: "Where a Tunbridge Wells A-Level Tutor Starts With a Coasting Student"
-first_lesson_context: "The students we see most in Tunbridge Wells aren't the ones who've fallen apart, they're the ones who breezed through GCSE and hit Year 12 baffled that the old approach stopped working. An A-Level tutor reads the recent work, marks it against the real scheme, and shows exactly where describing needs to become evaluating."
+first_lesson_eyebrow: "YEAR 12 IN TUNBRIDGE WELLS"
+first_lesson_heading: "How a Tunbridge Wells A-Level Tutor Teaches Your Child to Study"
+first_lesson_context: "The Tunbridge Wells parents we hear from most aren't dealing with a child who's fallen apart. Their son or daughter breezed through GCSE and can't see why the old approach has stopped working. So the A-Level tutor looks at how your child actually revises, then marks a recent essay against the real mark scheme and shows where describing needs to become evaluating."
 first_lesson_quote: "My son gained almost two grades higher than his year 13 mock paper. His tutor was excellent."
 first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "A-Level"
 
-tutor_strip_heading: "Tunbridge Wells A-Level tutors who know the Kent and London offers ahead"
-tutor_strip_body: "Most of our Tunbridge Wells A-Level tutors are recent Russell Group graduates who've been through the same specs the grammars and Bennett Memorial teach. They mark essays the way an examiner would, so a student sees where each mark went. Matched on exam board first, then on the student. Browse profiles, or let us match your child."
+tutor_strip_heading: "Tunbridge Wells A-Level tutors who teach the study habits GCSE never needed"
+tutor_strip_body: "Most are recent Russell Group graduates who've studied the same courses the grammars and Bennett Memorial teach. They mark every essay line by line, so your child can see exactly where each mark went. Browse the tutors, or let us pick two or three for you."
 
 pathways_heading: "Where Tunbridge Wells A-Levels Point After Results Day"
-pathways_lead: "Three routes take in most Tunbridge Wells A-Level leavers after results day."
+pathways_lead: "What's on offer from Tunbridge Wells, and what each route asks for."
 pathways:
   - title: "Universities"
     body: >
-      The grammar sixth forms send a steady share of leavers to the Russell Group and Oxbridge, with the fast line to London making UCL, King's College London and the LSE common targets alongside the University of Kent. The most competitive courses set their own grade conditions.
+      Plenty of families here have their eye on the Russell Group or Oxbridge, and the fast line to London puts UCL, King's College London and the LSE in easy reach, alongside the University of Kent. The most competitive courses set their own grade conditions, so it pays to know them early.
   - title: "Degree Apprenticeships"
     body: >
-      AXA's Royal Tunbridge Wells base runs schemes in insurance, data and business, and employers across the London commuter belt offer degree apprenticeships in finance and tech, several delivered through the University of Kent. Each publishes its own entry requirements across the routes.
+      AXA's Royal Tunbridge Wells base runs schemes in insurance, data and business, and employers across the London commuter belt offer degree apprenticeships in finance and tech, some delivered through the University of Kent. Each one publishes its own entry requirements.
   - title: "Career Pathways"
     body: >
-      Some Tunbridge Wells leavers step straight into roles at AXA, the Kent NHS trusts or the professional-services firms that fill the commuter towns. Gap years and foundation years pointed at a stronger reapplication are common too, especially for Medicine and Law.
+      Some school leavers go straight into jobs at AXA, the Kent NHS trusts or the professional-services firms around the commuter towns. Others take a gap year or a foundation year and reapply with a stronger hand, which is common for Medicine and Law.
 
 reviews:
   - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than his year 13 mock paper. His tutor was excellent."
@@ -55,13 +55,13 @@ reviews:
   - "Alex|University Student|Can’t recommend The Degree Gap highly enough. Quick and helpful responses from Harry. He immediately matched me with a very competent tutor, who was a massive help in helping me exceed my target grade and achieve a first class degree at university."
 
 faq_1_q: "My daughter's never had to revise and now Year 12 has caught up with her. What does a tutor actually do?"
-faq_1_a: "This is the most common story we hear from selective-school families. The tutor doesn't just add content, they rebuild how the student works: how to plan an essay, how to revise actively, how to sit a timed paper. Once the method is in place the grades tend to follow, because the ability was never the issue."
-faq_2_q: "Can a Tunbridge Wells A-Level tutor help with an AXA degree apprenticeship application?"
-faq_2_a: "Yes. Those schemes screen on predicted grades and on the strength of the application. So tutors work on the subject grades the route needs and help the student sharpen the written side. Most start in Year 12, so the evidence is ready before the window opens, and it runs alongside a UCAS plan since many students apply to both."
-faq_3_q: "Her predicted grade is a band below her Kent or London offer. How does a tutor close that?"
-faq_3_a: "By finding the exact question types costing marks and drilling them weekly against real papers. The tutor marks the way the exam board marks, so the mock evidence a school uses for predictions has somewhere to move. Most families see a shift within six to eight weeks of steady sessions."
-faq_4_q: "What does A-Level tutoring in Tunbridge Wells cost?"
-faq_4_a: "From £37 an hour. A recent Russell Group graduate teaching their own subject sits at the entry rate, while a senior tutor or qualified examiner sits higher. We agree the rate with you before any session, with no contracts."
+faq_1_a: "The tutor teaches her how to work, rather than piling on more content. That means planning an essay before she writes it, testing herself instead of rereading notes, and sitting a paper against the clock. It's a very common story, and a fixable one. Once she has a method the grades usually follow, because her ability was never the problem."
+faq_2_q: "Could a tutor help my son apply for a degree apprenticeship at AXA?"
+faq_2_a: "Yes. Schemes like that look at predicted grades and at how strong the written application is, so the tutor works on the grades the route asks for and helps your son sharpen the writing. It's best to start in Year 12, so the evidence is there before applications open. It can run alongside UCAS too, since lots of applicants try both."
+faq_3_q: "Her prediction is a grade below her Kent or London offer. How does a tutor close that?"
+faq_3_a: "By finding the kinds of question that cost her the most marks, and practising them every week on real past papers. The tutor marks her work the way the exam board would, so her mocks give the school better evidence to go on. Families often see a shift after six to eight weeks of lessons."
+faq_4_q: "How much should we expect to pay?"
+faq_4_a: "It starts at £37 an hour for a recent Russell Group graduate teaching the subject they studied. Senior tutors and qualified examiners charge more. Either way, we'll agree the rate with you before a lesson's booked, and there's no contract to sign."
 
 sitemap:
   priority: 0.7

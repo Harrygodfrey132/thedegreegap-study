@@ -1,41 +1,41 @@
 ---
 title: "York A-Level Tutors | One-to-One Support | The Degree Gap"
-description: "York A-Level tutors who lift predicted grades before UCAS. One-to-one A-Level tutoring for York students, matched on specification, from £37 an hour."
+description: "York A-Level tutoring that starts before the predicted grade is set. One-to-one online lessons for your child, matched on exam board, from £37 an hour."
 layout: "subject"
 location: "York"
 level: "A-Level"
 
-hero_heading_line1: "Online York A-Level Tutors For the Year 13 Mock That Sets the UCAS Prediction"
+hero_heading_line1: "Online York A-Level Tutors Who Start Before the Predicted Grade Is Set"
 hero_heading_line2: ""
-hero_lead: "The January mock in Year 13 does more work than any other paper a student sits, because the prediction that goes to UCAS comes out of it. Our York A-Level tutors aim at that date rather than at the summer."
+hero_lead: "It catches a lot of parents out: the predicted grades on your child's UCAS form usually come from Year 12, long before the real exams. Our York A-Level tutors aim at those Year 12 papers, not just the final summer."
 
 grade_from: "C"
 grade_to: "A"
-grade_stat: "A real A-Level jump of almost two grades on a Year 13 mock paper, quoted from the parent who saw it."
+grade_stat: "Almost two grades higher than his Year 13 mock, as one parent put it in their review."
 
 first_lesson_eyebrow: "TWO GRADES ON A YEAR 13 MOCK"
 first_lesson_heading: "Where a York A-Level Tutor Starts in Year 12"
-first_lesson_context: "Most York families call in Year 13, and the honest answer is that Year 12 was the better moment. Not because Year 13 is hopeless. Because a prediction is built out of a whole year of evidence, and there is more of that year left in September than in February."
+first_lesson_context: "Lots of York families first get in touch in Year 13, when Year 12 would have been the easier moment. Not because Year 13 is hopeless. It's because the prediction usually rests on your child's Year 12 work, and by September of Year 13 most of that is already done."
 first_lesson_quote: "My son gained almost two grades higher than his year 13 mock paper. His tutor was excellent."
 first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Almost two grades above the Year 13 mock"
 
-tutor_strip_heading: "York A-Level tutors who have marked the papers your child sits"
-tutor_strip_body: "Most tutors covering York are Russell Group graduates and many are qualified examiners. And at A-Level that matters, because the distance between a good answer and a top one is nearly always technique rather than content. Browse the profiles, or ask us to match you."
+tutor_strip_heading: "York A-Level tutors who mark your child's work the way examiners do"
+tutor_strip_body: "Some of the tutors we'd suggest in York are qualified examiners, and all are Russell Group graduates. And at A-Level that counts, because the gap between a good answer and a top one is usually technique, not content. Have a browse, or ask us to match you."
 
-pathways_heading: "Where York A-Level Students Go Next"
-pathways_lead: "A good tutor keeps these three destinations in view from the first session."
+pathways_heading: "Beyond A-Levels in York: Three Routes to Think About"
+pathways_lead: "It helps to have these in mind from the first lesson, so the subject work is pointing somewhere."
 pathways:
   - title: "Universities"
     body: >
-      The University of York and York St John sit in the city itself, and York students apply heavily into Leeds, Sheffield, Durham and Newcastle. Each course publishes its own entry requirements, and the more competitive ones ask near the top of the A-Level band.
+      The University of York and York St John are right in the city, and plenty of families look at Leeds, Sheffield, Durham and Newcastle too. Each course sets its own entry requirements, and the more competitive ones ask for grades near the top of the A-Level range.
   - title: "Degree Apprenticeships"
     body: >
-      Aviva and Hiscox both run school-leaver and degree apprenticeship routes from their York offices, and Network Rail recruits into engineering from the city. These schemes publish predicted-grade thresholds that vary by programme and close early in Year 13.
+      Aviva and Hiscox both run school-leaver and degree apprenticeship routes from their York offices, and Network Rail takes on engineering recruits in the city. Each scheme sets its own predicted-grade requirements, and some close their applications early in Year 13.
   - title: "Career Pathways"
     body: >
-      Plenty of York students go straight into the NHS at York and Scarborough Teaching Hospitals, or into the tourism and heritage employers the city runs on. A-Level subject choices still decide which of those doors stay open later.
+      Plenty of York school leavers go straight into the NHS at York and Scarborough Teaching Hospitals, or into the tourism and heritage work the city runs on. But your child's A-Level choices still decide which doors stay open later.
 
 reviews:
   - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than his year 13 mock paper. His tutor was excellent."
@@ -55,14 +55,14 @@ reviews:
   - "Alex|University Student|Can’t recommend The Degree Gap highly enough. Quick and helpful responses from Harry. He immediately matched me with a very competent tutor, who was a massive help in helping me exceed my target grade and achieve a first class degree at university."
   - "Lisa|Parent|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
 
-faq_1_q: "His predicted grade is a band under the offer he wants. How does a tutor close that?"
-faq_1_a: "By working on the paper rather than the syllabus. A prediction comes from a teacher reading a body of work, so the way to move it is to change what that work looks like, and quickly. The tutor marks recent scripts against the real mark scheme, finds the question types costing the most, and drills those. On essay subjects that is usually evaluation. On the sciences it is usually the explanation marks rather than the calculation."
+faq_1_q: "His prediction's a grade short of the course he wants. Can a tutor change that?"
+faq_1_a: "It can help, by working on his papers rather than the whole syllabus. Teachers base a prediction on the work they see, so the way to move it is to change what that work looks like, and soon. The tutor marks his recent papers against the real mark scheme, finds the question types costing him most and practises those. In essay subjects that's usually evaluation. In the sciences it's more often the explanation marks than the calculations."
 faq_2_q: "She got a grade 8 in GCSE Maths and is now getting Ds at A-Level. What changed?"
-faq_2_a: "The subject did, and it catches out a lot of strong GCSE students. A-Level Maths asks a student to choose a method rather than recognise one, and the proof work has no real GCSE equivalent. Students who never needed to revise before also arrive without a study habit to fall back on. It reads like a verdict on ability and it is usually just the shape of the new course."
-faq_3_q: "Can an A-Level tutor help with the EPQ alongside three subjects?"
-faq_3_a: "Yes, and it is worth doing properly because it carries UCAS points and gives an interview something to talk about. A tutor helps with the shape of the question, the research behind it and the structure of the write-up. The work itself stays the student's own. We would not take EPQ time out of a subject that is currently below target, though."
-faq_4_q: "What if the tutor is not the right fit for my son?"
-faq_4_a: "Tell us and we re-match, with no awkwardness. Every family speaks with Harry or Joe before a tutor is proposed, so the first match usually lands. But at seventeen, personality matters as much as subject knowledge, and sometimes that only becomes clear after a couple of sessions. Nobody is locked into anything."
+faq_2_a: "The subject did, and it catches out lots of teenagers who found GCSE Maths easy. At A-Level she has to choose a method, not just recognise one, and proof goes a long way past anything she met at GCSE. If she's never needed to revise before, she may not have a study habit to fall back on either. It feels like a verdict on her ability. Usually, it's just what the new course looks like."
+faq_3_q: "Is it worth getting help with the EPQ on top of three A-Levels?"
+faq_3_a: "Yes, if it's done properly, because the Extended Project carries UCAS points and gives your child something to talk about at interview. A tutor can help shape the question and plan the write-up, but the work itself stays your child's own. We wouldn't take EPQ time away from a subject that's below target, though."
+faq_4_q: "Can we change tutors if my son doesn't get on with the first one?"
+faq_4_a: "Yes. Tell us and we'll find someone else, without any awkwardness. You'll speak to Harry or Joe before any tutor is suggested, so the first match usually works. But at seventeen, personality counts as much as subject knowledge, and sometimes that only shows after a couple of lessons. Nobody's locked into anything."
 
 sitemap:
   priority: 0.7
