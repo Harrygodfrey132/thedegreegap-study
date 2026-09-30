@@ -116,7 +116,7 @@ Every entry has:
 
 **Fits:** GCSE Maths
 **Q:** Should my child focus on the calculator or non-calculator paper for GCSE Maths?
-**A skeleton:** Both decide the grade, weighted equally. The non-calculator paper rewards arithmetic fluency and algebraic manipulation; the calculator paper rewards problem-solving and accuracy on multi-step calculations. Most students lose more marks on the non-calculator paper at top of paper, more on Paper 3 calculator at the back. A tutor's diagnostic identifies which paper is bleeding more marks first.
+**A skeleton:** There are three papers and each counts the same: one non-calculator and two calculator, so the calculator papers carry two-thirds of the grade between them (say "all three papers count equally", never "both count equally"). The non-calculator paper rewards arithmetic fluency and algebraic manipulation; the calculator papers reward problem-solving and accuracy on multi-step calculations. Most students lose more marks early on the non-calculator paper, and more at the back of the last calculator paper (Paper 3 on AQA and Edexcel; OCR numbers its papers differently). A tutor's diagnostic identifies which paper is bleeding more marks first.
 
 ### A12 — Foundation vs higher tier (GCSE-only, subject-applicable)
 
