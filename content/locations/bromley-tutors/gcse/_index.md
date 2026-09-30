@@ -1,41 +1,41 @@
 ---
 title: "Bromley GCSE Tutors | One-to-One | The Degree Gap"
-description: "Bromley GCSE tutors for the Year 11 whose own sixth form has printed a grade list. One-to-one online tutoring over Lessonspace, matched on board, from £37/hr."
+description: "Staying on at your child's Bromley sixth form still means meeting its grade list. Our GCSE tutors work one-to-one online on any grade that's short, from £37."
 layout: "subject"
 location: "Bromley"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE tutoring in Bromley for the grades your own sixth form asks for"
+hero_heading_line1: "Online GCSE Tutoring in Bromley for the Grades Your Child's Own Sixth Form Wants"
 hero_heading_line2: ""
-hero_lead: "Most families assume staying on for sixth form is automatic, until the requirements list arrives with subject grades on it. Our Bromley GCSE tutors work one-to-one online over Lessonspace on the two or three subjects where the current grade and the required one are not yet the same number."
+hero_lead: "Lots of parents assume staying on for sixth form is a given. Then the requirements list comes home, with subject grades on it. Our Bromley GCSE tutors focus, online and one-to-one, on the two or three subjects where your child's predicted grade and the required one don't match yet."
 
 grade_from: "5"
 grade_to: "6/7"
-grade_stat: "A GCSE English grade 5 that became a 6/7 across six months of weekly one-to-one sessions, in a parent's own words below."
+grade_stat: "A grade 5 in GCSE English that became a 6/7 after six months with one tutor, in a parent's own words below."
 
 first_lesson_eyebrow: "SIXTH FORM IS AN APPLICATION TOO"
 first_lesson_heading: "How a Bromley GCSE Tutor Works Back From a Requirements List"
-first_lesson_context: "Almost every secondary in Bromley runs its own sixth form, and each one publishes a list that applies to the students already in the building as much as to anyone applying from outside. So the January conversation is rarely about whether to stay on. It's about whether the predicted grades in two or three subjects meet the line the school has printed, and a GCSE tutor can usually name the topic behind each of those grades inside the first hour."
+first_lesson_context: "If your child's staying on at their Bromley secondary for sixth form, its entry list applies to them just as much as to someone from another school. So by January the question usually isn't whether to stay on. It's whether two or three predicted grades reach the school's line, and a GCSE tutor can often spot the topic behind each one in the first lesson."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "GCSE English, grade 5 to 6/7"
 
 tutor_strip_heading: "Bromley GCSE tutors who start from the sixth-form requirements list"
-tutor_strip_body: "Hayes, Langley Park, Ravens Wood and the two grammars publish their own lists, and no two ask for the same thing. We confirm the target and the board first, and each tutor has cleared a founder-led interview around 3% of applicants pass. See the profiles, or ask us to match your child."
+tutor_strip_body: "Hayes, Langley Park, Ravens Wood and the two grammars each publish their own list. We check your child's target and exam board first, and only around 3% of tutors who apply get through our interview. Browse the profiles, or we'll suggest some for your child."
 
 pathways_heading: "The Three Doors Open to Bromley Year 11s"
-pathways_lead: "Three routes, and the one thing each of them reads first."
+pathways_lead: "Three routes, and what each one looks at first when your child applies."
 pathways:
   - title: "Sixth Forms"
     body: >
-      Almost every secondary in the borough runs its own sixth form, from St Olave's and Newstead Wood to Langley Park, Hayes, Ravens Wood, Bullers Wood and Darrick Wood, so the choice at 16 is usually between school sixth forms rather than a college. Each publishes its own requirements and revises them between years, with the most competitive asking well above a pass in the subjects a student wants to carry on, and St Olave's drew well over a thousand applications for its Year 12 places in 2025.
+      Almost every secondary in the borough runs its own sixth form, from St Olave's and Newstead Wood to Langley Park, Hayes, Ravens Wood, Bullers Wood and Darrick Wood, so at 16 most families choose between school sixth forms, not colleges. Each sets its own requirements and can change them year to year, with the most competitive asking well above a pass in the subjects your child wants to continue.
   - title: "Apprenticeships"
     body: >
-      Direct Line Group runs apprenticeships in claims, underwriting, pricing and customer service from its Bromley head office, and generally asks for a pass in GCSE English and Maths. King's College Hospital NHS Foundation Trust funds apprenticeships across its sites, including the Princess Royal University Hospital in Orpington, through its levy, with a Level 3 business administration route split between Denmark Hill and Orpington.
+      Direct Line Group runs apprenticeships in claims, underwriting, pricing and customer service from its Bromley head office, and schemes like these usually ask for a pass (a grade 4) in English and Maths. King's College Hospital NHS Foundation Trust has apprentices across its sites, including a business administration course at A-Level standard split between Denmark Hill and the Princess Royal University Hospital in Orpington.
   - title: "Further Education"
     body: >
-      London South East Colleges runs the Bromley campus, with sister campuses across Bexley and Greenwich, covering T Levels, engineering, hospitality and other technical routes as well as apprenticeships. A T Level puts a student in the classroom four days in five and on a 45-day employer placement for the rest, and most courses gate on GCSE English and Maths rather than on the subject itself.
+      London South East Colleges runs the Bromley campus, with sister campuses in Bexley and Greenwich, for T Levels, engineering, hospitality, other technical courses and apprenticeships. A T Level is mostly classroom time plus at least 45 days on placement with an employer, and for most courses it's the English and Maths grades that count, not a GCSE in the same subject.
 
 reviews:
   - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
@@ -51,14 +51,14 @@ reviews:
   - "Isabel|Parent of iGCSE Student|Harry helped our son enormously with his maths and economics iGCSE prep. He was patient, fun and engaging - just what we needed. Highly recommended."
   - "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
 
-faq_1_q: "Our sixth form has published a Maths grade my daughter is not predicted. What can be done before the summer?"
-faq_1_a: "Quite a lot, provided the work starts now rather than after the next report. A published grade is a narrow target, and narrow targets are what one-to-one tutoring is good at. The first session sits her through a recent paper and sorts the lost marks into method, timing and question-reading, because each needs a different fix. From there a weekly hour works the two or three question types costing most. One grade band in one subject usually moves inside a term. Two subjects need the work to start earlier, ideally before the autumn mocks that feed the prediction."
-faq_2_q: "My son is in Year 10 and seems fine. Why would we start GCSE tutoring now?"
-faq_2_a: "Because fine in Year 10 is where most Year 11 problems are hiding. The content steps up in the spring term, and a topic half-understood in Year 9 starts costing marks quietly, in Maths first and then in the Sciences that lean on it. Started now, that gap is a fortnight's work. Left until the Year 11 mocks, it surfaces together with everything else, and the prediction on the sixth-form form is written before there is time to fix it. Year 10 sessions are calmer too: more method, fewer timed papers."
-faq_3_q: "Bromley schools sit different exam boards. Does the tutor have to match ours?"
-faq_3_a: "Yes, and we confirm it on the first call rather than settling it later. The boards differ in how questions are worded, which formulae are printed and how the practicals are examined, and those differences decide marks near a grade boundary. A tutor who knows the specification is useful from the first ten minutes. One who doesn't spends the opening sessions learning it on your time. Tell us the school and the subject and we will find out the board if you are not sure."
-faq_4_q: "Everything is online, so how does a Maths or Science session actually work on a screen?"
-faq_4_a: "Better than most parents expect. Sessions run one-to-one over Lessonspace, a shared whiteboard where the tutor and your child both write in real time, so a method gets laid out step by step rather than described. Past paper questions go on the board, get worked, marked and corrected, and the whole session is recorded so it can be replayed before a mock. No drive across the borough on a school night, and the tutor is chosen for the exam board rather than the postcode."
+faq_1_q: "Our sixth form wants a Maths grade my daughter isn't predicted. What can we do before the summer?"
+faq_1_a: "Quite a lot, as long as the work starts now rather than after the next report. A published grade is a narrow target, and that's what one-to-one tutoring's good at. In the first lesson the tutor sits her through a recent paper and sorts the lost marks by cause. A gap in method needs a different fix from running out of time or misreading the question. Then a weekly hour goes on the two or three question types costing the most. One grade in one subject can often move within a term, though nobody can promise it. Two subjects need an earlier start, ideally before the autumn mocks that feed her prediction."
+faq_2_q: "My son's in Year 10 and seems fine. Why would we start GCSE tutoring now?"
+faq_2_a: "Because 'fine' in Year 10 is often where Year 11 problems hide. The work steps up, and a topic half-understood in Year 9 starts quietly costing marks, in Maths first and then in the Sciences that lean on it. Caught now, that gap might be a few weeks' work. Left until the Year 11 mocks, it turns up alongside everything else. And the predicted grade for the sixth-form application may be written before there's time to fix it. Year 10 lessons are calmer too: more method, fewer timed papers."
+faq_3_q: "Bromley schools use different exam boards. Does the tutor need to know ours?"
+faq_3_a: "Yes. We confirm it on the first call rather than sorting it out later. The boards word their questions differently and test the practicals in their own ways, and near a grade boundary that's what decides marks. A tutor who already knows your child's board can get going in the first lesson, instead of spending the first few learning it. Tell us the school and the subject, and if you're not sure of the board, we'll find out."
+faq_4_q: "Everything's online. How does a Maths or Science lesson actually work on a screen?"
+faq_4_a: "Better than most parents expect. Lessons run one-to-one on the platform Lessonspace, a shared whiteboard where your child and the tutor both write at the same time. So a method gets laid out step by step, not just talked through. Past paper questions go on the board and get worked, marked and corrected, and there's a replay of every lesson to watch before a mock. There's no drive across the borough on a school night, either, and we can pick the tutor for the exam board, not the postcode."
 
 sitemap:
   priority: 0.7

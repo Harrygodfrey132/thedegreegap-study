@@ -1,50 +1,38 @@
 ---
 title: "Sutton GCSE Tutors | One-to-One | The Degree Gap"
-description: "Sutton GCSE tutors for the Year 11 grades a sixth form reads. One-to-one online tutoring over Lessonspace, matched on the exam board, from £37 an hour."
+description: "A sixth form place can hang on a few grades. Our Sutton GCSE tutors find where your child's losing marks and work on it one-to-one online, from £37 an hour."
 layout: "subject"
 location: "Sutton"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors Working With Sutton Families on the Grades Sixth Forms Rank"
+hero_heading_line1: "Online Sutton GCSE Tutors Who Get a Stalled Grade Moving Before Sixth Form"
 hero_heading_line2: ""
-hero_lead: "By March, mock grades have become the predicted grades a sixth form reads. Our Sutton GCSE tutors work back from whichever paper is losing the marks, one-to-one and online over Lessonspace, so the number on the form is one your child can actually hit."
+hero_lead: "Somewhere in Year 11, mock grades turn into the predicted grades a sixth form reads. Our Sutton GCSE tutors work back from whichever paper's losing your child the marks, so the number on the form is one they can actually hit."
 
 grade_from: "E"
 grade_to: "B"
-grade_stat: "A real GCSE lift from an E to a B, in the words of the student who made it."
+grade_stat: "From an E to a B at GCSE, as Keira tells it herself."
 
 first_lesson_eyebrow: "TWO GATES, FIVE YEARS APART"
-first_lesson_heading: "The Second Gate a Sutton GCSE Tutor Prepares For"
-first_lesson_context: "The same conversation comes up again and again with parents here, usually around Year 10. The school is strong, the effort is there, and the grade has stopped moving anyway. What a first session tends to find is a block from Year 8 or 9 that nobody went back for, sitting under the topic that looks like the problem."
+first_lesson_heading: "The Second Gate a Sutton GCSE Tutor Helps Your Child Through"
+first_lesson_context: "For lots of Sutton families the 11+ was the first gate, and the same worry comes back around Year 10. The school's strong, your child's working, and the grade has stopped moving anyway. A first lesson usually finds a Year 8 or 9 topic that a busy class never had time to revisit, hiding under the one that looks like the problem."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B at GCSE"
 
-tutor_strip_heading: "Sutton GCSE tutors matched to the board the school teaches"
-tutor_strip_body: "Students at Nonsuch, Greenshaw, Wilson's and Cheam High are not all on the same specification, so we confirm it before suggesting anyone. Every session runs one-to-one online over Lessonspace, and each tutor clears a founder-led interview that around 3% of applicants pass. Browse the profiles, or let us match your child."
+tutor_strip_heading: "Sutton GCSE tutors matched to the exam board your child's school uses"
+tutor_strip_body: "Nonsuch, Greenshaw, Wilson's and Cheam High don't all follow the same courses, so the exam board is the first thing we'll check with you. Every tutor's met Harry or Joe in an interview that only about 3% of applicants pass. Scroll through a few, or let us pick."
 
 pathways_heading: "The Second Set of Doors After Sutton GCSEs"
-pathways_lead: "Where Year 11 goes next in the borough, and what each route asks for."
+pathways_lead: "Where your child could go after Year 11 in the borough, and what each route looks for."
 pathways:
   - title: "Sixth Forms"
-    body: >
-      Sutton Grammar School, Nonsuch High School for Girls and Wilson's School all run their own
-      sixth forms and take external students into Year 12, with places decided on results rather
-      than on predictions. Greenshaw, Overton Grange, Cheam High and Glenthorne run sixth forms
-      too, each publishing its own entry criteria and revising them between years.
+    body: "Sutton Grammar School, Nonsuch High School for Girls and Wilson's School all take teenagers from other schools into their sixth forms, and places rest on actual results, not just predictions. Greenshaw, Overton Grange, Cheam High and Glenthorne have sixth forms too, each with its own entry criteria that can change from year to year."
   - title: "Apprenticeships"
-    body: >
-      Opportunity Sutton, the council's economic development arm, runs an apprenticeship hub listing
-      local vacancies, and Epsom and St Helier University Hospitals NHS Trust takes apprentices into
-      estates, imaging and pathology roles. The Royal Marsden recruits apprentices at its Sutton site
-      as well, and Maths and English are named in most of the schemes.
+    body: "Opportunity Sutton, run by the council, has an apprenticeship hub listing local vacancies, and Epsom and St Helier University Hospitals NHS Trust takes apprentices into estates, imaging and pathology. The Royal Marsden takes apprentices at its Sutton site as well, and most of these schemes ask about Maths and English."
   - title: "Further Education"
-    body: >
-      Carshalton College, part of South Thames Colleges Group, has taught in the borough for more
-      than sixty years and runs Level 3 and vocational courses alongside GCSE English and Maths.
-      Sutton College covers the adult side, which matters to anyone picking a core subject back up
-      after results day.
+    body: "Carshalton College, part of South Thames Colleges Group, has been in the borough for over sixty years and runs Level 3 courses (the level after GCSE) and more hands-on ones, plus GCSE English and Maths. Sutton College covers the adult side, for anyone who wants to pick up a core subject again later on."
 
 reviews:
   - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
@@ -61,13 +49,13 @@ reviews:
   - "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
 
 faq_1_q: "Is there any point starting in Year 10, or is Year 11 soon enough?"
-faq_1_a: "Year 10 is the better bet when you have the choice. A gap that opens now is still small, and closing it stops the damage spreading across the next eighteen months. Year 11 works too, and plenty of families start there. Narrower, though. By then the plan is past papers and exam technique rather than teaching a topic properly from the beginning. But the summer between the two years is the slot nobody thinks of, and a short block of hours there does a lot of quiet good."
-faq_2_q: "My child is applying to a sixth form that ranks on results. What can a tutor do about that?"
-faq_2_a: "Work on the two or three subject grades the place actually turns on, and start early enough for them to move. Schools in the borough publish their own criteria and change them between years, so the first job is reading this year's version rather than what an older sibling remembers. From there a tutor marks a recent paper, finds where the marks are going, and builds the term around that. Whether a student is rebuilding a shaky topic or pushing at the top of the band, the method is the same."
-faq_3_q: "Does the tutor follow what school is doing, or run their own plan?"
-faq_3_a: "Both, and the balance shifts through the year. Early on the tutor works to their own plan, because the point is to repair whatever a first paper shows is missing, and school is not going to stop and do that. Later, as mocks and then exams come into view, sessions line up more with the class so nothing gets learned twice. Send in the homework and any marked assessments. They are the fastest way to see what school is asking for."
+faq_1_a: "Year 10's the better bet if you've got the choice. A gap that opens now is still small, and closing it stops it spreading across the next eighteen months. Year 11 works too, and plenty of families start then. Narrower, though. By then the plan is mostly past papers and exam technique, not teaching a topic properly from the start. And there's a slot nobody thinks of: the summer between the two years, where a short run of lessons does a lot of quiet good."
+faq_2_q: "The sixth form my child wants ranks applicants on results. What can a tutor do about that?"
+faq_2_a: "Work on the two or three grades that place actually turns on, and start early enough for them to move. Schools in the borough publish their own criteria and change them between years, so the first job is reading this year's version, not what an older sibling remembers. Then the tutor marks a recent paper, finds where the marks are going, and builds the term around that. It's the same method whether your child's rebuilding a shaky topic or pushing at the top grades."
+faq_3_q: "Will the tutor follow what school's doing, or have their own plan?"
+faq_3_a: "Both, and the balance shifts through the year. Early on, the tutor works to their own plan. The point then is to repair whatever a first paper shows is missing, and a class of thirty can't stop to do that for one child. Later, as the mocks and then the exams get closer, lessons line up more with school so nothing gets learned twice. Do send in homework and any marked tests. They're the quickest way to see what school's asking for."
 faq_4_q: "What does an hour cost, and can we pause when exams are over?"
-faq_4_a: "Sessions start at £37 an hour, with the exact rate depending on the tutor's experience and agreed before anything is booked. That covers the lesson, the preparation, the resources and the notes afterwards. You pay one session at a time. There is no contract, no joining fee and no minimum term, so pausing for a holiday or stopping after the last paper is a message rather than a negotiation."
+faq_4_a: "Lessons start at £37 an hour, with the exact rate depending on the tutor's experience, and you'll know it before any lesson's booked. That covers the lesson in the online classroom Lessonspace, with a replay afterwards, plus the tutor's preparation, resources and notes. You pay one lesson at a time. There's no contract, no joining fee and no minimum term, so pausing for a holiday or stopping after the last exam is just a quick message to us."
 
 sitemap:
   priority: 0.7

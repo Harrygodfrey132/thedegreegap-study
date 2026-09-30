@@ -1,41 +1,41 @@
 ---
 title: "Oxford GCSE Tutors | Built Around Your Child | The Degree Gap"
-description: "One-to-one Oxford GCSE tutoring for a city with no grammars and fierce sixth-form competition, tracing the gap that's costing marks and rebuilding it before mocks."
+description: "No grammars in Oxford, so GCSE grades decide a lot at 16. Our Oxford GCSE tutors find what's costing your child marks and rebuild it before mocks, from £37."
 layout: "subject"
 location: "Oxford"
 level: "GCSE"
 
 hero_heading_line1: "Online Oxford GCSE Tutors For the Year 11 Who's Working Hard but Stuck"
 hero_heading_line2: ""
-hero_lead: "Most Oxford parents come to us after a quiet few weeks: the homework getting shorter, the shrugs getting longer, no clear answer to what's wrong. Our Oxford GCSE tutors take that hour a couple of times a week and find the gap the class was moving too fast to catch."
+hero_lead: "You ask how it's going and get a shrug, and the mock paper in their bag says more than they will. Our Oxford GCSE tutors sit down one-to-one with your child, work out which topics slipped by while the class moved on, and start there."
 
 grade_from: "E"
 grade_to: "B"
-grade_stat: "A real GCSE grade jump from a student we worked with, after a sustained block of weekly one-to-one tutoring."
+grade_stat: "In Keira's own words, tutoring took her grades from an E to a B."
 
 first_lesson_eyebrow: "INSIDE AN OXFORD FIRST SESSION"
 first_lesson_heading: "How an Oxford GCSE Tutor Finds the Real Problem"
-first_lesson_context: "Results across Oxford sit around the national picture, but the spread inside the city is wider than the headline suggests. What that hides is the individual student who looks fine in class and then freezes on a paper, which is exactly where a GCSE tutor starts."
+first_lesson_context: "Something we hear a lot from Oxford parents: fine in class, fine on the homework, then blank on the mock paper. So a GCSE tutor starts with that paper, question by question, to see whether the marks went on the content or on the nerves."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B."
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B in GCSE"
 
-tutor_strip_heading: "Oxford GCSE tutors who know how tight the sixth-form race runs"
-tutor_strip_body: "Oxford has no grammar schools, so a strong GCSE profile is what opens the best sixth-form doors, and our tutors know the specs the city's schools teach, from Cherwell to Cheney. We match on subject and exam board first. Browse profiles, or let us match your child."
+tutor_strip_heading: "Oxford GCSE tutors with the move to sixth form in mind"
+tutor_strip_body: "Oxford has no grammar schools, so GCSE grades count for a lot when sixth-form places are offered. Tutors on our platform know the courses taught across the city, from Cherwell to Cheney. Have a look at the profiles below, or we can suggest a few."
 
-pathways_heading: "The Post-16 Routes Open Across Oxford"
-pathways_lead: "A few of the routes Oxford students take once GCSEs are behind them."
+pathways_heading: "Where Oxford Teenagers Go After GCSEs"
+pathways_lead: "These are the three routes most Oxford families weigh up during Year 11."
 pathways:
   - title: "Sixth Forms"
     body: >
-      The Cherwell School, Cheney School and Oxford Spires Academy all run sixth forms that fill up fast, with Oxford Sixth Form College a private option in the centre. Places at the strongest are competitive, and each sets its own subject grades for A-Level entry.
+      The Cherwell School, Cheney School and Oxford Spires Academy all run their own sixth forms, and Oxford Sixth Form College is a private option in the centre. Places can be competitive, and each one sets its own subject grades for the A-Levels your child wants to take.
   - title: "Apprenticeships"
     body: >
-      BMW Group's MINI plant at Cowley runs long-established engineering and maintenance apprenticeships, and Oxford University Hospitals hires across clinical and technical routes. Most ask for grade 4 to 5 in Maths and English, with the engineering schemes weighting the Sciences.
+      BMW Group's MINI plant at Cowley has long trained engineering and maintenance apprentices, and Oxford University Hospitals takes them on in clinical and technical roles. The usual ask is a 4 or 5 in Maths and English, and the engineering schemes care about Science as well.
   - title: "Further Education"
     body: >
-      City of Oxford College, part of Activate Learning, runs BTECs, T-Levels and GCSE resits, with Abingdon and Witney College nearby. Both are common routes for a vocational Level 3 or a second attempt at English and Maths.
+      City of Oxford College, part of Activate Learning, runs BTECs, T Levels and GCSE resits, and Abingdon and Witney College is nearby. Both suit a child who'd rather take a practical course than A-Levels, or who needs another go at English and Maths.
 
 reviews:
   - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
@@ -54,14 +54,14 @@ reviews:
   - "Lisa|Parent|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
   - "Theresa|Parent|The Degree Gap was fantastic. Their knowledge and guidance helped my son find direction in both his studies and future plans."
 
-faq_1_q: "How does an Oxford GCSE tutor fit around what my child's school is already doing?"
-faq_1_a: "The first session is a diagnostic, so the tutor sees where the actual gap is before touching the school's timetable. From there it's either filling a specific hole from an earlier year or sharpening the current work with past papers marked the exam board's way. It complements school, it doesn't compete with it."
+faq_1_q: "Will a tutor clash with what my child's doing at school?"
+faq_1_a: "No, it works alongside it. In the first lesson the tutor looks at where your child actually is, not where the timetable says they should be. After that it's filling a hole from an earlier year, or practising this term's topics on past papers marked the exam board's way. Your child's teachers stay in charge of the course."
 faq_2_q: "GCSE Maths is the subject that worries us most. What does a tutor actually do?"
-faq_2_a: "Usually the problem isn't the Year 11 topic on the board, it's an earlier method that never settled: algebra, fractions, the timing on the calculator paper. The tutor names it, rebuilds it one-to-one, and drills it until it holds, then brings it back to the current syllabus. Most students stop dreading the subject once it stops feeling like guesswork."
-faq_3_q: "Is Oxford GCSE tutoring online, and does that really work?"
-faq_3_a: "All sessions run through Lessonspace, our shared whiteboard, so your child gets the right subject specialist rather than the nearest one, with no travel on a school night. Most settle into it inside the first lesson, and every session is recorded so they can rewatch anything that didn't land."
-faq_4_q: "What does GCSE tutoring in Oxford cost?"
-faq_4_a: "Sessions start from £37 an hour. The rate depends on the subject and the tutor's experience, and it's always agreed before anything is booked. No hidden fees."
+faq_2_a: "They start by finding what's really holding the rest up, which often isn't this term's topic at all. It might be an older method like algebra or fractions, or simply running out of time on the calculator papers. The tutor explains it again one-to-one, practises it until it sticks, then links it back to what the class is doing now. Once Maths stops feeling like guesswork, a lot of children stop dreading it."
+faq_3_q: "Lessons are all online. Does that actually work for a GCSE?"
+faq_3_a: "Yes. Lessons run on the platform Lessonspace, where your child and the tutor write on the same whiteboard, and every lesson's recorded so your child can watch it again before a test. Because it's online, we can pick the best tutor for the subject rather than whoever lives nearest, and nobody's driving across Oxford on a school night."
+faq_4_q: "How much does a GCSE tutor cost?"
+faq_4_a: "It starts at £37 an hour. The rate depends on the subject and the tutor's experience, and we'll settle it with you before a lesson's booked. No hidden fees and no contract."
 
 sitemap:
   priority: 0.7

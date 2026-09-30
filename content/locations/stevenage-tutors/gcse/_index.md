@@ -1,42 +1,39 @@
 ---
 title: "Stevenage GCSE Tutors | Find the Gap and Rebuild It | The Degree Gap"
-description: "Stevenage GCSE tutoring for Year 10 and Year 11. One-to-one tutors who trace where the understanding actually broke, then rebuild from there. From £37 an hour."
+description: "All that revision and your child's mark hasn't moved? Our Stevenage GCSE tutors find where it first went wrong and rebuild from there. Online, from £37 an hour."
 layout: "subject"
 location: "Stevenage"
 level: "GCSE"
 
-hero_heading_line1: "Online Stevenage GCSE Tutors Who Start Where the Understanding Broke"
+hero_heading_line1: "Online Stevenage GCSE Tutors Who Find Why Hard Revision Isn't Moving the Mark"
 hero_heading_line2: ""
-hero_lead: "When a Stevenage Year 11 is working hard and the grades will not move, the problem is usually older than the topic they are stuck on. Our Stevenage GCSE tutors trace it back to where it actually started, then rebuild forwards. Sometimes that is Year 8. Often it is quicker than families fear."
+hero_lead: "When your child's working hard and the grades won't move, the problem's usually older than the topic they're stuck on. Our Stevenage GCSE tutors trace it back, sometimes as far as Year 8, and rebuild from there. It's often quicker than you'd fear."
 
 grade_from: "4"
 grade_to: "6"
-grade_stat: "The kind of shift a term of weekly one-to-one work is planned to produce once the underlying gap is found."
+grade_stat: "A 4 to a 6 is the climb weekly lessons aim for once the older gap's found. An aim, not a promise."
 
-first_lesson_eyebrow: "INSIDE THE FIRST STEVENAGE SESSION"
-first_lesson_heading: "Why Effort Stops Working, and What a Tutor Does About It"
-first_lesson_context: "There is a version of this that parents in Stevenage describe almost word for word. The report says effort is good. The student says they revised. The mark comes back the same as last time. What is usually happening is that a piece of the foundation went missing a couple of years ago, nobody caught it, and every new topic built on top of it now costs twice what it should. Negative numbers. Fractions. Rearranging a formula. None of it is Year 11 content, and all of it shows up in Year 11 marks. So the first session is diagnostic, and it works backwards rather than forwards."
+first_lesson_eyebrow: "INSIDE A FIRST STEVENAGE LESSON"
+first_lesson_heading: "Why Effort Stops Working, and What a Stevenage GCSE Tutor Does About It"
+first_lesson_context: "Stevenage parents describe it to us almost word for word: the report says the effort's good, your child says they revised, and the mark comes back the same as last time. Usually a piece of the foundation went missing a couple of years ago, like negative numbers, fractions or rearranging a formula, and every new topic built on it now costs twice the effort. So the first lesson works backwards before it goes forwards."
 
 first_lesson_quote: "Very good tutoring for my daughter and good communication with parents. My daughter passed both English and Maths GCSE with grades 4 and 5."
 first_lesson_quote_name: "Chris"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "GCSE"
 
-tutor_strip_heading: "Stevenage GCSE tutors who are patient enough to go back before going forward"
-tutor_strip_body: "Rebuilding a foundation asks something different of a tutor than stretching a strong student does. It needs someone who will go back two years without making a teenager feel stupid about it. That is what most of the interview is spent testing, and roughly three in every hundred applicants make it onto the platform. Browse profiles, or let us match your child."
+tutor_strip_heading: "Stevenage GCSE tutors patient enough to go back a step first"
+tutor_strip_body: "It takes a certain kind of tutor to go back two years with a teenager without making them feel silly. That's most of what we test for in the interview, and around 3% of applicants get through. Browse a few below, or tell us about your child first."
 
-pathways_heading: "Where Stevenage Year 11s Go Next"
-pathways_lead: "Three routes out of Year 11, and what each one asks for."
+pathways_heading: "After Stevenage GCSEs: Where Your Child Could Go Next"
+pathways_lead: "Year 11 opens three doors in Stevenage, and each one checks the grades a little differently."
 pathways:
   - title: "Sixth Forms"
-    body: >
-      Nobel, Marriotts, Barnwell and John Henry Newman run sixth forms locally, with others in the family travelling to Hitchin or Welwyn. Each sets its own entry requirements by subject and revises them between years, so the number that matters is the one on this year's admissions page rather than the one an older sibling needed.
+    body: "Nobel, Marriotts, Barnwell and John Henry Newman all run sixth forms in town, and some families look at Hitchin or Welwyn too. Each sets its own grades subject by subject and can change them from year to year, so check this year's admissions page rather than going on what an older sibling needed."
   - title: "Apprenticeships"
-    body: >
-      Stevenage carries unusual weight for a town its size. GSK's research campus, Airbus Defence and Space and MBDA all sit here, and all run apprenticeship routes into life sciences and engineering. Published minimum grades in Maths and English are the standard gate, with Sciences added for the technical entries.
+    body: "Stevenage punches well above its size here, with GSK's research campus, Airbus Defence and Space and MBDA all in town and all running apprenticeships in science and engineering. Most list minimum grades in Maths and English, and the technical routes want the Sciences as well."
   - title: "Further Education"
-    body: >
-      North Hertfordshire College covers Level 3 vocational routes across engineering, health, construction and digital. GCSE Maths and English resits run alongside, and students who have not reached a grade 4 in either are generally expected to keep studying them as a condition of college funding.
+    body: "North Hertfordshire College runs practical Level 3 courses (the same stage as A-Levels) in engineering, health, construction and digital. If your child hasn't got a grade 4 in Maths or English yet, they'll usually carry on studying it there alongside their course, as a condition of college funding."
 
 reviews:
   - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents. My daughter passed both English and Maths GCSE with grades 4 and 5."
@@ -52,14 +49,14 @@ reviews:
   - "Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE thank you"
   - "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
 
-faq_1_q: "Why is my child struggling with GCSE when they are clearly working hard?"
-faq_1_a: "Because effort applied to the wrong thing does not move a mark. The most common cause we see is a foundation topic that never bedded in, so every new question costs extra thinking and the student runs out of time or confidence before the marks arrive. The second most common is revision that means re-reading, which feels productive and changes very little. A tutor's first job is working out which of the two you have, and that comes from looking at a paper rather than at a report."
-faq_2_q: "Should my child take foundation or higher tier?"
-faq_2_a: "Higher tier caps at grade 9 and floors at 4, sometimes 3. Foundation caps at 5 but the questions are ones a borderline student can actually finish. If your child is sitting around a 4 or 5 in Year 10, this is worth taking seriously rather than defaulting to higher because the class is. A wasted higher paper helps nobody. The honest version of that conversation needs a diagnostic first, which is what a first session gives you."
+faq_1_q: "Why is my child struggling at GCSE when they're clearly working so hard?"
+faq_1_a: "Because effort spent on the wrong thing doesn't move a mark. The most common cause we see is a foundation topic that never quite settled. Every new question then costs extra thinking, and your child runs out of time or confidence before the marks arrive. The second is revision that's mostly re-reading, which feels productive and changes very little. A tutor's first job is working out which of the two it is, and that comes from a paper, not a report."
+faq_2_q: "Higher or foundation tier? How do we know which suits my child?"
+faq_2_a: "It depends where your child is now, and it's worth a proper look rather than a default. In Maths and the Sciences there are two sets of papers, called tiers. Higher goes up to a 9 but can't award below a 4, or sometimes a 3. Foundation tops out at a 5, but the questions are ones a borderline child can actually finish. If your child's around a 4 or 5 in Year 10, don't just follow the class onto higher. A wasted higher paper helps nobody. The first lesson gives you an honest picture to decide with."
 faq_3_q: "Is Year 10 too early, or Year 11 too late?"
-faq_3_a: "Year 10 is the better time for exactly the reason this page is about. A foundation gap found in Year 10 can be rebuilt before Year 11 content stacks on top of it. Found in March of Year 11, the same gap has to be worked around rather than fixed. Year 11 is still worth doing and most of our starts are Year 11, but it changes what is realistic, and we would rather say so on the call than afterwards."
-faq_4_q: "What happens if my child does not get the grades in August?"
-faq_4_a: "There is more room than results day makes it feel. English Language and Maths have a resit series in November, with entries usually through the school or college in early October and results in January. Other subjects wait for the following summer. Ten weeks is enough when the gap is technique and not enough to rebuild a subject from scratch, and we will tell you honestly which one you are looking at rather than selling you the block."
+faq_3_a: "Neither, but Year 10 is the better time, for the reason this whole page is about. A gap found in Year 10 can be rebuilt before Year 11 work piles on top of it. Found in March of Year 11, the same gap has to be worked around rather than fixed. Most of our starts are still in Year 11, and it's well worth doing. It just changes what's realistic, and we'd rather tell you that on the call than afterwards."
+faq_4_q: "What if my child doesn't get the grades they need in August?"
+faq_4_a: "There's more room than results day makes it feel. English Language and Maths have a resit series in November, with entries usually made through the school or college in early October and results in January. Other subjects wait until the next summer. Ten weeks is enough when the gap is exam technique, but not to rebuild a whole subject from scratch. We'll tell you honestly which one you're looking at, rather than just selling you the lessons."
 
 sitemap:
   priority: 0.7
