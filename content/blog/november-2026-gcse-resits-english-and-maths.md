@@ -5,7 +5,7 @@ date: 2026-08-25T10:00:00+01:00
 author: "Harry Godfrey"
 author_role: "Co-founder, The Degree Gap"
 category: "Parent Advice"
-excerpt: "Entries close in early October and the exams are in the first week of November. That gives most families about six weeks to decide something they were never really told they had a choice about."
+excerpt: "Entries close in early October and the exams are in the first week of November. That leaves most families about six weeks to make a call nobody really told them was theirs to make."
 hero_image: "/images/maths-equations-close-up.jpg"
 tags:
   - Parent Advice
@@ -22,11 +22,11 @@ related_links:
     description: "What ten weeks can realistically move, and what it cannot."
 ---
 
-**Entries for the November 2026 GCSE series close around 4 October. The exams run in the first full week of November, and the results come out on 14 January 2027.**
+**Entries for the November 2026 GCSE resits close around 4 October. The exams are in the first full week of November, and results come out on 14 January 2027.**
 
-If your child missed a grade 4 in English Language or Maths last week, someone at their new college will raise this in the first fortnight of term, usually in a corridor, usually briefly. A lot of families come away from that conversation thinking the resit has been decided for them.
+If your child missed a grade 4 in English Language or Maths last week, someone at their new college will bring it up in the first fortnight of term. Usually in a corridor. Usually briefly. Lots of families walk away from that chat thinking the resit has been decided for them.
 
-It mostly has not. There is a real choice here, it has a deadline in early October, and it is worth making deliberately.
+Mostly, it hasn't. There's a real choice here, it has a deadline in early October, and it's worth making on purpose.
 
 ## The dates
 
@@ -37,86 +37,86 @@ It mostly has not. There is a real choice here, it has a deadline in early Octob
 | Maths papers | 4, 6 and 9 November 2026 |
 | Results | **14 January 2027**, 8am for students |
 
-Two things about that table. The 4 October date is the awarding bodies' deadline, and **your child's centre will have set its own cut-off well before it**, often the middle of September, because the exams officer has to collate everything. If you want to be part of this decision, the week your child starts college is the week to ask, not October.
+Two things about that table. The 4 October date is the exam boards' deadline. **Your child's school or college will have set its own cut-off well before it**, often the middle of September, because the exams officer has to pull every entry together first. If you want a say in this, the week your child starts college is the week to ask. Not October.
 
-The paper dates above are AQA's. Edexcel and OCR sit within the same week, but if your child is entered with a different board, ask the exams officer for the actual dates rather than assuming.
+The paper dates above are AQA's. Edexcel and OCR fall in the same week. But if your child is sitting a different board, ask the exams officer for the exact dates rather than guessing.
 
 ## Only two subjects are in this series
 
-The autumn series is **GCSE English Language and Maths only**.
+The autumn resits are **GCSE English Language and Maths only**.
 
-Everything else waits until summer 2027: English Literature, the sciences, history and languages. Parents are caught out by the English distinction more than any other: a child who missed a 4 in Literature cannot resit it in November, and a child who missed a 4 in Language can.
+Everything else waits until summer 2027: English Literature, the sciences, history and languages. The English split catches parents out more than anything. If your child missed a 4 in Literature, they can't resit it in November. If they missed a 4 in Language, they can.
 
 ## What the college is actually required to do
 
-This is the part that gets garbled, so it is worth being precise.
+This is the bit that gets garbled, so it's worth being precise.
 
-Post-16 providers are funded on the condition that students who did not get a grade 4 in English or Maths **keep studying the subject**. It is a condition about teaching, not about exam entry. Nobody is legally required to sit a paper in November.
+Sixth forms and colleges are funded on the condition that students who didn't get a grade 4 in English or Maths **keep studying the subject**. It's a rule about teaching, not about when the exam is sat. Nothing in it says your child has to sit a paper in November.
 
-Broadly, and subject to your college's own policy:
+Broadly, and depending on your college's own policy:
 
 | Grade at 16 | What full-time students study |
 |---|---|
 | Grade 3 | Towards the GCSE itself |
 | Grade 2 or below | GCSE, or an approved Functional Skills level 2 route |
 
-So a grade 3 student is going to be in a GCSE class either way. The only live question is whether they sit the exam in November or wait for the summer, and that question is yours and your child's far more than most parents realise.
+So a child on a grade 3 will be in a GCSE class either way. The only live question is whether they sit the exam in November or wait for the summer. And that's a decision for you and your child far more than most parents realise.
 
-The specifics vary between providers, so ask your college's policy directly rather than working from this table alone.
+The details vary from one college to the next, so ask yours for its policy rather than going on this table alone.
 
 ## November or summer
 
-Here is the honest version of the trade-off, which is not the version anyone gets in the corridor.
+Here's the trade-off, put straight. It isn't the version anyone gets in the corridor.
 
-**November suits a student who was close, and whose problem was technique.** A near miss is exactly what ten weeks of focused work fixes: a few marks, a paper that went wrong on the day, timing that fell apart in the last question. Sitting it in November means it is finished, and it means the whole of Year 12 or the first year of a BTEC is not carrying it.
+**November suits a child who was close, and whose problem was technique.** A near miss is exactly the kind of thing ten weeks of focused work can fix: a few marks, a paper that went wrong on the day, timing that fell apart on the last question. Sitting it in November means it's done. And it means the whole of Year 12, or the first year of a BTEC, isn't carrying it.
 
-**Summer suits a student who needs to rebuild the subject.** If the gap is thirty or forty marks, ten weeks alongside a brand new post-16 course is not enough, and a second failure in January is genuinely demoralising in a way the first one was not. Nothing is lost by waiting. The grade counts the same in June.
+**Summer suits a child who needs to rebuild the subject.** If the gap is thirty or forty marks, ten weeks alongside a brand new college course isn't enough. And missing it a second time in January can knock a teenager far harder than the first time did. Nothing's lost by waiting. A grade earned next summer counts exactly the same.
 
-**The thing to weigh is what else November is competing with.** Your child has just started a new course, in a new building, with new people, and the first assessments of that course land in exactly the same weeks as the resit revision. A student who is thriving can carry both. A student who is struggling to settle usually cannot, and the resit is the thing that should give way, not the new course.
+**The thing to weigh is what else November is up against.** Your child has just started a new course, in a new building, with new people. The first assessments on that course land in the very same weeks as the resit revision. A teenager who's thriving can carry both. One who's struggling to settle usually can't, and then it's the resit that should give way, not the new course.
 
-One more practical point: **both results exist afterwards.** A November attempt that goes badly does not replace or damage the grade from the summer, and the better grade is what colleges and employers use. The cost of trying is time and morale, not the grade itself.
+One more practical point: **both results exist afterwards.** A November attempt that goes badly doesn't replace or damage the grade from the summer, and it's the better grade that colleges and employers use. So the cost of trying is time and morale. Not the grade itself.
 
 ## What actually moves the mark in ten weeks
 
-We do a lot of these between September and November, and the pattern is consistent.
+We do a lot of these between September and November, and the same things come up every autumn.
 
-**Nearly all of it is foundation tier.** The overwhelming majority of November entries are foundation, where the paper tops out at grade 5. That is the right call for almost everyone in this position, and it changes what revision should look like: the target is a 4, the questions that carry the marks are the early and middle ones, and time spent on the hardest content at the end of the paper is time spent in the wrong place.
+**In Maths, nearly all of it is foundation tier.** Maths comes in two levels of paper, and foundation is the more straightforward one, topping out at grade 5. The overwhelming majority of November Maths entries are foundation, and that's the right call for almost everyone in this position. It changes what revision should look like. The target is a 4. The marks that count sit in the early and middle questions, and time spent on the hardest content at the end of the paper is time in the wrong place. (English Language isn't tiered, so everyone sits the same papers.)
 
-**The marks are in the topics they already half-know.** A student two marks short does not need new content. They need the arithmetic they rush, the working they do not show, and the four-mark questions they leave blank because the wording confused them.
+**The marks are in the topics they already half-know.** A child two marks short doesn't need new content. They need to slow down on the arithmetic they rush, show the working they usually skip, and have a go at the four-mark questions they leave blank because the wording threw them.
 
-**Exam technique is the fastest thing to fix and the last thing anyone teaches.** Reading the command word, showing method to bank marks on a wrong answer, leaving nothing blank: a student can gain a grade boundary's worth of marks on that alone.
+**Exam technique is the fastest thing to fix and the last thing anyone teaches.** Reading the command word properly (the word that says what to do, like "calculate" or "explain"). Showing method, so a wrong answer still picks up marks. Leaving nothing blank. That alone can add up to a grade boundary's worth of marks.
 
-**Ten weeks means eight in practice.** Half-term takes a week, and the last week before the exam is consolidation, not new learning. If tutoring is part of the plan, the useful window starts in the middle of September. It does not start in late October.
+**Ten weeks means eight in practice.** Half-term takes a week, and the last week before the exam is for pulling it all together, not new learning. So if tutoring's part of the plan, the useful window starts in the middle of September. Not late October.
 
 ## What we would actually tell you
 
-**Ask the college for the mark, not the grade.** Two marks short and thirty marks short are completely different decisions, and you cannot make this one without knowing which you have.
+**Ask the college for the mark, not the grade.** Two marks short and thirty marks short are completely different decisions, and you can't make this one without knowing which it is.
 
-**Ask about their internal entry deadline in week one.** Not in October. By October it may already have gone.
+**Ask about their internal entry deadline in week one.** Not in October. By then it may already have gone.
 
-**Do not enter for both subjects reflexively.** A student who missed both is a student with limited capacity, and two resits in one week in November is a heavy ask on top of a new course. One clean pass beats two near misses.
+**Don't enter for both subjects on autopilot.** If your child missed both, they've already got a lot on. Two resits in one week in November is a heavy ask on top of a new course. One clean pass beats two near misses.
 
-**If you wait, actually use the time.** The failure mode of the summer route is not the decision, it is the six months of nothing that follows it. Waiting only works if something changes between now and February.
+**If you wait, actually use the time.** What goes wrong with the summer route isn't the decision. It's the six months of nothing that can follow it. Waiting only works if something changes between now and February.
 
 ## Frequently asked questions
 
 **Can my child resit English Literature in November?**
-No. The autumn series covers GCSE English Language and Maths only. Literature waits until summer 2027.
+No. The autumn resits cover GCSE English Language and Maths only, so Literature waits until summer 2027.
 
 **Do they have to sit it in November if the college says so?**
-The funding rules require continued study of the subject, not entry to a particular exam series. Colleges do set their own policies on top of that, and some enter students by default, so ask what your provider's is and say if you disagree with it.
+Not under the funding rules, which only ask that your child keeps studying the subject, not that they sit a particular round of exams. But colleges set their own policies on top of that, and some enter students by default. So ask what your college's policy is, and say so if you disagree with it.
 
 **Does a failed resit make things worse?**
-No. Both results stand and the higher one is the one that gets used. The cost of a poor November is confidence and time, not the existing grade.
+No. Both results stand, and it's the higher one that gets used. A poor November costs confidence and time, not the grade your child already has.
 
 **Foundation or higher tier for the resit?**
-Almost always foundation, where a 5 is the ceiling and a 4 is the realistic target. Higher tier for a resit only makes sense in unusual cases, and the exams officer will advise.
+For Maths, almost always foundation, where a 5 is the ceiling and a 4 is the realistic target. Higher tier for a resit only makes sense in unusual cases, and the exams officer will advise. English Language has no tiers, so there's nothing to choose there.
 
 **When do we actually need to have decided?**
-Before your centre's internal deadline, which is usually several weeks ahead of the 4 October board deadline. Mid-September is the safe assumption.
+Before your child's school or college closes its own entries, which is usually several weeks ahead of the boards' 4 October deadline. Assume mid-September to be safe.
 
 **Is it worth getting a tutor for ten weeks?**
-For a near miss, yes, and it is one of the highest-return things we do. For a student thirty marks short who is also finding their new course hard, we would usually say wait and start properly in the new year.
+For a near miss, yes, and it's one of the best-value things we do. If your child is thirty marks short and also finding their new course hard, we'd usually say wait, and start properly in the new year.
 
 ## Sources
 

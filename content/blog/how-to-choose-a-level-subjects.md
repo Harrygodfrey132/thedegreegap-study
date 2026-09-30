@@ -5,7 +5,7 @@ date: 2026-08-14
 author: "Joe Clark"
 author_role: "Co-founder, The Degree Gap"
 category: "Parent Advice"
-excerpt: "Most families get about a week between GCSE results and enrolment to make a decision that shapes the next five years. Here is what actually constrains the choice, and what turns out not to matter nearly as much as people think."
+excerpt: "Most families get about a week between GCSE results and enrolment to settle a choice that shapes the next five years. Here's what really limits your child's options, and what matters far less than you've probably been told."
 hero_image: "/images/university-lecture-hall.jpg"
 tags:
   - Parent Advice
@@ -23,25 +23,25 @@ related_links:
     description: "Reviews of marking, resit windows and the deadlines that run in days rather than weeks."
 ---
 
-**GCSE results day is Thursday 20 August 2026.** Most sixth forms want subject choices confirmed at enrolment, which for a lot of schools falls within a few days of that.
+**GCSE results day is Thursday 20 August 2026.** Most sixth forms want your child's subject choices confirmed at enrolment, and at a lot of schools that's only a few days later.
 
-So the decision that shapes the next five years gets made in roughly a week, in a kitchen, by a sixteen-year-old who has just had an emotional morning. That is not ideal, and it is how it works nearly everywhere.
+So a decision that shapes the next five years gets made in about a week. At the kitchen table. By a sixteen-year-old who's just had an emotional morning. It isn't ideal, but it's how it works almost everywhere.
 
-The good news is that the choice is more constrained than it looks. Once you strip out the myths, there are only three or four questions that genuinely matter.
+The good news is that there's less to decide than it looks. Once you strip out the myths, only three or four questions really matter for your child.
 
 ## The list you have probably been told about no longer exists
 
-For years the standard advice was to pick "facilitating subjects", the Russell Group's list of A-Levels said to keep the most doors open. Maths, English Literature, Physics, Geography, languages, and so on.
+For years the standard advice was to pick "facilitating subjects". That was the Russell Group's list of A-Levels that were meant to keep the most doors open: Maths, English Literature, Physics, Geography, languages and so on.
 
-**The Russell Group retired that list in 2019.** Its own explanation was that students had misread it, treating it as though those were the only subjects its universities would consider. It was replaced with a website called Informed Choices, which works the other way round: you tell it what your child might want to study, and it tells you which A-Levels that particular degree actually needs.
+**The Russell Group retired that list in 2019.** It said students had been misreading it, as though those were the only subjects its universities would consider. In its place came a website called Informed Choices, and it works the other way round. You tell it what your child might want to study, and it tells you which A-Levels that degree actually needs.
 
-That is a better tool, and it is free. If you take one practical step from this article, make it that one.
+It's a better tool, and it's free. If you only do one thing after reading this, sit down with your child and try it.
 
-The reason this matters is that the old list is still repeated everywhere, including by people who ought to know. A student who drops a subject they love because someone told them it is not facilitating has been given advice that was withdrawn seven years ago.
+Why does this matter? Because the old list still gets repeated everywhere, sometimes by people you'd expect to know. If your child drops a subject they love because someone told them it isn't "facilitating", they've been given advice that was withdrawn seven years ago.
 
 ## What genuinely constrains the choice
 
-Some degrees really do require specific A-Levels, and no amount of enthusiasm gets round it. The pattern is fairly consistent, though the detail varies by university and changes between admissions cycles, so check the specific course pages rather than working from a general rule.
+Some degrees really do need certain A-Levels, and no amount of enthusiasm gets round that. The overall pattern doesn't change much. But the detail varies between universities and can change from one year's applications to the next, so check the actual course pages rather than going on a general rule.
 
 | Degree | Usually required |
 |---|---|
@@ -52,37 +52,37 @@ Some degrees really do require specific A-Levels, and no amount of enthusiasm ge
 | Economics (at some universities) | Maths |
 | Modern Languages | The language, or a related one |
 
-Two things worth noticing about that table.
+Two things worth noticing there.
 
-It is short. Outside those routes, most degrees are far more open than parents expect, including a lot of the competitive ones.
+It's short. Outside those routes, most degrees are far more open than parents expect, and that includes plenty of the competitive ones.
 
-And Maths appears in it repeatedly. If your child is genuinely undecided and is capable of A-Level Maths, it is the single subject that closes fewest doors. That is a different claim from "everyone should do Maths", which is not true and produces a lot of miserable Year 12s.
+And Maths keeps turning up. If your child really doesn't know yet and could cope with A-Level Maths, it's the one subject that closes the fewest doors. That's not the same as saying "everyone should do Maths". Not everyone should, and that advice produces a lot of miserable Year 12s.
 
 ## The subjects nobody warns you about
 
-Every year we speak to Year 12 families where the problem is not the subject choice, it is that nobody explained what the subject was.
+Every year we talk to Year 12 families where the subject choice wasn't really the problem. It was that nobody had explained what the subject would actually be like.
 
-**Maths** has a step up after GCSE that catches out students who coasted to a grade 7. The pace is faster and the content is genuinely different in kind, not just harder.
+**Maths** has a step up after GCSE, and it catches out plenty of teenagers who coasted to a grade 7. It moves faster, and the content itself is different, not just a harder version of GCSE.
 
-**Psychology** is often chosen as the interesting-sounding option and turns out to be heavy on research methods, statistics and essay structure. Students who picked it to avoid Maths sometimes find Maths waiting for them anyway.
+**Psychology** often gets picked as the interesting-sounding one, then turns out to be heavy on research methods, statistics and essay structure. If your child's picking it to get away from Maths, they may find Maths waiting for them anyway.
 
-**English Literature** at A-Level asks for critical argument and wider reading, not the close textual analysis of GCSE. Some students who got a 7 or 8 find the change of gear harder than the workload.
+**English Literature** at A-Level wants a critical argument and wider reading, rather than the close, line-by-line analysis your child got used to at GCSE. Plenty who got a 7 or 8 find that change of gear harder than the workload.
 
-**Sciences** all assume a level of mathematical fluency that GCSE did not require. Chemistry and Physics most of all.
+**Sciences** all expect your child to be more at home with maths than GCSE ever asked them to be. Chemistry and Physics most of all.
 
-None of that is a reason to avoid them. It is a reason to have the conversation in August rather than in November.
+None of that's a reason to avoid them. It's a reason to have the conversation with your child in August, not in November.
 
 ## How many, and whether to add an EPQ
 
-Three A-Levels is the standard. Most university offers are built around three, and a strong three beats a scattered four almost every time.
+Three A-Levels is the norm. Most university offers are built around three, and three strong grades beat four stretched ones almost every time.
 
-Four is worth considering for a student who is genuinely comfortable, usually where Further Maths is the fourth. It is not a way to make a weaker application look stronger, and universities do not generally reward it.
+Four is worth thinking about if your child's really comfortable, and it's usually Further Maths that makes the fourth. It won't make a weaker application look stronger, and universities don't generally reward it.
 
-The Extended Project Qualification is the more useful addition for most students. It is worth up to half an A-Level in UCAS points, some universities make slightly lower offers to students taking one, and it teaches independent research in a way the A-Levels themselves do not. It also gives a student something concrete to talk about at interview, which matters more than the points.
+For most teenagers, the more useful extra is the Extended Project Qualification, or EPQ. It's worth up to half an A-Level in UCAS points, and some universities make slightly lower offers to applicants taking one. It also teaches your child to research on their own, in a way the A-Levels themselves don't. And it gives them something real to talk about at interview, which matters more than the points.
 
 ## The dates that follow this decision
 
-Once subjects are picked, the timetable ahead is not as far away as it feels in August.
+Once the subjects are picked, the next deadlines are closer than they feel in August.
 
 | What | When |
 |---|---|
@@ -91,39 +91,39 @@ Once subjects are picked, the timetable ahead is not as far away as it feels in 
 | Deadline for most other courses, equal consideration | **13 January 2027** |
 | A-Level exams begin | May 2027 (for the current Year 12) |
 
-For a student starting Year 12 this September, that October deadline is thirteen months away, and the predicted grades supporting the application come from Year 12 work. Which is the part most families discover late.
+If your child's starting Year 12 this September, their own October deadline falls a year after the one in the table. That's only about thirteen months away. And the predicted grades on that application come from their Year 12 work. Which is the part most families find out late.
 
 ## What we would actually tell you
 
-We have this conversation a lot in late August. A few things come up every time.
+We have this conversation with parents a lot in late August. The same few things come up every time.
 
-**Let them pick at least one subject because they like it.** Interest is what carries a student through the February of Year 13. A perfectly optimised set of three that your child resents is a worse bet than two strategic choices and one they chose themselves.
+**Let them pick at least one subject because they like it.** Liking a subject is what gets a teenager through the February of Year 13. Three perfectly planned subjects your child resents are a worse bet than two sensible choices and one they picked themselves.
 
-**Do not pick a subject to keep a door open they have never wanted to walk through.** Taking Chemistry "just in case" for a medicine application nobody is planning is a common and expensive mistake.
+**Don't pick a subject to keep open a door they've never wanted to walk through.** Taking Chemistry "just in case", for a Medicine application nobody's planning, is a common mistake and an expensive one.
 
-**Check the entry requirements at your actual sixth form.** They vary by provider and by subject and they change year to year. A friend's older child needing a 7 tells you nothing reliable about this year.
+**Check the entry requirements at your child's actual sixth form.** They differ between sixth forms and between subjects, and they can change every year. A friend's older child needing a 7 doesn't tell you much about this year.
 
-**If a grade came in lower than needed, ask before assuming.** Sixth forms hold discretion and use it, especially where the miss was in an unrelated subject.
+**If a grade came in lower than needed, ask before assuming.** Sixth forms have some leeway and they do use it, especially when the grade that fell short was in an unrelated subject.
 
 ## Frequently asked questions
 
 **Do facilitating subjects still exist?**
-No. The Russell Group retired the label in 2019 and replaced it with the Informed Choices website, which recommends A-Levels based on the degree a student is considering. The old list is still widely repeated, but it is not something universities use.
+No. The Russell Group dropped the label in 2019. In its place is the Informed Choices website, which suggests A-Levels based on the degree your child's thinking about. You'll still hear the old list quoted, but it isn't something universities use.
 
 **How many A-Levels should my child take?**
-Three for almost everyone. University offers are built around three. A fourth is worth it only where a student is comfortable and it adds something specific, most often Further Maths for Maths-heavy degrees.
+Three, for almost everyone, because that's what university offers are built around. A fourth is only worth it if your child's comfortable and it adds something useful, most often Further Maths for a Maths-heavy degree.
 
 **Does my child need Maths for Economics?**
-Many universities require it and some do not, and the requirement has tightened at several over recent years. Check each course page directly, because this is one where general advice goes out of date quickly.
+It depends on the university. Many ask for it, some don't, and several have tightened up in recent years. So check each course page yourself, because general advice on this one goes out of date quickly.
 
 **Can they change subjects after starting?**
-Usually within the first few weeks, subject to timetabling and to the school agreeing. It gets much harder after October half term, since the missed content compounds. If something feels wrong in September, raise it in September.
+Usually, yes, in the first few weeks, as long as the timetable allows and the school agrees. It gets much harder after October half term, because the missed work keeps piling up. If something feels wrong in September, raise it in September.
 
 **Is an EPQ worth doing?**
-For most students, yes. It carries UCAS points, some universities reduce their offer for it, and it builds research and writing skills the A-Levels do not directly teach. Skip it if the three A-Levels are already a stretch.
+For most, yes. It carries UCAS points, some universities lower their offer for it, and it builds research and writing skills the A-Levels don't directly teach. But if three A-Levels are already a stretch for your child, skip it.
 
 **What if my child has no idea what they want to study?**
-That is the normal position at sixteen and not a problem to solve this week. Pick subjects they are good at and interested in, keep Maths in the mix if it is a realistic option, and use Informed Choices in Year 12 once ideas have started to form.
+That's completely normal at sixteen, and it isn't something you need to solve this week. Help them pick subjects they're good at and enjoy, keep Maths in the mix if it's realistic, and try Informed Choices in Year 12 once a few ideas start to form.
 
 ## Sources
 
