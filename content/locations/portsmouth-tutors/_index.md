@@ -1,39 +1,16 @@
 ---
 title: "Portsmouth Tutors | GCSE & A-Level from £37/hr"
-description: Find expert Portsmouth tutors for GCSE and A-Level support.
-  Personalised tuition from £37/hr to help students achieve top grades and exam
-  success.
+description: "Is your child stuck on the same grade? Our Portsmouth tutors find the gap underneath it first. GCSE and A-Level, online, from £37 an hour, no contract."
 layout: single
 location: Portsmouth
-banner_heading: "Looking for an online Portsmouth tutor who actually diagnoses the problem?"
-banner_description: Most tutoring just follows the school timetable. Our
-  Portsmouth tutors start by finding what's been missed, then build a proper
-  plan around it.
+banner_heading: "Looking for an Online Portsmouth Tutor Who Finds What's Really Going Wrong?"
+banner_description: "Plenty of tutoring just follows whatever the class is doing. Our Portsmouth tutors start by finding what your child missed along the way, then plan from there."
 content_angle: foundation gaps
-intro_1: Portsmouth is an unusual city for education. It has Portsmouth Grammar
-  School on one side, one of the leading independents on the south coast, and a
-  state secondary sector where attainment across the city has sat below the
-  national average for years. That gap between the two is something families
-  feel. Students in the state sector often reach Year 10 carrying gaps they
-  didn't know were there, and those gaps start to show at exactly the wrong
-  moment.
-intro_2: The Degree Gap tutoring works with Portsmouth students through
-  one-to-one tuition that starts where the student actually is, not where the
-  curriculum says they should be. Our tutors go back as far as they need to.
-  Sometimes a Year 11 student's maths problem turns out to be a Year 8 algebra
-  gap that never got properly resolved. Find it, fix it, and the progress that
-  follows tends to surprise everyone. Regular private tuition changes the
-  picture faster than families expect, because the issue was usually something
-  specific all along.
+intro_1: "It often shows up in Year 10. Your child was coping fine, then the homework started taking all evening, the test marks dropped, and nobody could quite say why. Results across Portsmouth have sat below the national average for years, so plenty of families here are in the same spot. But it happens at every kind of school, independents like The Portsmouth Grammar School included. Usually there's a gap underneath that no one knew was there, and Year 10 is when it starts costing marks."
+intro_2: "That's why our tutors start from where your child actually is, not where the syllabus says they ought to be. They'll go back as far as they need to. A Year 11 who's lost in Maths might really be stuck on a bit of Year 8 algebra that never quite went in. Once the tutor finds it and puts it right, things can move faster than anyone expected, because it was one specific thing all along. Not a lack of ability. Not laziness either."
 about_heading: Tutors Who Know What Portsmouth Students Need
 about_image: /images/students-in-classroom-taking-notes.jpg
-schools_intro: We work with students from secondary schools right across
-  Portsmouth. That includes St Edmund's Catholic School, Priory School, Admiral
-  Lord Nelson School, Mayfield School, The Portsmouth Academy and King Richard
-  School. Many students are working towards sixth form entry or trying to hit
-  the grade thresholds the city's colleges publish, and our tutors build
-  sessions around those targets. We also run revision and exam preparation
-  workshops open to students from across the city.
+schools_intro: "A lot of Portsmouth parents have one eye on next year: a sixth form place, or the entry grades the city's colleges publish. So we'll ask what your child is aiming for, and the tutor plans around that target. Their children are at St Edmund's Catholic School, Priory School, Admiral Lord Nelson, Mayfield, The Portsmouth Academy, King Richard School and plenty of others. We also run revision and exam preparation workshops with schools around the UK."
 schools:
   - St Edmund's Catholic School
   - Priory School
@@ -42,22 +19,12 @@ schools:
   - The Portsmouth Academy
   - King Richard School
 schools_image: /images/empty-classroom-desks.jpg
-online_heading: "Online tutoring for Portsmouth: the right tutor isn't always the nearest one"
-online_1: Almost all our sessions run online, and for Portsmouth students that
-  opens things up considerably. The tutor who best matches your child's subject,
-  exam board and way of learning might be based anywhere in the country. Online
-  tutoring means that doesn't matter. Sessions run on Lessonspace, which has a
-  shared whiteboard built for one-to-one academic work. It's
-  straightforward from the first session.
-online_2: There's a consistency benefit too. No travel, no last-minute
-  cancellations because of traffic or weather. Students settle in quickly, and
-  the one-to-one environment at home tends to produce better focus than most
-  people predict. Families who've tried both usually say online tutoring works
-  at least as well, and often better.
+online_heading: "Why online tutoring suits Portsmouth families"
+online_1: "Every lesson is online, and that opens things up. The tutor who best suits your child's exam board and the way they learn might live at the other end of the country, and it makes no difference. Lessons run on the platform Lessonspace, where your child and the tutor share a whiteboard, and there's a replay of every lesson to look back on. Most children find it easy from the start."
+online_2: "It's also easier to keep going. Nobody's cancelling because of traffic or rain, and a lesson doesn't swallow the whole evening. A lot of children focus better at home, one-to-one, than you'd expect. Families who've tried both usually tell us online works at least as well. Often better."
 online_image: /images/child-using-online-learning-laptop.jpg
 map_url: https://maps.google.com/maps?q=Portsmouth,UK&output=embed
-areas_intro: Finding the right tutor matters more than finding the nearest one,
-  which is why we support families across Portsmouth and well beyond.
+areas_intro: "Southsea or Cosham, Havant or Gosport: it doesn't matter where you are, because every lesson's online. We help families in these places too."
 area_links:
   - Southampton Tutors|/locations/southampton-tutors/
   - Brighton Tutors|/locations/brighton-tutors/
@@ -66,115 +33,41 @@ area_links:
   - Reading Tutors|/locations/reading-tutors/
   - Swindon Tutors|/locations/swindon-tutors/
 gcse_subjects:
-  - GCSE Maths Tuition|Patient, methodical support that traces gaps back to
-    where they started, covering number, algebra and geometry without rushing
-    past anything that hasn't yet clicked.|/book-a-call/
-  - GCSE Physics Tuition|Help bridging the gap between understanding the theory
-    and turning it into marks on an exam paper, including forces, electricity
-    and waves.|/book-a-call/
-  - GCSE English Tuition|Support with reading, analysis and extended writing for
-    students who can discuss a text but haven't yet found a way to get those
-    ideas onto the page clearly.|/book-a-call/
-  - GCSE Computer Science Tuition|Targeted sessions covering algorithms, data
-    structures and programming logic for students who lost the thread at some
-    point and need to rebuild it.|/book-a-call/
-  - GCSE Geography Tuition|Clear support across physical and human geography,
-    helping students connect what they've studied into well-structured answers
-    worth full marks.|/book-a-call/
-  - GCSE Chemistry Tuition|Structured tutoring that revisits the fundamentals
-    when equations and formulae start to blur, building real understanding
-    rather than surface recall.|/book-a-call/
-  - GCSE French Tuition|Targeted work on grammar, vocabulary and written
-    expression for students who've drifted behind and want to rebuild confidence
-    with the language before exams.|/book-a-call/
-  - GCSE Biology Tuition|Focused sessions across cells, genetics and ecology for
-    students who find the sheer volume of GCSE content hard to hold onto under
-    exam conditions.|/book-a-call/
-  - GCSE History Tuition|Support with source analysis and extended essay
-    technique for students who know the content but aren't yet converting it
-    into the marks those answers should earn.|/book-a-call/
+  - "GCSE Maths Tuition|Number, algebra and geometry at your child's pace, with any gap traced back to where it started instead of rushed past.|/book-a-call/"
+  - "GCSE Physics Tuition|Forces, electricity and waves, with the focus on turning what your child understands into marks on the paper.|/book-a-call/"
+  - "GCSE English Tuition|For the child who can talk about a text brilliantly but can't yet get those ideas onto the page clearly and in time.|/book-a-call/"
+  - "GCSE Computer Science Tuition|Algorithms, data structures and programming logic, starting again from the first thing that stopped making sense.|/book-a-call/"
+  - "GCSE Geography Tuition|Physical and human topics pulled together into well-planned answers, so what they've learnt actually earns the marks.|/book-a-call/"
+  - "GCSE Chemistry Tuition|Back to basics when equations and formulae start to blur, so the chemistry is understood rather than just memorised.|/book-a-call/"
+  - "GCSE French Tuition|Grammar, vocabulary and writing for a child who's drifted behind and wants to feel sure of the language again before the exams.|/book-a-call/"
+  - "GCSE Biology Tuition|For when the sheer amount of content feels impossible, with cells, genetics and ecology taken in manageable chunks.|/book-a-call/"
+  - "GCSE History Tuition|Knowing the history isn't the same as getting the marks for it, so the tutor works on source questions and the longer essays.|/book-a-call/"
 alevel_subjects:
-  - A-Level Chemistry Tuition|Detailed one-to-one support across organic,
-    inorganic and physical chemistry, addressing the earlier gaps that A-Level
-    content tends to expose quickly.|/book-a-call/
-  - A-Level Psychology Tuition|Help pulling together research methods, key
-    studies and evaluation points for students who find A-Level Psychology
-    harder to revise than it looks.|/book-a-call/
-  - A-Level Maths Tuition|One-to-one work across pure maths, mechanics and
-    statistics, with particular attention to the GCSE foundations that A-Level
-    builds on from the first week.|/book-a-call/
-  - A-Level History Tuition|Essay technique and argument-building support for
-    students aiming to stop leaving marks behind on analysis
-    questions.|/book-a-call/
-  - A-Level Geography Tuition|Structured help connecting fieldwork, case studies
-    and theory into the kind of coherent, evaluative answers A-Level Geography
-    examiners reward.|/book-a-call/
-  - A-Level Biology Tuition|Support with the depth and volume of A-Level
-    content, from cellular biology through to genetics and ecosystems, for
-    students who need more time than lessons allow.|/book-a-call/
-  - A-Level Economics Tuition|One-to-one sessions helping students write sharper
-    evaluation and connect micro and macroeconomic theory into clear,
-    well-argued exam responses.|/book-a-call/
-  - A-Level English Tuition|Close reading and essay planning support for
-    students who have strong ideas but want to turn them into the kind of
-    structured argument that scores at the top.|/book-a-call/
-  - A-Level Physics Tuition|Methodical sessions working through mechanics,
-    electricity and fields for students who find exam application harder than
-    understanding the concepts in class.|/book-a-call/
+  - "A-Level Chemistry Tuition|Any GCSE gaps that A-Level exposes get sorted early, so the organic, inorganic and physical chemistry has solid ground to build on.|/book-a-call/"
+  - "A-Level Psychology Tuition|Research methods, key studies and evaluation pulled together, because it's harder to revise than it looks from outside.|/book-a-call/"
+  - "A-Level Maths Tuition|Extra care over the GCSE algebra that A-Level leans on from the very first week, with pure, mechanics and statistics built on top.|/book-a-call/"
+  - "A-Level History Tuition|Essay planning and argument, so your child stops leaving marks behind on the analysis questions.|/book-a-call/"
+  - "A-Level Geography Tuition|Fieldwork, case studies and theory tied together into the joined-up, evaluative answers examiners reward.|/book-a-call/"
+  - "A-Level Biology Tuition|The depth and the sheer volume, from cells through genetics to ecosystems, for when lessons at school don't leave enough time.|/book-a-call/"
+  - "A-Level Economics Tuition|Sharper evaluation, with micro and macro theory linked up into clear exam answers that make an argument.|/book-a-call/"
+  - "A-Level English Tuition|Close reading and essay planning for a teenager with strong ideas who needs help shaping them into a proper argument.|/book-a-call/"
+  - "A-Level Physics Tuition|Mechanics, electricity and fields, with lots of practice at applying ideas to exam questions, which is usually the harder part.|/book-a-call/"
 other_subjects:
-  - University Personal Statement|Shape a strong UCAS personal statement with
-    expert support on structure, subject motivation, and final
-    polish.|/book-a-call/
-faq_1_q: Can you support students who have fallen significantly behind?
-faq_1_a: Yes. Some of the students we work with in Portsmouth have gaps
-  stretching back a year or more. We start by working out exactly where things
-  went wrong, not just picking up from where school left off. Then we build a
-  plan around that.
-faq_2_q: How much does tutoring cost in Portsmouth?
-faq_2_a: Sessions start from £37 per hour. The exact rate depends on the subject
-  and the tutor, and it is always agreed before anything is booked. No
-  surprises, no hidden fees.
-faq_3_q: Do you offer online tutoring for students in Portsmouth?
-faq_3_a: Yes, and it's how most of our sessions run. Students get access to a
-  wider pool of tutors, sessions are easier to keep consistent, and most
-  students concentrate better one-to-one online than they do in a classroom. It
-  works well.
-faq_4_q: How do I know if my child actually needs a tutor?
-faq_4_a: Grades slipping despite effort. Confidence dropping. Putting the work
-  in but not seeing results. Those are the clearest signs. Sometimes it is
-  simpler than that. Some students in Portsmouth just want to go further than
-  the classroom pace allows. Either is a good reason to get in touch.
-why_heading: What the first session reveals for Portsmouth students
-why_para_1: When students start one-to-one tuition with us, the first session
-  almost always turns up something the family wasn't expecting. Not that the
-  student is struggling overall, but that there's one specific thing that
-  stopped making sense at some point, and everything since has been built on top
-  of it. For Portsmouth students, that tends to show up most in Maths and the
-  sciences, where each year's content assumes the last year's was solid. It
-  often wasn't. Not because of any failure on anyone's part. Just because a
-  class of thirty can't slow down for one student who needs another week on
-  fractions.
-why_para_2: Once that's clear, things tend to move quickly. Tutors don't spend
-  the tutoring session recapping what the student already knows. They go
-  straight to the sticking point, explain it differently from how it was taught
-  at school, and check it's genuinely understood before moving on. Parents
-  usually notice a shift in attitude before they notice a shift in grades. The
-  subject starts to feel less threatening. Then the grades follow. That
-  sequence, attitude first, marks second, is what we see again and again with
-  students across Portsmouth.
-accordion_quality: Every tutor working with Portsmouth students is vetted
-  individually on subject knowledge and communication before they're matched
-  with anyone. We pay close attention to exam board familiarity, including AQA
-  and OCR specifications used across Portsmouth's schools, and the standard
-  expected at local sixth forms.
-accordion_experience: Tutors with Portsmouth students are practised at
-  identifying where understanding actually broke down rather than assuming the
-  problem is recent. Many have experience working with students who've quietly
-  stopped believing they're capable of improving, and know how to change that.
-accordion_personalised: We don't start from the textbook chapter the class is
-  currently on. We start from a conversation about what's not working, then
-  build a tutoring plan around that. For students who've accumulated gaps over
-  time, that diagnostic approach is what makes the difference.
+  - "University Personal Statement|A UCAS personal statement that explains why your child wants the course, shaped and tightened over a few drafts.|/book-a-call/"
+faq_1_q: "What if the gaps go back years, not weeks?"
+faq_1_a: "That's fine, and it's more common than you'd think. Some of the Portsmouth children we work with have gaps from a year or more ago. The tutor works out where things first went wrong, rather than picking up wherever school has got to, and plans from there."
+faq_2_q: "How much will lessons cost?"
+faq_2_a: "Lessons start from £37 an hour. The exact rate depends on the subject and the tutor, and we'll agree it with you before anything's booked. No hidden fees and no contract."
+faq_3_q: "Can online lessons really work for my child?"
+faq_3_a: "Yes, and it's how every lesson we arrange runs. You get a far wider choice of tutors, and lessons are easier to keep regular. Your child also meets the tutor on a free video call first, so you'll see how they take to it."
+faq_4_q: "How do I know if my child actually needs a tutor?"
+faq_4_a: "The usual signs are grades slipping even though they're trying, confidence dropping, or hours of revision that don't show up in the marks. Sometimes it's simpler than that, and your child just wants to go further than the class can at its pace. Either's a good reason to talk it through with us."
+why_heading: "The gap underneath: how our Portsmouth tutors find it"
+why_para_1: "The first lesson nearly always turns up something you weren't expecting. Not that your child is struggling across the board, but that one thing stopped making sense a while ago and everything since has been piled on top. We see it most in Maths and the Sciences, where each year takes it for granted that last year's work went in. Often it didn't. That's nobody's fault. A class of thirty can't slow down for the one child who needed another week on fractions."
+why_para_2: "Once the tutor knows what it is, things tend to move quickly. They won't spend the hour going over what your child already knows. They'll go straight to the sticking point, explain it a different way from how it came across in class, and check it's really gone in before moving on. You'll probably notice the mood change first. Maths homework stops being a fight, and your child might even ask for help instead of hiding the worksheet. The marks usually come after that."
+accordion_quality: "Only about 3% of the tutors who apply get onto the platform, and each one has had an interview with us first. We check what they know and how clearly they explain it, and that they know your child's exam board, whether that's AQA, OCR or another."
+accordion_experience: "Our tutors are used to tracing a problem back to where it really started, rather than assuming it's this term's topic. Plenty have worked with teenagers who've quietly decided they can't get any better, and they know how to turn that round."
+accordion_personalised: "The starting point isn't whatever chapter the class is on. It's a chat with you about what's going wrong and a look at your child's recent work. If gaps have been piling up for a while, that first look is where things start to move."
 reviews:
   - Ellen|Parent of GCSE Student|My daughter was struggling with confidence in
     Maths GCSE and we decided to get a tutor. We were given a selection of

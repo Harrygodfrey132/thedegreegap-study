@@ -1,40 +1,16 @@
 ---
 title: "Coventry Tutors | GCSE & A-Level from £37/hr"
-description: Find expert Coventry tutors for GCSE and A-Level support.
-  Personalised tuition from £37/hr to help students achieve top grades and exam
-  success.
+description: "Working hard but the grades won't budge? One-to-one Coventry tutoring online that finds the gap behind the grade. GCSE and A-Level, from £37, no contract."
 layout: single
 location: Coventry
-banner_heading: "Looking for an online Coventry tutor who goes beyond covering the syllabus?"
-banner_description: Most tutoring repeats what school already taught. Our
-  Coventry tutors find the exact point where understanding broke down and build
-  from there.
+banner_heading: "Online Tutoring in Coventry That Does More Than Repeat the Syllabus"
+banner_description: "Our Coventry tutors find the point where your child's understanding first slipped, and build back up from there, one lesson a week."
 content_angle: aspiration gap / foundation gaps
-intro_1: Coventry sits below the national average for GCSE attainment, yet it's
-  a city with two universities on its doorstep and a large cohort of students
-  whose families have real ambitions for what comes next. That gap between
-  aspiration and results is something The Degree Gap sees regularly. Students
-  who want to reach a competitive sixth form, access a good university, or land
-  one of the apprenticeships at local employers like Jaguar Land Rover, and who
-  are working hard but not yet hitting the grades that make those options open.
-intro_2: One-to-one tuition changes that equation. Our Coventry tutors don't
-  just cover topics again and hope something sticks. They find the specific gap,
-  a concept from Year 9 that was never properly understood, a weakness in
-  written exam answers, a topic where confidence collapsed, and work forward
-  from there. We support GCSE students trying to close the distance between
-  effort and results, and A-Level students who need more than classroom time can
-  offer. Private tuition, done properly, is about precision. Not repetition.
+intro_1: "The effort's there. You can see it: the revision timetable on the fridge, the late nights before a test. And the grades still aren't where your child needs them to be. Coventry sits below the national average for GCSE results, but it's a city with two universities on its doorstep, and plenty of families here have big plans. A competitive sixth form, a good university, an apprenticeship at Jaguar Land Rover. That's the gap we see most in Coventry: children working hard towards something real, without the grades yet to keep it open."
+intro_2: "More of the same rarely shifts anything. So a tutor looks for the specific thing that's holding your child back. It might be a Year 9 idea that never properly landed, or written answers that lose marks on structure. Sometimes it's one topic where their confidence just gave way. Whatever it is, that's where the work starts. At GCSE that usually means closing the distance between effort and results. At A-Level it's often the one-to-one time a busy class can't give."
 about_heading: Tutors Who Know What Coventry Students Need
 about_image: /images/handwriting-study-notes-with-highlighters.jpg
-schools_intro: The Degree Gap tutoring works with students from secondary
-  schools across Coventry, including Coundon Court School, Sidney Stringer
-  Academy, Tile Hill Wood School and Language College, Cardinal Wiseman Catholic
-  School, Woodlands Academy, and President Kennedy School. Whether students are
-  aiming for entry to a competitive sixth form, pushing for top grades in a
-  demanding subject, or simply trying to stop a slide before mock season, our
-  tutors match them with structured, targeted support. We also run workshops on
-  exam preparation and revision strategy that are open to students from any
-  Coventry school.
+schools_intro: "Part of what we do happens in schools: workshops on exam preparation and revision. The rest is one-to-one lessons, with families from all over Coventry, including Coundon Court, Sidney Stringer Academy, Tile Hill Wood School and Language College, Cardinal Wiseman Catholic School, Woodlands Academy and President Kennedy School. What they're after varies. Some children are aiming at a competitive sixth form, some are pushing hard in one demanding subject, and some just need to stop a slide before the mocks. The tutor plans for whichever it is."
 schools:
   - Coundon Court School
   - Sidney Stringer Academy
@@ -43,26 +19,12 @@ schools:
   - Woodlands Academy
   - President Kennedy School
 schools_image: /images/students-listening-in-classroom.jpg
-online_heading: Online tuition for Coventry students, the right tutor, not just
-  the nearest one
-online_1: Most sessions with Coventry students run online through Lessonspace, a
-  platform built for online tutoring. The interactive whiteboard lets tutors and
-  students work through problems side by side in real time, important for Maths
-  and the sciences, where seeing each step matters. There's no travel time, no
-  geography barrier, and access to a far wider pool of tutors than any
-  in-person-only approach allows.
-online_2: What makes the difference is regularity. A student who meets their
-  tutor once a week across a term will outperform one who books five sessions in
-  the fortnight before an exam. Coventry families tell us online tutoring makes
-  that weekly rhythm much easier to keep, sessions slot around school, clubs,
-  and family life without anyone needing to drive across the city. For students
-  working to close a real gap between where they are and where they want to be,
-  consistency is the thing that turns sessions into results.
+online_heading: "Weekly online tutoring that fits around Coventry family life"
+online_1: "Every lesson runs in the online classroom Lessonspace. Your child and the tutor work through problems side by side on a shared whiteboard, which matters most in Maths and the Sciences, where the tutor needs to see each step of the working. Each lesson's recorded as well, so your child can replay it before a test. And with nobody travelling, we can choose from far more tutors than if they had to live nearby."
+online_2: "What moves grades most is regularity. An hour a week across a whole term usually gets further than five lessons crammed into the fortnight before an exam. Coventry families tell us online makes that weekly habit much easier to keep. It's a laptop at home, so there's no drive across the city after school, and the lesson can sit wherever it suits your week. When your child is trying to close a real gap between where they are and where they want to be, it's the steady weeks that count."
 online_image: /images/child-using-online-learning-laptop.jpg
 map_url: https://maps.google.com/maps?q=Coventry,UK&output=embed
-areas_intro: Because most of our tuition is online, students in Coventry and
-  nearby areas can access the right subject specialist without being limited by
-  geography.
+areas_intro: "Families in Tile Hill, Finham, Kenilworth and Bedworth all have lessons the same way, online, at a time that suits them. We also help families in these cities."
 area_links:
   - Birmingham Tutors|/locations/birmingham-tutors/
   - Leicester Tutors|/locations/leicester-tutors/
@@ -71,120 +33,41 @@ area_links:
   - Oxford Tutors|/locations/oxford-tutors/
   - Sheffield Tutors|/locations/sheffield-tutors/
 gcse_subjects:
-  - GCSE Maths Tuition|Structured support that rebuilds confidence in number,
-    algebra and geometry, giving students the fluency they need when exam
-    pressure kicks in.|/book-a-call/
-  - GCSE Computer Science Tuition|Clear explanations of programming logic, data
-    structures and algorithmic thinking for students who find abstract concepts
-    hard to pin
-    down.|/book-a-call/
-  - GCSE English Tuition|Targeted work on essay structure, analytical writing
-    and unseen texts, helping students turn a shaky grade into something they
-    can rely on.|/book-a-call/
-  - GCSE Physics Tuition|Support across forces, energy, electricity and waves,
-    building real problem-solving ability rather than surface familiarity with
-    the topics.|/book-a-call/
-  - GCSE History Tuition|Strong essay technique, source evaluation and content
-    recall, the three things examiners reward and classrooms rarely have time
-    to drill.|/book-a-call/
-  - GCSE Biology Tuition|Breaking down cells, genetics, ecosystems and
-    physiology into clear steps, so students understand the logic rather than
-    guessing at
-    answers.|/book-a-call/
-  - GCSE French Tuition|Consistent practice in speaking, reading, writing and
-    listening, filling the gaps that build up when classroom pace outruns
-    individual progress.|/book-a-call/
-  - GCSE Geography Tuition|Case study recall, data response and extended writing,
-    the three areas where Coventry students tend to lose the most
-    marks.|/book-a-call/
-  - GCSE Chemistry Tuition|Expert support across organic, inorganic and physical
-    chemistry, focusing on understanding reactions rather than memorising
-    them.|/book-a-call/
+  - "GCSE Maths Tuition|Rebuilt one step at a time, from number work to algebra and geometry, so the methods hold up when the exam pressure kicks in.|/book-a-call/"
+  - "GCSE Computer Science Tuition|Programming logic, data structures and algorithms explained plainly, for a child who finds the abstract ideas hard to pin down.|/book-a-call/"
+  - "GCSE English Tuition|Essay structure, analytical writing and unseen texts, turning a shaky English grade into one they can count on.|/book-a-call/"
+  - "GCSE Physics Tuition|Real problem-solving practice on forces, energy, electricity and waves, rather than a vague sense of having seen it before.|/book-a-call/"
+  - "GCSE History Tuition|Essay technique, source evaluation and knowing the content well, all practised properly, which a busy classroom rarely has time for.|/book-a-call/"
+  - "GCSE Biology Tuition|Clear steps through cells, genetics, ecosystems and the human body, so answers come from understanding rather than guesswork.|/book-a-call/"
+  - "GCSE French Tuition|Filling the gaps that open up when the class moves faster than your child, with steady practice for all four parts of the exam.|/book-a-call/"
+  - "GCSE Geography Tuition|Extended writing, data questions and case studies, practised until your child can use what they know, not just recognise it.|/book-a-call/"
+  - "GCSE Chemistry Tuition|Atoms, bonding and the calculations, focused on understanding why reactions happen rather than memorising them.|/book-a-call/"
 alevel_subjects:
-  - A-Level Economics Tuition|Advanced micro and macro models, policy analysis
-    and data interpretation, with tutors who know what top-grade answers
-    actually look
-    like.|/book-a-call/
-  - A-Level Biology Tuition|In-depth support across genetics, physiology and
-    ecology at A-Level, with careful attention to what each exam board expects
-    in extended
-    answers.|/book-a-call/
-  - A-Level Maths Tuition|Multi-step problem solving across pure maths,
-    mechanics and statistics, for students who want to close the gap between
-    working and getting full
-    marks.|/book-a-call/
-  - A-Level History Tuition|Support in constructing sustained, well-evidenced
-    arguments under timed conditions, for students who know the content but lose
-    marks in the
-    writing.|/book-a-call/
-  - A-Level Chemistry Tuition|A-Level organic, inorganic and physical chemistry
-    unpacked clearly, with tutors who diagnose where understanding has broken
-    down before going
-    further.|/book-a-call/
-  - A-Level Psychology Tuition|Research methods, key approaches and essay
-    technique with tutors who know the mark scheme and the shortcuts examiners
-    actually
-    reward.|/book-a-call/
-  - A-Level English Tuition|Critical analysis and essay writing across literary
-    texts, building the depth of argument that separates a B from an A at
-    A-Level.|/book-a-call/
-  - A-Level Physics Tuition|Advanced mechanics, fields and quantum physics made
-    accessible through problem-focused sessions that build genuine
-    understanding.|/book-a-call/
-  - A-Level Geography Tuition|Advanced geographical concepts, fieldwork analysis
-    and extended writing, with support on the parts of the course most students
-    find hardest to
-    express.|/book-a-call/
+  - "A-Level Economics Tuition|What examiners want to see in a long answer, practised alongside the micro and macro models and the data questions.|/book-a-call/"
+  - "A-Level Biology Tuition|Genetics, physiology and ecology in depth, with close attention to what your child's exam board wants in the longer answers.|/book-a-call/"
+  - "A-Level Maths Tuition|Closing the gap between starting a method and getting full marks for it, across pure, mechanics and statistics.|/book-a-call/"
+  - "A-Level History Tuition|Well-argued, well-evidenced essays under timed conditions, for a teenager who knows the history but loses marks in the writing.|/book-a-call/"
+  - "A-Level Chemistry Tuition|The tutor finds where the chemistry stopped making sense, then explains it clearly before moving on to anything new.|/book-a-call/"
+  - "A-Level Psychology Tuition|Essays that hit the mark scheme, plus research methods and the key approaches, taught by someone who knows what examiners reward.|/book-a-call/"
+  - "A-Level English Tuition|Deeper arguments about the set texts, the kind that lift an essay a grade, with close analysis practised every week.|/book-a-call/"
+  - "A-Level Physics Tuition|Lessons built around working problems out together, which makes mechanics, fields and quantum physics far more manageable.|/book-a-call/"
+  - "A-Level Geography Tuition|Extra help on the parts most people find hardest to put into words, from the fieldwork analysis to the extended essays.|/book-a-call/"
 other_subjects:
-  - University Personal Statement|Shape a strong UCAS personal statement with
-    expert support on structure, subject motivation, and final
-    polish.|/book-a-call/
-faq_1_q: How do I find the right tutor in Coventry?
-faq_1_a: Tell us the subject, the year group and what the student is trying to
-  achieve. We take it from there. Most families hear back quickly, and you are
-  not left scrolling through profiles trying to figure it out yourself.
-faq_2_q: Can you support students who have fallen significantly behind?
-faq_2_a: Yes. Some of the students we work with in Coventry have gaps stretching
-  back a year or more. We start by working out exactly where things went wrong,
-  not just picking up from where school left off. Then we build a plan around
-  that.
-faq_3_q: How much does tutoring cost in Coventry?
-faq_3_a: Sessions start from £37 per hour. The exact rate depends on the subject
-  and the tutor, and it is always agreed before anything is booked. No
-  surprises, no hidden fees.
-faq_4_q: My child is struggling with confidence. Can you help?
-faq_4_a: Yes, and it is more common than people think. A lot of the students we
-  work with in Coventry are not short of ability. They have just hit a rough
-  patch and stopped believing in themselves. Once your child clicks with a tutor, that belief tends to come back sooner than families expect.
-why_heading: What the first session usually reveals
-why_para_1: When Coventry students start tutoring, the first session tends to
-  uncover something the classroom never had time to find. It's rarely the topic
-  they think is the problem. More often it's something earlier, a method in
-  Maths that got glossed over, a writing skill in English that was assumed
-  rather than taught, or a gap in scientific reasoning from Year 9 that has
-  quietly made every topic since harder. Students arrive thinking they need more
-  practice. They often need something further back than that.
-why_para_2: That diagnostic step is what separates sessions that move grades
-  from sessions that go over the same ground. Our tutors don't start with the
-  current topic. They ask questions, look at recent work, and find the actual
-  sticking point. For Coventry students aiming at a competitive sixth form or
-  trying to reach the grades for a university course, getting that right early
-  means the rest of the tutoring sessions are spent building forward rather than
-  firefighting. Parents usually notice the difference in confidence before the
-  grades catch up. But the grades do catch up.
-accordion_quality: Every tutor working with Coventry students is vetted on
-  subject knowledge and on their ability to explain things in more than one way.
-  For students who are working to close a gap between aspiration and results,
-  finding someone who is patient, clear and diagnostically sharp matters as much
-  as any credential.
-accordion_experience: Our tutors have worked with students who have foundation
-  gaps going back more than a year. They know how to identify the root of a
-  problem quickly and build a plan that makes each subsequent session more
-  productive than the last.
-accordion_personalised: No two Coventry students arrive with the same gaps.
-  Tutors spend time at the start understanding exactly where and why a student
-  is struggling, so that every session targets the specific areas that will move
-  the grade rather than covering ground the student already knows.
+  - "University Personal Statement|Support with the UCAS personal statement, from working out what your child wants to say to the last careful edit.|/book-a-call/"
+faq_1_q: "How do we even start finding the right tutor?"
+faq_1_a: "Talk to us. Tell us the subject, the year group and what your child is hoping for, and within 24 hours of our call you'll have profiles of two or three tutors we think will suit them. No trawling through a directory."
+faq_2_q: "My child's fallen well behind. Is there any point starting now?"
+faq_2_a: "Yes, there's every point. Plenty of Coventry families come to us with gaps that stretch back a year or longer. The tutor doesn't just carry on from wherever school has got to. They find where things first went wrong and plan forward from there, so each lesson builds on something solid."
+faq_3_q: "What does it cost? Do we have to commit to a whole term?"
+faq_3_a: "From £37 an hour, depending on the subject and the tutor, and you'll agree the rate before any lesson's booked. And no, there's no contract, so you're never locked into a term."
+faq_4_q: "My child's lost all confidence. Can a tutor help with that?"
+faq_4_a: "Yes, and it's far more common than people think. Lots of the Coventry children we work with aren't short of ability. They've hit a rough patch and stopped believing they can do it. Once your child clicks with a tutor, that belief tends to come back sooner than families expect."
+why_heading: "Coventry tutoring that starts with the root of the problem"
+why_para_1: "Your child might think the problem is this term's topic. Usually it started earlier, and the first hour with a tutor is often when it finally shows: a Maths method that got rushed, a writing skill in English everyone assumed they had, or a bit of Year 9 Science reasoning that's made every topic since harder. A busy classroom rarely has time to dig that far. Most children arrive thinking they just need more practice. What they need is someone to find where it started."
+why_para_2: "That's what stops lessons going over old ground. The tutor won't start with this week's topic. They'll ask your child questions, look through recent work and find where it actually gets stuck. If your child is aiming for a competitive sixth form or the grades for a university course, getting that right early means the lessons after it build forward instead of putting out fires. You'll probably see their confidence change first. The marks usually follow, though nobody can promise a grade."
+accordion_quality: "Harry and Joe interview every tutor personally, and about 3% of applicants are accepted. We check they know their subject and can explain it more than one way. When your child is trying to close the gap between their plans and their grades, a patient tutor who can spot the real problem matters as much as any qualification."
+accordion_experience: "Plenty of our tutors have worked with teenagers whose gaps go back more than a year. They're quick to find the root of the problem, and they plan so each lesson builds on the one before."
+accordion_personalised: "No two children come to us with the same gaps. The tutor spends the first lesson or two working out where your child is stuck and why, so later lessons go on what'll move the grade, not on things they already know."
 reviews:
   - Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with
     English and was completely disengaged from the subject. After six months of
