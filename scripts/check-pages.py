@@ -183,7 +183,9 @@ class Page:
         for k, s in prose(self.fm):
             self.fields[k].append(s)
         self.field_sh = {k: shingles(norm(" ".join(v), tn)) for k, v in self.fields.items()}
-        self.own_text = " ".join(" ".join(v) for v in self.fields.values())
+        # One field per line, so a heading with no full stop is not read as
+        # the start of the next field's first sentence.
+        self.own_text = "\n".join("\n".join(v) for v in self.fields.values())
         self.own_sh = set().union(*self.field_sh.values()) if self.field_sh else set()
         self.sents = {}
         for k, v in self.fields.items():
@@ -239,7 +241,7 @@ def voice(page):
     if contractions * 100 / words < 1.0:
         warns.append(f"few contractions ({contractions} in {words} words): write it the way you'd say it")
     sl = [len(s.split()) for s in sentences(own) if len(s.split()) > 2]
-    if sl and sum(sl) / len(sl) > 22:
+    if sl and sum(sl) / len(sl) > 20:
         warns.append(f"long sentences (average {sum(sl) / len(sl):.0f} words): split some")
     # Mirrors partials/seo.html: a trailing " | The Degree Gap" is dropped when
     # the title would run past 65, so only the words before it have to fit.
