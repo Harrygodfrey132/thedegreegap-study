@@ -1,41 +1,41 @@
 ---
 title: "York GCSE Tutors | Expert Tutors | The Degree Gap"
-description: "York GCSE tutors who trace a slipping grade back to the topic that caused it. One-to-one GCSE tutoring for York students, online, from £37 an hour."
+description: "Fine in Year 9, struggling in Year 10? Our York GCSE tutors trace your child's grade back to where it slipped and rebuild from there. Online lessons from £37."
 layout: "subject"
 location: "York"
 level: "GCSE"
 
-hero_heading_line1: "Online York GCSE Tutors For the Year 10 Term Where Content Gets Harder"
+hero_heading_line1: "Online York GCSE Tutors for the Year 10 Term When It All Gets Harder"
 hero_heading_line2: ""
-hero_lead: "Year 10 is where the content stops being an extension of Year 9 and starts being its own thing. Our York GCSE tutors find the point where that shift lost a student, and rebuild from there rather than from wherever the class is now."
+hero_lead: "In Year 10, GCSE work stops feeling like more of Year 9, and a child who was coping can quietly lose their footing. Our York GCSE tutors find where that happened for your child and rebuild from there, not from wherever the class has reached."
 
 grade_from: "E"
 grade_to: "B"
-grade_stat: "A genuine climb from an E to a B, in the student's own words, after regular one-to-one sessions."
+grade_stat: "Keira put it simply: tutoring helped her get her grades from an E to a B."
 
 first_lesson_eyebrow: "AN E TO A B, IN HER WORDS"
 first_lesson_heading: "The First Hour With a York GCSE Tutor"
-first_lesson_context: "Attainment across York sits above the national picture, which is useful for the city and not much comfort for one family. What we hear most often is a Year 10 who was fine last year and is not now. The tutor's job in session one is naming the week that went missing."
+first_lesson_context: "When it's your child's grade that's slipping, it's not much comfort that York's results sit above the national picture. What we hear most is a Year 10 who was fine last year and isn't now. So the tutor's first job is finding the week that went missing."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B."
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B"
 
 tutor_strip_heading: "York GCSE tutors matched on exam board, not just subject"
-tutor_strip_body: "The tutors covering York teach the AQA, Edexcel and OCR specifications between them, and we match on the one your child's school actually runs. Each clears a founder-led interview only about 3% of applicants pass. Browse the profiles, or let us introduce you."
+tutor_strip_body: "Our tutors cover AQA, Edexcel and OCR, and we'll match your child with one who knows the course their school follows. Getting onto the platform isn't easy: roughly 3% of tutors who apply are accepted. Have a browse below, or we'll help you choose."
 
-pathways_heading: "The Step After GCSEs For York Year 11s"
-pathways_lead: "Three routes York families tend to weigh up once the summer exams are behind them."
+pathways_heading: "Life After GCSEs in York: The Three Main Routes"
+pathways_lead: "It helps to know what's ahead, even in Year 10, so here's where York teenagers usually go next."
 pathways:
   - title: "Sixth Forms"
     body: >
-      York College takes students from across the city, and school sixth forms at Fulford, Archbishop Holgate's and All Saints run alongside it, with Bootham School and St Peter's in the independent sector. Each publishes its own entry requirements, and the A-Level subjects tend to ask for a grade in that subject itself.
+      York College takes teenagers from all over the city, and Fulford, Archbishop Holgate's and All Saints have their own sixth forms, as do the independent Bootham School and St Peter's. Check each one's entry grades, because for most A-Level subjects they'll want a certain grade in that same subject at GCSE.
   - title: "Apprenticeships"
     body: >
-      Nestlé still runs apprenticeships from the confectionery site, and Aviva and Hiscox both hire school leavers into their York offices. Most ask for grade 4 to 5 in Maths and English before anything else is considered.
+      Nestlé still trains apprentices at its York confectionery site, and Aviva and Hiscox both take school leavers into their York offices. A 4 or 5 in Maths and English is usually the first thing they check.
   - title: "Further Education"
     body: >
-      York College and Askham Bryan College carry most of the city's Level 3 and T Level provision, with Askham Bryan covering the land-based and animal-care routes. A confident 4 or 5 in Maths and English opens the majority of them.
+      York College and Askham Bryan College run most of the city's Level 3 and T Level courses between them, with Askham Bryan covering the land-based and animal-care side. Get Maths and English to a 4 or 5 and most of those courses are open.
 
 reviews:
   - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
@@ -55,14 +55,14 @@ reviews:
   - "Charlotte|Student|I cannot recommend Harry enough. He was helpful welcoming and helped me achieve a grade higher than I was expected!"
   - "Marfa|Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university"
 
-faq_1_q: "Is Year 10 too early to start GCSE tutoring, or should we wait for Year 11?"
-faq_1_a: "Year 10 is usually the better call, and it is the year most York families underestimate. The content steps up, the gaps that open are small at first, and they compound quietly for a year before a mock makes them visible. Starting in Year 11 still works. There is simply less room, and more of each session goes on past papers rather than rebuilding whatever broke."
-faq_2_q: "My son says he revises for hours but the grade never moves. What is going on?"
-faq_2_a: "Almost always he is revising what he already knows, because that feels productive and re-reading a topic he understands is comfortable. The fix is not more hours. A tutor marks a recent paper, finds the three or four question types actually losing marks, and points every session at those until they stop being a problem. Parents usually notice the change in tone before the grade."
-faq_3_q: "Do your tutors cover the exam boards York schools use?"
-faq_3_a: "Yes, and we match on it before anything else. Between them York schools run AQA, Edexcel and OCR, and the papers are not interchangeable. The same topic gets examined differently, the mark schemes reward different wording, and a tutor who knows the wrong board will teach content well and lose marks on technique. Tell us the board and the tier and we work from there."
+faq_1_q: "My child's only in Year 10. Is that too early for a tutor?"
+faq_1_a: "Not at all, and it's often the better time. Year 10 is when GCSE content properly steps up. Even if your child sailed through Year 9, they can start to wobble without anyone noticing, because the gaps are small at first. They're much easier to fix then. Wait until a Year 11 mock shows them up and there's less time, so more of each lesson goes on past papers instead of fixing what went wrong."
+faq_2_q: "My son says he's revising for hours. Why hasn't his grade moved?"
+faq_2_a: "Most likely he's going over what he already knows. It's comfortable and it feels like work, but it doesn't win new marks, so more hours won't fix it. The tutor goes through a recent paper with him, picks out the few kinds of question he keeps dropping marks on, and builds each lesson around those. You'll probably hear the change in how he talks about the subject before you see it in a grade."
+faq_3_q: "Does the exam board my child's school uses really make a difference?"
+faq_3_a: "Yes, so we match on it before anything else. York schools use AQA, Edexcel and OCR between them, and the papers aren't interchangeable: the same topic's asked differently, and the mark schemes reward different wording. A tutor who knows the wrong board can teach well and still cost your child marks. Tell us the board, and the tier (Foundation or Higher) if there is one."
 faq_4_q: "How much does GCSE tutoring cost for a York family?"
-faq_4_a: "From £37 an hour. The rate depends on the tutor's experience and is agreed with you before anything is booked, so nothing changes later. Most families settle into a weekly hour through Year 10 and 11 and add a second in the run-up to November and March mocks. There is no joining fee and no minimum term."
+faq_4_a: "From £37 an hour. The rate depends on the tutor's experience, and we'll agree it with you before anything's booked, so there are no surprises later. Most families settle into one lesson a week through Year 10 and 11, and some add a second in the run-up to mocks. No joining fee, no minimum term."
 
 sitemap:
   priority: 0.7

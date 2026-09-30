@@ -1,42 +1,42 @@
 ---
 title: "GCSE Tutors in Bristol | Online One-to-One | The Degree Gap"
-description: "Bristol GCSE tutoring for Year 10 and 11 students. One-to-one tutors who close the gaps behind a slipping grade and rebuild the topics that stopped clicking."
+description: "Bristol GCSE tutors for when a grade's slipping and nobody can say why. Online, one-to-one lessons that rebuild the topic that stopped clicking. From £37."
 layout: "subject"
 location: "Bristol"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors in Bristol Who Close the Gap the Classroom Missed"
+hero_heading_line1: "Online Bristol GCSE Tutors for the Grade That's Slipping and Nobody Knows Why"
 hero_heading_line2: ""
-hero_lead: "Our Bristol GCSE tutors move a grade the classroom couldn't, by finding the exact topic that stopped making sense. For most families that starts with a set of mocks that came back lower than the hours of revision had promised."
+hero_lead: "Your child revised for hours, and the mocks still came back lower than anyone hoped. That's usually when Bristol families find us. Our Bristol GCSE tutors look for the exact topic that stopped making sense, then rebuild from there, one-to-one and online."
 
 grade_from: "E"
 grade_to: "B"
-grade_stat: "A real GCSE grade move from an E up to a B, achieved by a student over a run of weekly one-to-one sessions."
+grade_stat: "Keira's own review says tutoring took her GCSE grades from an E up to a B."
 
-first_lesson_eyebrow: "A BRISTOL YEAR 11 TURNAROUND"
+first_lesson_eyebrow: "IN KEIRA'S OWN WORDS"
 first_lesson_heading: "Where a Bristol GCSE Tutor Starts When a Grade Has Slipped"
-first_lesson_context: "In Bristol, a grade 4 or 5 in Maths and English opens a Filton apprenticeship at Airbus or GKN. It's also the floor most local sixth forms and colleges set before a place. Results across the city sit a little below the national picture, so a Bristol GCSE tutor reads the most recent paper first and finds which topics are quietly leaking marks."
+first_lesson_context: "A 4 or 5 in Maths and English is the first thing most Filton apprenticeships at Airbus or GKN look for, and most Bristol sixth forms and colleges ask for it too. Results across the city sit a little below the national picture, but that tells you nothing about your child. So the GCSE tutor starts with their latest paper and finds the topics quietly leaking marks."
 
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B."
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B in GCSE"
 
-tutor_strip_heading: "Bristol GCSE tutors who know the Cotham and Redland Green pace"
-tutor_strip_body: "Most of our Bristol GCSE tutors are Russell Group graduates who cleared a founder-led interview only about 3% of applicants pass. They've coached Year 10 and 11 students on the exam boards their schools actually teach, from the city centre out to Patchway and Bradley Stoke. Browse profiles, or let us match your child."
+tutor_strip_heading: "Bristol GCSE tutors for families from Cotham to Bradley Stoke"
+tutor_strip_body: "Every tutor here is a Russell Group graduate who's passed an interview with Harry or Joe, and only around 3% of applicants do. We'll check your child's exam board before suggesting anyone. Browse the profiles, or ask us to pick."
 
 pathways_heading: "What Bristol Year 11s Do After Their GCSEs"
-pathways_lead: "The three post-16 routes we talk through most with Bristol families."
+pathways_lead: "The three routes we talk through most with Bristol families once GCSEs are over."
 pathways:
   - title: "Sixth Forms"
     body: >
-      St Brendan's in Brislington, SGS Sixth Form out at Filton and City of Bristol College take huge intakes, with St Mary Redcliffe, Cotham and Redland Green running their own sixth forms and Clifton College and Bristol Grammar on the independent side. Most ask for a spread of grade 4s and 5s plus a higher grade in the A-Level subject itself, which is where Year 11 tutoring quietly earns the place.
+      St Brendan's in Brislington, SGS Sixth Form at Filton and City of Bristol College take big intakes, and St Mary Redcliffe, Cotham, Redland Green, Clifton College and Bristol Grammar run their own sixth forms. Most want a spread of 4s and 5s, plus a higher grade in any subject your child wants to carry on with at A-Level.
   - title: "Apprenticeships"
     body: >
-      Filton is what makes Bristol different. Airbus, Rolls-Royce, GKN Aerospace and MBDA all run apprenticeships from the aerospace cluster, with MoD Abbey Wood nearby and a new Aerospace Skills Academy opening at the Airbus site, most starting at grade 4 to 5 in Maths and English before the technical Sciences bar.
+      Filton is what makes Bristol different: Airbus, Rolls-Royce, GKN Aerospace and MBDA all take apprentices there, with MoD Abbey Wood nearby. Most schemes start by looking for a 4 or 5 in Maths and English, and the technical routes look hard at Science too.
   - title: "Further Education"
     body: >
-      City of Bristol College runs the main BTEC and T Level routes from its College Green and Ashley Down campuses, with SGS College covering Filton, Stroud and the north of the city. GCSE Maths and English resits sit at the door of most Level 3 courses, and one-to-one tutoring is often what clears them.
+      City of Bristol College runs the main BTEC and T Level courses from its College Green and Ashley Down campuses, and SGS College covers Filton, Stroud and the north of the city. Most of their Level 3 courses, the ones at A-Level standard, want Maths and English at grade 4, and a tutor can help if your child needs to resit one.
 
 reviews:
   - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
@@ -88,13 +88,13 @@ tutors:
     image: "/images/tutors/lucy-palmer.jpg"
 
 faq_1_q: "My son wants an aerospace apprenticeship at Filton. Which GCSE grades actually matter?"
-faq_1_a: "Airbus, GKN and Rolls-Royce screen first on grade 4 to 5 in Maths and English, and the technical engineering routes look hardest at the Sciences. A Bristol GCSE tutor works out which of those subjects is short of the mark, then focuses the sessions on the question types that shift the grade, so the application isn't the thing that closes the door."
-faq_2_q: "My daughter has fallen a long way behind in Maths. Where does a Bristol GCSE tutor start?"
-faq_2_a: "Not with the current topic. The first session is a diagnostic, working backwards to find where the thread got dropped, often a Year 8 or 9 method like fractions or rearranging equations that never fully landed. And once that's solid, the rest starts to hold, so the plan moves forward from firm ground rather than racing to catch the class."
+faq_1_a: "Maths and English first, then Science. Airbus, GKN and Rolls-Royce usually look for at least a 4 or 5 in Maths and English before anything else, and the technical engineering routes look hardest at Science. Each scheme sets its own grades, so it's worth checking the one your son's aiming for. A tutor works out which of those subjects is short of the mark, then spends the lessons on the question types that'll move it."
+faq_2_q: "My daughter's fallen a long way behind in Maths. Where does a Bristol GCSE tutor start?"
+faq_2_a: "Not with whatever her class is doing this week. In the first lesson the tutor works backwards through her mistakes to find where things stopped making sense. Often it's a Year 8 or 9 method, like fractions or rearranging equations, that never quite went in. And once that's solid, the newer topics start to hold, so the plan moves forward from firm ground instead of racing to catch the class."
 faq_3_q: "Can a tutor get my son ready for his Year 11 mocks?"
-faq_3_a: "That's one of the most common reasons Bristol families call. Sessions run online through Lessonspace, our shared whiteboard, where the tutor works through past papers, marks them the way an examiner would, and drills the topics most likely to come up. The point is to make the mock feel familiar before he sits it."
-faq_4_q: "Does tutoring treat English Language and English Literature as two different subjects?"
-faq_4_a: "It should, because they are. Language is about reading unseen sources under time pressure and writing to a clear brief. Literature is about building an argument on texts studied all year. A Bristol GCSE English tutor works on whichever is costing the marks, and usually the technique carries across to both."
+faq_3_a: "Yes. Mocks are one of the main reasons Bristol parents call us in the first place. Lessons happen online in Lessonspace, a shared whiteboard with a replay of every lesson, where your son and the tutor work through past papers together. The tutor marks them the way an examiner would, then spends time on whatever's losing him marks. The idea is that nothing in the mock feels new when he sits down to it."
+faq_4_q: "Will the tutor treat English Language and English Literature as two separate subjects?"
+faq_4_a: "They will, because they really are different. Language is about reading texts your child hasn't seen before, against the clock, and writing to a clear brief. Literature is mostly about building an argument on the books and poems they've studied all year. The tutor works on whichever one's costing more marks, and a lot of the technique carries across to the other."
 
 sitemap:
   priority: 0.7

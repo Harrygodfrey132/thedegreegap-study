@@ -1,42 +1,42 @@
 ---
 title: "High Wycombe GCSE Tutors | Expert Tutors | The Degree Gap"
-description: "High Wycombe GCSE tutoring for the grammar-school sixth form bar. One-to-one tutors who work with students wherever they are sitting and lift the predicted grade."
+description: "High Wycombe GCSE tutors for when the predicted grade is short of what the sixth form wants. Online, one-to-one, from £37, whatever your child's school."
 layout: "subject"
 location: "High Wycombe"
 level: "GCSE"
 
-hero_heading_line1: "Online High Wycombe GCSE Tutors Who Lift the Predicted Grade Where It Needs to Be"
+hero_heading_line1: "Online High Wycombe GCSE Tutors for When the Predicted Grade Falls Short"
 hero_heading_line2: ""
-hero_lead: "By Year 11, most High Wycombe parents are watching the gap between their child's predicted grade and what the local sixth forms quietly expect. Our High Wycombe GCSE tutors work one-to-one to lift the predicted grade wherever a student is sitting today, towards what the sixth form is actually asking for."
+hero_lead: "By Year 11, you might be watching the gap between your child's predicted grade and what their sixth form wants, and wondering if it'll close in time. Our High Wycombe GCSE tutors start from wherever your child is today and work one-to-one on the marks in between."
 
 grade_from: "5"
 grade_to: "7"
-grade_stat: "Real GCSE English grade jump from a Year 10 student we worked with, after six months of weekly one-to-one tutoring."
+grade_stat: "Omo's son went from a grade 5 in GCSE English to a 6/7 in six months, and now looks forward to his lessons."
 
-first_lesson_eyebrow: "A WYCOMBE YEAR 10 STORY"
+first_lesson_eyebrow: "A YEAR 10 ENGLISH STORY"
 first_lesson_heading: "What a High Wycombe GCSE Tutor Spots in the First Mock"
-first_lesson_context: "The gap between where a GCSE student is sitting today and where they could be is rarely a content gap. It's a question-by-question gap, the same student losing marks on the longer Biology questions, dropping points on the Maths problem-solving paper, a stray AO3 mark on the English Literature essay. A GCSE tutor reads recent mock papers, marks them the way the exam board marks, and rebuilds the question types where the marks are leaking."
+first_lesson_context: "The gap between where your child is now and where they could be is rarely about not knowing the content. It's usually one kind of question at a time, like the longer Biology answers, the Maths problem-solving questions or the marks for context in an English Literature essay. So the GCSE tutor marks a recent mock the way the exam board would, then works on the question types where the marks are going."
 
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him."
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "GCSE English"
 
-tutor_strip_heading: "High Wycombe GCSE tutors who know what the Royal Grammar bar looks like"
-tutor_strip_body: "Most of our High Wycombe GCSE tutors have walked students through the specifications the Royal Grammar, John Hampden and Wycombe High teach. Match by exam board and by the question types those schools weight hardest in mocks. Browse profiles, or let us match your child."
+tutor_strip_heading: "High Wycombe GCSE tutors who start with your child's latest mock"
+tutor_strip_body: "Before we suggest anyone, we'll ask which exam board your child's school uses. It can differ between the Royal Grammar, John Hampden, Wycombe High and the other schools in town, and the tutor should know that course well. The profiles are below if you'd like a look first."
 
 pathways_heading: "What Comes After High Wycombe GCSEs"
-pathways_lead: "Three routes most High Wycombe Year 11s take once results day is behind them."
+pathways_lead: "Where your child might head once results day is over."
 pathways:
   - title: "Sixth Forms"
     body: >
-      The Royal Grammar School, John Hampden Grammar and Wycombe High keep most of their own students for A-Level, with conditional offers that vary by subject and tend to be specific about what they want. Amersham School and Princes Risborough run sixth forms too, with broader entry requirements and BTEC routes alongside A-Levels.
+      The Royal Grammar School, John Hampden Grammar and Wycombe High all run sixth forms, and each school's entry grades can differ from subject to subject. Amersham School and Princes Risborough School run sixth forms too, with BTEC courses alongside A-Levels.
   - title: "Apprenticeships"
     body: >
-      Adams Foods in Aylesbury, Heathrow nearby and the Buckinghamshire apprenticeship hub all run schemes drawing from Wycombe Year 11s. Most have minimum requirements in Maths and English, with technical routes asking for specific levels in Sciences.
+      Heathrow and the Buckinghamshire apprenticeship hub both list schemes that Wycombe school leavers apply for. Most set a minimum grade in Maths and English, and the more technical routes often want a particular Science grade as well.
   - title: "Further Education"
     body: >
-      Buckinghamshire College Group's Wycombe campus runs Level 3 vocational courses and BTEC programmes for students taking a different route to A-Levels. Activate Learning's nearby Reading campus also picks up Wycombe students wanting a course outside the grammar pathway.
+      Buckinghamshire College Group's Wycombe campus runs BTECs and other vocational courses at A-Level standard, for teenagers who'd like something more hands-on than A-Levels. Activate Learning's Reading campus is another option some Wycombe families look at.
 
 reviews:
   - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him."
@@ -55,14 +55,14 @@ reviews:
   - "Theresa|Parent|The Degree Gap was fantastic. Their knowledge and guidance helped my son find direction in both his studies and future plans."
   - "Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE thank you"
 
-faq_1_q: "How does a tutor help a Wycombe student aim for a grammar sixth form place?"
-faq_1_a: "Most of the gap between where a student is and where the sixth form is asking for is a question-type problem, not a content one. The tutor takes recent mock papers, identifies the question types where marks are leaking (six-mark Maths problems, AO3 evaluation paragraphs in English, application questions in Sciences), and drills those. Most students see the predicted grade move inside a half term of weekly sessions."
-faq_2_q: "Do you cover all three Sciences for triple-award students in High Wycombe?"
-faq_2_a: "Yes, with separate Biology, Chemistry and Physics specialists. Triple Science students at the grammars tend to plateau on the six and nine-mark questions in one specific subject, not all three. We match a subject specialist for whichever Science is leaking marks, rather than asking one tutor to cover all three."
-faq_3_q: "When should we book GCSE tutoring? Year 10 or wait until Year 11?"
-faq_3_a: "Year 10 is the better start if the gap is content-based, because there's time to rebuild without a clock running. Year 11 makes sense if the issue surfaces in November mocks, and most Wycombe families come to us in January or February ahead of March mocks. Both work. Earlier just means less pressure."
-faq_4_q: "How does online GCSE tutoring work for High Wycombe families?"
-faq_4_a: "All sessions run through Lessonspace, our shared whiteboard. The student joins from home, the tutor marks recent work live on screen, and sessions are recorded so the student can rewatch the bits that didn't click first time. Most Wycombe families pick online because there's no commute on a Tuesday evening, and your child gets the right subject specialist nationally, not just whoever happens to live nearby."
+faq_1_q: "My son's hoping for a grammar sixth form place in Wycombe. How does a tutor help with that?"
+faq_1_a: "By finding exactly where his marks go, which is usually a type of question rather than a whole topic. The tutor works through your son's recent mocks and spots the pattern, maybe the longer problem-solving questions in Maths or the essay answers in English. Then that's what the lessons practise, week after week. Nobody can promise a place, but that's usually where the missing marks are hiding."
+faq_2_q: "Can you help with all three Sciences if my child takes triple Science?"
+faq_2_a: "Yes, all three. What we see most is one science slipping while the other two are fine, often on the six-mark questions. So rather than one tutor spreading an hour across Biology, Chemistry and Physics, we'd usually match a tutor for whichever one's losing your child marks."
+faq_3_q: "Should we book GCSE tutoring in Year 10, or wait until Year 11?"
+faq_3_a: "Either works, and it depends on what's going wrong. If your child's missing chunks of the course, Year 10 gives time to rebuild without a clock running. If the problem shows up in the November mocks, Year 11 is fine, and plenty of Wycombe families get in touch in January or February, before the March mocks. Starting earlier just means less pressure."
+faq_4_q: "How do the online lessons work for High Wycombe families?"
+faq_4_a: "Your child joins from home in the online classroom Lessonspace, and the tutor goes through recent work with them on a shared whiteboard. There's a replay of every lesson, so they can go back over anything that didn't click the first time. And nobody's driving anywhere on a Tuesday evening. Being online also means we can choose from tutors across the UK, not only the ones within driving distance of Wycombe."
 
 sitemap:
   priority: 0.7

@@ -1,41 +1,41 @@
 ---
 title: "Norwich GCSE Tutors | Built Around Your Child | The Degree Gap"
-description: "Norwich GCSE tutors who start with the gap rather than the grade. One-to-one GCSE tutoring matched on exam board, online, from £37 an hour."
+description: "Norwich GCSE tutors who look for the gap behind your child's grade, often from Year 8 or 9, and rebuild from there. One-to-one and online, from £37 an hour."
 layout: "subject"
 location: "Norwich"
 level: "GCSE"
 
 hero_heading_line1: "Online Norwich GCSE Tutors For the Gaps That Opened Long Before Year 11"
 hero_heading_line2: ""
-hero_lead: "By the time a mock grade looks wrong, the cause is usually two years old. Our Norwich GCSE tutors work backwards to the topic that never landed, then forwards from there, instead of revising the bit the class happens to be on."
+hero_lead: "When your child's mock grade comes home lower than you expected, the cause is often a couple of years old. Our Norwich GCSE tutors work back to the topic that never landed, then forward from there, rather than just revising whatever the class is on this week."
 
 grade_from: "5"
 grade_to: "7"
-grade_stat: "A real grade 5 to 6/7 move in GCSE English after six months of one-to-one tutoring."
+grade_stat: "Omo says six months of tutoring took their son from a grade 5 to a 6/7 in English."
 
-first_lesson_eyebrow: "SIX MONTHS, A 5 TO A 6/7"
+first_lesson_eyebrow: "FROM DISENGAGED TO A 6/7"
 first_lesson_heading: "Where a Norwich GCSE Tutor Starts, and Why"
-first_lesson_context: "In a first session with a Norwich Year 10 the same thing tends to surface. Not a subject a student cannot do, but a specific method nobody has re-explained since Year 8. Finding it takes an hour. Undoing two years of building on top of it takes a term."
+first_lesson_context: "In a first lesson with a Norwich Year 10, the same thing tends to come up. It's rarely a whole subject your child can't do, just one method nobody's re-explained since Year 8. Finding it takes an hour, but sorting out everything built on top of it takes a term or so."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him."
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to Grade 6/7 in English"
 
-tutor_strip_heading: "Norwich GCSE tutors matched to the spec, wherever they live"
-tutor_strip_body: "Norfolk is a big county and the right AQA Biology specialist is rarely the nearest one. Online removes that problem entirely. Every tutor covering Norwich clears a founder-led interview only about 3% of applicants pass. Browse the profiles, or let us introduce you."
+tutor_strip_heading: "Norwich GCSE tutors who know your child's exam board"
+tutor_strip_body: "Norfolk's a big county, and the best AQA Biology tutor for your child is rarely the nearest one. Online, that stops mattering. Every tutor has passed an interview with Harry or Joe, which only about 3% of applicants do. Look through the profiles, or we'll introduce you."
 
 pathways_heading: "Where Norwich Year 11s Go After Results Day"
-pathways_lead: "Three routes Norwich families tend to weigh up once Year 11 is done."
+pathways_lead: "If you're already wondering what comes after Year 11, these are the three routes Norwich families look at most."
 pathways:
   - title: "Sixth Forms"
     body: >
-      City College Norwich runs the largest post-16 provision in the county, with sixth forms at Notre Dame High School and Wymondham College drawing students from well beyond their own catchments. Each publishes its own entry requirements, and A-Level courses generally ask for a grade in the subject itself.
+      A lot of Norwich teenagers go on to City College Norwich, while the sixth forms at Notre Dame High School and Wymondham College draw from well beyond their own catchments. If your child has one in mind, check its entry requirements early, as most A-Level courses ask for a particular grade in that subject.
   - title: "Apprenticeships"
     body: >
-      Aviva runs school-leaver and apprenticeship routes from its Norwich head office, and Lotus takes engineering apprentices at Hethel. Most ask for grade 4 to 5 in Maths and English before anything else is looked at.
+      Aviva takes on school leavers and apprentices at its Norwich offices, and Lotus trains engineering apprentices at Hethel. Expect most schemes to ask for at least a 4 or 5 in Maths and English.
   - title: "Further Education"
     body: >
-      City College Norwich and Easton College carry most of the Level 3 and T Level provision locally, with Easton covering the land-based and agricultural routes Norfolk needs. A confident 4 or 5 in Maths and English opens the majority of them.
+      Easton College is the local college for farming and other land-based courses, and City College Norwich runs many of the city's other Level 3 and T Level courses, the next step up from GCSEs. A 4 or 5 in Maths and English opens most of them.
 
 reviews:
   - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him."
@@ -55,14 +55,14 @@ reviews:
   - "Marfa|Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university"
   - "Lisa|Parent|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
 
-faq_1_q: "How far back does a tutor actually go when a student is behind?"
-faq_1_a: "As far as the diagnostic says, which is often further than the school has time to check. If a Year 11 cannot rearrange an equation, the useful work is the rearranging, not the topic it appeared in. That feels like going backwards for the first few weeks. It is the only version of this that holds, because everything after it is built on the same method."
-faq_2_q: "Do your tutors teach the exam boards Norfolk schools use?"
-faq_2_a: "Yes, and we match on it before subject preference or availability. Schools across Norwich run AQA, Edexcel and OCR between them, sometimes different boards for different subjects in the same building. The content overlaps but the wording, the mark schemes and the structure of the papers do not, and technique marks are lost in exactly that gap."
-faq_3_q: "Is online tutoring a compromise if we live outside the city?"
-faq_3_a: "The opposite, in a county this size. Online means the tutor is chosen for knowing your child's specification rather than for living within driving distance, which matters more the further out you are. Sessions run on Lessonspace, a shared whiteboard, and everything written during the hour is saved for revision later. No car journey on a school night either."
-faq_4_q: "What does GCSE tutoring cost here?"
-faq_4_a: "From £37 an hour. The rate depends on the tutor's experience and is agreed with you before any session happens. Most Norwich families run a weekly hour through Year 10 and 11, then add a second in the run-up to mocks. There is no joining fee, no minimum term, and you can stop whenever it has done its job."
+faq_1_q: "How far back will a tutor go if my child's fallen behind?"
+faq_1_a: "As far back as the gaps go, which is often further than school has time to check. If a Year 11 can't rearrange an equation, the rearranging is what needs the work, not the topic it turned up in. For the first few weeks that can feel like going backwards. But it's the fix that lasts, because so much later work leans on that same method."
+faq_2_q: "Do your tutors cover the exam boards Norfolk schools use?"
+faq_2_a: "Yes, and we match on the board before we look at who's free. Between them, schools across Norwich use AQA, Edexcel and OCR, sometimes a different board for each subject in the same school. The topics overlap, but the wording, mark schemes and layout of the papers don't, and that's where a lot of marks quietly slip away."
+faq_3_q: "We live outside the city. Is online tutoring second best?"
+faq_3_a: "Not at all, and in a county this size it's often the better option. We can choose a tutor for knowing your child's exam board, not for living within driving distance. Lessons use the platform Lessonspace, where your child and the tutor share a whiteboard, and every lesson has a replay for revision. And there's no school-night drive to fit in."
+faq_4_q: "How much is GCSE tutoring in Norwich?"
+faq_4_a: "From £37 an hour, depending on how experienced the tutor is, and we'll agree the rate with you before any lessons happen. Plenty of families keep to one lesson a week, then add a second as the mocks get closer. There's no joining fee and no minimum term, so you can stop once it's done its job."
 
 sitemap:
   priority: 0.7
