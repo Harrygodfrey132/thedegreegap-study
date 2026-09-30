@@ -17,7 +17,7 @@ first_lesson_eyebrow: "WHY YEAR 12 CATCHES PEOPLE OUT"
 first_lesson_heading: "The Subject Changed. Nobody Announced It."
 first_lesson_context: "A student can walk out of Year 11 with a strong set of grades and be genuinely lost by the spring of Year 12. That is not effort and it is not the school. A-Level asks for sustained argument, method carried across several steps, and independent practice in a volume nobody has ever required before. Recall alone, which carried GCSE, now scores about half. The fix is a change in how a student works rather than more hours of the same, so the first session looks at how a paper was attempted rather than at what was known."
 
-first_lesson_quote: "The A-Level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing."
+first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing."
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "A-Level"

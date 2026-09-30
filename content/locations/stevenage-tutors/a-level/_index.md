@@ -17,7 +17,7 @@ first_lesson_eyebrow: "WHERE YEAR 12 GOES WRONG"
 first_lesson_heading: "The Jump From GCSE That Nobody Warns Students About"
 first_lesson_context: "A student can leave Year 11 with a good set of grades and be genuinely lost by the second half of Year 12. That is not a failure of effort or of the school, it is that A-Level asks for something GCSE did not: sustained argument, method held across several steps, and independent practice in a volume nobody has ever required before. Students who could carry GCSE on recall find that recall alone now scores about half. The fix is a change in how they work rather than more hours of the same, which is why the first session looks at how a paper was attempted rather than at what was known."
 
-first_lesson_quote: "The A-Level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing."
+first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing."
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "A-Level"
