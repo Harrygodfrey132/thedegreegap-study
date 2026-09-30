@@ -1,41 +1,38 @@
 ---
 title: "Swindon A-Level Tutors | Expert Tutors | The Degree Gap"
-description: "Swindon A-Level tutors who work on the exam paper rather than the textbook. One-to-one A-Level tutoring matched on specification, from £37 an hour."
+description: "If your child knows the work but drops marks on paper, our Swindon A-Level tutors can help. One-to-one lessons online, matched to the exam board, from £37."
 layout: "subject"
 location: "Swindon"
 level: "A-Level"
 
-hero_heading_line1: "Online Swindon A-Level Tutors Who Work on the Paper, Not the Textbook"
+hero_heading_line1: "Online Swindon A-Level Tutors for Teens Who Know It but Drop Marks on Paper"
 hero_heading_line2: ""
-hero_lead: "By Year 13 the content has usually been taught. What has not been taught is how to convert it inside a timed paper. Our Swindon A-Level tutors spend the hour on that, because it is where the last band nearly always sits."
+hero_lead: "By Year 13 your child has been taught most of the course. Turning it into marks in a timed paper is a separate skill, and there's rarely class time to drill it. Our Swindon A-Level tutors spend the hour on exactly that."
 
 grade_from: "E"
 grade_to: "C"
-grade_stat: "A real move from E and U grades to three C grades at A-Level, in the parent's own words."
+grade_stat: "E and U grades turned into three Cs: that's how one parent put it in the review below."
 
 first_lesson_eyebrow: "E AND U GRADES TO THREE Cs"
-first_lesson_heading: "What a Swindon A-Level Tutor Fixes First"
-first_lesson_context: "Something we see constantly with Swindon Year 13s: a student who can explain a topic out loud perfectly well and then loses half the marks writing it down. That is not a knowledge problem and revising harder will not touch it. The first session is a marked script and a mark scheme, side by side."
+first_lesson_heading: "The First Thing a Swindon A-Level Tutor Fixes"
+first_lesson_context: "Your child can talk through a topic perfectly well, then loses half the marks writing it down. We see it all the time with Swindon Year 13s, and it isn't a knowledge problem, so more revision won't touch it. The first lesson with an A-Level tutor is a marked answer and the mark scheme, side by side."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing."
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Grade E to Grade C across three A-Levels"
 
-tutor_strip_heading: "Swindon A-Level tutors who know the specification cold"
-tutor_strip_body: "The right OCR Physics or Edexcel Economics specialist is rarely the closest one to Swindon, and online makes that irrelevant. Most tutors here are Russell Group graduates and many are qualified examiners. Browse the profiles, or ask us to match you."
+tutor_strip_heading: "Swindon A-Level tutors chosen by subject and exam board"
+tutor_strip_body: "The best tutor for OCR Physics or Edexcel Economics is rarely the one who lives nearest, and being online means that doesn't matter. Every tutor on our platform went to a Russell Group university. Have a browse, or leave the choosing to us."
 
 pathways_heading: "Life After A-Levels in Swindon"
-pathways_lead: "Results day tends to point Swindon students at one of three destinations."
+pathways_lead: "When results day comes, most Swindon families are weighing up one of these three."
 pathways:
   - title: "Universities"
-    body: >
-      Bath, Bristol, UWE, Oxford Brookes and Reading all take a steady flow of students from Swindon, and the town's position on the Great Western line keeps most of them within commuting reach. Each course publishes its own entry requirements, and the more competitive ones ask near the top of the A-Level band.
+    body: "Bath, Bristol, UWE, Oxford Brookes and Reading are all within reach from Swindon, and the Great Western line makes several of them an easy train ride. Each course sets its own entry grades, and the more competitive ones ask for grades near the top."
   - title: "Degree Apprenticeships"
-    body: >
-      Nationwide Building Society runs degree apprenticeships from its Swindon head office, and Zurich and Intel both have a presence in the town with school-leaver routes attached. These schemes publish predicted-grade thresholds that vary by programme and close early in Year 13.
+    body: "Nationwide Building Society runs degree apprenticeships from its Swindon head office, and Zurich and Intel both have offices in town too. Entry grades differ from one scheme to the next, and the deadlines often land in the autumn of Year 13."
   - title: "Career Pathways"
-    body: >
-      A lot of students move straight into the NHS at Great Western Hospital, or into the financial services and engineering employers the town is built around. A-Level subject choices still shape which of those routes stay open later.
+    body: "Straight into work is common too, at Great Western Hospital or with one of the town's finance and engineering employers. It's worth checking which subjects and grades those roles ask for well before your child applies."
 
 reviews:
   - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
@@ -56,13 +53,13 @@ reviews:
   - "Tommy|University Student|I wish I had found The Degree Gap when I was sitting my school exams. They helped with my dissertation work and without their help I am not sure I would have graduated so successfully and landed a successful job."
 
 faq_1_q: "He knows it out loud and loses marks on paper. How do you fix that?"
-faq_1_a: "By marking his own writing in front of him, repeatedly. Talking a topic through has no structure requirement, so a student can sound fluent and still miss the specific things a mark scheme rewards. The tutor takes a real answer, marks it the way an examiner would, and shows exactly where the marks were and were not there. It is uncomfortable for two sessions and then it clicks."
+faq_1_a: "By marking his written answers with him, again and again. When he talks a topic through, nobody's checking the structure, so he can sound fluent and still miss what the mark scheme is looking for. The tutor takes a real answer, marks it the way an examiner would, and shows him where the marks were and where they weren't. It can feel a bit uncomfortable for a lesson or two. Then it usually starts to click."
 faq_2_q: "His predicted grade is under the offer he needs. Can that still change?"
-faq_2_a: "Often, yes, though timing decides how much. A prediction reflects a body of work, so changing it means changing what that work looks like soon enough for a teacher to notice. Before the Year 13 mock there is real room. Afterwards the conversation shifts towards the summer exams and results day, which is a different plan but not a hopeless one."
-faq_3_q: "Do you cover A-Level Sciences with separate specialists?"
-faq_3_a: "Yes, and at A-Level we would push for it. Biology, Chemistry and Physics stop being one subject group once the maths in Physics and the mechanisms in Chemistry arrive. A student taking all three often works with more than one tutor, though we would usually start with whichever is genuinely holding the offer back rather than all three at once."
+faq_2_a: "It can, but timing decides how much. A prediction is based on a whole body of work, so it only moves if your son's work changes before his teachers send it off with his UCAS application. After that, the focus shifts to the summer exams, because the grade he gets on results day is what the offer depends on. That's a different plan, but it's not a hopeless one."
+faq_3_q: "Can my child have a different tutor for each Science?"
+faq_3_a: "Yes, and at A-Level we'd usually suggest it. Biology, Chemistry and Physics pull apart once the maths in Physics and the reaction mechanisms in Chemistry arrive. If your child takes all three, they may end up with more than one tutor. But we'd normally start with whichever one is really holding the offer back, not all three at once."
 faq_4_q: "How quickly can my child start?"
-faq_4_a: "Usually within a week. A fifteen-minute call with Harry or Joe first, with no obligation attached. Two or three tutor profiles inside 24 hours, then a free fifteen-minute meeting with whoever you choose before anything is paid for. Most Swindon families are matched within a day of that first conversation."
+faq_4_a: "Usually within a week. First there's a free fifteen-minute call with Harry or Joe, with no obligation. You'll get two or three tutor profiles within 24 hours of it, then a free fifteen-minute meeting with whoever you like best, before you pay for anything. And if they don't click, we'll find someone else at no charge."
 
 sitemap:
   priority: 0.7

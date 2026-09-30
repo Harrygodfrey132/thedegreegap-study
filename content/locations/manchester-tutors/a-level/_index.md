@@ -1,42 +1,42 @@
 ---
 title: "Manchester A-Level Tutors | Online One-to-One | The Degree Gap"
-description: "Manchester A-Level tutoring for Year 12 and Year 13. One-to-one tutors who lift predicted grades for the Russell Group and degree apprenticeships."
+description: "If the predicted grade is short of the offer your child wants, our Manchester A-Level tutors can help. One-to-one lessons online, from £37 an hour, no contract."
 layout: "subject"
 location: "Manchester"
 level: "A-Level"
 
-hero_heading_line1: "Online Manchester A-Level Tutors For UCAS Offers and the City's Best Apprenticeships"
+hero_heading_line1: "Online Manchester A-Level Tutors to Close the Gap Between the Prediction and the Offer"
 hero_heading_line2: ""
-hero_lead: "Predicted grades arriving below the offer you had in mind. Our Manchester A-Level tutors lift students into the band the University of Manchester, the wider Russell Group, and the city's degree-apprenticeship schemes are actually asking for."
+hero_lead: "The predicted grades are in, and they're below the offer your child had in mind. Our Manchester A-Level tutors find where the marks are slipping and work on them, whether the aim's a university place or a degree apprenticeship."
 
 grade_from: "C"
 grade_to: "A"
-grade_stat: "Real A-Level grade movement of almost two grades higher than a Year 13 mock paper, from a student we worked with."
+grade_stat: "One parent's son beat his Year 13 mock by almost two grades. It's the kind of move weekly lessons aim for, though nobody can promise it."
 
 first_lesson_eyebrow: "BEFORE THE UCAS BUTTON GOES IN"
-first_lesson_heading: "Where a Manchester A-Level Tutor Starts in Year 12"
-first_lesson_context: "The conversation we hear most often from Manchester parents starts in Year 12, after the end-of-year mock. The student got 8s and 9s at GCSE and is now sitting on a Year 12 C. A Manchester A-Level tutor reads that paper in week one, finds where the depth has slipped, and the plan from session two builds the AO3 evaluation and multi-step technique the second year actually rewards."
+first_lesson_heading: "The Year 12 Exam Paper Is Where a Manchester A-Level Tutor Begins"
+first_lesson_context: "The call we get most from Manchester parents comes after the Year 12 end-of-year exams: 8s and 9s at GCSE, and now a C. The tutor goes through that paper with your child in the first week to see exactly what cost the grade. From the second lesson, they work on weighing up an argument and on multi-step working, which is what Year 13 papers reward."
 
 first_lesson_quote: "My son gained almost two grades higher than his year 13 mock paper. His tutor was excellent."
 first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Two grades above Year 13 mock"
 
-tutor_strip_heading: "Manchester A-Level tutors who've sat the Manchester and Russell Group gates"
-tutor_strip_body: "Our Manchester A-Level tutors are Manchester, Russell Group and Oxbridge graduates who've recently come through the same papers and the same UCAS gates. Matched by specification, not just subject. Browse profiles, or we'll make the introduction."
+tutor_strip_heading: "Manchester A-Level tutors who've done the Russell Group route themselves"
+tutor_strip_body: "The tutors on our platform are all Russell Group graduates, including some from Manchester and from Oxford and Cambridge. We match on your child's exam board, not just the subject. Have a look at their profiles, or we'll send you two or three after a free call."
 
-pathways_heading: "Beyond A-Levels in Manchester: Universities, Apprenticeships, Careers"
-pathways_lead: "Three routes Manchester A-Level families take once UCAS results land."
+pathways_heading: "Manchester After A-Levels: The Routes Your Child Might Take"
+pathways_lead: "By Year 13, most Manchester families are choosing between these three."
 pathways:
   - title: "Universities"
     body: >
-      The University of Manchester sits inside the city and admits one of the largest Russell Group undergraduate intakes, with strong cohorts also heading to UCL, Imperial, LSE, Leeds and Sheffield. An A-Level Sciences tutor in Year 12 can help lift the predicted grade towards what the competitive Medicine and Engineering courses ask for.
+      The University of Manchester, right in the city, has one of the Russell Group's biggest undergraduate intakes, and plenty of Manchester teenagers apply to Leeds, Sheffield or London too. For competitive Medicine and Engineering courses, a Sciences tutor in Year 12 can help your child reach the grades those offers ask for.
   - title: "Degree Apprenticeships"
     body: >
-      BNY Mellon and Goldman Sachs run engineering and finance degree apprenticeships out of Spinningfields, with PwC, KPMG and Deloitte running parallel schemes from the same Manchester offices. Each has its own published grade requirements; the technical Goldman routes ask the highest.
+      BNY Mellon runs engineering and finance degree apprenticeships in Manchester, and PwC, KPMG and Deloitte run their own schemes from city-centre offices. Each publishes its own grade requirements, which can change from one intake to the next.
   - title: "Career Pathways"
     body: >
-      BBC and ITV at MediaCityUK pull Manchester A-Level leavers into broadcast, production and tech routes without the university step in between. The Co-op at Angel Square, Booking.com and Cisco add software and operations roles, and Manchester is one of the only UK cities where these graduate-employer routes sit inside the same city as a major Russell Group university.
+      The BBC and ITV at MediaCityUK take on some A-Level leavers in broadcast, production and tech, with no degree first. The Co-op at Angel Square, Booking.com and Cisco add software and operations jobs, all within reach of home.
 
 reviews:
   - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than his year 13 mock paper. His tutor was excellent."
@@ -57,14 +57,14 @@ reviews:
   - "Alex|University Student|Can’t recommend The Degree Gap highly enough. Quick and helpful responses from Harry. He immediately matched me with a very competent tutor, who was a massive help in helping me exceed my target grade and achieve a first class degree at university."
   - "Tommy|University Student|I wish I had found The Degree Gap when I was sitting my school exams. They helped with my dissertation work and without their help I am not sure I would have graduated so successfully and landed a successful job."
 
-faq_1_q: "My son is targeting a degree apprenticeship at BNY Mellon or Goldman Sachs in Manchester. Can a tutor help with that?"
-faq_1_a: "Yes. Both schemes screen on predicted grades first, and a Manchester A-Level tutor in Year 12 is usually what shifts the predicted grade into the band the application stage needs. From there, the work runs alongside subject tutoring through the application year, with technical-test prep added for the engineering routes."
-faq_2_q: "Will tutoring help with the EPQ alongside the three A-Levels?"
-faq_2_a: "Yes. The EPQ rewards a clear research question, properly cited evidence, and a defended conclusion. We pair students with A-Level tutors who've examined or marked EPQs before, and the work fits alongside the main three subjects rather than competing with them. Final submitted work stays the student's own."
-faq_3_q: "Can an A-Level tutor help with a University of Manchester Medicine application?"
-faq_3_a: "Yes. Manchester Medicine asks for top A-Level grades including Biology and a second science, plus a strong UCAT score. We pair students with tutors who've sat the UCAT, walked candidates through Manchester Medicine interviews, and know what the admissions process weights. The work runs from late Year 12 through to interview prep in December."
-faq_4_q: "What does an A-Level retake plan in Manchester look like?"
-faq_4_a: "Retakes need a different approach from first-attempt A-Level tutoring. Manchester retake students usually know the content but need to fix what went wrong on exam day, where pacing slipped, where evaluation went shallow. We pair retake students with A-Level tutors who've coached the exact specification, and the work is faster and more targeted than a Year 12 plan."
+faq_1_q: "My son's aiming for a degree apprenticeship at BNY Mellon in Manchester. Can a tutor help?"
+faq_1_a: "Yes. Schemes like BNY Mellon's look closely at predicted grades. Those come mostly from his Year 12 work, which is why lessons that year matter most. After that, the lessons carry on through the application year, with practice for the technical tests if he's going for an engineering route."
+faq_2_q: "Can a tutor help with the EPQ as well as the three A-Levels?"
+faq_2_a: "Yes. The EPQ, a long research project your child picks themselves, rewards a clear question, properly referenced evidence and a conclusion they can defend. We'll look for a tutor who knows how it's marked, and the work fits around the main three subjects rather than competing with them. And the finished project stays your child's own work."
+faq_3_q: "My daughter wants to study Medicine at Manchester. Can you help with more than the A-Levels?"
+faq_3_a: "Yes. Manchester Medicine asks for top A-Level grades with sciences among them, plus the UCAT admissions test. Alongside her A-Level lessons, we'll look for tutors who know the UCAT and how medical interviews tend to run. It usually starts in late Year 12 and carries on to interview practice in the winter of Year 13."
+faq_4_q: "My child needs to retake an A-Level. What would the lessons look like?"
+faq_4_a: "Different from a first go. Most retakers already know much of the content, so the work goes on what went wrong on the day: pacing that slipped, or answers that stayed on the surface. We'll match your child with a tutor who knows the exact course and exam board, and the plan's shorter and more targeted than a Year 12 one."
 
 sitemap:
   priority: 0.7

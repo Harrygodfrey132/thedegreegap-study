@@ -1,41 +1,41 @@
 ---
 title: "Welwyn Garden City A-Level Tutors | Online One-to-One | The Degree Gap"
-description: "Welwyn Garden City A-Level tutors for the step up into Year 13. One-to-one online tutoring matched on the specification, from £37 an hour."
+description: "Year 13 feeling harder because Year 12 never quite stuck? Welwyn Garden City A-Level tutors, one-to-one and online, from £37 an hour, with no contract."
 layout: "subject"
 location: "Welwyn Garden City"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutoring for Welwyn Garden City Students"
+hero_heading_line1: "Online Welwyn Garden City A-Level Tutors for When Year 13 Suddenly Feels Harder"
 hero_heading_line2: ""
-hero_lead: "Year 13 content assumes Year 12 landed properly, and for a lot of students it did not quite. Our Welwyn Garden City A-Level tutors go back for the bit that was skated over."
+hero_lead: "Your child coped with Year 12. Now every new Year 13 topic seems to trip them up, and that's usually something from last year that never quite stuck. Our Welwyn Garden City A-Level tutors go back and find it."
 
 grade_from: "E"
 grade_to: "C"
-grade_stat: "A real A-Level turnaround, from E and U grades to three C grades, for a student who left the work late."
+grade_stat: "A parent's review, not a promise: their son had left the work late and still turned E and U grades into three Cs."
 
-first_lesson_eyebrow: "YEAR 13 ASSUMES YEAR 12 WORKED"
-first_lesson_heading: "Why the Second Year Exposes the First One"
-first_lesson_context: "A-Level is built so that the second year leans on the first. A student who got through Year 12 by working hard the fortnight before each assessment can come out with a respectable grade and no durable grasp of the material, and Year 13 will find that out. The topics build directly, so the gap does not stay where it was left. It reappears inside every new chapter, and the student concludes the subject has suddenly got harder rather than that something behind them is missing."
+first_lesson_eyebrow: "WHERE YEAR 13 TROUBLE STARTS"
+first_lesson_heading: "Last Year's Topics Come First With a Welwyn Garden City A-Level Tutor"
+first_lesson_context: "It can look as if Year 13 is the problem. More often, a Year 12 topic went in for a test and didn't stay, and now every new chapter sits on top of it. So the tutor goes through some recent marked work with your child, finds the Year 12 topics the rest is leaning on, and fixes those first."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades to three C grades at A-Level"
 
 tutor_strip_heading: "Welwyn Garden City A-Level tutors who go back before going forward"
-tutor_strip_body: "Students at Monk's Walk, Sir Frederic Osborn, Stanborough and the sixth forms around Hatfield sit different boards, so we confirm the specification first. Most tutors are recent graduates who remember exactly which Year 12 topics Year 13 leans on, and each clears a founder-led interview that around 3% of applicants pass."
+tutor_strip_body: "Monk's Walk, Sir Frederic Osborn, Stanborough and the Hatfield sixth forms don't all use the same exam boards. So we find out which ones your child's on first. Harry or Joe interview every tutor, and only around 3% of applicants get through. Book a free call to see profiles."
 
-pathways_heading: "Where A-Levels Take Welwyn Garden City Students Next"
-pathways_lead: "Three routes families across the town weigh up across sixth form."
+pathways_heading: "After Welwyn Garden City A-Levels: Where Your Child Might Head Next"
+pathways_lead: "Three routes families here tend to weigh up, often before Year 13 starts."
 pathways:
   - title: "Universities"
     body: >
-      Students apply across the country, with London within commuting distance and the eastern and Midlands universities nearby. Conditional offers rest on predicted grades made during Year 12, months before any final exam is sat.
+      Your child could commute into London for university, or look at universities across the East and the Midlands, all within easy reach. Offers are made on the predicted grades the school sends, long before any final exam is sat.
   - title: "Degree Apprenticeships"
     body: >
-      The large employers headquartered in and around the town run degree apprenticeship schemes, each publishing its own entry requirements which change between intakes. Most ask for a written application alongside the grades, and deadlines frequently fall before the UCAS one.
+      Several big employers in and around the town run degree apprenticeships, each with its own entry grades that can change between intakes. Most also ask for a written application, and deadlines often fall before the UCAS one.
   - title: "Further Education and Work"
     body: >
-      Oaklands College runs Level 3 and technical routes locally, and several major employers in the town recruit at eighteen into trainee and technician roles.
+      Oaklands College runs technical courses locally, for anyone who'd rather switch to something more hands-on. And some of the bigger employers in town take on trainees and technicians straight from sixth form at eighteen.
 
 reviews:
   - "Mahir|A-Level Student|Harry was an excellent teacher that helped me gain real grip of the complicated areas in my subjects like economics - I'd highly recommend for anyone looking to consistently perform at their best."
@@ -50,13 +50,13 @@ reviews:
   - "J.O|A-Level Student|I was put into contact with Harry from a friend of mine who did economics in the year above me. And at first I was hesitant on getting a Tutor as I wasn’t sure if they were effective especially for the price they demand, but this wasn’t the case with Harry. He’s helped me massively with my essays, topics I didn’t understand beforehand and overall confidence with the subject. I highly recommend!"
 
 faq_1_q: "He got through Year 12 fine and Year 13 has fallen apart. What happened?"
-faq_1_a: "Usually that Year 12 was passed rather than learned. Cramming a fortnight before each assessment produces a reasonable grade and very little that lasts, and A-Level is built so the second year leans directly on the first. The fix is going back for the specific Year 12 topics the current work depends on, which is faster than it sounds because the student has met the material before, even if it did not stay."
+faq_1_a: "Usually, Year 12 got passed rather than learned. Cramming the fortnight before each test gets a decent grade, but not much of it lasts. And A-Level is built so the second year leans on the first. The fix is going back for the few Year 12 topics his current work depends on. It's quicker than it sounds, because he's met it all before, even if it didn't stay."
 faq_2_q: "Is it too late to start in Year 13?"
-faq_2_a: "No, but the plan is different. In Year 12 there is room to rebuild study habits and content properly. From Year 13 the work is more targeted: identify which earlier topics the current ones depend on, repair those, and drill exam technique alongside. Plenty of students move a full grade from a Year 13 start. Starting before Christmas matters more than starting in Year 12 or not."
-faq_3_q: "Do you match on the exam board?"
-faq_3_a: "Yes, and at A-Level it decides more than at GCSE. The boards structure papers differently, mark extended answers to different criteria and give different amounts of formula support, and those differences decide marks at the top of the band. We confirm the specification on the consultation call and match tutors to it, rather than to the subject in general."
-faq_4_q: "What if the tutor is not right for my child?"
-faq_4_a: "Tell us and we re-match with no charge. Every family speaks with Harry or Joe before a tutor is proposed, and there is a free 15-minute video meeting before any paid session, which catches most mismatches before they cost anything. At seventeen a student knows quickly whether somebody's explanations land. No contract, no minimum term."
+faq_2_a: "No, though the plan looks different. In Year 12 there's time to rebuild habits and content properly. In Year 13 it's more targeted: patch the earlier topics the current ones rest on, and practise exam technique alongside. Plenty of families start in Year 13. The thing that matters most is starting before Christmas rather than after."
+faq_3_q: "Does the tutor need to know which exam board my child is on?"
+faq_3_a: "Yes, and it matters more at A-Level than at GCSE. AQA, Edexcel and OCR lay their papers out differently, mark long answers against different criteria, and even differ in how much formula help they give. Those differences are worth real marks, whatever grade your child's working at. On the call we'll find out your child's exam board, and only put forward tutors who teach it."
+faq_4_q: "What if my child doesn't get on with the tutor?"
+faq_4_a: "Just say so, and we'll line up someone new without charging you. Before any tutor is put forward, you'll have spoken to Harry or Joe. Then your child meets the tutor in a free 15-minute video meeting, so most mismatches show up before you've paid for a lesson. At seventeen, they usually know fast whether someone's explanations make sense. No contract, no minimum term."
 
 sitemap:
   priority: 0.7

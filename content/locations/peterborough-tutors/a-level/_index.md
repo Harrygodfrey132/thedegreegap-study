@@ -1,41 +1,38 @@
 ---
 title: "Peterborough A-Level Tutors | One-to-One | The Degree Gap"
-description: "Peterborough A-Level tutors who close the Year 12 gap before it reaches UCAS. One-to-one A-Level tutoring matched on specification, from £37 an hour."
+description: "One-to-one online A-Level tutoring in Peterborough for when Year 12 goes wrong after good GCSEs. Weekly lessons from £37 an hour, and no contract to sign."
 layout: "subject"
 location: "Peterborough"
 level: "A-Level"
 
-hero_heading_line1: "Online Peterborough A-Level Tutors For Year 12, Before the Gap Widens"
+hero_heading_line1: "Online A-Level Tutors in Peterborough for a Hard Year 12 After Good GCSEs"
 hero_heading_line2: ""
-hero_lead: "A-Level content compounds, so a shaky first term quietly makes the second one harder. Our Peterborough A-Level tutors would rather work in Year 12 than spend Year 13 trying to catch up on two years at once."
+hero_lead: "At A-Level each topic builds on the last, so a shaky first term quietly makes the next one harder. Our Peterborough A-Level tutors would much rather steady things in Year 12 than have your child catching up on two years at once in Year 13."
 
 grade_from: "C"
 grade_to: "A"
-grade_stat: "A real A-Level jump from Cs to As after one-to-one tutoring, alongside help with university choices."
+grade_stat: "Cs to As at A-Level, plus a hand with university choices, for one family we worked with."
 
 first_lesson_eyebrow: "FROM Cs TO As"
 first_lesson_heading: "How a Peterborough A-Level Tutor Uses the First Month"
-first_lesson_context: "Most Peterborough families reach us at the point where the Year 12 summer exams have come back below what everyone assumed. That is early enough to matter. The tutor spends the first month working out which of the three subjects is genuinely at risk, rather than spreading an hour thinly across all of them."
+first_lesson_context: "Lots of Peterborough families call us when the Year 12 summer exams come back lower than anyone expected. That's still early enough to matter. The first month with an A-Level tutor is about finding which of your child's three subjects is really at risk, so the lessons go where they're needed rather than being spread thin."
 first_lesson_quote: "The Degree Gap helped my child go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and applications."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Grade C to Grade A across A-Levels"
 
-tutor_strip_heading: "Peterborough A-Level tutors who have marked these papers before"
-tutor_strip_body: "Most tutors covering Peterborough are Russell Group graduates and many are qualified examiners. And at A-Level that matters, because the last band is technique rather than content almost every time. Browse the profiles, or ask us to match you."
+tutor_strip_heading: "Peterborough A-Level tutors who know how the papers are marked"
+tutor_strip_body: "Every tutor on our platform is a Russell Group graduate, and some mark for the exam boards too. And at A-Level that matters, because the last grade often comes down to technique rather than content. Have a look at the profiles, or let us suggest someone for your child."
 
-pathways_heading: "Where Peterborough A-Level Students Go Next"
-pathways_lead: "Three destinations worth keeping in view from the first session, not the last."
+pathways_heading: "Peterborough A-Levels, and What Comes After"
+pathways_lead: "Worth keeping in mind from the first lesson, not just the last."
 pathways:
   - title: "Universities"
-    body: >
-      ARU Peterborough opened in the city in 2022 and now runs degrees and degree apprenticeships locally, while students also apply heavily into Nottingham, Leicester, Loughborough and Cambridge. Each course publishes its own entry requirements, and the more competitive ones ask near the top of the A-Level band.
+    body: "ARU Peterborough opened in the city in 2022 and runs degrees and degree apprenticeships right on your doorstep, and Nottingham, Leicester, Loughborough and Cambridge aren't far away either. Each course sets its own entry grades, and the most competitive ones ask for top grades."
   - title: "Degree Apprenticeships"
-    body: >
-      Perkins Engines is one of the employer partners behind degree apprenticeships at ARU Peterborough, and employers across the city take school leavers onto similar routes. These schemes publish predicted-grade thresholds that vary by programme and close early in Year 13.
+    body: "Perkins Engines is one of the employers behind degree apprenticeships at ARU Peterborough, and other firms across the city take school leavers onto similar routes. Each scheme sets its own grades and many close early in Year 13, so it pays to look in Year 12."
   - title: "Career Pathways"
-    body: >
-      Plenty of students move straight into the NHS at Peterborough City Hospital or into the logistics and manufacturing employers along the A1 corridor. A-Level subject choices still decide which of those doors stay open.
+    body: "Some school leavers go straight into work, at Peterborough City Hospital or with the logistics and manufacturing firms along the A1. Even then, your child's A-Level subjects and grades shape which of those jobs they can go for."
 
 reviews:
   - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
@@ -56,13 +53,13 @@ reviews:
   - "Alex|University Student|Can’t recommend The Degree Gap highly enough. Quick and helpful responses from Harry. He immediately matched me with a very competent tutor, who was a massive help in helping me exceed my target grade and achieve a first class degree at university."
 
 faq_1_q: "He got good GCSEs and Year 12 has gone badly. What changed?"
-faq_1_a: "The amount of independent work, mostly. GCSE rewards a student who listens well in class and revises at the end. A-Level assumes work is happening between lessons that nobody checks, and students who never needed a study habit arrive without one. It reads as a drop in ability and it almost never is. That is also why Year 12 is the cheapest time to fix it."
-faq_2_q: "Can a tutor help with a degree apprenticeship application?"
-faq_2_a: "Yes. These routes screen on predicted grades first, so the subject work is the main event, and applications open earlier in Year 13 than most families expect. A tutor can also help a student talk about their subjects clearly at the assessment stage. Every scheme publishes its own requirements, and they vary by programme, so check the specific route rather than assuming."
+faq_1_a: "Mostly, the amount of work he's expected to do on his own. GCSE rewards a child who listens in class and revises at the end. A-Level assumes work is happening between lessons that nobody checks, and if your son never needed a study habit before, he won't have one yet. It looks like a drop in ability, but that's very rarely what it is. So it can be sorted, and Year 12 is the easiest time to do it."
+faq_2_q: "My daughter's looking at degree apprenticeships instead of university. Is tutoring still useful?"
+faq_2_a: "Yes. Many schemes look at predicted grades first, so the subject work still matters most. And applications open earlier in Year 13 than a lot of families expect. A tutor can also help your daughter talk about her subjects clearly when it gets to the assessment day. Every scheme sets its own requirements, so it's worth checking the exact route rather than guessing."
 faq_3_q: "Is it worth tutoring all three subjects at once?"
-faq_3_a: "Usually not, and we will say so. Three weekly hours is a lot of money and a lot of a teenager's week, and it tends to produce three shallow interventions instead of one that works. Better to find the subject genuinely holding the offer back, fix that properly, then reassess. Sometimes the honest answer is that one subject needs six weeks and nothing else does."
-faq_4_q: "What if the tutor is not the right fit?"
-faq_4_a: "We re-match, no awkwardness. Every family talks to Harry or Joe before a tutor is proposed, which is why most first matches work out. But at seventeen how someone explains things matters as much as what they know, and that is only really testable in a session. There is no contract and no minimum commitment."
+faq_3_a: "Usually not, and we'll tell you so. Three lessons a week is a lot of money and a lot of your child's week, and it often means none of the three gets enough attention to shift. It's better to find the one subject that's really holding things back, fix that properly, then look again. Sometimes the honest answer is six weeks on one subject and nothing else."
+faq_4_q: "Suppose my child and the tutor don't get on. What then?"
+faq_4_a: "We'll find someone else, with no charge and no awkwardness. Every family talks to Harry or Joe before we suggest anyone, which helps the first match land. But at seventeen, how someone explains things matters as much as what they know, and you only really find that out in a lesson. There's no contract, and no set number of lessons to get through."
 
 sitemap:
   priority: 0.7
