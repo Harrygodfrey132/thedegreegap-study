@@ -1,42 +1,42 @@
 ---
 title: "Birmingham GCSE Tutors | Expert Tutors | The Degree Gap"
-description: "Birmingham GCSE tutoring matched on subject and exam board. One-to-one tutors who lift the predicted grade towards what the city's sixth forms actually ask for."
+description: "One-to-one Birmingham GCSE tutors who trace a Year 11 struggle back to the Year 8 or 9 topic behind it, then rebuild from there. Online, from £37 an hour."
 layout: "subject"
 location: "Birmingham"
 level: "GCSE"
 
-hero_heading_line1: "Online Birmingham GCSE Tutors For Year 11s Working Towards Their Sixth-Form Offer"
+hero_heading_line1: "Online Birmingham GCSE Tutors for the Grades Your Child's Sixth Form Wants"
 hero_heading_line2: ""
-hero_lead: "By Year 11 most GCSE struggles trace back to a Year 8 or Year 9 topic nobody re-explained. Our Birmingham GCSE tutors find that root gap in week one and rebuild from there, well before the mock that sets the predicted grade your sixth form will see."
+hero_lead: "If Year 11 feels like an uphill slog, the trouble often started with a Year 8 or 9 topic nobody had time to go back over. Our Birmingham GCSE tutors find it in week one and rebuild from there. Ideally well before the mock that sets the predicted grade."
 
 grade_from: "E"
 grade_to: "B"
-grade_stat: "A real GCSE grade jump from E to B, from a student we worked with one-to-one."
+grade_stat: "An E became a B for Keira, a GCSE student we matched with a tutor."
 
-first_lesson_eyebrow: "ONE BIRMINGHAM PARENT'S STORY"
+first_lesson_eyebrow: "STARTING WITH THE LAST PAPER"
 first_lesson_heading: "How a Birmingham GCSE Tutor Reads a Year 10 Paper"
-first_lesson_context: "GCSE outcomes across Birmingham sit close to the national picture, but the spread inside the city is wider than the headline suggests. A child applying for King Edward VI Camp Hill is working at one extreme; a Year 11 at a city comprehensive chasing the grades a Joseph Chamberlain Sixth Form offer needs is at another. A Birmingham GCSE tutor reads each student's most recent paper in week one and the plan starts from there, not from a generic syllabus."
+first_lesson_context: "Whether your child's at King Edward VI Camp Hill or a city comprehensive with an eye on Joseph Chamberlain, the first week looks much the same. A Birmingham GCSE tutor reads their latest paper and works out where the marks went. Birmingham's results sit close to the national average, but that says little about one child, so the plan comes from the paper."
 
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B."
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B"
 
-tutor_strip_heading: "Birmingham GCSE tutors who've coached the King Edward VI cohort and the city's comprehensives"
-tutor_strip_body: "Our Birmingham GCSE tutors have worked with Year 10 and 11 students across the King Edward VI consortium, the Catholic and CofE secondaries, and the city's large comprehensives. Browse the roster, or let us match your child."
+tutor_strip_heading: "Birmingham GCSE tutors who know King Edward VI and the city's comprehensives"
+tutor_strip_body: "Tutors on our platform have worked with Year 10s and 11s from the King Edward VI schools, the Catholic and CofE secondaries and the big comprehensives. Have a look at their profiles, or tell us about your child and we'll narrow it down."
 
-pathways_heading: "After Birmingham GCSEs: Sixth Forms, Apprenticeships, FE"
-pathways_lead: "Three routes most Birmingham families end up looking at after Year 11."
+pathways_heading: "What Comes After GCSEs in Birmingham"
+pathways_lead: "Knowing what each of these routes asks for in Year 10 saves a scramble in Year 11."
 pathways:
   - title: "Sixth Forms"
     body: >
-      The King Edward VI sixth forms at Aston, Camp Hill and Five Ways take the city's most academically selective Year 11s, with Joseph Chamberlain Sixth Form College in Highgate and Cadbury Sixth Form College in Kings Norton drawing huge city-wide intakes. Each has its own grade thresholds, often by subject, and a GCSE tutor in Year 11 is what lifts the predicted grade towards those gates.
+      The King Edward VI sixth forms at Aston, Camp Hill and Five Ways are selective, while Joseph Chamberlain Sixth Form College in Highgate and Cadbury Sixth Form College in Kings Norton take applicants from all over the city. Their entry grades are often set subject by subject, and a GCSE tutor in Year 11 can help your child reach them.
   - title: "Apprenticeships"
     body: >
-      HSBC's UK headquarters at 1 Centenary Square, Lloyds Banking Group and PwC Snowhill all run school-leaver apprenticeships drawing from Birmingham Year 11s, with JLR at Solihull and HS2 at Curzon Street hiring on the engineering and construction side. Most ask for grade 4 to 5 in Maths and English, and the technical engineering routes ask higher across the Sciences.
+      HSBC UK at 1 Centenary Square, Lloyds Banking Group and PwC all run school-leaver schemes in the city, and JLR at Solihull and HS2 at Curzon Street take on engineering and construction apprentices. Most want a 4 or 5 in Maths and English, and the engineering routes often want more in the Sciences.
   - title: "Further Education"
     body: >
-      BMet College runs the city's main BTEC and T Level routes from the James Watt, Matthew Boulton and Sutton Coldfield campuses, with South and City College Birmingham covering the south and west of the city. GCSE Maths and English resits sit at the entry point for most Level 3 courses, and one-to-one tutoring closes that gap fast.
+      BMet College teaches the city's main BTEC and T Level courses at its James Watt, Matthew Boulton and Sutton Coldfield campuses, and South and City College Birmingham covers the south and west. Most Level 3 courses want Maths and English passed first, so if your child has a resit to do, that's where one-to-one tutoring often helps most.
 
 reviews:
   - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him."
@@ -56,14 +56,14 @@ reviews:
   - "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
   - "Marfa|Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university"
 
-faq_1_q: "We're applying for King Edward VI at 11+ but my daughter is in Year 10 now. Does a GCSE tutor help differently from an 11+ tutor?"
-faq_1_a: "Yes, the work shifts entirely. An 11+ tutor preps reasoning, comprehension and timed-test technique. A Birmingham GCSE tutor reads recent school work, finds the specific topics losing the most marks, and the plan from session two drills exam technique on those question types. Two different specialisations, and we match on which one the student actually needs."
-faq_2_q: "How does a GCSE tutor support a Year 11 chasing the grade 5 in English and Maths for college?"
-faq_2_a: "Quietly important work. Most Birmingham FE colleges and apprenticeship schemes screen on grade 4 or 5 in those two subjects, and missing them by half a band closes routes. GCSE Maths and English tutors focus on the high-yield question types first, the ones that lift the band without rewriting the whole revision plan."
-faq_3_q: "Does the tutor know which exam board my child's school is teaching?"
-faq_3_a: "It's the first thing we ask. AQA GCSE Maths and Edexcel GCSE Maths share content but format and weighting differ. We match on specification, not just subject, so the past papers the tutor brings to session two are the ones the school is actually preparing the student against."
-faq_4_q: "How quickly do you usually find a Birmingham GCSE tutor for a family?"
-faq_4_a: "Usually within a few days of the first conversation. Once we know the subject, the year group and what the student needs, we send two or three profiles to choose from. First sessions can start the same week. No waiting lists."
+faq_1_q: "We used an 11+ tutor for the King Edward VI tests. Now my daughter's in Year 10. Is GCSE tutoring different?"
+faq_1_a: "Very different. 11+ tutoring is about reasoning, comprehension and working quickly on a timed test. A GCSE tutor starts with your daughter's recent school work, finds the topics costing her the most marks and, from the second lesson, practises exam technique on those question types. They're two separate skills, so we match on the one your child needs now."
+faq_2_q: "My son needs a 5 in English and Maths to get onto a college course. How would a tutor help?"
+faq_2_a: "By going after the questions that pick up marks quickest. Most Birmingham colleges and apprenticeship schemes look for a 4 or 5 in those two subjects, so falling half a grade short can close a door. The tutor starts with those high-value question types rather than rewriting your son's whole revision plan. It's not glamorous. But it counts."
+faq_3_q: "Will the tutor be working to the same exam board as my child's school?"
+faq_3_a: "Yes, it's the first thing we ask. AQA and Edexcel GCSE Maths cover the same content, but the questions are worded and set out differently. So we match on the exam board, not just the subject, and the past papers your child works through from the second lesson are the ones the school's preparing them for."
+faq_4_q: "How soon could my child have a Birmingham GCSE tutor?"
+faq_4_a: "Usually within a few days. After a free call where we get to know you and your child, you'll have two or three tutor profiles within 24 hours. Your child meets the one you like best on a free video call, and the first lesson can often be that same week. There's no waiting list."
 
 sitemap:
   priority: 0.7

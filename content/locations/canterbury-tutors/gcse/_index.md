@@ -1,42 +1,42 @@
 ---
 title: "Canterbury GCSE Tutors | One-to-One Support | The Degree Gap"
-description: "Canterbury GCSE tutoring for the Kent grammar continuation bar and beyond. One-to-one tutors who close the gap before mocks lock in the predicted grade."
+description: "Canterbury GCSE tutors who find the Year 8 topic that never clicked, before the mocks shape your child's predicted grade. One-to-one, online, from £37."
 layout: "subject"
 location: "Canterbury"
 level: "GCSE"
 
 hero_heading_line1: "Online Canterbury GCSE Tutors Who Find the Year 8 Gap Before Mocks Land"
 hero_heading_line2: ""
-hero_lead: "By Year 11, most GCSE struggles trace back to a Year 8 or Year 9 topic nobody re-explained. Our Canterbury GCSE tutors find that root gap in the first session and rebuild from there, ahead of the mocks that decide whether a Langton sixth form continuation lands or not."
+hero_lead: "Homework seems fine, then your child freezes on the mock paper. Usually it goes back to a Year 8 or 9 topic nobody had time to go over again. Our Canterbury GCSE tutors find it in the first lesson and build up from there."
 
 grade_from: "E"
 grade_to: "B"
-grade_stat: "A real GCSE grade jump from a student we worked with, after a sustained block of weekly one-to-one tutoring."
+grade_stat: "Keira, a GCSE student, says tutoring helped lift her grades from an E to a B."
 
-first_lesson_eyebrow: "ONE CANTERBURY YEAR 10 TURNAROUND"
+first_lesson_eyebrow: "FROM AN E TO A B"
 first_lesson_heading: "What a Canterbury GCSE Tutor Spots in the First 30 Minutes"
-first_lesson_context: "The pattern in Year 10 across Canterbury is the same. Algebra never properly drilled. A fractions concept from Year 8 the class is now working around. An English Literature text introduced when half the class was already past it. The student looks fine in the classroom and looks lost on a paper. A GCSE tutor names the actual gap, then rebuilds the method until it's automatic, before the November mocks turn into a permanent predicted grade."
+first_lesson_context: "Most of the time it's something small, like an algebra method that never got enough practice or a Year 8 fractions idea your child has learned to work around. It rarely shows up in homework, where there's time to go slowly. A GCSE tutor finds which one it is and goes over it until it's automatic, well before the November mocks feed into the predicted grade."
 
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B."
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B in GCSE"
 
-tutor_strip_heading: "Canterbury GCSE tutors matched to the spec your school teaches"
-tutor_strip_body: "Most of our Canterbury GCSE tutors have walked students through the AQA, Edexcel and OCR specifications taught at the Langton schools, Barton Court and the wider Canterbury cohort. Subject and exam board first, postcode second. Browse profiles, or let us match your child."
+tutor_strip_heading: "Canterbury GCSE tutors matched to the course your child's school teaches"
+tutor_strip_body: "The Langton schools, Barton Court and the other Canterbury secondaries don't all use the same exam boards. So we'll check your child's board before anything else. Where the tutor lives doesn't come into it. Browse the profiles below, or ask us to pick for you."
 
-pathways_heading: "Post-16 Routes for Canterbury Year 11s"
-pathways_lead: "A few of the post-16 destinations our Canterbury GCSE families consider."
+pathways_heading: "Your Child's Options at 16 in Canterbury"
+pathways_lead: "It's a bigger choice than the one at 11, with three main routes to weigh up."
 pathways:
   - title: "Sixth Forms"
     body: >
-      Simon Langton Grammar for Boys and Simon Langton Girls' Grammar keep most of their own Year 11s for A-Level, with Barton Court Grammar doing the same. Conditional offers vary by subject and tend to be specific about what they want, with each sixth form publishing its own entry standards.
+      Simon Langton Grammar for Boys, Simon Langton Girls' Grammar and Barton Court Grammar keep most of their own Year 11s on for A-Level. Each sixth form publishes its own entry standards, and the grade asked for can change from one subject to the next.
   - title: "Apprenticeships"
     body: >
-      Canterbury Christ Church and the University of Kent both run degree apprenticeships hiring out of the Canterbury Year 11 cohort. Pfizer in nearby Sandwich and the Discovery Park life-sciences hub also pick up apprentices, most with published minimum-grade requirements in Maths and English, plus stricter Sciences requirements for technical applications.
+      Canterbury Christ Church and the University of Kent both run degree apprenticeships, though those usually come after sixth form rather than straight after Year 11. Pfizer in nearby Sandwich and the Discovery Park science hub take on apprentices too, and most ask for set grades in Maths and English, plus Science for the technical roles.
   - title: "Further Education"
     body: >
-      Canterbury College runs Level 3 BTEC programmes alongside A-Levels for students wanting a vocational route or a course outside the grammar pathway. East Kent College Group's nearby campuses pick up the broader Kent FE intake, with GCSE Maths and English resits the most common entry point.
+      Canterbury College runs A-Levels as well as Level 3 BTEC courses, which suit a teenager who'd rather learn through something practical. East Kent College Group's other campuses nearby take young people from right across Kent, and plenty of them resit GCSE Maths or English alongside their course.
 
 reviews:
   - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
@@ -55,14 +55,14 @@ reviews:
   - "Theresa|Parent|The Degree Gap was fantastic. Their knowledge and guidance helped my son find direction in both his studies and future plans."
   - "Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE thank you"
 
-faq_1_q: "My daughter has fallen behind in GCSE Maths. Where does a Canterbury GCSE tutor actually start?"
-faq_1_a: "With a diagnostic. The first session usually isn't about the Year 11 topic on the school's whiteboard. It's about which Year 8 or 9 method never properly clicked, fractions, the algebra that won't come back, the timing problem on the calculator paper. Once that's named, the tutor rebuilds the method and drills it until it's automatic, then comes back to the current syllabus with the foundation in place."
-faq_2_q: "We're aiming for a Langton grammar sixth form place. What kind of grades do tutors push towards?"
-faq_2_a: "The Langton schools and Barton Court want grade 6 minimum and grade 7 in the subjects a student wants to take at A-Level, with a higher bar for the most-applied-for sciences. Our tutors target the question types those sixth forms quietly weight, the longer-mark Science questions, the unseen poetry in English Lit, the problem-solving in Maths. Most students see the predicted grade move within half a term."
-faq_3_q: "Do you cover all three Sciences separately for triple-award students?"
-faq_3_a: "Yes, with separate Biology, Chemistry and Physics specialists. Triple Science at the Langtons and at King's tends to plateau in one specific subject, not all three. We match a subject specialist for whichever one is leaking marks, rather than putting one tutor across all three."
-faq_4_q: "Is GCSE tutoring online, and does it work for Canterbury students?"
-faq_4_a: "All sessions run through Lessonspace, our shared whiteboard. Canterbury families pick it because there's no commute on a school night, and the student gets the right subject specialist nationally rather than whoever happens to live within driving distance. Most students are comfortable with the platform from the first session, and we record every session so they can rewatch the bits that didn't click."
+faq_1_q: "My daughter's fallen behind in GCSE Maths. Where does a Canterbury GCSE tutor actually start?"
+faq_1_a: "With a look at where her marks are going. The first lesson usually isn't about this week's Year 11 topic. It's about finding the Year 8 or 9 method that never quite clicked, like fractions or an algebra step she's forgotten. Sometimes it's just timing on the calculator papers. Once that's found, the tutor goes over it until your daughter can do it without thinking. Then they come back to what her class is doing now, with the basics in place."
+faq_2_q: "We're hoping for a place in one of the Langton sixth forms. What grades should my son be aiming for?"
+faq_2_a: "It depends on the subjects he wants to take, so it's worth checking each school's current entry requirements. The Langton schools and Barton Court publish their own, and popular A-Level subjects, the Sciences especially, often ask for more than the general minimum. Once you know the grade he needs, the tutor works on the questions costing him most, like the longer Science answers or unseen poetry in English Literature. Nobody can promise a grade. But you'll both know exactly what he's aiming at."
+faq_3_q: "My son does triple Science. Can he have a separate tutor for each?"
+faq_3_a: "Yes. With triple Science it's common for one of the three to slip while the other two are fine. So rather than one tutor stretched across all three, we'd usually find a Biology, Chemistry or Physics tutor for whichever one is losing him marks."
+faq_4_q: "Lessons are online. Will my child actually get on with that?"
+faq_4_a: "Usually, yes. Lessons run on the platform Lessonspace, where your child and the tutor share one whiteboard, so the tutor sees each line of working as it's written. Nobody's driving across Canterbury on a school night. And because it's online, we can choose the tutor who suits your child best from anywhere in the UK. Lessons are recorded too, so they can replay the bit that didn't click."
 
 sitemap:
   priority: 0.7

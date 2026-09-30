@@ -1,41 +1,41 @@
 ---
 title: "Wigan GCSE Tutors | One-to-One Support | The Degree Gap"
-description: "One-to-one Wigan GCSE tutoring that traces the gap back to where it started and rebuilds it before mocks, matched on your child's subject and exam board."
+description: "Wigan GCSE tutors who find the topic your child stopped following and rebuild it before the mocks. One-to-one online lessons, matched to their exam board."
 layout: "subject"
 location: "Wigan"
 level: "GCSE"
 
-hero_heading_line1: "Online Wigan GCSE Tutors Who Rebuild the Topic That Stopped Clicking"
+hero_heading_line1: "Online Wigan GCSE Tutors Who Rebuild the Topic That's Stopped Clicking for Your Child"
 hero_heading_line2: ""
-hero_lead: "By the time most Wigan parents reach us, they've watched the homework get shorter and the answers vaguer, with no clear reason why. Our Wigan GCSE tutors take that quiet hour a couple of times a week and find the gap a busy class moved past."
+hero_lead: "Shorter homework, vaguer answers, and no clear reason why. If that's what you've been seeing at home, you're far from the only parent in Wigan. Our Wigan GCSE tutors spend an hour a week with your child, finding the gap a busy class had to move past."
 
 grade_from: "E"
 grade_to: "B"
-grade_stat: "A real GCSE grade jump from a student we worked with, after a sustained block of weekly one-to-one tutoring."
+grade_stat: "One GCSE student, Keira, said in a review that the lessons helped move an E up to a B."
 
-first_lesson_eyebrow: "ONE WIGAN FAMILY'S FIRST SESSION"
+first_lesson_eyebrow: "BACK TO WHERE IT SLIPPED"
 first_lesson_heading: "What a Wigan GCSE Tutor Finds Behind a Wobbly Mock"
-first_lesson_context: "In Year 10 across Wigan the pattern repeats: an algebra method that never properly bedded in, a fractions topic the class worked around, an English text introduced when half the room had already moved on. A GCSE tutor names that gap in the first session and rebuilds the method until it holds, before the mocks turn a wobble into a predicted grade."
+first_lesson_context: "Sit with your child over their Year 10 homework and you'll often spot it: an algebra method that never bedded in, or an English text they didn't quite get to grips with. A GCSE tutor finds that gap in the first lesson and rebuilds it until it holds. Better now than after the mocks, when a wobble turns into a predicted grade."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B."
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B in GCSE"
 
 tutor_strip_heading: "Wigan GCSE tutors who know the borough's high-school pace"
-tutor_strip_body: "Most of our Wigan tutors have taught the AQA, Edexcel and OCR specs the borough's schools follow, from Standish to Hawkley Hall, and each clears a founder-led interview only about 3% of applicants pass. Browse profiles, or let us match your child."
+tutor_strip_body: "From Standish to Hawkley Hall, tutors on our platform know the AQA, Edexcel and OCR courses Wigan schools follow. Harry or Joe interviewed every one, and only about 3% of applicants are accepted. Look through their profiles, or let us match your child."
 
 pathways_heading: "The Routes Open to Wigan Year 11s After GCSEs"
-pathways_lead: "A few of the places Wigan students head once Year 11 is done."
+pathways_lead: "A few of the places Wigan teenagers go on to at 16."
 pathways:
   - title: "Sixth Forms"
     body: >
-      Winstanley College and St John Rigby College, both rated Outstanding, take most of the borough's Year 11s who stay on for A-Levels, and The Deanery runs its own sixth form. Each sets its own subject requirements, with the more competitive A-Levels usually asking for a higher GCSE grade in that subject.
+      Winstanley College and St John Rigby College take a lot of the borough's Year 11s who stay on for A-Levels, and The Deanery has its own sixth form. Each sets its own subject grades, and the more competitive A-Levels usually want a higher GCSE grade in that subject.
   - title: "Apprenticeships"
     body: >
-      Kraft Heinz runs long-standing engineering apprenticeships at Kitt Green, one of Europe's largest food factories, and smaller producers like Poole's Pies hire alongside the borough's busy logistics operators. Most schemes ask for grade 4 to 5 in Maths and English, with the technical routes weighting the Sciences.
+      Kraft Heinz has run engineering apprenticeships for years at Kitt Green, one of Europe's largest food factories, and smaller firms like Poole's Pies take on apprentices, as do the borough's busy logistics companies. Expect them to ask for a 4 or 5 in Maths and English, with Science counting for the technical routes.
   - title: "Further Education"
     body: >
-      Wigan and Leigh College, the largest college apprenticeship provider in Greater Manchester, runs BTEC Level 3, T-Levels and GCSE resits, with Leigh College nearby. It's the common route for a vocational Level 3 or a second run at English and Maths.
+      Wigan and Leigh College teaches BTEC Level 3 courses, T Levels and GCSE resits from its Wigan and Leigh campuses, and it's a big apprenticeship provider too. It's the usual route if your child wants a practical Level 3 course or another go at English and Maths.
 
 reviews:
   - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
@@ -55,13 +55,13 @@ reviews:
   - "Theresa|Parent|The Degree Gap was fantastic. Their knowledge and guidance helped my son find direction in both his studies and future plans."
 
 faq_1_q: "GCSE Maths has become the subject my son dreads. What does a Wigan tutor actually do about that?"
-faq_1_a: "It starts with a diagnostic, not a race through the syllabus. Most of the time the problem isn't Year 11 content at all, it's an earlier method that never bedded in: the algebra, the fractions, the timing on the calculator paper. The tutor names that, rebuilds it until it's automatic, then brings it back to the current work. The dread tends to lift once the student stops feeling lost."
-faq_2_q: "Can a Wigan GCSE tutor help in the run-up to the Year 11 mocks?"
-faq_2_a: "Yes, and it's one of the most common reasons families get in touch. Sessions move onto past papers marked the way the exam board marks them, so the student practises writing answers under timing, not just knowing the content. We work on the topics losing the most marks first."
-faq_3_q: "Is GCSE tutoring online, and does that work for Wigan families?"
-faq_3_a: "All sessions run through Lessonspace, our shared whiteboard, so there's no travel on a school night and the student gets the right subject specialist rather than the nearest one. Most are comfortable with it inside the first lesson, and every session is recorded so they can go back over anything that didn't stick."
-faq_4_q: "What does GCSE tutoring in Wigan cost?"
-faq_4_a: "Sessions start from £37 an hour. The exact rate depends on the subject and the tutor's experience, and it's always agreed before anything is booked. No hidden fees."
+faq_1_a: "They start by finding where it went wrong, not by racing through the syllabus. Usually the trouble isn't Year 11 content at all. It's an older method that never really sank in, like algebra or fractions. The tutor rebuilds that until your son can do it without thinking, then links it back to what the class is doing now. And once he stops feeling lost, the dread tends to lift."
+faq_2_q: "The Year 11 mocks are coming up. Is it worth getting a tutor now?"
+faq_2_a: "Yes. Lots of families first get in touch in the run-up to mocks. Lessons move on to past papers, marked with the exam board's own mark scheme, so your child practises writing answers against the clock, not just knowing the content. The topics losing the most marks come first."
+faq_3_q: "It's all online. Does that really work for a Year 10 or 11?"
+faq_3_a: "It does. Most children have got the hang of it before their first lesson's over. Lessons use the platform Lessonspace, where your child and the tutor share a whiteboard, and there's a replay of every lesson for anything that didn't stick. There's no travel on a school night, either, and your child gets the right tutor for the subject rather than the nearest one."
+faq_4_q: "How much are lessons, and are there any extra fees?"
+faq_4_a: "Lessons start from £37 an hour. The exact rate depends on the subject and how experienced the tutor is, and we'll always agree it with you before anything's booked. There aren't any hidden fees, and there's no contract either."
 
 sitemap:
   priority: 0.7

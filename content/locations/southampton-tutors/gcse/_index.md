@@ -1,42 +1,42 @@
 ---
 title: "GCSE Tutors in Southampton | The Degree Gap"
-description: "Southampton GCSE tutoring that closes the gap on the subjects a sixth-form college place turns on. One-to-one tutors matched to your child's exam board."
+description: "When a place at Richard Taunton or Itchen comes down to one or two subjects, our Southampton GCSE tutors work on those grades. One-to-one and online, from £37."
 layout: "subject"
 location: "Southampton"
 level: "GCSE"
 
-hero_heading_line1: "Online Southampton GCSE Tutors Who Get Year 11 Ready for a College Offer"
+hero_heading_line1: "Online Southampton GCSE Tutors for When a College Place Hangs on One Subject"
 hero_heading_line2: ""
-hero_lead: "In Southampton the March mocks quietly become the predicted grade a sixth-form college sees, and the place a student wants can turn on a single subject. Our Southampton GCSE tutors find where the marks are leaking and rebuild the method before that window closes."
+hero_lead: "The March mocks have a way of becoming the predicted grade a sixth-form college sees, and your child's place can come down to a single subject. Our Southampton GCSE tutors find where the marks are slipping away and sort out the method before March."
 
 grade_from: "E"
 grade_to: "B"
-grade_stat: "A real GCSE grade jump from an E to a B after a sustained block of weekly one-to-one tutoring."
+grade_stat: "By Keira's own account, tutoring definitely helped turn an E into a B."
 
-first_lesson_eyebrow: "AN E TO A B IN SOUTHAMPTON"
+first_lesson_eyebrow: "FINDING THE MARKS THAT GO MISSING"
 first_lesson_heading: "How a Southampton GCSE Tutor Turns Effort Into Marks"
-first_lesson_context: "In Southampton a place at Richard Taunton or Itchen College often turns on hitting a grade threshold in the exact subjects a student wants to carry on. Results across the city have sat a little below the national picture, which means the margin on those subjects matters more, not less. A GCSE tutor works on the specific topics that decide it, rather than racing through everything."
+first_lesson_context: "For a lot of Southampton families, the worry is one grade: the one Richard Taunton or Itchen College wants in the subject their child hopes to carry on with. Results across the city sit a little below the national average, but the college will only ever look at your child's. So a GCSE tutor spends the time on the topics that decide that grade, rather than racing through everything."
 
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B."
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B in GCSE"
 
-tutor_strip_heading: "Southampton GCSE tutors who know the Richard Taunton and Itchen entry"
-tutor_strip_body: "Our Southampton GCSE tutors have taken Year 11s through the AQA, Edexcel and OCR specs taught at Cantell, Bitterne Park and St Anne's. We already work directly with 15+ UK secondary schools, so the tutors know what a college offer really asks for. Browse profiles, or let us match your child."
+tutor_strip_heading: "Southampton GCSE tutors who know the Richard Taunton and Itchen entry grades"
+tutor_strip_body: "Parents get in touch from Cantell, Bitterne Park and St Anne's, and the tutors know the AQA, Edexcel and OCR courses those schools teach. We also work directly with over 15 UK secondary schools. Have a browse, or ask us to shortlist a few for you."
 
-pathways_heading: "Post-16 Choices for Southampton Year 11s"
-pathways_lead: "Wondering where Year 11 leads in Southampton? Here are the three routes families look at most."
+pathways_heading: "Where Southampton Year 11s Go Next"
+pathways_lead: "If you're wondering what comes after Year 11, these are the routes most families here end up looking at."
 pathways:
   - title: "Sixth Forms"
     body: >
-      Richard Taunton and Itchen College take much of the city's Year 11 cohort for A-Levels, with Bitterne Park Sixth Form and Barton Peveril in Eastleigh drawing others. Each sets its own subject-by-subject entry standards, and the more competitive A-Levels often ask for a grade 6 in that subject.
+      Many of the city's Year 11s go on to Richard Taunton or Itchen College for A-Levels, and others head to Bitterne Park Sixth Form or Barton Peveril in Eastleigh. The grade they ask for depends on the A-Level, and the more competitive subjects often want a 6.
   - title: "Apprenticeships"
     body: >
-      ABP and the Port of Southampton hire engineering and logistics apprentices, and Carnival UK and Lloyd's Register take school leavers into marine and technical roles. Most ask for grade 4 to 5 in Maths and English, with GCSE Sciences the common gate for the technical routes.
+      ABP takes on engineering and logistics apprentices at the Port of Southampton, and Carnival UK and Lloyd's Register train school leavers for marine and technical jobs. They'll usually look for a 4 or 5 in Maths and English, and for the technical routes, a decent Science grade as well.
   - title: "Further Education"
     body: >
-      City College Southampton runs Level 3 BTECs alongside A-Levels for students who want a vocational or applied route, and Solent University's Warsash Maritime School feeds the city's marine pipeline. GCSE Maths and English resits are the usual entry point.
+      City College Southampton runs Level 3 BTECs for teenagers who'd like a practical route instead of A-Levels, and Solent University's Warsash Maritime School leads into the city's marine work. Your child will usually need Maths and English passed first, and that's often where resits come in.
 
 reviews:
   - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
@@ -55,14 +55,14 @@ reviews:
   - "Lisa|Parent|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
   - "Theresa|Parent|The Degree Gap was fantastic. Their knowledge and guidance helped my son find direction in both his studies and future plans."
 
-faq_1_q: "We're aiming for a Richard Taunton or Itchen College place. How does a GCSE tutor help close the gap?"
-faq_1_a: "Both colleges set grade thresholds in the subjects a student wants to take at A-Level, so the tutor works on exactly those, not everything at once. That usually means the topics that quietly cost marks, the longer Science questions, the essay under timed conditions in English, the problem-solving in Maths. Each college publishes its own requirements, so we check the current ones and target the plan at them."
-faq_2_q: "How does a tutor use the months before the Year 11 mocks in Southampton?"
-faq_2_a: "Past papers, mostly, marked the way examiners mark. The mock is where a predicted grade gets fixed, so the weeks before it are about turning content the student already half-knows into marks on the page. A tutor spots where time is being lost, where a method wobbles under pressure, and drills those before the paper counts."
-faq_3_q: "My son does triple science and one subject is dragging. Can you match a specialist for just that one?"
-faq_3_a: "Yes. Triple Science at Southampton schools tends to plateau in one subject, not all three, so we match a Biology, Chemistry or Physics specialist for whichever one is leaking marks rather than putting one tutor across the lot. The calculation-heavy topics and the six-mark questions are usually where the gap sits."
-faq_4_q: "What does GCSE tutoring in Southampton cost?"
-faq_4_a: "From £37 per hour, with the rate set by the tutor and agreed before you book. Most Southampton families keep a weekly hour going through Year 11 and add a second before the mocks. No contract, and we re-match without fuss if the first tutor isn't right."
+faq_1_q: "My child wants a place at Richard Taunton or Itchen. How would a tutor help?"
+faq_1_a: "By working on the subjects your child wants to carry on with, rather than everything at once. Both colleges set grades in those subjects, and each publishes its own, so we'd check the current ones first. Then the tutor goes after the topics quietly costing marks, like the longer Science answers or an English essay written against the clock."
+faq_2_q: "The mocks are a few months off. What would a tutor do between now and then?"
+faq_2_a: "Mostly past papers, marked the way an examiner would mark them. The mocks are usually where the predicted grade gets set, so this stretch is about turning what your child half-knows into marks on the page. The tutor watches where the time goes and which methods wobble under pressure. Then they practise those until they hold, before the paper counts."
+faq_3_q: "My son does triple Science and one of the three is dragging. Can he have a tutor for just that one?"
+faq_3_a: "Yes. It's common for one Science to lag while the other two are fine. So we'd match your son with a Biology, Chemistry or Physics tutor for whichever it is, rather than one person across all three. The gap is usually in the calculation topics or the six-mark questions."
+faq_4_q: "How much is it, and are we locked in?"
+faq_4_a: "Lessons start from £37 an hour. The tutor agrees the rate with you before anything's booked. Lots of families keep one lesson a week through Year 11 and add a second before the mocks. There's no contract. And if the first tutor isn't right for your child, we'll find another without any fuss."
 
 sitemap:
   priority: 0.7
