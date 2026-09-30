@@ -1,41 +1,38 @@
 ---
 title: "Portsmouth GCSE Tutors | One-to-One Support | The Degree Gap"
-description: "Portsmouth GCSE tutors who trace a slipping grade back to the topic that started it. One-to-one GCSE tutoring, online, matched on exam board, from £37 an hour."
+description: "Portsmouth GCSE tutors who find where your child's grade first slipped and rebuild from there. One-to-one and online, matched on exam board, from £37 an hour."
 layout: "subject"
 location: "Portsmouth"
 level: "GCSE"
 
-hero_heading_line1: "Online Portsmouth GCSE Tutors Who Trace a Grade Back to Where It Slipped"
+hero_heading_line1: "Online Portsmouth GCSE Tutors Who Go Back to Where the Trouble Started"
 hero_heading_line2: ""
-hero_lead: "A Year 11 grade rarely breaks in Year 11. It breaks somewhere in Year 8 or 9 and nobody had time to go back for it. Our Portsmouth GCSE tutors find that point in the first session and rebuild forward from there."
+hero_lead: "When your child's struggling in Year 11, the trouble rarely started in Year 11. Usually something slipped in Year 8 or 9, and there was never time to go back for it. Our Portsmouth GCSE tutors find that point in the first lesson and rebuild forward from there."
 
 grade_from: "E"
 grade_to: "B"
-grade_stat: "A genuine climb from an E to a B, in the student's own words, after regular one-to-one sessions."
+grade_stat: "An E that turned into a B. That's Keira's own account of what tutoring did for her."
 
-first_lesson_eyebrow: "ONE STUDENT, E TO B"
-first_lesson_heading: "What a Portsmouth GCSE Tutor Finds in Week One"
-first_lesson_context: "Attainment across Portsmouth sits below the national picture, and the city knows it. What that average hides is how specific the problem usually is for any one student: a fortnight of Chemistry missed, an algebra method half-learned, a set text started late. Those are small things until Year 11 makes them large."
+first_lesson_eyebrow: "WEEK ONE, IN PORTSMOUTH"
+first_lesson_heading: "The Small Things a Portsmouth GCSE Tutor Looks For First"
+first_lesson_context: "Most of the time, what Portsmouth parents describe is something small: a fortnight of Chemistry missed, an algebra method half-learned, a set text started late. Results across the city sit below the national picture, but an average like that can't show you how specific the problem is for your child. They're small things, until Year 11 makes them large."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B."
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B"
 
-tutor_strip_heading: "Portsmouth GCSE tutors who rebuild foundations, not just revise"
-tutor_strip_body: "Students at Priory School, Admiral Lord Nelson and Mayfield sit different papers, so we match the tutor to the specification first. Each one clears a founder-led interview that only about 3% of applicants pass. Browse the profiles, or let us make the introduction."
+tutor_strip_heading: "Portsmouth GCSE tutors who fix the basics before the revision"
+tutor_strip_body: "Whether your child's at Priory School, Admiral Lord Nelson or Mayfield, we'll match the tutor to the exam board their school uses. Joe and Harry interview every tutor, and only about 3% of applicants get through. Look through the profiles yourself, or we can pick for you."
 
-pathways_heading: "Post-16 Routes For Portsmouth Year 11s"
-pathways_lead: "Results day decides the next step. Here is what that step tends to look like locally."
+pathways_heading: "Sixth Form, College or an Apprenticeship in Portsmouth?"
+pathways_lead: "Results day confirms the next step. Here's what that step usually looks like in Portsmouth."
 pathways:
   - title: "Sixth Forms"
-    body: >
-      Portsmouth College and Havant and South Downs College take students from right across the city and the surrounding area, with The Portsmouth Grammar School and Portsmouth High School running their own sixth forms. Each publishes its own entry requirements, and A-Level courses generally ask for a grade in the subject itself.
+    body: "Portsmouth College and Havant and South Downs College take sixth formers from all over the city and the surrounding area, and The Portsmouth Grammar School and Portsmouth High School have sixth forms of their own. Check each one's entry requirements: an A-Level course will usually ask for a certain grade in that subject at GCSE."
   - title: "Apprenticeships"
-    body: >
-      BAE Systems recruits engineering apprentices at Portsmouth Naval Base, and the Royal Navy and QinetiQ both take school leavers locally. Most ask for grade 4 to 5 in Maths and English, with the technical routes looking at Science as well.
+    body: "BAE Systems recruits engineering apprentices at Portsmouth Naval Base, and the Royal Navy and QinetiQ both take on school leavers locally. A 4 or 5 in Maths and English is the usual ask, and the technical routes look at Science as well."
   - title: "Further Education"
-    body: >
-      Highbury College and Havant and South Downs College run most of the Level 3 and T Level provision across the city and Havant. A confident grade 4 or 5 in Maths and English opens the majority of those courses.
+    body: "If your child would rather do something practical, Highbury College and Havant and South Downs College run most of the vocational courses and T Levels locally. A confident 4 or 5 in Maths and English opens most of them."
 
 reviews:
   - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
@@ -55,14 +52,14 @@ reviews:
   - "Theresa|Parent|The Degree Gap was fantastic. Their knowledge and guidance helped my son find direction in both his studies and future plans."
   - "Lisa|Parent|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
 
-faq_1_q: "My son is a long way behind in Maths. Where does a tutor even start?"
-faq_1_a: "With a diagnostic, not a lesson. The tutor works through a recent paper to find the earliest point where the method breaks down, which is often further back than the school has time to check. From there the plan rebuilds in order rather than jumping to whatever the class is covering this week. It feels slower for a month and then it stops feeling slow."
-faq_2_q: "Can a tutor help him get ready for the November and March mocks?"
-faq_2_a: "That is one of the main reasons Portsmouth families get in touch. The weeks before a mock go on past papers, marked the way an examiner would mark them, with the feedback feeding straight into the next attempt. Afterwards the paper itself becomes the plan, because every dropped mark tells you exactly what the next few sessions need to cover."
+faq_1_q: "My son's a long way behind in Maths. Where does a tutor even start?"
+faq_1_a: "By finding the earliest point where his method breaks down. The tutor goes through a recent paper with him, and that point is often further back than a busy class has time to check. Then the plan rebuilds in order, instead of jumping to whatever the class is on this week. It'll feel slow for a month or so. And then it stops feeling slow."
+faq_2_q: "Can a tutor help my son get ready for the November and March mocks?"
+faq_2_a: "Yes, and it's one of the main reasons Portsmouth families get in touch. In the weeks before a mock, lessons go on past papers, marked the way an examiner would mark them, and the feedback goes straight into the next try. Afterwards the mock itself becomes the plan, because every dropped mark shows what the next few lessons need to cover."
 faq_3_q: "Does tutoring work online for a Year 10 who gets distracted easily?"
-faq_3_a: "Usually better than people expect. Sessions run on Lessonspace, a shared whiteboard, and it is a lot harder to drift in a one-to-one hour than in a class of thirty. The screen keeps the work in front of them, and everything written during the session can be saved and looked at again later. There is also no travel time eating into a school night."
-faq_4_q: "What does GCSE tutoring cost in this area?"
-faq_4_a: "From £37 an hour. The rate varies with the tutor's experience and is agreed before anything is booked. Most Portsmouth families run a weekly hour through Year 10 and 11, then add a second session in the weeks before mocks. No joining fee, no minimum term, and you can stop whenever it stops being useful."
+faq_3_a: "Usually better than you'd expect. Lessons happen in Lessonspace, an online classroom with a shared whiteboard, and it's much harder for your child to drift off in a one-to-one hour than in a class of thirty. The work stays right in front of them, and there's a replay of every lesson to look back at. No travel eating into a school night, either."
+faq_4_q: "What does it cost, and is there a minimum term?"
+faq_4_a: "From £37 an hour, with the exact rate agreed before anything's booked. It varies with the tutor's experience. There's no joining fee and no minimum term, so you can stop whenever it stops being useful. Most Portsmouth families have a weekly hour through Year 10 and 11, then add a second lesson in the weeks before mocks."
 
 sitemap:
   priority: 0.7

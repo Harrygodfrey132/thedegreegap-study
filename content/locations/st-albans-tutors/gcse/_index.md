@@ -1,28 +1,18 @@
 ---
 title: "St Albans GCSE Tutors | Maths, English & Science"
-description: St Albans GCSE tutors providing personalised support in Maths,
-  English, Science and more. Our St Albans GCSE tutors help students improve
-  grades and confidence.
+description: "St Albans GCSE tutors, one-to-one and online, to lift the one predicted grade sitting below what the sixth form wants. Matched to your child, from £37."
 layout: subject
 location: St Albans
 level: GCSE
-hero_heading_line1: "Online St Albans GCSE Tutors Who Lift the Predicted Grade Where It Needs to Be"
+hero_heading_line1: "Online St Albans GCSE Tutors for the One Subject That Keeps Slipping"
 hero_heading_line2: ""
-hero_lead: In St Albans, most parents are watching the gap between their child's
-  predicted grade and what the local sixth forms quietly expect. Our St Albans
-  GCSE tutors work one-to-one to lift the predicted grade wherever a student is
-  sitting today.
+hero_lead: "Most subjects are fine. It's one predicted grade that's sitting below what your child's sixth form will ask for. Our St Albans GCSE tutors work one-to-one to lift it, wherever your child is starting from."
 grade_from: "5"
 grade_to: "7"
-grade_stat: A real GCSE English outcome from a student we worked with, after six
-  months of weekly one-to-one tutoring.
-first_lesson_eyebrow: INSIDE A ST ALBANS GCSE PUSH
-first_lesson_heading: What a St Albans GCSE Tutor Spots in the First Mock
-first_lesson_context: In St Albans, a sixth-form offer at St Albans School,
-  Loreto or Sandringham routinely turns on the gap between where the student is
-  sitting now and where the sixth form is set. A good GCSE tutor reads the
-  recent paper in week one, finds where the marks are slipping, and the GCSE
-  tutoring plan builds back from there.
+grade_stat: "Omo's son is in Year 10. Six months of tutoring took his English from a 5 to a 6/7, with ways into the subject that finally suit him."
+first_lesson_eyebrow: "WHEN ONE SUBJECT LAGS BEHIND"
+first_lesson_heading: "What a St Albans GCSE Tutor Looks for in Your Child's Last Mock"
+first_lesson_context: "If your child's hoping for a sixth form place at St Albans School, Loreto or Sandringham, the grade that matters most is usually the one in the subject they want to carry on. So a GCSE tutor starts by going through a recent paper with them, finds where the marks are slipping, and builds the plan back from there."
 first_lesson_quote: My son, who is in Year 10, really struggled with English and
   was completely disengaged from the subject. After six months of tutoring, he
   has improved from a grade 5 to a 6/7. He now looks forward to his lessons.
@@ -32,36 +22,20 @@ first_lesson_quote_name: Omo
 first_lesson_quote_role: Parent of GCSE Student
 first_lesson_quote_grade: GCSE English
 tutor_strip_heading: St Albans GCSE tutors who know the Sandringham and Verulam standard
-tutor_strip_body: Our St Albans GCSE tutors have worked with Year 10 and 11
-  students across St Albans School, St Albans High School for Girls,
-  Sandringham, Verulam and Beaumont. Browse the roster, or let us match your
-  child.
+tutor_strip_body: "We hear from Year 10 and 11 families at St Albans School, St Albans High School for Girls, Sandringham, Verulam and Beaumont, and exam boards can differ from one school to the next. We'll check your child's first. The profiles are below if you'd like a look."
 tutors_browse_url: /book-a-call/
-pathways_heading: Where St Albans Year 11s Aim Post-16
-pathways_lead: Most St Albans GCSE tutoring families end up on one of the
-  post-16 routes below.
+pathways_heading: "Where St Albans Year 11s Head at 16"
+pathways_lead: "Whatever your child picks at 16, it'll probably be one of these."
 pathways:
   - title: Sixth Forms
     body: >
-      Sandringham, Verulam, St Albans School and Loreto College draw the
-      strongest of the St Albans GCSE set, with St Albans High School for Girls
-      and Beaumont alongside them. Most ask for specific minimum grades in the
-      chosen A-Level subject, which is where GCSE English tutoring in Year 11
-      quietly earns the offer.
+      Sandringham, Verulam, Beaumont, Loreto College, St Albans School and St Albans High School for Girls all have sixth forms. Most set a minimum GCSE grade for each A-Level your child wants to take, so those subjects are the ones to watch in Year 11.
   - title: Apprenticeships
     body: >
-      BT's research campus at Adastral Park and Rothamsted Research nearby run
-      early-career and degree apprenticeships in tech and science, with London
-      commuter schemes at HSBC, KPMG and the Bank of England also pulling St
-      Albans Year 11s. Most have published minimum-grade requirements in Maths
-      and English, with GCSE Sciences tutoring often what gets a student into
-      the more competitive technical routes.
+      Rothamsted Research in Harpenden runs science apprenticeships, and London employers such as HSBC, KPMG and the Bank of England have school-leaver schemes, though many of those don't start until after sixth form. Most set minimum grades in Maths and English, and the science and tech roles look closely at the Sciences too.
   - title: Further Education
     body: >
-      Oaklands College runs the city's main BTEC and T Level routes from the
-      Smallford campus, with West Herts College in nearby Watford the other
-      common stop. One-to-one GCSE Maths tuition in Year 11 lifts students past
-      the minimum Level 3 entry threshold those courses gate behind.
+      Oaklands College runs BTEC and T Level courses from its Smallford campus, and West Herts College in Watford is the other common choice. Level 3 courses at both set a minimum in Maths and English, so it's worth keeping an eye on those two even when the rest are strong.
 reviews:
   - Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with
     English and was completely disengaged from the subject. After six months of
@@ -116,29 +90,14 @@ reviews:
   - Sorland|Grandparent|My granddaughter uses the Degree Gap tutoring services
     across a few subjects. She is not only improving academically but really
     enjoys the setup and structure too. I would recommend to anyone.
-faq_1_q: We're aiming for grade 8 or 9 for a St Albans sixth-form place. What
-  does a tutor actually do?
-faq_1_a: The first session is a stretch diagnostic. A St Albans GCSE tutor sits
-  a student through harder questions than school regularly sets, finds where the
-  marks are slipping, and the plan from session two pushes past where the
-  student is currently stuck. Most students start landing stronger answers
-  within half a term.
-faq_2_q: Do you offer separate Biology, Chemistry and Physics tutors for GCSE Sciences?
-faq_2_a: Yes. Triple Science students in St Albans usually want a different
-  specialist for each, especially when chasing grade 8 or 9 for a competitive
-  sixth-form Science offer. We match each subject to a GCSE Sciences tutor who's
-  coached the required practicals and six-mark questions before.
-faq_3_q: How does online GCSE tutoring work for St Albans families?
-faq_3_a: All sessions run online through Lessonspace, a shared whiteboard built
-  for one-to-one work. St Albans families like it because they're matched to the
-  right specialist for the subject and exam board, not the nearest tutor
-  geographically. And weekly hour-long sessions slot in around school, clubs and
-  music without the school-run drive.
-faq_4_q: How much does GCSE tutoring in St Albans cost?
-faq_4_a: From £37 an hour. Rates vary by tutor and subject, and you'll see the
-  number agreed before any session is booked. Most St Albans families take
-  weekly hour-long sessions through Year 10 and 11, with a second session added
-  in the run-up to the March mocks that set sixth-form predicted grades.
+faq_1_q: "My daughter's aiming for 8s and 9s for her sixth form place. What would a tutor actually do?"
+faq_1_a: "Stretch her, a bit at a time. In the first lesson the tutor tries her on harder questions than she'd usually see in class, to find where her marks start to slip. From then on the lessons work at that edge, on the marks that separate a 7 from a 9. It's the same idea if a child is further back: find where it slips and work from there."
+faq_2_q: "My son's doing triple science. Can he have a different tutor for each one?"
+faq_2_a: "He can. Triple science means Biology, Chemistry and Physics as three separate GCSEs, and some St Albans families would rather have a tutor who knows each one inside out, especially when a sixth form Science place depends on it. Each tutor will know the required practicals (the set experiments the papers ask about) and how to write the longer six-mark answers."
+faq_3_q: "Lessons are online. How does that work in practice?"
+faq_3_a: "Your child and the tutor meet on the platform Lessonspace and write on the same whiteboard, so the tutor sees every line of working as it happens. There's a replay of each lesson to look back on, too. Being online means we can match your child with the right tutor for their subject and exam board, not just whoever lives nearest. And a weekly hour fits round school, clubs and music practice without a school-run drive."
+faq_4_q: "What will it cost, and how often are lessons?"
+faq_4_a: "From £37 an hour, depending on the tutor, and you'll know the rate before anything's booked. Most families have one lesson a week. Some add a second in the few weeks before mocks, but there's no contract, so you can decide as you go."
 sitemap:
   priority: 0.7
   changefreq: monthly

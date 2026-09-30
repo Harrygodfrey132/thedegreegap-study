@@ -1,41 +1,41 @@
 ---
 title: "London GCSE Tutors | Built Around Your Child | The Degree Gap"
-description: "London GCSE tutors matched on subject, exam board and how your child learns. One-to-one GCSE tutoring covering every London borough, from £37 an hour."
+description: "London GCSE tutors matched to your child's subject, exam board and way of learning. One-to-one and online, wherever you are in London, from £37 an hour."
 layout: "subject"
 location: "London"
 level: "GCSE"
 
 hero_heading_line1: "Online London GCSE Tutors Who Turn Revision Hours Into Real Marks"
 hero_heading_line2: ""
-hero_lead: "By March, the mock grade becomes the predicted grade every sixth form sees, and across London that application goes well outside your own borough. Our London GCSE tutors work out where the marks are actually going, then rebuild from there."
+hero_lead: "Hours of revision, and the mock grade still isn't what the sixth forms on your child's list will want. Our London GCSE tutors work out where the marks are actually going, then rebuild from there."
 
 grade_from: "E"
 grade_to: "B"
-grade_stat: "A real move from an E to a B in GCSE grades after one-to-one tutoring."
+grade_stat: "Keira told us tutoring helped take her grades from an E to a B."
 
-first_lesson_eyebrow: "ONE LONDON STUDENT, E TO B"
+first_lesson_eyebrow: "FROM AN E TO A B"
 first_lesson_heading: "Where a London GCSE Tutor Starts When Nothing Is Sticking"
-first_lesson_context: "Results across London sit above the national picture, and the spread between boroughs is wider than anywhere else in the country. That average hides the Year 10 who missed three weeks of algebra and never got it back. A GCSE tutor finds that week in the first session."
+first_lesson_context: "Maybe your child missed three weeks of algebra in Year 9 and never quite got it back. London's results sit above the national picture and vary a lot between boroughs, but no average will show you that. A GCSE tutor goes looking for those missing weeks in the first lesson."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B."
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B"
 
 tutor_strip_heading: "London GCSE tutors matched on exam board, not postcode"
-tutor_strip_body: "The tutors covering London have taught the AQA, Edexcel and OCR specifications the city's schools run, from Mossbourne to Tiffin. Each one clears a founder-led interview that only about 3% of applicants pass. Browse the profiles, or let us make the introduction."
+tutor_strip_body: "From Mossbourne to Tiffin, London schools use AQA, Edexcel and OCR between them, and we'll find a tutor who knows your child's. Harry and Joe interview every one, and only about 3% of people who apply are accepted. Have a browse, or leave the picking to us."
 
 pathways_heading: "The Step After GCSEs Across London"
-pathways_lead: "Not sure what comes after Year 11? These are the three routes London families weigh up most."
+pathways_lead: "Sixth form, apprenticeship or college: London gives your child a lot of choice at 16."
 pathways:
   - title: "Sixth Forms"
     body: >
-      Brampton Manor Academy in Newham and Harris Westminster take applications from right across the city, and Woodhouse College in Barnet and The Latymer School each draw from several boroughs. Every one publishes its own entry requirements, and the more selective routes ask for high grades in the subjects a student wants to carry on.
+      Brampton Manor Academy in Newham and Harris Westminster take applications from right across the city, and Woodhouse College in Barnet and The Latymer School both draw from several boroughs. Every one publishes its own entry grades, and the more selective ones want high grades in the subjects your child plans to carry on.
   - title: "Apprenticeships"
     body: >
-      Transport for London hires apprentices into engineering and operations roles across the network, and Barclays and PwC both run school-leaver programmes out of their London offices. Most ask for grade 4 to 5 in Maths and English, which is usually where GCSE tutoring earns its place.
+      Transport for London takes on apprentices in engineering and operations across the network, and Barclays and PwC both run school-leaver programmes, though some of those are for after A-Levels. Most want a 4 or 5 in Maths and English, so those two grades are worth protecting whatever else your child is doing.
   - title: "Further Education"
     body: >
-      Capital City College Group and Newham College run much of the city's Level 3 and T Level provision, with Barking and Dagenham College covering the east. A confident grade 4 or 5 in Maths and English opens most of those doors.
+      Capital City College Group and Newham College run a lot of London's Level 3 and T Level courses, and Barking and Dagenham College covers the east. For most of those courses, a 4 or 5 in Maths and English is the first thing they'll look for.
 
 reviews:
   - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
@@ -56,14 +56,14 @@ reviews:
   - "Charlotte|Student|I cannot recommend Harry enough. He was helpful welcoming and helped me achieve a grade higher than I was expected!"
   - "Marfa|Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university"
 
-faq_1_q: "My son has fallen a long way behind. Is it too late for GCSE tutoring to help?"
-faq_1_a: "It's rarely too late, though what the sessions look like changes. When a student is a long way back, racing through current content just widens the gap. The tutor traces the work back to the topic where it stopped making sense, rebuilds from there, and only then starts pulling forward towards where the class is. That order matters more than the number of hours."
-faq_2_q: "English Language and English Literature are both slipping. Does one tutor cover both?"
-faq_2_a: "Usually yes, and it's worth knowing they're different problems. Language is about handling an unseen source under time pressure and writing to a brief. Literature is about holding quotations in your head and building an argument with them. A tutor who teaches both will normally split the sessions rather than treat it as one subject."
+faq_1_q: "My son's got a lot of catching up to do. Can tutoring still help?"
+faq_1_a: "Yes, and lots of families come to us at exactly this point. What changes is where the lessons start. Instead of this week's topic, the tutor goes back to the last thing your son was really solid on and builds forward a step at a time. It can feel slow for the first few weeks. But once that ground's firm, the newer topics go in far more easily."
+faq_2_q: "English Language and English Literature are both slipping. Can one tutor cover both?"
+faq_2_a: "Usually, yes, though they're really two different problems. Language is about reading an unseen text against the clock and writing to a brief. Literature is about knowing quotations well enough to build an argument with them, without the book in front of you. So a tutor who teaches both will normally split the time between them rather than treat it as one subject."
 faq_3_q: "Can a tutor help with the November and March mocks?"
-faq_3_a: "That's one of the most common reasons London families get in touch. The weeks before a mock are for past papers, marked the way an examiner would mark them, with the feedback going straight back into the next attempt. After the mock, the paper itself becomes the plan. Every dropped mark shows you exactly what the next few sessions need to cover."
-faq_4_q: "What happens if the tutor isn't the right fit for my daughter?"
-faq_4_a: "We re-match, and there's no awkwardness in asking. Every family speaks with one of the co-founders before a tutor is suggested, so the first match is usually close. But personality matters as much as subject knowledge at this age, and sometimes you only know after a couple of sessions. Tell us and we'll find someone else."
+faq_3_a: "Yes, and mock season is when a lot of London families first get in touch. In the weeks before, it's past papers, marked the way an examiner would, with the feedback going straight into the next attempt. Afterwards, the mock paper itself becomes the plan. Every dropped mark shows the tutor what the next few lessons need to cover."
+faq_4_q: "What if my daughter doesn't get on with the tutor?"
+faq_4_a: "We'll suggest someone else, at no charge. It's a normal thing to ask. You'll have chosen from two or three profiles to begin with, so there are usually other good options ready. Sometimes a tutor who looks perfect on paper just isn't the right personality for your daughter, and that only shows once they've had a few lessons together."
 
 sitemap:
   priority: 0.7

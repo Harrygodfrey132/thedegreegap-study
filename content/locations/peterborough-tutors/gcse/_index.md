@@ -1,41 +1,38 @@
 ---
 title: "Peterborough GCSE Tutors | Expert Tutors | The Degree Gap"
-description: "Peterborough GCSE tutors who rebuild the gap before mocks turn it into a predicted grade. One-to-one tutoring matched on exam board, from £37 an hour."
+description: "Peterborough GCSE tutors who find the gap in the autumn, before the mocks turn it into a predicted grade. One-to-one and online, from £37 an hour, no contract."
 layout: "subject"
 location: "Peterborough"
 level: "GCSE"
 
-hero_heading_line1: "Online Peterborough GCSE Tutors Who Rebuild Before the Mocks, Not After"
+hero_heading_line1: "Online Peterborough GCSE Tutors Who Help Your Child Before the Mocks, Not After"
 hero_heading_line2: ""
-hero_lead: "Mocks do not create the problem, they publish it. Our Peterborough GCSE tutors would rather find the gap in October than argue with a predicted grade in March, so the first session is a diagnostic and the plan follows from it."
+hero_lead: "A mock doesn't create the gap. It just shows it up, and by March that can mean a lower predicted grade. Our Peterborough GCSE tutors would much rather spot your child's gap in October. So the first lesson goes looking for it, and the plan follows."
 
 grade_from: "E"
 grade_to: "B"
-grade_stat: "A genuine climb from an E to a B, in the student's own words, after regular one-to-one sessions."
+grade_stat: "Keira's grades went from an E to a B, and in her review she says tutoring definitely helped."
 
 first_lesson_eyebrow: "AN E TO A B, HER WORDS"
-first_lesson_heading: "The First Session With a Peterborough GCSE Tutor"
-first_lesson_context: "Attainment across Peterborough sits below the national picture, though that tells you very little about any one student. What the average hides is how ordinary the causes usually are. A term of supply teaching, a topic missed through illness, a method that was never quite understood and got built on anyway."
+first_lesson_heading: "Your Child's First Hour With a Peterborough GCSE Tutor"
+first_lesson_context: "When your child's grade slips, the reason's usually ordinary: a term of supply teaching, a topic missed through illness, a method that never quite made sense and got built on anyway. On paper, Peterborough's results are below the national picture, but that can't tell you which of those it was. The first lesson can."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B."
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B"
 
-tutor_strip_heading: "Peterborough GCSE tutors who fix foundations, not just revise"
-tutor_strip_body: "Students at Jack Hunt, Thomas Deacon Academy and Hampton College sit different specifications, so we match on the paper before anything else. Each tutor clears a founder-led interview that only about 3% of applicants pass. Browse the profiles, or let us make the introduction."
+tutor_strip_heading: "Peterborough GCSE tutors matched to your child's exam board"
+tutor_strip_body: "Jack Hunt, Thomas Deacon Academy and Hampton College each choose their own exam boards, so we check your child's before anything else. One of our founders interviews every tutor who applies, and only about 3% make it onto the platform. Choose from the profiles, or let us pick."
 
-pathways_heading: "Post-16 Routes For Peterborough Year 11s"
-pathways_lead: "Wondering what comes next? These are the three routes local families consider most."
+pathways_heading: "The Choices at 16 in Peterborough"
+pathways_lead: "Not sure what comes next? These are the three routes local families look at most."
 pathways:
   - title: "Sixth Forms"
-    body: >
-      Peterborough College takes the bulk of the city's post-16 students, with sixth forms at Thomas Deacon Academy and The King's School running alongside it. Each publishes its own entry requirements, and A-Level courses generally ask for a grade in the subject a student wants to carry on.
+    body: "A lot of Peterborough's 16-year-olds go on to Peterborough College, and Thomas Deacon Academy and The King's School both have sixth forms too. You'll find their entry requirements online, and if your child wants to carry a subject on to A-Level, they'll usually need a set grade in it."
   - title: "Apprenticeships"
-    body: >
-      Perkins Engines runs engineering apprenticeships from its Peterborough plant and is one of the employer partners behind the degree apprenticeships at ARU Peterborough. Most routes ask for grade 4 to 5 in Maths and English, with the technical ones looking at Science too.
+    body: "Perkins Engines trains engineering apprentices at its Peterborough plant, and it's one of the employers behind the degree apprenticeships at ARU Peterborough. Expect most routes to ask for a 4 or 5 in English and Maths, plus Science for the technical ones."
   - title: "Further Education"
-    body: >
-      Peterborough College and the wider Inspire Education Group carry most of the Level 3 and T Level provision in the city. A confident grade 4 or 5 in Maths and English opens the majority of those courses.
+    body: "Peterborough College and the rest of Inspire Education Group run most of the city's T Levels and other Level 3 courses (the same level as A-Levels). They'll usually want to see a steady 4 or 5 in Maths and English."
 
 reviews:
   - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
@@ -56,13 +53,13 @@ reviews:
   - "Marfa|Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university"
 
 faq_1_q: "The mock came back worse than we expected. What happens now?"
-faq_1_a: "The paper becomes the plan, which is the one good thing about a bad mock. A tutor marks it properly rather than reading the total, works out which question types lost the most, and points the next few weeks at those. Mocks in Year 11 also feed the predicted grade sixth forms see, so there is usually a reason to move quickly rather than wait for the summer."
-faq_2_q: "My daughter says she is just not good at Maths. How do you get past that?"
-faq_2_a: "By finding something she can do and making that visible fast. Almost nobody is bad at Maths across the board. There is usually one method underneath everything that never landed, and once it does a lot of topics stop being frightening at the same time. The belief tends to shift before the grade does, and parents notice it first in how she talks about the subject."
+faq_1_a: "You put the paper to work. That's the one good thing about a bad mock. A tutor looks past the total, finds which types of question lost the most marks, and aims the next few weeks at those. Year 11 mocks also feed into the predicted grade sixth forms see, so it's usually worth moving quickly rather than waiting for the summer."
+faq_2_q: "My daughter says she's just not good at Maths. How do you get past that?"
+faq_2_a: "By finding something she can do, and making that obvious quickly. Hardly anyone's bad at Maths across the board. There's usually one method underneath everything that never landed, and once it does, lots of topics stop being frightening at once. The grade follows later. You'll probably notice the change first in how she talks about the subject."
 faq_3_q: "Do you cover the exam boards Peterborough schools use?"
-faq_3_a: "Yes, and we ask about it first. Schools across the city run AQA, Edexcel and OCR between them and the papers genuinely differ, not in content so much as in how questions are worded and what the mark schemes reward. A tutor on the wrong board teaches well and still leaves marks behind, so we match on specification and tier from the start."
+faq_3_a: "Yes. It's one of the first things we check. Schools across the city use AQA, Edexcel and OCR between them, and the papers really do differ, less in content than in how questions are worded and what the mark schemes reward. A tutor on the wrong board can teach well and still leave marks behind. So we match your child's board from day one, and their tier (higher or foundation) where the subject has one."
 faq_4_q: "How quickly can we start?"
-faq_4_a: "Usually inside a week. You speak to Harry or Joe first, which takes about fifteen minutes and commits you to nothing. Two or three tutor profiles follow within 24 hours, and you get a free fifteen-minute meeting with whoever you pick before any money changes hands. First paid session is normally a few days after that."
+faq_4_a: "Usually within a week. First you'll talk to Harry or Joe, which takes about fifteen minutes and doesn't commit you to anything. Two or three tutor profiles follow within 24 hours, and your child gets a free fifteen-minute meeting with whoever you pick before you pay a penny. The first paid lesson is normally a few days after that."
 
 sitemap:
   priority: 0.7
