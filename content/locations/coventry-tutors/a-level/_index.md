@@ -1,42 +1,42 @@
 ---
 title: "Coventry A-Level Tutors | One-to-One Online | The Degree Gap"
-description: "Coventry A-Level tutoring for the Year 12 depth gap and the mocks that set UCAS predictions. One-to-one tutors matched to your child's subject and exam board."
+description: "Coventry A-Level tutors for when strong GCSEs haven't carried into Year 12. One-to-one and online, matched to your child's subject and exam board, from £37."
 layout: "subject"
 location: "Coventry"
 level: "A-Level"
 
-hero_heading_line1: "Online Coventry A-Level Tutors For Students Whose GCSE Habits Stopped Working"
+hero_heading_line1: "Online Coventry A-Level Tutors for When Good GCSE Habits Stop Working"
 hero_heading_line2: ""
-hero_lead: "A grade 8 at GCSE Maths doesn't always carry into Year 12, and by the end of the year the mock is already shaping what UCAS sees. Our Coventry A-Level tutors find where the depth is leaking marks and rebuild it before the predictions are set."
+hero_lead: "Your child got an 8 in GCSE Maths, and now the Year 12 tests are coming back lower than anyone expected. It happens a lot. Our Coventry A-Level tutors help them swap GCSE habits for the ones A-Level rewards, well before predictions are set."
 
 grade_from: "C"
 grade_to: "A"
-grade_stat: "A real Year 13 jump of almost two grades above a mock paper after one-to-one A-Level tutoring."
+grade_stat: "Daljit's son finished almost two grades above his Year 13 mock."
 
 first_lesson_eyebrow: "A COVENTRY MOCK-TO-OFFER STORY"
 first_lesson_heading: "What a Coventry A-Level Tutor Finds on the First Past Paper"
-first_lesson_context: "A-Level results across Coventry sit close to the national picture, but the spread inside a single subject is wider than a headline grade suggests. A student can look fine in class and still lose the top-end marks that separate a B from an A, usually on the evaluation or the multi-step working school hasn't had time to drill. That's the gap a Coventry A-Level tutor works on first."
+first_lesson_context: "Your child can look fine in class and still drop the marks that turn a B into an A. It's usually the evaluation, or the long multi-step working a busy class doesn't have time to practise. That's where a Coventry A-Level tutor starts, with a recent past paper open on the screen."
 
 first_lesson_quote: "My son gained almost two grades higher than his year 13 mock paper. His tutor was excellent."
 first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Grade C to Grade A at A-Level"
 
-tutor_strip_heading: "Coventry A-Level tutors who know the WMG and Warwick routes"
-tutor_strip_body: "Many of our Coventry A-Level tutors studied at Warwick and other Russell Group universities, and they've coached Year 12s and 13s aiming at both degree places and the WMG apprentice route. Browse the roster, or we'll make the introduction."
+tutor_strip_heading: "Coventry A-Level tutors for the Warwick degree or the WMG apprenticeship"
+tutor_strip_body: "Every tutor here has been interviewed by Harry and Joe, and plenty have helped Year 12s and 13s aiming for university or a WMG apprenticeship at the University of Warwick. Browse the profiles, or tell us about your child and we'll introduce two or three."
 
-pathways_heading: "What Coventry A-Level Students Do After Results Day"
-pathways_lead: "Results day sorts Coventry A-Level students into a few main routes, and here's what each looks like."
+pathways_heading: "Where Coventry Sixth Formers Head After Results Day"
+pathways_lead: "Here's a quick look at where Coventry A-Levels tend to lead, so you can talk the options through at home."
 pathways:
   - title: "Universities"
     body: >
-      The University of Warwick and Coventry University take the largest share of the city's A-Level leavers, with Warwick strong across Engineering, Economics and the sciences. An A-Level Maths tutor in Year 12 is often what lifts a predicted grade toward what the competitive STEM courses ask for.
+      The University of Warwick and Coventry University are both close by, and Warwick is strong across Engineering, Economics and the sciences. For the competitive courses there, Year 12 Maths often decides where your child's predicted grade lands, so it's usually where a tutor starts.
   - title: "Degree Apprenticeships"
     body: >
-      Jaguar Land Rover runs Level 6 degree apprenticeships with WMG at Warwick, and Severn Trent and the UK Battery Industrialisation Centre take apprentices into engineering and science roles. Each publishes its own predicted-grade requirements, with the more competitive schemes asking near the top of the A-Level band.
+      Jaguar Land Rover runs degree apprenticeships with WMG at Warwick, and Severn Trent and the UK Battery Industrialisation Centre take apprentices into engineering and science jobs. Each one sets its own predicted-grade requirements, and the most competitive ask for grades close to the top.
   - title: "Career Pathways"
     body: >
-      Advanced manufacturing still shapes where many Coventry A-Level students land, with LEVC, Unipart and the wider automotive supply chain pulling STEM leavers into engineering. Healthcare through University Hospital Coventry and the nursing and medicine routes takes another steady share.
+      Making things is still a big part of Coventry, and LEVC, Unipart and the wider car industry take on plenty of young engineers straight from A-Levels. And healthcare's the other big draw, through University Hospital Coventry and the nursing and medicine routes.
 
 reviews:
   - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than his year 13 mock paper. His tutor was excellent."
@@ -56,14 +56,14 @@ reviews:
   - "Lisa|Parent|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
   - "Tommy|University Student|I wish I had found The Degree Gap when I was sitting my school exams. They helped with my dissertation work and without their help I am not sure I would have graduated so successfully and landed a successful job."
 
-faq_1_q: "Can an A-Level tutor help with a Jaguar Land Rover or WMG degree apprenticeship application?"
-faq_1_a: "Yes. Those schemes screen on predicted grades and the subjects behind them, so the tutoring focuses on lifting the work in Maths and the Sciences that the engineering routes weight most. We also help with the application side, drawing on the founders' own experience of the process. Each employer sets its own requirements, so we check the live ones before building the plan."
-faq_2_q: "My daughter aced GCSE Maths but A-Level Maths feels like a wall. What's going on?"
-faq_2_a: "It's normal, and it isn't about effort. A-Level Maths is a genuinely different subject, especially the jump into pure, mechanics and statistics all at once. A tutor finds where the gap sits, usually on a past paper in the first session, then builds the depth Year 13 papers demand from session two."
-faq_3_q: "The predicted grade heading to UCAS isn't where it needs to be. What can a Coventry A-Level tutor change?"
-faq_3_a: "The tutor works on the marks that decide the band, the AO3 evaluation, the multi-step questions, the timing that costs marks at the end of a paper. Most of that lives in exam technique, not fresh content. Start in Year 12 and there's room to lift the work well before the mock that fixes the prediction."
-faq_4_q: "What does A-Level tutoring in Coventry cost per session?"
-faq_4_a: "From £37 per hour. The rate depends on the subject and the tutor, agreed before booking, and qualified examiners sit at the higher end. Most Coventry families run a weekly hour through Year 12 and add a second in the weeks before the Year 13 mocks."
+faq_1_q: "My daughter's set on an engineering degree apprenticeship with JLR or WMG. Where does A-Level tutoring come in?"
+faq_1_a: "Mostly in the grades that get her application looked at. The engineering schemes check predicted grades first, and they care most about Maths and the Sciences, so that's where her tutor would put the hours. Harry and Joe can talk you through the application side too. Every employer sets its own requirements, so we'd check the current ones before planning anything."
+faq_2_q: "My son aced GCSE Maths, so why does A-Level Maths feel like a brick wall?"
+faq_2_a: "Because it's really a different subject that happens to share a name. Pure maths, mechanics and statistics arrive together, and far fewer questions tell him which method to use. It doesn't mean he's stopped trying. His tutor looks at a past paper in the first lesson to find where the gap is, then builds up from there."
+faq_3_q: "The predicted grade going to UCAS is lower than we'd hoped. What can a tutor actually change?"
+faq_3_a: "Quite a bit, though it works through your child's marks rather than the number itself. A tutor goes after the ones that decide a grade band: the evaluation in essays, the multi-step questions, the timing at the end of a paper. That's mostly technique, not new content. And if the prediction's already gone, the same work still counts in the summer exams."
+faq_4_q: "What should we budget for A-Level tutoring in Coventry?"
+faq_4_a: "From £37 an hour, with qualified examiners costing a bit more. The rate depends on the subject and the tutor, and it's agreed with you before anything's booked. Most Coventry families settle into a weekly hour through Year 12 and only add more close to the Year 13 mocks. There's no contract."
 
 sitemap:
   priority: 0.7
