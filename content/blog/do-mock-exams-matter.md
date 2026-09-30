@@ -111,8 +111,8 @@ Mock papers, marking standards and timing are set by individual schools and vary
 
 ## Where The Degree Gap fits
 
-We are an online-only tutoring agency for GCSE and A-Level. Every family speaks to Joe or me on a free 30-minute call before any tutor is suggested, and the calls we get in the fortnight after mock results are among the most useful ones we have, because there is a real piece of evidence to look at rather than a general worry.
+The calls we get in the fortnight after mock results are some of the most useful we have. By then there's a real piece of evidence on the table, not just a general worry. We're an online-only tutoring agency for GCSE and A-Level, and every family talks to Joe or me on a free 30-minute call before we suggest any tutor.
 
-Bring the marked paper to the call. It is worth more than the grade.
+So bring your child's marked paper to the call. It's worth more than the grade.
 
 [Book a free consultation call →](/book-a-call/)

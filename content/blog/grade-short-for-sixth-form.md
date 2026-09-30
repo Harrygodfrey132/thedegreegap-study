@@ -117,8 +117,8 @@ Entry requirements are set by individual providers and are revised between admis
 
 ## Where The Degree Gap fits
 
-We are an online-only tutoring agency for GCSE and A-Level. Every family speaks to Joe or me on a free 30-minute call before any tutor is suggested, and a fair number of those calls in September end with us suggesting one subject rather than the three the parent arrived worried about.
+We're an online-only tutoring agency for GCSE and A-Level. Every family has a free 30-minute call with Joe or me before any tutor gets suggested. In September, a fair number of those calls go the same way. A parent books the call worried about three subjects, and we end up suggesting one.
 
-If your child is a grade short in September, you are reading this at the best possible time of year to be reading it.
+If your child's a grade short and it's still September, you're reading this at the best time of year for it.
 
 [Book a free consultation call →](/book-a-call/)

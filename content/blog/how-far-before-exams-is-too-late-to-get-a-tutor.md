@@ -126,8 +126,8 @@ The review quoted is a real, verbatim review left for The Degree Gap. It is incl
 
 ## Where The Degree Gap fits
 
-We are an online-only tutoring agency for GCSE and A-Level. If you are reading this in March or April, the free 30-minute call with Joe or me is worth having precisely because it is late: the plan for eight weeks out is different from the plan for eight months out, and getting it wrong at this stage is expensive.
+Reading this in March or April? Then the free 30-minute call with Joe or me is worth having because it's late, not in spite of it. The plan for eight weeks out isn't the plan for eight months out. And getting it wrong at this stage is expensive.
 
-Occasionally that call ends with us saying your child does not need another commitment in the diary right now. That is a real answer and we do give it.
+We're an online-only tutoring agency for GCSE and A-Level. But now and then, the call ends with us saying your child doesn't need another commitment in the diary right now. It's a real answer, and we do give it.
 
 [Book a free consultation call →](/book-a-call/)

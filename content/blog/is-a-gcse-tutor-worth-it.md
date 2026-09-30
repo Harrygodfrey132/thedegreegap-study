@@ -118,8 +118,8 @@ The review quoted above is a real, verbatim review left for The Degree Gap.
 
 ## Where The Degree Gap fits
 
-We are an online-only tutoring agency for GCSE and A-Level. Rates start at £37 per hour and, like any agency, we retain a margin on that to cover matching, vetting and support.
+Rates start at £37 an hour. We're an online-only tutoring agency for GCSE and A-Level, and like any agency, we keep a margin on that. It covers the matching, the vetting and the support.
 
-Every family speaks to Joe or me on a free 30-minute call before any tutor is suggested. A fair number of those calls end with us saying that tutoring is not the right answer yet, or that one subject is enough rather than three. That is not us being noble, it is that a family who books the wrong thing leaves after six weeks.
+No family gets a tutor suggested until they've had a free 30-minute call with Joe or me. A fair number of those calls end with us saying tutoring isn't the right answer for your child yet. Or that one subject's enough, not three. That's not us being noble. It's just that a family who books the wrong thing leaves after six weeks.
 
 [Book a free consultation call →](/book-a-call/)

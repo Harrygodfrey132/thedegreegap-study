@@ -131,6 +131,6 @@ Entry deadlines, fees and college policies vary. Confirm the specifics with your
 
 ## Where The Degree Gap fits
 
-We are an online-only tutoring agency for GCSE and A-Level, and the autumn resit window is one of the busiest things we do. Every family speaks to Joe or me on a free 30-minute call first, and in September a fair number of those calls end with us saying that the mark was too far off for November and the summer is the better plan.
+The autumn resit window is one of the busiest parts of our year. We're an online-only tutoring agency for GCSE and A-Level, and every family talks to Joe or me first, on a free 30-minute call. In September, a fair number of those calls end with us saying the mark's too far off for November, so the summer's the better plan.
 
-{{< call-cta heading="Not sure whether November is realistic?" body="Send us the mark rather than the grade and we will tell you honestly whether ten weeks is enough. Harry or Joe will spend thirty minutes with you on it. Nobody is matched with a tutor on that call, and in September a good number of them end with us saying wait for the summer." >}}
+{{< call-cta heading="Not sure November's realistic for your child?" body="Send us the mark, not the grade, and we'll tell you straight whether ten weeks is enough. Harry or Joe will spend thirty minutes with you on it. No tutor gets matched on that call. And in September, a good number of them end with us saying wait for the summer." >}}

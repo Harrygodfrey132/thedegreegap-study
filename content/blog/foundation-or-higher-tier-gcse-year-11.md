@@ -134,8 +134,8 @@ Entry deadlines, amendment cut-offs and sixth form entry requirements vary. Conf
 
 ## Where The Degree Gap fits
 
-We are an online-only tutoring agency for GCSE and A-Level, and the autumn of Year 11 is when tier conversations come up most. A good number of them are not really about tutoring at all. They are about whether the school's read is right, and what the next step actually requires.
+Tier comes up on our calls more in the autumn of Year 11 than at any other time. And a good number of those conversations aren't really about tutoring at all. They're about whether the school's read on your child is right, and what their next step actually needs.
 
-Every family speaks to Joe or me on a free 30-minute call before any tutor is suggested, and we are happy to spend it on this.
+We're an online-only tutoring agency for GCSE and A-Level. Before we suggest a tutor, every family has a free 30-minute call with Joe or me. If tier's what's on your mind, we're happy to spend it on that.
 
-{{< call-cta heading="Told your child is going in for foundation, and not sure it is right?" body="It is one of the more consequential decisions of Year 11 and one of the least explained. Harry or Joe will spend thirty minutes with you on what the mocks are actually showing, what the sixth form your child wants requires, and whether there is time to change the picture. Nobody is matched with a tutor on that call." >}}
+{{< call-cta heading="Been told your child's going in for foundation, and not sure it's right?" body="It's one of the Year 11 decisions that matter most, and one of the least explained. Harry or Joe will spend thirty minutes going through it with you. What are the mocks really showing? What does the sixth form your child wants ask for? And is there time to change the picture? We won't match your child with a tutor on that call." >}}

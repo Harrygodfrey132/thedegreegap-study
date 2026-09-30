@@ -136,8 +136,8 @@ Entry requirements vary by university and by admissions cycle. Confirm against t
 
 ## Where The Degree Gap fits
 
-We are an online-only tutoring agency for GCSE and A-Level. Every family speaks to Harry or me on a free 30-minute call before any tutor is suggested, and in September a fair number of those calls are about the step up into Year 12 rather than about a grade that has already slipped.
+In September, quite a few of our calls aren't about a grade that's already slipped. They're about the step up into Year 12. We're an online-only tutoring agency for GCSE and A-Level, and you'll talk to Harry or me on a free 30-minute call before we put forward any tutor. That's the same for every family.
 
-If your child is starting an A-Level they are already nervous about, that is the cheapest moment to do something about it.
+If your child's starting an A-Level they're already nervous about, now's the cheapest moment to do something about it.
 
-{{< call-cta heading="Not sure the subject choices are the right ones?" >}}
+{{< call-cta heading="Not sure your child's picked the right subjects?" body="Lots of parents ask us this, and in the first few weeks of Year 12 a change is usually still possible. Harry or Joe will spend thirty minutes with you on your child's choices. We won't match you with a tutor on that call." >}}
