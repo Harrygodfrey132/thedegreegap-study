@@ -1,42 +1,42 @@
 ---
 title: "A-Level Tutors Covering Cheltenham | The Degree Gap"
-description: "Cheltenham A-Level tutoring for Year 12 and Year 13. Tutors matched by specification, working the predicted grade before it goes to UCAS in the autumn."
+description: "Strong GCSEs, then a tough Year 12? Our Cheltenham A-Level tutors work one-to-one online with your child before their predicted grades go off to UCAS. From £37."
 layout: "subject"
 location: "Cheltenham"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors Covering Cheltenham, Working the Predicted Grade"
+hero_heading_line1: "Online Cheltenham A-Level Tutors: Strong GCSEs, and Now Year 12 Feels Hard"
 hero_heading_line2: ""
-hero_lead: "The predicted grade on a UCAS form comes out of Year 12 work and the autumn mocks, months before anyone sits a real paper. Our Cheltenham A-Level tutors get in while that evidence is still being made, rather than after it has already been written down."
+hero_lead: "Your child's predicted grade comes mostly from their Year 12 work, and it's usually settled before they've sat a single real A-Level exam. Our Cheltenham A-Level tutors get in while that work is still being done, not once the number's been written down."
 
 grade_from: "C"
 grade_to: "A"
-grade_stat: "Movement a student made across Year 12 into Year 13 with weekly one-to-one sessions."
+grade_stat: "In one parent's words, The Degree Gap helped their child go from Cs to As."
 
 first_lesson_eyebrow: "BEFORE THE PREDICTION IS WRITTEN"
-first_lesson_heading: "Why Cheltenham Year 12s Get Caught by the Step Up"
-first_lesson_context: "The pattern is the same across the town's sixth forms and it has almost nothing to do with which one a student is at. A student arrives off a strong set of GCSEs, works the way that produced them, and the first Year 12 mock comes back two grades below what everyone assumed. Nothing has gone wrong. The subject has changed underneath them. A-Level rewards sustained argument and multi-step method, and neither is really tested at GCSE, so the habits that earned an 8 stop paying. That is a technique problem, and technique problems move fast once someone names them."
+first_lesson_heading: "What a Cheltenham A-Level Tutor Sees in the First Year 12 Mock"
+first_lesson_context: "It usually goes like this: strong GCSEs, the same way of working, then a first Year 12 mock two grades lower than anyone expected. It happens at every sixth form in town, and it doesn't mean anything's gone wrong with your child. A-Level simply rewards longer arguments and multi-step methods far more than GCSE did, and once a tutor names the change, technique can shift quickly."
 
 first_lesson_quote: "The Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and applications."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "A-Level"
 
-tutor_strip_heading: "Cheltenham A-Level tutors who sat these papers recently enough to remember them"
-tutor_strip_body: "Mark schemes move, and a tutor who has taught, marked or sat the current specification in the last couple of years knows where the marks are hiding. We match on specification rather than subject name, because AQA and OCR Biology are not the same paper. Browse profiles, or let us match your child."
+tutor_strip_heading: "Cheltenham A-Level tutors who've sat these papers not long ago"
+tutor_strip_body: "Mark schemes change, so it helps if your child's tutor has taught, marked or sat the current course in the last couple of years. And we match on the exam board, because AQA and OCR Biology aren't the same paper. Browse profiles, or let us choose."
 
-pathways_heading: "What Comes After A-Levels in Cheltenham"
-pathways_lead: "Three routes Cheltenham students take once the results are in."
+pathways_heading: "Life After A-Levels in Cheltenham: The Three Main Routes"
+pathways_lead: "Here's where most Cheltenham teenagers go next, and what each route depends on."
 pathways:
   - title: "Universities"
     body: >
-      Bristol, Bath, Exeter, Cardiff and Birmingham all sit within easy reach and take steady numbers from Gloucestershire each year, with the University of Gloucestershire keeping a good share of students in the county. Offers rest on the predicted grade first and the achieved grade second, which is why autumn of Year 13 matters more than most families expect.
+      Bristol, Bath, Exeter, Cardiff and Birmingham are all within easy reach, and the University of Gloucestershire is closer still. Offers rest on the predicted grade first and the final grade second, so the work done before the autumn of Year 13 matters more than you'd think.
   - title: "Degree Apprenticeships"
     body: >
-      GCHQ is the anchor employer here and runs degree apprenticeships in cyber and software, with Spirax Group and the county's engineering and aerospace base taking others. Each scheme publishes its own entry requirements, they vary by route and by year, and technical ones tend to lean on Maths.
+      GCHQ runs degree apprenticeships in cyber and software, and Spirax Group and the county's engineering and aerospace firms take others. Entry grades vary by route and by year, and the technical ones tend to lean on Maths.
   - title: "Career Pathways"
     body: >
-      Some students go straight into work in Cheltenham's finance, insurance and technology employers, or into the racing and hospitality economy the town is known for. Gap years pointed at a stronger reapplication are also common, especially where a Medicine or Veterinary application did not land first time.
+      Cheltenham's finance, insurance and tech firms take school leavers too, and so does the racing and hospitality side of the town. And if a Medicine or Veterinary application didn't land first time, a gap year and a second go is a common plan.
 
 reviews:
   - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
@@ -52,14 +52,14 @@ reviews:
   - "Aila|University Applicant|Harry was amazing! He helped me shape my personal statement into something I was truly proud of, and thanks to his support, I got into my dream university! Couldn’t have done it without him–highly recommend to anyone applying to uni."
   - "Theresa|Parent|Harry and Joe were extremely helpful with a wealth of knowledge and contacts that helped my son to follow the right path."
 
-faq_1_q: "Year 12 or Year 13, when is the right time to start A-Level tutoring in Cheltenham?"
-faq_1_a: "Year 12, in most cases, and earlier than families expect. The predicted grade that goes to UCAS is built from Year 12 work and the Year 13 autumn mocks, so by the time a disappointing Year 13 mock arrives the evidence behind the prediction is largely already there. Starting in Year 12 means working on the papers while they still count towards the prediction rather than trying to argue with it afterwards."
-faq_2_q: "My daughter got an 8 in GCSE Maths and is struggling in Year 12. What happened?"
-faq_2_a: "Nothing unusual, and it is the single most common call we take in the autumn term. A-Level Maths moves faster, expects a volume of independent practice GCSE never required, and leans on multi-step problems where one early slip costs the whole question. A tutor works out which of pure, mechanics or statistics is actually leaking marks, then drills that rather than revisiting the syllabus from the start. Most students are steadier by the end of Year 12."
-faq_3_q: "Can a tutor help with the UCAS application as well as the grade?"
-faq_3_a: "Yes, and the two overlap more than people expect. Personal statement work, interview preparation and admissions tests sit alongside the subject tutoring, and for Medicine, Dentistry and Veterinary the deadline is 15 October rather than January, so the timetable is tighter. Say on the consultation call which route your child is aiming at and we will match someone who has been through it."
-faq_4_q: "Do you cover the specification my child's sixth form teaches?"
-faq_4_a: "Yes, and we confirm it before matching anyone. Gloucestershire sixth forms sit across AQA, Edexcel and OCR, and the boards differ in how papers are structured and where the marks sit rather than in the underlying content. A tutor working to the wrong paper will teach good material and still leave marks on the table, so we check the board and the module choices on the first call."
+faq_1_q: "Do we really need to start in Year 12, or can it wait until Year 13?"
+faq_1_a: "Year 12, in most cases, and sooner than most families expect. Predicted grades come mostly from Year 12 work and exams. They usually go to UCAS in the autumn of Year 13. So by the time a disappointing Year 13 mock turns up, most of the evidence behind the prediction is already in. Starting in Year 12 means your child's improving the work while it still counts, rather than trying to argue with the number afterwards."
+faq_2_q: "My daughter got an 8 in GCSE Maths and now she's struggling. What's going on?"
+faq_2_a: "Nothing's wrong with her, and we hear this a lot, above all in the autumn term. The pace picks up, and she's expected to practise much more on her own. One slip early in a long problem can cost the whole question, too. So the tutor finds which part is costing her marks (pure, mechanics or statistics) and works on that first, instead of going back to the beginning. It usually feels a lot calmer by the end of Year 12."
+faq_3_q: "Can you help with the UCAS side as well, like the personal statement?"
+faq_3_a: "Yes. The personal statement, interview practice and any admissions test can all run alongside the subject lessons. They feed into each other more than you'd expect. For Medicine, Dentistry and Veterinary the deadline is 15 October, not January, so the timetable's tighter. Tell us on the consultation call which route your child has in mind, and we'll look for a tutor who went through the same thing themselves."
+faq_4_q: "Will the tutor know the exact course my child's sixth form teaches?"
+faq_4_a: "Yes, and we check it before we match anyone. Gloucestershire sixth forms use a mix of AQA, Edexcel and OCR. Each board sets its papers out in its own way, and words its questions differently too. A tutor working to the wrong paper can teach good material and still leave marks on the table. So we'll ask about your child's board and any options on the first call."
 
 sitemap:
   priority: 0.7

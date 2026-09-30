@@ -1,42 +1,42 @@
 ---
 title: "Loughborough A-Level Tutors | Year 12 and Year 13 | The Degree Gap"
-description: "Loughborough A-Level tutoring matched by specification and module, for students aiming at engineering, sport science and Russell Group courses. From £37 an hour."
+description: "Is one A-Level grade holding back the course your child wants? Loughborough A-Level tutors who put the hour where it counts. Online, from £37, no contract."
 layout: "subject"
 location: "Loughborough"
 level: "A-Level"
 
-hero_heading_line1: "Online Loughborough A-Level Tutors for the Grades a Course Actually Requires"
+hero_heading_line1: "Online Loughborough A-Level Tutors for the One Grade Your Child's Course Needs"
 hero_heading_line2: ""
-hero_lead: "Engineering wants Maths and Physics. Medicine wants Chemistry. Sport and Biomedical courses want the Sciences held together. Our Loughborough A-Level tutors work to the specific subject a specific course is gated on, rather than spreading an hour thinly across three."
+hero_lead: "Two of your child's predictions look fine, and the third is a band short in the one subject their course cares about most. It's a really common spot, and a smaller job than it sounds. Our Loughborough A-Level tutors put the whole hour into that subject, not three."
 
 grade_from: "B"
 grade_to: "A"
-grade_stat: "The band a year of weekly one-to-one work is typically aimed at when one subject is holding an application back."
+grade_stat: "B to A: what a year of weekly lessons usually aims for when one subject is holding the application back."
 
 first_lesson_eyebrow: "ONE SUBJECT, NOT THREE"
-first_lesson_heading: "Why the Application Usually Hinges on a Single Grade"
-first_lesson_context: "Most competitive courses do not ask for three strong grades in the abstract, they ask for a particular grade in a particular subject. Engineering will not take a strong Geography grade in place of Maths. Medicine will not take Psychology in place of Chemistry. So when a Year 12 comes back with two solid results and one that is a band low, the plan writes itself, and it is far narrower and cheaper than families expect. The first session works out whether that one subject is failing on content or on method, because those need different amounts of time."
+first_lesson_heading: "Why a Loughborough A-Level Tutor Often Starts With Just One Subject"
+first_lesson_context: "Most competitive courses ask for a set grade in a set subject: engineering won't swap Maths for a strong Geography grade. So if your child's Year 12 results show two solid grades and one lagging behind, the plan's narrower and cheaper than you'd expect. The A-Level tutor's first lesson checks whether it's the content or the method that's slipping, because they take very different amounts of time to fix."
 
 first_lesson_quote: "Haneet has really helped my son in navigating his A-Level Physics, all whilst being kind and supportive."
 first_lesson_quote_name: "Sureet"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "A-Level Physics"
 
-tutor_strip_heading: "Loughborough A-Level tutors matched by module, not just by subject"
-tutor_strip_body: "Two students taking A-Level Physics can be sitting different option papers, and a tutor matched on the subject name alone spends the first fortnight working that out. Board and module choices get pinned down on the first call, before any name is put forward. Most tutors hold Russell Group degrees in the subject they teach and sat these papers recently. Browse profiles, or let us match your child."
+tutor_strip_heading: "Loughborough A-Level tutors picked for your child's board and options"
+tutor_strip_body: "Two children doing A-Level Physics can be on different boards, or on different optional topics within one. So we check your child's board and options on the call, then suggest Russell Group graduates who know them. Browse the profiles, or let us pick."
 
-pathways_heading: "What Comes After A-Levels in Loughborough"
-pathways_lead: "Three routes, and what each one hangs on."
+pathways_heading: "Where A-Levels Can Lead From Loughborough"
+pathways_lead: "Three routes your child might take, and what each one hangs on."
 pathways:
   - title: "Universities"
     body: >
-      Loughborough University sits in the middle of the town and takes a share of local students each year, with Nottingham, Leicester, Birmingham, Warwick and Sheffield all within an easy radius. Engineering, sport science and business are the routes the town feeds most heavily, and each publishes subject-specific requirements rather than a single grade profile.
+      Loughborough University is right on your doorstep, and Nottingham, Leicester, Birmingham, Warwick and Sheffield are all within easy reach. Whether it's engineering, sport science or business, each course sets its own subject requirements, so it's worth checking the exact one your child has in mind.
   - title: "Degree Apprenticeships"
     body: >
-      AstraZeneca at Charnwood runs science routes, and engineering and manufacturing employers across the East Midlands take degree apprentices into mechanical, electrical and software disciplines. Requirements are published per scheme, vary between intakes, and Maths is the subject that most often decides eligibility.
+      Engineering and manufacturing employers across the East Midlands take degree apprentices into mechanical, electrical and software roles. Each scheme publishes its own entry requirements, which can change between intakes, and Maths is often the grade that decides whether your child can apply.
   - title: "Career Pathways"
     body: >
-      Some students move straight into technician and laboratory roles at the same employers, where a strong Science and Maths profile matters more than a degree. Gap years used to strengthen a reapplication also feature, most often where a Medicine or Veterinary application missed by a single grade.
+      A few head straight into technician and laboratory jobs with science and engineering employers, where a strong Science and Maths profile can count for as much as a degree. And some take a gap year to reapply, most often when a Medicine or Veterinary application missed by a single grade.
 
 reviews:
   - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
@@ -53,13 +53,13 @@ reviews:
   - "Alex|University Student|Can’t recommend The Degree Gap highly enough. Quick and helpful responses from Harry. He immediately matched me with a very competent tutor, who was a massive help in helping me exceed my target grade and achieve a first class degree at university."
 
 faq_1_q: "My son wants Engineering and his Maths is a grade short. Where do we start?"
-faq_1_a: "With Maths, and probably only Maths. Engineering courses publish subject-specific requirements and will not trade a strong grade elsewhere for the one they asked for, so spreading an hour a week across three subjects is the wrong shape here. The first session looks at whether the loss is in pure, mechanics or statistics, because the answer changes the plan completely. One subject worked properly for two terms beats three subjects touched lightly."
-faq_2_q: "Is it worth starting in Year 12 or waiting to see how Year 13 goes?"
-faq_2_a: "Year 12, in almost every case. The predicted grade that goes to UCAS is built out of Year 12 work and the Year 13 autumn mocks, so waiting to see how Year 13 goes usually means waiting until the evidence behind the prediction is already written. There is no appeal against a predicted grade, because it is a professional judgement rather than a result. The window that exists is before the reference is submitted, not after."
-faq_3_q: "Do you cover the Sciences at the depth A-Level needs?"
-faq_3_a: "Yes, and matching is done on the specification rather than the subject. AQA and OCR Biology are not the same paper, and the option modules differ again. Where a student is taking two or three Sciences and one is dragging, we would rather put a specialist on that one than a generalist across all of them. Say which board and which modules on the consultation call and we will match to those."
+faq_1_a: "With Maths, and probably only Maths. Engineering courses set their own subject requirements, and a strong grade somewhere else won't stand in for the one they asked for. So splitting one hour a week across three subjects isn't the best use of it. In the first lesson the tutor looks at whether he's losing marks in pure maths, mechanics or statistics, because the answer changes the whole plan. Two terms on one subject, done properly, beats a light touch on all three."
+faq_2_q: "Is it worth starting in Year 12, or should we wait and see how Year 13 goes?"
+faq_2_a: "Start in Year 12 if you can. Your child's predicted grade rests mostly on their Year 12 work, and it usually goes off to UCAS in the autumn of Year 13. So by the time you've seen how Year 13 is going, most of the evidence behind it is already in. It's the school's call, and it's hard to shift once it's been sent. The time to help is before then."
+faq_3_q: "Can a tutor really go deep enough for A-Level Sciences?"
+faq_3_a: "Yes, because we match on the exact course, not just the subject name. AQA and OCR Biology aren't the same course, and their papers are set out differently. If your child's doing two or three Sciences and only one is dragging, say Chemistry for a Medicine application, we'd rather find a tutor who knows that one inside out than someone spread across all three. Tell us the board on the call and we'll match to it."
 faq_4_q: "How much does A-Level tutoring cost, and can we keep it to one term?"
-faq_4_a: "From £37 an hour, agreed before anything is booked, and yes. A short block of eight to twelve sessions aimed at a single subject is a completely normal shape and it is often the right one, especially where the target is one band in one subject. There is no contract, so you stop when it has done its job. The hour covers the lesson, the preparation, the papers set and the feedback."
+faq_4_a: "It's from £37 an hour, agreed with you before anything's booked, and yes, one term is fine. A block of eight to twelve weekly lessons on one subject is a really normal shape, and often the right one when the aim is one band in one subject. There's no contract, so you stop when it's done its job. The price covers the lesson itself, plus the tutor's preparation, the practice papers and their feedback."
 
 sitemap:
   priority: 0.7

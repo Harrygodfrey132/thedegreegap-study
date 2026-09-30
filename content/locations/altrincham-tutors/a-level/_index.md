@@ -1,38 +1,41 @@
 ---
 title: "Altrincham A-Level Tutors | Year 12 to UCAS | The Degree Gap"
-description: "Altrincham A-Level tutors for the autumn term that resets every Year 12, new sixth form or not. One-to-one online tutoring over Lessonspace, from £37 an hour."
+description: "Year 12 off to a shaky start, maybe at a new sixth form? Altrincham A-Level tutors who find the GCSE topics the new course takes for granted. Online, from £37."
 layout: "subject"
 location: "Altrincham"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level tutoring in Altrincham for the autumn term that resets every Year 12"
+hero_heading_line1: "Online Altrincham A-Level Tutors for a Wobbly First Term in Year 12"
 hero_heading_line2: ""
-hero_lead: "September of Year 12 puts a lot of Altrincham students in a new building, a new set and a subject that has quietly changed shape. Our Altrincham A-Level tutors go back for the piece that got skipped and work on it one-to-one, online over Lessonspace, before the first mock."
+hero_lead: "Year 12 can put your child in a new sixth form, with new teachers and a subject that's quietly changed shape since GCSE. Our Altrincham A-Level tutors go back for whatever slipped through in the move and fix it, one-to-one and online, before the first mock."
 
 grade_from: "C"
 grade_to: "A"
-grade_stat: "A real A-Level lift of almost two grades on a Year 13 mock, after weekly one-to-one online sessions."
+grade_stat: "One parent's son ended up almost two grades above his Year 13 mock, with a tutor they called excellent."
 
 first_lesson_eyebrow: "NEW BUILDING, SAME EXAM"
 first_lesson_heading: "What an Altrincham A-Level Tutor Goes Back For in the First Term"
-first_lesson_context: "A good share of Altrincham's Year 12s are new to their sixth form in September, whether that's an external place at one of the grammars, the sixth form centre at Trafford College, or Loreto College in the city. New teachers, a new board, and a course that assumes the GCSE was taught the way this school teaches it. An A-Level tutor's first job here is to find the join, the topic the new class assumes and the old class didn't quite finish, and close it before the first mock reads it as a weakness."
+first_lesson_context: "Plenty of Altrincham teenagers start Year 12 somewhere new, at one of the grammars, Trafford College's sixth form centre or Loreto College in the city. And the new course may assume GCSE topics came in a different order from the one your child's old school used. An A-Level tutor's first job is to find the topic that got missed in the switch, and cover it before the first mock turns it into a low mark."
 first_lesson_quote: "My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
 first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Almost two grades above the Year 13 mock"
 
 tutor_strip_heading: "Altrincham A-Level tutors matched to the board, not the building"
-tutor_strip_body: "Year 12s don't all sit the same board, so we confirm the specification before proposing anyone. Most tutors sat the papers recently enough to remember where Year 12 stops feeling like GCSE, and about 3% of applicants pass the founder-led interview. Browse the profiles, or let us match your child."
+tutor_strip_body: "A move of sixth form can mean a new exam board, so we'll check your child's before suggesting anyone. Only about 3% of the tutors who apply get through Harry and Joe's interview. Have a browse, or let us do the matching."
 
 pathways_heading: "Where Altrincham Year 13s Head Once the Offers Land"
-pathways_lead: "Three routes Altrincham families weigh up, and the second one opens its applications earlier than most expect."
+pathways_lead: "The three routes we hear Altrincham families talking through, and the second has its own application dates, separate from UCAS."
 pathways:
   - title: "Universities"
-    body: "A lot of Altrincham students stay within commuting distance, with Manchester Metropolitan and Salford both close enough to live at home for, and the rest apply across the Russell Group on predicted grades written at the end of Year 12. Offers land months before an exam is sat, so the Year 12 summer assessments carry more of the application than most families expect."
+    body: >
+      Manchester Metropolitan and Salford are near enough for your child to live at home, and plenty apply further afield across the Russell Group. Offers arrive months before a single exam, on predictions that rest mostly on Year 12, so the end-of-Year-12 assessments count for more than you'd think.
   - title: "Degree Apprenticeships"
-    body: "Barclays takes technology and banking degree apprentices at its Radbroke Hall campus in Knutsford, a short drive from Altrincham, and Manchester Metropolitan delivers degree apprenticeships with more than five hundred employers, AstraZeneca and BAE Systems among them. Applications open in the autumn of Year 13, before UCAS, and they screen on predicted grades first."
+    body: >
+      Barclays takes technology and banking degree apprentices at Radbroke Hall in Knutsford, and Manchester Metropolitan runs degree apprenticeships with more than five hundred employers, AstraZeneca and BAE Systems among them. Many open during Year 13, and they'll usually check predicted grades first.
   - title: "Career Pathways"
-    body: "Manchester Airports Group has more than a hundred apprentices on its books at a time across engineering, aviation operations, firefighting and data analytics, and its two-year aviation management scheme is pitched at the level of a foundation degree. Trafford College's Altrincham campus runs tourism and aviation courses alongside computing and business, and each of those routes reads the grades before the interview."
+    body: >
+      Manchester Airports Group has more than a hundred apprentices at a time across engineering, aviation operations, firefighting and data analytics, and its two-year aviation management scheme is pitched at foundation degree level. Nearer home, Trafford College's Altrincham campus runs tourism and aviation courses, plus computing and business.
 
 reviews:
   - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
@@ -51,13 +54,13 @@ reviews:
   - "Marfa|Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university"
 
 faq_1_q: "My child has just moved to a new sixth form for Year 12. Is that the moment to start?"
-faq_1_a: "It's the best moment, and the first half term is better than the second. A new sixth form means a new board, sometimes a new module order, and teachers who assume the GCSE content arrived the way they teach it. The gap that opens is small in October and has compounded by the January assessments. So we'd start with one marked piece of work from the new school, find the join between the old course and the new one, and fix that before anything else. A Year 13 start still works, but by then the predictions have often been written."
-faq_2_q: "How does A-Level tutoring change a UCAS predicted grade?"
-faq_2_a: "Indirectly, but reliably. Predictions are written by teachers from Year 12 assessments and the first part of Year 13, so the only way to move one is to move the work those assessments see. That's what the sessions do: past-paper questions marked the way an examiner marks them, week after week, until the mock catches up with what the student actually knows. Around Altrincham the predictions tend to go in during the autumn of Year 13, so a Year 12 start gives two rounds of assessments to shift and a Year 13 start gives one. Either can work. One is easier."
-faq_3_q: "Can tutoring help with a degree apprenticeship application to Barclays or Manchester Airport?"
-faq_3_a: "Yes, on the part that's ours to help with. Barclays recruits degree apprentices into technology and banking at Radbroke Hall in Knutsford, Manchester Airports Group runs its own schemes, and Manchester Metropolitan delivers apprenticeship degrees for hundreds of employers. Each publishes its own minimum, usually framed as A-Level grades or equivalent, and the applications open in the autumn of Year 13, before UCAS. The tutor's job is the grades those screens read, plus honest feedback on a written application. We won't write it, and we'll say plainly if the predicted grades are short of the published bar."
+faq_1_a: "Yes, and the first half-term is better than the second. A new sixth form can mean a new exam board, topics in a different order, and teachers who assume GCSE was covered the way they'd have done it. That gap's small in October and much bigger by the January assessments. So we'd start with one marked piece of work from the new school. The tutor finds where the old course and the new one don't quite meet, and fixes that first. Starting in Year 13 still works. But by then the predicted grades are close to being settled."
+faq_2_q: "Will tutoring help my child's UCAS predicted grade?"
+faq_2_a: "It can, but only by changing the work the prediction's based on. Teachers set predicted grades from Year 12 assessments and the start of Year 13, so that's the work to focus on. It's what the lessons are for: exam questions marked the way an examiner would, week after week, until the mocks catch up with what your child really knows. Predictions usually go to UCAS in the autumn of Year 13. So starting in Year 12 gives you two rounds of assessments to work on, and Year 13 gives you one. Either can work. One's easier."
+faq_3_q: "My child's thinking about a Barclays or Manchester Airport apprenticeship. Can you help?"
+faq_3_a: "Yes, with the parts that are ours to help with. Barclays, Manchester Airports Group and the Manchester Metropolitan schemes each set their own minimum, usually in A-Level grades or equivalent, and many open in the autumn of Year 13. The tutor works on the grades those schemes look at, and can give honest feedback on a written application. We won't write it for your child, and we'll tell you plainly if the predictions are short of what a scheme asks for."
 faq_4_q: "Does online A-Level tutoring work for essay subjects as well as Maths?"
-faq_4_a: "Yes, and for essays it's often better, because the marking is the point. Sessions run on Lessonspace, a shared online whiteboard where an essay or a worked solution sits on screen for both people, gets annotated in the margin, and is recorded for later. For Maths and the sciences the working is written out in full and watched as it happens. For History, English or Economics the tutor marks against the actual band descriptors and hands the essay back with the marks it would have got. The one-to-one format also means an Altrincham student can be matched to a tutor who has marked that board's papers, wherever they live."
+faq_4_a: "Yes, and for essays it can work even better, because so much of the work is in the marking. Lessons run on the online classroom Lessonspace. The essay or the working sits on one shared screen, gets notes in the margin, and is recorded so your child can watch it back. For Maths and the Sciences, the tutor sees every line of working as it's written. For History, English or Economics, they mark against the board's own mark scheme and show your child what the essay would've scored. And because it's online, we can match your child with a tutor who knows that board's papers well, wherever they live."
 
 sitemap:
   priority: 0.7

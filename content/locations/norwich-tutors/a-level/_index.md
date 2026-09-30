@@ -1,41 +1,41 @@
 ---
 title: "Norwich A-Level Tutors | Expert Tutors | The Degree Gap"
-description: "Norwich A-Level tutors who turn subject knowledge into exam marks. One-to-one A-Level tutoring matched on specification, online, from £37 an hour."
+description: "Does your child know the subject but lose marks in the exam? Norwich A-Level tutors who start from their last marked paper. Online and one-to-one, from £37."
 layout: "subject"
 location: "Norwich"
 level: "A-Level"
 
-hero_heading_line1: "Online Norwich A-Level Tutors Who Turn Content Knowledge Into Exam Marks"
+hero_heading_line1: "Online Norwich A-Level Tutors for the Child Who Knows It but Drops Marks"
 hero_heading_line2: ""
-hero_lead: "Knowing the subject and scoring on the paper are two different skills, and A-Level is where that stops being a technicality. Our Norwich A-Level tutors work on the second one, because by Year 13 the first is rarely what is missing."
+hero_lead: "Your child can talk you through the topic at the kitchen table, then the marked paper comes back a grade lower. They're two different skills: knowing it, and scoring on it. Our Norwich A-Level tutors work on the second, because by Year 13 the first is rarely what's missing."
 
 grade_from: "C"
 grade_to: "A"
-grade_stat: "A real A-Level jump of almost two grades on a Year 13 mock paper, quoted from the parent who saw it."
+grade_stat: "From one parent: their son finished almost two grades above what his Year 13 mock said."
 
-first_lesson_eyebrow: "TWO GRADES ON A MOCK PAPER"
+first_lesson_eyebrow: "TWO GRADES ABOVE THE MOCK"
 first_lesson_heading: "What a Norwich A-Level Tutor Reads in a Marked Script"
-first_lesson_context: "A marked A-Level script tells you more in ten minutes than a term of reports. Where the marks stop, whether the argument was made or only implied, how much of the paper was reached. That is where a Norwich A-Level tutor starts, before deciding a single topic to teach."
+first_lesson_context: "Your child's last marked A-Level paper tells you more in ten minutes than a term of reports. Where the marks stop, whether the argument was made or only hinted at, how far through the paper they got. That's where a Norwich A-Level tutor starts, before choosing a single topic to teach."
 first_lesson_quote: "My son gained almost two grades higher than his year 13 mock paper. His tutor was excellent."
 first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Almost two grades above the Year 13 mock"
 
-tutor_strip_heading: "Norwich A-Level tutors who know the specification, not just the subject"
-tutor_strip_body: "Most tutors covering Norwich are Russell Group graduates and many are qualified examiners who have marked the papers your child sits. And that is the part that moves a top band. Browse the profiles, or ask us to match you."
+tutor_strip_heading: "Norwich A-Level tutors who can see where a paper lost its marks"
+tutor_strip_body: "All our tutors are Russell Group graduates, and some are qualified examiners, so they know what earns a mark and what only looks like it should. Browse the profiles, or ask us to match your child."
 
-pathways_heading: "What Comes After Norwich A-Levels"
-pathways_lead: "A good tutor keeps these three destinations in view from the first session."
+pathways_heading: "The Routes Open to Norwich Teenagers After A-Levels"
+pathways_lead: "It helps to have these three in mind early, and a good tutor will too."
 pathways:
   - title: "Universities"
     body: >
-      The University of East Anglia and Norwich University of the Arts are both in the city, and students apply widely into Nottingham, Leicester, York and Cambridge from here. Each course publishes its own entry requirements, and the more competitive ones ask near the top of the A-Level band.
+      The University of East Anglia and Norwich University of the Arts are both in the city, and families here also look at Nottingham, Leicester, York and Cambridge. Each course publishes its own entry requirements, and the more competitive ones ask for grades near the top of the A-Level range.
   - title: "Degree Apprenticeships"
     body: >
-      Aviva runs degree apprenticeships from its Norwich head office, and Lotus takes school leavers onto engineering routes at Hethel. These schemes publish predicted-grade thresholds that vary by programme and close early in Year 13.
+      Aviva takes degree apprentices at its Norwich offices, and Lotus trains school leavers on engineering routes at Hethel. Each programme sets its own grade requirements, and a few close their applications early in Year 13.
   - title: "Career Pathways"
     body: >
-      A lot of Norwich students go straight into the NHS at the Norfolk and Norwich University Hospital, or into the insurance and agri-tech employers the region runs on. A-Level subject choices still decide which routes stay open afterwards.
+      Some go straight into the NHS at the Norfolk and Norwich University Hospital, or into the region's insurance and agri-tech employers. Either way, your child's A-Level subjects still decide which routes stay open later on.
 
 reviews:
   - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than his year 13 mock paper. His tutor was excellent."
@@ -56,13 +56,13 @@ reviews:
   - "Tommy|University Student|I wish I had found The Degree Gap when I was sitting my school exams. They helped with my dissertation work and without their help I am not sure I would have graduated so successfully and landed a successful job."
 
 faq_1_q: "She knows the content but the essays keep scoring in the middle. Why?"
-faq_1_a: "Because the essays are almost certainly describing rather than arguing, which is the single most common A-Level pattern we see. A student writes everything they know in a sensible order and it reads like a summary, so it scores like one. The fix is structural. A tutor teaches the shape of an evaluated paragraph and then marks the same essay again and again until that shape is automatic."
+faq_1_a: "Most likely because her essays describe rather than argue, and it's the most common A-Level pattern we see. She writes down everything she knows in a sensible order, so it reads like a summary and gets marked like one. The fix is in the structure. The tutor shows her what a paragraph that weighs things up looks like, then marks the same essay again and again until that shape comes naturally."
 faq_2_q: "Can a tutor help with a UEA application?"
-faq_2_a: "Yes, though the honest answer is that the subject grades do most of the work. UEA publishes its own entry requirements course by course and they vary a lot between subjects, so the first job is checking the ones that actually apply. Beyond that a tutor can help with the personal statement and, for the courses that interview, with talking about the subject properly."
-faq_3_q: "Should we start in Year 12 or wait until Year 13?"
-faq_3_a: "Year 12 is the better answer and the one most families wish they had taken. Predicted grades come out of Year 12 work plus the Year 13 mock, so the window to change one closes earlier than it looks. A Year 13 start still helps and we do plenty of them. It just narrows to exam papers and technique rather than rebuilding anything underneath."
-faq_4_q: "What does A-Level tutoring cost?"
-faq_4_a: "From £37 an hour, depending on the tutor's experience, and agreed before any session is booked. The hour includes the tutor's preparation, the past papers or resources they put together, and the feedback afterwards. Most families run a weekly hour in the subject that needs it rather than spreading thin across three."
+faq_2_a: "Yes, though it's the grades that do most of the work. UEA sets its own entry requirements course by course, and they vary a lot, so the first job is checking the ones for your child's course. After that, a tutor can help with the personal statement and, for courses that interview, with talking about the subject with confidence."
+faq_3_q: "My child's already in Year 13. Have we left it too late?"
+faq_3_a: "No. A Year 13 start still helps, and we do plenty of them. It just narrows to past papers and exam technique, rather than rebuilding anything underneath. But if you do have the choice, Year 12's easier. Predicted grades rest mostly on Year 12 work and usually go to UCAS in the autumn of Year 13, so the window to change one closes earlier than it looks."
+faq_4_q: "What's the cost, and what does the hour include?"
+faq_4_a: "Lessons start from £37 an hour, depending on the tutor's experience, and we'll agree the price with you before anything's booked. That covers the lesson plus the tutor's preparation, any past papers or resources they put together, and feedback afterwards. Most families go for one hour a week in the subject that needs it, rather than a bit of everything."
 
 sitemap:
   priority: 0.7

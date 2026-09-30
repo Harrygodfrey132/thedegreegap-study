@@ -1,41 +1,41 @@
 ---
 title: "Portsmouth A-Level Tutors | Expert Tutors | The Degree Gap"
-description: "Portsmouth A-Level tutors who fix the marks lost to timing and technique. One-to-one A-Level tutoring matched on specification, online, from £37 an hour."
+description: "Knows the answers but runs out of time? Our Portsmouth A-Level tutors work one-to-one online on your child's pace and technique, not just content. From £37."
 layout: "subject"
 location: "Portsmouth"
 level: "A-Level"
 
-hero_heading_line1: "Online Portsmouth A-Level Tutors Who Fix the Marks Lost to Timing"
+hero_heading_line1: "Online Portsmouth A-Level Tutors for a Child Who Keeps Running Out of Time"
 hero_heading_line2: ""
-hero_lead: "Plenty of Year 13s can answer every question on a paper, given long enough. The exam does not give them long enough. Our Portsmouth A-Level tutors work on pace and structure alongside content, because that is where the last band usually sits."
+hero_lead: "If your child comes out of every paper saying they ran out of time, they're not alone. Plenty of Year 13s know the answers but can't get them down fast enough. Our Portsmouth A-Level tutors work on pace and structure as well as content."
 
 grade_from: "E"
 grade_to: "C"
-grade_stat: "A real move from E and U grades to three C grades at A-Level, in the parent's own words."
+grade_stat: "Joanna's son turned E and U grades into three Cs at A-Level, and that's straight from her review."
 
 first_lesson_eyebrow: "FROM E AND U TO THREE Cs"
 first_lesson_heading: "What a Portsmouth A-Level Tutor Does With Two Terms Left"
-first_lesson_context: "The call usually comes after the Year 13 mock, when the gap between what a student knows and what they scored is suddenly on paper. There is more time in that gap than it feels like. The first session works out which marks are actually recoverable and which are not worth chasing."
+first_lesson_context: "The call often comes after the Year 13 mock, when the gap between what your child knows and what they scored is suddenly there in black and white. There's more time to close it than it feels like. The first lesson works out which marks can be won back and which aren't worth chasing."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing."
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Grade E to Grade C across three A-Levels"
 
-tutor_strip_heading: "Portsmouth A-Level tutors who have marked the papers your child sits"
-tutor_strip_body: "Most tutors covering Portsmouth are Russell Group graduates, and many have examined the specifications your child is taking. And at A-Level that is the difference, because the final band is usually technique rather than knowledge. Browse the profiles, or ask us to match you."
+tutor_strip_heading: "Portsmouth A-Level tutors who know what the examiners reward"
+tutor_strip_body: "All of them are Russell Group graduates, and some have worked as examiners. And at A-Level that matters, because the last grade is usually down to technique rather than knowledge. Browse the tutors below, or tell us about your child and we'll choose."
 
-pathways_heading: "Where Portsmouth A-Level Students Land Next"
-pathways_lead: "Three routes Portsmouth families weigh up once results land."
+pathways_heading: "Portsmouth Year 13s and What Comes Next"
+pathways_lead: "Once results are in, most Portsmouth families are choosing between these three."
 pathways:
   - title: "Universities"
     body: >
-      The University of Portsmouth sits in the city and Southampton is half an hour up the road, with students applying widely into Sussex, Surrey, Exeter and Bristol. Each course publishes its own entry requirements, and the more competitive ones ask near the top of the A-Level band.
+      There's the University of Portsmouth in the city itself, Southampton's half an hour up the road, and plenty of Portsmouth teenagers apply further afield to Sussex, Surrey, Exeter and Bristol. Every course sets its own entry requirements, and the more competitive ones ask for grades near the top.
   - title: "Degree Apprenticeships"
     body: >
-      BAE Systems runs degree apprenticeships at Portsmouth Naval Base, and QinetiQ and the Royal Navy both take school leavers onto technical and engineering routes. These schemes publish predicted-grade thresholds that vary by programme and close early in Year 13.
+      BAE Systems runs degree apprenticeships at Portsmouth Naval Base, and QinetiQ and the Royal Navy both take school leavers onto technical and engineering routes. Every scheme sets its own entry grades and closing dates, and a few close early in Year 13.
   - title: "Career Pathways"
     body: >
-      A lot of students move straight into the NHS at Queen Alexandra Hospital, or into the marine and defence employers the city is built around. A-Level subject choices still decide which of those routes remain open.
+      Plenty of young people go straight into the NHS at Queen Alexandra Hospital, or into the marine and defence employers the city's built around. Even then, A-Level subject choices decide which of those doors stay open.
 
 reviews:
   - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
@@ -55,14 +55,14 @@ reviews:
   - "Aila|University Applicant|Harry was amazing! He helped me shape my personal statement into something I was truly proud of, and thanks to his support, I got into my dream university! Couldn’t have done it without him–highly recommend to anyone applying to uni."
   - "Kachi|University Student|My tutor transformed my performance in mathematical economics modules, taking me from a third class to a first. His patience and ability to adapt to my needs exceeded my expectations."
 
-faq_1_q: "He runs out of time in every A-Level paper. Is that fixable?"
-faq_1_a: "Yes, and faster than most families expect, because it is a habit rather than a gap. Students who work carefully in a quiet room build a pace that a two and a half hour paper punishes. A tutor times sections rather than whole papers at first, sets a mark-per-minute target, and marks what gets produced under that pressure. The content usually turns out to have been fine."
-faq_2_q: "Is Year 12 the right time to start, or should we wait?"
-faq_2_a: "Year 12, if you have the choice. Predicted grades come from Year 12 performance plus the Year 13 mock, so the window for changing a prediction closes earlier than most people realise. Starting in Year 13 still works and we do it often. There is simply less room, and more of each hour goes on exam papers than on rebuilding foundations."
-faq_3_q: "Can a tutor help with a BAE Systems or Royal Navy apprenticeship application?"
-faq_3_a: "Yes. These routes screen on predicted grades first, so the subject work is the main event, above all Maths and Physics for the engineering schemes. Beyond that a tutor can help a student explain their subjects clearly at the assessment stage. Each scheme publishes its own entry requirements and the timings vary, so check the specific programme early in Year 13."
-faq_4_q: "What if the tutor is not the right fit?"
-faq_4_a: "We re-match, and there is no friction in asking. Every family speaks with Harry or Joe before a tutor is proposed, which is why most first matches work. But personality matters at this age as much as subject knowledge, and sometimes that only shows after a session or two. Nothing is locked in and there is no minimum term."
+faq_1_q: "My son runs out of time in every A-Level paper. Can that be fixed?"
+faq_1_a: "Yes, and usually faster than families expect, because it's a habit rather than a gap in what he knows. Teenagers who work slowly and carefully in a quiet room build a pace that a long timed paper punishes. So the tutor times single sections first, not whole papers, gives him a rough target in marks per minute, and marks whatever he gets down under that pressure. More often than not, the content turns out to have been fine all along."
+faq_2_q: "Is Year 12 too soon to start, or should we wait?"
+faq_2_a: "Not too soon at all. If you can start in Year 12, it's worth doing. Schools mostly base predictions on how your child does in Year 12. They're usually sent to UCAS in the autumn of Year 13, so the window for improving them closes sooner than most people think. Starting in Year 13 still works, and we do it often. There's just less room, and more of each hour goes on past papers than on rebuilding the basics."
+faq_3_q: "Can you help if my child's applying to BAE Systems or the Royal Navy?"
+faq_3_a: "Yes. Those routes look at predicted grades first, so the subject work matters most, above all Maths and Physics for the engineering schemes. The tutor can also help your child talk about their subjects clearly at the assessment stage. Requirements and timings differ from scheme to scheme, so it's worth checking the one your child wants early in Year 13."
+faq_4_q: "What if the tutor turns out not to be right for them?"
+faq_4_a: "We'll find someone else, and it's never awkward to ask. Every family talks to Harry or Joe before we suggest a tutor, which is why most first matches work. But at this age personality matters as much as subject knowledge, and sometimes that only shows after a lesson or two. Nothing's locked in, and there's no minimum term."
 
 sitemap:
   priority: 0.7
