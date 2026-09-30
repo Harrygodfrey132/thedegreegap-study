@@ -1,16 +1,16 @@
 ---
 title: "Banbury Tutoring | Expert Support | The Degree Gap"
-description: "Banbury tutoring for GCSE and A-Level students. One-to-one tutors who trace gaps back to the root and rebuild from there, matched on subject and exam board."
+description: "If your child's struggles go back years, our online Banbury tutoring finds where they started and rebuilds from there. One-to-one GCSE and A-Level, from £37."
 layout: single
 location: Banbury
-banner_heading: "Online Banbury tutors who go back to where the gap started, not just where the syllabus is now"
-banner_description: "Our Banbury tutoring starts with what's actually holding the grade back, not the next chapter of the textbook."
-content_angle: "foundation gaps"
-intro_1: "Sometimes the problem isn't this week's homework. It's a Year 8 topic, two years back, that never quite clicked. By GCSE that gap has had time to spread. Algebra that the Year 11 textbook treats as background knowledge is the bit a student is still quietly working around. Essay structure that the Year 10 teacher mentioned once becomes the reason a B grade won't move. Most Banbury parents who get in touch describe a version of this, and the pattern is almost always the same."
-intro_2: "Our Banbury tutors start by working out exactly where the gap is, then rebuild from there. Not from where the syllabus is right now. From the foundation the rest of the topic actually rests on. Students from Blessed George Napier, North Oxfordshire Academy, Chenderit, Warriner and the independent schools across the area come to us for the same reason, the school can't pause and reteach a Year 8 method to one student. A one-to-one tutor can."
+banner_heading: "Online Banbury tutors who find where your child first got lost, and start there"
+banner_description: "When this week's homework keeps going wrong, the reason is often a topic from years ago. Our tutors look there first."
+content_angle: "foundation gaps: the older topic behind this week's struggle, seen from the parent's side"
+intro_1: "You sit down to help with the homework and it turns out this week's topic isn't really the problem. It's something from Year 8, two years back, that never quite clicked. By GCSE, a gap like that has had time to spread. The algebra the Year 11 textbook treats as old news is the bit your child is still quietly working around. An essay structure mentioned once in Year 10 becomes the reason an English grade won't budge. Most Banbury parents who call us describe some version of this."
+intro_2: "So our tutors find the gap first, then rebuild from there. Not from wherever the syllabus happens to be this week. Families come to us from every kind of school around Banbury, from The Warriner to Tudor Hall, and the reason's usually the same. A teacher with a full class can't pause to reteach a Year 8 method to one child. A one-to-one tutor can, and can go as slowly as your child needs."
 about_heading: "Find the Right Tutor in Banbury"
 about_image: /images/students-in-classroom-taking-notes.jpg
-schools_intro: "Tutors who work with us support students from secondary schools across Banbury and the wider North Oxfordshire area. Blessed George Napier Catholic School, North Oxfordshire Academy, The Warriner School, Chenderit School, Bloxham School and Tudor Hall send students our way, whether they're closing GCSE gaps, sitting Common Entrance or building A-Level foundations. We also run free workshops on revision strategy and exam technique, open to students from any local school."
+schools_intro: "North Oxfordshire has a real mix of schools, and we hear from parents at lots of them, including Blessed George Napier Catholic School, North Oxfordshire Academy, The Warriner School, Chenderit School, Bloxham School and Tudor Hall. Some children are closing GCSE gaps, some are sitting Common Entrance and some are laying the groundwork for A-Level. We work directly with more than 15 UK secondary schools too, and Harry and Joe spend a good part of the week in them, running revision workshops."
 schools:
   - Blessed George Napier Catholic School
   - North Oxfordshire Academy
@@ -19,12 +19,12 @@ schools:
   - Bloxham School
   - Tudor Hall School
 schools_image: /images/empty-classroom-desks.jpg
-online_heading: "Online tuition for Banbury students: structure, consistency and feedback"
-online_1: "Most of our work with Banbury families runs online through Lessonspace, our shared whiteboard built for one-to-one sessions. Tracing a gap back to its root needs precision, not the spare ten minutes a busy classroom can offer. On the whiteboard, a tutor can see exactly where a student goes wrong on a worked problem, slow down, and rebuild the method in real time. Sessions are recorded so a student can revisit the bits they want to."
-online_2: "And consistent weekly sessions matter more than total hours when you're rebuilding foundations. Online tutoring keeps the week's session in the diary without travel time eating into it, which means the work compounds. Lessonspace takes about a minute to learn, and most Banbury students are comfortable with it from the first session."
+online_heading: "Why online tutoring suits Banbury families rebuilding the basics"
+online_1: "Tracing a gap back to where it began takes close attention, more than the spare ten minutes a busy classroom can give. Online, that's easier than you might think. On the platform Lessonspace, your child and the tutor share a whiteboard, so the tutor sees exactly which line of a worked problem goes wrong, slows right down and rebuilds the method there and then. There's a replay of every lesson, so your child can rewatch the bit they need."
+online_2: "And when you're rebuilding the basics, a steady lesson every week does more than the odd long one. With no driving in from Bloxham or Deddington, that weekly slot is far easier to keep, and each lesson builds on the last. Lessonspace takes a minute or so to learn, and your child will probably feel at ease with it from the first session."
 online_image: /images/student-studying-on-bed-with-laptop.jpg
 map_url: "https://maps.google.com/maps?q=Banbury,UK&output=embed"
-areas_intro: "Our tutors work with students from Banbury and the surrounding towns, matching each family with the tutor best suited to their subject and goals."
+areas_intro: "From central Banbury out to Adderbury and Brackley, every lesson happens at home, online. You'll find our pages for nearby towns below."
 area_links:
   - Oxford Tutors|/locations/oxford-tutors/
   - Milton Keynes Tutors|/locations/milton-keynes-tutors/
@@ -33,41 +33,41 @@ area_links:
   - Royal Leamington Spa Tutors|/locations/royal-leamington-spa-tutors/
   - Stratford-upon-Avon Tutors|/locations/stratford-upon-avon-tutors/
 gcse_subjects:
-  - GCSE Maths Tuition|Targeted work that traces gaps back to their root and rebuilds solid understanding, rather than racing through content that hasn't yet clicked.|/book-a-call/
-  - GCSE English Tuition|Patient tutoring through close reading, structured essay writing and the unseen passage technique that often decides the grade.|/book-a-call/
-  - GCSE Biology Tuition|Full-specification work for students who want a confident grip on the six and nine-mark questions, not just the easy marks.|/book-a-call/
-  - GCSE Chemistry Tuition|Bonding, equations and rates of reaction taught with worked examples and the kind of repetition that builds long-term recall.|/book-a-call/
-  - GCSE Physics Tuition|Forces, waves and electricity rebuilt from the topic that didn't land, with tutors who explain rather than skip ahead.|/book-a-call/
-  - GCSE History Tuition|Source analysis and timed essay structure, with tutors who know how the GCSE mark scheme rewards method.|/book-a-call/
-  - GCSE Geography Tuition|Case study revision and nine-mark question technique, taught by tutors who've sat where Banbury students sit.|/book-a-call/
-  - GCSE French Tuition|All four skills, with the speaking and writing prep that turns scattered vocabulary into reliable marks.|/book-a-call/
-  - GCSE Computer Science Tuition|Programming, algorithms and Boolean logic, taught by tutors who can debug a student's thinking, not just their code.|/book-a-call/
+  - "GCSE Maths Tuition|The tutor goes back to where Maths stopped making sense for your child, often fractions or negative numbers, and builds forward from there.|/book-a-call/"
+  - "GCSE English Tuition|Patient help with close reading and essay planning, plus a calm routine for the unseen extract that so often decides the grade.|/book-a-call/"
+  - "GCSE Biology Tuition|The whole course covered, with plenty of practice on the six-mark questions, so your child isn't just collecting the easy marks.|/book-a-call/"
+  - "GCSE Chemistry Tuition|Bonding, equations and rates of reaction, with worked examples repeated often enough that they're still there by the summer exams.|/book-a-call/"
+  - "GCSE Physics Tuition|The tutor starts from the topic that didn't land, whether that's forces, waves or electricity, and explains it instead of skipping ahead.|/book-a-call/"
+  - "GCSE History Tuition|A clear, repeatable method for source questions and timed essays, which is exactly what the mark scheme rewards.|/book-a-call/"
+  - "GCSE Geography Tuition|Case study revision and a simple way into the longer questions, so your child knows how to start before they write.|/book-a-call/"
+  - "GCSE French Tuition|Listening, reading, speaking and writing, with regular practice that turns scattered vocabulary into marks your child can count on.|/book-a-call/"
+  - "GCSE Computer Science Tuition|Programming, algorithms and Boolean logic, with a tutor who can find the flaw in your child's thinking as well as their code.|/book-a-call/"
 alevel_subjects:
-  - A-Level Maths Tuition|Pure, statistics and mechanics tutoring built around the Year 12 jump that catches a lot of Banbury students out.|/book-a-call/
-  - A-Level Biology Tuition|Genetics, physiology and ecology rebuilt from the GCSE foundation, with the synoptic depth A-Level Biology demands.|/book-a-call/
-  - A-Level Chemistry Tuition|Organic, inorganic and physical chemistry, with the multi-step problem solving that decides the top end of the mark band.|/book-a-call/
-  - A-Level Physics Tuition|Mechanics, fields and quantum topics taught by tutors with engineering and physics backgrounds at Russell Group level.|/book-a-call/
-  - A-Level Economics Tuition|Micro, macro and evaluation writing for students who want the AO3 marks the mark scheme really rewards.|/book-a-call/
-  - A-Level Psychology Tuition|Research methods and evaluation writing for students who want to write precisely under timed conditions.|/book-a-call/
-  - A-Level History Tuition|Analytical essay writing at A-Level, with the structure shift from a strong GCSE answer to an A-Level one.|/book-a-call/
-  - A-Level English Tuition|Critical analysis and comparative essay structure at A-Level, taught by tutors who've marked these papers.|/book-a-call/
-  - A-Level Geography Tuition|Concept work, fieldwork analysis and extended writing for students pushing past a B into an A.|/book-a-call/
+  - "A-Level Maths Tuition|The Year 12 jump catches plenty of Banbury teenagers off guard, so the tutor takes extra care with pure, statistics and mechanics early on.|/book-a-call/"
+  - "A-Level Biology Tuition|Genetics, physiology and ecology built up from the GCSE basics, then linked across topics the way the A-Level papers expect.|/book-a-call/"
+  - "A-Level Chemistry Tuition|The multi-step calculations where one slip can cost a whole question, alongside organic, inorganic and physical chemistry.|/book-a-call/"
+  - "A-Level Physics Tuition|Russell Group graduates who can show your child why the maths in mechanics and fields works, not only how to use it.|/book-a-call/"
+  - "A-Level Economics Tuition|Micro, macro and evaluation, the part where your child weighs up both sides of an argument, which the mark scheme rewards heavily.|/book-a-call/"
+  - "A-Level Psychology Tuition|Research methods and evaluation, written precisely and against the clock, with no padding.|/book-a-call/"
+  - "A-Level History Tuition|The shift from a good GCSE answer to an A-Level essay, which needs a sharper argument than most teenagers expect.|/book-a-call/"
+  - "A-Level English Tuition|Comparing two texts in one essay without losing the thread, with a tutor who knows how these papers are marked.|/book-a-call/"
+  - "A-Level Geography Tuition|Concepts, fieldwork analysis and extended writing, at whatever level your child is working now.|/book-a-call/"
 other_subjects:
-  - University Personal Statement|Shape a strong UCAS personal statement with expert support on structure, subject motivation, and final polish.|/book-a-call/
-faq_1_q: "Can you support Banbury students who have fallen significantly behind?"
-faq_1_a: "Yes. Some of the students we work with in Banbury have gaps stretching back a year or more. We start by working out exactly where things went wrong, not just picking up from where school left off. Then we build a plan around that."
-faq_2_q: "How do I know if my child actually needs a tutor?"
-faq_2_a: "Grades slipping despite effort. Confidence dropping. Putting the work in but not seeing results. Those are the clearest signs. Sometimes it's simpler than that. Some students in Banbury just want to go further than the classroom pace allows. Either is a good reason to get in touch."
-faq_3_q: "How long does it take to see an improvement?"
-faq_3_a: "Most students notice something within the first few sessions. Not always in grades straight away, but in how the subject feels. Less daunting. Clearer. Grade improvements usually follow within a half term of regular sessions."
-faq_4_q: "How much does tutoring cost in Banbury?"
-faq_4_a: "Sessions start from £37 per hour. The exact rate depends on the subject and the tutor, and it's always agreed before anything is booked. No surprises, no hidden fees."
-why_heading: "Structured tutoring that closes Banbury students' gaps"
-why_para_1: "In a first session with a Banbury student, what tutors find most often isn't a content problem. It's a method problem. A student who can answer the easy marks but can't see how the harder questions are built. A student who learned long division one way in Year 6, never quite got how it transfers to algebra, and has been working around the gap since. The school's pace doesn't allow for going back. The tutor's job, in the first three or four sessions, is exactly that."
-why_para_2: "Once the gap is mapped, the plan is straightforward. Rebuild the foundation. Drill the method until it's automatic. Then move forward into the current syllabus, but with the bedrock in place this time. Parents tend to notice the change in how their child talks about the subject before they see it on a mark scheme. Less avoidance. More questions. A bit of confidence creeping back."
-accordion_quality: "Every tutor working with Banbury students is assessed on subject depth and on how clearly they can explain a method without losing the student's interest. For foundation work, careful explanation matters as much as subject mastery."
-accordion_experience: "Our tutors have worked with students from across North Oxfordshire on rebuilding GCSE foundations, A-Level transitions and university applications. They've seen the same gaps a hundred times and know which methods stick fastest."
-accordion_personalised: "We don't run set programmes. For a Banbury student, the first sessions are a diagnostic, then the plan is built around the specific gap, not a generic six-week timetable."
+  - "University Personal Statement|Support with the UCAS personal statement, from finding what your child wants to say to a last careful read.|/book-a-call/"
+faq_1_q: "My child's fallen a long way behind. Is it too late to help?"
+faq_1_a: "No. Some of the Banbury children we work with have gaps going back a year or more. The tutor works out where things first went wrong, rather than picking up where school has got to, and plans from there. Those first lessons can feel like going backwards. They're meant to."
+faq_2_q: "Does my child actually need a tutor, or am I overthinking it?"
+faq_2_a: "You're probably not overthinking it if your child's grades are slipping despite the effort, or their confidence has dropped in one subject. Sometimes it's simpler: your child wants to go further than the class can. Either is a good reason for a chat. And if we don't think a tutor's the answer yet, we'll say so."
+faq_3_q: "How long before things start to improve?"
+faq_3_a: "It depends on how far back the gap goes. The first few lessons go over older topics, so this year's marks can take a while to move, often about half a term of weekly lessons. What you'll usually notice sooner is that the subject stops being the one your child avoids."
+faq_4_q: "What does it cost?"
+faq_4_a: "Lessons start at £37 an hour. The price depends on the tutor, and it's agreed with you before anything's booked. There's no joining fee and no contract, so you're never locked in."
+why_heading: "How our Banbury tutors close the gap your child's been working around"
+why_para_1: "In a first lesson with a Banbury child, the tutor rarely finds a content problem. It's usually a method problem. Maybe your child picks up the easy marks but can't see how the harder questions are put together. Or they learnt long division one way in Year 6, never saw how it carries over to algebra, and have been working around it ever since. Going back that far takes time, which is what the first three or four lessons are for."
+why_para_2: "Once the gap's mapped, the plan is simple. Rebuild the foundation. Practise the method until it's automatic. Then move on to the current topics with something solid underneath. You'll probably hear the change before you see it in a test result: fewer excuses at homework time, more questions, and a bit of confidence creeping back."
+accordion_quality: "Harry and Joe interview every tutor themselves, on their subject and on how clearly they can explain a method without losing a teenager's attention. When the job is rebuilding the basics, patience matters as much as subject knowledge."
+accordion_experience: "Across North Oxfordshire, the tutors we suggest have worked with families on rebuilding GCSE foundations, easing the move up to A-Level and helping with university applications. They've met the same gaps many times and know which explanations stick."
+accordion_personalised: "Nothing's planned before the tutor has met your child. The first lessons work out where the gap is, and the plan's built around that, not a six-week timetable that's the same for everyone."
 reviews:
   - Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. We were given a selection of tutors to choose from and told that if it did not feel like a good match we could try others. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend.
   - Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing

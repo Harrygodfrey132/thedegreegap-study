@@ -1,16 +1,16 @@
 ---
 title: "London Tutors | GCSE and A-Level | The Degree Gap"
-description: "London tutoring for GCSE and A-Level students. One-to-one tutors matched on subject, exam board and the standard your child's school is actually set against."
+description: "Matched on your child's subject and exam board, not your postcode: London tutors for GCSE and A-Level, one-to-one and online. Lessons from £37, no contract."
 layout: single
 location: London
-banner_heading: "Need an online London tutor matched on subject and exam board, not just postcode?"
-banner_description: "Our London tutors are matched on subject, exam board and how a student learns, so the work in the session lines up with the work the school is actually setting."
+banner_heading: "Need an online London tutor who knows your child's exam board, not just the subject?"
+banner_description: "We'll match your child with a tutor who knows their exam board and how they like to learn, so lessons line up with what school is setting."
 content_angle: "school environment"
-intro_1: "Finding a tutor in London isn't the hard bit. There are thousands. The hard bit is finding one who knows the exam board the school is teaching, has marked the kind of papers the student is sitting, and explains it in a way the student actually responds to. Most parents who get in touch tell us they've tried that already, once or twice. The first tutor was fine but didn't know the spec. The second knew the spec but couldn't hold a teenager's attention for an hour. The third was great but moved away or stopped replying."
-intro_2: "That's the matching problem our London tutors fix. We don't list everyone. The tutors on our platform are graduates from top Russell Group universities, vetted on subject knowledge, on how they explain things, and on how they work with young people. About three percent of applicants make it through. When a family in London tells us their child is on AQA GCSE Chemistry at a Hackney comprehensive, or Edexcel A-Level Maths at a Westminster sixth form, the tutor they get knows that paper. That's the bit that moves the grade."
+intro_1: "Finding a tutor in London isn't the hard part. There are thousands. The hard part is finding one who knows the exam board your child's school teaches and has marked the kind of papers they're about to sit. And who explains things in a way they'll actually listen to. A lot of London parents tell us they've already tried a few. The first tutor was lovely but didn't know the course the school was following. The second knew it inside out but couldn't hold a teenager's attention for an hour. The third was great, then moved away or stopped replying."
+intro_2: "That's the matching problem we set out to fix. We don't list everyone who applies. Every tutor is interviewed, and we look hard at how they explain things to a teenager, not just at their degree. So if you tell us your child is doing AQA GCSE Chemistry at a Hackney comprehensive, or Edexcel A-Level Maths at a Westminster sixth form, the tutors we suggest will know that paper. And that's usually the bit that gets a grade moving."
 about_heading: "Trusted Tutors for London Students"
 about_image: /images/wide-library-study-area.jpg
-schools_intro: "Our tutors support students from secondary schools right across London, from the East End to the western boroughs. Brampton Manor Academy, The Latymer School, Mossbourne Community Academy, Tiffin School, Highgate School and Westminster School all send students our way, alongside many more across every borough. We also run free workshops on revision strategy and exam technique, open to students from any London school."
+schools_intro: "From the East End to the western boroughs, the families we work with come from schools right across London, including Brampton Manor Academy, The Latymer School, Mossbourne Community Academy, Tiffin School, Highgate School and Westminster School. Schools pick exam boards subject by subject, so two friends at different schools can be sitting quite different Maths papers. We'll find out which ones your child is on when we talk. We also run free workshops on revision and exam technique, open to students from any London school."
 schools:
   - Brampton Manor Academy
   - The Latymer School
@@ -19,12 +19,12 @@ schools:
   - Highgate School
   - Westminster School
 schools_image: /images/students-in-classroom-taking-notes.jpg
-online_heading: "Online tutoring for London students: subject and spec, not postcode"
-online_1: "Most of our work with London families runs online through Lessonspace, our shared whiteboard built for one-to-one sessions. London is the city where online tutoring makes the most sense. The best AQA Biology tutor for a Year 11 student in Bromley might live in Manchester. The right OCR Further Maths tutor for a Year 13 in Camden might be a recent Cambridge graduate teaching from Edinburgh. With Lessonspace, none of that matters."
-online_2: "And online tutoring works around London's actual logistics. No tutor travelling across the M25 in rush hour. No student giving up a Sunday morning. Sessions sit in the diary and stay in the diary, which is most of how grade movement actually happens. Most students concentrate harder one-to-one online than they do in a classroom of 30. Lessonspace takes about a minute to learn."
+online_heading: "Online tutoring in London, without the cross-town journey"
+online_1: "London is where online tutoring makes the most sense of all. The best AQA Biology tutor for a Year 11 in Bromley might live in Manchester. The right OCR Further Maths tutor for a Year 13 in Camden might be a recent Cambridge graduate living in Edinburgh. Online, none of that matters. Lessons run in Lessonspace, an online classroom where your child and the tutor share a whiteboard, and every lesson can be replayed afterwards."
+online_2: "It works around London life, too. No tutor stuck on the M25 in rush hour, and nobody giving up a Sunday morning to cross town. Lessons go in the diary and stay there, and that week-in, week-out rhythm is where most progress comes from. Plenty of teenagers concentrate better one-to-one online than in a class of 30. Most are comfortable in Lessonspace within a few minutes."
 online_image: /images/student-celebrating-online-learning.jpg
 map_url: "https://maps.google.com/maps?q=London,UK&output=embed"
-areas_intro: "Our tutors work with students from across London and the wider commuter belt, with online tuition removing any distance barrier to finding the right subject specialist."
+areas_intro: "London's a big place, and we cover all of it, plus plenty of the commuter towns around it, like the ones below."
 area_links:
   - Watford Tutors|/locations/watford-tutors/
   - St Albans Tutors|/locations/st-albans-tutors/
@@ -33,41 +33,41 @@ area_links:
   - Hemel Hempstead Tutors|/locations/hemel-hempstead-tutors/
   - Brighton Tutors|/locations/brighton-tutors/
 gcse_subjects:
-  - GCSE Maths Tuition|Tutoring across number, algebra, geometry and statistics, matched on exam board and on where the student is sitting in the mark band.|/book-a-call/
-  - GCSE English Tuition|Close reading, comparative essay structure and exam-timed analysis for students who want method, not just content.|/book-a-call/
-  - GCSE Biology Tuition|Full-specification work for students who want the six and nine-mark questions to land, not just the easy marks.|/book-a-call/
-  - GCSE Chemistry Tuition|Bonding, equations and rates of reaction, taught by tutors who've sat the paper the student is sitting.|/book-a-call/
-  - GCSE Physics Tuition|Forces, fields and electromagnetism, built around the application questions that decide the top end of the mark scheme.|/book-a-call/
-  - GCSE History Tuition|Source analysis and timed essay structure, taught by tutors who know what a grade 9 answer actually looks like.|/book-a-call/
-  - GCSE Geography Tuition|Case study revision, data response and nine-mark question technique, anchored to the mark scheme not the textbook.|/book-a-call/
-  - GCSE French Tuition|Tutoring across all four skills, with the speaking and writing prep that decides the top marks at GCSE.|/book-a-call/
-  - GCSE Computer Science Tuition|Programming, algorithms and Boolean logic for students who want both the NEA and the written paper to land at the top end.|/book-a-call/
+  - "GCSE Maths Tuition|Number, algebra, geometry and statistics, with a tutor who knows your child's exam board and starts from where they are now.|/book-a-call/"
+  - "GCSE English Tuition|Close reading and timed essays, with a clear method for comparing texts rather than just more to learn.|/book-a-call/"
+  - "GCSE Biology Tuition|The whole course, including the six-mark answers, so your child picks up the harder marks as well as the easier ones.|/book-a-call/"
+  - "GCSE Chemistry Tuition|Bonding, equations and rates of reaction, with a tutor who knows the exact paper, not just the topic.|/book-a-call/"
+  - "GCSE Physics Tuition|Forces, fields and electromagnetism, with lots of practice at applying an idea to something unfamiliar.|/book-a-call/"
+  - "GCSE History Tuition|Source work and timed essays, with a tutor who shows what the next level of answer looks like.|/book-a-call/"
+  - "GCSE Geography Tuition|Reading graphs and maps, learning case studies and writing the extended answers, all practised against the mark scheme rather than the textbook.|/book-a-call/"
+  - "GCSE French Tuition|Listening and reading, plus extra preparation for speaking and writing, which is where a lot of the marks are won.|/book-a-call/"
+  - "GCSE Computer Science Tuition|Programming, algorithms and Boolean logic, practised for the written exams until tracing code stops being guesswork.|/book-a-call/"
 alevel_subjects:
-  - A-Level Maths Tuition|Pure, statistics and mechanics tutoring matched on exam board, for students aiming at engineering, economics or maths at university.|/book-a-call/
-  - A-Level Biology Tuition|In-depth tutoring through genetics, physiology and ecology for students preparing for medicine, dentistry or competitive bioscience offers.|/book-a-call/
-  - A-Level Chemistry Tuition|Step-by-step work through organic, inorganic and physical chemistry for students preparing for medicine or natural sciences.|/book-a-call/
-  - A-Level Physics Tuition|Mechanics, fields and quantum topics taught by tutors with engineering and physics backgrounds at Russell Group level.|/book-a-call/
-  - A-Level Economics Tuition|Micro, macro and evaluation writing for students who want Economics to be the strongest part of their UCAS application.|/book-a-call/
-  - A-Level Psychology Tuition|Research methods and AO3 evaluation writing for students who want to write precisely under timed conditions.|/book-a-call/
-  - A-Level English Tuition|Critical analysis, comparative essay structure and unseen prose, taught by tutors who've marked these papers.|/book-a-call/
-  - A-Level History Tuition|Analytical essay writing at A-Level for students working at every levels and history-led university applications.|/book-a-call/
-  - A-Level Geography Tuition|Concept work, fieldwork analysis and extended writing for students pushing past a B into an A or A*.|/book-a-call/
+  - "A-Level Maths Tuition|Pure maths, statistics and mechanics, matched to your child's exam board, and good groundwork if engineering, economics or maths at university is the plan.|/book-a-call/"
+  - "A-Level Biology Tuition|Genetics, physiology and ecology in depth, for a child with Medicine, Dentistry or a competitive bioscience course in mind.|/book-a-call/"
+  - "A-Level Chemistry Tuition|Organic, inorganic and physical chemistry, one step at a time, which matters if Medicine or Natural Sciences is on the list.|/book-a-call/"
+  - "A-Level Physics Tuition|Mechanics, fields and quantum topics, taught by tutors who studied physics or engineering at Russell Group universities.|/book-a-call/"
+  - "A-Level Economics Tuition|Micro, macro and evaluation writing, so Economics can become one of the strongest parts of your child's UCAS application.|/book-a-call/"
+  - "A-Level Psychology Tuition|Research methods and evaluation (weighing up a study's strengths and weaknesses), written clearly against the clock.|/book-a-call/"
+  - "A-Level English Tuition|Critical analysis, comparing texts and unseen prose, with a tutor who knows how these papers are marked.|/book-a-call/"
+  - "A-Level History Tuition|Essays that build a real argument, whatever grade your child is on now, and useful groundwork for a history-based degree application.|/book-a-call/"
+  - "A-Level Geography Tuition|Fieldwork, big ideas and long essays, whether your child is climbing from a C or pushing an A towards an A*.|/book-a-call/"
 other_subjects:
-  - University Personal Statement|Shape a strong UCAS personal statement with expert support on structure, subject motivation, and final polish.|/book-a-call/
-faq_1_q: "How do I find the right tutor in London?"
-faq_1_a: "Tell us the subject, the year group, the exam board, and what the student is trying to achieve. We take it from there. Most families hear back quickly, and you're not left scrolling through profiles trying to figure it out yourself."
-faq_2_q: "Do you offer online tutoring for students in London?"
-faq_2_a: "Yes, and it's how most of our sessions run. Students get access to the right subject and exam-board specialist anywhere in the country, sessions are easier to keep consistent without the London commute, and most students concentrate better one-to-one online than in a classroom of 30. It works well."
-faq_3_q: "What qualifications do your tutors have?"
-faq_3_a: "All our tutors are graduates, many from Russell Group universities. Every tutor is vetted individually on subject knowledge, how they explain things, and how they work with young people. About three percent of applicants make it onto the platform. A degree alone isn't enough."
+  - "University Personal Statement|Draft-by-draft help with a UCAS personal statement, from the opening line to the last read before it goes off.|/book-a-call/"
+faq_1_q: "There are so many tutors in London. How do we pick one?"
+faq_1_a: "Tell us your child's subject, year group and exam board, and what they're hoping for, and we'll do the searching. Within 24 hours of the call you'll have two or three profiles to look at, so there's no trawling through listings on your own."
+faq_2_q: "Lessons are all online. Can that really work for my child?"
+faq_2_a: "It really can. Online, we can find the right tutor for your child's subject and exam board anywhere in the UK, and lessons are easier to keep regular without a London commute. Your child can meet the tutor on a free video call first, too, so you'll both know how it feels before anything's booked."
+faq_3_q: "Who are the tutors, and how do you choose them?"
+faq_3_a: "They're all graduates from top Russell Group universities, and many are qualified teachers. Each one is interviewed before joining the platform. We look at subject knowledge and at how they get on with teenagers, because a degree on its own isn't enough."
 faq_4_q: "How much does tutoring cost in London?"
-faq_4_a: "Sessions start from £37 per hour. The exact rate depends on the subject and the tutor, and it's always agreed before anything is booked. No surprises, no hidden fees."
-why_heading: "Why London families come to The Degree Gap for tutoring"
-why_para_1: "London's schools aren't one system. They're hundreds. The Year 11 cohort at Brampton Manor isn't sitting the same kind of pressure as the Year 11 cohort at Westminster, and a tutor who's brilliant for one might be a poor match for the other. What our tutors find in a first London session is usually the same shape, though, regardless of school. A student who's been quietly losing marks on a specific question type, often application questions in Sciences or AO3 in essay subjects, that the class hasn't had time to break down."
-why_para_2: "Sessions go straight to that. The student brings recent work. The tutor marks it the way the exam board marks. The pattern shows up fast, and the plan writes itself from there. What parents tell us they notice first isn't the predicted grade. It's the way their child starts talking about a question, with more precision, less guessing. The grade follows."
-accordion_quality: "Every tutor working with London students is assessed on subject depth and on exam-board fluency before they ever meet a family. With the range of specs across London schools, a tutor who knows the precise mark scheme for the paper the student is sitting is worth ten who only know the subject generally."
-accordion_experience: "Our tutors have worked with students from across every London borough, from East End comprehensives to West London independents, on GCSE preparation, A-Level transitions, Russell Group applications and Oxbridge offers. They know what the schools expect and how to coach a student towards it without burning them out."
-accordion_personalised: "We don't run set programmes. For a London student, tuition is shaped around the specific exam board, the specific question types where marks are being lost, and the specific target grade, not a generic timetable that ignores the school's actual spec."
+faq_4_a: "Lessons start from £37 an hour. It depends on the tutor and the subject, and we'll always agree the price with you first. No contract, no hidden fees."
+why_heading: "The pattern our London tutors see, whatever the school"
+why_para_1: "One London family comes to us about Chemistry, the next about History, and their schools are on different exam boards. Yet when our tutors look at a recent paper, the problem is usually the same. Your child has been quietly losing marks on one kind of question. Often it's a Science question that asks them to apply an idea to something new, or the part of an essay where they have to weigh things up. The class simply hasn't had time to pick it apart. And each board asks those questions its own way, which is why the tutor needs to know your child's."
+why_para_2: "Lessons go straight to that. Your child shares some recent work, and the tutor marks it the way the exam board would. The pattern usually shows up quickly, and the plan follows from it. Parents often notice a change before any new predicted grade arrives: their child starts explaining why an answer's right, instead of guessing."
+accordion_quality: "Only about 3% of the tutors who apply make it onto our platform. Before anyone meets a family, we check how deep their subject knowledge goes and which exam boards they know well. With so many courses taught across London, a tutor who knows the mark scheme for your child's exact paper beats one who just knows the subject."
+accordion_experience: "Our tutors have worked with families from right across London, from East End comprehensives to independent schools in West London. They've helped with GCSEs, the jump to A-Level, Russell Group applications and Oxbridge offers, and they know how to push a teenager without burning them out."
+accordion_personalised: "Your child's plan starts from two things: their exam board and the questions where they're dropping marks. So lessons follow what their school actually teaches, not a timetable written for someone else."
 reviews:
   - Lisa|Parent|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough.
   - Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him.
