@@ -1,52 +1,41 @@
 ---
 title: "Newcastle upon Tyne GCSE Tutors | One-to-One | The Degree Gap"
-description: "Newcastle upon Tyne GCSE tutors for the Year 11 who keeps landing a grade short of the course. One-to-one online tutoring over Lessonspace, from £37 an hour."
+description: "If your child keeps landing one grade short of the course they want, our Newcastle upon Tyne GCSE tutors work on that grade one-to-one online. From £37 an hour."
 layout: "subject"
 location: "Newcastle upon Tyne"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE tutors for Newcastle upon Tyne Year 11s who land a grade short"
+hero_heading_line1: "Online Newcastle upon Tyne GCSE Tutors for When Your Child's Always a Grade Short"
 hero_heading_line2: ""
-hero_lead: "The report says nearly there, and it has said it since Year 9. Our Newcastle upon Tyne GCSE tutors find the topic that keeps costing the last grade and work on it one-to-one, online over Lessonspace, until the paper agrees with the report."
+hero_lead: "The report says 'nearly there', and it's been saying it since Year 9. Our Newcastle upon Tyne GCSE tutors find the topic that keeps costing your child that last grade. Then they work on it, one-to-one and online, so the paper can catch up with the report."
 
 grade_from: "5"
 grade_to: "6/7"
-grade_stat: "One Year 10 student's GCSE English grade: a 5 in the autumn, a 6/7 six months later, from one lesson a week."
+grade_stat: "Omo's son, in Year 10, went from a grade 5 to a 6/7 in English after six months of tutoring."
 
 first_lesson_eyebrow: "ONE GRADE FROM THE COURSE"
 first_lesson_heading: "What a Newcastle upon Tyne GCSE Tutor Does About the Missing Grade"
-first_lesson_context: "Results across Newcastle sit below the national picture, and the gap from one school to the next is wide. But a city average says nothing about your child, who is one grade off the course they want. The first hour with a GCSE tutor goes on the last mock, finding the exact questions that cost it."
+first_lesson_context: "A city average won't tell you why your child's one grade off the course they want. Results across Newcastle sit below the national picture and vary a lot between schools, but none of that's about your child. So the first hour with a GCSE tutor goes on the last mock, finding the exact questions that cost that grade."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to Grade 6/7 in English"
 
 tutor_strip_heading: "Newcastle GCSE tutors who read the entry requirements before the textbook"
-tutor_strip_body: "Newcastle Sixth Form College, Gosforth Academy and the school sixth forms each publish subject requirements, and the tutor works back from the one your child needs. Harry or Joe interview every tutor, and around 3% of applicants get on. Browse the profiles, or let us match your child."
+tutor_strip_body: "Newcastle Sixth Form College, Gosforth Academy and the school sixth forms each publish subject requirements, and the tutor works back from the one your child needs. Every tutor on our platform passed an interview only about 3% of applicants get through. Browse the profiles, or leave it to us."
 
 pathways_heading: "Three Routes Out of Year 11 in Newcastle upon Tyne"
-pathways_lead: "Each one publishes its own entry requirements, and Maths and English turn up in nearly all of them."
+pathways_lead: "Each sixth form, college and scheme sets its own entry grades, but Maths and English turn up in nearly all of them, so they're the two to keep an eye on."
 pathways:
   - title: "Sixth Forms"
     body: >
-      Gosforth Academy's sixth form lists more than forty courses and closes applications in
-      January, and Newcastle Sixth Form College offers 26 A-Levels with a published requirement
-      for each subject. St Mary's in Longbenton, Sacred Heart in Fenham and Jesmond Park Academy
-      keep their own sixth forms, and the Royal Grammar School takes outside applicants on an
-      assessment, an interview and forecast grades.
+      Gosforth Academy's sixth form lists more than forty courses and closes applications in January, and Newcastle Sixth Form College offers 26 A-Levels with a published grade requirement for each. St Mary's in Longbenton, Sacred Heart in Fenham and Jesmond Park Academy have their own sixth forms, and the Royal Grammar School looks at an assessment, an interview and predicted grades for applicants from other schools.
   - title: "Apprenticeships"
     body: >
-      Nissan's Sunderland plant and Newcastle Hospitals NHS Foundation Trust, which runs the RVI
-      and the Freeman, both take school leavers onto apprenticeships, and most schemes in the
-      region name grade 4 or above in Maths and English. Newcastle College at Rye Hill runs T
-      Levels in electrotechnical engineering, digital and early years, each with a long industry
-      placement built in.
+      Nissan's Sunderland plant and Newcastle Hospitals NHS Foundation Trust, which runs the RVI and the Freeman, both take school leavers as apprentices, and most schemes in the region ask for at least a 4 in Maths and English. Newcastle College at Rye Hill runs T Levels in electrotechnical engineering, digital and early years, each with a long industry placement built in.
   - title: "Further Education"
     body: >
-      Newcastle College runs T Levels and vocational courses from its Rye Hill campus, and
-      Newcastle Sixth Form College runs a Year 12 Access course for students who need to lift
-      their GCSE results before starting A-Levels. A grade 4 in Maths and English opens most of
-      those doors, and the resit sits alongside the course for anyone who missed it.
+      Newcastle College runs T Levels and vocational courses from its Rye Hill campus, and Newcastle Sixth Form College has a Year 12 Access course if your child needs to lift their GCSE results before starting A-Levels. A 4 in Maths and English opens most of those doors, and if your child misses it, the resit sits alongside the course.
 
 reviews:
   - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
@@ -62,14 +51,14 @@ reviews:
   - "Annette|Parent|This company helped us find Jon Brettell for Geography and my son has excelled so much in just a few months. Jon has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself – a difficult task.  He also manages neurodiversity effectively."
   - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
 
-faq_1_q: "The report has said nearly there for two years. When does GCSE tutoring actually move the grade?"
-faq_1_a: "Sooner than most families expect, once the right topic is found. Two years of nearly there usually means one method that was never secured, and it shows up in every mock as the same kind of lost mark. Year 10 is the better start, because the gap is still small and Year 11 content has not stacked on top of it. In Year 11 the plan narrows to the winter mock and the papers that follow, and it still works, but the hours go on technique rather than teaching from the beginning. Either way, bring the last marked paper to the call."
+faq_1_q: "The report's said 'nearly there' for two years. When will tutoring actually move the grade?"
+faq_1_a: "Sooner than most families expect, once the tutor's found the right topic. Two years of 'nearly there' tends to mean one method that never quite settled, and it turns up in every mock as the same kind of lost mark. Year 10's the better time to start, because the gap's still small and Year 11 work hasn't piled on top. Starting in Year 11 works too. The plan just narrows to the winter mock and the papers after it, with more time on technique than on teaching from scratch. Either way, bring the last marked paper to the call."
 faq_2_q: "What grades do Newcastle sixth forms and colleges actually ask for?"
-faq_2_a: "Each one publishes its own list, and the lists change between years. Newcastle Sixth Form College sets a requirement for every one of its 26 A-Levels. Gosforth Academy publishes them by course and closes applications in January. The Royal Grammar School sets a minimum grade for each A-Level subject on top of its assessment and interview, and Emmanuel College publishes subject requirements each year that apply to its own students and to outside applicants alike. Under nearly all of them sits a grade 4 in Maths and English. Work from this year's list, not from what an older cousin remembers."
-faq_3_q: "Does online GCSE tutoring work for a Year 11 who struggles to concentrate?"
-faq_3_a: "For most of them it works better than a classroom does. It is one adult, one student and one screen, with nobody else to watch, and the session runs on Lessonspace, a shared whiteboard where the working is written out rather than talked about. Every lesson is recorded, so a student who drifted for five minutes can watch that part back. There is no bus across Newcastle after school and no waiting room, which matters more than it sounds. Most students are comfortable with it by the end of the first hour."
+faq_2_a: "It depends on the place, and the lists change from year to year. Newcastle Sixth Form College sets a grade for each of its 26 A-Levels. Gosforth Academy publishes them course by course, and its applications close in January. The Royal Grammar School sets a minimum grade for each A-Level on top of its assessment and interview. Emmanuel College publishes subject requirements every year, and they're the same for its own Year 11s as for applicants from outside. Underneath nearly all of them sits a 4 in Maths and English. So work from this year's list, not what an older cousin remembers."
+faq_3_q: "My child finds it hard to concentrate. Will online lessons work?"
+faq_3_a: "For most children it works better than a classroom. It's one adult, one screen and nobody else watching. Lessons run in Lessonspace, an online classroom with a shared whiteboard, so the working gets written out, not just talked through. Every lesson has a replay, so if your child drifts for five minutes, they can watch that bit again. And there's no bus across Newcastle after school and no waiting room, which matters more than it sounds. Most are comfortable with it by the end of the first hour."
 faq_4_q: "What if my child has fallen a long way behind, not just one grade?"
-faq_4_a: "Then the plan is longer, and it starts further back. A student who is two or three grades off usually has gaps from Year 7 or 8 underneath the Year 11 work, and racing through the current chapter does nothing for those. The tutor traces each gap to where it began, rebuilds that topic properly, and only then moves forward. Foundation tier is often the right entry while that happens, and the college route in Newcastle stays open at a grade 4. It takes a term or two rather than a half term, and the first session tells you which."
+faq_4_a: "Then the plan's longer, and it starts further back. If your child's two or three grades off, there are usually gaps from Year 7 or 8 underneath the Year 11 work. Racing through this term's chapter won't touch them. The tutor traces each gap to where it started, rebuilds that topic properly, and only then moves on. In subjects with two tiers, like Maths, the Foundation papers (they go up to a grade 5) are often the right choice for now. A 4 still keeps the college route in Newcastle open. It takes a term or two rather than a half term, and the first lesson tells you which."
 
 sitemap:
   priority: 0.7

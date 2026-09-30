@@ -1,41 +1,41 @@
 ---
 title: "Harpenden GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "Harpenden GCSE tutors who reopen a subject that got quietly avoided. One-to-one GCSE tutoring matched on exam board, online, from £37 an hour."
+description: "Is one subject's homework always going last? Our Harpenden GCSE tutors help your child reopen a subject they've quietly avoided. Online, one-to-one, from £37."
 layout: "subject"
 location: "Harpenden"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutoring Across Harpenden"
+hero_heading_line1: "Online Harpenden GCSE Tutors for the Subject Your Child Keeps Putting Off"
 hero_heading_line2: ""
-hero_lead: "A subject rarely collapses. It gets avoided, a little at a time, until the homework is last and the questions stop. Our Harpenden GCSE tutors work on the avoidance as much as the content."
+hero_lead: "A subject rarely falls apart overnight. Your child starts avoiding it, a little at a time, until its homework is always last and the questions dry up. Our Harpenden GCSE tutors work on the avoidance as much as the content."
 
 grade_from: "E"
 grade_to: "B"
-grade_stat: "A real GCSE grade lift, an E to a B, in the words of the student it happened to."
+grade_stat: "An E to a B at GCSE, and Keira says tutoring definitely helped."
 
 first_lesson_eyebrow: "AVOIDED, NOT FAILED"
-first_lesson_heading: "How a Subject Gets Quietly Dropped Without Anyone Deciding"
-first_lesson_context: "Parents in Harpenden often describe the same slow shape rather than a single bad result. The homework for one subject starts going last. Then it starts going undone. The student stops asking questions in class because asking now means admitting they did not follow something several weeks ago. None of it looks like a crisis from outside, and by the time a mock makes it visible the gap is months wide and the student has decided the subject is not for them."
+first_lesson_heading: "How a Harpenden GCSE Tutor Reopens a Subject That's Been Quietly Dropped"
+first_lesson_context: "Harpenden parents often describe the same slow pattern, not one bad result. The homework for one subject goes last, then doesn't get done, and nothing looks like a crisis until a mock shows the gap is months wide. The tutor's first job is to find where your child lost the thread and build forward from there."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "An E to a B at GCSE"
 
 tutor_strip_heading: "Harpenden GCSE tutors matched on the paper your child sits"
-tutor_strip_body: "Students at Sir John Lawes, St George's, Roundwood Park and the schools across towards St Albans are not all on the same specification, so the board is confirmed before anyone is proposed. Each tutor clears a founder-led interview that about 3% of applicants pass. Browse the profiles, or let us match your child."
+tutor_strip_body: "Whether your child's at Sir John Lawes, St George's, Roundwood Park or a school towards St Albans, the tutor we suggest will know their exam board. We interview every tutor ourselves, and roughly 3% of those who apply make it. Look through the profiles, or we'll do the matching."
 
 pathways_heading: "The Step After GCSEs in Harpenden"
-pathways_lead: "Three routes Harpenden families weigh up once the summer exams are behind them."
+pathways_lead: "The three routes Harpenden families usually weigh up once the summer exams are done."
 pathways:
   - title: "Sixth Forms"
     body: >
-      Sir John Lawes, St George's and Roundwood Park each run their own sixth form, with more across St Albans and the surrounding towns. Each publishes its own entry requirements and revises them between years, with A-Level courses generally asking for a grade in the subject a student intends to continue.
+      Sir John Lawes, St George's and Roundwood Park each run their own sixth form, and there are more across St Albans and the towns around. Each publishes its own entry requirements and changes them from year to year, and A-Level courses usually ask for a grade in the subject your child wants to carry on with.
   - title: "Apprenticeships"
     body: >
-      Employers across Hertfordshire and along the route into London run school-leaver and degree apprenticeship schemes, each publishing its own entry requirements which change between intakes. Maths and English are named in almost all of them, and most ask for a written application as well as the grades.
+      Employers across Hertfordshire and along the line into London run school-leaver and degree apprenticeship schemes, and each sets its own entry requirements, which change between intakes. Nearly all of them name Maths and English, and most want a written application as well as the grades.
   - title: "Further Education"
     body: >
-      Oaklands College carries much of the Level 3, T Level and vocational provision locally. A confident grade 4 or 5 in Maths and English opens the majority of those courses, and GCSE resits are a common way in for students who did not get there first time.
+      Oaklands College runs much of the local vocational teaching, including T Levels and other courses at A-Level standard, and a confident 4 or 5 in Maths and English opens most of them. Resits are a common way in too, if your child doesn't get there first time.
 
 reviews:
   - "Louis|University Student|I was struggling with my Business degree and reached out to Harry who helped me pass my Quantitative Analysis module. Highly recommend"
@@ -49,14 +49,14 @@ reviews:
   - "Paul|University Student|I began to struggle with my undergraduate economics degree in my second year. After taking several lessons with Harry Godfrey, I improved and eventually completed my degree, which I am very proud of. Harry has the patience to help you with everything from simple topics to very complex ones."
   - "Bryan|Student|Helped me a lot and really showed me what i need to improve on"
 
-faq_1_q: "He says he is fine but the homework for one subject never gets done. Is that a gap?"
-faq_1_a: "Usually, yes, and avoidance is one of the more reliable signals there is. Students do not generally put off work they can do. The homework that goes last is nearly always the subject where something stopped making sense a while ago, and the longer it is avoided the harder it becomes to ask, because asking means admitting to a gap that is now weeks old. A tutor is useful here precisely because there is no class to be embarrassed in front of."
-faq_2_q: "Is Year 10 or Year 11 the better time to start?"
-faq_2_a: "Year 10 where you have the option, especially where avoidance is part of the picture. The content steps up that year and any gap that opens is small enough to close before it becomes a habit, whereas left alone it compounds and hardens into a belief about the subject. Year 11 still works and plenty of families start there, but the plan narrows to exam technique and there is less room to rebuild confidence along the way."
-faq_3_q: "Are the sessions in person or online?"
-faq_3_a: "Every session runs online over Lessonspace, our shared whiteboard. The match is made on exam board and subject rather than on who lives nearby, and working is built on screen and saved, so a student can go back to the exact method later. Families across Harpenden, Wheathampstead, Redbourn and the villages towards St Albans all reach the same network, and there is no school-night drive at either end of the hour."
-faq_4_q: "What if my child does not want a tutor?"
-faq_4_a: "It is the worry we hear most often, and pushing through it rarely works. Most resistance comes before a student has met anybody and is about what having a tutor seems to say about them. The free 15-minute video meeting exists for exactly that: your child meets the tutor first and gets a say in the match. Most students who were against the idea have come round by the second or third session, because one adult with no class watching is not school-shaped. If they still do not want it, stop."
+faq_1_q: "He says he's fine, but the homework for one subject never gets done. Is that a gap?"
+faq_1_a: "Usually, yes. Putting a subject off is one of the clearest signs there is, because teenagers don't tend to avoid work they can do. The homework that goes last is nearly always the subject where something stopped making sense a while back. And the longer it's left, the harder it is to ask, because asking means owning up to a gap that's now weeks old. That's where one-to-one helps. There's no class to feel embarrassed in front of."
+faq_2_q: "Should we start in Year 10, or wait and see how Year 11 goes?"
+faq_2_a: "Year 10, if you've got the choice, and even more so when avoidance is part of the picture. The work steps up that year, and a gap that opens then is still small enough to close before it turns into a habit. Left alone, it grows and hardens into 'I'm just not good at this'. Plenty of families start in Year 11, and that works too. But the plan narrows to exam technique, with less room to rebuild confidence along the way."
+faq_3_q: "Is the tutoring online, and how does that work?"
+faq_3_a: "Yes, every lesson happens in Lessonspace, an online classroom where your child and the tutor write on the same whiteboard. We match on exam board and subject rather than on who lives nearby, and each lesson has a replay, so your child can go back to the exact method later. It's the same for families in Harpenden, Wheathampstead, Redbourn and the villages towards St Albans, and there's no school-night drive at either end."
+faq_4_q: "My child's not keen on having a tutor. What then?"
+faq_4_a: "Let them meet the tutor before anyone decides, on a free 15-minute video call, and give them a say in the match. It's the worry we hear most often, and pushing through it rarely works. A lot of the resistance comes before your child has met anyone, and it's about what having a tutor seems to say about them. Most who were against it have come round by the second or third lesson, because one adult and no class watching doesn't feel like school. And if they're still set against it, you call it a day."
 
 sitemap:
   priority: 0.7

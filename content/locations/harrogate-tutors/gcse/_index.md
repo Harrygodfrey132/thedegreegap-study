@@ -1,42 +1,42 @@
 ---
 title: "Harrogate GCSE Tutors | One-to-One Online | The Degree Gap"
-description: "Harrogate GCSE tutoring for Year 10 and Year 11, matched on exam board. For students whose school is doing its job and who still need the hour built around them."
+description: "School's going fine, but the mock came back lower than you'd hoped? Our Harrogate GCSE tutors build the hour around your child, matched on exam board, from £37."
 layout: "subject"
 location: "Harrogate"
 level: "GCSE"
 
-hero_heading_line1: "Online Harrogate GCSE Tutors for the Hour Built Around One Student"
+hero_heading_line1: "Online Harrogate GCSE Tutors for When the Report's Fine but the Mock Isn't"
 hero_heading_line2: ""
-hero_lead: "Most Harrogate parents who reach us are not unhappy with the school. The report is fine, the teaching is good, and the mock still came back below what the family hoped. Our Harrogate GCSE tutors add the thing a class of thirty cannot, which is a plan aimed at one student."
+hero_lead: "Most Harrogate parents who call us are happy with the school. The report's fine, the teaching's good, and still the mock came back lower than you'd hoped. Our Harrogate GCSE tutors add what a class of thirty can't: a plan built for one child, yours."
 
 grade_from: "6"
 grade_to: "8"
-grade_stat: "The move a term of weekly one-to-one work is usually pointed at when the content is already broadly secure."
+grade_stat: "It's the kind of move weekly lessons are aimed at when your child already knows most of the course, though nobody can promise it."
 
-first_lesson_eyebrow: "WHY A GOOD SCHOOL IS NOT THE WHOLE ANSWER"
-first_lesson_heading: "The Plan Is Working. It Is Just Not Aimed at Your Child."
-first_lesson_context: "A teacher with thirty students and a syllabus to finish has to teach to the middle of the room. That is not a failing, it is the only workable way to run a class, and the schools here do it well. But it means the student who is a bit ahead gets consolidation they do not need, and the student who missed one idea in October carries it to May because there was never a moment to catch it. One-to-one is not better teaching. It is teaching pointed at one person, which is a different thing, and it is the whole reason an hour a week can move a grade the classroom could not."
+first_lesson_eyebrow: "WHY A GOOD SCHOOL ISN'T THE WHOLE ANSWER"
+first_lesson_heading: "Why a Harrogate GCSE Tutor Can Aim the Hour at Your Child Alone"
+first_lesson_context: "A teacher with thirty in the room and a syllabus to finish has to teach to the middle, and the schools here do that well. But a child who's a little ahead gets practice they don't need, and one who missed an idea in October can carry it to May, because there's rarely a spare minute to go back for it. An hour a week with a GCSE tutor isn't better teaching, just teaching pointed at one person."
 
 first_lesson_quote: "Emir is simply amazing with our daughter. He gets her totally, and her sessions are helping her with her school work so much. We cannot thank him enough."
 first_lesson_quote_name: "Heidi"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "GCSE"
 
-tutor_strip_heading: "Harrogate GCSE tutors matched on the specification your child's school teaches"
-tutor_strip_body: "North Yorkshire schools sit across AQA, Edexcel and OCR, and the boards differ in how the extended questions are marked rather than in what is taught. We confirm the board before suggesting anyone. Around three in every hundred applicants make it onto the platform, and the interview mostly tests whether they can explain clearly when a student is stuck. Browse profiles, or let us match your child."
+tutor_strip_heading: "Harrogate GCSE tutors who start with your child's exam board"
+tutor_strip_body: "Schools across North Yorkshire use AQA, Edexcel and OCR, and each board phrases and marks its questions in its own way. About 3% of applicants get onto the platform, and the interview's mostly about explaining things clearly to a teenager who's stuck. Browse, or let us match."
 
 pathways_heading: "Where Harrogate Year 11s Go Next"
-pathways_lead: "Three routes, and what each publishes."
+pathways_lead: "Three routes, and roughly what each one asks of your child."
 pathways:
   - title: "Sixth Forms"
     body: >
-      Harrogate Grammar, St Aidan's, Rossett, St John Fisher, Ashville and Harrogate Ladies' College all run sixth forms, which is an unusually wide choice for a town this size. Each sets its own entry requirements by subject and revises them between years, and the Sciences and Maths generally ask for more than the rest, so work from the current admissions page for the specific course.
+      Harrogate Grammar, St Aidan's, Rossett, St John Fisher, Ashville and Harrogate Ladies' College all run sixth forms, which is a lot of choice for a town this size. Each sets its own grades by subject and changes them from year to year, with Maths and the Sciences often asking for more, so check the current admissions page for your child's course.
   - title: "Apprenticeships"
     body: >
-      Harrogate District Hospital and the NHS trust take healthcare apprentices, with engineering, hospitality and the professional services employers across the Leeds and York corridor running other routes. Published minimum grades in Maths and English are the usual gate, and clinical routes generally want the Sciences alongside.
+      Harrogate District Hospital and its NHS trust take on healthcare apprentices, and employers in engineering, hospitality and professional services along the Leeds and York corridor run other schemes. Most set a minimum grade in Maths and English, and the clinical routes usually want Science as well.
   - title: "Further Education"
     body: >
-      Harrogate College covers Level 3 vocational routes, and the strong transport links put the Leeds and York colleges within reach for more specialised courses. Resits in Maths and English sit alongside those courses, and anyone still short of a grade 4 in either is normally required to carry on with them after 16.
+      Harrogate College runs vocational courses at the level of A-Levels, and the transport links put the Leeds and York colleges within reach for more specialised ones. If your child finishes Year 11 without a 4 in Maths or English, they'll normally keep studying it alongside their course after 16.
 
 reviews:
   - "Heidi|Parent|Emir is simply amazing with our daughter. He gets her totally, and her sessions are helping her with her school work so much. We cannot thank him enough."
@@ -53,13 +53,13 @@ reviews:
   - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
 
 faq_1_q: "The school says my daughter is doing fine. Am I being unreasonable?"
-faq_1_a: "No, and both things are usually true at once. Fine against a class average and short of what a specific sixth form course asks for are different measurements, and a school reporting the first is not being evasive about the second. The useful question at parents' evening is narrower than how she is getting on. Ask which question types she loses most marks on, and how close the last mock was to the next grade boundary. Those two answers tell you whether there is anything worth doing."
+faq_1_a: "No, and often both are true at once. Doing well against the class is one measure. Being on track for a particular sixth form course is another, and a school telling you the first isn't dodging the second. So at parents' evening, ask something narrower than how she's getting on. Which question types is she losing most marks on, and how close was the last mock to the next grade boundary? Those two answers tell you whether there's anything worth doing."
 faq_2_q: "Can a tutor help a child with dyslexia, ADHD or processing differences?"
-faq_2_a: "Yes, and we ask about learning differences when matching rather than waiting for you to raise it. Several tutors work regularly with neurodivergent students. Online suits this well: the whiteboard keeps the working visible instead of wiping it off a board, explanations can be broken into steps at the student's own pace, and because every session is recorded nothing has to be held in memory the first time round. Mention it on the consultation call and it becomes part of the matching."
-faq_3_q: "How much work should my child do between sessions?"
-faq_3_a: "Sixty to ninety minutes, and it should be past-paper questions on the topic from that lesson rather than reading through notes. Re-reading feels productive and changes very little, which is why students who revise for hours can still stall. Past ninety minutes the returns fall away sharply, and for a Year 11 carrying nine subjects it stops being realistic. A tutor who sets nothing between sessions is running a conversation, not a programme."
-faq_4_q: "How do we know whether it is working?"
-faq_4_a: "By session three you should be able to name the problem in one sentence, and it should be more specific than the subject. Not Maths, but that she abandons the multi-step problems at the back of the calculator paper. There should also be marked work, graded against the real scheme with the reason explained. What you should not expect by session three is a grade change, since that usually takes eight to twelve weeks, and anyone promising it faster is selling something."
+faq_2_a: "Yes, and we ask about learning differences when we match, rather than waiting for you to bring it up. A number of our tutors work with neurodivergent children as a normal part of their week. Online suits it well. The whiteboard keeps the working on screen instead of wiping it away, explanations can go step by step at your child's pace, and every lesson has a replay, so nothing has to be caught first time. Mention it on the call and it'll be part of the matching."
+faq_3_q: "Should my child be doing work between lessons, and how much?"
+faq_3_a: "Yes, about an hour to an hour and a half, and it should be past-paper questions on that lesson's topic rather than reading notes. Re-reading feels useful but changes very little, which is why a child can revise for hours and still stall. Beyond ninety minutes the returns drop off fast, and with nine subjects in Year 11 it stops being realistic anyway. If a tutor sets nothing between lessons, that's a chat, not a plan."
+faq_4_q: "How will we know if it's working?"
+faq_4_a: "Within three lessons, you should be able to say what the problem is in one sentence, and it should be sharper than the subject name. Not 'Maths', but 'she gives up on the multi-step problems at the back of the calculator papers'. You should also be seeing marked work, graded against the real mark scheme with the reason explained. What you shouldn't expect yet is a new grade. That usually takes eight to twelve weeks."
 
 sitemap:
   priority: 0.7
