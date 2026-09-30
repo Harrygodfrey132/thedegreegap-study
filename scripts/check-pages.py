@@ -225,8 +225,10 @@ def voice(page):
             if not NEGATION.search(low[max(0, m.start() - 40):m.start()]):
                 fails.append(f'grade promise "{p}"')
                 break
+    # The Prestige award's own title is a name, not a description of a tutor.
+    unnamed = low.replace("tutoring specialists of the year", "")
     for w in SWAP_OUTS:
-        if re.search(rf"\b{w}s?\b", low):
+        if re.search(rf"\b{w}s?\b", unnamed):
             warns.append(f'"{w}": would "tutor" be the plainer word?')
     if "!" in own:
         fails.append("exclamation mark outside a review")
