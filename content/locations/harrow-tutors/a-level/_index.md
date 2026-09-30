@@ -1,41 +1,41 @@
 ---
 title: "A-Level Tutors Covering Harrow | The Degree Gap"
-description: "Harrow A-Level tutors for the Year 12 step up and the predicted grades that follow. One-to-one online tutoring over Lessonspace, from £37 an hour."
+description: "Did Year 12 turn out much steeper than GCSE for your child? Harrow A-Level tutors, one-to-one online with a replay of every lesson. From £37, no contract."
 layout: "subject"
 location: "Harrow"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Harrow Year 12s Finding the Step Up Steeper Than Expected"
+hero_heading_line1: "Online Harrow A-Level Tutors for a Year 12 That's Much Steeper Than GCSE"
 hero_heading_line2: ""
-hero_lead: "Year 12 asks for something GCSE never did: choosing the method, not just running it. Our Harrow A-Level tutors work one-to-one online over Lessonspace and rebuild that habit well before the Year 13 mocks that set UCAS predictions."
+hero_lead: "GCSEs felt manageable for your child, but now Year 12 homework eats the whole evening and still comes back marked down. A-Level asks them to choose the method, not just follow one. Our Harrow A-Level tutors build that habit before predicted grades are set."
 
 grade_from: "C"
 grade_to: "A"
-grade_stat: "A real A-Level jump of almost two grades on a Year 13 mock paper."
+grade_stat: "A son who beat his Year 13 mock by almost two grades, with a tutor his parent called excellent."
 
-first_lesson_eyebrow: "WHEN THE METHOD STOPS ANNOUNCING ITSELF"
+first_lesson_eyebrow: "WHEN THE QUESTION STOPS GIVING HINTS"
 first_lesson_heading: "What a Harrow A-Level Tutor Does in the First Fortnight"
-first_lesson_context: "At GCSE a question mostly tells you which method it wants. From Year 12 it stops doing that, and a student who is fluent in class can sit in front of a paper with nothing to pattern-match against. So the first job is to watch that happen on a real question and work out whether the gap is content, choice or nerve."
+first_lesson_context: "At GCSE, most questions give away the method they're after. From Year 12 they don't, so your child can follow everything in class and still freeze in front of a paper. The A-Level tutor's first job is to watch that happen on a real question and work out whether it's the content, picking the method, or nerves."
 first_lesson_quote: "My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
 first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Almost two grades up on a Year 13 mock"
 
 tutor_strip_heading: "A-Level tutors who know the pace of a Harrow sixth form"
-tutor_strip_body: "Students reach us from the Collegiate sixth forms, from St Dominic's and from the independents on the hill, sitting different specifications. Most of our tutors are recent graduates who remember which Year 12 topics Year 13 leans on. Browse the profiles, or let us match your child."
+tutor_strip_body: "Families come to us from the Harrow Collegiate sixth forms, St Dominic's and the independents on the hill, and those schools don't all use the same exam boards. Our tutors know which Year 12 topics Year 13 builds on. Take a look, or we'll suggest two or three."
 
-pathways_heading: "The Post-18 Map From Harrow"
-pathways_lead: "Three routes families here weigh up, usually somewhere in the second term of Year 12."
+pathways_heading: "After A-Levels: The Options Close to Harrow"
+pathways_lead: "The three options Harrow families usually start talking through in the spring of Year 12."
 pathways:
   - title: "Universities"
     body: >
-      London sits half an hour down the Metropolitan line, so most students apply without moving out, and the University of Westminster runs much of its arts and media teaching on its own Harrow campus. Brunel at Uxbridge and Middlesex at Hendon are both close, and every course publishes its own entry requirements, revised between cycles.
+      Central London's about half an hour down the Metropolitan line, and the University of Westminster teaches much of its arts and media work on its Harrow campus. Brunel at Uxbridge and Middlesex at Hendon are close too, so your child could study without moving out.
   - title: "Degree Apprenticeships"
     body: >
-      Middlesex runs degree apprenticeships in social work, healthcare science and primary education, while Brunel's sit largely around the NHS workforce and digital. London North West University Healthcare NHS Trust recruits into nursing degree apprenticeships at Northwick Park, and those applications often close before the UCAS deadline.
+      Middlesex runs degree apprenticeships in areas such as social work, healthcare science and primary education, and Brunel's lean towards the NHS and digital. London North West University Healthcare NHS Trust takes on nursing degree apprentices at Northwick Park, and those applications often close before the UCAS deadline.
   - title: "Career Pathways"
     body: >
-      Health and education are the two biggest employment sectors in the borough, with Northwick Park Hospital at the centre of one and Harrow College and Stanmore College part of the other. Creative and media work runs through the Westminster campus at Harrow, and a good number of students commute into central London for professional training instead.
+      Health and education are big employers in the borough, from Northwick Park Hospital to Harrow College and Stanmore College. And plenty of school leavers commute into central London for professional training, while the Westminster campus keeps creative and media work close by.
 
 reviews:
   - "Nick|Parent of A-Level Student|Sandra Sabu has been tutoring our son for Psychology A Level. Sandra has provided a solid base of tutoring outside of school lessons and helped him to improve his latest grades."
@@ -51,14 +51,14 @@ reviews:
   - "Aila|University Applicant|Harry was amazing! He helped me shape my personal statement into something I was truly proud of, and thanks to his support, I got into my dream university! Couldn’t have done it without him–highly recommend to anyone applying to uni."
   - "Kasia|Parent|Harry is a great tutor. He's very helpful and knowledgeable. He's git goid understanding of student's needs as well as current situation when it comes to university education in the UK. His experience and expertise helped my son make some decisions about choosing A level subject and university course. I highly recommend Harry and Degree Gap."
 
-faq_1_q: "Year 12 or Year 13, when does A-Level tutoring make the most difference?"
-faq_1_a: "Year 12, by a wider margin than most families expect. Predicted grades come out of Year 12 performance and the early part of Year 13, and they reach universities before any paper is sat. So an autumn of work in Year 12 shapes what the offer gets made against, not only what the exam produces. A Year 13 start still moves the final grade, and plenty of Harrow families do exactly that. It just arrives after the offers have been written."
+faq_1_q: "When does tutoring help most, Year 12 or Year 13?"
+faq_1_a: "Year 12, by more than most families expect. Predicted grades are based on Year 12 and the first few weeks of Year 13, and universities see them long before the final exams. So what's done in Year 12 affects the offer your child gets, not just the final result. Starting in Year 13 still helps with the final grade, and plenty of Harrow families do exactly that. It just shows up after the offers are made."
 faq_2_q: "He cruised through GCSEs and Year 12 has gone wrong. What changed?"
-faq_2_a: "Usually the way the subject asks to be learned. GCSE rewards recall and recognisable question types, and a quick student can carry that a long way without ever building a method. A-Level asks for the same content applied to something unfamiliar, under time, with no prompt about which tool to reach for. That is a habit rather than a talent, which is why it responds quickly to weekly one-to-one work on real questions, online over Lessonspace, rather than to more notes."
-faq_3_q: "Do your tutors know the specification, or just the subject?"
-faq_3_a: "The specification, and at A-Level that decides more than it does at GCSE. Sixth forms across Harrow sit different boards in the same subject, and the boards structure papers differently, mark extended answers against different criteria and hand out different amounts of formula support. Those differences are where marks sit at the top of a paper. We confirm the exact spec on the consultation call and match to it, rather than to A-Level Chemistry in general."
-faq_4_q: "Can a tutor help with UCAS and the personal statement as well?"
-faq_4_a: "Yes, and it tends to come up naturally once the grades are moving. Joe and Harry have walked hundreds of families through subject choices, course shortlists and the statement itself, and that guidance sits alongside the tutoring rather than costing extra. For students heading towards Westminster, Brunel or Middlesex, or into central London, the useful conversation usually happens in the summer of Year 12, before the drafting starts in earnest."
+faq_2_a: "Usually it's the way the subject has to be learned. GCSE rewards remembering things and spotting familiar question types, and a quick teenager can get a long way on that without ever building a method. A-Level gives him the same ideas in unfamiliar questions, against the clock, with no hint about which tool to use. That's a habit, not a talent. So what helps is a weekly one-to-one lesson on real questions, online using the platform Lessonspace, rather than another set of notes."
+faq_3_q: "Will the tutor know my child's exact course, or just the subject?"
+faq_3_a: "Yes, the exact course. Exam boards call it the specification, and at A-Level it matters even more than at GCSE. Sixth forms across Harrow use different boards for the same subject. The boards lay out their papers differently, mark long answers in their own way and don't all give the same formula sheets. Those small differences add up to marks. So we'll check your child's board on the call and match to it, not just to A-Level Chemistry in general."
+faq_4_q: "Can you help with UCAS and the personal statement too?"
+faq_4_a: "Yes, and it usually comes up once the grades are moving. Harry and Joe talk families through subject choices, course shortlists and the statement itself, alongside the tutoring. Whether your child's looking at Westminster, Brunel, Middlesex or somewhere in central London, the most useful time to talk it through is the summer of Year 12, before the writing starts properly."
 
 sitemap:
   priority: 0.7

@@ -1,41 +1,41 @@
 ---
 title: "Guildford A-Level Tutors | The Degree Gap"
-description: "Guildford A-Level tutors who lift a mock grade into an offer, from University of Surrey places to Research Park apprenticeships. Online, from £37 an hour."
+description: "Mock grade below the offer your child wants? Guildford A-Level tutors online, for University of Surrey offers and Research Park apprenticeships. From £37."
 layout: "subject"
 location: "Guildford"
 level: "A-Level"
 
-hero_heading_line1: "Online Guildford A-Level Tutors Who Lift a Mock Grade Into an Offer"
+hero_heading_line1: "Online Guildford A-Level Tutors for When the Mock Grade Lands Below the Offer"
 hero_heading_line2: ""
-hero_lead: "Year 12 mocks are where a predicted grade quietly gets decided, and for many students the mark lands below the offer they want. Our Guildford A-Level tutors work on the marks being left on the paper and lift students back into the band before those predictions lock in."
+hero_lead: "The mock comes home a grade below the offer your child's hoping for, and you can't tell if it's a blip or a warning. Our Guildford A-Level tutors find the marks left on that paper and work on them before the prediction's set."
 
 grade_from: "C"
 grade_to: "A"
-grade_stat: "One student we worked with finished almost two full grades above his Year 13 mock."
+grade_stat: "Almost two grades higher than his Year 13 mock paper: one parent's words about their son."
 
-first_lesson_eyebrow: "ONE GUILDFORD YEAR 13, TWO GRADES ON"
-first_lesson_heading: "What a Guildford A-Level Tutor Changes Between Mock and Exam"
-first_lesson_context: "The conversation we hear most from Guildford Year 12 parents is that the effort hasn't dropped but the marks have, and school hasn't had time to say exactly why. Usually it's depth: answers that would have scored at GCSE now leave marks on the table. A Guildford A-Level tutor finds that on a past paper and drills the evaluation the exam rewards."
+first_lesson_eyebrow: "WHAT CHANGED AFTER THE MOCK"
+first_lesson_heading: "What a Guildford A-Level Tutor Works On Between the Mock and the Exam"
+first_lesson_context: "The effort's still there but the marks have dropped: that's what we hear most from Guildford parents of Year 12s. Usually it's depth, because answers that scored well at GCSE now leave marks behind, and a busy lesson rarely has room to unpick that with each child. An A-Level tutor spots it on a past paper and shows your child what the exam wants instead."
 first_lesson_quote: "My son gained almost two grades higher than his year 13 mock paper. His tutor was excellent."
 first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Almost two grades above the Year 13 mock"
 
-tutor_strip_heading: "Guildford A-Level tutors who know the Surrey and Research Park routes"
-tutor_strip_body: "Our Guildford A-Level tutors have coached Year 12s and 13s aiming at the University of Surrey, the wider Russell Group and the degree-apprenticeship schemes on Surrey Research Park. Every one is a Russell Group graduate the founders interviewed in person. Browse profiles, or we'll match your child."
+tutor_strip_heading: "Guildford A-Level tutors for Surrey offers and Research Park apprenticeships"
+tutor_strip_body: "Some families have the University of Surrey in mind, some a Russell Group course, some an apprenticeship on Surrey Research Park. Every tutor we'd suggest studied at a Russell Group university and was interviewed by Harry or Joe. Have a browse, or leave the matching to us."
 
-pathways_heading: "The Routes Guildford A-Level Students Take Next"
-pathways_lead: "Guildford's A-Level leavers head in a handful of directions, and here's what the main ones involve."
+pathways_heading: "The Next Step After A-Levels in Guildford"
+pathways_lead: "It's usually one of these three, and here's what each involves for your child."
 pathways:
   - title: "Universities"
     body: >
-      The University of Surrey sits in the town and takes strong numbers of local students, alongside London and the wider Russell Group. The competitive courses ask for grades near the top of the A-Level range, which is where the Year 12 depth work pays off.
+      The University of Surrey is right here in Guildford, London's an easy train ride away, and plenty of families look at Russell Group universities further afield. The competitive courses make offers near the top of the A-Level range, so the work your child does in Year 12 counts.
   - title: "Degree Apprenticeships"
     body: >
-      The University of Surrey runs its own degree apprenticeships, and the tech, space and defence firms on Surrey Research Park, from BAE Systems Digital Intelligence to Surrey Satellite Technology, take school leavers onto higher schemes. Each sets its own predicted-grade bar, with the more competitive routes asking near the top of the band.
+      The University of Surrey runs degree apprenticeships of its own, and tech, space and defence firms on Surrey Research Park, from BAE Systems Digital Intelligence to Surrey Satellite Technology, take on school leavers too. Each sets its own entry requirements, and the more competitive schemes want grades close to the top.
   - title: "Career Pathways"
     body: >
-      The Research Park and the wider tech corridor keep engineering, space and cyber roles close to home, while a fast line into London opens finance, law and consulting. Airbus and the university's science base add research routes for students carrying STEM subjects forward.
+      Engineering, space and cyber jobs are close to home on the Research Park, and the fast line into London opens up finance, law and consulting. And if your child's keeping the sciences going, Airbus and the university's science base add research routes nearby.
 
 reviews:
   - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than his year 13 mock paper. His tutor was excellent."
@@ -55,14 +55,14 @@ reviews:
   - "Nick|Parent of A-Level Student|Our son has been receiving tuition for Psychology A Level. The tutor has provided a solid base of support outside of school lessons and helped him to improve his latest grades."
   - "Leo|Student|The time I have spent with my tutor has been really valuable. He has helped with a range of topics across economics and maths, explains things really clearly, and makes the sessions enjoyable."
 
-faq_1_q: "Can an A-Level tutor help with a degree apprenticeship at the University of Surrey or on Surrey Research Park?"
-faq_1_a: "Yes. Those schemes screen on predicted grades and UCAS points, so the tutoring lifts a student into the band the more competitive routes ask for. Beyond the grades, the founders share guidance on the application itself, drawing on years of helping families weigh an apprenticeship against a university place."
-faq_2_q: "A-Level Maths is proving a much bigger jump than GCSE for my daughter. What does a tutor do?"
-faq_2_a: "The jump is real, especially the shift into pure alongside mechanics and statistics, and a strong GCSE grade doesn't always carry over. The tutor finds where she's losing method on a past paper, then rebuilds the pure foundations the rest of the course leans on. Most of the movement comes from making those core techniques automatic."
-faq_3_q: "The predicted grade going to UCAS is under my son's offer. What can a Guildford A-Level tutor change?"
-faq_3_a: "The marks he's leaving on the paper, mostly through exam technique and AO3 evaluation rather than gaps in content. That's the part a class of thirty rarely has time to mark and re-mark one-to-one. Start in Year 12 and there's room to move the prediction before it goes to UCAS."
-faq_4_q: "What does A-Level tutoring in Guildford cost per session?"
-faq_4_a: "From £37 an hour, with the rate set by the subject and the tutor's experience and agreed before booking. Qualified examiners and the most experienced tutors sit above the entry rate."
+faq_1_q: "My son's looking at apprenticeships, at the University of Surrey or on the Research Park. Can a tutor still help?"
+faq_1_a: "Yes. Even the apprenticeship schemes look at his predicted grades, sometimes as UCAS points, and the popular ones set the bar high. So the grades are still the main job. Harry and Joe can also help you both weigh an apprenticeship against a university place, and talk through the application itself."
+faq_2_q: "A-Level Maths is a much bigger jump than GCSE for my daughter. What can a tutor actually do?"
+faq_2_a: "Plenty. The jump is real, and it isn't just her. Pure maths now sits alongside mechanics and statistics, and a strong GCSE grade doesn't always carry over. The tutor watches where her method breaks down on a past paper, then rebuilds the pure maths the rest of the course leans on, until those core techniques feel automatic."
+faq_3_q: "His predicted grade is under the offer he's hoping for. Is it too late to change anything?"
+faq_3_a: "Not usually. Most marks he can win back are in exam technique and evaluation: judging which argument's strongest, not just explaining each one. That takes one-to-one marking a full class rarely has time for. In Year 12 there's room to lift his work before the prediction goes to UCAS, and in Year 13 it's his summer results that have to meet the offer."
+faq_4_q: "What does a Guildford A-Level tutor charge?"
+faq_4_a: "Lessons start from £37 an hour. The rate depends on the subject and how experienced the tutor is, and qualified examiners charge more. You'll agree it with us before booking, and there's no contract to sign."
 
 sitemap:
   priority: 0.7
