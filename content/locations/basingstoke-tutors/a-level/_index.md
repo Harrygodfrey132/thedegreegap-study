@@ -1,40 +1,40 @@
 ---
 title: "Basingstoke A-Level Tutors | Online One-to-One | The Degree Gap"
-description: "Basingstoke A-Level tutors, online and one-to-one, for the subject that's started to slip. A free call with a co-founder, then 2 or 3 profiles within 24 hours."
+description: "Online Basingstoke A-Level tutors for the one subject that's started to slip. A free call with Harry or Joe first, then 2 or 3 tutor profiles within 24 hours."
 layout: "subject"
 location: "Basingstoke"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors in Basingstoke for When One Subject Starts to Slip"
-hero_lead: "Often it isn't all three A-Levels. Just the one, and you can hear it in the way your child talks about it. That's the subject our Basingstoke A-Level tutors pick up, online and one-to-one, starting from the last test that didn't go well."
+hero_heading_line1: "Online A-Level Tutors in Basingstoke for the One Subject That's Slipping"
+hero_lead: "Often it isn't all three A-Levels. Just the one. You can hear it in the way your child talks about it. Our Basingstoke A-Level tutors start with that subject, and with the last test that didn't go well."
 
 grade_from: "C"
 grade_to: "A"
-grade_stat: "The size of climb that a year of weekly lessons on the struggling subject is built around, whether your child starts in Year 12 or Year 13."
+grade_stat: "A C to an A in that one subject is what a year of weekly lessons aims for. Nobody can promise it."
 
 first_lesson_eyebrow: "ONE SUBJECT AT A TIME"
 first_lesson_heading: "What an A-Level Tutor Looks at First"
-first_lesson_context: "One grade in one subject can be all that stands between your child and the course they want. That's why the first lesson with an A-Level tutor goes on that subject alone, working back from a recent test to where the marks went. Quite often it's a couple of topics, not the whole course."
+first_lesson_context: "One grade in one subject can be all that's standing between your child and the course they want. So the tutor's first lesson stays on that subject, working back from a recent test to find where the marks went. It's often a couple of topics, not the whole course."
 first_lesson_quote: "My son gained almost two grades higher than his year 13 mock paper. His tutor Jacob was excellent."
 first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "A-Level"
 
 tutor_strip_heading: "Basingstoke A-Level tutors for the subject that's worrying you"
-tutor_strip_body: "Tell Harry or Joe, our co-founders, which subject it is on a free call, plus the exam board if you know it. Within 24 hours you'll have two or three tutor profiles, all Russell Group graduates. Or browse them now and see who stands out."
+tutor_strip_body: "Book a free call and tell Harry or Joe, our co-founders, which subject it is. The exam board helps too, if you know it. Within 24 hours you'll have two or three tutor profiles, all Russell Group graduates. Or look through them now with your child."
 
 pathways_heading: "What Basingstoke A-Levels Can Lead To"
-pathways_lead: "Your child's options after Year 13, and what each one looks at."
+pathways_lead: "Where your child might head after Year 13, and what each route looks for."
 pathways:
   - title: "Universities"
     body: >
-      The rail links put Southampton, Reading, Surrey and the London universities all within reach, and for the competitive courses, admissions read the predicted grade long before results day. And for Medicine, Dentistry, Veterinary or Oxbridge, applications close on 15 October, not in January, so the planning starts in the summer of Year 12.
+      Southampton, Reading, Surrey and the London universities are all within reach by train, and offers go out on predicted grades, long before results day. Applications for Medicine, Dentistry, Veterinary Science or Oxbridge close on 15 October, not in January, so the planning starts in the summer of Year 12.
   - title: "Degree Apprenticeships"
     body: >
-      If your child fancies earning while they study, the town's technology and professional-services employers run higher and degree apprenticeships, with more along the train line into the Thames Valley. Each sets its own entry grades, which can change between intakes, and Maths counts most on technical and finance routes.
+      If your child fancies earning while they study, the town's technology and professional-services firms run higher and degree apprenticeships, with more towards the Thames Valley. Entry grades vary by firm and can change from year to year, and Maths often counts most on technical and finance routes.
   - title: "Career Pathways"
     body: >
-      Some sixth formers go straight into technical, digital or commercial jobs with local employers. Others take a gap year or a foundation year and reapply, often after missing a competitive course by a single grade.
+      Some sixth formers go straight into technical, digital or commercial jobs with local employers. Others take a gap year or a foundation year and apply again, often after missing a competitive course by a single grade.
 
 reviews:
   - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
