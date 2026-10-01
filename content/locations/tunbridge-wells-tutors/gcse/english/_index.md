@@ -1,7 +1,7 @@
 ---
 title: "Tunbridge Wells Online GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Tunbridge Wells GCSE English tutors for keen readers whose essays have stalled, matched on exam board and set texts. Analysis, comparison, timed writing."
+description: "Reading well and scoring well in GCSE English aren't the same skill. Our Tunbridge Wells tutors teach your child the method behind the marks. From £37."
 layout: "level-subject"
 location: "Tunbridge Wells"
 level: "GCSE"
@@ -13,9 +13,9 @@ hero_lead: "Your child has always been the reader in the family, so a Literature
 angle_eyebrow: "ALWAYS GOOD AT ENGLISH, UNTIL THE MOCK"
 angle_heading: "Why Keen Readers in Tunbridge Wells Can Stall at GCSE English"
 angle_body_1: "It's often the confident readers who get the biggest shock. They've been told they're good at English since primary school. Perhaps they passed the Kent Test without much fuss. Then GCSE Literature asks for something new, and simply explaining what happens earns very little. The marks go to how your child explains the writer's choices, and they tend to leak in the same places. A technique named and left there. On the Language papers, the 19th-century extract, where long, old-fashioned sentences eat into the reading time. A comparison that deals with one text, then the other. And a lively piece of writing that drops marks on accuracy."
-angle_body_2: "What helps is writing every week and having it marked carefully while it's fresh. In lessons, the tutor and your child rework a paragraph together on screen. Some children need the basic shape of an analytical paragraph first. Others write beautifully and need to see why beautiful isn't always top band. Either way, they get used to redrafting, which a quick reader may never have needed to do. It pays off beyond English. The grammar sixth forms, Bennett Memorial and West Kent College all have their own entry requirements, and a strong English grade helps with far more than English A-Level."
+angle_body_2: "What helps is writing every week and having it marked carefully while it's fresh. In lessons, the tutor and your child rework a paragraph together on screen. Some children need the basic shape of an analytical paragraph first. Others write beautifully and need to see why beautiful isn't always top band. Either way, they get used to redrafting, which a quick reader may never have needed to do. Then there's what comes after Year 11. The grammar sixth forms, Bennett Memorial and West Kent College all have their own entry requirements, and a strong English grade helps with far more than English A-Level."
 angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"
-angle_image_alt: "Highlighted notes and a redrafted paragraph from an online GCSE English lesson"
+angle_image_alt: "Yellow and pink highlighters resting on printed notes, beside a half-written page"
 angle_stat_from: "5"
 angle_stat_to: "7"
 angle_stat_detail: "What a term of weekly marked writing is aimed at for a confident reader, once the method catches up with the reading."
@@ -40,15 +40,15 @@ steps:
 
 faqs:
   - q: "My child sailed through the Kent Test. Why is GCSE English so much harder?"
-    a: "Because it's testing something different. The Kent Test showed your child reads and understands well, and that still counts. But GCSE English, and Literature most of all, rewards explaining how a writer creates an effect, in a planned argument, against the clock. Plenty of strong readers have never been taught that, because they've never needed it. It's a method, so it can be learnt, and keen readers often pick it up quickly once someone shows them what the examiner is looking for."
+    a: "Because it's testing something different. The Kent Test showed your child reads and understands well, and that still counts. But GCSE English, and Literature most of all, rewards explaining how a writer creates an effect, in a planned argument, against the clock. Plenty of strong readers have never had to do that before, because understanding the story was always enough. It's a method, so it can be learnt, and keen readers often pick it up quickly once they can see what the examiner is looking for."
   - q: "What English grade do Tunbridge Wells sixth forms look for?"
-    a: "Each sets its own, and the numbers can change from year to year, so check this year's admissions pages. Tunbridge Wells Grammar School for Boys, Tunbridge Wells Girls' Grammar School and The Skinners' School all have sixth forms, Bennett Memorial is another option, and West Kent College publishes its own entry points for Level 3 courses. Look beyond English A-Level, too. The English grade often counts towards History, Politics, Law and courses that never mention English in the title."
+    a: "Each sets its own, and the numbers can change from year to year, so check this year's admissions pages. Tunbridge Wells Grammar School for Boys, Tunbridge Wells Girls' Grammar School and The Skinners' School all have sixth forms, and so does Bennett Memorial. West Kent College publishes its own entry requirements for Level 3 courses, the ones at A-Level standard. Look beyond English A-Level, too. The English grade often counts towards History, Politics, Law and courses that never mention English in the title."
   - q: "What should my child be doing for English between lessons?"
     a: "About an hour a week, and mostly writing rather than reading. One timed paragraph, or one full question against the clock, does far more than an evening of re-reading and highlighting. It's also the habit a keen reader most needs, because reading feels productive and writing feels exposing. Push much past an hour and a half and the benefit tails off, while other subjects start to suffer. Ask the tutor to set something definite each week, so it never turns into vague 'revision'."
   - q: "How do you check a tutor can teach GCSE English well?"
-    a: "Every tutor is checked on three things: what they know, how they explain it, and how they get on with teenagers. Harry and Joe interview tutors before they join, and roughly 3% of applicants are accepted. Every one has a degree from a top Russell Group university. For English, we also want someone who can be kind about a weak paragraph without being vague about what's wrong with it. That matters for a child who isn't used to hearing their writing needs work."
+    a: "Every tutor is checked on three things: what they know, how they explain it, and how they get on with teenagers. Harry and Joe interview tutors before they join, and roughly 3% of applicants are accepted. Every one has a degree from a top Russell Group university. For English, we also want someone who can be kind about a weak paragraph without being vague about what's wrong with it. That matters if your child isn't used to hearing their writing needs work."
   - q: "What if my child doesn't feel comfortable showing the tutor their writing?"
-    a: "It often eases after a lesson or two, and if it doesn't, tell us and we'll introduce another tutor free of charge. No explanations needed. The free 15-minute video meeting before any paid lesson helps too, because most mismatches show up there. Some teenagers open up with someone brisk and direct, others with someone gentler. And because lessons are online, families in Tunbridge Wells, Pembury or Southborough can pick from tutors all over the UK, so there's always someone else to try."
+    a: "It often eases after a lesson or two, and if it doesn't, tell us and we'll introduce another tutor free of charge. No explanations needed. The free 15-minute video meeting before any paid lesson helps too, because a mismatch often shows up there. Some teenagers open up with someone brisk and direct, others with someone gentler. And because lessons are online, families in Tunbridge Wells, Pembury or Southborough can pick from tutors all over the UK, so there's always someone else to try."
 # FAQ picks: custom, G01, A09, E01, C01
 
 reviews:

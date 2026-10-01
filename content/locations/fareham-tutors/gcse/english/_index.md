@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring for Fareham, Whichever College Comes Next"
-hero_lead: "Ask how English revision is going and you might get a shrug and 'you can't really revise for English'. You're far from the only parent hearing it. Our Fareham GCSE English tutors show your child what to practise instead, from quotations to timed writing."
+hero_lead: "Ask how English revision is going and you might get a shrug and 'you can't really revise for English'. We hear that one a lot. Our Fareham GCSE English tutors show your child what to practise instead, from quotations to timed writing."
 
 angle_eyebrow: "THE SUBJECT THEY SAY YOU CAN'T REVISE"
 angle_heading: "Why 'You Can't Revise for English' Is Only Ever Half True"
@@ -29,7 +29,7 @@ schools:
   - "Fareham College"
 
 steps_heading: "Getting started with a GCSE English tutor in Fareham"
-steps_lead: "Most families have profiles to read by the next day. There's no bad time to begin, but quotations take a few months to really stick, so earlier is kinder."
+steps_lead: "Most families have profiles to read by the next day. There's no bad time to begin, though quotations do take time to stick, so starting early takes the pressure off later."
 steps:
   - title: "Tell us about your child"
     body: "It starts with a chat with Harry or Joe, who run The Degree Gap, and it's free. We'll ask about the year group, the school, the exam board and the Literature texts your child is studying. Say which paper feels shakier, too. Language and Literature tend to go wrong in quite different ways."
@@ -42,7 +42,7 @@ faqs:
   - q: "What English grade will Fareham's colleges want?"
     a: "It depends on the college and the course, and it can change from one year to the next, so this year's website is the one to trust. Fareham College, St Vincent, Barton Peveril, and Portsmouth and Havant's colleges each publish their own. What doesn't change is that English sits on nearly every list, whatever the course. That's why it's usually the grade we'd look after first."
   - q: "My child's in Year 11. When should we start?"
-    a: "The autumn term is ideal, and anything before February still gives a good run at it. That's a few months of weekly marked writing before the real exams, which is roughly how long quotations take to settle. A start after Easter still helps. The plan just gets narrower: the tutor picks whichever paper is losing the most marks and puts the weeks into that. And if you're reading this in Year 10, even better."
+    a: "The autumn term is ideal, and anything before February still gives a good run at it. That's a few months of weekly marked writing before the real exams, with time for quotations to settle. A start after Easter still helps. The plan just gets narrower: the tutor picks whichever paper is losing the most marks and puts the weeks into that. And if you're reading this in Year 10, even better."
   - q: "Can one tutor cover Language and Literature?"
     a: "Yes. They're two separate GCSEs, but they lean on the same skills: close reading, choosing evidence and writing clearly under time. A tutor who teaches both can spot when a habit from one paper is costing marks on the other. Just tell us on the call which one worries you more, and the lessons can lean that way."
   - q: "How do you pick the English tutors you suggest?"

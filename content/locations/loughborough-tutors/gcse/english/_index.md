@@ -1,7 +1,7 @@
 ---
 title: "Loughborough GCSE English Tutors | Online | The Degree Gap"
 nav_title: "English"
-description: "Online GCSE English tutors for Loughborough families, for the child who's strong at Maths and Science but finds English essays vague. From £37 an hour."
+description: "Strong at Maths and Science but lost on English essays? Our Loughborough GCSE English tutors teach the essay as clear steps, online and one-to-one. From £37."
 layout: "level-subject"
 location: "Loughborough"
 level: "GCSE"
@@ -12,10 +12,10 @@ hero_lead: "If your child flies through Maths homework and then stares at a blan
 
 angle_eyebrow: "WHEN ENGLISH FEELS LIKE GUESSWORK"
 angle_heading: "Why a Child Who Loves Maths Can Find GCSE English So Frustrating"
-angle_body_1: "It's a conversation we have with Loughborough parents a lot. Your child is confident in Maths and the Sciences, likes a right answer, and has quietly decided English marks are just someone's opinion. So they write the way that's worked everywhere else: short, tidy and finished, a bit like a lab write-up. Then the essay comes back a band lower, with a comment nobody explains. The marks slip in the same places each time. A technique gets named but never explained. A point is made once instead of built up. Quotations sit in the paragraph without being unpicked."
-angle_body_2: "It isn't guesswork, and telling a logical teenager 'it's all subjective' is a quick way to lose them. The mark scheme has a structure. Once a tutor lays it out as steps, a child who's good at following a method often moves quickly. So lessons are built around writing, marked the same week, with your child's own paragraph taken apart and rebuilt on a shared whiteboard. It matters for what comes next. The sixth forms at Loughborough Grammar, Loughborough High, De Lisle, Charnwood and Rawlins set their own entry requirements, so it's worth checking what your child's chosen courses ask for in English."
+angle_body_1: "It's a conversation we have with Loughborough parents a lot. Your child is confident in Maths and the Sciences, likes a right answer, and has quietly decided English marks are just someone's opinion. So they write the way that's worked everywhere else: short, tidy and finished, a bit like a lab write-up. Then the essay comes back a band lower, with a comment about developing the analysis. That usually means the same few things. Your child names a technique, then stops before saying what it does. A point is made once instead of built up. Quotations sit in the paragraph without being unpicked."
+angle_body_2: "It isn't guesswork, and telling a logical teenager 'it's all subjective' is a quick way to lose them. The mark scheme has a structure. Once a tutor lays it out as steps, a child who's good at following a method often moves quickly. So lessons are built around writing, marked the same week, with your child's own paragraph taken apart and rebuilt on a shared whiteboard. It matters for what comes next. Loughborough Grammar, Loughborough High, De Lisle, Charnwood and Rawlins each set their own sixth form entry requirements. Plenty of courses besides English A-Level ask for an English grade, so check what your child's choices need."
 angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"
-angle_image_alt: "A GCSE English student planning an essay step by step with a tutor"
+angle_image_alt: "A pen mid-sentence on lined paper, beside highlighted printed notes and two highlighters"
 angle_stat_from: "5"
 angle_stat_to: "7"
 angle_stat_detail: "The two-grade climb that weekly, method-first lessons are aimed at. It's a target to work towards, never a promise, and it depends where your child starts."
@@ -28,13 +28,13 @@ schools:
   - "Rawlins Academy"
   - "Limehurst Academy"
 
-steps_heading: "How to start GCSE English tutoring in Loughborough"
+steps_heading: "How GCSE English tutoring starts in Loughborough"
 steps_lead: "Tutor profiles usually land within a day of your call. After that, each week brings a piece of writing to mark and fix. That steady rhythm is what moves an English grade."
 steps:
   - title: "Tell us how English compares"
     body: "Harry or Joe, our co-founders, will have a free call with you first, to get to know you and your child. We'll ask about school, year group, exam board and set texts, and how English compares with your child's other subjects. If they're a Maths-and-Science type who finds essays vague, say so. It really does change who we'd suggest."
   - title: "Find someone who teaches it as steps"
-    body: "You'll have two or three tutor profiles within 24 hours of the call, matched on exam board and texts and, where it fits, on teaching English as a clear method rather than a feel. Your child meets the one you prefer on a free 15-minute video meeting first, before anything's booked, and can judge for themselves whether the explanations make sense."
+    body: "You'll have two or three tutor profiles within 24 hours of the call. Each one will know your child's exam board and texts. If your child likes a method, we'll pick tutors who teach English that way rather than as a feel. Before anything's booked, your child meets the one you prefer on a free 15-minute video meeting, and can judge whether the explanations make sense."
   - title: "An essay method, built week by week"
     body: "Lessons are one-to-one and online, on a platform called Lessonspace, whether you're in Loughborough, Shepshed, Quorn or Barrow upon Soar. Your child's own writing sits on screen, and every lesson has a replay. From £37 an hour, no contract, and if the tutor isn't right for your child, we'll find another at no charge."
 

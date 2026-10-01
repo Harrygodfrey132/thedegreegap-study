@@ -1,6 +1,6 @@
 ---
 title: "Wolverhampton GCSE English Tutors | Online | The Degree Gap"
-description: "Online GCSE English tutors for Wolverhampton families, for Language and Literature. Matched to your child's set texts and exam board. Free call first, from £37."
+description: "An English essay can read well at home and still come back a 4. Our Wolverhampton GCSE English tutors show your child what each question wants. From £37."
 layout: "level-subject"
 location: "Wolverhampton"
 level: "GCSE"
@@ -12,9 +12,9 @@ hero_lead: "You've read your child's English essay, and honestly, it reads well 
 angle_eyebrow: "WHEN A GOOD READ SCORES A 4"
 angle_heading: "What a Well-Written English Essay Can Still Miss"
 angle_body_1: "If GCSE English looks unfamiliar, that's because it's changed a lot. Grades run from 9 to 1, there's no coursework, and Literature is sat closed book, so apart from a short printed extract the texts stay at home. The marks go to answering the exact question on the paper. Your child might be asked how a writer has structured a passage and write, quite well, about word choice instead, which earns very little. A comparison can come out as two summaries side by side. Quotations sit in a paragraph doing nothing. And the writing task often gets whatever time is left, which can cost a band on its own."
-angle_body_2: "None of that shows when you read the essay at home, which is why it's so frustrating. It shows against the mark scheme. So a tutor starts by going through a recent paper with your child, question by question, then practises the fix under time until it's automatic. Knowing the book helps too. Wolverhampton schools don't all study the same texts or sit the same board, so we match on both. That way your child doesn't lose the first fortnight to a tutor catching up on reading they've already done."
+angle_body_2: "You won't see that when you read the essay at home, which is why it's so frustrating. It shows against the mark scheme. So a tutor starts by going through a recent paper with your child, question by question, then practises the fix under time until it's automatic. Knowing the book helps too. Wolverhampton schools don't all study the same texts or sit the same board, so we match on both. That way your child doesn't lose the first fortnight to a tutor catching up. It's worth the effort. At City of Wolverhampton College, most courses at A-Level standard ask for a 4 or 5 in English."
 angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"
-angle_image_alt: "A hand drafting a timed answer on lined paper beside highlighted notes"
+angle_image_alt: "A hand drafting an answer on lined paper beside highlighted notes"
 angle_stat_from: "4"
 angle_stat_to: "6"
 angle_stat_detail: "From a 4 to a 6: where a term of weekly work on answering the exact question aims. Never a promise."
@@ -27,7 +27,7 @@ schools:
   - "Wolverhampton Grammar School"
 
 steps_heading: "GCSE English tutoring for Wolverhampton families, step by step"
-steps_lead: "Not sure of the exam board or the set texts? Don't worry. We'll work them out together on the call."
+steps_lead: "Not sure of the exam board or the set texts? Lots of parents aren't. We'll work them out together on the call."
 steps:
   - title: "A free call, no jargon"
     body: "You'll talk to Harry or Joe, who started The Degree Gap, about your child: the year group, the school, and whether Language, Literature or both are the worry. If any of the terms are new to you, ask. We're happy to explain how today's GCSEs work."
@@ -45,7 +45,7 @@ faqs:
     a: "Yes, more than most parents expect. AQA, Edexcel, OCR and Eduqas test the same skills, but the papers are built differently. The Literature set texts differ too, and so does the way poetry is tested. On AQA, for example, one anthology poem is printed on the paper and your child brings the second from memory. Schools in Wolverhampton vary, so we'll check your child's board on the call. If you're not sure, their English teacher will know."
   - q: "Who are you, and why should I trust you with my child's English?"
     a: "We're Harry and Joe. We grew up together, and between us we had four tutors: two excellent, two just okay. That taught us early that the match is what counts. So we interview every tutor on our platform ourselves. In 2026 Lux Life voted us Best British Curriculum Tutoring Service Provider, and there are over 100 five-star Google reviews from other parents if you'd like to read them."
-  - q: "What if my child and the tutor don't hit it off?"
+  - q: "What if my child and their English tutor don't hit it off?"
     a: "Tell us, and we'll find someone else, at no charge and without any awkwardness. It does happen. Teenagers can be picky about how things are explained, and it's hard to know until a lesson or two in. A poorly matched tutor costs money and can put your child off asking for help at all, so we'd much rather swap early than let it drift."
 
 reviews:

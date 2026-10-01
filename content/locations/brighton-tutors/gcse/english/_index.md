@@ -12,10 +12,10 @@ hero_lead: "If your child hasn't read a book for fun since primary school, a Sha
 
 angle_eyebrow: "WHEN YOUR CHILD WOULD RATHER NOT READ"
 angle_heading: "Helping a Reluctant Reader Through the GCSE English Texts"
-angle_body_1: "Lots of parents tell us a version of the same story. Their child loved stories once, then the phone took over, and now the longest thing they read is a group chat. That's normal, and it isn't a disaster. But GCSE English asks for a lot of reading. A Shakespeare play and a nineteenth-century novel for Literature, both quoted from memory in the exam. Unseen extracts on the Language papers, too, some of them from the 1800s, full of long sentences and words nobody uses any more. A child who rarely reads gets through all of that slowly, and marks slip away before the writing has even started."
+angle_body_1: "Lots of parents tell us a version of the same story. Their child loved stories once, then the phone took over, and now the longest thing they read is a group chat. That's normal, and it isn't a disaster. But GCSE English asks for a lot of reading. A Shakespeare play and a nineteenth-century novel for Literature, in a closed-book exam where most quotations have to come from memory. Unseen extracts on the Language papers, too, some of them from the 1800s, full of long sentences and words nobody uses any more. A child who rarely reads gets through all of that slowly, and marks slip away before the writing has even started."
 angle_body_2: "So the tutor doesn't try to turn your child into a bookworm. They read the key scenes together, a page at a time, and talk about what's going on before anyone writes a word. Then comes a short list of quotations that do a lot of work, learnt a few each week. For the old extracts, your child learns a way in: skim for the gist, then slow right down on the lines the question points to. It all matters at 16. BHASVIC, Varndean College and Greater Brighton Metropolitan College each set their own entry requirements, and English is part of the picture for far more courses than English A-Level."
 angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"
-angle_image_alt: "A GCSE English student reading a set text scene with an online tutor"
+angle_image_alt: "Lined paper, a pen and two highlighters beside a page of highlighted printed notes"
 angle_stat_from: "4"
 angle_stat_to: "6"
 angle_stat_detail: "What weekly lessons aim at for a reluctant reader once the texts feel manageable. A direction of travel, not a promise, since every child starts somewhere different."
@@ -40,15 +40,15 @@ steps:
 
 faqs:
   - q: "Do you help families in Hove, Portslade and Lewes too?"
-    a: "Yes. Every GCSE English lesson is online, so it works the same whether you're in Hove, Portslade, Peacehaven, Lewes or the middle of Brighton. It also means we can pick a tutor for your child's exam board and set texts rather than for your postcode. Nobody has to drive across the city on a wet school night, either. Lessons go in the diary at whatever time suits your family's week."
+    a: "Yes. Every GCSE English lesson is online, so it works the same whether you're in Hove, Portslade, Peacehaven, Lewes or the middle of Brighton. It also means we can pick a tutor for your child's exam board and set texts rather than for your postcode. Nobody has to drive across the city on a wet school night, either. Lessons go in the diary at a time that suits your family's week."
   - q: "My child never reads for fun. Is that why GCSE English feels so hard?"
-    a: "It's often part of it, and you're far from the only Brighton parent to ask. Reading less means less practice at getting through tricky sentences quickly, which is exactly what the unseen extracts test. The good news is that GCSE English is a short list of texts, not a whole library. Your child doesn't need to become a keen reader to know those texts well. The tutor makes them manageable, scene by scene, and builds reading speed on real exam extracts along the way."
+    a: "It's often part of it, and plenty of Brighton parents ask us the same thing. Reading less means less practice at getting through tricky sentences quickly, and the unseen extracts lean on exactly that. The good news is that GCSE English is a short list of texts, not a whole library. Your child doesn't need to become a keen reader to know those texts well. The tutor makes them manageable, scene by scene, and builds reading speed on real exam extracts along the way."
   - q: "Will we need two tutors, one for Language and one for Literature?"
     a: "Usually not. English tutors normally teach both, and it helps to have one person seeing the whole picture. For a reluctant reader, the two halves feed each other too: the reading your child does for a Literature scene builds the confidence they need for an unseen Language extract. If one half needs far more work, we'll look for a tutor who's strongest there. Just mention it on the call."
   - q: "Reading is slow for my child because of dyslexia. Will a tutor go at their pace?"
     a: "Yes. Tell us about it on the call and we'll suggest tutors who are used to working with children who learn differently. One-to-one, there's no rush and no classmates waiting, so a hard passage can be read together, a bit at a time, and an essay plan can be built in small steps. Everything stays visible on the shared screen. And because each lesson can be replayed, your child doesn't need to catch it all first time."
   - q: "Is it awkward to ask for a different tutor?"
-    a: "Not at all. We'll find someone else at no charge, and nobody needs to feel awkward about it. It's one reason you see two or three profiles first. With a child who finds English a chore, the fit matters a lot. A tutor who's perfect for one fifteen-year-old can be wrong for the next, and it's much better to change early than to push on. If it isn't working, just tell us."
+    a: "Not at all. Tell us it isn't working and we'll find someone else, at no charge. It's one reason you see two or three profiles first. With a child who finds English a chore, the fit matters a lot. A tutor who's perfect for one fifteen-year-old can be wrong for the next, and it's much better to change early than to push on."
 # FAQ picks: G03, A07, A13, E03, C01
 
 reviews:
