@@ -1,6 +1,6 @@
 ---
 title: "Oxford Tutors | GCSE & A-Level from £37/hr"
-description: "Oxford tutors for GCSE and A-Level, online and one-to-one, for when a sixth form place or a university offer rests on the grades. From £37, no contract."
+description: "Oxford has no grammar schools, so GCSE results decide the sixth form. Our Oxford tutors help your child with GCSE and A-Level online, from £37, no contract."
 layout: single
 location: Oxford
 banner_heading: "Want an online Oxford tutor who knows what the city's sixth forms ask for?"

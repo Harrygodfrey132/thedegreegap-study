@@ -33,7 +33,7 @@ pathways:
       Simon Langton Grammar for Boys, Simon Langton Girls' Grammar and Barton Court Grammar keep most of their own Year 11s on for A-Level. Each sixth form publishes its own entry standards, and the grade asked for can change from one subject to the next.
   - title: "Apprenticeships"
     body: >
-      Canterbury Christ Church and the University of Kent both run degree apprenticeships, though those usually come after sixth form rather than straight after Year 11. Pfizer in nearby Sandwich and the Discovery Park science hub take on apprentices too, and most ask for set grades in Maths and English, plus Science for the technical roles.
+      Canterbury Christ Church and the University of Kent both run degree apprenticeships, though those usually come after sixth form rather than straight after Year 11. Employers at Discovery Park, the science hub in nearby Sandwich, take on apprentices too, and most ask for set grades in Maths and English, plus Science for the technical roles.
   - title: "Further Education"
     body: >
       Canterbury College runs A-Levels as well as Level 3 BTEC courses, which suit a teenager who'd rather learn through something practical. East Kent College Group's other campuses nearby take young people from right across Kent, and plenty of them resit GCSE Maths or English alongside their course.

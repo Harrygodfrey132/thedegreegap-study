@@ -1,6 +1,6 @@
 ---
 title: "Cambridge Tutors | GCSE & A-Level from £37/hr"
-description: "Cambridge tutors for GCSE and A-Level, online and one-to-one. Tell us on a free call what your child is aiming for, and we'll suggest tutors. From £37."
+description: "A grade short of what Hills Road asks for? Our Cambridge tutors work one-to-one online with your child on GCSE and A-Level. A free call first, then from £37."
 layout: single
 location: Cambridge
 banner_heading: "Cambridge tutors online, for the grade your child is aiming for"
