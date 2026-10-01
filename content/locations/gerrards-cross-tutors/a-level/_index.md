@@ -1,41 +1,41 @@
 ---
 title: "A-Level Tutors in Gerrards Cross | Expert Tutors | The Degree Gap"
-description: "A-Level tutoring in Gerrards Cross for the step up from GCSE and the predicted grades universities see. Online and one-to-one, tutor profiles within 24 hours."
+description: "First A-Level test far below your child's GCSE grades? Gerrards Cross A-Level tutoring, one-to-one and online, with 2 or 3 tutor profiles within 24 hours."
 layout: "subject"
 location: "Gerrards Cross"
 level: "A-Level"
 
 hero_heading_line1: "Online A-Level Tutors in Gerrards Cross for the Big Step Up From GCSE"
 hero_heading_line2: ""
-hero_lead: "Lots of students who did well at GCSE get their first A-Level test back and don't recognise the mark. Our Gerrards Cross A-Level tutors help them work out what changed, an hour a week online, long before predicted grades are written."
+hero_lead: "Good GCSEs, then a first A-Level test that comes home with a mark your child can't explain. It's a call we get a lot. Our Gerrards Cross A-Level tutors help them find what changed, an hour a week online, long before predicted grades are written."
 
 grade_from: "C"
 grade_to: "A"
-grade_stat: "One parent describes their child going from Cs to As, with help on university choices along the way."
+grade_stat: "In one parent's words, their child went from Cs to As, with help choosing universities along the way."
 
 first_lesson_eyebrow: "THE FIRST TEST OF YEAR 12"
 first_lesson_heading: "Why a Gerrards Cross A-Level Tutor Asks to See That First Test"
-first_lesson_context: "A first A-Level test that comes back well below your child's GCSE grades is very common, and when an A-Level tutor goes through it with them the reason is nearly always how the questions are asked, not how able your child is."
+first_lesson_context: "That first test, the one that came back well below anything your child got at GCSE, says a lot. When an A-Level tutor goes through it with them, the drop nearly always comes down to the way the questions are asked, not how able your child is. And that's very fixable."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Cs to As"
 
 tutor_strip_heading: "A-Level tutors for Gerrards Cross sixth formers, matched paper by paper"
-tutor_strip_body: "Whether your child is in the sixth form at Chalfonts, Thorpe House, St Mary's or one of the grammars, each subject can sit on a different board. We match on the exact specification. Browse the profiles, or have a quick chat and we'll pick for you."
+tutor_strip_body: "Your child might be in sixth form at Chalfonts, Thorpe House, St Mary's or one of the grammars, and each subject can sit on a different exam board. So we match on the exact course. Look through the tutors yourself, or leave the shortlist to us."
 
 pathways_heading: "After Year 13: The Routes Gerrards Cross Families Ask Us About"
-pathways_lead: "London is about 20 minutes down the Chiltern line on a fast train, and that opens up more options than most families expect."
+pathways_lead: "London's about 20 minutes down the Chiltern line on a fast train, and that opens up more options than most families expect."
 pathways:
   - title: "Universities"
     body: >
-      Brunel University London is just down the road in Uxbridge, Buckinghamshire New University is in High Wycombe, and the fast trains into Marylebone put the central London universities within easy reach. Offers go out on predicted grades written in Year 13, well before the summer exams.
+      Brunel University London is just down the road in Uxbridge, Buckinghamshire New University is in High Wycombe, and fast trains into Marylebone put central London within easy reach. Wherever your child applies, offers are made on predicted grades written early in Year 13, long before the summer exams.
   - title: "Degree Apprenticeships"
     body: >
-      Heathrow runs degree apprenticeships with its own predicted-grade requirements, and its engineering routes want A-Level Maths. Closing dates often come before the UCAS deadline, so it's worth keeping both doors open from Year 12.
+      Heathrow runs degree apprenticeships, each with its own predicted-grade requirements, and its engineering routes need A-Level Maths. Closing dates often come before the UCAS deadline, so it's worth your child keeping both doors open from Year 12.
   - title: "Career Pathways"
     body: >
-      Pinewood Studios at Iver Heath and the airport are two of the best-known employers on the doorstep, and London is a short commute away. Many students here keep a university place and an employer route in play right up to Year 13.
+      Pinewood Studios at Iver Heath and the airport are two of the best-known employers on the doorstep, and London's a short commute away. Plenty of families here keep a university application and an employer route going well into Year 13.
 
 reviews:
   - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
@@ -56,13 +56,13 @@ reviews:
   - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 
 faq_1_q: "My daughter got 8s and 9s at GCSE. Why is A-Level suddenly so hard?"
-faq_1_a: "Because it really is a different kind of subject, and it catches out lots of strong students. At GCSE the question usually tells you what to do. At A-Level your child has to decide the method and explain their thinking, and there's far more to hold in their head. It's not a sign she's chosen the wrong subjects. A tutor looks at her first marked work, finds where the marks are going, and helps her build new habits early."
+faq_1_a: "Because it really is a different kind of course, and it catches out lots of bright teenagers. At GCSE the question usually tells you what to do. At A-Level your daughter has to choose the method herself and show her thinking, with far more to keep in her head at once. That doesn't mean she's picked the wrong subjects. A tutor goes through her first marked work, finds where the marks are slipping, and helps her build new habits early in Year 12."
 faq_2_q: "Is an apprenticeship at somewhere like Heathrow a real alternative to university?"
-faq_2_a: "For some students, yes, and it's worth looking at properly. Heathrow runs degree apprenticeships, where you earn a salary and work towards a degree, and each route publishes its own grade requirements, with engineering asking for A-Level Maths. Deadlines often come earlier than UCAS. The tutor works on the grades, and on the consultation call we're happy to talk through how to keep both options open."
+faq_2_a: "Yes, for some teenagers, and it's worth a proper look. On a degree apprenticeship your child is paid a salary while working towards a degree. Heathrow runs them, and each route publishes its own grade requirements, with the engineering ones asking for A-Level Maths. Deadlines often fall before the UCAS one. So the tutor keeps working on the grades, and on the consultation call we're happy to talk through keeping both options open."
 faq_3_q: "Will the tutor know the exam board her sixth form uses?"
-faq_3_a: "Yes. We check the board for every subject before we suggest anyone, because at A-Level it shapes almost every question. AQA, Edexcel, OCR and OCR MEI can teach the same topic in quite different ways, and some papers expect students to know a particular data set or set of texts. If you're not sure which board it is, it's usually printed on a mock paper, or we can work it out together on the call."
-faq_4_q: "My teenager doesn't really want a tutor. Is that normal?"
-faq_4_a: "Very normal at seventeen, and it's usually more about what having a tutor seems to say than about the tutor. That's why your child meets them on a free video call first, and can say no to a particular person without saying no to help. Once lessons start, most students begin bringing their own questions within a few weeks. If they really don't get on with it, you just stop. There's no contract."
+faq_3_a: "Yes. We check the board for each of your daughter's subjects before suggesting anyone, because at A-Level it shapes nearly every question. AQA, Edexcel, OCR and OCR MEI can ask about the same topic quite differently. Each board picks some of its own material too, like the set texts for English Literature, or the bank of real data that A-Level Maths questions draw on. If you're not sure which board she's on, a mock paper usually says, or we'll work it out together on the call."
+faq_4_q: "My teenager's dead set against having a tutor. What do other parents do?"
+faq_4_a: "Most start by letting their child meet the tutor on a free video call, before anything's decided. Pushing back is really common at seventeen, and it's usually about what having a tutor seems to say, not the person. Meeting first means your child can say no to one tutor without saying no to help. Once lessons start, most teenagers begin bringing their own questions within a few weeks. If they really don't take to it, you stop, and there's no contract to get out of."
 
 sitemap:
   priority: 0.7

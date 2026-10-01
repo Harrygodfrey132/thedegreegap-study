@@ -1,61 +1,38 @@
 ---
 title: "Baldock A-Level Tutors | Tuition from £37/hr"
-description: Baldock A-Level tutors helping students improve grades, secure A*
-  results and strengthen university applications. Trusted Baldock A-Level
-  tutors.
+description: "Is A-Level Maths a shock after a strong GCSE? One-to-one online lessons with a Baldock A-Level tutor, aimed at the Year 12 step up. From £37, no contract."
 layout: subject
 location: Baldock
 level: A-Level
-hero_heading_line1: "Online A-Level Tutors in Baldock For the Year 12 Step Up"
+hero_heading_line1: "Online A-Level Tutors in Baldock for the Year 12 Step Up"
 hero_heading_line2: ""
-hero_lead: By October of Year 12, A-Level Maths can look nothing like the GCSE
-  Maths your child earned an 8 in last summer. Our Baldock A-Level tutors close
-  that GCSE-to-A-Level gap before end-of-Year-12 mocks set the predicted grade
-  for the year ahead.
+hero_lead: "By October of Year 12, A-Level Maths can look nothing like the GCSE your child did well in last summer. It's a common shock, not a sign they chose wrong. Our Baldock A-Level tutors work on that gap well before the end-of-Year-12 exams that predicted grades lean on."
 grade_from: C
 grade_to: A
-grade_stat: A real two-grade A-Level jump from a student we worked with through
-  to university applications.
+grade_stat: "Cs to As for Alexander's child, plus help with university choices and applications."
 first_lesson_eyebrow: A BALDOCK A-LEVEL TURNAROUND
 first_lesson_heading: What a Baldock A-Level Tutor Reads in Year 12 Mocks
-first_lesson_context: In a first session with a Baldock Year 12, we usually find
-  the same picture. The student arrived with strong GCSEs and is now sitting at
-  a lower mark in their A-Level subject than expected. Not because the work is
-  too hard, because A-Level rewards a different kind of thinking GCSE never
-  asked for. A Baldock A-Level tutor names that gap, then rebuilds the method
-  week by week.
+first_lesson_context: "Lots of Baldock Year 12s come to us with strong GCSEs and an A-Level mark well below anything they've had before. It's rarely that the work's beyond them, more that A-Level asks for a different kind of thinking. So the tutor goes through a recent mock with your child, finds the questions where the method fell apart, and rebuilds from there, week by week."
 first_lesson_quote: The Degree Gap helped my child go from Cs to As. They have a
   great selection of tutors who not only assist with the curriculum but also
   helped with university choices and applications.
 first_lesson_quote_name: Alexander
 first_lesson_quote_role: Parent
 first_lesson_quote_grade: A-Level
-tutor_strip_heading: Baldock A-Level tutors matched to your spec and your sixth form
-tutor_strip_body: Most of our Baldock A-Level tutors are graduates from Russell
-  Group universities, vetted on how clearly they explain a difficult idea, not
-  just their degree result. Match by spec, not just subject. Browse profiles, or
-  let us match your child.
-pathways_heading: Where Baldock A-Level Leavers Actually Head
-pathways_lead: Three routes Baldock A-Level tutoring families take once UCAS comes through.
+tutor_strip_heading: "Baldock A-Level tutors who know your child's course inside out"
+tutor_strip_body: "A-Levels at Knights Templar and at the Hitchin and Letchworth sixth forms aren't always on the same exam board, so we'll check your child's first. Our tutors are all Russell Group graduates, interviewed by Harry or Joe. The profiles are just below, or we can suggest a few."
+pathways_heading: "From Baldock to Cambridge, London or Further Afield"
+pathways_lead: "Baldock's on the commuter line into London, and Cambridge is within reach too, which widens your child's choice."
 pathways:
   - title: Universities
     body: >
-      Cambridge takes a small slice each year, with Nottingham and Loughborough
-      admitting most of Baldock's Year 13 cohort, plus a steady London commute
-      into UCL and KCL. A-Level tutoring lifts the predicted grade towards what
-      most Russell Group conditional offers ask for.
+      Some Baldock sixth formers aim for Cambridge and others look north, to Nottingham or Loughborough, while UCL and King's College London are a straight train ride away. All of them make offers on predicted grades, so the Year 12 work counts for more than it seems.
   - title: Degree Apprenticeships
     body: >
-      AstraZeneca runs degree apprenticeships from its Cambridge campus, and ARM
-      in Cambridge takes engineering and tech routes. Each has its own
-      minimum-grade requirements, which is where A-Level tutoring earns its
-      place across Year 13.
+      AstraZeneca runs degree apprenticeships from its Cambridge campus, and Arm, also in Cambridge, takes engineering and tech apprentices. Each sets its own minimum grades, so Year 13 work matters here as much as it does for university.
   - title: Career Pathways
     body: >
-      Plenty of Baldock A-Level leavers head straight into the City, with the
-      London commuter line putting Goldman Sachs and HSBC graduate routes within
-      reach from Year 13. A-Level tutoring helps students hit the predicted
-      grades these schemes screen on.
+      Some Baldock leavers head straight for London, where the train puts City employers such as Goldman Sachs and HSBC within commuting distance. Any route there that takes school leavers sets its own entry requirements, and A-Level grades often come into it.
 reviews:
   - Mahir|A-Level Student|My tutor was an excellent teacher that helped me gain
     real grip of the complicated areas in my subjects like economics. I'd highly
@@ -117,30 +94,14 @@ reviews:
     sitting my school exams. They helped with my dissertation work and without
     their help I am not sure I would have graduated so successfully and landed a
     successful job.
-faq_1_q: Year 12 or Year 13, when's the right time to start A-Level tutoring in Baldock?
-faq_1_a: Year 12 is the most common starting point for Baldock families,
-  especially where A-Level Maths is the worry. Get the GCSE-to-A-Level jump
-  nailed before end-of-Year-12 mocks, and predicted grades arrive higher going
-  into Year 13. Year 13 January mocks are the cut-off for most UCAS predicted
-  grades, so starting after Christmas of Year 13 is too late for most
-  universities.
-faq_2_q: Will the tutor know my child's A-Level exam board and specification?
-faq_2_a: Yes. When we match, exam board is part of the criteria. AQA Maths and
-  Edexcel Maths are different exams, and the same is true for Chemistry across
-  OCR and AQA. We match A-Level tutors who have actually taught your child's
-  spec, not just the broad subject.
-faq_3_q: Can a Baldock A-Level tutor help with the EPQ?
-faq_3_a: Yes. EPQ structure and the artefact-or-essay choice are where most of
-  the work sits. The final write-up stays your child's own, but tutoring shapes
-  how it is structured and where the marks land. The EPQ counts towards UCAS,
-  and a good tutor knows how examiners actually read it.
-faq_4_q: Can A-Level tutoring help my child apply for an AstraZeneca or ARM
-  degree apprenticeship?
-faq_4_a: Yes. Most Cambridge-corridor degree apprenticeships open to Baldock
-  students screen on predicted grades and the strength of the application essay.
-  A-Level tutoring lifts predicted grades into the AAB band most schemes ask
-  for, and tutors help shape the application essay around the scheme's selection
-  criteria.
+faq_1_q: "When's the best moment to bring in an A-Level tutor: Year 12 or Year 13?"
+faq_1_a: "Year 12, if you can, and especially if A-Level Maths is the worry. If your child gets past the jump from GCSE before the end-of-Year-12 exams, Year 13 starts from a stronger place. Schools usually send predicted grades to UCAS in the autumn of Year 13, before the January mocks. So a start after Christmas in Year 13 won't change the prediction, though it can still help with the final exams."
+faq_2_q: "Will the tutor know my child's exam board and the exact course?"
+faq_2_a: "Yes, it's one of the first things we ask. AQA Maths and Edexcel Maths are different exams, even though they cover a lot of the same ground, and the same goes for OCR and AQA Chemistry. So we look for tutors who've taught your child's exact course, not just the subject."
+faq_3_q: "Can a tutor help with the EPQ, the Extended Project?"
+faq_3_a: "Yes, with one rule: the project stays your child's own work. The tutor helps with the big early decisions, like a written report or an artefact, and with how the write-up's planned and structured. That's usually where most of the work is. And it's worth doing well, because the EPQ carries UCAS points."
+faq_4_q: "Can A-Level tutoring help my child apply for an AstraZeneca or Arm degree apprenticeship?"
+faq_4_a: "Yes, with both the grades and the application. Schemes along the Cambridge corridor usually look at predicted grades and a written application, and each sets its own entry requirements, so check the current advert. The tutor works on the A-Level marks behind the prediction and can help your child plan the written answers."
 sitemap:
   priority: 0.7
   changefreq: monthly
