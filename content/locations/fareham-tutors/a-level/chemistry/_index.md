@@ -1,7 +1,7 @@
 ---
 title: "Fareham A-Level Chemistry Tutors | Online | The Degree Gap"
 nav_title: "Chemistry"
-description: "Fareham A-Level Chemistry tutoring, online and one-to-one, for the acids, bases and pH questions that catch careful teenagers out. Free call first, from £37."
+description: "Was your child sure the pH question went well, then it scored lowest? Our Fareham A-Level Chemistry tutors work one-to-one online on acids and bases. From £37."
 layout: "level-subject"
 location: "Fareham"
 level: "A-Level"
@@ -28,27 +28,27 @@ schools:
   - "Fareham College"
   - "Portchester Community School"
 
-steps_heading: "What Happens When You Get in Touch About Chemistry"
+steps_heading: "Call, Profiles, Lessons: Starting Chemistry Tutoring in Fareham"
 steps_lead: "Starting before the next mocks gives your child time to try the new method on real questions. Profiles arrive within 24 hours of your call."
 steps:
   - title: "A free call with one of us"
     body: "Harry or Joe will get to know you and your child: the school or college, the exam board and which questions are costing marks. Confident wrong answers tell us more than blank ones, so do mention them."
   - title: "Profiles the next day"
-    body: "Two or three tutors, picked for your child's board and for strength on the calculation side of Chemistry, sent within 24 hours. Your child can meet the one you like best on a free 15-minute video call before anything's booked."
+    body: "Two or three tutors, picked for your child's board and for strength on the calculation side of Chemistry. Your child can meet the one you like best on a free 15-minute video call before anything's booked."
   - title: "Weekly lessons online"
     body: "An hour a week on Lessonspace, an online whiteboard that keeps every line of working on screen, with a replay afterwards. From £37 an hour, no contract, and we'll swap tutors at no charge if your child doesn't click."
 
 faqs:
   - q: "My child scraped onto A-Level Chemistry at sixth form in Fareham. Can they catch up?"
-    a: "Yes, and plenty do. Scraping in usually means a few GCSE ideas never quite settled, often moles or balancing equations, and A-Level builds straight on top of them. So the tutor starts there rather than with this week's topic. Once those foundations are sound, the new work has something to stand on, and your child stops feeling a step behind in every lesson."
+    a: "Yes, and plenty do. Scraping in usually means a few GCSE ideas never quite settled, often moles or balancing equations, and A-Level builds straight on top of them. That's where the tutor starts, rather than with this week's topic. Once those foundations are sound, the new work has something to stand on, and your child stops feeling a step behind in every lesson."
   - q: "Can't my child just do more past papers?"
-    a: "Sometimes, but it depends on what the wrong answers look like. If the working is neat and complete but the pH is wrong, your child's probably using the wrong method with total confidence, and more practice only makes that habit stronger. A tutor watching the working can usually spot it quickly. If questions are left blank, that's missing content, and practice with good notes can help more."
+    a: "Sometimes, but it depends on what the wrong answers look like. If the working is neat and complete but the pH is wrong, your child's probably using the wrong method with total confidence. More practice only makes that habit stronger. A tutor watching the working can usually spot it quickly. If questions are left blank, that's missing content, which is a different job and usually a longer one."
   - q: "How long before we'd see a change?"
-    a: "For one topic like pH, a few weeks of focused lessons is often enough for your child to feel the difference. The overall grade moves more slowly, usually over a term or two, because it depends on every paper, not one topic. We can't promise a grade. What we can say is that starting early gives your child more time to use the new habits before the exams."
+    a: "For a single topic like pH, a block of six to eight weekly lessons can often deal with it. The overall grade takes longer to move, because it depends on every paper, not one topic. We can't promise a grade. What we can say is that starting early gives your child more time to use the new habits before the exams."
   - q: "Can a Chemistry tutor help if my child has dyslexia or ADHD?"
-    a: "Yes, and lots of the tutors on our platform work this way. The changes are practical: the same layout for every calculation, a written 'what kind of acid is this?' step before any numbers, and mechanisms split into small stages. Every lesson has a replay, so your child needn't take notes during the hour. Tell us what their school or college in Fareham already does, and we'll build on it."
-  - q: "My child insists they're fine without a tutor. What then?"
-    a: "That's one of the most common things parents tell us, especially in Year 12, when a tutor sounds like more school. It rarely feels that way once they've tried it. There's no class watching, and they can ask the question they'd never ask in front of friends. So your child meets the tutor on a free video call first. If it's still not for them after a few lessons, you stop, with nothing to cancel."
+    a: "Yes, and lots of the tutors on our platform already work with children who do. The changes are practical: the same layout for every calculation, a written 'what kind of acid is this?' step before any numbers, and mechanisms split into small stages. Every lesson has a replay, so your child needn't take notes during the hour. Tell us what their school or college in Fareham already does, and we'll build on it."
+  - q: "My child says they're fine without a tutor. What then?"
+    a: "Then let them meet the tutor before anyone decides. Lots of Year 12s say the same, because a tutor sounds like more school. It rarely feels that way once they've tried it. There's no class watching, and they can ask the question they'd never ask in front of friends. That's what the free video call with the tutor is for. If it's still not for them after a few lessons, you stop, with nothing to cancel."
 # FAQ picks: custom, A10, A01, E03, C07
 
 reviews:

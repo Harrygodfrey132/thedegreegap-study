@@ -1,7 +1,7 @@
 ---
 title: "Stevenage Online A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
-description: "Stevenage A-Level Chemistry tutors, online and one-to-one. Help with moles, pH and practical questions, for a degree or a lab apprenticeship. From £37 an hour."
+description: "Moles, pH or practical questions costing your child marks? Our Stevenage A-Level Chemistry tutors help online, for a degree or a lab apprenticeship. From £37."
 layout: "level-subject"
 location: "Stevenage"
 level: "A-Level"
@@ -12,13 +12,13 @@ hero_lead: "Your child can follow every reaction in class and still come unstuck
 
 angle_eyebrow: "WHEN CHEMISTRY TURNS INTO NUMBERS"
 angle_heading: "The Numbers Side of Chemistry, and Why It Counts in Stevenage"
-angle_body_1: "Ask how Chemistry's going and your child might say they understand it. Often they do, in the lesson. Then a mock comes back and it's the calculation marks that are missing. A-Level Chemistry has far more maths in it than GCSE did: moles and concentrations, titration results worked through several steps, Kc and Kp, pH and buffers, Born-Haber cycles and entropy. The practicals come back too, as written questions about uncertainty, error and what they'd change. None of it needs a maths brain. It needs a method your child trusts, and plenty of practice writing it out."
+angle_body_1: "Ask how Chemistry's going and your child might say they understand it. Often they do, in the lesson. Then a mock comes back and it's the calculation marks that are missing. A-Level Chemistry has far more maths in it than GCSE did: moles and concentrations, titration results worked through several steps, equilibrium constants, pH and buffers, Born-Haber cycles and entropy. The practicals come back too, as written questions about uncertainty, error and what they'd change. None of it needs a maths brain. It needs a method your child trusts, and plenty of practice writing it out."
 angle_body_2: "What helps is slowing the working right down. The tutor and your child redo a recent paper's calculations together on a shared whiteboard, line by line, until the method holds on a question they haven't seen. Practical questions are unpicked in the same way: what went wrong, why, and what the examiner wanted written down. And in Stevenage, it pays off beyond the exam. GSK's research campus and the cell and gene therapy companies here recruit into laboratory routes, the kind of work where accurate numbers and careful practical skills matter. Medicine, Pharmacy and chemical engineering degrees usually want Chemistry too, at a high grade."
 angle_image: "/images/students-in-classroom-taking-notes.jpg"
 angle_image_alt: "A sixth former holding her folder in a classroom while her classmates take notes"
 angle_stat_from: "C"
 angle_stat_to: "A"
-angle_stat_detail: "One parent below describes their son finishing almost two grades above his Year 13 mock. That's the size of jump the weekly work is built towards."
+angle_stat_detail: "Two grades is the lift the weekly lessons are planned around, once the calculations hold up on questions your child hasn't seen."
 
 schools:
   - "The Nobel School"
@@ -40,15 +40,15 @@ steps:
 
 faqs:
   - q: "Is there a tutor who could come to our house in Stevenage?"
-    a: "No, we only teach online, and for Chemistry that tends to help. Your child and the tutor work on one shared whiteboard, so a calculation builds up line by line and nothing gets rubbed off, and the lesson can be watched again later. Families in Hitchin, Letchworth, Knebworth, Baldock and Stevenage itself all get the same choice of tutors. Nobody drives anywhere on a school night, and the choice of tutor isn't limited to whoever lives nearest."
+    a: "No, every lesson is online, and for Chemistry that tends to help. Your child and the tutor work on one shared whiteboard, so a calculation builds up line by line and nothing gets rubbed off, and the lesson can be watched again later. Families in Hitchin, Letchworth, Knebworth, Baldock and Stevenage itself all get the same choice of tutors. Nobody drives anywhere on a school night, and the choice of tutor isn't limited to whoever lives nearest."
   - q: "Will the lessons just be past papers?"
-    a: "Not at first. Past papers are how the tutor finds the gaps, but the early weeks go on fixing them, rebuilding the method for a titration or a pH question until your child can do one without a worked example to copy. A typical hour starts with last week's work, moves on to the week's topic with your child doing the writing, and ends with a few exam questions. Full papers take over nearer the exams."
+    a: "Not at first. Past papers are how the tutor finds the gaps, but the early weeks go on fixing them, rebuilding the method for a titration or a pH question until your child can do one without a worked example to copy. A typical hour starts with last week's work, moves on to the week's topic with your child doing the writing, and ends with a few exam questions. Past papers take over nearer the exams."
   - q: "My daughter's at sixth form in Stevenage and already has long days. How long are Chemistry lessons?"
-    a: "An hour, usually in the early evening, which is long enough to sort out one thing properly and short enough to fit around your daughter's homework. Some Year 13s go up to 90 minutes in the spring, when they want time for a run of exam questions, and we'd talk that through with you first. We wouldn't suggest going shorter at A-Level. An hour is about the least that leaves room to practise at the end."
+    a: "An hour, at a time you agree with the tutor, which is long enough to sort out one thing properly and short enough to fit around your daughter's homework. Some Year 13s go up to 90 minutes in the spring, when they want time for a run of exam questions, and we'd talk that through with you first. We wouldn't suggest going shorter at A-Level. An hour is about the least that leaves room to practise at the end."
   - q: "How can I tell whether a tutor really knows A-Level Chemistry?"
     a: "We check before anyone joins the platform, and roughly 3% of the people who apply are accepted. Each tutor goes through a subject knowledge check and an interview with Harry or Joe, where they have to explain a hard idea, like why a buffer resists a change in pH, to someone who's lost. We take up references as well. Then there's your own check: the free video meeting, where you or your child can ask the tutor anything before booking."
   - q: "Could we do a short run of lessons over Easter instead?"
-    a: "Yes, and it can work well for one part of the course, like the calculation topics or a set of required practicals. A few lessons close together over Easter or half-term keep a method fresh from one day to the next. For most families, though, it works best on top of weekly lessons in term, not instead of them, because Chemistry builds week on week. And since it's online, going away doesn't have to mean missing a lesson."
+    a: "Yes, and it can work well for one part of the course, like the calculation topics or the practicals. A few lessons close together over Easter or half-term keep a method fresh from one day to the next. For most families, though, it works best on top of weekly lessons in term, not instead of them, because Chemistry builds week on week. And since it's online, going away doesn't have to mean missing a lesson."
 # FAQ picks: G03, A08, A15, E01, C05
 
 reviews:

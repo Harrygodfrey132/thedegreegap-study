@@ -1,7 +1,7 @@
 ---
 title: "Milton Keynes A-Level Chemistry Tutors | Online | The Degree Gap"
 nav_title: "Chemistry"
-description: "Online A-Level Chemistry tutors for Milton Keynes families, covering the exam papers and the practical endorsement that sits beside the grade. From £37 an hour."
+description: "Practicals count in the Chemistry papers and in a separate pass result. Our Milton Keynes A-Level Chemistry tutors help with both, one-to-one online. From £37."
 layout: "level-subject"
 location: "Milton Keynes"
 level: "A-Level"
@@ -12,8 +12,8 @@ hero_lead: "There's a part of A-Level Chemistry that never shows up in a mock gr
 
 angle_eyebrow: "WHAT SITS ALONGSIDE THE GRADE"
 angle_heading: "The Practical Side of Chemistry That Mocks Don't Show"
-angle_body_1: "Your child will finish A-Level Chemistry with a grade and, separately, a practical endorsement. The endorsement is either a pass or not. Their teachers assess it across both years through the required practicals, and it's reported apart from the grade. Some university courses ask for it by name. Because it never appears in a mock result, it's easy to lose sight of. The practicals come back in the written papers too, as questions about method, errors and improvements, and that's where marks quietly go. Add mechanism arrows learnt as pictures and calculations with no working, and you've got the usual suspects."
-angle_body_2: "Our tutors treat the papers and the practicals as one piece of work. In the first lesson they mark a recent paper with your child, split the lost marks into mechanisms, calculations and practical questions, then ask which required practicals your child could write about under exam conditions. That last question often gets the longest pause. From there, each practical is taught the way the papers ask about it. In Milton Keynes the pay-off goes beyond university, too. Employers like Santander, Network Rail and Red Bull Racing run schemes that look at the sciences, and university courses that ask for Chemistry set their own conditions."
+angle_body_1: "Your child will finish A-Level Chemistry with a grade and, separately, a practical endorsement. The endorsement is either a pass or not. Their teachers assess it across both years, through practicals set by the exam board, and it's reported apart from the grade. Some university courses ask for it by name. Because it never appears in a mock result, it's easy to lose sight of. The practicals come back in the written papers too, as questions about method, errors and improvements, and that's where marks quietly go. Add mechanism arrows learnt as pictures and calculations with no working, and you've got the usual suspects."
+angle_body_2: "Our tutors treat the papers and the practicals as one piece of work. In the first lesson they mark a recent paper with your child and split the lost marks into mechanisms, calculations and practical questions. Then they ask which practicals your child could write about under exam conditions. That last question often gets the longest pause. From there, each practical is taught the way the papers ask about it. In Milton Keynes the pay-off goes beyond university, too. Santander, Network Rail and Red Bull Racing all take on apprentices here, each setting its own entry grades, just as university courses that ask for Chemistry do."
 angle_image: "/images/fluorescent-cells-under-microscope.jpg"
 angle_image_alt: "Blue and white cells glowing against a dark background under a microscope"
 angle_stat_from: "C"
@@ -28,7 +28,7 @@ schools:
   - "The Hazeley Academy"
   - "Lord Grey School"
 
-steps_heading: "Starting Chemistry Tutoring in Milton Keynes, Step by Step"
+steps_heading: "Papers and Practicals: Starting With a Milton Keynes Tutor"
 steps_lead: "The practicals run through both years, so Year 12 is the best time to start, and the first lesson can usually happen within a week."
 steps:
   - title: "Start with a phone call"
@@ -42,13 +42,13 @@ faqs:
   - q: "Can online lessons really help with Chemistry practicals?"
     a: "Yes, because the papers test the thinking, not the glassware. On the shared whiteboard your child can sketch the apparatus, fill in a results table, plot the graph and explain what went wrong and why. The hands-on part stays at school, where it belongs. Families in Bletchley, Newport Pagnell, Olney and across Milton Keynes all choose from the same Chemistry tutors, and nobody's driving anywhere after school."
   - q: "What is the practical endorsement in A-Level Chemistry?"
-    a: "It's a separate result from the grade, reported as a pass or not. Your child's teachers assess it across Year 12 and 13, based on the required practicals and the skills behind them, like following a method safely and recording results properly. It doesn't change the A-Level grade. But some university courses ask for it, so it's worth keeping an eye on, and a tutor can help your child understand what each practical is really testing."
+    a: "It's a separate result from the grade, reported as a pass or not. Your child's teachers assess it across Year 12 and 13. It's based on the practicals the course sets and the skills behind them, like following a method safely and recording results properly. It doesn't change the A-Level grade. But some university courses ask for it, so it's worth keeping an eye on. A tutor can help your child see what each practical is really testing."
   - q: "Is Year 12 too early to start?"
     a: "No, and for the practical side it's the best time. The endorsement builds up across both years, and the written papers draw on practicals from Year 12 as well as Year 13. Starting early means your child goes into Year 13 with the basics secure, rather than catching up while new content piles on. Starting in Year 13 still helps, especially before the mocks. There's just less room."
-  - q: "Are the tutors teachers, or recent graduates?"
-    a: "Both, and we match rather than assign. The tutors on our platform include qualified secondary teachers, examiners, and Russell Group graduates who sat these papers not long ago. For practical questions, someone who's taught the required practicals to a class often explains them best, because they've seen where people trip up. We'll tell you who we'd suggest for your child, and why, before you choose."
+  - q: "Will my child's Chemistry tutor be a qualified teacher?"
+    a: "They might be. Every tutor on our platform is a Russell Group graduate, and many are qualified teachers. Some are examiners too, and some graduated recently enough to remember sitting A-Level Chemistry themselves. For practical questions, a tutor who's run the practicals with a class often explains them best, because they've seen where people trip up. We'll tell you who we'd suggest for your child, and why, before you choose."
   - q: "What does A-Level Chemistry tutoring cost for a Milton Keynes family?"
-    a: "Lessons start from £37 an hour. Tutors with more experience, and qualified examiners, charge more, and you'll see the rate before anything's booked. It covers the lesson, the tutor's preparation, practice questions for the week and feedback afterwards. Nothing to join, no charge for materials and nothing to sign. You pay for the lessons your child has, and that's all."
+    a: "Lessons start from £37 an hour. Tutors with more experience, and qualified examiners, charge more, and you'll see the rate before anything's booked. It covers the lesson, the tutor's preparation, practice questions for the week and feedback afterwards. No joining fee, no charge for materials and nothing to sign. You pay for the lessons your child has, and that's all."
 # FAQ picks: G03, custom, A05, E02, C02
 
 reviews:

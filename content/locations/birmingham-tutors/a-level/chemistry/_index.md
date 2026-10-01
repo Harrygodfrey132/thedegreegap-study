@@ -1,7 +1,7 @@
 ---
 title: "Birmingham A-Level Chemistry Tutors | Online | The Degree Gap"
 nav_title: "Chemistry"
-description: "Online A-Level Chemistry tutoring for Birmingham families, with help planning organic routes and drawing mechanisms that score. Tutors from £37 an hour."
+description: "Revision cards learnt, but the organic chemistry questions still go blank? Our Birmingham A-Level Chemistry tutors help one-to-one online, from £37 an hour."
 layout: "level-subject"
 location: "Birmingham"
 level: "A-Level"
@@ -12,13 +12,13 @@ hero_lead: "Your child can recite every organic reaction on their revision cards
 
 angle_eyebrow: "WHEN THE REVISION CARDS STOP BEING ENOUGH"
 angle_heading: "From a List of Reactions to a Route Your Child Can Plan"
-angle_body_1: "Lots of Birmingham parents describe the same scene. A stack of organic notes, every reagent and condition learnt, and a mock that still comes back a grade short. The learning isn't the problem. A list copes with one-step questions. The harder ones give a starting molecule and a target, then ask for a route of two or three steps, with reagents and conditions for each. Then come the mechanisms. Each curly arrow usually carries its own mark, and it has to start from a lone pair or a bond. An arrow that's nearly right still loses it. That's technique, not effort."
-angle_body_2: "So the tutor starts by drawing a map with your child. Functional groups get linked up on a shared whiteboard: alcohol to aldehyde to carboxylic acid, halogenoalkane to alcohol or amine. They keep going until your child can find a way between any two without checking their notes. Routes are planned before a mechanism goes down, and arrows get corrected as they're drawn, not a week later. It pays off in Birmingham. Plenty of families at the King Edward VI schools, Moseley and beyond have Medicine, Pharmacy or Chemical Engineering in mind. Whether that means the University of Birmingham or further afield, each course sets its own Chemistry requirement."
+angle_body_1: "Lots of Birmingham parents describe the same scene. A stack of organic notes, every reagent and condition learnt, and a mock that still comes back a grade short. The learning isn't the problem. A list copes with one-step questions. The harder ones give a starting molecule and a target, then ask for a route of two or three steps, with reagents and conditions for each. Then come the mechanisms. Each curly arrow usually carries its own mark, and it has to start from exactly the right pair of electrons. An arrow that's nearly right still loses it. That's technique, not effort."
+angle_body_2: "First, the tutor draws a map with your child. Functional groups get linked on a shared whiteboard: alcohol to aldehyde to carboxylic acid, halogenoalkane to alcohol or amine. They keep going until your child can get between any two without checking their notes. Routes are planned before a mechanism goes down, and arrows get corrected as they're drawn, not a week later. It pays off if your child has Medicine, Pharmacy or Chemical Engineering in mind. Plenty of the Birmingham families we talk to do, from the King Edward VI schools to Moseley and beyond. Each course sets its own Chemistry requirement, at the University of Birmingham and elsewhere."
 angle_image: "/images/chemistry-lab-glassware.jpg"
 angle_image_alt: "Beakers and a conical flask on a white bench, a dropper in one"
 angle_stat_from: "C"
 angle_stat_to: "A"
-angle_stat_detail: "One parent below says their child went from Cs to As. It's the climb a year of weekly lessons aims for, once routes get planned, not memorised."
+angle_stat_detail: "C to A is the climb a year of weekly lessons works towards, once your child plans routes instead of memorising them. Nobody can promise the grade itself."
 
 schools:
   - "King Edward VI Aston School"
@@ -28,7 +28,7 @@ schools:
   - "Lordswood Girls' School"
   - "Handsworth Wood Girls' Academy"
 
-steps_heading: "From a First Call to Weekly Chemistry Lessons in Birmingham"
+steps_heading: "Three Steps to a Birmingham Tutor Who Teaches the Routes"
 steps_lead: "You'll usually have tutor profiles by the next day. Starting in Year 12 leaves months to practise routes before the papers, which suits organic chemistry far better than a late cram."
 steps:
   - title: "Book a free call"
@@ -44,9 +44,9 @@ faqs:
   - q: "Could one tutor help with both Chemistry and Biology?"
     a: "Sometimes, yes. A few tutors on our platform teach both, which can suit a child heading for Medicine, since the two subjects overlap in places like amino acids and proteins. Most tutors are strongest in one, though, and at A-Level we'd usually rather match each subject to the best person for it. Tell us on the call what your child's taking and we'll suggest whichever set-up makes more sense for them."
   - q: "Why is my child's predicted Chemistry grade lower than I expected?"
-    a: "It's something we hear from Birmingham parents a lot, and it usually comes down to the mocks. Predictions lean heavily on them, and a mock asks for something everyday lessons rarely do: pulling several reactions together against the clock. Your child might handle each reaction well in class. Under exam conditions, the same knowledge has to become a route, a mechanism and an explanation in one question. The tutor starts with that paper, and the gap usually turns out narrower than the grade suggests."
-  - q: "Are the tutors qualified teachers or university graduates?"
-    a: "Both, and we'll tell you which we'd suggest for your child and why. Some tutors on our platform are qualified teachers with years of A-Level Chemistry teaching behind them. Others graduated recently, sat these exact papers not long ago, and know the current mark schemes closely. Every one studied at a top Russell Group university and was interviewed by Harry or Joe before joining. A degree alone doesn't get anyone in. They also have to explain a mechanism clearly to a teenager who's stuck."
+    a: "It's something we hear from Birmingham parents a lot, and it usually comes down to the mocks. Predictions lean heavily on them, and a mock asks for something everyday lessons rarely do: pulling several reactions together against the clock. Your child might handle each reaction well in class. Under exam conditions, the same knowledge has to become a route, a mechanism and an explanation in one question. That's why the tutor begins with that mock, question by question, to see exactly where the marks went."
+  - q: "Are the Chemistry tutors qualified teachers?"
+    a: "Many are, and every one is a graduate of a top Russell Group university. Some graduated more recently, sat A-Level Chemistry themselves not long ago and know the current mark schemes closely. Harry or Joe interviewed each of them before they joined, and a degree alone doesn't get anyone in. They also have to explain a mechanism clearly to a teenager who's stuck. On the call, we'll tell you which tutors we'd suggest for your child, and why."
   - q: "My child insists they don't need a tutor. Should we push it?"
     a: "Gently, if at all. It's one of the most common things parents tell us, and it often comes from a teenager who's coping and hears 'tutor' as a verdict on them. Most soften once they've met the person, because an hour built around their own questions, at their own pace, feels nothing like school. That's what the free 15-minute video call is for. And if it still isn't working after a lesson or two, you can stop."
 # FAQ picks: custom, A13, A14, E02, C07

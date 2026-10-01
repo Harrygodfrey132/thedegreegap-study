@@ -12,8 +12,8 @@ hero_lead: "Your child has always been the one who gets Chemistry, until rate eq
 
 angle_eyebrow: "READING A MECHANISM FROM THE DATA"
 angle_heading: "Kinetics Asks Your Child to Work It Out, Not Look It Up"
-angle_body_1: "Rate equations are often where confident sixth formers hit their first real wall. The question gives a table of starting concentrations and starting rates, and your child has to find the order for each reactant by comparing two experiments where only one concentration changes. That's a skill, not a fact. Then comes the harder part: reading the rate equation backwards to decide which chemicals take part in the slowest step, known as the rate-determining step, and so which of two suggested mechanisms fits the evidence. It isn't something your child can memorise. It has to be practised, on data they haven't seen before."
-angle_body_2: "Lessons run on data tables, not definitions. Your child works out orders from unfamiliar numbers every week until the comparison is second nature, then tests mechanisms against a rate equation and says which one the evidence rules out, and why. Sixth formers at Peter Symonds or Kings' hoping for Medicine, Chemistry, Pharmacy or Chemical Engineering will often see offers of A*AA or AAA, and kinetics questions can decide the difference."
+angle_body_1: "Rate equations, part of kinetics (how fast reactions go), are often where confident sixth formers hit their first real wall. The question gives a table of starting concentrations and starting rates, and your child has to find the order for each reactant by comparing two experiments where only one concentration changes. That's a skill, not a fact. Then comes the harder part: reading the rate equation backwards to decide which chemicals take part in the slowest step, known as the rate-determining step, and so which of two suggested mechanisms fits the evidence. It isn't something your child can memorise. It has to be practised, on data they haven't seen before."
+angle_body_2: "Lessons run on data tables, not definitions. Your child works out orders from unfamiliar numbers every week until the comparison is second nature, then tests mechanisms against a rate equation and says which one the evidence rules out, and why. Courses like Medicine, Chemistry, Pharmacy and Chemical Engineering often make offers of A*AA or AAA. Whether your child's at Peter Symonds or another sixth form, kinetics questions can decide which side of that line they land."
 angle_image: "/images/chemistry-lab-glassware.jpg"
 angle_image_alt: "A close-up of a beaker holding a dropper, with other clean lab glassware behind it"
 angle_stat_from: "B"
@@ -28,7 +28,7 @@ schools:
   - "The Westgate School"
   - "Henry Beaufort School"
 
-steps_heading: "Three Steps to a Chemistry Tutor Your Child Gets On With"
+steps_heading: "Finding a Chemistry Tutor Your Child Gets On With"
 steps_lead: "Reasoning improves with repetition, so steady weeks matter more than long lessons. Most families are choosing between profiles the next day."
 steps:
   - title: "Your free call"
@@ -40,9 +40,9 @@ steps:
 
 faqs:
   - q: "Which part of A-Level Chemistry catches out strong Winchester sixth formers?"
-    a: "Usually the questions with nothing to recall. Rate data, an unfamiliar mechanism, a spectrum from a compound your child's never seen: each one hands over evidence and asks what it shows. Confident sixth formers often lose a surprising share of their marks here, because knowing it, their usual method, doesn't apply. The upside is that deduction responds well to regular practice, and it's exactly what the top grades reward."
+    a: "Usually the questions with nothing to recall. Rate data, an unfamiliar mechanism, a spectrum from a compound your child's never seen: each one hands over evidence and asks what it shows. If your child usually does well by knowing their stuff, this is often where a surprising share of their marks goes. The upside is that working things out responds well to regular practice, and it's exactly what the top grades reward."
   - q: "Does it matter whether my child's on AQA, OCR A or OCR B?"
-    a: "Yes, mostly for the style of question rather than the chemistry. The principles are the same on every board, so an order of reaction is an order of reaction whichever paper your child sits. But the boards arrange the course differently. OCR B, the Salters course, teaches Chemistry through a series of real-world contexts, so it can feel unfamiliar to a tutor who's only taught AQA. We check the board on the call and match to it."
+    a: "Yes, though more in how the questions are put than in the chemistry itself. An order of reaction means the same thing on every paper. What changes is the wording, and how each board arranges the course. OCR B, known as Salters, builds everything around real-world contexts, which can throw a tutor who's only ever taught AQA. So we check your child's board on the call and match to it."
   - q: "What would a typical lesson look like for my child?"
     a: "Most start with last week's questions, marked together so the tutor can see how your child was thinking. Then comes the main task, often a fresh data table: your child works out the orders, writes the rate equation and argues which mechanism fits, while the tutor asks why at each step. The hour finishes with a couple of exam questions, checked against the mark scheme."
   - q: "Who would you suggest for a Winchester sixth former aiming for an A in Chemistry?"

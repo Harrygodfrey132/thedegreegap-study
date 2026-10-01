@@ -1,7 +1,7 @@
 ---
 title: "Tunbridge Wells A-Level Chemistry Tutors | Online | The Degree Gap"
 nav_title: "Chemistry"
-description: "A 9 at GCSE, then a hard first term? Our Tunbridge Wells A-Level Chemistry tutors help your child reason through mechanisms online. From £37 an hour."
+description: "Your child sailed through GCSE Chemistry and Year 12 feels hard? Our Tunbridge Wells A-Level Chemistry tutors help them reason it out online. From £37."
 layout: "level-subject"
 location: "Tunbridge Wells"
 level: "A-Level"
@@ -12,8 +12,8 @@ hero_lead: "A 9 in GCSE Chemistry, then a first term of Year 12 that's come as a
 
 angle_eyebrow: "WHEN A GOOD MEMORY STOPS BEING ENOUGH"
 angle_heading: "From a GCSE 9 to a Tricky Year 12: What Changes"
-angle_body_1: "At GCSE, a good memory goes a long way in Chemistry. Your child could learn the tests, the equations and the trends and come out with a 9 without ever being asked why. A-Level stops rewarding that within a term. The exam will show a molecule your child's never met and expect them to work out the mechanism from the rules, not recall it. Bonding and energetics turn from facts into explanations. So the lost marks tend to cluster: curly arrows that are remembered rather than reasoned, synthesis routes with a step missing, sums with no working, and practical questions about error rather than recall."
-angle_body_2: "This can hit hardest in a selective sixth form, where your child has always been one of the ones who just knew it. So the first lesson looks at how they tackle an unfamiliar question, not at what they know. On a shared whiteboard, the tutor watches a mechanism being attempted. Are the arrows being worked out or remembered? That one answer usually sets the plan for the term. It's worth catching early, whichever sixth form your child's at, from The Skinners' School to Bennett Memorial. Medicine, Dentistry, Pharmacy and Chemical Engineering usually ask for Chemistry."
+angle_body_1: "At GCSE, a good memory goes a long way in Chemistry. Your child could learn the tests, the equations and the trends and come out with a 9 without ever asking why. A-Level stops rewarding that within a term. The exam will show a molecule your child's never met and expect them to work out the mechanism, the reaction's step-by-step path, from the rules rather than memory. Bonding and energetics turn from facts into explanations. So the lost marks tend to cluster: curly arrows that are remembered rather than reasoned, synthesis routes with a step missing, sums with no working, and practical questions about error rather than recall."
+angle_body_2: "This can hit hardest in a selective sixth form, where your child is used to simply knowing the answer. So the first lesson looks at how they tackle an unfamiliar question, not at what they know. On a shared whiteboard, the tutor watches a mechanism being attempted. Are the arrows being worked out or remembered? That one answer usually sets the plan for the term. It's worth catching early, whichever sixth form your child's at, from The Skinners' School to Bennett Memorial. Medicine, Dentistry, Pharmacy and Chemical Engineering usually ask for Chemistry."
 angle_image: "/images/chemistry-lab-glassware.jpg"
 angle_image_alt: "Clean beakers and a conical flask lined up on a bright laboratory bench"
 angle_stat_from: "C"
@@ -44,7 +44,7 @@ faqs:
   - q: "Is this something more revision will fix?"
     a: "Maybe, and a recent mock will tell you. If your child scores well on reactions they've revised and drops marks on molecules they haven't seen, that's a reasoning gap, and more of the same revision won't touch it. If marks go evenly across everything, it's more likely missing content, and revision does help there. On a report the two look identical. But they need opposite kinds of help, which is what the first lesson sorts out."
   - q: "Should we start in Year 12, or wait and see how Year 13 goes?"
-    a: "Year 12, if you can. The habits A-Level Chemistry rewards take a few months to build, and the predicted grades used for university applications usually lean on Year 12 work. A Year 13 start still helps, especially before the mocks, but there's less time and more new content arriving each week. And lessons are online, so whether you're in Tunbridge Wells, Southborough or Crowborough, they fit around the school week."
+    a: "Year 12, if you can. The habits A-Level Chemistry rewards take time to build, and the predicted grades used for university applications usually lean on Year 12 work. A Year 13 start still helps, especially before the mocks, but there's less time and more new content arriving each week. And lessons are online, so whether you're in Tunbridge Wells, Southborough or Crowborough, they fit around the school week."
   - q: "How do you pick the Chemistry tutors you suggest?"
     a: "We meet every one ourselves. Only around 3% of the people who apply get onto the platform, after a subject test, reference checks and an interview with Harry or Joe. What we listen for in Chemistry is whether a tutor will make your child do the thinking. Being shown how a mechanism works isn't the same as being able to work one out, and at A-Level it's the second that scores."
   - q: "And if my child and the tutor just don't gel?"

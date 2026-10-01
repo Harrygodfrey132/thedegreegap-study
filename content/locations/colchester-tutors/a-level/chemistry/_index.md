@@ -1,7 +1,7 @@
 ---
 title: "Colchester A-Level Chemistry Tutors | Online | The Degree Gap"
 nav_title: "Chemistry"
-description: "Colchester A-Level Chemistry tutors, one-to-one and online, for when topic tests look fine but full papers don't. A free call first, lessons from £37."
+description: "Topic tests fine, full papers a grade lower? Our Colchester A-Level Chemistry tutors work one-to-one online on the questions that mix topics. From £37."
 layout: "level-subject"
 location: "Colchester"
 level: "A-Level"
@@ -12,8 +12,8 @@ hero_lead: "Good topic tests all year, then a full mock paper that comes back a 
 
 angle_eyebrow: "WHERE THE THREE STRANDS OF CHEMISTRY MEET"
 angle_heading: "Why Full Chemistry Papers Can Go Worse Than Topic Tests"
-angle_body_1: "The topic tests aren't wrong. Your child really can do each part of the course. But Chemistry tends to be taught in three strands, physical, inorganic and organic, sometimes by different teachers, then examined as one subject. A full paper mixes them: an organic question that turns on a calculation, a trend down a group that needs bonding to explain it, a practical question that draws on everything. Nobody teaches those joins as a topic, so that's where marks drain away. Add the usual losses, mechanism arrows drawn from memory and sums done in the head, and a capable child ends up a grade short."
-angle_body_2: "So the first lesson works across the strands on purpose. On a shared whiteboard, the tutor sets questions that sit on a join and watches exactly where your child stops. That tends to find something a strand-by-strand test can't. And it matters in Colchester because of where Chemistry can lead. The University of Essex is in the town itself, Cambridge is within reach and London is a straight run into Liverpool Street. Medicine and Veterinary applications go in by 15 October, on predicted grades. The local NHS trust and engineering firms along the A12 run degree apprenticeships that look at the sciences too."
+angle_body_1: "The topic tests aren't wrong. Your child really can do each part of the course. But Chemistry tends to be taught in three strands, physical, inorganic and organic, sometimes by different teachers, then examined as one subject. A full paper mixes them: an organic question that turns on a calculation, a trend down a group that needs bonding to explain it, a practical question that draws on everything. There's rarely time in a busy lesson to practise those joins, so that's where marks drain away. Add the usual losses, mechanism arrows drawn from memory and sums done in the head, and a capable child ends up a grade short."
+angle_body_2: "So the first lesson works across the strands on purpose. On a shared whiteboard, the tutor sets questions that sit on a join and watches exactly where your child stops. That tends to find something a strand-by-strand test can't. And it matters because of where Chemistry could take your child. The University of Essex is on the doorstep, Cambridge is within reach and London is a straight run into Liverpool Street. If it's Medicine or Veterinary, the application goes in by 15 October of Year 13, on predicted grades. The local NHS trust and engineering firms along the A12 run degree apprenticeships that look at the sciences too."
 angle_image: "/images/students-in-classroom-taking-notes.jpg"
 angle_image_alt: "A student with a rucksack and green folder stands among classmates taking notes"
 angle_stat_from: "C"
@@ -29,7 +29,7 @@ schools:
   - "Stanway School"
 
 steps_heading: "Finding a Colchester A-Level Chemistry Tutor, Step by Step"
-steps_lead: "You'll usually see profiles within a day of your call. Year 12 is the kindest time to start, before Year 13 adds a new layer of topics to connect."
+steps_lead: "Within a day of your call, you'll usually see profiles. Year 12 is the kindest time to start, before Year 13 adds a new layer of topics to connect."
 steps:
   - title: "Tell us what's been happening"
     body: "It starts with a free call with Harry or Joe, the co-founders, so we can get to know you and your child. We'll ask about their sixth form, year group and exam board. If topic tests have gone fine and full papers haven't, mention it. That one detail shapes the first month of lessons."
@@ -44,7 +44,7 @@ faqs:
   - q: "How do I know if my child needs a tutor or just more revision?"
     a: "Put a topic test next to a recent full paper. If the topic tests are strong and the full paper isn't, more revision of the same topics won't change much, because the knowledge is already there. What's missing is practice at combining it, and a tutor helps with that fastest. If both are weak, there's content to rebuild first, which takes longer. And if both are strong, your child may just need past papers. We'd tell you."
   - q: "How soon might we see a change?"
-    a: "It depends on what's causing the gap. When the knowledge is there and the joins are the problem, the first signs often show up in the working within a few weeks. Answers get fuller, and there are fewer blank spaces on the long questions. A content gap from Year 12 takes longer to rebuild. Marks tend to follow the working, not lead it. We won't put a number on it, but the earlier your child starts, the more room there is."
+    a: "It depends on what's causing the gap. When the knowledge is there and the joins are the problem, the change shows up in the working first. Answers get fuller, and there are fewer blank spaces on the long questions. Marks tend to follow the working, not lead it. A content gap from Year 12 takes longer to rebuild. We won't put a number on it, but the earlier your child starts, the more room there is."
   - q: "How do you check the tutors are good enough?"
     a: "Harry or Joe interviews every tutor personally, and only around 3% of the people who apply make it onto the platform. We're looking at three things: subject knowledge, how clearly they explain, and how they work with young people. All of them studied at top Russell Group universities, and most have at least two years of one-to-one tutoring behind them. For this kind of Chemistry gap, we also look for tutors who move easily between the strands."
   - q: "How quickly could my child start Chemistry lessons?"

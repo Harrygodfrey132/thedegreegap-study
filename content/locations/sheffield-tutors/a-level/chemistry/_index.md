@@ -1,7 +1,7 @@
 ---
 title: "Sheffield A-Level Chemistry Tutors | Online | The Degree Gap"
 nav_title: "Chemistry"
-description: "Sheffield A-Level Chemistry tutors, one-to-one and online, for mechanisms, synthesis and calculations when Medicine or Pharmacy is the aim. From £37 an hour."
+description: "Is Chemistry the grade your child needs for Medicine or Pharmacy? Our Sheffield A-Level Chemistry tutors work on mechanisms and calculations online. From £37."
 layout: "level-subject"
 location: "Sheffield"
 level: "A-Level"
@@ -29,7 +29,7 @@ schools:
   - "King Ecgbert School"
 
 steps_heading: "Three Steps to Finding Your Child a Sheffield Chemistry Tutor"
-steps_lead: "Book a free call and you'll usually have profiles the next day. Year 12 gives your child the most room, because this year's work feeds the predicted grade."
+steps_lead: "Book a free call and you'll usually have profiles the next day. If your child's been quietly avoiding one part of Chemistry, finding it early is most of the work."
 steps:
   - title: "Talk to Harry or Joe"
     body: "A free call with one of us, Harry or Joe, to get to know you and your child. We'll ask about their sixth form, their exam board and how Chemistry's going. If you suspect it's organic, or the calculations, say so. If all you know is that it got hard this year, that's normal. The first lesson will pin it down."
@@ -40,15 +40,15 @@ steps:
 
 faqs:
   - q: "We live out towards Chesterfield. Is it harder to find a Chemistry tutor?"
-    a: "Not at all, because every lesson is online. Families in Dronfield, Chesterfield, Rotherham and all over Sheffield choose from the same tutors, which matters more at A-Level than at GCSE. Far fewer Chemistry tutors know each exam board inside out, so being online means we can choose one for your child's board rather than their postcode. Lessons use Lessonspace, where your child and the tutor draw on the same whiteboard, and Chemistry suits it well. A mechanism stays on screen, and so does every line of working."
+    a: "Not at all, because every lesson is online. Families in Dronfield, Chesterfield, Rotherham and all over Sheffield choose from the same tutors. That matters more at A-Level, where fewer tutors know each Chemistry exam board inside out. Being online means we can pick one for your child's board rather than your postcode. Lessons use Lessonspace, where your child and the tutor draw on the same whiteboard, and Chemistry suits it well. A mechanism stays on screen, and so does every line of working."
   - q: "What does my child actually do in a Chemistry lesson?"
     a: "Most lessons last an hour and fall into three rough parts. First, your child and the tutor go through last week's questions, because mistakes show up faster in their own writing than in a chat. Next comes the topic losing the most marks, with your child holding the pen rather than just listening. The lesson ends with exam questions on that topic, checked against the real mark scheme so your child can see where every mark comes from."
   - q: "Is one hour a week really enough for A-Level Chemistry?"
-    a: "For most of the Sheffield families we work with, yes, as long as there's some practice in between. Chemistry rewards steady contact, because each week's mistakes need looking at while your child still remembers what they were thinking. Some Year 13s move up to 90 minutes after Christmas, when full papers take over, and a few add a second lesson for the eight weeks before the exams. What rarely works is saving everything for the fortnight before a paper."
+    a: "For most families, yes, as long as there's some practice in between. Chemistry rewards steady contact, because each week's mistakes need looking at while your child still remembers what they were thinking. Some Year 13s move up to 90 minutes after Christmas, when past papers take over, and a few add a second lesson for the eight weeks before the exams. What rarely works is saving everything for the fortnight before a paper."
   - q: "How do you choose the tutors?"
-    a: "One of us, Harry or Joe, interviews every tutor, and only around 3% of applicants make it onto the platform. There's a written application, a check on subject knowledge, then an interview where they explain something tricky to someone who's stuck. We take up references before anyone is matched. With Chemistry, we listen hard for one thing: can they teach a mechanism as rules about where electrons move, rather than a picture to learn? The exam always uses a molecule your child hasn't met."
+    a: "One of us, Harry or Joe, interviews every tutor, and only around 3% of applicants make it onto the platform. There's a written application, a check on subject knowledge, then an interview where they explain something tricky to someone who's stuck. We take up references before anyone is matched. With Chemistry, we listen hard for one thing: can they teach a mechanism as rules about where electrons move, rather than a picture to learn? The exam will often use a molecule your child hasn't met."
   - q: "Can Chemistry lessons keep going over half-term and Easter?"
-    a: "Yes, and holidays are often when the most focused work gets done, because there's no school day competing for your child's time. Chemistry is taught in chunks, so a run of four or five lessons on one of them tends to go further than the same hours spread thinly across a term. Organic synthesis works well like that, and so do equilibria. It's all online, so lessons can fit around family plans, and pausing for a week away is no trouble."
+    a: "Yes, and holidays are often when the most focused work gets done, because there's no school day competing for your child's time. Chemistry is taught in chunks, so a short run of lessons on one of them tends to go further than the same hours spread thinly across a term. Organic synthesis works well like that, and so do equilibria. It's all online, so lessons can fit around family plans, and pausing for a week away is no trouble."
 # FAQ picks: G03, A08, A15, E01, C05
 
 reviews:

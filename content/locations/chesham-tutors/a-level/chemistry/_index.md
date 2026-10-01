@@ -13,7 +13,7 @@ hero_lead: "Line by line, your child's working looks right, and the answer's sti
 angle_eyebrow: "RIGHT METHOD, WRONG POWER OF TEN"
 angle_heading: "Why the Ideal Gas Equation Trips Up Careful Chesham Sixth Formers"
 angle_body_1: "If your child keeps losing marks on calculations they clearly understand, pV = nRT is a good place to look. It only works in the right units. Pressure goes in pascals, so kilopascals get multiplied by a thousand. Volume goes in cubic metres, which means a volume in cubic centimetres has to be divided by a million. That's the slip we see most. Temperature goes in kelvin. Miss one and the chemistry's fine but the number's nonsense. Then there's the version that asks for a molar mass, which means bringing in moles equals mass over molar mass and rearranging twice."
-angle_body_2: "The fix is a habit, not a formula. Before a number goes anywhere near the equation, the tutor has your child write each quantity out with its unit and convert it on the page. Every time. Even when your child's sure. It feels slow at first, then it's automatic, and the rearranging gets practised on its own. Think about where your child's heading, too. Medicine, Chemistry and engineering courses set their own grade requirements, so if your child's at Chesham Grammar, Dr Challoner's or The Amersham School with one of those in mind, calculation marks add up."
+angle_body_2: "The fix is a habit, not a formula. Before a number goes anywhere near the equation, the tutor has your child write each quantity out with its unit and convert it on the page. Every time. Even when your child's sure. It feels slow at first, then it's automatic, and the rearranging gets practised on its own. Think about where your child's heading, too. Medicine, Chemistry and engineering courses all set their own grade requirements. So if your child's at Chesham Grammar, Dr Challoner's or The Amersham School with one of those in mind, calculation marks add up."
 angle_image: "/images/chemistry-lab-glassware.jpg"
 angle_image_alt: "Glass beakers and a conical flask on a white lab bench, with a dropper resting in one beaker"
 angle_stat_from: "C"
@@ -40,7 +40,7 @@ steps:
 
 faqs:
   - q: "We're in Chesham. Will we find a tutor who knows my child's Chemistry exam board?"
-    a: "Yes. Every lesson's online, so we can pick from tutors all over the country, not just whoever lives nearby. That matters more at A-Level, because fewer tutors know each Chemistry specification well, whether it's AQA, OCR A or OCR B. We'll check your child's board on the call and only suggest tutors who teach it. If you're not sure which board it is, it's printed on the front of any past paper your child's been set."
+    a: "Yes. Every lesson's online, so we can pick from tutors all over the country, not just whoever lives nearby. That matters more at A-Level, because fewer tutors know each board's Chemistry course really well, whether it's AQA, OCR A or OCR B. We'll check your child's board on the call and only suggest tutors who teach it. If you're not sure which board it is, it's printed on the front of any past paper your child's been set."
   - q: "How can I tell if it's the units or the chemistry that's costing my child marks?"
     a: "Look at the working rather than the score. If the method's right and the answer's out by ten, a thousand or a million, it's units, and that's quick to sort once someone spots it. If the working goes wrong from the first line, it's understanding, which takes longer. And if the sums are fine but the written explanations lose marks, it's precision. Same grade, three different fixes."
   - q: "What should my child be doing between lessons?"
@@ -48,7 +48,7 @@ faqs:
   - q: "How do you choose your Chemistry tutors?"
     a: "Harry or Joe interviews every tutor before they join, and only around 3% of applicants are accepted. Alongside a subject knowledge test and references, that interview is about how clearly they explain things under pressure. All of them studied at top Russell Group universities, and many are qualified teachers. When we're choosing Chemistry tutors for Chesham families, we want someone who follows your child's working line by line, not just the final answer."
   - q: "Could we do a short block of lessons rather than a whole year?"
-    a: "Yes, and this is one of the cases where a block can work well. If your child understands the chemistry and loses marks on units and rearranging, six to eight weekly lessons on calculations is often enough to change the habit. The other option is one lesson a week through Year 12, adding a second in the eight weeks before mocks. We'll say on the call which we think suits your child."
+    a: "Yes, and this is one of the cases where a block can work well. If your child understands the chemistry and loses marks on units and rearranging, that's what a short run of six to eight weekly lessons on calculations is for. It costs far less than a year of lessons. The other option is one lesson a week through Year 12, adding a second in the eight weeks before mocks. We'll say on the call which we think suits your child."
 # FAQ picks: G03, A06, A09, E01, C04
 
 reviews:
