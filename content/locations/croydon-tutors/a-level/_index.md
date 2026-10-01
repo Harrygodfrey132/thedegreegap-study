@@ -1,41 +1,41 @@
 ---
 title: "Croydon A-Level Tuition | From £37/hr | The Degree Gap"
-description: "Croydon A-Level tutors for the predicted grades that universities and the town's apprenticeship schemes both read. One-to-one, online over Lessonspace, from £37/hr."
+description: "Employers in the town centre and universities up the line both read your child's predicted grades. Croydon A-Level tutors work to the earlier date. From £37."
 layout: "subject"
 location: "Croydon"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level tutors working with Croydon families on the predicted grades employers read too"
+hero_heading_line1: "Online Croydon A-Level Tutors for the Predicted Grades Universities and Employers Both Read"
 hero_heading_line2: ""
-hero_lead: "In Croydon a Year 12 grade gets read twice: once by UCAS, and again by the apprenticeship schemes in the town centre, whose deadlines often land first. Our Croydon A-Level tutors work one-to-one online over Lessonspace towards whichever reader your child needs."
+hero_lead: "University, or one of the apprenticeship schemes in Croydon town centre? Both will read your child's Year 12 grades, and the apprenticeship deadlines often come first. Our Croydon A-Level tutors work one-to-one online towards whichever date matters most."
 
 grade_from: "C"
 grade_to: "A"
-grade_stat: "A real move from Cs to As at A-Level, with help on university choices and the application alongside the subject work."
+grade_stat: "Their child's Cs became As, one parent writes, with help on university choices and the application as well."
 
 first_lesson_eyebrow: "TWO READERS, ONE PREDICTED GRADE"
 first_lesson_heading: "How a Croydon A-Level Tutor Plans Around Two Deadlines"
-first_lesson_context: "A Croydon Year 12 can walk from a sixth form to HMRC's regional centre, the Home Office and the hospital in a few minutes, and all three run apprenticeship schemes that read predicted grades before UCAS does. Universities in central London are fifteen minutes up the line and read the same grades a few months later. So the first session settles which reader matters for your child, and works back from that date rather than from the exam."
+first_lesson_context: "Maybe your child's eyeing a scheme at Croydon University Hospital, or at HMRC or the Home Office, which both have big offices in the town centre. All three run apprenticeships whose deadlines don't always wait for UCAS, while the universities fifteen minutes up the line in central London read the same predicted grades a few months later. So the first lesson works out which date matters most for your child, and plans back from there rather than from the exam."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Cs to As at A-Level"
 
 tutor_strip_heading: "Croydon A-Level tutors who work to the earlier deadline"
-tutor_strip_body: "Plenty of Croydon students change building at sixteen, for Coulsdon, a Harris sixth form or St Joseph's, so we match on the A-Level specification and the module order, not on the old school. Each tutor clears a founder-led interview around 3% of applicants pass. Browse the profiles, or let us match your child."
+tutor_strip_body: "If your child's moving at sixteen, to Coulsdon, a Harris sixth form or St Joseph's, we match on what the new sixth form teaches. Harry or Joe has interviewed every tutor, and only about 3% of applicants make it. Browse, or leave the match to us."
 
-pathways_heading: "The Post-18 Map From a Croydon Sixth Form"
-pathways_lead: "Three routes, and two of them start within a few minutes of East Croydon station."
+pathways_heading: "After a Croydon Sixth Form: The Three Main Routes"
+pathways_lead: "A couple of these start within a few minutes of East Croydon station."
 pathways:
   - title: "Universities"
     body: >
-      King's College London, UCL and Queen Mary are fifteen minutes up the line, and London South Bank University now teaches nursing and business degrees from Electric House on Wellesley Road, a short walk from East Croydon. Conditional offers rest on the predicted grades made during Year 12, months before a final paper is sat.
+      King's College London, UCL and Queen Mary are an easy train ride up the line, and London South Bank University now teaches nursing and business degrees at Electric House on Wellesley Road, a short walk from East Croydon. Conditional offers rest on predicted grades built from Year 12 work, months before your child sits a final paper.
   - title: "Degree Apprenticeships"
     body: >
-      HMRC's Croydon regional centre at Ruskin Square runs a Level 4 policy apprenticeship, the Metropolitan Police takes constables through a three-year degree apprenticeship, and Croydon University Hospital runs schemes up to Level 7 including nursing. Each publishes its own entry requirements, with the Met asking for two A-Levels or an equivalent Level 3 plus GCSE English, and their application windows tend to run on their own calendar rather than UCAS's.
+      HMRC's regional centre at Ruskin Square runs a Level 4 policy apprenticeship, the Metropolitan Police has trained constables through a three-year degree apprenticeship, and Croydon University Hospital runs schemes up to master's level (Level 7), nursing included. Each sets its own entry requirements (the Met has asked for two A-Levels or an equivalent Level 3, plus GCSE English), and their application windows follow their own calendar, not UCAS's.
   - title: "Career Pathways"
     body: >
-      London Gatwick's engineering apprenticeships run from Level 3 up to a Level 4 HNC over four years, and Superdrug's head office in the town centre runs its Rise up programme across head office, stores and distribution. The Home Office recruits Level 3 operational delivery apprentices in Croydon, and Croydon College's University Centre offers higher-level courses for students who want to study without leaving the borough.
+      London Gatwick's engineering apprenticeships run from Level 3 up to a Level 4 HNC over four years, and Superdrug, whose head office is in the town centre, runs its Rise up programme across its offices, stores and distribution. The Home Office takes on Level 3 operational delivery apprentices in Croydon, and Croydon College's University Centre offers higher-level courses if your child would rather study without leaving the borough.
 
 reviews:
   - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
@@ -54,13 +54,13 @@ reviews:
   - "Alex|University Student|Can’t recommend The Degree Gap highly enough. Quick and helpful responses from Harry. He immediately matched me with a very competent tutor, who was a massive help in helping me exceed my target grade and achieve a first class degree at university."
 
 faq_1_q: "The plan is an apprenticeship at HMRC or the Met, not university. What changes?"
-faq_1_a: "The deadline, mostly. HMRC's Croydon centre and the Met both publish their own entry requirements, and the higher-level schemes expect A-Levels or an equivalent Level 3 before they read anything else, so the predicted grade still does the work. What changes is when. Those application windows open on the employer's calendar, often earlier than UCAS, and most add a written stage and a test of some kind. So the tutoring plan runs to the earlier date, and we'll say on the call whether the current grades are in range or whether a year in a sixth form's own route makes more sense first."
+faq_1_a: "Mostly the deadline. HMRC's Croydon centre and the Met each publish their own entry requirements, and the higher-level schemes want A-Levels or an equivalent Level 3 first, so the predicted grade still matters. Those application windows open on the employer's calendar, often before UCAS, and most add a written stage and some kind of test. So the tutor plans to the earlier date. On the call, we'll tell you whether your child's current grades look in range, and what we'd suggest if they don't."
 faq_2_q: "The first Year 12 test isn't until November. Should we wait for it?"
-faq_2_a: "No, because that test is the first number a teacher will use when the prediction gets written, and it's a lot easier to influence than to argue with afterwards. September is when the GCSE-to-A-Level jump shows: the questions stop announcing which method they want, the essays stop rewarding summary, and a student who coasted through Year 11 finds the habit has stopped working. Six or eight weekly hours before that first test can change what it says. A start after it still helps. It just means the first prediction has already been written once."
-faq_3_q: "She moved to Coulsdon from a school on a different board. Does that matter at A-Level?"
-faq_3_a: "Less than at GCSE for the A-Level itself, and more than you'd think for the first term. The A-Level specification is whatever the college teaches, and we match the tutor to that. But the foundations came from the old school's GCSE course, and boards cover the higher-tier content in different orders and to different depths. So a student who changed building at sixteen can be strong in one Year 12 topic and missing the step under the next one. The first session traces those steps back to the GCSE course, then works forward on the college's spec."
-faq_4_q: "Is A-Level tutoring priced differently from GCSE?"
-faq_4_a: "The starting point is the same, £37 an hour, and the rate rises with the tutor's experience rather than with the level. You see the exact figure before anything is booked. The one thing that does change is the length of the session: most A-Level work runs at an hour a week, but content-heavy Year 13 subjects, Maths and the Sciences in particular, sometimes go to ninety minutes so a full past paper can be worked and marked in one sitting. The rate covers the live session, the tutor's preparation, the practice set between lessons and a short note back to you. No joining fee, no contract."
+faq_2_a: "We wouldn't, because that test is the first number a teacher will look at when the prediction gets written, and it's far easier to shape than to argue with later. September's when the GCSE-to-A-Level jump shows. Questions no longer hint at the method, essays that just retell stop scoring, and a teenager who coasted through Year 11 finds coasting doesn't work any more. Starting now means the tutor can work on those habits before the test, not after. Starting later still helps. It just means that first number's already on record."
+faq_3_q: "My daughter moved to Coulsdon from a school on a different board. Does that matter at A-Level?"
+faq_3_a: "A little, mostly in the first term. For the A-Level itself, what counts is the course Coulsdon teaches, and we match the tutor to that. But your daughter's GCSE foundations came from a different school, and every school spends its class time a bit differently. So after a move at sixteen, she can be strong in one Year 12 topic and shaky on the GCSE work the next one builds on. The first lesson finds those gaps, then works forward on the college's course."
+faq_4_q: "Does A-Level tutoring cost more than GCSE?"
+faq_4_a: "Not in itself. It starts at the same £37 an hour, and the rate goes up with the tutor's experience, not the level. You'll see the exact figure before anything's booked. What can change is the length of the lesson. Most A-Level work runs at an hour a week. But content-heavy Year 13 subjects, Maths and the Sciences in particular, sometimes stretch to ninety minutes, so a longer section of a past paper can be done and marked in one go. The rate covers the lesson, the tutor's preparation, practice between lessons and a short note to you afterwards. No joining fee, no contract."
 
 sitemap:
   priority: 0.7

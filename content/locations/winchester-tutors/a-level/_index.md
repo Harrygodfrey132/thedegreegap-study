@@ -1,42 +1,42 @@
 ---
 title: "Winchester A-Level Tutors | Year 12 and Year 13 | The Degree Gap"
-description: "Winchester A-Level tutoring matched by specification and module, putting back the individual feedback a large college cannot give. From £37 an hour."
+description: "Is anyone reading your child's essays line by line? Winchester A-Level tutors give one-to-one online feedback on the written work that moves a grade. From £37."
 layout: "subject"
 location: "Winchester"
 level: "A-Level"
 
-hero_heading_line1: "Online Winchester A-Level Tutors for the Feedback a Big College Cannot Give"
+hero_heading_line1: "Online Winchester A-Level Tutors for the Feedback a Big College Can't Always Give"
 hero_heading_line2: ""
-hero_lead: "Moving from a school year group into a college of thousands changes how much individual attention a student gets, overnight. Our Winchester A-Level tutors restore the one thing lost in that move, which is somebody reading what your child actually wrote."
+hero_lead: "Your child has gone from a school year group to a college of thousands, and the one-to-one attention can drop away almost overnight. Our Winchester A-Level tutors give back the part that's hardest to find: someone reading, line by line, what your child actually wrote."
 
 grade_from: "C"
 grade_to: "A"
-grade_stat: "The movement a sustained year of weekly one-to-one A-Level work is built around."
+grade_stat: "One parent's child went from Cs to As, the kind of move a year of weekly lessons aims at."
 
 first_lesson_eyebrow: "WHAT CHANGES AFTER YEAR 11"
-first_lesson_heading: "Why the Marking Thins Out Exactly When It Matters Most"
-first_lesson_context: "A large college offers subject choice a small sixth form cannot and teachers who specialise properly. What it cannot easily do is give one student line-by-line feedback on a full essay or worked solution every week. That is arithmetic rather than a criticism. It also happens to be the exact thing that moves an A-Level grade, because the distance between a C and an A is usually in how the answer is built rather than in what the student knows. So sessions here are deliberately narrow: write, mark against the real scheme, rewrite."
+first_lesson_heading: "When the Marking Thins Out: What a Winchester A-Level Tutor Adds"
+first_lesson_context: "If your child's at Peter Symonds, they've got a huge choice of subjects and teachers who know those subjects inside out. But no college that size can go through every essay line by line each week, simply because of the numbers, and how an answer's built is usually what separates a C from an A. So an A-Level tutor keeps lessons narrow: your child writes, the tutor marks it against the real mark scheme, and back it goes for a rewrite."
 
 first_lesson_quote: "The Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and applications."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "A-Level"
 
-tutor_strip_heading: "Winchester A-Level tutors matched on board, module and paper"
-tutor_strip_body: "Two students taking the same A-Level can sit different option papers, so subject alone is not enough to match on. We ask for the board and the option papers before shortlisting, not after. The tutors here hold degrees in what they teach and met these papers recently enough for the detail to be fresh. Browse profiles, or let us match your child."
+tutor_strip_heading: "Winchester A-Level tutors who know your child's board and topics"
+tutor_strip_body: "Two teenagers taking the same A-Level can sit quite different papers, depending on the exam board and the topics their school picked. We ask about both before shortlisting anyone. Every tutor we'd suggest has a degree in what they teach. Have a browse, or we'll pick for you."
 
-pathways_heading: "What Comes After A-Levels in Winchester"
-pathways_lead: "Three routes, and what each turns on."
+pathways_heading: "After A-Levels in Winchester: Three Ways Forward"
+pathways_lead: "Here's what each of the three usually hinges on."
 pathways:
   - title: "Universities"
     body: >
-      Southampton, Bristol, Bath, Exeter, Surrey and the London universities are all within reach, with the University of Winchester keeping a share of students in the city. Offers hang on the prediction long before the real grade exists, and Medicine, Dentistry, Veterinary and Oxbridge close on 15 October rather than in January.
+      Southampton, Bristol, Bath, Exeter, Surrey and the London universities are all within reach, and the University of Winchester keeps some local teenagers in the city. Offers depend on the predicted grade long before the real one exists, and Medicine, Dentistry, Veterinary and Oxbridge applications close on 15 October, not in January.
   - title: "Degree Apprenticeships"
     body: >
-      Hampshire County Council, the NHS trust and the professional services, defence and technology employers along the M3 all run higher and degree apprenticeship routes. Each publishes its own entry requirements, they vary by scheme and by year, and Maths carries the most weight on technical entries.
+      Hampshire County Council, the local NHS trust and plenty of professional services, defence and technology employers along the M3 run higher and degree apprenticeships. Every scheme sets its own entry requirements, which change from year to year, and on the technical ones Maths tends to count most.
   - title: "Career Pathways"
     body: >
-      Some students go straight into work locally in professional services, heritage and healthcare. Gap years used to strengthen a reapplication also feature, most often where a Medicine or Veterinary application fell a grade short first time round.
+      Straight into work is another option, with local jobs in professional services, heritage and healthcare. And if a Medicine or Veterinary application falls a grade short, some families plan a gap year and a second try.
 
 reviews:
   - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
@@ -53,13 +53,13 @@ reviews:
   - "Theresa|Parent|Harry and Joe were extremely helpful with a wealth of knowledge and contacts that helped my son to follow the right path."
 
 faq_1_q: "My daughter got a 9 in GCSE Maths and is struggling in Year 12. What happened?"
-faq_1_a: "Nothing unusual, and it is the most common call we take in the autumn term. A-Level Maths runs quicker, assumes independent practice on a scale GCSE never asked for, and builds questions where an early slip loses everything after it. A tutor works out which of pure, mechanics or statistics is leaking marks and drills that rather than revisiting the syllabus from the start. Most students are steadier by the end of Year 12."
-faq_2_q: "When should we start, Year 12 or Year 13?"
-faq_2_a: "Year 12, in most cases. The predicted grade that goes to UCAS is built from Year 12 work and the Year 13 autumn mocks, so waiting to see how Year 13 goes usually means waiting until the evidence behind the prediction is already written. There is no appeal against a prediction, because it is a professional judgement rather than a result. The window that exists is before the reference is submitted."
-faq_3_q: "Can you help with Oxbridge or Medicine applications?"
-faq_3_a: "Yes, and the timetable is the thing families most often get wrong. For Medicine, Dentistry, Veterinary and the Oxbridge colleges the UCAS deadline is 15 October, which means the personal statement, admissions tests and interview preparation all sit in the summer before Year 13 rather than in the autumn. Tell us on the consultation call which route your child is aiming at and we will match someone who has been through it."
-faq_4_q: "What does A-Level tutoring cost in Winchester?"
-faq_4_a: "From £37 an hour, agreed before anything is booked. Experience sets the rate: a recent graduate teaching their own subject starts near the bottom, a qualified teacher or examiner higher. That hour covers the teaching, the preparation behind it, the papers set and the feedback returned. There is no joining fee, nothing charged for materials, and no contract to sign. As an agency we retain a margin on the rate."
+faq_1_a: "Nothing unusual, and it's one of the calls we get most in the autumn term. A-Level Maths moves faster, expects far more practice on her own than GCSE ever did, and builds long questions where one early slip can drag down the marks after it. So a tutor works out whether it's pure maths, mechanics or statistics that's costing your daughter the most marks, and works on that rather than starting the course again."
+faq_2_q: "Can we leave it until Year 13 and see how things go?"
+faq_2_a: "You can, but Year 12 is usually the better bet. The predicted grade that goes to UCAS is built from Year 12 work and early Year 13. Wait to see how Year 13 goes, and most of the evidence behind that prediction is already written. And it's the teachers' professional judgement, not an exam result, so there's no formal appeal against it. The time to help is before the school sends its reference."
+faq_3_q: "Can you help if my child's applying for Oxbridge or Medicine?"
+faq_3_a: "Yes, and the timing is what catches most families out. For Medicine, Dentistry, Veterinary and Oxford or Cambridge, the UCAS deadline is 15 October. So work on the personal statement and any admissions test really starts in the summer before Year 13, with interview practice following in the autumn. Tell us on the consultation call which route your child's aiming for, and we'll match someone who's been through it."
+faq_4_q: "What will A-Level lessons cost, and what's included?"
+faq_4_a: "£37 an hour is where it starts, and the rate's settled with you before any lesson is booked. It depends on experience, so a recent graduate teaching their own subject sits close to £37, and a qualified teacher or examiner costs more. The hour covers the lesson, the tutor's preparation, any papers set and the feedback afterwards. No joining fee, nothing extra for materials, and nothing to sign. We're an agency, so part of the rate is our margin."
 
 sitemap:
   priority: 0.7
