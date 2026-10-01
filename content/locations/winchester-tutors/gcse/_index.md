@@ -1,42 +1,42 @@
 ---
 title: "Winchester GCSE Tutors | Peter Symonds Entry | The Degree Gap"
-description: "Winchester GCSE tutoring for Year 10 and Year 11, matched on exam board and worked back from the course requirements Peter Symonds publishes."
+description: "Mocks a grade under what Peter Symonds asks for? Our Winchester GCSE tutors find the questions costing your child marks, one-to-one online, from £37 an hour."
 layout: "subject"
 location: "Winchester"
 level: "GCSE"
 
-hero_heading_line1: "Online Winchester GCSE Tutors Working Back From a Published Number"
+hero_heading_line1: "Online Winchester GCSE Tutors for a Predicted Grade Just Short of the Course"
 hero_heading_line2: ""
-hero_lead: "Most of the city's Year 11s are heading to the same college, and its course requirements are specific rather than vague. Our Winchester GCSE tutors start from the grade a particular course asks for and work back to the questions currently costing it."
+hero_lead: "Sooner or later most Winchester parents end up reading the same college's course list, where each course spells out the grade it wants. Our Winchester GCSE tutors start from that number and work back to the questions your child is losing marks on."
 
 grade_from: "5"
 grade_to: "7"
-grade_stat: "The two-band move a term of weekly one-to-one work is generally built around."
+grade_stat: "Omo's son went from a 5 to a 6/7 in GCSE English, six months after starting lessons."
 
 first_lesson_eyebrow: "INSIDE A WINCHESTER YEAR 10 SESSION"
-first_lesson_heading: "When the Requirement Is a Number, the Job Gets Narrow"
-first_lesson_context: "Winchester families tend to start this conversation in Year 10 rather than Year 11, and the reason is that the arithmetic is already visible. A course wants a particular grade in a particular subject, the last set of marks came back a band under, and the gap is countable. That is a much better position than it feels, because a countable gap is a fixable one. The first session goes through a recent paper to find which question types are producing the shortfall, since it is almost never spread evenly across the subject."
+first_lesson_heading: "Why a Winchester GCSE Tutor Starts With the Number on the Course List"
+first_lesson_context: "Lots of Winchester families get in touch in Year 10, when the last marks come back a grade under what the course wants. That feels worse than it is, because at least you know how far there is to go. The first lesson goes through a recent paper to find which kinds of question are costing the marks, since it's almost never spread evenly across a subject."
 
 first_lesson_quote: "I was really pleased to discover The Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start."
 first_lesson_quote_name: "Philippa"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "GCSE"
 
-tutor_strip_heading: "Winchester GCSE tutors matched to the specification the school teaches"
-tutor_strip_body: "Hampshire schools sit across AQA, Edexcel and OCR, and the boards diverge in how the longer answers are marked rather than in the content. We confirm the board before suggesting anyone. Around three in every hundred applicants make it onto the platform, and Harry and Joe interview each one personally. Browse profiles, or let us match your child."
+tutor_strip_heading: "Winchester GCSE tutors who know your child's exact course"
+tutor_strip_body: "Hampshire schools use AQA, Edexcel and OCR, and the boards don't phrase or mark longer answers the same way, so we'll ask which one your child is sitting. Around 3% of applicants make it onto the platform, and Harry and Joe interview each one. Browse, or let us match."
 
 pathways_heading: "Where Winchester Year 11s Go Next"
-pathways_lead: "Three routes, and what each publishes."
+pathways_lead: "Three ways on, each with its own grades."
 pathways:
   - title: "Sixth Forms and College"
     body: >
-      Peter Symonds College takes the large majority of the city's Year 11 cohort and sets its own minimum requirements per A-Level course, with the more popular subjects asking for more in that subject itself. Kings' Winchester, Henry Beaufort and The Westgate run sixth form provision alongside it. Requirements move between years, so use the current admissions page.
+      Like most Hampshire state schools, Kings', Henry Beaufort and The Westgate finish at 16, and most of the city's Year 11s move on to Peter Symonds College. It sets minimum grades course by course, with the busier A-Levels asking for more in the subject itself, and the figures change between years.
   - title: "Apprenticeships"
     body: >
-      Hampshire County Council, the NHS trust at the Royal Hampshire County Hospital and employers across the M3 corridor run apprenticeship routes, with Southampton and Basingstoke within reach. Published minimum grades in Maths and English are the standard gate, and clinical routes want the Sciences alongside.
+      Hampshire County Council, the NHS trust at the Royal Hampshire County Hospital and employers up and down the M3 all take on apprentices, and Southampton and Basingstoke are within reach too. Expect them to name a minimum in Maths and English, with Science often on the list for the clinical roles.
   - title: "Further Education"
     body: >
-      Peter Symonds and the Hampshire colleges cover Level 3 vocational and applied routes alongside A-Levels. GCSE Maths and English resits run in parallel, and students who have not reached a grade 4 in either are generally expected to keep studying them post-16.
+      Alongside A-Levels, Peter Symonds and the other Hampshire colleges run practical, career-based courses at the same level. If your child hasn't got a 4 in Maths or English by sixteen, they'll usually keep studying it at college, with a resit to aim for.
 
 reviews:
   - "Philippa|Parent of GCSE Student|I was really pleased to discover The Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and great flexibility on timings. Highly recommend."
@@ -53,13 +53,13 @@ reviews:
   - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
 
 faq_1_q: "What grades does Peter Symonds actually ask for?"
-faq_1_a: "It publishes requirements per course rather than one figure across the board, and the more oversubscribed A-Levels ask for more in that subject in particular. They are revised between years too. So the reliable version is the current admissions page for the exact course your child wants, not what a friend's older child needed two intakes ago. From one band under, closing it is usually twelve to sixteen weeks of focused work."
-faq_2_q: "We are in Year 10. Is that too early?"
-faq_2_a: "Year 10 is the better year when the aim is a specific band. There is still time for the work that compounds, sessions are calmer and more about understanding than exam management, and it is when the higher and foundation tier decision gets made in Maths and the Sciences. Having someone look properly at a paper before that decision is worth an hour on its own, and if a diagnostic says your child does not need weekly tutoring we will say so."
+faq_1_a: "It depends which course your child's after. Peter Symonds sets a requirement for each one rather than a single figure, and the more popular A-Levels ask for more in that subject. The numbers get revised between years, too. So go by the current admissions page for the exact course, not what a friend's older child needed two years ago. If your child's a grade under, the lessons focus on the kinds of question losing the most marks in that subject."
+faq_2_q: "We're only in Year 10. Are we starting too soon?"
+faq_2_a: "Not if there's a particular grade to aim for. Year 10 is the better year for it. There's time for the slow work that builds on itself, and lessons can be calmer, more about understanding than exam nerves. It's also when schools start reviewing which tier your child is entered for in Maths and Science, higher or foundation, so a proper look at a paper now is worth having. And if the first lesson shows weekly tutoring isn't needed, we'll tell you."
 faq_3_q: "How do I tell whether my child needs a tutor or just better revision?"
-faq_3_a: "Look at the working on a recent past paper, not the mark. Clean, complete working that still loses marks at the back of the paper points to exam technique, which a tutor fixes quickly. Blank space or crossed-out attempts on multi-step questions points to method confidence, which rarely improves alone however many hours go in. If your child is already scoring above eighty per cent across mocks, targeted practice on two or three topics beats a weekly programme."
-faq_4_q: "How does online tutoring work for Winchester families?"
-faq_4_a: "Sessions run through Lessonspace, our shared whiteboard, and every one is recorded so a method can be replayed the night before a test. Matching on exam board rather than on who lives nearby matters more than proximity, and it means families across Winchester and out towards Alresford, Twyford and the villages all reach the same network. It also removes a drive on a school night, which is why weekly commitments quietly lapse."
+faq_3_a: "Look at the working on a recent past paper, not the mark at the top. Clean, complete working that still loses marks at the back of the paper means exam technique, and a tutor can usually sort that fairly quickly. Blank spaces or crossed-out starts on the longer questions point to a method your child isn't sure of, which rarely improves on its own, however long they revise. If they're already scoring over eighty per cent in the mocks, practice on two or three topics will do more than weekly lessons."
+faq_4_q: "We're in a village outside Winchester. Does online tutoring work the same for us?"
+faq_4_a: "Yes, exactly the same. Lessons happen in the online classroom Lessonspace, where your child and the tutor share a whiteboard, and every lesson has a replay to watch back the night before a test. We match on exam board, not on who lives closest. So families in Alresford, Twyford and the villages choose from the same tutors as anyone in the city. There's no drive on a school night, either, which is usually where a weekly lesson starts to slip."
 
 sitemap:
   priority: 0.7

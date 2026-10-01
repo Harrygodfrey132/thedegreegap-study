@@ -1,41 +1,41 @@
 ---
 title: "Weybridge GCSE Tutors | One-to-One | The Degree Gap"
-description: "Weybridge GCSE tutors for the Year 11 grades that decide where sixth form happens. One-to-one online over Lessonspace, matched on the board, from £37 an hour."
+description: "Heathside or Esher? One grade in one subject can decide it. Our Weybridge GCSE tutors work on that subject with your child in online lessons from £37."
 layout: "subject"
 location: "Weybridge"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutoring for Weybridge Year 11s With Two Sixth Forms on the Shortlist"
+hero_heading_line1: "Online Weybridge GCSE Tutors for When One Grade Decides the Sixth Form"
 hero_heading_line2: ""
-hero_lead: "Heathside and Esher do not always ask for the same grade in the same subject, so Year 11 here is partly a question of which one your child is aiming at. Our Weybridge GCSE tutors work one-to-one online over Lessonspace on the grade that keeps both options open."
+hero_lead: "If your child's torn between two sixth forms, you've probably noticed they don't always ask for the same grade in the same subject. Our Weybridge GCSE tutors find the subject closest to the line and work on it in weekly online lessons, so both stay open."
 
 grade_from: "4-5"
 grade_to: "8"
-grade_stat: "One parent describes a predicted 4-5 in Physics becoming an 8 after roughly two months of tutoring."
+grade_stat: "A predicted 4-5 in Physics became an 8 for Chamarika's son, after roughly two months of tutoring."
 
-first_lesson_eyebrow: "ONE GRADE, TWO THRESHOLDS"
+first_lesson_eyebrow: "A 6 HERE, A 7 THERE"
 first_lesson_heading: "How a Weybridge GCSE Tutor Plans Around the Sixth Form Shortlist"
-first_lesson_context: "A student with a 6 in Maths can take A-Level Maths at Esher but not, on this year's published list, at Heathside, where the figure is a 7. That single mark changes the conversation. So the first session goes through a recent paper and the entry list side by side, and works out which subject is carrying the most risk for the course your child actually wants."
+first_lesson_context: "On the current lists, Esher asks for a 6 in Maths before A-Level Maths, while Heathside asks for a 7. That one grade can change the whole conversation at home. So the first lesson sets a recent paper beside both lists and finds the subject most at risk for the course your child really wants."
 first_lesson_quote: "Good tutoring platform. I did have some initial issues with a couple of tutors but Joe is very responsive and works to swiftly resolve things. My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring. We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s. Thank you to all the 3x tutors."
 first_lesson_quote_name: "Chamarika"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Predicted 4-5 to an 8 in Physics"
 
 tutor_strip_heading: "Weybridge GCSE tutors matched to the paper your child sits"
-tutor_strip_body: "Heathside, St George's and Sir William Perkins's do not share one set of boards, and an iGCSE paper is laid out differently again. We confirm the specification before suggesting anyone. Every tutor has passed a founder-led interview that roughly 3% of applicants get through."
+tutor_strip_body: "Heathside, St George's and Sir William Perkins's don't all use the same exam boards, and iGCSE papers differ again, so we confirm your child's exact course first. Harry or Joe has met every tutor, and around 3% of those who apply get in. Browse, or let us choose."
 
 pathways_heading: "Where Weybridge Year 11s Go After Their GCSEs"
-pathways_lead: "Three broad routes, and most families here are comparing at least two of them by the spring mocks."
+pathways_lead: "Three routes, and by the spring mocks lots of families here are weighing up two of them at once."
 pathways:
   - title: "Sixth Forms"
     body: >
-      Heathside Weybridge Sixth Form takes its own students and external applicants, with a general requirement and a list of subject grades on top. Esher Sixth Form College in Thames Ditton draws students from right across Elmbridge. St George's College, Hinchley Wood and Three Rivers Academy in Hersham also run sixth forms.
+      Heathside Weybridge Sixth Form takes its own Year 11s and children from other schools, with a general entry requirement and subject grades on top. Esher Sixth Form College in Thames Ditton draws from right across Elmbridge, and St George's College, Hinchley Wood and Three Rivers Academy in Hersham run sixth forms too.
   - title: "Apprenticeships"
     body: >
-      The Heritage Skills Academy trains classic car restoration apprentices at Brooklands Museum, on block release from employers around the country, and takes them from sixteen. Engineering and technical apprenticeships in the wider Surrey area almost always name English and Maths grades in their requirements.
+      The Heritage Skills Academy at Brooklands Museum takes classic car restoration apprentices from sixteen, who work for employers around the country and train there in blocks. Most engineering apprenticeships around Surrey name English and Maths grades in their requirements, so it's worth keeping those two safe, whatever your child has in mind.
   - title: "Technical Courses"
     body: >
-      Brooklands Technical College runs T Levels from its Weybridge campus, including Digital and Media, alongside other Level 3 courses. It also teaches GCSE English and Maths for students who need another go at either grade.
+      Brooklands Technical College runs two-year technical courses called T Levels from its Weybridge campus, digital and media among them, plus other courses at A-Level standard. It also teaches GCSE English and Maths, if your child needs another go at either.
 
 reviews:
   - "Gilmoore|Parent of GCSE Student|Initially I was hesitant to enrol my son for online lessons. However, the company has well experienced, knowledgeable and helpful tutors. There is also flexibility around booking of lessons. At the end of the day, my son achieved the next top grade than what had been predicted in his mid-year school GCSE exams. I am forever indebted to The Degree Gap."
@@ -49,14 +49,14 @@ reviews:
   - "Isabel|Parent of iGCSE Student|Harry helped our son enormously with his maths and economics iGCSE prep. He was patient, fun and engaging - just what we needed. Highly recommended."
   - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings to fit around school lessons. The tutors we have used are lovely.  The Degree Gap use an advanced online platform which enables interactive tuition. We also attended a free webinar from the Degree Gap which was very informative and added value. I highly recommend them."
 
-faq_1_q: "When should a Weybridge student start GCSE tutoring?"
-faq_1_a: "Year 10 if there is a choice, because a gap closed then stops causing trouble for the rest of the course. In Weybridge the timing has an extra edge: Heathside's sixth form applications and Esher's open in the autumn of Year 11, and the mock grades your child carries into those forms are sat soon after. A start in Year 11 still works well for many families. It simply shifts the plan towards past papers and technique rather than rebuilding topics from the ground up."
-faq_2_q: "Do your tutors know both GCSE and iGCSE specifications?"
-faq_2_a: "Yes. Families around Weybridge often have children in both sectors, and a tutor who knows AQA GCSE Maths well might not know the Edexcel iGCSE paper layout at all. So the board and the exact specification are the first things we confirm on the call, before any profile is sent. That matters most in the Sciences and English, where question styles and the weighting of longer answers differ between specifications."
-faq_3_q: "My child is one grade short of what the sixth form wants. How quickly can that move?"
-faq_3_a: "Often within a term, if the gap is exam technique. A tutor reads the latest mock script, sorts the lost marks and finds the pattern, which might be unfinished questions, careless working or long answers that never reach the top band. Those habits change quickly with timed practice. Where the problem is content that never landed, it takes longer, and we will say that plainly on the first call rather than promise a grade by March."
+faq_1_q: "Year 10 feels early. Can it wait until Year 11?"
+faq_1_a: "It can, but Year 10's the easier year if you've got the choice, because a gap sorted then can't keep tripping your child up through Year 11. There's a Weybridge reason too. Applications to Heathside's sixth form and to Esher open in the autumn of Year 11, and the mocks those applications are judged on come soon after. Plenty of families start in Year 11 and it still works. The lessons just lean on past papers and technique more than on rebuilding topics."
+faq_2_q: "My son's doing iGCSEs and his sister's doing GCSEs. Do your tutors know both?"
+faq_2_a: "Yes, between them, though we never assume one tutor knows both well. It's common round here, with brothers and sisters at different kinds of school. But a tutor who knows AQA GCSE Maths inside out may never have seen the Edexcel iGCSE paper. We check each child's board and exact course on the call, before any profiles come your way. It matters most in English and the Sciences, where the question styles and the weight on longer answers can differ."
+faq_3_q: "My child's one grade short of what the sixth form wants. How quickly can that move?"
+faq_3_a: "Often within a term, if it's exam technique. The tutor goes through the latest mock, sorts every lost mark and looks for the pattern. Unfinished questions, say, or long answers that never quite reach the top marks. Habits like those shift quickly with timed practice. If it's a topic that never settled, it takes longer, and we'll tell you so plainly rather than promise a grade by March."
 faq_4_q: "How much is GCSE tutoring, and can we stop at any time?"
-faq_4_a: "From £37 an hour, agreed with you in advance and depending on the tutor's experience. The fee covers the online lesson, the preparation, any resources and a short note after each session. No contract, no joining fee and no minimum number of lessons. Families pay one session at a time and can pause over half term or stop once a grade has settled, then start again before the summer exams if they want to."
+faq_4_a: "Lessons start at £37 an hour. What you pay depends on the tutor's experience, and we'll agree it with you beforehand. The tutor's preparation, any resources and a short note to you after each lesson are all included. There's no contract, no fee to join, and you're never committed to a block of lessons. You pay as you go. So you can pause over half term, stop once a grade has settled, or come back before the summer exams."
 
 sitemap:
   priority: 0.7

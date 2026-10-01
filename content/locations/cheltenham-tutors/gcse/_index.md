@@ -1,42 +1,42 @@
 ---
 title: "Cheltenham GCSE Tutors | One-to-One from £37/hr | The Degree Gap"
-description: "Cheltenham GCSE tutoring for Year 10 and Year 11. One-to-one tutors matched on exam board, whether the aim is a secure pass or the sixth-form band Pate's asks for."
+description: "A safe pass in English and Maths, or the grades for a Pate's sixth form place? Our Cheltenham GCSE tutors start with the marks your child is losing. From £37."
 layout: "subject"
 location: "Cheltenham"
 level: "GCSE"
 
-hero_heading_line1: "Online Cheltenham GCSE Tutors for the Marks the Classroom Runs Past"
+hero_heading_line1: "Online Cheltenham GCSE Tutors for the Marks Your Child Loses Without Knowing Why"
 hero_heading_line2: ""
-hero_lead: "Some Cheltenham Year 11s need English and Maths made safe. Others are chasing the band a competitive sixth form asks for. Our Cheltenham GCSE tutors read which of those is actually in front of them, then work the specific questions losing marks rather than the whole subject."
+hero_lead: "Maybe your child just needs English and Maths made safe. Or maybe they're after the grades a competitive sixth form asks for. Our Cheltenham GCSE tutors work out which it is first, then go after the questions losing marks, not the whole subject again."
 
 grade_from: "5"
 grade_to: "7"
-grade_stat: "A two-band move across a term of weekly one-to-one work, which is what most GCSE plans here are built around."
+grade_stat: "Omo's son wanted nothing to do with English. Six months of lessons on, his 5 had become a 6/7."
 
-first_lesson_eyebrow: "INSIDE A CHELTENHAM YEAR 11 SESSION"
+first_lesson_eyebrow: "ONE REQUEST, TWO VERY DIFFERENT NEEDS"
 first_lesson_heading: "What a Cheltenham GCSE Tutor Finds in the First Hour"
-first_lesson_context: "The town holds two very different Year 11 experiences inside a few miles. A student at Pate's or one of the independents is measured against a cohort where a 7 is unremarkable. A student at Balcarras or Bournside may be doing genuinely well and still feel behind because of what gets discussed at the school gate. Both walk into a first session with the same request, which is help, and they need opposite things. So the hour goes on a recent paper, question by question, working out whether the marks are being lost to method or to content. Guessing that wrong wastes a term."
+first_lesson_context: "Parents from Pate's, Balcarras, Bournside and the independents often start the call the same way: their child needs some help. But one child needs a secure pass in English and Maths, while another's doing well and still feels behind after all the talk at the school gate. So the first hour goes on a recent paper, question by question, to see whether the marks are slipping on method or on content."
 
 first_lesson_quote: "The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty."
 first_lesson_quote_name: "Augusta"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "GCSE"
 
-tutor_strip_heading: "Cheltenham GCSE tutors matched on the specification, not just the subject"
-tutor_strip_body: "Gloucestershire schools sit across AQA, Edexcel and OCR, and the difference shows up in how the longer questions are marked rather than in the content. Tutors are matched to the board your child's school teaches. Roughly three in every hundred applicants make it onto the platform, and Harry and Joe interview every one of them. Browse profiles, or let us match your child."
+tutor_strip_heading: "Cheltenham GCSE tutors who know how your child's paper is marked"
+tutor_strip_body: "Schools around Cheltenham use AQA, Edexcel and OCR, and each board words and marks its longer questions differently, so we match the tutor to your child's board. Harry or Joe interview every tutor, and only about 3% of applicants make it. Have a browse, or let us pick."
 
-pathways_heading: "Where Cheltenham Year 11s Go Next"
-pathways_lead: "Three routes that open up once the GCSE grades land."
+pathways_heading: "Next Steps After Year 11 in Cheltenham"
+pathways_lead: "Once results are in, three routes open up for your child."
 pathways:
   - title: "Sixth Forms"
     body: >
-      Pate's, Balcarras, Bournside and Cheltenham College all run their own sixth forms, and each publishes its own entry requirements that vary by subject and shift between years. The gap between a 6 and a 7 in one subject is often the whole conversation, so it is worth checking the actual admissions page rather than working from what a friend's older child needed.
+      Pate's, Balcarras, Bournside and Cheltenham College all run sixth forms, and each sets its own entry grades, which vary by subject and can change from one year to the next. It often comes down to a 6 or a 7 in one subject, so check the current admissions page rather than going on what a friend's older child needed.
   - title: "Apprenticeships"
     body: >
-      GCHQ sits in Cheltenham and runs degree apprenticeships in cyber security and software engineering, with Spirax Group and the wider Gloucestershire engineering base taking technical apprentices too. Published minimum grades in Maths and English are the common gate, and technical routes usually want the Sciences alongside.
+      GCHQ, right here in Cheltenham, runs degree apprenticeships in cyber security and software engineering, and Spirax Group and other Gloucestershire engineering firms take on technical apprentices too. Most set a minimum grade in Maths and English, and the technical routes usually want the Sciences as well.
   - title: "Further Education"
     body: >
-      Gloucestershire College covers Level 3 BTEC and vocational routes across the county, from engineering and health to digital. GCSE Maths and English resits are the most common entry point, and students below a grade 4 in either are generally expected to keep studying them post-16.
+      Gloucestershire College runs Level 3 BTEC and vocational courses across the county, from engineering and health to digital. If your child doesn't get a grade 4 in English or Maths, they'd usually keep studying it after 16, and plenty start a course there while they resit.
 
 reviews:
   - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."
@@ -52,14 +52,14 @@ reviews:
   - "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
   - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
 
-faq_1_q: "The independents and Pate's set the tone here. Does that matter for my child?"
-faq_1_a: "It matters for how a family feels, and much less for what the tutoring actually does. The exam is the same paper wherever it is sat, and the marks are lost in the same places: long answers that describe instead of explain, multi-step questions abandoned halfway, timing. What changes between schools is class size and how much individual feedback a student gets on their written work. That is the gap an hour a week is genuinely good at closing, whichever school your child is at."
-faq_2_q: "How do I tell whether my child needs one subject or three?"
-faq_2_a: "Usually one, and the answer is in a recent paper rather than in the report. If marks are being lost across every subject in the same way, through timing or unfinished answers, that is one problem showing up three times and it does not need three tutors. If one subject is genuinely behind on content while the others are fine, start there. Enquiries that arrive in August wanting everything fixed at once are the most common, and they are rarely the ones that need it."
-faq_3_q: "How quickly can we start GCSE tutoring in Cheltenham?"
-faq_3_a: "Usually inside a week. A free 15-minute call first, then two or three tutor profiles within 24 hours, then a free meeting with whoever you pick before any paid session. Autumn is when tutors with Year 11 experience fill their weekly slots, so the same request in September gets more choice than it does in January."
-faq_4_q: "What does GCSE tutoring cost in Cheltenham?"
-faq_4_a: "From £37 an hour. The rate depends on the tutor's experience and is agreed before anything is booked, so there are no surprises. It covers the live lesson, the tutor's preparation, any practice papers they set and the feedback afterwards. There is no joining fee and no contract. As an agency we retain a margin on the rate, which pays for the matching, the vetting and the support around the lessons."
+faq_1_q: "Everyone here seems to talk about Pate's and the independents. Does that matter for my child?"
+faq_1_a: "It can matter for how the whole family feels. For the exam itself, much less. The paper doesn't know which school your child goes to. Marks slip away in the same places everywhere: long answers that describe when they should explain, and multi-step questions left halfway. What does change from school to school is class size, and how much one-to-one feedback your child gets on written work. That's the gap an hour a week is good at closing, wherever they're at school."
+faq_2_q: "How do I know if my child needs help in one subject or three?"
+faq_2_a: "Usually it's one, and a recent paper will tell you more than the school report. If your child's losing marks the same way everywhere, running out of time or leaving answers unfinished, that's one problem turning up three times. It doesn't need three tutors. If one subject's clearly behind on content and the rest are fine, start there. Lots of families get in touch in August wanting everything fixed at once, and it's rarely all three that need it."
+faq_3_q: "How soon can my child start GCSE tutoring in Cheltenham?"
+faq_3_a: "Most of the time, within a week. First comes a free 15-minute call with Harry or Joe, and two or three tutor profiles reach you within 24 hours of it. Your child meets the one you like on a free video call before you pay for anything. Then it's a weekly lesson on the online platform Lessonspace, with a replay of each one."
+faq_4_q: "What does a GCSE tutor cost in Cheltenham?"
+faq_4_a: "From £37 an hour, depending on how experienced the tutor is, and we'll agree the rate with you before anything's booked. That covers the lesson, the tutor's preparation, any practice papers they set and their feedback afterwards. There's no joining fee and no contract. We're an agency, so part of the rate comes to us, and that's what pays for the matching, the vetting and the help around the lessons."
 
 sitemap:
   priority: 0.7

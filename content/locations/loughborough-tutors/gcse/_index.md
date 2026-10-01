@@ -1,42 +1,42 @@
 ---
 title: "Loughborough GCSE Tutors | Year 10 and Year 11 | The Degree Gap"
-description: "Loughborough GCSE tutoring matched on exam board, from a network of Russell Group graduates. For students aiming at sixth form, apprenticeships or college. From £37/hr."
+description: "Tried explaining it at the kitchen table and it's turned into a row? Our Loughborough GCSE tutors explain it another way, online, from £37 an hour, no contract."
 layout: "subject"
 location: "Loughborough"
 level: "GCSE"
 
 hero_heading_line1: "Online Loughborough GCSE Tutors Who Explain It a Second and Third Way"
 hero_heading_line2: ""
-hero_lead: "Plenty of Loughborough parents can do the Maths themselves and have already tried teaching it at the kitchen table. Our Loughborough GCSE tutors are for the point after that, when it is clear the problem is not the content but how it is being explained."
+hero_lead: "You might well be able to do the Maths yourself, and you've probably tried going through it with your child at the kitchen table. Our Loughborough GCSE tutors come in after that, when it's clear the problem is the way it's being explained, not the content."
 
 grade_from: "5"
 grade_to: "7"
-grade_stat: "The kind of movement a term of weekly one-to-one work is generally built to produce."
+grade_stat: "Omo's son moved up from a grade 5 to a 6/7 in English in six months."
 
-first_lesson_eyebrow: "WHEN THE PARENT ALREADY KNOWS THE SUBJECT"
-first_lesson_heading: "Why Knowing the Answer Is Not the Same as Teaching It"
-first_lesson_context: "A real share of the families here work at the university or at the science and engineering employers around the town, which produces a particular kind of call. The parent understands the material perfectly well. They have sat down and explained it. It has not landed, and now the whole thing has become an argument that is really about something else. What a tutor brings is not more subject knowledge, it is a second and third way of explaining the same idea, plus the useful fact of not being the parent. Those two things together are usually the whole difference."
+first_lesson_eyebrow: "WHEN YOU ALREADY KNOW THE SUBJECT"
+first_lesson_heading: "Knowing the Answer Isn't Teaching It: What a Loughborough GCSE Tutor Adds"
+first_lesson_context: "Lots of the Loughborough parents who get in touch work at the university or for the science and engineering employers around town, so the subject isn't the problem. You've sat down and explained it, it hasn't landed, and now homework has turned into an argument that's really about something else. A tutor brings a second and third way of explaining the same idea, plus the big advantage of not being the parent."
 
 first_lesson_quote: "My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back."
 first_lesson_quote_name: "Ellen"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "GCSE Maths"
 
-tutor_strip_heading: "Loughborough GCSE tutors chosen on whether they can explain, not just whether they know"
-tutor_strip_body: "Being excellent at a subject and being able to teach it are separate skills, and the interview is built to test the second one. Roughly three in every hundred applicants make it through, and Harry and Joe run those interviews themselves. Tutors are matched to the AQA, Edexcel or OCR specification the school teaches. Browse profiles, or let us match your child."
+tutor_strip_heading: "Loughborough GCSE tutors picked for how well they explain"
+tutor_strip_body: "A tutor can know a subject well and still not explain it clearly, so our interview tests the explaining. Harry and Joe run every one, and only about 3% of applicants get through. We match your child's exam board too. See the profiles, or leave the choice to us."
 
-pathways_heading: "Where Loughborough Year 11s Go Next"
-pathways_lead: "Three routes, and what each one publishes."
+pathways_heading: "Sixth Form, College or an Apprenticeship: Loughborough After GCSEs"
+pathways_lead: "What's open to your child locally once Year 11 is over."
 pathways:
   - title: "Sixth Forms"
     body: >
-      Loughborough Grammar, Loughborough High, Charnwood College, De Lisle and Rawlins all run sixth forms, with students also travelling towards Leicester and Nottingham. Each sets its own entry requirements by subject and moves them between years, and the Sciences and Maths tend to ask for more than the rest, so check the current admissions page for the specific course.
+      Loughborough Grammar, Loughborough High, Charnwood College, De Lisle and Rawlins all run sixth forms, and some families look further, towards Leicester and Nottingham. Each sets its own entry grades by subject and can change them between years, and Maths and the Sciences tend to ask for more, so check the current admissions page for your child's course.
   - title: "Apprenticeships"
     body: >
-      AstraZeneca's Charnwood site sits just down the road and runs science and technical routes, with engineering and manufacturing employers across the East Midlands taking others. Published minimum grades in Maths and English are the standard gate, and Triple Science can be named on the more technical entries.
+      Engineering and manufacturing employers around Loughborough and across the East Midlands take on apprentices in science and technical roles. Most set minimum grades in Maths and English, and the more technical routes sometimes name Triple Science too.
   - title: "Further Education"
     body: >
-      Loughborough College covers Level 3 vocational and applied routes, including strong sport and engineering provision that reflects what the town is known for. GCSE Maths and English resits run alongside, and students below a grade 4 in either are generally expected to keep studying them post-16.
+      Loughborough College runs Level 3 vocational courses, with a strong line in sport and engineering, which is what the town's known for. Maths and English resits run alongside, because anyone without a grade 4 in either is usually expected to keep studying it after 16.
 
 reviews:
   - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry, who listened to her needs and gave us a selection of tutors to choose from. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
@@ -53,13 +53,13 @@ reviews:
   - "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
 
 faq_1_q: "I can teach my child the subject myself. Why pay someone?"
-faq_1_a: "If it is working, do not. Genuinely. Where it stops working is usually not about knowledge, it is that the relationship gets in the way: a teenager will admit confusion to a stranger far more readily than to a parent, and a session with a tutor has a structure and a deadline that a kitchen-table conversation never quite gets. If you can already sit down weekly, mark the work honestly and have it received well, you have most of what tutoring provides."
-faq_2_q: "Which topics actually cost the marks at GCSE?"
-faq_2_a: "The same few, year after year. In Maths, multi-step problems where the maths is buried inside a paragraph of context, and reasoning that needs writing out rather than just seeing. In the Sciences, the required practicals learned as steps rather than as method, and six-mark answers written as bullet lists. In English, evidence chosen because it was memorable rather than because there is something to say about it. None of those is about ability and all of them respond quickly to being named."
-faq_3_q: "Do you tutor Triple Science separately from Combined?"
-faq_3_a: "Yes, and we ask which one your child is entered for before matching. Combined counts as two GCSEs and treats the three sciences at less depth; Triple counts as three and is occasionally written into sixth-form Science requirements. Where one of the three sciences is clearly the problem, we match a specialist in that science rather than a generalist across all three, which is worth more per hour once calculations are involved."
+faq_1_a: "If it's working, don't. When it stops working, it's usually not about knowledge. The relationship gets in the way. A teenager will admit they're confused to a stranger far more easily than to a parent. A lesson with a tutor also has a shape and an end time that a kitchen-table chat never quite gets. If you can already sit down each week, mark the work honestly and have it taken well, you've got most of what tutoring offers."
+faq_2_q: "Where do most GCSE marks actually get lost?"
+faq_2_a: "In the same few places, year after year. In Maths, it's multi-step problems where the maths is hidden in a paragraph of words, and reasoning that has to be written out, not just seen. In the Sciences, it's the practicals done in class and then asked about in the exam, learned as a list of steps, and six-mark answers written as bullet points. In English, it's quotes picked because they're memorable, not because there's something to say about them. None of that's about ability. And it tends to improve quickly once it's named and practised."
+faq_3_q: "Can you help with Triple Science as well as Combined?"
+faq_3_a: "Yes, and we'll ask which one your child's entered for before we match. Combined Science counts as two GCSEs and covers the three sciences in less depth. Triple counts as three, and now and then a sixth form names it in its Science entry grades. If one science is clearly the problem, we'll match a tutor who knows that one inside out, not someone covering all three. That pays off once the calculations start."
 faq_4_q: "How quickly can my child start?"
-faq_4_a: "Usually within a week. A free 15-minute call to work out what is actually needed, then two or three tutor profiles inside 24 hours, then a free meeting with whoever you choose before any paid session. Autumn fills fastest, so a request in September gets more choice than the same request in February. If a diagnostic says your child does not need weekly tutoring, we will say that instead of booking it."
+faq_4_a: "Usually within a week. We start with a free 15-minute call, where Harry or Joe works out what's actually needed. You'll have two or three tutor profiles within 24 hours of it. Your child meets whoever you choose on a free video call before any paid lesson. And if it turns out your child doesn't need weekly lessons, we'll say so rather than book them."
 
 sitemap:
   priority: 0.7
