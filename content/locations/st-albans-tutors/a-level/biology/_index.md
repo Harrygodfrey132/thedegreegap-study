@@ -1,7 +1,7 @@
 ---
 title: "St Albans A-Level Biology Tutors | Online | The Degree Gap"
 nav_title: "Biology"
-description: "Online A-Level Biology tutors for St Albans families, from Sandringham to Loreto, for the unfamiliar-organism questions that decide the top grades. From £37."
+description: "Online A-Level Biology tutors for St Albans families, from Sandringham to Loreto. Weekly practice on the unfamiliar questions that decide top grades. From £37."
 layout: "level-subject"
 location: "St Albans"
 level: "A-Level"
@@ -12,8 +12,8 @@ hero_lead: "When the exam swaps the fish your child studied for a creature they'
 
 angle_eyebrow: "A NEW ANIMAL, THE SAME BIOLOGY"
 angle_heading: "Why Unfamiliar Questions Decide the A in A-Level Biology"
-angle_body_1: "Classic examples come first: gas exchange in fish gills, in an insect's tracheal system, in a leaf. The exam likes to swap in something new, a tadpole or a worm, and asks your child to apply the same ideas to it. Surface area to volume ratio, a short diffusion distance, a steep concentration gradient. Children who learned the examples, rather than the principles, freeze. And it isn't only exchange surfaces. Protein synthesis needs transcription and translation told in exact order with the right molecules, and a fluent summary that skips one step drops marks. At the top grades, this is where the difference usually sits."
-angle_body_2: "Each week, the tutor puts an unfamiliar organism or a fresh set of data in front of your child and asks them to think out loud before writing a word. Which principle is this? What's the question really after? It feels awkward at first. Then it becomes a habit. Protein synthesis gets written out from a blank page, marked, and written again until nothing's missing. That level of detail matters in St Albans, from Sandringham and Verulam to Loreto. Plenty of sixth formers here want Medicine, Veterinary or Biosciences courses that ask for A*AA or AAA, and the Year 12 summer assessments shape the prediction those courses see."
+angle_body_1: "A-Level Biology has its classic examples: gas exchange in fish gills, in an insect's network of air tubes, in a leaf. The exam likes to swap in something new, a tadpole or a worm, and asks your child to apply the same ideas to it. Surface area to volume ratio, a short diffusion distance, a steep concentration gradient. Children who learned the examples, rather than the principles, freeze. And it isn't only exchange surfaces. Protein synthesis needs transcription and translation told in exact order with the right molecules, and a fluent summary that skips one step drops marks. At the top grades, this is where the difference usually sits."
+angle_body_2: "Each week, the tutor puts an unfamiliar organism or a fresh set of data in front of your child and asks them to think out loud before writing a word. Which principle is this? What's the question really after? It feels awkward at first. Then it becomes a habit. Protein synthesis gets written out from a blank page, marked, and written again until nothing's missing. If your child has Medicine, Veterinary Science or a Biosciences course in mind, that level of detail matters. Lots of sixth formers in St Albans do, from Sandringham and Verulam to Loreto, and many of those courses ask for A*AA or AAA."
 angle_image: "/images/fluorescent-cells-under-microscope.jpg"
 angle_image_alt: "Close-up of cells stained bright cyan, showing nuclei and fine outer projections"
 angle_stat_from: "B"
@@ -32,9 +32,9 @@ steps_heading: "What happens after you get in touch about St Albans A-Level Biol
 steps_lead: "Expect tutor profiles within 24 hours of your call. Starting before the Year 12 summer assessments gives the new habit time to settle."
 steps:
   - title: "Tell us about your child"
-    body: "First, a free call with one of our co-founders, Harry or Joe, to get to know you and your child. Which school, which board, what grade they're after? And if your child does well on anything they've been taught but loses marks on new material, tell us. It's a specific pattern, and it shapes who we suggest."
+    body: "First, a free call with one of our co-founders, Harry or Joe, to get to know you and your child. Which school, which exam board, what grade they're after? And if your child does well on anything they've been taught but loses marks on new material, tell us. It's a specific pattern, and it shapes who we suggest."
   - title: "See who we'd suggest"
-    body: "Two or three tutor profiles arrive within 24 hours, each picked for your child's board and for teaching the idea behind an example rather than the example alone. Then your child meets the one you like best on a free 15-minute video meeting, before any lesson is booked."
+    body: "Two or three tutor profiles arrive within 24 hours, each picked for the exam board your child sits and for teaching the idea behind an example rather than the example alone. Then your child meets the one you like best on a free 15-minute video meeting, before any lesson is booked."
   - title: "Practise the unfamiliar"
     body: "Lessons are weekly and one-to-one, online using the platform Lessonspace, with a replay of every lesson. There's something unfamiliar on screen most weeks. From £37 an hour, no contract, and a new tutor at no charge if your child doesn't click."
 
@@ -44,7 +44,7 @@ faqs:
   - q: "My child's always done well. Why are they stuck on a B in Biology?"
     a: "Usually because they know the content, and the last marks aren't about content. A B often means your child answers well on anything they've been taught, then loses marks when the question moves somewhere new: an unfamiliar organism, a data set they haven't seen, or a process that needs every step in order. That's a skill, not a lack of effort. It can be practised, and practising it is what lessons at this stage are mostly for."
   - q: "Is an hour a week enough at A-Level?"
-    a: "For most of the year, yes. An hour suits steady weekly work through Year 12 and 13, with a question or two in between. Some families move to 90 minutes after Christmas of Year 13, or in the run-up to mocks, when there's time to plan, write and mark a full long answer in one go. It's easy to change as the year goes on."
+    a: "For most of the year, yes. An hour suits steady weekly work through Year 12 and 13, with a question or two in between. Some families move to 90 minutes after Christmas of Year 13, or in the run-up to mocks, which leaves time to plan, write and mark a full long answer in one go. It's easy to change as the year goes on."
   - q: "Will the tutor be someone who did well in Biology themselves?"
     a: "Yes. Every tutor we'd suggest went to a top Russell Group university, and plenty are qualified teachers as well. For a child pushing from a B to an A, it's often worth choosing someone who sat these papers recently and knows the current mark schemes closely, or an experienced teacher who has marked a lot of answers that fell just short. You'll see two or three profiles and choose together."
   - q: "Is Biology tutoring worth paying for if my child's already on a B?"
