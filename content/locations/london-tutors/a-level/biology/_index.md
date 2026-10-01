@@ -1,7 +1,7 @@
 ---
 title: "London A-Level Biology Tutors | Online | The Degree Gap"
 nav_title: "Biology"
-description: "Wherever you are in London, online A-Level Biology tutors who help with the cell cycle, cancer and mitotic index questions. One-to-one, from £37 an hour."
+description: "Is it the calculations or the written answers costing your child marks? Our London A-Level Biology tutors find out in the first lesson. Online, from £37."
 layout: "level-subject"
 location: "London"
 level: "A-Level"
@@ -13,9 +13,9 @@ hero_lead: "One cell cycle question in the mock gets full marks and the next get
 angle_eyebrow: "A CALCULATION, THEN AN EXPLANATION"
 angle_heading: "Why Your Child Gets One Cell Cycle Question Right and Misses the Next"
 angle_body_1: "The cell cycle can cost marks in two quite different ways. Some questions hand over a count of cells from a root tip and want a mitotic index, then a sensible comment on what the number shows. That's a method, and it's either secure or it isn't. Others ask what the checkpoints do, or why a faulty gene such as p53 can let a tumour grow. That's explanation, built one linked step at a time. Two skills, one topic. Your child might be strong at one and shaky at the other, and knowing which is worth more than another evening of revision."
-angle_body_2: "A recent marked paper usually settles it in the first lesson. If it's the calculation, your child practises the mitotic index until the method is automatic. If it's the explaining, they write about control and cancer each week and get it back marked against the real scheme. From Brampton Manor to Westminster, your child might be heading for Medicine or Biosciences, and those courses publish entry standards of A*AA and AAA. Or the goal might be a steady B for a healthcare or lab course. Either way, both kinds of mark count."
+angle_body_2: "A recent marked paper usually settles it in the first lesson. If it's the calculation, your child practises the mitotic index until the method is automatic. If it's the explaining, they write about control and cancer each week and get it back marked against the real scheme. Your child might be heading for Medicine or Biosciences, and those courses publish entry standards of A*AA and AAA. Or the goal might be a steady B for a healthcare or lab course. Either way, both kinds of mark count. Your child could be at Brampton Manor or Westminster, and we'd still never guess the goal from the name on the blazer."
 angle_image: "/images/fluorescent-cells-under-microscope.jpg"
-angle_image_alt: "A cluster of blue-stained cells under a microscope, each nucleus clearly visible"
+angle_image_alt: "A few blue-stained cells under a microscope, with a round nucleus showing in a couple of them"
 angle_stat_from: "C"
 angle_stat_to: "A"
 angle_stat_detail: "A C to an A by the Year 13 exams is where weekly lessons point. Nobody can promise the result."
@@ -29,14 +29,14 @@ schools:
   - "Westminster School"
 
 steps_heading: "A-Level Biology Tutoring Anywhere in London, Step by Step"
-steps_lead: "Wherever you live in London, profiles follow within a day, and nobody crosses the city on a school night."
+steps_lead: "Profiles usually arrive within a day of your call, so lessons can start well before the mocks that feed into your child's predicted grade."
 steps:
   - title: "The target, and why"
     body: "The free call is with Harry or Joe, who started The Degree Gap, and it's our chance to get to know you and your child. What's the target, and what's it for? Medicine, Biosciences, a healthcare course? Which board is your child on, and is it the calculations or the written answers that go wrong?"
   - title: "Profiles picked for your board"
     body: "You'll get two or three tutor profiles within 24 hours of the call, each chosen for your child's exam board and for how clearly they explain the fiddly parts, like checkpoints and p53. Your child can meet your favourite on a free 15-minute video meeting before anything is paid for."
   - title: "Lessons without crossing London"
-    body: "Lessons take place online in Lessonspace, on a whiteboard your child and the tutor share, with a recording afterwards. From £37 an hour. No contract. And if they don't gel, we'll find a new tutor, free."
+    body: "Each week your child and the tutor meet one-to-one on a shared whiteboard in Lessonspace, our online classroom, and every lesson can be replayed. From £37 an hour. No contract. And if they don't gel, we'll find a new tutor, free."
 
 faqs:
   - q: "Would it be easier to find a Biology tutor near us in London?"
@@ -46,7 +46,7 @@ faqs:
   - q: "Is one hour a week really enough for A-Level Biology?"
     a: "For most of Year 12 and 13, yes. An hour every week, with some written practice in between, does more than the odd long session crammed in before a test. Some families move to 90-minute lessons in Year 13, in the run-up to mocks, so a long answer can be planned, written and marked in one sitting. It's agreed on the call and easy to change later."
   - q: "How do we know The Degree Gap is any good?"
-    a: "Fair question, and the reviews are the best place to start. There are over 100 five-star ones on Google, written by parents and by the teenagers themselves. Joe and Harry also run workshops in UK secondary schools and work directly with more than 15 of them, so they see what teenagers are dealing with from week to week. They meet every tutor before they join, too. And nothing locks you in: if the first tutor isn't right, you can change."
+    a: "Fair question, and the reviews are the best place to start. There are over 100 five-star ones on Google, written by parents and by the teenagers themselves. On top of that, we work directly with more than 15 UK secondary schools. Joe and Harry are also in schools during the day running workshops, so they see what teenagers are dealing with week to week. They interview every tutor themselves. And nothing locks you in: if the first tutor isn't right, you can change."
   - q: "Can we do Biology tutoring in London on a tighter budget?"
     a: "Yes. One lesson a week suits most families, and with no contract you only pay for lessons that happen. Some add a second lesson just in the weeks before mocks. Others book a short run of six to eight lessons on one area, like the cell cycle, then stop. Tell us your budget on the call and we'll plan around it."
 # FAQ picks: G03, A06, A15, E04, C04

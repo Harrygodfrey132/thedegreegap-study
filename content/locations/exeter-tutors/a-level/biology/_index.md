@@ -1,7 +1,7 @@
 ---
 title: "Exeter A-Level Biology Tutors | Online | The Degree Gap"
 nav_title: "Biology"
-description: "Exeter A-Level Biology tutoring, online and one-to-one: photosynthesis, respiration and the what-if questions that link their stages. Year 12 and 13, from £37."
+description: "Has your child revised photosynthesis and still lost the marks? Our Exeter A-Level Biology tutors teach what passes between its two stages. Online, from £37."
 layout: "level-subject"
 location: "Exeter"
 level: "A-Level"
@@ -12,8 +12,8 @@ hero_lead: "Flashcards for one stage of photosynthesis, flashcards for the other
 
 angle_eyebrow: "WHAT PASSES BETWEEN THE TWO STAGES"
 angle_heading: "Why Your Child Can Learn Photosynthesis and Still Lose the Marks"
-angle_body_1: "Most revision treats photosynthesis as two separate lists. The light-dependent reaction happens on the thylakoid membranes and makes ATP and reduced NADP. The light-independent reaction happens in the stroma and uses them up. The exam leans hard on that handover. A typical question asks what would happen to the amount of GP (glycerate 3-phosphate) if the light were switched off. Your child can only answer it by knowing which molecule comes from where. Learnt as two lists, it's a guess. There's a quieter loss, too: 'thylakoid' and 'stroma' need naming, because where each stage happens is part of the mark."
-angle_body_2: "The tutor teaches the handover first and the detail second, the reverse of how it's usually revised. ATP and reduced NADP get followed from where they're made to where they're used. Then come the what-if questions: light off, carbon dioxide down, temperature up. They come up a lot, and they can't be learnt by heart. Photosynthesis usually lands in Year 13, next to respiration, which is built the same way. It's worth getting right if your child has a biosciences course at the University of Exeter in mind, or a healthcare role with the hospital trust, because both look at the Biology grade first."
+angle_body_1: "Most revision treats photosynthesis as two separate lists. The light-dependent reaction happens on the thylakoid membranes and makes ATP and reduced NADP, which the second stage runs on. The light-independent reaction happens in the stroma and uses them up. The exam leans hard on that handover. A typical question asks what would happen to glycerate 3-phosphate, a molecule made in the second stage, if the light were switched off. Your child can only answer it by knowing which molecule comes from where. Learnt as two lists, it's a guess. There's a quieter loss, too: 'thylakoid' and 'stroma' need naming, because where each stage happens is part of the mark."
+angle_body_2: "The tutor teaches the handover first and the detail second, the reverse of how it's usually revised. Your child follows ATP and reduced NADP from where they're made to where they're used. Then come the what-if questions: light off, carbon dioxide down, temperature up. They come up a lot, and they can't be learnt by heart. Photosynthesis usually lands in Year 13, next to respiration, which is built the same way. It's worth getting right if your child has a biosciences course at the University of Exeter in mind, or a healthcare role with the hospital trust. Both look at the Biology grade first."
 angle_image: "/images/fluorescent-cells-under-microscope.jpg"
 angle_image_alt: "Cells stained turquoise under a microscope, their nuclei and ragged edges picked out against a dark background"
 angle_stat_from: "B"
@@ -40,7 +40,7 @@ steps:
 
 faqs:
   - q: "Which bit of A-Level Biology do Exeter sixth formers find hardest?"
-    a: "Usually the two energy topics in Year 13, photosynthesis and respiration. Both are chains of linked stages, and the questions are mostly about the links. In photosynthesis, it's how the ATP and reduced NADP made on the thylakoids get used in the stroma. In respiration, it's how the reduced coenzymes from the earlier stages power the final stage, oxidative phosphorylation. Your child might know every stage and still struggle, because a what-if question needs the whole chain in mind at once."
+    a: "Usually the two energy topics in Year 13, photosynthesis and respiration. Both are chains of linked stages, and the questions are mostly about the links. In photosynthesis, it's how the ATP and reduced NADP made on the thylakoids get used in the stroma. In respiration, it's how the earlier stages feed the final one, oxidative phosphorylation. Your child might know every stage and still struggle, because a what-if question needs the whole chain in mind at once."
   - q: "How do I find out which topics are costing my child marks?"
     a: "Ask to see a marked mock, not just the grade on the report. Then look at where the marks went. Short recall questions right, but the longer 'explain' and 'suggest' questions weak? That usually means the ideas aren't linked up yet, which is different from not revising. Marks lost right across the paper point to gaps in the content itself. A tutor can go through the paper with your child in the first lesson and tell you which it is."
   - q: "How much will my child have to do between Biology lessons?"

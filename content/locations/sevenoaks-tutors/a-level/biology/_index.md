@@ -1,7 +1,7 @@
 ---
 title: "Sevenoaks A-Level Biology Tutors | Online | The Degree Gap"
 nav_title: "Biology"
-description: "Sevenoaks A-Level Biology tutors, online and one-to-one: stem cells, gene therapy and unfamiliar exam questions, for Year 12 and 13 aiming at A*. From £37."
+description: "Stem cell questions about a treatment your child has never met? Our Sevenoaks A-Level Biology tutors help them reason it out. Online, one-to-one, from £37."
 layout: "level-subject"
 location: "Sevenoaks"
 level: "A-Level"
@@ -12,8 +12,8 @@ hero_lead: "'We weren't taught that.' If your child has said it after a Biology 
 
 angle_eyebrow: "NEW CASE, SAME BIOLOGY"
 angle_heading: "Why Stem Cell Questions Reward Reasoning More Than Revision"
-angle_body_1: "Stem cells are a good example. Your child can probably define totipotent, pluripotent, multipotent and unipotent without thinking. The exam takes that as read. Then it describes a treatment for a condition your child has never studied and asks which kind of stem cell it would need, and why. The marks are for working out which tissues have to be made. Gene therapy works the same way. Vectors, and the difference between somatic and germ line therapy, can be learnt. But the question names a disorder and asks whether the treatment would work, and for how long, which means thinking about which cells are treated and whether they'll be replaced."
-angle_body_2: "Lessons run on cases your child hasn't seen before. Each one brings a fresh treatment to puzzle over, and your child reasons it through aloud with the tutor before drafting an answer. Bit by bit, using an idea somewhere new stops feeling like a trick. That habit counts most at the top end. Perhaps your child is at Weald of Kent, Knole Academy or Walthamstow Hall, with Medicine, vet or biosciences in mind. Offers for those courses tend to sit at A*AA or AAA. And the Year 12 prediction is the first thing they'll see."
+angle_body_1: "Take stem cells. Your child can probably define totipotent, pluripotent, multipotent and unipotent without thinking. The exam takes that as read. Then it describes a treatment for a condition your child has never studied and asks which kind of stem cell it would need, and why. The marks are for working out which tissues have to be made. Gene therapy works the same way. Vectors, and the difference between somatic and germ line therapy, can be learnt. But the question names a disorder and asks whether the treatment would work, and for how long, which means thinking about which cells are treated and whether they'll be replaced."
+angle_body_2: "Lessons run on cases your child hasn't seen before. Each one brings a fresh treatment to puzzle over, and your child reasons it through aloud with the tutor before drafting an answer. Bit by bit, using an idea somewhere new stops feeling like a trick. That habit counts most at the top end. Perhaps your child is at Weald of Kent, Knole Academy or Walthamstow Hall, with Medicine, vet or biosciences in mind. Offers for those courses tend to sit at A*AA or AAA. And the predicted grade on those applications is usually shaped by Year 12."
 angle_image: "/images/fluorescent-cells-under-microscope.jpg"
 angle_image_alt: "Turquoise cells under a microscope, with fine threads reaching out from each one"
 angle_stat_from: "B"
@@ -29,7 +29,7 @@ schools:
   - "Trinity School"
 
 steps_heading: "Getting Your Child Started With a Sevenoaks A-Level Biology Tutor"
-steps_lead: "Profiles come the day after your call. Aiming for an A*? Starting in Year 12 gives the habit time to grow."
+steps_lead: "Profiles come the day after your call. If your child's aiming for an A*, starting in Year 12 gives the habit time to grow."
 steps:
   - title: "Tell us what they're aiming for"
     body: "Harry or Joe, our co-founders, will ring for a free chat so they can get to know you and your child. They'll ask about school and exam board. Be plain about the grade, too, because holding on to an A and reaching an A* need different plans."
@@ -44,7 +44,7 @@ faqs:
   - q: "My child is taking Biology and Chemistry for Medicine. Can one tutor cover both?"
     a: "Sometimes, yes. Biology and Chemistry is the pairing that works best, because the biochemistry overlaps and each subject backs up the other in Year 13, which helps with a Medicine application. Biology alongside Maths or an essay subject usually works better with two tutors, since most tutors on our platform stick to the subjects they know best. Mention both on the call and we'll suggest what fits."
   - q: "Who's behind The Degree Gap?"
-    a: "Two childhood friends, Harry and Joe, who both had tutors as teenagers. Each of us had one excellent tutor and one fairly ordinary one, which is why we'd never simply assign someone. At A-Level we were both predicted lower than we ended up getting, and we put a lot of that down to our tutors. Harry later read Economics at the LSE. These days we interview every tutor on the platform ourselves."
+    a: "We're Harry and Joe, childhood friends who both had tutors as teenagers. Each of us had one excellent tutor and one fairly ordinary one, which is why we'd never simply assign someone. At A-Level we were both predicted lower than we ended up getting, and we put a lot of that down to our tutors. Harry later read Economics at the LSE. These days we interview every tutor on the platform ourselves."
   - q: "Is tutoring worth it if my child's already predicted a B or better?"
     a: "It depends on the gap. If your child is on a B and the Medicine or vet courses they want ask for an A or an A*, closing it changes which offers are realistic, so the case is strong. If they're already at target, a short block on one weak area makes more sense than a year of weekly lessons. We'd rather tell you that on the call than sell you lessons you don't need."
   - q: "My son says he doesn't need a tutor. He's predicted an A."
