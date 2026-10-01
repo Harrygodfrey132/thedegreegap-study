@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Sutton Coldfield GCSE Tutors, Before the Mocks Set the Predicted Grade"
 hero_heading_line2: ""
-hero_lead: "It's natural to see the winter mocks as a practice run. Yet they often shape your child's predicted grade, which sixth forms see long before results day. Sutton Coldfield GCSE tutors help your child prepare for the mocks themselves."
+hero_lead: "It's natural to see the winter mocks as a practice run. But they often shape your child's predicted grade, which sixth forms see long before results day. Sutton Coldfield GCSE tutors help your child prepare for the mocks themselves."
 
 grade_from: "5"
 grade_to: "6/7"
@@ -25,14 +25,14 @@ tutor_strip_heading: "Sutton Coldfield GCSE tutors, every one interviewed by Har
 tutor_strip_body: "Plantsbrook, John Willmott, Fairfax and The Arthur Terry don't all use one exam board, so we'll check your child's before suggesting anybody. Have a scroll through the profiles, or book a free call and let us pick."
 
 pathways_heading: "Sutton Coldfield at 16: Where Predictions Count"
-pathways_lead: "Sixth forms and colleges tend to offer places on predicted grades."
+pathways_lead: "Sixth forms and colleges usually make offers on predicted grades, then confirm them once results are in."
 pathways:
   - title: "Sixth Forms"
     body: >
       Sutton Coldfield has several school sixth forms of its own, and some families look further afield into Birmingham. Each one usually sets a grade for every A-Level subject it offers, and those figures can change from one year to the next.
   - title: "Apprenticeships"
     body: >
-      Firms across Birmingham and the wider West Midlands run schemes for school leavers, and their entry rules can shift between intakes. Your child should expect a written application, and Maths and English will almost always come up.
+      Firms across Birmingham and the wider West Midlands run schemes for school leavers, and their entry rules can shift between intakes. Your child should expect a written application, and nearly every scheme asks for Maths and English.
   - title: "Further Education"
     body: >
       Sutton Coldfield College runs many of the local T Levels and vocational courses, and there's more choice across Birmingham. Most of those courses ask for a 4 or 5 in Maths and English, and resits there are routine.
@@ -50,13 +50,13 @@ reviews:
   - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. We opted for Avery and she was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back in her abilities and gave her the confidence to face Maths GCSE exams. Highly recommend Degree Gap and will be back again in September with my youngest embarking on her GCSEs"
 
 faq_1_q: "Is it better to see how the mocks go first, then decide?"
-faq_1_a: "It's a really common plan, and it's easy to see why. The trouble is timing. Mock results feed into the predicted grade, so a disappointing one can fix the number sixth forms see before anyone's had a chance to act. If your child starts in the autumn, the work shows up in the mock itself. Plenty of families start afterwards, and it still helps, but the lessons lean more on exam technique than rebuilding."
+faq_1_a: "Usually not, though plenty of families plan it that way, and it's easy to see why. The trouble is timing. Mock results feed into the predicted grade, so a disappointing one can set the number sixth forms see before anyone's had a chance to act. If your child starts in the autumn, the work shows up in the mock itself. Starting afterwards still helps, but the lessons lean more on exam technique than on rebuilding topics."
 faq_2_q: "What would a tutor actually do before the mocks?"
-faq_2_a: "First, they'll look at recent tests or homework to see where marks are slipping. The lessons then go on those topics, with past paper questions marked the way an examiner would mark them, so your child can see exactly what earns the marks. Closer to the mocks, some of that work happens against the clock. It's one thing to know a topic and another to write it up in time, so both get practised."
+faq_2_a: "First, they'll look at recent tests or homework to see where marks are slipping. The lessons then go on those topics. Past paper questions get marked the way an examiner would mark them, so your child can see exactly what earns the marks. Closer to the mocks, some of that work happens against the clock. It's one thing to know a topic and another to write it up in time, so both get practised."
 faq_3_q: "Does my child's exam board matter?"
-faq_3_a: "Yes, quite a lot. AQA and Edexcel, for example, don't set the same papers, and schools around Sutton Coldfield aren't all on the same board. Questions are worded differently from board to board, and the papers are laid out differently too. So we'll find out your child's board first, and the tutor can get going in the first lesson instead of catching up on your time."
+faq_3_a: "Yes, quite a lot. AQA and Edexcel, for example, don't set the same papers, and schools around Sutton Coldfield aren't all on the same board. Questions are worded differently from board to board, and the papers are laid out differently too. So we'll check your child's board first, and the tutor won't spend your first few lessons catching up."
 faq_4_q: "Suppose my child doesn't take to the tutor. What then?"
-faq_4_a: "Just tell us and we'll find someone else, free of charge. Most mismatches get spotted before you've paid anything, because you'll have talked to Harry or Joe first, and your child meets the tutor in a free 15-minute video meeting. But at fifteen, how someone explains things matters as much as what they know. There's no contract and no minimum term either."
+faq_4_a: "Just tell us and we'll find someone else, free of charge. Most mismatches get spotted before you've paid anything. You'll have talked to Harry or Joe first, and your child meets the tutor in a free 15-minute video meeting. If it only shows after a few lessons, that's fine too. You're not signing a contract, and there's no minimum number of lessons."
 
 sitemap:
   priority: 0.7

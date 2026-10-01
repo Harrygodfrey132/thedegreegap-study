@@ -6,7 +6,7 @@ location: "Tamworth"
 level: "GCSE"
 
 hero_heading_line1: "Online Tamworth GCSE Tutors for the Grades Sixth Form Will Ask For"
-hero_lead: "The sixth form entry grades can come as a jolt. Most parents first read them around February of Year 11, when one subject can turn out to be a grade short. Tamworth GCSE tutors on our platform help your child get going on it sooner."
+hero_lead: "The sixth form entry grades can come as a jolt. Most parents first read them around February of Year 11, when one subject can turn out to be a grade short. Tamworth GCSE tutors on our platform help your child get going on it well before then."
 
 grade_from: "4"
 grade_to: "6"
@@ -15,27 +15,27 @@ grade_card: "aim"
 
 first_lesson_eyebrow: "ONE SIXTH FORM IN TOWN"
 first_lesson_heading: "Why Your GCSE Tutor Will Ask About Sixth Form First"
-first_lesson_context: "At Landau Forte Academy Tamworth Sixth Form, each subject has its own entry grade. Fall short in the one your child cares about most, and sixth form could mean a daily commute to Lichfield or Birmingham. So the first thing a Tamworth GCSE tutor asks is what your child hopes to study next."
+first_lesson_context: "At Landau Forte Academy Tamworth Sixth Form, each subject has its own entry grade. If your child falls short in the one they care about most, sixth form could mean a daily commute to Lichfield or Birmingham. So the first thing a Tamworth GCSE tutor asks is what your child's hoping to study next."
 first_lesson_quote: "Very good tutoring for my daughter and good communication with parents. My daughter passed both English and Maths GCSE with grades 4 and 5."
 first_lesson_quote_name: "Chris"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "GCSE"
 
 tutor_strip_heading: "Tamworth GCSE tutors chosen for how clearly they explain"
-tutor_strip_body: "Out of every 100 tutors who apply, about 3 make it onto the platform. Staffordshire schools don't all use the same exam board, so we'll check your child's before suggesting anyone. Browse at your own pace, or tell us about your child on a free call and leave the choosing to us."
+tutor_strip_body: "Out of every 100 tutors who apply, about 3 make it onto the platform. Schools across Staffordshire use different exam boards, and we'll match tutors to your child's. Browse the profiles, or tell us about your child on a free call and leave the choosing to us."
 
 pathways_heading: "Sixth Form in Tamworth, or Further Afield"
-pathways_lead: "Here's what's in town, and what's a bus or train ride away."
+pathways_lead: "What's here in town, and what's a bus or train ride away."
 pathways:
   - title: "Sixth Forms"
     body: >
       Landau Forte Academy Tamworth Sixth Form takes several hundred Year 12s, and it tends to want a bit more in Maths and the Sciences. For a subject it doesn't offer, or a missed grade, families look further out to Lichfield, Burton or Birmingham.
   - title: "Apprenticeships"
     body: >
-      Logistics and engineering firms on the town's business parks take apprentices every year, and Birmingham is a train ride away. Expect them to ask about Maths and English, plus a Science for anything technical.
+      Logistics and engineering firms on the town's business parks take on apprentices each year, and Birmingham is a train ride away. They'll usually ask about Maths and English, plus a Science for anything technical.
   - title: "Further Education"
     body: >
-      South Staffordshire College runs vocational Level 3 courses, with more on offer at Burton and Lichfield. With a 3 or lower in Maths or English, your child would usually keep working on it there as well.
+      South Staffordshire College runs vocational courses at the same level as A-Levels, with more on offer at Burton and Lichfield. With a 3 or lower in Maths or English, your child would usually keep working on it there as well.
 
 reviews:
   - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."

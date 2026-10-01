@@ -5,7 +5,7 @@ layout: "subject"
 location: "Sunbury-on-Thames"
 level: "GCSE"
 
-hero_heading_line1: "GCSE Tutors in Sunbury-on-Thames, Online, for the Question Your Child Didn't Want to Ask"
+hero_heading_line1: "Online GCSE Tutors in Sunbury-on-Thames for the Question Your Child Didn't Want to Ask"
 hero_heading_line2: ""
 hero_lead: "Most children won't say 'I don't get it' with the whole class listening. So the question goes unasked, and the next topic arrives before the last one's made sense. Our Sunbury-on-Thames GCSE tutors offer an hour where asking costs your child nothing."
 
@@ -22,20 +22,20 @@ first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to Grade 6/7 in English"
 
 tutor_strip_heading: "Sunbury-on-Thames GCSE tutors who make asking feel easy"
-tutor_strip_body: "Sunbury Manor, The Bishop Wand, Three Rivers Academy and the schools over towards Hampton aren't all on one exam board, so tell us your child's and we'll match to it. We interview every tutor ourselves. Scroll through the profiles, or have a chat with us and we'll pick."
+tutor_strip_body: "Sunbury Manor, The Bishop Wand, Three Rivers Academy and the schools over towards Hampton aren't all on one exam board. Tell us your child's, and we'll match to it. We interview every tutor ourselves. Scroll through the profiles, or have a chat with us and we'll pick."
 
 pathways_heading: "What's Within Reach of Sunbury-on-Thames After Year 11"
 pathways_lead: "Most of these involve some travel, so it's worth looking early."
 pathways:
   - title: "Sixth Forms"
     body: >
-      Several schools near Sunbury have sixth forms of their own, and lots of teenagers travel to sixth forms and colleges elsewhere in Surrey or in the neighbouring boroughs. What each one asks for differs and gets revised between years, so it's this year's figure for the particular A-Level that counts.
+      Several schools near Sunbury have sixth forms of their own, and lots of teenagers travel to sixth forms and colleges elsewhere in Surrey or in the neighbouring boroughs. Their entry grades differ and can change yearly, so check this year's for the A-Levels your child has in mind.
   - title: "Apprenticeships"
     body: >
       Along the Thames corridor, and further in towards west London, employers take on apprentices straight from school, with degree apprenticeships an option later. Each sets its own requirements, but Maths and English crop up on nearly every one, often alongside a written application.
   - title: "Further Education"
     body: >
-      Most of the practical Level 3 courses, T Levels included, are at Brooklands College or one of the other colleges in reach. Grades of 4 or 5 in Maths and English get your child onto the bulk of them, and anyone who falls short on one gets a second go through a resit.
+      Most of the practical courses after GCSEs, T Levels included, are at Brooklands College or one of the other colleges in reach. Grades of 4 or 5 in Maths and English get your child onto the bulk of them, with a resit alongside if one falls short.
 
 reviews:
   - "Alex|University Student|Can’t recommend The Degree Gap highly enough. Quick and helpful responses from Harry. He immediately matched me with a very competent tutor, who was a massive help in helping me exceed my target grade and achieve a first class degree at university."
@@ -54,7 +54,7 @@ faq_1_a: "Mostly, it's who's listening. In a full classroom, a child who's lost 
 faq_2_q: "What if my child's scared a tutor will make them feel stupid?"
 faq_2_a: "That's a really common worry, and it tends to go once they've met the tutor. You could tell them it's just them and one other person, with nobody watching, and that the tutor's whole job is finding the bits that didn't make sense. They'll meet the tutor on a free 15-minute video meeting first, too, before you've booked a thing. And if they still don't hit it off, we'll find another tutor, free of charge."
 faq_3_q: "We live in Shepperton. Can you still help?"
-faq_3_a: "Yes, easily. Every lesson is online, so Shepperton, Ashford, Walton or Sunbury itself makes no difference. It all happens on Lessonspace, which works like a shared online whiteboard, and there's a recording of every lesson to look back at. Families round here send their children to schools in several different boroughs, so we match on the exam board, not on who lives closest."
+faq_3_a: "Yes, easily. Every lesson is online, so Shepperton, Ashford, Walton or Sunbury itself makes no difference. It all happens on Lessonspace, which works like a shared online whiteboard, and there's a recording of every lesson your child can watch again. Families round here send their children to schools in several different boroughs, so we match on the exam board, not on who lives closest."
 faq_4_q: "How much is it, and is there a minimum number of lessons?"
 faq_4_a: "It's from £37 an hour, depending on which tutor your child ends up with, and the rate's confirmed before any booking. No minimum, no contract, and you can take a break or stop whenever it suits. Talking to Harry or Joe first is free, and within 24 hours of that chat you'll have two or three tutor profiles to compare."
 

@@ -7,14 +7,14 @@ level: "GCSE"
 
 hero_heading_line1: "Online GCSE Tutors in Hatfield: Plenty of Effort, but the Grade Won't Budge"
 hero_heading_line2: ""
-hero_lead: "Your child's at the desk most evenings, and two reports running have shown the same grade. You're far from alone in that. Hatfield GCSE tutors start with a recent marked paper, which shows where the marks are going."
+hero_lead: "Your child's at the desk most evenings, and two reports running have shown the same grade. It's the conversation we have most often with parents here. Our Hatfield GCSE tutors start with a recent marked paper, which shows where the marks are going."
 
 grade_from: "E"
 grade_to: "B"
 grade_stat: "Keira's words, not ours: an E that became a B at GCSE. The full quote's a little further down this page."
 
 first_lesson_eyebrow: "EFFORT IN, SAME GRADE OUT"
-first_lesson_heading: "What a Hatfield GCSE Tutor Looks For on a Marked Paper"
+first_lesson_heading: "The Marked Paper a Hatfield GCSE Tutor Reads First"
 first_lesson_context: "A school report sums up a whole term in a grade and a sentence or two. A marked paper shows which questions cost the marks, and a question left blank tells a tutor something different from one answered wrongly. So a Hatfield GCSE tutor reads one before planning a single lesson."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
@@ -22,20 +22,20 @@ first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "An E to a B at GCSE"
 
 tutor_strip_heading: "Hatfield GCSE tutors, chosen once we know your child's board"
-tutor_strip_body: "Onslow St Audrey's, Bishop's Hatfield Girls', Ridgeway Academy and Monk's Walk don't all teach the same specification, so we'll ask which one your child's on. Harry and Joe interview every tutor, and only about 3% of applicants get through. Browse below, or we can choose for you."
+tutor_strip_body: "We'll ask which exam board your child's on, since Onslow St Audrey's, Bishop's Hatfield Girls', Ridgeway Academy and Monk's Walk don't all use the same one. Harry and Joe interview every tutor, and only about 3% get through. Browse below, or we can choose for you."
 
 pathways_heading: "What's Next for Hatfield Year 11s"
-pathways_lead: "Worth knowing early, as nearly all of them ask about Maths and English."
+pathways_lead: "Nearly every route here asks about Maths and English, so it helps to know early."
 pathways:
   - title: "Sixth Forms"
     body: >
-      Several schools around Hatfield keep their own sixth forms, and you'll find more in St Albans and Welwyn Garden City. Requirements change from one year to the next, but for an A-Level your child will usually need a good grade in that subject already.
+      You'll find school sixth forms around Hatfield, and more in St Albans and Welwyn Garden City. Requirements change from one year to the next, but for an A-Level your child will usually need a good grade in that subject already.
   - title: "Apprenticeships"
     body: >
-      Employers along the A1 corridor and on the business parks take on school leavers, and each one sets fresh requirements for every intake. Maths and English are on nearly every list, and there's usually a written application too.
+      Employers along the A1 corridor and on the business parks take on school leavers, and each one sets its own requirements. Maths and English are on nearly every list, and there's usually a written application too.
   - title: "Further Education"
     body: >
-      Oaklands College runs a lot of the local T Levels and other Level 3 courses, and the University of Hertfordshire is right on the doorstep for later on. A solid 4 or 5 in Maths and English opens up most of those courses.
+      Oaklands College runs a lot of the local T Levels and other courses equivalent to A-Levels, and the University of Hertfordshire is right on the doorstep for later on. A solid 4 or 5 in Maths and English opens up most of those courses.
 
 reviews:
   - "Veronica|Parent|Very useful information and tips!! For parents as it was mentioned in the session it would be good to provide one for the students as general guidance !!"
@@ -50,7 +50,7 @@ reviews:
   - "Ali|Grandparent|Harry did an amazing job helping my grandson who was struggling with his economics work. Thank you again, Harry, for all your hard work."
 
 faq_1_q: "She's revising every night and the grade hasn't moved all year. Why?"
-faq_1_a: "Usually it's what the time goes on, not how much of it there is. Notes she already understands feel safe to reread, and it looks like work, so that's where most revision drifts. A tutor marks a recent paper to find the question types that keep costing her marks, then puts the lessons there. Often she'll end up revising for less time, not more. Most families are quite relieved to hear that."
+faq_1_a: "Usually it's what the time goes on, not how much of it there is. Notes she already understands feel safe to reread, and it looks like work, so that's where most revision drifts. A tutor marks a recent paper to find the question types that keep costing her marks, then puts the lessons there. Often she'll end up revising for less time than she does now. Most families are quite relieved to hear that."
 faq_2_q: "We're already in Year 11. Have we left it too late?"
 faq_2_a: "No. Plenty of families start in Year 11, and there's still time to make progress. The plan just looks different. There isn't as long to put shaky topics right, so it leans more on exam technique and past papers. If you've a younger child coming up behind, Year 10 gives more breathing room, because the gaps are smaller then and haven't had a year to pile up."
 faq_3_q: "What's it like having lessons online?"

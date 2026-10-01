@@ -13,29 +13,29 @@ grade_from: "E"
 grade_to: "B"
 grade_stat: "From an E to a B at GCSE. Keira put it in one line, and we've kept it word for word."
 
-first_lesson_eyebrow: "ONE SUBJECT OFF THE PILE"
+first_lesson_eyebrow: "ONE SUBJECT AT A TIME"
 first_lesson_heading: "How a Warwick GCSE Tutor Makes Year 11 Feel Smaller"
-first_lesson_context: "Warwick families often have more than one route in view for next year, and those choices land in the same months as the mocks. A GCSE tutor can't shorten that list. But they can take one subject, find where it's leaking marks, and turn it into a plan your child can see the end of."
+first_lesson_context: "Warwick families often have more than one route in view for next year, and those choices land in the same months as the mocks. A GCSE tutor can't make those decisions go away. But they can take one subject, find where it's leaking marks, and turn it into a plan your child can see the end of."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "An E to a B at GCSE"
 
 tutor_strip_heading: "Warwick GCSE tutors who go by the actual mark scheme"
-tutor_strip_body: "Myton, Aylesford, Campion and the sixth forms at Warwick School and King's High use a mix of exam boards, so your child's board comes first when we match. Harry or Joe interviewed every tutor on the platform. Have a browse, or ask us to pick two or three."
+tutor_strip_body: "Myton, Aylesford, Campion, Warwick School and King's High use a mix of exam boards, so your child's board comes first when we match. Harry or Joe interviewed every tutor on the platform. Have a browse, or ask us to pick two or three."
 
 pathways_heading: "Warwick After GCSEs: More Than One Way On"
 pathways_lead: "Seen side by side, the options feel a lot less daunting."
 pathways:
   - title: "Sixth Forms"
     body: >
-      Myton, King's High and Warwick School each run a sixth form, and there are more at schools around Warwick and Leamington. Requirements are set course by course and get revised, so it's the grade for the A-Level your child wants that matters, not just the headline figure.
+      Myton, King's High and Warwick School each run a sixth form, and there are more at schools around Warwick and Leamington. Requirements are set course by course and get revised, so it's the grade for the A-Level your child wants that matters, not just the overall entry grades.
   - title: "Apprenticeships"
     body: >
       Across south Warwickshire, engineering and automotive firms recruit school leavers, some onto degree apprenticeships later. Each one sets its own bar, but it's rare to find one that doesn't mention Maths and English, and many ask for a written application on top.
   - title: "Further Education"
     body: >
-      Warwickshire College Group teaches T Levels and other vocational Level 3 courses on its Warwick and Leamington sites. A 4 or 5 in Maths and English will get your child onto most of those, and resitting one of them there is common.
+      Warwickshire College Group teaches T Levels and other vocational courses on its Warwick and Leamington sites. A 4 or 5 in Maths and English will get your child onto most of those, and resitting one of them there is common.
 
 reviews:
   - "Sarom|Parent of A-Level Student|Harry has been very helpful in tutoring my son for his economics A Level. He has lots of patience, keeps lessons interesting and is a good motivator. Needless to say his subject matter is expertise is excellent."
@@ -52,11 +52,11 @@ reviews:
 faq_1_q: "A few subjects are wobbling. Which should we start with?"
 faq_1_a: "Usually the one your child is most worried about, or the one their next step depends on. If a sixth form course or an apprenticeship asks for a certain grade in Maths, say, that's a sensible place to begin. Harry or Joe can help you weigh it up on the first call, and talk through subject choices for next year while you're at it. Starting with one subject also keeps the week manageable, which matters in Year 11."
 faq_2_q: "Will the lessons use real past papers, or just go over topics?"
-faq_2_a: "A mix, and the balance depends on your child. Knowing a topic and writing about it under exam conditions are different skills, so past papers do a lot of the work, marked against the board's own mark scheme so it's clear where each mark went. If a topic never really went in, the tutor teaches it properly first. Nearer the exams, it's mostly past papers."
+faq_2_a: "A mix, and the balance depends on your child. Knowing a topic and writing about it under exam conditions are different skills, so past papers do a lot of the work. Each one's marked against the board's own mark scheme, so it's clear where every mark went. If a topic never really went in, the tutor goes back over it first. Nearer the exams, it's mostly past papers."
 faq_3_q: "The predicted grade is below what the sixth form wants. Can that change?"
 faq_3_a: "It can, though not on its own. Teachers base predictions on what they see in class and in mocks, so it's the work in that subject that has to move first. The tutor puts the lessons where your child is losing the most marks, which gives the next mock the best chance of telling a different story. Nobody can promise a grade, but a predicted grade isn't fixed."
-faq_4_q: "And if it isn't working after a few weeks?"
-faq_4_a: "That's fine to raise at any point. Let us know and we'll introduce another tutor, and the switch costs nothing. Sometimes it just takes a different way of explaining things. You're not tied into anything, either, so nobody's stuck with a tutor who isn't right for them. It's also why your child meets the tutor on a free 15-minute video meeting before anything's booked, as plenty of mismatches show up right there."
+faq_4_q: "What if it isn't working after a few weeks?"
+faq_4_a: "Let us know and we'll introduce another tutor, and the switch costs nothing. It's fine to raise at any point, and sometimes it just takes a different way of explaining things. You're not tied into anything, either, so nobody's stuck with a tutor who isn't right for them. It's also why your child meets the tutor on a free 15-minute video meeting before anything's booked, as plenty of mismatches show up right there."
 
 sitemap:
   priority: 0.7

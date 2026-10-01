@@ -25,17 +25,17 @@ tutor_strip_heading: "GCSE tutors for Banbury and the villages around it"
 tutor_strip_body: "Between The Warriner, Chenderit, Blessed George Napier and North Oxfordshire Academy, there's more than one exam board in play, and we match tutors to the one your child sits. Our interviews let through only around 3% of tutors who apply. Browse the profiles, or leave it with us."
 
 pathways_heading: "Once the GCSEs Are Done: Options Around Banbury"
-pathways_lead: "Best looked at in Year 10, while there's still time to aim."
+pathways_lead: "Handy to look at in Year 10 or early in Year 11, so your child knows what they're aiming for."
 pathways:
   - title: "Sixth Forms"
     body: >
       A number of schools in and around Banbury run sixth forms, while some teenagers head further afield, towards Oxford or into Warwickshire. Entry grades are up to each sixth form and don't stay fixed, but an A-Level course will normally want a good GCSE grade in that same subject.
   - title: "Apprenticeships"
     body: >
-      Around Banbury, engineering and manufacturing firms take on school leavers as apprentices, each with requirements of its own that get updated between intakes. Nearly all of them mention Maths and English, and most include a written application as well.
+      Engineering and manufacturing firms around Banbury take on school leavers as apprentices, each with requirements of its own that get updated between intakes. Nearly all of them mention Maths and English, and most include a written application as well.
   - title: "Further Education"
     body: >
-      For T Levels and vocational courses at Level 3, the main local option is Banbury and Bicester College. Most of its courses open up once your child has a 4 or 5 in Maths and English, and if one falls short, resitting it alongside the course is common.
+      For T Levels and other practical alternatives to A-Levels, the main local option is Banbury and Bicester College. Most of its courses open up once your child has a 4 or 5 in Maths and English, and if one falls short, resitting it alongside the course is common.
 
 reviews:
   - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
@@ -50,7 +50,7 @@ reviews:
   - "Priya|Parent of GCSE Student|Thank you to Harry and Joe for a very informative webinar on a parent's guide to supporting GCSE success. Great advice and tips given and they sent useful free resources by email which my daughter will use to help with her upcoming exams."
 
 faq_1_q: "How often would my child have lessons, and for how long?"
-faq_1_a: "Usually one hour a week. A steady weekly lesson with a clear plan does more than a flurry of sessions before a test, and it fits around the rest of the week far more easily. It also leaves your child a few days between lessons to try things on their own, which is often when it starts to stick. The rhythm's the same in Year 11. What changes is what goes into each hour."
+faq_1_a: "Usually one hour a week. A steady weekly lesson with a clear plan does more than a flurry of sessions before a test, and it fits around the rest of the week far more easily. It also leaves your child a few days between lessons to try things on their own, which is often when it starts to stick. It works the same way if your child's already in Year 11, and plenty of families start then. What changes is what goes into each hour."
 faq_2_q: "We live out in one of the villages. Is that a problem?"
 faq_2_a: "No problem at all. Every lesson happens online, so a home in Bloxham, Adderbury, Deddington or out towards Brackley works just as well as a house in the centre of Banbury. Your child logs in to Lessonspace, the online platform we use, and shares a whiteboard with the tutor, and you can replay any lesson afterwards. And you won't be driving anywhere after school, which matters when home's a few miles out."
 faq_3_q: "What do lessons cost, and are we locked in?"

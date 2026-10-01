@@ -37,7 +37,7 @@ pathways:
       The Metropolitan line brings London employers within reach, and there are technology and pharmaceutical firms across the Chilterns and out along the M40. Whatever the role, your child's Maths and English grades are usually the first thing they'll look at.
   - title: "Further Education"
     body: >
-      Buckinghamshire College Group runs Level 3 vocational courses, including at its Amersham campus, and London colleges are a realistic train ride away for anything more specialised. A grade under 4 in Maths or English won't close the door, but it does mean carrying on with that subject after 16.
+      Buckinghamshire College Group runs vocational alternatives to A-Levels, including at its Amersham campus, and London colleges are a realistic train ride away for anything more specialised. A grade under 4 in Maths or English won't close the door, but it does mean carrying on with that subject after 16.
 
 reviews:
   - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry, who listened to her needs and gave us a selection of tutors to choose from. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
@@ -54,7 +54,7 @@ reviews:
   - "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
 
 faq_1_q: "His teachers say he's doing fine. Am I fussing over nothing?"
-faq_1_a: "Probably not, and the school may well be right too. 'Fine' tends to mean fine compared with the rest of the class. It doesn't tell you whether he's on course for the grade his sixth form subject needs. At the next parents' evening, try asking where in a paper he drops the most marks, and how far his last mock was from the next grade up. Those two answers will tell you a lot."
+faq_1_a: "Probably not, and the school may well be right too. 'Fine' tends to mean fine compared with the rest of the class. It doesn't tell you whether he's on course for the grade he'll need for the A-Levels he wants. At the next parents' evening, try asking where in a paper he drops the most marks, and how far his last mock was from the next grade up. Those two answers will tell you a lot."
 faq_2_q: "Is online tutoring OK for a child with dyslexia or ADHD?"
 faq_2_a: "Yes, and it can suit them really well. We'll ask about it on the call, so you don't have to bring it up, and several tutors on our platform regularly teach children who learn differently. In Lessonspace, the online classroom we use, nothing gets wiped off the whiteboard, and each step can go as slowly as your child needs. There's a replay of every lesson too, so nothing has to stick first time."
 faq_3_q: "Chesham has grammars and upper schools. Does that change what the tutor does?"

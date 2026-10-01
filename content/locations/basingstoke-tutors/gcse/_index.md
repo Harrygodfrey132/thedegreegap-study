@@ -1,6 +1,6 @@
 ---
 title: "Basingstoke GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "Basingstoke GCSE tutors, online and one-to-one, for the child who knows the work but loses marks on paper. Written answers marked every week, from £37 an hour."
+description: "Does your child know the work but lose marks on paper? Our Basingstoke GCSE tutors mark a written answer every week, online and one-to-one, from £37 an hour."
 layout: "subject"
 location: "Basingstoke"
 level: "GCSE"
@@ -10,21 +10,21 @@ hero_lead: "Ask your child about photosynthesis over tea and they can explain th
 
 grade_from: "4"
 grade_to: "6"
-grade_stat: "What a school year of weekly lessons, each ending with an answer to mark, is aimed at. A goal, not a promise."
+grade_stat: "Where weekly lessons are heading, with an answer to mark at the end of each one. A goal, not a promise."
 grade_card: "aim"
 
 first_lesson_eyebrow: "WHERE THE MARKS GO MISSING"
 first_lesson_heading: "Why a GCSE Tutor Starts With Your Child's Writing"
-first_lesson_context: "Good knowledge and disappointing marks come up more than anything else when Basingstoke parents call, and the longer written answers are usually why. A big year group just doesn't leave time to hand each one back with every lost mark explained, however good the teaching. So a GCSE tutor marks something your child wrote recently, line by line, and the following week's answer shows whether it's gone in."
+first_lesson_context: "The thing Basingstoke parents mention most is a child who knows the work but doesn't get the marks, and the longer written answers are usually why. A big year group just doesn't leave time to hand each one back with every lost mark explained, however good the teaching. So a GCSE tutor marks something your child wrote recently, line by line, and the following week's answer shows whether it's gone in."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of working with Malvina, he has improved from a grade 5 to a 6/7."
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "GCSE"
 
 tutor_strip_heading: "Basingstoke GCSE tutors who'll mark your child's long answers"
-tutor_strip_body: "Hampshire schools use AQA, Edexcel or OCR, and each board marks long answers differently, so we'll ask which one your child sits. We interview every tutor ourselves, and only about 3% of applicants get through. Browse the profiles, or book a free call and we'll pick two or three."
+tutor_strip_body: "Long answers are marked to each board's own scheme, so we'll check whether your child sits AQA, Edexcel or OCR. We interview every tutor ourselves, and only about 3% of applicants get through. Browse the profiles, or book a free call and we'll pick two or three."
 
-pathways_heading: "Where Basingstoke Teenagers Head After GCSEs"
+pathways_heading: "The Choices Open to Basingstoke Teenagers After GCSEs"
 pathways_lead: "Here's where your child could go next, and what to check."
 pathways:
   - title: "Sixth Forms"
@@ -35,7 +35,7 @@ pathways:
       Basingstoke's technology, manufacturing and professional-services firms take on apprentices, and there are more across north Hampshire and the Thames Valley. Most want to see a set grade in Maths and English first, and the technical routes often ask about Science too.
   - title: "Further Education"
     body: >
-      If your child would rather learn by doing, Basingstoke College of Technology runs Level 3 courses in engineering, digital, health and business. And if Maths or English lands below a 4, they'll normally keep studying it after 16.
+      If your child would rather learn by doing, Basingstoke College of Technology runs courses at A-Level standard in engineering, digital, health and business. And if Maths or English lands below a 4, they'll normally keep studying it after 16.
 
 reviews:
   - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of working with Malvina, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons and has learned strategies that help him approach English in a way that resonates with him."

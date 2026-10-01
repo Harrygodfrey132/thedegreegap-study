@@ -22,7 +22,7 @@ first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to Grade 6/7 in English"
 
 tutor_strip_heading: "Welwyn Garden City GCSE tutors who don't mind going back"
-tutor_strip_body: "Exam boards vary between Monk's Walk, Sir Frederic Osborn, Stanborough and The Heathcote, so we'll ask about your child's. Only about 3% of tutors who apply get onto the platform. Have a browse, or we'll suggest two or three."
+tutor_strip_body: "Exam boards vary between Monk's Walk, Sir Frederic Osborn, Stanborough and The Heathcote, so we'll ask about your child's. Only about 3% of tutors who apply get onto the platform. Look through the profiles yourself, or we'll suggest two or three."
 
 pathways_heading: "Welwyn Garden City at 16: Three Ways Forward"
 pathways_lead: "The good news is that none of them is far from home."
@@ -32,10 +32,10 @@ pathways:
       Your child could choose one of several sixth forms in and around Welwyn Garden City, or look at others in Hatfield and St Albans. Each publishes its own entry grades, and the subject they want to carry on with usually has its own bar too.
   - title: "Apprenticeships"
     body: >
-      Some of the large employers with headquarters in and around the town take on school leavers, and their requirements can shift from one intake to the next. Most want to see Maths and English, and your child will usually need to fill in an application too.
+      Some of the large employers with headquarters in and around the town recruit school leavers, and what they ask for can change between intakes. Most want to see Maths and English, and your child will usually need to fill in an application too.
   - title: "Further Education"
     body: >
-      Locally, a lot of the T Levels and vocational Level 3 courses are run by Oaklands College. Your child will usually need a 4 or 5 in Maths and English, and a resit alongside the course is common for anyone who falls short first time.
+      Locally, a lot of the T Levels and hands-on courses are run by Oaklands College. Your child will usually need a 4 or 5 in Maths and English, and a resit alongside the course is common for anyone who falls short first time.
 
 reviews:
   - "Heidi|Parent|Emir, is simply amazing with our daughter. He 'gets' her totally, her sessions are helping her with her school work so much. We can't thank him enough ! Harry and Joe are always on hand should you need anything. Degreegap is an excellent company to work with, lots of excellent tutors avaliable to teach different subjects, great availability, very reasonably priced. Would highly recommend."
@@ -50,13 +50,13 @@ reviews:
   - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. We opted for Avery and she was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back in her abilities and gave her the confidence to face Maths GCSE exams. Highly recommend Degree Gap and will be back again in September with my youngest embarking on her GCSEs"
 
 faq_1_q: "My child can't tell me what they're stuck on. How will a tutor find it?"
-faq_1_a: "That's completely normal. If your child could name it, they'd probably have fixed it by now. A recent marked mock does the talking instead. Where the lost marks bunch up shows whether it's a topic that never went in or something more about exam technique, and those need different plans. That's the first lesson's job, and it's why we'll ask you for a mock rather than a report when you first get in touch."
+faq_1_a: "A recent marked mock usually does the talking instead. Lots of children can't put it into words, and if they could, they'd probably have fixed it by now. Where the lost marks bunch up shows whether it's a topic that never went in or something more about exam technique, and those need different plans. That's the first lesson's job, and it's why we'll ask you for a mock rather than a report when you first get in touch."
 faq_2_q: "Isn't Year 10 a bit early for a tutor?"
 faq_2_a: "Not at all, and it's often the best time to start. The work steps up in Year 10, but any gaps are still small and quick to close. Leave them a year and they tend to stack up, then show all at once in a mock. Year 11 works too, and lots of families start then. You'll just find the plan tilts towards past papers, with less time to go right back to basics."
 faq_3_q: "Is the tutor matched to my child's board?"
 faq_3_a: "Yes. It's one of the first things we'll ask, because schools around Welwyn Garden City and Hatfield are split between boards. Each board words its questions in its own way, and the mark schemes differ too. So every tutor we suggest will already know your child's board, and the first lesson is spent on your child rather than on the tutor catching up."
 faq_4_q: "Can we swap tutors if it's not working?"
-faq_4_a: "Yes, at any point, and it won't cost you anything. We'll simply line up someone new. A mismatch is usually caught early, because you talk to Harry or Joe before we suggest anyone, and your child gets a free 15-minute video meeting to try the tutor out before you pay for a lesson. But a profile can only tell you so much, and at fifteen the way someone explains things really matters. You're not tied in, either. No contract, no minimum term."
+faq_4_a: "Yes, at any point, and it won't cost you anything. We'll simply line up someone new. A mismatch usually shows up early. You speak to Harry or Joe before we suggest anyone, and your child tries the tutor out on a free 15-minute video meeting before you pay for a lesson. But a profile can only tell you so much, and at fifteen the way someone explains things really matters. You're not tied in, either. No contract, no minimum term."
 
 sitemap:
   priority: 0.7
