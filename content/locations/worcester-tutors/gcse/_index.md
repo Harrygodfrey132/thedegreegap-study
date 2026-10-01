@@ -12,6 +12,7 @@ hero_lead: "You've had the meeting with the teacher, drawn up the revision timet
 grade_from: "4"
 grade_to: "6"
 grade_stat: "A 4 to a 6 is what the weekly work aims for once the older gap's found, though nobody can promise a grade."
+grade_card: "aim"
 
 first_lesson_eyebrow: "INSIDE A WORCESTER FIRST SESSION"
 first_lesson_heading: "What a Worcester GCSE Tutor Looks for Behind 'Patchy Understanding'"

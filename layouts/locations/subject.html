@@ -77,8 +77,14 @@
       </div>
 
       <div class="loc-hero__image" aria-hidden="true">
+        {{/* The card quotes a real review by default, so the labels say where
+             that child started and finished, which is all the reviews tell us.
+             grade_card: aim is for the few older hubs whose card isn't backed
+             by a review: there the caption describes an aim, and so do the
+             labels. Never "Predicted" and "Achieved" unless a review says so. */}}
+        {{ $aimCard := eq .Params.grade_card "aim" }}
         <div class="gs-grade-card">
-          <div class="gs-grade-card__label">Predicted grade</div>
+          <div class="gs-grade-card__label">{{ if $aimCard }}Where many start{{ else }}Where they started{{ end }}</div>
           <div class="gs-grade-card__num gs-grade-card__num--before">{{ $gradeFrom }}</div>
           <div class="gs-grade-card__arrow">
             <svg width="32" height="32" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -86,7 +92,7 @@
             </svg>
           </div>
           <div class="gs-grade-card__num gs-grade-card__num--after">{{ $gradeTo }}</div>
-          <div class="gs-grade-card__label gs-grade-card__label--after">Achieved grade</div>
+          <div class="gs-grade-card__label gs-grade-card__label--after">{{ if $aimCard }}What the lessons aim for{{ else }}Where they got to{{ end }}</div>
           <p class="gs-grade-card__stat">{{ $gradeStat }}</p>
         </div>
       </div>

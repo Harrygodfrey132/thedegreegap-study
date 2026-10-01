@@ -12,6 +12,7 @@ hero_lead: "Stalled marks at A-Level usually come from one of two gaps. Below an
 grade_from: "B"
 grade_to: "A*"
 grade_stat: "A year of weekly lessons can aim to take your child from B to A*: any missing content first, then the judgement the top grade needs."
+grade_card: "aim"
 
 first_lesson_eyebrow: "THE WORK BEHIND THE TOP BAND"
 first_lesson_heading: "What a Stratford-upon-Avon A-Level Tutor Marks Line by Line"

@@ -12,6 +12,7 @@ hero_lead: "Your child might be set on university, or on a degree apprenticeship
 grade_from: "D"
 grade_to: "B"
 grade_stat: "The kind of climb two years of weekly lessons is aimed at, from a D to a B. A goal, not a promise."
+grade_card: "aim"
 
 first_lesson_eyebrow: "WHERE YEAR 12 GOES WRONG"
 first_lesson_heading: "The Step Up From GCSE, and How a Stevenage A-Level Tutor Helps"

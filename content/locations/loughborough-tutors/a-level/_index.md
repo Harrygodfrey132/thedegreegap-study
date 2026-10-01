@@ -12,6 +12,7 @@ hero_lead: "Two of your child's predictions look fine, and the third is a band s
 grade_from: "B"
 grade_to: "A"
 grade_stat: "B to A: what a year of weekly lessons usually aims for when one subject is holding the application back."
+grade_card: "aim"
 
 first_lesson_eyebrow: "ONE SUBJECT, NOT THREE"
 first_lesson_heading: "Why a Loughborough A-Level Tutor Often Starts With Just One Subject"

@@ -11,6 +11,7 @@ hero_lead: "Good GCSEs, then a D on the first Year 12 essay. If your child's won
 grade_from: "C"
 grade_to: "A"
 grade_stat: "C to A is a big step. It's what steady one-to-one work through Year 12 and 13 is built around, though it's never a promise."
+grade_card: "aim"
 
 first_lesson_eyebrow: "STRONG GCSES, SHAKY START"
 first_lesson_heading: "The A-Level Tutor Who Shows Your Child What's Changed"

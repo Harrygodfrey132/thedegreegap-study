@@ -11,6 +11,7 @@ hero_lead: "A disappointing mock can hang over the whole house. It happens to mo
 grade_from: "C"
 grade_to: "A"
 grade_stat: "A C in the mocks, an A on results day: that's the turnaround weekly lessons work towards."
+grade_card: "aim"
 
 first_lesson_eyebrow: "THE WEEK THE MOCKS COME BACK"
 first_lesson_heading: "The Mock Paper Is Where an A-Level Tutor Starts"

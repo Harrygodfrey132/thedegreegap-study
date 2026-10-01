@@ -11,6 +11,7 @@ hero_lead: "In class, your child follows every worked example. At home, they get
 grade_from: "C"
 grade_to: "A"
 grade_stat: "Two grades across a year is the aim of the weekly lessons, once someone's watching the method as well as the answer. Where your child starts decides the pace."
+grade_card: "aim"
 
 first_lesson_eyebrow: "THE WORKING, AS IT HAPPENS"
 first_lesson_heading: "An A-Level Tutor Who Sees Every Step"

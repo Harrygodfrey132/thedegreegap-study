@@ -12,6 +12,7 @@ hero_lead: "By Year 11 most Colchester families have a sixth form or college cou
 grade_from: "4"
 grade_to: "6"
 grade_stat: "Moving from a 4 to a 6 is what a steady run of weekly lessons is aimed at here, though nobody can promise a grade."
+grade_card: "aim"
 
 first_lesson_eyebrow: "INSIDE A COLCHESTER FIRST SESSION"
 first_lesson_heading: "Same Exam, Different Starting Points: Colchester GCSE Tutoring"

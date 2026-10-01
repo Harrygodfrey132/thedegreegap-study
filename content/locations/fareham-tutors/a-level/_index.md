@@ -11,6 +11,7 @@ hero_lead: "The predicted grade came home lower than the course asks for, and yo
 grade_from: "C"
 grade_to: "A"
 grade_stat: "What weekly lessons through Year 12 and into Year 13 are built to work towards. The tutor will tell you plainly how it's going along the way."
+grade_card: "aim"
 
 first_lesson_eyebrow: "TWO ROUTES, ONE SET OF GRADES"
 first_lesson_heading: "The Subject a Fareham A-Level Tutor Starts With"

@@ -12,6 +12,7 @@ hero_lead: "Maybe nothing's gone wrong yet, but you can see Year 11 coming and y
 grade_from: "5"
 grade_to: "7"
 grade_stat: "An early start leaves room to aim for a 5 becoming a 7. We'd never promise it, but that's the kind of climb the extra time allows."
+grade_card: "aim"
 
 first_lesson_eyebrow: "WHY THE EARLY START CHANGES THINGS"
 first_lesson_heading: "What Two Years With a GCSE Tutor Buys That Two Terms Can't"

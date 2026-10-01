@@ -12,6 +12,7 @@ hero_lead: "Folders of notes, a mock on the way, and your child can't see where 
 grade_from: "B"
 grade_to: "A"
 grade_stat: "B to A is what weekly lessons aim for when your child knows the course but the marks haven't caught up."
+grade_card: "aim"
 
 first_lesson_eyebrow: "THE PILE ON THE DESK"
 first_lesson_heading: "A Chesham A-Level Tutor Starts by Shrinking the To-Do List"

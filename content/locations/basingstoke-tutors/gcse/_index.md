@@ -11,6 +11,7 @@ hero_lead: "Ask your child about photosynthesis over tea and they can explain th
 grade_from: "4"
 grade_to: "6"
 grade_stat: "What a school year of weekly lessons, each ending with an answer to mark, is aimed at. A goal, not a promise."
+grade_card: "aim"
 
 first_lesson_eyebrow: "WHERE THE MARKS GO MISSING"
 first_lesson_heading: "Why a GCSE Tutor Starts With Your Child's Writing"

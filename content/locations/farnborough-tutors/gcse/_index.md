@@ -11,6 +11,7 @@ hero_lead: "Your Year 11 says it's all under control, and maybe it is. But it's 
 grade_from: "5"
 grade_to: "7"
 grade_stat: "The sort of climb weekly lessons are aimed at across Year 10 and Year 11. How far and how fast depends on where your child starts."
+grade_card: "aim"
 
 first_lesson_eyebrow: "THE COLLEGE PLACE AND THE COURSE"
 first_lesson_heading: "Before Grades, a Farnborough GCSE Tutor Asks About Courses"

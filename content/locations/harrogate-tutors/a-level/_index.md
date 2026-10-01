@@ -12,6 +12,7 @@ hero_lead: "The offer comes through, everyone breathes out, and then the conditi
 grade_from: "B"
 grade_to: "A"
 grade_stat: "The weekly lessons aim to turn a B into an A, though nobody can promise a grade."
+grade_card: "aim"
 
 first_lesson_eyebrow: "OFFER IN, EXAMS TO GO"
 first_lesson_heading: "How a Harrogate A-Level Tutor Counts Back From the Exams"

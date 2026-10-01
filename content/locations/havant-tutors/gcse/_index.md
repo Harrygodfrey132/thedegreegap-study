@@ -11,6 +11,7 @@ hero_lead: "Some Year 11s know exactly what they want next. If your child doesn'
 grade_from: "4"
 grade_to: "6"
 grade_stat: "When the gap is a topic or two, not the whole course, a term of one-to-one work often aims at a 4 becoming a 6."
+grade_card: "aim"
 
 first_lesson_eyebrow: "HAVANT CAMPUS OR SOUTH DOWNS?"
 first_lesson_heading: "GCSE Tutoring When Your Child Hasn't Picked a Route Yet"

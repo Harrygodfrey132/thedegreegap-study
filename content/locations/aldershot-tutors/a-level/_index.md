@@ -11,6 +11,7 @@ hero_lead: "Lots of teenagers treat Year 12 as a warm-up. But the predicted grad
 grade_from: "C"
 grade_to: "A"
 grade_stat: "A C to an A takes time, and weekly lessons from early in Year 12 give it the most room."
+grade_card: "aim"
 
 first_lesson_eyebrow: "BEFORE THE UCAS FORM GOES IN"
 first_lesson_heading: "Why Start A-Level Tutoring in Year 12?"

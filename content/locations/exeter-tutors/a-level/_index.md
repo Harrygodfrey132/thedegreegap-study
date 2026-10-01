@@ -12,6 +12,7 @@ hero_lead: "In Year 11, your child's teachers probably knew them and their work 
 grade_from: "B"
 grade_to: "A"
 grade_stat: "Once your child knows most of the content, B to A is the step weekly lessons are usually aimed at."
+grade_card: "aim"
 
 first_lesson_eyebrow: "WHAT CHANGES AFTER YEAR 11"
 first_lesson_heading: "What an Exeter A-Level Tutor Adds to a Big College"

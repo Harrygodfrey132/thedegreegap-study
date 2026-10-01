@@ -819,7 +819,8 @@ Older pages still have these fields filled in; harmless to leave, but new pages 
 | `hero_heading_line1` | `<h1>` text | H1 large bold | the whole H1 sits here |
 | `hero_heading_line2` | `<h1>` after `<br>` | H1 large bold | **DEPRECATED — set to `""`** |
 | `hero_lead` | `<p class="loc-hero__lead">` | body paragraph under H1 | supporting copy |
-| `grade_from` / `grade_to` / `grade_stat` | grade card on hero right | display numbers + small caption | "Predicted grade" → "Achieved grade" |
+| `grade_from` / `grade_to` / `grade_stat` | grade card on hero right | display numbers + small caption | labelled "Where they started" → "Where they got to" |
+| `grade_card` | grade card labels | optional, `aim` only | legacy hubs whose card isn't backed by a review: labels become "Where many start" → "What the lessons aim for", and `grade_stat` must describe an aim, never a result. New pages never use it |
 | `first_lesson_eyebrow` | `<p class="loc-eyebrow">` | small uppercase tag | sits above the H2 |
 | `first_lesson_heading` | `<h2>` | H2 large | section heading |
 | `first_lesson_context` | `<p>` | body paragraph | sits above the quote |

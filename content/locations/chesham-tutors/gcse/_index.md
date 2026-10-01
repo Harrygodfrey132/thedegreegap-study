@@ -12,6 +12,7 @@ hero_lead: "One week your child flies through the homework and wants more. The n
 grade_from: "6"
 grade_to: "8"
 grade_stat: "When most of the course is secure, a 6 to an 8 is what weekly lessons aim for. Never a promise, though."
+grade_card: "aim"
 
 first_lesson_eyebrow: "THIRTY CHILDREN, ONE PACE"
 first_lesson_heading: "An Hour With a Chesham GCSE Tutor That's All About Your Child"

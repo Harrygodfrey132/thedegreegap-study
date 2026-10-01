@@ -11,6 +11,7 @@ hero_lead: "Is Maths homework taking all evening and still coming back wrong? If
 grade_from: "4"
 grade_to: "6"
 grade_stat: "A 4 up to a 6 is what a couple of terms of weekly lessons usually aims for. The climb starts once the missing topic's back in place."
+grade_card: "aim"
 
 first_lesson_eyebrow: "TWO SCHOOLS, ONE MISSING TOPIC"
 first_lesson_heading: "What an Aldershot GCSE Tutor Checks After a School Move"

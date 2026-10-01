@@ -11,6 +11,7 @@ hero_lead: "Two or three colleges on the shortlist, and none of them ask for qui
 grade_from: "4"
 grade_to: "6"
 grade_stat: "Two grades up is the aim when a college's requirement sits above where your child is now. Planned back from the course, term by term."
+grade_card: "aim"
 
 first_lesson_eyebrow: "WHICH COLLEGE, WHICH GRADE"
 first_lesson_heading: "GCSE Tutoring for a Year 11 Who Hasn't Decided Yet"

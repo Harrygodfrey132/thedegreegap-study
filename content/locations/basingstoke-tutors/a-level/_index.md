@@ -11,6 +11,7 @@ hero_lead: "Often it isn't all three A-Levels. Just the one. You can hear it in 
 grade_from: "C"
 grade_to: "A"
 grade_stat: "A C to an A in that one subject is what a year of weekly lessons aims for. Nobody can promise it."
+grade_card: "aim"
 
 first_lesson_eyebrow: "ONE SUBJECT AT A TIME"
 first_lesson_heading: "What an A-Level Tutor Looks at First"

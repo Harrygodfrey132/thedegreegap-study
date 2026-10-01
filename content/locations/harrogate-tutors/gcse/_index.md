@@ -12,6 +12,7 @@ hero_lead: "Most Harrogate parents who call us are happy with the school. The re
 grade_from: "6"
 grade_to: "8"
 grade_stat: "It's the kind of move weekly lessons are aimed at when your child already knows most of the course, though nobody can promise it."
+grade_card: "aim"
 
 first_lesson_eyebrow: "WHY A GOOD SCHOOL ISN'T THE WHOLE ANSWER"
 first_lesson_heading: "Why a Harrogate GCSE Tutor Can Aim the Hour at Your Child Alone"

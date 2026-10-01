@@ -12,6 +12,7 @@ hero_lead: "Your child's working hard, but they've been one grade short for mont
 grade_from: "B"
 grade_to: "A*"
 grade_stat: "What a year of weekly lessons can aim at: the content for an A first, then the judgement an A* needs."
+grade_card: "aim"
 
 first_lesson_eyebrow: "THE WORK BEHIND AN A*"
 first_lesson_heading: "Why a Leamington A-Level Tutor Treats the Top Grade as a Separate Skill"

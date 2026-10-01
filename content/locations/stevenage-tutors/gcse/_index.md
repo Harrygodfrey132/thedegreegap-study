@@ -12,6 +12,7 @@ hero_lead: "When your child's working hard and the grades won't move, the proble
 grade_from: "4"
 grade_to: "6"
 grade_stat: "A 4 to a 6 is the climb weekly lessons aim for once the older gap's found. An aim, not a promise."
+grade_card: "aim"
 
 first_lesson_eyebrow: "INSIDE A FIRST STEVENAGE LESSON"
 first_lesson_heading: "Why Effort Stops Working, and What a Stevenage GCSE Tutor Does About It"

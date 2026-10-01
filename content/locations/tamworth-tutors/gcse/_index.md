@@ -11,6 +11,7 @@ hero_lead: "The sixth form entry grades can come as a jolt. Most parents first r
 grade_from: "4"
 grade_to: "6"
 grade_stat: "A 4 rising to a 6 in the subject your child's set on keeping is a fair target for weekly lessons. Nobody can promise it, though."
+grade_card: "aim"
 
 first_lesson_eyebrow: "ONE SIXTH FORM IN TOWN"
 first_lesson_heading: "Why Your GCSE Tutor Will Ask About Sixth Form First"

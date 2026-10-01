@@ -12,6 +12,7 @@ hero_lead: "If your child passed the Warwickshire 11+, you may have thought the 
 grade_from: "6"
 grade_to: "8"
 grade_stat: "What weekly lessons often aim for when your child already knows most of the content, though nobody can promise a grade."
+grade_card: "aim"
 
 first_lesson_eyebrow: "WHY 'FINE' STOPS FEELING FINE"
 first_lesson_heading: "What a GCSE Tutor Sees When the Whole Class Passed the Same Exam"
