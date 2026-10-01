@@ -16,7 +16,7 @@ grade_card: "aim"
 
 first_lesson_eyebrow: "THE PILE ON THE DESK"
 first_lesson_heading: "A Chesham A-Level Tutor Starts by Shrinking the To-Do List"
-first_lesson_context: "Usually most of the course is fine, and it's a handful of topics that keep costing marks. The tutor works through a recent paper with your child to find them, and those get the early lessons while everything else waits its turn. That matters most before the Year 13 autumn mock, since many schools look at it when they settle predicted grades for UCAS."
+first_lesson_context: "Most of the course is usually fine, and it's a handful of topics that keep costing marks. The tutor works through a recent paper with your child to find them, and those get the early lessons while everything else waits its turn. That matters most before the school settles predicted grades for UCAS, which is usually in the autumn of Year 13."
 
 first_lesson_quote: "My son gained almost two grades higher than his year 13 mock paper. His tutor Jacob was excellent."
 first_lesson_quote_name: "Daljit"
@@ -54,13 +54,13 @@ reviews:
   - "Theresa|Parent|Harry and Joe were extremely helpful with a wealth of knowledge and contacts that helped my son to follow the right path."
 
 faq_1_q: "Would a few weeks before the mocks be enough?"
-faq_1_a: "It can be, if your child is close and one thing keeps costing marks. Six to eight lessons aimed at that one thing often do the job, for a lot less than a year of tutoring. But if a subject needs rebuilding, it'll take longer, and we'll tell you so. The free call is where we work that out with you, and we'd always rather suggest the smaller option and be right."
+faq_1_a: "It can be, if your child's close and one thing keeps costing marks. Six to eight lessons aimed at that one thing often do the job, for a lot less than a year of tutoring. But if a subject needs rebuilding, it'll take longer, and we'll tell you so. The free call is where we work that out with you, and we'd always rather suggest the smaller option and be right."
 faq_2_q: "All three subjects feel behind. Where do we even start?"
 faq_2_a: "Usually with the one that's furthest from where it needs to be, or the one your child's next step depends on. It's rarely all three at once, even when it feels that way at home. Plenty of families start with a single subject, see how the first few lessons go, and add another later if they need to. If you're torn, tell us about all three and we'll help you pick."
 faq_3_q: "How do online A-Level lessons actually work?"
 faq_3_a: "Your child and the tutor share an online whiteboard on a platform called Lessonspace, so a proof or an essay plan builds up on screen while they talk it through. Every lesson has a replay, too. That helps a lot at A-Level, because the explanation that finally clicked in October is often the one your child wants again when revising in spring. And being online means we can match on the course, not on who lives nearby."
 faq_4_q: "Can you help with the UCAS application too?"
-faq_4_a: "Yes, and it sits comfortably alongside the subject lessons. Personal statements are one of the things The Degree Gap was set up to help with, and some courses also call for interview practice or an admissions test. For the courses with the October deadline, it's worth starting on the application in the summer before Year 13. Let us know on the call which route your child has in mind."
+faq_4_a: "Yes, and it sits comfortably alongside the subject lessons. Personal statements are one of the things The Degree Gap was set up to help with. If a course calls for an interview or an admissions test, a tutor can work on those with your child too. For the courses with the October deadline, it's worth starting on the application in the summer before Year 13. Let us know on the call which route your child has in mind."
 
 sitemap:
   priority: 0.7

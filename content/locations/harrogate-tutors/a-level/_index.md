@@ -16,7 +16,7 @@ grade_card: "aim"
 
 first_lesson_eyebrow: "OFFER IN, EXAMS TO GO"
 first_lesson_heading: "How a Harrogate A-Level Tutor Counts Back From the Exams"
-first_lesson_context: "It starts with the latest mock, gone through line by line, to see which grades on the offer look safe and which don't yet. From there, the tutor maps out the weeks until the exams, and the weakest topics get the most lessons. Your child can see the plan in writing, which takes some of the panic out of it."
+first_lesson_context: "It starts with the latest mock, gone through line by line, to see which grades on the offer look safe and which don't yet. From there, the tutor maps out the weeks until the exams, and the weakest topics get the most lessons. Your child can see what's coming each week, which takes some of the panic out of it."
 
 first_lesson_quote: "My son gained almost two grades higher than his year 13 mock paper. His tutor Jacob was excellent."
 first_lesson_quote_name: "Daljit"
@@ -58,7 +58,7 @@ faq_1_a: "Sometimes, but only before the school sends off the UCAS reference, an
 faq_2_q: "My son's predicted grade feels lower than he deserves. Is that common?"
 faq_2_a: "It's a very natural feeling, but the evidence points the other way. A 2020 study by Murphy and Wyness, using three years of UCAS data, found only about 16% of applicants were predicted accurately across their best three A-Levels, and around 75% were predicted too high. So a grade that feels harsh may just be an honest one. A recent paper, looked at by someone outside school, will show you where your son's marks are going."
 faq_3_q: "My daughter has her offer and says she'll be fine revising alone. Should we still get a tutor?"
-faq_3_a: "She might well be right, so it's worth asking her first. A good sign is a recent mock at or near the grades the offer asks for. If one subject is sitting a grade under, a tutor for that subject alone often makes sense, and it doesn't have to run all year. There's no contract, so you can stop as soon as she feels ready."
+faq_3_a: "She might well be right, and her latest mocks are the best guide. If they're at or near the grades the offer asks for, that's a good sign. If one subject is sitting a grade under, a tutor for that subject alone often makes sense, and it doesn't have to run all year. There's no contract, so you can stop as soon as she feels ready."
 faq_4_q: "And if the tutor turns out not to suit her?"
 faq_4_a: "Say the word and we'll line up someone else, free of charge and without any awkwardness. It's also why your daughter meets the tutor on a free video call before anything's booked, and why you see two or three profiles rather than one. In Year 13 there isn't time to waste on a match that isn't working, so the sooner you tell us, the better."
 

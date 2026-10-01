@@ -6,7 +6,7 @@ location: "Havant"
 level: "A-Level"
 
 hero_heading_line1: "Online Havant A-Level Tutors for the Big Step Up From GCSE"
-hero_lead: "Good GCSEs, then a D on the first Year 12 essay. If your child's wondering whether they're cut out for A-Levels, they're far from the only one. Havant A-Level tutors can show them what the new exams are looking for."
+hero_lead: "A D on the first Year 12 essay, after GCSEs that went well. If your child's wondering whether they're cut out for A-Levels, they're far from the only one. Havant A-Level tutors can show them what the new exams are looking for."
 
 grade_from: "C"
 grade_to: "A"
@@ -15,14 +15,14 @@ grade_card: "aim"
 
 first_lesson_eyebrow: "STRONG GCSES, SHAKY START"
 first_lesson_heading: "The A-Level Tutor Who Shows Your Child What's Changed"
-first_lesson_context: "Your child hasn't forgotten how to work. A-Level papers want things GCSE rarely asked for, like weighing up two ideas and picking one. So a Havant A-Level tutor uses real past papers from your child's board to show what the best answers do differently."
+first_lesson_context: "Your child hasn't forgotten how to work. A-Level papers ask for far more judgement than GCSE did, like weighing up two ideas and picking one. So a Havant A-Level tutor uses real past papers from your child's board to show what the best answers do differently."
 first_lesson_quote: "My son gained almost two grades higher than his year 13 mock paper. His tutor Jacob was excellent."
 first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "A-Level"
 
 tutor_strip_heading: "Havant A-Level tutors, all graduates of top Russell Group universities"
-tutor_strip_body: "They'll know your child's exam board, whichever sixth form they're at. It starts with a free call to Harry or Joe, and a shortlist of two or three follows within 24 hours."
+tutor_strip_body: "At Havant and South Downs College, Oaklands or anywhere else, we'll suggest tutors who already teach your child's exam board. It starts with a free call to Harry or Joe, and a shortlist of two or three follows within 24 hours."
 
 pathways_heading: "Once A-Levels Are Done: Options Around Havant"
 pathways_lead: "University's one route after Year 13, and the harbour's employers offer another."
@@ -35,7 +35,7 @@ pathways:
       Engineering and defence employers around Portsmouth Harbour run degree apprenticeships, and so do some of the professional firms in the city. Each has its own entry grades, and their closing dates can come round before the UCAS one.
   - title: "Career Pathways"
     body: >
-      Some start work at 18 with employers on the Portsmouth and Havant estates, in engineering or office roles. And if a first choice slips by one grade, a gap year and a second go at UCAS is a perfectly good plan.
+      Some start work at 18 with employers on the industrial estates around Portsmouth and Havant, in engineering or office roles. And if a first choice slips by one grade, a gap year and a second go at UCAS is a perfectly good plan.
 
 reviews:
   - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"

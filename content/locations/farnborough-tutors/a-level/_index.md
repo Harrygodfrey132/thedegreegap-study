@@ -15,7 +15,7 @@ grade_card: "aim"
 
 first_lesson_eyebrow: "THE WORKING, AS IT HAPPENS"
 first_lesson_heading: "An A-Level Tutor Who Sees Every Step"
-first_lesson_context: "At A-Level, marks tend to go missing halfway through a question: a dropped minus sign, a formula picked one step too soon. A marked script only shows where your child ended up, but on Lessonspace, the online whiteboard we use, an A-Level tutor can follow the route they took to get there. Whatever's behind the slip often shows up in the first lesson."
+first_lesson_context: "At A-Level, marks tend to go missing halfway through a question: a dropped minus sign, or the wrong formula. A marked script only shows where your child ended up, but on Lessonspace, the online whiteboard we use, an A-Level tutor can follow the route they took to get there. Whatever's behind the slip often shows up in the first lesson."
 first_lesson_quote: "My son gained almost two grades higher than his year 13 mock paper. His tutor Jacob was excellent."
 first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent"

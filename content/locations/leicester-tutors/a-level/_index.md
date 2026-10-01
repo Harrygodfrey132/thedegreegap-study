@@ -1,6 +1,6 @@
 ---
 title: "Leicester A-Level Tutors | One-to-One Support | The Degree Gap"
-description: "Leicester A-Level tutors for the child who knows the work but loses marks on the paper. One-to-one and online, from £37 an hour, with no contract to sign."
+description: "Leicester A-Level tutors who take your child's answers through the mark scheme and find the marks that slipped away. One-to-one and online, from £37 an hour."
 layout: "subject"
 location: "Leicester"
 level: "A-Level"
@@ -23,7 +23,7 @@ pathways_heading: "Staying Close to Leicester, or Heading Further Afield"
 pathways_lead: "A lot of choice without leaving the city, if your child wants it."
 pathways:
   - title: "Universities"
-    body: "The University of Leicester and De Montfort mean plenty of sixth formers can study without leaving the city, while Loughborough and Nottingham, a Russell Group university, draw many others. The most competitive courses want top grades, and the marks that decide those are usually the ones for depth and judgement."
+    body: "The University of Leicester and De Montfort mean plenty of sixth formers can study without leaving the city, while Nottingham, a Russell Group university, and Loughborough draw many others. The most competitive courses want top grades, and the marks that decide those are usually the ones for depth and judgement."
   - title: "Degree Apprenticeships"
     body: "At Space Park, the University of Leicester runs a space systems degree apprenticeship with Airbus, and Caterpillar takes on higher apprentices in engineering. Entry requirements vary by scheme, and the most competitive can ask for strong predicted grades."
   - title: "Career Pathways"
@@ -50,9 +50,9 @@ reviews:
 faq_1_q: "My daughter knows her Biology inside out. Why do her long answers keep losing marks?"
 faq_1_a: "Usually because the mark scheme gives credit for precise terms and for every step of an explanation, and when you know a topic well, it's easy to skip a step without noticing. The tutor takes one of her long answers through the mark scheme, point by point, so she can see what the examiner wanted. After that it's practice, one question at a time."
 faq_2_q: "My son's set on a degree apprenticeship at Space Park or Caterpillar. Can you help?"
-faq_2_a: "Yes. Each scheme publishes its own entry requirements, and many ask for predicted grades when your son applies, so the subject work matters just as much as it would for university. Harry and Joe are also happy to talk through the apprenticeship-or-degree question with you, since plenty of families find it a hard one to call."
+faq_2_a: "Yes. Each scheme publishes its own entry requirements, and many ask for predicted grades when your son applies, so the subject work matters just as much as it would for university. We can help with the application as well. Harry and Joe are also happy to talk through the apprenticeship-or-degree question with you, since plenty of families find it a hard one to call."
 faq_3_q: "Won't a tutor just pile more onto an already full week?"
-faq_3_a: "It's one hour a week, at home, with no travel either side. The aim is for that hour to replace some of the revision that isn't working, like rereading notes, rather than add to it. Your child should come away knowing exactly what to practise, rather than guessing."
+faq_3_a: "It shouldn't. For most families it's one lesson a week, at home, with no travel either side. The aim is for that hour to replace some of the revision that isn't working, like rereading notes, rather than add to it. Your child should come away knowing exactly what to practise next."
 faq_4_q: "How much will the lessons cost us each week?"
 faq_4_a: "Lessons are from £37 an hour, with the exact rate set by the tutor you choose. We'll agree it with you before anything's booked. Neither the first call nor the video meeting with your tutor costs a penny, and with no contract, you can stop whenever it suits you."
 sitemap:
