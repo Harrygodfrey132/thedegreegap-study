@@ -1,7 +1,7 @@
 ---
 title: "Online A-Level Maths Tutors | Stevenage | The Degree Gap"
 nav_title: "Maths"
-description: "Stevenage A-Level Maths tutors, online and one-to-one, fixing the GCSE algebra behind Year 12 slips, for UCAS or Airbus and MBDA apprenticeships. From £37."
+description: "Year 12 Maths homework eating the evening? It's often shaky GCSE algebra. Our Stevenage A-Level Maths tutors sort it out, with UCAS or Airbus in mind. From £37."
 layout: "level-subject"
 location: "Stevenage"
 level: "A-Level"
@@ -13,12 +13,12 @@ hero_lead: "What looks like a Year 12 Maths problem very often started at GCSE. 
 angle_eyebrow: "WHEN GCSE ALGEBRA COMES BACK"
 angle_heading: "Why Year 12 Maths Trouble in Stevenage So Often Starts at GCSE"
 angle_body_1: "By October half-term, Maths homework that took twenty minutes in September can be eating your child's whole evening. It's easy to blame the new topics. Usually, though, it's the algebra underneath. At GCSE a slow or shaky method still picked up marks. At A-Level, completing the square, laws of indices, algebraic fractions and rearranging formulas turn up inside question after question, in Mechanics as well as Pure. One slip early on and much of a long question can go with it. So your child works harder and gets less back, which is exhausting for everyone and easy to mistake for a lack of effort."
-angle_body_2: "That's why the tutor doesn't start with this week's chapter. They go through a recent test with your child on a shared whiteboard, find the algebra habits that are costing marks, and fix those alongside the current topics, so your child doesn't fall behind in class. Getting it sorted early matters in Stevenage. Airbus Defence and Space, MBDA, GSK and the town's cell and gene therapy firms all take on degree apprentices from the area, each with entry requirements that change between intakes, and on the engineering and science schemes Maths is the grade that counts most. University offers lean on the same predicted grade."
+angle_body_2: "That's why the tutor doesn't start with this week's chapter. They go through a recent test with your child on a shared whiteboard and find the algebra habits that are costing marks. Then they fix those alongside the current topics, so your child doesn't fall behind in class. Getting it sorted early matters in Stevenage. If your child has their eye on a degree apprenticeship at Airbus, MBDA or GSK, Maths usually counts most on the engineering and science schemes. University offers lean on it too."
 angle_image: "/images/maths-equations-close-up.jpg"
 angle_image_alt: "A printed Mechanics solution with square roots and speeds in metres per second"
 angle_stat_from: "C"
 angle_stat_to: "A"
-angle_stat_detail: "The direction weekly lessons are pointed in, from the first weeks of Year 12 to results day, once the algebra underneath is secure."
+angle_stat_detail: "What weekly lessons aim for between the first weeks of Year 12 and results day, once the algebra underneath is secure."
 
 schools:
   - "The Nobel School"
@@ -40,15 +40,15 @@ steps:
 
 faqs:
   - q: "How does my child show their working if lessons are online?"
-    a: "On a shared whiteboard. The platform we use, Lessonspace, lets your child write out each Maths solution in full while the tutor sees every line as it goes down, so they can spot exactly where a mistake starts. It works the same from Baldock to Knebworth, and right across Stevenage, and nobody spends a school night in the car. Being online also widens the search: the tutor can be anywhere in the country, as long as they know your child's exam board."
+    a: "On a shared whiteboard. The platform we use, Lessonspace, lets your child write out each Maths solution in full while the tutor watches every line go down. So a mistake gets spotted on the line where it starts. It works the same from Baldock to Knebworth, and right across Stevenage, and nobody spends a school night in the car. Being online also widens the search: the tutor can be anywhere in the country, as long as they know your child's exam board."
   - q: "My son wants an apprenticeship at Airbus or MBDA. Can a Maths tutor help?"
-    a: "Yes. Airbus Defence and Space, MBDA, GSK and the cell and gene therapy employers around Stevenage each set their own entry requirements, and on the engineering and science schemes, Maths tends to matter most. Those requirements change from year to year, so go by the current listing rather than what a neighbour's child needed. Most applications also include a numerical reasoning test, which regular Maths practice helps with. Lessons work on your son's grade and on the speed and accuracy those tests reward."
+    a: "Yes. Airbus Defence and Space, MBDA, GSK and the cell and gene therapy employers around Stevenage each set their own entry requirements. On the engineering and science schemes, Maths tends to matter most. Those requirements change from year to year, so go by the current listing rather than what a neighbour's child needed. Most applications also include a numerical reasoning test, which regular Maths practice helps with. Lessons work on your son's grade and on the speed and accuracy those tests reward."
   - q: "Should we start now, in Year 12, or wait until Year 13?"
     a: "Now, if you can. Algebra gaps are quicker to fix in the first term of Year 12, before every new topic is built on top of them. The Year 12 result is also what your child's predicted grade leans on, and that's the grade UCAS and apprenticeship applications see. A Year 13 start still helps, and some families only find out they need help then. There's just more to squeeze into one busy year."
   - q: "Are the tutors qualified teachers?"
     a: "Many are, and every tutor on our platform is a graduate of a top Russell Group university. Some are examiners, and some are recent graduates who took the same A-Levels. Which suits depends on your child. If the algebra needs rebuilding from GCSE, a patient teacher who's taken plenty of classes through Year 12 is often the best fit. If your child just needs polish for the top grades, a recent graduate who knows today's papers can suit better. You'll see each tutor's background on their profile."
   - q: "What will we pay, and is there anything extra?"
-    a: "Lessons start from £37 an hour. Rates rise with experience, so a qualified teacher or examiner costs more than a recent graduate, and you'll agree the rate before a single lesson is booked. The rate includes the tutor's prep, the practice they set between lessons and their written feedback, so there's no separate charge for materials. There's no contract and nothing to pay upfront, and you can pause or stop when you need to."
+    a: "Lessons start from £37 an hour. Rates rise with experience, so an examiner or a very experienced tutor costs more than a recent graduate. You'll agree the rate before a single lesson is booked. It includes the tutor's prep, the practice they set between lessons and their written feedback, so there's no separate charge for materials. There's no contract and nothing to pay upfront, and you can pause or stop when you need to."
 # FAQ picks: G03, G04, A05, E02, C02
 
 reviews:
