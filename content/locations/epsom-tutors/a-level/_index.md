@@ -1,41 +1,41 @@
 ---
 title: "Epsom A-Level Tutors | Online One-to-One | The Degree Gap"
-description: "Epsom A-Level tutors who find the marks Year 12 answers leave behind and lift predicted grades before UCAS. One-to-one online tutoring from £37 an hour."
+description: "Working hard in Year 12 but the marks won't follow? Epsom A-Level tutors who read your child's papers and find what's costing them. Online, from £37 an hour."
 layout: "subject"
 location: "Epsom"
 level: "A-Level"
 
-hero_heading_line1: "Online Epsom A-Level Tutors Who Find the Marks Year 12 Answers Leave Behind"
+hero_heading_line1: "Online Epsom A-Level Tutors for When the Effort's There but the Marks Aren't"
 hero_heading_line2: ""
-hero_lead: "Plenty of Epsom students walk into Year 12 off decent GCSEs and then watch the marks refuse to follow the effort. Our Epsom A-Level tutors find where the depth marks are leaking and rebuild the technique before Year 12 mocks fix a prediction."
+hero_lead: "Hours of homework in Year 12, and the marks still aren't following, even after decent GCSEs. Our Epsom A-Level tutors find where the marks are slipping and fix the technique before the Year 12 mocks shape your child's prediction."
 
 grade_from: "C"
 grade_to: "A"
-grade_stat: "A student who went from Cs to As across their A-Levels with one-to-one support."
+grade_stat: "Cs to As across their A-Levels, after one-to-one lessons, as one parent tells it."
 
-first_lesson_eyebrow: "WHAT TURNED AN EPSOM YEAR 12 AROUND"
+first_lesson_eyebrow: "WHAT ONE PARENT SAW CHANGE"
 first_lesson_heading: "Why an Epsom A-Level Tutor Starts With a Marked Script"
-first_lesson_context: "An A-Level grade in Epsom can open a University of Surrey course or a London degree apprenticeship a train ride away. Results across the borough sit above the national picture, though that average hides the student whose depth marks have stopped landing. An Epsom A-Level tutor finds that on a past paper and rebuilds the evaluation the papers reward."
+first_lesson_context: "A good A-Level grade in Epsom can lead to a course at the University of Surrey or a London degree apprenticeship a train ride away. Results across the borough are above the national average, but that doesn't help much if it's your child whose longer answers have stopped picking up marks. The tutor tracks that down on a past paper, then works with your child on the kind of weighing-up those questions reward."
 first_lesson_quote: "The Degree Gap helped my child go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and applications."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Cs to As across A-Levels"
 
-tutor_strip_heading: "Epsom A-Level tutors who coach for Surrey and London offers"
-tutor_strip_body: "Every tutor on our platform is a Russell Group graduate who's cleared a founder-led interview only about three percent of applicants pass. Many are qualified examiners marking the same specs Epsom sixth forms teach. Browse the profiles, or let us match your child."
+tutor_strip_heading: "Epsom A-Level tutors for families aiming at Surrey and London offers"
+tutor_strip_body: "Every tutor on our platform is a Russell Group graduate, some are qualified examiners, and Harry or Joe has interviewed each one. Only about 3% of applicants make the cut. Take a look at the profiles, or we'll match your child with someone."
 
 pathways_heading: "What an Epsom A-Level Opens Up Next"
-pathways_lead: "Results day sets the next step for Epsom Year 13s. Here's what the main ones look like."
+pathways_lead: "Here's roughly what each route looks like from Epsom, and what it'll ask of your child's grades."
 pathways:
   - title: "Universities"
     body: >
-      The University of Surrey in nearby Guildford and the University for the Creative Arts on the Epsom campus take large numbers of local students, alongside London and the wider Russell Group. The competitive courses ask for grades near the top of the A-Level range, which is where Year 12 depth work starts to count.
+      The University of Surrey in nearby Guildford and the University for the Creative Arts, right here on its Epsom campus, take plenty of local students. Many families also look at London or at Russell Group universities further afield, and the competitive courses want grades near the top of the A-Level range.
   - title: "Degree Apprenticeships"
     body: >
-      Toyota GB runs schemes from its Burgh Heath head office, and the University of Surrey offers degree apprenticeships that pair paid work with a funded degree. Each sets its own predicted-grade bar, with the more competitive routes asking near the top of the A-Level band.
+      Toyota GB runs schemes from its head office at Burgh Heath, and the University of Surrey offers degree apprenticeships that pair paid work with a funded degree. Each one sets its own entry requirements, and they're high on the most sought-after routes, so it helps to know early which one your child's after.
   - title: "Career Pathways"
     body: >
-      A short line into London pulls Epsom leavers towards finance, law and the professions, while the University for the Creative Arts feeds design and media careers closer to home. Epsom Downs and the wider racing industry keep an equine and events route open too.
+      The quick train into London draws Epsom school leavers towards finance, law and the professions, while the University for the Creative Arts feeds design and media careers closer to home. And Epsom Downs and the racing world keep an equine and events route open too.
 
 reviews:
   - "Alexander|Parent of A-Level Student|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
@@ -56,13 +56,13 @@ reviews:
   - "Leo|Student|The time I have spent with my tutor has been really valuable. He has helped with a range of topics across economics and maths, explains things really clearly, and makes the sessions enjoyable."
 
 faq_1_q: "The step up to A-Level has caught my daughter out this year. How does an Epsom tutor help?"
-faq_1_a: "It's a common jump, not an effort failure. A-Level asks for depth and evaluation where GCSE rewarded coverage, and the habits that scored last year quietly stop working. The tutor finds that gap on a real script in the first session, then builds the deeper technique the papers actually mark, one topic at a time."
+faq_1_a: "By finding where she's losing marks, and it's usually technique, not effort. A-Level wants her to go deeper and weigh things up, where GCSE mostly rewarded knowing the content, so habits that scored last year quietly stop working. The tutor spots that on one of her real papers in the first lesson, then builds the deeper technique one topic at a time."
 faq_2_q: "My son wants to study art or design at UCA. Can A-Level tutoring help him get there?"
-faq_2_a: "Yes. The University for the Creative Arts weighs the portfolio heavily, but the offer still turns on A-Level grades, so we keep those solid while he builds the creative side. The tutor works on the written and analytical subjects that sit alongside a portfolio, and the founders can talk through how the application fits together."
-faq_3_q: "Is A-Level tutoring online, and can it handle essay-heavy subjects?"
-faq_3_a: "It runs online through Lessonspace, our shared whiteboard, and essay subjects are where it works best. The tutor marks an essay live, shows exactly where an AO3 point earns or misses, and re-marks the next attempt. Sessions record too, so your child can go back over the feedback later."
-faq_4_q: "What does A-Level tutoring in Epsom cost per session?"
-faq_4_a: "From £37 an hour, with the rate depending on the subject and the tutor's experience, and always agreed before booking. Qualified examiners and the most experienced tutors sit above that entry rate."
+faq_2_a: "Yes. The University for the Creative Arts puts a lot of weight on the portfolio, but the offer usually still includes A-Level grades, so we'd keep those solid while he works on the creative side. His tutor can take on the written and analytical subjects that sit alongside the portfolio, and Harry or Joe can talk you both through how the application fits together."
+faq_3_q: "It's all online. Does that work for essay subjects?"
+faq_3_a: "It does, and essay subjects are where it works best. Lessons happen in the online classroom Lessonspace, where the tutor marks your child's essay live, shows exactly where an evaluation point earns marks or misses them, and then marks the next attempt. There's a replay of every lesson, so your child can go back over the feedback later."
+faq_4_q: "How much does A-Level tutoring in Epsom cost?"
+faq_4_a: "From £37 an hour, depending on the tutor, and we'll always agree the rate with you before anything's booked. It's a bit more for qualified examiners and the most experienced tutors. No contract, either."
 
 sitemap:
   priority: 0.7

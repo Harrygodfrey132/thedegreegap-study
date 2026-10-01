@@ -1,42 +1,42 @@
 ---
 title: "Solihull A-Level Tutors | Year 12 and Year 13 | The Degree Gap"
-description: "Solihull A-Level tutoring matched by specification and module. Support for UCAS and the Jaguar Land Rover and Birmingham Airport degree apprenticeship routes."
+description: "University offer or a Jaguar Land Rover apprenticeship? Solihull A-Level tutors for the grade your child's next step depends on. Online, from £37 an hour."
 layout: "subject"
 location: "Solihull"
 level: "A-Level"
 
-hero_heading_line1: "Online Solihull A-Level Tutors for Whichever Gate Your Child Is Walking Through"
+hero_heading_line1: "Online Solihull A-Level Tutors for the One Grade Your Child's Next Step Needs"
 hero_heading_line2: ""
-hero_lead: "Not every Solihull student is aiming at university, and the borough's biggest employers ask for grades too. Our Solihull A-Level tutors work to the requirement that actually applies, whether that is a UCAS offer or a degree apprenticeship at Jaguar Land Rover."
+hero_lead: "You might have a child set on university, or one who'd rather start at Jaguar Land Rover as a degree apprentice. Either way, somebody's asking for grades. Our Solihull A-Level tutors work on the grade your child's next step actually depends on."
 
 grade_from: "C"
 grade_to: "A"
-grade_stat: "The movement a sustained year of weekly one-to-one work is built around."
+grade_stat: "What a year of weekly lessons is aimed at. One parent saw their child go from Cs to As."
 
 first_lesson_eyebrow: "TWO ROUTES, ONE SET OF PAPERS"
-first_lesson_heading: "The Grade Matters Either Way, the Target Does Not"
-first_lesson_context: "A degree apprenticeship at a major employer is at least as competitive as a university place, and the entry requirements are published just as clearly. What differs is which subject carries the weight. Engineering routes hang on Maths. Clinical routes hang on the Sciences. University offers hang on whatever the course names. So the useful first question is not how a student is doing generally, it is which single grade the thing they want is gated on, and whether that grade is failing on content or on method."
+first_lesson_heading: "Which Grade a Solihull A-Level Tutor Looks at First"
+first_lesson_context: "A degree apprenticeship at a big employer can be as hard to get as a university place. And either way, one subject tends to carry the weight: Maths for engineering, the Sciences for clinical routes, whatever subject the university course asks for. So the first thing we ask is which grade your child's next step hangs on, and whether it's slipping on knowledge or on technique."
 
 first_lesson_quote: "The Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and applications."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "A-Level"
 
-tutor_strip_heading: "Solihull A-Level tutors matched by module, not just by subject"
-tutor_strip_body: "Two students taking A-Level Physics can be sitting different option papers, and a tutor matched on the subject name alone spends the first fortnight working that out. The consultation call establishes which board and which options before we suggest anyone. The tutors here read their subject at a Russell Group university before teaching it. Browse profiles, or let us match your child."
+tutor_strip_heading: "Solihull A-Level tutors matched to your child's exact papers"
+tutor_strip_body: "Two friends taking A-Level Physics can be studying different optional topics, so we'll check your child's board and options on the call before suggesting anyone. Every tutor studied their subject at a Russell Group university. Have a look through the profiles, or leave the matching to us."
 
 pathways_heading: "What Comes After A-Levels in Solihull"
 pathways_lead: "Three routes, and what each hangs on."
 pathways:
   - title: "Universities"
     body: >
-      Birmingham, Warwick, Aston and Coventry are all within a short commute, with Nottingham, Bath and Sheffield in easy reach. The prediction carries the offer well before any result exists, and Medicine, Dentistry, Veterinary and Oxbridge all close on 15 October.
+      Birmingham, Warwick, Aston and Coventry are all a short commute from Solihull, with Nottingham, Bath and Sheffield within easy reach. Offers are made on your child's predicted grades long before any results come out, and applications for Medicine, Dentistry, Veterinary Medicine and Oxbridge close on 15 October.
   - title: "Degree Apprenticeships"
     body: >
-      Jaguar Land Rover at Solihull runs engineering routes, and Birmingham Airport and the NEC recruit into operations, engineering and business. Each publishes its own entry requirements, they vary by intake, and Maths is most often the grade that decides eligibility on technical entries.
+      Jaguar Land Rover at Solihull runs engineering routes, and Birmingham Airport and the NEC recruit into operations, engineering and business. Each sets its own entry requirements, which change between intakes, and on the technical routes it's most often the Maths grade that decides whether your child can apply.
   - title: "Career Pathways"
     body: >
-      Some students go straight into technician, operations and hospitality roles across the same employers. Gap years used to strengthen a reapplication also feature, especially where a Medicine or engineering application fell one grade short first time.
+      Some school leavers go straight into technician, operations or hospitality jobs with those same employers. Others take a gap year and reapply, often after a Medicine or engineering application fell one grade short the first time.
 
 reviews:
   - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
@@ -52,14 +52,14 @@ reviews:
   - "Kachi|University Student|Harry transformed my performance in mathematical economics modules, taking me from a third class to a first. His patience and ability to adapt to my needs helped me exceed my expectations."
   - "Nicolai|University Student|Had troubles connecting with tutors until I met Harry, helped me understand the curriculum and theories in a way that stuck with me, also made each session feel calm and relaxing. Highly recommend"
 
-faq_1_q: "Can a tutor help with a Jaguar Land Rover degree apprenticeship application?"
-faq_1_a: "Yes, and Maths is usually the grade that decides eligibility on the technical routes. The big local employers publish their own minimum requirements, those vary by scheme and shift between years, so work from the current listing rather than from what someone was told last year. Where a student sits just under the line, that is a short and specific piece of work rather than a full programme, and the application itself often carries a test worth preparing for."
-faq_2_q: "Year 12 or Year 13, when should we start?"
-faq_2_a: "Year 12, in most cases. The predicted grade that goes to UCAS is built from Year 12 work and the Year 13 autumn mocks, so by the time a disappointing Year 13 mock lands, the evidence behind the prediction is already largely written. Starting in Year 12 means working on the papers while they still count towards it, rather than trying to argue with the number afterwards."
-faq_3_q: "My son is predicted a C and needs an A. Is that realistic?"
-faq_3_a: "It depends where the marks are going, and that is answerable from a paper rather than from the prediction. Where the knowledge exists and the losses are method, timing and unfinished answers, two bands in a year is ordinary. If large parts of the specification were never secure, the honest answer is that it takes longer than a term and may mean a narrower target. We would rather say that on the call than disappoint you in March."
-faq_4_q: "How do we know it is working?"
-faq_4_a: "By session three you should be able to name the problem in one sentence, and it should be more specific than the subject. Not Chemistry, but that he loses the multi-step calculation marks under time. There should be marked work too, scored against the actual scheme with the reasoning spelled out. What you should not expect by session three is a grade change, since that usually takes eight to twelve weeks."
+faq_1_q: "My son's set on a Jaguar Land Rover degree apprenticeship. Can a tutor help with that?"
+faq_1_a: "Yes. On the technical routes, Maths is usually the grade that decides whether he's eligible. Each of the big employers round here sets its own minimum grades, which vary by scheme and shift from year to year, so work from this year's listing rather than last year's word of mouth. If he's sitting just below the bar, the tutoring can be short and targeted. There's often a test in the application as well, and it pays to practise for it."
+faq_2_q: "We're in Year 12. Is now the time to start, or can it wait?"
+faq_2_a: "Now's usually the time. The predicted grade that goes to UCAS is built from Year 12 work and any autumn mocks in Year 13, and it's normally sent before the January mocks come round. Starting in Year 12 means working on papers that still count towards the prediction, instead of trying to argue with the number afterwards."
+faq_3_q: "My son's predicted a C and needs an A. Is that realistic?"
+faq_3_a: "It can be, but the answer's in his marked papers rather than the prediction. When he knows the content and the marks are leaking through method, timing and half-finished answers, a two-grade move over a year does happen, though nobody can promise it. When whole chunks of the course never went in, it's more than a term's work, and the target might have to come down a bit. Better to hear that from us on the first call than in March."
+faq_4_q: "How will we know if it's working?"
+faq_4_a: "By the third lesson you should be able to say what the problem is in one sentence, and it should be more precise than the subject. Not 'Chemistry', but 'he drops the marks on multi-step calculations when he's short of time'. You should see marked work too, scored against the real mark scheme with the reasoning explained. What you shouldn't expect by then is a new grade. That usually takes eight to twelve weeks."
 
 sitemap:
   priority: 0.7

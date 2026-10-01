@@ -1,41 +1,41 @@
 ---
 title: "Sunbury-on-Thames A-Level Tutors | Online One-to-One | The Degree Gap"
-description: "Sunbury-on-Thames A-Level tutors matched on the specification, not the postcode. One-to-one online tutoring, from £37 an hour."
+description: "Sixth form has scattered your child's friends across several boroughs? Sunbury-on-Thames A-Level tutors matched to their exact course. Online, from £37 an hour."
 layout: "subject"
 location: "Sunbury-on-Thames"
 level: "A-Level"
 
-hero_heading_line1: "Online One-to-One A-Level Tutors for Sunbury-on-Thames"
+hero_heading_line1: "Online Sunbury-on-Thames A-Level Tutors for When You Can't Tell How Sixth Form's Going"
 hero_heading_line2: ""
-hero_lead: "Sixth formers around Sunbury travel to colleges across several boroughs, so no two friends are necessarily on the same course or board. Our tutors are matched to the specification rather than the area."
+hero_lead: "At GCSE there were other parents to compare notes with. Now your child's sixth form may well be in another borough, friends are scattered, and it's hard to tell how it's really going. Our Sunbury-on-Thames A-Level tutors are matched to your child's exact course and exam board."
 
 grade_from: "C"
 grade_to: "A"
-grade_stat: "A real A-Level move from C grades to A grades, in the words of the parent who watched it happen."
+grade_stat: "The parent who saw it happen describes a move from Cs to As at A-Level."
 
 first_lesson_eyebrow: "EVERYBODY TRAVELS SOMEWHERE DIFFERENT"
-first_lesson_heading: "When Your Child's Sixth Form Is Three Boroughs Away"
-first_lesson_context: "There is no single sixth form that Sunbury students go to. They spread across colleges in Surrey and the neighbouring boroughs, which means the friendship group that sat GCSEs together is now scattered across different institutions, different boards and different subject combinations. Parents lose the informal network that made GCSE easier to judge, and a tutor chosen for being local is unlikely to know the course your child is actually on."
+first_lesson_heading: "What a Sunbury-on-Thames A-Level Tutor Asks Before Anything Else"
+first_lesson_context: "There's no one sixth form that Sunbury teenagers go on to. They spread out across colleges in Surrey and the neighbouring boroughs, so your child's GCSE friendship group ends up on different courses, with different exam boards and subject mixes. You lose the informal network that made GCSE easier to judge, and a tutor picked for living nearby probably won't know the papers your child will sit."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "C grades to A grades at A-Level"
 
 tutor_strip_heading: "Sunbury A-Level tutors chosen for the course, not the postcode"
-tutor_strip_body: "Because students here attend sixth forms across several boroughs, matching on specification matters more than usual. We confirm the board before proposing anyone. Most tutors are recent graduates who came through the same papers, and each clears a founder-led interview that around 3% of applicants pass."
+tutor_strip_body: "Your child's sixth form could be in any of several boroughs, so we'll check the exam board and subjects before suggesting anyone. Every tutor's a graduate and has passed an interview with Harry or Joe, which only around 3% of applicants get through."
 
-pathways_heading: "Where A-Levels Take Sunbury Students Next"
-pathways_lead: "Three routes families around Sunbury weigh up across sixth form."
+pathways_heading: "Where Sunbury Sixth Formers Head After A-Levels"
+pathways_lead: "Three routes Sunbury families tend to weigh up while their child's in sixth form."
 pathways:
   - title: "Universities"
     body: >
-      Students apply across the country, with London's universities on the doorstep and the southern campuses within easy reach. Conditional offers rest on predicted grades produced during Year 12, well before any final exam.
+      Families here apply right across the country, with London's universities on the doorstep and the southern campuses close by. Offers go out on predicted grades, sent in the autumn of Year 13, long before your child's final papers.
   - title: "Degree Apprenticeships"
     body: >
-      Employers along the Thames corridor and into west London run degree apprenticeship schemes, each publishing its own entry requirements which change between intakes. Application windows commonly close earlier than UCAS, so Year 12 is the time to look.
+      Employers along the Thames corridor and in towards west London run degree apprenticeships, each with its own entry requirements that can change from year to year. Applications often close earlier than UCAS, so Year 12 is a good time to start looking.
   - title: "Further Education and Work"
     body: >
-      Brooklands College and the other colleges within reach run Level 3 and technical routes, and a number of local employers recruit directly at eighteen.
+      Brooklands College and the other colleges in reach run Level 3 courses, the same level as A-Levels, plus technical routes, and some local employers hire straight at eighteen.
 
 reviews:
   - "Leo|Student|The time I have spent with my tutor here has  really valuable.  He has helped so much with a range of topics across economics and maths. He explains things really clearly and makes the sessions enjoyable."
@@ -50,13 +50,13 @@ reviews:
   - "Aman|University Student|Harry has been a game-changer in my academic journey. After a tough first year due to the coronavirus, Harry's tutoring in economics and mathematics turned things around for me. His knowledge and clear teaching style made complex concepts easy to understand. Thanks to his guidance, I’ve now secured my dream job. I would definitely recommend \"The Degree Gap\" for anyone looking to excel in their studies."
 
 faq_1_q: "My child's college is in a different borough. Does that change anything?"
-faq_1_a: "Only in that it makes matching on specification more important than matching on geography, and since every session runs online the geography is irrelevant anyway. What we need is the college, the board and the exact subject combination. Students around Sunbury are spread across several institutions, so we never assume a course from a postcode the way a local agency might."
-faq_2_q: "We have lost the parent network we had at GCSE. How do we know how she is doing?"
-faq_2_a: "It is a real loss and worth naming. Without other parents to compare notes with, the only reliable signal is the work itself. Ask for a marked mock script rather than a grade, because the script shows whether marks are going to content, to structure or to the clock. That is also what the first session looks at, and you get a short written note after every session so the picture stays current."
-faq_3_q: "Is Year 12 or Year 13 the right time to start?"
-faq_3_a: "Year 12 where there is a choice. Predicted grades come out of Year 12 performance and reach universities early in Year 13, so work done then counts twice. Year 13 still helps the final grade and plenty of families start there, but the applications have usually gone by the time the first Year 13 mock is marked."
-faq_4_q: "What if the tutor is not right for my child?"
-faq_4_a: "Tell us and we re-match without a charge for the change. Every family speaks with Harry or Joe before a tutor is proposed, and a free 15-minute video meeting comes before any paid session. At seventeen a student usually knows within ten minutes whether somebody's explanations land. No contract, no minimum term."
+faq_1_a: "Not for the lessons, which are all online, but it does change how we match. We'll ask for the college, the exam board and your child's exact subjects, because teenagers from Sunbury end up on so many different courses that we'd never guess one from a postcode. The tutor we suggest will know the papers your child's actually sitting."
+faq_2_q: "We've lost the parent network we had at GCSE. How do we know how she's doing?"
+faq_2_a: "Her marked work will tell you more than any grade. It's a real loss, though, and lots of parents feel it. Ask to see a marked mock paper, because that shows whether she's losing marks on what she knows, on how she sets out answers, or on time. It's also what the tutor looks at in the first lesson, and you'll get a short written note after every lesson, so you're not left guessing."
+faq_3_q: "Do we start now in Year 12, or wait and see how Year 13 goes?"
+faq_3_a: "Start in Year 12, if you can. The school sends its predictions in the autumn of Year 13, based mostly on Year 12 work, so what your child does now feeds both the prediction and the final paper. A Year 13 start still helps the final grade, and lots of families begin then. But by the January mocks in Year 13, the applications have usually gone."
+faq_4_q: "What if the tutor we pick turns out not to suit my child?"
+faq_4_a: "Just tell us and we'll suggest someone else, with no charge for the change. You'll speak to Harry or Joe before any tutor's put forward, and there's a free 15-minute video meeting with the tutor before any paid lesson. Your child will usually know within minutes whether the explanations click. No contract, and no minimum term."
 
 sitemap:
   priority: 0.7
