@@ -12,8 +12,8 @@ hero_lead: "Your child's getting by in Maths, but the prediction's lower than yo
 
 angle_eyebrow: "FORCES, DIAGRAMS AND THE MARKS IN BETWEEN"
 angle_heading: "What Sits Behind a Maths Prediction That's Lower Than You Hoped"
-angle_body_1: "One week it's a Santander degree apprenticeship, run from the bank's UK head office here. The next it's Red Bull Racing, or Network Rail, or university. Milton Keynes gives a teenager who's good with numbers more choice than most places, and every one of those routes reads the same Maths grade. So when the prediction slips, they tend to close together. What's often pulling it down is Mechanics. Moments, where one force left off the diagram spoils the equation. Connected particles, where a pulley question unravels before any real maths happens. And slopes with friction, where resolving in the wrong direction costs every mark after it."
-angle_body_2: "Lessons begin with the diagram. Before any equation, your child draws every force, labels it and says which way it acts, and the tutor checks each one on the shared whiteboard as it goes down. It feels slow for a few weeks, then it gets quick, and the marks usually follow. Proof and integration get the same care if they're leaking too. Denbigh, Walton High, Oakgrove or elsewhere, the aim is the same: a prediction that keeps your child's options open rather than choosing for them."
+angle_body_1: "One week it's a Santander degree apprenticeship, run from the bank's UK head office here. The next it's Red Bull Racing, or Network Rail, or university. Milton Keynes gives a teenager who's good with numbers more choice than most places, and every one of those routes reads the same Maths grade. So when the prediction slips, they tend to close together. What's often pulling it down is Mechanics. Moments, where one force left off the diagram spoils the equation. Connected particles, where a pulley question unravels before any real maths happens. And slopes with friction, where splitting the forces up the wrong way can cost the marks that follow."
+angle_body_2: "Lessons begin with the diagram. Before any equation, your child draws every force, labels it and says which way it acts, and the tutor checks each one on the shared whiteboard as it goes down. It feels slow at first. Then it becomes a habit, and that's the point. Proof and integration get the same care if they're leaking too. Denbigh, Walton High, Oakgrove or elsewhere, the aim is the same: a prediction that keeps your child's options open rather than choosing for them."
 angle_image: "/images/maths-equations-close-up.jpg"
 angle_image_alt: "A page of typed equations with square roots, the middle lines crisp and the edges out of focus"
 angle_stat_from: "C"
@@ -34,9 +34,9 @@ steps:
   - title: "A free call about the plans"
     body: "It's a free call with one of the co-founders, Harry or Joe, who'll ask what your child enjoys as well as what they're predicted. Mention the school, the board and the topics covered so far. And which routes are in play? Santander, Red Bull Racing and a Russell Group offer all read the Maths grade, each on its own deadline."
   - title: "Profiles within 24 hours"
-    body: "We'll send two or three, matched to the board your child sits, and to tutors who enjoy teaching forces and diagrams as much as algebra. You'll see where each one studied and how they like to teach. Pick one, and they'll have a free 15-minute video meeting with your child first."
+    body: "We'll send two or three, all tutors who know the board your child sits and enjoy teaching forces and diagrams as much as algebra. You'll see where each one studied and how they like to teach. Pick one, and they'll have a free 15-minute video meeting with your child first."
   - title: "Then a lesson each week"
-    body: "One-to-one and online, with the diagrams drawn on the shared whiteboard of Lessonspace, our online platform, and a recording of each lesson, which is handy the week before a paper. From £37 an hour. No contract, and a free swap if the fit's wrong."
+    body: "Each lesson is one-to-one on the platform Lessonspace, with the diagrams drawn on a shared whiteboard. Every lesson's recorded too, which is handy the week before a paper. From £37 an hour. No contract, and a free swap if the fit's wrong."
 
 faqs:
   - q: "Would tutoring help with a Santander, Network Rail or Red Bull Racing application?"

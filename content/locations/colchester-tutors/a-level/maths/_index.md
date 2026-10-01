@@ -1,7 +1,7 @@
 ---
 title: "Online A-Level Maths Tutors | Colchester | The Degree Gap"
 nav_title: "Maths"
-description: "One-to-one online A-Level Maths tutoring for Colchester, with tutors who read every line of your child's working, from differential equations up. From £37."
+description: "A tutor reading your child's working line by line, the way a big class rarely can: one-to-one online A-Level Maths tutoring for Colchester families. From £37."
 layout: "level-subject"
 location: "Colchester"
 level: "A-Level"
@@ -12,8 +12,8 @@ hero_lead: "Has your child gone quiet about Maths since starting at a big sixth 
 
 angle_eyebrow: "READ LINE BY LINE"
 angle_heading: "A Second Pair of Eyes for Year 13 Maths in Colchester"
-angle_body_1: "'Nearly there' is how a lot of Year 13 Maths comes back, and your child's working usually shows why. In a differential equation, the constant goes in at the wrong step, or the starting values never get used. With Newton-Raphson, the steps are fine, but the question about why it fails near a turning point gets left blank. A parametric curve needs dx/dt and dy/dt before anything else works. At a big college like Colchester Sixth Form College, or a busy grammar sixth form, there isn't often time to read one teenager's working line by line. That's no criticism of anyone. It's just what big classes are like."
-angle_body_2: "That's what the first lesson is for. Your child works a recent question on the shared whiteboard while the tutor reads along. Within the hour, it's usually clear whether the trouble is a Year 12 gap, like integration that never quite set, or a Year 13 habit. The weekly plan follows from that. And the grade matters whichever way your child turns next. The University of Essex is on the doorstep, London is straight down the line to Liverpool Street, and Cambridge and UEA are within reach. Closer to home, the garrison, the NHS trust and the engineering firms along the A12 run apprenticeships where Maths decides who can apply."
+angle_body_1: "'Nearly there' is how a lot of Year 13 Maths comes back, and your child's working usually shows why. In a differential equation, the constant goes in at the wrong step, or the starting values never get used. With Newton-Raphson, a way of homing in on an answer, the working's fine, but the part asking why it fails near a turning point is left blank. A parametric curve needs two separate derivatives before anything else works. At a big college like Colchester Sixth Form College, or a busy grammar sixth form, there's rarely time to read one teenager's working line by line. No criticism of anyone. It's just what big classes are like."
+angle_body_2: "That's what the first lesson is for. Your child works through a recent question on the shared whiteboard while the tutor reads along. Within the hour, it's usually clear whether the trouble is a Year 12 gap, like integration that never quite set, or a Year 13 habit. The weekly plan follows from that. And the grade matters whichever way your child turns next. It might be the University of Essex on the doorstep, a London course straight down the line to Liverpool Street, or Cambridge or UEA. Closer to home, the garrison, the NHS trust and the engineering firms along the A12 run apprenticeships where Maths decides who can apply."
 angle_image: "/images/maths-equations-close-up.jpg"
 angle_image_alt: "Two lines of printed working ending in approximate answers, one of them negative"
 angle_stat_from: "C"
@@ -29,12 +29,12 @@ schools:
   - "St Helena School"
 
 steps_heading: "From First Chat to First Lesson, for Colchester Families"
-steps_lead: "Most families are choosing tutors within a day. For Oxbridge, Medicine, Dentistry or Veterinary, the UCAS deadline is 15 October, so starting in Year 12 helps."
+steps_lead: "Most families are choosing tutors within a day. For Oxbridge, Medicine, Dentistry or Veterinary Science, the UCAS deadline is 15 October in Year 13, so starting in Year 12 helps."
 steps:
   - title: "Start with a conversation"
     body: "Harry or Joe, who set up The Degree Gap, will talk with you first, free of charge. Tell us about your child: the college or school, the exam board, and which Year 13 topics have been covered so far. If the grade is for something in particular, a course or an apprenticeship, mention that too, because it changes the plan."
   - title: "Profiles within a day"
-    body: "The next day you'll get two or three profiles to look through, all people at home with Year 13 Pure and the board your child sits. Before any lesson's booked, your child can size up your favourite on a free 15-minute video meeting, and you can ask them anything."
+    body: "The next day you'll get two or three profiles to look through, all tutors who are comfortable with Year 13 Pure and the board your child sits. Before any lesson's booked, your child can size up your favourite on a free 15-minute video meeting, and you can ask them anything."
   - title: "Lessons you can watch back"
     body: "Lessons are an hour a week, one-to-one, on a platform called Lessonspace, where both of them write on one online whiteboard. Each lesson is recorded to watch again, which is handy when revising for a mock. It's from £37 an hour, you can stop any week, and swapping tutors is free."
 

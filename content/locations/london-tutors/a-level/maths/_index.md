@@ -12,8 +12,8 @@ hero_lead: "A question opens with a paragraph about a cup of tea cooling down, a
 
 angle_eyebrow: "WHEN THE MATHS ARRIVES AS WORDS"
 angle_heading: "Why a London Sixth Former Can Do the Maths and Still Lose Marks"
-angle_body_1: "Exponential modelling is where a lot of otherwise confident sixth formers come unstuck. The question describes a population, a cup of tea going cold or a car losing value, and the marks are for choosing the right form of model, saying what each constant means in real life and finding the constants from two pieces of data. Only then does the algebra start. Your child might be completely fluent with logs and still stall at the reading. And the last part often asks what happens in the long run, where the examiner wants a sentence about the value the model settles towards, not just another number."
-angle_body_2: "Most of the lesson time goes on the paragraph rather than the algebra. Your child turns worded problems into equations on the whiteboard, wrongly at first, which is fine, saying out loud what each constant stands for. The interpretation then gets written as a proper sentence and marked, because a right number with no comment can still lose marks. It's a skill that pays off right across London, whether your child is at Brampton Manor, the Latymer School or Mossbourne, and whether they're aiming for Economics at LSE, Engineering at Imperial or a degree apprenticeship with a firm like PwC."
+angle_body_1: "Exponential modelling is where a lot of otherwise confident sixth formers come unstuck. The question describes a population, a cup of tea going cold or a car losing value. The marks are for choosing the right form of model, saying what each constant means in real life and finding the constants from two pieces of data. Only then does the algebra start. Your child might be completely fluent with logs and still stall at the reading. And the last part often asks what happens in the long run, where the examiner wants a sentence about the value the model settles towards, not just another number."
+angle_body_2: "Most of the lesson time goes on the paragraph rather than the algebra. Your child turns worded problems into equations on the whiteboard, saying out loud what each constant stands for. They'll get some wrong at first, and that's fine. The interpretation then gets written as a proper sentence and marked, because a right number with no comment can still lose marks. It's a skill that pays off right across London, from Brampton Manor and Mossbourne to the Latymer School. And it's worth having for any of the routes families here talk about, from Economics at LSE or Engineering at Imperial to a degree apprenticeship with a firm like PwC."
 angle_image: "/images/maths-equations-close-up.jpg"
 angle_image_alt: "Printed working where a formula in g, h and tau becomes numerical answers"
 angle_stat_from: "B"
@@ -29,7 +29,7 @@ schools:
   - "Mossbourne Community Academy"
 
 steps_heading: "What Starting A-Level Maths Tutoring in London Looks Like"
-steps_lead: "No waiting list. You'll usually be looking at tutor profiles the day after you call, wherever you are in London."
+steps_lead: "You'll usually be looking at tutor profiles the day after you call, wherever you are in London."
 steps:
   - title: "A free call with a founder"
     body: "You'll talk to Harry or Joe, our co-founders, and it costs nothing. They'll want to hear about your child: the school, the exam board, whether Further Maths is in the mix. If the algebra's fine but worded questions stop your child cold, mention it. That pattern has a clear fix."
@@ -40,7 +40,7 @@ steps:
 
 faqs:
   - q: "Her friends at other London schools seem further ahead in Maths. Should I worry?"
-    a: "Probably not. Schools teach the A-Level in different orders, so a friend who's already done Mechanics may not have started Statistics yet, and the other way round. What matters is how your daughter is doing on the topics her own school has covered, and a marked test shows that far better than comparing notes with other parents. And an A-Level grade means the same whichever borough it was earned in. If her marked work does show a gap, that's where a tutor would start."
+    a: "Probably not. Schools teach the A-Level in different orders, so a friend who's already done Mechanics may not have started Statistics yet, and the other way round. What matters is how your daughter's doing on the topics her own school has covered, and a marked test shows that far better than comparing notes with other parents. And an A-Level grade means the same whichever borough it was earned in. If her marked work does show a gap, that's where a tutor would start."
   - q: "He says he just needs to do more past papers. Is he right?"
     a: "Sometimes. If his working is clean and the marks only go on the last few questions, more papers and some exam technique may be all he needs. If there are blank spaces or crossed-out starts on the worded questions, more papers on their own tend to repeat the same mistakes, and that's when a tutor helps most. It's a good thing to talk through on the free call, ideally with a recent marked paper to hand."
   - q: "What does an hour with the tutor actually look like?"

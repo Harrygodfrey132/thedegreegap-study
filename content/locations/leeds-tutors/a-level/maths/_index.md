@@ -13,12 +13,12 @@ hero_lead: "Whether your child ends up choosing a PwC or KPMG apprenticeship or 
 angle_eyebrow: "UNIVERSITY OR APPRENTICESHIP, ONE MATHS GRADE"
 angle_heading: "Why the Year 12 Maths Grade Counts Early in Leeds"
 angle_body_1: "You might be hearing two plans at the dinner table this year. A Russell Group university, maybe Leeds itself. Or a degree apprenticeship, earning while studying, with PwC or KPMG in their Leeds offices, or one of the schemes at Lloyds Banking Group or Leeds Teaching Hospitals. For most of these, the Maths prediction counts, and the most competitive schemes set their bar high. Some fill up before the university deadline, too, so Year 12 matters more than it looks. Four topics tend to settle it: proof, integration by substitution, connected particles in Mechanics and the last line of a hypothesis test."
-angle_body_2: "The tutor starts with the last piece of marked work your child brought home and asks them to redo one question out loud. That's where the real story is. Some children need a Year 11 algebra habit mended before anything else will stick. Others know every method and drop marks writing up a proof or finishing a hypothesis test. The two need very different terms of work, so the plan waits for that first lesson. It's the same starting point at Roundhay as at Lawnswood, and from there it's a weekly hour on whatever turns up."
+angle_body_2: "The tutor starts with the last piece of marked work your child brought home and asks them to redo one question out loud. That's where the real story is. Some children need a Year 11 algebra habit mended before anything else will stick. Others know every method and drop marks writing up a proof or finishing a hypothesis test. The two need very different plans, so the tutor doesn't settle on one until after that first lesson. It's the same starting point at Roundhay as at Lawnswood, and from there it's a weekly hour on whatever turns up."
 angle_image: "/images/student-completing-maths-worksheet.jpg"
 angle_image_alt: "A girl in glasses writing answers into the boxes on a printed maths worksheet"
 angle_stat_from: "C"
 angle_stat_to: "A"
-angle_stat_detail: "Where lessons starting early in Year 12 are pointed for a child who starts on a C, whether the fix turns out to be old algebra or writing up proofs properly."
+angle_stat_detail: "What weekly lessons from early in Year 12 aim for when your child starts on a C, whatever the fix turns out to be: old algebra, or writing proofs up properly."
 
 schools:
   - "Roundhay School"
@@ -44,7 +44,7 @@ faqs:
   - q: "Does it make sense to start as early as Year 12?"
     a: "It does, especially in Leeds. The step up from GCSE Maths tends to bite in the first term or two, and whatever grade comes out of Year 12 becomes the prediction that apprenticeship applications see. A few of those close before the January UCAS deadline. Year 13 isn't too late, and lots of families start then, but by September the prediction on those forms is mostly settled."
   - q: "What actually happens in a lesson?"
-    a: "Most lessons have three parts. To begin, the week's practice gets looked at together, with mistakes talked through rather than just marked. Then the main part, on whatever is costing the most marks, perhaps proof or substitution. Finally, a few exam questions on that topic, checked against the mark scheme so your child can see where each mark comes from. It's all done on one shared whiteboard, with the replay there afterwards."
+    a: "Most lessons have three parts. First, your child and the tutor go through the week's practice together, talking the mistakes through rather than just marking them. Then comes the main part, on whatever's costing the most marks, perhaps proof or substitution. Last, a few exam questions on that topic, checked against the mark scheme so your child can see where each mark comes from. It's all on one shared whiteboard, and the replay's there afterwards."
   - q: "What should we know about The Degree Gap before we book?"
     a: "We're Harry and Joe, two childhood friends who were tutored ourselves. Each of us had a great tutor and an average one, and the difference taught us that the match matters most. We interview every tutor personally. Lux Life named us its Best British Curriculum Tutoring Service Provider for 2026, and we have more than 100 five-star Google reviews."
   - q: "How quickly could my child start?"

@@ -32,15 +32,15 @@ steps_heading: "What Happens Between Your Call and Your Child's First Lesson"
 steps_lead: "Within a day of talking to us, you'll usually be reading tutor profiles. Starting before the Year 13 mocks gives new habits time to settle."
 steps:
   - title: "Talk it over with a founder"
-    body: "The call is free, and you'll be talking to Harry or Joe, who started The Degree Gap. Tell us about your child's school, exam board and whether Further Maths sits alongside, since OCR MEI in particular needs a tutor who's taught it. If there's a recently marked paper, have it handy. The slips usually show up there."
+    body: "The call is free, and you'll be talking to Harry or Joe, who started The Degree Gap. Tell us about your child's school and exam board, since OCR MEI in particular needs a tutor who's taught it, and whether Further Maths sits alongside. If there's a recently marked paper, have it handy. The slips usually show up there."
   - title: "A shortlist the next day"
     body: "Within 24 hours there'll be two or three profiles to read, all from tutors familiar with your child's exam board who won't let a rounded answer slide. Your child then has a free 15-minute video meeting with the one you like most, to see how they get on first."
   - title: "Then a lesson each week"
-    body: "Your child's weekly one-to-one lesson happens on Lessonspace, where tutor and child share a whiteboard online, and each one can be replayed. From £37 an hour, nothing to sign, and a new tutor free if the fit's wrong."
+    body: "Your child's weekly one-to-one lesson happens on Lessonspace, an online classroom where tutor and child share a whiteboard, and every lesson can be replayed. From £37 an hour, no contract, and a new tutor free if the fit's wrong."
 
 faqs:
   - q: "Do degree apprenticeships near Aylesbury care about the Maths grade?"
-    a: "Yes, often more than any other grade. Several engineering, finance and technology schemes are within reach of Aylesbury and the wider Thames Valley, and many ask for around AAB, with Maths among the named subjects. Most also set a numerical reasoning test as part of applying, where speed and accuracy under a clock count. That's the same habit these lessons build: checking as you go, so a slip is caught before it costs anything. Entry requirements differ from scheme to scheme and change over time, so read each one closely."
+    a: "Yes, often more than any other grade. Several engineering, finance and technology schemes are within reach of Aylesbury and the wider Thames Valley, and many ask for around AAB, with Maths among the named subjects. Most also set a numerical reasoning test as part of applying, where speed and accuracy under a clock count. That's what these lessons build too: checking each step as they go, so a slip's caught before it costs anything. Entry requirements differ from scheme to scheme and change over time, so read each one closely."
   - q: "My child says it's just silly mistakes. Should we worry?"
     a: "Not worry, but it's worth a closer look. Truly random slips are rare. Most 'silly mistakes' turn out to be the same two or three things, in the same sort of place, which makes them a habit rather than bad luck. A tutor can usually spot the pattern from one marked paper. From then on it's routines: exact answers kept exact, the calculator mode checked, a quick sketch first. For an Aylesbury child close to the top grade in Maths, it's often the quickest place to find marks."
   - q: "Can the same tutor cover Further Maths as well?"
@@ -48,7 +48,7 @@ faqs:
   - q: "Are your tutors experienced enough for a child aiming at an A*?"
     a: "Yes, and we'd pick with that in mind. All of them studied at a leading Russell Group university, and the tutors on our platform include qualified teachers and examiners who know where top-band marks are won and lost. Examiners and the most experienced tutors charge more than our £37 starting rate, and you'll know the rate before anything's agreed. For a child whose Maths is strong and whose slips are the problem, a tutor who marks as strictly as an examiner is often the best fit."
   - q: "Can lessons carry on over the Easter holidays?"
-    a: "Yes. Everything's online, so lessons can carry on wherever you are, and plenty of families keep the weekly slot through the holidays. The Easter break before the summer exams is often when the most focused work happens, with time for full timed papers. If your child wants an extra lesson or two that week, just ask. And if you're going away, pause. There's no contract, so it's your decision."
+    a: "They can. Everything's online, so lessons carry on wherever you are, and plenty of families keep the weekly slot through the holidays. The Easter break before the summer exams is often when the most focused work happens, and there's time for your child to sit whole papers against the clock. If they'd like an extra lesson or two that week, just ask. And if you're going away, pause. There's no contract, so it's your decision."
 # FAQ picks: G04, custom, A13, E02, C05
 
 reviews:

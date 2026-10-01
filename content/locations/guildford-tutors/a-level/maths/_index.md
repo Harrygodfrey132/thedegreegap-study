@@ -1,7 +1,7 @@
 ---
 title: "Guildford A-Level Maths Tutors | Online | The Degree Gap"
 nav_title: "Maths"
-description: "One-to-one online A-Level Maths tutors for Guildford, for the marks lost choosing between trig identities, log models and integration methods. From £37 an hour."
+description: "Your child knows the methods but picks the wrong one in trig, logs or integration? Our online A-Level Maths tutors for Guildford work on exactly that. From £37."
 layout: "level-subject"
 location: "Guildford"
 level: "A-Level"
@@ -12,13 +12,13 @@ hero_lead: "When the chapter heading tells your child which method to use, they 
 
 angle_eyebrow: "KNOWING A METHOD ISN'T CHOOSING ONE"
 angle_heading: "Why Capable Guildford Teenagers Get Stuck Between a B and an A*"
-angle_body_1: "'I just can't do trig.' It's an odd thing to hear from a child who found GCSE Maths easy, and usually it isn't true. The identities aren't really one topic. They're a toolkit, and choosing from it rarely gets practised on its own. Does this question want a double angle formula, or should it be written as a single sine or cosine first? Logs are similar: your child has to decide how to turn a table of data into a straight-line graph before the model can be found. And then there's integration, where your child knows parts and substitution perfectly well, then picks the wrong one once the clock is running."
-angle_body_2: "So lessons look a little different from school. The tutor puts up a question your child hasn't met and asks which tool fits, and why, before any working starts. Only then does the pen move. A few weeks of that and the habit sticks, which is what turns knowing every technique into scoring with them. It's worth the effort in Guildford, whether your child's at RGS, Guildford High, George Abbot or St Peter's. A lot of the courses families here talk about lean on Maths, from Engineering and Computer Science to Economics, including at the University of Surrey on the doorstep."
+angle_body_1: "'I just can't do trig.' It's an odd thing to hear from a child who found GCSE Maths easy, and usually it isn't true. Trig identities aren't really one topic. They're a toolkit, and picking the right tool is a skill of its own, one a full class rarely has time to practise. Does this question want a double angle formula, or should it be written as a single sine or cosine first? Logs are similar: your child has to decide how to turn a table of data into a straight-line graph before the model can be found. And then there's integration, where your child knows integration by parts and substitution perfectly well, then picks the wrong one once the clock is running."
+angle_body_2: "So lessons look a little different from school. The tutor puts up a question your child hasn't met and asks which tool fits, and why, before any working starts. Only then does the pen move. Do that week after week and it becomes a habit. That's what turns knowing every technique into marks on the paper. It's worth getting right in Guildford. At RGS, Guildford High, George Abbot and St Peter's alike, a lot of the courses families talk about lean on Maths. Think Engineering, Computer Science or Economics, including at the University of Surrey on the doorstep."
 angle_image: "/images/maths-equations-close-up.jpg"
 angle_image_alt: "Lines of printed algebra with square roots, the multi-step working A-Level papers expect"
 angle_stat_from: "B"
 angle_stat_to: "A*"
-angle_stat_detail: "The climb weekly lessons are built around across Year 13, for a child who knows the methods and needs practice choosing between them against the clock."
+angle_stat_detail: "What weekly lessons across Year 13 aim for, when your child knows the methods but needs practice choosing between them against the clock."
 
 schools:
   - "Royal Grammar School Guildford"
@@ -36,7 +36,7 @@ steps:
   - title: "Meet the tutor before committing"
     body: "Two or three profiles follow within 24 hours, each from a tutor who teaches how to choose between methods, not just how to use them. Your child meets the one you like on a free 15-minute video meeting before anything's paid for."
   - title: "Weekly lessons on a shared screen"
-    body: "An hour a week on Lessonspace, an online whiteboard where the tutor sees each line as your child writes it, with every lesson saved to replay. Rates start at £37 an hour, no contract, and changing tutor costs nothing if they don't click."
+    body: "Lessons run for an hour a week on the platform Lessonspace, a shared online whiteboard where the tutor sees each line as your child writes it. Every lesson is saved to replay. Rates start at £37 an hour, no contract, and changing tutor costs nothing if they don't click."
 
 faqs:
   - q: "We live between Godalming and Cranleigh. Will online lessons work for us?"
@@ -46,9 +46,9 @@ faqs:
   - q: "How much should my child practise between lessons?"
     a: "An hour to an hour and a half a week is plenty for most. How it's spent matters more. Two or three unfamiliar questions, tried properly with every line written down even when it goes wrong, teach far more than an hour of re-reading worked examples. Those wrong turns are useful. They show the tutor where your child's choice of method went astray, and that's where the next lesson starts."
   - q: "What kind of results have your A-Level Maths tutors helped with?"
-    a: "Our reviews say it better than an average would. One parent on this page writes that their son finished almost two grades above his Year 13 mock. A student describes his grades rising to the top ones over two years of lessons, and another family's son went on to study Maths at Liverpool, his first choice. We won't put a number on your child before a tutor has seen a marked paper, and we'd never promise a grade."
+    a: "Our reviews say it better than an average would. One parent on this page writes that Harry tutored their son in A-Level Maths and Economics for two years, and that they're 'absolutely delighted with the results'. Another family's son, Freddie, had help with Maths, Computer Science and Business, and went on to study Maths at Liverpool, his first choice. We won't put a number on your child before a tutor has seen a marked paper, and we'd never promise a grade."
   - q: "My daughter's already on a B. Is a tutor worth the money?"
-    a: "It depends what the B is hiding, and the free call is where we'd work that out with you. If the Pure is solid and the marks go on choosing methods against the clock, a few months of weekly lessons can be well worth it, especially if her offer needs an A or an A*. If she's comfortably where she needs to be, we may tell you tutoring isn't what she needs right now. We'd rather say that than sell you lessons."
+    a: "It depends what the B is hiding, and the free call is where we'd work that out with you. If she knows the methods and the marks go on choosing between them against the clock, weekly lessons can be well worth it. Especially if the course she's after asks for an A or an A*. If she's comfortably where she needs to be, we may tell you tutoring isn't what she needs right now. We'd rather say that than sell you lessons."
 # FAQ picks: G03, A02, A09, E05, C03
 
 reviews:

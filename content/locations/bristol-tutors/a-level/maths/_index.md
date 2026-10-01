@@ -1,24 +1,24 @@
 ---
 title: "Bristol A-Level Maths Tutors | Online | The Degree Gap"
 nav_title: "Maths"
-description: "Bristol A-Level Maths tutors, online and one-to-one, for Pure and the Mechanics marks lost on slopes, friction and force diagrams. From £37, no contract."
+description: "Pure fine but Mechanics marks slipping? Our online Bristol A-Level Maths tutors start with the force diagram, the usual culprit on a slope. From £37 an hour."
 layout: "level-subject"
 location: "Bristol"
 level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors Helping Bristol Sixth Formers"
-hero_lead: "Your child can hold their own on the Pure questions and still lose most of a Mechanics question before any algebra starts. Our Bristol A-Level Maths tutors go back to the force diagram, where slopes, friction and resolving usually go wrong."
+hero_lead: "Your child can hold their own on the Pure questions and still lose most of a Mechanics question before any algebra starts. Our Bristol A-Level Maths tutors go back to the force diagram, the sketch of every push and pull, where slopes and friction usually go wrong."
 
 angle_eyebrow: "WHERE BRISTOL MECHANICS MARKS GO MISSING"
 angle_heading: "Why the Mechanics Marks Slip, and What a Bristol Tutor Does About It"
-angle_body_1: "You may have spotted it on a marked mock: Pure holding up, Mechanics lower, and no one quite sure why. Most of the time it's the diagram. On a slope, your child may be resolving forces horizontally and vertically out of habit, when working along the slope and at right angles to it makes the question far simpler. Then the normal reaction gets written down as the weight, which only works on flat ground, and every line after that carries the mistake. Friction has its own catch. It only reaches its maximum when the box is sliding or just about to. While the box rests safely on the slope, friction can be anything up to that."
+angle_body_1: "You may have spotted it on a marked mock: Pure holding up, Mechanics lower, and no one quite sure why. Usually it's the diagram. On a slope, your child may split the forces into horizontal and vertical parts out of habit, when working along the slope and at right angles to it is far simpler. Then the normal reaction, the slope pushing back, gets set equal to the weight. That only works on flat ground, and every line after it carries the mistake. Friction has a catch too. It only reaches its maximum when the box on the slope is sliding or about to. While it sits still, friction can be anything up to that."
 angle_body_2: "That's why the first few lessons can feel slow. Your child draws the diagram, picks the two directions and says why before a single equation goes down, and the tutor sees every arrow as it appears on the shared whiteboard. It's fiddly for a week or two. Then the questions start to open up. And it's worth sorting early, whether your child is at Redland Green, Cotham or St Mary Redcliffe and Temple. Maths sits behind a lot of the routes Bristol families talk about, from Engineering at the University of Bristol or UWE to a degree apprenticeship with the aerospace firms around Filton."
 angle_image: "/images/maths-equations-close-up.jpg"
 angle_image_alt: "Close-up of a printed Mechanics solution, with speeds in metres per second"
 angle_stat_from: "C"
 angle_stat_to: "A"
-angle_stat_detail: "Where a year of weekly lessons is aimed, from autumn in Year 12 to results day, once the diagram comes first. An aim, never a promise."
+angle_stat_detail: "Where weekly lessons from autumn in Year 12 to results day are aimed, once the diagram comes first. An aim, never a promise."
 
 schools:
   - "Redland Green School"

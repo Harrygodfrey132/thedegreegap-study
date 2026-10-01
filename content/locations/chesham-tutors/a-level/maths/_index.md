@@ -1,7 +1,7 @@
 ---
 title: "Chesham A-Level Maths Tutors | Online | The Degree Gap"
 nav_title: "Maths"
-description: "Help with radians, arc length and the small angle approximations from online A-Level Maths tutors for Chesham families aiming high. One-to-one, from £37."
+description: "A bright child losing A-Level Maths marks to radians, or a calculator set to degrees? One-to-one online tutors for Chesham families, from £37 an hour."
 layout: "level-subject"
 location: "Chesham"
 level: "A-Level"
@@ -13,7 +13,7 @@ hero_lead: "Often it's one stubborn habit that costs a bright child marks: turni
 angle_eyebrow: "THE CALCULATOR WAS IN DEGREES"
 angle_heading: "Why Radians Cost Bright Chesham Sixth Formers More Than They Should"
 angle_body_1: "A whole trigonometry question gone, and the reason turns out to be the calculator. It was in degrees. That small slip usually sits on top of a bigger habit. Lots of able teenagers treat radians as an odd new way of writing degrees and convert back whenever they can, and for a while it works. Then arc length and sector area arrive, and those tidy formulas only hold in radians. The small angle approximations follow, where the sine of a tiny angle is roughly the angle itself, but only in radians. And later, differentiating sin x gives cos x only when x is in radians too."
-angle_body_2: "The tutor works on the habit before adding anything new. Your child learns the common angles in radians instead of translating them, and uses each formula in the units it was written for. It tends to be one of the quicker fixes, because once the converting stops, several topics improve together. That matters here. If your child is at Chesham Grammar, Dr Challoner's or The Misbourne and has an eye on Engineering, Economics or Maths at university, the most competitive courses often ask for A*AA."
+angle_body_2: "The tutor works on the habit before adding anything new. Your child learns the common angles in radians instead of translating them, and uses each formula in the units it was written for. It's often one of the quicker fixes, because once the converting stops, several topics improve together. It's worth it, too. If your child is at Chesham Grammar, Dr Challoner's or The Misbourne and has an eye on Engineering, Economics or Maths at university, the most competitive courses often ask for A*AA."
 angle_image: "/images/maths-equations-close-up.jpg"
 angle_image_alt: "Printed Maths working in sharp focus, with fractions over square roots fading into blur"
 angle_stat_from: "B"
@@ -29,7 +29,7 @@ schools:
   - "The Misbourne School"
 
 steps_heading: "From First Call to First Lesson: A-Level Maths for Chesham Families"
-steps_lead: "Lessons are online, so nobody needs to be home in time to drive anyone anywhere. Tutor profiles land within a day of your call."
+steps_lead: "Tutor profiles usually arrive the next day. And the sooner the converting habit goes, the fewer topics it can cost marks in."
 steps:
   - title: "Tell us how Maths is going"
     body: "You'll be speaking to Harry or Joe, two friends who set up The Degree Gap together. They'll want to hear what your child is like, not just what the report says, plus which school, which board, and whether there's Further Maths as well. If your child reaches for degrees without thinking, mention it. That habit shapes who we'd suggest."
@@ -40,7 +40,7 @@ steps:
 
 faqs:
   - q: "What tends to catch out a strong Chesham mathematician in A-Level Maths?"
-    a: "Radians, more often than anything harder-looking. Not because the idea is difficult, but because clever children find a workaround: convert to degrees and carry on. That holds until calculus meets trigonometry, and from then on the workaround quietly eats into marks in every topic that uses it. The fix is short and specific. Once your child is comfortable in radians, they usually stop noticing them, which is the point."
+    a: "Radians, more often than anything harder-looking. Not because the idea is difficult, but because clever children find a workaround: convert to degrees and carry on. That holds until calculus meets trigonometry, and from then on the workaround quietly eats into marks in every topic that uses it. The fix is short and specific. Once your child's comfortable in radians, they usually stop noticing them, which is the point."
   - q: "Is it all online, or could a tutor come to us in Chesham?"
     a: "It's all online, and for Maths that works well. Your child writes the working on a shared whiteboard while the tutor follows each line, and any lesson can be watched again before a test. It suits evenings in a commuter town, too, because nobody has to drive anywhere. Families in Chesham, Amersham, Chalfont and Berkhamsted all get the same choice of tutors, wherever in the country the best match happens to live."
   - q: "How soon would we see a difference?"
