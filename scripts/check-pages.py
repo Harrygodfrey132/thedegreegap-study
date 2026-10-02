@@ -89,8 +89,9 @@ BANNED_PHRASES = [
     "in conclusion", "it is worth noting", "it is important to note", "a range of",
     "a variety of", "unlock potential", "embark on a journey", "real difference",
     "take their learning to the next level", "the right approach", "comprehensive solution",
-    # tone.md, sales-call wording and false openers. "15-minute call" is
-    # deliberately not here: Harry okayed that wording for now (28 Sep 2026).
+    # tone.md, sales-call wording and false openers. Call lengths aren't
+    # policed here: the consultation call is usually about 30 minutes (Harry,
+    # 2 Oct 2026) and the meeting with the tutor is 15.
     "only pay if you continue", "matching specialist",
     "we'll be honest", "we'll level with you", "we understand how", "we know how hard",
     "don't miss out", "transform your child",

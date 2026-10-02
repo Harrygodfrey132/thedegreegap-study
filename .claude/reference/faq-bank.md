@@ -232,13 +232,13 @@ Every entry has:
 
 **Fits:** all pages
 **Q:** How do I cancel or pause {Level} {Subject} tutoring?
-**A skeleton:** No contract. Pause any time with 24-48 hours notice for the next session. Pay only for sessions taken. No exit fees, no commitment beyond the next week.
+**A skeleton:** No contract. Pause any time with 24-48 hours notice for the next session. Pay as you go: families pay for each lesson as they go, with nothing upfront. No exit fees, no commitment beyond the next week.
 
 ### C10 — Match speed
 
 **Fits:** all pages
 **Q:** How quickly can my child start {Level} {Subject} tutoring in {Location}?
-**A skeleton:** Usually within a few days. Free 15-min consultation, then 2-3 tutor profiles within 24 hours, free 15-min meeting with chosen tutor, first paid session typically inside a week. Most {Location} families are matched within 24 hours of the consultation call.
+**A skeleton:** Usually within a few days. Free consultation call (usually about 30 minutes), then 2-3 tutor profiles within 24 hours, free 15-min meeting with chosen tutor, first paid session typically inside a week. Most {Location} families are matched within 24 hours of the consultation call.
 
 ---
 

@@ -37,7 +37,7 @@
 
 {{/* ── 3 Steps (per-page overridable) ── */}}
 {{ $stepsHeading := .Params.steps_heading | default (printf "Start %s %s tutoring in %s in 3 steps" $level $subject $loc) }}
-{{ $stepsLead    := .Params.steps_lead    | default "Most families have a first lesson booked within a week of the call, and there's no joining fee." }}
+{{ $stepsLead    := .Params.steps_lead    | default "Most families have a first lesson booked within a week of the call, and it's pay as you go, lesson by lesson." }}
 {{ $steps := .Params.steps | default (slice
   (dict "title" "A free call about your child" "body" (printf "Harry or Joe will ask about your child: their year group and exam board, how %s %s is going, and their school or college in %s. It's how we work out which tutors to suggest." $level $subject $loc))
   (dict "title" "Choose your tutor" "body" (printf "Within 24 hours of the call, you'll get two or three profiles of %s %s tutors covering %s. Your child can meet the one you both like the look of on a free 15-minute video meeting, before anything is booked." $level $subject $loc))
@@ -46,10 +46,10 @@
 {{/* ── FAQs ── */}}
 {{ $defaultFaqs := slice
   (dict "q" (printf "What makes a good %s %s tutor?" $level $subject) "a" (printf "Being able to spot where your child stopped following, sometimes a year or two before %s, and explain it so it finally makes sense. Knowing the subject is only the start. We vet our %s %s tutors on their subject knowledge, how clearly they explain things and how they get on with young people. Only about 3%% of applicants get through." $level $level $subject))
-  (dict "q" (printf "How do you choose a %s %s tutor for my child in %s?" $level $subject $loc) "a" (printf "It starts with the free 15-minute consultation. We'll ask about your child's year group and exam board, their grades now and what they're hoping for, their school in %s, and what they're like as a person. Then we pick two or three %s %s tutors we think will suit them, and you choose. If the first tutor isn't right, we'll suggest someone else at no charge." $loc $level $subject))
+  (dict "q" (printf "How do you choose a %s %s tutor for my child in %s?" $level $subject $loc) "a" (printf "It starts with a free consultation call, usually about 30 minutes. We'll ask about your child's year group and exam board, their grades now and what they're hoping for, their school in %s, and what they're like as a person. Then we pick two or three %s %s tutors we think will suit them, and you choose. If the first tutor isn't right, we'll suggest someone else at no charge." $loc $level $subject))
   (dict "q" (printf "Will your %s %s tutors know my child's exam board?" $level $subject) "a" (printf "Yes. Between them, tutors on our platform cover AQA, Edexcel, OCR and WJEC Eduqas, plus Cambridge (CIE) if your child's school uses it. We'll only suggest tutors who know your child's board. Each board words its questions a little differently, so a %s %s tutor who knows the mark scheme can practise the kind of questions your child will see. Not sure which board it is? We'll help you check on the call." $level $subject))
   (dict "q" (printf "How much does %s %s tutoring cost in %s?" $level $subject $loc) "a" (printf "Lessons start from £37 an hour. The exact rate depends on the tutor, and you'll know it before anything's booked. There's no contract and no joining fee. Most families have one lesson a week, and because it's all online, nobody's driving across %s on a school night." $loc))
-  (dict "q" (printf "How quickly can my child start %s %s tutoring in %s?" $level $subject $loc) "a" (printf "Usually within a week. Two or three %s %s tutor profiles arrive within 24 hours of the free 15-minute consultation, and your child can meet the tutor you pick on a free video call. Lessons happen in the online classroom Lessonspace, so they fit around school and clubs wherever you are in %s. Every lesson has a replay too." $level $subject $loc))
+  (dict "q" (printf "How quickly can my child start %s %s tutoring in %s?" $level $subject $loc) "a" (printf "Usually within a week. Two or three %s %s tutor profiles arrive within 24 hours of the free consultation call, and your child can meet the tutor you pick on a free video call. Lessons happen in the online classroom Lessonspace, so they fit around school and clubs wherever you are in %s. Every lesson has a replay too." $level $subject $loc))
 }}
 {{ $faqs := .Params.faqs | default $defaultFaqs }}
 
@@ -219,7 +219,7 @@
     <div class="lvls-midcta__inner">
       <div class="lvls-midcta__copy">
         <p class="lvls-midcta__eyebrow">TUTOR PROFILES WITHIN 24 HOURS OF THE CALL</p>
-        <h2>Book a free 15-minute call about your child's {{ $level }} {{ $subject }} in {{ $loc }}</h2>
+        <h2>Book a free 30-minute call about your child's {{ $level }} {{ $subject }} in {{ $loc }}</h2>
       </div>
       <div class="lvls-midcta__actions">
         <a href="{{ "book-a-call/" | relURL }}" class="btn btn-primary btn-lg lvls-midcta__btn">Book a Free Consultation</a>
@@ -394,7 +394,7 @@
   <div class="container">
     <p>
       Thinking about a tutor for your child's {{ $level }} {{ $subject }} in {{ $loc }}?
-      <a href="{{ "book-a-call/" | relURL }}">Book a free 15-minute consultation →</a>
+      <a href="{{ "book-a-call/" | relURL }}">Book a free consultation call →</a>
     </p>
   </div>
 </section>

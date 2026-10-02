@@ -19,7 +19,8 @@ The verified facts and credentials The Degree Gap can cite on pages. These exist
 - **Only 3% of tutors come onto the platform** — applicant pass rate, reflects how selective the vetting is
 - **Founder-led rigorous interview process** — Joe and Harry interview every tutor personally
 - **Most tutors have at least 2 years of one-to-one tutoring experience**
-- **All tutors are from top Russell Group universities and many are qualified teachers**
+- **Tutors are graduates and undergraduates, many from top Russell Group universities, and many are qualified teachers** (not every tutor has graduated, and a few studied outside the Russell Group)
+- **Every tutor has at least 2 years of tutoring experience**
 
 ### Founder credentials
 - **Co-founded by an LSE graduate** (Harry)

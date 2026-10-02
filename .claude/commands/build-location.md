@@ -22,7 +22,7 @@ Before writing, read `content/locations/watford-tutors/_index.md` (a town page i
 - **Family first, town second.** Open with what the parent is seeing at home or worrying about, then bring in the local detail (schools, entry tests, sixth forms) where a parent would use it. An opener that leads with a league table, a statistic or how the local school system works is the old voice.
 - **Contractions and short sentences.** You'll, we'd, it's, doesn't. Mix in a few very short lines. Read it aloud.
 - **Normalise the worry, then make the next step small and plain.** Say what happens next, in order, and reassure with facts (from £37, no contract, a different tutor if they don't click), not adjectives.
-- The free call keeps the length the rest of the site gives it. "15-minute call" is fine for now.
+- The free consultation call is usually about 30 minutes (Harry, 2 Oct 2026): "a free call, usually about 30 minutes" or "a free 30-minute call". The meeting where the child meets the tutor stays a free 15-minute video meeting.
 
 ## Before Saving: Run the Checker (required)
 
@@ -614,7 +614,7 @@ Choose 4 questions that fit the page's angle and location type. Substitute the l
 20. Q: "Do you help with sixth form entrance exams or interviews?" / A: "Yes. We work with {loc} students preparing for competitive sixth form entry, including aptitude tests and interviews. Tutors know what these schools are looking for and how to prepare students properly, not just on content."
 21. Q: "Can you help a student who is resitting their GCSEs?" / A: "Yes. Resit students usually need a different approach from the first time. We focus on what went wrong, close the specific gaps and build exam technique alongside content. Tutors can move quickly when the timeline is tight."
 22. Q: "Do you tutor primary school children in {loc}?" / A: "Our main focus is GCSE, A-Level and 11+ preparation. We do work with younger students in {loc} where the need is clear, particularly for selective school entry or building solid foundations in Maths and English."
-23. Q: "What qualifications do your tutors have?" / A: "All our tutors are graduates, many from Russell Group universities. Every tutor is vetted individually before working with students, on subject knowledge, how they explain things, and how they work with young people. A degree alone is not enough."
+23. Q: "What qualifications do your tutors have?" / A: "Our tutors are a mix of graduates and university students, many from Russell Group universities, and every one has at least two years of tutoring experience. Every tutor is vetted individually before working with students, on subject knowledge, how they explain things, and how they work with young people. A degree alone is not enough."
 24. Q: "Is there a free consultation before we commit?" / A: "Yes. We have a conversation first to understand what the student needs. No pressure, no obligation. We would rather spend time getting the match right than rush an introduction that does not work."
 25. Q: "How do I know if my child actually needs a tutor?" / A: "Grades slipping despite effort. Confidence dropping. Putting the work in but not seeing results. Those are the clearest signs. Sometimes it is simpler than that. Some students in {loc} just want to go further than the classroom pace allows. Either is a good reason to get in touch."
 

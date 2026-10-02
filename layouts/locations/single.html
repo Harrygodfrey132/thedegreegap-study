@@ -55,8 +55,8 @@ Location tutor page content contract:
     {{ $intro2 = replace $intro2 "A-Level" $link 1 }}
   {{ end }}
 {{ end }}
-{{ $accordionQuality := .Params.accordion_quality | default "Harry and Joe interview every tutor themselves, and only about 3% of the people who apply are accepted. All of them are graduates of top Russell Group universities, and many are qualified teachers." }}
-{{ $accordionExperience := .Params.accordion_experience | default "Most of our tutors have at least two years of one-to-one tutoring behind them. They've seen the topics children get stuck on many times, and they know more than one way to explain each of them." }}
+{{ $accordionQuality := .Params.accordion_quality | default "Harry and Joe interview every tutor themselves, and only about 3% of the people who apply are accepted. Some are graduates and some are still at university, many of them at Russell Group universities, and plenty are qualified teachers." }}
+{{ $accordionExperience := .Params.accordion_experience | default "Every tutor has at least two years of tutoring behind them. They've seen the topics children get stuck on many times, and they know more than one way to explain each of them." }}
 {{ $accordionPersonalised := .Params.accordion_personalised | default "Each plan starts with your child, not a textbook. In the first lesson the tutor finds out what's going well and where marks are slipping, and the lessons that follow build on that. If something isn't working, they'll change it." }}
 {{/* Default reviews come from data/reviews.yaml via the partial — single source of truth, always real. Per-page reviews: override is still honoured. */}}
 {{ $reviews := .Params.reviews | default (partial "default-reviews.html" (dict "level" "")) }}
@@ -380,7 +380,7 @@ Location tutor page content contract:
             <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
           </summary>
           <div class="loc-accordion__body">
-            <p>{{ .Params.faq_2_a | default "They're independent tutors, and every one is a graduate of a top Russell Group university. Many are qualified teachers, and most have tutored one-to-one for at least two years. We interview each of them before they can join the platform." }}</p>
+            <p>{{ .Params.faq_2_a | default "They're independent tutors. Some are graduates, some are still at university, and plenty are qualified teachers. Every one has at least two years of tutoring experience, and we interview each of them before they can join the platform." }}</p>
           </div>
         </details>
         <details class="loc-accordion__item">

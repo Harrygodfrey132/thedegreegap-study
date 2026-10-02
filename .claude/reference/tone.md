@@ -85,7 +85,7 @@ Agreed by Harry and Joe after reviewing the GCSE Maths page (`content/subjects/g
 
 Everything above in this file, `vocabulary.md` and `beliefs.md` still applies: no em dashes, no banned words, no grade promises, agency wording ("tutors on our platform"), online only, British English. The parent-chat voice is how those rules should sound, not a replacement for them. Promise only what we actually do: a free consultation call, then 2 or 3 tutor profiles within 24 hours of that call. Not voice notes.
 
-**The call's length (Harry, 28 Sep 2026):** the "15-minute call" wording is fine for now, and it's what the booking forms say. Keep whatever length a page already gives the call; don't rewrite it either way.
+**The call's length (Harry, 2 Oct 2026):** the free consultation call is normally about 30 minutes, though it can be shorter. Write "a free call, usually about 30 minutes" or "a free 30-minute call". The separate meeting where the child meets the tutor is a free 15-minute video meeting; keep that at 15.
 
 ### Examples are models, not lines
 

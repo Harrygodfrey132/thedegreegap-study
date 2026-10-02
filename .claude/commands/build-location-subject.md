@@ -23,7 +23,7 @@ Before writing, read `content/locations/watford-tutors/_index.md` (a town page i
 - **Family first, town second.** Open with what the parent is seeing at home or worrying about, then bring in the local detail (schools, entry tests, sixth forms) where a parent would use it. An opener that leads with a league table, a statistic or how the local school system works is the old voice.
 - **Contractions and short sentences.** You'll, we'd, it's, doesn't. Mix in a few very short lines. Read it aloud.
 - **Normalise the worry, then make the next step small and plain.** Say what happens next, in order, and reassure with facts (from £37, no contract, a different tutor if they don't click), not adjectives.
-- The free call keeps the length the rest of the site gives it. "15-minute call" is fine for now.
+- The free consultation call is usually about 30 minutes (Harry, 2 Oct 2026): "a free call, usually about 30 minutes" or "a free 30-minute call". The meeting where the child meets the tutor stays a free 15-minute video meeting.
 
 ## Before Saving: Run the Checker (required)
 
