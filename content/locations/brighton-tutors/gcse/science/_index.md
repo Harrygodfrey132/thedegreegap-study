@@ -1,7 +1,7 @@
 ---
 title: "Brighton GCSE Science Tutors | Online | The Degree Gap"
 nav_title: "Science"
-description: "Online GCSE Science tutors for Brighton and Hove families, Combined or Triple, with help on the experiment and data questions that catch children out. From £37."
+description: "Questions about someone else's experiment cost lots of children Science marks. Our Brighton GCSE Science tutors practise them with your child online. From £37."
 layout: "level-subject"
 location: "Brighton"
 level: "GCSE"
@@ -12,8 +12,8 @@ hero_lead: "Your child can explain photosynthesis perfectly, then goes blank whe
 
 angle_eyebrow: "THE MARKS HIDING IN SOMEONE ELSE'S EXPERIMENT"
 angle_heading: "When the Question Is About an Experiment Your Child Never Did"
-angle_body_1: "It's a pattern we see a lot. The revision's gone in, and the mock still comes back at a 4. Look at where the marks went and it's often the questions built around an experiment. A results table with one odd number in it. A method with a variable nobody controlled. A graph, and a conclusion that doesn't quite follow from it. The specification calls this working scientifically. It runs through Biology, Chemistry and Physics rather than sitting in one chapter, so it rarely gets revised on its own. Weighing up somebody else's method is a separate skill, and it needs practising like one."
-angle_body_2: "The first lesson starts with a recent paper, marked together on a shared whiteboard. Every lost mark goes on one of two piles: things your child didn't know, and questions about an experiment they couldn't read. The piles need different work. The second gets practised every week with unfamiliar methods and results tables, until spotting the uncontrolled variable feels routine. In Brighton, the next step for a lot of families is BHASVIC or Varndean College. Both are oversubscribed, and each publishes its own entry requirements, with a higher ask in the subjects your child wants to carry on. So if a Science A-Level is the plan, the Science grade has a higher bar to clear."
+angle_body_1: "It's a pattern we see a lot. The revision's gone in, and the mock still comes back at a 4. Look at where the marks went and it's often the questions built around an experiment. A results table with one odd number in it. A method with a variable nobody controlled. A graph, and a conclusion that doesn't quite follow from it. The exam boards call this 'working scientifically'. It runs through Biology, Chemistry and Physics rather than sitting in one chapter, so it rarely gets revised on its own. Weighing up somebody else's method is a separate skill, and it needs practising like one."
+angle_body_2: "Your child and the tutor start by marking a recent paper together on a shared whiteboard. Every lost mark goes on one of two piles: things your child didn't know, and questions about an experiment they couldn't follow. The piles need different work. The second gets practised every week with unfamiliar methods and results tables, until spotting the uncontrolled variable feels routine. In Brighton, the next step for lots of families is BHASVIC or Varndean College. Both are oversubscribed, and both ask for more in the subjects your child wants to carry on. So if a Science A-Level is the plan, the Science grade has a higher bar to clear."
 angle_image: "/images/fluorescent-cells-under-microscope.jpg"
 angle_image_alt: "Cells glowing blue under a fluorescence microscope, their nuclei visible"
 angle_stat_from: "4"
@@ -40,7 +40,7 @@ steps:
 
 faqs:
   - q: "My child wants a Science A-Level at BHASVIC or Varndean College. What GCSE grade will they need?"
-    a: "It depends on the college and the course, and it can change from year to year, so the college's own course page is the one to trust. Both Brighton colleges publish their own entry requirements, usually with a higher ask in the subjects your child wants to carry on, and both are oversubscribed. It's worth checking whether the Science requirement reads differently for Combined and Triple too. Once you know the number, the tutor works back from it, starting with whichever science is furthest off."
+    a: "There's no single number. Each college sets its own requirements for each course, and they can change from year to year, so check the course page for the Science A-Level itself, which often asks for more than the general entry grades. See whether it reads differently for Combined and Triple too. Once you know the number, the tutor works back from it, starting with whichever science is furthest off."
   - q: "How can I tell if it's the content or the experiment questions that are costing marks?"
     a: "Get out a marked mock and look at what your child dropped. If it's mostly short recall questions, the name-this and state-that kind, it's content, and the revision just needs better aim. If it's the questions with a results table, a method or a graph, it's the experiment skills. Most children have a bit of both. The tutor sorts this out in the first lesson, so you'll know which it is early on, and the plan comes from what they find."
   - q: "Is there anything we can do at home to help with the experiment questions?"

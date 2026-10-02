@@ -1,24 +1,24 @@
 ---
 title: "Aldershot GCSE Science Tutors | Online | The Degree Gap"
 nav_title: "Science"
-description: "Online GCSE Science tutors for Aldershot families, Combined or Triple, finding the topics and required practicals a school move left out. From £37 an hour."
+description: "A school move can leave your child missing a Science topic or a practical. Our Aldershot GCSE Science tutors find those gaps and fill them online. From £37."
 layout: "level-subject"
 location: "Aldershot"
 level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutoring for Aldershot Families"
-hero_lead: "Maybe the new school covered electrolysis last term, just before your child arrived, and the old one hadn't reached it yet. Our Aldershot GCSE Science tutors find gaps like that after a move and teach them properly, one-to-one and online."
+hero_lead: "Maybe the new school covered electrolysis last term, just before your child arrived, and the old one hadn't reached it yet. Our Aldershot GCSE Science tutors find gaps like that after a move and teach them from the beginning, one-to-one and online."
 
 angle_eyebrow: "SCIENCE AFTER A SCHOOL MOVE"
 angle_heading: "Why a School Move Knocks Science More Than Most Subjects"
-angle_body_1: "Most subjects survive a move. Science often doesn't, and no one's to blame. Every school teaches Biology, Chemistry and Physics in its own order, so a child who moves in Year 10 can miss a topic, like inheritance or electricity, and sit through another one twice. The required practicals worry us more. AQA's Combined Science course has 21 of them, and any one can turn up in the exam, with questions on the method, the variables and what might go wrong. If your child wasn't there for the osmosis practical, a revision guide won't make up for it. Sometimes the new school has switched them between Triple and Combined, too."
-angle_body_2: "The first lesson works backwards from your child's recent tests, following each wrong answer to where it began. Often it's a topic one school taught before your child arrived and the other hadn't reached yet. Those topics get taught from scratch, not revised. The tutor also checks which practicals your child actually did, and draws out any missed ones on the shared whiteboard until your child can explain the method. It's steady work, and it matters for what comes next. Farnborough Sixth Form College and Alton College both set their own entry requirements, and the Sciences tend to sit near the top of them."
+angle_body_1: "Most subjects survive a move. Science often doesn't, and no one's to blame. Every school teaches the three sciences in its own order, so if your child moves in Year 10, they can miss a topic, like inheritance or electricity, and sit through another one twice. The required practicals, the set experiments, worry us more. AQA's Combined Science has 21, and any one can turn up in the exam, with questions on the method, the variables and what might go wrong. If your child wasn't there for the osmosis practical, a revision guide won't make up for it. Sometimes the new school has switched them between Triple and Combined, too."
+angle_body_2: "The first lesson works backwards from your child's recent tests, following each wrong answer to where it began. Often that's a topic that fell between the two schools. Topics like that get taught from scratch, not revised. The tutor also checks which practicals your child actually did, and draws out any missed ones on the shared whiteboard until your child can explain the method. And it matters when your child applies to college. Farnborough Sixth Form College and Alton College both set their own entry requirements, and the Sciences tend to sit near the top of them."
 angle_image: "/images/fluorescent-cells-under-microscope.jpg"
 angle_image_alt: "Blue-green cells glowing under a fluorescence microscope, with fine threads reaching between them"
 angle_stat_from: "4"
 angle_stat_to: "6"
-angle_stat_detail: "The step weekly lessons aim for over a term or two, once the topics and practicals lost in the move have been taught properly."
+angle_stat_detail: "The step weekly lessons aim for over a term or two, once the topics and practicals lost in the move have been filled in."
 
 schools:
   - "Alderwood School"
@@ -40,11 +40,11 @@ steps:
 
 faqs:
   - q: "What will sixth forms near Aldershot want in Science?"
-    a: "It depends on the course. Farnborough Sixth Form College and Alton College both publish their own entry requirements and change them between years, so the current course page is the one to trust. As a rough guide, the Sciences usually ask for more than the general entry grades. If your child moved between Triple and Combined, check how the requirement is written for each, as some courses spell out both. And if your child is a grade short right now, weekly lessons from the autumn give far more room than waiting for the mocks."
+    a: "It depends on the course. Farnborough Sixth Form College and Alton College both publish their own entry requirements and change them between years, so the college's current course page is the one to trust. As a rough guide, the Sciences usually ask for more than the general entry grades. If your child moved between Triple and Combined, check how the requirement is written for each, as some courses spell out both. And if your child is a grade short right now, weekly lessons from the autumn give far more room than waiting for the mocks."
   - q: "My child's new school uses a different exam board. Does that matter in Science?"
     a: "It can, more than in most subjects. AQA, Edexcel and OCR cover a lot of the same science, but their questions are set differently and each board has its own list of practicals. AQA calls them required practicals, Edexcel calls them core practicals, and OCR organises its practical work differently again. So a practical your child did at the old school might not be on the new list, and one on the new list might be brand new to them. Tell us both boards on the call and we'll suggest tutors who know them."
   - q: "After a move to Aldershot, how do we find the Science our child missed?"
-    a: "A recent test or mock is the best place to start. Look at the questions your child left blank, not just the ones they got wrong. A wrong answer usually means something half-remembered. A blank often means a topic they were never taught, which is common after a move. In the first lesson, the tutor goes through that paper with your child and sorts the lost marks by topic. You'll then hear which gaps came from the move and which are ordinary revision, because they need different work."
+    a: "A recent test or mock is the best place to start. Look at the questions your child left blank, not just the ones they got wrong. A wrong answer usually means something half-remembered. A blank often points to a topic that got lost in the move. In the first lesson, the tutor goes through that paper with your child and sorts the lost marks by topic. You'll then hear which gaps came from the move and which are ordinary revision, because they need different work."
   - q: "Can a tutor help if my child has dyslexia or ADHD, or finds a new school hard?"
     a: "Yes. Tell us on the call what helps your child and what doesn't, including any exam access arrangements, and we'll suggest tutors who've worked with children who learn differently. Science suits small, clear steps: a practical broken into short named stages, calculations set out the same way every time, a simple plan for longer answers. One-to-one also takes away the pressure of a new classroom. Nobody else is watching, and your child can ask the same question twice without feeling awkward."
   - q: "Can I sit in on my child's first Science lesson?"

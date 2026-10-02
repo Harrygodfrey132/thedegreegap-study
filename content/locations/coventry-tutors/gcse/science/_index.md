@@ -1,21 +1,21 @@
 ---
 title: "Coventry GCSE Science Tutors | Online | The Degree Gap"
 nav_title: "Science"
-description: "Online GCSE Science tutors for Coventry families, with revision planned around Paper 1 and Paper 2 for Combined or Triple, plus practicals. From £37 an hour."
+description: "Revising Science by subject, but sitting it by paper? Our Coventry GCSE Science tutors plan your child's revision around each paper, online. From £37 an hour."
 layout: "level-subject"
 location: "Coventry"
 level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Coventry, Kenilworth and Bedworth"
-hero_lead: "Your child revised Biology for weeks, and the first paper only asked about part of it. It happens a lot, because each science is usually sat as two papers with their own topics. Coventry GCSE Science tutors plan your child's revision the way the papers are split."
+hero_lead: "Your child revised Biology for weeks, and the first paper only asked about part of it. It happens a lot, because each science is usually sat as two papers with their own topics. Our Coventry GCSE Science tutors plan your child's revision the way the papers are split."
 
 angle_eyebrow: "WHICH HALF IS ON WHICH PAPER"
 angle_heading: "Why Coventry Revision Works Better When It Follows the Two Papers"
-angle_body_1: "With most exam boards, each science is split across two papers, and each paper has its own list of topics. Your child probably revises by subject, though: all of Biology, then all of Chemistry. It feels thorough. But it means evenings go on topics that won't come up until the second paper, while the ones on the next paper get a quick skim. Whatever the split, the same things cost marks on both: required practicals, six-mark answers that need a clear order, and Physics questions where a formula has to be rearranged or a unit changed first. So this isn't about effort. It's about aim."
-angle_body_2: "The first lesson is for planning, not lecturing. The tutor puts the specification and a recent mock side by side on the shared whiteboard, sorts the topics by paper, and marks the ones your child could answer on a bad day. The weakest paper gets the first few weeks. It's worth getting right here, because Science often decides what happens at sixteen. Finham Park, Coundon Court and Coventry College each set their own grades for Level 3 courses, King Henry VIII and Bablake have theirs, and the Jaguar Land Rover and WMG apprenticeship routes usually want the Sciences alongside Maths."
+angle_body_1: "With most exam boards, each science is split across two papers, and each paper has its own list of topics. Your child probably revises by subject, though: all of Biology, then all of Chemistry. It feels thorough. But it means evenings go on topics that won't come up until the second paper, while the ones on the next paper get a quick skim. Whatever the split, the same things cost marks on both: required practicals, six-mark answers that need a clear order, and Physics questions where a formula has to be rearranged or a unit changed first. So the effort's there. It just needs aiming."
+angle_body_2: "Week one is for planning, not lecturing. The tutor puts the exam board's topic list and a recent mock side by side on the shared whiteboard, sorts the topics by paper, and marks the ones your child could answer on a bad day. The weakest paper gets the first few weeks. It's worth getting right here, because Science often decides what happens at sixteen. Finham Park, Coundon Court and Coventry College each set their own grades for the courses after GCSE, and so do King Henry VIII and Bablake. The apprenticeships at Jaguar Land Rover and WMG at the University of Warwick usually want the Sciences alongside Maths."
 angle_image: "/images/fluorescent-cells-under-microscope.jpg"
-angle_image_alt: "Fluorescent cells under a microscope, like an image on a GCSE Biology paper"
+angle_image_alt: "Cells glowing pale blue on a dark background, each with a rounded nucleus"
 angle_stat_from: "4"
 angle_stat_to: "6"
 angle_stat_detail: "What a couple of terms of weekly lessons are usually aimed at, once revision follows the two papers rather than the textbook."
@@ -40,7 +40,7 @@ steps:
 
 faqs:
   - q: "Finham Park, Coundon Court or Coventry College: what Science grade will my child need?"
-    a: "It varies, and it changes from year to year, so check the course page for the exact number. Finham Park and Coundon Court both have sixth forms, King Henry VIII and Bablake offer the independent option, and Coventry College publishes its own Level 3 requirements. The pattern to watch for is that A-Level Biology, Chemistry and Physics tend to want a higher grade in that science than the headline entry requirement. That's the number worth aiming at."
+    a: "It varies, and it changes from year to year, so check the course page for the exact number. Finham Park and Coundon Court both have sixth forms, King Henry VIII and Bablake offer the independent option, and Coventry College publishes its own requirements for each course. The pattern to watch for is that A-Level Biology, Chemistry and Physics tend to want a higher grade in that science than the headline entry requirement. That's the number worth aiming at."
   - q: "How do I work out which paper my child is losing marks on?"
     a: "Start with a marked mock rather than the grade on the front. Go through it question by question, note the topic each one tested, then check which of the two papers that topic belongs to. Patterns show up fast: marks lost on one paper's topics, on the longer written answers, or on anything with a calculation. Some schools share a question-by-question breakdown, which saves time. If yours doesn't, send the paper to the tutor before the first lesson and they'll sort it with your child, so the plan starts from evidence rather than a hunch."
   - q: "Are the two papers split the same way on every exam board?"
@@ -48,7 +48,7 @@ faqs:
   - q: "Why should we trust you with our child's Science?"
     a: "We're Harry and Joe. We both had tutors at school, and the difference between a good match and an average one stayed with us, so we built a company around getting that match right. We interview every tutor on the platform ourselves, and families have left us more than 100 five-star reviews on Google. But the fairest test is the free call. Ask us anything."
   - q: "Could we add a few extra lessons before the first Science paper?"
-    a: "Yes. Lessons are online, so extra ones are easy to fit in, including over Easter and half-term, even if you're away. The weeks before the first papers are a good moment, and a handful of lessons close together on that paper's topics can get further than the same hours spread over a term. The tutor will suggest what's worth doing, and you decide how much."
+    a: "Yes. Lessons are online, so extra ones are easy to fit in, including over Easter and half-term, even if you're away. The weeks before the first papers are a good moment, with the extra lessons spent on that paper's topics. Afterwards it's back to one a week, or you can stop once the exams are over. The tutor will suggest what's worth doing, and you decide how much."
 # FAQ picks: G01, A06, A02, E04, C05
 
 reviews:

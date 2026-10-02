@@ -11,13 +11,13 @@ hero_lead: "Most children remember magnesium burning with a bright white flame, 
 
 angle_eyebrow: "THE WRITTEN LANGUAGE OF GCSE CHEMISTRY"
 angle_heading: "Why Formulae and Equations Decide So Many Chemistry Marks"
-angle_body_1: "Chemistry has a written language of its own, and a surprising number of marks depend on it. First come the formulae: magnesium chloride is MgCl2, not MgCl, because of the charges on the ions. Then balancing, so the same atoms appear on both sides. Some questions want state symbols too. On the higher paper there are ionic equations and the half equations from electrolysis, which is where plenty of children aiming for a 7 come unstuck. Your child may understand the reaction perfectly and still lose the mark on how it's written. And because equations turn up in almost every Chemistry topic, one shaky habit costs marks everywhere."
-angle_body_2: "So the first lesson checks the basics with your child on the shared whiteboard: a few formulae from ions, then a couple of equations to balance, then one with state symbols. The slip usually shows quickly, sometimes in the formulae rather than the balancing. From there it's short, regular practice, a handful of equations at the start of every lesson, until writing them feels routine. Higher-tier ionic and half equations come once the basics are secure. It's worth doing well whether your child is at Simon Langton, St Anselm's or The Canterbury Academy, because A-Level Chemistry takes this fluency for granted from the first week of Year 12."
+angle_body_1: "Chemistry has its own written language, and lots of marks hang on it. First the formulae: magnesium chloride is MgCl2, not MgCl, because of the charges on the ions. Then balancing, so both sides have the same atoms. Some questions want state symbols too, the (s), (l), (g) and (aq) for solid, liquid, gas and dissolved. Ionic and half equations on the higher paper are harder again, and that's where plenty of children aiming for a 7 come unstuck. Your child can understand the reaction and still lose the mark on how it's written. And equations turn up in almost every Chemistry topic, so one shaky habit costs marks everywhere."
+angle_body_2: "In the first lesson, the tutor checks the basics with your child on the shared whiteboard: a few formulae from ions, then a couple of equations to balance, then one with state symbols. The slip usually shows quickly, sometimes in the formulae rather than the balancing. From there it's short, regular practice, a handful of equations at the start of every lesson, until writing them feels routine. Higher-tier ionic and half equations come once the basics are secure. It's worth doing well whether your child is at Simon Langton, St Anselm's or The Canterbury Academy, because A-Level Chemistry takes this fluency for granted from the first week of Year 12."
 angle_image: "/images/chemistry-lab-glassware.jpg"
 angle_image_alt: "Beakers, a conical flask and a pipette on a white lab bench"
 angle_stat_from: "5"
 angle_stat_to: "7"
-angle_stat_detail: "What a term of weekly lessons is aimed at, once formulae and equations stop costing your child marks on the Chemistry papers."
+angle_stat_detail: "The aim for a term of weekly lessons, once formulae and equations stop costing your child marks on the Chemistry papers."
 schools:
   - "Simon Langton Grammar School for Boys"
   - "Barton Court Grammar School"
@@ -32,7 +32,7 @@ steps:
   - title: "Start with Harry or Joe"
     body: "You'll have a free call with Harry or Joe, who set up The Degree Gap, so we can get to know you and your child. We'll ask about Triple or Combined, the exam board and how each science is going. If your child understands the reactions but the equations keep coming back wrong, mention it."
   - title: "Your shortlist of tutors"
-    body: "A day later, at most, you'll have two or three tutor profiles, chosen for your child's board and for the science that's costing marks. Someone brilliant at Biology isn't always the best person for Chemistry equations, so that's what we match on. Your child can then meet the tutor you like most on a free video call."
+    body: "A day later, at most, you'll have two or three tutor profiles, chosen for your child's board and for the science that's costing marks. Have a look through them together. Then your child can meet the one you like most on a free video call."
   - title: "One hour, once a week"
     body: "One-to-one lessons online, on a platform called Lessonspace, where formulae and equations get written out together on a shared whiteboard. Every lesson has a replay. From £37 an hour, no contract, and a different tutor at no charge if your child doesn't get on with the first."
 
@@ -44,7 +44,7 @@ faqs:
   - q: "Equations have been a sore point for years. Can that really change in a term?"
     a: "Often, yes, because it's a skill rather than a pile of facts, and skills respond to regular practice. A few equations at the start of every lesson, checked straight away, add up quickly over a term. You'll probably notice your child writing them with less fuss before it shows in a mark. If the trouble goes deeper, like ions and charges that never made sense, it takes longer, because that needs rebuilding first. The tutor will tell you which it is after the first lesson or two."
   - q: "How do we know the tutor will really know their Chemistry?"
-    a: "Every tutor on our platform is a graduate, and each one has been interviewed by Harry or Joe before being accepted. We match on the science that's costing marks, so if Chemistry is the worry, the profiles you see will be tutors who are strong in it. Your child can meet the tutor on a free video call first and ask them anything. If it doesn't feel right, we'll suggest someone else."
+    a: "Every tutor on our platform is a graduate, and each one's been interviewed by Harry or Joe before being accepted. We match on the science that's costing marks, so if Chemistry is the worry, the profiles you see will be tutors who are strong in it. Your child can meet the tutor on a free video call first and ask them anything. If it doesn't feel right, we'll suggest someone else."
   - q: "Is there anything to pay on top of the lessons?"
     a: "No extras, and Canterbury families pay the same as anyone else. The hourly price for Science lessons, from £37 depending on the tutor, is agreed with you before the first lesson, and that's what you pay. No joining fee, no contract, no paying upfront. The free call and the free video meeting with the tutor cost nothing, and after that you only pay for lessons your child actually has. Stopping is your call, at any point."
 

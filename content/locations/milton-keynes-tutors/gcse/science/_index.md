@@ -1,6 +1,6 @@
 ---
 title: "Milton Keynes GCSE Science Tutors | Online | The Degree Gap"
-description: "Online GCSE Science tutors in Milton Keynes for Combined or Triple, when your child has decided they're just not a science person. Lessons from £37 an hour."
+description: "Has your child decided they're 'just not a science person'? Our Milton Keynes GCSE Science tutors find where it went wrong. Online, from £37 an hour."
 layout: "level-subject"
 location: "Milton Keynes"
 level: "GCSE"
@@ -12,7 +12,7 @@ hero_lead: "'I'm just not a science person' is something we hear a lot, usually 
 angle_eyebrow: "'NOT A SCIENCE PERSON'"
 angle_heading: "Why Children Go Off Science, and Where It Usually Starts"
 angle_body_1: "It rarely starts as a dislike of Science. It starts with one topic that didn't land, then another built on top of it. Moles in Chemistry are a common culprit, because so much later work leans on them. Circuits are another, where your child can recite the rules for series and parallel and still not see why they work. Genetic crosses catch plenty of children out too, when the Punnett square is right but the answer's written as a ratio and the question wanted a probability. After a few of those, 'I'm not a science person' starts to feel like the only explanation. It hardly ever is."
-angle_body_2: "A tutor starts small. The first lesson goes through a recent mock with your child to find the two or three places where it went wrong, and the early weeks go on those, with a few quick wins built in on purpose. A child who's gone off a subject needs to see it working again. Then the harder material comes back in: rate graphs where a tangent has to be drawn, six-mark answers, the required practicals. Whether your child's at Denbigh, Oakgrove, Walton High or another Milton Keynes school, the plan starts from their own paper. And if a Science A-Level is on their mind, this is where the push from a 5 towards a 7 begins."
+angle_body_2: "A tutor starts small. The first lesson goes through a recent mock with your child to find the two or three places where it went wrong, and the early weeks go on those, with a few quick wins built in on purpose. A child who's gone off a subject needs to see it working again. Then the harder material comes back in: rate graphs where a tangent has to be drawn, six-mark answers, the practicals. At Denbigh, Oakgrove, Walton High or any other Milton Keynes school, the plan starts from your child's own paper. And if a Science A-Level is on their mind, this is where the push from a 5 towards a 7 begins."
 angle_image: "/images/chemistry-lab-glassware.jpg"
 angle_image_alt: "Beakers and a conical flask on a white bench, with a pipette in one beaker"
 angle_stat_from: "5"
@@ -34,11 +34,11 @@ steps:
   - title: "Choose from a shortlist"
     body: "Inside 24 hours of the call you'll see two or three tutor profiles, picked with your child's exam board and confidence in mind. For a child who's gone off Science, a patient tutor who notices small wins matters as much as subject knowledge. You'll all meet on a free video call first, with no obligation to book."
   - title: "One lesson a week, online"
-    body: "Weekly one-to-one lessons through Lessonspace, the online platform we use, with a shared whiteboard and a replay of every lesson, so anything explained in the autumn can be watched again before the summer exams. Prices start at £37 an hour. No contract, and a free change of tutor if they don't get on."
+    body: "Weekly one-to-one lessons through Lessonspace, the online platform we use, with a shared whiteboard. There's a replay of every lesson, so anything explained in the autumn can be watched again before the summer exams. Prices start at £37 an hour. No contract, and a free change of tutor if they don't get on."
 
 faqs:
   - q: "Where do Milton Keynes children tend to lose the most Science marks?"
-    a: "In much the same places as children everywhere, since the papers are set nationally, and mostly on questions that ask your child to use an idea rather than repeat it. Specific heat capacity calculations. Half-equations for electrolysis on the Higher paper. Six-mark answers that need a clear line of reasoning. And the required practicals, asked about as method and error. Whether your child's at Shenley Brook End, The Hazeley Academy, Lord Grey or elsewhere, we'll check their exam board first, because each board words these questions its own way."
+    a: "In much the same places as children everywhere, since the papers are set nationally, and mostly on questions that ask your child to use an idea rather than repeat it. Specific heat capacity calculations. Half-equations for electrolysis on the Higher paper. Six-mark answers that need a clear line of reasoning. And the practicals, asked about as method and error. Whether your child's at Shenley Brook End, The Hazeley Academy, Lord Grey or elsewhere, we'll check their exam board first, because each board words these questions its own way."
   - q: "My child says they're 'just not a science person'. Is that true?"
     a: "Almost never, in our experience. It's usually two or three topics that went wrong, often a year or more ago, and a feeling that's grown from there. If your child's already managing a 5, there's plenty of science in there to build on. The tutor finds those topics, fixes them first and makes sure your child feels a few questions go right. Most parents notice the way their child talks about Science change before the marks do."
   - q: "Is Year 10 too soon to start Science tutoring?"

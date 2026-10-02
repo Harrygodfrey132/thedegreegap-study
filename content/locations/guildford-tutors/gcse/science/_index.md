@@ -1,24 +1,24 @@
 ---
 title: "Guildford GCSE Science Tutors | Online | The Degree Gap"
 nav_title: "Science"
-description: "Online GCSE Science tutors helping Guildford families, Combined or Triple, when your child is too quiet to ask questions in class. Lessons from £37 an hour."
+description: "Some children won't ask questions in a Science lesson. Our Guildford GCSE Science tutors give your child one-to-one time online to ask them all. From £37."
 layout: "level-subject"
 location: "Guildford"
 level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors Helping Guildford Families"
-hero_lead: "Plenty of children sit through a Science lesson lost and say nothing, because asking in front of thirty classmates feels worse than not knowing. Our Guildford GCSE Science tutors give your child one-to-one time online, where 'can you explain that again?' is the whole point."
+hero_lead: "Plenty of children sit through a Science lesson lost and say nothing, because asking in front of the whole class feels worse than not knowing. Our Guildford GCSE Science tutors give your child one-to-one time online, where 'can you explain that again?' is the whole point."
 
 angle_eyebrow: "THE QUESTIONS YOUR CHILD NEVER ASKS IN CLASS"
 angle_heading: "Why Unasked Questions End Up Costing Your Child Science Marks"
-angle_body_1: "Lots of children won't put their hand up in Science. It isn't that they don't care. They just don't want to be the one who didn't get it. So the question stays in their head, the lesson moves on, and the gap sits there until a paper asks about it. Science is full of those moments, because the exam wants the why, not just the what. Why a catalyst speeds a reaction up without being used up. Why an ionic compound conducts when it's melted but not as a solid. How a vaccine stops you getting ill. What a half-life actually measures. Each one is easy to explain one-to-one, and hard to pick up from a textbook alone."
-angle_body_2: "One-to-one changes that. With nobody else watching, your child can say 'I don't get it' as often as they need to, and a good tutor makes that feel normal from the first lesson. That lesson starts with a recent paper, and every dropped mark gets the same question: which part didn't make sense? The answers turn into a list, and the list becomes the plan. It matters in Guildford, because the sixth forms at George Abbot, Guildford County, St Peter's and Kings College each publish their own Science requirements, and some word them differently for Triple and Combined."
+angle_body_1: "Staying quiet in Science is really common. It isn't that your child doesn't care. They just don't want to be the one who didn't get it. So the question stays in their head, the lesson moves on, and the gap sits there until a paper asks about it. Science is full of those moments, because the exam wants the why, not just the what. Why a catalyst speeds a reaction up without being used up. How a vaccine stops you getting ill. What a half-life actually measures. Each one is easy to explain one-to-one, and hard to pick up from a textbook alone."
+angle_body_2: "One-to-one changes that. With nobody else watching, your child can say 'I don't get it' as often as they need to, and a good tutor makes that feel normal from the first lesson. That lesson starts with a recent paper, and every dropped mark gets the same question: which part didn't make sense? The answers turn into a list, and the list becomes the plan. It matters for sixth form, too. George Abbot, Guildford County and the other sixth forms nearby each set their own Science grades for A-Level."
 angle_image: "/images/chemistry-lab-glassware.jpg"
 angle_image_alt: "Glass beakers, a conical flask and a plastic pipette on a white laboratory bench"
 angle_stat_from: "4"
 angle_stat_to: "6"
-angle_stat_detail: "What a term of weekly lessons is aimed at, once your child is asking the questions that used to stay in their head."
+angle_stat_detail: "Once your child is asking the questions that used to stay in their head, this is what a term of weekly lessons aims for."
 
 schools:
   - "George Abbot School"
@@ -48,7 +48,7 @@ faqs:
   - q: "Will the tutor be patient with a child who doesn't say much?"
     a: "That's one of the things we listen for. Harry or Joe interviews every tutor, and only around 3% of the people who apply make it onto the platform. Knowing the science isn't enough. We want someone who can sit through a silence, ask a better question and make 'I don't know' feel like a normal thing to say. References are checked before anyone's matched, and we'll only suggest tutors we'd be happy to see with a quieter child."
   - q: "Can I sit in on the first lesson?"
-    a: "Of course, if it helps your child settle. Some parents stay nearby for the first one, then step away once their child's comfortable. Most children talk more freely without an audience, even a friendly one, which matters when the whole point is asking questions. You won't be kept in the dark either. Every lesson has a replay you can watch together afterwards, and you can ask the tutor how things are going at any point."
+    a: "Yes, if it helps your child settle. Some parents stay nearby for the first one, then step away once their child's comfortable. Most children talk more freely without an audience, even a friendly one, which matters when the whole point is asking questions. And every lesson has a replay, so the two of you can watch bits back together. If you want to know how it's going, just ask the tutor."
 # FAQ picks: G01, custom, A01, E01, C06
 
 reviews:
