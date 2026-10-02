@@ -18,7 +18,7 @@ first_lesson_quote_name: Alexander
 first_lesson_quote_role: Parent
 first_lesson_quote_grade: A-Level
 tutor_strip_heading: "Baldock A-Level tutors who know your child's course inside out"
-tutor_strip_body: "A-Levels at Knights Templar and at the Hitchin and Letchworth sixth forms aren't always on the same exam board, so we'll check your child's first. Our tutors are all Russell Group graduates, interviewed by Harry or Joe. The profiles are just below, or we can suggest a few."
+tutor_strip_body: "A-Levels at Knights Templar and at the Hitchin and Letchworth sixth forms aren't always on the same exam board, so we'll check your child's first. Our tutors are graduates or university students, interviewed by Harry or Joe. The profiles are just below, or we can suggest a few."
 pathways_heading: "From Baldock to Cambridge, London or Further Afield"
 pathways_lead: "Baldock's on the commuter line into London, and Cambridge is within reach too, which widens your child's choice."
 pathways:

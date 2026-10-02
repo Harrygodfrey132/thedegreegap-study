@@ -23,7 +23,7 @@ first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to 6/7 in GCSE English"
 
 tutor_strip_heading: "Manchester GCSE tutors who've worked with Xaverian, Loreto and Connell applicants"
-tutor_strip_body: "They're all Russell Group graduates, and lots of them have helped Year 10s and 11s get one stubborn subject up to the grade a city college looks for. The profiles are below, or book a free call and we'll put a shortlist together."
+tutor_strip_body: "Plenty are Russell Group graduates or undergraduates, and lots of them have helped Year 10s and 11s get one stubborn subject up to the grade a city college looks for. The profiles are below, or book a free call and we'll put a shortlist together."
 
 pathways_heading: "Manchester After Year 11: The Three Main Routes"
 pathways_lead: "When results day comes, your child will most likely be choosing between these."

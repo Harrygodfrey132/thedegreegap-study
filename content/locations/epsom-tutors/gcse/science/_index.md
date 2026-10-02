@@ -47,7 +47,7 @@ faqs:
   - q: "My child has dyslexia or ADHD. Can a Science tutor still help?"
     a: "Yes. We ask about learning differences on the first call, so you don't have to bring it up. Several tutors on the platform regularly teach children who learn differently. And Science works well online for this. Diagrams stay put instead of being wiped off a board, explanations can be broken into small steps at your child's pace, and every lesson has a replay, so nothing has to stick first time round."
   - q: "How soon could my child start?"
-    a: "Usually within a week. There's a free 15-minute consultation first, then two or three tutor profiles within 24 hours, then a free meeting with the tutor you choose before any paid lesson. If you'd like lessons settled into a routine before mock season, the autumn is a good time to start."
+    a: "Usually within a week. There's a free consultation call first, normally about 30 minutes. Then you'll get two or three tutor profiles within 24 hours, and a free meeting with the tutor you choose before any paid lesson. If you'd like lessons settled into a routine before mock season, the autumn is a good time to start."
 
 reviews:
   - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. …"

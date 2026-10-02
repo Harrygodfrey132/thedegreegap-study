@@ -60,7 +60,7 @@ faq_2_a: "No. If your child has a particular grade in mind, Year 10 is the bette
 faq_3_q: "Can the same tutor cover two subjects?"
 faq_3_a: "Sometimes, if the subjects sit close together. Maths with Physics or Computer Science works well, and so do English Language with Literature, and Biology with Chemistry. Maths alongside History or Geography usually means two tutors, and that's better than stretching one person too thin. Most children only need help in one subject anyway. Starting there and adding another later costs less than the other way round."
 faq_4_q: "How does matching work, and how quickly can we start?"
-faq_4_a: "It starts with a free 15-minute call to work out what your child actually needs. Within 24 hours you'll have two or three tutor profiles, then a free video meeting with the one you choose. It's usually about a week from that call to the first lesson. If the match isn't right, tell us early and we'll find someone else at no charge. The one thing we'd hate is you sitting politely through lessons that aren't working."
+faq_4_a: "It starts with a free call, normally about 30 minutes, to work out what your child actually needs. Within 24 hours you'll have two or three tutor profiles, then a free video meeting with the one you choose. It's usually about a week from that call to the first lesson. If the match isn't right, tell us early and we'll find someone else at no charge. The one thing we'd hate is you sitting politely through lessons that aren't working."
 
 sitemap:
   priority: 0.7

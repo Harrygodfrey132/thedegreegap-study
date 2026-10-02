@@ -24,7 +24,7 @@ first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "A-Level"
 
 tutor_strip_heading: "Exeter A-Level tutors who know which papers your child sits"
-tutor_strip_body: "At A-Level, the board and the options your child's taking decide which papers they'll sit, so we ask about both on the first call. Every tutor's a Russell Group graduate, and plenty sat these papers recently. Look through the profiles, or we'll match your child for you."
+tutor_strip_body: "At A-Level, the board and the options your child's taking decide which papers they'll sit, so we ask about both on the first call. Every tutor has at least two years' experience, and plenty sat these papers recently. Look through the profiles, or we'll match your child for you."
 
 pathways_heading: "Where Exeter Teenagers Head After Their A-Levels"
 pathways_lead: "The three routes most Exeter families end up weighing, and what each one hangs on."

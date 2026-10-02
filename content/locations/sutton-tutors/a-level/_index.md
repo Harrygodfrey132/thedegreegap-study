@@ -22,7 +22,7 @@ first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "C grades to A grades at A-Level"
 
 tutor_strip_heading: "Sutton A-Level tutors who know the course your child's on"
-tutor_strip_body: "Sixth forms across Sutton, Carshalton and Wallington don't all use the same exam boards, so we'll check your child's before suggesting anyone. Every tutor's a graduate who knows which Year 12 topics come back in Year 13. Have a look at the profiles, or we'll match your child."
+tutor_strip_body: "Sixth forms across Sutton, Carshalton and Wallington don't all use the same exam boards, so we'll check your child's before suggesting anyone. Graduate or undergraduate, every tutor knows which Year 12 topics come back in Year 13. Have a look at the profiles, or we'll match your child."
 
 pathways_heading: "Where Sutton A-Levels Lead After Results Day"
 pathways_lead: "Whether it's a university offer or an apprenticeship at the hospital down the road, the tutor keeps your child's next step in mind from the first lesson."

@@ -22,7 +22,7 @@ first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Grade C to Grade A at A-Level"
 
 tutor_strip_heading: "Aylesbury A-Level tutors who show your child where the marks hide"
-tutor_strip_body: "They're all Russell Group graduates, matched to your child's exam board and the subject that's costing them marks. A few are qualified examiners too, so they've seen the marking from the other side. Take a look, or we'll suggest two or three after a call."
+tutor_strip_body: "They're graduates and undergraduates, many from Russell Group universities, matched to your child's exam board and the subject that's costing them marks. A few are qualified examiners too, so they've seen the marking from the other side. Take a look, or we'll suggest two or three after a call."
 
 pathways_heading: "Where Aylesbury Sixth Formers Go After A-Levels"
 pathways_lead: "After results day, it tends to come down to one of these three."

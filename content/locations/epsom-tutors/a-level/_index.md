@@ -22,7 +22,7 @@ first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Cs to As across A-Levels"
 
 tutor_strip_heading: "Epsom A-Level tutors for families aiming at Surrey and London offers"
-tutor_strip_body: "They're all Russell Group graduates, some are qualified examiners, and each one's been interviewed by Harry or Joe, who run The Degree Gap. Only about 3% of applicants make the cut. Take a look at the profiles, or we'll match your child with someone."
+tutor_strip_body: "Graduates and undergraduates, all with at least two years' tutoring. Some are qualified examiners, and each one's been interviewed by Harry or Joe, who run The Degree Gap. Only about 3% of applicants make the cut. Take a look at the profiles, or we'll match your child with someone."
 
 pathways_heading: "What an Epsom A-Level Opens Up Next"
 pathways_lead: "Here's roughly what each route looks like from Epsom, and what it'll ask of your child's grades."

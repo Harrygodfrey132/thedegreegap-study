@@ -59,7 +59,7 @@ faq_2_a: "In the same few places, year after year. In Maths, it's multi-step pro
 faq_3_q: "Can you help with Triple Science as well as Combined?"
 faq_3_a: "Yes, and we'll ask which one your child's entered for before we match. Combined Science counts as two GCSEs and covers the three sciences in less depth. Triple counts as three, and now and then a sixth form names it in its Science entry grades. If one science is clearly the problem, we'll match a tutor who knows that one inside out, not someone covering all three. That pays off once the calculations start."
 faq_4_q: "How quickly can my child start?"
-faq_4_a: "Usually within a week. We start with a free 15-minute call, where Harry or Joe works out what's actually needed. You'll have two or three tutor profiles within 24 hours of it. Your child meets whoever you choose on a free video call before any paid lesson. And if it turns out your child doesn't need weekly lessons, we'll say so rather than book them."
+faq_4_a: "Usually within a week. We start with a free call, normally about 30 minutes, where Harry or Joe works out what's actually needed. You'll have two or three tutor profiles within 24 hours of it. Your child meets whoever you choose on a free video call before any paid lesson. And if it turns out your child doesn't need weekly lessons, we'll say so rather than book them."
 
 sitemap:
   priority: 0.7

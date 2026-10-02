@@ -22,8 +22,8 @@ first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Two grades above Year 13 mock"
 
-tutor_strip_heading: "Manchester A-Level tutors who've done the Russell Group route themselves"
-tutor_strip_body: "The tutors on our platform are all Russell Group graduates, including some from Manchester and from Oxford and Cambridge. We match on your child's exam board, not just the subject. Have a look at their profiles, or we'll send you two or three after a free call."
+tutor_strip_heading: "Manchester A-Level tutors, many of whom know the Russell Group route first-hand"
+tutor_strip_body: "The tutors on our platform are graduates and undergraduates, many from Russell Group universities including Manchester, Oxford and Cambridge. We match on your child's exam board, not just the subject. Have a look at their profiles, or we'll send you two or three after a free call."
 
 pathways_heading: "Manchester After A-Levels: The Routes Your Child Might Take"
 pathways_lead: "By Year 13, most Manchester families are choosing between these three."

@@ -22,7 +22,7 @@ first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Grade E to Grade C across three A-Levels"
 
 tutor_strip_heading: "Swindon A-Level tutors chosen by subject and exam board"
-tutor_strip_body: "The best tutor for OCR Physics or Edexcel Economics is rarely the one who lives nearest, and being online means that doesn't matter. Every tutor on our platform went to a Russell Group university. Have a browse, or leave the choosing to us."
+tutor_strip_body: "The best tutor for OCR Physics or Edexcel Economics is rarely the one who lives nearest, and being online means that doesn't matter. Our tutors, many from Russell Group universities, have all tutored for two years or more. Have a browse, or leave the choosing to us."
 
 pathways_heading: "Life After A-Levels in Swindon"
 pathways_lead: "When results day comes, most Swindon families are weighing up one of these three."
@@ -59,7 +59,7 @@ faq_2_a: "It can, but timing decides how much. A prediction is based on a whole 
 faq_3_q: "Can my child have a different tutor for each Science?"
 faq_3_a: "Yes, and at A-Level we'd usually suggest it. Biology, Chemistry and Physics pull apart once the maths in Physics and the reaction mechanisms in Chemistry arrive. If your child takes all three, they may end up with more than one tutor. But we'd normally start with whichever one is really holding the offer back, not all three at once."
 faq_4_q: "How quickly can my child start?"
-faq_4_a: "Usually within a week. First there's a free fifteen-minute call with Harry or Joe, with no obligation. You'll get two or three tutor profiles within 24 hours of it, then a free fifteen-minute meeting with whoever you like best, before you pay for anything. And if they don't click, we'll find someone else at no charge."
+faq_4_a: "Usually within a week. First there's a free call with Harry or Joe. It normally takes about thirty minutes, and there's no obligation. You'll get two or three tutor profiles within 24 hours of it, then a free fifteen-minute meeting with whoever you like best, before you pay for anything. And if they don't click, we'll find someone else at no charge."
 
 sitemap:
   priority: 0.7

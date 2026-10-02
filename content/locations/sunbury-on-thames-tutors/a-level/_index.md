@@ -22,7 +22,7 @@ first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "C grades to A grades at A-Level"
 
 tutor_strip_heading: "Sunbury A-Level tutors chosen for the course, not the postcode"
-tutor_strip_body: "Your child's sixth form could be in any of several boroughs, so we'll check the exam board and subjects before suggesting anyone. The tutors are all graduates, interviewed by our co-founders, Harry and Joe, and only around 3% of applicants are accepted."
+tutor_strip_body: "Your child's sixth form could be in any of several boroughs, so we'll check the exam board and subjects before suggesting anyone. The tutors, graduates and undergraduates alike, are interviewed by our co-founders, Harry and Joe, and only around 3% of applicants are accepted."
 
 pathways_heading: "Where Sunbury Sixth Formers Head After A-Levels"
 pathways_lead: "Three routes Sunbury families tend to weigh up while their child's in sixth form."

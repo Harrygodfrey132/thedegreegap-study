@@ -48,7 +48,7 @@ faqs:
   - q: "Can a tutor work with my child's dyslexia, ADHD or processing difficulties?"
     a: "Yes, and we'll ask about it when we're matching, so you don't have to raise it. Several tutors on our platform work regularly with children who learn differently. The online whiteboard helps here: the tutor can split an explanation into small pieces, and your child can sketch out a long answer on screen before writing it. Every lesson has a replay, so there's no need to scribble notes during the hour. Mention it on the call."
   - q: "How soon can my child start?"
-    a: "Usually within the week. A free 15-minute call with Joe or Harry, then two or three tutor profiles within 24 hours, then a free 15-minute video meeting with the tutor you pick, then the first paid lesson. If your child has just moved school and is behind, say so on the call. We can normally speed things up rather than leave them drifting through a term."
+    a: "Usually within the week. First comes a free call with Joe or Harry, which tends to last about 30 minutes. Then two or three tutor profiles within 24 hours, then a free 15-minute video meeting with the tutor you pick, then the first paid lesson. If your child has just moved school and is behind, say so on the call. We can normally speed things up rather than leave them drifting through a term."
 # FAQ picks: G04, A06, A01, E03, C10
 
 reviews:
