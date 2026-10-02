@@ -1,16 +1,16 @@
 ---
 title: "Wolverhampton Tutoring | GCSE & A-Level Tutors"
-description: "Wolverhampton tutors for GCSE and A-Level, online and one-to-one, plus help with subject choices and university applications. From £37, no contract."
+description: "GCSEs, A-Levels and UCAS all new to your family? Our Wolverhampton tutors teach your child one-to-one online, and we'll help with the big choices. From £37."
 layout: single
 location: Wolverhampton
 banner_heading: "From GCSE and A-Level to University, Online Wolverhampton Tutors in Your Child's Corner"
 banner_description: "You want every door open for your child, even if A-Levels and university applications are new ground for your family. A tutor helps with the grades. We'll help with the rest."
 content_angle: "first in the family: weekly tutoring plus plain guidance on A-Level choices, sixth form and UCAS, for parents who haven't been through it themselves"
 intro_1: "Some of the Wolverhampton parents we speak to didn't go to university themselves, and they're determined their child will have the choice. Others did, years ago, and barely recognise today's GCSE grades or the UCAS process. Either way, it's hard to help with homework you can't check, or to know what to ask at parents' evening. That's not a failing. The system has changed a lot, and nobody hands parents a guide to it."
-intro_2: "So we help with both halves. Each week, a tutor works with your child on whichever subjects need it most, whether they're aiming for sixth form at Wulfrun College or a medicine application a few years on. Around that, Harry and Joe, who started The Degree Gap, can talk you through bigger decisions, like which A-Levels keep doors open. It starts with a free call. Within 24 hours we'll send you two or three tutors to look at, and there's a chance to meet your top choice before anything's booked."
+intro_2: "So we help with both halves. Each week, a tutor works with your child on whichever subjects need it most, whether they're aiming for a place at City of Wolverhampton College or a medicine application a few years on. Around that, Harry and Joe, who started The Degree Gap, can talk you through bigger decisions, like which A-Levels keep doors open. It starts with a free call. Within 24 hours we'll send you two or three tutors to look at, and there's a chance to meet your top choice before anything's booked."
 about_heading: Experienced GCSE and A-Level Tutors in Wolverhampton
 about_image: /images/graduation-ceremony-caps.jpg
-schools_intro: "Wolverhampton children want very different things from school, and we work with families across the city, with children at Wolverhampton Grammar School, Our Lady & St Chad Catholic Academy, Highfields School, Heath Park Academy, Smestow Academy and St Edmund's Catholic Academy. One wants a strong UCAS application. Another just wants to stop dreading Maths. Both matter. Our 'Dragon's Den' revision workshops run in schools too, and Harry and Joe often lead them themselves."
+schools_intro: "One child wants a strong UCAS application. Another just wants to stop dreading Maths. Both matter. We see both in families right across the city, with children at Wolverhampton Grammar School, Our Lady & St Chad Catholic Academy, Highfields School, Heath Park Academy, Smestow Academy and St Edmund's Catholic Academy. Our 'Dragon's Den' revision workshops run in schools too, and Harry and Joe often lead them themselves."
 schools:
   - Wolverhampton Grammar School
   - Our Lady & St Chad Catholic Academy
@@ -19,8 +19,8 @@ schools:
   - Smestow Academy
   - St Edmund's Catholic Academy
 schools_image: /images/students-listening-in-classroom.jpg
-online_heading: "Why online tutoring gives Wolverhampton families more choice"
-online_1: "Because every lesson is online, we can pick your child's tutor from right across the UK, rather than only from the Wolverhampton area. If your child would get on best with a tutor who also marks GCSE English Literature papers, we can look for one anywhere in the country. Lessonspace, the platform lessons run on, lets the tutor see your child's working as it's written and step in straight away."
+online_heading: "The right tutor, wherever they live: online tutoring for Wolverhampton"
+online_1: "Because every lesson is online, we can pick your child's tutor from right across the UK, rather than only from the Wolverhampton area. If your child's GCSE English Literature needs a tutor who also marks those papers, we can look for one anywhere in the country. Lessonspace, the platform lessons run on, lets the tutor see your child's working as it's written and step in straight away."
 online_2: "It's easier on family life, too. Nobody has to do a cross-city drive after a long day at work, and lessons can go in whenever suits your week. Every lesson is recorded, which means a tricky explanation can be watched again at any point. Most children get the hang of it inside a lesson or two."
 online_image: /images/student-celebrating-online-learning.jpg
 map_url: https://maps.google.com/maps?q=Wolverhampton,UK&output=embed
@@ -55,19 +55,19 @@ alevel_subjects:
 other_subjects:
   - "University Personal Statement|A UCAS personal statement shaped with someone who's written one before, which helps when nobody at home has.|/book-a-call/"
 faq_1_q: "I didn't go to university myself. Can you help with UCAS?"
-faq_1_a: "Yes, and plenty of parents ask us exactly that. Alongside the weekly lessons, Harry and Joe can talk you through choosing A-Levels, sixth form options and the UCAS process, in plain English. We've been through it ourselves, so just ask about anything that's unfamiliar."
+faq_1_a: "Yes, and it's a question we hear a lot. Alongside the weekly lessons, Harry and Joe can talk you through choosing A-Levels, sixth form options and the UCAS process, in plain English. We've been through it ourselves, so just ask about anything that's unfamiliar."
 faq_2_q: "How do you choose your tutors?"
-faq_2_a: "They're all graduates of top Russell Group universities, and many are qualified teachers. But a degree isn't enough on its own. The bit we care about most is whether they can explain a hard idea clearly and kindly to a teenager."
+faq_2_a: "Every tutor we'd suggest has a degree from a top Russell Group university, and plenty are qualified teachers too. But that isn't enough on its own. The bit we care about most is whether they can explain a hard idea clearly and kindly to a teenager."
 faq_3_q: "How much are lessons, and is there a contract?"
-faq_3_a: "It depends on the tutor, starting from £37 an hour. You'll always know the rate before the first lesson, you pay lesson by lesson, and there's no contract tying you in."
+faq_3_a: "It's from £37 an hour, and the rate depends on which tutor you choose. You'll always know the price before the first lesson, and there's no contract tying you in, so you can stop whenever you like."
 faq_4_q: "Can a tutor help with sixth form applications, including tests and interviews?"
-faq_4_a: "Yes. Whether it's Wulfrun College or a sixth form further afield, the tutor can help your child prepare for any entry test and practise interview questions out loud, so talking about themselves feels less awkward."
+faq_4_a: "Yes. Whether it's City of Wolverhampton College or a sixth form further afield, the tutor can help your child prepare for any entry test and practise interview questions out loud, so talking about themselves feels less awkward."
 why_heading: "Tutoring that shows Wolverhampton children what the exam is really asking"
-why_para_1: "Take two Year 11s who start lessons in the same week. One is working hard and not moving past the same grade. The other is doing well and wants more, maybe with medicine in mind. Very often they're missing the same thing: nobody has shown them exactly what the mark scheme is asking for. The knowledge is there. But the gap between an answer that picks up some of the marks and one that gets all of them is often a sentence or two, and that's rarely spelled out when there are thirty others in the room."
+why_para_1: "Take two Year 11s who start lessons in the same week. One is working hard and not moving past the same grade. The other is doing well and wants more, maybe with medicine in mind. Very often they're missing the same thing: a clear sense of what the mark scheme is asking for. The knowledge is there. But the gap between an answer that picks up some of the marks and one that gets all of them is often a sentence or two. With thirty others in the room, there's rarely time to spell that out for each child."
 why_para_2: "So the tutor spells it out. Word by word, if that's what it takes. They'll mark a past paper alongside your child, point to the words that earned each mark, and practise until your child does it without being prompted. And because it's one-to-one, your child can ask the questions they'd never ask in class. Often, the first thing parents notice is their child talking about the future with a bit more certainty, well before a report shows it."
 accordion_quality: "Just 3% or so of the tutors who apply to us get onto the platform. Each one sits an interview with Harry and Joe, who are looking for more than good grades: someone who can stretch a keen child and steady a worried one, sometimes in the same week."
 accordion_experience: "Most have been tutoring for a couple of years at least, and between them they've helped teenagers apply for medicine, dentistry, engineering and other competitive courses. They know what those applications involve, and how to build towards them without the whole thing taking over family life."
-accordion_personalised: "Every plan is built around your child's own goals and the subjects that matter most to them, and the tutor will happily go beyond the syllabus when a bit of extra stretch would help."
+accordion_personalised: "If Maths is the worry, that's where the hours go. If your child has medicine in mind, the tutor will happily go beyond the syllabus in Biology or Chemistry when a bit of extra stretch would help."
 reviews:
   - Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone
     above and beyond to pair both my sons with the appropriate tutors, all of

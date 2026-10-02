@@ -1,13 +1,13 @@
 ---
 title: "Worcester GCSE & A-Level Tutors | The Degree Gap"
-description: "Worcester tutors for GCSE and A-Level, one-to-one and online, with room for quieter children to ask. A free call with our founders, then profiles in 24 hours."
+description: "Bright, polite and quietly stuck? Our Worcester tutors teach GCSE and A-Level one-to-one, so your child can finally ask. A free call, then profiles in 24 hours."
 layout: "single"
 location: "Worcester"
 banner_heading: "Quiet in class and falling behind? Online Worcester tutors for GCSEs and A-Levels"
 banner_description: "A quiet child can nod along in a busy lesson for months without anyone spotting the gap. One-to-one with a Worcester tutor, there's finally room to say 'I don't get this'."
 content_angle: "the quiet child who nods along and never asks, and the parent who has already tried the revision timetable; state and independent schools across the city"
-intro_1: "The revision timetable is still on the fridge. The highlighters came out once. You've had the chat with the teacher, and when you ask how Maths is going, you still get 'fine' and not much more. A lot of Worcester parents describe a child like this to us: bright, polite, never any bother, and very good at keeping their head down. In a room of thirty, that can mean a Year 8 topic slid past without a single question being asked. Nobody noticed. Your child included."
-intro_2: "One-to-one, nobody else is listening. The tutor can ask your child to talk a method through and hear exactly where it wobbles, and the question that felt too silly to ask in class finally gets asked. The first step is a free call with Harry or Joe, who'll want to know what your child is like as well as what the report says. Two or three tutor profiles follow within 24 hours."
+intro_1: "The revision timetable is still on the fridge. The highlighters came out once. You've had the chat with the teacher, and when you ask how Maths is going, you still get 'it's okay' and not much more. A lot of Worcester parents describe a child like this to us: bright, polite, never any bother, and very good at keeping their head down. In a room of thirty, a Year 8 topic can slide past without a single question being asked. Often your child doesn't even realise it's gone."
+intro_2: "In a one-to-one lesson, nobody else is listening. The tutor can ask your child to talk a method through and hear exactly where it wobbles, and the question they'd have sat on in class finally gets asked. The first step is a free call with one of our founders, Harry or Joe. They'll want to know what your child is like as well as what the report says. Two or three tutor profiles follow within 24 hours."
 about_heading: "Tutors Who Know What Worcester Students Need"
 about_image: "/images/students-in-classroom-taking-notes.jpg"
 schools_intro: "Worcester families we help have children at state and independent schools alike: Nunnery Wood, Christopher Whitehead, Bishop Perowne and Tudor Grange Academy, as well as RGS Worcester and King's. You'll find a quiet child in every one of them. Each school picks its own exam boards, so the tutors we suggest will know the papers your child actually sits. We run revision workshops too, and a few friends can book one together if they'd like more structure before exams."
@@ -46,19 +46,19 @@ other_subjects: [
   "University Personal Statement|Help finding what your child really wants to say in their UCAS statement, then shaping it draft by draft.|/book-a-call/",
 ]
 faq_1_q: "My child is very quiet. Will they talk to a tutor?"
-faq_1_a: "Usually, yes, and often more than they would at school. Nobody else is listening, and the tutor asks lots of small questions instead of waiting for a hand to go up. If your child doesn't warm to them after a couple of lessons, we'll suggest a different tutor, free of charge."
+faq_1_a: "Usually, yes, and often more than they would at school. There's no audience, and the tutor asks lots of small questions instead of waiting for a hand to go up. If your child doesn't warm to them after a couple of lessons, we'll suggest a different tutor, free of charge."
 faq_2_q: "Will the tutor know which exam board my child's school uses?"
 faq_2_a: "Yes. On the call we'll ask which boards your child is sitting, and it can differ from subject to subject. Then we only suggest tutors who know those papers, whether that's AQA, Edexcel, OCR or WJEC. If you're not sure, your child's teacher can tell you."
 faq_3_q: "How soon will we notice a change?"
-faq_3_a: "Often within the first few lessons, and usually in how your child talks about the subject before it shows in a mark. Grades take longer, and nobody can promise one."
+faq_3_a: "Often within the first few lessons, and usually in how your child talks about the subject before it shows in a mark. The grade itself comes later, and no one can promise it."
 faq_4_q: "How do we pick a tutor who'll suit our child?"
 faq_4_a: "There's no long list to wade through. After the free call, Harry or Joe send two or three profiles within 24 hours, and your child can meet your favourite in a free video meeting before you decide anything."
-why_heading: "Worcester tutoring that gives a quiet child room to ask"
-why_para_1: "On a first call, Worcester parents often describe the same child. Polite and never any trouble. Then the tutor's first lesson turns up something small and old, like quadratics or comparing two sources, that your child has quietly steered around since Year 9. They didn't ask at the time because nobody else seemed stuck. And the longer it went on, the harder it got to admit."
-why_para_2: "So the tutor makes asking easy. Plenty of short questions, your child doing the writing, and no reaction to a wrong answer except 'let's look at that again'. Once the old topic is rebuilt, this term's work starts to make sense. Parents tell us the first sign is small, like a question asked in class for the first time in months."
-accordion_quality: "Every tutor we suggest is a Russell Group graduate, and Harry or Joe have interviewed each one. With a quieter child, what we're really checking is patience. Can this person wait out a silence and put a nervous Year 10 at ease? Plenty of clever people can't."
+why_heading: "Worcester tutors who give a quiet child room to ask"
+why_para_1: "The tutor's first lesson usually turns up something small and old, like quadratics or comparing two sources, that your child has quietly steered around since Year 9. They didn't ask at the time because nobody else seemed stuck. And the longer it went on, the harder it got to admit."
+why_para_2: "First, asking has to feel easy. Plenty of short questions, your child doing the writing, and no reaction to a wrong answer except 'let's look at that again'. Once the old topic is rebuilt, this term's work starts to make sense. Parents tell us the first sign is small, like a question asked in class for the first time in months."
+accordion_quality: "Every tutor we suggest is a Russell Group graduate, and Harry or Joe has interviewed each one. With a quieter child, what we're really checking is patience. Can this person wait out a silence and put a nervous Year 10 at ease? Plenty of clever people can't."
 accordion_experience: "Most of the tutors we'd put forward have spent at least two years teaching one-to-one, often with children who'd gone off a subject. They know a shrug usually means 'I'm lost', and how to get past it without making a big thing of it."
-accordion_personalised: "Your child sets the pace, not the class. If the first couple of lessons are mostly about getting comfortable, that's fine. The tutor maps out the gaps as they go, and speeds up once your child starts offering answers without being asked. Some need a gentle start. Others want stretching sooner."
+accordion_personalised: "If the first couple of lessons are mostly about getting comfortable, that's fine. The tutor maps out the gaps as they go, and speeds up once your child starts offering answers without being asked. Some need a gentle start. Others want stretching sooner."
 reviews: [
   "Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE. Thank you.",
   "Tommy|University Student|I wish I had found The Degree Gap when I was sitting my school exams. They helped with my dissertation work and without their help I am not sure I would have graduated so successfully and landed a successful job.",
