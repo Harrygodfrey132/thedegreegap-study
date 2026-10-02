@@ -22,7 +22,7 @@ first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Grade E to Grade C across three A-Levels"
 
 tutor_strip_heading: "London A-Level tutors who read answers the way examiners do"
-tutor_strip_body: "Every tutor's a Russell Group graduate, and some are qualified examiners. At A-Level, what lifts a decent answer into the top band is mostly how it's written, and that's where they'll look first. Browse the profiles, or tell us about your child and we'll match them."
+tutor_strip_body: "Every tutor's a Russell Group graduate, and some are qualified examiners. At A-Level, what lifts a decent answer into the top band is usually exam technique, and that's where they'll look first. Browse the profiles, or tell us about your child and we'll match them."
 
 pathways_heading: "After London A-Levels: Where Your Child Could Go Next"
 pathways_lead: "Three routes worth knowing about early, because each one looks at the grades in its own way."
@@ -65,7 +65,7 @@ faq_1_a: "It's the subject that's changed, not her. A-Level Maths wants her to c
 faq_2_q: "Is Year 12 too early to start, or should we wait for Year 13?"
 faq_2_a: "Year 12 isn't too early. It's usually the better time, and most families leave it later than they'd like. Predicted grades come mainly from Year 12 work and the start of Year 13, so anything that's going to shift one has to happen before then. A Year 13 start still works. There's just less room, and more of each lesson goes on past papers rather than rebuilding the topics that never quite landed."
 faq_3_q: "A-Level Maths has gone from fine to falling apart. What does a tutor actually do?"
-faq_3_a: "First, they find where it's breaking. The opening lesson usually goes through a marked paper to see where your child's method slips. A-Level Maths has three parts, pure, mechanics and statistics, and it's common for one of them to drag the whole grade down while the other two are fine. So the plan goes after that one, rather than starting the whole course again."
+faq_3_a: "First, they find where it's breaking. The opening lesson usually goes through a marked paper to see where your child's method slips. A-Level Maths covers pure, mechanics and statistics, and it's common for one of them to drag the whole grade down while the other two are fine. So the plan goes after that one, rather than starting the whole course again."
 faq_4_q: "Do you have separate tutors for A-Level Biology, Chemistry and Physics?"
 faq_4_a: "Yes. At A-Level they're really three separate subjects, each with its own sticking points: the reaction mechanisms in organic Chemistry, the maths in Physics, the links between topics in Biology. If your child takes all three, they'll often work with more than one tutor. We match on the exam board too, so if they're on OCR A, their tutor knows that paper rather than the AQA one."
 

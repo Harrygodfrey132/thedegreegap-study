@@ -15,14 +15,14 @@ grade_stat: "The parent who saw it happen describes a move from Cs to As at A-Le
 
 first_lesson_eyebrow: "EVERYBODY TRAVELS SOMEWHERE DIFFERENT"
 first_lesson_heading: "What a Sunbury-on-Thames A-Level Tutor Asks Before Anything Else"
-first_lesson_context: "There's no one sixth form that Sunbury teenagers go on to. They spread out across colleges in Surrey and the neighbouring boroughs, so your child's GCSE friendship group ends up on different courses, with different exam boards and subject mixes. You lose the informal network that made GCSE easier to judge, and a tutor picked for living nearby probably won't know the papers your child will sit."
+first_lesson_context: "There's no one sixth form that Sunbury teenagers go on to. They spread out across colleges in Surrey and the neighbouring boroughs, so your child's GCSE friendship group ends up on different courses, with different exam boards and subject mixes. That's why a tutor's first question is which papers your child will actually sit, not where you live."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "C grades to A grades at A-Level"
 
 tutor_strip_heading: "Sunbury A-Level tutors chosen for the course, not the postcode"
-tutor_strip_body: "Your child's sixth form could be in any of several boroughs, so we'll check the exam board and subjects before suggesting anyone. Every tutor's a graduate and has passed an interview with Harry or Joe, which only around 3% of applicants get through."
+tutor_strip_body: "Your child's sixth form could be in any of several boroughs, so we'll check the exam board and subjects before suggesting anyone. The tutors are all graduates, interviewed by our co-founders, Harry and Joe, and only around 3% of applicants are accepted."
 
 pathways_heading: "Where Sunbury Sixth Formers Head After A-Levels"
 pathways_lead: "Three routes Sunbury families tend to weigh up while their child's in sixth form."
@@ -53,8 +53,8 @@ faq_1_q: "My child's college is in a different borough. Does that change anythin
 faq_1_a: "Not for the lessons, which are all online, but it does change how we match. We'll ask for the college, the exam board and your child's exact subjects, because teenagers from Sunbury end up on so many different courses that we'd never guess one from a postcode. The tutor we suggest will know the papers your child's actually sitting."
 faq_2_q: "We've lost the parent network we had at GCSE. How do we know how she's doing?"
 faq_2_a: "Her marked work will tell you more than any grade. It's a real loss, though, and lots of parents feel it. Ask to see a marked mock paper, because that shows whether she's losing marks on what she knows, on how she sets out answers, or on time. It's also what the tutor looks at in the first lesson, and you'll get a short written note after every lesson, so you're not left guessing."
-faq_3_q: "Do we start now in Year 12, or wait and see how Year 13 goes?"
-faq_3_a: "Start in Year 12, if you can. The school sends its predictions in the autumn of Year 13, based mostly on Year 12 work, so what your child does now feeds both the prediction and the final paper. A Year 13 start still helps the final grade, and lots of families begin then. But by the January mocks in Year 13, the applications have usually gone."
+faq_3_q: "Would Year 13 be soon enough, or should we start in Year 12?"
+faq_3_a: "Ideally Year 12, because of when predictions are made. The school sends them in the autumn of Year 13, based mostly on Year 12 work, so progress made that year feeds both the prediction and the final paper. A Year 13 start still helps the final grade, and lots of families begin then. But by the January mocks in Year 13, the applications have usually gone."
 faq_4_q: "What if the tutor we pick turns out not to suit my child?"
 faq_4_a: "Just tell us and we'll suggest someone else, with no charge for the change. You'll speak to Harry or Joe before any tutor's put forward, and there's a free 15-minute video meeting with the tutor before any paid lesson. Your child will usually know within minutes whether the explanations click. No contract, and no minimum term."
 

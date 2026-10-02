@@ -15,21 +15,21 @@ grade_stat: "A parent's review describes Cs turning into As at A-Level, with hel
 
 first_lesson_eyebrow: "NEW SCHOOL, NEW LEVEL, SAME SEPTEMBER"
 first_lesson_heading: "Why Bromley A-Level Tutoring So Often Starts With a Change of School"
-first_lesson_context: "Sixth form shuffles Bromley around. St Olave's and Newstead Wood take applicants from other schools at 16, Ravens Wood and Bullers Wood open their sixth forms to girls and boys, and Langley Park's boys' school has a mixed sixth form. So your child may be getting used to new teachers and a new course at once, and the tutor's first job is finding any topic the old school covered differently."
+first_lesson_context: "Sixth form shuffles Bromley around. St Olave's and Newstead Wood take applicants from other schools at 16, and Ravens Wood, Bullers Wood and Langley Park's boys' school all have mixed sixth forms. So your child may be getting used to new teachers and a new course at once, and the tutor's first job is finding any topic the old school covered differently."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Cs to As at A-Level"
 
 tutor_strip_heading: "Bromley A-Level tutors who spot the gaps a change of school leaves"
-tutor_strip_body: "If your child joined St Olave's or Newstead Wood at 16, a topic taught a different way can hide until a formula comes out wrong. We'll check the exam board first. Harry and Joe interview every tutor, and only around 3% of applicants get through."
+tutor_strip_body: "If your child joined St Olave's or Newstead Wood at 16, a topic taught a different way can hide until a formula comes out wrong. We'll check the exam board first. Our founders, Harry and Joe, interview every tutor, and only around 3% of applicants get through."
 
 pathways_heading: "The Three Roads Out of a Bromley Sixth Form"
 pathways_lead: "In Bromley, the next step's often a train ride rather than a move away, and that shapes all three."
 pathways:
   - title: "Universities"
     body: >
-      With Victoria about a quarter of an hour from Bromley South, plenty of Year 13s apply to King's College London or UCL and carry on living at home, while others head further afield. Every offer rests on grades predicted in Year 12 and the autumn of Year 13, months before your child sits an exam.
+      With Victoria about a quarter of an hour from Bromley South, plenty of Year 13s apply to King's College London or UCL and carry on living at home, while others head further afield. Every offer rests on grades predicted in Year 12 and the autumn of Year 13, months before your child sits the real thing.
   - title: "Degree Apprenticeships"
     body: >
       Direct Line Group runs graduate and apprenticeship programmes from its Bromley head office, and London South East Colleges teaches degree-level and professional courses at its Bromley campus. King's College Hospital NHS Foundation Trust takes on apprentices at the Princess Royal University Hospital and its other sites, and these schemes often close well before the UCAS deadline.
@@ -52,9 +52,9 @@ reviews:
   - "Charlotte|Student|I cannot recommend Harry enough. He was helpful welcoming and helped me achieve a grade higher than I was expected!"
 
 faq_1_q: "He's just started Year 12 at a new sixth form. Should we wait for the first report before getting a tutor?"
-faq_1_a: "No, and it's down to the calendar. The first report tends to arrive after the autumn half term. The Year 12 mocks follow in the spring, and the school uses those when it writes the predicted grades that go to UCAS a few months later. If your son's changed school at 16, he may also be carrying topics taught one way at the old school and assumed another way at the new one. A tutor usually finds those joins in the first hour or two. Wait for the report, and you'll find them after the first mark's gone down."
+faq_1_a: "No, and it's down to the calendar. The first report tends to arrive after the autumn half term. The Year 12 mocks follow in the spring, and the school uses those when it writes the predicted grades that go to UCAS a few months later. If your son's changed school at 16, he may also be carrying topics taught one way at the old school and assumed another way at the new one. A tutor usually finds those gaps in the first lesson or two. Wait for the report, and you'll find them after the first mark's gone down."
 faq_2_q: "Predictions go on the UCAS form in the autumn of Year 13. How much can change before then?"
-faq_2_a: "Quite a lot, if the work starts in Year 12, though nobody can promise a number. Predictions lean on Year 12 mocks and the first weeks of Year 13. So tutoring in the spring and summer of Year 12 feeds the grade the school writes down, and the exam that has to match it. Start in Year 13 and the plan narrows to the two or three question types costing your child the most marks. That can still lift the final grade. It just rarely changes the prediction, which has usually gone off by then."
+faq_2_a: "Quite a lot, if the work starts in Year 12, though nobody can promise a number. Predictions lean on Year 12 mocks and the first weeks of Year 13. So what your child does with a tutor in the spring and summer of Year 12 feeds the grade the school writes down, and the exam that has to match it. Start in Year 13 and the plan narrows to the two or three question types costing your child the most marks. That can still lift the final grade. It just rarely changes the prediction, which has usually gone off by then."
 faq_3_q: "Everything runs online. Does that actually work for a subject like Chemistry or Maths at A-Level?"
 faq_3_a: "Yes, and A-Level suits it well, because so much of the subject is written down. Lessons are one-to-one on Lessonspace, an online classroom with a shared whiteboard. A Chemistry mechanism or a long integration gets built line by line, with the tutor watching each step rather than just checking the answer. There's a replay of every lesson for revision. And the tutor's chosen for the course your child's sixth form teaches, not for living near Bromley South."
 faq_4_q: "She got top grades at GCSE and her first A-Level mock came back a D. What happened?"

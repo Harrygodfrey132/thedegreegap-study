@@ -11,7 +11,7 @@ hero_lead: "Your child did well at GCSE without much revision, and now the Year 
 
 grade_from: "C"
 grade_to: "A"
-grade_stat: "In one parent's words: their child went from Cs to As, with help choosing universities along the way."
+grade_stat: "Cs to As, according to one parent, with help choosing universities along the way."
 
 first_lesson_eyebrow: "WHEN THEY'VE NEVER HAD TO REVISE BEFORE"
 first_lesson_heading: "The Habit a Sutton A-Level Tutor Builds First"
@@ -29,7 +29,7 @@ pathways_lead: "Whether it's a university offer or an apprenticeship at the hosp
 pathways:
   - title: "Universities"
     body: >
-      Sutton families apply all over London and the south: City St George's, University of London in Tooting is a common pick for medicine and the health sciences, and Kingston University and the University of Surrey are a sensible commute. Each offer rests on the predicted grades your child's school sends in the autumn of Year 13, months before any exam.
+      Sutton families apply all over London and the south: City St George's, University of London in Tooting is a common pick for medicine and the health sciences, and Kingston University and the University of Surrey are a sensible commute. Each offer rests on the predicted grades your child's school sends in the autumn of Year 13, months before the final exams.
   - title: "Degree Apprenticeships"
     body: >
       Kingston University runs apprenticeships in adult nursing and for nursing associates, and the hospitals on the doorstep, Epsom and St Helier University Hospitals and The Royal Marsden, take on apprentices too. Each scheme sets its own entry requirements, which can change from one intake to the next, and most want a written application as well as the grades.
@@ -52,13 +52,13 @@ reviews:
   - "Charlotte|Student|I cannot recommend Harry enough. He was helpful welcoming and helped me achieve a grade higher than I was expected!"
 
 faq_1_q: "Year 12 or Year 13? We keep being told to wait and see."
-faq_1_a: "Year 12, if you've got the choice. Predicted grades are built on Year 12 work and go off to universities early in Year 13, so an hour a week now counts twice: once for the offer, and again in the exam. Leave it until after Christmas in Year 13 and the prediction's usually been sent. Lots of families do start late and still move a grade. It's just a narrower job by then, with less room."
+faq_1_a: "Year 12, if you've got the choice. Predicted grades are built on Year 12 work and go off to universities early in Year 13, so an hour a week now counts twice: once for the offer, and again in the exam. Leave it until after Christmas in Year 13 and the prediction's usually been sent. Lots of families do start late and still move a grade. It's just a narrower job by then."
 faq_2_q: "He got a grade 9 in Maths and is drowning in Year 12. How does that happen?"
-faq_2_a: "It happens a lot, and it's rarely about effort. GCSE rewards spotting a question type and running the method that goes with it, which a quick student can do without much revision. A-Level asks your son to pick the method himself, with nothing telling him which one, then hold several steps together. The skill that carried him stops carrying him, often in the first term. So the tutor teaches him how to choose, working from questions he's already got wrong."
+faq_2_a: "It happens a lot, because A-Level Maths asks for a different skill. GCSE rewards spotting a question type and running the method that goes with it, which a quick student can do without much revision. A-Level asks your son to pick the method himself, with nothing telling him which one, then hold several steps together. The skill that carried him stops carrying him, often in the first term. So the tutor teaches him how to choose, working from questions he's already got wrong."
 faq_3_q: "Can tutoring change the predicted grade that goes to UCAS?"
 faq_3_a: "Not directly, but it can change the work the prediction's based on. Teachers set it from mocks and classwork, so that's what has to move. And the timing matters: the work needs to land in Year 12 and the start of Year 13, before predictions are written. The tutor reads your child's recent papers, finds the topic costing the most marks, and has them practise it against the clock until it holds up. We're happy to talk through course choices and the personal statement too."
 faq_4_q: "What if my child isn't keen on the tutor after a lesson or two?"
-faq_4_a: "Tell us and we'll find someone else, at no charge, and nobody has to explain themselves. Before anything's booked you'll speak to Harry or Joe, and your child gets a free 15-minute video meeting with the tutor, which catches most mismatches early. At seventeen, most teenagers can tell within ten minutes whether someone's explanations make sense to them. Hard to tell from a profile, though. That's why the meeting's there."
+faq_4_a: "Tell us and we'll find someone else, at no charge, and nobody has to explain themselves. Before anything's booked, you'll talk to Harry or Joe, who started The Degree Gap. Your child also gets a free 15-minute video meeting with the tutor, which catches most mismatches early. At seventeen, most teenagers can tell within ten minutes whether someone's explanations make sense to them. Hard to tell from a profile, though. That's why the meeting's there."
 
 sitemap:
   priority: 0.7

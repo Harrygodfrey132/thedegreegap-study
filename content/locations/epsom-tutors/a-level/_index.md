@@ -14,22 +14,22 @@ grade_to: "A"
 grade_stat: "Cs to As across their A-Levels, after one-to-one lessons, as one parent tells it."
 
 first_lesson_eyebrow: "WHAT ONE PARENT SAW CHANGE"
-first_lesson_heading: "Why an Epsom A-Level Tutor Starts With a Marked Script"
-first_lesson_context: "A good A-Level grade in Epsom can lead to a course at the University of Surrey or a London degree apprenticeship a train ride away. Results across the borough are above the national average, but that doesn't help much if it's your child whose longer answers have stopped picking up marks. The tutor tracks that down on a past paper, then works with your child on the kind of weighing-up those questions reward."
+first_lesson_heading: "Why an Epsom A-Level Tutor Starts With a Marked Paper"
+first_lesson_context: "When your child's longer answers stop picking up marks, it's little comfort that results across the borough are above the national average. The tutor finds where those marks are going on a past paper, then works with your child on the weighing-up those questions reward. From Epsom, a good A-Level grade can lead to a course at the University of Surrey, or a London degree apprenticeship a train ride away."
 first_lesson_quote: "The Degree Gap helped my child go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and applications."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Cs to As across A-Levels"
 
 tutor_strip_heading: "Epsom A-Level tutors for families aiming at Surrey and London offers"
-tutor_strip_body: "Every tutor on our platform is a Russell Group graduate, some are qualified examiners, and Harry or Joe has interviewed each one. Only about 3% of applicants make the cut. Take a look at the profiles, or we'll match your child with someone."
+tutor_strip_body: "They're all Russell Group graduates, some are qualified examiners, and each one's been interviewed by Harry or Joe, who run The Degree Gap. Only about 3% of applicants make the cut. Take a look at the profiles, or we'll match your child with someone."
 
 pathways_heading: "What an Epsom A-Level Opens Up Next"
 pathways_lead: "Here's roughly what each route looks like from Epsom, and what it'll ask of your child's grades."
 pathways:
   - title: "Universities"
     body: >
-      The University of Surrey in nearby Guildford and the University for the Creative Arts, right here on its Epsom campus, take plenty of local students. Many families also look at London or at Russell Group universities further afield, and the competitive courses want grades near the top of the A-Level range.
+      The University of Surrey in nearby Guildford and the University for the Creative Arts, on its Epsom campus, take plenty of local students. Many families also look at London or at Russell Group universities further afield, and the competitive courses want grades near the top of the A-Level range.
   - title: "Degree Apprenticeships"
     body: >
       Toyota GB runs schemes from its head office at Burgh Heath, and the University of Surrey offers degree apprenticeships that pair paid work with a funded degree. Each one sets its own entry requirements, and they're high on the most sought-after routes, so it helps to know early which one your child's after.
@@ -62,7 +62,7 @@ faq_2_a: "Yes. The University for the Creative Arts puts a lot of weight on the 
 faq_3_q: "It's all online. Does that work for essay subjects?"
 faq_3_a: "It does, and essay subjects are where it works best. Lessons happen in the online classroom Lessonspace, where the tutor marks your child's essay live, shows exactly where an evaluation point earns marks or misses them, and then marks the next attempt. There's a replay of every lesson, so your child can go back over the feedback later."
 faq_4_q: "How much does A-Level tutoring in Epsom cost?"
-faq_4_a: "From £37 an hour, depending on the tutor, and we'll always agree the rate with you before anything's booked. It's a bit more for qualified examiners and the most experienced tutors. No contract, either."
+faq_4_a: "From £37 an hour, depending on the tutor, and we'll always agree the rate with you before anything's booked. Rates are higher for qualified examiners and the most experienced tutors. No contract, either."
 
 sitemap:
   priority: 0.7

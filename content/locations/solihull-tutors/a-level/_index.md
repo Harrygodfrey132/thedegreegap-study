@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Solihull A-Level Tutors for the One Grade Your Child's Next Step Needs"
 hero_heading_line2: ""
-hero_lead: "You might have a child set on university, or one who'd rather start at Jaguar Land Rover as a degree apprentice. Either way, somebody's asking for grades. Our Solihull A-Level tutors work on the grade your child's next step actually depends on."
+hero_lead: "You might have a child set on university, or one who'd rather start at Jaguar Land Rover as a degree apprentice. Either way, somebody's asking for grades. Our Solihull A-Level tutors find the grade that matters most for where your child's heading, and start there."
 
 grade_from: "C"
 grade_to: "A"
@@ -15,7 +15,7 @@ grade_stat: "What a year of weekly lessons is aimed at. One parent saw their chi
 
 first_lesson_eyebrow: "TWO ROUTES, ONE SET OF PAPERS"
 first_lesson_heading: "Which Grade a Solihull A-Level Tutor Looks at First"
-first_lesson_context: "A degree apprenticeship at a big employer can be as hard to get as a university place. And either way, one subject tends to carry the weight: Maths for engineering, the Sciences for clinical routes, whatever subject the university course asks for. So the first thing we ask is which grade your child's next step hangs on, and whether it's slipping on knowledge or on technique."
+first_lesson_context: "A degree apprenticeship at a big employer can be as hard to get as a university place. And either way, one subject tends to carry the weight: Maths for engineering, the Sciences for clinical routes, whatever subject the university course asks for. So the tutor looks first at the one grade your child's plans hang on, and whether it's slipping on knowledge or on technique."
 
 first_lesson_quote: "The Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and applications."
 first_lesson_quote_name: "Alexander"
@@ -23,7 +23,7 @@ first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "A-Level"
 
 tutor_strip_heading: "Solihull A-Level tutors matched to your child's exact papers"
-tutor_strip_body: "Two friends taking A-Level Physics can be studying different optional topics, so we'll check your child's board and options on the call before suggesting anyone. Every tutor studied their subject at a Russell Group university. Have a look through the profiles, or leave the matching to us."
+tutor_strip_body: "Two friends taking A-Level Physics can be studying different optional topics, so we'll check your child's board and options on the call before suggesting anyone. All our tutors are Russell Group graduates. Have a look through the profiles, or leave the matching to us."
 
 pathways_heading: "What Comes After A-Levels in Solihull"
 pathways_lead: "Three routes, and what each hangs on."
@@ -53,7 +53,7 @@ reviews:
   - "Nicolai|University Student|Had troubles connecting with tutors until I met Harry, helped me understand the curriculum and theories in a way that stuck with me, also made each session feel calm and relaxing. Highly recommend"
 
 faq_1_q: "My son's set on a Jaguar Land Rover degree apprenticeship. Can a tutor help with that?"
-faq_1_a: "Yes. On the technical routes, Maths is usually the grade that decides whether he's eligible. Each of the big employers round here sets its own minimum grades, which vary by scheme and shift from year to year, so work from this year's listing rather than last year's word of mouth. If he's sitting just below the bar, the tutoring can be short and targeted. There's often a test in the application as well, and it pays to practise for it."
+faq_1_a: "Yes. For the engineering and technical routes, it's usually his Maths grade that matters most. Each of the big local employers sets its own minimum grades, which vary by scheme and shift from year to year, so work from this year's listing rather than last year's word of mouth. If he's sitting just below the bar, the tutoring can be short and targeted. There's often a test in the application as well, and it pays to practise for it."
 faq_2_q: "We're in Year 12. Is now the time to start, or can it wait?"
 faq_2_a: "Now's usually the time. The predicted grade that goes to UCAS is built from Year 12 work and any autumn mocks in Year 13, and it's normally sent before the January mocks come round. Starting in Year 12 means working on papers that still count towards the prediction, instead of trying to argue with the number afterwards."
 faq_3_q: "My son's predicted a C and needs an A. Is that realistic?"
