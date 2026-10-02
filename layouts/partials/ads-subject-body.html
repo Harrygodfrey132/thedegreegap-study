@@ -212,15 +212,16 @@
         {{ $accents := slice "#F4B400" "#B07A6F" "#5A8A8B" "#9D6E72" "#8B7E66" "#C28A4A" }}
         {{ range $i, $r := . }}
         {{ $name := index (split $r.name " ") 0 }}
+        {{ $meta := partialCached "review-meta.html" (dict "name" $r.name "text" $r.text) $r.name (substr $r.text 0 40) }}
         <article class="lvls-review-card">
           <div class="lvls-review-card__avatar" style="background: {{ index $accents (mod $i 6) }};">
             <span>{{ substr $name 0 1 }}</span>
           </div>
           <h3 class="lvls-review-card__name">{{ $name }}</h3>
-          <p class="lvls-review-card__role">Verified five-star review</p>
+          <p class="lvls-review-card__role">{{ $meta.label }}</p>
           <p class="lvls-review-card__quote">"{{ replace (htmlEscape $r.text) "\n" "<br>" | safeHTML }}"</p>
           <p class="lvls-review-card__byline">{{ $r.role }}</p>
-          <span class="lvls-review-card__stars" aria-label="5 stars">★★★★★</span>
+          <span class="lvls-review-card__stars" aria-label="{{ $meta.rating }} out of 5 stars">{{ $meta.stars }}</span>
         </article>
         {{ end }}
       </div>

@@ -1,0 +1,39 @@
+{{/*
+  review-meta.html — the star rating and source of one review on a page.
+
+  Location pages store reviews as "Name|Role|Text" with the first name only,
+  and their cards used to print five stars for every review. Two Google
+  reviewers gave four, so look the review up in data/reviews.yaml and
+  data/reviews-trustpilot.yaml: by first name, and by the opening words of
+  the text when two reviewers share a first name.
+
+  Returns a dict:
+    rating — 1 to 5 (5 when no reviewer matches)
+    stars  — e.g. "★★★★☆"
+    label  — e.g. "Four-star Google review"
+
+  Usage (cached per review, since the same reviews repeat across pages):
+    {{ $meta := partialCached "review-meta.html" (dict "name" $name "text" $text) $name (substr $text 0 40) }}
+*/}}
+{{ $first := lower (strings.TrimRight "." (index (split (trim .name " ") " ") 0)) }}
+{{ $opening := substr (replace (trim .text " ") "’" "'") 0 25 }}
+{{ $all := slice }}
+{{ range site.Data.reviews }}{{ $all = $all | append . }}{{ end }}
+{{ range index site.Data "reviews-trustpilot" }}{{ $all = $all | append . }}{{ end }}
+{{ $pick := dict }}
+{{ range $all }}
+  {{ if eq (lower (strings.TrimRight "." (index (split (trim .name " ") " ") 0))) $first }}
+    {{ if not $pick }}{{ $pick = . }}{{ end }}
+    {{ if in (replace .text "’" "'") $opening }}{{ $pick = . }}{{ break }}{{ end }}
+  {{ end }}
+{{ end }}
+{{ $rating := int ($pick.rating | default 5) }}
+{{ $rating = cond (lt $rating 1) 1 (cond (gt $rating 5) 5 $rating) }}
+{{ $word := index (slice "" "One" "Two" "Three" "Four" "Five") $rating }}
+{{ $source := "" }}
+{{ if eq $pick.source "google" }}{{ $source = " Google" }}{{ else if eq $pick.source "trustpilot" }}{{ $source = " Trustpilot" }}{{ end }}
+{{ return dict
+  "rating" $rating
+  "stars" (printf "%s%s" (strings.Repeat $rating "★") (strings.Repeat (sub 5 $rating) "☆"))
+  "label" (printf "%s-star%s review" $word $source)
+}}
