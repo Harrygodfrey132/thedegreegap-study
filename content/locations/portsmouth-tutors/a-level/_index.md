@@ -22,7 +22,7 @@ first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Grade E to Grade C across three A-Levels"
 
 tutor_strip_heading: "Portsmouth A-Level tutors who know what the examiners reward"
-tutor_strip_body: "All of them are Russell Group graduates, and some have worked as examiners. And at A-Level that matters, because the last grade is usually down to technique rather than knowledge. Browse the tutors below, or tell us about your child and we'll choose."
+tutor_strip_body: "Each has tutored for at least two years, many are Russell Group graduates, and some have worked as examiners. And at A-Level that matters, because the last grade is usually down to technique rather than knowledge. Browse the tutors below, or tell us about your child and we'll choose."
 
 pathways_heading: "Portsmouth Year 13s and What Comes Next"
 pathways_lead: "Once results are in, most Portsmouth families are choosing between these three."

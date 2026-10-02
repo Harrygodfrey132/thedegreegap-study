@@ -22,7 +22,7 @@ first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Grade C to Grade A at A-Level"
 
 tutor_strip_heading: "Wigan A-Level tutors who know where Year 13 marks leak"
-tutor_strip_body: "Every tutor studied at a top Russell Group university, and we match on your child's exam board and on how they like to learn. Winstanley or St John Rigby, we'll find someone who knows the course. Browse the profiles, or let us make the introduction."
+tutor_strip_body: "Many tutors on our platform studied at Russell Group universities, and we match on your child's exam board and on how they like to learn. Winstanley or St John Rigby, we'll find someone who knows the course. Browse the profiles, or let us make the introduction."
 
 pathways_heading: "After A-Levels in Wigan: University, Apprenticeships, Work"
 pathways_lead: "The routes Wigan families most often talk to us about once college is nearly done."

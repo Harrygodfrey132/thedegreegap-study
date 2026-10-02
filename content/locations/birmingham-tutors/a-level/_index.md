@@ -23,7 +23,7 @@ first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades to three C grades"
 
 tutor_strip_heading: "Birmingham A-Level tutors for university and apprenticeship routes alike"
-tutor_strip_body: "These tutors all went to Russell Group universities, Birmingham and Oxbridge among them, and plenty have helped with UCAS forms and apprenticeship applications as well as the exams. Browse the profiles, or let us choose for your child."
+tutor_strip_body: "Many of these tutors are at or from Russell Group universities, Birmingham and Oxbridge among them, and plenty have helped with UCAS forms and apprenticeship applications as well as the exams. Browse the profiles, or let us choose for your child."
 
 pathways_heading: "The Step After Birmingham A-Levels"
 pathways_lead: "Your child doesn't need to have picked one of these yet, and it's fine to keep two open."

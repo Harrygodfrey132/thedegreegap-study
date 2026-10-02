@@ -21,8 +21,8 @@ first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "C grades to A grades in A-Level"
 
-tutor_strip_heading: "Oxford A-Level tutors who've come through the Russell Group themselves"
-tutor_strip_body: "Our tutors are Russell Group graduates, some from Oxford itself, and they know the exam boards the city's sixth forms use. They mark your child's work the way an examiner would, so you can both see where the marks went. Look through the profiles, or we'll shortlist a few."
+tutor_strip_heading: "Oxford A-Level tutors, many of whom have come through the Russell Group"
+tutor_strip_body: "Our tutors are graduates and undergraduates, some from Oxford itself, and they know the exam boards the city's sixth forms use. They mark your child's work the way an examiner would, so you can both see where the marks went. Look through the profiles, or we'll shortlist a few."
 
 pathways_heading: "What Comes Next for Oxford's Year 13s"
 pathways_lead: "Most Oxford sixth formers end up going one of three ways after results day."

@@ -23,7 +23,7 @@ first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades → three C grades at A-Level"
 
 tutor_strip_heading: "Reading A-Level tutors who know the offers and apprenticeships ahead"
-tutor_strip_body: "We've interviewed every tutor on our platform ourselves, and every one's a Russell Group graduate. We'll match on the exam board your child's Reading sixth form uses, not just the subject. Browse the profiles, or we can shortlist two or three for you."
+tutor_strip_body: "We've interviewed every tutor on our platform ourselves, and every one's been tutoring for two years or more. We'll match on the exam board your child's Reading sixth form uses, not just the subject. Browse the profiles, or we can shortlist two or three for you."
 
 pathways_heading: "Where Reading A-Levels Lead in the Thames Valley and Beyond"
 pathways_lead: "Tell us where your child's heading, a Russell Group offer or a Thames Valley Park apprenticeship, and the tutor keeps it in view from week one."

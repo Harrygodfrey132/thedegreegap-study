@@ -23,7 +23,7 @@ first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 → Grade 6/7 in GCSE English"
 
 tutor_strip_heading: "Reading GCSE tutors who start with your child's exam board"
-tutor_strip_body: "Every tutor is a Russell Group graduate, and only around 3% of applicants get through our interview. They know the courses taught at Reading School, Kendrick and the comprehensives across town. Take a look at some below, or let us pick two or three for your child."
+tutor_strip_body: "Every tutor has at least two years' tutoring experience, and only around 3% of applicants get through our interview. They know the courses taught at Reading School, Kendrick and the comprehensives across town. Take a look at some below, or let us pick two or three for your child."
 
 pathways_heading: "Where Reading GCSEs Can Take Your Child Next"
 pathways_lead: "Results day confirms the next step, and for most Reading families it's one of these three."

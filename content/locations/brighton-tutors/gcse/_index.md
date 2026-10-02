@@ -23,7 +23,7 @@ first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to Grade 6/7 in GCSE English"
 
 tutor_strip_heading: "Brighton GCSE tutors who know the BHASVIC and Varndean bar"
-tutor_strip_body: "Every tutor on our platform is a Russell Group graduate, and only about 3% of applicants get through our interview. Schools like Dorothy Stringer and Blatchington Mill don't all use the same boards, so we check your child's first. Look through the profiles, or let us suggest some."
+tutor_strip_body: "Many of our tutors come from Russell Group universities, and only about 3% of applicants get through our interview. Schools like Dorothy Stringer and Blatchington Mill don't all use the same boards, so we check your child's first. Look through the profiles, or let us suggest some."
 
 pathways_heading: "Where Brighton Year 11s Head After GCSEs"
 pathways_lead: "Wondering what comes after Year 11 in Brighton? Here are the three routes most families weigh up."

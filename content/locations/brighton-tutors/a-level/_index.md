@@ -23,7 +23,7 @@ first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Almost two grades up on a Year 13 mock, A-Level"
 
 tutor_strip_heading: "Brighton A-Level tutors who know the Sussex, Brighton and medical school routes"
-tutor_strip_body: "Every tutor on our platform is a Russell Group graduate who's been through UCAS themselves, so the process your child faces at BHASVIC, Varndean College or elsewhere won't be new to them. Harry and Joe can steer subject and university choices too. Browse profiles, or let us introduce you."
+tutor_strip_body: "Our tutors have all been through UCAS themselves, many into Russell Group universities, so the process your child faces at BHASVIC, Varndean College or elsewhere won't be new to them. Harry and Joe can steer subject and university choices too. Browse profiles, or let us introduce you."
 
 pathways_heading: "Where Your Child's Brighton A-Levels Could Lead"
 pathways_lead: "For most Brighton families, what comes after results day is one of these three."

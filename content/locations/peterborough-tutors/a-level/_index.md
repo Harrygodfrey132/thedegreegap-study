@@ -22,7 +22,7 @@ first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Grade C to Grade A across A-Levels"
 
 tutor_strip_heading: "Peterborough A-Level tutors who know how the papers are marked"
-tutor_strip_body: "Every tutor on our platform is a Russell Group graduate, and some mark for the exam boards too. And at A-Level that matters, because the last grade often comes down to technique rather than content. Have a look at the profiles, or let us suggest someone for your child."
+tutor_strip_body: "Many of our tutors are Russell Group graduates, and some mark for the exam boards too. And at A-Level that matters, because the last grade often comes down to technique rather than content. Have a look at the profiles, or let us suggest someone for your child."
 
 pathways_heading: "Peterborough A-Levels, and What Comes After"
 pathways_lead: "Worth keeping in mind from the first lesson, not just the last."

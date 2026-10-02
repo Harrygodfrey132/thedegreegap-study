@@ -21,7 +21,7 @@ first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "A-Level"
 
-tutor_strip_heading: "Havant A-Level tutors, all graduates of top Russell Group universities"
+tutor_strip_heading: "Havant A-Level tutors, every one with at least two years of tutoring"
 tutor_strip_body: "At Havant and South Downs College, Oaklands or anywhere else, we'll suggest tutors who already teach your child's exam board. It starts with a free call to Harry or Joe, and a shortlist of two or three follows within 24 hours."
 
 pathways_heading: "Once A-Levels Are Done: Options Around Havant"

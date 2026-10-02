@@ -31,8 +31,8 @@ schools:
 steps_heading: "Getting GCSE Science Help in Wigan: What Happens Next"
 steps_lead: "Profiles usually land within a day of your call. Starting before the Year 11 mocks gives your child time to practise a way into every question."
 steps:
-  - title: "A 15-minute call with us"
-    body: "A free 15-minute call with Harry or Joe, the co-founders, to get to know you and your child. We'll ask which science is the worry, Combined or Triple, AQA or Edexcel, and the grade they're hoping for."
+  - title: "A 30-minute call with us"
+    body: "A free call with Harry or Joe, the co-founders, to get to know you and your child. We'll ask which science is the worry, Combined or Triple, AQA or Edexcel, and the grade they're hoping for."
   - title: "Profiles the next day"
     body: "Within 24 hours you'll have two or three tutor profiles, chosen for your child's board and the science needing most help. Your child gets a free 15-minute video meeting with whoever you pick."
   - title: "Weekly lessons, no contract"
