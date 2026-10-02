@@ -29,7 +29,7 @@ pathways_lead: "Most families weigh up three routes, and they don't ask for the 
 pathways:
   - title: "Sixth Forms"
     body: >
-      At The Judd School it's an average of 6.5 across the best ten qualifications, and at Weald of Kent Grammar School an average of 5.5 across the best eight, with a 5 in English. Hillview School for Girls, which takes boys into its sixth form, asks for 4s in Maths, English Language and three more subjects.
+      At The Judd School it's an average of 6.5 across the best ten qualifications, and at Weald of Kent Grammar School an average of 5.5 across the best eight, with a 5 in English and a 5 in Maths. Hillview School for Girls, which takes boys into its sixth form, asks for 4s in Maths, English Language and three more subjects.
   - title: "Apprenticeships"
     body: >
       Right in Tonbridge, West Kent College runs apprenticeships from intermediate up to higher level in trades such as construction, electrical, engineering and motor vehicle work. Kings Hill business park near West Malling, home to Tonbridge and Malling Borough Council's offices, is the other big cluster of employers close by.
@@ -52,7 +52,7 @@ reviews:
   - "Anders|iGCSE Student|I reached out to The Degree Gap to get some help to prepare for my iGCSE exams and was very impressed by their tutors and professionalism!"
 
 faq_1_q: "What GCSE grades do Tonbridge sixth forms ask for?"
-faq_1_a: "It depends a lot on which one. The Judd School works from an average across your child's best ten qualifications, with at least a 4 in Maths and English Language. Weald of Kent uses an average across the best eight plus a 5 in English. Hillview asks for 4s in Maths and English Language and three other subjects. Most also set their own grade for each A-Level subject. All of these can change from year to year, so it's worth checking the current guide for the sixth form your child likes."
+faq_1_a: "It depends a lot on which one. The Judd School works from an average across your child's best ten qualifications, with at least a 4 in Maths and English Language. Weald of Kent uses an average across the best eight, plus a 5 in English and a 5 in Maths. Hillview asks for 4s in Maths and English Language and three other subjects. Most also set their own grade for each A-Level subject. All of these can change from year to year, so it's worth checking the current guide for the sixth form your child likes."
 faq_2_q: "Should we hold off on tutoring until Year 11?"
 faq_2_a: "You don't need to wait. With the pressure still low in Year 10, a tutor can rebuild a wobbly topic properly, and lessons can be about understanding rather than exam drills. Plenty of Tonbridge families do wait, though, and come to us in the autumn of Year 11, before the mocks. Then the work shifts towards timed exam questions as the summer gets closer."
 faq_3_q: "Our children sit different exam boards. Does that matter for tutoring?"

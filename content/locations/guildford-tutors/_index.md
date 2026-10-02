@@ -40,7 +40,7 @@ alevel_subjects: [
   "A-Level Psychology Tuition|Evaluation points developed properly rather than listed, with timing that leaves room for the longer essay questions.|/book-a-call/",
   "A-Level English Tuition|A clear plan for each section of the paper, and essays that stay on the exact question set.|/book-a-call/",
   "A-Level History Tuition|Source answers and timed essays, marked against the real mark bands and talked through line by line.|/book-a-call/",
-  "A-Level Geography Tuition|Long essays that hold one argument from start to finish, and the coursework checked against what the mark scheme asks for.|/book-a-call/",
+  "A-Level Geography Tuition|Long essays that hold one argument from start to finish, and help planning the coursework, so the write-up itself stays your child's own.|/book-a-call/",
 ]
 other_subjects: [
   "University Personal Statement|A UCAS personal statement that shows what your child has read and done, redrafted with honest feedback at each stage.|/book-a-call/",

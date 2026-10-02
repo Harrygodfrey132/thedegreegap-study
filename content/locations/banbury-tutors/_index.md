@@ -10,7 +10,7 @@ intro_1: "You sit down to help with the homework and it turns out this week's to
 intro_2: "So our tutors find the gap first, then rebuild from there. Not from wherever the syllabus happens to be this week. Families come to us from every kind of school around Banbury, from The Warriner to Tudor Hall, and the reason's usually the same. A teacher with a full class can't pause to reteach a Year 8 method to one child. A one-to-one tutor can, and can go as slowly as your child needs."
 about_heading: "Find the Right Tutor in Banbury"
 about_image: /images/students-in-classroom-taking-notes.jpg
-schools_intro: "North Oxfordshire has a real mix of schools, and we hear from parents at lots of them, including Blessed George Napier Catholic School, North Oxfordshire Academy, The Warriner School, Chenderit School, Bloxham School and Tudor Hall. Some children are closing GCSE gaps, some are sitting Common Entrance and some are laying the groundwork for A-Level. We work directly with more than 15 UK secondary schools too, and Harry and Joe spend a good part of the week in them, running revision workshops."
+schools_intro: "North Oxfordshire has a real mix of schools, and we hear from parents at lots of them, including Blessed George Napier Catholic School, North Oxfordshire Academy, The Warriner School, Chenderit School, Bloxham School and Tudor Hall. Some children are closing GCSE gaps, some are sitting Common Entrance and some are laying the groundwork for A-Level. We work directly with more than 15 UK secondary schools too. And Harry and Joe spend a good part of the week in schools, running revision workshops."
 schools:
   - Blessed George Napier Catholic School
   - North Oxfordshire Academy

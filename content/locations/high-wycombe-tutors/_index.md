@@ -1,5 +1,5 @@
 ---
-title: "High Wycombe Tutors | 11+ to A-level | The Degree Gap"
+title: "High Wycombe Tutors | 11+ to A-Level | The Degree Gap"
 description: "Year 12 harder than anyone expected? Online High Wycombe tutoring for A-Level, GCSE and the 11+, with tutor profiles within 24 hours of a free call. From £37."
 layout: single
 location: High Wycombe

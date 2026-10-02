@@ -27,7 +27,7 @@ gcse_subjects: [
   "GCSE Chemistry Tuition|Moles, equations and rates, with each step of a calculation written down so the tutor can see where it slips.|/book-a-call/",
   "GCSE Physics Tuition|Rearranging equations, converting units, and the longer problems where the method, not memory, earns the marks.|/book-a-call/",
   "GCSE History Tuition|The 16-mark essays, written weekly and marked properly, because that's where the big marks in History sit.|/book-a-call/",
-  "GCSE Geography Tuition|Nine-mark answers and named case studies, practised against the clock, not just reread.|/book-a-call/",
+  "GCSE Geography Tuition|The long answers and named case studies, practised against the clock, not just reread.|/book-a-call/",
   "GCSE French Tuition|Writing and speaking practice built up step by step, from wherever your child is starting.|/book-a-call/",
   "GCSE Computer Science Tuition|Algorithms, trace tables and programming questions, with the theory covered alongside.|/book-a-call/",
 ]

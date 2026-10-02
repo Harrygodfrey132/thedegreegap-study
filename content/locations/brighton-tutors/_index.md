@@ -10,7 +10,7 @@ intro_1: "Parents' evening in Year 10 is often when it lands. A teacher mentions
 intro_2: "The families who call us from Brighton and Hove aren't all in the same spot. Some have a child with one subject dragging the rest down. Some have a child who seems fine in lessons and then loses marks in the exam. And some have a Year 12 who wants to push hard at A-Level. A one-to-one tutor works on your child's actual sticking points, at their pace and on their exam board, which a class of thirty can't stop to do. They'll start with a recent mock, find where the marks went, and plan from there."
 about_heading: Find the Right Tutor in Brighton
 about_image: /images/graduation-ceremony-caps.jpg
-schools_intro: "Families come to us from schools all over Brighton and Hove, including Dorothy Stringer, Varndean School, Hove Park, Cardinal Newman, Longhill High and PACA. Each school has its own mix of exam boards, so on the first call we'll find out which ones your child is sitting and match the tutor to those. We also work directly with more than 15 UK secondary schools, where Harry and Joe run revision workshops during the school day."
+schools_intro: "Families come to us from schools all over Brighton and Hove, including Dorothy Stringer, Varndean School, Hove Park, Cardinal Newman, Longhill High and PACA. Each school has its own mix of exam boards, so on the first call we'll find out which ones your child is sitting and match the tutor to those. We also work directly with more than 15 UK secondary schools. And during the school day, Harry and Joe are often in schools running revision workshops."
 schools:
   - Dorothy Stringer School
   - Varndean School

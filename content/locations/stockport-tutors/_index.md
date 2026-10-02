@@ -23,7 +23,7 @@ area_links: ["Manchester Tutors|/locations/manchester-tutors/", "Altrincham Tuto
 gcse_subjects:
   - "GCSE Chemistry Tuition|Moles, equations and rates, written out step by step. If your child takes Combined Science, it counts as two GCSEs on a college form.|/book-a-call/"
   - "GCSE English Tuition|Timed essays for Language and Literature, two different exams, practised until the prediction stops wobbling.|/book-a-call/"
-  - "GCSE Geography Tuition|Nine-mark answers and the case studies that feed them, practised against the mark scheme instead of re-read from notes.|/book-a-call/"
+  - "GCSE Geography Tuition|The long answers and the case studies that feed them, practised against the mark scheme instead of re-read from notes.|/book-a-call/"
   - "GCSE Maths Tuition|The 4 a college place depends on, or the 7 for A-Level Maths, rebuilt from wherever the method stops.|/book-a-call/"
   - "GCSE Computer Science Tuition|Trace tables, algorithms and the theory paper, starting from what your child can already do, not from page one.|/book-a-call/"
   - "GCSE Biology Tuition|Required practicals and six-mark answers turned into exam questions, because that's how the paper asks about them.|/book-a-call/"
