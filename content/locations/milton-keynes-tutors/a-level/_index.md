@@ -18,7 +18,7 @@ first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Grade C to Grade A"
 tutor_strip_heading: "Milton Keynes A-Level tutors who know the Santander and Red Bull Racing routes"
-tutor_strip_body: "Our tutors have helped Year 12s and 13s aiming for university, and others going for degree apprenticeships at Santander, Network Rail or Red Bull Racing. Every one is a Russell Group graduate Harry or Joe interviewed personally. Browse the profiles, or we'll suggest two or three for your child."
+tutor_strip_body: "Our tutors have helped Year 12s and 13s aiming for university, and others going for degree apprenticeships at Santander, Network Rail or Red Bull Racing. Harry or Joe interviewed each tutor. All have two years' experience, minimum. Browse the profiles, or we'll suggest two or three for your child."
 pathways_heading: "What a Milton Keynes A-Level Opens Up Next"
 pathways_lead: "With this many big employers in the city, your child has more than one good route after results day."
 pathways:

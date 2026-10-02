@@ -31,7 +31,7 @@ schools:
 steps_heading: "Three Steps to a Guildford A-Level Maths Tutor Your Child Likes"
 steps_lead: "Mocks on the horizon? Say so on the call. With profiles the next day, the first lesson needn't wait long."
 steps:
-  - title: "A 15-minute call with Harry or Joe"
+  - title: "A 30-minute call with Harry or Joe"
     body: "It's free, and it's how we get to know you and your child. Tell us the school, the exam board and whether Further Maths is running alongside. If your child says trigonometry is the problem, mention it. It often turns out to be about choosing methods, and that changes who we'd suggest."
   - title: "Meet the tutor before committing"
     body: "Two or three profiles follow within 24 hours, each from a tutor who teaches how to choose between methods, not just how to use them. Your child meets the one you like on a free 15-minute video meeting before anything's paid for."

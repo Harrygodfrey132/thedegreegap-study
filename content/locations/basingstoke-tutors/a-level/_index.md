@@ -22,7 +22,7 @@ first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "A-Level"
 
 tutor_strip_heading: "Basingstoke A-Level tutors for the subject that's worrying you"
-tutor_strip_body: "Book a free call and tell Harry or Joe, our co-founders, which subject it is. The exam board helps too, if you know it. Within 24 hours you'll have two or three tutor profiles, all Russell Group graduates. Or look through them now with your child."
+tutor_strip_body: "Book a free call and tell Harry or Joe, our co-founders, which subject it is. The exam board helps too, if you know it. Within 24 hours you'll have two or three tutor profiles, all with at least two years' tutoring. Or look through them now with your child."
 
 pathways_heading: "What Basingstoke A-Levels Can Lead To"
 pathways_lead: "Where your child might head after Year 13, and what each route looks for."

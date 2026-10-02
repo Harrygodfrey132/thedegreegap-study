@@ -56,8 +56,8 @@ faq_4_a: "For most children, one a week is plenty. An hour with the same tutor e
 why_heading: "What an early start with a Tamworth tutor looks like"
 why_para_1: "When a tutor meets a Year 10 for the first time, the trouble is rarely this term's topic. More often it's something from a couple of years back, like negative numbers or rearranging, that never quite settled. Schools aren't missing it through lack of care. A teacher with thirty in the room has to keep the class moving, and there's no spare hour to rebuild one child's algebra. One-to-one, there is."
 why_para_2: "The first few weeks go on filling that gap while school carries on as normal. Your child may grumble that it's Year 8 stuff. That's fine, because everything built on top of it gets easier. By the time Year 11 arrives, the tutor can spend lessons on past papers and exam technique rather than patching up old topics."
-accordion_quality: "Every tutor on our platform is a graduate of a top Russell Group university, and Harry and Joe interview each one personally. We look for patience as much as subject knowledge, because a Year 10 who's lost faith in a subject needs someone calm."
-accordion_experience: "They've worked with Year 10s who were only starting to wobble and with Year 13s a few weeks from their final papers. For most, that comes from two years or more of one-to-one tutoring, on AQA, Edexcel and OCR."
+accordion_quality: "Our tutors are graduates or still at university, many of them from Russell Group universities, and Harry and Joe interview each one personally. We look for patience as much as subject knowledge, because a Year 10 who's lost faith in a subject needs someone calm."
+accordion_experience: "They've worked with Year 10s who were only starting to wobble and with Year 13s a few weeks from their final papers. Each of them has tutored for at least two years, and they've covered AQA, Edexcel and OCR between them."
 accordion_personalised: "Nothing comes pre-packaged, and the plan starts from your child's own work. In Year 10 the tutor can afford to go back a long way, while in Year 11 the plan tightens around the topics carrying the most marks."
 
 reviews:

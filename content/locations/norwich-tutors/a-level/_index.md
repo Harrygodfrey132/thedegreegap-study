@@ -22,7 +22,7 @@ first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Almost two grades above the Year 13 mock"
 
 tutor_strip_heading: "Norwich A-Level tutors who can see where a paper lost its marks"
-tutor_strip_body: "All our tutors are Russell Group graduates, and some are qualified examiners, so they know what earns a mark and what only looks like it should. Browse the profiles, or ask us to match your child."
+tutor_strip_body: "Many of our tutors are at or from Russell Group universities. All have tutored for at least two years, and some are qualified examiners, so they know what earns a mark and what only looks like it should. Browse the profiles, or ask us to match your child."
 
 pathways_heading: "The Routes Open to Norwich Teenagers After A-Levels"
 pathways_lead: "It helps to have these three in mind early, and a good tutor will too."

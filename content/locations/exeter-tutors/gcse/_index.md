@@ -59,7 +59,7 @@ faq_2_a: "Start with where the lost marks sit on the paper, rather than the tota
 faq_3_q: "Does it matter how far from Exeter we live?"
 faq_3_a: "Not at all, and the further out you are, the more sense online lessons make. Devon's a big county, and online we can match your child on exam board rather than on who's within driving distance. Your child and the tutor work on one whiteboard together, in the online classroom Lessonspace. Each lesson has a replay too, for checking a method before a test. And with nobody driving across Devon on a school night, it's far easier to keep the same slot every week."
 faq_4_q: "How long does it take to get started?"
-faq_4_a: "Usually under a week from first call to first lesson. You'd talk to Harry or Joe on a free 15-minute call, and two or three tutor profiles follow within 24 hours of it. Then your child gets a free video meeting with the tutor you prefer. You only pay once lessons start, from £37 an hour, with no contract. If we don't think weekly tutoring is what your child needs, we'll tell you that instead."
+faq_4_a: "Usually under a week from first call to first lesson. You'd talk to Harry or Joe on a free call, normally about 30 minutes, and two or three tutor profiles follow within 24 hours of it. Then your child gets a free video meeting with the tutor you prefer. You only pay once lessons start, from £37 an hour, with no contract. If we don't think weekly tutoring is what your child needs, we'll tell you that instead."
 
 sitemap:
   priority: 0.7

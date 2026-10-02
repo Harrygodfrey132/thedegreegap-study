@@ -22,7 +22,7 @@ first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Almost two grades above the Year 13 mock"
 
 tutor_strip_heading: "Guildford A-Level tutors for Surrey offers and Research Park apprenticeships"
-tutor_strip_body: "Some families have the University of Surrey in mind, some a Russell Group course, some an apprenticeship on Surrey Research Park. Every tutor we'd suggest studied at a Russell Group university and was interviewed by Harry or Joe. Have a browse, or leave the matching to us."
+tutor_strip_body: "Some families have the University of Surrey in mind, some a Russell Group course, some an apprenticeship on Surrey Research Park. Plenty of our tutors studied at Russell Group universities, and Harry or Joe interviewed every one. Have a browse, or leave the matching to us."
 
 pathways_heading: "The Next Step After A-Levels in Guildford"
 pathways_lead: "It's usually one of these three, and here's what each involves for your child."

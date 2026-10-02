@@ -22,7 +22,7 @@ first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "A-Level"
 
 tutor_strip_heading: "Farnborough A-Level tutors with one-to-one teaching behind them"
-tutor_strip_body: "Most of them have taught one-to-one for two years or more, so the usual slips in Maths and Physics aren't new to them. Talk it through with Harry or Joe on a free call, and we'll send two or three profiles within 24 hours."
+tutor_strip_body: "Every one of them has tutored for two years or more, so the usual slips in Maths and Physics aren't new to them. Talk it through with Harry or Joe on a free call, and we'll send two or three profiles within 24 hours."
 
 pathways_heading: "Beyond Year 13 in Farnborough"
 pathways_lead: "Three places your child's A-Levels could take them."

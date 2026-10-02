@@ -48,7 +48,7 @@ faqs:
   - q: "When should we start A-Level Chemistry tutoring in Farnborough, Year 12 or Year 13?"
     a: "Year 12 if you can, because the inorganic trends rest on the bonding that's taught in the first few weeks. If it's a sixth form entry grade you're worried about, tell us on the call and we'll plan around that instead. And if the aim is a better UCAS prediction, Year 12 matters even more, because predicted grades usually go to UCAS in the autumn of Year 13."
   - q: "What sort of person is the tutor, and how are they checked?"
-    a: "Every one has a degree from a top Russell Group university, and lots are qualified teachers too. Only about 3% of the people who apply are accepted onto the platform. Each one writes to us, sits a subject test and then talks to Joe or Harry, who listen for how clearly they explain things under pressure. We check references last. For Chemistry, we want tutors who teach from principles, not lists, because that's what lasts in an exam."
+    a: "It varies. Some have finished their degrees, many of them at top Russell Group universities, and some are still studying for one. Lots are qualified teachers too, and all of them have been tutoring for at least two years. Only about 3% of the people who apply are accepted onto the platform. Each one writes to us, sits a subject test and then talks to Joe or Harry, who listen for how clearly they explain things under pressure. We check references last. For Chemistry, we want tutors who teach from principles, not lists, because that's what lasts in an exam."
 # FAQ picks: G04, G05, A06, A05, E01
 
 reviews:

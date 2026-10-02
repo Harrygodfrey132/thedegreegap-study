@@ -48,7 +48,7 @@ faqs:
   - q: "How many lessons will my child need to go up a grade?"
     a: "Around eight to twelve weekly lessons for one grade, as long as your child's doing questions in between. Learning to decide carries across the whole paper, so it often shows sooner than work on a single topic would. It takes longer where whole topics are missing, because those need rebuilding while school keeps moving. The first lesson is where the tutor finds out which, and you'll get an honest estimate after it."
   - q: "How soon can my child start A-Level Biology tutoring in Farnborough?"
-    a: "Usually within the week. There's a free 15-minute call with Joe or Harry, then two or three tutor profiles within 24 hours, then a free 15-minute video meeting with the tutor you pick, then the first paid lesson. If a college deadline is close, say so on the call. We can normally speed things up rather than leave your child waiting."
+    a: "Usually within the week. First there's a free call with Joe or Harry, which tends to take about 30 minutes. Then come two or three tutor profiles within 24 hours, a free 15-minute video meeting with the tutor you pick, and the first paid lesson. If a college deadline is close, say so on the call. We can normally speed things up rather than leave your child waiting."
 # FAQ picks: G04, G05, A10, A01, C10
 
 reviews:

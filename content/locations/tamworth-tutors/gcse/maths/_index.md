@@ -31,7 +31,7 @@ steps_heading: "Your child's first Tamworth GCSE Maths lesson, in 3 steps"
 steps_lead: "Three short steps, and your child will have met their tutor before you've paid a penny. Most of the work is ours, not yours."
 steps:
   - title: "Start with a chat"
-    body: "A free 15-minute call comes first, with Harry or Joe, who started The Degree Gap. Tell us which school your child's at, their year and exam board, and whether they're doing higher or foundation. What they'd like to do at 16 matters most, because it sets the target. A Science A-Level needs more from Maths than a course asking for a 4, so the lessons would look quite different."
+    body: "A free call comes first, with Harry or Joe, who started The Degree Gap. It's usually about 30 minutes. Tell us which school your child's at, their year and exam board, and whether they're doing higher or foundation. What they'd like to do at 16 matters most, because it sets the target. A Science A-Level needs more from Maths than a course asking for a 4, so the lessons would look quite different."
   - title: "See two or three profiles"
     body: "Two or three tutor profiles follow within 24 hours, each picked with your child's exam board and sticking points in mind. Then your child has a free 15-minute video call with whichever tutor you like most, before you book anything."
   - title: "Weekly lessons from £37"

@@ -48,7 +48,7 @@ faqs:
   - q: "How much could my child's Maths grade go up?"
     a: "It depends on what's causing the problem, which is why we don't publish an average. One number across every child and starting point wouldn't tell you much. If it's exam technique, moving up a grade in eight to twelve weekly lessons is a realistic aim, because the knowledge is already there. If there's a real gap from an earlier year, expect longer, often a term or more, because something has to be built before it can be practised. After the first lesson, we'll tell you which one your child is in, rather than after you've paid for a term."
   - q: "How much will Maths tutoring in Basingstoke cost us?"
-    a: "From £37 an hour. The rate depends on the tutor's experience, not on where you live. Most families keep one hour a week through the school year, and some add a second in the run-up to mocks. There's no joining fee and no minimum term, so you can stop any week. On the free 15-minute call, we'll tell you if a short block of six to eight lessons would do the job instead. For two or three missing topics, it often does."
+    a: "From £37 an hour. The rate depends on the tutor's experience, not on where you live. Most families keep one hour a week through the school year, and some add a second in the run-up to mocks. There's no joining fee and no minimum term, so you can stop any week. On the free call, usually about 30 minutes, we'll tell you if a short block of six to eight lessons would do the job instead. For two or three missing topics, it often does."
 # FAQ picks: G06, A12, A10, E05, C02
 
 reviews:

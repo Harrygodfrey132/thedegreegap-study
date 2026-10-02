@@ -50,7 +50,7 @@ faqs:
   - q: "How can we tell whether The Degree Gap is any good?"
     a: "You can judge us for yourself on the free call, but here's what's behind us. We were voted GCSE Tutoring Specialists of the Year at the Prestige Awards in 2025 and 2026, and Lux Life picked us as its Best British Curriculum Tutoring Service Provider 2026. There are over 100 five-star Google reviews, all from real families and students. We're Harry and Joe, the co-founders. Harry studied Economics at the LSE, and between us we've done more than 5,000 hours of one-to-one tutoring. We also work directly with UK secondary schools, and thousands of parents have watched our webinars."
   - q: "How fast can we get A-Level Maths tutoring going in Newcastle upon Tyne?"
-    a: "Usually within a week. The free 15-minute call with Harry or Joe can normally happen within a day or two, and two or three tutor profiles follow within 24 hours of it. Then your child has a free 15-minute video meeting with the tutor you like, before you pay anything. The first paid lesson tends to land the following week. If a Mechanics test or a mock is close, tell us and we'll move faster."
+    a: "Usually within a week. The free call with Harry or Joe can normally happen within a day or two, and it generally takes about 30 minutes. Two or three tutor profiles arrive within 24 hours of that call. Then your child has a free 15-minute video meeting with the tutor you like, before you pay anything. The first paid lesson tends to land the following week. If a Mechanics test or a mock is close, tell us and we'll move faster."
 # FAQ picks: A14, A15, C10, E04, G04
 
 reviews:

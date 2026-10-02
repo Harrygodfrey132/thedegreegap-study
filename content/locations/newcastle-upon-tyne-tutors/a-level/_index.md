@@ -22,7 +22,7 @@ first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Cs to As at A-Level"
 
 tutor_strip_heading: "Newcastle A-Level tutors matched to your child's exact exam board"
-tutor_strip_body: "Every tutor on our platform is a graduate, and plenty still remember which Year 12 topic tripped them up. Before we suggest a single name, we'll check on the call which board and papers your child is sitting. Look through the profiles, or ask us to match."
+tutor_strip_body: "Graduates and undergraduates, each with at least two years of tutoring. Plenty still remember which Year 12 topic tripped them up. Before we suggest a single name, we'll check on the call which board and papers your child is sitting. Look through the profiles, or ask us to match."
 
 pathways_heading: "Where a Newcastle upon Tyne Sixth Form Can Lead"
 pathways_lead: "Two of the three lean on predicted grades built from Year 12 work, months before your child sits a final exam."

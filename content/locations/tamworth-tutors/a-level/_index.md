@@ -22,7 +22,7 @@ first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "A-Level"
 
 tutor_strip_heading: "Tamworth A-Level tutors who know how the mark schemes work"
-tutor_strip_body: "Most have been tutoring one-to-one for two years or longer. Book a free call with Harry or Joe, our co-founders, and within 24 hours you'll have profiles of two or three who'd suit your child. No contract, either."
+tutor_strip_body: "Every one has at least two years of tutoring experience. Book a free call with Harry or Joe, our co-founders, and within 24 hours you'll have profiles of two or three who'd suit your child. No contract, either."
 
 pathways_heading: "What Tamworth Year 13s Go On to Do"
 pathways_lead: "There's plenty of choice around Tamworth, whichever way your child leans."
