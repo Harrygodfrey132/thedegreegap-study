@@ -22,9 +22,8 @@ angle_stat_detail: "With last year's topics back within your child's reach, a ye
 
 schools:
   - "Stanborough School"
-  - "Sir Frederic Osborn School"
+  - "Ridgeway Academy"
   - "Monk's Walk School"
-  - "The Heathcote School"
   - "Onslow St Audrey's School"
   - "Bishop's Hatfield Girls' School"
 

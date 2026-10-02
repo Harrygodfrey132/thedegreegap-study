@@ -11,7 +11,7 @@ intro_2: "That's the part a tutor can see and a report can't. Each week they wat
 about_heading: "Trusted Tutors for Welwyn Garden City Students"
 about_image: "/images/university-library-study-hall.jpg"
 schools_intro: "We hear from families right across town, at Stanborough, Monk's Walk and Ridgeway Academy (the old Sir Frederic Osborn), and just down the road in Hatfield, at Onslow St Audrey's and Bishop's Hatfield Girls' School. Exam boards vary from school to school, and sometimes from subject to subject, so we don't guess. We ask on the call and suggest tutors who know your child's boards. Harry and Joe spend a lot of the school day running revision workshops, too. We also work directly with more than 15 secondary schools across the UK."
-schools: ["Stanborough School", "Sir Frederic Osborn School", "Monk's Walk School", "The Heathcote School", "Onslow St Audrey's School", "Bishop's Hatfield Girls' School"]
+schools: ["Stanborough School", "Ridgeway Academy", "Monk's Walk School", "Onslow St Audrey's School", "Bishop's Hatfield Girls' School"]
 schools_image: "/images/school-clock-tower-building.jpg"
 online_heading: "Online tuition for Welwyn Garden City, timed around the commute"
 online_1: "Lessons are one-to-one and online, on Lessonspace, a platform built around a shared whiteboard. Nobody has to drive across town on a school night. Your child just opens the laptop at home. If one of you is still on the train at half six, that's fine, because lessons can happen later in the evening or at the weekend."

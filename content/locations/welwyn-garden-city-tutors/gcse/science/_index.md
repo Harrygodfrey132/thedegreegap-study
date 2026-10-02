@@ -22,9 +22,8 @@ angle_stat_detail: "Where a term of weekly one-to-one lessons is usually aimed, 
 
 schools:
   - "Stanborough School"
-  - "Sir Frederic Osborn School"
+  - "Ridgeway Academy"
   - "Monk's Walk School"
-  - "The Heathcote School"
   - "Onslow St Audrey's School"
   - "Bishop's Hatfield Girls' School"
 

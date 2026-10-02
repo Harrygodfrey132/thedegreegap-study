@@ -22,7 +22,7 @@ first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades to three C grades at A-Level"
 
 tutor_strip_heading: "Welwyn Garden City A-Level tutors who go back before going forward"
-tutor_strip_body: "Monk's Walk, Sir Frederic Osborn, Stanborough and the Hatfield sixth forms don't all use the same exam boards. So we find out which ones your child's on first. Harry or Joe interview every tutor, and only around 3% of applicants get through. Book a free call to see profiles."
+tutor_strip_body: "Monk's Walk, Ridgeway Academy, Stanborough and the Hatfield sixth forms don't all use the same exam boards. So we find out which ones your child's on first. Harry or Joe interview every tutor, and only around 3% of applicants get through. Book a free call to see profiles."
 
 pathways_heading: "After Welwyn Garden City A-Levels: Where Your Child Might Head Next"
 pathways_lead: "Three routes families here tend to weigh up, often before Year 13 starts."

@@ -22,9 +22,8 @@ angle_stat_detail: "What a term of weekly lessons aims for once your child stops
 
 schools:
   - "Stanborough School"
-  - "Sir Frederic Osborn School"
+  - "Ridgeway Academy"
   - "Monk's Walk School"
-  - "The Heathcote School"
   - "Onslow St Audrey's School"
   - "Bishop's Hatfield Girls' School"
 

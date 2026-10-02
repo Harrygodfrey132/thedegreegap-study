@@ -22,7 +22,7 @@ first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to Grade 6/7 in English"
 
 tutor_strip_heading: "Welwyn Garden City GCSE tutors who don't mind going back"
-tutor_strip_body: "Exam boards vary between Monk's Walk, Sir Frederic Osborn, Stanborough and The Heathcote, so we'll ask about your child's. Only about 3% of tutors who apply get onto the platform. Look through the profiles yourself, or we'll suggest two or three."
+tutor_strip_body: "Exam boards vary between Monk's Walk, Ridgeway Academy and Stanborough, so we'll ask about your child's. Only about 3% of tutors who apply get onto the platform. Look through the profiles yourself, or we'll suggest two or three."
 
 pathways_heading: "Welwyn Garden City at 16: Three Ways Forward"
 pathways_lead: "The good news is that none of them is far from home."
