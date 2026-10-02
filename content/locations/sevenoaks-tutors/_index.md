@@ -60,12 +60,12 @@ accordion_quality: "Harry or Joe meet every tutor before they join, and only abo
 accordion_experience: "Tutors we suggest in Sevenoaks have helped children through the Kent Test, grammar sixth form entry, and Russell Group and Oxbridge applications. They know what each stage asks for, and how to prepare a child for it without wearing them out."
 accordion_personalised: "No set programme. Each plan is built around your child's next exam, from the Kent Test to an A-Level paper. And the pace is one your child can keep up, not a timetable fixed back in September."
 reviews: [
-  "Heidi|Parent|Our tutor is simply amazing with our daughter. He understands her completely and her sessions are helping her with her school work so much. We cannot thank him enough.",
-  "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings. Highly recommend.",
-  "Alison|Parent of A-Level Student|My son has been receiving tutor lessons in A Level History and A Level Sociology since the beginning of this year. The tutor has been such a tremendous support, teaching him content as well as exam technique.",
-  "Will|University Applicant|I was helped with writing a personal statement for a masters degree. The advice offered helped significantly, giving great insight. I would definitely recommend to others.",
-  "Marfa|Student|Very engaging lessons that helped me improve my grade in maths and successfully get admitted to university.",
-  "Charlotte|Student|I cannot recommend The Degree Gap enough. My tutor was helpful, welcoming and helped me achieve a grade higher than I was expected.",
+  "Heidi|Parent|Emir, is simply amazing with our daughter. He 'gets' her totally, her sessions are helping her with her school work so much. We can't thank him enough ! …",
+  "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings to fit around school lessons. …",
+  "Alison|Parent of A-Level Student|My son has been receiving tutor lessons with Jacob Berry in A level History and subsequently A level Sociology since the beginning of this year. Jacob has been such a tremendous support for my son, teaching him content as well as exam technique, with which, as a dyslexic, he really has needed additional support. …",
+  "Will|University Applicant|Harry helped me with writing a personal statement for a masters degree. The advice he offered helped significantly, giving great insight. I would definitely recommend him to others.",
+  "Marfa|Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university",
+  "Charlotte|Student|I cannot recommend Harry enough. He was helpful welcoming and helped me achieve a grade higher than I was expected!",
 ]
 sitemap:
   priority: 0.8

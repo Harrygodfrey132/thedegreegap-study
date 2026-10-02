@@ -55,7 +55,7 @@ reviews:
   - "Nicolai|University Student|Had troubles connecting with tutors until I met Harry, helped me understand the curriculum and theories in a way that stuck with me, also made each session feel calm and relaxing. Highly recommend"
   - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
   - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
-  - "Serena|Student|Malvina is a very intuitive and superb teacher. She listened acutely to my specific concerns and bolstered my confidence in answering the questions. She taught me how to think critically and helped me through this highly demanding course."
+  - "Serena|Student|Malvina is a very intuitive and superb teacher. She listened acutely to my specific concerns and bolstered my confidence in answering the questions. She taught me how to think critically and helped me through this highly demanding and complex course. I will happily recomend her without a second thought!"
 
 
 # FAQ picks: G05, A05, A02, E05, C03

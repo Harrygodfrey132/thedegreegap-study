@@ -51,8 +51,8 @@ faqs:
     a: "Gently, if at all. It's very common, and most of the pushback is against the idea of tutoring, not the tutor. It tends to ease within two or three lessons, because it's nothing like school: one adult, their full attention, and nobody else in the room to measure themselves against. Your child can meet the tutor on a free 15-minute video call before you commit to anything. And if they really don't want to carry on after a lesson or two, pause it. That's their call to make."
 
 reviews:
-  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry, who listened to her needs and gave us a selection of tutors to choose from. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
-  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents. My daughter passed both English and Maths GCSE with grades 4 and 5."
+  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. …"
+  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents. UPDATE: My daughter passed both English and Maths GCSE (4 and 5's). …"
   - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
   - "Marfa|University Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university"
   - "Isabel|Parent of iGCSE Student|Harry helped our son enormously with his maths and economics iGCSE prep. He was patient, fun and engaging - just what we needed. Highly recommended."

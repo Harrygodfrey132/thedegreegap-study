@@ -69,30 +69,12 @@ accordion_quality: "Before a tutor joins the platform, we check their subject kn
 accordion_experience: "Our tutors have worked with plenty of children who are motivated but whose results haven't caught up yet. They know how to find what's holding your child back, and fix it without making them feel behind."
 accordion_personalised: "Your child's first lesson finds the real gaps, which aren't always the ones they'd guess. After that, the tutor builds each lesson around whatever will move their grades most, not a plan off the shelf."
 reviews:
-  - Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with
-    English and was completely disengaged from the subject. After six months of
-    tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to
-    his lessons. Through one-to-one tutoring he has learned effective strategies
-    that help him approach English in a way that resonates with him.
-  - Daljit|Parent of A-Level Student|My son gained almost two grades higher than
-    his year 13 mock paper. His tutor was excellent.
-  - Philippa|Parent of GCSE Student|I was really pleased to discover the Degree
-    Gap when my daughter needed help getting the grades she needed for GCSEs.
-    The team offer a really personalised service and I felt really well looked
-    after from the start. There are lots of tutors to choose from and all
-    subjects are catered for, with great flexibility on timings. Highly
-    recommend.
-  - Serena|A-Level Student|My tutor is a very intuitive and superb teacher. She
-    listened to my specific concerns and bolstered my confidence in answering
-    questions. She taught me how to think critically and helped me through this
-    highly demanding course. I will happily recommend without a second thought.
-  - Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone
-    above and beyond to pair both my sons with the appropriate tutors, all of
-    whom have been exceptional. Both my sons exceeded their expected grades in
-    their GCSEs and A Levels and got into their first choice universities. I
-    cannot recommend them highly enough.
-  - Bryan|GCSE Student|Helped me a lot and really showed me what i need to improve on
-    improve on.
+  - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7. I honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset. …"
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings to fit around school lessons. …"
+  - "Serena|A-Level Student|Malvina is a very intuitive and superb teacher. She listened acutely to my specific concerns and bolstered my confidence in answering the questions. She taught me how to think critically and helped me through this highly demanding and complex course. I will happily recomend her without a second thought!"
+  - "Lisa|Parent|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Bryan|GCSE Student|Helped me a lot and really showed me what i need to improve on"
 sitemap:
   priority: 0.8
   changefreq: monthly

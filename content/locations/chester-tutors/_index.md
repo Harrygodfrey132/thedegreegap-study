@@ -60,12 +60,12 @@ accordion_quality: "Every tutor on the platform has sat an interview with Harry 
 accordion_experience: "Between them, Harry and Joe have more than 5,000 hours of tutoring behind them, and they pick tutors who've worked with plenty of children who clam up in class. Those tutors know how to ask a question that gets a real answer, and how to leave a pause long enough for it."
 accordion_personalised: "The tutor goes at your child's speed and starts with work they can get right, so the first few lessons feel like progress. Harder material comes once your child is happy to have a go at things they might get wrong."
 reviews: [
-  "Heidi|Parent|Our tutor is simply amazing with our daughter. He understands her completely and her sessions are helping her with her school work so much. We cannot thank him enough.",
-  "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. We were given a selection of tutors to choose from and told that if it did not feel like a good match we could try others. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend.",
-  "Charlotte|Student|I cannot recommend The Degree Gap enough. My tutor was helpful, welcoming and helped me achieve a grade higher than I was expected.",
-  "Joel|Student|The Degree Gap is an amazing place and has helped me achieve so much. I am looking forward to it helping me develop a higher level of skills and get ready for the RAF.",
-  "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings. Highly recommend.",
-  "Isabel|Parent of iGCSE Student|The Degree Gap gave our son the support he needed for his iGCSEs, especially in Maths and Economics. Lessons were clear, engaging, and built his confidence. Highly recommended.",
+  "Heidi|Parent|Emir, is simply amazing with our daughter. He 'gets' her totally, her sessions are helping her with her school work so much. We can't thank him enough ! …",
+  "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. …",
+  "Charlotte|Student|I cannot recommend Harry enough. He was helpful welcoming and helped me achieve a grade higher than I was expected!",
+  "Joel|Student|The degree gap is an amazing place and have helped me achieve so much and I am looking forward to it helping it achieve a higher class of skills and ready for the RAF",
+  "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings to fit around school lessons. …",
+  "Isabel|Parent of iGCSE Student|Harry helped our son enormously with his maths and economics iGCSE prep. He was patient, fun and engaging - just what we needed. Highly recommended.",
 ]
 sitemap:
   priority: 0.8

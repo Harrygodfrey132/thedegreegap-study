@@ -51,9 +51,9 @@ faqs:
     a: "It depends how big the gap is, and we'd rather tell you that on the call than after you've paid. If your child is a grade below what a popular sixth form is asking for, closing that gap opens a door that would otherwise stay shut. That's usually well worth it. If they're already on target, a short block on exam technique often does more than a year of weekly lessons. Sometimes the honest answer is that tutoring isn't what your child needs right now. We do say so."
 
 reviews:
-  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. We were given a selection of tutors to choose from and told that if it did not feel like a good match we could try others. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
+  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. …"
   - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
-  - "Isabel|Parent of iGCSE Student|The Degree Gap gave our son the support he needed for his iGCSEs, especially in Maths and Economics. Lessons were clear, engaging, and built his confidence. Highly recommended."
+  - "Isabel|Parent of iGCSE Student|Harry helped our son enormously with his maths and economics iGCSE prep. He was patient, fun and engaging - just what we needed. Highly recommended."
   - "Jessica|GCSE Student|I highly recommend Harry – he was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree!!"
   - "Bryan|GCSE Student|Helped me a lot and really showed me what i need to improve on"
 

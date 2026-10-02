@@ -69,26 +69,12 @@ accordion_quality: "We vet every tutor on their subject and on how they explain 
 accordion_experience: "Tutors on our platform know the patterns that come up in Derby. A child who's strong on ideas but drops marks on exam technique. Or a child carrying gaps from Years 7 to 9 that have snowballed by Year 11. Both are common, and both can be fixed."
 accordion_personalised: "Lessons begin with what your child can already do, and build up from there. If engineering, science or another technical career is the plan, that often means firming up Maths and Physics first, then stretching towards the top grades."
 reviews:
-  - Alison|Parent of A-Level Student|My son has been receiving tutor lessons in
-    A Level History and A Level Sociology since the beginning of this year. The
-    tutor has been such a tremendous support, teaching him content as well as
-    exam technique.
-  - Jessica|GCSE Student|I was helped with both Maths and English for my GCSEs
-    and passed both subjects with great results, which gave me the foundation
-    and confidence to go on to succeed in my A-levels and complete my degree.
-  - Sorland|Parent|My granddaughter uses the Degree Gap tutoring services across
-    a few subjects. She is not only improving academically but really enjoys the
-    setup and structure too. I would recommend to anyone.
-  - Ellen|Parent of GCSE Student|My daughter was struggling with confidence in
-    Maths GCSE and we decided to get a tutor. We were given a selection of
-    tutors to choose from and told that if it did not feel like a good match we
-    could try others. Our tutor was a complete star, listened, made it simple,
-    set good homework and gave my daughter her confidence back. Highly
-    recommend.
-  - Daljit|Parent of A-Level Student|My son gained almost two grades higher than
-    his year 13 mock paper. His tutor was excellent.
-  - Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!
-    a B.
+  - "Alison|Parent of A-Level Student|My son has been receiving tutor lessons with Jacob Berry in A level History and subsequently A level Sociology since the beginning of this year. Jacob has been such a tremendous support for my son, teaching him content as well as exam technique, with which, as a dyslexic, he really has needed additional support. …"
+  - "Jessica|GCSE Student|I highly recommend Harry – he was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree!!"
+  - "Sorland|Parent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
+  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. …"
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
 sitemap:
   priority: 0.8
   changefreq: monthly

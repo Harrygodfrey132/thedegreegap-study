@@ -69,31 +69,12 @@ accordion_quality: "Tutors only join the platform after an interview with Harry 
 accordion_experience: "Most of our tutors have at least a couple of years of one-to-one tutoring behind them, and plenty have worked with children who were a year or more behind. They know a child who's been stuck for a while needs some early wins, and they plan the first few lessons to get them."
 accordion_personalised: "No topic list on day one. The tutor starts by finding what's missing, and for a Swindon child with something from Year 8 dragging everything down, finding it is most of the job. Once it's fixed, the plan moves on to exam practice."
 reviews:
-  - Ellen|Parent of GCSE Student|My daughter was struggling with confidence in
-    Maths GCSE and we decided to get a tutor. We were given a selection of
-    tutors to choose from and told that if it did not feel like a good match we
-    could try others. Our tutor was a complete star, listened, made it simple,
-    set good homework and gave my daughter her confidence back. Highly
-    recommend.
-  - Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with
-    English and was completely disengaged from the subject. After six months of
-    tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to
-    his lessons. Through one-to-one tutoring he has learned effective strategies
-    that help him approach English in a way that resonates with him.
-  - Alison|Parent of A-Level Student|My son has been receiving tutor lessons in
-    A Level History and A Level Sociology since the beginning of this year. The
-    tutor has been such a tremendous support, teaching him content as well as
-    exam technique.
-  - Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!
-    a B.
-  - Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone
-    above and beyond to pair both my sons with the appropriate tutors, all of
-    whom have been exceptional. Both my sons exceeded their expected grades in
-    their GCSEs and A Levels and got into their first choice universities. I
-    cannot recommend them highly enough.
-  - Nick|Parent of A-Level Student|Our son has been receiving tuition for
-    Psychology A Level. The tutor has provided a solid base of support outside
-    of school lessons and helped him to improve his latest grades.
+  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. …"
+  - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7. I honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset. …"
+  - "Alison|Parent of A-Level Student|My son has been receiving tutor lessons with Jacob Berry in A level History and subsequently A level Sociology since the beginning of this year. Jacob has been such a tremendous support for my son, teaching him content as well as exam technique, with which, as a dyslexic, he really has needed additional support. …"
+  - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Lisa|Parent|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Nick|Parent of A-Level Student|Sandra Sabu has been tutoring our son for Psychology A Level. Sandra has provided a solid base of tutoring outside of school lessons and helped him to improve his latest grades."
 sitemap:
   priority: 0.8
   changefreq: monthly

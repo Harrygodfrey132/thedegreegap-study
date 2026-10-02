@@ -60,12 +60,12 @@ accordion_quality: "Harry or Joe has sat down with every tutor on the platform, 
 accordion_experience: "Most of them have been tutoring one-to-one for two years or longer. They've helped Year 5s with the Birmingham 11+ and sixth formers with Oxbridge and Russell Group applications, and everything in between. So whichever route your family takes, someone has done it before."
 accordion_personalised: "Nothing's off the shelf. If your child is sitting the 11+, the tutor plans backwards from the test date. If not, the plan starts from a recent report or mock and builds from there. Either way, you'll hear what the tutor found after the very first lesson."
 reviews: [
-  "Leo|Student|The time I have spent with my tutor has been really valuable. He has helped with a range of topics across economics and maths, explains things really clearly, and makes the sessions enjoyable.",
-  "Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE. Thank you.",
-  "Sarom|Parent of A-Level Student|The Degree Gap has been very helpful in tutoring my son for his economics A Level. His tutor has lots of patience, keeps lessons interesting and is a good motivator. The subject matter expertise is excellent.",
-  "Ali|Grandparent|The Degree Gap did an amazing job helping my grandson who was struggling with his economics work. Thank you for all your hard work.",
-  "Isabel|Parent of iGCSE Student|The Degree Gap gave our son the support he needed for his iGCSEs, especially in Maths and Economics. Lessons were clear, engaging, and built his confidence. Highly recommended.",
-  "Dan|A-Level Student|The Degree Gap really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university.",
+  "Leo|Student|The time I have spent with my tutor here has  really valuable.  He has helped so much with a range of topics across economics and maths. He explains things really clearly and makes the sessions enjoyable.",
+  "Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE thank you",
+  "Sarom|Parent of A-Level Student|Harry has been very helpful in tutoring my son for his economics A Level. He has lots of patience, keeps lessons interesting and is a good motivator. Needless to say his subject matter is expertise is excellent.",
+  "Ali|Grandparent|Harry did an amazing job helping my grandson who was struggling with his economics work. Thank you again, Harry, for all your hard work.",
+  "Isabel|Parent of iGCSE Student|Harry helped our son enormously with his maths and economics iGCSE prep. He was patient, fun and engaging - just what we needed. Highly recommended.",
+  "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university.",
 ]
 sitemap:
   priority: 0.8

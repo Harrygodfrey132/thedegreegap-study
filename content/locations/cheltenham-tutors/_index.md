@@ -60,12 +60,12 @@ accordion_quality: "Only about 3% of the tutors who apply make it onto our platf
 accordion_experience: "Past papers are familiar ground for the tutors we'd put forward, most of whom have tutored one-to-one for years across AQA, Edexcel and OCR. They know which questions tend to catch people out, and how to practise them until they don't."
 accordion_personalised: "One child needs timed practice and a firmer structure for long answers. Another needs to change how they revise altogether. The tutor spends the first lesson working out which it is, and the plan follows from that rather than from a standard course."
 reviews: [
-  "Serena|A-Level Student|My tutor is a very intuitive and superb teacher. She listened to my specific concerns and bolstered my confidence in answering questions. She taught me how to think critically and helped me through this highly demanding course. I will happily recommend without a second thought.",
-  "Daljit|Parent of A-Level Student|My son gained almost two grades higher than his year 13 mock paper. His tutor was excellent.",
-  "Mahir|A-Level Student|My tutor was an excellent teacher that helped me gain real grip of the complicated areas in my subjects like economics. I'd highly recommend for anyone looking to consistently perform at their best.",
-  "Kachi|University Student|My tutor transformed my performance in mathematical economics modules, taking me from a third class to a first. His patience and ability to adapt to my needs exceeded my expectations.",
-  "Joe|Student|I highly recommend the Degree Gap as a tutoring agency. Having used tutors across a variety of subjects, they have all been consistently excellent.",
-  "Theresa|Parent|The Degree Gap was fantastic. Their knowledge and guidance helped my son find direction in both his studies and future plans.",
+  "Serena|A-Level Student|Malvina is a very intuitive and superb teacher. She listened acutely to my specific concerns and bolstered my confidence in answering the questions. She taught me how to think critically and helped me through this highly demanding and complex course. I will happily recomend her without a second thought!",
+  "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent",
+  "Mahir|A-Level Student|Harry was an excellent teacher that helped me gain real grip of the complicated areas in my subjects like economics - I'd highly recommend for anyone looking to consistently perform at their best.",
+  "Kachi|University Student|Harry Godfrey transformed my performance in mathematical economics modules—such as microeconomics, macroeconomics, and statistics and maths for economics—taking me from a third class (or lower) to a first. …",
+  "Joe|Student|Highly recommend the Degree Gap as a tutoring agency! Their platform is easy to use and having used tutors across a variety of subjects, they have all been consistently excellent.",
+  "Theresa|Parent|Harry and Joe were extremely helpful with a wealth of knowledge and contacts that helped my son to follow the right path.",
 ]
 sitemap:
   priority: 0.8

@@ -56,5 +56,5 @@ reviews:
   - "Marfa|University Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university"
   - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
   - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
-  - "Kachi|University Student|Harry transformed my performance in mathematical economics modules, taking me from a third class to a first. His patience and ability to adapt to my needs helped me exceed my expectations."
+  - "Kachi|University Student|Harry Godfrey transformed my performance in mathematical economics modules—such as microeconomics, macroeconomics, and statistics and maths for economics—taking me from a third class (or lower) to a first. …"
 ---

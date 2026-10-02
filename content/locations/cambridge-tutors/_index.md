@@ -69,26 +69,12 @@ accordion_quality: "Harry and Joe, who started The Degree Gap, interview every t
 accordion_experience: "Most of our tutors have at least two years of one-to-one tutoring behind them, including work with children aiming at sixth form entry grades like the ones in Cambridge. Plenty went through competitive university applications themselves, so they know what lifts a good answer into a very good one."
 accordion_personalised: "A Year 10 working towards a sixth form place and a Year 13 chasing a higher prediction need quite different lessons. So each one starts from where your child is now and what comes next, and the plan changes as they do."
 reviews:
-  - Daljit|Parent of A-Level Student|My son gained almost two grades higher than
-    his year 13 mock paper. His tutor was excellent.
-  - Philippa|Parent of GCSE Student|I was really pleased to discover the Degree
-    Gap when my daughter needed help getting the grades she needed for GCSEs.
-    The team offer a really personalised service and I felt really well looked
-    after from the start. There are lots of tutors to choose from and all
-    subjects are catered for, with great flexibility on timings. Highly
-    recommend.
-  - Nick|Parent of A-Level Student|Our son has been receiving tuition for
-    Psychology A Level. The tutor has provided a solid base of support outside
-    of school lessons and helped him to improve his latest grades.
-  - Heidi|Parent|Our tutor is simply amazing with our daughter. He understands
-    her completely and her sessions are helping her with her school work so
-    much. We cannot thank him enough.
-  - Jessica|GCSE Student|I was helped with both Maths and English for my GCSEs
-    and passed both subjects with great results, which gave me the foundation
-    and confidence to go on to succeed in my A-levels and complete my degree.
-  - Sorland|Parent|My granddaughter uses the Degree Gap tutoring services across
-    a few subjects. She is not only improving academically but really enjoys the
-    setup and structure too. I would recommend to anyone.
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings to fit around school lessons. …"
+  - "Nick|Parent of A-Level Student|Sandra Sabu has been tutoring our son for Psychology A Level. Sandra has provided a solid base of tutoring outside of school lessons and helped him to improve his latest grades."
+  - "Heidi|Parent|Emir, is simply amazing with our daughter. He 'gets' her totally, her sessions are helping her with her school work so much. We can't thank him enough ! …"
+  - "Jessica|GCSE Student|I highly recommend Harry – he was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree!!"
+  - "Sorland|Parent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
 sitemap:
   priority: 0.8
   changefreq: monthly

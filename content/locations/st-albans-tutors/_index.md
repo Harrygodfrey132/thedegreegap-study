@@ -69,32 +69,12 @@ accordion_quality: "All our tutors are graduates, but that's only the start. Aro
 accordion_experience: "Two years or more of one-to-one lessons is typical for the tutors we'd suggest, across AQA, Edexcel and OCR. Some know the 11+ and Common Entrance well, and others have helped with Russell Group and Oxbridge applications."
 accordion_personalised: "The plan comes out of the first marked paper, not a textbook. Some weeks that means going back over Year 9 algebra, others it means harder questions than school sets. What your child needs decides which."
 reviews:
-  - Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone
-    above and beyond to pair both my sons with the appropriate tutors, all of
-    whom have been exceptional. Both my sons exceeded their expected grades in
-    their GCSEs and A Levels and got into their first choice universities. I
-    cannot recommend them highly enough.
-  - Philippa|Parent of GCSE Student|I was really pleased to discover the Degree
-    Gap when my daughter needed help getting the grades she needed for GCSEs.
-    The team offer a really personalised service and I felt really well looked
-    after from the start. There are lots of tutors to choose from and all
-    subjects are catered for, with great flexibility on timings. Highly
-    recommend.
-  - Aila|University Applicant|My tutor was amazing. He helped me shape my
-    personal statement into something I was truly proud of, and thanks to his
-    support, I got into my dream university. Highly recommend to anyone applying
-    to uni.
-  - Serena|A-Level Student|My tutor is a very intuitive and superb teacher. She
-    listened to my specific concerns and bolstered my confidence in answering
-    questions. She taught me how to think critically and helped me through this
-    highly demanding course. I will happily recommend without a second thought.
-  - Alexander|Parent|The Degree Gap helped my child go from Cs to As. They have
-    a great selection of tutors who not only assist with the curriculum but also
-    helped with university choices and applications.
-  - Kasia|Parent|Our tutor is a great teacher. Very helpful and knowledgeable.
-    His experience and expertise helped my son make decisions about choosing
-    A-level subjects and his university course. I highly recommend The Degree
-    Gap.
+  - "Lisa|Parent|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings to fit around school lessons. …"
+  - "Aila|University Applicant|Harry was amazing! He helped me shape my personal statement into something I was truly proud of, and thanks to his support, I got into my dream university! Couldn’t have done it without him–highly recommend to anyone applying to uni."
+  - "Serena|A-Level Student|Malvina is a very intuitive and superb teacher. She listened acutely to my specific concerns and bolstered my confidence in answering the questions. She taught me how to think critically and helped me through this highly demanding and complex course. I will happily recomend her without a second thought!"
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Kasia|Parent|Harry is a great tutor. He's very helpful and knowledgeable. He's git goid understanding of student's needs as well as current situation when it comes to university education in the UK. …"
 sitemap:
   priority: 0.8
   changefreq: monthly

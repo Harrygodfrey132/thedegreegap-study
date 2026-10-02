@@ -60,12 +60,12 @@ accordion_quality: "Harry and Joe interview every tutor themselves, and roughly 
 accordion_experience: "Most tutors we suggest have been tutoring one-to-one for two years or more, on AQA, Edexcel and OCR papers. They've met the same sticking points many times, from long division to balancing equations, and they fix them without a fuss."
 accordion_personalised: "There's no fixed course. After the first lesson the tutor tells you what they found. Maybe it's fractions that need rebuilding, maybe answers that are right but badly set out. The plan for the coming month comes from that, and it changes as your child catches up."
 reviews: [
-  "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him.",
-  "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B.",
-  "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. We were given a selection of tutors to choose from and told that if it did not feel like a good match we could try others. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend.",
-  "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time.",
-  "Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE. Thank you.",
-  "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing.",
+  "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7. I honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset. …",
+  "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!",
+  "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. …",
+  "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. …",
+  "Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE thank you",
+  "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing",
 ]
 sitemap:
   priority: 0.8

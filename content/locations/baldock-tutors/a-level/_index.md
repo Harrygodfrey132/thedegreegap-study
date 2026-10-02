@@ -13,9 +13,7 @@ grade_stat: "Cs to As for Alexander's child, plus help with university choices a
 first_lesson_eyebrow: A BALDOCK A-LEVEL TURNAROUND
 first_lesson_heading: What a Baldock A-Level Tutor Reads in Year 12 Mocks
 first_lesson_context: "Lots of Baldock Year 12s come to us with strong GCSEs and an A-Level mark well below anything they've had before. It's rarely that the work's beyond them, more that A-Level asks for a different kind of thinking. So the tutor goes through a recent mock with your child, finds the questions where the method fell apart, and rebuilds from there, week by week."
-first_lesson_quote: The Degree Gap helped my child go from Cs to As. They have a
-  great selection of tutors who not only assist with the curriculum but also
-  helped with university choices and applications.
+first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: Alexander
 first_lesson_quote_role: Parent
 first_lesson_quote_grade: A-Level
@@ -34,66 +32,24 @@ pathways:
     body: >
       Some Baldock leavers head straight for London, where the train puts City employers such as Goldman Sachs and HSBC within commuting distance. Any route there that takes school leavers sets its own entry requirements, and A-Level grades often come into it.
 reviews:
-  - Mahir|A-Level Student|My tutor was an excellent teacher that helped me gain
-    real grip of the complicated areas in my subjects like economics. I'd highly
-    recommend for anyone looking to consistently perform at their best.
-  - Daljit|Parent of A-Level Student|My son gained almost two grades higher than
-    his year 13 mock paper. His tutor was excellent.
-  - Joanna|Parent of A-Level Student|The A level tutoring made such a difference
-    to my son, who had left studying until the final hour, managing to turn E
-    and U grades into 3 C grades. Amazing.
-  - Alexander|Parent|The Degree Gap helped my child go from Cs to As. They have
-    a great selection of tutors who not only assist with the curriculum but also
-    helped with university choices and applications.
-  - Nick|Parent of A-Level Student|Our son has been receiving tuition for
-    Psychology A Level. The tutor has provided a solid base of support outside
-    of school lessons and helped him to improve his latest grades.
-  - Sarom|Parent of A-Level Student|The Degree Gap has been very helpful in
-    tutoring my son for his economics A Level. His tutor has lots of patience,
-    keeps lessons interesting and is a good motivator. The subject matter
-    expertise is excellent.
-  - Alison|Parent of A-Level Student|My son has been receiving tutor lessons in
-    A Level History and A Level Sociology since the beginning of this year. The
-    tutor has been such a tremendous support, teaching him content as well as
-    exam technique.
-  - Aila|University Applicant|My tutor was amazing. He helped me shape my
-    personal statement into something I was truly proud of, and thanks to his
-    support, I got into my dream university. Highly recommend to anyone applying
-    to uni.
-  - J.O.|A-Level Student|At first I was hesitant on getting a tutor, but this
-    wasn't the case. My tutor helped me massively with my essays, topics I
-    didn't understand, and overall confidence with the subject. I highly
-    recommend.
-  - Charlotte|Student|I cannot recommend The Degree Gap enough. My tutor was
-    helpful, welcoming and helped me achieve a grade higher than I was expected.
-  - Binh|A-Level Student|My sessions were super simple compared to what I'd
-    experienced with other teachers. I really enjoyed my time and would highly
-    recommend it to people.
-  - Dan|A-Level Student|The Degree Gap really helped me get through my A-levels
-    and made a massive difference when helping me get into my first choice of
-    university.
-  - Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone
-    above and beyond to pair both my sons with the appropriate tutors, all of
-    whom have been exceptional. Both my sons exceeded their expected grades in
-    their GCSEs and A Levels and got into their first choice universities. I
-    cannot recommend them highly enough.
-  - Nicolai|A-Level Student|Before joining The Degree Gap, I found it hard to
-    follow the curriculum. The sessions helped everything click. Lessons were
-    calm, focused, and easy to understand. Highly recommend.
-  - Kachi|University Student|My tutor transformed my performance in mathematical
-    economics modules, taking me from a third class to a first. His patience and
-    ability to adapt to my needs exceeded my expectations.
-  - Will|University Applicant|I was helped with writing a personal statement for
-    a masters degree. The advice offered helped significantly, giving great
-    insight. I would definitely recommend to others.
-  - Kasia|Parent|Our tutor is a great teacher. Very helpful and knowledgeable.
-    His experience and expertise helped my son make decisions about choosing
-    A-level subjects and his university course. I highly recommend The Degree
-    Gap.
-  - Tommy|University Graduate|I wish I had found The Degree Gap when I was
-    sitting my school exams. They helped with my dissertation work and without
-    their help I am not sure I would have graduated so successfully and landed a
-    successful job.
+  - "Mahir|A-Level Student|Harry was an excellent teacher that helped me gain real grip of the complicated areas in my subjects like economics - I'd highly recommend for anyone looking to consistently perform at their best."
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Nick|Parent of A-Level Student|Sandra Sabu has been tutoring our son for Psychology A Level. Sandra has provided a solid base of tutoring outside of school lessons and helped him to improve his latest grades."
+  - "Sarom|Parent of A-Level Student|Harry has been very helpful in tutoring my son for his economics A Level. He has lots of patience, keeps lessons interesting and is a good motivator. Needless to say his subject matter is expertise is excellent."
+  - "Alison|Parent of A-Level Student|My son has been receiving tutor lessons with Jacob Berry in A level History and subsequently A level Sociology since the beginning of this year. Jacob has been such a tremendous support for my son, teaching him content as well as exam technique, with which, as a dyslexic, he really has needed additional support. …"
+  - "Aila|University Applicant|Harry was amazing! He helped me shape my personal statement into something I was truly proud of, and thanks to his support, I got into my dream university! Couldn’t have done it without him–highly recommend to anyone applying to uni."
+  - "J.O.|A-Level Student|I was put into contact with Harry from a friend of mine who did economics in the year above me. And at first I was hesitant on getting a Tutor as I wasn’t sure if they were effective especially for the price they demand, but this wasn’t the case with Harry. …"
+  - "Charlotte|Student|I cannot recommend Harry enough. He was helpful welcoming and helped me achieve a grade higher than I was expected!"
+  - "Binh|A-Level Student|I was very fortunate enough to encounter Harry during my time taking A level economics. I really struggled a lot with long 30 marked essays as well as evaluation and learning the graphs as for at the time it was really hard and I didn’t understand. …"
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Lisa|Parent|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Nicolai|A-Level Student|Had troubles connecting with tutors until I met Harry, helped me understand the curriculum and theories in a way that stuck with me, also made each session feel calm and relaxing. Highly recommend"
+  - "Kachi|University Student|Harry Godfrey transformed my performance in mathematical economics modules—such as microeconomics, macroeconomics, and statistics and maths for economics—taking me from a third class (or lower) to a first. …"
+  - "Will|University Applicant|Harry helped me with writing a personal statement for a masters degree. The advice he offered helped significantly, giving great insight. I would definitely recommend him to others."
+  - "Kasia|Parent|Harry is a great tutor. He's very helpful and knowledgeable. He's git goid understanding of student's needs as well as current situation when it comes to university education in the UK. …"
+  - "Tommy|University Graduate|Joe was super helpful for me, I wish I knew about him when I was sitting my school exams! He helped with my dissertation work and without his help I’m not sure I would have graduated so successfully and landed a successful job. Thanks again Joe!"
 faq_1_q: "When's the best moment to bring in an A-Level tutor: Year 12 or Year 13?"
 faq_1_a: "Year 12, if you can, and especially if A-Level Maths is the worry. If your child gets past the jump from GCSE before the end-of-Year-12 exams, Year 13 starts from a stronger place. Schools usually send predicted grades to UCAS in the autumn of Year 13, before the January mocks. So a start after Christmas in Year 13 won't change the prediction, though it can still help with the final exams."
 faq_2_q: "Will the tutor know my child's exam board and the exact course?"

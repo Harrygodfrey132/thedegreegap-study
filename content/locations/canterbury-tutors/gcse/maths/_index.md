@@ -49,9 +49,9 @@ faqs:
     a: "Yes. The usual pattern is one lesson a week through Year 10 and early Year 11, with a second added only for the eight weeks before mocks. That costs far less than two lessons a week all year, and it tends to work better anyway. Or you could do six to eight lessons on the one topic doing the damage. It's from £37 an hour with no contract, so it stops once it's done its job."
 
 reviews:
-  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry, who listened to her needs and gave us a selection of tutors to choose from. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
+  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. …"
   - "Marfa|University Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university"
-  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents. My daughter passed both English and Maths GCSE with grades 4 and 5."
+  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents. UPDATE: My daughter passed both English and Maths GCSE (4 and 5's). …"
   - "Isabel|Parent of iGCSE Student|Harry helped our son enormously with his maths and economics iGCSE prep. He was patient, fun and engaging - just what we needed. Highly recommended."
   - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
 

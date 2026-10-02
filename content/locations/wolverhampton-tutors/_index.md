@@ -69,25 +69,12 @@ accordion_quality: "Just 3% or so of the tutors who apply to us get onto the pla
 accordion_experience: "Most have been tutoring for a couple of years at least, and between them they've helped teenagers apply for medicine, dentistry, engineering and other competitive courses. They know what those applications involve, and how to build towards them without the whole thing taking over family life."
 accordion_personalised: "If Maths is the worry, that's where the hours go. If your child has medicine in mind, the tutor will happily go beyond the syllabus in Biology or Chemistry when a bit of extra stretch would help."
 reviews:
-  - Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone
-    above and beyond to pair both my sons with the appropriate tutors, all of
-    whom have been exceptional. Both my sons exceeded their expected grades in
-    their GCSEs and A Levels and got into their first choice universities. I
-    cannot recommend them highly enough.
-  - Alexander|Parent|The Degree Gap helped my child go from Cs to As. They have
-    a great selection of tutors who not only assist with the curriculum but also
-    helped with university choices and applications.
-  - Daljit|Parent of A-Level Student|My son gained almost two grades higher than
-    his year 13 mock paper. His tutor was excellent.
-  - Kachi|University Student|My tutor transformed my performance in mathematical
-    economics modules, taking me from a third class to a first. His patience and
-    ability to adapt to my needs exceeded my expectations.
-  - Aila|University Applicant|My tutor was amazing. He helped me shape my
-    personal statement into something I was truly proud of, and thanks to his
-    support, I got into my dream university. Highly recommend to anyone applying
-    to uni.
-  - Charlotte|Student|I cannot recommend The Degree Gap enough. My tutor was
-    helpful, welcoming and helped me achieve a grade higher than I was expected.
+  - "Lisa|Parent|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Kachi|University Student|Harry Godfrey transformed my performance in mathematical economics modules—such as microeconomics, macroeconomics, and statistics and maths for economics—taking me from a third class (or lower) to a first. …"
+  - "Aila|University Applicant|Harry was amazing! He helped me shape my personal statement into something I was truly proud of, and thanks to his support, I got into my dream university! Couldn’t have done it without him–highly recommend to anyone applying to uni."
+  - "Charlotte|Student|I cannot recommend Harry enough. He was helpful welcoming and helped me achieve a grade higher than I was expected!"
 sitemap:
   priority: 0.8
   changefreq: monthly

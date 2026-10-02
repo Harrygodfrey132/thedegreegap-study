@@ -69,31 +69,12 @@ accordion_quality: "Of all the tutors who apply, around 3% get through, and Harr
 accordion_experience: "All of them studied at top Russell Group universities, and most have two years or more of one-to-one tutoring under their belts. That matters when you start early, because the same tutor might be with your child all the way to the exams."
 accordion_personalised: "With no exam next month, the tutor can spend a few weeks on something from Year 7 or 8 until it holds, then move on. If your child's already secure, lessons look further ahead instead, towards GCSE or A-Level work."
 reviews:
-  - Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone
-    above and beyond to pair both my sons with the appropriate tutors, all of
-    whom have been exceptional. Both my sons exceeded their expected grades in
-    their GCSEs and A Levels and got into their first choice universities. I
-    cannot recommend them highly enough.
-  - Philippa|Parent of GCSE Student|I was really pleased to discover the Degree
-    Gap when my daughter needed help getting the grades she needed for GCSEs.
-    The team offer a really personalised service and I felt really well looked
-    after from the start. There are lots of tutors to choose from and all
-    subjects are catered for, with great flexibility on timings. Highly
-    recommend.
-  - Sarom|Parent of A-Level Student|The Degree Gap has been very helpful in
-    tutoring my son for his economics A Level. His tutor has lots of patience,
-    keeps lessons interesting and is a good motivator. The subject matter
-    expertise is excellent.
-  - Leo|Student|The time I have spent with my tutor has been really valuable. He
-    has helped with a range of topics across economics and maths, explains
-    things really clearly, and makes the sessions enjoyable.
-  - Alexander|Parent|The Degree Gap helped my child go from Cs to As. They have
-    a great selection of tutors who not only assist with the curriculum but also
-    helped with university choices and applications.
-  - Alison|Parent of A-Level Student|My son has been receiving tutor lessons in
-    A Level History and A Level Sociology since the beginning of this year. The
-    tutor has been such a tremendous support, teaching him content as well as
-    exam technique.
+  - "Lisa|Parent|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings to fit around school lessons. …"
+  - "Sarom|Parent of A-Level Student|Harry has been very helpful in tutoring my son for his economics A Level. He has lots of patience, keeps lessons interesting and is a good motivator. Needless to say his subject matter is expertise is excellent."
+  - "Leo|Student|The time I have spent with my tutor here has  really valuable.  He has helped so much with a range of topics across economics and maths. He explains things really clearly and makes the sessions enjoyable."
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Alison|Parent of A-Level Student|My son has been receiving tutor lessons with Jacob Berry in A level History and subsequently A level Sociology since the beginning of this year. Jacob has been such a tremendous support for my son, teaching him content as well as exam technique, with which, as a dyslexic, he really has needed additional support. …"
 sitemap:
   priority: 0.8
   changefreq: monthly

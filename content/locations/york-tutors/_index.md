@@ -60,12 +60,12 @@ accordion_quality: "Harry and Joe each had two tutors growing up, and only one o
 accordion_experience: "Many trained as teachers, and most have been tutoring one-to-one for two years at the very least. They know the AQA, Edexcel, OCR and WJEC papers between them, from Year 10 right through to Year 13."
 accordion_personalised: "Every plan starts from your child rather than the syllabus. A Year 10 who's lost confidence in Maths gets a slower, gentler start. A Year 12 weighing up university courses gets stretched with harder questions and wider reading. The tutor checks in with you as things change, so you always know how it's going."
 reviews: [
-  "Alex|University Student|Cannot recommend The Degree Gap highly enough. Quick and helpful responses. I was immediately matched with a very competent tutor who was a massive help in helping me exceed my target grade and achieve a first class degree at university.",
-  "J.O.|A-Level Student|At first I was hesitant on getting a tutor, but this wasn't the case. My tutor helped me massively with my essays, topics I didn't understand, and overall confidence with the subject. I highly recommend.",
-  "Jessica|GCSE Student|I was helped with both Maths and English for my GCSEs and passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree.",
-  "Sarom|Parent of A-Level Student|The Degree Gap has been very helpful in tutoring my son for his economics A Level. His tutor has lots of patience, keeps lessons interesting and is a good motivator. The subject matter expertise is excellent.",
-  "Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE. Thank you.",
-  "Theresa|Parent|The Degree Gap was fantastic. Their knowledge and guidance helped my son find direction in both his studies and future plans.",
+  "Alex|University Student|Can’t recommend The Degree Gap highly enough. Quick and helpful responses from Harry. He immediately matched me with a very competent tutor, who was a massive help in helping me exceed my target grade and achieve a first class degree at university.",
+  "J.O.|A-Level Student|I was put into contact with Harry from a friend of mine who did economics in the year above me. And at first I was hesitant on getting a Tutor as I wasn’t sure if they were effective especially for the price they demand, but this wasn’t the case with Harry. …",
+  "Jessica|GCSE Student|I highly recommend Harry – he was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree!!",
+  "Sarom|Parent of A-Level Student|Harry has been very helpful in tutoring my son for his economics A Level. He has lots of patience, keeps lessons interesting and is a good motivator. Needless to say his subject matter is expertise is excellent.",
+  "Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE thank you",
+  "Theresa|Parent|Harry and Joe were extremely helpful with a wealth of knowledge and contacts that helped my son to follow the right path.",
 ]
 sitemap:
   priority: 0.8

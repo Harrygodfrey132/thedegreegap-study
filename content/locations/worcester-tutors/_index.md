@@ -60,12 +60,12 @@ accordion_quality: "Every tutor we suggest is a Russell Group graduate, and Harr
 accordion_experience: "Most of the tutors we'd put forward have spent at least two years teaching one-to-one, often with children who'd gone off a subject. They know a shrug usually means 'I'm lost', and how to get past it without making a big thing of it."
 accordion_personalised: "If the first couple of lessons are mostly about getting comfortable, that's fine. The tutor maps out the gaps as they go, and speeds up once your child starts offering answers without being asked. Some need a gentle start. Others want stretching sooner."
 reviews: [
-  "Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE. Thank you.",
-  "Tommy|University Student|I wish I had found The Degree Gap when I was sitting my school exams. They helped with my dissertation work and without their help I am not sure I would have graduated so successfully and landed a successful job.",
-  "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time.",
-  "Ali|Grandparent|The Degree Gap did an amazing job helping my grandson who was struggling with his economics work. Thank you for all your hard work.",
-  "Kasia|Parent|Our tutor is a great teacher. Very helpful and knowledgeable. His experience and expertise helped my son make decisions about choosing A-level subjects and his university course. I highly recommend The Degree Gap.",
-  "Binh|A-Level Student|My sessions were super simple compared to what I'd experienced with other teachers. I really enjoyed my time and would highly recommend it to people.",
+  "Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE thank you",
+  "Tommy|University Student|Joe was super helpful for me, I wish I knew about him when I was sitting my school exams! He helped with my dissertation work and without his help I’m not sure I would have graduated so successfully and landed a successful job. Thanks again Joe!",
+  "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. …",
+  "Ali|Grandparent|Harry did an amazing job helping my grandson who was struggling with his economics work. Thank you again, Harry, for all your hard work.",
+  "Kasia|Parent|Harry is a great tutor. He's very helpful and knowledgeable. He's git goid understanding of student's needs as well as current situation when it comes to university education in the UK. …",
+  "Binh|A-Level Student|I was very fortunate enough to encounter Harry during my time taking A level economics. I really struggled a lot with long 30 marked essays as well as evaluation and learning the graphs as for at the time it was really hard and I didn’t understand. …",
 ]
 sitemap:
   priority: 0.8

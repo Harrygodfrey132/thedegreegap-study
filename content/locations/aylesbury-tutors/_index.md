@@ -69,28 +69,12 @@ accordion_quality: "Harry and Joe run every interview themselves, and only aroun
 accordion_experience: "Most tutors we'd put forward have taught one-to-one for two years or more, from ten-year-olds facing the Buckinghamshire Transfer Test to teenagers on AQA, Edexcel and OCR papers. They've worked with plenty of nervous children and know a steady routine beats a pep talk."
 accordion_personalised: "Your child's plan is written once the tutor has seen them work. If the timing turns out to be fine and it's really fractions from Year 5 causing the trouble, the next few weeks go on fractions."
 reviews:
-  - Ellen|Parent of GCSE Student|My daughter was struggling with confidence in
-    Maths GCSE and we decided to get a tutor. We were given a selection of
-    tutors to choose from and told that if it did not feel like a good match we
-    could try others. Our tutor was a complete star, listened, made it simple,
-    set good homework and gave my daughter her confidence back. Highly
-    recommend.
-  - Heidi|Parent|Our tutor is simply amazing with our daughter. He understands
-    her completely and her sessions are helping her with her school work so
-    much. We cannot thank him enough.
-  - Augusta|Parent of GCSE Student|The support given to my son by The Degree
-    Gap's tutors was fabulous and he passed all his GCSE subjects. They provided
-    experienced and organised tutors. Tutors provided resources targeting
-    specific areas of difficulty. The website is easy to use and tutors were
-    polite and on time.
-  - Daljit|Parent of A-Level Student|My son gained almost two grades higher than
-    his year 13 mock paper. His tutor was excellent.
-  - Sorland|Grandparent|My granddaughter uses the Degree Gap tutoring services
-    across a few subjects. She is not only improving academically but really
-    enjoys the setup and structure too. I would recommend to anyone.
-  - Joel|Student|The Degree Gap is an amazing place and has helped me achieve so
-    much. I am looking forward to it helping me develop a higher level of skills
-    and get ready for the RAF.
+  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. …"
+  - "Heidi|Parent|Emir, is simply amazing with our daughter. He 'gets' her totally, her sessions are helping her with her school work so much. We can't thank him enough ! …"
+  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. …"
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
+  - "Joel|Student|The degree gap is an amazing place and have helped me achieve so much and I am looking forward to it helping it achieve a higher class of skills and ready for the RAF"
 sitemap:
   priority: 0.8
   changefreq: monthly

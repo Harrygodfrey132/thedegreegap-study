@@ -60,12 +60,12 @@ accordion_quality: "We want tutors who can look at a wrong answer and work out t
 accordion_experience: "Most have tutored for two years or more, one child at a time. They're used to children who've been quietly lost in a subject for a while, and between them they've also prepared others for the Birmingham 11+, grammar sixth form entry and university applications."
 accordion_personalised: "The plan starts wherever your child's gap starts. For one child that's a Year 8 Maths topic, for another it's how to build an English paragraph. The tutor works backwards first, then forwards, and the pace picks up once the foundations are secure. For an 11+ candidate, the same idea applies to the reasoning questions."
 reviews: [
-  "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing.",
-  "Nick|Parent of A-Level Student|Our son has been receiving tuition for Psychology A Level. The tutor has provided a solid base of support outside of school lessons and helped him to improve his latest grades.",
-  "Bryan|GCSE Student|Helped me a lot and really showed me what I need to improve on.",
-  "Joe|Student|I highly recommend the Degree Gap as a tutoring agency. Having used tutors across a variety of subjects, they have all been consistently excellent.",
-  "Annette|Parent|This company helped us find a tutor for Geography and my son has excelled so much in just a few months. Our tutor has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself. He also manages neurodiversity effectively.",
-  "Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional. Both my sons exceeded their expected grades in their GCSEs and A Levels and got into their first choice universities. I cannot recommend them highly enough.",
+  "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing",
+  "Nick|Parent of A-Level Student|Sandra Sabu has been tutoring our son for Psychology A Level. Sandra has provided a solid base of tutoring outside of school lessons and helped him to improve his latest grades.",
+  "Bryan|GCSE Student|Helped me a lot and really showed me what i need to improve on",
+  "Joe|Student|Highly recommend the Degree Gap as a tutoring agency! Their platform is easy to use and having used tutors across a variety of subjects, they have all been consistently excellent.",
+  "Annette|Parent|This company helped us find Jon Brettell for Geography and my son has excelled so much in just a few months. Jon has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself – a difficult task.  He also manages neurodiversity effectively.",
+  "Lisa|Parent|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough.",
 ]
 sitemap:
   priority: 0.8

@@ -69,30 +69,12 @@ accordion_quality: "Every tutor is a graduate who's been interviewed by Harry or
 accordion_experience: "Typically, the tutor we'd suggest has two or more years of one-to-one work under their belt, on AQA, Edexcel and OCR papers. They know how to rebuild the basics with a teenager who's lost heart, without making it feel like going backwards."
 accordion_personalised: "Every plan starts from what the first lesson shows. For one child that's a few weeks on Year 8 algebra before any A-Level Maths makes sense. For another it's tightening up Psychology evaluation. The plan then shifts as each gap closes, so lessons don't go over what your child already knows."
 reviews:
-  - Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone
-    above and beyond to pair both my sons with the appropriate tutors, all of
-    whom have been exceptional. Both my sons exceeded their expected grades in
-    their GCSEs and A Levels and got into their first choice universities. I
-    cannot recommend them highly enough.
-  - Ellen|Parent of GCSE Student|My daughter was struggling with confidence in
-    Maths GCSE and we decided to get a tutor. We were given a selection of
-    tutors to choose from and told that if it did not feel like a good match we
-    could try others. Our tutor was a complete star, listened, made it simple,
-    set good homework and gave my daughter her confidence back. Highly
-    recommend.
-  - Mahir|A-Level Student|My tutor was an excellent teacher that helped me gain
-    real grip of the complicated areas in my subjects like economics. I'd
-    highly recommend for anyone looking to consistently perform at their best.
-  - Joanna|Parent of A-Level Student|The A level tutoring made such a difference
-    to my son, who had left studying until the final hour, managing to turn E
-    and U grades into 3 C grades. Amazing.
-  - Aila|University Applicant|My tutor was amazing. He helped me shape my
-    personal statement into something I was truly proud of, and thanks to his
-    support, I got into my dream university. Highly recommend to anyone
-    applying to uni.
-  - Heidi|Parent|Our tutor is simply amazing with our daughter. He understands
-    her completely and her sessions are helping her with her school work so
-    much. We cannot thank him enough.
+  - "Lisa|Parent|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. …"
+  - "Mahir|A-Level Student|Harry was an excellent teacher that helped me gain real grip of the complicated areas in my subjects like economics - I'd highly recommend for anyone looking to consistently perform at their best."
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Aila|University Applicant|Harry was amazing! He helped me shape my personal statement into something I was truly proud of, and thanks to his support, I got into my dream university! Couldn’t have done it without him–highly recommend to anyone applying to uni."
+  - "Heidi|Parent|Emir, is simply amazing with our daughter. He 'gets' her totally, her sessions are helping her with her school work so much. We can't thank him enough ! …"
 sitemap:
   priority: 0.8
   changefreq: monthly

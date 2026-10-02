@@ -69,29 +69,12 @@ accordion_quality: "Nobody joins the platform without being interviewed by Harry
 accordion_experience: "The tutors we'd suggest have supported medicine, dentistry, engineering and Oxbridge applicants, as well as plenty of families through ordinary GCSE and A-Level years. They've seen the step up to sixth form many times."
 accordion_personalised: "The plan starts from where your child is: the grades they need for college, or the A-Level topic that's already slipping. If they're after stretch beyond the syllabus, the tutor builds that in as well."
 reviews:
-  - Serena|A-Level Student|My tutor is a very intuitive and superb teacher. She
-    listened to my specific concerns and bolstered my confidence in answering
-    questions. She taught me how to think critically and helped me through this
-    highly demanding course. I will happily recommend without a second thought.
-  - Tommy|University Student|I wish I had found The Degree Gap when I was
-    sitting my school exams. They helped with my dissertation work and without
-    their help I am not sure I would have graduated so successfully and landed a
-    successful job.
-  - Alex|University Student|Cannot recommend The Degree Gap highly enough. Quick
-    and helpful responses. I was immediately matched with a very competent tutor
-    who was a massive help in helping me exceed my target grade and achieve a
-    first class degree at university.
-  - Aila|University Applicant|My tutor was amazing. He helped me shape my
-    personal statement into something I was truly proud of, and thanks to his
-    support, I got into my dream university. Highly recommend to anyone applying
-    to uni.
-  - Dan|A-Level Student|The Degree Gap really helped me get through my A-levels
-    and made a massive difference when helping me get into my first choice of
-    university.
-  - Kasia|Parent|Our tutor is a great teacher. Very helpful and knowledgeable.
-    His experience and expertise helped my son make decisions about choosing
-    A-level subjects and his university course. I highly recommend The Degree
-    Gap.
+  - "Serena|A-Level Student|Malvina is a very intuitive and superb teacher. She listened acutely to my specific concerns and bolstered my confidence in answering the questions. She taught me how to think critically and helped me through this highly demanding and complex course. I will happily recomend her without a second thought!"
+  - "Tommy|University Student|Joe was super helpful for me, I wish I knew about him when I was sitting my school exams! He helped with my dissertation work and without his help I’m not sure I would have graduated so successfully and landed a successful job. Thanks again Joe!"
+  - "Alex|University Student|Can’t recommend The Degree Gap highly enough. Quick and helpful responses from Harry. He immediately matched me with a very competent tutor, who was a massive help in helping me exceed my target grade and achieve a first class degree at university."
+  - "Aila|University Applicant|Harry was amazing! He helped me shape my personal statement into something I was truly proud of, and thanks to his support, I got into my dream university! Couldn’t have done it without him–highly recommend to anyone applying to uni."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Kasia|Parent|Harry is a great tutor. He's very helpful and knowledgeable. He's git goid understanding of student's needs as well as current situation when it comes to university education in the UK. …"
 sitemap:
   priority: 0.8
   changefreq: monthly

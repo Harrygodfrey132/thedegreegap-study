@@ -60,12 +60,12 @@ accordion_quality: "Roughly three in every hundred tutors who apply make it thro
 accordion_experience: "They've mostly been tutoring for two years or longer, so they've seen the Year 12 wobble many times, and the Year 10 one too. They know the first few weeks are about steadying your child, not racing through the syllabus."
 accordion_personalised: "Every child hits the step up somewhere different. For one it's essay writing, for another it's the calculations in Chemistry. The tutor works out where it is for your child, starts there, and keeps an eye on how things feel as well as how they're scoring."
 reviews: [
-  "Joel|Student|The Degree Gap is an amazing place and has helped me achieve so much. I am looking forward to it helping me develop a higher level of skills and get ready for the RAF.",
-  "Nicolai|A-Level Student|Before joining The Degree Gap, I found it hard to follow the curriculum. The sessions helped everything click. Lessons were calm, focused, and easy to understand. Highly recommend.",
-  "Heidi|Parent|Our tutor is simply amazing with our daughter. He understands her completely and her sessions are helping her with her school work so much. We cannot thank him enough.",
-  "Marfa|Student|Very engaging lessons that helped me improve my grade in maths and successfully get admitted to university.",
-  "Jessica|GCSE Student|I was helped with both Maths and English for my GCSEs and passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree.",
-  "Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE. Thank you.",
+  "Joel|Student|The degree gap is an amazing place and have helped me achieve so much and I am looking forward to it helping it achieve a higher class of skills and ready for the RAF",
+  "Nicolai|A-Level Student|Had troubles connecting with tutors until I met Harry, helped me understand the curriculum and theories in a way that stuck with me, also made each session feel calm and relaxing. Highly recommend",
+  "Heidi|Parent|Emir, is simply amazing with our daughter. He 'gets' her totally, her sessions are helping her with her school work so much. We can't thank him enough ! …",
+  "Marfa|Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university",
+  "Jessica|GCSE Student|I highly recommend Harry – he was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree!!",
+  "Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE thank you",
 ]
 sitemap:
   priority: 0.8

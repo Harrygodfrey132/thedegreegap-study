@@ -60,12 +60,12 @@ accordion_quality: "A strong degree gets a tutor as far as an interview with Har
 accordion_experience: "Most have been tutoring one-to-one for at least two years, and the ones we'd suggest for A-Level know how steep Year 12 can feel. They know the OCR, AQA and Edexcel courses, and which GCSE topics each one leans on."
 accordion_personalised: "Stretch or catch-up depends on your child. Some want to go well past the syllabus because medicine or engineering is on their mind. Others need Year 11 gaps filled before Year 12 makes sense. The first lesson shows the tutor which, and the weeks after follow from it."
 reviews: [
-  "Tommy|University Student|I wish I had found The Degree Gap when I was sitting my school exams. They helped with my dissertation work and without their help I am not sure I would have graduated so successfully and landed a successful job.",
-  "Joel|Student|The Degree Gap is an amazing place and has helped me achieve so much. I am looking forward to it helping me develop a higher level of skills and get ready for the RAF.",
-  "Theresa|Parent|The Degree Gap was fantastic. Their knowledge and guidance helped my son find direction in both his studies and future plans.",
-  "Nicolai|A-Level Student|Before joining The Degree Gap, I found it hard to follow the curriculum. The sessions helped everything click. Lessons were calm, focused, and easy to understand. Highly recommend.",
-  "Kachi|University Student|My tutor transformed my performance in mathematical economics modules, taking me from a third class to a first. His patience and ability to adapt to my needs exceeded my expectations.",
-  "Alex|University Student|Cannot recommend The Degree Gap highly enough. Quick and helpful responses. I was immediately matched with a very competent tutor who was a massive help in helping me exceed my target grade and achieve a first class degree at university.",
+  "Tommy|University Student|Joe was super helpful for me, I wish I knew about him when I was sitting my school exams! He helped with my dissertation work and without his help I’m not sure I would have graduated so successfully and landed a successful job. Thanks again Joe!",
+  "Joel|Student|The degree gap is an amazing place and have helped me achieve so much and I am looking forward to it helping it achieve a higher class of skills and ready for the RAF",
+  "Theresa|Parent|Harry and Joe were extremely helpful with a wealth of knowledge and contacts that helped my son to follow the right path.",
+  "Nicolai|A-Level Student|Had troubles connecting with tutors until I met Harry, helped me understand the curriculum and theories in a way that stuck with me, also made each session feel calm and relaxing. Highly recommend",
+  "Kachi|University Student|Harry Godfrey transformed my performance in mathematical economics modules—such as microeconomics, macroeconomics, and statistics and maths for economics—taking me from a third class (or lower) to a first. …",
+  "Alex|University Student|Can’t recommend The Degree Gap highly enough. Quick and helpful responses from Harry. He immediately matched me with a very competent tutor, who was a massive help in helping me exceed my target grade and achieve a first class degree at university.",
 ]
 sitemap:
   priority: 0.8

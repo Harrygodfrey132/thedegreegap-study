@@ -60,12 +60,12 @@ accordion_quality: "Only about 3 in every 100 tutors who apply make it onto our 
 accordion_experience: "Most have two or more years of one-to-one tutoring behind them, and many are qualified teachers. They've seen the GCSE-to-A-Level jump plenty of times, so that first term at college won't be new to them, even if it's new to your child."
 accordion_personalised: "A Year 11 working towards a college place might spend three weeks on algebra and exam timing. A Year 12 might need last week's Chemistry lessons gone over slowly. The tutor adjusts as mocks and college assessments come round, and if your child needs a gentler pace for a while, that's fine too."
 reviews: [
-  "Annette|Parent|This company helped us find a tutor for Geography and my son has excelled so much in just a few months. Our tutor has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself. He also manages neurodiversity effectively.",
-  "Bryan|GCSE Student|Helped me a lot and really showed me what I need to improve on.",
-  "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents. My daughter passed both English and Maths GCSE.",
-  "Dan|A-Level Student|The Degree Gap really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university.",
-  "Jeanne|University Applicant|I received quick and extremely helpful feedback on my personal statement for my master's applications. I can't recommend The Degree Gap enough.",
-  "Alison|Parent of A-Level Student|My son has been receiving tutor lessons in A Level History and A Level Sociology since the beginning of this year. The tutor has been such a tremendous support, teaching him content as well as exam technique.",
+  "Annette|Parent|This company helped us find Jon Brettell for Geography and my son has excelled so much in just a few months. Jon has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself – a difficult task.  He also manages neurodiversity effectively.",
+  "Bryan|GCSE Student|Helped me a lot and really showed me what i need to improve on",
+  "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents. UPDATE: My daughter passed both English and Maths GCSE (4 and 5's). …",
+  "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university.",
+  "Jeanne|University Applicant|I can’t recommend The degree gap enough! Harry provided quick and extremely helpful feedback on my personal statement for my master’s applications. Thank you, Harry!",
+  "Alison|Parent of A-Level Student|My son has been receiving tutor lessons with Jacob Berry in A level History and subsequently A level Sociology since the beginning of this year. Jacob has been such a tremendous support for my son, teaching him content as well as exam technique, with which, as a dyslexic, he really has needed additional support. …",
 ]
 sitemap:
   priority: 0.8

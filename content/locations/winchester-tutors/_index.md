@@ -60,12 +60,12 @@ accordion_quality: "Each tutor on our platform has sat an interview with Harry o
 accordion_experience: "Most tutors on the platform have spent two years or more tutoring one-to-one, and many are qualified teachers. Between them they know the AQA, Edexcel and OCR papers well, from GCSE through to the A-Levels your child might take at Peter Symonds."
 accordion_personalised: "Two lessons with the same tutor can look nothing alike. If your child needs to rebuild something from Year 9, the tutor slows right down. If they're ready for harder questions, the pace picks up. The plan shifts after each round of mocks, and the tutor will tell you what's changed."
 reviews: [
-  "Nick|Parent of A-Level Student|Our son has been receiving tuition for Psychology A Level. The tutor has provided a solid base of support outside of school lessons and helped him to improve his latest grades.",
-  "Mahir|A-Level Student|My tutor was an excellent teacher that helped me gain real grip of the complicated areas in my subjects like economics. I'd highly recommend for anyone looking to consistently perform at their best.",
-  "Kachi|University Student|My tutor transformed my performance in mathematical economics modules, taking me from a third class to a first. His patience and ability to adapt to my needs exceeded my expectations.",
-  "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B.",
-  "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him.",
-  "Sorland|Grandparent|My granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone.",
+  "Nick|Parent of A-Level Student|Sandra Sabu has been tutoring our son for Psychology A Level. Sandra has provided a solid base of tutoring outside of school lessons and helped him to improve his latest grades.",
+  "Mahir|A-Level Student|Harry was an excellent teacher that helped me gain real grip of the complicated areas in my subjects like economics - I'd highly recommend for anyone looking to consistently perform at their best.",
+  "Kachi|University Student|Harry Godfrey transformed my performance in mathematical economics modules—such as microeconomics, macroeconomics, and statistics and maths for economics—taking me from a third class (or lower) to a first. …",
+  "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!",
+  "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7. I honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset. …",
+  "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone.",
 ]
 sitemap:
   priority: 0.8

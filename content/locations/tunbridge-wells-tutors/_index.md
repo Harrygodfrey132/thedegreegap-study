@@ -69,28 +69,12 @@ accordion_quality: "Every tutor on the platform has been interviewed by Harry or
 accordion_experience: "Two years or more of one-to-one tutoring is typical for the tutors we'd suggest. Some have spent it on Kent Test practice, others on GCSE and A-Level papers. They're used to children who've decided they're bad at a subject, and can slow right down without it ever feeling babyish."
 accordion_personalised: "Your child sets the pace, not the textbook. If they need three weeks on equations before the rest of the algebra makes sense, that's what they'll get. Nobody will make them feel slow about it."
 reviews:
-  - Heidi|Parent|Our tutor is simply amazing with our daughter. He understands
-    her completely and her sessions are helping her with her school work so
-    much. We cannot thank him enough.
-  - Philippa|Parent of GCSE Student|I was really pleased to discover the Degree
-    Gap when my daughter needed help getting the grades she needed for GCSEs.
-    The team offer a really personalised service and I felt really well looked
-    after from the start. There are lots of tutors to choose from and all
-    subjects are catered for, with great flexibility on timings. Highly
-    recommend.
-  - Alison|Parent of A-Level Student|My son has been receiving tutor lessons in
-    A Level History and A Level Sociology since the beginning of this year. The
-    tutor has been such a tremendous support, teaching him content as well as
-    exam technique.
-  - Sorland|Grandparent|My granddaughter uses the Degree Gap tutoring services
-    across a few subjects. She is not only improving academically but really
-    enjoys the setup and structure too. I would recommend to anyone.
-  - Daljit|Parent of A-Level Student|My son gained almost two grades higher than
-    his year 13 mock paper. His tutor was excellent.
-  - Annette|Parent|This company helped us find a tutor for Geography and my son
-    has excelled so much in just a few months. Our tutor has gone above and
-    beyond, demonstrating incredible patience and encouraging my son to believe
-    in himself. He also manages neurodiversity effectively.
+  - "Heidi|Parent|Emir, is simply amazing with our daughter. He 'gets' her totally, her sessions are helping her with her school work so much. We can't thank him enough ! …"
+  - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings to fit around school lessons. …"
+  - "Alison|Parent of A-Level Student|My son has been receiving tutor lessons with Jacob Berry in A level History and subsequently A level Sociology since the beginning of this year. Jacob has been such a tremendous support for my son, teaching him content as well as exam technique, with which, as a dyslexic, he really has needed additional support. …"
+  - "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Annette|Parent|This company helped us find Jon Brettell for Geography and my son has excelled so much in just a few months. Jon has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself – a difficult task.  He also manages neurodiversity effectively."
 sitemap:
   priority: 0.8
   changefreq: monthly

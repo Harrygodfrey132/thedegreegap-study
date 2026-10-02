@@ -13,9 +13,7 @@ grade_stat: "One parent's son left revision until the last minute and still turn
 first_lesson_eyebrow: FROM YEAR 12 MOCKS TO YEAR 13 OFFER
 first_lesson_heading: "The First Paper a Derby A-Level Tutor Asks to See"
 first_lesson_context: "Year 12 results carry a lot of weight in your child's predicted grade. So a Derby A-Level tutor's first lesson goes through a recent marked paper, looking for the longer questions near the end where the marks quietly slipped. The plan for Year 13 starts from there."
-first_lesson_quote: The A level tutoring made such a difference to my son, who
-  had left studying until the final hour, managing to turn E and U grades into 3
-  C grades. Amazing.
+first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: Joanna
 first_lesson_quote_role: Parent of A-Level Student
 first_lesson_quote_grade: E and U grades to three C grades
@@ -34,68 +32,24 @@ pathways:
     body: >
       Engineering is the route Derby's best known for, with Rolls-Royce, Toyota and Alstom all taking on A-Level leavers who've done Maths and the Sciences. But plenty of young people here go another way, through Nursing or Medicine into the Derby and Burton NHS trust, or through English Literature and History towards law and teaching.
 reviews:
-  - Joanna|Parent of A-Level Student|The A level tutoring made such a difference
-    to my son, who had left studying until the final hour, managing to turn E
-    and U grades into 3 C grades. Amazing.
-  - Daljit|Parent of A-Level Student|My son gained almost two grades higher than
-    his year 13 mock paper. His tutor was excellent.
-  - Alison|Parent of A-Level Student|My son has been receiving tutor lessons in
-    A Level History and A Level Sociology since the beginning of this year. The
-    tutor has been such a tremendous support, teaching him content as well as
-    exam technique.
-  - Sarom|Parent of A-Level Student|The Degree Gap has been very helpful in
-    tutoring my son for his economics A Level. His tutor has lots of patience,
-    keeps lessons interesting and is a good motivator. The subject matter
-    expertise is excellent.
-  - Nick|Parent of A-Level Student|Our son has been receiving tuition for
-    Psychology A Level. The tutor has provided a solid base of support outside
-    of school lessons and helped him to improve his latest grades.
-  - Mahir|A-Level Student|My tutor was an excellent teacher that helped me gain
-    real grip of the complicated areas in my subjects like economics. I'd highly
-    recommend for anyone looking to consistently perform at their best.
-  - Nicolai|A-Level Student|Before joining The Degree Gap, I found it hard to
-    follow the curriculum. The sessions helped everything click. Lessons were
-    calm, focused, and easy to understand. Highly recommend.
-  - J.O.|A-Level Student|At first I was hesitant on getting a tutor, but this
-    wasn't the case. My tutor helped me massively with my essays, topics I
-    didn't understand, and overall confidence with the subject. I highly
-    recommend.
-  - Binh|A-Level Student|My sessions were super simple compared to what I'd
-    experienced with other teachers. I really enjoyed my time and would highly
-    recommend it to people.
-  - Dan|A-Level Student|The Degree Gap really helped me get through my A-levels
-    and made a massive difference when helping me get into my first choice of
-    university.
-  - Serena|A-Level Student|My tutor is a very intuitive and superb teacher. She
-    listened to my specific concerns and bolstered my confidence in answering
-    questions. She taught me how to think critically and helped me through this
-    highly demanding course. I will happily recommend without a second thought.
-  - Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone
-    above and beyond to pair both my sons with the appropriate tutors, all of
-    whom have been exceptional. Both my sons exceeded their expected grades in
-    their GCSEs and A Levels and got into their first choice universities. I
-    cannot recommend them highly enough.
-  - Kachi|University Student|My tutor transformed my performance in mathematical
-    economics modules, taking me from a third class to a first. His patience and
-    ability to adapt to my needs exceeded my expectations.
-  - Alex|University Student|Cannot recommend The Degree Gap highly enough. Quick
-    and helpful responses. I was immediately matched with a very competent tutor
-    who was a massive help in helping me exceed my target grade and achieve a
-    first class degree at university.
-  - Aila|University Applicant|My tutor was amazing. He helped me shape my
-    personal statement into something I was truly proud of, and thanks to his
-    support, I got into my dream university. Highly recommend to anyone applying
-    to uni.
-  - Tommy|University Student|I wish I had found The Degree Gap when I was
-    sitting my school exams. They helped with my dissertation work and without
-    their help I am not sure I would have graduated so successfully and landed a
-    successful job.
-  - Will|University Applicant|I was helped with writing a personal statement for
-    a masters degree. The advice offered helped significantly, giving great
-    insight. I would definitely recommend to others.
-  - Jeanne|University Applicant|I received quick and extremely helpful feedback
-    on my personal statement for my master's applications. I can't recommend The
-    Degree Gap enough.
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Alison|Parent of A-Level Student|My son has been receiving tutor lessons with Jacob Berry in A level History and subsequently A level Sociology since the beginning of this year. Jacob has been such a tremendous support for my son, teaching him content as well as exam technique, with which, as a dyslexic, he really has needed additional support. …"
+  - "Sarom|Parent of A-Level Student|Harry has been very helpful in tutoring my son for his economics A Level. He has lots of patience, keeps lessons interesting and is a good motivator. Needless to say his subject matter is expertise is excellent."
+  - "Nick|Parent of A-Level Student|Sandra Sabu has been tutoring our son for Psychology A Level. Sandra has provided a solid base of tutoring outside of school lessons and helped him to improve his latest grades."
+  - "Mahir|A-Level Student|Harry was an excellent teacher that helped me gain real grip of the complicated areas in my subjects like economics - I'd highly recommend for anyone looking to consistently perform at their best."
+  - "Nicolai|A-Level Student|Had troubles connecting with tutors until I met Harry, helped me understand the curriculum and theories in a way that stuck with me, also made each session feel calm and relaxing. Highly recommend"
+  - "J.O.|A-Level Student|I was put into contact with Harry from a friend of mine who did economics in the year above me. And at first I was hesitant on getting a Tutor as I wasn’t sure if they were effective especially for the price they demand, but this wasn’t the case with Harry. …"
+  - "Binh|A-Level Student|I was very fortunate enough to encounter Harry during my time taking A level economics. I really struggled a lot with long 30 marked essays as well as evaluation and learning the graphs as for at the time it was really hard and I didn’t understand. …"
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Serena|A-Level Student|Malvina is a very intuitive and superb teacher. She listened acutely to my specific concerns and bolstered my confidence in answering the questions. She taught me how to think critically and helped me through this highly demanding and complex course. I will happily recomend her without a second thought!"
+  - "Lisa|Parent|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Kachi|University Student|Harry Godfrey transformed my performance in mathematical economics modules—such as microeconomics, macroeconomics, and statistics and maths for economics—taking me from a third class (or lower) to a first. …"
+  - "Alex|University Student|Can’t recommend The Degree Gap highly enough. Quick and helpful responses from Harry. He immediately matched me with a very competent tutor, who was a massive help in helping me exceed my target grade and achieve a first class degree at university."
+  - "Aila|University Applicant|Harry was amazing! He helped me shape my personal statement into something I was truly proud of, and thanks to his support, I got into my dream university! Couldn’t have done it without him–highly recommend to anyone applying to uni."
+  - "Tommy|University Student|Joe was super helpful for me, I wish I knew about him when I was sitting my school exams! He helped with my dissertation work and without his help I’m not sure I would have graduated so successfully and landed a successful job. Thanks again Joe!"
+  - "Will|University Applicant|Harry helped me with writing a personal statement for a masters degree. The advice he offered helped significantly, giving great insight. I would definitely recommend him to others."
+  - "Jeanne|University Applicant|I can’t recommend The degree gap enough! Harry provided quick and extremely helpful feedback on my personal statement for my master’s applications. Thank you, Harry!"
 faq_1_q: "My son got a grade 8 at GCSE Maths but he's struggling at A-Level. What's going on?"
 faq_1_a: "It's very common, and it doesn't mean he's lost his touch. A-Level Maths brings in pure maths, mechanics and statistics at once, with far less hand-holding than GCSE. A tutor can usually see where it's slipping from one past paper, and they'll build from there. One topic at a time."
 faq_2_q: "My daughter's struggling with her A-Level Sciences. What would a tutor actually do?"
