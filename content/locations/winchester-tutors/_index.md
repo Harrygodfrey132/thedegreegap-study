@@ -50,7 +50,7 @@ faq_1_a: "Not at all. It's often when Winchester families first get in touch, be
 faq_2_q: "Can you help with Common Entrance as well as GCSEs?"
 faq_2_a: "Yes. Let us know which papers your child is sitting and when, and we'll suggest tutors who know them. Timed practice at home, with someone kind doing the marking, takes a lot of the fear out of the real thing."
 faq_3_q: "What will we pay, and can we stop if we need to?"
-faq_3_a: "Lessons start from £37 an hour, and the tutor's rate is agreed with you before anything's booked. There's no contract, so you can take a break over the summer or stop altogether whenever you like. No joining fee, either."
+faq_3_a: "Lessons start from £37 an hour, and the tutor's rate is agreed with you before anything's booked. There's no contract, so you can take a break over the summer or stop altogether whenever you like. It's pay as you go, with nothing upfront and no joining fee."
 faq_4_q: "When will we know if it's working?"
 faq_4_a: "Usually sooner than the next report. Most parents notice their child talking about the subject differently within a few lessons, and homework gets less fraught. A mark takes a bit longer to move, and we'd never promise a grade."
 why_heading: "Why our Winchester tutors start with your child's last mock"

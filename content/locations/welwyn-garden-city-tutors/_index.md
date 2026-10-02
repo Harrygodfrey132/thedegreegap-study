@@ -50,7 +50,7 @@ faq_1_a: "Not always, and if they don't, we'll tell you. Often the clue is a moc
 faq_2_q: "We both commute. Can lessons be in the evening?"
 faq_2_a: "Yes. Evenings and weekends both work, and you agree the time with the tutor. It's all online, so your child can start a lesson from their bedroom while you're still on your way back from King's Cross."
 faq_3_q: "What does tutoring cost, and are we tied in?"
-faq_3_a: "Lessons are from £37 an hour, and the exact price depends on the tutor. You're not tied in at all. There's no contract and no joining fee. The call with us and your child's video meeting with the tutor are both free."
+faq_3_a: "Lessons are from £37 an hour, and the exact price depends on the tutor. You're not tied in at all. There's no contract, no joining fee, and you pay as you go, lesson by lesson. The call with us and your child's video meeting with the tutor are both free."
 faq_4_q: "What happens if the first tutor isn't a good fit?"
 faq_4_a: "Just say, and we'll line up someone else, free of charge. Nobody's offended and there's no awkward conversation to have. A good match matters more to us than anything, which is why you see two or three profiles in the first place."
 why_heading: "Welwyn Garden City tutoring that looks past 'fine' to the working underneath"
