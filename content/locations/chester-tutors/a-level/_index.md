@@ -22,7 +22,7 @@ first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "C grades to A grades at A-Level"
 
 tutor_strip_heading: "Chester A-Level tutors matched to the qualification your child is taking"
-tutor_strip_body: "Some Chester teenagers do sixth form on the Wirral or in Wales, and exam boards vary from school to school. We check your child's course and board before suggesting anyone. Every tutor is a graduate, and only around 3% of applicants pass Harry and Joe's interview."
+tutor_strip_body: "Some Chester teenagers do sixth form on the Wirral or in Wales, and exam boards vary from school to school. We check your child's course and board before suggesting anyone. Every tutor has two years' tutoring or more, and only around 3% of applicants pass Harry and Joe's interview."
 
 pathways_heading: "Where A-Levels Take Chester Sixth Formers Next"
 pathways_lead: "Three routes Chester families weigh up across Year 12 and Year 13."

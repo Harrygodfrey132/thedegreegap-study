@@ -30,7 +30,7 @@ schools:
 steps_heading: "Getting GCSE Science tutoring going for your child in Leeds"
 steps_lead: "Profiles tend to arrive within 24 hours of your call, which leaves time to shore up the A-Level topics well ahead of the mocks."
 steps:
-  - title: "A 15-minute call"
+  - title: "A 30-minute call"
     body: "It's free, and it's with Harry or Joe, the co-founders, so we can get to know you and your child: Combined or Triple, the school, the exam board and which A-Levels they're thinking about."
   - title: "See two or three tutors"
     body: "Profiles of two or three tutors reach you within 24 hours, each picked for the science that's costing marks. Your child meets the one you choose in a free 15-minute video meeting before anything's booked."
@@ -45,7 +45,7 @@ faqs:
   - q: "Predicted a 5, and the course wants a 6. Is that fixable?"
     a: "Often, yes, though nobody can promise it. A one-grade gap usually comes down to a few question types, and a recent paper shows which: six-mark answers, practical questions or calculations. A term or so of weekly lessons aimed at those is a sensible plan. Starting before the Year 11 mocks helps most, because the mock often shapes the prediction a college sees."
   - q: "Do your tutors know A-Level Science as well as GCSE?"
-    a: "Yes. If your child's heading for a Science A-Level, we'll look for a tutor who teaches both levels. All of them studied at top Russell Group universities, and lots are qualified teachers. A tutor who knows Year 12 can tell your child which GCSE topics are worth over-learning now, and why. Mention which A-Levels are on your child's list when we talk, and we'll suggest tutors to suit."
+    a: "Yes. If your child's heading for a Science A-Level, we'll look for a tutor who teaches both levels. Many of our tutors studied, or are still studying, at top Russell Group universities, and lots are qualified teachers. And whoever your child's matched with will have tutored for two years or more. A tutor who knows Year 12 can tell your child which GCSE topics are worth over-learning now, and why. Mention which A-Levels are on your child's list when we talk, and we'll suggest tutors to suit."
   - q: "If my child gets the grade, will we still need a tutor in Year 12?"
     a: "Not necessarily. The aim is for your child to start Year 12 able to cope on their own. If A-Level turns out to be a bigger step than expected, you can come back to us then. There's no contract either way, so you can stop after the exams, or keep a lesson a week going into Year 12 while things settle. It's your call."
 

@@ -23,7 +23,7 @@ first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "A-Level"
 
 tutor_strip_heading: "Colchester A-Level tutors who start with your child's exam board"
-tutor_strip_body: "Knowing the subject isn't enough at A-Level, because boards set different papers and schools often pick different topics. We'll pin down your child's exact papers on the consultation call. Every tutor on our platform studied at a Russell Group university. Browse a few, or let us match your child."
+tutor_strip_body: "Knowing the subject isn't enough at A-Level, because boards set different papers and schools often pick different topics. We'll pin down your child's exact papers on the consultation call. Each tutor has at least two years of tutoring behind them. Browse a few, or let us match your child."
 
 pathways_heading: "What Comes After A-Levels in Colchester"
 pathways_lead: "Three routes, and what each one turns on."

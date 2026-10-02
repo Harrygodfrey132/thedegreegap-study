@@ -48,7 +48,7 @@ faqs:
   - q: "How picky are you about the tutors?"
     a: "Very: only around 3% of applicants make it onto the platform. There's a written stage, a subject knowledge test, a structured interview and reference checks. The interview filters hardest. It looks at whether someone can explain a method clearly to a child who's just got it wrong, and that's a different skill from being good at Maths. No tutor meets a family until Harry or Joe has spoken to them."
   - q: "How soon could my child start Maths lessons?"
-    a: "Usually within a week. It starts with a free 15-minute consultation call, then two or three tutor profiles within 24 hours, then a free 15-minute video meeting with whichever tutor you pick. The first paid lesson is usually booked for the week after. Most Colchester families we speak to are matched within 24 hours of that first call. Nothing's charged until a lesson actually happens."
+    a: "Usually within a week. It starts with a free consultation call, normally around 30 minutes, then two or three tutor profiles within 24 hours, then a free 15-minute video meeting with whichever tutor you pick. The first paid lesson is usually booked for the week after. Most Colchester families we speak to are matched within 24 hours of that first call. Nothing's charged until a lesson actually happens."
 # FAQ picks: G01, A12, A10, E01, C10
 
 reviews:

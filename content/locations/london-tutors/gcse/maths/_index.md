@@ -32,7 +32,7 @@ steps_heading: "What happens after you get in touch about GCSE Maths"
 steps_lead: "Lessons usually start within a week of your first call. And starting in the autumn leaves the most room before the November and March mocks."
 steps:
   - title: "Talk to us first"
-    body: "You'll speak to Harry or Joe, our co-founders, on a free call of about 15 minutes. We'll ask about your child's exam board, which papers they sit (foundation or higher) and the grade they're aiming for. If school has already flagged any topics, mention those too. Between them, London's schools use AQA, Edexcel and OCR, and each board asks its questions in its own way."
+    body: "You'll speak to Harry or Joe, our co-founders, on a free call that's usually about 30 minutes. We'll ask about your child's exam board, which papers they sit (foundation or higher) and the grade they're aiming for. If school has already flagged any topics, mention those too. Between them, London's schools use AQA, Edexcel and OCR, and each board asks its questions in its own way."
   - title: "Choose who your child meets"
     body: "Within 24 hours of the call you'll get two or three tutor profiles. We choose them for your child's board and for the part of the paper that's costing marks. So a child losing marks on the final problems gets a tutor who's good at exactly those. Then there's a free 15-minute video meeting before you book anything."
   - title: "Weekly lessons, replay included"

@@ -24,7 +24,7 @@ first_lesson_quote_role: "Student"
 first_lesson_quote_grade: "A-Level"
 
 tutor_strip_heading: "Stratford-upon-Avon A-Level tutors who've written top-band answers themselves"
-tutor_strip_body: "For the last few marks, it helps if the tutor has written at that level and can show your child the difference rather than describe it. Every tutor studied at a Russell Group university and was interviewed on how clearly they explain under pressure. Browse profiles, or ask us."
+tutor_strip_body: "For the last few marks, it helps if the tutor has written at that level and can show your child the difference rather than describe it. Every tutor was interviewed on how clearly they explain under pressure, and many studied at Russell Group universities. Browse profiles, or ask us."
 
 pathways_heading: "Beyond Year 13 in Stratford-upon-Avon and South Warwickshire"
 pathways_lead: "Three routes most south Warwickshire families look at, and the thing each one turns on."

@@ -22,7 +22,7 @@ first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Grade E to Grade C across three A-Levels"
 
 tutor_strip_heading: "London A-Level tutors who read answers the way examiners do"
-tutor_strip_body: "Every tutor's a Russell Group graduate, and some are qualified examiners. At A-Level, what lifts a decent answer into the top band is usually exam technique, and that's where they'll look first. Browse the profiles, or tell us about your child and we'll match them."
+tutor_strip_body: "Every tutor has at least two years' tutoring experience, and some are qualified examiners. At A-Level, what lifts a decent answer into the top band is usually exam technique, and that's where they'll look first. Browse the profiles, or tell us about your child and we'll match them."
 
 pathways_heading: "After London A-Levels: Where Your Child Could Go Next"
 pathways_lead: "Three routes worth knowing about early, because each one looks at the grades in its own way."

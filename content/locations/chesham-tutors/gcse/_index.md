@@ -60,7 +60,7 @@ faq_2_a: "Yes, and it can suit them really well. We'll ask about it on the call,
 faq_3_q: "Chesham has grammars and upper schools. Does that change what the tutor does?"
 faq_3_a: "Less than you'd think. Whichever school your child's at, they're sitting the same GCSEs, and marks tend to go missing in the same places: long answers that describe when they should explain, and questions left half finished. What shapes the plan is where your child is, ready to be stretched or needing a topic put right. That's what we'll ask about on the call, not which school's on the blazer."
 faq_4_q: "What does it cost, and how soon could lessons start?"
-faq_4_a: "From £37 an hour, and you'll know the exact rate before anything's booked. That includes the tutor's preparation and any marking, not just the hour itself. No joining fee or contract, and as an agency we keep a share of the rate for the matching and support. Most families start within a week: a free 15-minute call with Harry or Joe, two or three profiles within 24 hours, then a free meeting with the tutor you like best."
+faq_4_a: "From £37 an hour, and you'll know the exact rate before anything's booked. That includes the tutor's preparation and any marking, not just the hour itself. No joining fee or contract, and as an agency we keep a share of the rate for the matching and support. Most families start within a week: a free call with Harry or Joe that usually takes about 30 minutes, two or three profiles within 24 hours, then a free meeting with the tutor you like best."
 
 sitemap:
   priority: 0.7

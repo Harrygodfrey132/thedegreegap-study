@@ -59,7 +59,7 @@ faq_1_a: "Lessons start at £37 an hour. The rate depends on the tutor and the s
 faq_2_q: "Can a tutor help with sixth form interviews or entry tests in Leeds?"
 faq_2_a: "Yes. If a sixth form your child's applying to holds interviews or aptitude tests, the tutor can help them get ready: the content, and how to talk about their subjects and why they want them."
 faq_3_q: "Who are the tutors, and what qualifications do they have?"
-faq_3_a: "Every tutor is a graduate, many from Russell Group universities. We vet each one before they work with anyone, on what they know, how they explain it and how they get on with teenagers. A good degree on its own doesn't get anyone in."
+faq_3_a: "Some are graduates and some are still at university, many of them at or from Russell Group universities. All of them have tutored for at least two years. We vet each one before they work with anyone, on what they know, how they explain it and how they get on with teenagers. A good degree on its own doesn't get anyone in."
 faq_4_q: "When will we start to notice a change?"
 faq_4_a: "Often within the first few lessons, though not in the grade straight away. It shows first in how your child talks about the subject. Moving a grade usually takes a term or so of weekly lessons."
 why_heading: "Leeds tutoring that starts with the marks your child is missing"

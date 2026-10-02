@@ -18,7 +18,7 @@ first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Almost two grades above the Year 13 mock"
 tutor_strip_heading: "Leeds A-Level tutors who know the university and apprenticeship routes"
-tutor_strip_body: "Your child might have the University of Leeds in mind, or a PwC or KPMG apprenticeship in the city. The tutors are all Russell Group graduates, and Harry or Joe interviewed each one. Browse the profiles, or we'll pick for you."
+tutor_strip_body: "Your child might have the University of Leeds in mind, or a PwC or KPMG apprenticeship in the city. The tutors are graduates and undergraduates with at least two years' tutoring behind them, and Harry or Joe interviewed each one. Browse the profiles, or we'll pick for you."
 pathways_heading: "Leeds After A-Levels: University, Apprenticeship or Work"
 pathways_lead: "The three routes Leeds parents ask us about most."
 pathways:
