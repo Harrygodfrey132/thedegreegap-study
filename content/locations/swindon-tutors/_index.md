@@ -1,6 +1,6 @@
 ---
 title: "Swindon Tutors | GCSE & A-Level from £37/hr"
-description: "Swindon tutoring for GCSE and A-Level, one-to-one and online, finding the older gaps early, before sixth form grades count. From £37 an hour, no contract."
+description: "No 11+ in Swindon, so GCSEs are often the first exams that count. Our tutors find older gaps early, online and one-to-one. From £37 an hour, no contract."
 layout: single
 location: Swindon
 banner_heading: "Online Swindon tutors for the GCSE years, A-Level and beyond"
@@ -46,10 +46,10 @@ alevel_subjects:
   - "A-Level Economics Tuition|Market failure and macro policy, with evaluation that argues both ways, so Economics becomes a subject your child feels sure of.|/book-a-call/"
   - "A-Level Maths Tuition|Pure, statistics and mechanics kept under control week by week, so there's no mountain to climb in Year 13.|/book-a-call/"
   - "A-Level Psychology Tuition|Research methods and evaluation, a new way of writing for most children arriving from GCSE, practised until it's comfortable.|/book-a-call/"
-  - "A-Level Chemistry Tuition|Mechanisms and calculations understood properly the first time, so your child isn't relearning everything before each mock.|/book-a-call/"
+  - "A-Level Chemistry Tuition|Mechanisms and calculations built up carefully from the start, so your child isn't relearning everything before each mock.|/book-a-call/"
   - "A-Level Biology Tuition|Topics like inheritance and respiration given more time than a busy class can spare, with past papers built in.|/book-a-call/"
   - "A-Level History Tuition|The jump from GCSE History is steep, so essay planning and argument get extra time early in Year 12.|/book-a-call/"
-  - "A-Level English Tuition|What examiners reward at A-Level, made clear through close reading and essays marked against the assessment objectives.|/book-a-call/"
+  - "A-Level English Tuition|What examiners reward at A-Level, made clear through close reading and essays marked just as the exam board would.|/book-a-call/"
   - "A-Level Geography Tuition|Statistics in the data questions made less scary, and essay practice set at the level your child is at now.|/book-a-call/"
   - "A-Level Physics Tuition|For a child who follows the ideas but struggles to answer, plenty of worked exam questions on mechanics and fields.|/book-a-call/"
 other_subjects:
@@ -57,17 +57,17 @@ other_subjects:
 faq_1_q: "My child is behind in more than one subject. Where do we start?"
 faq_1_a: "Usually with the one worrying you most. On the free call we'll talk through the reports and what your child says about each subject, then suggest where a tutor would help first. Some families add a second subject later, once the first has settled."
 faq_2_q: "How soon could lessons start for my child?"
-faq_2_a: "Usually within a few days of the free call. Once your child has met the tutor you've chosen on a free video call, the first lesson can usually be booked straight away."
+faq_2_a: "Usually within a few days of the free call. Once your child has met the tutor you've chosen on a free video call, the first lesson can often be booked straight away."
 faq_3_q: "Can online lessons help a child who's behind?"
 faq_3_a: "It often works better than families expect. With nobody else watching, your child is more likely to admit what they don't get, and the tutor can watch their working line by line."
 faq_4_q: "How do you decide which tutors to suggest?"
-faq_4_a: "We listen first. Harry or Joe ask about your child's subjects, school and what sort of person gets the best out of them, then pick two or three tutors who fit. Their profiles arrive within 24 hours, and the choice is yours."
+faq_4_a: "We listen first. Harry or Joe asks about your child's subjects, school and what sort of person gets the best out of them, then picks two or three tutors who fit. Their profiles arrive within 24 hours, and the choice is yours."
 why_heading: "How a Swindon tutor finds the real gap"
-why_para_1: "New College Swindon is where a lot of the town's Year 11s hope to go next, so its entry requirements are often on a parent's mind when they call us. The first lesson usually shows something more hopeful than the reports. Your child can recall facts and define terms. What trips them up is using them on a question they haven't seen before. Underneath that, there's often one older gap, like the fractions work from Year 8, pulling answers down. Nothing on the report points to it. Your child just gets stuck at the same point and can't say why."
-why_para_2: "That break point is what the tutor hunts for first. They'll set a few short questions that walk backwards through a topic until the mistake appears, then reteach that step properly and check it again a week later. Only then does the lesson move on to this term's work. For a Year 11 with New College in mind, the order matters, because one old gap can cost marks in several subjects at once. Parents usually hear the difference before they see it. Your child starts explaining things to you, and 'I just don't get it' comes up less."
+why_para_1: "There's often good news in the first lesson. Your child can recall facts and define terms. What trips them up is using them on a question they haven't seen before. Underneath that sits one older gap, often the fractions work from Year 8, pulling answers down. Nothing on the report points to it. Your child just gets stuck at the same point and can't say why."
+why_para_2: "That gap is what the tutor hunts for first. They'll set a few short questions that walk backwards through a topic until the mistake appears, then go over that step again and check it a week later. Only then does the lesson move on to this term's work. For a Year 11 with New College in mind, the order matters, because one old gap can cost marks in several subjects at once. Parents usually hear the difference before they see it in a mark: 'I just don't get it' starts coming up less."
 accordion_quality: "Tutors only join the platform after an interview with Harry or Joe. They're checked on how they explain things and how they get on with teenagers, not just on what they know. With a Swindon child who's filling gaps, that shows in small ways, like going back to basics without a hint of 'you should know this by now'."
 accordion_experience: "Most of our tutors have at least a couple of years of one-to-one tutoring behind them, and plenty have worked with children who were a year or more behind. They know a child who's been stuck for a while needs some early wins, and they plan the first few lessons to get them."
-accordion_personalised: "There's no topic list to work through. The tutor starts by finding what's missing, and for a Swindon child with one old gap dragging everything down, finding it is most of the job. Once it's fixed, the plan moves on to exam practice."
+accordion_personalised: "No topic list on day one. The tutor starts by finding what's missing, and for a Swindon child with something from Year 8 dragging everything down, finding it is most of the job. Once it's fixed, the plan moves on to exam practice."
 reviews:
   - Ellen|Parent of GCSE Student|My daughter was struggling with confidence in
     Maths GCSE and we decided to get a tutor. We were given a selection of

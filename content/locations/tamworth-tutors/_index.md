@@ -1,6 +1,6 @@
 ---
 title: "Tamworth GCSE & A-Level Tutors | Online | The Degree Gap"
-description: "Online Tamworth tutoring for GCSE and A-Level. Start in Year 10 and a wobbly subject is still a small job. A free call with a co-founder first, then from £37."
+description: "Is Year 10 too early for a Tamworth tutor? Usually not: a wobbly subject is still a small job then. Online GCSE and A-Level tutoring, from £37 an hour."
 layout: "single"
 location: "Tamworth"
 banner_heading: "Is Year 10 Too Early for a Tutor? Online Tamworth Tutoring for GCSE and A-Level"
@@ -10,10 +10,10 @@ intro_1: "Lots of parents feel a bit daft getting in touch in Year 10. Nothing h
 intro_2: "So our first question is a simple one: which subjects would your child like to keep going with after Year 11? Then we look at what those courses are asking for this year. You'll talk it through on a free call with Harry or Joe, the two of us who started The Degree Gap. We'll want to hear about your child as much as their grades. You'll have two or three tutor profiles to look at within 24 hours. Your child can then say hello to your favourite over a free video meeting before anything's booked. After that, lessons are weekly, from £37 an hour, with no contract to sign."
 about_heading: "Online Tutors Covering Tamworth"
 about_image: "/images/students-in-classroom-taking-notes.jpg"
-schools_intro: "We help families with children at Landau Forte Academy QEMS, The Rawlett School and The Wilnecote School. Older students come to us from Landau Forte Academy Tamworth Sixth Form and South Staffordshire College too. More than 15 secondary schools around the UK already work with us directly, and Harry and Joe run revision workshops in some of them."
+schools_intro: "We help families with children at Landau Forte Academy QEMS, The Rawlett School and The Wilnecote School. Older ones come to us from Landau Forte Academy Tamworth Sixth Form and South Staffordshire College too. More than 15 secondary schools around the UK already work with us directly. And during the school day, Harry and Joe are often in classrooms running revision workshops."
 schools: ["Landau Forte Academy QEMS", "The Rawlett School", "The Wilnecote School", "Landau Forte Academy Tamworth Sixth Form", "South Staffordshire College"]
 schools_image: "/images/students-listening-in-classroom.jpg"
-online_heading: "Online tuition that fits around a Tamworth school week"
+online_heading: "Online tuition for Tamworth families, with no lifts to arrange"
 online_1: "Because lessons are online, we're not limited to whoever lives within driving distance of Tamworth. If your child needs someone who knows OCR A-Level Chemistry or the AQA English Literature texts inside out, we can look right across the UK. The lessons happen on Lessonspace, a shared online whiteboard. Your child can put up a homework question or part of a mock, and the two of them work through it together."
 online_2: "There's no car involved either, so a weekly lesson fits into a school night without taking over the evening. It's also easier to keep the same tutor right through Year 10 and 11 when nobody's relying on a lift. And every lesson is saved, so your child can replay a tricky explanation the week before a mock, which plenty of them do."
 online_image: "/images/child-using-online-learning-laptop.jpg"
@@ -27,9 +27,9 @@ gcse_subjects: [
   "GCSE Chemistry Tuition|Equations balanced slowly, with every line of working shown until your child trusts the method.|/book-a-call/",
   "GCSE Physics Tuition|Circuits, waves and forces, with each calculation talked through until your child can explain it back.|/book-a-call/",
   "GCSE History Tuition|Source questions and essays with a clear argument, practised with your child's exam board in mind.|/book-a-call/",
-  "GCSE Geography Tuition|Case studies revised in small chunks through the year, so there's no mountain to climb in May.|/book-a-call/",
+  "GCSE Geography Tuition|Case studies revised in small chunks through the year, so nothing's left to cram in May.|/book-a-call/",
   "GCSE French Tuition|Vocabulary learnt a few words at a time from Year 10, instead of hundreds crammed in the spring.|/book-a-call/",
-  "GCSE Computer Science Tuition|Programming practice and the theory papers side by side, so your child isn't strong at one and lost in the other.|/book-a-call/",
+  "GCSE Computer Science Tuition|Programming practice alongside the theory, so your child isn't strong at one and lost in the other.|/book-a-call/",
 ]
 alevel_subjects: [
   "A-Level Maths Tuition|Help with the jump from GCSE, starting with algebra and working through to mechanics and statistics.|/book-a-call/",
@@ -55,9 +55,9 @@ faq_4_q: "How many lessons a week does my child need?"
 faq_4_a: "For most children, one a week is plenty. An hour with the same tutor every week, kept up across a few terms, does more than a burst of lessons just before the exams. If Year 11 gets busy, you can ask the tutor about adding a lesson for a while, but it's never expected. After the first couple of lessons, the tutor will tell you what they think, and you can change things whenever you like."
 why_heading: "What an early start with a Tamworth tutor looks like"
 why_para_1: "When a tutor meets a Year 10 for the first time, the trouble is rarely this term's topic. More often it's something from a couple of years back, like negative numbers or rearranging, that never quite settled. Schools aren't missing it through lack of care. A teacher with thirty in the room has to keep the class moving, and there's no spare hour to rebuild one child's algebra. One-to-one, there is."
-why_para_2: "The first few weeks go on filling that gap while school carries on as normal. It can feel slow. It isn't really, because everything built on top gets easier. By the time Year 11 arrives, the tutor can spend lessons on past papers and exam technique rather than patching up old topics."
+why_para_2: "The first few weeks go on filling that gap while school carries on as normal. Your child may grumble that it's Year 8 stuff. That's fine, because everything built on top of it gets easier. By the time Year 11 arrives, the tutor can spend lessons on past papers and exam technique rather than patching up old topics."
 accordion_quality: "Every tutor on our platform is a graduate of a top Russell Group university, and Harry and Joe interview each one personally. We look for patience as much as subject knowledge, because a Year 10 who's lost faith in a subject needs someone calm."
-accordion_experience: "Two or more years of tutoring one-to-one is typical for the tutors we'd put forward, across AQA, Edexcel and OCR. They've worked with Year 10s who were only starting to wobble and with Year 13s a few weeks from their final papers."
+accordion_experience: "They've worked with Year 10s who were only starting to wobble and with Year 13s a few weeks from their final papers. For most, that comes from two years or more of one-to-one tutoring, on AQA, Edexcel and OCR."
 accordion_personalised: "Nothing comes pre-packaged, and the plan starts from your child's own work. In Year 10 the tutor can afford to go back a long way, while in Year 11 the plan tightens around the topics carrying the most marks."
 
 reviews:

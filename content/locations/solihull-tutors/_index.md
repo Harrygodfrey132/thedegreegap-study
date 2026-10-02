@@ -21,8 +21,8 @@ map_url: "https://maps.google.com/maps?q=Solihull,UK&output=embed"
 areas_intro: "Families in Solihull have lessons from home, whether they live in the town centre or on the edge of the borough, and so do the families we help in Coventry, Warwick and the other towns below."
 area_links: ["Birmingham Tutors|/locations/birmingham-tutors/", "Coventry Tutors|/locations/coventry-tutors/", "Royal Leamington Spa Tutors|/locations/royal-leamington-spa-tutors/", "Warwick Tutors|/locations/warwick-tutors/", "Stratford-upon-Avon Tutors|/locations/stratford-upon-avon-tutors/", "Wolverhampton Tutors|/locations/wolverhampton-tutors/"]
 gcse_subjects: [
-  "GCSE English Tuition|Poems, novels and plays turned into quotes your child can actually use, with a steady essay shape for Literature.|/book-a-call/",
-  "GCSE Maths Tuition|Algebra rebuilt from the ground up where needed, so the harder questions stop feeling out of reach, whichever tier your child sits.|/book-a-call/",
+  "GCSE English Tuition|Quotes from the poems, novels and plays your child can actually use, and a steady way into the Language questions too.|/book-a-call/",
+  "GCSE Maths Tuition|Algebra rebuilt from the ground up where needed, so the harder questions stop feeling out of reach, at Foundation or Higher.|/book-a-call/",
   "GCSE Biology Tuition|Cells, genetics and ecology revised in small chunks, plus practice reading the graphs and tables that turn up in Biology papers.|/book-a-call/",
   "GCSE History Tuition|Help keeping events in the right order, then turning them into arguments with evidence behind every point.|/book-a-call/",
   "GCSE Chemistry Tuition|Formulas, moles and the calculation questions, broken down until your child can do them without a worked example.|/book-a-call/",
@@ -34,7 +34,7 @@ gcse_subjects: [
 alevel_subjects: [
   "A-Level Chemistry Tuition|Equilibria, organic reactions and the maths behind moles, taught at a pace that suits your child rather than the class.|/book-a-call/",
   "A-Level Maths Tuition|Calculus, trigonometry and statistics, with worked examples first, then questions your child tries alone while the tutor watches.|/book-a-call/",
-  "A-Level Biology Tuition|The long essay that pulls topics together, and the data questions, practised until your child can tackle both calmly.|/book-a-call/",
+  "A-Level Biology Tuition|Genetics, ecology and the tricky data questions, with practice at answers that draw on more than one topic.|/book-a-call/",
   "A-Level Physics Tuition|Waves, particles and electricity, plus extra support with the calculations for a child who isn't taking A-Level Maths.|/book-a-call/",
   "A-Level Economics Tuition|Micro and macro explained through everyday examples, and essays that reach a proper judgement at the end.|/book-a-call/",
   "A-Level Psychology Tuition|Studies and their weaknesses learnt in a way that sticks, so evaluation paragraphs come more easily in the exam.|/book-a-call/",
@@ -50,7 +50,7 @@ faq_1_a: "Yes. Tell us on the call what helps at school and what doesn't, and we
 faq_2_q: "Do lessons have to stop for the summer holidays?"
 faq_2_a: "Not unless you want them to. Plenty of Solihull families keep the weekly lesson going over the summer so nothing's forgotten by September. Others pause until the new term. There's no contract, so it's your call."
 faq_3_q: "Do you help primary school children too?"
-faq_3_a: "Mostly we help with the 11+, GCSEs and A-Levels, and the 11+ side usually means Year 5s preparing for the Birmingham test. For younger children, we help with Maths and English where there's a clear need."
+faq_3_a: "Yes, though most of our work is the 11+, GCSEs and A-Levels. In Solihull the 11+ usually means a Year 5 preparing for the Birmingham test. Beyond that, we help primary-age children with Maths and English where there's a clear need."
 faq_4_q: "Could a tutor come to our house?"
 faq_4_a: "No, every lesson is online, and that's deliberate. It lets us suggest the best tutor for your child from anywhere in the UK, not just whoever lives near Solihull. Most children get used to it quickly, and each lesson is recorded to look back on."
 why_heading: "Why Solihull parents choose our tutoring, 11+ or not"

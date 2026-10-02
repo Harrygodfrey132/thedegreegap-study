@@ -1,6 +1,6 @@
 ---
 title: "Stratford-upon-Avon Tutors | GCSE & A-Level | The Degree Gap"
-description: "Stratford-upon-Avon tutors for GCSE and A-Level, online at home so there's no extra trip after the school bus. Free call first, then lessons from £37 an hour."
+description: "No extra trip after the school bus: Stratford-upon-Avon tutoring for GCSE and A-Level happens online, at home. A free call first, then lessons from £37 an hour."
 layout: "single"
 location: "Stratford-upon-Avon"
 banner_heading: "Stratford-upon-Avon Tutors for GCSE and A-Level, Online From Home After a Long School Day"
@@ -18,10 +18,10 @@ online_1: "A lesson in town at six o'clock can mean a second trip in for whoever
 online_2: "Lessonspace, the platform we use, is a bit like a shared notebook on screen, so each step of the working is visible as it goes down. Every lesson is saved as a replay for revision later. Most children feel at home with it within a lesson or so. And because nobody's driving, we can choose from tutors all over the UK, not just the handful within reach of Stratford."
 online_image: "/images/student-studying-at-night-with-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Stratford-upon-Avon,UK&output=embed"
-areas_intro: "Stratford itself or one of the villages around it, it makes no difference to an online lesson. We help families in these towns too."
+areas_intro: "From Wellesbourne to Shipston, an online lesson works just as it does in town. We help families in these towns too."
 area_links: ["Warwick Tutors|/locations/warwick-tutors/", "Royal Leamington Spa Tutors|/locations/royal-leamington-spa-tutors/", "Coventry Tutors|/locations/coventry-tutors/", "Worcester Tutors|/locations/worcester-tutors/", "Birmingham Tutors|/locations/birmingham-tutors/", "Oxford Tutors|/locations/oxford-tutors/"]
 gcse_subjects: [
-  "GCSE Maths Tuition|One topic done properly each week, with the worked examples on the replay for when homework gets tricky.|/book-a-call/",
+  "GCSE Maths Tuition|One topic a week, taken slowly, with the worked examples on the replay for when homework gets tricky.|/book-a-call/",
   "GCSE Chemistry Tuition|Calculations and equations practised in short, clear steps that still make sense at the end of a long day.|/book-a-call/",
   "GCSE English Tuition|The Shakespeare play and the poetry anthology broken into weekly pieces your child can keep on top of.|/book-a-call/",
   "GCSE Biology Tuition|A big course split into small weekly sections, each one tested with quick questions at the start of the next lesson.|/book-a-call/",
@@ -46,7 +46,7 @@ other_subjects: [
   "University Personal Statement|A UCAS personal statement planned around what your child enjoys most about the subject, then polished over a few sessions.|/book-a-call/",
 ]
 faq_1_q: "We live in a village. Does that matter?"
-faq_1_a: "Not at all. Lessons are all online, so it's exactly the same whether you're in Stratford itself, a village a few miles out or anywhere else in Warwickshire. Nobody has to drive, and nobody has to sit in a car park in town while the lesson happens."
+faq_1_a: "Not at all. Lessons are all online, so it's exactly the same in Stratford itself, a village a few miles out or anywhere else in Warwickshire. Nobody has to drive, and nobody has to sit in a car park in town while the lesson happens."
 faq_2_q: "Can you help my child prepare for the Warwickshire 11+?"
 faq_2_a: "Yes. On the call we'll ask about the schools you're looking at, such as King Edward VI or Stratford Girls' Grammar, then suggest tutors who know the Warwickshire 11+ well. Tutors on our platform also prepare children for Common Entrance and sixth form entry."
 faq_3_q: "Won't an evening lesson be too tiring?"
@@ -54,10 +54,10 @@ faq_3_a: "It's a fair worry, and it's usually less tiring than parents expect. T
 faq_4_q: "How much will it cost us?"
 faq_4_a: "Lessons start at £37 an hour, and the exact price depends on the tutor. You'll know it before anything is booked. There's no contract or upfront fee, and both the first call and the video meeting are free."
 why_heading: "Why a Stratford tutor starts with how your child revises"
-why_para_1: "By Year 10 there's far more to remember than anyone can re-read the night before a test, and that's usually where a tired Stratford child comes unstuck. Ask how they revise and you'll often hear the same answer. Notes copied out neatly. Pages re-read three times. Late nights after a long day, with not much to show for them in the next test. It isn't a lack of effort or ability. They just haven't found a way to revise that fits a tired evening and is still in their head a week later."
-why_para_2: "Alongside the subject itself, the tutor teaches your child how to revise it: testing themselves in short bursts and doing past questions instead of highlighting. Each lesson starts by checking what stuck from last week. The replay helps too, because a few minutes of it is easier to face at nine o'clock than a chapter of notes. The first thing parents usually mention is earlier nights."
+why_para_1: "Year 10 brings far more to remember than anyone can re-read the night before a test, and that's usually where a tired Stratford child comes unstuck. Ask how they revise and you'll often hear the same answer. Notes copied out neatly. Pages re-read three times. Late nights after a long day, with not much to show for them in the next test. It isn't a lack of effort or ability. They just haven't found a way to revise that fits a tired evening and is still in their head a week later."
+why_para_2: "Alongside the subject itself, the tutor teaches your child how to revise it: testing themselves in short bursts and doing past questions instead of highlighting. Each lesson starts by checking what stuck from last week. The replay helps too, because a few minutes of it is easier to face at nine o'clock than a chapter of notes."
 accordion_quality: "We turn down most of the tutors who apply. Only about 3% get through, each after a personal interview with Harry or Joe. As well as knowing their subject, they need to be good at teaching a child who's already had a long day, which takes patience and a clear head."
-accordion_experience: "Many of our tutors are qualified teachers, and most have a couple of years or more of one-to-one tutoring under their belt. They know the GCSE and A-Level papers set by AQA, Edexcel, OCR and WJEC, and how to cover a lot in an hour without rushing your child."
+accordion_experience: "They're all graduates, and many are qualified teachers. Most have a couple of years or more of one-to-one tutoring under their belt. They know the GCSE and A-Level papers set by AQA, Edexcel, OCR and WJEC, and how to cover a lot in an hour without rushing your child."
 accordion_personalised: "Some weeks the lesson is mostly revision method, some weeks it's a topic that won't go in, and before exams it's mostly past papers. The tutor keeps an eye on how tired your child is, too, and puts the hardest thing first while there's still energy for it."
 reviews: [
   "Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional. Both my sons exceeded their expected grades in their GCSEs and A Levels and got into their first choice universities. I cannot recommend them highly enough.",

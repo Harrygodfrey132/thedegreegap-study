@@ -1,12 +1,12 @@
 ---
 title: "St Albans Tutors | GCSE & A-Level from £37/hr"
-description: "Good school, one subject slipping? St Albans tutors for GCSE and A-Level, online and one-to-one. Talk to our founders first, then pick your tutor. From £37."
+description: "Good school, but one subject slipping? Our St Albans tutors teach GCSE and A-Level online, one-to-one. Talk to Harry or Joe first, then pick a tutor. From £37."
 layout: single
 location: St Albans
 banner_heading: "A Good School, One Stubborn Subject: Online St Albans Tutors for GCSE and A-Level"
 banner_description: "Even a good school teaches a whole class at once, and it can't stop for the one topic your child missed. A tutor can."
 content_angle: "a good school, one stubborn subject: families who moved for the catchment or sat the entry tests, and the topic a busy class moved past"
-intro_1: "You may have moved house for the Sandringham or Verulam catchment, or seen your child through the entry tests for St Albans School or St Albans High School for Girls. So when a subject starts slipping, it can feel as though something has gone badly wrong. Usually it hasn't. GCSE results across Hertfordshire sit well above the national average, which can make an ordinary wobble look bigger than it is, especially when you're back from the City late and the homework is already done, or quietly not done."
+intro_1: "You may have moved house for the Sandringham or Verulam catchment, or seen your child through the entry tests for St Albans School or St Albans High School for Girls. So when a subject starts slipping, it can feel as though something has gone badly wrong. Usually it hasn't. GCSE results across Hertfordshire sit well above the national average, which can make an ordinary wobble look bigger than it is. Especially if you're back from the City late, and the homework is already done, or quietly not done."
 intro_2: "What a tutor adds is time. A teacher with a full room has to keep the lesson moving, and a child who half-understood simultaneous equations in Year 9 learns to nod along. One-to-one, there's nobody to nod along for. The tutor spots the gap, goes back to it and stays there until it holds, then links it to what's on the syllabus now. It can feel slow for a week or two. Then the next topic has something solid to sit on."
 about_heading: Trusted Tutors for St Albans Students
 about_image: /images/classical-library-books-and-busts.jpg
@@ -20,8 +20,8 @@ schools:
   - Loreto College
 schools_image: /images/school-clock-tower-building.jpg
 online_heading: "Online tutoring that works around a St Albans commute and a busy evening"
-online_1: "Everything happens on Lessonspace, an online classroom built around one shared whiteboard. Your child writes, the tutor writes, and both see every step as it goes down. Since the tutor needn't live within driving distance of St Albans, we can search nationally, for an experienced A-Level English Literature tutor, a Russell Group graduate for Further Maths, or someone who went through Oxbridge admissions not long ago."
-online_2: "Nobody has to leave work early to get your child to a lesson, either. A 7pm session fits neatly between swimming and tea. Lessons are saved as well, so if your child forgets how a method worked, they can find the five minutes where it was explained and play that stretch again, the night before a test if need be."
+online_1: "Everything happens on Lessonspace, an online classroom built around one shared whiteboard. Your child writes, the tutor writes, and both see every step as it goes down. The tutor doesn't have to live within driving distance of St Albans, so we can search the whole country. That might mean an experienced A-Level English Literature tutor, a Russell Group graduate for Further Maths, or someone who went through Oxbridge admissions not long ago."
+online_2: "Nobody has to leave work early to get your child to a lesson, either. A 7pm session fits neatly between swimming and tea. Lessons are saved as well. If your child forgets how a method worked, they can find the five minutes where it was explained and play it again, even the night before a test."
 online_image: /images/student-studying-at-night-with-laptop.jpg
 map_url: https://maps.google.com/maps?q=St+Albans,UK&output=embed
 areas_intro: "Lessons run the same way from the city centre out to the surrounding villages, and a few more of the towns we help are listed underneath."
@@ -36,8 +36,8 @@ gcse_subjects:
   - "GCSE Maths Tuition|The topic the class moved on from before it made sense, often algebra or percentages, picked up again and put right.|/book-a-call/"
   - "GCSE Chemistry Tuition|Chemical bonding and moles explained a second or third time if needed, with no class waiting for your child to catch up.|/book-a-call/"
   - "GCSE English Tuition|Essays with a clear line of argument, and quotations chosen because they're useful to your child, not because they're long.|/book-a-call/"
-  - "GCSE Biology Tuition|Time to ask the questions there's never room for in a full lesson, on the required practicals and six-mark answers.|/book-a-call/"
-  - "GCSE Physics Tuition|Equations your child can rearrange without the formula sheet, and wordy questions that turn out to hide a simple calculation.|/book-a-call/"
+  - "GCSE Biology Tuition|Time to ask the questions there's rarely room for in a full lesson, about the practicals and the six-mark answers.|/book-a-call/"
+  - "GCSE Physics Tuition|Equations your child can rearrange with confidence, and wordy questions that turn out to hide a simple calculation.|/book-a-call/"
   - "GCSE Computer Science Tuition|Algorithms and the theory paper explained in plain English, then tested with past questions until your child trusts their answers.|/book-a-call/"
   - "GCSE History Tuition|Source and interpretation questions made less mysterious, with a timed paragraph marked and talked through each week.|/book-a-call/"
   - "GCSE French Tuition|Grammar that stays put, and speaking practice with one friendly listener instead of a whole class looking on.|/book-a-call/"
@@ -63,9 +63,9 @@ faq_3_a: "Yes. Whether your child is sitting the 11+ or Common Entrance, or appl
 faq_4_q: "Can we keep lessons going through the school holidays?"
 faq_4_a: "Yes, if it helps. Some families use the holidays to catch up and others to get ahead before mocks, while some take a break. With no contract, you decide week by week."
 why_heading: "What St Albans tutoring adds when the school is already good"
-why_para_1: "Plenty of St Albans parents tell us they've tried helping at the kitchen table, and it hasn't gone well. The Maths looks different from the way you learnt it, the English essay wants something called 'AO2', and a well-meant explanation turns into an argument. That's nobody's fault. Methods have moved on since most of us were at school, and a child who's already anxious about a subject doesn't want a second way of doing it. What they need is someone who knows exactly how their board marks it."
-why_para_2: "That's where a tutor comes in. They teach to your child's exam board, using the same methods as the class wherever they can, and mark practice answers the way the board does, so your child hears one clear explanation instead of two. The first lesson usually starts from a recent test, to see where the marks leaked. After that it's a mix of the missed topic and fresh exam questions. And you get to be a parent again at nine o'clock, rather than a stand-in Maths teacher."
-accordion_quality: "Only about 3 in every 100 people who apply get through, and every one of them has been interviewed by Harry or Joe. The test we care about most is whether they can explain something clearly to a child who's already tried to understand it twice."
+why_para_1: "Helping at the kitchen table sounds simple. Plenty of St Albans parents have tried it, and it hasn't gone well. The Maths looks different from the way you learnt it, the English essay wants something called 'AO2', and a well-meant explanation turns into an argument. That's nobody's fault. Methods have moved on since most of us were at school, and a child who's already anxious about a subject doesn't want a second way of doing it. What they need is someone who knows exactly how their board marks it."
+why_para_2: "A tutor can be that person. They use the same methods as the class wherever they can, so your child hears one clear explanation instead of two. Every practice answer is marked just as your child's exam board would mark it. The first lesson usually starts from a recent test, to see where the marks leaked. After that it's a mix of the missed topic and fresh exam questions. And you get to be a parent again at nine o'clock, rather than a stand-in Maths teacher."
+accordion_quality: "All our tutors are graduates, but that's only the start. Around 3% of applicants get through, and every one of them has been interviewed by Harry or Joe. The test we care about most is whether they can explain something clearly to a child who's already tried to understand it twice."
 accordion_experience: "Two years or more of one-to-one lessons is typical for the tutors we'd suggest, across AQA, Edexcel and OCR. Some know the 11+ and Common Entrance well, and others have helped with Russell Group and Oxbridge applications."
 accordion_personalised: "The plan comes out of the first marked paper, not a textbook. Some weeks that means going back over Year 9 algebra, others it means harder questions than school sets. What your child needs decides which."
 reviews:
