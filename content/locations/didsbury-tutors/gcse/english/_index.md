@@ -24,7 +24,7 @@ angle_body_2: "Everything starts from the books your child's actually studying a
 angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"
 angle_image_alt: "Highlighted printed notes, two highlighter pens and a pad of lined paper spread over a map on a desk"
 angle_stat_from: "5"
-angle_stat_to: "7"
+angle_stat_to: "6/7"
 angle_stat_detail: "From one parent's review below: their Year 10 son went from a grade 5 to a 6/7 in English after six months with his tutor."
 
 schools:

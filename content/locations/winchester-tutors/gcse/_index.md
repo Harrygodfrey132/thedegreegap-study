@@ -10,7 +10,7 @@ hero_heading_line2: ""
 hero_lead: "Sooner or later most Winchester parents end up reading the same college's course list, where each course spells out the grade it wants. Our Winchester GCSE tutors start from that number and work back to the questions your child is losing marks on."
 
 grade_from: "5"
-grade_to: "7"
+grade_to: "6/7"
 grade_stat: "Omo's son went from a 5 to a 6/7 in GCSE English, six months after starting lessons."
 
 first_lesson_eyebrow: "INSIDE A WINCHESTER YEAR 10 SESSION"

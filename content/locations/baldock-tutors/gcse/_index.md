@@ -8,7 +8,7 @@ hero_heading_line1: "Online Baldock GCSE Tutors for When the Predicted Grade Doe
 hero_heading_line2: ""
 hero_lead: "Every report says 'working hard', and then a mock comes back lower than anyone expected. Our Baldock GCSE tutors find the Year 8 or 9 topic that's quietly holding things up, and rebuild it before the mocks that shape the predicted grade."
 grade_from: "5"
-grade_to: "7"
+grade_to: "6/7"
 grade_stat: "Six months of one-to-one English lessons took Omo's son from a grade 5 to a 6/7."
 first_lesson_eyebrow: "FROM A 5 TO A 6/7 IN ENGLISH"
 first_lesson_heading: "What a Baldock GCSE Tutor Looks for in a Marked Mock"

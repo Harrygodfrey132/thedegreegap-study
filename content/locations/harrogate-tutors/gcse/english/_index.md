@@ -17,7 +17,7 @@ angle_body_2: "Another night with the flashcards won't shift those. What shifts 
 angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"
 angle_image_alt: "A hand writing notes on lined paper, with highlighted printed pages and highlighters nearby"
 angle_stat_from: "5"
-angle_stat_to: "7"
+angle_stat_to: "6/7"
 angle_stat_detail: "One parent's review on this page describes a grade 5 becoming a 6/7 in English over six months. That's the kind of step weekly lessons aim for."
 
 schools:

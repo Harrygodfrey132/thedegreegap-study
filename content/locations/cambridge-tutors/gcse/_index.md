@@ -10,7 +10,7 @@ hero_heading_line2: ""
 hero_lead: "Some Cambridge parents are hoping for a steady pass in English and Maths. Others have a child whose mock came back one grade short of what a sixth form subject asks for. Either way, our Cambridge GCSE tutors start from where your child is today, on their own exam board."
 
 grade_from: "5"
-grade_to: "7"
+grade_to: "6/7"
 grade_stat: "Omo's son, in Year 10, went from a grade 5 to a 6/7 in English over six months of tutoring."
 
 first_lesson_eyebrow: "INSIDE A CAMBRIDGE YEAR 10 SESSION"

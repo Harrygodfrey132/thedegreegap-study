@@ -10,7 +10,7 @@ hero_heading_line2: ""
 hero_lead: "By the time you're back from Euston, the homework's half-done and half-avoided, and it's too late in the evening to start untangling it. Our Watford GCSE tutors take a quiet hour one evening a week and find the gap your child's class moved past too quickly."
 
 grade_from: "5"
-grade_to: "7"
+grade_to: "6/7"
 grade_stat: "Omo's Year 10 son had gone off English completely. Six months on, he'd moved from a 5 to a 6/7."
 
 first_lesson_eyebrow: "WHEN ENGLISH STARTED TO CLICK"

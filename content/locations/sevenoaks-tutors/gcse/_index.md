@@ -10,7 +10,7 @@ hero_heading_line2: ""
 hero_lead: "One subject has started slipping, and your child can't say why. Usually it goes back to a Year 8 or 9 topic the class had to move on from before it properly sank in. Our Sevenoaks GCSE tutors find that gap in the first lesson and build forward with your child."
 
 grade_from: "5"
-grade_to: "7"
+grade_to: "6/7"
 grade_stat: "In Year 10, English had lost Omo's son completely. Six months on he's at a 6/7, up from a 5, and actually looks forward to his lessons."
 
 first_lesson_eyebrow: "A SEVENOAKS YEAR 10 THAT CLICKED"
@@ -19,7 +19,7 @@ first_lesson_context: "Often the first sign is a Year 10 test that comes home lo
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him."
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
-first_lesson_quote_grade: "Grade 5 to Grade 7 in GCSE English"
+first_lesson_quote_grade: "Grade 5 to Grade 6/7 in GCSE English"
 
 tutor_strip_heading: "Sevenoaks GCSE tutors who know West Kent's selective pace"
 tutor_strip_body: "The Kent Test and the grammars shape a lot round here. For a GCSE tutor, though, the thing to get right is your child's exam board, at Weald of Kent, Tonbridge Grammar, Knole or Trinity alike. We'll check it on the call, or you can browse the profiles."

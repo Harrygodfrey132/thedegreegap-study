@@ -10,7 +10,7 @@ hero_heading_line2: ""
 hero_lead: "When a GCSE grade starts to slip, it's usually one topic the class moved past before it clicked, and your child's worked round it since. Across Kent the pace rarely lets up after the Kent Test. Our Tunbridge Wells GCSE tutors find that topic and rebuild it, one-to-one."
 
 grade_from: "5"
-grade_to: "7"
+grade_to: "6/7"
 grade_stat: "Omo's son went from a 5 to a 6/7 in GCSE English in six months, and now looks forward to his lessons."
 
 first_lesson_eyebrow: "ONE TUNBRIDGE WELLS TURNAROUND"

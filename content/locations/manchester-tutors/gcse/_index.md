@@ -10,7 +10,7 @@ hero_heading_line2: ""
 hero_lead: "The predicted grade in one subject has slipped from a 6 to a 5, and your child's gone a bit quiet about it. Our Manchester GCSE tutors spend an hour a week with them after tea, finding the topic behind it. It's often been costing marks for a while."
 
 grade_from: "5"
-grade_to: "7"
+grade_to: "6/7"
 grade_stat: "A 5 in English became a 6/7 after six months of tutoring, says Omo, whose son was in Year 10."
 
 first_lesson_eyebrow: "A GRADE 5 THAT DIDN'T STAY PUT"

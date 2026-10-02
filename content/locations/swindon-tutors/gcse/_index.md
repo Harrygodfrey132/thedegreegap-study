@@ -10,7 +10,7 @@ hero_heading_line2: ""
 hero_lead: "More hours at the desk is what most families try first, and it's hard to watch when the grade stays put. Our Swindon GCSE tutors find the few question types really costing your child marks, and spend the lessons on those."
 
 grade_from: "5"
-grade_to: "7"
+grade_to: "6/7"
 grade_stat: "Omo's son, in Year 10, went from a grade 5 to a 6/7 in English after six months of one-to-one tutoring."
 
 first_lesson_eyebrow: "A 5 TO A 6/7 IN SIX MONTHS"

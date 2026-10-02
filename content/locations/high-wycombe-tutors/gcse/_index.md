@@ -10,7 +10,7 @@ hero_heading_line2: ""
 hero_lead: "By Year 11, you might be watching the gap between your child's predicted grade and what their sixth form wants, and wondering if it'll close in time. Our High Wycombe GCSE tutors start from wherever your child is today and work one-to-one on the marks in between."
 
 grade_from: "5"
-grade_to: "7"
+grade_to: "6/7"
 grade_stat: "Omo's son went from a grade 5 in GCSE English to a 6/7 in six months, and now looks forward to his lessons."
 
 first_lesson_eyebrow: "A YEAR 10 ENGLISH STORY"

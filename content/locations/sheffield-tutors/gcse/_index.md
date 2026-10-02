@@ -8,7 +8,7 @@ hero_heading_line1: "Online Sheffield GCSE Tutors Who Find Where Your Child's Gr
 hero_heading_line2: ""
 hero_lead: "Your child was doing fine in Year 9. Now it's Year 10, one grade's wobbling, and nobody can quite say why. Our Sheffield GCSE tutors trace it back to the topic that first gave way and rebuild from there, well before the mocks."
 grade_from: "5"
-grade_to: "7"
+grade_to: "6/7"
 grade_stat: "Omo's son had completely switched off from English. Six months later, he'd gone from a 5 to a 6/7."
 first_lesson_eyebrow: "A GRADE MOVING AGAIN"
 first_lesson_heading: "How a Sheffield GCSE Tutor Works Out Why a Grade Slipped"

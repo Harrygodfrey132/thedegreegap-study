@@ -23,7 +23,7 @@ angle_body_2: "In the first lesson the tutor reads something your child's alread
 angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"
 angle_image_alt: "A hand writing on hole-punched lined paper, with yellow highlighting on the printed notes beside it"
 angle_stat_from: "5"
-angle_stat_to: "7"
+angle_stat_to: "6/7"
 angle_stat_detail: "The jump one parent describes in our reviews: a Year 10 son going from a grade 5 to a 6/7 in English after six months of tutoring."
 
 schools:

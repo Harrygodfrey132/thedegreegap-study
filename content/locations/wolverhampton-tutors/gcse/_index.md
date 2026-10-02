@@ -10,7 +10,7 @@ hero_heading_line2: ""
 hero_lead: "Your child knows what they want to do after Year 11, and right now the predicted grade falls a bit short of it. Our Wolverhampton GCSE tutors work on the missing topics and the exam technique that'll get them there."
 
 grade_from: "5"
-grade_to: "7"
+grade_to: "6/7"
 grade_stat: "A 5 to a 6/7 in English in six months, for a Year 10 boy who'd stopped caring about the subject. That's from his parent's review."
 
 first_lesson_eyebrow: "FROM SWITCHED OFF TO A 6/7"

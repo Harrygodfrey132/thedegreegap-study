@@ -17,8 +17,8 @@ angle_body_2: "It starts with your child's own writing, not the book. The tutor 
 angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"
 angle_image_alt: "Handwritten notes in progress on lined paper, next to a highlighted printed page"
 angle_stat_from: "5"
-angle_stat_to: "7"
-angle_stat_detail: "The usual aim for a term of weekly lessons. One parent's review on this page describes a 5 becoming a 6/7 in six months."
+angle_stat_to: "6/7"
+angle_stat_detail: "One parent's review on this page describes a 5 becoming a 6/7 in six months. Every child's different, and nobody can promise a grade."
 
 schools:
   - "King Edward VII School"

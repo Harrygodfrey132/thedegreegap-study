@@ -8,7 +8,7 @@ hero_heading_line1: "Online Leeds GCSE Tutors Who Find What's Behind Your Child'
 hero_heading_line2: ""
 hero_lead: "You watched your child revise, and the mock grade still dropped. Very often the cause is a Year 8 or 9 topic that never got re-explained, not this term's work. Our Leeds GCSE tutors start by finding that topic, then build back up from it."
 grade_from: "5"
-grade_to: "7"
+grade_to: "6/7"
 grade_stat: "Six months of one-to-one English took a Year 10 boy from a grade 5 to a 6/7. He now looks forward to his lessons."
 first_lesson_eyebrow: "SIX MONTHS, ONE SUBJECT"
 first_lesson_heading: "Leeds GCSE Tutoring Starts With the Topic That Slipped First"

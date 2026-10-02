@@ -17,7 +17,7 @@ angle_body_2: "So your child's first lesson starts with a marked paper, not a ch
 angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"
 angle_image_alt: "Someone writing by hand on a lined refill pad, with a map and highlighted printed notes spread across the desk"
 angle_stat_from: "5"
-angle_stat_to: "7"
+angle_stat_to: "6/7"
 angle_stat_detail: "From a grade 5 to a 6/7 over six months, for a Year 10 boy who'd lost interest in English. It's from Omo's review, further down this page."
 schools:
   - "Watford Grammar School for Girls"

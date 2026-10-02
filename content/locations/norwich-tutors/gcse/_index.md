@@ -10,7 +10,7 @@ hero_heading_line2: ""
 hero_lead: "When your child's mock grade comes home lower than you expected, the cause is often a couple of years old. Our Norwich GCSE tutors work back to the topic that never landed, then forward from there, rather than just revising whatever the class is on this week."
 
 grade_from: "5"
-grade_to: "7"
+grade_to: "6/7"
 grade_stat: "Omo says six months of tutoring took their son from a grade 5 to a 6/7 in English."
 
 first_lesson_eyebrow: "FROM DISENGAGED TO A 6/7"

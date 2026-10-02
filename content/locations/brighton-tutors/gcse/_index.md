@@ -10,7 +10,7 @@ hero_heading_line2: ""
 hero_lead: "In class, your child writes plenty, but the marks aren't turning up in the exam. Our Brighton GCSE tutors find what's losing them, like an essay that never lands or a Maths method that wobbles. Then they work on it before the mocks feed into a predicted grade."
 
 grade_from: "5"
-grade_to: "7"
+grade_to: "6/7"
 grade_stat: "Omo's son started on a 5 in English and reached a 6/7 after six months, and he looks forward to lessons now."
 
 first_lesson_eyebrow: "ONE BRIGHTON ENGLISH TURNAROUND"

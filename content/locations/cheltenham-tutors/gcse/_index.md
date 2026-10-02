@@ -10,7 +10,7 @@ hero_heading_line2: ""
 hero_lead: "Maybe your child just needs English and Maths made safe. Or maybe they're after the grades a competitive sixth form asks for. Our Cheltenham GCSE tutors work out which it is first, then go after the questions losing marks, not the whole subject again."
 
 grade_from: "5"
-grade_to: "7"
+grade_to: "6/7"
 grade_stat: "Omo's son wanted nothing to do with English. Six months of lessons on, his 5 had become a 6/7."
 
 first_lesson_eyebrow: "ONE REQUEST, TWO VERY DIFFERENT NEEDS"

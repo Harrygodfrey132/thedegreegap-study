@@ -10,7 +10,7 @@ hero_heading_line2: ""
 hero_lead: "Year 10 seemed fine. Then the Year 11 mocks came home, and the grades were lower than anyone expected, your child included. Our Coventry GCSE tutors find the topics quietly losing marks and rebuild them before the next round, when predicted grades start to settle."
 
 grade_from: "5"
-grade_to: "7"
+grade_to: "6/7"
 grade_stat: "A Year 10 who'd switched off from English went from a grade 5 to a 6/7 in six months of tutoring."
 
 first_lesson_eyebrow: "FROM SWITCHED OFF TO A 6/7"

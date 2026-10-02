@@ -10,7 +10,7 @@ hero_heading_line2: ""
 hero_lead: "The mock came back fine. But it's the same grade as last time, and nobody can quite tell you why it's stuck. Our Epsom GCSE tutors find the topic holding it back and go over it with your child until the marks start moving again."
 
 grade_from: "5"
-grade_to: "7"
+grade_to: "6/7"
 grade_stat: "From Omo's review: a Year 10 boy who'd gone cold on English moved up from a grade 5 to a 6/7 over six months."
 
 first_lesson_eyebrow: "WHAT SHIFTED FOR ONE EPSOM FAMILY"
@@ -19,7 +19,7 @@ first_lesson_context: "It's hard not to compare notes at the Epsom school gate, 
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him."
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
-first_lesson_quote_grade: "Grade 5 to Grade 7 in GCSE English"
+first_lesson_quote_grade: "Grade 5 to Grade 6/7 in GCSE English"
 
 tutor_strip_heading: "Epsom GCSE tutors who know the pace Glyn and Rosebery set"
 tutor_strip_body: "Epsom's competitive without having grammar schools. Whether your child's at Glyn, Rosebery, Blenheim High or Epsom College, we'll check their exam board on the call and match on subject and board, not postcode. Browse the profiles, or let us pick for you."

@@ -10,7 +10,7 @@ hero_heading_line2: ""
 hero_lead: "When a mock paper comes home, the marks your child lost usually cluster in a few places. Our Aylesbury GCSE tutors go through that paper with them, find the topics costing the most and start there."
 
 grade_from: "5"
-grade_to: "7"
+grade_to: "6/7"
 grade_stat: "Omo's son in Year 10 had switched off from English completely. After six months of tutoring he'd gone from a grade 5 to a 6/7, and he looks forward to his lessons now."
 
 first_lesson_eyebrow: "A YEAR 10 SHIFT IN AYLESBURY"
@@ -19,7 +19,7 @@ first_lesson_context: "Most Aylesbury parents who ring us about a Year 10 say mu
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him."
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
-first_lesson_quote_grade: "Grade 5 to Grade 7 in GCSE English"
+first_lesson_quote_grade: "Grade 5 to Grade 6/7 in GCSE English"
 
 tutor_strip_heading: "Aylesbury GCSE tutors who know the Bucks exam-board mix"
 tutor_strip_body: "Buckinghamshire still selects at 11, so Aylesbury has grammars and other secondaries side by side, from Aylesbury Grammar to The Grange. Each picks its own exam boards. We'll check your child's on the call and match on board, not postcode. Browse the profiles, or leave it to us."

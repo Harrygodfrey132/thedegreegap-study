@@ -10,7 +10,7 @@ hero_heading_line2: ""
 hero_lead: "For a lot of Solihull families, Year 11 is the first time grades decide where their child goes next. Our Solihull GCSE tutors work towards the grades your child's chosen sixth form asks for, rather than a general sense of doing well."
 
 grade_from: "5"
-grade_to: "7"
+grade_to: "6/7"
 grade_stat: "A 5 to a 6/7 in English for Omo's son, after six months of lessons."
 
 first_lesson_eyebrow: "SIXTEEN, NOT ELEVEN"

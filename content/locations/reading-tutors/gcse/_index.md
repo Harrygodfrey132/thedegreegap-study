@@ -10,7 +10,7 @@ hero_heading_line2: ""
 hero_lead: "It tends to creep up. A subject your child used to like gets left till last, then skipped, and the mock mark drops with it. Our Reading GCSE tutors find what stopped making sense and rebuild it calmly, one-to-one, from there."
 
 grade_from: "5"
-grade_to: "7"
+grade_to: "6/7"
 grade_stat: "After six months of tutoring, Omo's son moved from a grade 5 in English to a 6/7."
 
 first_lesson_eyebrow: "HE NOW LOOKS FORWARD TO LESSONS"
@@ -20,7 +20,7 @@ first_lesson_context: "A disappointing mock tells you something's wrong, but not
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him."
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
-first_lesson_quote_grade: "Grade 5 → Grade 7 in GCSE English"
+first_lesson_quote_grade: "Grade 5 → Grade 6/7 in GCSE English"
 
 tutor_strip_heading: "Reading GCSE tutors who start with your child's exam board"
 tutor_strip_body: "Every tutor is a Russell Group graduate, and only around 3% of applicants get through our interview. They know the courses taught at Reading School, Kendrick and the comprehensives across town. Take a look at some below, or let us pick two or three for your child."
