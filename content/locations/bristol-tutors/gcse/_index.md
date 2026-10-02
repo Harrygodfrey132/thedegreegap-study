@@ -23,7 +23,7 @@ first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B in GCSE"
 
 tutor_strip_heading: "Bristol GCSE tutors for families from Cotham to Bradley Stoke"
-tutor_strip_body: "Every tutor here is a Russell Group graduate who's passed an interview with Harry or Joe, and only around 3% of applicants do. We'll check your child's exam board before suggesting anyone. Browse the profiles, or ask us to pick."
+tutor_strip_body: "Every tutor here has passed an interview with Harry or Joe, and only around 3% of applicants do. Our tutors are graduates or undergraduates who've tutored for two years or more. We'll check your child's exam board before suggesting anyone. Browse the profiles, or ask us to pick."
 
 pathways_heading: "What Bristol Year 11s Do After Their GCSEs"
 pathways_lead: "The three routes we talk through most with Bristol families once GCSEs are over."

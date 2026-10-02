@@ -22,7 +22,7 @@ first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades to three C grades"
 
 tutor_strip_heading: "Sevenoaks A-Level tutors who start with your child's last paper"
-tutor_strip_body: "Whether your child's at one of the Kent grammars or another school around Sevenoaks, we match on the exam board and the subject that's slipping. Every tutor's a Russell Group graduate, and Harry or Joe interviewed each one. Browse profiles, or we'll match your child."
+tutor_strip_body: "Whether your child's at one of the Kent grammars or another school around Sevenoaks, we match on the exam board and the subject that's slipping. Harry or Joe interviewed every tutor, and each has at least two years of tutoring experience. Browse profiles, or we'll match your child."
 
 pathways_heading: "After A-Levels in Sevenoaks: Where Your Child Could Head Next"
 pathways_lead: "Wondering what comes after results day? These are the three routes families tend to ask us about."

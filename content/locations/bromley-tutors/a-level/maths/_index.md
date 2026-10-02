@@ -49,7 +49,7 @@ faqs:
   - q: "My child has dyslexia or ADHD. Can a Maths tutor still help?"
     a: "Yes, and plenty of tutors on our platform work this way most weeks. On the call we'll ask about the diagnosis, what the sixth form has in place and whether there are exam access arrangements (extra time, for example), then match on that as much as on the subject. Lessons run slower and more visibly. Shorter chunks. Working kept in one place on the whiteboard, so nothing scrolls away. One method made secure before the next comes in, and the replay's there afterwards so nothing has to be held in the head. Timed practice comes later, once the method's automatic."
   - q: "How soon could my child have their first lesson?"
-    a: "Usually within a week. The free 15-minute consultation with Harry or Joe can normally happen within a day or two, and two or three tutor profiles follow within 24 hours of it. Then there's a free short video call with whichever tutor your child prefers, and the first paid lesson's usually the week after. If time's tight, say an offer condition in Year 13 or a mock in a fortnight, tell us and we'll put your match first."
+    a: "Usually within a week. The free consultation with Harry or Joe takes about 30 minutes and can normally happen within a day or two. Two or three tutor profiles follow within 24 hours of it. Then there's a free short video call with whichever tutor your child prefers, and the first paid lesson's usually the week after. If time's tight, say an offer condition in Year 13 or a mock in a fortnight, tell us and we'll put your match first."
 # FAQ picks: A05, A09, C10, E03, G04
 
 reviews:

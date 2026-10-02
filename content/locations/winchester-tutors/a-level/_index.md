@@ -23,7 +23,7 @@ first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "A-Level"
 
 tutor_strip_heading: "Winchester A-Level tutors who know your child's board and topics"
-tutor_strip_body: "Two teenagers taking the same A-Level can sit quite different papers, depending on the exam board and the topics their school picked. We ask about both before shortlisting anyone. Every tutor we'd suggest has a degree in what they teach. Have a browse, or we'll pick for you."
+tutor_strip_body: "Two teenagers taking the same A-Level can sit quite different papers, depending on the exam board and the topics their school picked. We ask about both before shortlisting anyone. Graduate or undergraduate, every one has tutored for at least two years. Have a browse, or we'll pick for you."
 
 pathways_heading: "After A-Levels in Winchester: Three Ways Forward"
 pathways_lead: "Here's what each of the three usually hinges on."

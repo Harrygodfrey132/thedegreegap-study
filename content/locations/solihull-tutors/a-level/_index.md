@@ -23,7 +23,7 @@ first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "A-Level"
 
 tutor_strip_heading: "Solihull A-Level tutors matched to your child's exact papers"
-tutor_strip_body: "Two friends taking A-Level Physics can be studying different optional topics, so we'll check your child's board and options on the call before suggesting anyone. All our tutors are Russell Group graduates. Have a look through the profiles, or leave the matching to us."
+tutor_strip_body: "Two friends taking A-Level Physics can be studying different optional topics, so we'll check your child's board and options on the call before suggesting anyone. Every tutor on the platform has tutored for at least two years. Have a look through the profiles, or leave the matching to us."
 
 pathways_heading: "What Comes After A-Levels in Solihull"
 pathways_lead: "Three routes, and what each hangs on."

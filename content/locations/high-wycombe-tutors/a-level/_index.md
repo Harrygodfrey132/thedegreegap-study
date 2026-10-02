@@ -23,7 +23,7 @@ first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "A-Level"
 
 tutor_strip_heading: "High Wycombe A-Level tutors who've sat the papers your child's facing"
-tutor_strip_body: "We match the tutor to your child's exact course and exam board, at Royal Grammar, Wycombe High or any other sixth form in town. Every tutor's a graduate of a top Russell Group university. Have a look through the profiles, or we'll suggest two or three."
+tutor_strip_body: "We match the tutor to your child's exact course and exam board, at Royal Grammar, Wycombe High or any other sixth form in town. Our tutors include undergraduates, and all have tutored for two years or more. Have a look through the profiles, or we'll suggest two or three."
 
 pathways_heading: "Beyond A-Levels for High Wycombe Year 13s"
 pathways_lead: "Once results day's done, most Wycombe families we work with are looking at one of these."

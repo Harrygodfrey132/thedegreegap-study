@@ -24,7 +24,7 @@ first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "A-Level"
 
 tutor_strip_heading: "Chesham A-Level tutors who check which papers your child sits"
-tutor_strip_body: "The same A-Level can mean different exams, depending on the board and the options your child's sixth form chose, so we check that first. Every tutor on our platform is a Russell Group graduate. Book a free call, and two or three profiles will follow within 24 hours."
+tutor_strip_body: "The same A-Level can mean different exams, depending on the board and the options your child's sixth form chose, so we check that first. Each tutor has been tutoring for two years or more. Book a free call, and two or three profiles will follow within 24 hours."
 
 pathways_heading: "Where Chesham A-Levels Could Lead"
 pathways_lead: "Nothing needs deciding yet, but the timings differ."

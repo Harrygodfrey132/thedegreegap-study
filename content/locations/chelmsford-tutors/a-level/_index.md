@@ -22,7 +22,7 @@ first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades to three C grades"
 
 tutor_strip_heading: "Chelmsford A-Level tutors who mark like the examiner will"
-tutor_strip_body: "Whether your child's at KEGS, New Hall or another sixth form, we match to their exam board. Every tutor's a Russell Group graduate, and essays come back marked against the real mark scheme, so you'll both see where the marks went. Browse, or leave the choice to us."
+tutor_strip_body: "Whether your child's at KEGS, New Hall or another sixth form, we match to their exam board. Every tutor has two years' tutoring or more. Essays come back marked against the real mark scheme, so you'll both see where the marks went. Browse, or leave the choice to us."
 
 pathways_heading: "After Results Day: Where Chelmsford Teenagers Head Next"
 pathways_lead: "Three routes come up again and again with Chelmsford families."

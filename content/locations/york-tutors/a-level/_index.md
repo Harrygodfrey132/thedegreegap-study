@@ -22,7 +22,7 @@ first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Almost two grades above the Year 13 mock"
 
 tutor_strip_heading: "York A-Level tutors who mark your child's work the way examiners do"
-tutor_strip_body: "Some of the tutors we'd suggest in York are qualified examiners, and all are Russell Group graduates. And at A-Level that counts, because the gap between a good answer and a top one is usually technique, not content. Have a browse, or ask us to match you."
+tutor_strip_body: "Some of the tutors we'd suggest in York are qualified examiners, and many are from Russell Group universities. And at A-Level that counts, because the gap between a good answer and a top one is usually technique, not content. Have a browse, or ask us to match you."
 
 pathways_heading: "Beyond A-Levels in York: Three Routes to Think About"
 pathways_lead: "It helps to have these in mind from the first lesson, so the subject work is pointing somewhere."

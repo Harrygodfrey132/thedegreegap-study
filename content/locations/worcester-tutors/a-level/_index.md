@@ -23,7 +23,7 @@ first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "A-Level"
 
 tutor_strip_heading: "Worcester A-Level tutors matched to your child's board and options"
-tutor_strip_body: "Ask your child which exam board each subject is, and which options or set texts they're studying. That's what we match on, not just the subject name. Every tutor on our list is a graduate. Browse the profiles, or leave the matching to us."
+tutor_strip_body: "Ask your child which exam board each subject is, and which options or set texts they're studying. That's what we match on, not just the subject name. Everyone on our list has at least two years of tutoring experience. Browse the profiles, or leave the matching to us."
 
 pathways_heading: "The Next Step for Worcester Year 13s After A-Levels"
 pathways_lead: "Each of these three depends on something slightly different, so it helps to know early which one your child's leaning towards."

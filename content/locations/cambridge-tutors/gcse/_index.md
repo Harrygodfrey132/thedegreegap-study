@@ -23,7 +23,7 @@ first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "GCSE English"
 
 tutor_strip_heading: "Cambridge GCSE tutors for the step up to Hills Road or Long Road"
-tutor_strip_body: "Every tutor on our platform studied at a top Russell Group university, and we interview each one ourselves. We'll match them to the exam board your child's school uses, at Parkside, Netherhall, Stephen Perse or anywhere else. Have a look at the profiles, or let us choose."
+tutor_strip_body: "Every tutor has at least two years' tutoring, including those still at university, and we interview each one ourselves. We'll match them to the exam board your child's school uses, at Parkside, Netherhall, Stephen Perse or anywhere else. Have a look at the profiles, or let us choose."
 
 pathways_heading: "The Next Step After Cambridge GCSEs"
 pathways_lead: "After Year 11, your child will most likely take one of these three routes."

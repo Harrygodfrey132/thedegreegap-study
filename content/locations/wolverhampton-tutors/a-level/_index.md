@@ -22,7 +22,7 @@ first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Grade C to Grade A across A-Levels"
 
 tutor_strip_heading: "Wolverhampton A-Level tutors chosen by exam board, not postcode"
-tutor_strip_body: "The best tutor for your child's OCR Chemistry or Edexcel Economics might not live in the West Midlands, and online, that doesn't matter. Every tutor here is a Russell Group graduate, and some are qualified examiners. Scroll through, or book a free call and we'll do the choosing."
+tutor_strip_body: "The best tutor for your child's OCR Chemistry or Edexcel Economics might not live in the West Midlands, and online, that doesn't matter. Many tutors here studied at Russell Group universities, and some are qualified examiners. Scroll through, or book a free call and we'll do the choosing."
 
 pathways_heading: "Beyond A-Levels in Wolverhampton"
 pathways_lead: "Results day tends to point your child towards one of these three."

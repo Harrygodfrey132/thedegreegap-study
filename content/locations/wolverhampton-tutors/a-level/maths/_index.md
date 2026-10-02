@@ -46,9 +46,9 @@ faqs:
   - q: "Would you start Maths tutoring in Year 12, or leave it until Year 13?"
     a: "Year 12 is the better time, and the earlier in it the better. In Maths, a gap that opens in October is sitting underneath everything by the summer, and by Year 13 your child ends up doing two years' work at once. Starting in Year 12 also means the summer assessments that shape the Year 13 prediction happen on solid ground. Year 13 is still worth it. It's just a narrower job."
   - q: "How do you pick the tutors?"
-    a: "Carefully, and only about 3% of applicants get through. They write an application and sit a subject knowledge test, then have an interview with Joe or Harry, where we listen to how clearly they explain under a bit of pressure. References come last. Every tutor studied at a top Russell Group university, and many are qualified teachers. For Maths we also check they're happy to go back to basics when your child needs it, because not every tutor is."
+    a: "Carefully, and only about 3% of applicants get through. They write an application and sit a subject knowledge test, then have an interview with Joe or Harry, where we listen to how clearly they explain under a bit of pressure. References come last. Not all of them have graduated yet, since some are still at university, but every one has tutored for at least two years. Lots come from top Russell Group universities, and many are qualified teachers. For Maths we also check they're happy to go back to basics when your child needs it, because not every tutor is."
   - q: "How soon could my child start?"
-    a: "Usually within the week. After a free 15-minute call with Joe or Harry, you'll have two or three tutor profiles within 24 hours. Your child has a free 15-minute video meeting with the one you pick, and then it's the first lesson. If your child's drifting through a hard half-term, tell us, and we'll usually move things along faster."
+    a: "Usually within the week. After a free call with Joe or Harry, normally about 30 minutes long, you'll have two or three tutor profiles within 24 hours. Your child has a free 15-minute video meeting with the one you pick, and then it's the first lesson. If your child's drifting through a hard half-term, tell us, and we'll usually move things along faster."
 # FAQ picks: G03, A06, A05, E01, C10
 
 reviews:
