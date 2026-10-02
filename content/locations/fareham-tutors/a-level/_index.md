@@ -44,6 +44,15 @@ reviews:
   - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
   - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
 
+faq_1_q: "My son can't decide between Southampton and a BAE Systems apprenticeship. Does that change what a tutor works on?"
+faq_1_a: "Not the weekly lessons, so there's no need for him to choose before starting. If it's engineering either way, Maths is the subject to keep strong, since most science and engineering courses ask for it. The routes only really part ways when he applies. For Southampton, that means a UCAS personal statement, and we can help with that too, fitted around his mocks. Harry or Joe will happily talk both routes through with you on the call."
+faq_2_q: "The predicted grade has already gone to UCAS, and it's a grade short. Is there any point now?"
+faq_2_a: "There is, because the summer results settle it, not the prediction. Universities make offers on predicted grades, but most of those offers hinge on the real exams. So from here the target is the summer, and the tutor works on the questions that lose your child the most marks in recent tests and mocks. Nobody can promise the grade will rise. But the exams themselves haven't happened yet, and that's where the work goes."
+faq_3_q: "Physics is the A-Level my daughter finds hardest. Can you help with that one?"
+faq_3_a: "Definitely. A lot of A-Level Physics marks sit in questions about a situation your daughter hasn't met before, and in the maths needed to get through them. So the tutor works through unfamiliar questions with her until she has a way of starting that doesn't rely on recognising the question. When a mock comes back, they'll go through the Physics paper together and pick out where the marks slipped. Tell us her exam board on the call."
+faq_4_q: "We tried a tutor before and it didn't work out. Why would this be any different?"
+faq_4_a: "Because we start from what went wrong last time. On the free call, Harry or Joe will ask about the old tutor: too fast, too chatty, the wrong exam board? That shapes the two or three profiles we send. Your child meets the tutor on a free video call before anything's booked, and if it still isn't right, we'll find someone else at no charge. Harry and Joe both had two tutors growing up, one brilliant and one so-so, so they know how much the match matters."
+
 sitemap:
   priority: 0.7
   changefreq: monthly

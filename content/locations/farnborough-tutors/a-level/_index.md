@@ -44,6 +44,15 @@ reviews:
   - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
   - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
 
+faq_1_q: "Do the aerospace firms near the airport care about A-Level grades, or is it mostly their own tests?"
+faq_1_a: "They care about the grades, and most add a test of their own. Your child's predicted grades decide whether an application gets a proper look. The test is usually numerical reasoning, which means questions on tables, graphs and figures against the clock. Reading the data carefully matters as much as the sums. So the lessons pay off twice: steadier grades, and calm, accurate number work when time's short."
+faq_2_q: "GCSE Maths and Physics came easily to her. Why is she finding the A-Levels such a struggle?"
+faq_2_a: "Because A-Level asks her to plan more of each answer herself, and that's a new skill, not a sign she's slipping. One question can string several ideas together, with far less of the route laid out for her than at GCSE. Physics leans much harder on algebra, too. Lots of capable Year 12s hit exactly this, and it doesn't mean she's picked the wrong subjects. So the tutor will often have her talk through her plan for a question before she writes a line of it."
+faq_3_q: "Not all of my child's subjects are on the same exam board. Does that matter?"
+faq_3_a: "A little, and it's normal, because sixth forms choose a board subject by subject. In Maths and the Sciences, most of the content overlaps. In essay subjects, even the topics can differ. And every board words its questions and sets out its papers in its own way. So we match every subject with a tutor who teaches that exact board. If Maths and Physics are on different boards, one tutor can still teach both, provided they know each board. Tell us the boards on the call, or have a past paper handy if you're not sure."
+faq_4_q: "Is there a joining fee, or do we just pay for the lessons?"
+faq_4_a: "You just pay for the lessons. The rate starts at £37 an hour and goes up for tutors with more experience and for qualified examiners, and it's agreed with you before anything's booked. There's no joining fee, nothing extra for materials and no contract, so you're free to stop at any point. And the first call with Harry or Joe, like the video meeting with the tutor, is free."
+
 sitemap:
   priority: 0.7
   changefreq: monthly

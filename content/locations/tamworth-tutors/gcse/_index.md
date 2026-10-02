@@ -44,6 +44,15 @@ reviews:
   - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of working with Malvina, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons and has learned strategies that help him approach English in a way that resonates with him."
   - "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
 
+faq_1_q: "Will our tutor be from Tamworth, or could they be anywhere?"
+faq_1_a: "They could be anywhere in the UK, and that gives you far more choice. With lessons online, where a tutor lives stops mattering, so we can pick someone who knows your child's exam board and the subject that needs work. Lessons happen on the platform Lessonspace, where the two of them write on one board, and each one's saved for your child to rewatch. And with nobody waiting on a lift, one tutor can stay with your child right through Year 10 and Year 11."
+faq_2_q: "Should the tutor work on the subject my child wants to keep, or the one they're weakest at?"
+faq_2_a: "Usually the one they want to keep, unless the weak one is Maths or English. A place on that course depends on its own grade, so it makes sense to aim there first. Maths and English follow your child whichever way they go, though, and a low grade in either can narrow the choices after 16. So if one of them is shaky, it may need to come first. We can weigh it up together on the call."
+faq_3_q: "My child's leaning towards essay subjects at the sixth form. Does the English grade count too?"
+faq_3_a: "It can, yes. Landau Forte's sixth form asks for English on its essay-based A-Levels. The exact grade can move between years, so look at the entry line for each course your child's considering. It's worth seeing whether a course names English Language, Literature or either, since it's common to be stronger in one. And the essay habits your child builds in English carry straight over into those subjects too."
+faq_4_q: "What will a weekly lesson cost, and can we take breaks over the holidays?"
+faq_4_a: "You can take breaks whenever you need to, and lessons are from £37 an hour. The tutor's experience sets the rate, and you'll see it before anything's booked. There's no contract or joining fee, so you pay lesson by lesson. Plenty of families take a break over the summer or for exam leave, then pick up again with the same tutor if the timetable allows. Just give the tutor a day or two's notice."
+
 sitemap:
   priority: 0.7
   changefreq: monthly

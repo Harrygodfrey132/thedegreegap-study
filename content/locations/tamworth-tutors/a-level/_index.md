@@ -44,6 +44,15 @@ reviews:
   - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
   - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
 
+faq_1_q: "Our son's sixth form means a long day with the travel. Can tutoring fit around that?"
+faq_1_a: "It can, because it's all online, so there's nothing extra to travel to. Plenty of Tamworth teenagers already head to Lichfield, Burton or Birmingham for sixth form or college. A lesson at home after tea is far easier to keep up than another evening out. Your son and the tutor agree a regular slot that suits. And every lesson has a replay, so a tired evening doesn't mean a lost explanation."
+faq_2_q: "Does a poor Year 13 mock change the predicted grade on the UCAS form?"
+faq_2_a: "Usually not. Teachers set the predictions, and they normally go to UCAS in the autumn of Year 13. So by the time the January mocks are sat, they've usually been sent. From here, it's the summer exams that count. That makes a disappointing mock less of a verdict and more of a to-do list. And it's exactly what a tutor needs to plan your child's next few months."
+faq_3_q: "Her Biology and Chemistry mocks went worst. Do you have tutors for the Sciences?"
+faq_3_a: "We do, and we'd normally match each science separately, with a tutor who knows your daughter's exam board for that subject. Science marks often go on precise detail rather than big ideas. In Biology, that might be swapping look-alike words such as glucagon and glycogen. In Chemistry, it could be mixing up percentage yield and atom economy. A marked mock shows those patterns clearly, and if one tutor's strong in both subjects, we'll say so on the call."
+faq_4_q: "Can we switch tutors partway through Year 13 if it isn't working?"
+faq_4_a: "Of course, at any point, and it costs nothing. Tell us what isn't working and we'll suggest someone who teaches the same exam board, so your child isn't starting from scratch. The new tutor can pick up from the marked mocks and past papers already done. And with no contract, you're never waiting out a term with a tutor who doesn't suit."
+
 sitemap:
   priority: 0.7
   changefreq: monthly

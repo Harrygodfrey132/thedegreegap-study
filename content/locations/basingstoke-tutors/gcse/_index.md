@@ -44,6 +44,15 @@ reviews:
   - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
   - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
 
+faq_1_q: "My child wants essay subjects at Queen Mary's College. What would a tutor focus on?"
+faq_1_a: "Mostly the long written answers, starting with whichever subject looks furthest from the grade its course asks for. At Queen Mary's College, each A-Level usually has its own grade to hit, separate from the general entry standard. So a good set of results overall won't always be enough for one particular course. In GCSE History and English, a big share of the marks sits in the longer answers. So that's where most of each hour would go, from the plan to the final paragraph."
+faq_2_q: "Is it only English, or do other subjects have long answers worth working on too?"
+faq_2_a: "Lots of subjects have them, and a tutor can help with any of them. In Science it's the six-mark questions, which turn up in Biology, Chemistry and Physics. History has its big essays, and Geography has longer answers built around case studies. Tell us which subject's long answers worry you most, and we'll suggest tutors who teach that subject for your child's exam board. Starting with one subject is usually plenty."
+faq_3_q: "Is there still time to work on long answers before the Year 11 mocks?"
+faq_3_a: "Yes, and the weeks before a mock are a good time to start. If it's only a few weeks, the tutor won't try to cover everything. They'll pick the one or two kinds of long question that cost your child most last time and work on those. A lot of it is timing. Your child writes them against the clock, so the last long answer on the paper isn't squeezed into the final five minutes. Then the mock paper itself shapes what comes next."
+faq_4_q: "What if my child hates being corrected? Will marking every week put them off?"
+faq_4_a: "It shouldn't, because the tutor's careful about how it's done. Marking starts with what earned marks, then picks out one or two things to change, rather than a page of red. One-to-one, there's no audience to feel awkward in front of. Your child can meet the tutor on a free video call before anything's booked. And if the two of them don't click, tell us and we'll find someone else, free of charge."
+
 sitemap:
   priority: 0.7
   changefreq: monthly

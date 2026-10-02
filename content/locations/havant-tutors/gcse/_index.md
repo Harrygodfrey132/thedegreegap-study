@@ -44,6 +44,15 @@ reviews:
   - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of working with Malvina, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons and has learned strategies that help him approach English in a way that resonates with him."
   - "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
 
+faq_1_q: "My child's set on a hands-on course at South Downs and says Maths won't matter. Is that true?"
+faq_1_a: "Not really, and it's better to find out now than in August. For the technical courses at South Downs, the college usually looks mainly at Maths and English. So Maths matters a lot on exactly the route your child wants. It's common for a child who loves practical work to switch off from it. The tutor's first job is tracking down the older topic that's tripping your child up, often one from Year 8 or 9, then working forward from it."
+faq_2_q: "English Language and Literature: does my child need a separate tutor for each?"
+faq_2_a: "No, one tutor can usually cover both. They're separate GCSEs, though, and it's common for one to be costing more marks than the other. Literature needs quotations your child can use from memory, since the books stay out of the exam room. Language gives them a passage they've never seen and asks what the writer is doing with it. So the tutor starts by working out which is weaker, and that one gets more of the hour."
+faq_3_q: "If my child changes their mind about A-Levels, will we need a different tutor?"
+faq_3_a: "Probably not. The tutor stays, and what changes is the target. If your child swings towards A-Levels at the Havant campus, there's usually a grade to hit in the subject itself, as well as the general standard. Maths tends to ask for more than most. If the new plan leans on a subject nobody's been working on, a Science perhaps, we'll suggest a second tutor for that. Just tell us when the plan changes, either way."
+faq_4_q: "Would a tutor in Year 9 be jumping the gun?"
+faq_4_a: "Not if a subject's already wobbling, and your child doesn't need a plan for 16 to get started. In Year 9, a tutor can sort out the basics that GCSE courses lean on. Fractions, say, or writing a clear paragraph. It's easier before the harder topics arrive. At that age, lessons are more about understanding than exam practice, which suits a child who's still finding their feet. If nothing's wobbling, waiting is fine, and we'll tell you that on the call."
+
 sitemap:
   priority: 0.7
   changefreq: monthly

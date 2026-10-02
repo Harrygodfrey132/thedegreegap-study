@@ -44,6 +44,15 @@ reviews:
   - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
   - "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
 
+faq_1_q: "We're in Portchester. Will my child take to lessons on a screen?"
+faq_1_a: "Usually, yes, and after a couple of lessons most children barely notice the screen. Your child works from home on the platform Lessonspace, writing on the same board as the tutor. So if a calculation slips at the third line, the tutor sees it at the third line. Lessons are recorded too, so there's something to rewatch before a test. And as no one's driving, we can pick from tutors who teach your child's exam board anywhere in the country, not just near Portchester."
+faq_2_q: "My child takes triple Science. Will they need three different tutors?"
+faq_2_a: "Usually not. Often the marks are slipping in one science more than the other two, so we'd suggest a tutor who knows that one well on your child's exam board. If two are wobbling, some tutors cover both, say Biology and Chemistry. And if your child has a Science in mind for after Year 11, at Fareham College or anywhere else, mention it on the call. Then the tutor can aim at the grade that course asks for."
+faq_3_q: "Should we wait for the mock results before getting a tutor?"
+faq_3_a: "You can, but there's no need to. A recent test or a marked piece of homework gives the tutor enough to start with. And starting sooner means more weeks on the questions your child keeps dropping marks on. When the mock comes back, send it over. It's the most useful paper there is, and the tutor will adjust the plan around it."
+faq_4_q: "What does an hour cost, and what do we get for it?"
+faq_4_a: "It starts at £37 an hour and depends on the tutor's experience, and you'll know the exact figure before a single lesson's booked. It covers the lesson and the tutor's preparation for it. There's no joining fee or charge for materials. Nor do you pay for the first call with us, or for your child's video meeting with the tutor. With no contract, you pay as you go, and you can stop whenever you like, including the week the exams finish."
+
 sitemap:
   priority: 0.7
   changefreq: monthly

@@ -44,6 +44,15 @@ reviews:
   - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
   - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
 
+faq_1_q: "She's just started at Havant and South Downs College. Should we let her settle before thinking about a tutor?"
+faq_1_a: "Give her a few weeks to find her feet, but there's no need to wait for a poor report. The first marked essays and tests usually show whether it's nerves about a new place or a gap in how your daughter's answering. That's a good moment for a tutor to look. Year 12 counts for more than it feels, too. Predicted grades are usually sent to UCAS in the autumn of Year 13, and much of what goes into them is Year 12 work."
+faq_2_q: "Psychology is completely new to my son this year. Can a tutor help with a subject he never did at GCSE?"
+faq_2_a: "Yes, and it's a very common worry in Year 12, because there's no GCSE to fall back on. In Psychology, a lot of the marks go on weighing up studies rather than just describing them, and on the research methods questions. So the tutor builds both from the start, following your son's exam board and what his class is covering that week. If another subject is wobbling too, tell us on the call, as it might suit a different tutor."
+faq_3_q: "If the summer doesn't go to plan, is retaking a subject worth it?"
+faq_3_a: "It can be, if your child still wants what they were aiming for. A retake is a different job from the first attempt. They already know most of the course, so the tutor starts by finding where the marks went and spends the lessons there. A-Levels are examined at the end of the course, so it means sitting every exam paper in that subject again. A weekly lesson also gives a year out some shape, which helps if your child isn't in a classroom every day."
+faq_4_q: "My daughter can be shy with new people. What if she doesn't take to the tutor?"
+faq_4_a: "Then we'll find her someone else, at no cost and with no awkwardness. Plenty of quiet teenagers find one-to-one easier than a classroom, because nobody else is listening, but the fit still matters. So before anything's booked, she gets a free video meeting with the tutor to see how they explain things. If it isn't right after a lesson or two, just tell us. There's no contract, so nothing ties you in."
+
 sitemap:
   priority: 0.7
   changefreq: monthly

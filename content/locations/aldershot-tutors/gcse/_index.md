@@ -44,6 +44,15 @@ reviews:
   - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry, who listened to her needs and gave us a selection of tutors to choose from. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
   - "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
 
+faq_1_q: "We've only just moved to Aldershot. Should we let our child settle in before finding a tutor?"
+faq_1_a: "There's no need to wait, and an early start tends to keep the gap small. Whatever the move left out is easiest to fill before the new class builds on top of it. Settling in and a weekly lesson can run side by side, too. For some children, the same tutor at the same time each week is one fixed point in a term full of new faces. If your child needs a few weeks first, that's fine. Just say so when we speak."
+faq_2_q: "Will the tutor work on what the new class is doing, or on what my child missed in the move?"
+faq_2_a: "A bit of each, in whichever order helps most. The tutor usually starts from this week's homework or a recent test at the new school, then checks which earlier topics it leans on. If the new class covered one of those before your child arrived, that gets taught first, then it's straight back to the homework that needed it. Anything else the move skipped gets fitted in around the classwork, since it can still come up in the exam."
+faq_3_q: "Since the move, more than one subject has slipped. Which one comes first?"
+faq_3_a: "Start with the subject that matters most for your child's next step, which isn't always the one that looks worst. Often that's Maths or English, because they come up almost everywhere after Year 11. If there's a course in mind at Farnborough Sixth Form College, that subject's own grade counts too. A shaky French grade, say, may matter less if French isn't part of the plan. We'll weigh it up with you on the call, and a second subject can always follow."
+faq_4_q: "What does it cost, and are we tied in if we're posted somewhere else?"
+faq_4_a: "From £37 an hour, and no, you won't be tied in, because there's no contract. We'll settle the exact rate with you first, since it varies from tutor to tutor. You pay lesson by lesson and can stop any week. A posting doesn't have to end things, though. Because it's all online, your child can keep the same tutor in a new house or a new county, and the plan carries on where it left off."
+
 sitemap:
   priority: 0.7
   changefreq: monthly

@@ -44,6 +44,15 @@ reviews:
   - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
   - "Theresa|Parent|Harry and Joe were extremely helpful with a wealth of knowledge and contacts that helped my son to follow the right path."
 
+faq_1_q: "We could be moving again in the middle of sixth form. Would my child have to change tutor?"
+faq_1_a: "No. Lessons are online, so the same tutor carries on wherever you're living next, and they'll already know which topics your child is sure of. The thing to watch is the exam board. If the new college teaches a different one, tell us. The tutor will check where the two courses differ, including any topic one college had finished and the other hadn't started. That's far easier with someone who already knows your child than with a new face partway through the course."
+faq_2_q: "Maths is the A-Level that's wobbling, and he wants to do engineering. Where would a tutor start?"
+faq_2_a: "With a recent marked paper, to see where the marks are really going. It's mostly pure maths at A-Level, with mechanics and statistics sharing the rest, and your son could be solid in one part and shaky in another. The tutor also checks whether marks go on choosing a method or on slips in the algebra. And the Maths grade matters beyond the exam. The engineering apprenticeships across Hampshire and Surrey usually ask for Maths, and plenty add a numbers test to the application."
+faq_3_q: "Can a tutor help with A-Level coursework, like a History essay or a Geography investigation?"
+faq_3_a: "Yes, provided the work stays your child's own. Early on, the tutor can talk through possible questions with them, so they pick one they'll still enjoy months later. After that, it's about splitting the write-up into chunks with their own deadlines, so nothing's crammed into the final week. The tutor won't write a word of it, and keeps to what the exam board allows, since the school has to sign the work off as your child's. Tell us the hand-in date on the call, and the tutor can plan back from it alongside revision for the exams."
+faq_4_q: "If we start in Year 12, are we signing up for two years of lessons?"
+faq_4_a: "No. There's no contract, so you pay lesson by lesson and can stop whenever you like, whether that's after a term or once the shaky subject is back on track. Lessons start from £37 an hour, and you'll agree the exact rate before anything's booked. It's higher for more experienced tutors and for qualified examiners. Some families keep going right up to the exams, while others stop once things settle and come back before the mocks."
+
 sitemap:
   priority: 0.7
   changefreq: monthly
