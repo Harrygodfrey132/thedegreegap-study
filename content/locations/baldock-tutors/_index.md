@@ -4,13 +4,13 @@ description: "Online Baldock tutors who find the GCSE or A-Level topic that neve
 layout: single
 location: Baldock
 banner_heading: "Online Baldock Tutoring for GCSE and A-Level That Starts Where the Gap Began"
-banner_description: "Often the thing your child is stuck on this term started a year or two ago. Our Baldock tutors find where it began and build back up from there."
+banner_description: "The topic that's tripping your child up this term may go back a year or two. Our Baldock tutors find where it began and build back up from there."
 content_angle: "the old gap: a Baldock child stuck on something that began in Year 8 or 9, with schools spread across Baldock, Hitchin and Letchworth"
-intro_1: "'It's fine.' That's the answer you get, even when the Maths homework takes all evening and the last test came back with a mark nobody expected. If you're hearing it a lot, you're not the only Baldock parent who is. Children here head off to Knights Templar, to Hitchin or to Letchworth, and plenty of parents spend part of the day on a train. With busy days all round, a small gap can sit quietly for a year before anyone spots it."
-intro_2: "That gap usually sits further back than this term. A fractions idea from Year 8, or a way of setting out algebra that didn't quite go in, and everything since has been balanced on top of it. So a good tutor begins a step or two behind where the class is. They go through a recent test or piece of homework with your child, find where the marks really started going, and rebuild from that point, one lesson a week, until the newer topics have something firm to stand on."
+intro_1: "You ask how Maths is going, and the answer's always 'fine'. Even when the homework takes all evening and the last test came back with a mark nobody expected. If you're hearing it a lot, you're not the only Baldock parent who is. Children here head off to Knights Templar, to Hitchin or to Letchworth, and plenty of parents spend part of the day on a train. With busy days all round, a small gap can sit quietly for a year before anyone spots it."
+intro_2: "That gap usually sits further back than this term. Maybe it's fractions from Year 8, or how to set out algebra, and every new topic this year quietly leans on it. So a good tutor begins a step or two behind where the class is. They go through a recent test or piece of homework with your child and find where the marks really started going. Then they rebuild from that point, one lesson a week, until the newer topics have something firm to stand on."
 about_heading: GCSE and A-Level tutors who know what Baldock students need next
 about_image: /images/graduation-ceremony-caps.jpg
-schools_intro: "Some Baldock children go to Knights Templar, in the town itself. Others travel to Hitchin Boys', Hitchin Girls' or The Priory in Hitchin, or to St Christopher or Highfield in Letchworth. Boards vary between them, so we'll check your child's before suggesting a tutor. If a few friends want a revision or exam technique workshop together, just ask."
+schools_intro: "Some Baldock children go to Knights Templar, in the town itself. Others travel to Hitchin Boys', Hitchin Girls' or The Priory in Hitchin, or to St Christopher or Highfield in Letchworth. Exam boards vary between them, so we'll check your child's before suggesting a tutor. If a few friends want a revision or exam technique workshop together, just ask."
 schools:
   - Knights Templar School
   - Hitchin Boys' School
@@ -24,7 +24,7 @@ online_1: "By the time everyone's home, some straight off the train, nobody want
 online_2: "There's a bigger reason, too. The tutor who knows AQA A-Level Chemistry or Edexcel GCSE English Literature best is unlikely to live in Baldock, and online, they don't need to. We match on the subject and the board. Lessons are recorded as well, so a method that slips away mid-week can be watched again before it matters."
 online_image: /images/online-study-workspace-with-coffee.jpg
 map_url: https://maps.google.com/maps?q=Baldock,UK&output=embed
-areas_intro: "It works just as well from Letchworth, Hitchin or the villages around Baldock. If you're further afield, the towns listed below get the same lessons too."
+areas_intro: "Lessons work just as well from Letchworth, Hitchin or the villages around Baldock. If you're further afield, we cover the towns listed below as well."
 area_links:
   - St Albans Tutors|/locations/st-albans-tutors/
   - Cambridge Tutors|/locations/cambridge-tutors/
@@ -47,7 +47,7 @@ alevel_subjects:
   - "A-Level Maths Tuition|Any shaky GCSE algebra fixed early, because A-Level Maths leans on it every lesson, then pure, statistics and mechanics.|/book-a-call/"
   - "A-Level Physics Tuition|The GCSE ideas A-Level Physics assumes, checked and repaired, before mechanics and fields questions get properly hard.|/book-a-call/"
   - "A-Level Psychology Tuition|Key studies learnt properly first, then evaluation built on top of them, one paragraph at a time.|/book-a-call/"
-  - "A-Level Biology Tuition|Year 12 topics joined up with the GCSE biology they grow from, so synoptic questions stop feeling random.|/book-a-call/"
+  - "A-Level Biology Tuition|Year 12 topics joined up with the GCSE biology they grow from, so questions that mix several topics stop feeling random.|/book-a-call/"
   - "A-Level English Tuition|Close reading built up from sentence level, so your child's essays have evidence behind every point they make.|/book-a-call/"
   - "A-Level Chemistry Tuition|Moles and bonding checked first, since so much of A-Level Chemistry rests on them, then organic reactions and calculations.|/book-a-call/"
   - "A-Level History Tuition|Clear paragraphs and sound arguments before speed, then interpretations and timed essays once the structure feels natural.|/book-a-call/"
@@ -63,11 +63,11 @@ faq_3_a: "From £37 an hour, and the rate depends on which tutor you choose. You
 faq_4_q: "How soon will we actually notice a difference?"
 faq_4_a: "Most parents notice a change in mood before a change in marks, often within the first few lessons: less avoiding, more 'I get this bit now'. Grades take longer to follow, and we'd never promise one."
 why_heading: "Why our Baldock tutoring starts with the topics that slipped past"
-why_para_1: "Two kinds of Baldock teenager tend to turn up to a first lesson. One is behind and knows it, and has quietly given up on Maths. The other looks fine on paper but has been getting by on memory, and it shows the moment a question is worded differently. They seem like opposite problems. Underneath, it's usually the same one: an idea from a couple of years back that never fully landed, and nobody had time to go back for."
-why_para_2: "The first lesson is part detective work. The tutor mixes a few questions from earlier years in with this term's, watches how your child works through them, and notes exactly where the method falls apart. The plan comes from that list. Some weeks go on old ground, some on current topics, and closer to mocks it's timed past papers. Often the first thing parents notice is homework no longer being a nightly battle."
-accordion_quality: "Every tutor is a graduate and has been through an interview with Harry or Joe, which only around 3% of applicants pass. What we look for most is patience: someone who can go back to a Year 8 topic without making a 15-year-old feel small, and find a second explanation when the first one doesn't land."
+why_para_1: "Some Baldock teenagers arrive at their first lesson already behind, and they know it. Often they've quietly given up on Maths. Others look fine on paper but have been getting by on memory, which shows the moment a question is worded differently. They seem like opposite problems. Underneath, it's usually the same one: an idea from a couple of years back that never fully landed, and nobody had time to go back for."
+why_para_2: "The first lesson is part detective work. The tutor mixes a few questions from earlier years in with this term's, watches how your child works through them, and notes exactly where the method falls apart. The plan comes from that list. Some weeks go on old ground, some on current topics, and closer to mocks it's timed questions from past papers. Often the first thing parents notice is homework no longer being a nightly battle."
+accordion_quality: "Every tutor is a graduate who's been interviewed by Harry or Joe, and only around 3% of applicants make the cut. What we look for most is patience: someone who can go back to a Year 8 topic without making a 15-year-old feel small, and find a second explanation when the first one doesn't land."
 accordion_experience: "Typically, the tutor we'd suggest has two or more years of one-to-one work under their belt, on AQA, Edexcel and OCR papers. They know how to rebuild the basics with a teenager who's lost heart, without making it feel like going backwards."
-accordion_personalised: "Every plan starts from what the first lesson shows. For one child that's a few weeks on Year 8 algebra before any A-Level Maths makes sense. For another it's tightening up Psychology evaluation. The plan then shifts as each gap closes, so no lesson is spent on something your child already knows."
+accordion_personalised: "Every plan starts from what the first lesson shows. For one child that's a few weeks on Year 8 algebra before any A-Level Maths makes sense. For another it's tightening up Psychology evaluation. The plan then shifts as each gap closes, so lessons don't go over what your child already knows."
 reviews:
   - Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone
     above and beyond to pair both my sons with the appropriate tutors, all of

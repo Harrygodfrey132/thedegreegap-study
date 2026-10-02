@@ -1,29 +1,29 @@
 ---
 title: "Harrogate Tutors | Expert Support | The Degree Gap"
-description: "Online Harrogate tutoring for GCSE and A-Level that turns your child's own goal into steady weekly work. Start with a free call with Harry or Joe. From £37."
+description: "Your child's set themselves a goal. Our Harrogate tutors turn it into steady weekly work, from GCSE to A-Level. Talk to Harry or Joe first. From £37."
 layout: "single"
 location: "Harrogate"
 banner_heading: "Online Harrogate Tutors for GCSE and A-Level, Backing the Goal Your Child Has Set"
 banner_description: "You can back your child's big goal without becoming the nag. A tutor breaks it into steady weekly work, one lesson at a time."
 content_angle: "a goal of their own: backing a teenager's ambition without nagging, with help on A-Level choices and university"
-intro_1: "Sometimes it starts with a note stuck above the desk. A grade, or a university course your child looked up late one night. It's lovely to see. But it's also slightly nerve-racking, because every reminder about revision seems to land as nagging. The goal might be the grades for a sixth form course, or going as far as they can in a subject they love. Whether their child is at Harrogate Grammar, St Aidan's or elsewhere in town, Harrogate parents rarely worry about effort. They worry about making the next two years count."
+intro_1: "There might be a note stuck above the desk. A grade, or a university course your child looked up late one night. It's a good sign. But it's also slightly nerve-racking, because every reminder about revision seems to land as nagging. The goal might be the grades for a sixth form course, or going as far as they can in a subject they love. Whether your child is at Harrogate Grammar, St Aidan's or elsewhere in town, effort usually isn't the worry. Making the next two years count is."
 intro_2: "Here's where a tutor earns their place. They turn a big goal into one small job a week, and your child gets someone to show the work to who isn't you. It starts with a free chat with Harry or Joe, our co-founders, about your child and what they're aiming for. You'll be sent two or three tutor profiles within 24 hours, and your child gets a free video meeting with whichever one you prefer. Lessons are then weekly, from £37, and there's no contract."
 about_heading: "Personalised GCSE and A-Level Tutoring for Harrogate Students"
 about_image: "/images/classical-library-books-and-busts.jpg"
-schools_intro: "We work with families from Harrogate Grammar School, Rossett School, St Aidan's CE High School and St John Fisher Catholic High School, and from Harrogate Ladies' College and Ashville College too. At every one of them, the questions around Year 10 and 11 sound much the same: which A-Levels to take, and how early to start preparing. Harry and Joe hear those questions in schools as well, where they run revision workshops, including their 'Dragon's Den' sessions."
+schools_intro: "Some of the children we help are at Harrogate Grammar School, Rossett School, St Aidan's CE High School or St John Fisher Catholic High School. Others are at Harrogate Ladies' College or Ashville College. At every one of them, the questions around Year 10 and 11 sound much the same: which A-Levels to take, and how early to start preparing. Harry and Joe hear those questions in schools as well, where they run revision workshops, including their 'Dragon's Den' sessions."
 schools: ["Harrogate Grammar School", "St Aidan's CE High School", "Rossett School", "St John Fisher Catholic High School", "Harrogate Ladies' College", "Ashville College"]
 schools_image: "/images/students-listening-in-classroom.jpg"
 online_heading: "Online tutoring that looks further than Leeds and York"
-online_1: "The best tutor for your child might live in Leeds or York. They might equally be at the other end of the country. Online, it makes no difference. What matters is that they know the exact course your child is sitting, whether that's OCR Chemistry at A-Level or the comparison essay in AQA English Literature, and that the two of them get on."
+online_1: "The best tutor for your child might live in Leeds or York. They might equally be at the other end of the country. Online, it makes no difference. What matters is that they know the exact course your child is sitting, whether that's OCR Chemistry at A-Level or the comparison essay in AQA English Literature. And that the two of them get on."
 online_2: "Lessons use Lessonspace, an online platform with a whiteboard the two of them share, and every session is saved to watch back. There are no lifts to fit around Harrogate's commuter evenings, either. Your child does the hour at home and has the replay ready for the week before a test."
 online_image: "/images/student-celebrating-online-learning.jpg"
 map_url: "https://maps.google.com/maps?q=Harrogate,UK&output=embed"
-areas_intro: "It's the same set-up wherever you are in Yorkshire, and we also work with families in these cities further afield, all of them online."
+areas_intro: "It's the same set-up wherever you are in Yorkshire, and we also work with families in these cities, near and further afield, all of them online."
 area_links: ["Leeds Tutors|/locations/leeds-tutors/", "York Tutors|/locations/york-tutors/", "Manchester Tutors|/locations/manchester-tutors/", "Sheffield Tutors|/locations/sheffield-tutors/", "Liverpool Tutors|/locations/liverpool-tutors/", "Nottingham Tutors|/locations/nottingham-tutors/"]
 gcse_subjects: [
   "GCSE Maths Tuition|From patching up shaky algebra to the hardest problem-solving questions, pitched at wherever your child is starting from.|/book-a-call/",
   "GCSE English Tuition|Essays with a clear line of argument, for a teenager with plenty to say who needs to say it within the time.|/book-a-call/",
-  "GCSE Biology Tuition|Genetics and cell biology explained properly, so the longer written answers rest on understanding rather than memorised lines.|/book-a-call/",
+  "GCSE Biology Tuition|Genetics and cell biology talked through until they click, so the longer written answers rest on understanding rather than memorised lines.|/book-a-call/",
   "GCSE Chemistry Tuition|Calculations, rates and energy changes, practised until the number work in Chemistry stops being the scary part.|/book-a-call/",
   "GCSE Physics Tuition|Forces, energy and waves explained until your child knows why an equation works, as well as which one to use.|/book-a-call/",
   "GCSE History Tuition|Essays that reach a real judgement, backed by detail your child has chosen rather than everything they can remember.|/book-a-call/",
@@ -32,29 +32,29 @@ gcse_subjects: [
   "GCSE Computer Science Tuition|Algorithms and programming practice for a child who enjoys coding, plus the theory papers, which need just as much care.|/book-a-call/",
 ]
 alevel_subjects: [
-  "A-Level Maths Tuition|Pure, statistics and mechanics practised on full papers, so your child learns to manage the time as well as the maths.|/book-a-call/",
+  "A-Level Maths Tuition|Pure, statistics and mechanics practised on past papers, so your child learns to manage the time as well as the maths.|/book-a-call/",
   "A-Level Chemistry Tuition|Organic synthesis routes and the trickier calculations, for a child who needs Chemistry for the course they have in mind.|/book-a-call/",
-  "A-Level Biology Tuition|The longer essays and the statistical tests in practical work, for a child whose next step depends on Biology.|/book-a-call/",
-  "A-Level Physics Tuition|Particles, waves and fields, with the multi-step maths behind them practised until a long question feels manageable.|/book-a-call/",
+  "A-Level Biology Tuition|The longer written answers and the statistical tests in practical work, for a child whose next step depends on Biology.|/book-a-call/",
+  "A-Level Physics Tuition|Particles, waves and fields, with plenty of practice on the multi-step maths so a long question feels manageable.|/book-a-call/",
   "A-Level Economics Tuition|The subject Harry and Joe were both tutored in themselves, with diagrams and essays that build a proper argument.|/book-a-call/",
   "A-Level Psychology Tuition|Studies learnt alongside their strengths and weaknesses, so evaluation becomes a habit rather than a panic in the exam.|/book-a-call/",
   "A-Level English Tuition|Close reading and essays with an argument your child owns, on whichever exam board and texts they're studying.|/book-a-call/",
   "A-Level History Tuition|Essays that weigh historians' views against each other, plus careful help planning the coursework investigation.|/book-a-call/",
-  "A-Level Geography Tuition|The independent investigation, from picking a question your child actually cares about to a finished write-up.|/book-a-call/",
+  "A-Level Geography Tuition|The fieldwork coursework, from picking a question your child actually cares about to a finished write-up.|/book-a-call/",
 ]
 other_subjects: [
   "University Personal Statement|Help deciding what goes into the UCAS statement and what comes out, so it shows why this course and not another.|/book-a-call/",
 ]
 faq_1_q: "Can you advise on A-Level choices and university?"
-faq_1_a: "Yes. Harry and Joe have been through it themselves, and plenty of families talk A-Level choices and university applications over with them alongside the tutoring. If your child needs help with a UCAS personal statement, we'll find a tutor for that as well."
+faq_1_a: "Yes. Harry and Joe have been on both sides of those decisions, making their own and now guiding other people's. Plenty of families talk A-Level choices and university applications over with them alongside the lessons. If your child needs help with a UCAS personal statement, we'll find a tutor for that as well."
 faq_2_q: "Is a tutor worth it if my child's doing well?"
-faq_2_a: "It can be. Some families come to us to catch up and some to stretch, and a tutor helps with both. With a child who's doing well, the first few lessons usually find the handful of places where marks still go missing."
+faq_2_a: "Quite often. Families come to us to stretch as well as to catch up, and a tutor helps with both. With a child who's doing well, the first few lessons usually find the handful of places where marks still go missing."
 faq_3_q: "Do we need a tutor who lives near Harrogate?"
 faq_3_a: "No. Every lesson is online, so we can pick from tutors across the whole country rather than the few within driving distance. That usually means a closer match on exam board and personality, and your child still gets a full hour of one-to-one attention at home."
-faq_4_q: "What does it cost, and can we stop if it isn't working?"
+faq_4_q: "How much is it, and can we stop if it isn't working?"
 faq_4_a: "Lessons start from £37 an hour, depending on the tutor, and you'll know the price before anything's booked. There's no contract, so you're free to stop at any point. And if your child doesn't get on with their tutor, we'll introduce someone new without charging for the change."
 why_heading: "What a tutor adds to a Harrogate teenager's plan"
-why_para_1: "Two sorts of Harrogate teenager with a goal tend to reach us. One is a grade or so short of it, often because a topic from a couple of years back never properly settled. The other is already near the top of the class and wants more stretch than a busy lesson can give. They need different things. The first needs the gap found and filled calmly. The second needs harder questions than a class of thirty has time for."
+why_para_1: "Two sorts of Harrogate teenager with a goal tend to reach us. One is just short of it, often because a topic from a couple of years back never properly settled. The other is already near the top of the class and wants more stretch than a busy lesson can give. They need different things. The first needs the gap found and filled calmly. The second needs harder questions than a class of thirty has time for."
 why_para_2: "Either way, the tutor starts by going through recent work and a past paper with your child, and the plan comes out of what they find. After that, each week has one clear job. Parents often tell us the house gets calmer, because the weekly lesson does the reminding for them. Grades take longer to move, and nobody can promise them."
 accordion_quality: "Harry and Joe interview every tutor themselves. All of them studied at top Russell Group universities, but a strong degree only gets someone through the door. The interview is about whether they can take a teenager's big plan seriously and still explain a basic idea patiently when that's what's needed."
 accordion_experience: "Two or more years of one-to-one tutoring is typical for the tutors we'd suggest. Along the way they've helped plenty of teenagers pick A-Levels and write personal statements, so a big goal doesn't faze them."

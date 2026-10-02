@@ -1,16 +1,16 @@
 ---
 title: "Cheltenham Tutors | GCSE & A-Level | The Degree Gap"
-description: "Cheltenham tutors for the child who revises for hours and still isn't seeing it in the mocks. One-to-one GCSE and A-Level lessons online, from £37 an hour."
+description: "When hours of revision aren't showing in the mocks, our Cheltenham tutors work through past papers with your child, one-to-one and online. From £37 an hour."
 layout: "single"
 location: "Cheltenham"
 banner_heading: "All That Revision and the Mocks Aren't Moving? Online Cheltenham GCSE and A-Level Tutors Can Help"
-banner_description: "Flashcards, highlighters, a stack of revision guides on the kitchen table, and a mock result that shows none of it. Our tutors help your child turn that effort into marks."
+banner_description: "Flashcards, highlighters, a stack of revision guides, and a mock result that shows none of it. Our tutors help your child turn that effort into marks."
 content_angle: "revision that isn't turning into marks: timed past papers and exam technique, plus the 11+ and sixth form entry"
 intro_1: "You can see the effort. Your son or daughter gets home, eats, and heads upstairs with a revision guide, and the mock grades still come back the same. It's one of the things Cheltenham parents tell us most, and in some ways it's harder to watch than a child who isn't trying, because 'work harder' isn't the answer. Usually the knowledge is mostly there. What's missing is the step between knowing it and writing it down in a way that earns the marks."
 intro_2: "That step can be taught. A tutor goes through past papers with your child and marks them the way an examiner would, line by line, so they can see which sentence earned a mark and which didn't. They practise how long to spend on a four-mark question and what a longer one really wants. It's less exciting than new content, but it's where a lot of GCSE and A-Level marks are won."
 about_heading: "One-to-One Tutoring for Cheltenham Students"
 about_image: "/images/graduation-ceremony-caps.jpg"
-schools_intro: "Children come to us from Pate's, Balcarras and Bournside, and from Cheltenham Ladies' College, Cheltenham College and Dean Close. Some are working towards a sixth form place, some towards a university offer, and some simply want a grade they'd be proud of. The revision problem sounds much the same at every school. Our tutors know AQA, Edexcel and OCR, and we'll match your child's board. Alongside tutoring, we run revision and exam technique workshops in over 15 UK secondary schools."
+schools_intro: "Children come to us from Pate's, Balcarras and Bournside, and from Cheltenham Ladies' College, Cheltenham College and Dean Close. Some are working towards a sixth form place, some towards a university offer, and some simply want a grade they'd be proud of. The revision problem sounds much the same at every school. Our tutors know AQA, Edexcel and OCR, and we'll match your child's board. Alongside the tutoring, our two founders give revision and exam technique workshops in schools."
 schools: ["Pate's Grammar School", "Cheltenham Ladies' College", "Cheltenham College", "Dean Close School", "Balcarras School", "Bournside School"]
 schools_image: "/images/students-listening-in-classroom.jpg"
 online_heading: "Past papers on a shared screen: online tutoring for Cheltenham teenagers"
@@ -22,9 +22,9 @@ areas_intro: "Live outside Cheltenham itself? Every lesson is online, so it work
 area_links: ["Bristol Tutors|/locations/bristol-tutors/", "Oxford Tutors|/locations/oxford-tutors/", "Worcester Tutors|/locations/worcester-tutors/", "Birmingham Tutors|/locations/birmingham-tutors/", "Swindon Tutors|/locations/swindon-tutors/", "Exeter Tutors|/locations/exeter-tutors/"]
 gcse_subjects: [
   "GCSE Chemistry Tuition|Past-paper practice on calculations and six-mark explanations, so revision on bonding and rates shows up as marks.|/book-a-call/",
-  "GCSE Maths Tuition|Timed papers worked through together, so your child learns which questions to bank first and which to come back to.|/book-a-call/",
+  "GCSE Maths Tuition|Timed sections of past papers worked through together, so your child learns which questions to bank first and which to come back to.|/book-a-call/",
   "GCSE English Tuition|Quotations revised so they're usable, and answers that say something about the writer rather than retelling the plot.|/book-a-call/",
-  "GCSE Biology Tuition|Flashcard knowledge turned into full written answers, with the required practicals rehearsed as exam questions.|/book-a-call/",
+  "GCSE Biology Tuition|Flashcard knowledge turned into full written answers, with the practicals rehearsed as exam questions.|/book-a-call/",
   "GCSE Physics Tuition|Calculation questions practised against the clock, with each line of working shown so nothing gets lost to a skipped step.|/book-a-call/",
   "GCSE History Tuition|The dates and events your child already knows, shaped into essays that keep arguing right to the end.|/book-a-call/",
   "GCSE Geography Tuition|Facts from revision notes moved into long answers that actually use them to make a point.|/book-a-call/",
@@ -36,7 +36,7 @@ alevel_subjects: [
   "A-Level Chemistry Tuition|Calculations and mechanisms practised from past papers until the long structured questions stop eating the clock.|/book-a-call/",
   "A-Level Biology Tuition|Well-revised content practised as the extended answers and data questions the exam actually sets.|/book-a-call/",
   "A-Level Physics Tuition|Multi-step problems done under exam conditions, with the tutor watching where the reasoning goes off track.|/book-a-call/",
-  "A-Level Economics Tuition|Essays timed and marked against the levels, so analysis and evaluation both get the space they need.|/book-a-call/",
+  "A-Level Economics Tuition|Essays timed and marked as an examiner would, so analysis and evaluation both get the space they need.|/book-a-call/",
   "A-Level Psychology Tuition|Studies your child has memorised, turned into evaluation that earns marks instead of repeating the description.|/book-a-call/",
   "A-Level English Tuition|Set-text essays planned in a few minutes, so the argument lasts the whole answer instead of fading halfway.|/book-a-call/",
   "A-Level History Tuition|Source questions and essays practised against the clock, with feedback on where the argument lost its grip.|/book-a-call/",
@@ -54,7 +54,7 @@ faq_3_a: "Yes. Some Cheltenham families come to us for the 11+ or Common Entranc
 faq_4_q: "Who will actually be teaching my child?"
 faq_4_a: "A graduate from a top Russell Group university, usually someone who's tutored one-to-one for two years or more, and often a qualified teacher too. You'll see their profile before your child meets them."
 why_heading: "Why Cheltenham parents turn to tuition before exams"
-why_para_1: "Two kinds of Cheltenham teenager tend to come to us in the run-up to exams. One knows the content well and loses marks in the writing, with answers that stop short or a long question left to the last five minutes. The other revises in a way that feels busy but doesn't stick, rereading and highlighting rather than testing themselves. Both are working hard. Neither needs another talk about effort."
+why_para_1: "In the run-up to exams, you may well recognise one of these. Your child knows the content well but loses marks in the writing, with answers that stop short or a long question left to the last five minutes. Or they revise in a way that feels busy but doesn't stick, rereading and highlighting rather than testing themselves. Either way, they're working hard. Another talk about effort won't help."
 why_para_2: "For the first, the tutor works on timing and structure with real past papers, so a long answer has a plan before it has a first sentence. For the second, revision changes shape, with far more self-testing and much less rereading. You'll probably notice the mood at home first, a bit less dread on a Sunday night. The mock result often follows, though we'd never promise a grade."
 accordion_quality: "Only about 3% of the tutors who apply make it onto our platform, and every one has been interviewed by Harry or Joe. What we're checking is whether they can show a nervous fifteen-year-old exactly where a mark was dropped, and why, without it feeling like a telling-off."
 accordion_experience: "Past papers are familiar ground for the tutors we'd put forward, most of whom have tutored one-to-one for years across AQA, Edexcel and OCR. They know which questions tend to catch people out, and how to practise them until they don't."

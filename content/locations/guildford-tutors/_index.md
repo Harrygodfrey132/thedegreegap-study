@@ -1,31 +1,31 @@
 ---
 title: "Guildford Tutors | Expert Support | The Degree Gap"
-description: "Guildford tutors for GCSE and A-Level, helping your child show what they know on the paper. Online and one-to-one, from £37 an hour, with no contract."
+description: "Hours of revision, and the marks still don't show it. Our Guildford tutors help your child get what they know onto the paper. Online, from £37, no contract."
 layout: "single"
 location: "Guildford"
 banner_heading: "Online Guildford Tutors for GCSE and A-Level, When the Hard Work Isn't Showing Up on the Paper"
 banner_description: "Your child can explain it at the kitchen table, then the mock comes back and the marks aren't there. A tutor who knows the paper can show them where those marks went. It starts with a free call."
 content_angle: "knowing it vs showing it: Guildford children who can explain a topic at home but lose marks on the paper, so the tutor works on exam technique, timing and what each question is asking"
-intro_1: "You can hear it through the bedroom door. Hours of revision, highlighters everywhere. Then a test comes back a grade lower than all that work deserved. We hear this a lot from Guildford families, whether their children are at RGS, Guildford High or Tormead, or at George Abbot, St Peter's or Guildford County. Effort isn't the problem. Most of the time your child knows more than the paper shows. What's missing is getting it down in the right shape, in the time allowed, the way the mark scheme wants to see it."
+intro_1: "You can hear it through the bedroom door. Hours of revision, highlighters everywhere. Then a test comes back a grade lower than all that work deserved. We hear this a lot from Guildford families, whether their children are at RGS, Guildford High or Tormead, or at George Abbot, St Peter's or Guildford County. Effort isn't the problem, and most of the time the knowledge is there too. What's missing is getting it down in the right shape, in the time allowed, the way the mark scheme wants to see it."
 intro_2: "That's usually very fixable, and it's what a weekly hour with the right tutor is good at. The first step is a free call where Harry or Joe, who founded The Degree Gap, gets to know you and your child. Within 24 hours you'll have 2 or 3 tutor profiles, and a free video meeting lets your child meet the tutor before anything's booked. Lessons are from £37 an hour, with no contract."
 about_heading: "Personalised GCSE and A-Level Tutoring for Guildford Students"
 about_image: "/images/university-lecture-hall.jpg"
-schools_intro: "During the school day, Harry and Joe are often in classrooms themselves, running revision and exam technique workshops in some of the 15-plus UK secondary schools we work with directly. After school, tutors on our platform teach children from right across Guildford, including the Royal Grammar School, Guildford High, Tormead, George Abbot, St Peter's and Guildford County. Exam boards vary between them, so we match tutors to the papers your child is actually sitting."
+schools_intro: "During the school day, Harry and Joe are often in classrooms themselves, running revision and exam technique workshops. After school, tutors on our platform teach children from right across Guildford, including the Royal Grammar School, Guildford High, Tormead, George Abbot, St Peter's and Guildford County. Exam boards vary between them, so we match tutors to the papers your child is actually sitting."
 schools: ["Royal Grammar School Guildford", "Guildford High School for Girls", "Tormead School", "George Abbot School", "St Peter's Catholic School", "Guildford County School"]
 schools_image: "/images/aerial-school-campus-building.jpg"
 online_heading: "Online tutoring where the tutor watches each answer"
 online_1: "Lessons are one-to-one on Lessonspace, a whiteboard on screen that your child and the tutor both write on. For exam technique, that's a big help. The tutor can watch an answer being built and stop it at the exact line where it starts drifting from the question, rather than finding out a week later from a marked paper."
-online_2: "If a six-mark method finally clicks on a Tuesday, your child can watch it again on Thursday before the test, because every lesson is recorded. And with nobody driving across Surrey at rush hour, lessons can sit wherever the week has room, with a tutor chosen for your child's exam board rather than their postcode."
+online_2: "If the way into a six-mark question finally clicks on a Tuesday, your child can watch it again on Thursday before the test, because every lesson's recorded. And with nobody driving across Surrey at rush hour, lessons can sit wherever the week has room. The tutor's chosen for your child's exam board, not their postcode."
 online_image: "/images/student-studying-at-night-with-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Guildford,UK&output=embed"
-areas_intro: "Wherever you are in and around Guildford, your child's tutor is only a click away, and it's the same for families in these towns."
+areas_intro: "Wherever you are in and around Guildford, your child's tutor is only a click away. Families in these towns get the same."
 area_links: ["Epsom Tutors|/locations/epsom-tutors/", "Reading Tutors|/locations/reading-tutors/", "Brighton Tutors|/locations/brighton-tutors/", "Winchester Tutors|/locations/winchester-tutors/", "Tunbridge Wells Tutors|/locations/tunbridge-wells-tutors/", "Oxford Tutors|/locations/oxford-tutors/"]
 gcse_subjects: [
   "GCSE Maths Tuition|Method marks picked up by showing working clearly, so one slip near the end doesn't cost the whole question.|/book-a-call/",
   "GCSE Chemistry Tuition|Calculations set out line by line, and a habit of checking what each question is really asking before writing.|/book-a-call/",
-  "GCSE Biology Tuition|Long answers timed and marked against the real mark scheme, so your child sees what earns the final mark.|/book-a-call/",
-  "GCSE English Tuition|Essays planned in five minutes and finished on time, with quotations that make a point instead of just sitting there.|/book-a-call/",
-  "GCSE Physics Tuition|Quick recall questions done fast, leaving time for the longer calculations where the clock usually runs out.|/book-a-call/",
+  "GCSE Biology Tuition|Long answers timed and marked like the real thing, so your child can see what earns the final mark.|/book-a-call/",
+  "GCSE English Tuition|A short plan before every essay so it's finished on time, with quotations that make a point instead of just sitting there.|/book-a-call/",
+  "GCSE Physics Tuition|Short recall questions done fast, leaving time for the longer calculations where the clock usually runs out.|/book-a-call/",
   "GCSE History Tuition|How long to spend on each question, and how to write a judgement the examiner can actually find.|/book-a-call/",
   "GCSE Geography Tuition|Case study facts used to back up each point, with the longer answers practised against a timer.|/book-a-call/",
   "GCSE French Tuition|The listening and reading papers practised at exam speed, and the speaking exam rehearsed until the questions feel familiar.|/book-a-call/",
@@ -33,14 +33,14 @@ gcse_subjects: [
 ]
 alevel_subjects: [
   "A-Level Chemistry Tuition|Mechanisms drawn with every arrow in the right place, and calculations written out so method marks survive a slip.|/book-a-call/",
-  "A-Level Maths Tuition|Timed practice on full papers, and spotting which topic a disguised question is really testing.|/book-a-call/",
+  "A-Level Maths Tuition|Timed practice on past-paper questions, and spotting which topic a disguised question is really testing.|/book-a-call/",
   "A-Level Biology Tuition|Precise wording that matches the mark scheme, and data questions done at exam pace.|/book-a-call/",
   "A-Level Physics Tuition|Multi-step problems broken into stages, so an early mistake doesn't wipe out every mark that follows.|/book-a-call/",
-  "A-Level Economics Tuition|Essays that reach a clear judgement, and diagrams labelled fully enough to earn their marks.|/book-a-call/",
-  "A-Level Psychology Tuition|Evaluation points developed properly rather than listed, with timing that leaves room for the long essay at the end.|/book-a-call/",
+  "A-Level Economics Tuition|Essays that end on a clear judgement, and diagrams labelled fully enough to earn their marks.|/book-a-call/",
+  "A-Level Psychology Tuition|Evaluation points developed properly rather than listed, with timing that leaves room for the longer essay questions.|/book-a-call/",
   "A-Level English Tuition|A clear plan for each section of the paper, and essays that stay on the exact question set.|/book-a-call/",
   "A-Level History Tuition|Source answers and timed essays, marked against the real mark bands and talked through line by line.|/book-a-call/",
-  "A-Level Geography Tuition|Long essays built around one clear argument, and the coursework checked against what the mark scheme asks for.|/book-a-call/",
+  "A-Level Geography Tuition|Long essays that hold one argument from start to finish, and the coursework checked against what the mark scheme asks for.|/book-a-call/",
 ]
 other_subjects: [
   "University Personal Statement|A UCAS personal statement that shows what your child has read and done, redrafted with honest feedback at each stage.|/book-a-call/",
