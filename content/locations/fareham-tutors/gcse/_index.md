@@ -16,7 +16,7 @@ grade_card: "aim"
 first_lesson_eyebrow: "WHICH COLLEGE, WHICH GRADE"
 first_lesson_heading: "GCSE Tutoring for a Year 11 Who Hasn't Decided Yet"
 first_lesson_context: "Plenty of Year 11s haven't settled on a college yet, and that's fine. Fareham College, Barton Peveril, St Vincent and the Portsmouth and Havant colleges each set their own entry grades for every subject, and they don't line up. So until your child decides, a GCSE tutor plans around the strictest."
-first_lesson_quote: "I was really pleased to discover The Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start."
+first_lesson_quote: "I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. …"
 first_lesson_quote_name: "Philippa"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "GCSE"
@@ -38,9 +38,9 @@ pathways:
       Fareham College and Havant and South Downs College run most of the T Levels and other A-Level alternatives within reach. Wherever your child goes, a Maths or English grade under 4 normally means carrying on with that subject alongside the course.
 
 reviews:
-  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."
-  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry, who listened to her needs and gave us a selection of tutors to choose from. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
-  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents. My daughter passed both English and Maths GCSE with grades 4 and 5."
+  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. …"
+  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. …"
+  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents. UPDATE: My daughter passed both English and Maths GCSE (4 and 5's). …"
   - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
   - "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
 

@@ -16,7 +16,7 @@ grade_card: "aim"
 first_lesson_eyebrow: "ONE SIXTH FORM IN TOWN"
 first_lesson_heading: "Why Your GCSE Tutor Will Ask About Sixth Form First"
 first_lesson_context: "At Landau Forte Academy Tamworth Sixth Form, each subject has its own entry grade. If your child falls short in the one they care about most, sixth form could mean a daily commute to Lichfield or Birmingham. So the first thing a Tamworth GCSE tutor asks is what your child's hoping to study next."
-first_lesson_quote: "Very good tutoring for my daughter and good communication with parents. My daughter passed both English and Maths GCSE with grades 4 and 5."
+first_lesson_quote: "Very good tutoring for my daughter and good communication with parents. UPDATE: My daughter passed both English and Maths GCSE (4 and 5's). …"
 first_lesson_quote_name: "Chris"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "GCSE"
@@ -38,10 +38,10 @@ pathways:
       South Staffordshire College runs vocational courses at the same level as A-Levels, with more on offer at Burton and Lichfield. With a 3 or lower in Maths or English, your child would usually keep working on it there as well.
 
 reviews:
-  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."
+  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. …"
   - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
-  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry, who listened to her needs and gave us a selection of tutors to choose from. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
-  - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of working with Malvina, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons and has learned strategies that help him approach English in a way that resonates with him."
+  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. …"
+  - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7. I honestly can’t believe I’m saying this, but he now looks forward to his lessons. …"
   - "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
 
 faq_1_q: "Will our tutor be from Tamworth, or could they be anywhere?"
