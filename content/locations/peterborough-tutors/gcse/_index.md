@@ -59,7 +59,7 @@ faq_2_a: "By finding something she can do, and making that obvious quickly. Hard
 faq_3_q: "Do you cover the exam boards Peterborough schools use?"
 faq_3_a: "Yes. It's one of the first things we check. Schools across the city use AQA, Edexcel and OCR between them, and the papers really do differ, less in content than in how questions are worded and what the mark schemes reward. A tutor on the wrong board can teach well and still leave marks behind. So we match your child's board from day one, and their tier (higher or foundation) where the subject has one."
 faq_4_q: "How quickly can we start?"
-faq_4_a: "Usually within a week. First you'll talk to Harry or Joe, which takes about fifteen minutes and doesn't commit you to anything. Two or three tutor profiles follow within 24 hours, and your child gets a free fifteen-minute meeting with whoever you pick before you pay a penny. The first paid lesson is normally a few days after that."
+faq_4_a: "Usually within a week. First you'll talk to Harry or Joe, which usually takes about half an hour and doesn't commit you to anything. Two or three tutor profiles follow within 24 hours, and your child gets a free fifteen-minute meeting with whoever you pick before you pay a penny. The first paid lesson is normally a few days after that."
 
 sitemap:
   priority: 0.7
