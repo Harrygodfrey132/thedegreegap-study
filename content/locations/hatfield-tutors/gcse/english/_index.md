@@ -26,7 +26,6 @@ schools:
   - "Ridgeway Academy"
   - "Stanborough School"
   - "Monk's Walk School"
-  - "Hatfield Community Free School"
 
 steps_heading: "Three steps to GCSE English tutoring from Hatfield"
 steps_lead: "You'll see profiles within a day. And if your child talks well about books but writes thin essays, that's a specific gap, with a specific fix."

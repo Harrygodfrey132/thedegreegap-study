@@ -17,7 +17,6 @@ schools:
   - Ridgeway Academy
   - Stanborough School
   - Monk's Walk School
-  - Hatfield Community Free School
 schools_image: /images/aerial-school-campus-building.jpg
 online_heading: "Online tutoring that fits around a Hatfield school week"
 online_1: "Because every lesson happens online, on the platform Lessonspace, we aren't matching your child with whoever lives nearby. We're matching them with a tutor who knows their subject on their exam board. If your child sits Edexcel GCSE Maths, that means a tutor who knows Edexcel Maths. If it's AQA A-Level Biology, the same goes. Subject and exam board come first. The tutor's postcode doesn't matter at all."

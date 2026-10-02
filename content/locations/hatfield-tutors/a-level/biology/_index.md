@@ -26,7 +26,6 @@ schools:
   - "Ridgeway Academy"
   - "Stanborough School"
   - "Monk's Walk School"
-  - "Hatfield Community Free School"
 
 steps_heading: "Three steps to A-Level Biology lessons for your child in Hatfield"
 steps_lead: "Profiles come within a day. Meanwhile, ask your child to write out an immune response with the book shut. It's telling."

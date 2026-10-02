@@ -26,7 +26,6 @@ schools:
   - "Ridgeway Academy"
   - "Stanborough School"
   - "Monk's Walk School"
-  - "Hatfield Community Free School"
 
 steps_heading: "Getting a Hatfield GCSE Science Tutor, Step by Step"
 steps_lead: "It's usually only a few days from our first chat to your child's first lesson. Here's how it goes."

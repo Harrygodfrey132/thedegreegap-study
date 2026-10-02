@@ -26,7 +26,6 @@ schools:
   - "Ridgeway Academy"
   - "Stanborough School"
   - "Monk's Walk School"
-  - "Hatfield Community Free School"
 
 steps_heading: "How to get A-Level Maths help for your child in Hatfield"
 steps_lead: "Two or three tutor profiles will follow within 24 hours of our chat. Before then, have a look at your child's numerical methods answers. Are there any sentences in them?"

@@ -26,7 +26,6 @@ schools:
   - "Ridgeway Academy"
   - "Stanborough School"
   - "Monk's Walk School"
-  - "Hatfield Community Free School"
 
 steps_heading: "What happens when you get in touch about A-Level Chemistry in Hatfield"
 steps_lead: "Profiles are usually with you the next day. Before then, try handing your child a rate table from a past paper and see whether they've got a method or just a guess."

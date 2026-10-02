@@ -26,7 +26,6 @@ schools:
   - "Ridgeway Academy"
   - "Stanborough School"
   - "Monk's Walk School"
-  - "Hatfield Community Free School"
 
 steps_heading: "Three steps to starting GCSE Maths tutoring in Hatfield"
 steps_lead: "Send a marked paper if you have one, because blank questions tell us something different from wrong ones. Tutor profiles will be with you within a day of the call."
