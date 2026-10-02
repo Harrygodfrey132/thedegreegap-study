@@ -59,7 +59,7 @@ faq_1_a: "Yes, and it's a question we hear a lot. Alongside the weekly lessons, 
 faq_2_q: "How do you choose your tutors?"
 faq_2_a: "Some of our tutors have finished their degrees and some are still working towards them, many at top Russell Group universities. Plenty are qualified teachers too. But that isn't enough on its own. The bit we care about most is whether they can explain a hard idea clearly and kindly to a teenager."
 faq_3_q: "How much are lessons, and is there a contract?"
-faq_3_a: "It's from £37 an hour, and the rate depends on which tutor you choose. You'll always know the price before the first lesson, and there's no contract tying you in, so you can stop whenever you like."
+faq_3_a: "It's from £37 an hour, and the rate depends on which tutor you choose. You'll always know the price before the first lesson. It's pay as you go, lesson by lesson, with no contract tying you in, so you can stop whenever you like."
 faq_4_q: "Can a tutor help with sixth form applications, including tests and interviews?"
 faq_4_a: "Yes. Whether it's City of Wolverhampton College or a sixth form further afield, the tutor can help your child prepare for any entry test and practise interview questions out loud, so talking about themselves feels less awkward."
 why_heading: "Tutoring that shows Wolverhampton children what the exam is really asking"
