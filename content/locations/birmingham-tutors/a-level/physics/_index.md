@@ -34,7 +34,7 @@ steps:
   - title: "Tell us about your child"
     body: "On a free call, Harry or Joe will ask about your child's year group, school and exam board. Also which required practicals they've done, and whether they could explain why each step was there."
   - title: "Pick a tutor you like"
-    body: "We send two or three profiles the next morning. They're matched to your child's exam board and to how that board asks about practical work, which varies more than most parents expect. A free 15-minute video introduction to the tutor comes first."
+    body: "We send two or three profiles within 24 hours. They're matched to your child's exam board and to how that board asks about practical work, which varies more than most parents expect. A free 15-minute video introduction to the tutor comes first."
   - title: "One hour a week, online"
     body: "A regular weekly hour on the platform Lessonspace, with a replay of every lesson. Each practical gets broken down: why it's done, where the uncertainty is, what it does to the result. Then real past questions test it. From £37 an hour, no contract, and you can pause whenever you need to."
 

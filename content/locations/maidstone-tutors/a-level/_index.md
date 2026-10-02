@@ -29,7 +29,7 @@ pathways_lead: "A good tutor keeps all three in mind from the first lesson, beca
 pathways:
   - title: "Universities"
     body: >
-      The University of Kent and Canterbury Christ Church are under an hour away, Greenwich's Medway campus is closer still, and the London universities are at the end of the line from Maidstone East. Offers rest on the predicted grades teachers write early in Year 13, months before your child sits a single paper.
+      The University of Kent and Canterbury Christ Church are under an hour away, Greenwich's Medway campus is closer still, and the London universities are at the end of the line from Maidstone East. Offers rest on the predicted grades schools send to UCAS in the autumn of Year 13, months before your child sits a single paper.
   - title: "Degree Apprenticeships"
     body: >
       Kent County Council, the Maidstone and Tunbridge Wells NHS Trust and the Gallagher Group all run apprenticeship schemes that take on eighteen-year-olds, and the degree-level ones want A-Level grades plus a written application. Each sets its own requirements, which can change between intakes, and the deadlines often come before the UCAS one.

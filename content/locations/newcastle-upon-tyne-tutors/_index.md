@@ -23,7 +23,7 @@ area_links: ["York Tutors|/locations/york-tutors/", "Harrogate Tutors|/locations
 gcse_subjects: [
   "GCSE Chemistry Tuition|Moles, concentration and equations with state symbols, written out line by line instead of rushed through at speed.|/book-a-call/",
   "GCSE English Tuition|Language and Literature treated as the two different exams they are, with the questions practised as hard as the texts.|/book-a-call/",
-  "GCSE Geography Tuition|Case studies that stick, and nine-mark answers built to the mark scheme rather than the textbook page.|/book-a-call/",
+  "GCSE Geography Tuition|Case studies that stick, and long answers built to the mark scheme rather than the textbook page.|/book-a-call/",
   "GCSE Maths Tuition|Multi-step questions seen through to the end, aimed at the grade your child's sixth form or college asks for.|/book-a-call/",
   "GCSE Computer Science Tuition|Trace tables, algorithms and the theory paper, with plenty of practice reading and writing code.|/book-a-call/",
   "GCSE Biology Tuition|Required practicals (the set experiments) and six-mark answers, taught as the questions examiners actually ask.|/book-a-call/",

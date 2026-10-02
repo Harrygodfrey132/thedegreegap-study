@@ -24,7 +24,7 @@ gcse_subjects: [
   "GCSE Physics Tuition|The equations, unit slips and long problems at the back of the paper, worked through on screen with your child.|/book-a-call/",
   "GCSE English Tuition|Language and Literature taken as the two separate exams they are, since the marks go missing in different places.|/book-a-call/",
   "GCSE Maths Tuition|The grade nearly every Northampton sixth form and college asks about, rebuilt from where your child's method stops holding.|/book-a-call/",
-  "GCSE Geography Tuition|Case studies your child can actually name and use, and nine-mark answers practised the way the paper asks them.|/book-a-call/",
+  "GCSE Geography Tuition|Case studies your child can actually name and use, and long answers practised the way the paper asks them.|/book-a-call/",
   "GCSE Chemistry Tuition|Moles, concentration and rates, with every line of working written out on screen so the tutor spots where it slips.|/book-a-call/",
   "GCSE Computer Science Tuition|Trace tables, Boolean logic and the programming questions on the exam, starting from whatever your child can already code.|/book-a-call/",
   "GCSE Biology Tuition|Required practicals and the longer written answers, practised as real exam questions rather than reread from notes.|/book-a-call/",

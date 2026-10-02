@@ -23,7 +23,7 @@ area_links: ["Sevenoaks Tutors|/locations/sevenoaks-tutors/", "Tunbridge Wells T
 gcse_subjects: [
   "GCSE Physics Tuition|Rearranging equations and converting units, the two skills behind a lot of the Physics marks children lose.|/book-a-call/",
   "GCSE English Tuition|Language and Literature worked on separately, and the difference between retelling a text and arguing about it practised until it sticks.|/book-a-call/",
-  "GCSE Geography Tuition|Named case studies your child can actually recall in the exam hall, and nine-mark answers planned before they're written.|/book-a-call/",
+  "GCSE Geography Tuition|Named case studies your child can actually recall in the exam hall, and long answers planned before they're written.|/book-a-call/",
   "GCSE Maths Tuition|Foundation or Higher, with the paper that's losing the most marks found first and the topic behind it taught properly.|/book-a-call/",
   "GCSE Computer Science Tuition|Trace tables, Boolean logic and the programming paper, with the theory learnt as exam questions, not definitions.|/book-a-call/",
   "GCSE Biology Tuition|Six-mark questions and required practicals (the set experiments), with the method written the way the mark scheme wants.|/book-a-call/",

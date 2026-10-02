@@ -11,7 +11,7 @@ hero_lead: "The sixth form application's open on the laptop, and one subject sti
 
 grade_from: "5"
 grade_to: "6/7"
-grade_stat: "A Year 10 boy who'd switched off from English went from a grade 5 to a 6/7 over six months of weekly lessons."
+grade_stat: "A Year 10 boy who'd switched off from English went from a grade 5 to a 6/7 over six months of lessons."
 
 first_lesson_eyebrow: "STAY, OR APPLY ELSEWHERE?"
 first_lesson_heading: "What an Amersham GCSE Tutor Checks Before the Sixth Form Applications Go In"

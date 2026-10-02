@@ -25,7 +25,7 @@ gcse_subjects: [
   "GCSE English Tuition|Language and Literature taken one at a time, since what costs marks in one is rarely the problem in the other.|/book-a-call/",
   "GCSE Computer Science Tuition|Trace tables, algorithms and the programming questions in the exam, taught from the point where your child got lost.|/book-a-call/",
   "GCSE Maths Tuition|The grade Slough sixth forms tend to look at first, rebuilt from the algebra step where it stopped making sense.|/book-a-call/",
-  "GCSE Geography Tuition|Remembering case studies, and the nine-mark answers, marked the way the examiner will mark them in the summer.|/book-a-call/",
+  "GCSE Geography Tuition|Remembering case studies, and the long answers, marked the way the examiner will mark them in the summer.|/book-a-call/",
   "GCSE Chemistry Tuition|Moles, equations and rates written out step by step, for triple Science and Combined Science alike.|/book-a-call/",
   "GCSE French Tuition|The role-play, the photo card and the writing, practised until the phrases come out without a pause.|/book-a-call/",
   "GCSE Biology Tuition|Genetics, cells and the six-mark questions, with answers laid out the way the mark scheme expects to see them.|/book-a-call/",

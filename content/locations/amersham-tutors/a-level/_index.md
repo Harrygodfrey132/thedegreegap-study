@@ -22,7 +22,7 @@ first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades to three Cs at A-Level"
 
 tutor_strip_heading: "Amersham A-Level tutors who know the exam board your child's switched to"
-tutor_strip_body: "Your child might have sat Edexcel GCSE Maths and now be on OCR MEI at A-Level, and the questions look different. We match on the exact course and modules, and most tutors sat these papers recently. Lessons run on the platform Lessonspace, with a replay of each one."
+tutor_strip_body: "Your child might have sat Edexcel GCSE Maths and now be on OCR MEI at A-Level, and the questions look different. We match on the exact course and board, and check the tutor knows its papers. Lessons run on the platform Lessonspace, with a replay of each one."
 
 pathways_heading: "Life After A-Levels for Amersham Sixth Formers"
 pathways_lead: "These are the three routes that come up most when we talk to Amersham parents about Year 12."

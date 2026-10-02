@@ -42,7 +42,7 @@ faqs:
   - q: "How many lessons before we see a better grade?"
     a: "Usually eight to twelve weekly lessons to move up a grade, as long as your child is practising questions in between. If one topic has knocked an otherwise confident child, it can be quicker. Everything else is still there. They just need a different way to hold that material. Wider gaps take longer, and after the first lesson the tutor will give you an honest estimate, not a comfortable one."
   - q: "Does the exam board make a difference?"
-    a: "It does. The core physics is much the same, but the boards differ in how questions are set out and how much the working earns. What's on the formula sheet varies too, as does how the lab work is signed off and whether there's an option topic. So if your child practises on another board's papers, they can know the physics well and still pick up habits that cost marks. We check the board before suggesting anyone."
+    a: "It does. The core physics is much the same, but the boards differ in how questions are set out and marked. What's on the formula sheet varies too, as does whether there's an option topic. So if your child practises on another board's papers, they can know the physics well and still pick up habits that cost marks. We check the board before suggesting anyone."
   - q: "Is it actually worth the money?"
     a: "It depends on the gap. If your child is a grade or two below what their university offer needs, it's usually worth it. Most engineering and physical science degrees name Physics in their entry grades. If one topic has shaken them, a short block might be enough. We'll tell you that on the free call rather than book you in for a year."
   - q: "How do you choose the tutors?"

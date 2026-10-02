@@ -54,7 +54,7 @@ faq_2_a: "Usually, yes. The earlier you start, the more room there is. Predicted
 faq_3_q: "My son aced his GCSEs, but Year 12 has been a real shock. What can a tutor do about it?"
 faq_3_a: "Quite a lot, and you're far from the only family in this spot. A-Level asks for a depth of reasoning GCSE never really tested, so the study habits that carried him through suddenly aren't enough. That's not laziness, and it's very fixable. The tutor goes through a recent piece of his work first. Then they rebuild the habits and the depth together, a topic at a time, so he can see it working."
 faq_4_q: "How much does A-Level tutoring cost?"
-faq_4_a: "Lessons start from £37 an hour. The rate depends on the subject and the tutor, and we'll agree it with you before anything's booked. There's no contract, and you can stop at any point. A lot of families go for one hour a week through Year 12. Some add a second before the Year 13 mocks, since those firm up UCAS predictions."
+faq_4_a: "Lessons start from £37 an hour. The rate depends on the subject and the tutor, and we'll agree it with you before anything's booked. There's no contract, and you can stop at any point. A lot of families go for one hour a week through Year 12. Some add a second lesson in the run-up to the Year 13 mocks."
 sitemap:
   priority: 0.7
   changefreq: monthly

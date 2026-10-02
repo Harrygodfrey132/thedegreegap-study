@@ -29,7 +29,7 @@ gcse_subjects: [
   "GCSE Biology Tuition|Six-mark answers and data questions, which is where knowing the Biology and scoring the marks start to come apart.|/book-a-call/",
   "GCSE French Tuition|Speaking and writing built up steadily, from wherever your child is starting and on whichever tier, foundation or higher.|/book-a-call/",
   "GCSE Physics Tuition|Rearranging formulas and units, then the long problems at the back of the paper, with every line written out.|/book-a-call/",
-  "GCSE Geography Tuition|Case studies remembered in enough detail to use, and the nine-mark questions, practised against the real mark scheme.|/book-a-call/",
+  "GCSE Geography Tuition|Case studies remembered in enough detail to use, and the long-answer questions, practised against the real mark scheme.|/book-a-call/",
 ]
 alevel_subjects: [
   "A-Level Psychology Tuition|Research methods and evaluation, for when your child's essays describe a study well but never judge it.|/book-a-call/",

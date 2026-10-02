@@ -34,7 +34,7 @@ steps:
   - title: "Tell us what's going on"
     body: "A free call with Harry or Joe to get to know you and your child. Mention the exam board, and whether they draw when they work. No diagrams on vector questions is a useful clue, and it's a quick habit to change."
   - title: "Choose your tutor"
-    body: "Two or three tutor profiles land by the next morning, matched on exam board and on whichever part of the course needs the time. Then there's a free 15-minute video introduction before any paid lesson."
+    body: "Two or three tutor profiles arrive within 24 hours, matched on exam board and on whichever part of the course needs the time. Then there's a free 15-minute video introduction before any paid lesson."
   - title: "Lessons each week"
     body: "Same time each week in the online classroom Lessonspace, which suits vectors well, because a diagram can be built up and kept. Nothing algebraic gets written until the picture's drawn. Every lesson has a replay. It's from £37 an hour, and you can pause whenever you need."
 

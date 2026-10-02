@@ -29,7 +29,7 @@ gcse_subjects: [
   "GCSE Computer Science Tuition|Algorithms, trace tables and the programming questions, picked up from wherever your child actually is.|/book-a-call/",
   "GCSE Biology Tuition|Required practicals and long answers, practised as exam questions rather than as a hazy memory of the lesson.|/book-a-call/",
   "GCSE French Tuition|Speaking and writing practice, planned properly, at whatever level your child is starting from.|/book-a-call/",
-  "GCSE Geography Tuition|Case studies and the nine-mark answers, practised against the mark scheme rather than the textbook.|/book-a-call/",
+  "GCSE Geography Tuition|Case studies and the long answers, practised against the mark scheme rather than the textbook.|/book-a-call/",
 ]
 alevel_subjects: [
   "A-Level Economics Tuition|Diagrams drawn and labelled properly, and the chains of evaluation the longer essays need for the bigger marks.|/book-a-call/",

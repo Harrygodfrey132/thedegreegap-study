@@ -28,7 +28,7 @@ gcse_subjects: [
   "GCSE Biology Tuition|Required practicals and the longer answers, written the way an examiner wants to see them.|/book-a-call/",
   "GCSE Computer Science Tuition|Pseudocode, trace tables and algorithm questions, starting from whatever your child can already write.|/book-a-call/",
   "GCSE History Tuition|Source questions and the longer essays, each one planned before a line goes down.|/book-a-call/",
-  "GCSE Geography Tuition|The facts behind each case study, and the nine-mark questions practised against the mark scheme.|/book-a-call/",
+  "GCSE Geography Tuition|The facts behind each case study, and the long-answer questions practised against the mark scheme.|/book-a-call/",
   "GCSE Spanish Tuition|Speaking, listening and translation practised little and often, so the summer papers hold no nasty surprises.|/book-a-call/",
 ]
 alevel_subjects: [

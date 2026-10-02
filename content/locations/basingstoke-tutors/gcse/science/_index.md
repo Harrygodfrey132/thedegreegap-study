@@ -1,7 +1,7 @@
 ---
 title: "Basingstoke GCSE Science Tutors | Online | The Degree Gap"
 nav_title: "Science"
-description: "One Science grade can hide three very different subjects. Our Basingstoke GCSE Science tutors find the one costing your child marks. Online, from £37 an hour."
+description: "On Combined Science, one weak subject can hide behind two strong ones. Our Basingstoke GCSE Science tutors find the one costing your child marks. From £37."
 layout: "level-subject"
 location: "Basingstoke"
 level: "GCSE"

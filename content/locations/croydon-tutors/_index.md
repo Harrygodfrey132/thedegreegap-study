@@ -25,7 +25,7 @@ gcse_subjects: [
   "GCSE English Tuition|Language and Literature taken separately, and your child's own writing marked line by line, which a busy class rarely allows.|/book-a-call/",
   "GCSE Computer Science Tuition|Trace tables, algorithms and the theory paper, picked up from where your child actually is, not where the class has got to.|/book-a-call/",
   "GCSE Maths Tuition|The grade almost every Croydon sixth form and college asks about, rebuilt from the algebra behind the wrong answers.|/book-a-call/",
-  "GCSE Geography Tuition|Case studies and the nine-mark answers, practised against the mark scheme instead of reread from the textbook.|/book-a-call/",
+  "GCSE Geography Tuition|Case studies and the long answers, practised against the mark scheme instead of reread from the textbook.|/book-a-call/",
   "GCSE Physics Tuition|Rearranging equations, units and the long questions at the back of the paper, with the Maths inside them checked first.|/book-a-call/",
   "GCSE French Tuition|Speaking and writing built up week by week, whether your child's been entered for the higher or foundation papers.|/book-a-call/",
   "GCSE Biology Tuition|Required practicals and six-mark answers practised as exam questions, not a hazy memory of the lesson.|/book-a-call/",

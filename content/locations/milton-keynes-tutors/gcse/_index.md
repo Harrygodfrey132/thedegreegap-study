@@ -27,7 +27,7 @@ pathways:
   - title: "Apprenticeships"
     body: "Red Bull Racing runs engineering apprenticeships with MK College from its Formula 1 base, and Santander and Network Rail take on apprentices in finance and rail from their Milton Keynes bases. Most of them list Maths and English grades, usually a 4 or 5 at least."
   - title: "Further Education"
-    body: "Milton Keynes College runs practical courses like BTECs and T Levels at its Chaffron Way and Bletchley campuses, and some lead on to work at the city's head offices, Volkswagen Group and Domino's among them. A steady 4 or 5 in Maths and English gets your child onto most Level 3 courses (A-Level standard)."
+    body: "Milton Keynes College runs practical courses like BTECs and T Levels at its Chaffron Way and Bletchley campuses, and some lead on to work at the city's head offices, Volkswagen Group UK and Domino's among them. A steady 4 or 5 in Maths and English gets your child onto most Level 3 courses (A-Level standard)."
 reviews:
   - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
   - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. …"

@@ -29,7 +29,7 @@ pathways_lead: "London's about 20 minutes down the Chiltern line on a fast train
 pathways:
   - title: "Universities"
     body: >
-      Brunel University London is just down the road in Uxbridge, Buckinghamshire New University is in High Wycombe, and fast trains into Marylebone put central London within easy reach. Wherever your child applies, offers are made on predicted grades written early in Year 13, long before the summer exams.
+      Brunel University London is just down the road in Uxbridge, Buckinghamshire New University is in High Wycombe, and fast trains into Marylebone put central London within easy reach. Wherever your child applies, offers are made on the predicted grades sent in the autumn of Year 13, long before the summer exams.
   - title: "Degree Apprenticeships"
     body: >
       Heathrow runs degree apprenticeships, each with its own predicted-grade requirements, and its engineering routes need A-Level Maths. Closing dates often come before the UCAS deadline, so it's worth your child keeping both doors open from Year 12.
