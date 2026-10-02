@@ -521,9 +521,9 @@
 </div><!-- /.ads-page -->
 
 {{ with $faqs }}
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{{ range $i, $f := . }}{{ if $i }},{{ end }}{"@type":"Question","name":{{ $f.q | jsonify }},"acceptedAnswer":{"@type":"Answer","text":{{ $f.a | jsonify }}}}{{ end }}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{{ range $i, $f := . }}{{ if $i }},{{ end }}{"@type":"Question","name":{{ $f.q }},"acceptedAnswer":{"@type":"Answer","text":{{ $f.a }}}}{{ end }}]}</script>
 {{ end }}
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","@id":{{ printf "%s#service" .Permalink | jsonify }},"name":{{ printf "%s Tutoring | The Degree Gap" $fullLabel | jsonify }},"description":{{ .Description | jsonify }},"url":{{ .Permalink | jsonify }},"provider":{"@type":"EducationalOrganization","name":"The Degree Gap","url":"https://thedegreegap.com"},"areaServed":{"@type":"Country","name":"United Kingdom"},"serviceType":"Online Tutoring","offers":{"@type":"Offer","priceCurrency":"GBP","price":"37"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","@id":{{ printf "%s#service" .Permalink }},"name":{{ printf "%s Tutoring | The Degree Gap" $fullLabel }},"description":{{ .Description }},"url":{{ .Permalink }},"provider":{"@type":"EducationalOrganization","name":"The Degree Gap","url":"https://thedegreegap.com"},"areaServed":{"@type":"Country","name":"United Kingdom"},"serviceType":"Online Tutoring","offers":{"@type":"Offer","priceCurrency":"GBP","price":"37"}}</script>
 
 {{ partial "reviews-drawer.html" . }}
 {{ partial "ads-tracking.html" . }}
