@@ -154,17 +154,17 @@ Pick **3-4 specific question styles, topics, or marks-bleeding areas** for this 
 
 **GCSE English Language/Literature:** comparative essay structure, unseen poetry analysis, AO5/AO6 writing technique under timed conditions, evidence selection, the comparison paper, exam timing.
 
-**GCSE Biology:** required practicals examiner expects, six and nine-mark long-answer questions, cellular biology and genetics recall, evaluation under exam pressure.
+**GCSE Biology:** the practicals the examiner asks about (AQA calls them required practicals, Edexcel core practicals), six-mark long-answer questions, cellular biology and genetics recall, evaluation under exam pressure.
 
-**GCSE Chemistry:** mole/concentration calculations, organic mechanism arrow-pushing, required practicals, equations with state symbols, six-mark structures.
+**GCSE Chemistry:** mole/concentration calculations, organic chemistry (alkanes, alkenes, alcohols; curly-arrow mechanisms are A-Level, not GCSE), the practicals, equations with state symbols, six-mark structures.
 
-**GCSE Physics:** multi-step problems with unit conversion traps, equations triangle vs algebraic rearrangement, required practicals graph analysis, six-mark explanations.
+**GCSE Physics:** multi-step problems with unit conversion traps, equations triangle vs algebraic rearrangement, practical and graph analysis, six-mark explanations.
 
 **GCSE History:** 16-mark essay structure, source utility/interpretation questions, the comparison/significance prompts, evidence selection from named topics.
 
-**GCSE Geography:** nine-mark questions, named case study recall (UK and contrasting LIC/NEE), data response, fieldwork answers.
+**GCSE Geography:** the long-answer questions (9 marks on AQA, 8 and 12 on Edexcel, so say "the long answers" unless the page names a board), named case study recall (UK and contrasting LIC/NEE), data response, fieldwork answers.
 
-**GCSE Computer Science:** algorithm and trace-table questions, the NEA programming project, theory exam sections on data representation and Boolean logic, paper 1 vs paper 2 split.
+**GCSE Computer Science:** algorithm and trace-table questions, programming questions in the written papers (there's no assessed programming project at GCSE), theory exam sections on data representation and Boolean logic, paper 1 vs paper 2 split.
 
 **GCSE Modern Languages (French/Spanish/German):** writing tier shift, listening paper pacing, photo and role-play speaking technique.
 
@@ -172,11 +172,11 @@ Pick **3-4 specific question styles, topics, or marks-bleeding areas** for this 
 
 **A-Level Maths:** Pure / Mechanics / Statistics topic depth, proof writing (the A to A* lift), Paper 3 mechanics integration.
 
-**A-Level Further Maths:** modules schools cover vs uncover, beyond-syllabus stretch needed for Oxbridge.
+**A-Level Further Maths:** which optional papers each school chooses (A-Levels are linear and have no modules), beyond-syllabus stretch needed for Oxbridge.
 
 **A-Level English Literature:** comparative essay (A-Level NEA/coursework component), AO3 context weave, AO4 connections.
 
-**A-Level Biology:** synoptic six-mark questions, required practicals, biochemistry pathway recall.
+**A-Level Biology:** synoptic long-answer questions, the practicals (AQA's required practicals, Edexcel's core practicals, OCR's PAGs), biochemistry pathway recall.
 
 **A-Level Chemistry:** multi-step organic synthesis, mechanism arrow-pushing under exam pressure, calculation chains.
 

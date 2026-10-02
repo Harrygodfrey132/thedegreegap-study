@@ -149,7 +149,7 @@ These pages must rank for level-specific tutoring searches. Google needs to see 
 8. **`pathways_heading` + `pathways_lead`** — one mention of `{Level} tutor/tutoring/tuition` across the heading and lead is fine. If it doesn't fit, skip it — the pathways section is about destinations, not tutoring.
 9. **`pathways` accordion bodies** — these should be about the destination (sixth form, university, employer), not the tutoring. **Do not force a tutor/tutoring/tuition mention into every body.** If one of the three bodies naturally references how tutoring helps reach that destination, fine. If none do, also fine. Editorial fit beats density.
 10. **FAQs** — answer the question. If the question is about Maths or online sessions or cost, the answer naturally uses the relevant keyword. Don't bolt the location-plus-level phrase into every answer.
-11. **Subject mentions across the page** — at some point the page should reference real subject pain (Maths foundation gaps, English essay structure, Sciences required practicals). When you do, the phrase "{Level} Maths tutor" or "A-Level Chemistry tutor" should sit inside that natural editorial context — not be listed as "the most-requested subjects" or "leading subject demand". **Quota: zero.** Mention what the page is actually about. If a page leans into the Maths angle, Maths gets named multiple times. If it leans into UCAS essay work, English Literature gets named. Topic-led writing beats checklist-led writing every time.
+11. **Subject mentions across the page** — at some point the page should reference real subject pain (Maths foundation gaps, English essay structure, Sciences practicals). When you do, the phrase "{Level} Maths tutor" or "A-Level Chemistry tutor" should sit inside that natural editorial context — not be listed as "the most-requested subjects" or "leading subject demand". **Quota: zero.** Mention what the page is actually about. If a page leans into the Maths angle, Maths gets named multiple times. If it leans into UCAS essay work, English Literature gets named. Topic-led writing beats checklist-led writing every time.
 
 **Banned phrasings (these came out of past audit and read as template-fill):**
 
@@ -409,7 +409,7 @@ Never paste verbatim. The bank is inspiration, not copy-paste source.
 2. *Grades slipping in Year 11 mocks in {loc}?* / Our {loc} GCSE tutors find the topics losing marks and fix exam technique in weeks, not terms.
 3. *GCSE Maths feels overwhelming in {loc}?* / Our {loc} GCSE tutors break algebra, geometry and problem-solving into steps your child can hold onto.
 4. *Stuck on a Year 8 topic that never clicked in {loc}?* / Our {loc} GCSE tutors find foundational gaps fast and rebuild from there.
-5. *GCSE Sciences calculations losing marks in {loc}?* / Our {loc} GCSE tutors drill the six-mark questions and required practicals examiners actually weight.
+5. *GCSE Sciences calculations losing marks in {loc}?* / Our {loc} GCSE tutors drill the six-mark questions and practical questions examiners actually weight.
 6. *GCSE English essays falling short in {loc}?* / Our {loc} GCSE tutors tighten essay structure and unseen poetry analysis under timed conditions.
 7. *Not improving despite revision in {loc}?* / Our {loc} GCSE tutors teach exam-day strategy, not just more content.
 
@@ -747,7 +747,7 @@ The previous version of this skill dictated the same 4 questions in the same phr
 8. Q: `Can an A-Level tutor help with the EPQ or coursework in {Location}?` / A: Yes, with the caveat that final work stays the student's own.
 9. Q: `Do you offer A-Level tutoring online for {Location} students?` / A: Most sessions online, why it works for A-Level depth work, Lessonspace mention.
 10. Q: `How does A-Level tutoring help with Russell Group offers?` / A: Concrete on the AAB/AAA/A*AA pressure points, evaluation-level work, AO3 marks.
-11. Q: `Can an A-Level tutor help with A-Level Sciences in {Location}?` / A: Yes, name the specific A2 content compounding A1 gaps, required practicals, mathematical demand.
+11. Q: `Can an A-Level tutor help with A-Level Sciences in {Location}?` / A: Yes, name the Year 13 content that builds on Year 12 gaps (A-Levels are linear: there is no A1 or A2), the practicals, mathematical demand.
 12. Q: `What if my child is retaking an A-Level?` / A: Different approach from first-attempt tutoring, focus on what went wrong and rapid technique work.
 13. Q: `Can A-Level tutoring help with degree apprenticeship applications in {Location}?` / A: Yes, name local employers, UCAS-points threshold work, application-window prep.
 14. Q: `How much does A-Level tutoring cost in {Location}?` / A: From £37 per hour, depends on tutor.
@@ -769,7 +769,7 @@ Pick 2-4 per page that match the city's character. A page that touches every pai
 - **Year 10 to Year 11 trajectory:** Predicted grades stuck below target, mock results dropping despite revision, grade boundaries pulling away in Maths and Sciences, parents not understanding why effort and grades don't match.
 - **Mock exam pain:** First November mocks landing harder than expected, January resits, March mocks setting the predicted grade for sixth-form applications, the difference between knowing content and writing it in 1h 30, students who can do practice papers calmly but freeze in the hall.
 - **Sixth-form entry pressure:** Conditional grade 6 in English and Maths for a chosen sixth form, grade 5 minimum for Level 3 college courses, grammar-school federations pushing for grade 7-9.
-- **Subject pain:** GCSE Maths: algebra, geometry, 9-mark problem-solving, paper 3 calculator timing. GCSE English: Language paper 1 source-based writing, Literature essay under timed conditions, unseen poetry. GCSE Sciences: required practicals, six-mark questions, calculations under pressure. GCSE History: source analysis, 16-mark essay. GCSE Geography: case studies, long-answer questions.
+- **Subject pain:** GCSE Maths: algebra, geometry, multi-step problem-solving, paper 3 calculator timing. GCSE English: Language paper 1 source-based writing, Literature essay under timed conditions, unseen poetry. GCSE Sciences: required practicals, six-mark questions, calculations under pressure. GCSE History: source analysis, 16-mark essay. GCSE Geography: case studies, long-answer questions.
 - **Confidence and identity:** Bright students who've decided they're "just not good at Maths", students who've stopped putting their hand up, students who think a grade 4 is a personal verdict.
 - **Practical / pace:** Class of 32, teacher dealing with disruption, supply teaching covering core topics, students embarrassed to ask the same question for the third time.
 
@@ -780,7 +780,7 @@ Pick 2-4 per page that match the city's character. A page that touches every pai
 - **Timed exam performance:** Students who finish practice papers calmly at home but run out of time in the exam, the 2h 30 endurance gap.
 - **UCAS pressure:** Predicted grades arriving below offers, Russell Group conditional offers requiring an A in a specific subject, Oxbridge and Medicine needing A* across the board, BBB vs AAB making the difference.
 - **Personal statement and interviews:** Generic Year 12 personal statements, Oxbridge interview prep, Medicine UCAT/BMAT pressure.
-- **Subject-specific A-Level pain:** A-Level Maths: pure/mechanics/statistics balance, Further Maths workload. A-Level Sciences: A2 content compounding A1 gaps, required practicals, organic chemistry mechanisms, mathematical demand in Physics. A-Level Economics: the 25-mark essay, evaluation depth, diagrams. A-Level Psychology: research methods, AO3 evaluation chains. A-Level History: 25-mark essay, source-based question.
+- **Subject-specific A-Level pain:** A-Level Maths: pure/mechanics/statistics balance, Further Maths workload. A-Level Sciences: Year 13 content building on Year 12 gaps, the practicals, organic chemistry mechanisms, mathematical demand in Physics. A-Level Economics: the 25-mark essay, evaluation depth, diagrams. A-Level Psychology: research methods, AO3 evaluation chains. A-Level History: 25-mark essay, source-based question.
 - **Confidence at the top end:** High-achieving students who've never had to work hard until A-Level, students whose teachers told them they'd be fine and now they're not.
 
 ### How to use the vocabulary
