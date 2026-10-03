@@ -5,7 +5,7 @@ date: 2026-08-05
 author: "Harry Godfrey"
 author_role: "Co-founder, The Degree Gap"
 category: "Parent Advice"
-excerpt: "Nobody can promise you a grade in ten hours. What we can do is explain what the independent research measures, what actually drives the timeline, and give honest ranges for the situations we see most."
+excerpt: "Nobody can promise you a grade in ten hours. But I can tell you what the independent research measures, what really sets the pace, and the rough ranges we see in the situations families bring to us most."
 hero_image: "/images/school-clock-tower-building.jpg"
 tags:
   - Parent Advice
@@ -20,41 +20,41 @@ related_links:
     description: "What the money buys, when tutoring works, and the cases where we tell families not to book."
 ---
 
-This is the question every parent wants answered before they commit, and it is the one the tutoring industry is worst at answering honestly. You will find plenty of sites offering a confident number. Be suspicious of all of them.
+It's the question almost every parent asks me before they commit, and it's the one the tutoring industry is worst at answering honestly. You'll find plenty of sites with a confident number. Be suspicious of all of them.
 
-Here is why, and then here is the most useful answer I can give you.
+Here's why. Then here's the most useful answer I can give you.
 
 ## Why there is no honest single number
 
-To say "X hours moves one grade" you would need a controlled study that took comparable students, gave them different amounts of one-to-one tuition, and measured GCSE or A-Level outcomes against a matched group who had none. That study does not exist at any useful scale in the UK, because private tutoring happens in people's homes, is paid for privately, and is not tracked.
+To say "X hours moves one grade", you'd need a proper controlled study. You'd take a group of similar teenagers and give them different amounts of one-to-one tuition. Then you'd compare their GCSE or A-Level results with a matched group who had none. That study doesn't exist at any useful scale in the UK. Private tutoring happens in people's homes, families pay for it themselves, and nobody tracks it.
 
-What does exist is research into one-to-one tuition delivered in schools. The Education Endowment Foundation reviews it and reports it as months of additional progress rather than grades. [Their finding is around five months of additional progress on average](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/one-to-one-tuition) across 123 studies, and importantly, **around four months at secondary level** against six at primary.
+What we do have is research into one-to-one tuition run in schools. The Education Endowment Foundation reviews it and reports the results as months of extra progress, not grades. [Their finding is around five months of additional progress on average](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/one-to-one-tuition) across 123 studies. And here's the bit that matters for you: **around four months at secondary level**, against six at primary.
 
-The EEF also flags that many of these studies were not independently evaluated, and that research run by providers themselves tends to report bigger effects. Any tutoring company quoting you its own internal grade-jump statistic is doing exactly the thing that caveat warns about.
+The EEF also points out that many of those studies weren't independently evaluated, and that research run by the providers themselves tends to report bigger effects. So if a tutoring company quotes you its own grade-jump figure, it's doing exactly what that warning is about.
 
-So "four months of additional progress at secondary" is the most defensible published figure. It is not a grade, and converting it into one requires assumptions nobody can properly justify.
+That leaves "four months of extra progress at secondary" as the most solid figure anyone's published. It isn't a grade. And turning it into one means making assumptions nobody can properly justify.
 
 ## What actually drives the timeline
 
-Rather than a number, these are the five factors that decide how long it takes. In our experience they matter far more than the hour count.
+Rather than a number, here are the five things that decide how long it takes. In our experience they matter far more than the hour count.
 
-**1. What kind of problem it is.** This is the biggest single factor, and the range is enormous.
+**1. What kind of problem it is.** This is the biggest single factor, and the spread is huge.
 
-- *Marks lost to technique* (misreading command words, under-answering long questions, running out of time) can shift in **four to eight sessions**. The knowledge is already there and it is being spent badly.
-- *A specific missing topic* (they never really got quadratics, or moles, or how to structure a source question) typically takes **six to twelve sessions** to fix and then bed in.
-- *Broad foundation gaps going back a year or more* is a **two to three term** job. There is no shortcut, and anyone offering one is selling.
+- *Marks lost to technique* (misreading what the question's asking for, writing too little on the long answers, running out of time) can shift in **four to eight sessions**. The knowledge is already there. It's just being spent badly in the exam.
+- *A specific missing topic* (they never really got quadratics, or moles, or how to structure a source question) usually takes **six to twelve sessions** to fix and then bed in.
+- *Broad foundation gaps going back a year or more* are a **two to three term** job. There's no shortcut, and anyone offering one is selling something.
 
-**2. Where they are starting.** Movement is not evenly spaced across the grades. Getting from a 2 to a 4 in Maths is usually about rebuilding basics, and there is a lot of ground to cover but the ground is well trodden. Getting from a 6 to a 7 is about precision and consistency. Getting from an 8 to a 9 can take longer than either, because the remaining marks are the hardest ones on the paper and there are very few of them.
+**2. Where they are starting.** Progress isn't evenly spaced across the grades. Getting from a 2 to a 4 in Maths is usually about rebuilding the basics. There's a lot of ground to cover, but it's well-trodden ground. Getting from a 6 to a 7 is about being precise and consistent. And getting from an 8 to a 9 can take longer than either. The marks that are left are the hardest ones on the paper, and there aren't many of them.
 
-**3. What happens in the other 167 hours of the week.** A student who does the homework their tutor sets will move perhaps twice as fast as one who does not. This is the single largest variable we see and it has nothing to do with the tutor.
+**3. What happens in the other 167 hours of the week.** If your child does the homework their tutor sets, they'll move perhaps twice as fast as a child who doesn't. It's the single biggest variable we see, and it's got nothing to do with the tutor.
 
-**4. How long is left.** Ten sessions in September do more than ten sessions in April, because there is time for the work to compound and for the student to apply it across mocks, assessments and class work.
+**4. How long is left.** Ten sessions in September do more than ten in April. There's time for the work to build on itself, and for your child to use it in mocks, school assessments and everyday classwork.
 
-**5. The match.** A student who gets on with their tutor does the homework. One who does not, does not. That is most of what "match matters" means in practice.
+**5. The match.** A child who gets on with their tutor does the homework. One who doesn't, doesn't. In practice, that's most of what "match matters" means.
 
 ## Realistic ranges, honestly labelled
 
-The table below is **not research**. It is what we typically see across the families we work with, and your child may sit outside it in either direction. I am including it because "it depends" is a useless answer, not because it is a promise.
+The table below **isn't research**. It's what we typically see across the families we work with, and your child might sit outside it in either direction. I've put it in because "it depends" is a useless answer, not because it's a promise.
 
 | Situation | Typical sessions to see clear movement | Notes |
 |---|---|---|
@@ -65,47 +65,47 @@ The table below is **not research**. It is what we typically see across the fami
 | Two grade bands | A full academic year | Real, but it needs starting in Year 10 or early Year 11. |
 | 8 to 9, or A to A* | 20+, highly variable | The last marks are the hardest and least predictable. |
 
-One of our reviews gives a real, unembellished example of the pace. Omo, a parent of a GCSE student, wrote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of working with Malvina, he has improved from a grade 5 to a 6/7."
+One of our reviews shows what that pace looks like, with nothing dressed up. Omo, a parent of a GCSE student, wrote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of working with Malvina, he has improved from a grade 5 to a 6/7."
 
-Six months, one grade band, from a starting point of genuine disengagement. That is a realistic picture of what good tutoring does, and it is a long way from the one-month transformations you see advertised.
+Six months. One grade band. And that's from a starting point where he'd switched off from the subject completely. It's a realistic picture of what good tutoring does, and it's a long way from the one-month turnarounds you see advertised.
 
 ## One hour a week, or block it up?
 
-Almost always, one hour a week over a longer period beats the same total hours crammed into a short block.
+Almost always, one hour a week over a longer stretch beats the same total hours crammed into a short block.
 
-The EEF's own summary of effective one-to-one delivery points the same way: **short, regular sessions over a set period** rather than occasional long ones. Their model is drawn from school interventions, but the underlying reason holds for private tutoring too. Learning needs gaps between sessions to consolidate, and it needs the student to attempt things alone and get them wrong before the next session.
+The EEF's own summary of what works in one-to-one tuition points the same way: **short, regular sessions over a set period** rather than occasional long ones. Their model comes from school programmes, but the reason behind it holds for private tutoring too. Learning needs gaps between lessons to settle in. Your child also needs to try things on their own, and get some of them wrong, before the next session.
 
-Twenty hours spread across two terms will beat twenty hours in the six weeks before the exam, most of the time, by a wide margin.
+Twenty hours spread across two terms will beat twenty hours in the six weeks before the exam most of the time, and by a wide margin.
 
-The exception is the genuine final run-in. In the last four to six weeks, intensive past-paper work under timed conditions does convert existing knowledge into marks efficiently. That is a different job from teaching, and it is the one thing that does respond to a short burst.
+The exception is the final run-in. In the last four to six weeks, doing plenty of timed past papers really does turn what your child already knows into marks, and quickly. That's a different job from teaching. And it's the one thing that responds well to a short burst.
 
 ## How to tell it is working before the grade arrives
 
-You should not have to wait until August to find out whether you wasted your money. Check at six weeks:
+You shouldn't have to wait until August to find out whether it's been worth the money. Check at six weeks:
 
-- Your child can explain what they are working on and why
-- The tutor has looked at a real recent paper or assessment, not just the syllabus
-- Homework is set, done and marked
-- Something has shifted in a school assessment, or in how willing they are to talk about the subject
+- Your child can tell you what they're working on and why
+- The tutor has looked at a real recent paper or school assessment, not just the syllabus
+- Homework gets set, done and marked
+- Something's shifted in a school assessment, or in how willing they are to talk about the subject
 
-Movement on those four is a better early signal than any grade prediction, because predictions lag actual improvement by a term.
+Movement on those four is a better early sign than any predicted grade, because predictions lag real improvement by a term.
 
 ## Frequently asked questions
 
 **Can you guarantee a grade?**
-No, and neither can anyone else. Any agency offering a grade guarantee is either defining "guarantee" very narrowly in the terms, or making a promise it cannot control, because the person sitting the exam is your child rather than the tutor.
+No, and nobody else can either. An agency offering a grade guarantee is either defining "guarantee" very narrowly in the small print, or promising something it can't control. It's your child sitting the exam, not the tutor.
 
 **Is two hours a week twice as fast?**
-No. Returns diminish and the risk of burnout rises, especially in Year 11 when they are already carrying a full timetable and revision. Two hours per subject makes sense in the run-up to mocks and exams, not as a default all year.
+No. The second hour does less than the first, and the risk of burnout goes up, especially in Year 11, when your child's already carrying a full timetable and their own revision. Two hours per subject makes sense in the run-up to mocks and exams. It isn't something to keep up all year.
 
 **We have eight weeks. Is it pointless?**
-Not pointless, but be clear about what it can do. Eight weeks is enough to fix technique, drill past papers and tighten timing, which is often worth several marks per paper. It is not enough to rebuild two years of missing content.
+No, but be clear about what it can do. Eight weeks is enough to fix technique, work through past papers and tighten up timing, and that's often worth several marks a paper. It isn't enough to rebuild two years of missing content.
 
 **Does starting earlier really matter that much?**
-Yes, more than almost anything else. The same twenty sessions do more work in September than in March. We wrote about the timing question separately in [when to start GCSE tutoring](/blog/when-should-my-child-start-gcse-tutoring/).
+Yes, more than almost anything else. The same twenty sessions do more in September than in March. We've written about timing separately in [when to start GCSE tutoring](/blog/when-should-my-child-start-gcse-tutoring/).
 
 **How do I know if the tutor is the problem or the hours are?**
-If there is no plan, no diagnostic and no marked homework, it is the tutor. If all three are in place and your child is not doing the work between sessions, it is not.
+Look for three things: a plan, a diagnostic (a first look at where your child's losing marks) and marked homework. If those aren't there, it's the tutor. If all three are there and your child isn't doing the work between sessions, the tutor probably isn't the problem.
 
 ## Sources
 
@@ -117,8 +117,8 @@ The session ranges in the table above are our own observed patterns, not publish
 
 ## Where The Degree Gap fits
 
-We are an online-only tutoring agency for GCSE and A-Level. The first thing we do on a free 30-minute call with Joe or me is work out which of the situations above you are actually in, because a technique problem and a foundations problem need very different commitments and very different amounts of your money.
+We're an online-only agency for GCSE and A-Level tutoring. The first thing Joe or I do on a free 30-minute call is work out which of the situations above your child is actually in. It matters, because a technique problem and a foundations problem need very different commitments. And very different amounts of your money.
 
-If it is the four-to-eight-session version, we would rather tell you that than sell you a year.
+If it's the four-to-eight-session version, we'd rather tell you that than sell you a year.
 
 [Book a free consultation call →](/book-a-call/)

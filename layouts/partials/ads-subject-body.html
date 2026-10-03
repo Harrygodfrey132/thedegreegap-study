@@ -212,15 +212,16 @@
         {{ $accents := slice "#F4B400" "#B07A6F" "#5A8A8B" "#9D6E72" "#8B7E66" "#C28A4A" }}
         {{ range $i, $r := . }}
         {{ $name := index (split $r.name " ") 0 }}
+        {{ $meta := partialCached "review-meta.html" (dict "name" $r.name "text" $r.text) $r.name (substr $r.text 0 40) }}
         <article class="lvls-review-card">
           <div class="lvls-review-card__avatar" style="background: {{ index $accents (mod $i 6) }};">
             <span>{{ substr $name 0 1 }}</span>
           </div>
           <h3 class="lvls-review-card__name">{{ $name }}</h3>
-          <p class="lvls-review-card__role">Verified five-star review</p>
+          <p class="lvls-review-card__role">{{ $meta.label }}</p>
           <p class="lvls-review-card__quote">"{{ replace (htmlEscape $r.text) "\n" "<br>" | safeHTML }}"</p>
           <p class="lvls-review-card__byline">{{ $r.role }}</p>
-          <span class="lvls-review-card__stars" aria-label="5 stars">★★★★★</span>
+          <span class="lvls-review-card__stars" aria-label="{{ $meta.rating }} out of 5 stars">{{ $meta.stars }}</span>
         </article>
         {{ end }}
       </div>
@@ -520,9 +521,9 @@
 </div><!-- /.ads-page -->
 
 {{ with $faqs }}
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{{ range $i, $f := . }}{{ if $i }},{{ end }}{"@type":"Question","name":{{ $f.q | jsonify }},"acceptedAnswer":{"@type":"Answer","text":{{ $f.a | jsonify }}}}{{ end }}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{{ range $i, $f := . }}{{ if $i }},{{ end }}{"@type":"Question","name":{{ $f.q }},"acceptedAnswer":{"@type":"Answer","text":{{ $f.a }}}}{{ end }}]}</script>
 {{ end }}
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","@id":{{ printf "%s#service" .Permalink | jsonify }},"name":{{ printf "%s Tutoring | The Degree Gap" $fullLabel | jsonify }},"description":{{ .Description | jsonify }},"url":{{ .Permalink | jsonify }},"provider":{"@type":"EducationalOrganization","name":"The Degree Gap","url":"https://thedegreegap.com"},"areaServed":{"@type":"Country","name":"United Kingdom"},"serviceType":"Online Tutoring","offers":{"@type":"Offer","priceCurrency":"GBP","price":"37"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","@id":{{ printf "%s#service" .Permalink }},"name":{{ printf "%s Tutoring | The Degree Gap" $fullLabel }},"description":{{ .Description }},"url":{{ .Permalink }},"provider":{"@type":"EducationalOrganization","name":"The Degree Gap","url":"https://thedegreegap.com"},"areaServed":{"@type":"Country","name":"United Kingdom"},"serviceType":"Online Tutoring","offers":{"@type":"Offer","priceCurrency":"GBP","price":"37"}}</script>
 
 {{ partial "reviews-drawer.html" . }}
 {{ partial "ads-tracking.html" . }}

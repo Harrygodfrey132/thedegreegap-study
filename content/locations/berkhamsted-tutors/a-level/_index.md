@@ -1,41 +1,41 @@
 ---
 title: "Berkhamsted A-Level Tuition | From £37/hr"
-description: "A-Level tutors for Berkhamsted sixth formers, one-to-one and online over Lessonspace, on the Year 12 and 13 work predictions rest on. From £37 an hour."
+description: "Berkhamsted A-Level tutors for the Year 12 work predicted grades are built on. One-to-one online lessons, each with a replay. From £37 an hour, no contract."
 layout: "subject"
 location: "Berkhamsted"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutoring for Berkhamsted Sixth Formers Before the Predicted Grades Are Written"
+hero_heading_line1: "Online A-Level Tutoring in Berkhamsted, Before Your Child's Predicted Grades Are Written"
 hero_heading_line2: ""
-hero_lead: "Staying at the same school for sixth form keeps the corridors familiar, but the subjects change underneath a student within weeks. Our Berkhamsted A-Level tutors work one-to-one online over Lessonspace on what A-Level asks for that GCSE never did."
+hero_lead: "If your child's stayed on at the same school for sixth form, the corridors feel familiar. The subjects don't, and it shows within weeks. Our Berkhamsted A-Level tutors teach what A-Level asks for that GCSE never did, one-to-one and online using the platform Lessonspace."
 
 grade_from: "E"
 grade_to: "C"
-grade_stat: "One parent describes a son who left revision late turning E and U grades into three Cs."
+grade_stat: "Leaving revision very late didn't stop one parent's son turning E and U grades into three Cs."
 
 first_lesson_eyebrow: "SAME SCHOOL, DIFFERENT SUBJECT"
 first_lesson_heading: "What a Berkhamsted A-Level Tutor Looks at in Year 12"
-first_lesson_context: "Plenty of Berkhamsted sixth formers are in the building they have known since eleven, so nobody expects a jolt. Then the first assessments come back. The teachers are the same and the subject is not: fewer prompts, longer answers, marks for judgement rather than recall. We read that first marked piece and teach the new habit it is asking for."
+first_lesson_context: "Plenty of Berkhamsted sixth formers are in the building they've known since they were eleven, so nobody's expecting a jolt until the first assessments come back. Same teachers, different subject: fewer prompts, longer answers, and marks for judgement rather than memory. The tutor reads your child's first marked piece and teaches the habit it's asking for."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades to three Cs"
 
-tutor_strip_heading: "Berkhamsted A-Level tutors who know the specification inside out"
-tutor_strip_body: "Sixth formers at Ashlyns, Berkhamsted School and Tring School are spread across different boards, and at A-Level the specification shapes almost every hour. Many tutors on our platform sat these papers recently, and some have examined them. Sessions are one-to-one and online, on Lessonspace. Ask for two profiles and compare."
+tutor_strip_heading: "Berkhamsted A-Level tutors who know your child's exam board"
+tutor_strip_body: "Ashlyns, Berkhamsted School and Tring School don't all use the same exam boards, and at A-Level the board shapes nearly every lesson. Many of our tutors sat these papers recently, and some have examined them. Ask us for two or three profiles and compare."
 
 pathways_heading: "What Berkhamsted Sixth Formers Do Next"
 pathways_lead: "Three directions, with deadlines that fall at different points of Year 13."
 pathways:
   - title: "Universities"
     body: >
-      With Euston a little over half an hour away, the London universities sit within a daily commute, and the University of Hertfordshire at Hatfield is a short drive east. Offers wherever a student applies are made on predicted grades, written from Year 12 work and the early part of Year 13.
+      Euston's a little over half an hour away, so the London universities are within a daily commute, and the University of Hertfordshire at Hatfield is a short drive east. Wherever your child applies, offers are made on predicted grades, written from Year 12 work and the start of Year 13.
   - title: "Degree Apprenticeships"
     body: >
-      The University of Hertfordshire runs higher and degree apprenticeships with more than 250 employer partners, in areas such as data science, civil engineering, accounting and radiography. Each employer publishes its own entry grades, and applications often close ahead of the January UCAS deadline.
+      The University of Hertfordshire runs higher and degree apprenticeships with more than 250 employers, in areas like data science, civil engineering, accounting and radiography. Each employer sets its own entry grades, and it's worth knowing that applications often close before the January UCAS deadline.
   - title: "Career Pathways"
     body: >
-      The Maylands area in Hemel Hempstead employs over 20,000 people across logistics, technology and firms such as the British Standards Institution. West Hertfordshire Teaching Hospitals NHS Trust recruits across its three hospital sites, and the West Coast Main Line puts central London employers within reach.
+      If your child wants to go straight into work, Maylands in Hemel Hempstead employs over 20,000 people in logistics, technology and firms like the British Standards Institution. And West Hertfordshire Teaching Hospitals NHS Trust recruits across its three hospitals, with central London employers a train ride away on the West Coast Main Line.
 
 reviews:
   - "Leo|A-Level Student|The Degree Gap tutored me throughout my A level journey and helped boost my grades to the highest grades. The flexibility of timing was the most helpful thing. My tutor, Harry, found time whenever I needed him to help me on any topic. This involved question run through, marking of questions and general support throughout my 2 years of studying. Overall, the degree gap gave me excellent tutoring over a flexible time period."
@@ -49,14 +49,14 @@ reviews:
   - "Cat|Parent of A-Level Student|My 18 year old son had A-level Economics tutoring with Harry.  He was excellent, knew exactly what he needed to learn and was able to explain in terms which made it simple to understand.  The online platform was convenient and easy to use."
   - "Lucas|A-Level Student|I was having trouble with some areas of my economics a level course before getting in contact with Harry. He walked me through everything I needed help with, from content I was weak with to exam technique that I was lacking. His insight, examples and willingness to go the extra step really helped me to regain my confidence in economics, having achieved a predicted a* with his help."
 
-faq_1_q: "When is the best point in sixth form to start A-Level tutoring?"
-faq_1_a: "Early in Year 12. The predicted grades universities see are written from Year 12 work and the first assessments of Year 13, and they are sent in the autumn, so hours in the first two terms of sixth form count towards both the application and the final exam. Starting in Year 13 can still lift a result, and many families begin then. By that stage, though, offers tend to be made already, and the work becomes catching up rather than building."
-faq_2_q: "Can tutoring change what school predicts?"
-faq_2_a: "It can change what the prediction is based on. Schools predict from assessed work, mocks and teacher judgement, so a tutor goes through the marked scripts, works out which kinds of question are costing marks and practises those under timed conditions before the next assessment. It also gives you something concrete to raise at parents' evening. Expect weeks rather than days, which is why the spring of Year 12 is more useful than the autumn of Year 13."
-faq_3_q: "He got strong GCSEs and is finding Year 12 hard. Is something wrong?"
-faq_3_a: "Very rarely. GCSE papers reward knowing the content and recognising what a question wants, and a capable student gets very good at both. A-Level questions stop pointing the way. Marks move into explanation, analysis and evaluation, and papers run longer. Students who did well by recognising patterns tend to feel the change most, and it can knock their confidence. What helps is practice at choosing an approach on unfamiliar questions, not a pile of extra notes."
+faq_1_q: "When's the best time in sixth form to start A-Level tutoring?"
+faq_1_a: "Early in Year 12, if you can. The predicted grades universities see are written from Year 12 work and the first assessments of Year 13, and they're sent in the autumn. So lessons in the first two terms of sixth form count twice, towards the application and the final exam. Plenty of families start in Year 13, and it can still lift a result. But by then the predictions are usually written, so it's catching up rather than building."
+faq_2_q: "Can tutoring change what the school predicts?"
+faq_2_a: "Not directly, but it can change what the prediction's based on. Schools predict from assessed work, mocks and teacher judgement. So a tutor goes through your child's marked work, finds the kinds of question that are costing marks, and practises those under timed conditions before the next assessment. You'll also have something concrete to raise at parents' evening. It takes weeks rather than days, which is why the spring of Year 12 beats the autumn of Year 13."
+faq_3_q: "He got strong GCSEs and he's finding Year 12 hard. Is something wrong?"
+faq_3_a: "Very rarely. GCSE papers reward knowing the content and spotting what a question wants, and a capable teenager gets very good at both. A-Level questions don't point the way like that. More of the marks go on explaining, analysing and weighing things up, and the papers run longer. Bright children who did well by spotting patterns often feel it most, and it can knock their confidence. What helps is practice at choosing an approach on unfamiliar questions, not a pile of extra notes."
 faq_4_q: "Can you help with a degree apprenticeship application alongside A-Levels?"
-faq_4_a: "Yes. Degree apprenticeships through the University of Hertfordshire and roles with employers around Maylands and the West Herts hospitals each set their own entry grades, and their deadlines often land before the UCAS one. Tutors work online on the grades that get an application considered, while Harry and Joe talk families through timing, written answers and keeping a university application running in parallel. Mention on the first call if both routes are in play."
+faq_4_a: "Yes. Degree apprenticeships through the University of Hertfordshire, and jobs with employers around Maylands and the West Herts hospitals, each set their own entry grades, and their deadlines often land before the UCAS one. Your child's tutor works on the grades that get an application considered. Harry and Joe can talk you through the timing, the written answers and keeping a university application going alongside. Just mention on the first call if both routes are in play."
 
 sitemap:
   priority: 0.7

@@ -1,41 +1,41 @@
 ---
 title: "Welwyn Garden City GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "Welwyn Garden City GCSE tutors who rebuild the topic behind a stalled grade. One-to-one online tutoring, from £37 an hour."
+description: "Welwyn Garden City GCSE tutors who trace lost marks back to the topic that never stuck, then rebuild it. Online one-to-one lessons from £37 an hour."
 layout: "subject"
 location: "Welwyn Garden City"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors Supporting Welwyn Garden City Students"
+hero_heading_line1: "Online Welwyn Garden City GCSE Tutors Who Rebuild the Topic That Never Stuck"
 hero_heading_line2: ""
-hero_lead: "Most subjects let a weak topic sit quietly until an exam finds it. Our Welwyn Garden City GCSE tutors go looking for it first, using a real paper rather than a feeling."
+hero_lead: "'I'm just no good at it.' If you've heard that at home, it often traces back to one Year 9 topic that never went in. Welwyn Garden City GCSE tutors find it first and rebuild it, online and one-to-one."
 
 grade_from: "5"
 grade_to: "6/7"
-grade_stat: "A real GCSE English move from a grade 5 to a 6/7, after six months of weekly one-to-one tutoring."
+grade_stat: "English went from a grade 5 up to 6/7 for Omo's son, over six months of lessons. Omo's review is further down."
 
-first_lesson_eyebrow: "THE TOPIC NOBODY WENT BACK FOR"
-first_lesson_heading: "Why One Weak Block Can Cost a Grade Two Years Later"
-first_lesson_context: "School moves forward whether or not everybody came with it. A topic taught in Year 9 that half the class did not quite get is not retaught, because the scheme of work has somewhere else to be, and in most subjects that gap stays invisible until a paper asks about it. By Year 11 the student has stopped thinking of it as a gap and started thinking of it as a thing they are bad at. Finding it takes a marked paper and about twenty minutes."
+first_lesson_eyebrow: "IT OFTEN STARTS IN YEAR 9"
+first_lesson_heading: "Why a Welwyn Garden City GCSE Tutor Might Start With Year 9 Work"
+first_lesson_context: "Lessons have to keep moving, so when a Year 9 topic doesn't quite land for your child, there's rarely time to go back. By Year 11 it doesn't feel like a gap any more, just something they're 'bad at'. With a marked mock in front of them, a GCSE tutor can usually find it in about twenty minutes."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to Grade 6/7 in English"
 
-tutor_strip_heading: "Welwyn Garden City GCSE tutors matched on the specification, not on availability"
-tutor_strip_body: "Students at Monk's Walk, Sir Frederic Osborn, Stanborough and The Heathcote are not all on the same board, so we confirm the specification before proposing anyone. Each tutor clears a founder-led interview that about 3% of applicants pass. Browse the profiles, or let us match your child."
+tutor_strip_heading: "Welwyn Garden City GCSE tutors who don't mind going back"
+tutor_strip_body: "Exam boards vary between Monk's Walk, Ridgeway Academy and Stanborough, so we'll ask about your child's. Only about 3% of tutors who apply get onto the platform. Look through the profiles yourself, or we'll suggest two or three."
 
-pathways_heading: "Where GCSEs Take Welwyn Garden City Students Next"
-pathways_lead: "Three routes families across the town weigh up once results arrive."
+pathways_heading: "Welwyn Garden City at 16: Three Ways Forward"
+pathways_lead: "The good news is that none of them is far from home."
 pathways:
   - title: "Sixth Forms"
     body: >
-      Several schools in and around Welwyn Garden City run their own sixth forms, with more in Hatfield and St Albans. Each publishes its own entry requirements and revises them between years, with A-Level courses generally asking for a grade in the subject a student wants to carry on.
+      Your child could choose one of several sixth forms in and around Welwyn Garden City, or look at others in Hatfield and St Albans. Each publishes its own entry grades, and the subject they want to carry on with usually has its own bar too.
   - title: "Apprenticeships"
     body: >
-      The large employers headquartered in and around the town run school-leaver and degree apprenticeship schemes, each publishing its own entry requirements which change between intakes. Maths and English are named in nearly all of them, and most ask for a written application alongside the grades.
+      Some of the large employers with headquarters in and around the town recruit school leavers, and what they ask for can change between intakes. Most want to see Maths and English, and your child will usually need to fill in an application too.
   - title: "Further Education"
     body: >
-      Oaklands College carries much of the Level 3, T Level and vocational provision locally. A confident grade 4 or 5 in Maths and English opens the majority of those courses, and GCSE resits are a common route in for students who did not get there first time.
+      Locally, a lot of the T Levels and hands-on courses are run by Oaklands College. Your child will usually need a 4 or 5 in Maths and English, and a resit alongside the course is common for anyone who falls short first time.
 
 reviews:
   - "Heidi|Parent|Emir, is simply amazing with our daughter. He 'gets' her totally, her sessions are helping her with her school work so much. We can't thank him enough ! Harry and Joe are always on hand should you need anything. Degreegap is an excellent company to work with, lots of excellent tutors avaliable to teach different subjects, great availability, very reasonably priced. Would highly recommend."
@@ -49,14 +49,14 @@ reviews:
   - "Gaming|Parent|Excellent presentation. Clear and very informative. I would highly recommend all parents take a look."
   - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. We opted for Avery and she was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back in her abilities and gave her the confidence to face Maths GCSE exams. Highly recommend Degree Gap and will be back again in September with my youngest embarking on her GCSEs"
 
-faq_1_q: "How do we find the gap if my child cannot say what they are stuck on?"
-faq_1_a: "Most students cannot, which is normal rather than unhelpful. If they could name it they would probably have fixed it. The way through is a marked paper: where the lost marks cluster tells you whether this is a content gap, a timing problem or an answer-writing habit, and those three need different terms of work. That is what the first session does, and it is why we ask for a mock rather than a report when you get in touch."
-faq_2_q: "Is Year 10 or Year 11 the better time to start?"
-faq_2_a: "Year 10 where you have the choice. The content steps up and the gaps that open are still small enough to close quickly, whereas left for a year they compound and then surface together in a mock. Year 11 still works and plenty of families begin there, but the plan narrows towards exam technique and past papers rather than teaching anything properly from the beginning."
-faq_3_q: "Do you match on the exam board?"
-faq_3_a: "Yes, and it is the first thing confirmed rather than a detail settled later. Schools around Welwyn Garden City and Hatfield use different boards, and they differ in how questions are worded, how practicals are examined and which formulae are printed rather than memorised. A tutor who knows your child's specification is working properly inside ten minutes; one who does not spends the first few sessions catching up at your expense."
-faq_4_q: "What if the tutor is not right for my child?"
-faq_4_a: "Tell us and we re-match at no charge. Every family speaks with Harry or Joe before a tutor is proposed, and there is a free 15-minute video meeting before any paid session, so most mismatches are caught before they cost anything. At fifteen the way somebody explains a thing matters as much as whether they know it, and that is hard to judge from a profile. No contract, no minimum term."
+faq_1_q: "My child can't tell me what they're stuck on. How will a tutor find it?"
+faq_1_a: "A recent marked mock usually does the talking instead. Lots of children can't put it into words, and if they could, they'd probably have fixed it by now. Where the lost marks bunch up shows whether it's a topic that never went in or something more about exam technique, and those need different plans. That's the first lesson's job, and it's why we'll ask you for a mock rather than a report when you first get in touch."
+faq_2_q: "Isn't Year 10 a bit early for a tutor?"
+faq_2_a: "Not at all, and it's often the best time to start. The work steps up in Year 10, but any gaps are still small and quick to close. Leave them a year and they tend to stack up, then show all at once in a mock. Year 11 works too, and lots of families start then. You'll just find the plan tilts towards past papers, with less time to go right back to basics."
+faq_3_q: "Is the tutor matched to my child's board?"
+faq_3_a: "Yes. It's one of the first things we'll ask, because schools around Welwyn Garden City and Hatfield are split between boards. Each board words its questions in its own way, and the mark schemes differ too. So every tutor we suggest will already know your child's board, and the first lesson is spent on your child rather than on the tutor catching up."
+faq_4_q: "Can we swap tutors if it's not working?"
+faq_4_a: "Yes, at any point, and it won't cost you anything. We'll simply line up someone new. A mismatch usually shows up early. You speak to Harry or Joe before we suggest anyone, and your child tries the tutor out on a free 15-minute video meeting before you pay for a lesson. But a profile can only tell you so much, and at fifteen the way someone explains things really matters. You're not tied in, either. No contract, no minimum term."
 
 sitemap:
   priority: 0.7

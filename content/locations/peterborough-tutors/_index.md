@@ -1,38 +1,21 @@
 ---
 title: "Peterborough Tutoring | GCSE & A-Level Tutors"
-description: One-to-one Peterborough tutoring for Maths, English, Sciences and
-  more. Expert tutors, flexible online lessons and proven academic results.
+description: Peterborough tutors who go back to the older topic holding your child
+  back, then build forward. Online, one-to-one, for GCSE and A-Level, from £37 an
+  hour.
 layout: single
 location: Peterborough
-banner_heading: "Looking for an online GCSE or A-Level tutor in Peterborough?"
-banner_description: Our Peterborough tutors find the gaps that classroom
-  teaching can't catch and rebuild from the right point, so students walk into
-  exams knowing what they're doing.
-content_angle: foundation gaps
-intro_1: Peterborough is a fast-growing city on the East Coast Main Line, with a
-  school population that's expanded faster than its school places. The King's
-  School, founded in 1541, sits at one end of the academic picture, but most
-  students in the city sit in large state secondaries where class sizes are
-  tight and pace is set by the middle of the room. GCSE attainment across
-  Peterborough has sat below the national average for a number of years, and the
-  pattern most tutors meet isn't an ability problem. It's a Year 7 or 8
-  foundation that quietly cracked and never got patched.
-intro_2: That's exactly what private tuition is built to fix. Our Peterborough
-  tutors work one-to-one with students to trace where the gap actually started,
-  not the topic on this week's worksheet but the earlier idea the student never
-  properly secured. One-to-one tutoring gives students the time and attention a
-  class of thirty can't, and most Peterborough families notice the shift in
-  confidence before they see it in the marks. Sessions stay focused. No filler.
-  No generic revision plans.
+banner_heading: "Online Peterborough GCSE and A-Level Tutors Who Find the Gap First"
+banner_description: If your child gets partway into a paper and stalls at the same
+  kind of question every time, there's usually an older topic underneath. Our tutors
+  find it and rebuild from there.
+content_angle: 'foundation gaps: an older topic nobody had time to revisit in a busy
+  class, and the college entry grades ahead'
+intro_1: "Maybe it's Maths homework where the easy-looking questions are the ones left blank. Maybe your child has started saying they're 'just not good at' a subject they used to like. We hear some version of this from plenty of Peterborough parents, and it rarely comes down to effort or ability. The city has grown fast, and its school population has risen faster than its school places. So classrooms are busy, and the pace is set for the middle of the room. If one topic didn't land in Year 7 or 8, there often wasn't a moment to go back for it."
+intro_2: "A tutor has time to go back for it. In the first lesson they'll look at a recent test or piece of homework and follow the mistakes back to where they start. It might be negative numbers, or a bit of algebra from two years ago. That's where the tutoring begins, even if it feels like a step backwards with GCSEs or A-Levels coming up. Once the old gap is filled, this term's topics tend to make far more sense."
 about_heading: Trusted Tutors for Peterborough Students
 about_image: /images/students-in-classroom-taking-notes.jpg
-schools_intro: Our tutors work with students from secondary schools right across
-  Peterborough. Hampton College, Jack Hunt School, Thomas Deacon Academy, Nene
-  Park Academy, Ormiston Bushfield Academy and The King's School all send
-  students our way, whether they're catching up on missed foundations, preparing
-  for GCSE mocks, or working towards the entry grades Peterborough Regional
-  College and New College Stamford require. We also run workshops on exam
-  technique and revision strategy, open to students from any local school.
+schools_intro: "We work with families from schools across Peterborough, including Hampton College, Jack Hunt, Thomas Deacon Academy, Nene Park Academy, Ormiston Bushfield and The King's School. If your child is hoping for a place at Peterborough College or Stamford College, it helps to know early which grades their course asks for. Then there's time to work towards them. Harry and Joe run workshops on exam technique and revision in schools, too. And at the moment we work directly with more than 15 UK secondary schools."
 schools:
   - Hampton College
   - Jack Hunt School
@@ -41,25 +24,13 @@ schools:
   - Ormiston Bushfield Academy
   - The King's School Peterborough
 schools_image: /images/aerial-school-campus-building.jpg
-online_heading: "Online tuition for Peterborough students: the right specialist,
-  wherever they are"
-online_1: Most of our online tutoring with Peterborough students runs through
-  Lessonspace, a platform built around a shared interactive whiteboard for
-  one-to-one sessions. Students don't lose time travelling across the city, and
-  families aren't limited to whoever happens to live nearby. If a student needs
-  a specialist in A-Level Chemistry, GCSE English Language or Computer Science,
-  we pull from a national pool of online tutors and match on subject knowledge,
-  exam board, and the way a student learns best.
-online_2: For students with foundation gaps, online tuition often works better
-  than parents expect. There's no unfamiliar room. No new face across a table.
-  Students settle faster and ask the questions they wouldn't ask in front of a
-  classroom. And the tutor can quietly go back as far as the gap requires, with
-  no peers watching. That part matters more than people realise.
+online_heading: "Nobody watching while your child goes back a step: online tuition for Peterborough"
+online_1: "We use an online platform called Lessonspace, where there's one whiteboard for your child and the tutor to write on. For a child who's fallen behind, that privacy counts for a lot. Nobody else is watching when they go back over something from Year 7. And they can ask the question they'd never ask in front of thirty classmates. Every lesson is recorded, too, so a method can be rewatched as many times as it takes."
+online_2: "Online also opens up the whole country. Rather than whoever lives nearest, we can suggest tutors from anywhere in the UK who teach the board your child is sitting. Just as important, they're good at slowing down and rebuilding, which is a skill of its own. And lessons fit around work and tea, because nobody has to get anywhere or sit in traffic on the way home."
 online_image: /images/child-using-online-learning-laptop.jpg
 map_url: https://maps.google.com/maps?q=Peterborough,UK&output=embed
-areas_intro: Because most of our tuition is online, students in Peterborough and
-  nearby areas can access the right subject specialist without being limited by
-  geography.
+areas_intro: Lessons happen online, so families outside Peterborough can reach us
+  just as easily, including from the towns and cities listed below.
 area_links:
   - Cambridge Tutors|/locations/cambridge-tutors/
   - Leicester Tutors|/locations/leicester-tutors/
@@ -68,133 +39,62 @@ area_links:
   - St Albans Tutors|/locations/st-albans-tutors/
   - Derby Tutors|/locations/derby-tutors/
 gcse_subjects:
-  - GCSE Biology Tuition|Clear, step-by-step tuition through the full GCSE
-    specification for students who find the volume of content harder to handle
-    than the concepts themselves.|/book-a-call/
-  - GCSE Maths Tuition|Targeted one-to-one work that traces the gap back to
-    where it actually started, so students stop getting stuck at the same point
-    every paper.|/book-a-call/
-  - GCSE Computer Science Tuition|Patient sessions through programming,
-    algorithms and Boolean logic for students who want their coursework and
-    written paper to feel like the same subject.|/book-a-call/
-  - GCSE English Tuition|Calm, methodical support across Language and Literature
-    for students who find the exam unpredictable and want a method they can
-    actually trust.|/book-a-call/
-  - GCSE History Tuition|Help with source skills, essay structure and extended
-    argument for students who know the content but can't yet turn it into
-    marks.|/book-a-call/
-  - GCSE French Tuition|Structured, patient tutoring across all four skills for
-    students who lost their footing with the language early and want to feel in
-    control of it again.|/book-a-call/
-  - GCSE Chemistry Tuition|One-to-one work through bonding, equations and rates
-    for students who need the abstract bits made concrete before they'll
-    stick.|/book-a-call/
-  - GCSE Physics Tuition|Support through forces, waves and electricity built
-    around exam questions, not just textbook theory in isolation.|/book-a-call/
-  - GCSE Geography Tuition|Case study revision, data response and the six-mark
-    question, with tutoring that turns knowledge into actual exam
-    marks.|/book-a-call/
+  - "GCSE Biology Tuition|When the sheer amount to learn is the problem, the tutor breaks it into small pieces and checks each one sticks.|/book-a-call/"
+  - "GCSE Maths Tuition|Mistakes traced back to the year they begin, then rebuilt so the same type of question stops going wrong.|/book-a-call/"
+  - "GCSE Computer Science Tuition|Programming and the written paper linked together, for a child who follows the code in class but freezes writing it alone.|/book-a-call/"
+  - "GCSE English Tuition|A simple, repeatable way to plan answers for Language and Literature, so the exam stops feeling impossible to prepare for.|/book-a-call/"
+  - GCSE History Tuition|Practice at building an argument one paragraph at a time, when
+    your child knows the history but can't yet turn it into marks.|/book-a-call/
+  - "GCSE French Tuition|Back to the basic verbs and sentence patterns from Years 7 and 8, so speaking and writing stop relying on luck.|/book-a-call/"
+  - GCSE Chemistry Tuition|Abstract ideas like bonding and moles made concrete with
+    diagrams and worked examples, then practised until your child can do them unaided.|/book-a-call/
+  - GCSE Physics Tuition|The maths inside Physics, like rearranging and units, fixed
+    first, so questions on forces and electricity stop falling apart halfway.|/book-a-call/
+  - GCSE Geography Tuition|Data questions and case studies taken step by step, with
+    a way of setting out six-mark answers your child can use every time.|/book-a-call/
 alevel_subjects:
-  - A-Level Psychology Tuition|Methodical one-to-one support through research
-    methods and evaluation writing for students who want to write with
-    precision, not just at length.|/book-a-call/
-  - A-Level Maths Tuition|Focused tutoring across pure, statistics and mechanics
-    for students who want to stay ahead of the content before Year 13 makes it
-    unmanageable.|/book-a-call/
-  - A-Level Economics Tuition|Support through micro, macro and evaluation
-    writing for students who want Economics to be a genuine strength, not a
-    guess on results day.|/book-a-call/
-  - A-Level English Tuition|Help developing critical analysis and essay writing
-    at A-Level, for students who want to understand what markers actually reward
-    at this standard.|/book-a-call/
-  - A-Level Biology Tuition|In-depth support through genetics, physiology and
-    ecology for students who need more time on the material than a shared
-    classroom can give them.|/book-a-call/
-  - A-Level Chemistry Tuition|Clear, step-by-step tuition through organic,
-    inorganic and physical chemistry for students who need to build real
-    understanding, not just enough to scrape the next mock.|/book-a-call/
-  - A-Level History Tuition|Help with the analytical essay writing A-Level
-    History demands, for students who find the jump from GCSE sharper than they
-    expected.|/book-a-call/
-  - A-Level Physics Tuition|Patient, exam-board-aware tuition through mechanics,
-    fields and quantum topics for students who find the gap between
-    understanding and answering wider than it should be.|/book-a-call/
-  - A-Level Geography Tuition|Advanced concept work, fieldwork analysis and
-    extended writing, with tutors who pitch sessions at whatever level the
-    student is sitting at to see.|/book-a-call/
+  - "A-Level Psychology Tuition|Research methods rebuilt from the basics, since they trip up a lot of Year 12s, then evaluation practised until it's sharp.|/book-a-call/"
+  - A-Level Maths Tuition|The GCSE algebra that A-Level quietly relies on, checked and
+    repaired early, before Year 13 content piles on top of it.|/book-a-call/
+  - A-Level Economics Tuition|Micro and macro explained in plain English first, then
+    diagrams and evaluation built up so exam answers stop feeling like a guess.|/book-a-call/
+  - "A-Level English Tuition|Patient help for a child who enjoys the set texts but isn't sure what an A-Level essay is marked on.|/book-a-call/"
+  - A-Level Biology Tuition|Extra time on genetics, physiology and ecology, going over
+    each topic as many times as your child needs before it sticks.|/book-a-call/
+  - "A-Level Chemistry Tuition|Organic, inorganic and physical chemistry rebuilt from the GCSE ideas they depend on, so understanding comes first.|/book-a-call/"
+  - A-Level History Tuition|Help turning GCSE-style answers into the longer arguments
+    A-Level History rewards, working from your child's own essays.|/book-a-call/
+  - "A-Level Physics Tuition|Mechanics, fields and quantum, with the maths behind them made secure, so what makes sense in a lesson makes it onto the paper.|/book-a-call/"
+  - A-Level Geography Tuition|Fieldwork, data skills and extended writing, pitched at
+    wherever your child is starting from and built up gradually, week by week.|/book-a-call/
 other_subjects:
-  - University Personal Statement|Shape a strong UCAS personal statement with
-    expert support on structure, subject motivation, and final
-    polish.|/book-a-call/
-faq_1_q: Can you support students who have fallen significantly behind?
-faq_1_a: Yes. A lot of the students we work with in Peterborough have gaps
-  stretching back a year or more. We start by working out exactly where things
-  went wrong, not just picking up from where school left off. Then we build a
-  plan around that.
-faq_2_q: How quickly can tuition start in Peterborough?
-faq_2_a: Usually within a few days of getting in touch. Once we know the
-  subject, year group and what the student needs, we move quickly. No long
-  waiting lists.
-faq_3_q: Do you offer online tutoring for students in Peterborough?
-faq_3_a: Yes, and it's how most of our sessions run. Students get access to a
-  wider pool of tutors, sessions are easier to keep consistent week to week, and
-  most students concentrate better one-to-one online than they do in a
-  classroom. It works well.
-faq_4_q: My child is struggling with confidence. Can you help?
-faq_4_a: Yes, and it's more common than people think. A lot of the students we
-  work with in Peterborough aren't short of ability. They've just hit a rough
-  patch and stopped believing in themselves. The right tutor makes a real
-  difference to that, often faster than families expect.
-why_heading: Why Peterborough families choose our tutoring
-why_para_1: What tutors notice in a first session with a Peterborough student
-  isn't usually a lack of effort. It's a student who's been working on the wrong
-  thing. Recall is fine. Definitions are fine. But somewhere underneath, a Year
-  8 fractions method or a Year 9 algebra rule was never properly drilled, and
-  every harder question that depends on it falls apart. Those gaps don't show up
-  on a class test. They just mean the student gets to a certain point on a paper
-  and freezes.
-why_para_2: Our tutors go back and find the actual break point, not the topic on
-  this week's sheet but the earlier idea that's pulling the marks down. For
-  students aiming at the GCSE grades Peterborough Regional College and local
-  sixth forms now require, that precision matters. A student labelled a grade 4
-  isn't always a grade 4 student. They might be a grade 6 student with one
-  stubborn gap. GCSE tutoring sessions are built around closing it, and most
-  parents notice the change in how their child talks about the subject before
-  the mark on the next mock catches up.
-accordion_quality: Every tutor working with Peterborough students is assessed on
-  subject knowledge and on how patiently they can rebuild from a difficult
-  starting point. For students with foundation gaps, a tutor who can go back
-  without making the student feel small is worth more than one who simply knows
-  the content cold.
-accordion_experience: Our tutors have worked with students carrying real gaps in
-  their foundations, not just polish-before-exams cases. They know how to
-  identify where the gap started, and how to close it without making the student
-  feel like they're back in primary school.
-accordion_personalised: We don't start with a topic list. We start by working
-  out what's actually missing. For a Peterborough student where a single
-  foundation gap is dragging everything else down, finding that gap is the whole
-  tutoring job.
+  - University Personal Statement|Help with a UCAS personal statement when your child
+    isn't sure what to say, starting with a chat rather than a blank page.|/book-a-call/
+faq_1_q: My child is a long way behind now. Is it too late to catch up?
+faq_1_a: "Almost never. It feels overwhelming because it's all tangled together. But when a tutor pulls it apart, there are usually only a handful of old topics causing most of the trouble. They start with those, at a pace your child can manage, and the rest gets easier as each one's fixed."
+faq_2_q: How quickly can my child get started with a tutor?
+faq_2_a: Two or three tutor profiles reach you within 24 hours of a free call with
+  Joe or Harry. Your child meets one on a free video call, then lessons are from £37,
+  no contract.
+faq_3_q: Does online tutoring work for a child who's already struggling?
+faq_3_a: "Often better than parents expect. The tutor sees each line of working as it appears on the whiteboard. So they can spot exactly where a method goes wrong, not just the wrong answer at the end. Most children feel at home with it within a lesson or two."
+faq_4_q: My child has lost confidence. Can a tutor help with that?
+faq_4_a: "Yes, and it's usually one of the first things to change. Once the old gaps start closing, your child gets questions right that they'd have skipped a month earlier. That does more for confidence than any pep talk. You may notice it in how they talk about school before any mark changes."
+why_heading: Peterborough tutoring that starts a step back
+why_para_1: "GCSE Maths assumes a lot. It expects a Year 10 to be comfortable with fractions and rearranging, and it builds everything else on top. If your child missed either of those in Year 7 or 8, every new topic that leans on it wobbles. It looks as if they're bad at the new topic. They aren't. In a first lesson, tutors often find a child who can do the hard part of a question and trips on the easy step underneath."
+why_para_2: "So the tutor fixes the step underneath first. That might mean a few weeks on fractions with a Year 11, which can feel odd with mocks coming. But it's quicker in the end than practising exam questions that keep falling over in the same place. And the fix carries into Physics and Chemistry as well as Maths. If your child needs particular grades for a course at Peterborough College or Stamford College, that knock-on effect is worth a lot."
+accordion_quality: "Knowing the subject is the easy part. Harry and Joe look for tutors who can take a Year 11 back to a Year 7 topic without making them feel small. And who'll explain it a second way if the first doesn't land. It's one reason only around 3% of applicants make it through."
+accordion_experience: "All of our tutors have at least two years of tutoring experience. A lot of it has gone into rebuilding shaky foundations rather than polishing work that's already strong. Between them they cover AQA, Edexcel, OCR and WJEC, and they know how to find where a gap began."
+accordion_personalised: The plan comes after the first lesson, not before it. That
+  lesson is about finding what's missing, and if one gap is holding everything else
+  up, most of the early work goes there.
 reviews:
-  - Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with
-    English and was completely disengaged from the subject. After six months of
-    tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to
-    his lessons. Through one-to-one tutoring he has learned effective strategies
-    that help him approach English in a way that resonates with him.
-  - Augusta|Parent of GCSE Student|The support given to my son by The Degree
-    Gap's tutors was fabulous and he passed all his GCSE subjects. They provided
-    experienced and organised tutors. Tutors provided resources targeting
-    specific areas of difficulty. The website is easy to use and tutors were
-    polite and on time.
-  - Nick|Parent of A-Level Student|Our son has been receiving tuition for
-    Psychology A Level. The tutor has provided a solid base of support outside
-    of school lessons and helped him to improve his latest grades.
-  - Bryan|GCSE Student|Helped me a lot and really showed me what i need to improve on
-    improve on.
-  - Joanna|Parent of A-Level Student|The A level tutoring made such a difference
-    to my son, who had left studying until the final hour, managing to turn E
-    and U grades into 3 C grades. Amazing.
-  - Chris|Parent of GCSE Student|Very good tutoring for my daughter and good
-    communication with parents. My daughter passed both English and Maths GCSE.
+  - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7. I honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset. …"
+  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. …"
+  - "Nick|Parent of A-Level Student|Sandra Sabu has been tutoring our son for Psychology A Level. Sandra has provided a solid base of tutoring outside of school lessons and helped him to improve his latest grades."
+  - "Bryan|GCSE Student|Helped me a lot and really showed me what i need to improve on"
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents. UPDATE: My daughter passed both English and Maths GCSE (4 and 5's). …"
 sitemap:
   priority: 0.8
   changefreq: monthly

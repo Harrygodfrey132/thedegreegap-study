@@ -1,14 +1,14 @@
 ---
 title: "Didsbury GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "GCSE Maths tutors covering Didsbury, for a grade that sixth forms here read twice: on its own and for Chemistry and Physics. Online one-to-one, from £37 an hour."
+description: "In Didsbury, the Maths grade can decide the sixth form place and which A-Levels your child can take. One-to-one GCSE Maths tutors online, from £37 an hour."
 layout: "level-subject"
 location: "Didsbury"
 level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors Covering Didsbury, for the Grade Every Sixth Form Checks First"
-hero_lead: "If your child is working hard and the Maths grade still isn't moving, you're not alone, and it can be turned around. Our Didsbury GCSE Maths tutors work one-to-one online, going back to the method that first went wrong, often algebra from Year 8."
+hero_lead: "A-Level choices have started coming up at home, and every conversation seems to circle back to the Maths grade. Our Didsbury GCSE Maths tutors work one-to-one online, starting from the first method that went wrong, often a piece of algebra from Year 8."
 
 card_eyebrow: "FREE CONSULTATION"
 card_heading: "Talk to a member of the team to start the matching process"
@@ -18,14 +18,14 @@ card_points:
   - "Lessons from £37, no contract"
 
 angle_eyebrow: "ONE GRADE, SEVERAL JOBS"
-angle_heading: "Why the Maths Grade Carries So Much Weight in Didsbury"
-angle_body_1: "Maths does more than one job for a Didsbury Year 11. Parrs Wood Sixth Form has asked for at least a grade 4 in Maths for any place. Didsbury Sixth Form has asked for a grade 6, and a grade 7 in Maths for anyone hoping to take A-Level Chemistry or Physics. So the same grade can decide whether your child gets in, and which subjects they can pick once they do. Where do the marks go? Usually fractions and negatives on the non-calculator paper. Algebra hidden inside a wordy question. And the long problems near the end, where finding the first step is the hard part."
-angle_body_2: "The first lesson starts with a recent paper, gone through a line at a time. The tutor follows each wrong answer back until the method runs out, and that point is often further back than you'd expect. Then it's one skill a week, set out step by step on the shared whiteboard, and tested on real exam questions until it holds with a timer running. For one child the aim is a safe 4 or 5. For another it's the 7 that keeps Physics on the table at Didsbury Sixth Form. Same approach, different finishing line."
+angle_heading: "In Didsbury, One Maths Grade Can Decide Both the Place and the Subjects"
+angle_body_1: "If your child's choosing between sixth forms, the Maths grade comes up twice: once for the place, and again for the subjects. Parrs Wood Sixth Form has asked for at least a 4 in Maths for any place. Didsbury Sixth Form has asked for six grade 6s, Maths among them, and a 7 in Maths from anyone hoping to take A-Level Chemistry or Physics. As for where the marks go, it's usually the same three places. Fractions and negatives slip on the non-calculator paper. Algebra gets lost inside wordy questions. And on the long problems near the end, it's often the very first step that's hard to see."
+angle_body_2: "So the tutor starts with a paper your child has recently sat and, for every lost mark, finds where the method stopped working. Often it's further back than you'd guess, a Year 8 topic rather than a Year 11 one. After that, lessons take one skill at a time, set out line by line on the shared whiteboard, then tested on past exam questions with a timer running. One child's goal might be a safe 4 or 5. For another, it's the 7 that keeps Physics open at Didsbury Sixth Form. Same start. Different finish line."
 angle_image: "/images/maths-equations-close-up.jpg"
-angle_image_alt: "A Didsbury GCSE Maths student working through an algebra question with an online tutor"
+angle_image_alt: "A page of printed algebra and square roots, photographed close up at an angle"
 angle_stat_from: "4"
 angle_stat_to: "6"
-angle_stat_detail: "Where a term of weekly online Maths lessons is often aimed, when the problem turns out to be one broken method rather than the whole course."
+angle_stat_detail: "A common aim for a term of weekly lessons, when the trouble is one broken method rather than the whole course. We'd never promise it."
 
 schools:
   - "Didsbury High School"
@@ -35,27 +35,27 @@ schools:
   - "The Manchester Grammar School"
   - "Withington Girls' School"
 
-steps_heading: "Start GCSE Maths tutoring in Didsbury in 3 steps"
-steps_lead: "Most families have a first lesson booked within a week. Sixth form applications go in during the autumn of Year 11, so an early start gives the Maths grade more room."
+steps_heading: "Your first steps with a Didsbury GCSE Maths tutor"
+steps_lead: "Sixth form applications go in during the autumn of Year 11, often before the mocks. So it helps that most families are up and running within a week."
 steps:
   - title: "A free consultation call"
-    body: "A free consultation call, usually around 30 minutes, where we get to know you and your child so we can personalise everything from there. Tell us the school, the exam board and tier if you know them, and which sixth forms are on the list."
+    body: "Usually around 30 minutes, with Harry or Joe. We'll get to know you both, then talk through the school, the exam board, whether it's Higher or Foundation, and the sixth forms on your list. Chemistry or Physics in mind? Tell us. It changes the Maths grade we aim for."
   - title: "Meet 2 or 3 tutors"
-    body: "Within 24 hours of the call you'll get profiles of 2 or 3 tutors we've picked for your child's board and for what the latest mock shows. Your child can then meet your favourite on a free video call before anything is booked."
+    body: "We'll send profiles of 2 or 3 tutors within 24 hours, each picked for your child's exam board and for what the latest mock shows up. Have a look, choose a favourite, and your child can meet them on a free video call before anything's booked."
   - title: "Start weekly lessons"
-    body: "Lessons are one-to-one and online, using the platform Lessonspace, plus replay available, so a method can be watched again before a test. Lots of families add an extra lesson before the mocks. From £37 an hour, no contract."
+    body: "Each week your child has a one-to-one lesson on the platform Lessonspace, and every lesson has a replay, so a method can be watched again before a test. Lots of families add an extra lesson before the mocks. From £37 an hour, no contract."
 
 faqs:
-  - q: "What Maths grade do Didsbury sixth forms ask for?"
-    a: "It depends on the sixth form and the subjects your child wants. For recent entry, Parrs Wood asked for at least five GCSEs at grade 4 or above including Maths. Didsbury Sixth Form asked for six grade 6s including Maths, plus a grade 7 in Maths for A-Level Chemistry and Physics. Xaverian and Loreto publish their own requirements course by course. These can change each year, so check the current prospectus and we'll plan back from that number."
-  - q: "Why is my child struggling with GCSE Maths when they seem fine in class?"
-    a: "Usually because a small gap from earlier on has been quietly growing. It might be fractions from Year 7, negative numbers, or an algebra method that was taught on a day they were off. In class they can follow along. On their own, in an exam, the gap shows. A tutor's first job is to find that moment, using a recent paper, and rebuild from there rather than racing through new topics."
-  - q: "Should my child sit Foundation or Higher tier?"
-    a: "It depends where they are now and where they need to get to. Higher tier covers grades 4 to 9, and Foundation covers 1 to 5. A child steady on 5s in mocks is usually on Higher, especially if a sixth form wants a 6 or 7. A child sitting on 3s and 4s may be safer on Foundation. The school makes the final call, and a tutor's view after a few lessons gives you something solid to talk to them about."
-  - q: "How do you choose your Maths tutors?"
-    a: "We meet every tutor ourselves, and only around 3% of people who apply get through. Each one shows us their subject knowledge at the level they want to teach, then has an interview with us built around explaining a hard idea clearly. That part matters most in Maths. A tutor who can do the question isn't enough. They need to show your child why the method works, in a way that sticks."
-  - q: "How much does GCSE Maths tutoring cost?"
-    a: "Lessons start from £37 an hour. The exact price depends on the tutor, and we'll always agree it with you before anything is booked. There's no contract, no joining fee and nothing to pay upfront. You pay for the lessons you have, and the consultation call with us and the video meeting with your tutor are free."
+  - q: "How high do Didsbury sixth forms set the Maths bar?"
+    a: "It depends which sixth form, and which subjects your child wants. For recent entry, Parrs Wood asked for at least five GCSEs at grade 4 or above, Maths included. Didsbury Sixth Form asked for six grade 6s including Maths, plus a 7 in Maths for A-Level Chemistry or Physics. Xaverian and Loreto set their own requirements course by course. These can change each year, so check this year's prospectus, and we'll plan back from that number with you."
+  - q: "My child seems fine in class, so why are the Maths marks so low?"
+    a: "Usually it's a small gap from earlier on that's been quietly growing. It might be fractions from Year 7, negative numbers, or an algebra method covered on a day they were off sick. In class, with the teacher's example on the board, your child can follow along. Alone in an exam, the gap shows. So the tutor's first job is to find that moment on a recent paper and rebuild from there, rather than rushing on to new topics."
+  - q: "My child's been put in for Foundation. Could that rule out Didsbury Sixth Form?"
+    a: "It could, so it's worth thinking about early. Foundation tops out at a 5, and Didsbury Sixth Form has asked for six grade 6s, Maths among them. Parrs Wood's 4 in Maths is possible on either tier. Higher covers grades 9 to 4, and a child who just misses the 4 can still be given a 3. A child steady on 5s in mocks is usually better on Higher. On 3s and 4s, Foundation may be the steadier route to a pass. It's the school's decision in the end, but a tutor's view gives you something solid to talk to them about."
+  - q: "Are the Maths tutors any good at explaining things?"
+    a: "They have to be, because that's the part of our interview that matters most. We meet every tutor before they join, and only around 3% of applicants are accepted. Each one first shows us they can do the Maths themselves, at the level they'd be teaching. Then comes the interview, built around explaining a hard idea clearly. Being able to do the question isn't enough. A tutor has to show your child why the method works, in a way that sticks."
+  - q: "What will we pay, and are we tied in?"
+    a: "Lessons start at £37 an hour, and nobody's tied in. The rate depends on the tutor, and you'll know it before anything's booked. No joining fee, and nothing to pay upfront. Our call with you and the tutor's video meeting with your child are both free. From then on, you pay lesson by lesson and can stop at any point."
 # FAQ picks: G01, A07, A12, E01, C02
 
 reviews:

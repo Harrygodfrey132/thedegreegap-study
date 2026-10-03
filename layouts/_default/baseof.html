@@ -6,11 +6,23 @@
   {{ partial "cookiebot.html" . }}
   {{ partial "gtm-head.html" . }}
   {{ block "seo" . }}{{ partial "seo.html" . }}{{ end }}
+  {{/* Only blog posts set hero_image. This must offer exactly the candidates
+       the post hero renders in blog/single.html (same widths, same q70, same
+       sizes), or the browser downloads the preload and then a second copy. */}}
   {{ with .Params.hero_image }}
     {{ $hero := resources.Get (strings.TrimPrefix "/" .) }}
     {{ if $hero }}
-      {{ $heroPreload := $hero.Resize "640x webp q70" }}
-      <link rel="preload" as="image" href="{{ $heroPreload.RelPermalink }}" type="image/webp" media="(min-width: 901px)" fetchpriority="high">
+      {{ $heroSet := slice }}
+      {{ range slice 640 1000 1400 }}
+        {{ $w := cond (gt . $hero.Width) $hero.Width . }}
+        {{ $img := $hero.Resize (printf "%dx webp q70" $w) }}
+        {{ $entry := printf "%s %dw" $img.RelPermalink $img.Width }}
+        {{ if not (in $heroSet $entry) }}{{ $heroSet = $heroSet | append $entry }}{{ end }}
+      {{ end }}
+      {{/* safeHTMLAttr because Go's escaper reads any attribute with "src" in
+           its name as a single URL and percent-encodes the spaces and commas
+           that separate srcset candidates. */}}
+      <link rel="preload" as="image" type="image/webp" {{ printf "imagesrcset=\"%s\"" (delimit $heroSet ", ") | safeHTMLAttr }} imagesizes="(min-width: 1080px) 1032px, calc(100vw - 48px)" fetchpriority="high">
     {{ end }}
   {{ end }}
   <link rel="preconnect" href="https://i.ytimg.com" crossorigin>
@@ -73,6 +85,13 @@
   </script>
 </head>
 <body>
+  {{/* Cloudflare's Email Obfuscation rewrites every address on the page into a
+       link to /cdn-cgi/l/email-protection, which returns 404 to crawlers, so
+       the footer address alone gave every page a "broken link" in audits and
+       showed "[email protected]" to anyone without JavaScript. These markers
+       switch it off for the page. They go through safeHTML because Go
+       templates strip HTML comments written directly in a layout. */}}
+  {{ "<!--email_off-->" | safeHTML }}
   {{ partial "gtm-body.html" . }}
   {{ partial "header.html" . }}
   <main>
@@ -137,5 +156,6 @@
        reach visitors until it expires. */}}
   {{ $js := resources.Get "js/main.js" | fingerprint "sha256" }}
   <script src="{{ $js.RelPermalink }}" defer></script>
+  {{ "<!--/email_off-->" | safeHTML }}
 </body>
 </html>

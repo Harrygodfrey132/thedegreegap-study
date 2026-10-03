@@ -116,7 +116,7 @@ Every entry has:
 
 **Fits:** GCSE Maths
 **Q:** Should my child focus on the calculator or non-calculator paper for GCSE Maths?
-**A skeleton:** Both decide the grade, weighted equally. The non-calculator paper rewards arithmetic fluency and algebraic manipulation; the calculator paper rewards problem-solving and accuracy on multi-step calculations. Most students lose more marks on the non-calculator paper at top of paper, more on Paper 3 calculator at the back. A tutor's diagnostic identifies which paper is bleeding more marks first.
+**A skeleton:** There are three papers and each counts the same: one non-calculator and two calculator, so the calculator papers carry two-thirds of the grade between them (say "all three papers count equally", never "both count equally"). The non-calculator paper rewards arithmetic fluency and algebraic manipulation; the calculator papers reward problem-solving and accuracy on multi-step calculations. Most students lose more marks early on the non-calculator paper, and more at the back of the last calculator paper (Paper 3 on AQA and Edexcel; OCR numbers its papers differently). A tutor's diagnostic identifies which paper is bleeding more marks first.
 
 ### A12 — Foundation vs higher tier (GCSE-only, subject-applicable)
 
@@ -232,13 +232,13 @@ Every entry has:
 
 **Fits:** all pages
 **Q:** How do I cancel or pause {Level} {Subject} tutoring?
-**A skeleton:** No contract. Pause any time with 24-48 hours notice for the next session. Pay only for sessions taken. No exit fees, no commitment beyond the next week.
+**A skeleton:** No contract. Pause any time with 24-48 hours notice for the next session. Pay as you go: families pay for each lesson as they go, with nothing upfront. No exit fees, no commitment beyond the next week.
 
 ### C10 — Match speed
 
 **Fits:** all pages
 **Q:** How quickly can my child start {Level} {Subject} tutoring in {Location}?
-**A skeleton:** Usually within a few days. Free 15-min consultation, then 2-3 tutor profiles within 24 hours, free 15-min meeting with chosen tutor, first paid session typically inside a week. Most {Location} families are matched within 24 hours of the consultation call.
+**A skeleton:** Usually within a few days. Free consultation call (usually about 30 minutes), then 2-3 tutor profiles within 24 hours, free 15-min meeting with chosen tutor, first paid session typically inside a week. Most {Location} families are matched within 24 hours of the consultation call.
 
 ---
 

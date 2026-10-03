@@ -487,8 +487,8 @@ a process timeline, one consolidated trust signal. Reusable across subjects.
   "mainEntity": [
     {{ range $i, $f := $faqs }}{{ if $i }},{{ end }}{
       "@type": "Question",
-      "name": {{ $f.q | jsonify }},
-      "acceptedAnswer": { "@type": "Answer", "text": {{ $f.a | jsonify }} }
+      "name": {{ $f.q }},
+      "acceptedAnswer": { "@type": "Answer", "text": {{ $f.a }} }
     }{{ end }}
   ]
 }
@@ -501,7 +501,7 @@ a process timeline, one consolidated trust signal. Reusable across subjects.
   "@type": "Service",
   "@id": "{{ .Permalink }}#service",
   "name": "{{ $subject }} Tutoring | The Degree Gap",
-  "description": {{ .Description | jsonify }},
+  "description": {{ .Description }},
   "url": "{{ .Permalink }}",
   "provider": { "@type": "EducationalOrganization", "@id": "{{ "#organization" | absURL }}", "name": "The Degree Gap", "url": "https://thedegreegap.com" },
   "serviceType": "Online Tutoring",

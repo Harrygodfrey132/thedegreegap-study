@@ -1,16 +1,16 @@
 ---
 title: "Wilmslow GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "GCSE English tutors for Wilmslow students, for Language and Literature, matched on exam board and set texts. One-to-one and online, from £37, no contract."
+description: "Keen reader, stuck English grade? Our Wilmslow GCSE English tutors help your child plan, quote and finish essays in time, one-to-one online. From £37."
 layout: "level-subject"
 location: "Wilmslow"
 level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors Covering Wilmslow, for Language and Literature"
-hero_lead: "Your child reads all the time, so why is English the grade that's stuck? Our Wilmslow GCSE English tutors work one-to-one online on planning, timing and quotations, using the set texts your child is actually studying."
+hero_lead: "Your child reads all the time, so why is English the grade that's stuck? Our Wilmslow GCSE English tutors focus on planning, timing and quotations, one-to-one and online, using the novel, play and poems your child is actually studying."
 
-card_heading: "Talk to a member of the team to start the matching process"
+card_heading: "Tell us what's going on with your child's GCSE English"
 card_points:
   - "A free consultation call, usually around 30 minutes"
   - "2 or 3 tutor profiles within 24 hours of the call"
@@ -18,13 +18,13 @@ card_points:
 
 angle_eyebrow: "WHEN READING ISN'T THE PROBLEM"
 angle_heading: "Why Keen Readers Still Lose Marks in GCSE English"
-angle_body_1: "We hear it a lot from Wilmslow parents: my child loves books, so why is English the one that won't move? Usually because the exam isn't really testing reading. Literature is closed book, so quotations have to be learnt and ready, and an essay about a theme gets written against the clock. Language asks your child to compare two extracts they've never seen, then write a piece of their own right at the end, when time is nearly gone. The students we meet understand the books well. They just retell the plot for half a page and run out of time on the second question."
-angle_body_2: "The tutor starts from the texts your child's school teaches, since Literature help only counts on the right books, and from the exam board printed on the front of any mock paper. Then it's short lists of quotations learnt properly, a plan sketched in a few minutes, and timed paragraphs on the shared whiteboard, with the tutor annotating as your child writes. English Language and Literature can be two of the five grade 4s Wilmslow High School asks for at sixth form. And apprenticeship adverts at Manchester Airport often list GCSE English too, so it matters even for students who won't take the subject further."
+angle_body_1: "We hear it a lot from Wilmslow parents: my child loves books, so why is English the one that won't move? Usually because the exam isn't really testing reading. In Literature there's no copy of the book in the exam. Quotations have to be learnt and ready, and an essay about a theme gets written against the clock. One Language paper gives your child two extracts they've never seen to compare. Then, with time nearly gone, it wants a piece of their own writing. Most children we meet understand the books well. They just retell the plot for half a page, and the second question gets whatever minutes are left."
+angle_body_2: "First the tutor checks which books your child's school teaches and which exam board it uses. Literature help only counts if it's on the right novel. Then the lessons get practical. A handful of quotations per text that your child can actually remember. A plan that takes a few minutes. One timed paragraph at a time on the shared whiteboard, with the tutor reading along as your child writes. The grade matters beyond English, too. Language and Literature can be two of the five grade 4s Wilmslow High School asks for at sixth form. And apprenticeship adverts at Manchester Airport often list GCSE English, so it counts even if your child won't take English any further."
 angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"
-angle_image_alt: "Quotation notes and a poem annotated during an online GCSE English lesson"
+angle_image_alt: "Highlighted notes beside a lined pad where a hand has started a new line"
 angle_stat_from: "4"
 angle_stat_to: "6"
-angle_stat_detail: "Where a term of weekly English lessons tends to aim, once essays are planned first and finished inside the time."
+angle_stat_detail: "What the weekly lessons are working towards, with every essay planned first and finished inside the time. Nobody can promise the grade itself."
 
 schools:
   - "Wilmslow High School"
@@ -33,27 +33,27 @@ schools:
   - "Fallibroome Academy"
   - "Macclesfield College"
 
-steps_heading: "Start GCSE English tutoring in Wilmslow in 3 steps"
-steps_lead: "Most families have a first lesson booked within a week. If you know the novel, the play and the poetry cluster, bring them to the call, because they shape who we suggest."
+steps_heading: "What to expect when you book Wilmslow GCSE English tutoring"
+steps_lead: "Most families are booked in for a first lesson within a week. If you know the novel, the play and the poems your child's studying, mention them on the call, since the set texts shape our shortlist."
 steps:
   - title: "Have a free consultation call"
-    body: "A relaxed call, usually around 30 minutes, where we get to know you and your child so we can personalise everything from there. Tell us which paper worries you most, and whether the trouble is unfinished essays or essays that don't say enough."
+    body: "You'll talk to Harry or Joe, who started The Degree Gap, and it usually takes around 30 minutes. Most of it's about your child: which paper worries you most, and whether the trouble is essays left unfinished or essays that don't say enough."
   - title: "Meet 2 or 3 tutors"
-    body: "Within 24 hours of the call you'll get profiles of 2 or 3 tutors who know your child's exam board and set texts. Your child can meet your favourite on a free video call before you decide anything."
+    body: "We'll send profiles of 2 or 3 tutors within 24 hours of the call, all familiar with your child's exam board and set texts. Pick the one you like, and your child can meet them on a free video call first."
   - title: "Start weekly lessons"
-    body: "One-to-one lessons online, using the platform Lessonspace, plus replay available, so a tricky poem can be gone over again before a test. Essays get written against the clock and marked as they go. From £37 an hour, no contract."
+    body: "One-to-one lessons on the platform Lessonspace, and each lesson is recorded, so a tricky poem can be gone over again before a test. Essays get written with a timer running and marked as they go. From £37 an hour, no contract."
 
 faqs:
   - q: "We live in Alderley Edge. Can we still get a GCSE English tutor through you?"
-    a: "Yes. Every lesson is online, so Wilmslow, Handforth, Styal, Alderley Edge and the villages round about all use the same tutors. That matters more in English than you might think, because the right tutor is the one who knows your child's exam board and set texts, not the one who lives nearest. It also means nobody is driving across town on a school night. Your child just needs a laptop and a quiet corner."
+    a: "Yes. Every lesson is online, so Wilmslow, Handforth, Styal, Alderley Edge and the villages round about all use the same tutors. That matters more in English than you might think. The right tutor is the one who knows your child's exam board and set texts, not the one who lives nearest. It also means nobody's driving across town on a school night. Your child just needs a laptop and a quiet corner."
   - q: "Do the different exam boards really matter for GCSE English?"
-    a: "Yes, more than most parents expect. AQA, Edexcel, OCR and Eduqas all test the same skills, but the papers are laid out differently, the set text lists vary, and the poetry anthologies aren't the same at all. A tutor who knows your child's board can start on real questions in the very first lesson. The board is usually printed on the front of a mock paper, or we can help you work it out on the call."
+    a: "They do, and more than most parents expect. AQA, Edexcel, OCR and Eduqas all cover the same skills. But each sets its papers out differently, phrases its questions its own way, and has its own list of novels, plays and poems for Literature. A tutor who knows your child's board can start on real questions in the very first lesson. You'll usually find the board's name on the front of a mock paper. If not, we'll check it with you on the call."
   - q: "Why is my child's predicted English grade lower than I expected?"
-    a: "Usually because predicted grades come from timed mocks, and English under time pressure is a different thing from English in class. Plenty of students write thoughtful answers when they have a week to draft them, then run out of time in the exam or forget the quotations they meant to use. A tutor reads a recent mock to find which it is, then practises that under the clock each week until it holds."
+    a: "Usually because predictions lean a lot on mocks, alongside the teacher's view, and English against the clock is very different from English in class. Plenty of teenagers write thoughtful answers when they've had a week to draft them, then run out of time in the exam or forget the quotations they meant to use. A tutor reads a recent mock to see which it is. Then they practise that one thing, timed, week after week, until it sticks."
   - q: "Can a tutor help if my child has dyslexia, ADHD or autism?"
-    a: "Yes, and English is often where it matters most, because the subject leans so heavily on reading speed and long stretches of writing. Tutors break essays into small named steps, use visual plans on the whiteboard and build up timing gradually. The lesson replays help too, so your child can go back over an explanation without relying on notes. Tell us about any diagnosis or exam access arrangements on the consultation call, and we'll pick tutors with that in mind."
+    a: "Yes. Tell us on the call about any diagnosis and any exam access arrangements, like extra time. We'll pick tutors who are used to working with children who learn differently. English asks for a lot of reading and writing at speed. The tutor usually splits a long answer into short, labelled chunks, draws the plan as a diagram on the whiteboard and builds up the timing gradually. Lesson replays help too, because your child can go back over an explanation without having to take notes."
   - q: "My child says they don't need help with English. Should we push it?"
-    a: "Gently, and it's a very common reaction. Most teenagers push back before they've met anyone, and it tends to change once they realise a lesson is one person, their full attention, and nobody else watching. That's why your child gets a free video call with the tutor before anything is booked, so they can decide for themselves. If they really don't get on with it after a couple of lessons, you simply stop."
+    a: "Gently, and it's one of the most common conversations we have. Lots of teenagers say no before they've met anyone. It often changes once they find a lesson is just them and one adult who's interested in what they think about the book. That's why your child meets the tutor on a free video call before anything's booked, and gets a say. And if it still isn't working after a couple of lessons, you can stop, with nothing to pay beyond the lessons you've had."
 # FAQ picks: G03, A02, A14, E03, C07
 
 reviews:

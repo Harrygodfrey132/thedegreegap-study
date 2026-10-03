@@ -5,7 +5,7 @@ date: 2026-08-04
 author: "Joe Clark"
 author_role: "Co-founder, The Degree Gap"
 category: "Parent Advice"
-excerpt: "Online GCSE tutoring costs roughly 10% to 20% less and opens up the whole country's tutors rather than the ones within driving distance. It is also genuinely worse for some students. Here is how to tell which group your child is in."
+excerpt: "Online GCSE tutoring costs roughly 10% to 20% less, and it opens up tutors from the whole country rather than the few within driving distance. It's also the wrong choice for some children. Here's how to tell whether yours is one of them."
 hero_image: "/images/child-using-online-learning-laptop.jpg"
 tags:
   - Parent Advice
@@ -19,7 +19,7 @@ related_links:
     description: "2026 rates, what changes the price, and what good value looks like."
 ---
 
-We are an online-only agency, so I will put my bias on the table before anything else. What follows is the comparison I would want if I were the one deciding, including the parts that do not favour us.
+Every lesson we arrange is online, so you should know my bias before you read any further. This is the comparison I'd want in front of me if I were the one deciding, and that includes the bits that don't work in our favour.
 
 ## The short version
 
@@ -35,85 +35,85 @@ We are an online-only agency, so I will put my bias on the table before anything
 
 ## Cost: real but smaller than people expect
 
-Across the 2026 market data, online tutoring runs roughly **10% to 20% cheaper than in-person for the same tutor**. Nationally that is about £31 an hour online against about £39 face to face for GCSE.
+Going by the 2026 market data, online tutoring comes in roughly **10% to 20% cheaper than in-person for the same tutor**. For GCSE, that's about £31 an hour online nationally, against about £39 face to face.
 
-The gap exists because the tutor is not building travel into their rate. It is not a quality discount, and it is worth understanding that way round, because parents sometimes read the lower number as a lower tier.
+The gap is there because the tutor isn't pricing travel into their rate. It's not a sign of a weaker tutor. I mention that because parents sometimes see the lower number and assume they're getting less.
 
-Over a school year at one hour a week, the difference is somewhere around £200 to £250 per subject. Real money, but not usually the deciding factor. The bigger financial effect is regional: if you live in the south east commuter belt where in-person rates commonly run £40 to £55, going online moves you to the national rate rather than the local one. That gap is much larger than the online discount itself.
+At an hour a week over a school year, you'd save somewhere around £200 to £250 per subject. Real money. But it's rarely what decides it. Where you live makes a bigger difference. In the south east commuter belt, in-person rates commonly run £40 to £55, and going online means you pay the national rate instead of the local one. That gap is much bigger than the online discount on its own.
 
 ## What online genuinely does better
 
-**You get to choose from every tutor in the country.** This is the big one and it is not close. If your child sits OCR Gateway Combined Science, you want a tutor fluent in OCR Gateway Combined Science, not one fluent in AQA who is willing to have a go. In a town of forty thousand people, that specific tutor may not exist. Online, they do.
+**You get to choose from every tutor in the country.** This is the big one, and nothing else comes close. If your child sits OCR Gateway Combined Science, you want a tutor who knows that exact course inside out, not one who mostly teaches the AQA version and is willing to have a go. In a town of forty thousand people, that tutor might not exist. Online, they do.
 
-The [Sutton Trust's Private Tutoring 2026 report](https://www.suttontrust.com/our-research/private-tutoring-2026/) found tutoring uptake at 33% in urban areas against 19% in rural ones. Some of that is income, but a good deal of it is simple availability. Online is the thing that closes that gap.
+The [Sutton Trust's Private Tutoring 2026 report](https://www.suttontrust.com/our-research/private-tutoring-2026/) found tutoring uptake at 33% in urban areas, against 19% in rural ones. Some of that's down to income. But a good deal of it is simply that there's nobody nearby to book. Online is what closes that gap.
 
-**Scheduling stops being the constraint.** No travel means sessions fit into gaps that would otherwise be impossible: straight after school, half an hour after dinner, Sunday morning. For a Year 11 doing sport or music, this is often what makes weekly tutoring survivable at all.
+**The timetable stops being the problem.** With no travel, a lesson can go in a gap that wouldn't work otherwise: straight after school, half an hour after dinner, Sunday morning. If your child's in Year 11 and doing sport or music as well, that's often what makes a weekly lesson possible at all.
 
-**Everything is recorded and reusable.** Screen-shared past papers, annotated model answers and session recordings mean revision in May can go back to what was covered in November. A whiteboard in your kitchen is wiped by Tuesday.
+**Everything's recorded, so your child can go back to it.** Past papers on a shared screen, model answers with the tutor's notes on them, a recording of each lesson. So revision in May can pick up what was covered in November. A whiteboard in your kitchen is wiped by Tuesday.
 
-**Illness and weather stop cancelling sessions.** A cold that would kill an in-person session usually does not kill an online one. Over a year that is several sessions you paid for and actually got.
+**Illness and bad weather stop cancelling lessons.** A cold that would call off an in-person lesson usually won't stop an online one. Over a year, that's several lessons you paid for and actually got.
 
-**Some teenagers are simply less self-conscious on a screen.** Not all, but a meaningful number find it easier to admit they do not understand something when they are not sitting next to an adult.
+**Some teenagers are just less self-conscious on a screen.** Not all of them. But quite a few find it easier to say "I don't get this" when there isn't an adult sitting right next to them.
 
 ## What in-person genuinely does better
 
-I am not going to pretend this list is empty.
+This list isn't empty, and I won't pretend it is.
 
-**Concentration, for students who struggle with it.** A student who cannot stay off their phone for fifty minutes will find a screen harder than a table. There are workarounds, but a person physically in the room is a stronger commitment device than a person in a window, and pretending otherwise helps nobody.
+**Concentration, if your child finds it hard.** If they can't stay off their phone for fifty minutes, a screen will be harder for them than a table. There are workarounds. But an adult in the room keeps a teenager on task better than one in a window on a laptop, and it helps nobody to pretend otherwise.
 
-**Younger students.** Below about Year 9, in-person often wins. Attention spans are shorter and the physical presence matters more.
+**Younger children.** Below about Year 9, in person often wins. Attention spans are shorter, and having someone there in the room matters more.
 
-**Some additional needs.** For some students, and it genuinely varies by individual, in-person suits better. For others, online is markedly better because the sensory environment is calmer and familiar. This one is worth deciding student by student rather than by rule.
+**Some additional needs.** For some children, in-person suits better, and it really does vary from one child to the next. For others, online is much better, because there's less for their senses to take in and everything around them is familiar. This one's worth deciding for your own child rather than by a rule.
 
-**Anything genuinely physical.** Practical work, handling equipment, and some kinds of diagram and construction work are easier across a shared table.
+**Anything hands-on.** Practical work, handling equipment, and some kinds of diagram and construction work are easier across a shared table.
 
-**Parental visibility.** Some parents want to see the session happening in their house. That is a legitimate preference and online does not fully replace it, although sitting within earshot works better than people expect.
+**Being able to see it happen.** Some parents want the lesson going on in their own house, where they can see it. That's a fair thing to want, and online doesn't fully replace it. Though sitting within earshot works better than most people expect.
 
 ## How to tell which your child needs
 
-Ask yourself three questions.
+Three questions usually settle it.
 
-**Can they hold attention for fifty minutes with a screen in front of them and no supervision?** If clearly yes, online is fine. If clearly no, either go in person or set the session up properly: a room with the door open, phone in another room, an adult in the house. Most students who "cannot focus online" can focus online once the setup is fixed.
+**Can your child concentrate for fifty minutes with a screen in front of them and nobody checking on them?** If it's a clear yes, online's fine. If it's a clear no, either go in person or set the lesson up properly: a room with the door open, the phone in another room, an adult somewhere in the house. Most teenagers who "can't focus online" manage fine once that's sorted.
 
-**Does the subject and exam board need a specialist?** If your child needs Edexcel iGCSE Maths, or Triple Science on a specific board, or a language, the specialist matters more than the format. Take the right tutor in whatever format they come in, and if they are two hundred miles away, that settles it.
+**Does the subject or exam board need a tutor who knows it inside out?** If your child's doing Edexcel iGCSE Maths, Triple Science (Biology, Chemistry and Physics as three separate GCSEs) on a particular board, or a language, the right tutor matters more than the format. Take that tutor however they come. And if they're two hundred miles away, that settles it.
 
-**What does the schedule actually allow?** Be realistic. A weekly slot that requires someone to drive across town at 6pm in January will get cancelled. A slot that requires opening a laptop will not.
+**What does your week actually allow?** Be realistic. A weekly slot that means somebody driving across town at 6pm in January will get cancelled. One that means opening a laptop won't.
 
 ## Making online actually work
 
-Most online tutoring that fails does so for setup reasons rather than format reasons. The fixes are dull and effective.
+When online tutoring doesn't work, it's usually the setup at home that's wrong, not the fact that it's online. The fixes are dull, and they work.
 
-- **A proper space.** Desk or table, not a bed. Door open rather than shut. Being in the middle of the kitchen while dinner happens does not work either.
-- **Phone in a different room.** Non-negotiable, and it is the single biggest difference between sessions that work and sessions that do not.
-- **Test the tech once, properly, before session one.** Camera, microphone, and whatever whiteboard the tutor uses. Five minutes on a Sunday saves fifteen minutes of the first paid hour.
-- **A cheap graphics tablet for Maths and Science.** Around £40 and it transforms working through algebra or equations. Not essential, genuinely useful.
-- **Camera on.** For both of them. A tutor who cannot see whether your child is following is working blind.
-- **Paper past papers on the desk.** Even online, a lot of the best work is your child writing on real paper and holding it up, or scanning it over.
+- **A proper space.** A desk or table, not their bed. Door open, not shut. The middle of the kitchen while dinner's being made doesn't work either.
+- **Phone in a different room.** Non-negotiable. It's the single biggest difference between lessons that work and lessons that don't.
+- **Test the tech once, properly, before the first lesson.** Camera, microphone and whatever whiteboard the tutor uses. Five minutes on a Sunday saves fifteen minutes of the first hour you're paying for.
+- **A cheap graphics tablet for Maths and Science.** It's a flat pad with a pen that connects to the laptop, around £40, and it makes writing out algebra or equations far easier. Not essential. Really useful, though.
+- **Camera on.** For both of them. If the tutor can't see whether your child's following, they're working blind.
+- **Printed past papers on the desk.** Even online, a lot of the best work is your child writing on real paper and holding it up to the camera, or scanning it across.
 
 ## What does not differ
 
-Worth saying plainly, because it gets lost in the format argument. The things that actually determine whether tutoring works are the same either way:
+This gets lost in the online-or-in-person argument, so it's worth saying plainly. What decides whether tutoring works is the same either way:
 
-Whether the tutor diagnoses the real gap instead of teaching the syllabus from the top. Whether they know the exact specification. Whether homework gets set and marked. Whether your child and the tutor get on well enough that the homework gets done.
+Whether the tutor finds the real gap, instead of working through the syllabus from page one. Whether they know the exact course your child's school follows. Whether homework gets set and marked. Whether your child and the tutor get on well enough that the homework actually gets done.
 
-A brilliant tutor over video beats a mediocre one at your kitchen table, every time. The format is a distant second to the match.
+A brilliant tutor over video beats a mediocre one at your kitchen table, every time. The format matters. The match matters far more.
 
 ## Frequently asked questions
 
 **Is online tutoring less effective?**
-For most secondary-age students, no, provided the setup is right. The format matters much less than the quality of the tutor and the diagnostic work they do. For younger children, and for students who genuinely cannot self-regulate, in person has a real edge.
+For most secondary-age children, no, as long as the setup at home is right. The format matters much less than how good the tutor is and how well they pin down what's going wrong. For younger children, and for teenagers who really can't keep themselves on task, in person does have an edge.
 
 **Do online tutors get DBS checked?**
-Reputable ones do, and you should ask. Do not assume it because the sessions are remote.
+Reputable ones do, and you should ask. A DBS check is the criminal records check, and lessons being online is no reason to skip it.
 
 **Can I sit in on an online session?**
-Yes, and any tutor worth booking will be relaxed about it. Sitting within earshot rather than in shot is usually the least disruptive version.
+Yes, and any tutor worth booking will be relaxed about it. Sitting within earshot, rather than in shot, usually disturbs things least.
 
 **Which platform is best?**
-Whichever one the tutor is fluent in. A tutor comfortable in their own setup beats a technically superior platform they are learning on your time.
+Whichever one the tutor knows well. A tutor who's comfortable in their own setup beats a cleverer platform they're learning on your time.
 
-**Is it worth switching mid-year if it is not working?**
-If the problem is genuinely the format, yes. But check first whether the problem is actually the setup or the match, because those are far more common causes and both are cheaper to fix.
+**Is it worth switching mid-year if it isn't working?**
+Yes, if it really is the format that's the problem. But check the setup and the match first. Those are far more common causes, and both are cheaper to fix.
 
 ## Sources
 
@@ -125,8 +125,8 @@ Pricing figures are aggregated from public listings across the main UK tutoring 
 
 ## Where The Degree Gap fits
 
-We run online only, and we chose that deliberately: it is the only way to match a family in any part of the country with a tutor who knows their child's exact subject and exam board, rather than the closest available approximation.
+Being online only was a deliberate choice for us. It's the only way we can match a family anywhere in the country with a tutor who knows their child's exact subject and exam board, rather than whoever happens to be closest.
 
-That does mean we are not the right answer for every student, and on a free 30-minute call with Harry or me we will say so if in-person looks like the better fit. Rates start at £37 per hour.
+It does mean we're not the right answer for every child. If in-person looks like the better fit for yours, Harry or I will tell you so on a free 30-minute call. Rates start at £37 per hour.
 
 [Book a free consultation call →](/book-a-call/)

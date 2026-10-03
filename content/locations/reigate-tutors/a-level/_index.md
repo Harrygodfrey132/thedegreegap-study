@@ -1,41 +1,41 @@
 ---
 title: "Reigate A-Level Tutors | One-to-One | The Degree Gap"
-description: "Reigate A-Level tutors for the Year 12 term when a new sixth form starts setting predictions. One-to-one online tutoring over Lessonspace, from £37 an hour."
+description: "More free periods and less checking in Year 12? Reigate A-Level tutors give your child one steady hour a week, one-to-one and online. From £37, no contract."
 layout: "subject"
 location: "Reigate"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutoring for Reigate Students Settling Into a Bigger Sixth Form and a Harder Paper"
+hero_heading_line1: "Online A-Level Tutoring in Reigate for a Year 12 Who's Drifting a Little"
 hero_heading_line2: ""
-hero_lead: "For most Reigate students Year 12 means a new building, new teachers and far more unsupervised time, all in the same term the course gets harder. Our Reigate A-Level tutors keep one fixed hour a week, one-to-one online over Lessonspace, while the rest of the timetable loosens."
+hero_lead: "Sixth form's given your child far more free periods and far fewer people checking the work. And it's the same term the course gets harder. Our Reigate A-Level tutors keep one fixed hour a week, one-to-one online, while the rest of the timetable loosens."
 
 grade_from: "E/U"
 grade_to: "C"
-grade_stat: "One parent describes a son who left revision very late turning E and U grades into three Cs."
+grade_stat: "Joanna's son went from E and U grades to three Cs, after leaving his studying to the last minute."
 
 first_lesson_eyebrow: "MORE FREE PERIODS, FEWER PROMPTS"
 first_lesson_heading: "What a Reigate A-Level Tutor Checks Before Year 12 Gets Away"
-first_lesson_context: "At a sixth form college nobody walks a Year 12 to the library. Free periods arrive, deadlines are spaced out, and a student can drift for a term before the first assessment says anything. By then the predicted grade is already forming. The first session reads that assessment closely and asks a blunter question than school has time for: is this the content, or is it the fact that nobody is checking the work each week?"
+first_lesson_context: "At sixth form nobody walks your child to the library, and a term can slip by before the first assessment says anything. By then the predicted grade's already taking shape. So an A-Level tutor's first lesson looks hard at that assessment: is it the content, or is it that nobody's checking the work each week?"
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades to three Cs"
 
-tutor_strip_heading: "Reigate A-Level tutors who know the specification your child's sixth form chose"
-tutor_strip_body: "Reigate College, St Bede's, Reigate Grammar and Dunottar each choose their own boards, and at A-Level the specification shapes nearly every question. Lots of our tutors took these exams recently and some have marked them. Every lesson runs one-to-one and online, on Lessonspace. Browse profiles, or ask us to shortlist two."
+tutor_strip_heading: "Reigate A-Level tutors who know the exam board your child's sixth form chose"
+tutor_strip_body: "Reigate College, St Bede's, Reigate Grammar and Dunottar each pick their own exam boards, and the board shapes nearly every question your child sees. Plenty of our tutors sat these exams recently, and some have marked them. Browse the profiles, or ask us to shortlist two."
 
 pathways_heading: "Where Two Years of Reigate A-Levels Can Lead"
-pathways_lead: "Three routes families here ask about, each with its own calendar and its own paperwork."
+pathways_lead: "These are the three routes Reigate parents ask about, each with its own calendar and forms."
 pathways:
   - title: "Universities"
     body: >
-      The University of Surrey is a short drive west in Guildford, the universities of Sussex and Brighton are down the line from Redhill, and London's universities sit within a direct train from Reigate. UCAS offers are made against predicted grades that schools and colleges write during Year 12 and early Year 13.
+      The University of Surrey is a short drive west in Guildford, the universities of Sussex and Brighton are down the line from Redhill, and London's universities are a direct train from Reigate. Offers are made on predicted grades, which are based on your child's work in Year 12 and early Year 13.
   - title: "Degree Apprenticeships"
     body: >
-      Orbital South Colleges University Centre, based at East Surrey College in Redhill, runs higher and degree apprenticeships alongside foundation degrees and HNCs. The University of Surrey also delivers degree apprenticeships with employers across the county, and application windows often close well ahead of UCAS.
+      Orbital South Colleges University Centre, based at East Surrey College in Redhill, runs higher and degree apprenticeships alongside foundation degrees and HNCs, both a step below a full degree. The University of Surrey also runs degree apprenticeships with employers across the county, and some application windows close well ahead of UCAS.
   - title: "Career Pathways"
     body: >
-      Gatwick Airport is one of the biggest employers in the area, and East Surrey Hospital in Redhill, run by Surrey and Sussex Healthcare NHS Trust, employs thousands more. With Victoria reachable in under an hour, plenty of Reigate school leavers also look at graduate schemes and apprenticeships in London.
+      Gatwick Airport is one of the biggest employers round here, and East Surrey Hospital in Redhill, run by Surrey and Sussex Healthcare NHS Trust, employs thousands more. And with Victoria under an hour away, plenty of Reigate school leavers look at apprenticeships and school-leaver schemes in London too.
 
 reviews:
   - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
@@ -51,14 +51,14 @@ reviews:
   - "Lisa|Parent|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
   - "Alex|University Student|Can’t recommend The Degree Gap highly enough. Quick and helpful responses from Harry. He immediately matched me with a very competent tutor, who was a massive help in helping me exceed my target grade and achieve a first class degree at university."
 
-faq_1_q: "My son had a strong set of GCSEs and his first Year 12 assessment was poor. Is that unusual?"
-faq_1_a: "Very common, and it rarely means the GCSEs flattered him. A-Level papers put most of the marks on applying and explaining, where GCSE rewarded knowing. Add a sixth form with more free periods and less day-to-day checking, and the first assessment catches a lot of capable students out. A tutor reads that script, names what the mark scheme wanted that the answer didn't give, and builds the habit week by week before the next assessment feeds a prediction."
+faq_1_q: "My son got strong GCSEs, but his first Year 12 assessment was poor. Is that unusual?"
+faq_1_a: "Not at all, and it rarely means his GCSEs flattered him. A-Level puts far more of the marks on applying and explaining, where GCSE leaned more on knowing. Add more free periods and less day-to-day checking, and that first assessment catches out a lot of capable teenagers. The tutor reads your son's script and shows him what the mark scheme wanted that his answer didn't give. Then they build the habit week by week, before the next assessment feeds into his prediction."
 faq_2_q: "How much does Year 12 matter for university applications?"
-faq_2_a: "More than most families expect. Predicted grades are written from Year 12 work and the early part of Year 13, and those are the numbers universities see when they decide on offers. The personal statement is usually drafted over the summer between the two years too. So a steady hour a week from the autumn of Year 12 counts twice: once for the final exam and once for the application that goes out before it."
-faq_3_q: "Can tutoring help my daughter manage free periods and independent study?"
-faq_3_a: "Indirectly, yes. Tutors on our platform are subject specialists rather than study coaches, but a fixed weekly online lesson with work set and checked gives the week a spine. Most students start using a free period for the homework because they know it will be looked at. The session notes also let you see what was covered without having to ask at dinner, which many Reigate parents of seventeen-year-olds find a relief in itself."
+faq_2_a: "More than most families expect. Predicted grades are based on Year 12 work and the start of Year 13, and they're what universities look at when they decide on offers. Most teenagers draft their personal statement over the summer between the two years, too. So a steady hour a week from the autumn of Year 12 pays off for the application first, and then again in the final exams."
+faq_3_q: "Can a tutor help my daughter use her free periods better?"
+faq_3_a: "Indirectly, yes. The tutors on our platform teach subjects rather than study skills, but a fixed weekly lesson with work set and checked gives her week some shape. Lots of teenagers start using a free period for that homework, because they know someone's going to look at it. The tutor's notes after each lesson also let you see what was covered without having to ask over dinner. Plenty of Reigate parents of seventeen-year-olds find that a relief in itself."
 faq_4_q: "Should my child look at a degree apprenticeship as well as university?"
-faq_4_a: "It's worth looking early if the idea appeals, because the deadlines don't line up with UCAS. Degree apprenticeships through the University of Surrey and the university centre at East Surrey College each publish their own requirements, and many employers want a written application and an assessment day. Tutors work on the grades those applications read, and Harry or Joe can talk you through running both routes side by side on the first call."
+faq_4_a: "It's worth a look early if the idea appeals, because the deadlines don't line up with UCAS. Degree apprenticeships through the University of Surrey and the university centre at East Surrey College each publish their own requirements. Many employers want a written application and an assessment day too. Your child's tutor works on the grades those applications ask for, and Harry or Joe can talk you through running both routes side by side on the first call."
 
 sitemap:
   priority: 0.7

@@ -5,7 +5,7 @@ date: 2026-08-06
 author: "Joe Clark"
 author_role: "Co-founder, The Degree Gap"
 category: "Parent Advice"
-excerpt: "Most families wait until Year 11. The Sutton Trust puts Year 11 uptake at 25% against 10% in Year 10. That gap is understandable and, for a lot of students, it is the wrong way round."
+excerpt: "Most families wait until Year 11. The Sutton Trust puts Year 11 uptake at 25%, against 10% in Year 10. It's easy to see why, but for a lot of children it's the wrong way round."
 hero_image: "/images/students-listening-in-classroom.jpg"
 tags:
   - Parent Advice
@@ -22,86 +22,86 @@ related_links:
     description: "Why foundation maths stops at a grade 5, and when the entry is still worth challenging."
 ---
 
-The [Sutton Trust's Private Tutoring 2026 report](https://www.suttontrust.com/our-research/private-tutoring-2026/) found that 25% of Year 11 students in England and Wales have had private tutoring, against 10% in Year 10. Year 11 is the peak year by a wide margin.
+The [Sutton Trust's Private Tutoring 2026 report](https://www.suttontrust.com/our-research/private-tutoring-2026/) found that 25% of Year 11 students in England and Wales have had private tutoring, against 10% in Year 10. So Year 11 is the peak year, and by a long way.
 
-That is completely understandable. Year 11 is when it feels urgent, when mocks produce a number that frightens people, and when the exams are close enough to picture. It is also, for a meaningful share of students, the more expensive way to solve a problem that was cheaper to solve twelve months earlier.
+I completely get why. Year 11 is when it starts to feel urgent. The mocks produce a number that frightens everyone, and the exams are close enough to picture. But for quite a lot of children, it's also the more expensive way to fix a problem that would've been cheaper to fix twelve months earlier.
 
-Here is what each year is actually good for.
+Here's what each year is really good for.
 
 ## What Year 10 is good for
 
-**Rebuilding foundations properly.** This is the thing Year 10 can do that Year 11 mostly cannot. If a student arrives at GCSE with holes from Key Stage 3, algebra that never landed, fractions that were never secure, no real sense of how to structure a paragraph of analysis, Year 10 has the time to go back and fix it rather than build around it.
+**Rebuilding foundations properly.** It's the one thing Year 10 can do that Year 11 mostly can't. Maybe your child started their GCSEs with holes left over from Key Stage 3, the first three years of secondary school. Algebra that never landed. Fractions that were never secure. No real sense of how to structure a paragraph of analysis. Year 10 has the time to go back and fix that, rather than build around it.
 
-In Year 11, with mocks in November and exams in May, going back two years is a hard sell. There is too much new content arriving to spend a term on old ground. So Year 11 tutoring often ends up patching over gaps rather than closing them, which works but works less well.
+In Year 11, with mocks in November and exams in May, going back two years is a hard sell. There's too much new content arriving to spend a term on old ground. So Year 11 tutoring often ends up patching over gaps rather than closing them. That works, but not as well.
 
-**Content is arriving for the first time.** Learning something properly the first time is faster than unlearning a shaky version of it later. A tutor working alongside Year 10 content is reinforcing rather than repairing, which is a much cheaper kind of work.
+**The content is arriving for the first time.** Learning something properly first time round is quicker than unlearning a shaky version of it later. A tutor working alongside what your child's covering in Year 10 is reinforcing, not repairing. And that's a much cheaper kind of work.
 
-**There is no time pressure, so confidence can rebuild.** A student who has decided they cannot do Science needs months, not weeks, to change their mind about that. Year 10 has months. Year 11 has a countdown, and the countdown itself adds pressure to a student who is already struggling.
+**There's no time pressure, so confidence can come back.** If your child has decided they can't do Science, it takes months, not weeks, to change their mind. Year 10 has months. Year 11 has a countdown, and the countdown itself piles pressure on a teenager who's already struggling.
 
-**It is easier to fit in.** One hour a week in Year 10 competes with normal homework. In Year 11 it competes with revision, coursework, mock preparation and everything else. The same commitment is meaningfully harder to sustain a year later.
+**It's easier to fit in.** In Year 10, an hour a week only competes with normal homework. In Year 11 it's up against revision, coursework, mock preparation and everything else. Keeping up that same hour a year later is a lot harder.
 
-**Tutors are available.** Demand is lower, so the choice of tutor is wider, especially in core subjects.
+**Tutors have space.** Fewer families are looking, so you get a wider choice of tutor, especially in the core subjects.
 
 ## What Year 11 is good for
 
-Year 11 is not the wrong answer. It is good at a different set of things, and for many students it is genuinely the right time.
+Year 11 isn't the wrong answer. It's good at different things, and for lots of children it's genuinely the right time.
 
-**Exam technique, which is where a lot of marks live.** Command words, timing, how many marks a question is worth and what a full-mark answer looks like. This is best taught close to the exam, when it is immediately applicable and the student can see the point. Teaching exam technique in September of Year 10 is largely wasted.
+**Exam technique, which is where a lot of marks live.** Command words: the word in a question, like "explain" or "evaluate", that tells your child what the examiner wants. Timing. How many marks a question is worth, and what a full-mark answer looks like. It's best taught close to the exam, when your child can use it straight away and see the point. Teaching it in September of Year 10 is mostly wasted.
 
-**Mock papers as real diagnostics.** A mock sat under real conditions gives a tutor more information in ninety minutes than a term of reported grades. Year 11 produces these. Year 10 mostly does not.
+**Mocks that show what's really going on.** A tutor learns more from ninety minutes of a mock sat in exam conditions than from a whole term of reported grades. Year 11 gives you those. Year 10 mostly doesn't.
 
-**Focus.** Something changes in a lot of students in Year 11. It becomes real, and students who would not engage in Year 10 will engage now. If your child was not willing a year ago, that is not a reason to conclude they will not be willing this year.
+**Focus.** Something shifts for a lot of teenagers in Year 11. It suddenly feels real, and children who wouldn't engage in Year 10 often will now. So if your child wasn't willing a year ago, don't assume they won't be this year.
 
-**Targeting.** By Year 11 you know exactly which subjects and which topics are the problem. In Year 10 there is more guesswork, and a risk of paying for help in a subject that would have resolved itself.
+**Targeting.** By Year 11 you know exactly which subjects, and which topics, are the problem. In Year 10 there's more guesswork, and a risk of paying for help in a subject that would've sorted itself out.
 
-**Predicted grades and post-16 applications.** Autumn and winter of Year 11 is when predictions get made and applications go in. Work done before that window influences what a school writes down. Deadlines and requirements vary by provider, so check the specific ones your child is applying to.
+**Predicted grades and sixth form or college applications.** The autumn and winter of Year 11 are when predictions get made and applications go in. Whatever your child gets on top of before then feeds into the grade the school predicts. Deadlines and entry requirements differ from one sixth form or college to the next, so it's worth checking the ones they're applying to.
 
 ## Which one is right for your child
 
-The useful question is not "which year" but "what kind of problem is this".
+Rather than asking which year, it helps to ask what kind of problem you're dealing with.
 
-**Foundations problem, so Year 10.** They are missing underlying content, often from before GCSE started. Signs: they can do the practice questions in the lesson and cannot do them a week later, or a whole topic area stays weak week after week, or they are in a lower set than their effort suggests they should be. This needs time and Year 10 has it.
+**Foundations problem, so Year 10.** Your child is missing some of the underlying content, often from before GCSEs started. The signs: they can do the practice questions in the lesson but can't do them a week later. Or a whole topic stays weak week after week. Or they're in a lower set than their effort suggests they should be. This needs time, and Year 10 has it.
 
-**Technique or confidence problem, so Year 11 is fine.** They know the material and the marks do not reflect it. Signs: they revise and the assessment still comes back low, or they run out of time, or they say "I knew it, I just wrote the wrong thing". This is fast to fix and best fixed close to the exam.
+**Technique or confidence problem, so Year 11 is fine.** They know the material, but the marks don't show it. The signs: they revise and still get a low mark back, or they run out of time. Or they tell you "I knew it, I just wrote the wrong thing". This is quick to fix, and best fixed close to the exam.
 
-**Both, so start in Year 10 and continue.** Common, and the most expensive version, which is exactly why starting earlier saves money rather than spending more of it.
+**Both, so start in Year 10 and carry on.** Common, and the most expensive version. Which is exactly why starting earlier saves money rather than costing more.
 
-**Neither yet, so wait.** If your child is working steadily and getting results that match the effort, you do not need to buy anything. Watch it, and act when something changes.
+**Neither yet, so wait.** If your child is working steadily and the results match the effort, you don't need to buy anything. Keep an eye on it, and act if something changes.
 
 ## A middle option people forget
 
-You do not have to choose between a full year of weekly tutoring and nothing.
+You don't have to choose between a full year of weekly tutoring and nothing at all.
 
-A short block in the summer term of Year 10, six to eight sessions, aimed at the specific things the year has exposed, is one of the best-value things we see families do. It arrives when the tutor pool is quiet, it fixes gaps while they are still small, and it means Year 11 starts from a better place. If more is needed later, you already know the tutor and the tutor already knows your child.
+One of the best-value things we see families do is a short block in the summer term of Year 10. Six to eight sessions, aimed at whatever the year has shown up. It comes when tutors are quieter, it fixes gaps while they're still small, and it means Year 11 starts from a better place. If they need more later, you already know the tutor, and the tutor already knows your child.
 
-Similarly, a Year 10 student does not need three subjects. One, where the gap is real, is usually the right shape.
+In the same way, your child doesn't need three subjects in Year 10. One, where the gap is real, is usually plenty.
 
 ## What we tell parents on calls
 
-The version we give most often, in August and September:
+Here's what we say most often, in August and September:
 
-If the problem is that your child does not understand something, do it now, whichever year they are in, because understanding takes time to rebuild.
+If the problem is that your child doesn't understand something, start now, whichever year they're in. Understanding takes time to rebuild.
 
-If the problem is that your child understands it and cannot show it in an exam, Year 11 is genuinely fine and you have not missed anything.
+If your child understands it but can't show it in an exam, Year 11 is genuinely fine, and you haven't missed anything.
 
-If you do not know which it is, that is what a first diagnostic session is for, and it is a reasonable thing to book on its own before committing to a year of anything.
+If you don't know which it is, that's what a first diagnostic lesson is for. The tutor spends it finding out. It's a perfectly reasonable thing to book on its own, before you commit to a year of anything.
 
 ## Frequently asked questions
 
 **Is Year 9 too early?**
-For most students, yes, in the sense that GCSE-focused tutoring has little to grip. The exception is a student with real gaps in the basics of Maths or English, where Key Stage 3 support genuinely pays off later.
+For most children, yes, in the sense that GCSE tutoring doesn't have much to get hold of yet. The exception is if your child has real gaps in the basics of Maths or English. Then help at Key Stage 3 really does pay off later.
 
 **My child is in Year 11 already. Have we missed the window?**
-No. Year 11 tutoring works, and it is what most families do. Be realistic about which kind of problem you are solving: technique and timing move fast, foundations move slowly, and knowing which one you are buying is most of the battle.
+No. Year 11 tutoring works, and it's what most families do. Just be realistic about which kind of problem you're solving. Technique and timing move fast. Foundations move slowly. And knowing which one you're paying for is most of the battle.
 
 **Should we do Year 10 and Year 11?**
-Only if the need is genuinely there across both. Continuous tutoring for two years suits students rebuilding from a long way back. For most, a targeted block when it is needed is better value and less wearing.
+Only if your child clearly needs it in both years. Two years of tutoring without a break suits children rebuilding from a long way back. For most, a focused block when it's needed is better value, and less tiring for everyone.
 
 **Does starting in Year 10 mean cheaper overall?**
-Often, yes, though not always. Fixing a foundation gap while it is small takes fewer sessions than fixing it once a year of content has been built on top of it.
+Often, yes, though not always. A gap in the basics takes fewer sessions to fix while it's still small. Once a whole year of new work sits on top of it, it takes more.
 
 **Will my child resent starting early?**
-Some do at first. It tends to be easier in Year 10 than Year 11, because it feels less like a verdict on them. Framing it as "let us get ahead of this" lands better than "we need to fix this".
+Some do at first. It's usually easier to start in Year 10 than Year 11, because it feels less like a verdict on them. Putting it as "let's get ahead of this" goes down better than "we need to fix this".
 
 ## Sources
 
@@ -111,8 +111,8 @@ Some do at first. It tends to be easier in Year 10 than Year 11, because it feel
 
 ## Where The Degree Gap fits
 
-We are an online-only tutoring agency for GCSE and A-Level. On a free 30-minute call with Harry or me, the first thing we try to work out is whether you have a foundations problem or a technique problem, because they need different amounts of time and different amounts of your money.
+Harry and I run The Degree Gap, an online-only tutoring agency for GCSE and A-Level. Every family starts with a free 30-minute call with one of us. The first thing we try to work out on that call is whether your child has a foundations problem or a technique problem. The two need different amounts of time, and different amounts of your money.
 
-If your child is in Year 10 and the answer is a short block in the summer term rather than a year of weekly sessions, we will say so.
+If your child's in Year 10 and what they need is a short block in the summer term rather than a year of weekly lessons, we'll tell you.
 
 [Book a free consultation call →](/book-a-call/)

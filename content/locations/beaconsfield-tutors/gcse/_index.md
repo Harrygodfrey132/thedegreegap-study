@@ -1,41 +1,41 @@
 ---
 title: "Beaconsfield GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "Friendly Beaconsfield GCSE tutors, one-to-one and online, whichever school your child is at. A free consultation, 2 or 3 tutor profiles in 24 hours, from £37."
+description: "A Beaconsfield GCSE tutor starts with your child's latest marked paper and finds the topics costing marks. One-to-one online lessons from £37, no contract."
 layout: "subject"
 location: "Beaconsfield"
 level: "GCSE"
 
 hero_heading_line1: "Online GCSE Tutors for Beaconsfield Families, Whichever School Your Child Ended Up At"
 hero_heading_line2: ""
-hero_lead: "If your child is putting the hours in and the mock grades still aren't moving, you're far from the only family in town feeling it. Our Beaconsfield GCSE tutors work one-to-one online, an hour a week, on the exact topics costing marks."
+hero_lead: "If your child's putting the hours in and the mock grades still aren't moving, you're far from the only family in town feeling it. An hour a week with one of our Beaconsfield GCSE tutors goes on the exact topics where your child's losing marks, one-to-one and online."
 
 grade_from: "E"
 grade_to: "B"
-grade_stat: "One GCSE student writes that tutoring helped lift their grades from an E to a B."
+grade_stat: "In Keira's words, tutoring has 'definitely helped' lift the grades from an E to a B."
 
-first_lesson_eyebrow: "SAME PAPERS, EVERY SCHOOL"
-first_lesson_heading: "What a Beaconsfield GCSE Tutor Looks at Before Teaching Anything"
-first_lesson_context: "The conversation we have most with Beaconsfield parents starts at eleven and lands at fifteen: whatever happened with the Transfer Test, it's the GCSEs that sixth forms and colleges read. So a GCSE tutor begins with your child's latest marked paper, not a textbook, and works out which marks are going missing and why."
+first_lesson_eyebrow: "AFTER THE TRANSFER TEST"
+first_lesson_heading: "A Beaconsfield GCSE Tutor's First Job: Finding the Lost Marks"
+first_lesson_context: "The conversation we have most with Beaconsfield parents starts at eleven and ends up at fifteen. Whatever happened with the Transfer Test, it's GCSE grades that sixth forms and colleges read. So a GCSE tutor begins with your child's latest marked paper, not a textbook, and works out which marks are going missing and why."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "From an E to a B at GCSE"
 
-tutor_strip_heading: "Beaconsfield GCSE tutors picked for your child's exact exam board"
+tutor_strip_heading: "Different schools, different boards: Beaconsfield GCSE tutors"
 tutor_strip_body: "Brothers and sisters in Beaconsfield often sit different boards for the same subject, because their schools chose differently. We check the board on a free consultation call, then send 2 or 3 tutor profiles within 24 hours."
 
-pathways_heading: "Where Beaconsfield Year 11s Can Go at Sixteen"
-pathways_lead: "Three routes, and most families keep more than one open until the spring."
+pathways_heading: "Options Around Beaconsfield at Sixteen"
+pathways_lead: "It's normal to keep more than one of these open until the spring."
 pathways:
   - title: "Sixth Forms"
     body: >
-      Beaconsfield High School publishes a points total across a student's best eight GCSEs, with at least a grade 5 in English and Maths, and The Beaconsfield School offers A-Levels alongside BTEC and applied Level 3 courses. Many boys stay on at the Royal Grammar School or John Hampden Grammar in High Wycombe, where each sixth form sets its own subject requirements.
+      Beaconsfield High School publishes a points total across the best eight GCSEs, with at least a grade 5 in English and Maths, while The Beaconsfield School offers A-Levels alongside BTEC and other applied courses. Many boys stay on at the Royal Grammar School or John Hampden Grammar in High Wycombe, where each sixth form sets its own subject requirements.
   - title: "Apprenticeships"
     body: >
       Pinewood Studios at Iver runs early careers schemes, including apprenticeships aimed at school leavers from sixteen, and it backs the Buckinghamshire Careers Hub that works with local schools. Most apprenticeships still ask about English and Maths, so those two grades travel with your child whichever way they go.
   - title: "Further Education"
     body: >
-      Buckinghamshire College Group has campuses in High Wycombe, Amersham and Aylesbury, with full-time vocational courses for 16 to 18 year olds. So a student who lands a grade 3 in English or Maths isn't stuck: the college starts the year with an eight-week intensive ahead of the November resit.
+      Buckinghamshire College Group has campuses in High Wycombe, Amersham and Aylesbury, with full-time vocational courses for 16 to 18 year olds. And if your child lands a 3 in English or Maths, there's a way back: the college starts the year with an eight-week intensive ahead of the November resit.
 
 reviews:
   - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
@@ -48,13 +48,13 @@ reviews:
   - "Jessica|Student|I highly recommend Harry – he was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree!!"
 
 faq_1_q: "Do Beaconsfield sixth forms look at the Transfer Test result?"
-faq_1_a: "No. At sixteen it's the GCSE grades that count. Beaconsfield High School, for example, adds up points across a student's best eight GCSEs and asks for at least a grade 5 in English and Maths, and it uses the same rules for its own students and those applying from other schools. The Beaconsfield School and the grammar sixth forms in High Wycombe publish their own criteria. These get reviewed most years, so check this year's prospectus rather than what an older sibling was told."
-faq_2_q: "Is Year 10 too early to start GCSE tutoring?"
-faq_2_a: "Not at all, and it's often the easiest time. In Year 10 a tutor has room to go back and fix a topic from Year 8 or 9 properly, before Year 11 content piles on top of it. By Year 11 the lessons shift towards past papers and timing, with mocks usually landing between November and January. Starting in Year 11 still helps plenty of families. There's just a bit less breathing room."
-faq_3_q: "Will the tutor know the exam board my child is sitting?"
-faq_3_a: "Yes. We ask about it on the first call, before any profiles go out. AQA, Edexcel and OCR set their questions differently, and in Beaconsfield it's common for siblings at different schools to sit different boards in the same subject. A tutor who already knows the paper can start on real questions in the first lesson. Not sure which board it is? It's usually printed on the front of a mock paper, or we can help you find out."
-faq_4_q: "My child doesn't really want a tutor. Is that normal?"
-faq_4_a: "Very normal, and teenagers say it a lot before they've met anyone. It usually changes once they do, because a one-to-one lesson feels nothing like a classroom: one person, their full attention, nobody else watching. That's why your child meets the tutor on a free video call first and can say no to a particular person. If they still don't get on with it after a couple of lessons, you simply stop. No contract, lessons from £37."
+faq_1_a: "No. At sixteen it's the GCSE grades that count. Beaconsfield High School, for example, adds up points across the best eight GCSEs and asks for at least a grade 5 in English and Maths. The same rules apply to its own Year 11s and to applicants from other schools. The Beaconsfield School and the grammar sixth forms in High Wycombe publish their own criteria. These get reviewed most years, so check this year's prospectus rather than what an older sibling was told."
+faq_2_q: "Is it worth starting a tutor in Year 10, or should we wait?"
+faq_2_a: "It often is, and Year 10 tends to be the easiest time to start. There's room to go back to a topic from Year 8 or 9 and fix it properly before the Year 11 work gets stacked on top. In Year 11 the lessons lean more on past questions done against the clock, with the mocks somewhere between November and January. Lots of families only start in Year 11, and it still helps. There's just a bit less breathing room."
+faq_3_q: "How do you know which exam board my child's on?"
+faq_3_a: "We ask on the first call, before any tutor profiles go out. AQA, Edexcel and OCR phrase and mark their questions differently, so a tutor who already knows your child's paper can start on real past questions from the first lesson. A quick look at the cover of a recent mock usually settles which board it is. If not, we'll track it down with you."
+faq_4_q: "Should we go ahead if my child's not keen?"
+faq_4_a: "Usually, yes, as long as they meet the tutor first on a free video call. Plenty of teenagers aren't keen until then, and the meeting often changes their mind. An hour with one person, just for them, is a very different thing from a classroom. And your child can say no to a particular tutor. If it's still not clicking a couple of lessons in, you can stop. No contract, and lessons start from £37."
 
 sitemap:
   priority: 0.7

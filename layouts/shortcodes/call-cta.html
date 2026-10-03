@@ -8,13 +8,16 @@
   Copy lives here, not in each post, so it is one edit sitewide.
 */ -}}
 {{- $heading := .Get "heading" | default "Not sure what your child actually needs?" -}}
-{{- $body := .Get "body" | default "That is the most common reason families call us, and it is a good reason. Harry or Joe will spend thirty minutes with you on GCSE or A-Level choices, what the current grades are actually telling you, and whether tutoring is even the right answer yet. Nobody is matched with a tutor on that call, and a fair number of them end with us saying wait." -}}
+{{- $body := .Get "body" | default "It's the most common reason families call us, and it's a good one. Harry or Joe will spend thirty minutes with you on your child's GCSE or A-Level choices, what their grades are really saying, and whether tutoring is even the answer yet. We won't match you with a tutor on that call. Plenty of them end with us saying wait." -}}
 {{- $label := .Get "label" | default "Book a free 30-minute call" -}}
 {{- $url := .Get "url" | default "/book-a-call/" -}}
 <aside class="dg-callcta">
   <p class="dg-callcta__heading">{{ $heading }}</p>
   <p class="dg-callcta__body">{{ $body }}</p>
-  <p class="dg-callcta__action"><a href="{{ $url | relURL }}">{{ $label }} <span aria-hidden="true">&rarr;</span></a></p>
+  {{- /* Through url.html, not relURL: relURL drops the /study/ prefix from a
+         leading-slash path, which sent this button to the main site's
+         /book-a-call/ instead of ours. */}}
+  <p class="dg-callcta__action"><a href="{{ partial "url.html" $url }}">{{ $label }} <span aria-hidden="true">&rarr;</span></a></p>
 </aside>
 <style>
   .dg-callcta {

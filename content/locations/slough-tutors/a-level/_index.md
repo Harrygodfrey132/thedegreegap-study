@@ -1,41 +1,41 @@
 ---
 title: "Slough A-Level Tuition | From £37/hr | The Degree Gap"
-description: "Slough A-Level tutoring for the Year 12 dip and the grade an offer names. One-to-one online over Lessonspace, from £37 an hour."
+description: "Year 12 mock came back below your child's GCSEs? Our Slough A-Level tutors work one-to-one online to close the gap before predicted grades are set. From £37."
 layout: "subject"
 location: "Slough"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level tutors for Slough, from Year 12 wobble to the offer grade"
+hero_heading_line1: "Online Slough A-Level Tutors for When the Year 12 Mock Lands Low"
 hero_heading_line2: ""
-hero_lead: "The first Year 12 mock often lands a band or two under the GCSE result, and the prediction gets written off the back of it. Our Slough A-Level tutors work one-to-one online over Lessonspace to close that gap before it reaches an offer."
+hero_lead: "The first Year 12 mock often comes back a grade or two below your child's GCSEs. It's common, but it matters, because schools use Year 12 results when they set predicted grades. Our Slough A-Level tutors work one-to-one online to close that gap before an offer depends on it."
 
 grade_from: "C"
 grade_to: "A"
-grade_stat: "A real A-Level lift of almost two grades on a Year 13 mock paper, in a parent's own words."
+grade_stat: "One parent tells us their son finished almost two grades above his Year 13 mock paper."
 
 first_lesson_eyebrow: "A LONDON OFFER, A SLOUGH BEDROOM"
-first_lesson_heading: "How a Slough A-Level Tutor Turns a Year 12 Wobble Into an Offer Met"
-first_lesson_context: "From Slough a student can reach Brunel, Royal Holloway, Reading and the London universities from home, and the apprenticeships at Heathrow, Mars and Wexham Park from the same bedroom. So the next step here is rarely limited by distance; it turns on whether the three grades on the offer arrive. And the first sign they might not is usually a Year 12 mock that lands well under the GCSE result."
+first_lesson_heading: "What a Slough A-Level Tutor Does When Year 12 Wobbles"
+first_lesson_context: "From home in Slough, your child can reach Brunel, Royal Holloway, Reading and the London universities, and apprenticeships at Heathrow, Mars and Wexham Park. So distance is rarely the worry. The grades are, and a tutor's first job is to sit down with the Year 12 mock that came back low and work out exactly where the marks went."
 first_lesson_quote: "My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
 first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Almost two grades above the Year 13 mock"
 
-tutor_strip_heading: "Slough A-Level tutors who plan back from the offer letter"
-tutor_strip_body: "Whether your child is at one of the grammar sixth forms, The Langley Academy or over at Windsor College, we match on the exam board and on the modules being taught this year. Harry and Joe interview every tutor on the platform themselves. Browse the profiles, or let us suggest one."
+tutor_strip_heading: "Slough A-Level tutors who work back from your child's offer"
+tutor_strip_body: "Whether it's a grammar sixth form, The Langley Academy or Windsor College, we'll match the tutor to your child's exam board and what they're being taught this year. Harry and Joe interview every tutor themselves. Browse the profiles, or ask us to pick two or three."
 
-pathways_heading: "The Post-18 Step for Slough Year 13s, Often From Home"
-pathways_lead: "Three routes Slough families weigh up, and a lot of them start from the same front door."
+pathways_heading: "Where Slough Year 13s Go Next, Often Without Moving Out"
+pathways_lead: "Three routes Slough families tend to weigh up, and you'll notice plenty of them can start from home."
 pathways:
   - title: "Universities"
     body: >
-      Brunel in Uxbridge, Royal Holloway at Egham and Reading are all commutable from Slough, and the Elizabeth line puts the London universities inside an hour. Each publishes its own conditional offer by course, and Maths and the Sciences usually name a grade in the subject itself.
+      Brunel in Uxbridge, Royal Holloway at Egham and Reading are all a commute from Slough, and the Elizabeth line gets you to the London universities in under an hour. Each one sets its own offers course by course, and for Maths or a Science it'll usually name a grade in that subject.
   - title: "Degree Apprenticeships"
     body: >
-      Heathrow runs degree-level apprenticeships alongside its engineering scheme, and Frimley Health trains apprentices at Wexham Park Hospital, from business administration through to clinical routes. Applications run to the employer's calendar rather than the UCAS one, and most schemes read predicted grades rather than final ones.
+      Heathrow runs degree-level apprenticeships alongside its engineering scheme, and Frimley Health trains apprentices at Wexham Park Hospital in roles from business administration to clinical work. These follow the employer's calendar, not the UCAS one, so it's usually your child's predicted grades they see first.
   - title: "Career Pathways"
     body: >
-      Reckitt's global headquarters sits on the Bath Road, Mars is on Dundee Road, and the Trading Estate now holds one of Europe's largest clusters of data centres, employers a Slough Year 13 grows up next to. Heathrow, a few miles down the A4, is the other one every family here has considered at least once.
+      Reckitt's global headquarters is on the Bath Road, Mars is on Dundee Road, and the Trading Estate now has one of Europe's largest clusters of data centres, so your child grows up next door to some big employers. And then there's Heathrow, a few miles down the A4, which most Slough families have thought about at some point.
 
 reviews:
   - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
@@ -51,14 +51,14 @@ reviews:
   - "Sarom|Parent of A-Level Student|Harry has been very helpful in tutoring my son for his economics A Level. He has lots of patience, keeps lessons interesting and is a good motivator. Needless to say his subject matter is expertise is excellent."
   - "Alex|University Student|Can’t recommend The Degree Gap highly enough. Quick and helpful responses from Harry. He immediately matched me with a very competent tutor, who was a massive help in helping me exceed my target grade and achieve a first class degree at university."
 
-faq_1_q: "The predicted grades go off to UCAS in the autumn. How much can a tutor move before then?"
-faq_1_a: "More than most families expect, provided the work starts in Year 12. Predictions rest on what a student has shown in class and in the Year 12 exams, so the useful window is the two terms before those exams, not the fortnight before the UCAS form. A tutor reads the last marked paper, finds the question types costing marks and drills them weekly. An autumn start in Year 13 still helps the final grade. It just has less say over the number a university sees first."
-faq_2_q: "Can tutoring help with a Heathrow or Mars apprenticeship application as well as UCAS?"
-faq_2_a: "Yes, and the two run on different clocks, which is the main thing to know. Heathrow's schemes and the Mars apprenticeships in Slough publish their own entry requirements and run to their own calendars rather than the UCAS one, so the predicted grades can get read months apart. The work covers the same three subjects either way. On the call we ask which route is the real first choice, so the plan is built around the deadline that comes first rather than the one everyone talks about."
-faq_3_q: "Is the tutoring online, and is that enough for A-Level Maths and the Sciences?"
-faq_3_a: "Everything runs online, one-to-one, on Lessonspace, our shared whiteboard, and for A-Level it is the better format rather than a compromise. Tutor and student work on the same page, so every line of a mechanics problem or a mechanism gets written out, and each session is recorded so it can be replayed before a test. And the pool is national. The right person for OCR Chemistry or Edexcel Further Maths may live nowhere near Berkshire, and with a sixth form's worth of subjects to cover, that matters."
-faq_4_q: "My daughter is resitting a Year 13 subject. Is the plan different?"
-faq_4_a: "Yes. A resit year is short, and she has already seen the whole specification once, so the plan is not the syllabus again. The tutor starts from the actual script or the results breakdown, works out which papers and which question types lost the grade, and spends the year on those. Timed papers come in far earlier than they would for a first attempt, and the offer conversation restarts from wherever the January mocks land. Nobody needs to relive Year 12."
+faq_1_q: "Predicted grades go to UCAS in the autumn of Year 13. How much can a tutor help before then?"
+faq_1_a: "Quite a lot, as long as the work starts in Year 12. Schools base predictions on what your child shows in class and in the Year 12 exams. So the two terms before those exams count for far more than the fortnight before the form goes in. The tutor reads the last marked paper, finds the question types costing the most marks and works on them every week. Starting in the autumn of Year 13 still helps the final grade. It just has less say over the number a university sees first."
+faq_2_q: "Can a tutor help with a Heathrow or Mars apprenticeship as well as UCAS?"
+faq_2_a: "Yes. The main thing to know is that they run on different clocks. Heathrow's schemes and the Mars apprenticeships in Slough set their own entry requirements and their own deadlines, so your child's predicted grades could be looked at months apart. The subject work is the same either way. On the call we'll ask which route is really first choice, then plan around whichever deadline comes first, not just the one everybody talks about."
+faq_3_q: "It's all online. Is that really enough for A-Level Maths and the Sciences?"
+faq_3_a: "Yes, and lots of families find it works better at A-Level. Lessons are one-to-one on the platform Lessonspace. Your child and the tutor write on the same whiteboard, so every line of a mechanics problem or an organic Chemistry reaction is there to see. There's a replay of every lesson too, so your child can go back over it before a test. And because it's online, we can choose from tutors across the country. The right person for OCR Chemistry or Edexcel Further Maths might live nowhere near Berkshire."
+faq_4_q: "My daughter's resitting a Year 13 subject. Will the plan be different?"
+faq_4_a: "Yes, quite different. A resit year is short, and she's already been through the whole course once, so there's no point starting again from page one. The tutor starts from her results breakdown, or the marked paper if you've got it, and works out which papers and question types cost her the grade. That's where the year goes. Timed papers come in much earlier than they would first time round. Nobody needs to relive Year 12."
 
 sitemap:
   priority: 0.7

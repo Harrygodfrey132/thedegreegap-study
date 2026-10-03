@@ -449,7 +449,8 @@
 
   {{ with .Params.hero_image }}
   <div class="post-hero">
-    <img src="{{ partial "url.html" . }}" alt="{{ $.Title }}">
+    {{/* Widths, quality and sizes must match the hero preload in baseof.html. */}}
+    {{ partial "responsive-image.html" (dict "src" . "alt" $.Title "loading" "eager" "fetchPriority" "high" "widths" (slice 640 1000 1400) "fallbackWidth" 1000 "quality" 70 "sizes" "(min-width: 1080px) 1032px, calc(100vw - 48px)") }}
   </div>
   {{ end }}
 
@@ -555,7 +556,31 @@
   </section>
 
   {{ $current := . }}
-  {{ $more := first 3 (where (where .Site.RegularPages "Section" "blog") "Permalink" "!=" .Permalink) }}
+  {{/* The next older posts, wrapping round to the newest, preferring ones
+       that share this post's level tag. Showing the newest three on every
+       post sent all the links to the same few and left the rest of the
+       archive with one internal link each, from the blog index. Walking on
+       from each post's own position gives every post links from its
+       neighbours instead. */}}
+  {{ $posts := (where .Site.RegularPages "Section" "blog").ByDate.Reverse }}
+  {{ $n := len $posts }}
+  {{ $me := 0 }}
+  {{ range $i, $p := $posts }}{{ if eq $p.Permalink $current.Permalink }}{{ $me = $i }}{{ end }}{{ end }}
+  {{ $levels := intersect (.Params.tags | default slice) (slice "GCSE" "A-Level" "UCAS" "Personal Statement") }}
+  {{ $order := slice }}
+  {{ if gt $n 1 }}{{ range seq 1 (sub $n 1) }}{{ $order = $order | append (index $posts (mod (add $me .) $n)) }}{{ end }}{{ end }}
+  {{ $more := slice }}
+  {{ $picked := slice }}
+  {{ range $order }}
+    {{ if and (lt (len $more) 3) (intersect (.Params.tags | default slice) $levels) }}
+      {{ $more = $more | append . }}{{ $picked = $picked | append .Permalink }}
+    {{ end }}
+  {{ end }}
+  {{ range $order }}
+    {{ if and (lt (len $more) 3) (not (in $picked .Permalink)) }}
+      {{ $more = $more | append . }}{{ $picked = $picked | append .Permalink }}
+    {{ end }}
+  {{ end }}
   {{ if $more }}
   <section class="more-posts">
     <h2 class="more-posts__heading">More from the blog</h2>
@@ -563,7 +588,7 @@
       {{ range $more }}
       <a class="more-posts__card" href="{{ .RelPermalink }}">
         {{ with .Params.hero_image }}
-        <div class="more-posts__card-media"><img src="{{ partial "url.html" . }}" alt="{{ $.Title }}" loading="lazy"></div>
+        <div class="more-posts__card-media">{{ partial "responsive-image.html" (dict "src" . "alt" "" "loading" "lazy" "widths" (slice 420 760) "fallbackWidth" 420 "sizes" "(min-width: 1000px) 360px, (min-width: 641px) 50vw, 100vw") }}</div>
         {{ end }}
         <p class="more-posts__card-meta">
           {{ with .Params.author }}{{ . }} &middot; {{ end }}{{ .Date.Format "2 Jan 2006" }}

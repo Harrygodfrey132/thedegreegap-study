@@ -1,71 +1,71 @@
 ---
 title: "Sunbury-on-Thames Tutors | The Degree Gap"
-description: "One-to-one Sunbury-on-Thames tutoring for GCSE and A-Level, matched on subject, exam board and the grade your child is actually going for."
+description: "Online Sunbury-on-Thames tutoring for GCSE and A-Level. If the school report says fine but the grade won't budge, talk it through with us. From £37 an hour."
 layout: "single"
 location: "Sunbury-on-Thames"
-banner_heading: "Looking for an online Sunbury-on-Thames tutor who can move the grade, not just cover the content?"
-banner_description: "We match Sunbury families with one-to-one tutors who know what the school is asking for and what the exam paper is actually rewarding."
-content_angle: "ambition"
-intro_1: "Most Sunbury-on-Thames parents come to us with a worry that doesn't fit a tidy box. The student is putting the hours in. The school report is fine. But the predicted grade is sitting half a band lower than the family was quietly hoping for, and nobody at parents' evening can quite name why. The pressure here is real even though it doesn't always look it. With Hampton, Halliford, Lady Eleanor Holles and Sir William Perkins's all within a short drive, the local reference point for what a strong GCSE looks like has been set high for years."
-intro_2: "That is the gap a tutor closes. We match Sunbury families with one-to-one tutors who have walked dozens of students through the same AQA or Edexcel specification and know what the longer exam questions are actually rewarding. Every family speaks with a co-founder first. The first session is usually a diagnostic, not a lecture. From there the plan is built around the topic or paper question that's been quietly leaking marks for a year."
+banner_heading: "When the Report Says 'Fine' but the Grade Won't Budge: Online Sunbury-on-Thames GCSE and A-Level Tutors"
+banner_description: "Often the answer is in what happens to the working when the clock's running. A tutor can find where the marks slip away and help your child keep them."
+content_angle: "the 'fine' report: a predicted grade just under what your child hoped, marks slipping under time, and comparing notes with other parents"
+intro_1: "It's a quieter sort of worry, and a lot of Sunbury-on-Thames parents describe it to us. Nothing has gone wrong, exactly. Homework gets done and the reports are fine. And yet the predicted GCSE or A-Level grade in one or two subjects sits just under where your child hoped to be, and nobody can quite say why. With Hampton, Halliford, Lady Eleanor Holles and Sir William Perkins's all a short drive away, and friends spread across different schools, it's hard not to compare notes with other parents. Almost everyone does."
+intro_2: "The tutor's first job is finding where the marks are going. Before that, there's a free call with one of our co-founders, Harry or Joe, about your child and what's been happening at school. Within a day of that call you'll have two or three tutor profiles to read, and your child can meet the one you like best over a free video call before anything's booked. After that it's a lesson a week, from £37 an hour, with no contract to sign."
 about_heading: "Trusted Tutors for Sunbury-on-Thames Students"
 about_image: "/images/university-lecture-hall.jpg"
-schools_intro: "Our Sunbury-on-Thames tutors work with students from Sunbury Manor School, The Bishop Wand Church of England School, Halliford School, Three Rivers Academy, Hampton School and Lady Eleanor Holles. Some of those students are catching up after a topic that didn't land in Year 9. Others are stretching past where the class can go. The mix matters. We also run revision and exam preparation workshops on request, for groups of students who want extra structure outside the classroom."
+schools_intro: "Families get in touch from Sunbury Manor and Bishop Wand, from Three Rivers Academy, and from Halliford, Hampton and Lady Eleanor Holles. The worry sounds much the same whichever school it is. What changes is the exam board, and that matters more than people expect, because an AQA paper and an Edexcel paper don't ask things the same way. We'll check your child's boards on the call. Away from tutoring, Harry and Joe run revision workshops in schools, and more than 15 UK secondary schools work with us directly."
 schools: ["Sunbury Manor School", "The Bishop Wand Church of England School", "Halliford School", "Three Rivers Academy", "Hampton School", "Lady Eleanor Holles School"]
 schools_image: "/images/aerial-school-campus-building.jpg"
-online_heading: "How online tutoring works for Sunbury-on-Thames families"
-online_1: "A school-night drive across Spelthorne to a tutor's house is not realistic for most Sunbury families, and weekend slots fill up fast. Sessions through Lessonspace, our shared whiteboard, mean an hour after dinner with the right specialist and no travel attached. Most students settle into the platform inside the first lesson. It feels less like school and more like a tool."
-online_2: "The other reason matters more for the longer game. The right tutor on Edexcel A-Level Maths, or on AQA Chemistry for the multi-step calculation questions, may live in Reading or Manchester. Online tutoring opens the country to a family in Sunbury. Most students concentrate better one-to-one online than they do in a classroom of thirty where the pace is set by the middle."
+online_heading: "Online tuition that fits a Sunbury-on-Thames school night"
+online_1: "Your child's lessons happen online, one-to-one, on a platform called Lessonspace. The tutor and your child share a whiteboard on screen, so the tutor sees each line of working as it goes down, not just the answer at the end. That's often where the 'nobody can say why' gets answered. And nobody has to drive across Spelthorne. Just a laptop at the kitchen table and an hour around dinner."
+online_2: "Each lesson is recorded, so your child can replay the ten minutes on circle theorems on a Sunday afternoon instead of trying to remember them. Because it's online, we're choosing from tutors across the UK, not just whoever has a free slot nearby, so the tutor we suggest will know your child's exam board. Most children stop noticing the screen after a lesson or two."
 online_image: "/images/online-study-workspace-with-coffee.jpg"
 map_url: "https://maps.google.com/maps?q=Sunbury-on-Thames,UK&output=embed"
-areas_intro: "Because most of our tuition runs online, students in Sunbury-on-Thames and the surrounding Surrey towns can access the right subject specialist without being limited by who lives nearby."
+areas_intro: "Whether you're in another corner of Spelthorne or one of the Surrey towns nearby, lessons happen at home in just the same way, and we help families in the towns below too."
 area_links: ["Guildford Tutors|/locations/guildford-tutors/", "Epsom Tutors|/locations/epsom-tutors/", "London Tutors|/locations/london-tutors/", "Reading Tutors|/locations/reading-tutors/", "Winchester Tutors|/locations/winchester-tutors/", "Oxford Tutors|/locations/oxford-tutors/"]
 gcse_subjects: [
-  "GCSE Maths Tuition|Algebra, geometry and statistics worked one-to-one, with the longer multi-step questions that decide the top of the higher tier.|/book-a-call/",
-  "GCSE Biology Tuition|Required practicals and six-mark questions taken in detail, at whatever level the student is sitting at.|/book-a-call/",
-  "GCSE English Tuition|Sharper analytical writing across Language and Literature, with feedback that builds towards stronger essay technique.|/book-a-call/",
-  "GCSE Physics Tuition|The multi-step problems and unit-conversion traps that catch students at the top of the higher tier.|/book-a-call/",
-  "GCSE History Tuition|Structured essay coaching across the main exam boards, with focus on the 16-mark questions where marks are most often left on the page.|/book-a-call/",
-  "GCSE Chemistry Tuition|Drill on moles, equations and rates, taken slowly until the pattern clicks rather than rushed.|/book-a-call/",
-  "GCSE French Tuition|Speaking and writing practice that lifts students into the higher tier, with vocabulary and structure built deliberately.|/book-a-call/",
-  "GCSE Geography Tuition|Case-study recall and the long-answer technique that separates a strong response from a top-band one.|/book-a-call/",
-  "GCSE Computer Science Tuition|Programming projects and theory exam prep, with focus on the algorithm questions that decide top marks.|/book-a-call/",
+  "GCSE Maths Tuition|Longer problem-solving questions, practised under time until your child stops leaving the working half-finished.|/book-a-call/",
+  "GCSE Biology Tuition|Six-mark answers that cover every point on the mark scheme, so nothing important gets left out when the clock's running.|/book-a-call/",
+  "GCSE English Tuition|Essay plans your child can sketch in five minutes, so Language and Literature answers finish before the time does.|/book-a-call/",
+  "GCSE Physics Tuition|Equations picked and rearranged calmly, even when the question wraps them in a setting your child hasn't seen.|/book-a-call/",
+  "GCSE History Tuition|The 16-mark essay, planned so your child's judgement comes through clearly and the final paragraph never gets squeezed.|/book-a-call/",
+  "GCSE Chemistry Tuition|Moles and rates slowed right down, one line of working at a time, until the method feels routine.|/book-a-call/",
+  "GCSE French Tuition|Speaking practice until the exam feels like a normal conversation, and writing that uses the phrases examiners reward.|/book-a-call/",
+  "GCSE Geography Tuition|Case studies with enough real detail to quote, and longer answers that weigh both sides before deciding.|/book-a-call/",
+  "GCSE Computer Science Tuition|Algorithms traced by hand and code written on paper, two skills the written exams test a lot.|/book-a-call/",
 ]
 alevel_subjects: [
-  "A-Level Economics Tuition|Diagram precision and the evaluation chains that separate a B-grade essay from an A-grade one.|/book-a-call/",
-  "A-Level Maths Tuition|Pure, Mechanics and Statistics depth, with the structured proof work that separates an A from an A*.|/book-a-call/",
-  "A-Level Chemistry Tuition|Mechanisms, calculations and multi-step organic synthesis problems where ambitious students need precision.|/book-a-call/",
-  "A-Level Psychology Tuition|Tight AO3 evaluation chains and the synoptic essay structure that lift students into the top band.|/book-a-call/",
-  "A-Level Biology Tuition|Synoptic questions and required practicals, broken down at whatever level the student is sitting at.|/book-a-call/",
-  "A-Level Physics Tuition|Problem-solving structure and conceptual understanding that turns a B into an A* in Mechanics and Fields.|/book-a-call/",
-  "A-Level English Tuition|Critical reading and comparative essay structure, sharpened at whatever level the student is sitting at.|/book-a-call/",
-  "A-Level History Tuition|Source analysis and the 25-mark essay, where most students lose marks they could keep with the right technique.|/book-a-call/",
-  "A-Level Geography Tuition|Case studies, synoptic links and the 20-mark essay technique across A-Level grade bands.|/book-a-call/",
+  "A-Level Economics Tuition|Diagrams drawn accurately and quickly, and essays that weigh up a policy instead of just describing it.|/book-a-call/",
+  "A-Level Maths Tuition|Proof, calculus and mechanics, with practice at spotting what a question wants before any working starts.|/book-a-call/",
+  "A-Level Chemistry Tuition|Organic mechanisms and long calculations, set out step by step so one early slip doesn't cost every mark after it.|/book-a-call/",
+  "A-Level Psychology Tuition|Evaluation that goes further than 'this study lacks validity', written in the time the paper allows.|/book-a-call/",
+  "A-Level Biology Tuition|Long answers that link topics from across the course, and practical questions answered from understanding, not memory.|/book-a-call/",
+  "A-Level Physics Tuition|Fields and mechanics, practised until the written explanations come as easily as the calculations.|/book-a-call/",
+  "A-Level English Tuition|Close reading of the set texts, and essays that argue one clear line rather than listing every idea.|/book-a-call/",
+  "A-Level History Tuition|Twenty-five-mark essays planned before the writing starts, with every paragraph tied back to the question.|/book-a-call/",
+  "A-Level Geography Tuition|The independent investigation and long essays, planned so the argument holds together.|/book-a-call/",
 ]
 other_subjects: [
-  "University Personal Statement|Shape a strong UCAS personal statement with expert support on structure, subject motivation and final polish.|/book-a-call/",
+  "University Personal Statement|A UCAS statement with real examples of what your child has read and done, shaped over several drafts.|/book-a-call/",
 ]
-faq_1_q: "How do I find the right tutor in Sunbury-on-Thames?"
-faq_1_a: "Tell us the subject, the year group and what the student is trying to achieve. We take it from there. Most families hear back quickly, and you are not left scrolling through profiles trying to figure it out yourself."
-faq_2_q: "Do you offer online tutoring for students in Sunbury-on-Thames?"
-faq_2_a: "Yes, and it is how most of our sessions run. Students get access to a wider pool of tutors, sessions are easier to keep consistent, and most students concentrate better one-to-one online than they do in a classroom. It works well."
-faq_3_q: "Can tutors help with GCSE mock preparation in Sunbury-on-Thames?"
-faq_3_a: "Yes. Mocks are one of the most common reasons families come to us. Tutors work through past papers, tighten exam technique and focus on the topics most likely to come up. Students go in knowing what to expect."
-faq_4_q: "How long does it take to see an improvement?"
-faq_4_a: "Most students notice something within the first few sessions. Not always in grades straight away, but in how the subject feels. Less daunting. Clearer. Grade improvements usually follow within a half term of regular sessions."
-why_heading: "Why Sunbury-on-Thames families come to us for one-to-one tutoring"
-why_para_1: "Most Sunbury parents describe the same thing in a first conversation. The student is putting the hours in but the gap between what comes back on a homework sheet and what comes back on a timed mock has been quietly widening for a term. The class has thirty in it and the teacher is moving with the middle. What the tutor finds in week one is rarely a content gap. It is the way a long question is being opened, the working that is being skipped, the marks that are being left on the page in a four or five-mark response. Nobody has named it because in a class of thirty nobody had the time."
-why_para_2: "What changes in the first few sessions is honest marking. The tutor walks the student through a recent paper the way an examiner would, then drills the technique on the questions where the marks went. From there, sessions move into the topic or paper part that has been costing the most. For Sunbury students who are quietly ambitious about the grade, the shift tends to show up in the next homework before it shows up in the next mock."
-accordion_quality: "Every tutor on our platform is a graduate, vetted on subject knowledge and on how clearly they can explain a hard idea under pressure. Roughly three percent of applicants come through the founder-led interview process. For Sunbury students working towards the grade the family is actually hoping for, that bar matters more than postcode."
-accordion_experience: "Our Sunbury-on-Thames tutors have years of one-to-one experience across GCSE and A-Level specifications, and many are qualified examiners. The mark schemes they have spent years inside are the same ones your child's papers will be marked against."
-accordion_personalised: "One Sunbury student might need stretch work in A-Level Maths above the syllabus pace. Another might be a strong Year 10 stuck on six-mark Biology questions. The tutor reads where the student actually is in the first session, then builds the plan around the gap that is costing the most."
+faq_1_q: "The school says my child is doing fine. Is a tutor worth it?"
+faq_1_a: "It can be, if your child feels stuck or wants a better grade than the one predicted. Lots of families start with one subject to see what a fresh pair of eyes finds. There's no contract, so you can stop whenever you like."
+faq_2_q: "Is it online only, or can a tutor come to our house in Sunbury?"
+faq_2_a: "It's online only, and your child has lessons at home on a laptop. That's what lets us choose from tutors all over the UK and suggest the ones who'll suit your child best. It also saves anyone a drive after a long day."
+faq_3_q: "Mocks are coming up. Can a tutor help my child get ready?"
+faq_3_a: "Yes, and the weeks before mocks are a good time to start. The tutor looks at recent tests to see where marks are slipping, then practises those questions under time, so the real thing feels familiar. Afterwards, the mock shows what to work on next."
+faq_4_q: "How long before we notice a difference?"
+faq_4_a: "Often a few weeks, and you'll probably hear it before you see it in a mark: your child saying they finished a test for once, or homework taking less time. A better grade usually takes longer, and we'd never promise one."
+why_heading: "What a Sunbury-on-Thames tutor looks for in the first few lessons"
+why_para_1: "In a first lesson, the tutor will usually want to see two things: a recent piece of homework and a recent timed test. The homework is often good. The test is where the gap shows. Under time the working gets squeezed, a step goes missing, and the long question at the end of the paper gets half an answer because the clock ran out. None of that shows on a homework sheet, so it can quietly build up over a term or two. And in a class of thirty, nobody has the time to sit beside one child and watch the working go down."
+why_para_2: "From there, the early lessons are timed practice, checked line by line against the real mark scheme, so your child sees the exact point where a mark slipped away. They learn what a full answer to a six-mark question looks like, and how to keep the working from shrinking when time's short. Often the first sign is at home. Fewer evenings of 'I knew it, I just ran out of time'."
+accordion_quality: "We want to hear a tutor explain something awkward, like why the inequality sign flips, to a teenager who's already decided they're 'bad at maths', and to do it without rushing. Harry or Joe interviews every tutor before they join, and only about 3% of applicants get through. Good grades of their own aren't enough."
+accordion_experience: "It takes practice to spot where marks go missing on an AQA, Edexcel or OCR paper, and every tutor on our platform has at least two years of tutoring behind them. Many are qualified teachers, too."
+accordion_personalised: "The plan isn't decided in advance. The first lesson is mostly about finding where your child is. Then the tutor works from what they find: an old gap to fill slowly, or room to go faster and further than the class will this term."
 reviews: [
-  "Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional. Both my sons exceeded their expected grades in their GCSEs and A Levels and got into their first choice universities. I cannot recommend them highly enough.",
-  "Alexander|Parent|The Degree Gap helped my child go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and applications.",
-  "Mahir|A-Level Student|My tutor was an excellent teacher that helped me gain real grip of the complicated areas in my subjects like economics. I'd highly recommend for anyone looking to consistently perform at their best.",
-  "Sorland|Grandparent|My granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone.",
-  "Daljit|Parent of A-Level Student|My son gained almost two grades higher than his year 13 mock paper. His tutor was excellent.",
-  "Aila|University Applicant|My tutor was amazing. He helped me shape my personal statement into something I was truly proud of, and thanks to his support, I got into my dream university. Highly recommend to anyone applying to uni.",
+  "Lisa|Parent|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough.",
+  "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application.",
+  "Mahir|A-Level Student|Harry was an excellent teacher that helped me gain real grip of the complicated areas in my subjects like economics - I'd highly recommend for anyone looking to consistently perform at their best.",
+  "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone.",
+  "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent",
+  "Aila|University Applicant|Harry was amazing! He helped me shape my personal statement into something I was truly proud of, and thanks to his support, I got into my dream university! Couldn’t have done it without him–highly recommend to anyone applying to uni.",
 ]
 sitemap:
   priority: 0.8

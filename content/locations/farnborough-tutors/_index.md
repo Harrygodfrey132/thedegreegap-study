@@ -1,70 +1,70 @@
 ---
 title: "Farnborough GCSE & A-Level Tutors | Online | The Degree Gap"
-description: "Online one-to-one Farnborough tutoring for GCSE and A-Level, matched on exam board, with sixth form college entry and engineering apprenticeships in view."
+description: "Set on a particular A-Level or apprenticeship? We'll aim your child's weekly lessons at the grade it needs. Online Farnborough tutoring, from £37 an hour."
 layout: "single"
 location: "Farnborough"
-banner_heading: "Online Farnborough tutors for the Year 11 grades that decide the course, not just the place"
-banner_description: "Getting into college and getting onto the course you wanted are two different bars. We work to the second one, in the subject that decides it."
-content_angle: "subject-level sixth form entry"
-intro_1: "Farnborough has an unusually strong post-16 offer for a town its size, and that shapes how Year 11 feels here. Most of the town's students, and a good share of Aldershot's, head to Farnborough Sixth Form College or to Farnborough College of Technology. The part families often discover late is that getting a place and getting onto a specific A-Level are separate questions. The general entry standard is one number. The requirement for the subject a student actually wants is usually higher, and it is the one that decides whether the plan survives results day."
-intro_2: "So the work starts with the course rather than the college. We ask which A-Levels the student is aiming at before anyone plans a term of tutoring, because Maths and the Sciences generally ask for more in the subject itself than the general line implies. Every family speaks with a co-founder first, and the first session is diagnostic. Farnborough is also an engineering town, with the aerospace and defence employers around the airport running technical routes, and those read the same grades from a different angle."
+banner_heading: "Farnborough GCSE and A-Level Tutors Online, Aimed at the Course Your Child Wants"
+banner_description: "If your child has a course in mind, the grade that counts is the one that course asks for. It's often above the college's general bar, and it's what our tutors aim at."
+content_angle: "a child with a plan: the subject grade their chosen course needs"
+intro_1: "Your child might already have it worked out. A-Level Physics at Farnborough Sixth Form College, say, or an engineering apprenticeship with one of the aerospace firms around the airport. It's lovely to see at 15. The catch is the number that comes with it. Most Year 11s here, and plenty from Aldershot, carry on at one of the town's two colleges. But the general entry standard is only half the story. Each A-Level has its own requirement in the subject itself, and for Maths and the Sciences it's usually the higher of the two."
+intro_2: "That's why the course comes first for us, not the college. On a free call, Harry or Joe will ask what your child hopes to study or train in, and which GCSEs feed into it. Then we look for tutors who know those subjects on your child's exam boards. The weekly work aims at the grade that course needs. For an apprenticeship, the same Maths, English and Science grades matter. They're just read by an employer rather than a college."
 about_heading: "Online Tutors Covering Farnborough"
 about_image: "/images/students-in-classroom-taking-notes.jpg"
-schools_intro: "Our Farnborough tutors work with families from Cove School, The Wavell School, All Hallows Catholic School and Farnborough Hill, along with students at Alderwood in neighbouring Aldershot. Post-16 the town is served by Farnborough Sixth Form College and Farnborough College of Technology, with Alton College drawing others. We also run revision and exam preparation workshops on request, for groups of students who want extra structure outside the classroom."
+schools_intro: "Children from Cove School, The Wavell School, All Hallows Catholic School and Farnborough Hill work with tutors on our platform. So do families at Alderwood in neighbouring Aldershot. At 16, most move on to Farnborough Sixth Form College or Farnborough College of Technology, and some to Alton College. During the day you'll often find Harry and Joe in schools, running revision workshops."
 schools: ["Cove School", "The Wavell School", "All Hallows Catholic School", "Farnborough Hill", "Farnborough Sixth Form College", "Farnborough College of Technology"]
 schools_image: "/images/students-listening-in-classroom.jpg"
-online_heading: "Why online tutoring suits Farnborough families"
-online_1: "The right specialist on OCR A-Level Physics or AQA English Literature is rarely in the same postcode, and in a town where a lot of students are aiming at specific subject requirements, matching on specification rather than on distance is the whole point. Sessions run on Lessonspace, our shared whiteboard, where a past paper can be marked on screen line by line."
-online_2: "It also fits the week. A weekly hour after dinner with no drive attached survives a busy term in a way a Tuesday trip across town does not, and consistency matters more than total hours. Most students settle into the platform inside the first lesson, and because sessions are recorded a method can be watched again when the homework is actually being attempted."
+online_heading: "Online tutoring matched to the exact papers your child will sit"
+online_1: "Online, we can match your child with a tutor who knows their exact papers, such as OCR A-Level Physics. It doesn't matter where in the UK that tutor lives. Lessons run on the platform Lessonspace, where tutor and child work on one shared whiteboard. A past paper can sit on screen while they mark it together, line by line. Your child sees exactly how each mark is earned, and where the last one slipped away."
+online_2: "Nobody has to drive anywhere, which helps more than you'd think in a busy term. It's easy to keep up a weekly lesson on a set evening. And a steady hour each week tends to beat a panicked block in May. Lessons are recorded, so when your child's stuck on homework on a Sunday afternoon, they can watch the tutor explain it again."
 online_image: "/images/child-using-online-learning-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Farnborough,Hampshire,UK&output=embed"
-areas_intro: "Because our tutoring runs online, students in Farnborough and across north Hampshire and west Surrey can work with the right subject specialist rather than the nearest one."
+areas_intro: "We help families right across north Hampshire and west Surrey, including the towns below, and online lessons work the same way in all of them."
 area_links: ["Aldershot Tutors|/locations/aldershot-tutors/", "Basingstoke Tutors|/locations/basingstoke-tutors/", "Guildford Tutors|/locations/guildford-tutors/", "Reading Tutors|/locations/reading-tutors/", "Winchester Tutors|/locations/winchester-tutors/", "Fareham Tutors|/locations/fareham-tutors/"]
 gcse_subjects: [
-  "GCSE Maths Tuition|Work aimed at the subject requirement for A-Level Maths rather than the general college entry line.|/book-a-call/",
-  "GCSE English Tuition|Language and Literature are separate grades with separate requirements, and we work to the one that is actually asked for.|/book-a-call/",
-  "GCSE Biology Tuition|Required practicals and long-answer structure, taught as exam questions rather than as a memory of the lesson.|/book-a-call/",
-  "GCSE Chemistry Tuition|Moles, equations and rates, with the calculation steps written out in full.|/book-a-call/",
-  "GCSE Physics Tuition|Rearranging and multi-step problems, which is also what the local technical routes read most closely.|/book-a-call/",
-  "GCSE History Tuition|Essay structure across the main boards, with focus on the longer questions where marks are won.|/book-a-call/",
-  "GCSE Geography Tuition|Case-study recall and long-answer technique for the extended questions.|/book-a-call/",
-  "GCSE French Tuition|Speaking and writing practice built deliberately, at whatever level the student is starting from.|/book-a-call/",
-  "GCSE Computer Science Tuition|Algorithms, trace tables and the programming project alongside the theory papers.|/book-a-call/",
+  "GCSE Maths Tuition|Aimed at the Maths grade your child's chosen A-Levels or apprenticeship will ask for, often more than a college place needs.|/book-a-call/",
+  "GCSE English Tuition|Analysis and timed writing, with an eye on the English grade that apprenticeship schemes ask for.|/book-a-call/",
+  "GCSE Biology Tuition|Handy for anyone eyeing Science A-Levels, with practical-based questions and longer answers practised until they feel routine.|/book-a-call/",
+  "GCSE Chemistry Tuition|Bonding, structure and rates, for a child who wants Chemistry at A-Level and needs the grade to match.|/book-a-call/",
+  "GCSE Physics Tuition|A grade the aerospace employers around the airport look at closely for technical roles, so the tutor builds real fluency with the equations.|/book-a-call/",
+  "GCSE History Tuition|Source work and well-argued essays, useful long after GCSE if your child leans towards essay subjects.|/book-a-call/",
+  "GCSE Geography Tuition|Maps, graphs and data questions practised little and often, plus a quick outline before each longer answer.|/book-a-call/",
+  "GCSE French Tuition|Grammar explained clearly and writing tasks practised, so your child can reuse good phrases across different topics.|/book-a-call/",
+  "GCSE Computer Science Tuition|Algorithms and programming for a child drawn to engineering or tech, with the written theory covered too.|/book-a-call/",
 ]
 alevel_subjects: [
-  "A-Level Maths Tuition|Pure, Mechanics and Statistics, with the method work the GCSE-to-A-Level jump exposes.|/book-a-call/",
-  "A-Level Physics Tuition|Mechanics and Fields problem-solving, and the subject the aerospace apprenticeship routes read hardest.|/book-a-call/",
-  "A-Level Chemistry Tuition|Mechanisms taught as rules rather than sequences, and calculation chains written out in full.|/book-a-call/",
-  "A-Level Biology Tuition|Synoptic answers and required practicals, marked the way an examiner marks them.|/book-a-call/",
-  "A-Level Economics Tuition|Diagram precision and the evaluation chains that carry the longer essays.|/book-a-call/",
-  "A-Level Psychology Tuition|AO3 evaluation chains and the synoptic essay structure, at whatever level the student is sitting at.|/book-a-call/",
-  "A-Level English Tuition|Critical reading and the comparative essay, sharpened against the real mark scheme.|/book-a-call/",
-  "A-Level History Tuition|Source analysis and the 25-mark essay, where technique keeps marks content alone does not.|/book-a-call/",
-  "A-Level Geography Tuition|Synoptic links, case studies and the 20-mark essay technique.|/book-a-call/",
+  "A-Level Maths Tuition|Calculus, mechanics and statistics, for a Year 12 who's finding A-Level Maths steeper than expected.|/book-a-call/",
+  "A-Level Physics Tuition|Mechanics, waves and plenty of maths, useful for university and for the higher apprenticeships local employers run.|/book-a-call/",
+  "A-Level Chemistry Tuition|Multi-step calculations and equilibria, worked through at a steady pace with each step written out and checked.|/book-a-call/",
+  "A-Level Biology Tuition|Data and graph questions alongside the longer answers, practised on past papers from your child's own exam board.|/book-a-call/",
+  "A-Level Economics Tuition|Diagrams and data questions practised every week, with the evaluation in essays built up one point at a time.|/book-a-call/",
+  "A-Level Psychology Tuition|Help with the statistics side of research methods, for a child who finds the numbers off-putting.|/book-a-call/",
+  "A-Level English Tuition|One clear argument per essay, with quotations chosen to support it rather than decorate it.|/book-a-call/",
+  "A-Level History Tuition|Longer essays that reach a clear judgement, and interpretations handled with confidence instead of guesswork.|/book-a-call/",
+  "A-Level Geography Tuition|The data and statistics in the fieldwork investigation explained step by step, plus timed practice on the long essays.|/book-a-call/",
 ]
 other_subjects: [
-  "University Personal Statement|Shape a strong UCAS personal statement with support on structure, subject motivation and final polish.|/book-a-call/",
+  "University Personal Statement|Support with the UCAS personal statement, including for engineering and science degrees, in your child's own voice.|/book-a-call/",
 ]
-faq_1_q: "How do I find the right tutor in Farnborough?"
-faq_1_a: "Tell us the subject, the year group, the exam board and which A-Levels your child is hoping to take. Most families hear back within 24 hours with two or three tutor profiles and a recommended first match. The A-Level question matters, because the subject requirement is usually the number that decides the plan rather than the general entry line."
-faq_2_q: "What grades does Farnborough Sixth Form College actually ask for?"
-faq_2_a: "It publishes its own requirements and revises them between years, so the current admissions page is the only version worth planning around. The pattern worth knowing is structural rather than numerical: there is a general entry standard, and then a subject-specific requirement for each A-Level, and the second is usually the higher of the two. Maths and the Sciences typically ask for more in the subject itself than the general line implies."
-faq_3_q: "Can a tutor help with an engineering apprenticeship application?"
-faq_3_a: "Yes. The aerospace and defence employers around Farnborough run technical and higher apprenticeship routes, and they publish minimum grades in Maths and English with the Sciences named on the technical entries. Those figures move between intakes, so work from the current page rather than from what someone needed two years ago. Most applications also involve numerical reasoning tests, which lean on the same fluency the tutoring is already building."
-faq_4_q: "How long does it take to see an improvement?"
-faq_4_a: "Most students notice something within the first few sessions, usually in how the subject feels rather than in a grade. Grade movement generally takes eight to twelve weeks of weekly work with practice happening between sessions. If the gap is exam technique it can be faster, and if it is a missing foundation it is slower. The first session tells us which, and we will say so honestly."
-why_heading: "Why Farnborough families choose The Degree Gap"
-why_para_1: "The conversation that comes up most here is a family who have realised, usually around the Year 11 mock, that the number their child needs is not the number they had in mind. Not because anything went wrong, but because the general entry standard and the subject requirement are different things and only one of them gets talked about. That is a planning problem more than a learning one, and it is fixable if it is caught with a term to spare."
-why_para_2: "What the tutor does in week one is mark a recent paper the way an examiner would and name the question types costing marks. From there the sessions work to the actual requirement in the actual subject, which gives both the student and the parent something to measure against. Most families notice the change in how their child talks about the subject before they see it in a grade."
-accordion_quality: "Every tutor in our network is a graduate, vetted on subject knowledge and on how clearly they explain a difficult idea to a student who is stuck. Around three in every hundred applicants pass the founder-led interview. For students working towards a specific subject requirement, that second quality is what moves the grade."
-accordion_experience: "Our Farnborough tutors have years of one-to-one experience across GCSE and A-Level specifications, and many are qualified examiners. The mark schemes they have worked inside are the same ones your child's papers will be marked against."
-accordion_personalised: "Every plan starts with a diagnostic rather than a syllabus. We ask which A-Levels are in view, what the current grade honestly is and which questions are costing marks, then build the sessions around that rather than around what comes next in the book."
+faq_1_q: "My child wants to take A-Level Maths or Physics. What grade will they need?"
+faq_1_a: "The exact grade varies by course and changes from year to year, so check the college's current admissions page. Look for the line for that subject, not just the headline one. If the number feels like a stretch right now, that's normal in Year 10 or early Year 11. On the call we'll talk through where your child is, and the tutor will aim the lessons at that grade."
+faq_2_q: "My child wants an engineering apprenticeship, not A-Levels. Can you still help?"
+faq_2_a: "Yes. The aerospace and defence employers around the airport run technical and higher apprenticeships. They publish minimum grades in Maths and English, and name the Sciences for technical roles. Those figures move between intakes, so it's best to check the latest version. Most applications include a numerical reasoning test as well, and the number work in the lessons helps with that too."
+faq_3_q: "Can Maths and Physics really be taught well online?"
+faq_3_a: "Yes. On Lessonspace, the tutor and your child write on the same whiteboard. The tutor can watch a calculation unfold and step in on the very line where it goes wrong. Graphs and force diagrams get sketched together as well. Nothing gets lost in a scribbled exercise book, because the board's saved with the lesson. And plenty of children concentrate better one-to-one at home than in a busy classroom."
+faq_4_q: "How soon can lessons start?"
+faq_4_a: "Quite quickly. Once you've spoken to Harry or Joe on the free call, you'll see profiles for two or three tutors within 24 hours. The one you like most can then meet your child on a free video call, and the first lesson can go in the diary whenever suits you both. Prices start at £37 an hour and there's no contract. If the fit isn't right, we'll find another tutor at no cost."
+why_heading: "Farnborough tuition built around your child's chosen subject"
+why_para_1: "The pattern we see most here is a child who's comfortably on course for a college place. The trouble is one subject. They're a grade or so short in the one they most want to carry on. Nothing's gone wrong. The headline entry standard is simply the number everyone remembers, and the requirement for the subject itself is easy to miss until the mocks. By then it can feel late. Usually there's still a term or two to work with."
+why_para_2: "The tutor begins by marking a recent paper against the real mark scheme and naming the questions that cost your child marks. After that, every lesson points at the grade their chosen subject asks for. It gives you both something clear to measure progress against. For an apprenticeship, it's the same work with a different reader at the end."
+accordion_quality: "About 3% of the tutors who apply are accepted, and every one has been interviewed by Harry or Joe first. For Maths and the Sciences, we make sure they can explain a method clearly to a teenager who's lost, not just solve the problem themselves."
+accordion_experience: "All of them have tutored for at least two years, and plenty have taken children from GCSE into A-Level Maths and Physics. They've seen where that jump bites, and they know how to soften it."
+accordion_personalised: "The plan starts from the course your child's aiming at, then picks out the topics that matter most for it. For one child that might mean a few weeks on rearranging formulae before a single exam question."
 
 reviews:
-  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."
-  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry, who listened to her needs and gave us a selection of tutors to choose from. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
+  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. …"
+  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. …"
   - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
-  - "Philippa|Parent of GCSE Student|I was really pleased to discover The Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and great flexibility on timings. Highly recommend."
+  - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings to fit around school lessons. …"
   - "Theresa|Parent|Harry and Joe were extremely helpful with a wealth of knowledge and contacts that helped my son to follow the right path."
 
 sitemap:

@@ -1,39 +1,16 @@
 ---
 title: "St Albans Tutors | GCSE & A-Level from £37/hr"
-description: Find expert St Albans tutors for GCSE and A-Level support.
-  Personalised tuition from £37/hr to help students achieve top grades and exam
-  success.
+description: "Good school, but one subject slipping? Our St Albans tutors teach GCSE and A-Level online, one-to-one. Talk to Harry or Joe first, then pick a tutor. From £37."
 layout: single
 location: St Albans
-banner_heading: "Online St Albans tutors for the GCSE and A-Level grades that don't happen by accident"
-banner_description: Specialist one-to-one tutoring for ambitious St Albans
-  students in one of the country's most competitive academic catchments, exam
-  board matched and mark scheme accurate.
-content_angle: ambition
-intro_1: St Albans is one of Hertfordshire's most competitive school catchments.
-  Families move into the catchment for Sandringham or Verulam. Independents like
-  St Albans School and St Albans High School for Girls set a benchmark
-  professional parents have in mind even when their child sits at a state
-  secondary. Hertfordshire as a whole sits well above the national average for
-  GCSE attainment, which means the bar for what counts as a good result is set
-  higher here than almost anywhere outside London. A solid grade 6 doesn't feel
-  solid in St Albans. Not when half the year group is talking about 8s and 9s.
-intro_2: That's the context our St Albans tutors work in. One-to-one tuition
-  gives an ambitious student the time to attempt harder questions, get specific
-  feedback on real work, and rebuild any weak topic before it becomes a problem.
-  We match each family with a tutor who knows the exam board, knows what top
-  mark band answers actually look like, and knows how to coach a motivated
-  student towards those answers without burning them out. No filler. No working
-  at the pace of the slowest in the room.
+banner_heading: "A Good School, One Stubborn Subject: Online St Albans Tutors for GCSE and A-Level"
+banner_description: "Even a good school teaches a whole class at once, and it can't stop for the one topic your child missed. A tutor can."
+content_angle: "a good school, one stubborn subject: families who moved for the catchment or sat the entry tests, and the topic a busy class moved past"
+intro_1: "You may have moved house for the Sandringham or Verulam catchment, or seen your child through the entry tests for St Albans School or St Albans High School for Girls. So when a subject starts slipping, it can feel as though something has gone badly wrong. Usually it hasn't. GCSE results across Hertfordshire sit well above the national average, which can make an ordinary wobble look bigger than it is. Especially if you're back from the City late, and the homework is already done, or quietly not done."
+intro_2: "What a tutor adds is time. A teacher with a full room has to keep the lesson moving, and a child who half-understood simultaneous equations in Year 9 learns to nod along. One-to-one, there's nobody to nod along for. The tutor spots the gap, goes back to it and stays there until it holds, then links it to what's on the syllabus now. It can feel slow for a week or two. Then the next topic has something solid to sit on."
 about_heading: Trusted Tutors for St Albans Students
 about_image: /images/classical-library-books-and-busts.jpg
-schools_intro: Our tutors support students from secondary schools right across
-  St Albans and the surrounding villages. St Albans School, St Albans High
-  School for Girls, Sandringham School, Verulam School, Beaumont School and
-  Loreto College all send students our way, whether they're targeting top GCSEs,
-  preparing for sixth form entry, or building towards a Russell Group or
-  Oxbridge application. We also run workshops on revision strategy and exam
-  technique, open to students from any local school.
+schools_intro: "We hear from families at Sandringham, Verulam, Beaumont and Loreto College, at St Albans School and St Albans High School for Girls, and in the villages around the city. Two children in the same street can sit different exam boards in the same subject, which is why we'll ask which one your child is on. We're also in schools ourselves, running revision workshops, and over 15 schools around the UK now partner with us."
 schools:
   - St Albans School
   - St Albans High School for Girls
@@ -42,27 +19,12 @@ schools:
   - Beaumont School
   - Loreto College
 schools_image: /images/school-clock-tower-building.jpg
-online_heading: "Online tutoring for St Albans students: specialist subject
-  support, exam board matched"
-online_1: Most of our work with St Albans families happens online through
-  Lessonspace, a shared whiteboard platform designed for one-to-one sessions.
-  Students aren't limited to whoever happens to live within a short drive of the
-  catchment. If a student needs a senior examiner for A-Level English
-  Literature, a Russell Group graduate for Further Maths or a tutor who's
-  recently been through Oxbridge admissions, we draw from a national pool of
-  online tutors and match precisely.
-online_2: For ambitious St Albans students juggling clubs, music and sport on
-  top of school, online tuition fits the schedule the family is already running.
-  Sessions slot in at 7pm without a school-run-style drive across town. Past
-  papers get marked up on the whiteboard, live. Most students find they
-  concentrate harder one-to-one online than they do in a class of thirty, and
-  the consistency of weekly online tutoring is easier to keep than in-person
-  work.
+online_heading: "Online tutoring that works around a St Albans commute and a busy evening"
+online_1: "Everything happens on Lessonspace, an online classroom built around one shared whiteboard. Your child writes, the tutor writes, and both see every step as it goes down. The tutor doesn't have to live within driving distance of St Albans, so we can search the whole country. That might mean an experienced A-Level English Literature tutor, a Russell Group graduate for Further Maths, or someone who went through Oxbridge admissions not long ago."
+online_2: "Nobody has to leave work early to get your child to a lesson, either. A 7pm session fits neatly between swimming and tea. Lessons are saved as well. If your child forgets how a method worked, they can find the five minutes where it was explained and play it again, even the night before a test."
 online_image: /images/student-studying-at-night-with-laptop.jpg
 map_url: https://maps.google.com/maps?q=St+Albans,UK&output=embed
-areas_intro: Our tutors work with students across St Albans and the surrounding
-  area, with online tuition removing any distance barrier to finding the right
-  specialist.
+areas_intro: "Lessons run the same way from the city centre out to the surrounding villages, and a few more of the towns we help are listed underneath."
 area_links:
   - Watford Tutors|/locations/watford-tutors/
   - Aylesbury Tutors|/locations/aylesbury-tutors/
@@ -71,144 +33,48 @@ area_links:
   - Reading Tutors|/locations/reading-tutors/
   - Peterborough Tutors|/locations/peterborough-tutors/
 gcse_subjects:
-  - GCSE Maths Tuition|Stretch tutoring across number, algebra and statistics
-    across the whole mark band, not just a
-    comfortable pass.|/book-a-call/
-  - GCSE Chemistry Tuition|Precise one-to-one work through bonding, equations
-    and rates for students aiming at grades 7 to 9 and the answers that get them
-    there.|/book-a-call/
-  - GCSE English Tuition|Sharp tutoring across Language and Literature for
-    students who want a method that holds up under exam timing, not just in calm
-    conditions at home.|/book-a-call/
-  - GCSE Biology Tuition|Detailed work across the full specification for
-    students who want to walk into the exam confident on the harder six and
-    nine-mark
-    questions.|/book-a-call/
-  - GCSE Physics Tuition|Tutoring through forces, waves and electromagnetism
-    built around the application questions that decide the top
-    grades.|/book-a-call/
-  - GCSE Computer Science Tuition|One-to-one work through programming,
-    algorithms and Boolean logic for students who want both NEA and written
-    paper landing at the
-    top.|/book-a-call/
-  - GCSE History Tuition|Source skills, essay structure and extended argument,
-    taught by tutors who know what a grade 9 history answer actually looks
-    like.|/book-a-call/
-  - GCSE French Tuition|Structured tutoring across all four skills for students
-    aiming high in writing and speaking, where the easy marks at the top end get
-    missed most often.|/book-a-call/
-  - GCSE Geography Tuition|Case study revision, data response and nine-mark
-    question technique, with tutoring that turns subject knowledge into the
-    marks the mark scheme
-    rewards.|/book-a-call/
+  - "GCSE Maths Tuition|The topic the class moved on from before it made sense, often algebra or percentages, picked up again and put right.|/book-a-call/"
+  - "GCSE Chemistry Tuition|Chemical bonding and moles explained a second or third time if needed, with no class waiting for your child to catch up.|/book-a-call/"
+  - "GCSE English Tuition|Essays with a clear line of argument, and quotations chosen because they're useful to your child, not because they're long.|/book-a-call/"
+  - "GCSE Biology Tuition|Time to ask the questions there's rarely room for in a full lesson, about the practicals and the six-mark answers.|/book-a-call/"
+  - "GCSE Physics Tuition|Equations your child can rearrange with confidence, and wordy questions that turn out to hide a simple calculation.|/book-a-call/"
+  - "GCSE Computer Science Tuition|Algorithms and the theory paper explained in plain English, then tested with past questions until your child trusts their answers.|/book-a-call/"
+  - "GCSE History Tuition|Source and interpretation questions made less mysterious, with a timed paragraph marked and talked through each week.|/book-a-call/"
+  - "GCSE French Tuition|Grammar that stays put, and speaking practice with one friendly listener instead of a whole class looking on.|/book-a-call/"
+  - "GCSE Geography Tuition|Case studies and data questions, plus longer answers your child can plan in a few calm minutes before writing.|/book-a-call/"
 alevel_subjects:
-  - A-Level Chemistry Tuition|Step-by-step tutoring through organic, inorganic
-    and physical chemistry for students preparing for medicine, dentistry or
-    natural
-    sciences.|/book-a-call/
-  - A-Level Economics Tuition|Micro, macro and evaluation writing for students
-    who want Economics to be the strongest part of their UCAS
-    application.|/book-a-call/
-  - A-Level Maths Tuition|Focused tutoring across pure, statistics and mechanics
-    for students who want to stay ahead of Year 13 content before it gets
-    unmanageable.|/book-a-call/
-  - A-Level Biology Tuition|In-depth support through genetics, physiology and
-    ecology for students aiming at medicine or a competitive bioscience
-    degree.|/book-a-call/
-  - A-Level Physics Tuition|Patient, exam-board-aware tuition through mechanics,
-    fields and quantum topics for students aiming at engineering or physics at a
-    top university.|/book-a-call/
-  - A-Level English Tuition|Critical analysis and essay writing at A-Level,
-    taught by tutors who know what markers reward at the top end of the mark
-    scheme.|/book-a-call/
-  - A-Level History Tuition|Help with the analytical essay writing A-Level
-    History demands, for students who want to write essays that hold up under timing, alongside history-led
-    university
-    applications.|/book-a-call/
-  - A-Level Psychology Tuition|Methodical work through research methods and
-    evaluation writing for students who want to write with precision, not just
-    at length.|/book-a-call/
-  - A-Level Geography Tuition|Advanced concept work, fieldwork analysis and
-    extended writing, with tutors who pitch sessions at whatever level the student is sitting at.|/book-a-call/
+  - "A-Level Chemistry Tuition|Organic mechanisms and energetics gone over as many times as your child needs, at a pace a packed lesson can't always allow.|/book-a-call/"
+  - "A-Level Economics Tuition|Diagrams labelled correctly and evaluation that goes past 'it depends', with essays marked against the board's own levels.|/book-a-call/"
+  - "A-Level Maths Tuition|Proof and the harder problem-solving questions practised little and often, rather than crammed in the week before a mock.|/book-a-call/"
+  - "A-Level Biology Tuition|Genetics and physiology pulled into one clear picture, for a future medic or anyone wanting to feel on top of it.|/book-a-call/"
+  - "A-Level Physics Tuition|Fields and mechanics problems worked through out loud, so your child sees how to decide where to begin.|/book-a-call/"
+  - "A-Level English Tuition|Set texts read closely with someone who'll argue back, the quickest way to find out what your child really thinks.|/book-a-call/"
+  - "A-Level History Tuition|Essay arguments that hold up in a timed paper, with sources and interpretations practised until they feel routine.|/book-a-call/"
+  - "A-Level Psychology Tuition|Research methods and the statistics inside them made far less scary, then tried out on past paper questions.|/book-a-call/"
+  - "A-Level Geography Tuition|Human and physical topics linked up properly, and the coursework investigation kept moving one small deadline at a time.|/book-a-call/"
 other_subjects:
-  - University Personal Statement|Shape a strong UCAS personal statement with
-    expert support on structure, subject motivation, and final
-    polish.|/book-a-call/
-faq_1_q: Do you support students aiming for top universities?
-faq_1_a: Yes. We work with St Albans students preparing for Russell Group,
-  medicine and Oxbridge applications. Tutors who've been through those processes
-  themselves take students through the standard those courses expect, the
-  personal statement and any admissions tests required.
-faq_2_q: What qualifications do your tutors have?
-faq_2_a: All our tutors are graduates, and many come from Russell Group
-  universities. Every tutor is vetted individually on subject knowledge, on how
-  they explain things, and on how they work with young people. A degree alone
-  isn't enough for us.
-faq_3_q: Do you support students aiming for grammar or independent schools in St Albans?
-faq_3_a: Yes. We work with students preparing for 11+ exams, Common Entrance and
-  competitive sixth form entry. Tutors know what these schools are looking for
-  and prepare students accordingly, not just on content but on how to perform
-  under that kind of pressure.
-faq_4_q: Do you offer tutoring during school holidays in St Albans?
-faq_4_a: Yes. Holiday sessions are popular with St Albans families. Some use the
-  time to get ahead, some to catch up, some to prepare intensively before exams.
-  We fit around what works for the family.
-why_heading: Why St Albans families choose our A-Level and GCSE tutoring
-why_para_1: Most St Albans parents describe the same situation in a first
-  conversation. Their child is doing well at school. Grade 7s in the latest
-  mocks. The school is happy. But the parent commutes daily into the City or a
-  top professional firm, and they already know what their child's cohort will be
-  competing against in five years for places at top universities and graduate
-  schemes. The school's measure of success and the family's measure don't quite
-  line up. Our St Albans tutors live in that gap, between a school that's doing
-  a perfectly good job and an ambition that runs further than the syllabus does.
-why_para_2: Our tutors give those students the missing layer. The first few
-  sessions usually go straight into recent work, marked the way the exam board
-  marks, so the student sees where the marks are sitting on the table untaken.
-  A-Level tutoring focuses on the technical moves that lift A grades into A*s,
-  the evaluation writing, the synoptic links, the precision examiners actually
-  reward. For competitive university applications, our GCSE tuition and A-Level
-  tutoring make sure ambition stays tactical, not vague. Parents often notice
-  the change in how their child talks about the subject first.
-accordion_quality: Every tutor working with St Albans students is assessed on
-  subject depth and on whether they can teach to the top of the mark scheme. For
-  ambitious students in a high-attainment area, that distinction is the whole
-  point of tutoring.
-accordion_experience: Our tutors have supported students through Russell Group
-  offers, medicine, dentistry and Oxbridge applications. They know the standard
-  those courses expect and how to coach a student towards it without losing the
-  wider school year to it.
-accordion_personalised: We don't run set programmes. For a St Albans student
-  aiming high, tutoring is shaped around their specific subjects, target grades
-  and university plans, with the room to stretch well beyond the syllabus where
-  it helps.
+  - "University Personal Statement|Help working out what your child really wants to say about their subject, then shaping it into a UCAS statement.|/book-a-call/"
+faq_1_q: "What actually happens after I get in touch?"
+faq_1_a: "A free call with Harry or Joe comes first. Tell us what's worrying you and what your child's like. Within 24 hours you'll get two or three tutor profiles, and your child meets your pick on a free video call. Lessons from £37, no contract."
+faq_2_q: "Isn't a good school enough?"
+faq_2_a: "Often it is. But a class has to keep moving, and one topic can slip past your child. Lots of the families we talk to have a child at Sandringham, Verulam or one of the independents doing well everywhere except one subject. That's where a weekly hour helps."
+faq_3_q: "Can you help with the 11+ or Common Entrance for a St Albans independent?"
+faq_3_a: "Yes. Whether your child is sitting the 11+ or Common Entrance, or applying for a competitive sixth form place, we'll match them with a tutor who knows what's involved. Most of the work is timed practice, so the real thing feels familiar."
+faq_4_q: "Can we keep lessons going through the school holidays?"
+faq_4_a: "Yes, if it helps. Some families use the holidays to catch up and others to get ahead before mocks, while some take a break. With no contract, you decide week by week."
+why_heading: "What St Albans tutoring adds when the school is already good"
+why_para_1: "Helping at the kitchen table sounds simple. Plenty of St Albans parents have tried it, and it hasn't gone well. The Maths looks different from the way you learnt it, the English essay wants something called 'AO2', and a well-meant explanation turns into an argument. That's nobody's fault. Methods have moved on since most of us were at school, and a child who's already anxious about a subject doesn't want a second way of doing it. What they need is someone who knows exactly how their board marks it."
+why_para_2: "A tutor can be that person. They use the same methods as the class wherever they can, so your child hears one clear explanation instead of two. Every practice answer is marked just as your child's exam board would mark it. The first lesson usually starts from a recent test, to see where the marks leaked. After that it's a mix of the missed topic and fresh exam questions. And you get to be a parent again at nine o'clock, rather than a stand-in Maths teacher."
+accordion_quality: "Our tutors have a degree or are working towards one, but that's only the start. Around 3% of applicants get through, and every one of them has been interviewed by Harry or Joe. The test we care about most is whether they can explain something clearly to a child who's already tried to understand it twice."
+accordion_experience: "Every tutor we'd suggest has two years or more of tutoring behind them, across AQA, Edexcel and OCR. Some know the 11+ and Common Entrance well, and others have helped with Russell Group and Oxbridge applications."
+accordion_personalised: "The plan comes out of the first marked paper, not a textbook. Some weeks that means going back over Year 9 algebra, others it means harder questions than school sets. What your child needs decides which."
 reviews:
-  - Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone
-    above and beyond to pair both my sons with the appropriate tutors, all of
-    whom have been exceptional. Both my sons exceeded their expected grades in
-    their GCSEs and A Levels and got into their first choice universities. I
-    cannot recommend them highly enough.
-  - Philippa|Parent of GCSE Student|I was really pleased to discover the Degree
-    Gap when my daughter needed help getting the grades she needed for GCSEs.
-    The team offer a really personalised service and I felt really well looked
-    after from the start. There are lots of tutors to choose from and all
-    subjects are catered for, with great flexibility on timings. Highly
-    recommend.
-  - Aila|University Applicant|My tutor was amazing. He helped me shape my
-    personal statement into something I was truly proud of, and thanks to his
-    support, I got into my dream university. Highly recommend to anyone applying
-    to uni.
-  - Serena|A-Level Student|My tutor is a very intuitive and superb teacher. She
-    listened to my specific concerns and bolstered my confidence in answering
-    questions. She taught me how to think critically and helped me through this
-    highly demanding course. I will happily recommend without a second thought.
-  - Alexander|Parent|The Degree Gap helped my child go from Cs to As. They have
-    a great selection of tutors who not only assist with the curriculum but also
-    helped with university choices and applications.
-  - Kasia|Parent|Our tutor is a great teacher. Very helpful and knowledgeable.
-    His experience and expertise helped my son make decisions about choosing
-    A-level subjects and his university course. I highly recommend The Degree
-    Gap.
+  - "Lisa|Parent|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings to fit around school lessons. …"
+  - "Aila|University Applicant|Harry was amazing! He helped me shape my personal statement into something I was truly proud of, and thanks to his support, I got into my dream university! Couldn’t have done it without him–highly recommend to anyone applying to uni."
+  - "Serena|A-Level Student|Malvina is a very intuitive and superb teacher. She listened acutely to my specific concerns and bolstered my confidence in answering the questions. She taught me how to think critically and helped me through this highly demanding and complex course. I will happily recomend her without a second thought!"
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Kasia|Parent|Harry is a great tutor. He's very helpful and knowledgeable. He's git goid understanding of student's needs as well as current situation when it comes to university education in the UK. …"
 sitemap:
   priority: 0.8
   changefreq: monthly

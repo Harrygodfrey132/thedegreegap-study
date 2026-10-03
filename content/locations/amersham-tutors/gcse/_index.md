@@ -1,41 +1,38 @@
 ---
 title: "Amersham GCSE Tutors | Year 10 and 11 | The Degree Gap"
-description: "Amersham GCSE tutors for the year a sixth form place is decided on results. One-to-one online tutoring over Lessonspace, matched on the board, from £37 an hour."
+description: "Amersham GCSE tutors for the year your child's sixth form place rests on their results. One-to-one and online, matched to their exam board, from £37 an hour."
 layout: "subject"
 location: "Amersham"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Amersham Year 11s Deciding Whether to Stay or Apply Elsewhere"
+hero_heading_line1: "Online Amersham GCSE Tutors for the Year That Decides Your Child's Sixth Form"
 hero_heading_line2: ""
-hero_lead: "Every sixth form around Amersham reads GCSE results, whether a student is staying in the same building or moving to a new one. Our Amersham GCSE tutors work one-to-one online over Lessonspace on the subjects that decision rests on."
+hero_lead: "The sixth form application's open on the laptop, and one subject still isn't where it needs to be. Whether your child stays put or moves at 16, it's their GCSE results that count. Our Amersham GCSE tutors work one-to-one and online on whichever subject is falling short."
 
 grade_from: "5"
 grade_to: "6/7"
-grade_stat: "A Year 10 student, previously switched off from English, moved from a grade 5 to a 6/7 over six months of weekly sessions."
+grade_stat: "A Year 10 boy who'd switched off from English went from a grade 5 to a 6/7 over six months of lessons."
 
-first_lesson_eyebrow: "THE CHOICE COMES ROUND AGAIN"
-first_lesson_heading: "What an Amersham GCSE Tutor Checks Before the Sixth Form Forms Go In"
-first_lesson_context: "Year 11 in Amersham has an unusual shape. Some students are applying into Dr Challoner's Grammar's co-educational sixth form or across to Dr Challoner's High, some are staying put at The Amersham School or Chesham Grammar, and some are heading for college. All of them are being read on the same GCSE results. So the first session is about which course, which criteria and which subject is short, then a marked paper to see why."
+first_lesson_eyebrow: "STAY, OR APPLY ELSEWHERE?"
+first_lesson_heading: "What an Amersham GCSE Tutor Checks Before the Sixth Form Applications Go In"
+first_lesson_context: "Your child might be applying to Dr Challoner's Grammar or Dr Challoner's High, staying on at The Amersham School or Chesham Grammar, or off to college. Each of those will be looking at the same GCSE results. So the first lesson pins down the course and which grade is missing, then goes through a marked paper to find out why."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to Grade 6/7 in English"
 
-tutor_strip_heading: "Amersham GCSE tutors chosen for the subject that is short"
-tutor_strip_body: "A student two marks under a sixth form requirement in one subject needs a different tutor from one rebuilding Maths from Year 8, so we ask which it is before suggesting anybody. Schools here split across AQA, Edexcel and OCR, and the board is confirmed on the first call. Sessions run online over Lessonspace, and about 3% of tutor applicants get through our founder-led interview."
+tutor_strip_heading: "Amersham GCSE tutors picked for the one subject that's short"
+tutor_strip_body: "Two marks short of a sixth form's entry grade is a very different job from rebuilding Year 8 Maths. So we'll ask which it is, and check your child's exam board. We interview every tutor ourselves, and only about 3% of those who apply get through."
 
-pathways_heading: "Where an Amersham Year 11 Can Go in September"
-pathways_lead: "Three routes, each with its own published criteria, and most families look at two of them."
+pathways_heading: "Where Your Amersham Year 11 Could Go in September"
+pathways_lead: "There are three main routes, each with its own entry rules. Most families end up weighing two of them."
 pathways:
   - title: "Sixth Forms"
-    body: >
-      Dr Challoner's Grammar runs a co-educational sixth form with places set aside for students joining from other schools, and Dr Challoner's High in Little Chalfont takes external students into Year 12 too. The Amersham School, Chesham Grammar and The Misbourne all run sixth forms, each publishing its own course criteria.
+    body: "Dr Challoner's Grammar keeps places in its co-ed sixth form for joiners from other schools, and Dr Challoner's High in Little Chalfont takes new Year 12s too. The Amersham School, Chesham Grammar and The Misbourne have sixth forms as well, each with its own course criteria."
   - title: "Apprenticeships"
-    body: >
-      GE HealthCare runs the White Lion Road site that grew out of the old Radiochemical Centre, and advertises apprentice and early-career roles. Buckinghamshire Healthcare NHS Trust, which runs Amersham Hospital, recruits apprentices as well. English and Maths grades come up in almost every application.
+    body: "GE HealthCare's White Lion Road site, which grew out of the old Radiochemical Centre, advertises apprentice and early-career roles, and so does Buckinghamshire Healthcare NHS Trust, which runs Amersham Hospital. Nearly every application will ask for your child's English and Maths grades."
   - title: "Further Education"
-    body: >
-      Buckinghamshire College Group's Amersham campus on Stanley Hill specialises in creative courses, with studios, a theatre and links to Pinewood Studios, while its Aylesbury and High Wycombe campuses cover technical routes. GCSE English and Maths resits run alongside for students who need them.
+    body: "Buckinghamshire College Group's Amersham campus on Stanley Hill focuses on creative courses, with studios, a theatre and links to Pinewood Studios, while Aylesbury and High Wycombe cover the technical routes. If your child needs to resit English or Maths, they can do it alongside their course."
 
 reviews:
   - "Gilmoore|Parent of GCSE Student|Initially I was hesitant to enrol my son for online lessons. However, the company has well experienced, knowledgeable and helpful tutors. There is also flexibility around booking of lessons. At the end of the day, my son achieved the next top grade than what had been predicted in his mid-year school GCSE exams. I am forever indebted to The Degree Gap."
@@ -48,13 +45,13 @@ reviews:
   - "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
 
 faq_1_q: "How do the sixth forms near Amersham decide who gets a place?"
-faq_1_a: "Mostly on GCSE results, set out in each school's admissions policy. Both Dr Challoner's schools use a points total across a student's best eight GCSEs, with a minimum in English and Maths, and the Grammar's policy says resit grades are not counted. Individual A-Levels then carry their own subject requirements on top. The Amersham School, Chesham Grammar and The Misbourne publish course criteria of their own. Policies get revised from one year to the next, so check the current one before building a plan around it."
-faq_2_q: "Should we start tutoring in Year 10 or wait until Year 11?"
-faq_2_a: "Year 10 if you can. Sixth form applications around here go in during the autumn of Year 11, and a subject that has been shaky for two years does not recover in six weeks. Starting in Year 10 means the tutor can rebuild the missing method properly and still leave time for exam practice. A Year 11 start is common and still worthwhile, though the work leans harder on papers and technique than on teaching a topic from scratch."
-faq_3_q: "My daughter works hard and still comes home with a grade below what she needs. Why?"
-faq_3_a: "Effort and marks are measuring different things. A student can revise diligently and still lose marks the same way every time: a long answer that describes rather than explains, a calculation abandoned at the second step, or a paper that runs out of time before the final questions. None of that shows up as a lack of effort, so reports say she is doing well. Reading an actual marked script usually shows the pattern within minutes."
-faq_4_q: "Do you work with students with SEN or who have missed a lot of school?"
-faq_4_a: "Yes, regularly. We ask about learning differences, anxiety and time out of school on the first call, and match on it. Working online helps more than parents expect, because a student joins from a familiar room, everything stays on the shared whiteboard instead of disappearing, and each session is recorded to rewatch. Tutors break long questions into stages and build timed practice slowly. Tell us what school already has in place, including access arrangements."
+faq_1_a: "Mostly on GCSE results, and each school's admissions policy sets out how. Both Dr Challoner's schools add up points across your child's best eight GCSEs, with a minimum in English and Maths, and the Grammar's policy says resit grades don't count. Each A-Level then asks for its own grade in that subject. The Amersham School, Chesham Grammar and The Misbourne publish their own course criteria. Policies do change from year to year, so it's worth reading the current one before you plan around it."
+faq_2_q: "Should we start tutoring in Year 10, or is Year 11 soon enough?"
+faq_2_a: "Year 10, if you can. Sixth form applications round here go in during the autumn of Year 11, and a subject that's been shaky for two years won't recover in six weeks. A Year 10 start gives the tutor time to rebuild the missing method properly and still leave room for exam practice. Plenty of families start in Year 11, though, and it's still well worth doing. The lessons just lean more on past papers and exam technique than on teaching a topic from scratch."
+faq_3_q: "My daughter works so hard, and her grades still aren't what she needs. Why?"
+faq_3_a: "Usually because effort and marks measure different things. She can revise carefully and still lose marks the same way every time: a long answer that describes when it should explain, a calculation dropped halfway, a paper that runs out before the last questions. None of that looks like a lack of effort, so her reports say she's doing well. But put a marked paper in front of a tutor and the pattern tends to show within minutes."
+faq_4_q: "My child has special educational needs, or has missed a lot of school. Can you still help?"
+faq_4_a: "Yes, and we do it a lot. We'll ask about learning differences, anxiety and time off school on the first call, and pick tutors with that in mind. Online lessons help more than parents expect. Your child joins from a room they know. In Lessonspace, the online classroom we use, nothing gets wiped off the whiteboard, and there's a replay of every lesson to watch again. Tutors break long questions into small steps and build timed practice slowly. Do tell us what school already has in place, like extra time in exams."
 
 sitemap:
   priority: 0.7

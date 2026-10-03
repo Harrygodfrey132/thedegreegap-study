@@ -1,41 +1,41 @@
 ---
 title: "Hemel Hempstead GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "Hemel Hempstead GCSE tutors who find what extra revision has not fixed. One-to-one GCSE tutoring matched on exam board, online, from £37 an hour."
+description: "Hemel Hempstead GCSE tutors for the child who's fine in lessons but loses marks in the exam. One-to-one and online, matched to their exam board, from £37."
 layout: "subject"
 location: "Hemel Hempstead"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors Supporting Hemel Hempstead Students"
+hero_heading_line1: "Online Hemel Hempstead GCSE Tutors for Mocks That Don't Match the Classwork"
 hero_heading_line2: ""
-hero_lead: "The gap between understanding something in a lesson and producing it in an exam hall is where most GCSE marks go. Our Hemel Hempstead GCSE tutors work on the second one."
+hero_lead: "In lessons, your child understands it. Then the mock comes back and the marks aren't there. That gap between classroom and exam hall is where a lot of GCSE marks go, and our Hemel Hempstead GCSE tutors work on the exam half of it."
 
 grade_from: "E"
 grade_to: "B"
-grade_stat: "A real GCSE grade lift, an E to a B, in the words of the student it happened to."
+grade_stat: "An E to a B at GCSE, in the words of the person who sat the exams."
 
 first_lesson_eyebrow: "FINE IN CLASS, DIFFERENT IN THE HALL"
-first_lesson_heading: "What Changes Between the Classroom and the Exam"
-first_lesson_context: "Parents in Hemel Hempstead are often told their child is fine in lessons, and the teacher means it. Classwork has the topic named at the top of the page, a worked example a few minutes behind, and somebody to ask. A mock has none of those, plus a clock. A student can understand every method and still lose two grades to not knowing which one a question wants, and that gap needs practising rather than explaining."
+first_lesson_heading: "Where a Hemel Hempstead GCSE Tutor Fits Between Classroom and Exam Hall"
+first_lesson_context: "Lots of Hemel Hempstead parents hear that their child is fine in lessons, and the teacher means it. In class the topic's named at the top of the page and there's someone to ask, but a mock takes all that away and adds a clock. So your child can understand every method and still lose a grade or two by not knowing which one a question wants, and that's something to practise rather than explain again."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "An E to a B at GCSE"
 
-tutor_strip_heading: "Hemel Hempstead GCSE tutors matched on the paper your child sits"
-tutor_strip_body: "Students at Cavendish, Hemel Hempstead School, Longdean and Adeyfield are not all on the same specification, so the board is confirmed before anyone is proposed. Every tutor clears a founder-led interview that around 3% of applicants pass. Browse the profiles, or let us match your child."
+tutor_strip_heading: "Hemel Hempstead GCSE tutors who check the exam board first"
+tutor_strip_body: "Which exam board your child's on depends on their school, and it isn't always the same at Cavendish, Hemel Hempstead School, Longdean and Adeyfield. Only around 3% of the tutors who apply make it through our interviews. Pick from the profiles, or let us choose for you."
 
-pathways_heading: "Where GCSEs Take Hemel Hempstead Students Next"
-pathways_lead: "Three routes families across the town weigh up once results arrive."
+pathways_heading: "Your Child's Options After GCSEs in Hemel Hempstead"
+pathways_lead: "Most families here end up choosing between these three, often before the results are even in."
 pathways:
   - title: "Sixth Forms"
     body: >
-      Several schools in and around Hemel Hempstead run their own sixth forms, and students also travel towards St Albans and Watford for others. Each publishes its own entry requirements and revises them between years, with A-Level courses generally asking for a grade in the subject a student wants to continue.
+      Several schools in and around Hemel Hempstead run their own sixth forms, and some teenagers travel to St Albans or Watford for others. Entry grades differ from school to school and can move between years, and most A-Level courses want a good grade in that subject at GCSE.
   - title: "Apprenticeships"
     body: >
-      The employers around Maylands and the business parks on the edge of town run school-leaver and apprenticeship routes, each publishing its own requirements that change between intakes. Maths and English are named in almost all of them, and most ask for a written application as well as the grades.
+      Employers around Maylands and the business parks on the edge of town take on school leavers and apprentices, and each sets its own entry requirements for every intake. Nearly all of them ask about Maths and English, and you'll usually find a written application on top of the grades.
   - title: "Further Education"
     body: >
-      West Herts College carries most of the Level 3, T Level and vocational provision locally, with a campus in Hemel Hempstead itself. A confident grade 4 or 5 in Maths and English opens the majority of those courses, and resits are a standard route in.
+      West Herts College has a campus right in Hemel Hempstead and runs most of the local T Levels and vocational courses, including Level 3 courses at the same standard as A-Levels. A solid 4 or 5 in Maths and English is what most of them ask for, and plenty of teenagers resit one of those alongside their course.
 
 reviews:
   - "Isabel|Parent of iGCSE Student|Harry helped our son enormously with his maths and economics iGCSE prep. He was patient, fun and engaging - just what we needed. Highly recommended."
@@ -49,14 +49,14 @@ reviews:
   - "Nicolai|University Student|Had troubles connecting with tutors until I met Harry, helped me understand the curriculum and theories in a way that stuck with me, also made each session feel calm and relaxing. Highly recommend"
   - "J.O|A-Level Student|I was put into contact with Harry from a friend of mine who did economics in the year above me. And at first I was hesitant on getting a Tutor as I wasn’t sure if they were effective especially for the price they demand, but this wasn’t the case with Harry. He’s helped me massively with my essays, topics I didn’t understand beforehand and overall confidence with the subject. I highly recommend!"
 
-faq_1_q: "The school says she is fine in lessons, so why are the mocks lower?"
-faq_1_a: "Because lessons and exams test different things. In class the topic is named, an example is nearby and help is available; in a hall none of that is true and a clock is running. A student who understands every method can still lose marks to not recognising which one a question wants, to not showing working, or to running out of time. A tutor reads the actual script rather than the grade, because those three causes look identical from outside and need different work."
-faq_2_q: "Is Year 10 or Year 11 the better time to start?"
-faq_2_a: "Year 10 where you have the choice. The content steps up and the gaps that open are small enough to close quickly if somebody spots them, whereas left alone they compound and then land together in a mock. Year 11 still works and plenty of families start there, but the plan narrows to exam technique and past papers rather than rebuilding anything properly. Either way, earlier in the year beats after the mocks."
-faq_3_q: "Are the sessions in person or online?"
-faq_3_a: "Every session runs online over Lessonspace, our shared whiteboard. It means the match is made on exam board and subject rather than on who happens to live nearby, and working gets built up on screen and saved so a student can go back to the exact method mid-homework. Families across Hemel Hempstead, Berkhamsted, Kings Langley and the surrounding villages all reach the same network, with no school-night drive at either end."
-faq_4_q: "What if the tutor is not right for my child?"
-faq_4_a: "Tell us and we re-match without charging for the swap. Every family speaks with Harry or Joe before a tutor is proposed, and there is a free 15-minute video meeting before any paid session, which catches most mismatches before they cost anything. At fifteen how somebody explains a thing matters as much as whether they know it, and that is hard to judge on paper. No contract, no minimum term."
+faq_1_q: "Her teachers say she's fine in lessons. So why are her mocks so much lower?"
+faq_1_a: "Because a lesson and an exam are really testing different things. When she's stuck in class, there's a worked example on the board and a teacher to ask. The exam gives her a blank page and a clock. So she can know every method and still drop marks by picking the wrong one, skipping her working or running out of time. From the outside those look the same, which is why the tutor reads her actual paper, not just the grade."
+faq_2_q: "Year 10 or Year 11: when's the best time to bring in a tutor?"
+faq_2_a: "Year 10, if you've got the choice. The work steps up that year, and a small gap is quick to close when someone spots it early. Left alone, those gaps pile up and all show at once in a mock. But Year 11 still works, and lots of Hemel families start then. That year it's more past papers and exam technique, with less time to rebuild. Either way, earlier in the year is better than after the mocks."
+faq_3_q: "Is it all online, and how does that work at home?"
+faq_3_a: "Yes, every lesson happens in Lessonspace, an online classroom. Your child and the tutor work on the same whiteboard, and there's a replay of every lesson, so if a method goes fuzzy halfway through homework they can watch it again. Because nobody has to travel, we can match on exam board and subject rather than postcode. Families in Hemel Hempstead, Berkhamsted, Kings Langley and the villages around all get the same choice of tutors."
+faq_4_q: "What happens if my child and the tutor just don't get on?"
+faq_4_a: "It happens, and it's easy to fix. Let us know and we'll suggest someone else, with no charge for the swap. Most mismatches show up before that, though. You'll have spoken to Harry or Joe first, and your child gets a free 15-minute video meeting with the tutor before any lessons are paid for. Some teenagers want someone chatty and others want someone calm, and a profile can't always tell you which. No contract, and you're not signing up for a set number of lessons."
 
 sitemap:
   priority: 0.7

@@ -5,7 +5,7 @@ date: 2026-08-08
 author: "Harry Godfrey"
 author_role: "Co-founder, The Degree Gap"
 category: "Parent Advice"
-excerpt: "GCSE results day 2026 is Thursday 20 August, with most schools opening from 8am. Here is what time results are released, how to read the slip, and what your options are if the grades come in lower than you hoped."
+excerpt: "GCSE results day 2026 is Thursday 20 August, and most schools open from 8am. Here's what time results come out, how to read the slip, and what you can do if your child's grades are lower than you'd hoped."
 hero_image: "/images/school-clock-tower-building.jpg"
 tags:
   - Parent Advice
@@ -26,17 +26,17 @@ related_links:
     description: "The entry deadline, the exam dates, and how to choose between November and next summer."
 ---
 
-**GCSE results day 2026 is Thursday 20 August.** A-Level results were Thursday 13 August.
+**GCSE results day 2026 is Thursday 20 August.** A-Level results came out the week before, on Thursday 13 August.
 
 ## What time do GCSE results come out?
 
-Results are released to schools ahead of the day and go out to students **from 8am on Thursday 20 August 2026**. Individual schools set their own opening time, so some hand out slips at 8am and others at 8:30 or 9am. Check your school's arrangements rather than assuming.
+Schools get the results ahead of the day, and they're handed out **from 8am on Thursday 20 August 2026**. Each school sets its own opening time, though. Some hand out slips at 8am, others at 8:30 or 9am. So check what your child's school is doing rather than assuming.
 
-A few practical points for the morning:
+A few practical things for the morning itself:
 
-- **Someone needs to collect them in person, or your school will have an online route.** Arrangements differ, and this is worth knowing the day before rather than at 7:45am.
-- **Ask for the component marks, not just the grades.** They are the most useful thing you will get all day, and the reason is in the next section.
-- **Nothing expires on the day.** The earliest deadline that matters is 20 August, and that one is for A-Level priority reviews.
+- **Someone may need to collect them in person, or your school will have an online route.** Every school does it differently, and it's much better to find out the day before than at 7:45am.
+- **Ask for the component marks, not just the grades.** Those are the marks for each paper, and they're the most useful thing you'll get all day. I'll explain why further down.
+- **Nothing for GCSEs expires on the day.** The only deadline on 20 August is for A-Level priority reviews, and it's the earliest one there is.
 
 ## Watch: our results day webinar for parents
 
@@ -47,29 +47,29 @@ A few practical points for the morning:
     uploadDate="2026-08-17"
     duration="PT40M1S" >}}
 
-Forty minutes, recorded a few days before results day. Joe and I go through the same ground as this article and take questions from parents at the end. If you would rather watch than read, start there and use the rest of this page for the dates and deadlines.
+Forty minutes, recorded a few days before results day. Joe and I cover the same ground as this article, then take questions from parents at the end. If you'd rather watch than read, start there and use the rest of this page for the dates and deadlines.
 
-Every other article we have written is for a parent calmly deciding whether to hire a tutor. This one is for the morning it is not calm, when the envelope is open and the number is a 3 or a 4 and everyone in the kitchen is upset.
+Everything else we've written is for a parent calmly deciding whether to get a tutor. This one's for the morning when it isn't calm. The envelope's open, the number on it is a 3 or a 4, and everyone in the kitchen is upset.
 
-There are real options. Several of them have deadlines measured in days rather than weeks, which is the main reason to read this before results day rather than after.
+There are real options, though. Several of them have deadlines measured in days rather than weeks. That's the main reason to read this before results day rather than after.
 
 ## The first hour
 
-**Do not make any decisions in it.** Nothing meaningful expires on the day itself. The genuine same-day pressure is Clearing for A-Level students, and even that runs for weeks.
+**Don't make any decisions in it.** Nothing that matters runs out on the day itself. The only real same-day pressure is Clearing, where universities fill their spare places, and that's for A-Level students. Even that runs for weeks.
 
-**Get the full breakdown, not just the grades.** Ask the school for the component or paper-level marks. A grade that missed by two or three marks is a completely different situation from one that missed by thirty, and you cannot tell which you have from the letter on the slip.
+**Get the full breakdown, not just the grades.** Ask the school for the marks on each paper. A grade that missed by two or three marks is a completely different situation from one that missed by thirty. And you can't tell which you've got from the grade on the slip.
 
-**Ask how close it was to the boundary.** Schools can see this. It is the single most useful question you can ask on the day, and it determines whether a review of marking is worth doing at all.
+**Ask how close it was to the boundary.** The school can see this. It's the single most useful question you can ask on the day, because it tells you whether a review of marking is worth doing at all.
 
-**Say something other than the grade.** They already know the number. What they do not know yet is whether you are disappointed in them or just disappointed with the result. Those are very different things and teenagers cannot always tell them apart in the moment.
+**Say something other than the grade.** Your child already knows the number. What they don't know yet is whether you're disappointed in them or just disappointed with the result. Those are very different things, and teenagers can't always tell them apart in the moment.
 
 ## Option one: check the paper
 
-There are two separate services and parents often conflate them.
+There are two separate services here, and lots of parents mix them up.
 
-**A clerical re-check** confirms all pages were marked, the marks were added up correctly, and the total matches the recorded grade. It is cheap and it is not a re-mark. Requests must reach the awarding body by **24 September 2026** and are completed within 10 calendar days.
+**A clerical re-check** makes sure every page was marked, the marks were added up correctly and the total matches the grade on record. It's cheap, and it isn't a re-mark. Requests have to reach the exam board by **24 September 2026**, and they're done within 10 calendar days.
 
-**A review of marking** puts the paper in front of a senior examiner. This is the one that can change a grade, and grades can go down as well as up.
+**A review of marking** puts your child's paper in front of a senior examiner. This is the one where a grade is most likely to change. But it can go down as well as up.
 
 | Service | Deadline | Applies to |
 |---|---|---|
@@ -77,23 +77,23 @@ There are two separate services and parents often conflate them.
 | Standard review of marking | 24 September 2026 | Everything else, including GCSE |
 | Clerical re-check | 24 September 2026 | All |
 
-The priority deadline exists to protect university places, and it is one week after A-Level results day. If your child has missed an offer and the margin was small, that is the deadline to work to.
+The priority deadline is there to protect university places, and it falls one week after A-Level results day. If your child has missed an offer by a small margin, that's the deadline to work to.
 
-Two practical points. **Requests go through the school, not through you.** You cannot contact the exam board directly, so the conversation you need is with the exams officer. And **the school will usually charge a fee**, often refunded if the grade changes. Ask what it is before committing.
+Two practical points. **Requests go through the school, not through you.** You can't contact the exam board yourself, so the person you need to talk to is the school's exams officer. And **the school will usually charge a fee**, which is often refunded if the grade changes. Ask what it is before you commit.
 
 ## Option two, for A-Level: the university conversation
 
-If your child has missed the conditions of an offer, the offer is not automatically gone. Universities have discretion and frequently use it, especially where the miss was narrow.
+If your child has missed the conditions of an offer, the offer isn't automatically gone. Universities have some leeway, and they often use it, especially when the miss was narrow.
 
-**Call the university directly, and have your child make the call.** Admissions teams are staffed heavily on results day for exactly this. It is a far better use of the morning than refreshing UCAS Track.
+**Call the university directly, and have your child make the call.** Admissions teams have plenty of people on the phones on results day for exactly this. It's a far better use of the morning than refreshing UCAS Track.
 
-**Do not decline anything in a hurry.** Once an offer is released it is difficult to get back. Sitting with an insurance choice for a day is allowed.
+**Don't turn anything down in a hurry.** Once an offer's been released, it's hard to get back. It's fine to sit with an insurance choice for a day.
 
-**Clearing is not a consolation prize.** Courses at strong universities appear in Clearing every year for ordinary reasons like a cohort being smaller than planned.
+**Clearing isn't a consolation prize.** Courses at strong universities turn up in Clearing every year, for ordinary reasons like an intake coming in smaller than planned.
 
 ## Option three, for GCSE: November resits
 
-If English Language or Maths came in below a grade 4, there is a resit series this autumn.
+If English Language or Maths came in below a grade 4, your child can resit it this autumn.
 
 | What | When |
 |---|---|
@@ -101,51 +101,51 @@ If English Language or Maths came in below a grade 4, there is a resit series th
 | Exams | **3 to 9 November 2026** |
 | Results | **14 January 2027** |
 
-The autumn series covers **GCSE English Language and Maths only**. Other subjects wait until summer 2027.
+The autumn exams cover **GCSE English Language and Maths only**. Every other subject waits until summer 2027.
 
-Worth knowing: students who have not achieved a grade 4 in English or Maths are generally required to keep studying those subjects post-16 as a condition of their college's funding. So for a lot of families this is not really a choice about whether to continue, it is a choice about whether to sit the exam in November or the following summer. Arrangements vary between colleges, so ask the one your child is going to.
+Worth knowing: if your child hasn't got a grade 4 in English or Maths, they'll generally have to keep studying it after their GCSEs. It's a condition of their college's funding. So for a lot of families the question isn't whether to carry on. It's whether to sit the exam in November or the following summer. Colleges handle this differently, so ask the one your child is going to.
 
-Ten weeks is a short run at a resit, and it is enough when the gap is technique rather than content. It is usually not enough to rebuild a subject from scratch, and pretending otherwise sets everyone up for a second disappointment in January.
+Ten weeks is a short run-up to a resit. It's enough when the gap is technique rather than content. It usually isn't enough to rebuild a subject from scratch, and pretending otherwise sets everyone up for a second disappointment in January.
 
 ## Option four: the sixth form place
 
-If a conditional sixth form offer has been missed, talk to the school before assuming it is lost.
+If your child has missed the grades for a conditional sixth form offer, talk to the school before assuming the place is lost.
 
-Sixth forms and colleges publish minimum requirements that vary by provider and by subject, and they retain discretion over how they apply them. A student who missed one grade in an unrelated subject is in a much stronger position than the published criteria alone suggest. It is worth the conversation, and it is worth having your child in the room for it.
+Sixth forms and colleges publish minimum entry grades, and these vary from one place to the next and from subject to subject. But they still get a say in how strictly they apply them. If your child missed one grade in an unrelated subject, they're in a much stronger position than the published rules alone suggest. It's worth the conversation, and it's worth having your child in the room for it.
 
-If the answer is genuinely no, the alternatives are a different provider, a different combination of subjects, or a year that looks different from the one you had planned. None of those is a disaster, though it will not feel that way this week.
+If the answer really is no, the alternatives are a different sixth form or college, a different mix of subjects, or a year that looks different from the one you'd planned. None of those is a disaster, though it won't feel that way this week.
 
 ## What we would actually tell you
 
-We take a lot of calls in the fortnight after results day. The pattern is consistent enough to be worth passing on.
+We take a lot of calls in the fortnight after results day. The same few things come up so often that they're worth passing on.
 
-**Find out how far off it was before you do anything else.** Two marks and thirty marks lead to completely different plans, and most families act before they know which one they are looking at.
+**Find out how far off it was before you do anything else.** Two marks and thirty marks lead to completely different plans. But most families act before they know which one they're looking at.
 
-**Do not book three subjects out of panic.** August enquiries are the most likely of the year to arrive wanting everything fixed at once. It rarely helps.
+**Don't book three subjects out of panic.** Families who ring us in August are more likely than at any other time of year to want everything fixed at once. It rarely helps.
 
-**Separate the technique problems from the content problems.** A student who revised hard and still underperformed usually has an exam technique problem, and those are the fastest and cheapest thing to fix. A student who did not know the material needs something slower.
+**Separate the technique problems from the content problems.** If your child revised hard and still came in lower than expected, it's usually exam technique, and that's the fastest and cheapest thing to fix. If they didn't know the material, they'll need something slower.
 
-**Give it a few days before deciding anything.** The plan you make on the Thursday is nearly always worse than the one you make on the Sunday.
+**Give it a few days before deciding anything.** The plan you make on the Thursday is nearly always worse than the one you'd make on the Sunday.
 
 ## Frequently asked questions
 
 **Can a review of marking lower the grade?**
-Yes. A review can move a mark down as well as up, and the revised mark stands. Ask the school how close the original was to the boundary before deciding, because that is what tells you whether the risk is worth taking.
+Yes, it can. A review can move the mark down as well as up, and the new mark is the one that stands. So before you decide, ask the school how close your child was to the boundary. That's what tells you whether the risk is worth taking.
 
-**How much does a remark cost?**
-It varies by board and by service, and schools set their own handling fee on top. Many refund it if the grade changes. Ask your exams officer for the specific figure.
+**How much does a re-mark cost?**
+It depends on the exam board and the service, and schools add their own handling fee on top. Many refund it if the grade changes. The school's exams officer can tell you the exact figure.
 
 **Can I contact the exam board myself?**
-No. Post-results services run through the school as the registered centre. Your route is the exams officer.
+No, it has to go through the school. The school is the registered exam centre, so the exams officer is your route in.
 
 **Is it too late to appeal after 24 September?**
-That is the deadline for the standard services. There is a separate appeals process that follows a review, with its own timetable, and the school can explain how it works in your case.
+For a new review or re-check, yes, because that's the deadline for the standard services. There's a separate appeals process that follows a review, with its own timetable. The school can explain how it works for your child.
 
 **Should we resit in November or wait for the summer?**
-November suits a student who was close and whose problem is technique. Summer suits a student who needs to rebuild the subject, or who is starting a demanding post-16 course this autumn and cannot take on a resit alongside it in ten weeks.
+It depends on how close your child was, and why. November suits a near miss where the problem is technique. Summer is better if they need to rebuild the subject, or if they're starting a demanding new course this autumn and can't take on a resit alongside it in ten weeks.
 
 **Does a resit grade replace the original?**
-Both results exist, and the higher grade is the one that gets used in practice by colleges and employers. Your child does not lose anything by trying.
+Not quite. Both results exist, but in practice colleges and employers go by the higher one. So your child doesn't lose anything by trying.
 
 ## Sources
 
@@ -159,10 +159,10 @@ Fees, deadlines and college arrangements vary. Confirm the specifics with your s
 
 ## Where The Degree Gap fits
 
-We are an online-only tutoring agency for GCSE and A-Level. Every family speaks to Joe or me on a free 30-minute call before any tutor is suggested, and in the fortnight after results day a good number of those calls end with us saying wait, or saying one subject rather than three.
+We're an online-only tutoring agency for GCSE and A-Level. Every family talks to Joe or me on a free 30-minute call before we suggest any tutor. And in the fortnight after results day, a good number of those calls end with us saying wait. Or saying one subject, not three.
 
-We also run a free webinar for parents on exactly this, covering what results day means and what the realistic next steps are.
+We also run a free webinar for parents on exactly this. It covers what results day means and what the realistic next steps are for your child.
 
 [Save your place on the results day webinar →](/gcse-results-day-webinar/)
 
-{{< call-cta heading="Not sure what this result actually means for their next step?" >}}
+{{< call-cta heading="Not sure what this result means for your child's next step?" >}}

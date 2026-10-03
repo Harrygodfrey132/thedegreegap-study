@@ -1,41 +1,41 @@
 ---
 title: "Wilmslow GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "Wilmslow GCSE tutors for Year 10 and 11, one-to-one and online. A free consultation call first, 2 or 3 tutor profiles within 24 hours, lessons from £37."
+description: "Quiet in class, steady on the homework, stuck on the same mock grade? Our Wilmslow GCSE tutors give your child a weekly hour that's all theirs. From £37."
 layout: "subject"
 location: "Wilmslow"
 level: "GCSE"
 
-hero_heading_line1: "Online Wilmslow GCSE Tutors for the Quiet Student in the Middle of the Set"
+hero_heading_line1: "Online Wilmslow GCSE Tutors for the Quiet Child in the Middle of the Set"
 hero_heading_line2: ""
 hero_lead: "The homework gets done and the reports sound fine, but the mock grade still hasn't moved. Our Wilmslow GCSE tutors give your child an hour a week of their own, starting with the topics that are costing them marks."
 
 grade_from: "5"
 grade_to: "6/7"
-grade_stat: "One parent says her Year 10 son went from a grade 5 to a 6/7 in English after six months of lessons, and now looks forward to them."
+grade_stat: "Six months with his tutor took Omo's Year 10 son from a 5 to a 6/7 in English, and he now looks forward to the lessons."
 
-first_lesson_eyebrow: "ONE BIG YEAR GROUP, ONE STUDENT"
+first_lesson_eyebrow: "ONE BIG YEAR GROUP, ONE CHILD"
 first_lesson_heading: "What a Wilmslow GCSE Tutor Notices in the First Lesson"
-first_lesson_context: "The conversation we hear most from Wilmslow parents goes something like: they're not struggling, exactly, they're just not getting any further. In a first lesson the GCSE tutor usually finds it's one subject and one or two old topics, which an hour a week can get hold of, as this parent found."
+first_lesson_context: "Wilmslow parents often tell us their child isn't struggling, exactly, just not getting any further. In the first lesson the GCSE tutor usually finds it's one subject, and one or two older topics inside it. That's something an hour a week can get hold of, as this parent found."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to a 6/7 in GCSE English"
 
 tutor_strip_heading: "Wilmslow GCSE tutors who check the exam board before anything else"
-tutor_strip_body: "Every school chooses its own boards and tiers, so we check your child's on the consultation call before suggesting anyone. Each tutor here has been interviewed by Harry or Joe. Have a look, or let us pick 2 or 3 for you."
+tutor_strip_body: "Every school picks its own exam boards and decides whether your child sits the higher or foundation papers. We check both on the call before suggesting anyone. Harry or Joe has interviewed every tutor here. Have a look, or let us pick 2 or 3 for you."
 
 pathways_heading: "The Choices Wilmslow Families Weigh Up at Sixteen"
 pathways_lead: "Most stay put, some move, and a few go straight into paid training."
 pathways:
   - title: "Sixth Forms"
     body: >
-      Wilmslow High School asks for at least five GCSEs at grade 4 or above for its A-Level and BTEC courses, plus a minimum in any subject a student carries on. Cheadle & Marple Sixth Form College, Fallibroome Academy in Macclesfield, and the independent sixth forms at The King's School and Cheadle Hulme School each set their own entry rules.
+      Wilmslow High School asks for at least five GCSEs at grade 4 or above for its A-Level and BTEC courses, plus a minimum in any subject your child wants to carry on. Cheadle & Marple Sixth Form College, Fallibroome Academy in Macclesfield, and the independent sixth forms at The King's School and Cheadle Hulme School each set their own entry rules.
   - title: "Apprenticeships"
     body: >
-      Manchester Airports Group runs apprenticeships at Manchester Airport from Level 2 up to Level 6, across engineering, fire, data and cyber security among others. AstraZeneca in Macclesfield and Waters, whose mass spectrometry headquarters sits in Wilmslow, recruit apprentices too, and the adverts we've seen tend to list GCSE Maths and English among the requirements.
+      Manchester Airports Group runs apprenticeships at the airport from Level 2 right up to Level 6, which is degree level, in engineering, fire, data and cyber security among others. AstraZeneca in Macclesfield and Waters, whose mass spectrometry headquarters is in Wilmslow, take on apprentices too, and the adverts we've seen tend to list GCSE Maths and English among the requirements.
   - title: "Further Education"
     body: >
-      Macclesfield College, on its Park Lane campus, offers T Levels in areas like digital, health and construction alongside A-Levels and vocational courses. Cheadle & Marple Sixth Form College is the other big post-16 option within reach, a short drive north towards Stockport.
+      Macclesfield College, on its Park Lane campus, has T Levels, the technical alternative to A-Levels, in areas like digital, health and construction, as well as A-Levels and other job-focused courses. Cheadle & Marple Sixth Form College is the other big option at sixteen, a short drive north towards Stockport.
 
 reviews:
   - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
@@ -48,13 +48,13 @@ reviews:
   - "Nazrul|Parent of GCSE Student|My daughter found the tutors were very helpful for her GCSE thank you"
 
 faq_1_q: "Does my child need a grade 4 or a 5 to stay on at Wilmslow High?"
-faq_1_a: "For A-Level and BTEC courses, Wilmslow High School asks for at least five GCSEs at grade 4 or above, and a set minimum in any subject your child wants to carry on. Some courses ask for more, usually the ones where a bare pass makes the A-Level much harder going. So one weak subject can matter more than it looks, even when the rest are fine. Check the current sixth form guide, because the details change from year to year."
+faq_1_a: "A 4 is the general bar, across at least five GCSEs, but some courses want more. For its A-Level and BTEC courses, Wilmslow High School also sets a minimum in each subject your child hopes to carry on. The ones that ask higher tend to be courses where a bare pass would make the A-Level hard going. So one weak subject can matter more than it looks, even when everything else is fine. The figures can shift from one year to the next, so it's worth a look at this year's sixth form guide."
 faq_2_q: "Is Year 10 too early to get a GCSE tutor?"
-faq_2_a: "Not at all, and it's often the easiest time to start. In Year 10 there's room to go back and fix an old gap, say an algebra method from Year 8, before Year 11 content lands on top of it. The lessons feel less like exam cramming and more like finally understanding something. Starting in Year 11 still helps plenty of families. The work just becomes more about past papers and timing, and there's less room to go back."
-faq_3_q: "My child doesn't really want a tutor. Is that normal?"
-faq_3_a: "Very normal, and it's probably the thing parents mention most. Teenagers tend to picture another school lesson, and it usually changes once they meet the tutor, because it feels nothing like one. There's one person, their full attention, and nobody else watching. That's why your child gets a free video call with the tutor before anything is booked. If they really don't get on with it after a couple of lessons, you simply stop."
+faq_2_a: "No. If anything, it's the easier year to start. In Year 10 your child still has room to go back and fix an old gap, say an algebra method from Year 8, before the Year 11 work lands on top of it. So the lessons feel less like cramming and more like something finally making sense. If you're already into Year 11, it still helps. There's less room to go back, so more of each lesson goes on past papers and timing."
+faq_3_q: "My son says he's fine on his own. Is that a reason to wait?"
+faq_3_a: "Not on its own. Lots of teenagers say exactly that, mostly because they're picturing an extra hour of school. It tends to change once they meet the tutor and find it's just the two of them, with nobody else there to see a wrong answer. That's what the free video call is for, before anything's booked. And if he's still not getting much from it after a couple of lessons, you stop, with no awkward conversation."
 faq_4_q: "How much is GCSE tutoring, and are we tied in?"
-faq_4_a: "Lessons start from £37 an hour, and the exact price depends on the tutor. We agree it with you before anything is booked. There's no contract and no joining fee, and the consultation call and the video call with the tutor are both free. After that you pay for the lessons you have. Plenty of families pause over half term or the summer, then pick up again before mocks."
+faq_4_a: "You're not tied in at all, and lessons start from £37 an hour. The exact price depends on which tutor you choose, and you'll know it before you book. There's no contract and no joining fee, and the consultation call and the video call with the tutor are both free. After that you pay for the lessons you have. Plenty of families pause over half term or the summer, then pick up again before the mocks."
 
 sitemap:
   priority: 0.7

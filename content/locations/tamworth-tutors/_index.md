@@ -1,70 +1,70 @@
 ---
 title: "Tamworth GCSE & A-Level Tutors | Online | The Degree Gap"
-description: "Online one-to-one Tamworth tutoring for GCSE and A-Level, matched on exam board. Built around the town's post-16 entry requirements. From £37/hr."
+description: "Is Year 10 too early for a Tamworth tutor? Usually not: a wobbly subject is still a small job then. Online GCSE and A-Level tutoring, from £37 an hour."
 layout: "single"
 location: "Tamworth"
-banner_heading: "Online Tamworth tutors for the grades that decide whether sixth form is up the road or down the line"
-banner_description: "Tamworth has one dedicated sixth form of its own. That makes Year 11 grades a travel decision as much as an academic one, and it is worth knowing that early."
-content_angle: "single local post-16 provider and travel"
-intro_1: "Tamworth is unusual for a town its size in having one dedicated sixth form inside it. Landau Forte Academy Tamworth Sixth Form takes several hundred students a year, and it publishes its own entry requirements subject by subject. Most families here only find out what those requirements are somewhere around February of Year 11, which is late. The students who miss them are not shut out of anything, but their options move outward: South Staffordshire College, the Burton colleges, Lichfield, or a train into Birmingham. That is a real difference to a school day, and it is decided by a set of numbers arriving in August."
-intro_2: "So the work we do with Tamworth families tends to start with the same question. Which subjects does your child want to carry on with, and what is that route asking for this year. Then we work backwards from there. Every family speaks with a co-founder before any tutor is suggested, and that conversation is where the honest version of the current grade usually comes out. A student sitting at a 4 who wants a route asking for a 6 has a term of work in front of them, not a problem. Knowing which of the two it is in October rather than March is most of the value."
+banner_heading: "Is Year 10 Too Early for a Tutor? Online Tamworth Tutoring for GCSE and A-Level"
+banner_description: "Usually not. A topic that's wobbling in Year 10 is a few weeks' work with a tutor. Leave it until the spring of Year 11 and it's competing with revision for every other subject."
+content_angle: "starting early in Year 10, while a wobbly subject is still a small job"
+intro_1: "Lots of parents feel a bit daft getting in touch in Year 10. Nothing has gone badly wrong. There's just one subject that's started to slip, and a nagging feeling it'll matter later. In Tamworth, it often does. The town has one dedicated sixth form of its own, Landau Forte Academy Tamworth Sixth Form, and it sets entry requirements subject by subject. If your child misses the grade for a subject they love, there are still good options. South Staffordshire College, the colleges in Burton and Lichfield, or a train into Birmingham. They just tend to mean a longer day."
+intro_2: "So our first question is a simple one: which subjects would your child like to keep going with after Year 11? Then we look at what those courses are asking for this year. You'll talk it through on a free call with Harry or Joe, the two of us who started The Degree Gap. We'll want to hear about your child as much as their grades. You'll have two or three tutor profiles to look at within 24 hours. Your child can then say hello to your favourite over a free video meeting before anything's booked. After that, lessons are weekly, from £37 an hour, with no contract to sign."
 about_heading: "Online Tutors Covering Tamworth"
 about_image: "/images/students-in-classroom-taking-notes.jpg"
-schools_intro: "Our Tamworth tutors work with families from Landau Forte Academy QEMS, The Rawlett School and The Wilnecote School, along with students at Landau Forte Academy Tamworth Sixth Form and at South Staffordshire College. We also run revision and exam preparation workshops on request, for groups of students who want extra structure outside the classroom."
+schools_intro: "We help families with children at Landau Forte Academy QEMS, The Rawlett School and The Wilnecote School. Older ones come to us from Landau Forte Academy Tamworth Sixth Form and South Staffordshire College too. More than 15 secondary schools around the UK already work with us directly. And during the school day, Harry and Joe are often in classrooms running revision workshops."
 schools: ["Landau Forte Academy QEMS", "The Rawlett School", "The Wilnecote School", "Landau Forte Academy Tamworth Sixth Form", "South Staffordshire College"]
 schools_image: "/images/students-listening-in-classroom.jpg"
-online_heading: "Why online tutoring suits Tamworth families"
-online_1: "The subject specialists are not evenly spread across the country, and a town of this size will not have a spare OCR A-Level Chemistry examiner living in it. Online removes that constraint entirely. We match on the specification your child sits rather than on who lives near enough to drive over, which at A-Level is the difference between a tutor who knows the subject and a tutor who knows the paper."
-online_2: "It also gives back the evening. A weekly hour after dinner with no drive attached is easier to keep going for two terms than something that needs a car at both ends, and it is the keeping going that moves a grade. Sessions run on Lessonspace, our shared whiteboard, and every one is recorded, which students use far more than parents expect in the fortnight before a mock."
+online_heading: "Online tuition for Tamworth families, with no lifts to arrange"
+online_1: "Because lessons are online, we're not limited to whoever lives within driving distance of Tamworth. If your child needs someone who knows OCR A-Level Chemistry or the AQA English Literature texts inside out, we can look right across the UK. The lessons happen on Lessonspace, a shared online whiteboard. Your child can put up a homework question or part of a mock, and the two of them work through it together."
+online_2: "There's no car involved either, so a weekly lesson fits into a school night without taking over the evening. It's also easier to keep the same tutor right through Year 10 and 11 when nobody's relying on a lift. And every lesson is saved, so your child can replay a tricky explanation the week before a mock, which plenty of them do."
 online_image: "/images/child-using-online-learning-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Tamworth,UK&output=embed"
-areas_intro: "Because our tutoring runs online, students in Tamworth and across south Staffordshire and the north Birmingham edge can work with the right subject specialist rather than the nearest one."
+areas_intro: "Lessons work exactly the same anywhere in south Staffordshire or out on the north Birmingham edge, and we help families in these nearby towns too."
 area_links: ["Sutton Coldfield Tutors|/locations/sutton-coldfield-tutors/", "Birmingham Tutors|/locations/birmingham-tutors/", "Solihull Tutors|/locations/solihull-tutors/", "Coventry Tutors|/locations/coventry-tutors/", "Derby Tutors|/locations/derby-tutors/", "Wolverhampton Tutors|/locations/wolverhampton-tutors/"]
 gcse_subjects: [
-  "GCSE Maths Tuition|Working back from wrong answers to the topic that broke first, which is usually earlier in the course than the current one.|/book-a-call/",
-  "GCSE English Tuition|Analytical writing and exam technique for Language and Literature, marked against the real bands rather than praised.|/book-a-call/",
-  "GCSE Biology Tuition|Required practicals and long-answer structure, taught as exam questions rather than as a memory of the lesson.|/book-a-call/",
-  "GCSE Chemistry Tuition|Moles, equations and rates, with the calculation steps written out rather than explained at.|/book-a-call/",
-  "GCSE Physics Tuition|Rearranging, unit conversion and the multi-step problems that decide the back half of the paper.|/book-a-call/",
-  "GCSE History Tuition|Essay structure across the main boards, built up from whatever the student can already do.|/book-a-call/",
-  "GCSE Geography Tuition|Case-study recall and long-answer technique, practised against the mark scheme.|/book-a-call/",
-  "GCSE French Tuition|Speaking and writing practice built up deliberately, at whatever level the student is starting from.|/book-a-call/",
-  "GCSE Computer Science Tuition|Algorithms, trace tables and the programming project, taught from wherever the student actually is.|/book-a-call/",
+  "GCSE Maths Tuition|Often the highest bar at sixth form, so shaky topics from earlier years get mended while there's time.|/book-a-call/",
+  "GCSE English Tuition|Essays planned before the writing starts, and quotations that stay put, begun in Year 10 while the pressure's low.|/book-a-call/",
+  "GCSE Biology Tuition|Required practicals and six-mark questions tackled early, so they're familiar long before the Year 11 mocks.|/book-a-call/",
+  "GCSE Chemistry Tuition|Equations balanced slowly, with every line of working shown until your child trusts the method.|/book-a-call/",
+  "GCSE Physics Tuition|Circuits, waves and forces, with each calculation talked through until your child can explain it back.|/book-a-call/",
+  "GCSE History Tuition|Source questions and essays with a clear argument, practised with your child's exam board in mind.|/book-a-call/",
+  "GCSE Geography Tuition|Case studies revised in small chunks through the year, so nothing's left to cram in May.|/book-a-call/",
+  "GCSE French Tuition|Vocabulary learnt a few words at a time from Year 10, instead of hundreds crammed in the spring.|/book-a-call/",
+  "GCSE Computer Science Tuition|Programming practice alongside the theory, so your child isn't strong at one and lost in the other.|/book-a-call/",
 ]
 alevel_subjects: [
-  "A-Level Maths Tuition|Pure, Mechanics and Statistics, with the method work that the GCSE-to-A-Level jump exposes.|/book-a-call/",
-  "A-Level Biology Tuition|Synoptic answers and required practicals, marked the way an examiner marks them.|/book-a-call/",
-  "A-Level Chemistry Tuition|Mechanisms taught as rules rather than sequences, and calculation chains written out in full.|/book-a-call/",
-  "A-Level Physics Tuition|Mechanics and Fields problem-solving, built on the algebra underneath rather than the topic on the page.|/book-a-call/",
-  "A-Level Psychology Tuition|AO3 evaluation chains and the synoptic essay structure, at whatever level the student is sitting at.|/book-a-call/",
-  "A-Level English Tuition|Critical reading and the comparative essay, sharpened against the real mark scheme.|/book-a-call/",
-  "A-Level History Tuition|Source analysis and the 25-mark essay, where technique keeps marks that content alone does not.|/book-a-call/",
-  "A-Level Economics Tuition|Diagram precision and the evaluation chains that carry the longer essays.|/book-a-call/",
-  "A-Level Business Tuition|Applied answers and the case-study questions that decide the longer marks.|/book-a-call/",
+  "A-Level Maths Tuition|Help with the jump from GCSE, starting with algebra and working through to mechanics and statistics.|/book-a-call/",
+  "A-Level Biology Tuition|A lot of content and long written answers, broken into weekly chunks your child can keep on top of.|/book-a-call/",
+  "A-Level Chemistry Tuition|The organic mechanisms where many sixth formers first feel out of their depth, taken one arrow at a time.|/book-a-call/",
+  "A-Level Physics Tuition|Problems split into small steps, with the algebra underneath made solid before the harder topics pile on.|/book-a-call/",
+  "A-Level Psychology Tuition|Evaluation paragraphs that earn their marks, plus the research methods questions that catch a lot of people out.|/book-a-call/",
+  "A-Level English Tuition|Timed essays and help with the coursework, so your child isn't starting from scratch when deadlines bunch up.|/book-a-call/",
+  "A-Level History Tuition|A clear line of argument in every essay, and the confidence to push back on a historian's view.|/book-a-call/",
+  "A-Level Economics Tuition|Diagrams labelled properly and essays that weigh up both sides, practised against real exam questions.|/book-a-call/",
+  "A-Level Business Tuition|Case studies read carefully, with every answer tied to the business in the question instead of a textbook example.|/book-a-call/",
 ]
 other_subjects: [
-  "University Personal Statement|Shape a strong UCAS personal statement with support on structure, subject motivation and final polish.|/book-a-call/",
+  "University Personal Statement|Help turning a blank page into a UCAS statement your child is happy to send, one draft at a time.|/book-a-call/",
 ]
-faq_1_q: "How do I find the right tutor in Tamworth?"
-faq_1_a: "Tell us the subject, the year group and the exam board, and say what your child is hoping to do at 16 or 18. Most families hear back within 24 hours with two or three tutor profiles and a recommended first match. The post-16 answer changes who we suggest more than people expect, because a student aiming to carry a subject on needs different work from one aiming to pass it and stop."
-faq_2_q: "What grades does my child need for sixth form in Tamworth?"
-faq_2_a: "Landau Forte Academy Tamworth Sixth Form publishes entry requirements by subject and revises them between years, and Maths and the Sciences generally ask for more than the rest. South Staffordshire College and the colleges at Burton and Lichfield publish their own, and vocational routes usually gate on Maths and English rather than on the subject itself. Work from this year's admissions page rather than what an older sibling remembers, because the numbers move."
-faq_3_q: "Is it worth starting tutoring in Year 10 rather than waiting?"
-faq_3_a: "Usually yes, and not because Year 10 content is harder. It is because a gap found in Year 10 is a few weeks of work and the same gap found in the spring of Year 11 is competing with revision for every other subject. Year 10 also has room for the diagnostic to be honest, which is worth a great deal. If you are already in Year 11, that is fine too, we just plan tighter and pick the topics that carry the most marks."
-faq_4_q: "How long does it take to see an improvement?"
-faq_4_a: "Most students notice something within the first few sessions, usually in how the subject feels rather than in a grade. Where the problem is exam technique, a grade band can move inside eight to twelve weekly hours. Where there is a genuine foundation gap underneath, it takes a term, because something has to be built before it can be practised. The first session tells us which one we are looking at and we will say so honestly."
-why_heading: "Why Tamworth families choose The Degree Gap"
-why_para_1: "The thing that decides a Tamworth Year 11's next two years is often a single grade in a single subject, and it is usually visible a year in advance to anyone who looks. Schools here are not missing it through carelessness. A class of thirty moves at the pace the syllabus sets, and there is no room in that hour to stop and rebuild one student's algebra from two years ago. One-to-one is the only setting where stopping is allowed."
-why_para_2: "So the first session is a diagnostic rather than a lesson. The tutor works backwards through the student's own wrong answers until the understanding actually runs out, and that point is often earlier than anyone guessed. From there the plan builds forward alongside school rather than repeating it, and the two meet somewhere in the middle of the term."
-accordion_quality: "Every tutor in our network is a graduate, vetted on subject knowledge and on how clearly they explain a difficult idea to a student who is stuck. Around three in every hundred applicants pass the founder-led interview, and the second quality is the one that fails most of them."
-accordion_experience: "Our Tamworth tutors have years of one-to-one experience across GCSE and A-Level specifications, and many are qualified examiners who have marked the papers your child will sit. That shows up most in the longer answers, where knowing the content and knowing what earns the mark are two different things."
-accordion_personalised: "Every plan starts with a diagnostic rather than a syllabus. We ask about the exam board, the target after Year 11 and which topics feel shaky, then build the sessions around what the student is actually missing rather than around what comes next in the book."
+faq_1_q: "We're already in Year 11. Have we left it too late?"
+faq_1_a: "Not at all, and plenty of families start then. The tutor just works in a more targeted way. They look at where marks are being lost and start with the ones quickest to win back. There's no need to go all the way back to the beginning. Lessons are still once a week, so they sit alongside school revision rather than piling on top of it. If the mocks are close, we'll suggest which subject to start with."
+faq_2_q: "What grades does the sixth form in Tamworth ask for?"
+faq_2_a: "Landau Forte Academy Tamworth Sixth Form sets its requirements subject by subject, and Maths and the Sciences usually ask for more than the rest. The figures change between years, so check the current admissions page. South Staffordshire College and the colleges in Burton and Lichfield publish their own, and vocational courses there tend to look mostly at Maths and English. We're happy to go through the numbers with you on the call."
+faq_3_q: "What happens if my child and the tutor don't get on?"
+faq_3_a: "Tell us and we'll find a different tutor, free of charge and without any awkward conversation. It happens now and then, and it's nobody's fault. Some children want a chattier tutor, others want one who gets straight down to work. As teenagers, Harry and Joe each had one excellent tutor and one who was just okay, so we take the fit seriously. It's also why you see two or three profiles, and why your child meets the tutor before the first lesson."
+faq_4_q: "How many lessons a week does my child need?"
+faq_4_a: "For most children, one a week is plenty. An hour with the same tutor every week, kept up across a few terms, does more than a burst of lessons just before the exams. If Year 11 gets busy, you can ask the tutor about adding a lesson for a while, but it's never expected. After the first couple of lessons, the tutor will tell you what they think, and you can change things whenever you like."
+why_heading: "What an early start with a Tamworth tutor looks like"
+why_para_1: "When a tutor meets a Year 10 for the first time, the trouble is rarely this term's topic. More often it's something from a couple of years back, like negative numbers or rearranging, that never quite settled. Schools aren't missing it through lack of care. A teacher with thirty in the room has to keep the class moving, and there's no spare hour to rebuild one child's algebra. One-to-one, there is."
+why_para_2: "The first few weeks go on filling that gap while school carries on as normal. Your child may grumble that it's Year 8 stuff. That's fine, because everything built on top of it gets easier. By the time Year 11 arrives, the tutor can spend lessons on past papers and exam technique rather than patching up old topics."
+accordion_quality: "Our tutors are graduates or still at university, many of them from Russell Group universities, and Harry and Joe interview each one personally. We look for patience as much as subject knowledge, because a Year 10 who's lost faith in a subject needs someone calm."
+accordion_experience: "They've worked with Year 10s who were only starting to wobble and with Year 13s a few weeks from their final papers. Each of them has tutored for at least two years, and they've covered AQA, Edexcel and OCR between them."
+accordion_personalised: "Nothing comes pre-packaged, and the plan starts from your child's own work. In Year 10 the tutor can afford to go back a long way, while in Year 11 the plan tightens around the topics carrying the most marks."
 
 reviews:
-  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."
+  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. …"
   - "Dawn|Parent of GCSE Student|The Degree Gap took time to understand my child’s worries. They paired me with Connor, who my daughter got on well with. Her confidence has skyrocketed since. Thanks again."
   - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
-  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents. My daughter passed both English and Maths GCSE with grades 4 and 5."
+  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents. UPDATE: My daughter passed both English and Maths GCSE (4 and 5's). …"
   - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 
 sitemap:

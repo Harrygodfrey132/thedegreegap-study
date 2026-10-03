@@ -1,24 +1,24 @@
 ---
 title: "Fareham A-Level Maths Tutors | Online | The Degree Gap"
 nav_title: "Maths"
-description: "Online A-Level Maths tutors covering Fareham. Sequences, series and the questions that reward noticing the structure, from £37 an hour."
+description: "Series questions right, but the paper never finished? Our Fareham A-Level Maths tutors teach your child to spot the type of question first. From £37 an hour."
 layout: "level-subject"
 location: "Fareham"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors Working With Fareham Families"
-hero_lead: "Series questions reward spotting a structure rather than grinding through arithmetic. Our Fareham A-Level Maths tutors teach the noticing."
+hero_h1: "Online A-Level Maths Tutors for Fareham and Portchester Families"
+hero_lead: "Your child might get the series questions right and still not finish the paper, and how they start each one is often why. Our Fareham A-Level Maths tutors teach them to spot the structure before writing anything."
 
 angle_eyebrow: "SPOT IT OR GRIND IT"
-angle_heading: "Why Series Questions Separate Two Kinds of Student"
-angle_body_1: "Sequences and series questions can be attacked two ways. A student can recognise the structure, choose the right formula and finish in two lines, or they can start writing terms out and hope a pattern emerges. Both can reach the answer on an easy question. On a harder one, or with a clock running, only the first works, and the second consumes the time that later questions needed. The difference is not ability. It is whether anybody taught the student to pause and classify before computing, and most lessons move straight to the method for the type just introduced."
-angle_body_2: "Classification is quick to teach: is it arithmetic or geometric, is it finite or infinite, is the common ratio inside the range that lets it converge, is this actually a binomial in disguise. Thirty seconds of that saves several minutes and prevents most of the errors. The first session gives your child four different series and asks them to name each before solving any. Havant and South Downs College and the sixth forms near Fareham publish their own entry requirements."
+angle_heading: "Why Series Questions Take Some Teenagers So Long"
+angle_body_1: "There are two ways into a sequences and series question. Your child can spot the structure, pick the right formula and finish in two lines. Or they can start writing out terms and hope a pattern turns up. On an easy question, both get there. On a harder one, with the clock running, only the first works, and the second eats the time later questions needed. It isn't about ability. It's the habit of stopping to ask what kind of question it is before calculating. Textbook exercises come one topic at a time, so that deciding step rarely gets practised."
+angle_body_2: "Deciding is quick to learn. Is it arithmetic or geometric? Finite or infinite? Is the common ratio between minus 1 and 1, so there's a sum to infinity? Or is it a binomial expansion in disguise? Thirty seconds of that saves minutes, and a lot of slips. In the first lesson, the tutor gives your child four different series to name before solving any. And the marks that habit saves all count towards the grade. Your child might be at Havant and South Downs College or a sixth form nearer Fareham. Either way, the next step sets its own entry grades, from a degree at Southampton or Portsmouth to a BAE Systems apprenticeship."
 angle_image: "/images/maths-equations-close-up.jpg"
-angle_image_alt: "An A-Level Maths student working through a multi-step problem with an online tutor"
+angle_image_alt: "Two long printed fractions with the square root of 8gh, each worked to an approximate answer"
 angle_stat_from: "C"
 angle_stat_to: "A"
-angle_stat_detail: "Where a year of weekly one-to-one A-Level Maths hours is typically aimed once questions are classified before being attempted."
+angle_stat_detail: "Aimed for over a year of weekly lessons, once your child's in the habit of naming each question's type before starting."
 
 schools:
   - "Cams Hill School"
@@ -28,28 +28,28 @@ schools:
   - "Fareham College"
   - "Portchester Community School"
 
-steps_heading: "Start online A-Level Maths tutoring in Fareham in 3 steps"
-steps_lead: "Profiles inside a day. Watch whether your child classifies a question or starts writing immediately."
+steps_heading: "Starting A-Level Maths tutoring in Fareham, in three steps"
+steps_lead: "You'll have profiles within a day. Meanwhile, notice whether your child pauses on a question or dives straight in."
 steps:
-  - title: "Share your goals"
-    body: "Year group, school and exam board, plus whether your child tends to start calculating before deciding what kind of question it is. That habit costs time everywhere, not only in series."
-  - title: "Meet your match"
-    body: "Two or three suggestions land within twenty four hours, matched on the specification and on the strand that needs the hours. Nothing gets booked until a free 15-minute video meeting has happened."
-  - title: "Start the lessons"
-    body: "Once a week, online, using Lessonspace, the whiteboard the tutor and your child share. Questions are classified aloud before anything is written, until the pause becomes automatic. From £37 an hour, and nothing commits you past the next session."
+  - title: "A free call about your child"
+    body: "Harry or Joe gets to know you and your child: year group, school, exam board, and whether they start calculating before working out what kind of question it is. That habit costs time on every paper."
+  - title: "Pick from two or three tutors"
+    body: "Profiles land within 24 hours, picked for your child's exam board and the topics that need the most time. Nothing's booked until your child has met the tutor on a free 15-minute video meeting."
+  - title: "Weekly lessons online"
+    body: "Once a week in the online classroom Lessonspace, on a shared whiteboard, with a replay of every lesson. Your child names each question's type out loud before writing, until the pause comes naturally. From £37 an hour. There's no contract, so you're only ever committed to the next lesson."
 
 faqs:
-  - q: "How much A-Level Maths practice should my child do between sessions?"
-    a: "Two to four hours across the week for a student aiming near the top of the band, split into short sittings rather than one block. Marking it honestly matters as much as doing it. For classification work, mixed exercises are far more useful than a page of the same question type, because a page of identical questions removes the very decision the exam will demand."
-  - q: "How can I tell which parts of A-Level Maths my child is losing marks on?"
-    a: "Look at time as well as accuracy. A student who gets series questions right but takes three times as long as they should does not have an accuracy problem, they have a classification problem, and it will cost them at the end of the paper rather than on that question. Blank questions, abandoned working and slow-but-correct working each point somewhere different."
-  - q: "Is A-Level Maths tutoring actually worth the money?"
-    a: "It depends on the gap, and we would rather say so. Where a student is a grade below what their offer needs, the hours usually justify themselves, because Maths is named in most science and engineering requirements. Where the only issue is pace on one topic, a short block may do it. The consultation call gives the honest version, including when the answer is that tutoring is not what is needed."
+  - q: "How much Maths practice should my child do between lessons?"
+    a: "About two to four hours over the week if they're aiming near the top, in short sittings rather than one long evening. Checking it honestly matters as much as doing it. And for this kind of work, a mixed set of questions beats a page of the same type. Identical questions take away the one decision the exam will ask your child to make."
+  - q: "How do I find out where my child's dropping marks in Maths?"
+    a: "Look at how long things take, not only what's right. If your child gets series questions right but takes three times as long as they should, the trouble's deciding, not accuracy. It'll cost them at the end of the paper rather than on that question. Blank questions, abandoned working and slow but correct working each point somewhere different."
+  - q: "Is A-Level Maths tutoring worth the money?"
+    a: "It depends on the gap. If your child's a grade below what their offer needs, lessons usually pay their way, because most science and engineering courses ask for Maths. If the only problem is speed on one topic, a short run of lessons may be enough. The first call's there to give you a straight answer, including when that answer is that your child doesn't need tutoring right now."
   - q: "Are your A-Level Maths tutors qualified teachers or university students?"
-    a: "Both, and we pick on the problem rather than the credential. Teaching a student to classify before calculating suits somebody who will refuse to let them start writing, which is a particular discipline. The network includes qualified secondary teachers, Russell Group graduates and current undergraduates who sat these papers recently. We suggest on what the diagnostic shows."
+    a: "It's a mix: some are still at university, others have graduated, and some are qualified teachers as well. Every one of them has tutored for at least two years. But we choose for the problem, not the certificate. Teaching a teenager to decide before they calculate suits a tutor who won't let them start writing too soon, and that takes patience. So we suggest tutors based on what you tell us about your child on the call."
   - q: "How quickly can my child start A-Level Maths tutoring in Fareham?"
-    a: "Usually inside a week. A free consultation call with Joe or Harry, then two or three tutor profiles within a day, then a free 15-minute video meeting with whoever your child prefers, then the first paid session. Nothing is paid until they have met. If mocks are close, say so on the call, because habit work of this kind gives quick returns."
-# FAQ picks: A02, A05, C10, E01, G06
+    a: "Usually within a week. First a free call with Joe or Harry, then two or three tutor profiles within a day, then a free 15-minute video meeting with whichever tutor your child likes best. Then the first paid lesson, and nothing's paid before they've met. If mocks are close, mention it on the call, and the tutor can start with the habits costing the most time."
+# FAQ picks: A09, A06, C03, E02, C10
 
 reviews:
   - "daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"

@@ -1,41 +1,38 @@
 ---
 title: "Stockport A-Level Tutors | Year 12 to UCAS | The Degree Gap"
-description: "Stockport A-Level tutors for students who started college on a clean slate and hit the Year 12 step. One-to-one online over Lessonspace, from £37 an hour."
+description: "Year 12 at a Stockport college, where nobody knows your child yet. Our Stockport A-Level tutors find the gaps early, one-to-one online, from £37 an hour."
 layout: "subject"
 location: "Stockport"
 level: "A-Level"
 
-hero_heading_line1: "Online Stockport A-Level tutors who find Year 12 gaps before the prediction is written"
+hero_heading_line1: "Online Stockport A-Level Tutors for a New College Where Nobody Knows Your Child Yet"
 hero_heading_line2: ""
-hero_lead: "New building, new teachers, and a GCSE grade that says nothing about which topics actually stuck. That is Year 12 in Stockport. Our Stockport A-Level tutors work one-to-one online over Lessonspace to find the gaps while the predicted grade is still being decided."
+hero_lead: "In Stockport, Year 12 usually means a new college, where your child's teachers have a GCSE grade and not much else. They can't yet see which topics really stuck. Our Stockport A-Level tutors find the gaps one-to-one online, while the predicted grade is still being decided."
 
 grade_from: "C"
 grade_to: "A"
-grade_stat: "One parent's words below: from Cs to As at A-Level, with the tutor helping on university choices along the way."
+grade_stat: "The parent quoted below says their child went from Cs to As, with help picking universities too."
 
-first_lesson_eyebrow: "NOBODY AT THE COLLEGE KNOWS THEM YET"
+first_lesson_eyebrow: "WHAT A GCSE GRADE DOESN'T SHOW"
 first_lesson_heading: "Why a Stockport A-Level Tutor Starts With the GCSE Paper, Not the Year 12 Notes"
-first_lesson_context: "At Aquinas, Cheadle College or Stockport College, a Year 12 teacher meets a room of new faces in September and a grade for each one. The grade cannot say that trigonometry was skimmed in Year 10 or that the student passed Chemistry on memory. A tutor finds that out in the first hour, from the student's own working, and it changes what the term is for."
+first_lesson_context: "At Aquinas, Cheadle College or Stockport College, a Year 12 teacher starts September with a room of new faces and a grade for each one. That grade can't tell them whether your child skimmed trigonometry in Year 10, or got through GCSE Chemistry on memory. A tutor can usually spot it in the first hour, from your child's own working, and the term gets a clear plan from there."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Cs to As at A-Level, plus help with university choices"
 
 tutor_strip_heading: "Stockport A-Level tutors who know what a fresh start hides"
-tutor_strip_body: "Most tutors we suggest are recent graduates who know which Year 12 topics rest on a GCSE method. Around 3% of applicants get through the founder-led interview, and every session is one-to-one, online, over Lessonspace, and recorded. See the profiles, or ask us to choose."
+tutor_strip_body: "The tutors we suggest know which Year 12 topics lean on a GCSE method, and each one has sat an interview with Harry or Joe. Only around 3% of applicants make it onto the platform. See the profiles, or ask us to pick for you."
 
-pathways_heading: "Where Stockport A-Level Students Head at Eighteen"
-pathways_lead: "The three routes Stockport families weigh up in Year 12, and what each of them reads before anything else."
+pathways_heading: "After A-Levels in Stockport: The Routes at Eighteen"
+pathways_lead: "The three routes Stockport families weigh up in Year 12, and what each one looks at first."
 pathways:
   - title: "Universities"
-    body: >
-      Students leave Aquinas, Cheadle College and the two independent sixth forms for universities across the north, with Manchester Metropolitan and Salford close enough to live at home for. Offers are made against the predicted grades written during Year 12 and the first term of Year 13, long before any paper is sat.
+    body: "Manchester Metropolitan and Salford are close enough for your child to live at home, and there's plenty more choice across the north. Whether they're at Aquinas, Cheadle College or one of the two independent sixth forms, offers will rest on predicted grades written in Year 12 and the first term of Year 13, long before any exam is sat."
   - title: "Degree Apprenticeships"
-    body: >
-      AstraZeneca's Macclesfield site takes Level 6 laboratory science degree apprentices each September and asks for A-Level grades in the BCC range including Chemistry, with GCSE Maths, English and Science at grade 4 or above underneath. Manchester Metropolitan runs degree apprenticeships with hundreds of employers, Stockport NHS Foundation Trust among them, and those applications run on their own calendar rather than the UCAS one.
+    body: "AstraZeneca's Macclesfield site takes laboratory science degree apprentices each September, and A-Level Chemistry is part of what it asks for. Manchester Metropolitan runs degree apprenticeships with a long list of employers, Stockport NHS Foundation Trust among them, and those applications follow their own calendar, not the UCAS one."
   - title: "Career Pathways"
-    body: >
-      Stockport NHS Foundation Trust at Stepping Hill runs apprenticeships from Level 2 up to Level 7, Stockport Council funds school-leaver schemes, and Manchester Airport's early-careers schemes cover engineering, fire, data and cyber security. The adidas UK head office sits on Pepper Road in Hazel Grove, and the Trafford and Stockport College Group runs higher-level technical courses for students who want a qualification without three years away.
+    body: "Stockport NHS Foundation Trust at Stepping Hill runs apprenticeships from GCSE level right up to master's level, Stockport Council has school-leaver schemes, and adidas has its UK head office on Pepper Road in Hazel Grove. Manchester Airport has early-careers schemes in engineering, fire, data and cyber security, and if your child wants a qualification without three years away, the Trafford and Stockport College Group runs higher technical courses."
 
 reviews:
   - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
@@ -52,13 +49,13 @@ reviews:
   - "Marfa|Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university"
 
 faq_1_q: "Nobody at the college knows my son yet. Does that change how a tutor works?"
-faq_1_a: "It changes where the tutor starts. A school sixth form would have had him for five years and would know which topics he skated over. A college teacher in September has a grade and a name. So the first session is not about the current chapter. The tutor goes back through a recent GCSE paper and the first Year 12 work and finds the methods the new content leans on, which is usually two or three specific things rather than a general weakness. Once those are named the term has a shape, and the college work starts making sense again."
+faq_1_a: "It changes where the tutor starts. A school sixth form would have known your son for five years, including the topics he skated over. In September, a college teacher has a grade and a name. So the first lesson isn't about this week's chapter. The tutor goes back through a recent GCSE paper and his first Year 12 work, looking for the methods the new content leans on. It's usually two or three things, not a general weakness. Once they're named, the term has a shape, and the college work starts to make sense again."
 faq_2_q: "Which term actually decides the predicted grade that goes to UCAS?"
-faq_2_a: "The end of Year 12 and the first term of Year 13, in most Stockport colleges and sixth forms. Predictions are built from Year 12 results and the autumn assessments of Year 13, then sent with the application. That is earlier than most families plan for. Work landing in Year 12 counts twice: it feeds the prediction the offers are made against, and it is still there in the exam. A Year 13 start still moves the final grade, but the offers will have been made against a number set before the tutor arrived."
+faq_2_a: "The end of Year 12 and the first term of Year 13, at most colleges and sixth forms. Predictions come from Year 12 results and the autumn assessments, and they're sent with the UCAS application. That's earlier than a lot of families plan for. So the work your child does in Year 12 counts twice: it feeds the prediction universities make offers on, and the same topics come up again in the final exams. Starting in Year 13 can still move the final grade. But by then the prediction is mostly settled."
 faq_3_q: "My daughter wants the AstraZeneca degree apprenticeship in Macclesfield rather than university. Does A-Level tutoring still fit?"
-faq_3_a: "Yes, and the grade work is the same. AstraZeneca's laboratory science degree apprenticeships at Macclesfield ask for A-Level grades in the BCC range including Chemistry, with GCSE Maths, English and Science at grade 4 or above underneath, and the scheme recruits each year for a September start. Manchester Metropolitan and Salford run degree apprenticeships with local employers too. Tutors in our network work on the predicted grade the application screens on, and we can talk through the timing, because these schemes run on their own calendar rather than the UCAS one."
-faq_4_q: "Is A-Level tutoring for Stockport students online?"
-faq_4_a: "Yes, every session, one-to-one over Lessonspace, our shared whiteboard, with the lesson recorded. At A-Level that is the better format rather than the convenient one. The number of people who genuinely know one board's Chemistry or Further Maths paper is small and scattered across the country, and a Stockport family should be choosing from all of them, not from whoever lives within a few miles. The working stays on screen, the recording can be replayed before a mock, and nobody is crossing the borough on a school night."
+faq_3_a: "Yes, and the grade work is just the same. AstraZeneca's laboratory science degree apprenticeships at Macclesfield ask for A-Level Chemistry, and it's worth checking the current entry grades before your daughter applies. The scheme recruits every year for a September start, and Manchester Metropolitan and Salford run degree apprenticeships with local employers too. Tutors in our network work on the grades her application will be judged on. And we can talk the timing through with you, because these schemes run to their own calendar rather than UCAS's."
+faq_4_q: "Do online lessons really work at A-Level?"
+faq_4_a: "They do, and for A-Level it's often the better way to do it. Every lesson is one-to-one in the online classroom Lessonspace, where your child and the tutor share a whiteboard, and there's a replay of each lesson to watch again before a mock. The people who really know one board's Chemistry or Further Maths paper are few and spread across the country. You'd want to be choosing from all of them, not just whoever lives a few miles away. And nobody's crossing the borough on a school night."
 
 sitemap:
   priority: 0.7

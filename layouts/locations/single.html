@@ -8,16 +8,16 @@ Location tutor page content contract:
 {{ $loc := .Params.location | default "Your Area" }}
 {{ $schools := .Params.schools | default (slice "Whitgift School" "Trinity School" "Old Palace of John Whitgift School" "Croydon High School" "Archbishop Tenison's CE High School") }}
 {{ $areaLinks := .Params.area_links | default (slice "Croydon Tutors|/locations/croydon-tutors/" "Purley Tutors|/locations/purley-tutors/" "Addington Tutors|/locations/addington-tutors/" "Mitcham Tutors|/locations/mitcham-tutors/" "Bromley Tutors|/locations/bromley-tutors/" "Thornton Heath Tutors|/locations/thornton-heath-tutors/" "Tooting Tutors|/locations/tooting-tutors/" "Balham Tutors|/locations/balham-tutors/" "Streatham Tutors|/locations/streatham-tutors/") }}
-{{ $bannerHeading := .Params.banner_heading | default "Struggling to Achieve the Grades You Want? Our Online Tutors Can Help" }}
-{{ $bannerLead := .Params.banner_description | default (.Params.banner_lead | default "Connect with top tutors from prestigious universities and start improving today.") }}
-{{ $intro1 := .Params.intro_1 | default "We founded The Degree Gap because we saw how overwhelming education can be for families. Students are asked to make life-shaping choices, face intense exam pressure, and navigate competitive university applications, often without clear guidance." }}
-{{ $intro2 := .Params.intro_2 | default (printf "That's why we work directly with schools and families in %s, delivering personalised sessions on revision strategies, exam preparation, and subject mastery." $loc) }}
-{{ $onlineHeading := .Params.online_heading | default (printf "How Online Tuition Can Support Students in %s" $loc) }}
-{{ $online1 := .Params.online_1 | default "Online sessions remove the commute and let students learn in a focused environment at home, with the same quality of support as in-person." }}
-{{ $online2 := .Params.online_2 | default "Screen-sharing, shared whiteboards, and digital resources make working through problems together seamless." }}
-{{ $schoolsIntro := .Params.schools_intro | default "We support students from a wide range of local schools, matching each family with a tutor who understands the academic standard expected." }}
-{{ $areasIntro := .Params.areas_intro | default (printf "Our tutors support students in %s and nearby areas, typically covering families within roughly a five-mile radius where tutor availability allows. We focus on clear guidance, consistent support, and helping students make steady academic progress with confidence." $loc) }}
-{{ $subjectCards := .Params.subject_cards | default (slice "GCSE Maths Tutoring|Build confidence with numbers, algebra, geometry, and statistics through targeted GCSE Maths sessions tailored to your exam board." "GCSE English Tutoring|Improve your reading, writing, and analysis skills across English Language and English Literature with expert guidance." "GCSE Science Tutoring|Boost your grades in all Science subjects with a tutor who can cover Biology, Chemistry, and Physics." "GCSE History Tutoring|Master source analysis, essay technique, and content recall across all GCSE History topics and exam boards." "GCSE Geography Tutoring|Boost your GCSE Geography grade with targeted academic support across physical and human geography topics." "GCSE Language Tutoring|Boost confidence in reading, writing, listening, and speaking with structured GCSE language tutoring." "A-Level Maths Tutoring|Work through pure maths, mechanics, and statistics with a tutor who knows exactly where marks are won and lost at A-Level." "A-Level Biology Tutoring|Develop a deeper understanding of cells, genetics, ecology, and physiology with structured A-Level Biology support." "A-Level Chemistry Tutoring|Master organic, inorganic, and physical chemistry with a tutor who can make complex concepts clear and memorable." "A-Level Economics Tutoring|Sharpen your micro and macroeconomics analysis with an expert tutor who can show you how to write high-scoring evaluation answers." "A-Level History Tutoring|Build strong essay-writing skills and source analysis techniques to hit the top mark bands in A-Level History." "A-Level Psychology Tutoring|Understand research methods, theories, and evaluation points across all A-Level Psychology topics with focused one-to-one sessions." "11+ Preparation|Give your child the best possible start with structured 11+ tutoring covering verbal reasoning, non-verbal reasoning, maths, and English." "University Personal Statement|Get expert one-to-one support on your UCAS personal statement from tutors who studied at Oxford, Cambridge, LSE, and UCL." "Common Entrance Preparation|Targeted support across all Common Entrance subjects to help your child earn a place at their chosen independent school.") }}
+{{ $bannerHeading := .Params.banner_heading | default "Is Your Child Working Hard but Still Stuck? Our Online Tutors Can Help" }}
+{{ $bannerLead := .Params.banner_description | default (.Params.banner_lead | default "Talk to us about your child on a free call, and within 24 hours you'll have two or three tutor profiles to choose from.") }}
+{{ $intro1 := .Params.intro_1 | default "The Degree Gap grew out of our own school years. We're Harry and Joe, and each of us had two tutors growing up: one excellent, one only okay. It taught us early that the match is what counts. So you won't just be handed a tutor. You'll see two or three profiles and choose the one who suits your child." }}
+{{ $intro2 := .Params.intro_2 | default (printf "For families in %s, the first step is a free call with one of us about your child. The tutor profiles follow within 24 hours, and before anything's booked your child can meet your first choice on a free video call. Lessons are one-to-one and online, from £37 an hour, with no contract." $loc) }}
+{{ $onlineHeading := .Params.online_heading | default (printf "How Online Tuition Can Help Your Child in %s" $loc) }}
+{{ $online1 := .Params.online_1 | default "Lessons happen at home, in the online classroom Lessonspace, so nobody's driving across town after school. The tutor sees your child's working as they write it, and there's a replay of every lesson to look back on before a test." }}
+{{ $online2 := .Params.online_2 | default "It also means we're not limited to tutors who live nearby. We can look anywhere in the UK for one who suits your child." }}
+{{ $schoolsIntro := .Params.schools_intro | default "Whichever school your child goes to, we'll check their exam boards on the call and only suggest tutors who know them. Alongside families, we work directly with more than 15 UK secondary schools." }}
+{{ $areasIntro := .Params.areas_intro | default (printf "All lessons are online, so where you live in or around %s doesn't change a thing. More of the towns we cover are listed below." $loc) }}
+{{ $subjectCards := .Params.subject_cards | default (slice "GCSE Maths Tutoring|Algebra, geometry, statistics and the rest, with a tutor who knows your child's exam board and starts wherever things stopped making sense." "GCSE English Tutoring|Language and Literature: reading closely, planning answers and getting essays finished in the time the exam allows." "GCSE Science Tutoring|Biology, Chemistry and Physics, for Combined or Triple Science, with practice on the longer written answers and the calculations." "GCSE History Tutoring|Source questions, essay planning and remembering the content, for your child's exam board and the topics their school has chosen." "GCSE Geography Tutoring|Physical and human topics, case studies and fieldwork questions, practised on real past papers with your child." "GCSE Language Tutoring|Reading, writing, listening and speaking in French, Spanish and other languages, with regular conversation practice so the speaking exam feels familiar." "A-Level Maths Tutoring|Pure maths, mechanics and statistics, with lots of practice on the kinds of question where A-Level marks tend to slip." "A-Level Biology Tutoring|Cells, genetics, ecology and physiology. There's a lot to learn, so the tutor helps your child organise it and use it in exam questions." "A-Level Chemistry Tutoring|Organic, inorganic and physical chemistry, taken one step at a time, including the calculations and reaction mechanisms." "A-Level Economics Tutoring|Micro and macro, with help drawing diagrams accurately and writing the evaluation that the longer essays need." "A-Level History Tutoring|Building an argument that holds up for a whole essay, and using sources and historians' views the way the mark scheme expects." "A-Level Psychology Tutoring|Research methods, the main theories and studies, and how to evaluate them in a way that earns marks." "11+ Preparation|Calm, regular practice in verbal and non-verbal reasoning, maths and English, so the test itself holds fewer surprises for your child." "University Personal Statement|Help with your child's UCAS personal statement: working out what to say, drafting it and tightening it up before it's sent." "Common Entrance Preparation|Help with the Common Entrance subjects your child is sitting, with practice on past papers before the exams.") }}
 {{ $gcseSubjectCards := .Params.gcse_subjects | default (first 6 $subjectCards) }}
 {{ $alevelSubjectCards := .Params.alevel_subjects | default (after 6 (first 12 $subjectCards)) }}
 {{ $otherSubjectCards := .Params.other_subjects | default (after 12 $subjectCards) }}
@@ -27,9 +27,9 @@ Location tutor page content contract:
 {{ $onlineImage := .Params.online_image | default "" }}
 {{ $schoolsImage := .Params.schools_image | default "" }}
 {{ $mapUrl := .Params.map_url | default (printf "https://maps.google.com/maps?q=%s,UK&output=embed" (urlquery $loc)) }}
-{{ $whyHeading := .Params.why_heading | default "Expert tutoring tailored to each student" }}
-{{ $whyPara1 := .Params.why_para_1 | default "At The Degree Gap, we believe every student deserves more than a one-size-fits-all approach. That's why we match you with tutors who have been handpicked through a rigorous vetting process, covering subject expertise, teaching ability, and communication skills, so you're only ever learning from the best." }}
-{{ $whyPara2 := .Params.why_para_2 | default "Every session is tailored to your unique goals, learning style, and pace, giving you the individualised attention that crowded classrooms simply can't offer. Whether you're aiming to close knowledge gaps, boost your grades, or build lasting confidence in a subject, the tutors in our network are there to guide you every step of the way." }}
+{{ $whyHeading := .Params.why_heading | default "One-to-one tutoring that starts with your child" }}
+{{ $whyPara1 := .Params.why_para_1 | default "Most parents ring us after a moment that's stayed with them. A test that came back with the same mark despite all the revision, or a report saying one subject is slipping. It's hardly ever about effort. More often there's an older topic underneath that never quite went in, and in a full class there's rarely time to go back over it one-to-one." }}
+{{ $whyPara2 := .Params.why_para_2 | default "So the first few lessons go back and find that topic, then work on it at your child's pace. If your child doesn't click with their tutor, we'll find a different one at no charge. And many parents hear the difference in how their child talks about the subject before it shows in a mark." }}
 
 {{/* ── Interlink the GCSE and A-Level child pages, if they exist ──
      Only the FIRST occurrence of "GCSE" / "A-Level" gets linked, across
@@ -55,9 +55,9 @@ Location tutor page content contract:
     {{ $intro2 = replace $intro2 "A-Level" $link 1 }}
   {{ end }}
 {{ end }}
-{{ $accordionQuality := .Params.accordion_quality | default "All our tutors are graduates from the UK's top universities including Oxford, Cambridge, LSE, and Imperial. Every tutor is personally vetted and trained in our tutoring methodology before working with students." }}
-{{ $accordionExperience := .Params.accordion_experience | default "Our tutors have an average of three or more years of teaching experience. They understand the current exam syllabuses inside out and tailor every lesson to how each student learns best." }}
-{{ $accordionPersonalised := .Params.accordion_personalised | default "No two students are the same. We assess each student's strengths, weaknesses, and learning style before building a structured plan designed to close the gaps and build lasting confidence." }}
+{{ $accordionQuality := .Params.accordion_quality | default "Harry and Joe interview every tutor themselves, and only about 3% of the people who apply are accepted. Some are graduates and some are still at university, many of them at Russell Group universities, and plenty are qualified teachers." }}
+{{ $accordionExperience := .Params.accordion_experience | default "Every tutor has at least two years of tutoring behind them. They've seen the topics children get stuck on many times, and they know more than one way to explain each of them." }}
+{{ $accordionPersonalised := .Params.accordion_personalised | default "Each plan starts with your child, not a textbook. In the first lesson the tutor finds out what's going well and where marks are slipping, and the lessons that follow build on that. If something isn't working, they'll change it." }}
 {{/* Default reviews come from data/reviews.yaml via the partial — single source of truth, always real. Per-page reviews: override is still honoured. */}}
 {{ $reviews := .Params.reviews | default (partial "default-reviews.html" (dict "level" "")) }}
 
@@ -70,7 +70,7 @@ Location tutor page content contract:
       <div class="loc-hero__copy">
         <a href="https://youtu.be/2bMD7DkUmJU" target="_blank" rel="noopener" class="loc-hero__badge">
           <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
-          WINNER: GCSE SPECIALISTS OF THE YEAR 2025
+          WINNER: GCSE TUTORING SPECIALISTS OF THE YEAR 2025 &amp; 2026
         </a>
         <h1>{{ $bannerHeading }}</h1>
         <p class="loc-hero__lead">{{ $bannerLead }}</p>
@@ -78,7 +78,7 @@ Location tutor page content contract:
           <a href="#get-help" class="btn btn-primary btn-lg">Find Your Tutor</a>
           <a href="tel:+447859965776" class="btn btn-outline btn-lg">Call: 07859 965776</a>
         </div>
-        <p class="loc-hero__pricing">From <strong>£37/hr</strong> &middot; rates agreed directly with your tutor</p>
+        <p class="loc-hero__pricing">Lessons from <strong>£37 an hour</strong> &middot; no contract</p>
         <button type="button" data-reviews-open class="loc-hero__rating" aria-label="Read our {{ site.Params.googleReviewCount }} Google reviews" aria-controls="bc-reviews-drawer" aria-expanded="false">
           <div class="loc-hero__google">
             <svg width="60" height="20" viewBox="0 0 60 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="Google">
@@ -141,7 +141,7 @@ Location tutor page content contract:
         <h2>{{ $whyHeading }}</h2>
         <p>{{ $whyPara1 }}</p>
         <p>{{ $whyPara2 }}</p>
-        <a href="#get-help" class="btn btn-primary loc-why__cta">Contact Us Now</a>
+        <a href="#get-help" class="btn btn-primary loc-why__cta">Book a Free Call</a>
       </div>
     </div>
   </div>
@@ -152,8 +152,8 @@ Location tutor page content contract:
      ============================================= -->
 <section class="loc-subjects">
   <div class="container">
-    <p class="loc-eyebrow loc-eyebrow--center">ACADEMIC SUBJECTS WE COVER</p>
-    <h2 class="loc-subjects__title">Complete GCSE &amp; A-Level Support in {{ $loc }}</h2>
+    <p class="loc-eyebrow loc-eyebrow--center">WHAT WE HELP WITH</p>
+    <h2 class="loc-subjects__title">GCSE and A-Level Subjects We Cover in {{ $loc }}</h2>
 
     <div class="loc-tabs" role="tablist" aria-label="Subject level">
       <button class="loc-tab loc-tab--active" role="tab" aria-selected="true" data-tab="gcse">GCSE</button>
@@ -216,14 +216,14 @@ Location tutor page content contract:
     <div class="loc-about__inner">
       <div class="loc-about__image">
         {{ if $aboutImage }}
-        {{ partial "responsive-image.html" (dict "src" $aboutImage "alt" (printf "Expert tutors in %s" $loc) "class" "loc-img-about" "loading" "lazy" "sizes" "(min-width: 901px) 50vw, 100vw" "widths" (slice 420 760 1100) "fallbackWidth" 760 "quality" 72) }}
+        {{ partial "responsive-image.html" (dict "src" $aboutImage "alt" (printf "GCSE and A-Level tutoring for families in %s" $loc) "class" "loc-img-about" "loading" "lazy" "sizes" "(min-width: 901px) 50vw, 100vw" "widths" (slice 420 760 1100) "fallbackWidth" 760 "quality" 72) }}
         {{ else }}
         <div class="loc-img-placeholder loc-img-placeholder--location">
           <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" opacity="0.25"><path d="M21 10c0 7-9 13-9 13S3 17 3 10a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
         </div>
         {{ end }}
         <div class="loc-about__cta">
-          <p class="loc-hero__pricing">From <strong>£37/hr</strong> &middot; rates agreed directly with your tutor</p>
+          <p class="loc-hero__pricing">Lessons from <strong>£37 an hour</strong> &middot; no contract</p>
           <button type="button" data-reviews-open class="loc-hero__rating" aria-label="Read our {{ site.Params.googleReviewCount }} Google reviews" aria-controls="bc-reviews-drawer" aria-expanded="false">
             <div class="loc-hero__google">
               <svg width="60" height="20" viewBox="0 0 60 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="Google">
@@ -240,15 +240,15 @@ Location tutor page content contract:
         </div>
       </div>
       <div class="loc-about__copy">
-        <p class="loc-eyebrow">TRUSTED BY SCHOOLS &amp; PARENTS</p>
-        <h2>{{ .Params.about_heading | default (printf "Leading GCSE and A-Level Tutors in %s" $loc) }}</h2>
+        <p class="loc-eyebrow">HOW WE WORK</p>
+        <h2>{{ .Params.about_heading | default (printf "GCSE and A-Level Tutors for Families in %s" $loc) }}</h2>
         <p>{{ $intro1 | safeHTML }}</p>
         <p>{{ $intro2 | safeHTML }}</p>
 
         <div class="loc-accordion">
           <details class="loc-accordion__item" open>
             <summary class="loc-accordion__trigger">
-              <span>High Quality Standards</span>
+              <span>How We Choose Tutors</span>
               <svg class="loc-accordion__icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </summary>
             <div class="loc-accordion__body">
@@ -257,7 +257,7 @@ Location tutor page content contract:
           </details>
           <details class="loc-accordion__item">
             <summary class="loc-accordion__trigger">
-              <span>Experienced Tutors</span>
+              <span>How Experienced They Are</span>
               <svg class="loc-accordion__icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </summary>
             <div class="loc-accordion__body">
@@ -266,7 +266,7 @@ Location tutor page content contract:
           </details>
           <details class="loc-accordion__item">
             <summary class="loc-accordion__trigger">
-              <span>Personalised Learning</span>
+              <span>Lessons Built Around Your Child</span>
               <svg class="loc-accordion__icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
             </summary>
             <div class="loc-accordion__body">
@@ -286,8 +286,8 @@ Location tutor page content contract:
      ============================================= -->
 <section class="loc-reviews">
   <div class="container">
-    <p class="loc-eyebrow loc-eyebrow--center">OUR GLOWING REVIEWS</p>
-    <h2 class="loc-reviews__title">100+ 5-Star Reviews From Parents And Students</h2>
+    <p class="loc-eyebrow loc-eyebrow--center">WHAT FAMILIES SAY</p>
+    <h2 class="loc-reviews__title">100+ Five-Star Reviews From Parents and Students</h2>
 
     <div class="loc-reviews__grid">
       {{ range first 3 $reviews }}
@@ -336,9 +336,9 @@ Location tutor page content contract:
     <div class="loc-contact-faq__form-wrap">
       <div class="loc-contact-faq__form-bg" aria-hidden="true"></div>
       <div class="loc-contact-faq__form-card">
-        <h2>Get In Touch With Us</h2>
-        <p>Fill in the form below and we'll arrange a free consultation call to discuss the needs of your child, before any tutor is suggested.</p>
-        <p class="loc-pricing-note">Sessions start from <strong>£37 per hour</strong> once you're matched. Rates are always agreed with you before anything is booked.</p>
+        <h2>Tell Us About Your Child</h2>
+        <p>Leave your name and number and we'll arrange a free call with Harry or Joe about your child. Within 24 hours of that call, you'll have two or three tutor profiles to choose from.</p>
+        <p class="loc-pricing-note">Lessons start from <strong>£37 an hour</strong>, with no contract. The rate depends on the tutor, and you'll agree it before anything's booked.</p>
         <form action="{{ .Site.Params.formspreeEndpoint }}" method="POST" novalidate>
           <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
           <div aria-hidden="true" style="position:absolute;left:-9999px;top:-9999px;width:0;height:0;overflow:hidden;opacity:0"><input type="text" name="address_url" data-bait="1" tabindex="-1" autocomplete="off"><input type="email" name="company_website" data-bait="1" tabindex="-1" autocomplete="off"></div>
@@ -363,15 +363,15 @@ Location tutor page content contract:
 
     {{ if $hasFaq }}
     <div class="loc-faq">
-      <h2>Frequently Asked Questions (FAQs)</h2>
+      <h2>Questions Parents Ask Us</h2>
       <div class="loc-accordion loc-accordion--faq">
         <details class="loc-accordion__item">
           <summary class="loc-accordion__trigger">
-            <span>{{ .Params.faq_1_q | default "How do I find a tutor near me?" }}</span>
+            <span>{{ .Params.faq_1_q | default "How do you find the right tutor for my child?" }}</span>
             <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
           </summary>
           <div class="loc-accordion__body">
-            <p>{{ .Params.faq_1_a | default "Tell us what support the student needs and we will recommend a vetted tutor who fits the subject, level, exam board, and learning style." }}</p>
+            <p>{{ .Params.faq_1_a | default "It starts with a free call with Harry or Joe, the co-founders. We'll ask about your child's school, their exam boards and what's worrying you, and then suggest two or three tutors we think will suit them. You choose." }}</p>
           </div>
         </details>
         <details class="loc-accordion__item">
@@ -380,7 +380,7 @@ Location tutor page content contract:
             <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
           </summary>
           <div class="loc-accordion__body">
-            <p>{{ .Params.faq_2_a | default "Our tutors are experienced independent professionals, many of whom studied at top UK universities and have strong subject-specific teaching experience." }}</p>
+            <p>{{ .Params.faq_2_a | default "They're independent tutors. Some are graduates, some are still at university, and plenty are qualified teachers. Every one has at least two years of tutoring experience, and we interview each of them before they can join the platform." }}</p>
           </div>
         </details>
         <details class="loc-accordion__item">
@@ -389,16 +389,16 @@ Location tutor page content contract:
             <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
           </summary>
           <div class="loc-accordion__body">
-            <p>{{ .Params.faq_3_a | default "We cover all major GCSE and A-Level subjects including Maths, English, Biology, Chemistry, Physics, History, Geography, Economics, Psychology, Spanish, French, and more." }}</p>
+            <p>{{ .Params.faq_3_a | default "All the main GCSE and A-Level subjects, including Maths, English, Biology, Chemistry, Physics, History, Geography, Economics, Psychology, French, Spanish and more. We'll only suggest tutors who know your child's exam board." }}</p>
           </div>
         </details>
         <details class="loc-accordion__item">
           <summary class="loc-accordion__trigger">
-            <span>{{ .Params.faq_4_q | default "How quickly can tuition start?" }}</span>
+            <span>{{ .Params.faq_4_q | default "How soon can my child start?" }}</span>
             <svg class="loc-accordion__icon loc-accordion__icon--right" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
           </summary>
           <div class="loc-accordion__body">
-            <p>{{ .Params.faq_4_a | default "Timings depend on the student's needs and tutor availability, but we aim to make suitable introductions quickly once we understand the goal and schedule." }}</p>
+            <p>{{ .Params.faq_4_a | default "You'll have two or three tutor profiles within 24 hours of the free call. Your child can meet the tutor you like on a free video call, and then the first lesson goes in at a time that works for your family." }}</p>
           </div>
         </details>
       </div>
@@ -415,7 +415,7 @@ Location tutor page content contract:
     <div class="loc-online__inner">
       <div class="loc-online__image">
         {{ if $onlineImage }}
-        {{ partial "responsive-image.html" (dict "src" $onlineImage "alt" (printf "Online tutoring for %s students" $loc) "class" "loc-img-online" "loading" "lazy" "sizes" "(min-width: 901px) 50vw, 100vw" "widths" (slice 420 760 1100) "fallbackWidth" 760 "quality" 72) }}
+        {{ partial "responsive-image.html" (dict "src" $onlineImage "alt" (printf "Online tutoring at home in %s" $loc) "class" "loc-img-online" "loading" "lazy" "sizes" "(min-width: 901px) 50vw, 100vw" "widths" (slice 420 760 1100) "fallbackWidth" 760 "quality" 72) }}
         {{ else }}
         <div class="loc-img-placeholder loc-img-placeholder--online">
           <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" opacity="0.25"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><path d="M8 21h8m-4-4v4"/></svg>
@@ -440,8 +440,8 @@ Location tutor page content contract:
     <div class="container">
       <div class="loc-schools__header">
         <div class="loc-schools__copy">
-          <p class="loc-eyebrow">TRUSTED BY SCHOOLS</p>
-          <h2>Tutoring {{ $loc }} school students</h2>
+          <p class="loc-eyebrow">YOUR CHILD'S SCHOOL</p>
+          <h2>Tutoring for children at {{ $loc }} schools</h2>
           <p>{{ $schoolsIntro }}</p>
           <a href="tel:+447859965776" class="btn btn-primary">Call: 07859 965776</a>
         </div>
@@ -478,7 +478,7 @@ Location tutor page content contract:
         <span class="gs-related__sibling-text">
           <span class="gs-related__sibling-eyebrow">GCSE tutoring</span>
           <strong class="gs-related__sibling-heading">GCSE Tutors in {{ $loc }}</strong>
-          <span class="gs-related__sibling-sub">See our GCSE tutors, reviews and post-16 pathways for {{ $loc }} students.</span>
+          <span class="gs-related__sibling-sub">See our GCSE tutors, reviews and post-16 options for families in {{ $loc }}.</span>
         </span>
         <svg class="gs-related__sibling-arrow" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
       </a>
@@ -491,7 +491,7 @@ Location tutor page content contract:
         <span class="gs-related__sibling-text">
           <span class="gs-related__sibling-eyebrow">A-Level tutoring</span>
           <strong class="gs-related__sibling-heading">A-Level Tutors in {{ $loc }}</strong>
-          <span class="gs-related__sibling-sub">See our A-Level tutors, reviews and post-18 pathways for {{ $loc }} students.</span>
+          <span class="gs-related__sibling-sub">See our A-Level tutors, reviews and post-18 options for families in {{ $loc }}.</span>
         </span>
         <svg class="gs-related__sibling-arrow" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
       </a>
@@ -507,7 +507,7 @@ Location tutor page content contract:
 <section class="loc-areas">
   <div class="container">
     <p class="loc-eyebrow loc-eyebrow--center">AREAS WE COVER</p>
-    <h2 class="loc-areas__title">Trusted Tutors in Your Area</h2>
+    <h2 class="loc-areas__title">Online Tutors Across the UK</h2>
     <p class="loc-areas__lead">{{ $areasIntro }}</p>
     <div class="loc-areas__grid">
       {{ range first 6 $areaLinks }}
@@ -579,7 +579,7 @@ Location tutor page content contract:
   "@type": "Service",
   "@id": "{{ .Permalink }}#service",
   "name": "Online Tutoring in {{ $loc }} | The Degree Gap",
-  "description": "Expert GCSE and A-Level online tutoring for students in {{ $loc }}. One-to-one sessions from £37/hr.",
+  "description": "One-to-one GCSE and A-Level tutoring online for families in {{ $loc }}. Lessons from £37 an hour.",
   "url": "{{ .Permalink }}",
   "provider": {
     "@type": "EducationalOrganization",

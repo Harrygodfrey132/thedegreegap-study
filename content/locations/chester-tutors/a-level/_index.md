@@ -1,41 +1,41 @@
 ---
 title: "Chester A-Level Tutors | Online One-to-One | The Degree Gap"
-description: "Chester A-Level tutors for UCAS predictions and the final grade. One-to-one online tutoring matched on the specification, from £37 an hour."
+description: "Chester sixth formers aren't all on the same courses, so our Chester A-Level tutors check exactly what your child is taking first. Online, from £37 an hour."
 layout: "subject"
 location: "Chester"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutoring for Chester Students"
+hero_heading_line1: "Online Chester A-Level Tutors for a Worrying Mock in the Run-Up to UCAS"
 hero_heading_line2: ""
-hero_lead: "Students around Chester apply from three different education systems, and the advice that fits one does not always fit another. Our Chester A-Level tutors work to the qualification your child is actually taking."
+hero_lead: "The mock didn't go well, and the tips from your child's friends don't quite fit. Round Chester that's common, because they're not all on the same courses. Our Chester A-Level tutors start from the exact course your child's on, one-to-one and online."
 
 grade_from: "C"
 grade_to: "A"
-grade_stat: "A real A-Level move from C grades to A grades, in the words of the parent who watched it happen."
+grade_stat: "Cs to As, in the words of the parent who watched it happen."
 
 first_lesson_eyebrow: "THE SAME UCAS ROUND, DIFFERENT STARTING POINTS"
-first_lesson_heading: "Applying From a Border Town, Where Not Everyone Sits the Same Exams"
-first_lesson_context: "Chester students apply to university alongside friends who may have followed a different path to get there: English A-Levels, Welsh qualifications, BTECs from the college, or a mixture. UCAS treats them all, but the preparation is not interchangeable, and advice passed round a friendship group can be confidently wrong for the person receiving it. The first job is establishing exactly what your child is taking and what the courses they want ask for."
+first_lesson_heading: "Where a Chester A-Level Tutor Starts When Not Everyone Sits the Same Exams"
+first_lesson_context: "Your child may be applying to university alongside friends on quite different courses: A-Levels taught in England or in Wales, BTECs at the college, or a mix. UCAS takes them all, but advice passed round the group can be confidently wrong for your child's course. So an A-Level tutor's first question is exactly which courses your child is on, and what the degrees they're eyeing ask for."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "C grades to A grades at A-Level"
 
 tutor_strip_heading: "Chester A-Level tutors matched to the qualification your child is taking"
-tutor_strip_body: "Sixth formers around Chester sit different boards, and some cross the border for school, so the specification is confirmed before anyone is proposed. Most tutors are recent graduates who came through the same papers and the same UCAS round, and each clears a founder-led interview that around 3% of applicants pass."
+tutor_strip_body: "Some Chester teenagers do sixth form on the Wirral or in Wales, and exam boards vary from school to school. We check your child's course and board before suggesting anyone. Every tutor has two years' tutoring or more, and only around 3% of applicants pass Harry and Joe's interview."
 
-pathways_heading: "Where A-Levels Take Chester Students Next"
+pathways_heading: "Where A-Levels Take Chester Sixth Formers Next"
 pathways_lead: "Three routes Chester families weigh up across Year 12 and Year 13."
 pathways:
   - title: "Universities"
     body: >
-      Chester students apply across England and Wales, with the University of Chester on the doorstep and the north-west's larger universities within commuting distance. Offers rest on predicted grades made during Year 12, which is why the middle of sixth form matters more than it feels like it should.
+      The University of Chester is on the doorstep, the north-west's bigger universities are within commuting distance, and plenty of families look over the border in Wales too. Offers rest on predicted grades sent early in Year 13, so your child's Year 12 work counts for more than it feels like it should.
   - title: "Degree Apprenticeships"
     body: >
-      The banking, aerospace and energy employers around Chester and Broughton run degree apprenticeship schemes, each publishing its own entry requirements which change between intakes. Application windows often close earlier than UCAS, so they are worth looking at in Year 12.
+      The banking, aerospace and energy employers around Chester and Broughton run degree apprenticeships, and each sets its own entry requirements, which can change from one intake to the next. Applications often close before the UCAS deadline, so they're worth a look in Year 12.
   - title: "Further Education and Work"
     body: >
-      Cheshire College South and West runs Level 3 and technical routes, and several large local employers recruit directly at eighteen into trainee and technician roles.
+      If university isn't the plan, Cheshire College South and West runs technical courses. And several big local employers take on eighteen-year-olds as trainees and technicians.
 
 reviews:
   - "Gaming|Parent|Excellent presentation. Clear and very informative. I would highly recommend all parents take a look."
@@ -49,14 +49,14 @@ reviews:
   - "Heidi|Parent|Emir, is simply amazing with our daughter. He 'gets' her totally, her sessions are helping her with her school work so much. We can't thank him enough ! Harry and Joe are always on hand should you need anything. Degreegap is an excellent company to work with, lots of excellent tutors avaliable to teach different subjects, great availability, very reasonably priced. Would highly recommend."
   - "Marfa|Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university"
 
-faq_1_q: "My child is taking Welsh qualifications rather than A-Levels. Can you help?"
-faq_1_a: "Yes, and the first thing we do is confirm exactly which specification, because it changes who we match. Every session runs online, so the tutor is chosen for having taught that qualification rather than for living nearby, which is the whole advantage in a border area. Tell us the school and the awarding body on the consultation call and we will be straight with you if we do not have the right person."
-faq_2_q: "The predicted grade going to UCAS is not where it needs to be. What can change?"
-faq_2_a: "The prediction comes from your child's teachers and rests on mock and class performance, so the thing to move is the performance underneath it. A tutor reads the actual mock script rather than the grade, works out whether marks are going to content gaps, to answer structure or to the clock, and rebuilds that. It is worth starting well before the prediction is finalised rather than arguing with it afterwards."
-faq_3_q: "Does online tutoring work for demanding A-Level subjects?"
-faq_3_a: "A-Level is where online one-to-one is at its strongest. The tutor marks an essay or a problem set live on the shared whiteboard, the working stays on screen rather than disappearing, and the session is recorded so your child can go back to a method mid-revision. It also means matching on specification rather than on who is within driving distance, which matters more at this level."
+faq_1_q: "My daughter goes to sixth form over the border in Wales. Can you still help with her A-Levels?"
+faq_1_a: "Yes. A-Levels taught in Wales don't always follow the same course as the English ones. So first we'll check which one she's on, because that decides who we suggest. Every lesson's online, so we can choose a tutor who's taught that course, wherever they live. In a border area, that's the big advantage. Tell us your daughter's school and exam board on the consultation call, and if we haven't got the right person, we'll say so."
+faq_2_q: "Our son's predicted grade for UCAS isn't where it needs to be. What can we actually do?"
+faq_2_a: "Work on what the prediction's built from. His teachers set it from mocks and class work, so a tutor reads your son's actual mock paper, not just the grade. They're looking for where the marks went: gaps in what he knows, answers that aren't set out the way the mark scheme wants, or simply running out of time. Then the lessons work on whichever it is. It's worth starting well before the prediction's finalised, rather than arguing with it afterwards."
+faq_3_q: "Can online lessons really work for a hard A-Level subject?"
+faq_3_a: "Yes, and A-Level is where they tend to work best. Lessons happen on the platform Lessonspace, where the tutor can mark an essay or a page of working live on a shared whiteboard. Nothing gets wiped, and there's a replay of every lesson, so your child can go back to a method halfway through revision. Being online also means we match on your child's course, not on who lives within driving distance. At this level, that counts for more."
 faq_4_q: "How quickly can my child start?"
-faq_4_a: "Usually inside a week. A free consultation call with Joe or Harry, two or three tutor profiles within a day of it, a free 15-minute video meeting with whoever your child prefers, then the first paid session. Nothing is paid until they have met. If a deadline is close, say so on the call, because it is often possible to move faster."
+faq_4_a: "Usually within a week. You'll have a free consultation call with Joe or Harry, our co-founders, and two or three tutor profiles within a day of it. Your child then has a free 15-minute video meeting with their favourite before the first paid lesson. You won't pay a penny until they've met. If there's a deadline coming up, mention it on the call, because we can often go faster."
 
 sitemap:
   priority: 0.7

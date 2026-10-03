@@ -5,7 +5,7 @@ date: 2026-08-25T09:00:00+01:00
 author: "Joe Clark"
 author_role: "Co-founder, The Degree Gap"
 category: "Parent Advice"
-excerpt: "The personal statement is no longer one essay. It is three questions with a shared 4,000-character limit, and the second one is the question most students give the least thought to and lose the most on."
+excerpt: "The personal statement isn't one essay any more. It's three questions sharing a 4,000-character limit. The second is the one most applicants think about least, and it's where they lose the most."
 hero_image: "/images/online-study-workspace-with-coffee.jpg"
 tags:
   - Parent Advice
@@ -24,9 +24,9 @@ related_links:
     description: "Subject-specific guidance from tutors who studied the course your child is applying for."
 ---
 
-**Applications for 2027 entry can be submitted to UCAS from 1 September 2026.** Two deadlines follow: **18:00 on 15 October 2026** for Oxford, Cambridge, and most medicine, dentistry and veterinary courses, and **18:00 on 13 January 2027** for almost everything else.
+**Applications for 2027 entry can be submitted to UCAS from 1 September 2026.** Then there are two deadlines. **18:00 on 15 October 2026** is for Oxford, Cambridge, and most medicine, dentistry and veterinary courses. **18:00 on 13 January 2027** is for almost everything else.
 
-If your child is going into Year 13, the October deadline is roughly six weeks after they walk back through the school gates. Their school will have set an internal deadline well before it, often in the last week of September, because references and predicted grades have to be attached at the school's end before anything is sent.
+If your child is going into Year 13, the October deadline lands roughly six weeks after they walk back through the school gates. And their school will have set its own deadline well before that, often in the last week of September. That's because the school has to add its reference and your child's predicted grades before anything gets sent.
 
 ## The dates that matter
 
@@ -37,63 +37,63 @@ If your child is going into Year 13, the October deadline is roughly six weeks a
 | Equal consideration deadline, most other courses | **13 January 2027, 18:00** |
 | School's internal deadline | Weeks earlier than both. Ask now. |
 
-The phrase "equal consideration" is the one worth understanding. It does not mean applications close. It means every application that arrives by the deadline is guaranteed to be looked at on the same footing. Applications sent afterwards are still considered, at the university's discretion, against however many places are left. For a competitive course that discretion is worth a great deal less than it sounds.
+The phrase worth understanding is "equal consideration". It doesn't mean applications close. It means every application that arrives by the deadline is guaranteed a look on the same footing. Anything sent afterwards can still be considered, if the university chooses, against however many places are left. For a competitive course, that's worth a lot less than it sounds.
 
 ## The personal statement is three questions now
 
-The single free-form essay is gone. Since 2026 entry, and unchanged for 2027, the personal statement is three separate questions:
+The one long essay has gone. Since 2026 entry, and still the same for 2027, the personal statement is three separate questions:
 
 1. **Why do you want to study this course or subject?**
 2. **How have your qualifications and studies helped you to prepare for this course or subject?**
 3. **What else have you done to help you prepare outside of education, and why are these experiences useful?**
 
-The limits: **4,000 characters in total across all three**, shared rather than split evenly, with a **minimum of 350 characters** in each answer.
+The limits: **4,000 characters in total across all three**, shared between them rather than split evenly, with a **minimum of 350 characters** in each answer.
 
-One statement goes to all five choices. There is no way to write a different one for a different university, which is the single biggest constraint on the whole document and the reason a scattered list of five unrelated courses is so hard to write for.
+One statement goes to all five choices. Your child can't write a different one for each university. That's the biggest limit on the whole thing, and it's why a scattered list of five unrelated courses is so hard to write for.
 
 ## What actually changed, and what it means
 
-The old statement rewarded students who could write. That sounds like a fair thing to reward until you notice that it mostly rewarded students who had been taught to write a personal statement, which is not the same skill and is not evenly distributed between schools.
+The old statement rewarded students who could write. That sounds fair, until you notice it mostly rewarded the ones who'd been taught how to write a personal statement. That's not the same skill. And it isn't spread evenly between schools.
 
-The three questions do something specific: they hand every applicant the structure that the well-coached ones already had. That is good for most students, and it removes the thing a lot of them were relying on.
+The three questions do one clear thing. They hand every applicant the structure the well-coached ones already had. That's good news for most, and it takes away the thing a lot of them were relying on.
 
-**Question one is where the old opening paragraph went, and it should be much shorter than the one your child has read online.** Admissions tutors have said for years that the childhood-anecdote opening does nothing. Now it has to compete for space with two other answers.
+**Question one is where the old opening paragraph went, and it should be much shorter than the ones your child has read online.** Admissions tutors have said for years that opening with a childhood story does nothing. Now it has to fight for space with two other answers.
 
-**Question two is the one that decides it.** It asks what in their A-Level study prepared them for this course, and it is the question that most students answer with a list of their subjects. What it is actually asking is: which specific thing did you study, and what did it make you think? A paragraph about one module, one text, one experiment, or one problem that they went further into is worth more than three subjects listed at surface level.
+**Question two is the one that decides it.** It asks what in their A-Level studies got them ready for this course. Most applicants answer it with a list of their subjects. What it's really asking is: which specific thing did you study, and what did it make you think? A paragraph about one module, one text, one experiment or one problem your child went further into is worth more than three subjects listed at surface level.
 
-**Question three is not a list of activities.** The "and why are these experiences useful" is doing the work in that sentence. Two weeks of work experience described with one genuine observation beats four extracurriculars listed without reflection.
+**Question three isn't a list of activities.** The words "and why are these experiences useful" are doing the real work in that question. Two weeks of work experience, and one real thing your child noticed while they were there, beats four extracurricular activities listed with no thought about what they meant.
 
 ## What parents can usefully do in September
 
-**Ask about the school's internal deadline, this week.** It is nearly always earlier than families expect, and it is the deadline that actually binds.
+**Ask about the school's internal deadline, this week.** It's nearly always earlier than families expect, and it's the one that really counts.
 
-**Check the predicted grades before the form goes.** Predictions are attached to the application by the school and they determine which offers are realistic. If a prediction looks wrong, the conversation to have is with the subject teacher in September, not with UCAS in January. We have written separately about [how predicted grades are formed](/blog/predicted-grades-how-they-work/).
+**Check the predicted grades before the form goes.** The school adds your child's predictions to the application, and those predictions decide which offers are realistic. If one looks wrong, talk to the subject teacher in September, not to UCAS in January. We've written separately about [how predicted grades are formed](/blog/predicted-grades-how-they-work/).
 
-**Do not write any part of it.** Beyond the obvious problem, statements written by adults read like statements written by adults, and universities have seen a great many of them. UCAS also screens submitted statements for similarity against everything in its database, which catches recycled and generated text more often than students assume.
+**Don't write any part of it.** Beyond the obvious problem, statements written by adults read like statements written by adults, and universities have seen a great many of them. UCAS also checks every statement it receives for similarity against everything in its database. That catches recycled and generated text more often than students assume.
 
-**Do ask the three questions out loud.** The most useful thing a parent can do is ask "so why that subject?" over dinner and then say nothing for thirty seconds. Most students answer the real question better in speech than they do on a first draft, and the answer they give at the table is usually the paragraph they should have written.
+**Do ask the three questions out loud.** The most useful thing you can do is ask "so why that subject?" over dinner, then say nothing for thirty seconds. Most teenagers answer the real question better when they're talking than in a first draft. And what your child says at the table is usually the paragraph they should have written.
 
-**Watch the five choices, not just the statement.** Five courses that are genuinely related make one statement possible. A list that spans three unrelated subjects makes it nearly impossible, and that problem is fixed by changing the list, not by writing harder.
+**Watch the five choices, not just the statement.** Five courses that really are related make one statement possible. A list that spans three unrelated subjects makes it nearly impossible. So you fix that by changing the list, not by writing harder.
 
 ## Frequently asked questions
 
 **Does the statement have to use all 4,000 characters?**
-No, but a competitive application usually gets close. The limit is shared, so a student can weight it towards whichever question carries the most for their course, subject to the 350-character minimum on each.
+No, though a competitive application usually gets close. The limit is shared, so your child can give more room to whichever question matters most for their course, as long as each answer has at least 350 characters.
 
 **Can they write a different statement for different universities?**
-No. One statement goes to all five choices.
+No. One statement goes to all five choices, so it has to work for every one of them.
 
 **Is the October deadline really final?**
-For Oxford, Cambridge and most medicine, dentistry and veterinary courses, yes, and it is strictly enforced. There is no route in afterwards for that cycle.
+Yes, for Oxford, Cambridge and most medicine, dentistry and veterinary courses, and it's strictly enforced. There's no way in after it for that year's applications.
 
-**When should the first draft exist?**
-For an October applicant, the end of September at the latest, which means starting in the first week or two of term. For a January applicant, before Christmas. The holidays are where a good statement gets rewritten and a late one gets rushed.
+**When should my child have a first draft?**
+By the end of September at the latest if your child is applying in October, which means starting in the first week or two of term. For a January deadline, before Christmas. The holidays are where a good statement gets rewritten and a late one gets rushed.
 
 **Does the new format make it easier?**
-Easier to structure, harder to hide in. The questions are specific enough that a thin answer is visibly thin.
+Easier to structure, harder to hide in. The questions are specific enough that a thin answer looks thin.
 
 **Do universities see which is the firm and which is the insurance?**
-Not at the point they make the offer. Choices are shown to providers without any indication of preference.
+Not when they're making the offer. Each university just sees the application, with no hint of where it sits in your child's order of preference.
 
 ## Sources
 
@@ -106,8 +106,8 @@ Course-specific requirements and internal school deadlines vary. Confirm both wi
 
 ## Where The Degree Gap fits
 
-We tutor A-Level subjects and we help with personal statements, and we keep those two things separate on purpose. A statement written by a tutor is worth nothing. A statement a student writes after an hour with someone who read the same course at the same level of university is a different document entirely, and it is usually the second draft where that shows.
+We tutor A-Level subjects and we help with personal statements, and we keep those two things apart on purpose. A statement written by a tutor is worth nothing. But one your child writes after an hour with someone who read the same course, at the same level of university, is a different document entirely. It's usually in the second draft that you see it.
 
 [See personal statement support by subject →](/personal-statement-tutor/)
 
-{{< call-cta heading="Not sure the five choices hang together?" body="It is the most common thing we fix in September, and it is much cheaper to fix now than in January. Harry or Joe will spend thirty minutes with you on the list, the predicted grades and whether the statement can realistically cover all five. Nobody is matched with a tutor on that call." >}}
+{{< call-cta heading="Not sure your child's five choices hang together?" body="It's the thing we fix most often in September, and it's much cheaper to fix now than in January. Harry or Joe will spend thirty minutes with you on the list, the predicted grades and whether one statement can really cover all five. Nobody gets matched with a tutor on that call." >}}

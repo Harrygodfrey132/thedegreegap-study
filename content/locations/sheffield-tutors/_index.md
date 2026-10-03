@@ -1,39 +1,16 @@
 ---
 title: "Sheffield Tutors | GCSE & A-Level from £37/hr"
-description: Find expert Sheffield tutors for GCSE and A-Level support.
-  Personalised tuition from £37/hr to help students achieve top grades and exam
-  success.
+description: "When one GCSE grade decides a sixth form place, our Sheffield tutors find what's holding it back. Online, one-to-one lessons from £37 an hour, no contract."
 layout: single
 location: Sheffield
 banner_heading: "Need an online Sheffield tutor who's focused on your child's next target?"
-banner_description: Most tutoring covers content. Our Sheffield tutors find
-  what's actually blocking progress and work on that first.
-content_angle: exam pressure / sixth form entry
-intro_1: "Sheffield has no grammar schools. What it does have is something just
-  as competitive: King Edward VII School and Silverdale School are two of the
-  most sought-after sixth forms in England, and both publish minimum grade
-  requirements for entry. Hundreds of Year 11 students across the city are
-  working towards those thresholds every year. The pressure is real, even if
-  it's different from the 11+ pressure families face elsewhere. And because
-  Sheffield's results at local authority level sit below the national average,
-  there's a gap between the ambition many families have and the support the
-  classroom alone can give."
-intro_2: "That's where one-to-one tuition comes in. Our Sheffield tutors work
-  with students who are capable but haven't quite got there yet, students who
-  attend good schools, put the work in, and still find their grades aren't
-  reflecting what they know. A tutor doesn't replace the school. They give the
-  student what a class of thirty can't: time, attention and the chance to ask
-  questions until something actually clicks. For Year 11 students with a target
-  sixth form in mind, that can make the difference."
+banner_description: "When the grade won't budge, something specific is usually in the way. Our Sheffield tutors find it and start there."
+content_angle: "exam pressure / sixth form entry grades, from the parent's side"
+intro_1: "Ask a Sheffield parent of a Year 11 what's on their mind and it's often one number: the grade their child needs for sixth form. There are no grammar schools here. But King Edward VII School and Silverdale School run two of the city's most sought-after sixth forms, and both publish the minimum grades they ask for. Hundreds of Year 11s across Sheffield are working towards numbers like those every year. And across the city as a whole, GCSE results sit below the national average. That's not about your child's school. It just means the gap between what families hope for and what one busy classroom can give is a real one."
+intro_2: "A tutor doesn't replace school. What they add is what a class of thirty can't: time, their full attention, and the chance for your child to ask the same question three times until it clicks. A lot of the Sheffield families who come to us have a capable child at a good school who's putting the work in, and the grades still don't show what they know. If there's a sixth form place in the balance, that weekly hour can count for a lot."
 about_heading: The Sheffield Tutors Who Get Results
 about_image: /images/graduation-ceremony-caps.jpg
-schools_intro: We work with students from secondary schools across Sheffield who
-  are aiming for competitive sixth form entry or strong A-Level results and want
-  targeted tutoring alongside their school work. Students come to us from High
-  Storrs School, King Ecgbert School, Tapton School, Notre Dame High School,
-  Silverdale School and Meadowhead School. We also run exam preparation and
-  revision strategy workshops open to any Sheffield student, whatever school
-  they attend.
+schools_intro: "High Storrs, King Ecgbert, Tapton, Notre Dame High, Silverdale, Meadowhead: we work with families from all of them, and from schools right across Sheffield. Some are after a sixth form place, some want strong A-Level results, and plenty just want the stress at home to come down a notch. We also run exam preparation and revision workshops that any Sheffield student can join, whichever school they're at."
 schools:
   - High Storrs School
   - King Ecgbert School
@@ -42,22 +19,12 @@ schools:
   - Silverdale School
   - Meadowhead School
 schools_image: /images/school-clock-tower-building.jpg
-online_heading: Online tutoring for Sheffield students, with the right tutor for the subject
-online_1: Most of our online tutoring runs through Lessonspace, which gives
-  students a shared whiteboard and a tutor focused entirely on them. The best
-  tutor for A-Level Chemistry or GCSE History isn't always based in your part of
-  Sheffield. Online removes that limit. Students get the specialist they need,
-  not just whoever happens to be nearby.
-online_2: "Regular sessions are what move grades. Online tutoring makes it much
-  easier to keep that rhythm going: no travel, no rescheduling around commutes,
-  no missed weeks. Sheffield students who commit to weekly sessions across a
-  term nearly always see a difference. Not just in grades, but in how the
-  subject feels going into an exam."
+online_heading: "Online tutoring for Sheffield families: the right tutor for the subject, wherever they live"
+online_1: "Your child works with the tutor on the platform Lessonspace: a shared whiteboard, a tutor whose attention is entirely on them, and a replay of each lesson afterwards. The best tutor for A-Level Chemistry or GCSE History might not live anywhere near your side of Sheffield. Online, that doesn't matter. Your child gets the tutor who fits, not whoever's closest."
+online_2: "Regular lessons are what move grades, and online makes that rhythm much easier to keep. No travel, no rearranging around the school run, no missed weeks. If your child has a lesson every week for a term, you'll usually see a change. And not just in the marks, but in how they feel walking into the exam."
 online_image: /images/student-studying-at-night-with-laptop.jpg
 map_url: https://maps.google.com/maps?q=Sheffield,UK&output=embed
-areas_intro: Because most of our tuition is online, students in Sheffield and
-  nearby areas can access the right subject specialist without being limited by
-  geography.
+areas_intro: "It's the same online lesson whether you're in Ecclesall, Hillsborough or Nether Edge, and we work with families in the nearby places below too."
 area_links:
   - Leeds Tutors|/locations/leeds-tutors/
   - Manchester Tutors|/locations/manchester-tutors/
@@ -66,140 +33,48 @@ area_links:
   - Leicester Tutors|/locations/leicester-tutors/
   - Liverpool Tutors|/locations/liverpool-tutors/
 gcse_subjects:
-  - GCSE Physics Tuition|Sharp problem-solving support in forces, energy and
-    electricity for students who need to move beyond surface understanding to
-    score well in Sheffield's AQA papers.|/book-a-call/
-  - GCSE English Tuition|Support across Language and Literature that teaches
-    students how to build an argument and analyse a text, rather than just
-    encouraging them to read more and hope it comes together.|/book-a-call/
-  - GCSE Geography Tuition|Targeted work across physical and human geography
-    that closes the gaps left when topics move too fast, so students can answer
-    confidently under exam conditions.|/book-a-call/
-  - GCSE Chemistry Tuition|Patient explanation of organic, inorganic and
-    physical chemistry for students who understand parts of the course but find
-    others aren't sticking.|/book-a-call/
-  - GCSE Computer Science Tuition|Step-by-step support through programming logic
-    and algorithms, paced around the student so no concept gets left
-    behind.|/book-a-call/
-  - GCSE Biology Tuition|Clear, structured support through biological systems
-    and exam technique for students who want to push beyond their current grade
-    boundary.|/book-a-call/
-  - GCSE French Tuition|Focused practice in speaking, reading and writing that
-    builds genuine confidence rather than just enough to scrape through the
-    listening paper.|/book-a-call/
-  - GCSE Maths Tuition|One-to-one support in number, algebra, geometry and
-    statistics that gives students time to ask questions and work through
-    problems in a way a classroom of thirty rarely allows.|/book-a-call/
-  - GCSE History Tuition|Support across source analysis, essay structure and
-    content recall that helps students stop dropping marks they actually deserve
-    to pick up.|/book-a-call/
+  - "GCSE Physics Tuition|Forces, energy and electricity practised until your child really understands them, on whichever exam board their school uses.|/book-a-call/"
+  - "GCSE English Tuition|How to build an argument and pick apart a text, rather than being told to read more and hoping it all comes together.|/book-a-call/"
+  - "GCSE Geography Tuition|The physical and human topics that went by too fast in class, filled in so your child can answer calmly in the exam.|/book-a-call/"
+  - "GCSE Chemistry Tuition|Patient explanations for the parts of Chemistry that won't stick, even when your child is fine with the rest of the course.|/book-a-call/"
+  - "GCSE Computer Science Tuition|Programming logic and algorithms taken at your child's pace, so no idea gets left behind on the way.|/book-a-call/"
+  - "GCSE Biology Tuition|Biological systems and exam technique side by side, for a child who's ready to move past the grade they're stuck on.|/book-a-call/"
+  - "GCSE French Tuition|Speaking, reading and writing practised until your child feels properly confident, rather than hoping to scrape through on the day.|/book-a-call/"
+  - "GCSE Maths Tuition|Number, algebra, geometry and statistics, with the time to ask questions and work problems through that a class of thirty rarely gets.|/book-a-call/"
+  - "GCSE History Tuition|Source work, essay structure and the facts themselves, so your child stops dropping marks they've actually earned.|/book-a-call/"
 alevel_subjects:
-  - A-Level Economics Tuition|Support through micro and macroeconomic models
-    that makes the content feel concrete, with a tutor who can adjust pace when
-    a concept isn't landing.|/book-a-call/
-  - A-Level History Tuition|Building the extended analytical writing that
-    A-Level History demands, working through argument structure, evidence
-    selection and exam timing.|/book-a-call/
-  - A-Level Maths Tuition|Expert support across pure maths, mechanics and
-    statistics, finding where the A-Level difficulty became too much and
-    rebuilding from that point.|/book-a-call/
-  - A-Level Geography Tuition|Advanced geographical concepts and extended
-    writing with patient support for students who want to close the gap between
-    what they understand and what they can produce on paper.|/book-a-call/
-  - A-Level English Tuition|Working through critical analysis and essay
-    construction at a pace that helps students develop their own reading of a
-    text, not just guess at what the examiner wants.|/book-a-call/
-  - A-Level Psychology Tuition|Clear, methodical support through approaches,
-    research methods and essay technique for students who find the volume of
-    A-Level content hard to manage without help.|/book-a-call/
-  - A-Level Biology Tuition|Detailed guidance through advanced biological
-    systems for students who found the step up from GCSE harder than expected
-    and need someone to explain it differently.|/book-a-call/
-  - A-Level Physics Tuition|Focused tuition in mechanics, fields and quantum
-    physics for A-Level students who've hit a wall and need a tutor willing to
-    go back and break it down properly.|/book-a-call/
-  - A-Level Chemistry Tuition|Working through organic, inorganic and physical
-    chemistry with tutors who explain concepts from a different angle when the
-    first explanation hasn't landed.|/book-a-call/
+  - "A-Level Economics Tuition|Micro and macro models made concrete, with a tutor who slows down the moment a concept isn't landing.|/book-a-call/"
+  - "A-Level History Tuition|Long analytical essays, from how to structure the argument to choosing the evidence and keeping an eye on the clock.|/book-a-call/"
+  - "A-Level Maths Tuition|Pure, mechanics and statistics, starting from the point where A-Level got too much and rebuilding from there.|/book-a-call/"
+  - "A-Level Geography Tuition|Patient help turning what your child understands into what they can get down on paper, from the big concepts to the long answers.|/book-a-call/"
+  - "A-Level English Tuition|Critical reading and essay writing at a pace that lets your child form their own view of a text, instead of guessing what the examiner wants.|/book-a-call/"
+  - "A-Level Psychology Tuition|Approaches, research methods and essay technique, organised so the sheer volume of A-Level content stops feeling unmanageable.|/book-a-call/"
+  - "A-Level Biology Tuition|Advanced biological systems for children who found the jump from GCSE harder than expected and need it explained a different way.|/book-a-call/"
+  - "A-Level Physics Tuition|Mechanics, fields and quantum physics broken back down properly, for when your child has hit a wall and needs someone to go back.|/book-a-call/"
+  - "A-Level Chemistry Tuition|Organic, inorganic and physical chemistry, explained from another angle when the first explanation hasn't worked.|/book-a-call/"
 other_subjects:
-  - University Personal Statement|Shape a strong UCAS personal statement with
-    expert support on structure, subject motivation, and final
-    polish.|/book-a-call/
-faq_1_q: Do you help with sixth form entrance exams or interviews in Sheffield?
-faq_1_a: Yes. We work with Sheffield students preparing for competitive sixth
-  form entry, including aptitude tests and interviews. Tutors know what these
-  schools are looking for and how to prepare students properly, not just on
-  content.
-faq_2_q: Can tutors help with GCSE mock preparation in Sheffield?
-faq_2_a: Yes. Mocks are one of the most common reasons families come to us.
-  Tutors work through past papers, tighten exam technique and focus on the
-  topics most likely to come up. Students go in knowing what to expect.
-faq_3_q: How quickly can tuition start in Sheffield?
-faq_3_a: Usually within a few days of getting in touch. Once we know the
-  subject, level and what the student needs, we move quickly. No long waiting
-  lists.
-faq_4_q: How long does it take to see an improvement?
-faq_4_a: Most students notice something within the first few sessions. Not
-  always in grades straight away, but in how the subject feels. Less daunting.
-  Clearer. Grade improvements usually follow within a half term of regular
-  sessions.
-why_heading: What the first session actually reveals for Sheffield students
-why_para_1: "When a Sheffield student starts with a tutor, the first session
-  rarely confirms what the family expected. The problem isn't usually laziness
-  or a lack of effort. It's almost always something more specific: a gap in a
-  foundational concept that school moved past months ago, or a student who knows
-  the content but has never been taught how to turn that knowledge into exam
-  marks. Students aiming for King Edward VII or Silverdale sixth forms often
-  arrive with decent predicted grades and a real anxiety that decent won't be
-  enough. That gap between knowing the material and performing in an exam is
-  exactly what a tutor can close."
-why_para_2: Our tutors start by looking at recent work, not just asking what
-  topics have been covered. They find where marks are being dropped and why. For
-  many Sheffield students, the issue is exam technique rather than content
-  knowledge. They understand the biology, but can't structure a six-mark answer.
-  They know the history, but run out of time. Families usually notice a change
-  in confidence before they see a change in grades. Both tend to follow within a
-  few weeks of regular sessions.
-accordion_quality: Every tutor working with Sheffield students is vetted on
-  subject knowledge, exam board familiarity and the ability to explain things
-  clearly. AQA is the dominant board in Sheffield schools, and we factor that
-  into who we suggest.
-accordion_experience: Our tutors have worked with students targeting competitive
-  Sheffield sixth forms as well as those who need to close gaps from earlier
-  years. They know the difference between a student who needs exam technique and
-  one who needs to rebuild foundations, and they adapt accordingly.
-accordion_personalised: Sheffield students come to us for tutoring with
-  different targets. Some need a specific grade for sixth form entry. Others
-  want to push from a 6 to an 8. Every session is built around that student's
-  next target, not a generic plan.
+  - "University Personal Statement|Help with a UCAS personal statement, from working out why your child wants the subject to a clear, polished final draft.|/book-a-call/"
+faq_1_q: "What if my child's sixth form wants an interview or a test?"
+faq_1_a: "We can help with both. Tell us which sixth form it is, and we'll suggest a tutor who knows what it looks for. For an interview, they'll practise the questions out loud with your child. For a test, they'll work through the kind of material it covers."
+faq_2_q: "Is it worth getting a tutor just for the mocks?"
+faq_2_a: "Yes. Mocks bring a lot of Sheffield families to us. The tutor looks at where your child's marks went on recent papers and spends the lessons on those questions, against the clock. Fewer surprises on the day."
+faq_3_q: "How fast can a tutor start?"
+faq_3_a: "Usually in days rather than weeks. Tell us about your child on a free call and the tutor profiles follow within 24 hours. No waiting list."
+faq_4_q: "How long until things start to improve?"
+faq_4_a: "Often within the first few lessons, though not always in the marks at first. The subject just starts to feel less daunting to your child. Moving up a grade usually takes eight to twelve weekly lessons, with practice in between, and nobody can promise a particular grade."
+why_heading: "Why Sheffield tutoring starts with your child's own work, not the syllabus"
+why_para_1: "Plenty of children aiming at the King Edward VII or Silverdale sixth forms come to us with decent predicted grades and a nagging worry that decent won't be enough. The first lesson rarely confirms what the family expected. It's hardly ever laziness or a lack of effort. Usually it's something more specific: a basic idea school moved past months ago, or a child who knows the content but hasn't yet learnt how to turn it into exam marks."
+why_para_2: "So the tutor starts with recent work rather than a list of topics covered, and finds where the marks are going and why. For a lot of Sheffield children it's technique, not knowledge. They understand the Biology but can't lay out a six-mark answer. They know the History and run out of time. You'll probably notice your child's confidence shift before the grades do. Both tend to move within a few weeks of regular lessons."
+accordion_quality: "Every tutor is vetted on their subject, on exam board knowledge and on how clearly they explain. Sheffield schools use AQA, Edexcel and OCR between them, and the papers differ, so the board is one of the first things we'll ask you about."
+accordion_experience: "The tutors we'd suggest have helped children aiming at Sheffield's most competitive sixth forms, and children closing gaps from earlier years. They can tell when your child needs exam technique and when the foundations need rebuilding, and they adjust."
+accordion_personalised: "Every Sheffield child comes to us with a different target. One needs a pass in Maths, another a particular grade for sixth form, another wants to push from a 6 to an 8. Each lesson is built around your child's next step, not the next page of the textbook."
 reviews:
-  - Alison|Parent of A-Level Student|My son has been receiving tutor lessons in
-    A Level History and A Level Sociology since the beginning of this year. The
-    tutor has been such a tremendous support, teaching him content as well as
-    exam technique.
-  - Serena|A-Level Student|My tutor is a very intuitive and superb teacher. She
-    listened to my specific concerns and bolstered my confidence in answering
-    questions. She taught me how to think critically and helped me through this
-    highly demanding course. I will happily recommend without a second thought.
-  - Philippa|Parent of GCSE Student|I was really pleased to discover the Degree
-    Gap when my daughter needed help getting the grades she needed for GCSEs.
-    The team offer a really personalised service and I felt really well looked
-    after from the start. There are lots of tutors to choose from and all
-    subjects are catered for, with great flexibility on timings. Highly
-    recommend.
-  - Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with
-    English and was completely disengaged from the subject. After six months of
-    tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to
-    his lessons. Through one-to-one tutoring he has learned effective strategies
-    that help him approach English in a way that resonates with him.
-  - Daljit|Parent of A-Level Student|My son gained almost two grades higher than
-    his year 13 mock paper. His tutor was excellent.
-  - Ellen|Parent of GCSE Student|My daughter was struggling with confidence in
-    Maths GCSE and we decided to get a tutor. We were given a selection of
-    tutors to choose from and told that if it did not feel like a good match we
-    could try others. Our tutor was a complete star, listened, made it simple,
-    set good homework and gave my daughter her confidence back. Highly
-    recommend.
+  - "Alison|Parent of A-Level Student|My son has been receiving tutor lessons with Jacob Berry in A level History and subsequently A level Sociology since the beginning of this year. Jacob has been such a tremendous support for my son, teaching him content as well as exam technique, with which, as a dyslexic, he really has needed additional support. …"
+  - "Serena|A-Level Student|Malvina is a very intuitive and superb teacher. She listened acutely to my specific concerns and bolstered my confidence in answering the questions. She taught me how to think critically and helped me through this highly demanding and complex course. I will happily recomend her without a second thought!"
+  - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings to fit around school lessons. …"
+  - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7. I honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset. …"
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. …"
 sitemap:
   priority: 0.8
   changefreq: monthly

@@ -5,7 +5,7 @@ date: 2026-08-06
 author: "Harry Godfrey"
 author_role: "Co-founder, The Degree Gap"
 category: "Parent Advice"
-excerpt: "It is almost never too late to be worth doing, but what you are buying changes completely as the exams get closer. Here is what each window can realistically deliver."
+excerpt: "It's almost never too late for tutoring to be worth it. But what you're paying for changes a lot as the exams get closer. Here's what each stage can realistically do for your child."
 hero_image: "/images/student-studying-at-night-with-laptop.jpg"
 tags:
   - Parent Advice
@@ -20,100 +20,100 @@ related_links:
     description: "Why September beats January, and the signals that say start now."
 ---
 
-We get a version of this call every spring, usually starting with an apology. The parent feels they have left it too long and is half expecting to be told so.
+We get a version of this call every spring, and it usually starts with an apology. The parent feels they've left it too long, and they're half expecting us to say so.
 
-They almost never have. What has changed is not whether tutoring is worth doing, it is what tutoring can do. A tutor booked in September is being asked to teach. A tutor booked in April is being asked to convert what your child already knows into marks. Both are real jobs. Only one of them can rebuild missing content.
+They almost never have. Tutoring's still worth doing. What changes is the job it can do. Book a tutor in September and you're asking them to teach. Book one in April and you're asking them to turn what your child already knows into marks. Both are real jobs. Only one of them can fill in content your child's missed.
 
-Summer 2027 exams begin on **Monday 10 May 2027**. Here is what each window before that looks like.
+Summer 2027 exams begin on **Monday 10 May 2027**. Here's what each stretch of time before that looks like.
 
 ## Six months out (roughly November)
 
-**What it can do: everything.** Six months is enough to go back and fix foundations, learn the content properly, and then spend the spring on technique. If there are genuine gaps going back a year or two, this is the last comfortable point to address them rather than work around them.
+**What it can do: everything.** Six months is enough to go back and fix the basics, learn the content properly, and then spend the spring on exam technique. If your child has real gaps going back a year or two, this is the last comfortable point to fix them rather than work around them.
 
-**How to spend it:** weekly sessions, one or two subjects, with the first two or three used properly as a diagnostic. Let the tutor look at a mock paper rather than a syllabus.
+**How to spend it:** a lesson a week, in one or two subjects, with the first two or three lessons spent properly finding out where the gaps are. Let the tutor look at one of your child's mock papers rather than a syllabus.
 
-**What to watch:** do not over-commit. Six months of three subjects is a lot of Tuesday evenings, and the students who make the most progress are the ones still turning up in March.
+**What to watch:** don't take on too much. Six months of three subjects is a lot of Tuesday evenings. And the students who make the most progress are the ones still turning up in March.
 
 ## Three months out (roughly February)
 
-**What it can do: most things, with priorities.** Three months is still a proper run. You can fix a specific topic that has never landed, you can substantially rebuild exam technique, and you can get through a good volume of past papers with feedback.
+**What it can do: most things, with priorities.** Three months is still a proper run at it. There's time to fix a topic that's never landed, to rebuild a good chunk of your child's exam technique, and to get through a decent pile of past papers with feedback.
 
-What you cannot do is rebuild two years of missing content across three subjects. So this is the window where choosing matters. One subject done properly will produce more marks than three done thinly.
+What you can't do is rebuild two years of missing content across three subjects. So this is when choosing matters. One subject done properly will get your child more marks than three done thinly.
 
-**How to spend it:** pick the subject where the gap between current grade and needed grade is both largest and most winnable. Often that is not the worst subject, it is the one closest to a boundary.
+**How to spend it:** look at the gap between the grade your child's on and the grade they need, and pick the subject where it's both the biggest and the most winnable. Often that isn't their worst subject. It's the one sitting closest to a grade boundary.
 
-**What to watch:** February is when tutor availability is at its tightest, because January's enquiries have already filled the good slots. Move quickly rather than shopping around for three weeks.
+**What to watch:** February is when tutors are hardest to book, because January's enquiries have already filled the good slots. So move quickly, rather than shopping around for three weeks.
 
 ## Six weeks out (roughly late March, into Easter)
 
-**What it can do: convert knowledge into marks.** This is the window where tutoring is at its most efficient per hour, provided the knowledge is broadly there.
+**What it can do: convert knowledge into marks.** Hour for hour, tutoring gets the most done in this stretch, as long as your child broadly knows the content already.
 
-Six weeks of timed past papers, marked against the real mark scheme, with someone explaining exactly why an answer scored four instead of six, is worth a surprising amount. A lot of lost marks are not knowledge failures. They are marks left behind through misreading command words, under-answering long questions, or running out of time on the same paper every time. Those are fast to fix and they are worth several marks a paper.
+Six weeks of timed past papers is worth a surprising amount. Each one marked against the real mark scheme, with someone explaining exactly why an answer scored four instead of six. Lots of lost marks aren't about knowledge at all. They get left behind because your child misread the command word (the "explain" or "compare" that tells them what to do), wrote too little on a long question, or ran out of time on the same paper yet again. Those are quick to fix, and they're worth several marks a paper.
 
-**What it cannot do:** teach a subject from a standing start. If your child has genuinely not learned a topic, six weeks of tutoring across a full specification will not fix it, and any tutor promising otherwise is not being straight with you.
+**What it can't do:** teach a subject from a standing start. If your child really hasn't learned a topic, six weeks of tutoring across a whole course won't fix it. Any tutor who promises otherwise isn't being straight with you.
 
-**How to spend it:** past papers only, under timed conditions, with the tutor marking and explaining. Do not let anyone start at the beginning of the syllabus in April.
+**How to spend it:** past papers only, timed, with the tutor marking each one and talking your child through it. Don't let anyone start at the beginning of the syllabus in April.
 
 ## Two to three weeks out
 
-**What it can do: targeted damage limitation, and calm.** At this range you are picking two or three specific things. The topic that always comes up and they always avoid. The essay structure they have never had explained. The paper they always run out of time on.
+**What it can do: targeted damage limitation, and calm.** At this point you're picking two or three specific things. The topic that always comes up and your child always avoids. The essay structure they've never had explained. The paper they always run out of time on.
 
-There is also a pastoral element that is easy to dismiss and genuinely matters. A student who has spiralled in the last fortnight often does better with one calm adult going through what a good answer looks like than with another week of panic in their bedroom.
+There's a calming side to it as well. It's easy to dismiss, but it really matters. If your child has spiralled in the last fortnight, they'll often do better with one calm adult going through what a good answer looks like than with another week of panic in their bedroom.
 
-**What it cannot do:** anything broad. Two weeks is not a curriculum.
+**What it can't do:** anything broad. Two weeks isn't a curriculum.
 
-**How to spend it:** name the two or three things before the first session. Go in with a list.
+**How to spend it:** name the two or three things before the first lesson. Go in with a list.
 
-**Honest caveat:** for some students at this stage, another commitment in the diary is the wrong thing. If they are already overwhelmed, adding a session can subtract more than it adds. That is a judgement call and worth making honestly.
+**A word of caution:** for some children at this stage, another commitment in the diary is the wrong thing. If your child is already overwhelmed, one more lesson can take away more than it gives. It's a judgement call, and it's worth making honestly.
 
 ## During the exam period itself
 
-Genuinely underrated, and very few families think of it.
+Hugely underrated, and hardly any families think of it.
 
-GCSE and A-Level exam timetables are spread over several weeks. If a student sits Biology paper one on a Tuesday and paper two the following Monday, there is a week in between, and an hour in that week aimed squarely at paper two content is about the most valuable single session available anywhere in the process.
+GCSE and A-Level exams are spread over several weeks. Say your child sits Biology paper one on a Tuesday and paper two the following Monday. That leaves a week in between. And an hour in that week aimed squarely at the paper two content is about the most valuable single lesson in the whole run-up.
 
-The same applies to a subject sat late in the window. A student with a Physics paper in the second week of June has time to do real work on it in late May.
+It's the same for a subject that comes late in the timetable. If your child's Physics paper is in the second week of June, there's time to do real work on it in late May.
 
-One of our reviews puts the late-start case better than I could. Joanna, a parent of an A-Level student, wrote: "The A-Level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades."
+One of our reviews makes the case for a late start better than I could. Joanna, whose son was doing A-Levels, wrote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades."
 
-That is not typical and I am not presenting it as typical. It is a real illustration that late is not the same as pointless.
+That's not typical, and I'm not presenting it as typical. But it's a real example of late not being the same as pointless.
 
 ## What actually changes as the clock runs down
 
-Two things, and it is worth being clear about both.
+Two things, and it's worth being clear about both.
 
-**The job changes from teaching to converting.** Early, you are buying understanding. Late, you are buying marks from understanding that already exists. Choose a tutor accordingly: for a late start you want someone fluent in the mark scheme, not necessarily the most academically decorated person available.
+**The job changes from teaching to converting.** Early on, you're paying for understanding. Late on, you're paying for marks from the understanding your child already has. So choose the tutor to match. For a late start you want someone who knows the mark scheme inside out, not necessarily the person with the most impressive qualifications.
 
-**The value of spacing disappears.** For most of the year, one hour a week beats three hours in one go, because learning needs gaps to consolidate. The Education Endowment Foundation's review of one-to-one tuition points to [short, regular sessions over a set period](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/one-to-one-tuition) as the effective pattern.
+**The value of spacing disappears.** For most of the year, one hour a week beats three hours in one go, because learning needs gaps in between to settle. The Education Endowment Foundation's review of one-to-one tuition points to [short, regular sessions over a set period](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/one-to-one-tuition) as the pattern that works.
 
-In the final few weeks that logic weakens, because there is no long run left to consolidate over. Intensive blocks over Easter genuinely do work at that stage, in a way they would not in November.
+In the last few weeks that logic weakens, because there isn't a long run left for things to settle. Intensive blocks over Easter really do work at that stage, in a way they wouldn't in November.
 
 ## How to spend a late start well
 
-If you are booking with under three months to go:
+If you're booking with under three months to go:
 
-1. **Send the tutor a recent paper before session one.** Not a report, an actual paper with the marks on it. It saves you an hour of paid diagnostic.
-2. **Name the target.** "Needs a 4 in Maths" produces a different plan from "wants to push a 6 to a 7". Say which.
-3. **Insist on past papers under timed conditions.** If the tutor wants to work through the syllabus in April, that is the wrong tutor for this window.
+1. **Send the tutor a recent paper before the first lesson.** Not a report, but an actual paper with your child's marks on it. It saves a paid hour of the tutor working out where things stand.
+2. **Name the target.** "Needs a 4 in Maths" leads to a different plan from "wants to push a 6 to a 7". Tell the tutor which one it is.
+3. **Insist on timed past papers.** If the tutor wants to work through the syllabus in April, they're the wrong tutor for this stage.
 4. **Pick one subject, maybe two.** Spreading a late start across four subjects is the most common way families waste money in the spring.
-5. **Do not add hours to a student who is already drowning.** Sometimes the honest answer is that they need sleep and a plan more than they need a tutor.
+5. **Don't add hours if your child is already drowning.** Sometimes the honest answer is that they need sleep and a plan more than they need a tutor.
 
 ## Frequently asked questions
 
 **Is it worth it with four weeks to go?**
-Usually yes, for technique, timed papers and targeted topics. Not for learning a subject. Be clear about which one you are buying.
+Usually, yes, for exam technique, timed papers and a few chosen topics. Not for learning a whole subject. Just be clear about which one you're paying for.
 
 **Can a tutor teach a whole subject in the Easter holidays?**
-No. Intensive Easter blocks are good for consolidating and drilling. They cannot replace two years of teaching, and it is worth being wary of anyone who suggests otherwise.
+No. Intensive Easter blocks are good for going back over what your child's learned and practising it hard. They can't replace two years of teaching, and I'd be wary of anyone who says they can.
 
 **Is it too late for A-Level?**
-The same logic applies, with one difference: A-Level content is more synoptic, so late gap-filling is harder. The upside is that A-Level exam technique, especially essay structure and extended-response marking, responds very well to late work.
+Not usually, and the same logic applies, with one difference. A-Level exams expect your child to pull together topics from across the whole course, so filling gaps late is harder. The good news is that A-Level exam technique, especially how essays are structured and how the long written answers are marked, responds really well to late work.
 
 **Should we book more than one hour a week this close in?**
-In the final six weeks, two hours a week in one subject is reasonable if your child has the capacity for it. Watch for burnout rather than assuming more is better.
+Sometimes. In the final six weeks, two hours a week in one subject is reasonable if your child has the energy for it. Keep an eye out for burnout, rather than assuming more is better.
 
 **What about resits?**
-If the grade did not land, a resit run with a tutor from the start of the following term is a much easier version of this problem, because you get a full window rather than a scramble.
+They're a much easier version of the same problem. If the grade didn't land, a resit with a tutor from the start of the next term gives your child a proper run-up, rather than a scramble.
 
 ## Sources
 
@@ -126,8 +126,8 @@ The review quoted is a real, verbatim review left for The Degree Gap. It is incl
 
 ## Where The Degree Gap fits
 
-We are an online-only tutoring agency for GCSE and A-Level. If you are reading this in March or April, the free 30-minute call with Joe or me is worth having precisely because it is late: the plan for eight weeks out is different from the plan for eight months out, and getting it wrong at this stage is expensive.
+Reading this in March or April? Then the free 30-minute call with Joe or me is worth having because it's late, not in spite of it. The plan for eight weeks out isn't the plan for eight months out. And getting it wrong at this stage is expensive.
 
-Occasionally that call ends with us saying your child does not need another commitment in the diary right now. That is a real answer and we do give it.
+We're an online-only tutoring agency for GCSE and A-Level. But now and then, the call ends with us saying your child doesn't need another commitment in the diary right now. It's a real answer, and we do give it.
 
 [Book a free consultation call →](/book-a-call/)

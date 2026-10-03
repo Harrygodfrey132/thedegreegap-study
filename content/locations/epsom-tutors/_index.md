@@ -1,38 +1,16 @@
 ---
 title: Epsom Tutoring | Trusted GCSE & A-Level Tutors
-description: One-to-one Epsom tutoring for Maths, English, Sciences and more.
-  Expert tutors, flexible online lessons and proven academic results.
+description: "Feel like every other child is ahead? Our online Epsom tutors start from where your child really is, GCSE to A-Level. A free call first, then lessons from £37."
 layout: single
 location: Epsom
-banner_heading: "Looking for an online private tutor in Epsom who actually pushes results?"
-banner_description: Our Epsom tutors raise the ceiling for ambitious students,
-  with one-to-one tuition matched on subject, exam board and the standard top
-  universities expect.
-content_angle: ambition
-intro_1: Epsom is one of Surrey's most academic commuter towns. The independent
-  Epsom College sits at one end of the local picture, and competition for places
-  at Glyn School and Rosebery, both routinely oversubscribed, sets the tone at
-  the other. Surrey as a whole sits well above the national average for GCSE
-  attainment, which means parents in Epsom are calibrating their expectations
-  against an already strong baseline. A solid grade 6 doesn't feel solid here.
-  Not when the conversation at the school gate is about 8s, 9s, and which
-  Russell Group university each child is aiming at.
-intro_2: Our Epsom tutors work in exactly that context. One-to-one tuition gives
-  an ambitious student the time to attempt harder questions, get specific
-  feedback on real work, and rebuild any weak topic before it becomes a problem.
-  We match each family with a tutor who knows the exam board, knows what top
-  grade answers actually look like, and can coach a motivated student towards
-  those answers without burning them out. No filler, no working at the pace of
-  the slowest in the room.
+banner_heading: "Online GCSE and A-Level Tutors for Epsom Families, at Your Child's Own Pace"
+banner_description: "School-gate talk can make it feel like your child is the only one struggling. They rarely are. Our Epsom tutors start from wherever your child is."
+content_angle: "comparison: the Epsom parent who feels every other child is ahead, answered calmly and at your child's own pace"
+intro_1: "It often starts with something small. Another parent mentions a mock result in the year group's WhatsApp, and you realise you haven't heard much about Chemistry from your own child for weeks. So you ask, and get a shrug. Epsom can be a hard place to worry quietly. Glyn and Rosebery are both oversubscribed, Epsom College is on the doorstep, and GCSE results across Surrey are well ahead of the national average. It's easy to feel as if everyone else's child is flying. Plenty aren't, and yours is far from the only one who's stuck."
+intro_2: "Talking to us costs nothing. You book a free call with one of us, Harry or Joe, and tell us about your child and what's been going on. Within a day we'll send two or three tutor profiles to read. Your child then meets the one you pick on a free video call, before anything's booked. Lessons are weekly and online, from £37 an hour, with no contract. If your child doesn't get on with their tutor, we'll find a different one at no charge."
 about_heading: Private Tutors Serving Epsom Families
 about_image: /images/university-library-study-hall.jpg
-schools_intro: Our tutors support students from secondary schools right across
-  Epsom and the surrounding area. Epsom College, Glyn School, Rosebery School,
-  Blenheim High School, Epsom & Ewell High School and St Andrew's Catholic
-  School all send students our way, whether they're targeting top GCSEs,
-  preparing for sixth form entry or building towards a competitive university
-  application. We also run workshops on exam technique and revision strategy,
-  open to students from any local school.
+schools_intro: "Epsom families come to us from Glyn, Rosebery, Blenheim High School, Epsom and Ewell High School, St Andrew's Catholic School and Epsom College. Boards can differ from school to school, even for the same subject, so we'll check which ones your child sits and match on that. Harry and Joe also lead revision and exam technique workshops in schools. More than 15 UK secondary schools work with us directly as well."
 schools:
   - Epsom College
   - Glyn School
@@ -41,26 +19,12 @@ schools:
   - Epsom & Ewell High School
   - St Andrew's Catholic School
 schools_image: /images/aerial-school-campus-building.jpg
-online_heading: "Online tuition for Epsom students: specialist subject tutors
-  matched on exam board"
-online_1: Most of our tutoring for Epsom families runs online through
-  Lessonspace, a shared whiteboard platform built for one-to-one sessions. It
-  means students aren't limited to whichever tutors happen to live within a
-  short drive of Surrey. If a student needs a senior examiner for A-Level
-  Biology, a Russell Group graduate for Further Maths, or a tutor who's been
-  through Oxbridge admissions, we draw from a national pool and match on
-  subject, exam board and teaching style.
-online_2: And online tuition fits the kind of week most Epsom students are
-  running. School clubs, music, sport, plus the commute home, leave evenings
-  tight. Sessions slot in at 7pm or 8pm without a drive across town. Past papers
-  get marked on the whiteboard live. Most students find they concentrate harder
-  one-to-one online than they do in a class of thirty, and the weekly
-  consistency of online tutoring is easier to maintain than in-person work.
+online_heading: "Online tutoring that fits around a busy Epsom evening"
+online_1: "Lessons run in an online classroom called Lessonspace, where the tutor sees each line of your child's working appear on a shared whiteboard. A slip gets caught on the line where it happens, not three lines later. And because nobody has to live within reach of Epsom, we can choose from across the country. Someone who knows Further Maths inside out, say, or a tutor who's been through Oxbridge admissions."
+online_2: "Between after-school clubs and whoever's still on the train home, Epsom weeknights fill up fast. A lesson at 7 or 8pm at the kitchen table doesn't need anyone to drive anywhere. Every lesson's recorded too. So if a method's gone hazy by the next test, your child can find that part and watch it again instead of waiting a week to ask."
 online_image: /images/online-study-workspace-with-coffee.jpg
 map_url: https://maps.google.com/maps?q=Epsom,UK&output=embed
-areas_intro: Because most of our tuition is online, students in Epsom and nearby
-  areas can access the right subject specialist without being limited by
-  geography.
+areas_intro: "Every family in and around Epsom gets the same online lessons. So do families in the other towns we cover, including the ones below."
 area_links:
   - Reading Tutors|/locations/reading-tutors/
   - Brighton Tutors|/locations/brighton-tutors/
@@ -69,137 +33,48 @@ area_links:
   - Tunbridge Wells Tutors|/locations/tunbridge-wells-tutors/
   - Oxford Tutors|/locations/oxford-tutors/
 gcse_subjects:
-  - GCSE Chemistry Tuition|Precise one-to-one work through bonding, equations
-    and rates for students aiming at grades 7 to 9 and the answers that get them
-    there.|/book-a-call/
-  - GCSE Maths Tuition|Stretch tutoring across number, algebra and statistics
-    across the whole mark band, not just a comfortable pass.|/book-a-call/
-  - GCSE Biology Tuition|Detailed work across the full specification for
-    students who want to walk into the exam confident on the harder six and
-    nine-mark questions.|/book-a-call/
-  - GCSE English Tuition|Sharp tutoring across Language and Literature for
-    students who want a method that holds up under exam timing, not just in calm
-    conditions at home.|/book-a-call/
-  - GCSE Physics Tuition|Tutoring through forces, waves and electromagnetism
-    built around the application questions that decide the highest
-    grades.|/book-a-call/
-  - GCSE History Tuition|Source skills, essay structure and extended argument,
-    taught by tutors who know what a grade 9 history answer actually looks
-    like.|/book-a-call/
-  - GCSE Computer Science Tuition|One-to-one work through programming,
-    algorithms and Boolean logic for students who want both NEA and written
-    paper to land at the top end.|/book-a-call/
-  - GCSE Geography Tuition|Case study revision, data response and nine-mark
-    question technique, with tutoring that turns subject knowledge into the
-    marks the mark scheme actually awards.|/book-a-call/
-  - GCSE French Tuition|Structured tutoring across all four skills for students
-    aiming high in writing and speaking, where the easy marks at the top end get
-    missed most often.|/book-a-call/
+  - "GCSE Chemistry Tuition|The calculation questions your child dreads, from moles to balancing equations, taken one worked line at a time.|/book-a-call/"
+  - "GCSE Maths Tuition|Algebra and ratio rebuilt at your child's speed, with every lesson ending on questions they got right on their own.|/book-a-call/"
+  - "GCSE Biology Tuition|Questions on the class practicals and longer written answers, rehearsed against the clock so the real paper feels like familiar ground.|/book-a-call/"
+  - "GCSE English Tuition|Quotations your child can actually remember, and a five-minute essay plan for when the clock is ticking.|/book-a-call/"
+  - "GCSE Physics Tuition|Formulas rearranged without panic, and long calculation questions tackled in the same calm order every time.|/book-a-call/"
+  - "GCSE History Tuition|Source questions and timed essays, with one simple plan your child can reuse whatever the question throws at them.|/book-a-call/"
+  - "GCSE Computer Science Tuition|Reading and writing code step by step, taken back to the point where your child quietly stopped following in class.|/book-a-call/"
+  - "GCSE Geography Tuition|The longer answers broken into a plan your child can trust, with case study facts they can recall under pressure.|/book-a-call/"
+  - "GCSE French Tuition|Nerves about the speaking exam settled with short, regular practice, plus the everyday vocabulary every paper leans on.|/book-a-call/"
 alevel_subjects:
-  - A-Level Economics Tuition|Micro, macro and evaluation writing for students
-    who want Economics to be the strongest part of their UCAS
-    application.|/book-a-call/
-  - A-Level Biology Tuition|In-depth support through genetics, physiology and
-    ecology for students aiming at medicine, dentistry or a competitive
-    bioscience degree.|/book-a-call/
-  - A-Level Chemistry Tuition|Step-by-step tutoring through organic, inorganic
-    and physical chemistry for students preparing for medicine or natural
-    sciences.|/book-a-call/
-  - A-Level Maths Tuition|Focused tutoring across pure, statistics and mechanics
-    for students who want to stay ahead of Year 13 content before it gets
-    unmanageable.|/book-a-call/
-  - A-Level Psychology Tuition|Methodical work through research methods and
-    evaluation writing for students who want to write with precision, not just
-    at length.|/book-a-call/
-  - A-Level Physics Tuition|Patient, exam-board-aware tuition through mechanics,
-    fields and quantum topics for students aiming at engineering or physics at a
-    top university.|/book-a-call/
-  - A-Level English Tuition|Critical analysis and essay writing at A-Level,
-    taught by tutors who know what markers reward at the top end of the mark
-    scheme.|/book-a-call/
-  - A-Level History Tuition|Help with the analytical essay writing A-Level
-    History demands, for students who want to write essays that hold up under
-    timing, alongside history-led university applications.|/book-a-call/
-  - A-Level Geography Tuition|Advanced concept work, fieldwork analysis and
-    extended writing, with tutors who pitch sessions at whatever level the
-    student is sitting at.|/book-a-call/
+  - "A-Level Economics Tuition|Diagrams drawn properly, and essays that weigh up both sides before reaching a clear judgement.|/book-a-call/"
+  - "A-Level Biology Tuition|Long answers and practical skills for a course that often leads to medicine or dentistry, taught without piling on pressure.|/book-a-call/"
+  - "A-Level Chemistry Tuition|Equilibria and organic reactions practised on real exam questions until your child can see the route before starting.|/book-a-call/"
+  - "A-Level Maths Tuition|Pure, statistics and mechanics kept ticking over each week, so Year 13 content never piles up faster than your child can handle.|/book-a-call/"
+  - "A-Level Psychology Tuition|Short, sharp evaluation instead of pages of description, and research methods made clear enough to explain back.|/book-a-call/"
+  - "A-Level Physics Tuition|Mechanics and fields, one problem at a time, for a child with engineering in mind or one who'd just like Physics to click.|/book-a-call/"
+  - "A-Level English Tuition|Close reading of the set texts, and essay plans that keep every paragraph pulling the same way.|/book-a-call/"
+  - "A-Level History Tuition|Essay plans that hold an argument together under timed conditions, with interpretations tackled calmly rather than avoided.|/book-a-call/"
+  - "A-Level Geography Tuition|The fieldwork write-up kept moving week by week, and extended essays planned well before exam season arrives.|/book-a-call/"
 other_subjects:
-  - University Personal Statement|Shape a strong UCAS personal statement with
-    expert support on structure, subject motivation, and final
-    polish.|/book-a-call/
-faq_1_q: Do you support students aiming for top universities?
-faq_1_a: Yes. We work with Epsom students preparing for Russell Group, medicine
-  and Oxbridge applications. Tutors who've been through those processes
-  themselves take students through the standard those courses expect, the
-  personal statement and any admissions tests required.
-faq_2_q: What qualifications do your tutors have?
-faq_2_a: All our tutors are graduates, and many come from Russell Group
-  universities. Every tutor is vetted individually on subject knowledge, on how
-  they explain things, and on how they work with young people. A degree alone
-  isn't enough for us.
-faq_3_q: Is there a free consultation before we commit?
-faq_3_a: Yes. We have a conversation first to understand what the student needs.
-  No pressure, no obligation. We'd rather spend time getting the match right
-  than rush an introduction that doesn't work.
-faq_4_q: Can tutors help with A-Level coursework?
-faq_4_a: Yes, within reason. Tutors help students understand what's being asked,
-  structure their approach and tighten the quality of their thinking. Everything
-  submitted stays the student's own work. But the difference a tutor makes to
-  the process is usually significant.
-why_heading: Why Epsom families choose The Degree Gap for ambitious tutoring
-why_para_1: There's a reason Glyn and Rosebery dominate every Epsom school
-  conversation. Both routinely sit at the top of Surrey's state school results
-  tables, and the GCSE curriculum at both runs at a pace that assumes students
-  can already think analytically by Year 9. For most students, that's true. For
-  some, it isn't yet, and the small gap between what those students need and
-  what the pace allows is exactly where our Epsom tutors do their best work. We
-  see the same pattern, slightly differently, at Blenheim, Epsom & Ewell and St
-  Andrew's. Different schools, same point of stuck.
-why_para_2: Our tutors give those students the missing layer. The first few
-  sessions usually focus on a recent piece of work, marked the way the exam
-  board marks, so the student can see where the marks are being left on the
-  table. A-Level tutoring then moves into the technical moves that lift A grades
-  into A*s, the evaluation writing, the synoptic links, the precision examiners
-  actually reward. Our GCSE tutoring works the same way at the grade 7 to 9
-  boundary. Parents often notice the shift in how their child talks about the
-  subject first, before the next mock catches up.
-accordion_quality: Every tutor working with Epsom students is assessed on
-  subject depth and on whether they can teach to the top of the mark scheme, not
-  just to a comfortable pass. For ambitious students, that distinction is the
-  whole point of tutoring.
-accordion_experience: Our tutors have supported students through Russell Group
-  offers, medicine, dentistry and Oxbridge applications. They know the standard
-  those courses expect and how to coach a student towards it without sacrificing
-  the rest of the school year.
-accordion_personalised: We don't run set programmes. For an Epsom student aiming
-  high, tutoring is shaped around their specific subjects, target grades and
-  university plans, with the room to stretch beyond the syllabus where it helps.
+  - "University Personal Statement|A UCAS personal statement built from your child's own interests, so it doesn't blur into every other application.|/book-a-call/"
+faq_1_q: "Everyone has a tutor. Does my child need one?"
+faq_1_a: "Not always, and a free call is a good way to find out. We'd look for marks that won't move despite effort, or a subject your child has started avoiding. And if they simply want to push further than school goes, that counts too."
+faq_2_q: "Can you help with Oxbridge or medicine?"
+faq_2_a: "Yes. Some tutors on our platform went through those applications themselves, and we'll match on that if it's what your child is aiming for. They can help with the personal statement and any admissions test, alongside the A-Level grades an offer depends on."
+faq_3_q: "Who would actually be teaching my child?"
+faq_3_a: "They're graduates and university students, lots of them from Russell Group universities, and every single one has tutored for at least two years. Before anyone joins, we check they can explain a hard idea simply to a teenager, not just that they understand it themselves."
+faq_4_q: "How can a tutor help with coursework?"
+faq_4_a: "Mostly by talking it through. The tutor helps your child pin down what the task wants, plan the piece and try their ideas out loud. Every word handed in stays your child's own. The tutor never writes any of it."
+why_heading: "What tutoring changes for an Epsom child who feels behind"
+why_para_1: "In a first lesson with an Epsom teenager who feels behind, the tutor rarely finds a lack of ability. What they find is revision built on worry: the whole textbook reread, everything highlighted, nothing done against the clock. When the class moves quickly and everyone around them seems sure of themselves, a child who's lost on one topic often stops saying so. The homework starts taking twice as long as it should, and by Year 11 one shaky topic has quietly become three."
+why_para_2: "So the tutor slows things down. They pick one thing, usually from a recent mock, and go back far enough for your child to get it right without guessing. Revision gets smaller and more honest: ten timed questions instead of three hours of notes. Your child starts to see what they can actually do, rather than what everyone else seems to be doing. The worry usually eases first and the marks tend to follow, though nobody can promise when. You'll probably see it at home before any report does, in fewer rows about homework and a child who'll tell you what they're stuck on."
+accordion_quality: "Harry or Joe interview every tutor before they join, and roughly 3% of applicants are accepted. Good grades alone won't get anyone through. We want people who stay calm and kind with a teenager who's convinced everyone else understands except them."
+accordion_experience: "Every tutor we'd put forward has at least two years of tutoring experience. Between them they've guided children through mocks and sixth form places, and through applications for medicine, Oxbridge and Russell Group courses."
+accordion_personalised: "Nothing comes off a shelf. The tutor plans each week around what the last one showed, at a speed your child can manage. That might mean patching up the basics, or stretching past what school covers."
 reviews:
-  - Philippa|Parent of GCSE Student|I was really pleased to discover the Degree
-    Gap when my daughter needed help getting the grades she needed for GCSEs.
-    The team offer a really personalised service and I felt really well looked
-    after from the start. There are lots of tutors to choose from and all
-    subjects are catered for, with great flexibility on timings. Highly
-    recommend.
-  - Alex|University Student|Cannot recommend The Degree Gap highly enough. Quick
-    and helpful responses. I was immediately matched with a very competent tutor
-    who was a massive help in helping me exceed my target grade and achieve a
-    first class degree at university.
-  - Aila|University Applicant|My tutor was amazing. He helped me shape my
-    personal statement into something I was truly proud of, and thanks to his
-    support, I got into my dream university. Highly recommend to anyone applying
-    to uni.
-  - Mahir|A-Level Student|My tutor was an excellent teacher that helped me gain
-    real grip of the complicated areas in my subjects like economics. I'd highly
-    recommend for anyone looking to consistently perform at their best.
-  - Sarom|Parent of A-Level Student|The Degree Gap has been very helpful in
-    tutoring my son for his economics A Level. His tutor has lots of patience,
-    keeps lessons interesting and is a good motivator. The subject matter
-    expertise is excellent.
-  - Kasia|Parent|Our tutor is a great teacher. Very helpful and knowledgeable.
-    His experience and expertise helped my son make decisions about choosing
-    A-level subjects and his university course. I highly recommend The Degree
-    Gap.
+  - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings to fit around school lessons. …"
+  - "Alex|University Student|Can’t recommend The Degree Gap highly enough. Quick and helpful responses from Harry. He immediately matched me with a very competent tutor, who was a massive help in helping me exceed my target grade and achieve a first class degree at university."
+  - "Aila|University Applicant|Harry was amazing! He helped me shape my personal statement into something I was truly proud of, and thanks to his support, I got into my dream university! Couldn’t have done it without him–highly recommend to anyone applying to uni."
+  - "Mahir|A-Level Student|Harry was an excellent teacher that helped me gain real grip of the complicated areas in my subjects like economics - I'd highly recommend for anyone looking to consistently perform at their best."
+  - "Sarom|Parent of A-Level Student|Harry has been very helpful in tutoring my son for his economics A Level. He has lots of patience, keeps lessons interesting and is a good motivator. Needless to say his subject matter is expertise is excellent."
+  - "Kasia|Parent|Harry is a great tutor. He's very helpful and knowledgeable. He's git goid understanding of student's needs as well as current situation when it comes to university education in the UK. …"
 sitemap:
   priority: 0.8
   changefreq: monthly

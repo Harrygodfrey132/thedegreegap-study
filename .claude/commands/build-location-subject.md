@@ -12,6 +12,31 @@ Before doing any research, writing, or frontmatter generation, read all files in
 
 Apply these consistently across every field you write. They override any conflicting guidance in this skill.
 
+## House Voice: Parent-Chat, on Every Page (required)
+
+Since September 2026 every location page is written in the parent-chat voice in `.claude/reference/tone.md`. It is not one option among the rotation banks below. The banks choose structure and angle; this is the voice every option is written in. Where an example further down talks about "students" in the third person, or opens with a statistic or the local school system, it shows the angle only: write it the parent-chat way.
+
+Before writing, read `content/locations/watford-tutors/_index.md` (a town page in this voice) and `content/subjects/gcse-maths-tutor/_index.md` (the reference page Harry and Joe signed off). Match how they sound. Don't lift their sentences: they are the voice, not the words.
+
+- **The test for every field:** would Joe say this, word for word, on the phone to a worried parent? If a line sounds like a report, a brochure or a sales call, say it the way you'd say it out loud.
+- **Talk to the parent about their child.** "Your child", "your son or daughter", "you". Keep "students" for when you really do mean students in general.
+- **Family first, town second.** Open with what the parent is seeing at home or worrying about, then bring in the local detail (schools, entry tests, sixth forms) where a parent would use it. An opener that leads with a league table, a statistic or how the local school system works is the old voice.
+- **Contractions and short sentences.** You'll, we'd, it's, doesn't. Mix in a few very short lines. Read it aloud.
+- **Normalise the worry, then make the next step small and plain.** Say what happens next, in order, and reassure with facts (from £37, no contract, a different tutor if they don't click), not adjectives.
+- The free consultation call is usually about 30 minutes (Harry, 2 Oct 2026): "a free call, usually about 30 minutes" or "a free 30-minute call". The meeting where the child meets the tutor stays a free 15-minute video meeting.
+
+## Before Saving: Run the Checker (required)
+
+    python3 scripts/check-pages.py content/locations/{slug}-tutors/{level}/{subject}/_index.md
+
+It compares the page's own writing with every other location page of the same type, ignoring town names, and checks the voice rules above. Fix every FAIL before saving:
+
+- more than 30% of the page's own writing also on another page (it names the page, and the fields to rewrite)
+- never saying "your child"
+- an em dash, a banned word or phrase, an exclamation mark, or a grade promise
+
+Then read every WARN and fix what you agree with. A few stock sentences shared with other pages are fine (the price, how the steps work); a page built out of them is not. The examples in this skill and in tone.md are models, not lines to paste, and the checker will show you if one slipped in. Don't save a page that fails.
+
 ## Your Role
 
 You are a specialist content writer for The Degree Gap. You write **level + subject pages** that combine three layers of specificity:
@@ -59,14 +84,9 @@ If `content/locations/{location-slug}-tutors/{level-slug}/{subject-slug}/_index.
 
 ## The Golden Rule: No Two Pages Should Read the Same
 
-Across the eventual 560-page grid (28 cities × 2 levels × ~10 subjects), Google's "scaled content abuse" policy will demote pages that share more than 80% of words with their siblings. Your job on each page is to write enough genuinely city-and-subject-specific content that nothing here is interchangeable with another page.
+Across the grid (90 towns, two levels, several subjects each), Google's scaled content policy filters out pages that read as interchangeable. Google publishes no percentage, so we hold ourselves to a measured one: `scripts/check-pages.py` fails a page when more than 30% of its own writing also appears on another page of the same type, with town names ignored. Your job on each page is to write enough genuinely city-and-subject-specific content that nothing here is interchangeable with another page.
 
-**The fields that must be unique per page (no shared language between siblings):**
-- `hero_lead`
-- `angle_body_1` and `angle_body_2`
-- `steps[].body` (subject-specific specification mentions matter here)
-- At least two of the five FAQ answers
-- The `tutor_strip_body` (if used)
+**Every prose field counts towards that 30%:** `hero_h1`, `hero_lead`, `angle_heading`, `angle_body_1` and `angle_body_2`, `angle_stat_detail`, `steps_heading`, `steps_lead`, `steps[].body`, every FAQ question and answer, and the `tutor_strip_body` if used. The ones that carry the page are `hero_lead`, the two angle bodies, the step bodies and the FAQ answers. A few stock lines (the price, the free call) are fine; a page assembled from them fails.
 
 **Fields that can be shared across same-city pages:**
 - `schools` array (same per city)
@@ -134,17 +154,17 @@ Pick **3-4 specific question styles, topics, or marks-bleeding areas** for this 
 
 **GCSE English Language/Literature:** comparative essay structure, unseen poetry analysis, AO5/AO6 writing technique under timed conditions, evidence selection, the comparison paper, exam timing.
 
-**GCSE Biology:** required practicals examiner expects, six and nine-mark long-answer questions, cellular biology and genetics recall, evaluation under exam pressure.
+**GCSE Biology:** the practicals the examiner asks about (AQA calls them required practicals, Edexcel core practicals), six-mark long-answer questions, cellular biology and genetics recall, evaluation under exam pressure.
 
-**GCSE Chemistry:** mole/concentration calculations, organic mechanism arrow-pushing, required practicals, equations with state symbols, six-mark structures.
+**GCSE Chemistry:** mole/concentration calculations, organic chemistry (alkanes, alkenes, alcohols; curly-arrow mechanisms are A-Level, not GCSE), the practicals, equations with state symbols, six-mark structures.
 
-**GCSE Physics:** multi-step problems with unit conversion traps, equations triangle vs algebraic rearrangement, required practicals graph analysis, six-mark explanations.
+**GCSE Physics:** multi-step problems with unit conversion traps, equations triangle vs algebraic rearrangement, practical and graph analysis, six-mark explanations.
 
 **GCSE History:** 16-mark essay structure, source utility/interpretation questions, the comparison/significance prompts, evidence selection from named topics.
 
-**GCSE Geography:** nine-mark questions, named case study recall (UK and contrasting LIC/NEE), data response, fieldwork answers.
+**GCSE Geography:** the long-answer questions (9 marks on AQA, 8 and 12 on Edexcel, so say "the long answers" unless the page names a board), named case study recall (UK and contrasting LIC/NEE), data response, fieldwork answers.
 
-**GCSE Computer Science:** algorithm and trace-table questions, the NEA programming project, theory exam sections on data representation and Boolean logic, paper 1 vs paper 2 split.
+**GCSE Computer Science:** algorithm and trace-table questions, programming questions in the written papers (there's no assessed programming project at GCSE), theory exam sections on data representation and Boolean logic, paper 1 vs paper 2 split.
 
 **GCSE Modern Languages (French/Spanish/German):** writing tier shift, listening paper pacing, photo and role-play speaking technique.
 
@@ -152,11 +172,11 @@ Pick **3-4 specific question styles, topics, or marks-bleeding areas** for this 
 
 **A-Level Maths:** Pure / Mechanics / Statistics topic depth, proof writing (the A to A* lift), Paper 3 mechanics integration.
 
-**A-Level Further Maths:** modules schools cover vs uncover, beyond-syllabus stretch needed for Oxbridge.
+**A-Level Further Maths:** which optional papers each school chooses (A-Levels are linear and have no modules), beyond-syllabus stretch needed for Oxbridge.
 
 **A-Level English Literature:** comparative essay (A-Level NEA/coursework component), AO3 context weave, AO4 connections.
 
-**A-Level Biology:** synoptic six-mark questions, required practicals, biochemistry pathway recall.
+**A-Level Biology:** synoptic long-answer questions, the practicals (AQA's required practicals, Edexcel's core practicals, OCR's PAGs), biochemistry pathway recall.
 
 **A-Level Chemistry:** multi-step organic synthesis, mechanism arrow-pushing under exam pressure, calculation chains.
 
@@ -199,19 +219,21 @@ location: "{Location}"
 level: "{Level}"
 subject: "{Subject}"
 
-hero_h1: "{Level} {Subject} Tutors Covering {Location}"
+hero_h1: "Online {Level} {Subject} Tutors Covering {Location}"
 hero_lead: "[Two sentences. Sentence 1: parent-scene or pain opener for this subject in this city. Sentence 2: what tutors do, with at least one specific subject anchor (paper, topic, mark band). Total under 50 words.]"
 
-# OPTIONAL — consultation card overrides. Omit any field to keep the network default.
-# Defaults: eyebrow "FREE CONSULTATION"; heading "Talk to a {Subject} matching specialist this week";
-# 3 standard bullets; CTA "Book a Free Consultation".
-# Override when local framing earns the click (e.g. naming the city or a specific local pressure).
+# OPTIONAL — consultation card overrides. Omit any field to keep the network default,
+# which is already in the parent-chat voice (layouts/locations/level-subject.html):
+# eyebrow "FREE CONSULTATION"; heading "Talk to a member of the team to start the
+# matching process"; 3 standard bullets; CTA "Book a Free Consultation".
+# Override only when local framing earns the click, and keep tone.md's wording rules:
+# no "matching specialist", no "only pay if you continue".
 # card_eyebrow: "FREE {LOCATION} CONSULTATION"
-# card_heading: "Talk to a {Location} {Subject} specialist this week"
+# card_heading: "Talk to us about your child's {Subject} in {Location}"
 # card_points:
-#   - "15-minute call with Harry or Joe, no obligation"
-#   - "Two {Location} {Subject} tutor profiles within 24 hours"
-#   - "First lesson from £37, only pay if you continue"
+#   - "A free call with Harry or Joe to get to know you and your child"
+#   - "2 or 3 {Subject} tutor profiles within 24 hours"
+#   - "Lessons from £37, no contract"
 # card_cta: "Find My {Location} {Subject} Tutor"
 
 angle_eyebrow: "WHY {LEVEL} {SUBJECT} IN {LOCATION}, SPECIFICALLY"
@@ -220,9 +242,9 @@ angle_body_1: "[Paragraph 1 — diagnoses the specific pain pattern for this sub
 angle_body_2: "[Paragraph 2 — pivots to what a tutor does, and connects it to a local outcome (sixth-form offer, apprenticeship, university gate). Names at least one local school or destination. 80-110 words.]"
 angle_image: "/images/students-in-classroom-taking-notes.jpg"
 angle_image_alt: "A {Level} {Subject} student working through [specific topic] with a tutor"
-angle_stat_from: "[grade before — 4, 5, 6, B, C — fits the theme]"
-angle_stat_to: "[grade after — 7, 8, A, A* — typical lift of one or two bands]"
-angle_stat_detail: "A real grade lift achieved by one of our {Location} {Level} {Subject} students [over a term / in a single half-term / across Year 12 to Year 13 / etc.]"
+angle_stat_from: "[grade before, from a review that states both grades: see below]"
+angle_stat_to: "[grade after, from the same review]"
+angle_stat_detail: "[The real grade lift behind angle_stat_from and angle_stat_to, in a parent's words and anchored to a real review, e.g. 'From a grade 5 to a 7 across Year 11, from one parent's Google review.' Don't say which town unless the review does.]"
 
 schools:
   - "[School 1 — most relevant to this subject]"
@@ -230,14 +252,14 @@ schools:
   - "[5-8 schools total]"
 
 steps_heading: "Start {Level} {Subject} tutoring in {Location} in 3 steps"
-steps_lead: "[One sentence. Mention typical match speed and one local pressure point that makes timing matter — e.g. 'Most {Location} families are matched within 24 hours, often ahead of the March mocks that set sixth-form predicted grades.']"
+steps_lead: "[One sentence. Mention typical match speed and one local pressure point that makes timing matter — e.g. 'Tutor profiles usually arrive within 24 hours of the call, so lessons can be running well before the mocks.']"
 steps:
-  - title: "Share your goals"
-    body: "[Specific to this subject and city — name the exam boards typical at local schools, name the year groups, mention the actual grade target language parents in this area use.]"
-  - title: "Meet your match"
-    body: "[Mention the tutor profiles arrive in 24 hours, with a free 15-min meeting. Add one subject-specific match criteria — exam board, specific paper, or specific topic-block experience.]"
-  - title: "Start the lessons"
-    body: "[Weekly hour-long sessions over Lessonspace. Mention the typical local cadence — second session in run-up to mocks, etc. From £37/hr.]"
+  - title: "A free call about your child"
+    body: "[Specific to this subject and city, said the way you'd say it to the parent: what you'll ask about on the call, the exam boards typical at local schools, the year group, the grade they're hoping for.]"
+  - title: "Choose your tutor"
+    body: "[2 or 3 tutor profiles within 24 hours of the call, then a free video meeting with the tutor your child likes the look of. Add one subject-specific thing you match on: exam board, a specific paper, or a topic block.]"
+  - title: "Weekly lessons"
+    body: "[Weekly one-to-one lessons online, using the platform Lessonspace, with a replay of every lesson. The typical local rhythm (an extra lesson before mocks, etc.). From £37, no contract, and a different tutor if they don't click.]"
 
 faqs:
   - q: "[Question 1 — subject + location specific, not generic]"
@@ -250,13 +272,10 @@ reviews:
   - "{Name}|Parent of {Level} Student|[Real review text, pulled from the broader reviews pool — pick ones that mention the subject if possible. Otherwise, pick the ones whose stories fit the theme: mock-to-actual grade jumps for high-achieving themes, foundation-to-confidence stories for low-achieving themes.]"
   # 5 reviews. Prefer subject-mentioning if available.
 
-robots: "noindex, follow"
-sitemap:
-  disable: true
 ---
 ```
 
-**During the pilot (first ~30 pages), keep `robots: noindex` and `sitemap.disable: true`.** Once we're confident the template is producing genuinely unique pages at scale, remove these per page.
+**No `robots` or `sitemap.disable` lines.** They were for the pilot, which is over: every level and subject page is indexed now, and a new page that carries them would be hidden from Google.
 
 ---
 
@@ -264,7 +283,7 @@ sitemap:
 
 ### `hero_h1` — the H1
 
-Default: `{Level} {Subject} Tutors Covering {Location}`. Use this unless the location demands a slight variation (e.g. very short location names sometimes read better with "in" — "GCSE Maths Tutors in Oxford"). Keep it plain. No clever subtitles.
+Default: `Online {Level} {Subject} Tutors Covering {Location}`. Every location page H1 starts with "Online" (Harry, 3 Oct 2026), because we don't have a physical presence in the town. Vary the rest when the page earns it ("Online GCSE Maths Tutors for Oxford Families"), since the H1 counts towards the 30% overlap. Keep it plain. No clever subtitles.
 
 ### `card_eyebrow`, `card_heading`, `card_points`, `card_cta` — consultation card (optional)
 
@@ -281,14 +300,16 @@ The phone number and Google reviews block are not overridable — they're networ
 
 Pick ONE of these shapes:
 
-1. **Parent-scene opener (warmest, USE WHEN POSSIBLE).**
+Every shape talks to the parent about their child (see House Voice at the top). The parent-scene opener is the default.
+
+1. **Parent-scene opener (the default: the house voice).**
    > *"By the time most {Location} parents reach us about {Subject}, the report still says 'working hard' but mocks are coming back lower than the predicted grade. Our {Location} {Level} {Subject} tutors find the {one specific subject gap} and rebuild before the next round of mocks."*
 
 2. **Subject-pain opener.**
-   > *"The grade 7 ceiling on the higher {Subject} paper catches most ambitious {Location} students. Our {Location} {Level} {Subject} tutors find the question styles bleeding marks and push past it."*
+   > *"If your child is stuck just below a 7 on the higher {Subject} paper, they're in very good company in {Location}. Our {Location} {Level} {Subject} tutors find the question styles losing the marks and work on those first."*
 
 3. **Stake-led opener.** Name a local destination that depends on this subject.
-   > *"A Sandringham or Verulam sixth-form Maths offer routinely turns on the difference between a grade 7 and a clean 8. Our St Albans GCSE Maths tutors find the missing marks and earn the place."*
+   > *"If your child is hoping for A-Level Maths at Sandringham or Verulam, the difference between a 7 and a clean 8 can matter. Our St Albans GCSE Maths tutors find where the missing marks are going and work on those."*
 
 Total under 50 words. Use the plural keyword `{Location} {Level} {Subject} tutors` at least once.
 
@@ -308,13 +329,7 @@ These are the **uniqueness lever** for the page. Write them as if a parent who a
 
 ### `angle_stat_from` and `angle_stat_to`
 
-Use numbers/letters that fit the theme:
-- High-achieving GCSE: 6 → 8, 7 → 9
-- Low-achieving GCSE: 4 → 6, 3 → 5
-- High-achieving A-Level: B → A, A → A*, C → A
-- Low-achieving A-Level: D → B, U → C
-
-The `angle_stat_detail` should specify the timeline ("over a term", "in a single half-term", "across Year 12 to Year 13") rather than just "after tutoring".
+Take both grades from a real review that states them, never from the theme: Omo 5 → 6/7 (GCSE English only), Keira E → B (GCSE), Alexander C → A or Joanna E → C (A-Level). The `angle_stat_detail` names the reviewer and keeps to what the review says ("Omo's son went from a grade 5 to a 6/7 in English, in her Google review"). No timescales the review doesn't give.
 
 ### `schools` array
 
@@ -351,7 +366,7 @@ The three step titles are fixed ("Share your goals", "Meet your match", "Start t
 
 ### `reviews`
 
-Pull 5 reviews from the broader reviews pool (parent location page, parent level page, the master review list). Prefer reviews that:
+Pick 5 reviews. Copy reviews from `data/reviews.yaml` (Google) and `data/reviews-trustpilot.yaml` (Trustpilot), character for character: keep the reviewer's typos, emoji and line breaks (as `\n\n` inside a double-quoted string). Those files are the only source. Use first names only. A long review can be cut after a whole sentence and marked with " …", but never reworded, tidied or merged. Prefer reviews that:
 - Mention the subject by name (highest priority).
 - Match the achievement-level theme (mock-to-actual jumps for high-achieving, foundation-to-confidence for low-achieving).
 - Cover a mix of parent voices and student voices.
@@ -395,14 +410,15 @@ Don't reuse the same image across two same-city subject pages if you can avoid i
 
 ## Output checklist (before saving)
 
-- [ ] All 9 required uniqueness fields are populated and don't share more than 30% language with the parent location, parent level, or other subject siblings.
+- [ ] `python3 scripts/check-pages.py` passes on this file (no FAIL): under 30% of its own writing shared with any other page of its type, and no voice fails. Every WARN read.
+- [ ] Every parent-facing field talks to the parent about "your child", in the parent-chat voice from tone.md. Would Joe say it, word for word, on the phone?
 - [ ] At least 2 FAQs reference both location AND subject by name.
 - [ ] Achievement-level theme is consistent across hero, angle, and FAQs (no "we push grade 9s" + "we focus on foundation gaps" contradictions).
 - [ ] 3-4 named subject pain points appear at least once in the hero or angle body.
 - [ ] 1-2 named local schools appear in the angle copy.
 - [ ] No em dashes anywhere.
 - [ ] No banned vocabulary (cross-check against `.claude/reference/vocabulary.md`).
-- [ ] `robots: noindex` and `sitemap.disable: true` are set during pilot.
+- [ ] No `robots` or `sitemap.disable` lines (the pilot is over).
 - [ ] Output path matches `content/locations/{location-slug}-tutors/{level-slug}/{subject-slug}/_index.md` exactly.
 
 ## After saving

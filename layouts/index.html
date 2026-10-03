@@ -298,7 +298,7 @@
       <a href="{{ .RelPermalink }}" class="home-blog-card">
         {{ with .Params.hero_image }}
         <div class="home-blog-card__media">
-          <img src="{{ partial "url.html" . }}" alt="{{ $.Title }}" loading="lazy">
+          {{ partial "responsive-image.html" (dict "src" . "alt" "" "loading" "lazy" "widths" (slice 420 760) "fallbackWidth" 420 "sizes" "(min-width: 1000px) 360px, (min-width: 601px) 50vw, 100vw") }}
         </div>
         {{ end }}
         <div class="home-blog-card__body">
@@ -334,7 +334,12 @@
 {{ partial "formspree.html" . }}
 
 <!-- Sitewide Organization schema (homepage only) — consolidates the
-     business identity + canonical aggregateRating at the site root. -->
+     business identity at the site root. -->
+{{/* No aggregateRating here or anywhere else: the only ratings we have are
+     the Google Business Profile's, and Google's review snippet rules forbid
+     marking up ratings collected on another site. It never shows stars for a
+     business's rating of itself either, so the markup gained nothing and
+     risked a manual action. The Google badge on the page stays. */}}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -353,13 +358,6 @@
     "@type": "PostalAddress",
     "addressRegion": "Hertfordshire",
     "addressCountry": "GB"
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "{{ site.Data.review_stats.ratingValue }}",
-    "reviewCount": "{{ site.Data.review_stats.reviewCount }}",
-    "bestRating": "5",
-    "worstRating": "1"
   }
 }
 </script>

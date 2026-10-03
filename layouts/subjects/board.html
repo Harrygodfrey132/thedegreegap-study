@@ -257,8 +257,8 @@ weighting and pitfalls for THIS exact board. Reusable across board/subject combo
 </script>
 
 {{ if .Params.faqs }}
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{{ range $i,$f := .Params.faqs }}{{ if $i }},{{ end }}{"@type":"Question","name":{{ $f.q | jsonify }},"acceptedAnswer":{"@type":"Answer","text":{{ $f.a | jsonify }}}}{{ end }}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{{ range $i,$f := .Params.faqs }}{{ if $i }},{{ end }}{"@type":"Question","name":{{ $f.q }},"acceptedAnswer":{"@type":"Answer","text":{{ $f.a }}}}{{ end }}]}</script>
 {{ end }}
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":"{{ $board }} {{ $subject }} Tutoring | The Degree Gap","description":{{ .Description | jsonify }},"url":"{{ .Permalink }}","provider":{"@type":"EducationalOrganization","name":"The Degree Gap","url":"https://thedegreegap.com"},"serviceType":"Online Tutoring","offers":{"@type":"Offer","priceCurrency":"GBP","price":"37"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":"{{ $board }} {{ $subject }} Tutoring | The Degree Gap","description":{{ .Description }},"url":"{{ .Permalink }}","provider":{"@type":"EducationalOrganization","name":"The Degree Gap","url":"https://thedegreegap.com"},"serviceType":"Online Tutoring","offers":{"@type":"Offer","priceCurrency":"GBP","price":"37"}}</script>
 {{ end }}
 {{ end }}

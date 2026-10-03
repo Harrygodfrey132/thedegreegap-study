@@ -1,41 +1,41 @@
 ---
 title: "Bournemouth GCSE Tutors | One-to-One | The Degree Gap"
-description: "Bournemouth GCSE tutors who start from a marked paper, not the report. One-to-one online tutoring over Lessonspace, matched on the exam board, from £37 an hour."
+description: "Bournemouth GCSE tutors who start from your child's last marked paper, not the report. One-to-one and online, matched to their exam board, from £37 an hour."
 layout: "subject"
 location: "Bournemouth"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE tutors who give Bournemouth students the marked paper a big class can't"
+hero_heading_line1: "Online Bournemouth GCSE Tutors Who Find Where Your Child's Marks Went, Question by Question"
 hero_heading_line2: ""
-hero_lead: "A class of thirty can hand back a mark. It can't sit with one student and go through why each mark went. Our Bournemouth GCSE tutors do that first, one-to-one online over Lessonspace, before teaching anything new."
+hero_lead: "A class of thirty can hand back a mark. It can't sit beside your child and go through why each one went. Our Bournemouth GCSE tutors do that first, in one-to-one lessons online, before teaching anything new."
 
 grade_from: "5"
 grade_to: "6/7"
-grade_stat: "One Year 10 student's real GCSE English lift, from a grade 5 to a 6/7, across six months of weekly one-to-one sessions."
+grade_stat: "Six months after starting one-to-one lessons, Omo's Year 10 son had gone from a grade 5 to a 6/7 in English."
 
 first_lesson_eyebrow: "ONE SUBJECT, NOT THE AVERAGE"
 first_lesson_heading: "Why a Bournemouth GCSE Tutor Starts With One Subject's Last Paper"
-first_lesson_context: "The Bournemouth parents who ring us in Year 11 are rarely worried about the average. It's one subject: the Maths that has to reach a 7 for A-Level Maths at Bournemouth School or Highcliffe, or the English that a college course reads before anything else. So a GCSE tutor starts with that subject's last marked paper and finds which questions the marks left on."
+first_lesson_context: "When Bournemouth parents ring us about Year 11, it's rarely about the overall picture. It's one subject: the Maths grade an A-Level Maths course asks for at Bournemouth School or Highcliffe, or the English a college course looks at before anything else. So a GCSE tutor starts with that subject's last marked paper and finds the questions where your child's marks slipped away."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to a 6/7 in GCSE English"
 
-tutor_strip_heading: "Bournemouth GCSE tutors who work from the last marked paper"
-tutor_strip_body: "Send the last marked paper before the call. It tells us the board, the tier and the question types, and that decides who we propose. Every tutor cleared a founder-led interview that around 3% of applicants get through. Browse profiles, or leave the matching to us."
+tutor_strip_heading: "Bournemouth GCSE tutors, chosen once we've seen a marked paper"
+tutor_strip_body: "Send us your child's last marked paper before the call. It shows the exam board, the tier (higher or foundation) and the question types, which decides who we suggest. We interview every tutor ourselves, and about 3% of applicants join the platform. Have a browse, or let us pick."
 
-pathways_heading: "After Year 11 in Bournemouth: Who Reads Which Grade"
-pathways_lead: "Each of these routes prints its own numbers, and they are not the same numbers."
+pathways_heading: "After Year 11 in Bournemouth: Which Grades Each Route Looks At"
+pathways_lead: "Every route below publishes its own grades, and no two ask for quite the same thing."
 pathways:
   - title: "Sixth Forms"
     body: >
-      The grammar sixth forms at Bournemouth School, Bournemouth School for Girls, Poole Grammar and Parkstone take students in from other schools at 16 on GCSE grades, each against its own published tariff. The Bourne Academy, The Bishop of Winchester Academy, St Peter's, Twynham and Highcliffe run sixth forms with thresholds of their own, revised between years.
+      The grammar sixth forms at Bournemouth School, Bournemouth School for Girls, Poole Grammar and Parkstone all take in young people from other schools at 16, each against its own published grades. The Bourne Academy, The Bishop of Winchester Academy, St Peter's, Twynham and Highcliffe run sixth forms too, with entry grades of their own that can change from year to year.
   - title: "Apprenticeships"
     body: >
-      Sunseeker takes on technical apprentices at its Poole shipyard, trained through Bournemouth and Poole College's Marine Technology Centre, and the RNLI runs apprenticeships from its Poole headquarters. BCP Council and University Hospitals Dorset run schemes too, and a 4 or 5 in Maths and English sits under most of them.
+      Sunseeker takes on technical apprentices at its Poole shipyard, trained through Bournemouth and Poole College's Marine Technology Centre, and the RNLI runs apprenticeships from its headquarters in Poole. BCP Council and University Hospitals Dorset have schemes too, and most of them want at least a 4 or 5 in Maths and English.
   - title: "Further Education"
     body: >
-      Bournemouth and Poole College runs its sixth form centre at the Lansdowne campus, and Brockenhurst College over in the New Forest draws students from Bournemouth and Christchurch every year. Both publish entry requirements course by course, and GCSE resits are a normal route in for students who did not get there first time.
+      Bournemouth and Poole College runs its sixth form centre at the Lansdowne campus, and Brockenhurst College over in the New Forest takes plenty of teenagers from Bournemouth and Christchurch each year. Both set entry requirements course by course, and if your child doesn't get the grade they need first time, a resit alongside the course is a normal way in.
 
 reviews:
   - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. We opted for Avery and she was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back in her abilities and gave her the confidence to face Maths GCSE exams. Highly recommend Degree Gap and will be back again in September with my youngest embarking on her GCSEs"
@@ -51,14 +51,14 @@ reviews:
   - "Priya|Parent of GCSE Student|Thank you to Harry and Joe for a very informative webinar on a parent's guide to supporting GCSE success. Great advice and tips given and they sent useful free resources by email which my daughter will use to help with her upcoming exams."
   - "Bryan|Student|Helped me a lot and really showed me what i need to improve on"
 
-faq_1_q: "Which Bournemouth sixth forms take students from other schools at 16, and what do they look at?"
-faq_1_a: "Most of them. The four grammar sixth forms all admit students from other schools on GCSE grades: Bournemouth School publishes a points score across the best eight GCSEs plus a 6 in the subjects you carry on, Bournemouth School for Girls asks for six grade 6s, and Poole Grammar and Parkstone set their own bars with a 5 in Maths and in English underneath. The academy sixth forms, Twynham and Highcliffe publish thresholds with a different shape: a general floor, then subject-specific grades on top. Every one of them revises the page between years, so we read this year's version with you on the call."
+faq_1_q: "Which Bournemouth sixth forms will take my child from another school, and what do they look at?"
+faq_1_a: "Most of them. All four grammar sixth forms take young people from other schools, based on GCSE grades. Bournemouth School publishes a points score across the best eight GCSEs, plus a 6 in the subjects your child carries on with. Bournemouth School for Girls asks for six grade 6s, and Poole Grammar and Parkstone set their own bars, with a 5 in Maths and English underneath. The academy sixth forms, along with Twynham and Highcliffe, work a bit differently. There's a general minimum, then a grade for each subject on top. They all update these between years, so we'll read this year's version with you on the call."
 faq_2_q: "We're in Year 10. Do we start now or see how the Year 11 mocks go?"
-faq_2_a: "Start now if the choice is there. Year 10 is when the content steps up and the gaps are still small enough to close in a fortnight each, whereas the same gaps left until the mocks surface together and need a term. There's a second reason here. The sixth forms read the Year 11 mock grades when applications go in, so by the time a poor mock has told you something, it has already told them too. Year 11 starts still work, and plenty of families begin there, but the plan narrows to technique and past papers rather than teaching anything from the beginning."
-faq_3_q: "Can a tutor help before the Year 11 mocks that the sixth-form applications get judged on?"
-faq_3_a: "Yes, and the timing is the point. The mock papers come back in the autumn and winter of Year 11, and those are the grades on the form when the grammar sixth forms and the academies make conditional offers. Six to ten weekly hours before the mocks is enough to fix a technique problem, the question style that always drops three marks, the six-marker that never gets finished. A content gap takes longer, so the earlier the call the more we can do. Either way the tutor works from past papers marked the way an examiner marks them, not from a revision guide."
+faq_2_a: "Now, if you can. Year 10 is when the work steps up, and gaps are still small enough to close one at a time. Leave them until the mocks and they tend to show up all at once, which takes a term to sort. Plenty of families still start in Year 11 and it works. The plan just leans more on technique and past papers than on teaching topics from scratch."
+faq_3_q: "The Year 11 mocks feed into sixth form offers. Can a tutor help before then?"
+faq_3_a: "Yes, and timing matters here. Mocks come back in the autumn and winter of Year 11. Those are often the grades on the form when the grammar and academy sixth forms make conditional offers. Six to ten weekly lessons before the mocks can be enough to fix a technique problem. That might be a question style that always drops three marks, or a six-mark answer your child never finishes. A gap in what they know takes longer to close, and the tutor will tell you which one you're dealing with. Either way, it's past papers, marked the way an examiner would mark them."
 faq_4_q: "How much is a session, and do we have to commit to a block?"
-faq_4_a: "From £37 an hour, and no. The rate depends on the tutor's experience and is agreed with you before anything is booked, so there are no surprises later. You pay for sessions as you take them, with no joining fee, no materials fee and no minimum term. Most Bournemouth families settle into one weekly hour and add a second only in the few weeks before mocks. If the first tutor is not the right person for your child, tell us and we re-match without charge."
+faq_4_a: "From £37 an hour, and no, there's no block to buy. The rate depends on the tutor's experience, and we'll agree it with you before anything's booked. You pay lesson by lesson, with no joining fee, no materials fee and no minimum term. Most Bournemouth families settle into one lesson a week and only add a second in the few weeks before mocks. And if the first tutor isn't right for your child, just tell us and we'll find another at no charge."
 
 sitemap:
   priority: 0.7

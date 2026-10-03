@@ -1,41 +1,16 @@
 ---
 title: "Liverpool Tutoring | GCSE & A-Level Tutors"
-description: One-to-one Liverpool tutoring for Maths, English, Sciences and
-  more. Expert tutors, flexible online lessons and proven academic results.
+description: "Has a mock grade put your child's sixth form or university plans in doubt? Our Liverpool tutors find where the marks are going. Online, from £37, no contract."
 layout: single
 location: Liverpool
 banner_heading: "Need an online Liverpool tutor who actually closes the gap?"
-banner_description: Our Liverpool tutors identify exactly where things stopped
-  making sense and build a plan around that, not a generic programme that
-  assumes everyone starts from the same place.
-content_angle: attainment gap and aspiration
-intro_1: Liverpool is a city where ambition and attainment don't always line up.
-  GCSE results across the city sit below the national average, yet a significant
-  number of families here are pushing hard for competitive sixth form entry,
-  university places and professional careers. Students at Liverpool College, St
-  Edward's and Cardinal Heenan are working towards entry requirements that
-  demand consistent performance. And those requirements don't move. That
-  tension, between what a student is aiming for and what their results currently
-  show, is what brings most families to us. It's a gap that tutoring can close,
-  but only when it starts in the right place.
-intro_2: The Degree Gap tutoring works with Liverpool students through
-  one-to-one tuition that begins by finding where things actually went wrong,
-  not just where school last noticed. Some students arrive with gaps stretching
-  back a year or more. Others have the content knowledge but can't convert it
-  under timed exam conditions. Either way, tutors don't work from a fixed plan.
-  They find what the student knows, identify what's missing and build from
-  there. Most families tell us things start to shift within the first few
-  sessions. Not always in grades straight away. But the subject starts to feel
-  less like a wall.
+banner_description: "If your child's grades aren't matching the effort, our Liverpool tutors find the point where things stopped making sense and start there. Not from page one of a textbook."
+content_angle: "aspiration: your child's plans and their current grades don't line up yet"
+intro_1: "Your child has a plan. Maybe it's the sixth form at St Edward's, Liverpool College or Cardinal Heenan, maybe a university course, maybe a job they've already set their heart on. Then a mock comes home and the grade on it doesn't fit the plan at all. That gap, between where your child wants to go and what their results say right now, is why most Liverpool families ring us. It's more common than you'd think. GCSE results across the city sit below the national average. The sixth form entry grades don't drop to meet them, though."
+intro_2: "So the first thing a tutor does is look backwards. They'll go through a recent test or piece of homework with your child and work out where the marks are really going. For some children it's a gap from a year or more ago that nobody's had time to go back to. For others the knowledge is there, but it falls apart against the clock. The plan comes from whichever it is, not from a set programme. Most families tell us something shifts within the first few lessons. Not always the grade, and not straight away. But the subject stops feeling like a brick wall."
 about_heading: Experienced GCSE and A-Level Tutors in Liverpool
 about_image: /images/handwriting-study-notes-with-highlighters.jpg
-schools_intro: Students come to us from secondary schools right across
-  Liverpool, and our workshops on exam technique, revision planning and essay
-  structure are popular with students from Calderstones School, The Alsop High
-  School, Liverpool Blue Coat School, Archbishop Beck Catholic College, St
-  Edward's College and Gateacre School. Whether your child needs one-to-one
-  tutoring to close a specific gap or a short series of revision sessions before
-  mocks, we work with families from any Liverpool school.
+schools_intro: "Some families want weekly one-to-one lessons to close one stubborn gap. Others just want a short run of revision sessions before the mocks. Either's fine, and we hear from both at schools right across the city: Calderstones, The Alsop High School, Liverpool Blue Coat, Archbishop Beck Catholic College, St Edward's College, Gateacre and plenty more. We also run workshops on exam technique, revision planning and essay structure, and we work directly with more than 15 UK secondary schools."
 schools:
   - Calderstones School
   - The Alsop High School
@@ -44,25 +19,12 @@ schools:
   - St Edward's College
   - Gateacre School
 schools_image: /images/aerial-school-campus-building.jpg
-online_heading: "Online tuition for Liverpool students: find the right tutor,
-  not just a local one"
-online_1: Liverpool has two universities and a strong academic culture, but
-  finding the right tutor for a specific subject, year group and exam board can
-  still be difficult. Online tuition changes that. Students work with a
-  specialist matched to their exact needs, not whoever happens to be available
-  nearby. That matters when a student is preparing for competitive sixth form
-  entry or pushing for the top grade boundaries.
-online_2: Sessions run through Lessonspace, which has a shared interactive
-  whiteboard built for one-to-one work. Maths and science tutors use it
-  constantly. Most Liverpool students are comfortable with online tutoring
-  within the first session. No travel time, no scheduling headaches and the
-  flexibility to keep sessions going through mock season, school holidays and
-  the final stretch before exams.
+online_heading: "Online tuition for Liverpool families: the right tutor, not just the nearest"
+online_1: "Liverpool's a big university city, so finding a tutor sounds easy. Finding the right one is harder: someone who knows your child's subject, their year group and the exam board their school uses. Online, we aren't limited to whoever lives nearby. We pick from tutors right across the UK, and that counts for a lot when your child is chasing a sixth form place or stuck on the same grade for months."
+online_2: "Lessons happen in the online classroom Lessonspace. Your child and the tutor share a whiteboard, which Maths and Science tutors use all the time, and there's a replay of every lesson afterwards. Most children have got the hang of it within one lesson. And there's no driving across town, so it's easy to keep lessons going through mock season and the school holidays, right up to the exams."
 online_image: /images/student-studying-at-night-with-laptop.jpg
 map_url: https://maps.google.com/maps?q=Liverpool,UK&output=embed
-areas_intro: The Degree Gap tutoring works with students from Liverpool and
-  surrounding towns, matching each family with the tutor best suited to their
-  subject and goals.
+areas_intro: "Lessons are online, so a family in Wavertree has the same pick of tutors as one in Woolton or on the Wirral. We help families in these cities too."
 area_links:
   - Manchester Tutors|/locations/manchester-tutors/
   - Leeds Tutors|/locations/leeds-tutors/
@@ -71,135 +33,48 @@ area_links:
   - Derby Tutors|/locations/derby-tutors/
   - Leicester Tutors|/locations/leicester-tutors/
 gcse_subjects:
-  - GCSE English Tuition|Support across Language and Literature that builds a
-    reliable approach to analysis, so students write with purpose and stop
-    second-guessing every answer.|/book-a-call/
-  - GCSE Physics Tuition|Clear, methodical support through forces, energy, waves
-    and electricity that builds genuine understanding rather than surface-level
-    familiarity with the content.|/book-a-call/
-  - GCSE History Tuition|Strong essay technique and source analysis developed
-    over time, giving students the tools to write with confidence rather than
-    memory alone.|/book-a-call/
-  - GCSE Maths Tuition|Patient, focused support across number, algebra, geometry
-    and statistics, tracing gaps back to where they started and building from
-    there.|/book-a-call/
-  - GCSE Computer Science Tuition|Support that makes programming logic and
-    algorithmic thinking approachable, closing the gap between what students can
-    do in class and what exams ask for.|/book-a-call/
-  - GCSE Biology Tuition|Breaking down cell biology, genetics, ecology and
-    physiology into logical steps that students can hold onto under exam
-    conditions.|/book-a-call/
-  - GCSE French Tuition|Steady, targeted practice across all four skills that
-    builds the fluency to perform on exam day, not just in controlled classroom
-    conditions.|/book-a-call/
-  - GCSE Geography Tuition|Targeted support on case studies, data response and
-    extended writing across both physical and human topics, with a focus on exam
-    technique.|/book-a-call/
-  - GCSE Chemistry Tuition|Structured tuition through organic, inorganic and
-    physical chemistry that builds real understanding of reactions, not just the
-    ability to recall them.|/book-a-call/
+  - "GCSE English Tuition|A reliable way to analyse any extract, seen or unseen, so your child writes with a point to make instead of second-guessing every line.|/book-a-call/"
+  - "GCSE Physics Tuition|Forces, energy, waves and electricity, explained a step at a time until they make sense rather than just looking familiar.|/book-a-call/"
+  - "GCSE History Tuition|Source questions and essay technique practised week by week, so your child writes from understanding and not from memory alone.|/book-a-call/"
+  - "GCSE Maths Tuition|Number, algebra, geometry and statistics, with the tutor tracing any gap back to where it began and building up patiently.|/book-a-call/"
+  - "GCSE Computer Science Tuition|Programming logic made approachable, closing the gap between what your child can do in class and what the exam asks for.|/book-a-call/"
+  - "GCSE Biology Tuition|Cells, genetics, ecology and the human body, broken into steps they can still hold onto in the exam hall.|/book-a-call/"
+  - "GCSE French Tuition|Regular practice in listening, speaking, reading and writing, so it holds up on the day and not just in a quiet classroom.|/book-a-call/"
+  - "GCSE Geography Tuition|Case studies, data questions and the longer written answers across physical and human topics, with plenty of exam practice.|/book-a-call/"
+  - "GCSE Chemistry Tuition|The why behind each reaction, not just what to write down, from how atoms bond to the calculations on the paper.|/book-a-call/"
 alevel_subjects:
-  - A-Level Psychology Tuition|Methodical support through research methods, key
-    approaches and essay structure that makes the subject manageable and the
-    mark scheme less of a mystery.|/book-a-call/
-  - A-Level Maths Tuition|Advanced support across pure maths, mechanics and
-    statistics, with a strong focus on the multi-step problems that determine
-    where students end up in the grade boundaries.|/book-a-call/
-  - A-Level Geography Tuition|Advanced concepts, fieldwork analysis and extended
-    writing supported by tutors who pitch sessions at whatever level the student
-    is sitting at require.|/book-a-call/
-  - A-Level Chemistry Tuition|In-depth guidance through organic, inorganic and
-    physical chemistry for students who need the concepts explained clearly, not
-    repeated louder.|/book-a-call/
-  - A-Level English Tuition|Critical analysis and essay writing support that
-    helps students develop arguments with real depth and write at the level
-    A-Level examiners expect.|/book-a-call/
-  - A-Level Biology Tuition|Expert guidance through genetics, homeostasis and
-    ecology for students building the kind of understanding that translates into
-    exam marks, not just revision notes.|/book-a-call/
-  - A-Level History Tuition|Support that sharpens the ability to construct and
-    sustain complex historical arguments under timed conditions, at the level
-    competitive sixth forms and universities want.|/book-a-call/
-  - A-Level Economics Tuition|Rigorous one-to-one support through micro and
-    macroeconomic models, policy analysis and data interpretation, with a focus
-    on evaluation and applied thinking.|/book-a-call/
-  - A-Level Physics Tuition|Problem-focused tuition in advanced mechanics,
-    fields and quantum physics that builds the confidence to tackle unfamiliar
-    questions, not just familiar ones.|/book-a-call/
+  - "A-Level Psychology Tuition|Research methods, the key approaches and essay structure, until the mark scheme stops feeling like a mystery.|/book-a-call/"
+  - "A-Level Maths Tuition|Pure, mechanics and statistics, with lots of work on the long multi-step problems that decide where the grade lands.|/book-a-call/"
+  - "A-Level Geography Tuition|Tricky concepts, fieldwork analysis and extended writing, pitched at whatever level your child is working at right now.|/book-a-call/"
+  - "A-Level Chemistry Tuition|Organic, inorganic and physical chemistry, explained clearly the first time rather than repeated louder.|/book-a-call/"
+  - "A-Level English Tuition|Close analysis and essays with a proper argument running through them, written the way A-Level examiners want to see.|/book-a-call/"
+  - "A-Level Biology Tuition|Genetics, homeostasis and ecology, understood well enough to earn marks in the exam, not just fill a revision folder.|/book-a-call/"
+  - "A-Level History Tuition|Essays with an argument that holds from the first paragraph to the last, even with the exam clock running.|/book-a-call/"
+  - "A-Level Economics Tuition|Micro and macro models, policy questions and data, with lots of practice at the evaluation marks that often decide the grade.|/book-a-call/"
+  - "A-Level Physics Tuition|Mechanics, fields and quantum physics, practised until an unfamiliar question stops throwing your child.|/book-a-call/"
 other_subjects:
-  - University Personal Statement|Shape a strong UCAS personal statement with
-    expert support on structure, subject motivation, and final
-    polish.|/book-a-call/
-faq_1_q: Can you support students who have fallen significantly behind?
-faq_1_a: Yes. Some of the students we work with in Liverpool have gaps
-  stretching back a year or more. We start by working out exactly where things
-  went wrong, not just picking up from where school left off. Then we build a
-  plan around that.
-faq_2_q: How quickly can tuition start in Liverpool?
-faq_2_a: Usually within a few days of getting in touch. Once we know the
-  subject, level and what the student needs, we move quickly. No long waiting
-  lists.
-faq_3_q: What subjects do your Liverpool tutors cover?
-faq_3_a: Maths, English, Biology, Chemistry, Physics, History, Geography,
-  Economics, Psychology, French and more, across both GCSE and A-Level. If you
-  don't see the subject listed, just ask. We'll tell you honestly whether we can
-  help.
-faq_4_q: Do you offer online tutoring for students in Liverpool?
-faq_4_a: Yes, and it's how most of our sessions run. Students get access to a
-  wider pool of tutors, sessions are easier to keep consistent, and most
-  students concentrate better one-to-one online than they do in a classroom. It
-  works well.
-why_heading: What the first session reveals about Liverpool students
-why_para_1: Most students who come to us for tutoring aren't failing. The more
-  common pattern is a student who's keeping up well enough in class but can't
-  make it count in exams. When a tutor sits with them one-to-one for the first
-  time, the picture gets clearer quickly. Often there's a gap from Year 9 or 10
-  that nobody addressed, because the class kept moving and the student seemed
-  fine on the surface. Sometimes it's not the content at all. It's that they've
-  never been shown how to structure a timed answer, or how to work through a
-  question they don't immediately recognise.
-why_para_2: Tutors don't start by repeating what school has already covered.
-  They find the specific thing that's not working and address that first. For a
-  student preparing for competitive sixth form entry in Liverpool, that might
-  mean tightening exam technique in two or three subjects at once. For a student
-  who's lost confidence after a rough Year 10, it means rebuilding their sense
-  of what they actually know before pushing forward. Parents usually notice the
-  change in how their child talks about the subject before any results come
-  back.
-accordion_quality: Every tutor working with Liverpool students is assessed on
-  how clearly they explain things under pressure, not just their degree results.
-  For students aiming at competitive sixth forms or university entry from a city
-  where average attainment sits below the national average, that standard of
-  explanation matters enormously.
-accordion_experience: Tutors have experience working with Liverpool students
-  across GCSE and A-Level, including those preparing for competitive sixth form
-  entry where grade requirements are tight. They know the difference between a
-  student who needs content and a student who needs exam technique, and they
-  don't conflate the two.
-accordion_personalised: Tutors build sessions around what each student actually
-  needs, not a standard programme. For Liverpool students with gaps from earlier
-  years, that means tracing back to where things stopped clicking, not starting
-  from where the current syllabus says they should be.
+  - "University Personal Statement|A UCAS personal statement with a clear shape and a real reason for the course, polished until it still sounds like your child.|/book-a-call/"
+faq_1_q: "My child's miles behind. Is it too late for a tutor?"
+faq_1_a: "No, it isn't. Plenty of the Liverpool families we work with are dealing with gaps that go back a year or more. The tutor starts by finding where things first went wrong, rather than picking up wherever the class is now. Then they build from that point, one step at a time."
+faq_2_q: "How soon could lessons start?"
+faq_2_a: "Usually within a few days. Once we know the subject, the year group and what's worrying you, things move quickly. There's no waiting list."
+faq_3_q: "Which subjects can your Liverpool tutors help with?"
+faq_3_a: "Pretty much all of them at GCSE and A-Level: Maths, English, the Sciences, History, Geography, Economics, Psychology, French and more. If the one you need isn't listed, just ask. We'll tell you straight whether we can help."
+faq_4_q: "It's all online. Will my child really concentrate on a screen?"
+faq_4_a: "Most do, and plenty focus better one-to-one on a screen than in a busy classroom. Being online also gives you a far bigger pool of tutors to choose from. And lessons are much easier to keep going week after week when nobody has to travel."
+why_heading: "What a Liverpool tutor finds in the first lesson"
+why_para_1: "Most of the children we see aren't failing. They're fine in lessons and they keep up with homework, and then the exam comes and the marks just don't appear. Sit with them one-to-one for an hour and the reason usually shows itself. Often it's something from Year 9 or 10 that slipped past, because the class had to keep moving and your child looked fine. Sometimes it isn't the content at all. It's planning an answer against the clock, or knowing what to do with a question they don't recognise straight away. Those take one-to-one practice, and a busy class rarely has the time."
+why_para_2: "That's why the tutor doesn't re-teach what school has already covered. They go straight for the thing that isn't working. If your child is after a sixth form place, that might mean sharpening exam technique in two or three subjects at once. If they've had a rough Year 10 and lost their nerve, it means showing them how much they already know before anything new goes on top. You'll probably hear the change before you see it in a grade. Less \"I can't do this\". More actual chat about the subject over tea."
+accordion_quality: "Roughly 3% of the people who apply to tutor with us are taken on, and Joe or Harry has interviewed every one. A good degree only gets someone to that conversation. What we're really checking is whether they can explain something clearly when your child is stuck and the clock's ticking."
+accordion_experience: "The tutors we'd suggest have worked with plenty of Liverpool teenagers at GCSE and A-Level, including Year 11s chasing a sixth form place with tight entry grades. They can tell quickly whether your child needs the content taught again or needs to learn how to use it in an exam."
+accordion_personalised: "The plan starts from your child, not from a standard programme. If there are gaps from earlier years, the tutor goes back to where things stopped clicking, even if that's well behind where the class is now, and moves forward from there at a pace that suits them."
 reviews:
-  - Philippa|Parent of GCSE Student|I was really pleased to discover the Degree
-    Gap when my daughter needed help getting the grades she needed for GCSEs.
-    The team offer a really personalised service and I felt really well looked
-    after from the start. There are lots of tutors to choose from and all
-    subjects are catered for, with great flexibility on timings. Highly
-    recommend.
-  - Daljit|Parent of A-Level Student|My son gained almost two grades higher than
-    his year 13 mock paper. His tutor was excellent.
-  - Jessica|GCSE Student|I was helped with both Maths and English for my GCSEs
-    and passed both subjects with great results, which gave me the foundation
-    and confidence to go on to succeed in my A-levels and complete my degree.
-  - Nick|Parent of A-Level Student|Our son has been receiving tuition for
-    Psychology A Level. The tutor has provided a solid base of support outside
-    of school lessons and helped him to improve his latest grades.
-  - Heidi|Parent|Our tutor is simply amazing with our daughter. He understands
-    her completely and her sessions are helping her with her school work so
-    much. We cannot thank him enough.
-  - Bryan|GCSE Student|Helped me a lot and really showed me what i need to improve on
-    improve on.
+  - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings to fit around school lessons. …"
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Jessica|GCSE Student|I highly recommend Harry – he was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree!!"
+  - "Nick|Parent of A-Level Student|Sandra Sabu has been tutoring our son for Psychology A Level. Sandra has provided a solid base of tutoring outside of school lessons and helped him to improve his latest grades."
+  - "Heidi|Parent|Emir, is simply amazing with our daughter. He 'gets' her totally, her sessions are helping her with her school work so much. We can't thank him enough ! …"
+  - "Bryan|GCSE Student|Helped me a lot and really showed me what i need to improve on"
 sitemap:
   priority: 0.8
   changefreq: monthly
