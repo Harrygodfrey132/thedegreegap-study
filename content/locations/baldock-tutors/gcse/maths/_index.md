@@ -52,9 +52,9 @@ faqs:
 # FAQ picks: G02, A11, A04, E02, C10
 
 reviews:
-  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
-  - "Marfa|Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university"
-  - "Will|University Student|Harry helped me with writing a personal statement for a masters degree. The advice he offered helped significantly, giving great insight. I would definitely recommend him to others."
-  - "Lucas|A-Level Student|I was having trouble with some areas of my economics a level course before getting in contact with Harry. He walked me through everything I needed help with, from content I was weak with to exam technique that I was lacking. His insight, examples and willingness to go the extra step really helped me to regain my confidence in economics, having achieved a predicted a* with his help."
-  - "Nick|Parent of A-Level Student|Sandra Sabu has been tutoring our son for Psychology A Level. Sandra has provided a solid base of tutoring outside of school lessons and helped him to improve his latest grades."
+  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. We opted for Avery and she was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back in her abilities and gave her the confidence to face Maths GCSE exams. Highly recommend Degree Gap and will be back again in September with my youngest embarking on her GCSEs"
+  - "Hermione|GCSE Student|Came here to search for a GCSE maths tutor and was recommended Rebecca Hanna by the very helpful Harry. Rebecca was nothing but helpful and comforting. I highly recommend her, especially since she helped me pass the GCSE! Thank you."
+  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents.\n\nUPDATE: My daughter passed both English and Maths GCSE (4 and 5's). We are extremely grateful to your team especially Avery for the support she gave her in both subjects. Considering she missed a large chunk of the last 3 years at school due to a social anxiety illness, this is an amazing achievement for her."
+  - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Jessica|GCSE Student|I highly recommend Harry – he was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree!!"
 ---

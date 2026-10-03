@@ -52,9 +52,9 @@ faqs:
 # FAQ picks: A10, A13, C02, E03, G06
 
 reviews:
-  - "Nick|Parent of A-Level Student|Sandra Sabu has been tutoring our son for Psychology A Level. Sandra has provided a solid base of tutoring outside of school lessons and helped him to improve his latest grades."
-  - "Darren|Parent|A really helpful experience for supporting our Son.Thank you Joe,Harry and Matt."
-  - "Charlotte|Student|I cannot recommend Harry enough. He was helpful welcoming and helped me achieve a grade higher than I was expected!"
-  - "Google|Parent|I found the webinar incredibly helpful. It provided practical strategies that my child could start using straight away. The post-webinar support has been excellent, the extra resources and follow-up answers made a real difference."
-  - "Alex|University Student|Can’t recommend The Degree Gap highly enough. Quick and helpful responses from Harry. He immediately matched me with a very competent tutor, who was a massive help in helping me exceed my target grade and achieve a first class degree at university."
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+  - "Alexander|Parent of A-Level Student|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Leo|A-Level Student|The Degree Gap tutored me throughout my A level journey and helped boost my grades to the highest grades. The flexibility of timing was the most helpful thing. My tutor, Harry, found time whenever I needed him to help me on any topic. This involved question run through, marking of questions and general support throughout my 2 years of studying. Overall, the degree gap gave me excellent tutoring over a flexible time period."
+  - "John|Parent of A-Level Student|Freddie really enjoyed his time with The Degree Gap. He got help with his three A levels (maths, computer science and business) and managed to get his number one choice attending Liverpool Uni to study a masters in Maths. The tutors were organised, supportive and spent time understanding where the knowledge gaps where to ensure best chance of success in exams! Highly recommended"
 ---

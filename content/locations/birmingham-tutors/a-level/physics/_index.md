@@ -52,9 +52,9 @@ faqs:
 # FAQ picks: A10, A13, C05, E01, G06
 
 reviews:
-  - "Aila|Student|Harry was amazing! He helped me shape my personal statement into something I was truly proud of, and thanks to his support, I got into my dream university! Couldn’t have done it without him–highly recommend to anyone applying to uni."
-  - "Louis|University Student|I was struggling with my Business degree and reached out to Harry who helped me pass my Quantitative Analysis module. Highly recommend"
-  - "Annette|Parent|This company helped us find Jon Brettell for Geography and my son has excelled so much in just a few months. Jon has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself – a difficult task.  He also manages neurodiversity effectively."
-  - "Veronica|Parent|Very useful information and tips!! For parents as it was mentioned in the session it would be good to provide one for the students as general guidance !!"
-  - "Kasia|Parent|Harry is a great tutor. He's very helpful and knowledgeable. He's git goid understanding of student's needs as well as current situation when it comes to university education in the UK. His experience and expertise helped my son make some decisions about choosing A level subject and university course. I highly recommend Harry and Degree Gap."
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "John|Parent of A-Level Student|Freddie really enjoyed his time with The Degree Gap. He got help with his three A levels (maths, computer science and business) and managed to get his number one choice attending Liverpool Uni to study a masters in Maths. The tutors were organised, supportive and spent time understanding where the knowledge gaps where to ensure best chance of success in exams! Highly recommended"
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
 ---

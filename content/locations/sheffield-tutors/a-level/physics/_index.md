@@ -52,9 +52,9 @@ faqs:
 # FAQ picks: A08, A09, C07, E05, G06
 
 reviews:
-  - "Joel|Student|The degree gap is an amazing place and have helped me achieve so much and I am looking forward to it helping it achieve a higher class of skills and ready for the RAF"
-  - "Veronica|Parent|Very useful information and tips!! For parents as it was mentioned in the session it would be good to provide one for the students as general guidance !!"
-  - "Darren|Parent|A really helpful experience for supporting our Son.Thank you Joe,Harry and Matt."
-  - "Simon|Parent|Fantastic guidance for parents supporting kids with revision for GCSEs….practical advice and tools shared. Highly recommend!"
-  - "Amanda|Parent|\"I recently attended The Degree Gap’s free webinar for parents and it was incredibly eye-opening. Instead of the usual vague advice, Harry and Joe provided actual, actionable strategies for revision.  It’s helped me understand how to support my child without adding to their stress. Really enjoyed the guest expert session with Matt. Highly recommend for any parent feeling overwhelmed by the upcoming exam season! Very grateful for the bonus live Q&A and free downloads.”"
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+  - "Leo|A-Level Student|The Degree Gap tutored me throughout my A level journey and helped boost my grades to the highest grades. The flexibility of timing was the most helpful thing. My tutor, Harry, found time whenever I needed him to help me on any topic. This involved question run through, marking of questions and general support throughout my 2 years of studying. Overall, the degree gap gave me excellent tutoring over a flexible time period."
+  - "Alexander|Parent of A-Level Student|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Abby|Parent of A-Level Student|Harry has tutored my son in both maths and economics A-levels and has been fantastic. Harry has been professional, approachable and engaging, he has explained things clearly and has fully supported my son through the last 2 years. We are absolutely delighted with the results. Thank you!"
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
 ---
