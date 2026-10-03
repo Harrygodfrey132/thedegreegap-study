@@ -138,7 +138,7 @@ These pages must rank for level-specific tutoring searches. Google needs to see 
 
 1. **`title`** — must contain `[Location] {Level} Tutors` or `{Level} Tutor [Location]`.
 2. **`description`** — must contain `[Location] {Level} tutor` or `{Level} tutoring in [Location]` naturally (single mention is enough).
-3. **`hero_heading_line1`** — the H1. Must contain `{Location}` AND `{Level}` AND `Tutors`, plus a pain-point continuation. The whole H1 sits in this field (8-14 words). `hero_heading_line2` is deprecated and must be left as `""`.
+3. **`hero_heading_line1`** — the H1. Must start with "Online" (Harry, 3 Oct 2026) and contain `{Location}` AND `{Level}` AND `Tutors`, plus a pain-point continuation. The whole H1 sits in this field (8-14 words). `hero_heading_line2` is deprecated and must be left as `""`.
 4. **`hero_lead`** — should use the plural phrase `{Location} GCSE tutors` or `{Location} A-Level tutors` once (it's the natural anchor right under the H1). One mention is enough.
 5. **`first_lesson_heading`** — must contain `{Level} Tutor` or `{Level} Tutoring`.
 
@@ -264,7 +264,7 @@ tutors:
 
 ## Review Filtering (Both Pages)
 
-**CRITICAL: Reviews are real customer testimonials. The canonical Reviews Bank lives in `.claude/commands/build-location.md` under "Reviews Bank (use first names only, do not use full surnames)". 40 reviews are stored there. Open that file, find the bank, and copy each chosen review character-for-character.**
+**CRITICAL: Reviews are real customer testimonials. Copy reviews from `data/reviews.yaml` (Google) and `data/reviews-trustpilot.yaml` (Trustpilot), character for character: keep the reviewer's typos, emoji and line breaks (as `\n\n` inside a double-quoted string). Those files are the only source. Use first names only. A long review can be cut after a whole sentence and marked with " …", but never reworded, tidied or merged.**
 
 Do NOT:
 - Re-word any sentence, replace em dashes/apostrophes/punctuation, add or remove text
@@ -298,12 +298,11 @@ Pick one review per page to be the **anchor for the hero grade card AND the firs
 **Reviews with explicit grade jumps you can legitimately use as anchors:**
 
 GCSE anchors:
-- **Omo** — "improved from a grade 5 to a 6/7" in GCSE English → grade_from: "5", grade_to: "7"
+- **Omo** — "improved from a grade 5 to a 6/7" in GCSE English → grade_from: "5", grade_to: "6/7" (her words, not a 7)
 - **Keira** — "increase my grades from an E to a B" → grade_from: "E", grade_to: "B"
 - (limited bank — most GCSE reviews are qualitative)
 
 A-Level anchors:
-- **Daljit** — "two grades higher than his year 13 mock paper" → grade_from: "C", grade_to: "A" (interpretable two-letter jump)
 - **Joanna** — "turn E and U grades into 3 C grades" → grade_from: "E", grade_to: "C"
 - **Alexander** — "from Cs to As" → grade_from: "C", grade_to: "A"
 
@@ -313,6 +312,7 @@ A-Level anchors:
 - Mahir (Economics, "real grip of complicated areas") — vague
 - Sarom (Economics, "patience, motivator, subject matter expertise") — no grades
 - Alison (History + Sociology, "tremendous support, teaching content as well as exam technique") — no grades
+- Daljit ("almost two grades higher than jis year 13 mock paper") — names no grades. Existing hubs keep their Daljit cards (Harry, 2 Oct 2026), but new pages use Omo, Keira, Joanna or Alexander
 
 These reviews can still appear in the reviews carousel. They just can't anchor the grade card.
 
@@ -350,27 +350,27 @@ Count the characters. If the combination runs long, pick a shorter slot A.
 **Template behaviour:** the `<h1>` renders `hero_heading_line1` followed by an optional `<br>` and `hero_heading_line2`. **For these pages we use line 1 only. Leave `hero_heading_line2` blank (empty string `""`).**
 
 The H1 must be one coherent phrase that contains both:
-1. The SEO keyword (`{Location} {Level} Tutors` or `{Level} Tutors in {Location}`)
+1. The word "Online" first, then the SEO keyword (`Online {Location} {Level} Tutors` or `Online {Level} Tutors in {Location}`)
 2. The pain point or differentiator the page is anchored on
 
 **Length:** 8-14 words total. Long enough to carry a pain point, short enough to read as a heading at H1 size.
 
 **Structure (pick one shape):**
 
-1. `{Location} {Level} Tutors Who [verb pain]`
-   - `Manchester A-Level Tutors Who Lift Predicted Grades Before UCAS`
-   - `Bristol GCSE Tutors Who Close the Gap Before Mocks`
-2. `{Location} {Level} Tutors For [pain context]`
-   - `Liverpool GCSE Tutors For the Year 11 Mock Window`
-   - `Birmingham A-Level Tutors For the GCSE-to-A-Level Jump`
-3. `{Location} {Level} Tutors Built for [outcome]`
-   - `Derby GCSE Tutors Built for the Year 11 Sprint`
-4. `{Level} Tutors in {Location} Who [verb pain]`
-   - `A-Level Tutors in Manchester Who Push Predicted Grades Up`
-   - `GCSE Tutors in Bristol Who Fix Exam Technique Fast`
+1. `Online {Location} {Level} Tutors Who [verb pain]`
+   - `Online Manchester A-Level Tutors Who Lift Grades Before UCAS Predictions`
+   - `Online Bristol GCSE Tutors Who Close the Gap Before the Mocks`
+2. `Online {Location} {Level} Tutors for [pain context]`
+   - `Online Liverpool GCSE Tutors for the Year 11 Mock Window`
+   - `Online Birmingham A-Level Tutors for the Jump From GCSE`
+3. `Online {Location} {Level} Tutors Built for [outcome]`
+   - `Online Derby GCSE Tutors Built for the Year 11 Sprint`
+4. `Online {Level} Tutors in {Location} Who [verb pain]`
+   - `Online A-Level Tutors in Manchester Who Start With the Mock Paper`
+   - `Online GCSE Tutors in Bristol Who Work on Exam Technique`
 
 **Required:**
-- Contains `{Location}` AND `{Level}` AND `Tutors` (SEO H1 anchor)
+- Starts with `Online`, and contains `{Location}` AND `{Level}` AND `Tutors` (SEO H1 anchor)
 - Names a broadly-felt pain point (not a niche route like Oxbridge or HSBC)
 - One coherent phrase, not two stacked sentences
 - 8-14 words
@@ -393,7 +393,7 @@ The previous design split the H1 across two lines. That produced visual stacking
 
 These hooks are written in pain→solution Q+A shape. Each is anchored to a Year-group, mock-cycle or UCAS milestone that applies only at that level. Use them as inspiration when writing:
 
-- **The H1 (`hero_heading_line1`)** — extract the pain phrase, fit it into the 8-14 word H1 structure (`{Location} {Level} Tutors Who [verb the pain]`). E.g. hook #4 ("Stuck on a Year 8 topic that never clicked") → H1: `Birmingham GCSE Tutors Who Find the Year 8 Gap`.
+- **The H1 (`hero_heading_line1`)** — extract the pain phrase, fit it into the 8-14 word H1 structure (`Online {Location} {Level} Tutors Who [verb the pain]`). E.g. hook #4 ("Stuck on a Year 8 topic that never clicked") → H1: `Online Birmingham GCSE Tutors Who Find the Year 8 Gap`.
 - **The hero_lead paragraph** — use the hook as a starting point for sentence 1, then write a fresh solution in sentence 2 with the plural keyword.
 
 **Key rule:** for both H1 and lead, you want the **widest possible parent recognition**. The high-achievement hooks (#20-23, #41-45) are for niche segments and should usually NOT anchor the hero — most parents searching don't have a child applying to Oxbridge or HSBC. Save those niche framings for body sections (pathways, FAQ #1, tutor_strip).
@@ -473,7 +473,7 @@ Never paste verbatim. The bank is inspiration, not copy-paste source.
 
 **How to use the hook bank:**
 - Pick **one** hook that matches the city's strongest pain (the angle you identified in research).
-- For the H1 (`hero_heading_line1`): extract the pain phrase and fit it into the 8-14 word H1 structure (see the four H1 shapes above). E.g. hook #4 ("Stuck on a Year 8 topic that never clicked") → `Birmingham GCSE Tutors Who Find the Year 8 Gap`.
+- For the H1 (`hero_heading_line1`): extract the pain phrase and fit it into the 8-14 word H1 structure (see the four H1 shapes above). E.g. hook #4 ("Stuck on a Year 8 topic that never clicked") → `Online Birmingham GCSE Tutors Who Find the Year 8 Gap`.
 - For Hero Lead: use the hook's Q+A shape as a starting point, then rewrite both sentences with city-specific anchors (named school, employer, sixth-form).
 - Never paste the hook verbatim. The bank is inspiration, not copy-paste source. Pages need fresh wording.
 - Cross-check: if the last city's page used hook #N, your page picks a different one.
@@ -858,7 +858,7 @@ layout: "subject"
 location: "[Location]"
 level: "[GCSE or A-Level]"   # case-sensitive
 
-hero_heading_line1: "[Full H1, 8-14 words: Location + Level + Tutors + pain-point continuation. e.g. 'Birmingham GCSE Tutors Who Find the Year 8 Gap']"
+hero_heading_line1: "[Full H1, 8-14 words: Location + Level + Tutors + pain-point continuation. e.g. 'Online Birmingham GCSE Tutors Who Find the Year 8 Gap']"
 hero_heading_line2: ""   # DEPRECATED, always empty
 hero_lead: "[2-3 sentences, under 50 words. MUST use plural keyword '{Location} GCSE tutors' or '{Location} A-Level tutors' at least once. Broad GCSE/A-Level pain (NOT a niche local anchor). Pick a structural shape from Hero Lead section]"
 
@@ -1036,7 +1036,7 @@ For **each page** built:
 **SEO (hard anchors only — no body-section quotas):**
 - [ ] Title 65 chars or fewer, contains location + level
 - [ ] Description 145-160 chars, contains level + tutor/tutoring + location (one natural mention)
-- [ ] `hero_heading_line1` is the full H1 (8-14 words) containing location + level + Tutors + pain-point continuation
+- [ ] `hero_heading_line1` is the full H1 (8-14 words), starts with "Online", and contains location + level + Tutors + pain-point continuation
 - [ ] `hero_heading_line2` is `""` (empty)
 - [ ] `hero_lead` uses the plural phrase `{Location} {Level} tutors` once (natural anchor under the H1)
 - [ ] `first_lesson_heading` contains `{Level} Tutor` or `{Level} Tutoring`

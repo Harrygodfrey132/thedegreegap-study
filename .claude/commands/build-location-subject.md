@@ -242,8 +242,8 @@ angle_body_1: "[Paragraph 1 — diagnoses the specific pain pattern for this sub
 angle_body_2: "[Paragraph 2 — pivots to what a tutor does, and connects it to a local outcome (sixth-form offer, apprenticeship, university gate). Names at least one local school or destination. 80-110 words.]"
 angle_image: "/images/students-in-classroom-taking-notes.jpg"
 angle_image_alt: "A {Level} {Subject} student working through [specific topic] with a tutor"
-angle_stat_from: "[grade before — 4, 5, 6, B, C — fits the theme]"
-angle_stat_to: "[grade after — 7, 8, A, A* — typical lift of one or two bands]"
+angle_stat_from: "[grade before, from a review that states both grades: see below]"
+angle_stat_to: "[grade after, from the same review]"
 angle_stat_detail: "[The real grade lift behind angle_stat_from and angle_stat_to, in a parent's words and anchored to a real review, e.g. 'From a grade 5 to a 7 across Year 11, from one parent's Google review.' Don't say which town unless the review does.]"
 
 schools:
@@ -252,7 +252,7 @@ schools:
   - "[5-8 schools total]"
 
 steps_heading: "Start {Level} {Subject} tutoring in {Location} in 3 steps"
-steps_lead: "[One sentence. Mention typical match speed and one local pressure point that makes timing matter — e.g. 'Most {Location} families are matched within 24 hours, often ahead of the March mocks that set sixth-form predicted grades.']"
+steps_lead: "[One sentence. Mention typical match speed and one local pressure point that makes timing matter — e.g. 'Tutor profiles usually arrive within 24 hours of the call, so lessons can be running well before the mocks.']"
 steps:
   - title: "A free call about your child"
     body: "[Specific to this subject and city, said the way you'd say it to the parent: what you'll ask about on the call, the exam boards typical at local schools, the year group, the grade they're hoping for.]"
@@ -283,7 +283,7 @@ reviews:
 
 ### `hero_h1` — the H1
 
-Default: `Online {Level} {Subject} Tutors Covering {Location}`. Every location page H1 says "Online", because we don't have a physical presence in the town. Vary the rest when the page earns it ("Online GCSE Maths Tutors for Oxford Families"), since the H1 counts towards the 30% overlap. Keep it plain. No clever subtitles.
+Default: `Online {Level} {Subject} Tutors Covering {Location}`. Every location page H1 starts with "Online" (Harry, 3 Oct 2026), because we don't have a physical presence in the town. Vary the rest when the page earns it ("Online GCSE Maths Tutors for Oxford Families"), since the H1 counts towards the 30% overlap. Keep it plain. No clever subtitles.
 
 ### `card_eyebrow`, `card_heading`, `card_points`, `card_cta` — consultation card (optional)
 
@@ -329,13 +329,7 @@ These are the **uniqueness lever** for the page. Write them as if a parent who a
 
 ### `angle_stat_from` and `angle_stat_to`
 
-Use numbers/letters that fit the theme:
-- High-achieving GCSE: 6 → 8, 7 → 9
-- Low-achieving GCSE: 4 → 6, 3 → 5
-- High-achieving A-Level: B → A, A → A*, C → A
-- Low-achieving A-Level: D → B, U → C
-
-The `angle_stat_detail` should specify the timeline ("over a term", "in a single half-term", "across Year 12 to Year 13") rather than just "after tutoring".
+Take both grades from a real review that states them, never from the theme: Omo 5 → 6/7 (GCSE English only), Keira E → B (GCSE), Alexander C → A or Joanna E → C (A-Level). The `angle_stat_detail` names the reviewer and keeps to what the review says ("Omo's son went from a grade 5 to a 6/7 in English, in her Google review"). No timescales the review doesn't give.
 
 ### `schools` array
 
@@ -372,7 +366,7 @@ The three step titles are fixed ("Share your goals", "Meet your match", "Start t
 
 ### `reviews`
 
-Pull 5 reviews from the broader reviews pool (parent location page, parent level page, the master review list). Prefer reviews that:
+Pick 5 reviews. Copy reviews from `data/reviews.yaml` (Google) and `data/reviews-trustpilot.yaml` (Trustpilot), character for character: keep the reviewer's typos, emoji and line breaks (as `\n\n` inside a double-quoted string). Those files are the only source. Use first names only. A long review can be cut after a whole sentence and marked with " …", but never reworded, tidied or merged. Prefer reviews that:
 - Mention the subject by name (highest priority).
 - Match the achievement-level theme (mock-to-actual jumps for high-achieving, foundation-to-confidence for low-achieving).
 - Cover a mix of parent voices and student voices.
