@@ -8,7 +8,7 @@
 
 {{/* ── Hero ── */}}
 {{ $heroH1   := .Params.hero_h1   | default (printf "Online %s %s Tutors in %s" $level $subject $loc) }}
-{{ $heroLead := .Params.hero_lead | default (printf "One-to-one %s %s tutors who fit around school, find the exact marks slipping in the top mark band, and rebuild from there. Vetted, matched to your exam board, online from £37/hr." (lower $subject) $level) }}
+{{ $heroLead := .Params.hero_lead | default (printf "If %s is the worry at home, our one-to-one %s tutors can help. They work online with your child, find the marks that keep slipping away and start there. Lessons from £37 an hour, no contract." (lower $subject) $level) }}
 
 {{/* ── Consultation card (per-page overridable) ── */}}
 {{ $cardEyebrow := .Params.card_eyebrow | default "FREE CONSULTATION" }}
@@ -21,35 +21,35 @@
 
 {{/* ── Subject angle ── */}}
 {{ $angleEyebrow  := .Params.angle_eyebrow  | default (printf "WHERE THE %s %s MARKS GO" ($level | upper) ($subject | upper)) }}
-{{ $angleHeading  := .Params.angle_heading  | default (printf "What a strong %s %s tutor actually does for %s students" $level $subject $loc) }}
-{{ $angleBody1    := .Params.angle_body_1   | default (.Params.angle_body | default (printf "Most %s students know more %s than their mock grade suggests. The marks they're losing sit in two or three specific places. An algebra step that quietly broke earlier, a topic the school rushed through, the question style that always loses three marks." $loc $subject)) }}
-{{ $angleBody2    := .Params.angle_body_2   | default (printf "A good %s %s tutor sits a student through harder questions than school sets, finds those exact gaps in week one, and the plan from session two works back through them. For %s sixth-form offers, that's the difference that earns the place." $level $subject $loc) }}
+{{ $angleHeading  := .Params.angle_heading  | default (printf "What a good %s %s tutor actually does for your child in %s" $level $subject $loc) }}
+{{ $angleBody1    := .Params.angle_body_1   | default (.Params.angle_body | default (printf "In %s, as anywhere, plenty of children know more %s than their mock grade shows. If that sounds like your child, the lost marks usually sit in two or three places. A method that never quite stuck. A topic that went by fast in a busy class. A type of question that costs them marks every time." $loc $subject)) }}
+{{ $angleBody2    := .Params.angle_body_2   | default (printf "In the first lesson, a %s %s tutor goes through a recent paper with your child to see exactly where the marks went. From the second lesson, the plan works back through those gaps, one at a time. For %s families, it means the lessons go on what's costing marks now, not on what your child already knows." $level $subject $loc) }}
 {{ $angleImage    := .Params.angle_image    | default "/images/students-in-classroom-taking-notes.jpg" }}
-{{ $angleImageAlt := .Params.angle_image_alt | default (printf "A %s student working through a %s problem with a tutor" $level $subject) }}
+{{ $angleImageAlt := .Params.angle_image_alt | default (printf "Students taking notes at their desks, like a %s %s class at school" $level $subject) }}
 {{ $mapUrl        := .Params.map_url        | default (printf "https://maps.google.com/maps?q=%s,UK&output=embed" (replace $loc " " "+")) }}
 {{ $angleStatFrom   := .Params.angle_stat_from   | default (cond $isAlevel "C" "6") }}
 {{ $angleStatTo     := .Params.angle_stat_to     | default (cond $isAlevel "A" "8") }}
 {{/* The fallback states what the sessions aim at. It must never assert that a
      specific student in this city achieved it, because we cannot evidence that. */}}
-{{ $angleStatDetail := .Params.angle_stat_detail | default (printf "Where a term of weekly one-to-one %s %s sessions is typically aimed." $level $subject) }}
+{{ $angleStatDetail := .Params.angle_stat_detail | default (printf "What weekly one-to-one %s %s lessons aim for. Never a promise." $level $subject) }}
 {{ $schools := .Params.schools | default (slice) }}
 
 
 {{/* ── 3 Steps (per-page overridable) ── */}}
 {{ $stepsHeading := .Params.steps_heading | default (printf "Start %s %s tutoring in %s in 3 steps" $level $subject $loc) }}
-{{ $stepsLead    := .Params.steps_lead    | default "From first call to first lesson in under a week, with no admin and no obligation." }}
+{{ $stepsLead    := .Params.steps_lead    | default "Most families have a first lesson booked within a week of the call, and it's pay as you go, lesson by lesson." }}
 {{ $steps := .Params.steps | default (slice
-  (dict "title" "Share your goals" "body" (printf "Tell us your child's year group, school, exam board, current grade and the %s %s grade they're aiming at in %s. We listen, take notes, and ask the right questions." $level $subject $loc))
-  (dict "title" "Meet your match" "body" (printf "Within 24 hours we send two or three vetted %s %s tutor profiles for %s, with a recommended first match. Free 15-minute video meeting before any session is booked." $level $subject $loc))
-  (dict "title" "Start the lessons" "body" (printf "Weekly one-to-one %s sessions over Lessonspace, our shared interactive whiteboard. Pay only for sessions you take, from £37/hr. Cancel any time." $subject))) }}
+  (dict "title" "A free call about your child" "body" (printf "Harry or Joe will ask about your child: their year group and exam board, how %s %s is going, and their school or college in %s. It's how we work out which tutors to suggest." $level $subject $loc))
+  (dict "title" "Choose your tutor" "body" (printf "Within 24 hours of the call, you'll get two or three profiles of %s %s tutors covering %s. Your child can meet the one you both like the look of on a free 15-minute video meeting, before anything is booked." $level $subject $loc))
+  (dict "title" "Weekly lessons online" "body" (printf "One-to-one %s lessons each week in the online classroom Lessonspace, with a replay of every lesson. From £37 an hour, with no contract. And if your child doesn't click with their tutor, we'll find a different one at no charge." $subject))) }}
 
 {{/* ── FAQs ── */}}
 {{ $defaultFaqs := slice
-  (dict "q" (printf "What makes a good %s %s tutor?" $level $subject) "a" (printf "Subject knowledge is a must, but the real difference is the ability to find the exact point where a student stopped following, sometimes a year or two before %s, and explain it in a way that finally lands. Our %s %s tutors are vetted on how clearly they explain difficult ideas under pressure, not just on degree results. Around 3% of applicants come onto the platform." $level $level $subject))
-  (dict "q" (printf "How do you match my child with the right %s %s tutor in %s?" $level $subject $loc) "a" (printf "We start with a free 15-minute consultation: year group, exam board, current grade, target grade, the school they're at in %s, and personality fit. We then send two or three %s %s tutor profiles within 24 hours, with a recommended first match. If the first session doesn't feel right, we move you to another tutor at no charge." $loc $level $subject))
-  (dict "q" (printf "Which exam boards do your %s %s tutors cover?" $level $subject) "a" (printf "All major UK exam boards: AQA, Edexcel, OCR, WJEC and CIE. When we make an introduction, we check the tutor knows your child's specific specification. A %s %s tutor who knows the exact mark scheme can target the right content from session one rather than burning time on generic revision." $level $subject))
-  (dict "q" (printf "How much does %s %s tutoring cost in %s?" $level $subject $loc) "a" (printf "From £37 per hour. Rates vary by tutor and experience level. You see the agreed rate before any session is booked. Most %s families take weekly hour-long sessions, with a second session added in the run-up to mocks." $loc))
-  (dict "q" (printf "How quickly can my child start %s %s tutoring in %s?" $level $subject $loc) "a" (printf "Usually within a few days. After the free 15-minute consultation we'll send two or three %s %s tutor profiles within 24 hours, and most %s families have a first lesson booked within a week. Sessions run online over Lessonspace, our shared interactive whiteboard, so timing is flexible around school." $level $subject $loc))
+  (dict "q" (printf "What makes a good %s %s tutor?" $level $subject) "a" (printf "Being able to spot where your child stopped following, sometimes a year or two before %s, and explain it so it finally makes sense. Knowing the subject is only the start. We vet our %s %s tutors on their subject knowledge, how clearly they explain things and how they get on with young people. Only about 3%% of applicants get through." $level $level $subject))
+  (dict "q" (printf "How do you choose a %s %s tutor for my child in %s?" $level $subject $loc) "a" (printf "It starts with a free consultation call, usually about 30 minutes. We'll ask about your child's year group and exam board, their grades now and what they're hoping for, their school in %s, and what they're like as a person. Then we pick two or three %s %s tutors we think will suit them, and you choose. If the first tutor isn't right, we'll suggest someone else at no charge." $loc $level $subject))
+  (dict "q" (printf "Will your %s %s tutors know my child's exam board?" $level $subject) "a" (printf "Yes. Between them, tutors on our platform cover AQA, Edexcel, OCR and WJEC Eduqas, plus Cambridge (CIE) if your child's school uses it. We'll only suggest tutors who know your child's board. Each board words its questions a little differently, so a %s %s tutor who knows the mark scheme can practise the kind of questions your child will see. Not sure which board it is? We'll help you check on the call." $level $subject))
+  (dict "q" (printf "How much does %s %s tutoring cost in %s?" $level $subject $loc) "a" (printf "Lessons start from £37 an hour. The exact rate depends on the tutor, and you'll know it before anything's booked. There's no contract and no joining fee. Most families have one lesson a week, and because it's all online, nobody's driving across %s on a school night." $loc))
+  (dict "q" (printf "How quickly can my child start %s %s tutoring in %s?" $level $subject $loc) "a" (printf "Usually within a week. Two or three %s %s tutor profiles arrive within 24 hours of the free consultation call, and your child can meet the tutor you pick on a free video call. Lessons happen in the online classroom Lessonspace, so they fit around school and clubs wherever you are in %s. Every lesson has a replay too." $level $subject $loc))
 }}
 {{ $faqs := .Params.faqs | default $defaultFaqs }}
 
@@ -69,13 +69,9 @@
 {{ $tutors := first 4 (shuffle $matched) }}
 
 {{/* ── Reviews ── */}}
-{{ $reviews := .Params.reviews | default (slice
-  "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B."
-  "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of working with Malvina, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons."
-  "Daljit|Parent of A-Level Student|My son gained almost two grades higher than his year 13 mock paper. His tutor Jacob was excellent."
-  "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
-  "Philippa|Parent of GCSE Student|I was really pleased to discover The Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after from the start. Highly recommend."
-  "Alexander|Parent|The Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and applications.") }}
+{{/* A page without its own reviews falls back to real, verbatim ones from
+     data/reviews.yaml, filtered to the page's level. */}}
+{{ $reviews := .Params.reviews | default (first 6 (partial "default-reviews.html" (dict "level" $level))) }}
 
 {{/* ── Sibling subjects ── */}}
 {{ $parent := .Parent }}
@@ -103,7 +99,7 @@
           <span class="lvls-hero__meta-dot" aria-hidden="true">·</span>
           <span>Online using the platform Lessonspace, plus replay available</span>
           <span class="lvls-hero__meta-dot" aria-hidden="true">·</span>
-          <span>Tutoring Specialists of the Year 2025 &amp; 2026</span>
+          <span>GCSE Tutoring Specialists of the Year 2025 &amp; 2026</span>
         </div>
       </div>
 
@@ -150,8 +146,8 @@
       <div class="lvls-about__copy">
         <p class="lvls-about__eyebrow">WHO WE ARE</p>
         <h2 class="lvls-about__title">We know UK education and what parents like you are up against</h2>
-        <p>The Degree Gap is a UK-based company that knows education inside out. Outside of tutoring, we run webinars for thousands of parents, speak at schools about GCSE and A-Level preparation, and have spent years listening to the same worries you're probably about to bring to us. We find you tutors with the grades but also the compassion and ability to listen to your child's worries.</p>
-        <p>That is what got us voted GCSE Tutoring Specialists of the Year at the 2026 Prestige Awards and why we have over 100 5 star reviews.</p>
+        <p>We're Harry and Joe, and we were both tutored growing up. We each had one tutor who was excellent and one who was only okay, so we learnt early how much the match matters. These days we're in schools during the day running workshops. In the evenings, we're on the phone to parents with the same worries you might have.</p>
+        <p>So we meet every tutor ourselves, and we look for people who know their subject and will really listen to your child. We were voted GCSE Tutoring Specialists of the Year at the Prestige Awards in 2025 and 2026.</p>
         <a href="{{ "book-a-call/" | relURL }}" class="lvls-about__cta">Speak to one of us about your child &rarr;</a>
       </div>
     </div>
@@ -202,7 +198,7 @@
 
         {{ if $schools }}
         <p class="lvls-angle__schools">
-          <strong>Schools we can help support students from:</strong>
+          <strong>We can help children from schools including:</strong>
           {{ delimit $schools ", " " and " }}.
         </p>
         {{ end }}
@@ -222,8 +218,8 @@
   <div class="container">
     <div class="lvls-midcta__inner">
       <div class="lvls-midcta__copy">
-        <p class="lvls-midcta__eyebrow">USUALLY MATCHED WITHIN 24 HOURS</p>
-        <h2>Book a free 15-minute call about your child's {{ $level }} {{ $subject }} in {{ $loc }}</h2>
+        <p class="lvls-midcta__eyebrow">TUTOR PROFILES WITHIN 24 HOURS OF THE CALL</p>
+        <h2>Book a free 30-minute call about your child's {{ $level }} {{ $subject }} in {{ $loc }}</h2>
       </div>
       <div class="lvls-midcta__actions">
         <a href="{{ "book-a-call/" | relURL }}" class="btn btn-primary btn-lg lvls-midcta__btn">Book a Free Consultation</a>
@@ -292,7 +288,7 @@
     <div class="lvls-tutors__head">
       <p class="loc-eyebrow">MEET THE TUTORS</p>
       <h2>Some of our {{ $level }} {{ $subject }} tutors covering {{ $loc }}</h2>
-      <p>A small selection of the {{ $level }} {{ $subject }} tutors in our network. We match each {{ $loc }} student personally to the tutor who best fits their year group, exam board and the gap they're trying to close.</p>
+      <p>Just a few of the {{ $level }} {{ $subject }} tutors in our network. We match every {{ $loc }} family personally. After your call, we'll pick two or three who fit your child's year group, exam board and what they're finding hard.</p>
     </div>
     {{ if $tutors }}
     <div class="lvls-tutors__grid">
@@ -312,7 +308,7 @@
       {{ end }}
     </div>
     {{ else }}
-    <p class="lvls-tutors__empty">Get in touch and we'll send four {{ $subject }} tutor profiles within 24 hours.</p>
+    <p class="lvls-tutors__empty">After a free call with us, you'll get two or three {{ $subject }} tutor profiles within 24 hours.</p>
     {{ end }}
     <div class="lvls-tutors__cta">
       <a href="{{ "book-a-call/" | relURL }}" class="btn btn-primary">Ask us to match you</a>
@@ -333,7 +329,7 @@
   <div class="container">
     <div class="lvls-reviews__head">
       <div>
-        <h2 id="lvls-reviews-title">Over a hundred parents and students<br>have rated us 5.0/5</h2>
+        <h2 id="lvls-reviews-title">Over 100 parents and students<br>have given us five stars on Google</h2>
       </div>
       <div class="lvls-reviews__nav">
         <button type="button" class="lvls-reviews__btn" data-lvls-prev aria-label="Previous review">
@@ -353,15 +349,16 @@
         {{ $role := index $parts 1 }}
         {{ $text := index $parts 2 }}
         {{ $accent := index $accents (mod $i 6) }}
+        {{ $meta := partialCached "review-meta.html" (dict "name" $name "text" $text) $name (substr $text 0 40) }}
         <article class="lvls-review-card">
           <div class="lvls-review-card__avatar" style="background: {{ $accent }};">
             <span>{{ substr $name 0 1 }}</span>
           </div>
           <h3 class="lvls-review-card__name">{{ $name }}</h3>
-          <p class="lvls-review-card__role">Verified five-star review</p>
+          <p class="lvls-review-card__role">{{ $meta.label }}</p>
           <p class="lvls-review-card__quote">"{{ $text }}"</p>
           <p class="lvls-review-card__byline">{{ $role }}</p>
-          <span class="lvls-review-card__stars" aria-label="5 stars">★★★★★</span>
+          <span class="lvls-review-card__stars" aria-label="{{ $meta.rating }} out of 5 stars">{{ $meta.stars }}</span>
         </article>
         {{ end }}
       </div>
@@ -396,8 +393,8 @@
 <section class="lvls-quietcta">
   <div class="container">
     <p>
-      Want results like this for your child's {{ $level }} {{ $subject }} in {{ $loc }}?
-      <a href="{{ "book-a-call/" | relURL }}">Book a free 15-minute consultation →</a>
+      Thinking about a tutor for your child's {{ $level }} {{ $subject }} in {{ $loc }}?
+      <a href="{{ "book-a-call/" | relURL }}">Book a free consultation call →</a>
     </p>
   </div>
 </section>
@@ -413,7 +410,7 @@
     </svg>
   </div>
   <div class="container">
-    <h2 class="lvls-faq__title">Read our FAQs</h2>
+    <h2 class="lvls-faq__title">Questions parents ask us</h2>
     <div class="lvls-faq__list">
       {{ range $i, $faq := $faqs }}
       <details class="lvls-faq__item"{{ if eq $i 0 }} open{{ end }}>
@@ -431,6 +428,10 @@
   </div>
 </section>
 
+{{/* seo.html already emits the FAQPage for a page's own faqs list, so this
+     block only covers the template's default FAQs. Two FAQPage blocks on one
+     page is a structured-data error. */}}
+{{ if not .Params.faqs }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -439,13 +440,14 @@
     {{ range $i, $faq := $faqs }}{{ if $i }},{{ end }}
     {
       "@type": "Question",
-      "name": {{ $faq.q | jsonify }},
-      "acceptedAnswer": { "@type": "Answer", "text": {{ $faq.a | jsonify }} }
+      "name": {{ $faq.q }},
+      "acceptedAnswer": { "@type": "Answer", "text": {{ $faq.a }} }
     }
     {{ end }}
   ]
 }
 </script>
+{{ end }}
 
 <!-- =============================================
      SECTION 7: FINAL CTA — Book Free Consultation
@@ -454,14 +456,14 @@
   <div class="container">
     <div class="lvls-cta__inner">
       <div class="lvls-cta__copy">
-        <p class="lvls-cta__eyebrow">Get started today</p>
+        <p class="lvls-cta__eyebrow">Whenever you're ready</p>
         <h2>Book your free<br>{{ $subject }} consultation</h2>
-        <p>A short, friendly call about your child's {{ $subject }}. Where they're stuck, what they're aiming at, and which {{ $level }} {{ $subject }} tutor in our network is the right match. No obligation.</p>
+        <p>A short, friendly call about your child's {{ $subject }}: where they're stuck, what they're aiming for, and which {{ $level }} {{ $subject }} tutors in our network would suit them. No obligation.</p>
         <a href="{{ "book-a-call/" | relURL }}" class="btn btn-primary btn-lg">Book Consultation</a>
-        <p class="lvls-cta__assurance">First lesson risk-free · No contracts · Cancel any time</p>
+        <p class="lvls-cta__assurance">Free call · Lessons from £37 · No contract</p>
       </div>
       <div class="lvls-cta__illustration" aria-hidden="true">
-        {{ partial "responsive-image.html" (dict "src" "/images/students-in-classroom-taking-notes.jpg" "alt" (printf "%s %s tutoring consultation with The Degree Gap" $level $subject) "loading" "lazy" "fallbackWidth" 700 "widths" (slice 400 700 1000) "sizes" "(min-width: 700px) 50vw, 100vw" "quality" 72) }}
+        {{ partial "responsive-image.html" (dict "src" "/images/students-in-classroom-taking-notes.jpg" "alt" (printf "Students taking notes at their desks, like a %s %s class at school" $level $subject) "loading" "lazy" "fallbackWidth" 700 "widths" (slice 400 700 1000) "sizes" "(min-width: 700px) 50vw, 100vw" "quality" 72) }}
       </div>
     </div>
   </div>
@@ -542,9 +544,9 @@
 <section class="lvls-deeper">
   <div class="lvls-deeper__inner">
     <h2>More on {{ $level }} {{ $subject }}</h2>
-    <p class="lvls-deeper__sub">Sessions run online, so a {{ $loc }} family works with the right specialist rather than the nearest one.</p>
+    <p class="lvls-deeper__sub">Lessons are online, so you're not limited to tutors who live near {{ $loc }}. We look for the tutor who'll suit your child.</p>
     {{ with $hubPage }}
-    <a class="lvls-deeper__feat" href="{{ .RelPermalink }}">How we tutor {{ $level }} {{ $subject }} <span>&rarr;</span></a>
+    <a class="lvls-deeper__feat" href="{{ .RelPermalink }}">How our {{ $level }} {{ $subject }} tutoring works <span>&rarr;</span></a>
     {{ end }}
     {{ with $boardPages }}
     <p class="lvls-deeper__label">Matched to the exam board your child actually sits</p>
@@ -553,7 +555,7 @@
     </div>
     {{ end }}
     {{ with $nearby }}
-    <p class="lvls-deeper__label">{{ $level }} {{ $subject }} tutors covering nearby</p>
+    <p class="lvls-deeper__label">{{ $level }} {{ $subject }} tutors covering other areas</p>
     <div class="lvls-deeper__grid">
       {{ range first 4 . }}<a class="lvls-deeper__pill" href="{{ .RelPermalink }}">{{ .Params.location }}</a>{{ end }}
     </div>

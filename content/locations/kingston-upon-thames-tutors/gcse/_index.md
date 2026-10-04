@@ -1,41 +1,41 @@
 ---
 title: "Kingston upon Thames GCSE Tuition | From £37/hr | The Degree Gap"
-description: "Kingston upon Thames GCSE tutors working ahead of the sixth-form applications that close before Christmas. One-to-one online over Lessonspace, from £37 an hour."
+description: "Kingston upon Thames GCSE tutors for the months before sixth-form applications go in. Online and one-to-one, a free call with us first, from £37, no contract."
 layout: "subject"
 location: "Kingston upon Thames"
 level: "GCSE"
 
 hero_heading_line1: "Online Kingston upon Thames GCSE Tutors Who Find Missing Marks Before Sixth-Form Applications"
 hero_heading_line2: ""
-hero_lead: "Some sixth-form applications around Kingston close before Christmas of Year 11, on grades nobody has sat yet. Our Kingston upon Thames GCSE tutors work one-to-one online over Lessonspace on the marks a mock is losing, before the prediction gets written."
+hero_lead: "Around Kingston, some sixth-form applications close before Christmas of Year 11, so they're read on grades your child hasn't sat yet. It can feel very early. Our Kingston upon Thames GCSE tutors work one-to-one online on the topics losing marks in the mock, before the predicted grades are written."
 
 grade_from: "E"
 grade_to: "B"
-grade_stat: "A real GCSE lift from an E to a B, in the student's own words, after weekly one-to-one sessions."
+grade_stat: "In a GCSE student's own words, tutoring helped take their grades from an E to a B."
 
-first_lesson_eyebrow: "AN E THAT DID NOT STAY AN E"
+first_lesson_eyebrow: "AN E THAT DIDN'T STAY AN E"
 first_lesson_heading: "What a Kingston upon Thames GCSE Tutor Reads Before the Forms Go In"
-first_lesson_context: "Sixth-form entry here runs on paper written months before the exams: predicted grades from the autumn mock, read by Tiffin, Kingston Grammar and the school sixth forms across the borough. So a GCSE tutor's first job in Year 11 is the mock script itself, because where the marks went says what the next ten weeks are for. The report says working hard; the paper says which topic."
+first_lesson_context: "A report might say 'working hard' while the marked mock shows exactly which topic the marks went on, so that paper is the first thing a GCSE tutor asks to see. In Kingston it carries extra weight, because Tiffin, Kingston Grammar and the other sixth forms often read predicted grades long before the exams, and those grades lean on the autumn mock. Where the marks went decides what the next ten weeks are for."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B at GCSE"
 
 tutor_strip_heading: "Kingston upon Thames GCSE tutors who know which sixth forms read the autumn mock"
-tutor_strip_body: "Students at Tiffin, Coombe, Challoner, Holy Cross and Hollyfield don't all sit the same board, so the specification is the first thing we confirm. Each tutor clears a founder-led interview that around 3% of applicants pass. Browse the profiles, or let us match your child."
+tutor_strip_body: "Tiffin, Coombe, Challoner, Holy Cross and Hollyfield don't all use the same exam board, so we'll check your child's before suggesting anyone. We interview every tutor ourselves, and only around 3% of applicants get through. You can browse the tutors below, or leave the choosing to us."
 
 pathways_heading: "Where Kingston upon Thames Year 11s Apply Next, and When"
-pathways_lead: "Three routes, and the calendar each one runs on."
+pathways_lead: "Three routes your child might take, and the calendar each one runs on."
 pathways:
   - title: "Sixth Forms"
     body: >
-      Tiffin School takes external sixth-form applicants with a deadline at the end of the autumn term, Kingston Grammar makes conditional offers before Christmas, and The Tiffin Girls' School decides its handful of external places on results day itself. Coombe, Richard Challoner with Holy Cross, Tolworth Girls' and Hollyfield each run their own sixth forms and publish their own requirements, revised between years.
+      Tiffin School's deadline for outside applicants is the end of the autumn term, Kingston Grammar makes conditional offers before Christmas, and The Tiffin Girls' School fills its few outside places on results day. Coombe, Richard Challoner with Holy Cross, Tolworth Girls' and Hollyfield run their own sixth forms too, each with entry grades that can change from year to year.
   - title: "Apprenticeships"
     body: >
-      Kingston Council runs apprenticeships for anyone over sixteen, from GCSE-equivalent up to degree level, and the trust behind Kingston Hospital takes on apprentices with protected study time. Most school-leaver routes ask for grade 4 or 5 in Maths and English before anything else gets read.
+      Kingston Council offers apprenticeships to anyone over sixteen, from GCSE level right up to degree level, and the trust that runs Kingston Hospital takes apprentices on with time set aside for study. Most school-leaver schemes want a 4 or 5 in Maths and English before they'll look at anything else.
   - title: "Further Education"
     body: >
-      Kingston College, part of South Thames Colleges Group, runs A Level+ pathways that pair A-Levels with BTECs alongside its vocational courses. Esher Sixth Form College, just over the border in Thames Ditton, asks for at least five GCSEs at grade 4 for a Level 3 programme, with a grade 6 in the subject for A-Level Maths and the Sciences.
+      Kingston College, part of South Thames Colleges Group, mixes vocational courses with A Level+ options, where A-Levels sit alongside BTECs. Just over the border in Thames Ditton, Esher Sixth Form College has asked for five grade 4s, plus a 6 in the subject for A-Level Maths and the Sciences, so check this year's list.
 
 reviews:
   - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
@@ -51,14 +51,14 @@ reviews:
   - "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
   - "Bryan|Student|Helped me a lot and really showed me what i need to improve on"
 
-faq_1_q: "The sixth-form forms go in before Christmas. Can tutoring change anything by then?"
-faq_1_a: "Yes, if it starts in September or October rather than after the mock. The autumn mock is what most predicted grades get built from, and eight to ten weekly hours on the two or three topics losing the most marks is usually enough to move a paper a band. A start after the mock still helps, and plenty of Kingston families do it, but the work narrows to technique and past papers rather than teaching anything from the beginning. Either way the first session is the marked script, because that's the only honest picture of where the marks went."
+faq_1_q: "The sixth-form applications go in before Christmas. Can tutoring change anything by then?"
+faq_1_a: "Yes, and it helps most if lessons start in September or October, before the mock. Most predicted grades lean heavily on that autumn paper. So eight to ten weekly lessons, aimed at the two or three topics losing your child the most marks, give the tutor time to work on them first. Nobody can promise a grade, but that's the window that counts. Starting after the mock still helps, and lots of Kingston families do. The work just narrows to technique and past papers. Either way, the first lesson begins with the marked paper, because that's the clearest picture of where the marks went."
 faq_2_q: "Everything runs online. Does a distracted fifteen-year-old actually engage with that?"
-faq_2_a: "More often than parents expect, and for a simple reason: there's nowhere to hide on a shared whiteboard. On Lessonspace the tutor sees the working as it's written, so a student can't nod along the way they can in a room of thirty. Sessions are one-to-one, an hour long and recorded, which means a worked example can be replayed before a test. Most Year 10s are settled inside the first lesson. If yours isn't, tell us, and we look at whether it's the format or the match."
-faq_3_q: "She has quietly slipped in two subjects at once. Where do you even start?"
-faq_3_a: "With the one that gates the most. In Kingston that's usually Maths or English, because sixth forms and colleges read those two before anything else, and a slip there tends to have a single cause you can find on a marked paper. Two subjects don't need two hours a week from day one. We'd normally start with one tutor and one subject, get the pattern of lost marks clear, then add the second only if the first isn't the root of both. Often it is."
-faq_4_q: "My daughter is fussy about who explains things to her. What if the first tutor isn't right?"
-faq_4_a: "Then we change it, at no cost and without anyone asking her to justify it. Every family speaks with Harry or Joe before a tutor is proposed, and there's a free 15-minute video call with the tutor before any paid session, which catches most mismatches early. At fifteen, how somebody explains a thing matters as much as whether they know it, and that's hard to judge from a profile. No contract, no minimum term, so nothing is lost by trying a second name."
+faq_2_a: "More often than parents expect, and for a simple reason: there's nowhere to hide on a shared whiteboard. In the online classroom Lessonspace, the tutor sees your child's working appear line by line, so nodding along doesn't work the way it can in a class of thirty. Lessons are one-to-one and an hour long, with a replay of every one, so a worked example can be watched again the night before a test. Most Year 10s settle in during the first lesson. If yours doesn't, tell us, and we'll look at whether it's the format or the match."
+faq_3_q: "She's quietly slipped in two subjects at once. Where do you even start?"
+faq_3_a: "With whichever one matters most for next year. Around Kingston that's usually Maths or English, because sixth forms and colleges look at those two before anything else. And a slip there often has one cause you can spot on a marked paper. You don't need two hours a week from day one. We'd normally start with one tutor and one subject, get clear on where the marks are going, and only add the second if it still needs it. Quite often the same gap was behind both."
+faq_4_q: "My daughter's fussy about who explains things to her. What if the first tutor isn't right?"
+faq_4_a: "Then we'll change it, at no cost, and nobody will ask her to explain why. Every family talks to Harry or Joe before we suggest a tutor, and there's a free 15-minute video call with the tutor before any paid lesson, which catches most mismatches early. At fifteen, the way someone explains things matters as much as what they know, and you can't really judge that from a profile. There's no contract and no minimum term, so trying a second tutor costs you nothing."
 
 sitemap:
   priority: 0.7

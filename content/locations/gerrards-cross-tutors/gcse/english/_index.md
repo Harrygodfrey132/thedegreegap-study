@@ -1,16 +1,16 @@
 ---
 title: "GCSE English Tutors Covering Gerrards Cross | The Degree Gap"
 nav_title: "English"
-description: "GCSE English tutors covering Gerrards Cross for Language and Literature, matched to your child's set texts and exam board. Online, one-to-one, from £37."
+description: "Schools pick their own GCSE English books, so our Gerrards Cross tutors are matched to your child's set texts and exam board. One-to-one, online, from £37."
 layout: "level-subject"
 location: "Gerrards Cross"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Gerrards Cross Teenagers Who Know the Book but Run Out of Time"
-hero_lead: "If your child understands the books but the essays come back short or unfinished, that's one of the most common things we see. Our Gerrards Cross GCSE English tutors work on quotations, planning and timing, using the texts your child is actually studying."
+hero_h1: "Online GCSE English Tutors for Gerrards Cross Teenagers Who Run Out of Time Before Their Best Point"
+hero_lead: "If your child understands the books but the essays come back short or unfinished, that's one of the most common things we see. Our Gerrards Cross GCSE English tutors work on quotations, planning and timing, using the books your child's own school has chosen."
 
-card_heading: "Talk to a member of the team to start the matching process"
+card_heading: "Tell us about your child's English, and the books they're studying"
 card_points:
   - "A free consultation call, usually around 30 minutes, to get to know you and your child"
   - "2 or 3 tutor profiles within 24 hours of the call"
@@ -18,13 +18,13 @@ card_points:
 
 angle_eyebrow: "TWO CHILDREN, TWO READING LISTS"
 angle_heading: "Why GCSE English Looks Different in Every Gerrards Cross House"
-angle_body_1: "Ask two Gerrards Cross teenagers at different schools what they're reading for GCSE and you may get two completely different lists. Each school picks its own novel, play and poetry cluster, and sometimes its own board. What doesn't change is where the marks slip. Literature is closed book, so quotations have to be remembered, not looked up. Unseen poetry can't be revised, only practised. And on the Language papers, the long writing task comes last, when your child is tired and there's a quarter of an hour left. Most of that is technique, not reading ability."
-angle_body_2: "So a tutor starts from your child's own set texts, because help on the wrong book is no help at all. Then it's short quotation lists learnt properly, a quick plan before the first sentence, and timed paragraphs on the shared whiteboard, where the tutor can comment as your child writes. For a student who dreads English, the first win is often finishing on time. For one who's already confident, it's sharper comments on language and structure. Both matter for the sixth forms at Chalfonts, Thorpe House or the grammars, where English Literature is a popular A-Level."
+angle_body_1: "Ask another Gerrards Cross parent what their child's reading for GCSE English. At a different school, their list may have nothing in common with your child's. Each school picks its own novel, play and poems, and sometimes its own exam board. Where the marks slip doesn't change, though. Literature is closed book, so quotations have to be remembered, not looked up. Unseen poetry, a poem your child meets for the first time on the day, can be practised but not revised. And on the Language papers the long writing task comes last, when your child's tired and there's a quarter of an hour left. Most of that is technique, not reading ability."
+angle_body_2: "That's why the tutor works from your child's own books, since help on the wrong novel is no help at all. Quotations get chosen from those texts and learnt properly. A plan goes down before the first sentence. Then your child writes against a timer while the tutor comments on the whiteboard. If English is the subject your child dreads, finishing on time is often the first win. If they're already confident, lessons go after the marks for close analysis: why the writer picked that word, or put that scene there. Both matter if A-Level English Literature at Chalfonts, Thorpe House or one of the grammars is on your child's list."
 angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"
-angle_image_alt: "Highlighted poem annotations from an online GCSE English lesson"
+angle_image_alt: "Highlighter pens on printed notes, beside a lined page being written on"
 angle_stat_from: "5"
 angle_stat_to: "6/7"
-angle_stat_detail: "The move one Year 10 parent describes in English after six months of one-to-one lessons. Every child is different, and we never promise a grade."
+angle_stat_detail: "The jump one parent describes for their Year 10 son in English, after six months of one-to-one lessons. Every child's different, and we never promise a grade."
 
 schools:
   - "Beaconsfield High School"
@@ -34,27 +34,27 @@ schools:
   - "Thorpe House School"
   - "Dr Challoner's High School"
 
-steps_heading: "Start online GCSE English tutoring in Gerrards Cross in 3 steps"
-steps_lead: "Tell us the novel, the play and the poems, because for Literature those decide who we suggest."
+steps_heading: "Matching your child with a GCSE English tutor in Gerrards Cross"
+steps_lead: "Have your child's novel, play and poems to hand when we talk, as they help us choose the right tutors."
 steps:
   - title: "A free consultation call"
-    body: "A free consultation call, usually around 30 minutes, where we get to know you and your child so we can personalise everything from there. It helps to know whether the essays are unfinished or just not scoring, since those need different help."
+    body: "A chat with Harry or Joe, the co-founders, which usually takes around 30 minutes. We'll ask about your child, their school and the books they're studying. It also helps to know whether their essays run out of time or run out of things to say, because each needs different help."
   - title: "Meet 2 or 3 tutors"
-    body: "Within 24 hours you'll get profiles of 2 or 3 tutors who know your child's board and set texts. Your child meets your favourite on a free video call before anything is booked."
+    body: "You'll have 2 or 3 tutor profiles within 24 hours, each picked for your child's board and set texts. Then your child can meet the one you like most on a free video call, before anything's booked."
   - title: "Start weekly lessons"
-    body: "An hour a week online, using the platform Lessonspace, plus replay available, with essays written against the clock and marked as they go. Lessons from £37, no contract."
+    body: "An hour a week on the platform Lessonspace, with every lesson saved to watch again. Most weeks end with some timed writing, marked before your child logs off. From £37, no contract."
 
 faqs:
   - q: "What grade does my child need in GCSE English to take it at A-Level around Gerrards Cross?"
-    a: "It depends on the sixth form, and each one publishes its own requirements every year. Chalfonts, Thorpe House, St Mary's and the grammar schools all set a grade for English Literature at A-Level, and the more popular subjects often ask a bit higher than the general entry grade. The safest thing is to check the current sixth form booklet for each school your child is considering, then work back from there with the tutor."
+    a: "It depends on the sixth form. Chalfonts, St Mary's, Thorpe House and the grammar schools each publish their own rules every year. Usually there's a general entry grade plus a grade for each A-Level, and the subject grade can be higher. So the safest thing is to read this year's sixth form guide for each school on your child's list. Then the tutor can work back from the grade it asks for."
   - q: "My child reads loads. Why are they struggling with GCSE English?"
-    a: "Because the exam rewards something reading alone doesn't build: a planned, timed argument about a text. Lots of keen readers understand the book really well, then write essays that retell the story instead of explaining how it works, or run out of time before their best point. Others were never really shown how to plan. The tutor looks at a recent essay first and works out which one it is."
+    a: "Usually because loving a book and writing about it against the clock aren't the same thing. A keen reader often knows the story so well that they retell it, when the marks are for how the writer creates effects. Some have more ideas than time, so their best point never reaches the page. Others haven't settled on a way to plan yet. The tutor reads a recent essay and works out which it is."
   - q: "What actually happens in a GCSE English lesson?"
-    a: "Most lessons are an hour in three parts. First, a look at last week's piece, with the tutor going through what earned marks and what didn't. Then the main part, on whatever is costing the most, perhaps unseen poetry or opening a Literature essay well. Last, a short timed paragraph on the same thing, so your child practises it under a bit of pressure. Every lesson has a replay to look back on."
-  - q: "My child has dyslexia. Can you still help with English?"
-    a: "Yes. English leans heavily on reading speed and long stretches of writing, so it's often where the right support helps most. Tutors break essays into small named steps, use visual plans on the whiteboard, and build timing up gradually. Lessons are recorded too, so your child can rewatch an explanation rather than relying on notes. Tell us about any diagnosis or exam arrangements on the call and we'll choose tutors with that in mind."
-  - q: "My child doesn't really want a tutor. Is that normal?"
-    a: "Very normal, and it's probably the thing parents mention most. It usually changes once they meet the tutor, because it feels nothing like an English lesson at school. There's one person, their full attention and nobody else listening. That's why your child meets the tutor on a free video call first. If they really don't get on with it after a couple of lessons, you simply stop."
+    a: "Most are an hour, in three parts. First the tutor goes back over last week's piece with your child: what earned marks, what didn't, and why. Then the main part, on whatever's costing the most right now, perhaps unseen poetry or getting a Literature essay off to a strong start. Last comes a short timed paragraph on the same thing, so your child practises it with a bit of pressure on. There's a replay of every lesson to look back on, too."
+  - q: "Dyslexia makes English harder for my child. Can you still help?"
+    a: "Yes. English asks for so much reading and writing at speed that it's often where one-to-one help shows most for a child with dyslexia. The tutor breaks each essay into a handful of named steps, puts the plan on the whiteboard and brings in the clock a little at a time. Lessons are recorded, so your child can rewatch an explanation instead of scrambling to take notes. Let us know about it when we talk, along with any exam arrangements, and it'll shape which tutors we suggest."
+  - q: "What if my child won't even consider a tutor?"
+    a: "Let them meet the tutor first, on a free video call, before anything's booked. It's a very common worry, and often the first thing a parent tells us. Most teenagers imagine an extra hour of school. What they find is one adult, books they already know and no class listening in. And if they're still not keen after a couple of lessons, you stop. Nothing's locked in."
 # FAQ picks: G01, A07, A08, E03, C07
 
 reviews:

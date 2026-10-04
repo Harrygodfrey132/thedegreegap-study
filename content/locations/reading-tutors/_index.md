@@ -1,39 +1,16 @@
 ---
 title: "Reading Tutors | GCSE & A-Level from £37/hr"
-description: Find expert Reading tutors for GCSE and A-Level support.
-  Personalised tuition from £37/hr to help students achieve top grades and exam
-  success.
+description: "Online Reading tutors for GCSE and A-Level. A free call to get to know your child, then 2 or 3 tutor profiles within 24 hours. Lessons from £37, no contract."
 layout: single
 location: Reading
-banner_heading: "Looking for an online Reading tutor who knows what this area actually demands?"
-banner_description: The Degree Gap tutoring connects Reading students with
-  vetted tutors who understand the pressure here and what it takes to meet it.
-content_angle: exam pressure / grammar school competition
-intro_1: Reading School and Kendrick School are two of the most selective state
-  schools in England. Both are massively oversubscribed, and both sit in the
-  national top tier for results. That changes the atmosphere across the whole
-  town. Students at comprehensives and independents feel it too. The bar for
-  what counts as a good grade shifts when you live in a place where the grammar
-  school students are competing for Russell Group offers and Oxbridge places.
-  Families here don't talk about getting by. They talk about getting the grades.
-intro_2: "That pressure is real, and it's not always served well by a classroom
-  of thirty. The Degree Gap tutoring provides one-to-one tuition that gives
-  Reading students the individual attention a school lesson simply can't. Our
-  tutors work through exactly what's holding a student back: the gaps, the
-  technique, the confidence under timed conditions. Whether a student is aiming
-  for a top grade at GCSE, fighting to secure a place in a competitive sixth
-  form, or pushing at A-Level, tuition builds the kind of targeted progress that
-  a classroom can't deliver on its own."
+banner_heading: "Looking for an online Reading tutor who gets the pressure your child is under?"
+banner_description: "Round here, a good grade can start to feel like a let-down. Our tutors find what's really costing your child marks, and work on that."
+content_angle: "exam pressure / grammar school competition, told from the parent's side: the bar every Reading family feels"
+intro_1: "It often starts at the school gate, or in a group chat. Someone's daughter has a Kendrick place, someone's son is at Reading School, and your child's perfectly decent mock result suddenly doesn't feel decent at all. Both grammars are heavily oversubscribed, and they're two of the most selective state schools in England, so the pressure spreads well beyond their gates. Families at the comprehensives and the independents feel it too. And a lot of teenagers feel it more than they let on."
+intro_2: "A class of thirty can't stop for the one topic your child keeps tripping over. A one-to-one tutor can. In the first lesson they'll look at a recent mock or a marked essay and work out whether it's the content or the exam technique that's losing marks. Some Reading families come to us with their eye on a sixth form that asks for strong grades. Others want A-Level to stop feeling like a wall. Either way, the tutor works towards your child's goal, not the one next door."
 about_heading: The Reading Tutors Who Get Results
 about_image: /images/university-lecture-hall.jpg
-schools_intro: Our tutors work with students from schools right across Reading,
-  from those sitting GCSEs at Prospect School, The Bulmershe School and John
-  Madejski Academy, to those at Reading Blue Coat School, The Abbey School and
-  Little Heath School. A lot of these students are aiming for competitive sixth
-  form entry at Reading School, Kendrick, or a college requiring strong GCSE
-  grades, and one-to-one tuition is often what makes the difference in hitting
-  those requirements. We also run revision workshops on exam technique, study
-  habits and subject strategy, open to students from any local school.
+schools_intro: "We can work with families from right across Reading, from Prospect, The Bulmershe School, John Madejski Academy and Little Heath to Reading Blue Coat and The Abbey. Lots of their Year 11s have one eye on a sixth form place, whether that's at Reading School, Kendrick or a college that wants strong GCSE grades. Each one publishes its own requirements, so we'll talk through the one your child's aiming for when we first speak. Away from tutoring, Harry and Joe run revision and exam technique workshops in schools. We also work directly with more than 15 UK secondary schools."
 schools:
   - Prospect School
   - The Bulmershe School
@@ -42,23 +19,12 @@ schools:
   - The Abbey School
   - Little Heath School
 schools_image: /images/school-clock-tower-building.jpg
-online_heading: "Online tuition for Reading students: access the right tutor,
-  not just the nearest one"
-online_1: Most of our online tuition with Reading students runs through
-  Lessonspace, a platform with an interactive shared whiteboard built for
-  one-to-one learning. It means students don't lose time travelling, and
-  families aren't tied to whoever happens to live in the next street. A student
-  who needs a specialist in Further Maths, A-Level Chemistry or GCSE Computer
-  Science gets matched with the right tutor. Not just a convenient one.
-online_2: For families in Reading, that matters. The academic standard here is
-  high. A tutor who knows the material at a surface level won't move the needle
-  for a student competing in this environment. Online tuition lets us match on
-  depth of knowledge and teaching quality, and most students are comfortable
-  with the format from the first session. It works.
+online_heading: "Online tutoring in Reading, with the tutor who suits your child best"
+online_1: "Every lesson runs on the platform Lessonspace. Your child and the tutor share one whiteboard. The tutor watches the working as it happens and can catch a mistake on the line where it starts. There's a replay of each lesson afterwards, too. And because nobody's driving anywhere, you aren't limited to whoever lives in the next street. If your child needs someone for Further Maths or A-Level Chemistry, we can look right across the country."
+online_2: "For Reading families, that wider choice matters. When the bar feels this high, a tutor who half-remembers the topic isn't much use. We'd rather find your child someone who knows their exam board inside out and can explain it calmly. Most children have forgotten about the screen by the end of the first lesson."
 online_image: /images/student-studying-at-night-with-laptop.jpg
 map_url: https://maps.google.com/maps?q=Reading,UK&output=embed
-areas_intro: Finding the right tutor matters more than finding the nearest one,
-  which is why we support families across Reading and well beyond.
+areas_intro: "It doesn't matter which side of Reading you live on, or how far out, because every lesson's online. We also help families in the towns and cities below."
 area_links:
   - Oxford Tutors|/locations/oxford-tutors/
   - Southampton Tutors|/locations/southampton-tutors/
@@ -67,134 +33,48 @@ area_links:
   - Swindon Tutors|/locations/swindon-tutors/
   - Cambridge Tutors|/locations/cambridge-tutors/
 gcse_subjects:
-  - GCSE Maths Tuition|Sharp exam-technique support across number, algebra,
-    geometry and statistics for students pushing towards the top grade
-    boundaries.|/book-a-call/
-  - GCSE Computer Science Tuition|Solid grounding in programming logic,
-    algorithms and data structures, the subject where Reading's tech-connected
-    students often want to excel.|/book-a-call/
-  - GCSE French Tuition|Accurate, fluent support across speaking, writing,
-    reading and listening for students who want the grade to match their
-    effort.|/book-a-call/
-  - "GCSE Geography Tuition|Case studies, data response and extended writing:
-    everything students need to score well in one of the most
-    mark-scheme-dependent GCSE subjects.|/book-a-call/"
-  - GCSE Chemistry Tuition|Clear explanations of reactions, bonding and
-    calculations, building real understanding rather than surface-level
-    recall.|/book-a-call/
-  - GCSE English Tuition|Targeted support across Language and Literature, from
-    unpicking unseen texts to writing under pressure with focus and
-    precision.|/book-a-call/
-  - GCSE Physics Tuition|Problem-solving support across forces, waves and
-    electricity, with a focus on applying knowledge under timed
-    conditions.|/book-a-call/
-  - GCSE History Tuition|Source analysis, essay structure and content recall,
-    built around the demands of Reading students who want results, not just
-    revision.|/book-a-call/
-  - GCSE Biology Tuition|From cells and genetics to ecosystems and physiology,
-    support that makes complex systems logical and memorable.|/book-a-call/
+  - "GCSE Maths Tuition|Past papers marked the way examiners mark them, so your child learns where the method marks are, whatever grade they're on now.|/book-a-call/"
+  - "GCSE Computer Science Tuition|Algorithms and programming logic made solid, which matters if your child already has half an eye on the tech firms at Thames Valley Park.|/book-a-call/"
+  - "GCSE French Tuition|Regular speaking practice and vocabulary that actually sticks, so the grade starts to match the hours your child puts in.|/book-a-call/"
+  - "GCSE Geography Tuition|Geography marks lean hard on the mark scheme, so we practise the data questions and longer answers until the format feels routine.|/book-a-call/"
+  - "GCSE Chemistry Tuition|Bonding and moles explained until they make sense, so your child isn't memorising answers and hoping for the best.|/book-a-call/"
+  - "GCSE English Tuition|Language and Literature, from making sense of an unseen extract to finishing an essay before the time runs out.|/book-a-call/"
+  - "GCSE Physics Tuition|Forces, waves and electricity, practised on timed questions until using an equation under pressure feels normal.|/book-a-call/"
+  - "GCSE History Tuition|Source questions and essays planned in a few minutes, so all that revision finally turns into marks on the page.|/book-a-call/"
+  - "GCSE Biology Tuition|Cells, genetics and the body's systems, explained so they link up in your child's head instead of sitting as separate facts.|/book-a-call/"
 alevel_subjects:
-  - A-Level Economics Tuition|Advanced micro and macroeconomics with tutors who
-    go beyond definitions and into the quality of argument examiners actually
-    reward.|/book-a-call/
-  - A-Level Psychology Tuition|Research methods, key approaches and essay
-    technique, with tutors who know the mark scheme and what separates a B from
-    an A.|/book-a-call/
-  - A-Level Chemistry Tuition|Organic, inorganic and physical chemistry taught
-    for genuine understanding, not just enough to pass the next
-    mock.|/book-a-call/
-  - A-Level Maths Tuition|Multi-step problem solving across pure maths,
-    mechanics and statistics, with a tutor who spots exactly where the working
-    breaks down.|/book-a-call/
-  - A-Level English Tuition|Building the critical depth and essay precision that
-    Reading's most demanding sixth forms and universities expect.|/book-a-call/
-  - A-Level Geography Tuition|Advanced concepts, fieldwork and extended writing,
-    supported by tutors who know what top grades in this subject actually
-    require.|/book-a-call/
-  - A-Level Physics Tuition|Confidence in mechanics, fields and quantum topics
-    through focused, exam-board-aware tuition that doesn't skip the hard
-    parts.|/book-a-call/
-  - "A-Level History Tuition|Complex essay construction and sustained argument
-    under timed conditions: the skills that separate good history students from
-    great ones.|/book-a-call/"
-  - A-Level Biology Tuition|Advanced biological systems from genetics to
-    ecology, with tutors who prioritise understanding over surface
-    memorisation.|/book-a-call/
+  - "A-Level Economics Tuition|Micro and macro, with essays that build a proper argument instead of listing definitions, which is what examiners reward.|/book-a-call/"
+  - "A-Level Psychology Tuition|Research methods and essay technique, with a tutor who knows the mark scheme well enough to show where each mark comes from.|/book-a-call/"
+  - "A-Level Chemistry Tuition|Organic, inorganic and physical chemistry, understood well enough to cope with an unfamiliar question, not just the next mock.|/book-a-call/"
+  - "A-Level Maths Tuition|Pure, mechanics and statistics, with a tutor reading the working line by line to catch where a long question goes wrong.|/book-a-call/"
+  - "A-Level English Tuition|Set texts read closely, and quotations your child can remember and actually use when the essay question comes up.|/book-a-call/"
+  - "A-Level Geography Tuition|Fieldwork, the coursework project and extended writing, with a tutor who knows what the higher marks ask for.|/book-a-call/"
+  - "A-Level Physics Tuition|Mechanics, fields and quantum, taught for your child's exam board, and the hard bits don't get skipped.|/book-a-call/"
+  - "A-Level History Tuition|Essays that hold one line of argument all the way through, written against the clock and marked in detail afterwards.|/book-a-call/"
+  - "A-Level Biology Tuition|Genetics through to ecology, understood rather than crammed, so the data questions feel as manageable as the recall.|/book-a-call/"
 other_subjects:
-  - University Personal Statement|Shape a strong UCAS personal statement with
-    expert support on structure, subject motivation, and final
-    polish.|/book-a-call/
-faq_1_q: Do you support students aiming for grammar or independent schools in Reading?
-faq_1_a: Yes. We work with students preparing for 11+ exams, Common Entrance and
-  competitive sixth form entry. Tutors know what these schools are looking for
-  and prepare students accordingly, not just on content but on how to perform
-  under that kind of pressure.
-faq_2_q: How much does tutoring cost in Reading?
-faq_2_a: Sessions start from £37 per hour. The exact rate depends on the subject
-  and the tutor, and it is always agreed before anything is booked. No
-  surprises, no hidden fees.
-faq_3_q: Do you offer online tutoring for students in Reading?
-faq_3_a: Yes, and it is how most of our sessions run. Students get access to a
-  wider pool of tutors, sessions are easier to keep consistent, and most
-  students concentrate better one-to-one online than they do in a classroom. It
-  works well.
-faq_4_q: How long does it take to see an improvement?
-faq_4_a: Most students notice something within the first few sessions. Not
-  always in grades straight away, but in how the subject feels. Less daunting.
-  Clearer. Grade improvements usually follow within a half term of regular
-  sessions.
-why_heading: Why Reading families choose The Degree Gap
-why_para_1: "When a Reading student starts tutoring with us, the pattern tutors
-  see most often is this: they know the content, but they don't know how to use
-  it. They can describe a process. They can recall facts. But put them in front
-  of an exam question that asks them to apply, evaluate or argue, and they
-  freeze, or they answer the question they wanted rather than the one they were
-  asked. That's not a knowledge problem. It's an exam technique problem. And
-  it's one that rarely gets fixed in class, because the class is busy covering
-  the next topic."
-why_para_2: Our tutors start by going through recent work and recent papers. Not
-  to re-teach content, but to find the specific moment where the student's
-  answer stops earning marks. From that point, tutoring sessions are built
-  around that gap. Most families notice a change in confidence first. Their
-  child stops dreading the subject and starts being willing to have a go. The
-  grade movement follows. It doesn't take a term to see it. Often it takes a few
-  sessions.
-accordion_quality: Our tutors are vetted for subject depth and for how well they
-  understand the standard that selective schools and competitive sixth forms in
-  Reading set. Good exam technique at this level isn't optional. It's what
-  separates a 7 from a 9, and our tutors know the difference.
-accordion_experience: Tutors working with Reading students have experience with
-  the demands of highly selective school environments, including past paper
-  work, mark scheme literacy, and the exam technique skills that make the
-  difference in high-stakes GCSE and A-Level papers.
-accordion_personalised: Every tutoring session is built around what that student
-  needs, not a generic topic-by-topic run-through. For students in a competitive
-  area like Reading, generic isn't good enough.
+  - "University Personal Statement|Help turning your child's real interest in a subject into a UCAS personal statement that sounds like them, not a template.|/book-a-call/"
+faq_1_q: "Can you help with the 11+ or a grammar school sixth form place in Reading?"
+faq_1_a: "Yes. On a free call, we'll ask what your child is sitting, whether it's the 11+, Common Entrance or a sixth form application, and suggest tutors who know what's involved. Much of the work is timed practice, done calmly and often, so the format's familiar long before the real thing."
+faq_2_q: "How much does a tutor cost?"
+faq_2_a: "From £37 an hour. It depends a little on the tutor, and you'll know the rate before a single lesson's booked. You won't sign a contract or pay a joining fee, and if it isn't helping, you just stop."
+faq_3_q: "Will my child actually concentrate in an online lesson?"
+faq_3_a: "Most do, and often better than in class. It's one tutor, one child and a shared whiteboard, so there's nowhere to drift off to. Because it's online, we can also choose from a far wider pool of tutors, and your child can rewatch any lesson."
+faq_4_q: "How soon will we notice a difference?"
+faq_4_a: "Often within the first few lessons, though it doesn't always show in the marks straight away. You might notice your child putting the subject off less. The grades usually follow within half a term or so of weekly lessons, though nobody can promise a particular grade."
+why_heading: "Why Reading families bring in a tutor when the marks don't add up"
+why_para_1: "Your child can explain the topic perfectly well at the kitchen table. They've clearly revised. Then the paper comes back. Marks nowhere near what they know. Usually it's the questions asking them to apply an idea, or weigh up two sides, that catch them out. They freeze, or they answer the question they wished they'd been asked. We hear this from Reading parents more than anything else, and it's exam technique rather than a gap in knowledge. And it's hard to fix in class, where the lesson has to move on to the next topic."
+why_para_2: "So the tutor starts with a recent paper. They aren't re-teaching the topic. They're looking for the exact point where your child's answer stops picking up marks, and they build the next few lessons around it. Parents usually notice the mood change first: less dread about the subject, more willingness to have a go. You'll often see that within a few lessons. The marks come a little later."
+accordion_quality: "Only about 3% of the tutors who apply get onto the platform, and Harry or Joe interviews every one of them. We check they know their subject deeply and understand what Reading's grammar schools and competitive sixth forms expect. Just as important, they can explain exam technique to a teenager without it sounding like a lecture."
+accordion_experience: "The tutors we'd put forward for your child have all been tutoring for two years or longer. They've taken children through past papers, mark schemes and the high-stakes run-up to Year 11 and Year 13 exams, and plenty have worked with children at selective schools."
+accordion_personalised: "Your child's lessons are built around what they need, not a set march through the textbook. If the trouble is one type of question, that's where the tutor starts."
 reviews:
-  - Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone
-    above and beyond to pair both my sons with the appropriate tutors, all of
-    whom have been exceptional. Both my sons exceeded their expected grades in
-    their GCSEs and A Levels and got into their first choice universities. I
-    cannot recommend them highly enough.
-  - Serena|A-Level Student|My tutor is a very intuitive and superb teacher. She
-    listened to my specific concerns and bolstered my confidence in answering
-    questions. She taught me how to think critically and helped me through this
-    highly demanding course. I will happily recommend without a second thought.
-  - Augusta|Parent of GCSE Student|The support given to my son by The Degree
-    Gap's tutors was fabulous and he passed all his GCSE subjects. They provided
-    experienced and organised tutors. Tutors provided resources targeting
-    specific areas of difficulty. The website is easy to use and tutors were
-    polite and on time.
-  - Daljit|Parent of A-Level Student|My son gained almost two grades higher than
-    his year 13 mock paper. His tutor was excellent.
-  - Bryan|GCSE Student|Helped me a lot and really showed me what i need to improve on
-    improve on.
-  - Ellen|Parent of GCSE Student|My daughter was struggling with confidence in
-    Maths GCSE and we decided to get a tutor. We were given a selection of
-    tutors to choose from and told that if it did not feel like a good match we
-    could try others. Our tutor was a complete star, listened, made it simple,
-    set good homework and gave my daughter her confidence back. Highly
-    recommend.
+  - "Lisa|Parent|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Serena|A-Level Student|Malvina is a very intuitive and superb teacher. She listened acutely to my specific concerns and bolstered my confidence in answering the questions. She taught me how to think critically and helped me through this highly demanding and complex course. I will happily recomend her without a second thought!"
+  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. …"
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Bryan|GCSE Student|Helped me a lot and really showed me what i need to improve on"
+  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. …"
 sitemap:
   priority: 0.8
   changefreq: monthly

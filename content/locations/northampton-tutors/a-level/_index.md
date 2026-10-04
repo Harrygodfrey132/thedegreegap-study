@@ -1,41 +1,41 @@
 ---
 title: "Northampton A-Level Tuition | From £37/hr"
-description: "Northampton A-Level tutors for the Year 13 mock window that sets UCAS predicted grades. One-to-one online tutoring matched on the specification, from £37 an hour."
+description: "Is your child's A-Level prediction below the offers they want? Northampton A-Level tutors, one-to-one online before predictions go in. From £37, no contract."
 layout: "subject"
 location: "Northampton"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level tutoring in Northampton for the Year 13 mocks that set UCAS predictions"
+hero_heading_line1: "Online A-Level Tutoring in Northampton Before the Predicted Grades Go to UCAS"
 hero_heading_line2: ""
-hero_lead: "Offers get made against a number written in January, months before anybody sits a paper. Our Northampton A-Level tutors work to that date rather than to June, one-to-one and online over Lessonspace."
+hero_lead: "The courses your child has their eye on ask for more than their predicted grade. Schools usually send predictions to UCAS in the autumn of Year 13, so our Northampton A-Level tutors start well before then, one-to-one and online."
 
 grade_from: "C"
 grade_to: "A"
-grade_stat: "A real A-Level result almost two grades above the Year 13 mock paper that came before it."
+grade_stat: "Daljit's son finished almost two grades higher than his Year 13 mock paper had suggested."
 
 first_lesson_eyebrow: "THE NUMBER THAT GOES TO UCAS"
 first_lesson_heading: "Why a Northampton A-Level Tutor Starts With the Prediction"
-first_lesson_context: "Predicted grades come out of Year 12 work and the first stretch of Year 13, and they reach universities long before June. So a student planning to pull it back in the spring has often lost the offer already. The point of starting early is that the number is still movable."
+first_lesson_context: "Teachers build predicted grades mostly from Year 12 work and the first few weeks of Year 13, and universities see them months before June. So if your child's planning to pull things back in the spring, the offers may already be out by then. That's why an A-Level tutor would rather start now, while the number can still move."
 first_lesson_quote: "My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
 first_lesson_quote_name: "Daljit"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Almost two grades above a Year 13 mock"
 
-tutor_strip_heading: "A-Level tutors who know what Northampton sixth forms move through"
-tutor_strip_body: "Sixth forms around the town run different boards and different option blocks, and at A-Level that decides more than it does at GCSE. Tutors get matched on the specification and on the paper doing the damage, then work one-to-one and online on Lessonspace, our shared whiteboard. Have a look at the profiles, or tell us the subject and we will."
+tutor_strip_heading: "A-Level tutors who know the courses Northampton sixth forms teach"
+tutor_strip_body: "At A-Level each exam board builds its course differently, right down to which topics sit in which paper. We match your child's tutor to their exact course, and to the paper that's costing the most marks. Browse the profiles, or tell us the subject and we'll do the matching."
 
-pathways_heading: "What Comes After A-Levels for Northampton Students"
-pathways_lead: "Results day decides the next step, and in Northampton it points in three fairly different directions."
+pathways_heading: "Where Your Child Could Go After A-Levels in Northampton"
+pathways_lead: "Here's where Northampton sixth formers tend to head after results day, and each route runs to its own timetable."
 pathways:
   - title: "Universities"
     body: >
-      The University of Northampton sits on its Waterside campus in the town itself, and Leicester, Nottingham, Warwick, Coventry and Loughborough are all a short train or drive away. Conditional offers rest on predicted grades made during Year 12, months before a final paper gets sat.
+      The University of Northampton is right in town on its Waterside campus, and Leicester, Nottingham, Warwick, Coventry and Loughborough are all within reach by train or car. Wherever your child applies, the offer rests on predicted grades that lean mostly on Year 12 work, months before the final papers.
   - title: "Degree Apprenticeships"
     body: >
-      The University of Northampton runs degree apprenticeships alongside local employers, and Barclaycard, Nationwide and Travis Perkins all recruit at eighteen in the town. Each scheme publishes its own entry requirements, changes them between intakes, and usually wants a written application ahead of the UCAS deadline.
+      The University of Northampton runs degree apprenticeships with local employers, and Barclaycard, Nationwide and Travis Perkins all take on school leavers in the town. Each scheme sets its own entry grades and changes them between intakes, and the application dates don't follow the UCAS calendar.
   - title: "Career Pathways"
     body: >
-      High performance engineering is the county's unusual card, with Cosworth, Mercedes AMG High Performance Powertrains at Brixworth and the cluster around Silverstone all taking technicians and engineers from eighteen. Northampton General Hospital and Northamptonshire Healthcare run their own apprenticeship routes into clinical and technical work.
+      High-performance engineering is the county's surprise, with Cosworth, Mercedes AMG High Performance Powertrains at Brixworth and the firms around Silverstone all taking on technicians and engineers from eighteen. And Northampton General Hospital and Northamptonshire Healthcare run their own apprenticeship routes into clinical and technical work.
 
 reviews:
   - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
@@ -51,14 +51,14 @@ reviews:
   - "Sarom|Parent of A-Level Student|Harry has been very helpful in tutoring my son for his economics A Level. He has lots of patience, keeps lessons interesting and is a good motivator. Needless to say his subject matter is expertise is excellent."
   - "Alex|University Student|Can’t recommend The Degree Gap highly enough. Quick and helpful responses from Harry. He immediately matched me with a very competent tutor, who was a massive help in helping me exceed my target grade and achieve a first class degree at university."
 
-faq_1_q: "How does tutoring actually move a UCAS predicted grade?"
-faq_1_a: "It moves the work the prediction is based on. Teachers build predicted grades from mocks, class assessments and their own read of a student, so the lever is the next assessment rather than the conversation about the grade. Most families start in Year 12 or early Year 13 and aim at the January round, because that is the last set of marks a teacher sees before predictions go out. Lift the performance there and the number tends to follow. Leave it until spring and the offers are already made."
-faq_2_q: "My child got a grade 9 in GCSE Maths and is now struggling. What happened?"
-faq_2_a: "Nothing went wrong, and it is one of the most common calls we take. GCSE rewards pattern matching, because the question usually tells you which method it wants. A-Level stops doing that. The content also arrives faster and leans on algebra that was never pushed hard at sixteen. Strong GCSE students often find this harder than anyone, since the old approach worked so well that nothing else got built. The work is teaching method choice, and it is a skill rather than a talent."
-faq_3_q: "Can an A-Level tutor help with a degree apprenticeship application in Northampton?"
-faq_3_a: "Yes, and the timing catches people out more than the grades do. Schemes at employers like Barclaycard, Nationwide and Travis Perkins publish their own entry requirements, revise them between intakes, and often close applications before the UCAS deadline. So we work back from the scheme's own published dates. Alongside the predicted grade there is normally a written application and some form of test, and tutors help students prepare for those the way they would for a paper."
-faq_4_q: "Can you help with the EPQ or with coursework?"
-faq_4_a: "Yes, with one clear line: the finished work stays your child's own. What a tutor does is upstream of the writing. They narrow a question that is currently too broad, sort out which sources are worth the hours, and read a draft to say where the argument stops holding. For the EPQ the production log matters as much as the essay, and students routinely underestimate it. The same applies to A-Level coursework, where structure and evidence selection carry most of the marks."
+faq_1_q: "Can a tutor actually change my child's predicted grade?"
+faq_1_a: "Not directly, but it changes the work the prediction's based on. Teachers write predicted grades from mocks, class tests and what they've seen of your child through Year 12, and most schools send them to UCAS in the autumn of Year 13. That means the marks that count most come in Year 12 and the first weeks of Year 13. If those go better, the prediction tends to follow, which is why most families start in Year 12 or right at the beginning of Year 13. Wait until the spring and the offers are usually already made."
+faq_2_q: "My child got a 9 in GCSE Maths. Why are they struggling at A-Level?"
+faq_2_a: "It happens a lot, and it's no reflection on your child. At GCSE the question usually tells them which method it wants. A-Level stops doing that. The content comes faster too, and the algebra is a big step up from anything at GCSE. Children who did brilliantly at sixteen often feel it most, because spotting the pattern worked so well that they never needed another way in. So the tutor works on choosing a method when the question gives nothing away. It's a skill, not a talent. And a learnable one."
+faq_3_q: "My child's thinking about a degree apprenticeship in Northampton. Can you help with that?"
+faq_3_a: "Yes, and it's usually the dates that catch families out, not the grades. Employers like Barclaycard, Nationwide and Travis Perkins set their own entry requirements, and some close applications before the UCAS deadline. We work back from each scheme's own dates. There's normally a written application and some kind of test alongside the predicted grades, and your child's tutor can help them get ready for those the same way they'd get ready for a paper."
+faq_4_q: "Can a tutor help with the EPQ or coursework?"
+faq_4_a: "Yes, as long as the finished work is your child's own. The tutor will help narrow a question that's too broad, sort out which sources are worth the time and plan how the write-up will run. The writing itself has to be your child's own, and any outside help should be mentioned to their teacher. For the EPQ (the Extended Project, a long piece of independent work), the production log recording how it was done is marked too, and it's easy to leave until the end. It's similar with A-Level coursework, where a lot of the marks come from the structure and the evidence they pick."
 
 sitemap:
   priority: 0.7

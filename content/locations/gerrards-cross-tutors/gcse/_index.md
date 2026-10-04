@@ -1,6 +1,6 @@
 ---
 title: "Gerrards Cross GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "Gerrards Cross GCSE tutors matched to your child's own school and exam board, online and one-to-one. Tutor profiles in 24 hours, lessons from £37."
+description: "Gerrards Cross GCSE tutors matched to your child's exam board, online and one-to-one. Tutor profiles within 24 hours of a free call, and lessons from £37."
 layout: "subject"
 location: "Gerrards Cross"
 level: "GCSE"
@@ -14,28 +14,28 @@ grade_to: "6/7"
 grade_stat: "One Year 10 parent describes her son moving from a grade 5 to a 6/7 in English after six months, and now looking forward to his lessons."
 
 first_lesson_eyebrow: "SAME PAPER, WHATEVER THE SCHOOL"
-first_lesson_heading: "What a Gerrards Cross GCSE Tutor Looks For in the First Hour"
-first_lesson_context: "The sentence we hear most from Gerrards Cross parents is 'she was fine until Year 10'. In a first lesson the GCSE tutor usually finds out why: one method from a couple of years back that never quite set, now sitting underneath half the paper."
+first_lesson_heading: "What a Gerrards Cross GCSE Tutor Looks For in the First Lesson"
+first_lesson_context: "The sentence we hear most from Gerrards Cross parents is 'she was fine until Year 10'. Usually the GCSE tutor works out why within the first lesson: one method from a couple of years back that never quite set, now sitting underneath half the paper."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to 6/7 in GCSE English"
 
 tutor_strip_heading: "Gerrards Cross GCSE tutors matched to each child's own exam board"
-tutor_strip_body: "Brothers and sisters here are often at different schools, which can mean Maths on Edexcel for one and AQA for the other. We check the board before we suggest anyone. Have a look at the profiles, or let us do the matching for you."
+tutor_strip_body: "Brothers and sisters here are often at different schools, which can mean Maths on Edexcel for one and AQA for the other. So we'll check your child's board before we suggest anyone. Have a look at the profiles, or let us do the matching for you."
 
 pathways_heading: "Where Gerrards Cross Year 11s Head at Sixteen"
-pathways_lead: "Plenty of Gerrards Cross students stay where they are at sixteen, some move schools, and a few go straight into paid training."
+pathways_lead: "Plenty of families here expect their child to stay put at sixteen. Some move schools, though, and a few head straight into paid training."
 pathways:
   - title: "Sixth Forms"
     body: >
-      The Chalfonts Community College runs a sixth form for Gerrards Cross and the Chalfonts, and Thorpe House opened a co-educational sixth form in the town centre in 2024. Several grammar school sixth forms, including Dr Challoner's Grammar, where girls join the boys in Year 12, also take students from other schools each September against their own published GCSE criteria.
+      The Chalfonts Community College runs a sixth form for Gerrards Cross and the Chalfonts, and Thorpe House opened a co-educational sixth form in the town centre in 2024. Several grammar school sixth forms, including Dr Challoner's Grammar, where girls join the boys in Year 12, also have places each September for pupils from other schools, judged against their own published GCSE requirements.
   - title: "Apprenticeships"
     body: >
-      Heathrow's engineering apprenticeships have asked for grade 4 or above in Maths, English and a Science, and Pinewood Studios at Iver Heath has taken on apprentices in roles like electricians and infrastructure technicians. Applications often close before results day, so the predicted grades are what gets read.
+      Heathrow's engineering apprenticeships have asked for grade 4 or above in Maths, English and a Science, and Pinewood Studios at Iver Heath has taken on apprentices in roles like electricians and infrastructure technicians. Applications often close before results day, so it's the predicted grades that get read.
   - title: "Further Education"
     body: >
-      Buckinghamshire College Group teaches full-time courses and T Levels at its Amersham campus on Stanley Hill and its Wycombe campus at Flackwell Heath. Both are an option for students who'd rather learn a trade or a profession than sit A-Levels.
+      Buckinghamshire College Group teaches full-time courses and T Levels at its Amersham campus on Stanley Hill and its Wycombe campus at Flackwell Heath. Both are worth a look if your child would rather learn a trade or a profession than sit A-Levels.
 
 reviews:
   - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. We opted for Avery and she was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back in her abilities and gave her the confidence to face Maths GCSE exams. Highly recommend Degree Gap and will be back again in September with my youngest embarking on her GCSEs"
@@ -54,13 +54,13 @@ reviews:
   - "Bryan|GCSE Student|Helped me a lot and really showed me what i need to improve on"
 
 faq_1_q: "My son and daughter are at different schools, on different exam boards. Can one tutor help both?"
-faq_1_a: "Sometimes, but usually we'd suggest two, and it's very normal in Gerrards Cross. AQA, Edexcel and OCR cover a lot of the same Maths and Science, but the questions are worded differently and some topics carry more weight on one board than another. So we match each child to a tutor who knows their own paper. You still only deal with us, and both sets of lessons happen at home, online."
+faq_1_a: "Sometimes, but usually we'd suggest two, and lots of Gerrards Cross families are in the same spot. AQA, Edexcel and OCR cover much the same Maths and Science, but each board lays its papers out differently and words its questions in its own way. So we'd match your son and daughter each to a tutor who knows their own paper. You still only deal with us, and both sets of lessons happen at home, online."
 faq_2_q: "Is Year 10 too early to start, or have we left it too late in Year 11?"
-faq_2_a: "Neither. Year 10 is a lovely time to start, because there's room to fix an old gap before the Year 11 content piles on top. But lots of families come to us in Year 11, after the first mocks, and there's still plenty a tutor can do. The work just becomes more focused on past papers and timing. The main thing is to start before the summer exams feel close, not after."
+faq_2_a: "Neither. If your child's in Year 10, it's a lovely time to start, because there's room to fix an old gap before the Year 11 content piles on top. But lots of families come to us in Year 11, after the first mocks, and there's still plenty a tutor can do. By then it's mostly past papers and timing. The main thing is to start before the summer exams feel close, not after."
 faq_3_q: "She works so hard in class. Why don't her mocks show it?"
-faq_3_a: "It's one of the most common things parents tell us, and it's rarely about effort. Knowing something in a lesson is different from writing it under a clock with no one to ask. Often there's one older topic quietly costing marks all over the paper, or answers that stop a line or two short of full marks. The tutor goes through a real mock with her and finds which it is. Then it's something you can actually fix."
+faq_3_a: "It's one of the most common things parents tell us, and it's rarely about effort. Knowing something in a lesson isn't the same as writing it under a clock with no one to ask. Often there's one older topic quietly costing marks all over the paper, or answers that stop a line or two short of full marks. The tutor goes through a real mock with her and finds which it is. Then it's something you can actually fix."
 faq_4_q: "How much does GCSE tutoring cost, and are we tied in?"
-faq_4_a: "Lessons from £37, no contract. The exact price depends on the tutor and is agreed with you before anything is booked. The consultation call, usually around 30 minutes, is free, and so is the video meeting with the tutor before the first lesson. After that you just pay for the lessons you have, and you can pause over half term or stop whenever you like."
+faq_4_a: "Lessons from £37, no contract. What you pay depends on the tutor, and we'll settle it with you before anything's booked. The consultation call, usually around 30 minutes, is free, and so is the video meeting where your child meets the tutor before the first lesson. After that you just pay for the lessons you have, and you can pause over half term or stop whenever you like."
 
 sitemap:
   priority: 0.7

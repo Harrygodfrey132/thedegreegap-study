@@ -1,41 +1,41 @@
 ---
 title: "Harrow GCSE Tutors | One-to-One | The Degree Gap"
-description: "Harrow GCSE tutors matched on the exam board and working to the Collegiate sixth form timetable. One-to-one online tutoring from £37 an hour."
+description: "Harrow's Collegiate form goes in during the autumn of Year 11. Our GCSE tutors start from your child's marked mock, one-to-one and online. From £37 an hour."
 layout: "subject"
 location: "Harrow"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors Who Give Harrow Students the Hour a Class of Thirty Can't"
+hero_heading_line1: "Online Harrow GCSE Tutors for the Hour a Class of Thirty Can't Give"
 hero_heading_line2: ""
-hero_lead: "The report says working hard. The mock says something else. Our Harrow GCSE tutors work one-to-one online over Lessonspace, an hour a week, and start with the marked paper rather than the grade written on it."
+hero_lead: "Your child's report says they're working hard, and the mock says something else. Our Harrow GCSE tutors work one-to-one, an hour a week, on the online platform Lessonspace. And they start with the marked paper, not the grade at the top of it."
 
 grade_from: "E"
 grade_to: "B"
-grade_stat: "A real GCSE lift from an E to a B, in the student's own words."
+grade_stat: "Keira's grades climbed from an E to a B, and she says the tutoring definitely helped."
 
-first_lesson_eyebrow: "ONE FORM, EVERY HARROW SIXTH FORM"
+first_lesson_eyebrow: "ONE FORM, MOST HARROW SIXTH FORMS"
 first_lesson_heading: "What a Harrow GCSE Tutor Reads in a Marked Mock"
-first_lesson_context: "Harrow runs one sixth form application across most of its schools, so the autumn of Year 11 does a lot of work. Mock results and predicted grades are what the Collegiate schools read. A tutor's first job is to find out whether the marks go missing on content, on technique or on the clock, because those three need different terms of work."
+first_lesson_context: "It comes round quickly: your child's Collegiate form is due in the autumn of Year 11, and that one form covers most of the borough's school sixth forms. The schools read mock results and predicted grades. So the tutor's first job is to see whether your child's marks go on content, on technique or on the clock, because each one needs different work."
 first_lesson_quote: "Has definitely helped me increase my grades from an E to a B!!"
 first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B at GCSE"
 
 tutor_strip_heading: "Harrow GCSE tutors who work to the Collegiate calendar"
-tutor_strip_body: "Students at Nower Hill, Whitmore, Park High and Hatch End are not all sitting the same board, so we confirm the specification before proposing anybody. Each tutor clears a founder-led interview that around 3% of applicants pass. Browse the profiles, or let us match your child."
+tutor_strip_body: "Children at Nower Hill, Whitmore, Park High and Hatch End aren't all sitting the same exam boards, so we check your child's before suggesting anyone. Only around 3% of applicants get past an interview with Harry or Joe. Browse the profiles, or let us match your child."
 
-pathways_heading: "Post-16 in Harrow, Collegiate and Beyond"
-pathways_lead: "Three routes Year 11s here weigh up while the Collegiate form is still open."
+pathways_heading: "After Year 11: Harrow's Collegiate and Beyond"
+pathways_lead: "Three routes to weigh up with your child while the Collegiate form's still open."
 pathways:
   - title: "Sixth Forms"
     body: >
-      Most of the borough's school sixth forms sit inside the Harrow Sixth Form Collegiate, so Nower Hill, Park High, Whitmore and Canons get chosen on one form rather than four. St Dominic's Sixth Form College at Harrow on the Hill runs its own admissions, and every school publishes its own entry requirements, revised between years.
+      The Harrow Sixth Form Collegiate covers most of the borough's school sixth forms, so your child can choose between Nower Hill, Park High, Whitmore and Canons on one form rather than four. St Dominic's Sixth Form College at Harrow on the Hill runs its own admissions, and each school sets its own entry grades, which can change from year to year.
   - title: "Apprenticeships"
     body: >
-      London North West University Healthcare NHS Trust takes on apprentices at Northwick Park, from support roles through to degree-level nursing. Harrow College and Stanmore College deliver much of the training that sits behind those routes, and Maths and English are named in nearly all of them.
+      London North West University Healthcare NHS Trust takes on apprentices at Northwick Park, from support roles right up to degree-level nursing. Harrow College and Stanmore College run much of the training behind those routes, and nearly all of them ask for Maths and English.
   - title: "Further Education"
     body: >
-      Harrow College, now part of HRUC, and Stanmore College in Stanmore carry most of the Level 3, T Level and vocational courses in the borough. A confident grade 4 or 5 in Maths and English opens the majority of them, and resits are a common way back in.
+      Harrow College, now part of HRUC, and Stanmore College run most of the borough's Level 3, T Level and vocational courses. A solid 4 or 5 in Maths and English gets your child onto most of them, and if it doesn't come first time, a resit is a common way back in.
 
 reviews:
   - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. We opted for Avery and she was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back in her abilities and gave her the confidence to face Maths GCSE exams. Highly recommend Degree Gap and will be back again in September with my youngest embarking on her GCSEs"
@@ -52,13 +52,13 @@ reviews:
   - "Annette|Parent|This company helped us find Jon Brettell for Geography and my son has excelled so much in just a few months. Jon has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself – a difficult task.  He also manages neurodiversity effectively."
 
 faq_1_q: "When should we start GCSE tutoring if we're applying through the Collegiate?"
-faq_1_a: "Earlier than most families expect. The Collegiate form goes in during the autumn of Year 11, and the schools read predicted grades that come out of Year 10 work and the first set of mocks. So a term of tutoring in Year 10 can change what gets predicted, while the same term in the spring of Year 11 can only change the exam. Plenty of families start later and still move a grade. The difference is what the offer gets made against."
-faq_2_q: "My child is losing marks and can't say where. How do you find it?"
-faq_2_a: "With a marked paper, not a conversation. Where the lost marks cluster tells you which problem you have: a gap in content, a technique nobody taught, or simply running out of time near the end. Each one needs a different term of work, and guessing wastes weeks. That is what the first session does, and it is why we ask for a recent mock rather than a school report when you get in touch."
+faq_1_a: "Earlier than most families expect. The Collegiate form goes in during the autumn of Year 11, and the schools look at predicted grades built on Year 10 work and the first mocks. So lessons in Year 10 can lift the work those predictions come from. The same lessons in the spring of Year 11 can only help with the exam itself. Plenty of families start later, and it still helps. The difference is just which grades the offer gets made on."
+faq_2_q: "My child's losing marks and can't tell me where. How do you find out?"
+faq_2_a: "With a marked paper rather than a chat. Where the lost marks bunch up tells you what's going on. It might be a gap in content, exam technique there's rarely class time to practise one-to-one, or just running out of time near the end. Each needs different work, and guessing wastes weeks. That's what the first lesson is for. It's also why we'll ask for a recent mock, not the school report, when you get in touch."
 faq_3_q: "Harrow schools use different exam boards. Does that change the match?"
-faq_3_a: "Yes, and it is the first thing we check rather than a detail settled later. Schools across the borough sit different specifications, and boards word their questions differently, examine the practicals differently and print different formulae. A tutor who already knows your child's spec is useful inside ten minutes. One who does not spends the first few sessions catching up, at your expense. We confirm the board on the consultation call, before anybody is suggested."
+faq_3_a: "Yes, and it's the first thing we check, not a detail we sort out later. Schools across the borough follow different boards, and each one words its questions and sets out its papers in its own way. A tutor who already knows your child's board is useful within ten minutes. One who doesn't spends the first few lessons catching up, and you're paying for those. We confirm the board on the free call, before we suggest anyone."
 faq_4_q: "How much of the hour is my child actually working?"
-faq_4_a: "Most of it, and that is rather the point. A typical hour starts with the work set last week, marked together so the mistakes get named out loud. The middle stretch goes on whichever topic is bleeding marks, with your child writing on the shared Lessonspace whiteboard rather than watching the tutor write. The last part is exam questions on that topic against the mark scheme. Sessions are recorded online, so anything that went past too fast can be watched again."
+faq_4_a: "Most of it, and that's rather the point. A typical hour starts with last week's work, marked together so the mistakes get talked through out loud. The middle part goes on whichever topic is costing the most marks. Your child does the writing, on the shared whiteboard in the online classroom Lessonspace, rather than watching the tutor write. The last stretch is exam questions on that topic, checked against the mark scheme. Every lesson has a replay, so anything that went by too fast can be watched again."
 
 sitemap:
   priority: 0.7

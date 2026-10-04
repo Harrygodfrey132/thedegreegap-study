@@ -1,71 +1,71 @@
 ---
 title: "Stevenage Private Tutors | The Degree Gap"
-description: "One-to-one Stevenage tutoring for GCSE and A-Level, with tutors who find the gap, name it and rebuild from there."
+description: "Working hard, same mark every time? Our Stevenage tutors find the older gap underneath first, online and one-to-one, for GCSE and A-Level. From £37 an hour."
 layout: "single"
 location: "Stevenage"
-banner_heading: "Looking for an online Stevenage tutor who can find the gap and rebuild it from the root?"
-banner_description: "Our Stevenage tutors trace the topic that quietly broke things, then rebuild the foundation steadily until the school work catches up."
-content_angle: "foundation gaps"
-intro_1: "By the time most Stevenage parents reach us, the report card has been saying the same thing for a couple of terms. Effort is fine. Understanding is patchy. The student is at Marriotts or Nobel or Barclay, working hard, and the grades are not moving. The pattern we see most often in this town is a topic from Year 8 or 9 that slid past, then another one did, and now the harder Year 10 and 11 questions are exposing the gaps the student has been carrying without realising it."
-intro_2: "That is the work we have been doing with Stevenage families for years. A first session is almost always diagnostic. The tutor sits the student through their recent work, finds the topic that quietly broke things, and maps a plan to put the foundation back. The school work catches up afterwards. So does the confidence."
+banner_heading: "Online Stevenage tutors for GCSE and A-Level, when the effort is there but the marks aren't"
+banner_description: "If every report says 'good effort' and the mark stays put, there's usually an older gap underneath. Our Stevenage tutors find it first, then work forward."
+content_angle: "effort without results: a hard-working child whose grade has stalled, because a Year 8 or 9 gap surfaces once GCSE topics get heavier in Year 10"
+intro_1: "It's hard to watch. Your child sits at the kitchen table for an hour, tells you they've got it, and the test still comes back with the same mark as last time. The report says the effort is good, and it is. It's one of the calls we get most from Stevenage, often about a child at Marriotts, Nobel or Barnwell who coped fine until the GCSE topics got heavier in Year 10. More often than not, the trouble started a couple of years earlier, with one method that never quite settled."
+intro_2: "So before anything new, the tutor goes looking for that method. The first lesson works through a recent test with your child, line by line, until the slip shows itself. That gets fixed first. Sometimes it takes a few lessons, sometimes longer, and then the Year 10 work finally has something solid under it."
 about_heading: "Find the Right Tutor in Stevenage"
 about_image: "/images/students-in-classroom-taking-notes.jpg"
-schools_intro: "Our Stevenage tutors work with families from Marriotts School, The Nobel School, John Henry Newman Catholic School, Barclay Academy, Thomas Alleyne Academy and Barnwell School. The schools are doing their job in a class of thirty. The work we do is the work no class of thirty has the time for. We also run revision and exam preparation workshops on request, for groups of students who want extra structure outside the classroom."
+schools_intro: "Stevenage parents who get in touch have children at Marriotts, The Nobel School, John Henry Newman, Barclay Academy, Thomas Alleyne, Barnwell and more. Teachers there are doing a lot with classes of thirty. A tutor adds an hour where your child is the only one being taught. Exam boards vary from school to school, even subject to subject, so we check your child's before suggesting anyone. Harry and Joe know Year 10 classrooms well, too, from running revision workshops in schools."
 schools: ["Marriotts School", "The Nobel School", "John Henry Newman Catholic School", "Barclay Academy", "The Thomas Alleyne Academy", "Barnwell School"]
 schools_image: "/images/empty-classroom-desks.jpg"
-online_heading: "How online tutoring helps Stevenage GCSE and A-Level students"
-online_1: "Stevenage is well-connected but a school-night drive to a tutor's house, after homework and dinner, is rarely realistic. Online tutoring through Lessonspace, our shared whiteboard, removes the travel entirely. A weekly hour from home, with the tutor working through a past paper on screen, is more consistent than any in-person arrangement we have seen."
-online_2: "The other reason matters more. The right specialist on AQA or Edexcel A-Level Chemistry, or on the GCSE Combined Science 9-mark questions, may not live in Stevenage. Online tutoring opens the country. Students get matched with the tutor who actually knows their spec. Most concentrate better one-to-one online than they do in a class of thirty, where the pace is set by the middle."
+online_heading: "Stevenage online tutoring, with every line of working on screen"
+online_1: "Lessons run on Lessonspace, an online whiteboard your child and the tutor both write on. Every line of working sits on the screen, and that's where an old gap gives itself away. A minus sign dropped. A step skipped. The tutor catches it as it happens, and each lesson is saved as a replay your child can rewatch before a test."
+online_2: "Stevenage is well connected, but a school-night drive to someone's house after homework and tea is hard to keep up for long. Online, the lesson happens at home. It also means we can choose from tutors all over the UK. If your child is on AQA Combined Science, or needs Edexcel A-Level Chemistry, we'll find someone who knows that exact course, not just the nearest name on a list."
 online_image: "/images/child-using-online-learning-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Stevenage,UK&output=embed"
-areas_intro: "Our tutors support students across Stevenage and the surrounding Hertfordshire towns, with online tuition removing any distance barrier to finding the right specialist."
-area_links: ["Baldock Tutors|/locations/baldock-tutors/", "St Albans Tutors|/locations/st-albans-tutors/", "Watford Tutors|/locations/watford-tutors/", "Welwyn Garden City Tutors|/locations/welwyn-garden-city-tutors/", "Hemel Hempstead Tutors|/locations/hemel-hempstead-tutors/", "Cambridge Tutors|/locations/cambridge-tutors/"]
+areas_intro: "It's all online, so it makes no odds whether you're in Stevenage itself or out towards Baldock. Other nearby towns we help are listed below."
+area_links: ["Baldock Tutors|/locations/baldock-tutors/", "Letchworth Tutors|/locations/letchworth-tutors/", "St Albans Tutors|/locations/st-albans-tutors/", "Watford Tutors|/locations/watford-tutors/", "Welwyn Garden City Tutors|/locations/welwyn-garden-city-tutors/", "Hemel Hempstead Tutors|/locations/hemel-hempstead-tutors/"]
 gcse_subjects: [
-  "GCSE Maths Tuition|Targeted work that traces gaps back to their root and builds solid understanding from there, rather than repeating content that has not yet clicked.|/book-a-call/",
-  "GCSE English Tuition|Patient analytical writing across Language and Literature, with structure work that holds up when the student is sitting under exam conditions.|/book-a-call/",
-  "GCSE Biology Tuition|Steady coverage of required practicals and six-mark questions, with time to revisit the topics most often skipped past in class.|/book-a-call/",
-  "GCSE Chemistry Tuition|Clear one-to-one work through bonding, equations and the calculation steps Stevenage students often arrive shaky on.|/book-a-call/",
-  "GCSE Physics Tuition|Patient drill on equations, unit conversions and multi-step problems that decide the harder questions on the higher tier.|/book-a-call/",
-  "GCSE Geography Tuition|Case-study recall and structured long-answer writing, taught by tutors who know each exam board's expectations.|/book-a-call/",
-  "GCSE History Tuition|Source analysis and the longer essay questions, with the structure work most students need before they can write to time.|/book-a-call/",
-  "GCSE French Tuition|Speaking and writing practice that lifts students into the higher tier, with vocabulary and structure built up week on week.|/book-a-call/",
-  "GCSE Computer Science Tuition|Programming projects and theory exam prep, with focus on the algorithm questions that hold students back at the top of the paper.|/book-a-call/",
+  "GCSE Maths Tuition|Often it's a Year 8 topic like fractions or negative numbers, so that gets rebuilt before the Year 10 algebra.|/book-a-call/",
+  "GCSE English Tuition|How to pick a quotation and explain it, practised until the blank page stops being the hardest part.|/book-a-call/",
+  "GCSE Biology Tuition|The required practicals and longer answers, written in steps your child can check against the mark scheme.|/book-a-call/",
+  "GCSE Chemistry Tuition|Moles and balancing equations are where the maths hides in Chemistry, so the maths gets untangled first.|/book-a-call/",
+  "GCSE Physics Tuition|Plenty of Physics questions need a formula rearranged, so that skill gets practised until it's automatic.|/book-a-call/",
+  "GCSE Geography Tuition|Map skills and data questions are easy marks to lose, so they get regular practice alongside the case studies.|/book-a-call/",
+  "GCSE History Tuition|Knows the facts but runs out of time? Your child learns to plan an essay in a couple of minutes.|/book-a-call/",
+  "GCSE French Tuition|Verb endings and tenses that slipped in Year 8, rebuilt so your child can write and speak without freezing.|/book-a-call/",
+  "GCSE Computer Science Tuition|Code built up slowly from loops and variables, so the harder programming questions have something to stand on.|/book-a-call/",
 ]
 alevel_subjects: [
-  "A-Level Maths Tuition|Pure, Mechanics and Statistics depth, with focus on the GCSE algebra that quietly held students back in the first term.|/book-a-call/",
-  "A-Level Biology Tuition|Synoptic essay structure and the required practicals, taught with the patience to rebuild any A-Level transition gaps.|/book-a-call/",
-  "A-Level Chemistry Tuition|Mechanisms, calculations and multi-step organic synthesis, rebuilt one topic at a time where needed.|/book-a-call/",
-  "A-Level Physics Tuition|Problem-solving structure and the conceptual depth that turns a B into an A in Mechanics and Fields.|/book-a-call/",
-  "A-Level Psychology Tuition|Tight AO3 evaluation chains and the synoptic essay structure that lift students into the top band.|/book-a-call/",
-  "A-Level Economics Tuition|Diagram precision and the evaluation chains that separate a B-grade essay from an A-grade one.|/book-a-call/",
-  "A-Level English Tuition|Critical reading and comparative essay structure, sharpened at whatever level the student is sitting at.|/book-a-call/",
-  "A-Level History Tuition|Source analysis and the 25-mark essay, where most students lose marks they could keep with the right technique.|/book-a-call/",
-  "A-Level Geography Tuition|Case studies, synoptic links and the 20-mark essay technique for students working at every level.|/book-a-call/",
+  "A-Level Maths Tuition|The GCSE algebra that felt fine last year gets tightened first, because the pure maths leans on it every single week.|/book-a-call/",
+  "A-Level Biology Tuition|Essay-style answers and data questions, with any GCSE Biology gaps patched before they cause trouble in Year 13.|/book-a-call/",
+  "A-Level Chemistry Tuition|Organic mechanisms drawn step by step, and moles calculations rebuilt if GCSE left them shaky.|/book-a-call/",
+  "A-Level Physics Tuition|Mechanics and electricity questions split into small steps, with any wobbly GCSE maths sorted before it bites.|/book-a-call/",
+  "A-Level Psychology Tuition|Research methods first, since they turn up everywhere, then evaluation paragraphs that earn marks without waffle.|/book-a-call/",
+  "A-Level Economics Tuition|Supply and demand diagrams labelled properly, then essays that reach a judgement instead of sitting on the fence.|/book-a-call/",
+  "A-Level English Tuition|Close reading of the set texts, and essays that stay on the question all the way through.|/book-a-call/",
+  "A-Level History Tuition|Timed essay practice with the plan done first, so your child's argument holds together under pressure.|/book-a-call/",
+  "A-Level Geography Tuition|The fieldwork investigation planned from day one, plus longer essays that link human and physical topics.|/book-a-call/",
 ]
 other_subjects: [
-  "University Personal Statement|Shape a strong UCAS personal statement with expert support on structure, subject motivation and final polish.|/book-a-call/",
+  "University Personal Statement|A UCAS personal statement built from your child's own ideas, with honest feedback from first draft to final version.|/book-a-call/",
 ]
-faq_1_q: "How do I find the right tutor in Stevenage?"
-faq_1_a: "Tell us the subject, the year group and what the student is trying to achieve. We take it from there. Most families hear back within 24 hours with two or three tutor profiles and a recommended first match."
-faq_2_q: "Can you support Stevenage students who have fallen significantly behind?"
-faq_2_a: "Yes. Some of the students we work with in Stevenage have gaps stretching back a year or more. We start by working out exactly where things went wrong, not just picking up from where school left off. Then we build a plan around that."
-faq_3_q: "Can you help a student who is resitting their GCSEs?"
-faq_3_a: "Yes. Resit students usually need a different approach from the first time. We focus on what went wrong, close the specific gaps and build exam technique alongside content. Tutors can move quickly when the timeline is tight."
-faq_4_q: "How much does tutoring cost in Stevenage?"
-faq_4_a: "Sessions start from £37 per hour. The exact rate depends on the subject and the tutor, and it is always agreed before anything is booked. No surprises, no hidden fees."
-why_heading: "Structured tutoring that finds the gap and closes it for Stevenage students"
-why_para_1: "In a first session with a Stevenage student, what tutors find most often isn't a confidence problem. It is a specific topic from Year 8 or 9 that never fully landed and has been quietly affecting everything since. Solving equations. Balancing chemical equations. Comparing two source texts. The student has kept up in lessons by working harder, but the harder Year 11 questions are exposing what was missed."
-why_para_2: "What changes is the order of the work. Instead of pushing forward with the syllabus, the tutor goes back, finds the root, and rebuilds it. Three or four sessions later the student is approaching the same Year 11 question with the foundation they should have had. The classroom did not have the time. A weekly one-to-one hour does."
-accordion_quality: "Every tutor in our network is a graduate, vetted on subject knowledge, how clearly they explain a difficult idea, and how patient they are with a student who has lost trust in the subject. For Stevenage families who have already tried the easy route, that combination of clarity and patience is usually what changes things."
-accordion_experience: "Our Stevenage tutors have years of one-to-one experience across GCSE and A-Level specifications. They have seen the same gaps come up again and again, and they know how to close them without making the student feel sent back to Year 7."
-accordion_personalised: "No two Stevenage students start in the same place. One might need foundation work on algebra before the Year 11 topics make sense again. Another might know the content but freeze on the longer mark questions. The tutor builds the plan around what is actually missing."
+faq_1_q: "We've never had a tutor. What happens first?"
+faq_1_a: "A free call with Harry or Joe comes first, to hear what's going on with your child. You'll get two or three tutor profiles within 24 hours of it. Your child meets the one you like over a free video chat before you decide."
+faq_2_q: "My child has fallen quite far behind. Can a tutor still help?"
+faq_2_a: "Yes. When the gap reaches back a year or more, the tutor starts right there, even if it's Year 8 work, and builds forward week by week. It takes longer than a few revision sessions. But it holds, because each new topic sits on something your child actually understands."
+faq_3_q: "My child needs to resit Maths or English. Can you help?"
+faq_3_a: "Yes. A resit needs a different plan from the first go. The tutor looks at where the marks went last time, rebuilds those topics, then does plenty of timed practice, so walking into the exam feels less like a repeat."
+faq_4_q: "What will lessons cost us each week?"
+faq_4_a: "From £37 an hour, depending on the tutor, and you'll know the rate before anything is booked. There's no contract and nothing hidden on top, and you can stop at any point."
+why_heading: "Stevenage tutoring that goes back a step before it goes forward"
+why_para_1: "By Year 10, GCSE questions take a lot for granted. Physics assumes your child can rearrange a formula without a second thought. English assumes they can explain a quotation, not just retell the story. If one of those skills never went in during Years 7 to 9, a hard-working child covers for it by memorising worked examples. That works until a question looks unfamiliar. In a GCSE paper, plenty of them do."
+why_para_2: "That missing skill is the tutor's first target. They go over it again, one-to-one, with a few short questions every week until your child can do it without thinking. Often homework gets quicker before any grade changes. And the 'I revised, so why did it go wrong?' conversations start to fade."
+accordion_quality: "Harry and Joe interview every tutor themselves, and roughly 3% of applicants are accepted. A strong CV just gets someone an interview. What we're really asking is whether they can take a fifteen-year-old back to a Year 8 idea without it feeling babyish. It's harder than it sounds."
+accordion_experience: "All our tutors have been tutoring for two years or more, on AQA, Edexcel and OCR papers. They've met the same sticking points many times, from long division to balancing equations, and they fix them without a fuss."
+accordion_personalised: "There's no fixed course. After the first lesson the tutor tells you what they found. Maybe it's fractions that need rebuilding, maybe answers that are right but badly set out. The plan for the coming month comes from that, and it changes as your child catches up."
 reviews: [
-  "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him.",
-  "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B.",
-  "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. We were given a selection of tutors to choose from and told that if it did not feel like a good match we could try others. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend.",
-  "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time.",
-  "Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE. Thank you.",
-  "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing.",
+  "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7. I honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset. …",
+  "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!",
+  "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. …",
+  "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. …",
+  "Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE thank you",
+  "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing",
 ]
 sitemap:
   priority: 0.8

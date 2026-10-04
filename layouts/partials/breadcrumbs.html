@@ -5,10 +5,10 @@
       <li><a href="{{ "" | relURL }}">Home</a></li>
       {{ range .Ancestors.Reverse }}
       {{ if not .IsHome }}
-      <li><a href="{{ .RelPermalink }}">{{ .Params.nav_title | default .Title }}</a></li>
+      <li><a href="{{ .RelPermalink }}">{{ partial "crumb-name.html" . }}</a></li>
       {{ end }}
       {{ end }}
-      <li>{{ .Params.nav_title | default .Title }}</li>
+      <li>{{ partial "crumb-name.html" . }}</li>
     </ol>
   </div>
 </div>

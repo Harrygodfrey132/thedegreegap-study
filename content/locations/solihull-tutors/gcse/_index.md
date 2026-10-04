@@ -1,65 +1,65 @@
 ---
 title: "Solihull GCSE Tutors | Year 10 and Year 11 | The Degree Gap"
-description: "Solihull GCSE tutoring matched on exam board, for students working towards sixth form places at Tudor Grange, Arden and Solihull School. From £37 an hour."
+description: "Is your child aiming for a sixth form place at Tudor Grange, Arden or Solihull School? Our Solihull GCSE tutors work one-to-one online. From £37 an hour."
 layout: "subject"
 location: "Solihull"
 level: "GCSE"
 
 hero_heading_line1: "Online Solihull GCSE Tutors for the Grades That Decide the Next Step"
 hero_heading_line2: ""
-hero_lead: "Solihull has no grammar schools of its own, so the sorting that happens elsewhere at eleven happens here at sixteen instead. Our Solihull GCSE tutors work towards the specific numbers local sixth forms publish, rather than towards a general sense of doing well."
+hero_lead: "For a lot of Solihull families, Year 11 is the first time grades decide where their child goes next. Our Solihull GCSE tutors work towards the grades your child's chosen sixth form asks for, rather than a general sense of doing well."
 
 grade_from: "5"
-grade_to: "7"
-grade_stat: "The two-band move a term of weekly one-to-one GCSE work is usually built around."
+grade_to: "6/7"
+grade_stat: "A 5 to a 6/7 in English for Omo's son, after six months of lessons."
 
-first_lesson_eyebrow: "INSIDE A SOLIHULL YEAR 11 SESSION"
-first_lesson_heading: "Where the Real Selection Point Sits Here"
-first_lesson_context: "In towns with grammars, the anxious year is Year 5. Solihull does not have them, so the pressure lands later and lands on GCSEs. That is arguably healthier, and it does mean Year 11 carries more weight than it does elsewhere, because the sixth form conversation is decided by results rather than settled years earlier. The practical consequence is that the marks worth chasing are specific and published. So the first session is spent on a recent paper working out which question types are costing the band, not on a general review of the subject."
+first_lesson_eyebrow: "SIXTEEN, NOT ELEVEN"
+first_lesson_heading: "Year 11 Is the Big One: What a Solihull GCSE Tutor Does First"
+first_lesson_context: "If you've got friends in grammar school areas, you'll know their nervous year is Year 5. Solihull hasn't got grammar schools, so the pressure comes later and lands on GCSEs, which is arguably kinder but makes Year 11 count for more. So the first lesson starts with a recent paper and hunts for the question types costing your child the grade their sixth form course wants."
 
-first_lesson_quote: "The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. Tutors provided resources targeting specific areas of difficulty."
+first_lesson_quote: "The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. …"
 first_lesson_quote_name: "Augusta"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "GCSE"
 
-tutor_strip_heading: "Solihull GCSE tutors matched to the specification your child's school teaches"
-tutor_strip_body: "West Midlands schools sit across AQA, Edexcel and OCR, and the boards differ in how the extended questions are marked rather than in the content. We confirm the board before suggesting anyone. Roughly three in every hundred applicants make it onto the platform. Browse profiles, or let us match your child."
+tutor_strip_heading: "Solihull GCSE tutors who already know your child's exam board"
+tutor_strip_body: "West Midlands schools use AQA, Edexcel and OCR, and the boards don't word or mark their papers the same way. So we confirm your child's board before suggesting anyone. Around 3% of tutors who apply get through our interview. Look at the profiles yourself, or let us choose."
 
-pathways_heading: "Where Solihull Year 11s Go Next"
-pathways_lead: "Three routes, and what each publishes."
+pathways_heading: "Your Child's Next Move After GCSEs in Solihull"
+pathways_lead: "This is where your child's GCSE grades get put to use."
 pathways:
   - title: "Sixth Forms"
     body: >
-      Tudor Grange, Arden, Alderbrook and Light Hall run sixth forms locally, with Solihull School alongside them and Solihull Sixth Form College taking a large share of the borough. Each sets its own entry requirements by subject and revises them between years, so work from the current admissions page for the course your child wants.
+      Tudor Grange, Arden, Alderbrook and Light Hall run sixth forms locally, alongside Solihull School, and Solihull Sixth Form College takes a large share of the borough. Requirements go subject by subject and change between years, so look at the current admissions page for the course your child wants.
   - title: "Apprenticeships"
     body: >
-      Jaguar Land Rover's Solihull plant runs engineering and manufacturing routes, with Birmingham Airport and the NEC taking apprentices into operations, hospitality and events. Published minimum grades in Maths and English are the standard gate, and technical entries generally want the Sciences.
+      Jaguar Land Rover's Solihull plant runs engineering and manufacturing apprenticeships, and Birmingham Airport and the NEC take apprentices into operations, hospitality and events. Most ask for a minimum grade in Maths and English, and the technical routes usually want the Sciences too.
   - title: "Further Education"
     body: >
-      Solihull College and University Centre covers Level 3 vocational routes across engineering, health, business and digital, with Birmingham's colleges within easy reach for more specialised courses. GCSE Maths and English resits run alongside for students who have not reached a grade 4.
+      Solihull College and University Centre runs Level 3 vocational courses in engineering, health, business and digital, and Birmingham's colleges are close by for more specialised ones. GCSE Maths and English resits run alongside, for anyone still working towards a grade 4.
 
 reviews:
-  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."
-  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry, who listened to her needs and gave us a selection of tutors to choose from. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
-  - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of working with Malvina, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons and has learned strategies that help him approach English in a way that resonates with him."
-  - "Philippa|Parent of GCSE Student|I was really pleased to discover The Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and great flexibility on timings. Highly recommend."
-  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents. My daughter passed both English and Maths GCSE with grades 4 and 5."
+  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. …"
+  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. …"
+  - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7. I honestly can’t believe I’m saying this, but he now looks forward to his lessons. …"
+  - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings to fit around school lessons. …"
+  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents. UPDATE: My daughter passed both English and Maths GCSE (4 and 5's). …"
   - "Dawn|Parent of GCSE Student|The Degree Gap took time to understand my child’s worries. They paired me with Connor, who my daughter got on well with. Her confidence has skyrocketed since. Thanks again."
-  - "Heidi|Parent|Emir is simply amazing with our daughter. He gets her totally, and her sessions are helping her with her school work so much. We cannot thank him enough."
+  - "Heidi|Parent|Emir, is simply amazing with our daughter. He 'gets' her totally, her sessions are helping her with her school work so much. We can't thank him enough ! …"
   - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
   - "Annette|Parent|This company helped us find Jon Brettell for Geography and my son has excelled so much in just a few months. Jon has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself – a difficult task.  He also manages neurodiversity effectively."
   - "Isabel|Parent of iGCSE Student|Harry helped our son enormously with his maths and economics iGCSE prep. He was patient, fun and engaging - just what we needed. Highly recommended."
   - "Jessica|GCSE Student|I highly recommend Harry – he was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree!!"
   - "Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE thank you"
 
-faq_1_q: "There are no grammars here. Does that put my child at a disadvantage?"
-faq_1_a: "Not in the exam, which is the same paper wherever it is sat. What changes is when the sorting happens: later, and on GCSE results rather than on a test at eleven. That gives a student far more room to change their own outcome, since two years of work move a GCSE grade in a way that nothing moves an 11-plus result afterwards. The practical version is to find out which specific grades the sixth form course wants and work back from those."
-faq_2_q: "Should my child take foundation or higher tier?"
-faq_2_a: "Higher tier caps at grade 9 and floors at 4, sometimes 3. Foundation caps at 5 but the questions are ones a borderline student can finish. If your child is around a 4 or 5 in Year 10, it is worth taking seriously rather than defaulting to higher because the class is. A wasted higher paper helps nobody. The honest version of that conversation needs a diagnostic first, which is what a first session provides."
-faq_3_q: "How much work should my child do between sessions?"
-faq_3_a: "Sixty to ninety minutes, and it should be past-paper questions on the topic from that lesson rather than reading through notes. Re-reading feels like work and shifts almost nothing, which is how a student can revise for hours and stay put. Beyond ninety minutes the returns drop sharply, and for a Year 11 carrying nine subjects it stops being realistic. A tutor who sets nothing between sessions is running a conversation rather than a programme."
-faq_4_q: "Can I sit in on the sessions?"
-faq_4_a: "Yes, and most tutors welcome it for the first one, which is the best way to judge whether the pairing works. Most parents step back after that, because students admit confusion more readily without an audience and admitting confusion is where the useful part of the hour starts. You will still see what was covered in the notes afterwards, and the session recording is there if you want it."
+faq_1_q: "There aren't any grammar schools here. Does that hold my child back?"
+faq_1_a: "No. Your child sits the same GCSE papers as everyone else on their exam board. What's different is when the sorting happens: later, on GCSE results, rather than on a test at eleven. And in a way that's good news. Two years of steady work can move a GCSE grade, while nothing changes an 11-plus result once it's in. The useful step is finding out which grades your child's sixth form course asks for, and working back from those."
+faq_2_q: "Should my child be sitting Higher or Foundation papers?"
+faq_2_a: "It depends where your child's working, and the school makes the final call, usually in Year 11. Maths and the Sciences have two levels of paper, called tiers. Higher runs from 9 down to 4, with a 3 for a near miss. Foundation tops out at 5, but its questions are ones a child around a 4 or 5 can finish. If that's your child in Year 10, raise it with the school rather than going with the class. A tutor's first lesson gives you evidence for that chat."
+faq_3_q: "How much should my child do between lessons?"
+faq_3_a: "Sixty to ninety minutes a week, and it should be exam questions on that lesson's topic, not reading through notes. Re-reading feels like work but shifts very little, which is how a child can revise for hours and stay stuck. Past ninety minutes the returns drop off fast, and with nine or so subjects in Year 11 it stops being realistic anyway. If a tutor sets nothing between lessons, it's more of a chat than a plan."
+faq_4_q: "Can I sit in on the lessons?"
+faq_4_a: "Yes, and most tutors are happy for you to join the first one, which is a good way to see if the match feels right. After that most parents step back. Children ask the 'silly' questions more easily without an audience, and that's where the useful part of the hour starts. You'll still get notes on what was covered, and there's a replay of every lesson if you want to watch."
 
 sitemap:
   priority: 0.7

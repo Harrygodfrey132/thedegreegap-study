@@ -5,7 +5,7 @@ date: 2026-08-06
 author: "Harry Godfrey"
 author_role: "Co-founder, The Degree Gap"
 category: "Parent Advice"
-excerpt: "Most families start GCSE tutoring in January, after the mock results land. Starting in September gives you roughly twice the working time for the same money. Here is how to decide when."
+excerpt: "Most families start GCSE tutoring in January, once the mock results land. Start in September and you'll get roughly twice the working time for the same money. Here's how to decide when your child should start."
 hero_image: "/images/quiet-library-study-area.jpg"
 tags:
   - Parent Advice
@@ -19,15 +19,15 @@ related_links:
     description: "Which year actually moves the needle, and what each one is good for."
 ---
 
-The honest answer is that the best time to start is when you first notice the gap, and the most common time to start is about four months after that.
+The best time to start is when you first notice the gap. The time most families actually start is about four months after that.
 
-We take more enquiries in January than in any other month, because January is when the mock results come home. By then the family has lost the autumn term, which was the cheapest and most productive term available to them. So the practical version of this answer is: earlier than you are currently planning.
+We get more enquiries in January than in any other month, because that's when the mock results come home. By then you've lost the autumn term, and it was the cheapest, most useful term you had. So the practical answer is this: earlier than you're planning right now.
 
 ## The window you actually have
 
-Summer 2027 GCSE exams begin on **Monday 10 May 2027**, with the awarding bodies designating **Wednesday 23 June 2027** as the contingency day. Modern language speaking tests and some drama and English spoken assessments run earlier, from around March and April.
+The summer 2027 GCSE exams start on **Monday 10 May 2027**. The exam boards have kept **Wednesday 23 June 2027** free as a contingency day: a spare date held back in case an exam has to be moved. Some things happen sooner. Speaking tests in modern languages, and some Drama and English spoken assessments, run from around March and April.
 
-Count backwards from 10 May and here is what that gives you, allowing for holidays:
+Count back from 10 May, take out the holidays, and this is roughly what you've got:
 
 | Start point | Approximate teaching weeks before exams begin |
 |---|---|
@@ -36,77 +36,77 @@ Count backwards from 10 May and here is what that gives you, allowing for holida
 | After February half term | About 9 |
 | Easter 2027 | About 3 to 4 |
 
-That table is the entire argument. A family starting in September gets roughly double the working time of a family starting in January, at the same hourly rate. Nothing else in this article matters as much as that.
+That table's really the whole argument. Start in September and you get roughly twice the working time of a family who starts in January, at the same hourly rate. Nothing else I say here matters as much as that.
 
 ## Why September and October are the best months
 
-**The tutor pool is at its widest.** Good tutors in core subjects fill their weekly slots through the autumn term and are frequently full by half term. In January you are choosing from whoever is left, which is a materially worse selection than the one available in September. This is the practical reason to move early, and it is the one parents underestimate most.
+**The tutor pool is at its widest.** Good tutors in core subjects fill their weekly slots through the autumn term, and plenty are full by half term. In January you're choosing from whoever's left, and that's a noticeably thinner list than the one you'd have had in September. It's the most practical reason to move early. And it's the one parents underestimate most.
 
-**There is time for the work to compound.** Starting early means the tutoring feeds into the November and December mocks, which then produce better information about what still needs work, which then shapes the spring term. Starting in January means the mocks have already happened and you are working from a snapshot taken before any help arrived.
+**There's time for the work to build on itself.** Start early and the tutoring feeds into the November and December mocks. Those mocks then show more clearly what still needs work, and that shapes the spring term. Start in January and the mocks are already done, so you're working from a snapshot taken before any help arrived.
 
-**Predicted grades get made in this window.** Sixth forms and colleges make decisions on predicted grades, and predictions are heavily shaped by autumn assessments and mock performance. Deadlines and requirements vary by provider, so check the specific ones your child is applying to, but the general shape holds: work done in the autumn term influences the number a school writes down, and that number opens or closes doors before any real exam is sat.
+**Predicted grades get made in this window.** Sixth forms and colleges make decisions on predicted grades, and those predictions lean heavily on autumn assessments and the mocks. Each sixth form and college sets its own deadlines and entry requirements, so check the ones your child is applying to. But the broad pattern holds. What your child does in the autumn term shapes the number the school writes down. That number can open or close doors before a single real exam is sat.
 
-**One hour a week is manageable in September.** It stops being manageable in April, when it competes with revision, coursework deadlines and the general Year 11 crush. The same commitment is much easier to sustain from a standing start in the autumn.
+**One hour a week is easy to fit in September.** By April it isn't, because it's up against revision, coursework deadlines and the general Year 11 crush. The same hour is far easier to keep going when it's been part of your child's week since the autumn.
 
 ## The signs that say start now
 
-Do not wait for a mock result to confirm what you already suspect. In our experience these are the signals worth acting on:
+There's no need to wait for a mock result to confirm what you already suspect. In our experience, these are the signs worth acting on:
 
-- **They have stopped talking about a subject.** Teenagers go quiet about the thing that is going badly long before a grade proves it.
-- **Homework in one subject takes noticeably longer than the others**, or gets left until last, or produces an argument every time.
-- **A teacher has mentioned it**, even mildly. Teachers tend to understate. "Could be doing a bit more in Maths" at parents' evening is often a stronger signal than it sounds.
-- **Their book has marks but no improvement.** Corrections being made without anything changing usually means the underlying gap has not been found.
-- **They say they revised and the assessment came back low.** That is almost always a technique problem, and technique problems are the fastest and cheapest thing to fix.
-- **Confidence has dropped.** "I am just bad at Science" is a belief, and beliefs harden. Catching it in September is a very different job from catching it in March.
+- **They've stopped talking about a subject.** Teenagers often go quiet about whatever's going badly, long before a grade proves it.
+- **Homework in one subject takes noticeably longer than the rest**, or it's always left till last, or it ends in an argument every time.
+- **A teacher has mentioned it**, even mildly. Teachers tend to understate things. So "could be doing a bit more in Maths" at parents' evening is often a louder signal than it sounds.
+- **Their exercise book is full of marking, but nothing's improving.** When corrections keep getting made and nothing changes, it usually means the gap underneath hasn't been found yet.
+- **They say they revised, and the test still came back low.** That's almost always a technique problem. And technique problems are the quickest and cheapest thing to fix.
+- **Their confidence has dropped.** "I'm just bad at Science" is a belief, and beliefs harden. Catching it in September is a very different job from catching it in March.
 
 ## The case for waiting, which is real
 
-I am not going to argue that everyone should book in September.
+I'm not going to tell you everyone should book in September.
 
-**Give a new school year a few weeks.** Timetables change, teachers change, and sets change. A student who struggled in Year 10 Chemistry sometimes clicks with a different teacher in Year 11. Three or four weeks of the new term is a reasonable look before deciding.
+**Give the new school year a few weeks.** Timetables change, teachers change, sets change. If your child struggled in Year 10 Chemistry, they might click with a different teacher in Year 11. Three or four weeks of the new term is a fair look before you decide.
 
-**Do not stack subjects out of anxiety.** Booking three tutors in September because Year 11 has started is a good way to exhaust a fifteen year old by Christmas. One subject where the gap is genuine, done properly, beats three done thinly.
+**Don't stack up subjects out of worry.** Booking three tutors in September just because Year 11 has started is a good way to wear out a fifteen-year-old by Christmas. One subject where the gap's genuine, done properly, beats three done thinly.
 
-**Try the free things first.** School intervention sessions, subject clinics and a direct conversation with the head of department cost nothing. Sometimes they are enough, and it is worth a fortnight to find out.
+**Try the free things first.** Catch-up sessions at school, subject clinics and a straight conversation with the head of department don't cost anything. Sometimes they're enough, and it's worth a fortnight to find out.
 
-**If they are flatly opposed, deal with that first.** Tutoring a teenager who does not want it does not work. That conversation comes before the booking, not after.
+**If your child's flatly against it, sort that out first.** Tutoring a teenager who doesn't want it doesn't work. That conversation comes before the booking, not after.
 
 ## What to do in each month
 
-**August and early September.** Look at the summer's reports. Pick at most two subjects. If you are going to book, book now, while the good tutors still have slots.
+**August and early September.** Look over the summer reports. Pick two subjects at most. If you're going to book, do it now, while the good tutors still have space.
 
-**October.** Still a strong position. Enough runway to affect the mocks, and to fix technique before it gets tested.
+**October.** Still a strong place to be. There's enough time to help before the mocks, and to fix technique before it's tested.
 
-**November and December.** Mocks are happening or just have. This is a good diagnostic moment: a real paper under real conditions tells a tutor more in one sitting than a term of reported grades.
+**November and December.** The mocks are on, or just finished. It's a good moment to see what's really going on. One real paper, sat under real conditions, tells a tutor more than a term of reported grades.
 
-**January.** The single busiest month for enquiries and the point at which availability tightens. Still perfectly worthwhile with about fifteen teaching weeks left, but expect less choice of tutor and move quickly.
+**January.** Our busiest month for enquiries, and the point where good tutors' free slots get scarce. With about fifteen teaching weeks left it's still well worth doing. But expect less choice of tutor, and it helps to decide quickly.
 
-**February and March.** Shift the goal. This is technique, timing and past papers rather than rebuilding content. Done well it is worth several marks a paper.
+**February and March.** Change the goal. Now it's technique, timing and past papers rather than rebuilding content. Done well, that's worth several marks a paper.
 
-**April and May.** Genuinely last-minute, and still not pointless. Timed papers and mark-scheme drilling convert knowledge you already have into marks. Do not expect it to build anything new. We wrote about this in more detail in [how far before the exams is too late](/blog/how-far-before-exams-is-too-late-to-get-a-tutor/).
+**April and May.** Properly last-minute, but not pointless. Timed papers and practice against the mark scheme turn what your child already knows into marks. Just don't expect it to build anything new. There's more on this in [how far before the exams is too late](/blog/how-far-before-exams-is-too-late-to-get-a-tutor/).
 
 ## Year 10 is not too early
 
-Year 10 is the most underused window in the whole two-year course, and the numbers show it. The [Sutton Trust's Private Tutoring 2026 report](https://www.suttontrust.com/our-research/private-tutoring-2026/) found 25% of Year 11 students have had tutoring, against 10% in Year 10.
+Year 10 is the most underused stretch of the whole two-year course, and you can see it in the numbers. The [Sutton Trust's Private Tutoring 2026 report](https://www.suttontrust.com/our-research/private-tutoring-2026/) found 25% of Year 11 students have had tutoring, against 10% in Year 10.
 
-That gap is a shame, because Year 10 is when there is enough time to fix foundations properly rather than paper over them. A student who arrives in Year 11 with the basics genuinely secure needs far less help than one who is still patching holes in March. We have written about which year does more work in [Year 10 or Year 11](/blog/year-10-or-year-11-when-tutoring-makes-the-most-difference/).
+That's a shame, because Year 10 is when there's time to fix the foundations properly rather than paper over them. If your child reaches Year 11 with the basics secure, they'll need far less help than if they're still patching holes in March. We've written about which year does more of the work in [Year 10 or Year 11](/blog/year-10-or-year-11-when-tutoring-makes-the-most-difference/).
 
 ## Frequently asked questions
 
-**Is September too early if they have not had any assessments yet?**
-No. Last summer's reports and last year's exercise books tell you plenty, and a good tutor's first session is a diagnostic anyway. Waiting for a bad mock to confirm what you already know costs you the autumn term.
+**Is September too early if they haven't had any tests yet?**
+No. Last summer's reports and last year's exercise books tell you plenty. And a good tutor spends the first lesson working out where your child's gaps are anyway. Waiting for a bad mock to confirm what you already know just costs you the autumn term.
 
 **Should I wait for the mock results?**
-Only if you have no other signal. If you already suspect a problem, the mock will confirm it in December and you will have lost three months. If the mock is genuinely your first indication, then it is a good starting point and worth acting on immediately.
+Only if there's nothing else to go on. If you already suspect a problem, the mock will confirm it in December, and you'll have lost three months. But if the mock really is the first sign, it's a good place to start, and worth acting on straight away.
 
 **How many subjects should we start with?**
-One or two. Almost never three. The students who make the most progress are the ones with a manageable commitment they actually sustain.
+One or two. Almost never three. The children who make the most progress are the ones with a load small enough that they actually keep it up.
 
 **When do tutors get booked up?**
-Core-subject tutors with good availability tend to fill through the autumn and are often full by October half term. Slots reopen in the new year but the choice is narrower.
+Through the autumn. Tutors in the core subjects fill up steadily, and a lot of them are full by October half term. Some slots open up again in the new year, but there's less to choose from.
 
-**What if we start and it is not working?**
-Review it at six weeks. Look for a plan, a diagnostic, marked homework and some visible change. If those are missing, change tutor rather than giving up on the idea.
+**What if we start and it isn't working?**
+Give it six weeks, then take stock. You're looking for a plan, a first lesson that found your child's gaps, marked homework and some change you can see. If those are missing, change tutor rather than giving up on the idea.
 
 ## Sources
 
@@ -119,8 +119,8 @@ Teaching-week counts are approximate and vary by school calendar.
 
 ## Where The Degree Gap fits
 
-We are an online-only tutoring agency for GCSE and A-Level. Every family speaks to Joe or me on a free 30-minute call before any tutor is suggested, and a good number of those calls in August and September end with us suggesting one subject rather than the three the parent came in worried about.
+We're a tutoring agency for GCSE and A-Level, and everything we do is online. Before we suggest any tutor, you'll speak to Joe or me on a free 30-minute call. A good number of those calls in August and September end with us suggesting one subject, not the three the parent came in worried about.
 
-If you are reading this in the autumn, you are in the best month of the year to be reading it.
+If you're reading this in the autumn, you're reading it at the best time of year.
 
 [Book a free consultation call →](/book-a-call/)

@@ -1,41 +1,38 @@
 ---
 title: "Weybridge A-Level Tutors | From £37/hr | The Degree Gap"
-description: "A-Level tutors for Weybridge students in Year 12 and Year 13, one-to-one and online over Lessonspace, matched on the specification. From £37 an hour."
+description: "Started a new sixth form and the grades have dipped? Our Weybridge A-Level tutors work one-to-one online, matched to your child's exam board, from £37 an hour."
 layout: "subject"
 location: "Weybridge"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Weybridge Sixth Formers Settling Into a New Timetable"
+hero_heading_line1: "Online A-Level Tutors in Weybridge for When a New Sixth Form Knocks the Grades"
 hero_heading_line2: ""
-hero_lead: "Many Weybridge students start Year 12 somewhere new, with new teachers and a new exam board, and the first term goes quicker than anyone planned. Our Weybridge A-Level tutors work one-to-one online over Lessonspace to steady the subject that slipped before predictions are written."
+hero_lead: "A new sixth form, maybe a new exam board, and the first term of Year 12 has run away from your child. It happens a lot. Our Weybridge A-Level tutors work one-to-one online to steady the subject that slipped, before predicted grades are written."
 
 grade_from: "E/U"
 grade_to: "C"
-grade_stat: "One parent describes E and U grades turned into three C grades, for a son who had left the work until the final stretch."
+grade_stat: "Three Cs from E and U grades, for a son who'd left revision to the very last minute."
 
 first_lesson_eyebrow: "NEW BUILDING, NEW BOARD"
-first_lesson_heading: "Why a Weybridge A-Level Tutor Starts With the Year 12 Specification"
-first_lesson_context: "A student who moved from Heathside to Esher, or from an independent school into a state sixth form, can find the A-Level board is not the one their GCSE teachers used. Topics arrive in a different order and the long questions are worded differently. Nothing is wrong with the student. The first session maps what they know against the new specification and finds the gaps the move created."
+first_lesson_heading: "The Exam Board Question a Weybridge A-Level Tutor Asks First"
+first_lesson_context: "Move from Heathside to Esher, or from an independent school to a state sixth form, and the A-Level board may not be the one your child's GCSE teachers used. Topics come in a different order and the long questions are worded differently, none of which is their fault. So in the first lesson, the tutor checks what they know against the new course and finds the gaps the move left."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades to three Cs at A-Level"
 
-tutor_strip_heading: "Weybridge A-Level tutors who have sat these specifications recently"
-tutor_strip_body: "Students at Heathside, Esher Sixth Form College and St George's College sit a mix of boards, and at A-Level the specification shapes almost every lesson. Many tutors on our platform took these exams only a few years ago. Sessions are one-to-one on Lessonspace, and you can ask for two profiles first."
+tutor_strip_heading: "Weybridge A-Level tutors matched to your child's exam board"
+tutor_strip_body: "Heathside, Esher Sixth Form College and St George's College use a mix of exam boards, and at A-Level the board shapes almost every lesson. Plenty of the tutors on our platform sat these exams only a few years ago. You'll see two or three profiles first, then choose."
 
-pathways_heading: "What Weybridge Students Do After A-Levels"
-pathways_lead: "The three routes that come up most when we talk to Year 12 and Year 13 families here."
+pathways_heading: "Where a Weybridge A-Level Can Take Your Child"
+pathways_lead: "When we talk to Weybridge families in Year 12 and 13, these three come up most."
 pathways:
   - title: "Universities"
-    body: >
-      Royal Holloway at Egham, the University of Surrey in Guildford and Kingston University are all within easy reach, and a direct train from Weybridge puts the London universities in range too. Offers depend on predicted grades written in Year 13, well before the final papers.
+    body: "Royal Holloway in Egham, the University of Surrey in Guildford and Kingston University are all close by, and the direct train from Weybridge brings London's universities within reach too. Offers are made on predicted grades, long before your child sits the final papers."
   - title: "Degree Apprenticeships"
-    body: >
-      Procter and Gamble runs its UK head office at Brooklands in Weybridge and has recruited Chartered Manager degree apprentices there, studying alongside the job. Schemes like this publish their own grade requirements, and closing dates often fall before the UCAS deadline.
+    body: "Procter and Gamble has its UK head office at Brooklands, and it's taken on Chartered Manager degree apprentices there who study alongside the job. Schemes like this set their own entry grades, and the closing dates often come before the UCAS deadline, so it's worth looking early."
   - title: "Career Pathways"
-    body: >
-      Sony Europe is also based at Brooklands, and Mercedes-Benz World sits on the old racing circuit next to Brooklands Museum. Further afield, the fast line into Waterloo brings London employers within commuting range for graduates who stay local.
+    body: "Sony Europe is based at Brooklands too, and Mercedes-Benz World sits on the old racing circuit next to Brooklands Museum, so there are big names right on your doorstep. And the fast line into Waterloo puts London employers within commuting distance if your child would rather keep living at home."
 
 reviews:
   - "Abby|Parent of A-Level Student|Harry has tutored my son in both maths and economics A-levels and has been fantastic. Harry has been professional, approachable and engaging, he has explained things clearly and has fully supported my son through the last 2 years. We are absolutely delighted with the results. Thank you!"
@@ -50,13 +47,13 @@ reviews:
   - "Theresa|Parent|Harry and Joe were extremely helpful with a wealth of knowledge and contacts that helped my son to follow the right path."
 
 faq_1_q: "When should my child start A-Level tutoring, Year 12 or Year 13?"
-faq_1_a: "Year 12, in most cases. Predicted grades are built from Year 12 work and the first Year 13 assessments, and they go to universities in the autumn of Year 13. Starting in October of Year 12 lets a tutor fix the foundations before the first set of mocks. A Year 13 start can still lift the final grade, and plenty of families come to us then. But by that point the prediction has usually been sent, so the work becomes recovery rather than building."
+faq_1_a: "Year 12, for most families. Predicted grades come from Year 12 work and the first assessments of Year 13, and they're sent to universities with the UCAS application. Starting in October of Year 12 gives the tutor time to fix the foundations before your child's first mocks. Starting in Year 13 can still lift the final grade, and plenty of families come to us then. But by that point the prediction's usually been set, so it's more about catching up than building."
 faq_2_q: "My son moved sixth forms and his grades dropped. Is that common?"
-faq_2_a: "Very. A move at sixteen often means a new exam board, a new order of topics and new teachers with different expectations, all at once. Some students also lose the routine that carried them through GCSEs. A tutor looks at a marked assessment, works out which gaps come from the switch and which are the ordinary step up to A-Level, and deals with them in that order. It usually settles within a term of weekly lessons."
+faq_2_a: "Very common. Moving at sixteen can mean a new exam board, topics in a new order and teachers who expect different things, all at once. And the routine that got your son through GCSEs often doesn't survive the move. The tutor looks at a marked piece of work, sorts out which gaps come from the switch and which are just the usual step up to A-Level, and takes them in that order. For a lot of families, things settle within a term of weekly lessons."
 faq_3_q: "Can a tutor help with a degree apprenticeship application too?"
-faq_3_a: "Yes. Large employers near Weybridge, Procter and Gamble among them, run degree apprenticeships with their own entry requirements and deadlines that often come before the UCAS one. Tutors work on the grades that get an application considered. Harry and Joe can talk you through the written application, online assessments and interviews, and how to keep a university application running in parallel. Tell us on the first call if both routes are in play."
+faq_3_a: "Yes. Big employers near Weybridge, Procter and Gamble among them, run degree apprenticeships with their own entry grades, and their deadlines often come before the UCAS one. The tutor works on the grades that get your child's application looked at. Harry and Joe can talk you through the written application, the online tests and the interviews, and how to keep a university application going alongside. If your child's weighing up both, just mention it on the first call."
 faq_4_q: "What if my child needs help in more than one A-Level subject?"
-faq_4_a: "Usually that means two tutors, because A-Level teaching depends on deep subject knowledge and very few people are strong across two specifications at this level. Maths and Physics, or Biology and Chemistry, are the exceptions where one tutor sometimes covers both. We start with the subject doing the most damage and add a second only if the next set of results says so. Every lesson is paid for individually, with no contract."
+faq_4_a: "Usually that means two tutors. At A-Level each subject needs deep knowledge, and very few people teach two courses equally well at this level. Maths and Physics, or Biology and Chemistry, are the exceptions, where one tutor sometimes covers both. We'd start with the subject causing the most trouble and only add a second if the next results suggest it. You pay lesson by lesson, and there's no contract."
 
 sitemap:
   priority: 0.7

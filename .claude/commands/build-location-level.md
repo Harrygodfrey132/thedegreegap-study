@@ -11,6 +11,31 @@ Before doing any research, writing, or frontmatter generation, read all files in
 
 Apply these consistently across every field you write on both pages. They override any conflicting guidance in this skill. The skill below describes structure and rotation; the reference files define voice.
 
+## House Voice: Parent-Chat, on Every Page (required)
+
+Since September 2026 every location page is written in the parent-chat voice in `.claude/reference/tone.md`. It is not one option among the rotation banks below. The banks choose structure and angle; this is the voice every option is written in. Where an example further down talks about "students" in the third person, or opens with a statistic or the local school system, it shows the angle only: write it the parent-chat way.
+
+Before writing, read `content/locations/watford-tutors/_index.md` (a town page in this voice) and `content/subjects/gcse-maths-tutor/_index.md` (the reference page Harry and Joe signed off). Match how they sound. Don't lift their sentences: they are the voice, not the words.
+
+- **The test for every field:** would Joe say this, word for word, on the phone to a worried parent? If a line sounds like a report, a brochure or a sales call, say it the way you'd say it out loud.
+- **Talk to the parent about their child.** "Your child", "your son or daughter", "you". Keep "students" for when you really do mean students in general.
+- **Family first, town second.** Open with what the parent is seeing at home or worrying about, then bring in the local detail (schools, entry tests, sixth forms) where a parent would use it. An opener that leads with a league table, a statistic or how the local school system works is the old voice.
+- **Contractions and short sentences.** You'll, we'd, it's, doesn't. Mix in a few very short lines. Read it aloud.
+- **Normalise the worry, then make the next step small and plain.** Say what happens next, in order, and reassure with facts (from £37, no contract, a different tutor if they don't click), not adjectives.
+- The free consultation call is usually about 30 minutes (Harry, 2 Oct 2026): "a free call, usually about 30 minutes" or "a free 30-minute call". The meeting where the child meets the tutor stays a free 15-minute video meeting.
+
+## Before Saving: Run the Checker (required)
+
+    python3 scripts/check-pages.py content/locations/{slug}-tutors/gcse/_index.md content/locations/{slug}-tutors/a-level/_index.md
+
+It compares the page's own writing with every other location page of the same type, ignoring town names, and checks the voice rules above. Fix every FAIL before saving:
+
+- more than 30% of the page's own writing also on another page (it names the page, and the fields to rewrite)
+- never saying "your child"
+- an em dash, a banned word or phrase, an exclamation mark, or a grade promise
+
+Then read every WARN and fix what you agree with. A few stock sentences shared with other pages are fine (the price, how the steps work); a page built out of them is not. The examples in this skill and in tone.md are models, not lines to paste, and the checker will show you if one slipped in. Don't save a page that fails.
+
 ## Your Role
 
 You are a specialist content writer for The Degree Gap. You build **per-level deep-dive pages** for a UK location: one focused on GCSE tutoring and one focused on A-Level tutoring. Both pages live under the existing parent location page (e.g. `/locations/derby-tutors/`) and use the shared `subject.html` template.
@@ -113,7 +138,7 @@ These pages must rank for level-specific tutoring searches. Google needs to see 
 
 1. **`title`** — must contain `[Location] {Level} Tutors` or `{Level} Tutor [Location]`.
 2. **`description`** — must contain `[Location] {Level} tutor` or `{Level} tutoring in [Location]` naturally (single mention is enough).
-3. **`hero_heading_line1`** — the H1. Must contain `{Location}` AND `{Level}` AND `Tutors`, plus a pain-point continuation. The whole H1 sits in this field (8-14 words). `hero_heading_line2` is deprecated and must be left as `""`.
+3. **`hero_heading_line1`** — the H1. Must start with "Online" (Harry, 3 Oct 2026) and contain `{Location}` AND `{Level}` AND `Tutors`, plus a pain-point continuation. The whole H1 sits in this field (8-14 words). `hero_heading_line2` is deprecated and must be left as `""`.
 4. **`hero_lead`** — should use the plural phrase `{Location} GCSE tutors` or `{Location} A-Level tutors` once (it's the natural anchor right under the H1). One mention is enough.
 5. **`first_lesson_heading`** — must contain `{Level} Tutor` or `{Level} Tutoring`.
 
@@ -124,7 +149,7 @@ These pages must rank for level-specific tutoring searches. Google needs to see 
 8. **`pathways_heading` + `pathways_lead`** — one mention of `{Level} tutor/tutoring/tuition` across the heading and lead is fine. If it doesn't fit, skip it — the pathways section is about destinations, not tutoring.
 9. **`pathways` accordion bodies** — these should be about the destination (sixth form, university, employer), not the tutoring. **Do not force a tutor/tutoring/tuition mention into every body.** If one of the three bodies naturally references how tutoring helps reach that destination, fine. If none do, also fine. Editorial fit beats density.
 10. **FAQs** — answer the question. If the question is about Maths or online sessions or cost, the answer naturally uses the relevant keyword. Don't bolt the location-plus-level phrase into every answer.
-11. **Subject mentions across the page** — at some point the page should reference real subject pain (Maths foundation gaps, English essay structure, Sciences required practicals). When you do, the phrase "{Level} Maths tutor" or "A-Level Chemistry tutor" should sit inside that natural editorial context — not be listed as "the most-requested subjects" or "leading subject demand". **Quota: zero.** Mention what the page is actually about. If a page leans into the Maths angle, Maths gets named multiple times. If it leans into UCAS essay work, English Literature gets named. Topic-led writing beats checklist-led writing every time.
+11. **Subject mentions across the page** — at some point the page should reference real subject pain (Maths foundation gaps, English essay structure, Sciences practicals). When you do, the phrase "{Level} Maths tutor" or "A-Level Chemistry tutor" should sit inside that natural editorial context — not be listed as "the most-requested subjects" or "leading subject demand". **Quota: zero.** Mention what the page is actually about. If a page leans into the Maths angle, Maths gets named multiple times. If it leans into UCAS essay work, English Literature gets named. Topic-led writing beats checklist-led writing every time.
 
 **Banned phrasings (these came out of past audit and read as template-fill):**
 
@@ -239,7 +264,7 @@ tutors:
 
 ## Review Filtering (Both Pages)
 
-**CRITICAL: Reviews are real customer testimonials. The canonical Reviews Bank lives in `.claude/commands/build-location.md` under "Reviews Bank (use first names only, do not use full surnames)". 40 reviews are stored there. Open that file, find the bank, and copy each chosen review character-for-character.**
+**CRITICAL: Reviews are real customer testimonials. Copy reviews from `data/reviews.yaml` (Google) and `data/reviews-trustpilot.yaml` (Trustpilot), character for character: keep the reviewer's typos, emoji and line breaks (as `\n\n` inside a double-quoted string). Those files are the only source. Use first names only. A long review can be cut after a whole sentence and marked with " …", but never reworded, tidied or merged.**
 
 Do NOT:
 - Re-word any sentence, replace em dashes/apostrophes/punctuation, add or remove text
@@ -262,7 +287,7 @@ Use first names only.
 - Mention university admission
 - Are from "Parent of A-Level Student", "A-Level Student", or "University Student/Applicant"
 
-Aim for **15-25 reviews per page**. Quality over quantity.
+Aim for **6 to 8 reviews per page**, most relevant first. The carousel shows the first 6 (the full set lives in the reviews drawer), and a longer list only put the same review text on every town's hub. Quality over quantity.
 
 **Vary review order across pages.** Do not always put Omo first on every GCSE page or Nick first on every A-Level page. Pick a different anchor and re-shuffle the rest.
 
@@ -273,12 +298,11 @@ Pick one review per page to be the **anchor for the hero grade card AND the firs
 **Reviews with explicit grade jumps you can legitimately use as anchors:**
 
 GCSE anchors:
-- **Omo** — "improved from a grade 5 to a 6/7" in GCSE English → grade_from: "5", grade_to: "7"
+- **Omo** — "improved from a grade 5 to a 6/7" in GCSE English → grade_from: "5", grade_to: "6/7" (her words, not a 7)
 - **Keira** — "increase my grades from an E to a B" → grade_from: "E", grade_to: "B"
 - (limited bank — most GCSE reviews are qualitative)
 
 A-Level anchors:
-- **Daljit** — "two grades higher than his year 13 mock paper" → grade_from: "C", grade_to: "A" (interpretable two-letter jump)
 - **Joanna** — "turn E and U grades into 3 C grades" → grade_from: "E", grade_to: "C"
 - **Alexander** — "from Cs to As" → grade_from: "C", grade_to: "A"
 
@@ -288,6 +312,7 @@ A-Level anchors:
 - Mahir (Economics, "real grip of complicated areas") — vague
 - Sarom (Economics, "patience, motivator, subject matter expertise") — no grades
 - Alison (History + Sociology, "tremendous support, teaching content as well as exam technique") — no grades
+- Daljit ("almost two grades higher than jis year 13 mock paper") — names no grades. Existing hubs keep their Daljit cards (Harry, 2 Oct 2026), but new pages use Omo, Keira, Joanna or Alexander
 
 These reviews can still appear in the reviews carousel. They just can't anchor the grade card.
 
@@ -325,27 +350,27 @@ Count the characters. If the combination runs long, pick a shorter slot A.
 **Template behaviour:** the `<h1>` renders `hero_heading_line1` followed by an optional `<br>` and `hero_heading_line2`. **For these pages we use line 1 only. Leave `hero_heading_line2` blank (empty string `""`).**
 
 The H1 must be one coherent phrase that contains both:
-1. The SEO keyword (`{Location} {Level} Tutors` or `{Level} Tutors in {Location}`)
+1. The word "Online" first, then the SEO keyword (`Online {Location} {Level} Tutors` or `Online {Level} Tutors in {Location}`)
 2. The pain point or differentiator the page is anchored on
 
 **Length:** 8-14 words total. Long enough to carry a pain point, short enough to read as a heading at H1 size.
 
 **Structure (pick one shape):**
 
-1. `{Location} {Level} Tutors Who [verb pain]`
-   - `Manchester A-Level Tutors Who Lift Predicted Grades Before UCAS`
-   - `Bristol GCSE Tutors Who Close the Gap Before Mocks`
-2. `{Location} {Level} Tutors For [pain context]`
-   - `Liverpool GCSE Tutors For the Year 11 Mock Window`
-   - `Birmingham A-Level Tutors For the GCSE-to-A-Level Jump`
-3. `{Location} {Level} Tutors Built for [outcome]`
-   - `Derby GCSE Tutors Built for the Year 11 Sprint`
-4. `{Level} Tutors in {Location} Who [verb pain]`
-   - `A-Level Tutors in Manchester Who Push Predicted Grades Up`
-   - `GCSE Tutors in Bristol Who Fix Exam Technique Fast`
+1. `Online {Location} {Level} Tutors Who [verb pain]`
+   - `Online Manchester A-Level Tutors Who Lift Grades Before UCAS Predictions`
+   - `Online Bristol GCSE Tutors Who Close the Gap Before the Mocks`
+2. `Online {Location} {Level} Tutors for [pain context]`
+   - `Online Liverpool GCSE Tutors for the Year 11 Mock Window`
+   - `Online Birmingham A-Level Tutors for the Jump From GCSE`
+3. `Online {Location} {Level} Tutors Built for [outcome]`
+   - `Online Derby GCSE Tutors Built for the Year 11 Sprint`
+4. `Online {Level} Tutors in {Location} Who [verb pain]`
+   - `Online A-Level Tutors in Manchester Who Start With the Mock Paper`
+   - `Online GCSE Tutors in Bristol Who Work on Exam Technique`
 
 **Required:**
-- Contains `{Location}` AND `{Level}` AND `Tutors` (SEO H1 anchor)
+- Starts with `Online`, and contains `{Location}` AND `{Level}` AND `Tutors` (SEO H1 anchor)
 - Names a broadly-felt pain point (not a niche route like Oxbridge or HSBC)
 - One coherent phrase, not two stacked sentences
 - 8-14 words
@@ -368,7 +393,7 @@ The previous design split the H1 across two lines. That produced visual stacking
 
 These hooks are written in pain→solution Q+A shape. Each is anchored to a Year-group, mock-cycle or UCAS milestone that applies only at that level. Use them as inspiration when writing:
 
-- **The H1 (`hero_heading_line1`)** — extract the pain phrase, fit it into the 8-14 word H1 structure (`{Location} {Level} Tutors Who [verb the pain]`). E.g. hook #4 ("Stuck on a Year 8 topic that never clicked") → H1: `Birmingham GCSE Tutors Who Find the Year 8 Gap`.
+- **The H1 (`hero_heading_line1`)** — extract the pain phrase, fit it into the 8-14 word H1 structure (`Online {Location} {Level} Tutors Who [verb the pain]`). E.g. hook #4 ("Stuck on a Year 8 topic that never clicked") → H1: `Online Birmingham GCSE Tutors Who Find the Year 8 Gap`.
 - **The hero_lead paragraph** — use the hook as a starting point for sentence 1, then write a fresh solution in sentence 2 with the plural keyword.
 
 **Key rule:** for both H1 and lead, you want the **widest possible parent recognition**. The high-achievement hooks (#20-23, #41-45) are for niche segments and should usually NOT anchor the hero — most parents searching don't have a child applying to Oxbridge or HSBC. Save those niche framings for body sections (pathways, FAQ #1, tutor_strip).
@@ -384,7 +409,7 @@ Never paste verbatim. The bank is inspiration, not copy-paste source.
 2. *Grades slipping in Year 11 mocks in {loc}?* / Our {loc} GCSE tutors find the topics losing marks and fix exam technique in weeks, not terms.
 3. *GCSE Maths feels overwhelming in {loc}?* / Our {loc} GCSE tutors break algebra, geometry and problem-solving into steps your child can hold onto.
 4. *Stuck on a Year 8 topic that never clicked in {loc}?* / Our {loc} GCSE tutors find foundational gaps fast and rebuild from there.
-5. *GCSE Sciences calculations losing marks in {loc}?* / Our {loc} GCSE tutors drill the six-mark questions and required practicals examiners actually weight.
+5. *GCSE Sciences calculations losing marks in {loc}?* / Our {loc} GCSE tutors drill the six-mark questions and practical questions examiners actually weight.
 6. *GCSE English essays falling short in {loc}?* / Our {loc} GCSE tutors tighten essay structure and unseen poetry analysis under timed conditions.
 7. *Not improving despite revision in {loc}?* / Our {loc} GCSE tutors teach exam-day strategy, not just more content.
 
@@ -448,7 +473,7 @@ Never paste verbatim. The bank is inspiration, not copy-paste source.
 
 **How to use the hook bank:**
 - Pick **one** hook that matches the city's strongest pain (the angle you identified in research).
-- For the H1 (`hero_heading_line1`): extract the pain phrase and fit it into the 8-14 word H1 structure (see the four H1 shapes above). E.g. hook #4 ("Stuck on a Year 8 topic that never clicked") → `Birmingham GCSE Tutors Who Find the Year 8 Gap`.
+- For the H1 (`hero_heading_line1`): extract the pain phrase and fit it into the 8-14 word H1 structure (see the four H1 shapes above). E.g. hook #4 ("Stuck on a Year 8 topic that never clicked") → `Online Birmingham GCSE Tutors Who Find the Year 8 Gap`.
 - For Hero Lead: use the hook's Q+A shape as a starting point, then rewrite both sentences with city-specific anchors (named school, employer, sixth-form).
 - Never paste the hook verbatim. The bank is inspiration, not copy-paste source. Pages need fresh wording.
 - Cross-check: if the last city's page used hook #N, your page picks a different one.
@@ -468,31 +493,31 @@ This is the banner subline. It is **two sentences. Maximum three.** Pain or cont
 - Total under 50 words. Aim for 30-40.
 - **No specific named schools, employers or universities in the hero lead.** That detail is earned in the body.
 
-**Four structural shapes — pick one, rotate across pages:**
+**Structural shapes — pick one, rotate across pages. Every shape talks to the parent about their child (see House Voice at the top); the parent-scene opener is the default:**
 
 1. **Pain → solution.** Sentence 1 names a broadly-felt pain. Sentence 2 names what the tutor does.
-   > *"Mock results just came back and the predicted grade isn't where it needs to be. Our Bristol GCSE tutors trace the gap back to where it started and rebuild before the next round of mocks."*
+   > *"Mock results are back and the predicted grade isn't where your child needs it to be. Our Bristol GCSE tutors trace the gap back to where it started and rebuild before the next round of mocks."*
 
 2. **Question → answer.** Sentence 1 is the parent's actual question. Sentence 2 is the direct answer using the plural keyword.
-   > *"Year 11 mocks landed harder than expected? Our Bristol GCSE tutors find the topics losing the most marks and fix exam technique in weeks, not terms."*
+   > *"Did the Year 11 mocks land harder than your child expected? Our Bristol GCSE tutors find the topics losing the most marks and start on exam technique from the first lesson."*
 
 3. **Stake → fix.** Sentence 1 names what's at risk (the predicted grade, the sixth-form offer, the UCAS submission). Sentence 2 names how tutoring changes it.
-   > *"By March, mock grades become the predicted grade your sixth form sees. Our Bristol GCSE tutors lift students out of borderline-5 territory into a confident grade 6 or 7."*
+   > *"By March, your child's mock grades become the predicted grade their sixth form sees. Our Bristol GCSE tutors work on the handful of topics that keep a borderline 5 from becoming a confident 6."*
 
 4. **Bold claim → proof.** Sentence 1 is a confident, plain statement. Sentence 2 grounds it in a moment in the year.
-   > *"Our Bristol A-Level tutors lift predicted grades by a band, sometimes two. Most start in Year 12, ahead of the January mocks that decide UCAS offers."*
+   > *"Our Bristol A-Level tutors often help lift a predicted grade by a band. Most families start in Year 12, well before the Year 13 mocks that feed into UCAS predictions."*
 
 5. **Foundation-gap opener (GCSE only).** Sentence 1 names a broadly-felt early-years gap that compounds into Year 11. Sentence 2 names the trace-and-rebuild.
-   > *"By Year 11 most GCSE struggles trace back to a Year 8 or 9 topic nobody re-explained. Our Bristol GCSE tutors find that root gap in week one and rebuild from there."*
+   > *"If your child is struggling in Year 11, it usually traces back to a Year 8 or 9 topic nobody had time to re-explain. Our Bristol GCSE tutors find that gap in the first lesson and rebuild from there."*
 
 6. **Comparison opener.** Sentence 1 names a broad contrast inside the parent reader's mind (grade 5 vs grade 8 trajectories, Year 12 vs Year 13 needs). Sentence 2 names what tutoring does in both halves. No named local schools.
-   > *"Some Year 11s arrive needing a confident grade 5 in English and Maths; others are stretching for grade 8 and 9. Our Manchester GCSE tutors handle both briefs."*
+   > *"Some Manchester parents want a safe grade 5 in English and Maths; others have a child reaching for 8s and 9s. Our Manchester GCSE tutors work with both, at your child's pace."*
    (3 sentences allowed for this shape only.)
 
 7. **Time-pressure opener.** Sentence 1 names a deadline window every parent at this level knows (March mocks, Year 13 January mocks, UCAS prediction submission). Sentence 2 names what one-to-one work fixes inside that window.
-   > *"Year 13 January mocks decide UCAS predicted grades. Our Liverpool A-Level tutors lift students out of borderline territory into the offer band universities actually ask for."*
+   > *"Year 13 mocks feed straight into your child's UCAS predicted grades. Our Liverpool A-Level tutors work on the papers that keep a borderline grade short of the offer your child is aiming for."*
 
-8. **Parent-scene opener (USE THIS WARMER VOICE WHEN POSSIBLE).** Sentence 1 names a specific moment in the parent's actual evening, not an abstract pain. Sentence 2 brings the tutor solution in.
+8. **Parent-scene opener (the default: the house voice).** Sentence 1 names a specific moment in the parent's actual evening, not an abstract pain. Sentence 2 brings the tutor solution in.
    > *"By the time most Liverpool parents reach us, they have spent a few weeks quietly worried, the homework getting harder, the answers shorter, the conversations smaller. Our Liverpool GCSE tutors step into that quiet hour a few times a week and find the gap that nobody has had time to name."*
 
 **Warmth principles for the hero_lead (read before writing):**
@@ -722,7 +747,7 @@ The previous version of this skill dictated the same 4 questions in the same phr
 8. Q: `Can an A-Level tutor help with the EPQ or coursework in {Location}?` / A: Yes, with the caveat that final work stays the student's own.
 9. Q: `Do you offer A-Level tutoring online for {Location} students?` / A: Most sessions online, why it works for A-Level depth work, Lessonspace mention.
 10. Q: `How does A-Level tutoring help with Russell Group offers?` / A: Concrete on the AAB/AAA/A*AA pressure points, evaluation-level work, AO3 marks.
-11. Q: `Can an A-Level tutor help with A-Level Sciences in {Location}?` / A: Yes, name the specific A2 content compounding A1 gaps, required practicals, mathematical demand.
+11. Q: `Can an A-Level tutor help with A-Level Sciences in {Location}?` / A: Yes, name the Year 13 content that builds on Year 12 gaps (A-Levels are linear: there is no A1 or A2), the practicals, mathematical demand.
 12. Q: `What if my child is retaking an A-Level?` / A: Different approach from first-attempt tutoring, focus on what went wrong and rapid technique work.
 13. Q: `Can A-Level tutoring help with degree apprenticeship applications in {Location}?` / A: Yes, name local employers, UCAS-points threshold work, application-window prep.
 14. Q: `How much does A-Level tutoring cost in {Location}?` / A: From £37 per hour, depends on tutor.
@@ -744,7 +769,7 @@ Pick 2-4 per page that match the city's character. A page that touches every pai
 - **Year 10 to Year 11 trajectory:** Predicted grades stuck below target, mock results dropping despite revision, grade boundaries pulling away in Maths and Sciences, parents not understanding why effort and grades don't match.
 - **Mock exam pain:** First November mocks landing harder than expected, January resits, March mocks setting the predicted grade for sixth-form applications, the difference between knowing content and writing it in 1h 30, students who can do practice papers calmly but freeze in the hall.
 - **Sixth-form entry pressure:** Conditional grade 6 in English and Maths for a chosen sixth form, grade 5 minimum for Level 3 college courses, grammar-school federations pushing for grade 7-9.
-- **Subject pain:** GCSE Maths: algebra, geometry, 9-mark problem-solving, paper 3 calculator timing. GCSE English: Language paper 1 source-based writing, Literature essay under timed conditions, unseen poetry. GCSE Sciences: required practicals, six-mark questions, calculations under pressure. GCSE History: source analysis, 16-mark essay. GCSE Geography: case studies, long-answer questions.
+- **Subject pain:** GCSE Maths: algebra, geometry, multi-step problem-solving, paper 3 calculator timing. GCSE English: Language paper 1 source-based writing, Literature essay under timed conditions, unseen poetry. GCSE Sciences: required practicals, six-mark questions, calculations under pressure. GCSE History: source analysis, 16-mark essay. GCSE Geography: case studies, long-answer questions.
 - **Confidence and identity:** Bright students who've decided they're "just not good at Maths", students who've stopped putting their hand up, students who think a grade 4 is a personal verdict.
 - **Practical / pace:** Class of 32, teacher dealing with disruption, supply teaching covering core topics, students embarrassed to ask the same question for the third time.
 
@@ -755,7 +780,7 @@ Pick 2-4 per page that match the city's character. A page that touches every pai
 - **Timed exam performance:** Students who finish practice papers calmly at home but run out of time in the exam, the 2h 30 endurance gap.
 - **UCAS pressure:** Predicted grades arriving below offers, Russell Group conditional offers requiring an A in a specific subject, Oxbridge and Medicine needing A* across the board, BBB vs AAB making the difference.
 - **Personal statement and interviews:** Generic Year 12 personal statements, Oxbridge interview prep, Medicine UCAT/BMAT pressure.
-- **Subject-specific A-Level pain:** A-Level Maths: pure/mechanics/statistics balance, Further Maths workload. A-Level Sciences: A2 content compounding A1 gaps, required practicals, organic chemistry mechanisms, mathematical demand in Physics. A-Level Economics: the 25-mark essay, evaluation depth, diagrams. A-Level Psychology: research methods, AO3 evaluation chains. A-Level History: 25-mark essay, source-based question.
+- **Subject-specific A-Level pain:** A-Level Maths: pure/mechanics/statistics balance, Further Maths workload. A-Level Sciences: Year 13 content building on Year 12 gaps, the practicals, organic chemistry mechanisms, mathematical demand in Physics. A-Level Economics: the 25-mark essay, evaluation depth, diagrams. A-Level Psychology: research methods, AO3 evaluation chains. A-Level History: 25-mark essay, source-based question.
 - **Confidence at the top end:** High-achieving students who've never had to work hard until A-Level, students whose teachers told them they'd be fine and now they're not.
 
 ### How to use the vocabulary
@@ -794,7 +819,8 @@ Older pages still have these fields filled in; harmless to leave, but new pages 
 | `hero_heading_line1` | `<h1>` text | H1 large bold | the whole H1 sits here |
 | `hero_heading_line2` | `<h1>` after `<br>` | H1 large bold | **DEPRECATED — set to `""`** |
 | `hero_lead` | `<p class="loc-hero__lead">` | body paragraph under H1 | supporting copy |
-| `grade_from` / `grade_to` / `grade_stat` | grade card on hero right | display numbers + small caption | "Predicted grade" → "Achieved grade" |
+| `grade_from` / `grade_to` / `grade_stat` | grade card on hero right | display numbers + small caption | labelled "Where they started" → "Where they got to" |
+| `grade_card` | grade card labels | optional, `aim` only | legacy hubs whose card isn't backed by a review: labels become "Where many start" → "What the lessons aim for", and `grade_stat` must describe an aim, never a result. New pages never use it |
 | `first_lesson_eyebrow` | `<p class="loc-eyebrow">` | small uppercase tag | sits above the H2 |
 | `first_lesson_heading` | `<h2>` | H2 large | section heading |
 | `first_lesson_context` | `<p>` | body paragraph | sits above the quote |
@@ -803,7 +829,7 @@ Older pages still have these fields filled in; harmless to leave, but new pages 
 | `tutor_strip_heading` / `_body` | partial `gcse-tutor-strip.html` | section above the carousel | |
 | `tutors` | tutor cards in strip | from site data by default | usually omitted, defaults work |
 | `tutors_browse_url` | CTA link | | usually omitted |
-| `reviews` | review carousel cards | format: `Name|Role|Text` | 15-25 entries |
+| `reviews` | review carousel cards (first 6 shown) | format: `Name|Role|Text` | 6-8 entries, most relevant first |
 | `pathways_heading` | `<h2>` in pathways section | H2 large | |
 | `pathways_lead` | `<p class="gs-pathways__lead">` | body lead paragraph | |
 | `pathways[].title` | `<summary>` text | accordion label | "Sixth Forms" / "Apprenticeships" / "Further Education" (GCSE); "Universities" / "Degree Apprenticeships" / "Career Pathways" (A-Level) |
@@ -832,7 +858,7 @@ layout: "subject"
 location: "[Location]"
 level: "[GCSE or A-Level]"   # case-sensitive
 
-hero_heading_line1: "[Full H1, 8-14 words: Location + Level + Tutors + pain-point continuation. e.g. 'Birmingham GCSE Tutors Who Find the Year 8 Gap']"
+hero_heading_line1: "[Full H1, 8-14 words: Location + Level + Tutors + pain-point continuation. e.g. 'Online Birmingham GCSE Tutors Who Find the Year 8 Gap']"
 hero_heading_line2: ""   # DEPRECATED, always empty
 hero_lead: "[2-3 sentences, under 50 words. MUST use plural keyword '{Location} GCSE tutors' or '{Location} A-Level tutors' at least once. Broad GCSE/A-Level pain (NOT a niche local anchor). Pick a structural shape from Hero Lead section]"
 
@@ -867,7 +893,7 @@ pathways:
       [Same — 2 sentences max, ≥2 named entities. No keyword quota.]
 
 reviews:
-  - "Name|Role|Review text"   # 15-25 entries, level-filtered, varied order
+  - "Name|Role|Review text"   # 6-8 entries, level-filtered, most relevant first (the first 6 show)
 
 tutors:
   - name: "..."
@@ -1010,7 +1036,7 @@ For **each page** built:
 **SEO (hard anchors only — no body-section quotas):**
 - [ ] Title 65 chars or fewer, contains location + level
 - [ ] Description 145-160 chars, contains level + tutor/tutoring + location (one natural mention)
-- [ ] `hero_heading_line1` is the full H1 (8-14 words) containing location + level + Tutors + pain-point continuation
+- [ ] `hero_heading_line1` is the full H1 (8-14 words), starts with "Online", and contains location + level + Tutors + pain-point continuation
 - [ ] `hero_heading_line2` is `""` (empty)
 - [ ] `hero_lead` uses the plural phrase `{Location} {Level} tutors` once (natural anchor under the H1)
 - [ ] `first_lesson_heading` contains `{Level} Tutor` or `{Level} Tutoring`
@@ -1023,7 +1049,7 @@ For **each page** built:
 - [ ] `pathways` names ≥ 8 specific local entities across the three categories
 - [ ] `first_lesson_quote` is a REAL review — verbatim
 - [ ] `grade_from`/`grade_to`/`grade_stat` anchored to that same real review
-- [ ] `reviews` has 15-25 entries, all level-relevant, order varied from last page
+- [ ] `reviews` has 6-8 entries, all level-relevant, the most relevant first and a different lead review from the last page
 - [ ] `tutors` has 8-10 entries with valid URLs and image paths
 
 **Uniqueness — the big one:**
@@ -1035,6 +1061,8 @@ For **each page** built:
 - [ ] Parent quote matches the level.
 
 **Anti-AI:**
+- [ ] Every parent-facing field talks to the parent about "your child", in the parent-chat voice from tone.md. Would Joe say it, word for word, on the phone?
+- [ ] `python3 scripts/check-pages.py` passes on both files (no FAIL), and you've read every WARN
 - [ ] Zero em-dashes anywhere outside verbatim reviews
 - [ ] Zero banned words
 - [ ] Zero banned phrases

@@ -372,7 +372,9 @@
       <a class="blog-featured" href="{{ $featured.RelPermalink }}">
         {{ with $featured.Params.hero_image }}
         <div class="blog-featured__media">
-          <img src="{{ partial "url.html" . }}" alt="{{ $featured.Title }}" loading="lazy">
+          {{/* Resized through the partial: the originals are 1 to 7 MB each.
+               alt is empty because the post title is text in the same link. */}}
+          {{ partial "responsive-image.html" (dict "src" . "alt" "" "loading" "lazy" "widths" (slice 420 760 1100) "fallbackWidth" 760 "sizes" "(min-width: 901px) 600px, 100vw") }}
         </div>
         {{ end }}
         <div class="blog-featured__copy">
@@ -452,7 +454,7 @@
         <a class="blog-card" href="{{ .RelPermalink }}" data-blog-tags="{{ delimit $cardTags " " }}">
           {{ with .Params.hero_image }}
           <div class="blog-card__media">
-            <img src="{{ partial "url.html" . }}" alt="{{ $.Title }}" loading="lazy">
+            {{ partial "responsive-image.html" (dict "src" . "alt" "" "loading" "lazy" "widths" (slice 420 760) "fallbackWidth" 420 "sizes" "(min-width: 1000px) 360px, (min-width: 641px) 50vw, 100vw") }}
           </div>
           {{ end }}
           <p class="blog-card__eyebrow">

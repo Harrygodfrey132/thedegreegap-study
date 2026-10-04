@@ -1,16 +1,16 @@
 ---
 title: "GCSE English Tutors for Beaconsfield | The Degree Gap"
 nav_title: "English"
-description: "Friendly GCSE English tutors for Beaconsfield families, for Language and Literature, matched on exam board and set texts. One-to-one online, from £37."
+description: "Your child sits two English GCSEs, Language and Literature. Our Beaconsfield GCSE English tutors help with both, one-to-one and online, from £37 an hour."
 layout: "level-subject"
 location: "Beaconsfield"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Beaconsfield Students Who Know the Books but Lose Marks on the Essays"
-hero_lead: "Lots of Beaconsfield parents tell us the same thing: my child reads, they understand the texts, and the English grade still won't budge. Our Beaconsfield GCSE English tutors work one-to-one online on planning, quotations and finishing essays inside the time."
+hero_h1: "Online GCSE English Tutors for Beaconsfield Children Who Know the Books but Lose Marks on the Essays"
+hero_lead: "Lots of Beaconsfield parents describe the same kind of essay coming home: good ideas, 'needs more depth' in the margin, and sometimes no ending at all. Our Beaconsfield GCSE English tutors help one-to-one, online, with planning, quotations and getting essays finished inside the time."
 
-card_heading: "Talk to a member of the team to start the matching process"
+card_heading: "Talk your child's GCSE English through with Harry or Joe"
 card_points:
   - "A free consultation call, usually around 30 minutes, to get to know you and your child"
   - "2 or 3 tutor profiles within 24 hours of the call"
@@ -19,13 +19,13 @@ card_cta: "Book a Free Consultation"
 
 angle_eyebrow: "TWO GCSES, NOT ONE"
 angle_heading: "Why English Is Two Grades to Get Right in Beaconsfield"
-angle_body_1: "English Language and English Literature are separate GCSEs, so English makes up two of the eight grades a sixth form adds up. Beaconsfield High School asks for a grade 5 in either Language or Literature for its sixth form, which means a strong result in one of the two can carry that requirement. The marks leak in the same places year after year. Unseen poetry, which revision notes can't really prepare for. Literature essays sat closed book, with quotations to remember under pressure. And the Language writing task, which comes last and too often gets fifteen tired minutes."
-angle_body_2: "A tutor starts from the texts your child's school actually teaches and the board it enters, since help with the wrong novel or the wrong anthology is wasted. Then it's short quotation lists learnt properly, a quick plan before the first sentence, and timed paragraphs on the shared whiteboard, where the tutor annotates as your child writes. For one student the first win is simply finishing on time. For another, already secure, it's sharper comment on language and structure, which is where the higher bands are decided."
+angle_body_1: "If English is the worry, there are really two grades to think about. Language and Literature are separate GCSEs, and both can count in the best eight grades Beaconsfield High School adds up for its sixth form. For English itself, it asks for a grade 5 in Language or Literature, not both. The marks tend to go missing in the same few places. Unseen poetry, a poem your child has never read until it's in front of them. Literature essays with no copy of the book on the desk, so every quotation comes from memory. And the Language writing task, which comes last and too often gets fifteen tired minutes."
+angle_body_2: "So the tutor starts with your child's own books and exam board, since tips on the wrong novel earn nothing. Then it's about which grade needs the work. For Literature, that usually means a short list of quotations learnt properly and a plan jotted down first. For Language, it's often the clock, so the writing task at the end gets a proper go. Paragraphs get written to time on the shared whiteboard while the tutor comments. Once your child finishes comfortably, lessons move on to sharper points about how the writer uses language and structure. That's where the higher grades are won."
 angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"
-angle_image_alt: "Annotated poem notes from a GCSE English lesson held online"
+angle_image_alt: "A hand writing on lined paper beside highlighted notes and two highlighter pens"
 angle_stat_from: "5"
 angle_stat_to: "7"
-angle_stat_detail: "Where a term or two of weekly online English lessons can aim, once essays are planned first and finished inside the time."
+angle_stat_detail: "What the weekly lessons aim for, once your child plans every essay first and finishes inside the time. It's a goal, never a promise."
 
 schools:
   - "The Beaconsfield School"
@@ -35,27 +35,27 @@ schools:
   - "Royal Grammar School"
   - "John Hampden Grammar School"
 
-steps_heading: "Start online GCSE English tutoring in Beaconsfield in 3 steps"
-steps_lead: "Tell us the novel, the play and the poetry cluster when we speak, because for Literature those shape which tutors we suggest."
+steps_heading: "Three steps to your child's Beaconsfield GCSE English tutor"
+steps_lead: "Before we talk, note down which novel, play and poems your child's studying. For Literature, the books decide which tutors we put forward."
 steps:
   - title: "Book a free consultation call"
-    body: "Usually around 30 minutes, so we can get to know you and your child and personalise the match. Tell us the year group, school and board, which paper is worrying you, and whether the essays are unfinished or just not scoring. Those need different help."
+    body: "It's with Harry or Joe, our co-founders, usually for around 30 minutes, so we can get to know you and your child. Tell us the school, the board and which paper's the worry, and whether essays are unfinished or finished but not scoring. Those need quite different help."
   - title: "Meet 2 or 3 tutors"
-    body: "Within 24 hours of the call you'll get profiles of two or three tutors chosen for your child's board and set texts. Your child meets your favourite on a free 15-minute video call, and only then do you decide whether to book."
+    body: "Within 24 hours you'll have profiles of two or three tutors, picked for your child's board and the books they're studying. Your child gets to know the one you like on a free 15-minute video call, and only after that do you decide whether to book."
   - title: "Start weekly lessons"
-    body: "An hour a week, online using the platform Lessonspace, plus replay available, with essays written against the clock and marked as they go. Many families keep one slot from September to the summer. From £37 an hour, no contract."
+    body: "Lessons are an hour a week in the online classroom Lessonspace, and every one has a replay. Most include some writing done to time and marked straight away. Many families keep one slot from September to the summer. From £37 an hour, no contract."
 
 faqs:
-  - q: "What's the hardest part of GCSE English for Beaconsfield students?"
-    a: "Unseen poetry and the timing of the Literature paper cause the most trouble, whichever school your child is at. Unseen poems can only be practised, not revised, so students without a clear method freeze. Literature essays need accurate quotations from memory and an argument about a theme rather than a retold plot. In Language, the final writing task suffers because it comes last. These are technique problems more than reading problems, which is why timed practice moves them quite quickly."
+  - q: "Where in the GCSE English papers do Beaconsfield children usually drop marks?"
+    a: "Mostly in unseen poetry and against the clock on the Literature papers, whichever school your child is at. An unseen poem is one they've never read, so there's no revising for it, only practice, and a child without a method tends to freeze. Literature wants an argument about a theme, backed by quotations your child has learnt, not the plot retold. And in Language, the writing task loses out simply by coming last. That's technique more than reading, and it usually moves quite quickly with timed practice and someone to mark it."
   - q: "Why is my child struggling with GCSE English when they read a lot?"
-    a: "Because the exam rewards something reading alone doesn't build: a planned, timed argument about a text. Many keen readers understand the books well and still write essays that summarise instead of analyse, or run out of time before their best point. Others were never really shown how to plan, so every essay comes out as it comes. A tutor looks at a recent essay or mock first, works out which of these it is, and practises that one habit."
+    a: "Because reading well and writing a timed exam essay are different skills. Plenty of keen readers know the novel inside out, then write an essay that tells the story instead of looking at how it's written. Some run out of time before their best point. Others don't have a reliable way to plan yet, and in a full class there's rarely time to build one with each child. The tutor looks through something your child wrote recently, spots which of these it is, and works on that habit first."
   - q: "Does it matter whether my child sits AQA or Edexcel English?"
-    a: "Yes, more than most parents expect. The skills overlap, but the papers are organised differently, the Literature set texts and poetry anthologies differ, and so does the way marks are shared between reading and writing. A tutor who knows your child's board can start on real past questions straight away. We confirm the board on the consultation call. In Beaconsfield it's worth checking even between siblings, because different schools often choose differently."
-  - q: "Can a tutor help a child with dyslexia or ADHD in English?"
-    a: "Yes, and English is often where it helps most, because the subject leans so heavily on reading speed and long stretches of writing. Tutors break essays into small named steps, use visual plans on the whiteboard and build timing up gradually. Every lesson can be replayed, so your child can go back over an explanation rather than relying on notes. Tell us about any diagnosis or exam access arrangements on the call, and we'll pick tutors with that in mind."
-  - q: "What if we don't click with the tutor?"
-    a: "Just let us know and we'll find someone else, with no charge and no awkward conversation. It happens, and we'd much rather sort it than have your child sit through lessons that aren't working. That's why you see two or three profiles before choosing and your child meets the tutor on a free video call first. There's no contract, so nothing is locked in."
+    a: "It does. Both boards test the same skills. But they lay their papers out differently, word their questions in their own way, and each has its own list of set books and poetry anthology for Literature. A tutor who already knows your child's board can use real past questions from the first lesson. We'll confirm which board it is when we talk. And in Beaconsfield it's worth checking for each child, since brothers and sisters at different schools can easily be on different boards."
+  - q: "My child has dyslexia or ADHD. Can an English tutor still help?"
+    a: "Yes. So much of English rests on reading quickly and writing at length that one-to-one lessons can take a lot of pressure off. The tutor turns an essay into a few small steps with names your child can remember, and maps the plan out visually. Timing gets built up a little each week. Every lesson has a replay, so an explanation can be watched again rather than copied down in a rush. Mention any diagnosis or exam arrangements when we talk, and we'll choose tutors with that in mind."
+  - q: "Will it be awkward if we need to change tutor?"
+    a: "Not at all. Tell us and we'll suggest someone new, at no charge, with no difficult conversation for anyone. It does happen, and it's far better to change early than to let lessons drift. It's also why you see two or three profiles first, and why there's a free video call with the tutor before you commit. No contract, so nothing's locked in."
 # FAQ picks: G05, A07, A02, E03, C01
 
 reviews:

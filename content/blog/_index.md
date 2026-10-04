@@ -1,5 +1,6 @@
 ---
-title: "Blog | The Degree Gap"
+title: "GCSE, A-Level and UCAS Advice for Parents | The Degree Gap"
+nav_title: "Blog"
 description: "Notes, guides and updates from The Degree Gap. Advice for parents and students working through GCSEs, A-Levels, UCAS, and the bits in between."
 hero_eyebrow: "EXPERT ADVICE"
 hero_heading: "Honest guides for parents on GCSEs, A-Levels and university"

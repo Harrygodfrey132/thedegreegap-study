@@ -1,23 +1,23 @@
 ---
 title: "Milton Keynes GCSE Science Tutors | Online | The Degree Gap"
-description: "GCSE Science tutors covering Milton Keynes for Triple or Combined, matched on Biology, Chemistry or Physics and the board your child's school teaches. From £37 an hour."
+description: "Has your child decided they're 'just not a science person'? Our Milton Keynes GCSE Science tutors find where it went wrong. Online, from £37 an hour."
 layout: "level-subject"
 location: "Milton Keynes"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online One-to-One GCSE Science Tutors for Milton Keynes Families"
-hero_lead: "One grade covers three subjects, which is why Science is the hardest GCSE for a parent to diagnose from a report. Our Milton Keynes GCSE Science tutors pull the three apart first, because the answer is almost always one of them rather than all three."
+hero_h1: "One-to-One Online GCSE Science Tutors in Milton Keynes"
+hero_lead: "'I'm just not a science person' is something we hear a lot, usually from a child who was doing fine until one topic stopped making sense. Our Milton Keynes GCSE Science tutors find where it went wrong and build back up from there, one-to-one and online."
 
-angle_eyebrow: "ONE GRADE, THREE SUBJECTS"
-angle_heading: "Pulling Apart the Grade Before Deciding What to Work On"
-angle_body_1: "Ask a Year 11 which of the three they would drop tomorrow and you get an instant answer. Ask where inside it the marks go and the answer stops, which is the actual problem. In practice the losses cluster. Rates of reaction graphs, where a tangent has to be drawn and read and most students do neither confidently. Circuit questions, where series and parallel reasoning is recited rather than applied to the diagram on the page. Genetics, where a Punnett square is filled in correctly and the answer is then written as a fraction the mark scheme will not accept. And the required practicals, memorised as a sequence of steps rather than understood as method, so any question about variables or error lands badly."
-angle_body_2: "Splitting the three apart is most of the value, and it usually shrinks the job. A grade held down by Physics calculations is a different piece of work from one held down by Biology recall, and it takes a fraction of the time to fix once it has been named. From there the hours get narrow: graphs practised until reading one is automatic, answers planned against the command word before a sentence is written, practicals rebuilt as method rather than recited. For students heading towards A-Level Sciences, that method work does double duty, because Year 12 assumes it and starts from there."
+angle_eyebrow: "'NOT A SCIENCE PERSON'"
+angle_heading: "Why Children Go Off Science, and Where It Usually Starts"
+angle_body_1: "It rarely starts as a dislike of Science. It starts with one topic that didn't land, then another built on top of it. Moles in Chemistry are a common culprit, because so much later work leans on them. Circuits are another, where your child can recite the rules for series and parallel and still not see why they work. Genetic crosses catch plenty of children out too, when the Punnett square is right but the answer's written as a ratio and the question wanted a probability. After a few of those, 'I'm not a science person' starts to feel like the only explanation. It hardly ever is."
+angle_body_2: "A tutor starts small. The first lesson goes through a recent mock with your child to find the two or three places where it went wrong, and the early weeks go on those, with a few quick wins built in on purpose. A child who's gone off a subject needs to see it working again. Then the harder material comes back in: rate graphs where a tangent has to be drawn, six-mark answers, the practicals. At Denbigh, Oakgrove, Walton High or any other Milton Keynes school, the plan starts from your child's own paper. And if a Science A-Level is on their mind, this is where the push from a 5 towards a 7 begins."
 angle_image: "/images/chemistry-lab-glassware.jpg"
-angle_image_alt: "A GCSE Science student working through a rates of reaction graph with a tutor"
+angle_image_alt: "Beakers and a conical flask on a white bench, with a pipette in one beaker"
 angle_stat_from: "5"
 angle_stat_to: "7"
-angle_stat_detail: "The kind of shift a term of weekly one-to-one Science work is planned to produce once the weak subject is identified."
+angle_stat_detail: "What a term or two of weekly lessons is aimed at, once your child's stopped avoiding the topics that knocked their confidence."
 schools:
   - "Denbigh School"
   - "Oakgrove School"
@@ -26,36 +26,36 @@ schools:
   - "The Hazeley Academy"
   - "Lord Grey School"
 
-steps_heading: "Start Milton Keynes GCSE Science Tutoring in 3 Steps"
-steps_lead: "Science rewards an early start more than the other two core subjects, because Year 10 content sits directly underneath Year 11 content and never goes away."
+steps_heading: "Finding the Right Science Tutor for Your Milton Keynes Teenager"
+steps_lead: "You'll usually have tutor profiles the day after we talk. Year 10 is a good time to start, while the practicals are still being taught in class."
 steps:
-  - title: "Share your goals"
-    body: "Triple or Combined, the board, and which of Biology, Chemistry and Physics worries you most. If you have a mock broken down by paper, send that. The three subjects hide inside one grade and the breakdown is the only thing that separates them."
-  - title: "Meet your match"
-    body: "Two or three profiles inside 24 hours, chosen on the science that is actually costing marks rather than on Science as a block. Where the problem is Chemistry, a Chemistry graduate is worth more per hour than a general Science tutor, and the difference shows within about three sessions."
-  - title: "Start the lessons"
-    body: "An hour a week on Lessonspace, where a circuit diagram or a reaction profile can stay on screen while it is worked through properly. Recordings are kept, which counts for more in Science than elsewhere: a practical method explained in November is exactly what a student wants back in May. From £37/hr."
+  - title: "Tell us about your child"
+    body: "It starts with a free call with Harry or Joe, the co-founders, to get to know you both. Which science worries you most? Triple or Combined, and which board? Has your child gone quiet about Science lately? If there's a mock with the marks split by paper, have it handy."
+  - title: "Choose from a shortlist"
+    body: "Inside 24 hours of the call you'll see two or three tutor profiles, picked with your child's exam board and confidence in mind. For a child who's gone off Science, a patient tutor who notices small wins matters as much as subject knowledge. You'll all meet on a free video call first, with no obligation to book."
+  - title: "One lesson a week, online"
+    body: "Weekly one-to-one lessons through Lessonspace, the online platform we use, with a shared whiteboard. There's a replay of every lesson, so anything explained in the autumn can be watched again before the summer exams. Prices start at £37 an hour. No contract, and a free change of tutor if they don't get on."
 
 faqs:
-  - q: "What is the hardest part of GCSE Science for Milton Keynes students?"
-    a: "The questions that ask a student to apply something rather than recall it, and they sit in the same places every year. Rates of reaction graphs where a tangent has to be drawn and interpreted. Circuit questions where the reasoning has to fit the specific diagram. Required practicals examined as method, with a question about variables or sources of error rather than about the steps. None of these is about ability. They reward a taught approach, which is why they move quickly once someone works on them properly."
-  - q: "Should my child take foundation or higher tier, and does Triple or Combined matter more?"
-    a: "Higher tier caps at grade 9 and floors around a 4, while foundation caps at 5. For Science the tier question often settles itself, and the decision that matters more locally is Triple versus Combined. Combined Science is worth two GCSEs across all three subjects at less depth. Triple is three separate GCSEs and is sometimes named in sixth-form Science entry requirements. If your child is in Year 9 and Sciences are a possible A-Level, that conversation is worth having now rather than in Year 11."
-  - q: "My child is in Year 10. Is it too early to start Science tutoring?"
-    a: "Year 10 is arguably the better year for Science. The required practicals are taught across both years, and it is far easier to build the method while a practical is actually being covered in class than to reconstruct it eighteen months later from a set of notes. Year 10 work also tends to be calmer and more about understanding than exam pressure, which suits a subject where the understanding is the entire point."
-  - q: "How do you vet your GCSE Science tutors?"
-    a: "Around three in every hundred applicants make it onto the platform. There is a written application, a subject knowledge test and a structured interview, and the interview is where most people fall away, because explaining electrolysis clearly to a fifteen-year-old who has decided they hate it is a different skill from holding a good degree. Harry and Joe interview every tutor personally, and references are checked before anyone is matched with a family."
-  - q: "What happens if the results are not what we needed in August?"
-    a: "There is more room than results day makes it feel. Ask the sixth form directly before you assume anything, because a single missed grade in a single subject is often negotiable when the rest holds up. Science has no November resit window, unlike English Language and Maths, so a resit means the following summer. That usually makes the more useful conversation about which Level 3 route fits, and we will say what we honestly think on the call."
+  - q: "Where do Milton Keynes children tend to lose the most Science marks?"
+    a: "In much the same places as children everywhere, since the papers are set nationally, and mostly on questions that ask your child to use an idea rather than repeat it. Specific heat capacity calculations. Half-equations for electrolysis on the Higher paper. Six-mark answers that need a clear line of reasoning. And the practicals, asked about as method and error. Whether your child's at Shenley Brook End, The Hazeley Academy, Lord Grey or elsewhere, we'll check their exam board first, because each board words these questions its own way."
+  - q: "My child says they're 'just not a science person'. Is that true?"
+    a: "Almost never, in our experience. It's usually two or three topics that went wrong, often a year or more ago, and a feeling that's grown from there. If your child's already managing a 5, there's plenty of science in there to build on. The tutor finds those topics, fixes them first and makes sure your child feels a few questions go right. Most parents notice the way their child talks about Science change before the marks do."
+  - q: "Is Year 10 too soon to start Science tutoring?"
+    a: "No, and for Science it's often the calmest time to start. There's no mock looming, so lessons can go at your child's pace and focus on understanding rather than exam papers. If a topic like moles or circuits has started to knock their confidence, Year 10 gives time to sort it before it spreads. And because each part of the course leans on earlier parts, a gap closed in Year 10 stops a second one opening up in Year 11."
+  - q: "How do you decide which Science tutors to send a Milton Keynes family?"
+    a: "Every tutor on our platform has been interviewed by Harry or Joe, and only around 3% of applicants get through. Good grades don't get anyone in on their own. What we're listening for is whether they can bring a tricky topic, like radioactive decay, to life for a teenager who's lost interest, because that's the job. We check references too. From there we choose two or three who suit your child's board and personality, and you pick from those."
+  - q: "What if my child's Science results in August aren't what they needed?"
+    a: "Take a breath, then ring the sixth form or college before assuming anything, because being a grade short in one subject is sometimes looked at case by case. It helps to know that Science has no November resit, unlike English Language and Maths, so a resit would mean the following summer. That often turns it into a conversation about which course fits best now. We're happy to talk it through with you, and if a resit is the plan, tutoring can build towards it."
 
 reviews:
   - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
-  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."
+  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. …"
   - "Annette|Parent|This company helped us find Jon Brettell for Geography and my son has excelled so much in just a few months. Jon has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself – a difficult task.  He also manages neurodiversity effectively."
-  - "Heidi|Parent|Emir is simply amazing with our daughter. He gets her totally, and her sessions are helping her with her school work so much. We cannot thank him enough."
+  - "Heidi|Parent|Emir, is simply amazing with our daughter. He 'gets' her totally, her sessions are helping her with her school work so much. We can't thank him enough ! …"
   - "Bryan|GCSE Student|Helped me a lot and really showed me what i need to improve on"
 
-# FAQ picks: G05, A12, A04, E01, C08
+# FAQ picks: G05, A07, A04, E01, C08
 sitemap:
   priority: 0.6
   changefreq: monthly

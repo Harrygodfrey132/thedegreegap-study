@@ -1,68 +1,68 @@
 ---
 title: "Cambridge GCSE Tutors | Built Around Your Child | The Degree Gap"
-description: "Cambridge GCSE tutoring for ambitious Year 10 and Year 11 students. One-to-one tutors who lift the predicted grade wherever the student is sitting today."
+description: "Cambridge GCSE tutors for Year 10 and 11, whether your child needs a steady pass or the 7 a sixth form subject asks for. One-to-one and online, from £37."
 layout: "subject"
 location: "Cambridge"
 level: "GCSE"
 
-hero_heading_line1: "Online Cambridge GCSE Tutors Built for the Stretch Beyond Classroom Pace"
+hero_heading_line1: "Online Cambridge GCSE Tutors for When Your Child Needs More Than Classroom Pace"
 hero_heading_line2: ""
-hero_lead: "Some Year 11s in Cambridge arrive needing a confident pass in English and Maths. Others are stretching for what a Hills Road sixth-form subject offer needs. Our Cambridge GCSE tutors handle both briefs, matched on subject, exam board and where the student is sitting today."
+hero_lead: "Some Cambridge parents are hoping for a steady pass in English and Maths. Others have a child whose mock came back one grade short of what a sixth form subject asks for. Either way, our Cambridge GCSE tutors start from where your child is today, on their own exam board."
 
 grade_from: "5"
-grade_to: "7"
-grade_stat: "Real GCSE English grade jump from a Year 10 student we worked with, after six months of weekly one-to-one tutoring."
+grade_to: "6/7"
+grade_stat: "Omo's son, in Year 10, went from a grade 5 to a 6/7 in English over six months of tutoring."
 
 first_lesson_eyebrow: "INSIDE A CAMBRIDGE YEAR 10 SESSION"
 first_lesson_heading: "How a Cambridge GCSE Tutor Builds From the First Mock"
-first_lesson_context: "The conversation we hear most often from Cambridge parents starts the same way. Effort is fine. The school is excellent. But the mock came back at a 6 and Hills Road is asking for a 7 in the subject. What a GCSE tutor finds in the first session is rarely a content gap. It's a question-type gap, the harder six and nine-mark questions the curriculum has skimmed past, the unseen poetry analysis the class hasn't drilled to exam timing."
+first_lesson_context: "It's a call we get a lot in Cambridge: your child works hard, school's going well, and then the mock comes back a 6 when the course they want at Hills Road usually asks for a 7. In the first lesson, a GCSE tutor rarely finds a topic your child doesn't know. More often it's the longer answers there hasn't been time to practise, like a six-mark Science question or an English essay written against the clock."
 
-first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him."
+first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7. I honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset. …"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "GCSE English"
 
-tutor_strip_heading: "Cambridge GCSE tutors who've worked with Hills Road, Long Road and Parkside students"
-tutor_strip_body: "Most of our Cambridge GCSE tutors are recent graduates of Cambridge and the rest of the Russell Group. They've coached students through the specifications taught at Hills Road, Long Road, Parkside and the wider Cambridge school cohort. Browse profiles, or let us match your child."
+tutor_strip_heading: "Cambridge GCSE tutors for the step up to Hills Road or Long Road"
+tutor_strip_body: "Every tutor has at least two years' tutoring, including those still at university, and we interview each one ourselves. We'll match them to the exam board your child's school uses, at Parkside, Netherhall, Stephen Perse or anywhere else. Have a look at the profiles, or let us choose."
 
 pathways_heading: "The Next Step After Cambridge GCSEs"
-pathways_lead: "Three routes most Cambridge Year 11s take after results day."
+pathways_lead: "After Year 11, your child will most likely take one of these three routes."
 pathways:
   - title: "Sixth Forms"
     body: >
-      Hills Road Sixth Form College and Long Road Sixth Form College take most of the city's academically-aimed Year 11s, with conditional offers that vary by subject and tend to be specific about what they want. Parkside, Netherhall and Stephen Perse run their own sixth forms too, with their own entry standards.
+      Hills Road and Long Road, the city's two sixth form colleges, take a large share of Cambridge teenagers heading for A-Levels, and their offers are set subject by subject. Parkside, Netherhall and Stephen Perse run their own sixth forms too, each with its own entry rules.
   - title: "Apprenticeships"
     body: >
-      AstraZeneca's Cambridge HQ runs degree apprenticeships in pharmaceuticals and tech. ARM and Microsoft Research take engineering apprentices out of the local tech corridor. Most schemes have published minimum-grade requirements in Maths and English, with stricter Sciences requirements for technical routes.
+      AstraZeneca's Cambridge headquarters runs degree apprenticeships in science and tech, usually for young people who've finished sixth form. Tech employers like ARM and Microsoft Research are close by too, and most schemes set minimum grades in Maths and English, with Science on top for the technical roles.
   - title: "Further Education"
     body: >
-      Cambridge Regional College and the College of West Anglia in the wider area cover Level 3 BTEC routes alongside A-Levels, with vocational pathways into engineering, healthcare and the local tech apprenticeship pipeline. GCSE Maths and English resits are the most common entry-point.
+      Cambridge Regional College and the College of West Anglia run Level 3 vocational courses, such as BTECs, in areas like engineering and healthcare that lead on to local apprenticeships. If your child needs to resit GCSE Maths or English, they can do it there alongside their course.
 
 reviews:
-  - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings. Highly recommend."
-  - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him."
-  - "Isabel|Parent of iGCSE Student|The Degree Gap gave our son the support he needed for his iGCSEs, especially in Maths and Economics. Lessons were clear, engaging, and built his confidence. Highly recommended."
-  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. We were given a selection of tutors to choose from and told that if it did not feel like a good match we could try others. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
-  - "Heidi|Parent|Our tutor is simply amazing with our daughter. He understands her completely and her sessions are helping her with her school work so much. We cannot thank him enough."
-  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."
-  - "Annette|Parent|This company helped us find a tutor for Geography and my son has excelled so much in just a few months. Our tutor has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself. He also manages neurodiversity effectively."
+  - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings to fit around school lessons. …"
+  - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7. I honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset. …"
+  - "Isabel|Parent of iGCSE Student|Harry helped our son enormously with his maths and economics iGCSE prep. He was patient, fun and engaging - just what we needed. Highly recommended."
+  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. …"
+  - "Heidi|Parent|Emir, is simply amazing with our daughter. He 'gets' her totally, her sessions are helping her with her school work so much. We can't thank him enough ! …"
+  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. …"
+  - "Annette|Parent|This company helped us find Jon Brettell for Geography and my son has excelled so much in just a few months. Jon has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself – a difficult task.  He also manages neurodiversity effectively."
   - "Bryan|GCSE Student|Helped me a lot and really showed me what i need to improve on"
   - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
   - "Jessica|GCSE Student|I highly recommend Harry – he was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree!!"
-  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents. My daughter passed both English and Maths GCSE."
+  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents. UPDATE: My daughter passed both English and Maths GCSE (4 and 5's). …"
   - "Lisa|Parent|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
   - "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
-  - "Theresa|Parent|The Degree Gap was fantastic. Their knowledge and guidance helped my son find direction in both his studies and future plans."
+  - "Theresa|Parent|Harry and Joe were extremely helpful with a wealth of knowledge and contacts that helped my son to follow the right path."
   - "Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE thank you"
 
-faq_1_q: "Hills Road has specific subject requirements for its A-Levels. How does a Cambridge GCSE tutor help close the gap?"
-faq_1_a: "Most grade 6 to grade 7 jumps live in the question types the classroom hasn't had time for. The tutor takes recent papers, identifies the question types losing the most marks, and drills them weekly. For English Literature, that's the unseen poetry analysis under timed conditions. For Maths, the six-mark problem-solving questions on paper 3. For Sciences, the application questions in the longer-mark slots."
-faq_2_q: "My son got a clean grade 9 on the November mocks. Can a GCSE tutor stretch him further?"
-faq_2_a: "Yes, and it's a fair share of what we do in Cambridge. For a strong grade 9 student, tutoring shifts into A-Level content early, A-Level Maths techniques applied to GCSE problems, A-Level Biology depth on synoptic GCSE topics. It softens the GCSE-to-A-Level jump that catches even strong students out the following September."
-faq_3_q: "Do you cover iGCSE for Stephen Perse and the independent schools?"
-faq_3_a: "Yes. Most of the Cambridge independents teach Edexcel or CIE iGCSE rather than UK GCSE. Our tutors are matched by specification (iGCSE Maths, iGCSE English Lit, iGCSE Sciences) so the work in the session lines up exactly with the work the school is setting."
-faq_4_q: "How does online GCSE tutoring work for Cambridge families?"
-faq_4_a: "All sessions run through Lessonspace, our shared whiteboard. The student joins from home, the tutor marks recent papers live on screen, and the whole session is recorded so the student can rewatch the tricky bits. Most Cambridge families pick online because it removes the cross-city school-run feeling on a midweek evening, and the right tutor for an AQA Chemistry student is often not the one who lives nearest."
+faq_1_q: "Hills Road asks for a set grade in each subject my child wants to take. How can a tutor help close the gap?"
+faq_1_a: "By working on the questions costing your child the most marks. A 6 to a 7 often comes down to a few question types there hasn't been time to practise in class. The tutor finds them on recent papers and works on them every week. In English Literature that's usually the unseen poem against the clock. In Maths it's the longer problem-solving questions, and in the Sciences it's applying an idea to something unfamiliar."
+faq_2_q: "My son got a 9 in his November mocks. Is there any point in a tutor?"
+faq_2_a: "Yes, and lots of Cambridge families ask. Once the GCSE work is secure, the tutor can bring in a little A-Level, like A-Level Maths methods on GCSE problems, or more depth on the Biology topics that link across the course. That makes the jump to A-Level next September feel smaller. And it's a jump that catches out plenty of strong students."
+faq_3_q: "Can you help with iGCSE, for Stephen Perse or another independent school?"
+faq_3_a: "We do. Lots of independent schools teach iGCSE in some subjects, usually through Edexcel or Cambridge International (CIE), rather than the standard GCSE. We'll check exactly which course your child is on and match a tutor who knows it, so lessons line up with the work school is setting."
+faq_4_q: "What actually happens in an online lesson?"
+faq_4_a: "Your child logs in from home, and the tutor goes through a recent paper with them on a shared whiteboard, using the platform Lessonspace. Afterwards, your child can watch the replay of any part that was tricky. Most Cambridge families like not having a trip across the city on a weekday evening. And the best tutor for, say, AQA Chemistry often doesn't live anywhere near you."
 
 sitemap:
   priority: 0.7

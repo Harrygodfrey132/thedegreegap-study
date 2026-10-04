@@ -1,39 +1,16 @@
 ---
 title: "Brighton Tutoring | GCSE & A-Level Tutors"
-description: One-to-one Brighton tutoring for Maths, English, Sciences and more.
-  Expert tutors, flexible online lessons and proven academic results.
+description: "Is your child aiming for BHASVIC or Varndean? Our online Brighton tutors help with GCSE and A-Level, one-to-one. A free call first, then lessons from £37."
 layout: single
 location: Brighton
-banner_heading: "Need an online Brighton tutor who prepares students for what comes next?"
-banner_description: "The Degree Gap tutoring connects Brighton families with
-  tutors who focus on the grades that open doors: sixth form entry, university
-  offers, and everything in between."
-content_angle: exam pressure
-intro_1: Brighton has no state grammar schools, which does not make the
-  pressure disappear. BHASVIC,
-  the city's flagship sixth form college, is one of the most oversubscribed
-  post-16 institutions in the South East, and it publishes clear grade
-  requirements. Students who want a place there need to hit those numbers. For
-  many, that gap between where they are in Year 10 and where they need to be by
-  results day is exactly where private tuition comes in.
-intro_2: "The Degree Gap tutoring works with Brighton students across both GCSE
-  and A-Level. Some come to us with a specific gap in one subject. Others are
-  keeping up in class but not converting that into exam performance. A few want
-  to push for the very top grades at A-Level. Whatever the situation, one-to-one
-  tuition gives a student something no classroom can: a tutor working through
-  their specific problems, at their pace, with their exam board. Progress 8
-  scores across Brighton and Hove have historically sat below the national
-  average, which means many capable students arrive at their GCSEs without all
-  the foundations they need. That's what our tutors are here to address."
+banner_heading: "Need an online Brighton tutor to help your child reach the grades for college?"
+banner_description: "In Brighton, Year 11 often comes down to the grades for the college your child has set their heart on. Our tutors help them get there."
+content_angle: "exam pressure: the college grades Year 11 is working towards, seen from the parent's side"
+intro_1: "Parents' evening in Year 10 is often when it lands. A teacher mentions sixth form, you look up the BHASVIC entry requirements that night, and there's a gap between where your child is and where they'd need to be. Brighton has no state grammar schools, but that doesn't take the pressure away. It just moves it to sixteen. BHASVIC and Varndean College both publish their grade requirements, and both are oversubscribed."
+intro_2: "The families who call us from Brighton and Hove aren't all in the same spot. Some have a child with one subject dragging the rest down. Some have a child who seems fine in lessons and then loses marks in the exam. And some have a Year 12 who wants to push hard at A-Level. A one-to-one tutor works on your child's actual sticking points, at their pace and on their exam board, which a class of thirty can't stop to do. They'll start with a recent mock, find where the marks went, and plan from there."
 about_heading: Find the Right Tutor in Brighton
 about_image: /images/graduation-ceremony-caps.jpg
-schools_intro: Students from across Brighton and Hove find us at different
-  points in their education. We run exam preparation and revision workshops open
-  to any student in the city, and we work one-to-one with students from Dorothy
-  Stringer School, Varndean School, Hove Park School, Cardinal Newman Catholic
-  School, Longhill High School and PACA. Our tutors adapt to each student's
-  school, exam board and current level, so no two sets of sessions look
-  identical.
+schools_intro: "We can work with families from schools all over Brighton and Hove, including Dorothy Stringer, Varndean School, Hove Park, Cardinal Newman, Longhill High and PACA. Each school has its own mix of exam boards, so on the first call we'll find out which ones your child is sitting and match the tutor to those. We also work directly with more than 15 UK secondary schools. And during the school day, Harry and Joe are often in schools running revision workshops."
 schools:
   - Dorothy Stringer School
   - Varndean School
@@ -42,23 +19,12 @@ schools:
   - Longhill High School
   - PACA
 schools_image: /images/school-clock-tower-building.jpg
-online_heading: Online tuition for Brighton students who want more than classroom pace
-online_1: All our sessions with Brighton students run online through
-  Lessonspace, a platform built for one-to-one academic work. It has an
-  interactive whiteboard, shared workspaces and tools that make working through
-  problems together feel nothing like a video call. Students generally find
-  online tutoring intuitive from the first session. And it means the right tutor
-  isn't necessarily the nearest one.
-online_2: For a city with Brighton's range of schools and ambitions, that
-  matters. A student aiming for a strong A-Level Chemistry grade benefits more
-  from a tutor who knows that subject deeply than from someone available at
-  short notice. Online tutoring removes the geography constraint entirely.
-  Sessions stay consistent week to week, there's no travel involved, and a
-  student in Hove can work with a specialist based anywhere in the country.
+online_heading: "Online tutoring for Brighton families, at your child's pace rather than the class's"
+online_1: "Lessons happen on the platform Lessonspace, where your child and the tutor write on the same whiteboard. It feels more like sitting side by side over a worksheet than a video call. Every lesson's saved as a replay, so your child can go back over anything that didn't stick. Most children get the hang of it in the first lesson."
+online_2: "The right tutor doesn't have to be the nearest one, either. If your child needs someone who really knows A-Level Chemistry, we can look much further than whoever's free locally on a Tuesday evening. Nobody's sitting in traffic, so lessons stay at the same time each week. And a child in Hove can work with a tutor at the other end of the country just as easily as one down the road."
 online_image: /images/student-studying-at-night-with-laptop.jpg
 map_url: https://maps.google.com/maps?q=Brighton,UK&output=embed
-areas_intro: Finding the right tutor matters more than finding the nearest one,
-  which is why we support families across Brighton and well beyond.
+areas_intro: "Your child can have lessons from anywhere in Brighton and Hove, and from well beyond. We can help families in these towns and cities too."
 area_links:
   - Southampton Tutors|/locations/southampton-tutors/
   - Portsmouth Tutors|/locations/portsmouth-tutors/
@@ -67,136 +33,48 @@ area_links:
   - Reading Tutors|/locations/reading-tutors/
   - Cambridge Tutors|/locations/cambridge-tutors/
 gcse_subjects:
-  - GCSE English Tuition|Sharp support for Language and Literature, building the
-    analytical writing and close-reading skills examiners
-    reward.|/book-a-call/
-  - GCSE Physics Tuition|Structured work through forces, energy and waves, with
-    a focus on applying concepts to the calculation questions that cost
-    marks.|/book-a-call/
-  - GCSE Maths Tuition|Targeted help across number, algebra, geometry and
-    statistics for students who need to hit their grade requirements with
-    confidence.|/book-a-call/
-  - "GCSE History Tuition|Essay structure, source analysis and content recall:
-    the three things that separate a grade 6 from a grade 8 in GCSE
-    History.|/book-a-call/"
-  - GCSE Chemistry Tuition|Support that turns rote learning into genuine
-    understanding, so students can handle the unfamiliar questions
-    too.|/book-a-call/
-  - GCSE Computer Science Tuition|From algorithms and data structures to
-    programming logic, support that builds both the theory and the practical
-    skills.|/book-a-call/
-  - GCSE Geography Tuition|Case studies, data interpretation and extended
-    writing, all tied to the exam board Brighton students are actually
-    sitting.|/book-a-call/
-  - GCSE French Tuition|Oral and written practice focused on the real exam
-    tasks, building the accuracy and fluency the mark scheme
-    requires.|/book-a-call/
-  - GCSE Biology Tuition|Clear, logical progression through cells, genetics,
-    ecology and physiology for students aiming at the higher tier grade
-    boundaries.|/book-a-call/
+  - "GCSE English Tuition|Close reading and analytical writing for Language and Literature, built up paragraph by paragraph until your child trusts their own ideas.|/book-a-call/"
+  - "GCSE Physics Tuition|Forces, energy and waves, with plenty of practice on the calculation questions where marks tend to leak away.|/book-a-call/"
+  - "GCSE Maths Tuition|Algebra, number and geometry, worked on with the grade your child's chosen college asks for firmly in view.|/book-a-call/"
+  - "GCSE History Tuition|Source analysis and essay structure, plus a way of learning the content so it's still there on exam day.|/book-a-call/"
+  - "GCSE Chemistry Tuition|Less memorising and more understanding, so an unfamiliar question on the paper doesn't throw your child.|/book-a-call/"
+  - "GCSE Computer Science Tuition|Algorithms and programming, with the written theory and the hands-on coding practised side by side.|/book-a-call/"
+  - "GCSE Geography Tuition|Case studies, data questions and longer answers, all matched to the exam board your child is actually sitting.|/book-a-call/"
+  - "GCSE French Tuition|Speaking and writing practice on the real exam tasks, so your child's used to the format long before it counts.|/book-a-call/"
+  - "GCSE Biology Tuition|Cells, genetics and ecology, worked through in a sensible order so each topic builds on the one before.|/book-a-call/"
 alevel_subjects:
-  - A-Level Economics Tuition|Advanced micro and macroeconomic theory with
-    strong essay and data-response technique for students targeting top A-Level
-    grades.|/book-a-call/
-  - A-Level Chemistry Tuition|Rigorous support across all three branches of
-    A-Level Chemistry, with the kind of depth the hardest exam questions
-    demand.|/book-a-call/
-  - A-Level Psychology Tuition|From research methods to the major approaches,
-    expert guidance on both content and the structured answers examiners want to
-    see.|/book-a-call/
-  - A-Level Maths Tuition|Pure maths, mechanics and statistics support that goes
-    beyond covering content to building the problem-solving instinct A-Level
-    rewards.|/book-a-call/
-  - A-Level History Tuition|Argument construction, historiography and extended
-    essay writing, with tutors who know exactly what top-band answers look
-    like.|/book-a-call/
-  - A-Level Geography Tuition|Advanced physical and human geography,
-    dissertation support and the extended writing skills that separate good
-    results from great
-    ones.|/book-a-call/
-  - A-Level English Tuition|Critical analysis and comparative essay work across
-    prose, poetry and drama, building the depth university admissions tutors
-    expect.|/book-a-call/
-  - A-Level Biology Tuition|Detailed support through genetics, physiology and
-    ecology at A-Level, with exam technique built around the mark schemes that
-    matter.|/book-a-call/
-  - A-Level Physics Tuition|From mechanics and fields to quantum physics,
-    support that builds genuine conceptual understanding alongside the
-    calculation
-    skills.|/book-a-call/
+  - "A-Level Economics Tuition|Essay and data-question technique that turns what your child knows about micro and macro into marks.|/book-a-call/"
+  - "A-Level Chemistry Tuition|The depth the hardest questions need, across organic, inorganic and physical chemistry, built up one step at a time.|/book-a-call/"
+  - "A-Level Psychology Tuition|Research methods and the main approaches, with answers shaped the way examiners like to see them.|/book-a-call/"
+  - "A-Level Maths Tuition|Pure, mechanics and statistics, and the habit of knowing how to start a question nobody's shown your child before.|/book-a-call/"
+  - "A-Level History Tuition|Building an argument, handling historians' views and writing long essays, with a tutor who knows what the best answers look like.|/book-a-call/"
+  - "A-Level Geography Tuition|Physical and human geography, support with the coursework investigation, and extended writing that stays on the question.|/book-a-call/"
+  - "A-Level English Tuition|Prose, poetry and drama compared and analysed with real depth, which helps again when university applications come round.|/book-a-call/"
+  - "A-Level Biology Tuition|Genetics, physiology and ecology, with exam technique taught straight from the mark schemes your child will be judged on.|/book-a-call/"
+  - "A-Level Physics Tuition|The ideas behind fields and quantum physics understood properly, not only the calculations that go with them.|/book-a-call/"
 other_subjects:
-  - University Personal Statement|Shape a strong UCAS personal statement with
-    expert support on structure, subject motivation, and final
-    polish.|/book-a-call/
-faq_1_q: How quickly can tuition start in Brighton?
-faq_1_a: Usually within a few days of getting in touch. Once we know the
-  subject, level and what the student needs, we move quickly. No long waiting
-  lists.
-faq_2_q: Can tutors help with GCSE mock preparation in Brighton?
-faq_2_a: Yes. Mocks are one of the most common reasons families come to us.
-  Tutors work through past papers, tighten exam technique and focus on the
-  topics most likely to come up. Students go in knowing what to expect.
-faq_3_q: Do you help with sixth form entrance exams or interviews?
-faq_3_a: Yes. We work with Brighton students preparing for competitive sixth
-  form entry, including aptitude tests and interviews. Tutors know what these
-  schools are looking for and how to prepare students properly, not just on
-  content.
-faq_4_q: How long does it take to see an improvement?
-faq_4_a: Most students notice something within the first few sessions. Not
-  always in grades straight away, but in how the subject feels. Less daunting.
-  Clearer. Grade improvements usually follow within a half term of regular
-  sessions.
-why_heading: Why Brighton families choose The Degree Gap
-why_para_1: When a Brighton student starts tutoring with us, the first thing a
-  tutor usually finds isn't a content gap. It's an exam technique gap. Students
-  from Brighton's comprehensives are often taught the material well enough. But
-  many haven't been drilled in how to demonstrate what they know under timed,
-  structured conditions. They write answers that contain the right ideas but
-  don't score the marks. They lose points on calculation steps, on essay
-  structure, on the small technical things that account for a lot on results
-  day.
-why_para_2: The Degree Gap tutoring addresses that directly. Our tutors use past
-  papers from the first few sessions, not as tests but as a diagnostic. They
-  show students exactly where marks are being left behind and why. Most Brighton
-  students notice a shift in how confident they feel about exams within four to
-  six weeks of regular sessions. Parents often say the change they see first
-  isn't the grades, it's the attitude to revision.
-accordion_quality: Every tutor is vetted on subject knowledge, exam board
-  familiarity and the ability to explain clearly under pressure. For Brighton
-  students aiming at BHASVIC entry or top A-Level grades, we look for tutors who
-  know the mark schemes well and can work at the pace the student needs.
-accordion_experience: Our tutors have experience with the exam conditions
-  Brighton students face, from GCSE grade requirements for oversubscribed sixth
-  forms to the step-up demands of A-Level. They've seen the common mistakes and
-  know how to fix them.
-accordion_personalised: Sessions are built around what each student actually
-  needs, not a generic syllabus plan. If the issue is exam technique rather than
-  content, that's where the sessions go. If it's one topic holding everything
-  else back, tutors go there first.
+  - "University Personal Statement|A UCAS personal statement your child's proud of, with help on what to say, what order to say it in and the final check.|/book-a-call/"
+faq_1_q: "How quickly can we get started in Brighton?"
+faq_1_a: "Usually within a few days. After a free call with Harry or Joe, you'll get two or three tutor profiles within 24 hours. Your child can meet the one you like on a free video call first. No waiting list."
+faq_2_q: "Can a tutor help my child get ready for the mocks?"
+faq_2_a: "Yes, it's one of the commonest reasons Brighton families call. The tutor works through past papers with your child and spends most of the time on the topics costing the most marks. By mock week, the format shouldn't hold many surprises."
+faq_3_q: "Can you help with a college or sixth form interview?"
+faq_3_a: "Yes. If the college or sixth form holds an interview or an entry test, the tutor can help your child prepare so they know what's coming. Most of the work still goes on the GCSE grades, though, because that's what an offer rests on."
+faq_4_q: "When will we start to see it working?"
+faq_4_a: "Usually in small ways first. Within a few lessons, most parents notice the homework getting opened with less of a sigh. The marks take longer, often around half a term of weekly lessons, and nobody can promise a grade."
+why_heading: "Why Brighton families pick our tutors for the run-up to college"
+why_para_1: "Most Brighton parents tell us the same thing on the first call. Their child understands the work. The teachers say so, and the classwork shows it. But the mock grade doesn't match. When the tutor looks at the paper, the right ideas are usually there. They just aren't written the way the mark scheme gives marks: a calculation with half the steps missing, or an essay that makes a good point and never explains it. Small things. They add up to a lot of marks by results day."
+why_para_2: "From the first few lessons, the tutor brings in past papers, not as a test, but to show your child exactly where marks are slipping and why. Then they practise those questions until the better way of answering becomes habit. Most children feel more confident about exams within the first few weeks. Parents often spot it in the revision first, because it starts happening without a row."
+accordion_quality: "Before any tutor joins the platform, we check their subject, the exam boards they know and how clearly they explain things to a teenager who's stuck. If your child has BHASVIC or strong A-Level grades in mind, we'll look for someone who really knows those mark schemes."
+accordion_experience: "The tutors we suggest have helped plenty of teenagers through the GCSE years with a college place at stake, and through the step up to A-Level. They've seen the usual mistakes many times over and know how to fix them."
+accordion_personalised: "What the lessons cover depends on what the tutor finds. If exam technique is the issue rather than the content, that's the focus. If one topic is holding everything else back, the tutor starts there and stays with it until it's solid."
 reviews:
-  - Alison|Parent of A-Level Student|My son has been receiving tutor lessons in
-    A Level History and A Level Sociology since the beginning of this year. The
-    tutor has been such a tremendous support, teaching him content as well as
-    exam technique.
-  - Philippa|Parent of GCSE Student|I was really pleased to discover the Degree
-    Gap when my daughter needed help getting the grades she needed for GCSEs.
-    The team offer a really personalised service and I felt really well looked
-    after from the start. There are lots of tutors to choose from and all
-    subjects are catered for, with great flexibility on timings. Highly
-    recommend.
-  - Daljit|Parent of A-Level Student|My son gained almost two grades higher than
-    his year 13 mock paper. His tutor was excellent.
-  - Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!
-    a B.
-  - Lisa|Parent|The Degree Gap has exceeded all my expectations. They have gone
-    above and beyond to pair both my sons with the appropriate tutors, all of
-    whom have been exceptional. Both my sons exceeded their expected grades in
-    their GCSEs and A Levels and got into their first choice universities. I
-    cannot recommend them highly enough.
-  - Serena|A-Level Student|My tutor is a very intuitive and superb teacher. She
-    listened to my specific concerns and bolstered my confidence in answering
-    questions. She taught me how to think critically and helped me through this
-    highly demanding course. I will happily recommend without a second thought.
+  - "Alison|Parent of A-Level Student|My son has been receiving tutor lessons with Jacob Berry in A level History and subsequently A level Sociology since the beginning of this year. Jacob has been such a tremendous support for my son, teaching him content as well as exam technique, with which, as a dyslexic, he really has needed additional support. …"
+  - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings to fit around school lessons. …"
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Lisa|Parent|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Serena|A-Level Student|Malvina is a very intuitive and superb teacher. She listened acutely to my specific concerns and bolstered my confidence in answering the questions. She taught me how to think critically and helped me through this highly demanding and complex course. I will happily recomend her without a second thought!"
 sitemap:
   priority: 0.8
   changefreq: monthly

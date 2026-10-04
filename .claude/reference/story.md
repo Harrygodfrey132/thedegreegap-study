@@ -17,7 +17,7 @@ The founders' origin story and how to write from it. This is the human credibili
 
 - Work with schools across the UK.
 - Run **webinars four times a year**.
-- Write a lot, and are **in schools during the day running workshops**, including "Dragon's Den" revision workshops, staying close to what students actually go through day to day.
+- Write a lot, and are **in schools during the day running workshops**, including "Dragon's Den" revision workshops, staying close to what students actually go through day to day. The workshops are open to any pupil, not just pupils at the host school (Harry, 2 Oct 2026).
 - Run the tutoring company in the evenings.
 - **Long-term vision:** to be recognised educational experts and a trusted authority in the tutoring space, not just a matching service.
 

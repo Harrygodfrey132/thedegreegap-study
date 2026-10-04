@@ -1,43 +1,16 @@
 ---
 title: "Cambridge Tutors | GCSE & A-Level from £37/hr"
-description: Find expert Cambridge tutors for GCSE and A-Level support.
-  Personalised tuition from £37/hr to help students achieve top grades and exam
-  success.
+description: "A grade short of what Hills Road asks for? Our Cambridge tutors work one-to-one online with your child on GCSE and A-Level. A free call first, then from £37."
 layout: single
 location: Cambridge
-banner_heading: "Need an online Cambridge tutor who understands what top grades actually take?"
-banner_description: The Degree Gap tutoring matches students with tutors who
-  know the standard Hills Road and the top universities expect, and how to get
-  there.
-content_angle: ambition / competitive sixth form entry
-intro_1: Hills Road Sixth Form College publishes its entry requirements openly.
-  For the most popular A-Level combinations, students typically need grade 7s at
-  GCSE, sometimes higher. That is not a rumour. It is what gets students in or
-  keeps them out. In a city where the sixth form options matter this much, the
-  distance between a grade 6 and a grade 7 in Year 11 carries real weight. And
-  state school students in Cambridge are sitting that pressure alongside peers
-  who have been at The Perse or Stephen Perse Foundation for years, with class
-  sizes of fifteen and teachers who have time to go deep. One-to-one tuition
-  closes that gap. Not by working harder, but by working on the right things.
-intro_2: The Degree Gap tutoring works with Cambridge students who are aiming at
-  something specific. Some are in Year 10, tracking carefully towards the sixth
-  form of their choice and wanting a tutor to make sure nothing slips in the
-  subjects that matter. Others are already at A-Level, pushing towards the
-  predicted grades a Russell Group or Oxbridge application needs. Others still
-  are capable students who've kept pace in class but can't quite translate what
-  they know into the marks their exams require. Whatever the situation, we find
-  the right tutor for it and build a plan around what that student actually
-  needs.
+banner_heading: "Cambridge tutors online, for the grade your child is aiming for"
+banner_description: "Maybe it's a 7 for Hills Road, or a pass in Maths that still feels a long way off. Maybe it's an A-Level prediction that won't budge. Whatever it is, we'll talk it through and suggest tutors who know that exam."
+content_angle: "ambition and sixth form entry (Hills Road, Long Road), told from the parent's side"
+intro_1: "The mock comes home one grade short of what your child's chosen sixth form asks for. It doesn't sound like much. In Cambridge it can be the difference between one sixth form and another. Hills Road Sixth Form College publishes its entry requirements, and for the most popular A-Level combinations they've usually asked for grade 7s at GCSE, sometimes higher. Parents here tell us the comparing starts early, and it's hard not to get drawn in. That's a lot for a 15-year-old to carry. But a one-grade gap is very rarely about effort. More often it's a handful of question types your child keeps dropping marks on, and those can be found and worked on."
+intro_2: "The Cambridge families we talk to are usually after something specific. Some have a child in Year 10 who's on course for their chosen sixth form, and they'd like it to stay that way. Some have a son or daughter already doing A-Levels, with a Russell Group or Oxbridge application ahead and a predicted grade that needs to move. And some have a bright child who keeps up in class but can't get what they know onto the paper. Whichever sounds like yours, we'll talk it through on a free call, then suggest two or three tutors who suit your child and the exam they're sitting."
 about_heading: Tutors Who Know What Cambridge Students Need
 about_image: /images/university-lecture-hall.jpg
-schools_intro: Students from across Cambridge's secondary schools come to us for
-  one-to-one tutoring support, with many working towards competitive sixth form
-  places at Hills Road or Long Road Sixth Form College. We work with students
-  from Chesterton Community College, Coleridge Community College, St Bede's
-  Inter-Church School and Parkside Community College, as well as from The Perse
-  School and Stephen Perse Foundation. We also run workshops on exam technique,
-  revision strategy and sixth form preparation, open to students from any
-  Cambridge school.
+schools_intro: "We work with Cambridge families from Chesterton Community College, Coleridge Community College, St Bede's Inter-Church School and Parkside Community College, and from The Perse School and Stephen Perse Foundation too. Many of them have the same next step in mind: a place at Hills Road or Long Road Sixth Form College. Each sets its own requirements, so it's worth looking up the ones for your child's subjects early. We also run workshops on exam technique, revision and getting ready for sixth form, open to students from any Cambridge school."
 schools:
   - Chesterton Community College
   - Coleridge Community College
@@ -46,173 +19,62 @@ schools:
   - The Perse School
   - Stephen Perse Foundation
 schools_image: /images/aerial-school-campus-building.jpg
-online_heading: "Online tuition for Cambridge students: access the right tutor,
-  not just the closest one"
-online_1: Most online tuition with Cambridge students runs through Lessonspace.
-  It's a platform built for one-to-one work, with a shared interactive
-  whiteboard so students and tutors can tackle past paper questions, annotate
-  texts and work through problems together in real time. The experience is
-  closer to sitting next to the tutor than watching a screen.
-online_2: "For students aiming at competitive sixth forms or university, online
-  tuition has a practical advantage: we're not limited by who lives nearby. We
-  can match a Cambridge student with the tutor best suited to their subject,
-  their exam board and what they're trying to achieve. Sessions fit around
-  school, extra-curricular commitments and the rest of life. No travel, no
-  wasted time, and the flexibility to book at short notice when an assessment is
-  coming up."
+online_heading: "Online tuition for Cambridge families: a tutor picked for your child's exam board"
+online_1: "Lessons happen in the online classroom Lessonspace. Your child and the tutor share one whiteboard, so they can work through a past paper question together, mark up a poem or check a calculation line by line as it's written. It feels much more like sitting side by side than watching a video. Every lesson is recorded as well, so your child can replay it later."
+online_2: "Because it's online, we aren't limited to tutors who happen to live near Cambridge. So if your child is aiming at a competitive sixth form or a university offer, we can look right across the UK for the tutor who knows their subject and exam board best. Lessons fit around school, sport and everything else, and nobody has to get in the car on a weeknight. When a big assessment is close, it's easier to squeeze in an extra lesson at short notice too."
 online_image: /images/online-study-workspace-with-coffee.jpg
 map_url: https://maps.google.com/maps?q=Cambridge,UK&output=embed
-areas_intro: Because most of our tuition is online, students in Cambridge and
-  nearby areas can access the right subject specialist without being limited by
-  geography.
+areas_intro: "Every lesson is online, so families in the villages around Cambridge get the same tutors as families in the city. We also cover the cities below."
 area_links:
-  - Norwich Tutors|/locations/norwich-tutors/
-  - Oxford Tutors|/locations/oxford-tutors/
-  - Reading Tutors|/locations/reading-tutors/
-  - Nottingham Tutors|/locations/nottingham-tutors/
-  - Leeds Tutors|/locations/leeds-tutors/
-  - Bristol Tutors|/locations/bristol-tutors/
+  - "Royston Tutors|/locations/royston-tutors/"
+  - "St Neots Tutors|/locations/st-neots-tutors/"
+  - "Norwich Tutors|/locations/norwich-tutors/"
+  - "Oxford Tutors|/locations/oxford-tutors/"
+  - "Reading Tutors|/locations/reading-tutors/"
+  - "Nottingham Tutors|/locations/nottingham-tutors/"
 gcse_subjects:
-  - GCSE Physics Tuition|Problem-solving support across forces, energy and
-    electricity for students who need to turn solid understanding into the marks
-    top sixth forms
-    expect.|/book-a-call/
-  - GCSE English Tuition|Analytical writing support across Language and
-    Literature, helping students argue with the precision and control that
-    distinguishes a grade 7 from a grade
-    6.|/book-a-call/
-  - GCSE History Tuition|Essay technique and source analysis developed with the
-    rigour Cambridge students need when competing for places at selective sixth
-    forms and beyond.|/book-a-call/
-  - GCSE Computer Science Tuition|Programming fundamentals and computational
-    thinking support for students who want to go beyond the syllabus and
-    genuinely understand what they're
-    building.|/book-a-call/
-  - GCSE Biology Tuition|Clear guidance through cells, genetics and ecology that
-    builds real depth, so students can handle the harder questions rather than
-    just the predictable
-    ones.|/book-a-call/
-  - GCSE French Tuition|Accurate, confident performance across all four skills,
-    with targeted work on the grammar points that separate the highest grades
-    from the rest.|/book-a-call/
-  - GCSE Maths Tuition|Advanced problem-solving support across algebra, geometry
-    and statistics for students pushing toward the top grade boundaries Hills
-    Road asks for.|/book-a-call/
-  - GCSE Geography Tuition|Support on case studies, data response and extended
-    writing for students who want their Geography grade to hold its own against
-    their strongest
-    subjects.|/book-a-call/
-  - GCSE Chemistry Tuition|Structured tuition through organic, inorganic and
-    physical chemistry that builds the deep understanding Cambridge's most
-    competitive sixth form entries
-    reward.|/book-a-call/
+  - "GCSE Physics Tuition|Forces, energy and electricity, with lots of practice turning what your child understands into the marks a sixth form offer needs.|/book-a-call/"
+  - "GCSE English Tuition|Clear, well-argued essays for Language and Literature, built up from your child's current grade, whether that's a 4 or a 6.|/book-a-call/"
+  - "GCSE History Tuition|Source questions and essays planned properly, for a child who needs History to count towards a competitive sixth form place.|/book-a-call/"
+  - "GCSE Computer Science Tuition|Programming and algorithms explained until the code makes sense, with room to go past the syllabus if your child is keen.|/book-a-call/"
+  - "GCSE Biology Tuition|Cells, genetics and ecology in real depth, so the harder, less predictable questions stop coming as a shock.|/book-a-call/"
+  - "GCSE French Tuition|Listening, speaking, reading and writing, with regular work on the grammar that a lot of the writing marks depend on.|/book-a-call/"
+  - "GCSE Maths Tuition|From shaky algebra to the toughest problem-solving questions, aimed at the Maths grade your child's sixth form is asking for.|/book-a-call/"
+  - "GCSE Geography Tuition|Case studies learnt in detail and the longer answers planned properly, so Geography doesn't end up the weak spot among your child's grades.|/book-a-call/"
+  - "GCSE Chemistry Tuition|Bonding, calculations and organic chemistry, understood rather than memorised, because that's what the harder questions test.|/book-a-call/"
 alevel_subjects:
-  - "A-Level History Tuition|Sustained argument, precise evidence and the
-    ability to challenge historiography: the skills that separate A from A* for
-    Cambridge's most ambitious
-    students.|/book-a-call/"
-  - A-Level Maths Tuition|Expert support across pure maths, mechanics and
-    statistics, tackling the multi-step problems that decide whether a student's
-    prediction goes up or stays
-    put.|/book-a-call/
-  - A-Level Geography Tuition|Advanced geographical analysis, fieldwork and
-    extended writing supported by tutors who know exactly what the top mark
-    bands are looking
-    for.|/book-a-call/
-  - A-Level Biology Tuition|In-depth support through genetics, physiology and
-    ecology for students building the subject knowledge that makes a science
-    UCAS application
-    credible.|/book-a-call/
-  - "A-Level Psychology Tuition|Research methods, key approaches and essay
-    technique: the three things that define whether A-Level Psychology produces
-    a strong grade or a frustrating
-    one.|/book-a-call/"
-  - A-Level Chemistry Tuition|Rigorous one-to-one tuition through organic,
-    inorganic and physical chemistry for students who need genuine
-    understanding, not just exam
-    technique.|/book-a-call/
-  - A-Level English Tuition|Critical analysis and essay construction support
-    that helps students find a distinctive voice and write arguments that hold
-    up under the toughest mark
-    schemes.|/book-a-call/
-  - A-Level Economics Tuition|Micro and macroeconomic models, policy evaluation
-    and data analysis, building the analytical depth that university economics
-    departments want to
-    see.|/book-a-call/
-  - A-Level Physics Tuition|Focused tuition in advanced mechanics, fields and
-    quantum physics for students who want their Physics grade to reflect what
-    they actually
-    understand.|/book-a-call/
+  - "A-Level History Tuition|Essays that hold one argument from start to finish and weigh up historians' views, whether your child is chasing a B or an A*.|/book-a-call/"
+  - "A-Level Maths Tuition|The long, multi-step problems in pure maths, mechanics and statistics, which often decide whether a prediction goes up.|/book-a-call/"
+  - "A-Level Geography Tuition|The coursework investigation and the long essays, with a tutor who can show exactly what the examiner rewards.|/book-a-call/"
+  - "A-Level Biology Tuition|Genetics, physiology and ecology in proper depth, which also helps if a science or Medicine application is on the cards.|/book-a-call/"
+  - "A-Level Psychology Tuition|Research methods, the main approaches and essay writing, which between them are where most Psychology marks are won or lost.|/book-a-call/"
+  - "A-Level Chemistry Tuition|Organic, inorganic and physical chemistry, worked through one-to-one until your child can explain why a reaction happens, not just recite it.|/book-a-call/"
+  - "A-Level English Tuition|Reading texts closely and finding an argument of their own, then keeping it going right to the last paragraph.|/book-a-call/"
+  - "A-Level Economics Tuition|Micro and macro models, evaluation and data questions, and the kind of thinking a university Economics course will build on.|/book-a-call/"
+  - "A-Level Physics Tuition|Mechanics, fields and quantum physics, taught so your child's grade reflects what they actually understand.|/book-a-call/"
 other_subjects:
-  - University Personal Statement|Shape a strong UCAS personal statement with
-    expert support on structure, subject motivation, and final
-    polish.|/book-a-call/
-faq_1_q: Do you help with sixth form entrance exams or interviews in Cambridge?
-faq_1_a: Yes. We work with Cambridge students preparing for competitive sixth
-  form entry, including aptitude tests and interviews. Tutors know what these
-  schools are looking for and how to prepare students properly, not just on
-  content.
-faq_2_q: How much does tutoring cost in Cambridge?
-faq_2_a: Sessions start from £37 per hour. The exact rate depends on the subject
-  and the tutor, and it is always agreed before anything is booked. No
-  surprises, no hidden fees.
-faq_3_q: What exam boards do your tutors cover?
-faq_3_a: AQA, Edexcel, OCR and WJEC. When we match a student with a tutor, exam
-  board knowledge is part of the criteria. We do not just match on subject.
-faq_4_q: Do you offer tutoring during school holidays in Cambridge?
-faq_4_a: Yes. Holiday sessions are popular with Cambridge families. Some use the
-  time to get ahead, some to catch up, some to prepare intensively before exams.
-  We fit around what works for the family.
-why_heading: Why Cambridge families choose The Degree Gap
-why_para_1: When students from Cambridge state schools come to us for tutoring,
-  the pattern we see most often isn't a student who doesn't know the material.
-  It's a student who can explain a concept out loud but can't structure that
-  knowledge into a high-scoring exam answer. They've absorbed the content in
-  class. What they haven't had is someone sit with them, look at a specific
-  paragraph or a specific calculation, and show them precisely where the marks
-  are going and why. That's the gap. And in a city where a grade 6 and a grade 7
-  lead to very different sixth form options, it matters.
-why_para_2: The Degree Gap tutors bring that kind of specific feedback into
-  every session. Not generically. They look at what that student wrote, what the
-  mark scheme actually asks for, and what needs to change. For Cambridge
-  students pushing towards the top grade boundaries, it's often not about more
-  revision. It's about understanding what examiners reward and being able to do
-  it under pressure. Most students notice a shift in how manageable the subject
-  feels within the first few tutoring sessions. The grades follow from there.
-accordion_quality: Every tutor we work with is assessed on subject knowledge at
-  the level Cambridge students need, from GCSE grade boundaries to the depth
-  that competitive sixth forms and university applications require. We vet for
-  how clearly they explain things, not just their academic credentials.
-accordion_experience: Our tutors have experience preparing students for the
-  high-standard exams and sixth form entry requirements that define academic
-  life in Cambridge. Several have been through competitive university
-  applications themselves and know what distinguishes a strong answer from a top
-  one.
-accordion_personalised: Some Cambridge students come to us aiming for a specific
-  sixth form place. Others are already at A-Level and pushing for a higher
-  predicted grade. Every tutoring session is built around where that student is
-  now and what they need to reach next, not a fixed format applied to everyone.
+  - "University Personal Statement|Help with your child's UCAS personal statement, from why they want the subject to how it's put together and the final read.|/book-a-call/"
+faq_1_q: "Can you help my child get ready for a sixth form entry test or interview?"
+faq_1_a: "Yes. Tell us which Cambridge sixth form your child is applying to and what it asks for, whether that's a test, an interview or simply the grades. We'll suggest tutors who can prepare them, with enough practice that the real thing feels familiar."
+faq_2_q: "How much does tutoring cost in Cambridge?"
+faq_2_a: "Lessons start from £37 an hour. The rate depends on the tutor and the subject, and we'll agree it with you before anything's booked. No contract, no joining fee, and you're free to stop at any point."
+faq_3_q: "Will the tutor know the exam board my child is on?"
+faq_3_a: "Yes. Our tutors cover AQA, Edexcel, OCR and WJEC, and we match on the board your child is sitting, not just the subject. If you don't know which it is, we'll help you find out on the call."
+faq_4_q: "Can lessons carry on over the school holidays?"
+faq_4_a: "Yes, and plenty of Cambridge families use them. Some want to catch up on a topic that slipped last term. Others want to get ahead, or do some focused revision before exams. We'll fit the lessons around your plans."
+why_heading: "What our tutors tend to spot first with Cambridge families"
+why_para_1: "Ask your child to explain a topic at the kitchen table and they'll probably do it well. Our tutors see that all the time. The knowledge is there. What's missing is the shape of an exam answer: which point goes first, and how much to write for a four-mark question. They've had the content in class. What they haven't had is someone next to them, going through one paragraph or one calculation, and showing exactly where the marks slip away. Very fixable, though. When one grade can decide a sixth form place, it's worth fixing."
+why_para_2: "So that's where the tutor starts. They take a recent essay or test, mark it against the mark scheme and show your child the two or three changes that would have picked up marks. Then they practise those, against the clock, until they're habits. For a lot of Cambridge families it turns out more revision was never the answer. Most parents tell us the subject stops being a sore point within the first few lessons. Nobody can promise a grade, but that's usually when things start to move."
+accordion_quality: "Harry and Joe, who started The Degree Gap, interview every tutor personally. About 3% of the people who apply get through. We look at what they know, from GCSE grade boundaries up to what sixth forms and universities expect, and at how clearly they explain it."
+accordion_experience: "Every tutor on our platform has spent at least two years tutoring, and many have worked with children aiming at sixth form entry grades like the ones in Cambridge. Plenty went through competitive university applications themselves, so they know what lifts a good answer into a very good one."
+accordion_personalised: "A Year 10 working towards a sixth form place and a Year 13 chasing a higher prediction need quite different lessons. So each one starts from where your child is now and what comes next, and the plan changes as they do."
 reviews:
-  - Daljit|Parent of A-Level Student|My son gained almost two grades higher than
-    his year 13 mock paper. His tutor was excellent.
-  - Philippa|Parent of GCSE Student|I was really pleased to discover the Degree
-    Gap when my daughter needed help getting the grades she needed for GCSEs.
-    The team offer a really personalised service and I felt really well looked
-    after from the start. There are lots of tutors to choose from and all
-    subjects are catered for, with great flexibility on timings. Highly
-    recommend.
-  - Nick|Parent of A-Level Student|Our son has been receiving tuition for
-    Psychology A Level. The tutor has provided a solid base of support outside
-    of school lessons and helped him to improve his latest grades.
-  - Heidi|Parent|Our tutor is simply amazing with our daughter. He understands
-    her completely and her sessions are helping her with her school work so
-    much. We cannot thank him enough.
-  - Jessica|GCSE Student|I was helped with both Maths and English for my GCSEs
-    and passed both subjects with great results, which gave me the foundation
-    and confidence to go on to succeed in my A-levels and complete my degree.
-  - Sorland|Parent|My granddaughter uses the Degree Gap tutoring services across
-    a few subjects. She is not only improving academically but really enjoys the
-    setup and structure too. I would recommend to anyone.
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings to fit around school lessons. …"
+  - "Nick|Parent of A-Level Student|Sandra Sabu has been tutoring our son for Psychology A Level. Sandra has provided a solid base of tutoring outside of school lessons and helped him to improve his latest grades."
+  - "Heidi|Parent|Emir, is simply amazing with our daughter. He 'gets' her totally, her sessions are helping her with her school work so much. We can't thank him enough ! …"
+  - "Jessica|GCSE Student|I highly recommend Harry – he was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree!!"
+  - "Sorland|Parent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
 sitemap:
   priority: 0.8
   changefreq: monthly

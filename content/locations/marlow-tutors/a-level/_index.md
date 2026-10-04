@@ -1,41 +1,41 @@
 ---
 title: "Marlow A-Level Tuition | From £37/hr"
-description: "Marlow A-Level tutors for Year 12 and Year 13, working one-to-one online over Lessonspace on the grades that predictions are written from. From £37 an hour."
+description: "Marlow A-Level tutors for Year 12 and 13, working on the grades your child's predictions are written from. Weekly online lessons from £37, and no contract."
 layout: "subject"
 location: "Marlow"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors Helping Marlow Sixth Formers Turn Year 12 Work Into the Predictions That Count"
+hero_heading_line1: "Online Marlow A-Level Tutors for the Year 12 That Shapes Your Child's Predictions"
 hero_heading_line2: ""
-hero_lead: "Whether a Marlow student stayed at their own school, moved sixth form or crossed the river to Henley, Year 12 is where the grade on the UCAS form starts to take shape. Tutors on our platform work one-to-one online over Lessonspace, an hour a week, so it takes shape well."
+hero_lead: "Did your child stay on for sixth form, move school, or cross the river to Henley? Wherever they are, the grade on their UCAS form starts taking shape in Year 12. Our Marlow A-Level tutors work with them one-to-one online, an hour a week."
 
 grade_from: "E/U"
 grade_to: "C"
-grade_stat: "One parent describes a son who left revision very late turning E and U grades into three Cs."
+grade_stat: "E and U grades became three Cs for one parent's son, even though his revision started very late."
 
 first_lesson_eyebrow: "NEW SIXTH FORM, NEW HABITS"
 first_lesson_heading: "Why a Marlow A-Level Tutor Looks Hard at the First Term"
-first_lesson_context: "A fair number of Marlow students begin Year 12 somewhere new, with new teachers, a new timetable and a lot more unsupervised time. The first term is where the habits get set, and the gap between GCSE and A-Level tends to show up in October assessments before anyone has named it. We would rather see that paper in an online session in November than wait for the Year 12 mocks."
+first_lesson_context: "Quite a few Marlow teenagers start Year 12 somewhere new, and suddenly there's a lot more time that nobody's supervising. That first term is when habits get set, and the jump from GCSE usually shows in the October assessments before anyone's put a name to it. We'd much rather the tutor saw that paper with your child in November than wait for the Year 12 mocks."
 first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
 first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "E and U grades to three Cs"
 
-tutor_strip_heading: "A-Level tutors for Marlow students who know the paper your child will sit"
-tutor_strip_body: "Borlase, Great Marlow and The Henley College each choose their own boards subject by subject, and at A-Level that choice shapes almost every lesson. Many tutors on our platform sat these specifications themselves not long ago. Every session is one-to-one on Lessonspace. Ask to see two or three profiles."
+tutor_strip_heading: "Marlow A-Level tutors who know the paper your child will sit"
+tutor_strip_body: "Borlase, Great Marlow and The Henley College each pick their own exam boards, subject by subject, and at A-Level that choice shapes nearly every lesson. Many of our tutors sat these same exams not long ago. Ask us for two or three profiles and see who fits."
 
-pathways_heading: "Where Marlow Students Go After Two Years of A-Levels"
-pathways_lead: "The routes that come up most when a Marlow family talks to us in Year 12."
+pathways_heading: "Where Marlow Sixth Formers Go After Two Years of A-Levels"
+pathways_lead: "Most Year 12 conversations with Marlow parents end up on one of these three."
 pathways:
   - title: "Universities"
     body: >
-      The University of Reading and Buckinghamshire New University in High Wycombe are both within easy reach, and Oxford is under an hour by road. From Maidenhead the Elizabeth line runs straight into central London. Offers are made on predicted grades written in Year 13, long before the summer exams.
+      The University of Reading and Buckinghamshire New University in High Wycombe are both within easy reach, Oxford's under an hour by road, and the Elizabeth line runs from Maidenhead straight into central London. Wherever your child applies, offers are made on grades predicted in Year 13, long before the summer exams.
   - title: "Degree Apprenticeships"
     body: >
-      Buckinghamshire New University delivers apprenticeships with employers across the county, including the Chartered Manager programme that leads to a business management degree. Each scheme sets its own entry requirements and closing dates, and many close before the UCAS deadline.
+      Buckinghamshire New University runs apprenticeships with employers across the county, including the Chartered Manager programme, which leads to a business management degree. Each scheme sets its own entry grades and closing dates, and many close before the UCAS deadline.
   - title: "Career Pathways"
     body: >
-      Globe Business Park on the edge of Marlow employs an estimated 3,000 people, with Softcat's headquarters the best known name there. Buckinghamshire Healthcare NHS Trust recruits across Wycombe and Stoke Mandeville, and the tech and professional employers along the Thames Valley at Maidenhead and Reading are a short trip away.
+      Globe Business Park on the edge of Marlow employs an estimated 3,000 people, and Softcat's headquarters is the best-known name there. Buckinghamshire Healthcare NHS Trust recruits across Wycombe and Stoke Mandeville, and the Thames Valley's tech and professional firms in Maidenhead and Reading are a short trip away.
 
 reviews:
   - "Cat|Parent of A-Level Student|My 18 year old son had A-level Economics tutoring with Harry.  He was excellent, knew exactly what he needed to learn and was able to explain in terms which made it simple to understand.  The online platform was convenient and easy to use."
@@ -52,13 +52,13 @@ reviews:
   - "Alex|University Student|Can’t recommend The Degree Gap highly enough. Quick and helpful responses from Harry. He immediately matched me with a very competent tutor, who was a massive help in helping me exceed my target grade and achieve a first class degree at university."
 
 faq_1_q: "My son moved sixth form for Year 12. Does that change how tutoring works?"
-faq_1_a: "It changes where we start. A student joining a new sixth form is adjusting to new teachers, different expectations for independent study and sometimes a different exam board from the one they expected. The online tutor begins by checking the specification for each subject, then reads the first marked assessment of the year. That usually shows whether the issue is content that never landed at GCSE or the new demand for longer, more open answers. Both are common, and both are fixable in the first term."
-faq_2_q: "How do predicted grades work, and can tutoring move them?"
-faq_2_a: "Predicted grades are set by teachers, usually from Year 12 assessments, end-of-year exams and the first part of Year 13. They reach universities with the UCAS application in the autumn. Tutoring moves them by moving the evidence: better mock scripts, better timed essays and a student who can talk about the subject with confidence in class. It is slow work, measured in terms rather than weeks, which is why starting in Year 12 helps so much more than starting after Christmas of Year 13."
-faq_3_q: "Can you help if my child is choosing between university and an apprenticeship?"
-faq_3_a: "Yes. Tutors focus on the grades in weekly online sessions, since those matter for both routes, and Harry or Joe can talk through the timing on the first call. Degree apprenticeships through Buckinghamshire New University and larger employers in the Thames Valley each set their own requirements and often close before the UCAS deadline. Many Marlow students keep both routes open until the spring of Year 13, which is sensible, but it does mean the predicted grade has to be ready earlier than people expect."
-faq_4_q: "How are the tutors chosen?"
-faq_4_a: "Every tutor holds a degree and is interviewed by one of our two co-founders. Around 3% of applicants are accepted. The interview checks subject knowledge first, then asks the tutor to explain something difficult to someone who is struggling, which is where most applicants fall short. For A-Level we also match on the exam board and, where we can, on a tutor who has recently sat or taught that specification. You meet them on a free 15-minute video call first."
+faq_1_a: "It changes where the tutor starts. Your son's settling in with new teachers, different expectations about studying on his own, and sometimes an exam board he wasn't expecting. So the tutor checks the course for each subject first, then reads his first marked assessment of the year. That usually shows whether it's GCSE content that never quite landed, or the new demand for longer, more open answers. Both are common. And both are fixable, often within the first term."
+faq_2_q: "How are predicted grades worked out, and can a tutor help raise them?"
+faq_2_a: "Teachers set them, usually from Year 12 assessments, the end-of-year exams and the first part of Year 13. They go to universities with the UCAS application in the autumn. A tutor can't change the number directly. What they can change is the evidence: better mock papers, better timed essays, and your child talking about the subject with confidence in class. It's slow work, measured in terms rather than weeks. So starting in Year 12 helps far more than starting after Christmas in Year 13."
+faq_3_q: "My daughter can't decide between university and an apprenticeship. Can you help?"
+faq_3_a: "Yes. The grades matter for both routes, so that's what the tutor works on each week, and one of our co-founders, Harry or Joe, can talk the timing through with you on the first call. Degree apprenticeships through Buckinghamshire New University and the bigger Thames Valley employers each set their own requirements, and they often close before the UCAS deadline. Lots of Marlow families keep both doors open until the spring of Year 13. That's sensible, but it means your daughter's predicted grade needs to be ready sooner than most people expect."
+faq_4_q: "How do you choose the tutors?"
+faq_4_a: "Harry or Joe, our two co-founders, interview every one of them, and only around 3% of applicants get through. Some have finished their degrees, others are still studying for one, and each brings at least two years of tutoring experience. The interview checks subject knowledge first, then asks them to explain something tricky to someone who's struggling, which is where most applicants fall down. For A-Level we also match on exam board and, where we can, on a tutor who's recently sat or taught your child's course. Your child meets them on a free 15-minute video call first, and lessons then run one-to-one on the platform Lessonspace, where every lesson can be replayed afterwards."
 
 sitemap:
   priority: 0.7

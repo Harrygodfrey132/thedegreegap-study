@@ -1,48 +1,41 @@
 ---
 title: "Barnet A-Level Tuition | From £37/hr"
-description: "Barnet A-Level tutors for the predicted grade that offers rest on. One-to-one tutoring online over Lessonspace, matched on specification, from £37 an hour."
+description: "University offers rest on a predicted grade written months before the exams. Barnet A-Level tutors who start from your child's last mocks. Online, from £37."
 layout: "subject"
 location: "Barnet"
 level: "A-Level"
 
-hero_heading_line1: "Online Barnet A-Level Tutoring for the UCAS Prediction and the Degree Apprenticeship Deadline"
+hero_heading_line1: "Online Barnet A-Level Tutors for the Predicted Grade Your Child's Offers Rest On"
 hero_heading_line2: ""
-hero_lead: "Offers are made against a number written months before anyone sits a paper. Our Barnet A-Level tutors work to that date rather than to June, and start from what the last set of mocks actually showed. Sessions run online and one-to-one over Lessonspace."
+hero_lead: "Universities make their offers on your child's predicted grade, and the school writes that months before anyone sits a paper. Our Barnet A-Level tutors plan for that, not just June, starting from what the last mocks really showed. Lessons are one-to-one and online."
 
 grade_from: "C"
 grade_to: "A"
-grade_stat: "A real A-Level move from C grades up to A grades, from a parent who used us for the university choices as well."
+grade_stat: "One parent's review puts it simply: Cs to As, with help on university choices as well."
 
 first_lesson_eyebrow: "THE NUMBER THAT TRAVELS EARLY"
 first_lesson_heading: "How a Barnet A-Level Tutor Works Backwards From the Prediction"
-first_lesson_context: "A-Level results across Barnet sit above the national picture, so a student here is competing mostly with people doing just as well. But the moment that settles it comes early. Predictions are built from Year 12 work and the first weeks of Year 13, they reach universities before the spring, and by the time revision starts in earnest the doors have already opened or they have not."
+first_lesson_context: "It's easy to think of June as the deadline, but offers are made much earlier. Your child's predictions are built from Year 12 work and the first weeks of Year 13, and many offers arrive before spring. So an A-Level tutor plans backwards from the prediction, with the Year 12 work that feeds it first in line."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "C grades to A grades at A-Level"
 
-tutor_strip_heading: "Barnet A-Level tutors who know the specification, not just the subject"
-tutor_strip_body: "Sixth forms around the borough sit on different boards, and on different options inside one board, so that gets confirmed first. Many of our tutors sat these papers recently enough to remember which Year 12 topics Year 13 leans on. Browse profiles, or let us match your child."
+tutor_strip_heading: "Barnet A-Level tutors who check the exam board before anything else"
+tutor_strip_body: "Sixth forms around the borough use different boards, and sometimes different options within one, so we confirm your child's first. A tutor who knows that course also knows which Year 12 topics Year 13 leans on hardest. Browse the tutors below, or ask us to choose."
 
 pathways_heading: "What Comes After A-Levels in Barnet"
-pathways_lead: "Most families here weigh up three things at once during Year 12."
+pathways_lead: "In Year 12 you'll probably find yourselves weighing up all three at once."
 pathways:
   - title: "Universities"
     body: >
-      Middlesex University sits in Hendon and the rest of London is a Northern line ride away, so
-      students from the borough apply widely and a lot of them live at home while they do it.
-      Conditional offers rest on predictions made during Year 12, months before any paper is sat.
+      Middlesex University is in Hendon and the rest of London's a Northern line ride away, so families here often apply widely, and plenty of teenagers live at home while they study. Conditional offers rest on predictions that come mostly from Year 12.
   - title: "Degree Apprenticeships"
     body: >
-      Middlesex University runs degree apprenticeships with employers across north London,
-      including the registered nurse route it delivers with the Royal Free London NHS Foundation
-      Trust, where apprentices are based on wards at Barnet Hospital. Barnet Council runs its own
-      scheme, and those windows often close before the UCAS one does.
+      Middlesex University runs degree apprenticeships with employers across north London, including a registered nurse route with the Royal Free London NHS Foundation Trust, where apprentices are based on wards at Barnet Hospital. Barnet Council runs its own scheme too, and it's worth checking dates early, as these applications don't follow the UCAS timetable.
   - title: "Career Pathways"
     body: >
-      Brent Cross Town has an on-site jobs and skills hub connecting local people with vacancies
-      and training as the development builds out. The Royal Free London trust and Barnet Council
-      both recruit at eighteen as well as at graduate level.
+      Brent Cross Town has an on-site jobs and skills hub that links local people with vacancies and training as the development grows. And the Royal Free London trust and Barnet Council both recruit at eighteen, not only at graduate level.
 
 reviews:
   - "Nick|Parent of A-Level Student|Sandra Sabu has been tutoring our son for Psychology A Level. Sandra has provided a solid base of tutoring outside of school lessons and helped him to improve his latest grades."
@@ -59,13 +52,13 @@ reviews:
   - "Alex|University Student|Can’t recommend The Degree Gap highly enough. Quick and helpful responses from Harry. He immediately matched me with a very competent tutor, who was a massive help in helping me exceed my target grade and achieve a first class degree at university."
 
 faq_1_q: "Does starting in Year 12 really matter that much?"
-faq_1_a: "It matters more than families expect. Year 12 work is what the prediction is built from, and the prediction is what an offer is made against, so an hour that lands in the spring of Year 12 counts twice over. Year 13 starts are still worth doing and we take plenty of them, but the plan changes shape: less rebuilding, more targeted repair of the earlier topics this year leans on, and exam technique alongside. Either way it is a weekly online one-to-one hour over Lessonspace."
-faq_2_q: "Can tutoring change a predicted grade before it goes to UCAS?"
-faq_2_a: "Not directly. Teachers set predictions from mock performance and their own judgement, so what tutoring changes is the work the judgement is based on. That means a better script in the next assessment rather than a conversation about the number. In practice the fastest route is reading the actual mock paper, finding whether marks are going on content or on how answers are built, then fixing the second one first, because it moves quicker."
+faq_1_a: "More than most families expect. Your child's prediction is built from Year 12 work, and that prediction is what offers are made on, so a lesson in the spring of Year 12 counts twice: once for the prediction, and again in the exam. We take plenty of Year 13 starts too, and they're still worth it. The plan just looks different: less rebuilding, more targeted work on the earlier topics this year leans on, plus exam technique. Either way, it's an hour a week, one-to-one, on the platform Lessonspace."
+faq_2_q: "Can a tutor get my child's predicted grade changed before it goes to UCAS?"
+faq_2_a: "Not directly, and nobody should promise you that. Teachers set predictions from mock results and their own judgement, so what a tutor changes is the work that judgement's based on. That means a better paper in the next assessment, not a conversation about the number. The quickest way in is the last mock itself. The tutor reads it to see whether marks are going on content or on how the answers are put together, and starts with the answers, because that side moves faster."
 faq_3_q: "He got grade 8s and 9s at GCSE and A-Level has knocked him sideways. Why?"
-faq_3_a: "Because it is a different subject wearing the same name. At GCSE a question mostly tells you which method it wants; at A-Level it stops doing that, and a student who got by on pattern recognition suddenly has nothing to match against. Add the volume of independent study nobody taught him to plan and the drop looks like effort. It usually is not. The repair is choosing methods unprompted, drilled weekly until it feels normal."
+faq_3_a: "Because it's really a different subject wearing the same name. At GCSE, a question mostly tells him which method it wants. At A-Level it stops doing that, so if he got by on spotting patterns, there's suddenly nothing to match against. Add a lot more independent study than he's used to, and the drop looks like a lack of effort. It usually isn't. The fix is practice at choosing a method with no hints, every week, until it feels normal."
 faq_4_q: "Can you help with a degree apprenticeship application as well as the grades?"
-faq_4_a: "Yes, and the timing is the part worth knowing. Schemes run by Middlesex University and employers like the Royal Free London trust and Barnet Council publish their own entry requirements, and application windows frequently close earlier in the year than the UCAS deadline. Tutors work on the predicted grades a scheme screens against, and our founders will talk through the written application and what a strong one looks like on the consultation call."
+faq_4_a: "Yes, and the timing's the bit worth knowing. Schemes run with Middlesex University, the Royal Free London trust and Barnet Council each set their own entry requirements and their own application dates, which don't follow the UCAS calendar. The tutor works on the grades a scheme looks at. And on the free call, Harry or Joe can talk you through the written application and what a strong one looks like."
 
 sitemap:
   priority: 0.7

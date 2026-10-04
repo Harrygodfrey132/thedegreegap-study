@@ -1,16 +1,16 @@
 ---
 title: "Chesham GCSE and A-Level Tutors | The Degree Gap"
-description: "Chesham tutoring for the 11+, GCSE and A-Level. One-to-one tutors matched on subject, exam board, and the standard the local grammars are calibrated to."
+description: "Bright, but never had to revise? Our Chesham tutors teach your child the subject and how to study it, for the 11+, GCSE and A-Level. From £37, no contract."
 layout: single
 location: Chesham
-banner_heading: "Want an online Chesham tutor who can stretch a student past where the class is set?"
-banner_description: "Our Chesham tutoring is built around what each student actually needs next, with tutors matched on subject, exam board and target grade."
-content_angle: "ambition / commuter belt"
-intro_1: "A lot of Chesham families come to us with the same story. They moved out of London for the schools and the space. They expected the schools would carry the academic load that the move was supposed to make easier. And in most cases the schools do an honest job. But a class of 30, with a curriculum that has to move, can only stretch a strong student so far. By Year 10 a parent often notices their child is bright, doing the work, and quietly coasting at a grade band below what they're capable of."
-intro_2: "Our Chesham tutors work with that gap directly. For students at Chesham Grammar, Dr Challoner's Grammar or Dr Challoner's High, that means going beyond the syllabus pace into the analytical depth A* answers demand. For students at any other secondary across Chesham and Amersham, it means giving ambition the one-to-one attention a class of thirty rarely has room for. And for Year 5 and 6 families thinking about the 11+, it means proper preparation in verbal reasoning, non-verbal reasoning, English and Maths well before the test."
+banner_heading: "Fine at School, but Could Do More? Online Chesham Tutors for the 11+, GCSE and A-Level"
+banner_description: "A lot of capable children reach Year 10 without ever having had to revise. Our Chesham tutors show your child how, one-to-one and online."
+content_angle: "never had to revise: the capable child who's quietly coasting, in a family that moved out of London for the schools and the space, and a tutor who teaches how to study alongside the subject"
+intro_1: "'Revising' in a lot of Chesham homes looks much the same. Notes open, highlighter out, phone face down but never far away. An hour later very little has gone in, and your child honestly believes they've worked. It's not laziness. Plenty of bright children have simply never needed a method, because until Year 9 or so, listening in class was enough. Then GCSE content arrives in bulk, and a child who's always been fine starts slipping a little without anyone quite noticing. For families who moved out of London for the schools and the space, it can be a strange thing to watch."
+intro_2: "That's the bit a tutor can help with. Whether it's Chemistry at Chesham Grammar, Maths at Dr Challoner's High or English at The Amersham School, they'll teach the subject and show your child how to revise it. That means testing themselves instead of rereading, and doing past questions instead of copying notes out neatly. It starts with a free call with Harry or Joe, who founded The Degree Gap. Within a day you'll have profiles of two or three tutors to choose between."
 about_heading: "One-to-One Tutoring for Chesham Students"
 about_image: /images/classical-library-books-and-busts.jpg
-schools_intro: "Our tutors support students from the secondary schools across Chesham, Amersham and the wider Chiltern district. Chesham Grammar School, Dr Challoner's Grammar School, Dr Challoner's High School, Chiltern Hills Academy, The Amersham School and The Misbourne all send students our way, working at every level from 11+ preparation to Year 13 university offers. We also run free workshops on revision strategy and exam technique, open to students from any local school."
+schools_intro: "We can work with Chesham families from Chesham Grammar School, Dr Challoner's Grammar School, Dr Challoner's High School, Chiltern Hills Academy, The Amersham School and The Misbourne, among others. Before suggesting anyone, we check which exam board your child sits for each subject, because two friends at different schools can be following quite different courses. Harry and Joe run revision workshops in schools during the day, so how teenagers revise is something we think about a great deal."
 schools:
   - Chesham Grammar School
   - Dr Challoner's Grammar School
@@ -19,12 +19,12 @@ schools:
   - The Amersham School
   - The Misbourne School
 schools_image: /images/students-listening-in-classroom.jpg
-online_heading: "Online tutoring for Chesham students that matches on subject and spec"
-online_1: "Most of our work with Chesham families runs online through Lessonspace, our shared whiteboard built for one-to-one sessions. The best tutor for a Chesham Grammar A-Level Maths student isn't necessarily the one who lives nearest. We match on subject, exam board and the kind of teaching the student responds to, then sessions run from home, with no commute on either side."
-online_2: "And online tutoring fits around a Chesham timetable in a way that in-person tuition rarely can. No travel, no dropped homework time, and weekly consistency is much easier to maintain. Most students concentrate harder one-to-one online than in a busy classroom, partly because there's nowhere to hide. Lessonspace takes about a minute to learn, and sessions are recorded so a student can revisit the bits that didn't quite click."
+online_heading: "What online tuition looks like for a Chesham child learning to revise"
+online_1: "Every lesson is one-to-one and online, through a platform called Lessonspace. The tutor can open with a quick recall test on the shared whiteboard and see straight away what stuck from last week and what didn't. Each lesson's recorded, too, and those replays make far better revision later on than rereading a textbook."
+online_2: "With lessons at home, nobody has to commute, which matters when evenings are already tight. It also means the best tutor for, say, A-Level Maths at Chesham Grammar can be whoever knows that course best, not whoever lives nearest. And because the slot stays the same every week, it quietly builds a habit your child may never have needed before. Sitting down to study at a set time, test or no test."
 online_image: /images/student-celebrating-online-learning.jpg
 map_url: "https://maps.google.com/maps?q=Chesham,UK&output=embed"
-areas_intro: "Finding the right tutor matters more than finding the nearest one, which is why we support families across Chesham and well beyond, online and matched on what each student actually needs."
+areas_intro: "Chesham, Amersham or anywhere across the Chiltern district, your child gets the same pick of tutors, and so do families in the nearby towns listed here."
 area_links:
   - Aylesbury Tutors|/locations/aylesbury-tutors/
   - Watford Tutors|/locations/watford-tutors/
@@ -33,47 +33,47 @@ area_links:
   - Milton Keynes Tutors|/locations/milton-keynes-tutors/
   - Oxford Tutors|/locations/oxford-tutors/
 gcse_subjects:
-  - GCSE Maths Tuition|Stretch tutoring across number, algebra and statistics for grammar school students across the whole mark band, from foundation work to top-grade stretch.|/book-a-call/
-  - GCSE English Tuition|Sharp tutoring across Language and Literature, with the exam-timed essay technique that rewards a tighter answer.|/book-a-call/
-  - GCSE Biology Tuition|Detailed work across the full specification for students aiming at confident sixth form Biology.|/book-a-call/
-  - GCSE Chemistry Tuition|One-to-one work through bonding, equations and rates of reaction broken down at whatever level the student is sitting at.|/book-a-call/
-  - GCSE Physics Tuition|Forces, waves and electromagnetism, built around the application questions that decide the top grades.|/book-a-call/
-  - GCSE History Tuition|Source skills, essay structure and extended argument, taught by tutors who know what a grade 9 history answer actually looks like.|/book-a-call/
-  - GCSE Geography Tuition|Case study revision, data response and nine-mark question technique, anchored to what the mark scheme actually rewards.|/book-a-call/
-  - GCSE French Tuition|Structured tutoring across all four skills for students aiming high in writing and speaking, where the easy marks at the top end get missed most often.|/book-a-call/
-  - GCSE Computer Science Tuition|Programming, algorithms and Boolean logic for students who want both the NEA and the written paper to land at the top end.|/book-a-call/
+  - "GCSE Maths Tuition|Past papers used properly, with every mistake logged and revisited, so your child stops making the same slip twice.|/book-a-call/"
+  - "GCSE English Tuition|Quotations learnt through frequent self-testing rather than a night of highlighting, plus essay plans that turn them into marks.|/book-a-call/"
+  - "GCSE Biology Tuition|Key terms tested little and often, then exam questions that show your child whether the Biology has really stuck.|/book-a-call/"
+  - "GCSE Chemistry Tuition|Calculations practised until they're routine, and a revision plan that spaces topics out instead of cramming them all at Easter.|/book-a-call/"
+  - "GCSE Physics Tuition|Equations used on questions your child hasn't seen before, not just copied out neatly onto a revision card.|/book-a-call/"
+  - "GCSE History Tuition|A revision timeline your child builds and tests themselves on, then essay practice that uses those facts to argue a point.|/book-a-call/"
+  - "GCSE Geography Tuition|Each case study condensed onto a single page, with weekly practice turning that page into a full-length answer.|/book-a-call/"
+  - "GCSE French Tuition|Vocabulary learnt in short daily bursts instead of long lists, with speaking practice that puts the new words to use.|/book-a-call/"
+  - "GCSE Computer Science Tuition|Networks and binary turned into cards to test on, plus weekly coding practice so the skills don't fade.|/book-a-call/"
 alevel_subjects:
-  - A-Level Maths Tuition|Focused tutoring across pure, statistics and mechanics for students who want to stay ahead of Year 13 content before it becomes a problem.|/book-a-call/
-  - A-Level Chemistry Tuition|Step-by-step work through organic, inorganic and physical chemistry for students preparing for medicine, dentistry or natural sciences.|/book-a-call/
-  - A-Level Biology Tuition|In-depth tutoring through genetics, physiology and ecology for students aiming at competitive bioscience or medical school offers.|/book-a-call/
-  - A-Level Physics Tuition|Mechanics, fields and quantum topics, taught by tutors with engineering and physics backgrounds at Russell Group level.|/book-a-call/
-  - A-Level Economics Tuition|Micro, macro and evaluation writing for students who want Economics to be the strongest part of their UCAS application.|/book-a-call/
-  - A-Level Psychology Tuition|Methodical work through research methods and AO3 evaluation writing for students who want to write with precision, not just at length.|/book-a-call/
-  - A-Level History Tuition|Analytical essay writing at A-Level, for students who want to write essays that hold up under timing, alongside history-led university applications.|/book-a-call/
-  - A-Level English Tuition|Critical analysis and comparative essay structure at A-Level, taught by tutors who've marked these papers.|/book-a-call/
-  - A-Level Geography Tuition|Advanced concept work, fieldwork analysis and extended writing, with tutors who can pitch sessions at wherever the student is currently sitting.|/book-a-call/
+  - "A-Level Maths Tuition|Mixed practice across pure, statistics and mechanics, so topics from September are still sharp when the summer exams arrive.|/book-a-call/"
+  - "A-Level Chemistry Tuition|Organic reactions mapped out on one sheet and tested regularly, so mechanisms become familiar rather than a last-minute memory job.|/book-a-call/"
+  - "A-Level Biology Tuition|Big topics revisited every few weeks, with long past paper answers to check the detail is really there.|/book-a-call/"
+  - "A-Level Physics Tuition|A formula checklist to self-test on, and problem sets mixing old topics with new, so nothing is left until the end.|/book-a-call/"
+  - "A-Level Economics Tuition|A bank of real-world examples to draw on, kept up to date, and essay plans practised until evaluation comes naturally.|/book-a-call/"
+  - "A-Level Psychology Tuition|Studies condensed into quick-recall cards, and plenty of practice using them as evidence in longer evaluation answers.|/book-a-call/"
+  - "A-Level History Tuition|Knowledge organised by theme rather than chapter, so your child can pull the right evidence into any essay question.|/book-a-call/"
+  - "A-Level English Tuition|Close reading of the set texts with a simple system for tracking themes and quotations, ready for comparison essays.|/book-a-call/"
+  - "A-Level Geography Tuition|Coursework milestones set from the first term, with fieldwork notes kept tidy enough to revise from later.|/book-a-call/"
 other_subjects:
-  - University Personal Statement|Shape a strong UCAS personal statement with expert support on structure, subject motivation, and final polish.|/book-a-call/
-faq_1_q: "Do you support students aiming for grammar schools in Chesham?"
-faq_1_a: "Yes. We work with students preparing for the Buckinghamshire Transfer Test (11+) for Chesham Grammar, Dr Challoner's Grammar and Dr Challoner's High, as well as competitive sixth form entry. Tutors know what these tests look for and prepare students accordingly, not just on content but on how to perform under timed conditions."
-faq_2_q: "Do you offer online tutoring for students in Chesham?"
-faq_2_a: "Yes, and it's how most of our sessions run. Students get access to a wider pool of tutors, sessions are easier to keep consistent, and most students concentrate better one-to-one online than they do in a classroom. It works well."
-faq_3_q: "How much does tutoring cost in Chesham?"
-faq_3_a: "Sessions start from £37 per hour. The exact rate depends on the subject and the tutor, and it's always agreed before anything is booked. No surprises, no hidden fees."
-faq_4_q: "Is one-to-one tutoring better than group sessions?"
-faq_4_a: "For most students, yes. The whole session is about them. Their gaps, their questions, their pace. No waiting for others to catch up. For students in Chesham who struggle to ask questions in front of others, it's often the thing that changes everything."
-why_heading: "Why Chesham families come to The Degree Gap"
-why_para_1: "Two kinds of Chesham student arrive at their first session, and it has nothing to do with which school they go to. The first is doing fine on paper but stuck a grade band below where they could be, usually because the pace assumes independent study time they have not built yet. The second has the content and not the exam technique, and has quietly concluded the top grades are for other people. Both are familiar. Both are fixable."
-why_para_2: "What changes is the focus. For the first student, sessions push past the textbook into the analytical depth A-Level papers reward. For the second, sessions go straight into past papers, marked the way the exam board marks, so the student can see precisely where the marks are. Most parents tell us the first thing they notice isn't the grade. It's the way their child talks about a mark scheme."
-accordion_quality: "Every tutor working with Chesham students is assessed on subject depth and on exam-board fluency. For grammar and competitive sixth form tuition, a tutor who knows the AQA, Edexcel or OCR mark scheme cold is worth ten generally-good teachers."
-accordion_experience: "Our tutors have prepared students for the Buckinghamshire Transfer Test, grammar school sixth form entry, Russell Group applications and Oxbridge offers. They know what the standard at Chesham Grammar and the Challoner schools actually looks like at A-Level, and how to coach a student towards it without burning them out."
-accordion_personalised: "We don't run set programmes. For a Chesham student, tuition is shaped around their specific test, exam board or target grade, with sessions that stretch the student precisely where the next mark band sits."
+  - "University Personal Statement|A UCAS personal statement planned months ahead and built from wider reading your child has actually done and can talk about.|/book-a-call/"
+faq_1_q: "Do you help with the 11+ for Chesham Grammar and Dr Challoner's?"
+faq_1_a: "Yes. The Buckinghamshire Transfer Test is the entry test for Chesham Grammar, Dr Challoner's Grammar and Dr Challoner's High. Plenty of Chesham families like some support with it in Year 5 and 6. A tutor keeps things light and regular, an hour a week, so the question types feel familiar by the time the test comes round."
+faq_2_q: "Will my child really stay focused for an hour online?"
+faq_2_a: "Usually better than you'd expect. It's one person, one screen and one shared whiteboard, so there's no back row to drift off in. The tutor sees your child's working as it happens and notices quickly if their attention wanders."
+faq_3_q: "How much is it per lesson?"
+faq_3_a: "It depends on the tutor, but lessons start from £37 an hour, with no contract. The first meeting with the tutor is free, and so is a switch if it isn't working."
+faq_4_q: "Why one-to-one rather than a group class?"
+faq_4_a: "Because every minute goes on your child. In a group, a quiet child can get through a whole session without admitting they're lost, while a quick one spends half of it waiting. One-to-one, the tutor adjusts as they go, and there's nowhere for a misunderstanding to hide."
+why_heading: "Beyond the syllabus: what a Chesham tutor adds"
+why_para_1: "GCSE courses quietly assume your child already knows how to study on their own. One of the first things a tutor asks is how your child revised for their last test, and the answer's often some version of 'I read over my notes'. The marks tend to match. Notes read three times over feel familiar, and that's easy to mistake for knowing them. But recognising something and writing it down from memory are two different skills, and only one of them gets tested."
+why_para_2: "So alongside the subject, the tutor teaches the method. Short self-tests instead of rereading. Topics revisited on a timetable, so nothing's left until the last minute. Past questions marked against the real mark scheme, so your child sees what the examiner wanted. Homework is small and specific, often a quick recall test. The change you'll notice at home is what revision looks like: less highlighting, and more of your child muttering answers under their breath and checking whether they were right."
+accordion_quality: "Of everyone who applies to join our platform, only about 3% get through. Harry and Joe interview every tutor themselves, listening for someone who knows their subject and can explain it so it sticks, even to a teenager who's never had to work at it before."
+accordion_experience: "Many tutors on our platform are qualified teachers, and every tutor has at least two years of tutoring experience. That's long enough to have met plenty of capable children who never learnt to revise, and to know which topics on each AQA, Edexcel or OCR course deserve the most time."
+accordion_personalised: "If the notes are beautiful but recall is patchy, the plan leans on self-testing. If your child knows it all but runs out of time, it leans on timed papers."
 reviews:
-  - Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings. Highly recommend.
-  - Alison|Parent of A-Level Student|My son has been receiving tutor lessons in A Level History and A Level Sociology since the beginning of this year. The tutor has been such a tremendous support, teaching him content as well as exam technique.
+  - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings to fit around school lessons. …"
+  - "Alison|Parent of A-Level Student|My son has been receiving tutor lessons with Jacob Berry in A level History and subsequently A level Sociology since the beginning of this year. Jacob has been such a tremendous support for my son, teaching him content as well as exam technique, with which, as a dyslexic, he really has needed additional support. …"
   - Lisa|Parent|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough.
   - Mahir|A-Level Student|Harry was an excellent teacher that helped me gain real grip of the complicated areas in my subjects like economics - I'd highly recommend for anyone looking to consistently perform at their best.
-  - Daljit|Parent of A-Level Student|My son gained almost two grades higher than his year 13 mock paper. His tutor was excellent.
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
   - Aila|University Applicant|Harry was amazing! He helped me shape my personal statement into something I was truly proud of, and thanks to his support, I got into my dream university! Couldn’t have done it without him–highly recommend to anyone applying to uni.
 sitemap:
   priority: 0.8

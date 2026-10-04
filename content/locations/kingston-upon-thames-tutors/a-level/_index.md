@@ -1,41 +1,41 @@
 ---
 title: "Kingston upon Thames A-Level Tutors | One-to-One | The Degree Gap"
-description: "Kingston upon Thames A-Level tutors who mark a script every week, so the gap shows before the UCAS prediction. One-to-one online over Lessonspace, from £37/hr."
+description: "Kingston upon Thames A-Level tutors who mark your child's work every week, so any gap shows up before UCAS predictions. Online, from £37 an hour, no contract."
 layout: "subject"
 location: "Kingston upon Thames"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors Who Give Kingston upon Thames Students a Marked Script Every Week"
+hero_heading_line1: "Online Kingston upon Thames A-Level Tutors for Effort That Isn't Showing in the Grades"
 hero_heading_line2: ""
-hero_lead: "In a strong sixth-form set, a student can sit mid-table for a year without anyone reading their working closely. Our Kingston upon Thames A-Level tutors do exactly that, one-to-one online over Lessonspace, marking a script every week so the gap shows before the UCAS prediction does."
+hero_lead: "Your child works hard and keeps up in class, yet the timed tests keep coming back with middling results. Our Kingston upon Thames A-Level tutors mark some of their work every week, so you'll know which questions are costing marks before UCAS predictions are written."
 
 grade_from: "C"
 grade_to: "A"
-grade_stat: "A real A-Level move from Cs to As, with help on university choices along the way."
+grade_stat: "From one parent's review: Cs to As at A-Level, with help on university choices along the way."
 
 first_lesson_eyebrow: "THE Cs THAT BECAME As"
 first_lesson_heading: "Why a Kingston upon Thames A-Level Tutor Marks Before Teaching"
-first_lesson_context: "The sixth forms around Kingston are big and quick, and the pace assumes Year 12 landed for everyone. A student who keeps up in lessons and drops marks in timed work can go a long time without anyone reading their script line by line. So the first hour with an A-Level tutor is a marked paper, because the working shows what the grade hides."
+first_lesson_context: "If your child keeps up in class but drops marks in timed work, it can take a while for anyone to spot why. Kingston's sixth forms are big, and a teacher with a full class rarely has time to read every answer line by line. So the first lesson starts with a marked paper, because the working shows what the grade hides."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "Cs to As at A-Level"
 
 tutor_strip_heading: "Kingston upon Thames A-Level tutors who read the working, not just the answer"
-tutor_strip_body: "Tiffin, Kingston Grammar, Esher and the school sixth forms don't all follow the same board or the same module order, so we confirm the specification first. Many tutors are recent graduates who sat these papers themselves, and each clears a founder-led interview that around 3% of applicants pass."
+tutor_strip_body: "Tiffin, Kingston Grammar, Esher and the school sixth forms don't all use the same exam board or topic order. We'll ask which board your child's on before suggesting anyone. Every tutor has passed an interview with Harry or Joe that only around 3% of applicants get through."
 
-pathways_heading: "Where Kingston upon Thames A-Levels Lead, and What Each Route Reads"
-pathways_lead: "Three routes, and the piece of paper each one reads first."
+pathways_heading: "Where Kingston upon Thames A-Levels Lead, and What Each Route Looks At"
+pathways_lead: "Three routes your child might take, and the thing each one checks first."
 pathways:
   - title: "Universities"
     body: >
-      Kingston University sits in the town itself, Royal Holloway is at Egham and Surrey at Guildford, and most of the London universities are a direct train from Kingston or Surbiton, so plenty of students apply without planning to leave home. Every one of them makes offers against predicted grades written in the autumn of Year 13, months before an exam is sat.
+      Kingston University is right in town, with Royal Holloway at Egham, the University of Surrey at Guildford and London's universities a train ride from Kingston or Surbiton, so your child could study without leaving home. Every one of them makes offers on predicted grades written in the autumn of Year 13, months before an exam is sat.
   - title: "Degree Apprenticeships"
     body: >
-      Kingston University has run degree apprenticeships since 2017, including Civil Engineering and Adult Nursing, with the employer paying the fees. Kingston Council's own schemes run up to degree level, and these applications open and close on employer timetables rather than the UCAS one.
+      Kingston University has run degree apprenticeships since 2017, including Civil Engineering and Adult Nursing, with the employer paying the fees. Kingston Council has its own schemes up to degree level, and these open and close on each employer's timetable, not the UCAS one.
   - title: "Career Pathways"
     body: >
-      Unilever's new UK and Ireland headquarters, Lidl's UK head office and Merlin Entertainments at Chessington all sit inside the borough, alongside Kingston Hospital and the university as large employers. Whether a student goes in at eighteen or after a degree, the A-Level grades get read alongside the application, and each employer publishes its own requirements.
+      Unilever's UK and Ireland headquarters, Lidl's UK head office and Merlin Entertainments at Chessington are all in the borough, alongside Kingston Hospital and the university. Whether your child starts work at eighteen or after a degree, each employer sets its own grade requirements and looks at them alongside the application.
 
 reviews:
   - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
@@ -51,14 +51,14 @@ reviews:
   - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
   - "Aila|Student|Harry was amazing! He helped me shape my personal statement into something I was truly proud of, and thanks to his support, I got into my dream university! Couldn’t have done it without him–highly recommend to anyone applying to uni."
 
-faq_1_q: "The predicted grades go on the UCAS form in the autumn of Year 13. What can a tutor change before then?"
-faq_1_a: "The work the prediction gets built from. Predictions come out of Year 12 exams and the first Year 13 mock, so the useful window is the summer term of Year 12 and the autumn after it, not the spring of Year 13. A tutor marks a script a week, finds the two or three question types leaking marks and drills them, and the mock the teacher looks at is a different paper. A later start still lifts the final grade, but the offers have usually been made against an earlier number by then."
+faq_1_q: "Predicted grades go off to UCAS in the autumn of Year 13. Can a tutor change anything before then?"
+faq_1_a: "Yes, by changing the work the prediction's based on. Predictions usually lean on Year 12 exams and early Year 13 work. So the window that counts is the summer term of Year 12 and the autumn after it. The tutor marks a timed paper a week and finds the two or three question types costing your child marks, then practises those until the paper the teacher sees reads differently. Starting later still helps the final grade. But by then, offers have usually been made on an earlier number."
 faq_2_q: "He walked his GCSEs and Year 12 has knocked him sideways. Is that normal?"
-faq_2_a: "Very. A-Level questions stop announcing which method they want, and a student who got through GCSE by recognising question types suddenly has nothing to recognise. That reads as a collapse in ability and isn't one; it's a missing habit, choosing a method unprompted and checking it, which nobody needed before. The fix is a term of harder questions worked slowly with someone watching the choice rather than the answer. Most Kingston Year 12s we see in this position are back to their old selves by the spring, in a subject that now looks different."
-faq_3_q: "Can an A-Level tutor help with a degree apprenticeship application, like the ones Kingston University runs with employers?"
-faq_3_a: "Yes, and the timing is the part families miss. Degree apprenticeships, including the Civil Engineering and Adult Nursing routes Kingston University runs with employers, open on the employer's calendar, and several close before the UCAS deadline does. They read predicted grades much as a university would, then add an application and usually an assessment stage on top. So the subject tutoring is the same, aimed at the grade the scheme names, and we can point a student at the application itself, which is a different skill from the exam."
-faq_4_q: "How does marking actually work online for essays and long Maths questions?"
-faq_4_a: "The student writes on Lessonspace, our shared whiteboard, and the tutor marks on the same page while it happens, so a proof or an essay plan gets stopped at the line where it goes wrong rather than corrected a week later. Between sessions the student sends a timed piece, it comes back marked to the real scheme, and the first fifteen minutes of the next hour go through it. Every session is recorded. That weekly loop, written, marked, replayed, is the thing a big set can't give and the reason grades move."
+faq_2_a: "Very, and lots of Year 12s go through exactly this. A-Level questions stop telling him which method they want, so if he got through GCSE by spotting question types, there's suddenly nothing to spot. It feels like his ability has gone. It hasn't. He's missing a habit he never needed before: choosing a method on his own, then checking it. The fix is a term of harder questions, worked slowly with a tutor watching his choices rather than his answers."
+faq_3_q: "My daughter's looking at a degree apprenticeship through Kingston University. Can a tutor help with that?"
+faq_3_a: "Yes, and the timing's the bit families tend to miss. Kingston University's Civil Engineering and Adult Nursing routes, like most degree apprenticeships, open on the employer's calendar. Some close before the UCAS deadline. They look at predicted grades much as a university would, then add an application and usually an assessment stage. So her lessons aim at the grade the scheme names. We can point her towards the application too, which is a different skill from the exam."
+faq_4_q: "How can a tutor mark essays and long Maths answers online?"
+faq_4_a: "Live, on the page. Your child writes on Lessonspace, the online classroom where lessons happen, and the tutor marks as they go. A proof or an essay plan gets stopped at the line where it goes wrong, not a week later. Between lessons, your child can send in a timed piece, and it comes back marked against the real mark scheme. The first fifteen minutes of the next lesson go through it, and there's a replay of every lesson too. It's that weekly loop of writing, marking and going back over it that a big class can't give."
 
 sitemap:
   priority: 0.7

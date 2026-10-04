@@ -11,6 +11,31 @@ Before doing any research, writing, or frontmatter generation, read all files in
 
 Apply these consistently across every field you write. They override any conflicting guidance in this skill. The skill below describes structure and rotation; the reference files define voice.
 
+## House Voice: Parent-Chat, on Every Page (required)
+
+Since September 2026 every location page is written in the parent-chat voice in `.claude/reference/tone.md`. It is not one option among the rotation banks below. The banks choose structure and angle; this is the voice every option is written in. Where an example further down talks about "students" in the third person, or opens with a statistic or the local school system, it shows the angle only: write it the parent-chat way.
+
+Before writing, read `content/locations/watford-tutors/_index.md` (a town page in this voice) and `content/subjects/gcse-maths-tutor/_index.md` (the reference page Harry and Joe signed off). Match how they sound. Don't lift their sentences: they are the voice, not the words.
+
+- **The test for every field:** would Joe say this, word for word, on the phone to a worried parent? If a line sounds like a report, a brochure or a sales call, say it the way you'd say it out loud.
+- **Talk to the parent about their child.** "Your child", "your son or daughter", "you". Keep "students" for when you really do mean students in general.
+- **Family first, town second.** Open with what the parent is seeing at home or worrying about, then bring in the local detail (schools, entry tests, sixth forms) where a parent would use it. An opener that leads with a league table, a statistic or how the local school system works is the old voice.
+- **Contractions and short sentences.** You'll, we'd, it's, doesn't. Mix in a few very short lines. Read it aloud.
+- **Normalise the worry, then make the next step small and plain.** Say what happens next, in order, and reassure with facts (from £37, no contract, a different tutor if they don't click), not adjectives.
+- The free consultation call is usually about 30 minutes (Harry, 2 Oct 2026): "a free call, usually about 30 minutes" or "a free 30-minute call". The meeting where the child meets the tutor stays a free 15-minute video meeting.
+
+## Before Saving: Run the Checker (required)
+
+    python3 scripts/check-pages.py content/locations/{slug}-tutors/_index.md
+
+It compares the page's own writing with every other location page of the same type, ignoring town names, and checks the voice rules above. Fix every FAIL before saving:
+
+- more than 30% of the page's own writing also on another page (it names the page, and the fields to rewrite)
+- never saying "your child"
+- an em dash, a banned word or phrase, an exclamation mark, or a grade promise
+
+Then read every WARN and fix what you agree with. A few stock sentences shared with other pages are fine (the price, how the steps work); a page built out of them is not. The examples in this skill and in tone.md are models, not lines to paste, and the checker will show you if one slipped in. Don't save a page that fails.
+
 ## Your Role
 
 You are a specialist content writer for The Degree Gap, a UK tutoring company. You write local landing pages that feel like they were written *for* that specific town, not like a template with the town name swapped in.
@@ -34,7 +59,7 @@ These pages must rank for tutoring searches. Google needs to see the target keyw
 **Hard SEO anchors (must contain the keyword):**
 
 1. **Meta description** — must contain "[Location] tutor" or "[Location] tutoring" naturally. One mention is enough.
-2. **Banner heading (H1)** — must contain "tutor" / "tutors" / "tutoring" AND the location name. The H1 is the most valuable SEO position; don't waste it on a pain-point question that omits "tutor" entirely.
+2. **Banner heading (H1)** — must start with the word "Online" (Harry, 3 Oct 2026: every location page H1 starts with "Online", because lessons are online and we aren't based in the town) and contain "tutor" / "tutors" / "tutoring" AND the location name. The H1 is the most valuable SEO position; don't waste it on a pain-point question that omits "tutor" entirely.
 3. **Banner description** — should contain "tutor" / "tutors" / "tutoring" once. If it reads better without it, the H1 already carries the anchor.
 4. **online_heading** — should contain "online tutor", "online tutoring", or "online tuition" (the word "online" plus a tutoring keyword, together). This is the natural anchor for the online-tuition section.
 5. **about_heading** — every approved option already pairs the location with "tutor / tutoring / tuition". Keep that pairing when substituting.
@@ -179,13 +204,13 @@ online_image: "[pick from the Online Image Gallery below, match to the online co
 areas_intro: "[One sentence introducing the areas grid, pick a structure from the Areas Intro Structures section below]"
 area_links: ["Location One Tutors|/locations/location-one-tutors/", "Location Two Tutors|/locations/location-two-tutors/"]
 gcse_subjects: [
-  "Subject Name|One-line description|https://thedegreegap.com/teachers/languages/GCSE-SubjectName",
+  "Subject Name|One-line description|/book-a-call/",
 ]
 alevel_subjects: [
-  "Subject Name|One-line description|https://thedegreegap.com/teachers/languages/A-level-SubjectName",
+  "Subject Name|One-line description|/book-a-call/",
 ]
 other_subjects: [
-  "University Personal Statement|Shape a strong UCAS personal statement with expert support on structure, subject motivation, and final polish.|https://thedegreegap.com/teachers/languages/Personal-Statement",
+  "University Personal Statement|Shape a strong UCAS personal statement with expert support on structure, subject motivation, and final polish.|/book-a-call/",
 ]
 faq_1_q: "[Question]"
 faq_1_a: "[Answer]"
@@ -311,7 +336,7 @@ Each title is assembled from two parts: a **slot A** opener and a **slot B** suf
 
 ### Banner (ORIGINAL per page)
 
-- **Heading:** Short, punchy question or statement. Must include the location name AND the word "tutor", "tutors", or "tutoring". This is the H1, the most valuable SEO position on the page. Do not waste it on a pain-point question that omits the keyword entirely.
+- **Heading:** Short, punchy statement that starts with "Online". Must include the location name AND the word "tutor", "tutors", or "tutoring". This is the H1, the most valuable SEO position on the page. Do not waste it on a pain-point question that omits the keyword entirely.
 - **Description:** One sentence offering the solution. Must also contain "tutor", "tutors", or "tutoring". Should feel like a natural continuation of the heading.
 
 Good examples (for inspiration, do not copy):
@@ -322,16 +347,16 @@ Good examples (for inspiration, do not copy):
 
 ### Banner Heading Structures (rotate, do not reuse the same shape across pages)
 
-Pick one of these structural shapes for `banner_heading`. Rewrite entirely, do not copy. Every shape must still contain the location name AND "tutor"/"tutors"/"tutoring".
+Pick one of these structural shapes for `banner_heading`. Rewrite entirely, do not copy. Every shape starts with "Online" and still contains the location name AND "tutor"/"tutors"/"tutoring".
 
-1. **"Looking for..." question**, "Looking for a tutor in {loc} who can actually build confidence?"
-2. **"Need a..." question**, "Need a GCSE or A-Level tutor in {loc}?"
-3. **Bold statement**, A direct, opinionated claim. "{Loc} tutors who treat ambition as the starting point, not the ceiling."
-4. **Declarative claim**, A factual-sounding headline. "{Loc} tutors for the GCSE and A-Level grades that don't happen by accident."
-5. **Contrast**, "Most tutoring sounds the same. {Loc} tutors at The Degree Gap don't."
-6. **Specific-pain question**, "Want a {loc} tutor who'll actually move the grade, not just cover content?"
+1. **Family scene**, "Online tutors for {Loc} families with one child at each of two schools"
+2. **Town first**, "Online {Loc} tutors for the GCSE and A-Level grades that don't happen by accident"
+3. **Level first**, "Online GCSE and A-Level tutors for {Loc} children who've gone quiet in class"
+4. **Where it starts**, "Online tutoring for {Loc} families, starting where the marks are going"
+5. **What the tutor does**, "Online {Loc} tutors who find the gap before the mocks do"
+6. **The moment**, "Online {Loc} tutoring for the year everything gets harder at once"
 
-Across a batch of pages, never produce two headings that share both the same opener ("Looking for...", "Need a...", "Want a...") and the same sentence shape. If two pages would land in the same shape, pick a different one for one of them.
+Across a batch of pages, never produce two headings with the same shape and the same continuation. If two pages would land in the same shape, pick a different one for one of them.
 
 **Hard rule (applies to EVERY field on the page, not just the H1): do not anchor copy to a specific grade band.** Phrases like "students who won't settle for a comfortable 6", "for the grade 8 push", "stretch into grade 9 territory", "for students aiming at the top mark band" exclude every parent whose child is sitting below that grade. A meaningful share of real leads come from students working at grade 3 or 4 — if any sentence on the page reads "we work with students aiming at grade 7+", those parents read it, decide the page isn't for them, and bounce. The rule applies to: `banner_heading`, `banner_description`, `intro_1`, `intro_2`, `why_para_1`, `why_para_2`, every `gcse_subjects` / `alevel_subjects` description, accordion bodies and FAQ answers.
 
@@ -374,15 +399,15 @@ Write content for `intro_1` and `intro_2`, two original paragraphs.
 
 The `schools_intro` field handles the third paragraph (schools + workshops). Write it to naturally name the schools and mention the workshop offer.
 
-Angle examples to draw from (never copy verbatim, these show range of approach):
+Angle examples to draw from. They show the range of angles, all in the house voice: never copy them verbatim, and the checker will catch it if you do.
 
-*Exam-pressure:* "With GCSEs and A-Levels looming, many families in Bromley are feeling the strain. Students who once kept up comfortably are now finding that harder topics, tighter deadlines, and growing expectations are leaving them unsure where to turn. / The Degree Gap works with students one-to-one to cut through that uncertainty. We focus on what matters most, filling gaps, sharpening exam technique, and giving students the confidence to walk into their exams prepared."
+*Parent-scene (the default opener):* "By the time most {Loc} parents come to us, they've usually tried everything. The talk about effort. The phone in a drawer. The promise of a holiday if the grades come through, the threat of one if they don't. Some of it works for a week. None of it lasts. / What we've watched, working with hundreds of {Loc} families, is that the children who actually pull ahead aren't the ones being pushed hardest. They're the ones whose home went quiet for an hour a day. A good tutor steps into that hour and gets the kind of honest 'I don't understand this' that almost never lands at the kitchen table. That's what we do."
 
-*Confidence:* "It's not always about ability. Across Epsom, we meet students who are bright but have lost confidence, they've stopped putting their hand up, they dread certain subjects, or they've quietly decided they're 'just not good at maths.' / That's exactly what The Degree Gap was built to change. Through patient, personalised tuition, we help students reconnect with learning and start believing in what they can achieve."
+*Exam pressure:* "Once exams are close, the whole house feels it. If your child kept up without much fuss last year and now seems to be treading water, with harder topics and tighter deadlines landing at once, you're far from the only {Loc} family telling us that. / A tutor takes some of the weight off. They find which topics are actually costing marks, practise getting what your child knows onto the paper in time, and give them something steady to lean on in the run-up."
 
-*Foundation gaps:* "Sometimes the problem isn't today's lesson, it's a gap from two years ago that never got addressed. In Kingston, we regularly work with students who are capable but held back by shaky foundations in core subjects. / The Degree Gap starts by identifying exactly where those gaps are, then builds a structured plan to close them, not about cramming, but making sure students genuinely understand the fundamentals."
+*Confidence:* "It's often not about ability. Plenty of the {Loc} parents we speak to have a child who's bright but has gone quiet in class, dreads one subject, or has decided they're 'just not a maths person'. / One-to-one, with nobody else watching, that usually starts to shift. The tutor goes back to where it stopped making sense and lets your child get a few things right, and the confidence tends to come back before the grade does."
 
-*Parent-scene (USE THIS WARMER VOICE WHEN POSSIBLE):* "By the time most {Loc} parents come to us, they've usually tried everything. The talk about effort. The phone in a drawer. The promise of a holiday if the grades come through, the threat of one if they don't. Some of it works for a week. None of it lasts. / What we've watched, working with hundreds of {Loc} families, is that the students who actually pull ahead aren't the ones being pushed hardest. They're the ones whose home went quiet for an hour a day. A good tutor steps into that hour and gets the kind of honest 'I don't understand this' that almost never lands at the kitchen table. That's what we do."
+*Foundation gaps:* "Sometimes the thing your child is stuck on this week isn't this week's topic at all. It's a method from Year 8 that never quite went in, and everything since has been stacked on top of it. / So the tutor looks backwards before going forwards: a recent mock, where the marks are going, and the gap underneath. The plan comes from that, not from the next chapter of the textbook."
 
 ### Warmth principles (read this before drafting intro_1 and intro_2)
 
@@ -464,31 +489,31 @@ The description should be one concise sentence, around 15–20 words. It must fe
 - Vary the sentence structure and opening word across subjects, do not start every description with the same verb
 - Do not repeat the content angle word-for-word in every description, weave it in naturally across a few, not all
 
-**Subject names and URLs (fixed):**
+**Subject names and URLs (fixed). Every card links to `/book-a-call/`:**
 
 Use the full descriptive name as the card title (e.g. `GCSE Maths Tuition`, not just `Maths`). This fills the card layout properly and adds keyword weight on every card.
 
 GCSE:
-- GCSE Maths Tuition → `https://thedegreegap.com/teachers/languages/GCSE-Maths`
-- GCSE English Tuition → `https://thedegreegap.com/teachers/languages/GCSE-English`
-- GCSE Biology Tuition → `https://thedegreegap.com/teachers/languages/GCSE-Biology`
-- GCSE Chemistry Tuition → `https://thedegreegap.com/teachers/languages/GCSE-Chemistry`
-- GCSE Physics Tuition → `https://thedegreegap.com/teachers/languages/GCSE-Physics`
-- GCSE History Tuition → `https://thedegreegap.com/teachers/languages/GCSE-History`
-- GCSE Geography Tuition → `https://thedegreegap.com/teachers/languages/GCSE-Geography`
-- GCSE French Tuition → `https://thedegreegap.com/teachers/languages/GCSE-French`
-- GCSE Computer Science Tuition → `https://thedegreegap.com/teachers/languages/GCSE-Computer-Science`
+- GCSE Maths Tuition → `/book-a-call/`
+- GCSE English Tuition → `/book-a-call/`
+- GCSE Biology Tuition → `/book-a-call/`
+- GCSE Chemistry Tuition → `/book-a-call/`
+- GCSE Physics Tuition → `/book-a-call/`
+- GCSE History Tuition → `/book-a-call/`
+- GCSE Geography Tuition → `/book-a-call/`
+- GCSE French Tuition → `/book-a-call/`
+- GCSE Computer Science Tuition → `/book-a-call/`
 
 A-Level:
-- A-Level Maths Tuition → `https://thedegreegap.com/teachers/languages/A-level-Maths`
-- A-Level Biology Tuition → `https://thedegreegap.com/teachers/languages/A-level-Biology`
-- A-Level Chemistry Tuition → `https://thedegreegap.com/teachers/languages/A-level-Chemistry`
-- A-Level Physics Tuition → `https://thedegreegap.com/teachers/languages/A-level-Physics`
-- A-Level Psychology Tuition → `https://thedegreegap.com/teachers/languages/A-level-Psychology`
-- A-Level History Tuition → `https://thedegreegap.com/teachers/languages/A-level-History`
-- A-Level Economics Tuition → `https://thedegreegap.com/teachers/languages/A-level-Economics`
-- A-Level English Tuition → `https://thedegreegap.com/teachers/languages/A-level-English`
-- A-Level Geography Tuition → `https://thedegreegap.com/teachers/languages/A-level-Geography`
+- A-Level Maths Tuition → `/book-a-call/`
+- A-Level Biology Tuition → `/book-a-call/`
+- A-Level Chemistry Tuition → `/book-a-call/`
+- A-Level Physics Tuition → `/book-a-call/`
+- A-Level Psychology Tuition → `/book-a-call/`
+- A-Level History Tuition → `/book-a-call/`
+- A-Level Economics Tuition → `/book-a-call/`
+- A-Level English Tuition → `/book-a-call/`
+- A-Level Geography Tuition → `/book-a-call/`
 
 **Example, how descriptions might differ by location angle:**
 
@@ -522,7 +547,7 @@ Every option contains "tutor" or "tutoring" and the location name. Do not strip 
 
 ### Trusted by Schools (ORIGINAL per page)
 
-Search for real secondary schools in the location. Populate the `schools` array with 6 real school names. Write `schools_intro` as 2-3 sentences using one of the angles below, rotate, never always lead with the same one:
+Search for real secondary schools in the location. Populate the `schools` array with 6 real school names. Say we **can** work with families at these schools, never that we already do or that families come to us from them (Harry, 4 Oct 2026): we can't confirm which schools current families attend. Write `schools_intro` as 2-3 sentences using one of the angles below, rotate, never always lead with the same one:
 
 1. **Selective school focus**, Lead with grammar or independent schools in the area and what students there are aiming for. Mention workshops naturally at the end.
 2. **State school diversity**, Lead with the range of local state schools and the variety of needs students arrive with. Weave the workshop offer in.
@@ -589,13 +614,13 @@ Choose 4 questions that fit the page's angle and location type. Substitute the l
 20. Q: "Do you help with sixth form entrance exams or interviews?" / A: "Yes. We work with {loc} students preparing for competitive sixth form entry, including aptitude tests and interviews. Tutors know what these schools are looking for and how to prepare students properly, not just on content."
 21. Q: "Can you help a student who is resitting their GCSEs?" / A: "Yes. Resit students usually need a different approach from the first time. We focus on what went wrong, close the specific gaps and build exam technique alongside content. Tutors can move quickly when the timeline is tight."
 22. Q: "Do you tutor primary school children in {loc}?" / A: "Our main focus is GCSE, A-Level and 11+ preparation. We do work with younger students in {loc} where the need is clear, particularly for selective school entry or building solid foundations in Maths and English."
-23. Q: "What qualifications do your tutors have?" / A: "All our tutors are graduates, many from Russell Group universities. Every tutor is vetted individually before working with students, on subject knowledge, how they explain things, and how they work with young people. A degree alone is not enough."
+23. Q: "What qualifications do your tutors have?" / A: "Our tutors are a mix of graduates and university students, many from Russell Group universities, and every one has at least two years of tutoring experience. Every tutor is vetted individually before working with students, on subject knowledge, how they explain things, and how they work with young people. A degree alone is not enough."
 24. Q: "Is there a free consultation before we commit?" / A: "Yes. We have a conversation first to understand what the student needs. No pressure, no obligation. We would rather spend time getting the match right than rush an introduction that does not work."
 25. Q: "How do I know if my child actually needs a tutor?" / A: "Grades slipping despite effort. Confidence dropping. Putting the work in but not seeing results. Those are the clearest signs. Sometimes it is simpler than that. Some students in {loc} just want to go further than the classroom pace allows. Either is a good reason to get in touch."
 
 ### Reviews (pick 6 from the bank below, vary selection across pages)
 
-Choose 6 reviews from the bank below. Use only first names. Format each entry as:
+Choose 6 reviews from `data/reviews.yaml` and `data/reviews-trustpilot.yaml` (see below). Use only first names. Format each entry as:
 `"FirstName|Role|Review text"`
 
 The first 3 will be visible immediately. The last 3 appear under "Show more reviews". Vary your selection across pages, do not always pick the same 6 or put them in the same order.
@@ -610,48 +635,9 @@ The first 3 will be visible immediately. The last 3 appear under "Show more revi
 - University Student
 - University Applicant
 
-**Reviews Bank (use first names only, do not use full surnames):**
+**Where the reviews come from:** Copy reviews from `data/reviews.yaml` (Google) and `data/reviews-trustpilot.yaml` (Trustpilot), character for character: keep the reviewer's typos, emoji and line breaks (as `\n\n` inside a double-quoted string). Those files are the only source. Use first names only. A long review can be cut after a whole sentence and marked with " …", but never reworded, tidied or merged.
 
-1. Annette | Parent | "This company helped us find a tutor for Geography and my son has excelled so much in just a few months. Our tutor has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself. He also manages neurodiversity effectively."
-2. Nick | Parent of A-Level Student | "Our son has been receiving tuition for Psychology A Level. The tutor has provided a solid base of support outside of school lessons and helped him to improve his latest grades."
-3. Bryan | GCSE Student | "Helped me a lot and really showed me what I need to improve on."
-4. Alison | Parent of A-Level Student | "My son has been receiving tutor lessons in A Level History and A Level Sociology since the beginning of this year. The tutor has been such a tremendous support, teaching him content as well as exam technique."
-5. Heidi | Parent | "Our tutor is simply amazing with our daughter. He understands her completely and her sessions are helping her with her school work so much. We cannot thank him enough."
-6. Omo | Parent of GCSE Student | "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. After six months of tutoring, he has improved from a grade 5 to a 6/7. He now looks forward to his lessons. Through one-to-one tutoring he has learned effective strategies that help him approach English in a way that resonates with him."
-7. Serena | A-Level Student | "My tutor is a very intuitive and superb teacher. She listened to my specific concerns and bolstered my confidence in answering questions. She taught me how to think critically and helped me through this highly demanding course. I will happily recommend without a second thought."
-8. Sorland | Grandparent | "My granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
-9. Philippa | Parent of GCSE Student | "I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings. Highly recommend."
-10. Keira | GCSE Student | "Has definitely helped me increase my grades from an E to a B."
-11. Nazrul | Parent | "My daughter found the tutors were very helpful for her GCSE. Thank you."
-12. Daljit | Parent of A-Level Student | "My son gained almost two grades higher than his year 13 mock paper. His tutor was excellent."
-13. Joel | Student | "The Degree Gap is an amazing place and has helped me achieve so much. I am looking forward to it helping me develop a higher level of skills and get ready for the RAF."
-14. Augusta | Parent of GCSE Student | "The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. They provided experienced and organised tutors. Tutors provided resources targeting specific areas of difficulty. The website is easy to use and tutors were polite and on time."
-15. Ellen | Parent of GCSE Student | "My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. We were given a selection of tutors to choose from and told that if it did not feel like a good match we could try others. Our tutor was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back. Highly recommend."
-16. Jessica | GCSE Student | "I was helped with both Maths and English for my GCSEs and passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree."
-17. Lisa | Parent | "The Degree Gap has exceeded all my expectations. They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional. Both my sons exceeded their expected grades in their GCSEs and A Levels and got into their first choice universities. I cannot recommend them highly enough."
-18. Tommy | University Student | "I wish I had found The Degree Gap when I was sitting my school exams. They helped with my dissertation work and without their help I am not sure I would have graduated so successfully and landed a successful job."
-19. Alex | University Student | "Cannot recommend The Degree Gap highly enough. Quick and helpful responses. I was immediately matched with a very competent tutor who was a massive help in helping me exceed my target grade and achieve a first class degree at university."
-20. Chris | Parent of GCSE Student | "Very good tutoring for my daughter and good communication with parents. My daughter passed both English and Maths GCSE."
-21. Isabel | Parent of iGCSE Student | "The Degree Gap gave our son the support he needed for his iGCSEs, especially in Maths and Economics. Lessons were clear, engaging, and built his confidence. Highly recommended."
-22. Nicolai | A-Level Student | "Before joining The Degree Gap, I found it hard to follow the curriculum. The sessions helped everything click. Lessons were calm, focused, and easy to understand. Highly recommend."
-23. Theresa | Parent | "The Degree Gap was fantastic. Their knowledge and guidance helped my son find direction in both his studies and future plans."
-24. J.O. | A-Level Student | "At first I was hesitant on getting a tutor, but this wasn't the case. My tutor helped me massively with my essays, topics I didn't understand, and overall confidence with the subject. I highly recommend."
-25. Mahir | A-Level Student | "My tutor was an excellent teacher that helped me gain real grip of the complicated areas in my subjects like economics. I'd highly recommend for anyone looking to consistently perform at their best."
-26. Will | University Applicant | "I was helped with writing a personal statement for a masters degree. The advice offered helped significantly, giving great insight. I would definitely recommend to others."
-27. Binh | A-Level Student | "My sessions were super simple compared to what I'd experienced with other teachers. I really enjoyed my time and would highly recommend it to people."
-28. Kachi | University Student | "My tutor transformed my performance in mathematical economics modules, taking me from a third class to a first. His patience and ability to adapt to my needs exceeded my expectations."
-29. Charlotte | Student | "I cannot recommend The Degree Gap enough. My tutor was helpful, welcoming and helped me achieve a grade higher than I was expected."
-30. Sarom | Parent of A-Level Student | "The Degree Gap has been very helpful in tutoring my son for his economics A Level. His tutor has lots of patience, keeps lessons interesting and is a good motivator. The subject matter expertise is excellent."
-31. Ali | Grandparent | "The Degree Gap did an amazing job helping my grandson who was struggling with his economics work. Thank you for all your hard work."
-32. Marfa | Student | "Very engaging lessons that helped me improve my grade in maths and successfully get admitted to university."
-33. Kasia | Parent | "Our tutor is a great teacher. Very helpful and knowledgeable. His experience and expertise helped my son make decisions about choosing A-level subjects and his university course. I highly recommend The Degree Gap."
-34. Leo | Student | "The time I have spent with my tutor has been really valuable. He has helped with a range of topics across economics and maths, explains things really clearly, and makes the sessions enjoyable."
-35. Alexander | Parent | "The Degree Gap helped my child go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and applications."
-36. Aila | University Applicant | "My tutor was amazing. He helped me shape my personal statement into something I was truly proud of, and thanks to his support, I got into my dream university. Highly recommend to anyone applying to uni."
-37. Dan | A-Level Student | "The Degree Gap really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
-38. Joe | Student | "I highly recommend the Degree Gap as a tutoring agency. Having used tutors across a variety of subjects, they have all been consistently excellent."
-39. Joanna | Parent of A-Level Student | "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing."
-40. Jeanne | University Applicant | "I received quick and extremely helpful feedback on my personal statement for my master's applications. I can't recommend The Degree Gap enough."
+Pick reviews whose story fits a town page: a mix of parents and students, GCSE and A-Level. Skip reviews about webinars, university modules or master's applications, and any signed with something other than a real first name. The roles above can be adjusted to what the review says (e.g. `Parent of GCSE Student`), but the text can't.
 
 ---
 
@@ -740,7 +726,7 @@ Use as a vocabulary bank, weave concepts into original sentences, never copy ver
 
 - [ ] Is the title 65 characters or fewer? Count them.
 - [ ] Does the about_heading use one of the 10 approved variations with the location name substituted?
-- [ ] Does the banner_heading contain the location name AND "tutor", "tutors", or "tutoring"?
+- [ ] Does the banner_heading start with "Online" and contain the location name AND "tutor", "tutors", or "tutoring"?
 - [ ] Does the meta description contain "[Location] tutor" or "[Location] tutoring" (one natural mention)?
 - [ ] Does the online_heading contain "online tutor", "online tutoring", or "online tuition"?
 - [ ] Does why_heading include "tutor", "tutoring", "tuition", or "tutoring services"?
@@ -756,6 +742,8 @@ Use as a vocabulary bank, weave concepts into original sentences, never copy ver
 - [ ] Is the banner heading genuinely different from Cambridge and Oxford?
 - [ ] Does the online tuition section connect to this page's angle?
 - [ ] Is the tone warm and plain, would a normal parent find it easy to read?
+- [ ] Does every parent-facing field talk to the parent about "your child", in the parent-chat voice from tone.md? Would Joe say it, word for word, on the phone?
+- [ ] Does `python3 scripts/check-pages.py` pass on this file (no FAIL), and have you read every WARN?
 - [ ] Are there zero em dashes anywhere in the file?
 - [ ] Are there zero banned phrases (cutting-edge, bespoke, transformative, unlock potential, world-class)?
 - [ ] Is everything in British English?

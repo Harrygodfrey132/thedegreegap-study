@@ -1,62 +1,62 @@
 ---
 title: "Banbury GCSE Tutors | Online One-to-One | The Degree Gap"
-description: "Banbury GCSE tutors who find the gap behind a stalled grade. One-to-one GCSE tutoring matched on exam board, online, from £37 an hour."
+description: "Banbury GCSE tutors for the Year 10 dip, online and one-to-one. A free call with Harry or Joe, 2 or 3 tutor profiles in 24 hours, then lessons from £37."
 layout: "subject"
 location: "Banbury"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutoring for Banbury Families"
+hero_heading_line1: "Online GCSE Tutors in Banbury Who Catch a Year 10 Slip While It's Small"
 hero_heading_line2: ""
-hero_lead: "Students around Banbury travel to school across a wide stretch of north Oxfordshire, and topic order differs from one to the next. Our Banbury GCSE tutors find what got covered lightly and rebuild it."
+hero_lead: "A Year 10 test comes home with a mark well below last year's, and asking about it gets a shrug. Our Banbury GCSE tutors get onto it now, while there's still room before Year 11. The earlier, the smaller the job."
 
 grade_from: "5"
 grade_to: "6/7"
-grade_stat: "A real GCSE English move from a grade 5 to a 6/7, after six months of weekly one-to-one tutoring."
+grade_stat: "Omo's son was in Year 10 and had gone right off English. Six months on, his grade 5 had become a 6/7."
 
-first_lesson_eyebrow: "TAUGHT IN A DIFFERENT ORDER"
-first_lesson_heading: "Why a School Move Around Banbury Shows Up Two Years Later"
-first_lesson_context: "Banbury draws students from a wide rural catchment, and families move between schools more often than in a compact town. Two schools can follow the same specification and teach it in a different order, so a student who moves lands partway into a sequence, meets one topic twice and misses another entirely. It rarely shows at the time. It shows in Year 11, and it looks like a student who is simply weaker than they were."
+first_lesson_eyebrow: "BEFORE YEAR 11 ARRIVES"
+first_lesson_heading: "Why Year 10 Is a Good Time to Bring In a GCSE Tutor"
+first_lesson_context: "It's tempting to put a Year 10 dip down to a phase, and sometimes that's all it is. But Year 10 is also the year with the most room in it, before mocks and revision take over Year 11. A GCSE tutor can use that room to steady the shaky subject now, rather than in a rush next spring."
 first_lesson_quote: "My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
 first_lesson_quote_name: "Omo"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Grade 5 to Grade 6/7 in English"
 
-tutor_strip_heading: "Banbury GCSE tutors matched on the specification, not on availability"
-tutor_strip_body: "Students at The Warriner, Chenderit, Blessed George Napier and North Oxfordshire Academy are not all on the same board, so we confirm the specification before proposing anyone. Each tutor clears a founder-led interview that about 3% of applicants pass. Browse the profiles, or let us introduce you."
+tutor_strip_heading: "GCSE tutors for Banbury and the villages around it"
+tutor_strip_body: "Between The Warriner, Chenderit, Blessed George Napier and North Oxfordshire Academy, there's more than one exam board in play, and we match tutors to the one your child sits. Our interviews let through only around 3% of tutors who apply. Browse the profiles, or leave it with us."
 
-pathways_heading: "The Step After GCSEs Around Banbury"
-pathways_lead: "Three routes Banbury families weigh up once results are in."
+pathways_heading: "Once the GCSEs Are Done: Options Around Banbury"
+pathways_lead: "Handy to look at in Year 10 or early in Year 11, so your child knows what they're aiming for."
 pathways:
   - title: "Sixth Forms"
     body: >
-      Several schools around Banbury run their own sixth forms, and students also travel towards Oxford and Warwickshire for others. Each publishes its own entry requirements and revises them between years, with A-Level courses generally asking for a grade in the subject a student intends to continue.
+      A number of schools in and around Banbury run sixth forms, while some teenagers head further afield, towards Oxford or into Warwickshire. Entry grades are up to each sixth form and don't stay fixed, but an A-Level course will normally want a good GCSE grade in that same subject.
   - title: "Apprenticeships"
     body: >
-      The engineering and manufacturing employers around Banbury run school-leaver and apprenticeship routes, each publishing its own entry requirements which change between intakes. Maths and English are named in nearly all of them, and most ask for a written application alongside the grades.
+      Engineering and manufacturing firms around Banbury take on school leavers as apprentices, each with requirements of its own that get updated between intakes. Nearly all of them mention Maths and English, and most include a written application as well.
   - title: "Further Education"
     body: >
-      Banbury and Bicester College carries most of the Level 3, T Level and vocational provision locally. A confident grade 4 or 5 in Maths and English opens the majority of those courses, and GCSE resits are a common way in for students who missed it first time.
+      For T Levels and other practical alternatives to A-Levels, the main local option is Banbury and Bicester College. Most of its courses open up once your child has a 4 or 5 in Maths and English, and if one falls short, resitting it alongside the course is common.
 
 reviews:
-  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
-  - "Amanda|Parent|\"I recently attended The Degree Gap’s free webinar for parents and it was incredibly eye-opening. Instead of the usual vague advice, Harry and Joe provided actual, actionable strategies for revision.  It’s helped me understand how to support my child without adding to their stress. Really enjoyed the guest expert session with Matt. Highly recommend for any parent feeling overwhelmed by the upcoming exam season! Very grateful for the bonus live Q&A and free downloads.”"
-  - "Etienne|Parent of GCSE Student|Great session on how to support our boy with his up & coming GCSE's exams. Very informative webinar with practical tips & techniques to use - by child & parent."
+  - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
+  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. We opted for Avery and she was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back in her abilities and gave her the confidence to face Maths GCSE exams. Highly recommend Degree Gap and will be back again in September with my youngest embarking on her GCSEs"
+  - "Chamarika|Parent of GCSE Student|Good tutoring platform. I did have some initial issues with a couple of tutors but Joe is very responsive and works to swiftly resolve things. My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring. We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s. Thank you to all the 3x tutors."
+  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents.\n\nUPDATE: My daughter passed both English and Maths GCSE (4 and 5's). We are extremely grateful to your team especially Avery for the support she gave her in both subjects. Considering she missed a large chunk of the last 3 years at school due to a social anxiety illness, this is an amazing achievement for her."
+  - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
   - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. The website is easy to use and effective, I had no disappointment in scheduling lessons for my son. Tutors were polite and on time for their lessons."
-  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
-  - "Marfa|Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university"
-  - "Will|University Student|Harry helped me with writing a personal statement for a masters degree. The advice he offered helped significantly, giving great insight. I would definitely recommend him to others."
-  - "Lucas|A-Level Student|I was having trouble with some areas of my economics a level course before getting in contact with Harry. He walked me through everything I needed help with, from content I was weak with to exam technique that I was lacking. His insight, examples and willingness to go the extra step really helped me to regain my confidence in economics, having achieved a predicted a* with his help."
-  - "Nick|Parent of A-Level Student|Sandra Sabu has been tutoring our son for Psychology A Level. Sandra has provided a solid base of tutoring outside of school lessons and helped him to improve his latest grades."
-  - "Priya|Parent of GCSE Student|Thank you to Harry and Joe for a very informative webinar on a parent's guide to supporting GCSE success. Great advice and tips given and they sent useful free resources by email which my daughter will use to help with her upcoming exams."
+  - "Jo|Parent of GCSE Student|We got in touch with The Degree Gap to help support our son to pass his English Language GCSE. Although we were close to the exam period when we started, his weekly tutor sessions made such a difference. He passed and has gained entrance to college without need for any re-sits. Thank you!"
+  - "Gilmoore|Parent of GCSE Student|Initially I was hesitant to enrol my son for online lessons. However, the company has well experienced, knowledgeable and helpful tutors. There is also flexibility around booking of lessons. At the end of the day, my son achieved the next top grade than what had been predicted in his mid-year school GCSE exams. I am forever indebted to The Degree Gap."
+  - "Hermione|GCSE Student|Came here to search for a GCSE maths tutor and was recommended Rebecca Hanna by the very helpful Harry. Rebecca was nothing but helpful and comforting. I highly recommend her, especially since she helped me pass the GCSE! Thank you."
+  - "Nazrul|Parent of GCSE Student|My daughter found the tutors were very helpful for her GCSE thank you"
 
-faq_1_q: "My child changed schools partway through. Could that explain the drop?"
-faq_1_a: "Frequently, yes, and it is one of the more common things we find. Schools follow the same specification in different orders, so a student who moves can meet one topic twice and miss another completely, through nobody's fault. It stays hidden while the class is on something else and surfaces in a mock. A tutor works backwards from the wrong answers to find which blocks were never actually covered, then teaches them rather than revising them."
-faq_2_q: "Is Year 10 or Year 11 the better time to start?"
-faq_2_a: "Year 10 if you have the option. The content steps up and any gaps that open are still small enough to close without disturbing everything else. Left for a year they compound and then appear all at once in a mock, by which point the fix has to happen alongside every other subject. Year 11 still works, and many families start there. The plan simply becomes narrower and more about exam technique than rebuilding."
-faq_3_q: "Does it matter that we are outside Banbury itself?"
-faq_3_a: "Not at all, because every session runs online over Lessonspace, our shared whiteboard. Families across Banbury, Bloxham, Adderbury, Deddington and the villages out towards Brackley all reach the same network of tutors, and the match is made on exam board and subject rather than on who lives within driving distance. It also removes the school-night drive, which in a rural catchment is worth more than it sounds."
-faq_4_q: "What if the tutor is not right for my child?"
-faq_4_a: "Tell us and we re-match at no charge. Every family speaks with Harry or Joe before any tutor is proposed, and there is a free 15-minute video meeting with your chosen tutor before a paid session happens, so plenty of mismatches are caught before they cost anything. At fifteen the way somebody explains a thing matters as much as whether they know it. No contract and no minimum term."
+faq_1_q: "How often would my child have lessons, and for how long?"
+faq_1_a: "Usually one hour a week. A steady weekly lesson with a clear plan does more than a flurry of sessions before a test, and it fits around the rest of the week far more easily. It also leaves your child a few days between lessons to try things on their own, which is often when it starts to stick. It works the same way if your child's already in Year 11, and plenty of families start then. What changes is what goes into each hour."
+faq_2_q: "We live out in one of the villages. Is that a problem?"
+faq_2_a: "No problem at all. Every lesson happens online, so a home in Bloxham, Adderbury, Deddington or out towards Brackley works just as well as a house in the centre of Banbury. Your child logs in to Lessonspace, the online platform we use, and shares a whiteboard with the tutor, and you can replay any lesson afterwards. And you won't be driving anywhere after school, which matters when home's a few miles out."
+faq_3_q: "What do lessons cost, and are we locked in?"
+faq_3_a: "£37 an hour is the starting point. Each tutor agrees their own rate, and you'll see it before you book. No contract, no minimum term, and you decide when to pause or stop. Your first call, with Harry or Joe, is free, and it's how we learn what your child needs before we suggest anyone."
+faq_4_q: "What if my child and the tutor we pick don't get along?"
+faq_4_a: "Just say so, and we'll find you someone else without charging a penny more. Your child meets the tutor first on a free 15-minute video meeting, before a single lesson's paid for, so you'll often get a feel for it then. But you can't learn everything from a profile, and now and then it only shows after a couple of lessons. If it isn't clicking, better to hear it after lesson two than after a term."
 
 sitemap:
   priority: 0.7

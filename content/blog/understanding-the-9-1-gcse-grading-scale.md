@@ -5,7 +5,7 @@ date: 2026-06-22
 author: "Harry Godfrey"
 author_role: "Co-founder, The Degree Gap"
 category: "Parent Advice"
-excerpt: "If you took GCSEs in the A*-G era and your child is sitting them now, the 9-1 scale can feel like a different language. Here's what the numbers actually mean, what counts as a pass, and what sixth forms want."
+excerpt: "Your child's 9-1 GCSE grades can read like a code if you sat your own exams back when it was A* to G. Here's what the numbers mean, what counts as a pass, and what sixth forms look for."
 hero_image: "/images/graduation-ceremony-caps.jpg"
 tags:
   - Parent Advice
@@ -25,20 +25,20 @@ related_links:
     description: "Why foundation maths stops at a grade 5, and when the entry is still worth challenging."
 ---
 
-If you sat GCSEs in the era of A*, A, B, C and so on, the 9-1 scale your child is being graded on can feel like a different language. Most parents who reach out say the same thing: nobody's properly explained what the numbers mean, what counts as a pass, or whether a 6 is something to celebrate or worry about. Here's the plain answer, with the 2026 figures from Ofqual to back it up.
+If you sat your GCSEs when it was A*, A, B, C and so on, the 9-1 scale your child is graded on can feel like a different language. I hear the same thing from most parents who get in touch. Nobody's ever properly explained what the numbers mean, or what counts as a pass. Or whether a 6 is something to celebrate or worry about. So here's the plain answer, with Ofqual's latest results figures to back it up.
 
 ## Why the numbers replaced the letters
 
-GCSEs in England were reformed between 2015 and 2017. From summer 2017, all GCSE results have been reported on a 9-1 scale rather than the old A*-G letters. There were two main reasons:
+GCSEs in England were reformed between 2015 and 2017. The first 9-1 grades came out in summer 2017, for English and Maths, and the other subjects moved over to numbers in the years after. There were two main reasons for the change:
 
-- **To tell new GCSEs apart from old ones.** When the syllabuses were rewritten to be harder, the regulator wanted parents and employers to see at a glance whether a grade came from a reformed paper. Numbers signal "new system".
-- **To stretch the top of the scale.** The old system had two top grades (A* and A). The new system has three: 7, 8 and 9. That gives universities and employers a clearer way to spot exceptional performance at the high end, where the old A* covered a wide range of ability.
+- **To tell new GCSEs apart from old ones.** The courses were rewritten to be harder. The exams regulator, Ofqual, wanted parents and employers to see at a glance which kind of grade they were looking at. A number says "new system".
+- **To stretch the top of the scale.** The old system had two top grades, A* and A. The new one has three: 7, 8 and 9. The old A* covered a wide range of ability, so the extra grade gives universities and employers a clearer way to spot the very strongest results.
 
-The lower end of the scale is also stretched. Where the old system had a single low grade (G), the new system distinguishes 1, 2 and 3, giving more useful information about where a student actually sits.
+At the bottom, it works the other way round. The old D, E, F and G are squeezed into three grades: 3, 2 and 1. Each of those covers a bit more ground than a single letter used to.
 
 ## What the numbers mean, simply
 
-The 9-1 scale runs from the highest grade at the top to the lowest pass-recognised grade at the bottom. Below 1 sits **U** for ungraded, which means the student's work didn't meet the threshold for a numbered grade.
+Grade 9 is the top, and grade 1 is the lowest. Below that there's **U**, for ungraded. It means the work didn't reach the mark needed for a numbered grade.
 
 | Grade | What it means |
 |---|---|
@@ -55,16 +55,16 @@ The 9-1 scale runs from the highest grade at the top to the lowest pass-recognis
 
 ## What counts as a pass?
 
-This is the question most parents ask first, and the answer is actually two-tiered:
+It's the first thing most parents ask. And there are really two answers:
 
-- **Grade 4 is a "standard pass".** It's the government's official benchmark and is accepted by most employers, further education colleges and apprenticeship schemes as meeting minimum entry requirements.
-- **Grade 5 is a "strong pass".** It's the level most sixth forms quietly prefer for A-Level entry in core subjects, and is what schools are increasingly held to account on.
+- **Grade 4 is a "standard pass".** It's the government's official benchmark. Most employers, further education colleges and apprenticeship schemes accept it as meeting their minimum entry requirement.
+- **Grade 5 is a "strong pass".** It's the grade most sixth forms quietly prefer for A-Level entry in the core subjects. It's also, more and more, what schools themselves are held to account on.
 
-In practice, if you ask "did my child pass?", the honest answer is "yes at a 4, more comfortably at a 5". A grade 3 isn't classed as a pass under either definition, but it's important to remember that students can retake English and Maths if they fall short, and the post-16 system is structured around exactly this kind of catch-up.
+So if you're asking "did my child pass?", the answer is yes at a 4, and more comfortably at a 5. A 3 doesn't count as a pass under either definition. But your child can retake English and Maths if they fall short, and sixth forms and colleges are set up for exactly that kind of catch-up.
 
 ## How the new grades compare to the old A*-G letters
 
-This is the comparison parents most want to see. The mapping isn't perfectly one-to-one because the grades were reset, not just renamed. But Ofqual published the rough equivalence, and the most useful version looks like this:
+This is the comparison parents most want to see. It isn't a perfect one-to-one match, because the grades were reset, not just renamed. But Ofqual published a rough guide, and the most useful version looks like this:
 
 | New (9-1) | Old (A*-G) equivalent |
 |---|---|
@@ -78,59 +78,59 @@ This is the comparison parents most want to see. The mapping isn't perfectly one
 | **2** | The lower part of E and the upper part of F. |
 | **1** | The lower part of F and G. |
 
-A useful shorthand: **a grade 7 is broadly an A, a grade 4 is broadly a C**. Everything else sits relative to that.
+A handy shorthand: **a grade 7 is broadly an A, and a grade 4 is broadly a C**. Everything else sits around those two.
 
 ## What "good" looks like in numbers
 
-This is where parents often surprise themselves. The 9-1 distribution is genuinely spread out, which means even mid-scale grades represent meaningful achievement.
+This is where parents often surprise themselves. The grades are far more spread out than most people expect, so even a grade in the middle of the scale is a real achievement.
 
-Drawing on the official 2025 results published by Ofqual (the most recent full data set at time of writing):
+Here's what the official 2025 results from Ofqual show (the most recent full set when I wrote this):
 
-- **5.1%** of all GCSE entries in England were awarded a grade 9.
-- A further **7.2%** were awarded a grade 8.
-- **21.8%** of all students achieved grade 7 or above (roughly the old A or A* range).
-- **67.1%** of all entries were graded 4 or above (the standard-pass threshold).
-- The single most common grade was actually a **3** at 16.6% of entries, with grade **5** as the second most common.
+- **5.1%** of all GCSE entries in England got a grade 9.
+- Another **7.2%** got a grade 8.
+- **21.8%** of all entries got grade 7 or above, which is roughly the old A and A* range.
+- **67.1%** of all entries were graded 4 or above, the standard pass.
+- The most common grade was actually a **3**, at 16.6% of entries, with grade **5** in second place.
 
-In other words: a grade 5 sits above the median entry. A grade 7 puts a student in the top fifth of all GCSE entries nationally. A grade 9 is genuinely exceptional and rare.
+Put simply, a grade 5 sits right around the middle of all entries. A grade 7 puts your child in roughly the top fifth nationally. And a grade 9 is exceptional. Rare, too.
 
 ## What sixth forms and colleges actually ask for
 
-Entry requirements vary, but the patterns across English sixth forms and colleges are fairly consistent in 2026:
+Every sixth form sets its own entry requirements, but the patterns across English sixth forms and colleges are fairly consistent in 2026:
 
-- **A-Level entry, general:** Most sixth forms ask for at least **five GCSEs at grade 4 or above, including English and Maths**, with many academically-leaning sixth forms preferring **grade 5 or higher** across that set.
-- **A-Level entry in a specific subject:** Most sixth forms ask for **at least a grade 6 in the same subject at GCSE** (so a grade 6 in GCSE Biology to take A-Level Biology, for example).
-- **Competitive A-Levels (Maths, Further Maths, Sciences, Economics):** Often **grade 7 or above** in the subject at GCSE, sometimes higher for Further Maths or selective sixth forms.
-- **Apprenticeships and further education:** **Grade 4 or above** in English and Maths is the typical minimum, though some degree apprenticeships and competitive employer schemes ask for grade 5 or higher.
-- **Selective grammar and independent sixth forms:** Often **grade 7 or above** across the chosen A-Level subjects, with some asking for grade 8 or 9 in specific cases.
+- **A-Level entry, general:** Most sixth forms want at least **five GCSEs at grade 4 or above, including English and Maths**. Plenty of the more academic ones prefer **grade 5 or higher** across that set.
+- **A-Level entry in a specific subject:** Most ask for **at least a grade 6 in that subject at GCSE**. For example, your child would usually need a grade 6 in GCSE Biology to take A-Level Biology.
+- **Competitive A-Levels (Maths, Further Maths, Sciences, Economics):** Often **grade 7 or above** in the subject at GCSE. Sometimes higher for Further Maths, or at selective sixth forms.
+- **Apprenticeships and further education:** **Grade 4 or above** in English and Maths is the usual minimum. Some degree apprenticeships and competitive employer schemes ask for grade 5 or higher.
+- **Selective grammar and independent sixth forms:** Often **grade 7 or above** in the A-Level subjects your child picks. A few ask for grade 8 or 9 in some cases.
 
-If your child is targeting a specific sixth form, the most reliable thing to do is look up their published entry requirements (usually under "Sixth Form" on the school's website) rather than rely on the general patterns.
+If your child has a particular sixth form in mind, look up its published entry requirements. They're usually under "Sixth Form" on the school's website, and they'll tell you far more than any general pattern.
 
 ## How grade boundaries actually get set
 
-A subtle thing parents often don't know: the marks needed for each grade aren't fixed in advance. They're set on results day by senior examiners after all the papers have been marked. The process is overseen by Ofqual and is designed to keep standards consistent across exam boards and from year to year.
+A lot of parents don't know this. The marks needed for each grade aren't fixed in advance. Senior examiners set them once all the papers have been marked, and they're published on results day. Ofqual oversees the process, which is there to keep standards level across exam boards and from one year to the next.
 
-Practically, this means that **a paper that was harder than expected won't punish students**, the grade boundaries shift downward to reflect that. It also means published "pass marks" for the year ahead don't really exist; they're set retrospectively. That's why teachers and tutors talk about **mark schemes** and **examiner expectations** rather than absolute scores.
+In practice, that means **a paper that turned out harder than expected won't count against your child**. The grade boundaries just move down to reflect it. It also means there's no such thing as a published "pass mark" for next year's exams. They're set afterwards. That's why teachers and tutors talk about **mark schemes** and **examiner expectations** (what examiners want to see in an answer), not a fixed score to hit.
 
 ## Frequently asked questions
 
 **Is a grade 4 a pass?**
-Yes, in the sense that it meets the government's standard-pass benchmark. Most colleges and employers accept it. Most sixth forms accepting students onto A-Levels will look for grade 5 or higher in English and Maths.
+Yes. It meets the government's standard-pass benchmark, and most colleges and employers accept it. For A-Levels, though, many sixth forms will look for a grade 5 or higher in English and Maths.
 
 **What if my child got a grade 3?**
-A grade 3 isn't classed as a pass. Students who get a grade 3 in English or Maths must continue studying those subjects post-16 (usually retaking the GCSE alongside their other studies). It's a common situation: in 2025, grade 3 was actually the single most common GCSE grade.
+It isn't classed as a pass, but your child is far from alone: in 2025, a 3 was the single most common GCSE grade. If it's in English or Maths, they'll keep studying that subject after 16, usually by retaking the GCSE alongside their other courses.
 
 **Why are there three top grades (7, 8, 9) instead of two (A and A*)?**
-To give universities and employers more information at the top end. Under the old system, the same A* covered a wide range of ability. The new system means a grade 9 student stands out as genuinely exceptional.
+To give universities and employers more to go on at the top end. Under the old system, one A* covered a wide range of ability. Now a grade 9 really does stand out as exceptional.
 
 **My child got a 6. Is that good?**
-Yes. A 6 sits above the standard pass and above the strong pass. It's a comfortable grade that opens up most sixth form A-Level options, though for competitive A-Levels (Maths, Sciences) it might leave the sixth form asking for a grade 7 in that specific subject.
+Yes. A 6 is above both the standard pass and the strong pass. It's a comfortable grade that keeps most A-Level options open. The one catch is competitive A-Levels like Maths and the Sciences, where the sixth form might ask for a grade 7 in that subject.
 
 **My child got a 7. Will they get into a top university?**
-Universities look at A-Level grades, not GCSEs, for entry. GCSE grades come into play for some competitive courses (Medicine, Law at certain universities) as a baseline filter. A grade 7 at GCSE is a strong starting point; what matters more from now on is what they do at A-Level.
+It's a strong start, but universities make their offers mainly on A-Level grades. GCSEs come into it for some competitive courses, like Medicine and Law at certain universities, as a baseline check. From here, what your child does at A-Level matters more.
 
 **Can my child retake a GCSE?**
-Yes. English and Maths can be retaken, and many post-16 colleges build retakes into the timetable for students who didn't get a grade 4 the first time. Other subjects can be retaken privately, usually with a tutor.
+Yes. English and Maths can be retaken, and many post-16 colleges build the retake into the timetable for anyone who didn't get a 4 first time. Other subjects can be retaken privately too, and families often use a tutor for that.
 
 ## Sources
 
@@ -143,8 +143,8 @@ Yes. English and Maths can be retaken, and many post-16 colleges build retakes i
 
 ## Where The Degree Gap fits
 
-Whatever grade your child is sitting at right now, there's almost certainly a route forward. A grade 3 student who's been written off as "not academic" often turns out to have a specific gap that's blocking everything else, and once it's named and rebuilt, the grade moves quickly. A grade 6 student aiming at a 7 or 8 usually doesn't need more content, they need exam-technique work on the questions that decide the higher band. Both are exactly what we match families with tutors for.
+Whatever grade your child is on right now, there's almost always a way forward. A child on a 3 who's been written off as "not academic" often turns out to have one specific gap that's holding everything else up. Once it's found and rebuilt, the grade can move faster than you'd expect. A child on a 6 aiming for a 7 or 8 usually doesn't need more content. They need exam-technique work on the questions that decide the higher grades. Both are exactly the kind of thing we match families with tutors for.
 
-If you've just looked at your child's predicted grade and aren't sure what to do next, the easiest first step is a free 30-minute consultation with Joe or me. We'll talk through where things actually sit, what's realistic, and whether tutoring is the right call. We'll tell you honestly if it isn't.
+If you've just seen your child's predicted grade and you're not sure what to do next, start with a free 30-minute consultation call with Joe or me. We'll talk through where things really stand, what's realistic, and whether tutoring makes sense for your child. And if it doesn't, we'll say so.
 
 [Book a free consultation call →](/book-a-call/)

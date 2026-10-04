@@ -5,7 +5,7 @@ date: 2026-06-22
 author: "Joe Clark"
 author_role: "Co-founder, The Degree Gap"
 category: "GCSE"
-excerpt: "Three of our specialist tutors shared their top revision tips for GCSE Maths, English and Science in our latest parent webinar. Here's the summary, with the key actions for each subject."
+excerpt: "Three tutors from our platform shared their best revision advice for GCSE Maths, English and Science at our latest parent webinar. Here's what they said, and how you can help your child use it."
 hero_image: "/images/students-in-classroom-taking-notes.jpg"
 tags:
   - GCSE
@@ -19,95 +19,95 @@ related_links:
     description: "Local tutoring pages for every city we cover, with the schools we know and the exam boards we match on."
 ---
 
-We ran our latest parent webinar a few weeks before the summer exam window, with three of our specialist tutors sharing their best revision advice for the core GCSE subjects. Emily covered Maths, Jess covered English Language and Literature, and Callum covered the Sciences. Below is a summary of what they said, with the practical actions for parents and students to take away.
+A few weeks before the summer exams, we ran our latest parent webinar. Three of our tutors each gave their best revision advice for one of the core GCSE subjects. Emily took Maths, Jess took English Language and Literature, and Callum took the Sciences. Here's what they said, and the practical things you and your child can take from it.
 
 ## GCSE Maths: prepare for the questions that don't look like the textbook
 
-Emily is a qualified Maths teacher who has been working in London schools for the past four years, including time in a grammar school and with students who have English as an additional language. Her core point was that the gap between textbook work and exam questions is wider than most students realise, and it's the biggest reason students who feel like they've revised hard still come out feeling unsure.
+Emily is a qualified Maths teacher who's worked in London schools for the past four years, including time at a grammar school and with pupils who have English as an additional language. Her main point was that the gap between textbook work and exam questions is wider than most teenagers realise. It's the biggest reason a child who feels they've revised hard can still come out of the exam feeling unsure.
 
-She gave three pieces of advice.
+She had three pieces of advice.
 
-**Prepare for backwards and applied questions.** GCSE Maths questions increasingly ask students to apply their knowledge in unfamiliar ways. A standard textbook question on negative and fractional indices might ask the student to evaluate the expression; an exam version of the same topic might give the answer and ask the student to find the value of the power. A standard 3D volume question might give length, width and height; an exam version might give the volume and ask for the surface area. The maths is the same, the framing is different, and students who only practise the standard format get thrown when the exam version lands.
+**Prepare for backwards and applied questions.** More and more GCSE Maths questions ask your child to use what they know in an unfamiliar way. A textbook question on negative and fractional indices (powers) might ask them to work out the value. The exam version of the same topic might give them the answer and ask them to find the power. A textbook 3D volume question might give the length, width and height. The exam version might give the volume and ask for the surface area. Same maths, different framing. And if they've only ever practised the standard version, the exam one throws them.
 
-The fix: look at the last few questions on each topic in the textbook, plus the review sheets at the end of each unit, and prioritise past exam papers for exposure to these formats.
+Emily's fix is to point your child at the last few questions on each topic in the textbook, plus the review sheets at the end of each unit. Then make past papers the priority, because that's where they'll meet these question types most.
 
-**Build a web of crossover topics.** Modern GCSE Maths questions often combine two topics in one question. Proportion plus percentage increase. Ratio plus probability. Algebra is the largest topic block on the higher paper, and students need to be confident with deriving algebraic formulae and recognising when to use them.
+**Build a web of crossover topics.** GCSE Maths questions now often mix two topics in one. Proportion with percentage increase. Ratio with probability. Algebra is the biggest single block on the Higher paper, the harder of the two tiers your child could sit. So they need to be confident setting up algebraic formulae and spotting when to use them.
 
-Emily uses two techniques from her teaching that work for revision too. *Same surface, different depth*: a mind map starting with one simple mathematical idea (a trapezium, for example) and branching out into all the different exam contexts it could appear in, area, perimeter, money problems, gradient on a coordinate grid, enlargement, 3D shapes. *Goal-free problems*: take a past paper question, cover up the final question, and just see what the student can work out from the information given. Removes the cognitive distraction of racing to the answer and builds the habit of seeing what's linked to what. There are goal-free versions of past paper questions freely available online.
+Emily uses two ideas from her teaching that work just as well for revision. The first is *same surface, different depth*. It's a mind map that starts from one simple idea, say a trapezium, and branches out into every exam context it could turn up in: area, perimeter, money problems, gradient on a coordinate grid, enlargement, 3D shapes. The second is *goal-free problems*. Take a past paper question, cover up what it's actually asking for, and see what your child can work out from the information alone. It takes away the rush to reach an answer, and it builds the habit of seeing what links to what. There are goal-free versions of past paper questions online, and they're free.
 
-**Active past paper revision.** Most students rush this. Three concrete moves to do it properly:
+**Active past paper revision.** Most teenagers rush this bit. Here are three ways to help your child do it properly:
 
-- **Plan checking time into the revision session.** Don't go straight from finishing a paper to the mark scheme. Build in time to check for silly mistakes first, and think about how to avoid them next time. Otherwise the same silly mistakes turn up in the real exam.
-- **Ask yourself what question you'd ask about each solution.** Even if you think you understand it, force yourself to think of one question you'd ask a teacher about it. That habit identifies the part you understand least.
-- **Annotate when you self-mark.** Don't just write down the correct answer to a question you got wrong. Annotate why you got it wrong and what you'd do differently next time.
+- **Plan checking time into the revision session.** Your child shouldn't go straight from the last question to the mark scheme. They need time first to check for silly mistakes and think about how they'd avoid them next time. Otherwise the same slips turn up in the real exam.
+- **Think of one question to ask about each solution.** Even if they think they understand it, get them to come up with one question they'd ask a teacher about it. That habit shows up the part they understand least.
+- **Annotate when self-marking.** Writing the right answer next to a question they got wrong isn't enough. They should note why they got it wrong and what they'd do differently next time.
 
-The headline: quality of revision matters much more than quantity, and the way to add quality is to interact with the paper rather than just complete it.
+Emily's headline was that the quality of revision matters far more than the amount. And the way to get quality is for your child to work with the paper, not just get to the end of it.
 
 ## GCSE English: knowing what the mark scheme actually wants
 
-Jess specialises in English Language and Literature and has three years of tutoring experience across one-to-one and group settings. Her advice was structured around AQA but applies to most exam boards.
+Jess tutors English Language and Literature and has three years' tutoring experience, both one-to-one and with groups. She built her advice around AQA, but it applies to most exam boards.
 
-**The core skills the mark scheme tests.** Students need an in-depth working knowledge of a wide range of language devices and structural features, not just adjectives and verbs and alliteration, but the harder ones too (superlatives, hyperbole, oxymoron, juxtaposition). They need to be able to spot these in a text AND use them in their own writing. Question 5 on both Language papers is the student's own written work, and it's worth half the marks of the paper.
+**The core skills the mark scheme tests.** Your child needs a good working knowledge of lots of language devices and structural features. Not just adjectives, verbs and alliteration, but the harder ones too, like superlatives, hyperbole, oxymoron and juxtaposition. They need to spot these in a text and use them in their own writing. Question 5 on both Language papers is your child's own piece of writing, and it's worth half the marks on the paper.
 
-For the analysis itself, Jess recommends sticking to whichever framework the school teaches (PEEL, PETAL, PETER) and using analysis keywords that signal original thinking to the examiner: *this implies*, *this suggests*, *this has connotations with*, *this references*.
+For the analysis, Jess says stick with whichever paragraph structure the school teaches, whether that's PEEL, PETAL or PETER. And use phrases that show the examiner some original thinking: *this implies*, *this suggests*, *this has connotations with*, *this references*.
 
-**For Question 5.** The mark scheme asks for language devices, structural devices, punctuation, ambitious vocabulary and clear organisation. Jess's structural tip: use intentional paragraph starters (*firstly*, *additionally*, *furthermore*, *finally*) to signal organisation. Examiners are testing whether the student knows the devices, not whether they could write the next bestseller.
+**For Question 5.** The mark scheme wants language devices, structural devices, punctuation, ambitious vocabulary and clear organisation. Jess's tip for structure is to open paragraphs with deliberate signposts, words like *firstly* and *finally*, so the examiner can see how the piece is organised. Examiners are checking that your child knows the devices. Nobody's expecting the next bestseller.
 
-**Literature: think context, themes, characters.** For each text, students need a working understanding of the period and the author, the themes (Animal Farm: power and control, corruption, propaganda, equality, class), and the characters (Jess recommends building character cards with key quotes, traits and turning points).
+**Literature: think context, themes, characters.** For each text, your child needs a working grasp of the period and the author, the themes and the characters. For Animal Farm, the themes include power and control, corruption, propaganda, equality and class. For the characters, Jess suggests making character cards with key quotes, traits and turning points.
 
-**Common mistakes she sees.** Losing focus on the question (especially when it specifies line numbers); generic comments (*"short sentences create tension"* without saying what they do in this specific extract); and feeling overwhelmed by Question 5. On timing: there is no rule that says students have to answer in order. If timing is a worry, starting with Question 5 and working backwards is fine. Don't risk running out of time on the biggest question on the paper.
+**Common mistakes she sees.** Drifting away from the question, above all when it gives line numbers. Generic comments, like *"short sentences create tension"*, without saying what they do in this extract. And feeling overwhelmed by Question 5. On timing, nothing says your child has to answer in order. If time's a worry, it's fine to start with Question 5 and work backwards, rather than risk running out of time on the biggest question on the paper.
 
-**Multimodal revision.** Jess closed on the cone of learning (Edgar Dale), within two weeks we remember about 10% of what we read but 90% of what we do and 70% of what we say. Practical implications:
+**Multimodal revision.** That just means revising in lots of different ways. Jess finished on the "cone of learning", which is often credited to Edgar Dale. It's the idea that two weeks later we remember about 10% of what we read, but 70% of what we say and 90% of what we do. Take the exact percentages with a pinch of salt. They're a rough guide, not research findings. But the point behind them holds: what your child does with the material sticks far better than what they only read. In practice:
 
-- Reduce notes to half a page, then to a paragraph, then to a flashcard. Each reduction forces active thinking.
-- Teach the material out loud to a parent or a friend. Teaching forces clarity.
-- Mood boards for characters. Audio recordings of notes for students who learn by ear. Dramatic performance of key Shakespeare quotes.
-- Essay plans, not full essays. Saves time, builds a backup plan the student can reach for in the exam.
-- Colour-code every theme and character in each text by confidence, green for comfortable, yellow for needs work, red for tricky. Spend the revision time on the reds.
+- Have them cut their notes down to half a page, then a paragraph, then a flashcard. Every cut makes them think about what matters.
+- Get them to teach it out loud to you or a friend. Having to teach it makes them get it clear in their own head.
+- Mood boards for characters. Voice recordings of their notes, if your child takes things in better by listening. Acting out key Shakespeare quotes.
+- Essay plans rather than full essays. They're quicker, and they give your child a ready-made plan to reach for in the exam.
+- Colour-coding every theme and character in each text by how confident your child feels: green for comfortable, yellow for needs work, red for tricky. Then the revision time goes on the reds.
 
 ## GCSE Sciences: 75% content, 25% past papers
 
-Callum has a master's and bachelor's from Cambridge in biological natural sciences (biochemistry specialism) and is now studying medicine as a graduate student. He's been tutoring for over six years. His advice was general across the three sciences rather than subject-specific.
+Callum has a bachelor's and a master's from Cambridge in biological natural sciences, specialising in biochemistry, and he's now studying medicine as a graduate. He's been tutoring for over six years. His advice covered all three sciences rather than one in particular.
 
-**The two halves of GCSE Science success.** Understanding the content on the specification, and examination technique. These need to be developed separately and then brought together. Callum's recommended split for revision time: **75% on content, 25% on past papers**. Most students drift the other way as exams approach because past papers feel productive and content revision feels slow. But the foundation is the content.
+**The two halves of GCSE Science success.** Understanding the content on the specification (the course the exam board sets out), and exam technique. Callum says they need building up separately, then bringing together. His split for revision time is **75% on content, 25% on past papers**. Most teenagers drift the other way as the exams get closer, because past papers feel productive and content revision feels slow. But the content is the foundation.
 
-**What "understanding content" really means.** Not just memorising that increasing temperature increases reaction rate, but understanding why. Not just being able to repeat a textbook definition, but being able to apply the concept to an unfamiliar scenario. GCSE Science questions often give the student a context they haven't seen before, a specific plant, a specific experiment, and ask them to apply principles they've covered. Students who've genuinely understood the content can do this; students who've memorised without understanding can't.
+**What "understanding content" really means.** It means knowing why a higher temperature speeds up a reaction, not only that it does. And it means using an idea in a situation your child hasn't met before, rather than repeating the textbook definition. GCSE Science questions do this a lot. They describe a plant or an experiment your child's never seen and ask them to apply what they've learnt. If they've really understood the content, they can. If they've memorised it without understanding it, they can't.
 
-**The single biggest content mistake Callum sees.** Vague answers. A student can know the right thing and write it in a way that doesn't earn the marks because they didn't use the precise scientific language the mark scheme rewards. A three-mark question that's roughly right in plain English can score one mark or zero. Precision of language is part of understanding the content, not just exam technique.
+**The single biggest content mistake Callum sees.** Vague answers. Your child can know the right thing and still lose the marks, because they didn't use the exact scientific words the mark scheme rewards. A three-mark question answered roughly right in everyday English can score one mark, or none. Getting the language precise is part of knowing the content, not just a bit of exam technique.
 
 **Practical actions on the content side:**
 
-- Spend the majority of revision time understanding content, in whatever modality works (flashcards, Anki, rewriting notes from memory, teaching it to a parent).
-- Try to explain concepts out loud to other people. If you can't explain it, you don't fully understand it.
-- Never assume you know something. The habit of looking at a page of notes and saying "I know that, I'll skip it" is the most common reason students walk into exams with gaps they don't know they have.
+- Most of the revision time should go on understanding the content, in whatever way works for your child: flashcards, Anki (a flashcard app), rewriting notes from memory, or teaching it to you.
+- Get them explaining ideas out loud to other people. If they can't explain it, they don't fully understand it yet.
+- Don't let them assume they know something. Looking at a page of notes and saying "I know that, I'll skip it" is the most common reason students walk into exams with gaps they didn't know were there.
 
-**Examination technique.** Callum's view is that good exam technique is worth at least one grade for every student, regardless of the level they're sitting at.
+**Examination technique.** Callum reckons good exam technique is worth at least one grade to every student, whatever level they're working at.
 
-- **Read the command word.** *Describe*, *explain*, *evaluate*, *calculate* all require different approaches. Misinterpreting these costs marks.
-- **Know your exam board, and use that board's mark schemes when marking past papers.** It surprises Callum how many students don't know which board they're sitting.
-- **Show your method on calculations.** Method marks are valuable. Doing the calculation in your head is fine if the final answer is right, but if you make a mistake, you've thrown away marks you could have kept. Write more than feels necessary.
-- **Time yourself.** A mark per minute is a good rule of thumb, a three-mark question gets three minutes. Don't sit your first timed paper on the day of the exam.
+- **Read the command word.** That's the word in the question that tells your child what to do. *Describe*, *explain*, *evaluate* and *calculate* all want different things, and mixing them up costs marks.
+- **Know the exam board, and use that board's mark schemes when marking past papers.** Callum's surprised by how many students don't know which board they're sitting, so it's worth checking with your child.
+- **Show the working on calculations.** Method marks are valuable. Working it out in their head is fine if the final answer's right. But if they slip, they've thrown away marks they could have kept. Writing down more than feels necessary is the safe habit.
+- **Practise against the clock.** A mark a minute is a good rule of thumb, so a three-mark question gets three minutes. Your child's first timed paper shouldn't be the real exam.
 
-**Build a mistakes bank.** Every question Callum got wrong during his own GCSEs and A-Levels went into a document. He revisited it regularly. The mistakes bank gets bigger over time, but the gaps it represents close, and the same mistakes stop turning up in the real thing.
+**Build a mistakes bank.** Every question Callum got wrong during his own GCSEs and A-Levels went into one document, and he went back to it regularly. The bank gets bigger over time. But the gaps behind it close, and the same mistakes stop turning up in the real thing.
 
-**Mark your own work harshly.** If the wording isn't close to the mark scheme, don't give yourself the marks. Examiners may be more lenient on the day, but harsh self-marking gives the most honest picture of where the student actually is.
+**Mark harshly.** If the wording isn't close to the mark scheme, your child shouldn't give themselves the marks. Examiners might be more generous on the day, but tough self-marking gives you both the most honest picture of where they really are.
 
 ## The common thread across all three tutors
 
-Three subjects, three different specialists, the same underlying principle: **active recall beats passive review every time.** Mind maps over re-reading notes. Goal-free past paper questions over racing to the answer. Teaching out loud over highlighting. Annotated mistakes over silent self-correction. Reducing content down to half a page, then a paragraph, then a flashcard. Building a mistakes bank rather than skimming and moving on.
+Three subjects, three different tutors, and the same idea underneath: **active recall beats passive review every time.** In other words, getting your child to pull things out of their memory works better than reading them over again. Mind maps over re-reading notes. Goal-free past paper questions over racing to the answer. Teaching out loud over highlighting. Annotating mistakes over quietly correcting them. Cutting content down to half a page, then a paragraph, then a flashcard. Building a mistakes bank rather than skimming and moving on.
 
-The other thread: practice under the actual conditions the exam imposes. Timing, precise language, command-word recognition, mark-scheme literacy. Walking into a paper having never sat one under time pressure is the single most preventable mistake.
+The other thread was practising under real exam conditions. Timing, precise wording, spotting the command word, knowing what the mark scheme wants. Walking into a paper without ever having sat one against the clock is the single most avoidable mistake.
 
-If your child is in Year 10 or Year 11 and any of this resonates, it usually means there's a specific gap a focused block of one-to-one work can close. We're happy to talk through what that would look like before suggesting any tutor.
+If your child's in Year 10 or Year 11 and some of this sounds familiar, there's usually a specific gap that a focused block of one-to-one work can close. We're happy to talk it through with you before we suggest any tutor.
 
 ## Watch the full webinar
 
-The complete session, including Emily's, Jess's and Callum's full talks and our Q&A with parents, is on YouTube here: [How to maximise every GCSE mark, full webinar](https://www.youtube.com/watch?v=UnBjkc345CY&t=3172s).
+You can watch the whole session on YouTube, including Emily's, Jess's and Callum's full talks and our Q&A with parents: [How to maximise every GCSE mark, full webinar](https://www.youtube.com/watch?v=UnBjkc345CY&t=3172s).
 
 ---
 
 ## Where The Degree Gap fits
 
-If your child has GCSEs coming up and you want to talk through what would actually help them in the time that's left, that's exactly the call to book. Every family speaks with Joe or me on a free 30-minute consultation before we suggest a single tutor. We'd rather find out what your child needs before we send a profile.
+If your child has GCSEs coming up and you'd like to talk through what would really help in the time that's left, that's what the call is for. Every family speaks to Harry or me on a free 30-minute consultation before we suggest a single tutor. We'd rather know what your child needs before we send you a profile.
 
 [Book a free consultation call →](/book-a-call/)

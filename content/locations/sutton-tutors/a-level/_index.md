@@ -1,50 +1,41 @@
 ---
 title: "Sutton A-Level Tuition | From £37/hr | The Degree Gap"
-description: "Sutton A-Level tutors for the Year 12 step up, matched on the specification. One-to-one online tutoring over Lessonspace, from £37 an hour."
+description: "Flew through GCSEs, and now Year 12 has come as a shock? Sutton A-Level tutors for your child's step up from GCSE. Online, one-to-one, from £37 an hour."
 layout: "subject"
 location: "Sutton"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for the Sutton Student Who Sailed Through GCSEs and Stalled"
+hero_heading_line1: "Online Sutton A-Level Tutors for the Child Who Sailed Through GCSEs, Then Stalled"
 hero_heading_line2: ""
-hero_lead: "Year 12 is where a student who never had to revise finds out nobody taught them how. Our Sutton A-Level tutors rebuild the method, one-to-one and online over Lessonspace, starting with the Year 12 topics Year 13 is about to lean on."
+hero_lead: "Your child did well at GCSE without much revision, and now the Year 12 marks are coming back lower than anyone expected. That's common, and it's rarely laziness. Our Sutton A-Level tutors work one-to-one online, starting with the Year 12 topics Year 13 builds on."
 
 grade_from: "C"
 grade_to: "A"
-grade_stat: "A real A-Level move from C grades to A grades, with help on university choices alongside it."
+grade_stat: "Cs to As, according to one parent, with help choosing universities along the way."
 
-first_lesson_eyebrow: "WHEN REVISION WAS NEVER NEEDED BEFORE"
-first_lesson_heading: "The Habit A-Level Tutoring Has to Rebuild First"
-first_lesson_context: "Plenty of students here reach Year 12 having never really revised, because until now they did not need to. Then a paper asks them to choose a method rather than follow one, the mark drops, and everybody reads it as effort. It is usually technique, which is learnable, and that is the better news in an otherwise grim term."
+first_lesson_eyebrow: "WHEN THEY'VE NEVER HAD TO REVISE BEFORE"
+first_lesson_heading: "The Habit a Sutton A-Level Tutor Builds First"
+first_lesson_context: "Plenty of children in Sutton reach Year 12 without ever having revised properly, because until now they didn't need to. Then a paper asks your child to pick a method instead of following one, the mark drops, and it looks as if they've stopped trying. Usually it's technique, and technique can be learnt, which is the good news in a hard first term."
 first_lesson_quote: "Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 first_lesson_quote_name: "Alexander"
 first_lesson_quote_role: "Parent"
 first_lesson_quote_grade: "C grades to A grades at A-Level"
 
-tutor_strip_heading: "Sutton A-Level tutors who sat these specifications recently"
-tutor_strip_body: "Sixth forms across Sutton, Carshalton and Wallington sit different boards, so the specification is confirmed before any name goes out. Most tutors are recent graduates who still remember which Year 12 topics Year 13 leans on. Sessions run one-to-one, online. Browse the profiles, or let us match your child."
+tutor_strip_heading: "Sutton A-Level tutors who know the course your child's on"
+tutor_strip_body: "Sixth forms across Sutton, Carshalton and Wallington don't all use the same exam boards, so we'll check your child's before suggesting anyone. Graduate or undergraduate, every tutor knows which Year 12 topics come back in Year 13. Have a look at the profiles, or we'll match your child."
 
 pathways_heading: "Where Sutton A-Levels Lead After Results Day"
-pathways_lead: "Tutors keep the destination in view from session one, whether that is a university offer or an apprenticeship at the hospital down the road."
+pathways_lead: "Whether it's a university offer or an apprenticeship at the hospital down the road, the tutor keeps your child's next step in mind from the first lesson."
 pathways:
   - title: "Universities"
     body: >
-      Students here apply across London and the south, with City St George's, University of London
-      in Tooting a common destination for medicine and the health sciences, and Kingston University
-      and the University of Surrey both inside a sensible commute. Conditional offers rest on
-      predicted grades written in Year 12, months before anybody sits a paper.
+      Sutton families apply all over London and the south: City St George's, University of London in Tooting is a common pick for medicine and the health sciences, and Kingston University and the University of Surrey are a sensible commute. Each offer rests on the predicted grades your child's school sends in the autumn of Year 13, months before the final exams.
   - title: "Degree Apprenticeships"
     body: >
-      Kingston University runs degree apprenticeships in adult nursing and as a nursing associate,
-      and the trusts on the doorstep, Epsom and St Helier University Hospitals and The Royal Marsden,
-      take apprentices on similar terms. Each scheme publishes its own entry requirements, which
-      change between intakes, and most want a written application alongside the grades.
+      Kingston University runs apprenticeships in adult nursing and for nursing associates, and the hospitals on the doorstep, Epsom and St Helier University Hospitals and The Royal Marsden, take on apprentices too. Each scheme sets its own entry requirements, which can change from one intake to the next, and most want a written application as well as the grades.
   - title: "Career Pathways"
     body: >
-      The London Cancer Hub is a partnership between Sutton Council and the Institute of Cancer
-      Research, backed by The Royal Marsden, and it is turning the Belmont end of the borough into a
-      life sciences employer in its own right. Sutton Council recruits at eighteen too, through the
-      apprenticeship hub Opportunity Sutton runs.
+      Up at Belmont, the London Cancer Hub is a partnership between Sutton Council and the Institute of Cancer Research, backed by The Royal Marsden, and it's becoming a life sciences employer in its own right. And Sutton Council takes on school leavers at eighteen too, through the apprenticeship hub run by Opportunity Sutton.
 
 reviews:
   - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
@@ -61,13 +52,13 @@ reviews:
   - "Charlotte|Student|I cannot recommend Harry enough. He was helpful welcoming and helped me achieve a grade higher than I was expected!"
 
 faq_1_q: "Year 12 or Year 13? We keep being told to wait and see."
-faq_1_a: "Year 12, if the choice is open. Predicted grades come out of Year 12 work and reach universities early in Year 13, so an hour a week now counts twice: once for the offer, once for the paper. Wait until after Christmas of Year 13 and the offers have usually been made against a number set earlier. Plenty of families do start late and still move a grade. It is just a narrower job by then, and a noisier one."
+faq_1_a: "Year 12, if you've got the choice. Predicted grades are built on Year 12 work and go off to universities early in Year 13, so an hour a week now counts twice: once for the offer, and again in the exam. Leave it until after Christmas in Year 13 and the prediction's usually been sent. Lots of families do start late and still move a grade. It's just a narrower job by then."
 faq_2_q: "He got a grade 9 in Maths and is drowning in Year 12. How does that happen?"
-faq_2_a: "It happens a lot, and it is rarely about effort. GCSE rewards recognising a question type and running the method attached to it, which a quick student can do without much revision. A-Level asks them to pick the method with nothing announcing which one, then hold several steps together. The skill that carried them stops carrying them, usually in the first term. So the tutor's job is teaching how to choose, working from questions your child has already got wrong."
-faq_3_q: "How does tutoring feed into the UCAS predicted grade?"
-faq_3_a: "Indirectly, which is the honest answer. Teachers set the prediction from mocks and classwork, so the way to move it is to move what the mocks show. That means the work has to land before the Year 13 mock window rather than after it. Tutors read recent scripts, find whichever strand is bleeding marks, and drill under timed conditions so the performance holds when it counts. We also talk through course choices and the personal statement when families want that."
-faq_4_q: "What if the tutor isn't right for my child?"
-faq_4_a: "Tell us and we re-match, at no charge and without anybody being asked to explain themselves. Every family speaks with Harry or Joe first, and there is a free 15-minute video meeting with the proposed tutor before a paid session, which catches most of it early. At seventeen a student knows within about ten minutes whether somebody's explanations land. Hard to read that from a profile, which is why the meeting exists."
+faq_2_a: "It happens a lot, because A-Level Maths asks for a different skill. GCSE rewards spotting a question type and running the method that goes with it, which a quick student can do without much revision. A-Level asks your son to pick the method himself, with nothing telling him which one, then hold several steps together. The skill that carried him stops carrying him, often in the first term. So the tutor teaches him how to choose, working from questions he's already got wrong."
+faq_3_q: "Can tutoring change the predicted grade that goes to UCAS?"
+faq_3_a: "Not directly, but it can change the work the prediction's based on. Teachers set it from mocks and classwork, so that's what has to move. And the timing matters: the work needs to land in Year 12 and the start of Year 13, before predictions are written. The tutor reads your child's recent papers, finds the topic costing the most marks, and has them practise it against the clock until it holds up. We're happy to talk through course choices and the personal statement too."
+faq_4_q: "What if my child isn't keen on the tutor after a lesson or two?"
+faq_4_a: "Tell us and we'll find someone else, at no charge, and nobody has to explain themselves. Before anything's booked, you'll talk to Harry or Joe, who started The Degree Gap. Your child also gets a free 15-minute video meeting with the tutor, which catches most mismatches early. At seventeen, most teenagers can tell within ten minutes whether someone's explanations make sense to them. Hard to tell from a profile, though. That's why the meeting's there."
 
 sitemap:
   priority: 0.7

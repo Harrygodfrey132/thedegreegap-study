@@ -1,41 +1,41 @@
 ---
 title: "Reigate GCSE Tutors | Expert Support | The Degree Gap"
-description: "Reigate GCSE tutors for the autumn the college form goes in and the summer the course grades get checked. One-to-one online tuition, from £37 an hour."
+description: "Your child applies for college in the autumn, but grades aren't checked until August. Our Reigate GCSE tutors work on the subject that matters most, from £37."
 layout: "subject"
 location: "Reigate"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Reigate Year 11s Who Apply to College Months Before Results Day"
+hero_heading_line1: "Online Reigate GCSE Tutors for the Grade Your Child's College Course Depends On"
 hero_heading_line2: ""
-hero_lead: "Reigate College applications close at the start of November, long before results day checks the grades each course asked for. Our Reigate GCSE tutors work one-to-one online over Lessonspace on the subject standing between your child and the course they picked."
+hero_lead: "College courses get picked in the autumn of Year 11, but it's August before anyone knows if your child's grades are there. A long wait, if one subject feels shaky. Our Reigate GCSE tutors work one-to-one on the subject standing between your child and the course they've chosen."
 
 grade_from: "4-5"
 grade_to: "8"
-grade_stat: "One parent describes a predicted 4-5 in Physics becoming an 8, with tutoring that began two months before the exams."
+grade_stat: "Two months before the exams, Chamarika's son started tutoring on a predicted 4-5 in Physics. He came out with an 8."
 
 first_lesson_eyebrow: "APPLIED IN THE AUTUMN, CHECKED IN AUGUST"
 first_lesson_heading: "Why a Reigate GCSE Tutor Reads the Course List Before the Mock"
-first_lesson_context: "The application goes in during the autumn term with a set of chosen courses on it. The grades those courses depend on arrive the following August. Everything useful happens in between, and the first session is about finding out which subject carries the most risk for the courses on that form, then reading a real paper to see where its marks are going."
+first_lesson_context: "Everything useful happens between the autumn, when the college form goes in, and August, when the grades arrive. So the first session works out which subject puts your child's chosen courses most at risk, then goes through a real paper in it to see where the marks are slipping."
 first_lesson_quote: "Good tutoring platform. I did have some initial issues with a couple of tutors but Joe is very responsive and works to swiftly resolve things. My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring. We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s. Thank you to all the 3x tutors."
 first_lesson_quote_name: "Chamarika"
 first_lesson_quote_role: "Parent of GCSE Student"
 first_lesson_quote_grade: "Predicted 4-5 to an 8 in Physics"
 
 tutor_strip_heading: "Reigate GCSE tutors picked for the board and the course on the form"
-tutor_strip_body: "Reigate School, St Bede's, Oakwood and Dunottar don't necessarily enter students for the same boards, so the specification gets confirmed before any profile goes out. Every tutor has passed an interview with one of our founders, and around 3% of applicants make it. Look through the profiles, or let us do the matching."
+tutor_strip_body: "Reigate School, St Bede's, Oakwood and Dunottar don't all use the same exam boards, so we check your child's first. Harry or Joe interview every tutor, and about 3% of applicants get through. Have a look, or leave the matching to us."
 
 pathways_heading: "Three Doors Out of Year 11 Around Reigate"
-pathways_lead: "Most families here keep two of these open until the summer, and the timings are not the same."
+pathways_lead: "Most families here keep two of these open until the summer, and they don't run to the same timetable."
 pathways:
   - title: "Sixth Forms"
     body: >
-      Reigate College is the official sixth form for Reigate School, Carrington, Oakwood and four other partner schools, and sets grade conditions course by course. St Bede's in Redhill runs its own sixth form and asks for five GCSEs at 4 or above, with most A-Levels usually looking for a 5 in the subject. Reigate Grammar School, Dunottar and the Royal Alexandra and Albert also teach through to eighteen.
+      Reigate College is the sixth form college for Reigate School, Carrington, Oakwood and four other partner schools, and it sets grade conditions course by course. St Bede's in Redhill has its own sixth form and entry grades, and Reigate Grammar School, Dunottar and the Royal Alexandra and Albert teach through to eighteen too.
   - title: "Apprenticeships"
     body: >
-      Gatwick Airport runs an engineering apprenticeship lasting two to four years, with the classroom side at East Surrey College in Redhill. Surrey and Sussex Healthcare NHS Trust, which runs East Surrey Hospital, advertises apprenticeships across the hospital as well. English and Maths grades feature in almost every application.
+      Gatwick Airport runs an engineering apprenticeship lasting two to four years, with the classroom side at East Surrey College in Redhill, and Surrey and Sussex Healthcare NHS Trust advertises apprenticeships across East Surrey Hospital. English and Maths grades come up in nearly every application, so they're worth making safe first.
   - title: "Further Education"
     body: >
-      East Surrey College in Redhill, part of Orbital South Colleges, offers T Levels and other Level 3 study programmes, with Reigate School of Art in the same group. The college also teaches GCSE English and Maths for anyone who needs another go at either after results day.
+      East Surrey College in Redhill, part of Orbital South Colleges, offers T Levels and other Level 3 courses (the same level as A-Levels), with Reigate School of Art in the same group. It also teaches GCSE English and Maths if your child needs another go at either after results day.
 
 reviews:
   - "Sam|Parent of GCSE Student|Excellent experience. Founders are accessible, hands on, responsive and flexible. As are the tutors - quality all round. It was great to be able to trial a few to find the right fit, who my daughter felt most comfortable with. She got at least a grade higher in GCSEs because of the tuition which helped her get into a top school (grammar) for As."
@@ -51,14 +51,14 @@ reviews:
   - "Nazrul|Parent|My daughter found the tutors were very helpful for her GCSE thank you"
   - "Sorland|Grandparent|My Granddaughter uses the Degree Gap tutoring services across a few subjects. She is not only improving academically but really enjoys the setup and structure too. I would recommend to anyone."
 
-faq_1_q: "When should a Reigate family start GCSE tutoring if college applications close in November?"
-faq_1_a: "Ideally in Year 10, and if not, in the September of Year 11. The Reigate College form goes in during the autumn term, but the courses on it are confirmed against the summer results, so the application deadline matters less than the months after it. Starting in Year 10 gives a gap time to close before Year 11 content lands on top. A later start still helps, and one of our parents describes a Physics grade moving a long way in two months, but the plan gets narrower."
+faq_1_q: "If the college form goes in by November, when should we start tutoring?"
+faq_1_a: "Year 10 if you can, and if not, the September of Year 11. The Reigate College form goes in during the autumn term, but the courses on it are confirmed against the summer results. So the months after the deadline matter more than the deadline itself. A Year 10 start gives the tutor time to close a gap before Year 11 work piles on top. Starting later still helps, and one of our parents saw a Physics grade move a long way in two months. The plan just gets narrower."
 faq_2_q: "Can you tell us which GCSE subject to focus on first?"
-faq_2_a: "Usually after one session. The tutor lines up the courses your child is applying for against their current predictions, finds the subject where the gap to the stated requirement is largest or least secure, and then marks a recent paper in that subject. Often it is Maths, because several science A-Levels at the college name a Maths grade. Sometimes it's English Language. We would rather put one hour a week where it moves a course decision than spread it thin."
+faq_2_a: "Usually after one lesson, yes. The tutor puts the courses your child's applying for next to their current predictions, finds the subject where the gap is biggest or least secure, and marks a recent paper in it. It's often Maths, because several science A-Levels at the college ask for a Maths grade. Sometimes it's English Language. We'd rather put one hour a week where it can change a course decision than spread it thin."
 faq_3_q: "Is it worth getting help if my child just wants to pass Maths and English?"
-faq_3_a: "Yes, and that is some of the most useful work tutors on our platform do. A grade 4 in both keeps most doors open, from a Level 3 programme at East Surrey College to the general entry bar at Reigate College, and an apprenticeship application will almost always ask for them. The approach is the same as for a stretch target: find the topics costing the marks, rebuild them in order, then practise under a clock until they hold."
-faq_4_q: "What does GCSE tutoring cost and do we have to sign up for a term?"
-faq_4_a: "From £37 an hour, depending on the tutor's experience, and agreed with you before anything starts. That covers the online lesson on Lessonspace, the preparation, practice questions and a short written update afterwards. There is no contract and no term to buy up front. You pay session by session and can pause over the holidays or stop once a grade feels safe, which a fair number of Reigate families do after the spring mocks."
+faq_3_a: "Yes, and it's some of the most useful work tutors on our platform do. A 4 in both keeps most doors open, from a Level 3 course at East Surrey College to the general entry bar at Reigate College, and most apprenticeship applications ask for them too. The work's the same as for a higher target. Find the topics costing marks, rebuild them in order, then practise against the clock until they stick."
+faq_4_q: "How much does it cost, and do we have to pay for a whole term?"
+faq_4_a: "No, you pay lesson by lesson, from £37 an hour depending on the tutor's experience, and you'll agree the rate before anything starts. That covers the lesson itself, held on the platform Lessonspace with a replay to watch back, plus the tutor's preparation, practice questions and a short written update afterwards. There's no contract. You can pause over the holidays or stop once a grade feels safe, and some families stop after the spring mocks."
 
 sitemap:
   priority: 0.7

@@ -63,7 +63,7 @@ Agreed by Harry and Joe after reviewing the GCSE Maths page (`content/subjects/g
 1. **Talk to the parent, not about them.** "If your child is working hard and the Maths grade still isn't moving, you're not alone" beats "Students often underperform relative to effort."
 2. **Everyday words over trade words.** "Talk to a member of the team to start the matching process", not "Talk to a Maths matching specialist". "A free consultation call where we get to know you and your child", not "Book a consultation session". If a parent would have to guess what a word means, swap it.
 3. **Explain anything a parent won't recognise.** Never "Online over Lessonspace". Say "Online using the platform Lessonspace, plus replay available".
-4. **Say what happens next, plainly and in order.** A free consultation call (usually around 30 minutes, where we get to know you and your child so we can personalise the matching), 2 or 3 tutor profiles within 24 hours of that call, a free video meeting with the tutor, then weekly lessons. Parents relax when they can see the steps. Never call it a "15-minute call".
+4. **Say what happens next, plainly and in order.** A free consultation call (usually around 30 minutes, where we get to know you and your child so we can personalise the matching), 2 or 3 tutor profiles within 24 hours of that call, a free video meeting with the tutor, then weekly lessons. Parents relax when they can see the steps.
 5. **Reassure with facts, not adjectives.** "No contract, and you can stop whenever you like" and "Lessons from £37, no contract" do more than "flexible" or "affordable". Never "only pay if you continue", which reads as if the £37 buys the next lesson.
 6. **Ask FAQs the way a parent would ask them.** "How much does it cost?", "My child doesn't really want a tutor. Is that normal?", "What if we don't click with the tutor?". Not "What is the pricing structure?". Answer in the first sentence, then keep it short and kind.
 7. **Normalise the worry.** "Very normal, and it's probably the thing parents mention most." "It happens, and we'd much rather sort it than…" Naming that other families feel the same is more reassuring than any promise.
@@ -83,4 +83,10 @@ Agreed by Harry and Joe after reviewing the GCSE Maths page (`content/subjects/g
 
 ### What stays the same
 
-Everything above in this file, `vocabulary.md` and `beliefs.md` still applies: no em dashes, no banned words, no grade promises, agency wording ("tutors on our platform"), online only, British English. The parent-chat voice is how those rules should sound, not a replacement for them. Promise only what we actually do: a free consultation call of around 30 minutes, then 2 or 3 tutor profiles within 24 hours of that call. Not voice notes, and never a "15-minute call".
+Everything above in this file, `vocabulary.md` and `beliefs.md` still applies: no em dashes, no banned words, no grade promises, agency wording ("tutors on our platform"), online only, British English. The parent-chat voice is how those rules should sound, not a replacement for them. Promise only what we actually do: a free consultation call, then 2 or 3 tutor profiles within 24 hours of that call. Not voice notes.
+
+**The call's length (Harry, 2 Oct 2026):** the free consultation call is normally about 30 minutes, though it can be shorter. Write "a free call, usually about 30 minutes" or "a free 30-minute call". The separate meeting where the child meets the tutor is a free 15-minute video meeting; keep that at 15.
+
+### Examples are models, not lines
+
+The lines in this file show the voice. Don't paste them into a page. When the same sentence turns up on dozens of pages, the pages start to read as one page with the town swapped, which is exactly what happened with "Very normal, and it's probably the thing parents mention most." A few stock lines are fine (the price, how the steps work). `scripts/check-pages.py` lists every sentence a page shares word for word with other pages, and fails a page when more than 30% of its own writing is shared with another page of its type. Run it on every page you write or rewrite.
