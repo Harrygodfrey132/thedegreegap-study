@@ -10,7 +10,7 @@ intro_1: "Your child did the homework, kept their head down and never caused a f
 intro_2: "One-to-one lessons are good at exactly this. A tutor doesn't start at the front of the course and plod through it. They look for the point where your child lost the thread, sometimes two or three years back, and start the rebuilding there. It takes a few lessons. But it changes how the whole subject feels, and what your child can do in the exam. That's as true for a Year 10 trying to lift a Maths grade as for a Year 13 with an offer from UEA or a Russell Group university in mind."
 about_heading: Tutors Who Know What Norwich Students Need
 about_image: /images/students-in-classroom-taking-notes.jpg
-schools_intro: "Norwich families come to us from all over the city and further out. There's City of Norwich School, Hewett Academy, Notre Dame High School, Hellesdon High School and Open Academy, plus Norwich School, Norwich High School for Girls and Wymondham College. Alongside the one-to-one lessons, we run workshops on exam technique and revision that pupils from any of these schools can join."
+schools_intro: "We can work with Norwich families from all over the city and further out. There's City of Norwich School, Hewett Academy, Notre Dame High School, Hellesdon High School and Open Academy, plus Norwich School, Norwich High School for Girls and Wymondham College. Alongside the one-to-one lessons, we run workshops on exam technique and revision that pupils from any of these schools can join."
 schools:
   - City of Norwich School
   - Hewett Academy

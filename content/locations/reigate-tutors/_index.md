@@ -18,7 +18,7 @@ online_1: "Lots of Reigate households run on two timetables. One parent's on the
 online_2: "Online also opens up who teaches your child. Whoever knows your child's Chemistry course best, or has taught the exact Literature texts on their list, might be in Leeds or Exeter. That shouldn't cost your child the match. We pick on the course first. The whiteboard takes most children a few minutes to get used to. And lots of them find it easier to ask a question one-to-one on a screen than in a class of thirty."
 online_image: "/images/online-study-workspace-with-coffee.jpg"
 map_url: "https://maps.google.com/maps?q=Reigate,UK&output=embed"
-areas_intro: "We work with families in Reigate, Redhill, Merstham and Horley, and in the towns below, matching your child on subject and exam board rather than postcode."
+areas_intro: "We can work with families in Reigate, Redhill, Merstham and Horley, and in the towns below, matching your child on subject and exam board rather than postcode."
 area_links: ["Epsom Tutors|/locations/epsom-tutors/", "Sutton Tutors|/locations/sutton-tutors/", "Croydon Tutors|/locations/croydon-tutors/", "Kingston upon Thames Tutors|/locations/kingston-upon-thames-tutors/", "Guildford Tutors|/locations/guildford-tutors/", "Bromley Tutors|/locations/bromley-tutors/"]
 gcse_subjects: [
   "GCSE Maths Tuition|The grade four of the college's science and Maths courses look at first, rebuilt from your child's gap upwards.|/book-a-call/",

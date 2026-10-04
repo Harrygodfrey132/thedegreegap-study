@@ -7,7 +7,7 @@ banner_heading: "Grade stuck, however hard your child works? Online Hatfield tut
 banner_description: "Our tutors work one-to-one on the particular thing holding your child back, instead of dragging them through the whole syllabus again."
 content_angle: "school environment / mixed attainment: bright, hard-working children stuck on the same grade, seen from the parent's side"
 intro_1: "Most Hatfield parents who ring us have been having the same conversation at home for months. The Year 9 report was lower than expected. Then the Year 11 mocks confirmed what they'd been quietly worrying about. It isn't effort. The revision timetable's on the fridge, the laptop's shut by ten, and the grades still sit where they were. And it's hard to tell what the trouble is. The topic? The exam technique? Or just how stretched a class of 30 gets when the curriculum has to keep moving?"
-intro_2: "Untangling that is what a good tutor does first. We work with families from Onslow St Audrey's, Bishop's Hatfield Girls', Ridgeway Academy and schools across Welwyn Hatfield, whose children are bright, trying hard and stuck. The first lesson usually looks backwards. The tutor works out where things went wrong, six months or two years ago, and the quickest way back from there. Once that's clear, the plan more or less writes itself."
+intro_2: "Untangling that is what a good tutor does first. We can work with families from Onslow St Audrey's, Bishop's Hatfield Girls', Ridgeway Academy and schools across Welwyn Hatfield, and the child we hear about is often bright, trying hard and stuck. The first lesson usually looks backwards. The tutor works out where things went wrong, six months or two years ago, and the quickest way back from there. Once that's clear, the plan more or less writes itself."
 about_heading: "GCSE and A-Level Tutors Covering Hatfield"
 about_image: /images/group-study-discussion-with-laptop.jpg
 schools_intro: "Parents get in touch from secondary schools all over Hatfield and the wider Welwyn Hatfield borough, including Onslow St Audrey's School, The Bishop's Hatfield Girls' School, Ridgeway Academy, Stanborough School and Monk's Walk School. Some children are pushing for strong GCSE grades, and others are building a steady base for sixth form or Oaklands College. We also run exam technique workshops in schools, and more than 15 UK secondary schools work with us directly."
@@ -23,7 +23,7 @@ online_1: "Because every lesson happens online, on the platform Lessonspace, we 
 online_2: "School nights get easier too. Nobody's in the car, so lessons slot in around rugby, music lessons and whatever homework's still waiting. Every lesson has a replay, so your child can rewatch the part that didn't quite land. And getting used to Lessonspace takes about a minute."
 online_image: /images/online-study-workspace-with-coffee.jpg
 map_url: "https://maps.google.com/maps?q=Hatfield,UK&output=embed"
-areas_intro: "Hatfield, Welwyn Garden City or one of the villages in between: it makes no difference when every lesson's online. We help families in these towns as well."
+areas_intro: "Hatfield, Welwyn Garden City or one of the villages in between: it makes no difference when every lesson's online. We can help families in these towns as well."
 area_links:
   - Welwyn Garden City Tutors|/locations/welwyn-garden-city-tutors/
   - St Albans Tutors|/locations/st-albans-tutors/

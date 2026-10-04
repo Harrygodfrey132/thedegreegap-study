@@ -11,7 +11,7 @@ hero_lead: "When your child's mock grade comes home lower than you expected, the
 
 grade_from: "5"
 grade_to: "6/7"
-grade_stat: "Omo says six months of tutoring took their son from a grade 5 to a 6/7 in English."
+grade_stat: "Omo says six months of tutoring took her son from a grade 5 to a 6/7 in English."
 
 first_lesson_eyebrow: "FROM DISENGAGED TO A 6/7"
 first_lesson_heading: "Where a Norwich GCSE Tutor Starts, and Why"

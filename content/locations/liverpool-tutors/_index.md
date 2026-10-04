@@ -24,7 +24,7 @@ online_1: "Liverpool's a big university city, so finding a tutor sounds easy. Fi
 online_2: "Lessons happen in the online classroom Lessonspace. Your child and the tutor share a whiteboard, which Maths and Science tutors use all the time, and there's a replay of every lesson afterwards. Most children have got the hang of it within one lesson. And there's no driving across town, so it's easy to keep lessons going through mock season and the school holidays, right up to the exams."
 online_image: /images/student-studying-at-night-with-laptop.jpg
 map_url: https://maps.google.com/maps?q=Liverpool,UK&output=embed
-areas_intro: "Lessons are online, so a family in Wavertree has the same pick of tutors as one in Woolton or on the Wirral. We help families in these cities too."
+areas_intro: "Lessons are online, so a family in Wavertree has the same pick of tutors as one in Woolton or on the Wirral. We can help families in these cities too."
 area_links:
   - Manchester Tutors|/locations/manchester-tutors/
   - Leeds Tutors|/locations/leeds-tutors/

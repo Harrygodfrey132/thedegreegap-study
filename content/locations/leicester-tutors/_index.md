@@ -10,7 +10,7 @@ intro_1: "Your child has plans. Maybe it's a particular sixth form, maybe it's u
 intro_2: "We match Leicester families with tutors who know what the local sixth forms ask for, and what it takes to get there. One-to-one is where the real problem shows up. It might be a gap in the basics from a couple of years back that got quietly skipped over. Or your child knows the subject but has never been shown how to answer exam questions the way the mark scheme rewards. Whatever the cause, a weekly lesson gives your child the time and attention a full classroom can't always give."
 about_heading: Private Tutors Serving Leicester Families
 about_image: /images/graduation-ceremony-caps.jpg
-schools_intro: "Leicester families come to us from schools all over the city, often with a particular sixth form in mind. Your child might be at Rushey Mead Academy, Crown Hills Community College or Soar Valley College. Or Judgemeadow Community College, Babington Community College, City of Leicester College, or somewhere else entirely. We also run revision workshops on exam technique and planning study time, open to pupils from any Leicester school."
+schools_intro: "We can work with Leicester families from schools all over the city, whatever sixth form your child has in mind. Your child might be at Rushey Mead Academy, Crown Hills Community College or Soar Valley College. Or Judgemeadow Community College, Babington Community College, City of Leicester College, or somewhere else entirely. We also run revision workshops on exam technique and planning study time, open to pupils from any Leicester school."
 schools:
   - Rushey Mead Academy
   - Crown Hills Community College

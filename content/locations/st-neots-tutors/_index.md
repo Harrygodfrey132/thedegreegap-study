@@ -18,7 +18,7 @@ online_1: "If your child ends up at Hinchingbrooke, a Cambridge sixth form colle
 online_2: "Being online widens the choice, too. The tutor best suited to your child's exam board and set texts might live in Leeds or Exeter, and that's fine. During the lesson, your child works on a shared online whiteboard while the tutor watches each line of working appear. Every lesson's recorded, so a tricky method can be replayed before a test. Afterwards, the tutor sends you a short note on what they covered and what's coming next."
 online_image: "/images/online-study-workspace-with-coffee.jpg"
 map_url: "https://maps.google.com/maps?q=St+Neots,UK&output=embed"
-areas_intro: "Whether you're in Eaton Socon, Eaton Ford, Eynesbury, Love's Farm, Wintringham or a village outside town, lessons work exactly the same. We help families in these nearby towns too."
+areas_intro: "Whether you're in Eaton Socon, Eaton Ford, Eynesbury, Love's Farm, Wintringham or a village outside town, lessons work exactly the same. We can help families in these nearby towns too."
 area_links: ["Cambridge Tutors|/locations/cambridge-tutors/", "Royston Tutors|/locations/royston-tutors/", "Baldock Tutors|/locations/baldock-tutors/", "Letchworth Tutors|/locations/letchworth-tutors/", "Hitchin Tutors|/locations/hitchin-tutors/", "Peterborough Tutors|/locations/peterborough-tutors/"]
 gcse_subjects: [
   "GCSE Physics Tuition|Equations rearranged and units converted calmly, until the longer, multi-step calculations feel doable.|/book-a-call/",

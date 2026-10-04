@@ -10,7 +10,7 @@ intro_1: "It often starts with something small. Another parent mentions a mock r
 intro_2: "Talking to us costs nothing. You book a free call with one of us, Harry or Joe, and tell us about your child and what's been going on. Within a day we'll send two or three tutor profiles to read. Your child then meets the one you pick on a free video call, before anything's booked. Lessons are weekly and online, from £37 an hour, with no contract. If your child doesn't get on with their tutor, we'll find a different one at no charge."
 about_heading: Private Tutors Serving Epsom Families
 about_image: /images/university-library-study-hall.jpg
-schools_intro: "Epsom families come to us from Glyn, Rosebery, Blenheim High School, Epsom and Ewell High School, St Andrew's Catholic School and Epsom College. Boards can differ from school to school, even for the same subject, so we'll check which ones your child sits and match on that. Harry and Joe also lead revision and exam technique workshops in schools. More than 15 UK secondary schools work with us directly as well."
+schools_intro: "We can work with Epsom families from Glyn, Rosebery, Blenheim High School, Epsom and Ewell High School, St Andrew's Catholic School and Epsom College. Boards can differ from school to school, even for the same subject, so we'll check which ones your child sits and match on that. Harry and Joe also lead revision and exam technique workshops in schools. More than 15 UK secondary schools work with us directly as well."
 schools:
   - Epsom College
   - Glyn School

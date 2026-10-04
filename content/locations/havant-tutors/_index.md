@@ -10,7 +10,7 @@ intro_1: "Ask a Year 10 what they'd like to do after their GCSEs and you'll ofte
 intro_2: "So we start with the subjects that count whichever way your child goes. Maths and English sit underneath almost every course at the college, academic or technical, so an hour a week on either is never wasted. Before any of that, you'll have a free call with one of us, Harry or Joe, the co-founders. We'll ask what your child enjoys, what's feeling hard and which way they're leaning, even if the answer is 'no idea'. Within 24 hours of the call you'll have profiles of two or three tutors to choose from."
 about_heading: "Online Tutors Covering Havant"
 about_image: "/images/students-in-classroom-taking-notes.jpg"
-schools_intro: "Families come to us from Park Community School, Warblington School, Havant Academy, Crookhorn College and Oaklands Catholic School. We work with students at Havant and South Downs College too, on both campuses, including anyone finding the step up from GCSE steep. And we run revision and exam technique workshops for groups of students, on request."
+schools_intro: "We can work with families from Park Community School, Warblington School, Havant Academy, Crookhorn College and Oaklands Catholic School. We can help students at Havant and South Downs College too, on both campuses, including anyone finding the step up from GCSE steep. And we run revision and exam technique workshops for groups of students, on request."
 schools: ["Park Community School", "Warblington School", "Havant Academy", "Crookhorn College", "Oaklands Catholic School", "Havant and South Downs College"]
 schools_image: "/images/students-listening-in-classroom.jpg"
 online_heading: "Online tutoring for Havant families, with one less bus to catch"
@@ -18,7 +18,7 @@ online_1: "Your child logs in from home and works with the tutor on Lessonspace,
 online_2: "For a lot of families here, the school day already means a bus, especially from Hayling Island, Emsworth or Waterlooville. Nobody needs another trip on top. Online, the lesson happens at home after tea. It also means we can pick from tutors across the UK who know your child's exam board, not just whoever lives nearest. At A-Level, that matters even more."
 online_image: "/images/child-using-online-learning-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Havant,UK&output=embed"
-areas_intro: "Wherever you are in south east Hampshire, lessons work exactly the same way, and we help families in the towns below too."
+areas_intro: "Wherever you are in south east Hampshire, lessons work exactly the same way, and we can help families in the towns below too."
 area_links: ["Portsmouth Tutors|/locations/portsmouth-tutors/", "Fareham Tutors|/locations/fareham-tutors/", "Winchester Tutors|/locations/winchester-tutors/", "Southampton Tutors|/locations/southampton-tutors/", "Basingstoke Tutors|/locations/basingstoke-tutors/", "Brighton Tutors|/locations/brighton-tutors/"]
 gcse_subjects: [
   "GCSE Maths Tuition|Needed on both campuses, so the tutor finds where it first stopped making sense and rebuilds calmly from there.|/book-a-call/",

@@ -18,7 +18,7 @@ angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"
 angle_image_alt: "A hand writing on lined paper with a black and gold pen, next to printed notes marked with yellow and pink highlighters"
 angle_stat_from: "5"
 angle_stat_to: "6/7"
-angle_stat_detail: "In a Google review, Omo describes a Year 10 son who moved from a 5 to a 6/7 in English, helped by methods that suit his mathematical mind. He now looks forward to his lessons."
+angle_stat_detail: "In a Google review, Omo describes her Year 10 son, who moved from a 5 to a 6/7 in English, helped by methods that suit his mathematical mind. He now looks forward to his lessons."
 
 schools:
   - "Court Moor School"

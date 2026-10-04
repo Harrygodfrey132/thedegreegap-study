@@ -22,7 +22,7 @@ first_lesson_quote_role: "Parent of A-Level Student"
 first_lesson_quote_grade: "Almost two grades up on a Year 13 mock"
 
 tutor_strip_heading: "A-Level tutors who know the pace of a Harrow sixth form"
-tutor_strip_body: "Families come to us from the Harrow Collegiate sixth forms, St Dominic's and the independents on the hill, and those schools don't all use the same exam boards. Our tutors know which Year 12 topics Year 13 builds on. Take a look, or we'll suggest two or three."
+tutor_strip_body: "We can work with families from the Harrow Collegiate sixth forms, St Dominic's and the independents on the hill, and those schools don't all use the same exam boards. Our tutors know which Year 12 topics Year 13 builds on. Take a look, or we'll suggest two or three."
 
 pathways_heading: "After A-Levels: The Options Close to Harrow"
 pathways_lead: "The three options Harrow families usually start talking through in the spring of Year 12."

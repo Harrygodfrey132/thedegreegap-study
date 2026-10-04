@@ -18,7 +18,7 @@ online_1: "Because lessons are online, we're not limited to whoever lives within
 online_2: "There's no car involved either, so a weekly lesson fits into a school night without taking over the evening. It's also easier to keep the same tutor right through Year 10 and 11 when nobody's relying on a lift. And every lesson is saved, so your child can replay a tricky explanation the week before a mock, which plenty of them do."
 online_image: "/images/child-using-online-learning-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Tamworth,UK&output=embed"
-areas_intro: "Lessons work exactly the same anywhere in south Staffordshire or out on the north Birmingham edge, and we help families in these nearby towns too."
+areas_intro: "Lessons work exactly the same anywhere in south Staffordshire or out on the north Birmingham edge, and we can help families in these nearby towns too."
 area_links: ["Sutton Coldfield Tutors|/locations/sutton-coldfield-tutors/", "Birmingham Tutors|/locations/birmingham-tutors/", "Solihull Tutors|/locations/solihull-tutors/", "Coventry Tutors|/locations/coventry-tutors/", "Derby Tutors|/locations/derby-tutors/", "Wolverhampton Tutors|/locations/wolverhampton-tutors/"]
 gcse_subjects: [
   "GCSE Maths Tuition|Often the highest bar at sixth form, so shaky topics from earlier years get mended while there's time.|/book-a-call/",

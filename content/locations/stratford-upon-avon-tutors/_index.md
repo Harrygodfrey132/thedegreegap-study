@@ -18,7 +18,7 @@ online_1: "A lesson in town at six o'clock can mean a second trip in for whoever
 online_2: "Lessonspace, the platform we use, is a bit like a shared notebook on screen, so each step of the working is visible as it goes down. Every lesson is saved as a replay for revision later. Most children feel at home with it within a lesson or so. And because nobody's driving, we can choose from tutors all over the UK, not just the handful within reach of Stratford."
 online_image: "/images/student-studying-at-night-with-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Stratford-upon-Avon,UK&output=embed"
-areas_intro: "From Wellesbourne to Shipston, an online lesson works just as it does in town. We help families in these towns too."
+areas_intro: "From Wellesbourne to Shipston, an online lesson works just as it does in town. We can help families in these towns too."
 area_links: ["Warwick Tutors|/locations/warwick-tutors/", "Royal Leamington Spa Tutors|/locations/royal-leamington-spa-tutors/", "Coventry Tutors|/locations/coventry-tutors/", "Worcester Tutors|/locations/worcester-tutors/", "Birmingham Tutors|/locations/birmingham-tutors/", "Oxford Tutors|/locations/oxford-tutors/"]
 gcse_subjects: [
   "GCSE Maths Tuition|One topic a week, taken slowly, with the worked examples on the replay for when homework gets tricky.|/book-a-call/",

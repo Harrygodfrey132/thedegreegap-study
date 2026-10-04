@@ -22,7 +22,7 @@ first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B in GCSE"
 
 tutor_strip_heading: "Chelmsford GCSE tutors for the grammars and the comprehensives alike"
-tutor_strip_body: "Families come to us from KEGS and County High, and from The Boswells, Great Baddow High and Moulsham High. We match on subject and exam board first, so your child's tutor knows the course their school follows. Browse a few profiles, or let us choose."
+tutor_strip_body: "We can work with families from KEGS and County High, and from The Boswells, Great Baddow High and Moulsham High. We match on subject and exam board first, so your child's tutor knows the course their school follows. Browse a few profiles, or let us choose."
 
 pathways_heading: "The Routes Chelmsford Year 11s Weigh Up Next"
 pathways_lead: "After results day, most Chelmsford teenagers go one of three ways. It helps to know which way your child's leaning before the mocks take over."

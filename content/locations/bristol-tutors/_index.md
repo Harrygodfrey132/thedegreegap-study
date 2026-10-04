@@ -24,7 +24,7 @@ online_1: "Bristol's a city of distinct neighbourhoods, and crossing it for a tu
 online_2: "Most Bristol children are used to it within a lesson or two. With nobody travelling, it's easy to keep lessons weekly, and that regular hour is what moves things. Because we pick from tutors across the UK, we can match on subject, exam board and the way your child learns, not the postcode. Has your child got a particular sixth form in mind, or a university application that rests on predicted grades? Then that match counts for a lot."
 online_image: /images/child-using-online-learning-laptop.jpg
 map_url: https://maps.google.com/maps?q=Bristol,UK&output=embed
-areas_intro: "Because every lesson's online, it makes no difference whether you're in Clifton, Cotham or out towards Filton, and we help families in the places below as well."
+areas_intro: "Because every lesson's online, it makes no difference whether you're in Clifton, Cotham or out towards Filton, and we can help families in the places below as well."
 area_links:
   - Swindon Tutors|/locations/swindon-tutors/
   - Reading Tutors|/locations/reading-tutors/

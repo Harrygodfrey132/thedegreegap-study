@@ -10,7 +10,7 @@ intro_1: "If your child comes home talking about becoming an engineer, you're in
 intro_2: "A tutor starts somewhere different from a classroom: with what your child actually knows, not where the syllabus says they should be. If they're working towards Landau Forte College's entry requirements, or hoping to take science and engineering on to sixth form and beyond, the job is building solid ground under that ambition. The tutor finds the exact point where understanding slipped, fixes it, and builds forward from there."
 about_heading: Tutors Who Know What Derby Students Need
 about_image: /images/graduation-ceremony-caps.jpg
-schools_intro: "Whichever Derby school your child is at, the tutor plans around their gaps and target grades, not the order the textbook goes in. Families come to us from Littleover Community School, Allestree Woodlands School, Murray Park School, St Benedict Catholic School, Landau Forte Academy and Noel-Baker Academy, among plenty of others. We also run workshops on exam technique and revision planning, open to students from any local school."
+schools_intro: "Whichever Derby school your child is at, the tutor plans around their gaps and target grades, not the order the textbook goes in. We can work with families from Littleover Community School, Allestree Woodlands School, Murray Park School, St Benedict Catholic School, Landau Forte Academy and Noel-Baker Academy, and plenty of others. We also run workshops on exam technique and revision planning, open to students from any local school."
 schools:
   - Littleover Community School
   - Allestree Woodlands School
@@ -24,7 +24,7 @@ online_1: "Lessons all take place on the platform Lessonspace, which has an inte
 online_2: "Most Derby children settle in quickly. It isn't a video they sit back and watch. In Maths and the Sciences, your child and the tutor work through problems together on the shared whiteboard, in real time. Parents find it easier to keep lessons going all through term, and that steadiness matters more than most families expect before they start."
 online_image: /images/child-using-online-learning-laptop.jpg
 map_url: https://maps.google.com/maps?q=Derby,UK&output=embed
-areas_intro: "We help families in every part of Derby, Mickleover to Chellaston, and in the nearby cities below too."
+areas_intro: "We can help families in every part of Derby, Mickleover to Chellaston, and in the nearby cities below too."
 area_links:
   - Nottingham Tutors|/locations/nottingham-tutors/
   - Leicester Tutors|/locations/leicester-tutors/

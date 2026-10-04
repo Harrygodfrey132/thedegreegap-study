@@ -18,7 +18,7 @@ first_lesson_quote_name: "Keira"
 first_lesson_quote_role: "GCSE Student"
 first_lesson_quote_grade: "Grade E to Grade B"
 tutor_strip_heading: "Milton Keynes GCSE tutors who know the Denbigh and Oakgrove sixth form bar"
-tutor_strip_body: "We work with families from Denbigh, Oakgrove, Walton High, Shenley Brook End and plenty of other MK schools. The Prestige Awards named us GCSE Tutoring Specialists of the Year in 2025 and again in 2026. Browse the tutors below, or let us pick two or three for your child."
+tutor_strip_body: "We can work with families from Denbigh, Oakgrove, Walton High, Shenley Brook End and plenty of other MK schools. The Prestige Awards named us GCSE Tutoring Specialists of the Year in 2025 and again in 2026. Browse the tutors below, or let us pick two or three for your child."
 pathways_heading: "Where Milton Keynes Year 11s Can Go After Results Day"
 pathways_lead: "Most Milton Keynes families end up weighing three routes, and each has its own entry grades."
 pathways:

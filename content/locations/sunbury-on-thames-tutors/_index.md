@@ -18,7 +18,7 @@ online_1: "Your child's lessons happen online, one-to-one, on a platform called 
 online_2: "Each lesson is recorded, so your child can replay the ten minutes on circle theorems on a Sunday afternoon instead of trying to remember them. Because it's online, we're choosing from tutors across the UK, not just whoever has a free slot nearby, so the tutor we suggest will know your child's exam board. Most children stop noticing the screen after a lesson or two."
 online_image: "/images/online-study-workspace-with-coffee.jpg"
 map_url: "https://maps.google.com/maps?q=Sunbury-on-Thames,UK&output=embed"
-areas_intro: "Whether you're in another corner of Spelthorne or one of the Surrey towns nearby, lessons happen at home in just the same way, and we help families in the towns below too."
+areas_intro: "Whether you're in another corner of Spelthorne or one of the Surrey towns nearby, lessons happen at home in just the same way, and we can help families in the towns below too."
 area_links: ["Guildford Tutors|/locations/guildford-tutors/", "Epsom Tutors|/locations/epsom-tutors/", "London Tutors|/locations/london-tutors/", "Reading Tutors|/locations/reading-tutors/", "Winchester Tutors|/locations/winchester-tutors/", "Oxford Tutors|/locations/oxford-tutors/"]
 gcse_subjects: [
   "GCSE Maths Tuition|Longer problem-solving questions, practised under time until your child stops leaving the working half-finished.|/book-a-call/",

@@ -10,7 +10,7 @@ intro_1: "You can hear it through the bedroom door. Hours of revision, highlight
 intro_2: "That's usually very fixable, and it's what a weekly hour with the right tutor is good at. The first step is a free call where Harry or Joe, who founded The Degree Gap, gets to know you and your child. Within 24 hours you'll have 2 or 3 tutor profiles, and a free video meeting lets your child meet the tutor before anything's booked. Lessons are from £37 an hour, with no contract."
 about_heading: "Personalised GCSE and A-Level Tutoring for Guildford Students"
 about_image: "/images/university-lecture-hall.jpg"
-schools_intro: "During the school day, Harry and Joe are often in classrooms themselves, running revision and exam technique workshops. After school, tutors on our platform teach children from right across Guildford, including the Royal Grammar School, Guildford High, Tormead, George Abbot, St Peter's and Guildford County. Exam boards vary between them, so we match tutors to the papers your child is actually sitting."
+schools_intro: "During the school day, Harry and Joe are often in classrooms themselves, running revision and exam technique workshops. After school, tutors on our platform can teach children from right across Guildford, including the Royal Grammar School, Guildford High, Tormead, George Abbot, St Peter's and Guildford County. Exam boards vary between them, so we match tutors to the papers your child is actually sitting."
 schools: ["Royal Grammar School Guildford", "Guildford High School for Girls", "Tormead School", "George Abbot School", "St Peter's Catholic School", "Guildford County School"]
 schools_image: "/images/aerial-school-campus-building.jpg"
 online_heading: "Online tutoring where the tutor watches each answer"

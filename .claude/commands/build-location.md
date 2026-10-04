@@ -547,7 +547,7 @@ Every option contains "tutor" or "tutoring" and the location name. Do not strip 
 
 ### Trusted by Schools (ORIGINAL per page)
 
-Search for real secondary schools in the location. Populate the `schools` array with 6 real school names. Write `schools_intro` as 2-3 sentences using one of the angles below, rotate, never always lead with the same one:
+Search for real secondary schools in the location. Populate the `schools` array with 6 real school names. Say we **can** work with families at these schools, never that we already do or that families come to us from them (Harry, 4 Oct 2026): we can't confirm which schools current families attend. Write `schools_intro` as 2-3 sentences using one of the angles below, rotate, never always lead with the same one:
 
 1. **Selective school focus**, Lead with grammar or independent schools in the area and what students there are aiming for. Mention workshops naturally at the end.
 2. **State school diversity**, Lead with the range of local state schools and the variety of needs students arrive with. Weave the workshop offer in.

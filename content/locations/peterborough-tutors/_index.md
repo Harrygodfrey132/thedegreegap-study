@@ -15,7 +15,7 @@ intro_1: "Maybe it's Maths homework where the easy-looking questions are the one
 intro_2: "A tutor has time to go back for it. In the first lesson they'll look at a recent test or piece of homework and follow the mistakes back to where they start. It might be negative numbers, or a bit of algebra from two years ago. That's where the tutoring begins, even if it feels like a step backwards with GCSEs or A-Levels coming up. Once the old gap is filled, this term's topics tend to make far more sense."
 about_heading: Trusted Tutors for Peterborough Students
 about_image: /images/students-in-classroom-taking-notes.jpg
-schools_intro: "We work with families from schools across Peterborough, including Hampton College, Jack Hunt, Thomas Deacon Academy, Nene Park Academy, Ormiston Bushfield and The King's School. If your child is hoping for a place at Peterborough College or Stamford College, it helps to know early which grades their course asks for. Then there's time to work towards them. Harry and Joe run workshops on exam technique and revision in schools, too. And at the moment we work directly with more than 15 UK secondary schools."
+schools_intro: "We can work with families from schools across Peterborough, including Hampton College, Jack Hunt, Thomas Deacon Academy, Nene Park Academy, Ormiston Bushfield and The King's School. If your child is hoping for a place at Peterborough College or Stamford College, it helps to know early which grades their course asks for. Then there's time to work towards them. Harry and Joe run workshops on exam technique and revision in schools, too. And at the moment we work directly with more than 15 UK secondary schools."
 schools:
   - Hampton College
   - Jack Hunt School

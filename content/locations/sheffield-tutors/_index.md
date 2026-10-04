@@ -10,7 +10,7 @@ intro_1: "Ask a Sheffield parent of a Year 11 what's on their mind and it's ofte
 intro_2: "A tutor doesn't replace school. What they add is what a class of thirty can't: time, their full attention, and the chance for your child to ask the same question three times until it clicks. A lot of the Sheffield families who come to us have a capable child at a good school who's putting the work in, and the grades still don't show what they know. If there's a sixth form place in the balance, that weekly hour can count for a lot."
 about_heading: The Sheffield Tutors Who Get Results
 about_image: /images/graduation-ceremony-caps.jpg
-schools_intro: "High Storrs, King Ecgbert, Tapton, Notre Dame High, Silverdale, Meadowhead: we work with families from all of them, and from schools right across Sheffield. Some are after a sixth form place, some want strong A-Level results, and plenty just want the stress at home to come down a notch. We also run exam preparation and revision workshops that any Sheffield student can join, whichever school they're at."
+schools_intro: "High Storrs, King Ecgbert, Tapton, Notre Dame High, Silverdale, Meadowhead: we can work with families from all of them, and from schools right across Sheffield. Some will be after a sixth form place, some want strong A-Level results, and plenty just want the stress at home to come down a notch. We also run exam preparation and revision workshops that any Sheffield student can join, whichever school they're at."
 schools:
   - High Storrs School
   - King Ecgbert School
@@ -24,7 +24,7 @@ online_1: "Your child works with the tutor on the platform Lessonspace: a shared
 online_2: "Regular lessons are what move grades, and online makes that rhythm much easier to keep. No travel, no rearranging around the school run, no missed weeks. If your child has a lesson every week for a term, you'll usually see a change. And not just in the marks, but in how they feel walking into the exam."
 online_image: /images/student-studying-at-night-with-laptop.jpg
 map_url: https://maps.google.com/maps?q=Sheffield,UK&output=embed
-areas_intro: "It's the same online lesson whether you're in Ecclesall, Hillsborough or Nether Edge, and we work with families in the nearby places below too."
+areas_intro: "It's the same online lesson whether you're in Ecclesall, Hillsborough or Nether Edge, and we can work with families in the nearby places below too."
 area_links:
   - Leeds Tutors|/locations/leeds-tutors/
   - Manchester Tutors|/locations/manchester-tutors/

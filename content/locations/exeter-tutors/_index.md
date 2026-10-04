@@ -10,7 +10,7 @@ intro_1: "Somewhere in Year 11, the talk at home turns to what's next. Which A-L
 intro_2: "A tutor can help on both sides of that step. In Years 10 and 11, it's the GCSE grades your child needs for the courses they want. In Year 12, it's finding their feet at A-Level before anything slips. You'd start with a free call with Harry or Joe, our founders. They'll talk it through with you, then send two or three tutor profiles within 24 hours. Your child has a free video meeting with whichever tutor you prefer, and lessons cost from £37 an hour, with no contract to sign."
 about_heading: Personalised GCSE and A-Level Tutoring for Exeter Students
 about_image: /images/university-lecture-hall.jpg
-schools_intro: "We work with families from Exeter School, The Maynard School, St Peter's CofE Aided School, Isca Academy, St Luke's Science & Sports College and West Exe School, and from well outside the city too. Wherever your child is, we'll check the exam board first, since AQA and Edexcel papers don't ask for quite the same things. When they're not on calls with parents, Harry and Joe are usually in schools, leading revision and exam technique sessions."
+schools_intro: "We can work with families from Exeter School, The Maynard School, St Peter's CofE Aided School, Isca Academy, St Luke's Science & Sports College and West Exe School, and from well outside the city too. Wherever your child is, we'll check the exam board first, since AQA and Edexcel papers don't ask for quite the same things. When they're not on calls with parents, Harry and Joe are usually in schools, leading revision and exam technique sessions."
 schools:
   - Exeter School
   - The Maynard School

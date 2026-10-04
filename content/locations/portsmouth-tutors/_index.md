@@ -24,7 +24,7 @@ online_1: "Every lesson is online, and that opens things up. The tutor who best 
 online_2: "It's also easier to keep going. Nobody's cancelling because of traffic or rain, and a lesson doesn't swallow the whole evening. A lot of children focus better at home, one-to-one, than you'd expect. Families who've tried both usually tell us online works at least as well. Often better."
 online_image: /images/child-using-online-learning-laptop.jpg
 map_url: https://maps.google.com/maps?q=Portsmouth,UK&output=embed
-areas_intro: "Southsea or Cosham, Havant or Gosport: it doesn't matter where you are, because every lesson's online. We help families in these places too."
+areas_intro: "Southsea or Cosham, Havant or Gosport: it doesn't matter where you are, because every lesson's online. We can help families in these places too."
 area_links:
   - Southampton Tutors|/locations/southampton-tutors/
   - Brighton Tutors|/locations/brighton-tutors/
