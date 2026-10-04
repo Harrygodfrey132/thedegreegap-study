@@ -26,12 +26,12 @@ online_image: /images/online-study-workspace-with-coffee.jpg
 map_url: https://maps.google.com/maps?q=Baldock,UK&output=embed
 areas_intro: "Lessons work just as well from Letchworth, Hitchin or the villages around Baldock. If you're further afield, we cover the towns listed below as well."
 area_links:
-  - St Albans Tutors|/locations/st-albans-tutors/
-  - Cambridge Tutors|/locations/cambridge-tutors/
-  - Watford Tutors|/locations/watford-tutors/
-  - Aylesbury Tutors|/locations/aylesbury-tutors/
-  - Peterborough Tutors|/locations/peterborough-tutors/
-  - Reading Tutors|/locations/reading-tutors/
+  - "Letchworth Tutors|/locations/letchworth-tutors/"
+  - "Royston Tutors|/locations/royston-tutors/"
+  - "St Albans Tutors|/locations/st-albans-tutors/"
+  - "Cambridge Tutors|/locations/cambridge-tutors/"
+  - "Watford Tutors|/locations/watford-tutors/"
+  - "Peterborough Tutors|/locations/peterborough-tutors/"
 gcse_subjects:
   - "GCSE Chemistry Tuition|Mole calculations and balancing equations, taken back to the maths underneath, which is often where the trouble began.|/book-a-call/"
   - "GCSE English Tuition|What the question is really asking comes first, then how to read an unseen extract without panicking.|/book-a-call/"

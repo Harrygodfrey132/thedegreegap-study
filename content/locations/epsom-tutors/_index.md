@@ -26,12 +26,12 @@ online_image: /images/online-study-workspace-with-coffee.jpg
 map_url: https://maps.google.com/maps?q=Epsom,UK&output=embed
 areas_intro: "Every family in and around Epsom gets the same online lessons. So do families in the other towns we cover, including the ones below."
 area_links:
-  - Reading Tutors|/locations/reading-tutors/
-  - Brighton Tutors|/locations/brighton-tutors/
-  - Watford Tutors|/locations/watford-tutors/
-  - St Albans Tutors|/locations/st-albans-tutors/
-  - Tunbridge Wells Tutors|/locations/tunbridge-wells-tutors/
-  - Oxford Tutors|/locations/oxford-tutors/
+  - "Esher Tutors|/locations/esher-tutors/"
+  - "Reading Tutors|/locations/reading-tutors/"
+  - "Brighton Tutors|/locations/brighton-tutors/"
+  - "Watford Tutors|/locations/watford-tutors/"
+  - "St Albans Tutors|/locations/st-albans-tutors/"
+  - "Tunbridge Wells Tutors|/locations/tunbridge-wells-tutors/"
 gcse_subjects:
   - "GCSE Chemistry Tuition|The calculation questions your child dreads, from moles to balancing equations, taken one worked line at a time.|/book-a-call/"
   - "GCSE Maths Tuition|Algebra and ratio rebuilt at your child's speed, with every lesson ending on questions they got right on their own.|/book-a-call/"

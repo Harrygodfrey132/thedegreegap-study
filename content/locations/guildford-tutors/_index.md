@@ -19,7 +19,7 @@ online_2: "If the way into a six-mark question finally clicks on a Tuesday, your
 online_image: "/images/student-studying-at-night-with-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Guildford,UK&output=embed"
 areas_intro: "Wherever you are in and around Guildford, your child's tutor is only a click away. Families in these towns get the same."
-area_links: ["Epsom Tutors|/locations/epsom-tutors/", "Reading Tutors|/locations/reading-tutors/", "Brighton Tutors|/locations/brighton-tutors/", "Winchester Tutors|/locations/winchester-tutors/", "Tunbridge Wells Tutors|/locations/tunbridge-wells-tutors/", "Oxford Tutors|/locations/oxford-tutors/"]
+area_links: ["Godalming Tutors|/locations/godalming-tutors/", "Farnham Tutors|/locations/farnham-tutors/", "Epsom Tutors|/locations/epsom-tutors/", "Reading Tutors|/locations/reading-tutors/", "Brighton Tutors|/locations/brighton-tutors/", "Winchester Tutors|/locations/winchester-tutors/"]
 gcse_subjects: [
   "GCSE Maths Tuition|Method marks picked up by showing working clearly, so one slip near the end doesn't cost the whole question.|/book-a-call/",
   "GCSE Chemistry Tuition|Calculations set out line by line, and a habit of checking what each question is really asking before writing.|/book-a-call/",

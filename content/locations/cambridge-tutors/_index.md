@@ -26,12 +26,12 @@ online_image: /images/online-study-workspace-with-coffee.jpg
 map_url: https://maps.google.com/maps?q=Cambridge,UK&output=embed
 areas_intro: "Every lesson is online, so families in the villages around Cambridge get the same tutors as families in the city. We also cover the cities below."
 area_links:
-  - Norwich Tutors|/locations/norwich-tutors/
-  - Oxford Tutors|/locations/oxford-tutors/
-  - Reading Tutors|/locations/reading-tutors/
-  - Nottingham Tutors|/locations/nottingham-tutors/
-  - Leeds Tutors|/locations/leeds-tutors/
-  - Bristol Tutors|/locations/bristol-tutors/
+  - "Royston Tutors|/locations/royston-tutors/"
+  - "St Neots Tutors|/locations/st-neots-tutors/"
+  - "Norwich Tutors|/locations/norwich-tutors/"
+  - "Oxford Tutors|/locations/oxford-tutors/"
+  - "Reading Tutors|/locations/reading-tutors/"
+  - "Nottingham Tutors|/locations/nottingham-tutors/"
 gcse_subjects:
   - "GCSE Physics Tuition|Forces, energy and electricity, with lots of practice turning what your child understands into the marks a sixth form offer needs.|/book-a-call/"
   - "GCSE English Tuition|Clear, well-argued essays for Language and Literature, built up from your child's current grade, whether that's a 4 or a 6.|/book-a-call/"

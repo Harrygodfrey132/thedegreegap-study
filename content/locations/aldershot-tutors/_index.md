@@ -19,7 +19,7 @@ online_2: "Every lesson is recorded, too. If a method from the old school needs 
 online_image: "/images/child-using-online-learning-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Aldershot,UK&output=embed"
 areas_intro: "Lessons work the same way anywhere in north Hampshire or west Surrey, or wherever the next move takes you. Here are some nearby towns we also cover."
-area_links: ["Farnborough Tutors|/locations/farnborough-tutors/", "Basingstoke Tutors|/locations/basingstoke-tutors/", "Guildford Tutors|/locations/guildford-tutors/", "Winchester Tutors|/locations/winchester-tutors/", "Reading Tutors|/locations/reading-tutors/", "Fareham Tutors|/locations/fareham-tutors/"]
+area_links: ["Farnborough Tutors|/locations/farnborough-tutors/", "Farnham Tutors|/locations/farnham-tutors/", "Fleet Tutors|/locations/fleet-tutors/", "Basingstoke Tutors|/locations/basingstoke-tutors/", "Guildford Tutors|/locations/guildford-tutors/", "Winchester Tutors|/locations/winchester-tutors/"]
 gcse_subjects: [
   "GCSE Maths Tuition|Algebra taught one way at the old school and another way at the new one, settled into a single method your child trusts.|/book-a-call/",
   "GCSE English Tuition|New set texts after a move, caught up on quickly, with a handful of key quotations learnt for each one.|/book-a-call/",

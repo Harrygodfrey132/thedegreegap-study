@@ -32,12 +32,12 @@ map_url: https://maps.google.com/maps?q=Peterborough,UK&output=embed
 areas_intro: Lessons happen online, so families outside Peterborough can reach us
   just as easily, including from the towns and cities listed below.
 area_links:
-  - Cambridge Tutors|/locations/cambridge-tutors/
-  - Leicester Tutors|/locations/leicester-tutors/
-  - Nottingham Tutors|/locations/nottingham-tutors/
-  - Norwich Tutors|/locations/norwich-tutors/
-  - St Albans Tutors|/locations/st-albans-tutors/
-  - Derby Tutors|/locations/derby-tutors/
+  - "Cambridge Tutors|/locations/cambridge-tutors/"
+  - "St Neots Tutors|/locations/st-neots-tutors/"
+  - "Leicester Tutors|/locations/leicester-tutors/"
+  - "Nottingham Tutors|/locations/nottingham-tutors/"
+  - "Norwich Tutors|/locations/norwich-tutors/"
+  - "St Albans Tutors|/locations/st-albans-tutors/"
 gcse_subjects:
   - "GCSE Biology Tuition|When the sheer amount to learn is the problem, the tutor breaks it into small pieces and checks each one sticks.|/book-a-call/"
   - "GCSE Maths Tuition|Mistakes traced back to the year they begin, then rebuilt so the same type of question stops going wrong.|/book-a-call/"

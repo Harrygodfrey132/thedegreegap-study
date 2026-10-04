@@ -19,7 +19,7 @@ online_2: "Stevenage is well connected, but a school-night drive to someone's ho
 online_image: "/images/child-using-online-learning-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Stevenage,UK&output=embed"
 areas_intro: "It's all online, so it makes no odds whether you're in Stevenage itself or out towards Baldock. Other nearby towns we help are listed below."
-area_links: ["Baldock Tutors|/locations/baldock-tutors/", "St Albans Tutors|/locations/st-albans-tutors/", "Watford Tutors|/locations/watford-tutors/", "Welwyn Garden City Tutors|/locations/welwyn-garden-city-tutors/", "Hemel Hempstead Tutors|/locations/hemel-hempstead-tutors/", "Cambridge Tutors|/locations/cambridge-tutors/"]
+area_links: ["Baldock Tutors|/locations/baldock-tutors/", "Letchworth Tutors|/locations/letchworth-tutors/", "St Albans Tutors|/locations/st-albans-tutors/", "Watford Tutors|/locations/watford-tutors/", "Welwyn Garden City Tutors|/locations/welwyn-garden-city-tutors/", "Hemel Hempstead Tutors|/locations/hemel-hempstead-tutors/"]
 gcse_subjects: [
   "GCSE Maths Tuition|Often it's a Year 8 topic like fractions or negative numbers, so that gets rebuilt before the Year 10 algebra.|/book-a-call/",
   "GCSE English Tuition|How to pick a quotation and explain it, practised until the blank page stops being the hardest part.|/book-a-call/",

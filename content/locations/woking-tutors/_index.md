@@ -19,7 +19,7 @@ online_2: "Online also changes who your child can work with. If they're sitting 
 online_image: "/images/online-study-workspace-with-coffee.jpg"
 map_url: "https://maps.google.com/maps?q=Woking,UK&output=embed"
 areas_intro: "It doesn't matter where in north west Surrey you live. Every lesson's online, and families in the towns below have the same choice of tutors as you do in Woking."
-area_links: ["Guildford Tutors|/locations/guildford-tutors/", "Epsom Tutors|/locations/epsom-tutors/", "Sunbury-on-Thames Tutors|/locations/sunbury-on-thames-tutors/", "Farnborough Tutors|/locations/farnborough-tutors/", "Aldershot Tutors|/locations/aldershot-tutors/", "Reading Tutors|/locations/reading-tutors/"]
+area_links: ["Guildford Tutors|/locations/guildford-tutors/", "Cobham Tutors|/locations/cobham-tutors/", "Epsom Tutors|/locations/epsom-tutors/", "Sunbury-on-Thames Tutors|/locations/sunbury-on-thames-tutors/", "Farnborough Tutors|/locations/farnborough-tutors/", "Aldershot Tutors|/locations/aldershot-tutors/"]
 gcse_subjects: [
   "GCSE English Tuition|Language and Literature taken separately, with essay plans that still hold up with the clock running in the exam hall.|/book-a-call/",
   "GCSE Physics Tuition|Rearranging equations, unit traps and the multi-step questions at the back of the paper, practised until they hold.|/book-a-call/",

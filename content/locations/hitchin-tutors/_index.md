@@ -19,7 +19,7 @@ online_2: "Online also widens who we can match. Your child might sit an OCR pape
 online_image: "/images/online-study-workspace-with-coffee.jpg"
 map_url: "https://maps.google.com/maps?q=Hitchin,UK&output=embed"
 areas_intro: "Every lesson's online, so families across Hitchin and the villages of north Hertfordshire get a tutor chosen for the exam board and the subject, wherever that tutor happens to live."
-area_links: ["Stevenage Tutors|/locations/stevenage-tutors/", "Baldock Tutors|/locations/baldock-tutors/", "Welwyn Garden City Tutors|/locations/welwyn-garden-city-tutors/", "Harpenden Tutors|/locations/harpenden-tutors/", "Hatfield Tutors|/locations/hatfield-tutors/", "St Albans Tutors|/locations/st-albans-tutors/"]
+area_links: ["Stevenage Tutors|/locations/stevenage-tutors/", "Baldock Tutors|/locations/baldock-tutors/", "Letchworth Tutors|/locations/letchworth-tutors/", "Welwyn Garden City Tutors|/locations/welwyn-garden-city-tutors/", "Harpenden Tutors|/locations/harpenden-tutors/", "Hatfield Tutors|/locations/hatfield-tutors/"]
 gcse_subjects: [
   "GCSE Maths Tuition|The grade every consortium course looks at first, rebuilt from the topic where your child's working stopped making sense.|/book-a-call/",
   "GCSE English Tuition|Literature quotations your child can actually remember, and long answers in both Language and Literature finished before time runs out.|/book-a-call/",

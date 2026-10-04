@@ -19,7 +19,7 @@ online_2: "Nobody has to drive anywhere, which helps more than you'd think in a 
 online_image: "/images/child-using-online-learning-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Farnborough,Hampshire,UK&output=embed"
 areas_intro: "We help families right across north Hampshire and west Surrey, including the towns below, and online lessons work the same way in all of them."
-area_links: ["Aldershot Tutors|/locations/aldershot-tutors/", "Basingstoke Tutors|/locations/basingstoke-tutors/", "Guildford Tutors|/locations/guildford-tutors/", "Reading Tutors|/locations/reading-tutors/", "Winchester Tutors|/locations/winchester-tutors/", "Fareham Tutors|/locations/fareham-tutors/"]
+area_links: ["Aldershot Tutors|/locations/aldershot-tutors/", "Fleet Tutors|/locations/fleet-tutors/", "Camberley Tutors|/locations/camberley-tutors/", "Farnham Tutors|/locations/farnham-tutors/", "Basingstoke Tutors|/locations/basingstoke-tutors/", "Guildford Tutors|/locations/guildford-tutors/"]
 gcse_subjects: [
   "GCSE Maths Tuition|Aimed at the Maths grade your child's chosen A-Levels or apprenticeship will ask for, often more than a college place needs.|/book-a-call/",
   "GCSE English Tuition|Analysis and timed writing, with an eye on the English grade that apprenticeship schemes ask for.|/book-a-call/",
