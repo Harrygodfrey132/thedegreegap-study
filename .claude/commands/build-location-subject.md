@@ -329,7 +329,7 @@ These are the **uniqueness lever** for the page. Write them as if a parent who a
 
 ### `angle_stat_from` and `angle_stat_to`
 
-Take both grades from a real review that states them, never from the theme: Omo 5 → 6/7 (GCSE English only), Keira E → B (GCSE), Alexander C → A or Joanna E → C (A-Level). The `angle_stat_detail` names the reviewer and keeps to what the review says ("Omo's son went from a grade 5 to a 6/7 in English, in her Google review"). No timescales the review doesn't give.
+Take both grades from a real review that states them, never from the theme: Omo 5 → 6/7 (GCSE English), Chamarika predicted 4-5 → 8 (GCSE Physics, so GCSE Science), and Alexander C → A, Joanna E → C or Keira E → B (A-Level; Keira's grades were A-Level, Harry, 4 Oct 2026). No review names both grades in GCSE Maths, so a GCSE Maths stat says which subject the grades were in. The `angle_stat_detail` names the reviewer and keeps to what the review says ("Omo's son went from a grade 5 to a 6/7 in English, in her Google review"). No timescales the review doesn't give.
 
 ### `schools` array
 

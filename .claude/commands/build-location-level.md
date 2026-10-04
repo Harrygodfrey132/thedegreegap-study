@@ -299,12 +299,13 @@ Pick one review per page to be the **anchor for the hero grade card AND the firs
 
 GCSE anchors:
 - **Omo** — "improved from a grade 5 to a 6/7" in GCSE English → grade_from: "5", grade_to: "6/7" (her words, not a 7)
-- **Keira** — "increase my grades from an E to a B" → grade_from: "E", grade_to: "B"
+- **Chamarika** — "a predicted 4-5 in Physics ... made it an 8" → grade_from: "4-5", grade_to: "8" (GCSE Physics)
 - (limited bank — most GCSE reviews are qualitative)
 
 A-Level anchors:
 - **Joanna** — "turn E and U grades into 3 C grades" → grade_from: "E", grade_to: "C"
 - **Alexander** — "from Cs to As" → grade_from: "C", grade_to: "A"
+- **Keira** — "increase my grades from an E to a B" → grade_from: "E", grade_to: "B" (A-Level, Harry, 4 Oct 2026; the review doesn't say so, so don't use it on GCSE pages)
 
 **Reviews that are NOT legitimate anchors (qualitative only — do not put numbers in the card):**
 
