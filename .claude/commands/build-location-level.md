@@ -313,7 +313,7 @@ A-Level anchors:
 - Mahir (Economics, "real grip of complicated areas") — vague
 - Sarom (Economics, "patience, motivator, subject matter expertise") — no grades
 - Alison (History + Sociology, "tremendous support, teaching content as well as exam technique") — no grades
-- Daljit ("almost two grades higher than jis year 13 mock paper") — names no grades. Existing hubs keep their Daljit cards (Harry, 2 Oct 2026), but new pages use Omo, Keira, Joanna or Alexander
+- Daljit ("almost two grades higher than jis year 13 mock paper") — names no grades. Existing hubs keep their Daljit cards (Harry, 2 Oct 2026), but new pages use Omo or Chamarika (GCSE) and Alexander, Joanna or Keira (A-Level)
 
 These reviews can still appear in the reviews carousel. They just can't anchor the grade card.
 
