@@ -15,6 +15,28 @@
 <script>
   gtag('config', {{ . }});
 </script>
+{{ with site.Params.googleAdsCallLabel }}
+{{/* Website call tracking. Google only hands back a forwarding number for a
+     visitor who came from an ad, and then calls the callback below, which
+     rewrites every tel: link on the page (href and the visible number) so the
+     call can be tied to the ad. Nobody else is affected, and if Google never
+     calls back the real number simply stays. */}}
+<script>
+  gtag('config', {{ printf "%s/%s" site.Params.googleAdsId . }}, {
+    phone_conversion_number: {{ site.Params.phone }},
+    phone_conversion_callback: function (formatted, mobile) {
+      try {
+        if (!formatted) return;
+        var digits = String(mobile || formatted).replace(/[^0-9+]/g, '');
+        document.querySelectorAll('a[href^="tel:"]').forEach(function (a) {
+          a.setAttribute('href', 'tel:' + digits);
+          if (/\d{3}/.test(a.textContent)) a.textContent = formatted;
+        });
+      } catch (e) { /* the real number stays, which is fine */ }
+    }
+  });
+</script>
+{{ end }}
 {{ end }}
 <script>
 (function () {

@@ -104,7 +104,7 @@
 
             <button type="submit" class="book-call__submit">Get in touch</button>
             <p class="book-call__assurance">Free, no pitch. We never share your number.</p>
-            <p class="book-call__phone-fallback">Prefer to talk first? Call <a href="tel:+447859965776">07859&nbsp;965776</a></p>
+            <p class="book-call__phone-fallback">Prefer to talk first? Call <a href="tel:+447859965776" data-track="click_to_call" data-track-place="book_call_page">07859&nbsp;965776</a></p>
           </form>
 
 
@@ -136,4 +136,8 @@
 </script>
 
 {{ partial "reviews-drawer.html" . }}
+{{/* Google Ads tag, call tracking and the phone-click event, so a parent who
+     clicks an ad, lands on a subject page and then rings from here is still
+     tied back to the ad. */}}
+{{ partial "ads-tracking.html" . }}
 {{ end }}
