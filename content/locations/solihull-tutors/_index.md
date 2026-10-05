@@ -19,7 +19,7 @@ online_2: "And the best tutor for your child might not live anywhere near Solihu
 online_image: "/images/child-using-online-learning-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Solihull,UK&output=embed"
 areas_intro: "Families in Solihull have lessons from home, whether they live in the town centre or on the edge of the borough, and so do the families we help in Coventry, Warwick and the other towns below."
-area_links: ["Birmingham Tutors|/locations/birmingham-tutors/", "Coventry Tutors|/locations/coventry-tutors/", "Royal Leamington Spa Tutors|/locations/royal-leamington-spa-tutors/", "Warwick Tutors|/locations/warwick-tutors/", "Stratford-upon-Avon Tutors|/locations/stratford-upon-avon-tutors/", "Wolverhampton Tutors|/locations/wolverhampton-tutors/"]
+area_links: ["Birmingham Tutors|/locations/birmingham-tutors/", "Coventry Tutors|/locations/coventry-tutors/", "Kenilworth Tutors|/locations/kenilworth-tutors/", "Royal Leamington Spa Tutors|/locations/royal-leamington-spa-tutors/", "Warwick Tutors|/locations/warwick-tutors/", "Stratford-upon-Avon Tutors|/locations/stratford-upon-avon-tutors/"]
 gcse_subjects: [
   "GCSE English Tuition|Quotes from the poems, novels and plays your child can actually use, and a steady way into the Language questions too.|/book-a-call/",
   "GCSE Maths Tuition|Algebra rebuilt from the ground up where needed, so the harder questions stop feeling out of reach, at Foundation or Higher.|/book-a-call/",

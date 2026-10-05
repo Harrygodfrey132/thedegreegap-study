@@ -19,7 +19,7 @@ online_2: "The other reason is reach. The best tutor for OCR A-Level Chemistry, 
 online_image: "/images/student-studying-at-night-with-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Amersham,UK&output=embed"
 areas_intro: "All the lessons are online, so the same tutors work with families in Amersham, the Chalfonts and the villages along the Misbourne valley, and a long way beyond them too."
-area_links: ["Chesham Tutors|/locations/chesham-tutors/", "High Wycombe Tutors|/locations/high-wycombe-tutors/", "Hemel Hempstead Tutors|/locations/hemel-hempstead-tutors/", "Watford Tutors|/locations/watford-tutors/", "Harrow Tutors|/locations/harrow-tutors/", "Aylesbury Tutors|/locations/aylesbury-tutors/"]
+area_links: ["Chesham Tutors|/locations/chesham-tutors/", "Rickmansworth Tutors|/locations/rickmansworth-tutors/", "High Wycombe Tutors|/locations/high-wycombe-tutors/", "Hemel Hempstead Tutors|/locations/hemel-hempstead-tutors/", "Watford Tutors|/locations/watford-tutors/", "Harrow Tutors|/locations/harrow-tutors/"]
 gcse_subjects: [
   "GCSE Maths Tuition|Algebra, ratio and multi-step problems, traced back to the first method that wobbled and rebuilt from there.|/book-a-call/",
   "GCSE Chemistry Tuition|Moles, bonding and electrolysis, with every calculation set out a line at a time, so a slip's easy to spot.|/book-a-call/",

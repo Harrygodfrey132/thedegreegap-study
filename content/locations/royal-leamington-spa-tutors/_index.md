@@ -26,12 +26,12 @@ online_image: /images/online-study-workspace-with-coffee.jpg
 map_url: https://maps.google.com/maps?q=Royal+Leamington+Spa,UK&output=embed
 areas_intro: "Every lesson is online, so it works just the same anywhere in Leamington or the rest of Warwickshire. That includes the other towns listed here."
 area_links:
-  - Warwick Tutors|/locations/warwick-tutors/
-  - Coventry Tutors|/locations/coventry-tutors/
-  - Stratford-upon-Avon Tutors|/locations/stratford-upon-avon-tutors/
-  - Birmingham Tutors|/locations/birmingham-tutors/
-  - Oxford Tutors|/locations/oxford-tutors/
-  - Worcester Tutors|/locations/worcester-tutors/
+  - "Warwick Tutors|/locations/warwick-tutors/"
+  - "Kenilworth Tutors|/locations/kenilworth-tutors/"
+  - "Coventry Tutors|/locations/coventry-tutors/"
+  - "Stratford-upon-Avon Tutors|/locations/stratford-upon-avon-tutors/"
+  - "Birmingham Tutors|/locations/birmingham-tutors/"
+  - "Oxford Tutors|/locations/oxford-tutors/"
 gcse_subjects:
   - "GCSE Maths Tuition|Fractions, negatives and early algebra tidied up in Year 9 or 10, before the harder GCSE topics are stacked on top.|/book-a-call/"
   - "GCSE Chemistry Tuition|The periodic table and bonding explained until they make sense, since so much of the later course leans on them.|/book-a-call/"

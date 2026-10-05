@@ -19,7 +19,7 @@ online_2: "The bigger reason is the choice of tutor. The person who knows the OC
 online_image: "/images/online-study-workspace-with-coffee.jpg"
 map_url: "https://maps.google.com/maps?q=Harrow,UK&output=embed"
 areas_intro: "We choose the tutor for your child, not for the journey, so the choice is the same anywhere in Harrow or north west London, and in the towns below."
-area_links: ["London Tutors|/locations/london-tutors/", "Barnet Tutors|/locations/barnet-tutors/", "Watford Tutors|/locations/watford-tutors/", "St Albans Tutors|/locations/st-albans-tutors/", "Hemel Hempstead Tutors|/locations/hemel-hempstead-tutors/", "High Wycombe Tutors|/locations/high-wycombe-tutors/"]
+area_links: ["London Tutors|/locations/london-tutors/", "Bushey Tutors|/locations/bushey-tutors/", "Rickmansworth Tutors|/locations/rickmansworth-tutors/", "Barnet Tutors|/locations/barnet-tutors/", "Watford Tutors|/locations/watford-tutors/", "St Albans Tutors|/locations/st-albans-tutors/"]
 gcse_subjects: [
   "GCSE English Tuition|Essay structure, unseen poetry, and the timing that decides how much of each answer your child gets written.|/book-a-call/",
   "GCSE Physics Tuition|Unit conversions, graphs and the six-mark explanations, where an answer that stops a step short loses marks.|/book-a-call/",

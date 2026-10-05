@@ -19,7 +19,7 @@ online_2: "At home, your child and the tutor work on Lessonspace, an online whit
 online_image: "/images/student-studying-on-bed-with-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Warwick,UK&output=embed"
 areas_intro: "Every lesson is online, so it works the same in Warwick as in the towns around it. Here are some of the others we help."
-area_links: ["Royal Leamington Spa Tutors|/locations/royal-leamington-spa-tutors/", "Coventry Tutors|/locations/coventry-tutors/", "Stratford-upon-Avon Tutors|/locations/stratford-upon-avon-tutors/", "Birmingham Tutors|/locations/birmingham-tutors/", "Oxford Tutors|/locations/oxford-tutors/", "Worcester Tutors|/locations/worcester-tutors/"]
+area_links: ["Kenilworth Tutors|/locations/kenilworth-tutors/", "Royal Leamington Spa Tutors|/locations/royal-leamington-spa-tutors/", "Coventry Tutors|/locations/coventry-tutors/", "Stratford-upon-Avon Tutors|/locations/stratford-upon-avon-tutors/", "Birmingham Tutors|/locations/birmingham-tutors/", "Oxford Tutors|/locations/oxford-tutors/"]
 gcse_subjects: [
   "GCSE Maths Tuition|When algebra won't stick, the tutor checks the fractions and negative numbers underneath it first.|/book-a-call/",
   "GCSE Chemistry Tuition|Moles and balancing equations, two topics that often sit underneath a stuck Chemistry grade.|/book-a-call/",

@@ -26,12 +26,12 @@ online_image: /images/student-studying-at-night-with-laptop.jpg
 map_url: https://maps.google.com/maps?q=St+Albans,UK&output=embed
 areas_intro: "Lessons run the same way from the city centre out to the surrounding villages, and a few more of the towns we help are listed underneath."
 area_links:
-  - Watford Tutors|/locations/watford-tutors/
-  - Aylesbury Tutors|/locations/aylesbury-tutors/
-  - Cambridge Tutors|/locations/cambridge-tutors/
-  - Oxford Tutors|/locations/oxford-tutors/
-  - Reading Tutors|/locations/reading-tutors/
-  - Peterborough Tutors|/locations/peterborough-tutors/
+  - "Watford Tutors|/locations/watford-tutors/"
+  - "Potters Bar Tutors|/locations/potters-bar-tutors/"
+  - "Bushey Tutors|/locations/bushey-tutors/"
+  - "Aylesbury Tutors|/locations/aylesbury-tutors/"
+  - "Cambridge Tutors|/locations/cambridge-tutors/"
+  - "Oxford Tutors|/locations/oxford-tutors/"
 gcse_subjects:
   - "GCSE Maths Tuition|The topic the class moved on from before it made sense, often algebra or percentages, picked up again and put right.|/book-a-call/"
   - "GCSE Chemistry Tuition|Chemical bonding and moles explained a second or third time if needed, with no class waiting for your child to catch up.|/book-a-call/"

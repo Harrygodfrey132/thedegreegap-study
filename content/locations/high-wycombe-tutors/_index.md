@@ -26,12 +26,12 @@ online_image: /images/student-studying-at-night-with-laptop.jpg
 map_url: "https://maps.google.com/maps?q=High+Wycombe,UK&output=embed"
 areas_intro: "With every lesson online, a family in a Chiltern village is as easy for us to help as one in central High Wycombe. The same goes for the neighbouring towns below."
 area_links:
-  - Aylesbury Tutors|/locations/aylesbury-tutors/
-  - Watford Tutors|/locations/watford-tutors/
-  - Reading Tutors|/locations/reading-tutors/
-  - Oxford Tutors|/locations/oxford-tutors/
-  - Milton Keynes Tutors|/locations/milton-keynes-tutors/
-  - Hemel Hempstead Tutors|/locations/hemel-hempstead-tutors/
+  - "Aylesbury Tutors|/locations/aylesbury-tutors/"
+  - "Henley-on-Thames Tutors|/locations/henley-on-thames-tutors/"
+  - "Watford Tutors|/locations/watford-tutors/"
+  - "Reading Tutors|/locations/reading-tutors/"
+  - "Oxford Tutors|/locations/oxford-tutors/"
+  - "Hemel Hempstead Tutors|/locations/hemel-hempstead-tutors/"
 gcse_subjects:
   - "GCSE Maths Tuition|Algebra made solid now, because it's the part of GCSE that A-Level Maths, Physics and Chemistry lean on hardest later.|/book-a-call/"
   - "GCSE Biology Tuition|Processes like enzyme action and transport explained in full, linked sentences, the habit that eases the step up to A-Level Biology.|/book-a-call/"

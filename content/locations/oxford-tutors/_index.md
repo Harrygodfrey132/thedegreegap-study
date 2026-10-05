@@ -27,11 +27,11 @@ map_url: https://maps.google.com/maps?q=Oxford,UK&output=embed
 areas_intro: "The nearest tutor isn't always the right one for your child, so we help families right across Oxford and in the towns below."
 area_links:
   - "Abingdon Tutors|/locations/abingdon-tutors/"
+  - "Bicester Tutors|/locations/bicester-tutors/"
+  - "Didcot Tutors|/locations/didcot-tutors/"
   - "Reading Tutors|/locations/reading-tutors/"
   - "Swindon Tutors|/locations/swindon-tutors/"
   - "Coventry Tutors|/locations/coventry-tutors/"
-  - "Birmingham Tutors|/locations/birmingham-tutors/"
-  - "Bristol Tutors|/locations/bristol-tutors/"
 gcse_subjects:
   - "GCSE Chemistry Tuition|Bonding, moles and the tricky calculations, explained a step at a time until your child can write them up without help.|/book-a-call/"
   - "GCSE Maths Tuition|Algebra, geometry and statistics, with the focus on accuracy and speed, because that's where marks tend to slip on a timed paper.|/book-a-call/"

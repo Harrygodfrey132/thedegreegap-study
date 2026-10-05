@@ -19,7 +19,7 @@ online_2: "Every lesson is saved as a replay, so in the fortnight before a mock 
 online_image: "/images/online-study-workspace-with-coffee.jpg"
 map_url: "https://maps.google.com/maps?q=Cheltenham,UK&output=embed"
 areas_intro: "Live outside Cheltenham itself? Every lesson is online, so it works just as well elsewhere in Gloucestershire and in the nearby towns below."
-area_links: ["Bristol Tutors|/locations/bristol-tutors/", "Oxford Tutors|/locations/oxford-tutors/", "Worcester Tutors|/locations/worcester-tutors/", "Birmingham Tutors|/locations/birmingham-tutors/", "Swindon Tutors|/locations/swindon-tutors/", "Exeter Tutors|/locations/exeter-tutors/"]
+area_links: ["Cirencester Tutors|/locations/cirencester-tutors/", "Bristol Tutors|/locations/bristol-tutors/", "Oxford Tutors|/locations/oxford-tutors/", "Worcester Tutors|/locations/worcester-tutors/", "Birmingham Tutors|/locations/birmingham-tutors/", "Swindon Tutors|/locations/swindon-tutors/"]
 gcse_subjects: [
   "GCSE Chemistry Tuition|Past-paper practice on calculations and six-mark explanations, so revision on bonding and rates shows up as marks.|/book-a-call/",
   "GCSE Maths Tuition|Timed sections of past papers worked through together, so your child learns which questions to bank first and which to come back to.|/book-a-call/",

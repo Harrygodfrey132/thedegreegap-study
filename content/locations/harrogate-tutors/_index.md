@@ -19,7 +19,7 @@ online_2: "Lessons use Lessonspace, an online platform with a whiteboard the two
 online_image: "/images/student-celebrating-online-learning.jpg"
 map_url: "https://maps.google.com/maps?q=Harrogate,UK&output=embed"
 areas_intro: "It's the same set-up wherever you are in Yorkshire, and we also work with families in these cities, near and further afield, all of them online."
-area_links: ["Leeds Tutors|/locations/leeds-tutors/", "York Tutors|/locations/york-tutors/", "Manchester Tutors|/locations/manchester-tutors/", "Sheffield Tutors|/locations/sheffield-tutors/", "Liverpool Tutors|/locations/liverpool-tutors/", "Nottingham Tutors|/locations/nottingham-tutors/"]
+area_links: ["Leeds Tutors|/locations/leeds-tutors/", "York Tutors|/locations/york-tutors/", "Beverley Tutors|/locations/beverley-tutors/", "Manchester Tutors|/locations/manchester-tutors/", "Sheffield Tutors|/locations/sheffield-tutors/", "Liverpool Tutors|/locations/liverpool-tutors/"]
 gcse_subjects: [
   "GCSE Maths Tuition|From patching up shaky algebra to the hardest problem-solving questions, pitched at wherever your child is starting from.|/book-a-call/",
   "GCSE English Tuition|Essays with a clear line of argument, for a teenager with plenty to say who needs to say it within the time.|/book-a-call/",

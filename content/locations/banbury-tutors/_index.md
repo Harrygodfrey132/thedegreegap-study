@@ -26,12 +26,12 @@ online_image: /images/student-studying-on-bed-with-laptop.jpg
 map_url: "https://maps.google.com/maps?q=Banbury,UK&output=embed"
 areas_intro: "From central Banbury out to Adderbury and Brackley, every lesson happens at home, online. You'll find our pages for nearby towns below."
 area_links:
-  - Oxford Tutors|/locations/oxford-tutors/
-  - Milton Keynes Tutors|/locations/milton-keynes-tutors/
-  - Aylesbury Tutors|/locations/aylesbury-tutors/
-  - Warwick Tutors|/locations/warwick-tutors/
-  - Royal Leamington Spa Tutors|/locations/royal-leamington-spa-tutors/
-  - Stratford-upon-Avon Tutors|/locations/stratford-upon-avon-tutors/
+  - "Oxford Tutors|/locations/oxford-tutors/"
+  - "Bicester Tutors|/locations/bicester-tutors/"
+  - "Warwick Tutors|/locations/warwick-tutors/"
+  - "Royal Leamington Spa Tutors|/locations/royal-leamington-spa-tutors/"
+  - "Stratford-upon-Avon Tutors|/locations/stratford-upon-avon-tutors/"
+  - "Milton Keynes Tutors|/locations/milton-keynes-tutors/"
 gcse_subjects:
   - "GCSE Maths Tuition|The tutor goes back to where Maths stopped making sense for your child, often fractions or negative numbers, and builds forward from there.|/book-a-call/"
   - "GCSE English Tuition|Patient help with close reading and essay planning, plus a calm routine for the unseen extract that so often decides the grade.|/book-a-call/"

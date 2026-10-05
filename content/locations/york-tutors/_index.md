@@ -19,7 +19,7 @@ online_2: "Being online also means your child isn't limited to tutors who happen
 online_image: "/images/online-study-workspace-with-coffee.jpg"
 map_url: "https://maps.google.com/maps?q=York,UK&output=embed"
 areas_intro: "Lessons are online, so it's the same help whether you're in York itself, out towards Harrogate or over near Leeds."
-area_links: ["Leeds Tutors|/locations/leeds-tutors/", "Harrogate Tutors|/locations/harrogate-tutors/", "Sheffield Tutors|/locations/sheffield-tutors/", "Manchester Tutors|/locations/manchester-tutors/", "Nottingham Tutors|/locations/nottingham-tutors/", "Liverpool Tutors|/locations/liverpool-tutors/"]
+area_links: ["Leeds Tutors|/locations/leeds-tutors/", "Harrogate Tutors|/locations/harrogate-tutors/", "Beverley Tutors|/locations/beverley-tutors/", "Sheffield Tutors|/locations/sheffield-tutors/", "Manchester Tutors|/locations/manchester-tutors/", "Nottingham Tutors|/locations/nottingham-tutors/"]
 gcse_subjects: [
   "GCSE Maths Tuition|A solid Maths grade keeps plenty of A-Level routes open, so the tutor shores up the topics your child avoids.|/book-a-call/",
   "GCSE Chemistry Tuition|Atomic structure and chemical calculations built up from the basics, with worked examples your child can look back on.|/book-a-call/",

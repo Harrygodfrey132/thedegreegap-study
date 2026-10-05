@@ -19,7 +19,7 @@ online_2: "Lessonspace, the platform we use, is a bit like a shared notebook on 
 online_image: "/images/student-studying-at-night-with-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Stratford-upon-Avon,UK&output=embed"
 areas_intro: "From Wellesbourne to Shipston, an online lesson works just as it does in town. We can help families in these towns too."
-area_links: ["Warwick Tutors|/locations/warwick-tutors/", "Royal Leamington Spa Tutors|/locations/royal-leamington-spa-tutors/", "Coventry Tutors|/locations/coventry-tutors/", "Worcester Tutors|/locations/worcester-tutors/", "Birmingham Tutors|/locations/birmingham-tutors/", "Oxford Tutors|/locations/oxford-tutors/"]
+area_links: ["Warwick Tutors|/locations/warwick-tutors/", "Royal Leamington Spa Tutors|/locations/royal-leamington-spa-tutors/", "Kenilworth Tutors|/locations/kenilworth-tutors/", "Coventry Tutors|/locations/coventry-tutors/", "Worcester Tutors|/locations/worcester-tutors/", "Birmingham Tutors|/locations/birmingham-tutors/"]
 gcse_subjects: [
   "GCSE Maths Tuition|One topic a week, taken slowly, with the worked examples on the replay for when homework gets tricky.|/book-a-call/",
   "GCSE Chemistry Tuition|Calculations and equations practised in short, clear steps that still make sense at the end of a long day.|/book-a-call/",

@@ -26,12 +26,12 @@ online_image: /images/child-using-online-learning-laptop.jpg
 map_url: https://maps.google.com/maps?q=Coventry,UK&output=embed
 areas_intro: "Families in Tile Hill, Finham, Kenilworth and Bedworth all have lessons the same way, online, at a time that suits them. We also help families in these cities."
 area_links:
-  - Birmingham Tutors|/locations/birmingham-tutors/
-  - Leicester Tutors|/locations/leicester-tutors/
-  - Nottingham Tutors|/locations/nottingham-tutors/
-  - Derby Tutors|/locations/derby-tutors/
-  - Oxford Tutors|/locations/oxford-tutors/
-  - Sheffield Tutors|/locations/sheffield-tutors/
+  - "Kenilworth Tutors|/locations/kenilworth-tutors/"
+  - "Birmingham Tutors|/locations/birmingham-tutors/"
+  - "Leicester Tutors|/locations/leicester-tutors/"
+  - "Nottingham Tutors|/locations/nottingham-tutors/"
+  - "Derby Tutors|/locations/derby-tutors/"
+  - "Oxford Tutors|/locations/oxford-tutors/"
 gcse_subjects:
   - "GCSE Maths Tuition|Rebuilt one step at a time, from number work to algebra and geometry, so the methods hold up when the exam pressure kicks in.|/book-a-call/"
   - "GCSE Computer Science Tuition|Programming logic, data structures and algorithms explained plainly, for a child who finds the abstract ideas hard to pin down.|/book-a-call/"

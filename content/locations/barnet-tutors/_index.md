@@ -19,7 +19,7 @@ online_2: "The bigger win is who you get to choose from. The person who really k
 online_image: "/images/online-study-workspace-with-coffee.jpg"
 map_url: "https://maps.google.com/maps?q=Barnet,UK&output=embed"
 areas_intro: "Every lesson's online, so families in Barnet and right across north London and south Hertfordshire can pick the tutor who fits their child, not just the nearest one."
-area_links: ["London Tutors|/locations/london-tutors/", "Harrow Tutors|/locations/harrow-tutors/", "Watford Tutors|/locations/watford-tutors/", "St Albans Tutors|/locations/st-albans-tutors/", "Hatfield Tutors|/locations/hatfield-tutors/", "Welwyn Garden City Tutors|/locations/welwyn-garden-city-tutors/"]
+area_links: ["London Tutors|/locations/london-tutors/", "Potters Bar Tutors|/locations/potters-bar-tutors/", "Harrow Tutors|/locations/harrow-tutors/", "Bushey Tutors|/locations/bushey-tutors/", "St Albans Tutors|/locations/st-albans-tutors/", "Hatfield Tutors|/locations/hatfield-tutors/"]
 gcse_subjects: [
   "GCSE English Tuition|Language and Literature lose marks for different reasons, so your child's tutor works on each one separately.|/book-a-call/",
   "GCSE Chemistry Tuition|Moles, concentration and rates, with every calculation written out on the whiteboard, not just talked through.|/book-a-call/",

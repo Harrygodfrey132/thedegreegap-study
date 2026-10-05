@@ -26,12 +26,12 @@ online_image: /images/child-using-online-learning-laptop.jpg
 map_url: https://maps.google.com/maps?q=Aylesbury,UK&output=embed
 areas_intro: "Town centre or a village out in the Vale, your child's lessons look exactly the same on screen, and the same goes for the towns listed below."
 area_links:
-  - Watford Tutors|/locations/watford-tutors/
-  - St Albans Tutors|/locations/st-albans-tutors/
-  - Oxford Tutors|/locations/oxford-tutors/
-  - Reading Tutors|/locations/reading-tutors/
-  - Cambridge Tutors|/locations/cambridge-tutors/
-  - Peterborough Tutors|/locations/peterborough-tutors/
+  - "Watford Tutors|/locations/watford-tutors/"
+  - "St Albans Tutors|/locations/st-albans-tutors/"
+  - "Oxford Tutors|/locations/oxford-tutors/"
+  - "Bicester Tutors|/locations/bicester-tutors/"
+  - "Reading Tutors|/locations/reading-tutors/"
+  - "Cambridge Tutors|/locations/cambridge-tutors/"
 gcse_subjects:
   - "GCSE Maths Tuition|The non-calculator paper practised in short, timed sets, so your child learns which questions to park and come back to.|/book-a-call/"
   - "GCSE English Tuition|Language and Literature essays with a quick plan first, so the final paragraph doesn't get squeezed out by the clock.|/book-a-call/"

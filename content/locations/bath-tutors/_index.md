@@ -19,7 +19,7 @@ online_2: "It also means we can match on the exam board rather than the map. The
 online_image: "/images/online-study-workspace-with-coffee.jpg"
 map_url: "https://maps.google.com/maps?q=Bath,UK&output=embed"
 areas_intro: "A family in Bath, Keynsham, Saltford or Bradford on Avon can have the tutor who suits their child rather than the nearest one, because lessons are all online. The same goes for the towns below."
-area_links: ["Bristol Tutors|/locations/bristol-tutors/", "Swindon Tutors|/locations/swindon-tutors/", "Cheltenham Tutors|/locations/cheltenham-tutors/", "Exeter Tutors|/locations/exeter-tutors/", "Reading Tutors|/locations/reading-tutors/", "Oxford Tutors|/locations/oxford-tutors/"]
+area_links: ["Bristol Tutors|/locations/bristol-tutors/", "Swindon Tutors|/locations/swindon-tutors/", "Cirencester Tutors|/locations/cirencester-tutors/", "Cheltenham Tutors|/locations/cheltenham-tutors/", "Reading Tutors|/locations/reading-tutors/", "Oxford Tutors|/locations/oxford-tutors/"]
 gcse_subjects: [
   "GCSE Chemistry Tuition|Moles and rates calculations written out in full, for when your child knows the content but drops the working marks.|/book-a-call/",
   "GCSE Maths Tuition|Algebra and problem-solving rebuilt from wherever the method broke, then the harder questions at the back of each paper.|/book-a-call/",

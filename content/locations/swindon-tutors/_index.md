@@ -26,12 +26,12 @@ online_image: /images/child-using-online-learning-laptop.jpg
 map_url: https://maps.google.com/maps?q=Swindon,UK&output=embed
 areas_intro: "Lessons are online wherever you live, so families across Swindon, and in the towns below, all choose from the same tutors."
 area_links:
-  - Bristol Tutors|/locations/bristol-tutors/
-  - Oxford Tutors|/locations/oxford-tutors/
-  - Reading Tutors|/locations/reading-tutors/
-  - Southampton Tutors|/locations/southampton-tutors/
-  - Brighton Tutors|/locations/brighton-tutors/
-  - Cambridge Tutors|/locations/cambridge-tutors/
+  - "Cirencester Tutors|/locations/cirencester-tutors/"
+  - "Didcot Tutors|/locations/didcot-tutors/"
+  - "Oxford Tutors|/locations/oxford-tutors/"
+  - "Bristol Tutors|/locations/bristol-tutors/"
+  - "Reading Tutors|/locations/reading-tutors/"
+  - "Southampton Tutors|/locations/southampton-tutors/"
 gcse_subjects:
   - "GCSE Maths Tuition|Mistakes traced back to where they began, often in Year 7 or 8 number work, and fixed at the root.|/book-a-call/"
   - "GCSE English Tuition|Language and Literature essays and reading questions, with a simple method your child can lean on in the exam.|/book-a-call/"

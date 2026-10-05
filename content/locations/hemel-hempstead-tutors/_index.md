@@ -19,7 +19,7 @@ online_2: "It all happens on Lessonspace, a platform where tutor and child write
 online_image: "/images/student-celebrating-online-learning.jpg"
 map_url: "https://maps.google.com/maps?q=Hemel+Hempstead,UK&output=embed"
 areas_intro: "It makes no odds which side of Hemel you live on. Lessons run the same way for every family, including those in the neighbouring towns below."
-area_links: ["St Albans Tutors|/locations/st-albans-tutors/", "Watford Tutors|/locations/watford-tutors/", "Welwyn Garden City Tutors|/locations/welwyn-garden-city-tutors/", "Stevenage Tutors|/locations/stevenage-tutors/", "Aylesbury Tutors|/locations/aylesbury-tutors/", "Milton Keynes Tutors|/locations/milton-keynes-tutors/"]
+area_links: ["St Albans Tutors|/locations/st-albans-tutors/", "Watford Tutors|/locations/watford-tutors/", "Rickmansworth Tutors|/locations/rickmansworth-tutors/", "Welwyn Garden City Tutors|/locations/welwyn-garden-city-tutors/", "Stevenage Tutors|/locations/stevenage-tutors/", "Aylesbury Tutors|/locations/aylesbury-tutors/"]
 gcse_subjects: [
   "GCSE Maths Tuition|For a child who coped until the Year 10 algebra arrived, the tutor rebuilds the basics before moving on.|/book-a-call/",
   "GCSE English Tuition|The step from short answers to full essays, taken slowly with a simple plan your child can reuse every time.|/book-a-call/",

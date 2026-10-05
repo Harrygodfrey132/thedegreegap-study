@@ -25,12 +25,12 @@ online_image: /images/online-study-workspace-with-coffee.jpg
 map_url: "https://maps.google.com/maps?q=Hatfield,UK&output=embed"
 areas_intro: "Hatfield, Welwyn Garden City or one of the villages in between: it makes no difference when every lesson's online. We can help families in these towns as well."
 area_links:
-  - Welwyn Garden City Tutors|/locations/welwyn-garden-city-tutors/
-  - St Albans Tutors|/locations/st-albans-tutors/
-  - Hemel Hempstead Tutors|/locations/hemel-hempstead-tutors/
-  - Stevenage Tutors|/locations/stevenage-tutors/
-  - Watford Tutors|/locations/watford-tutors/
-  - Cambridge Tutors|/locations/cambridge-tutors/
+  - "Welwyn Garden City Tutors|/locations/welwyn-garden-city-tutors/"
+  - "Potters Bar Tutors|/locations/potters-bar-tutors/"
+  - "St Albans Tutors|/locations/st-albans-tutors/"
+  - "Hemel Hempstead Tutors|/locations/hemel-hempstead-tutors/"
+  - "Stevenage Tutors|/locations/stevenage-tutors/"
+  - "Watford Tutors|/locations/watford-tutors/"
 gcse_subjects:
   - "GCSE English Tuition|Essays that hold together from start to finish, plus practice on unseen extracts until your child knows how to begin one without panicking.|/book-a-call/"
   - "GCSE Maths Tuition|Algebra, geometry and statistics taken step by step, starting from the topic that didn't click the first time round.|/book-a-call/"

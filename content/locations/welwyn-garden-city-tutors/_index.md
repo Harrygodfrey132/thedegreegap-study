@@ -19,7 +19,7 @@ online_2: "Every lesson is recorded as well. If a trigonometry method has gone f
 online_image: "/images/student-studying-on-bed-with-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Welwyn+Garden+City,UK&output=embed"
 areas_intro: "Hatfield families work with us in exactly the same way, and so do parents in these other towns around Hertfordshire and a little further out."
-area_links: ["St Albans Tutors|/locations/st-albans-tutors/", "Hemel Hempstead Tutors|/locations/hemel-hempstead-tutors/", "Watford Tutors|/locations/watford-tutors/", "Stevenage Tutors|/locations/stevenage-tutors/", "Baldock Tutors|/locations/baldock-tutors/", "Cambridge Tutors|/locations/cambridge-tutors/"]
+area_links: ["St Albans Tutors|/locations/st-albans-tutors/", "Potters Bar Tutors|/locations/potters-bar-tutors/", "Hemel Hempstead Tutors|/locations/hemel-hempstead-tutors/", "Watford Tutors|/locations/watford-tutors/", "Stevenage Tutors|/locations/stevenage-tutors/", "Baldock Tutors|/locations/baldock-tutors/"]
 gcse_subjects: [
   "GCSE Maths Tuition|When the homework looks fine but the mock doesn't, the tutor finds the algebra or ratio method that's costing marks.|/book-a-call/",
   "GCSE English Tuition|Language and Literature answers that get to the point sooner, with quotes your child can actually recall in the exam.|/book-a-call/",

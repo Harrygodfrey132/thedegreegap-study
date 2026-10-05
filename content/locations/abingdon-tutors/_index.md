@@ -19,7 +19,7 @@ online_2: "Lessons happen on a shared online whiteboard. Your child's working ap
 online_image: "/images/student-celebrating-online-learning.jpg"
 map_url: "https://maps.google.com/maps?q=Abingdon,UK&output=embed"
 areas_intro: "It's all online, so a family in Radley or Culham picks from exactly the same tutors as one in the middle of Abingdon, or in any of the towns below."
-area_links: ["Oxford Tutors|/locations/oxford-tutors/", "Reading Tutors|/locations/reading-tutors/", "Swindon Tutors|/locations/swindon-tutors/", "Banbury Tutors|/locations/banbury-tutors/", "Marlow Tutors|/locations/marlow-tutors/", "High Wycombe Tutors|/locations/high-wycombe-tutors/"]
+area_links: ["Oxford Tutors|/locations/oxford-tutors/", "Didcot Tutors|/locations/didcot-tutors/", "Reading Tutors|/locations/reading-tutors/", "Swindon Tutors|/locations/swindon-tutors/", "Bicester Tutors|/locations/bicester-tutors/", "Banbury Tutors|/locations/banbury-tutors/"]
 gcse_subjects: [
   "GCSE Chemistry Tuition|Mole calculations and bonding, broken into small steps and practised until your child can do them without checking their notes.|/book-a-call/",
   "GCSE English Tuition|The unseen reading questions and the timed writing task, practised on your child's own exam board and set texts.|/book-a-call/",

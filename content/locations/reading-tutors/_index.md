@@ -26,12 +26,12 @@ online_image: /images/student-studying-at-night-with-laptop.jpg
 map_url: https://maps.google.com/maps?q=Reading,UK&output=embed
 areas_intro: "It doesn't matter which side of Reading you live on, or how far out, because every lesson's online. We also help families in the towns and cities below."
 area_links:
-  - Oxford Tutors|/locations/oxford-tutors/
-  - Southampton Tutors|/locations/southampton-tutors/
-  - Bristol Tutors|/locations/bristol-tutors/
-  - Brighton Tutors|/locations/brighton-tutors/
-  - Swindon Tutors|/locations/swindon-tutors/
-  - Cambridge Tutors|/locations/cambridge-tutors/
+  - "Henley-on-Thames Tutors|/locations/henley-on-thames-tutors/"
+  - "Didcot Tutors|/locations/didcot-tutors/"
+  - "Oxford Tutors|/locations/oxford-tutors/"
+  - "Swindon Tutors|/locations/swindon-tutors/"
+  - "Southampton Tutors|/locations/southampton-tutors/"
+  - "Bristol Tutors|/locations/bristol-tutors/"
 gcse_subjects:
   - "GCSE Maths Tuition|Past papers marked the way examiners mark them, so your child learns where the method marks are, whatever grade they're on now.|/book-a-call/"
   - "GCSE Computer Science Tuition|Algorithms and programming logic made solid, which matters if your child already has half an eye on the tech firms at Thames Valley Park.|/book-a-call/"
