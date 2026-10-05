@@ -26,12 +26,12 @@ online_image: /images/student-studying-at-night-with-laptop.jpg
 map_url: https://maps.google.com/maps?q=Leicester,UK&output=embed
 areas_intro: "Because lessons are online, it doesn't matter which side of Leicester you're on, or how far out. We help families across the city and well beyond."
 area_links:
-  - Nottingham Tutors|/locations/nottingham-tutors/
-  - Coventry Tutors|/locations/coventry-tutors/
-  - Derby Tutors|/locations/derby-tutors/
-  - Birmingham Tutors|/locations/birmingham-tutors/
-  - Sheffield Tutors|/locations/sheffield-tutors/
-  - Leeds Tutors|/locations/leeds-tutors/
+  - "Nottingham Tutors|/locations/nottingham-tutors/"
+  - "Coventry Tutors|/locations/coventry-tutors/"
+  - "Derby Tutors|/locations/derby-tutors/"
+  - "Stamford Tutors|/locations/stamford-tutors/"
+  - "Birmingham Tutors|/locations/birmingham-tutors/"
+  - "Sheffield Tutors|/locations/sheffield-tutors/"
 gcse_subjects:
   - "GCSE English Tuition|Language and Literature, moving answers from describing the text to analysing it, which is where the higher marks are.|/book-a-call/"
   - "GCSE Maths Tuition|Number, algebra, geometry and statistics, practised until your child is quick and accurate on the day, not just keen.|/book-a-call/"
