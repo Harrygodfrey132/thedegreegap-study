@@ -27,6 +27,13 @@ enableGitInfo = true
   # Google Ads under Goals > Conversions > (the lead action) > Tag setup.
   googleAdsId = "AW-17482445189"
   googleAdsLeadLabel = "nlkhCL-HkoYdEIXjo5BB"
+  # Website call tracking: label of the "Phone Call Conversion Tracking"
+  # action (Goals > Conversions > that action > Tag setup). For visitors who
+  # arrived from an ad, partials/ads-tracking.html swaps every tel: link on the
+  # page for a Google forwarding number, so a call of 20 seconds or more counts
+  # as a conversion. Everyone else sees the normal number. Blank it to switch
+  # the swap off.
+  googleAdsCallLabel = "6vGVCNi0l44bEIXjo5BB"
   # Google Tag Manager container, loaded by partials/gtm-head.html and
   # gtm-body.html. Blank it to remove GTM from every page in one edit.
   # Note: GA4 (G-X8HZE9WB3J) and the Meta Pixel are hardcoded in baseof.html,
