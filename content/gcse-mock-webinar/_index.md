@@ -1,6 +1,6 @@
 ---
 title: "GCSE Mock Webinar | The Degree Gap"
-description: "Our parent masterclass on preparing for GCSE mocks. Sessions are paused. Email admin@thedegreegap.com to hear when the next one runs."
+description: "Our free parent masterclass on GCSE mocks and revision. This year it's the GCSE Revision Masterclass, online in November 2026. Register your interest free."
 layout: "list"
 sitemap:
   priority: 0.6

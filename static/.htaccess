@@ -39,6 +39,10 @@ RewriteRule ^locations/derby-tutors/gcse/physics-tutoring/?$  /study/locations/d
 # is the closest live equivalent.
 RewriteRule ^past-papers(/.*)?$  /study/blog/  [L,R=301]
 
+# The November 2026 parent webinar was renamed the GCSE Revision Masterclass
+# (October 2026), so its old address goes to the new one.
+RewriteRule ^webinars/november-2026/?$  /study/webinars/gcse-revision-masterclass/  [L,R=301]
+
 
 # ---------------------------------------------------------------------------
 # Security headers and caching.

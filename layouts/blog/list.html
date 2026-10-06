@@ -402,16 +402,17 @@
   </section>
   {{ end }}
 
-  {{/* ---- Webinar promo strip (always shows the GCSE Mock Webinar) ---- */}}
+  {{/* ---- Webinar promo strip (shows this year's GCSE Revision Masterclass) ---- */}}
+  {{ $masterclass := site.GetPage "/webinars/gcse-revision-masterclass" }}
   <section class="blog-webinar" aria-label="Free webinar">
-    <a class="blog-webinar__card" href="{{ "gcse-mock-webinar/" | relURL }}">
+    <a class="blog-webinar__card" href="{{ with $masterclass }}{{ .RelPermalink }}{{ else }}{{ "webinars/" | relURL }}{{ end }}">
       <div>
         <p class="blog-webinar__eyebrow">FREE PARENT MASTERCLASS</p>
-        <h2 class="blog-webinar__heading">GCSE Mock Webinar: what March mocks really test</h2>
-        <p class="blog-webinar__sub">Our co-founder-led webinar for parents of Year 10 and Year 11 students. Hear when the next session runs.</p>
+        <h2 class="blog-webinar__heading">GCSE Revision Masterclass{{ with $masterclass }}, {{ .Params.webinar_date_display }}{{ end }}</h2>
+        <p class="blog-webinar__sub">Harry and Joe's free 45-minute session for parents of Year 10 and Year 11 students, on mocks and revision at home.</p>
       </div>
       <span class="blog-webinar__cta">
-        Reserve your seat
+        Register your interest
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
       </span>
     </a>
