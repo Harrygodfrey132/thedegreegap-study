@@ -7,7 +7,9 @@ _build:
   list: never
 sitemap:
   disable: true
-# The address as first requested, kept working in case it was already shared.
+# Served at the address Harry asked for. The conventionally spelt one redirects
+# here, in case it was shared before the page moved.
+url: /baner-previews-school-guide/
 aliases:
-  - /baner-previews-school-guide/
+  - /banner-previews-school-guide/
 ---
