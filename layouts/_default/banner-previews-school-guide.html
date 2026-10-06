@@ -14,7 +14,10 @@
      signal. The skyscraper had the same box, so it gets the same change.
 
      The PNGs under static/images/banners/school-guide/ are rendered from this
-     page. Re-export them after changing a banner. */}}
+     page by headless Chrome at 1x, so lines and edges snap to whole pixels.
+     Don't render bigger and scale down: that smears the 1px rules and button
+     edges across two rows. They are saved uncompressed with an sRGB tag
+     because School Guide asked for the highest-quality PNG setting. */}}
 {{ $dest := .Params.banner_dest | default "referred-by-school-guide/" }}
 {{ $utm := printf "utm_source=%s&utm_medium=banner&utm_campaign=%s&utm_content=" (.Params.utm_source | default "schoolguide") (.Params.utm_campaign | default "schoolguide-2026") }}
 {{ $reviews := site.Params.googleReviewCount }}
@@ -264,7 +267,7 @@
 
       </div>
       <p class="bc-files">
-        <a href="{{ $png }}the-degree-gap-{{ .file }}-v3.png" download>Download PNG ({{ .size }})</a>
+        <a href="{{ $png }}the-degree-gap-school-guide-{{ .file }}.png" download>Download PNG ({{ .size }})</a>
       </p>
     </section>
     {{ end }}
