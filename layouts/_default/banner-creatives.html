@@ -1,0 +1,351 @@
+{{ define "seo" }}
+{{ partial "seo.html" . }}
+<meta name="robots" content="noindex, follow">
+{{ end }}
+
+{{ define "main" }}
+{{/* Partner-neutral banner set. Six units: five fixed IAB sizes and a fluid
+     native unit. Every unit is one link to banner_dest, tagged with the page's
+     utm_source and utm_campaign plus a per-unit utm_content, so each enquiry
+     shows which placement it came from.
+
+     The PNGs under static/images/banners/ are rendered from this page by
+     scripts/export-banners.js. Re-run it after changing a banner. */}}
+{{ $dest := .Params.banner_dest | default "book-a-call/" }}
+{{ $utm := printf "utm_source=%s&utm_medium=banner&utm_campaign=%s&utm_content=" (.Params.utm_source | default "partner") (.Params.utm_campaign | default "banners-2026") }}
+{{ $reviews := site.Params.googleReviewCount }}
+{{ $rating := site.Params.googleReviewRating | default "5.0" }}
+{{ $logo := "images/final-logo-tight.svg" | relURL }}
+{{ $png := "images/banners/" | relURL }}
+{{ $star := "M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01z" }}
+{{ $stars := printf `<svg class="bc-stars" viewBox="0 0 120 24" role="img" aria-label="Rated %s out of 5"><g fill="#FBBC05"><path d="%s"/><path transform="translate(24 0)" d="%s"/><path transform="translate(48 0)" d="%s"/><path transform="translate(72 0)" d="%s"/><path transform="translate(96 0)" d="%s"/></g></svg>` $rating $star $star $star $star $star | safeHTML }}
+{{ $arrow := `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 12h14M13 6l6 6-6 6"/></svg>` | safeHTML }}
+{{ $units := slice
+  (dict "id" "leaderboard-728x90" "name" "Leaderboard" "size" "728 × 90" "file" "728x90")
+  (dict "id" "mpu-300x250" "name" "Medium rectangle (MPU)" "size" "300 × 250" "file" "300x250")
+  (dict "id" "halfpage-300x600" "name" "Half page" "size" "300 × 600" "file" "300x600")
+  (dict "id" "skyscraper-160x600" "name" "Wide skyscraper" "size" "160 × 600" "file" "160x600")
+  (dict "id" "mobile-320x100" "name" "Large mobile banner" "size" "320 × 100" "file" "320x100")
+  (dict "id" "native-620" "name" "Native in-content unit" "size" "Fluid, up to 620 wide" "file" "native-620") }}
+
+<style>
+  /* Poppins, self-hosted so the banners render in the brand font on any
+     machine, including the one that exports the PNGs. */
+  @font-face { font-family: 'Poppins'; font-style: normal; font-weight: 400; font-display: swap; src: url('{{ "fonts/poppins/poppins-latin-400-normal.woff2" | relURL }}') format('woff2'); }
+  @font-face { font-family: 'Poppins'; font-style: normal; font-weight: 600; font-display: swap; src: url('{{ "fonts/poppins/poppins-latin-600-normal.woff2" | relURL }}') format('woff2'); }
+  @font-face { font-family: 'Poppins'; font-style: normal; font-weight: 700; font-display: swap; src: url('{{ "fonts/poppins/poppins-latin-700-normal.woff2" | relURL }}') format('woff2'); }
+  @font-face { font-family: 'Poppins'; font-style: normal; font-weight: 800; font-display: swap; src: url('{{ "fonts/poppins/poppins-latin-800-normal.woff2" | relURL }}') format('woff2'); }
+  @font-face { font-family: 'Poppins'; font-style: normal; font-weight: 900; font-display: swap; src: url('{{ "fonts/poppins/poppins-latin-900-normal.woff2" | relURL }}') format('woff2'); }
+
+  /* ===== Page ===== */
+  .bc-page {
+    background: #fafafa; min-height: 80vh; padding: 56px 24px 96px;
+    font-family: 'Poppins', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  }
+  .bc-inner { max-width: 1000px; margin: 0 auto; }
+  .bc-intro { margin-bottom: 8px; }
+  .bc-label { display: inline-block; font-size: 0.7rem; font-weight: 700; letter-spacing: 0.14em; color: #800020; margin-bottom: 8px; }
+  .bc-intro h1 { font-size: 1.8rem; font-weight: 800; color: #171717; letter-spacing: -0.015em; margin: 0 0 14px; }
+  .bc-intro p { font-size: 0.95rem; line-height: 1.65; color: #5f5a54; margin: 0 0 10px; max-width: 760px; }
+  .bc-intro strong { color: #171717; font-weight: 700; }
+
+  .bc-block { margin: 48px 0 0; }
+  .bc-h2 { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; font-size: 1.1rem; font-weight: 700; color: #171717; margin: 0 0 6px; letter-spacing: -0.01em; }
+  .bc-size { font-size: 0.78rem; font-weight: 600; color: #5f5a54; background: #fbf7ef; border: 1px solid #e6ded4; border-radius: 999px; padding: 3px 10px; letter-spacing: 0.04em; white-space: nowrap; }
+  .bc-note { font-size: 0.88rem; color: #5f5a54; margin: 0 0 16px; line-height: 1.6; }
+  .bc-frame { display: flex; justify-content: center; padding: 32px 16px; border-radius: 12px; background: #ffffff; border: 1px dashed #d4ccc0; }
+  .bc-files { display: flex; flex-wrap: wrap; gap: 8px 16px; margin: 12px 0 0; font-size: 0.85rem; color: #5f5a54; }
+  .bc-files a { color: #800020; font-weight: 600; text-decoration: underline; text-underline-offset: 2px; }
+
+  .bc-card { background: #ffffff; border: 1px solid #e6ded4; border-radius: 12px; padding: 22px 26px; margin: 56px 0 0; }
+  .bc-card h2 { font-size: 0.78rem; font-weight: 700; letter-spacing: 0.10em; text-transform: uppercase; color: #800020; margin: 0 0 14px; }
+  .bc-card p { font-size: 0.92rem; line-height: 1.7; color: #171717; margin: 0 0 10px; }
+  .bc-card p:last-child { margin-bottom: 0; }
+  .bc-table-wrap { overflow-x: auto; }
+  .bc-table { width: 100%; border-collapse: collapse; font-size: 0.85rem; }
+  .bc-table th, .bc-table td { text-align: left; padding: 9px 10px; border-bottom: 1px solid #efe9e1; line-height: 1.5; vertical-align: top; }
+  .bc-table th { font-size: 0.7rem; letter-spacing: 0.08em; text-transform: uppercase; color: #5f5a54; font-weight: 700; border-bottom: 2px solid #e6ded4; }
+  .bc-table td:first-child { font-weight: 600; color: #171717; white-space: nowrap; }
+  .bc-table code { font-size: 0.78rem; word-break: break-all; color: #3a3530; }
+  .bc-table tr:last-child td { border-bottom: none; }
+
+  /* ===== Banner system =====
+     Fixed sizes are full-bleed rectangles with square corners and a hairline
+     border, so they fill an ad slot exactly and stay distinct on a white page.
+     Only the native unit, which sits inside an article, is rounded. */
+  .bc-banner {
+    position: relative; display: flex; box-sizing: border-box; overflow: hidden;
+    background: #F9EFEE; border: 1px solid #E5CFCE; color: #2B2321;
+    font-family: 'Poppins', system-ui, -apple-system, "Segoe UI", sans-serif;
+    text-decoration: none; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;
+  }
+  .bc-banner, .bc-banner * { text-decoration: none !important; box-sizing: border-box; }
+  .bc-banner:focus-visible { outline: 3px solid #800020; outline-offset: 3px; }
+  .bc-banner:hover .bc-cta { background: #5A001F; }
+  .bc-motif { position: absolute; pointer-events: none; }
+  .bc-body { position: relative; z-index: 1; display: flex; width: 100%; height: 100%; }
+  .bc-logo { display: block; height: auto; flex: 0 0 auto; }
+  .bc-head { display: block; font-weight: 800; color: #2B2321; letter-spacing: -0.02em; line-height: 1.12; text-wrap: balance; }
+  .bc-sub { display: block; font-weight: 400; color: #5C4A47; line-height: 1.45; text-wrap: pretty; }
+  .bc-trust { display: flex; align-items: center; gap: 6px; color: #5C4A47; white-space: nowrap; line-height: 1; }
+  .bc-trust b { font-weight: 700; color: #2B2321; }
+  .bc-stars { display: block; flex: 0 0 auto; }
+  .bc-dot { width: 3px; height: 3px; border-radius: 50%; background: #C9AFAD; flex: 0 0 auto; }
+  .bc-cta {
+    display: inline-flex; align-items: center; justify-content: center; gap: 6px;
+    background: #800020; color: #FFFFFF; font-weight: 700; border-radius: 999px;
+    white-space: nowrap; letter-spacing: 0; transition: background 0.15s ease;
+  }
+  .bc-cta svg { width: 1em; height: 1em; flex: 0 0 auto; }
+  /* Paid-ad label: small and muted, but on every unit so the ad is obviously
+     identifiable, as the CAP Code requires of advertiser and publisher alike. */
+  .bc-ad {
+    position: absolute; top: 6px; right: 8px; z-index: 2;
+    font-size: 8px; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase;
+    color: #9C8886; line-height: 1;
+  }
+  .bc-award { display: block; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; color: #800020; line-height: 1.4; }
+  .bc-rule { display: block; height: 1px; background: #E5CFCE; flex: 0 0 auto; }
+  .bc-callout { display: block; background: #FFFFFF; border: 1px solid #E5CFCE; border-radius: 10px; }
+  .bc-eyebrow { display: block; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: #800020; }
+  .bc-line { display: block; font-weight: 700; color: #2B2321; line-height: 1.3; }
+
+  /* 728 x 90 leaderboard */
+  .bc-728 { width: 728px; height: 90px; }
+  .bc-728 .bc-body { align-items: center; gap: 22px; padding: 0 20px 0 24px; }
+  .bc-728 .bc-logo { width: 120px; }
+  .bc-728 .bc-text { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 5px; }
+  .bc-728 .bc-head { font-size: 19px; }
+  .bc-728 .bc-sub { font-size: 12px; white-space: nowrap; }
+  .bc-728 .bc-trust { font-size: 11px; }
+  .bc-728 .bc-stars { width: 60px; height: 12px; }
+  .bc-728 .bc-cta { font-size: 14px; height: 44px; padding: 0 22px; flex: 0 0 auto; }
+
+  /* 300 x 250 medium rectangle */
+  .bc-300x250 { width: 300px; height: 250px; }
+  .bc-300x250 .bc-body { flex-direction: column; padding: 18px 20px 20px; }
+  .bc-300x250 .bc-logo { width: 96px; }
+  .bc-300x250 .bc-head { font-size: 22px; margin: 16px 0 8px; }
+  .bc-300x250 .bc-sub { font-size: 12.5px; max-width: 250px; }
+  .bc-300x250 .bc-trust { font-size: 11px; margin: auto 0 11px; }
+  .bc-300x250 .bc-stars { width: 60px; height: 12px; }
+  .bc-300x250 .bc-cta { align-self: flex-start; font-size: 13.5px; height: 40px; padding: 0 20px; }
+  .bc-300x250 .bc-motif { right: -22px; bottom: -24px; width: 100px; height: 100px; }
+
+  /* 300 x 600 half page */
+  .bc-300x600 { width: 300px; height: 600px; }
+  .bc-300x600 .bc-body { flex-direction: column; padding: 22px 24px 24px; }
+  .bc-300x600 .bc-ad { position: static; align-self: flex-start; margin: 0 0 12px; }
+  .bc-300x600 .bc-logo { width: 124px; }
+  .bc-300x600 .bc-head { font-size: 28px; margin: 20px 0 10px; }
+  .bc-300x600 .bc-sub { font-size: 14px; margin: 0 0 18px; }
+  .bc-300x600 .bc-rule { margin: 0 0 18px; }
+  .bc-300x600 .bc-stars { width: 95px; height: 19px; margin: 0 0 8px; }
+  .bc-300x600 .bc-score { display: block; font-size: 21px; font-weight: 800; color: #2B2321; line-height: 1; margin: 0 0 5px; }
+  .bc-300x600 .bc-count { display: block; font-size: 12px; color: #5C4A47; line-height: 1.4; margin: 0 0 18px; }
+  .bc-300x600 .bc-callout { padding: 11px 14px; margin: 0 0 16px; }
+  .bc-300x600 .bc-eyebrow { font-size: 9px; letter-spacing: 0.1em; margin: 0 0 4px; }
+  .bc-300x600 .bc-line { font-size: 13.5px; }
+  .bc-300x600 .bc-award { font-size: 10px; margin: 0 0 18px; }
+  .bc-300x600 .bc-cta { margin-top: auto; font-size: 15px; height: 50px; }
+  .bc-300x600 .bc-motif { right: -26px; top: -42px; width: 150px; height: 150px; }
+
+  /* 160 x 600 wide skyscraper. At this width the body has about 132px, so the
+     copy is shorter and the free-call offer is a single short line. */
+  .bc-160x600 { width: 160px; height: 600px; }
+  .bc-160x600 .bc-body { flex-direction: column; padding: 18px 14px 16px; }
+  .bc-160x600 .bc-logo { width: 112px; margin: 8px 0 0; }
+  .bc-160x600 .bc-head { font-size: 21px; margin: 26px 0 12px; }
+  .bc-160x600 .bc-sub { font-size: 12.5px; margin: 0 0 20px; }
+  .bc-160x600 .bc-rule { margin: 0 0 18px; }
+  .bc-160x600 .bc-stars { width: 75px; height: 15px; margin: 0 0 7px; }
+  .bc-160x600 .bc-score { display: block; font-size: 19px; font-weight: 800; color: #2B2321; line-height: 1; margin: 0 0 5px; }
+  .bc-160x600 .bc-count { display: block; font-size: 11px; color: #5C4A47; line-height: 1.4; margin: 0 0 20px; }
+  .bc-160x600 .bc-callout { padding: 10px 11px; margin: 0 0 18px; }
+  .bc-160x600 .bc-eyebrow { font-size: 7.5px; letter-spacing: 0.06em; white-space: nowrap; margin: 0 0 3px; }
+  .bc-160x600 .bc-line { font-size: 12px; }
+  .bc-160x600 .bc-award { font-size: 9px; letter-spacing: 0.03em; margin: 0 0 16px; }
+  .bc-160x600 .bc-cta { margin-top: auto; font-size: 13px; height: 46px; gap: 5px; }
+
+  /* 320 x 100 large mobile banner */
+  .bc-320 { width: 320px; height: 100px; }
+  .bc-320 .bc-body { align-items: center; gap: 10px; padding: 0 12px 0 14px; }
+  .bc-320 .bc-text { flex: 1; min-width: 0; display: flex; flex-direction: column; }
+  .bc-320 .bc-logo { width: 72px; margin: 0 0 6px; }
+  .bc-320 .bc-head { font-size: 14.5px; margin: 0 0 6px; }
+  .bc-320 .bc-trust { font-size: 9.5px; gap: 4px; }
+  .bc-320 .bc-stars { width: 45px; height: 9px; }
+  .bc-320 .bc-cta { font-size: 12px; height: 36px; padding: 0 14px; gap: 5px; flex: 0 0 auto; }
+  .bc-320 .bc-ad { top: 5px; right: 7px; font-size: 7px; }
+
+  /* Native in-content unit */
+  .bc-native { width: 100%; max-width: 620px; border-radius: 14px; }
+  .bc-native .bc-body { flex-direction: column; padding: 26px 28px 28px; }
+  .bc-native .bc-logo { width: 124px; }
+  .bc-native .bc-head { font-size: 27px; margin: 20px 0 10px; max-width: 420px; }
+  .bc-native .bc-sub { font-size: 15px; max-width: 420px; margin: 0 0 16px; }
+  .bc-native .bc-trust { font-size: 12.5px; margin: 0 0 22px; }
+  .bc-native .bc-stars { width: 70px; height: 14px; }
+  .bc-native .bc-cta { align-self: flex-start; font-size: 15px; height: 48px; padding: 0 26px; }
+  .bc-native .bc-motif { right: -20px; bottom: -26px; width: 140px; height: 140px; }
+  .bc-native .bc-ad { top: 10px; right: 14px; }
+
+  @media (max-width: 800px) {
+    .bc-page { padding: 40px 14px 72px; }
+    .bc-frame { justify-content: flex-start; overflow-x: auto; }
+  }
+</style>
+
+<div class="bc-page">
+  <div class="bc-inner">
+
+    <header class="bc-intro">
+      <span class="bc-label">THE DEGREE GAP &middot; BANNER CREATIVES</span>
+      <h1>Banner creatives</h1>
+      <p>Six units for parents of GCSE and A-Level students: five standard IAB sizes and one fluid unit for articles. Each banner is a single link, and hovering shows the click state.</p>
+      <p>Every unit carries a small <strong>Ad</strong> label so it's clearly identifiable as advertising. PNG files are linked under each one, at standard and double resolution for sharp screens.</p>
+    </header>
+
+    {{ range $units }}
+    {{ $href := printf "%s?%s%s" $dest $utm .id | relURL }}
+    <section class="bc-block" id="{{ .id }}">
+      <h2 class="bc-h2"><span>{{ .name }}</span><span class="bc-size">{{ .size }}</span></h2>
+      {{ if eq .file "728x90" }}<p class="bc-note">Across the top of a page or a results table.</p>{{ end }}
+      {{ if eq .file "300x250" }}<p class="bc-note">The most widely supported size. Sits beside content or between sections.</p>{{ end }}
+      {{ if eq .file "300x600" }}<p class="bc-note">A sidebar unit with room for the reviews, the free call and the award.</p>{{ end }}
+      {{ if eq .file "160x600" }}<p class="bc-note">For narrower sidebars, the standard size below the half page.</p>{{ end }}
+      {{ if eq .file "320x100" }}<p class="bc-note">For phones, above or between content.</p>{{ end }}
+      {{ if eq .file "native-620" }}<p class="bc-note">Inside an article or a list of recommendations, where a fixed ad size would look bolted on. It fills the column up to 620px wide.</p>{{ end }}
+      <div class="bc-frame">
+
+        {{ if eq .file "728x90" }}
+        <a class="bc-banner bc-728" data-unit="{{ .file }}" href="{{ $href }}" target="_blank" rel="sponsored noopener" aria-label="The Degree Gap: find a GCSE or A-Level tutor">
+          <span class="bc-ad">Ad</span>
+          <span class="bc-body">
+            <img class="bc-logo" src="{{ $logo }}" alt="The Degree Gap" width="686" height="219">
+            <span class="bc-text">
+              <span class="bc-head">Grades not where they should be?</span>
+              <span class="bc-sub">GCSE and A-Level tutors, matched to your child.</span>
+              <span class="bc-trust">{{ $stars }}<b>{{ $rating }}</b><span class="bc-dot" aria-hidden="true"></span><span>{{ $reviews }} Google reviews</span></span>
+            </span>
+            <span class="bc-cta">Find my tutor {{ $arrow }}</span>
+          </span>
+        </a>
+        {{ end }}
+
+        {{ if eq .file "300x250" }}
+        <a class="bc-banner bc-300x250" data-unit="{{ .file }}" href="{{ $href }}" target="_blank" rel="sponsored noopener" aria-label="The Degree Gap: find a GCSE or A-Level tutor">
+          {{ partial "banner-motif.html" . }}
+          <span class="bc-ad">Ad</span>
+          <span class="bc-body">
+            <img class="bc-logo" src="{{ $logo }}" alt="The Degree Gap" width="686" height="219">
+            <span class="bc-head">Grades not where they should be?</span>
+            <span class="bc-sub">One-to-one GCSE and A-Level tutors, matched to your child.</span>
+            <span class="bc-trust">{{ $stars }}<b>{{ $rating }}</b><span class="bc-dot" aria-hidden="true"></span><span>{{ $reviews }} Google reviews</span></span>
+            <span class="bc-cta">Find my tutor {{ $arrow }}</span>
+          </span>
+        </a>
+        {{ end }}
+
+        {{ if eq .file "300x600" }}
+        <a class="bc-banner bc-300x600" data-unit="{{ .file }}" href="{{ $href }}" target="_blank" rel="sponsored noopener" aria-label="The Degree Gap: find a GCSE or A-Level tutor">
+          {{ partial "banner-motif.html" . }}
+          <span class="bc-body">
+            <span class="bc-ad">Ad</span>
+            <img class="bc-logo" src="{{ $logo }}" alt="The Degree Gap" width="686" height="219">
+            <span class="bc-head">Grades not where they should be?</span>
+            <span class="bc-sub">We match your child with a vetted GCSE or A-Level tutor, by subject and exam board.</span>
+            <span class="bc-rule"></span>
+            {{ $stars }}
+            <span class="bc-score">{{ $rating }}</span>
+            <span class="bc-count">{{ $reviews }} Google reviews</span>
+            <span class="bc-callout">
+              <span class="bc-eyebrow">Free 30-minute call</span>
+              <span class="bc-line">With one of our founders</span>
+            </span>
+            <span class="bc-award">GCSE Tutoring Specialists of the Year 2025 &amp; 2026</span>
+            <span class="bc-cta">Find my tutor {{ $arrow }}</span>
+          </span>
+        </a>
+        {{ end }}
+
+        {{ if eq .file "160x600" }}
+        <a class="bc-banner bc-160x600" data-unit="{{ .file }}" href="{{ $href }}" target="_blank" rel="sponsored noopener" aria-label="The Degree Gap: find a GCSE or A-Level tutor">
+          <span class="bc-ad">Ad</span>
+          <span class="bc-body">
+            <img class="bc-logo" src="{{ $logo }}" alt="The Degree Gap" width="686" height="219">
+            <span class="bc-head">Grades not where they should be?</span>
+            <span class="bc-sub">One-to-one GCSE and A-Level tutors, matched to your child.</span>
+            <span class="bc-rule"></span>
+            {{ $stars }}
+            <span class="bc-score">{{ $rating }}</span>
+            <span class="bc-count">{{ $reviews }} Google reviews</span>
+            <span class="bc-callout">
+              <span class="bc-eyebrow">Free 30-minute call</span>
+              <span class="bc-line">With one of our founders</span>
+            </span>
+            <span class="bc-award">GCSE Tutoring Specialists of the Year 2025 &amp; 2026</span>
+            <span class="bc-cta">Find my tutor {{ $arrow }}</span>
+          </span>
+        </a>
+        {{ end }}
+
+        {{ if eq .file "320x100" }}
+        <a class="bc-banner bc-320" data-unit="{{ .file }}" href="{{ $href }}" target="_blank" rel="sponsored noopener" aria-label="The Degree Gap: find a GCSE or A-Level tutor">
+          <span class="bc-ad">Ad</span>
+          <span class="bc-body">
+            <span class="bc-text">
+              <img class="bc-logo" src="{{ $logo }}" alt="The Degree Gap" width="686" height="219">
+              <span class="bc-head">Grades not where they should be?</span>
+              <span class="bc-trust">{{ $stars }}<b>{{ $rating }}</b><span>&middot; {{ $reviews }} reviews</span></span>
+            </span>
+            <span class="bc-cta">Find my tutor {{ $arrow }}</span>
+          </span>
+        </a>
+        {{ end }}
+
+        {{ if eq .file "native-620" }}
+        <a class="bc-banner bc-native" data-unit="{{ .file }}" href="{{ $href }}" target="_blank" rel="sponsored noopener" aria-label="The Degree Gap: find a GCSE or A-Level tutor">
+          {{ partial "banner-motif.html" . }}
+          <span class="bc-ad">Ad</span>
+          <span class="bc-body">
+            <img class="bc-logo" src="{{ $logo }}" alt="The Degree Gap" width="686" height="219">
+            <span class="bc-head">Grades not where they should be?</span>
+            <span class="bc-sub">We match your child with a vetted GCSE or A-Level tutor, by subject and by exam board, and lessons are one-to-one and online.</span>
+            <span class="bc-trust">{{ $stars }}<b>{{ $rating }}</b><span class="bc-dot" aria-hidden="true"></span><span>{{ $reviews }} Google reviews</span></span>
+            <span class="bc-cta">Find my tutor {{ $arrow }}</span>
+          </span>
+        </a>
+        {{ end }}
+
+      </div>
+      <p class="bc-files">
+        <a href="{{ $png }}the-degree-gap-{{ .file }}.png" download>PNG</a>
+        <a href="{{ $png }}the-degree-gap-{{ .file }}@2x.png" download>PNG at 2x</a>
+      </p>
+    </section>
+    {{ end }}
+
+    <div class="bc-card">
+      <h2>Click-through links</h2>
+      <p>Each banner links to our free consultation booking page. If you're placing the PNG files, use the matching link below so we can see which placement each enquiry came from.</p>
+      <div class="bc-table-wrap">
+        <table class="bc-table">
+          <thead><tr><th>Unit</th><th>Link</th></tr></thead>
+          <tbody>
+            {{ range $units }}
+            <tr><td>{{ .size }}</td><td><code>{{ printf "%s?%s%s" $dest $utm .id | absURL }}</code></td></tr>
+            {{ end }}
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="bc-card">
+      <h2>Another size?</h2>
+      <p>Tell us the slot's dimensions and we'll cut it from the same design.</p>
+    </div>
+
+  </div>
+</div>
+{{ end }}
