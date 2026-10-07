@@ -19,6 +19,10 @@ hide_whatsapp: true
 parent_cta_text: "For parents: our free GCSE Revision Masterclass shows how to help a plan like this stick at home, without it turning into a row."
 parent_cta_label: "See the masterclass"
 parent_cta_url: "webinars/gcse-revision-masterclass/"
+# Zoho Lead Source for anyone who asks for the printable templates. It has to
+# be a value already in the Lead Source picklist, or Zoho drops it. "Web
+# Download" was in the list and unused, so these leads are easy to pick out.
+lead_source: "Web Download"
 faqs:
   - q: "How do I make a revision timetable?"
     a: "Count the weeks to your first exam, list your subjects and give the ones that need the most work more sessions. Keep each session to 30 to 45 minutes, mix two or three subjects in a day and spend most of the time testing yourself. The planner on this page does all of that for you in about two minutes."
@@ -29,7 +33,7 @@ faqs:
   - q: "When should I start revising for GCSEs?"
     a: "Start a light routine in the autumn of Year 11, once mock dates are known, and step it up after February half term. Starting early is less about the number of hours and more about spacing: a topic you come back to over several months stays with you far better than one crammed in May."
   - q: "Is the revision timetable maker free?"
-    a: "Yes. There is no sign-up and nothing to pay. Your plan is made in your browser, and your answers are only kept on the device you used."
+    a: "Yes. The planner has no sign-up and nothing to pay. Your plan is made in your browser, and your answers are only kept on the device you used. The printable templates are free too: we just ask for your name and email address first."
   - q: "Can I edit my timetable in Excel or Google Sheets?"
     a: "Yes. Choose \"Download for Excel or Google Sheets\" and open the file in either one. There is also a blank, editable spreadsheet in the downloads on this page."
 ---
@@ -40,7 +44,7 @@ A revision timetable has one job. It decides in advance what gets revised and wh
 
 **Start from your first exam and work backwards.** The summer 2027 exams are due to start on Monday 10 May 2027. The number of weeks between today and your first paper is your budget, and every subject has to fit inside it.
 
-**List your subjects, then the topics inside them.** A subject is too big to revise in one go. Use the [topic checklist](/downloads/revision-topic-checklist.pdf) to break each one into topics, and rate every topic red, amber or green.
+**List your subjects, then the topics inside them.** A subject is too big to revise in one go. Use the [topic checklist](#rt-downloads) to break each one into topics, and rate every topic red, amber or green.
 
 **Give weaker subjects more time, but not all of it.** The planner gives a subject that needs the most work three sessions for every one a confident subject gets. Confident subjects still need regular practice, or they quietly slip.
 

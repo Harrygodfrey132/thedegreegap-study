@@ -10,6 +10,9 @@
 <style>
   .rt { font-family: 'Poppins', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: #171717; }
   .rt-wrap { max-width: 1080px; margin: 0 auto; padding: 0 20px; }
+  /* Several parts below set their own display, which would otherwise beat the
+     hidden attribute the scripts use to show and hide them. */
+  .rt [hidden] { display: none !important; }
   .rt-nb { white-space: nowrap; }
   .rt-sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 
@@ -118,13 +121,32 @@
 
   .rt-downloads { padding: 40px 0 8px; }
   .rt-downloads h2 { font-size: clamp(1.35rem, 2.6vw, 1.75rem); font-weight: 800; margin: 0 0 6px; }
-  .rt-downloads > .rt-wrap > p { color: #5f5a54; margin: 0 0 18px; }
-  .rt-files { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 14px; list-style: none; margin: 0; padding: 0; }
-  .rt-file { border: 1px solid #e6ded4; border-radius: 12px; background: #fff; padding: 18px; display: flex; flex-direction: column; gap: 6px; }
+  .rt-downloads__lead { color: #5f5a54; margin: 0 0 18px; max-width: 760px; }
+  .rt-dl { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 400px); gap: 18px; align-items: start; }
+  .rt-files { display: grid; gap: 12px; list-style: none; margin: 0; padding: 0; }
+  .rt-file { border: 1px solid #e6ded4; border-radius: 12px; background: #fff; padding: 16px 18px; display: flex; flex-direction: column; gap: 4px; }
+  .rt-get { border: 1px solid #e6ded4; border-radius: 14px; background: #fff; padding: 20px; box-shadow: 0 16px 44px rgba(35, 23, 17, 0.08); }
+  .rt-lead { display: grid; gap: 12px; }
+  .rt-lead__title { font-size: 1.15rem; font-weight: 800; margin: 0; }
+  .rt-lead__sub { font-size: 0.92rem; color: #5f5a54; margin: 0; }
+  .rt-lead__field label { display: block; font-weight: 700; font-size: 0.88rem; margin: 0 0 5px; }
+  .rt-lead__field label span { color: #5f5a54; font-weight: 500; }
+  .rt-lead__field .rt-input, .rt-lead__field .rt-select { width: 100%; }
+  .rt-lead__hint { font-size: 0.82rem; color: #5f5a54; margin: 5px 0 0; }
+  .rt-check { display: flex; gap: 10px; align-items: flex-start; font-size: 0.88rem; line-height: 1.45; cursor: pointer; }
+  .rt-check input { width: 20px; height: 20px; flex: 0 0 auto; margin: 1px 0 0; accent-color: #800020; }
+  .rt-check em { font-style: normal; color: #5f5a54; }
+  .rt-lead .btn { border: 0; cursor: pointer; font: inherit; font-weight: 700; width: 100%; }
+  .rt-lead__fine { font-size: 0.8rem; color: #5f5a54; margin: 0; }
+  .rt-got { display: grid; gap: 10px; }
+  .rt-got:focus { outline: none; }
+  .rt-got ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+  .rt-got a { display: block; font-weight: 700; padding: 10px 12px; border: 1px solid #e6ded4; border-radius: 8px; background: #fdfbf8; }
+  .rt-got a::before { content: "\2193\00a0"; }
+  @media (max-width: 860px) { .rt-dl { grid-template-columns: 1fr; } }
   .rt-file__type { font-size: 0.72rem; font-weight: 800; letter-spacing: 0.12em; text-transform: uppercase; color: #800020; }
   .rt-file h3 { font-size: 1.05rem; font-weight: 800; margin: 0; }
   .rt-file p { font-size: 0.92rem; color: #5f5a54; margin: 0 0 6px; flex: 1 1 auto; }
-  .rt-file a { font-weight: 700; }
 
   .rt-guide { max-width: 760px; margin: 0 auto; padding: 40px 20px 8px; font-size: 1.04rem; line-height: 1.75; color: #2d2a26; }
   .rt-guide h2 { font-size: clamp(1.35rem, 2.6vw, 1.75rem); font-weight: 800; color: #171717; margin: 36px 0 12px; line-height: 1.25; }
@@ -326,32 +348,108 @@
     </div>
   </section>
 
+  {{/* The planner above is open to everyone, which is what lets schools hand
+       it out and Google rank it. The printable pack asks for a name and an
+       email first, the way the January 2026 timetable download did: that one
+       brought in 22 parent leads with phone numbers. The lead goes to Zoho on
+       the same web form as the webinar pages, and the links appear at once. */}}
+  {{ $files := slice
+    (dict "type" "PDF &middot; A4 landscape" "title" "Weekly revision timetable" "file" "downloads/revision-timetable-weekly.pdf" "link" "Download the weekly timetable" "text" "Seven days and eight sessions to fill in by hand, with a box for the week's focus and a colour key for subjects.")
+    (dict "type" "PDF &middot; A4 portrait" "title" "Revision topic checklist" "file" "downloads/revision-topic-checklist.pdf" "link" "Download the topic checklist" "text" "List every topic in a subject, rate each one red, amber or green, and track when you last revised and tested it.")
+    (dict "type" "Excel &middot; works in Google Sheets" "title" "Editable timetable and checklist" "file" "downloads/revision-timetable.xlsx" "link" "Download the spreadsheet" "text" "Both sheets in one spreadsheet, to fill in on a laptop. The checklist has red, amber and green drop-downs.") }}
   <section class="rt-downloads" id="rt-downloads" aria-labelledby="rt-downloads-title">
     <div class="rt-wrap">
       <h2 id="rt-downloads-title">Blank revision timetable templates</h2>
-      <p>Free to print, share and hand out. Schools are welcome to put them in a newsletter or on the school website.</p>
-      <ul class="rt-files">
-        <li class="rt-file">
-          <span class="rt-file__type">PDF &middot; A4 landscape</span>
-          <h3>Weekly revision timetable</h3>
-          <p>Seven days and eight sessions to fill in by hand, with a box for the week's focus and a colour key for subjects.</p>
-          <a href="{{ "downloads/revision-timetable-weekly.pdf" | relURL }}" target="_blank" rel="noopener">Download the weekly timetable</a>
-        </li>
-        <li class="rt-file">
-          <span class="rt-file__type">PDF &middot; A4 portrait</span>
-          <h3>Revision topic checklist</h3>
-          <p>List every topic in a subject, rate each one red, amber or green, and track when you last revised and tested it.</p>
-          <a href="{{ "downloads/revision-topic-checklist.pdf" | relURL }}" target="_blank" rel="noopener">Download the topic checklist</a>
-        </li>
-        <li class="rt-file">
-          <span class="rt-file__type">Excel &middot; works in Google Sheets</span>
-          <h3>Editable timetable and checklist</h3>
-          <p>Both sheets in one spreadsheet, to fill in on a laptop. The checklist has red, amber and green drop-downs.</p>
-          <a href="{{ "downloads/revision-timetable.xlsx" | relURL }}">Download the spreadsheet</a>
-        </li>
-      </ul>
+      <p class="rt-downloads__lead">Prefer pen and paper, or want copies to hand out? Get all three printable templates free. Schools are welcome to use them in a newsletter or on the school website.</p>
+      <div class="rt-dl">
+        <ul class="rt-files">
+          {{ range $files }}
+          <li class="rt-file">
+            <span class="rt-file__type">{{ .type | safeHTML }}</span>
+            <h3>{{ .title }}</h3>
+            <p>{{ .text }}</p>
+          </li>
+          {{ end }}
+        </ul>
+
+        <div class="rt-get">
+          <form class="rt-lead" data-rt-lead novalidate>
+            <p class="rt-lead__title">Get the templates</p>
+            <p class="rt-lead__sub">Tell us who you are and the downloads appear straight away.</p>
+            <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
+            <div class="rt-lead__field">
+              <label for="rt-who">I am</label>
+              <select id="rt-who" class="rt-select" name="registrant" required>
+                <option value="" disabled selected>Please choose</option>
+                <option value="Parent or guardian">A parent or guardian</option>
+                <option value="Student">A student</option>
+                <option value="Teacher or school staff">A teacher or member of school staff</option>
+              </select>
+            </div>
+            <div class="rt-lead__field">
+              <label for="rt-name">Name</label>
+              <input id="rt-name" class="rt-input" name="name" type="text" required autocomplete="name">
+            </div>
+            <div class="rt-lead__field">
+              <label for="rt-email">Email</label>
+              <input id="rt-email" class="rt-input" name="email" type="email" required autocomplete="email" placeholder="you@example.com">
+            </div>
+            <div class="rt-lead__field" data-rt-lead-year>
+              <label for="rt-year">Year group</label>
+              {{/* Values must match the Zoho Year of Study picklist exactly. */}}
+              <select id="rt-year" class="rt-select" name="year_of_study" required>
+                <option value="" disabled selected>Please choose</option>
+                <option value="Year 9">Year 9</option>
+                <option value="Year 10">Year 10</option>
+                <option value="GCSE - Year 11">Year 11</option>
+                <option value="Year 11 resit">Year 11 resit</option>
+                <option value="A level - Yr 12">Year 12</option>
+                <option value="A level - Yr 13">Year 13</option>
+                <option value="Unsure">Other, or not sure</option>
+              </select>
+            </div>
+            {{/* A parent is asked for a number and never made to give one. A pupil
+                 is never asked, which is what lets a school share this page. */}}
+            <div class="rt-lead__field" data-rt-lead-phone hidden>
+              <label for="rt-phone">Phone <span>(optional)</span></label>
+              <input id="rt-phone" class="rt-input" name="phone" type="tel" autocomplete="tel" inputmode="tel" placeholder="07XXX XXX XXX" disabled>
+              <p class="rt-lead__hint">Only if you'd like a call about your child's revision.</p>
+            </div>
+            <label class="rt-check" data-rt-lead-tutoring hidden>
+              <input type="checkbox" name="tutoring_interest" value="Yes" disabled>
+              <span>I'd like a free call about tutoring. <em>Optional.</em></span>
+            </label>
+            <label class="rt-check">
+              <input type="checkbox" name="consent" value="yes" required>
+              <span>Email me revision resources and invitations to free parent webinars. I can unsubscribe at any time.</span>
+            </label>
+            <button type="submit" class="btn btn-primary">Get the templates</button>
+            <p class="rt-lead__fine">We never share your details. <a href="{{ site.Params.mainSiteURL }}/privacy-policy" target="_blank" rel="noopener">Privacy policy</a></p>
+          </form>
+
+          <div class="rt-got" data-rt-got tabindex="-1" hidden>
+            <p class="rt-lead__title">Your templates</p>
+            <ul>
+              {{ range $files }}
+              <li><a href="{{ .file | relURL }}"{{ if strings.HasSuffix .file ".pdf" }} target="_blank" rel="noopener"{{ end }}>{{ .link }}</a></li>
+              {{ end }}
+            </ul>
+            <p class="rt-lead__sub">Print as many as you like. Your planner answers above are saved on this device too.</p>
+          </div>
+          <noscript>
+            <ul class="rt-got">
+              {{ range $files }}<li><a href="{{ .file | relURL }}">{{ .link }}</a></li>{{ end }}
+            </ul>
+          </noscript>
+        </div>
+      </div>
     </div>
   </section>
+
+  {{/* The POST target for the lead form, in the markup from the start, the
+       same as on the webinar pages. */}}
+  <iframe name="zoho-target" id="zoho-target" aria-hidden="true" tabindex="-1" title="Form submission"
+          style="position:absolute;width:0;height:0;border:0;visibility:hidden;left:-9999px;top:-9999px"></iframe>
 
   <article class="rt-guide">
     {{ .Content }}
@@ -745,6 +843,91 @@
   } else {
     setSubjects(DEFAULTS.gcse.map(function (n) { return { name: n, weight: 2 }; }));
   }
+})();
+
+/* ---- The template pack: a lead to Zoho, then the links ---- */
+(function () {
+  var form = document.querySelector('[data-rt-lead]');
+  var got = document.querySelector('[data-rt-got]');
+  if (!form || !got) return;
+  var KEY = 'tdg-revision-templates-v1';
+  /* Must be a value in the Zoho Lead Source picklist, or Zoho drops it. */
+  var LEAD_SOURCE = {{ .Params.lead_source | default "Web Download" }};
+  var who = form.elements.registrant;
+
+  function unlock() { form.hidden = true; got.hidden = false; }
+  try { if (localStorage.getItem(KEY)) unlock(); } catch (e) {}
+
+  /* Each question goes only to the person it is written for, as on the
+     webinar forms. A hidden field is disabled, so it is never sent. */
+  function show(sel, on) {
+    var wrap = form.querySelector(sel);
+    wrap.hidden = !on;
+    wrap.querySelectorAll('input, select').forEach(function (f) { f.disabled = !on; });
+  }
+  function update() {
+    var role = who.value;
+    show('[data-rt-lead-year]', role !== 'Teacher or school staff');
+    show('[data-rt-lead-phone]', role === 'Parent or guardian');
+    show('[data-rt-lead-tutoring]', role === 'Parent or guardian' || role === 'Student');
+  }
+  who.addEventListener('change', update);
+  update();
+
+  /* UK phone to +44 E.164, the format the webinar forms store. */
+  function ukPhone(raw) {
+    var digits = String(raw || '').replace(/\D/g, '');
+    if (!digits) return '';
+    if (digits.indexOf('44') === 0) digits = digits.substring(2);
+    if (digits.charAt(0) === '0') digits = digits.substring(1);
+    return '+44' + digits;
+  }
+
+  /* Same Zoho web-to-lead form and fields as the webinar pages, posted into
+     the hidden iframe because Zoho sends no CORS headers. */
+  function sendLead() {
+    var f = document.createElement('form');
+    f.method = 'POST';
+    f.action = 'https://crm.zoho.eu/crm/WebToLeadForm';
+    f.target = 'zoho-target';
+    f.acceptCharset = 'UTF-8';
+    f.style.cssText = 'position:absolute;left:-9999px;top:-9999px;visibility:hidden';
+    function add(name, value) { var i = document.createElement('input'); i.type = 'hidden'; i.name = name; i.value = value; f.appendChild(i); }
+    var el = form.elements, role = who.value;
+    add('xnQsjsdp', '3ed466c7b35b7fc5362fd2a7dbc59aa25c93856390bacc86da6dc4324a09f032');
+    add('xmIwtLD', '62912caa86f3a8312df41b466a952aff81aaa83cceed69b9167a4d99f0bbc1ca33d4ec974b07f5420e4b7ad2af7fbc48');
+    add('actionType', 'TGVhZHM=');
+    add('returnURL', 'null');
+    add('aG9uZXlwb3Q', '');
+    add('Last Name', el.name.value.trim() || 'Parent');
+    add('Email', el.email.value.trim());
+    if (!el.phone.disabled && el.phone.value.trim()) add('Phone', ukPhone(el.phone.value));
+    /* Type of lead: the January 2026 timetable leads were all Customer. */
+    add('LEADCF5', role === 'Teacher or school staff' ? 'School' : 'Customer');
+    add('LEADCF3', el.year_of_study.disabled ? 'Unsure' : el.year_of_study.value);
+    var notes = [];
+    /* Worded exactly as on the webinar forms, and first, because the Zoho
+       workflow that sets Lead Status is keyed on this line. */
+    if (!el.tutoring_interest.disabled) notes.push('A-Level tutoring interest: ' + (el.tutoring_interest.checked ? 'Yes' : 'No'));
+    notes.push('Registering as: ' + role);
+    notes.push('Downloaded the revision timetable templates');
+    add('Description', notes.join('\n'));
+    add('Lead Source', LEAD_SOURCE);
+    document.body.appendChild(f);
+    f.submit();
+  }
+
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+    if (form.elements._gotcha.value) return;
+    if (!form.checkValidity()) { form.reportValidity(); return; }
+    sendLead();
+    unlock();
+    got.focus();
+    try { localStorage.setItem(KEY, '1'); } catch (err) {}
+    try { if (typeof window.gtag === 'function') window.gtag('event', 'generate_lead', { form_name: 'revision_templates' }); } catch (err) {}
+    if (typeof window.fbq === 'function') window.fbq('track', 'Lead');
+  });
 })();
 </script>
 {{ end }}
