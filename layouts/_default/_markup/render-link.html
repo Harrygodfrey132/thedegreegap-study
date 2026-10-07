@@ -1,3 +1,5 @@
 {{- /* Route markdown links through the shared URL resolver so site-root paths
        survive being served from a subdirectory. See partials/url.html. */ -}}
 <a href="{{ partial "url.html" .Destination }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if strings.HasPrefix .Destination "http" }} target="_blank" rel="noopener"{{ end }}>{{ .Text | safeHTML }}</a>
+{{- /* Nothing may follow the link, not even the file's last newline: it came
+       out as a space before any comma or full stop after a link. */ -}}
