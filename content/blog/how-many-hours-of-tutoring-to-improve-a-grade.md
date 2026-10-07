@@ -1,5 +1,6 @@
 ---
 title: "How Many Hours of Tutoring Does It Take to Move a Grade?"
+seo_title: "How Many Hours of Tutoring to Improve a Grade?"
 description: "There is no honest single number, but there is a useful answer. What the independent evidence shows, what changes the timeline, and realistic hour ranges by starting point."
 date: 2026-08-05
 author: "Harry Godfrey"

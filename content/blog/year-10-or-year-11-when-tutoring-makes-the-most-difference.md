@@ -1,5 +1,6 @@
 ---
 title: "Year 10 or Year 11: When Tutoring Makes the Most Difference"
+seo_title: "Year 10 or Year 11: When to Start GCSE Tutoring"
 description: "Only 10% of Year 10 students get tutoring against 25% in Year 11. Why the earlier year is the underused one, what each year is actually good for, and how to decide."
 date: 2026-08-06
 author: "Joe Clark"

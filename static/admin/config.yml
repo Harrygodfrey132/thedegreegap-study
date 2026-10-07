@@ -309,6 +309,7 @@ collections:
     summary: "{{date | date('YYYY-MM-DD')}} — {{title}}"
     fields:
       - { name: "title", label: "Title", widget: "string" }
+      - { name: "seo_title", label: "Search title (optional)", widget: "string", required: false, hint: "Shown in Google instead of the title. Use one when the title runs past about 48 characters, so the search title stays different from the headline and under 65 characters with ' | The Degree Gap' added." }
       - { name: "description", label: "SEO description", widget: "text" }
       - { name: "date", label: "Publish date", widget: "datetime" }
       - { name: "author", label: "Author", widget: "string", default: "Harry Godfrey" }

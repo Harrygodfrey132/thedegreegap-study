@@ -1,5 +1,6 @@
 ---
 title: "How Far Before the Exams Is Too Late to Get a Tutor?"
+seo_title: "Is It Too Late to Get a Tutor Before Exams?"
 description: "What tutoring can and cannot do at six months, three months, six weeks and two weeks before GCSE and A-Level exams, and how to spend a late start well."
 date: 2026-08-06
 author: "Harry Godfrey"

@@ -1,5 +1,6 @@
 ---
 title: "GCSE Results Day 2026: What Time, and What to Do Next"
+seo_title: "GCSE Results Day 2026: Times and Next Steps"
 description: "GCSE results day is Thursday 20 August 2026, from 8am. What time results are released, how to read the grade slip, reviews of marking and their deadlines, November resits, and what to do if the grades are not what you hoped."
 date: 2026-08-08
 author: "Harry Godfrey"

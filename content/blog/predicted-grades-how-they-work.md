@@ -1,5 +1,6 @@
 ---
 title: "Predicted Grades: How They Are Decided and What to Do If One Looks Wrong"
+seo_title: "How UCAS Predicted Grades Are Decided"
 description: "How schools set predicted grades for UCAS, why research shows most are too high rather than too low, whether they can be changed, and what actually moves one."
 date: 2026-08-14
 author: "Harry Godfrey"

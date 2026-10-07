@@ -1,5 +1,6 @@
 ---
 title: "My Child Is a Grade Short for Sixth Form. What Happens Now?"
+seo_title: "A Grade Short for Sixth Form? What Happens Next"
 description: "What to do when your child is short of a sixth form entry requirement, whether you have found out in September of Year 11 or on results day itself."
 date: 2026-08-30
 author: "Harry Godfrey"

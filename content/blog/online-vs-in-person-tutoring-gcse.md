@@ -1,5 +1,6 @@
 ---
 title: "Online vs In-Person Tutoring for GCSE: What Actually Differs"
+seo_title: "Online vs In-Person GCSE Tutoring Compared"
 description: "An honest comparison of online and face-to-face GCSE tutoring in 2026. The real cost gap, what online does better, what it genuinely does worse, and who should pick which."
 date: 2026-08-04
 author: "Joe Clark"

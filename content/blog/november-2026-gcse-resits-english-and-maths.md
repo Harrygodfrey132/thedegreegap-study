@@ -1,5 +1,6 @@
 ---
 title: "November 2026 GCSE Resits: The Decision Parents Have to Make by Early October"
+seo_title: "November 2026 GCSE Resits: English and Maths"
 description: "A parent's guide to the November 2026 GCSE English Language and Maths resits. The entry deadline, the exam dates, what the college is actually required to do, and how to decide between November and next summer."
 date: 2026-08-25T10:00:00+01:00
 author: "Harry Godfrey"

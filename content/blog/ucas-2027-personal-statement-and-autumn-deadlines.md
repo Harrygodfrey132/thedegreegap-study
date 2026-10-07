@@ -1,5 +1,6 @@
 ---
 title: "UCAS 2027: The Three-Question Personal Statement and the Autumn Deadlines"
+seo_title: "UCAS 2027 Personal Statement and Deadlines"
 description: "A parent's guide to applying for 2027 entry. The 15 October and 13 January deadlines, the three-question personal statement, the character limits, and what actually helps in September."
 date: 2026-08-25T09:00:00+01:00
 author: "Joe Clark"

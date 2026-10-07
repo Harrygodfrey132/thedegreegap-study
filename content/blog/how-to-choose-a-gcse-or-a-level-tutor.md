@@ -1,5 +1,6 @@
 ---
 title: "How to Choose a GCSE or A-Level Tutor: What Actually Matters"
+seo_title: "How to Choose a GCSE or A-Level Tutor"
 description: "How to pick a tutor: the DBS rules that changed in January 2026, agency versus marketplace versus hiring direct, the questions to ask, and how to tell in three sessions."
 date: 2026-08-14
 author: "Joe Clark"

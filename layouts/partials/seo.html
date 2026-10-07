@@ -10,13 +10,18 @@
      title off, so the suffix was pushing the words that say what the page is
      about out of the result; Google shows the site name above the result
      anyway. A title naming the brand anywhere else is left as written.
-     RuneCount, not len, so "£" counts as one character. */}}
+     RuneCount, not len, so "£" counts as one character.
+     seo_title, when a page sets one, replaces .Title in the <title> only. The
+     H1 and og:title keep .Title. A blog headline long enough to lose the
+     suffix otherwise came out word for word the same as its H1, which Semrush
+     flags, and the longest ran past 70 characters. */}}
 {{ $brand := " | The Degree Gap" }}
-{{ $pageTitle := .Title }}
+{{- $rawTitle := .Params.seo_title | default .Title }}
+{{ $pageTitle := $rawTitle }}
 {{ if .IsHome }}
   {{ $pageTitle = .Site.Title }}
-{{ else if or (strings.HasSuffix .Title $brand) (not (in .Title "The Degree Gap")) }}
-  {{ $base := strings.TrimSuffix $brand .Title }}
+{{ else if or (strings.HasSuffix $rawTitle $brand) (not (in $rawTitle "The Degree Gap")) }}
+  {{ $base := strings.TrimSuffix $brand $rawTitle }}
   {{ $branded := printf "%s%s" $base $brand }}
   {{ $pageTitle = cond (le (strings.RuneCount $branded) 65) $branded $base }}
 {{ end }}

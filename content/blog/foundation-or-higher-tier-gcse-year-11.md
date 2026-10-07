@@ -1,5 +1,6 @@
 ---
 title: "Foundation or Higher Tier: The Year 11 Decision Nobody Asks Parents About"
+seo_title: "Foundation or Higher Tier GCSE? A Parent's Guide"
 description: "How GCSE tiering works in maths, science and languages. Which grades each tier can award, the grade 3 safety net, when schools decide, and what it means for sixth form if your child is entered for foundation."
 date: 2026-08-25T08:00:00+01:00
 author: "Harry Godfrey"

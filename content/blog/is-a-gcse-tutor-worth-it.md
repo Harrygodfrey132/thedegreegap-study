@@ -1,5 +1,6 @@
 ---
 title: "Is a GCSE Tutor Actually Worth It? What the Money Buys"
+seo_title: "Is a GCSE Tutor Worth It? What the Evidence Says"
 description: "An honest look at whether GCSE tutoring is worth the cost, what the independent evidence says, when it works, and the situations where we tell parents not to bother."
 date: 2026-08-05
 author: "Harry Godfrey"

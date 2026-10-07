@@ -1,5 +1,6 @@
 ---
 title: "How Much Does an A-Level Tutor Cost Per Hour? UK 2026"
+seo_title: "A-Level Tutor Cost Per Hour: UK Prices 2026"
 description: "Researched 2026 guide to UK A-Level tutoring rates. Why A-Level costs more than GCSE, the £35 to £90 range explained, and what you are actually paying for."
 date: 2026-08-04
 author: "Harry Godfrey"

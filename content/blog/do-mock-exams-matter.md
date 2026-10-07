@@ -1,5 +1,6 @@
 ---
 title: "Do Mock Exams Actually Matter? What the Result Tells You"
+seo_title: "Do Mock Exams Matter? How to Read the Result"
 description: "Mocks do not count towards the final grade, and they still decide four things that do. How to read an autumn mock result properly, and what to do in the week after."
 date: 2026-08-30
 author: "Harry Godfrey"
