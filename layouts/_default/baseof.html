@@ -153,8 +153,10 @@
 
   {{/* Fingerprinted so a JS change busts the Cloudflare cache immediately.
        Unfingerprinted, main.js sits behind a 4-hour max-age and edits do not
-       reach visitors until it expires. */}}
-  {{ $js := resources.Get "js/main.js" | fingerprint "sha256" }}
+       reach visitors until it expires. Minified like the stylesheet: Semrush
+       flagged the unminified file on every page, and the .min. in the output
+       name puts it under the year-long cache rule in static/.htaccess. */}}
+  {{ $js := resources.Get "js/main.js" | minify | fingerprint "sha256" }}
   <script src="{{ $js.RelPermalink }}" defer></script>
   {{ "<!--/email_off-->" | safeHTML }}
 </body>
