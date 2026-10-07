@@ -116,15 +116,15 @@ once on a phone to be sure. The 60th is the typo in item 6.
 
 ## Notices
 
-### 13. www and non-www both answer
+### 13. Only the study section answers on www
 
-`www.thedegreegap.com` serves the same pages as `thedegreegap.com` instead of
-redirecting, so Google can see every page twice. The study site's `.htaccess` now
-redirects www under `/study/`. For the rest of the domain, add one Cloudflare rule:
-**Rules, Redirect Rules, Create rule**, using the template "Redirect from WWW to
-root". Or a single redirect: when hostname equals `www.thedegreegap.com`, redirect
-dynamically to `concat("https://thedegreegap.com", http.request.uri.path)` with
-status 301 and "preserve query string" ticked.
+The main site already redirects www: Semrush's backlink data shows
+`https://www.thedegreegap.com/` and `http://www.thedegreegap.com/` answering 301.
+The study section did not, because it is served as static files: Semrush crawled
+`www.thedegreegap.com/study/...` and got normal pages. The study site's `.htaccess`
+on the branch now redirects www under `/study/`, so no Cloudflare rule is needed.
+One is still harmless as a backstop: **Rules, Redirect Rules**, template "Redirect
+from WWW to root".
 
 ### 14. "No HSTS support" (1)
 
@@ -151,6 +151,31 @@ booking) clears it.
 - "Disallowed external resources" (1): the Canva embed on `/Collaborations` is
   blocked by Canva's own robots.txt.
 - "Pages with only one internal link" (3) and "content not optimized" (2): minor.
+
+### 18. The http homepage errors (from the backlink check)
+
+Semrush's backlink data shows `http://thedegreegap.com/` answering with a
+Cloudflare 520 error. 66 linking sites use that address, School Guide's tutor
+directory among them, so those links hit an error instead of a redirect. In
+Cloudflare: **SSL/TLS, Edge Certificates, Always Use HTTPS: on**. That redirects at
+Cloudflare without touching the server. Check with `curl -sI http://thedegreegap.com/`:
+expect a 301 to `https://thedegreegap.com/`.
+
+### 19. Old addresses with links that return 404 (from the backlink check)
+
+Each of these has links from other websites and answers 404. Add them to the main
+site's `.htaccess` as 301s:
+
+| Old address | Redirect to |
+|---|---|
+| `/subjects/UCAS-personal-statement-help` | `/study/personal-statement-tutor/` |
+| `/subjects/gcse-geography-tutoring` | `/study/subjects/gcse-geography-tutor/` |
+| `/electrophiles-in-organic-chemistry/` | `/understanding-electrophiles-in-organic-chemistry` |
+| `/electrophiles/` | `/understanding-electrophiles-in-organic-chemistry` |
+
+Also keep the short webinar addresses schools link to (`/gcse-summit`,
+`/gcse-exams-webinar`, `/gcse-mocks-webinar`) answering for good: each should
+redirect in one hop to the current edition or its replay page, never to a 404.
 
 ## Semrush settings
 
