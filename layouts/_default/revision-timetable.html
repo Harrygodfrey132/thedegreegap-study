@@ -160,6 +160,15 @@
   .rt-guide thead th { background: #800020; color: #fff; }
   .rt-guide tbody th, .rt-guide tbody td:first-child { font-weight: 700; background: #fdfbf8; white-space: nowrap; }
 
+  .rt-share { max-width: 760px; margin: 12px auto 0; padding: 20px; border: 1px solid #e6ded4; border-radius: 12px; background: #fbf7ef; }
+  .rt-share h2 { font-size: 1.2rem; font-weight: 800; margin: 0 0 4px; }
+  .rt-share__lead { margin: 0 0 12px; font-size: 0.94rem; color: #5f5a54; }
+  .rt-share__text { margin: 0; padding: 14px 16px; background: #fff; border: 1px solid #e6ded4; border-radius: 9px; font-size: 0.95rem; line-height: 1.65; overflow-wrap: anywhere; }
+  .rt-share__row { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; margin: 12px 0 0; }
+  .rt-share__status { font-size: 0.86rem; color: #5f5a54; }
+  .rt-share__note { margin: 12px 0 0; font-size: 0.9rem; color: #5f5a54; }
+  .rt-share__note a { font-weight: 700; text-decoration: underline; }
+  @media (max-width: 800px) { .rt-share { margin-left: 20px; margin-right: 20px; } }
   .rt-faqs { max-width: 760px; margin: 0 auto; padding: 8px 20px 56px; }
   .rt-faqs h2 { font-size: clamp(1.35rem, 2.6vw, 1.75rem); font-weight: 800; margin: 28px 0 14px; }
   .rt-faq { border-top: 1px solid #efe5d5; padding: 16px 0 4px; }
@@ -454,6 +463,19 @@
   <article class="rt-guide">
     {{ .Content }}
   </article>
+
+  {{ with .Params.share_blurb }}
+  <section class="rt-share" id="for-schools" aria-labelledby="rt-share-title">
+    <h2 id="rt-share-title">{{ $.Params.share_heading | default "Wording you can paste" }}</h2>
+    {{ with $.Params.share_lead }}<p class="rt-share__lead">{{ . }}</p>{{ end }}
+    <p class="rt-share__text" id="rt-share-text">{{ . }}</p>
+    <div class="rt-share__row">
+      <button type="button" class="rt-btn-small" data-rt-copy="rt-share-text">Copy the wording</button>
+      <span class="rt-share__status" data-rt-copy-status aria-live="polite"></span>
+    </div>
+    {{ with $.Params.share_note }}<p class="rt-share__note">{{ . | safeHTML }}</p>{{ end }}
+  </section>
+  {{ end }}
 
   {{ with .Params.faqs }}
   <section class="rt-faqs" aria-labelledby="rt-faqs-title">
@@ -843,6 +865,28 @@
   } else {
     setSubjects(DEFAULTS.gcse.map(function (n) { return { name: n, weight: 2 }; }));
   }
+})();
+
+/* ---- Copy the newsletter wording for schools ---- */
+(function () {
+  var btn = document.querySelector('[data-rt-copy]');
+  if (!btn) return;
+  var src = document.getElementById(btn.getAttribute('data-rt-copy'));
+  var status = document.querySelector('[data-rt-copy-status]');
+  function say(msg) { if (status) status.textContent = msg; }
+  btn.addEventListener('click', function () {
+    var text = src ? src.textContent.trim() : '';
+    if (!text) return;
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(text).then(function () { say('Copied.'); }, function () { say('Select the text above and copy it.'); });
+      return;
+    }
+    try {
+      var range = document.createRange(); range.selectNodeContents(src);
+      var sel = window.getSelection(); sel.removeAllRanges(); sel.addRange(range);
+      say(document.execCommand('copy') ? 'Copied.' : 'Select the text above and copy it.');
+    } catch (e) { say('Select the text above and copy it.'); }
+  });
 })();
 
 /* ---- The template pack: a lead to Zoho, then the links ---- */

@@ -23,6 +23,13 @@ parent_cta_url: "webinars/gcse-revision-masterclass/"
 # be a value already in the Lead Source picklist, or Zoho drops it. "Web
 # Download" was in the list and unused, so these leads are easy to pick out.
 lead_source: "Web Download"
+# Paste-ready wording for school newsletters, at the bottom of the page with a
+# copy button, the same as on the webinar pages. The school emails point here
+# rather than carrying the parent wording themselves.
+share_heading: "For schools: wording you can paste"
+share_lead: "For a newsletter, a parent bulletin or a tutor-time slide. Use it as it is, or cut it down."
+share_blurb: "Free revision timetable maker for GCSE and A-Level students. Choose your subjects, say which ones need the most work and how much time you have each week, and get a week-by-week plan to your first exam, with more time for weaker subjects and timed past papers as the exams get closer. Print it or open it in Excel. It takes about two minutes and there is nothing to sign up to. Make yours at thedegreegap.com/study/revision-timetable/"
+share_note: "Want a newsletter image or a shorter version? Email <a href=\"mailto:admin@thedegreegap.com\">admin@thedegreegap.com</a> and we will send it over."
 faqs:
   - q: "How do I make a revision timetable?"
     a: "Count the weeks to your first exam, list your subjects and give the ones that need the most work more sessions. Keep each session to 30 to 45 minutes, mix two or three subjects in a day and spend most of the time testing yourself. The planner on this page does all of that for you in about two minutes."
