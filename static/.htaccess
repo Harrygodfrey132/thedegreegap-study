@@ -43,6 +43,12 @@ RewriteRule ^past-papers(/.*)?$  /study/blog/  [L,R=301]
 # (October 2026), so its old address goes to the new one.
 RewriteRule ^webinars/november-2026/?$  /study/webinars/gcse-revision-masterclass/  [L,R=301]
 
+# The September 2026 UCAS webinar (What Top Universities Are Really Looking
+# For) has run and is switched off. Schools shared its link with Year 12 and
+# 13 families, so send it to the personal statement page, the closest live
+# equivalent, rather than a 404.
+RewriteRule ^webinars/what-top-universities-look-for/?$  /study/personal-statement-tutor/  [L,R=302]
+
 
 # ---------------------------------------------------------------------------
 # Security headers and caching.

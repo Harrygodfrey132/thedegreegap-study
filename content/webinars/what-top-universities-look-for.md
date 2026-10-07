@@ -1,4 +1,8 @@
 ---
+# Turned off October 2026 now the 30 September session has run. Drafts are
+# not built, so the page, its listing card and its sitemap entry all go; the
+# old address redirects in static/.htaccess. Delete this line to bring it back.
+draft: true
 title: "What Top Universities Are Really Looking For | Free Webinar | The Degree Gap"
 description: "Free online webinar for Year 12 and Year 13 students, their parents and schools, led by former Head of Careers Kate Grace. How expectations shift from GCSE to sixth form, with anonymised examples from real personal statements and interviews."
 layout: "single"
