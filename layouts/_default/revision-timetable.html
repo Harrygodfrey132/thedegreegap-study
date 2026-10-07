@@ -1,0 +1,750 @@
+{{ define "main" }}
+{{/* The revision timetable maker. Everything happens in the browser: the plan
+     is worked out by the script at the bottom, nothing is sent anywhere, and
+     the visitor's answers are kept in localStorage so the plan is still there
+     when they come back. The blank sheets it offers are built by
+     scripts/make-revision-sheets.py into static/downloads/. */}}
+{{ $examDate := .Params.default_exam_date | default "2027-05-10" }}
+{{ $examLabel := .Params.default_exam_label | default "Monday 10 May 2027" }}
+
+<style>
+  .rt { font-family: 'Poppins', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: #171717; }
+  .rt-wrap { max-width: 1080px; margin: 0 auto; padding: 0 20px; }
+  .rt-nb { white-space: nowrap; }
+  .rt-sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+  .rt-hero { background: #fbf7ef; border-bottom: 1px solid #efe5d5; padding: 44px 0 40px; }
+  .rt-hero__eyebrow { font-size: 0.75rem; font-weight: 800; letter-spacing: 0.14em; text-transform: uppercase; color: #800020; margin: 0 0 14px; }
+  .rt-hero h1 { font-size: clamp(1.9rem, 4.4vw, 2.9rem); font-weight: 900; line-height: 1.1; letter-spacing: -0.02em; margin: 0 0 16px; max-width: 820px; }
+  .rt-hero__lead { font-size: 1.1rem; line-height: 1.6; color: #5f5a54; max-width: 760px; margin: 0 0 22px; }
+  .rt-ticks { display: flex; flex-wrap: wrap; gap: 8px 22px; margin: 0; padding: 0; list-style: none; }
+  .rt-ticks li { display: inline-flex; align-items: center; gap: 8px; font-weight: 600; font-size: 0.95rem; }
+  .rt-ticks svg { flex: 0 0 auto; color: #800020; }
+  .rt-hero__alt { margin: 18px 0 0; font-size: 0.95rem; }
+
+  .rt-tool { padding: 36px 0 12px; }
+  .rt-form { display: grid; gap: 18px; }
+  .rt-step { border: 1px solid #e6ded4; border-radius: 12px; background: #fff; padding: 20px 20px 22px; margin: 0; min-width: 0; }
+  .rt-step legend { float: left; width: 100%; padding: 0; margin: 0 0 10px; font-size: 1.08rem; font-weight: 800; }
+  .rt-step legend span { color: #800020; margin-right: 6px; }
+  .rt-step__hint { clear: both; color: #5f5a54; font-size: 0.92rem; margin: 0 0 14px; }
+
+  .rt-seg { display: inline-flex; border: 1px solid #d8cdbf; border-radius: 999px; padding: 3px; background: #fbf7ef; }
+  .rt-seg label { position: relative; }
+  .rt-seg input { position: absolute; opacity: 0; inset: 0; margin: 0; cursor: pointer; }
+  .rt-seg span { display: block; padding: 8px 18px; border-radius: 999px; font-weight: 700; font-size: 0.95rem; cursor: pointer; }
+  .rt-seg input:checked + span { background: #800020; color: #fff; }
+  .rt-seg input:focus-visible + span { outline: 3px solid #e3a8b6; outline-offset: 1px; }
+
+  .rt-chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 14px; }
+  .rt-chip { position: relative; }
+  .rt-chip input { position: absolute; opacity: 0; inset: 0; margin: 0; cursor: pointer; }
+  .rt-chip span { display: inline-block; padding: 7px 13px; border: 1px solid #d8cdbf; border-radius: 999px; background: #fff; font-size: 0.9rem; font-weight: 600; cursor: pointer; user-select: none; }
+  .rt-chip input:checked + span { background: #800020; border-color: #800020; color: #fff; }
+  .rt-chip input:checked + span::before { content: "\2713\00a0"; }
+  .rt-chip input:focus-visible + span { outline: 3px solid #e3a8b6; outline-offset: 1px; }
+
+  .rt-add { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 16px; }
+  .rt-add input { flex: 1 1 220px; min-width: 0; }
+  .rt-input, .rt-select { font: inherit; font-size: 0.95rem; padding: 9px 12px; border: 1px solid #cfc4b6; border-radius: 8px; background: #fff; color: #171717; }
+  .rt-input:focus, .rt-select:focus { outline: 3px solid #e3a8b6; outline-offset: 1px; border-color: #800020; }
+  .rt-btn-small { font: inherit; font-size: 0.92rem; font-weight: 700; padding: 9px 16px; border-radius: 8px; border: 1px solid #800020; background: #fff; color: #800020; cursor: pointer; }
+  .rt-btn-small:hover { background: #fbf2f4; }
+
+  .rt-chosen { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+  .rt-chosen li { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; padding: 10px 12px; border: 1px solid #efe5d5; border-radius: 10px; background: #fdfbf8; }
+  .rt-chosen__dot { width: 12px; height: 12px; border-radius: 50%; flex: 0 0 auto; border: 1px solid rgba(0,0,0,0.15); }
+  .rt-chosen__name { font-weight: 700; flex: 1 1 140px; min-width: 0; overflow-wrap: anywhere; }
+  .rt-chosen .rt-select { padding: 7px 10px; font-size: 0.9rem; }
+  .rt-remove { font: inherit; border: 0; background: none; color: #5f5a54; cursor: pointer; padding: 4px 6px; border-radius: 6px; font-size: 1.1rem; line-height: 1; }
+  .rt-remove:hover { color: #800020; background: #f6eef0; }
+  .rt-empty { color: #5f5a54; font-size: 0.92rem; margin: 0; }
+
+  /* The legend is floated so it sits inside the card rather than on its
+     border, so whatever follows it has to clear the float. A grid that did not
+     was pushed out beside it. */
+  .rt-fields, .rt-chips { clear: both; }
+  .rt-fields { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 14px 16px; }
+  .rt-field label { display: block; font-weight: 700; font-size: 0.92rem; margin: 0 0 6px; }
+  .rt-field .rt-input, .rt-field .rt-select { width: 100%; }
+  .rt-field__hint { font-size: 0.84rem; color: #5f5a54; margin: 6px 0 0; }
+
+  .rt-submit { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 18px; }
+  .rt-submit .btn { border: 0; cursor: pointer; font: inherit; font-weight: 700; }
+  .rt-error { color: #a1001f; font-weight: 700; margin: 0; }
+  .rt-noscript { border: 1px solid #e6ded4; border-radius: 12px; padding: 16px 18px; background: #fff; }
+
+  .rt-result { margin-top: 30px; border: 1px solid #e6ded4; border-radius: 14px; background: #fff; overflow: hidden; }
+  .rt-result:focus { outline: none; }
+  .rt-result__top { padding: 20px 20px 16px; border-bottom: 1px solid #efe5d5; background: #fdfbf8; }
+  .rt-result__title { font-size: 1.3rem; font-weight: 800; margin: 0 0 6px; }
+  .rt-result__stats { margin: 0 0 12px; color: #2d2a26; }
+  .rt-legend { display: flex; flex-wrap: wrap; gap: 6px 14px; list-style: none; margin: 0 0 16px; padding: 0; font-size: 0.88rem; }
+  .rt-legend li { display: inline-flex; align-items: center; gap: 6px; }
+  .rt-legend i { width: 11px; height: 11px; border-radius: 3px; display: inline-block; border: 1px solid rgba(0,0,0,0.15); }
+  .rt-legend b { font-weight: 700; }
+  .rt-actions { display: flex; flex-wrap: wrap; gap: 8px; }
+  .rt-actions button { font: inherit; font-size: 0.9rem; font-weight: 700; padding: 9px 14px; border-radius: 8px; cursor: pointer; border: 1px solid #800020; background: #fff; color: #800020; }
+  .rt-actions button.is-primary { background: #800020; color: #fff; }
+  .rt-actions button:hover { filter: brightness(0.96); }
+  .rt-parent { margin: 14px 0 0; font-size: 0.92rem; color: #5f5a54; }
+
+  .rt-weeknav { display: flex; align-items: center; gap: 10px; padding: 14px 20px; border-bottom: 1px solid #efe5d5; }
+  .rt-weeknav button { font: inherit; width: 40px; height: 40px; flex: 0 0 auto; border-radius: 50%; border: 1px solid #d8cdbf; background: #fff; cursor: pointer; font-size: 1.2rem; line-height: 1; color: #800020; }
+  .rt-weeknav button:disabled { opacity: 0.35; cursor: default; }
+  .rt-weeknav__mid { flex: 1 1 auto; min-width: 0; text-align: center; }
+  .rt-weeknav__mid .rt-select { max-width: 100%; font-weight: 700; }
+  .rt-weeknav__sub { display: block; font-size: 0.84rem; color: #5f5a54; margin-top: 4px; }
+
+  .rt-days { padding: 8px 20px 20px; }
+  .rt-day { display: grid; grid-template-columns: 88px 1fr; gap: 12px; padding: 10px 0; border-bottom: 1px solid #f1ebe2; align-items: start; }
+  .rt-day:last-child { border-bottom: 0; }
+  .rt-day__label { font-weight: 800; font-size: 0.95rem; line-height: 1.3; padding-top: 6px; }
+  .rt-day__label span { display: block; font-weight: 500; font-size: 0.84rem; color: #5f5a54; }
+  .rt-slots { display: grid; grid-template-columns: repeat(var(--cols, 3), minmax(0, 1fr)); gap: 8px; }
+  .rt-slot { border-radius: 8px; padding: 8px 10px; border: 1px solid; min-width: 0; line-height: 1.3; }
+  .rt-slot b { display: block; font-size: 0.9rem; overflow-wrap: anywhere; }
+  .rt-slot span { display: block; font-size: 0.8rem; color: #3d3833; }
+  .rt-slot--rest, .rt-slot--exam { grid-column: 1 / -1; }
+  .rt-slot--rest { background: #f4f1ec; border-color: #e1d9cd; color: #5f5a54; font-weight: 700; font-size: 0.9rem; }
+  .rt-slot--exam { background: #800020; border-color: #800020; color: #fff; font-weight: 800; font-size: 0.9rem; }
+
+  .rt-c0 { background: #fde2e4; border-color: #e8a3ab; } .rt-c1 { background: #dfeaf8; border-color: #9dbbe3; }
+  .rt-c2 { background: #e1f3e6; border-color: #93cfa5; } .rt-c3 { background: #fff0c7; border-color: #e8c564; }
+  .rt-c4 { background: #ece2f6; border-color: #b9a0d9; } .rt-c5 { background: #ffe3cf; border-color: #efaa7a; }
+  .rt-c6 { background: #daf1f1; border-color: #8fcfcf; } .rt-c7 { background: #f0efd2; border-color: #c9c47c; }
+  .rt-c8 { background: #f6dde9; border-color: #d99bb9; } .rt-c9 { background: #e3e7f1; border-color: #a3aecb; }
+  .rt-c10 { background: #e7f2d4; border-color: #aacb7c; } .rt-c11 { background: #f2e4d8; border-color: #c9a383; }
+
+  .rt-downloads { padding: 40px 0 8px; }
+  .rt-downloads h2 { font-size: clamp(1.35rem, 2.6vw, 1.75rem); font-weight: 800; margin: 0 0 6px; }
+  .rt-downloads > .rt-wrap > p { color: #5f5a54; margin: 0 0 18px; }
+  .rt-files { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 14px; list-style: none; margin: 0; padding: 0; }
+  .rt-file { border: 1px solid #e6ded4; border-radius: 12px; background: #fff; padding: 18px; display: flex; flex-direction: column; gap: 6px; }
+  .rt-file__type { font-size: 0.72rem; font-weight: 800; letter-spacing: 0.12em; text-transform: uppercase; color: #800020; }
+  .rt-file h3 { font-size: 1.05rem; font-weight: 800; margin: 0; }
+  .rt-file p { font-size: 0.92rem; color: #5f5a54; margin: 0 0 6px; flex: 1 1 auto; }
+  .rt-file a { font-weight: 700; }
+
+  .rt-guide { max-width: 760px; margin: 0 auto; padding: 40px 20px 8px; font-size: 1.04rem; line-height: 1.75; color: #2d2a26; }
+  .rt-guide h2 { font-size: clamp(1.35rem, 2.6vw, 1.75rem); font-weight: 800; color: #171717; margin: 36px 0 12px; line-height: 1.25; }
+  .rt-guide h2:first-child { margin-top: 0; }
+  .rt-guide p { margin: 0 0 16px; }
+  .rt-guide ul { list-style: disc; padding-left: 1.3em; margin: 0 0 16px; }
+  .rt-guide li { margin: 0 0 8px; }
+  .rt-guide a { text-decoration: underline; text-underline-offset: 2px; }
+  .rt-guide table { width: 100%; border-collapse: collapse; margin: 6px 0 22px; font-size: 0.92rem; line-height: 1.45; }
+  .rt-guide th, .rt-guide td { border: 1px solid #e6ded4; padding: 8px 10px; text-align: left; vertical-align: top; }
+  .rt-guide thead th { background: #800020; color: #fff; }
+  .rt-guide tbody th, .rt-guide tbody td:first-child { font-weight: 700; background: #fdfbf8; white-space: nowrap; }
+
+  .rt-faqs { max-width: 760px; margin: 0 auto; padding: 8px 20px 56px; }
+  .rt-faqs h2 { font-size: clamp(1.35rem, 2.6vw, 1.75rem); font-weight: 800; margin: 28px 0 14px; }
+  .rt-faq { border-top: 1px solid #efe5d5; padding: 16px 0 4px; }
+  .rt-faq h3 { font-size: 1.05rem; font-weight: 800; margin: 0 0 6px; }
+  .rt-faq p { color: #2d2a26; line-height: 1.7; }
+
+  @media (max-width: 640px) {
+    .rt-hero { padding: 30px 0 28px; }
+    .rt-step { padding: 16px 14px 18px; }
+    .rt-day { grid-template-columns: 1fr; gap: 6px; }
+    .rt-day__label { padding-top: 0; }
+    .rt-day__label span { display: inline; margin-left: 2px; }
+    .rt-slots { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); }
+    .rt-weeknav { padding: 12px 14px; }
+    .rt-days { padding: 6px 14px 16px; }
+    .rt-result__top { padding: 16px 14px 14px; }
+    .rt-guide table { display: block; overflow-x: auto; }
+  }
+
+  /* The printed plan is built into #rt-print, a direct child of <body>, and
+     only while body has .rt-printing does printing hide the rest of the page.
+     Printing the page any other way prints the article as normal. */
+  #rt-print { display: none; }
+  @page rt-landscape { size: A4 landscape; margin: 10mm; }
+  @media print {
+    body.rt-printing > *:not(#rt-print) { display: none !important; }
+    body.rt-printing #rt-print { display: block !important; page: rt-landscape; }
+    #rt-print { font-family: system-ui, -apple-system, "Segoe UI", Arial, sans-serif; color: #171717; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .rtp-week { break-after: page; page-break-after: always; }
+    .rtp-week:last-child { break-after: auto; page-break-after: auto; }
+    .rtp-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; margin: 0 0 6px; }
+    .rtp-head h2 { font-size: 18pt; color: #800020; margin: 0; }
+    .rtp-head p { margin: 0; font-size: 9.5pt; color: #5f5a54; text-align: right; }
+    .rtp-table { width: 100%; border-collapse: collapse; table-layout: fixed; font-size: 9pt; }
+    .rtp-table th, .rtp-table td { border: 1px solid #b9afa3; padding: 4pt 5pt; vertical-align: top; text-align: left; line-height: 1.25; }
+    .rtp-table thead th { background: #800020; color: #fff; font-size: 9pt; }
+    .rtp-table tbody th { width: 70pt; background: #fbf7ef; }
+    body.rt-printing { background: #fff !important; }
+    .rtp-table td, .rtp-table tbody th { height: 54pt; }
+    .rtp-table td b { display: block; font-size: 9pt; }
+    .rtp-tick { float: right; width: 7pt; height: 7pt; border: 0.75pt solid #5f5a54; margin: 0 0 2pt 4pt; background: #fff; }
+    .rtp-rest { color: #5f5a54; font-weight: 700; }
+    .rtp-exam { background: #800020 !important; color: #fff; font-weight: 800; }
+    .rtp-foot { display: flex; justify-content: space-between; margin-top: 6px; font-size: 8pt; color: #5f5a54; }
+    .rtp-foot b { color: #800020; }
+    .rtp-c0 { background: #fde2e4; } .rtp-c1 { background: #dfeaf8; } .rtp-c2 { background: #e1f3e6; }
+    .rtp-c3 { background: #fff0c7; } .rtp-c4 { background: #ece2f6; } .rtp-c5 { background: #ffe3cf; }
+    .rtp-c6 { background: #daf1f1; } .rtp-c7 { background: #f0efd2; } .rtp-c8 { background: #f6dde9; }
+    .rtp-c9 { background: #e3e7f1; } .rtp-c10 { background: #e7f2d4; } .rtp-c11 { background: #f2e4d8; }
+  }
+</style>
+
+{{ partial "breadcrumbs.html" . }}
+
+<div class="rt" data-rt data-exam="{{ $examDate }}">
+
+  <section class="rt-hero">
+    <div class="rt-wrap">
+      {{/* "A-Level" is kept on one line: on a phone the heading broke at its
+           hyphen and left "Level" on a line of its own. */}}
+      {{ $nb := "<span class=\"rt-nb\">A-Level</span>" }}
+      <p class="rt-hero__eyebrow">{{ replace (.Params.hero_eyebrow | htmlEscape) "A-Level" $nb | safeHTML }}</p>
+      <h1>{{ replace (.Params.hero_h1 | default .Title | htmlEscape) "A-Level" $nb | safeHTML }}</h1>
+      <p class="rt-hero__lead">{{ .Params.hero_lead }}</p>
+      <ul class="rt-ticks">
+        {{ range slice "Free, with no sign-up" "More time for weaker subjects" "Print it or open it in Excel" }}
+        <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>{{ . }}</li>
+        {{ end }}
+      </ul>
+      <p class="rt-hero__alt">Prefer pen and paper? <a href="#rt-downloads">Download the blank timetable and topic checklist</a>.</p>
+    </div>
+  </section>
+
+  <section class="rt-tool" aria-labelledby="rt-tool-title">
+    <div class="rt-wrap">
+      <h2 id="rt-tool-title" class="rt-sr">Make your revision timetable</h2>
+      <noscript><p class="rt-noscript">The planner needs JavaScript switched on. You can still <a href="#rt-downloads">download the blank timetable</a> and fill it in by hand.</p></noscript>
+
+      <form class="rt-form" data-rt-form novalidate>
+        <fieldset class="rt-step">
+          <legend><span>1.</span>Which exams?</legend>
+          <div class="rt-seg" role="radiogroup" aria-label="Exam level">
+            <label><input type="radio" name="level" value="gcse" checked><span>GCSE</span></label>
+            <label><input type="radio" name="level" value="alevel"><span>A-Level</span></label>
+          </div>
+        </fieldset>
+
+        <fieldset class="rt-step">
+          <legend><span>2.</span>Your subjects</legend>
+          <p class="rt-step__hint">Tap each subject you're taking, then say how confident you feel in it. Subjects that need the most work get three sessions for every one a confident subject gets.</p>
+          <div class="rt-chips" data-rt-chips></div>
+          <div class="rt-add">
+            <label for="rt-custom" class="rt-sr">Add a subject that isn't listed</label>
+            <input id="rt-custom" class="rt-input" type="text" maxlength="40" placeholder="Add a subject that isn't listed" data-rt-custom autocomplete="off">
+            <button type="button" class="rt-btn-small" data-rt-add>Add subject</button>
+          </div>
+          <ul class="rt-chosen" data-rt-chosen aria-label="Chosen subjects"></ul>
+          <p class="rt-empty" data-rt-empty hidden>No subjects chosen yet.</p>
+        </fieldset>
+
+        <fieldset class="rt-step">
+          <legend><span>3.</span>Your dates</legend>
+          <div class="rt-fields">
+            <div class="rt-field">
+              <label for="rt-start">Start revising on</label>
+              <input id="rt-start" class="rt-input" type="date" name="start" required>
+            </div>
+            <div class="rt-field">
+              <label for="rt-exam">Your first exam</label>
+              <input id="rt-exam" class="rt-input" type="date" name="exam" required value="{{ $examDate }}">
+              <p class="rt-field__hint">The summer 2027 exams are due to start on {{ $examLabel }}. Use the date of your own first paper if you know it.</p>
+            </div>
+          </div>
+        </fieldset>
+
+        <fieldset class="rt-step">
+          <legend><span>4.</span>Your week</legend>
+          <p class="rt-step__hint">How many revision sessions can you fit in? Be realistic. A plan you keep beats a perfect one you drop.</p>
+          <div class="rt-fields">
+            <div class="rt-field">
+              <label for="rt-weekday">Sessions on a school day</label>
+              <select id="rt-weekday" class="rt-select" name="weekday">
+                <option value="0">None</option><option value="1">1</option><option value="2" selected>2</option><option value="3">3</option><option value="4">4</option>
+              </select>
+            </div>
+            <div class="rt-field">
+              <label for="rt-saturday">Sessions on a Saturday</label>
+              <select id="rt-saturday" class="rt-select" name="saturday">
+                <option value="0">None</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4" selected>4</option><option value="5">5</option><option value="6">6</option>
+              </select>
+            </div>
+            <div class="rt-field">
+              <label for="rt-sunday">Sessions on a Sunday</label>
+              <select id="rt-sunday" class="rt-select" name="sunday">
+                <option value="0">None</option><option value="1">1</option><option value="2">2</option><option value="3" selected>3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option>
+              </select>
+            </div>
+            <div class="rt-field">
+              <label for="rt-nightoff">One school night off</label>
+              <select id="rt-nightoff" class="rt-select" name="nightoff">
+                <option value="0">No night off</option><option value="1">Monday</option><option value="2">Tuesday</option><option value="3">Wednesday</option><option value="4">Thursday</option><option value="5" selected>Friday</option>
+              </select>
+            </div>
+            <div class="rt-field">
+              <label for="rt-length">Each session lasts</label>
+              <select id="rt-length" class="rt-select" name="minutes">
+                <option value="30">30 minutes</option><option value="45" selected>45 minutes</option><option value="60">1 hour</option>
+              </select>
+              <p class="rt-field__hint">Plus a break of 5 to 10 minutes after each one.</p>
+            </div>
+          </div>
+        </fieldset>
+
+        <div class="rt-submit">
+          <button type="submit" class="btn btn-primary btn-lg">Make my timetable</button>
+          <p class="rt-error" data-rt-error role="alert" hidden></p>
+        </div>
+      </form>
+
+      <div class="rt-result" data-rt-result tabindex="-1" hidden>
+        <div class="rt-result__top">
+          <h2 class="rt-result__title">Your revision timetable</h2>
+          <p class="rt-result__stats" data-rt-stats aria-live="polite"></p>
+          <ul class="rt-legend" data-rt-legend></ul>
+          <div class="rt-actions">
+            <button type="button" class="is-primary" data-rt-print="week">Print this week</button>
+            <button type="button" data-rt-print="all">Print every week</button>
+            <button type="button" data-rt-csv>Download for Excel or Google Sheets</button>
+            <button type="button" data-rt-edit>Change my answers</button>
+          </div>
+          {{ with .Params.parent_cta_text }}
+          <p class="rt-parent">{{ . }} <a href="{{ ($.Params.parent_cta_url | default "webinars/") | relURL }}">{{ $.Params.parent_cta_label | default "Find out more" }} &rarr;</a></p>
+          {{ end }}
+        </div>
+        <div class="rt-weeknav">
+          <button type="button" data-rt-prev aria-label="Previous week">&lsaquo;</button>
+          <div class="rt-weeknav__mid">
+            <label for="rt-weekpick" class="rt-sr">Choose a week</label>
+            <select id="rt-weekpick" class="rt-select" data-rt-weekpick></select>
+            <span class="rt-weeknav__sub" data-rt-weeksub></span>
+          </div>
+          <button type="button" data-rt-next aria-label="Next week">&rsaquo;</button>
+        </div>
+        <div class="rt-days" data-rt-days></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="rt-downloads" id="rt-downloads" aria-labelledby="rt-downloads-title">
+    <div class="rt-wrap">
+      <h2 id="rt-downloads-title">Blank revision timetable templates</h2>
+      <p>Free to print, share and hand out. Schools are welcome to put them in a newsletter or on the school website.</p>
+      <ul class="rt-files">
+        <li class="rt-file">
+          <span class="rt-file__type">PDF &middot; A4 landscape</span>
+          <h3>Weekly revision timetable</h3>
+          <p>Seven days and eight sessions to fill in by hand, with a box for the week's focus and a colour key for subjects.</p>
+          <a href="{{ "downloads/revision-timetable-weekly.pdf" | relURL }}" target="_blank" rel="noopener">Download the weekly timetable</a>
+        </li>
+        <li class="rt-file">
+          <span class="rt-file__type">PDF &middot; A4 portrait</span>
+          <h3>Revision topic checklist</h3>
+          <p>List every topic in a subject, rate each one red, amber or green, and track when you last revised and tested it.</p>
+          <a href="{{ "downloads/revision-topic-checklist.pdf" | relURL }}" target="_blank" rel="noopener">Download the topic checklist</a>
+        </li>
+        <li class="rt-file">
+          <span class="rt-file__type">Excel &middot; works in Google Sheets</span>
+          <h3>Editable timetable and checklist</h3>
+          <p>Both sheets in one spreadsheet, to fill in on a laptop. The checklist has red, amber and green drop-downs.</p>
+          <a href="{{ "downloads/revision-timetable.xlsx" | relURL }}">Download the spreadsheet</a>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <article class="rt-guide">
+    {{ .Content }}
+  </article>
+
+  {{ with .Params.faqs }}
+  <section class="rt-faqs" aria-labelledby="rt-faqs-title">
+    <h2 id="rt-faqs-title">Frequently asked questions</h2>
+    {{ range . }}
+    <div class="rt-faq">
+      <h3>{{ .q }}</h3>
+      <p>{{ .a }}</p>
+    </div>
+    {{ end }}
+  </section>
+  {{ end }}
+</div>
+
+<script>
+(function () {
+  var root = document.querySelector('[data-rt]');
+  var form = root && root.querySelector('[data-rt-form]');
+  if (!form) return;
+
+  var STORE = 'tdg-revision-timetable-v1';
+  var SUBJECTS = {
+    gcse: ['English Language', 'English Literature', 'Maths', 'Combined Science', 'Biology', 'Chemistry',
+           'Physics', 'History', 'Geography', 'Religious Studies', 'French', 'Spanish', 'German',
+           'Computer Science', 'Business', 'Design and Technology', 'Art and Design', 'Drama', 'Music',
+           'PE', 'Food Preparation and Nutrition', 'Psychology', 'Sociology', 'Statistics',
+           'Further Maths', 'Media Studies', 'Latin'],
+    alevel: ['Maths', 'Further Maths', 'Biology', 'Chemistry', 'Physics', 'Psychology', 'English Literature',
+             'English Language', 'History', 'Geography', 'Economics', 'Business', 'Sociology', 'Politics',
+             'Computer Science', 'Religious Studies', 'Philosophy', 'Law', 'French', 'Spanish', 'German',
+             'Art and Design', 'Media Studies', 'Film Studies', 'Drama and Theatre', 'Music', 'PE',
+             'Classical Civilisation', 'Design and Technology']
+  };
+  var DEFAULTS = { gcse: ['English Language', 'English Literature', 'Maths', 'Combined Science'], alevel: [] };
+  var CONFIDENCE = [[3, 'Needs the most work'], [2, 'Getting there'], [1, 'Confident']];
+  /* What each session is for. Far from the exams the work is building notes
+     and recall; in the last month it is timed papers and fixing what they show. */
+  var TASKS = [['Make flashcards', 'Practice questions', 'Test yourself'],
+               ['Test yourself', 'Exam questions', 'Fix weak topics'],
+               ['Timed past paper', 'Mark and correct', 'Test yourself']];
+  var COLOURS = ['#fde2e4', '#dfeaf8', '#e1f3e6', '#fff0c7', '#ece2f6', '#ffe3cf',
+                 '#daf1f1', '#f0efd2', '#f6dde9', '#e3e7f1', '#e7f2d4', '#f2e4d8'];
+  var DAY_NAMES = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
+  var MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+  var MONTHS_LONG = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August',
+                     'September', 'October', 'November', 'December'];
+  var DAY = 864e5;
+
+  var el = function (sel) { return root.querySelector(sel); };
+  var chipsBox = el('[data-rt-chips]'), chosenList = el('[data-rt-chosen]'), emptyNote = el('[data-rt-empty]');
+  var customInput = el('[data-rt-custom]'), errorBox = el('[data-rt-error]');
+  var result = el('[data-rt-result]'), daysBox = el('[data-rt-days]'), weekPick = el('[data-rt-weekpick]');
+  var subjects = [];   /* [{name, weight}] in the order chosen */
+  var plan = null, weekIndex = 0;
+
+  function track(name, params) {
+    try { if (typeof window.gtag === 'function') window.gtag('event', name, params || {}); } catch (e) {}
+  }
+  function esc(s) {
+    return String(s).replace(/[&<>"']/g, function (c) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+    });
+  }
+
+  /* Dates are handled as local calendar days throughout. Day differences are
+     rounded, so the hour lost or gained when the clocks change cannot shift a
+     date. */
+  function parseDate(v) {
+    var m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(v || '');
+    return m ? new Date(+m[1], +m[2] - 1, +m[3]) : null;
+  }
+  function isoDate(d) {
+    return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0');
+  }
+  function addDays(d, n) { return new Date(d.getFullYear(), d.getMonth(), d.getDate() + n); }
+  function daysBetween(a, b) { return Math.round((b - a) / DAY); }
+  function dayIndex(d) { return (d.getDay() + 6) % 7; }   /* Monday 0 ... Sunday 6 */
+  function short(d) { return d.getDate() + ' ' + MONTHS[d.getMonth()]; }
+  function long(d) { return DAY_NAMES[dayIndex(d)] + ' ' + d.getDate() + ' ' + MONTHS_LONG[d.getMonth()] + ' ' + d.getFullYear(); }
+
+  function level() { return form.querySelector('[name="level"]:checked').value; }
+  function colourOf(i) { return 'rt-c' + (i % COLOURS.length); }
+
+  /* ---- Subjects ---- */
+  function renderChips() {
+    var names = SUBJECTS[level()].slice();
+    subjects.forEach(function (s) { if (names.indexOf(s.name) === -1) names.push(s.name); });
+    chipsBox.innerHTML = names.map(function (name, i) {
+      var on = subjects.some(function (s) { return s.name === name; });
+      return '<label class="rt-chip"><input type="checkbox" value="' + esc(name) + '"' + (on ? ' checked' : '') +
+             '><span>' + esc(name) + '</span></label>';
+    }).join('');
+  }
+  function renderChosen() {
+    chosenList.innerHTML = subjects.map(function (s, i) {
+      var id = 'rt-conf-' + i;
+      return '<li><span class="rt-chosen__dot ' + colourOf(i) + '" aria-hidden="true"></span>' +
+        '<span class="rt-chosen__name" id="' + id + '-name">' + esc(s.name) + '</span>' +
+        '<label for="' + id + '" class="rt-sr">How confident are you in ' + esc(s.name) + '?</label>' +
+        '<select class="rt-select" id="' + id + '" data-rt-conf="' + i + '">' +
+        CONFIDENCE.map(function (c) {
+          return '<option value="' + c[0] + '"' + (c[0] === s.weight ? ' selected' : '') + '>' + c[1] + '</option>';
+        }).join('') + '</select>' +
+        '<button type="button" class="rt-remove" data-rt-remove="' + i + '" aria-label="Remove ' + esc(s.name) + '">&times;</button></li>';
+    }).join('');
+    emptyNote.hidden = subjects.length > 0;
+  }
+  function setSubjects(list) { subjects = list; renderChips(); renderChosen(); }
+  function addSubject(name) {
+    name = name.replace(/\s+/g, ' ').trim().slice(0, 40);
+    if (!name) return;
+    var exists = subjects.some(function (s) { return s.name.toLowerCase() === name.toLowerCase(); });
+    if (!exists) subjects.push({ name: name, weight: 2 });
+    renderChips(); renderChosen();
+  }
+  function removeSubject(name) {
+    subjects = subjects.filter(function (s) { return s.name !== name; });
+    renderChips(); renderChosen();
+  }
+
+  chipsBox.addEventListener('change', function (e) {
+    var box = e.target;
+    if (box.type !== 'checkbox') return;
+    if (box.checked) addSubject(box.value); else removeSubject(box.value);
+    /* The chips were drawn again, so put focus back on the one just used. */
+    var value = box.value;
+    Array.prototype.forEach.call(chipsBox.querySelectorAll('input'), function (input) {
+      if (input.value === value) input.focus();
+    });
+  });
+  chosenList.addEventListener('change', function (e) {
+    var i = e.target.getAttribute('data-rt-conf');
+    if (i !== null && subjects[+i]) subjects[+i].weight = +e.target.value;
+  });
+  chosenList.addEventListener('click', function (e) {
+    var btn = e.target.closest('[data-rt-remove]');
+    if (btn) removeSubject(subjects[+btn.getAttribute('data-rt-remove')].name);
+  });
+  el('[data-rt-add]').addEventListener('click', function () { addSubject(customInput.value); customInput.value = ''; customInput.focus(); });
+  customInput.addEventListener('keydown', function (e) {
+    if (e.key === 'Enter') { e.preventDefault(); addSubject(customInput.value); customInput.value = ''; }
+  });
+  form.querySelectorAll('[name="level"]').forEach(function (r) {
+    r.addEventListener('change', function () {
+      setSubjects(DEFAULTS[level()].map(function (n) { return { name: n, weight: 2 }; }));
+    });
+  });
+
+  /* ---- The plan ---- */
+  function readSettings() {
+    var f = form.elements;
+    return {
+      level: level(), subjects: subjects.map(function (s) { return { name: s.name, weight: s.weight }; }),
+      start: f.start.value, exam: f.exam.value,
+      weekday: +f.weekday.value, saturday: +f.saturday.value, sunday: +f.sunday.value,
+      nightoff: +f.nightoff.value, minutes: +f.minutes.value
+    };
+  }
+  function sessionsOn(d, st) {
+    var i = dayIndex(d);
+    if (i === 5) return st.saturday;
+    if (i === 6) return st.sunday;
+    return (st.nightoff && i === st.nightoff - 1) ? 0 : st.weekday;
+  }
+
+  function buildPlan(st) {
+    var start = parseDate(st.start), exam = parseDate(st.exam);
+    /* Each subject starts at a different point in the task list, so the first
+       week is not every subject opening with the same task. */
+    var subs = st.subjects.map(function (s, i) { return { name: s.name, w: s.weight, cur: 0, count: 0, task: i, i: i }; });
+    var total = subs.reduce(function (n, s) { return n + s.w; }, 0);
+    var weeks = [];
+    var monday = addDays(start, -dayIndex(start));
+    for (var ws = monday; ws <= exam; ws = addDays(ws, 7)) {
+      var days = [];
+      for (var k = 0; k < 7; k++) {
+        var d = addDays(ws, k);
+        if (d < start) continue;
+        if (daysBetween(d, exam) === 0) { days.push({ date: d, exam: true, slots: [] }); break; }
+        var n = sessionsOn(d, st), slots = [], used = {};
+        var weeksLeft = Math.ceil(daysBetween(d, exam) / 7);
+        var phase = weeksLeft > 12 ? 0 : (weeksLeft > 4 ? 1 : 2);
+        for (var j = 0; j < n; j++) {
+          /* Smooth weighted round robin: every subject earns its weight each
+             slot and the leader is spent. Over the plan each subject gets
+             sessions in proportion to its weight, spread out rather than in
+             blocks. The leader is passed over for a subject not yet done
+             today, so a day mixes subjects whenever there are enough. */
+          subs.forEach(function (s) { s.cur += s.w; });
+          var order = subs.slice().sort(function (a, b) { return b.cur - a.cur || a.i - b.i; });
+          var pick = order.filter(function (s) { return !used[s.i]; })[0] || order[0];
+          pick.cur -= total;
+          used[pick.i] = true;
+          pick.count++;
+          slots.push({ s: pick.i, task: TASKS[phase][pick.task++ % 3] });
+        }
+        days.push({ date: d, slots: slots });
+      }
+      if (days.length) weeks.push({ start: ws, days: days });
+    }
+    /* An exam on a Monday would otherwise get a week of its own with nothing
+       in it but the exam, and a page of its own when printed. It goes on the
+       end of the week before instead. */
+    var lastWeek = weeks[weeks.length - 1];
+    if (weeks.length > 1 && lastWeek.days.length === 1 && lastWeek.days[0].exam) {
+      weeks.pop();
+      weeks[weeks.length - 1].days.push(lastWeek.days[0]);
+    }
+    var sessions = subs.reduce(function (n, s) { return n + s.count; }, 0);
+    return { settings: st, start: start, exam: exam, weeks: weeks, subjects: subs, sessions: sessions,
+             maxSlots: Math.max(st.weekday, st.saturday, st.sunday, 1) };
+  }
+
+  function validate(st) {
+    var start = parseDate(st.start), exam = parseDate(st.exam);
+    if (!st.subjects.length) return 'Choose at least one subject.';
+    if (!start || !exam) return 'Fill in both dates.';
+    if (exam <= start) return 'Your first exam needs to be after the day you start.';
+    if (daysBetween(start, exam) > 400) return 'Choose a start date within a year of your first exam.';
+    if (!st.weekday && !st.saturday && !st.sunday) return 'Add at least one revision session a week.';
+    return '';
+  }
+
+  function range(a, b) {
+    if (daysBetween(a, b) === 0) return short(a);
+    if (a.getMonth() === b.getMonth()) return a.getDate() + ' to ' + short(b);
+    return short(a) + ' to ' + short(b);
+  }
+  function weekRange(w) { return range(w.days[0].date, w.days[w.days.length - 1].date); }
+  function weekLabel(w, i) { return 'Week ' + (i + 1) + ': ' + weekRange(w); }
+
+  function slotHtml(slot) {
+    var s = plan.subjects[slot.s];
+    return '<div class="rt-slot ' + colourOf(s.i) + '"><b>' + esc(s.name) + '</b><span>' + esc(slot.task) + '</span></div>';
+  }
+
+  function renderWeek(i) {
+    weekIndex = Math.max(0, Math.min(i, plan.weeks.length - 1));
+    var w = plan.weeks[weekIndex];
+    daysBox.style.setProperty('--cols', plan.maxSlots);
+    daysBox.innerHTML = w.days.map(function (day) {
+      var label = '<div class="rt-day__label">' + DAY_NAMES[dayIndex(day.date)].slice(0, 3) + ' <span>' + short(day.date) + '</span></div>';
+      var body;
+      if (day.exam) body = '<div class="rt-slot rt-slot--exam">First exam. Good luck.</div>';
+      else if (!day.slots.length) body = '<div class="rt-slot rt-slot--rest">Rest</div>';
+      else body = day.slots.map(slotHtml).join('');
+      return '<div class="rt-day">' + label + '<div class="rt-slots">' + body + '</div></div>';
+    }).join('');
+    weekPick.value = String(weekIndex);
+    var toGo = Math.floor(daysBetween(w.days[0].date, plan.exam) / 7);
+    el('[data-rt-weeksub]').textContent = toGo < 1 ? 'Your exams start this week'
+      : toGo + (toGo === 1 ? ' week' : ' weeks') + ' until your first exam';
+    el('[data-rt-prev]').disabled = weekIndex === 0;
+    el('[data-rt-next]').disabled = weekIndex === plan.weeks.length - 1;
+  }
+
+  function renderPlan() {
+    var hours = Math.round(plan.sessions * plan.settings.minutes / 60);
+    el('[data-rt-stats]').innerHTML = '<strong>' + plan.weeks.length + (plan.weeks.length === 1 ? ' week' : ' weeks') +
+      '</strong> to ' + esc(long(plan.exam)) + ', with <strong>' + plan.sessions + ' sessions</strong> (about ' + hours + ' hours).';
+    el('[data-rt-legend]').innerHTML = plan.subjects.map(function (s) {
+      return '<li><i class="' + colourOf(s.i) + '"></i>' + esc(s.name) + ' <b>' + s.count + '</b></li>';
+    }).join('');
+    /* Open on the week that contains today, if the plan has started. */
+    var today = parseDate(isoDate(new Date())), open = 0;
+    plan.weeks.forEach(function (w, i) { if (w.start <= today) open = i; });
+    weekPick.innerHTML = plan.weeks.map(function (w, i) {
+      return '<option value="' + i + '">' + esc(weekLabel(w, i)) + '</option>';
+    }).join('');
+    result.hidden = false;
+    renderWeek(open);
+  }
+
+  function save(st) { try { localStorage.setItem(STORE, JSON.stringify(st)); } catch (e) {} }
+  function load() { try { return JSON.parse(localStorage.getItem(STORE) || 'null'); } catch (e) { return null; } }
+
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+    var st = readSettings(), problem = validate(st);
+    errorBox.textContent = problem;
+    errorBox.hidden = !problem;
+    if (problem) return;
+    plan = buildPlan(st);
+    renderPlan();
+    save(st);
+    result.focus({ preventScroll: true });
+    result.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    track('revision_timetable_made', { level: st.level, subjects: st.subjects.length, weeks: plan.weeks.length });
+  });
+
+  el('[data-rt-prev]').addEventListener('click', function () { renderWeek(weekIndex - 1); });
+  el('[data-rt-next]').addEventListener('click', function () { renderWeek(weekIndex + 1); });
+  weekPick.addEventListener('change', function () { renderWeek(+weekPick.value); });
+  el('[data-rt-edit]').addEventListener('click', function () {
+    form.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  });
+
+  /* ---- Printing ---- */
+  var printRoot = document.createElement('div');
+  printRoot.id = 'rt-print';
+  document.body.appendChild(printRoot);
+
+  function printWeekHtml(w, i) {
+    var head = '<tr><th>Day</th>';
+    for (var k = 0; k < plan.maxSlots; k++) head += '<th>Session ' + (k + 1) + '</th>';
+    head += '</tr>';
+    var rows = w.days.map(function (day) {
+      var cells = '';
+      if (day.exam) cells = '<td class="rtp-exam" colspan="' + plan.maxSlots + '">First exam. Good luck.</td>';
+      else if (!day.slots.length) cells = '<td class="rtp-rest" colspan="' + plan.maxSlots + '">Rest</td>';
+      else {
+        for (var k = 0; k < plan.maxSlots; k++) {
+          var slot = day.slots[k];
+          if (!slot) { cells += '<td></td>'; continue; }
+          var s = plan.subjects[slot.s];
+          cells += '<td class="rtp-c' + (s.i % COLOURS.length) + '"><span class="rtp-tick"></span><b>' + esc(s.name) + '</b>' + esc(slot.task) + '</td>';
+        }
+      }
+      return '<tr><th>' + DAY_NAMES[dayIndex(day.date)] + '<br>' + short(day.date) + '</th>' + cells + '</tr>';
+    }).join('');
+    return '<section class="rtp-week"><div class="rtp-head"><h2>My revision timetable</h2><p>Week ' + (i + 1) + ' of ' + plan.weeks.length + ': ' + esc(weekRange(w)) +
+      '<br>First exam: ' + esc(long(plan.exam)) + '</p></div><table class="rtp-table"><thead>' + head +
+      '</thead><tbody>' + rows + '</tbody></table><div class="rtp-foot"><span>Sessions of ' + plan.settings.minutes +
+      ' minutes, then a short break. Tick each one when it is done.</span><span>Made free at thedegreegap.com/study/revision-timetable &middot; <b>The Degree Gap</b></span></div></section>';
+  }
+
+  root.querySelectorAll('[data-rt-print]').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      if (!plan) return;
+      var all = btn.getAttribute('data-rt-print') === 'all';
+      printRoot.innerHTML = all ? plan.weeks.map(printWeekHtml).join('') : printWeekHtml(plan.weeks[weekIndex], weekIndex);
+      document.body.classList.add('rt-printing');
+      track('revision_timetable_print', { scope: all ? 'all' : 'week' });
+      window.print();
+    });
+  });
+  window.addEventListener('afterprint', function () { document.body.classList.remove('rt-printing'); });
+
+  /* ---- Spreadsheet download ---- */
+  function csvCell(v) { v = String(v); return /[",\n]/.test(v) ? '"' + v.replace(/"/g, '""') + '"' : v; }
+  el('[data-rt-csv]').addEventListener('click', function () {
+    if (!plan) return;
+    var header = ['Week', 'Day', 'Date'];
+    for (var k = 0; k < plan.maxSlots; k++) header.push('Session ' + (k + 1));
+    var lines = [header];
+    plan.weeks.forEach(function (w, i) {
+      w.days.forEach(function (day) {
+        var row = [i + 1, DAY_NAMES[dayIndex(day.date)],
+                   String(day.date.getDate()).padStart(2, '0') + '/' + String(day.date.getMonth() + 1).padStart(2, '0') + '/' + day.date.getFullYear()];
+        if (day.exam) row.push('First exam');
+        else if (!day.slots.length) row.push('Rest');
+        else day.slots.forEach(function (slot) { row.push(plan.subjects[slot.s].name + ': ' + slot.task); });
+        lines.push(row);
+      });
+    });
+    var csv = '﻿' + lines.map(function (r) { return r.map(csvCell).join(','); }).join('\r\n');
+    var url = URL.createObjectURL(new Blob([csv], { type: 'text/csv;charset=utf-8' }));
+    var a = document.createElement('a');
+    a.href = url;
+    a.download = 'revision-timetable.csv';
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    setTimeout(function () { URL.revokeObjectURL(url); }, 4000);
+    track('revision_timetable_download', { format: 'csv' });
+  });
+
+  /* ---- Start up: today's date, then any plan saved on this device ---- */
+  form.elements.start.value = isoDate(new Date());
+  var saved = load();
+  if (saved && saved.subjects && saved.subjects.length && parseDate(saved.start) && parseDate(saved.exam)) {
+    var radio = form.querySelector('[name="level"][value="' + (saved.level === 'alevel' ? 'alevel' : 'gcse') + '"]');
+    if (radio) radio.checked = true;
+    ['weekday', 'saturday', 'sunday', 'nightoff', 'minutes'].forEach(function (k) {
+      if (saved[k] !== undefined && form.elements[k].querySelector('option[value="' + saved[k] + '"]')) form.elements[k].value = String(saved[k]);
+    });
+    form.elements.exam.value = saved.exam;
+    /* A plan saved weeks ago restarts from today rather than replaying weeks
+       that have gone. */
+    var today = isoDate(new Date());
+    form.elements.start.value = saved.start > today ? saved.start : today;
+    setSubjects(saved.subjects.filter(function (s) { return s && s.name; }).map(function (s) {
+      return { name: String(s.name).slice(0, 40), weight: [1, 2, 3].indexOf(+s.weight) > -1 ? +s.weight : 2 };
+    }));
+    var st = readSettings();
+    if (!validate(st)) { plan = buildPlan(st); renderPlan(); }
+  } else {
+    setSubjects(DEFAULTS.gcse.map(function (n) { return { name: n, weight: 2 }; }));
+  }
+})();
+</script>
+{{ end }}

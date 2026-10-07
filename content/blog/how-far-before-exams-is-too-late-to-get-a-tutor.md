@@ -19,6 +19,9 @@ related_links:
   - title: "When should my child start GCSE tutoring?"
     url: "/blog/when-should-my-child-start-gcse-tutoring/"
     description: "Why September beats January, and the signals that say start now."
+  - title: "Free revision timetable maker"
+    url: "/revision-timetable/"
+    description: "Count the weeks that are left and spread every subject across them, with more time for the ones that need it."
 ---
 
 We get a version of this call every spring, and it usually starts with an apology. The parent feels they've left it too long, and they're half expecting us to say so.

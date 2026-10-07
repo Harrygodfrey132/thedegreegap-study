@@ -17,6 +17,9 @@ related_links:
   - title: "Find a tutor in your area"
     url: "/locations/"
     description: "Local tutoring pages for every city we cover, with the schools we know and the exam boards we match on."
+  - title: "Free revision timetable maker"
+    url: "/revision-timetable/"
+    description: "Put the revision advice into a timetable your child can print, with every subject spread across the weeks to the first exam."
 ---
 
 A few weeks before the summer exams, we ran our latest parent webinar. Three of our tutors each gave their best revision advice for one of the core GCSE subjects. Emily took Maths, Jess took English Language and Literature, and Callum took the Sciences. Here's what they said, and the practical things you and your child can take from it.

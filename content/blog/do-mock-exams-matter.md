@@ -22,6 +22,9 @@ related_links:
   - title: "Foundation or higher tier at GCSE?"
     url: "/blog/foundation-or-higher-tier-gcse-year-11/"
     description: "The decision a November mock usually ends up making."
+  - title: "Free revision timetable maker"
+    url: "/revision-timetable/"
+    description: "Turn what the mock showed into a week-by-week plan to the summer exams, weighted towards the weak subjects."
 ---
 
 Short answer first, because nobody gives you one.
