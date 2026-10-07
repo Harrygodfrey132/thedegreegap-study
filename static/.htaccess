@@ -7,6 +7,17 @@
 RewriteEngine On
 RewriteBase /study/
 
+# One host for the study site. www.thedegreegap.com/study/ answered 200 with the
+# same pages as thedegreegap.com/study/, so Semrush crawled every page on both
+# hosts and links to the www address were split from the real one. A www request
+# now goes in one hop to the same path on thedegreegap.com, the host every
+# canonical tag names. %{REQUEST_URI} rather than a captured $1: in .htaccess a
+# bare "/study" request does not have the per-directory prefix stripped, so $1
+# would put the server's file path into the redirect. The query string carries
+# over unchanged. To undo, delete these two lines and redeploy.
+RewriteCond %{HTTP_HOST} ^www\.thedegreegap\.com$ [NC]
+RewriteRule ^ https://thedegreegap.com%{REQUEST_URI} [L,R=301]
+
 # Personal statement pages moved to /personal-statement-tutor/
 RewriteRule ^personal-statements/oxford/?$      /study/personal-statement-tutor/oxford/     [L,R=301]
 RewriteRule ^personal-statements/cambridge/?$   /study/personal-statement-tutor/cambridge/  [L,R=301]
