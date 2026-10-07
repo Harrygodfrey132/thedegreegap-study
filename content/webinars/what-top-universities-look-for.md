@@ -1,17 +1,13 @@
 ---
-# Turned off October 2026 now the 30 September session has run. Drafts are
-# not built, so the page, its listing card and its sitemap entry all go; the
-# old address redirects in static/.htaccess. Delete this line to bring it back.
-draft: true
-title: "What Top Universities Are Really Looking For | Free Webinar | The Degree Gap"
-description: "Free online webinar for Year 12 and Year 13 students, their parents and schools, led by former Head of Careers Kate Grace. How expectations shift from GCSE to sixth form, with anonymised examples from real personal statements and interviews."
+title: "What Top Universities Are Really Looking For | Webinar Replay | The Degree Gap"
+description: "Watch the replay of our free webinar for Year 12 and Year 13, led by former Head of Careers Kate Grace. How expectations shift from GCSE to sixth form, with anonymised examples from real personal statements and interviews."
 layout: "single"
-hero_eyebrow: "Free online webinar · Year 12 and Year 13"
+hero_eyebrow: "Webinar replay · Year 12 and Year 13"
 hero_h1: "What Top Universities Are Really Looking For"
 hero_lead: "How expectations shift from GCSE to sixth form, and what admissions tutors are actually reading for. Kate Grace, a former Head of Careers, works through anonymised examples from real personal statements and interviews. For students, parents and the staff who support them."
 card_title: "What Top Universities Are Really Looking For"
-card_summary: "A free hour with former Head of Careers Kate Grace, for Year 12 and Year 13. How expectations shift from GCSE to sixth form, with anonymised examples from real personal statements and interviews."
-cta_label: "Save my place"
+card_summary: "This session has finished, and the replay is free to watch. Former Head of Careers Kate Grace on what admissions tutors look for, for Year 12 and Year 13."
+cta_label: "Watch the replay"
 webinar_date: 2026-09-30T19:00:00+01:00
 webinar_end_date: 2026-09-30T20:00:00+01:00
 webinar_date_display: "Wednesday 30 September 2026"
@@ -19,6 +15,9 @@ webinar_time_display: "7–8pm (UK time)"
 hero_form: true
 hero_form_title: "Save your place"
 hero_form_sub: "Free to attend. We email the joining link, the slides and the replay."
+# The session ran on 30 September 2026. With this set, the page says it is not
+# running any more, plays the recording in the hero and drops the sign-up form.
+replay_youtube_id: "585yIToSmtg"
 hero_replay_note: "<b>Cannot make it live?</b> Register anyway. Everyone who signs up gets the slides and the replay."
 
 # Registration form. The page is shared by schools, so the form asks who is
@@ -51,7 +50,7 @@ speaker_credentials:
   - "Careers work recognised by the Good Schools Guide and ISI"
 speaker_bio: "Kate Grace is an independent careers consultant with over a decade of experience in careers education and university admissions. She spent seven years as Head of Careers at Ratcliffe College, an independent school in the East Midlands, where she built the department from scratch and earned recognition in the Good Schools Guide and from ISI. Before that she spent five years as Employability Module Lead at Nottingham Trent University, lecturing across several degree programmes and sitting on the other side of the process, reading personal statements and supporting students with graduate and placement applications. So she has seen what admissions tutors and employers actually respond to, from both ends. Kate holds an Associate Fellowship of the Higher Education Academy and a BA (Hons) in English and Drama from the University of Birmingham. She is the founder of Go-Getter Careers Tuition, and specialises in helping students stand out at a time when AI is making applications sound increasingly alike. Kate is a guest speaker rather than a tutor on our platform."
 
-outcomes_heading: "What Kate will cover"
+outcomes_heading: "What Kate covers"
 outcomes_sub: "One session for both year groups, with live Q&A at the end. The Year 13 half works with the current three-question personal statement, and the reading applies whichever universities a student has in mind."
 outcomes:
   - "Why so many applications now sound the same|and how over-reliance on AI tools is accelerating this."

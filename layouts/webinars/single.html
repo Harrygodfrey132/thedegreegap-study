@@ -9,6 +9,11 @@
 {{ $dateDisplay := .Params.webinar_date_display | default "Coming soon" }}
 {{ $timeDisplay := .Params.webinar_time_display | default "7–8pm (UK time)" }}
 {{ $ytId := .Params.youtube_id }}
+{{/* Set replay_youtube_id once a session has run. The page then says it has
+     finished and plays the recording in the hero, and everything that asks
+     people to register (forms, calls to action, sharing wording, the FAQ and
+     the Event schema) is left out. */}}
+{{ $replayId := .Params.replay_youtube_id }}
 {{ $resourcesUrl := .Params.free_resources_url }}
 {{ $leadSource := .Params.lead_source | default "Webinar" }}
 {{ $askTutoring := .Params.ask_tutoring_interest }}
@@ -569,12 +574,20 @@
   .gs-share__note { margin: 14px 0 0; font-size: .9rem; line-height: 1.6; color: var(--muted); }
   .gs-share__note a { color: var(--burgundy); font-weight: 700; text-decoration: underline; }
   .gs-body { padding-bottom: 28px; }
+
+  /* Replay mode: a finished-session notice and the recording in the hero. */
+  .gs-replay { width: 100%; max-width: 760px; margin: 26px auto 0; text-align: left; }
+  .gs-replay__note { display: flex; align-items: flex-start; gap: 12px; margin: 0 0 18px; padding: 14px 16px; background: #fff; border: 1px solid var(--line); border-radius: 12px; font-size: .95rem; line-height: 1.55; color: var(--ink); }
+  .gs-replay__note svg { flex: 0 0 auto; margin-top: 2px; color: var(--burgundy); }
+  .gs-replay__note strong { font-weight: 700; }
+  .gs-replay .gs-video { margin: 0; }
 </style>
 
 <div class="gs-page">
 
   <!-- HERO -->
   {{ $heroForm := .Params.hero_form }}
+  {{ if $replayId }}{{ $heroForm = false }}{{ end }}
   <section class="gs-hero{{ if $heroForm }} gs-hero--split{{ end }}">
     <div class="gs-hero__inner">
       <div class="gs-hero__copy">
@@ -603,6 +616,19 @@
               <div><span class="gs-when__date">{{ $dateDisplay }}</span><span class="gs-when__time">{{ $timeDisplay }}</span></div>
             </div>
             {{ with .Params.hero_replay_note }}<p class="gs-when__note">{{ . | safeHTML }}</p>{{ end }}
+          </div>
+        {{ else if $replayId }}
+          <div class="gs-replay">
+            <p class="gs-replay__note">
+              <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 8v4M12 16h.01"/></svg>
+              <span>{{ .Params.replay_note | default (printf "<strong>This webinar is not running any more.</strong> It ran live on %s. You can watch the full replay below." $dateDisplay) | safeHTML }}</span>
+            </p>
+            <div class="gs-video">
+              <button class="gs-video__facade" type="button" data-gs-video="{{ $replayId }}" data-gs-video-title="{{ $h1 }}: webinar replay" aria-label="Play the webinar replay">
+                <img src="https://i.ytimg.com/vi/{{ $replayId }}/maxresdefault.jpg" alt="{{ $h1 }}: webinar replay" width="1280" height="720" loading="eager" decoding="async">
+                <span class="gs-video__play" aria-hidden="true"><svg viewBox="0 0 24 24" width="26" height="26"><path d="M8 5v14l11-7z"/></svg></span>
+              </button>
+            </div>
           </div>
         {{ else }}
           <p class="gs-hero__meta">Live online &middot; <strong>{{ $dateDisplay }}</strong> &middot; {{ $timeDisplay }}</p>
@@ -674,7 +700,7 @@
   {{ with .Params.speaker_name }}{{ partial "webinar-speaker.html" (dict "page" $ "eager" false "eyebrow" "About the speaker") }}{{ end }}
   {{ end }}
 
-  {{ if and .Content (not $heroForm) (ne .Params.body_position "after_form") }}
+  {{ if and .Content (not $heroForm) (not $replayId) (ne .Params.body_position "after_form") }}
   <section class="gs-body">
     <div class="gs-body__inner">
       {{ .Content }}
@@ -683,7 +709,7 @@
   {{ end }}
 
   <!-- REGISTER -->
-  {{ if not $heroForm }}
+  {{ if and (not $heroForm) (not $replayId) }}
   <section class="gs-register" id="register">
     <div class="gs-register__inner">
       <h2>{{ $registerHeading }}</h2>
@@ -702,7 +728,7 @@
   </section>
   {{ end }}
 
-  {{ if or .Params.included_families .Params.included_schools }}
+  {{ if and (or .Params.included_families .Params.included_schools) (not $replayId) }}
   <!-- WHAT IS INCLUDED -->
   <section class="gs-inc">
     <div class="gs-inc__inner">
@@ -809,7 +835,7 @@
       </a>
     </div>
   </section>
-  {{ else if and .Content (eq .Params.body_position "after_form") }}
+  {{ else if and .Content (not $replayId) (eq .Params.body_position "after_form") }}
   <section class="gs-body">
     <div class="gs-body__inner">
       {{ .Content }}
@@ -860,16 +886,16 @@
   /* Lazy YouTube: load the iframe only when the parent clicks play.
      Keeps the page fast (no YouTube JS on first load). */
   (function () {
-    var facade = document.querySelector('[data-gs-video]');
-    if (!facade) return;
-    facade.addEventListener('click', function () {
-      var id = facade.getAttribute('data-gs-video');
-      var iframe = document.createElement('iframe');
-      iframe.src = 'https://www.youtube-nocookie.com/embed/' + id + '?autoplay=1&rel=0';
-      iframe.title = '90-second overview';
-      iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
-      iframe.allowFullscreen = true;
-      facade.replaceWith(iframe);
+    document.querySelectorAll('[data-gs-video]').forEach(function (facade) {
+      facade.addEventListener('click', function () {
+        var id = facade.getAttribute('data-gs-video');
+        var iframe = document.createElement('iframe');
+        iframe.src = 'https://www.youtube-nocookie.com/embed/' + id + '?autoplay=1&rel=0';
+        iframe.title = facade.getAttribute('data-gs-video-title') || '90-second overview';
+        iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+        iframe.allowFullscreen = true;
+        facade.replaceWith(iframe);
+      });
     });
   })();
 
@@ -1047,7 +1073,7 @@
   })();
 </script>
 
-{{ with $webinarDate }}
+{{ if not $replayId }}{{ with $webinarDate }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -1075,6 +1101,6 @@
   }
 }
 </script>
-{{ end }}
+{{ end }}{{ end }}
 
 {{ end }}
