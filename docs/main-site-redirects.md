@@ -48,6 +48,43 @@ Build the study location page first, confirm `/study/locations/{town}-tutors/`
 returns 200, then add the slug to the alternation. Never add a slug whose target
 does not exist yet.
 
+## Update proposed 2026-10-07: the 54 towns built since August
+
+Not applied yet. It needs someone with SSH access to the main site.
+
+The rule above went in when the study site had 56 towns. It has 110 now, and the
+54 built since 5 August were never added: abingdon, aldershot, altrincham, amersham, barnet, basingstoke, bath, beaconsfield, berkhamsted, beverley, bicester, bishops-stortford, bournemouth, bromley, bushey, camberley, cirencester, cobham, croydon, didcot, didsbury, esher, fareham, farnborough, farnham, fleet, gerrards-cross, godalming, harrow, havant, henley-on-thames, hitchin, kenilworth, kingston-upon-thames, knutsford, letchworth, maidstone, marlow, newcastle-upon-tyne, northampton, potters-bar, reigate, rickmansworth, royston, slough, st-neots, stamford, stockport, sutton, tamworth, tonbridge, weybridge, wilmslow, woking.
+
+For each of those towns the main site still serves its own
+`/areas-we-cover/{town}-gcse-a-level-tutoring` page beside the study page. Two
+pages on one domain compete for the same "tutor in {town}" searches, and the
+older, thinner one keeps the links and the history. Semrush shows the old pages
+still taking impressions, for example Aldershot, Stockport, Marlow, Tamworth and
+Bicester.
+
+Replace the alternation in the existing rule with every study town. It is a
+superset of today's list, so the original 45 behave exactly as before:
+
+```apache
+RewriteRule ^areas-we-cover/(abingdon|aldershot|altrincham|amersham|aylesbury|baldock|banbury|barnet|basingstoke|bath|beaconsfield|berkhamsted|beverley|bicester|birmingham|bishops-stortford|bournemouth|brighton|bristol|bromley|bushey|camberley|cambridge|canterbury|chelmsford|cheltenham|chesham|chester|cirencester|cobham|colchester|coventry|croydon|derby|didcot|didsbury|epsom|esher|exeter|fareham|farnborough|farnham|fleet|gerrards-cross|godalming|guildford|harpenden|harrogate|harrow|hatfield|havant|hemel-hempstead|henley-on-thames|high-wycombe|hitchin|kenilworth|kingston-upon-thames|knutsford|leeds|leicester|letchworth|liverpool|london|loughborough|maidstone|manchester|marlow|milton-keynes|newcastle-upon-tyne|northampton|norwich|nottingham|oxford|peterborough|portsmouth|potters-bar|reading|reigate|rickmansworth|royal-leamington-spa|royston|sevenoaks|sheffield|slough|solihull|southampton|st-albans|st-neots|stamford|stevenage|stockport|stratford-upon-avon|sunbury-on-thames|sutton|sutton-coldfield|swindon|tamworth|tonbridge|tunbridge-wells|warwick|watford|welwyn-garden-city|weybridge|wigan|wilmslow|winchester|woking|wolverhampton|worcester|york)-gcse-a-level-tutoring/?$ /study/locations/$1-tutors/ [L,R=301]
+```
+
+Every slug in it has a live `/study/locations/{slug}-tutors/` page today, so no
+redirect can land on a 404. A slug with no matching area page on the main site
+never matches anything, so it does no harm. The opposite case does: where the
+main site spells a town differently (for example `newcastle` for
+`newcastle-upon-tyne`, or `bishop-s-stortford`), that town will not match and
+needs its own one-line rule. Check those against the main site's sitemap before
+applying.
+
+The same steps as before apply. Back up the file, add the rule in the same
+place, then check a handful with `curl -sI`: a 301 to the study page, which
+returns 200. The main site homepage, `/teachers`, `/Pricing`, `/aboutus`,
+`/areas-we-cover` and `/apply-to-tutor` should all still return 200.
+
+When the next town is built, add its slug here and on the server in the same
+sitting.
+
 ## To revert
 
 Timestamped backups sit alongside the file as `/var/www/html/.htaccess.bak-<epoch>`.
