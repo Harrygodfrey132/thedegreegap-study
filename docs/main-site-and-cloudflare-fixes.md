@@ -210,7 +210,15 @@ redirect in one hop to the current edition or its replay page, never to a 404.
 3. Webinar review badges link to the Google Business Profile and Trustpilot
    without `nofollow` (clears 6 "nofollow external links").
 4. `www.thedegreegap.com/study/...` 301s to `thedegreegap.com/study/...`.
+5. Markdown links no longer leave a space before a following comma or full stop
+   (41 links on 18 pages, mostly blog source lists).
+6. New page `/study/revision-timetable/`: the revision timetable maker, its three
+   printable templates (in `static/downloads/`, built by
+   `scripts/make-revision-sheets.py`) and a footer link to it. The template form
+   sends leads to Zoho with Lead Source "Web Download".
 
 Deploy with `./scripts/deploy.sh` as usual after reviewing the branch. To check the
 redirect afterwards: `curl -sI https://www.thedegreegap.com/study/locations/` should
-answer `301` with `location: https://thedegreegap.com/study/locations/`.
+answer `301` with `location: https://thedegreegap.com/study/locations/`. Then open
+`/study/revision-timetable/`, make a plan, and fill in the template form once with
+your own email: a lead with Lead Source "Web Download" should appear in Zoho.
