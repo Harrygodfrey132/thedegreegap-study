@@ -10235,7 +10235,8 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 
 /* =========================================================================
    CALLBACK MODAL
-   Centred booking dialog on the locations and blog pages. Photo panel left,
+   Centred offer dialog on the locations and blog pages (currently the
+   October 2026 Discount: offer, phone number, thanks). Photo panel left,
    copy right on desktop; stacked with a photo band on top for phones.
    ========================================================================= */
 .cbp {
@@ -10358,7 +10359,12 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   display: flex;
   align-items: center;
   justify-content: center;
+  width: 100%;
   height: 50px;
+  padding: 0 20px;
+  border: 0;
+  cursor: pointer;
+  font-family: inherit;
   border-radius: 999px;
   background: #800020;
   color: #FDF6F5;
@@ -10370,8 +10376,52 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 }
 .cbp__cta:hover { background: #5A001F; transform: translateY(-1px); }
 .cbp__cta:focus-visible { outline: 3px solid #800020; outline-offset: 3px; }
+.cbp__cta:disabled { opacity: 0.7; cursor: default; transform: none; }
 
-.cbp__rating { display: none; }
+.cbp__step[hidden] { display: none; }
+.cbp__title:focus { outline: none; }
+
+.cbp__label {
+  display: block;
+  margin: 0 0 6px;
+  font-size: 12.5px;
+  font-weight: 700;
+  color: #2B2321;
+}
+.cbp__input {
+  display: block;
+  width: 100%;
+  height: 50px;
+  margin: 0 0 14px;
+  padding: 0 16px;
+  border: 1.5px solid #E2D5CF;
+  border-radius: 12px;
+  background: #FAF6F2;
+  font: inherit;
+  font-size: 16px;            /* 16px stops iOS zooming the page on focus */
+  color: #2B2321;
+  box-sizing: border-box;
+}
+.cbp__input:focus {
+  outline: none;
+  border-color: #800020;
+  background: #FFFFFF;
+  box-shadow: 0 0 0 3px rgba(128, 0, 32, 0.14);
+}
+.cbp__small {
+  margin: 12px 0 0;
+  font-size: 11.5px;
+  line-height: 1.45;
+  color: #8A7B78;
+  text-align: center;
+}
+
+.cbp__rating {
+  margin: 0 0 16px;
+  font-size: 12.5px;
+  color: #5C4A47;
+}
+.cbp__rating strong { color: #2B2321; }
 .cbp__quote {
   margin: 0 0 18px;
   padding: 13px 15px;
