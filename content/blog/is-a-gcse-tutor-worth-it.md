@@ -36,7 +36,7 @@ The second is that the EEF points out many of the studies weren't independently 
 
 So here's the evidence in a sentence. One-to-one tuition works, the effect at secondary is real but moderate, and you should be sceptical of anyone promising more than that.
 
-It's also worth knowing how common this has become. The [Sutton Trust's Private Tutoring 2026 report](https://www.suttontrust.com/our-research/private-tutoring-2026/) found that 29% of secondary students in England and Wales have had private tutoring, rising to 45% in London. Year 11 is the peak year at 25%, up from 10% in Year 10. Whatever you decide, you won't be the odd one out.
+It's also worth knowing how common this has become. The [Sutton Trust's Private Tutoring 2026 report](https://www.suttontrust.com/wp-content/uploads/2026/02/Private-Tutoring-2026.pdf) found that 29% of secondary students in England and Wales have had private tutoring, rising to 45% in London. Year 11 is the peak year at 25%, up from 10% in Year 10. Whatever you decide, you won't be the odd one out.
 
 ## The four things you are actually paying for
 
@@ -111,7 +111,7 @@ Yes, it's cheaper, and it works well for revision blocks. But it doesn't do the 
 ## Sources
 
 - [Education Endowment Foundation, One to One Tuition toolkit strand](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/one-to-one-tuition) for the months-of-progress figures, the primary and secondary split, the number of studies and the evidence caveats.
-- [Sutton Trust, Private Tutoring 2026](https://www.suttontrust.com/our-research/private-tutoring-2026/), published 20 February 2026, for uptake by region and year group.
+- [Sutton Trust, Private Tutoring 2026](https://www.suttontrust.com/wp-content/uploads/2026/02/Private-Tutoring-2026.pdf), published 20 February 2026, for uptake by region and year group.
 
 The review quoted above is a real, verbatim review left for The Degree Gap.
 

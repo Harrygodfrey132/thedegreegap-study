@@ -23,7 +23,7 @@ related_links:
     description: "Why foundation maths stops at a grade 5, and when the entry is still worth challenging."
 ---
 
-The [Sutton Trust's Private Tutoring 2026 report](https://www.suttontrust.com/our-research/private-tutoring-2026/) found that 25% of Year 11 students in England and Wales have had private tutoring, against 10% in Year 10. So Year 11 is the peak year, and by a long way.
+The [Sutton Trust's Private Tutoring 2026 report](https://www.suttontrust.com/wp-content/uploads/2026/02/Private-Tutoring-2026.pdf) found that 25% of Year 11 students in England and Wales have had private tutoring, against 10% in Year 10. So Year 11 is the peak year, and by a long way.
 
 I completely get why. Year 11 is when it starts to feel urgent. The mocks produce a number that frightens everyone, and the exams are close enough to picture. But for quite a lot of children, it's also the more expensive way to fix a problem that would've been cheaper to fix twelve months earlier.
 
@@ -106,7 +106,7 @@ Some do at first. It's usually easier to start in Year 10 than Year 11, because 
 
 ## Sources
 
-- [Sutton Trust, Private Tutoring 2026](https://www.suttontrust.com/our-research/private-tutoring-2026/), published 20 February 2026, for the Year 10 and Year 11 uptake figures and the national picture.
+- [Sutton Trust, Private Tutoring 2026](https://www.suttontrust.com/wp-content/uploads/2026/02/Private-Tutoring-2026.pdf), published 20 February 2026, for the Year 10 and Year 11 uptake figures and the national picture.
 
 ---
 

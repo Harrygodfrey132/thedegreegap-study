@@ -38,7 +38,7 @@ The national average you'll see quoted most often is **£35 to £45 per hour for
 
 ## The state of UK tutoring in 2026
 
-Private tutoring isn't a niche any more. The latest [Sutton Trust Private Tutoring 2026 report](https://www.suttontrust.com/our-research/private-tutoring-2026/) shows that **29% of secondary school pupils in England and Wales have had private tutoring at some point**. That figure was 27% in 2019 and 18% twenty years ago. It's going up, and steeply.
+Private tutoring isn't a niche any more. The latest [Sutton Trust Private Tutoring 2026 report](https://www.suttontrust.com/wp-content/uploads/2026/02/Private-Tutoring-2026.pdf) shows that **29% of secondary school pupils in England and Wales have had private tutoring at some point**. That figure was 27% in 2019 and 18% twenty years ago. It's going up, and steeply.
 
 A few things from the Sutton Trust data stood out to me:
 
@@ -179,7 +179,7 @@ It depends where you book. On most platforms (MyTutor, Tutorful, GoStudent) you 
 
 ## Sources
 
-- [Sutton Trust, Private Tutoring 2026 report](https://www.suttontrust.com/our-research/private-tutoring-2026/), for the 29% national uptake figure, the 45% London figure, the year-group breakdown and the socioeconomic comparisons.
+- [Sutton Trust, Private Tutoring 2026 report](https://www.suttontrust.com/wp-content/uploads/2026/02/Private-Tutoring-2026.pdf), for the 29% national uptake figure, the 45% London figure, the year-group breakdown and the socioeconomic comparisons.
 - [Deep Market Insights, UK Private Tutoring Market Size and Trends](https://deepmarketinsights.com/vista/insights/private-tutoring-market/united-kingdom), for the $4.94 billion 2024 market size and 2033 forecast.
 
 Pricing benchmarks (£35-£45/hr national average for GCSE, regional premiums, online vs in-person gap, tier breakdowns) are aggregated from public listings across the main UK tutoring marketplaces and agencies as of 2026.

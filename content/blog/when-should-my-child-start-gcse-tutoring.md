@@ -87,7 +87,7 @@ I'm not going to tell you everyone should book in September.
 
 ## Year 10 is not too early
 
-Year 10 is the most underused stretch of the whole two-year course, and you can see it in the numbers. The [Sutton Trust's Private Tutoring 2026 report](https://www.suttontrust.com/our-research/private-tutoring-2026/) found 25% of Year 11 students have had tutoring, against 10% in Year 10.
+Year 10 is the most underused stretch of the whole two-year course, and you can see it in the numbers. The [Sutton Trust's Private Tutoring 2026 report](https://www.suttontrust.com/wp-content/uploads/2026/02/Private-Tutoring-2026.pdf) found 25% of Year 11 students have had tutoring, against 10% in Year 10.
 
 That's a shame, because Year 10 is when there's time to fix the foundations properly rather than paper over them. If your child reaches Year 11 with the basics secure, they'll need far less help than if they're still patching holes in March. We've written about which year does more of the work in [Year 10 or Year 11](/blog/year-10-or-year-11-when-tutoring-makes-the-most-difference/).
 
@@ -110,8 +110,8 @@ Give it six weeks, then take stock. You're looking for a plan, a first lesson th
 
 ## Sources
 
-- [JCQ, commentary on the June 2027 examination timetable](https://www.jcq.org.uk/wp-content/uploads/sites/2/2026/05/Commentary-June-2027-timetable.pdf) and [AQA's provisional May/June 2027 GCSE timetable](https://www.aqa.org.uk/files/449f89fe-eb10-43c4-9f7f-d94906b16007/1b83dffb83cee43a7cb70a026385147f6dd632a0.pdf) for the 10 May 2027 start and the 23 June 2027 contingency day. Timetables are provisional until the boards confirm them, so check your child's board for the specific papers.
-- [Sutton Trust, Private Tutoring 2026](https://www.suttontrust.com/our-research/private-tutoring-2026/), published 20 February 2026, for the Year 10 and Year 11 uptake figures.
+- [JCQ, commentary on the June 2027 examination timetable](https://www.jcq.org.uk/wp-content/uploads/sites/2/2026/05/Commentary-June-2027-timetable.pdf) and [AQA's exam dates and timetables](https://www.aqa.org.uk/exams-administration/dates-and-timetables) for the 10 May 2027 start and the 23 June 2027 contingency day. Timetables are provisional until the boards confirm them, so check your child's board for the specific papers.
+- [Sutton Trust, Private Tutoring 2026](https://www.suttontrust.com/wp-content/uploads/2026/02/Private-Tutoring-2026.pdf), published 20 February 2026, for the Year 10 and Year 11 uptake figures.
 
 Teaching-week counts are approximate and vary by school calendar.
 

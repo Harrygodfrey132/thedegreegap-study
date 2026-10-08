@@ -121,7 +121,7 @@ They're a much easier version of the same problem. If the grade didn't land, a r
 
 ## Sources
 
-- [JCQ, commentary on the June 2027 examination timetable](https://www.jcq.org.uk/wp-content/uploads/sites/2/2026/05/Commentary-June-2027-timetable.pdf) and [AQA's provisional May/June 2027 timetable](https://www.aqa.org.uk/files/449f89fe-eb10-43c4-9f7f-d94906b16007/1b83dffb83cee43a7cb70a026385147f6dd632a0.pdf) for the 10 May 2027 start. Timetables are provisional until confirmed by the boards.
+- [JCQ, commentary on the June 2027 examination timetable](https://www.jcq.org.uk/wp-content/uploads/sites/2/2026/05/Commentary-June-2027-timetable.pdf) and [AQA's exam dates and timetables](https://www.aqa.org.uk/exams-administration/dates-and-timetables) for the 10 May 2027 start. Timetables are provisional until confirmed by the boards.
 - [Education Endowment Foundation, One to One Tuition toolkit strand](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/one-to-one-tuition) for the effective delivery pattern.
 
 The review quoted is a real, verbatim review left for The Degree Gap. It is included as an illustration, not as a typical result.

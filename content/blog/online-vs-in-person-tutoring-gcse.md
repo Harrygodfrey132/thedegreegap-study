@@ -46,7 +46,7 @@ At an hour a week over a school year, you'd save somewhere around £200 to £250
 
 **You get to choose from every tutor in the country.** This is the big one, and nothing else comes close. If your child sits OCR Gateway Combined Science, you want a tutor who knows that exact course inside out, not one who mostly teaches the AQA version and is willing to have a go. In a town of forty thousand people, that tutor might not exist. Online, they do.
 
-The [Sutton Trust's Private Tutoring 2026 report](https://www.suttontrust.com/our-research/private-tutoring-2026/) found tutoring uptake at 33% in urban areas, against 19% in rural ones. Some of that's down to income. But a good deal of it is simply that there's nobody nearby to book. Online is what closes that gap.
+The [Sutton Trust's Private Tutoring 2026 report](https://www.suttontrust.com/wp-content/uploads/2026/02/Private-Tutoring-2026.pdf) found tutoring uptake at 33% in urban areas, against 19% in rural ones. Some of that's down to income. But a good deal of it is simply that there's nobody nearby to book. Online is what closes that gap.
 
 **The timetable stops being the problem.** With no travel, a lesson can go in a gap that wouldn't work otherwise: straight after school, half an hour after dinner, Sunday morning. If your child's in Year 11 and doing sport or music as well, that's often what makes a weekly lesson possible at all.
 
@@ -118,7 +118,7 @@ Yes, if it really is the format that's the problem. But check the setup and the 
 
 ## Sources
 
-- [Sutton Trust, Private Tutoring 2026](https://www.suttontrust.com/our-research/private-tutoring-2026/), published 20 February 2026, for the urban and rural uptake comparison.
+- [Sutton Trust, Private Tutoring 2026](https://www.suttontrust.com/wp-content/uploads/2026/02/Private-Tutoring-2026.pdf), published 20 February 2026, for the urban and rural uptake comparison.
 
 Pricing figures are aggregated from public listings across the main UK tutoring marketplaces and agencies as of 2026, and are consistent with the rates in our [GCSE cost guide](/blog/how-much-does-a-gcse-tutor-cost-per-hour-uk/).
 

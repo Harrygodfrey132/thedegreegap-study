@@ -116,7 +116,7 @@ It's cheaper per student, and it works reasonably well for blocks of revision. W
 
 ## Sources
 
-- [Sutton Trust, Private Tutoring 2026](https://www.suttontrust.com/our-research/private-tutoring-2026/), published 20 February 2026, for national tutoring uptake and the London comparison.
+- [Sutton Trust, Private Tutoring 2026](https://www.suttontrust.com/wp-content/uploads/2026/02/Private-Tutoring-2026.pdf), published 20 February 2026, for national tutoring uptake and the London comparison.
 - [TutorCruncher, Average Tutoring Rates UK 2026](https://tutorcruncher.com/blog/average-tutoring-rates-uk) for the Tutorful A-Level benchmark.
 - [HRB Education, private tutoring costs in London](https://www.hrbeducation.co.uk/blog/how-much-does-private-tutoring-cost-in-london) for the London range.
 

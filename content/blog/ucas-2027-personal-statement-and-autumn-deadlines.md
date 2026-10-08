@@ -98,7 +98,7 @@ Not when they're making the offer. Each university just sees the application, wi
 
 ## Sources
 
-- [UCAS, key dates and deadlines for 2027 entry](https://www.ucas.com/undergraduate/applying-university/when-apply/key-dates-and-deadlines-undergraduate-study-2027) for the 15 October 2026 and 13 January 2027 deadlines and the September submission opening.
+- [UCAS, 2027 entry deadline for Oxford, Cambridge and most Medicine, Dentistry and Veterinary courses](https://www.ucas.com/events/2027-entry-deadline-for-the-universities-of-oxford-and-cambridge-and-most-courses-in-medicine-475536) and [UCAS, 2027 entry deadline for all other undergraduate courses](https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546) for the 15 October 2026 and 13 January 2027 deadlines, and [UCAS, when to apply](https://www.ucas.com/undergraduate/applying-university/ucas-undergraduate-when-apply) for the September submission opening.
 - [UCAS, how to write a personal statement](https://www.ucas.com/undergraduate/applying-university/writing-your-personal-statement) for the three questions, the 4,000-character shared limit and the 350-character minimum per answer.
 
 Course-specific requirements and internal school deadlines vary. Confirm both with the school and with each university's own admissions pages.
