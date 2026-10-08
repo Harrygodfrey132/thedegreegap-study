@@ -19,6 +19,11 @@
 /js/*
   Cache-Control: public, max-age=2592000
 
+# Embeddable scripts loaded by other sites (the main site's homepage). Short
+# cache so a fix reaches visitors within minutes rather than a month.
+/embed/*
+  Cache-Control: public, max-age=300
+
 # Static images that aren't fingerprinted (logos, favicons): 30 days
 /images/*.png
   Cache-Control: public, max-age=2592000
