@@ -933,6 +933,27 @@ collections:
           - { name: "layout", label: "Layout", widget: "hidden", default: "gcse-results-day-webinar-book-a-call" }
           - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
 
+      # ── Lead pages ────────────────────────────────────────────────────────
+      - file: "content/free-revision-timetable.md"
+        label: "Free Revision Timetable (lead form)"
+        name: "free-revision-timetable"
+        fields:
+          - { name: "title", label: "SEO title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+          - { name: "layout", label: "Layout", widget: "hidden", default: "free-revision-timetable" }
+          - { name: "hero_h1", label: "Heading (H1)", widget: "string" }
+          - { name: "hero_lead", label: "Line under the heading", widget: "text", required: false }
+          - { name: "benefits", label: "What they get (ticks)", widget: "list", field: { name: "item", label: "Item", widget: "string" }, required: false, hint: "One line each. Wrap words in ** to make them bold." }
+          - { name: "form_tag", label: "Form label (small caps)", widget: "string", required: false }
+          - { name: "form_heading", label: "Form heading", widget: "string", required: false }
+          - { name: "form_sub", label: "Line under the form heading", widget: "string", required: false }
+          - { name: "email_hint", label: "Hint under the email box", widget: "string", required: false }
+          - { name: "phone_hint", label: "Hint under the phone box", widget: "string", required: false }
+          - { name: "submit_label", label: "Button text", widget: "string", required: false }
+          - { name: "lead_source", label: "Zoho Lead Source", widget: "string", hint: "Must match a value in the Zoho Lead Source picklist exactly, or Zoho drops it. The booking page's thank-you line is keyed on this too." }
+          - { name: "redirect_url", label: "Page to go to after the form", widget: "string", default: "book-a-call/" }
+          - { name: "body", label: "Revision tips (under the form)", widget: "markdown", required: false }
+
       # ── Book a call + thank you pages ─────────────────────────────────────
       - file: "content/book-a-call.md"
         label: "Book a Call"

@@ -10,6 +10,14 @@
     <div class="book-call__grid">
 
       <div class="book-call__main">
+        {{/* Thanks a visitor sent here by a lead form. That form passes its
+             Zoho Lead Source as ?source=, and the script at the foot of the
+             page shows the line whose data-bc-sent matches. The wording lives
+             here, so nothing from the URL is ever shown. */}}
+        <p class="book-call__sent" data-bc-sent="FREE Revision Timetable" role="status" hidden>
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>
+          <span><strong>Thanks, we've got your details.</strong> We'll email you the revision timetable and the free revision webinar. If one subject is worrying you, a free call with Joe is the quickest way to a plan.</span>
+        </p>
         <header class="book-call__head">
           <h1>Let's find the right tutor for your child</h1>
           <p class="book-call__subhead"><strong>The Degree Gap</strong> matches families across the UK with vetted one-to-one tutors, by subject and by exam board. Most families have a tutor within 48 hours.</p>
@@ -132,6 +140,34 @@
     var el = document.getElementById('bc-subjects');
     if (s && el && !el.value) el.value = s.slice(0, 60);
   } catch (e) { /* the box stays empty, as before */ }
+})();
+</script>
+
+{{/* The free revision timetable page sends people here once their lead is in.
+     It passes ?source= for the thank-you line at the top, and leaves their
+     name and number in sessionStorage so they are not typed twice. Both only
+     ever unhide fixed text or fill an empty box, and the stored details are
+     deleted as soon as they are read. */}}
+<script>
+(function () {
+  try {
+    var src = new URLSearchParams(window.location.search).get('source');
+    if (src) {
+      document.querySelectorAll('[data-bc-sent]').forEach(function (el) {
+        if (el.getAttribute('data-bc-sent') === src) el.hidden = false;
+      });
+    }
+  } catch (e) { /* no thank-you line, as before */ }
+  try {
+    var raw = sessionStorage.getItem('tdg_prefill');
+    if (!raw) return;
+    sessionStorage.removeItem('tdg_prefill');
+    var d = JSON.parse(raw) || {};
+    [['bc-name', d.name], ['bc-phone', d.phone]].forEach(function (pair) {
+      var box = document.getElementById(pair[0]);
+      if (box && !box.value && pair[1]) box.value = String(pair[1]).slice(0, 80);
+    });
+  } catch (e) { /* the boxes stay empty, as before */ }
 })();
 </script>
 

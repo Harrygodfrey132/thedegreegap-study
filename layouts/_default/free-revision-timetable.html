@@ -1,0 +1,211 @@
+{{ define "main" }}
+{{/* The free revision timetable lead page: one short form, then the booking
+     page. Name and email are required and the phone is optional, asked of
+     parents. The lead goes to Zoho under this page's Lead Source and Zoho
+     notifies the team, who send the timetable and the webinar link. Nothing is
+     emailed from the page itself.
+
+     After the lead is sent the visitor moves on to the booking page, which
+     thanks them for this source by name and arrives with their name and
+     number already filled in.
+
+     The revision tips under the form are the page body, so they can be edited
+     in the CMS like any other page. */}}
+{{ $leadSource := .Params.lead_source | default "FREE Revision Timetable" }}
+{{ $next := .Params.redirect_url | default "book-a-call/" }}
+
+<section class="book-call book-call--free-timetable">
+  <div class="container book-call__container">
+
+    {{/* Three blocks: the offer, the form, then the reviews. On a phone they
+         stack in that order, so the form is on the first screen; from 960px
+         the reviews sit back under the offer, beside the form. */}}
+    <div class="book-call__grid ft-grid">
+
+      <div class="book-call__main ft-main">
+        <header class="book-call__head">
+          <h1>{{ .Params.hero_h1 }}</h1>
+          {{ with .Params.hero_lead }}<p class="book-call__subhead">{{ . }}</p>{{ end }}
+        </header>
+
+        {{ with .Params.benefits }}
+        <ul class="ft-get">
+          {{ range . }}
+          <li>
+            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>
+            <span>{{ . | markdownify }}</span>
+          </li>
+          {{ end }}
+        </ul>
+        {{ end }}
+      </div>
+
+      <div class="book-call__form-wrap ft-form" id="get-timetable">
+        <div class="book-call__form-card">
+          {{ with .Params.form_tag }}<p class="book-call__form-tag">{{ . }}</p>{{ end }}
+          <h2>{{ .Params.form_heading | default "Where should we send it?" }}</h2>
+          {{ with .Params.form_sub }}<p class="book-call__form-sub">{{ . }}</p>{{ end }}
+
+          <form class="book-call__form" novalidate data-ft-form>
+            <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
+            {{/* Read into the lead's Description, so Zoho shows where each
+                 lead came from (an ad, a post, a school newsletter). */}}
+            {{ partial "attribution-fields.html" . }}
+
+            <div class="book-call__field">
+              <label for="ft-name">Your name</label>
+              <input id="ft-name" name="name" type="text" required autocomplete="name" placeholder="e.g. Emma Clarke">
+            </div>
+
+            <div class="book-call__field">
+              <label for="ft-email">Email address</label>
+              <input id="ft-email" name="email" type="email" required autocomplete="email" placeholder="you@example.com" aria-describedby="ft-email-hint">
+              <p class="ft-hint" id="ft-email-hint">{{ .Params.email_hint | default "We'll send the timetable and the free revision webinar here." }}</p>
+            </div>
+
+            <div class="book-call__field">
+              <label for="ft-phone">Phone number <span class="ft-optional">(optional)</span></label>
+              <input id="ft-phone" name="phone" type="tel" autocomplete="tel" inputmode="tel" placeholder="07XXX XXX XXX" aria-describedby="ft-phone-hint">
+              <p class="ft-hint" id="ft-phone-hint">{{ .Params.phone_hint | default "If you're a parent, please fill this in." }}</p>
+            </div>
+
+            <button type="submit" class="book-call__submit">{{ .Params.submit_label | default "Send me the timetable" }}</button>
+            <p class="book-call__assurance">Free. We never share your details. <a href="{{ site.Params.mainSiteURL }}/privacy-policy" target="_blank" rel="noopener">Privacy policy</a></p>
+          </form>
+        </div>
+      </div>
+
+      <div class="ft-aside">
+        <button type="button" class="book-call__reviews" data-reviews-open aria-label="Read our {{ site.Params.googleReviewCount }} Google reviews, rated 5.0 out of 5" aria-controls="bc-reviews-drawer" aria-expanded="false">
+          <span class="book-call__reviews-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" width="40" height="40" xmlns="http://www.w3.org/2000/svg">
+              <path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/>
+              <path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84A11 11 0 0 0 12 23z"/>
+              <path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18A11 11 0 0 0 1 12c0 1.77.42 3.45 1.18 4.93l2.85-2.22.81-.62z"/>
+              <path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/>
+            </svg>
+          </span>
+          <span class="book-call__reviews-body">
+            <span class="book-call__reviews-top">
+              <span class="book-call__reviews-brand">Google Reviews</span>
+              <span class="book-call__reviews-verified">
+                <svg viewBox="0 0 24 24" width="12" height="12" fill="#34A853" aria-hidden="true"><path d="M9 16.17 4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+                Verified
+              </span>
+            </span>
+            <span class="book-call__reviews-rating">
+              <span class="book-call__reviews-score">5.0</span>
+              <span class="book-call__reviews-stars" aria-label="5 out of 5">★★★★★</span>
+            </span>
+            <span class="book-call__reviews-count">Based on {{ site.Params.googleReviewCount }} reviews · Click to see them →</span>
+          </span>
+        </button>
+      </div>
+
+    </div>
+
+  </div>
+</section>
+
+{{ with .Content }}
+<section class="ft-tips">
+  <div class="container">
+    <div class="ft-tips__body">{{ . }}</div>
+  </div>
+</section>
+{{ end }}
+
+{{/* Zoho sends no CORS headers, so the lead is posted into this frame. */}}
+<iframe name="zoho-target" id="zoho-target" aria-hidden="true" tabindex="-1" title="Form submission"
+        style="position:absolute;width:0;height:0;border:0;visibility:hidden;left:-9999px;top:-9999px"></iframe>
+
+{{ partial "reviews-drawer.html" . }}
+
+<script>
+(function () {
+  var form = document.querySelector('[data-ft-form]');
+  if (!form) return;
+  /* Must be a value in the Zoho Lead Source picklist, or Zoho drops it. */
+  var LEAD_SOURCE = {{ $leadSource }};
+  /* The booking page reads ?source= to thank the visitor for this form. */
+  var NEXT = {{ $next | relURL }} + '?source=' + encodeURIComponent(LEAD_SOURCE);
+
+  /* UK phone to +44 E.164, the format the other forms store. */
+  function ukPhone(raw) {
+    var digits = String(raw || '').replace(/\D/g, '');
+    if (!digits) return '';
+    if (digits.indexOf('44') === 0) digits = digits.substring(2);
+    if (digits.charAt(0) === '0') digits = digits.substring(1);
+    return '+44' + digits;
+  }
+
+  /* The same Zoho web-to-lead form and fields as the webinar pages and the
+     timetable templates, posted into the hidden frame. */
+  function sendLead(name, email, phone) {
+    var f = document.createElement('form');
+    f.method = 'POST';
+    f.action = 'https://crm.zoho.eu/crm/WebToLeadForm';
+    f.target = 'zoho-target';
+    f.acceptCharset = 'UTF-8';
+    f.style.cssText = 'position:absolute;left:-9999px;top:-9999px;visibility:hidden';
+    function add(key, value) { var i = document.createElement('input'); i.type = 'hidden'; i.name = key; i.value = value; f.appendChild(i); }
+    add('xnQsjsdp', '3ed466c7b35b7fc5362fd2a7dbc59aa25c93856390bacc86da6dc4324a09f032');
+    add('xmIwtLD', '62912caa86f3a8312df41b466a952aff81aaa83cceed69b9167a4d99f0bbc1ca33d4ec974b07f5420e4b7ad2af7fbc48');
+    add('actionType', 'TGVhZHM=');
+    add('returnURL', 'null');
+    add('aG9uZXlwb3Q', '');
+    add('Last Name', name || 'Parent');
+    add('Email', email);
+    if (phone) add('Phone', ukPhone(phone));
+    /* Type of lead and year of study, as the timetable templates send them:
+       the form does not ask for a year group. */
+    add('LEADCF5', 'Customer');
+    add('LEADCF3', 'Unsure');
+    var notes = ['Asked for the free revision timetable and the revision webinar'];
+    var a = {};
+    form.querySelectorAll('input[data-attribution]').forEach(function (i) {
+      if (!i.disabled && i.value) a[i.name] = i.value;
+    });
+    var came = [a.utm_source, a.utm_medium, a.utm_campaign].filter(Boolean).join(' / ');
+    if (came) notes.push('Came from: ' + came);
+    if (a.referrer) notes.push('Referrer: ' + a.referrer);
+    if (a.landing_page) notes.push('First page of the visit: ' + a.landing_page);
+    if (a.gclid || a.gbraid || a.wbraid) notes.push('Clicked a Google ad');
+    add('Description', notes.join('\n'));
+    add('Lead Source', LEAD_SOURCE);
+    document.body.appendChild(f);
+    f.submit();
+  }
+
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+    if (form.elements._gotcha.value) return;
+    if (!form.checkValidity()) { form.reportValidity(); return; }
+    var name = document.getElementById('ft-name').value.trim();
+    var email = document.getElementById('ft-email').value.trim();
+    var phone = document.getElementById('ft-phone').value.trim();
+    var btn = form.querySelector('[type="submit"]');
+    if (btn) { btn.disabled = true; btn.textContent = 'Sending...'; }
+
+    /* The booking form asks for a name and a number again, so carry them
+       over. The booking page reads this once and deletes it. */
+    try { sessionStorage.setItem('tdg_prefill', JSON.stringify({ name: name, phone: phone })); } catch (err) {}
+
+    var moved = false;
+    function go() {
+      if (moved) return;
+      moved = true;
+      window.location.href = NEXT;
+    }
+    /* The frame's own first load fired when the page loaded, so the next load
+       is Zoho answering the post. */
+    document.getElementById('zoho-target').addEventListener('load', go);
+    sendLead(name, email, phone);
+    try { if (typeof window.gtag === 'function') window.gtag('event', 'generate_lead', { form_name: 'free_revision_timetable' }); } catch (err) {}
+    try { if (typeof window.fbq === 'function') window.fbq('track', 'Lead'); } catch (err) {}
+    /* A ceiling for a bad connection, so nobody is left on a dead button. */
+    window.setTimeout(go, 8000);
+  });
+})();
+</script>
+{{ end }}
