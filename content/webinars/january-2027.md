@@ -26,3 +26,19 @@ sitemap:
   priority: 0.7
   changefreq: monthly
 ---
+
+## Why January
+
+Most Year 11s sit their mocks between November and January, so by late January your child has a fresh set of results and about fifteen weeks until the first exam. That's long enough to move a grade, and short enough that the plan matters. We built this session around that moment.
+
+## What we'll cover
+
+**Reading the mock results.** Which lost marks point to a gap in knowledge and which point to exam technique, and how to decide which subjects come first between now and May.
+
+**Revision that works at home.** What a useful hour at the desk looks like, why testing yourself beats re-reading notes, and how to help without checking up every evening.
+
+**Motivation when the pressure peaks.** How to keep the spring term steady, spot the early signs of burnout, and talk about grades without it turning into a row.
+
+## Who it's for
+
+Parents of Year 10 and Year 11 students, on any exam board and at any grade. Year 10 parents get the same plan a year early. There's time for your questions at the end, and everyone who registers gets the replay.

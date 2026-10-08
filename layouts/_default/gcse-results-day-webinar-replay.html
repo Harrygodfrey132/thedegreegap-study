@@ -70,6 +70,13 @@
     font-size: 0.98rem; line-height: 1.6; color: #3a3530;
   }
   .wr-covers svg { flex: 0 0 auto; margin-top: 3px; color: #800020; }
+  /* The written summary under the video, from the page body. */
+  .wr-summary { margin: 40px 0 0; font-size: 1rem; line-height: 1.7; color: #2d2a26; }
+  .wr-summary h2 { font-size: 1.15rem; font-weight: 800; color: #171717; margin: 0 0 16px; }
+  .wr-summary ul { margin: 0 0 16px; padding-left: 1.2em; display: grid; gap: 10px; }
+  .wr-summary p { margin: 0 0 12px; }
+  .wr-summary strong { color: #171717; }
+  .wr-summary a { color: #800020; font-weight: 700; text-decoration: underline; text-underline-offset: 2px; }
 
   .wr-cta {
     margin-top: 44px; background: #ffffff; border: 1px solid #e6ded4;
@@ -142,6 +149,11 @@
         {{ end }}
       </ul>
     </div>
+
+    {{/* A written summary for parents who will not watch an hour of video,
+         from the page body. Without it the page was a heading, a video and a
+         list, which Semrush flags as low word count. */}}
+    {{ with .Content }}<div class="wr-summary">{{ . }}</div>{{ end }}
 
     <div class="wr-cta">
       <h2>Want to talk it through for your own child?</h2>

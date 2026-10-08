@@ -35,6 +35,9 @@
   {{ $css := resources.Get "css/main.css" | minify | fingerprint "sha256" }}
   <link rel="preload" href="{{ $css.RelPermalink }}" as="style">
   <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+  {{/* A page's own stylesheet, after main.css so its rules keep the same
+       precedence they had inline in the page. */}}
+  {{ block "styles" . }}{{ end }}
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-X8HZE9WB3J"></script>
   <script>

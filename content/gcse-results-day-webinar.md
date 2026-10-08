@@ -13,3 +13,15 @@ sitemap:
   priority: 0.7
   changefreq: monthly
 ---
+
+## The short version
+
+If you can't watch the full hour, these are the points we come back to most.
+
+- **Don't decide anything in the first hour.** Nothing that matters runs out on results day itself.
+- **Get the marks, not just the grades.** Ask the school for the marks on each paper and how close each grade was to the boundary. Two marks and thirty marks lead to very different plans.
+- **Say something other than the grade.** Your child already knows the number. What they don't know yet is whether you're disappointed in them or just disappointed with the result.
+- **Know the routes that stay open.** A clerical re-check or a review of marking, a November resit in English or Maths, and a conversation with the sixth form about the place.
+- **Give it a few days.** The plan you make on the Thursday is nearly always worse than the one you'd make on the Sunday.
+
+Our guide to [what to do if the grades aren't what you hoped](/blog/results-day-2026-grades-not-what-you-hoped/) has the deadlines and costs in full.

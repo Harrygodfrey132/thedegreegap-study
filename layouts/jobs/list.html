@@ -1,3 +1,8 @@
+{{ define "styles" }}
+{{ $css := resources.Get "css/jobs.css" | minify | fingerprint "sha256" }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}">
+{{ end }}
+
 {{ define "main" }}
 {{/* Jobs hub — auto-lists every role in content/jobs/, grouped by level.
      Adding a new subject job page needs no template change. */}}
@@ -8,58 +13,6 @@
 
 <div class="jb-page">
 
-<style>
-  .jb-page { --bg:#800020; --bg-dk:#5A001F; --cream:#fbf7ef; --ink:#1f1b18; --muted:#5f5a54; --line:#ece4d4; --gold:#FBBC05;
-    font-family:'Poppins', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color:var(--ink); background:var(--cream); }
-  .jb-page * { box-sizing:border-box; }
-  .jb-wrap { max-width:1140px; margin:0 auto; padding:0 24px; }
-
-  .jb-hero { text-align:center; padding:56px 0 44px; border-bottom:1px solid var(--line);
-    background:radial-gradient(1100px 560px at 50% -20%, rgba(245,165,36,.13), rgba(245,165,36,0) 60%), var(--cream); }
-  @media (min-width:760px) { .jb-hero { padding:76px 0 58px; } }
-  .jb-eyebrow { display:inline-block; font-size:.74rem; font-weight:800; letter-spacing:.2em; text-transform:uppercase; color:var(--bg); margin:0 0 16px; }
-  .jb-hero h1 { font-size:clamp(2.1rem,4.6vw,3.1rem); font-weight:800; line-height:1.08; letter-spacing:-.028em; margin:0 auto 16px; max-width:20ch; text-wrap:balance; }
-  .jb-hero__lead { font-size:1.12rem; line-height:1.6; color:var(--muted); max-width:62ch; margin:0 auto 26px; }
-
-  .jb-facts { display:flex; flex-wrap:wrap; justify-content:center; gap:10px; margin:26px 0 0; }
-  .jb-fact { display:inline-flex; align-items:center; gap:7px; background:#fff; border:1px solid var(--line); border-radius:999px;
-    padding:8px 16px; font-size:.86rem; font-weight:600; color:var(--ink); }
-
-  .jb-group { padding:52px 0; }
-  .jb-group:nth-of-type(even) { background:#fff; border-top:1px solid var(--line); border-bottom:1px solid var(--line); }
-  .jb-group__label { display:inline-block; font-size:.72rem; font-weight:800; letter-spacing:.16em; text-transform:uppercase; color:var(--bg); margin:0 0 8px; }
-  .jb-group h2 { font-size:clamp(1.5rem,3vw,2rem); font-weight:800; letter-spacing:-.02em; margin:0 0 26px; }
-
-  .jb-grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(260px,1fr)); gap:16px; }
-  .jb-card { display:flex; flex-direction:column; justify-content:space-between; gap:16px; background:#fff; border:1px solid var(--line);
-    border-radius:14px; padding:22px; text-decoration:none; color:var(--ink); box-shadow:0 6px 18px rgba(35,23,17,.04);
-    transition:transform .18s, box-shadow .18s, border-color .18s; }
-  .jb-group:nth-of-type(even) .jb-card { background:var(--cream); }
-  .jb-card:hover { transform:translateY(-3px); border-color:#e6c9c9; box-shadow:0 16px 34px rgba(128,0,32,.10); }
-  .jb-card__name { font-size:1.14rem; font-weight:700; letter-spacing:-.01em; line-height:1.25; }
-  .jb-card__meta { font-size:.86rem; color:var(--muted); margin-top:6px; }
-  .jb-card__go { display:inline-flex; align-items:center; gap:7px; font-size:.82rem; font-weight:700; color:var(--bg); }
-  .jb-card__go svg { transition:transform .18s; } .jb-card:hover .jb-card__go svg { transform:translateX(3px); }
-
-  .jb-req { padding:52px 0; }
-  .jb-req h2 { font-size:clamp(1.4rem,2.8vw,1.9rem); font-weight:800; letter-spacing:-.02em; margin:0 0 18px; }
-  .jb-req ul { margin:0; padding-left:20px; color:var(--muted); font-size:1.02rem; line-height:1.75; max-width:72ch; }
-  .jb-req strong { color:var(--ink); font-weight:700; }
-
-  .jb-final { text-align:center; padding:66px 24px; border-top:1px solid var(--line);
-    background:radial-gradient(700px 380px at 50% -30%, rgba(245,165,36,.1), rgba(245,165,36,0) 62%), var(--cream); }
-  .jb-final h2 { font-size:clamp(1.6rem,3.4vw,2.2rem); font-weight:800; letter-spacing:-.022em; margin:0 0 10px; }
-  .jb-final p { color:var(--muted); font-size:1.05rem; margin:0 0 24px; }
-  .jb-cta { display:inline-flex; align-items:center; gap:9px; background:var(--bg); color:var(--cream); font-weight:700; font-size:1rem;
-    padding:15px 28px; border-radius:999px; text-decoration:none; box-shadow:0 8px 22px rgba(128,0,32,.18); transition:transform .18s, background .18s; }
-  .jb-cta:hover { background:var(--bg-dk); transform:translateY(-1px); }
-  .jb-cta--ghost { background:transparent; color:var(--bg); border:1.5px solid var(--bg); box-shadow:none; }
-  .jb-cta--ghost:hover { background:rgba(128,0,32,.06); }
-  .jb-cta--wa { background:#1f8f4e; box-shadow:0 8px 22px rgba(31,143,78,.2); }
-  .jb-cta--wa:hover { background:#18773f; }
-  .jb-actions { display:flex; flex-wrap:wrap; gap:12px; align-items:center; }
-  .jb-actions--center { justify-content:center; }
-</style>
 
 {{ $arrow := `<span class="jb-card__go">View role <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>` }}
 {{ $mailto := printf "mailto:%s?subject=%s&body=%s" site.Params.email ("Tutor application" | urlquery) ("Hi Harry and Joe,\n\nI would like to apply to tutor with The Degree Gap. The subjects and levels I have taught are:\n\n" | urlquery) }}
@@ -105,6 +58,12 @@
     </div>
   </section>
   {{ end }}
+{{ end }}
+
+{{ with .Content }}
+<section class="jb-how">
+  <div class="jb-wrap">{{ . }}</div>
+</section>
 {{ end }}
 
 <section class="jb-req">

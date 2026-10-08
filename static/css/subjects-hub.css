@@ -1,0 +1,55 @@
+/* Styles for the subjects hub (layouts/subjects/list.html),
+   loaded after main.css through the layout's "styles" block. Moved out of
+   the page so the browser caches it, and because inline it pushed the
+   page's text to HTML ratio under Semrush's 10% bar. */
+  .sh-page { --bg:#800020; --bg-dk:#5A001F; --cream:#fbf7ef; --ink:#1f1b18; --muted:#5f5a54; --line:#ece4d4; --gold:#FBBC05;
+    font-family: 'Poppins', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: var(--ink); background: var(--cream); }
+  .sh-page * { box-sizing: border-box; }
+  .sh-wrap { max-width: 1140px; margin: 0 auto; padding: 0 24px; }
+
+  /* Hero */
+  .sh-hero { position: relative; overflow: hidden; text-align: center;
+    background: radial-gradient(1100px 560px at 50% -20%, rgba(245,165,36,0.13), rgba(245,165,36,0) 60%), var(--cream);
+    padding: 56px 0 44px; border-bottom: 1px solid var(--line); }
+  @media (min-width: 760px) { .sh-hero { padding: 76px 0 58px; } }
+  .sh-eyebrow { display:inline-block; font-size:.74rem; font-weight:800; letter-spacing:.2em; text-transform:uppercase; color:var(--bg); margin:0 0 16px; }
+  .sh-hero h1 { font-size: clamp(2.1rem, 4.6vw, 3.1rem); font-weight:800; line-height:1.08; letter-spacing:-0.028em; color:var(--ink); margin:0 auto 16px; max-width:18ch; text-wrap:balance; }
+  .sh-hero__lead { font-size:1.12rem; line-height:1.6; color:var(--muted); max-width:60ch; margin:0 auto 26px; }
+  .sh-cta { display:inline-flex; align-items:center; gap:9px; background:var(--bg); color:var(--cream); font-weight:700; font-size:1rem; padding:15px 28px; border-radius:999px; text-decoration:none; box-shadow:0 8px 22px rgba(128,0,32,.18); transition:transform .18s, background .18s, box-shadow .18s; }
+  .sh-cta:hover { background:var(--bg-dk); transform:translateY(-1px); box-shadow:0 12px 26px rgba(128,0,32,.22); }
+  .sh-cta svg { transition:transform .18s; } .sh-cta:hover svg { transform:translateX(2px); }
+  .sh-trust { margin:22px 0 0; font-size:.86rem; color:var(--muted); }
+  .sh-trust strong { color:var(--ink); font-weight:700; } .sh-trust .sh-stars { color:var(--gold); letter-spacing:1px; }
+
+  /* Groups */
+  .sh-group { padding: 52px 0; }
+  /* odd, not even: the hero is the first child of .sh-page, so the middle
+     (A-Level) group is child 3. Before this file existed an inline <style>
+     sat in front of the hero and the same group was child 4. */
+  .sh-group:nth-child(odd) { background:#fff; border-top:1px solid var(--line); border-bottom:1px solid var(--line); }
+  .sh-group__head { margin:0 0 26px; }
+  .sh-group__label { display:inline-block; font-size:.72rem; font-weight:800; letter-spacing:.16em; text-transform:uppercase; color:var(--bg); margin:0 0 8px; }
+  .sh-group h2 { font-size: clamp(1.5rem, 3vw, 2rem); font-weight:800; letter-spacing:-0.02em; color:var(--ink); margin:0; }
+  .sh-group__note { font-size:1rem; color:var(--muted); margin:8px 0 0; }
+
+  .sh-grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(215px, 1fr)); gap:16px; }
+  .sh-card { display:flex; flex-direction:column; justify-content:space-between; gap:20px; min-height:120px;
+    background:#fff; border:1px solid var(--line); border-radius:14px; padding:20px 20px 18px; text-decoration:none; color:var(--ink);
+    box-shadow:0 6px 18px rgba(35,23,17,.04); transition:transform .18s, box-shadow .18s, border-color .18s; }
+  .sh-group:nth-child(odd) .sh-card { background:var(--cream); }
+  .sh-card:hover { transform:translateY(-3px); border-color:#e6c9c9; box-shadow:0 16px 34px rgba(128,0,32,.10); }
+  .sh-card__name { font-size:1.12rem; font-weight:700; letter-spacing:-0.01em; line-height:1.2; }
+  .sh-card__go { display:inline-flex; align-items:center; gap:7px; font-size:.82rem; font-weight:700; color:var(--bg); }
+  .sh-card__go svg { transition:transform .18s; } .sh-card:hover .sh-card__go svg { transform:translateX(3px); }
+
+  /* Closing CTA */
+  .sh-final { text-align:center; padding:66px 24px; background: radial-gradient(700px 380px at 50% -30%, rgba(245,165,36,.1), rgba(245,165,36,0) 62%), var(--cream); border-top:1px solid var(--line); }
+  .sh-final h2 { font-size:clamp(1.6rem,3.4vw,2.2rem); font-weight:800; letter-spacing:-0.022em; color:var(--ink); margin:0 0 10px; }
+  .sh-final p { color:var(--muted); font-size:1.05rem; margin:0 0 24px; }
+  /* Advice on choosing a tutor, from the page body. */
+  .sh-guide { padding:56px 0; border-top:1px solid var(--line); }
+  .sh-guide__body { max-width:780px; }
+  .sh-guide h2 { font-size:clamp(1.4rem,2.8vw,1.9rem); font-weight:800; letter-spacing:-0.02em; color:var(--ink); margin:0 0 16px; }
+  .sh-guide p { color:var(--muted); font-size:1.02rem; line-height:1.75; margin:0 0 14px; }
+  .sh-guide strong { color:var(--ink); }
+  .sh-guide a { color:var(--burgundy); text-decoration:underline; text-underline-offset:2px; }

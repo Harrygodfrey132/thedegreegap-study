@@ -41,7 +41,7 @@
     <div class="home-locations-grid" data-locations-grid>
       {{ range $cards }}
       {{ $name := .Params.location | default .Title }}
-      <a href="{{ .RelPermalink }}" class="home-location-card" data-location-card data-location-name="{{ lower $name }}">
+      <a href="{{ .RelPermalink }}" class="home-location-card" data-location-card>
         <span class="home-location-card__name">{{ $name }}</span>
         <span class="home-location-card__link">Find a tutor →</span>
       </a>
@@ -51,6 +51,8 @@
     <p class="locations-search__empty" data-locations-search-empty hidden>
       No areas match your search yet. Try a nearby town or city, or <a href="{{ "book-a-call/" | relURL }}">get in touch</a> and we'll help you find a tutor.
     </p>
+
+    {{ with .Content }}<div class="locations-guide">{{ . }}</div>{{ end }}
   </div>
 </section>
 
@@ -75,7 +77,8 @@
     var visible = 0;
 
     cards.forEach(function (card) {
-      var name = card.getAttribute('data-location-name') || '';
+      var label = card.querySelector('.home-location-card__name');
+      var name = normalise(label && label.textContent);
       var match = query === '' || name.indexOf(query) !== -1;
       card.hidden = !match;
       if (match) visible++;
