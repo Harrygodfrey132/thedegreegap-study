@@ -118,6 +118,8 @@ Help your child make the plan, then step back. A plan they built themselves is o
 
 When marked mock papers come home, ask to see them and [read the paper, not the number](/blog/do-mock-exams-matter/). If one subject keeps slipping however good the plan is, that's the moment to talk to the subject teacher.
 
+If you'd rather hear it from the people who teach it, our free March webinar for parents, [How to Maximise Every GCSE Mark](/webinars/march-2027/), has three specialist tutors taking Maths, English and Science one at a time.
+
 ## Frequently asked questions
 
 **How many hours a day should my child revise for GCSEs?**
