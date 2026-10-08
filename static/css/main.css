@@ -10235,7 +10235,8 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 
 /* =========================================================================
    CALLBACK MODAL
-   Centred booking dialog on the locations and blog pages. Photo panel left,
+   Centred offer dialog on the locations and blog pages (currently the
+   October 2026 Discount: offer, phone number, thanks). Photo panel left,
    copy right on desktop; stacked with a photo band on top for phones.
    ========================================================================= */
 .cbp {
@@ -10278,18 +10279,51 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 .cbp__card:focus { outline: none; }
 
 /* ----- photo panel ----- */
+/* The image is taken out of flow so the copy, not the photo's tall aspect
+   ratio, decides the card's height. Left in flow it set the card to ~480px
+   and the short offer step sat in a lot of empty white. */
 .cbp__media {
   position: relative;
-  flex: 0 0 258px;
+  flex: 0 0 264px;
   margin: 0;
   background: #F9EFEE;
 }
 .cbp__media img {
+  position: absolute;
+  inset: 0;
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: 50% 50%;
+  object-position: 50% 30%;
   display: block;
+}
+.cbp__sticker {
+  position: absolute;
+  right: 16px;
+  bottom: 50px;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 88px;
+  height: 88px;
+  border: 3px solid #FFFFFF;
+  border-radius: 50%;
+  background: #800020;
+  color: #FDF6F5;
+  font-size: 12px;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  transform: rotate(-10deg);
+  box-shadow: 0 12px 26px rgba(128, 0, 32, 0.38);
+}
+.cbp__sticker strong {
+  margin-bottom: 3px;
+  font-size: 27px;
+  letter-spacing: -0.02em;
 }
 .cbp__media figcaption {
   position: absolute;
@@ -10307,12 +10341,22 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 /* ----- copy ----- */
 .cbp__body {
   flex: 1 1 auto;
-  padding: 34px 34px 28px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* Tall enough for the longest step, so the card does not jump in size
+     as the visitor moves between them. */
+  min-height: 446px;
+  padding: 44px 40px 36px;
   overflow-y: auto;
   min-width: 0;
 }
 .cbp__eyebrow {
-  margin: 0 0 10px;
+  display: inline-block;
+  margin: 0 0 14px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  background: #F9EFEE;
   font-size: 10.5px;
   font-weight: 800;
   letter-spacing: 0.16em;
@@ -10320,18 +10364,21 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   color: #800020;
 }
 .cbp__title {
-  margin: 0 0 10px;
-  font-size: 27px;
+  margin: 0 0 12px;
+  font-size: 30px;
   font-weight: 800;
-  line-height: 1.15;
-  letter-spacing: -0.02em;
+  line-height: 1.12;
+  letter-spacing: -0.025em;
   color: #2B2321;
+  text-wrap: balance;
 }
+.cbp__title em { font-style: normal; color: #800020; white-space: nowrap; }
 .cbp__lead {
   margin: 0 0 18px;
-  font-size: 14px;
-  line-height: 1.55;
+  font-size: 15px;
+  line-height: 1.6;
   color: #5C4A47;
+  text-wrap: pretty;
 }
 .cbp__points { list-style: none; margin: 0 0 22px; padding: 0; }
 .cbp__points li {
@@ -10358,7 +10405,12 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   display: flex;
   align-items: center;
   justify-content: center;
+  width: 100%;
   height: 50px;
+  padding: 0 20px;
+  border: 0;
+  cursor: pointer;
+  font-family: inherit;
   border-radius: 999px;
   background: #800020;
   color: #FDF6F5;
@@ -10370,8 +10422,89 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 }
 .cbp__cta:hover { background: #5A001F; transform: translateY(-1px); }
 .cbp__cta:focus-visible { outline: 3px solid #800020; outline-offset: 3px; }
+.cbp__cta:disabled { opacity: 0.7; cursor: default; transform: none; }
 
-.cbp__rating { display: none; }
+.cbp__step[hidden] { display: none; }
+.cbp__title:focus { outline: none; }
+
+.cbp__label {
+  display: block;
+  margin: 0 0 6px;
+  font-size: 12.5px;
+  font-weight: 700;
+  color: #2B2321;
+}
+.cbp__input {
+  display: block;
+  width: 100%;
+  height: 50px;
+  margin: 0 0 14px;
+  padding: 0 16px;
+  border: 1.5px solid #E2D5CF;
+  border-radius: 12px;
+  background: #FAF6F2;
+  font: inherit;
+  font-size: 16px;            /* 16px stops iOS zooming the page on focus */
+  color: #2B2321;
+  box-sizing: border-box;
+}
+.cbp__input:focus {
+  outline: none;
+  border-color: #800020;
+  background: #FFFFFF;
+  box-shadow: 0 0 0 3px rgba(128, 0, 32, 0.14);
+}
+.cbp__note {
+  margin: 0 0 22px;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #5C4A47;
+}
+
+/* The code drops down into place once the details are in. */
+.cbp__code {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin: 4px 0 16px;
+  padding: 14px 14px 14px 20px;
+  border: 2px dashed #800020;
+  border-radius: 14px;
+  background: #F9EFEE;
+  opacity: 0;
+  transform: translateY(-18px);
+  transition: transform 0.45s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.35s ease;
+}
+.cbp__code.is-in { opacity: 1; transform: none; }
+.cbp__code-value {
+  font-size: 30px;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  color: #800020;
+}
+.cbp__code-copy {
+  flex: 0 0 auto;
+  height: 38px;
+  padding: 0 16px;
+  border: 0;
+  border-radius: 999px;
+  background: #800020;
+  color: #FDF6F5;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.cbp__code-copy:hover { background: #5A001F; }
+.cbp__code-copy:focus-visible { outline: 3px solid #800020; outline-offset: 2px; }
+
+.cbp__rating {
+  margin: 0 0 16px;
+  font-size: 12.5px;
+  color: #5C4A47;
+}
+.cbp__rating strong { color: #2B2321; }
 .cbp__quote {
   margin: 0 0 18px;
   padding: 13px 15px;
@@ -10443,7 +10576,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
      picture was decorating a claim the words were making anyway, and card
      height is the thing that decides whether this reads as an interstitial. */
   .cbp__media { display: none; }
-  .cbp__body { padding: 24px 20px 18px; }
+  .cbp__body { min-height: 0; padding: 28px 22px 20px; }
   /* On a phone the full quote block is what pushes the card past a comfortable
      height. The rating says the same thing in one line, so the words Harry
      wanted all stay and the height comes off the proof instead. */
@@ -10458,7 +10591,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   .cbp__lead { font-size: 13.5px; margin-bottom: 14px; }
   .cbp__points { margin-bottom: 16px; }
   .cbp__points li { margin-bottom: 7px; }
-  .cbp__title { font-size: 22px; }
+  .cbp__title { font-size: 24px; }
   .cbp__lead { font-size: 13.5px; margin-bottom: 15px; }
   .cbp__points { margin-bottom: 18px; }
   .cbp__points li { font-size: 13px; }
@@ -10466,6 +10599,6 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .cbp__scrim, .cbp__card { transition: none; }
+  .cbp__scrim, .cbp__card, .cbp__code { transition: none; }
   .cbp__card { transform: none; }
 }

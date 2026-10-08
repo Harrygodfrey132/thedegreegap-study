@@ -1,18 +1,22 @@
 {{/*
-  Booking modal for the locations and blog pages.
+  October 2026 Discount modal for the locations and blog pages.
 
-  Shown by the callback-prompt block in static/js/main.js once per visitor per
-  fortnight, on scroll depth or dwell, whichever comes first. Mobile waits
-  longer and deeper than desktop on purpose: Google's intrusive interstitial
-  rule is mobile-only and aimed at overlays that cover the content straight
-  after a search click, and these are the pages that live on search traffic.
+  Shown by the callback-prompt block in static/js/main.js once per visitor
+  (never again after they close it or claim the code), on scroll depth or
+  dwell, whichever comes first, and only until
+  the offer ends on 31 October 2026. Mobile waits longer and deeper than
+  desktop on purpose: Google's intrusive interstitial rule is mobile-only and
+  aimed at overlays that cover the content straight after a search click, and
+  these are the pages that live on search traffic.
 
-  The photo is Harry and Joe rather than stock, because the copy promises a
-  call with a co-founder and the picture should be the people who pick up.
+  Three steps in one card: the 50% offer with a yes button, then name and
+  number, then the OCT50 code drops down. The details go to Zoho as a lead
+  with Lead Source "October 2026 Discount" so the team can text the code. That value must exist
+  in the Zoho Lead Source pick-list exactly, or Zoho drops the lead source.
 
   Renders hidden, so with JavaScript off nothing appears and nothing shifts.
 */}}
-<div class="cbp" id="cbp" hidden data-cbp>
+<div class="cbp" id="cbp" hidden data-cbp data-cbp-ends="2026-11-01T00:00:00Z" data-cbp-source="October 2026 Discount">
   <div class="cbp__scrim" data-cbp-close></div>
   <div class="cbp__card" role="dialog" aria-modal="true" aria-labelledby="cbp-title" aria-describedby="cbp-lead" tabindex="-1">
     <button type="button" class="cbp__close" data-cbp-close aria-label="Close">
@@ -27,45 +31,53 @@
       <img src="{{ "images/co-founders-panel.jpg" | relURL }}"
            alt="Harry Godfrey and Joe Clark, co-founders of The Degree Gap"
            width="580" height="1076" loading="lazy" decoding="async">
+      <span class="cbp__sticker" aria-hidden="true"><strong>50%</strong>off</span>
       <figcaption>Harry &amp; Joe, co-founders</figcaption>
     </figure>
 
     <div class="cbp__body">
-      <p class="cbp__eyebrow">Free consultation call</p>
-      <h2 class="cbp__title" id="cbp-title">Not sure where to start?</h2>
-      <p class="cbp__lead" id="cbp-lead">Speak to one of us before anything is booked. We will tell you honestly whether tutoring is what your child needs, and which tutor fits if it is.</p>
+      {{/* Step 1: the offer. */}}
+      <div class="cbp__step" data-cbp-step="offer">
+        <p class="cbp__eyebrow">October 2026 Discount</p>
+        <h2 class="cbp__title" id="cbp-title">Would you like <em>50% off</em> your sessions?</h2>
+        <p class="cbp__lead" id="cbp-lead">School is well underway. This October, get 50% off your first session with a Degree Gap tutor. Pop in your name and number and your code appears straight away.</p>
 
-      <ul class="cbp__points">
-        <li>
-          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>
-          <span>Two or three tutor profiles within 24 hours</span>
-        </li>
-        <li>
-          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>
-          <span>Lessons from £37, no contract</span>
-        </li>
-      </ul>
+        <p class="cbp__note">Ends 31 October <span aria-hidden="true">·</span> <span class="cbp__stars" aria-hidden="true">★★★★★</span> 5.0 on Google</p>
 
-      {{/* A real review, verbatim from data/reviews.yaml. Sits above the button
-           so the proof is the last thing read before the decision. Chosen for
-           chosen to prove the exact claim above it. The lead promises a
-           match, so the review is the one about being matched: they listened,
-           they paired her, the pairing worked. A review about something else,
-           however good, is evidence for a different argument. Do not trim it.
-           These are a real person's words and the owner can spot an edit. */}}
-      <figure class="cbp__quote">
-        <span class="cbp__stars" aria-hidden="true">★★★★★</span>
-        <blockquote>The Degree Gap took time to understand my child's worries. They paired me with Connor, who my daughter got on well with. Her confidence has skyrocketed since.</blockquote>
-        <figcaption>Dawn, parent <span class="cbp__quote-sep" aria-hidden="true">·</span> one of {{ site.Params.googleReviewCount }} Google reviews</figcaption>
-      </figure>
+        <button type="button" class="cbp__cta" data-cbp-yes>Yes please</button>
+        <button type="button" class="cbp__dismiss" data-cbp-close>No thanks</button>
+      </div>
 
-      <p class="cbp__rating">
-        <span class="cbp__stars" aria-hidden="true">★★★★★</span>
-        <strong>5.0</strong> from {{ site.Params.googleReviewCount }} Google reviews
-      </p>
-      <a class="cbp__cta" href="{{ "book-a-call/" | relURL }}" data-cbp-cta>Book a free call</a>
+      {{/* Step 2: name and number. */}}
+      <form class="cbp__step cbp__form" data-cbp-step="details" data-cbp-form hidden novalidate>
+        <p class="cbp__eyebrow">October 2026 Discount</p>
+        <h2 class="cbp__title" id="cbp-title-details">Put your name and number in</h2>
+        <p class="cbp__lead">Fill these in and your 50% off code appears straight away.</p>
 
-      <button type="button" class="cbp__dismiss" data-cbp-close>No thanks, just looking</button>
+        <label class="cbp__label" for="cbp-name">Name</label>
+        <input class="cbp__input" id="cbp-name" name="name" type="text"
+               autocomplete="name" placeholder="Your name" required>
+
+        <label class="cbp__label" for="cbp-phone">Mobile number</label>
+        <input class="cbp__input" id="cbp-phone" name="phone" type="tel"
+               inputmode="tel" autocomplete="tel" placeholder="07123 456789" required>
+
+        <button type="submit" class="cbp__cta">Submit</button>
+      </form>
+
+      {{/* Step 3: the code drops down. */}}
+      <div class="cbp__step" data-cbp-step="code" hidden>
+        <p class="cbp__eyebrow">October 2026 Discount</p>
+        <h2 class="cbp__title" id="cbp-title-code" tabindex="-1">Here is your <em>50% off</em> code</h2>
+
+        <div class="cbp__code" data-cbp-code>
+          <span class="cbp__code-value">OCT50</span>
+          <button type="button" class="cbp__code-copy" data-cbp-copy>Copy</button>
+        </div>
+
+        <p class="cbp__lead">Don't worry, we will also text it to you so you can keep it safe.</p>
+        <button type="button" class="cbp__cta" data-cbp-close>Done</button>
+      </div>
     </div>
   </div>
 </div>
