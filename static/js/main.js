@@ -502,7 +502,8 @@ document.addEventListener('submit', function(e){
    Callback modal (currently the October 2026 Discount offer).
 
    Opens the offer dialog on the locations and blog pages, once per visitor
-   per fortnight, on whichever comes first: the reader passing a share of the
+   (never again after they close it or claim the code), on whichever comes
+   first: the reader passing a share of the
    page, or a dwell timer. A minimum dwell sits under both so someone who
    flicks to the bottom in two seconds is not interrupted before they have read
    anything.
@@ -534,9 +535,13 @@ document.addEventListener('submit', function(e){
   var card = root.querySelector('.cbp__card');
   var phone = window.matchMedia('(max-width: 720px)').matches;
 
-  // Own key per offer, so a visitor who dismissed the old booking dialog in
-  // the last fortnight still sees the discount.
-  var KEY = 'tdg_cbp_oct26_until';
+  // Remembers for good whether this visitor has closed the offer ("dismissed")
+  // or given their details ("claimed"), and either way never shows it again.
+  // Own key per offer, so a visitor who dismissed the old booking dialog
+  // still sees the discount. The main-site homepage copy of this pop-up
+  // (docs/october-2026-discount-popup.html) uses the same key, and the two
+  // share storage because /study/ is on the same origin.
+  var KEY = 'tdg_oct26_popup';
   var MIN_DWELL = phone ? 7000 : 5000;
   var MAX_WAIT = phone ? 20000 : 12000;
   // Screens scrolled, not a share of the page. These pages run from about
@@ -547,17 +552,12 @@ document.addEventListener('submit', function(e){
   // 1.5 screens is past the hero and into the body on every page type.
   var SCROLL_SCREENS = 1.5;
   var DEFER_CAP = 25000;
-  var DISMISS_DAYS = 14;
-  var CLICKED_DAYS = 90;
 
   function suppressed() {
-    try {
-      var until = parseInt(localStorage.getItem(KEY) || '0', 10);
-      return until && Date.now() < until;
-    } catch (e) { return false; }
+    try { return !!localStorage.getItem(KEY); } catch (e) { return false; }
   }
-  function suppress(days) {
-    try { localStorage.setItem(KEY, String(Date.now() + days * 86400000)); } catch (e) {}
+  function suppress(state) {
+    try { localStorage.setItem(KEY, state); } catch (e) {}
   }
   if (suppressed()) return;
 
@@ -607,7 +607,7 @@ document.addEventListener('submit', function(e){
     return out;
   }
   function onKey(e) {
-    if (e.key === 'Escape') { close(submitted ? CLICKED_DAYS : DISMISS_DAYS); return; }
+    if (e.key === 'Escape') { close(submitted ? 'claimed' : 'dismissed'); return; }
     if (e.key !== 'Tab') return;
     var f = focusable();
     if (!f.length) return;
@@ -653,10 +653,10 @@ document.addEventListener('submit', function(e){
     track('cbp_shown');
   }
 
-  function close(days) {
+  function close(state) {
     if (!open) return;
     open = false;
-    suppress(days);
+    suppress(state);
     root.classList.remove('is-open');
     document.removeEventListener('keydown', onKey);
 
@@ -678,7 +678,7 @@ document.addEventListener('submit', function(e){
 
   var closers = root.querySelectorAll('[data-cbp-close]');
   for (var i = 0; i < closers.length; i++) {
-    closers[i].addEventListener('click', function () { close(submitted ? CLICKED_DAYS : DISMISS_DAYS); });
+    closers[i].addEventListener('click', function () { close(submitted ? 'claimed' : 'dismissed'); });
   }
 
   /* Steps. Only one is visible at a time, and the dialog's accessible name
@@ -761,7 +761,7 @@ document.addEventListener('submit', function(e){
 
     try { submitZohoLead(name, number); } catch (err) {}
     submitted = true;
-    suppress(CLICKED_DAYS);
+    suppress('claimed');
     track('cbp_lead');
     if (typeof window.fbq === 'function') { try { window.fbq('track', 'Lead'); } catch (err) {} }
 

@@ -184,19 +184,19 @@
   var LEAD_SOURCE = 'October 2026 Discount';
   var CODE = 'OCT50';
   var ENDS = Date.parse('2026-11-01T00:00:00Z');
-  // Same key as the /study/ pages, so a visitor only sees the offer once.
-  var KEY = 'tdg_cbp_oct26_until';
-  var DISMISS_DAYS = 14, DONE_DAYS = 90;
+  // Remembers for good whether this visitor has closed the offer ("dismissed")
+  // or given their details ("claimed"), and never shows it to them again.
+  // Same key as the /study/ pages, so closing it on one closes it on both.
+  var KEY = 'tdg_oct26_popup';
 
   var forced = /[?&]popup=1\b/.test(window.location.search);
   if (!forced && Date.now() >= ENDS) return;
 
   function suppressed() {
-    try { var u = parseInt(localStorage.getItem(KEY) || '0', 10); return u && Date.now() < u; }
-    catch (e) { return false; }
+    try { return !!localStorage.getItem(KEY); } catch (e) { return false; }
   }
-  function suppress(days) {
-    try { localStorage.setItem(KEY, String(Date.now() + days * 86400000)); } catch (e) {}
+  function suppress(state) {
+    try { localStorage.setItem(KEY, state); } catch (e) {}
   }
   if (!forced && suppressed()) return;
 
@@ -259,7 +259,7 @@
   function close() {
     if (!open) return;
     open = false;
-    suppress(done ? DONE_DAYS : DISMISS_DAYS);
+    suppress(done ? 'claimed' : 'dismissed');
     root.classList.remove('is-open');
     document.removeEventListener('keydown', onKey);
     document.body.style.position = '';
@@ -348,7 +348,7 @@
     btn.disabled = true; btn.textContent = 'Sending...';
     try { submitZohoLead(name, normaliseUkPhone(phoneField.value)); } catch (err) {}
     done = true;
-    suppress(DONE_DAYS);
+    suppress('claimed');
     track('oct26_popup_lead');
     if (typeof window.fbq === 'function') { try { window.fbq('track', 'Lead'); } catch (err) {} }
 
