@@ -18,6 +18,10 @@
 (function () {
   if (window.__tdgOct26Popup) return;
   window.__tdgOct26Popup = true;
+  // Where this script was loaded from. The photo is fetched from the same
+  // place, so wherever the script loads the photo loads too.
+  var SCRIPT_SRC = (document.currentScript && document.currentScript.src) || '';
+  var PHOTO_FALLBACK = 'https://thedegreegap.com/study/images/co-founders-panel.jpg';
   // The /study/ pages already carry this pop-up in their own template.
   if (document.querySelector('[data-cbp]')) return;
 
@@ -54,6 +58,7 @@
     position: absolute; inset: 0; width: 100%; height: 100%;
     object-fit: cover; object-position: 50% 30%; display: block;
   }
+  .tdgo--nophoto .tdgo__media { display: none; }
   .tdgo__media figcaption {
     position: absolute; left: 0; right: 0; bottom: 0;
     padding: 26px 16px 12px;
@@ -63,7 +68,7 @@
 
   /* Tall enough for the longest step, so the card does not jump between steps. */
   .tdgo__body {
-    flex: 1 1 auto; min-width: 0; min-height: 446px;
+    flex: 1 1 auto; min-width: 0; min-height: 470px;
     display: flex; flex-direction: column; justify-content: center;
     padding: 44px 40px 36px; overflow-y: auto;
   }
@@ -80,6 +85,8 @@
   .tdgo__title em { font-style: normal; color: #800020; white-space: nowrap; }
   .tdgo__lead { margin: 0 0 18px; font-size: 15px; line-height: 1.6; color: #5C4A47; text-wrap: pretty; }
   .tdgo__note { margin: 0 0 22px; font-size: 12px; line-height: 1.5; color: #5C4A47; }
+  .tdgo__note > span, .tdgo__note > strong { white-space: nowrap; }
+  .tdgo__note strong { display: block; margin-bottom: 2px; color: #800020; font-weight: 700; }
   .tdgo__stars { color: #FBBC05; letter-spacing: 0.06em; font-size: 12px; }
 
   .tdgo__cta {
@@ -178,8 +185,8 @@
       <div class="tdgo__step" data-tdgo-step="offer">
         <p class="tdgo__eyebrow">October 2026 Discount</p>
         <h2 class="tdgo__title" id="tdgo-title">Would you like <em>50% off</em> your sessions?</h2>
-        <p class="tdgo__lead">School is well underway. This October, get 50% off your first session with a Degree Gap tutor. Pop in your name and number and your code appears straight away.</p>
-        <p class="tdgo__note">Ends 31 October <span aria-hidden="true">&middot;</span> <span class="tdgo__stars" aria-hidden="true">&#9733;&#9733;&#9733;&#9733;&#9733;</span> 5.0 on Google</p>
+        <p class="tdgo__lead">School is well underway. This October, first-time customers get 50% off their first session with a Degree Gap tutor. Pop in your name and number and your code appears straight away.</p>
+        <p class="tdgo__note"><strong>First-time customers only</strong><span>Ends 31 October</span> <span><span aria-hidden="true">&middot;</span> <span class="tdgo__stars" aria-hidden="true">&#9733;&#9733;&#9733;&#9733;&#9733;</span> 5.0 on Google</span></p>
         <button type="button" class="tdgo__cta" data-tdgo-yes>Yes please</button>
         <button type="button" class="tdgo__dismiss" data-tdgo-close>No thanks</button>
       </div>
@@ -205,7 +212,7 @@
           <span class="tdgo__code-value">OCT50</span>
           <button type="button" class="tdgo__code-copy" data-tdgo-copy>Copy</button>
         </div>
-        <p class="tdgo__lead">Don't worry, we will also text it to you so you can keep it safe.</p>
+        <p class="tdgo__lead">Valid on your first session as a new customer. Don't worry, we will also text it to you so you can keep it safe.</p>
         <button type="button" class="tdgo__cta" data-tdgo-close>Done</button>
       </div>
     </div>
@@ -241,6 +248,9 @@
     var MIN_DWELL = phoneScreen ? 7000 : 5000;
     var MAX_WAIT = phoneScreen ? 20000 : 12000;
     var card = root.querySelector('.tdgo__card');
+  // If the photo cannot load, drop the panel rather than show a broken image.
+  var photo = root.querySelector('.tdgo__media img');
+  if (photo) photo.addEventListener('error', function () { root.classList.add('tdgo--nophoto'); });
     var form = root.querySelector('[data-tdgo-form]');
     var errorBox = root.querySelector('[data-tdgo-error]');
     var start = Date.now(), open = false, done = false, timer = null, lastFocus = null, scrollY = 0;
@@ -358,7 +368,7 @@
       add('Last Name', name || 'Parent');
       add('Phone', phone);
       add('LEADCF3', 'Unsure');
-      add('Description', 'October 2026 Discount: shown code ' + CODE + ' (50% off first session) on the website pop-up at ' + window.location.pathname + '. Text them the code.');
+      add('Description', 'October 2026 Discount: shown code ' + CODE + ' (50% off first session, first-time customers only) on the website pop-up at ' + window.location.pathname + '. Text them the code.');
       add('Lead Source', LEAD_SOURCE);
       document.body.appendChild(f);
       f.submit();
@@ -415,8 +425,10 @@
     var style = document.createElement('style');
     style.textContent = CSS;
     document.head.appendChild(style);
+    var photoUrl = PHOTO_FALLBACK;
+    try { if (SCRIPT_SRC) photoUrl = new URL('../images/co-founders-panel.jpg', SCRIPT_SRC).href; } catch (e) {}
     var holder = document.createElement('div');
-    holder.innerHTML = HTML;
+    holder.innerHTML = HTML.split(PHOTO_FALLBACK).join(photoUrl);
     while (holder.firstChild) document.body.appendChild(holder.firstChild);
     run();
   }

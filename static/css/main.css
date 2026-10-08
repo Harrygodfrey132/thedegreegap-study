@@ -10318,7 +10318,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   justify-content: center;
   /* Tall enough for the longest step, so the card does not jump in size
      as the visitor moves between them. */
-  min-height: 446px;
+  min-height: 470px;
   padding: 44px 40px 36px;
   overflow-y: auto;
   min-width: 0;
@@ -10432,6 +10432,10 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   line-height: 1.5;
   color: #5C4A47;
 }
+/* "First-time customers only" sits on its own line; the rest wraps as whole
+   items, so a separator never dangles at a line end. */
+.cbp__note > span, .cbp__note > strong { white-space: nowrap; }
+.cbp__note strong { display: block; margin-bottom: 2px; color: #800020; font-weight: 700; }
 
 /* The code drops down into place once the details are in. */
 .cbp__code {

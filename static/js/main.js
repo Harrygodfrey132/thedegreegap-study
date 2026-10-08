@@ -740,7 +740,7 @@ document.addEventListener('submit', function(e){
     add('Last Name', name || 'Parent');
     add('Phone', number);
     add('LEADCF3', 'Unsure');
-    add('Description', 'October 2026 Discount: shown code OCT50 (50% off first session) on the website pop-up at ' + window.location.pathname + '. Text them the code.');
+    add('Description', 'October 2026 Discount: shown code OCT50 (50% off first session, first-time customers only) on the website pop-up at ' + window.location.pathname + '. Text them the code.');
     add('Lead Source', root.getAttribute('data-cbp-source') || 'October 2026 Discount');
     document.body.appendChild(f);
     f.submit();
