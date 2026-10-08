@@ -499,10 +499,11 @@ document.addEventListener('submit', function(e){
 })();
 
 /* ---------------------------------------------------------------------------
-   Callback modal.
+   Callback modal (currently the October 2026 Discount offer).
 
-   Opens the booking dialog on the locations and blog pages, once per visitor
-   per fortnight, on whichever comes first: the reader passing a share of the
+   Opens the offer dialog on the locations and blog pages, once per visitor
+   (never again after they close it or claim the code), on whichever comes
+   first: the reader passing a share of the
    page, or a dwell timer. A minimum dwell sits under both so someone who
    flicks to the bottom in two seconds is not interrupted before they have read
    anything.
@@ -515,6 +516,12 @@ document.addEventListener('submit', function(e){
    Because this one is modal, it takes focus, traps Tab inside itself, locks
    the page behind it and restores all three on close.
 
+   The offer has three steps: yes, name and number, then the code drops down.
+   The details are posted
+   to Zoho web-to-lead with the Lead Source set on the partial, and the dialog
+   stops appearing once data-cbp-ends has passed, so the offer switches itself
+   off after October without a rebuild.
+
    Everything is optional: if any of it throws, the page is unchanged and the
    dialog simply never opens.
    --------------------------------------------------------------------------- */
@@ -522,10 +529,19 @@ document.addEventListener('submit', function(e){
   var root = document.querySelector('[data-cbp]');
   if (!root) return;
 
+  var ends = Date.parse(root.getAttribute('data-cbp-ends') || '');
+  if (ends && Date.now() >= ends) return;
+
   var card = root.querySelector('.cbp__card');
   var phone = window.matchMedia('(max-width: 720px)').matches;
 
-  var KEY = 'tdg_cbp_until';
+  // Remembers for good whether this visitor has closed the offer ("dismissed")
+  // or given their details ("claimed"), and either way never shows it again.
+  // Own key per offer, so a visitor who dismissed the old booking dialog
+  // still sees the discount. The main-site homepage copy of this pop-up
+  // (docs/october-2026-discount-popup.html) uses the same key, and the two
+  // share storage because /study/ is on the same origin.
+  var KEY = 'tdg_oct26_popup';
   var MIN_DWELL = phone ? 7000 : 5000;
   var MAX_WAIT = phone ? 20000 : 12000;
   // Screens scrolled, not a share of the page. These pages run from about
@@ -536,17 +552,12 @@ document.addEventListener('submit', function(e){
   // 1.5 screens is past the hero and into the body on every page type.
   var SCROLL_SCREENS = 1.5;
   var DEFER_CAP = 25000;
-  var DISMISS_DAYS = 14;
-  var CLICKED_DAYS = 90;
 
   function suppressed() {
-    try {
-      var until = parseInt(localStorage.getItem(KEY) || '0', 10);
-      return until && Date.now() < until;
-    } catch (e) { return false; }
+    try { return !!localStorage.getItem(KEY); } catch (e) { return false; }
   }
-  function suppress(days) {
-    try { localStorage.setItem(KEY, String(Date.now() + days * 86400000)); } catch (e) {}
+  function suppress(state) {
+    try { localStorage.setItem(KEY, state); } catch (e) {}
   }
   if (suppressed()) return;
 
@@ -569,7 +580,7 @@ document.addEventListener('submit', function(e){
   }
 
   var open = false, start = Date.now(), timer = null, lastFocus = null, scrollY = 0;
-  var clicked = false;
+  var clicked = false, submitted = false;
 
   /* GA4 events. Without these the dialog is unmeasurable: there is no way to
      tell a version that converts from one that annoys, and no way to justify
@@ -587,10 +598,16 @@ document.addEventListener('submit', function(e){
   }
 
   function focusable() {
-    return card.querySelectorAll('a[href], button:not([disabled])');
+    var all = card.querySelectorAll('a[href], button:not([disabled]), input:not([disabled])');
+    var out = [];
+    for (var i = 0; i < all.length; i++) {
+      if (all[i].closest('[hidden]')) continue;
+      out.push(all[i]);
+    }
+    return out;
   }
   function onKey(e) {
-    if (e.key === 'Escape') { close(DISMISS_DAYS); return; }
+    if (e.key === 'Escape') { close(submitted ? 'claimed' : 'dismissed'); return; }
     if (e.key !== 'Tab') return;
     var f = focusable();
     if (!f.length) return;
@@ -636,10 +653,10 @@ document.addEventListener('submit', function(e){
     track('cbp_shown');
   }
 
-  function close(days) {
+  function close(state) {
     if (!open) return;
     open = false;
-    suppress(days);
+    suppress(state);
     root.classList.remove('is-open');
     document.removeEventListener('keydown', onKey);
 
@@ -661,14 +678,112 @@ document.addEventListener('submit', function(e){
 
   var closers = root.querySelectorAll('[data-cbp-close]');
   for (var i = 0; i < closers.length; i++) {
-    closers[i].addEventListener('click', function () { close(DISMISS_DAYS); });
+    closers[i].addEventListener('click', function () { close(submitted ? 'claimed' : 'dismissed'); });
   }
-  var cta = root.querySelector('[data-cbp-cta]');
-  // Suppress before navigation, not after: the page is about to unload.
-  if (cta) cta.addEventListener('click', function () {
+
+  /* Steps. Only one is visible at a time, and the dialog's accessible name
+     follows whichever is showing. */
+  function step(name) {
+    var steps = root.querySelectorAll('[data-cbp-step]');
+    for (var i = 0; i < steps.length; i++) {
+      steps[i].hidden = steps[i].getAttribute('data-cbp-step') !== name;
+    }
+    var shown = root.querySelector('[data-cbp-step="' + name + '"]');
+    var title = shown && shown.querySelector('.cbp__title');
+    if (title && title.id) card.setAttribute('aria-labelledby', title.id);
+    return shown;
+  }
+
+  var yes = root.querySelector('[data-cbp-yes]');
+  var form = root.querySelector('[data-cbp-form]');
+
+  if (yes) yes.addEventListener('click', function () {
     clicked = true;
-    suppress(CLICKED_DAYS);
     track('cbp_clicked');
+    step('details');
+    var input = form && form.querySelector('input[name="name"]');
+    if (input) input.focus();
+  });
+
+  function normaliseUkPhone(raw) {
+    var digits = String(raw || '').replace(/\D/g, '');
+    if (!digits) return '';
+    if (digits.indexOf('44') === 0) digits = digits.substring(2);
+    if (digits.charAt(0) === '0') digits = digits.substring(1);
+    return '+44' + digits;
+  }
+
+  /* Zoho CRM web-to-lead, the same form the webinar pages post to. Zoho sends
+     no CORS headers, so it goes through a hidden iframe, fire and forget. */
+  function submitZohoLead(name, number) {
+    var iframe = document.getElementById('cbp-zoho');
+    if (!iframe) {
+      iframe = document.createElement('iframe');
+      iframe.name = 'cbp-zoho'; iframe.id = 'cbp-zoho';
+      iframe.setAttribute('aria-hidden', 'true');
+      iframe.setAttribute('tabindex', '-1');
+      iframe.style.cssText = 'position:absolute;width:0;height:0;border:0;visibility:hidden;left:-9999px;top:-9999px';
+      document.body.appendChild(iframe);
+    }
+    var f = document.createElement('form');
+    f.method = 'POST';
+    f.action = 'https://crm.zoho.eu/crm/WebToLeadForm';
+    f.target = 'cbp-zoho';
+    f.acceptCharset = 'UTF-8';
+    f.style.cssText = 'position:absolute;left:-9999px;top:-9999px;visibility:hidden';
+    function add(name, value) { var i = document.createElement('input'); i.type = 'hidden'; i.name = name; i.value = value; f.appendChild(i); }
+    add('xnQsjsdp', '3ed466c7b35b7fc5362fd2a7dbc59aa25c93856390bacc86da6dc4324a09f032');
+    add('xmIwtLD', '62912caa86f3a8312df41b466a952aff81aaa83cceed69b9167a4d99f0bbc1ca33d4ec974b07f5420e4b7ad2af7fbc48');
+    add('actionType', 'TGVhZHM=');
+    add('returnURL', 'null');
+    add('aG9uZXlwb3Q', '');
+    add('Last Name', name || 'Parent');
+    add('Phone', number);
+    add('LEADCF3', 'Unsure');
+    add('Description', 'October 2026 Discount: shown code OCT50 (50% off first session, first-time customers only) on the website pop-up at ' + window.location.pathname + '. Text them the code.');
+    add('Lead Source', root.getAttribute('data-cbp-source') || 'October 2026 Discount');
+    document.body.appendChild(f);
+    f.submit();
+  }
+
+  if (form) form.addEventListener('submit', function (e) {
+    e.preventDefault();
+    // The site-wide required-field check runs first on the capture phase and
+    // blocks this handler when the number is too short to dial.
+    if (!form.checkValidity()) { form.reportValidity(); return; }
+    var input = form.querySelector('input[name="phone"]');
+    var number = normaliseUkPhone(input ? input.value : '');
+    if (!number) return;
+    var nameInput = form.querySelector('input[name="name"]');
+    var name = nameInput ? nameInput.value.trim() : '';
+    var btn = form.querySelector('[type="submit"]');
+    if (btn) { btn.disabled = true; btn.textContent = 'Sending...'; }
+
+    try { submitZohoLead(name, number); } catch (err) {}
+    submitted = true;
+    suppress('claimed');
+    track('cbp_lead');
+    if (typeof window.fbq === 'function') { try { window.fbq('track', 'Lead'); } catch (err) {} }
+
+    var shown = step('code');
+    var heading = shown && shown.querySelector('.cbp__title');
+    if (heading) heading.focus();
+    var code = shown && shown.querySelector('[data-cbp-code]');
+    if (code) window.requestAnimationFrame(function () {
+      window.requestAnimationFrame(function () { code.classList.add('is-in'); });
+    });
+  });
+
+  var copy = root.querySelector('[data-cbp-copy]');
+  if (copy) copy.addEventListener('click', function () {
+    var value = root.querySelector('.cbp__code-value');
+    var text = value ? value.textContent.trim() : '';
+    function copied() { copy.textContent = 'Copied'; }
+    try {
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(copied, function () {});
+      }
+    } catch (err) {}
   });
 
   window.addEventListener('scroll', onScroll, { passive: true });
