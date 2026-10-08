@@ -59,7 +59,7 @@ A revision timetable has one job. It decides in advance what gets revised and wh
 
 **Mix subjects across the day.** Two or three different subjects in an evening feels harder than one subject for three hours. It works better, though, because each switch makes you pull the knowledge back out again.
 
-**Test yourself rather than re-reading.** Flashcards, practice questions and past papers do far more than re-reading notes or highlighting. A large review of study techniques by Dunlosky and colleagues rated practice testing and spaced practice as the two most useful methods, and rated highlighting and re-reading as low.
+**Test yourself rather than re-reading.** Flashcards, practice questions and past papers do far more than re-reading notes or highlighting. A large review of study techniques by Dunlosky and colleagues rated practice testing and spaced practice as the two most useful methods, and rated highlighting and re-reading as low. Our guide to [how to revise for GCSEs, subject by subject](/blog/how-to-revise-for-gcses/) shows what testing yourself looks like in each one.
 
 **Plan your rest.** Keep one evening a week free and stop at the same time each night. A plan you can keep is worth more than an ambitious one you drop after a fortnight.
 
