@@ -16,7 +16,7 @@
       <!-- Step 1: the offer -->
       <div class="tdgo__step" data-tdgo-step="offer">
         <p class="tdgo__eyebrow">October 2026 Discount</p>
-        <h2 class="tdgo__title" id="tdgo-title">Would you like 50% off your sessions?</h2>
+        <h2 class="tdgo__title" id="tdgo-title">Would you like <em>50% off</em> your sessions?</h2>
         <p class="tdgo__lead">School is well underway. This October, get 50% off your first session with a Degree Gap tutor. Pop in your name and number and your code appears straight away.</p>
         <p class="tdgo__note">Ends 31 October <span aria-hidden="true">&middot;</span> <span class="tdgo__stars" aria-hidden="true">&#9733;&#9733;&#9733;&#9733;&#9733;</span> 5.0 on Google</p>
         <button type="button" class="tdgo__cta" data-tdgo-yes>Yes please</button>
@@ -39,7 +39,7 @@
       <!-- Step 3: the code drops down -->
       <div class="tdgo__step" data-tdgo-step="code" hidden>
         <p class="tdgo__eyebrow">October 2026 Discount</p>
-        <h2 class="tdgo__title" id="tdgo-title-code" tabindex="-1">Here is your 50% off code</h2>
+        <h2 class="tdgo__title" id="tdgo-title-code" tabindex="-1">Here is your <em>50% off</em> code</h2>
         <div class="tdgo__code" data-tdgo-code>
           <span class="tdgo__code-value">OCT50</span>
           <button type="button" class="tdgo__code-copy" data-tdgo-copy>Copy</button>
@@ -78,8 +78,12 @@
   .tdgo.is-open .tdgo__card { transform: none; opacity: 1; }
   .tdgo__card:focus, .tdgo__title:focus { outline: none; }
 
-  .tdgo__media { position: relative; flex: 0 0 258px; margin: 0; background: #F9EFEE; }
-  .tdgo__media img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  /* The photo is out of flow so the text, not the photo, sets the card height. */
+  .tdgo__media { position: relative; flex: 0 0 264px; margin: 0; background: #F9EFEE; }
+  .tdgo__media img {
+    position: absolute; inset: 0; width: 100%; height: 100%;
+    object-fit: cover; object-position: 50% 30%; display: block;
+  }
   .tdgo__media figcaption {
     position: absolute; left: 0; right: 0; bottom: 0;
     padding: 26px 16px 12px;
@@ -87,17 +91,25 @@
     background: linear-gradient(to top, rgba(28, 18, 16, 0.78), rgba(28, 18, 16, 0));
   }
 
-  .tdgo__body { flex: 1 1 auto; min-width: 0; padding: 34px 34px 28px; overflow-y: auto; }
+  /* Tall enough for the longest step, so the card does not jump between steps. */
+  .tdgo__body {
+    flex: 1 1 auto; min-width: 0; min-height: 446px;
+    display: flex; flex-direction: column; justify-content: center;
+    padding: 44px 40px 36px; overflow-y: auto;
+  }
   .tdgo__eyebrow {
-    margin: 0 0 10px; font-size: 10.5px; font-weight: 800;
+    display: inline-block; margin: 0 0 14px; padding: 6px 12px;
+    border-radius: 999px; background: #F9EFEE;
+    font-size: 10.5px; font-weight: 800;
     letter-spacing: 0.16em; text-transform: uppercase; color: #800020;
   }
   .tdgo__title {
-    margin: 0 0 10px; font-size: 27px; font-weight: 800; line-height: 1.15;
-    letter-spacing: -0.02em; color: #2B2321;
+    margin: 0 0 12px; font-size: 30px; font-weight: 800; line-height: 1.12;
+    letter-spacing: -0.025em; color: #2B2321; text-wrap: balance;
   }
-  .tdgo__lead { margin: 0 0 18px; font-size: 14px; line-height: 1.55; color: #5C4A47; }
-  .tdgo__note { margin: 0 0 16px; font-size: 12px; line-height: 1.5; color: #5C4A47; }
+  .tdgo__title em { font-style: normal; color: #800020; white-space: nowrap; }
+  .tdgo__lead { margin: 0 0 18px; font-size: 15px; line-height: 1.6; color: #5C4A47; text-wrap: pretty; }
+  .tdgo__note { margin: 0 0 22px; font-size: 12px; line-height: 1.5; color: #5C4A47; }
   .tdgo__stars { color: #FBBC05; letter-spacing: 0.06em; font-size: 12px; }
 
   .tdgo__cta {
@@ -165,8 +177,8 @@
     .tdgo { padding: 16px; }
     .tdgo__card { flex-direction: column; max-height: calc(100vh - 32px); border-radius: 18px; }
     .tdgo__media { display: none; }
-    .tdgo__body { padding: 24px 20px 18px; }
-    .tdgo__title { font-size: 22px; }
+    .tdgo__body { min-height: 0; padding: 28px 22px 20px; }
+    .tdgo__title { font-size: 24px; }
     .tdgo__lead { font-size: 13.5px; margin-bottom: 15px; }
     .tdgo__cta { height: 48px; font-size: 14.5px; }
   }

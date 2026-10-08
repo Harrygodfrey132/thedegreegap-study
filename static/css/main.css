@@ -10433,35 +10433,6 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   color: #5C4A47;
 }
 
-/* Phone-only headshots, cut from the same co-founders photo. The offsets
-   centre each face in its circle at this background size. */
-.cbp__founders {
-  display: none;
-  align-items: center;
-  gap: 10px;
-  margin: 0 0 18px;
-  padding-right: 40px;        /* clear of the close button */
-}
-.cbp__faces { display: flex; }
-.cbp__face {
-  width: 44px;
-  height: 44px;
-  border: 2px solid #FFFFFF;
-  border-radius: 50%;
-  background-color: #F9EFEE;
-  background-repeat: no-repeat;
-  background-size: 87px auto;
-  box-shadow: 0 3px 10px rgba(28, 18, 16, 0.18);
-}
-.cbp__face--harry { position: relative; z-index: 1; background-position: 0 -19px; }
-.cbp__face--joe { background-position: -40px -40px; margin-left: -8px; }
-.cbp__founders-name {
-  font-size: 12.5px;
-  line-height: 1.35;
-  color: #5C4A47;
-}
-.cbp__founders-name strong { display: block; color: #2B2321; font-size: 13px; }
-
 /* The code drops down into place once the details are in. */
 .cbp__code {
   display: flex;
@@ -10571,12 +10542,9 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
     max-height: calc(100vh - 32px);
     border-radius: 18px;
   }
-  /* No full photo on a phone: Harry and Joe stand diagonally, so any band
-     short enough for a phone card crops one of them through the face. The
-     faces come back as two round headshots instead (.cbp__founders), so the
-     card is not a bare white box of text. */
+  /* No photo on a phone: Harry and Joe stand diagonally, so any band short
+     enough for a phone card crops one of them through the face. */
   .cbp__media { display: none; }
-  .cbp__founders { display: flex; }
   .cbp__body { min-height: 0; padding: 28px 22px 20px; }
   /* On a phone the full quote block is what pushes the card past a comfortable
      height. The rating says the same thing in one line, so the words Harry
