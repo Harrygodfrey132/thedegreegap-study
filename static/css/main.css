@@ -10408,13 +10408,43 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   background: #FFFFFF;
   box-shadow: 0 0 0 3px rgba(128, 0, 32, 0.14);
 }
-.cbp__small {
-  margin: 12px 0 0;
-  font-size: 11.5px;
-  line-height: 1.45;
-  color: #8A7B78;
-  text-align: center;
+/* The code drops down into place once the details are in. */
+.cbp__code {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin: 4px 0 16px;
+  padding: 14px 14px 14px 20px;
+  border: 2px dashed #800020;
+  border-radius: 14px;
+  background: #F9EFEE;
+  opacity: 0;
+  transform: translateY(-18px);
+  transition: transform 0.45s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.35s ease;
 }
+.cbp__code.is-in { opacity: 1; transform: none; }
+.cbp__code-value {
+  font-size: 30px;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  color: #800020;
+}
+.cbp__code-copy {
+  flex: 0 0 auto;
+  height: 38px;
+  padding: 0 16px;
+  border: 0;
+  border-radius: 999px;
+  background: #800020;
+  color: #FDF6F5;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.cbp__code-copy:hover { background: #5A001F; }
+.cbp__code-copy:focus-visible { outline: 3px solid #800020; outline-offset: 2px; }
 
 .cbp__rating {
   margin: 0 0 16px;
@@ -10516,6 +10546,6 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .cbp__scrim, .cbp__card { transition: none; }
+  .cbp__scrim, .cbp__card, .cbp__code { transition: none; }
   .cbp__card { transform: none; }
 }

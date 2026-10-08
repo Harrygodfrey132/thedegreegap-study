@@ -515,7 +515,8 @@ document.addEventListener('submit', function(e){
    Because this one is modal, it takes focus, traps Tab inside itself, locks
    the page behind it and restores all three on close.
 
-   The offer has three steps: yes, phone number, thanks. The number is posted
+   The offer has three steps: yes, name and number, then the code drops down.
+   The details are posted
    to Zoho web-to-lead with the Lead Source set on the partial, and the dialog
    stops appearing once data-cbp-ends has passed, so the offer switches itself
    off after October without a rebuild.
@@ -699,8 +700,8 @@ document.addEventListener('submit', function(e){
   if (yes) yes.addEventListener('click', function () {
     clicked = true;
     track('cbp_clicked');
-    step('phone');
-    var input = form && form.querySelector('input[name="phone"]');
+    step('details');
+    var input = form && form.querySelector('input[name="name"]');
     if (input) input.focus();
   });
 
@@ -714,7 +715,7 @@ document.addEventListener('submit', function(e){
 
   /* Zoho CRM web-to-lead, the same form the webinar pages post to. Zoho sends
      no CORS headers, so it goes through a hidden iframe, fire and forget. */
-  function submitZohoLead(number) {
+  function submitZohoLead(name, number) {
     var iframe = document.getElementById('cbp-zoho');
     if (!iframe) {
       iframe = document.createElement('iframe');
@@ -736,10 +737,10 @@ document.addEventListener('submit', function(e){
     add('actionType', 'TGVhZHM=');
     add('returnURL', 'null');
     add('aG9uZXlwb3Q', '');
-    add('Last Name', 'Parent');
+    add('Last Name', name || 'Parent');
     add('Phone', number);
     add('LEADCF3', 'Unsure');
-    add('Description', 'Asked for the October 2026 Discount code by text from the website pop-up on ' + window.location.pathname);
+    add('Description', 'October 2026 Discount: shown code OCT50 (50% off first session) on the website pop-up at ' + window.location.pathname + '. Text them the code.');
     add('Lead Source', root.getAttribute('data-cbp-source') || 'October 2026 Discount');
     document.body.appendChild(f);
     f.submit();
@@ -753,18 +754,36 @@ document.addEventListener('submit', function(e){
     var input = form.querySelector('input[name="phone"]');
     var number = normaliseUkPhone(input ? input.value : '');
     if (!number) return;
+    var nameInput = form.querySelector('input[name="name"]');
+    var name = nameInput ? nameInput.value.trim() : '';
     var btn = form.querySelector('[type="submit"]');
     if (btn) { btn.disabled = true; btn.textContent = 'Sending...'; }
 
-    try { submitZohoLead(number); } catch (err) {}
+    try { submitZohoLead(name, number); } catch (err) {}
     submitted = true;
     suppress(CLICKED_DAYS);
     track('cbp_lead');
     if (typeof window.fbq === 'function') { try { window.fbq('track', 'Lead'); } catch (err) {} }
 
-    var thanks = step('thanks');
-    var heading = thanks && thanks.querySelector('.cbp__title');
+    var shown = step('code');
+    var heading = shown && shown.querySelector('.cbp__title');
     if (heading) heading.focus();
+    var code = shown && shown.querySelector('[data-cbp-code]');
+    if (code) window.requestAnimationFrame(function () {
+      window.requestAnimationFrame(function () { code.classList.add('is-in'); });
+    });
+  });
+
+  var copy = root.querySelector('[data-cbp-copy]');
+  if (copy) copy.addEventListener('click', function () {
+    var value = root.querySelector('.cbp__code-value');
+    var text = value ? value.textContent.trim() : '';
+    function copied() { copy.textContent = 'Copied'; }
+    try {
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(copied, function () {});
+      }
+    } catch (err) {}
   });
 
   window.addEventListener('scroll', onScroll, { passive: true });
