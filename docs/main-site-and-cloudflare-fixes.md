@@ -3,7 +3,23 @@
 From the Semrush Site Audit of thedegreegap.com finished on 6 October 2026
 (project 21710747): health 76, 62 errors, 236 warnings, 176 notices.
 
-Read this first: that audit only checked 100 pages, which is the crawl limit set
+**Update, 8 October 2026.** The crawl limit is now raised and the full crawl
+(mega export, 2,151 pages) confirms everything below. It adds three things:
+
+- 1,057 of the 2,151 pages are `www.thedegreegap.com/study/...` copies of study
+  pages. The www redirect on the branch (item 13) removes them, along with all
+  196 "page crawl depth" notices, which are only on those copies. After the
+  deploy, expect the next crawl to find about 1,100 pages.
+- The main site now shows 29 pages with the shared-template problems in items 1,
+  2, 5, 7, 8 and 15, and "redirect chains" (29) joins item 5.
+- `/guest-user/forgot-password`, `/Pricing/gcse-tutoring` and an orphaned
+  sitemap file are new; see items 3, 4 and 17.
+
+Every study-site item in the full crawl is either fixed on the branch (see the end
+of this file) or expected: the WhatsApp button (item 12) and the noindexed booking
+and terms pages (item 17).
+
+Read this first: the 6 October audit only checked 100 pages, which is the crawl limit set
 on the project. All 62 errors and 108 of the 236 warnings are on the main PHP site
 or come from Cloudflare. Another 59 warnings are the WhatsApp button, which only
 Semrush's own settings can silence. None of that can be changed from this repo, so
@@ -16,7 +32,7 @@ Work top to bottom: the list is in order of how much each fix moves the score.
 
 ## Errors (62)
 
-### 1. "Broken internal links" (26) and "4xx errors" (1)
+### 1. "Broken internal links" (29) and "4xx errors" (1)
 
 Every main-site page links to `https://thedegreegap.com/cdn-cgi/l/email-protection`,
 which returns 404 to crawlers. Cloudflare's Email Address Obfuscation rewrites every
@@ -29,39 +45,46 @@ Fix, either one:
 - Or wrap the address in the main-site footer in `<!--email_off-->` and
   `<!--/email_off-->`, which is what the study site does in `baseof.html`.
 
-### 2. "Broken internal JavaScript and CSS files" (26)
+### 2. "Broken internal JavaScript and CSS files" (29)
 
 Every main-site page loads `https://thedegreegap.com/path/0ee7992.js`, which does not
 exist. It looks like a placeholder `<script src="/path/0ee7992.js">` left in the
 shared main-site layout. Delete the tag, or point it at the real file if something
 depends on it.
 
-### 3. "Duplicate title tag" (4) and "Duplicate meta descriptions" (4)
+### 3. "Duplicate title tag" (5) and "Duplicate meta descriptions" (5)
 
-`/`, `/guest-user/login-form` and `/apply-to-tutor` all carry the homepage's title
-and description.
+`/`, `/guest-user/login-form`, `/guest-user/forgot-password` and `/apply-to-tutor`
+all carry the homepage's title and description.
 
 - `/apply-to-tutor`: give it its own, for example
   `<title>Apply to Tutor GCSE and A-Level Online | The Degree Gap</title>`.
-- `/guest-user/login-form`: add `<meta name="robots" content="noindex">`. A login
-  form should not be in Google at all. This also clears its "missing H1" and "low
-  word count" warnings.
+- `/guest-user/login-form` and `/guest-user/forgot-password`: add
+  `<meta name="robots" content="noindex">` to both. Account pages should not be in
+  Google at all. This also clears their "missing H1", "low word count" and "only
+  one internal link" warnings.
 
 `https://thedegreegap.com` and `https://thedegreegap.com/` show up as two rows. They
 are the same homepage; the pair stops counting once the duplicates above are fixed.
 
-### 4. "Invalid sitemap.xml format" (1)
+### 4. "Invalid sitemap.xml format" (1) and "Orphaned sitemap pages" (1)
 
 `https://thedegreegap.com/sitemap/list_1.xml` does not validate. Regenerate it as a
 standard `<urlset>`, listing only pages that return 200 and are indexable, then check
 it with any XML sitemap validator before resubmitting in Search Console.
 
+The full crawl also calls it orphaned: nothing points crawlers to it. Once it
+validates, add `Sitemap: https://thedegreegap.com/sitemap/list_1.xml` to
+`https://thedegreegap.com/robots.txt`, next to the study sitemap line in the Search
+Console section.
+
 ## Warnings
 
-### 5. "Links lead to HTTP pages" (26), plus most of the 105 "permanent redirects"
+### 5. "Links lead to HTTP pages" (29), "redirect chains" (29) and "permanent redirects" (29)
 
 The main-site header and footer link to old study addresses, each of which costs one
-or two redirects. Swap them for the final URLs in the shared template:
+or two redirects. Where it is two, Semrush counts a redirect chain. Swap them for the
+final URLs in the shared template:
 
 | Now | Should be |
 |---|---|
@@ -77,28 +100,31 @@ or two redirects. Swap them for the final URLs in the shared template:
 (note "thedgereegap"). Change it to
 `https://thedegreegap.com/study/personal-statement-tutor/`.
 
-### 7. "Missing ALT attributes" (26)
+### 7. "Missing ALT attributes" (29)
 
 The main-site header logo `/images/final-logo.svg` has no `alt`. Add
 `alt="The Degree Gap"`.
 
-### 8. "Missing hreflang and lang attributes" (26)
+### 8. "Missing hreflang and lang attributes" (29)
 
 The main-site `<html>` tag has no language. Make it `<html lang="en-GB">`.
 
-### 9. "Low text to HTML ratio" (22 main-site pages) and "Low word count" (4)
+### 9. "Low text to HTML ratio" (23 main-site pages) and "Low word count" (5)
 
 Main-site pages: `/`, `/teachers` and 12 of the `/teachers/languages/...` pages,
 `/faq`, `/aboutus`, `/apply-to-tutor`, `/Troubleshooting`, `/Collaborations`,
-`/gcse-and-a-level-tutoring-reviews` and the login form. Low word count:
-`/guest-user/login-form`, `/gcse-and-a-level-tutoring-reviews`, `/faq`, `/aboutus`.
+`/gcse-and-a-level-tutoring-reviews` and the two account pages. Low word count:
+the two account pages (fixed by item 3's noindex),
+`/gcse-and-a-level-tutoring-reviews`, `/faq`, `/aboutus`.
 Move inline CSS and JS into files, and give `/faq`, `/aboutus` and the reviews page
 real copy (200 words or more each).
 
 ### 10. "Multiple H1 tags" (2 notices)
 
 `/terms-and-conditions` and `/subjects` have more than one H1. Keep one, make the
-rest H2.
+rest H2. `/subjects` is also marked "content not optimized", Semrush's check for
+headings out of order and long, dense paragraphs, so the single H1 should clear
+that too.
 
 ### 11. "Unminified JavaScript and CSS files" (2 left)
 
@@ -106,13 +132,18 @@ rest H2.
 homepage. Minify it in the main site's asset build. The other 60 were the study
 site's `main.js`, now fixed.
 
-### 12. "Broken external links" (60): 59 are WhatsApp
+### 12. "Broken external links": nearly all WhatsApp
 
-59 are the `wa.me` WhatsApp button on study pages. WhatsApp refuses automated
+In the 6 October audit, 59 of 60 were the `wa.me` WhatsApp button on study pages.
+The full crawl flags 2,023 pages for the same reason, because the button is on
+every study page. WhatsApp refuses automated
 crawlers, so Semrush reports an error, but the link works for people. The URL is
 correctly encoded. Do not remove the button: it is an enquiry route. In Semrush,
 open the issue and hide the `wa.me` rows so they stop counting, and tap the button
 once on a phone to be sure. The 60th is the typo in item 6.
+
+The full crawl also found three real broken links in blog source lists (the Sutton
+Trust, AQA and UCAS had moved pages). Those are fixed on the branch.
 
 ## Notices
 
@@ -131,7 +162,7 @@ from WWW to root".
 Cloudflare, **SSL/TLS, Edge Certificates, HTTP Strict Transport Security**. Start
 with a max-age of 6 months and leave preload off until every subdomain is on HTTPS.
 
-### 15. "Links with no anchor text" (50) and "non-descriptive anchor text" (4)
+### 15. "Links with no anchor text" (29 pages) and "non-descriptive anchor text" (3)
 
 Main-site "back to top" links (`#top`) and the homepage's subject cards
 (`/teachers/languages/...`) have no text. Add `aria-label="Back to top"` and, on
@@ -146,11 +177,18 @@ booking) clears it.
 
 ### 17. Expected, no action needed
 
-- "Blocked from crawling" (1): `/study/book-a-call/` is `noindex, follow` on
-  purpose. A booking form does not need to rank.
+- "Blocked from crawling" (84): `/study/book-a-call/`, the 39
+  `/study/book-a-call/?subject=...` links from subject pages and the two webinar
+  terms pages, each on both hosts. All are `noindex, follow` on purpose: a booking
+  form and a terms page do not need to rank. Semrush skips its other checks on
+  these pages, which is also why item 3's noindex clears the account pages.
 - "Disallowed external resources" (1): the Canva embed on `/Collaborations` is
   blocked by Canva's own robots.txt.
-- "Pages with only one internal link" (3) and "content not optimized" (2): minor.
+- "Pages with only one internal link" (3): `/Pricing/gcse-tutoring` is the one
+  worth fixing. A pricing page with a single link is hard for Google to find, so
+  link it from the main-site footer or the homepage's pricing section. The
+  forgot-password page is covered by item 3, and the third (the March webinar)
+  is fixed on the branch.
 
 ### 18. The http homepage errors (from the backlink check)
 
@@ -179,9 +217,8 @@ redirect in one hop to the current edition or its replay page, never to a 404.
 
 ## Semrush settings
 
-- **Raise the crawl limit.** Site Audit, settings (gear), limit of checked pages:
-  at least 2,000. The study site alone has 1,014 indexable pages, so at 100 the
-  health score describes a tenth of the site.
+- **Raise the crawl limit.** Done: the 8 October crawl checked 2,151 pages. Keep
+  it at 2,000 or more; after the www redirect is live the site is about 1,100.
 - **Crawl source:** add `https://thedegreegap.com/study/sitemap.xml` and the main
   sitemap, so pages are found that the 100-page crawl never reached.
 - **Position Tracking:** the tool is switched on for the project but has no
@@ -216,6 +253,21 @@ redirect in one hop to the current edition or its replay page, never to a 404.
    printable templates (in `static/downloads/`, built by
    `scripts/make-revision-sheets.py`) and a footer link to it. The template form
    sends leads to Zoho with Lead Source "Web Download".
+
+7. Three moved source links fixed on eight blog posts: the Sutton Trust's Private
+   Tutoring 2026 report, AQA's 2027 timetable and UCAS's 2027 deadlines.
+8. Low text to HTML ratio cleared on every study page Semrush flagged. The webinar
+   pages and the subjects and jobs hubs load their CSS from cached files instead
+   of carrying it inline (screenshots match the old pages pixel for pixel), and
+   the hubs, the January webinar and the results day replay get a short section
+   of real text. The only study page left under the bar is `/study/gcse-summit/`,
+   which nothing links to, so crawlers never see it.
+9. The Slough GCSE Science page's 163-word paragraph is down to 142 words ("content
+   not optimized"), and the March webinar is linked from the subject-by-subject
+   revision post ("only one internal link").
+10. The CMS now lists every field on the partner pages, the results day replay and
+    the subjects and locations hubs, so saving one of them there no longer
+    strips its tracking, sitemap settings or text.
 
 Deploy with `./scripts/deploy.sh` as usual after reviewing the branch. To check the
 redirect afterwards: `curl -sI https://www.thedegreegap.com/study/locations/` should
