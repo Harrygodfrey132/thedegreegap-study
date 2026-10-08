@@ -517,7 +517,10 @@ collections:
 
   # ===========================================================================
   # 7. REFERRAL / PARTNERSHIP pages
-  # All share the same minimal schema (title, description, layout, robots).
+  # All share the same schema: the editable title, description and robots, plus
+  # hidden copies of every other front matter field. Decap drops fields it is
+  # not told about on save, which used to strip the UTM defaults and the
+  # sitemap and list exclusions.
   # ===========================================================================
   - name: "referrals"
     label: "Referral / partnership pages"
@@ -531,6 +534,19 @@ collections:
           - { name: "description", label: "SEO description", widget: "text" }
           - { name: "layout", label: "Layout", widget: "hidden", default: "school-guide" }
           - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
+          - { name: "utm_source_default", label: "UTM source default", widget: "hidden", default: "schoolguide" }
+          - { name: "utm_medium_default", label: "UTM medium default", widget: "hidden", default: "referral" }
+          - { name: "utm_campaign_default", label: "UTM campaign default", widget: "hidden", default: "untagged-link" }
+          - name: "_build"
+            label: "Build"
+            widget: "object"
+            fields:
+              - { name: "list", label: "List", widget: "hidden", default: "never" }
+          - name: "sitemap"
+            label: "Sitemap"
+            widget: "object"
+            fields:
+              - { name: "disable", label: "Disable", widget: "hidden", default: true }
       - file: "content/referred-by-top-school-guide.md"
         label: "Top School Guide"
         name: "top-school-guide"
@@ -539,6 +555,19 @@ collections:
           - { name: "description", label: "SEO description", widget: "text" }
           - { name: "layout", label: "Layout", widget: "hidden", default: "top-school-guide" }
           - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
+          - { name: "utm_source_default", label: "UTM source default", widget: "hidden", default: "topschoolguide" }
+          - { name: "utm_medium_default", label: "UTM medium default", widget: "hidden", default: "referral" }
+          - { name: "utm_campaign_default", label: "UTM campaign default", widget: "hidden", default: "untagged-link" }
+          - name: "_build"
+            label: "Build"
+            widget: "object"
+            fields:
+              - { name: "list", label: "List", widget: "hidden", default: "never" }
+          - name: "sitemap"
+            label: "Sitemap"
+            widget: "object"
+            fields:
+              - { name: "disable", label: "Disable", widget: "hidden", default: true }
       - file: "content/referred-by-snap-revise.md"
         label: "Snap Revise"
         name: "snap-revise"
@@ -547,6 +576,19 @@ collections:
           - { name: "description", label: "SEO description", widget: "text" }
           - { name: "layout", label: "Layout", widget: "hidden", default: "snap-revise" }
           - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
+          - { name: "utm_source_default", label: "UTM source default", widget: "hidden", default: "snaprevise" }
+          - { name: "utm_medium_default", label: "UTM medium default", widget: "hidden", default: "referral" }
+          - { name: "utm_campaign_default", label: "UTM campaign default", widget: "hidden", default: "untagged-link" }
+          - name: "_build"
+            label: "Build"
+            widget: "object"
+            fields:
+              - { name: "list", label: "List", widget: "hidden", default: "never" }
+          - name: "sitemap"
+            label: "Sitemap"
+            widget: "object"
+            fields:
+              - { name: "disable", label: "Disable", widget: "hidden", default: true }
       - file: "content/referred-by-daily-info.md"
         label: "Daily Info"
         name: "daily-info"
@@ -555,6 +597,19 @@ collections:
           - { name: "description", label: "SEO description", widget: "text" }
           - { name: "layout", label: "Layout", widget: "hidden", default: "daily-info" }
           - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
+          - { name: "utm_source_default", label: "UTM source default", widget: "hidden", default: "dailyinfo" }
+          - { name: "utm_medium_default", label: "UTM medium default", widget: "hidden", default: "referral" }
+          - { name: "utm_campaign_default", label: "UTM campaign default", widget: "hidden", default: "untagged-link" }
+          - name: "_build"
+            label: "Build"
+            widget: "object"
+            fields:
+              - { name: "list", label: "List", widget: "hidden", default: "never" }
+          - name: "sitemap"
+            label: "Sitemap"
+            widget: "object"
+            fields:
+              - { name: "disable", label: "Disable", widget: "hidden", default: true }
       - file: "content/referred-by-exam-essentials.md"
         label: "ExamEssentials"
         name: "exam-essentials"
@@ -563,6 +618,19 @@ collections:
           - { name: "description", label: "SEO description", widget: "text" }
           - { name: "layout", label: "Layout", widget: "hidden", default: "exam-essentials" }
           - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
+          - { name: "utm_source_default", label: "UTM source default", widget: "hidden", default: "examessentials" }
+          - { name: "utm_medium_default", label: "UTM medium default", widget: "hidden", default: "referral" }
+          - { name: "utm_campaign_default", label: "UTM campaign default", widget: "hidden", default: "untagged-link" }
+          - name: "_build"
+            label: "Build"
+            widget: "object"
+            fields:
+              - { name: "list", label: "List", widget: "hidden", default: "never" }
+          - name: "sitemap"
+            label: "Sitemap"
+            widget: "object"
+            fields:
+              - { name: "disable", label: "Disable", widget: "hidden", default: true }
       - file: "content/referred-by-oxford-mt.md"
         label: "Oxford MT"
         name: "oxford-mt"
@@ -571,6 +639,19 @@ collections:
           - { name: "description", label: "SEO description", widget: "text" }
           - { name: "layout", label: "Layout", widget: "hidden", default: "oxford-mt" }
           - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
+          - { name: "utm_source_default", label: "UTM source default", widget: "hidden", default: "oxfordmt" }
+          - { name: "utm_medium_default", label: "UTM medium default", widget: "hidden", default: "referral" }
+          - { name: "utm_campaign_default", label: "UTM campaign default", widget: "hidden", default: "untagged-link" }
+          - name: "_build"
+            label: "Build"
+            widget: "object"
+            fields:
+              - { name: "list", label: "List", widget: "hidden", default: "never" }
+          - name: "sitemap"
+            label: "Sitemap"
+            widget: "object"
+            fields:
+              - { name: "disable", label: "Disable", widget: "hidden", default: true }
       - file: "content/referred-by-parent-guide-to-gcse.md"
         label: "Parent Guide to GCSE"
         name: "parent-guide-to-gcse"
@@ -579,6 +660,19 @@ collections:
           - { name: "description", label: "SEO description", widget: "text" }
           - { name: "layout", label: "Layout", widget: "hidden", default: "parent-guide-to-gcse" }
           - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
+          - { name: "utm_source_default", label: "UTM source default", widget: "hidden", default: "parentguidetogcse" }
+          - { name: "utm_medium_default", label: "UTM medium default", widget: "hidden", default: "referral" }
+          - { name: "utm_campaign_default", label: "UTM campaign default", widget: "hidden", default: "untagged-link" }
+          - name: "_build"
+            label: "Build"
+            widget: "object"
+            fields:
+              - { name: "list", label: "List", widget: "hidden", default: "never" }
+          - name: "sitemap"
+            label: "Sitemap"
+            widget: "object"
+            fields:
+              - { name: "disable", label: "Disable", widget: "hidden", default: true }
       - file: "content/referred-by-tutor-wiz.md"
         label: "Tutorwiz"
         name: "tutor-wiz"
@@ -587,6 +681,42 @@ collections:
           - { name: "description", label: "SEO description", widget: "text" }
           - { name: "layout", label: "Layout", widget: "hidden", default: "tutor-wiz" }
           - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
+          - { name: "utm_source_default", label: "UTM source default", widget: "hidden", default: "tutorwiz" }
+          - { name: "utm_medium_default", label: "UTM medium default", widget: "hidden", default: "referral" }
+          - { name: "utm_campaign_default", label: "UTM campaign default", widget: "hidden", default: "untagged-link" }
+          - name: "_build"
+            label: "Build"
+            widget: "object"
+            fields:
+              - { name: "list", label: "List", widget: "hidden", default: "never" }
+          - name: "sitemap"
+            label: "Sitemap"
+            widget: "object"
+            fields:
+              - { name: "disable", label: "Disable", widget: "hidden", default: true }
+      - file: "content/referred-by-em-shortis-tuition.md"
+        label: "EM Shortis Tuition"
+        name: "em-shortis-tuition"
+        fields:
+          - { name: "title", label: "SEO title", widget: "string" }
+          - { name: "description", label: "SEO description", widget: "text" }
+          - { name: "partner_name", label: "Partner name (badge, form label, email subject)", widget: "string" }
+          - { name: "partner_url", label: "Partner website", widget: "string", required: false }
+          - { name: "layout", label: "Layout", widget: "hidden", default: "em-shortis-tuition" }
+          - { name: "robots", label: "Robots", widget: "string", default: "noindex, follow" }
+          - { name: "utm_source_default", label: "UTM source default", widget: "hidden", default: "emshortistuition" }
+          - { name: "utm_medium_default", label: "UTM medium default", widget: "hidden", default: "referral" }
+          - { name: "utm_campaign_default", label: "UTM campaign default", widget: "hidden", default: "untagged-link" }
+          - name: "_build"
+            label: "Build"
+            widget: "object"
+            fields:
+              - { name: "list", label: "List", widget: "hidden", default: "never" }
+          - name: "sitemap"
+            label: "Sitemap"
+            widget: "object"
+            fields:
+              - { name: "disable", label: "Disable", widget: "hidden", default: true }
 
   # ===========================================================================
   # 8. PAST PAPERS — section + subject + board pages
