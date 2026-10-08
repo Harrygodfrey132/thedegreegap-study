@@ -9,13 +9,17 @@
      need a subject outside the sciences, to this page.
 
      The business name comes from partner_name in the front matter, so it can
-     be corrected in one place. Save Ellen's logo to
-     static/images/partners/em-shortis-tuition-logo.png and the badge picks it
-     up on the next build; until then it shows the name as a text wordmark. */}}
+     be corrected in one place. Save Ellen's logo in static/images/partners/
+     as em-shortis-tuition-logo with any of the extensions below and the badge
+     picks it up on the next build; until then it shows the name as a text
+     wordmark. */}}
 {{ $partner := .Params.partner_name | default "EM Shortis Tuition" }}
 {{ $partnerURL := .Params.partner_url }}
-{{ $logoPath := "images/partners/em-shortis-tuition-logo.png" }}
-{{ $hasLogo := os.FileExists (printf "static/%s" $logoPath) }}
+{{ $logoPath := "" }}
+{{ range slice "svg" "png" "webp" "jpg" }}
+  {{ $candidate := printf "images/partners/em-shortis-tuition-logo.%s" . }}
+  {{ if and (not $logoPath) (os.FileExists (printf "static/%s" $candidate)) }}{{ $logoPath = $candidate }}{{ end }}
+{{ end }}
 
 <section class="book-call book-call--em-shortis-tuition">
   <div class="container book-call__container">
@@ -29,7 +33,7 @@
         <span class="book-call__endorsement" role="img" aria-label="In partnership with {{ $partner }}">
         {{ end }}
           <span class="book-call__endorsement-label">In partnership with</span>
-          {{ if $hasLogo }}
+          {{ if $logoPath }}
             <img src="{{ $logoPath | relURL }}" alt="{{ $partner }}" height="42" loading="lazy">
           {{ else }}
             <span class="book-call__endorsement-wordmark">{{ $partner }}</span>
