@@ -31,11 +31,19 @@
       <img src="{{ "images/co-founders-panel.jpg" | relURL }}"
            alt="Harry Godfrey and Joe Clark, co-founders of The Degree Gap"
            width="580" height="1076" loading="lazy" decoding="async">
-      <span class="cbp__sticker" aria-hidden="true"><strong>50%</strong>off</span>
       <figcaption>Harry &amp; Joe, co-founders</figcaption>
     </figure>
 
     <div class="cbp__body">
+      {{ $photo := "images/co-founders-panel.jpg" | relURL }}
+      <div class="cbp__founders" aria-hidden="true">
+        <span class="cbp__faces">
+          <span class="cbp__face cbp__face--harry" style="background-image:url('{{ $photo }}')"></span>
+          <span class="cbp__face cbp__face--joe" style="background-image:url('{{ $photo }}')"></span>
+        </span>
+        <span class="cbp__founders-name"><strong>Harry &amp; Joe</strong>Co-founders, The Degree Gap</span>
+      </div>
+
       {{/* Step 1: the offer. */}}
       <div class="cbp__step" data-cbp-step="offer">
         <p class="cbp__eyebrow">October 2026 Discount</p>
