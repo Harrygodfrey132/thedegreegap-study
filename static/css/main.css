@@ -10408,6 +10408,45 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   background: #FFFFFF;
   box-shadow: 0 0 0 3px rgba(128, 0, 32, 0.14);
 }
+/* "How it works" on the offer step. */
+.cbp__how {
+  margin: 0 0 8px;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #2B2321;
+}
+.cbp__steps { list-style: none; margin: 0 0 16px; padding: 0; }
+.cbp__steps li {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin-bottom: 8px;
+  font-size: 13.5px;
+  line-height: 1.4;
+  color: #2B2321;
+}
+.cbp__steps span {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #800020;
+  color: #FDF6F5;
+  font-size: 11px;
+  font-weight: 800;
+}
+.cbp__note {
+  margin: 0 0 16px;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #5C4A47;
+}
+
 /* The code drops down into place once the details are in. */
 .cbp__code {
   display: flex;
@@ -10543,6 +10582,7 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   .cbp__points { margin-bottom: 18px; }
   .cbp__points li { font-size: 13px; }
   .cbp__cta { height: 48px; font-size: 14.5px; }
+  .cbp__steps li { font-size: 13px; margin-bottom: 7px; }
 }
 
 @media (prefers-reduced-motion: reduce) {
