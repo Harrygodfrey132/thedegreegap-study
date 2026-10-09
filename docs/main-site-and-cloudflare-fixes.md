@@ -211,6 +211,10 @@ site's `.htaccess` as 301s:
 | `/electrophiles-in-organic-chemistry/` | `/understanding-electrophiles-in-organic-chemistry` |
 | `/electrophiles/` | `/understanding-electrophiles-in-organic-chemistry` |
 
+The old site's town pages (`/areas-we-cover/...`) that have a matching town page
+on the new site are covered separately, with a ready-made redirect list:
+`docs/old-location-redirects.md`.
+
 Also keep the short webinar addresses schools link to (`/gcse-summit`,
 `/gcse-exams-webinar`, `/gcse-mocks-webinar`) answering for good: each should
 redirect in one hop to the current edition or its replay page, never to a 404.

@@ -1,0 +1,38 @@
+# ---------------------------------------------------------------------------
+# Old "areas we cover" town pages that compete with the town pages on
+# thedegreegap.com/study/. Each one goes, permanently, to the same town's
+# tutors page there (Chorlton, Rusholme and the Northern Quarter to
+# Manchester). List and reasons: docs/old-location-redirects.md in the study
+# site repo.
+#
+# Paste this block into the main site's root .htaccess, straight after the
+# first "RewriteEngine on" line, so it runs before the rule that hands every
+# request to public/.
+# ---------------------------------------------------------------------------
+RewriteRule ^areas-we-cover/aldershot-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/aldershot-tutors/ [R=301,L,NC]
+RewriteRule ^areas-we-cover/bicester-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/bicester-tutors/ [R=301,L,NC]
+RewriteRule ^areas-we-cover/birmingham-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/birmingham-tutors/ [R=301,L,NC]
+RewriteRule ^areas-we-cover/cambridge-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/cambridge-tutors/ [R=301,L,NC]
+RewriteRule ^areas-we-cover/canterbury-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/canterbury-tutors/ [R=301,L,NC]
+RewriteRule ^areas-we-cover/chelmsford-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/chelmsford-tutors/ [R=301,L,NC]
+RewriteRule ^areas-we-cover/chorlton-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/manchester-tutors/ [R=301,L,NC]
+RewriteRule ^areas-we-cover/cobham-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/cobham-tutors/ [R=301,L,NC]
+RewriteRule ^areas-we-cover/didsbury-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/didsbury-tutors/ [R=301,L,NC]
+RewriteRule ^areas-we-cover/epsom-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/epsom-tutors/ [R=301,L,NC]
+RewriteRule ^areas-we-cover/henley-on-thames-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/henley-on-thames-tutors/ [R=301,L,NC]
+RewriteRule ^areas-we-cover/kenilworth-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/kenilworth-tutors/ [R=301,L,NC]
+RewriteRule ^areas-we-cover/letchworth-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/letchworth-tutors/ [R=301,L,NC]
+RewriteRule ^areas-we-cover/loughborough-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/loughborough-tutors/ [R=301,L,NC]
+RewriteRule ^areas-we-cover/manchester-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/manchester-tutors/ [R=301,L,NC]
+RewriteRule ^areas-we-cover/marlow-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/marlow-tutors/ [R=301,L,NC]
+RewriteRule ^areas-we-cover/northern-quarter-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/manchester-tutors/ [R=301,L,NC]
+RewriteRule ^areas-we-cover/royal-leamington-spa-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/royal-leamington-spa-tutors/ [R=301,L,NC]
+RewriteRule ^areas-we-cover/rusholme-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/manchester-tutors/ [R=301,L,NC]
+RewriteRule ^areas-we-cover/stockport-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/stockport-tutors/ [R=301,L,NC]
+RewriteRule ^areas-we-cover/stratford-upon-avon-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/stratford-upon-avon-tutors/ [R=301,L,NC]
+RewriteRule ^areas-we-cover/sunbury-on-thames-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/sunbury-on-thames-tutors/ [R=301,L,NC]
+RewriteRule ^areas-we-cover/sutton-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/sutton-tutors/ [R=301,L,NC]
+RewriteRule ^areas-we-cover/tamworth-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/tamworth-tutors/ [R=301,L,NC]
+RewriteRule ^areas-we-cover/warwick-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/warwick-tutors/ [R=301,L,NC]
+RewriteRule ^areas-we-cover/watford-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/watford-tutors/ [R=301,L,NC]
+RewriteRule ^areas-we-cover/york-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/york-tutors/ [R=301,L,NC]
