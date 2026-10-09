@@ -25,6 +25,14 @@ pages such as `/study/locations/manchester-tutors/gcse/maths/`.
 The other 54 old town pages have no page for their town on the new site, so they compete with
 nothing. Leave them where they are for now (see the end of this file).
 
+**Applied 2026-10-09 with Option 2.** The block is in the main site's
+`/var/www/html/.htaccess`, straight after the first `RewriteEngine on` line. The
+file before the change is `/var/www/html/.htaccess.bak-1791543061`. All 50
+addresses in the CSV answered one 301 to their town page, every target answered
+200, and the main site's homepage, `/teachers`, `/Pricing`, `/aboutus`,
+`/areas-we-cover` and `/apply-to-tutor` still answered 200. Do not also set up
+Option 1.
+
 Pick one of the two ways below to switch the redirects on, not both.
 
 ## Option 1: Cloudflare (no server access needed)
