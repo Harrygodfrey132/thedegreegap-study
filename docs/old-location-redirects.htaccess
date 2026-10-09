@@ -5,6 +5,10 @@
 # Manchester). List and reasons: docs/old-location-redirects.md in the study
 # site repo.
 #
+# Each rule matches one exact address (with or without a trailing slash) and
+# nothing else, so no subject page and nothing below these addresses is
+# touched.
+#
 # Paste this block into the main site's root .htaccess, straight after the
 # first "RewriteEngine on" line, so it runs before the rule that hands every
 # request to public/.
@@ -23,6 +27,7 @@ RewriteRule ^areas-we-cover/henley-on-thames-gcse-a-level-tutoring/?$ https://th
 RewriteRule ^areas-we-cover/kenilworth-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/kenilworth-tutors/ [R=301,L,NC]
 RewriteRule ^areas-we-cover/letchworth-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/letchworth-tutors/ [R=301,L,NC]
 RewriteRule ^areas-we-cover/loughborough-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/loughborough-tutors/ [R=301,L,NC]
+RewriteRule ^areas-we-cover/luton-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/luton-tutors/ [R=301,L,NC]
 RewriteRule ^areas-we-cover/manchester-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/manchester-tutors/ [R=301,L,NC]
 RewriteRule ^areas-we-cover/marlow-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/marlow-tutors/ [R=301,L,NC]
 RewriteRule ^areas-we-cover/northern-quarter-gcse-a-level-tutoring/?$ https://thedegreegap.com/study/locations/manchester-tutors/ [R=301,L,NC]
