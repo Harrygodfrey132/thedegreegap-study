@@ -367,6 +367,8 @@
       add('aG9uZXlwb3Q', '');
       add('Last Name', name || 'Parent');
       add('Phone', phone);
+      /* Type of lead. Must match the Zoho picklist value exactly. */
+      add('LEADCF5', 'Customer');
       add('LEADCF3', 'Unsure');
       add('Description', 'October 2026 Discount: shown code ' + CODE + ' (50% off first session, first-time customers only) on the website pop-up at ' + window.location.pathname + '. Text them the code.');
       add('Lead Source', LEAD_SOURCE);
