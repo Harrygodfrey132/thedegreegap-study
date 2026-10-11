@@ -56,7 +56,7 @@ year_groups:
   - "Year 11 resit|Year 11 resit"
   - "Unsure|Other, or not sure"
 terms_url: "webinar-terms/"
-form_fine_print: "We email the joining link, a reminder, the replay and the follow-up resources, plus invitations to our other free webinars. Unsubscribe any time. We ask a parent for a phone number so we can text a reminder, and we never ask a student for one."
+form_fine_print: "We email the joining link, a reminder, the replay and the follow-up resources, plus invitations to our other free webinars. Unsubscribe any time."
 # Everyone who does not go on to book a call lands on the plain confirmation,
 # which reads its date from this page (webinar_ref in content/webinar-thanks.md).
 redirect_default: "webinar-thanks/"
@@ -90,7 +90,7 @@ included_heading: "What is included"
 included_sub: "Free for everyone. Here is what a family gets, and what a school gets if it shares the link."
 included_families:
   - "The 45-minute masterclass|Practical advice from Harry and Joe, built around the questions parents ask us most."
-  - "A live Q&A at the end|Type your question into the chat. Nobody has to speak or switch a camera on."
+  - "A live Q&A at the end|Put your questions in the chat, and Harry and Joe will answer them live."
   - "The replay by email|Sent the next day to everyone who registers, whether or not you watch live."
   - "A free mock feedback sheet|So your child can look back at each paper and work out where the marks went."
 included_schools:
@@ -164,7 +164,7 @@ event_description: "A free 45-minute online masterclass for Year 10 and 11 stude
 lead_source: "November 2026 Webinar"
 # "How the evening runs" as a timeline: one step per line, When|Title|Detail.
 schedule:
-  - "7pm|A short welcome|Harry and Joe say who they are and what the hour covers. There is nothing to buy and nobody is put on the spot."
+  - "7pm|A short welcome|Harry and Joe introduce themselves and run through what's coming up."
   - "About 45 minutes|The masterclass|The five areas above, using real examples from the families and students we work with. We stop halfway through to answer the questions coming in on the chat."
   - "Until 8pm|Live Q&A|The rest of the hour is for your questions, whatever stage your child is at."
 
@@ -177,13 +177,13 @@ faqs:
   - q: "Can my child watch with me?"
     a: "Yes, and we would encourage it. Students can also register for themselves."
   - q: "Do I have to speak or appear on camera?"
-    a: "No. Questions go in the chat, and nobody is asked to speak or switch a camera on."
+    a: "No. You just watch, and type any questions into the chat."
   - q: "I can't make the evening. Should I still register?"
     a: "Yes. Everyone who registers gets the replay by email the next day."
-  - q: "Is there a cost, now or later?"
-    a: "No. The session, the replay and the resources are free, and nothing has to be bought at any point."
-  - q: "Will you call me about tutoring?"
-    a: "Only if you tick the box asking us to. If you already know one subject is holding things back, you can [book a free consultation](/book-a-call/) with Joe or Harry, or read about our tutors in [GCSE Maths](/subjects/gcse-maths-tutor/), [GCSE English](/subjects/gcse-english-tutor/) and [GCSE Science](/subjects/gcse-science-tutor/)."
+  - q: "Does it cost anything?"
+    a: "No. The session, the replay and the resources are all free."
+  - q: "Can I talk to you about tutoring?"
+    a: "Of course. Tick the box on the form and we'll get in touch. Or if you already know one subject is holding things back, [book a free consultation](/book-a-call/) with Joe or Harry, or read about our tutors in [GCSE Maths](/subjects/gcse-maths-tutor/), [GCSE English](/subjects/gcse-english-tutor/) and [GCSE Science](/subjects/gcse-science-tutor/)."
   - q: "I work in a school. Can I share it?"
     a: "Yes, please do. Forward the email you received, or use the [ready-made parent email and website text](#for-schools) below."
 faq_more: "Anything else? Email <a href=\"mailto:admin@thedegreegap.com\">admin@thedegreegap.com</a>."
