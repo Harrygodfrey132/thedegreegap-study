@@ -95,7 +95,7 @@ included_families:
   - "A free mock feedback sheet|So your child can look back at each paper and work out where the marks went."
 included_schools:
   - "Nothing to organise|We run the session and handle registration, joining links and reminders."
-  - "Ready-made wording|A parent email and a short post for your school website, [at the bottom of this page](#for-schools), each with a copy button."
+  - "Ready-made wording|A parent email and a short post for your school website, [near the top of this page](#for-schools), each with a copy button."
   # Matches recommendation 2 of the EEF guidance report "Working with Parents
   # to Support Children's Learning": provide practical strategies to support
   # learning at home. The Gatsby Benchmarks were considered and left out: they
@@ -116,13 +116,24 @@ mid_cta_2_label: "Save my place"
 end_cta_heading: "Save your free place"
 end_cta_lead: "Tuesday 24 November, 7 to 8pm. Register to get the joining link, and the replay if you can't make it live."
 
-# "For schools" section at the bottom of the page, each block with a copy
+# "For schools" section, straight after the hero (schools_position: top)
+# because getting schools to share the page matters most. Each block has a copy
 # button. School emails point teachers here instead of carrying an invite
 # below the line. The copy keeps the links, so they stay clickable when a
 # teacher pastes into an email or the school's website editor. Wording from the
 # Webinar Campaign Playbook 2026-27.
-schools_heading: "For schools"
-schools_lead: "Thank you for sharing the masterclass with your families. There is nothing for the school to organise. Copy whichever you need below, and edit it however you like."
+schools_position: "top"
+schools_eyebrow: "For schools"
+# Beside the review badges, just above the ask to share: "Bold part|rest".
+# The award as the rest of the site words it. Attendance from Harry (11 Oct
+# 2026): January 2026 was given as 2,600 and as 2,500 people joining, March
+# 2026 as 2,300, September 2026 as 565. "2,500+" holds for either January
+# figure; make it exact once confirmed.
+schools_proof:
+  - "GCSE Tutoring Specialists|of the Year 2025 and 2026"
+  - "2,500+ people|joined our January 2026 webinar"
+schools_heading: "Sharing this with your families?"
+schools_lead: "Thank you. There's nothing for the school to organise. Copy the email or the website text below, and edit it however you like."
 schools_parent_email_subject: "Free revision webinar for Year 10 and 11 families, Tuesday 24 November"
 # Remove schools_parent_email (and its subject) after the webinar: the replay
 # page only needs the website text.
@@ -185,7 +196,7 @@ faqs:
   - q: "Can I talk to you about tutoring?"
     a: "Of course. Tick the box on the form and we'll get in touch. Or if you already know one subject is holding things back, [book a free consultation](/book-a-call/) with Joe or Harry, or read about our tutors in [GCSE Maths](/subjects/gcse-maths-tutor/), [GCSE English](/subjects/gcse-english-tutor/) and [GCSE Science](/subjects/gcse-science-tutor/)."
   - q: "I work in a school. Can I share it?"
-    a: "Yes, please do. Forward the email you received, or use the [ready-made parent email and website text](#for-schools) below."
+    a: "Yes, please do. Forward the email you received, or use the [ready-made parent email and website text](#for-schools) near the top of this page."
 faq_more: "Anything else? Email <a href=\"mailto:admin@thedegreegap.com\">admin@thedegreegap.com</a>."
 sitemap:
   priority: 0.7

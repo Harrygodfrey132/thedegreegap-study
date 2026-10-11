@@ -661,3 +661,33 @@
     .gs-field--optin:not([hidden]), .gs-faq__item[open] .gs-faq__a { animation: none; }
     .gs-faq__icon, .gs-faq__icon::before, .gs-faq__icon::after { transition: none; }
   }
+
+  /* ---------- FOR SCHOOLS, straight after the hero ---------- */
+  /* schools_position: "top". The two blocks sit side by side on a wide screen,
+     and the long texts are clipped to a preview by the page script, so a
+     parent can scroll past quickly. */
+  .gs-forschools--top { border-top: 0; padding: 48px 16px 54px; }
+  @media (min-width: 760px) { .gs-forschools--top { padding: 64px 24px 70px; } }
+  .gs-forschools--top .gs-forschools__inner { max-width: 1080px; }
+  .gs-forschools__eyebrow { margin: 0 0 10px; text-align: center; font-size: .72rem; font-weight: 800; letter-spacing: .16em; text-transform: uppercase; color: var(--burgundy); }
+  .gs-forschools--top .gs-forschools__lead { max-width: 620px; margin-left: auto; margin-right: auto; }
+  @media (min-width: 980px) {
+    .gs-forschools--top .gs-forschools__grid { display: grid; grid-template-columns: 1fr 1fr; gap: 22px; align-items: start; }
+  }
+  .gs-forschools--top .gs-share__note { text-align: center; }
+  .gs-share__text--rich.is-clipped { position: relative; max-height: 200px; overflow: hidden; }
+  .gs-share__text--rich.is-clipped::after {
+    content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 76px; pointer-events: none;
+    background: linear-gradient(rgba(255,255,255,0), #fff 85%);
+  }
+  .gs-share__more {
+    min-height: 44px; padding: 10px 4px; border: 0; background: none; cursor: pointer;
+    font-family: inherit; font-size: .88rem; font-weight: 700; color: var(--burgundy);
+    text-decoration: underline; text-underline-offset: 2px;
+  }
+  .gs-share__more:focus-visible { outline: 2px solid var(--burgundy); outline-offset: 2px; border-radius: 4px; }
+  /* The short row of proof above the ask to share. */
+  .gs-forschools__proof { display: flex; flex-wrap: wrap; justify-content: center; align-items: stretch; gap: 8px; margin: 0 0 30px; padding: 0 0 26px; border-bottom: 1px solid var(--line); }
+  .gs-forschools__proof .gs-proof { display: contents; }
+  .gs-badge--stat { background: transparent; border-color: transparent; padding-left: 8px; }
+  .gs-badge--stat .gs-badge__top b { font-size: .92rem; }

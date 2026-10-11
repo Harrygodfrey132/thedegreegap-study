@@ -124,6 +124,10 @@
     </div>
   </section>
 
+  {{/* A page that needs schools to share it sets schools_position: "top",
+       which brings the ready-made email and website text up to here. */}}
+  {{ if eq .Params.schools_position "top" }}{{ partial "webinar-schools.html" . }}{{ end }}
+
   {{ if and .Params.speaker_name (not $heroForm) }}{{ partial "webinar-speaker.html" (dict "page" . "eager" true) }}{{ end }}
 
   <!-- OUTCOMES -->
@@ -340,7 +344,7 @@
   </section>
   {{ end }}
 
-  {{ partial "webinar-schools.html" . }}
+  {{ if ne .Params.schools_position "top" }}{{ partial "webinar-schools.html" . }}{{ end }}
 
   <div class="gs-back"><a href="{{ "webinars/" | relURL }}">← See all The Degree Gap webinars</a></div>
 
@@ -413,6 +417,33 @@
         /* Selecting the rendered text copies it formatted, links included. */
         say(selectCopy(src) ? 'Copied.' : FAIL);
       });
+    });
+  })();
+
+  /* Near the top of the page, the school email and website text show as a
+     preview, so a parent scrolling past isn't faced with a full email. "Show
+     the full text" opens one. The copy buttons always copy all of it. Without
+     the script nothing is clipped. */
+  (function () {
+    document.querySelectorAll('.gs-forschools--top .gs-share__text--rich').forEach(function (box) {
+      /* A height of 0 means the page hasn't been laid out yet: clip anyway,
+         since these texts are long. */
+      if (box.scrollHeight && box.scrollHeight <= 260) return;
+      var row = box.nextElementSibling;
+      if (!row || !row.classList.contains('gs-share__row')) return;
+      box.classList.add('is-clipped');
+      var more = document.createElement('button');
+      more.type = 'button';
+      more.className = 'gs-share__more';
+      more.textContent = 'Show the full text';
+      more.setAttribute('aria-expanded', 'false');
+      if (box.id) more.setAttribute('aria-controls', box.id);
+      more.addEventListener('click', function () {
+        var open = !box.classList.toggle('is-clipped');
+        more.textContent = open ? 'Show less' : 'Show the full text';
+        more.setAttribute('aria-expanded', open ? 'true' : 'false');
+      });
+      row.insertBefore(more, row.querySelector('[data-gs-copy-status]'));
     });
   })();
 

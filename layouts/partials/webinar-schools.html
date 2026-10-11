@@ -5,6 +5,16 @@
 
      Params, all optional (the section only shows when one of the two blocks
      is set):
+       schools_position               "top" puts the section straight after the
+                                      hero, for a page that needs schools to
+                                      share it. There the two blocks sit side
+                                      by side on a wide screen, and each long
+                                      text shows as a preview a parent can
+                                      scroll past. Anything else: the bottom.
+       schools_eyebrow                small label above the heading
+       schools_proof                  list of "Bold part|rest", shown beside the
+                                      review badges in the short row of proof
+                                      above a "top" section, before the ask
        schools_heading, schools_lead, schools_note
        schools_parent_email_subject   subject line, with its own copy button
        schools_parent_email           markdown, the email body
@@ -15,13 +25,26 @@
      links are still clickable when a teacher pastes into ParentMail, an email
      or the website editor. */}}
 {{ $p := .Params }}
+{{ $top := eq $p.schools_position "top" }}
 {{ if or $p.schools_parent_email $p.schools_website }}
   <!-- FOR SCHOOLS -->
-  <section class="gs-forschools" id="for-schools">
+  <section class="gs-forschools{{ if $top }} gs-forschools--top{{ end }}" id="for-schools">
     <div class="gs-forschools__inner">
+      {{ if $top }}
+      {{/* A little proof before the ask to share: the review badges and,
+           where the page gives one, a figure. */}}
+      <div class="gs-forschools__proof">
+        {{ partial "webinar-proof.html" . }}
+        {{ range $p.schools_proof }}{{ $st := split . "|" }}
+        <span class="gs-badge gs-badge--stat"><span class="gs-badge__text"><span class="gs-badge__top"><b>{{ index $st 0 }}</b></span>{{ if gt (len $st) 1 }}<span class="gs-badge__sub">{{ index $st 1 }}</span>{{ end }}</span></span>
+        {{ end }}
+      </div>
+      {{ end }}
+      {{ with $p.schools_eyebrow }}<p class="gs-forschools__eyebrow">{{ . }}</p>{{ end }}
       <h2>{{ $p.schools_heading | default "For schools" }}</h2>
       {{ with $p.schools_lead }}<p class="gs-forschools__lead">{{ . }}</p>{{ end }}
 
+      <div class="gs-forschools__grid">
       {{ with $p.schools_parent_email }}
       <div class="gs-share">
         <h3>Ready-made email for parents</h3>
@@ -63,6 +86,7 @@
         </div>
       </div>
       {{ end }}
+      </div>
 
       {{ with $p.schools_note }}<p class="gs-share__note">{{ . | safeHTML }}</p>{{ end }}
     </div>
