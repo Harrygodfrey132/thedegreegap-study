@@ -54,21 +54,6 @@
         <h1>{{ $h1 }}</h1>
         <p class="gs-hero__lead">{{ $lead }}</p>
         {{ if $heroForm }}
-          {{ with .Params.speaker_name }}
-          <div class="gs-hspk">
-            {{ with $.Params.speaker_photo }}
-            <img class="gs-hspk__img" src="{{ (strings.TrimPrefix "/" .) | relURL }}" alt="{{ $.Params.speaker_name }}" width="92" height="92" loading="eager" fetchpriority="high" decoding="async">
-            {{ end }}
-            <div class="gs-hspk__body">
-              <p class="gs-hspk__eyebrow">{{ $.Params.speaker_eyebrow | default "Led by" }}</p>
-              <p class="gs-hspk__name">{{ . }}</p>
-              {{ with $.Params.speaker_role }}<p class="gs-hspk__role">{{ . }}</p>{{ end }}
-              {{ with $.Params.speaker_credentials }}
-              <ul class="gs-hspk__creds">{{ range . }}<li>{{ . }}</li>{{ end }}</ul>
-              {{ end }}
-            </div>
-          </div>
-          {{ end }}
           <div class="gs-when">
             <div class="gs-when__row">
               <svg class="gs-when__ico" viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M16 3v4M8 3v4M3 11h18"/></svg>
@@ -115,6 +100,26 @@
           "title" (.Params.hero_form_title | default "Save your place")
           "sub" (.Params.hero_form_sub | default "Free to attend. We will email you the joining link.")) }}
       </div>
+      {{ with .Params.speaker_name }}
+      {{/* After the form in the markup, so on a phone the form comes straight
+           after the date instead of below the speaker. From 980px the grid in
+           webinar.css puts it back in the left column, under the date. */}}
+      <div class="gs-hero__aside">
+        <div class="gs-hspk">
+          {{ with $.Params.speaker_photo }}
+          <img class="gs-hspk__img" src="{{ (strings.TrimPrefix "/" .) | relURL }}" alt="{{ $.Params.speaker_name }}" width="92" height="92" loading="eager" decoding="async">
+          {{ end }}
+          <div class="gs-hspk__body">
+            <p class="gs-hspk__eyebrow">{{ $.Params.speaker_eyebrow | default "Led by" }}</p>
+            <p class="gs-hspk__name">{{ . }}</p>
+            {{ with $.Params.speaker_role }}<p class="gs-hspk__role">{{ . }}</p>{{ end }}
+            {{ with $.Params.speaker_credentials }}
+            <ul class="gs-hspk__creds">{{ range . }}<li>{{ . }}</li>{{ end }}</ul>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+      {{ end }}
       {{ end }}
     </div>
   </section>
@@ -146,9 +151,48 @@
 
   {{ if $heroForm }}
   {{/* Split-hero pages: the form is in the hero, so the page reads what is
-       covered, who is running it, what a school gets, then proof, then one
-       last route back to the form. */}}
-  <div class="gs-jump">
+       covered, then what parents said about earlier sessions (where a parent
+       decides whether the hour is worth it), a route back to the form, who is
+       running it, what a family and a school get, how the evening runs, the
+       common questions, and one last route back to the form. */}}
+  <!-- REVIEWS -->
+  <section class="gs-rev gs-rev--cta">
+    <div class="gs-rev__inner">
+      <div class="gs-rev__head">
+        <p class="gs-rev__eyebrow">{{ .Params.reviews_eyebrow | default "What families say" }}</p>
+        {{ partial "webinar-proof.html" . }}
+      </div>
+      {{ with .Params.reviews }}
+      {{ $shown := first 3 . }}
+      {{ $rest := after 3 . }}
+      <div class="gs-rev__grid">
+        {{ range $shown }}{{ $r := split . "|" }}
+        <figure class="gs-rev__item">
+          <span class="gs-rev__quote" aria-hidden="true">&ldquo;</span>
+          <blockquote>{{ index $r 2 }}</blockquote>
+          <figcaption><b>{{ index $r 0 }}</b>{{ with index $r 1 }}<span>{{ . }}</span>{{ end }}</figcaption>
+        </figure>
+        {{ end }}
+      </div>
+      {{ with $rest }}
+      <details class="gs-rev__more">
+        <summary><span class="gs-rev__btn"><span class="gs-rev__see">{{ $.Params.reviews_more_label | default "See more reviews" }}</span><span class="gs-rev__less">{{ $.Params.reviews_less_label | default "Show fewer" }}</span><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
+        <div class="gs-rev__grid gs-rev__grid--more">
+          {{ range . }}{{ $r := split . "|" }}
+          <figure class="gs-rev__item">
+            <span class="gs-rev__quote" aria-hidden="true">&ldquo;</span>
+            <blockquote>{{ index $r 2 }}</blockquote>
+            <figcaption><b>{{ index $r 0 }}</b>{{ with index $r 1 }}<span>{{ . }}</span>{{ end }}</figcaption>
+          </figure>
+          {{ end }}
+        </div>
+      </details>
+      {{ end }}
+      {{ end }}
+    </div>
+  </section>
+
+  <div class="gs-jump gs-jump--joined">
     <div class="gs-jump__inner">
       <p>{{ .Params.mid_cta_1 | default "Free to attend, with a live Q&A at the end." }}</p>
       <a href="#register" class="gs-cta">{{ .Params.mid_cta_1_label | default "Register for the session" }}
@@ -156,7 +200,7 @@
       </a>
     </div>
   </div>
-  {{ with .Params.speaker_name }}{{ partial "webinar-speaker.html" (dict "page" $ "eager" false "eyebrow" "About the speaker") }}{{ end }}
+  {{ with .Params.speaker_name }}{{ partial "webinar-speaker.html" (dict "page" $ "eager" false "eyebrow" (cond (strings.Contains . " and ") "About the speakers" "About the speaker")) }}{{ end }}
   {{ end }}
 
   {{ if and .Content (not $heroForm) (not $replayId) (ne .Params.body_position "after_form") }}
@@ -198,14 +242,14 @@
         <div class="gs-inc__card">
           <span class="gs-inc__tag">For families</span>
           <h3>What you get</h3>
-          <dl class="gs-inc__dl">{{ range . }}{{ $b := split . "|" }}<dt>{{ index $b 0 }}</dt><dd>{{ if gt (len $b) 1 }}{{ index $b 1 }}{{ end }}</dd>{{ end }}</dl>
+          <dl class="gs-inc__dl">{{ range . }}{{ $b := split . "|" }}<dt>{{ index $b 0 }}</dt><dd>{{ if gt (len $b) 1 }}{{ $.RenderString (index $b 1) }}{{ end }}</dd>{{ end }}</dl>
         </div>
         {{ end }}
         {{ with .Params.included_schools }}
         <div class="gs-inc__card gs-inc__card--alt">
           <span class="gs-inc__tag">For schools and colleges</span>
           <h3>What you get</h3>
-          <dl class="gs-inc__dl">{{ range . }}{{ $b := split . "|" }}<dt>{{ index $b 0 }}</dt><dd>{{ if gt (len $b) 1 }}{{ index $b 1 }}{{ end }}</dd>{{ end }}</dl>
+          <dl class="gs-inc__dl">{{ range . }}{{ $b := split . "|" }}<dt>{{ index $b 0 }}</dt><dd>{{ if gt (len $b) 1 }}{{ $.RenderString (index $b 1) }}{{ end }}</dd>{{ end }}</dl>
         </div>
         {{ end }}
       </div>
@@ -239,42 +283,7 @@
     </div>
   </div>
 
-  <!-- REVIEWS -->
-  <section class="gs-rev">
-    <div class="gs-rev__inner">
-      <div class="gs-rev__head">
-        <p class="gs-rev__eyebrow">{{ .Params.reviews_eyebrow | default "What families say" }}</p>
-        {{ partial "webinar-proof.html" . }}
-      </div>
-      {{ with .Params.reviews }}
-      {{ $shown := first 3 . }}
-      {{ $rest := after 3 . }}
-      <div class="gs-rev__grid">
-        {{ range $shown }}{{ $r := split . "|" }}
-        <figure class="gs-rev__item">
-          <span class="gs-rev__quote" aria-hidden="true">&ldquo;</span>
-          <blockquote>{{ index $r 2 }}</blockquote>
-          <figcaption><b>{{ index $r 0 }}</b>{{ with index $r 1 }}<span>{{ . }}</span>{{ end }}</figcaption>
-        </figure>
-        {{ end }}
-      </div>
-      {{ with $rest }}
-      <details class="gs-rev__more">
-        <summary><span class="gs-rev__btn"><span class="gs-rev__see">{{ $.Params.reviews_more_label | default "See more reviews" }}</span><span class="gs-rev__less">{{ $.Params.reviews_less_label | default "Show fewer" }}</span><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
-        <div class="gs-rev__grid gs-rev__grid--more">
-          {{ range . }}{{ $r := split . "|" }}
-          <figure class="gs-rev__item">
-            <span class="gs-rev__quote" aria-hidden="true">&ldquo;</span>
-            <blockquote>{{ index $r 2 }}</blockquote>
-            <figcaption><b>{{ index $r 0 }}</b>{{ with index $r 1 }}<span>{{ . }}</span>{{ end }}</figcaption>
-          </figure>
-          {{ end }}
-        </div>
-      </details>
-      {{ end }}
-      {{ end }}
-    </div>
-  </section>
+  {{ partial "webinar-faq.html" . }}
 
   {{ if .Content }}
   <section class="gs-body">
@@ -294,12 +303,15 @@
       </a>
     </div>
   </section>
-  {{ else if and .Content (not $replayId) (eq .Params.body_position "after_form") }}
+  {{ else if not $replayId }}
+  {{ if and .Content (eq .Params.body_position "after_form") }}
   <section class="gs-body">
     <div class="gs-body__inner">
       {{ .Content }}
     </div>
   </section>
+  {{ end }}
+  {{ partial "webinar-faq.html" . }}
   {{ end }}
 
   {{ with $ytId }}

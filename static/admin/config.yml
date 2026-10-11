@@ -362,7 +362,7 @@ collections:
       - { name: "webinar_time_display", label: "Time (as shown on the page)", widget: "string", default: "7–8pm (UK time)" }
       - { name: "youtube_id", label: "YouTube video ID (optional overview)", widget: "string", required: false }
       - { name: "free_resources_url", label: "Free resources URL (optional)", widget: "string", required: false }
-      - { name: "ask_tutoring_interest", label: "Tutoring opt-in on the form", widget: "boolean", required: false, default: false, hint: "Adds an optional 'please get in touch about tutoring' tick box, shown only to a parent or guardian. The phone field then appears, and is required, only once it is ticked. Yes/No is written to the Zoho lead Description and drives Lead Status." }
+      - { name: "ask_tutoring_interest", label: "Tutoring opt-in on the form", widget: "boolean", required: false, default: false, hint: "Adds an optional 'interested in academic support' tick box. Where the form asks who is registering, it appears once a parent or student says which they are, and never to school staff. Yes/No is written to the Zoho lead Description and drives Lead Status." }
       - { name: "ask_registrant_type", label: "Ask who is registering (parent, student, school staff)", widget: "boolean", required: false, default: false, hint: "Set this on any page schools share. Students and school staff then never see the tutoring opt-in or the phone field." }
       - { name: "hide_whatsapp", label: "Hide the WhatsApp prompt on this page", widget: "boolean", required: false, default: false, hint: "The prompt opens a tutoring enquiry. Hide it on pages schools are asked to share." }
       - { name: "outcomes_heading", label: "Outcomes heading", widget: "string", required: false, default: "What you will take away" }
@@ -377,6 +377,21 @@ collections:
       - { name: "submit_label", label: "Form button label", widget: "string", required: false, default: "Save my place" }
       - { name: "event_name", label: "Schema event name", widget: "string", required: false }
       - { name: "event_description", label: "Schema event description", widget: "text", required: false }
+      - { name: "schedule_heading", label: "Schedule heading", widget: "string", required: false, default: "How the evening runs" }
+      - name: "schedule"
+        label: "How the evening runs (one step per line, format: When|Title|Detail)"
+        widget: "list"
+        required: false
+        field: { name: "step", label: "Step (When|Title|Detail)", widget: "string" }
+      - { name: "faq_heading", label: "Questions heading", widget: "string", required: false, default: "Common questions" }
+      - name: "faqs"
+        label: "Common questions (shown as an accordion)"
+        widget: "list"
+        required: false
+        fields:
+          - { name: "q", label: "Question", widget: "string" }
+          - { name: "a", label: "Answer (markdown, links allowed)", widget: "text" }
+      - { name: "faq_more", label: "Line under the questions (optional, HTML allowed)", widget: "string", required: false }
       - { name: "body", label: "Body (agenda / speakers, optional)", widget: "markdown", required: false }
 
   # ===========================================================================

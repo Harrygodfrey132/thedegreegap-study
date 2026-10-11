@@ -8,7 +8,8 @@
                         never asked a question written for a parent.
        askTutoring      an opt-in for academic support. Everybody registering
                         for themselves sees it, parent or student, because
-                        either can want it. School staff do not: a teacher
+                        either can want it, once they have said which they
+                        are. School staff do not: a teacher
                         passing the page to a class is not a tutoring enquiry.
                         It stays low-commitment on purpose, since the
                         registration is what the page is actually for.
@@ -127,12 +128,14 @@
 
     function update() {
       var role = who ? who.value : 'Parent or guardian';
+      var chosen = !who || role !== '';
       var isParent = !who || role === 'Parent or guardian';
       var isStaff = !!who && role === 'Teacher or school staff';
       /* A parent and a student can each want academic support, so both are
          offered it. A teacher circulating the page to a class is not making an
-         enquiry, so they are not asked. */
-      show(tutoringWrap, tutoring, !isStaff);
+         enquiry, so they are not asked. Nobody sees it until they have said
+         who they are: before that it would be asked of a teacher too. */
+      show(tutoringWrap, tutoring, chosen && !isStaff);
       /* Only a parent is asked for a number, and never made to give one. We do
          not take a pupil's phone number at all, whatever they tick, which is
          the line that lets a school put this page in front of a year group. */

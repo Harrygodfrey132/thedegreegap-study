@@ -1,0 +1,49 @@
+{{/* "How the evening runs" and "Common questions" on a webinar page, from
+     the page's params. Each block only shows when it is set.
+
+       schedule_heading   defaults to "How the evening runs"
+       schedule           one step per line: "When|Title|Detail"
+       faq_heading        defaults to "Common questions"
+       faqs               list of { q, a }. The answer is markdown, so it can
+                          carry links.
+       faq_more           optional line under the questions, HTML allowed
+
+     The questions are an accordion so the list reads at a glance: a parent
+     scans the questions and opens the one they care about. The answers stay
+     in the page, so search engines and the text to HTML ratio still count
+     them. */}}
+{{ $p := . }}
+{{ with $p.Params.schedule }}
+  <!-- HOW THE EVENING RUNS -->
+  <section class="gs-flow">
+    <div class="gs-flow__inner">
+      <h2>{{ $p.Params.schedule_heading | default "How the evening runs" }}</h2>
+      <ol class="gs-flow__steps">
+        {{ range . }}{{ $s := split . "|" }}
+        <li class="gs-flow__step">
+          <span class="gs-flow__when">{{ index $s 0 }}</span>
+          {{ if gt (len $s) 1 }}<h3 class="gs-flow__t">{{ index $s 1 }}</h3>{{ end }}
+          {{ if gt (len $s) 2 }}<p class="gs-flow__d">{{ $p.RenderString (index $s 2) }}</p>{{ end }}
+        </li>
+        {{ end }}
+      </ol>
+    </div>
+  </section>
+{{ end }}
+{{ with $p.Params.faqs }}
+  <!-- COMMON QUESTIONS -->
+  <section class="gs-faq" id="questions">
+    <div class="gs-faq__inner">
+      <h2>{{ $p.Params.faq_heading | default "Common questions" }}</h2>
+      <div class="gs-faq__list">
+        {{ range . }}
+        <details class="gs-faq__item">
+          <summary><span class="gs-faq__q">{{ .q }}</span><span class="gs-faq__icon" aria-hidden="true"></span></summary>
+          <div class="gs-faq__a">{{ $p.RenderString (dict "display" "block") .a }}</div>
+        </details>
+        {{ end }}
+      </div>
+      {{ with $p.Params.faq_more }}<p class="gs-faq__more">{{ . | safeHTML }}</p>{{ end }}
+    </div>
+  </section>
+{{ end }}

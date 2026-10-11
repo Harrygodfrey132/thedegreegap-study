@@ -95,8 +95,12 @@ included_families:
   - "A free mock feedback sheet|So your child can look back at each paper and work out where the marks went."
 included_schools:
   - "Nothing to organise|We run the session and handle registration, joining links and reminders."
-  - "Ready-made wording|A parent email and a short post for your school website, at the bottom of this page with a copy button."
-  - "No calls to your families|We only contact a parent about tutoring if they tick the box asking us to. Students are never contacted about tutoring."
+  - "Ready-made wording|A parent email and a short post for your school website, [at the bottom of this page](#for-schools), each with a copy button."
+  # Matches recommendation 2 of the EEF guidance report "Working with Parents
+  # to Support Children's Learning": provide practical strategies to support
+  # learning at home. The Gatsby Benchmarks were considered and left out: they
+  # are about careers guidance, which a revision session is not.
+  - "Parental engagement, done for you|The Education Endowment Foundation recommends giving parents practical strategies to support learning at home. This hour gives your Year 10 and 11 families exactly that, in the run-up to mocks."
   - "A link that keeps working|After the evening this page becomes the replay, at the same address, so families who missed it can still watch."
 
 register_heading: "Save your free place"
@@ -158,33 +162,32 @@ event_name: "The GCSE Revision Masterclass"
 event_description: "A free 45-minute online masterclass for Year 10 and 11 students and their parents from The Degree Gap's co-founders, on using mocks as a starting point, what good revision looks like at home, spotting burnout early and talking about revision without a row, with a live Q&A."
 # Zoho Lead Source picklist value for this webinar.
 lead_source: "November 2026 Webinar"
+# "How the evening runs" as a timeline: one step per line, When|Title|Detail.
+schedule:
+  - "7pm|A short welcome|Harry and Joe say who they are and what the hour covers. There is nothing to buy and nobody is put on the spot."
+  - "About 45 minutes|The masterclass|The five areas above, using real examples from the families and students we work with. We stop halfway through to answer the questions coming in on the chat."
+  - "Until 8pm|Live Q&A|The rest of the hour is for your questions, whatever stage your child is at."
+
+# "Common questions" as an accordion. Answers are markdown, so they can link.
+faqs:
+  - q: "Who is it for?"
+    a: "Parents and carers of students in Year 10 or Year 11, and the students themselves. It works for any exam board and any grade. Parents of Year 9 students planning ahead are welcome too."
+  - q: "How do I join on the night?"
+    a: "Register on this page. A link in a school newsletter brings you here, but it is not the joining link. Your own joining link comes by email on Sunday 22 November, with a reminder at 4pm on the day."
+  - q: "Can my child watch with me?"
+    a: "Yes, and we would encourage it. Students can also register for themselves."
+  - q: "Do I have to speak or appear on camera?"
+    a: "No. Questions go in the chat, and nobody is asked to speak or switch a camera on."
+  - q: "I can't make the evening. Should I still register?"
+    a: "Yes. Everyone who registers gets the replay by email the next day."
+  - q: "Is there a cost, now or later?"
+    a: "No. The session, the replay and the resources are free, and nothing has to be bought at any point."
+  - q: "Will you call me about tutoring?"
+    a: "Only if you tick the box asking us to. If you already know one subject is holding things back, you can [book a free consultation](/book-a-call/) with Joe or Harry, or read about our tutors in [GCSE Maths](/subjects/gcse-maths-tutor/), [GCSE English](/subjects/gcse-english-tutor/) and [GCSE Science](/subjects/gcse-science-tutor/)."
+  - q: "I work in a school. Can I share it?"
+    a: "Yes, please do. Forward the email you received, or use the [ready-made parent email and website text](#for-schools) below."
+faq_more: "Anything else? Email <a href=\"mailto:admin@thedegreegap.com\">admin@thedegreegap.com</a>."
 sitemap:
   priority: 0.7
   changefreq: monthly
 ---
-
-## How the evening runs
-
-**7pm, a short welcome.** Harry and Joe say who they are and what the hour covers. There is nothing to buy and nobody is put on the spot.
-
-**The masterclass.** About 45 minutes on the five areas above, using real examples from the families and students we work with. We stop halfway through to answer the questions coming in on the chat.
-
-**Live Q&A until 8pm.** The rest of the hour is for your questions, whatever stage your child is at.
-
-## Common questions
-
-**Who is it for?** Parents and carers of students in Year 10 or Year 11, and the students themselves. It works for any exam board and any grade. Parents of Year 9 students planning ahead are welcome too.
-
-**How do I join on the night?** Register on this page. A link in a school newsletter brings you here, but it is not the joining link. Your own joining link comes by email on Sunday 22 November, with a reminder at 4pm on the day.
-
-**Can my child watch with me?** Yes, and we would encourage it. Students can also register for themselves.
-
-**Do I have to speak or appear on camera?** No. Questions go in the chat, and nobody is asked to speak or switch a camera on.
-
-**I can't make the evening. Should I still register?** Yes. Everyone who registers gets the replay by email the next day.
-
-**Is there a cost, now or later?** No. The session, the replay and the resources are free, and nothing has to be bought at any point.
-
-**Will you call me about tutoring?** Only if you tick the box asking us to. If you already know one subject is holding things back, you can [book a free consultation](/book-a-call/) with Joe or Harry, or read about our tutors in [GCSE Maths](/subjects/gcse-maths-tutor/), [GCSE English](/subjects/gcse-english-tutor/) and [GCSE Science](/subjects/gcse-science-tutor/).
-
-**I work in a school. Can I share it?** Yes, please do. Forward the email you received, or use the ready-made parent email and website text below.
