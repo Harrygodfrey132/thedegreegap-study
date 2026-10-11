@@ -6,3 +6,8 @@
 # section reads this and nothing else does.
 whatsapp_display: "+44 7446 948019"
 whatsapp_e164: "447446948019"
+
+# Email for tutor applications, on every page under /jobs/. Separate from
+# site.Params.email (admin@), which parents use everywhere else, so that
+# applications go straight to Dan.
+email: "dan@thedegreegap.com"

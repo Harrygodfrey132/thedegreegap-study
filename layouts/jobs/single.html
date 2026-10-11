@@ -1,6 +1,9 @@
 {{ define "main" }}
 {{ $subjectRef := printf "%s tutor role" .Params.subject }}
-{{ $mailto := printf "mailto:%s?subject=%s&body=%s" site.Params.email (printf "%s application" $subjectRef | urlquery) (printf "Hi Harry and Joe,\n\nI would like to apply to tutor %s. Here is a bit about my teaching experience:\n\n" .Params.subject | urlquery) }}
+{{/* Applications go to the recruitment address in data/recruitment.yaml,
+     not the parent address in site.Params.email. */}}
+{{ $applyEmail := site.Data.recruitment.email | default site.Params.email }}
+{{ $mailto := printf "mailto:%s?subject=%s&body=%s" $applyEmail (printf "%s application" $subjectRef | urlquery) (printf "Hi Dan,\n\nI would like to apply to tutor %s. Here is a bit about my teaching experience:\n\n" .Params.subject | urlquery) }}
 {{/* Applications go to the recruitment WhatsApp line, not the parent
      enquiry number in site.Params.phone. See data/recruitment.yaml. */}}
 {{/* Deliberately general rather than naming the role: one application covers
@@ -119,7 +122,7 @@
   <p>Contact us with a summary of your teaching experience. One application covers all subjects you cover.</p>
   <div class="jb-actions jb-actions--center">
     <a class="jb-cta jb-cta--wa" href="{{ $whatsapp }}" target="_blank" rel="noopener">Apply via WhatsApp</a>
-    <a class="jb-cta jb-cta--ghost" href="{{ $mailto }}">Email {{ site.Params.email }}</a>
+    <a class="jb-cta jb-cta--ghost" href="{{ $mailto }}">Email {{ $applyEmail }}</a>
   </div>
 </section>
 

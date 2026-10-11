@@ -15,7 +15,10 @@
 
 
 {{ $arrow := `<span class="jb-card__go">View role <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>` }}
-{{ $mailto := printf "mailto:%s?subject=%s&body=%s" site.Params.email ("Tutor application" | urlquery) ("Hi Harry and Joe,\n\nI would like to apply to tutor with The Degree Gap. The subjects and levels I have taught are:\n\n" | urlquery) }}
+{{/* Applications go to the recruitment address in data/recruitment.yaml,
+     not the parent address in site.Params.email. */}}
+{{ $applyEmail := site.Data.recruitment.email | default site.Params.email }}
+{{ $mailto := printf "mailto:%s?subject=%s&body=%s" $applyEmail ("Tutor application" | urlquery) ("Hi Dan,\n\nI would like to apply to tutor with The Degree Gap. The subjects and levels I have taught are:\n\n" | urlquery) }}
 {{/* Applications go to the recruitment WhatsApp line, not the parent
      enquiry number in site.Params.phone. See data/recruitment.yaml. */}}
 {{ $whatsapp := printf "https://wa.me/%s?text=%s" site.Data.recruitment.whatsapp_e164 ("Hi, I would like to apply to tutor with The Degree Gap. The subjects and levels I have taught are:\n" | urlquery) }}
@@ -83,7 +86,7 @@
   <p>Contact us with a summary of your teaching experience and the subjects and levels you cover. One application covers all subjects.</p>
   <div class="jb-actions jb-actions--center">
     <a class="jb-cta jb-cta--wa" href="{{ $whatsapp }}" target="_blank" rel="noopener">Message us on WhatsApp</a>
-    <a class="jb-cta jb-cta--ghost" href="{{ $mailto }}">Email {{ site.Params.email }}</a>
+    <a class="jb-cta jb-cta--ghost" href="{{ $mailto }}">Email {{ $applyEmail }}</a>
   </div>
 </section>
 
