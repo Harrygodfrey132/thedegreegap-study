@@ -9,7 +9,7 @@ layout: "single"
 # replay page at this same URL, so a school's link never breaks.
 hero_eyebrow: "Free webinar · Year 10 and 11 families"
 hero_h1: "The GCSE Revision Masterclass"
-hero_lead: "The 45-minute masterclass every parent should watch before mocks. Harry and Joe, co-founders of The Degree Gap, cover how to use mocks as a starting point, what good revision looks like at home, the early signs of burnout and how to talk about revision without a row. There is a live Q&A at the end, and everyone who registers receives the replay."
+hero_lead: "The 45-minute masterclass every parent should watch before mocks. In 20 minutes, Harry and Joe, co-founders of The Degree Gap, cover how to use mocks as a starting point, what good revision looks like at home, the early signs of burnout and how to talk about revision without a row. Then it's 25 minutes of live Q&A, and everyone who registers receives the replay."
 card_title: "The GCSE Revision Masterclass"
 card_summary: "Harry and Joe's free 45-minute masterclass for Year 10 and 11 families before mocks, with live Q&A. Tuesday 24 November, 7 to 8pm."
 cta_label: "Save my place"
@@ -33,11 +33,11 @@ speaker_name: "Harry Godfrey and Joe Clark"
 speaker_role: "Co-founders of The Degree Gap"
 speaker_photo: "/images/harry-and-joe-square.jpg"
 speaker_credentials:
-  - "GCSE Specialists of the Year 2025"
+  - "Prestige Awards: GCSE Tutoring Specialists of the Year 2025 and 2026"
   - "75+ specialist tutors"
   - "Webinars for 5,000+ parents last year"
 speaker_lead: "Neither of us was an academic natural. With the right tutor and steady habits we finished school well above our targets, went on to competitive A levels and leading UK universities, and now run a team of more than 75 GCSE and A level tutors. This session is what we wish our own parents had been told before mocks."
-speaker_bio: "Harry and Joe both raised their grades in every subject at school with the help of a good tutor. Harry's school named him as one of its students who made the greatest progress, finishing 18 grades above his targets. After university and a spell in finance and recruitment, they came back to education, supporting students with applications to G5 universities and tutoring full time. Two years ago they launched The Degree Gap, which was named GCSE Specialists of the Year 2025 and works with schools across the country. Every family starts with a free consultation, and each student is matched with a tutor who suits their needs and personality. The tips in this masterclass come from that work, and from the tutors who helped build the slides."
+speaker_bio: "Harry and Joe both raised their grades in every subject at school with the help of a good tutor. Harry's school named him as one of its students who made the greatest progress, finishing 18 grades above his targets. After university and a spell in finance and recruitment, they came back to education, supporting students with applications to G5 universities and tutoring full time. Two years ago they launched The Degree Gap, which the Prestige Awards named GCSE Tutoring Specialists of the Year in 2025 and again in 2026, and which works with schools across the country. Every family starts with a free consultation, and each student is matched with a tutor who suits their needs and personality. The tips in this masterclass come from that work, and from the tutors who helped build the slides."
 
 # The registration form. Schools share this page, so it asks who is
 # registering: a parent gives name, email, an optional phone number and year
@@ -89,8 +89,8 @@ reviews:
 included_heading: "What is included"
 included_sub: "Free for everyone. Here is what a family gets, and what a school gets if it shares the link."
 included_families:
-  - "The 45-minute masterclass|Practical advice from Harry and Joe, built around the questions parents ask us most."
-  - "A live Q&A at the end|Put your questions in the chat, and Harry and Joe will answer them live."
+  - "A 20-minute masterclass|Practical advice from Harry and Joe, built around the questions parents ask us most."
+  - "25 minutes of live Q&A|Put your questions in the chat, and Harry and Joe will answer them live."
   - "The replay by email|Sent the next day to everyone who registers, whether or not you watch live."
   - "A free mock feedback sheet|So your child can look back at each paper and work out where the marks went."
 included_schools:
@@ -109,7 +109,7 @@ submit_label: "Save my place"
 body_position: "after_form"
 
 # Mid-page routes back to the registration form in the hero.
-mid_cta_1: "Free to attend. 45 minutes from Harry and Joe, then a live Q&A."
+mid_cta_1: "Free to attend. 20 minutes from Harry and Joe, then 25 minutes of live Q&A."
 mid_cta_1_label: "Save my place"
 mid_cta_2: "Tuesday 24 November, 7 to 8pm, online. Free, and the replay goes to everyone who registers."
 mid_cta_2_label: "Save my place"
@@ -125,12 +125,12 @@ end_cta_lead: "Tuesday 24 November, 7 to 8pm. Register to get the joining link, 
 schools_position: "top"
 schools_eyebrow: "For schools"
 # Beside the review badges, just above the ask to share: "Bold part|rest".
-# The award as the rest of the site words it. Attendance from Harry (11 Oct
+# The award as the rest of the site words it (Prestige Awards, 2025 and 2026). Attendance from Harry (11 Oct
 # 2026): January 2026 was given as 2,600 and as 2,500 people joining, March
 # 2026 as 2,300, September 2026 as 565. "2,500+" holds for either January
 # figure; make it exact once confirmed.
 schools_proof:
-  - "GCSE Tutoring Specialists|of the Year 2025 and 2026"
+  - "GCSE Tutoring Specialists of the Year|Prestige Awards 2025 and 2026"
   - "2,500+ people|joined our January 2026 webinar"
 schools_heading: "Sharing this with your families?"
 schools_lead: "Thank you. There's nothing for the school to organise. Copy the email or the website text below, and edit it however you like."
@@ -170,14 +170,14 @@ schools_website: |
 schools_note: "Would a square image for your newsletter or WhatsApp help? Email <a href=\"mailto:admin@thedegreegap.com\">admin@thedegreegap.com</a> and we will send it over."
 
 event_name: "The GCSE Revision Masterclass"
-event_description: "A free 45-minute online masterclass for Year 10 and 11 students and their parents from The Degree Gap's co-founders, on using mocks as a starting point, what good revision looks like at home, spotting burnout early and talking about revision without a row, with a live Q&A."
+event_description: "A free 45-minute online session for Year 10 and 11 students and their parents from The Degree Gap's co-founders: a 20-minute masterclass on using mocks as a starting point, what good revision looks like at home, spotting burnout early and talking about revision without a row, then 25 minutes of live Q&A."
 # Zoho Lead Source picklist value for this webinar.
 lead_source: "November 2026 Webinar"
 # "How the evening runs" as a timeline: one step per line, When|Title|Detail.
 schedule:
-  - "7pm|A short welcome|Harry and Joe introduce themselves and run through what's coming up."
-  - "About 45 minutes|The masterclass|The five areas above, using real examples from the families and students we work with. We stop halfway through to answer the questions coming in on the chat."
-  - "Until 8pm|Live Q&A|The rest of the hour is for your questions, whatever stage your child is at."
+  - "7pm|The 20-minute masterclass|Harry and Joe on the five areas above, using real examples from the families and students we work with."
+  - "Then|25 minutes of live Q&A|Your questions, whatever stage your child is at. Put them in the chat and Harry and Joe answer them live."
+  - "The next day|The replay|By email to everyone who registers, whether or not they watched live."
 
 # "Common questions" as an accordion. Answers are markdown, so they can link.
 faqs:
