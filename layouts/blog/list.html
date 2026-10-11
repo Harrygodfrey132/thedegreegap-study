@@ -403,7 +403,7 @@
   {{ end }}
 
   {{/* ---- Webinar promo strip (shows this year's GCSE Revision Masterclass) ---- */}}
-  {{ $masterclass := site.GetPage "/webinars/gcse-revision-masterclass" }}
+  {{ $masterclass := site.GetPage "/webinars/gcse-mocks-masterclass" }}
   <section class="blog-webinar" aria-label="Free webinar">
     <a class="blog-webinar__card" href="{{ with $masterclass }}{{ .RelPermalink }}{{ else }}{{ "webinars/" | relURL }}{{ end }}">
       <div>
@@ -412,7 +412,7 @@
         <p class="blog-webinar__sub">Harry and Joe's free 45-minute session for parents of Year 10 and Year 11 students, on mocks and revision at home.</p>
       </div>
       <span class="blog-webinar__cta">
-        Register your interest
+        Save your free place
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
       </span>
     </a>

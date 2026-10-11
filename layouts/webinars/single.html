@@ -328,6 +328,8 @@
   </section>
   {{ end }}
 
+  {{ partial "webinar-schools.html" . }}
+
   <div class="gs-back"><a href="{{ "webinars/" | relURL }}">← See all The Degree Gap webinars</a></div>
 
 </div>
@@ -358,25 +360,47 @@
     });
   })();
 
-  /* Copy the paste-ready wording for a school newsletter. */
+  /* Copy the paste-ready wording for a school: the newsletter blurb, the
+     parent email and the website text. A button with data-gs-copy-rich copies
+     formatted text as well as plain, so links stay clickable when a teacher
+     pastes into an email or the school's website editor. */
   (function () {
-    var btn = document.querySelector('[data-gs-copy]');
-    if (!btn) return;
-    var src = document.getElementById(btn.getAttribute('data-gs-copy'));
-    var status = document.querySelector('[data-gs-copy-status]');
-    function say(msg) { if (status) status.textContent = msg; }
-    btn.addEventListener('click', function () {
-      var text = src ? src.textContent.trim() : '';
-      if (!text) return;
-      if (navigator.clipboard && navigator.clipboard.writeText) {
-        navigator.clipboard.writeText(text).then(function () { say('Copied.'); }, function () { say('Select the text above and copy it.'); });
-        return;
-      }
+    var FAIL = 'Select the text above and copy it.';
+    function selectCopy(src) {
       try {
         var range = document.createRange(); range.selectNodeContents(src);
         var sel = window.getSelection(); sel.removeAllRanges(); sel.addRange(range);
-        say(document.execCommand('copy') ? 'Copied.' : 'Select the text above and copy it.');
-      } catch (e) { say('Select the text above and copy it.'); }
+        var ok = document.execCommand('copy');
+        sel.removeAllRanges();
+        return ok;
+      } catch (e) { return false; }
+    }
+    document.querySelectorAll('[data-gs-copy]').forEach(function (btn) {
+      var src = document.getElementById(btn.getAttribute('data-gs-copy'));
+      var row = btn.closest('.gs-share__row');
+      var status = row ? row.querySelector('[data-gs-copy-status]') : null;
+      var rich = btn.hasAttribute('data-gs-copy-rich');
+      function say(msg) { if (status) status.textContent = msg; }
+      btn.addEventListener('click', function () {
+        if (!src) return;
+        var text = (rich ? src.innerText : src.textContent).trim();
+        if (!text) return;
+        var clip = navigator.clipboard;
+        if (rich && clip && clip.write && window.ClipboardItem) {
+          var item = new ClipboardItem({
+            'text/html': new Blob([src.innerHTML], { type: 'text/html' }),
+            'text/plain': new Blob([text], { type: 'text/plain' })
+          });
+          clip.write([item]).then(function () { say('Copied.'); }, function () { say(selectCopy(src) ? 'Copied.' : FAIL); });
+          return;
+        }
+        if (!rich && clip && clip.writeText) {
+          clip.writeText(text).then(function () { say('Copied.'); }, function () { say(FAIL); });
+          return;
+        }
+        /* Selecting the rendered text copies it formatted, links included. */
+        say(selectCopy(src) ? 'Copied.' : FAIL);
+      });
     });
   })();
 

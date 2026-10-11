@@ -1,0 +1,70 @@
+{{/* "For schools" section at the bottom of a webinar page: the ready-made
+     parent email and the text for a school website, each with a copy button.
+     The school emails send teachers here rather than carrying an invite below
+     the line.
+
+     Params, all optional (the section only shows when one of the two blocks
+     is set):
+       schools_heading, schools_lead, schools_note
+       schools_parent_email_subject   subject line, with its own copy button
+       schools_parent_email           markdown, the email body
+       schools_website_lead           intro line for the website block
+       schools_website                markdown, the post for a school website
+
+     Both blocks copy as formatted text with a plain-text fallback, so the
+     links are still clickable when a teacher pastes into ParentMail, an email
+     or the website editor. */}}
+{{ $p := .Params }}
+{{ if or $p.schools_parent_email $p.schools_website }}
+  <!-- FOR SCHOOLS -->
+  <section class="gs-forschools" id="for-schools">
+    <div class="gs-forschools__inner">
+      <h2>{{ $p.schools_heading | default "For schools" }}</h2>
+      {{ with $p.schools_lead }}<p class="gs-forschools__lead">{{ . }}</p>{{ end }}
+
+      {{ with $p.schools_parent_email }}
+      <div class="gs-share">
+        <h3>Ready-made email for parents</h3>
+        <p class="gs-share__lead">For ParentMail, Arbor or your weekly bulletin.</p>
+        {{ with $p.schools_parent_email_subject }}
+        <p class="gs-share__label">Subject</p>
+        <p class="gs-share__text gs-share__text--subject" id="gs-copy-subject">{{ . }}</p>
+        <div class="gs-share__row">
+          <button type="button" class="gs-share__copy" data-gs-copy="gs-copy-subject">
+            <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V5a2 2 0 0 1 2-2h10"/></svg>
+            Copy subject
+          </button>
+          <span class="gs-share__status" data-gs-copy-status aria-live="polite"></span>
+        </div>
+        <p class="gs-share__label">Email</p>
+        {{ end }}
+        <div class="gs-share__text gs-share__text--rich" id="gs-copy-email">{{ . | markdownify }}</div>
+        <div class="gs-share__row">
+          <button type="button" class="gs-share__copy" data-gs-copy="gs-copy-email" data-gs-copy-rich>
+            <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V5a2 2 0 0 1 2-2h10"/></svg>
+            Copy email
+          </button>
+          <span class="gs-share__status" data-gs-copy-status aria-live="polite"></span>
+        </div>
+      </div>
+      {{ end }}
+
+      {{ with $p.schools_website }}
+      <div class="gs-share">
+        <h3>For your school website</h3>
+        {{ with $p.schools_website_lead }}<p class="gs-share__lead">{{ . }}</p>{{ end }}
+        <div class="gs-share__text gs-share__text--rich" id="gs-copy-website">{{ . | markdownify }}</div>
+        <div class="gs-share__row">
+          <button type="button" class="gs-share__copy" data-gs-copy="gs-copy-website" data-gs-copy-rich>
+            <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V5a2 2 0 0 1 2-2h10"/></svg>
+            Copy website text
+          </button>
+          <span class="gs-share__status" data-gs-copy-status aria-live="polite"></span>
+        </div>
+      </div>
+      {{ end }}
+
+      {{ with $p.schools_note }}<p class="gs-share__note">{{ . | safeHTML }}</p>{{ end }}
+    </div>
+  </section>
+{{ end }}

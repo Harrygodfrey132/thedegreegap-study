@@ -51,8 +51,11 @@ RewriteRule ^locations/derby-tutors/gcse/physics-tutoring/?$  /study/locations/d
 RewriteRule ^past-papers(/.*)?$  /study/blog/  [L,R=301]
 
 # The November 2026 parent webinar was renamed the GCSE Revision Masterclass
-# (October 2026), so its old address goes to the new one.
-RewriteRule ^webinars/november-2026/?$  /study/webinars/gcse-revision-masterclass/  [L,R=301]
+# (October 2026), then moved to /webinars/gcse-mocks-masterclass/ when the
+# date was confirmed (11 October 2026). Both old addresses go straight to the
+# current one in a single hop. The query string carries over, so a tracked
+# link in an email already sent still records its utm_source.
+RewriteRule ^webinars/(november-2026|gcse-revision-masterclass)/?$  /study/webinars/gcse-mocks-masterclass/  [L,R=301]
 
 
 # ---------------------------------------------------------------------------

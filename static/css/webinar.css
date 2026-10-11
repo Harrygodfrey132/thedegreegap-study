@@ -542,6 +542,21 @@
   .gs-share__note a { color: var(--burgundy); font-weight: 700; text-decoration: underline; }
   .gs-body { padding-bottom: 28px; }
 
+  /* ---------- FOR SCHOOLS (parent email and website text to copy) ---------- */
+  .gs-forschools { padding: 56px 16px; background: #ffffff; border-top: 1px solid var(--line); }
+  @media (min-width: 760px) { .gs-forschools { padding: 72px 24px; } }
+  .gs-forschools__inner { max-width: 760px; margin: 0 auto; }
+  .gs-forschools h2 { font-size: clamp(1.6rem, 3.4vw, 2.1rem); font-weight: 700; letter-spacing: -.022em; color: var(--ink); margin: 0 0 8px; text-align: center; }
+  .gs-forschools__lead { text-align: center; color: var(--muted); font-size: 1.02rem; line-height: 1.6; margin: 0 0 4px; }
+  .gs-share__label { margin: 14px 0 6px; font-size: .7rem; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; color: var(--burgundy); }
+  .gs-share__lead + .gs-share__label { margin-top: 0; }
+  .gs-share__text--subject { font-weight: 600; }
+  .gs-share__text--rich { white-space: normal; }
+  .gs-share__text--rich p { margin: 0 0 12px; }
+  .gs-share__text--rich p:last-child { margin-bottom: 0; }
+  .gs-share__text--rich a { color: var(--burgundy); text-decoration: underline; }
+  .gs-share__text--rich strong { font-weight: 700; }
+
   /* Replay mode: a finished-session notice and the recording in the hero. */
   .gs-replay { width: 100%; max-width: 760px; margin: 26px auto 0; text-align: left; }
   .gs-replay__note { display: flex; align-items: flex-start; gap: 12px; margin: 0 0 18px; padding: 14px 16px; background: #fff; border: 1px solid var(--line); border-radius: 12px; font-size: .95rem; line-height: 1.55; color: var(--ink); }
