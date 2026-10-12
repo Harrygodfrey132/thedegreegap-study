@@ -1,0 +1,33 @@
+{{/* The call at the bottom of a subject's own page in the GCSE options
+     guide, asking for lessons with the tutor who wrote it. We told the
+     tutors that families who come from their guide go straight to them, so
+     the lead carries the tutor's name (requested_tutor) and the subject
+     reads "GCSE options guide (Chemistry, Francis Isaac)" in Zoho. The page
+     is the subject (its tutor from partials/gcse-options-tutor-data.html). */}}
+{{ $t := partial "gcse-options-tutor-data.html" . }}
+{{ $f := $t.first }}
+<section class="go-tcall" id="tutor-call">
+  <div class="go-tcall__inner">
+    <div class="go-tcall__panel">
+      <div class="go-tcall__who">
+        {{ with $t.photo }}<img src="{{ partial "url.html" . }}" alt="{{ $t.name }}" width="64" height="64" loading="lazy" decoding="async">{{ end }}
+        <p><b>{{ $t.name }}</b>{{ with $t.role }}<span>{{ . }}</span>{{ end }}</p>
+      </div>
+      <p class="go-eyebrow">Lessons with {{ $f }}</p>
+      <h2>Would {{ $f }} be a good fit for your child?</h2>
+      <p class="go-tcall__lead">Leave your number and one of our team will call you, usually within a working day. It's a free chat about your child and how {{ .Params.subject }} is going, and if {{ $f }} is the right fit, we'll set up an introduction.</p>
+      <ol class="go-tcall__steps">
+        <li><b>A free call with our team</b><span>About 20 minutes, to get to know you and your child and what they need.</span></li>
+        <li><b>Meet {{ $f }} first</b><span>A free 15-minute video call before anything is booked, so your child can see if they click.</span></li>
+        <li><b>Weekly one-to-one lessons</b><span>Online using the platform Lessonspace, and every lesson is recorded to watch back. You'll know {{ $f }}'s rate up front, and there's no contract.</span></li>
+      </ol>
+    </div>
+    <div class="go-tcall__form">
+      <p class="go-tcall__formt">Ask about lessons with {{ $f }}</p>
+      <p class="go-tcall__forms">Takes a minute. We'll ring to find a time that suits you.</p>
+      {{ partial "sj-lead-form.html" (dict "ctx" . "btn" (printf "Ask about lessons with %s" $f) "msgPh" (printf "Your child's year group, and anything %s should know" $f) "subject" (printf "GCSE options guide (%s, %s)" .Params.subject $t.name) "tutor" $t.name) }}
+      {{ partial "webinar-proof.html" . }}
+      {{ with $t.url }}<p class="go-tcall__profile">Prefer to look first? <a href="{{ . }}">See {{ $f }}'s full profile</a></p>{{ end }}
+    </div>
+  </div>
+</section>

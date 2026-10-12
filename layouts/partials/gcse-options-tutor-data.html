@@ -1,0 +1,17 @@
+{{/* The tutor who answered a subject in the GCSE options guide, as a dict:
+     name, role, photo, url (their profile) and first (how the page refers
+     to them). From data/tutors.yaml when the subject sets tutor_slug;
+     tutor_name, tutor_role, tutor_photo, tutor_url and tutor_first fill in
+     or override it. name is empty until there is one. */}}
+{{ $name := .Params.tutor_name }}
+{{ $role := .Params.tutor_role }}
+{{ $photo := .Params.tutor_photo }}
+{{ $url := .Params.tutor_url }}
+{{ with .Params.tutor_slug }}{{ with where site.Data.tutors "slug" . }}{{ $t := index . 0 }}
+  {{ $name = $name | default $t.name }}
+  {{ $role = $role | default $t.qualifications }}
+  {{ $photo = $photo | default $t.image }}
+  {{ $url = $url | default $t.url }}
+{{ end }}{{ end }}
+{{ $first := .Params.tutor_first | default (index (split (or $name "") " ") 0) }}
+{{ return (dict "name" $name "role" $role "photo" $photo "url" $url "first" $first) }}

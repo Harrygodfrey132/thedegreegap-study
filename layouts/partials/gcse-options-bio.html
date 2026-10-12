@@ -1,0 +1,34 @@
+{{/* The tutor's bio at the top of a subject's own page in the GCSE options
+     guide: photo, a few facts, the bio and a line in their own words, with
+     links to their profile and to the call at the bottom of the page. Shown
+     when the subject sets tutor_bio; otherwise the page falls back to the
+     short "Answered by" line. */}}
+{{ $t := partial "gcse-options-tutor-data.html" . }}
+<div class="go-bio">
+  {{ with $t.photo }}
+  <div class="go-bio__media">
+    <img src="{{ partial "url.html" . }}" alt="{{ $t.name }}" width="132" height="132" decoding="async">
+  </div>
+  {{ end }}
+  <div class="go-bio__body">
+    <p class="go-bio__label">Answered by</p>
+    <p class="go-bio__name">{{ $t.name }}</p>
+    {{ with $t.role }}<p class="go-bio__role">{{ . }}</p>{{ end }}
+    {{ with .Params.tutor_facts }}
+    <ul class="go-bio__facts">
+      {{ range . }}<li><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12l5 5L20 7"/></svg>{{ . }}</li>{{ end }}
+    </ul>
+    {{ end }}
+    <div class="go-bio__text">{{ .RenderString (dict "display" "block") .Params.tutor_bio }}</div>
+    {{ with .Params.tutor_quote }}
+    <blockquote class="go-bio__quote">
+      <p>{{ . }}</p>
+      <cite>{{ $t.first }}</cite>
+    </blockquote>
+    {{ end }}
+    <p class="go-bio__links">
+      <a class="go-btn go-btn--inline" href="#tutor-call">Ask about lessons with {{ $t.first }}</a>
+      {{ with $t.url }}<a class="go-bio__profile" href="{{ . }}">See {{ $t.first }}'s full profile</a>{{ end }}
+    </p>
+  </div>
+</div>

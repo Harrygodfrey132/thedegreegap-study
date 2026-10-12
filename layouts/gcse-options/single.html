@@ -10,9 +10,11 @@
 {{ define "main" }}
 {{/* A subject's own page in the GCSE options guide, built once its file in
      content/gcse-options/ sets build.render to "always". Aimed at the
-     searches for that subject ("is gcse history hard"), with every answer,
-     the free options call, and links to the other subjects. Its faqs also
-     go to Google as FAQ structured data (partials/seo.html). */}}
+     searches for that subject ("is gcse history hard"), with the tutor's
+     bio, every answer, a call asking for lessons with that tutor, and links
+     to the other subjects. Without a tutor_bio it falls back to the short
+     "Answered by" line and the guide's free options call. Its faqs also go
+     to Google as FAQ structured data (partials/seo.html). */}}
 {{ $hub := .Parent }}
 {{ $qs := slice }}
 {{ range .Params.faqs }}{{ if .a }}{{ $qs = $qs | append . }}{{ end }}{{ end }}
@@ -23,7 +25,7 @@
       <p class="go-crumb"><a href="{{ $hub.RelPermalink }}">GCSE options guide</a></p>
       <p class="go-eyebrow">{{ if eq .Params.group "core" }}Core subject{{ else }}Option subject{{ end }}</p>
       <h1>{{ .Params.h1 | default .Title }}</h1>
-      {{ partial "gcse-options-tutor.html" . }}
+      {{ if .Params.tutor_bio }}{{ partial "gcse-options-bio.html" . }}{{ else }}{{ partial "gcse-options-tutor.html" . }}{{ end }}
     </div>
   </section>
 
@@ -33,7 +35,11 @@
     </div>
   </section>
 
+  {{ if .Params.tutor_bio }}
+  {{ partial "gcse-options-tutor-call.html" . }}
+  {{ else }}
   {{ partial "gcse-options-call.html" (dict "copy" $hub "ctx" .) }}
+  {{ end }}
 
   {{ $others := slice }}
   {{ range $hub.Pages.ByWeight }}{{ if and .RelPermalink (ne .RelPermalink $.RelPermalink) }}{{ $others = $others | append . }}{{ end }}{{ end }}
