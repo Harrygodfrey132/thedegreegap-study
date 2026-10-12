@@ -97,7 +97,11 @@
 {{ end }}
 
 <!-- FAQPage schema (emitted when page frontmatter defines a `faqs` list of {q, a}) -->
-{{ with .Params.faqs }}
+{{/* Questions still waiting for an answer (the GCSE options guide fills
+     its subjects in as tutors reply) are left out. */}}
+{{ $answeredFaqs := slice }}
+{{ range .Params.faqs }}{{ if .a }}{{ $answeredFaqs = $answeredFaqs | append . }}{{ end }}{{ end }}
+{{ with $answeredFaqs }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

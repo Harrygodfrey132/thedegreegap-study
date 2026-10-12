@@ -1,0 +1,15 @@
+{{/* A subject's answered questions in the GCSE options guide.
+     dict: page (the subject), items (its answered faqs), tag (heading level,
+     h4 in the guide, h2 on the subject's own page). The first two answers,
+     why pick it and why it might not suit, sit side by side on a wide
+     screen. */}}
+{{ $p := .page }}
+{{ $tag := .tag | default "h4" }}
+<div class="go-qa">
+  {{ range $i, $qa := .items }}
+  <section class="go-qa__item{{ if lt $i 2 }} go-qa__item--pair{{ end }}">
+    {{ printf "<%s>%s</%s>" $tag (htmlEscape $qa.q) $tag | safeHTML }}
+    <div class="go-qa__a">{{ $p.RenderString (dict "display" "block") $qa.a }}</div>
+  </section>
+  {{ end }}
+</div>

@@ -8,21 +8,21 @@
 {{ end }}
 
 {{ define "main" }}
-{{/* GCSE options guide for Year 9 families: how options usually work, each
-     subject answered by a tutor who teaches it, what we do, and a free
-     options call.
+{{/* GCSE options guide for Year 9 families: how options work, each subject
+     answered by a tutor who teaches it, the questions families search for,
+     what we do, and a free options call.
 
-     Each subject is a file in content/gcse-options/ (never rendered on its
-     own, through the cascade in _index.md) with the tutor's details and its
-     questions. A subject shows once it has at least one answer, so answers
+     Each subject is a file in content/gcse-options/ with the tutor's details
+     and its questions. A subject shows here once it has an answer, so answers
      can go in as tutors send them; the ones still waiting are named under
-     the list. */}}
+     the list. A subject whose file has no build block also gets its own page
+     (layouts/gcse-options/single.html), and the guide links there. */}}
 {{ $p := .Params }}
 {{ $answered := slice }}
 {{ $pending := slice }}
 {{ range .Pages.ByWeight }}
   {{ $has := false }}
-  {{ range .Params.questions }}{{ if .a }}{{ $has = true }}{{ end }}{{ end }}
+  {{ range .Params.faqs }}{{ if .a }}{{ $has = true }}{{ end }}{{ end }}
   {{ if $has }}{{ $answered = $answered | append . }}{{ else }}{{ $pending = $pending | append . }}{{ end }}
 {{ end }}
 
@@ -77,6 +77,22 @@
     </div>
   </section>
 
+  {{ with $p.faqs }}
+  <section class="go-faq" id="questions">
+    <div class="go-wrap">
+      <h2>{{ $p.faq_heading | default "Common questions" }}</h2>
+      <div class="go-faq__list">
+        {{ range . }}
+        <details class="go-faq__item">
+          <summary><span>{{ .q }}</span><span class="go-faq__icon" aria-hidden="true"></span></summary>
+          <div class="go-faq__a">{{ $.RenderString (dict "display" "block") .a }}</div>
+        </details>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  {{ end }}
+
   <section class="go-help" id="about-us">
     <div class="go-wrap">
       <h2>{{ $p.help_heading }}</h2>
@@ -92,19 +108,7 @@
     </div>
   </section>
 
-  <section class="go-call" id="options-call">
-    <div class="go-call__inner">
-      <div class="go-call__copy">
-        <p class="go-eyebrow">{{ $p.call_eyebrow }}</p>
-        <h2>{{ $p.call_heading }}</h2>
-        <p>{{ $p.call_text }}</p>
-        {{ partial "webinar-proof.html" . }}
-      </div>
-      <div class="go-call__form">
-        {{ partial "sj-lead-form.html" (dict "ctx" . "btn" $p.call_button "msgPh" $p.call_placeholder "subject" "GCSE options call (Year 9)") }}
-      </div>
-    </div>
-  </section>
+  {{ partial "gcse-options-call.html" (dict "copy" . "ctx" .) }}
 
 </div>
 {{ end }}

@@ -1,0 +1,18 @@
+{{/* The free options call: copy from the guide's params, and the shared
+     subject-page form, tagged so the lead reads "GCSE options call (Year 9)"
+     in Zoho. dict: copy (the guide page), ctx (the page it sits on, for the
+     form's page_url). */}}
+{{ $c := .copy.Params }}
+<section class="go-call" id="options-call">
+  <div class="go-call__inner">
+    <div class="go-call__copy">
+      <p class="go-eyebrow">{{ $c.call_eyebrow }}</p>
+      <h2>{{ $c.call_heading }}</h2>
+      <p>{{ $c.call_text }}</p>
+      {{ partial "webinar-proof.html" .ctx }}
+    </div>
+    <div class="go-call__form">
+      {{ partial "sj-lead-form.html" (dict "ctx" .ctx "btn" $c.call_button "msgPh" $c.call_placeholder "subject" "GCSE options call (Year 9)") }}
+    </div>
+  </div>
+</section>

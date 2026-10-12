@@ -1,0 +1,18 @@
+{{/* The tutor who answered a subject in the GCSE options guide. From
+     data/tutors.yaml when the subject sets tutor_slug; tutor_name,
+     tutor_role and tutor_photo fill in or override it. Nothing shows until
+     there is a name. */}}
+{{ $name := .Params.tutor_name }}
+{{ $role := .Params.tutor_role }}
+{{ $photo := .Params.tutor_photo }}
+{{ with .Params.tutor_slug }}{{ with where site.Data.tutors "slug" . }}{{ $t := index . 0 }}
+  {{ $name = $name | default $t.name }}
+  {{ $role = $role | default $t.qualifications }}
+  {{ $photo = $photo | default $t.image }}
+{{ end }}{{ end }}
+{{ with $name }}
+<div class="go-tutor">
+  {{ with $photo }}<img src="{{ partial "url.html" . }}" alt="{{ $name }}" width="52" height="52" loading="lazy" decoding="async">{{ end }}
+  <p><span>Answered by</span> <b>{{ . }}</b>{{ with $role }}<small>{{ . }}</small>{{ end }}</p>
+</div>
+{{ end }}

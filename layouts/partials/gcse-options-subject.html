@@ -1,38 +1,19 @@
-{{/* One subject on the GCSE options guide, from a file in
-     content/gcse-options/. The tutor comes from data/tutors.yaml when
-     tutor_slug is set; tutor_name, tutor_role and tutor_photo fill in or
-     override it. Unanswered questions are left out. The first two answers
-     (why pick it, and why it might not suit) sit side by side on a wide
-     screen. */}}
-{{ $s := . }}
+{{/* One subject in the GCSE options guide, from a file in
+     content/gcse-options/. Unanswered questions are left out. Once the
+     subject has its own page (its build block removed), the guide shows the
+     first two answers and links there for the rest. */}}
 {{ $qs := slice }}
-{{ range .Params.questions }}{{ if .a }}{{ $qs = $qs | append . }}{{ end }}{{ end }}
-{{ $name := .Params.tutor_name }}
-{{ $role := .Params.tutor_role }}
-{{ $photo := .Params.tutor_photo }}
-{{ with .Params.tutor_slug }}{{ with where site.Data.tutors "slug" . }}{{ $t := index . 0 }}
-  {{ $name = $name | default $t.name }}
-  {{ $role = $role | default $t.qualifications }}
-  {{ $photo = $photo | default $t.image }}
-{{ end }}{{ end }}
+{{ range .Params.faqs }}{{ if .a }}{{ $qs = $qs | append . }}{{ end }}{{ end }}
+{{ $own := .RelPermalink }}
+{{ $shown := $qs }}
+{{ if and $own (gt (len $qs) 2) }}{{ $shown = first 2 $qs }}{{ end }}
 <article class="go-subject" id="{{ .File.ContentBaseName }}">
   <header class="go-subject__head">
     <p class="go-subject__kind">{{ if eq .Params.group "core" }}Core subject{{ else }}Option subject{{ end }}</p>
-    <h3>{{ .Title }}</h3>
-    {{ with $name }}
-    <div class="go-tutor">
-      {{ with $photo }}<img src="{{ partial "url.html" . }}" alt="{{ $name }}" width="52" height="52" loading="lazy" decoding="async">{{ end }}
-      <p><span>Answered by</span> <b>{{ . }}</b>{{ with $role }}<small>{{ . }}</small>{{ end }}</p>
-    </div>
-    {{ end }}
+    <h3>{{ if $own }}<a href="{{ $own }}">{{ .Title }}</a>{{ else }}{{ .Title }}{{ end }}</h3>
+    {{ partial "gcse-options-tutor.html" . }}
   </header>
-  <div class="go-qa">
-    {{ range $i, $qa := $qs }}
-    <section class="go-qa__item{{ if lt $i 2 }} go-qa__item--pair{{ end }}">
-      <h4>{{ $qa.q }}</h4>
-      <div class="go-qa__a">{{ $s.RenderString (dict "display" "block") $qa.a }}</div>
-    </section>
-    {{ end }}
-  </div>
+  {{ partial "gcse-options-qa.html" (dict "page" . "items" $shown "tag" "h4") }}
+  {{ if and $own (gt (len $qs) 2) }}<p class="go-subject__more"><a href="{{ $own }}">Read all {{ len $qs }} answers on {{ .Title }}</a></p>{{ end }}
   <p class="go-subject__back"><a href="#subjects">Back to the subject list</a></p>
 </article>
