@@ -1,0 +1,110 @@
+{{ define "seo" }}
+{{ partial "seo.html" . }}
+{{ end }}
+
+{{ define "styles" }}
+{{ $css := resources.Get "css/gcse-options.css" | minify | fingerprint "sha256" }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}">
+{{ end }}
+
+{{ define "main" }}
+{{/* GCSE options guide for Year 9 families: how options usually work, each
+     subject answered by a tutor who teaches it, what we do, and a free
+     options call.
+
+     Each subject is a file in content/gcse-options/ (never rendered on its
+     own, through the cascade in _index.md) with the tutor's details and its
+     questions. A subject shows once it has at least one answer, so answers
+     can go in as tutors send them; the ones still waiting are named under
+     the list. */}}
+{{ $p := .Params }}
+{{ $answered := slice }}
+{{ $pending := slice }}
+{{ range .Pages.ByWeight }}
+  {{ $has := false }}
+  {{ range .Params.questions }}{{ if .a }}{{ $has = true }}{{ end }}{{ end }}
+  {{ if $has }}{{ $answered = $answered | append . }}{{ else }}{{ $pending = $pending | append . }}{{ end }}
+{{ end }}
+
+<div class="go-page">
+
+  <section class="go-hero">
+    <div class="go-hero__inner">
+      <div class="go-hero__copy">
+        <p class="go-eyebrow">{{ $p.hero_eyebrow }}</p>
+        <h1>{{ $p.hero_h1 }}</h1>
+        <p class="go-hero__lead">{{ $p.hero_lead }}</p>
+        <p class="go-hero__links">
+          <a href="#how-options-work">How options usually work</a>
+          {{ if $answered }}<a href="#subjects">Jump to a subject</a>{{ end }}
+        </p>
+      </div>
+      <aside class="go-callcard">
+        <p class="go-callcard__t">{{ $p.callcard_title }}</p>
+        <p class="go-callcard__s">{{ $p.callcard_text }}</p>
+        <a class="go-btn" href="#options-call">{{ $p.callcard_button }}</a>
+        <p class="go-callcard__note">{{ $p.callcard_note }}</p>
+      </aside>
+    </div>
+  </section>
+
+  <section class="go-primer" id="how-options-work">
+    <div class="go-wrap">
+      <h2>{{ $p.primer_heading }}</h2>
+      <p class="go-sub">{{ $p.primer_sub }}</p>
+      <ul class="go-primer__list">
+        {{ range $p.primer }}{{ $b := split . "|" }}
+        <li><b>{{ index $b 0 }}</b> {{ if gt (len $b) 1 }}{{ index $b 1 }}{{ end }}</li>
+        {{ end }}
+      </ul>
+    </div>
+  </section>
+
+  <section class="go-subjects" id="subjects">
+    <div class="go-wrap">
+      <h2>{{ $p.subjects_heading }}</h2>
+      <p class="go-sub">{{ $p.subjects_sub }}</p>
+      {{ with $answered }}
+      <nav class="go-chips" aria-label="Subjects">
+        {{ range . }}<a href="#{{ .File.ContentBaseName }}">{{ .Params.subject }}</a>{{ end }}
+      </nav>
+      {{ end }}
+      {{ range $answered }}{{ partial "gcse-options-subject.html" . }}{{ end }}
+      {{ with $pending }}
+      {{ $names := slice }}{{ range . }}{{ $names = $names | append .Params.subject }}{{ end }}
+      <p class="go-pending"><b>{{ if $answered }}Still to come:{{ else }}Coming first:{{ end }}</b> {{ delimit $names ", " " and " }}.</p>
+      {{ end }}
+    </div>
+  </section>
+
+  <section class="go-help" id="about-us">
+    <div class="go-wrap">
+      <h2>{{ $p.help_heading }}</h2>
+      <p class="go-sub go-sub--left">{{ $p.help_intro }}</p>
+      <div class="go-help__grid">
+        {{ range $p.help_points }}{{ $b := split . "|" }}
+        <div class="go-help__item">
+          <h3>{{ index $b 0 }}</h3>
+          {{ if gt (len $b) 1 }}<p>{{ index $b 1 }}</p>{{ end }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+
+  <section class="go-call" id="options-call">
+    <div class="go-call__inner">
+      <div class="go-call__copy">
+        <p class="go-eyebrow">{{ $p.call_eyebrow }}</p>
+        <h2>{{ $p.call_heading }}</h2>
+        <p>{{ $p.call_text }}</p>
+        {{ partial "webinar-proof.html" . }}
+      </div>
+      <div class="go-call__form">
+        {{ partial "sj-lead-form.html" (dict "ctx" . "btn" $p.call_button "msgPh" $p.call_placeholder "subject" "GCSE options call (Year 9)") }}
+      </div>
+    </div>
+  </section>
+
+</div>
+{{ end }}
