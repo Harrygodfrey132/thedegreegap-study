@@ -16,20 +16,14 @@ description: "A GCSE Chemistry tutor with 30 years' experience explains how Chem
 # photo and qualifications come from there), or fill in the three lines below.
 tutor_slug: "francisisaac"
 tutor_name: ""
-tutor_role: "GCSE and A-Level Chemistry tutor, MSc Chemistry"
+tutor_role: "MSc Chemistry, University of Essex"
 tutor_photo: ""
 # The bio at the top of the subject's own page, and the call at the bottom.
 # tutor_first is how the page refers to them ("Ask about lessons with Francis").
 # tutor_url defaults to their profile in data/tutors.yaml.
 tutor_first: "Francis"
-tutor_facts:
-  - "MSc Chemistry, University of Essex"
-  - "More than 30 years of teaching"
-  - "GCSE and A-Level Chemistry, Physics and Maths"
 tutor_bio: |
-  Francis has taught for more than 30 years and holds a Master's in Chemistry from the University of Essex. Students come to Francis for GCSE and A-Level Chemistry, as well as Physics and Maths.
-
-  Lessons start with the why. Once a student sees why atoms bond and why reactions happen, the equations stop being something to memorise. Then comes the exam side, which is where most marks slip away. Mole calculations, units, and command words like *explain* and *evaluate*.
+  Francis has been teaching for over 30 years and tutors GCSE and A-Level Chemistry, Physics and Maths.
 tutor_quote: "Chemistry is not about memorising facts; it is about understanding the world around us. The greatest reward in teaching is watching a student's confusion turn into understanding and confidence."
 # Paste each answer in as the tutor wrote it (markdown is fine). The subject
 # appears in the guide once it has an answer; empty answers are skipped.

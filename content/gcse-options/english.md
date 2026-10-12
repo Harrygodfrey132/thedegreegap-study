@@ -14,20 +14,14 @@ description: "A GCSE English tutor explains the difference between Language and 
 # photo and qualifications come from there), or fill in the three lines below.
 tutor_slug: "Jessica"
 tutor_name: ""
-tutor_role: "GCSE and A-Level English tutor"
+tutor_role: "BA English Language, Cardiff University"
 tutor_photo: ""
 # The bio at the top of the subject's own page, and the call at the bottom.
 # tutor_first is how the page refers to them ("Ask about lessons with Jess").
 # tutor_url defaults to their profile in data/tutors.yaml.
 tutor_first: "Jess"
-tutor_facts:
-  - "BA English Language, Cardiff University"
-  - "Three years of one-to-one tutoring"
-  - "Shakespeare to creative writing"
 tutor_bio: |
-  Jess studied English Language at Cardiff University and has spent the last three years tutoring GCSE and A-Level English, in private lessons and on community projects. Lessons run from Shakespeare to creative writing, and each one is planned around the student.
-
-  A lot of the work is showing students what a strong answer actually needs, paragraph by paragraph, with the mark scheme open on the table. Confidence tends to follow. And that's the part Jess enjoys most.
+  Jess has tutored GCSE and A-Level English for three years, in private lessons and on community projects. A lot of Jess's lessons go on exam technique: how to build a paragraph, and what the mark scheme is actually looking for.
 tutor_quote: "I love seeing a concept click in real time. When all of their effort pays off and they have a lightbulb moment, being a part of that is incredible."
 # Paste each answer in as the tutor wrote it (markdown is fine). The subject
 # appears in the guide once it has an answer; empty answers are skipped.

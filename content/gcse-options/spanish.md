@@ -14,20 +14,14 @@ description: "A GCSE Spanish tutor answers the questions Year 9 families ask: wh
 # photo and qualifications come from there), or fill in the three lines below.
 tutor_slug: "JoshuaRamsdale"
 tutor_name: ""
-tutor_role: "GCSE and A-Level Spanish and French tutor"
+tutor_role: "BA Modern Foreign Languages, Newcastle University"
 tutor_photo: ""
 # The bio at the top of the subject's own page, and the call at the bottom.
 # tutor_first is how the page refers to them ("Ask about lessons with Joshua").
 # tutor_url defaults to their profile in data/tutors.yaml.
 tutor_first: "Joshua"
-tutor_facts:
-  - "BA Modern Foreign Languages, Newcastle University"
-  - "Six years of tutoring, online and in person"
-  - "GCSE and A-Level Spanish and French"
 tutor_bio: |
-  Joshua has a degree in Modern Foreign Languages and an MA in International Relations, both from Newcastle University, and more than six years of tutoring behind him. Students aged 12 to 18 work with Joshua towards GCSE and A-Level Spanish and French, online and in person.
-
-  Lessons get students speaking out loud early, because that's when the grammar starts to stick. And there's plenty of patience for the jump that catches most Year 10s out: moving past the present tense.
+  Joshua has tutored Spanish and French for over six years, online and in person, mostly with students working towards GCSEs and A-Levels. Students in Joshua's lessons speak Spanish out loud from the start.
 # Joshua didn't send a separate quote, so this one is from his first answer.
 tutor_quote: "Spanish is a passport to the world. Once you learn the core building blocks, it clicks into place and is so rewarding to speak."
 # Paste each answer in as the tutor wrote it (markdown is fine). The subject
