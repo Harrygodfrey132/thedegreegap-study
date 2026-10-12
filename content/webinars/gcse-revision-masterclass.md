@@ -2,11 +2,11 @@
 title: "The GCSE Revision Masterclass | Free Webinar, Tuesday 24 November | The Degree Gap"
 description: "Free webinar for Year 10 and 11 families on Tuesday 24 November, 7 to 8pm. A 30-minute masterclass from Harry and Joe on mocks, revision at home and burnout, then 30 minutes of live Q&A."
 layout: "single"
-# Moved here from /webinars/gcse-revision-masterclass/ on 11 October 2026, once
-# the date was confirmed. static/.htaccess sends that address (and the older
-# /webinars/november-2026/) here with a 301. This is now the one permanent
-# address for the November 2026 webinar: after the session it becomes the
-# replay page at this same URL, so a school's link never breaks.
+# The one permanent address for the November 2026 webinar, matching its name.
+# It sat at /webinars/gcse-mocks-masterclass/ for a day (11 to 12 October
+# 2026); static/.htaccess still serves the page there and sends the older
+# /webinars/november-2026/ here. After the session this becomes the replay
+# page at this same URL, so a school's link never breaks.
 hero_eyebrow: "Free webinar · Year 10 and 11 families"
 hero_h1: "The GCSE Revision Masterclass"
 hero_lead: "The masterclass every parent should watch before mocks. In 30 minutes, Harry and Joe, co-founders of The Degree Gap, cover how to use mocks as a starting point, what good revision looks like at home, the early signs of burnout and how to support your child without adding pressure. Then it's 30 minutes of live Q&A, and everyone who registers receives the replay."
@@ -146,7 +146,7 @@ schools_parent_email: |
 
   Harry and Joe, co-founders of The Degree Gap, will cover how to use mocks as a starting point, how to sort revision into red, amber and green, what good revision looks like at home, the early signs of burnout, and how to support your child without adding pressure. There is a live Q&A at the end, and everyone who registers receives the replay.
 
-  Register free here: [thedegreegap.com/study/webinars/gcse-mocks-masterclass](https://thedegreegap.com/study/webinars/gcse-mocks-masterclass/)
+  Register free here: [thedegreegap.com/study/webinars/gcse-revision-masterclass](https://thedegreegap.com/study/webinars/gcse-revision-masterclass/)
 schools_website_lead: "Adding the webinar to your website? Copy the text below into a news post, your letters to parents page or your events calendar, so parents can find the sign-up link, and later the replay, in one place."
 # After the webinar, swap schools_website for the replay version so schools
 # that post late still link to the same page:
@@ -159,13 +159,13 @@ schools_website_lead: "Adding the webinar to your website? Copy the text below i
 #   revision looks like at home, the early signs of burnout and how to talk
 #   support your child without adding pressure.
 #
-#   Watch the replay: [thedegreegap.com/study/webinars/gcse-mocks-masterclass](https://thedegreegap.com/study/webinars/gcse-mocks-masterclass/)
+#   Watch the replay: [thedegreegap.com/study/webinars/gcse-revision-masterclass](https://thedegreegap.com/study/webinars/gcse-revision-masterclass/)
 schools_website: |
   **Free GCSE revision webinar for Year 10 and 11 families, Tuesday 24 November**
 
   [The Degree Gap](https://thedegreegap.com/) is running a free online webinar, The GCSE Revision Masterclass, for Year 10 and 11 students and their parents on Tuesday 24 November, 7 to 8pm. Harry and Joe, co-founders of The Degree Gap, will cover how to use mocks as a starting point, what good revision looks like at home, the early signs of burnout and how to support your child without adding pressure. There is a live Q&A at the end, and everyone who registers receives the replay.
 
-  Register free: [thedegreegap.com/study/webinars/gcse-mocks-masterclass](https://thedegreegap.com/study/webinars/gcse-mocks-masterclass/)
+  Register free: [thedegreegap.com/study/webinars/gcse-revision-masterclass](https://thedegreegap.com/study/webinars/gcse-revision-masterclass/)
 schools_note: "Would a square image for your newsletter or WhatsApp help? Email <a href=\"mailto:admin@thedegreegap.com\">admin@thedegreegap.com</a> and we will send it over."
 
 event_name: "The GCSE Revision Masterclass"

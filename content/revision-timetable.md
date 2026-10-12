@@ -18,7 +18,7 @@ hide_whatsapp: true
 # webinar when this one has run.
 parent_cta_text: "For parents: our free GCSE Revision Masterclass shows how to help a plan like this stick at home, without it turning into a row."
 parent_cta_label: "See the masterclass"
-parent_cta_url: "webinars/gcse-mocks-masterclass/"
+parent_cta_url: "webinars/gcse-revision-masterclass/"
 # Zoho Lead Source for anyone who asks for the printable templates. It has to
 # be a value already in the Lead Source picklist, or Zoho drops it. "Web
 # Download" was in the list and unused, so these leads are easy to pick out.
@@ -101,7 +101,7 @@ Agree it once, then check in once a week, on a Sunday, rather than every evening
 
 If one subject keeps dropping off the plan, it's usually the one that feels hardest, not the one your child cares least about. That's worth a conversation with the subject teacher.
 
-We go through all of this in our free [GCSE Revision Masterclass](/webinars/gcse-mocks-masterclass/) for parents. And if one subject is still slipping however good the plan is, you can [book a free 30-minute call](/book-a-call/) with Joe or me. We're an online tutoring agency for GCSE and A-Level, and we'll tell you honestly whether a tutor would help.
+We go through all of this in our free [GCSE Revision Masterclass](/webinars/gcse-revision-masterclass/) for parents. And if one subject is still slipping however good the plan is, you can [book a free 30-minute call](/book-a-call/) with Joe or me. We're an online tutoring agency for GCSE and A-Level, and we'll tell you honestly whether a tutor would help.
 
 ## Sources
 

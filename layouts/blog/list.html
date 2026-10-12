@@ -403,7 +403,7 @@
   {{ end }}
 
   {{/* ---- Webinar promo strip (shows this year's GCSE Revision Masterclass) ---- */}}
-  {{ $masterclass := site.GetPage "/webinars/gcse-mocks-masterclass" }}
+  {{ $masterclass := site.GetPage "/webinars/gcse-revision-masterclass" }}
   <section class="blog-webinar" aria-label="Free webinar">
     <a class="blog-webinar__card" href="{{ with $masterclass }}{{ .RelPermalink }}{{ else }}{{ "webinars/" | relURL }}{{ end }}">
       <div>

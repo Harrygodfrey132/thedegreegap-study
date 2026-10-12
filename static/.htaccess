@@ -50,17 +50,22 @@ RewriteRule ^locations/derby-tutors/gcse/physics-tutoring/?$  /study/locations/d
 # is the closest live equivalent.
 RewriteRule ^past-papers(/.*)?$  /study/blog/  [L,R=301]
 
-# The November 2026 parent webinar was renamed the GCSE Revision Masterclass
-# (October 2026), then moved to /webinars/gcse-mocks-masterclass/ when the
-# date was confirmed (11 October 2026). Both old addresses go straight to the
-# current one in a single hop. The query string carries over, so a tracked
-# link in an email already sent still records its utm_source.
-RewriteRule ^webinars/(november-2026|gcse-revision-masterclass)/?$  /study/webinars/gcse-mocks-masterclass/  [L,R=301]
+# The November 2026 parent webinar, The GCSE Revision Masterclass, lives at
+# /webinars/gcse-revision-masterclass/. Its first address, /webinars/
+# november-2026/, goes there in one 301, query string and all.
+RewriteRule ^webinars/november-2026/?$  /study/webinars/gcse-revision-masterclass/  [L,R=301]
+
+# From 11 to 12 October 2026 the page sat at /webinars/gcse-mocks-masterclass/,
+# and gcse-revision-masterclass 301'd there. Browsers keep a 301, so anyone
+# who followed it would loop if mocks now 301'd back. Until those copies have
+# aged out, the mocks address shows the same page (no redirect), and its
+# canonical tag points Google at gcse-revision-masterclass. Swap this for a
+# 301 after the session (December 2026).
+RewriteRule ^webinars/gcse-mocks-masterclass/?$  webinars/gcse-revision-masterclass/index.html  [L]
 
 # The first landing page for that same webinar, /parents-guide-to-gcses/, was
-# retired in October 2026: it advertised a date that never happened. Its
-# address goes to the masterclass too.
-RewriteRule ^parents-guide-to-gcses/?$  /study/webinars/gcse-mocks-masterclass/  [L,R=301]
+# retired in October 2026: it advertised a date that never happened.
+RewriteRule ^parents-guide-to-gcses/?$  /study/webinars/gcse-revision-masterclass/  [L,R=301]
 
 
 # ---------------------------------------------------------------------------
