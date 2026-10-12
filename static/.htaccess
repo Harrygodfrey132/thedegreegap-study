@@ -56,12 +56,12 @@ RewriteRule ^past-papers(/.*)?$  /study/blog/  [L,R=301]
 RewriteRule ^webinars/november-2026/?$  /study/webinars/gcse-revision-masterclass/  [L,R=301]
 
 # From 11 to 12 October 2026 the page sat at /webinars/gcse-mocks-masterclass/,
-# and gcse-revision-masterclass 301'd there. Browsers keep a 301, so anyone
-# who followed it would loop if mocks now 301'd back. Until those copies have
-# aged out, the mocks address shows the same page (no redirect), and its
-# canonical tag points Google at gcse-revision-masterclass. Swap this for a
-# 301 after the session (December 2026).
-RewriteRule ^webinars/gcse-mocks-masterclass/?$  webinars/gcse-revision-masterclass/index.html  [L]
+# and gcse-revision-masterclass 301'd there. Browsers keep a 301, so a plain
+# mocks-to-revision 301 would loop for anyone who followed the old one. The
+# ?from=mocks on this one makes it a different address from the one they
+# cached, so it lands. QSA keeps a link's own query string (utm tags), and the
+# page's canonical tag still names the clean address.
+RewriteRule ^webinars/gcse-mocks-masterclass/?$  /study/webinars/gcse-revision-masterclass/?from=mocks  [L,R=301,QSA]
 
 # The first landing page for that same webinar, /parents-guide-to-gcses/, was
 # retired in October 2026: it advertised a date that never happened.

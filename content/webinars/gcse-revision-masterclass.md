@@ -4,8 +4,8 @@ description: "Free webinar for Year 10 and 11 families on Tuesday 24 November, 7
 layout: "single"
 # The one permanent address for the November 2026 webinar, matching its name.
 # It sat at /webinars/gcse-mocks-masterclass/ for a day (11 to 12 October
-# 2026); static/.htaccess still serves the page there and sends the older
-# /webinars/november-2026/ here. After the session this becomes the replay
+# 2026); static/.htaccess 301s that address here, and the older
+# /webinars/november-2026/ too. After the session this becomes the replay
 # page at this same URL, so a school's link never breaks.
 hero_eyebrow: "Free webinar · Year 10 and 11 families"
 hero_h1: "The GCSE Revision Masterclass"
