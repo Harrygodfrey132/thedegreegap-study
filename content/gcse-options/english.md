@@ -23,6 +23,19 @@ tutor_first: "Jess"
 tutor_bio: |
   Jess has tutored GCSE and A-Level English for three years, in private lessons and on community projects. A lot of Jess's lessons go on exam technique: how to build a paragraph, and what the mark scheme is actually looking for.
 tutor_quote: "I love seeing a concept click in real time. When all of their effort pays off and they have a lightbulb moment, being a part of that is incredible."
+# The subject's own page reads like a blog post: date in the byline, the
+# intro as its opening line, then the answers. The form at the bottom asks
+# for lessons with Jess; requested_tutor tells us who to send the family to.
+date: 2026-10-12
+intro: "We asked Jess the questions Year 9 families ask us most about GCSE English. Here are the answers, in Jess's own words."
+form_cta: "Ask about English lessons with Jess"
+form_intro: "Leave your number and Harry or Joe will call you back within one working day. If Jess sounds like a good fit, your child can meet them on a free 15-minute video call before you book anything. No contract."
+form_message_label: "Anything Jess should know?"
+form_message_placeholder: "Your child's year group, and how English is going at the moment."
+form_button: "Ask about lessons with Jess"
+form_note: "Free, and no obligation. You'll know Jess's rate before anything's booked."
+form_lead_subject: "GCSE options guide (English, Jessica B)"
+form_requested_tutor: "Jessica B"
 # Paste each answer in as the tutor wrote it (markdown is fine). The subject
 # appears in the guide once it has an answer; empty answers are skipped.
 # Answers from Jess's email of 12 October 2026, lightly tidied.

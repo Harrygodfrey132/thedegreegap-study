@@ -2,56 +2,106 @@
 {{ partial "seo.html" . }}
 {{ end }}
 
-{{ define "styles" }}
-{{ $css := resources.Get "css/gcse-options.css" | minify | fingerprint "sha256" }}
-<link rel="stylesheet" href="{{ $css.RelPermalink }}">
-{{ end }}
-
 {{ define "main" }}
 {{/* A subject's own page in the GCSE options guide, built once its file in
-     content/gcse-options/ sets build.render to "always". Aimed at the
-     searches for that subject ("is gcse history hard"), with the tutor's
-     bio, every answer, a call asking for lessons with that tutor, and links
-     to the other subjects. Without a tutor_bio it falls back to the short
-     "Answered by" line and the guide's free options call. Its faqs also go
+     content/gcse-options/ has no build block. It reads like a blog post and
+     uses the blog's styles (partials/post-styles.html): the headline, a
+     byline for the tutor who answered, a short bio, then each question and
+     answer, and the enquiry form (partials/formspree.html, copy from the
+     form_* params) asking for lessons with that tutor. Aimed at the
+     searches for the subject ("is gcse chemistry hard"); its faqs also go
      to Google as FAQ structured data (partials/seo.html). */}}
+{{ partial "post-styles.html" . }}
 {{ $hub := .Parent }}
-{{ $qs := slice }}
-{{ range .Params.faqs }}{{ if .a }}{{ $qs = $qs | append . }}{{ end }}{{ end }}
-<div class="go-page">
+{{ $t := partial "gcse-options-tutor-data.html" . }}
+{{ $words := 0 }}
+{{ range .Params.faqs }}{{ $words = add $words (countwords .a) }}{{ end }}
+{{ $mins := math.Max 1 (math.Ceil (div (float $words) 220)) }}
 
-  <section class="go-hero go-hero--subject">
-    <div class="go-wrap">
-      <p class="go-crumb"><a href="{{ $hub.RelPermalink }}">GCSE options guide</a></p>
-      <p class="go-eyebrow">{{ if eq .Params.group "core" }}Core subject{{ else }}Option subject{{ end }}</p>
-      <h1>{{ .Params.h1 | default .Title }}</h1>
-      {{ if .Params.tutor_bio }}{{ partial "gcse-options-bio.html" . }}{{ else }}{{ partial "gcse-options-tutor.html" . }}{{ end }}
+<style>
+  .go-about { max-width: 720px; margin: 36px auto 0; padding: 0 24px; }
+  .go-about__inner { display: flex; gap: 18px; align-items: flex-start; padding: 22px 0; border-top: 1px solid #ece4d4; border-bottom: 1px solid #ece4d4; }
+  .go-about img { flex: 0 0 auto; width: 72px; height: 72px; border-radius: 50%; object-fit: cover; }
+  .go-about__name { margin: 0 0 6px; font-weight: 700; color: #171717; }
+  .go-about__text { font-size: .98rem; line-height: 1.65; color: #4a453f; }
+  .go-about__text p { margin: 0 0 8px; }
+  .go-about__text p:last-child { margin: 0; }
+  .go-about__text a { color: #800020; font-weight: 600; text-underline-offset: 3px; }
+  .go-page .post-body { padding-top: 40px; }
+  .go-page .post-body ul { list-style: disc; }
+  .go-page .post-body ol { list-style: decimal; }
+</style>
+
+<article class="post-page go-page">
+
+  <div class="post-progress" data-post-progress aria-hidden="true"></div>
+
+  <div class="post-back">
+    <a class="post-back__link" href="{{ $hub.RelPermalink }}">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+      GCSE options guide
+    </a>
+  </div>
+
+  <header class="post-header">
+    <p class="post-header__category">GCSE options guide &middot; {{ .Params.subject }}</p>
+    <h1 class="post-header__title">{{ .Params.h1 | default .Title }}</h1>
+    {{ with .Params.description }}<p class="post-header__lead">{{ . }}</p>{{ end }}
+    <p class="post-header__byline">
+      {{ with $t.name }}By&nbsp;<strong>{{ . }}</strong>{{ end }}
+      {{ if not .Date.IsZero }}<span class="post-header__byline-sep" aria-hidden="true">&middot;</span>{{ .Date.Format "2 January 2006" }}{{ end }}
+      <span class="post-header__byline-sep" aria-hidden="true">&middot;</span>
+      <span class="post-header__reading-time">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+        {{ $mins }} min read
+      </span>
+    </p>
+  </header>
+
+  {{ with .Params.tutor_bio }}
+  <aside class="go-about" aria-label="About {{ $t.name }}">
+    <div class="go-about__inner">
+      {{ with $t.photo }}<img src="{{ partial "url.html" . }}" alt="{{ $t.name }}" width="72" height="72" decoding="async">{{ end }}
+      <div>
+        <p class="go-about__name">{{ $t.name }}{{ with $t.role }}, {{ . }}{{ end }}</p>
+        <div class="go-about__text">
+          {{ $.RenderString (dict "display" "block") . }}
+          {{ with $t.url }}<p><a href="{{ . }}">See {{ $t.first }}'s profile</a></p>{{ end }}
+        </div>
+      </div>
     </div>
-  </section>
-
-  <section class="go-subjects go-subjects--single">
-    <div class="go-wrap">
-      {{ partial "gcse-options-qa.html" (dict "page" . "items" $qs "tag" "h2") }}
-    </div>
-  </section>
-
-  {{ if .Params.tutor_bio }}
-  {{ partial "gcse-options-tutor-call.html" . }}
-  {{ else }}
-  {{ partial "gcse-options-call.html" (dict "copy" $hub "ctx" .) }}
+  </aside>
   {{ end }}
 
-  {{ $others := slice }}
-  {{ range $hub.Pages.ByWeight }}{{ if and .RelPermalink (ne .RelPermalink $.RelPermalink) }}{{ $others = $others | append . }}{{ end }}{{ end }}
-  <section class="go-more">
-    <div class="go-wrap">
-      <h2>More from the GCSE options guide</h2>
-      <nav class="go-chips" aria-label="Other subjects">
-        <a href="{{ $hub.RelPermalink }}">How GCSE options work</a>
-        {{ range $others }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }}
-      </nav>
-    </div>
-  </section>
+  <div class="post-body">
+    {{ with .Params.intro }}<p>{{ . }}</p>{{ end }}
+    {{ range .Params.faqs }}{{ if .a }}
+    <h2>{{ .q }}</h2>
+    {{ $.RenderString (dict "display" "block") .a }}
+    {{ end }}{{ end }}
+    {{ with .Params.tutor_quote }}
+    <blockquote><p>&ldquo;{{ . }}&rdquo;</p><p>{{ $t.name }}</p></blockquote>
+    {{ end }}
+  </div>
 
-</div>
+</article>
+
+{{ partial "formspree.html" . }}
+
+<script>
+  (function () {
+    const bar = document.querySelector('[data-post-progress]');
+    if (!bar) return;
+    const update = () => {
+      const doc = document.documentElement;
+      const scrolled = (doc.scrollTop || document.body.scrollTop);
+      const max = (doc.scrollHeight - doc.clientHeight);
+      const pct = max > 0 ? Math.min(100, (scrolled / max) * 100) : 0;
+      bar.style.width = pct + '%';
+    };
+    window.addEventListener('scroll', update, { passive: true });
+    window.addEventListener('resize', update);
+    update();
+  })();
+</script>
 {{ end }}

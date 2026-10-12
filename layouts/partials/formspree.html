@@ -6,6 +6,10 @@
 {{ $messagePlaceholder := .Params.form_message_placeholder | default "Which universities are you applying to? Where are you in the writing process? Any particular areas you'd like help with?" }}
 {{ $buttonText := .Params.form_button | default "Send enquiry" }}
 {{ $note := .Params.form_note | default "We typically respond within one working day. No obligation." }}
+{{/* form_lead_subject replaces the subject in the lead and its email
+     subject line, and form_requested_tutor sends the tutor a family asked
+     for (the GCSE options guide's subject pages use both). */}}
+{{ $leadSubject := .Params.form_lead_subject | default $subject }}
 
 <section class="form-section" id="get-help">
   <div class="container">
@@ -18,11 +22,12 @@
           <input type="text" name="address_url" data-bait="1" tabindex="-1" autocomplete="off">
           <input type="email" name="company_website" data-bait="1" tabindex="-1" autocomplete="off">
         </div>
-        <input type="hidden" name="_subject" value="New enquiry{{ with $subject }}: {{ . }}{{ end }}{{ with $university }} ({{ . }}){{ end }} | The Degree Gap Study">
+        <input type="hidden" name="_subject" value="New enquiry{{ with $leadSubject }}: {{ . }}{{ end }}{{ with $university }} ({{ . }}){{ end }} | The Degree Gap Study">
         <input type="hidden" name="_next" value="{{ "book-a-call-thank-you/" | absURL }}">
         <input type="hidden" name="page_url" value="{{ .RelPermalink }}">
         {{ partial "attribution-fields.html" . }}
-        {{ with $subject }}<input type="hidden" name="subject" value="{{ . }}">{{ end }}
+        {{ with $leadSubject }}<input type="hidden" name="subject" value="{{ . }}">{{ end }}
+        {{ with .Params.form_requested_tutor }}<input type="hidden" name="requested_tutor" value="{{ . }}">{{ end }}
         {{ with $university }}<input type="hidden" name="university" value="{{ . }}">{{ end }}
 
         <div class="form-group">

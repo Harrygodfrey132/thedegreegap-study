@@ -1,5 +1,4 @@
-{{/* Reusable subject-page lead form (Formspree). dict: ctx, btn, msgPh, subject,
-     and optionally tutor (the tutor the family asked for, sent as requested_tutor) */}}
+{{/* Reusable subject-page lead form (Formspree). dict: ctx, btn, msgPh, subject */}}
 <form action="{{ .ctx.Site.Params.formspreeEndpoint }}" method="POST" novalidate>
   <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
   <div aria-hidden="true" style="position:absolute;left:-9999px;top:-9999px;width:0;height:0;overflow:hidden;opacity:0">
@@ -10,7 +9,6 @@
   <input type="hidden" name="page_url" value="{{ .ctx.RelPermalink }}">
   {{ partial "attribution-fields.html" . }}
   <input type="hidden" name="subject" value="{{ .subject }}">
-  {{ with .tutor }}<input type="hidden" name="requested_tutor" value="{{ . }}">{{ end }}
   <div class="loc-form-group"><input type="text" name="name" placeholder="Full name*" required></div>
   <div class="loc-form-group"><input type="tel" name="phone" placeholder="Phone number*" autocomplete="tel" required></div>
   <div class="loc-form-group"><textarea name="message" rows="3" placeholder="{{ .msgPh }}"></textarea></div>

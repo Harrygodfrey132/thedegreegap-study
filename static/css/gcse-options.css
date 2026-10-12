@@ -137,34 +137,8 @@
 .go-faq__a p { margin: 0 0 10px; }
 .go-faq__a p:last-child { margin-bottom: 0; }
 
-/* ---------- A SUBJECT'S OWN PAGE ---------- */
-.go-hero--subject .go-wrap { padding-top: 44px; padding-bottom: 40px; }
-@media (min-width: 900px) { .go-hero--subject .go-wrap { padding-top: 64px; padding-bottom: 56px; } }
-.go-crumb { margin: 0 0 18px; font-size: .9rem; }
-.go-crumb a { color: var(--muted); text-decoration: underline; text-underline-offset: 2px; }
-.go-hero--subject h1 { font-size: clamp(2.1rem, 5vw, 3rem); }
-.go-hero--subject .go-tutor { margin: 6px 0 0; }
-.go-subjects--single { border-top: 0; padding-top: 44px; }
-.go-qa__item h2 { margin: 0 0 8px; font-size: 1.12rem; font-weight: 700; line-height: 1.4; letter-spacing: 0; color: var(--ink); }
+/* ---------- LINKS TO A SUBJECT'S OWN PAGE ---------- */
 .go-subject h3 a { color: inherit; text-decoration: none; }
 .go-subject h3 a:hover { color: var(--burgundy); }
 .go-subject__more { margin: 20px 0 0; font-weight: 700; }
 .go-subject__more a { color: var(--burgundy); text-decoration: underline; text-underline-offset: 3px; }
-.go-more { padding: 52px 0 64px; border-top: 1px solid var(--line); background: var(--cream); }
-.go-more .go-chips { margin-top: 18px; }
-
-/* ---------- THE TUTOR'S BIO (a subject's own page) ---------- */
-.go-bio { display: flex; align-items: flex-start; gap: 20px; margin: 28px 0 0; padding: 26px 0 0; border-top: 1px solid var(--line); }
-.go-bio__img { flex: 0 0 auto; width: 96px; height: 96px; border-radius: 10px; object-fit: cover; }
-@media (max-width: 560px) { .go-bio { gap: 14px; } .go-bio__img { width: 64px; height: 64px; } }
-.go-bio__body { max-width: 62ch; }
-.go-bio__by { margin: 0 0 12px; line-height: 1.35; }
-.go-bio__by span { font-size: .9rem; color: var(--muted); }
-.go-bio__by b { font-size: 1.05rem; }
-.go-bio__by small { display: block; margin-top: 2px; font-size: .88rem; color: var(--muted); }
-.go-bio__text { font-size: 1rem; line-height: 1.65; color: #3a3530; }
-.go-bio__text p { margin: 0 0 10px; }
-.go-bio__quote { margin: 14px 0 0; padding-left: 14px; border-left: 3px solid var(--burgundy); font-style: italic; line-height: 1.6; color: var(--ink); }
-.go-bio__link { margin: 14px 0 0; font-size: .95rem; }
-.go-bio__link a { font-weight: 700; color: var(--burgundy); text-decoration: underline; text-underline-offset: 3px; }
-.go-call__copy > p:not(.go-eyebrow) + p { margin-top: 12px; }

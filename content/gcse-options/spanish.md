@@ -24,6 +24,19 @@ tutor_bio: |
   Joshua has tutored Spanish and French for over six years, online and in person, mostly with students working towards GCSEs and A-Levels. Students in Joshua's lessons speak Spanish out loud from the start.
 # Joshua didn't send a separate quote, so this one is from his first answer.
 tutor_quote: "Spanish is a passport to the world. Once you learn the core building blocks, it clicks into place and is so rewarding to speak."
+# The subject's own page reads like a blog post: date in the byline, the
+# intro as its opening line, then the answers. The form at the bottom asks
+# for lessons with Joshua; requested_tutor tells us who to send the family to.
+date: 2026-10-12
+intro: "We asked Joshua the questions Year 9 families ask us most about GCSE Spanish. Here are the answers, in Joshua's own words."
+form_cta: "Ask about Spanish lessons with Joshua"
+form_intro: "Leave your number and Harry or Joe will call you back within one working day. If Joshua sounds like a good fit, your child can meet them on a free 15-minute video call before you book anything. No contract."
+form_message_label: "Anything Joshua should know?"
+form_message_placeholder: "Your child's year group, and how Spanish is going at the moment."
+form_button: "Ask about lessons with Joshua"
+form_note: "Free, and no obligation. You'll know Joshua's rate before anything's booked."
+form_lead_subject: "GCSE options guide (Spanish, Joshua Ramsdale)"
+form_requested_tutor: "Joshua Ramsdale"
 # Paste each answer in as the tutor wrote it (markdown is fine). The subject
 # appears in the guide once it has an answer; empty answers are skipped.
 # Answers from Joshua's email of 12 October 2026, lightly tidied. He answered

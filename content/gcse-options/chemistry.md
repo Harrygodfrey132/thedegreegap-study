@@ -25,6 +25,19 @@ tutor_first: "Francis"
 tutor_bio: |
   Francis has been teaching for over 30 years and tutors GCSE and A-Level Chemistry, Physics and Maths.
 tutor_quote: "Chemistry is not about memorising facts; it is about understanding the world around us. The greatest reward in teaching is watching a student's confusion turn into understanding and confidence."
+# The subject's own page reads like a blog post: date in the byline, the
+# intro as its opening line, then the answers. The form at the bottom asks
+# for lessons with Francis; requested_tutor tells us who to send the family to.
+date: 2026-10-12
+intro: "We asked Francis the questions Year 9 families ask us most about GCSE Chemistry. Here are the answers, in Francis's own words."
+form_cta: "Ask about Chemistry lessons with Francis"
+form_intro: "Leave your number and Harry or Joe will call you back within one working day. If Francis sounds like a good fit, your child can meet them on a free 15-minute video call before you book anything. No contract."
+form_message_label: "Anything Francis should know?"
+form_message_placeholder: "Your child's year group, and how Chemistry is going at the moment."
+form_button: "Ask about lessons with Francis"
+form_note: "Free, and no obligation. You'll know Francis's rate before anything's booked."
+form_lead_subject: "GCSE options guide (Chemistry, Francis Isaac)"
+form_requested_tutor: "Francis Isaac"
 # Paste each answer in as the tutor wrote it (markdown is fine). The subject
 # appears in the guide once it has an answer; empty answers are skipped.
 # Answers from Francis's email of 12 October 2026, lightly tidied.
