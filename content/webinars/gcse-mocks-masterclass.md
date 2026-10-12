@@ -1,6 +1,6 @@
 ---
 title: "The GCSE Revision Masterclass | Free Webinar, Tuesday 24 November | The Degree Gap"
-description: "Free webinar for Year 10 and 11 families on Tuesday 24 November, 7 to 8pm. Harry and Joe's 45-minute masterclass on mocks, revision at home and burnout, with live Q&A and a replay."
+description: "Free webinar for Year 10 and 11 families on Tuesday 24 November, 7 to 8pm. A 30-minute masterclass from Harry and Joe on mocks, revision at home and burnout, then 30 minutes of live Q&A."
 layout: "single"
 # Moved here from /webinars/gcse-revision-masterclass/ on 11 October 2026, once
 # the date was confirmed. static/.htaccess sends that address (and the older
@@ -9,9 +9,9 @@ layout: "single"
 # replay page at this same URL, so a school's link never breaks.
 hero_eyebrow: "Free webinar · Year 10 and 11 families"
 hero_h1: "The GCSE Revision Masterclass"
-hero_lead: "The 45-minute masterclass every parent should watch before mocks. In 20 minutes, Harry and Joe, co-founders of The Degree Gap, cover how to use mocks as a starting point, what good revision looks like at home, the early signs of burnout and how to talk about revision without a row. Then it's 25 minutes of live Q&A, and everyone who registers receives the replay."
+hero_lead: "The masterclass every parent should watch before mocks. In 30 minutes, Harry and Joe, co-founders of The Degree Gap, cover how to use mocks as a starting point, what good revision looks like at home, the early signs of burnout and how to talk about revision without a row. Then it's 30 minutes of live Q&A, and everyone who registers receives the replay."
 card_title: "The GCSE Revision Masterclass"
-card_summary: "Harry and Joe's free 45-minute masterclass for Year 10 and 11 families before mocks, with live Q&A. Tuesday 24 November, 7 to 8pm."
+card_summary: "Harry and Joe's free 30-minute masterclass for Year 10 and 11 families before mocks, then 30 minutes of live Q&A. Tuesday 24 November, 7 to 8pm."
 cta_label: "Save my place"
 webinar_date: 2026-11-24T19:00:00+00:00
 webinar_end_date: 2026-11-24T20:00:00+00:00
@@ -89,8 +89,8 @@ reviews:
 included_heading: "What is included"
 included_sub: "Free for everyone. Here is what a family gets, and what a school gets if it shares the link."
 included_families:
-  - "A 20-minute masterclass|Practical advice from Harry and Joe, built around the questions parents ask us most."
-  - "25 minutes of live Q&A|Put your questions in the chat, and Harry and Joe will answer them live."
+  - "A 30-minute masterclass|Practical advice from Harry and Joe, built around the questions parents ask us most."
+  - "30 minutes of live Q&A|Put your questions in the chat, and Harry and Joe will answer them live."
   - "The replay by email|Sent the next day to everyone who registers, whether or not you watch live."
   - "A free mock feedback sheet|So your child can look back at each paper and work out where the marks went."
 included_schools:
@@ -109,7 +109,7 @@ submit_label: "Save my place"
 body_position: "after_form"
 
 # Mid-page routes back to the registration form in the hero.
-mid_cta_1: "Free to attend. 20 minutes from Harry and Joe, then 25 minutes of live Q&A."
+mid_cta_1: "Free to attend. 30 minutes from Harry and Joe, then 30 minutes of live Q&A."
 mid_cta_1_label: "Save my place"
 mid_cta_2: "Tuesday 24 November, 7 to 8pm, online. Free, and the replay goes to everyone who registers."
 mid_cta_2_label: "Save my place"
@@ -170,13 +170,13 @@ schools_website: |
 schools_note: "Would a square image for your newsletter or WhatsApp help? Email <a href=\"mailto:admin@thedegreegap.com\">admin@thedegreegap.com</a> and we will send it over."
 
 event_name: "The GCSE Revision Masterclass"
-event_description: "A free 45-minute online session for Year 10 and 11 students and their parents from The Degree Gap's co-founders: a 20-minute masterclass on using mocks as a starting point, what good revision looks like at home, spotting burnout early and talking about revision without a row, then 25 minutes of live Q&A."
+event_description: "A free hour-long online session for Year 10 and 11 students and their parents from The Degree Gap's co-founders: a 30-minute masterclass on using mocks as a starting point, what good revision looks like at home, spotting burnout early and talking about revision without a row, then 30 minutes of live Q&A."
 # Zoho Lead Source picklist value for this webinar.
 lead_source: "November 2026 Webinar"
 # "How the evening runs" as a timeline: one step per line, When|Title|Detail.
 schedule:
-  - "7pm|The 20-minute masterclass|Harry and Joe on the five areas above, using real examples from the families and students we work with."
-  - "Then|25 minutes of live Q&A|Your questions, whatever stage your child is at. Put them in the chat and Harry and Joe answer them live."
+  - "7pm|The 30-minute masterclass|Harry and Joe on the five areas above, using real examples from the families and students we work with."
+  - "7.30pm|30 minutes of live Q&A|Your questions, whatever stage your child is at. Put them in the chat and Harry and Joe answer them live."
   - "The next day|The replay|By email to everyone who registers, whether or not they watched live."
 
 # "Common questions" as an accordion. Answers are markdown, so they can link.
