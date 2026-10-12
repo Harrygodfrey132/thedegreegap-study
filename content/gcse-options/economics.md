@@ -12,12 +12,14 @@ h1: "Should your child take GCSE Economics?"
 description: "A Head of Economics answers the questions Year 9 families ask: why pick it, who should think twice, what students find hardest and how to revise."
 # Who answered. Either the slug of a tutor in data/tutors.yaml (the name,
 # photo and qualifications come from there), or fill in the three lines below.
-# Alex isn't in data/tutors.yaml yet, so there's no photo or profile link:
-# add tutor_photo and tutor_url once there are.
+# Alex isn't in data/tutors.yaml yet, so the profile link is set here. No
+# photo yet: save one to static/images/tutors/alex-grimmer.jpg and set
+# tutor_photo to "/images/tutors/alex-grimmer.jpg".
 tutor_slug: ""
 tutor_name: "Alex Grimmer"
 tutor_role: "Head of Economics and Careers"
 tutor_photo: ""
+tutor_url: "https://thedegreegap.com/teachers/view/Alex_Grimmer"
 # The bio at the top of the subject's own page, and the call at the bottom.
 # tutor_first is how the page refers to them ("Ask about lessons with Alex").
 # tutor_url defaults to their profile in data/tutors.yaml.
