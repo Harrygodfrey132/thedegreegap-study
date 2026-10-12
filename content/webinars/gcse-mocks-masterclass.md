@@ -9,7 +9,7 @@ layout: "single"
 # replay page at this same URL, so a school's link never breaks.
 hero_eyebrow: "Free webinar · Year 10 and 11 families"
 hero_h1: "The GCSE Revision Masterclass"
-hero_lead: "The masterclass every parent should watch before mocks. In 30 minutes, Harry and Joe, co-founders of The Degree Gap, cover how to use mocks as a starting point, what good revision looks like at home, the early signs of burnout and how to talk about revision without a row. Then it's 30 minutes of live Q&A, and everyone who registers receives the replay."
+hero_lead: "The masterclass every parent should watch before mocks. In 30 minutes, Harry and Joe, co-founders of The Degree Gap, cover how to use mocks as a starting point, what good revision looks like at home, the early signs of burnout and how to support your child without adding pressure. Then it's 30 minutes of live Q&A, and everyone who registers receives the replay."
 card_title: "The GCSE Revision Masterclass"
 card_summary: "Harry and Joe's free 30-minute masterclass for Year 10 and 11 families before mocks, then 30 minutes of live Q&A. Tuesday 24 November, 7 to 8pm."
 cta_label: "Save my place"
@@ -71,9 +71,9 @@ outcomes:
   - "Sort revision into red, amber and green|using your child's exam board specification (AQA, Edexcel or OCR), so the hours go on the topics that need them most."
   - "See what good revision looks like at home|and why rereading, highlighting and summarising feel productive but rarely stick. We show the active methods that do: past papers, mark schemes, flashcards spaced across the week and short timed blocks with proper breaks."
   - "Spot the early signs of burnout|and the simple things that protect focus: enough sleep, a phone-free zone while revising, a short to-do list each day and keeping hobbies going until at least Easter."
-  - "Talk about revision without a row|by swapping \"Have you done any revision?\" for a question that gets a real answer, and praising effort and strategy rather than cleverness."
+  - "Support your child without adding pressure|by swapping \"Have you done any revision?\" for questions that get a real answer, and praising effort and strategy rather than cleverness."
 
-takeaway: "You leave with a realistic plan for the weeks before mocks, a simple way to decide what your child revises first, and the words to talk about it at home without it turning into an argument."
+takeaway: "You leave with a realistic plan for the weeks before mocks, a clear way to decide what your child revises first, and practical ways to support them at home without adding pressure."
 
 # Reviews from parents who came to earlier runs of our parent webinars.
 reviews_eyebrow: "What parents said about our earlier webinars"
@@ -125,13 +125,12 @@ end_cta_lead: "Tuesday 24 November, 7 to 8pm. Register to get the joining link, 
 schools_position: "top"
 schools_eyebrow: "For schools"
 # Beside the review badges, just above the ask to share: "Bold part|rest".
-# The award as the rest of the site words it (Prestige Awards, 2025 and 2026). Attendance from Harry (11 Oct
-# 2026): January 2026 was given as 2,600 and as 2,500 people joining, March
-# 2026 as 2,300, September 2026 as 565. "2,500+" holds for either January
-# figure; make it exact once confirmed.
+# The award as the rest of the site words it (Prestige Awards, 2025 and 2026).
+# The parents figure is Joe's (12 Oct 2026), across last year's webinars:
+# Harry gave January 2026 as about 2,500, March as 2,300 and September as 565.
 schools_proof:
   - "GCSE Tutoring Specialists of the Year|Prestige Awards 2025 and 2026"
-  - "2,500+ people|joined our January 2026 webinar"
+  - "5,000+ parents|joined our webinars last year"
 schools_heading: "Sharing this with your families?"
 schools_lead: "Thank you. There's nothing for the school to organise. Copy the email or the website text below, and edit it however you like."
 schools_parent_email_subject: "Free revision webinar for Year 10 and 11 families, Tuesday 24 November"
@@ -145,7 +144,7 @@ schools_parent_email: |
   **The GCSE Revision Masterclass**<br>
   Tuesday 24 November, 7 to 8pm, online
 
-  Harry and Joe, co-founders of The Degree Gap, will cover how to use mocks as a starting point, how to sort revision into red, amber and green, what good revision looks like at home, the early signs of burnout, and how to talk about revision without a row. There is a live Q&A at the end, and everyone who registers receives the replay.
+  Harry and Joe, co-founders of The Degree Gap, will cover how to use mocks as a starting point, how to sort revision into red, amber and green, what good revision looks like at home, the early signs of burnout, and how to support your child without adding pressure. There is a live Q&A at the end, and everyone who registers receives the replay.
 
   Register free here: [thedegreegap.com/study/webinars/gcse-mocks-masterclass](https://thedegreegap.com/study/webinars/gcse-mocks-masterclass/)
 schools_website_lead: "Adding the webinar to your website? Copy the text below into a news post, your letters to parents page or your events calendar, so parents can find the sign-up link, and later the replay, in one place."
@@ -158,19 +157,19 @@ schools_website_lead: "Adding the webinar to your website? Copy the text below i
 #   11 families from [The Degree Gap](https://thedegreegap.com/), is now
 #   available. It covers how to use mocks as a starting point, what good
 #   revision looks like at home, the early signs of burnout and how to talk
-#   about revision without a row.
+#   support your child without adding pressure.
 #
 #   Watch the replay: [thedegreegap.com/study/webinars/gcse-mocks-masterclass](https://thedegreegap.com/study/webinars/gcse-mocks-masterclass/)
 schools_website: |
   **Free GCSE revision webinar for Year 10 and 11 families, Tuesday 24 November**
 
-  [The Degree Gap](https://thedegreegap.com/) is running a free online webinar, The GCSE Revision Masterclass, for Year 10 and 11 students and their parents on Tuesday 24 November, 7 to 8pm. Harry and Joe, co-founders of The Degree Gap, will cover how to use mocks as a starting point, what good revision looks like at home, the early signs of burnout and how to talk about revision without a row. There is a live Q&A at the end, and everyone who registers receives the replay.
+  [The Degree Gap](https://thedegreegap.com/) is running a free online webinar, The GCSE Revision Masterclass, for Year 10 and 11 students and their parents on Tuesday 24 November, 7 to 8pm. Harry and Joe, co-founders of The Degree Gap, will cover how to use mocks as a starting point, what good revision looks like at home, the early signs of burnout and how to support your child without adding pressure. There is a live Q&A at the end, and everyone who registers receives the replay.
 
   Register free: [thedegreegap.com/study/webinars/gcse-mocks-masterclass](https://thedegreegap.com/study/webinars/gcse-mocks-masterclass/)
 schools_note: "Would a square image for your newsletter or WhatsApp help? Email <a href=\"mailto:admin@thedegreegap.com\">admin@thedegreegap.com</a> and we will send it over."
 
 event_name: "The GCSE Revision Masterclass"
-event_description: "A free hour-long online session for Year 10 and 11 students and their parents from The Degree Gap's co-founders: a 30-minute masterclass on using mocks as a starting point, what good revision looks like at home, spotting burnout early and talking about revision without a row, then 30 minutes of live Q&A."
+event_description: "A free hour-long online session for Year 10 and 11 students and their parents from The Degree Gap's co-founders: a 30-minute masterclass on using mocks as a starting point, what good revision looks like at home, spotting burnout early and supporting your child without adding pressure, then 30 minutes of live Q&A."
 # Zoho Lead Source picklist value for this webinar.
 lead_source: "November 2026 Webinar"
 # "How the evening runs" as a timeline: one step per line, When|Title|Detail.
