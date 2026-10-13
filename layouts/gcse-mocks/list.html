@@ -1,0 +1,103 @@
+{{ define "seo" }}
+{{ partial "seo.html" . }}
+{{ end }}
+
+{{ define "main" }}
+{{/* The GCSE mocks guide at /study/gcse-mocks/: when mocks happen, what the
+     results mean and what to do next. It reads like a blog post and uses
+     the blog's styles (partials/post-styles.html), with the guide itself
+     in the content file's markdown, its faqs underneath (also sent to
+     Google as FAQ structured data by partials/seo.html), links on to the
+     blog post and the masterclass, and the enquiry form
+     (partials/formspree.html, copy from the form_* params). */}}
+{{ partial "post-styles.html" . }}
+{{ $words := countwords .Content }}
+{{ range .Params.faqs }}{{ $words = add $words (countwords .a) }}{{ end }}
+{{ $mins := math.Max 1 (math.Ceil (div (float $words) 220)) }}
+
+<style>
+  .gm-page .post-body ul { list-style: disc; }
+  .gm-page .post-body ol { list-style: decimal; }
+  .gm-page .post-body h3 { margin-top: 30px; }
+</style>
+
+<article class="post-page gm-page">
+
+  <div class="post-progress" data-post-progress aria-hidden="true"></div>
+
+  <header class="post-header" style="padding-top: 56px;">
+    {{ with .Params.category }}<p class="post-header__category">{{ . }}</p>{{ end }}
+    <h1 class="post-header__title">{{ .Params.h1 | default .Title }}</h1>
+    {{ with .Params.lead }}<p class="post-header__lead">{{ . }}</p>{{ end }}
+    <p class="post-header__byline">
+      {{ with .Params.author }}By&nbsp;<strong>{{ . }}</strong>{{ end }}
+      {{ with .Params.author_role }}, {{ . }}{{ end }}
+      {{ if not .Lastmod.IsZero }}<span class="post-header__byline-sep" aria-hidden="true">&middot;</span>Updated {{ .Lastmod.Format "2 January 2006" }}{{ end }}
+      <span class="post-header__byline-sep" aria-hidden="true">&middot;</span>
+      <span class="post-header__reading-time">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+        {{ $mins }} min read
+      </span>
+    </p>
+  </header>
+
+  {{ with .Params.hero_image }}
+  <div class="post-hero">
+    {{ partial "responsive-image.html" (dict "src" . "alt" ($.Params.hero_alt | default $.Title) "loading" "eager" "fetchPriority" "high" "widths" (slice 640 1000 1400) "fallbackWidth" 1000 "quality" 70 "sizes" "(min-width: 1080px) 1032px, calc(100vw - 48px)") }}
+  </div>
+  {{ end }}
+
+  <div class="post-body">
+    {{ .Content }}
+    {{ with .Params.faqs }}
+    <h2>{{ $.Params.faq_heading | default "Questions parents ask about mocks" }}</h2>
+    {{ range . }}
+    <h3>{{ .q }}</h3>
+    {{ $.RenderString (dict "display" "block") .a }}
+    {{ end }}
+    {{ end }}
+  </div>
+
+  {{ with .Params.related_links }}
+  <section class="post-related">
+    <div class="post-related__inner">
+      <p class="post-related__eyebrow">RELATED ON THE SITE</p>
+      <h2 class="post-related__heading">Where to go next</h2>
+      <ul class="post-related__list">
+        {{ range . }}
+        <li>
+          <a class="post-related__item" href="{{ partial "url.html" .url }}">
+            <span class="post-related__item-text">
+              <strong class="post-related__item-title">{{ .title }}</strong>
+              {{ with .description }}<span class="post-related__item-sub">{{ . }}</span>{{ end }}
+            </span>
+            <svg class="post-related__item-arrow" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+  </section>
+  {{ end }}
+
+</article>
+
+{{ partial "formspree.html" . }}
+
+<script>
+  (function () {
+    const bar = document.querySelector('[data-post-progress]');
+    if (!bar) return;
+    const update = () => {
+      const doc = document.documentElement;
+      const scrolled = (doc.scrollTop || document.body.scrollTop);
+      const max = (doc.scrollHeight - doc.clientHeight);
+      const pct = max > 0 ? Math.min(100, (scrolled / max) * 100) : 0;
+      bar.style.width = pct + '%';
+    };
+    window.addEventListener('scroll', update, { passive: true });
+    window.addEventListener('resize', update);
+    update();
+  })();
+</script>
+{{ end }}

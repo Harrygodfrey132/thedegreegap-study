@@ -502,6 +502,12 @@
     <p class="ads-more__label">Other {{ $level }} subjects</p>
     <div class="ads-more__grid">{{ range first 10 . }}<a class="ads-more__pill" href="{{ .RelPermalink }}">{{ .Params.subject }}</a>{{ end }}</div>
     {{ end }}
+    {{/* Hand-picked links, for a page outside the level and subject
+         pattern (the GCSE resit page links its blog post this way). */}}
+    {{ with $p.related_links }}
+    <p class="ads-more__label">Further reading</p>
+    <div class="ads-more__grid">{{ range . }}<a class="ads-more__pill" href="{{ partial "url.html" .url }}">{{ .title }}</a>{{ end }}</div>
+    {{ end }}
     {{ with $locCovered }}
     <p class="ads-more__label">Areas we cover for {{ $label }}</p>
     <div class="ads-more__grid">{{ range (sort . "Params.location") }}<a class="ads-more__pill" href="{{ .RelPermalink }}">{{ .Params.location }}</a>{{ end }}</div>
