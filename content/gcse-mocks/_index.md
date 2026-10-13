@@ -42,6 +42,19 @@ faqs:
   - q: "Should we get a tutor after a bad mock?"
     a: "Not on the day it comes home. Look through the paper first and talk to the teacher. Some of what you find you can sort at home. If what's left is a topic that's missing, or technique nobody has time to work on in a class of thirty, that's when an hour a week with a tutor starts to pay off."
 
+# Where the facts come from, listed at the end of the article.
+sources:
+  - title: "JCQ, commentary on the June 2027 exam timetable"
+    url: "https://www.jcq.org.uk/wp-content/uploads/sites/2/2026/05/Commentary-June-2027-timetable.pdf"
+    note: "for the summer 2027 exam dates"
+  - title: "Third Space Learning, GCSE results day 2027"
+    url: "https://thirdspacelearning.com/blog/gcse-results-day-2027/"
+    note: "for results day on 19 August 2027"
+  - title: "Ofqual, tier entry in GCSE maths"
+    url: "https://ofqual.blog.gov.uk/2020/01/23/gcse-tier-entry-in-2020/"
+    note: "for foundation and higher tier"
+sources_note: "Mock dates, papers and marking are set by each school, so the months above are the usual pattern rather than fixed dates. Teaching-week counts are approximate and depend on your school calendar."
+
 related_links:
   - title: "Do mock exams actually matter?"
     url: "/blog/do-mock-exams-matter/"

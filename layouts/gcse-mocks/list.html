@@ -56,6 +56,11 @@
     {{ $.RenderString (dict "display" "block") .a }}
     {{ end }}
     {{ end }}
+    {{ with .Params.sources }}
+    <h2>Sources</h2>
+    <ul>{{ range . }}<li><a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>{{ with .note }}, {{ . }}{{ end }}</li>{{ end }}</ul>
+    {{ with $.Params.sources_note }}<p><em>{{ . }}</em></p>{{ end }}
+    {{ end }}
   </div>
 
   {{ with .Params.related_links }}

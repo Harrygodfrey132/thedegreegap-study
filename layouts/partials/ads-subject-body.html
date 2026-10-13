@@ -482,6 +482,11 @@
   .ads-more__grid { display:flex; flex-wrap:wrap; justify-content:center; gap:10px; }
   .ads-more__pill { display:inline-flex; align-items:center; background:#fff; border:1px solid #ece4d4; border-radius:999px; padding:9px 16px; font-size:.9rem; font-weight:600; color:#1f1b18; text-decoration:none; transition:border-color .15s, color .15s; }
   .ads-more__pill:hover { border-color:#e6c9c9; color:#800020; }
+  .ads-sources { max-width:680px; margin:30px auto 0; text-align:left; }
+  .ads-sources ul { margin:10px 0 0; padding-left:20px; list-style:disc; }
+  .ads-sources li { margin:0 0 6px; font-size:.9rem; line-height:1.55; color:#5f5a54; }
+  .ads-sources a { color:#800020; text-decoration:underline; text-underline-offset:2px; }
+  .ads-sources p { margin:12px 0 0; font-size:.86rem; color:#5f5a54; }
   .ads-more__nav { display:flex; gap:8px 26px; justify-content:center; flex-wrap:wrap; margin-top:28px; }
   .ads-more__nav a { color:#800020; font-weight:700; text-decoration:none; font-size:.95rem; }
 </style>
@@ -507,6 +512,15 @@
     {{ with $p.related_links }}
     <p class="ads-more__label">Further reading</p>
     <div class="ads-more__grid">{{ range . }}<a class="ads-more__pill" href="{{ partial "url.html" .url }}">{{ .title }}</a>{{ end }}</div>
+    {{ end }}
+    {{/* Where the page's facts come from, for a page that quotes dates and
+         figures (the GCSE resit page). */}}
+    {{ with $p.sources }}
+    <div class="ads-sources">
+      <p class="ads-more__label">Sources</p>
+      <ul>{{ range . }}<li><a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>{{ with .note }}, {{ . }}{{ end }}</li>{{ end }}</ul>
+      {{ with $p.sources_note }}<p>{{ . }}</p>{{ end }}
+    </div>
     {{ end }}
     {{ with $locCovered }}
     <p class="ads-more__label">Areas we cover for {{ $label }}</p>
