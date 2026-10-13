@@ -27,6 +27,9 @@
   .go-about__text p { margin: 0 0 8px; }
   .go-about__text p:last-child { margin: 0; }
   .go-about__text a { color: #800020; font-weight: 600; text-underline-offset: 3px; }
+  .go-about__links { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 22px; }
+  .go-about__text a.go-about__book { font-weight: 700; }
+  #get-help { scroll-margin-top: 90px; }
   .go-page .post-body { padding-top: 40px; }
   .go-page .post-body ul { list-style: disc; }
   .go-page .post-body ol { list-style: decimal; }
@@ -66,7 +69,12 @@
         <p class="go-about__name">{{ $t.name }}{{ with $t.role }}, {{ . }}{{ end }}</p>
         <div class="go-about__text">
           {{ $.RenderString (dict "display" "block") . }}
-          {{ with $t.url }}<p><a href="{{ . }}">See {{ $t.first }}'s profile</a></p>{{ end }}
+          {{/* The booking link goes to the form at the foot of the page, which
+               already names this subject and tutor in the lead. */}}
+          <p class="go-about__links">
+            {{ with $t.url }}<a href="{{ . }}">See {{ $t.first }}'s profile</a>{{ end }}
+            <a class="go-about__book" href="#get-help">Book a free consultation call today &rarr;</a>
+          </p>
         </div>
       </div>
     </div>
