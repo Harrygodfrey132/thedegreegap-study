@@ -24,7 +24,7 @@ tutor_url: "https://thedegreegap.com/teachers/view/Alex_Grimmer"
 # tutor_url defaults to their profile in data/tutors.yaml.
 tutor_first: "Alex"
 tutor_bio: |
-  Alex is Head of Economics and Careers at a secondary school, and has taught Economics and Business for many years. Alex also tutors students one-to-one through The Degree Gap.
+  Alex works in a secondary school and a college as Head of Economics and Careers, and has taught Economics and Business for many years. Alex also tutors students one-to-one through The Degree Gap.
 tutor_quote: "There's a particularly rewarding moment when a student stops seeing Economics as a collection of diagrams and definitions and starts recognising it in everyday life."
 # The subject's own page reads like a blog post: date in the byline, the
 # intro as its opening line, then the answers. The form at the bottom asks
