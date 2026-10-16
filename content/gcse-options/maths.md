@@ -12,18 +12,19 @@ h1: "GCSE Maths: what parents should know before Year 10"
 description: "A GCSE Maths tutor answers the questions Year 9 families ask: why it matters so much, Foundation or Higher tier, where students lose marks and how to revise."
 # Who answered. Either the slug of a tutor in data/tutors.yaml (the name,
 # photo and qualifications come from there), or fill in the three lines below.
-# Stephanie isn't in data/tutors.yaml yet, so the photo is set here. No
-# profile link yet: add tutor_url once there is one.
+# Stephanie isn't in data/tutors.yaml yet, so the photo and profile link
+# are set here.
 tutor_slug: ""
 tutor_name: "Stephanie Andrews"
 tutor_role: "GCSE Maths tutor, PhD"
 tutor_photo: "/images/tutors/stephanie-andrews.jpg"
+tutor_url: "https://thedegreegap.com/teachers/view/StephanieA"
 # The bio at the top of the subject's own page, and the call at the bottom.
 # tutor_first is how the page refers to them ("Ask about lessons with Stephanie").
 # tutor_url defaults to their profile in data/tutors.yaml.
 tutor_first: "Stephanie"
 tutor_bio: |
-  Stephanie has a PhD and tutors GCSE Maths one-to-one through The Degree Gap. Lessons with Stephanie lean on little and often: a few minutes a day going back over formulas and methods, and plenty of past papers under timed conditions before the real thing.
+  Stephanie has a PhD, is studying for a Master's in Psychology with the Open University, and tutors GCSE Maths one-to-one through The Degree Gap. Lessons with Stephanie lean on little and often: a few minutes a day going back over formulas and methods, and plenty of past papers under timed conditions before the real thing.
 tutor_quote: "What I love most about teaching Maths is watching a student's confidence grow, and hoping it turns into the same passion I have for the subject."
 # The subject's own page reads like a blog post: date in the byline, the
 # intro as its opening line, then the answers. The form at the bottom asks
