@@ -1,6 +1,6 @@
 ---
-title: "The GCSE Revision Masterclass | Free Webinar, Tuesday 24 November | The Degree Gap"
-description: "Free webinar for Year 10 and 11 families on Tuesday 24 November, 7 to 8pm. A 30-minute masterclass from Harry and Joe on mocks, revision at home and burnout, then 30 minutes of live Q&A."
+title: "The GCSE Revision Masterclass | Free Webinar, Tuesday 1 December | The Degree Gap"
+description: "Free webinar for Year 10 and 11 families on Tuesday 1 December, 7 to 8pm. A 30-minute masterclass from Harry and Joe on mocks, revision at home and burnout, then 30 minutes of live Q&A."
 layout: "single"
 # The one permanent address for the November 2026 webinar, matching its name.
 # It sat at /webinars/gcse-mocks-masterclass/ for a day (11 to 12 October
@@ -11,18 +11,18 @@ hero_eyebrow: "Free webinar · Year 10 and 11 families"
 hero_h1: "The GCSE Revision Masterclass"
 hero_lead: "The masterclass every parent should watch before mocks. In 30 minutes, Harry and Joe, co-founders of The Degree Gap, cover how to use mocks as a starting point, what good revision looks like at home, the early signs of burnout and how to support your child without adding pressure. Then it's 30 minutes of live Q&A, and everyone who registers receives the replay."
 card_title: "The GCSE Revision Masterclass"
-card_summary: "Harry and Joe's free 30-minute masterclass for Year 10 and 11 families before mocks, then 30 minutes of live Q&A. Tuesday 24 November, 7 to 8pm."
+card_summary: "Harry and Joe's free 30-minute masterclass for Year 10 and 11 families before mocks, then 30 minutes of live Q&A. Tuesday 1 December, 7 to 8pm."
 cta_label: "Save my place"
-webinar_date: 2026-11-24T19:00:00+00:00
-webinar_end_date: 2026-11-24T20:00:00+00:00
-webinar_date_display: "Tuesday 24 November 2026"
+webinar_date: 2026-12-01T19:00:00+00:00
+webinar_end_date: 2026-12-01T20:00:00+00:00
+webinar_date_display: "Tuesday 1 December 2026"
 webinar_time_display: "7 to 8pm, online (UK time)"
 
 # Registration form sits in the hero, beside the copy, so a parent can sign up
 # without scrolling.
 hero_form: true
 hero_form_title: "Save your free place"
-hero_form_sub: "Register here to get your joining link. We email it on Sunday 22 November, with a reminder at 4pm on the day."
+hero_form_sub: "Register here to get your joining link. We email it on Sunday 29 November, with a reminder at 4pm on the day."
 # In September a parent took the school newsletter link for the joining link,
 # so the hero says plainly that registering is what gets you in.
 hero_replay_note: "<b>You need to register to get the joining link.</b> Can't make 7pm? Register anyway and we email you the replay the next day."
@@ -111,10 +111,10 @@ body_position: "after_form"
 # Mid-page routes back to the registration form in the hero.
 mid_cta_1: "Free to attend. 30 minutes from Harry and Joe, then 30 minutes of live Q&A."
 mid_cta_1_label: "Save my place"
-mid_cta_2: "Tuesday 24 November, 7 to 8pm, online. Free, and the replay goes to everyone who registers."
+mid_cta_2: "Tuesday 1 December, 7 to 8pm, online. Free, and the replay goes to everyone who registers."
 mid_cta_2_label: "Save my place"
 end_cta_heading: "Save your free place"
-end_cta_lead: "Tuesday 24 November, 7 to 8pm. Register to get the joining link, and the replay if you can't make it live."
+end_cta_lead: "Tuesday 1 December, 7 to 8pm. Register to get the joining link, and the replay if you can't make it live."
 
 # "For schools" section, straight after the hero (schools_position: top)
 # because getting schools to share the page matters most. Each block has a copy
@@ -133,7 +133,7 @@ schools_proof:
   - "5,000+ parents|joined our webinars last year"
 schools_heading: "Sharing this with your families?"
 schools_lead: "Thank you. There's nothing for the school to organise. Copy the email or the website text below, and edit it however you like."
-schools_parent_email_subject: "Free revision webinar for Year 10 and 11 families, Tuesday 24 November"
+schools_parent_email_subject: "Free revision webinar for Year 10 and 11 families, Tuesday 1 December"
 # Remove schools_parent_email (and its subject) after the webinar: the replay
 # page only needs the website text.
 schools_parent_email: |
@@ -142,7 +142,7 @@ schools_parent_email: |
   With mocks coming up, we would like to share a free online webinar for Year 10 and 11 students and their parents, run by The Degree Gap.
 
   **The GCSE Revision Masterclass**<br>
-  Tuesday 24 November, 7 to 8pm, online
+  Tuesday 1 December, 7 to 8pm, online
 
   Harry and Joe, co-founders of The Degree Gap, will cover how to use mocks as a starting point, how to sort revision into red, amber and green, what good revision looks like at home, the early signs of burnout, and how to support your child without adding pressure. There is a live Q&A at the end, and everyone who registers receives the replay.
 
@@ -161,9 +161,9 @@ schools_website_lead: "Adding the webinar to your website? Copy the text below i
 #
 #   Watch the replay: [thedegreegap.com/study/webinars/gcse-revision-masterclass](https://thedegreegap.com/study/webinars/gcse-revision-masterclass/)
 schools_website: |
-  **Free GCSE revision webinar for Year 10 and 11 families, Tuesday 24 November**
+  **Free GCSE revision webinar for Year 10 and 11 families, Tuesday 1 December**
 
-  [The Degree Gap](https://thedegreegap.com/) is running a free online webinar, The GCSE Revision Masterclass, for Year 10 and 11 students and their parents on Tuesday 24 November, 7 to 8pm. Harry and Joe, co-founders of The Degree Gap, will cover how to use mocks as a starting point, what good revision looks like at home, the early signs of burnout and how to support your child without adding pressure. There is a live Q&A at the end, and everyone who registers receives the replay.
+  [The Degree Gap](https://thedegreegap.com/) is running a free online webinar, The GCSE Revision Masterclass, for Year 10 and 11 students and their parents on Tuesday 1 December, 7 to 8pm. Harry and Joe, co-founders of The Degree Gap, will cover how to use mocks as a starting point, what good revision looks like at home, the early signs of burnout and how to support your child without adding pressure. There is a live Q&A at the end, and everyone who registers receives the replay.
 
   Register free: [thedegreegap.com/study/webinars/gcse-revision-masterclass](https://thedegreegap.com/study/webinars/gcse-revision-masterclass/)
 schools_note: "Would a square image for your newsletter or WhatsApp help? Email <a href=\"mailto:admin@thedegreegap.com\">admin@thedegreegap.com</a> and we will send it over."
@@ -183,7 +183,7 @@ faqs:
   - q: "Who is it for?"
     a: "Parents and carers of students in Year 10 or Year 11, and the students themselves. It works for any exam board and any grade. Parents of Year 9 students planning ahead are welcome too."
   - q: "How do I join on the night?"
-    a: "Register on this page. A link in a school newsletter brings you here, but it is not the joining link. Your own joining link comes by email on Sunday 22 November, with a reminder at 4pm on the day."
+    a: "Register on this page. A link in a school newsletter brings you here, but it is not the joining link. Your own joining link comes by email on Sunday 29 November, with a reminder at 4pm on the day."
   - q: "Can my child watch with me?"
     a: "Yes, and we would encourage it. Students can also register for themselves."
   - q: "Do I have to speak or appear on camera?"

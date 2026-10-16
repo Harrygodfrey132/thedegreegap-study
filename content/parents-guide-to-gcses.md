@@ -2,7 +2,7 @@
 # Retired 12 October 2026. This was the first landing page for the November
 # 2026 parent webinar, with a date that never happened ("Sunday 16 November";
 # that is a Monday). The webinar became The GCSE Revision Masterclass on
-# Tuesday 24 November, so static/.htaccess sends this address there.
+# Tuesday 1 December, so static/.htaccess sends this address there.
 draft: true
 title: "Parents Guide to GCSEs, Free Webinar | The Degree Gap"
 description: "Free 45-minute live masterclass for parents of GCSE students. Practical strategies for mocks, revision, and exam confidence. 16 November 2026, 8pm UK time."
