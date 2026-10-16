@@ -11,8 +11,8 @@
 #     results Thursday 19 August 2027 (JCQ key dates).
 #   - Mocks are set by each school. The months below are the usual pattern,
 #     not fixed dates.
-#   - The masterclass: Tuesday 24 November 2026, 7 to 8pm
-#     (content/webinars/gcse-revision-masterclass.md). Update or drop the
+#   - The masterclass: Tuesday 1 December 2026, 7 to 8pm
+#     (content/webinars/gcse-revision-masterclass.md, moved from 24 November). Update or drop the
 #     line about it once it has run.
 title: "GCSE Mocks: Dates, Results and What to Do Next"
 seo_title: "GCSE Mocks 2026 to 2027: Dates, Results and What Next"
@@ -61,7 +61,7 @@ related_links:
     description: "The four things a mock decides, and how to read the paper rather than the grade."
   - title: "The GCSE Revision Masterclass, free"
     url: "/webinars/gcse-revision-masterclass/"
-    description: "Harry and Joe on mocks, revision at home and burnout. Online, Tuesday 24 November, 7 to 8pm."
+    description: "Harry and Joe on mocks, revision at home and burnout. Online, Tuesday 1 December, 7 to 8pm."
   - title: "Foundation or higher tier?"
     url: "/blog/foundation-or-higher-tier-gcse-year-11/"
     description: "The decision a Year 11 mock usually ends up making."
@@ -139,4 +139,4 @@ Yes, but for a different reason. Year 10 mocks are often the first time your chi
 
 ## Want the full picture before mocks?
 
-Harry and Joe are running **the GCSE Revision Masterclass**, a free online session for Year 10 and 11 families on Tuesday 24 November, 7 to 8pm. It covers using mocks as a starting point, what good revision looks like at home, and the early signs of burnout, with 30 minutes of live questions at the end. [Save a free place](/webinars/gcse-revision-masterclass/).
+Harry and Joe are running **the GCSE Revision Masterclass**, a free online session for Year 10 and 11 families on Tuesday 1 December, 7 to 8pm. It covers using mocks as a starting point, what good revision looks like at home, and the early signs of burnout, with 30 minutes of live questions at the end. [Save a free place](/webinars/gcse-revision-masterclass/).
