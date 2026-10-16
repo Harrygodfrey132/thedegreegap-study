@@ -146,6 +146,60 @@
 </section>
 {{ end }}
 
+<!-- GCSE options guide: a card for each subject with its own page (content/gcse-options/), so new tutor answers show here once they're in -->
+{{ with site.GetPage "/gcse-options" }}
+{{ $guide := . }}
+{{ $options := slice }}
+{{ range .Pages.ByWeight }}{{ if .RelPermalink }}{{ $options = $options | append . }}{{ end }}{{ end }}
+{{ if $options }}
+<style>
+  .home-options-grid { display: grid; grid-template-columns: 1fr; gap: 16px; margin-top: 8px; }
+  @media (min-width: 600px) { .home-options-grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (min-width: 1000px) { .home-options-grid { grid-template-columns: repeat(4, 1fr); gap: 20px; } }
+  .home-option-card { display: flex; flex-direction: column; align-items: flex-start; background: #fff; border: 1px solid #ece4d4; border-radius: 16px; padding: 22px 22px 20px; text-decoration: none; color: inherit; box-shadow: 0 12px 30px rgba(35,23,17,0.05); transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease; }
+  .home-option-card:hover { transform: translateY(-2px); box-shadow: 0 18px 40px rgba(35,23,17,0.10); border-color: #e2d6c2; }
+  .home-option-card__kind { font-size: 0.7rem; font-weight: 800; letter-spacing: 0.14em; text-transform: uppercase; color: #800020; margin-bottom: 10px; }
+  .home-option-card__title { font-size: 1.08rem; font-weight: 700; line-height: 1.3; letter-spacing: -0.01em; color: #1f1b18; margin: 0 0 18px; text-wrap: balance; }
+  .home-option-card__tutor { margin-top: auto; display: flex; align-items: center; gap: 10px; font-size: 0.85rem; line-height: 1.3; color: #57514a; }
+  .home-option-card__tutor img { flex: 0 0 auto; width: 40px; height: 40px; border-radius: 50%; object-fit: cover; }
+  .home-option-card__tutor b { display: block; color: #1f1b18; }
+  .home-option-card--guide { background: #800020; border-color: #800020; }
+  .home-option-card--guide:hover { border-color: #5A001F; }
+  .home-option-card--guide .home-option-card__kind { color: #f3c6cf; }
+  .home-option-card--guide .home-option-card__title { color: #fff; margin-bottom: 8px; }
+  .home-option-card--guide p { font-size: 0.92rem; line-height: 1.5; color: rgba(255,255,255,0.86); margin: 0 0 16px; }
+  .home-option-card__cta { margin-top: auto; font-size: 0.9rem; font-weight: 700; color: #fff; }
+</style>
+<section class="home-section home-section--tint home-options-section">
+  <div class="container">
+    <div class="home-section__header">
+      <div>
+        <p class="pp-eyebrow">Free guide for Year 9</p>
+        <h2>Choosing GCSE options in Year 9?</h2>
+        <p class="home-section__lead">We asked tutors who teach each subject the questions Year 9 families ask us most, from Foundation or Higher Maths to Combined or Triple Science. Here are their answers, subject by subject.</p>
+      </div>
+      <a href="{{ $guide.RelPermalink }}" class="btn btn-outline">Read the full guide →</a>
+    </div>
+    <div class="home-options-grid">
+      {{ range $options }}{{ $t := partial "gcse-options-tutor-data.html" . }}
+      <a href="{{ .RelPermalink }}" class="home-option-card">
+        <span class="home-option-card__kind">{{ if eq .Params.group "core" }}Core subject{{ else }}Option subject{{ end }}</span>
+        <h3 class="home-option-card__title">{{ .Params.h1 | default .Title }}</h3>
+        {{ with $t.name }}<span class="home-option-card__tutor">{{ with $t.photo }}<img src="{{ partial "url.html" . }}" alt="" width="40" height="40" loading="lazy" decoding="async">{{ end }}<span>Answered by <b>{{ . }}</b></span></span>{{ end }}
+      </a>
+      {{ end }}
+      <a href="{{ $guide.RelPermalink }}" class="home-option-card home-option-card--guide">
+        <span class="home-option-card__kind">The full guide</span>
+        <h3 class="home-option-card__title">How GCSE options work in Year 9</h3>
+        <p>Plus a free 20-minute options call with our team.</p>
+        <span class="home-option-card__cta">Read the guide →</span>
+      </a>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
 <!-- Personal Statement section -->
 <section class="home-section">
   <div class="container">
