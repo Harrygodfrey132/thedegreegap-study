@@ -58,7 +58,7 @@ These pages must rank for tutoring searches. Google needs to see the target keyw
 
 **Hard SEO anchors (must contain the keyword):**
 
-1. **Meta description** — must contain "[Location] tutor" or "[Location] tutoring" naturally. One mention is enough.
+1. **Meta description** — open with the parent's worry, the way Tutorful does ("Worried your child needs extra support in Nottingham?"), then the online tutor, then one plain fact (from £37 an hour, no contract, a free call first). The town appears once or twice, on the child (see Location Language below), and "online tutor" or "online tutoring" once. 145 to 160 characters. Example, don't copy: "Worried your child is slipping behind at school in Ipswich? We'll match them with an online tutor who suits how they learn. From £37 an hour, no contract."
 2. **Banner heading (H1)** — must start with the word "Online" (Harry, 3 Oct 2026: every location page H1 starts with "Online", because lessons are online and we aren't based in the town) and contain "tutor" / "tutors" / "tutoring" AND the location name. The H1 is the most valuable SEO position; don't waste it on a pain-point question that omits "tutor" entirely.
 3. **Banner description** — should contain "tutor" / "tutors" / "tutoring" once. If it reads better without it, the H1 already carries the anchor.
 4. **online_heading** — should contain "online tutor", "online tutoring", or "online tuition" (the word "online" plus a tutoring keyword, together). This is the natural anchor for the online-tuition section.
@@ -80,6 +80,28 @@ These pages must rank for tutoring searches. Google needs to see the target keyw
 - Subject mentions stacked into one sentence as a list (e.g. "Maths tutors and English tutors and Sciences tutors lead the demand").
 
 **If you reach for any of these, you're trying to satisfy a rule that no longer exists. Delete and write what the section is actually about.**
+
+### Location Language: the Town Belongs to Your Child, Not the Tutor (Harry, 18 Oct 2026)
+
+Lessons are online, so the tutor could live anywhere in the UK. Your child is the one in the town. So the town name always describes the child, the family, the home or the school, never where the tutor is. Tutorful's local pages are written this way ("Find an Expert Tutor for Learners in Nottingham": the learner is in Nottingham, the tutor needn't be), and it lets the town go into the title, headings and FAQs without claiming we're based there. Copy the language, not their page structure. It applies to every field, the title included.
+
+| Says the tutor is there (don't) | Puts your child there (do) |
+|---|---|
+| Tutors in Ipswich | Tutors for students in Ipswich |
+| Find a tutor in Ipswich | Find the right tutor for your child in Ipswich |
+| Our Ipswich tutors | Our tutors for Ipswich families |
+| Local tutors | Online tutors for Ipswich families |
+
+Ways to bring the town in. Mix them, don't lean on one:
+
+- **On the child:** "for your child in {Loc}", "for {Loc} students", "for learners in {Loc}", "{Loc} parents often tell us…"
+- **On the home:** "from your home in {Loc}", "at the kitchen table in {Loc}", "no drive across {Loc} after school"
+- **On the school or the test:** "whichever {Loc} school your child goes to", the local grammar entry test, the sixth form college most Year 11s apply to, the university nearby. Naming real places shows you know the area without claiming to be in it.
+- **Distance as the reason:** "not just whoever lives nearest to {Loc}", "we look across the UK for the tutor who suits your child". Online is the reason to choose us, never a disclaimer.
+- **"Online" beside the town:** when the town and "tutor" sit close together, put "online" with them: "online tutoring for {Loc} students", "online tutors for your child in {Loc}".
+- **The parent's own question:** "Looking for a tutor in {Loc}?" is fine as a question, because those are the parent's words, as long as the next sentence makes clear lessons are online.
+
+Never: "local tutor(s)", "tutors based in {Loc}", "tutors near you", "in your area", "in person", "face-to-face", "home visits".
 
 **Keyword variations available to weave in naturally (no quotas):**
 - tutor / tutors / tutoring / tuition
@@ -182,8 +204,8 @@ Produce the file in this exact frontmatter structure, this is how the Hugo templ
 
 ```yaml
 ---
-title: "[Pick one of the four title formats below, rotate, never default to the same one]"
-description: "[One-sentence meta description for this location, unique per page]"
+title: "[Pick one of the title formats below, rotate, never default to the same one]"
+description: "[Meta description: the parent's worry first, then the online tutor, then one fact. See Keyword Strategy point 1]"
 layout: "single"
 location: "{Location}"
 banner_heading: "[Original heading, see Banner section below]"
@@ -303,34 +325,21 @@ Pick the one image that best matches the angle of your `online_1`/`online_2` cop
 
 ## Section Guidance
 
-### Title Format (unique per page, build from the templates below)
+### Title Format (lead with the parent, not the keyword; Harry, 18 Oct 2026)
 
-Each title is assembled from two parts: a **slot A** opener and a **slot B** suffix. Pick one from each column, combine them, and check the character count. Never produce the same A+B combination twice across pages.
+Write the title as the answer to what a worried parent typed, with the town on the child. Tutorful's "Find the Right Tutor for Your Child in Nottingham" is the model: it still carries "tutor" and the town, but it reads like help, not a keyword. This replaces the old "{Location} Tutors | …" titles for new pages. Leave live pages' titles as they are.
 
-**Hard limit: the final title must be 65 characters or fewer (including spaces and punctuation).** Count the characters before saving. If a combination runs long for a particular location, pick a shorter slot A or trim slot B rather than exceed the limit.
+Pick one and rotate, so neighbouring towns don't share a title:
 
-**Slot A, opener (pick one, rotate across pages):**
-- `{Location} Tutors`
-- `{Location} Tutoring`
-- `{Location} GCSE & A-Level Tutors`
-- `{Location} GCSE and A-Level Tutors`
-- `{Location} Private Tutors`
-- `{Location} Online Tutors`
-- `{Location} Expert Tutors`
+1. `Find the Right Tutor for Your Child in {Location} | The Degree Gap`
+2. `Online Tutors for Your Child in {Location} | The Degree Gap`
+3. `GCSE & A-Level Tutors for {Location} Students | The Degree Gap`
+4. `Online Tutoring for {Location} Families | The Degree Gap`
+5. `Worried About GCSEs? Online Tutors for {Location} Students`
 
-**Hard rule on Slot A: never use "Local" and never use the "...in {Location}" preposition pattern.** The Degree Gap is an online-only agency that covers the area but is not physically based in it. Openers like "Local Tutors in Wigan", "Private Tutors in Wigan", or "GCSE & A-Level Tutors in Wigan" imply physical presence and read as misleading. Always prefix the location to the qualifier ("Wigan Private Tutors"), never infix it after a preposition ("Private Tutors in Wigan").
+**Hard limit: 65 characters, not counting a trailing " | The Degree Gap".** The site drops the brand by itself when the whole title runs past 65 (`layouts/partials/seo.html`), and adds it when a title without it still fits. `scripts/check-pages.py` measures only the words before it. So `Find the Right Tutor for Your Child in Southend-on-Sea | The Degree Gap` is fine: 54 characters before the brand.
 
-**Slot B, suffix (pick one, rotate across pages):**
-- `| The Degree Gap`
-- `| GCSE & A-Level | The Degree Gap`
-- `| A-Level and 11+ | The Degree Gap`
-- `| Expert Support | The Degree Gap`
-- `| One-to-One Tuition | The Degree Gap`
-
-**Example combinations (do not reuse these exact ones):**
-- `"Leeds Private Tutors | GCSE & A-Level | The Degree Gap"`, 54 chars
-- `"Bristol Online Tutors | Expert Support | The Degree Gap"`, 55 chars
-- `"Sheffield Tutoring | A-Level and 11+ | The Degree Gap"`, 53 chars
+**Hard rule: the town goes on the child, the family or the students, never the tutor.** No "Tutors in {Location}", no "Local", no "Near You". See Location Language above.
 
 ---
 
@@ -340,21 +349,21 @@ Each title is assembled from two parts: a **slot A** opener and a **slot B** suf
 - **Description:** One sentence offering the solution. Must also contain "tutor", "tutors", or "tutoring". Should feel like a natural continuation of the heading.
 
 Good examples (for inspiration, do not copy):
-- "Looking for a tutor in Bromley who can actually build confidence?" / "Our Bromley tutors help students close gaps and start believing in what they can achieve."
-- "Need a GCSE or A-Level tutor in Cambridge?" / "The Degree Gap matches students with experienced tutors who know what top grades require."
-- "Struggling to find the right tutor in Epsom?" / "We connect families with vetted, experienced tutors who prepare students with clarity and confidence."
-- "Want a tutor in Sheffield who gets results, not just covers content?" / "The Degree Gap introduces students to tutors who identify gaps fast and build a plan around them."
+- "Online tutors for your child in Bromley, starting with their confidence" / "We match your child with a tutor who closes the gaps first, so the belief has something to stand on."
+- "Online GCSE and A-Level tutoring for Cambridge students" / "We match your child with an experienced tutor who knows exactly where the marks are won and lost."
+- "Online tutoring for Sheffield families who want results, not just covered content" / "We match your child with a tutor who finds the gaps fast and builds a plan around them."
 
 ### Banner Heading Structures (rotate, do not reuse the same shape across pages)
 
 Pick one of these structural shapes for `banner_heading`. Rewrite entirely, do not copy. Every shape starts with "Online" and still contains the location name AND "tutor"/"tutors"/"tutoring".
 
 1. **Family scene**, "Online tutors for {Loc} families with one child at each of two schools"
-2. **Town first**, "Online {Loc} tutors for the GCSE and A-Level grades that don't happen by accident"
+2. **Town on the students**, "Online tutors for {Loc} students, for the GCSE and A-Level grades that don't happen by accident"
 3. **Level first**, "Online GCSE and A-Level tutors for {Loc} children who've gone quiet in class"
 4. **Where it starts**, "Online tutoring for {Loc} families, starting where the marks are going"
-5. **What the tutor does**, "Online {Loc} tutors who find the gap before the mocks do"
-6. **The moment**, "Online {Loc} tutoring for the year everything gets harder at once"
+5. **What the tutor does**, "Online tutoring for {Loc} children: finding the gap before the mocks do"
+6. **The moment**, "Online tutoring for {Loc} families in the year everything gets harder at once"
+7. **The learner in the town** (Tutorful's shape), "Online tutors for learners in {Loc}, matched to how your child learns"
 
 Across a batch of pages, never produce two headings with the same shape and the same continuation. If two pages would land in the same shape, pick a different one for one of them.
 
@@ -385,7 +394,7 @@ Use broader pain framings that fit every starting grade:
 
 Pick one of these four structural shapes for `banner_description`. Rewrite it entirely, do not copy:
 
-1. **Solution sentence**, "Our {loc} tutors help students [do thing] so they [outcome]."
+1. **Solution sentence**, "Our tutors help your child in {loc} [do thing], so they [outcome]."
 2. **Bold claim**, A confident, direct statement about what The Degree Gap delivers. No hedging.
 3. **What we do**, Describe the matching/vetting process in one sentence as the selling point.
 4. **Contrast**, Open with what most tutoring gets wrong, then pivot to what makes this different.
@@ -530,14 +539,14 @@ For a foundation gaps angle (e.g. Nottingham):
 
 Pick exactly one from the 10 options below. Substitute `{Location}` with the real location name. Do not always pick the same number. Track which ones have been used and avoid repeating.
 
-1. `"Experienced GCSE and A-Level Tutors in {Location}"`
+1. `"Experienced GCSE and A-Level Tutors for Students in {Location}"`
 2. `"Trusted Tutors for {Location} Students"`
 3. `"One-to-One Tutoring for {Location} Students"`
 4. `"Private Tutors Serving {Location} Families"`
 5. `"GCSE and A-Level Tutors Covering {Location}"`
-6. `"The {Location} Tutors Who Get Results"`
+6. `"Tutors Who Get Results for {Location} Students"`
 7. `"Why {Location} Families Choose Our Tutoring Services"`
-8. `"Find the Right Tutor in {Location}"`
+8. `"The Right Tutor for Your Child in {Location}"`
 9. `"Tutors Who Know What {Location} Students Need"`
 10. `"Personalised GCSE and A-Level Tutoring for {Location} Students"`
 
@@ -560,9 +569,13 @@ Search for real secondary schools in the location. Populate the `schools` array 
 Write an original `online_heading` and two paragraphs (`online_1`, `online_2`). Connect to the page's overall content angle. The heading should feel like a natural part of this specific page, not a generic "Online Tuition in {Location}" title.
 
 Heading format inspiration (always rewrite, never copy):
+- Plain (Tutorful's wording, fine to use as it stands): "Online tutoring for [Location] students"
+- Online as the reason: "Why [Location] families choose online tutoring"
 - Problem-solution: "Falling behind in [Location]? How online tuition can help"
 - Results-focused: "Boosting GCSE and A-Level results for [Location] students"
 - Aspirational: "Helping [Location] students reach their full potential online"
+
+Write online as the reason to choose us, not a disclaimer. In `online_1` or `online_2`, use at least one home phrase ("from your home in [Location]", "no drive across [Location] after school"), and say why distance helps your child: we can look across the UK for the tutor who suits them, not just whoever lives nearest.
 
 ### Areas We Cover
 
@@ -581,20 +594,30 @@ Format: `"Location Name Tutors|/locations/location-name-tutors/"` (lowercase, hy
 ### Areas Intro Structures (rotate, one sentence, pick a different shape each time)
 
 1. **Coverage statement**, "Our tutors support students across {loc} and the surrounding area, with online tuition removing any distance barrier to finding the right specialist."
-2. **Question lead**, "Looking for support beyond {loc}? Our tutors work with families across the wider region, online and in person."
+2. **Question lead**, "Looking for support beyond {loc}? Our tutors work with families across the wider region, all of it online."
 3. **Reassurance**, "Finding the right tutor matters more than finding the nearest one, which is why we support families across {loc} and well beyond."
 4. **Online angle**, "Because most of our tuition is online, students in {loc} and nearby areas can access the right subject specialist without being limited by geography."
 5. **Breadth statement**, "The Degree Gap works with students from {loc} and surrounding towns, matching each family with the tutor best suited to their subject and goals."
 
-### FAQs (pick 4 from the bank below, randomise selection and order each time)
+### FAQs (faq_1 is fixed, then 3 more; Harry, 18 Oct 2026)
 
-Choose 4 questions that fit the page's angle and location type. Substitute the location name where `{loc}` appears. Do not always pick the same 4.
+Tutorful's FAQs are worth copying for how they're written, not for what they cover. Three habits:
+
+1. **Say the quiet part first.** The first question is the one every parent is wondering: are these tutors actually in my town? Answer it with a plain "not usually", then straight away say why that's better for their child. Nobody feels misled, and the rest of the page can use the town name freely.
+2. **Ask it the way a worried parent would type it.** In the first person, about "my child", with the worry inside the question: "My child is quite shy. Will online tutoring work for them?", "What if the first tutor isn't the right fit for my child?", "How can I see how my child is getting on?". Answer in the first sentence, then keep it short and kind.
+3. **Put the town and "online" in the same question, and name something real.** "How does online tutoring help {loc} students with the pressure of GCSEs and A-Levels?" Tutorful's best ones name a real school, sixth form, entry test or university in the question itself ("…a top sixth form like West Bridgford or Rushcliffe?", "Since Nottingham doesn't have a formal 11+…"). Not every question needs the town: the national ones can stay national.
+
+**faq_1, on every new page:** `"Are your tutors physically based in {loc}?"`, or very close to it ("Are the tutors actually based in {loc}?"). The answer starts with "Not usually" or "No", then why that helps your child, then one reassuring fact. Write the sentences fresh each time: the shape is fixed, the words aren't.
+
+Example, don't copy: "Not usually, and that's on purpose. Every lesson is online, so we're not limited to the few tutors who happen to live near {loc}. We look across the UK for the one who suits your child, lessons happen from your home, and there's a replay to look back on before a test."
+
+**faq_2 to faq_4:** pick 3 from the bank below, or write your own in the same style. At least one must name a real local school, sixth form, entry test or university from your research, with "online" in the question where it fits. Substitute the location name where `{loc}` appears, rephrase so the wording isn't identical to the last page, and don't always pick the same 3.
 
 **FAQ Bank:**
 
-1. Q: "How do I find the right tutor in {loc}?" / A: "Tell us the subject, the year group and what the student is trying to achieve. We take it from there. Most families hear back quickly, and you are not left scrolling through profiles trying to figure it out yourself."
-2. Q: "What subjects do your {loc} tutors cover?" / A: "Maths, English, Biology, Chemistry, Physics, History, Geography, Economics, Psychology, French and more, across both GCSE and A-Level. If you do not see the subject listed, just ask. We will tell you honestly whether we can help."
-3. Q: "Do you offer online tutoring for students in {loc}?" / A: "Yes, and it is how most of our sessions run. Students get access to a wider pool of tutors, sessions are easier to keep consistent, and most students concentrate better one-to-one online than they do in a classroom. It works well."
+1. Q: "How do I find the right tutor for my child in {loc}?" / A: "Tell us the subject, the year group and what the student is trying to achieve. We take it from there. Most families hear back quickly, and you are not left scrolling through profiles trying to figure it out yourself."
+2. Q: "What subjects do you cover for {loc} students?" / A: "Maths, English, Biology, Chemistry, Physics, History, Geography, Economics, Psychology, French and more, across both GCSE and A-Level. If you do not see the subject listed, just ask. We will tell you honestly whether we can help."
+3. Q: "How does online tutoring help {loc} students with the pressure of GCSEs and A-Levels?" / A: "It takes some of the weight off. The tutor works out which topics are costing your child marks and spends the time there, not on what's already secure. And because lessons are online, they fit around school, clubs and homework, with no drive either side."
 4. Q: "How quickly can tuition start in {loc}?" / A: "Usually within a few days of getting in touch. Once we know the subject, level and what the student needs, we move quickly. No long waiting lists."
 5. Q: "How much does tutoring cost in {loc}?" / A: "Sessions start from £37 per hour. The exact rate depends on the subject and the tutor, and it is always agreed before anything is booked. No surprises, no hidden fees."
 6. Q: "Can tutors help with GCSE mock preparation in {loc}?" / A: "Yes. Mocks are one of the most common reasons families come to us. Tutors work through past papers, tighten exam technique and focus on the topics most likely to come up. Students go in knowing what to expect."
@@ -603,20 +626,23 @@ Choose 4 questions that fit the page's angle and location type. Substitute the l
 9. Q: "What exam boards do your tutors cover?" / A: "AQA, Edexcel, OCR and WJEC. When we match a student with a tutor, exam board knowledge is part of the criteria. We do not just match on subject."
 10. Q: "Can you support students who have fallen significantly behind?" / A: "Yes. Some of the students we work with in {loc} have gaps stretching back a year or more. We start by working out exactly where things went wrong, not just picking up from where school left off. Then we build a plan around that."
 11. Q: "How are sessions structured in {loc}?" / A: "It depends on the student. There is no set format. Tutors usually look at recent school work first, then move into the areas that are causing the most trouble. Past paper questions come in when the student is ready. The session goes where it needs to go."
-12. Q: "Do you offer in-person tutoring in {loc}?" / A: "Most of our sessions are online. Families in {loc} get access to more tutors that way, and sessions are easier to keep consistent without travel. Online works well. Most students are comfortable with it from the first session."
+12. Q: "My child is quite shy. Will online tutoring work for them?" / A: "Often better than you'd expect. There's no class watching, so a quiet child can say 'I don't get this' without it costing them anything. And they meet the tutor on a free 15-minute video call first, so the first lesson isn't with a stranger."
 13. Q: "How long does it take to see an improvement?" / A: "Most students notice something within the first few sessions. Not always in grades straight away, but in how the subject feels. Less daunting. Clearer. Grade improvements usually follow within a half term of regular sessions."
 14. Q: "What if my child doesn't get on with their tutor?" / A: "Tell us and we will sort it. No awkward conversation, no process. We would rather find the right match than have a student sitting through sessions that are not working for them."
 15. Q: "Do you offer tutoring during school holidays in {loc}?" / A: "Yes. Holiday sessions are popular with {loc} families. Some use the time to get ahead, some to catch up, some to prepare intensively before exams. We fit around what works for the family."
 16. Q: "Can tutors help with A-Level coursework?" / A: "Yes, within reason. Tutors help students understand what is being asked, structure their approach and improve the quality of their thinking. Everything submitted stays the student's own work. But the difference a tutor makes to the process is usually significant."
 17. Q: "Is one-to-one tutoring better than group sessions?" / A: "For most students, yes. The whole session is about them. Their gaps, their questions, their pace. No waiting for others to catch up. No pressure to keep up with the rest. For students in {loc} who struggle to ask questions in front of others, it is often the thing that changes everything."
 18. Q: "Do you support students with dyslexia or other learning needs?" / A: "Yes. When you get in touch, tell us what the student needs and we factor that into who we suggest. We work with students across {loc} who have a range of learning needs and match them with tutors who have the right experience."
-19. Q: "What platform do you use for online tutoring?" / A: "Lessonspace. It has an interactive whiteboard built for one-to-one sessions. Students in {loc} generally find it easy to use from the start. No complicated setup."
+19. Q: "Is an online lesson just a video call?" / A: "No. Lessons run on Lessonspace, an online classroom with a shared whiteboard, so your child and the tutor work through the same question at the same time. Every lesson can be replayed afterwards, which helps before a test. Most children find it easy from the first session."
 20. Q: "Do you help with sixth form entrance exams or interviews?" / A: "Yes. We work with {loc} students preparing for competitive sixth form entry, including aptitude tests and interviews. Tutors know what these schools are looking for and how to prepare students properly, not just on content."
 21. Q: "Can you help a student who is resitting their GCSEs?" / A: "Yes. Resit students usually need a different approach from the first time. We focus on what went wrong, close the specific gaps and build exam technique alongside content. Tutors can move quickly when the timeline is tight."
 22. Q: "Do you tutor primary school children in {loc}?" / A: "Our main focus is GCSE, A-Level and 11+ preparation. We do work with younger students in {loc} where the need is clear, particularly for selective school entry or building solid foundations in Maths and English."
 23. Q: "What qualifications do your tutors have?" / A: "Our tutors are a mix of graduates and university students, many from Russell Group universities, and every one has at least two years of tutoring experience. Every tutor is vetted individually before working with students, on subject knowledge, how they explain things, and how they work with young people. A degree alone is not enough."
 24. Q: "Is there a free consultation before we commit?" / A: "Yes. We have a conversation first to understand what the student needs. No pressure, no obligation. We would rather spend time getting the match right than rush an introduction that does not work."
 25. Q: "How do I know if my child actually needs a tutor?" / A: "Grades slipping despite effort. Confidence dropping. Putting the work in but not seeing results. Those are the clearest signs. Sometimes it is simpler than that. Some students in {loc} just want to go further than the classroom pace allows. Either is a good reason to get in touch."
+26. Q: "How can I see how my child is getting on with their online tutor?" / A: "Every lesson can be replayed, so you can see for yourself what was covered. And you can ask the tutor, or us, how it's going at any point."
+27. Q: "How flexible are online lessons for {loc} families?" / A: "Very. You agree the times with the tutor, so lessons can sit after school, at weekends or in the holidays. With no travel, an hour's lesson takes an hour of your evening, not two."
+28. Q: "Can online tutoring help my child get into [a real sixth form, college or university near {loc}]?" / A: Write this one from your research. Answer yes in the first sentence, say what that place asks for in plain words, then what the tutor does about the gap. Never state an entry requirement you haven't checked.
 
 ### Reviews (pick 6 from the bank below, vary selection across pages)
 
@@ -724,10 +750,12 @@ Use as a vocabulary bank, weave concepts into original sentences, never copy ver
 
 ## Self-Check Before Saving
 
-- [ ] Is the title 65 characters or fewer? Count them.
+- [ ] Is the title, without a trailing " | The Degree Gap", 65 characters or fewer? Count them.
+- [ ] Does the title lead with the parent ("Find the Right Tutor for Your Child in…", "Online Tutors for Your Child in…") and put the town on the child, family or students, never "Tutors in {Location}"?
+- [ ] Read every place the town name appears: does it describe the child, the family, the home or the school, never where the tutor is? No "local", "near you", "based in" or "in person".
 - [ ] Does the about_heading use one of the 10 approved variations with the location name substituted?
 - [ ] Does the banner_heading start with "Online" and contain the location name AND "tutor", "tutors", or "tutoring"?
-- [ ] Does the meta description contain "[Location] tutor" or "[Location] tutoring" (one natural mention)?
+- [ ] Does the meta description open with the parent's worry, name the town, and say "online tutor" or "online tutoring" once, in 145 to 160 characters?
 - [ ] Does the online_heading contain "online tutor", "online tutoring", or "online tuition"?
 - [ ] Does why_heading include "tutor", "tutoring", "tuition", or "tutoring services"?
 - [ ] Does `about_heading` contain "tutor" or "tutoring" (not just "tuition")?
@@ -738,7 +766,8 @@ Use as a vocabulary bank, weave concepts into original sentences, never copy ver
 - [ ] Are subjects in a different order from the last page built?
 - [ ] Do all subject URLs follow the correct format (no invented paths)?
 - [ ] Do all area_links point to pages that actually exist in content/locations/?
-- [ ] Are 4 FAQs selected from the bank with {loc} substituted correctly?
+- [ ] Is faq_1 "Are your tutors physically based in {Location}?" (or very close), answered "Not usually" or "No" first, then why that helps your child?
+- [ ] Do faq_2 to faq_4 read like a parent asking about "my child", and does at least one name a real local school, sixth form, entry test or university?
 - [ ] Is the banner heading genuinely different from Cambridge and Oxford?
 - [ ] Does the online tuition section connect to this page's angle?
 - [ ] Is the tone warm and plain, would a normal parent find it easy to read?
