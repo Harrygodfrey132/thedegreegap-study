@@ -16,9 +16,9 @@ angle_body_1: "Ask plenty of Basildon Year 10s what a Literature essay needs and
 angle_body_2: "So the tutor works on that one move, week after week. Pick a quote, say what it does, link it back to the question. Your child writes a paragraph on the shared whiteboard, the tutor marks it against the real mark scheme, and they rewrite it while it's fresh. Slow at first. Then it sticks, and the Language paper tends to improve alongside. It's worth the effort, because English is one of the two grades almost every route out of Year 11 in Basildon looks at first."
 angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"
 angle_image_alt: "A GCSE English student annotating quotations with an online tutor"
-angle_stat_from: "4"
-angle_stat_to: "5"
-angle_stat_detail: "Needed a 4 in GCSE English and came out with a 5: a parent's words about a son who'd faced a lot to get there."
+angle_stat_from: "5"
+angle_stat_to: "6/7"
+angle_stat_detail: "From a grade 5 to a 6/7 in GCSE English, from Omo’s Google review about their son."
 
 schools:
   - "The Basildon Academies"

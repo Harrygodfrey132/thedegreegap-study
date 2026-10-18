@@ -16,9 +16,9 @@ angle_body_1: "Science is really three subjects, and children struggle with each
 angle_body_2: "So the first lesson finds which one is costing your child most. The tutor goes through a recent paper with them and sorts the lost marks into maths slips, forgotten content and answers that knew the science but didn't say it the way the mark scheme wanted. The plan starts with the biggest pile. And in a town where engineering has mattered since the 1960s, a strong Physics or Combined Science grade opens doors well beyond sixth form."
 angle_image: "/images/chemistry-lab-glassware.jpg"
 angle_image_alt: "A GCSE Science student working through a chemistry calculation with an online tutor"
-angle_stat_from: "4"
+angle_stat_from: "4-5"
 angle_stat_to: "8"
-angle_stat_detail: "A predicted 4 to 5 in Physics, an 8 in the summer, with tutoring that started two months before the exams. One family's result, not a promise."
+angle_stat_detail: "From a predicted 4-5 to an 8 in GCSE Physics, from Chamarika’s Trustpilot review about their son."
 
 schools:
   - "The Basildon Academies"
@@ -54,7 +54,7 @@ reviews:
   - "Chamarika|Parent of GCSE Student|Good tutoring platform. I did have some initial issues with a couple of tutors but Joe is very responsive and works to swiftly resolve things. My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring. We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s. Thank you to all the 3x tutors."
   - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. The website is easy to use and effective, I had no disappointment in scheduling lessons for my son. Tutors were polite and on time for their lessons."
   - "Heidi|Parent|Emir, is simply amazing with our daughter. He 'gets' her totally, her sessions are helping her with her school work so much. We can't thank him enough ! Harry and Joe are always on hand should you need anything. Degreegap is an excellent company to work with, lots of excellent tutors avaliable to teach different subjects, great availability, very reasonably priced. Would highly recommend."
-  - "Keira|GCSE Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Dawn|Parent|The Degree Gap took time to understand my child’s worries. They paired me with Connor, who my daughter got on well with. Her confidence has skyrocketed since. Thanks again."
   - "Nazrul|Parent of GCSE Student|My daughter found the tutors were very helpful for her GCSE thank you"
 
 sitemap:

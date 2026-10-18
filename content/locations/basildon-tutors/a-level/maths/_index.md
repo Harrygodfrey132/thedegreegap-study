@@ -16,9 +16,9 @@ angle_body_1: "Most Basildon sixth formers who call us about A-Level Maths did w
 angle_body_2: "So the tutor goes back to the algebra first, since almost every Pure topic leans on it, then works forward through whatever your child's class is covering. Statistics and Mechanics get their turn too, because they sit on the papers alongside Pure. For students heading towards engineering, at university or with one of Basildon's big employers like Ford or Leonardo, A-Level Maths is usually among the first grades they're asked for."
 angle_image: "/images/maths-equations-close-up.jpg"
 angle_image_alt: "An A-Level Maths student working through algebra with an online tutor"
-angle_stat_from: "D"
-angle_stat_to: "B"
-angle_stat_detail: "What a year of weekly A-Level Maths lessons often aims for once the algebra is secure. Never a promise."
+angle_stat_from: "E/U"
+angle_stat_to: "C"
+angle_stat_detail: "E and U grades into three Cs at A-Level, from Joanna’s Google review about their son. The review doesn’t name the subjects."
 
 schools:
   - "The Basildon Academies"
@@ -53,7 +53,7 @@ faqs:
 reviews:
   - "Abby|Parent of A-Level Student|Harry has tutored my son in both maths and economics A-levels and has been fantastic. Harry has been professional, approachable and engaging, he has explained things clearly and has fully supported my son through the last 2 years. We are absolutely delighted with the results. Thank you!"
   - "John|Parent of A-Level Student|Freddie really enjoyed his time with The Degree Gap. He got help with his three A levels (maths, computer science and business) and managed to get his number one choice attending Liverpool Uni to study a masters in Maths. The tutors were organised, supportive and spent time understanding where the knowledge gaps where to ensure best chance of success in exams! Highly recommended"
-  - "Leo|A-Level Student|The time I have spent with my tutor here has  really valuable.  He has helped so much with a range of topics across economics and maths. He explains things really clearly and makes the sessions enjoyable."
+  - "Leo|Student|The time I have spent with my tutor here has  really valuable.  He has helped so much with a range of topics across economics and maths. He explains things really clearly and makes the sessions enjoyable."
   - "Marfa|Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university"
   - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 

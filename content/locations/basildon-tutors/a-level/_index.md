@@ -9,17 +9,17 @@ hero_heading_line1: "Online A-Level tutoring for Basildon students who found the
 hero_heading_line2: ""
 hero_lead: "A-Levels move faster and leave more of the work to your child, and that first autumn catches plenty of Basildon sixth formers out. We'll match your child with an online A-Level tutor on their exact board, with every lesson from home."
 
-grade_from: "E"
+grade_from: "E/U"
 grade_to: "C"
-grade_stat: "E and U grades turned into three Cs, from a student who’d left revision until the last minute, in his parent’s words."
+grade_stat: "“…managing to turn E and U grades into 3 C grades.” Joanna, parent, on Google"
 
 first_lesson_eyebrow: "THE GCSE HABITS THAT STOP WORKING"
 first_lesson_heading: "What an A-Level Tutor Looks for First With a Basildon Sixth Former"
 first_lesson_context: "Wherever your child is studying, in the sixth form at the Basildon Academies, at Bromfords or The Billericay School, or on an A-Level course at South Essex College or USP College, Year 12 asks for something GCSEs mostly didn't: steady work on their own between lessons. So the first session looks at a recent assessment and at how your child actually revises. At A-Level the gap is as often in the method as in the content."
-first_lesson_quote: "He was excellent, knew exactly what he needed to learn and was able to explain in terms which made it simple to understand."
-first_lesson_quote_name: "Cat"
+first_lesson_quote: "The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades."
+first_lesson_quote_name: "Joanna"
 first_lesson_quote_role: "Parent of A-Level Student"
-first_lesson_quote_grade: "A-Level Economics"
+first_lesson_quote_grade: "Grade E/U → Grade C at A-Level"
 
 tutor_strip_heading: "A-Level tutors for Basildon students, matched on board and subject"
 tutor_strip_body: "Some of the tutors on our platform. Harry and Joe interview each one, and about 3% of applicants are accepted. Tell us your child's subjects and boards, and we'll suggest two or three who know them well."

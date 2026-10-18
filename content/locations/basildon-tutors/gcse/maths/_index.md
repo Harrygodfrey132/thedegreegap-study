@@ -16,9 +16,9 @@ angle_body_1: "A lot of Basildon parents first call us about Maths after a tier 
 angle_body_2: "So the first lesson is a recent paper, worked through while the tutor watches, and the shaky skills show up quickly. After that, each lesson spends a few minutes on the old skill and the rest on whatever the class is doing now, so school and tutoring pull the same way. It matters beyond the exam hall, too. Most college courses around Basildon ask for at least a 4 in Maths, and engineering apprenticeships name it in almost every set of requirements."
 angle_image: "/images/student-completing-maths-worksheet.jpg"
 angle_image_alt: "A GCSE Maths student working through number questions with an online tutor"
-angle_stat_from: "4"
-angle_stat_to: "5"
-angle_stat_detail: "From a standard pass to a strong pass, the step plenty of Basildon courses ask about. What weekly lessons aim for, never a promise."
+angle_stat_from: "5"
+angle_stat_to: "6/7"
+angle_stat_detail: "These grades were in GCSE English, not Maths: a 5 to a 6/7, from Omo’s Google review about their son."
 
 schools:
   - "The Basildon Academies"
