@@ -29,10 +29,10 @@ pathways_lead: "Plenty of families are weighing two of these at once, and all of
 pathways:
   - title: "Sixth Forms"
     body: "The Basildon Academies run a sixth form on the Upper Academy site in Pitsea, and The Bromfords School and The Billericay School have their own. Each one sets its course requirements and can change them between years, so it's this year's page for the subject your child wants that counts."
-  - title: "Colleges"
-    body: "South Essex College has a campus in Basildon, and USP College's Seevic campus in Benfleet is a short trip away. Both teach A-Levels alongside vocational courses, and most Level 3 courses ask for English and Maths at grade 4 or above."
   - title: "Apprenticeships"
     body: "Engineering has been part of Basildon since Ford opened its research and engineering centre at Dunton in 1967, and Leonardo is another big employer in the borough. Apprenticeship schemes publish their own entry requirements, and English and Maths appear in nearly all of them."
+  - title: "Further Education"
+    body: "South Essex College has a campus in Basildon, and USP College's Seevic campus in Benfleet is a short trip away. Both teach A-Levels alongside vocational courses, and most Level 3 courses ask for English and Maths at grade 4 or above."
 
 reviews:
   - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
@@ -43,10 +43,6 @@ reviews:
   - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. …"
   - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. The website is easy to use and effective, I had no disappointment in scheduling lessons for my son. Tutors were polite and on time for their lessons."
   - "Jessica|Student|I highly recommend Harry – he was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree!!"
-  - "Dawn|Parent|The Degree Gap took time to understand my child’s worries. They paired me with Connor, who my daughter got on well with. Her confidence has skyrocketed since. Thanks again."
-  - "Nazrul|Parent of GCSE Student|My daughter found the tutors were very helpful for her GCSE thank you"
-  - "Annette|Parent|This company helped us find Jon Brettell for Geography and my son has excelled so much in just a few months. Jon has gone above and beyond, demonstrating incredible patience and encouraging my son to believe in himself – a difficult task.  He also manages neurodiversity effectively."
-  - "Bryan|Student|Helped me a lot and really showed me what i need to improve on"
 
 faq_1_q: "Will my child's GCSE tutor actually live in Basildon?"
 faq_1_a: "Probably not, and that's on purpose. Lessons are online, so the tutor we suggest is the one who knows your child's exam board and suits how they learn, wherever in the UK they happen to be. Your child works from home, with no lift needed after school, and every lesson can be watched back before a test."

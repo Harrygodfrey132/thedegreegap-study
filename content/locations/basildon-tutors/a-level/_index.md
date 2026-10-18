@@ -27,12 +27,12 @@ tutor_strip_body: "Some of the tutors on our platform. Harry and Joe interview e
 pathways_heading: "Where Basildon's Sixth Formers Head After A-Levels"
 pathways_lead: "Most families are thinking about at least two of these by the spring of Year 12."
 pathways:
-  - title: "University"
+  - title: "Universities"
     body: "Anglia Ruskin University has a campus in Chelmsford, and the University of Essex teaches in Colchester and Southend, both within reach for students who'd rather stay closer to home. London's universities are a straight train ride away too, from Basildon or Pitsea into Fenchurch Street."
   - title: "Degree Apprenticeships"
     body: "Basildon's engineering employers, Ford at Dunton and Leonardo among them, have been part of the town for decades. Engineering schemes usually name Maths and a Science, places are competitive, and applications tend to open in the autumn of Year 13."
-  - title: "UCAS"
-    body: "UCAS applications go in during Year 13, with predicted grades built from Year 12 work and mocks. That makes Year 12 the year to get the grades moving, and we can help with the personal statement as well."
+  - title: "Career Pathways"
+    body: "Basildon has the largest economy in Essex, with Ford at Dunton, Leonardo and a digital and creative sector employing thousands. Plenty of sixth formers look to London as well, where finance, law and tech firms recruit school leavers alongside graduates."
 
 reviews:
   - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
@@ -43,10 +43,6 @@ reviews:
   - "Lucas|A-Level Student|I was having trouble with some areas of my economics a level course before getting in contact with Harry. He walked me through everything I needed help with, from content I was weak with to exam technique that I was lacking. His insight, examples and willingness to go the extra step really helped me to regain my confidence in economics, having achieved a predicted a* with his help."
   - "John|Parent of A-Level Student|Freddie really enjoyed his time with The Degree Gap. He got help with his three A levels (maths, computer science and business) and managed to get his number one choice attending Liverpool Uni to study a masters in Maths. The tutors were organised, supportive and spent time understanding where the knowledge gaps where to ensure best chance of success in exams! Highly recommended"
   - "Nick|Parent of A-Level Student|Sandra Sabu has been tutoring our son for Psychology A Level. Sandra has provided a solid base of tutoring outside of school lessons and helped him to improve his latest grades."
-  - "Raj|Parent of A-Level Student|Brilliant support and communication. We had the best tutor for history and sociology, Jacob, and this definitely influenced my son's amazing A level grades. Would not hesitate to recommend. Jacob also took account of and understood my son's struggles with dyslexia and how this affected his ability to study and get all the (vast) knowledge he has in his head into the paper. Such a struggle for these SEN children but they can achieve. We are so proud of our son and thank you Degree Gap for helping us!"
-  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
-  - "Matthew|A-Level Student|My tutor was very helpful leading to the result that I wanted, giving helpful tips and techniques to get the most out of my Economics. I used Sayyeda-Zainab Rajabali for A Level Economics and she was always very helpful and taught at a high level."
-  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
 
 faq_1_q: "Is my child's A-Level tutor going to be based in Basildon?"
 faq_1_a: "Usually not, and at A-Level that really helps. Your child might need someone who knows Further Maths, or a particular board's Psychology papers, and the best fit is rarely the person who lives nearest. Lessons are online, so we can choose from across the UK, and your child learns from home around their free periods."
