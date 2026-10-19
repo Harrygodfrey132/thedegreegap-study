@@ -31,7 +31,7 @@ area_links:
   - "Worcester Tutors|/locations/worcester-tutors/"
   - "Swindon Tutors|/locations/swindon-tutors/"
   - "Bristol Tutors|/locations/bristol-tutors/"
-  - "Bath Tutors|/locations/bath-tutors/"
+  - "Cardiff Tutors|/locations/cardiff-tutors/"
 gcse_subjects:
   - "GCSE Biology Tuition|The practicals and the long written answers, practised against real mark schemes rather than notes.|/book-a-call/"
   - "GCSE Maths Tuition|Number, algebra and worded problems, with every method checked for the gap sitting underneath it.|/book-a-call/"

@@ -30,7 +30,7 @@ area_links:
   - "Chelmsford Tutors|/locations/chelmsford-tutors/"
   - "Colchester Tutors|/locations/colchester-tutors/"
   - "London Tutors|/locations/london-tutors/"
-  - "Ipswich Tutors|/locations/ipswich-tutors/"
+  - "Brentwood Tutors|/locations/brentwood-tutors/"
 gcse_subjects:
   - "GCSE Physics Tuition|Equations, units and multi-step calculations, practised until rearranging a formula stops feeling like a trick.|/book-a-call/"
   - "GCSE English Tuition|Language and Literature, with quotations learnt properly and answers planned before the clock starts running.|/book-a-call/"
