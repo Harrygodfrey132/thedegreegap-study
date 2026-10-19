@@ -1,19 +1,19 @@
 ---
 title: "GCSE Revision Tips and a Free Revision Timetable"
-description: "Get a free GCSE revision timetable and our free revision webinar sent to your inbox, plus ten revision tips from our tutors that actually work."
+description: "Download a free printable GCSE revision timetable, get our free revision webinar by email, and read ten revision tips from our tutors that actually work."
 layout: "free-revision-timetable"
 hero_h1: "Get a free revision timetable, plus our revision webinar"
-hero_lead: "Tell us where to send it. We'll email you a revision timetable for GCSE or A-Level and a link to our free revision webinar."
+hero_lead: "Fill in the form and you can download a printable revision timetable straight away. We'll email you a link to our free revision webinar too."
 benefits:
-  - "**A revision timetable**, sent straight to your inbox"
+  - "**A printable revision timetable**, Monday to Sunday, 4.30 to 9.30pm, to download straight away"
   - "**Our free revision webinar**, on making the most of mocks and building a routine that holds"
   - "**Ten revision tips that work**, from our tutors, just below"
 form_tag: "Free revision timetable"
-form_heading: "Where should we send it?"
-form_sub: "It takes 30 seconds."
-email_hint: "We'll send the timetable and the free revision webinar here."
+form_heading: "Get your free timetable"
+form_sub: "It takes 30 seconds, and the download is on the next page."
+email_hint: "We'll send the free revision webinar here."
 phone_hint: "If you're a parent, please fill this in."
-submit_label: "Send me the timetable"
+submit_label: "Get my timetable"
 # Zoho Lead Source for every lead from this page. It has to be a value already
 # in the Lead Source picklist, or Zoho drops it.
 lead_source: "FREE Revision Timetable"
@@ -68,7 +68,7 @@ The American Academy of Sleep Medicine recommends 8 to 10 hours a night for teen
 
 ## Make a plan, then keep to it
 
-Tips only help if they happen, and that's what a timetable is for. Plan back from your first exam: the summer 2027 exams are due to start on Monday 10 May 2027. Put every subject in, give the weakest more sessions, keep one evening a week free and check the plan every Sunday. [Get your free timetable](#get-timetable) and we'll send it to your inbox.
+Tips only help if they happen, and that's what a timetable is for. Plan back from your first exam: the summer 2027 exams are due to start on Monday 10 May 2027. Put every subject in, give the weakest more sessions, keep one evening a week free and check the plan every Sunday. [Get your free timetable](#get-timetable) and download it straight away.
 
 ## When tips aren't enough
 

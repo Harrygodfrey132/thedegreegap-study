@@ -10182,6 +10182,11 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
 .book-call__sent[hidden] { display: none; }
 .book-call__sent svg { flex: 0 0 auto; margin-top: 2px; color: #1f8f4e; }
 @media (min-width: 720px) { .book-call__sent { margin-top: 0; } }
+/* The download button in the free revision timetable thank-you line. */
+.book-call__sent-dl { display: inline-flex; align-items: center; margin-top: 0.7rem; padding: 0.6rem 1rem; border-radius: 8px;
+  background: #1f8f4e; color: #fff !important; font-weight: 700; text-decoration: none !important; }
+.book-call__sent-dl::before { content: "\2193"; margin-right: 0.45rem; font-weight: 800; }
+.book-call__sent-dl:hover { background: #18733e; }
 
 /* EM Shortis Tuition referral page. We do not have Ellen's brand colours or
    logo yet, so it wears The Degree Gap's own burgundy and cream rather than
