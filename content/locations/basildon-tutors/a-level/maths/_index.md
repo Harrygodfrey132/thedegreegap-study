@@ -48,8 +48,9 @@ faqs:
   - q: "Which A-Level Maths topics cause the most trouble?"
     a: "In Year 12, it's usually algebra, trigonometry and the first taste of calculus. In Year 13 it's integration, proof and the longer problems that mix topics together. Mechanics catches out students who aren't taking Physics. A tutor works out which of these is behind your child's marks before planning anything."
   - q: "Is it worth starting in Year 12, or should we wait for Year 13?"
-    a: "Year 12 if you can. Predicted grades for UCAS and apprenticeship applications come from Year 12 work, and the algebra gaps are easier to close before the Year 13 content goes on top. Starting in Year 13 still helps, with a plan that's more about papers and timing."
+    a: "Year 12 if you can. For Basildon sixth formers taking A-Level Maths, predicted grades for UCAS and apprenticeship applications come from Year 12 work, and the algebra gaps are easier to close before the Year 13 content goes on top. Starting in Year 13 still helps, with a plan that's more about papers and timing."
 
+# FAQ picks (closest bank items): G03 (based-in), A07, A13, G05, A05
 reviews:
   - "Abby|Parent of A-Level Student|Harry has tutored my son in both maths and economics A-levels and has been fantastic. Harry has been professional, approachable and engaging, he has explained things clearly and has fully supported my son through the last 2 years. We are absolutely delighted with the results. Thank you!"
   - "John|Parent of A-Level Student|Freddie really enjoyed his time with The Degree Gap. He got help with his three A levels (maths, computer science and business) and managed to get his number one choice attending Liverpool Uni to study a masters in Maths. The tutors were organised, supportive and spent time understanding where the knowledge gaps where to ensure best chance of success in exams! Highly recommended"

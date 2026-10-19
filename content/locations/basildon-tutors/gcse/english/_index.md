@@ -50,6 +50,7 @@ faqs:
   - q: "My son says he's a Maths person, not an English one. Can that change?"
     a: "Often, yes. Lots of children who like Maths do well in English once they see an essay has a structure, a bit like a method. A tutor can teach it that way: point, evidence, what it shows, link back. For a logical thinker that's usually the moment English starts to make sense."
 
+# FAQ picks (closest bank items): G03 (based-in), A13, C08, A09, A07
 reviews:
   - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
   - "Simone|Parent of GCSE Student|My son has just passed his English GCSE with a Grade 5 — he only needed a Grade 4, so we are absolutely over the moon and incredibly proud! 🎉👏 With all of my son SEN needs and the challenges he has faced throughout his education, there were times when we genuinely weren't sure he would get here. But today he has proved that anything is achievable with the right support, belief and determination. A huge thank you to Emir, Your encouragement and motivation has meant so much. We are so grateful for everything you have done. 🙏"

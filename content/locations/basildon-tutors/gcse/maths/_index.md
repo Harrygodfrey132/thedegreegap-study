@@ -50,6 +50,7 @@ faqs:
   - q: "My child gets really anxious about Maths. Can a tutor help with that?"
     a: "Very often, yes. A lot of Maths anxiety comes from being lost in front of thirty people. One-to-one, with nobody watching, the tutor can go back to where it stopped making sense and let your child get a few questions right. Confidence usually comes back before the grade does."
 
+# FAQ picks (closest bank items): G03 (based-in), A12, G01, A01, C07
 reviews:
   - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. …"
   - "Hermione|GCSE Student|Came here to search for a GCSE maths tutor and was recommended Rebecca Hanna by the very helpful Harry. Rebecca was nothing but helpful and comforting. I highly recommend her, especially since she helped me pass the GCSE! Thank you."

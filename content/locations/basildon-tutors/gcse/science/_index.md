@@ -50,6 +50,7 @@ faqs:
   - q: "Will Science grades matter if my child wants an engineering apprenticeship?"
     a: "Yes. Engineering apprenticeships nearly always name Maths and Science in their entry requirements, so check the scheme your child likes the look of. It's worth knowing in Basildon, where engineering firms have been part of the town for decades. A tutor can work towards the grade that scheme asks for."
 
+# FAQ picks (closest bank items): G03 (based-in), A12, A13, A07, G04
 reviews:
   - "Chamarika|Parent of GCSE Student|Good tutoring platform. I did have some initial issues with a couple of tutors but Joe is very responsive and works to swiftly resolve things. My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring. We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s. Thank you to all the 3x tutors."
   - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. The website is easy to use and effective, I had no disappointment in scheduling lessons for my son. Tutors were polite and on time for their lessons."

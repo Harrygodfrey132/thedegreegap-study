@@ -42,7 +42,7 @@ faqs:
   - q: "Can an online A-Level Maths tutor help as much as someone local to Gloucester?"
     a: "Yes, and often more, because the best match for your child's board is rarely the person who lives closest. Your child writes each step on a shared whiteboard, and the tutor can stop them at the line where a proof or a substitution goes astray. Being online lets us choose from across the UK, which matters more at A-Level, where a tutor needs to know the specific papers."
   - q: "Does it matter whether my child's sixth form uses Edexcel, AQA or OCR MEI?"
-    a: "Yes. The content overlaps a lot, but the papers are put together differently, the large data set is different on each, and the question style varies. Sixth forms around Gloucester don't all use the same board, so we check your child's before suggesting a tutor, and match on it."
+    a: "Yes. A-Level Maths content overlaps a lot between boards, but the papers are put together differently, the large data set is different on each, and the question style varies. Sixth forms around Gloucester don't all use the same board, so we check your child's before suggesting a tutor, and match on it."
   - q: "Year 12 or Year 13: when should A-Level Maths tutoring start?"
     a: "Ideally in the first term of Year 12. That's when the gap between GCSE and A-Level first opens, and when it's quickest to close: a few weeks on algebra then saves months later. Predicted grades are built from Year 12 work too. Starting in Year 13 is common as well, and the plan simply narrows to past papers, timing and the topics losing the most marks."
   - q: "How do you check a tutor can really teach A-Level Maths?"
