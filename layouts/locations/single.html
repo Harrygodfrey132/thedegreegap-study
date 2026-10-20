@@ -8,6 +8,13 @@ Location tutor page content contract:
 {{ $loc := .Params.location | default "Your Area" }}
 {{ $schools := .Params.schools | default (slice "Whitgift School" "Trinity School" "Old Palace of John Whitgift School" "Croydon High School" "Archbishop Tenison's CE High School") }}
 {{ $areaLinks := .Params.area_links | default (slice "Croydon Tutors|/locations/croydon-tutors/" "Purley Tutors|/locations/purley-tutors/" "Addington Tutors|/locations/addington-tutors/" "Mitcham Tutors|/locations/mitcham-tutors/" "Bromley Tutors|/locations/bromley-tutors/" "Thornton Heath Tutors|/locations/thornton-heath-tutors/" "Tooting Tutors|/locations/tooting-tutors/" "Balham Tutors|/locations/balham-tutors/" "Streatham Tutors|/locations/streatham-tutors/") }}
+{{/* Keep only links to town pages that are live in this build. A town with a
+     future publishDate (towns are released one a day) is not built until its
+     day, so a page published earlier never links to a 404. This also drops
+     the fallback list's towns that were never built. */}}
+{{ $liveAreaLinks := slice }}
+{{ range $areaLinks }}{{ $href := index (split . "|") 1 }}{{ if or (not (hasPrefix $href "/locations/")) (site.GetPage (strings.TrimSuffix "/" $href)) }}{{ $liveAreaLinks = $liveAreaLinks | append . }}{{ end }}{{ end }}
+{{ $areaLinks = $liveAreaLinks }}
 {{ $bannerHeading := .Params.banner_heading | default "Is Your Child Working Hard but Still Stuck? Our Online Tutors Can Help" }}
 {{ $bannerLead := .Params.banner_description | default (.Params.banner_lead | default "Talk to us about your child on a free call, and within 24 hours you'll have two or three tutor profiles to choose from.") }}
 {{ $intro1 := .Params.intro_1 | default "The Degree Gap grew out of our own school years. We're Harry and Joe, and each of us had two tutors growing up: one excellent, one only okay. It taught us early that the match is what counts. So you won't just be handed a tutor. You'll see two or three profiles and choose the one who suits your child." }}
