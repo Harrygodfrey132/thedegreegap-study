@@ -1,7 +1,5 @@
 ---
 title: "Online A-Level Tutors for Your Child in Wimbledon | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-26
 description: "Has Year 12 started badly for your child in Wimbledon? We'll match them with an online A-Level tutor who knows their board. Free call first, from £37 an hour."
 layout: "subject"
 location: "Wimbledon"

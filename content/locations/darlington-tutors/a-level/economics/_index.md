@@ -1,7 +1,5 @@
 ---
 title: "A-Level Economics Tutors for Darlington Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-21
 nav_title: "Economics"
 description: "Are your child's A-Level Economics essays losing marks on evaluation? We match Darlington students with an online tutor for QE's Edexcel course. From £37."
 layout: "level-subject"

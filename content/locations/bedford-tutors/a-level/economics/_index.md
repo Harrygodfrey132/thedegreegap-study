@@ -1,7 +1,5 @@
 ---
 title: "A-Level Economics Tutors for Bedford Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-22
 nav_title: "Economics"
 description: "Are the long Economics essays costing your child marks? We match Bedford sixth formers with an online A-Level Economics tutor on AQA, Edexcel or OCR. From £37."
 layout: "level-subject"

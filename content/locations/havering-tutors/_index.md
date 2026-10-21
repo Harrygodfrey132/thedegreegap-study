@@ -1,7 +1,5 @@
 ---
 title: "GCSE & A-Level Tutors for Havering Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-31
 description: "Can't help with your child's homework any more? We'll match your Havering teenager with an online tutor for GCSE or A-Level. Free call first, from £37 an hour."
 layout: "single"
 location: "Havering"

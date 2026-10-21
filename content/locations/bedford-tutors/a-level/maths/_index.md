@@ -1,7 +1,5 @@
 ---
 title: "A-Level Maths Tutors for Bedford Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-22
 nav_title: "Maths"
 description: "Is Year 13 calculus leaving your child behind? We'll match Bedford sixth formers with an online A-Level Maths tutor, Kimberley College to Sharnbrook. From £37."
 layout: "level-subject"

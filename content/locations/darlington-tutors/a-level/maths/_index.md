@@ -1,7 +1,5 @@
 ---
 title: "A-Level Maths Tutors for Darlington Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-21
 nav_title: "Maths"
 description: "Is your child's algebra slower than A-Level Maths assumes? We'll match Darlington sixth formers with an online tutor who knows QE's Edexcel papers. From £37."
 layout: "level-subject"

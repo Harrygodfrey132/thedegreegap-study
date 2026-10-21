@@ -1,7 +1,5 @@
 ---
 title: "A-Level Maths Tutors for Dulwich Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-11-01
 nav_title: "Maths"
 description: "Are Statistics and Mechanics pulling your child's A-Level Maths grade down in Dulwich? We'll match them with an online tutor on Edexcel, AQA or OCR. From £37."
 layout: "level-subject"

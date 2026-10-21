@@ -1,7 +1,5 @@
 ---
 title: "A-Level Economics Tutors for Lincoln Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-11-03
 nav_title: "Economics"
 description: "Do your child's Economics essays explain the theory but never judge it? We match Lincoln sixth formers with an online tutor on AQA or Edexcel. From £37 an hour."
 layout: "level-subject"

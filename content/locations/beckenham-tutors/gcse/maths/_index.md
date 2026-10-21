@@ -1,7 +1,5 @@
 ---
 title: "GCSE Maths Tutors for Beckenham Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-25
 nav_title: "Maths"
 description: "Is GCSE Maths the subject your child dreads? We match Beckenham students, from Langley Park to Orion Eden Park, with an online Maths tutor. From £37 an hour."
 layout: "level-subject"

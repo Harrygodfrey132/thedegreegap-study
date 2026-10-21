@@ -1,7 +1,5 @@
 ---
 title: "A-Level Tutors for Clapham Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-28
 description: "Is Year 12 drifting by for your child in Clapham? We'll match them with an online A-Level tutor who knows their exact board. Free call first, from £37 an hour."
 layout: "subject"
 location: "Clapham"

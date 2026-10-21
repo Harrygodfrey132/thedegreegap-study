@@ -1,7 +1,5 @@
 ---
 title: "Online GCSE Tutors for Your Child in Hull | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-11-02
 description: "Is Year 11 in Hull piling up, with a college application on top of the mocks? We'll match your child with an online GCSE tutor on their board. From £37 an hour."
 layout: "subject"
 location: "Hull"

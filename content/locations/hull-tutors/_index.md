@@ -1,7 +1,5 @@
 ---
 title: "Online Tutoring for Hull Families | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-11-02
 description: "Has your child stopped trying at school in Hull? We'll match them with an online tutor they get on with. A free call first, then lessons from £37 an hour."
 layout: "single"
 location: "Hull"

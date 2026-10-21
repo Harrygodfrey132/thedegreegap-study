@@ -1,7 +1,5 @@
 ---
 title: "A-Level Maths Tutors for Richmond Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-27
 nav_title: "Maths"
 description: "Is A-Level Maths pulling your child's Physics down too? We match Richmond sixth formers from Orleans Park to Turing House with an online Maths tutor. From £37."
 layout: "level-subject"

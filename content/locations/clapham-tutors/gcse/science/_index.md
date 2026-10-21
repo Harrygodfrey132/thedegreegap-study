@@ -1,7 +1,5 @@
 ---
 title: "GCSE Science Tutors for Clapham Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-28
 nav_title: "Science"
 description: "Is GCSE Science slipping for your child in Clapham? We'll match them with an online tutor for Combined or Triple, from Graveney to The Elms. From £37 an hour."
 layout: "level-subject"

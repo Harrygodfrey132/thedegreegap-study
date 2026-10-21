@@ -1,7 +1,5 @@
 ---
 title: "Find the Right Tutor for Your Child in Richmond | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-27
 description: "Is one GCSE grade standing between your child and the A-Level they want in Richmond? We'll match them with an online tutor. Free call first, from £37 an hour."
 layout: "single"
 location: "Richmond"

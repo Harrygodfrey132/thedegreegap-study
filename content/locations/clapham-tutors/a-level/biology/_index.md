@@ -1,7 +1,5 @@
 ---
 title: "A-Level Biology Tutors for Clapham Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-28
 nav_title: "Biology"
 description: "Is A-Level Biology burying your child in content? We'll match Clapham students with an online Biology tutor for long answers, from SFX to Graveney. From £37."
 layout: "level-subject"

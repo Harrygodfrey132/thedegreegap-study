@@ -1,7 +1,5 @@
 ---
 title: "A-Level Economics Tutors for Wallington Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-11-04
 nav_title: "Economics"
 description: "Are diagrams costing your child A-Level Economics marks? We match Wallington sixth formers with an online Economics tutor on AQA, Edexcel or OCR. From £37."
 layout: "level-subject"

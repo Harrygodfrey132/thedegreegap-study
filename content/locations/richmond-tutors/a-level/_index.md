@@ -1,7 +1,5 @@
 ---
 title: "A-Level Tutors for Richmond Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-27
 description: "Is one A-Level dragging the others down for your child? We'll match Richmond sixth formers with an online A-Level tutor on their board. From £37, no contract."
 layout: "subject"
 location: "Richmond"

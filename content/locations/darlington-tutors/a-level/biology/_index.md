@@ -1,7 +1,5 @@
 ---
 title: "A-Level Biology Tutors for Darlington Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-21
 nav_title: "Biology"
 description: "Is your child finding A-Level Biology's long answers hard to pull together? We match Darlington students with an online tutor for OCR's course at QE. From £37."
 layout: "level-subject"

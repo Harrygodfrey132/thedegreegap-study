@@ -1,7 +1,5 @@
 ---
 title: "A-Level Physics Tutors for Hull Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-11-02
 nav_title: "Physics"
 description: "Is the maths inside A-Level Physics catching your child out? We'll match Hull students with an online Physics tutor on AQA or OCR. From £37, no contract."
 layout: "level-subject"

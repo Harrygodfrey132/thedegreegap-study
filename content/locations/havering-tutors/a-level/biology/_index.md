@@ -1,7 +1,5 @@
 ---
 title: "A-Level Biology Tutors for Havering Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-31
 nav_title: "Biology"
 description: "Is A-Level Biology swamping your child? We match Havering sixth formers with an online Biology tutor on AQA or OCR, with nursing and medicine in mind. From £37."
 layout: "level-subject"

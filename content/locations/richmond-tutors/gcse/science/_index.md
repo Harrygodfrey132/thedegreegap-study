@@ -1,7 +1,5 @@
 ---
 title: "GCSE Science Tutors for Richmond Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-27
 nav_title: "Science"
 description: "Is GCSE Science short of what your child needs for A-Level sciences at Orleans Park or the college? We'll match them with an online tutor. From £37 an hour."
 layout: "level-subject"

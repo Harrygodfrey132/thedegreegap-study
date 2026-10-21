@@ -1,7 +1,5 @@
 ---
 title: "Online Tutoring for Beckenham Families | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-25
 description: "Two children, two Beckenham schools, and one of them struggling? We'll match your child with an online tutor who suits them. Free call first, from £37 an hour."
 layout: "single"
 location: "Beckenham"

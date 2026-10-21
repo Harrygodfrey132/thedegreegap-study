@@ -1,7 +1,5 @@
 ---
 title: "GCSE English Tutors for Clapham Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-28
 nav_title: "English"
 description: "Is your child's own writing costing marks in GCSE English? We'll match Clapham students with an online English tutor, from La Retraite to The Elms. From £37."
 layout: "level-subject"

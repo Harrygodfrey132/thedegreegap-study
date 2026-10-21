@@ -1,7 +1,5 @@
 ---
 title: "GCSE Science Tutors for Purley Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-29
 nav_title: "Science"
 description: "Worried about GCSE Science in Purley? We'll match your child with an online tutor on their board, Edexcel at Riddlesdown, say, for Combined or Triple. From £37."
 layout: "level-subject"

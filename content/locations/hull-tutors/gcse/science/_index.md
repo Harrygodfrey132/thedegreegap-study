@@ -1,7 +1,5 @@
 ---
 title: "GCSE Science Tutors for Hull Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-11-02
 nav_title: "Science"
 description: "Is GCSE Science costing your child marks in Hull, with Wyke's A-Level sciences asking for 6s? We'll match them with an online Science tutor. From £37 an hour."
 layout: "level-subject"

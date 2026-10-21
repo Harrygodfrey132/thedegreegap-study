@@ -1,7 +1,5 @@
 ---
 title: "A-Level Economics Tutors for Beckenham Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-25
 nav_title: "Economics"
 description: "Is your child's Economics essay stuck at 'describes, doesn't evaluate'? We match Beckenham students with an online A-Level tutor on AQA or Edexcel. From £37."
 layout: "level-subject"

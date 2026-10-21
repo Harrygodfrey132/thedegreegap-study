@@ -1,7 +1,5 @@
 ---
 title: "Online GCSE Tutors for Beckenham Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-25
 description: "Has your child gone quiet on one GCSE subject? We'll match Beckenham students with an online GCSE tutor on their exam board. Free call first, from £37 an hour."
 layout: "subject"
 location: "Beckenham"

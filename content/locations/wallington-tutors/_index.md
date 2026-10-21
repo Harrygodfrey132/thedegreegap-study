@@ -1,7 +1,5 @@
 ---
 title: "Worried About GCSEs? Online Tutors for Wallington Students"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-11-04
 description: "Is your child getting the right answers but not the marks at school in Wallington? We'll match them with an online tutor. Free call first, from £37 an hour."
 layout: "single"
 location: "Wallington"

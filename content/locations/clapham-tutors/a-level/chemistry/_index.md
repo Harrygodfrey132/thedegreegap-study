@@ -1,7 +1,5 @@
 ---
 title: "A-Level Chemistry Tutors for Clapham Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-28
 nav_title: "Chemistry"
 description: "Are organic mechanisms costing your child marks in A-Level Chemistry? We'll match Clapham students with an online tutor, from SFX to Emanuel. From £37 an hour."
 layout: "level-subject"

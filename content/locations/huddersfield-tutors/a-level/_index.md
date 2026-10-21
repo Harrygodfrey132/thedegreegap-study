@@ -1,7 +1,5 @@
 ---
 title: "A-Level Tutors for Huddersfield Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-30
 description: "First college assessments lower than you'd hoped? We'll match your Huddersfield sixth former with an online A-Level tutor. A free call first, from £37 an hour."
 layout: "subject"
 location: "Huddersfield"

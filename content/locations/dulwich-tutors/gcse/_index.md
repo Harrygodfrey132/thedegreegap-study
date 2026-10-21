@@ -1,7 +1,5 @@
 ---
 title: "Online GCSE Tutors for Dulwich Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-11-01
 description: "Worried your child's GCSEs won't be ready by Dulwich's sixth form deadlines? We'll match them with an online GCSE tutor. Free call first, from £37 an hour."
 layout: "subject"
 location: "Dulwich"

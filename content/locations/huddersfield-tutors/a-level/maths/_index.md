@@ -1,7 +1,5 @@
 ---
 title: "A-Level Maths Tutors for Huddersfield Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-30
 nav_title: "Maths"
 description: "Has Year 12 Maths moved faster than your child expected? We'll match them with an online A-Level Maths tutor who knows AQA, as taught at Greenhead. From £37."
 layout: "level-subject"

@@ -1,7 +1,5 @@
 ---
 title: "A-Level Chemistry Tutors for Wallington Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-11-04
 nav_title: "Chemistry"
 description: "Are synthesis questions losing your child A-Level Chemistry marks? We match Wallington students with an online Chemistry tutor on OCR, AQA or Edexcel. From £37."
 layout: "level-subject"

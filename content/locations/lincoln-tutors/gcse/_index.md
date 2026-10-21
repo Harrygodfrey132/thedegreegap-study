@@ -1,7 +1,5 @@
 ---
 title: "Online GCSE Tutors for Your Child in Lincoln | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-11-03
 description: "Is Year 10 slipping by while your child insists it's fine? We'll match them with an online GCSE tutor for Lincoln students. Free call first, from £37 an hour."
 layout: "subject"
 location: "Lincoln"

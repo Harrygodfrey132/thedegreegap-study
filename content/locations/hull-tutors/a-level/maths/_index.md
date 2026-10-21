@@ -1,7 +1,5 @@
 ---
 title: "A-Level Maths Tutors for Hull Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-11-02
 nav_title: "Maths"
 description: "Has A-Level Maths at Wyke or a Hull sixth form turned out far harder than GCSE? We'll match your child with an online tutor on their board. From £37 an hour."
 layout: "level-subject"

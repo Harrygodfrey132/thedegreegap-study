@@ -1,7 +1,5 @@
 ---
 title: "Worried About GCSEs? Online Tutors for Wimbledon Students"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-26
 description: "Is your child working hard at school in Wimbledon but sure they're behind everyone? We'll match them with an online tutor. Free call first, from £37 an hour."
 layout: "single"
 location: "Wimbledon"

@@ -1,7 +1,5 @@
 ---
 title: "A-Level Physics Tutors for Purley Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-29
 nav_title: "Physics"
 description: "Is the maths in A-Level Physics catching your child out? We'll match your Purley sixth former with an online tutor on AQA or their own board. From £37 an hour."
 layout: "level-subject"

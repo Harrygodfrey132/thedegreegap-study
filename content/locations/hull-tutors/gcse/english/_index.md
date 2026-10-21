@@ -1,7 +1,5 @@
 ---
 title: "GCSE English Tutors for Hull Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-11-02
 nav_title: "English"
 description: "Is writing letting your child down in GCSE English? Wyke in Hull asks for a 5 in Language before A-Level Literature. We'll find them an online tutor, from £37."
 layout: "level-subject"

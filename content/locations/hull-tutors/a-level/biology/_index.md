@@ -1,7 +1,5 @@
 ---
 title: "A-Level Biology Tutors for Hull Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-11-02
 nav_title: "Biology"
 description: "Is A-Level Biology heavier than your child expected, with Hull York Medical School or nursing in mind? We'll match them with an online tutor. From £37 an hour."
 layout: "level-subject"

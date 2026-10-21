@@ -1,7 +1,5 @@
 ---
 title: "GCSE Maths Tutors for Lincoln Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-11-03
 nav_title: "Maths"
 description: "Is GCSE Maths the paper your child dreads? We match Lincoln students with an online Maths tutor, from LCHS to William Farr. Free call first, from £37 an hour."
 layout: "level-subject"

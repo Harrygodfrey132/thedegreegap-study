@@ -1,7 +1,5 @@
 ---
 title: "GCSE English Tutors for Lincoln Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-11-03
 nav_title: "English"
 description: "Is your child spotting techniques but losing English marks? We match Lincoln students, from LCHS to the Priory schools, with an online English tutor. From £37."
 layout: "level-subject"

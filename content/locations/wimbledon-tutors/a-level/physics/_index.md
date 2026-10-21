@@ -1,7 +1,5 @@
 ---
 title: "A-Level Physics Tutors for Wimbledon Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-26
 nav_title: "Physics"
 description: "Does A-Level Physics feel like a Maths exam to your child? We match Wimbledon sixth formers with an online Physics tutor on AQA, OCR or Edexcel. From £37."
 layout: "level-subject"

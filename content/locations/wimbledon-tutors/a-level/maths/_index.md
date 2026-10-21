@@ -1,7 +1,5 @@
 ---
 title: "A-Level Maths Tutors for Wimbledon Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-26
 nav_title: "Maths"
 description: "Is A-Level Maths suddenly much harder for your child? We match Wimbledon sixth formers, at Ursuline, RR6 or KCS, with an online A-Level Maths tutor. From £37."
 layout: "level-subject"

@@ -1,7 +1,5 @@
 ---
 title: "GCSE Maths Tutors for Clapham Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-28
 nav_title: "Maths"
 description: "Is GCSE Maths the subject your child dreads in Clapham? We'll match them with an online Maths tutor on their board, from The Elms to Graveney. From £37 an hour."
 layout: "level-subject"

@@ -1,7 +1,5 @@
 ---
 title: "Online Tutors for Your Child in Dulwich | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-11-01
 description: "Does your child in Dulwich know the work, then go blank in tests? We'll match them with an online tutor who uses real papers. From £37 an hour, no contract."
 layout: "single"
 location: "Dulwich"

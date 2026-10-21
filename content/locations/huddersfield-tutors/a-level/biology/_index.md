@@ -1,7 +1,5 @@
 ---
 title: "A-Level Biology Tutors for Huddersfield Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-30
 nav_title: "Biology"
 description: "Is your child drowning in A-Level Biology content? We'll match them with an online Biology tutor on AQA, the board Greenhead teaches. From £37, no contract."
 layout: "level-subject"

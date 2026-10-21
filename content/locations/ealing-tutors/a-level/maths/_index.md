@@ -1,7 +1,5 @@
 ---
 title: "A-Level Maths Tutors for Ealing Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-23
 nav_title: "Maths"
 description: "Has A-Level Maths turned into hard work for your child in Year 13? We'll match Ealing sixth formers with an online tutor on Edexcel, AQA or OCR. From £37."
 layout: "level-subject"

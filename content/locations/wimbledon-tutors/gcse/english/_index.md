@@ -1,7 +1,5 @@
 ---
 title: "GCSE English Tutors for Wimbledon Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-26
 nav_title: "English"
 description: "Is your child a keen reader whose GCSE English grade won't move? We match Wimbledon students with an online English tutor on AQA, Edexcel or OCR. From £37."
 layout: "level-subject"

@@ -1,7 +1,5 @@
 ---
 title: "A-Level Tutors for Beckenham Sixth Formers | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-25
 description: "Is your child thinking of dropping an A-Level? We match Beckenham sixth formers with an online A-Level tutor on their board. From £37 an hour, no contract."
 layout: "subject"
 location: "Beckenham"

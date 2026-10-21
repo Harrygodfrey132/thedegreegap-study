@@ -1,7 +1,5 @@
 ---
 title: "A-Level Maths Tutors for Beckenham Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-25
 nav_title: "Maths"
 description: "Has Year 13 Maths left your child behind? We match Beckenham sixth formers, from Langley Park to Harris, with an online A-Level Maths tutor. From £37 an hour."
 layout: "level-subject"

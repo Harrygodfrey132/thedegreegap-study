@@ -1,7 +1,5 @@
 ---
 title: "A-Level Chemistry Tutors for Beckenham Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-25
 nav_title: "Chemistry"
 description: "Is organic chemistry costing your child marks? We match Beckenham sixth formers, from Langley Park to St Olave's, with an online Chemistry tutor. From £37."
 layout: "level-subject"

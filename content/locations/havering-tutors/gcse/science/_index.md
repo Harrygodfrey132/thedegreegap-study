@@ -1,7 +1,5 @@
 ---
 title: "GCSE Science Tutors for Havering Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-31
 nav_title: "Science"
 description: "Are practical questions costing your child GCSE Science marks? We match Havering students with an online Science tutor on AQA or Edexcel. From £37 an hour."
 layout: "level-subject"

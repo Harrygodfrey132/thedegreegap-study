@@ -1,7 +1,5 @@
 ---
 title: "Worried About GCSEs? Online Tutors for Lincoln Students"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-11-03
 description: "Worried your child isn't ready for their GCSEs in Lincoln? We'll match them with an online tutor who suits how they learn. Free call first, from £37 an hour."
 layout: "single"
 location: "Lincoln"

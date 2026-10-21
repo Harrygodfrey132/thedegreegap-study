@@ -1,7 +1,5 @@
 ---
 title: "Online Tutors for Your Child in Ealing | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-23
 description: "Worried your child is quietly slipping while others in Ealing seem fine? We'll match them with an online tutor who suits them. From £37 an hour, no contract."
 layout: "single"
 location: "Ealing"

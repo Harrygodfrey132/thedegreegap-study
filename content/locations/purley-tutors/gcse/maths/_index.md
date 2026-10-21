@@ -1,7 +1,5 @@
 ---
 title: "GCSE Maths Tutors for Purley Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-29
 nav_title: "Maths"
 description: "Is GCSE Maths homework ending in tears in Purley? We'll match your child with an online tutor on their board, Edexcel at Riddlesdown, say. From £37 an hour."
 layout: "level-subject"

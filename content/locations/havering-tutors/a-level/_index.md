@@ -1,7 +1,5 @@
 ---
 title: "Online A-Level Tutors for Your Child in Havering | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-31
 description: "New to A-Levels, predicted grades and UCAS? We'll match your Havering teenager with an online A-Level tutor, and help with the application. From £37 an hour."
 layout: "subject"
 location: "Havering"

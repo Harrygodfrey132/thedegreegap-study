@@ -1,7 +1,5 @@
 ---
 title: "GCSE Maths Tutors for Richmond Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-27
 nav_title: "Maths"
 description: "Is GCSE Maths the grade standing in your child's way in Richmond? We'll match them with an online Maths tutor on their board, from Orleans Park to Turing House."
 layout: "level-subject"

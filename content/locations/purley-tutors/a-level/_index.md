@@ -1,7 +1,5 @@
 ---
 title: "A-Level Tutors for Purley Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-29
 description: "Working harder than ever in Year 12 and getting less back? We'll match your child in Purley with an online A-Level tutor on their board. From £37, no contract."
 layout: "subject"
 location: "Purley"

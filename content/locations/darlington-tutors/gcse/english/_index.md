@@ -1,7 +1,5 @@
 ---
 title: "GCSE English Tutors for Darlington Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-21
 nav_title: "English"
 description: "Is your child running out of time in GCSE English? We match Darlington students with an online tutor for Language and Literature, with QE in mind. From £37."
 layout: "level-subject"

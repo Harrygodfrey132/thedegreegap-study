@@ -1,7 +1,5 @@
 ---
 title: "GCSE & A-Level Tutors for Enfield Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-24
 description: "Is your child quietly slipping behind in a big year group at school in Enfield? We'll match them with an online tutor who suits them. Free call, then from £37."
 layout: "single"
 location: "Enfield"

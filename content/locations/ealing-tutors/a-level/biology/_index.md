@@ -1,7 +1,5 @@
 ---
 title: "A-Level Biology Tutors for Ealing Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-23
 nav_title: "Biology"
 description: "Are long answers costing your child Biology marks? We'll match Ealing students with an online A-Level Biology tutor on AQA, OCR or Edexcel. From £37."
 layout: "level-subject"

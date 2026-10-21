@@ -1,7 +1,5 @@
 ---
 title: "GCSE Science Tutors for Lincoln Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-11-03
 nav_title: "Science"
 description: "Is your child losing Science marks on six-mark answers? We match Lincoln students, from LCHS to Lincoln UTC, with an online GCSE Science tutor. From £37."
 layout: "level-subject"

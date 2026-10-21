@@ -1,7 +1,5 @@
 ---
 title: "A-Level Biology Tutors for Purley Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-29
 nav_title: "Biology"
 description: "Stuck on the long answers in A-Level Biology? We'll match your Purley sixth former with an online tutor on their board, such as OCR at Riddlesdown. From £37."
 layout: "level-subject"

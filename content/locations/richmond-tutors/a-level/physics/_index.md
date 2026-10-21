@@ -1,7 +1,5 @@
 ---
 title: "A-Level Physics Tutors for Richmond Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-27
 nav_title: "Physics"
 description: "Is the maths in A-Level Physics tripping your child up? We match Richmond sixth formers with an online Physics tutor, in the borough NPL calls home. From £37."
 layout: "level-subject"

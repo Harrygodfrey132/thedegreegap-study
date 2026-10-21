@@ -1,7 +1,5 @@
 ---
 title: "Find the Right Tutor for Your Child in Bedford | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-22
 description: "Is homework stalling while you're still on the train home to Bedford? We'll match your child with an online tutor who suits them. From £37 an hour, no contract."
 layout: "single"
 location: "Bedford"

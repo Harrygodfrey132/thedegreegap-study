@@ -1,7 +1,5 @@
 ---
 title: "Online GCSE Tutors for Your Child in Purley | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-29
 description: "Has your child gone off a GCSE subject they need? We'll match Purley students with an online GCSE tutor on their exam board. Free call first, from £37 an hour."
 layout: "subject"
 location: "Purley"

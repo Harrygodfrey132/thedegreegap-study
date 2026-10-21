@@ -1,7 +1,5 @@
 ---
 title: "A-Level Maths Tutors for Enfield Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-24
 nav_title: "Maths"
 description: "Has A-Level Maths turned hard for your child after a strong GCSE? An online tutor for Enfield sixth formers, on Edexcel, AQA or OCR. From £37, no contract."
 layout: "level-subject"

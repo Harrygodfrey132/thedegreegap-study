@@ -1,7 +1,5 @@
 ---
 title: "GCSE Maths Tutors for Wimbledon Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-26
 nav_title: "Maths"
 description: "Does your child freeze on the last GCSE Maths questions? We match Wimbledon students, from Rutlish to Ursuline, with an online Maths tutor. From £37 an hour."
 layout: "level-subject"

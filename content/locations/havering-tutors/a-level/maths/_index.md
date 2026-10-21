@@ -1,7 +1,5 @@
 ---
 title: "A-Level Maths Tutors for Havering Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-31
 nav_title: "Maths"
 description: "Are Mechanics and Statistics dragging your child's A-Level Maths down? We match Havering sixth formers with an online tutor on Edexcel, AQA or OCR. From £37."
 layout: "level-subject"

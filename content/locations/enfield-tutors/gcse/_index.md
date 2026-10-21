@@ -1,7 +1,5 @@
 ---
 title: "Online GCSE Tutors for Your Child in Enfield | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-24
 description: "Is Year 11 piling up on your child in Enfield? We'll match them with an online GCSE tutor who knows the exam board their school uses. Free call first, from £37."
 layout: "subject"
 location: "Enfield"

@@ -1,7 +1,5 @@
 ---
 title: "A-Level Physics Tutors for Wallington Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-11-04
 nav_title: "Physics"
 description: "Are fields and orbits losing your child A-Level Physics marks? We match Wallington sixth formers with an online Physics tutor on AQA, OCR or Edexcel. From £37."
 layout: "level-subject"

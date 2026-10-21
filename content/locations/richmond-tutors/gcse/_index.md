@@ -1,7 +1,5 @@
 ---
 title: "GCSE Tutors for Richmond Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-27
 description: "Worried your child's GCSEs won't reach the grades their Richmond sixth form asks for? We'll match them with an online GCSE tutor. Free call first, from £37."
 layout: "subject"
 location: "Richmond"

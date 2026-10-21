@@ -1,7 +1,5 @@
 ---
 title: "A-Level Chemistry Tutors for Darlington Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-21
 nav_title: "Chemistry"
 description: "Are organic mechanisms costing your child marks in A-Level Chemistry? We match Darlington students with an online tutor who knows OCR's course at QE. From £37."
 layout: "level-subject"

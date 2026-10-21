@@ -1,7 +1,5 @@
 ---
 title: "Online A-Level Tutors for Your Child in Wallington | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-11-04
 description: "Starting A-Levels at a new sixth form and finding it hard? We'll match your Wallington teenager with an online A-Level tutor on their board. From £37 an hour."
 layout: "subject"
 location: "Wallington"

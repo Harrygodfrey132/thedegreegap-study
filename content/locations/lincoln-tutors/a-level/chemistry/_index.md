@@ -1,7 +1,5 @@
 ---
 title: "A-Level Chemistry Tutors for Lincoln Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-11-03
 nav_title: "Chemistry"
 description: "Are mechanisms and mole calculations costing your child marks? We match Lincoln sixth formers with an online A-Level Chemistry tutor for AQA or OCR. From £37."
 layout: "level-subject"

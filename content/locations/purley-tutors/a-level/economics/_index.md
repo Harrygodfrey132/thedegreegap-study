@@ -1,7 +1,5 @@
 ---
 title: "A-Level Economics Tutors for Purley Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-29
 nav_title: "Economics"
 description: "Is your child's Economics essay losing marks on evaluation? We match Purley sixth formers, at Woodcote, Riddlesdown and beyond, with an online tutor. From £37."
 layout: "level-subject"

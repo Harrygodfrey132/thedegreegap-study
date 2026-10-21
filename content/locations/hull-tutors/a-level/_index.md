@@ -1,7 +1,5 @@
 ---
 title: "Online A-Level Tutoring for Your Child in Hull | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-11-02
 description: "Is your child's A-Level work at Wyke or a Hull sixth form coming back marked 'more depth'? We'll match them with an online A-Level tutor. From £37 an hour."
 layout: "subject"
 location: "Hull"

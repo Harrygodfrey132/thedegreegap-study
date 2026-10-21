@@ -1,7 +1,5 @@
 ---
 title: "GCSE English Tutors for Beckenham Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-25
 nav_title: "English"
 description: "Does your child freeze at the GCSE English writing questions? We match Beckenham students at Langley Park, Harris and beyond with an online tutor. From £37."
 layout: "level-subject"

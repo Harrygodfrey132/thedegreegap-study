@@ -1,7 +1,5 @@
 ---
 title: "Online A-Level Tutors for Lincoln Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-11-03
 description: "Has your child left A-Level revision later than they meant to? We'll match Lincoln sixth formers with an online A-Level tutor. From £37 an hour, no contract."
 layout: "subject"
 location: "Lincoln"

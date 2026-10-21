@@ -1,7 +1,5 @@
 ---
 title: "Online A-Level Tutors for Your Child in Darlington | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-21
 description: "Did your child's first A-Level mock at QE or Carmel come back lower than hoped? We'll match them with an online A-Level tutor on their board. From £37 an hour."
 layout: "subject"
 location: "Darlington"

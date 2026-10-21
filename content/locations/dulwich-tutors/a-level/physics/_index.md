@@ -1,7 +1,5 @@
 ---
 title: "A-Level Physics Tutors for Dulwich Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-11-01
 nav_title: "Physics"
 description: "Is the maths in A-Level Physics tripping your child up in Dulwich? We'll match them with an online tutor on OCR, AQA or Edexcel. Free call first, from £37."
 layout: "level-subject"

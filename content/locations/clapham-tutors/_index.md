@@ -1,7 +1,5 @@
 ---
 title: "GCSE & A-Level Tutors for Clapham Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-28
 description: "Has school got harder for your child in Clapham? We'll match them with an online tutor who suits them, whichever school they're at. Free call first, from £37."
 layout: "single"
 location: "Clapham"

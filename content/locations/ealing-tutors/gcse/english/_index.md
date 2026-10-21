@@ -1,7 +1,5 @@
 ---
 title: "GCSE English Tutors for Ealing Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-23
 nav_title: "English"
 description: "Worried your child's writing is costing GCSE English marks? We match Ealing students with an online English tutor, Twyford to Villiers. From £37, no contract."
 layout: "level-subject"

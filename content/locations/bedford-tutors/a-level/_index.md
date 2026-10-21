@@ -1,7 +1,5 @@
 ---
 title: "A-Level Tutors for Your Child in Bedford | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-22
 description: "Is Year 13 piling up, applications and exams at once? We'll match your Bedford sixth former with an online A-Level tutor on their board. From £37, no contract."
 layout: "subject"
 location: "Bedford"

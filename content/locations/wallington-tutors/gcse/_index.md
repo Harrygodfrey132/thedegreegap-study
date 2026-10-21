@@ -1,7 +1,5 @@
 ---
 title: "GCSE Tutors for Wallington Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-11-04
 description: "Was your child's first full GCSE mock a shock? We'll match Wallington students with an online GCSE tutor on their exam board. Free call first, from £37 an hour."
 layout: "subject"
 location: "Wallington"

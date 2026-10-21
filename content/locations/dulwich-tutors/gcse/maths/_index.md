@@ -1,7 +1,5 @@
 ---
 title: "GCSE Maths Tutors for Dulwich Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-11-01
 nav_title: "Maths"
 description: "Is GCSE Maths the grade worrying you in Dulwich? We'll match your child with an online Maths tutor for their board, from Kingsdale to JAGS. From £37 an hour."
 layout: "level-subject"

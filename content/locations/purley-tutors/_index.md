@@ -1,7 +1,5 @@
 ---
 title: "Online Tutoring for Purley Families | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-29
 description: "Has the homework got past what you can help with? We'll match your child in Purley with an online tutor who knows their course. From £37 an hour, no contract."
 layout: "single"
 location: "Purley"

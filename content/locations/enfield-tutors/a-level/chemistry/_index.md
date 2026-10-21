@@ -1,7 +1,5 @@
 ---
 title: "A-Level Chemistry Tutors for Enfield Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-24
 nav_title: "Chemistry"
 description: "Are organic mechanisms losing your child A-Level Chemistry marks? An online tutor for Enfield sixth formers, on AQA, OCR or Edexcel. From £37, no contract."
 layout: "level-subject"

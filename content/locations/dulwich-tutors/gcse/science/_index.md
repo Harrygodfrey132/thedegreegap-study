@@ -1,7 +1,5 @@
 ---
 title: "GCSE Science Tutors for Dulwich Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-11-01
 nav_title: "Science"
 description: "Are six-mark answers costing your child GCSE Science marks in Dulwich? We'll match them with an online tutor for Combined or Triple, on their board. From £37."
 layout: "level-subject"

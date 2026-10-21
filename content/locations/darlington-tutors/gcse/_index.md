@@ -1,7 +1,5 @@
 ---
 title: "Online GCSE Tutoring for Darlington Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-21
 description: "Worried your child's GCSEs won't match the course they've applied for? We match Darlington students with an online GCSE tutor. From £37 an hour, no contract."
 layout: "subject"
 location: "Darlington"

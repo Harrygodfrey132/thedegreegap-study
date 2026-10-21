@@ -1,7 +1,5 @@
 ---
 title: "Find the Right Tutor for Your Child in Darlington | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-21
 description: "Worried your child won't get the GCSEs their next course needs in Darlington? We'll find them an online tutor who suits them. From £37 an hour, no contract."
 layout: "single"
 location: "Darlington"

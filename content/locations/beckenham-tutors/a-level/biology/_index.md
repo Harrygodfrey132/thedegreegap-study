@@ -1,7 +1,5 @@
 ---
 title: "A-Level Biology Tutors for Beckenham Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-25
 nav_title: "Biology"
 description: "Is A-Level Biology burying your child in content? We match Beckenham sixth formers with an online Biology tutor on AQA, OCR or Edexcel. Free call, from £37."
 layout: "level-subject"

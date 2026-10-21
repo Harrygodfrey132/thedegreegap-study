@@ -1,7 +1,5 @@
 ---
 title: "A-Level Chemistry Tutors for Purley Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-29
 nav_title: "Chemistry"
 description: "Are organic mechanisms costing your child marks? We'll match your Purley sixth former with an online tutor on their board, like AQA at Riddlesdown. From £37."
 layout: "level-subject"

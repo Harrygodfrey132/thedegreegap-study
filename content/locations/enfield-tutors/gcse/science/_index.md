@@ -1,7 +1,5 @@
 ---
 title: "GCSE Science Tutors for Enfield Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-24
 nav_title: "Science"
 description: "Is GCSE Science pulling your child's grades down in Enfield? An online tutor for Combined or Triple, on the board their school uses, from AQA to OCR. From £37."
 layout: "level-subject"

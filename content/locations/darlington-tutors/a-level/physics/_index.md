@@ -1,7 +1,5 @@
 ---
 title: "A-Level Physics Tutors for Darlington Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-21
 nav_title: "Physics"
 description: "Are multi-step Physics problems costing your child marks? We match Darlington sixth formers with an online A-Level Physics tutor on OCR or AQA. From £37."
 layout: "level-subject"

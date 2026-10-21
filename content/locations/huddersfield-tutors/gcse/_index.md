@@ -1,7 +1,5 @@
 ---
 title: "Online GCSE Tutors for Your Child in Huddersfield | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-30
 description: "Heading into Year 11 with a college application to make? We'll match your child with an online GCSE tutor for Huddersfield students. From £37, no contract."
 layout: "subject"
 location: "Huddersfield"

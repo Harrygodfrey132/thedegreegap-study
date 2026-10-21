@@ -1,7 +1,5 @@
 ---
 title: "GCSE English Tutors for Dulwich Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-11-01
 nav_title: "English"
 description: "Is the writing task where your child's GCSE English marks vanish in Dulwich? We'll match them with an online English tutor on AQA, Edexcel or OCR. From £37."
 layout: "level-subject"

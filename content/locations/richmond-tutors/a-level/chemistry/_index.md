@@ -1,7 +1,5 @@
 ---
 title: "A-Level Chemistry Tutors for Richmond Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-27
 nav_title: "Chemistry"
 description: "Are organic mechanisms costing your child marks in A-Level Chemistry? We match Richmond sixth formers at Orleans Park and beyond with an online tutor. From £37."
 layout: "level-subject"

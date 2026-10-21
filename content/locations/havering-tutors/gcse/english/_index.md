@@ -1,7 +1,5 @@
 ---
 title: "GCSE English Tutors for Havering Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-31
 nav_title: "English"
 description: "Does your child freeze at the GCSE English writing task? We match Havering students with an online English tutor, from Campion to Frances Bardsley. From £37."
 layout: "level-subject"

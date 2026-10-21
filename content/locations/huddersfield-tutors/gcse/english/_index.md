@@ -1,7 +1,5 @@
 ---
 title: "GCSE English Tutors for Huddersfield Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-30
 nav_title: "English"
 description: "Is English Language the GCSE worrying you? We'll match your child with an online tutor for the grade Greenhead and Huddersfield New College ask for. From £37."
 layout: "level-subject"

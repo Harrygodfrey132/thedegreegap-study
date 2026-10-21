@@ -1,7 +1,5 @@
 ---
 title: "GCSE Tutors for Wimbledon Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-26
 description: "Does your child go blank in GCSE mocks despite all the revision? We'll match Wimbledon students with an online GCSE tutor on their board. From £37, no contract."
 layout: "subject"
 location: "Wimbledon"

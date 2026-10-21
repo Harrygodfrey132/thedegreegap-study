@@ -1,7 +1,5 @@
 ---
 title: "GCSE Maths Tutors for Ealing Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-23
 nav_title: "Maths"
 description: "Is your child losing Maths marks late in the paper? We'll match Ealing students with an online GCSE Maths tutor, at Twyford, Villiers or elsewhere. From £37."
 layout: "level-subject"

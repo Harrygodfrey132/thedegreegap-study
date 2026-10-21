@@ -1,7 +1,5 @@
 ---
 title: "Online A-Level Tutors for Ealing Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-23
 description: "Has Year 12 hit your child harder than expected, maybe at a new sixth form in Ealing? We'll match them with an online A-Level tutor. From £37, no contract."
 layout: "subject"
 location: "Ealing"

@@ -1,7 +1,5 @@
 ---
 title: "A-Level Economics Tutors for Richmond Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-27
 nav_title: "Economics"
 description: "Is A-Level Economics new and confusing for your child? We match Richmond sixth formers at Christ's, Orleans Park or the college with an online tutor. From £37."
 layout: "level-subject"

@@ -1,7 +1,5 @@
 ---
 title: "A-Level Biology Tutors for Wimbledon Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-26
 nav_title: "Biology"
 description: "Is A-Level Biology piling up faster than your child can learn? We match Wimbledon sixth formers, from Ursuline to KCS, with an online Biology tutor. From £37."
 layout: "level-subject"

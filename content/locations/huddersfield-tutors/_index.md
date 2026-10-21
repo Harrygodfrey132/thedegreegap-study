@@ -1,7 +1,5 @@
 ---
 title: "Online Tutors for Your Child in Huddersfield | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-30
 description: "Worried your child's Year 11 mocks will shape their college offer in Huddersfield? We'll match them with an online tutor who suits them. From £37, no contract."
 layout: "single"
 location: "Huddersfield"

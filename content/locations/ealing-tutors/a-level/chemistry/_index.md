@@ -1,7 +1,5 @@
 ---
 title: "A-Level Chemistry Tutors for Ealing Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-23
 nav_title: "Chemistry"
 description: "Are organic mechanisms where A-Level Chemistry falls apart for your child? We'll match Ealing students with an online tutor on AQA, OCR or Edexcel. From £37."
 layout: "level-subject"

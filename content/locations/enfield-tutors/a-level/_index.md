@@ -1,7 +1,5 @@
 ---
 title: "A-Level Tutors for Enfield Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-24
 description: "Worried your child's predicted grades won't reach the course they want? We'll match Enfield sixth formers with an online A-Level tutor. From £37, no contract."
 layout: "subject"
 location: "Enfield"

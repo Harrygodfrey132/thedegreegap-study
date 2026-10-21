@@ -1,7 +1,5 @@
 ---
 title: "A-Level Economics Tutors for Clapham Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-28
 nav_title: "Economics"
 description: "Are long Economics essays costing your child marks? We'll match Clapham students with an online tutor from a team co-founded by an LSE graduate. From £37."
 layout: "level-subject"

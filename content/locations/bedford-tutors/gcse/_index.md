@@ -1,7 +1,5 @@
 ---
 title: "Online GCSE Tutors for Bedford Students | The Degree Gap"
-# Released one town a day; the daily deploy publishes it on this date.
-publishDate: 2026-10-22
 description: "Has your child gone quiet about school since GCSEs began? We'll match Bedford students with an online GCSE tutor on their board. From £37 an hour, no contract."
 layout: "subject"
 location: "Bedford"
