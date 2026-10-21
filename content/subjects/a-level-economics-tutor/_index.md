@@ -2,8 +2,8 @@
 # A-Level Economics subject page, on the location page design (design: "location",
 # rendered by layouts/partials/ads-subject-body.html). Structure and voice follow
 # the GCSE Maths reference page (content/subjects/gcse-maths-tutor/_index.md).
-title: "Online A-Level Economics Tutors, One-to-One | The Degree Gap"
-description: "One-to-one online A-Level Economics tutors, picked by our team. Free consultation call, tutor profiles within 24 hours, lessons from £37, no contract."
+title: "Private A-Level Economics Tutors, Online | The Degree Gap"
+description: "Private A-Level Economics tuition, one-to-one and online, with tutors who know your child's exam board. Free consultation call, lessons from £37, no contract."
 layout: "single"
 design: "location"
 robots: "index, follow"
@@ -13,9 +13,9 @@ subject: "A-Level Economics"
 subject_short: "Economics"
 
 # ───────────── HERO ─────────────
-hero_eyebrow: "A-LEVEL ECONOMICS TUTORING · ONLINE, ACROSS THE UK"
-hero_h1: "Online A-Level Economics Tutors, Matched to Your Child"
-hero_lead: "If your child knows the Economics but the essays keep coming back a grade lower than expected, you're not alone. It's usually the evaluation and the diagrams, not the content, and that can be taught. Book a free consultation call with our team so we can get to know your child, and within 24 hours of it you'll get profiles of two or three tutors we think would suit them. Pick the one that feels right, and lessons start from there."
+hero_eyebrow: "PRIVATE A-LEVEL ECONOMICS TUITION · ONLINE, ACROSS THE UK"
+hero_h1: "Private A-Level Economics Tutors, Matched to Your Child"
+hero_lead: "If your child knows the Economics but the essays keep coming back a grade lower than expected, you're not alone. It's usually the evaluation and the diagrams, not the content. And that can be taught, one-to-one, by a private tutor who knows their exam board."
 meta_2: "Online using the platform Lessonspace, plus replay available"
 meta_3: "Best British Curriculum Tutoring Service Provider 2026"
 
@@ -27,7 +27,7 @@ card_points:
 
 # ───────────── TUTORS ─────────────
 tutors_eyebrow: "MEET SOME OF THE TUTORS"
-tutors_heading: "Some of the A-Level Economics tutors you could be matched with"
+tutors_heading: "Some of the private A-Level Economics tutors you could be matched with"
 tutors_intro: "You won't be left scrolling through hundreds of profiles on your own. We've met every tutor on our platform, and after your call we pick the two or three we think will get on best with your child and know their exam board. Economics is close to home for us, as Harry read it at the LSE. Here are a few of the tutors."
 tutor_names:
   - "Dianne Shannon"
