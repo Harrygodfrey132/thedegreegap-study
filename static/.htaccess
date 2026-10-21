@@ -32,7 +32,7 @@ RewriteRule ^personal-statement-tutor/(chemistry|physics)/?$  /study/personal-st
 # Only list a town here while it has no page set. Croydon, Sutton, Bromley and
 # Reigate were rebuilt in September and sat behind this rule, unreachable, so a
 # town that comes back must come off this list in the same commit.
-RewriteRule ^locations/(wimbledon|richmond|beckenham|purley|dulwich|clapham|kingston|wallington)-tutors(/.*)?$  /study/locations/  [L,R=301]
+RewriteRule ^locations/(kingston)-tutors(/.*)?$  /study/locations/  [L,R=301]
 
 # Rebuilt towns keep old backlinks to sub-pages the new set does not have (the
 # pre-May URLs) landing on that town's hub. The conditions leave every page
@@ -40,7 +40,7 @@ RewriteRule ^locations/(wimbledon|richmond|beckenham|purley|dulwich|clapham|king
 # to mod_dir as normal.
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^locations/(croydon|sutton|bromley|reigate)-tutors/.+$  /study/locations/$1-tutors/  [L,R=301]
+RewriteRule ^locations/(croydon|sutton|bromley|reigate|wimbledon|richmond|beckenham|purley|dulwich|clapham|wallington)-tutors/.+$  /study/locations/$1-tutors/  [L,R=301]
 
 # Derby GCSE Physics page removed — send to the Derby GCSE hub.
 RewriteRule ^locations/derby-tutors/gcse/physics-tutoring/?$  /study/locations/derby-tutors/gcse/  [L,R=301]
