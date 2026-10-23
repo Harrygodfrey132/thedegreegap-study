@@ -37,7 +37,7 @@ tutor_names:
   - "Sara Dellapiana"
 
 review_names:
-  - "Keira Lei"
+  - "Dawn Lattimer"
   - "Philippa Langton"
   - "Augusta Oloke"
   - "Nazrul Islam"

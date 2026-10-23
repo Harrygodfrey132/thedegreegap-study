@@ -38,7 +38,7 @@ tutor_names:
 
 review_names:
   - "Augusta Oloke"
-  - "Keira Lei"
+  - "Chris Smith"
   - "Philippa Langton"
   - "Dawn Lattimer"
   - "Nazrul Islam"

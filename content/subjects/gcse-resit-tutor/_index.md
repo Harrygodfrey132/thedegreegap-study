@@ -60,7 +60,7 @@ tutor_names:
 
 review_names:
   - "Ellen Logan"
-  - "Keira Lei"
+  - "Jessica Wagstaff"
   - "Chris Smith"
   - "Marfa Boyarinova"
   - "Isabel Heggie"

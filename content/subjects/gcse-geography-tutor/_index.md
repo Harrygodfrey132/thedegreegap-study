@@ -37,7 +37,7 @@ tutor_names:
 
 review_names:
   - "Annette Catling"
-  - "Keira Lei"
+  - "Chris Smith"
   - "Philippa Langton"
   - "Augusta Oloke"
   - "Nazrul Islam"

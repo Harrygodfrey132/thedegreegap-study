@@ -37,10 +37,10 @@ tutor_names:
   - "Frances Averre"
 
 review_names:
-  - "Sureet Mehra"
+  - "Bryan Akala"
   - "Augusta Oloke"
   - "Philippa Langton"
-  - "Keira Lei"
+  - "Jessica Wagstaff"
   - "Nazrul Islam"
   - "Dawn Lattimer"
 

@@ -40,7 +40,7 @@ review_names:
   - "Philippa Langton"
   - "Augusta Oloke"
   - "Heidi Milburn"
-  - "Keira Lei"
+  - "Jessica Wagstaff"
   - "Nazrul Islam"
   - "Dawn Lattimer"
 

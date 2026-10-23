@@ -2,10 +2,14 @@
 # OCR GCSE Chemistry specification page, on the location page design (design:
 # "location", rendered by layouts/partials/ads-subject-body.html). Same
 # structure and parent-chat voice as the GCSE Chemistry page above it, plus the
-# paper-by-paper breakdown of OCR Gateway Chemistry A (J248).
-title: "Online OCR Gateway GCSE Chemistry Tutors (J248) | The Degree Gap"
-description: "One-to-one online OCR Gateway GCSE Chemistry tutors who know J248 and the PAGs. Free consultation call, profiles within 24 hours, lessons from £37, no contract."
-card_summary: "Gateway spec J248. Two papers of 1 hour 45 minutes, 90 marks each, with the PAG practicals examined."
+# paper-by-paper breakdown of OCR Gateway Chemistry A (J248). Facts checked on
+# 23 Oct 2026 against the J248 specification (version 4.0, August 2026), the
+# June 2027 J248 Data Sheet, the May 2025 Paper 3 question paper, OCR's June
+# 2026 grade boundaries and Ofqual's 2025 to 2027 decision on formulae and
+# equation sheets.
+title: "Private OCR Gateway GCSE Chemistry Tutors (J248), Online | The Degree Gap"
+description: "Private online OCR Gateway GCSE Chemistry tuition for J248: the 90-mark papers, Section A multiple choice, the data sheet and the PAGs. From £37, no contract."
+card_summary: "Gateway spec J248. Two 90-mark papers per tier, 1 hour 45 minutes each, opening with 15 marks of multiple choice, with a data sheet inside."
 robots: "index, follow"
 layout: "board"
 design: "location"
@@ -16,9 +20,9 @@ subject: "GCSE Chemistry"
 subject_short: "Chemistry"
 
 # ───────────── HERO ─────────────
-hero_eyebrow: "OCR GATEWAY GCSE CHEMISTRY · SPEC J248 · ONLINE, ACROSS THE UK"
-hero_h1: "Online OCR Gateway GCSE Chemistry Tutors Who Know J248 and the PAGs"
-hero_lead: "If your child understands the idea, then Gateway hands them an unfamiliar reaction or a practical question and the marks slip away, you're not alone. Book a free consultation call so we can get to know your child, and within 24 hours of it you'll get profiles of two or three tutors who know how OCR frames its questions."
+hero_eyebrow: "PRIVATE OCR GATEWAY GCSE CHEMISTRY TUITION · SPEC J248"
+hero_h1: "Private OCR GCSE Chemistry Tutors, Matched to Your Child"
+hero_lead: "OCR Gateway papers are 90 marks, open with a block of multiple choice and then move into calculations and longer answers, so pacing matters as much as knowing the Chemistry. A private tutor who knows the OCR papers works on both with your child: the topics that are slipping and the timing of each section."
 meta_2: "Online using the platform Lessonspace, plus replay available"
 meta_3: "GCSE Tutoring Specialists of the Year 2025 & 2026"
 
@@ -30,8 +34,8 @@ card_points:
 
 # ───────────── TUTORS ─────────────
 tutors_eyebrow: "MEET SOME OF THE TUTORS"
-tutors_heading: "Some of the OCR GCSE Chemistry tutors you could be matched with"
-tutors_intro: "We've met every tutor on our platform, and after your call we pick the two or three who know the OCR papers and who we think will get on best with your child. Here are a few of them."
+tutors_heading: "Some of the private OCR GCSE Chemistry tutors you could be matched with"
+tutors_intro: "We've interviewed every tutor on our platform ourselves. After the call, we pick two or three who know OCR's Gateway papers (or Twenty First Century, if that's your child's route) and who we think will suit your child. Here are some of them."
 tutor_names:
   - "Laura Bould"
   - "Safiyyah Ahmed"
@@ -41,65 +45,83 @@ tutor_names:
 review_names:
   - "Philippa Langton"
   - "Sorland Pinnacle"
-  - "Keira Lei"
+  - "Nazrul Islam"
   - "Lisa James"
   - "Heidi Milburn"
 
 # ───────────── THE SPECIFICATION ─────────────
-assess_heading: "How OCR Gateway GCSE Chemistry is examined, paper by paper"
-assess_intro: "Gateway Chemistry A (spec J248) is two concept-led papers of 90 marks each, with the Practical Activity Groups and practical skills running through both. Here's what each paper covers, and where the marks are really decided."
+assess_heading: "OCR Gateway Chemistry A (J248), paper by paper"
+assess_intro: "Your child sits either Papers 1 and 2 (Foundation) or Papers 3 and 4 (Higher), never a mix, and each paper is half the GCSE. This is the current specification, version 4.0 from August 2026."
 papers:
-  - name: "First paper: C1 to C3, plus C7"
-    detail: "1 hour 45 minutes, 90 marks, half the GCSE. Particles, elements, compounds and mixtures, and chemical reactions, with the C7 practical skills assessed alongside. The 90-mark total is just how OCR marks its Gateway papers. It isn't easier than AQA or Edexcel."
-  - name: "Second paper: C4 to C6, plus C7"
-    detail: "1 hour 45 minutes, 90 marks, the other half. Predicting and identifying reactions and products, monitoring and controlling chemical reactions, and global challenges, with the C7 practical skills running through again."
-  - name: "The Practical Activity Groups (PAGs)"
-    detail: "OCR groups its required practicals into PAGs, from making a soluble salt and electrolysis to rates, titration, chromatography and testing for ions. Exam questions pull straight from them, so your child needs to explain the method and read the results, not just recall the theory."
-  - name: "Concept-led questions"
-    detail: "Gateway is built around chemical ideas and how scientists reach them, so questions often ask your child to apply an idea to a reaction or a set of data they've never seen before."
-board_points_heading: "What an OCR Chemistry tutor works on that a busy class can't"
+  - name: "Paper 1 or Paper 3: topics C1 to C3"
+    detail: "1 hour 45 minutes, 90 marks, 50% of the GCSE. Particles; elements, compounds and mixtures; chemical reactions. That means atomic structure, bonding, separating and purifying, formulae and balanced equations, the mole, energy changes, acids and redox, and electrolysis, with practical skills (C7) tested as well."
+  - name: "Paper 2 or Paper 4: topics C4 to C6"
+    detail: "1 hour 45 minutes, 90 marks, the other 50%. Predicting and identifying reactions (group trends, reactivity, tests for ions), monitoring and controlling reactions (concentration, titration, gas volumes, yield, atom economy, rates, equilibrium) and global challenges (Haber process, organic chemistry, the atmosphere). It assumes C1 to C3 too."
+  - name: "Section A and Section B"
+    detail: "Every paper opens with Section A, 15 marks of multiple choice, and the paper itself says to spend no more than 30 minutes on it. Section B is worth 75 marks: short answers, maths, practical questions and a six-mark extended answer marked by level and flagged with an asterisk."
+  - name: "The OCR Chemistry data sheet"
+    detail: "A two-page Data Sheet comes inside each paper. It's the periodic table only: atomic number, symbol, name and relative atomic mass to one decimal place (magnesium 24.3, chlorine 35.5). Your child can write on it, but it isn't marked. OCR has already published the version for June 2027."
+  - name: "PAGs, tiers and calculator"
+    detail: "Eight Practical Activity Groups, from reactivity trends and electrolysis to distillation, titration, making salts and measuring rates. Practical skills make up 15% of the exam questions. Foundation covers grades 5 to 1 and Higher 9 to 4, and a scientific or graphical calculator is allowed."
+board_points_heading: "What a private OCR Chemistry tutor works on with your child"
 board_points:
-  - title: "The PAG practicals, ready for the exam"
-    body: "Because OCR pulls questions straight from the Practical Activity Groups, knowing the method matters as much as knowing the theory. A tutor goes through each PAG with your child, so the practical questions feel familiar."
-  - title: "Reactions your child hasn't seen before"
-    body: "Gateway often hands your child a reaction or a dataset they've never met and asks them to apply an idea to it. That's where capable students freeze. A tutor practises the reasoning that turns \"I've never seen this\" into the right method on the page."
-  - title: "The maths inside the 90-mark papers"
-    body: "Moles, concentration, electrolysis and rates calculations all appear, and Higher tier carries the heavier maths. A tutor works through the numbers with your child and shows the working OCR wants to see."
+  - title: "Section A, without losing time"
+    body: "Fifteen multiple-choice marks open every paper, with 30 minutes as the most OCR suggests spending. Linger there and the 75 marks that follow get squeezed. A tutor practises quick, careful elimination with your child, so Section A is banked and the longer questions get the time they need."
+  - title: "The calculations, split across both papers"
+    body: "The mole and balanced equations sit in C3, on the first paper, while concentration, gas volumes, yield and atom economy are in C5, on the second. A tutor builds the maths in that order and gets your child writing down every step, because OCR's papers say marks might be given for a correct method even if the answer is wrong."
+  - title: "The synoptic second paper"
+    body: "Paper 2, or Paper 4 at Higher, assumes everything from C1 to C3, and some of its marks are synoptic, pulling ideas from different topics together. So bonding or the mole might turn up inside a question about organic chemistry. A tutor practises those joined-up questions until they stop feeling like a surprise."
 
 # ───────────── 3 STEPS ─────────────
 steps_heading: "Start OCR GCSE Chemistry tutoring in 3 steps"
 steps_lead: "Most families have their first lesson booked within a week. And you don't pay anything until your child has found a tutor they like."
 steps:
   - title: "A free consultation call"
-    body: "A relaxed chat with a member of the team, usually around 30 minutes. We'll check whether your child sits Gateway or Twenty First Century, then get to know you both: the tier, which topics are slipping, what you've tried so far and how your child likes to learn. No pressure and no sales pitch."
+    body: "A chat of about 30 minutes with one of the team, free and with no sales pitch. Together we'll work out whether your child sits OCR Gateway or Twenty First Century, at which tier, and where the marks are going, then talk about how your child likes to learn."
   - title: "Meet 2 or 3 tutors"
-    body: "Within 24 hours of the call you'll get profiles of two or three tutors who know the OCR Chemistry papers, so you can see who they are before choosing. Your child can then meet your favourite on a free video call."
+    body: "Two or three tutor profiles arrive within 24 hours of that call, each from a tutor who knows the OCR Chemistry papers. Choose the one you'd like, and your child can meet them on a free video call before you commit to anything."
   - title: "Start weekly lessons"
-    body: "Lessons are one-to-one and online, using the platform Lessonspace, with a replay of every lesson to look back on. From £37 an hour, no contract, and you can stop whenever you like."
+    body: "Lessons run one-to-one and online, using the platform Lessonspace, and a replay of each one is saved for revision. From £37 an hour, with no contract to sign and nothing stopping you ending them whenever you want."
 
 # ───────────── FAQ ─────────────
 faq_items:
-  - q: "How do I know if my child sits OCR for GCSE Chemistry?"
-    a: "It's on the exam timetable and on any past paper the school sends home. OCR runs two routes: Gateway Science A (J248), which this page is about, and Twenty First Century Science B (J258), which is more context-led. They're quite different, so if you're not sure which one your child is on, we'll pin it down with you on the call before matching anyone."
-  - q: "What are the PAGs, and are they examined?"
-    a: "PAGs are OCR's Practical Activity Groups, the way it organises the required practicals, from making a soluble salt and electrolysis to rates, titration, chromatography and testing for ions. And yes, exam questions pull straight from them, so a tutor goes through each one with your child."
-  - q: "Why is each paper only 90 marks, not 100?"
-    a: "That's just how OCR marks its Gateway science papers. Each of the two Chemistry papers is 1 hour 45 minutes and 90 marks, and together they make up the whole GCSE. It doesn't make the paper easier, but it does mean your child should practise with real OCR papers and mark schemes."
-  - q: "What does \"concept-led\" mean for the exam?"
-    a: "It means questions often give your child a reaction or some data they haven't seen before and ask them to apply an idea to it. That's where a lot of capable students freeze. A tutor practises exactly that kind of question until it stops feeling like a trick."
-  - q: "How much of OCR Gateway Chemistry is maths?"
-    a: "More than families expect. Moles, concentration, electrolysis and rates calculations all appear, and Higher tier carries the heavier maths. If rearranging a formula or converting units never quite clicked, it shows up here, and a tutor works on it directly."
-  - q: "How much does it cost?"
-    a: "Lessons start from £37 an hour. The exact price depends on the tutor, and we'll always agree it with you before anything is booked. There's no contract and nothing to pay upfront, and the consultation call and the video meeting with your tutor are free."
-  - q: "What if we don't click with the tutor?"
-    a: "Just let us know and we'll find someone else, with no charge and no awkward conversation. It happens, and we'd much rather sort it than have your child sit through lessons that aren't working."
-  - q: "Does online tutoring actually work for Chemistry?"
-    a: "It does, and lots of children find it easier. Your child and the tutor share a whiteboard in Lessonspace, so the tutor can talk through a PAG method, balance an equation and work a calculation line by line while your child watches. Every lesson has a replay too, which is handy the night before a test."
+  - q: "How do I know which OCR GCSE Chemistry my child is doing?"
+    a: "Check the code on a mock paper or the exam timetable. J248 is OCR Gateway Chemistry A, the course on this page, with Papers 1 and 2 at Foundation or 3 and 4 at Higher. J258 is OCR Twenty First Century Chemistry B, with papers called Breadth in Chemistry and Depth in Chemistry. Newer documents say Cambridge OCR, which is the same board. We can match a tutor for either course."
+  - q: "What topics are on OCR Gateway Chemistry Paper 1?"
+    a: "Paper 1 (Foundation) and Paper 3 (Higher) cover topics C1 to C3: particles, elements, compounds and mixtures, and chemical reactions. Expect atomic structure, bonding, separation techniques, formulae and equations, moles, energy changes, acids, redox and electrolysis, plus practical skills from C7. Each is 1 hour 45 minutes and 90 marks, starting with 15 marks of multiple choice."
+  - q: "What's on OCR Chemistry Paper 2?"
+    a: "Paper 2 (Foundation) and Paper 4 (Higher) cover C4 to C6: predicting and identifying reactions and products, monitoring and controlling chemical reactions, and global challenges. That's tests for ions, titration and gas volume calculations, rates, equilibrium, the Haber process, organic chemistry and the atmosphere. They also assume C1 to C3, and some questions are synoptic, joining topics together."
+  - q: "What's on the OCR GCSE Chemistry data sheet?"
+    a: "Just the periodic table. OCR puts a two-page Data Sheet inside each J248 paper, showing each element's atomic number, symbol, name and relative atomic mass to one decimal place. There are no equations on it, and Ofqual's formula and equation sheets apply to Maths, Physics and Combined Science only. So your child needs to know how to do moles, concentration and yield calculations without a prompt."
+  - q: "Where can I find OCR Gateway Chemistry past papers and mark schemes?"
+    a: "On OCR's own website, on the Assessment tab of the J248 qualification page or through its past paper finder. You'll find question papers, mark schemes, examiners' reports and the data sheet for each series. Your child gets far more from them when someone marks the answers against OCR's mark scheme, which is a regular part of lessons with a tutor."
+  - q: "Where are the OCR GCSE Chemistry grade boundaries for 2026?"
+    a: "On OCR's grade boundaries page, in the June 2026 GCSE document. For J248 the grade comes from the total across both papers, out of 180, with separate boundaries for Foundation and Higher. Boundaries are set fresh each summer to reflect how demanding the papers were, so treat the 2026 figures as a guide for 2027 rather than a fixed target."
+  - q: "Is OCR Chemistry easier because the papers are only 90 marks?"
+    a: "No. The 90-mark total is simply how OCR builds its Gateway papers, and grade boundaries are set on OCR's own totals, so a grade 6 needs the same standard as on AQA or Edexcel. All three boards follow the same DfE content and Ofqual's assessment objectives. What does differ is the layout, with Section A multiple choice and a separate data sheet, which is why we match tutors who know OCR."
+  - q: "How much is OCR Chemistry tutoring?"
+    a: "It starts at £37 an hour. The exact figure depends on the tutor, and we confirm the price with you before any lesson is booked. Nothing is paid upfront and there's no contract. The consultation call costs nothing, and neither does the video meeting with your tutor."
+  - q: "What if we don't click with the OCR tutor?"
+    a: "Let us know and we'll match your child with someone new, without charge or fuss. Not every pairing works, and we'd rather change it quickly than let weeks of lessons go by that aren't helping. Choosing from two or three profiles at the start makes that less likely anyway."
 
 # ───────────── CLOSING CTA ─────────────
 final_heading: "Book your free<br>OCR GCSE Chemistry consultation"
-final_body: "A friendly consultation call, usually around 30 minutes, so we can get to know your child: which route and tier they're on, where the OCR papers are catching them out and what they're like as a learner. Within 24 hours you'll have profiles of two or three tutors to choose from."
+final_body: "A friendly call, usually around 30 minutes, to understand your child: Gateway or Twenty First Century, which tier, and where the OCR papers are costing marks. Within 24 hours you'll have profiles of two or three tutors to choose from."
 final_assurance: "Free call · Lessons from £37 · No contract"
+
+sources:
+  - title: "OCR GCSE Gateway Science Chemistry A (J248)"
+    url: "https://www.ocr.org.uk/qualifications/gcse/gateway-science-suite-chemistry-a-j248-from-2016/"
+    note: "specification version 4.0, August 2026: papers, topics, tiers and PAGs"
+  - title: "OCR J248 assessment materials"
+    url: "https://www.ocr.org.uk/qualifications/gcse/gateway-science-suite-chemistry-a-j248-from-2016/assessment/"
+    note: "past papers, mark schemes, examiners' reports and the June 2027 data sheet"
+  - title: "OCR grade boundaries"
+    url: "https://www.ocr.org.uk/administration/grade-boundaries/"
+    note: "includes the June 2026 GCSE boundaries"
+  - title: "Ofqual: formulae and equation sheets in 2025, 2026 and 2027"
+    url: "https://www.gov.uk/government/consultations/proposed-changes-to-the-assessment-of-mathematics-physics-and-combined-science-gcses-in-2025-2026-and-2027/outcome/decisions-on-changes-to-the-assessment-of-mathematics-physics-and-combined-science-gcses-in-2025-2026-and-2027"
+    note: "the sheets cover Maths, Physics and Combined Science, not separate Chemistry"
 
 sitemap:
   priority: 0.7

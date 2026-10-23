@@ -37,7 +37,7 @@ tutor_names:
 
 review_names:
   - "Alison shah"
-  - "Keira Lei"
+  - "Jessica Wagstaff"
   - "Philippa Langton"
   - "Augusta Oloke"
   - "Nazrul Islam"

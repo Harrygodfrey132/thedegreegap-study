@@ -40,7 +40,7 @@ review_names:
   - "Philippa Langton"
   - "Augusta Oloke"
   - "Dawn Lattimer"
-  - "Keira Lei"
+  - "Nazrul Islam"
   - "Lisa James"
   - "Sorland Pinnacle"
 

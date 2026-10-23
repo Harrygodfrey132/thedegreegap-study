@@ -1,11 +1,14 @@
 ---
-# AQA GCSE Physics specification page, on the location page design (design:
-# "location", rendered by layouts/partials/ads-subject-body.html). Same
-# structure and parent-chat voice as the GCSE Maths reference pages, plus the
-# paper-by-paper breakdown of the AQA 8463 specification.
-title: "Online AQA GCSE Physics Tutors (8463) | The Degree Gap"
-description: "One-to-one online AQA GCSE Physics tutors who know the 8463 papers. Free consultation call, tutor profiles within 24 hours, lessons from £37 with no contract."
-card_summary: "Spec 8463. Two papers of 1 hour 45 minutes, 100 marks each, counting equally."
+# AQA GCSE Physics (8463) board page, on the location page design (design:
+# "location", rendered by layouts/partials/ads-subject-body.html). Rewritten
+# 23 Oct 2026 around what parents search for this board: the 8463
+# specification, Paper 1 and Paper 2 topics, the 2027 equation sheet, past
+# papers and grade boundaries. Paper facts are from the AQA specification
+# (version 1.1) and the June 2027 Physics Equations Sheet; the sources are
+# listed at the foot of the page.
+title: "Private AQA GCSE Physics Tutors (8463), Online | The Degree Gap"
+description: "Private online tuition for AQA GCSE Physics (8463): Paper 1 and 2 topics, the ten required practicals and the 2027 equation sheet. Free call, from £37."
+card_summary: "Spec 8463. Two 100-mark papers of 1 hour 45 minutes: energy, electricity, particles and atoms, then forces, waves, magnetism and space."
 robots: "index, follow"
 layout: "board"
 design: "location"
@@ -16,9 +19,9 @@ subject: "GCSE Physics"
 subject_short: "Physics"
 
 # ───────────── HERO ─────────────
-hero_eyebrow: "AQA GCSE PHYSICS · SPEC 8463 · ONLINE, ACROSS THE UK"
-hero_h1: "Online AQA GCSE Physics Tutors Who Know the 8463 Papers"
-hero_lead: "If your child sits AQA and can explain the physics, but the marks slip away once a question asks them to rearrange an equation and show the working, you're not alone. Book a free consultation call so we can get to know your child, and within 24 hours of it you'll get profiles of two or three tutors who know the AQA papers well."
+hero_eyebrow: "PRIVATE AQA GCSE PHYSICS TUITION · SPEC 8463"
+hero_h1: "Private AQA GCSE Physics Tutors, Matched to Your Child"
+hero_lead: "AQA Physics marks the working, so a child who gets the ideas can still lose marks on a rearranged equation, a missing unit or a required practical question. A private tutor who knows the AQA papers can find where those marks go and win them back."
 meta_2: "Online using the platform Lessonspace, plus replay available"
 meta_3: "GCSE Tutoring Specialists of the Year 2025 & 2026"
 
@@ -30,77 +33,99 @@ card_points:
 
 # ───────────── TUTORS ─────────────
 tutors_eyebrow: "MEET SOME OF THE TUTORS"
-tutors_heading: "Some of the AQA GCSE Physics tutors you could be matched with"
-tutors_intro: "We've met every tutor on our platform, and after your call we pick the two or three who know the AQA papers and who we think will get on best with your child. Here are a few of them."
+tutors_heading: "Some of the private AQA GCSE Physics tutors you could be matched with"
+tutors_intro: "We've met every tutor on our platform. After your call we choose two or three who know the AQA papers well and who we think your child will get on with. Here are a few of them."
 tutor_names:
   - "Vipin Chaudhary"
   - "Harvey Murray"
   - "Shikhar Agarwal"
   - "Rebecca Hanna"
 
+# Keira Lei's and Sureet Mehra's reviews are A-Level ones, so they're swapped
+# for GCSE parents from data/reviews.yaml (23 Oct 2026).
 review_names:
   - "Augusta Oloke"
-  - "Sureet Mehra"
-  - "Keira Lei"
+  - "Nazrul Islam"
+  - "Dawn Lattimer"
   - "Ellen Logan"
   - "Philippa Langton"
   - "Lisa James"
 
 # ───────────── THE SPECIFICATION ─────────────
-assess_heading: "How AQA GCSE Physics is examined, paper by paper"
-assess_intro: "AQA GCSE Physics (spec 8463) is two papers, each 1 hour 45 minutes and worth 100 marks, so they count equally. Each paper covers a different half of the course, and the questions run from multiple choice up to six-mark extended answers. Most of the marks children leave behind are on the calculations, not the ideas."
+assess_heading: "AQA GCSE Physics 8463: Paper 1 and Paper 2, topic by topic"
+assess_intro: "AQA GCSE Physics (8463) is two written papers, sat at the end of the course, each 1 hour 45 minutes and 100 marks, so they count 50/50. Paper 1 is topics 1 to 4 and Paper 2 is topics 5 to 8. There's no coursework. The ten required practicals are tested inside those two papers."
 papers:
-  - name: "Paper 1"
-    detail: "1 hour 45 minutes, 100 marks. Energy, electricity, the particle model of matter and atomic structure. This is where specific heat capacity, the resistance of a wire and density calculations sit, so rearranging and units get tested hard."
-  - name: "Paper 2"
-    detail: "1 hour 45 minutes, 100 marks. Forces, waves, magnetism and electromagnetism, with space physics too for separate Physics. Vectors, resultant forces, wave speed and F = BIL, plus questions that describe a new situation and expect your child to pick the right equation."
-  - name: "The equation sheet"
-    detail: "There's an equation sheet in the exam, but it doesn't do the work for your child. They still have to spot which equation the question wants and rearrange it calmly under time."
-  - name: "The required practicals"
-    detail: "Examined in the written papers, not as coursework. Things like measuring the resistance of a wire, specific heat capacity, force and extension, and waves in a ripple tank. AQA asks about the method, the variables and the results, so remembering doing it once isn't enough."
-board_points_heading: "What an AQA tutor works on that a busy class can't"
+  - name: "Paper 1: energy, electricity, particles and atoms"
+    detail: "1 hour 45 minutes, 100 marks, 50% of the GCSE. Energy (stores, power, efficiency, energy resources), electricity (circuits, resistance, mains electricity, the National Grid, static), the particle model of matter (density, specific heat capacity, latent heat, gas pressure) and atomic structure (isotopes, nuclear equations, half-life, fission and fusion)."
+  - name: "Paper 2: forces, waves, magnetism and space"
+    detail: "1 hour 45 minutes, 100 marks, 50%. Forces (resultant forces, motion graphs, Newton's laws, stopping distances, moments, pressure in fluids, momentum on Higher), waves (sound, the electromagnetic spectrum, lenses, black body radiation), magnetism and electromagnetism (the motor effect, plus generators and transformers on Higher) and space physics. It can also use the energy ideas from Paper 1."
+  - name: "Foundation or Higher tier"
+    detail: "Your child is entered for Foundation (8463F), graded 1 to 5, or Higher (8463H), graded 4 to 9, with an allowed grade 3 for a Higher student who just misses a 4. On both tiers the questions run from multiple choice and short answers to open responses that need a long explanation, a long calculation or both."
+  - name: "The Physics Equations Sheet for June 2027"
+    detail: "AQA prints it as an insert with both papers. It carries the equations your child would normally learn by heart as well as the ones always given, in words and in symbols, with Higher-only ones marked HT. It doesn't give units, unit conversions like kJ to J, or which equation a question needs. The value of g is given in the question."
+  - name: "The ten required practicals"
+    detail: "Specific heat capacity, thermal insulation, resistance, I-V graphs, density, springs, acceleration, waves in a ripple tank, reflection and refraction of light, and infrared radiation. Questions drawing on them make up at least 15% of the marks, so your child needs the method, the variables and how the results could be improved."
+board_points_heading: "Where AQA Physics marks go, and what a tutor does about it"
 board_points:
-  - title: "Picking and rearranging the equation"
-    body: "Knowing the equations is only half of it. The marks come from spotting which one a question needs and rearranging it cleanly, so a question asking for time from speed and distance doesn't cost three marks. A tutor practises that with your child until it's automatic."
-  - title: "Standard form and units on Paper 1"
-    body: "Energy and electricity are full of powers of ten and unit conversions, kilojoules to joules, centimetres to metres. Get one wrong and a correct method can still lose the marks. Tutors mark these the way an examiner does and keep at it until the units stop slipping."
-  - title: "The six-mark and new-situation questions"
-    body: "Paper 2 likes to describe a set-up your child hasn't seen and leave them to choose the equation and lay out the working. A tutor shows them the structure an examiner is looking for, so the marks match what your child already understands."
+  - title: "'Write down the equation that links...'"
+    body: "AQA still asks this in 2027, and the question points your child to the equation sheet. Those marks should be safe. But the next part asks them to use the equation, and that's where it slips. A tutor practises finding the right line on the sheet fast, putting the numbers in with units and rearranging before the calculator comes out."
+  - title: "Questions built around the practicals"
+    body: "AQA likes to set a whole question on a required practical, often in a set-up your child hasn't seen: name the variables, explain why a reading was repeated, spot the odd result, suggest an improvement. Doing the practical once in class rarely covers that. A tutor goes through all ten until your child can say why each step is there."
+  - title: "Long answers that hang together"
+    body: "AQA's open responses want a line of reasoning that's clear and in order, whether it's describing a method or working through a calculation in several steps. Plenty of children know the physics and write it in the order it comes into their head. A tutor gives them a simple structure and marks their answers the way AQA would."
 
 # ───────────── 3 STEPS ─────────────
 steps_heading: "Start AQA GCSE Physics tutoring in 3 steps"
 steps_lead: "Most families have their first lesson booked within a week. And you don't pay anything until your child has found a tutor they like."
 steps:
   - title: "A free consultation call"
-    body: "A relaxed chat with a member of the team, usually around 30 minutes. We'll check your child sits AQA and whether it's separate Physics or Combined Science, then get to know you both: the tier, what's going wrong in Physics, what you've tried so far and how your child likes to learn. No pressure and no sales pitch."
+    body: "A relaxed chat with one of the team, usually about 30 minutes. We'll check it's AQA 8463 or Combined Science Trilogy, Foundation or Higher, then hear what's happening in Physics: the last mock, the topics your child dreads and how they like to learn. No pressure and no sales pitch."
   - title: "Meet 2 or 3 tutors"
-    body: "Within 24 hours of the call you'll get profiles of two or three tutors who know the AQA papers, so you can see who they are before choosing. Your child can then meet your favourite on a free video call."
+    body: "Within 24 hours you'll get profiles of two or three tutors who know the AQA papers. Have a look, pick a favourite, and your child meets them on a free 15-minute video call before anything is booked."
   - title: "Start weekly lessons"
-    body: "Lessons are one-to-one and online, using the platform Lessonspace, with a replay of every lesson to look back on. From £37 an hour, no contract, and you can stop whenever you like."
+    body: "Weekly one-to-one lessons online, using the platform Lessonspace, with a replay of every lesson for revision. From £37 an hour, no contract, and you can stop at any point."
 
 # ───────────── FAQ ─────────────
 faq_items:
-  - q: "How do I know if my child sits AQA for GCSE Physics?"
-    a: "It's on the exam timetable and at the top of any past paper the school sends home, shown as AQA with the spec code 8463 for separate Physics. If you're not sure, we'll check it with you on the call before matching anyone, because practising the wrong board's questions quietly costs marks."
-  - q: "Which AQA Physics papers will my child sit?"
-    a: "Two. Paper 1 covers energy, electricity, the particle model and atomic structure. Paper 2 covers forces, waves, magnetism and electromagnetism, with space physics too for separate Physics. Each is 1 hour 45 minutes and 100 marks, so they count equally, and a tutor makes sure revision is split the same way."
-  - q: "My child understands the physics but loses marks on the calculations. Why?"
-    a: "It's almost always the maths underneath. Rearranging the equation the wrong way, dropping a unit, or writing down an answer with no working the mark scheme can give credit for. A tutor marks AQA past papers the way an examiner does and practises the method until the calculations earn what your child already knows."
-  - q: "How does AQA test the required practicals?"
-    a: "In the written papers, not as separate coursework. AQA asks about the method, the variables and the results of practicals like the resistance of a wire, specific heat capacity and force and extension on a spring. So your child needs to answer those questions properly, not just remember doing the experiment. Tutors go through the ones students find tricky."
-  - q: "Is separate AQA Physics harder than Combined Science?"
-    a: "It's more content rather than a different subject. Separate Physics (8463) adds topics like space physics and goes deeper in places, and it's a full GCSE on its own. If your child sits Combined Science instead, we'll match them with a tutor who knows that course too. Just tell us which on the call."
-  - q: "How much does it cost?"
-    a: "Lessons start from £37 an hour. The exact price depends on the tutor, and we'll always agree it with you before anything is booked. There's no contract and nothing to pay upfront, and the consultation call and the video meeting with your tutor are free."
+  - q: "How do I know if my child sits AQA GCSE Physics 8463?"
+    a: "Look at the front of a mock paper or on the exam timetable. Separate Physics with AQA is spec 8463, while AQA Combined Science: Trilogy, where physics sits alongside biology and chemistry, is 8464. If neither is to hand, we'll check with you on the call, because the board and the course change what your child should be practising."
+  - q: "What topics are on AQA GCSE Physics Paper 1 and Paper 2?"
+    a: "Paper 1 covers topics 1 to 4: energy, electricity, the particle model of matter and atomic structure. Paper 2 covers topics 5 to 8: forces, waves, magnetism and electromagnetism, and space physics, and it can also ask about energy transfers from Paper 1. Each paper is 1 hour 45 minutes and 100 marks. A tutor plans revision around that split, so neither paper gets left until the last month."
+  - q: "Is there an equation sheet in AQA GCSE Physics for 2027?"
+    a: "Yes. For the summer 2027 exams AQA gives every student its Physics Equations Sheet as an insert with Paper 1 and Paper 2. That comes from a government decision covering the 2025, 2026 and 2027 exams, and Ofqual has since confirmed sheets will carry on from 2028. The sheet gives the equations, not the units or the rearranging, so those still need practice."
+  - q: "Where can I find AQA GCSE Physics past papers and mark schemes?"
+    a: "On AQA's own website, using its past papers and mark schemes finder. Most papers stay up there for three years, and teachers get early access to the newest ones. Doing them alone only goes so far, because it's hard to see why a mark was lost. A tutor marks them with your child against the AQA mark scheme, so the reason for every lost mark is clear."
+  - q: "Where are the AQA GCSE Physics grade boundaries for 2026?"
+    a: "On AQA's grade boundaries page, where the June 2026 GCSE boundaries went up at 8am on results day, 20 August 2026. They show the mark out of 200 needed for each grade that year, set by senior examiners once marking is finished, so they move a little from year to year. They're a rough guide for marking a mock, not a target."
+  - q: "Is AQA GCSE Physics harder than Edexcel?"
+    a: "No, not in a way that changes the grade. Every board teaches the same government subject content, Ofqual sets the same assessment objectives for all of them, and they're graded on the same 9 to 1 scale. The difference is style. AQA leans on its required practicals and on applying physics to situations your child hasn't met before, and a tutor who knows its papers makes that style familiar."
+  - q: "How much does AQA Physics tutoring cost?"
+    a: "Lessons start from £37 an hour. The rate depends on the tutor you choose, and we agree it with you before anything is booked. The consultation call and the video meeting with the tutor cost nothing, and there's no contract or upfront payment, so you can stop whenever you like."
   - q: "What if we don't click with the tutor?"
-    a: "Just let us know and we'll find someone else, with no charge and no awkward conversation. It happens, and we'd much rather sort it than have your child sit through lessons that aren't working."
+    a: "Tell us and we'll find someone else, at no cost and with no awkward conversation. Some pairings just don't work, and we'd much rather sort it quickly than have your child sit through lessons that aren't helping. That's also why you see two or three profiles first, not one."
   - q: "Does online tutoring actually work for Physics?"
-    a: "It does. Your child and the tutor share a whiteboard in Lessonspace, so the tutor can rearrange an equation line by line, sketch a circuit or force diagram, and mark an AQA past paper question with your child watching every step. Every lesson has a replay too, which is handy the night before a test."
+    a: "It does. Lessons run on Lessonspace, a shared online whiteboard, so the tutor can draw a circuit, sketch a velocity-time graph and watch your child rearrange an equation line by line. They can put an AQA question on screen and mark it together. Every lesson has a replay, so your child can go back over the part they found hard."
 
 # ───────────── CLOSING CTA ─────────────
 final_heading: "Book your free<br>AQA GCSE Physics consultation"
-final_body: "A friendly consultation call, usually around 30 minutes, so we can get to know your child: which tier they're on, where the AQA papers are catching them out and what they're like as a learner. Within 24 hours you'll have profiles of two or three tutors to choose from."
+final_body: "A friendly call, usually about 30 minutes, so we can get to know your child: Foundation or Higher, which AQA topics are costing marks and what they're like as a learner. Within 24 hours of it you'll have two or three tutor profiles to choose from."
 final_assurance: "Free call · Lessons from £37 · No contract"
+
+# Where the paper facts and the equation sheet position come from, listed at
+# the foot of the page. All opened and checked on 23 Oct 2026.
+sources:
+  - title: "AQA, GCSE Physics (8463) specification"
+    url: "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification"
+    note: "for the papers, topics, tiers and required practicals (version 1.1)"
+  - title: "AQA, GCSE Maths and GCSE Sciences formulae and equation sheets for 2027 and 2028 onwards"
+    url: "https://www.aqa.org.uk/news/gcse-maths-sciences-formulae-equation-sheets-2027-28"
+    note: "published 1 September 2026, for the June 2027 Physics Equations Sheet"
+  - title: "Ofqual, decisions on changes to the assessment of mathematics, physics and combined science GCSEs in 2025, 2026 and 2027"
+    url: "https://www.gov.uk/government/consultations/proposed-changes-to-the-assessment-of-mathematics-physics-and-combined-science-gcses-in-2025-2026-and-2027/outcome/decisions-on-changes-to-the-assessment-of-mathematics-physics-and-combined-science-gcses-in-2025-2026-and-2027"
+    note: "for equation sheets in the 2025 to 2027 exams"
+  - title: "Ofqual, decisions on formulae and equation sheets from 2028"
+    url: "https://www.gov.uk/government/consultations/proposed-changes-to-the-assessment-of-mathematics-physics-and-combined-science-gcses/outcome/decisions-proposed-changes-to-the-assessment-of-mathematics-physics-and-combined-science-gcses"
+    note: "published 5 May 2026, for sheets from 2028 onwards"
 
 sitemap:
   priority: 0.7
