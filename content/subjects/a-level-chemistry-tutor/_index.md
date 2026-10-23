@@ -2,8 +2,8 @@
 # A-Level Chemistry subject page, on the location page design (design: "location",
 # rendered by layouts/partials/ads-subject-body.html). Structure and voice follow
 # the GCSE Maths reference page (content/subjects/gcse-maths-tutor/_index.md).
-title: "Online A-Level Chemistry Tutors, One-to-One | The Degree Gap"
-description: "One-to-one online A-Level Chemistry tutors, picked by our team. Free consultation call, tutor profiles within 24 hours, lessons from £37, no contract."
+title: "Private A-Level Chemistry Tutors, Online | The Degree Gap"
+description: "Private A-Level Chemistry tuition, one-to-one and online, for mechanisms, rate equations and the maths. Free consultation call, lessons from £37, no contract."
 layout: "single"
 design: "location"
 robots: "index, follow"
@@ -13,9 +13,9 @@ subject: "A-Level Chemistry"
 subject_short: "Chemistry"
 
 # ───────────── HERO ─────────────
-hero_eyebrow: "A-LEVEL CHEMISTRY TUTORING · ONLINE, ACROSS THE UK"
-hero_h1: "Online A-Level Chemistry Tutors, Matched to Your Child"
-hero_lead: "If your child did well at GCSE and A-Level Chemistry has suddenly become a lot, you're not alone. Mechanisms, rate equations and the maths running through it all catch out plenty of capable students. Book a free consultation call with our team so we can get to know your child, and within 24 hours of it you'll get profiles of two or three tutors we think would suit them. Pick the one that feels right, and lessons start from there."
+hero_eyebrow: "PRIVATE A-LEVEL CHEMISTRY TUITION · ONLINE, ACROSS THE UK"
+hero_h1: "Private A-Level Chemistry Tutors, Matched to Your Child"
+hero_lead: "If your child did well at GCSE and A-Level Chemistry has suddenly become a lot, you're not alone. Mechanisms, rate equations and the maths running through it all catch out plenty of capable students. A private tutor who knows their exam board can untangle it with them, one topic at a time."
 meta_2: "Online using the platform Lessonspace, plus replay available"
 meta_3: "Best British Curriculum Tutoring Service Provider 2026"
 
@@ -27,7 +27,7 @@ card_points:
 
 # ───────────── TUTORS ─────────────
 tutors_eyebrow: "MEET SOME OF THE TUTORS"
-tutors_heading: "Some of the A-Level Chemistry tutors you could be matched with"
+tutors_heading: "Some of the private A-Level Chemistry tutors you could be matched with"
 tutors_intro: "You won't be left scrolling through hundreds of profiles on your own. We've met every tutor on our platform, and after your call we pick the two or three we think will get on best with your child and know their exam board. Some have taught Chemistry for years, others sat these papers not long ago. Here are a few of them."
 tutor_names:
   - "Francis Isaac"
@@ -78,6 +78,9 @@ faq_items:
     a: "Yes, and it's one of the most common reasons families get in touch. Medicine, Dentistry and a lot of science degrees ask for top grades in Chemistry. We'll ask about the offer on the call and pick tutors who know what a top answer looks like. We'd never promise a grade, but starting well before the Year 13 mocks gives the tutor real time to help. Harry and Joe can also talk you through the UCAS side."
   - q: "What if we don't click with the tutor?"
     a: "Just let us know and we'll find someone else, with no charge and no awkward conversation. It happens, and we'd much rather sort it than have your child sit through lessons that aren't working. It's also why you hear from two or three tutors before choosing, rather than being handed one."
+related_links:
+  - title: "Medicine personal statement help"
+    url: "/personal-statement-tutor/medicine/"
 sitemap:
   priority: 0.9
   changefreq: monthly

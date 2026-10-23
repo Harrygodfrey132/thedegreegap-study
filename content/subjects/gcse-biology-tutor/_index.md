@@ -3,8 +3,8 @@
 # rendered by layouts/partials/ads-subject-body.html). Same structure and
 # parent-chat voice as the GCSE Maths reference page. The AQA, Edexcel and
 # OCR pages under this folder show as board cards automatically.
-title: "Online GCSE Biology Tutors for Your Child | The Degree Gap"
-description: "One-to-one online GCSE Biology tutors, picked for your child by our team. Free consultation call, tutor profiles within 24 hours, lessons from £37, no contract."
+title: "Private GCSE Biology Tutors, Online | The Degree Gap"
+description: "Private GCSE Biology tuition, one-to-one and online, for six-mark answers and required practicals. Free consultation call, lessons from £37, no contract."
 layout: "single"
 design: "location"
 robots: "index, follow"
@@ -14,9 +14,9 @@ subject: "GCSE Biology"
 subject_short: "Biology"
 
 # ───────────── HERO ─────────────
-hero_eyebrow: "GCSE BIOLOGY TUTORING · ONLINE, ACROSS THE UK"
-hero_h1: "Online GCSE Biology Tutors, Matched to Your Child"
-hero_lead: "If your child has revised Biology for hours and the marks still slip on the six-mark answers and the practical questions, you're not alone, and it can be turned around. Book a free consultation call with our team so we can get to know your child, and within 24 hours of it you'll get profiles of two or three tutors we think would suit them. Pick the one that feels right, and lessons start from there."
+hero_eyebrow: "PRIVATE GCSE BIOLOGY TUITION · ONLINE, ACROSS THE UK"
+hero_h1: "Private GCSE Biology Tutors, Matched to Your Child"
+hero_lead: "If your child has revised Biology for hours and the marks still slip on the six-mark answers and the practical questions, you're not alone. It can be turned around, one-to-one, by a private tutor who knows their exam board."
 meta_2: "Online using the platform Lessonspace, plus replay available"
 meta_3: "GCSE Tutoring Specialists of the Year 2025 & 2026"
 
@@ -28,7 +28,7 @@ card_points:
 
 # ───────────── TUTORS ─────────────
 tutors_eyebrow: "MEET SOME OF THE TUTORS"
-tutors_heading: "Some of the GCSE Biology tutors you could be matched with"
+tutors_heading: "Some of the private GCSE Biology tutors you could be matched with"
 tutors_intro: "You won't be left scrolling through hundreds of profiles on your own. We've met every tutor on our platform, and after your call we pick the two or three we think will get on best with your child and know their exam board. Here are a few of them."
 tutor_names:
   - "Laura Bould"
@@ -82,6 +82,9 @@ faq_items:
     a: "Yes. Tutors on our platform cover AQA, Edexcel and both OCR routes, Gateway and Twenty First Century, at Foundation and Higher tier, and we'll pick tutors who know your child's board. Not sure which it is? It's usually on the front of a mock paper, or we can help you work it out on the call."
   - q: "My child doesn't really want a tutor. Is that normal?"
     a: "Very normal, and it's probably the thing parents mention most. It usually changes once they meet the tutor, because it feels nothing like a lesson at school. One person, their full attention and nobody else watching. That's why your child gets to meet the tutor on a free video call first. If they really don't get on with it after a couple of lessons, you simply stop."
+related_links:
+  - title: "Triple or Combined Science?"
+    url: "/gcse-options/science/"
 sitemap:
   priority: 0.9
   changefreq: monthly

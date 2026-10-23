@@ -3,8 +3,8 @@
 # "location", rendered by layouts/partials/ads-subject-body.html). Same
 # structure and parent-chat voice as the GCSE Maths reference page. Tutors are
 # named explicitly: each one teaches GCSE Biology, Chemistry and Physics.
-title: "Online GCSE Combined Science Tutors | The Degree Gap"
-description: "Online GCSE Combined Science tutors, picked for your child. Free consultation call, tutor profiles within 24 hours, lessons from £37 with no contract."
+title: "Private GCSE Combined Science Tutors, Online | The Degree Gap"
+description: "Private GCSE Combined Science tuition, one-to-one and online, covering Biology, Chemistry and Physics. Free consultation call, lessons from £37, no contract."
 layout: "single"
 design: "location"
 robots: "index, follow"
@@ -15,9 +15,9 @@ subject_short: "Combined Science"
 teaches_token: "GCSE Biology"
 
 # ───────────── HERO ─────────────
-hero_eyebrow: "GCSE COMBINED SCIENCE TUTORING · ONLINE, ACROSS THE UK"
-hero_h1: "Online GCSE Combined Science Tutors, Matched to Your Child"
-hero_lead: "If your child is juggling Biology, Chemistry and Physics at once and no part of it ever feels finished, you're not alone, and it can be turned around. Book a free consultation call with our team so we can get to know your child, and within 24 hours of it you'll get profiles of two or three tutors we think would suit them. Pick the one that feels right, and lessons start from there."
+hero_eyebrow: "PRIVATE GCSE COMBINED SCIENCE TUITION · ONLINE, ACROSS THE UK"
+hero_h1: "Private GCSE Combined Science Tutors, Matched to Your Child"
+hero_lead: "If your child is juggling Biology, Chemistry and Physics at once and no part of it ever feels finished, you're not alone. It can be turned around, one-to-one, with a private tutor who covers all three sciences."
 meta_2: "Online using the platform Lessonspace, plus replay available"
 meta_3: "GCSE Tutoring Specialists of the Year 2025 & 2026"
 
@@ -29,7 +29,7 @@ card_points:
 
 # ───────────── TUTORS ─────────────
 tutors_eyebrow: "MEET SOME OF THE TUTORS"
-tutors_heading: "Some of the GCSE Combined Science tutors you could be matched with"
+tutors_heading: "Some of the private GCSE Combined Science tutors you could be matched with"
 tutors_intro: "You won't be left scrolling through hundreds of profiles on your own. We've met every tutor on our platform, and after your call we pick two or three who are comfortable across all three sciences and who we think will get on best with your child. Here are a few of them."
 tutor_names:
   - "Laura Bould"
@@ -80,6 +80,9 @@ faq_items:
     a: "Just let us know and we'll find someone else, with no charge and no awkward conversation. It happens, and we'd much rather sort it than have your child sit through lessons that aren't working. It's also why you hear about two or three tutors before choosing, rather than being handed one."
   - q: "Does online tutoring actually work for science?"
     a: "It does, and a lot of children find it easier. On Lessonspace your child and the tutor share the same whiteboard, so the tutor can sketch a circuit or a cell, work through a calculation one line at a time and see exactly where a mark went. Every lesson has a replay too, which is handy before a test."
+related_links:
+  - title: "Triple or Combined Science?"
+    url: "/gcse-options/science/"
 sitemap:
   priority: 0.9
   changefreq: monthly

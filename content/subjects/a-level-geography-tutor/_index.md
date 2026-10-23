@@ -2,8 +2,8 @@
 # A-Level Geography subject page, on the location page design (design: "location",
 # rendered by layouts/partials/ads-subject-body.html). Mirrors the reference
 # page content/subjects/gcse-maths-tutor/_index.md in the parent-chat voice.
-title: "Online A-Level Geography Tutors, One-to-One | The Degree Gap"
-description: "One-to-one online A-Level Geography tutors for the essays and the NEA. Free consultation call, tutor profiles within 24 hours, lessons from £37, no contract."
+title: "Private A-Level Geography Tutors, Online | The Degree Gap"
+description: "Private A-Level Geography tuition, one-to-one and online, for the long essays and the NEA. Free consultation call, lessons from £37, no contract."
 layout: "single"
 design: "location"
 robots: "index, follow"
@@ -13,9 +13,9 @@ subject: "A-Level Geography"
 subject_short: "Geography"
 
 # ───────────── HERO ─────────────
-hero_eyebrow: "A-LEVEL GEOGRAPHY TUTORING · ONLINE, ACROSS THE UK"
-hero_h1: "Online A-Level Geography Tutors, Matched to Your Child"
-hero_lead: "If your child knows the case studies inside out and the long essays still come back in the middle bands, you're not alone. Or maybe the NEA has stalled. Both can be sorted. Book a free consultation call with our team so we can get to know your child, and within 24 hours of it you'll get profiles of two or three tutors we think would suit them. Pick the one that feels right, and lessons start from there."
+hero_eyebrow: "PRIVATE A-LEVEL GEOGRAPHY TUITION · ONLINE, ACROSS THE UK"
+hero_h1: "Private A-Level Geography Tutors, Matched to Your Child"
+hero_lead: "If your child knows the case studies inside out and the long essays still come back in the middle bands, you're not alone. Or maybe the NEA has stalled. Both can be sorted, one-to-one, by a private tutor who knows their exam board."
 meta_2: "Online using the platform Lessonspace, plus replay available"
 meta_3: "Best British Curriculum Tutoring Service Provider 2026"
 
@@ -27,7 +27,7 @@ card_points:
 
 # ───────────── TUTORS ─────────────
 tutors_eyebrow: "MEET SOME OF THE TUTORS"
-tutors_heading: "Some of the A-Level Geography tutors you could be matched with"
+tutors_heading: "Some of the private A-Level Geography tutors you could be matched with"
 tutors_intro: "You won't be left scrolling through hundreds of profiles on your own. We've met every tutor on our platform, and after your call we pick the two or three who know your child's board and options, and who we think they'll get on with. Here are a few of them."
 tutor_names:
   - "Sian Taylder"

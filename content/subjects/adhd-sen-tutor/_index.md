@@ -3,8 +3,8 @@
 # rendered by layouts/partials/ads-subject-body.html). Not a level plus a
 # subject, so subject_label, book_subject and teaches_token are set here.
 # Tone: extra gentle. We never diagnose and never make clinical claims.
-title: "Online SEN and ADHD Tutors for Your Child | The Degree Gap"
-description: "Patient online tutors for children with ADHD, dyslexia, autism or other needs. Free consultation call, profiles within 24 hours, lessons from £37, no contract."
+title: "Private SEN and ADHD Tutors, Online | The Degree Gap"
+description: "Patient private tutors for children with ADHD, dyslexia, autism or other needs, one-to-one and online. Free consultation call, lessons from £37, no contract."
 layout: "single"
 design: "location"
 robots: "index, follow"
@@ -16,9 +16,9 @@ subject_label: "SEN and ADHD"
 book_subject: "SEN / ADHD support"
 
 # ───────────── HERO ─────────────
-hero_eyebrow: "SEN AND ADHD TUTORING · ONLINE, ACROSS THE UK"
-hero_h1: "Online SEN and ADHD Tutors Who Work With How Your Child Learns"
-hero_lead: "If your child has ADHD, dyslexia, autism or another additional need, and school has started to feel like hard work for everyone, you're not alone. Book a free consultation call with our team so we can get to know your child, what helps and what overwhelms them, and within 24 hours of it you'll get profiles of two or three patient tutors we think would suit them. Pick the one that feels right, and lessons start from there."
+hero_eyebrow: "PRIVATE SEN AND ADHD TUITION · ONLINE, ACROSS THE UK"
+hero_h1: "Private SEN and ADHD Tutors Who Work With How Your Child Learns"
+hero_lead: "If your child has ADHD, dyslexia, autism or another additional need, and school has started to feel like hard work for everyone, you're not alone. A patient private tutor, working one-to-one at your child's pace, can take a lot of that pressure off."
 meta_2: "Online using the platform Lessonspace, plus replay available"
 meta_3: "GCSE Tutoring Specialists of the Year 2025 & 2026"
 
@@ -30,7 +30,7 @@ card_points:
 
 # ───────────── TUTORS ─────────────
 tutors_eyebrow: "MEET SOME OF THE TUTORS"
-tutors_heading: "Some of the tutors you could be matched with"
+tutors_heading: "Some of the private SEN and ADHD tutors you could be matched with"
 tutors_intro: "You won't be left scrolling through profiles, trying to guess who'll be patient with your child. We've met every tutor on our platform, and after your call we pick two or three who've worked with children who learn in a similar way. Here are a few of them."
 teaches_token: "GCSE"
 tutor_names:
@@ -82,6 +82,13 @@ faq_items:
     a: "Lessons start from £37 an hour. The exact price depends on the tutor, and we'll always agree it with you before anything is booked. There's no contract, no joining fee and nothing to pay upfront. You just pay for the lessons you have, and the first chat with us and the video meeting with your tutor are free."
   - q: "What if my child doesn't click with the tutor?"
     a: "Just let us know and we'll find someone else, with no charge and no awkward conversation. Trust matters more here than almost anything, and we'd much rather find the right person than have your child sit through lessons that don't feel right. It's also why you hear from two or three tutors before choosing."
+related_links:
+  - title: "Reading coaching"
+    url: "/subjects/reading-coach-tutor/"
+  - title: "11+ tutoring"
+    url: "/subjects/11-plus-tutor/"
+  - title: "GCSE resit tutoring"
+    url: "/subjects/gcse-resit-tutor/"
 sitemap:
   priority: 0.9
   changefreq: monthly

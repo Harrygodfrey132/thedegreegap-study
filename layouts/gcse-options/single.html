@@ -90,6 +90,17 @@
     {{ with .Params.tutor_quote }}
     <blockquote><p>&ldquo;{{ . }}&rdquo;</p><p>{{ $t.name }}</p></blockquote>
     {{ end }}
+    {{/* A link to the subject's tutoring page, so the guide passes its search
+         traffic on to the page families book from. GCSE first; a subject with
+         no GCSE page (Economics) gets its A-Level one, and one with neither
+         (Business) gets nothing. */}}
+    {{ $hubs := where (where (where site.Pages "Section" "subjects") "Kind" "section") "Params.layout" "single" }}
+    {{ $gcseKey := cond (eq .Params.subject "Science") "GCSE Combined Science" (printf "GCSE %s" .Params.subject) }}
+    {{ with where $hubs "Params.subject" $gcseKey }}
+    <p>And if your child is already studying it and could do with some help, here's how our <a href="{{ (index . 0).RelPermalink }}">private {{ $gcseKey }} tutors</a> work.</p>
+    {{ else }}{{ with where $hubs "Params.subject" (printf "A-Level %s" $.Params.subject) }}
+    <p>Thinking further ahead? Here's how our <a href="{{ (index . 0).RelPermalink }}">private {{ (index . 0).Params.subject }} tutors</a> work.</p>
+    {{ end }}{{ end }}
   </div>
 
 </article>

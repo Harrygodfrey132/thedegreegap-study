@@ -13,6 +13,8 @@ related_pages:
     url: "/personal-statement-tutor/cambridge/"
   - title: "Oxford Psychology: what's different"
     url: "/personal-statement-tutor/oxford/"
+  - title: "A-Level Psychology tutoring"
+    url: "/subjects/a-level-psychology-tutor/"
 faqs:
   - q: "Does it matter whether my Psychology degree is BPS-accredited?"
     a: "Yes, if you might pursue clinical, educational or forensic psychology. The British Psychological Society confers Graduate Basis for Chartered Membership through accredited courses, and without it you'll need a conversion year before applying for the DClinPsy. Most mainstream BSc routes are accredited, but joint honours and some BA courses aren't. Check each course on the BPS website before finalising your UCAS five."

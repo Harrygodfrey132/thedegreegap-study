@@ -23,7 +23,7 @@
 #   - Adults 19 and over without a grade 4 can usually study GCSE English
 #     and Maths free at a college (Adult Skills Fund legal entitlement).
 title: "Failed GCSE Maths or English? Online Resit Tutors | The Degree Gap"
-description: "Failed GCSE Maths or English, once or several times? One-to-one online resit tutors for students and adults. Free consultation call, tutor profiles within 24 hours, lessons from £37, no contract."
+description: "Failed GCSE Maths or English? Private resit tutors, one-to-one and online, for students and adults. Free consultation call, lessons from £37, no contract."
 layout: "single"
 design: "location"
 robots: "index, follow"
@@ -38,7 +38,7 @@ teaches_token: "GCSE Maths"
 # ───────────── HERO ─────────────
 hero_eyebrow: "GCSE MATHS AND ENGLISH RESITS · ONLINE, ACROSS THE UK"
 hero_h1: "Failed GCSE Maths or English? Resit Tutors Who Know the Papers"
-hero_lead: "If your child has missed a grade 4 in Maths or English, maybe more than once, you're far from the only family in that spot. A resit tutor goes back over the exact marks that slipped away, one-to-one. Book a free consultation call so we can hear what happened, and within 24 hours of it you'll get profiles of two or three tutors who know the resit papers well."
+hero_lead: "If your child has missed a grade 4 in Maths or English, maybe more than once, you're far from the only family in that spot. A private resit tutor who knows the resit papers well goes back over the exact marks that slipped away, one-to-one."
 meta_2: "Online using the platform Lessonspace, plus replay available"
 meta_3: "GCSE Tutoring Specialists of the Year 2025 & 2026"
 

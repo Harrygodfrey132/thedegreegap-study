@@ -3,8 +3,8 @@
 # rendered by layouts/partials/ads-subject-body.html). Same structure and
 # parent-chat voice as the GCSE Maths reference page. The AQA, Edexcel and
 # OCR pages underneath show up automatically as a card per board.
-title: "Online GCSE Physics Tutors for Your Child | The Degree Gap"
-description: "Friendly one-to-one online GCSE Physics tutors, picked for your child by our team. Free consultation call, profiles within 24 hours, lessons from £37, no contract."
+title: "Private GCSE Physics Tutors, Online | The Degree Gap"
+description: "Private GCSE Physics tuition, one-to-one and online, for equations, working and required practicals. Free consultation call, lessons from £37, no contract."
 layout: "single"
 design: "location"
 robots: "index, follow"
@@ -14,9 +14,9 @@ subject: "GCSE Physics"
 subject_short: "Physics"
 
 # ───────────── HERO ─────────────
-hero_eyebrow: "GCSE PHYSICS TUTORING · ONLINE, ACROSS THE UK"
-hero_h1: "Online GCSE Physics Tutors, Matched to Your Child"
-hero_lead: "If your child gets the ideas in Physics but the marks keep slipping on the equations and the working, you're not alone. It's usually the maths inside the physics, and it can be fixed. Book a free consultation call with our team so we can get to know your child, and within 24 hours of it you'll get profiles of two or three tutors we think would suit them."
+hero_eyebrow: "PRIVATE GCSE PHYSICS TUITION · ONLINE, ACROSS THE UK"
+hero_h1: "Private GCSE Physics Tutors, Matched to Your Child"
+hero_lead: "If your child gets the ideas in Physics but the marks keep slipping on the equations and the working, you're not alone. It's usually the maths inside the physics, and a private tutor can fix it, one-to-one."
 meta_2: "Online using the platform Lessonspace, plus replay available"
 meta_3: "GCSE Tutoring Specialists of the Year 2025 & 2026"
 
@@ -28,7 +28,7 @@ card_points:
 
 # ───────────── TUTORS ─────────────
 tutors_eyebrow: "MEET SOME OF THE TUTORS"
-tutors_heading: "Some of the GCSE Physics tutors you could be matched with"
+tutors_heading: "Some of the private GCSE Physics tutors you could be matched with"
 tutors_intro: "You won't be left scrolling through hundreds of profiles on your own. We've met every tutor on our platform, and after your call we pick the two or three we think will get on best with your child. Plenty of them teach Maths too, which helps a lot with Physics. Here are a few of them."
 tutor_names:
   - "Vipin Chaudhary"
@@ -83,6 +83,9 @@ faq_items:
     a: "Just let us know and we'll find someone else, with no charge and no awkward conversation. It happens, and we'd much rather sort it than have your child sit through lessons that aren't working. It's also why you see two or three tutors before choosing, rather than being handed one."
   - q: "My child doesn't really want a tutor. Is that normal?"
     a: "Very normal, and it's probably the thing parents mention most. It usually changes once they meet the tutor, because it feels nothing like a Physics lesson at school. One person, their full attention and nobody else watching. That's why your child meets the tutor on a free video call first. And if it really isn't working after a couple of lessons, you simply stop."
+related_links:
+  - title: "Triple or Combined Science?"
+    url: "/gcse-options/science/"
 sitemap:
   priority: 0.9
   changefreq: monthly

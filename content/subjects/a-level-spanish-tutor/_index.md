@@ -3,8 +3,8 @@
 # rendered by layouts/partials/ads-subject-body.html). Mirrors the reference
 # page content/subjects/gcse-maths-tutor/_index.md in the parent-chat voice.
 # Few tutors carry the "A level Spanish" tag, so tutor_names is set by hand.
-title: "Online A-Level Spanish Tutors, One-to-One | The Degree Gap"
-description: "One-to-one online A-Level Spanish tutors for translation, essays and speaking. Free consultation call, tutor profiles within 24 hours, lessons from £37, no contract."
+title: "Private A-Level Spanish Tutors, Online | The Degree Gap"
+description: "Private A-Level Spanish tuition, one-to-one and online, for translation, essays and speaking. Free consultation call, lessons from £37, no contract."
 layout: "single"
 design: "location"
 robots: "index, follow"
@@ -14,9 +14,9 @@ subject: "A-Level Spanish"
 subject_short: "Spanish"
 
 # ───────────── HERO ─────────────
-hero_eyebrow: "A-LEVEL SPANISH TUTORING · ONLINE, ACROSS THE UK"
-hero_h1: "Online A-Level Spanish Tutors, Matched to Your Child"
-hero_lead: "If your child speaks Spanish more confidently than the marks show, you're not alone. It's usually the translation and the essays on the book and film where the grade slips, and both can be worked on. Book a free consultation call with our team so we can get to know your child, and within 24 hours of it you'll get profiles of two or three tutors we think would suit them. Pick the one that feels right, and lessons start from there."
+hero_eyebrow: "PRIVATE A-LEVEL SPANISH TUITION · ONLINE, ACROSS THE UK"
+hero_h1: "Private A-Level Spanish Tutors, Matched to Your Child"
+hero_lead: "If your child speaks Spanish more confidently than the marks show, you're not alone. It's usually the translation and the essays on the book and film where the grade slips, and both can be worked on, one-to-one, with a private tutor who knows their exam board."
 meta_2: "Online using the platform Lessonspace, plus replay available"
 meta_3: "Best British Curriculum Tutoring Service Provider 2026"
 
@@ -28,7 +28,7 @@ card_points:
 
 # ───────────── TUTORS ─────────────
 tutors_eyebrow: "MEET SOME OF THE TUTORS"
-tutors_heading: "Some of the Spanish tutors you could be matched with"
+tutors_heading: "Some of the private Spanish tutors you could be matched with"
 tutors_intro: "You won't be left scrolling through hundreds of profiles on your own. We've met every tutor on our platform, and after your call we pick the two or three who know A-Level Spanish and your child's board, and who we think they'll get on with. Here are a few of them."
 tutor_names:
   - "Luke Nixon"

@@ -2,8 +2,8 @@
 # GCSE Geography subject page, on the location page design (design: "location",
 # rendered by layouts/partials/ads-subject-body.html). Structure and
 # parent-chat voice follow the GCSE Maths reference page.
-title: "Online GCSE Geography Tutors for Your Child | The Degree Gap"
-description: "Friendly one-to-one online GCSE Geography tutors for case studies and 9-markers. Free consultation call, profiles within 24 hours, lessons from £37, no contract."
+title: "Private GCSE Geography Tutors, Online | The Degree Gap"
+description: "Private GCSE Geography tuition, one-to-one and online, for the case studies and the 9-mark answers. Free consultation call, lessons from £37, no contract."
 layout: "single"
 design: "location"
 robots: "index, follow"
@@ -13,9 +13,9 @@ subject: "GCSE Geography"
 subject_short: "Geography"
 
 # ───────────── HERO ─────────────
-hero_eyebrow: "GCSE GEOGRAPHY TUTORING · ONLINE, ACROSS THE UK"
-hero_h1: "Online GCSE Geography Tutors, Matched to Your Child"
-hero_lead: "If your child can reel off the case study facts and the long answers still come back short, you're not alone. It's almost never a memory problem, and it can be turned around. Book a free consultation call with our team so we can get to know your child, and within 24 hours of it you'll get profiles of two or three tutors we think would suit them."
+hero_eyebrow: "PRIVATE GCSE GEOGRAPHY TUITION · ONLINE, ACROSS THE UK"
+hero_h1: "Private GCSE Geography Tutors, Matched to Your Child"
+hero_lead: "If your child can reel off the case study facts and the long answers still come back short, you're not alone. It's almost never a memory problem, and a private tutor can turn it around, one-to-one."
 meta_2: "Online using the platform Lessonspace, plus replay available"
 meta_3: "GCSE Tutoring Specialists of the Year 2025 & 2026"
 
@@ -27,7 +27,7 @@ card_points:
 
 # ───────────── TUTORS ─────────────
 tutors_eyebrow: "MEET SOME OF THE TUTORS"
-tutors_heading: "Some of the GCSE Geography tutors you could be matched with"
+tutors_heading: "Some of the private GCSE Geography tutors you could be matched with"
 tutors_intro: "You won't be left scrolling through hundreds of profiles on your own. We've met every tutor on our platform, and after your call we pick the two or three who know your child's board and who we think will get on best with them. Here are a few of them."
 tutor_names:
   - "Sian Taylder"
@@ -78,6 +78,9 @@ faq_items:
     a: "Yes. We'll ask about this on the call, and lots of tutors on our platform work with children who learn differently or find school stressful. One-to-one lessons take away the pressure of a classroom, and the tutor can break a long answer into small steps. Tell us what works for your child and we'll pick tutors with that in mind."
   - q: "Do you cover where we live?"
     a: "Yes, we cover the whole of the UK. All our lessons are online, so it doesn't matter whether you're in a city or a village. It also means we can pick the tutor who's the best fit for your child, rather than whoever happens to live nearby."
+related_links:
+  - title: "Is GCSE Geography hard?"
+    url: "/gcse-options/geography/"
 sitemap:
   priority: 0.9
   changefreq: monthly

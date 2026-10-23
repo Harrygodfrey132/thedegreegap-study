@@ -2,8 +2,8 @@
 # A-Level English subject page, on the location page design (design: "location",
 # rendered by layouts/partials/ads-subject-body.html). Mirrors the reference
 # page content/subjects/gcse-maths-tutor/_index.md in the parent-chat voice.
-title: "Online A-Level English Tutors, One-to-One | The Degree Gap"
-description: "One-to-one online A-Level English tutors, picked for your child by our team. Free consultation call, tutor profiles within 24 hours, lessons from £37, no contract."
+title: "Private A-Level English Tutors, Online | The Degree Gap"
+description: "Private A-Level English tuition, one-to-one and online, with tutors who know your child's set texts. Free consultation call, lessons from £37, no contract."
 layout: "single"
 design: "location"
 robots: "index, follow"
@@ -13,9 +13,9 @@ subject: "A-Level English"
 subject_short: "English"
 
 # ───────────── HERO ─────────────
-hero_eyebrow: "A-LEVEL ENGLISH TUTORING · ONLINE, ACROSS THE UK"
-hero_h1: "Online A-Level English Tutors, Matched to Your Child"
-hero_lead: "If your child loves the texts and the essays still come back in the middle bands, you're not alone. It's the most common thing we hear about A-Level English, and it can be fixed. Book a free consultation call with our team so we can get to know your child, and within 24 hours of it you'll get profiles of two or three tutors we think would suit them. Pick the one that feels right, and lessons start from there."
+hero_eyebrow: "PRIVATE A-LEVEL ENGLISH TUITION · ONLINE, ACROSS THE UK"
+hero_h1: "Private A-Level English Tutors, Matched to Your Child"
+hero_lead: "If your child loves the texts and the essays still come back in the middle bands, you're not alone. It's the most common thing we hear about A-Level English, and it can be fixed, one-to-one, by a private tutor who knows their set texts and exam board."
 meta_2: "Online using the platform Lessonspace, plus replay available"
 meta_3: "Best British Curriculum Tutoring Service Provider 2026"
 
@@ -27,7 +27,7 @@ card_points:
 
 # ───────────── TUTORS ─────────────
 tutors_eyebrow: "MEET SOME OF THE TUTORS"
-tutors_heading: "Some of the A-Level English tutors you could be matched with"
+tutors_heading: "Some of the private A-Level English tutors you could be matched with"
 tutors_intro: "You won't be left scrolling through hundreds of profiles on your own. We've met every tutor on our platform, and after your call we pick the two or three who know your child's exam board and set texts, and who we think they'll get on with. Here are a few of them."
 tutor_names:
   - "Anastasia Picton-Vraka"
@@ -78,6 +78,9 @@ faq_items:
     a: "No, and lots of families start then. Earlier gives the tutor more time before predicted grades and the mocks, but there's plenty a tutor can do with a few months, from tightening essay structure to planning timed answers. We'd never promise a grade. We'll tell you honestly on the call what we think is realistic."
   - q: "Do you cover where we live?"
     a: "Yes, we cover the whole of the UK. All our lessons are online, so it doesn't matter where you are. It also means we can pick the tutor who knows your child's texts best, rather than whoever happens to live nearby."
+related_links:
+  - title: "English Literature personal statement help"
+    url: "/personal-statement-tutor/english-literature/"
 sitemap:
   priority: 0.9
   changefreq: monthly

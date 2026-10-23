@@ -2,8 +2,8 @@
 # A-Level Physics subject page, on the location page design (design: "location",
 # rendered by layouts/partials/ads-subject-body.html). Structure and voice follow
 # the GCSE Maths reference page (content/subjects/gcse-maths-tutor/_index.md).
-title: "Online A-Level Physics Tutors, One-to-One | The Degree Gap"
-description: "One-to-one online A-Level Physics tutors, picked by our team. Free consultation call, tutor profiles within 24 hours, lessons from £37, no contract."
+title: "Private A-Level Physics Tutors, Online | The Degree Gap"
+description: "Private A-Level Physics tuition, one-to-one and online, for the maths, long questions and practicals. Free consultation call, lessons from £37, no contract."
 layout: "single"
 design: "location"
 robots: "index, follow"
@@ -13,9 +13,9 @@ subject: "A-Level Physics"
 subject_short: "Physics"
 
 # ───────────── HERO ─────────────
-hero_eyebrow: "A-LEVEL PHYSICS TUTORING · ONLINE, ACROSS THE UK"
-hero_h1: "Online A-Level Physics Tutors, Matched to Your Child"
-hero_lead: "If your child understands the Physics in class but the marks keep slipping away in the working, you're not alone. It's often the maths underneath, the rearranging, the logs and the long multi-step questions. Book a free consultation call with our team so we can get to know your child, and within 24 hours of it you'll get profiles of two or three tutors we think would suit them. Pick the one that feels right, and lessons start from there."
+hero_eyebrow: "PRIVATE A-LEVEL PHYSICS TUITION · ONLINE, ACROSS THE UK"
+hero_h1: "Private A-Level Physics Tutors, Matched to Your Child"
+hero_lead: "If your child understands the Physics in class but the marks keep slipping away in the working, you're not alone. It's often the maths underneath, the rearranging, the logs and the long multi-step questions. A private tutor can work through exactly that with them, one-to-one."
 meta_2: "Online using the platform Lessonspace, plus replay available"
 meta_3: "Best British Curriculum Tutoring Service Provider 2026"
 
@@ -27,7 +27,7 @@ card_points:
 
 # ───────────── TUTORS ─────────────
 tutors_eyebrow: "MEET SOME OF THE TUTORS"
-tutors_heading: "Some of the A-Level Physics tutors you could be matched with"
+tutors_heading: "Some of the private A-Level Physics tutors you could be matched with"
 tutors_intro: "You won't be left scrolling through hundreds of profiles on your own. We've met every tutor on our platform, and after your call we pick the two or three we think will get on best with your child and know their exam board. Most of our Physics tutors are strong at Maths too, which matters more than people think. Here are a few of them."
 tutor_names:
   - "Vipin Chaudhary"

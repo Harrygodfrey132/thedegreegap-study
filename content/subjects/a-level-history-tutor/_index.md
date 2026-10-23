@@ -2,8 +2,8 @@
 # A-Level History subject page, on the location page design (design: "location",
 # rendered by layouts/partials/ads-subject-body.html). Mirrors the reference
 # page content/subjects/gcse-maths-tutor/_index.md in the parent-chat voice.
-title: "Online A-Level History Tutors, One-to-One | The Degree Gap"
-description: "One-to-one online A-Level History tutors for essays, sources and coursework. Free consultation call, tutor profiles within 24 hours, lessons from £37, no contract."
+title: "Private A-Level History Tutors, Online | The Degree Gap"
+description: "Private A-Level History tuition, one-to-one and online, for essays, sources and the coursework. Free consultation call, lessons from £37, no contract."
 layout: "single"
 design: "location"
 robots: "index, follow"
@@ -13,9 +13,9 @@ subject: "A-Level History"
 subject_short: "History"
 
 # ───────────── HERO ─────────────
-hero_eyebrow: "A-LEVEL HISTORY TUTORING · ONLINE, ACROSS THE UK"
-hero_h1: "Online A-Level History Tutors, Matched to Your Child"
-hero_lead: "Your child can tell you everything that happened, and the essays still come back marked \"more analysis needed\". If nobody has shown them what that means, you're not alone, and it can be taught. Book a free consultation call with our team so we can get to know your child, and within 24 hours of it you'll get profiles of two or three tutors we think would suit them. Pick the one that feels right, and lessons start from there."
+hero_eyebrow: "PRIVATE A-LEVEL HISTORY TUITION · ONLINE, ACROSS THE UK"
+hero_h1: "Private A-Level History Tutors, Matched to Your Child"
+hero_lead: "Your child can tell you everything that happened, and the essays still come back marked \"more analysis needed\". If nobody has shown them what that means, you're not alone. It can be taught, one-to-one, by a private tutor who knows their exam board."
 meta_2: "Online using the platform Lessonspace, plus replay available"
 meta_3: "Best British Curriculum Tutoring Service Provider 2026"
 
@@ -27,7 +27,7 @@ card_points:
 
 # ───────────── TUTORS ─────────────
 tutors_eyebrow: "MEET SOME OF THE TUTORS"
-tutors_heading: "Some of the A-Level History tutors you could be matched with"
+tutors_heading: "Some of the private A-Level History tutors you could be matched with"
 tutors_intro: "You won't be left scrolling through hundreds of profiles on your own. We've met every tutor on our platform, and after your call we pick the two or three who know your child's board and options, and who we think they'll get on with. Here are a few of them."
 tutor_names:
   - "Ritu Patel"
@@ -78,6 +78,9 @@ faq_items:
     a: "It does. On Lessonspace the tutor and your child can both write on the same essay or source, so the tutor can show exactly where a paragraph stops arguing and starts retelling. Some tutors also set a practice essay between lessons and mark it. And every lesson has a replay to look back on."
   - q: "Do you cover where we live?"
     a: "Yes, we cover the whole of the UK. All our lessons are online, so it doesn't matter where you are. It also means we can pick the tutor who knows your child's periods best, rather than whoever happens to live nearby."
+related_links:
+  - title: "History personal statement help"
+    url: "/personal-statement-tutor/history/"
 sitemap:
   priority: 0.9
   changefreq: monthly

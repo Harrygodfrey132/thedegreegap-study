@@ -78,6 +78,11 @@ faq_items:
     a: "We're Harry and Joe. Harry read Economics at the LSE, and we started The Degree Gap after seeing how much the right tutor matters. We meet every tutor on the platform personally, and only around 3% of the people who apply get through. Our 100+ five-star Google reviews, lots of them from A-Level Economics families, say the rest better than we can."
   - q: "What if we don't click with the tutor?"
     a: "Just let us know and we'll find someone else, with no charge and no awkward conversation. It happens, and we'd much rather sort it than have your child sit through lessons that aren't working. It's also why you hear from two or three tutors before choosing, rather than being handed one."
+related_links:
+  - title: "Economics personal statement help"
+    url: "/personal-statement-tutor/economics/"
+  - title: "Is GCSE Economics worth it?"
+    url: "/gcse-options/economics/"
 sitemap:
   priority: 0.9
   changefreq: monthly

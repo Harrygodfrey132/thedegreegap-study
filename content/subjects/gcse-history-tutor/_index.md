@@ -2,8 +2,8 @@
 # GCSE History subject page, on the location page design (design: "location",
 # rendered by layouts/partials/ads-subject-body.html). Structure and
 # parent-chat voice follow the GCSE Maths reference page.
-title: "GCSE History Tutors Online, Matched to Your Child | The Degree Gap"
-description: "Friendly one-to-one online GCSE History tutors for sources and essays. Free consultation call, tutor profiles within 24 hours, lessons from £37 with no contract."
+title: "Private GCSE History Tutors, Online | The Degree Gap"
+description: "Private GCSE History tuition, one-to-one and online, for the source questions and the long essays. Free consultation call, lessons from £37, no contract."
 layout: "single"
 design: "location"
 robots: "index, follow"
@@ -13,9 +13,9 @@ subject: "GCSE History"
 subject_short: "History"
 
 # ───────────── HERO ─────────────
-hero_eyebrow: "GCSE HISTORY TUTORING · ONLINE, ACROSS THE UK"
-hero_h1: "Online GCSE History Tutors, Matched to Your Child"
-hero_lead: "If your child can talk you through the whole topic and the History grade still isn't moving, you're not alone. Turning what they know into an answer the mark scheme rewards is a skill, and it can be taught. Book a free consultation call with our team so we can get to know your child, and within 24 hours of it you'll get profiles of two or three tutors we think would suit them."
+hero_eyebrow: "PRIVATE GCSE HISTORY TUITION · ONLINE, ACROSS THE UK"
+hero_h1: "Private GCSE History Tutors, Matched to Your Child"
+hero_lead: "If your child can talk you through the whole topic and the History grade still isn't moving, you're not alone. Turning what they know into an answer the mark scheme rewards is a skill, and a private tutor can teach it, one-to-one."
 meta_2: "Online using the platform Lessonspace, plus replay available"
 meta_3: "GCSE Tutoring Specialists of the Year 2025 & 2026"
 
@@ -27,7 +27,7 @@ card_points:
 
 # ───────────── TUTORS ─────────────
 tutors_eyebrow: "MEET SOME OF THE TUTORS"
-tutors_heading: "Some of the GCSE History tutors you could be matched with"
+tutors_heading: "Some of the private GCSE History tutors you could be matched with"
 tutors_intro: "You won't be left scrolling through hundreds of profiles on your own. We've met every tutor on our platform, and after your call we pick the two or three who know your child's board and topics and who we think will get on best with them. Here are a few of them."
 tutor_names:
   - "Ritu Patel"

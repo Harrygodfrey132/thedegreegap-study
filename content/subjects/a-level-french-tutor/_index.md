@@ -3,8 +3,8 @@
 # rendered by layouts/partials/ads-subject-body.html). Mirrors the reference
 # page content/subjects/gcse-maths-tutor/_index.md in the parent-chat voice.
 # Few tutors carry the "A level French" tag, so tutor_names is set by hand.
-title: "Online A-Level French Tutors, One-to-One | The Degree Gap"
-description: "One-to-one online A-Level French tutors for essays, translation and the IRP. Free consultation call, tutor profiles within 24 hours, lessons from £37, no contract."
+title: "Private A-Level French Tutors, Online | The Degree Gap"
+description: "Private A-Level French tuition, one-to-one and online, for the essays, translation and the IRP. Free consultation call, lessons from £37, no contract."
 layout: "single"
 design: "location"
 robots: "index, follow"
@@ -14,9 +14,9 @@ subject: "A-Level French"
 subject_short: "French"
 
 # ───────────── HERO ─────────────
-hero_eyebrow: "A-LEVEL FRENCH TUTORING · ONLINE, ACROSS THE UK"
-hero_h1: "Online A-Level French Tutors, Matched to Your Child"
-hero_lead: "Your child coped fine with GCSE French, and now it's essays in French on a film and a book, translation both ways and a research project to defend out loud. If that jump is hitting hard, you're not alone. Book a free consultation call with our team so we can get to know your child, and within 24 hours of it you'll get profiles of tutors we think would suit them. Pick the one that feels right, and lessons start from there."
+hero_eyebrow: "PRIVATE A-LEVEL FRENCH TUITION · ONLINE, ACROSS THE UK"
+hero_h1: "Private A-Level French Tutors, Matched to Your Child"
+hero_lead: "Your child coped fine with GCSE French, and now it's essays in French on a film and a book, translation both ways and a research project to defend out loud. If that jump is hitting hard, you're not alone. A private French tutor can work through each part of it with them, one-to-one."
 meta_2: "Online using the platform Lessonspace, plus replay available"
 meta_3: "Best British Curriculum Tutoring Service Provider 2026"
 
@@ -28,7 +28,7 @@ card_points:
 
 # ───────────── TUTORS ─────────────
 tutors_eyebrow: "MEET SOME OF THE TUTORS"
-tutors_heading: "Some of the French tutors you could be matched with"
+tutors_heading: "Some of the private French tutors you could be matched with"
 tutors_intro: "You won't be left scrolling through hundreds of profiles on your own. We've met every tutor on our platform, and after your call we pick the ones who know A-Level French and your child's board, and who we think they'll get on with. Here are a couple of them."
 tutor_names:
   - "Joshua Ramsdale"

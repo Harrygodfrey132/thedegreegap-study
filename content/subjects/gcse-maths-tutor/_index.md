@@ -6,8 +6,8 @@
 # Structure and wording follow Harry and Joe's review of 25 Sep 2026:
 # hero, tutors, reviews, who we are, 3 steps, FAQ, closing call to book.
 # Tone: reassuring and chatty, the way we talk to parents on the phone.
-title: "GCSE Maths Tutors Online, Matched to Your Child | The Degree Gap"
-description: "Friendly one-to-one online GCSE Maths tutors, hand-picked for your child by our team. Free chat first, tutor profiles within 24 hours, lessons from £37 with no contract."
+title: "Private GCSE Maths Tutors, Online | The Degree Gap"
+description: "Private GCSE Maths tuition, one-to-one and online, for Foundation and Higher tier. Free consultation call, lessons from £37, no contract."
 layout: "single"
 design: "location"
 robots: "index, follow"
@@ -17,9 +17,9 @@ subject: "GCSE Maths"
 subject_short: "Maths"
 
 # ───────────── HERO ─────────────
-hero_eyebrow: "GCSE MATHS TUTORING · ONLINE, ACROSS THE UK"
-hero_h1: "Online GCSE Maths Tutors, Matched to Your Child"
-hero_lead: "If your child is working hard and the Maths grade still isn't moving, you're not alone, and it can be turned around. Book a free consultation call with our team so we can get to know your child, and within 24 hours of it you'll get profiles of two or three tutors we think would suit your child. Pick the one that feels right, and lessons start from there."
+hero_eyebrow: "PRIVATE GCSE MATHS TUITION · ONLINE, ACROSS THE UK"
+hero_h1: "Private GCSE Maths Tutors, Matched to Your Child"
+hero_lead: "If your child is working hard and the Maths grade still isn't moving, you're not alone, and it can be turned around. A private tutor works one-to-one on the exact topics that are costing marks, at your child's pace."
 meta_2: "Online using the platform Lessonspace, plus replay available"
 meta_3: "GCSE Tutoring Specialists of the Year 2025 & 2026"
 
@@ -31,7 +31,7 @@ card_points:
 
 # ───────────── TUTORS ─────────────
 tutors_eyebrow: "MEET SOME OF THE TUTORS"
-tutors_heading: "Some of the GCSE Maths tutors you could be matched with"
+tutors_heading: "Some of the private GCSE Maths tutors you could be matched with"
 tutors_intro: "You won't be left scrolling through hundreds of profiles on your own. We've met every tutor on our platform, and after your call we pick the two or three we think will get on best with your child. Here are a few of them."
 tutor_names:
   - "Emily Lowe"
@@ -82,6 +82,11 @@ faq_items:
     a: "Yes. Our tutors cover AQA, Edexcel, OCR and WJEC Eduqas, plus iGCSE, at Foundation and Higher tier, and we'll pick tutors who know your child's board. Not sure which one it is? It's usually on the front of a mock paper, or we can help you work it out on the call."
   - q: "How soon will we see a difference?"
     a: "Most parents notice their child talking about Maths differently within the first few lessons, before it shows up in a mark. Moving up a grade usually takes a term or so of weekly lessons, a bit quicker if it's mainly exam technique. We'd never promise a grade, but starting before the mocks, which for most Year 11s fall between November and January, gives the tutor the best chance to help."
+related_links:
+  - title: "GCSE Maths: Foundation or Higher?"
+    url: "/gcse-options/maths/"
+  - title: "GCSE Maths resit tutoring"
+    url: "/subjects/gcse-resit-tutor/"
 sitemap:
   priority: 0.9
   changefreq: monthly

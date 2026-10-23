@@ -20,6 +20,10 @@ related_pages:
     url: "/personal-statement-tutor/cambridge/"
   - title: "Dentistry personal statement help"
     url: "/personal-statement-tutor/dentistry/"
+  - title: "A-Level Biology tutoring"
+    url: "/subjects/a-level-biology-tutor/"
+  - title: "A-Level Chemistry tutoring"
+    url: "/subjects/a-level-chemistry-tutor/"
 faqs:
   - q: "What's the biggest mistake Medicine applicants make in their personal statement?"
     a: "Most applicants list work-experience placements without reflecting on what they actually saw. A week shadowing a surgeon means little if you can't describe one consultation that changed how you think about patient autonomy or resource scarcity. Admissions tutors at Newcastle and Sheffield want evidence you sat with unwell people and came back the next week, not a CV of hospital visits."

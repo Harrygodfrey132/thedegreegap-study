@@ -3,8 +3,8 @@
 # rendered by layouts/partials/ads-subject-body.html). Not a level plus a
 # subject, so subject_label, book_subject and teaches_token are set here.
 # Tone: reassuring and chatty, the way we talk to parents on the phone.
-title: "Online 11+ Tutors, Matched to Your Child | The Degree Gap"
-description: "Friendly one-to-one online 11+ tutors, matched to your child and their schools. Free consultation call, profiles within 24 hours, lessons from £37, no contract."
+title: "Private 11+ Tutors, Online | The Degree Gap"
+description: "Private 11+ tuition, one-to-one and online, with tutors who know your child's test and target schools. Free consultation call, lessons from £37, no contract."
 layout: "single"
 design: "location"
 robots: "index, follow"
@@ -16,9 +16,9 @@ subject_label: "11+"
 book_subject: "11+"
 
 # ───────────── HERO ─────────────
-hero_eyebrow: "11+ TUTORING · ONLINE, ACROSS THE UK"
-hero_h1: "Online 11+ Tutors, Matched to Your Child"
-hero_lead: "You want your child ready for the grammar or independent school test, not drilled until they dread Saturday mornings. Book a free consultation call with our team so we can get to know your child and the schools you're aiming for, and within 24 hours of it you'll get profiles of two or three tutors we think would suit them. Pick the one that feels right, and lessons start from there."
+hero_eyebrow: "PRIVATE 11+ TUITION · ONLINE, ACROSS THE UK"
+hero_h1: "Private 11+ Tutors, Matched to Your Child"
+hero_lead: "You want your child ready for the grammar or independent school test, not drilled until they dread Saturday mornings. That's what a good private tutor does, one-to-one, at your child's pace and with the schools you're aiming for in mind."
 meta_2: "Online using the platform Lessonspace, plus replay available"
 meta_3: "GCSE Tutoring Specialists of the Year 2025 & 2026"
 
@@ -30,7 +30,7 @@ card_points:
 
 # ───────────── TUTORS ─────────────
 tutors_eyebrow: "MEET SOME OF THE TUTORS"
-tutors_heading: "Some of the 11+ tutors you could be matched with"
+tutors_heading: "Some of the private 11+ tutors you could be matched with"
 tutors_intro: "You won't be left scrolling through hundreds of profiles, trying to guess who'd suit a ten-year-old. We've met every tutor on our platform, and after your call we pick the two or three we think will get on best with your child and know the test they'll sit. Here are a few of them."
 teaches_token: "11+ Maths"
 tutor_names:
@@ -81,6 +81,11 @@ faq_items:
     a: "Just let us know and we'll find someone else, with no charge and no awkward conversation. It happens, and at ten or eleven it matters even more that your child likes the person on the other side of the screen. It's also why you hear from two or three tutors before choosing, rather than being handed one."
   - q: "Does online tutoring actually work for a ten-year-old?"
     a: "It does, and most children settle in quicker than parents expect. Lessons use a platform called Lessonspace, where your child and the tutor work on the same whiteboard, so the tutor can see every step and help straight away. Every lesson has a replay too, which is handy for going back over a tricky question type before the next practice paper."
+related_links:
+  - title: "Reading coaching"
+    url: "/subjects/reading-coach-tutor/"
+  - title: "SEN and ADHD tutoring"
+    url: "/subjects/adhd-sen-tutor/"
 sitemap:
   priority: 0.9
   changefreq: monthly

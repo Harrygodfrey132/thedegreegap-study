@@ -3,8 +3,8 @@
 # rendered by layouts/partials/ads-subject-body.html). Same structure and
 # parent-chat voice as the GCSE Maths reference page. The AQA, Edexcel and OCR
 # pages underneath show up as board cards automatically.
-title: "GCSE Chemistry Tutors Online, One-to-One | The Degree Gap"
-description: "One-to-one online GCSE Chemistry tutors, picked for your child by our team. Free consultation call, profiles within 24 hours, lessons from £37, no contract."
+title: "Private GCSE Chemistry Tutors, Online | The Degree Gap"
+description: "Private GCSE Chemistry tuition, one-to-one and online, for moles, calculations and the six-mark answers. Free consultation call, lessons from £37, no contract."
 layout: "single"
 design: "location"
 robots: "index, follow"
@@ -14,9 +14,9 @@ subject: "GCSE Chemistry"
 subject_short: "Chemistry"
 
 # ───────────── HERO ─────────────
-hero_eyebrow: "GCSE CHEMISTRY TUTORING · ONLINE, ACROSS THE UK"
-hero_h1: "Online GCSE Chemistry Tutors, Matched to Your Child"
-hero_lead: "If your child gets the Chemistry in class but the moles questions and six-mark answers keep coming back with half the marks missing, you're not alone, and it can be sorted. Book a free consultation call so we can get to know your child, and within 24 hours of it you'll get profiles of two or three tutors we think would suit them."
+hero_eyebrow: "PRIVATE GCSE CHEMISTRY TUITION · ONLINE, ACROSS THE UK"
+hero_h1: "Private GCSE Chemistry Tutors, Matched to Your Child"
+hero_lead: "If your child gets the Chemistry in class but the moles questions and six-mark answers keep coming back with half the marks missing, you're not alone. It can be sorted, one-to-one, by a private tutor who knows their exam board."
 meta_2: "Online using the platform Lessonspace, plus replay available"
 meta_3: "GCSE Tutoring Specialists of the Year 2025 & 2026"
 
@@ -28,7 +28,7 @@ card_points:
 
 # ───────────── TUTORS ─────────────
 tutors_eyebrow: "MEET SOME OF THE TUTORS"
-tutors_heading: "Some of the GCSE Chemistry tutors you could be matched with"
+tutors_heading: "Some of the private GCSE Chemistry tutors you could be matched with"
 tutors_intro: "You won't be left scrolling through hundreds of profiles on your own. We've met every tutor on our platform, and after your call we pick the two or three who know your child's exam board and who we think will get on best with them. Here are a few of them."
 tutor_names:
   - "Francis Isaac"
@@ -83,6 +83,9 @@ faq_items:
     a: "Just let us know and we'll find someone else, with no charge and no awkward conversation. It happens, and we'd much rather sort it than have your child sit through lessons that aren't working. It's also why you hear about two or three tutors before choosing, rather than being handed one."
   - q: "My child doesn't really want a tutor. Is that normal?"
     a: "Very normal, and it's probably the thing parents mention most. It usually changes once they meet the tutor, because one-to-one feels nothing like a class of thirty. That's why your child gets to meet the tutor on a free video call first. And if it's really not working after a couple of lessons, you simply stop."
+related_links:
+  - title: "Is GCSE Chemistry hard?"
+    url: "/gcse-options/chemistry/"
 sitemap:
   priority: 0.9
   changefreq: monthly

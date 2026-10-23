@@ -3,8 +3,8 @@
 # "location", rendered by layouts/partials/ads-subject-body.html). Not a level
 # plus a subject, so subject_label, book_subject and teaches_token are set here.
 # Tone: reassuring and chatty, the way we talk to parents on the phone.
-title: "Online Reading Coaches, Matched to Your Child | The Degree Gap"
-description: "Friendly one-to-one online reading coaching to build your child's confidence. Free consultation call, profiles within 24 hours, lessons from £37, no contract."
+title: "Private Reading Tutors and Coaches, Online | The Degree Gap"
+description: "Private one-to-one reading coaching, online, to build your child's confidence with books. Free consultation call, lessons from £37, no contract."
 layout: "single"
 design: "location"
 robots: "index, follow"
@@ -16,9 +16,9 @@ subject_label: "Reading"
 book_subject: "Reading coaching"
 
 # ───────────── HERO ─────────────
-hero_eyebrow: "READING COACHING · ONLINE, ACROSS THE UK"
-hero_h1: "Online Reading Coaches, Matched to Your Child"
-hero_lead: "Maybe the reading-age letter came home, or books have quietly disappeared from the evening. You're not alone, and it can be turned around. Book a free consultation call with our team so we can get to know your child, and within 24 hours of it you'll get profiles of two or three tutors we think would suit them. Pick the one that feels right, and lessons start from there."
+hero_eyebrow: "PRIVATE READING TUITION · ONLINE, ACROSS THE UK"
+hero_h1: "Private Reading Coaches, Matched to Your Child"
+hero_lead: "Maybe the reading-age letter came home, or books have quietly disappeared from the evening. You're not alone, and a private reading coach, working one-to-one, can help turn it around."
 meta_2: "Online using the platform Lessonspace, plus replay available"
 meta_3: "GCSE Tutoring Specialists of the Year 2025 & 2026"
 
@@ -30,7 +30,7 @@ card_points:
 
 # ───────────── TUTORS ─────────────
 tutors_eyebrow: "MEET SOME OF THE TUTORS"
-tutors_heading: "Some of the reading tutors you could be matched with"
+tutors_heading: "Some of the private reading tutors you could be matched with"
 tutors_intro: "You won't be left scrolling through hundreds of profiles, trying to guess who's good with a child who's gone off reading. We've met every tutor on our platform, and after your call we pick the two or three we think will get on best with your child. Here are a few of them."
 teaches_token: "11+ English"
 tutor_names:
@@ -81,6 +81,13 @@ faq_items:
     a: "Lessons start from £37 an hour. The exact price depends on the tutor, and we'll always agree it with you before anything is booked. There's no contract, no joining fee and nothing to pay upfront. You just pay for the lessons you have, and the first chat with us and the video meeting with your tutor are free."
   - q: "What if we don't click with the tutor?"
     a: "Just let us know and we'll find someone else, with no charge and no awkward conversation. It happens, and for a child who's gone off reading, liking the person they read with matters a lot. It's also why you hear from two or three tutors before choosing, rather than being handed one."
+related_links:
+  - title: "11+ tutoring"
+    url: "/subjects/11-plus-tutor/"
+  - title: "SEN and ADHD tutoring"
+    url: "/subjects/adhd-sen-tutor/"
+  - title: "GCSE English tutoring"
+    url: "/subjects/gcse-english-tutor/"
 sitemap:
   priority: 0.9
   changefreq: monthly

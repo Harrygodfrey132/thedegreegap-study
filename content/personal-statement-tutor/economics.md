@@ -20,6 +20,8 @@ related_pages:
     url: "/personal-statement-tutor/cambridge/"
   - title: "Mathematics Personal Statement Help"
     url: "/personal-statement-tutor/mathematics/"
+  - title: "A-Level Economics tutoring"
+    url: "/subjects/a-level-economics-tutor/"
 faqs:
   - q: "How maths-heavy is a UK Economics degree, and should my statement reflect that?"
     a: "Very. LSE, UCL, Warwick and Cambridge run quantitative courses where you'll meet real analysis, multivariable calculus and econometrics in first year. Your statement should show you can handle that, ideally by referencing Further Maths content or a TMUA preparation topic. A statement that only discusses Freakonomics signals you've not understood what a top UK Economics department actually teaches."
