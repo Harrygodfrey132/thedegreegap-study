@@ -19,7 +19,7 @@ online_2: "It widens the choice, too. The best tutor for your child's Edexcel A-
 online_image: "/images/online-study-workspace-with-coffee.jpg"
 map_url: "https://maps.google.com/maps?q=Milton+Keynes,UK&output=embed"
 areas_intro: "Not in Milton Keynes itself? Every lesson is online, so families in Aylesbury, Hemel Hempstead and the other towns below are matched in exactly the same way."
-area_links: ["Aylesbury Tutors|/locations/aylesbury-tutors/", "Oxford Tutors|/locations/oxford-tutors/", "Hemel Hempstead Tutors|/locations/hemel-hempstead-tutors/", "Cambridge Tutors|/locations/cambridge-tutors/", "Peterborough Tutors|/locations/peterborough-tutors/", "St Albans Tutors|/locations/st-albans-tutors/"]
+area_links: ["Aylesbury Tutors|/locations/aylesbury-tutors/", "Oxford Tutors|/locations/oxford-tutors/", "Hemel Hempstead Tutors|/locations/hemel-hempstead-tutors/", "Ampthill Tutors|/locations/ampthill-tutors/", "Leighton Buzzard Tutors|/locations/leighton-buzzard-tutors/", "St Albans Tutors|/locations/st-albans-tutors/"]
 gcse_subjects: [
   "GCSE Maths Tuition|From fractions to the longer problem-solving questions, pitched wherever your child happens to be right now.|/book-a-call/",
   "GCSE Chemistry Tuition|Reactions, formulae and the maths hiding inside Chemistry, explained until your child could teach it back.|/book-a-call/",

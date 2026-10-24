@@ -27,7 +27,7 @@ map_url: https://maps.google.com/maps?q=Norwich,UK&output=embed
 areas_intro: "Out in a Norfolk village or right in the middle of Norwich, your child's lessons work exactly the same way."
 area_links:
   - Cambridge Tutors|/locations/cambridge-tutors/
-  - Leeds Tutors|/locations/leeds-tutors/
+  - Bury St Edmunds Tutors|/locations/bury-st-edmunds-tutors/
   - Nottingham Tutors|/locations/nottingham-tutors/
   - Leicester Tutors|/locations/leicester-tutors/
   - Derby Tutors|/locations/derby-tutors/

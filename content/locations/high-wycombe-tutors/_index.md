@@ -28,10 +28,10 @@ areas_intro: "With every lesson online, a family in a Chiltern village is as eas
 area_links:
   - "Aylesbury Tutors|/locations/aylesbury-tutors/"
   - "Henley-on-Thames Tutors|/locations/henley-on-thames-tutors/"
-  - "Watford Tutors|/locations/watford-tutors/"
+  - "Great Missenden Tutors|/locations/great-missenden-tutors/"
   - "Reading Tutors|/locations/reading-tutors/"
   - "Oxford Tutors|/locations/oxford-tutors/"
-  - "Hemel Hempstead Tutors|/locations/hemel-hempstead-tutors/"
+  - "Princes Risborough Tutors|/locations/princes-risborough-tutors/"
 gcse_subjects:
   - "GCSE Maths Tuition|Algebra made solid now, because it's the part of GCSE that A-Level Maths, Physics and Chemistry lean on hardest later.|/book-a-call/"
   - "GCSE Biology Tuition|Processes like enzyme action and transport explained in full, linked sentences, the habit that eases the step up to A-Level Biology.|/book-a-call/"

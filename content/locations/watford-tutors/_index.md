@@ -35,7 +35,7 @@ area_links:
   - "St Albans Tutors|/locations/st-albans-tutors/"
   - "Aylesbury Tutors|/locations/aylesbury-tutors/"
   - "Reading Tutors|/locations/reading-tutors/"
-  - "Oxford Tutors|/locations/oxford-tutors/"
+  - "Borehamwood Tutors|/locations/borehamwood-tutors/"
 gcse_subjects:
   - "GCSE Maths Tuition|We find the method that never quite clicked, often from Year 8 or 9, and build up from there at your child's pace.|/book-a-call/"
   - "GCSE Biology Tuition|The six-mark answers and the practical questions, which is where a lot of Biology marks quietly slip away.|/book-a-call/"

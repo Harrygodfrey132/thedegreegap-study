@@ -29,9 +29,9 @@ area_links:
   - "Harpenden Tutors|/locations/harpenden-tutors/"
   - "St Albans Tutors|/locations/st-albans-tutors/"
   - "Hitchin Tutors|/locations/hitchin-tutors/"
-  - "Stevenage Tutors|/locations/stevenage-tutors/"
+  - "Leighton Buzzard Tutors|/locations/leighton-buzzard-tutors/"
   - "Hemel Hempstead Tutors|/locations/hemel-hempstead-tutors/"
-  - "Milton Keynes Tutors|/locations/milton-keynes-tutors/"
+  - "Ampthill Tutors|/locations/ampthill-tutors/"
 gcse_subjects:
   - "GCSE English Tuition|English Language is named in the sixth form college's entry rules, so the reading questions and the writing task both get real practice.|/book-a-call/"
   - "GCSE Physics Tuition|Rearranging equations and using them on questions your child hasn't seen before, which is where a lot of Physics marks go.|/book-a-call/"

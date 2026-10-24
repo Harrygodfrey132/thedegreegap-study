@@ -19,7 +19,7 @@ online_2: "It also widens the choice of tutor well beyond Hertfordshire, so we c
 online_image: "/images/student-studying-on-bed-with-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Potters+Bar,UK&output=embed"
 areas_intro: "Online lessons work just as well from South Mimms, Brookmans Park or Barnet as from the middle of Potters Bar, and we can help families in the towns below too."
-area_links: ["Barnet Tutors|/locations/barnet-tutors/", "Hatfield Tutors|/locations/hatfield-tutors/", "St Albans Tutors|/locations/st-albans-tutors/", "Welwyn Garden City Tutors|/locations/welwyn-garden-city-tutors/", "Bushey Tutors|/locations/bushey-tutors/", "Harrow Tutors|/locations/harrow-tutors/"]
+area_links: ["Barnet Tutors|/locations/barnet-tutors/", "Hatfield Tutors|/locations/hatfield-tutors/", "St Albans Tutors|/locations/st-albans-tutors/", "Welwyn Garden City Tutors|/locations/welwyn-garden-city-tutors/", "Bushey Tutors|/locations/bushey-tutors/", "Borehamwood Tutors|/locations/borehamwood-tutors/"]
 gcse_subjects: [
   "GCSE Chemistry Tuition|Bonding, moles and electrolysis, the topics that tend to get skipped in revision, given proper time.|/book-a-call/",
   "GCSE English Tuition|Unseen extracts, the writing task and the set texts your child's school has chosen, practised against the clock.|/book-a-call/",

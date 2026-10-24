@@ -31,7 +31,7 @@ area_links:
   - "Luton Tutors|/locations/luton-tutors/"
   - "Northampton Tutors|/locations/northampton-tutors/"
   - "Hitchin Tutors|/locations/hitchin-tutors/"
-  - "Cambridge Tutors|/locations/cambridge-tutors/"
+  - "Ampthill Tutors|/locations/ampthill-tutors/"
 gcse_subjects:
   - "GCSE History Tuition|Judging how useful a source really is, and writing a 16-mark answer that argues something rather than listing facts.|/book-a-call/"
   - "GCSE Physics Tuition|Rearranging equations without guessing, and catching the grams-instead-of-kilograms slip before it costs two marks.|/book-a-call/"

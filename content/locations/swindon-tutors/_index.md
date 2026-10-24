@@ -31,7 +31,7 @@ area_links:
   - "Oxford Tutors|/locations/oxford-tutors/"
   - "Bristol Tutors|/locations/bristol-tutors/"
   - "Reading Tutors|/locations/reading-tutors/"
-  - "Southampton Tutors|/locations/southampton-tutors/"
+  - "Marlborough Tutors|/locations/marlborough-tutors/"
 gcse_subjects:
   - "GCSE Maths Tuition|Mistakes traced back to where they began, often in Year 7 or 8 number work, and fixed at the root.|/book-a-call/"
   - "GCSE English Tuition|Language and Literature essays and reading questions, with a simple method your child can lean on in the exam.|/book-a-call/"

@@ -31,7 +31,7 @@ area_links:
   - "Norwich Tutors|/locations/norwich-tutors/"
   - "Oxford Tutors|/locations/oxford-tutors/"
   - "Reading Tutors|/locations/reading-tutors/"
-  - "Nottingham Tutors|/locations/nottingham-tutors/"
+  - "Bury St Edmunds Tutors|/locations/bury-st-edmunds-tutors/"
 gcse_subjects:
   - "GCSE Physics Tuition|Forces, energy and electricity, with lots of practice turning what your child understands into the marks a sixth form offer needs.|/book-a-call/"
   - "GCSE English Tuition|Clear, well-argued essays for Language and Literature, built up from your child's current grade, whether that's a 4 or a 6.|/book-a-call/"

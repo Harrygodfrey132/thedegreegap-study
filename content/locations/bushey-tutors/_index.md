@@ -19,7 +19,7 @@ online_2: "The lessons happen on a shared online whiteboard, with your child and
 online_image: "/images/student-studying-at-night-with-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Bushey,UK&output=embed"
 areas_intro: "Bushey borders Watford on one side and Harrow on the other, and you'll find our pages for both below, along with a few more towns close by."
-area_links: ["Watford Tutors|/locations/watford-tutors/", "Harrow Tutors|/locations/harrow-tutors/", "Rickmansworth Tutors|/locations/rickmansworth-tutors/", "Barnet Tutors|/locations/barnet-tutors/", "St Albans Tutors|/locations/st-albans-tutors/", "Potters Bar Tutors|/locations/potters-bar-tutors/"]
+area_links: ["Watford Tutors|/locations/watford-tutors/", "Harrow Tutors|/locations/harrow-tutors/", "Rickmansworth Tutors|/locations/rickmansworth-tutors/", "Barnet Tutors|/locations/barnet-tutors/", "Borehamwood Tutors|/locations/borehamwood-tutors/", "Potters Bar Tutors|/locations/potters-bar-tutors/"]
 gcse_subjects: [
   "GCSE Biology Tuition|Cells, genetics and ecology, with the key terms a mark scheme looks for and longer answers that explain rather than list.|/book-a-call/",
   "GCSE Maths Tuition|Your child's own course, in their school's own order, with any gap from Year 8 or 9 found first.|/book-a-call/",

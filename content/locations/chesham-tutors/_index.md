@@ -30,8 +30,8 @@ area_links:
   - "Rickmansworth Tutors|/locations/rickmansworth-tutors/"
   - "Watford Tutors|/locations/watford-tutors/"
   - "Hemel Hempstead Tutors|/locations/hemel-hempstead-tutors/"
-  - "St Albans Tutors|/locations/st-albans-tutors/"
-  - "Milton Keynes Tutors|/locations/milton-keynes-tutors/"
+  - "Princes Risborough Tutors|/locations/princes-risborough-tutors/"
+  - "Great Missenden Tutors|/locations/great-missenden-tutors/"
 gcse_subjects:
   - "GCSE Maths Tuition|Past papers used properly, with every mistake logged and revisited, so your child stops making the same slip twice.|/book-a-call/"
   - "GCSE English Tuition|Quotations learnt through frequent self-testing rather than a night of highlighting, plus essay plans that turn them into marks.|/book-a-call/"
