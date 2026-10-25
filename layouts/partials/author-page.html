@@ -1,0 +1,15 @@
+{{- /*
+  The founder page for an author name, or false when there isn't one.
+
+  Call with the name as it appears in an article's `author:` front matter:
+    {{ $ap := partial "author-page.html" .Params.author }}
+  It matches against `name:` on the pages in content/our-founders/, so adding
+  a third author page there is enough for every byline to start linking to it.
+*/ -}}
+{{- $found := false -}}
+{{- with site.GetPage "/our-founders" -}}
+  {{- range .RegularPages -}}
+    {{- if eq .Params.name $ -}}{{- $found = . -}}{{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $found -}}

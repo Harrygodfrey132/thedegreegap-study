@@ -73,6 +73,33 @@
   }
 }
 </script>
+{{ else if and (eq .Section "blog") .IsPage }}
+{{/* Blog posts: the author is linked to their page in content/our-founders/
+     when they have one, which is what ties the byline to the person. */}}
+{{ $ap := cond (isset .Params "author") (partial "author-page.html" .Params.author) false }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ .Title }},
+  "description": {{ $desc }},
+  "url": {{ .Permalink }},
+  "mainEntityOfPage": {{ .Permalink }},
+  {{ with .Params.hero_image }}"image": {{ (strings.TrimPrefix "/" .) | absURL }},{{ end }}
+  {{ if not .Date.IsZero }}"datePublished": {{ .Date.Format "2006-01-02" }},{{ end }}
+  {{ if not .Lastmod.IsZero }}"dateModified": {{ .Lastmod.Format "2006-01-02" }},{{ end }}
+  {{ with .Params.author }}"author": {
+    "@type": "Person",
+    "name": {{ . }}{{ if $ap }},
+    "url": {{ $ap.Permalink }}{{ end }}
+  },{{ end }}
+  "publisher": {
+    "@type": "Organization",
+    "name": "The Degree Gap",
+    "url": {{ .Site.Params.mainSiteURL }}
+  }
+}
+</script>
 {{ else if $isPersonalStatement }}
 <script type="application/ld+json">
 {

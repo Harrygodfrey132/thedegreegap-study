@@ -1,0 +1,20 @@
+{{- /*
+  An article's author for the byline: a small photo and the name, linked to
+  their founder page when there is one, otherwise the name in bold.
+  Call with the page: {{ partial "author-name.html" . }}
+*/ -}}
+{{- with .Params.author -}}
+  {{- $ap := partial "author-page.html" . -}}
+  {{- if $ap -}}
+    <a class="post-author-link" href="{{ $ap.RelPermalink }}" rel="author">
+      {{- with $ap.Params.avatar | default $ap.Params.photo -}}
+        {{- $img := resources.Get (strings.TrimPrefix "/" .) -}}
+        {{- with $img -}}{{- $thumb := .Fill "64x64 webp q80 Center" -}}
+        <img class="post-author-link__photo" src="{{ $thumb.RelPermalink }}" alt="" width="32" height="32" loading="eager" decoding="async">
+        {{- end -}}
+      {{- end -}}
+      <strong>{{ . }}</strong></a>
+  {{- else -}}
+    <strong>{{ . }}</strong>
+  {{- end -}}
+{{- end -}}

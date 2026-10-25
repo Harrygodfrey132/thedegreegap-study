@@ -30,7 +30,7 @@
     <h1 class="post-header__title">{{ .Params.h1 | default .Title }}</h1>
     {{ with .Params.lead }}<p class="post-header__lead">{{ . }}</p>{{ end }}
     <p class="post-header__byline">
-      {{ with .Params.author }}By&nbsp;<strong>{{ . }}</strong>{{ end }}
+      {{ with .Params.author }}By&nbsp;{{ end }}{{ partial "author-name.html" . }}
       {{ with .Params.author_role }}, {{ . }}{{ end }}
       {{ if not .Lastmod.IsZero }}<span class="post-header__byline-sep" aria-hidden="true">&middot;</span>Updated {{ .Lastmod.Format "2 January 2006" }}{{ end }}
       <span class="post-header__byline-sep" aria-hidden="true">&middot;</span>

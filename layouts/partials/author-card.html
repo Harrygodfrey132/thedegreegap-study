@@ -1,0 +1,30 @@
+{{- /*
+  "About the author" box for the foot of an article. Shown only when the
+  article's `author:` matches a page in content/our-founders/, and built from
+  that page's photo, role and card_bio, so a bio edit there reaches every post.
+  Call with the page: {{ partial "author-card.html" . }}
+*/ -}}
+{{- with .Params.author -}}
+{{- $ap := partial "author-page.html" . -}}
+{{- if $ap -}}
+{{- $first := $ap.Params.first_name | default $ap.Title -}}
+<aside class="post-author" aria-label="About the author">
+  {{- with $ap.Params.avatar | default $ap.Params.photo }}
+  <a class="post-author__photo" href="{{ $ap.RelPermalink }}" tabindex="-1" aria-hidden="true">
+    {{- with resources.Get (strings.TrimPrefix "/" .) }}{{ $img := .Fill "192x192 webp q80 Center" }}
+    <img src="{{ $img.RelPermalink }}" alt="" width="96" height="96" loading="lazy" decoding="async">
+    {{- end }}
+  </a>
+  {{- end }}
+  <div class="post-author__body">
+    <p class="post-author__eyebrow">About the author</p>
+    <p class="post-author__name"><a href="{{ $ap.RelPermalink }}" rel="author">{{ $ap.Params.name }}</a></p>
+    {{ with $ap.Params.role }}<p class="post-author__role">{{ . }}</p>{{ end }}
+    {{ with $ap.Params.card_bio }}<p class="post-author__bio">{{ . }}</p>{{ end }}
+    <a class="post-author__more" href="{{ $ap.RelPermalink }}">More about {{ $first }}
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+    </a>
+  </div>
+</aside>
+{{- end -}}
+{{- end -}}

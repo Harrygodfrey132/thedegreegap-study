@@ -21,8 +21,8 @@
     <p class="post-header__lead">{{ . }}</p>
     {{ end }}
     <p class="post-header__byline">
-      {{ with .Params.author }}<strong>{{ . }}</strong>{{ end }}
-      {{ with .Params.author_role }}, {{ . }}{{ end }}
+      {{ partial "author-name.html" . }}
+      {{ with .Params.author_role }}<span class="post-header__role">, {{ . }}</span>{{ end }}
       {{ if and .Params.author (not .Date.IsZero) }}<span class="post-header__byline-sep" aria-hidden="true">&middot;</span>{{ end }}
       {{ if not .Date.IsZero }}{{ .Date.Format "2 January 2006" }}{{ end }}
       <span class="post-header__byline-sep" aria-hidden="true">&middot;</span>
@@ -42,6 +42,7 @@
 
   <div class="post-body" data-sticky-form-show>
     {{ .Content }}
+    {{ partial "author-card.html" . }}
   </div>
 
   {{ with .Params.tags }}

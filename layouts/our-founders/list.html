@@ -1,0 +1,52 @@
+{{ define "styles" }}
+{{ $css := resources.Get "css/founders.css" | minify | fingerprint "sha256" }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}">
+{{ end }}
+
+{{ define "main" }}
+{{/* The founders hub. One card per page in content/our-founders/, in
+     `weight` order, each linking to the full page. */}}
+{{ $arrow := `<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>` | safeHTML }}
+
+<div class="fd-page">
+
+  <section class="fd-hub-hero">
+    <div class="fd-wrap">
+      <p class="fd-eyebrow">{{ .Params.eyebrow | default "Our founders" }}</p>
+      <h1 class="fd-name">{{ .Params.heading | default .Title }}</h1>
+      {{ with .Params.lead }}<p class="fd-hub-lead">{{ . }}</p>{{ end }}
+    </div>
+  </section>
+
+  <div class="fd-wrap">
+    <div class="fd-hub-grid">
+      {{ range .RegularPages.ByWeight }}
+      {{ $f := . }}
+      {{ $first := .Params.first_name | default .Title }}
+      <a class="fd-hub-card" href="{{ .RelPermalink }}">
+        {{ with .Params.photo }}
+        <div class="fd-portrait">
+          {{ partial "responsive-image.html" (dict "src" . "alt" ($f.Params.photo_alt | default "") "loading" "eager" "widths" (slice 420 760) "fallbackWidth" 760 "quality" 80 "sizes" "(min-width: 681px) 560px, calc(100vw - 32px)") }}
+        </div>
+        {{ end }}
+        <div class="fd-hub-card__body">
+          <h2 class="fd-hub-card__name">{{ .Params.name | default .Title }}</h2>
+          {{ with .Params.role_detail }}<p class="fd-hub-card__role">{{ . }}</p>{{ end }}
+          {{ with .Params.card_bio }}<p class="fd-hub-card__bio">{{ . }}</p>{{ end }}
+          <span class="fd-hub-card__go">More about {{ $first }} {{ $arrow }}</span>
+        </div>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+
+  <section class="fd-band">
+    <div class="fd-wrap">
+      <h2>Talk to one of us about your child</h2>
+      <p>A free call, usually about 30 minutes, with Harry or Joe. We get to know you and your child, then send 2 or 3 tutor profiles within 24 hours. Lessons from £37, no contract.</p>
+      <a class="fd-cta" href="{{ "book-a-call/" | relURL }}">Book a free call {{ $arrow }}</a>
+    </div>
+  </section>
+
+</div>
+{{ end }}
