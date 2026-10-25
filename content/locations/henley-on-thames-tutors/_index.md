@@ -19,7 +19,7 @@ online_2: "Every lesson happens on a shared whiteboard and is recorded, which he
 online_image: "/images/online-study-workspace-with-coffee.jpg"
 map_url: "https://maps.google.com/maps?q=Henley-on-Thames,UK&output=embed"
 areas_intro: "Over the bridge in Remenham or a couple of stops down the line in Shiplake and Wargrave, it makes no difference to online lessons, and we can help families in the towns below too."
-area_links: ["Marlow Tutors|/locations/marlow-tutors/", "Reading Tutors|/locations/reading-tutors/", "High Wycombe Tutors|/locations/high-wycombe-tutors/", "Beaconsfield Tutors|/locations/beaconsfield-tutors/", "Slough Tutors|/locations/slough-tutors/", "Abingdon Tutors|/locations/abingdon-tutors/"]
+area_links: ["Marlow Tutors|/locations/marlow-tutors/", "Reading Tutors|/locations/reading-tutors/", "High Wycombe Tutors|/locations/high-wycombe-tutors/", "Wokingham Tutors|/locations/wokingham-tutors/", "Slough Tutors|/locations/slough-tutors/", "Maidenhead Tutors|/locations/maidenhead-tutors/"]
 gcse_subjects: [
   "GCSE English Tuition|The Henley College names English Language in its entry rules, so reading unseen extracts and the writing task get proper time.|/book-a-call/",
   "GCSE Geography Tuition|The Thames on the doorstep helps with rivers, but case studies and data questions still need regular, timed practice.|/book-a-call/",

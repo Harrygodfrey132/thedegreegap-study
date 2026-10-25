@@ -19,7 +19,7 @@ online_2: "Each lesson is recorded, so your child can replay the ten minutes on 
 online_image: "/images/online-study-workspace-with-coffee.jpg"
 map_url: "https://maps.google.com/maps?q=Sunbury-on-Thames,UK&output=embed"
 areas_intro: "Whether you're in another corner of Spelthorne or one of the Surrey towns nearby, lessons happen at home in just the same way, and we can help families in the towns below too."
-area_links: ["Guildford Tutors|/locations/guildford-tutors/", "Epsom Tutors|/locations/epsom-tutors/", "London Tutors|/locations/london-tutors/", "Reading Tutors|/locations/reading-tutors/", "Winchester Tutors|/locations/winchester-tutors/", "Oxford Tutors|/locations/oxford-tutors/"]
+area_links: ["Guildford Tutors|/locations/guildford-tutors/", "Epsom Tutors|/locations/epsom-tutors/", "London Tutors|/locations/london-tutors/", "Reading Tutors|/locations/reading-tutors/", "Walton-on-Thames Tutors|/locations/walton-on-thames-tutors/", "Windsor Tutors|/locations/windsor-tutors/"]
 gcse_subjects: [
   "GCSE Maths Tuition|Longer problem-solving questions, practised under time until your child stops leaving the working half-finished.|/book-a-call/",
   "GCSE Biology Tuition|Six-mark answers that cover every point on the mark scheme, so nothing important gets left out when the clock's running.|/book-a-call/",

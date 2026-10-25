@@ -19,7 +19,7 @@ online_2: "The bigger reason is who your child gets. The tutor who really knows 
 online_image: "/images/online-study-workspace-with-coffee.jpg"
 map_url: "https://maps.google.com/maps?q=Northampton,UK&output=embed"
 areas_intro: "Lessons work the same wherever you are, in the middle of Northampton or further out across the East Midlands, and families in the towns below use the same tutors."
-area_links: ["Milton Keynes Tutors|/locations/milton-keynes-tutors/", "Leicester Tutors|/locations/leicester-tutors/", "Coventry Tutors|/locations/coventry-tutors/", "Banbury Tutors|/locations/banbury-tutors/", "Peterborough Tutors|/locations/peterborough-tutors/", "Warwick Tutors|/locations/warwick-tutors/"]
+area_links: ["Milton Keynes Tutors|/locations/milton-keynes-tutors/", "Leicester Tutors|/locations/leicester-tutors/", "Coventry Tutors|/locations/coventry-tutors/", "Banbury Tutors|/locations/banbury-tutors/", "Rugby Tutors|/locations/rugby-tutors/", "Warwick Tutors|/locations/warwick-tutors/"]
 gcse_subjects: [
   "GCSE Physics Tuition|The equations, unit slips and long problems at the back of the paper, worked through on screen with your child.|/book-a-call/",
   "GCSE English Tuition|Language and Literature taken as the two separate exams they are, since the marks go missing in different places.|/book-a-call/",

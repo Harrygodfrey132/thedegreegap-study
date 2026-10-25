@@ -1,0 +1,56 @@
+---
+title: "A-Level Chemistry Tutors for Leatherhead Students | The Degree Gap"
+nav_title: "Chemistry"
+description: "Is organic synthesis or a calculation chain costing your child marks? Online A-Level Chemistry tutors for Leatherhead sixth formers, on their board. From £37."
+layout: "level-subject"
+location: "Leatherhead"
+level: "A-Level"
+subject: "Chemistry"
+hero_h1: "Online A-Level Chemistry Tutors for Leatherhead Students Who Can't See the Synthesis Route"
+hero_lead: "Organic chemistry is where a lot of Year 13s hit a wall: dozens of reactions learnt one by one, then a question that wants three of them in a row. Our A-Level Chemistry tutors for Leatherhead students teach your child to see the route, not just the steps."
+angle_eyebrow: "OCR A, PAPER 3: UNIFIED CHEMISTRY"
+angle_heading: "Where an A-Level Chemistry Tutor Picks Up Marks for Leatherhead Students"
+angle_body_1: "Therfield's sixth form follows OCR Chemistry A, and its third paper, Unified Chemistry, mixes topics from across the course into an hour and a half. That paper exposes gaps fast. Multi-step synthesis is the big one, where your child knows each reaction but can't string them together. Curly-arrow mechanisms that start from the wrong atom come next, then calculation chains, moles into concentration into a final percentage, where one early slip wrecks the rest. Some students need a solid pass. Others are close to an A and losing it on two-mark explanations."
+angle_body_2: "So the tutor builds a reaction map with your child on the shared whiteboard, one they redraw from memory each week until the routes feel obvious. Calculations get set out the same way every time, so the method marks are safe even when the final answer isn't. It's useful well beyond the exam. Many Medicine, Pharmacy and Chemical Engineering courses ask for A-Level Chemistry, and Kingston University, a short drive from Leatherhead, teaches Pharmacy. KBR, the engineering company with its UK headquarters in town, is one place that kind of degree can lead."
+angle_image: "/images/chemistry-lab-glassware.jpg"
+angle_image_alt: "An A-Level Chemistry student mapping an organic synthesis route with an online tutor"
+angle_stat_from: "E"
+angle_stat_to: "B"
+angle_stat_detail: "“Has definitely helped me increase my grades from an E to a B…” Keira, A-Level Student, on Google. The review doesn't name a subject, so these may not be Chemistry grades."
+schools:
+  - "Therfield School"
+  - "St Andrew's Catholic School"
+  - "Howard of Effingham School"
+  - "St John's School Leatherhead"
+  - "City of London Freemen's School"
+steps_heading: "A-Level Chemistry lessons for your child in Leatherhead, step by step"
+steps_lead: "Tutor profiles normally follow within 24 hours of the call, so organic chemistry can get its own plan before the mocks."
+steps:
+  - title: "A free call about your child"
+    body: "Set aside half an hour for a call with Harry or Joe. We'll ask which board your child is on, whether organic or physical chemistry is the bigger worry and what grade their offer or plan needs."
+  - title: "Choose your tutor"
+    body: "You'll get two or three Chemistry tutor profiles within 24 hours, matched to your child's board and to the paper giving them most trouble. Your child has a free 15-minute video call with your choice before you book."
+  - title: "Weekly lessons"
+    body: "A weekly lesson on Lessonspace, with mechanisms drawn on the shared whiteboard and a recording to revise from. From £37 an hour, no contract, and another tutor at no charge if this one doesn't suit."
+faqs:
+  - q: "Which Chemistry course do Leatherhead sixth forms teach?"
+    a: "It varies, which is why we ask. For September 2027, Therfield's sixth form teaches OCR Chemistry A, with three papers and a separate practical endorsement. St Andrew's, the Howard and other sixth forms choose their own board, and AQA, OCR A, OCR B (Salters) and Edexcel all frame questions differently. Your child's teacher or a past paper will tell you, and we only suggest tutors who know that course."
+  - q: "How do I find out where my child is dropping Chemistry marks?"
+    a: "Go through a recent mock with your child and sort the lost marks into organic, physical and inorganic chemistry, then into calculations and written explanations. A pattern usually jumps out. If most of the losses are in multi-step questions, it's often about linking ideas rather than knowing them. A tutor does this in the first lesson and builds the plan from what it shows."
+  - q: "How much Chemistry homework will the tutor set?"
+    a: "An hour or an hour and a half a week is plenty for most students. Usually that's a short set of past paper questions on the topic from that lesson, plus redrawing a reaction map or a mechanism from memory. More than that tends to give diminishing returns, and Year 13s have other subjects to look after too. The tutor sets the work and goes through it at the start of the next lesson."
+  - q: "How do you know a tutor can really teach A-Level Chemistry?"
+    a: "Every applicant is interviewed by Harry or Joe, and around 3% are accepted onto the platform. Each one passes a subject test and explains a topic to us, an equilibrium calculation say, as if we were stuck on it. References are checked, and every tutor has at least two years of tutoring experience. Then we match on your child's board and the paper they find hardest."
+  - q: "We're on a budget. What's the least Chemistry tutoring that would help?"
+    a: "A short, targeted block often works best. Six to eight weekly lessons before the mocks, spent on whichever area is costing most, can be enough to steady things. After that, some families drop to a lesson every other week. Lessons start at £37 an hour with no contract, and we'll suggest a sensible plan on the free call, including when less would do."
+# FAQ picks: G05, A06, A09, E01, C04
+reviews:
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Kasia|Parent|Harry is a great tutor. He's very helpful and knowledgeable. He's git goid understanding of student's needs as well as current situation when it comes to university education in the UK. His experience and expertise helped my son make some decisions about choosing A level subject and university course. I highly recommend Harry and Degree Gap."
+  - "Raj|Parent of A-Level Student|Brilliant support and communication. We had the best tutor for history and sociology, Jacob, and this definitely influenced my son's amazing A level grades. Would not hesitate to recommend. …"
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

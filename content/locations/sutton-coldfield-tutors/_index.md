@@ -19,7 +19,7 @@ online_2: "Online, the choice of tutor gets wider as well. If your child is on O
 online_image: "/images/student-studying-on-bed-with-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Sutton+Coldfield,UK&output=embed"
 areas_intro: "Families in Sutton Coldfield, and in Birmingham, Wolverhampton and the other places below, all have lessons like this: online, from home, with a tutor picked for their child."
-area_links: ["Birmingham Tutors|/locations/birmingham-tutors/", "Coventry Tutors|/locations/coventry-tutors/", "Wolverhampton Tutors|/locations/wolverhampton-tutors/", "Royal Leamington Spa Tutors|/locations/royal-leamington-spa-tutors/", "Warwick Tutors|/locations/warwick-tutors/", "Stratford-upon-Avon Tutors|/locations/stratford-upon-avon-tutors/"]
+area_links: ["Birmingham Tutors|/locations/birmingham-tutors/", "Coventry Tutors|/locations/coventry-tutors/", "Wolverhampton Tutors|/locations/wolverhampton-tutors/", "Royal Leamington Spa Tutors|/locations/royal-leamington-spa-tutors/", "Nuneaton Tutors|/locations/nuneaton-tutors/", "Burntwood Tutors|/locations/burntwood-tutors/"]
 gcse_subjects: [
   "GCSE Maths Tuition|Fractions, negative numbers or Year 8 algebra, whichever one is quietly holding up the rest, gets fixed first.|/book-a-call/",
   "GCSE Chemistry Tuition|Back to atoms and formulas if that's where the confusion started, then forward to moles and the harder calculations.|/book-a-call/",

@@ -31,7 +31,7 @@ area_links:
   - Sheffield Tutors|/locations/sheffield-tutors/
   - Birmingham Tutors|/locations/birmingham-tutors/
   - Coventry Tutors|/locations/coventry-tutors/
-  - Leeds Tutors|/locations/leeds-tutors/
+  - Burton upon Trent Tutors|/locations/burton-upon-trent-tutors/
 gcse_subjects:
   - "GCSE Computer Science Tuition|Programming, algorithms and data, one-to-one, which is a handy head start in a city where so many careers are technical.|/book-a-call/"
   - "GCSE Maths Tuition|Gaps traced back to where they began and rebuilt, so your child goes into the exam with real foundations, not half-remembered steps.|/book-a-call/"

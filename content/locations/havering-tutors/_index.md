@@ -30,8 +30,8 @@ area_links:
   - "Basildon Tutors|/locations/basildon-tutors/"
   - "London Tutors|/locations/london-tutors/"
   - "Chelmsford Tutors|/locations/chelmsford-tutors/"
-  - "Southend-on-Sea Tutors|/locations/southend-on-sea-tutors/"
-  - "Colchester Tutors|/locations/colchester-tutors/"
+  - "Gravesend Tutors|/locations/gravesend-tutors/"
+  - "Buckhurst Hill Tutors|/locations/buckhurst-hill-tutors/"
 gcse_subjects:
   - "GCSE Computer Science Tuition|Trace tables, Boolean logic and the written programming questions, in a subject plenty of parents never took themselves.|/book-a-call/"
   - "GCSE English Tuition|Language and Literature, with the writing tasks marked line by line and the set texts made familiar.|/book-a-call/"

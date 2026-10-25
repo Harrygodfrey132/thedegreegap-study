@@ -31,7 +31,7 @@ area_links:
   - "Coventry Tutors|/locations/coventry-tutors/"
   - "Stratford-upon-Avon Tutors|/locations/stratford-upon-avon-tutors/"
   - "Birmingham Tutors|/locations/birmingham-tutors/"
-  - "Oxford Tutors|/locations/oxford-tutors/"
+  - "Rugby Tutors|/locations/rugby-tutors/"
 gcse_subjects:
   - "GCSE Maths Tuition|Fractions, negatives and early algebra tidied up in Year 9 or 10, before the harder GCSE topics are stacked on top.|/book-a-call/"
   - "GCSE Chemistry Tuition|The periodic table and bonding explained until they make sense, since so much of the later course leans on them.|/book-a-call/"

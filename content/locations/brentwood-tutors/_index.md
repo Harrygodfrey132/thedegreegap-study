@@ -30,7 +30,7 @@ area_links:
   - "Chelmsford Tutors|/locations/chelmsford-tutors/"
   - "Southend-on-Sea Tutors|/locations/southend-on-sea-tutors/"
   - "London Tutors|/locations/london-tutors/"
-  - "Colchester Tutors|/locations/colchester-tutors/"
+  - "Buckhurst Hill Tutors|/locations/buckhurst-hill-tutors/"
   - "Bishop's Stortford Tutors|/locations/bishops-stortford-tutors/"
 gcse_subjects:
   - "GCSE Chemistry Tuition|Moles, bonding and the calculations, worked on until the grade is strong enough for A-Level Chemistry if your child wants it.|/book-a-call/"

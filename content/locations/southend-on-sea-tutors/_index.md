@@ -19,7 +19,7 @@ online_2: "Online also widens who can teach your child. The person who properly 
 online_image: "/images/online-study-workspace-with-coffee.jpg"
 map_url: "https://maps.google.com/maps?q=Southend-on-Sea,UK&output=embed"
 areas_intro: "Because every session runs online, families in Southend-on-Sea and across south Essex work with the right subject specialist rather than the nearest one."
-area_links: ["Chelmsford Tutors|/locations/chelmsford-tutors/", "Colchester Tutors|/locations/colchester-tutors/", "London Tutors|/locations/london-tutors/", "Bromley Tutors|/locations/bromley-tutors/", "Maidstone Tutors|/locations/maidstone-tutors/", "Sevenoaks Tutors|/locations/sevenoaks-tutors/"]
+area_links: ["Chelmsford Tutors|/locations/chelmsford-tutors/", "Colchester Tutors|/locations/colchester-tutors/", "London Tutors|/locations/london-tutors/", "Bromley Tutors|/locations/bromley-tutors/", "Maidstone Tutors|/locations/maidstone-tutors/", "Gravesend Tutors|/locations/gravesend-tutors/"]
 gcse_subjects: [
   "GCSE English Tuition|Two papers with two different problems, and work aimed at the one actually costing the marks.|/book-a-call/",
   "GCSE Physics Tuition|Equation rearranging and the multi-step questions at the back of the paper, drilled until the method is automatic.|/book-a-call/",

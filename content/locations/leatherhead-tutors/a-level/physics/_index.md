@@ -1,0 +1,56 @@
+---
+title: "A-Level Physics Tutors for Leatherhead Students | The Degree Gap"
+nav_title: "Physics"
+description: "Is the maths in A-Level Physics slowing your child down? Online A-Level Physics tutors for Leatherhead sixth formers, matched to AQA, OCR or Edexcel. From £37."
+layout: "level-subject"
+location: "Leatherhead"
+level: "A-Level"
+subject: "Physics"
+hero_h1: "Online A-Level Physics Tutors for Leatherhead Students Whose Maths Holds Back Their Physics"
+hero_lead: "Lots of Year 12s follow the Physics in class, then lose the marks rearranging equations or reading a log graph. Our A-Level Physics tutors for Leatherhead students make that maths quick, so the Physics has room to show."
+angle_eyebrow: "MECHANICS IN YEAR 12, FIELDS IN YEAR 13"
+angle_heading: "What an A-Level Physics Tutor Checks First With a Leatherhead Sixth Former"
+angle_body_1: "Therfield's sixth form teaches AQA Physics: mechanics, materials and electricity in Year 12, then thermal physics, fields and nuclear physics in Year 13, with astrophysics as the option. The jump students feel is mathematical. Circular motion and gravitational fields need confident algebra and some trigonometry. Practical questions want uncertainties worked out and a straight-line graph drawn from awkward data. And the long explanations reward a chain of physical reasoning, not a remembered phrase. Some students are steadying a shaky Year 12, while others want an A* for an engineering offer."
+angle_body_2: "So the tutor works out early whether the trouble is the physics or the maths underneath it, because the fix is different. Lessons then pair one topic with timed exam questions and a short burst of maths practice, and your child keeps a running list of slips so the same one doesn't cost marks twice. There's plenty to aim at. Therfield lists a CERN trip among its sixth form opportunities, KBR's UK headquarters in Leatherhead employs engineers, and the University of Surrey, a direct train away in Guildford, teaches both physics and engineering."
+angle_image: "/images/physics-mechanics-force-diagram.jpg"
+angle_image_alt: "An A-Level Physics student drawing a force diagram with an online tutor"
+angle_stat_from: "E/U"
+angle_stat_to: "C"
+angle_stat_detail: "“…managing to turn E and U grades into 3 C grades.” Joanna, Parent of A-Level Student, on Google. The review doesn't say which subjects, so they may not include Physics."
+schools:
+  - "Therfield School"
+  - "St Andrew's Catholic School"
+  - "Howard of Effingham School"
+  - "St John's School Leatherhead"
+  - "City of London Freemen's School"
+steps_heading: "A-Level Physics lessons for Leatherhead sixth formers, from first call to first lesson"
+steps_lead: "Most families have profiles within a day of the call, so the maths can be sorted before the Year 13 content arrives."
+steps:
+  - title: "A free call about your child"
+    body: "A free call with Harry or Joe, usually about half an hour. We'll ask about the board, how confident your child is with the maths side, and whether engineering or a physics degree is on the cards."
+  - title: "Choose your tutor"
+    body: "Within 24 hours you'll see two or three Physics tutor profiles, all from tutors who know your child's board, several of them strong in Maths as well. Your child can then meet your pick on a free 15-minute video call."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, with derivations and graphs worked through on the shared whiteboard and a recording of each one. Prices start at £37 an hour, there's no contract, and if the first tutor isn't right we'll find another for free."
+faqs:
+  - q: "My child wants to be an engineer. Is a degree apprenticeship from Leatherhead realistic?"
+    a: "Yes, for plenty of students. Wates, with its head office by Leatherhead station, offers higher and degree apprenticeships from two A-Levels at grade D or above, and KBR, whose UK headquarters is in town, has run degree apprenticeships too. The engineering schemes at bigger firms are competitive and often ask for Maths and Physics, so check each one's requirements in Year 12. A tutor works on the grades, and Harry and Joe can help with the application."
+  - q: "Why is my child's Physics prediction lower than I expected?"
+    a: "Most often it's the gap between understanding Physics in a lesson and performing under time. Your child might follow every step when the teacher explains it, then lose marks in a mock on rearranging or on the long explanation questions. Predictions lean on those mocks. A tutor goes through a recent paper with your child, finds which kind of mark is going, and practises exactly that."
+  - q: "How many lessons does it usually take to see a difference in Physics?"
+    a: "Often around 8 to 12 weekly lessons for a clear shift, as long as your child practises between them. If the problem is exam technique, like setting out calculations or reading what a question wants, it can be quicker. If it's a maths gap from GCSE, it takes longer, because that has to be rebuilt first. The first lesson works out which it is, though nobody can promise a grade."
+  - q: "Who are the Physics tutors, and how much experience do they have?"
+    a: "They're graduates and university students, many from Russell Group universities, and some are qualified teachers, often with physics or engineering degrees. Every one has at least two years of tutoring experience and has been interviewed by Harry or Joe, who accept only about 3% of applicants. We'll suggest someone who knows your child's board and is comfortable with the maths A-Level Physics leans on."
+  - q: "Can I sit in on my child's Physics lesson?"
+    a: "Of course, and lots of parents do for the first lesson. After that, most step back, since teenagers often ask more questions when nobody's watching. You won't be in the dark, though. Every lesson is recorded, so you can see exactly what was covered, and you can ask the tutor or us how things are going whenever you like. If something's worrying you, tell us early."
+# FAQ picks: G04, A14, A01, E02, C06
+reviews:
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+  - "John|Parent of A-Level Student|Freddie really enjoyed his time with The Degree Gap. He got help with his three A levels (maths, computer science and business) and managed to get his number one choice attending Liverpool Uni to study a masters in Maths. The tutors were organised, supportive and spent time understanding where the knowledge gaps where to ensure best chance of success in exams! Highly recommended"
+  - "Abby|Parent of A-Level Student|Harry has tutored my son in both maths and economics A-levels and has been fantastic. Harry has been professional, approachable and engaging, he has explained things clearly and has fully supported my son through the last 2 years. We are absolutely delighted with the results. Thank you!"
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

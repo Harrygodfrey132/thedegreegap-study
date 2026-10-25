@@ -30,7 +30,7 @@ area_links:
   - "Potters Bar Tutors|/locations/potters-bar-tutors/"
   - "Hatfield Tutors|/locations/hatfield-tutors/"
   - "Welwyn Garden City Tutors|/locations/welwyn-garden-city-tutors/"
-  - "Harrow Tutors|/locations/harrow-tutors/"
+  - "Buckhurst Hill Tutors|/locations/buckhurst-hill-tutors/"
   - "London Tutors|/locations/london-tutors/"
 gcse_subjects:
   - "GCSE Physics Tuition|Equations rearranged on a shared screen, one line at a time, so your child sees exactly where the units slipped.|/book-a-call/"

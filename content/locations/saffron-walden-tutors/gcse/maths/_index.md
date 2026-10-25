@@ -1,0 +1,56 @@
+---
+title: "GCSE Maths Tutors for Saffron Walden Students | The Degree Gap"
+nav_title: "Maths"
+description: "Is your child stuck between Higher and Foundation in GCSE Maths? We match Saffron Walden students with an online GCSE Maths tutor on their exam board. From £37."
+layout: "level-subject"
+location: "Saffron Walden"
+level: "GCSE"
+subject: "Maths"
+hero_h1: "Online GCSE Maths Tutors for Saffron Walden Students With the Tier Decision Coming Up"
+hero_lead: "If your child's Maths teacher has mentioned tiers, you're probably wondering which paper they'll sit and whether it limits them. Our GCSE Maths tutors for Saffron Walden students work on the topics that decide it, well before the November mocks."
+angle_eyebrow: "HIGHER OR FOUNDATION, AFTER NOVEMBER"
+angle_heading: "How a GCSE Maths Tutor Helps Saffron Walden Students Before the Tier Is Settled"
+angle_body_1: "At Saffron Walden County High, GCSE Maths is Edexcel, and the department doesn't finalise tiers until after the Year 11 mocks in November. So those papers carry real weight. The marks that decide it are rarely on the first page. They sit further in: rearranging a formula, simultaneous equations, a ratio problem wrapped in three lines of text, a probability tree that needs fractions multiplied properly. Plenty of children can do each one in a lesson and still freeze when it turns up unannounced on a calculator paper. That's a habit still to build. It isn't proof your child can't do Maths."
+angle_body_2: "So the tutor starts with your child's latest test, marks it the way Edexcel would, and picks the question types costing the most. Lessons mix those with the number work underneath, because a shaky fraction from Year 8 can sink a long question halfway. It helps at both ends. A child hovering between tiers gets a stronger case for Higher, and a confident one may apply for the County High's Level 2 Further Maths course, which takes around 80 students who apply towards the end of Year 10. For 2026 entry, A-Level Maths there asked for a 7."
+angle_image: "/images/student-completing-maths-worksheet.jpg"
+angle_image_alt: "A GCSE Maths student rearranging a formula on a shared whiteboard with an online tutor"
+angle_stat_from: "4-5"
+angle_stat_to: "8"
+angle_stat_detail: "These grades were in GCSE Physics, not Maths: “My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8…” Chamarika, parent, on Trustpilot."
+schools:
+  - "Saffron Walden County High School"
+  - "Joyce Frankland Academy, Newport"
+  - "Linton Village College"
+  - "Helena Romanes School"
+  - "Felsted School"
+steps_heading: "Three steps to GCSE Maths tutoring for your Saffron Walden child"
+steps_lead: "Profiles usually reach you within 24 hours of the call, which leaves room for steady practice before the next round of mocks."
+steps:
+  - title: "A free call about your child"
+    body: "Expect a relaxed half-hour chat with Harry or Joe. We'll ask which tier your child is working towards, which papers have gone badly, and whether it's the non-calculator one that worries them. If you can, send a photo of the last test beforehand."
+  - title: "Choose your tutor"
+    body: "Within 24 hours you'll see two or three Maths tutor profiles, all familiar with Edexcel if that's your child's board. Before you book, your child gets a free 15-minute video call with whichever tutor you prefer."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, working through questions on a shared whiteboard, with a replay saved after every lesson. Some families add an extra hour in the fortnight before mocks. From £37 an hour, no contract, and a different tutor for free if they don't get on."
+faqs:
+  - q: "Which GCSE Maths grade opens up A-Level Maths for a Saffron Walden sixth former?"
+    a: "At the County High, for 2026 entry, A-Level Maths asked for a 7 in GCSE Maths and Further Maths asked for an 8, and Physics wanted a 7 in Maths too. Joyce Frankland and the Cambridge sixth form colleges set their own requirements, and the numbers can change each year, so check the current prospectus. If your child is in Year 10 now, there's time to work towards it steadily rather than in a rush."
+  - q: "How is the Higher or Foundation decision made, and can a tutor help?"
+    a: "At the County High, the Maths department doesn't finalise tiers until after the November mocks in Year 11, so those papers matter. Foundation leads to grades up to a 5, and Higher opens up everything above that. If your child is hovering between the two, the tutor works on the Higher topics that come up most, like simultaneous equations and rearranging formulas, and on accuracy through the middle of the paper. The school makes the final call, but the tutor's view of your child's papers gives you something concrete to talk about."
+  - q: "Is there a way to see which Maths topics are costing my child marks?"
+    a: "Look at where the marks drop off on a recent mock. On Edexcel papers the early questions are shorter and more direct, and they get longer and harder towards the end. If your child does well on the first page and then fades, it's often stamina and multi-step method rather than missing knowledge. If marks go astray all the way through, there's usually an older gap, often fractions or negative numbers. The first lesson maps this out from your child's own papers."
+  - q: "How do you check a tutor before they teach my child Maths?"
+    a: "Harry and Joe interview every tutor themselves, and only about 3% of the people who apply get onto the platform. We test subject knowledge, but we care just as much about how someone explains a method to a child who's lost confidence in it. Every tutor has at least two years of one-to-one tutoring behind them, and you'll see their background on their profile before you choose."
+  - q: "If we get in touch this week, when could GCSE Maths lessons begin?"
+    a: "Usually within a few days. The free call with Harry or Joe comes first, about 30 minutes, then two or three tutor profiles reach you within 24 hours. Your child has a free 15-minute video meeting with the one you like, and the first lesson goes in whenever suits you both. Mention on the call if the November mocks are close, and we'll move faster."
+# FAQ picks: G01, A12, A06, E01, C10
+reviews:
+  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. We opted for Avery and she was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back in her abilities and gave her the confidence to face Maths GCSE exams. Highly recommend Degree Gap and will be back again in September with my youngest embarking on her GCSEs"
+  - "Hermione|GCSE Student|Came here to search for a GCSE maths tutor and was recommended Rebecca Hanna by the very helpful Harry. Rebecca was nothing but helpful and comforting. I highly recommend her, especially since she helped me pass the GCSE! Thank you."
+  - "Nikola|iGCSE Student|The Degree Gap paired me with a great tutor for my igcse exams. Harry was eager and really knew his stuff about Maths. It was nice that i got a free trial call first, so i could see if it was a good match. Would highly recommend to a friend."
+  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents.\n\nUPDATE: My daughter passed both English and Maths GCSE (4 and 5's). We are extremely grateful to your team especially Avery for the support she gave her in both subjects. Considering she missed a large chunk of the last 3 years at school due to a social anxiety illness, this is an amazing achievement for her."
+  - "Isabel|Parent of iGCSE Student|Harry helped our son enormously with his maths and economics iGCSE prep. He was patient, fun and engaging - just what we needed. Highly recommended."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

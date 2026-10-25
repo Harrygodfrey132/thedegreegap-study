@@ -1,0 +1,57 @@
+---
+title: "A-Level Economics Tutors for Saffron Walden Students | The Degree Gap"
+nav_title: "Economics"
+description: "Is a paper of three long Eduqas essays worrying your child? We match Saffron Walden sixth formers with an online A-Level Economics tutor. From £37, no contract."
+layout: "level-subject"
+location: "Saffron Walden"
+level: "A-Level"
+subject: "Economics"
+hero_h1: "Online A-Level Economics Tutors for Saffron Walden Students Writing Essays Against the Clock"
+hero_lead: "Your child understands the economics, then runs out of time halfway through the last essay and loses marks they'd have earned. Our A-Level Economics tutors for Saffron Walden students teach a plan that reaches the evaluation in time."
+angle_eyebrow: "THREE ESSAYS, TWO AND A HALF HOURS"
+angle_heading: "Where an A-Level Economics Tutor Helps Saffron Walden Students on the Eduqas Papers"
+angle_body_1: "Economics at Saffron Walden County High is Eduqas, a smaller board than AQA or Edexcel, so fewer revision guides match it exactly. The final paper asks for three essays in two and a half hours: one on micro, one on macro and one on trade and development, each picked from a choice of two. The first paper opens with multiple choice, and the second is all data response, where the numbers need reading carefully. Marks rarely go on the theory. They go on analysis that never reaches a judgement, diagrams left unlabelled, and time spent unevenly across the three essays."
+angle_body_2: "So the tutor teaches a plan your child can use every time: the point, the diagram, then a judgement about how big the effect is and who loses out. Essays get timed in lessons until the pacing is habit. Good examples sit close to home. Stansted Airport's growth works for externalities and regional jobs, the new housing going up around Saffron Walden suits a question on housing markets, and the biotech firms at Chesterford Research Park help with labour markets. For 2026 entry the County High asked for a 6 in GCSE Maths for this course, and the data questions show why."
+angle_image: "/images/economics-equations-on-chalkboard.jpg"
+angle_image_alt: "An A-Level Economics student timing an essay plan on airport expansion with an online tutor"
+angle_stat_from: "E/U"
+angle_stat_to: "C"
+angle_stat_detail: "Joanna's son “had left studying until the final hour”, yet managed “to turn E and U grades into 3 C grades”, says Joanna's Google review, which doesn't name the subjects."
+schools:
+  - "Saffron Walden County High School"
+  - "Joyce Frankland Academy, Newport"
+  - "Hills Road Sixth Form College"
+  - "Long Road Sixth Form College"
+  - "Helena Romanes School"
+  - "Felsted School"
+steps_heading: "Getting started with A-Level Economics tutoring in Saffron Walden"
+steps_lead: "Tutor profiles normally follow within 24 hours of the call, giving your child time to practise timed essays before the next assessment."
+steps:
+  - title: "A free call about your child"
+    body: "Thirty minutes or so with Harry or Joe, at no cost. We'll ask about the exam board, whether micro or macro feels shakier, and whether timing or evaluation is the bigger problem. A marked essay is really useful."
+  - title: "Choose your tutor"
+    body: "Within 24 hours, two or three Economics tutors who know Eduqas, or your child's board if it's a different one. Your child gets to meet your pick first, on a free 15-minute video call."
+  - title: "Weekly lessons"
+    body: "A weekly lesson on Lessonspace, with diagrams drawn on a shared whiteboard, essays marked against the mark scheme and a replay of each session. From £37 an hour, no contract, and a new tutor for free if the first isn't right."
+faqs:
+  - q: "What's hardest about Eduqas A-Level Economics for Saffron Walden students?"
+    a: "Usually the third paper. It asks for three essays in two and a half hours, one each on microeconomics, macroeconomics and trade and development, so your child needs to be ready across the whole course and disciplined with time. Many students write strong analysis and then run out of minutes before the evaluation, which is where a lot of the marks sit. A tutor practises timed essay plans until the pacing comes naturally."
+  - q: "Why is my child's predicted Economics grade lower than we'd hoped?"
+    a: "Most often it's timed performance rather than understanding. Predictions draw on tests and internal exams, like the County High's end-of-Year-12 exams, and plenty of students who follow every lesson write thinner answers once the clock is running. A tutor reads recent marked work to see whether the problem is evaluation, diagrams or timing, then works on that one thing week by week."
+  - q: "How do I know whether my child needs Economics tutoring or simply more revision?"
+    a: "Look at a recent marked essay. If the content is right but the marks stop at analysis, that's technique, and a tutor usually fixes it faster than revising alone. If whole topics are missing, more revision may be enough at first. And if your child is already scoring well on timed papers, a few targeted lessons might be all they need. We'll tell you honestly which it looks like on the call."
+  - q: "What makes The Degree Gap a good fit for A-Level Economics?"
+    a: "Economics is close to home for us. Harry and Joe both had A-Level Economics tutoring as teenagers, beat the grades they were predicted, and know first-hand how much the right tutor matters. After school, Harry read Economics at the LSE. Every Economics tutor on the platform has been interviewed by one of them, and has at least two years of tutoring experience."
+  - q: "Can we pause Economics tutoring if Year 13 gets too busy?"
+    a: "Yes. There's no contract, so you can pause with a day or two's notice before the next lesson and pick up again when things calm down. Each lesson is paid for as you go, with nothing upfront, and stopping costs nothing. Some families pause during mock weeks and add an extra lesson afterwards to go through the papers."
+# FAQ picks: G05, A14, A10, E04, C09
+reviews:
+  - "Binh|A-Level Student|I was very fortunate enough to encounter Harry during my time taking A level economics. I really struggled a lot with long 30 marked essays as well as evaluation and learning the graphs as for at the time it was really hard and I didn’t understand. However the way how Harry taught me was super simple compared to other teachers from school. I really enjoyed my time when Harry taught me and I would highly recommend it to people!"
+  - "Cat|Parent of A-Level Student|My 18 year old son had A-level Economics tutoring with Harry.  He was excellent, knew exactly what he needed to learn and was able to explain in terms which made it simple to understand.  The online platform was convenient and easy to use."
+  - "Sarom|Parent of A-Level Student|Harry has been very helpful in tutoring my son for his economics A Level. He has lots of patience, keeps lessons interesting and is a good motivator. Needless to say his subject matter is expertise is excellent."
+  - "Matthew|A-Level Student|My tutor was very helpful leading to the result that I wanted, giving helpful tips and techniques to get the most out of my Economics. I used Sayyeda-Zainab Rajabali for A Level Economics and she was always very helpful and taught at a high level."
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

@@ -19,7 +19,7 @@ online_2: "Sessions run on Lessonspace, the shared whiteboard every lesson uses,
 online_image: "/images/student-studying-at-night-with-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Plymouth,UK&output=embed"
 areas_intro: "Our tutors cover Plymouth and a good stretch of the South West beyond it, and because nobody has to travel, the same network is open to all of it."
-area_links: ["Exeter Tutors|/locations/exeter-tutors/", "Bristol Tutors|/locations/bristol-tutors/", "Bath Tutors|/locations/bath-tutors/", "Bournemouth Tutors|/locations/bournemouth-tutors/", "Cheltenham Tutors|/locations/cheltenham-tutors/", "Southampton Tutors|/locations/southampton-tutors/"]
+area_links: ["Exeter Tutors|/locations/exeter-tutors/", "Bristol Tutors|/locations/bristol-tutors/", "Bath Tutors|/locations/bath-tutors/", "Bournemouth Tutors|/locations/bournemouth-tutors/", "Taunton Tutors|/locations/taunton-tutors/", "Southampton Tutors|/locations/southampton-tutors/"]
 gcse_subjects: [
   "GCSE English Tuition|Language and Literature pulled apart and taught separately, because they lose marks for completely different reasons.|/book-a-call/",
   "GCSE Physics Tuition|Equation work and the multi-step questions where a sound method still loses marks on units.|/book-a-call/",

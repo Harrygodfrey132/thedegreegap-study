@@ -19,7 +19,7 @@ online_2: "Every lesson is recorded, so the explanation of simultaneous equation
 online_image: "/images/child-using-online-learning-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Kenilworth,UK&output=embed"
 areas_intro: "Whether home is Leek Wootton, Stoneleigh or a road off Abbey Fields, the lessons are online, so your postcode doesn't narrow down the tutors. That's true for the towns below as well."
-area_links: ["Warwick Tutors|/locations/warwick-tutors/", "Royal Leamington Spa Tutors|/locations/royal-leamington-spa-tutors/", "Coventry Tutors|/locations/coventry-tutors/", "Solihull Tutors|/locations/solihull-tutors/", "Stratford-upon-Avon Tutors|/locations/stratford-upon-avon-tutors/", "Birmingham Tutors|/locations/birmingham-tutors/"]
+area_links: ["Warwick Tutors|/locations/warwick-tutors/", "Royal Leamington Spa Tutors|/locations/royal-leamington-spa-tutors/", "Coventry Tutors|/locations/coventry-tutors/", "Solihull Tutors|/locations/solihull-tutors/", "Stratford-upon-Avon Tutors|/locations/stratford-upon-avon-tutors/", "Rugby Tutors|/locations/rugby-tutors/"]
 gcse_subjects: [
   "GCSE Geography Tuition|Case studies your child can actually recall in the exam hall, and data questions where a calm method earns the marks.|/book-a-call/",
   "GCSE Maths Tuition|We go back to the topic where the wobble began, often in Year 8, then forward through algebra and the non-calculator paper.|/book-a-call/",

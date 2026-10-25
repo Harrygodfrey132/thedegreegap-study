@@ -19,7 +19,7 @@ online_2: "Online also means a much bigger pool of tutors. The one who knows the
 online_image: "/images/child-using-online-learning-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Bishop%27s+Stortford,UK&output=embed"
 areas_intro: "Lessons are all online, so it's the same for families in Bishop's Stortford, Sawbridgeworth, Stansted Mountfitchet and the villages over the Essex border as it is for the towns below."
-area_links: ["Stevenage Tutors|/locations/stevenage-tutors/", "Chelmsford Tutors|/locations/chelmsford-tutors/", "Welwyn Garden City Tutors|/locations/welwyn-garden-city-tutors/", "Baldock Tutors|/locations/baldock-tutors/", "Hatfield Tutors|/locations/hatfield-tutors/", "Cambridge Tutors|/locations/cambridge-tutors/"]
+area_links: ["Stevenage Tutors|/locations/stevenage-tutors/", "Chelmsford Tutors|/locations/chelmsford-tutors/", "Welwyn Garden City Tutors|/locations/welwyn-garden-city-tutors/", "Hertford Tutors|/locations/hertford-tutors/", "Saffron Walden Tutors|/locations/saffron-walden-tutors/", "Cambridge Tutors|/locations/cambridge-tutors/"]
 gcse_subjects: [
   "GCSE Maths Tuition|The one grade every sixth form checks on its own, rebuilt from wherever your child's method first went missing.|/book-a-call/",
   "GCSE English Tuition|Two separate grades, Language and Literature, each practised against its own paper and its own clock.|/book-a-call/",

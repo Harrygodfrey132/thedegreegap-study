@@ -19,7 +19,7 @@ online_2: "There's no car involved either, so a weekly lesson fits into a school
 online_image: "/images/child-using-online-learning-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Tamworth,UK&output=embed"
 areas_intro: "Lessons work exactly the same anywhere in south Staffordshire or out on the north Birmingham edge, and we can help families in these nearby towns too."
-area_links: ["Sutton Coldfield Tutors|/locations/sutton-coldfield-tutors/", "Birmingham Tutors|/locations/birmingham-tutors/", "Solihull Tutors|/locations/solihull-tutors/", "Coventry Tutors|/locations/coventry-tutors/", "Derby Tutors|/locations/derby-tutors/", "Wolverhampton Tutors|/locations/wolverhampton-tutors/"]
+area_links: ["Sutton Coldfield Tutors|/locations/sutton-coldfield-tutors/", "Birmingham Tutors|/locations/birmingham-tutors/", "Nuneaton Tutors|/locations/nuneaton-tutors/", "Coventry Tutors|/locations/coventry-tutors/", "Burton upon Trent Tutors|/locations/burton-upon-trent-tutors/", "Burntwood Tutors|/locations/burntwood-tutors/"]
 gcse_subjects: [
   "GCSE Maths Tuition|Often the highest bar at sixth form, so shaky topics from earlier years get mended while there's time.|/book-a-call/",
   "GCSE English Tuition|Essays planned before the writing starts, and quotations that stay put, begun in Year 10 while the pressure's low.|/book-a-call/",

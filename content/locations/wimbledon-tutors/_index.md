@@ -31,7 +31,7 @@ area_links:
   - "London Tutors|/locations/london-tutors/"
   - "Epsom Tutors|/locations/epsom-tutors/"
   - "Croydon Tutors|/locations/croydon-tutors/"
-  - "Esher Tutors|/locations/esher-tutors/"
+  - "Tooting Tutors|/locations/tooting-tutors/"
 gcse_subjects:
   - "GCSE Chemistry Tuition|Moles, bonding and the required practicals, explained again from the start for a child who's quietly given up on Chemistry.|/book-a-call/"
   - "GCSE English Tuition|Unseen poetry and the Language writing task, with a plan your child can trust once the timer starts.|/book-a-call/"

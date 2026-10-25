@@ -31,7 +31,7 @@ area_links:
   - "Sutton Tutors|/locations/sutton-tutors/"
   - "Kingston upon Thames Tutors|/locations/kingston-upon-thames-tutors/"
   - "Bromley Tutors|/locations/bromley-tutors/"
-  - "Hounslow Tutors|/locations/hounslow-tutors/"
+  - "Tooting Tutors|/locations/tooting-tutors/"
 gcse_subjects:
   - "GCSE Chemistry Tuition|Moles, bonding and the required practicals, set out on the whiteboard one line at a time so the method sticks.|/book-a-call/"
   - "GCSE History Tuition|Source questions and the long essays, with a plan your child can finish before the invigilator calls time.|/book-a-call/"

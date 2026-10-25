@@ -29,7 +29,7 @@ area_links:
   - "Cirencester Tutors|/locations/cirencester-tutors/"
   - "Didcot Tutors|/locations/didcot-tutors/"
   - "Oxford Tutors|/locations/oxford-tutors/"
-  - "Bristol Tutors|/locations/bristol-tutors/"
+  - "Newbury Tutors|/locations/newbury-tutors/"
   - "Reading Tutors|/locations/reading-tutors/"
   - "Marlborough Tutors|/locations/marlborough-tutors/"
 gcse_subjects:

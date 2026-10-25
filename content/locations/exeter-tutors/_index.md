@@ -31,7 +31,7 @@ area_links:
   - Portsmouth Tutors|/locations/portsmouth-tutors/
   - Swindon Tutors|/locations/swindon-tutors/
   - Reading Tutors|/locations/reading-tutors/
-  - Brighton Tutors|/locations/brighton-tutors/
+  - Taunton Tutors|/locations/taunton-tutors/
 gcse_subjects:
   - "GCSE English Tuition|Essays built around one clear argument, which helps the GCSE grade now and any essay subject your child picks for A-Level.|/book-a-call/"
   - "GCSE Maths Tuition|Solid algebra now, since A-Level Maths, Physics and Economics all lean on it.|/book-a-call/"

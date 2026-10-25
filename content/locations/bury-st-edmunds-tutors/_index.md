@@ -31,7 +31,7 @@ area_links:
   - "Colchester Tutors|/locations/colchester-tutors/"
   - "Norwich Tutors|/locations/norwich-tutors/"
   - "Bishop's Stortford Tutors|/locations/bishops-stortford-tutors/"
-  - "Chelmsford Tutors|/locations/chelmsford-tutors/"
+  - "Saffron Walden Tutors|/locations/saffron-walden-tutors/"
 gcse_subjects:
   - "GCSE Chemistry Tuition|Balancing equations and mole calculations, taken slowly, for a child whose Combined Science grade is one short of 6-6.|/book-a-call/"
   - "GCSE French Tuition|Vocabulary that sticks and regular speaking practice out loud, so the oral exam stops being the part your child dreads.|/book-a-call/"

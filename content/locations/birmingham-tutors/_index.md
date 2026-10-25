@@ -30,8 +30,8 @@ area_links:
   - Derby Tutors|/locations/derby-tutors/
   - Leicester Tutors|/locations/leicester-tutors/
   - Nottingham Tutors|/locations/nottingham-tutors/
-  - Manchester Tutors|/locations/manchester-tutors/
-  - Sheffield Tutors|/locations/sheffield-tutors/
+  - Nuneaton Tutors|/locations/nuneaton-tutors/
+  - Burntwood Tutors|/locations/burntwood-tutors/
 gcse_subjects:
   - "GCSE Biology Tuition|Cells, genetics and ecology broken down one-to-one, with exam technique practised alongside the content so your child can use what they know.|/book-a-call/"
   - "GCSE Chemistry Tuition|Bonding, rates and chemical calculations, taken steadily so the harder Year 11 topics have something solid to build on.|/book-a-call/"

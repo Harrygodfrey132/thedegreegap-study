@@ -1,0 +1,57 @@
+---
+title: "A-Level Maths Tutors for Saffron Walden Students | The Degree Gap"
+nav_title: "Maths"
+description: "Is A-Level Maths on the MEI course leaving your child stuck? We match Saffron Walden sixth formers with an online A-Level Maths tutor who knows MEI. From £37."
+layout: "level-subject"
+location: "Saffron Walden"
+level: "A-Level"
+subject: "Maths"
+hero_h1: "Online A-Level Maths Tutors for Saffron Walden Students on the OCR MEI Course"
+hero_lead: "Your child sailed through GCSE Maths, and now Year 12 homework takes all evening and still comes back covered in red. Our A-Level Maths tutors for Saffron Walden students start with the algebra underneath and work up to the multi-step questions the papers are built on."
+angle_eyebrow: "MATHS WITH A COMPREHENSION PAPER"
+angle_heading: "What an A-Level Maths Tutor Brings to Saffron Walden Students Sitting MEI"
+angle_body_1: "Sixth formers at Saffron Walden County High take A-Level Maths on OCR's MEI course, which differs in places from the courses many revision videos follow. Every paper includes Pure: one pairs it with Mechanics, one with Statistics, and the third with a comprehension section built around a short mathematical article. The jump from GCSE shows up fast. Algebraic fractions and indices need to be automatic, proofs have to be written out in full, and calculus questions no longer say which method to use. A strong GCSE grade doesn't make that step feel smaller. For 2026 entry, the County High asked for a 7."
+angle_body_2: "So the tutor starts with a recent test and the algebra behind it, because slow manipulation costs time on every page. Then come MEI-style questions, including practice at reading a mathematical argument and answering questions about it, which is what the comprehension section rewards. The school asks A-Level students to use a Casio fx-991 CW, and the tutor shows what it can safely check without your child leaning on it. Maths leads to a lot from here: engineering and computing degrees, data roles in the biotech firms at Chesterford Research Park, or a finance apprenticeship in London."
+angle_image: "/images/maths-equations-close-up.jpg"
+angle_image_alt: "An A-Level Maths student working through a calculus proof with an online tutor"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "“Degree Gap helped my kid go from Cs to As.” Alexander, a parent, wrote this on Google without naming the subjects."
+schools:
+  - "Saffron Walden County High School"
+  - "Joyce Frankland Academy, Newport"
+  - "Hills Road Sixth Form College"
+  - "Long Road Sixth Form College"
+  - "Helena Romanes School"
+  - "Felsted School"
+steps_heading: "Getting your Saffron Walden sixth former started with an MEI Maths tutor"
+steps_lead: "Profiles arrive within 24 hours of the call, so the gaps left over from GCSE can be closed well before the end-of-Year-12 exams."
+steps:
+  - title: "A free call about your child"
+    body: "Half an hour or so with Harry or Joe about the board, the topics that have gone wrong and how your child feels about Maths right now. A marked test or homework tells us a great deal."
+  - title: "Choose your tutor"
+    body: "Two or three profiles within a day, all from tutors who know OCR MEI if that's your child's course, then a free 15-minute video call with whichever one you both like."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, with every line of working on a shared whiteboard and a replay afterwards. Some sixth formers prefer 90 minutes to an hour. From £37 an hour depending on the tutor, no contract to sign, and a free switch if the match isn't right."
+faqs:
+  - q: "Which part of A-Level Maths do Saffron Walden students find hardest on the MEI course?"
+    a: "Often it's the questions that don't look like the examples. MEI's comprehension section asks your child to read a short piece of mathematics and answer questions on it, which nothing at GCSE prepares them for. Proof and the longer calculus questions are the other usual sticking points, along with Mechanics for students who don't take Physics. A tutor who knows MEI practises those styles directly rather than generic exercises."
+  - q: "My child is in Year 12 at the County High. Is now the time for A-Level Maths help, or should we wait?"
+    a: "Year 12 is the most common start, and usually the most useful. The gap from GCSE is easiest to close in the first term, before Year 13 content builds on it, and the County High's internal exams at the end of Year 12 tend to feed into predicted grades. A Year 13 start still pays off, above all in the run-up to mocks. After Christmas of Year 13, the focus shifts to past papers and timing."
+  - q: "Could my child have 90-minute Maths lessons instead of an hour?"
+    a: "Yes. Most lessons are an hour, but plenty of sixth formers choose 90 minutes for Maths. The longer lesson leaves room to work a full multi-part question properly and still go over the homework. We'll settle it on the call, and it's easy to switch later. You agree the times with the tutor, so lessons can fit around the bus home or a weekend job."
+  - q: "How do you choose which tutors can teach A-Level Maths?"
+    a: "Carefully. Harry and Joe interview every tutor personally, and only about 3% of applicants are accepted onto the platform. For A-Level Maths we look for real fluency in the content and the patience to explain one method three different ways. Every tutor has at least two years of tutoring experience, and their degree and background are on their profile for you to see."
+  - q: "Is A-Level Maths tutoring good value if my child is only a little behind?"
+    a: "Sometimes a short burst is enough, and we'll say so on the call. If your child's grades are well below what their university or apprenticeship plans need, closing that gap can change what they're able to apply for. If they're nearly there and want reassurance, a block of lessons before the exams may be plenty. Lessons start at £37 an hour, and nothing ties you in."
+# FAQ picks: G05, A05, A15, E01, C03
+reviews:
+  - "Abby|Parent of A-Level Student|Harry has tutored my son in both maths and economics A-levels and has been fantastic. Harry has been professional, approachable and engaging, he has explained things clearly and has fully supported my son through the last 2 years. We are absolutely delighted with the results. Thank you!"
+  - "John|Parent of A-Level Student|Freddie really enjoyed his time with The Degree Gap. He got help with his three A levels (maths, computer science and business) and managed to get his number one choice attending Liverpool Uni to study a masters in Maths. The tutors were organised, supportive and spent time understanding where the knowledge gaps where to ensure best chance of success in exams! Highly recommended"
+  - "Marfa|Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university"
+  - "Leo|Student|The time I have spent with my tutor here has  really valuable.  He has helped so much with a range of topics across economics and maths. He explains things really clearly and makes the sessions enjoyable."
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

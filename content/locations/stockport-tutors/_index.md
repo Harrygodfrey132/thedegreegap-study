@@ -19,7 +19,7 @@ online_2: "So when we match, distance doesn't come into it. Say your child needs
 online_image: "/images/online-study-workspace-with-coffee.jpg"
 map_url: "https://maps.google.com/maps?q=Stockport,UK&output=embed"
 areas_intro: "Being online means a Stockport family gets the same choice of tutors as one in Manchester or Sheffield, matched on subject and exam board rather than postcode."
-area_links: ["Manchester Tutors|/locations/manchester-tutors/", "Bolton Tutors|/locations/bolton-tutors/", "Altrincham Tutors|/locations/altrincham-tutors/", "Sheffield Tutors|/locations/sheffield-tutors/", "Chester Tutors|/locations/chester-tutors/", "Wigan Tutors|/locations/wigan-tutors/"]
+area_links: ["Manchester Tutors|/locations/manchester-tutors/", "Bolton Tutors|/locations/bolton-tutors/", "Altrincham Tutors|/locations/altrincham-tutors/", "Sheffield Tutors|/locations/sheffield-tutors/", "Rochdale Tutors|/locations/rochdale-tutors/", "Wigan Tutors|/locations/wigan-tutors/"]
 gcse_subjects:
   - "GCSE Chemistry Tuition|Moles, equations and rates, written out step by step. If your child takes Combined Science, it counts as two GCSEs on a college form.|/book-a-call/"
   - "GCSE English Tuition|Timed essays for Language and Literature, two different exams, practised until the prediction stops wobbling.|/book-a-call/"

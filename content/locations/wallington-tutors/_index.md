@@ -30,7 +30,7 @@ area_links:
   - "Croydon Tutors|/locations/croydon-tutors/"
   - "Epsom Tutors|/locations/epsom-tutors/"
   - "Kingston upon Thames Tutors|/locations/kingston-upon-thames-tutors/"
-  - "Bromley Tutors|/locations/bromley-tutors/"
+  - "Tooting Tutors|/locations/tooting-tutors/"
   - "London Tutors|/locations/london-tutors/"
 gcse_subjects:
   - "GCSE Chemistry Tuition|Mole calculations set out one line at a time, so a slip costs a single mark rather than the whole question.|/book-a-call/"

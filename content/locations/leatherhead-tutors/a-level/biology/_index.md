@@ -1,0 +1,56 @@
+---
+title: "A-Level Biology Tutors for Leatherhead Students | The Degree Gap"
+nav_title: "Biology"
+description: "Losing A-Level Biology marks on long answers and practicals? Online A-Level Biology tutors for Leatherhead sixth formers, on your child's own board. From £37."
+layout: "level-subject"
+location: "Leatherhead"
+level: "A-Level"
+subject: "Biology"
+hero_h1: "Online A-Level Biology Tutors for Leatherhead Students Who Know the Facts but Lose the Long Answers"
+hero_lead: "Your child has learnt the content, yet the long answers keep coming back half-marked with 'link to the question' in the margin. Our A-Level Biology tutors for Leatherhead students show them how to join topics up and write what the mark scheme wants."
+angle_eyebrow: "TWO AND A HALF HOURS OF PRACTICAL PRINCIPLES"
+angle_heading: "Where an A-Level Biology Tutor Joins Up the Topics for Leatherhead Sixth Formers"
+angle_body_1: "Therfield's sixth form teaches Edexcel Biology B, where the third paper, on general and practical principles, runs to two and a half hours and carries 40% of the A-Level. It pulls from both years at once. That's what catches students out: a question on gas exchange that expects genetics or ecology in the answer, or a practical write-up that needs a statistical test chosen and justified. Biochemistry is the other big drain, because respiration and photosynthesis need exact detail. Plenty of students revise each topic in its own box. The exam doesn't work that way."
+angle_body_2: "So the tutor works across topics from early on, asking your child to explain out loud how one idea leans on another, then to write it down. Practical questions get as much time as content, with the statistics done until they're routine. For many, the target is a degree place. The University of Surrey in Guildford, a direct train from Leatherhead via Bookham, teaches biological sciences and veterinary medicine, and Epsom Hospital is a few miles up the road for anyone curious about NHS careers."
+angle_image: "/images/fluorescent-cells-under-microscope.jpg"
+angle_image_alt: "An A-Level Biology student working through a respiration pathway with an online tutor"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "“Degree Gap helped my kid go from Cs to As.” Alexander, Parent, on Google. The review doesn't say which subjects, so these may not be Biology grades."
+schools:
+  - "Therfield School"
+  - "St Andrew's Catholic School"
+  - "Howard of Effingham School"
+  - "St John's School Leatherhead"
+  - "City of London Freemen's School"
+steps_heading: "A-Level Biology tutoring for your child in Leatherhead: three steps"
+steps_lead: "Tutor profiles usually arrive within a day of the call, so there's time to work on long answers before the mocks."
+steps:
+  - title: "A free call about your child"
+    body: "A free half-hour with Harry or Joe, at a time you pick. We'll ask which board your child sits, which topics feel shakiest and whether Medicine, vet science or another course is in mind."
+  - title: "Choose your tutor"
+    body: "Two or three Biology tutor profiles arrive within 24 hours, from people who know your child's board and its practical paper. Before you book anything, your child gets a free 15-minute video call with the one you like best."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, with diagrams drawn on the shared whiteboard and every lesson recorded. From £37 an hour, no contract, and if the match isn't right, a different tutor at no extra cost."
+faqs:
+  - q: "My child hopes to study Veterinary Medicine at Surrey. Can a Biology tutor help?"
+    a: "Yes, with the grades and the thinking behind them. Vet and Medicine courses, Surrey's in Guildford included, ask for top A-Level grades, with Biology and Chemistry usually central, so check the university's current page for the exact offer. A tutor works on the long answers and practical questions that decide the top grades in Biology. Harry and Joe can also talk you through the personal statement and any admissions tests."
+  - q: "My child takes Biology and Chemistry. Can one tutor do both?"
+    a: "Sometimes, yes. Plenty of tutors teach both, and the overlap is real: biochemistry draws on the same ideas as organic chemistry and rates of reaction. If your child needs a bit of help in each, one tutor can work well. If one subject is a long way behind, two separate tutors usually make more sense. We'll suggest whichever fits on the call."
+  - q: "Why is my child's Biology prediction lower than their classwork suggests?"
+    a: "Usually because classwork and timed papers test different things. Your child may understand each topic as it's taught, then struggle when a long answer mixes three of them under time pressure. Predictions lean heavily on mocks, so that gap shows up there first. A tutor reads a recent mock with your child to find where the marks went, then practises those question types week by week."
+  - q: "Are your Biology tutors teachers or students?"
+    a: "Both, depending on what suits your child. Some are qualified teachers; others are graduates or current university students, many from Russell Group universities, and some are studying Medicine or Biological Sciences themselves. Harry or Joe has interviewed each of them, and all have tutored for at least two years. A tutor who sat A-Level Biology recently can be a good match for a student aiming high."
+  - q: "What happens if the Biology tutor turns out not to suit my child?"
+    a: "Then we find another one, at no charge. Your child meets the tutor on a free 15-minute video call first, which avoids most mismatches, but sometimes it takes a lesson or two to know. Just tell us and Harry or Joe will suggest someone new. Only about 3% of applicants come onto the platform, so there's usually more than one good fit."
+# FAQ picks: G04, A13, A14, E02, C01
+reviews:
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Leo|A-Level Student|The Degree Gap tutored me throughout my A level journey and helped boost my grades to the highest grades. The flexibility of timing was the most helpful thing. My tutor, Harry, found time whenever I needed him to help me on any topic. This involved question run through, marking of questions and general support throughout my 2 years of studying. Overall, the degree gap gave me excellent tutoring over a flexible time period."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

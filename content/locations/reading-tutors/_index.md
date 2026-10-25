@@ -29,8 +29,8 @@ area_links:
   - "Henley-on-Thames Tutors|/locations/henley-on-thames-tutors/"
   - "Didcot Tutors|/locations/didcot-tutors/"
   - "Oxford Tutors|/locations/oxford-tutors/"
-  - "Swindon Tutors|/locations/swindon-tutors/"
-  - "Southampton Tutors|/locations/southampton-tutors/"
+  - "Newbury Tutors|/locations/newbury-tutors/"
+  - "Wokingham Tutors|/locations/wokingham-tutors/"
   - "Marlborough Tutors|/locations/marlborough-tutors/"
 gcse_subjects:
   - "GCSE Maths Tuition|Past papers marked the way examiners mark them, so your child learns where the method marks are, whatever grade they're on now.|/book-a-call/"

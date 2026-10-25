@@ -31,7 +31,7 @@ area_links:
   - "Epsom Tutors|/locations/epsom-tutors/"
   - "Croydon Tutors|/locations/croydon-tutors/"
   - "Tunbridge Wells Tutors|/locations/tunbridge-wells-tutors/"
-  - "Guildford Tutors|/locations/guildford-tutors/"
+  - "Dorking Tutors|/locations/dorking-tutors/"
 gcse_subjects:
   - "GCSE Chemistry Tuition|Balancing equations and mole calculations, written out together slowly until your child can start one without a prompt.|/book-a-call/"
   - "GCSE History Tuition|Causes and events turned into essays that answer the question, rather than retelling everything that happened.|/book-a-call/"

@@ -1,0 +1,57 @@
+---
+title: "GCSE Science Tutors for Leatherhead Students | The Degree Gap"
+nav_title: "Science"
+description: "Is the maths in Science costing your child marks? Online GCSE Science tutors for Leatherhead students, Combined or triple, on their own exam board. From £37."
+layout: "level-subject"
+location: "Leatherhead"
+level: "GCSE"
+subject: "Science"
+hero_h1: "Online GCSE Science Tutors for Leatherhead Students Whose Calculations Cost Them Marks"
+hero_lead: "Plenty of Leatherhead parents tell us their child knows the Science and still drops marks on the calculations and the six-mark answers. Our GCSE Science tutors for Leatherhead students work on both, using your child's own board and papers."
+angle_eyebrow: "TWO 6s IN SCIENCE, AND A 6 IN MATHS"
+angle_heading: "Why a GCSE Science Tutor Keeps an Eye on the Maths for Leatherhead Students"
+angle_body_1: "Every GCSE science paper tests maths skills, and Physics leans on them hardest. That's where a lot of capable children come unstuck, rearranging an equation or reading a gradient from a graph. Then there are the six-mark answers, written as a list of facts instead of a chain of reasons, and the required practicals, done in Year 10 and half forgotten by the exam. Combined and triple students hit the same walls. Triple students simply meet more of them."
+angle_body_2: "So the tutor starts with a recent paper and sorts the lost marks into maths slips and written answers, because each needs different work. Lessons then pair one topic with a few exam questions done to time. It matters at sixteen, too. For September 2027, Therfield asks for two grade 6s in science, or 6-6 in Combined Science, plus a 6 in Maths, before A-Level Biology, Chemistry or Physics. St Andrew's and the Howard publish their own requirements, so look them up for the subjects your child enjoys."
+angle_image: "/images/students-in-classroom-taking-notes.jpg"
+angle_image_alt: "A GCSE Science student rearranging a Physics equation with an online tutor"
+angle_stat_from: "4-5"
+angle_stat_to: "8"
+angle_stat_detail: "“My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring.” Chamarika, Parent of GCSE Student, on Trustpilot. The subject was GCSE Physics."
+schools:
+  - "Therfield School"
+  - "St Andrew's Catholic School"
+  - "Howard of Effingham School"
+  - "St John's School Leatherhead"
+  - "City of London Freemen's School"
+  - "Manor House School, Bookham"
+steps_heading: "GCSE Science tutoring for your Leatherhead child, step by step"
+steps_lead: "Profiles normally arrive the day after the call, so the weakest science can get attention before mock season."
+steps:
+  - title: "A free call about your child"
+    body: "Half an hour, give or take, with Harry or Joe. We'll ask whether your child takes Combined Science or the three separate sciences, which board they're on and which science is causing the most trouble."
+  - title: "Choose your tutor"
+    body: "Within 24 hours you'll have two or three profiles to compare, from tutors who know your child's board and the practicals it asks about. Then your child talks to your pick on a free 15-minute video call."
+  - title: "Weekly lessons"
+    body: "A weekly lesson on Lessonspace, with diagrams and calculations worked on the shared whiteboard and a recording to revise from. From £37 an hour, no contract, and a swap at no cost if the tutor isn't the right fit."
+faqs:
+  - q: "Will Combined Science stop my child taking a science A-Level at a Leatherhead sixth form?"
+    a: "Not necessarily. For September 2027, Therfield accepts 6-6 in Combined Science instead of two grade 6s in separate sciences for A-Level Biology, Chemistry and Physics, alongside a 6 in Maths. Other sixth forms set their own rules, so check with St Andrew's or the Howard if your child is applying there. Either way, a tutor can help your child reach the grade the course asks for, starting with the science that's furthest off."
+  - q: "Higher or Foundation Science: how do we know which is right for our child?"
+    a: "If your child is working at around a grade 5 or above, Higher is usually right. Foundation tops out at a 5, or 5-5 in Combined Science, while Higher runs from a 4 up to a 9, with a safety net at 3 in some cases. A child hovering around a 4 in Year 10 mocks is the hardest call. Schools usually decide after those mocks, and a tutor can give you an honest view on the tier, then prepare your child for it."
+  - q: "Can one tutor cover all three sciences for my child in Leatherhead?"
+    a: "Sometimes. Some tutors teach all three sciences well at GCSE, and that suits a child taking Combined Science who needs a bit of help across the board. If one science is far behind, or your child takes triple and wants top grades, separate tutors can make more sense, say a Physics tutor who's also strong in Maths. Harry or Joe will talk it through with you on the call."
+  - q: "How are the Science tutors you suggest picked?"
+    a: "Harry and Joe interview every tutor, and only about 3% of applicants come onto the platform. Each one sits a subject test, explains a topic to us as if we were a stuck Year 10, and has references checked. None of them has fewer than two years of tutoring behind them. For your child, we then pick on board, the science they need most and the kind of person who'd get on with them."
+  - q: "Do Science lessons carry on over Easter and the summer?"
+    a: "Yes. Holiday lessons are popular in Year 11, when a few extra hours before the exams go a long way, and online lessons don't depend on anyone's travel plans. Some families add a short run of lessons at Easter on top of the weekly hour. Others pause over the summer and pick up again in September. You agree the times with the tutor."
+# FAQ picks: G01, A12, A13, E01, C05
+reviews:
+  - "Chamarika|Parent of GCSE Student|Good tutoring platform. I did have some initial issues with a couple of tutors but Joe is very responsive and works to swiftly resolve things. My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring. We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s. Thank you to all the 3x tutors."
+  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. The website is easy to use and effective, I had no disappointment in scheduling lessons for my son. Tutors were polite and on time for their lessons."
+  - "Gilmoore|Parent of GCSE Student|Initially I was hesitant to enrol my son for online lessons. However, the company has well experienced, knowledgeable and helpful tutors. There is also flexibility around booking of lessons. At the end of the day, my son achieved the next top grade than what had been predicted in his mid-year school GCSE exams. I am forever indebted to The Degree Gap."
+  - "Sam|Parent of GCSE Student|Excellent experience. Founders are accessible, hands on, responsive and flexible. As are the tutors - quality all round. It was great to be able to trial a few to find the right fit, who my daughter felt most comfortable with. She got at least a grade higher in GCSEs because of the tuition which helped her get into a top school (grammar) for As."
+  - "Nazrul|Parent of GCSE Student|My daughter found the tutors were very helpful for her GCSE thank you"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

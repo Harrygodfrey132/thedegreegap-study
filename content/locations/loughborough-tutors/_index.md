@@ -19,7 +19,7 @@ online_2: "The platform we use is Lessonspace, where your child and the tutor sh
 online_image: "/images/child-using-online-learning-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Loughborough,UK&output=embed"
 areas_intro: "Because every lesson is online, families elsewhere in Charnwood and across the East Midlands work with us too. Here are some of the nearby towns and cities."
-area_links: ["Leicester Tutors|/locations/leicester-tutors/", "Nottingham Tutors|/locations/nottingham-tutors/", "Derby Tutors|/locations/derby-tutors/", "Birmingham Tutors|/locations/birmingham-tutors/", "Peterborough Tutors|/locations/peterborough-tutors/", "Coventry Tutors|/locations/coventry-tutors/"]
+area_links: ["Leicester Tutors|/locations/leicester-tutors/", "Nottingham Tutors|/locations/nottingham-tutors/", "Derby Tutors|/locations/derby-tutors/", "Birmingham Tutors|/locations/birmingham-tutors/", "Burton upon Trent Tutors|/locations/burton-upon-trent-tutors/", "Coventry Tutors|/locations/coventry-tutors/"]
 gcse_subjects: [
   "GCSE Physics Tuition|The equations and practical skills A-Level Physics will expect, made secure now, from wherever your child is starting.|/book-a-call/",
   "GCSE Maths Tuition|Algebra solid enough to carry into A-Level Maths or Physics, practised until your child trusts their own working.|/book-a-call/",

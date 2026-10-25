@@ -28,7 +28,7 @@ areas_intro: "Chesham, Amersham or anywhere across the Chiltern district, your c
 area_links:
   - "Aylesbury Tutors|/locations/aylesbury-tutors/"
   - "Rickmansworth Tutors|/locations/rickmansworth-tutors/"
-  - "Watford Tutors|/locations/watford-tutors/"
+  - "Tring Tutors|/locations/tring-tutors/"
   - "Hemel Hempstead Tutors|/locations/hemel-hempstead-tutors/"
   - "Princes Risborough Tutors|/locations/princes-risborough-tutors/"
   - "Great Missenden Tutors|/locations/great-missenden-tutors/"

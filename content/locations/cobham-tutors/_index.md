@@ -19,7 +19,7 @@ online_2: "It helps at sixteen too. If your child changes sixth form, the same t
 online_image: "/images/student-studying-at-night-with-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Cobham+Surrey,UK&output=embed"
 areas_intro: "Whether you're in Stoke d'Abernon, Downside or the middle of Cobham, your child logs on from home in exactly the same way. If you're a little further out, there's a page for each of the towns below."
-area_links: ["Esher Tutors|/locations/esher-tutors/", "Weybridge Tutors|/locations/weybridge-tutors/", "Woking Tutors|/locations/woking-tutors/", "Guildford Tutors|/locations/guildford-tutors/", "Kingston upon Thames Tutors|/locations/kingston-upon-thames-tutors/", "Epsom Tutors|/locations/epsom-tutors/"]
+area_links: ["Esher Tutors|/locations/esher-tutors/", "Weybridge Tutors|/locations/weybridge-tutors/", "Woking Tutors|/locations/woking-tutors/", "Leatherhead Tutors|/locations/leatherhead-tutors/", "Walton-on-Thames Tutors|/locations/walton-on-thames-tutors/", "Epsom Tutors|/locations/epsom-tutors/"]
 gcse_subjects: [
   "GCSE Biology Tuition|Six-mark answers that give reasons instead of a list of facts, and the key words Biology mark schemes reward.|/book-a-call/",
   "GCSE Maths Tuition|The older topic that keeps tripping your child up, put right first, then practised on their board's own papers.|/book-a-call/",

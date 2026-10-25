@@ -31,7 +31,7 @@ area_links:
   - "Aylesbury Tutors|/locations/aylesbury-tutors/"
   - "Ampthill Tutors|/locations/ampthill-tutors/"
   - "Berkhamsted Tutors|/locations/berkhamsted-tutors/"
-  - "Hemel Hempstead Tutors|/locations/hemel-hempstead-tutors/"
+  - "Tring Tutors|/locations/tring-tutors/"
 gcse_subjects:
   - "GCSE Chemistry Tuition|Moles, balanced equations and bonding, taken back to the start if the first explanation in Year 9 didn't land.|/book-a-call/"
   - "GCSE English Tuition|Reading an unseen extract closely, then writing an answer that has a plan behind it rather than a first draft.|/book-a-call/"

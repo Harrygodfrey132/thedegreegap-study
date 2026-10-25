@@ -1,0 +1,56 @@
+---
+title: "A-Level Maths Tutors for Leatherhead Students | The Degree Gap"
+nav_title: "Maths"
+description: "Did your child's Maths marks drop after a strong GCSE? Online A-Level Maths tutors for Leatherhead sixth formers, on Edexcel, OCR or AQA. From £37 an hour."
+layout: "level-subject"
+location: "Leatherhead"
+level: "A-Level"
+subject: "Maths"
+hero_h1: "Online A-Level Maths Tutors for Leatherhead Sixth Formers Who Need Their Algebra Quicker"
+hero_lead: "A good GCSE grade can feel a long way off by October of Year 12, when the algebra has to be quick and automatic. Our A-Level Maths tutors for Leatherhead students make it quick again, then build the calculus on top."
+angle_eyebrow: "200 OF THE 300 MARKS ARE PURE"
+angle_heading: "Where an A-Level Maths Tutor Starts With a Leatherhead Year 12"
+angle_body_1: "On Edexcel A-Level Maths, the course Therfield's sixth form follows, two of the three papers are Pure, so 200 of the 300 marks sit there. That's where the step up bites. Indices and surds need to be instant. Then come proof, differentiation from first principles and, on Paper 3, mechanics questions where a pulley hides a pair of simultaneous equations. Plenty of students who sailed through GCSE have never had to set out working this carefully. Some are fighting for a pass, others are losing an A* on the last marks of a proof. The algebra underneath is usually the issue."
+angle_body_2: "So the tutor checks the algebra first, quickly and without fuss, and fixes whatever's slow. Each lesson then takes a topic from your child's current unit and finishes on exam questions done under time. If your child takes Further Maths, that gets the same treatment, with Core Pure and Further Mechanics added in. It pays off after the exam too. KBR, an engineering firm with its UK headquarters in Leatherhead, recruits engineering graduates, and most engineering, economics and computer science degrees ask for A-Level Maths."
+angle_image: "/images/maths-equations-close-up.jpg"
+angle_image_alt: "An A-Level Maths student working through a proof with an online tutor"
+angle_stat_from: "E"
+angle_stat_to: "B"
+angle_stat_detail: "“Has definitely helped me increase my grades from an E to a B…” Keira, A-Level Student, on Google. The review doesn't name the subject, so these may not be Maths grades."
+schools:
+  - "Therfield School"
+  - "St Andrew's Catholic School"
+  - "Howard of Effingham School"
+  - "St John's School Leatherhead"
+  - "City of London Freemen's School"
+steps_heading: "From the first call to weekly A-Level Maths lessons, for your Leatherhead sixth former"
+steps_lead: "Profiles normally follow within 24 hours of the call, so the algebra can be sorted before the first Year 12 assessments stack up."
+steps:
+  - title: "A free call about your child"
+    body: "Half an hour with Harry or Joe, at a time that suits you. We'll ask about the board, whether your child takes Further Maths and whether Pure or the applied paper is going worse."
+  - title: "Choose your tutor"
+    body: "We'll send two or three Maths tutor profiles within 24 hours, picked for your child's board and for the papers they find hardest. Your child has a free 15-minute video call with your first choice before anything's booked."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, usually an hour and sometimes ninety minutes in Year 13, with every line of working on the shared whiteboard and a replay afterwards. Lessons cost from £37 an hour with no contract, and swapping tutor costs nothing."
+faqs:
+  - q: "Could A-Level Maths help my child into an apprenticeship with a Leatherhead firm like KBR or Unilever?"
+    a: "It can help, though each firm sets its own requirements and the best schemes are competitive. KBR, which has its UK headquarters in Leatherhead, works in engineering and project management, where Maths is often asked for or preferred. Unilever runs apprenticeships up to degree level from its UK head office on Springfield Drive, including data routes. Check each scheme's page in Year 12. A tutor can work on the grade while Harry and Joe talk you through the application."
+  - q: "Is Year 12 or Year 13 the better time to bring in a Maths tutor?"
+    a: "Year 12, if you can. That's when the jump from GCSE opens up gaps, and the end-of-year exams often feed into UCAS predictions. A tutor who starts in the autumn can fix the algebra before the harder Pure topics land in Year 13. Starting in Year 13 still helps, but by the January mocks the time mostly goes on past papers rather than rebuilding."
+  - q: "Would an hour a week be enough for A-Level Maths, or should lessons run longer?"
+    a: "An hour suits most teenagers. Some Year 13s switch to 90 minutes when the content gets heavy, or in the weeks before the exams, so there's time for a full topic and a set of past paper questions. Younger children often do better with shorter lessons, but at A-Level an hour is the norm. Decide on the call, and switch later if it isn't working."
+  - q: "How do you check a tutor knows A-Level Maths well enough?"
+    a: "Every tutor sits a subject test and an interview with Harry or Joe, where they explain a topic like integration by parts as if to a student who's stuck. We check references too, and only about 3% of applicants come onto the platform. Every one of them has been tutoring for two years at least. For Further Maths we look for tutors who've studied it themselves, because the extra papers need that depth."
+  - q: "Can we pause A-Level Maths lessons over exam season or the holidays?"
+    a: "Yes. There's no contract, so you can pause with a day or two's notice before the next lesson and pick up again when it suits you. Payment is lesson by lesson, so there's nothing upfront and nothing to pay when you stop. Plenty of families pause over the summer between Year 12 and Year 13, then restart in September when the new content begins."
+# FAQ picks: G04, A05, A15, E01, C09
+reviews:
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Abby|Parent of A-Level Student|Harry has tutored my son in both maths and economics A-levels and has been fantastic. Harry has been professional, approachable and engaging, he has explained things clearly and has fully supported my son through the last 2 years. We are absolutely delighted with the results. Thank you!"
+  - "John|Parent of A-Level Student|Freddie really enjoyed his time with The Degree Gap. He got help with his three A levels (maths, computer science and business) and managed to get his number one choice attending Liverpool Uni to study a masters in Maths. The tutors were organised, supportive and spent time understanding where the knowledge gaps where to ensure best chance of success in exams! Highly recommended"
+  - "Marfa|Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university"
+  - "Leo|Student|The time I have spent with my tutor here has  really valuable.  He has helped so much with a range of topics across economics and maths. He explains things really clearly and makes the sessions enjoyable."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

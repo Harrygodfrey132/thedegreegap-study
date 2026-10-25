@@ -19,7 +19,7 @@ online_2: "Because nobody's travelling, we can choose the tutor on what really m
 online_image: "/images/student-studying-on-bed-with-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Esher,UK&output=embed"
 areas_intro: "Lessons work exactly the same way from Hinchley Wood, Weston Green, Thames Ditton or Hersham, and from any of the towns below."
-area_links: ["Cobham Tutors|/locations/cobham-tutors/", "Weybridge Tutors|/locations/weybridge-tutors/", "Kingston upon Thames Tutors|/locations/kingston-upon-thames-tutors/", "Sunbury-on-Thames Tutors|/locations/sunbury-on-thames-tutors/", "Epsom Tutors|/locations/epsom-tutors/", "Woking Tutors|/locations/woking-tutors/"]
+area_links: ["Cobham Tutors|/locations/cobham-tutors/", "Weybridge Tutors|/locations/weybridge-tutors/", "Kingston upon Thames Tutors|/locations/kingston-upon-thames-tutors/", "Sunbury-on-Thames Tutors|/locations/sunbury-on-thames-tutors/", "Epsom Tutors|/locations/epsom-tutors/", "Walton-on-Thames Tutors|/locations/walton-on-thames-tutors/"]
 gcse_subjects: [
   "GCSE Chemistry Tuition|Mole calculations and the reactivity series, explained until your child could happily teach them back to you.|/book-a-call/",
   "GCSE English Tuition|English Language, which Esher Sixth Form College looks at closely, plus the Literature texts your child is actually studying.|/book-a-call/",

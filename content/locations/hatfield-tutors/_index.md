@@ -30,7 +30,7 @@ area_links:
   - "St Albans Tutors|/locations/st-albans-tutors/"
   - "Hemel Hempstead Tutors|/locations/hemel-hempstead-tutors/"
   - "Stevenage Tutors|/locations/stevenage-tutors/"
-  - "Watford Tutors|/locations/watford-tutors/"
+  - "Hertford Tutors|/locations/hertford-tutors/"
 gcse_subjects:
   - "GCSE English Tuition|Essays that hold together from start to finish, plus practice on unseen extracts until your child knows how to begin one without panicking.|/book-a-call/"
   - "GCSE Maths Tuition|Algebra, geometry and statistics taken step by step, starting from the topic that didn't click the first time round.|/book-a-call/"

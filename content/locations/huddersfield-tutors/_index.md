@@ -31,7 +31,7 @@ area_links:
   - "Wakefield Tutors|/locations/wakefield-tutors/"
   - "Manchester Tutors|/locations/manchester-tutors/"
   - "Sheffield Tutors|/locations/sheffield-tutors/"
-  - "York Tutors|/locations/york-tutors/"
+  - "Rochdale Tutors|/locations/rochdale-tutors/"
 gcse_subjects:
   - "GCSE Chemistry Tuition|Balanced equations, moles and the practical questions, worked line by line until your child trusts their own method.|/book-a-call/"
   - "GCSE French Tuition|Photo card and role-play practice out loud, and the grammar that lets your child write more than set phrases.|/book-a-call/"

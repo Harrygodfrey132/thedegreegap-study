@@ -31,7 +31,7 @@ area_links:
   - "Stockport Tutors|/locations/stockport-tutors/"
   - "Derby Tutors|/locations/derby-tutors/"
   - "Wolverhampton Tutors|/locations/wolverhampton-tutors/"
-  - "Manchester Tutors|/locations/manchester-tutors/"
+  - "Burton upon Trent Tutors|/locations/burton-upon-trent-tutors/"
 gcse_subjects:
   - "GCSE English Tuition|Planning the two writing tasks properly, so half of the Language marks stop depending on how the day goes.|/book-a-call/"
   - "GCSE Chemistry Tuition|Moles, yields and balancing equations, slowed right down until your child can do them without a worked example.|/book-a-call/"

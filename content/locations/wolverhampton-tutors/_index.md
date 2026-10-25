@@ -31,7 +31,7 @@ area_links:
   - Derby Tutors|/locations/derby-tutors/
   - Nottingham Tutors|/locations/nottingham-tutors/
   - Leicester Tutors|/locations/leicester-tutors/
-  - Sheffield Tutors|/locations/sheffield-tutors/
+  - Burntwood Tutors|/locations/burntwood-tutors/
 gcse_subjects:
   - "GCSE Maths Tuition|Whatever's holding your child's Maths back, found and worked on, since sixth form courses often ask for a good Maths grade.|/book-a-call/"
   - "GCSE Biology Tuition|Biology for a child with half an eye on medicine or nursing, with practice on the longer answers from the start.|/book-a-call/"

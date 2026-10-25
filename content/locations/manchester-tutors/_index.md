@@ -31,7 +31,7 @@ area_links:
   - Sheffield Tutors|/locations/sheffield-tutors/
   - Derby Tutors|/locations/derby-tutors/
   - Nottingham Tutors|/locations/nottingham-tutors/
-  - Birmingham Tutors|/locations/birmingham-tutors/
+  - Rochdale Tutors|/locations/rochdale-tutors/
 gcse_subjects:
   - "GCSE English Tuition|A way into any Language or Literature question that your child can rely on, then practice writing it up with the clock running.|/book-a-call/"
   - "GCSE Physics Tuition|Forces, energy and electricity explained properly, and explained differently if the first way doesn't land, rather than just repeated.|/book-a-call/"

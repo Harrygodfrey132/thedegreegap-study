@@ -1,0 +1,55 @@
+---
+title: "GCSE English Tutors for Leatherhead Students | The Degree Gap"
+nav_title: "English"
+description: "Does your child read well but lose marks against the clock? Online GCSE English tutors for Leatherhead students at Therfield, St Andrew's and beyond. From £37."
+layout: "level-subject"
+location: "Leatherhead"
+level: "GCSE"
+subject: "English"
+hero_h1: "Online GCSE English Tutors for Leatherhead Teenagers Who Know the Texts but Run Short of Time"
+hero_lead: "By the time most Leatherhead parents call us about English, reading isn't the problem: it's the clock, a blank page and a plan that never got written. Our GCSE English tutors for Leatherhead students practise planning and timed writing until it stops feeling like a race."
+angle_eyebrow: "A 5 IN BOTH ENGLISHES FOR A-LEVEL"
+angle_heading: "Why a GCSE English Tutor Treats Language and Literature as Two Jobs for Leatherhead Students"
+angle_body_1: "English marks leak from different places on the two GCSEs, and parents often only hear one number. On Language, it's the writing task that ends each paper, started without a plan and abandoned when time runs out, and the comparison question, where two sources get summarised side by side instead of compared. On Literature, it's retelling the plot of the set text rather than arguing about it, and the unseen poem, which no amount of revision can see coming. None of that is about ability. Mostly it's habits nobody has had time to correct one-to-one."
+angle_body_2: "So the tutor starts with something your child has already written under time, and marks it with them, line by line. Then come short timed bursts, like a five-minute plan or one paragraph comparing two writers. It all counts later. For 2027 entry, Therfield's sixth form asks for a grade 5 in both English Language and English Literature before A-Level English Literature, a course that includes King Lear and A Streetcar Named Desire. Psychology, Sociology and Politics there want a 5 in English too. Other sixth forms, St Andrew's and the Howard among them, set their own."
+angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"
+angle_image_alt: "A GCSE English student planning a timed essay with an online tutor"
+angle_stat_from: "5"
+angle_stat_to: "6/7"
+angle_stat_detail: "“…after six months of working with Malvina, he has improved from a grade 5 to a 6/7.” Omo, Parent of GCSE Student, on Google. The subject was GCSE English."
+schools:
+  - "Therfield School"
+  - "St Andrew's Catholic School"
+  - "Howard of Effingham School"
+  - "St John's School Leatherhead"
+  - "City of London Freemen's School"
+  - "Manor House School, Bookham"
+steps_heading: "GCSE English lessons for your child in Leatherhead, in three steps"
+steps_lead: "Profiles usually come through within 24 hours of the call, so lessons can start well before the next set of mocks."
+steps:
+  - title: "A free call about your child"
+    body: "Expect roughly 30 minutes on the phone with Harry or Joe. Tell us which board your child sits, which set texts they're studying and whether Language or Literature worries you more. A marked essay helps, if you have one."
+  - title: "Choose your tutor"
+    body: "You'll get two or three English tutor profiles within 24 hours, chosen for your child's board and texts. Your child then has a free 15-minute video call with your first choice before anything's booked."
+  - title: "Weekly lessons"
+    body: "One lesson a week on Lessonspace, with essays drafted on the shared screen and a recording of each lesson to look back at. Lessons cost from £37 an hour, there's no contract, and changing tutor costs nothing."
+faqs:
+  - q: "Which parts of GCSE English trip up Leatherhead teenagers most?"
+    a: "Usually two things: the unseen poetry question and the writing task at the end of each Language paper. The unseen poem can't be revised in advance, so your child needs a method that works on any poem. The writing task tends to go wrong for lack of a plan rather than lack of ideas. Literature has its own trap too. Quotations have to be learnt well before the exam, and little and often works far better than cramming in May."
+  - q: "Does the exam board matter for GCSE English tutoring in Leatherhead?"
+    a: "Yes. AQA's two Language papers are called Explorations in Creative Reading and Writing and Writers' Viewpoints and Perspectives, and each mixes reading questions with a writing task. Edexcel and other boards organise theirs differently, with their own question styles and mark schemes. Set texts vary from school to school as well. So we confirm the board and the texts on the call, and the tutor works from those."
+  - q: "My child is dyslexic. Can an English tutor still help?"
+    a: "Yes, and English is often where it matters most. Tell us on the call what your child finds hard, whether that's reading speed, spelling or getting ideas into order, and we'll suggest tutors who've worked with dyslexic students before. Planning frames and colour-coded quotation cards often help. The shared whiteboard and the lesson recordings mean your child can go back over anything at their own pace."
+  - q: "My teenager thinks English tutoring is pointless. Is it worth trying?"
+    a: "Usually, and it's a very common reaction. A lot of teenagers resist before they've met anyone, then relax once they realise it's one adult who's interested in what they think about the text, with nobody else listening. The free 15-minute video call lets your child size the tutor up first. If it still feels pointless after a few lessons, you can stop, no questions asked."
+# FAQ picks: G05, A02, E03, C07
+reviews:
+  - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
+  - "Jo|Parent of GCSE Student|We got in touch with The Degree Gap to help support our son to pass his English Language GCSE. Although we were close to the exam period when we started, his weekly tutor sessions made such a difference. He passed and has gained entrance to college without need for any re-sits. Thank you!"
+  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents.\n\nUPDATE: My daughter passed both English and Maths GCSE (4 and 5's). We are extremely grateful to your team especially Avery for the support she gave her in both subjects. Considering she missed a large chunk of the last 3 years at school due to a social anxiety illness, this is an amazing achievement for her."
+  - "Jessica|Student|I highly recommend Harry – he was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree!!"
+  - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings to fit around school lessons. The tutors we have used are lovely. …"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

@@ -1,0 +1,56 @@
+---
+title: "A-Level Economics Tutors for Leatherhead Students | The Degree Gap"
+nav_title: "Economics"
+description: "Does your child know the Economics theory but stall on the essays? Online A-Level Economics tutors for Leatherhead sixth formers, on their own board. From £37."
+layout: "level-subject"
+location: "Leatherhead"
+level: "A-Level"
+subject: "Economics"
+hero_h1: "Online A-Level Economics Tutors for Leatherhead Students Whose Essays Stop Before the Judgement"
+hero_lead: "Your child can draw the diagram and explain it, then the essay finishes without saying which effect matters most. Our A-Level Economics tutors for Leatherhead students work on that last step, with examples from firms based in town."
+angle_eyebrow: "CASE STUDIES ON SPRINGFIELD DRIVE"
+angle_heading: "Where an A-Level Economics Tutor Finds the Marks for Leatherhead Students"
+angle_body_1: "On Edexcel Economics A, the course Therfield's sixth form teaches, the papers mix data questions with long essays, and the big marks go on evaluation. That's where we see Leatherhead students stall. The theory comes out fine. Then the answer explains three effects of a tax without saying which is biggest, or for whom, or over what time frame. Diagrams cost marks as well: a curve shifted the wrong way, an axis left unlabelled. Some students need a pass for an apprenticeship, others are chasing the last few marks of an A*. Underneath, it's the same habit."
+angle_body_2: "So the tutor uses real businesses, some of them in town. Unilever runs its UK head office from Springfield Drive, and with brands on most supermarket shelves it's a handy way into market power and pricing. Hyundai Motor UK moved its head office to the same office park in 2020, and Wates, the construction group by the station, leads straight into the housing market. Each essay gets planned in five minutes, written to time and marked against the levels, until weighing things up feels normal."
+angle_image: "/images/economics-equations-on-chalkboard.jpg"
+angle_image_alt: "An A-Level Economics student drawing a market diagram with an online tutor"
+angle_stat_from: "E/U"
+angle_stat_to: "C"
+angle_stat_detail: "“…managing to turn E and U grades into 3 C grades.” Joanna, Parent of A-Level Student, on Google. Joanna doesn't say which subjects they were."
+schools:
+  - "Therfield School"
+  - "St Andrew's Catholic School"
+  - "Howard of Effingham School"
+  - "St John's School Leatherhead"
+  - "City of London Freemen's School"
+steps_heading: "A-Level Economics tutoring for Leatherhead sixth formers: how it starts"
+steps_lead: "Tutor profiles usually follow within a day, so essay practice can start well before the next round of mocks."
+steps:
+  - title: "A free call about your child"
+    body: "First, roughly half an hour on the phone with Harry or Joe. We'll ask which board your child sits, whether micro or macro worries them more, and what the comments on their last essay said."
+  - title: "Choose your tutor"
+    body: "Within 24 hours you'll have two or three Economics tutor profiles, chosen for the board and the papers your child finds hardest. Your first choice then has a free 15-minute video call with your child, before anything's booked."
+  - title: "Weekly lessons"
+    body: "A weekly lesson on Lessonspace, with diagrams built on a shared whiteboard, essays marked against the levels and a recording of each lesson. From £37 an hour, no contract, and a swap at no cost if the tutor isn't clicking."
+faqs:
+  - q: "Which part of A-Level Economics do Leatherhead sixth formers find hardest?"
+    a: "Evaluation, nearly always. Students learn the theory well, then write essays that explain several effects without ever judging which matters most, so they miss the top levels. The data questions are the other weak spot, because they ask your child to apply theory to a market they've never seen. Real examples from nearby, like Unilever's pricing or Wates and the housing market, make both feel far less abstract."
+  - q: "My child sits Edexcel Economics A. Does the board matter for tutoring?"
+    a: "Yes. Edexcel offers two different A-Level Economics courses, A and B, and AQA and OCR set their papers out differently again. The core theory overlaps, but the question styles and essay lengths don't. Therfield's sixth form teaches Edexcel's four themes, from markets in Year 12 to a global perspective in Year 13. We confirm the course on the call and only suggest tutors who know it."
+  - q: "What does a typical Economics lesson with the tutor look like?"
+    a: "Most lessons have three parts. First the tutor goes over last week's essay or data question with your child, mark by mark. Then they teach or tighten one topic, often with a diagram built from scratch on the whiteboard. The last part is exam practice on that topic, planned and timed, with the mark scheme beside it. Your child leaves with one task to do before the next lesson."
+  - q: "Do the people behind The Degree Gap know Economics?"
+    a: "Very much so. Economics is close to home for us: Harry and Joe were both tutored in it at school and each did better than predicted, and Harry later read Economics at the LSE. Harry has taught A-Level Economics himself, and several reviews on this page are about his lessons. When they interview a new Economics tutor, the test is simple: can they explain opportunity cost to a sixteen-year-old in two sentences?"
+  - q: "Will Economics tutoring actually be worth what we pay?"
+    a: "That depends on how far your child is from where they need to be, and we'll give you a straight answer on the call. If your child is a grade or more below the offer they want, a term of weekly lessons on essays and data questions is usually good value. If they're already on track, some past papers marked at home might be enough, and we'd say so. Lessons start at £37 an hour with no contract, so you can try a few and judge for yourself."
+# FAQ picks: G05, A02, A08, E04, C03
+reviews:
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Cat|Parent of A-Level Student|My 18 year old son had A-level Economics tutoring with Harry.  He was excellent, knew exactly what he needed to learn and was able to explain in terms which made it simple to understand.  The online platform was convenient and easy to use."
+  - "Binh|A-Level Student|I was very fortunate enough to encounter Harry during my time taking A level economics. I really struggled a lot with long 30 marked essays as well as evaluation and learning the graphs as for at the time it was really hard and I didn’t understand. …"
+  - "Lucas|A-Level Student|I was having trouble with some areas of my economics a level course before getting in contact with Harry. He walked me through everything I needed help with, from content I was weak with to exam technique that I was lacking. His insight, examples and willingness to go the extra step really helped me to regain my confidence in economics, having achieved a predicted a* with his help."
+  - "Ali|Grandparent|Harry did an amazing job helping my grandson who was struggling with his economics work. Thank you again, Harry, for all your hard work."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

@@ -31,7 +31,7 @@ area_links:
   - Oxford Tutors|/locations/oxford-tutors/
   - Southampton Tutors|/locations/southampton-tutors/
   - Portsmouth Tutors|/locations/portsmouth-tutors/
-  - Brighton Tutors|/locations/brighton-tutors/
+  - Taunton Tutors|/locations/taunton-tutors/
 gcse_subjects:
   - "GCSE English Tuition|Reading an unseen extract closely and writing to the clock in Language and Literature, so a surprise text on the day doesn't throw your child.|/book-a-call/"
   - "GCSE Physics Tuition|Forces, energy and electricity, practised on real exam questions until each idea can be used, not just recited.|/book-a-call/"

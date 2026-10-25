@@ -19,7 +19,7 @@ online_2: "Online also widens the pool. The tutor who knows one board's Further 
 online_image: "/images/online-study-workspace-with-coffee.jpg"
 map_url: "https://maps.google.com/maps?q=Bolton,UK&output=embed"
 areas_intro: "Because every session runs online, families across Bolton and the wider Greater Manchester area work with the right subject specialist rather than the nearest one."
-area_links: ["Manchester Tutors|/locations/manchester-tutors/", "Wigan Tutors|/locations/wigan-tutors/", "Altrincham Tutors|/locations/altrincham-tutors/", "Stockport Tutors|/locations/stockport-tutors/", "Liverpool Tutors|/locations/liverpool-tutors/", "Leeds Tutors|/locations/leeds-tutors/"]
+area_links: ["Manchester Tutors|/locations/manchester-tutors/", "Wigan Tutors|/locations/wigan-tutors/", "Altrincham Tutors|/locations/altrincham-tutors/", "Stockport Tutors|/locations/stockport-tutors/", "Liverpool Tutors|/locations/liverpool-tutors/", "Rochdale Tutors|/locations/rochdale-tutors/"]
 gcse_subjects: [
   "GCSE English Tuition|Language and Literature worked separately, since the two papers lose marks for quite different reasons.|/book-a-call/",
   "GCSE Physics Tuition|Unit conversion, rearranging and the multi-step questions that sit at the back of the paper.|/book-a-call/",

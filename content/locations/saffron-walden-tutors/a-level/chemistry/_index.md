@@ -1,0 +1,57 @@
+---
+title: "A-Level Chemistry Tutors for Saffron Walden Students | The Degree Gap"
+nav_title: "Chemistry"
+description: "Are organic mechanisms dragging down your child's A-Level Chemistry? We match Saffron Walden sixth formers with an online A-Level Chemistry tutor. From £37."
+layout: "level-subject"
+location: "Saffron Walden"
+level: "A-Level"
+subject: "Chemistry"
+hero_h1: "Online A-Level Chemistry Tutors for Saffron Walden Students Whose Curly Arrows Keep Going Wrong"
+hero_lead: "Your child has learned every reaction on the sheet, then a synthesis question puts two together and the curly arrows go wrong. Our A-Level Chemistry tutors for Saffron Walden students teach why each step happens, so mechanisms can be worked out, not just remembered."
+angle_eyebrow: "WHY THE ARROWS GO WHERE THEY GO"
+angle_heading: "What an A-Level Chemistry Tutor Works On With Saffron Walden Sixth Formers"
+angle_body_1: "A-Level Chemistry at Saffron Walden County High is AQA, examined in three two-hour papers at the end of Year 13, with multiple choice and practical questions folded in. Organic chemistry starts in Year 12 and gets heavier in Year 13 with aromatic compounds and spectroscopy, which is where memorising stops working. Physical chemistry brings its own trouble: calculations that chain moles, concentrations and equilibrium constants across several steps, so one early slip costs every mark after it. Then there are transition metals and pH. Little of it is beyond your child. Most of it needs a method."
+angle_body_2: "So the tutor goes back to why mechanisms work, why a nucleophile attacks where it does, and has your child draw them from scratch on the shared whiteboard until they can predict a reaction they've never seen. Calculations get set out the same way every time, units included. For 2026 entry the County High asked for a 6 in GCSE Chemistry, or 7/7 in Combined Science, plus a 6 in Maths, and the Maths shows up quickly. Chemistry keeps doors open to Medicine and Chemical Engineering, and to the labs at Chesterford Research Park, about four miles away."
+angle_image: "/images/chemistry-lab-glassware.jpg"
+angle_image_alt: "An A-Level Chemistry student drawing a reaction mechanism on a shared whiteboard with an online tutor"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "“Degree Gap helped my kid go from Cs to As.” Alexander, writing on Google as a parent. The subjects aren't named."
+schools:
+  - "Saffron Walden County High School"
+  - "Joyce Frankland Academy, Newport"
+  - "Hills Road Sixth Form College"
+  - "Long Road Sixth Form College"
+  - "Helena Romanes School"
+  - "Felsted School"
+steps_heading: "How A-Level Chemistry tutoring starts for a Saffron Walden family"
+steps_lead: "Profiles normally reach you within 24 hours of the call, so mechanisms can be rebuilt before the next topic test piles more on top."
+steps:
+  - title: "A free call about your child"
+    body: "Give or take 30 minutes with Harry or Joe. We'll ask about the board, whether organic or physical chemistry is the bigger worry, and what your child is hoping to do after sixth form."
+  - title: "Choose your tutor"
+    body: "Within a day you'll get two or three Chemistry tutor profiles matched to AQA or your child's board. Your child then has a free 15-minute video call with the one you pick."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, with mechanisms and calculations drawn out on a shared whiteboard and a replay saved each time. From £37 an hour, no contract, and we'll swap tutors for free if it isn't working."
+faqs:
+  - q: "What GCSE grades does my child need for A-Level Chemistry in Saffron Walden?"
+    a: "At the County High, for 2026 entry, A-Level Chemistry asked for a 6 in GCSE Chemistry or 7/7 in Combined Science, plus a 6 in Maths, with a 7 recommended. Joyce Frankland and the Cambridge sixth form colleges publish their own requirements, and these can change from year to year, so check the latest prospectus. If your child is close but not there yet, the tutor can focus on the topics carrying the most marks."
+  - q: "What happens in a typical A-Level Chemistry lesson?"
+    a: "Most last an hour. The first few minutes go on last week's homework, picking out any misunderstanding. The middle is new work or practice on whatever is losing your child the most marks, a mechanism, say, or a buffer calculation. The last part is exam questions on that topic, marked with the mark scheme so your child sees exactly where marks are won."
+  - q: "Can the same tutor help with A-Level Chemistry and Biology?"
+    a: "Sometimes. Some tutors teach both, which can help because the subjects overlap in biochemistry and practical skills. But if one subject is much weaker, a tutor who concentrates on it usually gets further. We'll suggest what makes sense on the call, and your child can always have a separate tutor for each."
+  - q: "Have your tutors helped other students improve their A-Level grades?"
+    a: "Yes, though we'd never promise a grade. One parent, Alexander, wrote on Google: “Degree Gap helped my kid go from Cs to As.” That's one family's experience. More typical is steadier progress: mechanisms that stop being guesswork within a few weeks, then marks that follow as the method settles in."
+  - q: "How much does A-Level Chemistry tutoring cost?"
+    a: "From £37 an hour. The rate depends on the tutor's experience and is agreed before anything's booked. It covers the lesson, the tutor's preparation, practice questions between lessons and the replay. There's no joining fee, no materials charge and no contract, and the first call and the 15-minute video meeting with the tutor are both free."
+# FAQ picks: G01, A08, A13, E05, C02
+reviews:
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+  - "Theresa|Parent|Harry and Joe were extremely helpful with a wealth of knowledge and contacts that helped my son to follow the right path."
+  - "Serena|Student|Malvina is a very intuitive and superb teacher. She listened acutely to my specific concerns and bolstered my confidence in answering the questions. She taught me how to think critically and helped me through this highly demanding and complex course.\nI will happily recomend her without a second thought!"
+  - "Mahir|A-Level Student|Harry was an excellent teacher that helped me gain real grip of the complicated areas in my subjects like economics - I'd highly recommend for anyone looking to consistently perform at their best."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

@@ -19,7 +19,7 @@ online_2: "No one has to sit in school-night traffic into Tunbridge Wells or cat
 online_image: "/images/student-studying-at-night-with-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Sevenoaks,UK&output=embed"
 areas_intro: "Families across Sevenoaks and the Kent and south-east towns below all get the same thing: online lessons with a tutor picked for the paper your child is sitting."
-area_links: ["Tunbridge Wells Tutors|/locations/tunbridge-wells-tutors/", "London Tutors|/locations/london-tutors/", "Canterbury Tutors|/locations/canterbury-tutors/", "Brighton Tutors|/locations/brighton-tutors/", "Epsom Tutors|/locations/epsom-tutors/", "Guildford Tutors|/locations/guildford-tutors/"]
+area_links: ["Tunbridge Wells Tutors|/locations/tunbridge-wells-tutors/", "London Tutors|/locations/london-tutors/", "Canterbury Tutors|/locations/canterbury-tutors/", "Gravesend Tutors|/locations/gravesend-tutors/", "Epsom Tutors|/locations/epsom-tutors/", "Guildford Tutors|/locations/guildford-tutors/"]
 gcse_subjects: [
   "GCSE English Tuition|Essays marked against the real mark scheme, so your child can see exactly which paragraph earned what.|/book-a-call/",
   "GCSE Maths Tuition|The problem-solving questions get plenty of timed practice, at a level that fits your child right now.|/book-a-call/",

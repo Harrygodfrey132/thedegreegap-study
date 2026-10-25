@@ -1,0 +1,57 @@
+---
+title: "A-Level Physics Tutors for Saffron Walden Students | The Degree Gap"
+nav_title: "Physics"
+description: "Is the maths in A-Level Physics holding your child back? We match Saffron Walden sixth formers with an online A-Level Physics tutor who knows OCR. From £37."
+layout: "level-subject"
+location: "Saffron Walden"
+level: "A-Level"
+subject: "Physics"
+hero_h1: "Online A-Level Physics Tutors for Saffron Walden Students Where the Maths Gets in the Way"
+hero_lead: "Your child follows the physics when it's explained, but a question on fields or circular motion turns into a page of algebra and stalls. Our A-Level Physics tutors for Saffron Walden students practise the maths inside the questions until it's quick and sure."
+angle_eyebrow: "AT LEAST 40% OF THE MARKS ARE MATHS"
+angle_heading: "How an A-Level Physics Tutor Helps Saffron Walden Students on OCR Physics A"
+angle_body_1: "At Saffron Walden County High, A-Level Physics is OCR Physics A. Students sit two internal papers at the end of Year 12, then three final papers in Year 13: Modelling Physics, Exploring Physics and Unified Physics, which draws on the whole course. At least 40% of the marks need maths, and that's where we see most of the trouble: rearranging equations with powers and logs, resolving vectors, reading a gradient off a graph. A student can follow every lesson and still lose marks because the algebra is slow. The practical questions test experiments from the course in writing, not in the lab."
+angle_body_2: "So the tutor teaches the two halves of each question separately at first. First the idea, in words and a diagram, then the algebra practised on its own until it's quick, then both together on OCR-style questions. For 2026 entry the County High asked for a 7 in GCSE Maths before A-Level Physics, and many students take A-Level Maths alongside, which helps. Physics leads to engineering and science degrees at Cambridge and further afield, and to aircraft engineering through Stansted Airport College, based at the airport itself."
+angle_image: "/images/physics-mechanics-force-diagram.jpg"
+angle_image_alt: "An A-Level Physics student resolving forces into components with an online tutor"
+angle_stat_from: "E/U"
+angle_stat_to: "C"
+angle_stat_detail: "From Joanna, a parent, on Google: Joanna's son managed “to turn E and U grades into 3 C grades”. The review doesn't say which subjects."
+schools:
+  - "Saffron Walden County High School"
+  - "Joyce Frankland Academy, Newport"
+  - "Hills Road Sixth Form College"
+  - "Long Road Sixth Form College"
+  - "Helena Romanes School"
+  - "Felsted School"
+steps_heading: "Starting A-Level Physics tutoring for a Saffron Walden sixth former"
+steps_lead: "Tutor profiles usually arrive the day after the call, which leaves time to steady the maths before the Year 12 internal papers."
+steps:
+  - title: "A free call about your child"
+    body: "Half an hour, more or less, with Harry or Joe. We'll ask about the board, whether your child also takes A-Level Maths, and which topics keep going wrong, from waves to mechanics."
+  - title: "Choose your tutor"
+    body: "Two or three Physics tutor profiles within 24 hours, chosen for OCR Physics A or your child's board, then a free 15-minute video call with the tutor you like best."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, with diagrams and working on a shared whiteboard and every lesson recorded to rewatch. From £37 an hour, no contract, and a different tutor free of charge if needed."
+faqs:
+  - q: "We live in a village outside Saffron Walden. Does online A-Level Physics tutoring work just as well?"
+    a: "Yes, and it saves a lot of driving. Every lesson runs online on Lessonspace, so it makes no difference whether you're in Newport, Littlebury, Great Chesterford or the middle of town. Because we're not limited to tutors nearby, we can match your child with someone who knows OCR Physics A well, wherever they live. Lessons are recorded, so your child can rewatch a derivation before a test."
+  - q: "Is OCR Physics A very different from AQA Physics?"
+    a: "The physics is much the same, but the papers are organised differently. OCR Physics A has three papers, Modelling Physics, Exploring Physics and Unified Physics, the last drawing on the whole course, and each board phrases its questions and practical tasks in its own way. Practising with the right board's past papers saves your child time, which is why we match tutors to the specification and ask about it on the call."
+  - q: "What should my child do in Physics between one lesson and the next?"
+    a: "About an hour to an hour and a half. Usually that's a short set of past-paper questions on that week's topic, plus ten minutes of algebra practice if rearranging is slowing them down. Much more than that tends to give less back. The tutor checks the work at the start of the next lesson so mistakes don't harden into habits."
+  - q: "Who would my child's Physics tutor be?"
+    a: "It might be a qualified teacher, or a graduate or university student in Physics or Engineering, often from a Russell Group university. Harry or Joe will have interviewed them, and every one has at least two years of tutoring behind them. Someone who sat these papers recently tends to know exactly what the mark scheme wants. Profiles show each tutor's background, so you can choose with that in front of you."
+  - q: "How quickly can A-Level Physics lessons begin?"
+    a: "Normally a few days after we first speak. Two or three tutor profiles arrive within 24 hours, your child meets the one you choose on a free 15-minute video call, and the first lesson goes in whenever suits. If internal exams are close, say so and we'll speed things up."
+# FAQ picks: G03, A02, A09, E02, C10
+reviews:
+  - "Sureet|Parent of A-Level Student|Haneet has really helped my son in navigating his A level Physics all whilst being kind and supportive."
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Charlotte|Student|I cannot recommend Harry enough. He was helpful welcoming and helped me achieve a grade higher than I was expected!"
+  - "Matthew|Parent|The Degree Gap is an extremely well run tutoring business. They take the time to get to know your child and suggest the right tutors. It is great I got to try out as many tutors as I needed to before picking the right fit. We have been working with them for over a year now! No issues!"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

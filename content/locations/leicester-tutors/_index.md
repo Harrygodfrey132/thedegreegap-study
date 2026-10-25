@@ -29,9 +29,9 @@ area_links:
   - "Nottingham Tutors|/locations/nottingham-tutors/"
   - "Coventry Tutors|/locations/coventry-tutors/"
   - "Derby Tutors|/locations/derby-tutors/"
-  - "Stamford Tutors|/locations/stamford-tutors/"
+  - "Rugby Tutors|/locations/rugby-tutors/"
   - "Birmingham Tutors|/locations/birmingham-tutors/"
-  - "Sheffield Tutors|/locations/sheffield-tutors/"
+  - "Nuneaton Tutors|/locations/nuneaton-tutors/"
 gcse_subjects:
   - "GCSE English Tuition|Language and Literature, moving answers from describing the text to analysing it, which is where the higher marks are.|/book-a-call/"
   - "GCSE Maths Tuition|Number, algebra, geometry and statistics, practised until your child is quick and accurate on the day, not just keen.|/book-a-call/"

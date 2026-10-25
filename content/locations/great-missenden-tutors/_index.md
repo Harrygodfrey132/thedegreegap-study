@@ -31,7 +31,7 @@ area_links:
   - "Princes Risborough Tutors|/locations/princes-risborough-tutors/"
   - "High Wycombe Tutors|/locations/high-wycombe-tutors/"
   - "Aylesbury Tutors|/locations/aylesbury-tutors/"
-  - "Beaconsfield Tutors|/locations/beaconsfield-tutors/"
+  - "Tring Tutors|/locations/tring-tutors/"
 gcse_subjects:
   - "GCSE Physics Tuition|Equations rearranged on the whiteboard a step at a time, so the long calculation stops being the question your child leaves blank.|/book-a-call/"
   - "GCSE English Tuition|Saying what a writer's words actually do, not just naming the technique, with quotations that are still there in the exam.|/book-a-call/"

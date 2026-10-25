@@ -19,7 +19,7 @@ online_2: "Online also opens up who teaches your child. Whoever knows your child
 online_image: "/images/online-study-workspace-with-coffee.jpg"
 map_url: "https://maps.google.com/maps?q=Reigate,UK&output=embed"
 areas_intro: "We can work with families in Reigate, Redhill, Merstham and Horley, and in the towns below, matching your child on subject and exam board rather than postcode."
-area_links: ["Epsom Tutors|/locations/epsom-tutors/", "Sutton Tutors|/locations/sutton-tutors/", "Croydon Tutors|/locations/croydon-tutors/", "Kingston upon Thames Tutors|/locations/kingston-upon-thames-tutors/", "Guildford Tutors|/locations/guildford-tutors/", "Bromley Tutors|/locations/bromley-tutors/"]
+area_links: ["Epsom Tutors|/locations/epsom-tutors/", "Sutton Tutors|/locations/sutton-tutors/", "Croydon Tutors|/locations/croydon-tutors/", "Kingston upon Thames Tutors|/locations/kingston-upon-thames-tutors/", "Leatherhead Tutors|/locations/leatherhead-tutors/", "Dorking Tutors|/locations/dorking-tutors/"]
 gcse_subjects: [
   "GCSE Maths Tuition|The grade four of the college's science and Maths courses look at first, rebuilt from your child's gap upwards.|/book-a-call/",
   "GCSE Biology Tuition|Required practicals and longer answers, set out the way the examiner wants them, not as class notes.|/book-a-call/",

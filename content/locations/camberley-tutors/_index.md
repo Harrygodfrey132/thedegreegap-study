@@ -19,7 +19,7 @@ online_2: "Lessons happen on a shared whiteboard on screen. Your child writes, t
 online_image: "/images/student-celebrating-online-learning.jpg"
 map_url: "https://maps.google.com/maps?q=Camberley,UK&output=embed"
 areas_intro: "Lessons work exactly the same in Frimley, West End, Owlsmoor and Sandhurst, and the towns below are on our map too."
-area_links: ["Farnborough Tutors|/locations/farnborough-tutors/", "Fleet Tutors|/locations/fleet-tutors/", "Aldershot Tutors|/locations/aldershot-tutors/", "Farnham Tutors|/locations/farnham-tutors/", "Woking Tutors|/locations/woking-tutors/", "Guildford Tutors|/locations/guildford-tutors/"]
+area_links: ["Farnborough Tutors|/locations/farnborough-tutors/", "Fleet Tutors|/locations/fleet-tutors/", "Aldershot Tutors|/locations/aldershot-tutors/", "Wokingham Tutors|/locations/wokingham-tutors/", "Woking Tutors|/locations/woking-tutors/", "Bracknell Tutors|/locations/bracknell-tutors/"]
 gcse_subjects: [
   "GCSE Chemistry Tuition|Mole calculations and bonding diagrams, with every step of working written down, so it's obvious which line went wrong.|/book-a-call/",
   "GCSE English Tuition|English Language counts for a lot of courses at 16, so unseen extracts and the writing task get practised against the clock.|/book-a-call/",

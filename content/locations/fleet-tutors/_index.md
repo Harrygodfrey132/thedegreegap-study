@@ -19,7 +19,7 @@ online_2: "Lessons happen on a shared online whiteboard, where a Maths method or
 online_image: "/images/student-studying-on-bed-with-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Fleet+Hampshire,UK&output=embed"
 areas_intro: "Families in Church Crookham, Elvetham Heath, Hartley Wintney and Odiham choose from the same tutors as anyone in Fleet itself, and so do the towns listed below."
-area_links: ["Farnborough Tutors|/locations/farnborough-tutors/", "Camberley Tutors|/locations/camberley-tutors/", "Aldershot Tutors|/locations/aldershot-tutors/", "Farnham Tutors|/locations/farnham-tutors/", "Basingstoke Tutors|/locations/basingstoke-tutors/", "Reading Tutors|/locations/reading-tutors/"]
+area_links: ["Farnborough Tutors|/locations/farnborough-tutors/", "Camberley Tutors|/locations/camberley-tutors/", "Aldershot Tutors|/locations/aldershot-tutors/", "Farnham Tutors|/locations/farnham-tutors/", "Basingstoke Tutors|/locations/basingstoke-tutors/", "Wokingham Tutors|/locations/wokingham-tutors/"]
 gcse_subjects: [
   "GCSE English Tuition|A dependable way into any unseen extract, and the key quotations from the set texts your child is studying, learnt for keeps.|/book-a-call/",
   "GCSE Biology Tuition|Homeostasis, inheritance and ecology, plus the longer answers where each point has to lead on to the next.|/book-a-call/",

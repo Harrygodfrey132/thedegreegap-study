@@ -1,0 +1,56 @@
+---
+title: "GCSE Science Tutors for Saffron Walden Students | The Degree Gap"
+nav_title: "Science"
+description: "Are practical questions costing your child marks in GCSE Science? We match Saffron Walden students with an online GCSE Science tutor on their board. From £37."
+layout: "level-subject"
+location: "Saffron Walden"
+level: "GCSE"
+subject: "Science"
+hero_h1: "Online GCSE Science Tutors for Saffron Walden Students Turning Lab Work Into Exam Marks"
+hero_lead: "Your child enjoyed the experiment in class, but a year later the exam asks how to make it more accurate and the answer is a guess. Our GCSE Science tutors for Saffron Walden students make the practical questions routine, along with the calculations around them."
+angle_eyebrow: "COMBINED, TRIPLE AND THE 7/7"
+angle_heading: "What a GCSE Science Tutor Fixes for Saffron Walden Students on Edexcel"
+angle_body_1: "Science at Saffron Walden County High is Edexcel, taught either as Combined Science or as the three separate sciences. Either way, the practicals come back on the paper long after the lesson: which variable was kept the same, why a reading was repeated, how the method could be improved. Edexcel calls these core practicals. Calculations cost marks too, from rearranging an equation to converting units in the last line. And six-mark answers need an order that many children never practise. Most of that is technique, not missing knowledge."
+angle_body_2: "So the tutor takes one core practical a week, talks it through as if your child were back in the lab, then sets the kind of question Edexcel asks about it and marks it together. Calculations go on the shared whiteboard step by step. The grade matters later, too. For 2026 entry, the County High's sixth form asked for 6s in the separate sciences, or 7/7 in Combined Science, before A-Level Biology, Chemistry or Physics, so a Combined student needs the higher number. And for a child working nearer a 4-4, practical questions are often the quickest marks to win back."
+angle_image: "/images/periodic-table-and-beaker.jpg"
+angle_image_alt: "A GCSE Science student planning a core practical answer with an online tutor"
+angle_stat_from: "4-5"
+angle_stat_to: "8"
+angle_stat_detail: "Chamarika's son had “a predicted 4-5 in Physics” and “made it an 8 within roughly two months of tutoring”, in Chamarika's Trustpilot review."
+schools:
+  - "Saffron Walden County High School"
+  - "Joyce Frankland Academy, Newport"
+  - "Linton Village College"
+  - "Helena Romanes School"
+  - "Felsted School"
+steps_heading: "How GCSE Science tutoring starts for a Saffron Walden family"
+steps_lead: "Most families have tutor profiles the day after the call, which leaves time to go back over Year 10 practicals before the mocks."
+steps:
+  - title: "A free call about your child"
+    body: "A free call of roughly 30 minutes with Harry or Joe. We'll want to know if it's Combined or triple, how recent tests have gone, and whether one science is lagging behind the other two. If your child has a science A-Level in mind, tell us which."
+  - title: "Choose your tutor"
+    body: "Two or three tutor profiles within a day, chosen for Edexcel if that's the board and for the science that needs most help. First, though, your child has a free 15-minute video call with the tutor you lean towards."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, with diagrams, results tables and equations worked through on a shared whiteboard and a replay of every lesson. Lessons cost from £37 an hour with no contract, and switching tutor is free."
+faqs:
+  - q: "Can a GCSE Science tutor help my child towards an apprenticeship at one of the science employers near Saffron Walden?"
+    a: "Yes. The Wellcome Sanger Institute at Hinxton, five miles north-west of Saffron Walden, runs apprenticeships in science and technical roles, and Stansted Airport College trains aircraft maintenance apprentices. Each scheme sets its own entry requirements, so check the current ones, but English, Maths and Science grades come up again and again. A tutor works on the science grade and the practical skills behind it, which also give your child something real to talk about in an application."
+  - q: "My child's school uses Edexcel. Is that very different from AQA Science?"
+    a: "The science is mostly the same, but the papers aren't. Edexcel calls its set experiments core practicals, AQA calls them required practicals, and the lists and question styles differ a little. The way long answers are worded and marked varies too. That's why we match the tutor to your child's board, not just the subject. At the County High, GCSE Science is Edexcel, but check the front of a mock paper if you're not sure."
+  - q: "How long should my child spend on Science homework between tutoring sessions?"
+    a: "About an hour, perhaps a little more before mocks. Usually that's a set of exam questions on the topic from that week's lesson, marked against the mark scheme, plus a few minutes learning the steps of a core practical. Short and regular beats one long Sunday session. The tutor goes through the answers at the start of the next lesson, so mistakes don't get repeated."
+  - q: "What sort of person would be teaching my child Science?"
+    a: "It could be either. The tutors on our platform include qualified teachers, graduates and current university students, many from Russell Group universities, and every one has at least two years of tutoring experience. For a child taking triple science, someone who sat these papers recently can be sharp on the details examiners look for. Each tutor's background is on their profile, so you can see it before choosing."
+  - q: "Can Science lessons carry on over half-term and the holidays?"
+    a: "Yes, and many families find the holidays are when the most gets done. Without school homework piling up, an hour on core practicals or a tricky topic sticks better. Lessons are online, so a week away doesn't have to mean a break if your child is happy to log in. You agree the times with the tutor, and there's no contract, so you can pause as well."
+# FAQ picks: G04, A02, A09, E02, C05
+reviews:
+  - "Chamarika|Parent of GCSE Student|Good tutoring platform. I did have some initial issues with a couple of tutors but Joe is very responsive and works to swiftly resolve things. My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring. We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s. Thank you to all the 3x tutors."
+  - "Sam|Parent of GCSE Student|Excellent experience. Founders are accessible, hands on, responsive and flexible. As are the tutors - quality all round. It was great to be able to trial a few to find the right fit, who my daughter felt most comfortable with. She got at least a grade higher in GCSEs because of the tuition which helped her get into a top school (grammar) for As."
+  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. The website is easy to use and effective, I had no disappointment in scheduling lessons for my son. Tutors were polite and on time for their lessons."
+  - "Philippa|Parent of GCSE Student|I was really pleased to discover the Degree Gap when my daughter needed help getting the grades she needed for GCSEs. The team offer a really personalised service and I felt really well looked after and supported from the start. There are lots of tutors to choose from and all subjects are catered for, with great flexibility on timings to fit around school lessons. …"
+  - "Nazrul|Parent of GCSE Student|My daughter found the tutors were very helpful for her GCSE thank you"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

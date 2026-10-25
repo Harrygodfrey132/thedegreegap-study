@@ -29,7 +29,7 @@ area_links:
   - "Swindon Tutors|/locations/swindon-tutors/"
   - "Cirencester Tutors|/locations/cirencester-tutors/"
   - "Didcot Tutors|/locations/didcot-tutors/"
-  - "Bath Tutors|/locations/bath-tutors/"
+  - "Newbury Tutors|/locations/newbury-tutors/"
   - "Reading Tutors|/locations/reading-tutors/"
   - "Basingstoke Tutors|/locations/basingstoke-tutors/"
 gcse_subjects:

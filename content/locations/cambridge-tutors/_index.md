@@ -30,7 +30,7 @@ area_links:
   - "St Neots Tutors|/locations/st-neots-tutors/"
   - "Norwich Tutors|/locations/norwich-tutors/"
   - "Oxford Tutors|/locations/oxford-tutors/"
-  - "Reading Tutors|/locations/reading-tutors/"
+  - "Saffron Walden Tutors|/locations/saffron-walden-tutors/"
   - "Bury St Edmunds Tutors|/locations/bury-st-edmunds-tutors/"
 gcse_subjects:
   - "GCSE Physics Tuition|Forces, energy and electricity, with lots of practice turning what your child understands into the marks a sixth form offer needs.|/book-a-call/"

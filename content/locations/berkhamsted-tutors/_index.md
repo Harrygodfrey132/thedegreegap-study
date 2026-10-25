@@ -19,7 +19,7 @@ online_2: "And the tutor doesn't have to live nearby. The person who's taught AQ
 online_image: "/images/online-study-workspace-with-coffee.jpg"
 map_url: "https://maps.google.com/maps?q=Berkhamsted,UK&output=embed"
 areas_intro: "Out in Northchurch, Potten End or further along the Bulbourne valley? Online, that changes nothing. The towns below draw on the same network of tutors."
-area_links: ["Chesham Tutors|/locations/chesham-tutors/", "Hemel Hempstead Tutors|/locations/hemel-hempstead-tutors/", "Great Missenden Tutors|/locations/great-missenden-tutors/", "St Albans Tutors|/locations/st-albans-tutors/", "Watford Tutors|/locations/watford-tutors/", "Aylesbury Tutors|/locations/aylesbury-tutors/"]
+area_links: ["Chesham Tutors|/locations/chesham-tutors/", "Hemel Hempstead Tutors|/locations/hemel-hempstead-tutors/", "Great Missenden Tutors|/locations/great-missenden-tutors/", "St Albans Tutors|/locations/st-albans-tutors/", "Tring Tutors|/locations/tring-tutors/", "Aylesbury Tutors|/locations/aylesbury-tutors/"]
 gcse_subjects: [
   "GCSE Maths Tuition|Algebra, ratio and the long problem-solving questions, rebuilt from the point where your child's method first went wrong.|/book-a-call/",
   "GCSE English Tuition|Language and Literature, with the timing practised so your child's second essay gets the same care as the first.|/book-a-call/",

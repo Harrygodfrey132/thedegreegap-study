@@ -1,0 +1,57 @@
+---
+title: "GCSE Maths Tutors for Leatherhead Students | The Degree Gap"
+nav_title: "Maths"
+description: "Is one Maths grade standing between your child and their A-Level plans? Online GCSE Maths tutors for Leatherhead students, Therfield to the Howard. From £37."
+layout: "level-subject"
+location: "Leatherhead"
+level: "GCSE"
+subject: "Maths"
+hero_h1: "Online GCSE Maths Tutors for Leatherhead Students, Starting From the Last Mock Paper"
+hero_lead: "A grade 4 keeps college courses open, and a 6 is what Therfield asks before A-Level Maths, but the lost marks usually sit in the same few places. Our GCSE Maths tutors for Leatherhead students find them on your child's last paper."
+angle_eyebrow: "A 6 FOR MATHS, AN 8 FOR FURTHER MATHS"
+angle_heading: "What a GCSE Maths Tutor Looks for on a Leatherhead Student's Mock Paper"
+angle_body_1: "Most of the marks we see Leatherhead Year 10s and 11s drop on the Higher paper come from a short list. Algebraic fractions. Changing the subject of a formula when the letter appears on both sides. Circle theorems, where the angle's right but the reason never gets written down. Then the wordy questions near the end of each calculator paper, where your child can't tell which method the question wants. On Foundation, it's more often fractions, percentages and ratio from Years 7 and 8. Either way, the gap is usually a method that half went in, not a lack of effort."
+angle_body_2: "The tutor's first job is to watch your child do maths, not to explain it. They'll set a handful of questions from a recent paper and ask your child to talk while they work, and the weak step usually shows up by the third. The next few weeks go there. It matters beyond Year 11, too. For September 2027, Therfield's sixth form asks for a 6 in Maths before A-Level Maths, an 8 before Further Maths and a 5 before Economics. St Andrew's, the Howard and Esher Sixth Form College publish their own figures, so check the ones for your child's courses early."
+angle_image: "/images/student-completing-maths-worksheet.jpg"
+angle_image_alt: "A GCSE Maths student working through a circle theorem question with an online tutor"
+angle_stat_from: "4-5"
+angle_stat_to: "8"
+angle_stat_detail: "“My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8…” Chamarika, Parent of GCSE Student, on Trustpilot. These grades are from GCSE Physics, not Maths."
+schools:
+  - "Therfield School"
+  - "St Andrew's Catholic School"
+  - "Howard of Effingham School"
+  - "St John's School Leatherhead"
+  - "City of London Freemen's School"
+  - "Manor House School, Bookham"
+steps_heading: "From first call to first Maths lesson, for your child in Leatherhead"
+steps_lead: "Most families have tutor profiles the day after the call, which leaves plenty of weeks before the next round of mocks."
+steps:
+  - title: "A free call about your child"
+    body: "It's a chat of about half an hour with Harry or Joe. We'll ask about tier, exam board and the kind of question that keeps going wrong. Got a marked test? Send us a photo before the call."
+  - title: "Choose your tutor"
+    body: "Two or three profiles reach you within 24 hours of the call, each from someone who teaches your child's board. Pick one, and your child gets a free 15-minute video call with them before any lesson is booked."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, at a time that dodges training nights, and every lesson is recorded to watch back. From £37 an hour with no contract, and if your child doesn't get on with the tutor, we'll suggest someone else free of charge."
+faqs:
+  - q: "Which GCSE Maths grade will Leatherhead sixth forms want before A-Level Maths?"
+    a: "It depends on the sixth form, and the figures change from year to year. For September 2027, Therfield asks for a 6 in Maths before A-Level Maths and an 8 before Further Maths, on top of at least five GCSEs at grade 4 or above. St Andrew's and the Howard of Effingham set their own, so check their current prospectuses. Once you know the number, the tutor can plan back from it, ideally starting in Year 10."
+  - q: "Is the non-calculator paper or the calculator paper more worth practising?"
+    a: "Both, because all three papers count equally: one non-calculator and two calculator, so the calculator papers carry two-thirds of the grade between them. The non-calculator paper rewards quick arithmetic and tidy algebra, while the calculator papers reward accuracy over several steps. Most children drop more early marks on the non-calculator paper, and more at the back of Paper 3 on AQA and Edexcel. A tutor checks one of each from a recent mock and starts with whichever is costing more."
+  - q: "How do I work out where my child's Maths marks are actually going?"
+    a: "Look at where on a recent mock the marks went, not just the total. Papers tend to get harder as they go, so marks lost early usually point to a topic gap, like fractions or negative numbers, while marks lost in the last few questions are more often about problem-solving and time. Blank spaces tell you something different from crossed-out working. A tutor reads a paper this way in the first lesson and turns it into a plan."
+  - q: "What sort of person would be my child's Maths tutor?"
+    a: "A tutor we've interviewed ourselves. Some are qualified teachers, others are graduates or current university students, many from Russell Group universities, and every one has at least two years of tutoring experience. A recent graduate can be a good match for a confident student, since they sat these papers not long ago. A teacher can suit a child who's lost faith in Maths. We'll suggest whichever fits your child."
+  - q: "How much does GCSE Maths tutoring cost for Leatherhead families?"
+    a: "Lessons start at £37 an hour. Each tutor's rate reflects their experience, and you'll know it before you book. That covers the lesson itself, the tutor's preparation and a recording you can watch back. There's no joining fee, no materials charge and no contract: you pay as you go and can stop at any point. The first call with us and the 15-minute video meeting with the tutor are free."
+# FAQ picks: G01, A11, A06, E02, C02
+reviews:
+  - "Chamarika|Parent of GCSE Student|Good tutoring platform. I did have some initial issues with a couple of tutors but Joe is very responsive and works to swiftly resolve things. My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring. We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s. Thank you to all the 3x tutors."
+  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. We opted for Avery and she was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back in her abilities and gave her the confidence to face Maths GCSE exams. Highly recommend Degree Gap and will be back again in September with my youngest embarking on her GCSEs"
+  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents.\n\nUPDATE: My daughter passed both English and Maths GCSE (4 and 5's). We are extremely grateful to your team especially Avery for the support she gave her in both subjects. Considering she missed a large chunk of the last 3 years at school due to a social anxiety illness, this is an amazing achievement for her."
+  - "Isabel|Parent of iGCSE Student|Harry helped our son enormously with his maths and economics iGCSE prep. He was patient, fun and engaging - just what we needed. Highly recommended."
+  - "Hermione|GCSE Student|Came here to search for a GCSE maths tutor and was recommended Rebecca Hanna by the very helpful Harry. Rebecca was nothing but helpful and comforting. I highly recommend her, especially since she helped me pass the GCSE! Thank you."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

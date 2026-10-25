@@ -29,7 +29,7 @@ area_links:
   - "London Tutors|/locations/london-tutors/"
   - "Bromley Tutors|/locations/bromley-tutors/"
   - "Croydon Tutors|/locations/croydon-tutors/"
-  - "Sutton Tutors|/locations/sutton-tutors/"
+  - "Tooting Tutors|/locations/tooting-tutors/"
   - "Clapham Tutors|/locations/clapham-tutors/"
   - "Beckenham Tutors|/locations/beckenham-tutors/"
 gcse_subjects:

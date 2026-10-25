@@ -30,8 +30,8 @@ area_links:
   - "Birmingham Tutors|/locations/birmingham-tutors/"
   - "Leicester Tutors|/locations/leicester-tutors/"
   - "Nottingham Tutors|/locations/nottingham-tutors/"
-  - "Derby Tutors|/locations/derby-tutors/"
-  - "Oxford Tutors|/locations/oxford-tutors/"
+  - "Rugby Tutors|/locations/rugby-tutors/"
+  - "Nuneaton Tutors|/locations/nuneaton-tutors/"
 gcse_subjects:
   - "GCSE Maths Tuition|Rebuilt one step at a time, from number work to algebra and geometry, so the methods hold up when the exam pressure kicks in.|/book-a-call/"
   - "GCSE Computer Science Tuition|Programming logic, data structures and algorithms explained plainly, for a child who finds the abstract ideas hard to pin down.|/book-a-call/"

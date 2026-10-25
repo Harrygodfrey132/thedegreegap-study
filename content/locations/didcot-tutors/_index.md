@@ -19,7 +19,7 @@ online_2: "It also means the tutor can live anywhere in the country, chosen for 
 online_image: "/images/student-studying-at-night-with-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Didcot,UK&output=embed"
 areas_intro: "Online lessons work just as well from Harwell, Chilton, Milton or West Hagbourne as from the middle of Didcot, and we can help families in the nearby towns below too."
-area_links: ["Abingdon Tutors|/locations/abingdon-tutors/", "Oxford Tutors|/locations/oxford-tutors/", "Henley-on-Thames Tutors|/locations/henley-on-thames-tutors/", "Reading Tutors|/locations/reading-tutors/", "Swindon Tutors|/locations/swindon-tutors/", "Bicester Tutors|/locations/bicester-tutors/"]
+area_links: ["Abingdon Tutors|/locations/abingdon-tutors/", "Oxford Tutors|/locations/oxford-tutors/", "Henley-on-Thames Tutors|/locations/henley-on-thames-tutors/", "Reading Tutors|/locations/reading-tutors/", "Swindon Tutors|/locations/swindon-tutors/", "Newbury Tutors|/locations/newbury-tutors/"]
 gcse_subjects: [
   "GCSE Physics Tuition|Formulae turned around calmly and units checked every time, groundwork for engineering at the UTC or Physics at sixth form.|/book-a-call/",
   "GCSE English Tuition|Unseen extracts, set texts and the writing task, broken into steps for a child who'd rather be doing Science.|/book-a-call/",
