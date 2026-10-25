@@ -10249,6 +10249,58 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   .book-call--em-shortis-tuition .book-call__endorsement-wordmark { font-size: 0.95rem; }
 }
 
+/* thinka referral page (thinka.ai, an AI revision platform). Their own
+   colours: the purple from their logo (#6455F5), a pale lavender for the
+   badge, and their near-black (#282A2F) for text. The logo is their
+   horizontal SVG at static/images/partners/thinka-logo.svg. */
+.book-call--thinka .book-call__form-tag {
+  background: #F1EFFE;
+  color: #4A3ED6;
+  border: 1.5px solid #6455F5;
+  padding: 5px 12px;
+  font-weight: 800;
+}
+.book-call--thinka .book-call__reviews-brand {
+  color: #4A3ED6;
+}
+.book-call--thinka .book-call__endorsement {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  padding: 12px 22px;
+  background: #FFFFFF;
+  border: 1.5px solid #6455F5;
+  border-radius: 999px;
+  box-shadow: 0 2px 10px rgba(100, 85, 245, 0.14);
+  text-decoration: none;
+  color: #282A2F;
+  transition: background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease;
+  max-width: max-content;
+}
+.book-call--thinka .book-call__endorsement:hover {
+  background: #F1EFFE;
+  box-shadow: 0 4px 14px rgba(100, 85, 245, 0.24);
+  transform: translateY(-1px);
+  text-decoration: none;
+  color: #282A2F;
+}
+.book-call--thinka .book-call__endorsement-label {
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #4A3ED6;
+  white-space: nowrap;
+  padding-right: 12px;
+  border-right: 1px solid rgba(100, 85, 245, 0.35);
+}
+.book-call--thinka .book-call__endorsement img { height: 36px; width: auto; display: block; }
+@media (max-width: 540px) {
+  .book-call--thinka .book-call__endorsement { padding: 10px 16px; gap: 10px; }
+  .book-call--thinka .book-call__endorsement-label { padding-right: 10px; font-size: 0.66rem; }
+  .book-call--thinka .book-call__endorsement img { height: 30px; }
+}
+
 /* ---------------------------------------------------------------------------
    Dual review badges (Google + Trustpilot). Rendered by
    layouts/partials/review-badges.html. Visual trust signal only: no
