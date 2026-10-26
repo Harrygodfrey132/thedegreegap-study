@@ -18,6 +18,11 @@ webinar_ref: "/webinars/gcse-revision-masterclass"
 youtube_url: ""
 youtube_channel_live: "https://www.youtube.com/@thedegreegap/live"
 
+# How many minutes before the start the page opens YouTube, so people are
+# in the stream (or the Premiere's waiting room) before it begins. The
+# countdown runs to this moment and the page shows the time. 0 = on the dot.
+open_minutes_before: 5
+
 # The 15-minute event on Cal.com. /15minutes doesn't exist; /15min does.
 cal_url: "https://cal.com/thedegreegap/15min"
 
