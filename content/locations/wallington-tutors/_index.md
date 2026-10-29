@@ -31,7 +31,7 @@ area_links:
   - "Epsom Tutors|/locations/epsom-tutors/"
   - "Kingston upon Thames Tutors|/locations/kingston-upon-thames-tutors/"
   - "Tooting Tutors|/locations/tooting-tutors/"
-  - "London Tutors|/locations/london-tutors/"
+  - "Ewell Tutors|/locations/ewell-tutors/"
 gcse_subjects:
   - "GCSE Chemistry Tuition|Mole calculations set out one line at a time, so a slip costs a single mark rather than the whole question.|/book-a-call/"
   - "GCSE History Tuition|Source questions and longer essays, where a clear judgement on paper earns far more than knowing the dates.|/book-a-call/"

@@ -28,8 +28,8 @@ areas_intro: "Raynes Park, Wimbledon Park, South Wimbledon or the Village: it's 
 area_links:
   - "Kingston upon Thames Tutors|/locations/kingston-upon-thames-tutors/"
   - "Sutton Tutors|/locations/sutton-tutors/"
-  - "London Tutors|/locations/london-tutors/"
-  - "Epsom Tutors|/locations/epsom-tutors/"
+  - "New Malden Tutors|/locations/new-malden-tutors/"
+  - "Colliers Wood Tutors|/locations/colliers-wood-tutors/"
   - "Croydon Tutors|/locations/croydon-tutors/"
   - "Tooting Tutors|/locations/tooting-tutors/"
 gcse_subjects:

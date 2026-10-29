@@ -31,7 +31,7 @@ area_links:
   - "Burton upon Trent Tutors|/locations/burton-upon-trent-tutors/"
   - "Wolverhampton Tutors|/locations/wolverhampton-tutors/"
   - "Birmingham Tutors|/locations/birmingham-tutors/"
-  - "Stoke-on-Trent Tutors|/locations/stoke-on-trent-tutors/"
+  - "Cannock Tutors|/locations/cannock-tutors/"
 gcse_subjects:
   - "GCSE Physics Tuition|Equations rearranged without a formula triangle, and units checked at every step, because that's where easy marks leak away.|/book-a-call/"
   - "GCSE English Tuition|Language and Literature treated as the two separate GCSEs they are, with quotations your child can recall without the book.|/book-a-call/"

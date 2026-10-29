@@ -1,0 +1,57 @@
+---
+title: "A-Level Chemistry Tutors for Ewell Students | The Degree Gap"
+nav_title: "Chemistry"
+description: "Equilibrium, pH and buffer calculations costing marks? Online A-Level Chemistry tutors for Ewell sixth formers, matched to your child's exam board. From £37."
+layout: "level-subject"
+location: "Ewell"
+level: "A-Level"
+subject: "Chemistry"
+hero_h1: "Online A-Level Chemistry Tutors for Ewell Students Whose pH and Equilibrium Answers Fall Apart"
+hero_lead: "The organic reactions are learnt and the definitions are word-perfect, but a three-step Kc or buffer calculation goes wrong somewhere in the middle. Our Ewell A-Level Chemistry tutors set those calculations out line by line until your child can do them alone."
+angle_eyebrow: "THE PHYSICAL CHEMISTRY HALF"
+angle_heading: "Where an A-Level Chemistry Tutor Picks Up Calculation Marks for Ewell Sixth Formers"
+angle_body_1: "Physical chemistry is where plenty of A-Level Chemistry marks go, and most of it is calculation. Equilibrium constants come first, Kc in Year 12 and Kp in Year 13, with units that change from question to question. Then the pH of a weak acid, a buffer, and a titration curve read off a graph. Enthalpy cycles, where one sign error flips the answer. Entropy and Gibbs free energy, with units to convert before anything else. Your child usually understands the idea when it's taught. What goes wrong is the order of steps under time, and a missing unit that costs a mark on its own."
+angle_body_2: "So the tutor works through each calculation type in one fixed layout: write the expression, substitute with units, rearrange, then ask whether the answer is sensible. Once that's routine, it's timed past-paper questions that mix topics, the way the real papers do. Chemistry matters for a lot of what comes next, since Medicine courses usually want it and so do pharmacy degrees. There's chemistry on the doorstep, too. The Institute of Cancer Research in Sutton runs drug discovery work a few miles from Ewell, and Kingston University teaches pharmacy."
+angle_image: "/images/periodic-table-and-beaker.jpg"
+angle_image_alt: "An A-Level Chemistry student setting out a buffer pH calculation with an online tutor"
+angle_stat_from: "E"
+angle_stat_to: "B"
+angle_stat_detail: "“Has definitely helped me increase my grades” from “an E to a B”, wrote Keira, A-Level Student, on Google. The review doesn't say which subject, so these may not be Chemistry grades."
+schools:
+  - "Glyn School"
+  - "Epsom and Ewell High School"
+  - "Nonsuch High School for Girls"
+  - "Ewell Castle School"
+  - "Blenheim High School"
+  - "Rosebery School"
+steps_heading: "A-Level Chemistry lessons for your child in Ewell, from first call to first lesson"
+steps_lead: "Tutor profiles usually arrive the day after the call, so calculation practice can be under way before the next round of tests."
+steps:
+  - title: "A free call about your child"
+    body: "A free chat with Harry or Joe, usually about 30 minutes. Tell us the board, whether physical, organic or inorganic chemistry worries your child most, and how the last test went. A marked paper helps."
+  - title: "Choose your tutor"
+    body: "Within 24 hours you'll have two or three Chemistry tutor profiles, from people who know your child's board. Your child has a free 15-minute video call with your first choice before any lesson is booked."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, with calculations set out on the shared whiteboard and a recording of each lesson to replay. From £37 an hour, no contract, and if the tutor isn't right we'll suggest someone else for free."
+faqs:
+  - q: "Is A-Level Chemistry needed for pharmacy or Medicine courses near Ewell, like Kingston or St George's?"
+    a: "Usually, yes. Most medical schools ask for Chemistry, and pharmacy degrees, like the one at Kingston University, generally want it too. The exact grades and second subjects differ between universities, City St George's in Tooting included, and they change from year to year, so check each course page. A tutor then works on the Chemistry grade itself, often starting with the calculation topics that hold students back."
+  - q: "How long before Chemistry tutoring starts to show?"
+    a: "For one area, such as equilibrium or pH, it's often six to ten weekly lessons, as long as your child practises in between. Exam technique gaps can close faster. Gaps going back to Year 12 moles or GCSE bonding take longer, because the tutor has to rebuild from there. The first lesson shows which kind it is, and the tutor will tell you."
+  - q: "Will the Chemistry tutor set homework on top of school's?"
+    a: "Usually an hour or so between lessons: a short set of past-paper questions on whatever the lesson covered, which the tutor marks next time. That's on top of school work, so it's kept small on purpose. More than an hour and a half a week tends to stop helping. If school is heavy in a particular week, tell the tutor and they'll adjust."
+  - q: "How do you make sure a tutor can really teach A-Level Chemistry?"
+    a: "Each tutor sits an interview with Harry or Joe first, and around 3% of the people who apply are accepted. We check they know the subject in depth, but just as much that they can explain a buffer calculation clearly to a tired seventeen-year-old. Every tutor has at least two years of tutoring experience, and we match on your child's board, since AQA, OCR and Edexcel each organise the course differently."
+  - q: "Can we pause Chemistry lessons, or stop altogether?"
+    a: "Yes, whenever you like. You're not tied in. Each lesson is paid for as it happens, with nothing in advance. Give the tutor a day or two's notice to skip a week, pause over exam leave, or stop altogether. Plenty of families take a break after the mocks and pick up again before the summer exams."
+# FAQ picks: G04, A01, A09, E01, C09
+reviews:
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "Theresa|Parent|Harry and Joe were extremely helpful with a wealth of knowledge and contacts that helped my son to follow the right path."
+  - "Maureen|Student|The Degree gap actually made tutoring approachable. It's the worst feeling when you are struggling, frustrated and feel helpless. I was matched with a great tutor who always made time for me. The software made it easy to navigate topics I found difficult. Having that reliable support was critical to my much improved grades. Thank you so much!"
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

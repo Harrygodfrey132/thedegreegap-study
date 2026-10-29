@@ -19,7 +19,7 @@ online_2: "It widens the choice, too. The right tutor for AQA Geography or Edexc
 online_image: "/images/child-using-online-learning-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Worcester,UK&output=embed"
 areas_intro: "From the city centre out to the Worcestershire towns nearby, the lessons and the matching work the same way. Families in these towns use us too."
-area_links: ["Birmingham Tutors|/locations/birmingham-tutors/", "Coventry Tutors|/locations/coventry-tutors/", "Cheltenham Tutors|/locations/cheltenham-tutors/", "Stratford-upon-Avon Tutors|/locations/stratford-upon-avon-tutors/", "Oxford Tutors|/locations/oxford-tutors/", "Bristol Tutors|/locations/bristol-tutors/"]
+area_links: ["Birmingham Tutors|/locations/birmingham-tutors/", "Coventry Tutors|/locations/coventry-tutors/", "Cheltenham Tutors|/locations/cheltenham-tutors/", "Stratford-upon-Avon Tutors|/locations/stratford-upon-avon-tutors/", "Oxford Tutors|/locations/oxford-tutors/", "Stourbridge Tutors|/locations/stourbridge-tutors/"]
 gcse_subjects: [
   "GCSE Maths Tuition|Your child talks each step back to the tutor, which shows exactly which bit they've been nodding along to.|/book-a-call/",
   "GCSE English Tuition|Essays for Language and Literature, with room to try an idea out loud before committing it to paper.|/book-a-call/",

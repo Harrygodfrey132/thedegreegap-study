@@ -1,0 +1,57 @@
+---
+title: "A-Level Biology Tutors for Ewell Students | The Degree Gap"
+nav_title: "Biology"
+description: "Losing A-Level Biology marks on graphs and statistics questions? Online A-Level Biology tutors for Ewell sixth formers, matched to your child's board. From £37."
+layout: "level-subject"
+location: "Ewell"
+level: "A-Level"
+subject: "Biology"
+hero_h1: "Online A-Level Biology Tutors for Ewell Students Who Lose Marks on the Data Questions"
+hero_lead: "Your child can learn the Krebs cycle by heart, then lose easy marks on a graph, a percentage change or a statistical test. Our Ewell A-Level Biology tutors make the maths in Biology routine, so it stops costing marks."
+angle_eyebrow: "MORE MATHS THAN ANYONE EXPECTED"
+angle_heading: "Where an A-Level Biology Tutor Finds Easy Marks for Ewell Sixth Formers"
+angle_body_1: "A-Level Biology carries more maths than most students expect when they pick it, and those marks are spread across every paper. Working out a rate from the gradient of a curve. Percentage change, done the wrong way round. Choosing between a chi-squared test, a t-test and a correlation coefficient, then saying what the result means for the hypothesis. Add the practical questions, which ask your child to criticise a method they've never seen, and the data marks can decide a grade. None of it is hard Biology. It's unfamiliar, and a busy class rarely has the time to drill it."
+angle_body_2: "So the tutor builds a short routine for each type: what to do with a gradient, how to set out a percentage change, how to pick a statistical test and word the conclusion. Your child practises them on past-paper data until they're automatic, alongside the content. If your child has a health career in mind, there's plenty close by. The Royal Marsden and the Institute of Cancer Research share a site in Sutton, Epsom Hospital is a short drive away, and City St George's in Tooting teaches medicine and biomedical science. Each course sets its own offer, so check the grades early."
+angle_image: "/images/fluorescent-cells-under-microscope.jpg"
+angle_image_alt: "An A-Level Biology student choosing a statistical test for practical data with an online tutor"
+angle_stat_from: "E/U"
+angle_stat_to: "C"
+angle_stat_detail: "“The A level tutoring made such a difference to my son…” He turned “E and U grades into 3 C grades”, Joanna, Parent of A-Level Student, wrote on Google. The review doesn't say which subjects, so they may not include Biology."
+schools:
+  - "Glyn School"
+  - "Epsom and Ewell High School"
+  - "Nonsuch High School for Girls"
+  - "Ewell Castle School"
+  - "Blenheim High School"
+  - "Rosebery School"
+steps_heading: "Starting A-Level Biology lessons from home in Ewell, step by step"
+steps_lead: "You'll usually have tutor profiles the day after the call, so there's time to work on the data questions before the next mock."
+steps:
+  - title: "A free call about your child"
+    body: "Half an hour on the phone with Harry or Joe, free. We'll ask about the board, which papers went worst in the last mock and whether Medicine, nursing or another course is on your child's mind."
+  - title: "Choose your tutor"
+    body: "Two or three Biology tutor profiles within 24 hours, each from someone who knows your child's board and its practical questions. Before anything's booked, your child talks to your pick on a free 15-minute video call."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, with graphs plotted and pathways drawn on the shared whiteboard, and every lesson recorded. From £37 an hour, no contract, and a different tutor at no extra cost if the match isn't right."
+faqs:
+  - q: "My daughter wants to study Medicine. Can online Biology tutoring help with more than the grade?"
+    a: "Yes. Medical schools ask for top A-Level grades, with Biology and Chemistry usually central, and most also want an admissions test such as the UCAT and a strong personal statement. A tutor works on the Biology itself, and Harry and Joe can talk you through the application side. City St George's in Tooting is one of the closest medical schools to Ewell, but check each university's current requirements, as offers differ."
+  - q: "How do I work out where my child's Biology marks are going?"
+    a: "Look at a recent mock question by question, not just the total. Marks dropped on short recall questions point to content that needs revisiting. Marks dropped on graphs, calculations or practical questions point to skills, which respond well to regular practice. Long answers that lose marks usually need linking ideas across topics. A tutor does this sorting in the first lesson, and the plan comes from it."
+  - q: "My child takes Biology and Chemistry. Can one tutor help with both?"
+    a: "It's possible. Lots of tutors are comfortable with both, and some topics really do overlap, enzymes and respiration especially. One tutor works well when your child needs a little help in each. When one subject is much further behind, two tutors tend to be better, so each lesson isn't split down the middle. Tell us how each is going on the call and we'll suggest a setup."
+  - q: "Are your Biology tutors teachers or university students?"
+    a: "A mix, and we'll pick whoever suits your child. A few are qualified teachers. More are graduates or university students, often from Russell Group universities, and several are reading Medicine or a biological science right now. Harry or Joe has interviewed each one, and every tutor has tutored for two years or more. Someone who sat A-Level Biology recently often knows exactly how the data questions feel on the day."
+  - q: "What if the Biology tutor doesn't suit my child?"
+    a: "We'll suggest someone else, and it won't cost you anything. Most mismatches show up on the free 15-minute video call, before you've paid for a lesson. If it takes a lesson or two to realise, that's fine too: let Harry or Joe know and they'll send new profiles. With roughly 3% of applicants accepted onto the platform, there's usually a second good option ready."
+# FAQ picks: G04, A06, A13, E02, C01
+reviews:
+  - "Joanna|Parent of A-Level Student|The A level tutoring made such a difference to my son, who had left studying until the final hour, managing to turn E and U grades into 3 C grades. Amazing"
+  - "Kasia|Parent|Harry is a great tutor. He's very helpful and knowledgeable. He's git goid understanding of student's needs as well as current situation when it comes to university education in the UK. His experience and expertise helped my son make some decisions about choosing A level subject and university course. …"
+  - "Lisa|Parent of Two Students|Joe and Harry at The Degree Gap have exceeded all my expectations.  They have gone above and beyond to pair both my sons with the appropriate tutors, all of whom have been exceptional.  Both my sons exceeded well above their expected grades in their GCSE's and A Levels and got into their first choice Universities. I cannot recommend them highly enough."
+  - "Leo|A-Level Student|The Degree Gap tutored me throughout my A level journey and helped boost my grades to the highest grades. The flexibility of timing was the most helpful thing. My tutor, Harry, found time whenever I needed him to help me on any topic. This involved question run through, marking of questions and general support throughout my 2 years of studying. Overall, the degree gap gave me excellent tutoring over a flexible time period."
+  - "Daljit|Parent of A-Level Student|My son gained almost two grades higher than jis year 13 mock paper. His tutor Jacob was excellent"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

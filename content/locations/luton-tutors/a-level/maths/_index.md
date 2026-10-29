@@ -16,9 +16,9 @@ angle_body_1: "At GCSE a question usually tells you what it wants. Factorise thi
 angle_body_2: "So tutors work from past paper questions with the topic label taken off, which is uncomfortable for about three weeks and then stops being uncomfortable. Alongside that goes the strand nobody revises, usually Mechanics or Statistics depending on temperament, since that's where marks quietly sit. Luton Sixth Form College asks for a grade 6 in GCSE Maths before A-Level Maths and puts students who arrive on a 6 into an extra weekly support class, which tells you how real the jump is. Work landing in Year 12 also reaches the prediction that goes to UCAS."
 angle_image: "/images/student-completing-maths-worksheet.jpg"
 angle_image_alt: "A Luton A-Level Maths student choosing a method for an unlabelled question with an online tutor"
-angle_stat_from: "D"
-angle_stat_to: "B"
-angle_stat_detail: "Roughly where a year of weekly one-to-one A-Level Maths hours gets pointed when method choice is the gap."
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "“Degree Gap helped my kid go from Cs to As”, Alexander wrote on Google. The review doesn't say which subjects, so Maths may not have been one of them."
 
 schools:
   - "Cardinal Newman Catholic School"

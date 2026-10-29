@@ -31,7 +31,7 @@ area_links:
   - "Oxford Tutors|/locations/oxford-tutors/"
   - "Newbury Tutors|/locations/newbury-tutors/"
   - "Wokingham Tutors|/locations/wokingham-tutors/"
-  - "Marlborough Tutors|/locations/marlborough-tutors/"
+  - "Andover Tutors|/locations/andover-tutors/"
 gcse_subjects:
   - "GCSE Maths Tuition|Past papers marked the way examiners mark them, so your child learns where the method marks are, whatever grade they're on now.|/book-a-call/"
   - "GCSE Computer Science Tuition|Algorithms and programming logic made solid, which matters if your child already has half an eye on the tech firms at Thames Valley Park.|/book-a-call/"

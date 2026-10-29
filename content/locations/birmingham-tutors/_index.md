@@ -27,9 +27,9 @@ map_url: https://maps.google.com/maps?q=Birmingham,UK&output=embed
 areas_intro: "How far away a tutor lives doesn't decide whether they're right for your child. So we help families across Birmingham and well beyond."
 area_links:
   - Coventry Tutors|/locations/coventry-tutors/
-  - Derby Tutors|/locations/derby-tutors/
+  - "Stourbridge Tutors|/locations/stourbridge-tutors/"
   - Leicester Tutors|/locations/leicester-tutors/
-  - Nottingham Tutors|/locations/nottingham-tutors/
+  - "Cannock Tutors|/locations/cannock-tutors/"
   - Nuneaton Tutors|/locations/nuneaton-tutors/
   - Burntwood Tutors|/locations/burntwood-tutors/
 gcse_subjects:

@@ -29,8 +29,8 @@ area_links:
   - Birmingham Tutors|/locations/birmingham-tutors/
   - Coventry Tutors|/locations/coventry-tutors/
   - Derby Tutors|/locations/derby-tutors/
-  - Nottingham Tutors|/locations/nottingham-tutors/
-  - Leicester Tutors|/locations/leicester-tutors/
+  - "Cannock Tutors|/locations/cannock-tutors/"
+  - "Stourbridge Tutors|/locations/stourbridge-tutors/"
   - Burntwood Tutors|/locations/burntwood-tutors/
 gcse_subjects:
   - "GCSE Maths Tuition|Whatever's holding your child's Maths back, found and worked on, since sixth form courses often ask for a good Maths grade.|/book-a-call/"

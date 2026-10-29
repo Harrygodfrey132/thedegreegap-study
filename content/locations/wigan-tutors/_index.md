@@ -19,7 +19,7 @@ online_2: "Because it's online, the tutor doesn't have to live in Wigan, or anyw
 online_image: "/images/child-using-online-learning-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Wigan,UK&output=embed"
 areas_intro: "From Standish down to Orrell and across into Merseyside, every lesson runs online. Where you live never limits which tutor your child gets, and it's the same for the towns listed below."
-area_links: ["Manchester Tutors|/locations/manchester-tutors/", "Bolton Tutors|/locations/bolton-tutors/", "Liverpool Tutors|/locations/liverpool-tutors/", "Chester Tutors|/locations/chester-tutors/", "Sheffield Tutors|/locations/sheffield-tutors/", "Leeds Tutors|/locations/leeds-tutors/"]
+area_links: ["Manchester Tutors|/locations/manchester-tutors/", "Bolton Tutors|/locations/bolton-tutors/", "Liverpool Tutors|/locations/liverpool-tutors/", "Chester Tutors|/locations/chester-tutors/", "Salford Tutors|/locations/salford-tutors/", "Leeds Tutors|/locations/leeds-tutors/"]
 gcse_subjects: [
   "GCSE Maths Tuition|Algebra, ratio and the problem-solving questions, taken back to the step where your child last felt sure of it.|/book-a-call/",
   "GCSE English Tuition|Timed practice on unseen extracts and set texts, so your child reaches the final question with time to spare.|/book-a-call/",

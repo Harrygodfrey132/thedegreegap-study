@@ -1,0 +1,57 @@
+---
+title: "Private GCSE English Tutors for Ewell Students | The Degree Gap"
+nav_title: "English"
+description: "Can your child retell the plot but not explain the writer's choices? A private online GCSE English tutor for Ewell students, Glyn to Nonsuch. From £37 an hour."
+layout: "level-subject"
+location: "Ewell"
+level: "GCSE"
+subject: "English"
+hero_h1: "Online GCSE English Tutors for Ewell Students Who Know What Happens but Not Why"
+hero_lead: "Your child can tell you everything that happens in An Inspector Calls, but ask why Priestley wrote it that way and the conversation stops, along with the marks. Our Ewell GCSE English tutors work on that step, from Year 8 right up to the final papers."
+angle_eyebrow: "FROM ROMEO AND JULIET TO MACBETH"
+angle_heading: "Why a GCSE English Tutor Often Starts With Habits From Year 8 and 9 for Ewell Students"
+angle_body_1: "English marks tend to leak from the same few places. On AQA's first Language paper, it's the structure question, where your child lists what happens instead of saying why the writer ordered it that way. On the second, comparing two writers' viewpoints turns into two summaries side by side. In Literature, it's quotations learnt with nothing to say about them, and the unseen poem. Most of this starts before Year 10. In Years 7 to 9, at Glyn for instance, children read Romeo and Juliet, The Tempest and Dennis Kelly's DNA, and an essay that mostly retells the story can still do fine. At GCSE it doesn't."
+angle_body_2: "So the tutor takes a piece your child has already had marked and rebuilds one paragraph with them on the shared whiteboard: one quotation, one word inside it, what that word does, and why the writer wanted it there. Then come short timed bursts until the habit holds. The grade reaches beyond English, too. For September 2027, Glyn's sixth form asks for at least a 4 in one English paper, and Nonsuch's 2026 admissions policy wanted a 6 in English Language or Literature. Down Reigate Road, NESCOT's Health T Level lists a 5 in English."
+angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"
+angle_image_alt: "A GCSE English student annotating a quotation from An Inspector Calls with an online tutor"
+angle_stat_from: "5"
+angle_stat_to: "6/7"
+angle_stat_detail: "Omo's son “really struggled with English”. Six months on, “he has improved from a grade 5 to a 6/7.” From the Google review, Parent of GCSE Student."
+schools:
+  - "Glyn School"
+  - "Epsom and Ewell High School"
+  - "Nonsuch High School for Girls"
+  - "Ewell Castle School"
+  - "Rosebery School"
+  - "Blenheim High School"
+steps_heading: "GCSE English tutoring for your child in Ewell: how it starts"
+steps_lead: "Most families have profiles to read the day after the call, which leaves time for a good run of lessons before the Year 11 mocks."
+steps:
+  - title: "A free call about your child"
+    body: "Half an hour with Harry or Joe, at no cost, about your child and English. Tell us your child's year group, exam board and set texts, and whether it's Language or Literature that's worrying you. If they're in Year 8 or 9, tell us what they're reading in class."
+  - title: "Choose your tutor"
+    body: "Within 24 hours you'll get two or three profiles from English tutors who know your child's board and texts. Before you book, your child chats to your favourite on a free 15-minute video call."
+  - title: "Weekly lessons"
+    body: "An hour a week on Lessonspace, with paragraphs drafted and rewritten on the shared whiteboard and every lesson recorded. Lessons start at £37 an hour, there's no contract, and changing tutor costs nothing if the first one isn't right."
+faqs:
+  - q: "What English grade will Ewell sixth forms and colleges ask for?"
+    a: "It depends where your child is heading. For September 2027, Glyn's sixth form wants five GCSEs at grade 4 or above, including Maths and one English paper, and Epsom and Ewell High asks for a 4 in English and Maths, plus a 5 in the A-Level subject. Nonsuch's 2026 policy asked for a 6 in English. At NESCOT, T Levels start at a 4, and Health or Education and Childcare list a 5. Check the current prospectus, as figures change."
+  - q: "We've been looking for a GCSE English tutor in Ewell. Why would the lessons be online?"
+    a: "Because it lets us find the right person, not just the nearest one. The tutor who knows your child's board, and has taught Macbeth or the Power and Conflict poems many times, might live anywhere in the UK. Your child joins from home, whether that's Stoneleigh, West Ewell or the village, and works on a shared whiteboard where essays get drafted and marked live. Each lesson is recorded, so a quotation explained in October is still there in May."
+  - q: "My child is in Year 8. Is KS3 English tutoring worth it, or should we wait for GCSEs?"
+    a: "If English is already a struggle, Year 8 or 9 is a good time. KS3 is where the habits form: reading closely, picking a quotation that proves a point, planning before writing. Fixing those now is far easier than in Year 11, when the set texts and timed papers arrive together. Lessons at this age are relaxed and short on exam drills. And if your child is coping fine, we'll tell you it can wait."
+  - q: "Who would my child's English tutor actually be?"
+    a: "Someone Harry or Joe has interviewed personally. Some English tutors are qualified teachers, others are graduates or current university students, many from Russell Group universities, and every one has at least two years of tutoring experience. A recent English graduate can suit a confident reader who needs pushing, while a teacher often suits a child who's lost faith in the subject. We'll suggest whoever fits your child best."
+  - q: "Is a private GCSE English tutor worth the money?"
+    a: "It depends on the gap, and we'll say so plainly on the call. If your child's essays sit a grade or two below what a sixth form or college course needs, a term of weekly lessons on paragraph writing and exam timing often helps a lot. If English is going fine and you'd simply like reassurance, you may not need us yet. Lessons start at £37 an hour, with no contract, so you can stop whenever you like."
+# FAQ picks: G01, G03, A04, E02, C03
+reviews:
+  - "Simone|Parent of GCSE Student|My son has just passed his English GCSE with a Grade 5 — he only needed a Grade 4, so we are absolutely over the moon and incredibly proud! 🎉👏 With all of my son SEN needs and the challenges he has faced throughout his education, there were times when we genuinely weren't sure he would get here. But today he has proved that anything is achievable with the right support, belief and determination. A huge thank you to Emir, Your encouragement and motivation has meant so much. We are so grateful for everything you have done. 🙏"
+  - "Omo|Parent of GCSE Student|My son, who is in Year 10, really struggled with English and was completely disengaged from the subject. However, after six months of working with Malvina, he has improved from a grade 5 to a 6/7.\n\nI honestly can’t believe I’m saying this, but he now looks forward to his lessons. Through one-to-one tutoring, he has learned effective strategies that help him approach English in a way that actually resonates with his mathematical mindset.\n\nThank you to Degree Gap Tutoring!"
+  - "Jo|Parent of GCSE Student|We got in touch with The Degree Gap to help support our son to pass his English Language GCSE. Although we were close to the exam period when we started, his weekly tutor sessions made such a difference. He passed and has gained entrance to college without need for any re-sits. Thank you!"
+  - "Gilmoore|Parent of GCSE Student|Initially I was hesitant to enrol my son for online lessons. However, the company has well experienced, knowledgeable and helpful tutors. There is also flexibility around booking of lessons. At the end of the day, my son achieved the next top grade than what had been predicted in his mid-year school GCSE exams. I am forever indebted to The Degree Gap."
+  - "Chris|Parent of GCSE Student|Very good tutoring for my daughter and good communication with parents.\n\nUPDATE: My daughter passed both English and Maths GCSE (4 and 5's). We are extremely grateful to your team especially Avery for the support she gave her in both subjects. Considering she missed a large chunk of the last 3 years at school due to a social anxiety illness, this is an amazing achievement for her."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

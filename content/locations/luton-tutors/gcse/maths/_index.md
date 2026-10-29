@@ -16,9 +16,9 @@ angle_body_1: "The thing that shapes a Luton Year 11's Maths grade is often deci
 angle_body_2: "So the first hour goes on a paper your child has already sat. The tutor reads the working rather than the score and keeps stepping back until the arithmetic underneath holds up, which is often two or three years before the topic that triggered the call. Then the plan builds forwards, with every step written on the whiteboard instead of done in somebody's head, which is what turns a tier decision from a guess into a judgement. It matters here because Luton Sixth Form College publishes an average GCSE threshold for its A-Level programmes and asks for more again in Maths, while Barnfield College names Maths and English on a lot of its Level 3 routes."
 angle_image: "/images/maths-equations-close-up.jpg"
 angle_image_alt: "A Luton GCSE Maths student writing out algebra working with an online tutor"
-angle_stat_from: "4"
-angle_stat_to: "6"
-angle_stat_detail: "Roughly where a term of weekly one-to-one GCSE Maths hours gets pointed once the method underneath has been rebuilt."
+angle_stat_from: "5"
+angle_stat_to: "6/7"
+angle_stat_detail: "These grades are from GCSE English, not Maths: after six months of lessons, Omo's son “has improved from a grade 5 to a 6/7”, as Omo wrote on Google."
 
 schools:
   - "Denbigh High School"

@@ -29,7 +29,7 @@ area_links:
   - "London Tutors|/locations/london-tutors/"
   - "Croydon Tutors|/locations/croydon-tutors/"
   - "Sutton Tutors|/locations/sutton-tutors/"
-  - "Kingston upon Thames Tutors|/locations/kingston-upon-thames-tutors/"
+  - "Colliers Wood Tutors|/locations/colliers-wood-tutors/"
   - "Bromley Tutors|/locations/bromley-tutors/"
   - "Tooting Tutors|/locations/tooting-tutors/"
 gcse_subjects:

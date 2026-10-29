@@ -28,7 +28,7 @@ areas_intro: "Whether you're near Bitterne Park or out towards Eastleigh, we'll 
 area_links:
   - Portsmouth Tutors|/locations/portsmouth-tutors/
   - Brighton Tutors|/locations/brighton-tutors/
-  - Bristol Tutors|/locations/bristol-tutors/
+  - "Andover Tutors|/locations/andover-tutors/"
   - Oxford Tutors|/locations/oxford-tutors/
   - Reading Tutors|/locations/reading-tutors/
   - Swindon Tutors|/locations/swindon-tutors/

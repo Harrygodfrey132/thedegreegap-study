@@ -28,7 +28,7 @@ areas_intro: "Every family in and around Epsom gets the same online lessons. So 
 area_links:
   - "Esher Tutors|/locations/esher-tutors/"
   - "Walton-on-Thames Tutors|/locations/walton-on-thames-tutors/"
-  - "Brighton Tutors|/locations/brighton-tutors/"
+  - "Ewell Tutors|/locations/ewell-tutors/"
   - "Leatherhead Tutors|/locations/leatherhead-tutors/"
   - "Dorking Tutors|/locations/dorking-tutors/"
   - "Tooting Tutors|/locations/tooting-tutors/"

@@ -30,7 +30,7 @@ area_links:
   - "Hounslow Tutors|/locations/hounslow-tutors/"
   - "Sunbury-on-Thames Tutors|/locations/sunbury-on-thames-tutors/"
   - "Esher Tutors|/locations/esher-tutors/"
-  - "Weybridge Tutors|/locations/weybridge-tutors/"
+  - "New Malden Tutors|/locations/new-malden-tutors/"
   - "London Tutors|/locations/london-tutors/"
 gcse_subjects:
   - "GCSE Chemistry Tuition|Moles, bonding and the practicals, worked through until a calculation can be set up without any help.|/book-a-call/"

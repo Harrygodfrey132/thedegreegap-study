@@ -19,7 +19,7 @@ online_2: "Being online also means the postcode stops mattering when we choose a
 online_image: "/images/online-study-workspace-with-coffee.jpg"
 map_url: "https://maps.google.com/maps?q=Slough,UK&output=embed"
 areas_intro: "From Slough out to Windsor, Maidenhead and the western edge of London, every lesson's online, so families anywhere along that stretch get the same tutors."
-area_links: ["Reading Tutors|/locations/reading-tutors/", "High Wycombe Tutors|/locations/high-wycombe-tutors/", "Sunbury-on-Thames Tutors|/locations/sunbury-on-thames-tutors/", "Watford Tutors|/locations/watford-tutors/", "Maidenhead Tutors|/locations/maidenhead-tutors/", "Windsor Tutors|/locations/windsor-tutors/"]
+area_links: ["Egham Tutors|/locations/egham-tutors/", "High Wycombe Tutors|/locations/high-wycombe-tutors/", "Sunbury-on-Thames Tutors|/locations/sunbury-on-thames-tutors/", "Watford Tutors|/locations/watford-tutors/", "Maidenhead Tutors|/locations/maidenhead-tutors/", "Windsor Tutors|/locations/windsor-tutors/"]
 gcse_subjects: [
   "GCSE Physics Tuition|Rearranging equations and getting units right, so answers your child has basically cracked stop losing a mark at the end.|/book-a-call/",
   "GCSE English Tuition|Language and Literature taken one at a time, since what costs marks in one is rarely the problem in the other.|/book-a-call/",

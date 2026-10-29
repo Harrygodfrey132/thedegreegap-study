@@ -19,7 +19,7 @@ online_2: "There's no driving either. An hour a week after tea, with nobody in t
 online_image: "/images/student-studying-at-night-with-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Basingstoke,UK&output=embed"
 areas_intro: "Lessons are all online, so whether you're in Basingstoke or elsewhere in north Hampshire, your child gets the tutor who fits best rather than the one who lives closest."
-area_links: ["Winchester Tutors|/locations/winchester-tutors/", "Reading Tutors|/locations/reading-tutors/", "Farnborough Tutors|/locations/farnborough-tutors/", "Aldershot Tutors|/locations/aldershot-tutors/", "Southampton Tutors|/locations/southampton-tutors/", "Newbury Tutors|/locations/newbury-tutors/"]
+area_links: ["Winchester Tutors|/locations/winchester-tutors/", "Reading Tutors|/locations/reading-tutors/", "Farnborough Tutors|/locations/farnborough-tutors/", "Aldershot Tutors|/locations/aldershot-tutors/", "Andover Tutors|/locations/andover-tutors/", "Newbury Tutors|/locations/newbury-tutors/"]
 gcse_subjects: [
   "GCSE English Tuition|Writing marked every week against the real mark scheme, which is how English grades actually move.|/book-a-call/",
   "GCSE Maths Tuition|Your child's working gets marked, not just the answer, so method marks stop slipping on longer questions.|/book-a-call/",

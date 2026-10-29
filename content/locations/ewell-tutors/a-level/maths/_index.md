@@ -1,0 +1,57 @@
+---
+title: "A-Level Maths Tutors for Ewell Students | The Degree Gap"
+nav_title: "Maths"
+description: "Lost once integration and trig identities start? Online A-Level Maths tutors for Ewell sixth formers at Glyn, Epsom and Ewell High and beyond. From £37 an hour."
+layout: "level-subject"
+location: "Ewell"
+level: "A-Level"
+subject: "Maths"
+hero_h1: "Online A-Level Maths Tutors for Ewell Students Who Get Lost Once Integration Starts"
+hero_lead: "Differentiation made sense, more or less, and then integration arrived and every question seemed to need a different trick. Our Ewell A-Level Maths tutors slow it down and show your child how to spot which method a question is asking for."
+angle_eyebrow: "SUBSTITUTION, PARTS OR PARTIAL FRACTIONS?"
+angle_heading: "What an A-Level Maths Tutor Untangles First for a Ewell Sixth Former"
+angle_body_1: "Calculus is where A-Level Maths stops feeling like GCSE. Two-thirds of the marks sit in Pure, and much of the hardest Pure work is integration: by substitution, by parts, with partial fractions, and then differential equations. Each method is learnable on its own. The trouble is choosing one when the question doesn't say, and that's where the marks go. Trig identities cause the same problem, since an integral often needs one before it'll work. And small algebra slips from Year 12, a sign here or a power there, turn a nearly right answer into a wrong one by the last line."
+angle_body_2: "So the tutor sorts integrals with your child before solving any: which want substitution, which want parts, which need rewriting first. Only then come full past-paper questions, timed. If your child takes Further Maths as well, Glyn, for one, teaches it after A-Level Maths, with Core Pure plus options in Further Statistics and Further Mechanics, so the calculus needs to be solid early. And if engineering appeals, AtkinsRéalis in Epsom lists civil and building services engineering degree apprenticeships among its Surrey roles, while Kingston University and the University of Surrey are close by for degrees."
+angle_image: "/images/maths-equations-close-up.jpg"
+angle_image_alt: "An A-Level Maths student deciding between integration methods with an online tutor"
+angle_stat_from: "C"
+angle_stat_to: "A"
+angle_stat_detail: "From Alexander's Google review (Parent): “Degree Gap helped my kid go from Cs to As.” The review doesn't say which subjects, so these may not be Maths grades."
+schools:
+  - "Glyn School"
+  - "Epsom and Ewell High School"
+  - "Nonsuch High School for Girls"
+  - "Ewell Castle School"
+  - "Blenheim High School"
+  - "Rosebery School"
+steps_heading: "A-Level Maths tutoring for your Ewell sixth former, step by step"
+steps_lead: "Profiles come through within 24 hours of the call, which matters when the Year 13 mocks are only a few weeks off."
+steps:
+  - title: "A free call about your child"
+    body: "Around 30 minutes on the phone with Harry or Joe, at no cost. We'll ask which board your child sits, whether Further Maths is in the mix, and which topics keep going wrong. A marked test is a big help."
+  - title: "Choose your tutor"
+    body: "Two or three A-Level Maths tutor profiles within 24 hours, from people who know your child's board. A free 15-minute video call with your favourite comes next, before anything's booked."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, with every step of the working on the shared whiteboard and a replay to watch afterwards. From £37 an hour, no contract, and a different tutor at no charge if the fit's wrong."
+faqs:
+  - q: "Which GCSE Maths grade do sixth forms around Ewell want for A-Level Maths?"
+    a: "It varies, so check each prospectus. For September 2027, Epsom and Ewell High asks for a 5 at GCSE in the A-Level subject, which means a 5 in Maths, while Glyn and Nonsuch publish their own subject requirements, and many sixth forms ask for more for Maths, often a 6 or 7. If your child scraped in, the first few weeks of Year 12 algebra are where a tutor helps most."
+  - q: "We're only in Year 12. Is it worth starting Maths tutoring this early?"
+    a: "Yes, if you can. Most of what goes wrong in Year 13 calculus traces back to Year 12 algebra and trigonometry, and those are far easier to fix before the harder topics sit on top. Year 12 is also when end-of-year exams start feeding into predicted grades. Starting in Year 13 still helps, but the time tends to go on catching up rather than moving ahead."
+  - q: "Should A-Level Maths lessons be an hour, or longer?"
+    a: "An hour a week suits most students. Some sixth formers, those doing Further Maths for instance, prefer 90 minutes so there's time for a full exam question after the teaching. Shorter, more frequent lessons can help before the mocks. We'll talk it through on the call and you can change it later, since you agree the timings with the tutor."
+  - q: "How do you check a tutor really knows A-Level Maths?"
+    a: "Harry or Joe personally interviews each tutor before they join, and only around 3% of the people who apply get through. We look at subject knowledge, but just as much at how clearly they explain a method to a teenager who's stuck. Every tutor has at least two years of tutoring experience, and we match on your child's exam board, since AQA, Edexcel and OCR set their papers differently."
+  - q: "We're watching the budget. What's the least tutoring that would help?"
+    a: "Often one lesson a week aimed at one topic block, such as integration or trigonometry, for six to eight weeks. That's usually enough to fix a specific gap, and you can stop or carry on after that. Another way is a weekly lesson in the run-up to the mocks only. Lessons start at £37 an hour with no contract, so you're never paying for more than you've used."
+# FAQ picks: G01, A05, A15, E01, C04
+reviews:
+  - "Alexander|Parent|Degree Gap helped my kid go from Cs to As. They have a great selection of tutors who not only assist with the curriculum but also helped with university choices and application."
+  - "John|Parent of A-Level Student|Freddie really enjoyed his time with The Degree Gap. He got help with his three A levels (maths, computer science and business) and managed to get his number one choice attending Liverpool Uni to study a masters in Maths. The tutors were organised, supportive and spent time understanding where the knowledge gaps where to ensure best chance of success in exams! Highly recommended"
+  - "Abby|Parent of A-Level Student|Harry has tutored my son in both maths and economics A-levels and has been fantastic. Harry has been professional, approachable and engaging, he has explained things clearly and has fully supported my son through the last 2 years. We are absolutely delighted with the results. Thank you!"
+  - "Marfa|Student|very engaging lessons that helped me improve my grade in maths and successfully get admitted to university"
+  - "Dan|A-Level Student|Really helped me get through my A-levels and made a massive difference when helping me get into my first choice of university."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

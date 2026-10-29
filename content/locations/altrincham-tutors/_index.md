@@ -31,7 +31,7 @@ area_links:
   - "Chester Tutors|/locations/chester-tutors/"
   - "Wigan Tutors|/locations/wigan-tutors/"
   - "Liverpool Tutors|/locations/liverpool-tutors/"
-  - "Leeds Tutors|/locations/leeds-tutors/"
+  - "Salford Tutors|/locations/salford-tutors/"
 gcse_subjects:
   - "GCSE Physics Tuition|Rearranging, unit conversions and the multi-step questions at the back of both papers, worked through on the whiteboard one step at a time.|/book-a-call/"
   - "GCSE English Tuition|Timed Language and Literature answers, each one marked the way the exam board would mark it.|/book-a-call/"

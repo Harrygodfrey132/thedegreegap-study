@@ -1,0 +1,57 @@
+---
+title: "GCSE Maths Tutors for Ewell Students | The Degree Gap"
+nav_title: "Maths"
+description: "Does your child get Maths in class, then lose it by the test? Online GCSE Maths tutors for Ewell students on AQA, Edexcel or OCR, either tier. From £37 an hour."
+layout: "level-subject"
+location: "Ewell"
+level: "GCSE"
+subject: "Maths"
+hero_h1: "Online GCSE Maths Tutors for Ewell Students Who Understood It in Class and Lost It by the Test"
+hero_lead: "Your child came home saying the lesson made sense, and the topic test a few weeks later went badly anyway. Our Ewell GCSE Maths tutors bring older topics back week after week, so methods from Year 9 are still there for the Year 11 papers."
+angle_eyebrow: "THREE PAPERS, EVERY TOPIC IN PLAY"
+angle_heading: "Why GCSE Maths Rewards What Ewell Students Still Remember, Not Just What They Learnt"
+angle_body_1: "GCSE Maths is one long course with the exams at the end, and almost any topic can turn up on any paper. At Glyn, for example, it's AQA: three papers of an hour and a half, each worth the same, with Paper 1 sat without a calculator. So the marks we see slipping are rarely this term's topic. They're angle facts and fractions from Year 7 or 8, rearranging formulas and algebraic fractions from Year 9, and the wordy ratio questions near the end of a paper, where your child can't tell which method is wanted. The effort was there. The method just faded."
+angle_body_2: "The tutor's first lesson is a mixed set of questions from right across the course, to see what's still there. After that, each lesson opens with a few questions on old topics before anything new, so methods get used often enough to stay. It matters past Year 11. For September 2027, Glyn's sixth form asks for at least a 4 in Maths, Epsom and Ewell High wants a 4 too, and Nonsuch's 2026 policy asked for a 6. If your child likes the idea of engineering, AtkinsRéalis in Epsom lists rail and civil engineering apprenticeships, the sort of route where Maths comes up early."
+angle_image: "/images/student-completing-maths-worksheet.jpg"
+angle_image_alt: "A GCSE Maths student working through a mixed set of revision questions with an online tutor"
+angle_stat_from: "4-5"
+angle_stat_to: "8"
+angle_stat_detail: "Chamarika's son “had a predicted 4-5 in Physics” and “made it an 8”, Chamarika wrote on Trustpilot (Parent of GCSE Student). The grades are from GCSE Physics, not Maths."
+schools:
+  - "Glyn School"
+  - "Epsom and Ewell High School"
+  - "Nonsuch High School for Girls"
+  - "Ewell Castle School"
+  - "Blenheim High School"
+  - "Rosebery School"
+steps_heading: "Starting GCSE Maths lessons for your child in Ewell: three steps"
+steps_lead: "Profiles come the day after the call, and when the first lesson happens is up to you and the tutor."
+steps:
+  - title: "A free call about your child"
+    body: "A free call with Harry or Joe, roughly half an hour, about your child and their Maths. We'll ask about the tier, the board and which kinds of question keep coming back wrong. A recent mock or topic test helps, even a photo of one."
+  - title: "Choose your tutor"
+    body: "Two or three Maths tutor profiles within 24 hours, each from someone who teaches your child's board and tier. Your child then meets your favourite on a free 15-minute video call, and nothing's booked until you're happy."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, each starting with a few old-topic questions and each one recorded, so your child can rewatch a method before a test. From £37 an hour, no contract, and a new tutor free of charge if it isn't working."
+faqs:
+  - q: "Which Maths topics lose Ewell teenagers the most marks at GCSE?"
+    a: "On the Higher paper, it's usually algebra that has to be handled in several steps: algebraic fractions, rearranging when the letter appears twice, and proof. Circle theorems lose marks when the reason isn't written down. Foundation papers tend to catch children out on fractions, percentages and ratio, which go back to Years 7 and 8. In both tiers, the long worded questions near the end of each paper catch out children who know the method but can't see it's the one being asked for."
+  - q: "Should my child practise the non-calculator paper or the calculator papers more?"
+    a: "Both. All three papers count equally, and since two of them allow a calculator, those two carry two-thirds of the grade between them. The non-calculator paper rewards quick, accurate arithmetic and tidy algebra. The calculator papers reward careful working over several steps. Most children drop more early marks without a calculator and more late marks with one. A tutor checks a recent paper of each kind and starts with whichever is costing more."
+  - q: "My child is on Foundation tier. Could they move up to Higher?"
+    a: "Possibly, and it's worth asking early. Foundation tops out at grade 5 and Higher runs from 4 to 9, so the tier decides what your child can reach. Schools usually confirm entries during Year 11, often after the mocks. If your child is scoring well on Foundation papers, a tutor can work through the Higher-only topics, such as surds, the quadratic formula and harder algebra, so the school has good evidence when it decides."
+  - q: "How do you choose which Maths tutors join the platform?"
+    a: "Carefully. Harry or Joe talks to every tutor before they join, and about 3% of applicants are accepted. We check subject knowledge, but mostly we're looking at how someone explains a method to a teenager who's lost confidence in it. Every tutor has at least two years of tutoring experience, and we match on your child's board and tier as well as personality."
+  - q: "Can my child have Maths lessons over Christmas and Easter?"
+    a: "Yes. Lessons are online, so holidays are easy to fit around, and plenty of families use them for a slightly longer block before the mocks or the summer exams. You agree the times with the tutor, so lessons can move around trips away and Christmas plans, then settle back into the usual weekly slot once term starts again."
+# FAQ picks: G05, A11, A12, E01, C05
+reviews:
+  - "Ellen|Parent of GCSE Student|My daughter was struggling with confidence in Maths GCSE and we decided to get a tutor. After lots of recommendations we booked a chat with Harry who listened to my daughters needs and gave a selection of tutors to choose from. He made it clear that if it didn’t feel like a good match we could try other tutors. We opted for Avery and she was a complete star, listened, made it simple, set good homework and gave my daughter her confidence back in her abilities and gave her the confidence to face Maths GCSE exams. Highly recommend Degree Gap and will be back again in September with my youngest embarking on her GCSEs"
+  - "Chamarika|Parent of GCSE Student|Good tutoring platform. I did have some initial issues with a couple of tutors but Joe is very responsive and works to swiftly resolve things. My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring. We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s. Thank you to all the 3x tutors."
+  - "Nikola|iGCSE Student|The Degree Gap paired me with a great tutor for my igcse exams. Harry was eager and really knew his stuff about Maths. It was nice that i got a free trial call first, so i could see if it was a good match. Would highly recommend to a friend."
+  - "Hermione|GCSE Student|Came here to search for a GCSE maths tutor and was recommended Rebecca Hanna by the very helpful Harry. Rebecca was nothing but helpful and comforting. I highly recommend her, especially since she helped me pass the GCSE! Thank you."
+  - "Jessica|Student|I highly recommend Harry – he was excellent in helping me with both Maths and English for my GCSEs. Thanks to his support, I passed both subjects with great results, which gave me the foundation and confidence to go on to succeed in my A-levels and complete my degree!!"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

@@ -30,7 +30,7 @@ area_links:
   - "Dorking Tutors|/locations/dorking-tutors/"
   - "Cobham Tutors|/locations/cobham-tutors/"
   - "Esher Tutors|/locations/esher-tutors/"
-  - "Kingston upon Thames Tutors|/locations/kingston-upon-thames-tutors/"
+  - "Ewell Tutors|/locations/ewell-tutors/"
   - "Sutton Tutors|/locations/sutton-tutors/"
 gcse_subjects:
   - "GCSE Physics Tuition|Equations rearranged before the numbers go in, so a long electricity question doesn't fall apart on the last line.|/book-a-call/"

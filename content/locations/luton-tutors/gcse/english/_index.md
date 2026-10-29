@@ -16,9 +16,9 @@ angle_body_1: "Parents ring us about English as one subject, and their child is 
 angle_body_2: "The bridge is structure, and structure can be taught in a way flair cannot. A student who knows what an evaluation paragraph has to contain can get a spoken thought into it under time, which is most of what the unseen paper tests. Sessions run on your child's own answers: say the point aloud, write it, compare the two, so the loss between them stops being a mystery. That matters here because Luton Sixth Form College names English Language in what it publishes for A-Level entry, and Barnfield College asks for English across its Level 3 routes. A strong Literature grade does not stand in for it."
 angle_image: "/images/handwriting-study-notes-with-highlighters.jpg"
 angle_image_alt: "A GCSE English student planning an unseen extract answer with an online tutor"
-angle_stat_from: "4"
-angle_stat_to: "6"
-angle_stat_detail: "Roughly where a term of weekly one-to-one GCSE English hours gets pointed once the writing has a structure the student trusts."
+angle_stat_from: "5"
+angle_stat_to: "6/7"
+angle_stat_detail: "Omo's son was in Year 10 and had “really struggled with English”. After six months of lessons, “he has improved from a grade 5 to a 6/7”, in Omo's words on Google."
 
 schools:
   - "Challney High School for Girls"

@@ -1,0 +1,57 @@
+---
+title: "A-Level Economics Tutors for Ewell Students | The Degree Gap"
+nav_title: "Economics"
+description: "Do your child's Economics essays ignore the extract on the paper? Online A-Level Economics tutors for Ewell sixth formers on Edexcel, AQA or OCR. From £37."
+layout: "level-subject"
+location: "Ewell"
+level: "A-Level"
+subject: "Economics"
+hero_h1: "Online A-Level Economics Tutors for Ewell Students Who Leave the Extract Out of the Essay"
+hero_lead: "Your child knows the theory, but the long answers read like the textbook and barely touch the extract printed on the paper. Our Ewell A-Level Economics tutors teach them to use that data, so the analysis is about the case in front of them."
+angle_eyebrow: "THE FIGURES ARE ON THE PAPER"
+angle_heading: "How an A-Level Economics Tutor Helps Ewell Students Use the Case Study"
+angle_body_1: "Most A-Level Economics papers hand your child an extract, a few paragraphs plus a chart or table about a real market or economy, then ask questions that build up to a long answer on it. The marks for application and evaluation depend on using that material. What we usually see instead is a well-learnt answer that would fit any question on the topic. A supply and demand diagram with no figures from the extract. A mention of elasticity that never says whether demand here is elastic. And a conclusion sitting on the fence. For many Ewell sixth formers, it's a subject they'd never studied before Year 12, too."
+angle_body_2: "So the tutor works from real past-paper extracts. Your child underlines the figures worth using before writing a word, puts one of them into the diagram, and then has to reach a judgement that depends on the case. At Glyn, Year 12 covers market failure, public goods and government intervention, which suit this kind of practice well, and Year 13 moves on to emerging economies and inequality. Economics is close to home for us, too: Harry, one of our founders, studied it at the LSE and still tutors it. Kingston University and the London universities are a short train ride from Ewell."
+angle_image: "/images/economics-equations-on-chalkboard.jpg"
+angle_image_alt: "An A-Level Economics student annotating a data extract before a long answer, with an online tutor"
+angle_stat_from: "E"
+angle_stat_to: "B"
+angle_stat_detail: "“Has definitely helped me increase my grades from an E to a B…” Keira, an A-Level Student, said in a Google review. The review doesn't name the subject, so these may not be Economics grades."
+schools:
+  - "Glyn School"
+  - "Epsom and Ewell High School"
+  - "Nonsuch High School for Girls"
+  - "Ewell Castle School"
+  - "Blenheim High School"
+  - "Rosebery School"
+steps_heading: "From first call to weekly Economics lessons, for your Ewell sixth former"
+steps_lead: "Profiles reach you within a day of the call, so the essay practice can start before the next set of timed papers."
+steps:
+  - title: "A free call about your child"
+    body: "About 30 minutes on the phone with Harry or Joe, free. Tell us the board, whether micro or macro is the worry, and what the feedback on recent essays says. An essay with marks on it is ideal."
+  - title: "Choose your tutor"
+    body: "Within 24 hours, two or three Economics tutor profiles, each from someone who knows your child's board. Your child can meet the one you prefer on a free 15-minute video call before anything is booked."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, with diagrams drawn and essays planned on the shared whiteboard, and a recording to look back at. Lessons are from £37 an hour with no contract, and switching to another tutor is free."
+faqs:
+  - q: "My son's started Economics at Glyn with no GCSE in it. Is he behind already?"
+    a: "Almost certainly not. Very few schools teach Economics at GCSE, so most of his class will be meeting supply and demand for the first time too. Where students fall behind is later, when the short answers turn into long ones and the essays need evaluation. A tutor can make sure the Year 12 basics are solid now, so the essay work in the spring has something to stand on."
+  - q: "Does the exam board change how a tutor teaches Economics?"
+    a: "Yes, in the details. Edexcel, AQA and OCR cover similar theory, but their papers differ in how the data questions are laid out, how many marks the longest answers carry, and what the mark schemes reward. A tutor who knows your child's board will practise the exact question styles they'll face. We ask which board it is on the call, and it's usually printed on the front of a past paper."
+  - q: "What does an Economics lesson with the tutor look like?"
+    a: "Usually an hour in three parts. First, a look at last week's practice, with the tutor marking it the way an examiner would. Then the main topic, often a diagram built up step by step on the shared whiteboard. The last part is an exam question on that topic, planned together and finished by your child, sometimes as homework. The lesson is recorded, so your child can replay the diagram later."
+  - q: "Who would my child's Economics tutor be?"
+    a: "Someone Harry or Joe has interviewed personally. Our Economics tutors include graduates and current university students, many from Russell Group universities, and every one has at least two years of tutoring experience. Some are working through Economics degrees now and sat the A-Level recently, which helps with current mark schemes. We'll suggest two or three who know your child's board."
+  - q: "What will A-Level Economics lessons cost us?"
+    a: "Lessons start at £37 an hour. More experienced tutors can charge more, and you'll always know the rate before anything's booked. That covers the lesson, the tutor's preparation and a recording you can rewatch. There's no joining fee and no contract: you pay as you go and can stop when you like. The first call with us and the 15-minute video meeting with the tutor are both free."
+# FAQ picks: G (local: new subject at Glyn), A02, A08, E02, C02
+reviews:
+  - "Keira|A-Level Student|Has definitely helped me increase my grades from an E to a B!!"
+  - "Lucas|A-Level Student|I was having trouble with some areas of my economics a level course before getting in contact with Harry. He walked me through everything I needed help with, from content I was weak with to exam technique that I was lacking. His insight, examples and willingness to go the extra step really helped me to regain my confidence in economics, having achieved a predicted a* with his help."
+  - "Matthew|A-Level Student|My tutor was very helpful leading to the result that I wanted, giving helpful tips and techniques to get the most out of my Economics. I used Sayyeda-Zainab Rajabali for A Level Economics and she was always very helpful and taught at a high level."
+  - "Binh|A-Level Student|I was very fortunate enough to encounter Harry during my time taking A level economics. I really struggled a lot with long 30 marked essays as well as evaluation and learning the graphs as for at the time it was really hard and I didn’t understand. However the way how Harry taught me was super simple compared to other teachers from school. I really enjoyed my time when Harry taught me and I would highly recommend it to people!"
+  - "Sarom|Parent of A-Level Student|Harry has been very helpful in tutoring my son for his economics A Level. He has lots of patience, keeps lessons interesting and is a good motivator. Needless to say his subject matter is expertise is excellent."
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

@@ -31,7 +31,7 @@ area_links:
   - "Marlborough Tutors|/locations/marlborough-tutors/"
   - "Didcot Tutors|/locations/didcot-tutors/"
   - "Abingdon Tutors|/locations/abingdon-tutors/"
-  - "Swindon Tutors|/locations/swindon-tutors/"
+  - "Andover Tutors|/locations/andover-tutors/"
 gcse_subjects:
   - "GCSE Physics Tuition|Equations rearranged before any numbers go in, so long calculations hold together right to the last line.|/book-a-call/"
   - "GCSE History Tuition|Source questions answered from what's actually in front of your child, and essays that stick to one argument.|/book-a-call/"

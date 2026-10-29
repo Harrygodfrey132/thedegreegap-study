@@ -19,7 +19,7 @@ online_2: "Online, your child isn't limited to tutors who live nearby. The one w
 online_image: "/images/online-study-workspace-with-coffee.jpg"
 map_url: "https://maps.google.com/maps?q=Sutton,London,UK&output=embed"
 areas_intro: "Lessons work the same in Sutton, Carshalton, Cheam, Wallington and Worcester Park, and the tutors are there for families in the nearby towns below as well."
-area_links: ["Croydon Tutors|/locations/croydon-tutors/", "Kingston upon Thames Tutors|/locations/kingston-upon-thames-tutors/", "Epsom Tutors|/locations/epsom-tutors/", "London Tutors|/locations/london-tutors/", "Leatherhead Tutors|/locations/leatherhead-tutors/", "Tooting Tutors|/locations/tooting-tutors/"]
+area_links: ["Croydon Tutors|/locations/croydon-tutors/", "Colliers Wood Tutors|/locations/colliers-wood-tutors/", "Epsom Tutors|/locations/epsom-tutors/", "New Malden Tutors|/locations/new-malden-tutors/", "Ewell Tutors|/locations/ewell-tutors/", "Tooting Tutors|/locations/tooting-tutors/"]
 gcse_subjects: [
   "GCSE Chemistry Tuition|Mole calculations, balancing equations and rates, with your child writing every step down rather than talking it through.|/book-a-call/",
   "GCSE English Tuition|Essays planned before they're written, with Language and Literature worked on as the two separate GCSEs they are.|/book-a-call/",

@@ -30,7 +30,7 @@ area_links:
   - "Cirencester Tutors|/locations/cirencester-tutors/"
   - "Didcot Tutors|/locations/didcot-tutors/"
   - "Newbury Tutors|/locations/newbury-tutors/"
-  - "Reading Tutors|/locations/reading-tutors/"
+  - "Andover Tutors|/locations/andover-tutors/"
   - "Basingstoke Tutors|/locations/basingstoke-tutors/"
 gcse_subjects:
   - "GCSE English Tuition|Set texts like Macbeth or An Inspector Calls known well enough to argue about, plus writing practised against the clock.|/book-a-call/"

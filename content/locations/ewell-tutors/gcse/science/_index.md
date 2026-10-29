@@ -1,0 +1,57 @@
+---
+title: "GCSE Science Tutors for Ewell Students | The Degree Gap"
+nav_title: "Science"
+description: "Losing marks on six-mark answers and practicals? Online GCSE Science tutors for Ewell students in Biology, Chemistry and Physics, triple or combined. From £37."
+layout: "level-subject"
+location: "Ewell"
+level: "GCSE"
+subject: "Science"
+hero_h1: "Online GCSE Science Tutors for Ewell Students Whose Long Answers Skip Steps"
+hero_lead: "Ask your child about the science and they know it, yet the six-mark answer on the paper misses two of the steps the mark scheme wanted. Our Ewell GCSE Science tutors show them how to set those answers out, in Biology, Chemistry and Physics."
+angle_eyebrow: "THE RIGHT FACTS, IN THE RIGHT ORDER"
+angle_heading: "Where a GCSE Science Tutor Finds the Missing Marks for Ewell Students"
+angle_body_1: "Science marks slip in a few predictable places. The six-mark questions are marked in levels, so an answer with the right facts in a muddled order lands in the middle band. Questions on the required practicals expect your child to explain a method, name the variables and suggest an improvement, months after the lesson in the lab. Then there's the maths: rearranging Physics equations, converting units, and mole calculations in Chemistry. At Glyn, Biology follows AQA, and children sit either Combined or Separate Science on Higher or Foundation, so the first job is knowing exactly which papers your child faces."
+angle_body_2: "So the tutor turns each long answer into a short plan first, a few words per step, in order, before your child writes a sentence. Practicals get revisited on paper with past questions, and the maths is practised until it stops being the slow part. For some families the goal is a science A-Level. For others it's work. NESCOT's Health T Level, on Reigate Road, lists a grade 5 in Science alongside English, with Biology preferred, and the hospitals nearby, Epsom and the Royal Marsden in Sutton, employ plenty of people who aren't doctors."
+angle_image: "/images/chemistry-lab-glassware.jpg"
+angle_image_alt: "A GCSE Science student planning a six-mark answer about a required practical with an online tutor"
+angle_stat_from: "4-5"
+angle_stat_to: "8"
+angle_stat_detail: "“…made it an 8 within roughly two months of tutoring.” Chamarika, Parent of GCSE Student, on Trustpilot, about their son's GCSE Physics, where he'd had “a predicted 4-5”."
+schools:
+  - "Glyn School"
+  - "Epsom and Ewell High School"
+  - "Nonsuch High School for Girls"
+  - "Ewell Castle School"
+  - "Blenheim High School"
+  - "Rosebery School"
+steps_heading: "From a free call to weekly GCSE Science lessons for your Ewell teenager"
+steps_lead: "Profiles arrive within 24 hours of the call, so the practicals and long answers can get proper attention well before the summer papers."
+steps:
+  - title: "A free call about your child"
+    body: "Roughly 30 minutes on a free call with Harry or Joe. We'll ask whether your child sits Combined or Separate Science, on which tier and board, and which of the three sciences feels weakest."
+  - title: "Choose your tutor"
+    body: "Two or three tutor profiles within 24 hours, matched on the board and on the science that's struggling most. Your child has a free 15-minute video call with your first choice before anything is booked."
+  - title: "Weekly lessons"
+    body: "Weekly lessons on Lessonspace, with diagrams and calculations worked on the shared whiteboard and a recording of each one. From £37 an hour with no contract, and we'll swap the tutor at no cost if your child doesn't click with them."
+faqs:
+  - q: "Does my child need Separate Science to take a science A-Level at a Ewell sixth form?"
+    a: "Not always. Many sixth forms accept Combined Science for Biology, Chemistry or Physics, though they often want a higher grade in it than in other subjects. Epsom and Ewell High, for instance, asks for a 5 in the A-Level subject at GCSE for September 2027 entry. Each sixth form sets its own rule for Combined Science, so read the subject pages in the prospectus early, ideally in Year 10, while there's still time to aim for it."
+  - q: "Will one tutor be able to teach all three sciences?"
+    a: "Often, yes, especially for Combined Science, where plenty of tutors are comfortable across all three. For Separate Science, it depends on how the three are going. If one science is well behind, a tutor who specialises in that subject usually makes more sense, and some families use two. A Maths and Physics tutor can be a good match if the calculations are what's costing marks. We'll suggest a sensible setup on the call."
+  - q: "Is it a Science tutor my child needs, or just more revision?"
+    a: "Look at a recent paper. If the working is clean but marks go on the long answers, that's mostly technique, and a tutor can fix it quickly. If questions are left blank, or the working stops halfway through a calculation, there's a gap in understanding, and revising the same notes again won't close it. If your child is already scoring well across the board, focused practice may be enough on its own."
+  - q: "Can a Science tutor help a child with dyslexia or ADHD?"
+    a: "Yes. Tell us how your child learns on the call, and we'll suggest tutors who've worked with children like them. Long answers can be planned as short bullet points first, diagrams go on the shared whiteboard, and lessons can be split into shorter chunks with a break. The recording means your child can go back over a practical or a calculation as many times as they need."
+  - q: "Can I sit in on the first Science lesson?"
+    a: "Of course. Most tutors are happy for a parent to sit in, at least for the first lesson, and it helps you see how they work. After that most parents leave them to it, since children usually ask more when nobody's watching. You can still watch the recording of any lesson afterwards, and the tutor will tell you what they're working on."
+# FAQ picks: G01, A13, A10, E03, C06
+reviews:
+  - "Chamarika|Parent of GCSE Student|Good tutoring platform. I did have some initial issues with a couple of tutors but Joe is very responsive and works to swiftly resolve things. My son had a predicted 4-5 in Physics and he managed to turn this around and made it an 8 within roughly two months of tutoring. We were very last minute to tutoring only started two months before the exams and managed to improve on all 3 x subjects and get 8s. Thank you to all the 3x tutors."
+  - "Augusta|Parent of GCSE Student|The support given to my son by The Degree Gap's tutors was fabulous and he passed all his GCSE subjects. The Degree Gap provide experienced and organised tutors. To improve my son's grades, the tutors provided resources, targeting specific areas of difficulties. The website is easy to use and effective, I had no disappointment in scheduling lessons for my son. Tutors were polite and on time for their lessons."
+  - "Sam|Parent of GCSE Student|Excellent experience. Founders are accessible, hands on, responsive and flexible. As are the tutors - quality all round. It was great to be able to trial a few to find the right fit, who my daughter felt most comfortable with. She got at least a grade higher in GCSEs because of the tuition which helped her get into a top school (grammar) for As."
+  - "Nazrul|Parent of GCSE Student|My daughter found the tutors were very helpful for her GCSE thank you"
+  - "Anders|iGCSE Student|I reached out to The Degree Gap to get some help to prepare for my iGCSE exams and was very impressed by their tutors and professionalism!"
+sitemap:
+  priority: 0.7
+  changefreq: monthly
+---

@@ -31,7 +31,7 @@ area_links:
   - "Dulwich Tutors|/locations/dulwich-tutors/"
   - "Sutton Tutors|/locations/sutton-tutors/"
   - "Croydon Tutors|/locations/croydon-tutors/"
-  - "London Tutors|/locations/london-tutors/"
+  - "Colliers Wood Tutors|/locations/colliers-wood-tutors/"
 gcse_subjects:
   - "GCSE English Tuition|Planning the Language writing task in five minutes, and Literature quotations short enough for your child to remember.|/book-a-call/"
   - "GCSE Computer Science Tuition|Pseudocode, trace tables and binary, practised on the shared whiteboard until your child can manage them without notes.|/book-a-call/"

@@ -31,7 +31,7 @@ area_links:
   - "Bracknell Tutors|/locations/bracknell-tutors/"
   - "Sunbury-on-Thames Tutors|/locations/sunbury-on-thames-tutors/"
   - "Gerrards Cross Tutors|/locations/gerrards-cross-tutors/"
-  - "Weybridge Tutors|/locations/weybridge-tutors/"
+  - "Egham Tutors|/locations/egham-tutors/"
 gcse_subjects:
   - "GCSE Physics Tuition|Equations rearranged before the numbers go in, and units checked every time, which is where a lot of Physics marks quietly go.|/book-a-call/"
   - "GCSE English Tuition|Quotations that stay put under pressure, and timed writing practised until the last task stops getting rushed.|/book-a-call/"

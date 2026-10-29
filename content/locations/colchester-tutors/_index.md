@@ -19,7 +19,7 @@ online_2: "It also means your child isn't limited to tutors who live within a sh
 online_image: "/images/student-studying-on-bed-with-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Colchester,UK&output=embed"
 areas_intro: "Because lessons are online, a family in a village outside Colchester or over the border in Suffolk gets the same choice of tutors as one in the town centre. It's the same for families in the towns below."
-area_links: ["London Tutors|/locations/london-tutors/", "Southend-on-Sea Tutors|/locations/southend-on-sea-tutors/", "Ipswich Tutors|/locations/ipswich-tutors/", "Cambridge Tutors|/locations/cambridge-tutors/", "Bury St Edmunds Tutors|/locations/bury-st-edmunds-tutors/", "Norwich Tutors|/locations/norwich-tutors/"]
+area_links: ["London Tutors|/locations/london-tutors/", "Southend-on-Sea Tutors|/locations/southend-on-sea-tutors/", "Ipswich Tutors|/locations/ipswich-tutors/", "Cambridge Tutors|/locations/cambridge-tutors/", "Bury St Edmunds Tutors|/locations/bury-st-edmunds-tutors/", "Clacton-on-Sea Tutors|/locations/clacton-on-sea-tutors/"]
 gcse_subjects: [
   "GCSE English Tuition|A quick way to plan an essay, so your child finishes the Language and Literature papers instead of running out of time.|/book-a-call/",
   "GCSE Maths Tuition|Regular practice on the topics that keep costing marks, started early enough that the mocks aren't the first real test.|/book-a-call/",

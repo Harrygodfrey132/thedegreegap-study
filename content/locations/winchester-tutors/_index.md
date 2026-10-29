@@ -19,7 +19,7 @@ online_2: "It also means we aren't limited to tutors who live near Winchester. I
 online_image: "/images/student-studying-at-night-with-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Winchester,UK&output=embed"
 areas_intro: "Peter Symonds draws families from all over central Hampshire, and because lessons are online, it doesn't matter which village or town you're in. The same goes for the places below."
-area_links: ["Southampton Tutors|/locations/southampton-tutors/", "Portsmouth Tutors|/locations/portsmouth-tutors/", "Reading Tutors|/locations/reading-tutors/", "Brighton Tutors|/locations/brighton-tutors/", "Guildford Tutors|/locations/guildford-tutors/", "Oxford Tutors|/locations/oxford-tutors/"]
+area_links: ["Southampton Tutors|/locations/southampton-tutors/", "Portsmouth Tutors|/locations/portsmouth-tutors/", "Reading Tutors|/locations/reading-tutors/", "Andover Tutors|/locations/andover-tutors/", "Guildford Tutors|/locations/guildford-tutors/", "Oxford Tutors|/locations/oxford-tutors/"]
 gcse_subjects: [
   "GCSE Maths Tuition|Maths matters for lots of sixth form courses, so the tutor starts with the older topic that keeps costing marks.|/book-a-call/",
   "GCSE English Tuition|Language and Literature both reward a clear plan, so your child practises shaping answers before the clock starts to bite.|/book-a-call/",

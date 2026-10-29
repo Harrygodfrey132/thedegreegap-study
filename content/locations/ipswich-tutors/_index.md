@@ -19,7 +19,7 @@ online_2: "The bigger gain is who your child ends up with. The tutor who knows t
 online_image: "/images/online-study-workspace-with-coffee.jpg"
 map_url: "https://maps.google.com/maps?q=Ipswich,UK&output=embed"
 areas_intro: "The right tutor matters more than the nearest one, which is why we work with families across Ipswich, the Suffolk villages around it and well beyond."
-area_links: ["Colchester Tutors|/locations/colchester-tutors/", "Norwich Tutors|/locations/norwich-tutors/", "Chelmsford Tutors|/locations/chelmsford-tutors/", "Cambridge Tutors|/locations/cambridge-tutors/", "Bury St Edmunds Tutors|/locations/bury-st-edmunds-tutors/", "London Tutors|/locations/london-tutors/"]
+area_links: ["Colchester Tutors|/locations/colchester-tutors/", "Norwich Tutors|/locations/norwich-tutors/", "Chelmsford Tutors|/locations/chelmsford-tutors/", "Lowestoft Tutors|/locations/lowestoft-tutors/", "Bury St Edmunds Tutors|/locations/bury-st-edmunds-tutors/", "Clacton-on-Sea Tutors|/locations/clacton-on-sea-tutors/"]
 gcse_subjects: [
   "GCSE English Tuition|Language and Literature taken apart, because they slip for different reasons and need different weekly work.|/book-a-call/",
   "GCSE Physics Tuition|Rearranging, unit traps and the multi-step problems that decide the back half of the paper.|/book-a-call/",

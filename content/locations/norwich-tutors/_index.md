@@ -31,7 +31,7 @@ area_links:
   - Nottingham Tutors|/locations/nottingham-tutors/
   - Leicester Tutors|/locations/leicester-tutors/
   - Derby Tutors|/locations/derby-tutors/
-  - Sheffield Tutors|/locations/sheffield-tutors/
+  - "Lowestoft Tutors|/locations/lowestoft-tutors/"
 gcse_subjects:
   - "GCSE Maths Tuition|Shaky number and algebra work traced back to where it started, so there's firm ground before the harder questions.|/book-a-call/"
   - "GCSE Geography Tuition|Physical and human topics pulled together into well-planned answers, and case studies learnt well enough to use in the exam.|/book-a-call/"

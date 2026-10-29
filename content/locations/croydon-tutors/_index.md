@@ -19,7 +19,7 @@ online_2: "Online also means your child isn't stuck with whoever lives nearby. I
 online_image: "/images/online-study-workspace-with-coffee.jpg"
 map_url: "https://maps.google.com/maps?q=Croydon,UK&output=embed"
 areas_intro: "Because it's all online, a Croydon family and one in Sevenoaks could easily share a tutor, picked for the paper your child sits rather than your postcode."
-area_links: ["London Tutors|/locations/london-tutors/", "Sutton Tutors|/locations/sutton-tutors/", "Bromley Tutors|/locations/bromley-tutors/", "Epsom Tutors|/locations/epsom-tutors/", "Sevenoaks Tutors|/locations/sevenoaks-tutors/", "Tooting Tutors|/locations/tooting-tutors/", "Sunbury-on-Thames Tutors|/locations/sunbury-on-thames-tutors/", "Tunbridge Wells Tutors|/locations/tunbridge-wells-tutors/"]
+area_links: ["London Tutors|/locations/london-tutors/", "Sutton Tutors|/locations/sutton-tutors/", "Bromley Tutors|/locations/bromley-tutors/", "Epsom Tutors|/locations/epsom-tutors/", "Sevenoaks Tutors|/locations/sevenoaks-tutors/", "Tooting Tutors|/locations/tooting-tutors/", "Sunbury-on-Thames Tutors|/locations/sunbury-on-thames-tutors/", "Colliers Wood Tutors|/locations/colliers-wood-tutors/"]
 gcse_subjects: [
   "GCSE Chemistry Tuition|Moles, equations and rates written out a line at a time, since some Croydon sixth forms are strict about the Science grade.|/book-a-call/",
   "GCSE English Tuition|Language and Literature taken separately, and your child's own writing marked line by line, which a busy class rarely allows.|/book-a-call/",

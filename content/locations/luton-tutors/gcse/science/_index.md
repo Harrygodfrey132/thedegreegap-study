@@ -16,9 +16,9 @@ angle_body_1: "Science gets taught as three subjects by three teachers in three 
 angle_body_2: "So the first hour pulls the three apart using a real paper, starting from what went wrong instead of from where the syllabus has got to. The tier gets settled in the same hour if it's still open, since the two papers ask for different preparation and entries are reviewed during Year 10. Locally it matters because Luton Sixth Form College publishes a higher bar for Maths and the Sciences than its general A-Level threshold, and the wording is not the same for a student who sat triple as for one who sat combined. Barnfield College publishes its own requirements too, with Science sitting inside several technical routes."
 angle_image: "/images/chemistry-lab-glassware.jpg"
 angle_image_alt: "A Luton GCSE Science student working through a mole calculation with an online tutor"
-angle_stat_from: "4"
-angle_stat_to: "6"
-angle_stat_detail: "Roughly where a term of weekly one-to-one GCSE Science hours gets pointed once the calculation work underneath has been rebuilt."
+angle_stat_from: "4-5"
+angle_stat_to: "8"
+angle_stat_detail: "From GCSE Physics: Chamarika's son “had a predicted 4-5 in Physics” and “made it an 8 within roughly two months of tutoring”, as Chamarika wrote on Trustpilot."
 
 schools:
   - "Cardinal Newman Catholic School"

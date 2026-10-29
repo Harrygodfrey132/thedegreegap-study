@@ -30,7 +30,7 @@ area_links:
   - Leeds Tutors|/locations/leeds-tutors/
   - Sheffield Tutors|/locations/sheffield-tutors/
   - Derby Tutors|/locations/derby-tutors/
-  - Nottingham Tutors|/locations/nottingham-tutors/
+  - "Salford Tutors|/locations/salford-tutors/"
   - Rochdale Tutors|/locations/rochdale-tutors/
 gcse_subjects:
   - "GCSE English Tuition|A way into any Language or Literature question that your child can rely on, then practice writing it up with the clock running.|/book-a-call/"

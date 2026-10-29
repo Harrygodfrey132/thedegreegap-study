@@ -31,7 +31,7 @@ area_links:
   - "Sunbury-on-Thames Tutors|/locations/sunbury-on-thames-tutors/"
   - "Cobham Tutors|/locations/cobham-tutors/"
   - "Kingston upon Thames Tutors|/locations/kingston-upon-thames-tutors/"
-  - "Leatherhead Tutors|/locations/leatherhead-tutors/"
+  - "Egham Tutors|/locations/egham-tutors/"
 gcse_subjects:
   - "GCSE English Tuition|Macbeth, Jekyll and Hyde or An Inspector Calls: essays planned in minutes and finished before time runs out.|/book-a-call/"
   - "GCSE Physics Tuition|Rearranging equations and keeping the units straight, habits a good Combined Science grade quietly depends on.|/book-a-call/"
