@@ -23,6 +23,12 @@ parent_cta_url: "webinars/gcse-revision-masterclass/"
 # be a value already in the Lead Source picklist, or Zoho drops it. "Web
 # Download" was in the list and unused, so these leads are easy to pick out.
 lead_source: "Web Download"
+# Zoho "Type of lead" for parents and students who ask for the templates.
+# Empty, so downloads stay off the Customer view (Harry, 29 October 2026: they
+# were clogging it up). Once a value for them, such as "Contact", is added to
+# the Type of lead picklist in Zoho, put it here, spelt exactly as in Zoho.
+# Teachers are always sent as "School".
+lead_type: ""
 # Paste-ready wording for school newsletters, at the bottom of the page with a
 # copy button, the same as on the webinar pages. The school emails point here
 # rather than carrying the parent wording themselves.

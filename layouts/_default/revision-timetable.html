@@ -897,6 +897,8 @@
   var KEY = 'tdg-revision-templates-v1';
   /* Must be a value in the Zoho Lead Source picklist, or Zoho drops it. */
   var LEAD_SOURCE = {{ .Params.lead_source | default "Web Download" }};
+  /* Type of lead for parents and students; empty sends none. */
+  var LEAD_TYPE = {{ .Params.lead_type | default "" }};
   var who = form.elements.registrant;
 
   function unlock() { form.hidden = true; got.hidden = false; }
@@ -946,8 +948,10 @@
     add('Last Name', el.name.value.trim() || 'Parent');
     add('Email', el.email.value.trim());
     if (!el.phone.disabled && el.phone.value.trim()) add('Phone', ukPhone(el.phone.value));
-    /* Type of lead: the January 2026 timetable leads were all Customer. */
-    add('LEADCF5', role === 'Teacher or school staff' ? 'School' : 'Customer');
+    /* Type of lead. Not Customer: downloads were filling the Customer view
+       in Zoho, so parents and students get lead_type (none, for now). */
+    if (role === 'Teacher or school staff') add('LEADCF5', 'School');
+    else if (LEAD_TYPE) add('LEADCF5', LEAD_TYPE);
     add('LEADCF3', el.year_of_study.disabled ? 'Unsure' : el.year_of_study.value);
     var notes = [];
     /* Worded exactly as on the webinar forms, and first, because the Zoho
