@@ -28,10 +28,10 @@ areas_intro: "Barnes, Whitton, Ham, Hampton Wick: the address doesn't change how
 area_links:
   - "Kingston upon Thames Tutors|/locations/kingston-upon-thames-tutors/"
   - "Hounslow Tutors|/locations/hounslow-tutors/"
-  - "Sunbury-on-Thames Tutors|/locations/sunbury-on-thames-tutors/"
-  - "Esher Tutors|/locations/esher-tutors/"
+  - "Chiswick Tutors|/locations/chiswick-tutors/"
+  - "Fulham Tutors|/locations/fulham-tutors/"
   - "New Malden Tutors|/locations/new-malden-tutors/"
-  - "London Tutors|/locations/london-tutors/"
+  - "Putney Tutors|/locations/putney-tutors/"
 gcse_subjects:
   - "GCSE Chemistry Tuition|Moles, bonding and the practicals, worked through until a calculation can be set up without any help.|/book-a-call/"
   - "GCSE English Tuition|Unseen poetry and the Language writing task, practised until each paragraph explains why rather than what.|/book-a-call/"

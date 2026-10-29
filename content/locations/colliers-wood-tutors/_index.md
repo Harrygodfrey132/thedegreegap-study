@@ -31,7 +31,7 @@ area_links:
   - "Clapham Tutors|/locations/clapham-tutors/"
   - "Sutton Tutors|/locations/sutton-tutors/"
   - "New Malden Tutors|/locations/new-malden-tutors/"
-  - "Croydon Tutors|/locations/croydon-tutors/"
+  - "Balham Tutors|/locations/balham-tutors/"
 gcse_subjects:
   - "GCSE Physics Tuition|Rearranging equations and converting units, the maths that quietly costs marks right across a Physics paper.|/book-a-call/"
   - "GCSE English Tuition|Quotations short enough to remember for a closed-book Literature exam, and Language answers planned before the writing starts.|/book-a-call/"

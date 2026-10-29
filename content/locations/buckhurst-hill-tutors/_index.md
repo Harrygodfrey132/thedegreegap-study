@@ -30,7 +30,7 @@ area_links:
   - "Havering Tutors|/locations/havering-tutors/"
   - "London Tutors|/locations/london-tutors/"
   - "Barnet Tutors|/locations/barnet-tutors/"
-  - "Brentwood Tutors|/locations/brentwood-tutors/"
+  - "Ilford Tutors|/locations/ilford-tutors/"
   - "Potters Bar Tutors|/locations/potters-bar-tutors/"
 gcse_subjects:
   - "GCSE Chemistry Tuition|Moles and balanced equations taken back to the start, then practised until your child stops second-guessing every step.|/book-a-call/"

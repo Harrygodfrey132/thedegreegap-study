@@ -29,8 +29,8 @@ area_links:
   - "Wimbledon Tutors|/locations/wimbledon-tutors/"
   - "Clapham Tutors|/locations/clapham-tutors/"
   - "Dulwich Tutors|/locations/dulwich-tutors/"
-  - "Sutton Tutors|/locations/sutton-tutors/"
-  - "Croydon Tutors|/locations/croydon-tutors/"
+  - "Balham Tutors|/locations/balham-tutors/"
+  - "Putney Tutors|/locations/putney-tutors/"
   - "Colliers Wood Tutors|/locations/colliers-wood-tutors/"
 gcse_subjects:
   - "GCSE English Tuition|Planning the Language writing task in five minutes, and Literature quotations short enough for your child to remember.|/book-a-call/"

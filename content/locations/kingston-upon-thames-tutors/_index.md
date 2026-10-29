@@ -19,7 +19,7 @@ online_2: "It also changes who your child can work with. The tutor who knows one
 online_image: "/images/student-studying-at-night-with-laptop.jpg"
 map_url: "https://maps.google.com/maps?q=Kingston+upon+Thames,UK&output=embed"
 areas_intro: "It's all online, so it's the same whether you're in Kingston upon Thames itself, Surbiton, New Malden or Chessington. We can work with families in the towns below too."
-area_links: ["Esher Tutors|/locations/esher-tutors/", "New Malden Tutors|/locations/new-malden-tutors/", "Epsom Tutors|/locations/epsom-tutors/", "Sunbury-on-Thames Tutors|/locations/sunbury-on-thames-tutors/", "Walton-on-Thames Tutors|/locations/walton-on-thames-tutors/", "Ewell Tutors|/locations/ewell-tutors/"]
+area_links: ["Esher Tutors|/locations/esher-tutors/", "New Malden Tutors|/locations/new-malden-tutors/", "Surbiton Tutors|/locations/surbiton-tutors/", "Sunbury-on-Thames Tutors|/locations/sunbury-on-thames-tutors/", "Putney Tutors|/locations/putney-tutors/", "Ewell Tutors|/locations/ewell-tutors/"]
 gcse_subjects: [
   "GCSE History Tuition|Source questions and the 16-mark essay, marked the way an examiner would, whichever board your child's school uses.|/book-a-call/",
   "GCSE Maths Tuition|Whether your child loses method marks by doing it all in their head or still needs Year 8 algebra rebuilt, we start there.|/book-a-call/",

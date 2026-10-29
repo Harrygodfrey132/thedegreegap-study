@@ -19,7 +19,7 @@ online_2: "Nor does the tutor need to live anywhere near TN9. The one who knows 
 online_image: "/images/online-study-workspace-with-coffee.jpg"
 map_url: "https://maps.google.com/maps?q=Tonbridge,UK&output=embed"
 areas_intro: "Because all our tutoring is online, families in Tonbridge, Hildenborough, Hadlow, Paddock Wood and the villages round about get the same choice of tutors as the towns below."
-area_links: ["Tunbridge Wells Tutors|/locations/tunbridge-wells-tutors/", "Sevenoaks Tutors|/locations/sevenoaks-tutors/", "Maidstone Tutors|/locations/maidstone-tutors/", "Bromley Tutors|/locations/bromley-tutors/", "Reigate Tutors|/locations/reigate-tutors/", "Gravesend Tutors|/locations/gravesend-tutors/"]
+area_links: ["Tunbridge Wells Tutors|/locations/tunbridge-wells-tutors/", "Sevenoaks Tutors|/locations/sevenoaks-tutors/", "Maidstone Tutors|/locations/maidstone-tutors/", "Bromley Tutors|/locations/bromley-tutors/", "Orpington Tutors|/locations/orpington-tutors/", "Gravesend Tutors|/locations/gravesend-tutors/"]
 gcse_subjects: [
   "GCSE English Tuition|Language and Literature both, with your child's own set texts and the papers for their board.|/book-a-call/",
   "GCSE Physics Tuition|Rearranging equations and converting units, practised until the long questions at the back stop being scary.|/book-a-call/",

@@ -31,7 +31,7 @@ area_links:
   - "Ewell Tutors|/locations/ewell-tutors/"
   - "Leatherhead Tutors|/locations/leatherhead-tutors/"
   - "Dorking Tutors|/locations/dorking-tutors/"
-  - "Tooting Tutors|/locations/tooting-tutors/"
+  - "Redhill Tutors|/locations/redhill-tutors/"
 gcse_subjects:
   - "GCSE Chemistry Tuition|The calculation questions your child dreads, from moles to balancing equations, taken one worked line at a time.|/book-a-call/"
   - "GCSE Maths Tuition|Algebra and ratio rebuilt at your child's speed, with every lesson ending on questions they got right on their own.|/book-a-call/"

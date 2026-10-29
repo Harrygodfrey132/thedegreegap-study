@@ -28,7 +28,7 @@ areas_intro: "Herne Hill, East Dulwich, West Dulwich or the Village: lessons run
 area_links:
   - "London Tutors|/locations/london-tutors/"
   - "Bromley Tutors|/locations/bromley-tutors/"
-  - "Croydon Tutors|/locations/croydon-tutors/"
+  - "Balham Tutors|/locations/balham-tutors/"
   - "Tooting Tutors|/locations/tooting-tutors/"
   - "Clapham Tutors|/locations/clapham-tutors/"
   - "Beckenham Tutors|/locations/beckenham-tutors/"

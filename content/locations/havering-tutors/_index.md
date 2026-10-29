@@ -29,7 +29,7 @@ area_links:
   - "Brentwood Tutors|/locations/brentwood-tutors/"
   - "Basildon Tutors|/locations/basildon-tutors/"
   - "London Tutors|/locations/london-tutors/"
-  - "Chelmsford Tutors|/locations/chelmsford-tutors/"
+  - "Ilford Tutors|/locations/ilford-tutors/"
   - "Gravesend Tutors|/locations/gravesend-tutors/"
   - "Buckhurst Hill Tutors|/locations/buckhurst-hill-tutors/"
 gcse_subjects:

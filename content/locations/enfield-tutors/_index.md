@@ -29,9 +29,9 @@ area_links:
   - "Barnet Tutors|/locations/barnet-tutors/"
   - "Potters Bar Tutors|/locations/potters-bar-tutors/"
   - "Hatfield Tutors|/locations/hatfield-tutors/"
-  - "Welwyn Garden City Tutors|/locations/welwyn-garden-city-tutors/"
+  - "Hampstead Tutors|/locations/hampstead-tutors/"
   - "Buckhurst Hill Tutors|/locations/buckhurst-hill-tutors/"
-  - "London Tutors|/locations/london-tutors/"
+  - "Ilford Tutors|/locations/ilford-tutors/"
 gcse_subjects:
   - "GCSE Physics Tuition|Equations rearranged on a shared screen, one line at a time, so your child sees exactly where the units slipped.|/book-a-call/"
   - "GCSE English Tuition|Quotations, timing and the writing tasks, practised where a quiet child will actually ask what 'analyse' means.|/book-a-call/"

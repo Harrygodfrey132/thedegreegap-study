@@ -19,7 +19,7 @@ online_2: "The tutor doesn't have to live anywhere near you, either. The right o
 online_image: "/images/online-study-workspace-with-coffee.jpg"
 map_url: "https://maps.google.com/maps?q=Maidstone,UK&output=embed"
 areas_intro: "From Maidstone itself to the Weald villages and the Medway Valley, lessons work the same way, with the same tutors as the towns below."
-area_links: ["Sevenoaks Tutors|/locations/sevenoaks-tutors/", "Tunbridge Wells Tutors|/locations/tunbridge-wells-tutors/", "Canterbury Tutors|/locations/canterbury-tutors/", "Bromley Tutors|/locations/bromley-tutors/", "London Tutors|/locations/london-tutors/", "Gravesend Tutors|/locations/gravesend-tutors/"]
+area_links: ["Sevenoaks Tutors|/locations/sevenoaks-tutors/", "Tunbridge Wells Tutors|/locations/tunbridge-wells-tutors/", "Canterbury Tutors|/locations/canterbury-tutors/", "Bromley Tutors|/locations/bromley-tutors/", "Dartford Tutors|/locations/dartford-tutors/", "Gravesend Tutors|/locations/gravesend-tutors/"]
 gcse_subjects: [
   "GCSE Physics Tuition|Rearranging equations and converting units, the two skills behind a lot of the Physics marks children lose.|/book-a-call/",
   "GCSE English Tuition|Language and Literature worked on separately, and the difference between retelling a text and arguing about it practised until it sticks.|/book-a-call/",

@@ -28,7 +28,7 @@ areas_intro: "Looking for help in Wickford, Billericay or Pitsea instead? Lesson
 area_links:
   - "Southend-on-Sea Tutors|/locations/southend-on-sea-tutors/"
   - "Chelmsford Tutors|/locations/chelmsford-tutors/"
-  - "Colchester Tutors|/locations/colchester-tutors/"
+  - "Dartford Tutors|/locations/dartford-tutors/"
   - "London Tutors|/locations/london-tutors/"
   - "Brentwood Tutors|/locations/brentwood-tutors/"
   - "Gravesend Tutors|/locations/gravesend-tutors/"

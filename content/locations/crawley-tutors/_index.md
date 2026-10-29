@@ -27,7 +27,7 @@ map_url: "https://maps.google.com/maps?q=Crawley,UK&output=embed"
 areas_intro: "It makes no difference whether home is Pound Hill, Bewbush or Forge Wood, since every lesson is online, and we can help families in the nearby towns below as well."
 area_links:
   - "Reigate Tutors|/locations/reigate-tutors/"
-  - "Brighton Tutors|/locations/brighton-tutors/"
+  - "Redhill Tutors|/locations/redhill-tutors/"
   - "Epsom Tutors|/locations/epsom-tutors/"
   - "Croydon Tutors|/locations/croydon-tutors/"
   - "Tunbridge Wells Tutors|/locations/tunbridge-wells-tutors/"

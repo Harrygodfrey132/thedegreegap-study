@@ -30,7 +30,7 @@ area_links:
   - "Kingston upon Thames Tutors|/locations/kingston-upon-thames-tutors/"
   - "Slough Tutors|/locations/slough-tutors/"
   - "Harrow Tutors|/locations/harrow-tutors/"
-  - "London Tutors|/locations/london-tutors/"
+  - "Chiswick Tutors|/locations/chiswick-tutors/"
   - "Weybridge Tutors|/locations/weybridge-tutors/"
 gcse_subjects:
   - "GCSE Chemistry Tuition|Bonding, electrolysis and mole calculations, set out a line at a time until your child can start one unaided.|/book-a-call/"

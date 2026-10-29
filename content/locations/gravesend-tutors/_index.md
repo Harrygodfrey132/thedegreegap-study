@@ -31,7 +31,7 @@ area_links:
   - "Bromley Tutors|/locations/bromley-tutors/"
   - "Basildon Tutors|/locations/basildon-tutors/"
   - "Havering Tutors|/locations/havering-tutors/"
-  - "Tonbridge Tutors|/locations/tonbridge-tutors/"
+  - "Dartford Tutors|/locations/dartford-tutors/"
 gcse_subjects:
   - "GCSE Geography Tuition|Named places and real figures for every case study, so the long answers have something solid to argue with.|/book-a-call/"
   - "GCSE Maths Tuition|The topic the new class covered before your child arrived, found and taught, then the algebra built on top of it.|/book-a-call/"

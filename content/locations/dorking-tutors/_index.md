@@ -31,7 +31,7 @@ area_links:
   - "Epsom Tutors|/locations/epsom-tutors/"
   - "Guildford Tutors|/locations/guildford-tutors/"
   - "Cobham Tutors|/locations/cobham-tutors/"
-  - "Crawley Tutors|/locations/crawley-tutors/"
+  - "Redhill Tutors|/locations/redhill-tutors/"
 gcse_subjects:
   - "GCSE Physics Tuition|Rearranging equations before plugging numbers in, and the long calculations, on whichever board your child's school chose.|/book-a-call/"
   - "GCSE English Tuition|Quotations from Macbeth or The Merchant of Venice learnt in good time, and a plan for the unseen poem that works against the clock.|/book-a-call/"

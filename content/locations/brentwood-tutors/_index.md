@@ -29,7 +29,7 @@ area_links:
   - "Basildon Tutors|/locations/basildon-tutors/"
   - "Chelmsford Tutors|/locations/chelmsford-tutors/"
   - "Southend-on-Sea Tutors|/locations/southend-on-sea-tutors/"
-  - "London Tutors|/locations/london-tutors/"
+  - "Ilford Tutors|/locations/ilford-tutors/"
   - "Buckhurst Hill Tutors|/locations/buckhurst-hill-tutors/"
   - "Bishop's Stortford Tutors|/locations/bishops-stortford-tutors/"
 gcse_subjects:

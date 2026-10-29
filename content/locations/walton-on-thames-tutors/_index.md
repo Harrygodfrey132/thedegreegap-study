@@ -30,7 +30,7 @@ area_links:
   - "Esher Tutors|/locations/esher-tutors/"
   - "Sunbury-on-Thames Tutors|/locations/sunbury-on-thames-tutors/"
   - "Cobham Tutors|/locations/cobham-tutors/"
-  - "Kingston upon Thames Tutors|/locations/kingston-upon-thames-tutors/"
+  - "Surbiton Tutors|/locations/surbiton-tutors/"
   - "Egham Tutors|/locations/egham-tutors/"
 gcse_subjects:
   - "GCSE English Tuition|Macbeth, Jekyll and Hyde or An Inspector Calls: essays planned in minutes and finished before time runs out.|/book-a-call/"

@@ -30,7 +30,7 @@ area_links:
   - "Sutton Tutors|/locations/sutton-tutors/"
   - "Kingston upon Thames Tutors|/locations/kingston-upon-thames-tutors/"
   - "New Malden Tutors|/locations/new-malden-tutors/"
-  - "Leatherhead Tutors|/locations/leatherhead-tutors/"
+  - "Surbiton Tutors|/locations/surbiton-tutors/"
   - "Wallington Tutors|/locations/wallington-tutors/"
 gcse_subjects:
   - "GCSE English Tuition|Paragraphs that explain why a writer made a choice, not just what happens, practised on your child's own set texts.|/book-a-call/"

@@ -27,10 +27,10 @@ map_url: "https://maps.google.com/maps?q=Clapham,London,UK&output=embed"
 areas_intro: "Whether home is nearer Balham, Battersea or the Brixton end of Clapham, the lessons work in exactly the same way, and we help families in these parts of London too."
 area_links:
   - "London Tutors|/locations/london-tutors/"
-  - "Croydon Tutors|/locations/croydon-tutors/"
-  - "Sutton Tutors|/locations/sutton-tutors/"
+  - "Fulham Tutors|/locations/fulham-tutors/"
+  - "Putney Tutors|/locations/putney-tutors/"
   - "Colliers Wood Tutors|/locations/colliers-wood-tutors/"
-  - "Bromley Tutors|/locations/bromley-tutors/"
+  - "Balham Tutors|/locations/balham-tutors/"
   - "Tooting Tutors|/locations/tooting-tutors/"
 gcse_subjects:
   - "GCSE Chemistry Tuition|Moles, bonding and the required practicals, set out on the whiteboard one line at a time so the method sticks.|/book-a-call/"

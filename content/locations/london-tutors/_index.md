@@ -29,9 +29,9 @@ area_links:
   - Watford Tutors|/locations/watford-tutors/
   - St Albans Tutors|/locations/st-albans-tutors/
   - Epsom Tutors|/locations/epsom-tutors/
-  - Guildford Tutors|/locations/guildford-tutors/
-  - Hemel Hempstead Tutors|/locations/hemel-hempstead-tutors/
-  - Brighton Tutors|/locations/brighton-tutors/
+  - "Hampstead Tutors|/locations/hampstead-tutors/"
+  - "Ilford Tutors|/locations/ilford-tutors/"
+  - "Chiswick Tutors|/locations/chiswick-tutors/"
 gcse_subjects:
   - "GCSE Maths Tuition|Number, algebra, geometry and statistics, with a tutor who knows your child's exam board and starts from where they are now.|/book-a-call/"
   - "GCSE English Tuition|Close reading and timed essays, with a clear method for comparing texts rather than just more to learn.|/book-a-call/"

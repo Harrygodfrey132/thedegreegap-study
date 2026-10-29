@@ -31,7 +31,7 @@ area_links:
   - "Epsom Tutors|/locations/epsom-tutors/"
   - "Reigate Tutors|/locations/reigate-tutors/"
   - "Bromley Tutors|/locations/bromley-tutors/"
-  - "London Tutors|/locations/london-tutors/"
+  - "Redhill Tutors|/locations/redhill-tutors/"
 gcse_subjects:
   - "GCSE Chemistry Tuition|Mole calculations and balanced equations set out one line at a time, so homework stops stalling at step two.|/book-a-call/"
   - "GCSE History Tuition|How to plan the longer essays and the source questions, so your child knows what each paragraph has to do.|/book-a-call/"

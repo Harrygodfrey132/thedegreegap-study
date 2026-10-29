@@ -29,7 +29,7 @@ area_links:
   - "Kingston upon Thames Tutors|/locations/kingston-upon-thames-tutors/"
   - "Wimbledon Tutors|/locations/wimbledon-tutors/"
   - "Sutton Tutors|/locations/sutton-tutors/"
-  - "Richmond Tutors|/locations/richmond-tutors/"
+  - "Surbiton Tutors|/locations/surbiton-tutors/"
   - "Ewell Tutors|/locations/ewell-tutors/"
   - "Colliers Wood Tutors|/locations/colliers-wood-tutors/"
 gcse_subjects:

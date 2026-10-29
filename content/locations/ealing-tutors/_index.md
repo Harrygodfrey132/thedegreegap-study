@@ -28,10 +28,10 @@ areas_intro: "Lessons are online, so it makes no odds whether home is in Perival
 area_links:
   - "Hounslow Tutors|/locations/hounslow-tutors/"
   - "Harrow Tutors|/locations/harrow-tutors/"
-  - "London Tutors|/locations/london-tutors/"
-  - "Slough Tutors|/locations/slough-tutors/"
+  - "Hampstead Tutors|/locations/hampstead-tutors/"
+  - "Fulham Tutors|/locations/fulham-tutors/"
   - "Kingston upon Thames Tutors|/locations/kingston-upon-thames-tutors/"
-  - "Gerrards Cross Tutors|/locations/gerrards-cross-tutors/"
+  - "Chiswick Tutors|/locations/chiswick-tutors/"
 gcse_subjects:
   - "GCSE Geography Tuition|Case studies learnt with real place names and figures, so the long answers have evidence in them.|/book-a-call/"
   - "GCSE French Tuition|Speaking and listening practice at your child's own speed, for when vocabulary has quietly slipped behind.|/book-a-call/"

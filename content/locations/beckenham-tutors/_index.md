@@ -31,7 +31,7 @@ area_links:
   - "London Tutors|/locations/london-tutors/"
   - "Sutton Tutors|/locations/sutton-tutors/"
   - "Sevenoaks Tutors|/locations/sevenoaks-tutors/"
-  - "Tunbridge Wells Tutors|/locations/tunbridge-wells-tutors/"
+  - "Orpington Tutors|/locations/orpington-tutors/"
 gcse_subjects:
   - "GCSE French Tuition|Speaking practice with no classmates listening, plus the pace of the listening paper, built up from wherever your child starts.|/book-a-call/"
   - "GCSE Maths Tuition|Algebra, ratio and the long multi-step questions, taught on the board your child sits, not an older sibling's.|/book-a-call/"
