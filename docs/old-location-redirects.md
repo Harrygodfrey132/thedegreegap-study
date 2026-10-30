@@ -125,7 +125,15 @@ to October 2026, so they undercount.
 | `/areas-we-cover/watford-gcse-a-level-tutoring` | `/study/locations/watford-tutors/` | 70 impressions |
 | `/areas-we-cover/york-gcse-a-level-tutoring` | `/study/locations/york-tutors/` | 87 impressions |
 
-## Second batch: 80 more, 30 October 2026 (NOT YET APPLIED)
+## Second batch: 80 more, 30 October 2026
+
+**Applied 2026-10-30.** The block sits in `/var/www/html/.htaccess` straight after
+the `york` rule of the first batch. The file before the change is
+`/var/www/html/.htaccess.bak-1793392894`. All 160 addresses answered one 301 to
+the page for the same town; the homepage, `/teachers`, `/Pricing`, `/aboutus`,
+`/areas-we-cover`, `/apply-to-tutor`, `/study/` and the town subject pages still
+answered 200; the left-out Richmond, Clapham, Tooting Bec and Chigwell pages still
+answered 200; and nothing below a redirected address is caught (404 as before).
 
 Search Console (29 Jul to 27 Oct 2026) showed old town pages still live for towns
 that now have a page on /study/, taking about 13,000 impressions and 57 clicks in
@@ -142,8 +150,8 @@ Neighbourhood pages stay where they are, as before (Tooting Bec, Clapham Junctio
 The 80 rules are the second block at the end of `old-location-redirects.htaccess`
 (and two lines each at the end of `old-location-redirects.csv`). Paste that block
 into the main site's `/var/www/html/.htaccess` straight after the
-`areas-we-cover/york-gcse-a-level-tutoring` rule, keeping a backup first, then run
-the check command above: all 160 addresses should answer 301 to their town page.
+`areas-we-cover/york-gcse-a-level-tutoring` rule (done, see above). To recheck,
+run the check command above: all 160 addresses should answer 301 to their town page.
 
 Towns: Abingdon, Altrincham, Amersham, Ampthill, Andover, Balham, Basildon, Basingstoke, Bath, Beaconsfield, Bedford, Berkhamsted, Beverley, Bishops Stortford, Bolton, Borehamwood, Brentwood, Bromley, Burntwood, Burton upon Trent, Bury St Edmunds, Bushey, Camberley, Cannock, Cirencester, Clacton-on-Sea, Colliers Wood, Dartford, Didcot, Doncaster, Egham, Esher, Fareham, Farnborough, Farnham, Fleet, Gerrards Cross, Gloucester, Godalming, Gravesend, Great Missenden, Havant, Hertford, Hitchin, Hull, Ipswich, Kingston upon Thames, Knutsford, Leighton Buzzard, Lincoln, Lowestoft, Maidstone, New Malden, Nuneaton, Orpington, Potters Bar, Princes Risborough, Putney, Redhill, Reigate, Rickmansworth, Rochdale, Royston, Rugby, Saffron Walden, Salford, Southend-on-Sea, St Neots, Stoke-on-Trent, Stourbridge, Surbiton, Taunton, Tonbridge, Tring, Walton-on-Thames, Weybridge, Wilmslow, Wimbledon, Woking, Wokingham.
 
