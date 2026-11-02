@@ -23,6 +23,11 @@
        yearLabel        label for the year select
        yearGroups       list of "zoho value|label". Values must match the Zoho
                         LEADCF3 picklist exactly or the write is dropped.
+       newsletter       the weekly newsletter opt-in shows unless a page sets
+                        this to false. Always optional and unticked: marketing
+                        consent is a separate choice, never a condition of
+                        registering. Hidden from students below Year 12, so
+                        nobody under 16 is added to marketing emails.
        termsUrl         site-relative path to the terms the consent box cites
        finePrint        the line under the button
 */}}
@@ -89,6 +94,17 @@
               <input type="checkbox" name="tutoring_interest" value="Yes">
               <span class="gs-consent__label">{{ .tutoringLabel | default "I may be interested in academic support this academic year." }} <span>Optional.</span></span>
             </label>
+            {{/* What ticking it means, worded for whoever is registering (set by
+                 the script below). Without JS the parent wording shows. */}}
+            <p class="gs-field__hint" data-gs-tutoring-hint data-parent="If you tick this, we'll call you and may text or WhatsApp you about it. You can opt out at any time." data-student="If you tick this, we'll email you about it. We never ask a student for a phone number.">If you tick this, we'll call you and may text or WhatsApp you about it. You can opt out at any time.</p>
+          </div>
+          {{ end }}
+          {{ if ne .newsletter false }}
+          <div class="gs-field gs-field--optin" data-gs-newsletter>
+            <label class="gs-consent gs-consent--optin">
+              <input type="checkbox" name="newsletter_optin" value="Yes">
+              <span class="gs-consent__label">Send me The Degree Gap's weekly newsletter and invitations to future free webinars. <span>Optional. Unsubscribe any time.</span></span>
+            </label>
           </div>
           {{ end }}
           <label class="gs-consent">
@@ -120,6 +136,9 @@
     var phone = form.querySelector('[name="phone"]');
     var yearWrap = form.querySelector('[data-gs-year]');
     var year = form.querySelector('[name="year_of_study"]');
+    var newsWrap = form.querySelector('[data-gs-newsletter]');
+    var news = form.querySelector('[name="newsletter_optin"]');
+    var hint = form.querySelector('[data-gs-tutoring-hint]');
 
     function show(wrap, field, on) {
       if (wrap) wrap.hidden = !on;
@@ -143,9 +162,18 @@
       if (phone) phone.required = false;
       show(yearWrap, year, !isStaff);
       if (year) year.required = !isStaff;
+      /* The weekly newsletter is never offered to a student below Year 12, so
+         nobody under 16 joins a marketing list. A student in Year 12 or 13 (or
+         beyond) is offered it like anyone else. Unticked whenever hidden. */
+      var isStudent = role === 'Student';
+      var olderStudent = isStudent && !!year && /Yr 1[23]|Year 1[23]|Masters/i.test(year.value);
+      show(newsWrap, news, chosen && (!isStudent || olderStudent));
+      if (news && news.disabled) news.checked = false;
+      if (hint) hint.textContent = isStudent ? hint.getAttribute('data-student') : hint.getAttribute('data-parent');
     }
 
     if (who) who.addEventListener('change', update);
+    if (year) year.addEventListener('change', update);
     update();
   })();
 </script>

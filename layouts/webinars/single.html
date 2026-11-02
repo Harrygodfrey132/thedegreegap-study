@@ -478,7 +478,7 @@
     return iframe;
   }
 
-  function submitZohoLead(data, leadSource, tutoring) {
+  function submitZohoLead(data, leadSource, tutoring, newsletter) {
     var iframe = zohoFrame();
     var f = document.createElement('form');
     f.method = 'POST';
@@ -520,6 +520,10 @@
     }
     var registrant = (data.get('registrant') || '').trim();
     if (registrant) notes.push('Registering as: ' + registrant);
+    /* Marketing consent, recorded separately from registering. Only leads
+       with "Yes" here may go on the weekly newsletter list. A box the form
+       hid (a student below Year 12) is disabled and so reads as "No". */
+    notes.push('Weekly newsletter opt-in: ' + (newsletter ? 'Yes' : 'No'));
     if (notes.length) add('Description', notes.join('\n'));
     add('Lead Source', leadSource);
     document.body.appendChild(f);
@@ -586,7 +590,9 @@
          the next load event on it is Zoho answering the post. */
       zohoFrame().addEventListener('load', done);
 
-      submitZohoLead(data, {{ $leadSource }}, tutoring);
+      var newsField = form.querySelector('[name="newsletter_optin"]');
+      var newsletter = !!(newsField && !newsField.disabled && newsField.checked);
+      submitZohoLead(data, {{ $leadSource }}, tutoring, newsletter);
       if (typeof fbq === 'function') { fbq('track', 'Lead'); }
 
       /* Ceiling for a bad connection, so nobody is stranded on a dead button. */

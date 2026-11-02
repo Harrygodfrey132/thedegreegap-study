@@ -34,7 +34,7 @@ year_groups:
   - "A level - Yr 13|Year 13"
   - "Unsure|Other, or not sure"
 terms_url: "webinar-terms/"
-form_fine_print: "We email the joining link, a reminder, the slides and the replay, plus invitations to our other free webinars. Unsubscribe any time. We ask a parent for a phone number so we can text a reminder, and we never ask a student for one."
+form_fine_print: "We email the joining link, a reminder, the slides and the replay. Our weekly newsletter is separate: only if you tick the box above. Unsubscribe any time. We ask a parent for a phone number so we can text a reminder, and we never ask a student for one."
 # The site-wide WhatsApp prompt opens a tutoring enquiry. Not on a page a
 # school is being asked to put in front of its families.
 hide_whatsapp: true

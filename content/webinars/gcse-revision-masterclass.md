@@ -56,7 +56,7 @@ year_groups:
   - "Year 11 resit|Year 11 resit"
   - "Unsure|Other, or not sure"
 terms_url: "webinar-terms/"
-form_fine_print: "We email the joining link, a reminder, the replay and the follow-up resources, plus invitations to our other free webinars. Unsubscribe any time."
+form_fine_print: "We email the joining link, a reminder on the day, the replay and the follow-up resources. Our weekly newsletter is separate: only if you tick the box above."
 # Everyone who does not go on to book a call lands on the plain confirmation,
 # which reads its date from this page (webinar_ref in content/webinar-thanks.md).
 redirect_default: "webinar-thanks/"
