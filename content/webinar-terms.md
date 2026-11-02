@@ -12,12 +12,12 @@ These terms and conditions ("Terms") cover your registration for, and attendance
 
 You accept these Terms by ticking the box to accept them and registering. If you do not agree, please do not register.
 
-Accepting these Terms does **not** sign you up to our newsletter or to any marketing. That is a separate choice, made with its own optional box on the registration form (see section 6).
+When you tick the box to accept these Terms, you also agree to receive our weekly newsletter, which includes invitations to future free webinars. The box says so in its wording. Students under 16 are the exception: they see a box without the newsletter wording and are never added (see section 6). You can unsubscribe at any time.
 
 ## In short
 
 - **Everyone** who registers gets the emails needed for the Webinar: the joining link, a reminder and the replay.
-- **Our weekly newsletter**, which includes invitations to future free webinars, is only for people who tick the newsletter box. Every newsletter has an unsubscribe link.
+- **Our weekly newsletter**, which includes invitations to future free webinars, goes to everyone who accepts these Terms, except students under 16. Every newsletter has an unsubscribe link.
 - **Students** only ever give us an email address. We never ask a student for a phone number, and we never call or text a student. Students under 16 never receive the newsletter.
 - **Parents and guardians** may give us a phone number if they want to. It is optional. We use it to send a reminder before the Webinar starts. If you also tick the box saying you are interested in academic support, we will call you afterwards and may text or WhatsApp you about tutoring.
 - You can stop hearing from us at any time (see section 8).
@@ -57,7 +57,6 @@ When you register, we collect:
 - whether you are registering as a parent or guardian, a student, or a member of school or college staff;
 - the year group of the student the registration relates to (we do not ask school staff for this);
 - whether you ticked the box saying you are interested in academic support;
-- whether you ticked the box to receive our weekly newsletter;
 - if you register as a parent or guardian, your phone number, but only if you choose to give it; and
 - limited technical and analytics data about your visit (see section 11).
 
@@ -69,7 +68,7 @@ A phone number is never required to register. We only ask a parent or guardian f
 |---|---|---|
 | Register you and give you access to the Webinar, the replay and any slides | Everyone | Providing the service you asked for, and our legitimate interests in running the Webinar |
 | Send Webinar emails: the joining link, a reminder and the replay with follow-up resources | Everyone | Providing the service you asked for, and our legitimate interests |
-| Send our weekly newsletter, including invitations to future free webinars | Only people who ticked the newsletter box (never students under 16) | Your consent |
+| Send our weekly newsletter, including invitations to future free webinars | Everyone who accepts these Terms, except students under 16 | Your consent, given by ticking the box to accept these Terms |
 | Send a text or WhatsApp reminder before the Webinar starts | Parents and guardians who gave a phone number | Providing the service you asked for, and our legitimate interests |
 | Call you, and text or WhatsApp you, about tutoring after the Webinar | Parents and guardians who gave a phone number **and** ticked the academic support box | Your consent |
 | Email you about tutoring | Students who ticked the academic support box | Your consent |
@@ -79,7 +78,7 @@ A phone number is never required to register. We only ask a parent or guardian f
 
 6.1 **Webinar emails (everyone).** After you register, we email you the joining link before the Webinar and a reminder on the day. Afterwards, we email you the replay, any slides and follow-up resources. These emails are about the Webinar you registered for, not marketing.
 
-6.2 **Our weekly newsletter (only if you tick the box).** The registration form has a separate, optional box to receive our newsletter. It is unticked unless you tick it, and you can register for the Webinar without it. If you tick it, we add you to our email list and send you the newsletter once a week. It includes free resources, guidance and invitations to our future free webinars. Every newsletter includes an unsubscribe link. We do not offer the newsletter to students under 16, and we never add them to it.
+6.2 **Our weekly newsletter.** When you accept these Terms, we add you to our email list and send you our newsletter once a week. It includes free resources, guidance and invitations to our future free webinars. Every newsletter includes an unsubscribe link, and you can unsubscribe straight away if you would rather only receive the Webinar emails. Students under 16 are never added to the newsletter.
 
 6.3 **Phone, text and WhatsApp (parents and guardians only).** If you register as a parent or guardian and give us a phone number:
 
@@ -92,7 +91,7 @@ If you did not tick the academic support box, we will not call or message you ab
 
 ## 7. Consent
 
-7.1 Your consent to our weekly newsletter is given by ticking the newsletter box. Your consent to calls and messages about tutoring is given by ticking the academic support box and giving your phone number. Neither is required to register for a Webinar.
+7.1 Your consent to our weekly newsletter is given when you tick the box to accept these Terms, which says so in its wording (students under 16 are never added). Your consent to calls and messages about tutoring is given by ticking the separate academic support box and giving your phone number. The academic support box and the phone number are optional.
 
 7.2 You can withdraw your consent at any time. Withdrawing it does not affect anything we sent before you withdrew it.
 

@@ -23,11 +23,10 @@
        yearLabel        label for the year select
        yearGroups       list of "zoho value|label". Values must match the Zoho
                         LEADCF3 picklist exactly or the write is dropped.
-       newsletter       the weekly newsletter opt-in shows unless a page sets
-                        this to false. Always optional and unticked: marketing
-                        consent is a separate choice, never a condition of
-                        registering. Hidden from students below Year 12, so
-                        nobody under 16 is added to marketing emails.
+       The terms box also covers the weekly newsletter and future webinar
+       invites (Harry, 2 Nov 2026: two boxes, not three). A student below
+       Year 12 sees the plain wording instead and is never added, so nobody
+       under 16 joins a marketing list. The script below swaps the label.
        termsUrl         site-relative path to the terms the consent box cites
        finePrint        the line under the button
 */}}
@@ -99,17 +98,9 @@
             <p class="gs-field__hint" data-gs-tutoring-hint data-parent="If you tick this, we'll call you and may text or WhatsApp you about it. You can opt out at any time." data-student="If you tick this, we'll email you about it. We never ask a student for a phone number.">If you tick this, we'll call you and may text or WhatsApp you about it. You can opt out at any time.</p>
           </div>
           {{ end }}
-          {{ if ne .newsletter false }}
-          <div class="gs-field gs-field--optin" data-gs-newsletter>
-            <label class="gs-consent gs-consent--optin">
-              <input type="checkbox" name="newsletter_optin" value="Yes">
-              <span class="gs-consent__label">Send me The Degree Gap's weekly newsletter and invitations to future free webinars. <span>Optional. Unsubscribe any time.</span></span>
-            </label>
-          </div>
-          {{ end }}
           <label class="gs-consent">
             <input type="checkbox" name="consent_terms" value="yes" required>
-            <span class="gs-consent__label">I accept the <a href="{{ $termsUrl | relURL }}" target="_blank" rel="noopener">terms and conditions</a>.</span>
+            <span class="gs-consent__label">I accept the <a href="{{ $termsUrl | relURL }}" target="_blank" rel="noopener">terms and conditions</a><span data-gs-news-words>, and I'm happy to get the weekly newsletter and invitations to future free webinars. Unsubscribe any time</span>.</span>
           </label>
           <button type="submit" class="gs-submit">{{ .submitLabel }}</button>
           <p class="gs-register__fine">{{ .finePrint | default "Used only for reminders, the webinars, and feedback. Unsubscribe any time." }}</p>
@@ -136,8 +127,7 @@
     var phone = form.querySelector('[name="phone"]');
     var yearWrap = form.querySelector('[data-gs-year]');
     var year = form.querySelector('[name="year_of_study"]');
-    var newsWrap = form.querySelector('[data-gs-newsletter]');
-    var news = form.querySelector('[name="newsletter_optin"]');
+    var newsWords = form.querySelector('[data-gs-news-words]');
     var hint = form.querySelector('[data-gs-tutoring-hint]');
 
     function show(wrap, field, on) {
@@ -162,13 +152,12 @@
       if (phone) phone.required = false;
       show(yearWrap, year, !isStaff);
       if (year) year.required = !isStaff;
-      /* The weekly newsletter is never offered to a student below Year 12, so
-         nobody under 16 joins a marketing list. A student in Year 12 or 13 (or
-         beyond) is offered it like anyone else. Unticked whenever hidden. */
+      /* The newsletter words on the terms box are dropped for a student below
+         Year 12, so nobody under 16 agrees to marketing emails. The submit
+         handler applies the same test when it records the choice. */
       var isStudent = role === 'Student';
       var olderStudent = isStudent && !!year && /Yr 1[23]|Year 1[23]|Masters/i.test(year.value);
-      show(newsWrap, news, chosen && (!isStudent || olderStudent));
-      if (news && news.disabled) news.checked = false;
+      if (newsWords) newsWords.hidden = isStudent && !olderStudent;
       if (hint) hint.textContent = isStudent ? hint.getAttribute('data-student') : hint.getAttribute('data-parent');
     }
 
