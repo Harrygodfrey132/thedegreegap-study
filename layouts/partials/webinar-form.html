@@ -162,7 +162,9 @@
          handler applies the same test when it records the choice. */
       var isStudent = role === 'Student';
       var olderStudent = isStudent && !!year && /Yr 1[23]|Year 1[23]|Masters/i.test(year.value);
-      if (newsWords) newsWords.hidden = isStudent && !olderStudent;
+      /* School staff never go on the newsletter either (Harry, 2 Nov 2026):
+         they get the Webinar emails only. */
+      if (newsWords) newsWords.hidden = isStaff || (isStudent && !olderStudent);
       if (hint) hint.textContent = isStudent ? hint.getAttribute('data-student') : hint.getAttribute('data-parent');
     }
 

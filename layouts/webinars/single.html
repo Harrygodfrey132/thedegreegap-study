@@ -600,7 +600,9 @@
 
       var regWho = (data.get('registrant') || '').trim();
       var regYear = (data.get('year_of_study') || '').trim();
-      var newsletter = !(regWho === 'Student' && !/Yr 1[23]|Year 1[23]|Masters/i.test(regYear));
+      /* Never school staff, and never a student below Year 12. */
+      var newsletter = regWho !== 'Teacher or school staff' &&
+        !(regWho === 'Student' && !/Yr 1[23]|Year 1[23]|Masters/i.test(regYear));
       submitZohoLead(data, {{ $leadSource }}, tutoring, newsletter);
       if (typeof fbq === 'function') { fbq('track', 'Lead'); }
 
