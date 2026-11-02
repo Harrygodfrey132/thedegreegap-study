@@ -499,7 +499,7 @@ document.addEventListener('submit', function(e){
 })();
 
 /* ---------------------------------------------------------------------------
-   Callback modal (currently the October 2026 Discount offer).
+   Callback modal (currently the November 2026 offer, NOV75).
 
    Opens the offer dialog on the locations and blog pages, once per visitor
    (never again after they close it or claim the code), on whichever comes
@@ -520,7 +520,7 @@ document.addEventListener('submit', function(e){
    The details are posted
    to Zoho web-to-lead with the Lead Source set on the partial, and the dialog
    stops appearing once data-cbp-ends has passed, so the offer switches itself
-   off after October without a rebuild.
+   off when the month ends, without a rebuild.
 
    Everything is optional: if any of it throws, the page is unchanged and the
    dialog simply never opens.
@@ -541,7 +541,9 @@ document.addEventListener('submit', function(e){
   // still sees the discount. The main-site homepage copy of this pop-up
   // (docs/october-2026-discount-popup.html) uses the same key, and the two
   // share storage because /study/ is on the same origin.
-  var KEY = 'tdg_oct26_popup';
+  // One key per month's offer: November's is new, so a parent who closed
+  // October's pop-up still sees November's.
+  var KEY = 'tdg_nov26_popup';
   var MIN_DWELL = phone ? 7000 : 5000;
   var MAX_WAIT = phone ? 20000 : 12000;
   // Screens scrolled, not a share of the page. These pages run from about
@@ -742,8 +744,9 @@ document.addEventListener('submit', function(e){
     /* Type of lead. Must match the Zoho picklist value exactly. */
     add('LEADCF5', 'Customer');
     add('LEADCF3', 'Unsure');
-    add('Description', 'October 2026 Discount: shown code OCT50 (50% off first session, first-time customers only) on the website pop-up at ' + window.location.pathname + '. Text them the code.');
-    add('Lead Source', root.getAttribute('data-cbp-source') || 'October 2026 Discount');
+    var source = root.getAttribute('data-cbp-source') || 'Website discount pop-up';
+    add('Description', source + ': shown code ' + (root.getAttribute('data-cbp-offer') || '') + ' on the website pop-up at ' + window.location.pathname + '. Text them the code.');
+    add('Lead Source', source);
     document.body.appendChild(f);
     f.submit();
   }
