@@ -21,8 +21,8 @@ webinar_time_display: "7 to 8pm, online (UK time)"
 # Registration form sits in the hero, beside the copy, so a parent can sign up
 # without scrolling.
 hero_form: true
-hero_form_title: "Save your free place"
-hero_form_sub: "Register here to get your joining link. We email it on Sunday 29 November, with a reminder at 4pm on the day."
+hero_form_title: "Parents: save your free place"
+hero_form_sub: "One registration per family. We email your joining link on Sunday 29 November, with a reminder at 4pm on the day."
 # In September a parent took the school newsletter link for the joining link,
 # so the hero says plainly that registering is what gets you in.
 hero_replay_note: "<b>You need to register to get the joining link.</b> Can't make 7pm? Register anyway and we email you the replay the next day."
@@ -39,15 +39,20 @@ speaker_credentials:
 speaker_lead: "Neither of us was an academic natural. With the right tutor and steady habits we finished school well above our targets, went on to competitive A levels and leading UK universities, and now run a team of more than 75 GCSE and A level tutors. This session is what we wish our own parents had been told before mocks."
 speaker_bio: "Harry and Joe both raised their grades in every subject at school with the help of a good tutor. Harry's school named him as one of its students who made the greatest progress, finishing 18 grades above his targets. After university and a spell in finance and recruitment, they came back to education, supporting students with applications to G5 universities and tutoring full time. Two years ago they launched The Degree Gap, which the Prestige Awards named GCSE Tutoring Specialists of the Year in 2025 and again in 2026, and which works with schools across the country. Every family starts with a free consultation, and each student is matched with a tutor who suits their needs and personality. The tips in this masterclass come from that work, and from the tutors who helped build the slides."
 
-# The registration form. Schools share this page, so it asks who is
-# registering: a parent gives name, email, an optional phone number and year
-# group; a student gives name, email and year group; a teacher gives name and
-# email only and never sees the academic support question. A parent who ticks
-# the box goes on to the booking page and is marked as interested.
-ask_registrant_type: true
+# The registration form, written to the parent (Harry, 2 Nov 2026: the
+# webinar is a lead source, and we want the parent's details, not the
+# child's). No "registering as" question: a parent gives name, email, an
+# optional mobile and their child's year group. A small "I'm a teacher" box at
+# the end lets school staff register without the parent questions. A parent
+# who ticks the support box goes on to the booking page, marked as interested.
+parent_led: true
 ask_tutoring_interest: true
-tutoring_label: "I'm interested in academic support this year."
-year_label: "Year group"
+name_label: "Your name"
+email_label: "Your email"
+email_hint: "Please use your own email, not your child's school one."
+phone_label: "Your mobile"
+tutoring_label: "I'd like to talk about support for my child this year."
+year_label: "Your child's year group"
 # Values must match the Zoho LEADCF3 picklist exactly.
 year_groups:
   - "Year 9|Year 9"
@@ -102,8 +107,8 @@ included_schools:
   - "Parental engagement, done for you|The Education Endowment Foundation recommends giving parents practical strategies to support learning at home. This hour gives your Year 10 and 11 families exactly that, in the run-up to mocks."
   - "A link that keeps working|After the evening this page becomes the replay, at the same address, so families who missed it can still watch."
 
-register_heading: "Save your free place"
-register_lead: "Leave your details and we will email the joining link, plus a reminder on the day."
+register_heading: "Parents: save your free place"
+register_lead: "One registration per family. Leave your details and we will email the joining link, plus a reminder on the day."
 submit_label: "Save my place"
 body_position: "after_form"
 
@@ -138,14 +143,14 @@ schools_parent_email_subject: "Free revision webinar for Year 10 and 11 families
 schools_parent_email: |
   Dear Parents and Carers,
 
-  With mocks coming up, we would like to share a free online webinar for Year 10 and 11 students and their parents, run by The Degree Gap.
+  With mocks coming up, we would like to share a free online webinar for parents and carers of Year 10 and 11 students, run by The Degree Gap. Your child is welcome to watch with you.
 
   **The GCSE Revision Masterclass**<br>
   Tuesday 1 December, 7 to 8pm, online
 
   Harry and Joe, co-founders of The Degree Gap, will cover how to use mocks as a starting point, how to sort revision into red, amber and green, what good revision looks like at home, the early signs of burnout, and how to support your child without adding pressure. There is a live Q&A at the end, and everyone who registers receives the replay.
 
-  Register free here: [thedegreegap.com/study/webinars/gcse-revision-masterclass](https://thedegreegap.com/study/webinars/gcse-revision-masterclass/)
+  Parents can register free here (one registration per family): [thedegreegap.com/study/webinars/gcse-revision-masterclass](https://thedegreegap.com/study/webinars/gcse-revision-masterclass/)
 schools_website_lead: "Adding the webinar to your website? Copy the text below into a news post, your letters to parents page or your events calendar, so parents can find the sign-up link, and later the replay, in one place."
 # After the webinar, swap schools_website for the replay version so schools
 # that post late still link to the same page:
@@ -162,13 +167,13 @@ schools_website_lead: "Adding the webinar to your website? Copy the text below i
 schools_website: |
   **Free GCSE revision webinar for Year 10 and 11 families, Tuesday 1 December**
 
-  [The Degree Gap](https://thedegreegap.com/) is running a free online webinar, The GCSE Revision Masterclass, for Year 10 and 11 students and their parents on Tuesday 1 December, 7 to 8pm. Harry and Joe, co-founders of The Degree Gap, will cover how to use mocks as a starting point, what good revision looks like at home, the early signs of burnout and how to support your child without adding pressure. There is a live Q&A at the end, and everyone who registers receives the replay.
+  [The Degree Gap](https://thedegreegap.com/) is running a free online webinar, The GCSE Revision Masterclass, for parents and carers of Year 10 and 11 students on Tuesday 1 December, 7 to 8pm. Harry and Joe, co-founders of The Degree Gap, will cover how to use mocks as a starting point, what good revision looks like at home, the early signs of burnout and how to support your child without adding pressure. There is a live Q&A at the end, and everyone who registers receives the replay.
 
-  Register free: [thedegreegap.com/study/webinars/gcse-revision-masterclass](https://thedegreegap.com/study/webinars/gcse-revision-masterclass/)
+  Parents can register free (one registration per family, and children are welcome to watch too): [thedegreegap.com/study/webinars/gcse-revision-masterclass](https://thedegreegap.com/study/webinars/gcse-revision-masterclass/)
 schools_note: "Would a square image for your newsletter or WhatsApp help? Email <a href=\"mailto:admin@thedegreegap.com\">admin@thedegreegap.com</a> and we will send it over."
 
 event_name: "The GCSE Revision Masterclass"
-event_description: "A free hour-long online session for Year 10 and 11 students and their parents from The Degree Gap's co-founders: a 30-minute masterclass on using mocks as a starting point, what good revision looks like at home, spotting burnout early and supporting your child without adding pressure, then 30 minutes of live Q&A."
+event_description: "A free hour-long online session for parents and carers of Year 10 and 11 students from The Degree Gap's co-founders: a 30-minute masterclass on using mocks as a starting point, what good revision looks like at home, spotting burnout early and supporting your child without adding pressure, then 30 minutes of live Q&A."
 # Zoho Lead Source picklist value for this webinar.
 lead_source: "November 2026 Webinar"
 # "How the evening runs" as a timeline: one step per line, When|Title|Detail.
@@ -180,11 +185,11 @@ schedule:
 # "Common questions" as an accordion. Answers are markdown, so they can link.
 faqs:
   - q: "Who is it for?"
-    a: "Parents and carers of students in Year 10 or Year 11, and the students themselves. It works for any exam board and any grade. Parents of Year 9 students planning ahead are welcome too."
+    a: "Parents and carers of students in Year 10 or Year 11. It works for any exam board and any grade. Parents of Year 9 students planning ahead are welcome too, and your child is welcome to watch with you."
   - q: "How do I join on the night?"
     a: "Register on this page. A link in a school newsletter brings you here, but it is not the joining link. Your own joining link comes by email on Sunday 29 November, with a reminder at 4pm on the day."
   - q: "Can my child watch with me?"
-    a: "Yes, and we would encourage it. Students can also register for themselves."
+    a: "Yes, and we would encourage it. One registration covers the family: register with your own email and watch together."
   - q: "Do I have to speak or appear on camera?"
     a: "No. You just watch, and type any questions into the chat."
   - q: "I can't make the evening. Should I still register?"

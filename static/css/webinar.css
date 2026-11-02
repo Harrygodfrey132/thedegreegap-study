@@ -591,6 +591,9 @@
   .gs-field--optin:not([hidden]) { animation: gs-reveal .22s ease both; }
   /* The line saying what ticking the box means sits under its box, with room before the button. */
   .gs-field--optin .gs-field__hint { margin: -8px 0 18px 32px; }
+  /* The small "I'm a teacher" box on parent-led forms: there, but not competing. */
+  .gs-consent--staff { font-size: .82rem; color: var(--muted); margin: 0 0 14px; }
+  .gs-consent--staff .gs-consent__label { font-weight: 400; color: var(--muted); }
   @keyframes gs-reveal { from { opacity: 0; transform: translateY(-3px); } to { opacity: 1; transform: none; } }
 
   /* ---------- REVIEWS with their call to action ---------- */

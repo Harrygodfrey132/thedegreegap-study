@@ -12,13 +12,13 @@ These terms and conditions ("Terms") cover your registration for, and attendance
 
 You accept these Terms by registering. If you do not agree, please do not register.
 
-By registering, you also agree to receive our emails, including our weekly newsletter, which includes invitations to future free webinars. The registration form says so next to the button. Students under 16 are the exception: they are never added to the newsletter (see section 6). You can unsubscribe at any time.
+By registering, you also agree to receive our emails, including our weekly newsletter, which includes invitations to future free webinars. The registration form says so next to the button. We never knowingly add anyone under 16 to the newsletter (see section 6). You can unsubscribe at any time.
 
 ## In short
 
 - **Everyone** who registers gets the emails needed for the Webinar: the joining link, a reminder and the replay.
 - **Our weekly newsletter**, which includes invitations to future free webinars, goes to everyone who registers, except students under 16. Every newsletter has an unsubscribe link.
-- **Students** only ever give us an email address. We never ask a student for a phone number, and we never call or text a student. Students under 16 never receive the newsletter.
+- **Registration is for parents and guardians** (and school staff). Your child is welcome to watch with you; one registration covers the family. We never ask a student for a phone number, never call or text a student, and never knowingly add anyone under 16 to our newsletter.
 - **Parents and guardians** may give us a phone number if they want to. It is optional. We use it to send a reminder before the Webinar starts. If you also tick the box saying you are interested in academic support, we will call you afterwards and may text or WhatsApp you about tutoring.
 - You can stop hearing from us at any time (see section 8).
 
@@ -38,11 +38,11 @@ For any question about these Terms, a Webinar or your personal information, emai
 
 ## 3. Who can register
 
-3.1 Parents and guardians, school and college staff, and students aged 13 or over may register.
+3.1 Our Webinars for GCSE families are registered for by a parent or guardian, on behalf of the family. School and college staff may also register. Students are welcome to watch with their parent or guardian.
 
-3.2 If you register as a parent or guardian, you confirm that you are 18 or over.
+3.2 Where a Webinar's registration form invites students to register themselves (for example, a session for Year 12 and 13), students aged 13 or over may do so.
 
-3.3 If you are a student under 13, please ask a parent or guardian to register for you.
+3.3 If you register as a parent or guardian, you confirm that you are 18 or over and that you are registering with your own contact details, not your child's.
 
 3.4 You confirm that the details you give are accurate and that you are entitled to give any contact details you enter.
 
@@ -54,7 +54,7 @@ When you register, we collect:
 
 - your name;
 - your email address;
-- whether you are registering as a parent or guardian, a student, or a member of school or college staff;
+- whether you are registering as a parent or guardian, or as a member of school or college staff (or, where a form allows it, as a student);
 - the year group of the student the registration relates to (we do not ask school staff for this);
 - whether you ticked the box saying you are interested in academic support;
 - if you register as a parent or guardian, your phone number, but only if you choose to give it; and
@@ -68,7 +68,7 @@ A phone number is never required to register. We only ask a parent or guardian f
 |---|---|---|
 | Register you and give you access to the Webinar, the replay and any slides | Everyone | Providing the service you asked for, and our legitimate interests in running the Webinar |
 | Send Webinar emails: the joining link, a reminder and the replay with follow-up resources | Everyone | Providing the service you asked for, and our legitimate interests |
-| Send our weekly newsletter, including invitations to future free webinars | Everyone who registers, except students under 16 | Your agreement when registering, as stated on the form |
+| Send our weekly newsletter, including invitations to future free webinars | Everyone who registers (we never knowingly add anyone under 16) | Your agreement when registering, as stated on the form |
 | Send a text or WhatsApp reminder before the Webinar starts | Parents and guardians who gave a phone number | Providing the service you asked for, and our legitimate interests |
 | Call you, and text or WhatsApp you, about tutoring after the Webinar | Parents and guardians who gave a phone number **and** ticked the academic support box | Your consent |
 | Email you about tutoring | Students who ticked the academic support box | Your consent |
@@ -87,7 +87,7 @@ A phone number is never required to register. We only ask a parent or guardian f
 
 If you did not tick the academic support box, we will not call or message you about tutoring. You can tell us to stop calling or messaging you at any time, and every text tells you how to opt out (see section 8).
 
-6.4 **Students.** Students only ever give us an email address. We never ask a student for a phone number, and we never call, text or WhatsApp a student. A student who ticks the academic support box may receive an email from us about it, and nothing else.
+6.4 **Students.** We never ask a student for a phone number, and we never call, text or WhatsApp a student. Where a form lets students register, they give only an email address, and students under 16 are never added to the newsletter. If a child has registered with their own email by mistake, email [admin@thedegreegap.com](mailto:admin@thedegreegap.com) and we will remove them from everything except the emails for that Webinar, or entirely if you prefer.
 
 ## 7. Consent
 

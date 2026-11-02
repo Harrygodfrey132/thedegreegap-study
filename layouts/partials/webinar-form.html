@@ -13,6 +13,13 @@
                         passing the page to a class is not a tutoring enquiry.
                         It stays low-commitment on purpose, since the
                         registration is what the page is actually for.
+       parentLed        written to the parent (Harry, 2 Nov 2026: the webinar
+                        is a lead source and the parent is the buyer). No
+                        "registering as" question: every registration is a
+                        parent's, with a small "I'm a teacher" box at the end
+                        for schools. Students can still fill it in, but
+                        nothing asks them to.
+       nameLabel, emailLabel, emailHint   field wording, where a page wants its own
        tutoringLabel    wording of that opt-in, where a page wants its own
        phoneLabel       label on the phone field. Where the form asks who is
                         registering, the field goes to a parent or guardian
@@ -53,7 +60,9 @@
         {{ end }}
         <form novalidate data-gs-form>
           <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
-          {{ if .askRegistrant }}
+          {{ if .parentLed }}
+          <input type="hidden" name="registrant" value="Parent or guardian">
+          {{ else if .askRegistrant }}
           <div class="gs-field">
             <label for="gs-registrant">I am registering as</label>
             <select id="gs-registrant" name="registrant" required>
@@ -65,17 +74,18 @@
           </div>
           {{ end }}
           <div class="gs-field">
-            <label for="gs-name">Name</label>
+            <label for="gs-name">{{ .nameLabel | default "Name" }}</label>
             <input id="gs-name" name="name" type="text" required autocomplete="name">
           </div>
           <div class="gs-field">
-            <label for="gs-email">Email</label>
+            <label for="gs-email">{{ .emailLabel | default "Email" }}</label>
             <input id="gs-email" name="email" type="email" required autocomplete="email" placeholder="you@example.com">
+            {{ with .emailHint }}<p class="gs-field__hint">{{ . }}</p>{{ end }}
           </div>
           <div class="gs-field" data-gs-phone>
             <label for="gs-phone">{{ .phoneLabel | default "Phone" }} <span>(optional)</span></label>
             <input id="gs-phone" name="phone" type="tel" autocomplete="tel" inputmode="tel" placeholder="07XXX XXX XXX">
-            {{ if .askRegistrant }}<p class="gs-field__hint">So we can text you a reminder before the session starts.</p>{{ end }}
+            {{ if or .askRegistrant .parentLed }}<p class="gs-field__hint">So we can text you a reminder before the session starts.</p>{{ end }}
           </div>
           <div class="gs-field" data-gs-year>
             <label for="gs-year">{{ .yearLabel | default "Year of study" }}</label>
@@ -99,6 +109,12 @@
             <p class="gs-field__hint" data-gs-tutoring-hint data-parent="If you tick this, we'll call you and may text or WhatsApp you about it. You can opt out at any time." data-student="If you tick this, we'll email you about it. We never ask a student for a phone number.">If you tick this, we'll call you and may text or WhatsApp you about it. You can opt out at any time.</p>
           </div>
           {{ end }}
+          {{ if .parentLed }}
+          <label class="gs-consent gs-consent--staff">
+            <input type="checkbox" data-gs-staff>
+            <span class="gs-consent__label">I'm a teacher or member of school staff</span>
+          </label>
+          {{ end }}
           <button type="submit" class="gs-submit">{{ .submitLabel }}</button>
           <p class="gs-register__fine">By registering, you agree to our <a href="{{ $termsUrl | relURL }}" target="_blank" rel="noopener">terms and conditions</a><span data-gs-news-words> and to receive our emails, including our weekly newsletter. Unsubscribe any time</span>.</p>
           {{ with .finePrint }}<p class="gs-register__fine">{{ . }}</p>{{ end }}
@@ -111,7 +127,7 @@
           <p>Check your inbox for the confirmation. We will send the joining link before the session, plus the replay afterwards.</p>
         </div>
       </div>
-{{ if or .askRegistrant .askTutoring }}
+{{ if or .askRegistrant .askTutoring .parentLed }}
 <script>
   /* Show each question only to the person it is written for. Without JS every
      field shows and the form still works, so this only ever narrows. */
@@ -159,6 +175,12 @@
       if (hint) hint.textContent = isStudent ? hint.getAttribute('data-student') : hint.getAttribute('data-parent');
     }
 
+    /* Parent-led forms: the "I'm a teacher" box flips the hidden role. */
+    var staff = form.querySelector('[data-gs-staff]');
+    if (staff && who) staff.addEventListener('change', function () {
+      who.value = staff.checked ? 'Teacher or school staff' : 'Parent or guardian';
+      update();
+    });
     if (who) who.addEventListener('change', update);
     if (year) year.addEventListener('change', update);
     update();
