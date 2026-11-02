@@ -14,11 +14,10 @@
                         It stays low-commitment on purpose, since the
                         registration is what the page is actually for.
        parentLed        written to the parent (Harry, 2 Nov 2026: the webinar
-                        is a lead source and the parent is the buyer). No
-                        "registering as" question: every registration is a
-                        parent's, with a small "I'm a teacher" box at the end
-                        for schools. Students can still fill it in, but
-                        nothing asks them to.
+                        is a lead source and the parent is the buyer). The
+                        "registering as" dropdown offers a parent or guardian
+                        and school staff only, with no student option.
+                        Students can still fill it in, but nothing asks them to.
        nameLabel, emailLabel, emailHint   field wording, where a page wants its own
        tutoringLabel    wording of that opt-in, where a page wants its own
        phoneLabel       label on the phone field. Where the form asks who is
@@ -60,15 +59,13 @@
         {{ end }}
         <form novalidate data-gs-form>
           <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
-          {{ if .parentLed }}
-          <input type="hidden" name="registrant" value="Parent or guardian">
-          {{ else if .askRegistrant }}
+          {{ if or .askRegistrant .parentLed }}
           <div class="gs-field">
             <label for="gs-registrant">I am registering as</label>
             <select id="gs-registrant" name="registrant" required>
               <option value="" disabled selected>Please choose</option>
               <option value="Parent or guardian">A parent or guardian</option>
-              <option value="Student">A student</option>
+              {{ if not .parentLed }}<option value="Student">A student</option>{{ end }}
               <option value="Teacher or school staff">A teacher or member of school staff</option>
             </select>
           </div>
@@ -108,12 +105,6 @@
                  the script below). Without JS the parent wording shows. */}}
             <p class="gs-field__hint" data-gs-tutoring-hint data-parent="If you tick this, we'll call you and may text or WhatsApp you about it. You can opt out at any time." data-student="If you tick this, we'll email you about it. We never ask a student for a phone number.">If you tick this, we'll call you and may text or WhatsApp you about it. You can opt out at any time.</p>
           </div>
-          {{ end }}
-          {{ if .parentLed }}
-          <label class="gs-consent gs-consent--staff">
-            <input type="checkbox" data-gs-staff>
-            <span class="gs-consent__label">I'm a teacher or member of school staff</span>
-          </label>
           {{ end }}
           <button type="submit" class="gs-submit">{{ .submitLabel }}</button>
           <p class="gs-register__fine">By registering, you agree to our <a href="{{ $termsUrl | relURL }}" target="_blank" rel="noopener">terms and conditions</a><span data-gs-news-words> and to receive our emails, including our weekly newsletter. Unsubscribe any time</span>.</p>
@@ -175,12 +166,6 @@
       if (hint) hint.textContent = isStudent ? hint.getAttribute('data-student') : hint.getAttribute('data-parent');
     }
 
-    /* Parent-led forms: the "I'm a teacher" box flips the hidden role. */
-    var staff = form.querySelector('[data-gs-staff]');
-    if (staff && who) staff.addEventListener('change', function () {
-      who.value = staff.checked ? 'Teacher or school staff' : 'Parent or guardian';
-      update();
-    });
     if (who) who.addEventListener('change', update);
     if (year) year.addEventListener('change', update);
     update();

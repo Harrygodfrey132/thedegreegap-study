@@ -41,10 +41,11 @@ speaker_bio: "Harry and Joe both raised their grades in every subject at school 
 
 # The registration form, written to the parent (Harry, 2 Nov 2026: the
 # webinar is a lead source, and we want the parent's details, not the
-# child's). No "registering as" question: a parent gives name, email, an
-# optional mobile and their child's year group. A small "I'm a teacher" box at
-# the end lets school staff register without the parent questions. A parent
-# who ticks the support box goes on to the booking page, marked as interested.
+# child's). The "registering as" dropdown offers a parent or guardian, or
+# school staff, with no student option. A parent gives name, email, an
+# optional mobile and their child's year group; school staff give name and
+# email only. A parent who ticks the support box goes on to the booking page,
+# marked as interested.
 parent_led: true
 ask_tutoring_interest: true
 name_label: "Your name"
