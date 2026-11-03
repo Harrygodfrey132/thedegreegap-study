@@ -1,4 +1,4 @@
-// WhatsApp nudge — show once, 3 seconds after page load, then never again per browser.
+// Call nudge (was WhatsApp) — show once, 3 seconds after page load, then never again per browser.
 (function () {
   const nudge = document.querySelector('[data-wa-nudge]');
   if (!nudge) return;
