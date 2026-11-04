@@ -52,7 +52,7 @@ name_label: "Your name"
 email_label: "Your email"
 email_hint: "Please use your own email, not your child's school one."
 phone_label: "Your mobile"
-tutoring_label: "I'd like to talk about tutoring for my child this year."
+tutoring_label: "I would consider tutoring this academic year."
 year_label: "Your child's year group"
 # Values must match the Zoho LEADCF3 picklist exactly.
 year_groups:
