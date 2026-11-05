@@ -1,6 +1,6 @@
 ---
 title: "Find Your Tutor, Antonia Cartwright × The Degree Gap"
-description: "Antonia Cartwright, a qualified English teacher, recommends The Degree Gap when your child needs another subject or her timetable is full. Book a free call."
+description: "Antonia Cartwright, a qualified English teacher, recommends The Degree Gap when your child needs another subject or Antonia's timetable is full. Book a free call."
 layout: "antonia-cartwright"
 
 # The name as families know it, from Antonia's logo and website
