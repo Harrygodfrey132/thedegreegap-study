@@ -10304,6 +10304,67 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   .book-call--thinka .book-call__endorsement img { height: 30px; }
 }
 
+/* Antonia Cartwright referral page (gcseenglishtutor.co.uk, a qualified
+   English teacher in Lancaster). Her own colours, sampled from her logo: navy
+   (#313A74) and blue (#47719F) for the lettering, gold (#CDB679) from her
+   Enhanced DBS badge. The logo is her trimmed "English Tutoring / Antonia
+   Cartwright" image at static/images/partners/antonia-cartwright-logo.png. */
+.book-call--antonia-cartwright .book-call__form-tag {
+  background: #F4F5FA;
+  color: #313A74;
+  border: 1.5px solid #47719F;
+  padding: 5px 12px;
+  font-weight: 800;
+}
+.book-call--antonia-cartwright .book-call__reviews-brand {
+  color: #313A74;
+}
+.book-call--antonia-cartwright .book-call__endorsement {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  padding: 10px 20px;
+  background: #FFFFFF;
+  border: 1.5px solid #CDB679;
+  border-radius: 999px;
+  box-shadow: 0 2px 10px rgba(49, 58, 116, 0.12);
+  text-decoration: none;
+  color: #313A74;
+  transition: background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease;
+  max-width: max-content;
+}
+.book-call--antonia-cartwright .book-call__endorsement:hover {
+  background: #FBF8EF;
+  box-shadow: 0 4px 14px rgba(49, 58, 116, 0.2);
+  transform: translateY(-1px);
+  text-decoration: none;
+  color: #313A74;
+}
+.book-call--antonia-cartwright .book-call__endorsement-label {
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #313A74;
+  white-space: nowrap;
+  padding-right: 12px;
+  border-right: 1px solid rgba(205, 182, 121, 0.7);
+}
+.book-call--antonia-cartwright .book-call__endorsement img { height: 52px; width: auto; display: block; }
+.book-call--antonia-cartwright .book-call__endorsement-wordmark {
+  font-size: 1.05rem;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+  color: #313A74;
+  white-space: nowrap;
+}
+@media (max-width: 540px) {
+  .book-call--antonia-cartwright .book-call__endorsement { padding: 8px 14px; gap: 10px; }
+  .book-call--antonia-cartwright .book-call__endorsement-label { padding-right: 10px; font-size: 0.66rem; }
+  .book-call--antonia-cartwright .book-call__endorsement img { height: 42px; }
+  .book-call--antonia-cartwright .book-call__endorsement-wordmark { font-size: 0.95rem; }
+}
+
 /* ---------------------------------------------------------------------------
    Dual review badges (Google + Trustpilot). Rendered by
    layouts/partials/review-badges.html. Visual trust signal only: no
