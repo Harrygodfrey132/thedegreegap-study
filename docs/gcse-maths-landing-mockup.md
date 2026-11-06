@@ -104,7 +104,7 @@ The page is built from 10 sections. Each section has one job. Cumulative scroll 
 - **H1:** `GCSE Maths Tutors`
 - **Subhead (parent-voice):** `Founder-vetted tutors matched to your child's exam board and the specific gap that is holding them back. From £37/hr, with a free 15-minute call with Harry before you commit to anything.`
 - **Primary CTA:** `Book your free call with Harry`
-- **Secondary CTA:** `Call: 07859 965776` (clickable `tel:` link)
+- **Secondary CTA:** `Call: 07578 134841` (clickable `tel:` link)
 - **Trust strip below CTAs:** `⭐ 5.0 · 95+ Google reviews · As featured in The Independent`
 
 **Hero image:** Harry or Joe in portrait, looking warm and approachable, with a laptop or whiteboard visible. NOT stock photography. This is the founder-voice spine of the page.
@@ -443,8 +443,8 @@ The page is built from 10 sections. Each section has one job. Cumulative scroll 
 │         │ [Book my free call with Harry]│                   │
 │         └──────────────────────────────┘                    │
 │                                                              │
-│         Or call now: 07859 965776                            │
-│         WhatsApp: 07859 965776                               │
+│         Or call now: 07578 134841                            │
+│         WhatsApp: 07578 134841                               │
 │                                                              │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -453,7 +453,7 @@ The page is built from 10 sections. Each section has one job. Cumulative scroll 
 - **H2:** `Tell Harry what is going wrong. He will be on a call with you tomorrow.`
 - **Form fields:** Name, Phone, Where is your child stuck? (textarea)
 - **Submit button:** `Book my free call with Harry`
-- **Sub-options:** `Or call now: 07859 965776` and `WhatsApp: 07859 965776`
+- **Sub-options:** `Or call now: 07578 134841` and `WhatsApp: 07578 134841`
 
 **Why this works:**
 - Personal — the parent is calling Harry, not "the team"

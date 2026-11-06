@@ -6049,9 +6049,6 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   transition: background 0.15s ease;
 }
 .whatsapp-fab:hover { background: #1ebd5b; }
-/* Now a call button (Harry, 3 Nov 2026): burgundy, so it doesn't read as WhatsApp. */
-.whatsapp-fab.is-call { background: #800020; }
-.whatsapp-fab.is-call:hover { background: #5c0017; }
 .whatsapp-fab:focus-visible {
   outline: 3px solid rgba(37, 211, 102, 0.55);
   outline-offset: 3px;

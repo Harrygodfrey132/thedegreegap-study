@@ -1193,10 +1193,10 @@
   /* UK phone normaliser — every submitted number is forced
      to E.164 +44 format so it routes cleanly through Twilio
      for outbound SMS, regardless of how the parent typed it.
-       07859 965776   -> +447859965776
-       +44 7859 965776 -> +447859965776
-       447859965776   -> +447859965776
-       7859965776     -> +447859965776 */
+       07578 134841   -> +447578134841
+       +44 7578 134841 -> +447578134841
+       447578134841   -> +447578134841
+       7578134841     -> +447578134841 */
   function normaliseUkPhone(raw) {
     if (!raw) return '';
     var digits = String(raw).replace(/\D/g, '');

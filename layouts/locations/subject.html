@@ -36,7 +36,7 @@
 {{ $firstLessonQuoteRole  := .Params.first_lesson_quote_role  | default (cond $isAlevel "Parent of A-Level Student" "GCSE Student") }}
 {{ $firstLessonQuoteGrade := .Params.first_lesson_quote_grade | default (cond $isAlevel "Grade C → Grade A" "Grade E → Grade B") }}
 {{ $firstLessonCta        := .Params.first_lesson_cta         | default "Call Harry or Joe" }}
-{{ $firstLessonCtaPhone   := .Params.first_lesson_cta_phone   | default "07859965776" }}
+{{ $firstLessonCtaPhone   := .Params.first_lesson_cta_phone   | default "07578134841" }}
 
 {{/* ── Section 5: Reviews ── */}}
 {{/* Default reviews come from data/reviews.yaml via the partial, level-filtered so a GCSE page only shows GCSE/iGCSE reviewers and an A-Level page only shows A-Level/University/Masters reviewers. Per-page reviews: override is still honoured. */}}
@@ -58,7 +58,7 @@
         <p class="loc-hero__lead">{{ $heroLead }}</p>
         <div class="loc-hero__actions">
           <a href="#get-help" class="btn btn-primary btn-lg">Book a Free Consultation Call</a>
-          <a href="tel:+447859965776" class="btn btn-outline btn-lg">Call us: 07859 965776</a>
+          <a href="tel:+447578134841" class="btn btn-outline btn-lg">Call us: 07578 134841</a>
         </div>
         <p class="loc-hero__pricing">Lessons from <strong>£37 an hour</strong> &middot; no contract</p>
         <button type="button" data-reviews-open class="loc-hero__rating" aria-label="Read our {{ site.Params.googleReviewCount }} Google reviews" aria-controls="bc-reviews-drawer" aria-expanded="false">
@@ -325,7 +325,7 @@
       <h3>Wondering whether a tutor could help your child?</h3>
       <div class="gs-results__cta-buttons">
         <a href="#get-help" class="btn btn-primary">Find Your Tutor</a>
-        <a href="tel:+447859965776" class="btn btn-outline">Call 07859 965776</a>
+        <a href="tel:+447578134841" class="btn btn-outline">Call 07578 134841</a>
       </div>
     </div>
   </div>

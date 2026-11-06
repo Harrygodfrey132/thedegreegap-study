@@ -9,7 +9,7 @@ enableGitInfo = true
 
 [params]
   formspreeEndpoint = "https://formspree.io/f/mvgonabg"
-  phone = "+447859965776"
+  phone = "+447578134841"
   email = "admin@thedegreegap.com"
   mainSiteURL = "https://thedegreegap.com"
   # Google review count and rating. Single source of truth: this number appears

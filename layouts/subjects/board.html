@@ -14,7 +14,7 @@ weighting and pitfalls for THIS exact board. Reusable across board/subject combo
 {{ $h1      := .Params.banner_heading | default (printf "%s %s Tutors" $board $subject) }}
 {{ $lead    := .Params.banner_description | default "" }}
 {{ $ctaPrimary := .Params.banner_cta_primary | default "Book your free call with Joe" }}
-{{ $ctaPhone   := .Params.banner_cta_secondary | default "07859 965776" }}
+{{ $ctaPhone   := .Params.banner_cta_secondary | default "07578 134841" }}
 {{ $phoneClean := replace $ctaPhone " " "" }}
 {{ $pricing := .Params.pricing_note | default "From £37/hr" }}
 {{ $formBtn := .Params.form_button | default "Book my free call with Joe" }}
@@ -250,7 +250,7 @@ weighting and pitfalls for THIS exact board. Reusable across board/subject combo
 <!-- Sticky mobile CTA -->
 <div class="sj-sticky-cta" data-sj-sticky-cta hidden>
   <a href="#get-help" class="sj-sticky-cta__btn">Book my free call with Joe</a>
-  <a href="tel:+447859965776" class="sj-sticky-cta__phone" aria-label="Call now"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg></a>
+  <a href="tel:+447578134841" class="sj-sticky-cta__phone" aria-label="Call now"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg></a>
 </div>
 <script>
 (function(){var b=document.querySelector('[data-sj-sticky-cta]');if(!b)return;var h=document.querySelector('.bh-hero');if(!h||!('IntersectionObserver' in window)){window.addEventListener('scroll',function(){if(window.scrollY>500){b.hidden=false;b.setAttribute('data-sj-sticky-cta-visible','');}},{passive:true,once:true});return;}new IntersectionObserver(function(e){e.forEach(function(x){if(x.isIntersecting){b.removeAttribute('data-sj-sticky-cta-visible');}else{b.hidden=false;requestAnimationFrame(function(){b.setAttribute('data-sj-sticky-cta-visible','');});}});},{rootMargin:'0px 0px -80px 0px'}).observe(h);document.body.classList.add('has-sticky-cta');})();
