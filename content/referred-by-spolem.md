@@ -1,6 +1,6 @@
 ---
 title: "Find Your Tutor, Spolem × The Degree Gap"
-description: "Jessica at Spolem, the free biology resources site, recommends The Degree Gap when your child needs a subject other than Biology. Book a free call."
+description: "Amy at Spolem, the free biology resources site, recommends The Degree Gap when your child needs a subject other than Biology. Book a free call."
 layout: "spolem"
 
 # The name as families know it, from spolem.co.uk ("spolem, biology learning
