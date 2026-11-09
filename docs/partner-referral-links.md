@@ -28,6 +28,7 @@ reporting. Change `utm_medium` to match the placement: `banner`, `blog`,
 | Antonia Cartwright (English Tutoring) | `https://thedegreegap.com/study/referred-by-antonia-cartwright/?utm_source=antoniacartwright&utm_medium=referral&utm_campaign=antoniacartwright-2026` |
 | MathsFlex | `https://thedegreegap.com/study/referred-by-mathsflex/?utm_source=mathsflex&utm_medium=referral&utm_campaign=mathsflex-2026` |
 | Bournemouth Maths Tutor (Barney Maunder-Taylor) | `https://thedegreegap.com/study/referred-by-bournemouth-maths-tutor/?utm_source=bournemouthmathstutor&utm_medium=referral&utm_campaign=bournemouthmathstutor-2026` |
+| Spolem | `https://thedegreegap.com/study/referred-by-spolem/?utm_source=spolem&utm_medium=referral&utm_campaign=spolem-2026` |
 
 `utm_source` follows the squashed convention the banner links already use
 (`findmyschool`, `schoolguide`). Do not hyphenate it: a partner tagged two ways
