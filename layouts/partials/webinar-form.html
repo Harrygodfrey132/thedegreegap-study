@@ -107,7 +107,7 @@
           </div>
           {{ end }}
           <button type="submit" class="gs-submit">{{ .submitLabel }}</button>
-          <p class="gs-register__fine">By registering, you agree to our <a href="{{ $termsUrl | relURL }}" target="_blank" rel="noopener">terms and conditions</a><span data-gs-news-words> and to receive our emails, including our weekly newsletter. Unsubscribe any time</span>.</p>
+          <p class="gs-register__fine">By registering, you agree to our <a href="{{ $termsUrl | relURL }}" target="_blank" rel="noopener">terms and conditions</a><span data-gs-news-words> and to receive our emails, including our weekly newsletter. Unsubscribe any time</span><span data-gs-staff-words hidden> and to emails about our future free webinars for your school. Unsubscribe any time</span>.</p>
           {{ with .finePrint }}<p class="gs-register__fine">{{ . }}</p>{{ end }}
         </form>
         <div class="gs-thanks" data-gs-thanks>
@@ -133,6 +133,7 @@
     var yearWrap = form.querySelector('[data-gs-year]');
     var year = form.querySelector('[name="year_of_study"]');
     var newsWords = form.querySelector('[data-gs-news-words]');
+    var staffWords = form.querySelector('[data-gs-staff-words]');
     var hint = form.querySelector('[data-gs-tutoring-hint]');
 
     function show(wrap, field, on) {
@@ -165,6 +166,8 @@
       /* School staff never go on the newsletter either (Harry, 2 Nov 2026):
          they get the Webinar emails only. */
       if (newsWords) newsWords.hidden = isStaff || (isStudent && !olderStudent);
+      /* School staff instead hear about future webinars for their school. */
+      if (staffWords) staffWords.hidden = !isStaff;
       if (hint) hint.textContent = isStudent ? hint.getAttribute('data-student') : hint.getAttribute('data-parent');
     }
 

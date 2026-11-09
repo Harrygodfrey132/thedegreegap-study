@@ -506,7 +506,12 @@
     if (email) add('Email', email);
     var phone = (data.get('phone') || '').trim();
     if (phone) add('Phone', phone);
+    /* Type of lead is a multi-select in Zoho, so one LEADCF5 input per value,
+       the way Zoho's own web form sends a multi-select. School staff are
+       also tagged School (Harry, 9 Nov 2026), so they can be emailed about
+       future webinars for their school. */
     add('LEADCF5', 'Webinar');
+    if ((data.get('registrant') || '').trim() === 'Teacher or school staff') add('LEADCF5', 'School');
     /* Year of study is chosen by the parent. Values match the Zoho
        LEADCF3 picklist exactly; fall back only if the select is missing. */
     add('LEADCF3', (data.get('year_of_study') || 'Unsure').trim());
