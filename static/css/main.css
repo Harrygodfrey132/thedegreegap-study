@@ -10599,6 +10599,278 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   .book-call--sumeray-physics-tutor .book-call__endorsement-wordmark { font-size: 0.95rem; }
 }
 
+/* Bray Tutoring referral page (braytutoring.com, Julia Crocker's online Maths
+   tutoring). Their charcoal (#4A4A49) header and teal (#5EB4AD) accent. The
+   logo is their white mountain-and-figure logo with the charcoal taken out
+   (static/images/partners/bray-tutoring-logo.png), so the badge sits on the
+   charcoal with a teal edge. Teal text on white is faint, so light
+   backgrounds use a darker teal (#2F7A74). */
+.book-call--bray-tutoring .book-call__form-tag {
+  background: #EBF6F5;
+  color: #2F7A74;
+  border: 1.5px solid #5EB4AD;
+  padding: 5px 12px;
+  font-weight: 800;
+}
+.book-call--bray-tutoring .book-call__reviews-brand {
+  color: #2F7A74;
+}
+.book-call--bray-tutoring .book-call__endorsement {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  padding: 10px 22px;
+  background: #4A4A49;
+  border: 1.5px solid #5EB4AD;
+  border-radius: 999px;
+  box-shadow: 0 2px 12px rgba(74, 74, 73, 0.3);
+  text-decoration: none;
+  color: #FFFFFF;
+  transition: background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease;
+  max-width: max-content;
+}
+.book-call--bray-tutoring .book-call__endorsement:hover {
+  background: #404040;
+  box-shadow: 0 4px 16px rgba(74, 74, 73, 0.4);
+  transform: translateY(-1px);
+  text-decoration: none;
+  color: #FFFFFF;
+}
+.book-call--bray-tutoring .book-call__endorsement-label {
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  white-space: nowrap;
+  padding-right: 12px;
+  border-right: 1px solid rgba(94, 180, 173, 0.6);
+}
+.book-call--bray-tutoring .book-call__endorsement img { height: 38px; width: auto; display: block; }
+@media (max-width: 540px) {
+  .book-call--bray-tutoring .book-call__endorsement { padding: 8px 16px; gap: 10px; }
+  .book-call--bray-tutoring .book-call__endorsement-label { padding-right: 10px; font-size: 0.62rem; }
+  .book-call--bray-tutoring .book-call__endorsement img { height: 28px; }
+}
+
+/* Solihull English Tuition referral page (solihullenglishtuition.co.uk, Sandra
+   Shuff's GCSE and A-Level English tuition in Knowle). Their purple (#482683)
+   header. The site has no logo file, only the name in the Satisfy script in
+   white, so that wordmark was rendered from the font
+   (static/images/partners/solihull-english-tuition-logo.png) and the badge
+   sits on the purple. On a phone the badge stacks, because the script
+   wordmark is long. */
+.book-call--solihull-english-tuition .book-call__form-tag {
+  background: #F1ECF8;
+  color: #482683;
+  border: 1.5px solid #482683;
+  padding: 5px 12px;
+  font-weight: 800;
+}
+.book-call--solihull-english-tuition .book-call__reviews-brand {
+  color: #482683;
+}
+.book-call--solihull-english-tuition .book-call__endorsement {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  padding: 8px 22px;
+  background: #482683;
+  border: 1.5px solid #3A1E6B;
+  border-radius: 999px;
+  box-shadow: 0 2px 12px rgba(72, 38, 131, 0.3);
+  text-decoration: none;
+  color: #FFFFFF;
+  transition: background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease;
+  max-width: max-content;
+}
+.book-call--solihull-english-tuition .book-call__endorsement:hover {
+  background: #3F2174;
+  box-shadow: 0 4px 16px rgba(72, 38, 131, 0.4);
+  transform: translateY(-1px);
+  text-decoration: none;
+  color: #FFFFFF;
+}
+.book-call--solihull-english-tuition .book-call__endorsement-label {
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  white-space: nowrap;
+  padding-right: 12px;
+  border-right: 1px solid rgba(255, 255, 255, 0.45);
+}
+.book-call--solihull-english-tuition .book-call__endorsement img { height: 36px; width: auto; display: block; }
+@media (max-width: 600px) {
+  .book-call--solihull-english-tuition .book-call__endorsement { flex-direction: column; gap: 4px; padding: 10px 20px 8px; border-radius: 18px; }
+  .book-call--solihull-english-tuition .book-call__endorsement-label { padding-right: 0; border-right: 0; font-size: 0.62rem; }
+  .book-call--solihull-english-tuition .book-call__endorsement img { height: 30px; }
+}
+
+/* Cat the Science Tutor referral page (catthesciencetutor.co.uk, Cat's GCSE
+   Science and A-Level science tutoring in Kidlington, Oxford). The site's deep
+   teal (#00594D) and bright teal (#00BFAF). No logo file, only the name in
+   Marcellus SC, so that wordmark was rendered from the font in white
+   (static/images/partners/cat-the-science-tutor-logo.png). White on the
+   bright teal is too faint, so the badge is the deep teal with a bright teal
+   edge. On a phone the badge stacks, because the wordmark is long. */
+.book-call--cat-the-science-tutor .book-call__form-tag {
+  background: #E6F8F6;
+  color: #00594D;
+  border: 1.5px solid #00BFAF;
+  padding: 5px 12px;
+  font-weight: 800;
+}
+.book-call--cat-the-science-tutor .book-call__reviews-brand {
+  color: #00594D;
+}
+.book-call--cat-the-science-tutor .book-call__endorsement {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  padding: 12px 22px;
+  background: #00594D;
+  border: 1.5px solid #00BFAF;
+  border-radius: 999px;
+  box-shadow: 0 2px 12px rgba(0, 89, 77, 0.3);
+  text-decoration: none;
+  color: #FFFFFF;
+  transition: background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease;
+  max-width: max-content;
+}
+.book-call--cat-the-science-tutor .book-call__endorsement:hover {
+  background: #004C42;
+  box-shadow: 0 4px 16px rgba(0, 89, 77, 0.4);
+  transform: translateY(-1px);
+  text-decoration: none;
+  color: #FFFFFF;
+}
+.book-call--cat-the-science-tutor .book-call__endorsement-label {
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  white-space: nowrap;
+  padding-right: 12px;
+  border-right: 1px solid rgba(0, 191, 175, 0.6);
+}
+.book-call--cat-the-science-tutor .book-call__endorsement img { height: 22px; width: auto; display: block; }
+@media (max-width: 600px) {
+  .book-call--cat-the-science-tutor .book-call__endorsement { flex-direction: column; gap: 6px; padding: 10px 20px; border-radius: 18px; }
+  .book-call--cat-the-science-tutor .book-call__endorsement-label { padding-right: 0; border-right: 0; font-size: 0.62rem; }
+  .book-call--cat-the-science-tutor .book-call__endorsement img { height: 20px; }
+}
+
+/* Patricia Mogose Maths Tutor referral page (mathematicstutor.co.uk,
+   Patricia's maths tuition in Peterborough, now online). The logo is
+   Patricia's red and purple wordmark with the compass on a white background
+   (static/images/partners/patricia-mogose-logo.png), so the badge is white
+   with the site's red (#BD2727) as the edge and its purple (#695D8A) for the
+   label. Light backgrounds use a darker red (#9E1F1F) for text. */
+.book-call--patricia-mogose .book-call__form-tag {
+  background: #FBEDED;
+  color: #9E1F1F;
+  border: 1.5px solid #BD2727;
+  padding: 5px 12px;
+  font-weight: 800;
+}
+.book-call--patricia-mogose .book-call__reviews-brand {
+  color: #695D8A;
+}
+.book-call--patricia-mogose .book-call__endorsement {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  padding: 8px 22px;
+  background: #FFFFFF;
+  border: 1.5px solid #BD2727;
+  border-radius: 999px;
+  box-shadow: 0 2px 12px rgba(189, 39, 39, 0.16);
+  text-decoration: none;
+  color: #695D8A;
+  transition: background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease;
+  max-width: max-content;
+}
+.book-call--patricia-mogose .book-call__endorsement:hover {
+  background: #FFFFFF;
+  box-shadow: 0 4px 16px rgba(189, 39, 39, 0.26);
+  transform: translateY(-1px);
+  text-decoration: none;
+  color: #695D8A;
+}
+.book-call--patricia-mogose .book-call__endorsement-label {
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #695D8A;
+  white-space: nowrap;
+  padding-right: 12px;
+  border-right: 1px solid rgba(105, 93, 138, 0.35);
+}
+.book-call--patricia-mogose .book-call__endorsement img { height: 44px; width: auto; display: block; }
+@media (max-width: 540px) {
+  .book-call--patricia-mogose .book-call__endorsement { padding: 7px 16px; gap: 10px; }
+  .book-call--patricia-mogose .book-call__endorsement-label { padding-right: 10px; font-size: 0.62rem; }
+  .book-call--patricia-mogose .book-call__endorsement img { height: 36px; }
+}
+
+/* Teddington Tutor referral page (teddingtontutor.com, Dr Victor Bluett's
+   Maths, Physics and Chemistry tuition in Teddington and online). The site's
+   dark slate (#0F1F25) and gold (#F4C56F). The logo is their white pen-nib
+   wordmark (static/images/partners/teddington-tutor-logo.png), so the badge
+   sits on the slate with a gold edge and gold label. Light backgrounds use
+   the site's deep teal (#325A5F) for text. */
+.book-call--teddington-tutor .book-call__form-tag {
+  background: #FDF6E7;
+  color: #0F1F25;
+  border: 1.5px solid #F4C56F;
+  padding: 5px 12px;
+  font-weight: 800;
+}
+.book-call--teddington-tutor .book-call__reviews-brand {
+  color: #325A5F;
+}
+.book-call--teddington-tutor .book-call__endorsement {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  padding: 11px 22px;
+  background: #0F1F25;
+  border: 1.5px solid #F4C56F;
+  border-radius: 999px;
+  box-shadow: 0 2px 14px rgba(15, 31, 37, 0.3);
+  text-decoration: none;
+  color: #FFFFFF;
+  transition: background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease;
+  max-width: max-content;
+}
+.book-call--teddington-tutor .book-call__endorsement:hover {
+  background: #192E31;
+  box-shadow: 0 4px 18px rgba(15, 31, 37, 0.4);
+  transform: translateY(-1px);
+  text-decoration: none;
+  color: #FFFFFF;
+}
+.book-call--teddington-tutor .book-call__endorsement-label {
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #F4C56F;
+  white-space: nowrap;
+  padding-right: 12px;
+  border-right: 1px solid rgba(244, 197, 111, 0.45);
+}
+.book-call--teddington-tutor .book-call__endorsement img { height: 30px; width: auto; display: block; }
+@media (max-width: 540px) {
+  .book-call--teddington-tutor .book-call__endorsement { padding: 9px 16px; gap: 10px; }
+  .book-call--teddington-tutor .book-call__endorsement-label { padding-right: 10px; font-size: 0.62rem; }
+  .book-call--teddington-tutor .book-call__endorsement img { height: 22px; }
+}
+
 /* ---------------------------------------------------------------------------
    Dual review badges (Google + Trustpilot). Rendered by
    layouts/partials/review-badges.html. Visual trust signal only: no

@@ -30,6 +30,11 @@ reporting. Change `utm_medium` to match the placement: `banner`, `blog`,
 | Bournemouth Maths Tutor (Barney Maunder-Taylor) | `https://thedegreegap.com/study/referred-by-bournemouth-maths-tutor/?utm_source=bournemouthmathstutor&utm_medium=referral&utm_campaign=bournemouthmathstutor-2026` |
 | Spolem | `https://thedegreegap.com/study/referred-by-spolem/?utm_source=spolem&utm_medium=referral&utm_campaign=spolem-2026` |
 | Sumeray Physics Tutor (Rachel Sumeray) | `https://thedegreegap.com/study/referred-by-sumeray-physics-tutor/?utm_source=sumerayphysicstutor&utm_medium=referral&utm_campaign=sumerayphysicstutor-2026` |
+| Bray Tutoring (Julia Crocker) | `https://thedegreegap.com/study/referred-by-bray-tutoring/?utm_source=braytutoring&utm_medium=referral&utm_campaign=braytutoring-2026` |
+| Solihull English Tuition (Sandra Shuff) | `https://thedegreegap.com/study/referred-by-solihull-english-tuition/?utm_source=solihullenglishtuition&utm_medium=referral&utm_campaign=solihullenglishtuition-2026` |
+| Cat the Science Tutor (Cat) | `https://thedegreegap.com/study/referred-by-cat-the-science-tutor/?utm_source=catthesciencetutor&utm_medium=referral&utm_campaign=catthesciencetutor-2026` |
+| Patricia Mogose Maths Tutor (Patricia Mogose) | `https://thedegreegap.com/study/referred-by-patricia-mogose/?utm_source=patriciamogose&utm_medium=referral&utm_campaign=patriciamogose-2026` |
+| Teddington Tutor (Dr Victor Bluett) | `https://thedegreegap.com/study/referred-by-teddington-tutor/?utm_source=teddingtontutor&utm_medium=referral&utm_campaign=teddingtontutor-2026` |
 
 `utm_source` follows the squashed convention the banner links already use
 (`findmyschool`, `schoolguide`). Do not hyphenate it: a partner tagged two ways
