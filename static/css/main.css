@@ -10871,6 +10871,60 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   .book-call--teddington-tutor .book-call__endorsement img { height: 22px; }
 }
 
+/* Pathways Online Tuition referral page (pathwaysonlinetuition.co.uk, Dr
+   Hayley Castlehouse's online Science and Maths tuition). The site's purple
+   (#4A4282) and orange (#FF9915). The logo is their purple and orange
+   wordmark on a transparent background
+   (static/images/partners/pathways-online-tuition-logo.png), so the badge is
+   white with a purple edge and purple label. */
+.book-call--pathways-online-tuition .book-call__form-tag {
+  background: #FFF3E3;
+  color: #4A4282;
+  border: 1.5px solid #FF9915;
+  padding: 5px 12px;
+  font-weight: 800;
+}
+.book-call--pathways-online-tuition .book-call__reviews-brand {
+  color: #4A4282;
+}
+.book-call--pathways-online-tuition .book-call__endorsement {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  padding: 8px 22px;
+  background: #FFFFFF;
+  border: 1.5px solid #4A4282;
+  border-radius: 999px;
+  box-shadow: 0 2px 12px rgba(74, 66, 130, 0.16);
+  text-decoration: none;
+  color: #4A4282;
+  transition: background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease;
+  max-width: max-content;
+}
+.book-call--pathways-online-tuition .book-call__endorsement:hover {
+  background: #FFFFFF;
+  box-shadow: 0 4px 16px rgba(74, 66, 130, 0.26);
+  transform: translateY(-1px);
+  text-decoration: none;
+  color: #4A4282;
+}
+.book-call--pathways-online-tuition .book-call__endorsement-label {
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #4A4282;
+  white-space: nowrap;
+  padding-right: 12px;
+  border-right: 1px solid rgba(255, 153, 21, 0.6);
+}
+.book-call--pathways-online-tuition .book-call__endorsement img { height: 44px; width: auto; display: block; }
+@media (max-width: 540px) {
+  .book-call--pathways-online-tuition .book-call__endorsement { padding: 7px 16px; gap: 10px; }
+  .book-call--pathways-online-tuition .book-call__endorsement-label { padding-right: 10px; font-size: 0.62rem; }
+  .book-call--pathways-online-tuition .book-call__endorsement img { height: 36px; }
+}
+
 /* ---------------------------------------------------------------------------
    Dual review badges (Google + Trustpilot). Rendered by
    layouts/partials/review-badges.html. Visual trust signal only: no
