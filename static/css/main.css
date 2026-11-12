@@ -10925,6 +10925,117 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   .book-call--pathways-online-tuition .book-call__endorsement img { height: 36px; }
 }
 
+/* Hemel Private Tuition referral page (hemelprivatetuition.co.uk, Philip
+   Russell's tuition in Maths and the sciences, Philip M Russell Ltd). The
+   logo pairs the company's red (#ED1B24) and blue (#0070BC) monogram with the
+   name in bold Roboto, black on transparent
+   (static/images/partners/hemel-private-tuition-logo.png), so the badge is
+   white with a blue edge and blue label. On a phone the badge stacks,
+   because the logo is long. */
+.book-call--hemel-private-tuition .book-call__form-tag {
+  background: #EAF3FA;
+  color: #005A97;
+  border: 1.5px solid #0070BC;
+  padding: 5px 12px;
+  font-weight: 800;
+}
+.book-call--hemel-private-tuition .book-call__reviews-brand {
+  color: #005A97;
+}
+.book-call--hemel-private-tuition .book-call__endorsement {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  padding: 10px 22px;
+  background: #FFFFFF;
+  border: 1.5px solid #0070BC;
+  border-radius: 999px;
+  box-shadow: 0 2px 12px rgba(0, 112, 188, 0.16);
+  text-decoration: none;
+  color: #005A97;
+  transition: background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease;
+  max-width: max-content;
+}
+.book-call--hemel-private-tuition .book-call__endorsement:hover {
+  background: #FFFFFF;
+  box-shadow: 0 4px 16px rgba(0, 112, 188, 0.26);
+  transform: translateY(-1px);
+  text-decoration: none;
+  color: #005A97;
+}
+.book-call--hemel-private-tuition .book-call__endorsement-label {
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #005A97;
+  white-space: nowrap;
+  padding-right: 12px;
+  border-right: 1px solid rgba(237, 27, 36, 0.45);
+}
+.book-call--hemel-private-tuition .book-call__endorsement img { height: 34px; width: auto; display: block; }
+@media (max-width: 600px) {
+  .book-call--hemel-private-tuition .book-call__endorsement { flex-direction: column; gap: 6px; padding: 10px 20px; border-radius: 18px; }
+  .book-call--hemel-private-tuition .book-call__endorsement-label { padding-right: 0; border-right: 0; font-size: 0.62rem; }
+  .book-call--hemel-private-tuition .book-call__endorsement img { height: 30px; }
+}
+
+/* GoodPhysicsTutor referral page (goodphysicstutor.co.uk, Philip
+   Goodfellow's GCSE and A-Level Physics tutoring in Essex and online). The
+   site's black (#060606) and orange (#FF5722). No logo file, only
+   "GoodPhysicsTutor" in Merriweather, so that wordmark was rendered from the
+   font in orange (static/images/partners/good-physics-tutor-logo.png) and the
+   badge sits on the black with an orange edge. Orange text on white is
+   faint, so light backgrounds use a darker orange (#C2410C). On a phone the
+   badge stacks, because the wordmark is long. */
+.book-call--good-physics-tutor .book-call__form-tag {
+  background: #FFF0EA;
+  color: #C2410C;
+  border: 1.5px solid #FF5722;
+  padding: 5px 12px;
+  font-weight: 800;
+}
+.book-call--good-physics-tutor .book-call__reviews-brand {
+  color: #C2410C;
+}
+.book-call--good-physics-tutor .book-call__endorsement {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  padding: 12px 22px;
+  background: #060606;
+  border: 1.5px solid #FF5722;
+  border-radius: 999px;
+  box-shadow: 0 2px 14px rgba(255, 87, 34, 0.25);
+  text-decoration: none;
+  color: #FFFFFF;
+  transition: background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease;
+  max-width: max-content;
+}
+.book-call--good-physics-tutor .book-call__endorsement:hover {
+  background: #161616;
+  box-shadow: 0 4px 18px rgba(255, 87, 34, 0.35);
+  transform: translateY(-1px);
+  text-decoration: none;
+  color: #FFFFFF;
+}
+.book-call--good-physics-tutor .book-call__endorsement-label {
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  white-space: nowrap;
+  padding-right: 12px;
+  border-right: 1px solid rgba(255, 87, 34, 0.55);
+}
+.book-call--good-physics-tutor .book-call__endorsement img { height: 26px; width: auto; display: block; }
+@media (max-width: 600px) {
+  .book-call--good-physics-tutor .book-call__endorsement { flex-direction: column; gap: 6px; padding: 10px 20px; border-radius: 18px; }
+  .book-call--good-physics-tutor .book-call__endorsement-label { padding-right: 0; border-right: 0; font-size: 0.62rem; }
+  .book-call--good-physics-tutor .book-call__endorsement img { height: 24px; }
+}
+
 /* ---------------------------------------------------------------------------
    Dual review badges (Google + Trustpilot). Rendered by
    layouts/partials/review-badges.html. Visual trust signal only: no
