@@ -179,6 +179,84 @@
 })();
 </script>
 
+{{/* A parent who said yes to tutoring on a webinar form arrives with that
+     lead's email in sessionStorage (tdg_book_call_lead, set in
+     layouts/webinars/single.html). With site.Params.bookCallLeadHook set, the
+     booking form then goes to the Zapier workflow "Degree Gap Book a Call to
+     Zoho Lead" instead of Formspree. The workflow finds the lead the webinar
+     form created a moment ago and adds these answers to its Description, so
+     the family is one card in Zoho, not two. Anyone without that stash, and
+     anyone whose stash is over six hours old, books through Formspree exactly
+     as before.
+
+     The site-wide required-field check and the Formspree anti-spam checks
+     both run earlier in the same submit and stop it before this listener, and
+     the thank-you stashes in main.js run on the capture phase before it too,
+     so the thank-you note and the Google Ads conversion are unchanged. If
+     Zapier cannot be reached at all, the form is posted to Formspree instead,
+     so a booking is never lost. */}}
+{{ with site.Params.bookCallLeadHook }}
+<script>
+(function () {
+  var HOOK = {{ . }};
+  var MAX_AGE_MS = 6 * 60 * 60 * 1000;
+  var lead = null;
+  try {
+    var d = JSON.parse(sessionStorage.getItem('tdg_book_call_lead') || 'null');
+    if (d && /^[^@\s]+@[^@\s]+$/.test(d.email || '') && Date.now() - (d.ts || 0) < MAX_AGE_MS) lead = d;
+  } catch (e) { /* no stash: Formspree, as before */ }
+  if (!lead) return;
+  var form = document.querySelector('.book-call__form');
+  if (!form) return;
+
+  form.addEventListener('submit', function (e) {
+    if (e.defaultPrevented) return;
+    e.preventDefault();
+    function val(name) {
+      var el = form.querySelector('[name="' + name + '"]');
+      return el ? String(el.value || '').trim() : '';
+    }
+    var nextEl = form.querySelector('input[name="_next"]');
+    var next = nextEl ? nextEl.value : '/study/book-a-call-thank-you/';
+    var btn = form.querySelector('[type="submit"]');
+    if (btn) { btn.disabled = true; btn.textContent = 'Sending...'; }
+
+    var done = false;
+    function finish() {
+      if (done) return;
+      done = true;
+      try { sessionStorage.removeItem('tdg_book_call_lead'); } catch (err) {}
+      window.location.href = next;
+    }
+    function fallBack() {
+      if (done) return;
+      done = true;
+      form.submit();
+    }
+
+    var body = JSON.stringify({
+      email: lead.email,
+      card_name: lead.name || '',
+      card_phone: lead.phone || '',
+      lead_source: lead.source || '',
+      name: val('name'),
+      phone: val('phone'),
+      year_group: val('year_group'),
+      subjects: val('message'),
+      page: window.location.pathname
+    });
+    try {
+      /* no-cors: Zapier's catch hook sends no CORS headers, and the answer is
+         not needed. keepalive lets the post finish if the page moves on. */
+      fetch(HOOK, { method: 'POST', mode: 'no-cors', keepalive: true, body: body })
+        .then(finish, fallBack);
+    } catch (err) { fallBack(); return; }
+    window.setTimeout(finish, 6000);
+  });
+})();
+</script>
+{{ end }}
+
 {{ partial "reviews-drawer.html" . }}
 {{/* Google Ads tag, call tracking and the phone-click event, so a parent who
      clicks an ad, lands on a subject page and then rings from here is still

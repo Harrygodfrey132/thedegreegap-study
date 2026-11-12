@@ -590,6 +590,26 @@
         ? ((interested && isParent) ? routeYes : routeElse) + '?source=' + encodeURIComponent({{ $leadSource }})
         : null;
 
+      /* A parent on the way to the booking page: leave the lead's email in this
+         tab, so /book-a-call/ can add its answers to this same Zoho card rather
+         than Formspree making a second one, and leave the name and number so
+         they are not typed twice. sessionStorage only, never the URL. */
+      if (routing && interested && isParent) {
+        try {
+          sessionStorage.setItem('tdg_book_call_lead', JSON.stringify({
+            email: (data.get('email') || '').trim(),
+            name: (data.get('name') || '').trim(),
+            phone: (data.get('phone') || '').trim(),
+            source: {{ $leadSource }},
+            ts: Date.now()
+          }));
+          sessionStorage.setItem('tdg_prefill', JSON.stringify({
+            name: (data.get('name') || '').trim(),
+            phone: (data.get('phone') || '').trim()
+          }));
+        } catch (err) { /* the booking form falls back to Formspree, as before */ }
+      }
+
       var moved = false;
       function done() {
         if (moved) return;

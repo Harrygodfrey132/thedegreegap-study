@@ -9,6 +9,12 @@ enableGitInfo = true
 
 [params]
   formspreeEndpoint = "https://formspree.io/f/mvgonabg"
+  # Zapier catch hook for the "Degree Gap Book a Call to Zoho Lead" workflow.
+  # A parent who said yes to tutoring on a webinar form is sent to /book-a-call/;
+  # with this set, that booking form adds its answers to the Zoho lead the
+  # webinar form just created, instead of Formspree making a second card.
+  # Empty = off: every booking goes to Formspree as before.
+  bookCallLeadHook = ""
   phone = "+447578134841"
   email = "admin@thedegreegap.com"
   mainSiteURL = "https://thedegreegap.com"
