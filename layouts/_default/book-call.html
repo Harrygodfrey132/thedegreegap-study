@@ -192,9 +192,11 @@
      The site-wide required-field check and the Formspree anti-spam checks
      both run earlier in the same submit and stop it before this listener, and
      the thank-you stashes in main.js run on the capture phase before it too,
-     so the thank-you note and the Google Ads conversion are unchanged. If
-     Zapier cannot be reached at all, the form is posted to Formspree instead,
-     so a booking is never lost. */}}
+     so the thank-you note and the Google Ads conversion are unchanged. Unless
+     Zapier confirms it has the booking, the form is posted to Formspree as
+     well, so a booking is never lost: the worst case is the old second card.
+     The workflow also emails every booking to thedegreegap@gmail.com, and
+     says so in the subject if it could not reach Zoho. */}}
 {{ with site.Params.bookCallLeadHook }}
 <script>
 (function () {
@@ -245,13 +247,18 @@
       subjects: val('message'),
       page: window.location.pathname
     });
+    /* Only Zapier's own confirmation counts. Anything else (an error, a
+       blocked request, a hook that has been switched off, or no answer within
+       eight seconds) sends the booking to Formspree as well. The worst case is
+       then the old duplicate card, never a lost booking. text/plain keeps this
+       a simple request, so there is no preflight. */
     try {
-      /* no-cors: Zapier's catch hook sends no CORS headers, and the answer is
-         not needed. keepalive lets the post finish if the page moves on. */
-      fetch(HOOK, { method: 'POST', mode: 'no-cors', keepalive: true, body: body })
-        .then(finish, fallBack);
+      fetch(HOOK, { method: 'POST', keepalive: true, headers: { 'Content-Type': 'text/plain' }, body: body })
+        .then(function (res) { return res.ok ? res.json() : null; })
+        .then(function (j) { if (j && j.status === 'success') finish(); else fallBack(); })
+        .catch(fallBack);
     } catch (err) { fallBack(); return; }
-    window.setTimeout(finish, 6000);
+    window.setTimeout(fallBack, 8000);
   });
 })();
 </script>
