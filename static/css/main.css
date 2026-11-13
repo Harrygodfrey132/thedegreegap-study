@@ -11255,6 +11255,61 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   .book-call--tuition-matters .book-call__endorsement img { height: 20px; }
 }
 
+/* Lane Biology Tutor referral page (lanebiologytutor.com, Kevin Lane's
+   online GCSE and A-Level Biology tuition). The logo is their DNA helix in
+   teal (#11B3B6), magenta (#E01AA6) and orange with "LANE Biology Tutor" in
+   grey, on a transparent background
+   (static/images/partners/lane-biology-tutor-logo.png), so the badge is white
+   with a teal edge. Teal text on white is faint, so text uses the helix's
+   dark teal (#0B4A5A). */
+.book-call--lane-biology-tutor .book-call__form-tag {
+  background: #E6F7F7;
+  color: #0B4A5A;
+  border: 1.5px solid #11B3B6;
+  padding: 5px 12px;
+  font-weight: 800;
+}
+.book-call--lane-biology-tutor .book-call__reviews-brand {
+  color: #0B4A5A;
+}
+.book-call--lane-biology-tutor .book-call__endorsement {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  padding: 3px 24px 3px 22px;
+  background: #FFFFFF;
+  border: 1.5px solid #11B3B6;
+  border-radius: 999px;
+  box-shadow: 0 2px 12px rgba(17, 179, 182, 0.18);
+  text-decoration: none;
+  color: #0B4A5A;
+  transition: background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease;
+  max-width: max-content;
+}
+.book-call--lane-biology-tutor .book-call__endorsement:hover {
+  background: #FFFFFF;
+  box-shadow: 0 4px 16px rgba(17, 179, 182, 0.3);
+  transform: translateY(-1px);
+  text-decoration: none;
+  color: #0B4A5A;
+}
+.book-call--lane-biology-tutor .book-call__endorsement-label {
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #0B4A5A;
+  white-space: nowrap;
+  padding-right: 12px;
+  border-right: 1px solid rgba(224, 26, 166, 0.45);
+}
+.book-call--lane-biology-tutor .book-call__endorsement img { height: 60px; width: auto; display: block; }
+@media (max-width: 540px) {
+  .book-call--lane-biology-tutor .book-call__endorsement { padding: 4px 18px 4px 16px; gap: 10px; }
+  .book-call--lane-biology-tutor .book-call__endorsement-label { padding-right: 10px; font-size: 0.62rem; }
+  .book-call--lane-biology-tutor .book-call__endorsement img { height: 50px; }
+}
+
 /* ---------------------------------------------------------------------------
    Dual review badges (Google + Trustpilot). Rendered by
    layouts/partials/review-badges.html. Visual trust signal only: no
