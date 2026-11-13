@@ -11036,6 +11036,225 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   .book-call--good-physics-tutor .book-call__endorsement img { height: 24px; }
 }
 
+/* Science and Maths Tutor referral page (scienceandmathtutor.co.uk, Richard
+   Finnegan's Science, Maths and A-Level Physics tuition). The site's light
+   blue (#78C3FB) and grey. No logo file, only the name in Oswald Light
+   capitals, rendered from the font in grey
+   (static/images/partners/science-and-math-tutor-logo.png), so the badge is
+   white with a light blue edge. Light blue text on white is faint, so text
+   uses a darker blue (#1F6FAE). On a phone the badge stacks, because the
+   wordmark is long. */
+.book-call--science-and-math-tutor .book-call__form-tag {
+  background: #EEF7FF;
+  color: #1F6FAE;
+  border: 1.5px solid #78C3FB;
+  padding: 5px 12px;
+  font-weight: 800;
+}
+.book-call--science-and-math-tutor .book-call__reviews-brand {
+  color: #1F6FAE;
+}
+.book-call--science-and-math-tutor .book-call__endorsement {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  padding: 12px 22px;
+  background: #FFFFFF;
+  border: 1.5px solid #78C3FB;
+  border-radius: 999px;
+  box-shadow: 0 2px 12px rgba(120, 195, 251, 0.2);
+  text-decoration: none;
+  color: #1F6FAE;
+  transition: background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease;
+  max-width: max-content;
+}
+.book-call--science-and-math-tutor .book-call__endorsement:hover {
+  background: #FFFFFF;
+  box-shadow: 0 4px 16px rgba(120, 195, 251, 0.32);
+  transform: translateY(-1px);
+  text-decoration: none;
+  color: #1F6FAE;
+}
+.book-call--science-and-math-tutor .book-call__endorsement-label {
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #1F6FAE;
+  white-space: nowrap;
+  padding-right: 12px;
+  border-right: 1px solid rgba(120, 195, 251, 0.7);
+}
+.book-call--science-and-math-tutor .book-call__endorsement img { height: 22px; width: auto; display: block; }
+@media (max-width: 600px) {
+  .book-call--science-and-math-tutor .book-call__endorsement { flex-direction: column; gap: 6px; padding: 10px 20px; border-radius: 18px; }
+  .book-call--science-and-math-tutor .book-call__endorsement-label { padding-right: 0; border-right: 0; font-size: 0.62rem; }
+  .book-call--science-and-math-tutor .book-call__endorsement img { height: 20px; }
+}
+
+/* Leena Mathematics Tutor referral page (leenamathstutor.com, Leena
+   Teckchandani's A-Level, GCSE and 11+ Maths tuition). The site's navy
+   (#091E3E) header and gold (#FFC107). No logo file, only the name in white
+   Nunito, rendered from the font
+   (static/images/partners/leena-maths-tutor-logo.png), so the badge sits on
+   the navy with a gold edge and gold label. Light backgrounds use the navy
+   for text. On a phone the badge stacks, because the wordmark is long. */
+.book-call--leena-maths-tutor .book-call__form-tag {
+  background: #FFF8E1;
+  color: #091E3E;
+  border: 1.5px solid #FFC107;
+  padding: 5px 12px;
+  font-weight: 800;
+}
+.book-call--leena-maths-tutor .book-call__reviews-brand {
+  color: #091E3E;
+}
+.book-call--leena-maths-tutor .book-call__endorsement {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  padding: 12px 22px;
+  background: #091E3E;
+  border: 1.5px solid #FFC107;
+  border-radius: 999px;
+  box-shadow: 0 2px 12px rgba(9, 30, 62, 0.2);
+  text-decoration: none;
+  color: #FFFFFF;
+  transition: background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease;
+  max-width: max-content;
+}
+.book-call--leena-maths-tutor .book-call__endorsement:hover {
+  background: #0F2A52;
+  box-shadow: 0 4px 16px rgba(9, 30, 62, 0.32);
+  transform: translateY(-1px);
+  text-decoration: none;
+  color: #FFFFFF;
+}
+.book-call--leena-maths-tutor .book-call__endorsement-label {
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #FFC107;
+  white-space: nowrap;
+  padding-right: 12px;
+  border-right: 1px solid rgba(255, 193, 7, 0.5);
+}
+.book-call--leena-maths-tutor .book-call__endorsement img { height: 20px; width: auto; display: block; }
+@media (max-width: 600px) {
+  .book-call--leena-maths-tutor .book-call__endorsement { flex-direction: column; gap: 6px; padding: 10px 20px; border-radius: 18px; }
+  .book-call--leena-maths-tutor .book-call__endorsement-label { padding-right: 0; border-right: 0; font-size: 0.62rem; }
+  .book-call--leena-maths-tutor .book-call__endorsement img { height: 18px; }
+}
+
+/* Nick Dale referral page (nickdale.me, Nick Dale's English, Maths and 11+
+   tuition in Putney and online). A plain white site with dark grey type and
+   blue links (#21759B). No logo file, only the name in Open Sans, rendered
+   as "Nick Dale" bold and "Private Tutor"
+   (static/images/partners/nick-dale-logo.png), so the badge is white with a
+   blue edge. On a phone the badge stacks, because the wordmark is long. */
+.book-call--nick-dale .book-call__form-tag {
+  background: #EAF3F7;
+  color: #21759B;
+  border: 1.5px solid #21759B;
+  padding: 5px 12px;
+  font-weight: 800;
+}
+.book-call--nick-dale .book-call__reviews-brand {
+  color: #21759B;
+}
+.book-call--nick-dale .book-call__endorsement {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  padding: 12px 22px;
+  background: #FFFFFF;
+  border: 1.5px solid #21759B;
+  border-radius: 999px;
+  box-shadow: 0 2px 12px rgba(33, 117, 155, 0.2);
+  text-decoration: none;
+  color: #21759B;
+  transition: background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease;
+  max-width: max-content;
+}
+.book-call--nick-dale .book-call__endorsement:hover {
+  background: #FFFFFF;
+  box-shadow: 0 4px 16px rgba(33, 117, 155, 0.32);
+  transform: translateY(-1px);
+  text-decoration: none;
+  color: #21759B;
+}
+.book-call--nick-dale .book-call__endorsement-label {
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #21759B;
+  white-space: nowrap;
+  padding-right: 12px;
+  border-right: 1px solid rgba(33, 117, 155, 0.4);
+}
+.book-call--nick-dale .book-call__endorsement img { height: 22px; width: auto; display: block; }
+@media (max-width: 600px) {
+  .book-call--nick-dale .book-call__endorsement { flex-direction: column; gap: 6px; padding: 10px 20px; border-radius: 18px; }
+  .book-call--nick-dale .book-call__endorsement-label { padding-right: 0; border-right: 0; font-size: 0.62rem; }
+  .book-call--nick-dale .book-call__endorsement img { height: 18px; }
+}
+
+/* Tuition Matters referral page (tuitionmatters.org, Hannah Ellis's A-Level
+   Biology and Geography tuition). The site's navy (#0A0C54) and sky blue
+   (#4DC3F9). The logo is their own white logo for dark backgrounds
+   (static/images/partners/tuition-matters-logo.svg), so the badge sits on
+   the navy with a sky blue edge and label. On a phone the badge stacks,
+   because the logo is long. */
+.book-call--tuition-matters .book-call__form-tag {
+  background: #E8F7FE;
+  color: #0A0C54;
+  border: 1.5px solid #4DC3F9;
+  padding: 5px 12px;
+  font-weight: 800;
+}
+.book-call--tuition-matters .book-call__reviews-brand {
+  color: #0A0C54;
+}
+.book-call--tuition-matters .book-call__endorsement {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  padding: 12px 22px;
+  background: #0A0C54;
+  border: 1.5px solid #4DC3F9;
+  border-radius: 999px;
+  box-shadow: 0 2px 12px rgba(10, 12, 84, 0.2);
+  text-decoration: none;
+  color: #FFFFFF;
+  transition: background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease;
+  max-width: max-content;
+}
+.book-call--tuition-matters .book-call__endorsement:hover {
+  background: #14176B;
+  box-shadow: 0 4px 16px rgba(10, 12, 84, 0.32);
+  transform: translateY(-1px);
+  text-decoration: none;
+  color: #FFFFFF;
+}
+.book-call--tuition-matters .book-call__endorsement-label {
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #4DC3F9;
+  white-space: nowrap;
+  padding-right: 12px;
+  border-right: 1px solid rgba(77, 195, 249, 0.5);
+}
+.book-call--tuition-matters .book-call__endorsement img { height: 22px; width: auto; display: block; }
+@media (max-width: 600px) {
+  .book-call--tuition-matters .book-call__endorsement { flex-direction: column; gap: 6px; padding: 10px 20px; border-radius: 18px; }
+  .book-call--tuition-matters .book-call__endorsement-label { padding-right: 0; border-right: 0; font-size: 0.62rem; }
+  .book-call--tuition-matters .book-call__endorsement img { height: 20px; }
+}
+
 /* ---------------------------------------------------------------------------
    Dual review badges (Google + Trustpilot). Rendered by
    layouts/partials/review-badges.html. Visual trust signal only: no

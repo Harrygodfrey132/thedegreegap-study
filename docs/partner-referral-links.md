@@ -38,6 +38,10 @@ reporting. Change `utm_medium` to match the placement: `banner`, `blog`,
 | Pathways Online Tuition (Dr Hayley Castlehouse) | `https://thedegreegap.com/study/referred-by-pathways-online-tuition/?utm_source=pathwaysonlinetuition&utm_medium=referral&utm_campaign=pathwaysonlinetuition-2026` |
 | Hemel Private Tuition (Philip Russell) | `https://thedegreegap.com/study/referred-by-hemel-private-tuition/?utm_source=hemelprivatetuition&utm_medium=referral&utm_campaign=hemelprivatetuition-2026` |
 | GoodPhysicsTutor (Philip Goodfellow) | `https://thedegreegap.com/study/referred-by-good-physics-tutor/?utm_source=goodphysicstutor&utm_medium=referral&utm_campaign=goodphysicstutor-2026` |
+| Science and Maths Tutor (Richard Finnegan) | `https://thedegreegap.com/study/referred-by-science-and-math-tutor/?utm_source=scienceandmathtutor&utm_medium=referral&utm_campaign=scienceandmathtutor-2026` |
+| Leena Mathematics Tutor (Leena Teckchandani) | `https://thedegreegap.com/study/referred-by-leena-maths-tutor/?utm_source=leenamathstutor&utm_medium=referral&utm_campaign=leenamathstutor-2026` |
+| Nick Dale | `https://thedegreegap.com/study/referred-by-nick-dale/?utm_source=nickdale&utm_medium=referral&utm_campaign=nickdale-2026` |
+| Tuition Matters (Hannah Ellis) | `https://thedegreegap.com/study/referred-by-tuition-matters/?utm_source=tuitionmatters&utm_medium=referral&utm_campaign=tuitionmatters-2026` |
 
 `utm_source` follows the squashed convention the banner links already use
 (`findmyschool`, `schoolguide`). Do not hyphenate it: a partner tagged two ways
