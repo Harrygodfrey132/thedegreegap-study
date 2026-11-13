@@ -1,4 +1,12 @@
-/* The Degree Gap: October 2026 Discount pop-up, as one embeddable script.
+/* The Degree Gap: monthly discount pop-up (currently the November 2026
+   Discount, NOV75), as one embeddable script. The file keeps its October name
+   because that is the address the main site's homepage already loads; rename
+   it and the homepage loses the pop-up.
+
+   Each month, change the copy, CODE, LEAD_SOURCE, ENDS and KEY here AND in
+   layouts/partials/callback-prompt.html plus static/js/main.js. In November
+   only the /study/ copy was updated, so this one hit October's end date and
+   quietly stopped showing on the homepage from 1 November.
 
    For pages not built from this repo, such as the main site's homepage.
    Add this one line to the page, just before </body>:
@@ -6,9 +14,9 @@
      <script src="https://thedegreegap.com/study/embed/october-2026-popup.js" defer></script>
 
    It adds its own markup and styles, then runs the same three steps as the
-   pop-up on the /study/ location pages: the 50% offer, name and number (sent
-   to Zoho with Lead Source "October 2026 Discount"), then the OCT50 code.
-   It shares the tdg_oct26_popup key with those pages, so a visitor who
+   pop-up on the /study/ location pages: the 75% offer, name and number (sent
+   to Zoho with Lead Source "November 2026 Discount"), then the NOV75 code.
+   It shares the tdg_nov26_popup key with those pages, so a visitor who
    closes it anywhere never sees it again. Add ?popup=1 to a page address to
    open it straight away for testing.
 
@@ -183,19 +191,19 @@
     <div class="tdgo__body">
       <!-- Step 1: the offer -->
       <div class="tdgo__step" data-tdgo-step="offer">
-        <p class="tdgo__eyebrow">October 2026 Discount</p>
-        <h2 class="tdgo__title" id="tdgo-title">Would you like <em>50% off</em> your sessions?</h2>
-        <p class="tdgo__lead">School is well underway. This October, first-time customers get 50% off their first session with a Degree Gap tutor. Pop in your name and number and your code appears straight away.</p>
-        <p class="tdgo__note"><strong>First-time customers only</strong><span>Ends 31 October</span> <span><span aria-hidden="true">&middot;</span> <span class="tdgo__stars" aria-hidden="true">&#9733;&#9733;&#9733;&#9733;&#9733;</span> 5.0 on Google</span></p>
+        <p class="tdgo__eyebrow">November 2026 Discount</p>
+        <h2 class="tdgo__title" id="tdgo-title">Back from half term? <em>75% off</em> your first lesson</h2>
+        <p class="tdgo__lead">Mocks are around the corner. This November, new families get 75% off their first lesson with a Degree Gap tutor. Pop in your name and number and your code appears straight away.</p>
+        <p class="tdgo__note"><strong>New families only</strong><span>Ends 30 November</span> <span><span aria-hidden="true">&middot;</span> <span class="tdgo__stars" aria-hidden="true">&#9733;&#9733;&#9733;&#9733;&#9733;</span> 5.0 on Google</span></p>
         <button type="button" class="tdgo__cta" data-tdgo-yes>Yes please</button>
         <button type="button" class="tdgo__dismiss" data-tdgo-close>No thanks</button>
       </div>
 
       <!-- Step 2: name and number -->
       <form class="tdgo__step" data-tdgo-step="details" data-tdgo-form hidden novalidate>
-        <p class="tdgo__eyebrow">October 2026 Discount</p>
+        <p class="tdgo__eyebrow">November 2026 Discount</p>
         <h2 class="tdgo__title" id="tdgo-title-details">Put your name and number in</h2>
-        <p class="tdgo__lead">Fill these in and your 50% off code appears straight away.</p>
+        <p class="tdgo__lead">Fill these in and your 75% off code appears straight away.</p>
         <label class="tdgo__label" for="tdgo-name">Name</label>
         <input class="tdgo__input" id="tdgo-name" name="name" type="text" autocomplete="name" placeholder="Your name" required>
         <label class="tdgo__label" for="tdgo-phone">Mobile number</label>
@@ -206,13 +214,13 @@
 
       <!-- Step 3: the code drops down -->
       <div class="tdgo__step" data-tdgo-step="code" hidden>
-        <p class="tdgo__eyebrow">October 2026 Discount</p>
-        <h2 class="tdgo__title" id="tdgo-title-code" tabindex="-1">Here is your <em>50% off</em> code</h2>
+        <p class="tdgo__eyebrow">November 2026 Discount</p>
+        <h2 class="tdgo__title" id="tdgo-title-code" tabindex="-1">Here is your <em>75% off</em> code</h2>
         <div class="tdgo__code" data-tdgo-code>
-          <span class="tdgo__code-value">OCT50</span>
+          <span class="tdgo__code-value">NOV75</span>
           <button type="button" class="tdgo__code-copy" data-tdgo-copy>Copy</button>
         </div>
-        <p class="tdgo__lead">Valid on your first session as a new customer. Don't worry, we will also text it to you so you can keep it safe.</p>
+        <p class="tdgo__lead">Valid on your first lesson as a new family, until 30 November. Don't worry, we will also text it to you so you can keep it safe.</p>
         <button type="button" class="tdgo__cta" data-tdgo-close>Done</button>
       </div>
     </div>
@@ -225,13 +233,15 @@
     var root = document.getElementById('tdgo');
     if (!root) return;
 
-    var LEAD_SOURCE = 'October 2026 Discount';
-    var CODE = 'OCT50';
-    var ENDS = Date.parse('2026-11-01T00:00:00Z');
+    var LEAD_SOURCE = 'November 2026 Discount';
+    var CODE = 'NOV75';
+    var ENDS = Date.parse('2026-12-01T00:00:00Z');
     // Remembers for good whether this visitor has closed the offer ("dismissed")
     // or given their details ("claimed"), and never shows it to them again.
     // Same key as the /study/ pages, so closing it on one closes it on both.
-    var KEY = 'tdg_oct26_popup';
+    // One key per month's offer, so a parent who closed October's still sees
+    // November's.
+    var KEY = 'tdg_nov26_popup';
 
     var forced = /[?&]popup=1\b/.test(window.location.search);
     if (!forced && Date.now() >= ENDS) return;
@@ -300,7 +310,7 @@
         root.classList.add('is-open'); card.focus();
       }); });
       document.addEventListener('keydown', onKey);
-      track('oct26_popup_shown');
+      track('nov26_popup_shown');
     }
 
     function close() {
@@ -316,7 +326,7 @@
       window.scrollTo(0, scrollY);
       setTimeout(function () { root.hidden = true; }, 320);
       if (lastFocus && lastFocus.focus) lastFocus.focus();
-      if (!done) track('oct26_popup_dismissed');
+      if (!done) track('nov26_popup_dismissed');
     }
 
     function onScroll() {
@@ -328,7 +338,7 @@
     for (var i = 0; i < closers.length; i++) closers[i].addEventListener('click', close);
 
     root.querySelector('[data-tdgo-yes]').addEventListener('click', function () {
-      track('oct26_popup_yes');
+      track('nov26_popup_yes');
       step('details');
       root.querySelector('#tdgo-name').focus();
     });
@@ -370,7 +380,7 @@
       /* Type of lead. Must match the Zoho picklist value exactly. */
       add('LEADCF5', 'Customer');
       add('LEADCF3', 'Unsure');
-      add('Description', 'October 2026 Discount: shown code ' + CODE + ' (50% off first session, first-time customers only) on the website pop-up at ' + window.location.pathname + '. Text them the code.');
+      add('Description', 'November 2026 Discount: shown code ' + CODE + ' (75% off the first lesson, new families only) on the website pop-up at ' + window.location.pathname + '. Text them the code.');
       add('Lead Source', LEAD_SOURCE);
       document.body.appendChild(f);
       f.submit();
@@ -398,7 +408,7 @@
       try { submitZohoLead(name, normaliseUkPhone(phoneField.value)); } catch (err) {}
       done = true;
       suppress('claimed');
-      track('oct26_popup_lead');
+      track('nov26_popup_lead');
       if (typeof window.fbq === 'function') { try { window.fbq('track', 'Lead'); } catch (err) {} }
 
       var shown = step('code');
