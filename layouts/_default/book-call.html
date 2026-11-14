@@ -21,6 +21,15 @@
                  Swap the file in static/downloads/ to change it. */}}
             <a class="book-call__sent-dl" href="{{ "downloads/the-degree-gap-revision-timetable.pdf" | relURL }}" download="The Degree Gap revision timetable.pdf" data-bc-download>Download the revision timetable (PDF)</a></span>
         </p>
+        {{/* For a parent sent here from a free webinar (?source= is the
+             webinar's Lead Source, e.g. "November 2026 Webinar"): confirms the
+             registration, and that the call is a separate, optional step
+             (Harry, 14 Nov 2026). Shown by the script at the foot of the page
+             when ?source= contains the data-bc-sent-contains text. */}}
+        <p class="book-call__sent" data-bc-sent-contains="Webinar" role="status" hidden>
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>
+          <span><strong>You're registered for the webinar.</strong> Your confirmation email is on its way. If you'd also like to talk about one-to-one tutoring for your child, you can book a call with Joe below.</span>
+        </p>
         <header class="book-call__head">
           <h1>Let's find the right tutor for your child</h1>
           <p class="book-call__subhead"><strong>The Degree Gap</strong> matches families across the UK with vetted one-to-one tutors, by subject and by exam board. Most families have a tutor within 48 hours.</p>
@@ -70,7 +79,7 @@
       <div class="book-call__form-wrap">
         <div class="book-call__form-card">
           <h2>Want your child to walk into their exams feeling ready?</h2>
-          <p class="book-call__form-sub">Free call, usually about 30 minutes. Joe will explain how we work, answer your questions, and give honest advice on whether tutoring is right for your child.</p>
+          <p class="book-call__form-sub">Free call, usually about 30 minutes. Joe will explain how we work, answer your questions, and give honest advice on whether tutoring is right for your child. Our tutoring is a paid service, with no contract.</p>
 
           <form action="{{ .Site.Params.formspreeEndpoint }}" method="POST" novalidate class="book-call__form">
             <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
@@ -158,6 +167,9 @@
     if (src) {
       document.querySelectorAll('[data-bc-sent]').forEach(function (el) {
         if (el.getAttribute('data-bc-sent') === src) el.hidden = false;
+      });
+      document.querySelectorAll('[data-bc-sent-contains]').forEach(function (el) {
+        if (src.indexOf(el.getAttribute('data-bc-sent-contains')) !== -1) el.hidden = false;
       });
     }
   } catch (e) { /* no thank-you line, as before */ }
