@@ -529,8 +529,14 @@ document.addEventListener('submit', function(e){
   var root = document.querySelector('[data-cbp]');
   if (!root) return;
 
+  // Add ?popup=1 to any page address to open it straight away for testing,
+  // even if this browser has already closed or claimed it. Same switch as the
+  // homepage embed. Without it, anyone who has closed the offer once never
+  // sees it again, which is easy to mistake for it being broken.
+  var forced = /[?&]popup=1\b/.test(window.location.search);
+
   var ends = Date.parse(root.getAttribute('data-cbp-ends') || '');
-  if (ends && Date.now() >= ends) return;
+  if (!forced && ends && Date.now() >= ends) return;
 
   var card = root.querySelector('.cbp__card');
   var phone = window.matchMedia('(max-width: 720px)').matches;
@@ -553,7 +559,11 @@ document.addEventListener('submit', function(e){
   // timer fires, which is why the timer was what every visitor actually got.
   // 1.5 screens is past the hero and into the body on every page type.
   var SCROLL_SCREENS = 1.5;
-  var DEFER_CAP = 25000;
+  // A booking form on screen can hold the dialog back from an early,
+  // scroll-triggered open, but never past the normal timer. It used to be
+  // 25s, and the blog sidebar form is on screen all visit on desktop, so
+  // every blog page waited 28s, measured on the live site in November 2026.
+  var DEFER_CAP = MAX_WAIT;
 
   function suppressed() {
     try { return !!localStorage.getItem(KEY); } catch (e) { return false; }
@@ -561,7 +571,7 @@ document.addEventListener('submit', function(e){
   function suppress(state) {
     try { localStorage.setItem(KEY, state); } catch (e) {}
   }
-  if (suppressed()) return;
+  if (!forced && suppressed()) return;
 
   // No point interrupting someone already looking at a booking form. This has
   // to be an actual form: .lvls-hero__card used to be in here, but the subject
@@ -620,15 +630,16 @@ document.addEventListener('submit', function(e){
 
   function show() {
     if (open) return;
-    if (Date.now() - start < MIN_DWELL) return;
+    if (!forced && Date.now() - start < MIN_DWELL) return;
     // Stand down while a booking form is on screen, but not forever. On the
     // subject pages the consultation card is in the hero and on a blog post the
     // sidebar form can sit in the viewport all visit, so without a cap the
     // dialog would never open on those pages at all for a reader who does not
     // scroll. 60s was measured as the real wait on 108 subject pages and on
-    // blog desktop, which is most of the "it takes a while". 25s still gives
-    // someone a fair look at the form first.
-    if (formInView() && Date.now() - start < DEFER_CAP) {
+    // blog desktop, which is most of the "it takes a while". The cap is now
+    // the normal timer (DEFER_CAP above), so the form only ever holds back an
+    // early scroll-triggered open.
+    if (!forced && formInView() && Date.now() - start < DEFER_CAP) {
       window.setTimeout(show, 4000);
       return;
     }
@@ -791,6 +802,7 @@ document.addEventListener('submit', function(e){
     } catch (err) {}
   });
 
+  if (forced) { show(); return; }
   window.addEventListener('scroll', onScroll, { passive: true });
   timer = window.setTimeout(show, MAX_WAIT);
 })();
