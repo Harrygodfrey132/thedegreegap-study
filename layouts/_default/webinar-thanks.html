@@ -206,7 +206,9 @@
 
   {{/* Show a curated 6 reviews — fewer than the full list, more
        than two, so the page feels substantial without becoming a wall. */}}
-  <section class="rdt-reviews">
+  {{/* Hidden for school staff (?who=staff from the webinar form): no
+       mention of tutoring for a school (Harry, 14 Nov 2026). */}}
+  <section class="rdt-reviews" data-hide-for-staff>
     <div class="rdt-reviews__head">
       <p class="rdt-reviews__eyebrow">While you wait</p>
       <h2>What other parents say about working with us</h2>
@@ -239,4 +241,12 @@
 
 </div>
 
+<script>
+(function () {
+  try {
+    if (new URLSearchParams(window.location.search).get('who') !== 'staff') return;
+    document.querySelectorAll('[data-hide-for-staff]').forEach(function (el) { el.hidden = true; });
+  } catch (e) {}
+})();
+</script>
 {{ end }}

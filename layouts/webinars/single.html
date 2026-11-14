@@ -588,6 +588,7 @@
       var interested = tutoring === 'Yes';
       var destination = routing
         ? ((interested && isParent) ? routeYes : routeElse) + '?source=' + encodeURIComponent({{ $leadSource }})
+          + ((registrantField && registrantField.value === 'Teacher or school staff') ? '&who=staff' : '')
         : null;
 
       /* A parent on the way to the booking page: leave the lead's email in this
