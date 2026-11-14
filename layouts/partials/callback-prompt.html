@@ -12,14 +12,15 @@
   these are the pages that live on search traffic.
 
   Three steps in one card: the offer with a yes button, then name and
-  number, then the code drops down. The details go to Zoho as a lead with
-  the Lead Source in data-cbp-source so the team can text the code. That
-  value must exist in the Zoho Lead Source pick-list exactly, or Zoho drops
-  the lead source (the lead itself still arrives).
+  number, then the code drops down. The details go to Formspree, like the
+  booking forms (Harry, 14 Nov 2026), so the team gets the usual email and
+  the usual Zoho card; the offer in data-cbp-source and data-cbp-offer goes
+  in the message, so the card says which code to text them. Only if
+  Formspree cannot be reached do the details go to Zoho directly instead.
 
   Renders hidden, so with JavaScript off nothing appears and nothing shifts.
 */}}
-<div class="cbp" id="cbp" hidden data-cbp data-cbp-ends="2026-12-01T00:00:00Z" data-cbp-source="November 2026 Discount" data-cbp-offer="NOV75 (75% off the first lesson, new families only)">
+<div class="cbp" id="cbp" hidden data-cbp data-cbp-ends="2026-12-01T00:00:00Z" data-cbp-source="November 2026 Discount" data-cbp-offer="NOV75 (75% off the first lesson, new families only)" data-cbp-endpoint="{{ site.Params.formspreeEndpoint }}">
   <div class="cbp__scrim" data-cbp-close></div>
   <div class="cbp__card" role="dialog" aria-modal="true" aria-labelledby="cbp-title" aria-describedby="cbp-lead" tabindex="-1">
     <button type="button" class="cbp__close" data-cbp-close aria-label="Close">

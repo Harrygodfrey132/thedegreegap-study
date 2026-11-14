@@ -716,7 +716,8 @@ document.addEventListener('submit', function(e){
   }
 
   /* Zoho CRM web-to-lead, the same form the webinar pages post to. Zoho sends
-     no CORS headers, so it goes through a hidden iframe, fire and forget. */
+     no CORS headers, so it goes through a hidden iframe, fire and forget.
+     Now only the fallback for when Formspree cannot be reached. */
   function submitZohoLead(name, number) {
     var iframe = document.getElementById('cbp-zoho');
     if (!iframe) {
@@ -751,6 +752,31 @@ document.addEventListener('submit', function(e){
     f.submit();
   }
 
+  /* Formspree, the same endpoint as the booking forms, so the lead arrives
+     the way every other website enquiry does: an email to the team and a
+     card in Zoho. The offer goes in the message, which the card shows as its
+     description. If Formspree is unreachable or refuses the post, the lead
+     goes to Zoho directly instead, so it is never lost. */
+  function submitLead(name, number) {
+    var endpoint = root.getAttribute('data-cbp-endpoint') || '';
+    var source = root.getAttribute('data-cbp-source') || 'Website discount pop-up';
+    var offer = root.getAttribute('data-cbp-offer') || '';
+    if (!endpoint || typeof window.fetch !== 'function') { submitZohoLead(name, number); return; }
+    var fd = new FormData();
+    fd.append('_subject', source + ' pop-up: ' + (name || 'Parent') + ' wants the code');
+    fd.append('source', source + ' pop-up');
+    fd.append('page_url', window.location.pathname);
+    fd.append('name', name || 'Parent');
+    fd.append('phone', number);
+    fd.append('message', source + ': shown code ' + offer + ' on the website pop-up. Text them the code.');
+    var fellBack = false;
+    function fallBack() { if (fellBack) return; fellBack = true; try { submitZohoLead(name, number); } catch (err) {} }
+    try {
+      window.fetch(endpoint, { method: 'POST', body: fd, headers: { 'Accept': 'application/json' }, keepalive: true })
+        .then(function (res) { if (!res.ok) fallBack(); }, fallBack);
+    } catch (err) { fallBack(); }
+  }
+
   if (form) form.addEventListener('submit', function (e) {
     e.preventDefault();
     // The site-wide required-field check runs first on the capture phase and
@@ -764,7 +790,7 @@ document.addEventListener('submit', function(e){
     var btn = form.querySelector('[type="submit"]');
     if (btn) { btn.disabled = true; btn.textContent = 'Sending...'; }
 
-    try { submitZohoLead(name, number); } catch (err) {}
+    try { submitLead(name, number); } catch (err) {}
     submitted = true;
     suppress('claimed');
     track('cbp_lead');
