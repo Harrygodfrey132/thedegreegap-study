@@ -340,7 +340,7 @@
         {{ with $p.about_paragraphs }}{{ range . }}<p>{{ . }}</p>{{ end }}{{ else }}
         <p>The Degree Gap is a UK-based company that knows education inside out. Outside of tutoring, we run webinars for thousands of parents, speak at schools about GCSE and A-Level preparation, and have spent years listening to the same worries you're probably about to bring to us. We find you tutors with the grades but also the compassion and ability to listen to your child's worries.</p>
         <p>That is what got us voted GCSE Tutoring Specialists of the Year at the 2026 Prestige Awards and why we have over 100 5 star reviews.</p>{{ end }}
-        <a href="{{ $book }}" class="lvls-about__cta" data-track="book_call_click" data-track-place="about">Speak to one of us about your child &rarr;</a>
+        <a href="{{ $book }}" class="lvls-about__cta" data-track="book_call_click" data-track-place="about">{{ $p.about_cta | default "Speak to one of us about your child" }} &rarr;</a>
       </div>
     </div>
   </div>

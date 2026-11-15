@@ -4,13 +4,14 @@
 {{ end }}
 
 {{ define "main" }}
-{{/* Subjects hub — auto-lists every subject page, grouped GCSE / A-Level / Specialised. */}}
+{{/* Subjects hub — auto-lists every subject page, grouped GCSE / A-Level / University / Specialised. */}}
 {{ $subjectPages := where .Site.Pages "Section" "subjects" }}
 {{ $subjectPages = where $subjectPages "Kind" "section" }}
 {{ $subjectPages = where $subjectPages "Params.layout" "single" }}
 {{ $gcse   := where $subjectPages "Params.level" "GCSE" }}
 {{ $alevel := where $subjectPages "Params.level" "A-Level" }}
-{{ $spec   := $subjectPages | complement $gcse $alevel }}
+{{ $uni    := where $subjectPages "Params.level" "University" }}
+{{ $spec   := $subjectPages | complement $gcse $alevel $uni }}
 
 <div class="sh-page">
 
@@ -62,6 +63,27 @@
       {{ range .ByParam "subject" }}
       <a href="{{ .RelPermalink }}" class="sh-card">
         <span class="sh-card__name">{{ strings.TrimPrefix "A-Level " .Params.subject }}</span>
+        {{ $goArrow | safeHTML }}
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<!-- UNIVERSITY -->
+{{ with $uni }}
+<section class="sh-group">
+  <div class="sh-wrap">
+    <div class="sh-group__head">
+      <span class="sh-group__label">University</span>
+      <h2>University subject tutors</h2>
+      <p class="sh-group__note">Degree-level modules, taught by tutors who have studied them.</p>
+    </div>
+    <div class="sh-grid">
+      {{ range .ByParam "subject" }}
+      <a href="{{ .RelPermalink }}" class="sh-card">
+        <span class="sh-card__name">{{ strings.TrimPrefix "University " .Params.subject }}</span>
         {{ $goArrow | safeHTML }}
       </a>
       {{ end }}
