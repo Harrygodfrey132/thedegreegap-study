@@ -11310,6 +11310,28 @@ details[open] .loc-accordion__icon--right { transform: rotate(90deg) !important;
   .book-call--lane-biology-tutor .book-call__endorsement img { height: 50px; }
 }
 
+/* Referred By hub (/referred-by/, layouts/_default/referred-by.html): every
+   partner landing page as a logo card. White logos sit on the partner's own
+   colour, set inline from the layout. */
+.referred-by { padding: 56px 0 72px; }
+.referred-by__head { max-width: 720px; margin: 0 0 32px; }
+.referred-by__head h1 { font-family: var(--font-heading); font-size: 2rem; margin: 0 0 0.5rem; color: #1a1a1a; }
+.referred-by__head p { margin: 0; color: #4a4a4a; line-height: 1.6; }
+.referred-by__grid { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 16px; }
+.referred-by__card { display: flex; flex-direction: column; height: 100%; background: #FFFFFF; border: 1px solid #E6E1D8; border-radius: 14px; overflow: hidden; text-decoration: none; color: #1a1a1a; transition: box-shadow 0.18s ease, transform 0.18s ease; }
+.referred-by__card:hover { box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08); transform: translateY(-2px); text-decoration: none; }
+.referred-by__logo { display: flex; align-items: center; justify-content: center; height: 112px; padding: 18px 20px; background: #FFFFFF; border-bottom: 1px solid #EFEAE2; }
+.referred-by__logo img { max-width: 100%; max-height: 64px; width: auto; height: auto; display: block; }
+.referred-by__wordmark { font-weight: 700; font-size: 1.05rem; text-align: center; }
+.referred-by__name { padding: 12px 16px 14px; font-weight: 600; font-size: 0.95rem; }
+@media (max-width: 540px) {
+  .referred-by { padding: 32px 0 48px; }
+  .referred-by__head h1 { font-size: 1.6rem; }
+  .referred-by__grid { grid-template-columns: 1fr 1fr; gap: 12px; }
+  .referred-by__logo { height: 88px; padding: 12px; }
+  .referred-by__logo img { max-height: 48px; }
+}
+
 /* ---------------------------------------------------------------------------
    Dual review badges (Google + Trustpilot). Rendered by
    layouts/partials/review-badges.html. Visual trust signal only: no

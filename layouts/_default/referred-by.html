@@ -1,0 +1,57 @@
+{{ define "seo" }}
+{{ partial "seo.html" . }}
+<meta name="robots" content="noindex, follow">
+{{ end }}
+
+{{ define "main" }}
+{{/* Every partner landing page (content/referred-by-*.md), found by file
+     name so a new partner appears here on the next build. The name is the
+     page's partner_name, or the part of its title before " × The Degree
+     Gap". The logo is static/images/partners/<layout>-logo.* (or the same
+     name without hyphens), on the partner's own colour when it is a white
+     logo. Partners without a logo show their name. */}}
+{{ $dark := dict
+  "bray-tutoring" "#4A4A49" "cat-the-science-tutor" "#00594D" "leena-maths-tutor" "#091E3E"
+  "mathsflex" "#141D4B" "school-guide" "#009499" "solihull-english-tuition" "#482683"
+  "teddington-tutor" "#0F1F25" "spolem" "#3EA0C0" "tuition-matters" "#0A0C54" }}
+{{ $partners := slice }}
+{{ range os.ReadDir "content" }}
+  {{ if and (strings.HasPrefix .Name "referred-by-") (strings.HasSuffix .Name ".md") }}
+    {{ with site.GetPage (strings.TrimSuffix ".md" .Name) }}
+      {{ $name := .Params.partner_name }}
+      {{ if not $name }}{{ $name = replaceRE `^Find Your Tutor\s*[,|]\s*(.*?)\s*×.*$` "$1" .Title }}{{ end }}
+      {{ $slug := .Layout | default (strings.TrimPrefix "referred-by-" .File.ContentBaseName) }}
+      {{ $logo := "" }}
+      {{ range slice $slug (replace $slug "-" "") }}
+        {{ $base := . }}
+        {{ range slice "svg" "png" "webp" "jpg" }}
+          {{ $c := printf "images/partners/%s-logo.%s" $base . }}
+          {{ if and (not $logo) (os.FileExists (printf "static/%s" $c)) }}{{ $logo = $c }}{{ end }}
+        {{ end }}
+      {{ end }}
+      {{ $partners = $partners | append (dict "name" $name "url" .RelPermalink "logo" $logo "bg" (index $dark $slug)) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+<section class="referred-by">
+  <div class="container">
+    <header class="referred-by__head">
+      <h1>Referred By</h1>
+      <p>The tutors, school guides and education websites that recommend The Degree Gap to their families. Each has its own page, where families they send us can book a free call.</p>
+    </header>
+    <ul class="referred-by__grid">
+      {{ range sort $partners "name" }}
+      <li>
+        <a class="referred-by__card" href="{{ .url }}">
+          <span class="referred-by__logo"{{ with .bg }} style="background: {{ . | safeCSS }}"{{ end }}>
+            {{ if .logo }}<img src="{{ .logo | relURL }}" alt="" loading="lazy">{{ else }}<span class="referred-by__wordmark">{{ .name }}</span>{{ end }}
+          </span>
+          <span class="referred-by__name">{{ .name }}</span>
+        </a>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+</section>
+{{ end }}
