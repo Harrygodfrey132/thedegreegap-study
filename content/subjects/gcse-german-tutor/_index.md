@@ -15,7 +15,7 @@ teaches_token: "GCSE - German"
 
 # ───────────── HERO ─────────────
 hero_eyebrow: "PRIVATE GCSE GERMAN TUITION · ONLINE, ACROSS THE UK"
-hero_h1: "Private GCSE German Tutors, Matched to Your Child"
+hero_h1: "Private GCSE German Tutors Who Make the Grammar Click"
 hero_lead: "German has a reputation for being the hard language, and plenty of children start to believe it. Most of the time it's a handful of rules, like where the verb goes, that keep tripping them up. A private tutor can sort those out one-to-one, so the rest of their German finally gets the marks it deserves."
 meta_2: "Online using the platform Lessonspace, plus replay available"
 meta_3: "GCSE Tutoring Specialists of the Year 2025 & 2026"
@@ -29,7 +29,7 @@ card_points:
 # ───────────── TUTORS ─────────────
 tutors_eyebrow: "MEET SOME OF THE TUTORS"
 tutors_heading: "Some of the private GCSE German tutors you could be matched with"
-tutors_intro: "German tutors are harder to find than French or Spanish ones, so you won't be left searching on your own. We've met every tutor on our platform, and after your call we suggest the two or three we think will suit your child best. Here are some of them."
+tutors_intro: "German tutors are harder to find than French or Spanish ones, so let us do the searching. We know every tutor here personally. Once we've spoken to you, we hand-pick a shortlist for your child. Here are some of them."
 tutor_names:
   - "Lucy Bowyer"
   - "Arianna Seraj"
@@ -44,19 +44,19 @@ review_names:
   - "Nazrul Islam"
 
 # ───────────── 3 STEPS ─────────────
-steps_heading: "Start GCSE German tutoring in 3 steps"
-steps_lead: "Most families have their first lesson booked within a week. And you don't pay anything until your child has found a tutor they like."
+steps_heading: "Getting started with a GCSE German tutor"
+steps_lead: "It's three simple steps, and lessons often begin within a week of the first phone call. Nothing is paid until your child is happy with their tutor."
 steps:
-  - title: "A free consultation call"
-    body: "A relaxed chat with a member of the team, usually around 30 minutes. We'll ask which board and tier your child is sitting, whether it's the speaking, the grammar or the translation that worries them, and how they get on with German at school. That way we can shape everything around them. No pressure and no sales pitch."
-  - title: "Meet 2 or 3 tutors"
-    body: "Within 24 hours of the call you'll get profiles of two or three tutors we've chosen for your child, so you know who they are before you decide. Your child can then meet your favourite on a free video call and hear how they speak German with them."
-  - title: "Start weekly lessons"
-    body: "Lessons are one-to-one and online, using the platform Lessonspace. The tutor can put a photo card or a short text on screen, practise speaking with your child over the call, and every lesson is recorded to watch back. From £37 an hour, no contract, and you can stop whenever you like."
+  - title: "Tell us about your child"
+    body: "First comes a free phone call with one of our team, which tends to last about half an hour. We'll ask which board and tier your child is sitting, whether it's the speaking, the grammar or the translation that worries them, and how they get on with German at school. Nobody will push you to sign up."
+  - title: "Choose from a shortlist"
+    body: "By the next day, we'll send over two or three tutor profiles picked with your child in mind. Read through them, choose the one you like most, and your child can have a free video meeting with them first. It's a good chance to hear how the tutor speaks German with them."
+  - title: "Settle into a weekly slot"
+    body: "Your child then has a regular one-to-one lesson on Lessonspace, our online classroom. The tutor can put a photo card or a short text on screen, practise speaking over the call, and each lesson is saved so it can be watched again. Prices start at £37 an hour, there's nothing to sign, and you can pause or stop at any point."
 
 # ───────────── CLOSING CTA ─────────────
-final_heading: "Book your free<br>GCSE German consultation"
-final_body: "A friendly consultation call, usually around 30 minutes, to hear how German is going for your child: which paper they dread, which board they sit and how they like to learn. Within 24 hours you'll have profiles of two or three tutors to choose from."
+final_heading: "Talk to us about<br>GCSE German"
+final_body: "Book a free half-hour call and tell us how German is going for your child: which paper they dread, which board they sit and how they like to learn. By the next day we'll send you a shortlist of two or three tutors."
 final_assurance: "Free call · Lessons from £37 · No contract"
 
 faq_items:
@@ -69,13 +69,13 @@ faq_items:
   - q: "The translation questions keep losing marks. Why?"
     a: "Because they test accuracy more than anything else. A sentence can be nearly right and still drop marks for a missed tense, a wrong ending or a word left out. The tutor shows your child how to check each sentence against the original, and practises translating both ways, German to English and English to German."
   - q: "Do the tutors know my child's exam board?"
-    a: "Yes. GCSE German is set by AQA, Edexcel and Eduqas, and each one words the speaking tasks and the writing questions in its own way. We'll pick tutors who know your child's board and tier. If you're not sure which it is, look on the front of a mock paper, or we'll help you find out on the call."
+    a: "Yes. GCSE German is set by AQA, Edexcel and Eduqas, and each one words the speaking tasks and the writing questions in its own way. We match your child with someone who's taught their board and tier. Not sure which board it is? Ask the school, check an old mock, or we'll help you find out on the call."
   - q: "How much does it cost?"
-    a: "Lessons start from £37 an hour, and the exact price depends on the tutor. We'll agree it with you before anything is booked. There's no contract, no joining fee and nothing to pay upfront, so you only pay for lessons that happen. The call with us and the video meeting with a tutor are both free."
+    a: "Prices start at £37 an hour, and each tutor sets their own rate, which we'll confirm with you before the first lesson. You won't sign a contract or pay a fee to join, and you're never billed in advance, just for the lessons your child has. Talking to us costs nothing, and so does meeting the tutor on video."
   - q: "What if we don't click with the tutor?"
-    a: "Tell us and we'll find someone else, with no charge and no awkward conversation. Getting on with the tutor matters a lot in a language, because your child has to feel happy speaking out loud. That's also why you see two or three profiles first, rather than being handed one name."
+    a: "Send us a message and we'll line up a new tutor, free of charge. You don't need to explain or apologise. Getting on with the tutor matters a lot in a language, because your child has to feel happy speaking out loud. It's one reason we offer a few profiles to pick from, not a single name."
   - q: "Who are The Degree Gap?"
-    a: "We're Harry and Joe. Harry read Economics at the LSE, and we set up The Degree Gap because we'd seen what a good tutor can do for a nervous student. We interview every tutor ourselves, and only around 3% of people who apply are accepted. Parents have left us more than 100 five-star Google reviews, and they put it better than we could."
+    a: "The Degree Gap was set up by two friends, Harry, who studied Economics at the LSE, and Joe. We'd both seen what a good tutor can do for a nervous student. We interview every tutor ourselves, and roughly 3 in every 100 applicants make it onto the platform. The parents who've reviewed us on Google tell the story better than we could."
   - q: "Do you cover where we live?"
     a: "Yes, anywhere in the UK. Every lesson is online, so your postcode doesn't matter. That's handy for German in particular, because good German tutors can be thin on the ground locally, and we can choose from tutors right across the country."
 related_links:
