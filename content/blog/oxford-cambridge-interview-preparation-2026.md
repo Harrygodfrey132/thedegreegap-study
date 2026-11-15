@@ -40,7 +40,7 @@ faqs:
 
 If your child has just been shortlisted, congratulations: that alone puts them in a minority. The interview is where preparation makes the most visible difference, and where the wrong kind of preparation does the most damage. This guide explains what happens in December 2026, what tutors are actually assessing, and how to use the two or three weeks you have.
 
-If you'd like a mock interview with a tutor who knows your child's subject, [book a free call with our admissions team](/book-a-call/) and we'll match them within days.
+If you'd like a mock interview with a tutor who knows your child's subject, [book a free call with our admissions team](/book-a-call/) and we'll match them within days. Our [Oxford](/personal-statement-tutor/oxford/) and [Cambridge](/personal-statement-tutor/cambridge/) pages explain how our mentors work with applicants.
 
 ## The 2026 interview timeline
 
@@ -57,7 +57,7 @@ If you'd like a mock interview with a tutor who knows your child's subject, [boo
 
 Oxford's Annual Admissions Statistical Report (June 2026) gives the 2025 figures: 23,329 applications, 3,891 offers and 3,302 students admitted. On its interviews page, Oxford says that in a typical year it shortlists around 10,000 candidates and holds around 20,000 online interviews, so most interviewees have two.
 
-The arithmetic is worth doing. About 10,000 interviewees and 3,891 offers means roughly one in three to one in two-and-a-half interviewees gets an offer. The interview genuinely decides things.
+The arithmetic is worth doing. About 10,000 interviewees and 3,891 offers means roughly one in every two and a half interviewees gets an offer. The interview genuinely decides things.
 
 Subject matters a lot. Oxford's Law Faculty report for 2025-26 shows 2,115 applicants, 630 interviewed and 252 offers. That's about 30% of applicants interviewed, and about 40% of those interviewed receiving an offer. Each Law candidate typically had two interviews of around 25 minutes at their first college.
 
@@ -72,7 +72,7 @@ In practice, tutors are asking themselves one question: would I enjoy teaching t
 - **Thinking out loud.** Can they reason through an unfamiliar problem, text or source, and show the steps?
 - **Taking a hint.** When the tutor nudges them, do they use it, or carry on down the same dead end?
 - **Changing their mind.** Can they say "I hadn't thought of that, so let me reconsider" without falling apart?
-- **Real engagement beyond the syllabus.** Can they talk in depth about something they've read or done, especially if it's in their personal statement?
+- **Real engagement beyond the syllabus.** Can they talk in depth about something they've read or done, especially if it's in their personal statement? (Our [personal statement mentors](/personal-statement-tutor/) work subject by subject, from Medicine to Law.)
 
 Oxford's Law Faculty puts it plainly: tutors "are not testing for existing knowledge of law but want to test your on-the-spot thinking and ability to formulate arguments". The same is true in almost every subject.
 
@@ -86,7 +86,7 @@ From working with applicants for Oxbridge, Medicine and other competitive course
 
 **3. Defending a wrong answer.** Tutors often push back on a correct answer to see what happens, and on a wrong one to see whether the student spots it. Digging in looks like an inability to learn.
 
-**4. A personal statement they can't discuss.** If the statement mentions a book, a project or an idea, expect detailed questions about it. Students who listed a book they only skimmed get found out in the first five minutes.
+**4. A personal statement they can't discuss.** If the statement mentions a book, a project or an idea, expect detailed questions about it. Students who listed a book they only skimmed get found out in the first five minutes. Tutors also read the interview alongside the rest of the application, including [predicted grades](/blog/predicted-grades-how-they-work/).
 
 **5. Reading more instead of practising conversation.** Reading is useful, but most students are under-practised at the actual skill being tested: talking through hard problems with an expert who interrupts.
 
@@ -120,7 +120,7 @@ A good Oxbridge interview tutor should:
 
 Be wary of anyone who promises "the questions they'll ask".
 
-Our personal statement and interview mentors include Oxford, Cambridge and LSE graduates. If your child has been shortlisted, [book a free call](/book-a-call/) and we'll set up a mock interview with a tutor in their subject, usually within the week. Our tutoring is a paid private service, with no contract.
+Our personal statement and interview mentors include Oxford, Cambridge and LSE graduates (see our [Oxford](/personal-statement-tutor/oxford/) and [Cambridge](/personal-statement-tutor/cambridge/) pages). For the wider picture, our free webinar on [what top universities look for](/webinars/what-top-universities-look-for/) is worth an hour. If your child has been shortlisted, [book a free call](/book-a-call/) and we'll set up a mock interview with a tutor in their subject, usually within the week. Our tutoring is a paid private service, with no contract.
 
 ## Frequently asked questions
 
