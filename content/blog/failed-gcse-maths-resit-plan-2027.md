@@ -53,7 +53,7 @@ The age breakdown matters more than the headline:
 - **19-year-olds:** 10.3%
 - **20 and over:** 32.5%
 
-Two things stand out. First, the chances fall with every extra year a student spends in the resit loop. A 17-year-old has a better shot than an 18-year-old, so the best time to fix this is this academic year, not next. Second, adults aged 20 and over pass at roughly double the rate. In our experience that's because adults who resit have chosen to, usually for a clear reason, and they prepare differently. So motivation and method matter as much as ability.
+Two things stand out. First, the chances fall with every extra year a student spends in the resit loop. A 17-year-old has a better shot than an 18-year-old, so the best time to fix this is this academic year, not next. If a missing 4 is also standing between your child and their sixth form place, our guide for when [your child is a grade short for sixth form](/blog/grade-short-for-sixth-form/) covers that conversation. Second, adults aged 20 and over pass at roughly double the rate. In our experience that's because adults who resit have chosen to, usually for a clear reason, and they prepare differently. So motivation and method matter as much as ability.
 
 The smaller November series also tends to get more students through than summer. FE Week's analysis of the November 2025 series put the maths pass rate at 23.2%, and at 26.1% for 17-year-olds. If your child sat in November 2026, results come out on **Wednesday 13 January 2027**.
 
@@ -114,7 +114,7 @@ If your child has left education, is home-schooled, or the college won't enter t
 
 ## A 17-week resit plan that actually changes the result
 
-This is the structure we use with resit students who have one or two failed attempts behind them. It assumes one hour a week with a tutor on top of college classes.
+This is the structure we use with [GCSE resit students](/subjects/gcse-resit-tutor/) who have one or two failed attempts behind them. It assumes one hour a week with a tutor on top of college classes. If you're wondering whether there's still time, see [how far before the exams is too late to get a tutor](/blog/how-far-before-exams-is-too-late-to-get-a-tutor/).
 
 **Weeks 1 to 2: diagnose, don't teach.** Sit one full Foundation paper under timed conditions and mark it question by question. Sort every lost mark into three piles:
 
@@ -139,7 +139,7 @@ Sutton Trust polling published in 2026 found that 29% of secondary pupils in Eng
 Whoever you choose, ask these questions on the first call:
 
 - **Will you look at my child's paper-by-paper marks or a past paper before teaching anything?** If the answer is "we'll start from the beginning of the course", keep looking.
-- **Do you know the board and tier?** A resit tutor should know the Foundation paper inside out, including the Edexcel or AQA question styles.
+- **Do you know the board and tier?** A resit tutor should know the Foundation paper inside out, including the Edexcel or AQA question styles. Our [GCSE maths tutors](/subjects/gcse-maths-tutor/) are matched by board and tier.
 - **How will we know it's working?** You want a past-paper score tracked against the grade boundary every few weeks, not a vague "they're doing well".
 - **What do you do with a student who has given up?** The best resit tutors spend as much effort rebuilding confidence as teaching content.
 

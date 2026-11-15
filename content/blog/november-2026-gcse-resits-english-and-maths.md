@@ -74,7 +74,7 @@ Here's the trade-off, put straight. It isn't the version anyone gets in the corr
 
 **November suits a child who was close, and whose problem was technique.** A near miss is exactly the kind of thing ten weeks of focused work can fix: a few marks, a paper that went wrong on the day, timing that fell apart on the last question. Sitting it in November means it's done. And it means the whole of Year 12, or the first year of a BTEC, isn't carrying it.
 
-**Summer suits a child who needs to rebuild the subject.** If the gap is thirty or forty marks, ten weeks alongside a brand new college course isn't enough. And missing it a second time in January can knock a teenager far harder than the first time did. Nothing's lost by waiting. A grade earned next summer counts exactly the same.
+**Summer suits a child who needs to rebuild the subject.** If the gap is thirty or forty marks, ten weeks alongside a brand new college course isn't enough. And missing it a second time in January can knock a teenager far harder than the first time did. Nothing's lost by waiting. A grade earned next summer counts exactly the same. If maths is the subject, our [summer 2027 GCSE maths resit plan](/blog/failed-gcse-maths-resit-plan-2027/) sets out the dates, the private-entry deadlines and a week-by-week plan.
 
 **The thing to weigh is what else November is up against.** Your child has just started a new course, in a new building, with new people. The first assessments on that course land in the very same weeks as the resit revision. A teenager who's thriving can carry both. One who's struggling to settle usually can't, and then it's the resit that should give way, not the new course.
 
