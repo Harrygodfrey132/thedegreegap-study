@@ -119,7 +119,7 @@ Religious Studies, Computer Science, Business and the rest follow the same three
 
 Help your child make the plan, then step back. A plan they built themselves is one they're far more likely to follow. Check in once a week rather than every evening, and ask "what did you test yourself on?" rather than "have you revised?" The first question has an answer you can talk about.
 
-When marked mock papers come home, ask to see them and [read the paper, not the number](/blog/do-mock-exams-matter/). If one subject keeps slipping however good the plan is, that's the moment to talk to the subject teacher.
+When marked mock papers come home, ask to see them and [read the paper, not the number](/blog/do-mock-exams-matter/). If one subject keeps slipping however good the plan is, that's the moment to talk to the subject teacher. And if the problem is that your child won't start at all, that's a different conversation: our guide for when [your child won't revise for their GCSEs](/blog/my-child-wont-revise-for-gcses/) covers it.
 
 If you'd rather hear it from the people who teach it, our free March webinar for parents, [How to Maximise Every GCSE Mark](/webinars/march-2027/), has three specialist tutors taking Maths, English and Science one at a time.
 
