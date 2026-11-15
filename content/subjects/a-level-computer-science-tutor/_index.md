@@ -55,7 +55,7 @@ steps:
 
 # ───────────── CLOSING CTA ─────────────
 final_heading: "Book a free<br>Computer Science call"
-final_body: "In a free call of about 30 minutes we'll get to know your child: their board, their language, how the NEA is going and where the exam marks are slipping. You'll have two or three tutor profiles within 24 hours."
+final_body: "In a free call of about 30 minutes we'll get to know your child: their board, their language, how the NEA is going and where the exam marks are slipping. Two or three tutor profiles will reach you inside 24 hours."
 final_assurance: "Free call · Lessons from £37 · No contract"
 
 faq_items:
@@ -64,7 +64,7 @@ faq_items:
   - q: "Can a tutor help with the NEA programming project?"
     a: "Yes, within the rules. The project has to be your child's own work, and they sign a declaration to say so. So a tutor won't write, fix or redesign any part of it. What a tutor can do is teach the skills the project needs, such as classes, recursion or using a database, through separate practice problems. They can also explain what the mark scheme rewards and help your child plan their time. It's sensible to let the school know your child has a tutor."
   - q: "Which exam boards do your tutors cover?"
-    a: "AQA, OCR and Eduqas, which is WJEC in Wales. On AQA, one paper is taken on screen and uses a skeleton program that schools get in advance. OCR splits the exams into computer systems on one paper and algorithms and programming on the other. We'll pick a tutor who knows your child's board."
+    a: "AQA, OCR and Eduqas, which is WJEC in Wales. On AQA, one paper is taken on screen and uses a skeleton program that schools get in advance. OCR splits the exams into computer systems on one paper and algorithms and programming on the other. Whichever it is, we'll match your child with someone familiar with it."
   - q: "Does it matter which programming language my child uses?"
     a: "A little. Schools teach different languages. Python is common, but some use C#, Java or VB.NET. Tell us on the call and we'll look for a tutor who works in it. The ideas behind the code, like how a loop or a recursive function behaves, are the same in any language."
   - q: "My child didn't take GCSE Computer Science. Is that a problem?"

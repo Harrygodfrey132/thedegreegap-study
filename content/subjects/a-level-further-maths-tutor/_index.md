@@ -53,7 +53,7 @@ steps:
   - title: "See who we'd suggest"
     body: "Within a day of the call, two or three tutor profiles land in your inbox. Each one is someone we think fits your child's board and options. Pick the one you like, and your child can have a free video call with them first."
   - title: "Lessons each week"
-    body: "Your child and the tutor work on a shared Lessonspace whiteboard, which suits long proofs and matrix working, and every session is saved to replay later. It's from £37 an hour, with no contract, and you're free to stop at any time."
+    body: "Your child and the tutor work on a shared Lessonspace whiteboard, which suits long proofs and matrix working, and every session is saved to replay later. Lessons cost from £37 an hour. Nothing ties you in, so you can end them whenever you choose."
 
 # ───────────── CLOSING CTA ─────────────
 final_heading: "Talk to us about<br>A-Level Further Maths"
@@ -72,13 +72,13 @@ faq_items:
   - q: "Can a tutor help with the MAT or TMUA too?"
     a: "Some tutors on our platform help with university admissions tests like the MAT and TMUA as well as the A-Level itself. If your child is applying for a course that sets one, mention it on the call and we'll look for a tutor who can cover both."
   - q: "Do you cover where we live?"
-    a: "We do, wherever you are in the UK. All lessons are online, and that helps a lot with Further Maths. There aren't many tutors who teach it well, and your child shouldn't be limited to the ones within driving distance."
+    a: "We do. Families anywhere in the UK can use us, because all lessons are online, and that helps a lot with Further Maths. There aren't many tutors who teach it well, and your child shouldn't be limited to the ones within driving distance."
   - q: "How much does it cost?"
-    a: "Prices start at £37 an hour and depend on the tutor you choose. We'll confirm the rate with you before the first lesson is booked. You won't sign a contract, pay a joining fee or buy lessons in bulk. Talking to us is free, and so is your child's first video meeting with the tutor."
+    a: "Prices start at £37 an hour and depend on the tutor you choose. We'll confirm the rate with you before the first lesson is booked. You won't sign a contract, pay a joining fee or buy lessons in bulk. The call with us costs nothing, and neither does the first video meeting between your child and the tutor."
   - q: "What if we don't click with the tutor?"
     a: "Then we'll find another one, free of charge. Just send us a message. Some pairings don't work, and that's nobody's fault. We want your child to have a tutor they look forward to seeing, which is partly why we send more than one profile to begin with."
   - q: "Who are The Degree Gap?"
-    a: "The Degree Gap was set up by Harry and Joe. Harry studied Economics at the LSE and teaches Maths up to Further Maths himself. We personally interview the tutors who apply, and roughly 3% are accepted. Our 100+ five-star Google reviews are the best guide to what families think of us."
+    a: "The Degree Gap was set up by Harry and Joe. Harry studied Economics at the LSE and tutors A-Level Further Maths himself. We personally interview the tutors who apply, and roughly 3% are accepted. Our 100+ five-star Google reviews are the best guide to what families think of us."
 related_links:
   - title: "Mathematics personal statement help"
     url: "/personal-statement-tutor/mathematics/"

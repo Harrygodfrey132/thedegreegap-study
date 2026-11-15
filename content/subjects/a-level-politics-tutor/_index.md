@@ -55,7 +55,7 @@ steps:
 
 # ───────────── CLOSING CTA ─────────────
 final_heading: "Book your free<br>A-Level Politics consultation"
-final_body: "Talk to us for around 30 minutes, usually, about your child's board, the essays that keep slipping and what they're aiming for next. Within 24 hours you'll have two or three tutor profiles to look through."
+final_body: "Talk to us for around 30 minutes, usually, about your child's board, the essays that keep slipping and what they're aiming for next. Then, inside 24 hours, we'll put forward two or three tutors for you to read about."
 final_assurance: "Free call · Lessons from £37 · No contract"
 
 faq_items:

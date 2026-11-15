@@ -55,7 +55,7 @@ steps:
 
 # ───────────── CLOSING CTA ─────────────
 final_heading: "Book your free<br>A-Level Philosophy consultation"
-final_body: "A relaxed call, usually around 30 minutes, about the topics your child is wrestling with, how their essays are going and the grade they need. You'll have two or three tutor profiles within 24 hours."
+final_body: "A relaxed call, usually around 30 minutes, about the topics your child is wrestling with, how their essays are going and the grade they need. A shortlist of two or three tutors will follow within 24 hours."
 final_assurance: "Free call · Lessons from £37 · No contract"
 
 faq_items:
