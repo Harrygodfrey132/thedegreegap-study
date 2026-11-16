@@ -7,7 +7,7 @@ location: "Taunton"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Taunton Students Whose Maths Lets Their Physics Down"
+hero_h1: "A-Level Physics Tutors for Taunton Students Whose Maths Lets Their Physics Down"
 hero_lead: "Your child understands what a gravitational field is, then a question needs an exponential rearranged or a log graph read and the answer falls apart. Our A-Level Physics tutors for Taunton students rebuild the maths the Physics relies on."
 
 angle_eyebrow: "THE NUCLEAR TOPIC, CLOSE TO HOME"

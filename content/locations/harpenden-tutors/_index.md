@@ -1,9 +1,9 @@
 ---
-title: "Harpenden Online Tutors | Expert Support | The Degree Gap"
+title: "Harpenden Tutors | Expert Support | The Degree Gap"
 description: "When GCSE or A-Level gets harder, Harpenden tutoring can help. Online one-to-one lessons from £37 with no contract, after a free call with our founders."
 layout: single
 location: Harpenden
-banner_heading: "GCSE or A-Level Suddenly Harder? Online Harpenden Tutors for the Step Up"
+banner_heading: "GCSE or A-Level Suddenly Harder? Tutoring for Harpenden Families Making the Step Up"
 banner_description: "Lots of capable children hit a wall in Year 10 or Year 12. It's normal, and the right tutor can help them over it."
 content_angle: "the step up: a capable, busy Harpenden child who hits a wall in Year 10 or at the jump to A-Level"
 intro_1: "For years it came easily. Homework done before tea, good reports, no fuss. Then Year 10 arrived, or the first term of A-Levels, and now your child is at the desk for two hours on something that used to take twenty minutes, and bringing home marks they've never had before. If that's your house at the moment, you're in good company. Plenty of your child's friends in Harpenden will be staying on for A-Levels, often with Russell Group universities in mind, so a dip at the step up can feel alarming. It happens to far more children than you'd guess."

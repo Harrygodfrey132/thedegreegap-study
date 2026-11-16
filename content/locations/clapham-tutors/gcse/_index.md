@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutors for Clapham Students | The Degree Gap"
+title: "GCSE Tutors for Clapham Students | The Degree Gap"
 description: "Is your child revising for hours in Clapham and still forgetting it by the mock? We'll match them with an online GCSE tutor. Free call first, from £37 an hour."
 layout: "subject"
 location: "Clapham"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Clapham Students Whose Revision Isn't Sticking"
+hero_heading_line1: "GCSE Tutors for Clapham Students Whose Revision Isn't Sticking"
 hero_heading_line2: ""
 hero_lead: "Your child spends the evening with the notes open, then the test comes back as though they'd never seen them. Our GCSE tutors for Clapham students swap rereading for practice that makes things stay, one-to-one and online."
 

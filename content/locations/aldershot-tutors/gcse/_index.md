@@ -1,11 +1,11 @@
 ---
-title: "Aldershot GCSE Tutors | Online One-to-One | The Degree Gap"
+title: "Aldershot GCSE Tutors | One-to-One | The Degree Gap"
 description: "Aldershot GCSE tutors who find the topic a school move left behind. One-to-one lessons online, from £37 an hour with no contract. Start with a free call."
 layout: "subject"
 location: "Aldershot"
 level: "GCSE"
 
-hero_heading_line1: "Online Aldershot GCSE Tutors Who Find the Topic Your Child Missed"
+hero_heading_line1: "GCSE Tutoring for Aldershot Families That Finds the Topic Your Child Missed"
 hero_lead: "Is Maths homework taking all evening and still coming back wrong? If your child has changed schools along the way, there's often one topic they simply never met. Our GCSE tutors for Aldershot students find it first, then build up from there."
 
 grade_from: "4"

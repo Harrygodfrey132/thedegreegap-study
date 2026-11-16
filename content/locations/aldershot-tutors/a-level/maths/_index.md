@@ -1,5 +1,5 @@
 ---
-title: "Aldershot A-Level Maths Tutors | Online | The Degree Gap"
+title: "Aldershot A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Has your child moved school mid-course, or is Mechanics costing marks? Our Aldershot A-Level Maths tutors teach one-to-one online, from £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Aldershot"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online Aldershot A-Level Maths Tutors for Mechanics and More"
+hero_h1: "A-Level Maths Tutors for Aldershot Students: Mechanics and More"
 hero_lead: "A Mechanics question can look just like one your child has practised and still need a different method. Our A-Level Maths tutors for Aldershot students help them tell the difference, and fill in anything a change of school left out."
 
 angle_eyebrow: "CONSTANT ACCELERATION, OR NOT?"

@@ -5,7 +5,7 @@ layout: "subject"
 location: "Hounslow"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Hounslow Students When Year 12 Grades Start to Slip"
+hero_heading_line1: "A-Level Tutors for Hounslow Students When Year 12 Grades Start to Slip"
 hero_heading_line2: ""
 hero_lead: "Year 12 marks feed the predicted grades universities see, whether your child wants to stay at home or move away. Our A-Level tutors for Hounslow students work on the topics costing marks this term, before those predictions are written."
 

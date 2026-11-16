@@ -7,7 +7,7 @@ location: "Dulwich"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Dulwich Students Stuck on Organic Mechanisms"
+hero_h1: "A-Level Chemistry Tutors for Dulwich Students Stuck on Organic Mechanisms"
 hero_lead: "Curly arrows pointing from the wrong atom, and a calculation that goes astray at step three of five. Our A-Level Chemistry tutors for Dulwich students slow both down until your child can explain every step out loud."
 
 angle_eyebrow: "A SCIENCE WITH A MATHS GRADE ATTACHED"

@@ -7,7 +7,7 @@ location: "Clapham"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Clapham Students Losing Marks on Mechanics and Statistics"
+hero_h1: "A-Level Maths Tutors for Clapham Students Losing Marks on Mechanics and Statistics"
 hero_lead: "About a third of the A-Level Maths marks come from Statistics and Mechanics, and they're often the part that gets squeezed. Our A-Level Maths tutors for Clapham students give them proper time, alongside the Pure your child's class is covering."
 
 angle_eyebrow: "THE THIRD THAT ISN'T PURE"

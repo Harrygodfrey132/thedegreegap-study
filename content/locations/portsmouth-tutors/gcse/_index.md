@@ -5,7 +5,7 @@ layout: "subject"
 location: "Portsmouth"
 level: "GCSE"
 
-hero_heading_line1: "Online Portsmouth GCSE Tutors Who Go Back to Where the Trouble Started"
+hero_heading_line1: "GCSE Tutoring for Portsmouth Students That Goes Back to Where the Trouble Started"
 hero_heading_line2: ""
 hero_lead: "When your child's struggling in Year 11, the trouble rarely started in Year 11. Usually something slipped in Year 8 or 9, and there was never time to go back for it. Our GCSE tutors for Portsmouth students find that point in the first lesson and rebuild forward from there."
 

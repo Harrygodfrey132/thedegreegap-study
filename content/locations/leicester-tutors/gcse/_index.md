@@ -4,7 +4,7 @@ description: "Revision going in but the grade won't budge? Our Leicester GCSE tu
 layout: "subject"
 location: "Leicester"
 level: "GCSE"
-hero_heading_line1: "Online Leicester GCSE Tutors for When Hard Work Isn't Moving the Grade"
+hero_heading_line1: "GCSE Tutors for Leicester Students When Hard Work Isn't Moving the Grade"
 hero_heading_line2: ""
 hero_lead: "Your child's putting the hours in, and the grade on the report still hasn't moved. It's usually one older topic holding everything else up. Our GCSE tutors for Leicester students find it early and rebuild from there, well before mocks."
 grade_from: "5"

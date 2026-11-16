@@ -7,7 +7,7 @@ location: "Sutton"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Sutton When Wide Reading Isn't Reaching the Marks"
+hero_h1: "GCSE English Tutors for Sutton When Wide Reading Isn't Reaching the Marks"
 hero_lead: "Your child's always had a book on the go, and still the Literature marks don't show it. Wide reading doesn't turn itself into marks, so our GCSE English tutors for Sutton students work one-to-one, online, on the structure that turns a good point into a paragraph that scores."
 
 angle_eyebrow: "THE SUBJECT EVERYONE ASSUMES IS FINE"

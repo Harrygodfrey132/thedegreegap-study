@@ -7,7 +7,7 @@ location: "Hounslow"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Hounslow Students Who Don't Know How to Revise It"
+hero_h1: "GCSE English Tutors for Hounslow Students Who Don't Know How to Revise It"
 hero_lead: "Maths has past papers and formulas, while English can feel as if there's nothing to learn. Our GCSE English tutors for Hounslow students give your child a way to revise Language and Literature, with timed paragraphs and quotations that get used."
 
 angle_eyebrow: "HOW DO YOU REVISE ENGLISH?"

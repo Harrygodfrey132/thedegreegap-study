@@ -7,7 +7,7 @@ location: "Surbiton"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Surbiton Students Who Lean Too Hard on the Calculator"
+hero_h1: "A-Level Maths Tutors for Surbiton Students Who Lean Too Hard on the Calculator"
 hero_lead: "Every Edexcel A-Level Maths paper allows a calculator, so it's a shock when a question says answers relying on it won't get the marks. Our A-Level Maths tutors for Surbiton students practise the algebra and written reasoning a calculator can't do for your child."
 
 angle_eyebrow: "THE CALCULATOR CAN'T SHOW WORKING"

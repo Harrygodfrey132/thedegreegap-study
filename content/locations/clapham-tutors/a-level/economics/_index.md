@@ -7,7 +7,7 @@ location: "Clapham"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Clapham Students Whose Essays Explain but Don't Judge"
+hero_h1: "A-Level Economics Tutors for Clapham Students Whose Essays Explain but Don't Judge"
 hero_lead: "Your child can explain what happens when interest rates rise, then loses marks on the long essay for never deciding how much it matters. Our A-Level Economics tutors for Clapham students teach that judgement, one-to-one and online."
 
 angle_eyebrow: "WHERE THE ESSAY MARKS LEAK OUT"

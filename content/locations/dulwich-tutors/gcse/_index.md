@@ -1,11 +1,11 @@
 ---
-title: "Online GCSE Tutors for Dulwich Students | The Degree Gap"
+title: "GCSE Tutors for Dulwich Students | The Degree Gap"
 description: "Worried your child's GCSEs won't be ready by Dulwich's sixth form deadlines? We'll match them with an online GCSE tutor. Free call first, from £37 an hour."
 layout: "subject"
 location: "Dulwich"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Dulwich Students, Before the Year 11 Predictions Are Written"
+hero_heading_line1: "GCSE Tutors for Dulwich Students, Before the Year 11 Predictions Are Written"
 hero_heading_line2: ""
 hero_lead: "Sixth form applications start early in Year 11, so the predicted grades on them lean heavily on Year 10. Our GCSE tutors for Dulwich students find where your child's marks are slipping now, while there's still time to move them."
 

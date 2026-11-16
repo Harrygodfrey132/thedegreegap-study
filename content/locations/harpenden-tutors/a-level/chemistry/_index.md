@@ -1,5 +1,5 @@
 ---
-title: "Harpenden A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Harpenden A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "Is energetics costing your child A-Level Chemistry marks? Our online Harpenden tutors get the definitions and Hess cycles exact first. From £37, no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Harpenden"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutoring for Families in Harpenden"
+hero_h1: "A-Level Chemistry Tutoring for Families in Harpenden"
 hero_lead: "If your child's energetics answers come back with a confident number and a red cross, a loose definition is usually behind it. Our A-Level Chemistry tutors for Harpenden students pin down exactly what each quantity means before anything else."
 
 angle_eyebrow: "WHEN NEARLY RIGHT SCORES NOTHING"

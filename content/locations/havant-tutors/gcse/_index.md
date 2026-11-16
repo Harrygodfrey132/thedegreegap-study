@@ -1,11 +1,11 @@
 ---
-title: "Havant GCSE Tutors | Online One-to-One | The Degree Gap"
+title: "Havant GCSE Tutors | One-to-One | The Degree Gap"
 description: "Havant GCSE tutors for whichever route your child takes at 16, A-Levels or a technical course. Online, one-to-one, from £37 an hour. Free call first."
 layout: "subject"
 location: "Havant"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors in Havant, Whatever Your Child Chooses at 16"
+hero_heading_line1: "GCSE Tutors for Havant Students, Whatever They Choose at 16"
 hero_lead: "Some Year 11s know exactly what they want next. If your child doesn't, that's completely normal. Both the A-Level and technical routes ask for solid Maths and English, which is often where Havant GCSE tutors start."
 
 grade_from: "4"

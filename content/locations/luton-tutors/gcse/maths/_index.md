@@ -1,13 +1,13 @@
 ---
 title: "Luton GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
-description: "GCSE Maths tutors covering Luton, matched on exam board and tier, rebuilding the method behind the grade that post-16 courses read. From £37 an hour."
+description: "GCSE Maths tutors for Luton students, matched on board and tier, rebuilding the method behind the grade post-16 courses read. Online, from £37."
 layout: "level-subject"
 location: "Luton"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Luton, Matched on the Board and the Tier"
+hero_h1: "GCSE Maths Tutors for Luton, Matched on the Board and the Tier"
 hero_lead: "Higher or foundation is the decision nobody explains properly, and it changes which questions are even on the paper. Our GCSE Maths tutors for Luton students settle it with evidence, then rebuild whatever the paper says is missing. One-to-one and online."
 
 angle_eyebrow: "TIER FIRST, TOPICS SECOND"

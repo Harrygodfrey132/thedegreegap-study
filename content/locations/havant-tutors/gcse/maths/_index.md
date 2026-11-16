@@ -1,5 +1,5 @@
 ---
-title: "Havant GCSE Maths Tutors | Online | The Degree Gap"
+title: "Havant GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Maths marks lost to what looks like carelessness often trace back to Year 8. Our Havant GCSE Maths tutors find that gap and rebuild it, online, from £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Havant"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors Supporting Havant Families"
+hero_h1: "GCSE Maths Tutors Supporting Havant Families"
 hero_lead: "In Maths, a gap from Year 8 can still be costing your child marks in Year 11, because every topic leans on the ones before it. Our GCSE Maths tutors for Havant students teach online, find the point where things stopped making sense, and build back up from there."
 
 angle_eyebrow: "THE GAP THAT NEVER CLOSED ITSELF"

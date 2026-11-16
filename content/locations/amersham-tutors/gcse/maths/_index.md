@@ -7,7 +7,7 @@ location: "Amersham"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors in Amersham for the Marks Lost on Show-That Questions"
+hero_h1: "GCSE Maths Tutors for Amersham Students Losing Marks on Show-That Questions"
 hero_lead: "The answer's printed right there in the question, and your child still loses the marks. Our GCSE Maths tutors for Amersham students help them set out the reasoning examiners want to see, one-to-one and online, starting from a marked mock."
 
 angle_eyebrow: "THE ANSWER IS ALREADY ON THE PAGE"

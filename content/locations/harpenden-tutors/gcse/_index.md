@@ -1,11 +1,11 @@
 ---
-title: "Harpenden GCSE Tutors | Online One-to-One | The Degree Gap"
+title: "Harpenden GCSE Tutors | One-to-One | The Degree Gap"
 description: "Is one subject's homework always going last? Our Harpenden GCSE tutors help your child reopen a subject they've quietly avoided. Online, one-to-one, from £37."
 layout: "subject"
 location: "Harpenden"
 level: "GCSE"
 
-hero_heading_line1: "Online Harpenden GCSE Tutors for the Subject Your Child Keeps Putting Off"
+hero_heading_line1: "GCSE Tutors for Harpenden Students and the Subject They Keep Putting Off"
 hero_heading_line2: ""
 hero_lead: "A subject rarely falls apart overnight. Your child starts avoiding it, a little at a time, until its homework is always last and the questions dry up. Our GCSE tutors for Harpenden students work on the avoidance as much as the content."
 

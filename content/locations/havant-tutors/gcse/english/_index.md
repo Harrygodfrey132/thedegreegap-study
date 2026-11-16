@@ -1,5 +1,5 @@
 ---
-title: "Havant GCSE English Tutors | Online | The Degree Gap"
+title: "Havant GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "Every route after 16 looks at the English grade. Our Havant GCSE English tutors help your child with Language and Literature. Online, from £37, no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Havant"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutoring in Havant, Wherever Your Child Goes at 16"
+hero_h1: "GCSE English Tutoring in Havant, Wherever Your Child Goes at 16"
 hero_lead: "College, sixth form or an apprenticeship around Portsmouth: they'll all want to see the English grade. Our GCSE English tutors for Havant students start by pulling Language and Literature apart, because your child's marks usually slip in one more than the other."
 
 angle_eyebrow: "THE GRADE BOTH ROUTES ASK FOR"

@@ -3,7 +3,7 @@ title: "Portsmouth Tutors | GCSE & A-Level from £37/hr"
 description: "Is your child stuck on the same grade? Our Portsmouth tutors find the gap underneath it first. GCSE and A-Level, online, from £37 an hour, no contract."
 layout: single
 location: Portsmouth
-banner_heading: "Looking for an Online Portsmouth Tutor Who Finds What's Really Going Wrong?"
+banner_heading: "Portsmouth Parents: Looking for a Tutor Who Finds What's Really Going Wrong?"
 banner_description: "Plenty of tutoring just follows whatever the class is doing. Our tutors for Portsmouth families start by finding what your child missed along the way, then plan from there."
 content_angle: foundation gaps
 intro_1: "It often shows up in Year 10. Your child was coping fine, then the homework started taking all evening, the test marks dropped, and nobody could quite say why. Results across Portsmouth have sat below the national average for years, so plenty of families here are in the same spot. But it happens at every kind of school, independents like The Portsmouth Grammar School included. Usually there's a gap underneath that no one knew was there, and Year 10 is when it starts costing marks."

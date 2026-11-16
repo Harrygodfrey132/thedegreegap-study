@@ -1,5 +1,5 @@
 ---
-title: "Havant GCSE Science Tutors | Online | The Degree Gap"
+title: "Havant GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
 description: "Online GCSE Science tutors for Havant families, Triple or Combined. We find the topic that got squeezed and rebuild it with your child. From £37, no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Havant"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Havant and Waterlooville Families"
+hero_h1: "GCSE Science Tutors for Havant and Waterlooville Families"
 hero_lead: "Combined Science fits three subjects into two GCSEs' worth of lessons, so something usually gets squeezed. Our GCSE Science tutors for Havant students find the topic that went by too fast for your child, and rebuild it."
 
 angle_eyebrow: "THREE SUBJECTS, ONE TIMETABLE"

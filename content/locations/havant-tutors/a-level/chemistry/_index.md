@@ -1,13 +1,13 @@
 ---
-title: "Havant A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Havant A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
-description: "Knowing the Chemistry isn't always enough when each exam board asks in its own way. Our Havant A-Level Chemistry tutors are matched to your child's board."
+description: "Knowing the Chemistry isn't always enough when each board asks in its own way. Our online A-Level Chemistry tutors for Havant students know your child's board."
 layout: "level-subject"
 location: "Havant"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online Havant A-Level Chemistry Tutors, Exam Board First"
+hero_h1: "A-Level Chemistry Tutors for Havant Students, Exam Board First"
 hero_lead: "Plenty of Havant parents tell us the same thing: their child understands Chemistry in class, then drops marks in the mock for reasons that aren't obvious. Often it's the exam board's way of doing things, and our A-Level Chemistry tutors for Havant students are matched to it."
 
 angle_eyebrow: "THE SAME CHEMISTRY, A DIFFERENT EXAM PAPER"

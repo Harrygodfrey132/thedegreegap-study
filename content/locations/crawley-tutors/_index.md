@@ -1,9 +1,9 @@
 ---
-title: "Online Tutoring for Crawley Families | The Degree Gap"
+title: "Tutoring for Crawley Families | The Degree Gap"
 description: "Is your child slipping at school in Crawley, and your hours make it hard to help? We'll match them with an online tutor who suits them. From £37, no contract."
 layout: "single"
 location: "Crawley"
-banner_heading: "Online tutoring for Crawley families, at whatever hour your week has free"
+banner_heading: "Tutoring for Crawley families, at whatever hour your week has free"
 banner_description: "Once distance stops mattering, we can choose the tutor who really suits your child, and lessons go in on the evenings or weekends your household can manage."
 content_angle: "family timing: households working rotas around Gatwick and Manor Royal, and the Maths, English and Science grades the airport's own schemes read in Year 11"
 intro_1: "A lot of the Crawley parents we talk to are working around a rota. An early start at the airport one week, nights on Manor Royal the next. Homework doesn't follow the rota, so the Maths that needs explaining tends to land on the evening nobody's home to explain it, or when you're too worn out to try. That isn't a parenting failure. The timings just don't meet. And the grades start to count earlier than people expect: Gatwick's own engineering apprenticeships ask for at least a 4/5 in Maths, English and a Science, actual or predicted, so a Year 11 mock can matter before the summer exams do."

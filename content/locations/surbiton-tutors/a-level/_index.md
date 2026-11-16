@@ -1,11 +1,11 @@
 ---
-title: "Surbiton A-Level Tutors | Online One-to-One | The Degree Gap"
+title: "Surbiton A-Level Tutors | One-to-One | The Degree Gap"
 description: "Did the first Year 12 test come back lower than the GCSEs suggested? Our Surbiton A-Level tutors rebuild what the course assumes, online. From £37, no contract."
 layout: "subject"
 location: "Surbiton"
 level: "A-Level"
 
-hero_heading_line1: "Online Surbiton A-Level Tutors for Year 12s Finding the Step Up Steeper Than Expected"
+hero_heading_line1: "A-Level Tutors for Surbiton Year 12s Finding the Step Up Steeper Than Expected"
 hero_heading_line2: ""
 hero_lead: "Your child met the entry grades, started Year 12 full of plans, and the first marked test has knocked them. Our A-Level tutors for Surbiton students go back to the GCSE topics the new course takes for granted, then catch up with the class."
 

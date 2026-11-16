@@ -5,7 +5,7 @@ layout: "subject"
 location: "Crawley"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Crawley Students Whose Applications Go In Before the Exams"
+hero_heading_line1: "GCSE Tutors for Crawley Students Whose Applications Go In Before the Exams"
 hero_heading_line2: ""
 hero_lead: "Sixth form and apprenticeship applications usually go in during Year 11, when the only grade anyone can see is a predicted one. Our online GCSE tutors work with Crawley students on the mocks those predictions come from."
 

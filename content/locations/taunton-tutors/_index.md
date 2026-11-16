@@ -1,9 +1,9 @@
 ---
-title: "Online Tutors and Tuition for Your Child in Taunton | The Degree Gap"
+title: "Tutors and Tuition for Your Child in Taunton | The Degree Gap"
 description: "Worried one GCSE grade could narrow your child's choices at 16 in Taunton? We'll match them with an online tutor who suits them. From £37 an hour, no contract."
 layout: "single"
 location: "Taunton"
-banner_heading: "Online tutors for Taunton students, for the GCSE grades that decide which courses are open at 16"
+banner_heading: "Tutors for Taunton students, for the GCSE grades that decide which courses are open at 16"
 banner_description: "Tell us the course your child has their eye on, and we'll find a tutor who works back from the grades it asks for, one-to-one and online."
 content_angle: "one grade, several doors: the GCSE Maths grade Richard Huish lists for A-Level Maths and all three sciences, and choosing courses at 16"
 intro_1: "It can start at a college open evening. You're walking round Richard Huish on South Road with your Year 11, a bag of leaflets in one hand, when your child stops at the Biology stand. They've talked about being a vet for years. And there, under entry requirements, it says GCSE Maths at grade 6. Chemistry and Physics ask the same, and A-Level Maths wants a 6 with a 7 strongly recommended. If Maths is the subject your child dreads, the drive home can go very quiet. If you found yourself searching for maths tuition in Taunton that same night, you're far from alone."

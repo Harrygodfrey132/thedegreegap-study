@@ -1,5 +1,5 @@
 ---
-title: "Leicester A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Leicester A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "Is it physical, organic or inorganic chemistry costing your child marks? Our online Leicester A-Level Chemistry tutors find out which, and start there."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Leicester"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tuition for Leicester Families"
+hero_h1: "A-Level Chemistry Tuition for Leicester Families"
 hero_lead: "When the Chemistry grade drops, it can feel as if your child is struggling with the whole subject. Usually it's one of three quite different parts, and our A-Level Chemistry tutors for Leicester students find out which."
 
 angle_eyebrow: "THREE CHEMISTRIES, ONE GRADE"

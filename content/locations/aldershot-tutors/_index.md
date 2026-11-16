@@ -1,9 +1,9 @@
 ---
-title: "Aldershot GCSE & A-Level Tutors | Online | The Degree Gap"
+title: "Aldershot GCSE & A-Level Tutors | The Degree Gap"
 description: "Changed schools mid-course? Our Aldershot tutors check the new exam board first, then help with GCSE and A-Level online, one-to-one, from £37 an hour."
 layout: "single"
 location: "Aldershot"
-banner_heading: "New School, Same Tutor: Online GCSE and A-Level Tutoring for Aldershot Families"
+banner_heading: "New School, Same Tutor: GCSE and A-Level Tutoring for Aldershot Families"
 banner_description: "A move mid-course can leave a few topics your child simply never met. Our tutors find those first, and they stay with your child if you move again."
 content_angle: "school moves: one steady tutor who fills what fell between schools"
 intro_1: "Different uniform, different timetable, a whole new set of names to learn. Then the Physics homework assumes your child has done waves, which the new class covered last term and the old school hadn't reached yet. Nobody has done anything wrong. Aldershot is a garrison town. Plenty of children here change school at least once mid-course, sometimes into another county, sometimes onto another exam board halfway through a GCSE. Parents often tell us the move seemed fine at the time. It's months later that one subject stops making sense, and it's easy to put that down to your child not being good at it."

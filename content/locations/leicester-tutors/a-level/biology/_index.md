@@ -1,13 +1,13 @@
 ---
-title: "Leicester A-Level Biology Tutors | Online | The Degree Gap"
+title: "Leicester A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
-description: "Hours of Biology revision and the grade won't budge? Our Leicester A-Level Biology tutors make the work between lessons count, in Year 12 and 13. From £37."
+description: "Hours of Biology revision and the grade won't budge? Our online A-Level Biology tutors help Leicester students make revision count in Year 12 and 13. From £37."
 layout: "level-subject"
 location: "Leicester"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors Covering Leicester"
+hero_h1: "A-Level Biology Tutors for Leicester Students"
 hero_lead: "A lesson a week is one hour, and what your child does in the other hundred and sixty-seven decides how far it goes. Our A-Level Biology tutors for Leicester students plan both."
 
 angle_eyebrow: "THE WEEK BETWEEN THE LESSONS"

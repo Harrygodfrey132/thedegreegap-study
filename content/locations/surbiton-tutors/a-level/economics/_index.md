@@ -7,7 +7,7 @@ location: "Surbiton"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Surbiton Students Who Run Out of Time on the Essay"
+hero_h1: "A-Level Economics Tutors for Surbiton Students Who Run Out of Time on the Essay"
 hero_lead: "Your child knows the theory, then reaches the long essay with fifteen minutes left and writes half of what they could. Our A-Level Economics tutors for Surbiton students practise planning and pacing until the last answer gets the time it deserves."
 
 angle_eyebrow: "THE LAST QUESTION ON THE PAPER"

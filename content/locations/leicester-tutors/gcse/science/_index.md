@@ -1,13 +1,13 @@
 ---
-title: "Leicester GCSE Science Tutors | Online | The Degree Gap"
+title: "Leicester GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
-description: "Same Science mistakes in every test, however hard your child revises? Our Leicester GCSE Science tutors find the everyday idea behind them. From £37 an hour."
+description: "Same Science mistakes in every test, however hard your child revises? Our online GCSE Science tutors for Leicester students find the idea behind them. From £37."
 layout: "level-subject"
 location: "Leicester"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors Across Leicester"
+hero_h1: "GCSE Science Tutors for Leicester Students"
 hero_lead: "When the same Science mistake turns up test after test, it's often an idea that feels like plain common sense, like heavier things always falling faster. Our GCSE Science tutors for Leicester students find those ideas in your child's answers and gently take them apart, one-to-one and online."
 
 angle_eyebrow: "WHEN EVERYDAY COMMON SENSE GETS THE SCIENCE WRONG"

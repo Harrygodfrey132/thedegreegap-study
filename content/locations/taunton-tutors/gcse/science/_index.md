@@ -7,7 +7,7 @@ location: "Taunton"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Taunton Students Losing Marks Where Science Meets Maths"
+hero_h1: "GCSE Science Tutors for Taunton Students Losing Marks Where Science Meets Maths"
 hero_lead: "Your child knows what osmosis is, then a question asks for the percentage change in mass and the marks slip away. Our GCSE Science tutors for Taunton students work on the calculations and graphs that run through Biology, Chemistry and Physics alike."
 
 angle_eyebrow: "THE MATHS INSIDE THE SCIENCE PAPER"

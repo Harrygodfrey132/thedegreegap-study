@@ -1,5 +1,5 @@
 ---
-title: "Harpenden GCSE Maths Tutors | Online | The Degree Gap"
+title: "Harpenden GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Does your child follow every step in class, then freeze on the homework? Our Harpenden GCSE Maths tutors work on starting questions alone. Online, from £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Harpenden"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors Working with Harpenden Families"
+hero_h1: "GCSE Maths Tutors Working with Harpenden Families"
 hero_lead: "Your child follows every step when it's explained, then stares at the next question on their own. Our GCSE Maths tutors for Harpenden students work online on that second part, because it's the only one the exam tests."
 
 angle_eyebrow: "I GET IT WHEN YOU EXPLAIN IT"

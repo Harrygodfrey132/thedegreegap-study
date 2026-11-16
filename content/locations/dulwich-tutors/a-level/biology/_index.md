@@ -7,7 +7,7 @@ location: "Dulwich"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Dulwich Students Whose Long Answers Lose the Thread"
+hero_h1: "A-Level Biology Tutors for Dulwich Students Whose Long Answers Lose the Thread"
 hero_lead: "There's a huge amount to learn in A-Level Biology, and the long answers that pull topics together are where the marks slip away. Our A-Level Biology tutors for Dulwich students help your child connect the content and write it up the way examiners mark it."
 
 angle_eyebrow: "NEXT DOOR TO DENMARK HILL"

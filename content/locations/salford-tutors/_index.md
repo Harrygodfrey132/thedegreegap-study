@@ -1,9 +1,9 @@
 ---
-title: "Online Tutors for Your Child in Salford | The Degree Gap"
+title: "Tutors for Your Child in Salford | The Degree Gap"
 description: "Worried an English or Maths grade could hold back your child's plans in Salford? We'll match them with an online tutor who suits them. From £37, no contract."
 layout: "single"
 location: "Salford"
-banner_heading: "Online tutoring for Salford children whose plans are running ahead of their grades"
+banner_heading: "Tutoring for Salford children whose plans are running ahead of their grades"
 banner_description: "We match your child with a tutor from anywhere in the UK who finds the topic quietly costing them marks, so English and Maths stop standing between them and what comes next."
 content_angle: "plans running ahead of grades: MediaCityUK, the University of Salford and Pendleton Sixth Form College are all on the doorstep, and most routes through them start with the English and Maths grades at 16"
 intro_1: "Ask a Salford teenager what they want to do and you'll often get a real answer. Film, or games, because the BBC and ITV are just down the road at MediaCityUK. Nursing at Salford Royal. Engineering at the university by the Crescent. Then a Year 10 report comes home, and the plan runs into the English and Maths grades. Pendleton Sixth Form College, Salford City College's A-Level centre, asks for five grade 5s, English Language among them, for courses like Biology and Maths, and a 6 in Maths on top. That's a lot to rest on one summer. Most parents can feel it at home long before anyone says it out loud."

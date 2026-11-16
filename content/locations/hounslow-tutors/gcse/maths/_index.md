@@ -7,7 +7,7 @@ location: "Hounslow"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Hounslow Students, Starting With the Questions They Leave Blank"
+hero_h1: "GCSE Maths Tutors for Hounslow Students, Starting With the Questions They Leave Blank"
 hero_lead: "If your child's Maths homework keeps coming back with the last few questions empty, that's usually where the grade is going. Our GCSE Maths tutors for Hounslow students find which methods those are and rebuild them first, one-to-one and online."
 
 angle_eyebrow: "THE QUESTIONS LEFT BLANK"

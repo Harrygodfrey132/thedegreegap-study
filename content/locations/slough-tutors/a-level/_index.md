@@ -5,7 +5,7 @@ layout: "subject"
 location: "Slough"
 level: "A-Level"
 
-hero_heading_line1: "Online Slough A-Level Tutors for When the Year 12 Mock Lands Low"
+hero_heading_line1: "A-Level Tutors for Slough Students When the Year 12 Mock Lands Low"
 hero_heading_line2: ""
 hero_lead: "The first Year 12 mock often comes back a grade or two below your child's GCSEs. It's common, but it matters, because schools use Year 12 results when they set predicted grades. Our A-Level tutors for Slough students work one-to-one online to close that gap before an offer depends on it."
 

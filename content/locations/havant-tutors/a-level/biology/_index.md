@@ -1,5 +1,5 @@
 ---
-title: "Havant A-Level Biology Tutors | Online | The Degree Gap"
+title: "Havant A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
 description: "Answering 'describe' when the Biology question says 'explain'? Online A-Level Biology tutors for Havant families help your child spot the difference. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Havant"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Havant Sixth Formers"
+hero_h1: "A-Level Biology Tutors for Havant Sixth Formers"
 hero_lead: "Describe, explain, suggest and evaluate each want a different answer, but plenty of teenagers treat them as the same word. Our A-Level Biology tutors for Havant students sort that out first, and it's often one of the quicker fixes for your child's marks."
 
 angle_eyebrow: "FOUR WORDS, FOUR DIFFERENT ANSWERS"

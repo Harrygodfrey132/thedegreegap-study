@@ -5,7 +5,7 @@ layout: "subject"
 location: "Slough"
 level: "GCSE"
 
-hero_heading_line1: "Online Slough GCSE Tutors for the Winter Mock That Sixth Forms Often Read First"
+hero_heading_line1: "GCSE Tutors for Slough Students Facing the Winter Mock That Sixth Forms Often Read First"
 hero_heading_line2: ""
 hero_lead: "Your child's sixth-form applications go in before they've sat a single real GCSE, so the winter mock counts for more than it looks. Our GCSE tutors for Slough students work on it with them, one-to-one and online, while there's still time to change the result."
 

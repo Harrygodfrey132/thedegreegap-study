@@ -7,7 +7,7 @@ location: "Putney"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Putney Students Whose Writing Undersells Them"
+hero_h1: "GCSE English Tutors for Putney Students Whose Writing Undersells Them"
 hero_lead: "Your child reads plenty and talks well about books, then gets marked down when the task is to write something of their own. Our GCSE English tutors for Putney students work on that writing, because it's roughly half the English Language grade whichever board your child sits."
 
 angle_eyebrow: "THE WRITING HALF"

@@ -1,11 +1,11 @@
 ---
-title: "A-Level Tutors for Putney Sixth Formers | Online One-to-One | The Degree Gap"
+title: "A-Level Tutors for Putney Sixth Formers | One-to-One | The Degree Gap"
 description: "Has the help that got your child through GCSEs stopped working in Year 12? We'll match them in Putney with an online A-Level tutor for each subject. From £37."
 layout: "subject"
 location: "Putney"
 level: "A-Level"
 
-hero_heading_line1: "Online Putney A-Level Tutors for Sixth Formers Whose GCSE Help Has Run Out"
+hero_heading_line1: "A-Level Tutors for Putney Sixth Formers Whose GCSE Help Has Run Out"
 hero_heading_line2: ""
 hero_lead: "The help that carried your child through GCSEs, whether it was you at the kitchen table or a tutor a friend recommended, often runs out a few weeks into Year 12. Our A-Level tutors for Putney students are chosen for the subject and board your child is actually taking."
 

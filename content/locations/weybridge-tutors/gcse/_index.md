@@ -5,7 +5,7 @@ layout: "subject"
 location: "Weybridge"
 level: "GCSE"
 
-hero_heading_line1: "Online Weybridge GCSE Tutors for When One Grade Decides the Sixth Form"
+hero_heading_line1: "GCSE Tutors for Weybridge Students When One Grade Decides the Sixth Form"
 hero_heading_line2: ""
 hero_lead: "If your child's torn between two sixth forms, you've probably noticed they don't always ask for the same grade in the same subject. Our GCSE tutors for Weybridge students find the subject closest to the line and work on it in weekly online lessons, so both stay open."
 

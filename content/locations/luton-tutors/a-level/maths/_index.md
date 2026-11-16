@@ -1,13 +1,13 @@
 ---
 title: "Luton A-Level Maths Tuition | One-to-One"
 nav_title: "Maths"
-description: "A-Level Maths tutors covering Luton for the step up into Year 12 and the strand nobody revises. Matched on the specification, from £37 an hour."
+description: "A-Level Maths tutors for Luton students facing the step up into Year 12 and the strand nobody revises. Live online lessons, from £37 an hour."
 layout: "level-subject"
 location: "Luton"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutoring for Luton: When the GCSE Method Stops Working"
+hero_h1: "A-Level Maths Tutoring for Luton: When the GCSE Method Stops Working"
 hero_lead: "A strong GCSE grade buys about half a term at A-Level, then the questions stop announcing which method they want. Our A-Level Maths tutors for Luton students teach the choosing, not just the doing. Online and one-to-one, an hour a week."
 
 angle_eyebrow: "THE QUESTION ARRIVES WITH NO LABEL"

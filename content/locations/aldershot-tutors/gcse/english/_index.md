@@ -1,5 +1,5 @@
 ---
-title: "Aldershot GCSE English Tutors | Online | The Degree Gap"
+title: "Aldershot GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "GCSE English tutors for Aldershot families after a school move, matched on the new set texts and exam board, with essays marked weekly. Online, from £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Aldershot"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Aldershot Families"
+hero_h1: "GCSE English Tutors for Aldershot Families"
 hero_lead: "After a move, your child can walk into an English class that's halfway through a play they've never read, with poems they've never met. Our GCSE English tutors for Aldershot students help them catch up on the books they'll be examined on."
 
 angle_eyebrow: "NEW SCHOOL, DIFFERENT BOOKS"

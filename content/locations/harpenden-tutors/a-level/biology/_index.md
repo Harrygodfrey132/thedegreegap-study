@@ -1,5 +1,5 @@
 ---
-title: "Harpenden A-Level Biology Tutors | Online | The Degree Gap"
+title: "Harpenden A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
 description: "Is your child strong in A-Level Biology but needing the top grade for Medicine or Vet Science? Our Harpenden tutors find the last few marks. Online, from £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Harpenden"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors Covering Harpenden"
+hero_h1: "A-Level Biology Tutors for Harpenden Students"
 hero_lead: "When the course your child wants asks for the very top grade, the last few marks are the hardest to find and the least forgiving. Our A-Level Biology tutors for Harpenden students work on exactly that margin."
 
 angle_eyebrow: "THE LAST GRADE IS THE HARD ONE"

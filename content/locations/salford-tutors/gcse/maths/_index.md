@@ -1,5 +1,5 @@
 ---
-title: "Online GCSE Maths Tuition for Salford Teenagers | The Degree Gap"
+title: "GCSE Maths Tuition for Salford Teenagers | The Degree Gap"
 nav_title: "Maths"
 description: "Is GCSE Maths stuck below the 6 that Pendleton asks for A-Level Maths, or the 5 a college course needs? We'll match your Salford teenager with an online tutor."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Salford"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutors for Salford Students, Whatever Grade the Next Step Needs"
+hero_h1: "GCSE Maths Tutors for Salford Students, Whatever Grade the Next Step Needs"
 hero_lead: "For A-Level Maths or a science at Pendleton your child will want a 6 in Maths, while for lots of college courses a solid 4 or 5 is the goal. Our GCSE Maths tutors for Salford students find the topics costing your child marks against that target and fix those first."
 
 angle_eyebrow: "TWO TARGETS, ONE PAPER"

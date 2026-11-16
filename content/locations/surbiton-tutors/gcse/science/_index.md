@@ -7,7 +7,7 @@ location: "Surbiton"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Surbiton Students Whose Early Topics Have Faded"
+hero_h1: "GCSE Science Tutors for Surbiton Students Whose Early Topics Have Faded"
 hero_lead: "Cells and atomic structure were taught near the start of the course, and by the spring of Year 11 your child can barely remember them. Our GCSE Science tutors for Surbiton students bring those early topics back every week, alongside whatever school is teaching now."
 
 angle_eyebrow: "TWO YEARS OF TOPICS, SIX PAPERS"

@@ -1,5 +1,5 @@
 ---
-title: "Aldershot GCSE Science Tutors | Online | The Degree Gap"
+title: "Aldershot GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
 description: "A school move can leave your child missing a Science topic or a practical. Our Aldershot GCSE Science tutors find those gaps and fill them online. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Aldershot"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutoring for Aldershot Families"
+hero_h1: "GCSE Science Tutoring for Aldershot Families"
 hero_lead: "Maybe the new school covered electrolysis last term, just before your child arrived, and the old one hadn't reached it yet. Our GCSE Science tutors for Aldershot students find gaps like that after a move and teach them from the beginning, one-to-one and online."
 
 angle_eyebrow: "SCIENCE AFTER A SCHOOL MOVE"

@@ -7,7 +7,7 @@ location: "Dulwich"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Dulwich Students Losing Marks on Six-Mark Answers"
+hero_h1: "GCSE Science Tutors for Dulwich Students Losing Marks on Six-Mark Answers"
 hero_lead: "Your child knows the science in class, then the six-mark question or the practical write-up comes back half empty. Our GCSE Science tutors for Dulwich students practise those question types until the method holds, online and one-to-one."
 
 angle_eyebrow: "TWO GRADES FROM ONE SUBJECT"

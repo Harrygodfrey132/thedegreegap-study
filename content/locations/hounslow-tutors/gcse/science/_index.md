@@ -7,7 +7,7 @@ location: "Hounslow"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Hounslow Students Taking Combined Science or All Three"
+hero_h1: "GCSE Science Tutors for Hounslow Students Taking Combined Science or All Three"
 hero_lead: "Combined Science turns one set of papers into two grades, so a weak topic in Physics drags on the whole pair. Our GCSE Science tutors for Hounslow students find the topic doing the damage and work on it first, online and one-to-one."
 
 angle_eyebrow: "ONE TOTAL, TWO GRADES"

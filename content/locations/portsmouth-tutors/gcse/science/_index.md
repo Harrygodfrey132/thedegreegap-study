@@ -1,13 +1,13 @@
 ---
-title: "Online GCSE Science Tutors | Portsmouth | The Degree Gap"
+title: "GCSE Science Tutors | Portsmouth | The Degree Gap"
 nav_title: "Science"
-description: "Unlike Maths, GCSE Science has no November resit. Our Portsmouth and Southsea tutors help your child aim for the grade they need first time, from £37 an hour."
+description: "Unlike Maths, GCSE Science has no November resit. Our online tutors help Portsmouth and Southsea students get the grade they need first time. From £37."
 layout: "level-subject"
 location: "Portsmouth"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online GCSE Science Tutors for Portsmouth and Southsea"
+hero_h1: "GCSE Science Tutors for Portsmouth and Southsea"
 hero_lead: "It's natural to assume Science works like Maths, with a resit in November if the summer goes wrong. It doesn't. Our GCSE Science tutors for Portsmouth students help your child aim for the grade they need first time, while there's still room in Year 10 and 11."
 
 angle_eyebrow: "NO NOVEMBER RESIT FOR SCIENCE"

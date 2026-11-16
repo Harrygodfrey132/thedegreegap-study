@@ -5,7 +5,7 @@ layout: "subject"
 location: "Salford"
 level: "A-Level"
 
-hero_heading_line1: "Online Salford A-Level Tutors for the Hours Between College Lessons"
+hero_heading_line1: "A-Level Tutoring for Salford Students in the Hours Between College Lessons"
 hero_heading_line2: ""
 hero_lead: "Your child's home by two on a Wednesday because there's nothing timetabled after lunch, and the folder stays in the bag. Our A-Level tutors for Salford students turn one of those empty afternoons into an hour of proper work, with something set for the next."
 

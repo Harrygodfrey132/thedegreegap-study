@@ -1,11 +1,11 @@
 ---
-title: "Salford GCSE Tutors | Online One-to-One | The Degree Gap"
+title: "Salford GCSE Tutors | One-to-One | The Degree Gap"
 description: "Is one GCSE grade standing between your child and the course they want at 16? We offer online GCSE tutoring in Salford homes, from £37 an hour, no contract."
 layout: "subject"
 location: "Salford"
 level: "GCSE"
 
-hero_heading_line1: "Online Salford GCSE Tutors for When a Grade 4 Isn't Quite Enough"
+hero_heading_line1: "GCSE Tutors for Salford Students When a Grade 4 Isn't Quite Enough"
 hero_heading_line2: ""
 hero_lead: "A 4 gets called a pass, so it can come as a jolt when the college course your child likes asks for 5s. Our GCSE tutors for Salford students find the marks between the two on your child's own papers and go after those first."
 

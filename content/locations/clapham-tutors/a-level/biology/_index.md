@@ -7,7 +7,7 @@ location: "Clapham"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Clapham Students Facing the Long Synoptic Answers"
+hero_h1: "A-Level Biology Tutors for Clapham Students Facing the Long Synoptic Answers"
 hero_lead: "There's far more to learn in A-Level Biology, but the marks usually slip where a long answer asks your child to link topics a year apart. Our A-Level Biology tutors for Clapham students practise making those links, one-to-one and online."
 
 angle_eyebrow: "WHEN THE TOPICS HAVE TO MEET"

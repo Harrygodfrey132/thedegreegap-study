@@ -7,7 +7,7 @@ location: "Dulwich"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Dulwich Students Who Freeze at the Writing Task"
+hero_h1: "GCSE English Tutors for Dulwich Students Who Freeze at the Writing Task"
 hero_lead: "The reading questions go fine, then the writing task arrives and the page stays blank for ten minutes. Our GCSE English tutors for Dulwich students give your child a way to plan fast and keep writing, online and one-to-one."
 
 angle_eyebrow: "WHEN THE WRITING TASK STALLS"

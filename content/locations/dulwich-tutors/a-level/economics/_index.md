@@ -7,7 +7,7 @@ location: "Dulwich"
 level: "A-Level"
 subject: "Economics"
 
-hero_h1: "Online A-Level Economics Tutors for Dulwich Students Whose Essays Stop Short of Evaluation"
+hero_h1: "A-Level Economics Tutors for Dulwich Students Whose Essays Stop Short of Evaluation"
 hero_lead: "Your child can define every term and draw the diagram, yet the 25-mark essay keeps landing in the middle of the mark scheme. Our A-Level Economics tutors for Dulwich students teach the weighing-up those marks are for, one chain of reasoning at a time."
 
 angle_eyebrow: "WHERE THE ESSAY MARKS GO"

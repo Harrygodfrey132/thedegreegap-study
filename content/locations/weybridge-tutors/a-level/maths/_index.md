@@ -7,7 +7,7 @@ location: "Weybridge"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Weybridge, When the Year 12 Algebra Moves Too Fast"
+hero_h1: "A-Level Maths Tutors for Weybridge, When the Year 12 Algebra Moves Too Fast"
 hero_lead: "If your child started A-Level Maths on the minimum GCSE grade, it's common for the algebra to start running away from them quite quickly. Our A-Level Maths tutors for Weybridge students work one-to-one online to close that gap before the Year 12 mocks."
 
 angle_eyebrow: "IF YOUR CHILD ONLY JUST GOT IN"

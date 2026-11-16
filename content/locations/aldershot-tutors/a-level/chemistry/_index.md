@@ -1,5 +1,5 @@
 ---
-title: "Aldershot A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Aldershot A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "Did a school move leave gaps in your child's A-Level Chemistry? Our online Aldershot tutors rebuild the mole work first. From £37 an hour, no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Aldershot"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors Covering Aldershot"
+hero_h1: "A-Level Chemistry Tutors for Aldershot Students"
 hero_lead: "Miss a fortnight of Chemistry in Year 12 and it can keep costing your child marks in Year 13. Our A-Level Chemistry tutors for Aldershot students check the whole course first, then rebuild the formula work everything else rests on."
 
 angle_eyebrow: "FINDING THE GAP BEFORE TEACHING ANYTHING"

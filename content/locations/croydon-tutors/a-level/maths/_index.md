@@ -7,7 +7,7 @@ location: "Croydon"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths tutors for Croydon when Year 12 shows up gaps in the GCSE algebra"
+hero_h1: "A-Level Maths tutors for Croydon when Year 12 shows up gaps in the GCSE algebra"
 hero_lead: "If Year 12 Maths feels like a different subject after a good GCSE, there's usually a reason. Often the class has come from lots of Croydon schools, and the course assumes they all learnt the same algebra. Our A-Level Maths tutors for Croydon students find the bits that got covered lightly."
 
 angle_eyebrow: "ONE CLASS, MANY DIFFERENT YEAR 11s"

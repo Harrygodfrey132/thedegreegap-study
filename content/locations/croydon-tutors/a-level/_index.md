@@ -1,11 +1,11 @@
 ---
 title: "Croydon A-Level Tuition | From £37/hr | The Degree Gap"
-description: "Employers in the town centre and universities up the line both read your child's predicted grades. Croydon A-Level tutors work to the earlier date. From £37."
+description: "Employers in the town centre and universities up the line both read predicted grades. Online A-Level tutors for Croydon students work to that date. From £37."
 layout: "subject"
 location: "Croydon"
 level: "A-Level"
 
-hero_heading_line1: "Online Croydon A-Level Tutors for the Predicted Grades Universities and Employers Both Read"
+hero_heading_line1: "A-Level Tutoring for Croydon Students Before the Predicted Grades Go Out"
 hero_heading_line2: ""
 hero_lead: "University, or one of the apprenticeship schemes in Croydon town centre? Both will read your child's Year 12 grades, and the apprenticeship deadlines often come first. Our A-Level tutors for Croydon students work one-to-one online towards whichever date matters most."
 

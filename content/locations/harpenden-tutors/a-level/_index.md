@@ -1,11 +1,11 @@
 ---
-title: "Harpenden A-Level Tutors | Online One-to-One | The Degree Gap"
+title: "Harpenden A-Level Tutors | One-to-One | The Degree Gap"
 description: "The grade UCAS sees is mostly built in Year 12. Our Harpenden A-Level tutors help your child make that year count, one-to-one and online, from £37 an hour."
 layout: "subject"
 location: "Harpenden"
 level: "A-Level"
 
-hero_heading_line1: "Online Harpenden A-Level Tutors, Because the Grade UCAS Sees Is Built in Year 12"
+hero_heading_line1: "A-Level Tutors for Harpenden Students, Because the Grade UCAS Sees Is Built in Year 12"
 hero_heading_line2: ""
 hero_lead: "It catches a lot of parents out: the grade that goes to UCAS is mostly decided in Year 12, months before anyone sits a real exam. Our A-Level tutors for Harpenden students work to that calendar with your child, not just the exam one."
 

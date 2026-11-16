@@ -7,7 +7,7 @@ location: "Plymouth"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths tutoring for Plymouth: marks lost on the non-calculator paper"
+hero_h1: "GCSE Maths tutoring for Plymouth: marks lost on the non-calculator paper"
 hero_lead: "Paper 1 comes without a calculator, and that is where most of the quiet damage gets done. Our GCSE Maths tutors for Plymouth students find the arithmetic and algebra underneath the lost marks and drill it, one-to-one online over Lessonspace."
 
 angle_eyebrow: "THE PAPER WITHOUT THE CALCULATOR"

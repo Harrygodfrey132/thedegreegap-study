@@ -7,7 +7,7 @@ location: "Clapham"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Clapham Students Losing Marks on Their Own Writing"
+hero_h1: "GCSE English Tutors for Clapham Students Losing Marks on Their Own Writing"
 hero_lead: "On AQA and Edexcel, half the marks in GCSE English Language come from writing your child produces from scratch. Our GCSE English tutors for Clapham students work on planning it and getting it accurate, alongside the Literature texts."
 
 angle_eyebrow: "HALF THE PAPER IS THEIR OWN WRITING"

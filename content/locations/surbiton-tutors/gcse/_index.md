@@ -5,7 +5,7 @@ layout: "subject"
 location: "Surbiton"
 level: "GCSE"
 
-hero_heading_line1: "Online Surbiton GCSE Tutors for the One Grade Your Child's Next Course Reads First"
+hero_heading_line1: "GCSE Tutors for Surbiton Students and the One Grade Their Next Course Reads First"
 hero_heading_line2: ""
 hero_lead: "At sixteen, plenty of courses look past the overall results to one subject, like Maths for a science A-Level or English for Economics. Our GCSE tutors for Surbiton students find out which grade your child's next step leans on and spend the lessons there."
 

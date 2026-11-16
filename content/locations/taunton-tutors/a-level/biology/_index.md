@@ -7,7 +7,7 @@ location: "Taunton"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Taunton Students Thrown by Questions on Unfamiliar Examples"
+hero_h1: "A-Level Biology Tutors for Taunton Students Thrown by Questions on Unfamiliar Examples"
 hero_lead: "Your child has learnt the topic, then the paper sets it in an organism or experiment they've never heard of and the answer goes vague. Our A-Level Biology tutors for Taunton students practise exactly those questions until unfamiliar stops feeling impossible."
 
 angle_eyebrow: "AN ORGANISM YOUR CHILD HAS NEVER MET"

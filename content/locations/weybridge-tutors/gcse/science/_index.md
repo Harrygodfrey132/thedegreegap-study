@@ -7,7 +7,7 @@ location: "Weybridge"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "Online Weybridge GCSE Science Tutors, for When Your Child Needs a 6-6, Not Just a Pass"
+hero_h1: "GCSE Science Tutors for Weybridge Students Who Need a 6-6, Not Just a Pass"
 hero_lead: "If your child's on combined Science, the grade comes as two numbers, like 5-5, and an A-Level in Biology, Chemistry or Physics usually needs both to be strong. Our GCSE Science tutors for Weybridge students look at each science separately, online and one-to-one, to find the one holding it down."
 
 angle_eyebrow: "BOTH HALVES OF THE DOUBLE GRADE"

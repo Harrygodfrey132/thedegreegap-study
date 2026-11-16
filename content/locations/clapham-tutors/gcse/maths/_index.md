@@ -7,7 +7,7 @@ location: "Clapham"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths Tutoring for Clapham Students Stuck at the Back of the Paper"
+hero_h1: "GCSE Maths Tutoring for Clapham Students Stuck at the Back of the Paper"
 hero_lead: "The first half of the paper goes fine, then the questions stop saying which topic they're testing and the marks drain away. Our GCSE Maths tutors for Clapham students work on exactly those questions, one-to-one and online."
 
 angle_eyebrow: "THE LAST THIRD OF THE PAPER"

@@ -1,5 +1,5 @@
 ---
-title: "Portsmouth A-Level Biology Tutors | Online | The Degree Gap"
+title: "Portsmouth A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
 description: "When nerve impulses or the kidney stop making sense, Portsmouth A-Level Biology tutors rebuild them online, one-to-one and step by step. From £37 an hour."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Portsmouth"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Portsmouth and South Hampshire"
+hero_h1: "A-Level Biology Tutors for Portsmouth and South Hampshire"
 hero_lead: "Has Biology gone quiet at home since nerve impulses came up? That's common, and it isn't a sign your child can't do it. Our A-Level Biology tutors for Portsmouth students go back to where it stopped making sense and rebuild it, one stage at a time."
 
 angle_eyebrow: "WHEN THE NERVES TOPIC ARRIVES"

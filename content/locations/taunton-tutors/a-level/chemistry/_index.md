@@ -7,7 +7,7 @@ location: "Taunton"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutors for Taunton Students Stuck on Synthesis and Spectra"
+hero_h1: "A-Level Chemistry Tutors for Taunton Students Stuck on Synthesis and Spectra"
 hero_lead: "Your child can name the reactions, then a question asks for a three-step route to a new compound, or for a spectrum to be read, and everything stalls. Our A-Level Chemistry tutors for Taunton students build those links one reaction at a time."
 
 angle_eyebrow: "A WHOLE PAPER ON SYNTHESIS"

@@ -1,11 +1,11 @@
 ---
-title: "GCSE Tutors for Your Child in Taunton | Online One-to-One | The Degree Gap"
+title: "GCSE Tutors for Your Child in Taunton | One-to-One | The Degree Gap"
 description: "Is your child picking college courses before their GCSE grades exist? We match Taunton students with an online GCSE tutor on their board. From £37, no contract."
 layout: "subject"
 location: "Taunton"
 level: "GCSE"
 
-hero_heading_line1: "Online GCSE Tutors for Taunton Year 11s Picking Courses Before the Grades Arrive"
+hero_heading_line1: "GCSE Tutors for Taunton Year 11s Picking Courses Before the Grades Arrive"
 hero_heading_line2: ""
 hero_lead: "By the autumn of Year 11, your child may be choosing next year's courses with only predictions to go on, while the course pages spell out the grades they'll need in August. Our GCSE tutors for Taunton students find the subject furthest from its grade and start there."
 

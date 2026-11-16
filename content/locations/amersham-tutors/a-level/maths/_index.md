@@ -7,7 +7,7 @@ location: "Amersham"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors in Amersham Who Fix the Algebra Under the Calculus"
+hero_h1: "A-Level Maths Tutoring for Amersham Students That Fixes the Algebra Under the Calculus"
 hero_lead: "If your child's calculus keeps going wrong, it's usually an old GCSE algebra slip turning up somewhere new. Our A-Level Maths tutors for Amersham students sort out that algebra first, one-to-one online, then build the calculus and statistics back on top."
 
 angle_eyebrow: "THE ALGEBRA HAD A GAP ALL ALONG"

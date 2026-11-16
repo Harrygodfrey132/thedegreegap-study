@@ -1,5 +1,5 @@
 ---
-title: "Leicester GCSE Maths Tutors | Online | The Degree Gap"
+title: "Leicester GCSE Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Leicester GCSE Maths tutoring, online and one-to-one, for children aiming past the minimum grade the busiest sixth forms ask for. From £37, no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Leicester"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online Leicester GCSE Maths Tutors, Beyond the Minimum Grade"
+hero_h1: "GCSE Maths Tutors for Leicester Students, Beyond the Minimum Grade"
 hero_lead: "You've checked, and your child is on course for the college's Maths grade. It still doesn't feel like enough. At Leicester's busiest colleges, lots of other applicants will have that grade too. Our GCSE Maths tutors for Leicester students work online on the marks above it."
 
 angle_eyebrow: "WHY THE PUBLISHED MATHS GRADE IS ONLY A STARTING LINE"

@@ -7,7 +7,7 @@ location: "Salford"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutors for Salford Students Who Know It but Can't Link It"
+hero_h1: "A-Level Biology Tutors for Salford Students Who Know It but Can't Link It"
 hero_lead: "Your child can recite the Krebs cycle, then a question asks how it connects to something from Year 12 and the answer falls apart. Our A-Level Biology tutors for Salford students teach your child to join topics up, which is where many of the hardest marks sit."
 
 angle_eyebrow: "THE QUESTIONS THAT JOIN TOPICS UP"

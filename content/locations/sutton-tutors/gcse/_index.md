@@ -5,7 +5,7 @@ layout: "subject"
 location: "Sutton"
 level: "GCSE"
 
-hero_heading_line1: "Online Sutton GCSE Tutors Who Get a Stalled Grade Moving Before Sixth Form"
+hero_heading_line1: "GCSE Tutoring for Sutton Students That Gets a Stalled Grade Moving Before Sixth Form"
 hero_heading_line2: ""
 hero_lead: "Somewhere in Year 11, mock grades turn into the predicted grades a sixth form reads. Our GCSE tutors for Sutton students work back from whichever paper's losing your child the marks, so the number on the form is one they can actually hit."
 

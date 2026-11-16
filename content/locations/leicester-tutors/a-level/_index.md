@@ -4,7 +4,7 @@ description: "Leicester A-Level tutors who take your child's answers through the
 layout: "subject"
 location: "Leicester"
 level: "A-Level"
-hero_heading_line1: "Online Leicester A-Level Tutors for Marks That Don't Match What Your Child Knows"
+hero_heading_line1: "A-Level Tutors for Leicester Students Whose Marks Don't Match What They Know"
 hero_heading_line2: ""
 hero_lead: "Over dinner, your child can talk you through the whole topic. Then the test comes back a D, and it's hard to see why. Our A-Level tutors for Leicester students find where the credit slipped and show your child how the mark scheme wants it written."
 grade_from: "C"

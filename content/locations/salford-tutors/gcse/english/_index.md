@@ -7,7 +7,7 @@ location: "Salford"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Salford Teenagers Stuck on the Writing Question"
+hero_h1: "GCSE English Tutors for Salford Teenagers Stuck on the Writing Question"
 hero_lead: "Your child can talk for ten minutes about a film they loved, then sits in front of the writing question with the clock running and nothing on the page. Our GCSE English tutors for Salford students teach a five-minute plan that gets the first paragraph down, then work on what makes the rest earn marks."
 
 angle_eyebrow: "THE GRADE EVERY COURSE ASKS ABOUT"

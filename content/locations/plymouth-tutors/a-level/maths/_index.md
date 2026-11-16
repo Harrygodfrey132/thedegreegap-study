@@ -7,7 +7,7 @@ location: "Plymouth"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths tutors for Plymouth, matched on the board and the Mechanics paper"
+hero_h1: "A-Level Maths tutors for Plymouth, matched on the board and the Mechanics paper"
 hero_lead: "Pure is the part students expect. Mechanics and Statistics are where the marks quietly go, and the boards divide them differently. Our A-Level Maths tutors for Plymouth students are matched on the specification and then on the strand doing the damage, one-to-one online over Lessonspace."
 
 angle_eyebrow: "PURE IS NOT THE WHOLE COURSE"

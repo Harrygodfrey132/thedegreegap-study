@@ -5,7 +5,7 @@ layout: "subject"
 location: "Dulwich"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Dulwich Students Whose Answers Explain but Don't Evaluate"
+hero_heading_line1: "A-Level Tutors for Dulwich Students Whose Answers Explain but Don't Evaluate"
 hero_heading_line2: ""
 hero_lead: "Your child can talk through a topic at the kitchen table, then the marked essay comes back saying 'more evaluation needed'. Our A-Level tutors for Dulwich students work on the weighing-up the mark scheme pays for, not just the knowing."
 

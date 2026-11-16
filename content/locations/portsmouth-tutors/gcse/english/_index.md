@@ -1,13 +1,13 @@
 ---
-title: "Portsmouth GCSE English Tutors | Online | The Degree Gap"
+title: "Portsmouth GCSE English Tutors | The Degree Gap"
 nav_title: "English"
-description: "Plenty of teenagers talk about a text brilliantly, then lose marks writing it down. Our Portsmouth GCSE English tutors help close that gap. From £37 an hour."
+description: "Plenty of teenagers talk about a text brilliantly, then lose marks writing it down. Our online GCSE English tutors help Portsmouth students close the gap."
 layout: "level-subject"
 location: "Portsmouth"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors Covering Portsmouth and Southsea"
+hero_h1: "GCSE English Tutors for Portsmouth and Southsea Students"
 hero_lead: "In the car home, your child can take a character apart for ten minutes without stopping. Then the essay on that same character comes back a band lower than you'd expect. Our GCSE English tutors for Portsmouth students work on the bit in between: getting it onto the page."
 
 angle_eyebrow: "SHARP OUT LOUD, QUIETER ON THE PAGE"

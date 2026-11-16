@@ -1,5 +1,5 @@
 ---
-title: "Aldershot A-Level Biology Tutors | Online | The Degree Gap"
+title: "Aldershot A-Level Biology Tutors | The Degree Gap"
 nav_title: "Biology"
 description: "Has your child changed school partway through A-Level Biology? Online tutors for Aldershot families find the gaps it left. From £37 an hour, no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Aldershot"
 level: "A-Level"
 subject: "Biology"
 
-hero_h1: "Online A-Level Biology Tutoring for Aldershot Families"
+hero_h1: "A-Level Biology Tutoring for Aldershot Families"
 hero_lead: "A move between schools partway through A-Level Biology tends to leave your child with a few topics that slipped through the cracks. Our A-Level Biology tutors for Aldershot students find them first, then work on the diversity calculations that punish a missed fortnight."
 
 angle_eyebrow: "THE FORTNIGHT THAT FELL BETWEEN SCHOOLS"

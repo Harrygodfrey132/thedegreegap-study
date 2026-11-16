@@ -7,7 +7,7 @@ location: "Slough"
 level: "GCSE"
 subject: "Maths"
 
-hero_h1: "Online GCSE Maths tutors for Slough, built around the GCSE paper, not the 11+"
+hero_h1: "GCSE Maths tutors for Slough, built around the GCSE paper, not the 11+"
 hero_lead: "If your child sat the 11+, that result might still be colouring how they feel about Maths, five years on. Our GCSE Maths tutors for Slough students work one-to-one online on the paper in front of your child now, whichever tier it is."
 
 angle_eyebrow: "A VERDICT REACHED AT TEN"

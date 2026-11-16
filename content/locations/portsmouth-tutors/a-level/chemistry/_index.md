@@ -1,5 +1,5 @@
 ---
-title: "Portsmouth A-Level Chemistry Tutors | Online | The Degree Gap"
+title: "Portsmouth A-Level Chemistry Tutors | The Degree Gap"
 nav_title: "Chemistry"
 description: "A-Level Chemistry tutors for Portsmouth families, online and one-to-one. Help with redox, oxidation numbers and half-equations. From £37 an hour, no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Portsmouth"
 level: "A-Level"
 subject: "Chemistry"
 
-hero_h1: "Online A-Level Chemistry Tutoring for Portsmouth Sixth Formers"
+hero_h1: "A-Level Chemistry Tutoring for Portsmouth Sixth Formers"
 hero_lead: "If your child's Chemistry marks keep slipping in odd places, a titration here, a transition metal question there, the thread is often redox: electrons passing between substances. Our A-Level Chemistry tutors for Portsmouth students work on oxidation numbers and half-equations until balancing them stops being guesswork."
 
 angle_eyebrow: "THE SKILL THAT SHOWS UP EVERYWHERE"

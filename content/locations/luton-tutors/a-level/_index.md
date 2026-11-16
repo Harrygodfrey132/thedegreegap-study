@@ -1,11 +1,11 @@
 ---
 title: "Luton A-Level Tutors | Exam Board Matched | The Degree Gap"
-description: "Luton A-Level tutors for the jump into Year 12 and the predictions that follow it. One-to-one tuition matched on the specification, from £37 an hour."
+description: "A-Level tutors for Luton students facing the jump into Year 12 and the predictions after it. Live online lessons matched on the specification, from £37."
 layout: "subject"
 location: "Luton"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors Who Give Luton Students Room to Be Wrong Out Loud"
+hero_heading_line1: "A-Level Tutors Who Give Luton Students Room to Be Wrong Out Loud"
 hero_heading_line2: ""
 hero_lead: "Nobody wants to be the student asking what the method actually means in front of a large sixth form group. Our A-Level tutors for Luton students give an hour a week where asking costs nothing, online and one-to-one over Lessonspace."
 

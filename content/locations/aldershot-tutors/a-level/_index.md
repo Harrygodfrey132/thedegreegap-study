@@ -1,11 +1,11 @@
 ---
-title: "Aldershot A-Level Tutors | Online One-to-One | The Degree Gap"
+title: "Aldershot A-Level Tutors | One-to-One | The Degree Gap"
 description: "Is one A-Level already wobbling in Year 12? Aldershot A-Level tutors can steady it before predicted grades are set. Online and one-to-one, from £37 an hour."
 layout: "subject"
 location: "Aldershot"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors in Aldershot for the Year That Sets Predicted Grades"
+hero_heading_line1: "A-Level Tutors for Aldershot Students in the Year That Sets Predicted Grades"
 hero_lead: "Lots of teenagers treat Year 12 as a warm-up. But the predicted grades on your child's applications lean heavily on it. Aldershot A-Level tutors on our platform can pick up a shaky subject now, while there's time to move it."
 
 grade_from: "C"

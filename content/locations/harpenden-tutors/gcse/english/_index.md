@@ -1,5 +1,5 @@
 ---
-title: "Harpenden GCSE English Tutors | Online | The Degree Gap"
+title: "Harpenden GCSE English Tutors | The Degree Gap"
 nav_title: "English"
 description: "Sensible quotations, vague analysis, a grade that won't move? Harpenden GCSE English tutoring online, on saying what each word does. From £37, no contract."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Harpenden"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutoring in Harpenden When the Essays Stay Vague"
+hero_h1: "GCSE English Tutoring in Harpenden When the Essays Stay Vague"
 hero_lead: "The teacher's comment says 'explain the effect', and your child honestly thought they had. Our GCSE English tutors for Harpenden students work online on the missing step: saying exactly what one word is doing, the way the mark scheme rewards."
 
 angle_eyebrow: "SAYING WHAT IT ACTUALLY DOES"

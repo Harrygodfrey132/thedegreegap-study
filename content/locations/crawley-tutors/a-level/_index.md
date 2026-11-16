@@ -5,7 +5,7 @@ layout: "subject"
 location: "Crawley"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Crawley Students Whose Year 12 Marks Have Started Slipping"
+hero_heading_line1: "A-Level Tutors for Crawley Students Whose Year 12 Marks Have Started Slipping"
 hero_heading_line2: ""
 hero_lead: "Did the first Year 12 assessments come back lower than your child's GCSEs suggested? Our online A-Level tutors work with Crawley sixth formers on the topics losing marks, while most of the course is still ahead of them."
 

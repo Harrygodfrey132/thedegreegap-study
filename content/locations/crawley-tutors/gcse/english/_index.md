@@ -7,7 +7,7 @@ location: "Crawley"
 level: "GCSE"
 subject: "English"
 
-hero_h1: "Online GCSE English Tutors for Crawley Students, for the Writing Questions Too"
+hero_h1: "GCSE English Tutors for Crawley Students, for the Writing Questions Too"
 hero_lead: "Most English Language revision goes on the reading questions, yet on AQA's papers the writing tasks carry half the marks. We match Crawley students with online GCSE English tutors who help them plan and write a piece that earns those marks."
 
 angle_eyebrow: "THE QUESTION LEFT TO LAST"

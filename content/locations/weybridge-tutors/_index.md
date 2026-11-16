@@ -1,9 +1,9 @@
 ---
 title: "Weybridge Tutors for GCSE & A-Level | The Degree Gap"
-description: "Heathside, Esher or Brooklands after Year 11? Our Weybridge tutors help your child get the grades their route asks for. A free call first, lessons from £37."
+description: "Heathside, Esher or Brooklands after Year 11? Our online tutors help Weybridge students get the grades their route asks for. A free call first, from £37."
 layout: "single"
 location: "Weybridge"
-banner_heading: "Online Weybridge tutors for the big choice at sixteen: stay on, or move?"
+banner_heading: "Tutors for Weybridge families facing the big choice at sixteen: stay on, or move?"
 banner_description: "Staying on at Heathside, heading to Esher or starting a technical course at Brooklands: each one asks for different grades. Our tutors for Weybridge families work with your child one-to-one, online, on the subject that decides which door stays open."
 content_angle: "the stay-or-move decision at sixteen, and the grades each route asks for"
 intro_1: "Ask a Weybridge parent what's on their mind and the answer's often a place, not a grade. Heathside. Esher. St George's. Brooklands. Elmbridge only has a handful of school sixth forms, so for lots of families here the end of Year 11 is a real fork in the road. Your child might stay on at Heathside Weybridge Sixth Form, which sets its own grade for each subject. They might travel over to Esher Sixth Form College in Thames Ditton, one of the biggest sixth form colleges in the county. Or they might go for a T Level at Brooklands Technical College, right next door to Heathside. And each of those doors opens on different grades."

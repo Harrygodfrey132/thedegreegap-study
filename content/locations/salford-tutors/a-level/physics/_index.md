@@ -7,7 +7,7 @@ location: "Salford"
 level: "A-Level"
 subject: "Physics"
 
-hero_h1: "Online A-Level Physics Tutors for Salford Students Stuck Between the Idea and the Equation"
+hero_h1: "A-Level Physics Tutors for Salford Students Stuck Between the Idea and the Equation"
 hero_lead: "Your child follows the Physics in class, then a fields question needs three equations combined and the page fills with crossings-out. Our A-Level Physics tutors for Salford students work on turning an idea into a method, one written step at a time."
 
 angle_eyebrow: "TWELVE PRACTICALS AND A LOT OF ALGEBRA"

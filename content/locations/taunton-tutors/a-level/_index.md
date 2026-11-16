@@ -5,7 +5,7 @@ layout: "subject"
 location: "Taunton"
 level: "A-Level"
 
-hero_heading_line1: "Online A-Level Tutors for Taunton Students Who Know It but Run Out of Time"
+hero_heading_line1: "A-Level Tutors for Taunton Students Who Know It but Run Out of Time"
 hero_heading_line2: ""
 hero_lead: "Your child can explain the topic perfectly well at the kitchen table, then leaves the last question blank because two hours ran out. Our A-Level tutors for Taunton sixth formers practise the papers against the clock until timing stops costing marks."
 

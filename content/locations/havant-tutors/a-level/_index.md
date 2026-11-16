@@ -1,11 +1,11 @@
 ---
-title: "Havant A-Level Tutors | Online One-to-One | The Degree Gap"
+title: "Havant A-Level Tutors | One-to-One | The Degree Gap"
 description: "A-Level tutoring in Havant for Year 12s finding the step up from GCSE hard. Online and one-to-one from £37 an hour, with a free call first and no contract."
 layout: "subject"
 location: "Havant"
 level: "A-Level"
 
-hero_heading_line1: "Online Havant A-Level Tutors for the Big Step Up From GCSE"
+hero_heading_line1: "A-Level Tutors for Havant Students Taking the Big Step Up From GCSE"
 hero_lead: "A D on the first Year 12 essay, after GCSEs that went well. If your child's wondering whether they're cut out for A-Levels, they're far from the only one. Havant A-Level tutors can show them what the new exams are looking for."
 
 grade_from: "C"

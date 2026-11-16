@@ -1,5 +1,5 @@
 ---
-title: "Havant A-Level Maths Tutors | Online | The Degree Gap"
+title: "Havant A-Level Maths Tutors | The Degree Gap"
 nav_title: "Maths"
 description: "Last questions blank on your child's A-Level Maths paper? Often it's time, not ability. Our Havant A-Level Maths tutors work on pacing, online and one-to-one."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Havant"
 level: "A-Level"
 subject: "Maths"
 
-hero_h1: "Online A-Level Maths Tutors for Havant Teenagers Who Run Out of Time"
+hero_h1: "A-Level Maths Tutors for Havant Teenagers Who Run Out of Time"
 hero_lead: "A mock with the last few questions left blank often says more about time than ability. And they're often the ones worth the most marks. Our A-Level Maths tutors for Havant students work on pacing as much as method."
 
 angle_eyebrow: "THE MARKS AT THE BACK OF THE PAPER"

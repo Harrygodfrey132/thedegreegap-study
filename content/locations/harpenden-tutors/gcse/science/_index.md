@@ -1,5 +1,5 @@
 ---
-title: "Harpenden GCSE Science Tutors | Online | The Degree Gap"
+title: "Harpenden GCSE Science Tutors | The Degree Gap"
 nav_title: "Science"
 description: "Science fine until Year 10, then suddenly much harder? Our Harpenden GCSE Science tutors help your child with the step up, online and one-to-one. From £37."
 layout: "level-subject"
@@ -7,7 +7,7 @@ location: "Harpenden"
 level: "GCSE"
 subject: "Science"
 
-hero_h1: "When GCSE Science Suddenly Gets Harder: Online Tutors for Harpenden Families"
+hero_h1: "When GCSE Science Suddenly Gets Harder: Tutors for Harpenden Families"
 hero_lead: "Science used to be fine. Now the marks are slipping, and your child can't tell you why. Lots of children hit this, because the course gets harder in a step, not a slope. Our GCSE Science tutors for Harpenden students teach the topics that come after it, one-to-one and online."
 
 angle_eyebrow: "THE STEP HALFWAY THROUGH"
