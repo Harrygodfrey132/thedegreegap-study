@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Aldershot Families"
-hero_lead: "After a move, your child can walk into an English class that's halfway through a play they've never read, with poems they've never met. Our Aldershot GCSE English tutors help them catch up on the books they'll be examined on."
+hero_lead: "After a move, your child can walk into an English class that's halfway through a play they've never read, with poems they've never met. Our GCSE English tutors for Aldershot students help them catch up on the books they'll be examined on."
 
 angle_eyebrow: "NEW SCHOOL, DIFFERENT BOOKS"
 angle_heading: "When Your Child Joins an Aldershot School Partway Through GCSE English"

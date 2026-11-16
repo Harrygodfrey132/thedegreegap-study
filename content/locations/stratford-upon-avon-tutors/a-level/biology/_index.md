@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Stratford-upon-Avon and Alcester Families"
-hero_lead: "Your child did the experiment in class, so why can't they answer the exam question on it? It's really common. Our Stratford-upon-Avon A-Level Biology tutors work on the practical questions, starting with the potometer: what it really measures and how to control the variables."
+hero_lead: "Your child did the experiment in class, so why can't they answer the exam question on it? It's really common. Our A-Level Biology tutors for Stratford-upon-Avon students work on the practical questions, starting with the potometer: what it really measures and how to control the variables."
 
 angle_eyebrow: "WHAT THE APPARATUS ACTUALLY MEASURES"
 angle_heading: "The Practical Question Your Child Thinks They Already Know"

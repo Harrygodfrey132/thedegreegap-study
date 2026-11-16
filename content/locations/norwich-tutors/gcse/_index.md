@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Norwich GCSE Tutors For the Gaps That Opened Long Before Year 11"
 hero_heading_line2: ""
-hero_lead: "When your child's mock grade comes home lower than you expected, the cause is often a couple of years old. Our Norwich GCSE tutors work back to the topic that never landed, then forward from there, rather than just revising whatever the class is on this week."
+hero_lead: "When your child's mock grade comes home lower than you expected, the cause is often a couple of years old. Our GCSE tutors for Norwich students work back to the topic that never landed, then forward from there, rather than just revising whatever the class is on this week."
 
 grade_from: "5"
 grade_to: "6/7"

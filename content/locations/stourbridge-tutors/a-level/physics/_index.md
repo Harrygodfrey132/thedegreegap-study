@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Physics"
 
 hero_h1: "Online A-Level Physics Tutors for Stourbridge Students Who Can Do the Sums but Not the Explanations"
-hero_lead: "Your child gets the calculations right, then loses marks on every question that starts 'explain why'. Our Stourbridge A-Level Physics tutors teach them to write the chain of reasoning a mark scheme looks for, and to handle the practical questions on uncertainties."
+hero_lead: "Your child gets the calculations right, then loses marks on every question that starts 'explain why'. Our A-Level Physics tutors for Stourbridge students teach them to write the chain of reasoning a mark scheme looks for, and to handle the practical questions on uncertainties."
 
 angle_eyebrow: "RIGHT ANSWER, MISSING REASONS"
 angle_heading: "Why Stourbridge Sixth Formers Drop Physics Marks They Should Be Getting"

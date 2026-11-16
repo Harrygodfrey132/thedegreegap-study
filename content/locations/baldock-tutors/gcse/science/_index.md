@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Baldock Families"
-hero_lead: "Your child can write three correct things in a Science answer and still come away with two marks out of six. Our Baldock GCSE Science tutors work online on those longer answers, because that's where marks slip away without anyone noticing."
+hero_lead: "Your child can write three correct things in a Science answer and still come away with two marks out of six. Our GCSE Science tutors for Baldock students work online on those longer answers, because that's where marks slip away without anyone noticing."
 
 angle_eyebrow: "THREE RIGHT THINGS, TWO MARKS"
 angle_heading: "Why Good Science Answers Can Still Score Two Out of Six"

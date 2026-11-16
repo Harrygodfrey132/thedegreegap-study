@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Camberley A-Level Tutors for a New Sixth Form and a Faster Pace"
 hero_heading_line2: ""
-hero_lead: "Year 12 often means new teachers and, for lots of Camberley teenagers, a new building too. Then the first marks arrive before anyone's settled. Our Camberley A-Level tutors pick up whichever subject is slipping, one-to-one and online, while there's still plenty of Year 12 left."
+hero_lead: "Year 12 often means new teachers and, for lots of Camberley teenagers, a new building too. Then the first marks arrive before anyone's settled. Our A-Level tutors for Camberley students pick up whichever subject is slipping, one-to-one and online, while there's still plenty of Year 12 left."
 
 grade_from: "E"
 grade_to: "C"

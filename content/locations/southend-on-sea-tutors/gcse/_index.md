@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online GCSE Tutors for the Southend-on-Sea Year 11 Who Went Quiet After Mocks"
 hero_heading_line2: ""
-hero_lead: "The effort is going in and the grade has not moved since Year 10. Our Southend-on-Sea GCSE tutors work one-to-one and online over Lessonspace, reading the marked paper first, then spending the term where the marks are actually leaking."
+hero_lead: "The effort is going in and the grade has not moved since Year 10. Our GCSE tutors for Southend-on-Sea students work one-to-one and online over Lessonspace, reading the marked paper first, then spending the term where the marks are actually leaking."
 
 grade_from: "E"
 grade_to: "B"

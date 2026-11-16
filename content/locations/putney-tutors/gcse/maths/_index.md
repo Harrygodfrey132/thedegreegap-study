@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Putney Students on International GCSE or GCSE Papers"
-hero_lead: "If another family has recommended their Maths tutor, ask first whether they know your child's exam, because Putney children sit two quite different versions. Our Putney GCSE Maths tutors work from your child's own papers, calculator rules and all."
+hero_lead: "If another family has recommended their Maths tutor, ask first whether they know your child's exam, because Putney children sit two quite different versions. Our GCSE Maths tutors for Putney students work from your child's own papers, calculator rules and all."
 
 angle_eyebrow: "TWO EXAMS, ONE SUBJECT"
 angle_heading: "Why Two Putney Teenagers Can Sit Quite Different GCSE Maths Exams"

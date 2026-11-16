@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Wigan GCSE Tutors Who Rebuild the Topic That's Stopped Clicking for Your Child"
 hero_heading_line2: ""
-hero_lead: "Shorter homework, vaguer answers, and no clear reason why. If that's what you've been seeing at home, you're far from the only parent in Wigan. Our Wigan GCSE tutors spend an hour a week with your child, finding the gap a busy class had to move past."
+hero_lead: "Shorter homework, vaguer answers, and no clear reason why. If that's what you've been seeing at home, you're far from the only parent in Wigan. Our GCSE tutors for Wigan students spend an hour a week with your child, finding the gap a busy class had to move past."
 
 grade_from: "E"
 grade_to: "B"

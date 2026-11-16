@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Loughborough GCSE Science Tutors, One-to-One and Online"
-hero_lead: "If the Physics homework is always the one left until Sunday night, you're far from the only parent noticing. Our Loughborough GCSE Science tutors find out why Physics keeps getting put off, and give your child the steady practice it needs."
+hero_lead: "If the Physics homework is always the one left until Sunday night, you're far from the only parent noticing. Our GCSE Science tutors for Loughborough students find out why Physics keeps getting put off, and give your child the steady practice it needs."
 
 angle_eyebrow: "WHEN PHYSICS KEEPS GETTING PUT OFF"
 angle_heading: "Physics Needs Doing, Not Reading, Which Is Why It Gets Left Till Last"

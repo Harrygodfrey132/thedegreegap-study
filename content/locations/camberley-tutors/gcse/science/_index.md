@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Camberley Teenagers"
-hero_lead: "The school report says 6-5 in combined Science, which sounds fine until a sixth form guide lists 6-6 for A-Level Physics. Our Camberley GCSE Science tutors work out which of the three sciences is costing the marks, and start there."
+hero_lead: "The school report says 6-5 in combined Science, which sounds fine until a sixth form guide lists 6-6 for A-Level Physics. Our GCSE Science tutors for Camberley students work out which of the three sciences is costing the marks, and start there."
 
 angle_eyebrow: "WHAT 6-5 MEANS AT 16"
 angle_heading: "How a Sixth Form Reads Your Child's Science Grades"

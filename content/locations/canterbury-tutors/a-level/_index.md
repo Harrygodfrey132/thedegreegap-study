@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Canterbury A-Level Tutors for the Year 13 Who's Short of Their Offer"
 hero_heading_line2: ""
-hero_lead: "The offer's in, and then the Year 13 mock comes back a grade or so below what it asks for. Our Canterbury A-Level tutors find where the marks are going, missing content or running out of time, and work on it one-to-one online before the summer exams."
+hero_lead: "The offer's in, and then the Year 13 mock comes back a grade or so below what it asks for. Our A-Level tutors for Canterbury students find where the marks are going, missing content or running out of time, and work on it one-to-one online before the summer exams."
 
 grade_from: "E"
 grade_to: "C"

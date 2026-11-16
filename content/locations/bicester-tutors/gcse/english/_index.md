@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors Covering Bicester"
-hero_lead: "Change schools in Year 10 and your child might walk into a class halfway through a Shakespeare play they've never read. Our Bicester GCSE English tutors get them up to speed on the new set texts, and keep the Language papers ticking over too."
+hero_lead: "Change schools in Year 10 and your child might walk into a class halfway through a Shakespeare play they've never read. Our GCSE English tutors for Bicester students get them up to speed on the new set texts, and keep the Language papers ticking over too."
 
 angle_eyebrow: "DIFFERENT SCHOOL, DIFFERENT BOOKS"
 angle_heading: "Why Set Texts Are the First Thing a Bicester English Tutor Asks About"

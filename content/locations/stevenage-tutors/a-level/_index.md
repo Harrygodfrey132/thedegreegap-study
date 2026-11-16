@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Stevenage A-Level Tutors for the Grades a University or Apprenticeship Asks For"
 hero_heading_line2: ""
-hero_lead: "Your child might be set on university, or on a degree apprenticeship with one of the big employers in town. Either way it comes down to A-Level grades, and our Stevenage A-Level tutors work towards whichever one they're aiming at."
+hero_lead: "Your child might be set on university, or on a degree apprenticeship with one of the big employers in town. Either way it comes down to A-Level grades, and our A-Level tutors for Stevenage students work towards whichever one they're aiming at."
 
 grade_from: "D"
 grade_to: "B"

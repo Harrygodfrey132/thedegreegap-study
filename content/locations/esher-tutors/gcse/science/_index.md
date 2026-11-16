@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Combined and Triple, Covering Esher"
-hero_lead: "A-Level Biology at Thames Ditton and a T Level in Health at Brooklands both start from the GCSE Science grade. Our Esher GCSE Science tutors work out which science, and which kind of question, is pulling things down, then spend the lessons there, one-to-one online."
+hero_lead: "A-Level Biology at Thames Ditton and a T Level in Health at Brooklands both start from the GCSE Science grade. Our GCSE Science tutors for Esher students work out which science, and which kind of question, is pulling things down, then spend the lessons there, one-to-one online."
 
 card_eyebrow: "FREE CONSULTATION"
 card_heading: "Which science is costing your child marks?"

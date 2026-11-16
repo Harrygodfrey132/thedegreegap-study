@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Southampton Families Facing Year 13"
-hero_lead: "Your child got through Year 12 Maths fine. Now the Year 13 questions don't say which method they want, and the marks are slipping. Our Southampton A-Level Maths tutors help your child work out what a question needs before they start writing."
+hero_lead: "Your child got through Year 12 Maths fine. Now the Year 13 questions don't say which method they want, and the marks are slipping. Our A-Level Maths tutors for Southampton students help your child work out what a question needs before they start writing."
 
 angle_eyebrow: "WHERE YEAR 13 MATHS GETS HARDER"
 angle_heading: "Why the Second Year of A-Level Maths Feels So Different"

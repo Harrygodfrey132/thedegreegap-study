@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Wilmslow A-Level Tutors for When Year 12 Suddenly Feels Much Harder"
 hero_heading_line2: ""
-hero_lead: "Has Year 12 knocked your child's confidence after a perfectly good set of GCSEs? Lots of families find the same thing in the autumn term. Our Wilmslow A-Level tutors work one-to-one online on the step up, before the Year 12 exams that feed predicted grades."
+hero_lead: "Has Year 12 knocked your child's confidence after a perfectly good set of GCSEs? Lots of families find the same thing in the autumn term. Our A-Level tutors for Wilmslow students work one-to-one online on the step up, before the Year 12 exams that feed predicted grades."
 
 grade_from: "C"
 grade_to: "A"

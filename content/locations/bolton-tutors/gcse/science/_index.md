@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for the Bolton Year 11 Whose Practicals Never Became Answers"
-hero_lead: "A required practical and the write-up of it are two different skills, and only the second one gets examined. Our Bolton GCSE Science tutors rebuild that second skill across all three sciences, one-to-one and online over Lessonspace."
+hero_lead: "A required practical and the write-up of it are two different skills, and only the second one gets examined. Our GCSE Science tutors for Bolton students rebuild that second skill across all three sciences, one-to-one and online over Lessonspace."
 
 angle_eyebrow: "THE PRACTICAL WAS THE EASY PART"
 angle_heading: "What the Longer Science Questions Want From a Practical"

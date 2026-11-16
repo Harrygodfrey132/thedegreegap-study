@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Solihull Families Stuck on Language"
-hero_lead: "Plenty of Solihull parents notice the same thing: a year of proper English revision, and only the Literature grade moved. Our Solihull GCSE English tutors work on your child's Language paper, where revising doesn't help much and weekly practice does."
+hero_lead: "Plenty of Solihull parents notice the same thing: a year of proper English revision, and only the Literature grade moved. Our GCSE English tutors for Solihull students work on your child's Language paper, where revising doesn't help much and weekly practice does."
 
 angle_eyebrow: "THE ENGLISH PAPER REVISION DOESN'T FIX"
 angle_heading: "Why the Language Grade Sits Still While Literature Moves"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Exeter Families"
-hero_lead: "Flashcards for one stage of photosynthesis, flashcards for the other, and your child's marks still don't come. Usually the exam is asking what passes between the stages. Our Exeter A-Level Biology tutors start right there."
+hero_lead: "Flashcards for one stage of photosynthesis, flashcards for the other, and your child's marks still don't come. Usually the exam is asking what passes between the stages. Our A-Level Biology tutors for Exeter students start right there."
 
 angle_eyebrow: "WHAT PASSES BETWEEN THE TWO STAGES"
 angle_heading: "Why Your Child Can Learn Photosynthesis and Still Lose the Marks"

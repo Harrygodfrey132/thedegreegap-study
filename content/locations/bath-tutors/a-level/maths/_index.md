@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Bath, When an Offer Hangs on the Maths Grade"
-hero_lead: "The offer your child's hoping for names the Maths grade, and the last mock came back a grade below it. Our Bath A-Level Maths tutors find the part of the course that's costing your child that grade, one-to-one and online."
+hero_lead: "The offer your child's hoping for names the Maths grade, and the last mock came back a grade below it. Our A-Level Maths tutors for Bath students find the part of the course that's costing your child that grade, one-to-one and online."
 
 angle_eyebrow: "THE GRADE THE OFFER SPELLS OUT"
 angle_heading: "Why the Missing Maths Marks Usually Sit in One Part of the Paper"

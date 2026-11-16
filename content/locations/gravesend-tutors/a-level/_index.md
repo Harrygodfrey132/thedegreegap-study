@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online A-Level Tutors for Gravesend Students Before the Year 12 Exams That Count"
 hero_heading_line2: ""
-hero_lead: "The exams at the end of Year 12 feed your child's predicted grades, and at some sixth forms they decide whether a subject carries on. Our Gravesend A-Level tutors work on the topics behind a weak first-year paper while there's still time to change it."
+hero_lead: "The exams at the end of Year 12 feed your child's predicted grades, and at some sixth forms they decide whether a subject carries on. Our A-Level tutors for Gravesend students work on the topics behind a weak first-year paper while there's still time to change it."
 
 grade_from: "E"
 grade_to: "B"

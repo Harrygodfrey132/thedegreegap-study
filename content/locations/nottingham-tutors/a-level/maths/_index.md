@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Nottingham Families, Matched by Exam Board"
-hero_lead: "Plenty of teenagers can do series questions in the textbook and then stall on a past paper. Usually that's because the exam runs them backwards. Our Nottingham A-Level Maths tutors work on sequences, sums to infinity and the problems built on them."
+hero_lead: "Plenty of teenagers can do series questions in the textbook and then stall on a past paper. Usually that's because the exam runs them backwards. Our A-Level Maths tutors for Nottingham students work on sequences, sums to infinity and the problems built on them."
 
 angle_eyebrow: "WORKING BACKWARDS FROM THE ANSWER"
 angle_heading: "When the Exam Asks Your Child to Work Backwards"

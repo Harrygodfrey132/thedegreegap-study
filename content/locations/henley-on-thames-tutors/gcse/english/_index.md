@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors Covering Henley-on-Thames"
-hero_lead: "Your child can be a keen reader and still run out of time before the writing task on the Language paper. Unseen extracts and quick planning are where our Henley-on-Thames GCSE English tutors usually begin, working with your child one-to-one online."
+hero_lead: "Your child can be a keen reader and still run out of time before the writing task on the Language paper. Unseen extracts and quick planning are where our GCSE English tutors for Henley-on-Thames students usually begin, working with your child one-to-one online."
 
 angle_eyebrow: "LANGUAGE, NOT LITERATURE, ON THE FORM"
 angle_heading: "The Language Paper Behind Your Henley Teenager's Next Step"

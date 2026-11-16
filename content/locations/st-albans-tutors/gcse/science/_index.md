@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online One-to-One GCSE Science Tutors for St Albans Families"
-hero_lead: "Two of the sciences look fine on the report, and the third keeps coming back a grade lower. It's really common with Triple Science, which packs three GCSEs into a busy timetable. Our St Albans GCSE Science tutors work on the one that's costing your child marks, not all three at once."
+hero_lead: "Two of the sciences look fine on the report, and the third keeps coming back a grade lower. It's really common with Triple Science, which packs three GCSEs into a busy timetable. Our GCSE Science tutors for St Albans students work on the one that's costing your child marks, not all three at once."
 
 angle_eyebrow: "WHERE THE SCIENCE MARKS REALLY ARE"
 angle_heading: "The Science questions your child's revision isn't reaching"

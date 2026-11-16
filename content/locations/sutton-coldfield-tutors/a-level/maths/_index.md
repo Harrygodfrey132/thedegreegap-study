@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors Supporting Sutton Coldfield Families"
-hero_lead: "When your child's Physics or Chemistry marks slip on the calculations, the real problem often sits in their Maths. Our Sutton Coldfield A-Level Maths tutors find that shared gap and work on it across Maths and the sciences together."
+hero_lead: "When your child's Physics or Chemistry marks slip on the calculations, the real problem often sits in their Maths. Our A-Level Maths tutors for Sutton Coldfield students find that shared gap and work on it across Maths and the sciences together."
 
 angle_eyebrow: "IT SHOWS UP IN THE OTHER SUBJECTS FIRST"
 angle_heading: "When Your Child's Maths Gap Shows Up in Physics First"

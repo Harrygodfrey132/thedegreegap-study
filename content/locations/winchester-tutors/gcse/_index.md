@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Winchester GCSE Tutors for a Predicted Grade Just Short of the Course"
 hero_heading_line2: ""
-hero_lead: "Sooner or later most Winchester parents end up reading the same college's course list, where each course spells out the grade it wants. Our Winchester GCSE tutors start from that number and work back to the questions your child is losing marks on."
+hero_lead: "Sooner or later most Winchester parents end up reading the same college's course list, where each course spells out the grade it wants. Our GCSE tutors for Winchester students start from that number and work back to the questions your child is losing marks on."
 
 grade_from: "5"
 grade_to: "6/7"

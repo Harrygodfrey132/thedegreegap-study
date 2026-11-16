@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors in Banbury, for Children Who Know More Than They Write"
-hero_lead: "Your child isn't short of ideas. They're short of words on the page, and the mark scheme can only reward what's written down. Our Banbury GCSE English tutors work online on getting it there."
+hero_lead: "Your child isn't short of ideas. They're short of words on the page, and the mark scheme can only reward what's written down. Our GCSE English tutors for Banbury students work online on getting it there."
 
 angle_eyebrow: "THE IDEAS WERE NEVER THE PROBLEM"
 angle_heading: "When Your Child Knows the Answer but Can't Get It Down"

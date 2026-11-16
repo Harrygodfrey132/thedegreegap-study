@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Welwyn Garden City A-Level Tutors for When Year 13 Suddenly Feels Harder"
 hero_heading_line2: ""
-hero_lead: "Your child coped with Year 12. Now every new Year 13 topic seems to trip them up, and that's usually something from last year that never quite stuck. Our Welwyn Garden City A-Level tutors go back and find it."
+hero_lead: "Your child coped with Year 12. Now every new Year 13 topic seems to trip them up, and that's usually something from last year that never quite stuck. Our A-Level tutors for Welwyn Garden City students go back and find it."
 
 grade_from: "E"
 grade_to: "C"

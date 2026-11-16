@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Keen Readers in Tunbridge Wells"
-hero_lead: "Your child has always been the reader in the family, so a Literature mock that comes back a band lower can really sting. Our Tunbridge Wells GCSE English tutors teach the method behind the top marks, one marked piece of writing at a time."
+hero_lead: "Your child has always been the reader in the family, so a Literature mock that comes back a band lower can really sting. Our GCSE English tutors for Tunbridge Wells students teach the method behind the top marks, one marked piece of writing at a time."
 
 angle_eyebrow: "ALWAYS GOOD AT ENGLISH, UNTIL THE MOCK"
 angle_heading: "Why Keen Readers in Tunbridge Wells Can Stall at GCSE English"

@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online A-Level Tutors in Gerrards Cross for the Big Step Up From GCSE"
 hero_heading_line2: ""
-hero_lead: "Good GCSEs, then a first A-Level test that comes home with a mark your child can't explain. It's a call we get a lot. Our Gerrards Cross A-Level tutors help them find what changed, an hour a week online, long before predicted grades are written."
+hero_lead: "Good GCSEs, then a first A-Level test that comes home with a mark your child can't explain. It's a call we get a lot. Our A-Level tutors for Gerrards Cross students help them find what changed, an hour a week online, long before predicted grades are written."
 
 grade_from: "C"
 grade_to: "A"

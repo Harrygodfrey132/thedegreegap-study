@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "When GCSE Science Suddenly Gets Harder: Online Tutors for Harpenden Families"
-hero_lead: "Science used to be fine. Now the marks are slipping, and your child can't tell you why. Lots of children hit this, because the course gets harder in a step, not a slope. Our Harpenden GCSE Science tutors teach the topics that come after it, one-to-one and online."
+hero_lead: "Science used to be fine. Now the marks are slipping, and your child can't tell you why. Lots of children hit this, because the course gets harder in a step, not a slope. Our GCSE Science tutors for Harpenden students teach the topics that come after it, one-to-one and online."
 
 angle_eyebrow: "THE STEP HALFWAY THROUGH"
 angle_heading: "The Point Where the Science Course Steps Up"

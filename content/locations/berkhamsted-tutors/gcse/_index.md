@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online GCSE Tutors in Berkhamsted Keeping Your Child's A-Level Choices Open"
 hero_heading_line2: ""
-hero_lead: "Staying on for sixth form feels automatic, until you notice each A-Level on the list asks for its own GCSE grade. Our Berkhamsted GCSE tutors work one-to-one with your child on the subjects those grades hang on, online using the platform Lessonspace."
+hero_lead: "Staying on for sixth form feels automatic, until you notice each A-Level on the list asks for its own GCSE grade. Our GCSE tutors for Berkhamsted students work one-to-one with your child on the subjects those grades hang on, online using the platform Lessonspace."
 
 grade_from: "4-5"
 grade_to: "8"

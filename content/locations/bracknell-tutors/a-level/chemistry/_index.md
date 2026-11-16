@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for Bracknell Students Stuck on Moles, Mechanisms or Both"
-hero_lead: "A-Level Chemistry builds new ideas on GCSE ones that were never quite secure, and the cracks show in the calculations first. Our Bracknell A-Level Chemistry tutors fix those foundations, then the organic chemistry that sits on top."
+hero_lead: "A-Level Chemistry builds new ideas on GCSE ones that were never quite secure, and the cracks show in the calculations first. Our A-Level Chemistry tutors for Bracknell students fix those foundations, then the organic chemistry that sits on top."
 
 angle_eyebrow: "CALCULATIONS FIRST, THEN CURLY ARROWS"
 angle_heading: "What an A-Level Chemistry Tutor Puts Right for Bracknell Year 12s and 13s"

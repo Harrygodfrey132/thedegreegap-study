@@ -7,7 +7,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Wolverhampton GCSE Science Tutors, Online and One-to-One"
-hero_lead: "The Science grade on your child's report covers Biology, Chemistry and Physics at once, so it's hard to tell which one is the problem. Our Wolverhampton GCSE Science tutors pull the three apart first, because it's nearly always one of them, not all three."
+hero_lead: "The Science grade on your child's report covers Biology, Chemistry and Physics at once, so it's hard to tell which one is the problem. Our GCSE Science tutors for Wolverhampton students pull the three apart first, because it's nearly always one of them, not all three."
 
 angle_eyebrow: "THREE SCIENCES, ONE LINE ON THE REPORT"
 angle_heading: "Finding Out Which Science Is Really Costing Your Child Marks"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors Bromley Parents Call When Year 10 Has Faded"
-hero_lead: "By September of Year 11, a lot of what your child learnt in Year 10 Biology, Chemistry and Physics has faded, and the first paper in each science will ask for it. Our Bromley GCSE Science tutors work one-to-one online to bring it back, one science at a time."
+hero_lead: "By September of Year 11, a lot of what your child learnt in Year 10 Biology, Chemistry and Physics has faded, and the first paper in each science will ask for it. Our GCSE Science tutors for Bromley students work one-to-one online to bring it back, one science at a time."
 
 angle_eyebrow: "LAST YEAR'S LESSONS, THIS YEAR'S PAPERS"
 angle_heading: "Why Science Gaps Show Up in the September of Year 11"

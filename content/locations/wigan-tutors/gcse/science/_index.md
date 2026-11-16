@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Wigan Families"
-hero_lead: "Some of the Science marks your child loses aren't wrong answers at all, just questions left blank because there didn't seem to be a way in. Our Wigan GCSE Science tutors teach your child a first step for every kind of question, one-to-one and online."
+hero_lead: "Some of the Science marks your child loses aren't wrong answers at all, just questions left blank because there didn't seem to be a way in. Our GCSE Science tutors for Wigan students teach your child a first step for every kind of question, one-to-one and online."
 
 angle_eyebrow: "A FIRST STEP FOR EVERY KIND OF QUESTION"
 angle_heading: "Making a Start Earns Marks in GCSE Science, Even Without the Answer"

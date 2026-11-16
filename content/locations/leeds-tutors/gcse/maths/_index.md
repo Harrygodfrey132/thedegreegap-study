@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Leeds, from Roundhay to Lawnswood"
-hero_lead: "When your child's Maths grade starts slipping, it's hard not to think ahead. In Leeds there are no state grammar schools, so sixth form places, and later university, come down to grades. Our Leeds GCSE Maths tutors find where the marks are leaking and fix it before the mocks."
+hero_lead: "When your child's Maths grade starts slipping, it's hard not to think ahead. In Leeds there are no state grammar schools, so sixth form places, and later university, come down to grades. Our GCSE Maths tutors for Leeds students find where the marks are leaking and fix it before the mocks."
 
 angle_eyebrow: "NO STATE GRAMMARS, SO THE GRADE DOES THE WORK"
 angle_heading: "Finding the Maths Marks Your Child Needs for a Leeds Sixth Form"

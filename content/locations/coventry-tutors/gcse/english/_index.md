@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring for Coventry Year 10s and 11s"
-hero_lead: "Year 10 English went fine, one text at a time. Then the Year 11 mock asked for all of them at once. Our Coventry GCSE English tutors keep every text fresh, so none has gone cold by the exams."
+hero_lead: "Year 10 English went fine, one text at a time. Then the Year 11 mock asked for all of them at once. Our GCSE English tutors for Coventry students keep every text fresh, so none has gone cold by the exams."
 
 angle_eyebrow: "ONE TEXT AT A TIME, THEN ALL AT ONCE"
 angle_heading: "How a Tutor Keeps Every GCSE English Text Fresh for Coventry Teenagers"

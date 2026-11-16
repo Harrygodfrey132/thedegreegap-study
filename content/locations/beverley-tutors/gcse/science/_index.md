@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Beverley, One Science at a Time"
-hero_lead: "It's common for Biology to be going well while Chemistry calculations or Physics equations drag the Science grade down. Our Beverley GCSE Science tutors work out which of the three is dropping marks and spend the lessons on that one."
+hero_lead: "It's common for Biology to be going well while Chemistry calculations or Physics equations drag the Science grade down. Our GCSE Science tutors for Beverley students work out which of the three is dropping marks and spend the lessons on that one."
 
 card_eyebrow: "ONE CALL TO START"
 card_heading: "Which science is the one that's slipping?"

@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online A-Level Tutors in Amersham for a Child Settling Into a New Sixth Form"
 hero_heading_line2: ""
-hero_lead: "New teachers, new faces, maybe a whole new building, and Year 12 doesn't wait for anyone to settle. Our Amersham A-Level tutors work with your child one-to-one online, and start on any gap from the step up before a predicted grade gets written."
+hero_lead: "New teachers, new faces, maybe a whole new building, and Year 12 doesn't wait for anyone to settle. Our A-Level tutors for Amersham students work with your child one-to-one online, and start on any gap from the step up before a predicted grade gets written."
 
 grade_from: "E"
 grade_to: "C"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors Covering Camberley and Frimley"
-hero_lead: "If your child's more at home with Maths, English can feel slippery, because there's never one right answer to check. Our Camberley GCSE English tutors give it some structure: a set order for picking apart an extract, and a plan your child trusts for the writing task."
+hero_lead: "If your child's more at home with Maths, English can feel slippery, because there's never one right answer to check. Our GCSE English tutors for Camberley students give it some structure: a set order for picking apart an extract, and a plan your child trusts for the writing task."
 
 angle_eyebrow: "ENGLISH COUNTS EVEN FOR SCIENCE"
 angle_heading: "Why English Language Matters Even If Your Child Picks Science"

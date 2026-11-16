@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors in Leeds, Matched to Your Child's Goal"
-hero_lead: "Some Leeds parents call us about a B that needs holding steady for a firm offer. Others are after the top grades for Medicine. Our Leeds A-Level Biology tutors work out which one your child needs before they plan a single lesson."
+hero_lead: "Some Leeds parents call us about a B that needs holding steady for a firm offer. Others are after the top grades for Medicine. Our A-Level Biology tutors for Leeds students work out which one your child needs before they plan a single lesson."
 
 angle_eyebrow: "SAME SUBJECT, TWO VERY DIFFERENT JOBS"
 angle_heading: "The Two Biology Worries We Hear Most From Leeds Parents"

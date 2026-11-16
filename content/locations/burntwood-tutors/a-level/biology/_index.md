@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Burntwood Students Joining Up the Whole Course"
-hero_lead: "Your child can learn each Biology topic, then a question asks them to connect respiration, enzymes and genetics in one answer, and it falls apart. Our Burntwood A-Level Biology tutors practise those joined-up answers week by week, alongside the content."
+hero_lead: "Your child can learn each Biology topic, then a question asks them to connect respiration, enzymes and genetics in one answer, and it falls apart. Our A-Level Biology tutors for Burntwood students practise those joined-up answers week by week, alongside the content."
 
 angle_eyebrow: "WHERE THE TOPICS MEET"
 angle_heading: "Why A-Level Biology Gets Harder for Burntwood Students in Year 13"

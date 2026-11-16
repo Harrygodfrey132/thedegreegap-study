@@ -4,7 +4,7 @@ description: "When a topic just won't stick, our Birmingham tutors find where yo
 layout: single
 location: Birmingham
 banner_heading: "Looking for an online Birmingham tutor who gets to the root of the problem?"
-banner_description: "Going over the same topic again rarely makes it stick. Our Birmingham tutors find the bit that isn't working for your child and explain it another way until it does."
+banner_description: "Going over the same topic again rarely makes it stick. Our tutors for Birmingham families find the bit that isn't working for your child and explain it another way until it does."
 content_angle: exam pressure / selective school competition
 intro_1: "The 11+ might be weeks away, or your child might be in Year 10 at a big comprehensive across the city. Either way, you'll have heard the numbers. Some of the King Edward VI grammar schools get close to 1,800 applications for around 180 places. That kind of competition sets a tone well beyond the families who apply. It gets talked about at the school gate, and children at the comprehensives feel the pull of it too. And that's often when tutoring comes up: the moment you spot a gap between where your child is and where they'd like to be."
 intro_2: "We help Birmingham families at every stage. Some come to us in the run-up to the 11+. Some have a child in Year 10 or 11 who's quietly struggling in a full class, where there's rarely time to stop. What they need is someone to go back over a topic slowly, one-to-one. Others have a sixth former finding that A-Level asks for a kind of thinking GCSE never did. Wherever your child is, the tutor starts by finding the point where things stopped making sense. Then they build the plan from there."

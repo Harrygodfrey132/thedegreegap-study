@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Stratford-upon-Avon, Matched on Exam Board"
-hero_lead: "If your child's losing marks on trigonometric equations, they've usually found a right answer. Just not all of them. Our Stratford-upon-Avon A-Level Maths tutors work on the interval, and on why the other solutions get missed."
+hero_lead: "If your child's losing marks on trigonometric equations, they've usually found a right answer. Just not all of them. Our A-Level Maths tutors for Stratford-upon-Avon students work on the interval, and on why the other solutions get missed."
 
 angle_eyebrow: "THE ANSWERS THAT WERE THERE ALL ALONG"
 angle_heading: "Where an Online A-Level Maths Tutor Starts With Your Child in Stratford"

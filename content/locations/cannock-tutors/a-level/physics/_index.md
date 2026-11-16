@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Physics"
 
 hero_h1: "Online A-Level Physics Tutors for Cannock Students Finding Year 13 Fields Hard to Picture"
-hero_lead: "Year 12 mechanics made sense because your child could picture a ball being thrown. Fields, capacitors and magnetic flux are harder to see, and the marks show it. Our Cannock A-Level Physics tutors use diagrams and graphs to make them concrete."
+hero_lead: "Year 12 mechanics made sense because your child could picture a ball being thrown. Fields, capacitors and magnetic flux are harder to see, and the marks show it. Our A-Level Physics tutors for Cannock students use diagrams and graphs to make them concrete."
 
 angle_eyebrow: "WHEN PHYSICS STOPS BEING VISIBLE"
 angle_heading: "Why Year 13 Physics Feels Different for Cannock Students"

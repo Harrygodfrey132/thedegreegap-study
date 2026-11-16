@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Rochdale A-Level Tutors for the Offer Your Child Still Needs to Meet"
 hero_heading_line2: ""
-hero_lead: "When the university your child wants is a short train ride into Manchester, the place can feel settled long before the grades are. Our Rochdale A-Level tutors work on the subject furthest from the offer, while there's still time to move it."
+hero_lead: "When the university your child wants is a short train ride into Manchester, the place can feel settled long before the grades are. Our A-Level tutors for Rochdale students work on the subject furthest from the offer, while there's still time to move it."
 
 grade_from: "C"
 grade_to: "A"

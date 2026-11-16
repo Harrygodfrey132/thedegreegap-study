@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Bolton Students Who Know the Topic, Not the Question"
-hero_lead: "At this level nothing on the page tells you which method a question wants. Our Bolton A-Level Maths tutors teach that choice directly, one-to-one and online over Lessonspace, alongside the Mechanics and Statistics work that gets left until last."
+hero_lead: "At this level nothing on the page tells you which method a question wants. Our A-Level Maths tutors for Bolton students teach that choice directly, one-to-one and online over Lessonspace, alongside the Mechanics and Statistics work that gets left until last."
 
 angle_eyebrow: "AN HOUR OF NOTES, NOTHING ATTEMPTED"
 angle_heading: "Why Reading Through Maths Notes Changes Nothing"

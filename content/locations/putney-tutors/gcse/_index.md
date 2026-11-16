@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Putney GCSE Tutors Who Teach the Paper Your Child Will Actually Sit"
 hero_heading_line2: ""
-hero_lead: "Two teenagers on the same Putney road can face quite different Maths exams in Year 11, one with a calculator in every paper and one with a paper that bans it. Our Putney GCSE tutors start from your child's own exam, not the one a friend's child sits."
+hero_lead: "Two teenagers on the same Putney road can face quite different Maths exams in Year 11, one with a calculator in every paper and one with a paper that bans it. Our GCSE tutors for Putney students start from your child's own exam, not the one a friend's child sits."
 
 grade_from: "4-5"
 grade_to: "8"

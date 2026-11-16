@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online One-to-One A-Level Chemistry Tutors for Oxford Families"
-hero_lead: "If your child's Chemistry is solid but the A* keeps slipping out of reach, catalysis is often where it goes. Our Oxford A-Level Chemistry tutors work on the two kinds of catalyst, on autocatalysis and on what a catalyst doesn't change."
+hero_lead: "If your child's Chemistry is solid but the A* keeps slipping out of reach, catalysis is often where it goes. Our A-Level Chemistry tutors for Oxford students work on the two kinds of catalyst, on autocatalysis and on what a catalyst doesn't change."
 
 angle_eyebrow: "WHAT A CATALYST DOESN'T CHANGE"
 angle_heading: "The Small Topic That Often Decides the A* in A-Level Chemistry"

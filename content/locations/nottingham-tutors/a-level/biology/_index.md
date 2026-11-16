@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutoring Across Nottingham"
-hero_lead: "T cells, B cells, plasma cells: your child may know every name and still drop marks explaining how they work together. Our Nottingham A-Level Biology tutors help your child tell it as a sequence, each cell at the right moment."
+hero_lead: "T cells, B cells, plasma cells: your child may know every name and still drop marks explaining how they work together. Our A-Level Biology tutors for Nottingham students help your child tell it as a sequence, each cell at the right moment."
 
 angle_eyebrow: "A RELAY, NOT A LIST"
 angle_heading: "Why Immunology Answers Lose Marks Even When Every Cell Is Named"

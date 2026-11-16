@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Royal Leamington Spa GCSE Tutors, Starting Early So Year 11 Isn't a Scramble"
 hero_heading_line2: ""
-hero_lead: "Maybe nothing's gone wrong yet, but you can see Year 11 coming and you'd rather not spend it panicking. Our Royal Leamington Spa GCSE tutors use a Year 9 or 10 start to build the methods your child will lean on, while there's still time for them to stick."
+hero_lead: "Maybe nothing's gone wrong yet, but you can see Year 11 coming and you'd rather not spend it panicking. Our GCSE tutors for Royal Leamington Spa students use a Year 9 or 10 start to build the methods your child will lean on, while there's still time for them to stick."
 
 grade_from: "5"
 grade_to: "7"

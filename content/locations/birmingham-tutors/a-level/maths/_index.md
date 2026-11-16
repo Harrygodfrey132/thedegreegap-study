@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors Helping Birmingham Year 12s and 13s"
-hero_lead: "Finding a gradient, completing the square, solving simultaneous equations: your child can do each one. Put all three into one circle question, though, and it falls apart. Our Birmingham A-Level Maths tutors work on exactly those long questions, one step at a time."
+hero_lead: "Finding a gradient, completing the square, solving simultaneous equations: your child can do each one. Put all three into one circle question, though, and it falls apart. Our A-Level Maths tutors for Birmingham students work on exactly those long questions, one step at a time."
 
 angle_eyebrow: "THE TOPIC THAT LOOKS EASY ON PAPER"
 angle_heading: "Why Your Child Can Know Every Step and Still Lose the Circle Question"

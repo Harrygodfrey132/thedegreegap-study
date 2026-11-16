@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Didcot GCSE Tutors Who Work Out Which Topic Went Missing"
 hero_heading_line2: ""
-hero_lead: "Your child might have started Year 10 somewhere new, at 14 or after a move, or stayed exactly where they were. Either way, our Didcot GCSE tutors begin by finding the topic that slipped through, then work on it one-to-one, online."
+hero_lead: "Your child might have started Year 10 somewhere new, at 14 or after a move, or stayed exactly where they were. Either way, our GCSE tutors for Didcot students begin by finding the topic that slipped through, then work on it one-to-one, online."
 
 grade_from: "5"
 grade_to: "6/7"

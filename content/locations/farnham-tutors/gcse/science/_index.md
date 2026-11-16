@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Families in and Around Farnham"
-hero_lead: "When your child says Science is fine and the mock says otherwise, it's usually one of the three sciences doing the damage. Our Farnham GCSE Science tutors find out which one, and that's where the lessons go."
+hero_lead: "When your child says Science is fine and the mock says otherwise, it's usually one of the three sciences doing the damage. Our GCSE Science tutors for Farnham students find out which one, and that's where the lessons go."
 
 angle_eyebrow: "WHAT SCIENCE OPENS UP HERE"
 angle_heading: "Where GCSE Science Can Lead for a Farnham Teenager"

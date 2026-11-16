@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Physics"
 
 hero_h1: "Online A-Level Physics Tutoring for St Albans Families"
-hero_lead: "A strong GCSE grade in Physics, and now Year 12 feels like a different subject. Our St Albans A-Level Physics tutors help your child move from remembering equations to working out what's really going on."
+hero_lead: "A strong GCSE grade in Physics, and now Year 12 feels like a different subject. Our A-Level Physics tutors for St Albans students help your child move from remembering equations to working out what's really going on."
 
 angle_eyebrow: "A DIFFERENT SUBJECT WITH THE SAME NAME"
 angle_heading: "Why Year 12 Physics Feels Nothing Like GCSE Physics"

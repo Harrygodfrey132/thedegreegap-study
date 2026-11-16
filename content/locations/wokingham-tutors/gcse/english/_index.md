@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Wokingham Students Facing a Closed-Book Literature Exam"
-hero_lead: "Your child knows the plot of Macbeth inside out, but in the exam hall there's no book to check and the quotations won't come. Our Wokingham GCSE English tutors build a short list your child can actually remember, and practise using it."
+hero_lead: "Your child knows the plot of Macbeth inside out, but in the exam hall there's no book to check and the quotations won't come. Our GCSE English tutors for Wokingham students build a short list your child can actually remember, and practise using it."
 
 angle_eyebrow: "NO BOOK ON THE DESK"
 angle_heading: "Where Wokingham Students Lose Marks in GCSE English, Paper by Paper"

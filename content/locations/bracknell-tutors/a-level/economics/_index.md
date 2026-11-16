@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Economics"
 
 hero_h1: "Online A-Level Economics Tutors for Bracknell Sixth Formers New to the Subject"
-hero_lead: "Plenty of Year 12s choose Economics without ever having studied it, and the first essays show it. Our Bracknell A-Level Economics tutors teach your child to build an argument from diagrams and evaluation, not just definitions."
+hero_lead: "Plenty of Year 12s choose Economics without ever having studied it, and the first essays show it. Our A-Level Economics tutors for Bracknell students teach your child to build an argument from diagrams and evaluation, not just definitions."
 
 angle_eyebrow: "A NEW SUBJECT AT SIXTEEN"
 angle_heading: "How an A-Level Economics Tutor Helps Bracknell Students Starting From Scratch"

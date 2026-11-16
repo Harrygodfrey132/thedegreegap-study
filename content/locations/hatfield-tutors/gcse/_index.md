@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online GCSE Tutors in Hatfield: Plenty of Effort, but the Grade Won't Budge"
 hero_heading_line2: ""
-hero_lead: "Your child's at the desk most evenings, and two reports running have shown the same grade. It's the conversation we have most often with parents here. Our Hatfield GCSE tutors start with a recent marked paper, which shows where the marks are going."
+hero_lead: "Your child's at the desk most evenings, and two reports running have shown the same grade. It's the conversation we have most often with parents here. Our GCSE tutors for Hatfield students start with a recent marked paper, which shows where the marks are going."
 
 grade_from: "E"
 grade_to: "B"

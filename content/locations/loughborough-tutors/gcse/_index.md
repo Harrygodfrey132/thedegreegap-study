@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Loughborough GCSE Tutors Who Explain It a Second and Third Way"
 hero_heading_line2: ""
-hero_lead: "You might well be able to do the Maths yourself, and you've probably tried going through it with your child at the kitchen table. Our Loughborough GCSE tutors come in after that, when it's clear the problem is the way it's being explained, not the content."
+hero_lead: "You might well be able to do the Maths yourself, and you've probably tried going through it with your child at the kitchen table. Our GCSE tutors for Loughborough students come in after that, when it's clear the problem is the way it's being explained, not the content."
 
 grade_from: "5"
 grade_to: "6/7"

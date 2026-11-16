@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Esher Families"
-hero_lead: "In a year of college applications, Maths can slip without anyone noticing, and it's a grade that follows your child to whichever course they choose. Our Esher GCSE Maths tutors find where the marks start leaking, often algebra or the non-calculator paper, and work on that first, one-to-one online."
+hero_lead: "In a year of college applications, Maths can slip without anyone noticing, and it's a grade that follows your child to whichever course they choose. Our GCSE Maths tutors for Esher students find where the marks start leaking, often algebra or the non-calculator paper, and work on that first, one-to-one online."
 
 card_eyebrow: "FREE CONSULTATION"
 card_heading: "Tell us where Maths is going wrong for your child"

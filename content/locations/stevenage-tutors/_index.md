@@ -4,7 +4,7 @@ description: "Working hard, same mark every time? Our Stevenage tutors find the 
 layout: "single"
 location: "Stevenage"
 banner_heading: "Online Stevenage tutors for GCSE and A-Level, when the effort is there but the marks aren't"
-banner_description: "If every report says 'good effort' and the mark stays put, there's usually an older gap underneath. Our Stevenage tutors find it first, then work forward."
+banner_description: "If every report says 'good effort' and the mark stays put, there's usually an older gap underneath. Our tutors for Stevenage families find it first, then work forward."
 content_angle: "effort without results: a hard-working child whose grade has stalled, because a Year 8 or 9 gap surfaces once GCSE topics get heavier in Year 10"
 intro_1: "It's hard to watch. Your child sits at the kitchen table for an hour, tells you they've got it, and the test still comes back with the same mark as last time. The report says the effort is good, and it is. It's one of the calls we get most from Stevenage, often about a child at Marriotts, Nobel or Barnwell who coped fine until the GCSE topics got heavier in Year 10. More often than not, the trouble started a couple of years earlier, with one method that never quite settled."
 intro_2: "So before anything new, the tutor goes looking for that method. The first lesson works through a recent test with your child, line by line, until the slip shows itself. That gets fixed first. Sometimes it takes a few lessons, sometimes longer, and then the Year 10 work finally has something solid under it."

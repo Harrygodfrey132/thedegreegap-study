@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Year 12 and 13 in St Neots"
-hero_lead: "If your child's Year 12 Maths homework now takes twice as long as it used to, they're far from the only one. Our St Neots A-Level Maths tutors find what's slowing your child down, often GCSE algebra that isn't automatic yet, and work on it one-to-one, online."
+hero_lead: "If your child's Year 12 Maths homework now takes twice as long as it used to, they're far from the only one. Our A-Level Maths tutors for St Neots students find what's slowing your child down, often GCSE algebra that isn't automatic yet, and work on it one-to-one, online."
 
 card_eyebrow: "FREE CONSULTATION"
 card_heading: "A free chat about Year 12 or 13 Maths"

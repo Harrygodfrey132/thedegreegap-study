@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Dartford Students Who Go Blank When a Question Says 'Prove'"
-hero_lead: "Your child can follow a worked example, but a question asking them to prove something gives them nowhere to start. Our Dartford A-Level Maths tutors teach the habits that make proof manageable, along with the algebra it leans on."
+hero_lead: "Your child can follow a worked example, but a question asking them to prove something gives them nowhere to start. Our A-Level Maths tutors for Dartford students teach the habits that make proof manageable, along with the algebra it leans on."
 
 angle_eyebrow: "WHEN THE ANSWER ISN'T A NUMBER"
 angle_heading: "Why Proof Catches Out Dartford Sixth Formers in A-Level Maths"

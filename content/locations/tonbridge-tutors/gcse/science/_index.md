@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors Covering Tonbridge"
-hero_lead: "Science can be two or three of your child's GCSEs, so a weak spot in one science costs more than you'd think. Our Tonbridge GCSE Science tutors find where the marks are going, which is often the Chemistry calculations, and start there."
+hero_lead: "Science can be two or three of your child's GCSEs, so a weak spot in one science costs more than you'd think. Our GCSE Science tutors for Tonbridge students find where the marks are going, which is often the Chemistry calculations, and start there."
 
 card_eyebrow: "FREE CONSULTATION"
 card_heading: "Tell us which science is worrying you"

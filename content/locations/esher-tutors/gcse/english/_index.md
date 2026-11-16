@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors Covering Esher"
-hero_lead: "Your child might write well in class, then run out of time on the Language paper or blank on a quotation in the Literature exam. Our Esher GCSE English tutors build the weekly habits that help with both, one-to-one online, in a Year 11 that's already crowded."
+hero_lead: "Your child might write well in class, then run out of time on the Language paper or blank on a quotation in the Literature exam. Our GCSE English tutors for Esher students build the weekly habits that help with both, one-to-one online, in a Year 11 that's already crowded."
 
 card_eyebrow: "FREE CONSULTATION"
 card_heading: "Start with the English paper that's worrying you"

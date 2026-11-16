@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Children Around Cobham"
-hero_lead: "Science is three subjects squeezed into one timetable, and it only takes one to fall behind. Our Cobham GCSE Science tutors pin down which science is losing your child the most marks and work on it one-to-one online."
+hero_lead: "Science is three subjects squeezed into one timetable, and it only takes one to fall behind. Our GCSE Science tutors for Cobham students pin down which science is losing your child the most marks and work on it one-to-one online."
 
 card_eyebrow: "FREE CALL ABOUT SCIENCE"
 card_heading: "Which science keeps letting your child down?"

@@ -4,7 +4,7 @@ description: "Online Baldock tutors who find the GCSE or A-Level topic that neve
 layout: single
 location: Baldock
 banner_heading: "Online Baldock Tutoring for GCSE and A-Level That Starts Where the Gap Began"
-banner_description: "The topic that's tripping your child up this term may go back a year or two. Our Baldock tutors find where it began and build back up from there."
+banner_description: "The topic that's tripping your child up this term may go back a year or two. Our tutors for Baldock families find where it began and build back up from there."
 content_angle: "the old gap: a Baldock child stuck on something that began in Year 8 or 9, with schools spread across Baldock, Hitchin and Letchworth"
 intro_1: "You ask how Maths is going, and the answer's always 'fine'. Even when the homework takes all evening and the last test came back with a mark nobody expected. If you're hearing it a lot, you're not the only Baldock parent who is. Children here head off to Knights Templar, to Hitchin or to Letchworth, and plenty of parents spend part of the day on a train. With busy days all round, a small gap can sit quietly for a year before anyone spots it."
 intro_2: "That gap usually sits further back than this term. Maybe it's fractions from Year 8, or how to set out algebra, and every new topic this year quietly leans on it. So a good tutor begins a step or two behind where the class is. They go through a recent test or piece of homework with your child and find where the marks really started going. Then they rebuild from that point, one lesson a week, until the newer topics have something firm to stand on."

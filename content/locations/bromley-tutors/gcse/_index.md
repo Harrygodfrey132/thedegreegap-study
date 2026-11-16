@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online GCSE Tutoring in Bromley for the Grades Your Child's Own Sixth Form Wants"
 hero_heading_line2: ""
-hero_lead: "Lots of parents assume staying on for sixth form is a given. Then the requirements list comes home, with subject grades on it. Our Bromley GCSE tutors focus, online and one-to-one, on the two or three subjects where your child's predicted grade and the required one don't match yet."
+hero_lead: "Lots of parents assume staying on for sixth form is a given. Then the requirements list comes home, with subject grades on it. Our GCSE tutors for Bromley students focus, online and one-to-one, on the two or three subjects where your child's predicted grade and the required one don't match yet."
 
 grade_from: "5"
 grade_to: "6/7"

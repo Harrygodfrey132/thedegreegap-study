@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for Milton Keynes Teenagers"
-hero_lead: "There's a part of A-Level Chemistry that never shows up in a mock grade, and lots of parents first hear about it in Year 13. Our Milton Keynes A-Level Chemistry tutors help with the practical side as well as the papers."
+hero_lead: "There's a part of A-Level Chemistry that never shows up in a mock grade, and lots of parents first hear about it in Year 13. Our A-Level Chemistry tutors for Milton Keynes students help with the practical side as well as the papers."
 
 angle_eyebrow: "WHAT SITS ALONGSIDE THE GRADE"
 angle_heading: "The Practical Side of Chemistry That Mocks Don't Show"

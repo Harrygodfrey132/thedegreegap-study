@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online High Wycombe A-Level Tutors for a Predicted Grade That Feels Too Low"
 hero_heading_line2: ""
-hero_lead: "If you're worried your child's predicted grade won't match the offers they're hoping for, you're far from the only one in Wycombe. Our High Wycombe A-Level tutors work with your child one-to-one online, and most families start in Year 12, before the end-of-year exams that feed into predictions."
+hero_lead: "If you're worried your child's predicted grade won't match the offers they're hoping for, you're far from the only one in Wycombe. Our A-Level tutors for High Wycombe students work with your child one-to-one online, and most families start in Year 12, before the end-of-year exams that feed into predictions."
 
 grade_from: "C"
 grade_to: "A"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors Working With Peterborough Families"
-hero_lead: "If your child keeps running out of time in Maths tests, or losing marks for 'no working', the calculator's often part of the reason. Our Peterborough A-Level Maths tutors sort out both."
+hero_lead: "If your child keeps running out of time in Maths tests, or losing marks for 'no working', the calculator's often part of the reason. Our A-Level Maths tutors for Peterborough students sort out both."
 
 angle_eyebrow: "THE CALCULATOR IN YOUR CHILD'S PENCIL CASE"
 angle_heading: "Two Opposite Calculator Problems, Both Costing Marks"

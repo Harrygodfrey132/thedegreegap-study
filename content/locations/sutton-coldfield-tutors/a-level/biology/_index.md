@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors Covering Sutton Coldfield"
-hero_lead: "Biology answers that sound right but keep scoring low usually come down to wording. Our Sutton Coldfield A-Level Biology tutors work with your child on using exactly the terms the mark scheme is looking for."
+hero_lead: "Biology answers that sound right but keep scoring low usually come down to wording. Our A-Level Biology tutors for Sutton Coldfield students work with your child on using exactly the terms the mark scheme is looking for."
 
 angle_eyebrow: "NEARLY RIGHT CAN SCORE NOTHING"
 angle_heading: "Why A-Level Biology Is Stricter About Wording Than Your Child Expects"

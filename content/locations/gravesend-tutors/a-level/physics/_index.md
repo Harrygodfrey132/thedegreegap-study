@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Physics"
 
 hero_h1: "Online A-Level Physics Tutors for Gravesend Students Who Hit a Wall at Fields"
-hero_lead: "Year 12 Physics can feel manageable, then fields, capacitors and circular motion arrive in Year 13 and the maths gets harder all at once. Our Gravesend A-Level Physics tutors take each topic apart slowly, with your child doing the working."
+hero_lead: "Year 12 Physics can feel manageable, then fields, capacitors and circular motion arrive in Year 13 and the maths gets harder all at once. Our A-Level Physics tutors for Gravesend students take each topic apart slowly, with your child doing the working."
 
 angle_eyebrow: "WHEN YEAR 13 PHYSICS GETS ABSTRACT"
 angle_heading: "How a Gravesend A-Level Physics Tutor Makes Fields and Circular Motion Make Sense"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Farnham Children"
-hero_lead: "If Maths is the subject your child dreads, it can feel like it's holding up everything else, and at 16 it often is. Our Farnham GCSE Maths tutors go back to wherever the trouble began and rebuild from there."
+hero_lead: "If Maths is the subject your child dreads, it can feel like it's holding up everything else, and at 16 it often is. Our GCSE Maths tutors for Farnham students go back to wherever the trouble began and rebuild from there."
 
 angle_eyebrow: "NOT JUST FOR A-LEVEL MATHS"
 angle_heading: "Why the Maths Grade Reaches Further Than Maths in Farnham"

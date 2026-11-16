@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Bishop's Stortford A-Level Tutors for Year 12s Settling Into a New Sixth Form"
 hero_heading_line2: ""
-hero_lead: "Lots of Year 12s here start sixth form somewhere new, with new teachers and sometimes a new exam board. It's also the year the exam questions stop telling your child which method to use. Our Bishop's Stortford A-Level tutors work one-to-one online on the gap that opens up."
+hero_lead: "Lots of Year 12s here start sixth form somewhere new, with new teachers and sometimes a new exam board. It's also the year the exam questions stop telling your child which method to use. Our A-Level tutors for Bishop's Stortford students work one-to-one online on the gap that opens up."
 
 grade_from: "E/U"
 grade_to: "C"

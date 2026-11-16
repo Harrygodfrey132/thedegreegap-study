@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online One-to-One GCSE English Tutoring Across London"
-hero_lead: "\"She understands the book, so why is it a 5?\" We hear that from London parents a lot. Our London GCSE English tutors work on what happens on the page. How the answer's built, which quotations go in, and getting to the end in time."
+hero_lead: "\"She understands the book, so why is it a 5?\" We hear that from London parents a lot. Our GCSE English tutors for London students work on what happens on the page. How the answer's built, which quotations go in, and getting to the end in time."
 
 angle_eyebrow: "UNDERSTANDS THE BOOK, LOSES THE MARKS"
 angle_heading: "Where the Marks Go When Your Child Knows the Book Well"

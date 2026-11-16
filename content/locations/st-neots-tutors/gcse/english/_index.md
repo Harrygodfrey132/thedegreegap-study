@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring for St Neots Children"
-hero_lead: "Your child might get through a page of algebra without blinking, then freeze at the question asking how a writer uses language. Our St Neots GCSE English tutors give them a clear method for each Language question, and a way of learning Literature quotations that sticks."
+hero_lead: "Your child might get through a page of algebra without blinking, then freeze at the question asking how a writer uses language. Our GCSE English tutors for St Neots students give them a clear method for each Language question, and a way of learning Literature quotations that sticks."
 
 card_eyebrow: "FREE CONSULTATION"
 card_heading: "A free chat about the English papers your child is sitting"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors Covering Gerrards Cross, From Practicals to Six-Mark Answers"
-hero_lead: "Your child can explain the Science perfectly well over dinner, then drops marks on the long answers and the practical questions. We see it a lot. Our Gerrards Cross GCSE Science tutors find which of Biology, Chemistry or Physics is costing the most, and work on that one first."
+hero_lead: "Your child can explain the Science perfectly well over dinner, then drops marks on the long answers and the practical questions. We see it a lot. Our GCSE Science tutors for Gerrards Cross students find which of Biology, Chemistry or Physics is costing the most, and work on that one first."
 
 card_heading: "Where are your child's Science marks slipping?"
 card_points:

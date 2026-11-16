@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Harrogate A-Level Tutors for the Months Between the Offer and the Exams"
 hero_heading_line2: ""
-hero_lead: "The offer comes through, everyone breathes out, and then the conditions sink in. Now the summer exams have to meet them. Our Harrogate A-Level tutors work back from the grades on the offer, starting with the subject that's furthest off."
+hero_lead: "The offer comes through, everyone breathes out, and then the conditions sink in. Now the summer exams have to meet them. Our A-Level tutors for Harrogate students work back from the grades on the offer, starting with the subject that's furthest off."
 
 grade_from: "B"
 grade_to: "A"

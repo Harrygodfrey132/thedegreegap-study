@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Winchester and Central Hampshire"
-hero_lead: "Good at Maths for years, then dropping marks in Year 13 calculus? Often it's one small habit, a dy/dx your child forgets to write, and our Winchester A-Level Maths tutors work on it line by line until it's gone."
+hero_lead: "Good at Maths for years, then dropping marks in Year 13 calculus? Often it's one small habit, a dy/dx your child forgets to write, and our A-Level Maths tutors for Winchester students work on it line by line until it's gone."
 
 angle_eyebrow: "A NOTATION HABIT WORTH BREAKING"
 angle_heading: "Why Year 13 Calculus Catches Out Confident Winchester Mathematicians"

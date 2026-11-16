@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Baldock Families When Classwork and Mocks Don't Match"
-hero_lead: "Lots of children understand Maths in class and lose it in the exam hall, and those are two different problems. Our Baldock GCSE Maths tutors find out which one your child has and start there, online."
+hero_lead: "Lots of children understand Maths in class and lose it in the exam hall, and those are two different problems. Our GCSE Maths tutors for Baldock students find out which one your child has and start there, online."
 
 angle_eyebrow: "FINE IN CLASS, LOST IN THE HALL"
 angle_heading: "When the Maths Is There and the Marks Aren't"

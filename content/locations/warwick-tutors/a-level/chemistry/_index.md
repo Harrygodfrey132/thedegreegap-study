@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutoring for Families Around Warwick"
-hero_lead: "Chemistry mechanisms can be learnt by heart or really understood, and only one of those survives a molecule your child hasn't seen before. Our Warwick A-Level Chemistry tutors teach the kind that carries over to new questions."
+hero_lead: "Chemistry mechanisms can be learnt by heart or really understood, and only one of those survives a molecule your child hasn't seen before. Our A-Level Chemistry tutors for Warwick students teach the kind that carries over to new questions."
 
 angle_eyebrow: "MEMORISED MECHANISMS DON'T TRANSFER"
 angle_heading: "Why Learning the Arrows Stops Working in Year 13"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring in Havant, Wherever Your Child Goes at 16"
-hero_lead: "College, sixth form or an apprenticeship around Portsmouth: they'll all want to see the English grade. Our Havant GCSE English tutors start by pulling Language and Literature apart, because your child's marks usually slip in one more than the other."
+hero_lead: "College, sixth form or an apprenticeship around Portsmouth: they'll all want to see the English grade. Our GCSE English tutors for Havant students start by pulling Language and Literature apart, because your child's marks usually slip in one more than the other."
 
 angle_eyebrow: "THE GRADE BOTH ROUTES ASK FOR"
 angle_heading: "Why Your Child's English Grade Carries Further Than It Looks in Havant"

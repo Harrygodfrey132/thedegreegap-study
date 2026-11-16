@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Tonbridge, When It's the Language Grade That Counts"
-hero_lead: "Your child might love the set texts and still find the Language papers hard going, and that's the grade Tonbridge sixth forms tend to ask about. Our Tonbridge GCSE English tutors work online on both papers: the unseen extracts, the writing task and finishing in time."
+hero_lead: "Your child might love the set texts and still find the Language papers hard going, and that's the grade Tonbridge sixth forms tend to ask about. Our GCSE English tutors for Tonbridge students work online on both papers: the unseen extracts, the writing task and finishing in time."
 
 card_eyebrow: "FREE CONSULTATION"
 card_heading: "A free chat about your child's English"

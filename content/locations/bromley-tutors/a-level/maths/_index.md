@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutoring for Bromley, When the London Offer Hangs on Maths"
-hero_lead: "If your child's hoping for a London offer in Economics, Engineering or Computer Science, the offer will usually name a grade in Maths itself. With Victoria a quarter of an hour away, lots of Bromley families are in the same spot. Our Bromley A-Level Maths tutors work on that grade, one-to-one and online."
+hero_lead: "If your child's hoping for a London offer in Economics, Engineering or Computer Science, the offer will usually name a grade in Maths itself. With Victoria a quarter of an hour away, lots of Bromley families are in the same spot. Our A-Level Maths tutors for Bromley students work on that grade, one-to-one and online."
 
 angle_eyebrow: "WHAT THE SMALL PRINT SAYS"
 angle_heading: "The London Offer That Comes Down to One Grade in Maths"

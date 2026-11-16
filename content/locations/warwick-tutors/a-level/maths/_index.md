@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Warwick A-Level Maths Tutors Online, for Pure, Mechanics and Statistics"
-hero_lead: "A-Level Maths is really three courses sharing one grade, and hardly anyone is equally strong in all three. Our Warwick A-Level Maths tutors work out which one is pulling your child's grade down, and start there."
+hero_lead: "A-Level Maths is really three courses sharing one grade, and hardly anyone is equally strong in all three. Our A-Level Maths tutors for Warwick students work out which one is pulling your child's grade down, and start there."
 
 angle_eyebrow: "THREE COURSES, ONE GRADE"
 angle_heading: "Pure, Mechanics and Statistics Aren't Really the Same Subject"

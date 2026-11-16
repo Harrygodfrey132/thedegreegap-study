@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Bournemouth Families When One of the Three Sciences Slips"
-hero_lead: "Your child talks about Biology and Physics at tea, but Chemistry hasn't come up in weeks. The science that goes quiet is usually the one that's slipping. Our Bournemouth GCSE Science tutors find it and work on it one-to-one online, before it costs your child a grade."
+hero_lead: "Your child talks about Biology and Physics at tea, but Chemistry hasn't come up in weeks. The science that goes quiet is usually the one that's slipping. Our GCSE Science tutors for Bournemouth students find it and work on it one-to-one online, before it costs your child a grade."
 
 angle_eyebrow: "THE SCIENCE THAT GOES QUIET"
 angle_heading: "Where One Science Grade Hides the Science That Slipped"

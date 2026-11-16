@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Guildford GCSE Tutors Who Find Out Why Your Child's Grade Is Stuck"
 hero_heading_line2: ""
-hero_lead: "By the time many Guildford parents ring us, the effort at home has gone up, the grade hasn't, and nobody can quite say which topic is to blame. Our Guildford GCSE tutors find it in the first lesson, then work on it with your child until the marks move."
+hero_lead: "By the time many Guildford parents ring us, the effort at home has gone up, the grade hasn't, and nobody can quite say which topic is to blame. Our GCSE tutors for Guildford students find it in the first lesson, then work on it with your child until the marks move."
 
 grade_from: "E"
 grade_to: "B"

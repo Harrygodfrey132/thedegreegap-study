@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online GCSE tutors for Croydon Year 11s whose sixth-form place turns on one subject"
 hero_heading_line2: ""
-hero_lead: "You'll probably spot it on the prospectus: an overall bar, then a higher grade in the subject your child wants to carry on. Our Croydon GCSE tutors work on that second number, one-to-one and online, starting from your child's last marked paper."
+hero_lead: "You'll probably spot it on the prospectus: an overall bar, then a higher grade in the subject your child wants to carry on. Our GCSE tutors for Croydon students work on that second number, one-to-one and online, starting from your child's last marked paper."
 
 grade_from: "5"
 grade_to: "6/7"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online One-to-One A-Level Chemistry Tutoring for Coventry Families"
-hero_lead: "Electron configuration turns up in your child's first weeks of A-Level Chemistry, then sits under two years of questions. Our Coventry A-Level Chemistry tutors rebuild it properly, including the filling order that catches almost everyone out."
+hero_lead: "Electron configuration turns up in your child's first weeks of A-Level Chemistry, then sits under two years of questions. Our A-Level Chemistry tutors for Coventry students rebuild it properly, including the filling order that catches almost everyone out."
 
 angle_eyebrow: "THE FIRST TOPIC EVERYTHING ELSE NEEDS"
 angle_heading: "How an Early Topic Can Cost Your Child Marks in Year 13"

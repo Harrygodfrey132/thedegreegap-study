@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors in Newcastle upon Tyne, Matched to Your Child's Exam Board"
-hero_lead: "Pure was going fine, then Mechanics arrived and your child stopped knowing where to start. It happens a lot in Year 12. Our Newcastle upon Tyne A-Level Maths tutors are matched to the exam board your child's sixth form uses, because that decides which paper Mechanics sits on."
+hero_lead: "Pure was going fine, then Mechanics arrived and your child stopped knowing where to start. It happens a lot in Year 12. Our A-Level Maths tutors for Newcastle upon Tyne students are matched to the exam board your child's sixth form uses, because that decides which paper Mechanics sits on."
 
 angle_eyebrow: "WHERE THE BOARD PUTS MECHANICS"
 angle_heading: "Why Your Child's Exam Board Matters So Much for Mechanics"

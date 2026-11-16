@@ -6,7 +6,7 @@ location: "Basingstoke"
 level: "GCSE"
 
 hero_heading_line1: "Online Basingstoke GCSE Tutors Who Help Your Child Get It Down on Paper"
-hero_lead: "Ask your child about photosynthesis over tea and they can explain the lot. Then a six-mark question on it comes back with two marks. Our Basingstoke GCSE tutors work on that gap online, one-to-one, with something written and marked every week."
+hero_lead: "Ask your child about photosynthesis over tea and they can explain the lot. Then a six-mark question on it comes back with two marks. Our GCSE tutors for Basingstoke students work on that gap online, one-to-one, with something written and marked every week."
 
 grade_from: "4"
 grade_to: "6"

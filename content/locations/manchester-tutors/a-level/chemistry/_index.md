@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for Manchester, Matched on Exam Board"
-hero_lead: "Two children in the same class can lose the same twenty Chemistry marks for completely different reasons. Our Manchester A-Level Chemistry tutors work out which it is for your child, then start on the enthalpy cycles and the rate data."
+hero_lead: "Two children in the same class can lose the same twenty Chemistry marks for completely different reasons. Our A-Level Chemistry tutors for Manchester students work out which it is for your child, then start on the enthalpy cycles and the rate data."
 
 angle_eyebrow: "SAME GRADE, DIFFERENT PROBLEM"
 angle_heading: "What an Online A-Level Chemistry Tutor Looks for First in Your Child's Working"

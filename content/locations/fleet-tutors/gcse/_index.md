@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Fleet GCSE Tutors for the Year Your Child Also Picks a College"
 hero_heading_line2: ""
-hero_lead: "Mock revision on one side of the desk, a college application on the other, and a fifteen-year-old who insists it's all fine. Our Fleet GCSE tutors can take the GCSE side of that, with one-to-one lessons online aimed at whatever's costing the most marks."
+hero_lead: "Mock revision on one side of the desk, a college application on the other, and a fifteen-year-old who insists it's all fine. Our GCSE tutors for Fleet students can take the GCSE side of that, with one-to-one lessons online aimed at whatever's costing the most marks."
 
 grade_from: "5"
 grade_to: "6/7"

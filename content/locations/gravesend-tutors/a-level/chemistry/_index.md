@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for Gravesend Students Stuck on Equilibria and Electrode Potentials"
-hero_lead: "Year 13 Chemistry piles calculation on top of explanation, and Kp or a cell potential can undo a child who coped well in Year 12. Our Gravesend A-Level Chemistry tutors slow those topics down and rebuild them on your child's own board."
+hero_lead: "Year 13 Chemistry piles calculation on top of explanation, and Kp or a cell potential can undo a child who coped well in Year 12. Our A-Level Chemistry tutors for Gravesend students slow those topics down and rebuild them on your child's own board."
 
 angle_eyebrow: "EDEXCEL AT ONE, AQA AT THE OTHER"
 angle_heading: "Why a Gravesend A-Level Chemistry Tutor Checks the Board First"

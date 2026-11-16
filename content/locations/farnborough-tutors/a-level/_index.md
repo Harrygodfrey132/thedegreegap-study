@@ -6,7 +6,7 @@ location: "Farnborough"
 level: "A-Level"
 
 hero_heading_line1: "Online A-Level Tutors in Farnborough Who Watch How Your Child Works It Out"
-hero_lead: "In class, your child follows every worked example. At home, they get stuck halfway through a question and can't say where it went wrong. With our Farnborough A-Level tutors, each line shows up on screen as your child writes it, so the slip gets caught there and then."
+hero_lead: "In class, your child follows every worked example. At home, they get stuck halfway through a question and can't say where it went wrong. With our A-Level tutors for Farnborough students, each line shows up on screen as your child writes it, so the slip gets caught there and then."
 
 grade_from: "C"
 grade_to: "A"

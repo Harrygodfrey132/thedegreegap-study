@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Putney Teenagers Who Did the Practical but Can't Describe It"
-hero_lead: "Your child did the experiments in class, but the exam asks them to plan one and judge somebody else's results, and that's where the marks slip. Our Putney GCSE Science tutors teach every practical as an exam question, on your child's own board."
+hero_lead: "Your child did the experiments in class, but the exam asks them to plan one and judge somebody else's results, and that's where the marks slip. Our GCSE Science tutors for Putney students teach every practical as an exam question, on your child's own board."
 
 angle_eyebrow: "THE LAB, ON PAPER"
 angle_heading: "Why the Practicals Catch Out So Many Putney Students in GCSE Science"

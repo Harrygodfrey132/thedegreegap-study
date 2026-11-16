@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Guildford Families Chasing an A*"
-hero_lead: "When your child's A in Biology is safe but the A* won't come, effort usually isn't what's missing. Our Guildford A-Level Biology tutors work on the questions that link both years of the course, and on spotting what's wrong with an experiment."
+hero_lead: "When your child's A in Biology is safe but the A* won't come, effort usually isn't what's missing. Our A-Level Biology tutors for Guildford students work on the questions that link both years of the course, and on spotting what's wrong with an experiment."
 
 angle_eyebrow: "THE LAST TEN PER CENT"
 angle_heading: "What Stands Between Your Child's A and an A* in Biology"

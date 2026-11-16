@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for Families in Sunbury-on-Thames"
-hero_lead: "Your child gets a few spectra, the read-outs from lab instruments, and one question: what's the compound? Plenty of teenagers freeze, because there's no answer to revise. Our Sunbury-on-Thames A-Level Chemistry tutors teach the method instead."
+hero_lead: "Your child gets a few spectra, the read-outs from lab instruments, and one question: what's the compound? Plenty of teenagers freeze, because there's no answer to revise. Our A-Level Chemistry tutors for Sunbury-on-Thames students teach the method instead."
 
 angle_eyebrow: "WORK OUT WHAT THE COMPOUND IS"
 angle_heading: "The Chemistry Questions Revision Can't Help With"

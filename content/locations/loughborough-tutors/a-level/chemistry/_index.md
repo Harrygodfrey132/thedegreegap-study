@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutoring Around Loughborough"
-hero_lead: "A lot of the marks your child loses on bond enthalpy come down to one miscounted bond or a minus sign the wrong way round. Our Loughborough A-Level Chemistry tutors practise those steps with your child until they stop slipping."
+hero_lead: "A lot of the marks your child loses on bond enthalpy come down to one miscounted bond or a minus sign the wrong way round. Our A-Level Chemistry tutors for Loughborough students practise those steps with your child until they stop slipping."
 
 angle_eyebrow: "THE MINUS SIGN THAT COSTS MARKS"
 angle_heading: "Why Your Child Keeps Losing Easy Marks on Bond Enthalpy"

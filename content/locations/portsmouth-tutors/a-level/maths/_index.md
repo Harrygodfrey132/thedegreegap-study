@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Portsmouth, Southsea and Fareham"
-hero_lead: "Lots of teenagers leave marks on the table in numerical methods, because the topic looks like button-pressing and gets skipped. Our Portsmouth A-Level Maths tutors work on iteration, Newton-Raphson and the short written reasons examiners want to see."
+hero_lead: "Lots of teenagers leave marks on the table in numerical methods, because the topic looks like button-pressing and gets skipped. Our A-Level Maths tutors for Portsmouth students work on iteration, Newton-Raphson and the short written reasons examiners want to see."
 
 angle_eyebrow: "THE EASIEST MARKS NOBODY COLLECTS"
 angle_heading: "The Marks Your Child Loses After Getting the Right Answer"

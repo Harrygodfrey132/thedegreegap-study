@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Epsom GCSE Tutors for When Your Child's Grade Has Stopped Climbing"
 hero_heading_line2: ""
-hero_lead: "The mock came back fine. But it's the same grade as last time, and nobody can quite tell you why it's stuck. Our Epsom GCSE tutors find the topic holding it back and go over it with your child until the marks start moving again."
+hero_lead: "The mock came back fine. But it's the same grade as last time, and nobody can quite tell you why it's stuck. Our GCSE tutors for Epsom students find the topic holding it back and go over it with your child until the marks start moving again."
 
 grade_from: "5"
 grade_to: "6/7"

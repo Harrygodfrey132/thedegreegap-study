@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Portsmouth A-Level Tutors for a Child Who Keeps Running Out of Time"
 hero_heading_line2: ""
-hero_lead: "If your child comes out of every paper saying they ran out of time, they're not alone. Plenty of Year 13s know the answers but can't get them down fast enough. Our Portsmouth A-Level tutors work on pace and structure as well as content."
+hero_lead: "If your child comes out of every paper saying they ran out of time, they're not alone. Plenty of Year 13s know the answers but can't get them down fast enough. Our A-Level tutors for Portsmouth students work on pace and structure as well as content."
 
 grade_from: "E"
 grade_to: "C"

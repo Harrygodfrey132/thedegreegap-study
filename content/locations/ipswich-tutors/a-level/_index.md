@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online A-Level tutors for the Ipswich student who is applying two ways at once"
 hero_heading_line2: ""
-hero_lead: "Around here a Year 13 often has two applications running, one through UCAS and one to a scheme with a deadline of its own. Both get judged on the same predicted grade. Our Ipswich A-Level tutors work on that grade, one-to-one and online over Lessonspace."
+hero_lead: "Around here a Year 13 often has two applications running, one through UCAS and one to a scheme with a deadline of its own. Both get judged on the same predicted grade. Our A-Level tutors for Ipswich students work on that grade, one-to-one and online over Lessonspace."
 
 grade_from: "C"
 grade_to: "A"

@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Royston GCSE Tutors for the Grades Behind Your Child's Sixth Form Application"
 hero_heading_line2: ""
-hero_lead: "Sixth form applications go in during Year 11, long before results day, and Hills Road in Cambridge scores them on predicted grades. Our Royston GCSE tutors work with your child on the subject that's dragging those predictions down, one-to-one and online."
+hero_lead: "Sixth form applications go in during Year 11, long before results day, and Hills Road in Cambridge scores them on predicted grades. Our GCSE tutors for Royston students work with your child on the subject that's dragging those predictions down, one-to-one and online."
 
 grade_from: "5"
 grade_to: "6/7"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Physics"
 
 hero_h1: "Online A-Level Physics Tutors Helping Watford Families"
-hero_lead: "If your child was confident in Physics until the quantum topics arrived, that's more common than you'd think. Our Watford A-Level Physics tutors help them get comfortable with ideas that go against everything they've been taught."
+hero_lead: "If your child was confident in Physics until the quantum topics arrived, that's more common than you'd think. Our A-Level Physics tutors for Watford students help them get comfortable with ideas that go against everything they've been taught."
 
 angle_eyebrow: "IT'S NOT MEANT TO FEEL OBVIOUS"
 angle_heading: "Why Quantum Physics Can Rattle a Child Who Was Doing Well"

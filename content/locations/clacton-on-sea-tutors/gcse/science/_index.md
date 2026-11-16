@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Clacton-on-Sea Students Losing Marks on the Long Answers"
-hero_lead: "Your child can label a cell and recite the equations, then a six-mark question about a practical comes back with two. Our Clacton-on-Sea GCSE Science tutors teach them to plan those answers and handle the maths hidden inside the questions."
+hero_lead: "Your child can label a cell and recite the equations, then a six-mark question about a practical comes back with two. Our GCSE Science tutors for Clacton-on-Sea students teach them to plan those answers and handle the maths hidden inside the questions."
 
 angle_eyebrow: "SIX MARKS ASKED, TWO ON THE PAGE"
 angle_heading: "Where GCSE Science Marks Leak for Clacton-on-Sea Students, and Why It Matters After 16"

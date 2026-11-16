@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Sevenoaks and West Kent"
-hero_lead: "If your child's marks stop just short of the top grade, the missing ones are rarely in the arithmetic. Our Sevenoaks A-Level Maths tutors work on the questions that ask them to describe what the numbers are doing, from sequences to recurrence relations."
+hero_lead: "If your child's marks stop just short of the top grade, the missing ones are rarely in the arithmetic. Our A-Level Maths tutors for Sevenoaks students work on the questions that ask them to describe what the numbers are doing, from sequences to recurrence relations."
 
 angle_eyebrow: "THE MARKS ARE IN THE DESCRIBING"
 angle_heading: "Where the Last Few Marks Hide for a Sevenoaks Year 13"

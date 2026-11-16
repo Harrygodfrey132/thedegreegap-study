@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Wigan Families"
-hero_lead: "Your child's putting the hours in, and still the Maths paper keeps coming back a grade short of what Winstanley or St John Rigby will want. Our Wigan GCSE Maths tutors find the questions where the marks are slipping, and that's where they start."
+hero_lead: "Your child's putting the hours in, and still the Maths paper keeps coming back a grade short of what Winstanley or St John Rigby will want. Our GCSE Maths tutors for Wigan students find the questions where the marks are slipping, and that's where they start."
 
 angle_eyebrow: "A STEADY 5, A 7, AND THE MARKS IN BETWEEN"
 angle_heading: "A Steady 5 or a Push for a 7: Where Your Child's Maths Marks Are Going"

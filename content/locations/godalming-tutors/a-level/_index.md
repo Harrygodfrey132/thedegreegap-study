@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online A-Level Tutors in Godalming Who Help Year 12s Find Their Feet"
 hero_heading_line2: ""
-hero_lead: "For lots of Godalming teenagers, Year 12 means a new college as well as new subjects, with far more of the week to organise alone. Our Godalming A-Level tutors help your child settle into a way of working, one-to-one and online, while there's plenty of Year 12 left."
+hero_lead: "For lots of Godalming teenagers, Year 12 means a new college as well as new subjects, with far more of the week to organise alone. Our A-Level tutors for Godalming students help your child settle into a way of working, one-to-one and online, while there's plenty of Year 12 left."
 
 grade_from: "C"
 grade_to: "A"

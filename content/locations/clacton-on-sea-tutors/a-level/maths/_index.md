@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Clacton-on-Sea Sixth Formers Finding Year 12 a Jump"
-hero_lead: "Your child did well enough at GCSE to take A-Level Maths, and now the algebra moves faster than they can keep up with. Our Clacton-on-Sea A-Level Maths tutors go back to the GCSE methods underneath and build up from there."
+hero_lead: "Your child did well enough at GCSE to take A-Level Maths, and now the algebra moves faster than they can keep up with. Our A-Level Maths tutors for Clacton-on-Sea students go back to the GCSE methods underneath and build up from there."
 
 angle_eyebrow: "EDEXCEL, THREE PAPERS, NO COURSEWORK"
 angle_heading: "Where A-Level Maths Gets Hard for Clacton-on-Sea Sixth Formers, and What a Tutor Does"

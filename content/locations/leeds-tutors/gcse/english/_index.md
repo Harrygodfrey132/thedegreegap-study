@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Leeds GCSE English Tutors, Online and Matched to Your Child"
-hero_lead: "Your child can talk about Jekyll and Hyde at the dinner table, then the essay comes back a 5. With no state grammar schools in Leeds, that grade carries real weight for sixth form. Our Leeds GCSE English tutors work on the writing and timing that decide it."
+hero_lead: "Your child can talk about Jekyll and Hyde at the dinner table, then the essay comes back a 5. With no state grammar schools in Leeds, that grade carries real weight for sixth form. Our GCSE English tutors for Leeds students work on the writing and timing that decide it."
 
 angle_eyebrow: "WHERE LEEDS ENGLISH MARKS SLIP AWAY"
 angle_heading: "Why Good Readers in Leeds Still Drop Marks in GCSE English"

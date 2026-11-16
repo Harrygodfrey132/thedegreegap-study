@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring in Exeter for the Child Who's Written English Off"
-hero_lead: "Your son's decided English isn't his subject, and since he wants to do engineering, he reckons that's fine. It isn't. Nearly every Exeter College course asks for English, and our Exeter GCSE English tutors are used to teenagers who'd rather be doing something else."
+hero_lead: "Your son's decided English isn't his subject, and since he wants to do engineering, he reckons that's fine. It isn't. Nearly every Exeter College course asks for English, and our GCSE English tutors for Exeter students are used to teenagers who'd rather be doing something else."
 
 angle_eyebrow: "THE SUBJECT EVERY EXETER ROUTE ASKS FOR"
 angle_heading: "Why English Matters Even If Your Child Hates Essays"

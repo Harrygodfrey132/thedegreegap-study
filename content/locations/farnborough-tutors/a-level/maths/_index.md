@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tuition for Farnborough Families"
-hero_lead: "Right numbers, half the marks: that's how a lot of A-Level statistics answers come back. Our Farnborough A-Level Maths tutors help your child finish the job, comparing the average and the spread and saying what each one means in real terms."
+hero_lead: "Right numbers, half the marks: that's how a lot of A-Level statistics answers come back. Our A-Level Maths tutors for Farnborough students help your child finish the job, comparing the average and the spread and saying what each one means in real terms."
 
 angle_eyebrow: "THE SENTENCE AFTER THE CALCULATION"
 angle_heading: "Why a Farnborough Teenager's Right Statistics Answers Still Lose Marks"

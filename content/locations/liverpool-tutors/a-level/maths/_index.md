@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors Covering Liverpool"
-hero_lead: "If your child's Maths marks have dipped in Year 13 even though they know every rule, it's usually because the questions stop testing one rule at a time. Our Liverpool A-Level Maths tutors focus on the combined calculus, vectors and numerical methods questions that catch them out."
+hero_lead: "If your child's Maths marks have dipped in Year 13 even though they know every rule, it's usually because the questions stop testing one rule at a time. Our A-Level Maths tutors for Liverpool students focus on the combined calculus, vectors and numerical methods questions that catch them out."
 
 angle_eyebrow: "KNOWING THE RULE ISN'T THE SAME AS CHOOSING IT"
 angle_heading: "Why Your Child Can Know Every Rule and Still Lose the Question"

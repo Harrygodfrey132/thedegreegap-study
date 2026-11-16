@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Weybridge: the Grade Every Sixth Form Checks"
-hero_lead: "Whatever your child wants to do after Year 11, the English Language grade will be on the entry list. Our Weybridge GCSE English tutors work one-to-one online on the set texts, the question types and the timing, so English isn't the grade holding them back."
+hero_lead: "Whatever your child wants to do after Year 11, the English Language grade will be on the entry list. Our GCSE English tutors for Weybridge students work one-to-one online on the set texts, the question types and the timing, so English isn't the grade holding them back."
 
 angle_eyebrow: "THE GRADE ON EVERY ENTRY LIST"
 angle_heading: "Why English Language Matters Whichever Way Your Weybridge Teenager Goes at Sixteen"

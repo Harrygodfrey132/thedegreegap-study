@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Solihull A-Level Tutors for the One Grade Your Child's Next Step Needs"
 hero_heading_line2: ""
-hero_lead: "You might have a child set on university, or one who'd rather start at Jaguar Land Rover as a degree apprentice. Either way, somebody's asking for grades. Our Solihull A-Level tutors find the grade that matters most for where your child's heading, and start there."
+hero_lead: "You might have a child set on university, or one who'd rather start at Jaguar Land Rover as a degree apprentice. Either way, somebody's asking for grades. Our A-Level tutors for Solihull students find the grade that matters most for where your child's heading, and start there."
 
 grade_from: "C"
 grade_to: "A"

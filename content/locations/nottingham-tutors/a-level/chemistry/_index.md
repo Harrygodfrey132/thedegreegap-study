@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors Covering Nottingham"
-hero_lead: "If your child was coping with Chemistry until pH came along, logarithms are often why. Our Nottingham A-Level Chemistry tutors work through acid-base theory and the calculations that follow from it."
+hero_lead: "If your child was coping with Chemistry until pH came along, logarithms are often why. Our A-Level Chemistry tutors for Nottingham students work through acid-base theory and the calculations that follow from it."
 
 angle_eyebrow: "WHERE THE MATHS CATCHES UP"
 angle_heading: "When the Chemistry Makes Sense but the pH Answers Don't"

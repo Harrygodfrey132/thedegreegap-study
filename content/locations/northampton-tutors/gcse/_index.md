@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online GCSE Tutors for the Northampton Year 11 Who Revises and Still Stalls"
 hero_heading_line2: ""
-hero_lead: "The revision goes in, the mock grade doesn't move, and nobody at home can say why. Our Northampton GCSE tutors start with that marked paper, not the textbook, in one-to-one lessons online."
+hero_lead: "The revision goes in, the mock grade doesn't move, and nobody at home can say why. Our GCSE tutors for Northampton students start with that marked paper, not the textbook, in one-to-one lessons online."
 
 grade_from: "5"
 grade_to: "6/7"

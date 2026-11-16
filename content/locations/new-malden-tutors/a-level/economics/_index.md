@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Economics"
 
 hero_h1: "Online A-Level Economics Tutors for New Malden Students Surprised by How Much Writing It Takes"
-hero_lead: "Your child picked Economics for the graphs and the numbers, then found most of the marks sit in long written answers. Our New Malden A-Level Economics tutors teach them to build an argument around a diagram and finish with a real judgement."
+hero_lead: "Your child picked Economics for the graphs and the numbers, then found most of the marks sit in long written answers. Our A-Level Economics tutors for New Malden students teach them to build an argument around a diagram and finish with a real judgement."
 
 angle_eyebrow: "MORE ESSAY THAN EXPECTED"
 angle_heading: "How an A-Level Economics Tutor Turns Diagrams Into Marks for New Malden Sixth Formers"

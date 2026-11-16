@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors Covering Henley-on-Thames"
-hero_lead: "A good GCSE in Maths doesn't always prepare your child for how quickly Year 12 moves into calculus and mechanics. Our Henley-on-Thames A-Level Maths tutors go back to the algebra underneath, then work forward from your child's first marked tests, with a weekly one-to-one lesson online."
+hero_lead: "A good GCSE in Maths doesn't always prepare your child for how quickly Year 12 moves into calculus and mechanics. Our A-Level Maths tutors for Henley-on-Thames students go back to the algebra underneath, then work forward from your child's first marked tests, with a weekly one-to-one lesson online."
 
 angle_eyebrow: "ALL THREE STRANDS, FROM SEPTEMBER"
 angle_heading: "What Changes for Your Child Between GCSE Maths and Year 12"

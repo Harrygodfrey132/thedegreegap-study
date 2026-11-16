@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Harrogate Families, Year 12 and 13"
-hero_lead: "If your child sailed through GCSE Maths and now Year 12 has them stuck for the first time, it's more common than you'd think. It's usually about method, not ability, and our Harrogate A-Level Maths tutors work online, once a week, on the algebra underneath each topic."
+hero_lead: "If your child sailed through GCSE Maths and now Year 12 has them stuck for the first time, it's more common than you'd think. It's usually about method, not ability, and our A-Level Maths tutors for Harrogate students work online, once a week, on the algebra underneath each topic."
 
 angle_eyebrow: "THE YEAR 12 DIP THAT CATCHES FAMILIES OUT"
 angle_heading: "Why a Grade 8 at GCSE Can Still Mean a Hard First Term of A-Level Maths"

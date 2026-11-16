@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Families in and Around High Wycombe"
-hero_lead: "A-Level Biology papers are long, and for lots of teenagers the answers get weaker well before the end. Our High Wycombe A-Level Biology tutors treat that stamina as something your child can train."
+hero_lead: "A-Level Biology papers are long, and for lots of teenagers the answers get weaker well before the end. Our A-Level Biology tutors for High Wycombe students treat that stamina as something your child can train."
 
 angle_eyebrow: "THE LAST HALF HOUR OF THE PAPER"
 angle_heading: "Why Your Child's Biology Answers Slip as the Paper Goes On"

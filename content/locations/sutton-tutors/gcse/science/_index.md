@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors in Sutton Who Find Which Science Is Costing Marks"
-hero_lead: "Three sciences go into your child's Combined Science result, and out come two grades that don't say which one is slipping. Our Sutton GCSE Science tutors pull the three apart online, one-to-one, before anyone spends a term on the wrong science."
+hero_lead: "Three sciences go into your child's Combined Science result, and out come two grades that don't say which one is slipping. Our GCSE Science tutors for Sutton students pull the three apart online, one-to-one, before anyone spends a term on the wrong science."
 
 angle_eyebrow: "THREE SCIENCES, OFTEN THREE TEACHERS"
 angle_heading: "Triple or Combined, and Which Science Is Actually Slipping"

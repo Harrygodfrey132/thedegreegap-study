@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Wolverhampton, Matched on Exam Board"
-hero_lead: "Your child says they knew the answer, and the mark scheme still gave them nothing. It happens a lot in A-Level Biology. Our Wolverhampton A-Level Biology tutors start with command words and transport in plants, where it tends to show up most."
+hero_lead: "Your child says they knew the answer, and the mark scheme still gave them nothing. It happens a lot in A-Level Biology. Our A-Level Biology tutors for Wolverhampton students start with command words and transport in plants, where it tends to show up most."
 
 angle_eyebrow: "ANSWERING THE QUESTION THAT WAS ASKED"
 angle_heading: "Where an A-Level Biology Tutor Starts With Your Child in Wolverhampton"

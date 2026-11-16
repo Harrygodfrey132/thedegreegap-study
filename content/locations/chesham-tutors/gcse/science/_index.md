@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors in Chesham, Looking at Each Science on Its Own"
-hero_lead: "Biology comes back fine, Chemistry's a grade lower, and nobody's mentioned Physics since October. Our Chesham GCSE Science tutors treat your child's three sciences as three separate problems, because on the exam paper that's exactly what they are."
+hero_lead: "Biology comes back fine, Chemistry's a grade lower, and nobody's mentioned Physics since October. Our GCSE Science tutors for Chesham students treat your child's three sciences as three separate problems, because on the exam paper that's exactly what they are."
 
 angle_eyebrow: "ONE SCIENCE GRADE, THREE DIFFERENT PROBLEMS"
 angle_heading: "Why a Chesham Science Grade Hides More Than It Shows"

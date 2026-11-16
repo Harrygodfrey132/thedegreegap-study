@@ -6,7 +6,7 @@ location: "Basingstoke"
 level: "A-Level"
 
 hero_heading_line1: "Online A-Level Tutors in Basingstoke for the One Subject That's Slipping"
-hero_lead: "Often it isn't all three A-Levels. Just the one. You can hear it in the way your child talks about it. Our Basingstoke A-Level tutors start with that subject, and with the last test that didn't go well."
+hero_lead: "Often it isn't all three A-Levels. Just the one. You can hear it in the way your child talks about it. Our A-Level tutors for Basingstoke students start with that subject, and with the last test that didn't go well."
 
 grade_from: "C"
 grade_to: "A"

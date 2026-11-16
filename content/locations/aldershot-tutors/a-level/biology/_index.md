@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutoring for Aldershot Families"
-hero_lead: "A move between schools partway through A-Level Biology tends to leave your child with a few topics that slipped through the cracks. Our Aldershot A-Level Biology tutors find them first, then work on the diversity calculations that punish a missed fortnight."
+hero_lead: "A move between schools partway through A-Level Biology tends to leave your child with a few topics that slipped through the cracks. Our A-Level Biology tutors for Aldershot students find them first, then work on the diversity calculations that punish a missed fortnight."
 
 angle_eyebrow: "THE FORTNIGHT THAT FELL BETWEEN SCHOOLS"
 angle_heading: "What a Change of School Mid-Course Can Leave Behind"

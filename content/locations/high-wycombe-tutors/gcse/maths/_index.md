@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for High Wycombe Children Who've Gone Off Maths"
-hero_lead: "If your child's started saying they're 'just not a maths person', it probably began around Year 9, and the grade has followed. Our High Wycombe GCSE Maths tutors work online, going back to where that belief took hold and rebuilding from there."
+hero_lead: "If your child's started saying they're 'just not a maths person', it probably began around Year 9, and the grade has followed. Our GCSE Maths tutors for High Wycombe students work online, going back to where that belief took hold and rebuilding from there."
 
 angle_eyebrow: "WHEN 'I CAN'T DO MATHS' STARTED"
 angle_heading: "Why So Many Children Go Quiet in Maths Around Year 9"

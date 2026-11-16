@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Farnborough and Cove"
-hero_lead: "Your child has a college course picked out, and there's an English grade on the entry list. Our Farnborough GCSE English tutors give proper time to the Language task where your child argues their own view, which carries far more marks than most families realise."
+hero_lead: "Your child has a college course picked out, and there's an English grade on the entry list. Our GCSE English tutors for Farnborough students give proper time to the Language task where your child argues their own view, which carries far more marks than most families realise."
 
 angle_eyebrow: "THE QUESTION THAT ASKS WHAT YOUR CHILD THINKS"
 angle_heading: "Why Your Child's Own Opinion Is Worth So Many GCSE English Marks"

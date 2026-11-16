@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Solihull GCSE Tutors for the Grades That Decide the Next Step"
 hero_heading_line2: ""
-hero_lead: "For a lot of Solihull families, Year 11 is the first time grades decide where their child goes next. Our Solihull GCSE tutors work towards the grades your child's chosen sixth form asks for, rather than a general sense of doing well."
+hero_lead: "For a lot of Solihull families, Year 11 is the first time grades decide where their child goes next. Our GCSE tutors for Solihull students work towards the grades your child's chosen sixth form asks for, rather than a general sense of doing well."
 
 grade_from: "5"
 grade_to: "6/7"

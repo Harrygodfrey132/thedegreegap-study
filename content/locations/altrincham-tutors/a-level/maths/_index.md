@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Altrincham, Before the Harder Half of the Course Arrives"
-hero_lead: "Most of your child's predicted Maths grade is built on Year 12, and that's the easier half of the course. Our Altrincham A-Level Maths tutors get the harder half in front of them early, one-to-one online: integration, 3D vectors and the tougher Mechanics."
+hero_lead: "Most of your child's predicted Maths grade is built on Year 12, and that's the easier half of the course. Our A-Level Maths tutors for Altrincham students get the harder half in front of them early, one-to-one online: integration, 3D vectors and the tougher Mechanics."
 
 angle_eyebrow: "GRADED ON THE EASIER HALF"
 angle_heading: "Why a Good Year 12 Maths Report Can Hide What's Coming"

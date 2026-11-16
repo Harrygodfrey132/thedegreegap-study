@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutoring for Luton: When the GCSE Method Stops Working"
-hero_lead: "A strong GCSE grade buys about half a term at A-Level, then the questions stop announcing which method they want. Our Luton A-Level Maths tutors teach the choosing, not just the doing. Online and one-to-one, an hour a week."
+hero_lead: "A strong GCSE grade buys about half a term at A-Level, then the questions stop announcing which method they want. Our A-Level Maths tutors for Luton students teach the choosing, not just the doing. Online and one-to-one, an hour a week."
 
 angle_eyebrow: "THE QUESTION ARRIVES WITH NO LABEL"
 angle_heading: "Why Year 12 Maths Is a Different Subject, Not a Harder One"

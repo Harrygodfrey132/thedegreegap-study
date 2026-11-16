@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Altrincham Families, From Algebraic Proof to Circle Theorems"
-hero_lead: "If your child flies through the first half of a Maths paper and then the marks dry up, you'll have seen it on the mock: a blank proof, a circle theorem guessed at. Our Altrincham GCSE Maths tutors start right there, one-to-one and online."
+hero_lead: "If your child flies through the first half of a Maths paper and then the marks dry up, you'll have seen it on the mock: a blank proof, a circle theorem guessed at. Our GCSE Maths tutors for Altrincham students start right there, one-to-one and online."
 
 angle_eyebrow: "THE QUESTIONS THAT START WITH 'PROVE'"
 angle_heading: "Where the Grade Goes When Your Child's Arithmetic Is Already Fine"

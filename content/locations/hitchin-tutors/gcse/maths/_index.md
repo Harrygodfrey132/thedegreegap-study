@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutoring for Hitchin That Starts From Your Child's Marked Paper"
-hero_lead: "A revision list shows what your child's been taught. A marked paper shows what's actually costing them marks. Our Hitchin GCSE Maths tutors start from the paper, in one-to-one lessons online."
+hero_lead: "A revision list shows what your child's been taught. A marked paper shows what's actually costing them marks. Our GCSE Maths tutors for Hitchin students start from the paper, in one-to-one lessons online."
 
 angle_eyebrow: "THE CONSORTIUM'S MATHS BAR"
 angle_heading: "How the Hitchin Consortium Reads Your Child's Maths Grade"

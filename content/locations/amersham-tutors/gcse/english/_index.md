@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring in Amersham for Keen Readers Who Lose Marks on Structure"
-hero_lead: "If your child always has a book on the go, a middling English grade can come as a real surprise. But writing about how a text is built is its own skill. Our Amersham GCSE English tutors work one-to-one online on the questions where keen readers lose marks."
+hero_lead: "If your child always has a book on the go, a middling English grade can come as a real surprise. But writing about how a text is built is its own skill. Our GCSE English tutors for Amersham students work one-to-one online on the questions where keen readers lose marks."
 
 angle_eyebrow: "GOOD READER, THIN ANSWER"
 angle_heading: "The English Questions That Catch Out Confident Readers"

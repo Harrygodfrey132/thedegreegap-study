@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors Covering Godalming"
-hero_lead: "A 6-5 in Combined Science sounds close to the 6s a college science course asks for, yet it can still leave your child a grade short. Our Godalming GCSE Science tutors track down the topics behind that missing grade, one-to-one online, from genetics crosses to heat calculations."
+hero_lead: "A 6-5 in Combined Science sounds close to the 6s a college science course asks for, yet it can still leave your child a grade short. Our GCSE Science tutors for Godalming students track down the topics behind that missing grade, one-to-one online, from genetics crosses to heat calculations."
 
 card_eyebrow: "FREE SCIENCE CONSULTATION"
 card_heading: "Worried about the Science grade? Talk to us"

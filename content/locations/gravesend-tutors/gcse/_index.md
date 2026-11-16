@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online GCSE Tutors for Gravesend Students With One Subject They've Given Up On"
 hero_heading_line2: ""
-hero_lead: "Most teenagers have one GCSE subject they've quietly stopped trying in, and asking about it at dinner only makes things worse. Our Gravesend GCSE tutors find out where it stalled and give your child a reason to try again."
+hero_lead: "Most teenagers have one GCSE subject they've quietly stopped trying in, and asking about it at dinner only makes things worse. Our GCSE tutors for Gravesend students find out where it stalled and give your child a reason to try again."
 
 grade_from: "5"
 grade_to: "6/7"

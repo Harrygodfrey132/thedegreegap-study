@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors in Royal Leamington Spa for Combined and Triple"
-hero_lead: "Combined or Triple, your child will most likely sit six Science papers spread across May and June. It's easy for one science to fade while the others get the attention. Our Royal Leamington Spa GCSE Science tutors help your child plan the revision order, not just the content."
+hero_lead: "Combined or Triple, your child will most likely sit six Science papers spread across May and June. It's easy for one science to fade while the others get the attention. Our GCSE Science tutors for Royal Leamington Spa students help your child plan the revision order, not just the content."
 
 angle_eyebrow: "SIX PAPERS, TWO MONTHS, THREE SCIENCES TO KEEP FRESH"
 angle_heading: "Keeping All Three Sciences Fresh Until Their Own Exam Days"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring in Chester for Keen Readers With Disappointing Grades"
-hero_lead: "There's always a book on the go in your child's room, so a 5 in English doesn't add up. It puzzles plenty of parents, and our Chester GCSE English tutors work on exactly that gap, between reading well and answering well."
+hero_lead: "There's always a book on the go in your child's room, so a 5 in English doesn't add up. It puzzles plenty of parents, and our GCSE English tutors for Chester students work on exactly that gap, between reading well and answering well."
 
 angle_eyebrow: "A READER WITH A DISAPPOINTING GRADE"
 angle_heading: "Why a Child Who Loves Books Can Still Get a 5 in English"

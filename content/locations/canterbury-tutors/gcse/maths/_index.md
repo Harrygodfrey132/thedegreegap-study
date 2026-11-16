@@ -7,7 +7,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Canterbury, Whichever School Your Child Is At"
-hero_lead: "Five years after the Kent Test, Maths is often where you can still feel its effect, whichever way it went. Our Canterbury GCSE Maths tutors work on the questions actually costing your child the grade, at a grammar or anywhere else in the city."
+hero_lead: "Five years after the Kent Test, Maths is often where you can still feel its effect, whichever way it went. Our GCSE Maths tutors for Canterbury students work on the questions actually costing your child the grade, at a grammar or anywhere else in the city."
 
 angle_eyebrow: "WHERE A CANTERBURY MATHS GRADE GOES"
 angle_heading: "Same Paper, Two Very Different Rooms"

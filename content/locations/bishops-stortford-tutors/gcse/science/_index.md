@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Bishop's Stortford, Where Science Can Be Three of the Eight Grades"
-hero_lead: "When you add up your child's likely grades for a sixth form here, Science can be two or three of the eight. So one shaky science pulls the total down further than you'd expect. Our Bishop's Stortford GCSE Science tutors work one-to-one online, find the one costing marks and start there."
+hero_lead: "When you add up your child's likely grades for a sixth form here, Science can be two or three of the eight. So one shaky science pulls the total down further than you'd expect. Our GCSE Science tutors for Bishop's Stortford students work one-to-one online, find the one costing marks and start there."
 
 angle_eyebrow: "UP TO THREE OF THE EIGHT"
 angle_heading: "How Much Science Weighs on Your Child's Sixth Form Points Total"

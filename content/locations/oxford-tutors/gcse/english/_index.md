@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring for Oxford Families, Whatever the Grade"
-hero_lead: "Most families who call us about English aren't chasing a top grade. They've got a child who's quietly decided they're bad at the subject. Our Oxford GCSE English tutors work online, and helping that child is most of what they do."
+hero_lead: "Most families who call us about English aren't chasing a top grade. They've got a child who's quietly decided they're bad at the subject. Our GCSE English tutors for Oxford students work online, and helping that child is most of what they do."
 
 angle_eyebrow: "TUTORING ISN'T ONLY FOR THE TOP OF THE CLASS"
 angle_heading: "What an Online GCSE English Tutor Actually Does for Your Child in Oxford"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors Covering Cambridge, Matched on Set Texts"
-hero_lead: "If your child's English essays read well but keep coming back a band lower than you'd expect, it's nearly always the structure, not the ideas. Our Cambridge GCSE English tutors show your child how to build an argument and back it with the right quote, in the time they've got."
+hero_lead: "If your child's English essays read well but keep coming back a band lower than you'd expect, it's nearly always the structure, not the ideas. Our GCSE English tutors for Cambridge students show your child how to build an argument and back it with the right quote, in the time they've got."
 
 angle_eyebrow: "WHERE CAMBRIDGE ENGLISH MARKS GO MISSING"
 angle_heading: "Why Two Cambridge Essays of Equal Quality Get Graded a Band Apart"

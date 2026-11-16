@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Bracknell Students Whose Practicals Don't Turn Into Marks"
-hero_lead: "Your child did the practical in class and wrote it up, then the exam asked about it in a way they didn't expect. Our Bracknell GCSE Science tutors turn what happened at the lab bench into answers that score."
+hero_lead: "Your child did the practical in class and wrote it up, then the exam asked about it in a way they didn't expect. Our GCSE Science tutors for Bracknell students turn what happened at the lab bench into answers that score."
 
 angle_eyebrow: "TWO GRADES FOR ONE SUBJECT"
 angle_heading: "What a GCSE Science Tutor Fixes First for Bracknell Teenagers Eyeing Sixth Form"

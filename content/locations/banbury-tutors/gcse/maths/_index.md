@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Banbury, Starting with the Non-Calculator Paper"
-hero_lead: "Does your child go quiet at the words 'non-calculator paper'? There's usually a good reason, and that paper counts for just as much as the other two. Our Banbury GCSE Maths tutors work online on the paper most teenagers are quietly weakest at."
+hero_lead: "Does your child go quiet at the words 'non-calculator paper'? There's usually a good reason, and that paper counts for just as much as the other two. Our GCSE Maths tutors for Banbury students work online on the paper most teenagers are quietly weakest at."
 
 angle_eyebrow: "NOWHERE TO HIDE"
 angle_heading: "Why the Non-Calculator Paper Exposes What the Others Cover Up"

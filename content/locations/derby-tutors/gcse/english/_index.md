@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors Covering Derby"
-hero_lead: "On the English Language paper, your child gets an extract they've never seen and has to write well about it, against the clock. Our Derby GCSE English tutors work online on the part nobody can revise for."
+hero_lead: "On the English Language paper, your child gets an extract they've never seen and has to write well about it, against the clock. Our GCSE English tutors for Derby students work online on the part nobody can revise for."
 
 angle_eyebrow: "THE PAPER YOU CAN'T REVISE FOR"
 angle_heading: "Why the Unseen Extract Catches Out Children Who Know Their Texts"

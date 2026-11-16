@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Fareham and Portchester Families"
-hero_lead: "Your child might get the series questions right and still not finish the paper, and how they start each one is often why. Our Fareham A-Level Maths tutors teach them to spot the structure before writing anything."
+hero_lead: "Your child might get the series questions right and still not finish the paper, and how they start each one is often why. Our A-Level Maths tutors for Fareham students teach them to spot the structure before writing anything."
 
 angle_eyebrow: "SPOT IT OR GRIND IT"
 angle_heading: "Why Series Questions Take Some Teenagers So Long"

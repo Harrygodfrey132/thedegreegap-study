@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Bracknell Students Losing Marks on the Long Answers"
-hero_lead: "Your child has learnt the content, flashcards and all, and the long answers still come back with half marks. Our Bracknell A-Level Biology tutors show them how to link topics the way the mark scheme wants."
+hero_lead: "Your child has learnt the content, flashcards and all, and the long answers still come back with half marks. Our A-Level Biology tutors for Bracknell students show them how to link topics the way the mark scheme wants."
 
 angle_eyebrow: "WHEN FLASHCARDS STOP BEING ENOUGH"
 angle_heading: "Where an A-Level Biology Tutor Finds the Missing Marks for Bracknell Sixth Formers"

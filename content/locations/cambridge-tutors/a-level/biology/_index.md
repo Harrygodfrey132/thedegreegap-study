@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Year 12 and 13 in Cambridge"
-hero_lead: "Your child's Biology tests can look fine for months while one topic quietly never went in, and it only shows when a Year 13 question leans on it. Our Cambridge A-Level Biology tutors check the whole course early, so those gaps turn up while there's still time."
+hero_lead: "Your child's Biology tests can look fine for months while one topic quietly never went in, and it only shows when a Year 13 question leans on it. Our A-Level Biology tutors for Cambridge students check the whole course early, so those gaps turn up while there's still time."
 
 angle_eyebrow: "THE GAP THAT DOESN'T ANNOUNCE ITSELF"
 angle_heading: "Why a Biology Gap Can Stay Hidden Until Year 13"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Cheltenham Families"
-hero_lead: "If your child knows their Biology but keeps leaving the last questions blank, it's often the clock, not the content. Our Cheltenham A-Level Biology tutors work on pacing, on mutation and variation, and on the practical questions hiding in the written papers."
+hero_lead: "If your child knows their Biology but keeps leaving the last questions blank, it's often the clock, not the content. Our A-Level Biology tutors for Cheltenham students work on pacing, on mutation and variation, and on the practical questions hiding in the written papers."
 
 angle_eyebrow: "KNOWING IT ISN'T THE SAME AS FINISHING IT"
 angle_heading: "What to Do When Your Child Never Reaches the End of the Paper"

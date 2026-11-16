@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Fleet Teenagers"
-hero_lead: "If your child takes Combined Science, the grade comes out as a pair, like 6-5, and near Fleet the second number can matter for a college course. Our Fleet GCSE Science tutors work with your child online, one-to-one, starting wherever the marks are slipping."
+hero_lead: "If your child takes Combined Science, the grade comes out as a pair, like 6-5, and near Fleet the second number can matter for a college course. Our GCSE Science tutors for Fleet students work with your child online, one-to-one, starting wherever the marks are slipping."
 
 angle_eyebrow: "6-5 OR 6-6?"
 angle_heading: "Why the Second Number in a Combined Science Grade Matters in Fleet"

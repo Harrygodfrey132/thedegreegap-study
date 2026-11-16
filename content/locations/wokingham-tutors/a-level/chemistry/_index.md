@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for Wokingham Students Stuck on Spectra and Synthesis"
-hero_lead: "Your child can name every functional group, then a question hands them an NMR spectrum, asks for the structure, and they freeze. Our Wokingham A-Level Chemistry tutors practise those puzzles one step at a time until there's a method to follow."
+hero_lead: "Your child can name every functional group, then a question hands them an NMR spectrum, asks for the structure, and they freeze. Our A-Level Chemistry tutors for Wokingham students practise those puzzles one step at a time until there's a method to follow."
 
 angle_eyebrow: "WORKING BACKWARDS FROM A SPECTRUM"
 angle_heading: "Where Year 13 Chemistry Gets Hard for Wokingham Students"

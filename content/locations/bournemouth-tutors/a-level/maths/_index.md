@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutoring in Bournemouth, Mechanics and Statistics Included"
-hero_lead: "Lots of teenagers choose A-Level Maths for the algebra, then find a third of the marks are mechanics and statistics. Our Bournemouth A-Level Maths tutors work through those applied topics properly with your child, one-to-one online, and keep the pure maths sharp alongside."
+hero_lead: "Lots of teenagers choose A-Level Maths for the algebra, then find a third of the marks are mechanics and statistics. Our A-Level Maths tutors for Bournemouth students work through those applied topics properly with your child, one-to-one online, and keep the pure maths sharp alongside."
 
 angle_eyebrow: "A THIRD OF THE MARKS AREN'T PURE MATHS"
 angle_heading: "Why a Third of A-Level Maths Feels Like a Different Subject"

@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online A-Level Tutoring in Berkhamsted, Before Your Child's Predicted Grades Are Written"
 hero_heading_line2: ""
-hero_lead: "If your child's stayed on at the same school for sixth form, the corridors feel familiar. The subjects don't, and it shows within weeks. Our Berkhamsted A-Level tutors teach what A-Level asks for that GCSE never did, one-to-one and online using the platform Lessonspace."
+hero_lead: "If your child's stayed on at the same school for sixth form, the corridors feel familiar. The subjects don't, and it shows within weeks. Our A-Level tutors for Berkhamsted students teach what A-Level asks for that GCSE never did, one-to-one and online using the platform Lessonspace."
 
 grade_from: "E"
 grade_to: "C"

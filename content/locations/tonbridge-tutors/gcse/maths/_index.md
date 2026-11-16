@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors Covering Tonbridge"
-hero_lead: "Your child says it all made sense in class, and then the Maths mock comes back a grade lower. Our Tonbridge GCSE Maths tutors find the first step that wobbles, usually well behind this term's topic, and rebuild it one-to-one online."
+hero_lead: "Your child says it all made sense in class, and then the Maths mock comes back a grade lower. Our GCSE Maths tutors for Tonbridge students find the first step that wobbles, usually well behind this term's topic, and rebuild it one-to-one online."
 
 card_eyebrow: "FREE CONSULTATION"
 card_heading: "Talk to a member of the team to start the matching process"

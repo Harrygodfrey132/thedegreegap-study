@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for Chelmsford, From Reactions to Routes"
-hero_lead: "There's a flashcard for every reaction on your child's desk. Then a synthesis question asks them to get from one molecule to another by a route no flashcard covers. Our Chelmsford A-Level Chemistry tutors teach them how to find it."
+hero_lead: "There's a flashcard for every reaction on your child's desk. Then a synthesis question asks them to get from one molecule to another by a route no flashcard covers. Our A-Level Chemistry tutors for Chelmsford students teach them how to find it."
 
 angle_eyebrow: "GETTING FROM HERE TO THERE"
 angle_heading: "Why Knowing Every Reaction Isn't Enough When the Question Wants a Route"

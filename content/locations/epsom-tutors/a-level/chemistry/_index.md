@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors Working With Epsom Families"
-hero_lead: "Your child can follow every Chemistry lesson, nod along in class, and still lose a third of the marks on the paper. Our Epsom A-Level Chemistry tutors go straight to the multi-step synthesis routes and the calculation chains, because that's where the marks go."
+hero_lead: "Your child can follow every Chemistry lesson, nod along in class, and still lose a third of the marks on the paper. Our A-Level Chemistry tutors for Epsom students go straight to the multi-step synthesis routes and the calculation chains, because that's where the marks go."
 
 angle_eyebrow: "UNDERSTANDING IT ISN'T THE SAME AS SCORING IT"
 angle_heading: "When Your Child Knows the Chemistry but Can't Yet Do It on Paper"

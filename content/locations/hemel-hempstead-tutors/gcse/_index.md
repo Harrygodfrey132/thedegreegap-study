@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Hemel Hempstead GCSE Tutors for Mocks That Don't Match the Classwork"
 hero_heading_line2: ""
-hero_lead: "In lessons, your child understands it. Then the mock comes back and the marks aren't there. That gap between classroom and exam hall is where a lot of GCSE marks go, and our Hemel Hempstead GCSE tutors work on the exam half of it."
+hero_lead: "In lessons, your child understands it. Then the mock comes back and the marks aren't there. That gap between classroom and exam hall is where a lot of GCSE marks go, and our GCSE tutors for Hemel Hempstead students work on the exam half of it."
 
 grade_from: "E"
 grade_to: "B"

@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Bournemouth GCSE Tutors Who Find Where Your Child's Marks Went, Question by Question"
 hero_heading_line2: ""
-hero_lead: "A class of thirty can hand back a mark. It can't sit beside your child and go through why each one went. Our Bournemouth GCSE tutors do that first, in one-to-one lessons online, before teaching anything new."
+hero_lead: "A class of thirty can hand back a mark. It can't sit beside your child and go through why each one went. Our GCSE tutors for Bournemouth students do that first, in one-to-one lessons online, before teaching anything new."
 
 grade_from: "5"
 grade_to: "6/7"

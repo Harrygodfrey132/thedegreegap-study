@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online St Neots A-Level Tutors for Year 12, Before Predicted Grades Are Set"
 hero_heading_line2: ""
-hero_lead: "Sixth form brings harder subjects and, for plenty of St Neots teenagers, a train or bus every morning. Our St Neots A-Level tutors work online with your child on whatever's slipping, well before predicted grades are written."
+hero_lead: "Sixth form brings harder subjects and, for plenty of St Neots teenagers, a train or bus every morning. Our A-Level tutors for St Neots students work online with your child on whatever's slipping, well before predicted grades are written."
 
 grade_from: "C"
 grade_to: "A"

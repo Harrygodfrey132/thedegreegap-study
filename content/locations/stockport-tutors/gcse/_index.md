@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Stockport GCSE Tutoring for When the College Form Comes Before the Results"
 hero_heading_line2: ""
-hero_lead: "In the autumn of Year 11 the college form arrives, asking about grades your child hasn't even sat yet. Our Stockport GCSE tutors work one-to-one online towards the grades their course asks for, right up to results day in August."
+hero_lead: "In the autumn of Year 11 the college form arrives, asking about grades your child hasn't even sat yet. Our GCSE tutors for Stockport students work one-to-one online towards the grades their course asks for, right up to results day in August."
 
 grade_from: "5"
 grade_to: "6/7"

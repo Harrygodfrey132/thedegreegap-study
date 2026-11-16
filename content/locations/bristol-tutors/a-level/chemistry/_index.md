@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for Bristol Sixth Form Families"
-hero_lead: "The paper came back with 'explain' in the margin, even though your child had learned the Group 2 table. Our Bristol A-Level Chemistry tutors work on the trends, the two solubility patterns that run opposite ways, and the reasons behind them."
+hero_lead: "The paper came back with 'explain' in the margin, even though your child had learned the Group 2 table. Our A-Level Chemistry tutors for Bristol students work on the trends, the two solubility patterns that run opposite ways, and the reasons behind them."
 
 angle_eyebrow: "TWO TRENDS THAT RUN OPPOSITE WAYS"
 angle_heading: "When Your Child Knows the Trend but Can't Say Why"

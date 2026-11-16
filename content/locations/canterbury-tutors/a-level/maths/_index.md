@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Canterbury Teenagers Who Found GCSE Easy"
-hero_lead: "If your child sailed through GCSE Maths with a 9, A-Level may be the first time they've really had to struggle. Our Canterbury A-Level Maths tutors work on series, parametric equations and differential equations, which is usually where it happens."
+hero_lead: "If your child sailed through GCSE Maths with a 9, A-Level may be the first time they've really had to struggle. Our A-Level Maths tutors for Canterbury students work on series, parametric equations and differential equations, which is usually where it happens."
 
 angle_eyebrow: "THE FIRST SUBJECT THAT HASN'T COME EASILY"
 angle_heading: "Why a Grade 9 at GCSE Can Still Hit a Wall in Year 13"

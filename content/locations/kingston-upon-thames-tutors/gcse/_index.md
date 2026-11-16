@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Kingston upon Thames GCSE Tutors Who Find Missing Marks Before Sixth-Form Applications"
 hero_heading_line2: ""
-hero_lead: "Around Kingston, some sixth-form applications close before Christmas of Year 11, so they're read on grades your child hasn't sat yet. It can feel very early. Our Kingston upon Thames GCSE tutors work one-to-one online on the topics losing marks in the mock, before the predicted grades are written."
+hero_lead: "Around Kingston, some sixth-form applications close before Christmas of Year 11, so they're read on grades your child hasn't sat yet. It can feel very early. Our GCSE tutors for Kingston upon Thames students work one-to-one online on the topics losing marks in the mock, before the predicted grades are written."
 
 grade_from: "E"
 grade_to: "B"

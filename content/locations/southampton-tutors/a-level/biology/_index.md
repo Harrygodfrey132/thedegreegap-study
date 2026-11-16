@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Southampton Families, Matched on Exam Board"
-hero_lead: "Hours of Biology revision, and the marks still don't match the effort? You're not alone. The papers test whether your child can use what they know on something they've never seen, and our Southampton A-Level Biology tutors work on that gap."
+hero_lead: "Hours of Biology revision, and the marks still don't match the effort? You're not alone. The papers test whether your child can use what they know on something they've never seen, and our A-Level Biology tutors for Southampton students work on that gap."
 
 angle_eyebrow: "WHY REVISION AND RESULTS COME APART IN A-LEVEL BIOLOGY"
 angle_heading: "Knowing the Biology Isn't the Same as Scoring in It"

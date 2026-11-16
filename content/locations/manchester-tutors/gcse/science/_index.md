@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutoring Across Manchester"
-hero_lead: "If your child is lost on particles in Chemistry, the same wobble is often costing marks in Physics too. The sciences share more ideas than their timetables suggest. Our Manchester GCSE Science tutors find the shared idea that's shaky and fix it once, so it helps in both."
+hero_lead: "If your child is lost on particles in Chemistry, the same wobble is often costing marks in Physics too. The sciences share more ideas than their timetables suggest. Our GCSE Science tutors for Manchester students find the shared idea that's shaky and fix it once, so it helps in both."
 
 angle_eyebrow: "ONE SHAKY IDEA, MARKS LOST IN TWO SCIENCES"
 angle_heading: "Why a Gap in One Science Often Turns Up in Another"

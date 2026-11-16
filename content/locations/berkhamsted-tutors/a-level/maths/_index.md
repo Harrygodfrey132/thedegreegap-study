@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Berkhamsted Year 12s Taking On Proof and Mechanics"
-hero_lead: "Your child sailed through GCSE Maths, and now Year 12 feels different? That's normal. GCSE rewarded spotting the question type. A-Level asks them to build the route themselves. Our Berkhamsted A-Level Maths tutors work on that, one-to-one online."
+hero_lead: "Your child sailed through GCSE Maths, and now Year 12 feels different? That's normal. GCSE rewarded spotting the question type. A-Level asks them to build the route themselves. Our A-Level Maths tutors for Berkhamsted students work on that, one-to-one online."
 
 angle_eyebrow: "NO WORKED EXAMPLE ABOVE THE QUESTION ANY MORE"
 angle_heading: "What Changes for Your Child in Year 12 Maths"

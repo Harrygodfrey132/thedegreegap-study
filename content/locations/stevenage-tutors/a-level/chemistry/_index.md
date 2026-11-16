@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors Helping Stevenage Families"
-hero_lead: "Your child can follow every reaction in class and still come unstuck on the calculations in a mock. Our Stevenage A-Level Chemistry tutors work one-to-one online on the numbers side, from moles to pH, and on the practical questions that catch out careful sixth formers."
+hero_lead: "Your child can follow every reaction in class and still come unstuck on the calculations in a mock. Our A-Level Chemistry tutors for Stevenage students work one-to-one online on the numbers side, from moles to pH, and on the practical questions that catch out careful sixth formers."
 
 angle_eyebrow: "WHEN CHEMISTRY TURNS INTO NUMBERS"
 angle_heading: "The Numbers Side of Chemistry, and Why It Counts in Stevenage"

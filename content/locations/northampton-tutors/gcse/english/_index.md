@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring in Northampton When Your Child Knows the Text, Not the Essay"
-hero_lead: "Your child has learned the quotations and knows the characters, but the mark keeps coming back the same. Our Northampton GCSE English tutors work on the bit in between: turning what they know into an answer, online and one-to-one."
+hero_lead: "Your child has learned the quotations and knows the characters, but the mark keeps coming back the same. Our GCSE English tutors for Northampton students work on the bit in between: turning what they know into an answer, online and one-to-one."
 
 angle_eyebrow: "THE HALF OF ENGLISH YOU CAN'T REVISE"
 angle_heading: "Why Your Child Revises for Literature and Then Loses the Marks on Language"

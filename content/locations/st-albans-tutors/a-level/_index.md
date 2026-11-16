@@ -6,7 +6,7 @@ location: St Albans
 level: A-Level
 hero_heading_line1: "Online St Albans A-Level Tutors Who Help When the Predicted Grade Falls Short"
 hero_heading_line2: ""
-hero_lead: "The predicted grade is a notch below what your child's first-choice course asks for, and UCAS feels close. Our St Albans A-Level tutors mark past-paper answers with them and go after the marks that keep slipping. Plenty of families come to us at exactly this point."
+hero_lead: "The predicted grade is a notch below what your child's first-choice course asks for, and UCAS feels close. Our A-Level tutors for St Albans students mark past-paper answers with them and go after the marks that keep slipping. Plenty of families come to us at exactly this point."
 grade_from: C
 grade_to: A
 grade_stat: "One parent sums it up as Cs to As, with help on university choices along the way."

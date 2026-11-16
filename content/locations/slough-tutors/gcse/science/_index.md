@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online Slough GCSE Science Tutors Who Check Your Child's Tier First"
-hero_lead: "One choice of tier, higher or foundation, covers all six Combined Science papers. In Slough it's often carried over from a Year 9 set rather than talked through with you. Our Slough GCSE Science tutors test it on a real paper while there's still time to change it."
+hero_lead: "One choice of tier, higher or foundation, covers all six Combined Science papers. In Slough it's often carried over from a Year 9 set rather than talked through with you. Our GCSE Science tutors for Slough students test it on a real paper while there's still time to change it."
 
 angle_eyebrow: "ONE DECISION, SIX PAPERS"
 angle_heading: "The Tier Question Most Slough Parents Never Get Asked"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutoring for Families in Brighton and Hove"
-hero_lead: "Group 7 has two trends running in opposite directions, and it's easy to merge them. Our Brighton A-Level Chemistry tutors pull oxidising and reducing power apart with your child, and drill the halide tests."
+hero_lead: "Group 7 has two trends running in opposite directions, and it's easy to merge them. Our A-Level Chemistry tutors for Brighton students pull oxidising and reducing power apart with your child, and drill the halide tests."
 
 angle_eyebrow: "OXIDISING ONE WAY, REDUCING THE OTHER"
 angle_heading: "How One Small Topic Ends Up Costing Your Child So Many Marks"

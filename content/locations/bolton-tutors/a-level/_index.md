@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online A-Level Tutoring in Bolton for the Predicted Grade Two Applications Rest On"
 hero_heading_line2: ""
-hero_lead: "A Bolton Year 13 is often applying twice, once through UCAS and once to an employer, and both read the same predicted grade. Our Bolton A-Level tutors work online and one-to-one over Lessonspace, backwards from the date that grade gets written."
+hero_lead: "A Bolton Year 13 is often applying twice, once through UCAS and once to an employer, and both read the same predicted grade. Our A-Level tutors for Bolton students work online and one-to-one over Lessonspace, backwards from the date that grade gets written."
 
 grade_from: "C"
 grade_to: "A"

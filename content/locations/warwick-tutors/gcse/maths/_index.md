@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Warwick Families, Starting Before the Mocks"
-hero_lead: "If Maths is the worry this year, the autumn term will do more for it than the spring. A grade takes about twelve weeks of steady work to move, and our Warwick GCSE Maths tutors plan those weeks back from your child's mocks."
+hero_lead: "If Maths is the worry this year, the autumn term will do more for it than the spring. A grade takes about twelve weeks of steady work to move, and our GCSE Maths tutors for Warwick students plan those weeks back from your child's mocks."
 
 angle_eyebrow: "TWELVE WEEKS, NOT SIX"
 angle_heading: "Why the Autumn Term Does More for the Grade Than the Spring"

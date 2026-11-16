@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors Helping Peterborough Families"
-hero_lead: "Weeks of highlighted notes and reread set texts, and your child's English grade still hasn't budged. Most English revision is reading. The exam is writing. Our Peterborough GCSE English tutors work online on what does shift it: writing answers and having them marked."
+hero_lead: "Weeks of highlighted notes and reread set texts, and your child's English grade still hasn't budged. Most English revision is reading. The exam is writing. Our GCSE English tutors for Peterborough students work online on what does shift it: writing answers and having them marked."
 
 angle_eyebrow: "REVISION THAT LOOKS LIKE WORK"
 angle_heading: "Why Rereading Notes Won't Shift Your Child's English Grade"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Didsbury Families, Where Both English Grades Count"
-hero_lead: "Two English grades come home after the mocks, and sometimes one's fine while the other isn't. Our Didsbury GCSE English tutors work one-to-one online on whatever's costing the marks, whether that's unseen poetry, quotations or simply finishing the essay in time."
+hero_lead: "Two English grades come home after the mocks, and sometimes one's fine while the other isn't. Our GCSE English tutors for Didsbury students work one-to-one online on whatever's costing the marks, whether that's unseen poetry, quotations or simply finishing the essay in time."
 
 card_eyebrow: "FREE CONSULTATION"
 card_heading: "Tell us how English is going for your child"

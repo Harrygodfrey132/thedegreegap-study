@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Worcester GCSE Tutors for a Child Who's Trying Hard and Still Stuck"
 hero_heading_line2: ""
-hero_lead: "You've had the meeting with the teacher, drawn up the revision timetable, bought the highlighters. And your child's report still says effort's fine but understanding is patchy. Our Worcester GCSE tutors work on the second half of that sentence, the bit nobody's had time to look at properly."
+hero_lead: "You've had the meeting with the teacher, drawn up the revision timetable, bought the highlighters. And your child's report still says effort's fine but understanding is patchy. Our GCSE tutors for Worcester students work on the second half of that sentence, the bit nobody's had time to look at properly."
 
 grade_from: "4"
 grade_to: "6"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors Covering Bristol"
-hero_lead: "With English, the feedback that comes home rarely tells you what to do next. Our Bristol GCSE English tutors take your child's own essay, mark it against the mark scheme and show them the exact sentence where the marks stopped."
+hero_lead: "With English, the feedback that comes home rarely tells you what to do next. Our GCSE English tutors for Bristol students take your child's own essay, mark it against the mark scheme and show them the exact sentence where the marks stopped."
 
 angle_eyebrow: "WHERE THE GCSE ENGLISH MARKS GO IN BRISTOL"
 angle_heading: "Where a Tutor Finds the Marks Your Child's English Essay Left Behind"

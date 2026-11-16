@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for Banbury and North Oxfordshire"
-hero_lead: "The Year 12 Chemistry grades looked fine, because your child crammed hard before every test. Year 13 is where cramming stops working. Our Banbury A-Level Chemistry tutors go back a step before they go forward."
+hero_lead: "The Year 12 Chemistry grades looked fine, because your child crammed hard before every test. Year 13 is where cramming stops working. Our A-Level Chemistry tutors for Banbury students go back a step before they go forward."
 
 angle_eyebrow: "WHY A GOOD YEAR 12 GRADE CAN HIDE A GAP"
 angle_heading: "Why the Second Year of Chemistry Exposes the First"

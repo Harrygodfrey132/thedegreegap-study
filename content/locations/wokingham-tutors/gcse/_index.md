@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Wokingham GCSE Tutors for the Year 11 Autumn When Sixth Form Applications Open"
 hero_heading_line2: ""
-hero_lead: "By November of Year 11, your child is filling in sixth form forms with predicted grades nobody's quite sure about. Our Wokingham GCSE tutors find the subject that's furthest off and work on it every week, so there's a plan long before the summer."
+hero_lead: "By November of Year 11, your child is filling in sixth form forms with predicted grades nobody's quite sure about. Our GCSE tutors for Wokingham students find the subject that's furthest off and work on it every week, so there's a plan long before the summer."
 
 grade_from: "5"
 grade_to: "6/7"

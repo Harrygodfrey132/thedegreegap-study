@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Hemel Hempstead Children Who've Revised but Still Freeze"
-hero_lead: "If your child knows their Science notes inside out but freezes when a question looks unfamiliar, what's missing is a different skill from knowing the content. Our Hemel Hempstead GCSE Science tutors teach it, one-to-one and online."
+hero_lead: "If your child knows their Science notes inside out but freezes when a question looks unfamiliar, what's missing is a different skill from knowing the content. Our GCSE Science tutors for Hemel Hempstead students teach it, one-to-one and online."
 
 angle_eyebrow: "A QUESTION THEY'VE NEVER SEEN"
 angle_heading: "When Your Child Knows the Science but Can't See Where It Fits"

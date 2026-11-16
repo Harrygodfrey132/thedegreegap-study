@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Stourbridge Students Caught Out by the Maths in Biology"
-hero_lead: "Your child picked Biology for the living things, then found chi-squared tests and standard deviations waiting in the exam. Our Stourbridge A-Level Biology tutors work through the maths and the long explanations the papers reward, one topic at a time."
+hero_lead: "Your child picked Biology for the living things, then found chi-squared tests and standard deviations waiting in the exam. Our A-Level Biology tutors for Stourbridge students work through the maths and the long explanations the papers reward, one topic at a time."
 
 angle_eyebrow: "STATISTICS IN A BIOLOGY PAPER"
 angle_heading: "The Parts of A-Level Biology That Surprise Stourbridge Sixth Formers"

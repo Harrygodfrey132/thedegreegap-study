@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring in Chelmsford for Language and Literature"
-hero_lead: "Hours of English revision, nearly all on the Literature texts, and it's the Language mark that won't move. Our Chelmsford GCSE English tutors look at your child's two English GCSEs separately and put the hours where they'll count."
+hero_lead: "Hours of English revision, nearly all on the Literature texts, and it's the Language mark that won't move. Our GCSE English tutors for Chelmsford students look at your child's two English GCSEs separately and put the hours where they'll count."
 
 angle_eyebrow: "TWO GCSES, TWO DIFFERENT SKILLS"
 angle_heading: "Why Your Child's Two English GCSEs Need Different Revision"

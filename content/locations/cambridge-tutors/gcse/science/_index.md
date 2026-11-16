@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors in Cambridge, for Triple or Combined"
-hero_lead: "If your child's Science grade has slipped, it can feel like a bigger deal in a city built on labs. Our Cambridge GCSE Science tutors start with one question: which science would your child drop tomorrow if they could? That's usually where the grade is going."
+hero_lead: "If your child's Science grade has slipped, it can feel like a bigger deal in a city built on labs. Our GCSE Science tutors for Cambridge students start with one question: which science would your child drop tomorrow if they could? That's usually where the grade is going."
 
 angle_eyebrow: "TRIPLE, COMBINED AND THE GAP BETWEEN THEM"
 angle_heading: "Triple or Combined: The Choice That Shapes GCSE Science in Cambridge"

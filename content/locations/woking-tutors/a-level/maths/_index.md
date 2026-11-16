@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutoring for Woking Families, When the Methods Are There but the Marks Aren't"
-hero_lead: "At GCSE, a question more or less tells your child what to do. At A-Level it stops, and that's when the marks start to go. Our Woking A-Level Maths tutors work one-to-one online on picking the method, not just running it."
+hero_lead: "At GCSE, a question more or less tells your child what to do. At A-Level it stops, and that's when the marks start to go. Our A-Level Maths tutors for Woking students work one-to-one online on picking the method, not just running it."
 
 angle_eyebrow: "THE QUESTION STOPS TELLING THEM"
 angle_heading: "Where Your Child's Year 12 Maths Marks Are Really Going"

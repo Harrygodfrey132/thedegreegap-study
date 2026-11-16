@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Bradford When One Grade Covers Six Separate Papers"
-hero_lead: "Combined Science arrives as one grade and gets revised as one subject, usually the week before. Our Bradford GCSE Science tutors turn it back into six papers with a plan attached. Sessions run one-to-one and online over Lessonspace."
+hero_lead: "Combined Science arrives as one grade and gets revised as one subject, usually the week before. Our GCSE Science tutors for Bradford students turn it back into six papers with a plan attached. Sessions run one-to-one and online over Lessonspace."
 
 angle_eyebrow: "SIX PAPERS, ONE NUMBER ON THE SLIP"
 angle_heading: "Why Revising Science as One Subject Stops Working in Year 11"

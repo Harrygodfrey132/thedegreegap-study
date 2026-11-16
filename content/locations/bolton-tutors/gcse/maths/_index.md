@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Bolton Students Stuck on Ratio and the Non-Calculator Paper"
-hero_lead: "Three papers, one grade, and the marks rarely come off evenly. Our Bolton GCSE Maths tutors find the paper doing the damage, then work it one-to-one and online over Lessonspace until the method holds under time."
+hero_lead: "Three papers, one grade, and the marks rarely come off evenly. Our GCSE Maths tutors for Bolton students find the paper doing the damage, then work it one-to-one and online over Lessonspace until the method holds under time."
 
 angle_eyebrow: "RATIO IS EVERYWHERE ONCE YOU LOOK"
 angle_heading: "Why One Topic Keeps Turning Up in Different Clothes"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Clacton-on-Sea Students Thrown by the Maths in Biology"
-hero_lead: "Your child chose Biology to study living things, and now a chi-squared test or a Hardy-Weinberg calculation sits in the middle of the exam paper. Our Clacton-on-Sea A-Level Biology tutors make the numbers feel like part of the same subject."
+hero_lead: "Your child chose Biology to study living things, and now a chi-squared test or a Hardy-Weinberg calculation sits in the middle of the exam paper. Our A-Level Biology tutors for Clacton-on-Sea students make the numbers feel like part of the same subject."
 
 angle_eyebrow: "WHERE BIOLOGY TURNS INTO NUMBERS"
 angle_heading: "The Part of OCR A-Level Biology That Surprises Clacton-on-Sea Sixth Formers"

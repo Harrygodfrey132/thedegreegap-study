@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for New Malden Students Whose Algebra Slows Everything Down"
-hero_lead: "A grade 7 at GCSE felt safe, then the first weeks of A-Level Maths took for granted algebra your child still does slowly and with slips. Our New Malden A-Level Maths tutors make that algebra quick and sure, because every topic after it leans on it."
+hero_lead: "A grade 7 at GCSE felt safe, then the first weeks of A-Level Maths took for granted algebra your child still does slowly and with slips. Our A-Level Maths tutors for New Malden students make that algebra quick and sure, because every topic after it leans on it."
 
 angle_eyebrow: "THE BRIDGE FROM GCSE"
 angle_heading: "What an A-Level Maths Tutor Rebuilds in the First Term for New Malden Students"

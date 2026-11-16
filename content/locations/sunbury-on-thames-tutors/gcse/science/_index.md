@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Sunbury-on-Thames Families"
-hero_lead: "Your child might be fine in Biology and quietly slipping in Physics, and one overall Science mark often won't show it until Year 11. Our Sunbury-on-Thames GCSE Science tutors look at the three sciences separately, online, and catch a gap while it's still small."
+hero_lead: "Your child might be fine in Biology and quietly slipping in Physics, and one overall Science mark often won't show it until Year 11. Our GCSE Science tutors for Sunbury-on-Thames students look at the three sciences separately, online, and catch a gap while it's still small."
 
 angle_eyebrow: "THREE SUBJECTS DRIFTING APART"
 angle_heading: "Why One Science So Often Slips Behind the Other Two"

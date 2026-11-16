@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Sevenoaks A-Level Tutors for a Grade That's Slipping Before the Exams"
 hero_heading_line2: ""
-hero_lead: "A subject your child coped with fine in Year 12 can come apart in Year 13, and the predicted grade slides with it. It's more common than you'd think. Our Sevenoaks A-Level tutors find where the marks are leaking and win them back, one paper at a time."
+hero_lead: "A subject your child coped with fine in Year 12 can come apart in Year 13, and the predicted grade slides with it. It's more common than you'd think. Our A-Level tutors for Sevenoaks students find where the marks are leaking and win them back, one paper at a time."
 
 grade_from: "E"
 grade_to: "C"

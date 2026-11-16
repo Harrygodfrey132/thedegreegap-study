@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science tutors Plymouth parents call when one grade hides three subjects"
-hero_lead: "Combined Science arrives as a single number, and a single number will not tell you which lesson to worry about. Our Plymouth GCSE Science tutors take the three apart first, one-to-one online over Lessonspace, before spending a term on any of them."
+hero_lead: "Combined Science arrives as a single number, and a single number will not tell you which lesson to worry about. Our GCSE Science tutors for Plymouth students take the three apart first, one-to-one online over Lessonspace, before spending a term on any of them."
 
 angle_eyebrow: "ONE GRADE, THREE TEACHERS"
 angle_heading: "Which of the Three Sciences Is Actually Costing the Grade"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors Covering Farnborough, With College at 16 in Mind"
-hero_lead: "In Farnborough, your child will most likely move to a sixth form college at 16, and that college will look closely at the Science grade. Our Farnborough GCSE Science tutors work one-to-one online and find which of the three sciences is costing the marks."
+hero_lead: "In Farnborough, your child will most likely move to a sixth form college at 16, and that college will look closely at the Science grade. Our GCSE Science tutors for Farnborough students work one-to-one online and find which of the three sciences is costing the marks."
 
 angle_eyebrow: "THE GRADE THAT DECIDES THE NEXT ROUTE"
 angle_heading: "Why Farnborough Families Watch the Science Grade Closely"

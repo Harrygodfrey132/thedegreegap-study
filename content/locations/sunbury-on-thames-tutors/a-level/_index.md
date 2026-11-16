@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Sunbury-on-Thames A-Level Tutors for When You Can't Tell How Sixth Form's Going"
 hero_heading_line2: ""
-hero_lead: "At GCSE there were other parents to compare notes with. Now your child's sixth form may well be in another borough, friends are scattered, and it's hard to tell how it's really going. Our Sunbury-on-Thames A-Level tutors are matched to your child's exact course and exam board."
+hero_lead: "At GCSE there were other parents to compare notes with. Now your child's sixth form may well be in another borough, friends are scattered, and it's hard to tell how it's really going. Our A-Level tutors for Sunbury-on-Thames students are matched to your child's exact course and exam board."
 
 grade_from: "C"
 grade_to: "A"

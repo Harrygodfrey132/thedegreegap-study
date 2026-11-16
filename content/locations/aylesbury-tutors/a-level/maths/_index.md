@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Aylesbury Teenagers in the Sixth Form"
-hero_lead: "'Silly mistakes,' says your child, and the mock comes back a grade lower than it should. Our Aylesbury A-Level Maths tutors look for the pattern behind those slips, because there nearly always is one, and build the habits that catch them."
+hero_lead: "'Silly mistakes,' says your child, and the mock comes back a grade lower than it should. Our A-Level Maths tutors for Aylesbury students look for the pattern behind those slips, because there nearly always is one, and build the habits that catch them."
 
 angle_eyebrow: "WHY THE SILLY MISTAKES KEEP COMING BACK"
 angle_heading: "The Small, Repeated Slips That Keep an Aylesbury B From Becoming an A*"

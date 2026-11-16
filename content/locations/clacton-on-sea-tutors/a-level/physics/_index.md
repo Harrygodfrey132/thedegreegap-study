@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Physics"
 
 hero_h1: "Online A-Level Physics Tutors for Clacton-on-Sea Sixth Formers Losing Marks in the Working"
-hero_lead: "Your child understands the physics in class, then a question on circular motion or capacitors turns into three lines of algebra and they lose the thread. Our Clacton-on-Sea A-Level Physics tutors take the maths a line at a time until each step is clear."
+hero_lead: "Your child understands the physics in class, then a question on circular motion or capacitors turns into three lines of algebra and they lose the thread. Our A-Level Physics tutors for Clacton-on-Sea students take the maths a line at a time until each step is clear."
 
 angle_eyebrow: "NEWTONIAN WORLD, FIELDS AND THE NUMBERS"
 angle_heading: "Where OCR A-Level Physics Trips Up Clacton-on-Sea Sixth Formers"

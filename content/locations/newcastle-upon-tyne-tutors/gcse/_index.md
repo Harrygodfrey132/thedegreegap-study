@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Newcastle upon Tyne GCSE Tutors for When Your Child's Always a Grade Short"
 hero_heading_line2: ""
-hero_lead: "The report says 'nearly there', and it's been saying it since Year 9. Our Newcastle upon Tyne GCSE tutors find the topic that keeps costing your child that last grade. Then they work on it, one-to-one and online, so the paper can catch up with the report."
+hero_lead: "The report says 'nearly there', and it's been saying it since Year 9. Our GCSE tutors for Newcastle upon Tyne students find the topic that keeps costing your child that last grade. Then they work on it, one-to-one and online, so the paper can catch up with the report."
 
 grade_from: "5"
 grade_to: "6/7"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for New Malden Students With Science A-Levels in Mind"
-hero_lead: "Your child's heart is set on the sciences, so English keeps getting whatever time is left over, and the mock grade shows it. Our New Malden GCSE English tutors give them a clear way to plan essays and learn quotes, so English stops holding the rest back."
+hero_lead: "Your child's heart is set on the sciences, so English keeps getting whatever time is left over, and the mock grade shows it. Our GCSE English tutors for New Malden students give them a clear way to plan essays and learn quotes, so English stops holding the rest back."
 
 angle_eyebrow: "THE GRADE BEHIND THE SCIENCE PLANS"
 angle_heading: "Why a GCSE English Tutor Matters to a New Malden Teenager Set on Science"

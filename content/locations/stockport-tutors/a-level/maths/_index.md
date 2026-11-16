@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths tutoring for Stockport families when Year 12 stops making sense"
-hero_lead: "Your child got a strong GCSE grade, maybe the 7 Aquinas asks for, and started A-Level Maths feeling fine. Then Pure, the main part of the course, asked for a proof instead of a method, and the marks slipped. Our Stockport A-Level Maths tutors work on that first term."
+hero_lead: "Your child got a strong GCSE grade, maybe the 7 Aquinas asks for, and started A-Level Maths feeling fine. Then Pure, the main part of the course, asked for a proof instead of a method, and the marks slipped. Our A-Level Maths tutors for Stockport students work on that first term."
 
 angle_eyebrow: "THE ENTRY GRADE AND THE FIRST TERM"
 angle_heading: "Why a Strong GCSE Doesn't Tell You How Year 12 Maths Will Go"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for Welwyn Garden City Families"
-hero_lead: "Your child's working looks neat and the titration answer is right, yet the Chemistry mark still comes back lower than you'd expect. Often it's the questions asking why, and our Welwyn Garden City A-Level Chemistry tutors start with exactly those."
+hero_lead: "Your child's working looks neat and the titration answer is right, yet the Chemistry mark still comes back lower than you'd expect. Often it's the questions asking why, and our A-Level Chemistry tutors for Welwyn Garden City students start with exactly those."
 
 angle_eyebrow: "DOING IT ISN'T THE SAME AS EXPLAINING IT"
 angle_heading: "When Your Child Can Do the Chemistry but Can't Say Why"

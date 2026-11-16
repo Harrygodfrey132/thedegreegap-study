@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Redhill Teenagers Teetering on the Edge of the Higher Paper"
-hero_lead: "If your child is hovering on the edge of the Higher paper, the tier they're entered for sets the best grade they can get. Our Redhill GCSE Maths tutors find the topics keeping them on the line and work on those first."
+hero_lead: "If your child is hovering on the edge of the Higher paper, the tier they're entered for sets the best grade they can get. Our GCSE Maths tutors for Redhill students find the topics keeping them on the line and work on those first."
 
 angle_eyebrow: "ONE OF THE TWO PAPERS STOPS AT 5"
 angle_heading: "What Decides Higher or Foundation GCSE Maths for a Redhill Student"

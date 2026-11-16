@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Henley-on-Thames Families"
-hero_lead: "If your child's Maths mock keeps landing just short, the reason is often a method they half-learnt in Year 8 and have been working around ever since. Our Henley-on-Thames GCSE Maths tutors spot that method early and put it right, one-to-one on a shared online whiteboard."
+hero_lead: "If your child's Maths mock keeps landing just short, the reason is often a method they half-learnt in Year 8 and have been working around ever since. Our GCSE Maths tutors for Henley-on-Thames students spot that method early and put it right, one-to-one on a shared online whiteboard."
 
 angle_eyebrow: "ONE GRADE, SEVERAL DOORS"
 angle_heading: "Why One Maths Grade Shapes So Many Henley Choices at 16"

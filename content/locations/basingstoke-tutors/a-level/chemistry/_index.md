@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for Basingstoke and North Hampshire"
-hero_lead: "Your child may be surprised how much of A-Level Chemistry is written answers, and in a big year group there's rarely time to pick each one apart. Our Basingstoke A-Level Chemistry tutors mark one properly every week."
+hero_lead: "Your child may be surprised how much of A-Level Chemistry is written answers, and in a big year group there's rarely time to pick each one apart. Our A-Level Chemistry tutors for Basingstoke students mark one properly every week."
 
 angle_eyebrow: "THE CHEMISTRY MARKS THAT COME FROM WRITING"
 angle_heading: "Why Your Child's Chemistry Explanations Keep Coming Back at Half Marks"

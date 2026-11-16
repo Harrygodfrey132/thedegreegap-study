@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Reigate GCSE Tutors for the Grade Your Child's College Course Depends On"
 hero_heading_line2: ""
-hero_lead: "College courses get picked in the autumn of Year 11, but it's August before anyone knows if your child's grades are there. A long wait, if one subject feels shaky. Our Reigate GCSE tutors work one-to-one on the subject standing between your child and the course they've chosen."
+hero_lead: "College courses get picked in the autumn of Year 11, but it's August before anyone knows if your child's grades are there. A long wait, if one subject feels shaky. Our GCSE tutors for Reigate students work one-to-one on the subject standing between your child and the course they've chosen."
 
 grade_from: "4-5"
 grade_to: "8"

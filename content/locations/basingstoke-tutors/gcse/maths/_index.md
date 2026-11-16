@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors in Basingstoke Who Read Your Child's Working"
-hero_lead: "When Maths homework comes back with ticks and crosses and not much else, it's hard to tell what's actually going wrong. Our Basingstoke GCSE Maths tutors read your child's working line by line, because that's where the marks are."
+hero_lead: "When Maths homework comes back with ticks and crosses and not much else, it's hard to tell what's actually going wrong. Our GCSE Maths tutors for Basingstoke students read your child's working line by line, because that's where the marks are."
 
 angle_eyebrow: "THE MARKS ARE IN THE WORKING"
 angle_heading: "Why the Answer Is the Least Useful Part of Your Child's Maths Page"

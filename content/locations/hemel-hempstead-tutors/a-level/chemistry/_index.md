@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutoring Across Hemel Hempstead"
-hero_lead: "Plenty of the marks your child drops in Chemistry aren't really testing chemistry at all. Our Hemel Hempstead A-Level Chemistry tutors find the maths doing the damage and sort that out first."
+hero_lead: "Plenty of the marks your child drops in Chemistry aren't really testing chemistry at all. Our A-Level Chemistry tutors for Hemel Hempstead students find the maths doing the damage and sort that out first."
 
 angle_eyebrow: "THE MATHS INSIDE THE CHEMISTRY"
 angle_heading: "How Much of Your Child's Chemistry Paper Is Really a Maths Problem"

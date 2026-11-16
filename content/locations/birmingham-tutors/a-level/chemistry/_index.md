@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Birmingham A-Level Chemistry Tutors, Online and One-to-One"
-hero_lead: "Your child can recite every organic reaction on their revision cards, then go blank when a question asks how to get from one molecule to another. Our Birmingham A-Level Chemistry tutors teach the routes that link those reactions, and the mechanism arrows that carry the marks."
+hero_lead: "Your child can recite every organic reaction on their revision cards, then go blank when a question asks how to get from one molecule to another. Our A-Level Chemistry tutors for Birmingham students teach the routes that link those reactions, and the mechanism arrows that carry the marks."
 
 angle_eyebrow: "WHEN THE REVISION CARDS STOP BEING ENOUGH"
 angle_heading: "From a List of Reactions to a Route Your Child Can Plan"

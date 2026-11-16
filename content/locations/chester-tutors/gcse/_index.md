@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Chester GCSE Tutors, Online, So Your Child Isn't Revising for the Wrong Paper"
 hero_heading_line2: ""
-hero_lead: "A friend recommends a revision guide, you order it, and it turns out to be for a different exam board. Around Chester, that's easily done. Our Chester GCSE tutors confirm the exact exams your child is entered for, then plan every lesson around them."
+hero_lead: "A friend recommends a revision guide, you order it, and it turns out to be for a different exam board. Around Chester, that's easily done. Our GCSE tutors for Chester students confirm the exact exams your child is entered for, then plan every lesson around them."
 
 grade_from: "5"
 grade_to: "6/7"

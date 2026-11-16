@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutoring for Leeds Families"
-hero_lead: "Whether your child ends up choosing a PwC or KPMG apprenticeship or a Russell Group university, both will ask about their Maths prediction. Our Leeds A-Level Maths tutors spend a weekly online hour on the parts of the course where that prediction is won or lost."
+hero_lead: "Whether your child ends up choosing a PwC or KPMG apprenticeship or a Russell Group university, both will ask about their Maths prediction. Our A-Level Maths tutors for Leeds students spend a weekly online hour on the parts of the course where that prediction is won or lost."
 
 angle_eyebrow: "UNIVERSITY OR APPRENTICESHIP, ONE MATHS GRADE"
 angle_heading: "Why the Year 12 Maths Grade Counts Early in Leeds"

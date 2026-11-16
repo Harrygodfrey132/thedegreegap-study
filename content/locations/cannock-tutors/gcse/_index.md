@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Cannock GCSE Tutors Who Lift the Grade That's Lagging Behind the Rest"
 hero_heading_line2: ""
-hero_lead: "Most of your child's subjects are ticking along, then there's the one where every mock comes back low and every parents' evening ends up. Our Cannock GCSE tutors start with that subject, so it stops pulling the others down."
+hero_lead: "Most of your child's subjects are ticking along, then there's the one where every mock comes back low and every parents' evening ends up. Our GCSE tutors for Cannock students start with that subject, so it stops pulling the others down."
 
 grade_from: "5"
 grade_to: "6/7"

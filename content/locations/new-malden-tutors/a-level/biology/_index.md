@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for New Malden Students Facing the Paper That Mixes Every Topic"
-hero_lead: "Your child knows each topic when it's tested on its own, then one question pulls genetics, respiration and an experiment into a single answer and they freeze. Our New Malden A-Level Biology tutors practise exactly those mixed questions, every week."
+hero_lead: "Your child knows each topic when it's tested on its own, then one question pulls genetics, respiration and an experiment into a single answer and they freeze. Our A-Level Biology tutors for New Malden students practise exactly those mixed questions, every week."
 
 angle_eyebrow: "WHEN THE TOPICS MEET"
 angle_heading: "How an A-Level Biology Tutor Prepares New Malden Students for Synoptic Questions"

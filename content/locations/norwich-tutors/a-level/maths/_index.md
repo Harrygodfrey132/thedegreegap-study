@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Norwich Families, When the Statistics Marks Don't Add Up"
-hero_lead: "Your child got the sum right on a hypothesis test and still lost half the marks. It's nearly always the wording. Our Norwich A-Level Maths tutors work on exactly that."
+hero_lead: "Your child got the sum right on a hypothesis test and still lost half the marks. It's nearly always the wording. Our A-Level Maths tutors for Norwich students work on exactly that."
 
 angle_eyebrow: "THE CONCLUSION IS THE MARK"
 angle_heading: "When Your Child Gets the Right Number and Still Loses the Marks"

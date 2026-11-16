@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Worcester Families"
-hero_lead: "Plenty of teenagers can talk about the play for ages, then write something thin in forty-five minutes with the book shut. Only the second part gets marked. Our Worcester GCSE English tutors work on it with your child, online, every week."
+hero_lead: "Plenty of teenagers can talk about the play for ages, then write something thin in forty-five minutes with the book shut. Only the second part gets marked. Our GCSE English tutors for Worcester students work on it with your child, online, every week."
 
 angle_eyebrow: "KNOWS THE BOOK, CAN'T REACH IT IN THE EXAM"
 angle_heading: "What a GCSE English Tutor Rebuilds for Your Child in Worcester"

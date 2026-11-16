@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Economics"
 
 hero_h1: "Online A-Level Economics Tutors for Redhill Students Whose Diagrams Don't Back Up the Essay"
-hero_lead: "Your child can draw a supply and demand diagram from memory, but the essay beside it never uses it. Our Redhill A-Level Economics tutors teach them to build the argument around the diagram, then weigh it up properly."
+hero_lead: "Your child can draw a supply and demand diagram from memory, but the essay beside it never uses it. Our A-Level Economics tutors for Redhill students teach them to build the argument around the diagram, then weigh it up properly."
 
 angle_eyebrow: "THE DIAGRAM IS PART OF THE ANSWER"
 angle_heading: "How Redhill Sixth Formers Lose Economics Marks Between the Diagram and the Evaluation"

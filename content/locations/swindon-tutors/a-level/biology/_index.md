@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Swindon Teenagers Stuck on Genetics"
-hero_lead: "Your child can revise genetics for hours and still lose the marks, because the questions are puzzles, not recall. Our Swindon A-Level Biology tutors teach a method your child can use on any genetics problem, one step at a time."
+hero_lead: "Your child can revise genetics for hours and still lose the marks, because the questions are puzzles, not recall. Our A-Level Biology tutors for Swindon students teach a method your child can use on any genetics problem, one step at a time."
 
 angle_eyebrow: "A PUZZLE, NOT A FACT TO LEARN"
 angle_heading: "Why More Genetics Revision Doesn't Seem to Help Your Child"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Portsmouth and South Hampshire"
-hero_lead: "Has Biology gone quiet at home since nerve impulses came up? That's common, and it isn't a sign your child can't do it. Our Portsmouth A-Level Biology tutors go back to where it stopped making sense and rebuild it, one stage at a time."
+hero_lead: "Has Biology gone quiet at home since nerve impulses came up? That's common, and it isn't a sign your child can't do it. Our A-Level Biology tutors for Portsmouth students go back to where it stopped making sense and rebuild it, one stage at a time."
 
 angle_eyebrow: "WHEN THE NERVES TOPIC ARRIVES"
 angle_heading: "Nerve Impulses and the Kidney: Where Your Child Can Lose the Thread"

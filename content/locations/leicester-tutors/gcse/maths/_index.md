@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online Leicester GCSE Maths Tutors, Beyond the Minimum Grade"
-hero_lead: "You've checked, and your child is on course for the college's Maths grade. It still doesn't feel like enough. At Leicester's busiest colleges, lots of other applicants will have that grade too. Our Leicester GCSE Maths tutors work online on the marks above it."
+hero_lead: "You've checked, and your child is on course for the college's Maths grade. It still doesn't feel like enough. At Leicester's busiest colleges, lots of other applicants will have that grade too. Our GCSE Maths tutors for Leicester students work online on the marks above it."
 
 angle_eyebrow: "WHY THE PUBLISHED MATHS GRADE IS ONLY A STARTING LINE"
 angle_heading: "What a Leicester GCSE Maths Tutor Works On When Places Are Tight"

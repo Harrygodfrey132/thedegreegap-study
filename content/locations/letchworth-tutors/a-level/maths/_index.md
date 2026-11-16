@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online Letchworth A-Level Maths Tutors for Pure, Mechanics and Statistics"
-hero_lead: "A strong GCSE mathematician can still come unstuck on a force diagram or a hypothesis test in Year 12. Our Letchworth A-Level Maths tutors help your child, one-to-one and online, with the mechanics and statistics that don't feel like the Maths they know."
+hero_lead: "A strong GCSE mathematician can still come unstuck on a force diagram or a hypothesis test in Year 12. Our A-Level Maths tutors for Letchworth students help your child, one-to-one and online, with the mechanics and statistics that don't feel like the Maths they know."
 
 card_eyebrow: "FREE CONSULTATION"
 card_heading: "How's sixth form Maths going?"

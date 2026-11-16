@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Stevenage, Starting With the Essay Plan"
-hero_lead: "For years your child's probably been told to plan their essays. Has anyone actually shown them how? In a busy class, there's rarely time. Our Stevenage GCSE English tutors teach that missing middle step by step, and it's where a lot of the lost marks are hiding."
+hero_lead: "For years your child's probably been told to plan their essays. Has anyone actually shown them how? In a busy class, there's rarely time. Our GCSE English tutors for Stevenage students teach that missing middle step by step, and it's where a lot of the lost marks are hiding."
 
 angle_eyebrow: "THE PART OF ENGLISH NOBODY SPELLS OUT"
 angle_heading: "Why 'Be More Analytical' Is Advice Your Child Can't Act On"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Swindon Families"
-hero_lead: "If your child spends hours on Science notes and still gets stuck on the exam questions, it's usually the way they revise, not the effort. Our Swindon GCSE Science tutors plan the week between lessons as carefully as the lesson itself."
+hero_lead: "If your child spends hours on Science notes and still gets stuck on the exam questions, it's usually the way they revise, not the effort. Our GCSE Science tutors for Swindon students plan the week between lessons as carefully as the lesson itself."
 
 angle_eyebrow: "WHAT HAPPENS BETWEEN THE LESSONS"
 angle_heading: "Why the Week Between Lessons Decides What Your Child Gets From the Hour"

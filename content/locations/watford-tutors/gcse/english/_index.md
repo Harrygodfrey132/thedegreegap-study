@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors Working With Watford Families"
-hero_lead: "Weeks of revision, a child who plainly knows the book, and still the English grade hasn't moved. Our Watford GCSE English tutors go after what actually shifts it: planning to time, choosing evidence, and the writing tasks that carry half the marks in English Language."
+hero_lead: "Weeks of revision, a child who plainly knows the book, and still the English grade hasn't moved. Our GCSE English tutors for Watford students go after what actually shifts it: planning to time, choosing evidence, and the writing tasks that carry half the marks in English Language."
 
 angle_eyebrow: "WHAT A 5 IN ENGLISH IS USUALLY HIDING"
 angle_heading: "The Four Places Your Child's English Marks Usually Go Missing"

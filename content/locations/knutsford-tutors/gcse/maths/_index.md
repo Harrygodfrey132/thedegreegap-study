@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Knutsford Families"
-hero_lead: "The homework gets done and the revision gets done, and still the Maths mock won't budge. Our Knutsford GCSE Maths tutors find the method that went missing, often algebra from Year 8, and rebuild it one-to-one online."
+hero_lead: "The homework gets done and the revision gets done, and still the Maths mock won't budge. Our GCSE Maths tutors for Knutsford students find the method that went missing, often algebra from Year 8, and rebuild it one-to-one online."
 
 card_heading: "Talk to a member of the team to start the matching process"
 card_points:

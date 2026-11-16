@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutoring for Oxford Families"
-hero_lead: "Your child did the required practicals in a school lab, some a year ago, and the exam will ask about them as if every step had been learned by heart. Our Oxford GCSE Science tutors go back over each one until your child can explain it."
+hero_lead: "Your child did the required practicals in a school lab, some a year ago, and the exam will ask about them as if every step had been learned by heart. Our GCSE Science tutors for Oxford students go back over each one until your child can explain it."
 
 angle_eyebrow: "THE MARKS NOBODY REVISES FOR"
 angle_heading: "Why the Experiments Your Child Enjoyed Can Cost Them Marks"

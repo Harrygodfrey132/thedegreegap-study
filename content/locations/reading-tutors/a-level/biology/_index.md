@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Your Child in Reading"
-hero_lead: "If Year 12 Biology went fine and Year 13 suddenly doesn't, it's often because the questions now join topics together. Our Reading A-Level Biology tutors work on those joins, not just the units."
+hero_lead: "If Year 12 Biology went fine and Year 13 suddenly doesn't, it's often because the questions now join topics together. Our A-Level Biology tutors for Reading students work on those joins, not just the units."
 
 angle_eyebrow: "WHEN YEAR 13 JOINS THE TOPICS UP"
 angle_heading: "Why Year 13 Biology Feels Harder Than It Really Is"

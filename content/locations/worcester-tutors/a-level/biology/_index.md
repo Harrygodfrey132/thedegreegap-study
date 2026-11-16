@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors, Picked for Worcester Families"
-hero_lead: "'Works hard, but understanding is patchy.' If that's what your child's Biology report says, you're far from the only Worcester parent reading it. Our Worcester A-Level Biology tutors work on respiration and the statistics questions, which is usually where the gaps are hiding."
+hero_lead: "'Works hard, but understanding is patchy.' If that's what your child's Biology report says, you're far from the only Worcester parent reading it. Our A-Level Biology tutors for Worcester students work on respiration and the statistics questions, which is usually where the gaps are hiding."
 
 angle_eyebrow: "EFFORT IS FINE, UNDERSTANDING IS PATCHY"
 angle_heading: "When Your Child Knows the Names but Not What They Do"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Luton, Built Around the Weakest of the Three"
-hero_lead: "Most students aren't weak at Science. They're weak at one of the three, and a single grade hides which. Our Luton GCSE Science tutors name the one costing marks, then spend the term there. One-to-one and online."
+hero_lead: "Most students aren't weak at Science. They're weak at one of the three, and a single grade hides which. Our GCSE Science tutors for Luton students name the one costing marks, then spend the term there. One-to-one and online."
 
 angle_eyebrow: "TAUGHT SEPARATELY, GRADED TOGETHER"
 angle_heading: "Three Teachers, One Grade, and the Course It Has to Open"

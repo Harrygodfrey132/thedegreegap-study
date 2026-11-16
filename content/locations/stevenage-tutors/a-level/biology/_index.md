@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Stevenage Teenagers"
-hero_lead: "When your child knows their Biology but the mock says otherwise, the gap is usually in how they write it down. Our Stevenage A-Level Biology tutors mark those written answers with your child every week, online and one-to-one, so they can see where the marks go."
+hero_lead: "When your child knows their Biology but the mock says otherwise, the gap is usually in how they write it down. Our A-Level Biology tutors for Stevenage students mark those written answers with your child every week, online and one-to-one, so they can see where the marks go."
 
 angle_eyebrow: "THEY KNOW IT WHEN YOU TEST THEM"
 angle_heading: "What a Kitchen-Table Biology Quiz Can't Tell You"

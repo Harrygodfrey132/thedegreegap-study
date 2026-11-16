@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Cannock Students Losing Marks on Practicals and Statistics"
-hero_lead: "Your child can explain how a nerve impulse travels, then drops easy marks on a chi-squared test or a question about a practical from months ago. Our Cannock A-Level Biology tutors make those skills routine, alongside the content."
+hero_lead: "Your child can explain how a nerve impulse travels, then drops easy marks on a chi-squared test or a question about a practical from months ago. Our A-Level Biology tutors for Cannock students make those skills routine, alongside the content."
 
 angle_eyebrow: "THE MATHS INSIDE BIOLOGY"
 angle_heading: "The A-Level Biology Marks Cannock Students Don't Expect to Lose"

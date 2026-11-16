@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Basingstoke Families, Starting From the Marked Mock"
-hero_lead: "The mock grade that came home tells you far less than the marked paper behind it. Our Basingstoke A-Level Maths tutors sit down with that paper and your child, and find out where the marks actually went."
+hero_lead: "The mock grade that came home tells you far less than the marked paper behind it. Our A-Level Maths tutors for Basingstoke students sit down with that paper and your child, and find out where the marks actually went."
 
 angle_eyebrow: "THE GRADE IS ONLY THE SUMMARY"
 angle_heading: "What Your Child's Maths Mock Can Tell You That the Grade Can't"

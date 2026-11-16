@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutoring for Cambridge Sixth Formers"
-hero_lead: "Hard work, a middle place in a strong Maths set at Hills Road or Long Road, and no real way for you or your child to tell whether that's a problem. Our Cambridge A-Level Maths tutors teach online, and the first thing they'll do is answer that question properly."
+hero_lead: "Hard work, a middle place in a strong Maths set at Hills Road or Long Road, and no real way for you or your child to tell whether that's a problem. Our A-Level Maths tutors for Cambridge students teach online, and the first thing they'll do is answer that question properly."
 
 angle_eyebrow: "WHAT A MID-TABLE POSITION MEANS IN A STRONG SET"
 angle_heading: "What Sitting in the Middle of a Cambridge Maths Set Really Tells You"

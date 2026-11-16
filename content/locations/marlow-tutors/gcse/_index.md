@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Marlow GCSE Tutors for the Year 11 Grades Behind Your Child's Next Step"
 hero_heading_line2: ""
-hero_lead: "After Year 11, your child might stay in Marlow, cross into Oxfordshire for Henley or head to Wycombe, and each place looks at GCSEs in its own way. Our Marlow GCSE tutors work one-to-one online on the grades that choice depends on."
+hero_lead: "After Year 11, your child might stay in Marlow, cross into Oxfordshire for Henley or head to Wycombe, and each place looks at GCSEs in its own way. Our GCSE tutors for Marlow students work one-to-one online on the grades that choice depends on."
 
 grade_from: "4-5"
 grade_to: "8"

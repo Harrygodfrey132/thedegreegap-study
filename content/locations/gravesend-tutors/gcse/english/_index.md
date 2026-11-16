@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Gravesend Students Whose Language Grade Lags Behind"
-hero_lead: "Plenty of children do fine in Literature and keep losing marks in Language, or the other way round, and the report doesn't always make clear which. Our Gravesend GCSE English tutors find which paper is costing the grade and practise exactly that."
+hero_lead: "Plenty of children do fine in Literature and keep losing marks in Language, or the other way round, and the report doesn't always make clear which. Our GCSE English tutors for Gravesend students find which paper is costing the grade and practise exactly that."
 
 angle_eyebrow: "TWO ENGLISH GRADES, NOT ONE"
 angle_heading: "Why a Gravesend GCSE English Tutor Treats Language and Literature Separately"

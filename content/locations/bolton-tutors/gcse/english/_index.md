@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online One-to-One GCSE English Tutoring for Bolton Year 11s and the Grade Colleges Name"
-hero_lead: "English Language turns up on nearly every post-16 requirement in the borough, which puts a lot of weight on a small number of papers. Our Bolton GCSE English tutors find where the marks leave those papers, then rebuild the answers online and one-to-one over Lessonspace."
+hero_lead: "English Language turns up on nearly every post-16 requirement in the borough, which puts a lot of weight on a small number of papers. Our GCSE English tutors for Bolton students find where the marks leave those papers, then rebuild the answers online and one-to-one over Lessonspace."
 
 angle_eyebrow: "NAMED ON EVERY ENTRY REQUIREMENT"
 angle_heading: "Where an English Grade Is Won, and Where It Leaks"

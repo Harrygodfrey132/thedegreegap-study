@@ -7,7 +7,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Canterbury Year 10s and 11s"
-hero_lead: "Most children remember magnesium burning with a bright white flame, but writing it as a balanced equation with the right formulae is where Chemistry marks tend to slip. Our Canterbury GCSE Science tutors practise that written side of Chemistry with your child until it comes naturally."
+hero_lead: "Most children remember magnesium burning with a bright white flame, but writing it as a balanced equation with the right formulae is where Chemistry marks tend to slip. Our GCSE Science tutors for Canterbury students practise that written side of Chemistry with your child until it comes naturally."
 
 angle_eyebrow: "THE WRITTEN LANGUAGE OF GCSE CHEMISTRY"
 angle_heading: "Why Formulae and Equations Decide So Many Chemistry Marks"

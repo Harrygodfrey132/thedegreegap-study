@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors in Warwick Who Start With the Plan"
-hero_lead: "Watch your child start an English essay and they're often writing within seconds, with no plan at all. Our Warwick GCSE English tutors put that first minute right, because it settles more of the mark than the twenty that follow."
+hero_lead: "Watch your child start an English essay and they're often writing within seconds, with no plan at all. Our GCSE English tutors for Warwick students put that first minute right, because it settles more of the mark than the twenty that follow."
 
 angle_eyebrow: "THE MINUTE BEFORE THE WRITING"
 angle_heading: "Why Your Child's Plan Decides the Mark More Than Their Writing Does"

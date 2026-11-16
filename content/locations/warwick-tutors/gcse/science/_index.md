@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors Supporting Warwick Families"
-hero_lead: "Plenty of Science marks sit in graphs, tables and data questions, and they're the part hardly anyone revises. If your child knows the content but the grade won't budge, our Warwick GCSE Science tutors start there."
+hero_lead: "Plenty of Science marks sit in graphs, tables and data questions, and they're the part hardly anyone revises. If your child knows the content but the grade won't budge, our GCSE Science tutors for Warwick students start there."
 
 angle_eyebrow: "THE MARKS HIDING IN THE GRAPHS"
 angle_heading: "The Part of the Science Paper Your Child Probably Isn't Revising"

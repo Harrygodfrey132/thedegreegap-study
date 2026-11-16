@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors Helping Bradford Families Keep the Subject Past Year 12"
-hero_lead: "The decision to drop Maths gets made quietly, somewhere around the spring of Year 12. Our Bradford A-Level Maths tutors get in before that, and the fix is usually narrower than anybody fears. One-to-one and online over Lessonspace."
+hero_lead: "The decision to drop Maths gets made quietly, somewhere around the spring of Year 12. Our A-Level Maths tutors for Bradford students get in before that, and the fix is usually narrower than anybody fears. One-to-one and online over Lessonspace."
 
 angle_eyebrow: "THE SUBJECT THAT GETS DROPPED FIRST"
 angle_heading: "What Changes Between GCSE Maths and Year 12 Pure"

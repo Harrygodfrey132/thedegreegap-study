@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Marlow A-Level Tutors for the Year 12 That Shapes Your Child's Predictions"
 hero_heading_line2: ""
-hero_lead: "Did your child stay on for sixth form, move school, or cross the river to Henley? Wherever they are, the grade on their UCAS form starts taking shape in Year 12. Our Marlow A-Level tutors work with them one-to-one online, an hour a week."
+hero_lead: "Did your child stay on for sixth form, move school, or cross the river to Henley? Wherever they are, the grade on their UCAS form starts taking shape in Year 12. Our A-Level tutors for Marlow students work with them one-to-one online, an hour a week."
 
 grade_from: "E/U"
 grade_to: "C"

@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Tonbridge A-Level Tutors for Year 12 Marks That Dropped After Good GCSEs"
 hero_heading_line2: ""
-hero_lead: "Is your child saying Year 12 is just harder than they thought? Lots of parents hear exactly that in the autumn term. Our Tonbridge A-Level tutors work one-to-one online to find which part of the step up is costing the marks."
+hero_lead: "Is your child saying Year 12 is just harder than they thought? Lots of parents hear exactly that in the autumn term. Our A-Level tutors for Tonbridge students work one-to-one online to find which part of the step up is costing the marks."
 
 grade_from: "C"
 grade_to: "A"

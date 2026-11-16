@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Nottingham, Starting With the Basics"
-hero_lead: "Six Maths questions shouldn't take all evening, but in a lot of homes they do, and it's usually because the basics underneath aren't automatic yet. Our Nottingham GCSE Maths tutors work online to make those basics quick, so your child's energy goes on the question itself."
+hero_lead: "Six Maths questions shouldn't take all evening, but in a lot of homes they do, and it's usually because the basics underneath aren't automatic yet. Our GCSE Maths tutors for Nottingham students work online to make those basics quick, so your child's energy goes on the question itself."
 
 angle_eyebrow: "WHY SIX MATHS QUESTIONS CAN TAKE ALL EVENING"
 angle_heading: "What a Nottingham GCSE Maths Tutor Does When the Basics Are Slow"

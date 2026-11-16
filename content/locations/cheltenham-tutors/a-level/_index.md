@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Cheltenham A-Level Tutors: Strong GCSEs, and Now Year 12 Feels Hard"
 hero_heading_line2: ""
-hero_lead: "Your child's predicted grade comes mostly from their Year 12 work, and it's usually settled before they've sat a single real A-Level exam. Our Cheltenham A-Level tutors get in while that work is still being done, not once the number's been written down."
+hero_lead: "Your child's predicted grade comes mostly from their Year 12 work, and it's usually settled before they've sat a single real A-Level exam. Our A-Level tutors for Cheltenham students get in while that work is still being done, not once the number's been written down."
 
 grade_from: "C"
 grade_to: "A"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring for Didcot Families"
-hero_lead: "If your child would rather write up an experiment than a Literature essay, English can feel like a locked door. Our Didcot GCSE English tutors break both papers into steps your child can follow, so a logical mind has something to hold on to."
+hero_lead: "If your child would rather write up an experiment than a Literature essay, English can feel like a locked door. Our GCSE English tutors for Didcot students break both papers into steps your child can follow, so a logical mind has something to hold on to."
 
 angle_eyebrow: "ENGLISH FOR A CHILD WHO THINKS IN STEPS"
 angle_heading: "GCSE English for the Didcot Child Who'd Rather Be Solving Equations"

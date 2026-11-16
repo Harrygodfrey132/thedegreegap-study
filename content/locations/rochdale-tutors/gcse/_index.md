@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Rochdale GCSE Tutors for Families Worried They've Left It Too Late"
 hero_heading_line2: ""
-hero_lead: "It's Year 11, the mocks are close, and you're wondering if a tutor now is worth it or months too late. Our Rochdale GCSE tutors start with the topics costing your child the most marks, so the weeks left go where they count."
+hero_lead: "It's Year 11, the mocks are close, and you're wondering if a tutor now is worth it or months too late. Our GCSE tutors for Rochdale students start with the topics costing your child the most marks, so the weeks left go where they count."
 
 grade_from: "4-5"
 grade_to: "8"

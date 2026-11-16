@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Harrow GCSE Tutors for the Hour a Class of Thirty Can't Give"
 hero_heading_line2: ""
-hero_lead: "Your child's report says they're working hard, and the mock says something else. Our Harrow GCSE tutors work one-to-one, an hour a week, on the online platform Lessonspace. And they start with the marked paper, not the grade at the top of it."
+hero_lead: "Your child's report says they're working hard, and the mock says something else. Our GCSE tutors for Harrow students work one-to-one, an hour a week, on the online platform Lessonspace. And they start with the marked paper, not the grade at the top of it."
 
 grade_from: "E"
 grade_to: "B"

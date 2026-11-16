@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Sevenoaks Families"
-hero_lead: "You know Science is slipping, but not which of the three sciences it is, and the report won't say. Our Sevenoaks GCSE Science tutors work that out first, so the term's lessons go where the marks are actually being lost."
+hero_lead: "You know Science is slipping, but not which of the three sciences it is, and the report won't say. Our GCSE Science tutors for Sevenoaks students work that out first, so the term's lessons go where the marks are actually being lost."
 
 angle_eyebrow: "BIOLOGY, CHEMISTRY, PHYSICS: WHICH ONE?"
 angle_heading: "Finding the Science That's Behind Before You Pay for a Term"

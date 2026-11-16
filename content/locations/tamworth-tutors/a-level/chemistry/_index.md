@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors Covering Tamworth"
-hero_lead: "Percentage yield and atom economy look like the same sum, and they aren't. Our Tamworth A-Level Chemistry tutors help your child tell them apart, because exam questions ask for both and a mix-up costs the pair of marks."
+hero_lead: "Percentage yield and atom economy look like the same sum, and they aren't. Our A-Level Chemistry tutors for Tamworth students help your child tell them apart, because exam questions ask for both and a mix-up costs the pair of marks."
 
 angle_eyebrow: "TWO CALCULATIONS, ONE CONFUSION"
 angle_heading: "Why Your Child Gets the Right Number for the Wrong Question"

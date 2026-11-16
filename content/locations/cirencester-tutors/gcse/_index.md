@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Cirencester GCSE Tutors for When Effort and Mock Grades Don't Match"
 hero_heading_line2: ""
-hero_lead: "Your child's putting the hours in, even after a tiring bus ride home, and the mock result is still lower than you'd hoped. Our Cirencester GCSE tutors find the topics behind that mark and give them a steady hour each week."
+hero_lead: "Your child's putting the hours in, even after a tiring bus ride home, and the mock result is still lower than you'd hoped. Our GCSE tutors for Cirencester students find the topics behind that mark and give them a steady hour each week."
 
 grade_from: "5"
 grade_to: "6/7"

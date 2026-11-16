@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring for Leicester Families"
-hero_lead: "If English came back a 3 in the mocks, you'll know what's riding on it: under a 4, your child usually carries on with English after Year 11. Our Leicester GCSE English tutors often start with the writing questions, because they're half the Language marks."
+hero_lead: "If English came back a 3 in the mocks, you'll know what's riding on it: under a 4, your child usually carries on with English after Year 11. Our GCSE English tutors for Leicester students often start with the writing questions, because they're half the Language marks."
 
 angle_eyebrow: "HALF THE MARKS, NO BOOK NEEDED"
 angle_heading: "Where a GCSE English Tutor Starts When Your Child Is Close to a 4"

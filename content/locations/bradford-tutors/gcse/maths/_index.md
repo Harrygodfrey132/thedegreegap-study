@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors Who Find Where Bradford Students Lose the Non-Calculator Marks"
-hero_lead: "Paper 1 arrives with no calculator on it, and a lot of grades get decided there. Our Bradford GCSE Maths tutors work out which arithmetic or algebra step keeps collapsing, then drill it. Sessions are one-to-one and online over Lessonspace."
+hero_lead: "Paper 1 arrives with no calculator on it, and a lot of grades get decided there. Our GCSE Maths tutors for Bradford students work out which arithmetic or algebra step keeps collapsing, then drill it. Sessions are one-to-one and online over Lessonspace."
 
 angle_eyebrow: "THE PAPER WITH NOTHING TO LEAN ON"
 angle_heading: "The Arithmetic Sitting Underneath Every Other Topic"

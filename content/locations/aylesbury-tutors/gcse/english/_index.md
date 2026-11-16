@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Aylesbury GCSE English Tutors, Online and One-to-One"
-hero_lead: "You've read your child's essay. It isn't bad. It just isn't a 7, and nobody's been able to tell you what the difference is. Our Aylesbury GCSE English tutors can usually name it from one marked piece of work."
+hero_lead: "You've read your child's essay. It isn't bad. It just isn't a 7, and nobody's been able to tell you what the difference is. Our GCSE English tutors for Aylesbury students can usually name it from one marked piece of work."
 
 angle_eyebrow: "WHERE AYLESBURY ENGLISH ESSAYS LOSE A BAND"
 angle_heading: "What Separates a Good Aylesbury English Essay From a Top-Band One"

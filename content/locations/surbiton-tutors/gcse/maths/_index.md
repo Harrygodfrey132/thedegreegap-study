@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Surbiton Children, From Shaky Algebra to the Higher Paper"
-hero_lead: "The Maths homework is apparently done by the time you get home, then a test comes back with the algebra marked wrong. Our Surbiton GCSE Maths tutors find the step that keeps slipping, often rearranging or negative numbers, and rebuild it one-to-one, online."
+hero_lead: "The Maths homework is apparently done by the time you get home, then a test comes back with the algebra marked wrong. Our GCSE Maths tutors for Surbiton students find the step that keeps slipping, often rearranging or negative numbers, and rebuild it one-to-one, online."
 
 angle_eyebrow: "THE GRADE THE SCIENCES READ TOO"
 angle_heading: "Why the Maths Grade Decides More Than A-Level Maths for Surbiton Teenagers"

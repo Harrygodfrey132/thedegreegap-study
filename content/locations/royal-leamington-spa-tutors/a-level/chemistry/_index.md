@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutoring in Royal Leamington Spa, for Year 12 and Year 13"
-hero_lead: "Lots of teenagers cope fine with Chemistry until alkenes, because that's where the curly arrows start being marked strictly. Our Royal Leamington Spa A-Level Chemistry tutors work on electrophilic addition, carbocation stability and the polymer questions that follow."
+hero_lead: "Lots of teenagers cope fine with Chemistry until alkenes, because that's where the curly arrows start being marked strictly. Our A-Level Chemistry tutors for Royal Leamington Spa students work on electrophilic addition, carbocation stability and the polymer questions that follow."
 
 angle_eyebrow: "WHERE THE ARROWS START COUNTING"
 angle_heading: "Why Alkenes Are Often the First Chemistry Topic to Go Wrong"

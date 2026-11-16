@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutoring for Tamworth Families"
-hero_lead: "Fine on most of Science but lost on one topic, like electricity or moles? That's common on combined, which has less time than triple for the same three subjects. Our Tamworth GCSE Science tutors work with your child online and go back over the part that got squeezed."
+hero_lead: "Fine on most of Science but lost on one topic, like electricity or moles? That's common on combined, which has less time than triple for the same three subjects. Our GCSE Science tutors for Tamworth students work with your child online and go back over the part that got squeezed."
 
 angle_eyebrow: "THE TOPIC THAT GOT SQUEEZED"
 angle_heading: "Where a Combined Science Timetable Runs Out of Room"

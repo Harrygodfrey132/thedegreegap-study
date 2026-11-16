@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "One-to-One Online GCSE Maths Tutoring for Guildford"
-hero_lead: "'It's fine' might be all you hear about Maths, and sometimes that means your child has quietly stopped asking questions in class. Our Guildford GCSE Maths tutors give them an hour a week, online and one-to-one, to ask everything they've been sitting on."
+hero_lead: "'It's fine' might be all you hear about Maths, and sometimes that means your child has quietly stopped asking questions in class. Our GCSE Maths tutors for Guildford students give them an hour a week, online and one-to-one, to ask everything they've been sitting on."
 
 angle_eyebrow: "THE QUESTION THEY DIDN'T ASK"
 angle_heading: "How a Guildford GCSE Maths Tutor Gets a Quiet Child Asking Again"

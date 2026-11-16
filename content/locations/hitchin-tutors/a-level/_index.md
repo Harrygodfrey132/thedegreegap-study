@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Hitchin A-Level Tutors for a Year 12 That Started Lower Than Expected"
 hero_heading_line2: ""
-hero_lead: "Year 12 in Hitchin can mean a class drawn from three schools, a new teacher, even a different site for one subject. And it lands just as A-Level stops spelling out what each question wants. Our Hitchin A-Level tutors help your child through it, one-to-one, before predictions are written."
+hero_lead: "Year 12 in Hitchin can mean a class drawn from three schools, a new teacher, even a different site for one subject. And it lands just as A-Level stops spelling out what each question wants. Our A-Level tutors for Hitchin students help your child through it, one-to-one, before predictions are written."
 
 grade_from: "E"
 grade_to: "C"

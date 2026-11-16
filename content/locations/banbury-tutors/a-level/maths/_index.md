@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutoring Across Banbury"
-hero_lead: "Lots of families assume the A-Level formula booklet has everything in it. It doesn't, and the parts it leaves out are the ones your child has to know by heart. Our Banbury A-Level Maths tutors sort that out early."
+hero_lead: "Lots of families assume the A-Level formula booklet has everything in it. It doesn't, and the parts it leaves out are the ones your child has to know by heart. Our A-Level Maths tutors for Banbury students sort that out early."
 
 angle_eyebrow: "WHAT'S IN THE BOOKLET, AND WHAT ISN'T"
 angle_heading: "Why Your Child Needs to Know What the Formula Booklet Leaves Out"

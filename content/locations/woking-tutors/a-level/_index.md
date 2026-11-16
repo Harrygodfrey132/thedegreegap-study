@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Woking A-Level Tutors for When Year 12 Feels Nothing Like GCSE"
 hero_heading_line2: ""
-hero_lead: "The first Year 12 marks are coming back lower than anything your child got at GCSE, and it's hard to see why. Our Woking A-Level tutors work one-to-one online on what's changed, so it's in hand before the assessments that shape predicted grades."
+hero_lead: "The first Year 12 marks are coming back lower than anything your child got at GCSE, and it's hard to see why. Our A-Level tutors for Woking students work one-to-one online on what's changed, so it's in hand before the assessments that shape predicted grades."
 
 grade_from: "C"
 grade_to: "A"

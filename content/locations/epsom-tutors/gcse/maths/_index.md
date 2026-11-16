@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Epsom, From a Solid 6 Towards an 8"
-hero_lead: "Your child's report says they're doing well. At the school gate, everyone's talking about 8s and 9s. Both can be true at once, and it's an uncomfortable spot for a Year 11 in Surrey. Our Epsom GCSE Maths tutors work on the exact marks sitting between the two."
+hero_lead: "Your child's report says they're doing well. At the school gate, everyone's talking about 8s and 9s. Both can be true at once, and it's an uncomfortable spot for a Year 11 in Surrey. Our GCSE Maths tutors for Epsom students work on the exact marks sitting between the two."
 
 angle_eyebrow: "WHAT SEPARATES A 6 FROM AN 8 AROUND EPSOM"
 angle_heading: "The Marks That Separate a Comfortable Grade From a Competitive One"

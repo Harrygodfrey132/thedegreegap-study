@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutoring Across Hatfield, for the Topics That Slipped Past"
-hero_lead: "Some Maths topics get a couple of weeks in Year 10 and don't come up again until the exam. If your child missed one, our Hatfield GCSE Maths tutors go back and take them through it again, one-to-one."
+hero_lead: "Some Maths topics get a couple of weeks in Year 10 and don't come up again until the exam. If your child missed one, our GCSE Maths tutors for Hatfield students go back and take them through it again, one-to-one."
 
 angle_eyebrow: "TAUGHT ONCE, EXAMINED TWO YEARS LATER"
 angle_heading: "The Maths Topics Your Child Meets Once, Then Not Again Until the Exam"

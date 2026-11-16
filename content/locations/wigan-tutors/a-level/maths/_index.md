@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutoring for Wigan, Starting With the Algebra"
-hero_lead: "A-Level Maths doesn't get harder gradually. For a lot of teenagers it happens over about three weeks of Year 12, and suddenly your child feels lost. Our Wigan A-Level Maths tutors rebuild the algebra underneath before touching whatever the class is doing now."
+hero_lead: "A-Level Maths doesn't get harder gradually. For a lot of teenagers it happens over about three weeks of Year 12, and suddenly your child feels lost. Our A-Level Maths tutors for Wigan students rebuild the algebra underneath before touching whatever the class is doing now."
 
 angle_eyebrow: "THE ALGEBRA UNDER EVERYTHING"
 angle_heading: "Why Your Child's Year 12 Maths Trouble Is Usually Algebra in Disguise"

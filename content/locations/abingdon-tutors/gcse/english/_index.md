@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Abingdon, Language and Literature Alike"
-hero_lead: "Your child's English book keeps coming back with 'develop this further' scribbled beside their paragraphs, and nobody at home can explain what it means. Our Abingdon GCSE English tutors show them, one-to-one online, on real exam extracts and against the clock."
+hero_lead: "Your child's English book keeps coming back with 'develop this further' scribbled beside their paragraphs, and nobody at home can explain what it means. Our GCSE English tutors for Abingdon students show them, one-to-one online, on real exam extracts and against the clock."
 
 angle_eyebrow: "WHAT 'DEVELOP THIS FURTHER' ACTUALLY MEANS"
 angle_heading: "Why GCSE English Can Follow an Abingdon Teenager Into Year 12"

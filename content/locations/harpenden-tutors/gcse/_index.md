@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Harpenden GCSE Tutors for the Subject Your Child Keeps Putting Off"
 hero_heading_line2: ""
-hero_lead: "A subject rarely falls apart overnight. Your child starts avoiding it, a little at a time, until its homework is always last and the questions dry up. Our Harpenden GCSE tutors work on the avoidance as much as the content."
+hero_lead: "A subject rarely falls apart overnight. Your child starts avoiding it, a little at a time, until its homework is always last and the questions dry up. Our GCSE tutors for Harpenden students work on the avoidance as much as the content."
 
 grade_from: "E"
 grade_to: "B"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Bicester"
-hero_lead: "The practicals in your child's GCSE Science course happen in class, so a change of school or a week off sick can mean missing a few, with exam questions on them still to come. Our Bicester GCSE Science tutors talk them through, step by step, one-to-one online."
+hero_lead: "The practicals in your child's GCSE Science course happen in class, so a change of school or a week off sick can mean missing a few, with exam questions on them still to come. Our GCSE Science tutors for Bicester students talk them through, step by step, one-to-one online."
 
 angle_eyebrow: "THE PRACTICALS YOUR CHILD MISSED"
 angle_heading: "How Missed Practicals Turn Up in a Bicester GCSE Science Paper"

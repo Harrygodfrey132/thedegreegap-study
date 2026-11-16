@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Sutton Families, Starting With the Non-Calculator Paper"
-hero_lead: "When your child's algebra is a bit shaky, the non-calculator paper is usually where it shows first. Our Sutton GCSE Maths tutors start there, one-to-one and online, and fix the method before it costs marks on the harder calculator questions too."
+hero_lead: "When your child's algebra is a bit shaky, the non-calculator paper is usually where it shows first. Our GCSE Maths tutors for Sutton students start there, one-to-one and online, and fix the method before it costs marks on the harder calculator questions too."
 
 angle_eyebrow: "NO CALCULATOR, NOWHERE TO HIDE"
 angle_heading: "Where the Non-Calculator Paper Gives Your Child's Gap Away"

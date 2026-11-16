@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors in Sutton, for When Year 12 Feels Like a New Subject"
-hero_lead: "A top grade in GCSE Maths, then a Year 12 test that comes back well short. It happens to lots of capable teenagers, and it's rarely about effort. Our Sutton A-Level Maths tutors work one-to-one and online, teaching your child to choose the method rather than just follow one."
+hero_lead: "A top grade in GCSE Maths, then a Year 12 test that comes back well short. It happens to lots of capable teenagers, and it's rarely about effort. Our A-Level Maths tutors for Sutton students work one-to-one and online, teaching your child to choose the method rather than just follow one."
 
 angle_eyebrow: "THE TERM THE OLD METHOD RUNS OUT"
 angle_heading: "Why Your Child's GCSE Methods Aren't Enough in Year 12 Maths"

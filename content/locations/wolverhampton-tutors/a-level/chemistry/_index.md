@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for Wolverhampton and the Black Country"
-hero_lead: "When your child keeps losing marks on boiling points or bond angles, it's usually down to bonding, which is covered quickly at the start of Year 12. Our Wolverhampton A-Level Chemistry tutors go back to it properly, with shapes and the forces between molecules."
+hero_lead: "When your child keeps losing marks on boiling points or bond angles, it's usually down to bonding, which is covered quickly at the start of Year 12. Our A-Level Chemistry tutors for Wolverhampton students go back to it properly, with shapes and the forces between molecules."
 
 angle_eyebrow: "THE TOPIC EVERYTHING ELSE RESTS ON"
 angle_heading: "Why Bonding Keeps Costing Your Child Marks Long After It's Been Taught"

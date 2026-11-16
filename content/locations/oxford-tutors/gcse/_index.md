@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Oxford GCSE Tutors For the Year 11 Who's Working Hard but Stuck"
 hero_heading_line2: ""
-hero_lead: "You ask how it's going and get a shrug, and the mock paper in their bag says more than they will. Our Oxford GCSE tutors sit down one-to-one with your child, work out which topics slipped by while the class moved on, and start there."
+hero_lead: "You ask how it's going and get a shrug, and the mock paper in their bag says more than they will. Our GCSE tutors for Oxford students sit down one-to-one with your child, work out which topics slipped by while the class moved on, and start there."
 
 grade_from: "E"
 grade_to: "B"

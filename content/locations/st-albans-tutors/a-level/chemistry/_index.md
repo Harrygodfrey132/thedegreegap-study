@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutoring in St Albans, From Periodicity to Titration Curves"
-hero_lead: "Inorganic chemistry is the part of the A-Level most children revise last, and it's often where the marks go first. Our St Albans A-Level Chemistry tutors work on periodicity, the trend explanations and the titration curves that decide whole questions."
+hero_lead: "Inorganic chemistry is the part of the A-Level most children revise last, and it's often where the marks go first. Our A-Level Chemistry tutors for St Albans students work on periodicity, the trend explanations and the titration curves that decide whole questions."
 
 angle_eyebrow: "THE PART THAT GETS REVISED LAST"
 angle_heading: "Why Inorganic Chemistry Quietly Takes Your Child's Marks"

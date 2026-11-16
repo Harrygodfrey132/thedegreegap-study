@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutoring in Chester, for When a Great GCSE Meets a Tough Year 12"
-hero_lead: "At GCSE, your child could usually tell which method a question wanted. A-Level stops telling them. Our Chester A-Level Maths tutors work one-to-one online through the year that change lands, until choosing a method becomes a habit."
+hero_lead: "At GCSE, your child could usually tell which method a question wanted. A-Level stops telling them. Our A-Level Maths tutors for Chester students work one-to-one online through the year that change lands, until choosing a method becomes a habit."
 
 angle_eyebrow: "NOTHING ANNOUNCES THE METHOD ANY MORE"
 angle_heading: "The Year 12 Step That Catches Out Children Who Did Brilliantly at GCSE"

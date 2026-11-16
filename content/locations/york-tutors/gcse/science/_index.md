@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "York GCSE Science Tutoring, Online and One-to-One"
-hero_lead: "Plenty of parents tell us the same thing: paper after paper, and the Science mark still won't move. It's usually what happens after each paper that's missing, not effort. Our York GCSE Science tutors help your child turn each lost mark into something they can fix."
+hero_lead: "Plenty of parents tell us the same thing: paper after paper, and the Science mark still won't move. It's usually what happens after each paper that's missing, not effort. Our GCSE Science tutors for York students help your child turn each lost mark into something they can fix."
 
 angle_eyebrow: "PAST PAPERS THAT DON'T MOVE THE MARK"
 angle_heading: "When Past Papers Stop Moving a York Child's Science Grade"

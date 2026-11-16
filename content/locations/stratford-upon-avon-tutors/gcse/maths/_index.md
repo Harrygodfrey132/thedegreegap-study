@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutoring for Stratford-upon-Avon Families"
-hero_lead: "Being near the bottom of a Maths set at a Warwickshire grammar says very little about your child's grade, but it can say a lot to a fifteen-year-old. Our Stratford-upon-Avon GCSE Maths tutors work from the paper, not the set."
+hero_lead: "Being near the bottom of a Maths set at a Warwickshire grammar says very little about your child's grade, but it can say a lot to a fifteen-year-old. Our GCSE Maths tutors for Stratford-upon-Avon students work from the paper, not the set."
 
 angle_eyebrow: "A LOW SET ISN'T A LOW GRADE"
 angle_heading: "Why Your Child's Maths Set Isn't the Same Thing as Their Grade"

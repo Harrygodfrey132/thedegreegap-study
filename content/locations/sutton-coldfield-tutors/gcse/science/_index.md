@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutoring in Sutton Coldfield, Working on the Questions That Ask Why"
-hero_lead: "Your child can tell you every fact on the course and still lose marks on the longer questions, because those ask why, not what. Our Sutton Coldfield GCSE Science tutors help your child with the why, online and one-to-one."
+hero_lead: "Your child can tell you every fact on the course and still lose marks on the longer questions, because those ask why, not what. Our GCSE Science tutors for Sutton Coldfield students help your child with the why, online and one-to-one."
 
 angle_eyebrow: "KNOWING IT ISN'T THE SAME AS EXPLAINING IT"
 angle_heading: "Where Learning the Facts Stops Being Enough"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Chester Families on Both Sides of the Border"
-hero_lead: "Biology questions often hand your child much of what they need, and it's easy to skim straight past it. Our Chester A-Level Biology tutors work on reading the question properly before answering it."
+hero_lead: "Biology questions often hand your child much of what they need, and it's easy to skim straight past it. Our A-Level Biology tutors for Chester students work on reading the question properly before answering it."
 
 angle_eyebrow: "THE ANSWER IS PARTLY IN THE QUESTION"
 angle_heading: "Why the Start of a Biology Question Is Worth Reading Twice"

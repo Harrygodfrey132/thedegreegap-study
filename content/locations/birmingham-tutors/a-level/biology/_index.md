@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "One-to-One Online A-Level Biology Tutors in Birmingham"
-hero_lead: "Plenty of Biology marks go on answers that are true but incomplete, and the enzyme graph is a classic. Your child says it levels off. The examiner wanted to know why. Our Birmingham A-Level Biology tutors work on that gap, starting with enzymes and digestion."
+hero_lead: "Plenty of Biology marks go on answers that are true but incomplete, and the enzyme graph is a classic. Your child says it levels off. The examiner wanted to know why. Our A-Level Biology tutors for Birmingham students work on that gap, starting with enzymes and digestion."
 
 angle_eyebrow: "WHY THE GRAPH FLATTENS"
 angle_heading: "When Your Child Can Describe the Enzyme Graph but Not Explain It"

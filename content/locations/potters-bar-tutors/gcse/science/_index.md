@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Potters Bar and Brookmans Park"
-hero_lead: "A child who loves the experiments and dreads the six-mark answers can find GCSE Science a bit unfair. Our Potters Bar GCSE Science tutors work on the written side, one-to-one online, from explaining a result to rearranging an equation."
+hero_lead: "A child who loves the experiments and dreads the six-mark answers can find GCSE Science a bit unfair. Our GCSE Science tutors for Potters Bar students work on the written side, one-to-one online, from explaining a result to rearranging an equation."
 
 angle_eyebrow: "GOOD IN THE LAB, STUCK ON PAPER"
 angle_heading: "Why a Potters Bar Child Can Love Science and Still Lose Marks"

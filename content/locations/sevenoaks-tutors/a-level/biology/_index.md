@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutoring for Your Child in Sevenoaks"
-hero_lead: "'We weren't taught that.' If your child has said it after a Biology mock, they're half right: the treatment in the question was new, but the Biology wasn't. Our Sevenoaks A-Level Biology tutors help your child apply what they know to new cases, starting with stem cells."
+hero_lead: "'We weren't taught that.' If your child has said it after a Biology mock, they're half right: the treatment in the question was new, but the Biology wasn't. Our A-Level Biology tutors for Sevenoaks students help your child apply what they know to new cases, starting with stem cells."
 
 angle_eyebrow: "NEW CASE, SAME BIOLOGY"
 angle_heading: "Why Stem Cell Questions Reward Reasoning More Than Revision"

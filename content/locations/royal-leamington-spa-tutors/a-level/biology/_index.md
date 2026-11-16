@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Royal Leamington Spa A-Level Biology Tutors, Online and One-to-One"
-hero_lead: "Every word in the gene technology chapter is familiar to your child, and still the marks don't come. Our Royal Leamington Spa A-Level Biology tutors work on PCR, gel electrophoresis and classification, where knowing why beats knowing what."
+hero_lead: "Every word in the gene technology chapter is familiar to your child, and still the marks don't come. Our A-Level Biology tutors for Royal Leamington Spa students work on PCR, gel electrophoresis and classification, where knowing why beats knowing what."
 
 angle_eyebrow: "EASY TO READ, HARD TO ANSWER"
 angle_heading: "When Your Child Knows the Words but Not the Why"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutoring Across Sunbury-on-Thames"
-hero_lead: "Wordy questions cost a lot of A-Level Maths marks, even when the maths inside is easy for your child. Our Sunbury-on-Thames A-Level Maths tutors work on turning words into equations."
+hero_lead: "Wordy questions cost a lot of A-Level Maths marks, even when the maths inside is easy for your child. Our A-Level Maths tutors for Sunbury-on-Thames students work on turning words into equations."
 
 angle_eyebrow: "THE MATHS IS THE EASY PART"
 angle_heading: "Turning a Paragraph of Words Into an Equation Your Child Can Solve"

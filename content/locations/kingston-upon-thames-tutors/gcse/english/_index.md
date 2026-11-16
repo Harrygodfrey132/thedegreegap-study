@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Kingston upon Thames Teenagers Who Know More Than They Score"
-hero_lead: "Your child can talk about their set text for twenty minutes, then the essay comes back a band lower than that chat deserved. Our Kingston upon Thames GCSE English tutors work one-to-one online on the gap between what your child knows and what the marker actually sees."
+hero_lead: "Your child can talk about their set text for twenty minutes, then the essay comes back a band lower than that chat deserved. Our GCSE English tutors for Kingston upon Thames students work one-to-one online on the gap between what your child knows and what the marker actually sees."
 
 angle_eyebrow: "THE ESSAY THAT ANSWERS A DIFFERENT QUESTION"
 angle_heading: "Why Knowing the Whole Text Can Cost Marks on the Question Asked"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Croydon Families, Starting With the Algebra Underneath"
-hero_lead: "Whether your child sits foundation or higher, the same thing tends to go wrong. It's an algebra method from Year 8 that never quite stuck, so every algebra question costs three marks instead of none. Our Croydon GCSE Maths tutors find it in the first hour, one-to-one and online."
+hero_lead: "Whether your child sits foundation or higher, the same thing tends to go wrong. It's an algebra method from Year 8 that never quite stuck, so every algebra question costs three marks instead of none. Our GCSE Maths tutors for Croydon students find it in the first hour, one-to-one and online."
 
 angle_eyebrow: "ONE THREAD, TWO TIERS"
 angle_heading: "Where the Same Algebra Gap Costs Your Child Marks on Either Tier"

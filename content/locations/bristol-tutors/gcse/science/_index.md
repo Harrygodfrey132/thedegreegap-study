@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors Covering Bristol"
-hero_lead: "Your child's report may show one Science grade for three subjects, and it won't tell you which one is dragging. Our Bristol GCSE Science tutors mark a recent paper across all three first, then decide what the lessons should focus on."
+hero_lead: "Your child's report may show one Science grade for three subjects, and it won't tell you which one is dragging. Our GCSE Science tutors for Bristol students mark a recent paper across all three first, then decide what the lessons should focus on."
 
 angle_eyebrow: "WHAT THE SCHOOL REPORT DOESN'T TELL YOU"
 angle_heading: "Which of the Three Sciences Is Holding Your Child Back?"

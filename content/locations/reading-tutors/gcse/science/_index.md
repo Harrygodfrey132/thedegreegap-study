@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Reading Families"
-hero_lead: "Your child can recite the definitions, and the Science grade still hasn't moved. That's because most marks go on using what they know. Our Reading GCSE Science tutors work online on the exam questions themselves, which is where the grade gets decided."
+hero_lead: "Your child can recite the definitions, and the Science grade still hasn't moved. That's because most marks go on using what they know. Our GCSE Science tutors for Reading students work online on the exam questions themselves, which is where the grade gets decided."
 
 angle_eyebrow: "RECALL IS ONLY PART OF THE TEST"
 angle_heading: "Why Science Revision Often Misses What the Paper Asks For"

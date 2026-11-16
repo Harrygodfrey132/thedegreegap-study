@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for St Albans Families, Matched on Exam Board"
-hero_lead: "Hours of revision, and the English essay still comes back with the same grade. That's common, because the marks go to how your child writes more than what they know. Our St Albans GCSE English tutors teach that writing, one marked essay at a time."
+hero_lead: "Hours of revision, and the English essay still comes back with the same grade. That's common, because the marks go to how your child writes more than what they know. Our GCSE English tutors for St Albans students teach that writing, one marked essay at a time."
 
 angle_eyebrow: "WHEN MORE REVISION DOESN'T MOVE THE ENGLISH GRADE"
 angle_heading: "The GCSE Where Working Harder Doesn't Always Show"

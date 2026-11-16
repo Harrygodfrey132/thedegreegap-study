@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors Helping Tunbridge Wells Families"
-hero_lead: "Your child flew through GCSE Maths, and now Year 12 tests come back covered in red pen. It happens a lot to quick children, who could reach most GCSE answers without writing much down. Our Tunbridge Wells A-Level Maths tutors work on the method with your child, online and weekly."
+hero_lead: "Your child flew through GCSE Maths, and now Year 12 tests come back covered in red pen. It happens a lot to quick children, who could reach most GCSE answers without writing much down. Our A-Level Maths tutors for Tunbridge Wells students work on the method with your child, online and weekly."
 
 angle_eyebrow: "THE JUMP FROM GCSE TO YEAR 12"
 angle_heading: "A Good GCSE Grade Doesn't Always Carry Into Year 12 Maths"

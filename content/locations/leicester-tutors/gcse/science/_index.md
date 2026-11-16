@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors Across Leicester"
-hero_lead: "When the same Science mistake turns up test after test, it's often an idea that feels like plain common sense, like heavier things always falling faster. Our Leicester GCSE Science tutors find those ideas in your child's answers and gently take them apart, one-to-one and online."
+hero_lead: "When the same Science mistake turns up test after test, it's often an idea that feels like plain common sense, like heavier things always falling faster. Our GCSE Science tutors for Leicester students find those ideas in your child's answers and gently take them apart, one-to-one and online."
 
 angle_eyebrow: "WHEN EVERYDAY COMMON SENSE GETS THE SCIENCE WRONG"
 angle_heading: "Why Some Science Mistakes Keep Coming Back, However Much Your Child Revises"

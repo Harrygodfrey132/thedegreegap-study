@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Swindon, Starting Where the Marks Go"
-hero_lead: "Maths papers come in blocks, and your child almost never loses marks evenly across them. Our Swindon GCSE Maths tutors work online, find the block that's leaking, and spend the term there."
+hero_lead: "Maths papers come in blocks, and your child almost never loses marks evenly across them. Our GCSE Maths tutors for Swindon students work online, find the block that's leaking, and spend the term there."
 
 angle_eyebrow: "MARKS AREN'T LOST EVENLY"
 angle_heading: "Which Part of the Paper Is Costing Your Child the Grade?"

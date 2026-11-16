@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Kenilworth A-Level Tutors Who Start With Your Child's First Year 12 Test"
 hero_heading_line2: ""
-hero_lead: "When your child stays on for sixth form, nothing around them changes, so a harder Year 12 can go unnoticed for a term. Our Kenilworth A-Level tutors read the first marked tests, find where the marks are slipping and work on that."
+hero_lead: "When your child stays on for sixth form, nothing around them changes, so a harder Year 12 can go unnoticed for a term. Our A-Level tutors for Kenilworth students read the first marked tests, find where the marks are slipping and work on that."
 
 grade_from: "E"
 grade_to: "C"

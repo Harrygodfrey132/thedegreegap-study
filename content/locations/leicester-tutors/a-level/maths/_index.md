@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Leicester A-Level Maths Tutors, One-to-One and Online"
-hero_lead: "If you never sat A-Level Maths yourself, it's hard to tell from the kitchen table why a right answer scored two out of six. Our Leicester A-Level Maths tutors can, and they teach your child to write the working that earns the other four."
+hero_lead: "If you never sat A-Level Maths yourself, it's hard to tell from the kitchen table why a right answer scored two out of six. Our A-Level Maths tutors for Leicester students can, and they teach your child to write the working that earns the other four."
 
 angle_eyebrow: "RIGHT ANSWER, TWO MARKS OUT OF SIX"
 angle_heading: "Where the Marks Really Are in A-Level Maths, Explained for Leicester Parents"

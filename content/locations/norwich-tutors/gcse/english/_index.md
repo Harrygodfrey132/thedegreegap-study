@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring for Norwich Families"
-hero_lead: "If your child knows the texts but their answers get shorter and thinner as the exam goes on, that's stamina, and it takes longer to build than most families expect. Our Norwich GCSE English tutors start on it early, often in Year 10."
+hero_lead: "If your child knows the texts but their answers get shorter and thinner as the exam goes on, that's stamina, and it takes longer to build than most families expect. Our GCSE English tutors for Norwich students start on it early, often in Year 10."
 
 angle_eyebrow: "STAMINA IS A SKILL TOO"
 angle_heading: "Why English Rewards Starting in Year 10 More Than Most Subjects"

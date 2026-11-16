@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for High Wycombe and the Chilterns"
-hero_lead: "Your child's transition metal answers sound right and still come back with low marks. Our High Wycombe A-Level Chemistry tutors help them get every colour and every detail exactly right."
+hero_lead: "Your child's transition metal answers sound right and still come back with low marks. Our A-Level Chemistry tutors for High Wycombe students help them get every colour and every detail exactly right."
 
 angle_eyebrow: "WHEN NEARLY RIGHT ISN'T ENOUGH"
 angle_heading: "Why Transition Metals Ask Your Child to Remember, Not Just Understand"

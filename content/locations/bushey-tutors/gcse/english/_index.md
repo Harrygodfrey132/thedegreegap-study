@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Bushey Children Who Say English Has No Right Answers"
-hero_lead: "If your child is happy with an equation but freezes at 'how does the writer create tension?', English can start to feel like guesswork. Our Bushey GCSE English tutors give each question a method, from unseen extracts to the final piece of writing."
+hero_lead: "If your child is happy with an equation but freezes at 'how does the writer create tension?', English can start to feel like guesswork. Our GCSE English tutors for Bushey students give each question a method, from unseen extracts to the final piece of writing."
 
 card_eyebrow: "A FREE CHAT FIRST"
 card_heading: "Tell us what English feels like for your child"

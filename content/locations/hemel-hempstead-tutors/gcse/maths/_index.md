@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors Covering Hemel Hempstead"
-hero_lead: "Before you start, you'll want to know how long this takes. Fair question. It depends on what's really going wrong, and our Hemel Hempstead GCSE Maths tutors will find that in the first lesson and tell you."
+hero_lead: "Before you start, you'll want to know how long this takes. Fair question. It depends on what's really going wrong, and our GCSE Maths tutors for Hemel Hempstead students will find that in the first lesson and tell you."
 
 angle_eyebrow: "HOW LONG IT REALLY TAKES"
 angle_heading: "Two Different Gaps, Two Very Different Timelines"

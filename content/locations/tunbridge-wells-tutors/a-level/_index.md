@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Tunbridge Wells A-Level Tutors for Bright Children Who've Never Had to Revise"
 hero_heading_line2: ""
-hero_lead: "It can come as a shock. For plenty of Tunbridge Wells teenagers, A-Level is the first time being bright isn't enough by itself, and Year 12 shows it. Our Tunbridge Wells A-Level tutors help your child build a way of studying that works, before predictions go to UCAS."
+hero_lead: "It can come as a shock. For plenty of Tunbridge Wells teenagers, A-Level is the first time being bright isn't enough by itself, and Year 12 shows it. Our A-Level tutors for Tunbridge Wells students help your child build a way of studying that works, before predictions go to UCAS."
 
 grade_from: "C"
 grade_to: "A"

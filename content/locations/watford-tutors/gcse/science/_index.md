@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutoring for Watford Families"
-hero_lead: "When the Science grade slips, it's rarely all three sciences at once. Usually one of them, often the one your child enjoys least, is dragging the Combined grade down. Our Watford GCSE Science tutors find which it is and put the hours there, instead of revising everything a little."
+hero_lead: "When the Science grade slips, it's rarely all three sciences at once. Usually one of them, often the one your child enjoys least, is dragging the Combined grade down. Our GCSE Science tutors for Watford students find which it is and put the hours there, instead of revising everything a little."
 
 angle_eyebrow: "WHY ONE SCIENCE GRADE CAN HIDE THREE PROBLEMS"
 angle_heading: "Finding Which of the Three Sciences Is Costing Your Child Marks"

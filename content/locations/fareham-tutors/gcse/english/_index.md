@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring for Fareham, Whichever College Comes Next"
-hero_lead: "Ask how English revision is going and you might get a shrug and 'you can't really revise for English'. We hear that one a lot. Our Fareham GCSE English tutors show your child what to practise instead, from quotations to timed writing."
+hero_lead: "Ask how English revision is going and you might get a shrug and 'you can't really revise for English'. We hear that one a lot. Our GCSE English tutors for Fareham students show your child what to practise instead, from quotations to timed writing."
 
 angle_eyebrow: "THE SUBJECT THEY SAY YOU CAN'T REVISE"
 angle_heading: "Why 'You Can't Revise for English' Is Only Ever Half True"

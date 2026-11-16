@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors Covering Sheffield"
-hero_lead: "The Science mock came back at a 4, and your child swears Biology went fine. Our Sheffield GCSE Science tutors mark that paper across all three sciences to see where the marks really went, before anything else gets planned."
+hero_lead: "The Science mock came back at a 4, and your child swears Biology went fine. Our GCSE Science tutors for Sheffield students mark that paper across all three sciences to see where the marks really went, before anything else gets planned."
 
 angle_eyebrow: "WHAT ONE COMBINED SCIENCE GRADE CAN HIDE"
 angle_heading: "When Steady Biology Hides a Slipping Physics Grade"

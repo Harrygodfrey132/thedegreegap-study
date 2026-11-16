@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Exeter A-Level Tutors for the Jump From School to a Big College"
 hero_heading_line2: ""
-hero_lead: "In Year 11, your child's teachers probably knew them and their work well. At a college of thousands there's far less time for that, and it's nobody's fault. Our Exeter A-Level tutors put it back, with an hour a week on your child's own essays and answers."
+hero_lead: "In Year 11, your child's teachers probably knew them and their work well. At a college of thousands there's far less time for that, and it's nobody's fault. Our A-Level tutors for Exeter students put it back, with an hour a week on your child's own essays and answers."
 
 grade_from: "B"
 grade_to: "A"

@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Clacton-on-Sea GCSE Tutors for the Subject Your Child Wants to Take Further"
 hero_heading_line2: ""
-hero_lead: "Your child has a course in mind for after Year 11, and the subject it hangs on is the one that keeps slipping. Our Clacton-on-Sea GCSE tutors find where it went wrong and rebuild it, one lesson a week."
+hero_lead: "Your child has a course in mind for after Year 11, and the subject it hangs on is the one that keeps slipping. Our GCSE tutors for Clacton-on-Sea students find where it went wrong and rebuild it, one lesson a week."
 
 grade_from: "4-5"
 grade_to: "8"

@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Abingdon GCSE Tutors for When Hard Work Isn't Showing in the Grades"
 hero_heading_line2: ""
-hero_lead: "Your child sits down to revise most evenings, and the mock grade still won't budge. You're not the only parent wondering what to try next. Our Abingdon GCSE tutors go through what your child actually wrote, then work one-to-one online on the questions costing the most marks."
+hero_lead: "Your child sits down to revise most evenings, and the mock grade still won't budge. You're not the only parent wondering what to try next. Our GCSE tutors for Abingdon students go through what your child actually wrote, then work one-to-one online on the questions costing the most marks."
 
 grade_from: "E"
 grade_to: "B"

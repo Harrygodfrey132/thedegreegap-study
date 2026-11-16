@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Beverley, Molescroft and Walkington"
-hero_lead: "Maybe it's the non-calculator paper, or the multi-step problems your child keeps leaving blank. Our Beverley GCSE Maths tutors look for the earlier topic those marks depend on and start the lessons there."
+hero_lead: "Maybe it's the non-calculator paper, or the multi-step problems your child keeps leaving blank. Our GCSE Maths tutors for Beverley students look for the earlier topic those marks depend on and start the lessons there."
 
 card_eyebrow: "TALK TO US FIRST"
 card_heading: "Show us the Maths paper that worried you"

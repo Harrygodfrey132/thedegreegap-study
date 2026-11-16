@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online A-Level Tutors for Bournemouth Year 12s Who Changed School at 16"
 hero_heading_line2: ""
-hero_lead: "First term at a new sixth form, and the A-Level marks coming home are lower than you'd hoped. That's common when the teachers have never seen your child's GCSE work. Our Bournemouth A-Level tutors find what their old course covered and which bits are still shaky, one-to-one online."
+hero_lead: "First term at a new sixth form, and the A-Level marks coming home are lower than you'd hoped. That's common when the teachers have never seen your child's GCSE work. Our A-Level tutors for Bournemouth students find what their old course covered and which bits are still shaky, one-to-one online."
 
 grade_from: "C"
 grade_to: "A"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors Serving Bicester"
-hero_lead: "Maths builds on itself, so one topic your child missed, through a school move or a few weeks off, can trip up everything stacked on top. Our Bicester GCSE Maths tutors trace the trouble back to that topic and rebuild from there, one-to-one online."
+hero_lead: "Maths builds on itself, so one topic your child missed, through a school move or a few weeks off, can trip up everything stacked on top. Our GCSE Maths tutors for Bicester students trace the trouble back to that topic and rebuild from there, one-to-one online."
 
 angle_eyebrow: "ONE MISSED TOPIC, MANY LOST MARKS"
 angle_heading: "Why a Missed Maths Topic Follows a Bicester Child Into Year 11"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Beaconsfield, Whether Your Child Needs a Solid 5 or Is Reaching for the Top"
-hero_lead: "Maybe the Maths mock came back a grade under target, or the homework's still open at ten o'clock. Our Beaconsfield GCSE Maths tutors work one-to-one online, going back to the algebra or fractions step where the marks first slipped and building up from there."
+hero_lead: "Maybe the Maths mock came back a grade under target, or the homework's still open at ten o'clock. Our GCSE Maths tutors for Beaconsfield students work one-to-one online, going back to the algebra or fractions step where the marks first slipped and building up from there."
 
 card_heading: "Start with a chat about your child's Maths"
 card_points:

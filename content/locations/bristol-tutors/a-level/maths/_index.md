@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors Helping Bristol Sixth Formers"
-hero_lead: "Your child can hold their own on the Pure questions and still lose most of a Mechanics question before any algebra starts. Our Bristol A-Level Maths tutors go back to the force diagram, the sketch of every push and pull, where slopes and friction usually go wrong."
+hero_lead: "Your child can hold their own on the Pure questions and still lose most of a Mechanics question before any algebra starts. Our A-Level Maths tutors for Bristol students go back to the force diagram, the sketch of every push and pull, where slopes and friction usually go wrong."
 
 angle_eyebrow: "WHERE BRISTOL MECHANICS MARKS GO MISSING"
 angle_heading: "Why the Mechanics Marks Slip, and What a Bristol Tutor Does About It"

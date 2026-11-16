@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Harrogate GCSE Tutors for When the Report's Fine but the Mock Isn't"
 hero_heading_line2: ""
-hero_lead: "Most Harrogate parents who call us are happy with the school. The report's fine, the teaching's good, and still the mock came back lower than you'd hoped. Our Harrogate GCSE tutors add what a class of thirty can't: a plan built for one child, yours."
+hero_lead: "Most Harrogate parents who call us are happy with the school. The report's fine, the teaching's good, and still the mock came back lower than you'd hoped. Our GCSE tutors for Harrogate students add what a class of thirty can't: a plan built for one child, yours."
 
 grade_from: "6"
 grade_to: "8"

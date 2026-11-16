@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors Harrow Parents Call When the November Mock Comes Back"
-hero_lead: "The November mock has a way of turning a vague worry into a number. Our Harrow GCSE Maths tutors work one-to-one online, and they go through that paper with your child question by question before planning a thing."
+hero_lead: "The November mock has a way of turning a vague worry into a number. Our GCSE Maths tutors for Harrow students work one-to-one online, and they go through that paper with your child question by question before planning a thing."
 
 angle_eyebrow: "THE MARKS AREN'T SPREAD EVENLY"
 angle_heading: "Where a Harrow Year 11 Actually Loses the Maths Marks"

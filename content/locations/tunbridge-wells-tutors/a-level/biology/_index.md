@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Tunbridge Wells and Tonbridge"
-hero_lead: "It's unsettling when a child who's always done well brings home a C in Biology. Usually the knowledge is there, and the marks are going on questions that ask your child to use it somewhere new. Our Tunbridge Wells A-Level Biology tutors work on exactly that."
+hero_lead: "It's unsettling when a child who's always done well brings home a C in Biology. Usually the knowledge is there, and the marks are going on questions that ask your child to use it somewhere new. Our A-Level Biology tutors for Tunbridge Wells students work on exactly that."
 
 angle_eyebrow: "THE CURVE THEY CAN DRAW FROM MEMORY"
 angle_heading: "Why a Curve Your Child Knows by Heart Can Still Cost Marks"

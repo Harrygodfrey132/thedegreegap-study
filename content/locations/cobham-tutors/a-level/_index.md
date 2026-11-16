@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Cobham A-Level Tutors While Year 12 Is Shaping Predicted Grades"
 hero_heading_line2: ""
-hero_lead: "Year 12 can feel like a practice run, so it's easy to miss that most of your child's predicted grades rest on it. Our Cobham A-Level tutors work one-to-one online on the subject that's slipping, while there's still time to turn it round."
+hero_lead: "Year 12 can feel like a practice run, so it's easy to miss that most of your child's predicted grades rest on it. Our A-Level tutors for Cobham students work one-to-one online on the subject that's slipping, while there's still time to turn it round."
 
 grade_from: "E"
 grade_to: "C"

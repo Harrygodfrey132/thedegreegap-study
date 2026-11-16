@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Harpenden A-Level Maths Tutors, Online and One-to-One"
-hero_lead: "Your child understands the statistics, so why do marks keep going on the large data set, the real figures their exam board publishes? Our Harpenden A-Level Maths tutors open it up with them, and those are some of the easiest marks to win back."
+hero_lead: "Your child understands the statistics, so why do marks keep going on the large data set, the real figures their exam board publishes? Our A-Level Maths tutors for Harpenden students open it up with them, and those are some of the easiest marks to win back."
 
 angle_eyebrow: "THE DATA SET NOBODY OPENS"
 angle_heading: "Why Your Child Can Lose Statistics Marks Before the Exam Even Starts"

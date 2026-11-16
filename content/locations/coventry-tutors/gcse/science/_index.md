@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Coventry, Kenilworth and Bedworth"
-hero_lead: "Your child revised Biology for weeks, and the first paper only asked about part of it. It happens a lot, because each science is usually sat as two papers with their own topics. Our Coventry GCSE Science tutors plan your child's revision the way the papers are split."
+hero_lead: "Your child revised Biology for weeks, and the first paper only asked about part of it. It happens a lot, because each science is usually sat as two papers with their own topics. Our GCSE Science tutors for Coventry students plan your child's revision the way the papers are split."
 
 angle_eyebrow: "WHICH HALF IS ON WHICH PAPER"
 angle_heading: "Why Coventry Revision Works Better When It Follows the Two Papers"

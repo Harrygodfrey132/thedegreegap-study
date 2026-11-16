@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Knutsford Sixth Formers"
-hero_lead: "When the first Year 12 Maths test comes back covered in red ink after a strong GCSE, it's usually the questions that have changed, not your child. Online and one-to-one, our Knutsford A-Level Maths tutors help them choose the method and set out every step."
+hero_lead: "When the first Year 12 Maths test comes back covered in red ink after a strong GCSE, it's usually the questions that have changed, not your child. Online and one-to-one, our A-Level Maths tutors for Knutsford students help them choose the method and set out every step."
 
 card_heading: "Talk through your child's Year 12 Maths with us"
 card_points:

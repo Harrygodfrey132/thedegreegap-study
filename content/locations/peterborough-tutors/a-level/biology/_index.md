@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Families Around Peterborough"
-hero_lead: "Your child's Biology notes can look beautiful and still be almost impossible to revise from. Our Peterborough A-Level Biology tutors help them turn those pages into something they can actually use."
+hero_lead: "Your child's Biology notes can look beautiful and still be almost impossible to revise from. Our A-Level Biology tutors for Peterborough students help them turn those pages into something they can actually use."
 
 angle_eyebrow: "PAGES OF NOTES, NOTHING TO REVISE FROM"
 angle_heading: "Why Copying Everything Down Doesn't Help Your Child in Biology"

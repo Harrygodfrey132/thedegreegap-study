@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Luton, Matched on the Board and the Tier"
-hero_lead: "Higher or foundation is the decision nobody explains properly, and it changes which questions are even on the paper. Our Luton GCSE Maths tutors settle it with evidence, then rebuild whatever the paper says is missing. One-to-one and online."
+hero_lead: "Higher or foundation is the decision nobody explains properly, and it changes which questions are even on the paper. Our GCSE Maths tutors for Luton students settle it with evidence, then rebuild whatever the paper says is missing. One-to-one and online."
 
 angle_eyebrow: "TIER FIRST, TOPICS SECOND"
 angle_heading: "Why the Tier Decision Is a Maths Problem, Not an Admin One"

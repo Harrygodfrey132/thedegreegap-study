@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring in Harpenden When the Essays Stay Vague"
-hero_lead: "The teacher's comment says 'explain the effect', and your child honestly thought they had. Our Harpenden GCSE English tutors work online on the missing step: saying exactly what one word is doing, the way the mark scheme rewards."
+hero_lead: "The teacher's comment says 'explain the effect', and your child honestly thought they had. Our GCSE English tutors for Harpenden students work online on the missing step: saying exactly what one word is doing, the way the mark scheme rewards."
 
 angle_eyebrow: "SAYING WHAT IT ACTUALLY DOES"
 angle_heading: "Why Your Child's Analysis Sounds Right but Scores Low"

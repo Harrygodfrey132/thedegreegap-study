@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online New Malden GCSE Tutors for Courses That Began Back in Year 9"
 hero_heading_line2: ""
-hero_lead: "Lots of parents assume GCSEs start in Year 10, then hear at a parents' evening that the course began a year earlier and an early topic never went in. Our New Malden GCSE tutors go back to where it began and rebuild from there."
+hero_lead: "Lots of parents assume GCSEs start in Year 10, then hear at a parents' evening that the course began a year earlier and an early topic never went in. Our GCSE tutors for New Malden students go back to where it began and rebuild from there."
 
 grade_from: "5"
 grade_to: "6/7"

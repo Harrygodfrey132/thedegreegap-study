@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Worcester and Malvern GCSE Science Tutors, All Online"
-hero_lead: "Your child's Science folder might look full, but the topic squeezed into the last week before Christmas may have left barely a page. Our Worcester GCSE Science tutors check what your child knows against the exam board's own list of topics, so gaps like that don't stay hidden."
+hero_lead: "Your child's Science folder might look full, but the topic squeezed into the last week before Christmas may have left barely a page. Our GCSE Science tutors for Worcester students check what your child knows against the exam board's own list of topics, so gaps like that don't stay hidden."
 
 angle_eyebrow: "WHAT A FOLDER OF NOTES LEAVES OUT"
 angle_heading: "Why Revising From Notes Can Miss the Topics Your Child Needs Most"

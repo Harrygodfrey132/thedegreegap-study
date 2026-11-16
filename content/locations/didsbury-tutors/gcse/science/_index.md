@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors Covering Didsbury, for Children Hoping to Take Science at Sixth Form"
-hero_lead: "It's often just one of the three sciences doing all the damage, and a single Science grade won't tell you which. Our Didsbury GCSE Science tutors work one-to-one online, find that science first and start there, whether it's Chemistry calculations or six-mark Biology answers."
+hero_lead: "It's often just one of the three sciences doing all the damage, and a single Science grade won't tell you which. Our GCSE Science tutors for Didsbury students work one-to-one online, find that science first and start there, whether it's Chemistry calculations or six-mark Biology answers."
 
 card_eyebrow: "FREE CONSULTATION"
 card_heading: "Talk to us about your child's Science"

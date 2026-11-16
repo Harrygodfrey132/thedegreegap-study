@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Didsbury A-Level Tutors Who Catch the Year 12 Dip Before Predictions Are Written"
 hero_heading_line2: ""
-hero_lead: "Good GCSEs, a happy first week of sixth form, then your child's first marked test comes back two grades lower. Our Didsbury A-Level tutors work out why, one-to-one online, long before the predicted grade gets written in Year 13."
+hero_lead: "Good GCSEs, a happy first week of sixth form, then your child's first marked test comes back two grades lower. Our A-Level tutors for Didsbury students work out why, one-to-one online, long before the predicted grade gets written in Year 13."
 
 grade_from: "E/U"
 grade_to: "C"

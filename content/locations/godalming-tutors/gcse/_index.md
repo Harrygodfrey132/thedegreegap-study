@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Godalming GCSE Tutors for the Subject That's Lagging Behind the Rest"
 hero_heading_line2: ""
-hero_lead: "It's rarely every subject. More often one lags behind the rest, and it can be the one your child's next course depends on. Our Godalming GCSE tutors give that subject proper time, one-to-one and online, whether the aim is a safe pass or a higher grade."
+hero_lead: "It's rarely every subject. More often one lags behind the rest, and it can be the one your child's next course depends on. Our GCSE tutors for Godalming students give that subject proper time, one-to-one and online, whether the aim is a safe pass or a higher grade."
 
 grade_from: "5"
 grade_to: "6/7"

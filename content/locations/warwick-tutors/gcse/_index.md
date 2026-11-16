@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Warwick GCSE Tutors for a Year 11 That Feels Like Too Much"
 hero_heading_line2: ""
-hero_lead: "Year 11 lands all at once: mocks in one ear, decisions about next year in the other. If your child's shutting the bedroom door on it all, that's very common. Our Warwick GCSE tutors take one subject off the pile and make it a weekly plan."
+hero_lead: "Year 11 lands all at once: mocks in one ear, decisions about next year in the other. If your child's shutting the bedroom door on it all, that's very common. Our GCSE tutors for Warwick students take one subject off the pile and make it a weekly plan."
 
 grade_from: "E"
 grade_to: "B"

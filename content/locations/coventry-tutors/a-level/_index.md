@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Coventry A-Level Tutors for When Good GCSE Habits Stop Working"
 hero_heading_line2: ""
-hero_lead: "Your child got an 8 in GCSE Maths, and now the Year 12 tests are coming back lower than anyone expected. It happens a lot. Our Coventry A-Level tutors help them swap GCSE habits for the ones A-Level rewards, well before predictions are set."
+hero_lead: "Your child got an 8 in GCSE Maths, and now the Year 12 tests are coming back lower than anyone expected. It happens a lot. Our A-Level tutors for Coventry students help them swap GCSE habits for the ones A-Level rewards, well before predictions are set."
 
 grade_from: "C"
 grade_to: "A"

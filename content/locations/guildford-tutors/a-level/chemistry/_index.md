@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online Guildford A-Level Chemistry Tutors for Top Grades"
-hero_lead: "When your child is already doing well in Chemistry, the marks still going missing tend to sit in a handful of hard questions. Our Guildford A-Level Chemistry tutors work on exactly those, like identifying a mystery compound from its spectra, or drawing mirror-image molecules in 3D."
+hero_lead: "When your child is already doing well in Chemistry, the marks still going missing tend to sit in a handful of hard questions. Our A-Level Chemistry tutors for Guildford students work on exactly those, like identifying a mystery compound from its spectra, or drawing mirror-image molecules in 3D."
 
 angle_eyebrow: "THE LAST FEW MARKS ARE THE HARDEST TO FIND"
 angle_heading: "What Stands Between a Strong Guildford Chemist and the Top Grade"

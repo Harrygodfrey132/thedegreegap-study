@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Sutton A-Level Tutors for the Child Who Sailed Through GCSEs, Then Stalled"
 hero_heading_line2: ""
-hero_lead: "Your child did well at GCSE without much revision, and now the Year 12 marks are coming back lower than anyone expected. That's common, and it's rarely laziness. Our Sutton A-Level tutors work one-to-one online, starting with the Year 12 topics Year 13 builds on."
+hero_lead: "Your child did well at GCSE without much revision, and now the Year 12 marks are coming back lower than anyone expected. That's common, and it's rarely laziness. Our A-Level tutors for Sutton students work one-to-one online, starting with the Year 12 topics Year 13 builds on."
 
 grade_from: "C"
 grade_to: "A"

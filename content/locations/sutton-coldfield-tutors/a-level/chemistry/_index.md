@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for Sutton Coldfield, Starting With the Maths-Heavy Half"
-hero_lead: "If your child's Chemistry revision is mostly organic flashcards, the calculation-heavy side (physical chemistry) is probably being left till last. That's where a lot of the marks are. Our Sutton Coldfield A-Level Chemistry tutors start with it."
+hero_lead: "If your child's Chemistry revision is mostly organic flashcards, the calculation-heavy side (physical chemistry) is probably being left till last. That's where a lot of the marks are. Our A-Level Chemistry tutors for Sutton Coldfield students start with it."
 
 angle_eyebrow: "THE BIT THAT GETS LEFT TILL LAST"
 angle_heading: "Why Physical Chemistry, Not Organic, Often Decides Your Child's Grade"

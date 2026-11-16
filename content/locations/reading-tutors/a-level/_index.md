@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Reading A-Level Tutors for the Year 12 Mocks Behind UCAS Predictions"
 hero_heading_line2: ""
-hero_lead: "A grade short of the offer, again. If that's what keeps coming home in Year 12, it's worth knowing the summer mocks feed the predicted grade your child's sixth form sends to UCAS. Our Reading A-Level tutors start there, on the marks behind that prediction."
+hero_lead: "A grade short of the offer, again. If that's what keeps coming home in Year 12, it's worth knowing the summer mocks feed the predicted grade your child's sixth form sends to UCAS. Our A-Level tutors for Reading students start there, on the marks behind that prediction."
 
 grade_from: "E"
 grade_to: "C"

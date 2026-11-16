@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Welwyn Garden City Families Worried About Mocks"
-hero_lead: "The mock came back low, even though school says your child's fine in lessons. Both can be true, and it's very common. Our Welwyn Garden City A-Level Maths tutors work on the exam side."
+hero_lead: "The mock came back low, even though school says your child's fine in lessons. Both can be true, and it's very common. Our A-Level Maths tutors for Welwyn Garden City students work on the exam side."
 
 angle_eyebrow: "FINE IN CLASS, LOST IN THE HALL"
 angle_heading: "Why Doing Well in Class Doesn't Always Carry Into the Exam"

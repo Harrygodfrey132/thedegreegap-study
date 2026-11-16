@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Every London Borough"
-hero_lead: "One cell cycle question in the mock gets full marks and the next gets almost none. That's common, because A-Level asks for a calculation one minute and an explanation the next. Our London A-Level Biology tutors find which is costing your child, then work on it."
+hero_lead: "One cell cycle question in the mock gets full marks and the next gets almost none. That's common, because A-Level asks for a calculation one minute and an explanation the next. Our A-Level Biology tutors for London students find which is costing your child, then work on it."
 
 angle_eyebrow: "A CALCULATION, THEN AN EXPLANATION"
 angle_heading: "Why Your Child Gets One Cell Cycle Question Right and Misses the Next"

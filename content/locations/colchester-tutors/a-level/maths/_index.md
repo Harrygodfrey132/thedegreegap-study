@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutoring for Colchester and Wivenhoe"
-hero_lead: "Has your child gone quiet about Maths since starting at a big sixth form college? Our Colchester A-Level Maths tutors give them what a large class can't: an hour a week with someone reading their working line by line, online."
+hero_lead: "Has your child gone quiet about Maths since starting at a big sixth form college? Our A-Level Maths tutors for Colchester students give them what a large class can't: an hour a week with someone reading their working line by line, online."
 
 angle_eyebrow: "READ LINE BY LINE"
 angle_heading: "A Second Pair of Eyes for Year 13 Maths in Colchester"

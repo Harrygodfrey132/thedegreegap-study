@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors Covering Tunbridge Wells"
-hero_lead: "The report says your child is working hard, and the Science grade next to it doesn't seem to fit. Our Tunbridge Wells GCSE Science tutors split it back into Biology, Chemistry and Physics first, then spend the term on whichever one is really behind."
+hero_lead: "The report says your child is working hard, and the Science grade next to it doesn't seem to fit. Our GCSE Science tutors for Tunbridge Wells students split it back into Biology, Chemistry and Physics first, then spend the term on whichever one is really behind."
 
 angle_eyebrow: "ONE GRADE, THREE SUBJECTS"
 angle_heading: "What One Science Grade on the Report Isn't Telling You"

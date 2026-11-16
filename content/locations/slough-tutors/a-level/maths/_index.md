@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Slough, With University and Apprenticeship in View"
-hero_lead: "Maybe your child's weighing up Reading or Brunel against an apprenticeship at Heathrow, and hasn't decided yet. That's fine. Both kinds of offer look hard at the Maths grade, and our Slough A-Level Maths tutors work one-to-one online on the marks that keep both open."
+hero_lead: "Maybe your child's weighing up Reading or Brunel against an apprenticeship at Heathrow, and hasn't decided yet. That's fine. Both kinds of offer look hard at the Maths grade, and our A-Level Maths tutors for Slough students work one-to-one online on the marks that keep both open."
 
 angle_eyebrow: "TWO ROUTES, ONE MATHS GRADE"
 angle_heading: "One A-Level Maths Grade, Doing Two Jobs for Slough Families"

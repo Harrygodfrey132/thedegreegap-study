@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Marlow, From Avoiding a Resit to Reaching A-Level Maths"
-hero_lead: "By the autumn of Year 11 you might have three sixth form websites open, each wanting something different from the Maths grade. Our Marlow GCSE Maths tutors work with your child one-to-one online on whatever's costing the marks right now."
+hero_lead: "By the autumn of Year 11 you might have three sixth form websites open, each wanting something different from the Maths grade. Our GCSE Maths tutors for Marlow students work with your child one-to-one online on whatever's costing the marks right now."
 
 angle_eyebrow: "SAME MATHS GRADE, DIFFERENT RULES"
 angle_heading: "What Each Sixth Form Near Marlow Wants From Your Child's Maths Grade"

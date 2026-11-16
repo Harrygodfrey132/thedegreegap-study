@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors Covering Exeter"
-hero_lead: "Biology gets most of your child's revision because it feels like the one you can read and learn, and somehow it still comes back lowest of the three. Our Exeter GCSE Science tutors usually start by moving those hours around, not adding more."
+hero_lead: "Biology gets most of your child's revision because it feels like the one you can read and learn, and somehow it still comes back lowest of the three. Our GCSE Science tutors for Exeter students usually start by moving those hours around, not adding more."
 
 angle_eyebrow: "WHY THE EASY SCIENCE IS THE ONE LOSING MARKS"
 angle_heading: "Where Your Child's Science Revision Time Really Goes"

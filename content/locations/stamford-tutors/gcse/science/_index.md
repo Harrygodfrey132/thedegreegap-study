@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Stamford Families"
-hero_lead: "Science can look fine on the report and still be losing marks in the questions that need Maths, from rearranging an equation to reading a graph. Our Stamford GCSE Science tutors go through those steps with your child one-to-one online, on whichever board they sit."
+hero_lead: "Science can look fine on the report and still be losing marks in the questions that need Maths, from rearranging an equation to reading a graph. Our GCSE Science tutors for Stamford students go through those steps with your child one-to-one online, on whichever board they sit."
 
 angle_eyebrow: "WHERE SCIENCE MEETS MATHS"
 angle_heading: "The Maths Hiding Inside GCSE Science Questions"

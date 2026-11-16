@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors Covering Henley-on-Thames"
-hero_lead: "When a Science mark goes missing, it's often on a question asking your child to rearrange an equation or explain a practical from months ago, rather than on the topic itself. Our Henley-on-Thames GCSE Science tutors start with those questions, in online lessons with just your child."
+hero_lead: "When a Science mark goes missing, it's often on a question asking your child to rearrange an equation or explain a practical from months ago, rather than on the topic itself. Our GCSE Science tutors for Henley-on-Thames students start with those questions, in online lessons with just your child."
 
 angle_eyebrow: "WHERE THE SCIENCE MARKS GO"
 angle_heading: "Where Science Fits Into the Routes at The Henley College"

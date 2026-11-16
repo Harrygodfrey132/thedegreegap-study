@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutoring for Families in Aylesbury"
-hero_lead: "Most Aylesbury parents who call us about Biology have a child who's already doing well, just not quite at the top. Our Aylesbury A-Level Biology tutors work on water potential, cell division and the long answers, which is where that last grade usually sits."
+hero_lead: "Most Aylesbury parents who call us about Biology have a child who's already doing well, just not quite at the top. Our A-Level Biology tutors for Aylesbury students work on water potential, cell division and the long answers, which is where that last grade usually sits."
 
 angle_eyebrow: "WHEN A LONG ANSWER IS A SHORT ONE, STRETCHED"
 angle_heading: "Where the Tutor Starts When Your Child Is Already Doing Well"

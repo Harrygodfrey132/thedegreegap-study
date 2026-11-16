@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring for Bournemouth Teenagers Who Run Out of Time"
-hero_lead: "Lots of teenagers know their texts and still leave the last question half written. If that sounds like your child, our Bournemouth GCSE English tutors work on where the time's going. One-to-one and online, until the final answer gets the marks it deserves."
+hero_lead: "Lots of teenagers know their texts and still leave the last question half written. If that sounds like your child, our GCSE English tutors for Bournemouth students work on where the time's going. One-to-one and online, until the final answer gets the marks it deserves."
 
 angle_eyebrow: "THE LAST QUESTION ON EVERY PAPER"
 angle_heading: "Why English Marks Go Missing in the Final Twenty Minutes"

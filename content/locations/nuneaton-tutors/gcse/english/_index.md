@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Nuneaton Students Who Run Out of Time Mid-Essay"
-hero_lead: "Your child knows the poem or the novel, then the clock runs out halfway through the essay and the best point never gets written. Our Nuneaton GCSE English tutors teach a quick plan that gets the argument onto the page in time."
+hero_lead: "Your child knows the poem or the novel, then the clock runs out halfway through the essay and the best point never gets written. Our GCSE English tutors for Nuneaton students teach a quick plan that gets the argument onto the page in time."
 
 angle_eyebrow: "A NOVEL FROM DOWN THE ROAD"
 angle_heading: "What Costs Nuneaton Teenagers Marks in GCSE English"

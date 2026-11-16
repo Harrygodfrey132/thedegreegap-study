@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors Covering Guildford and Godalming"
-hero_lead: "When the chapter heading tells your child which method to use, they get the question right, but a mixed paper leaves them unsure where to start. Our Guildford A-Level Maths tutors practise that choice with them, across trigonometry, logs and integration."
+hero_lead: "When the chapter heading tells your child which method to use, they get the question right, but a mixed paper leaves them unsure where to start. Our A-Level Maths tutors for Guildford students practise that choice with them, across trigonometry, logs and integration."
 
 angle_eyebrow: "KNOWING A METHOD ISN'T CHOOSING ONE"
 angle_heading: "Why Capable Guildford Teenagers Get Stuck Between a B and an A*"

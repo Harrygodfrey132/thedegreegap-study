@@ -7,7 +7,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors Covering Canterbury"
-hero_lead: "With English, you can read your child's essay and still not see why it got that mark. It looks fine, and the grade won't budge. Our Canterbury GCSE English tutors mark the writing with your child watching and show them where the next grade starts."
+hero_lead: "With English, you can read your child's essay and still not see why it got that mark. It looks fine, and the grade won't budge. Our GCSE English tutors for Canterbury students mark the writing with your child watching and show them where the next grade starts."
 
 angle_eyebrow: "WHY A REASONABLE ESSAY STOPS SHORT"
 angle_heading: "The Marks Aren't Where Parents Look for Them"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors Covering Peterborough Who Tackle the Maths Behind Lost Science Marks"
-hero_lead: "Your child says they're bad at Physics? Often it's the maths, like rearranging an equation, that's really letting them down. Our Peterborough GCSE Science tutors work online on the maths hiding inside the Science papers."
+hero_lead: "Your child says they're bad at Physics? Often it's the maths, like rearranging an equation, that's really letting them down. Our GCSE Science tutors for Peterborough students work online on the maths hiding inside the Science papers."
 
 angle_eyebrow: "THE MATHS INSIDE THE SCIENCE"
 angle_heading: "How Much of Your Child's Science Paper Is Really a Maths Problem"

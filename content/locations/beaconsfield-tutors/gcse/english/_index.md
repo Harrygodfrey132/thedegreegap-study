@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Beaconsfield Children Who Know the Books but Lose Marks on the Essays"
-hero_lead: "Lots of Beaconsfield parents describe the same kind of essay coming home: good ideas, 'needs more depth' in the margin, and sometimes no ending at all. Our Beaconsfield GCSE English tutors help one-to-one, online, with planning, quotations and getting essays finished inside the time."
+hero_lead: "Lots of Beaconsfield parents describe the same kind of essay coming home: good ideas, 'needs more depth' in the margin, and sometimes no ending at all. Our GCSE English tutors for Beaconsfield students help one-to-one, online, with planning, quotations and getting essays finished inside the time."
 
 card_heading: "Talk your child's GCSE English through with Harry or Joe"
 card_points:

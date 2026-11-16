@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Kingston upon Thames Teenagers Stuck on the Calculations"
-hero_lead: "Your child can know the Chemistry inside out and still drop every mark on the moles question. Our Kingston upon Thames GCSE Science tutors work one-to-one online on the calculations that run through all three sciences, whether your child sits triple or combined."
+hero_lead: "Your child can know the Chemistry inside out and still drop every mark on the moles question. Our GCSE Science tutors for Kingston upon Thames students work one-to-one online on the calculations that run through all three sciences, whether your child sits triple or combined."
 
 angle_eyebrow: "THREE GRADES, EACH READ ON ITS OWN"
 angle_heading: "Why the Calculations Decide the Science Grade Your Child's Sixth Form Will Read"

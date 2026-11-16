@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutoring for Harrogate, When the Mock Comes Back Low"
-hero_lead: "Most Harrogate parents who ring us about Maths aren't holding a bad report. They're holding a mock that came back a grade below the one everyone expected. Our Harrogate GCSE Maths tutors sit down with your child online each week and go after the questions losing those marks."
+hero_lead: "Most Harrogate parents who ring us about Maths aren't holding a bad report. They're holding a mock that came back a grade below the one everyone expected. Our GCSE Maths tutors for Harrogate students sit down with your child online each week and go after the questions losing those marks."
 
 angle_eyebrow: "WHERE THE MARKS GO ON A HARROGATE MATHS MOCK"
 angle_heading: "What a Mock Paper Tells a Harrogate Maths Tutor"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Kenilworth Teenagers"
-hero_lead: "Some children decide English is 'just opinions', and the mark scheme never seems to share theirs. With one of our Kenilworth GCSE English tutors, your child sees what the marks are actually given for, then practises earning them against the clock until it's habit."
+hero_lead: "Some children decide English is 'just opinions', and the mark scheme never seems to share theirs. With one of our GCSE English tutors for Kenilworth students, your child sees what the marks are actually given for, then practises earning them against the clock until it's habit."
 
 angle_eyebrow: "ENGLISH ISN'T JUST OPINIONS"
 angle_heading: "Why GCSE English Can Feel Unfair to a Child Who Likes Right Answers"

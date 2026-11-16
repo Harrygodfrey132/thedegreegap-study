@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online A-Level Tutors in Peterborough for a Hard Year 12 After Good GCSEs"
 hero_heading_line2: ""
-hero_lead: "At A-Level each topic builds on the last, so a shaky first term quietly makes the next one harder. Our Peterborough A-Level tutors would much rather steady things in Year 12 than have your child catching up on two years at once in Year 13."
+hero_lead: "At A-Level each topic builds on the last, so a shaky first term quietly makes the next one harder. Our A-Level tutors for Peterborough students would much rather steady things in Year 12 than have your child catching up on two years at once in Year 13."
 
 grade_from: "C"
 grade_to: "A"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online Stockport GCSE Maths Tutors Who Find Which Paper Is Costing the Marks"
-hero_lead: "Your child sits three Maths papers for one grade, and the marks rarely go evenly across them. Our Stockport GCSE Maths tutors go through a marked paper with your child, online, and find out whether it's the non-calculator paper, the wordy questions at the back, or the choice between higher and foundation."
+hero_lead: "Your child sits three Maths papers for one grade, and the marks rarely go evenly across them. Our GCSE Maths tutors for Stockport students go through a marked paper with your child, online, and find out whether it's the non-calculator paper, the wordy questions at the back, or the choice between higher and foundation."
 
 angle_eyebrow: "THREE PAPERS, AND ONE OF THEM IS THE PROBLEM"
 angle_heading: "Which of the Three Maths Papers Is Really Costing Your Child Marks"

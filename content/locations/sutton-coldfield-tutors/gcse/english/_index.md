@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring for Sutton Coldfield Families"
-hero_lead: "If the nineteenth-century novel is still sitting half-read on your child's desk, it's usually the language in the way, not the ideas. Our Sutton Coldfield GCSE English tutors make that book readable first, then work on the essays."
+hero_lead: "If the nineteenth-century novel is still sitting half-read on your child's desk, it's usually the language in the way, not the ideas. Our GCSE English tutors for Sutton Coldfield students make that book readable first, then work on the essays."
 
 angle_eyebrow: "THE TEXT THAT READS LIKE A WALL"
 angle_heading: "Why the Nineteenth-Century Novel Costs More Marks Than the Rest"

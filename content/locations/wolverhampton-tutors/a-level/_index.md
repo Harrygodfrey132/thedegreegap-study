@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Wolverhampton A-Level Tutors for a Prediction Sitting Just Under the Offer"
 hero_heading_line2: ""
-hero_lead: "Your child's predicted grade is one band under the offer, and they're already working hard. Our Wolverhampton A-Level tutors work on the marks that decide it. Usually that's exam technique, not more content."
+hero_lead: "Your child's predicted grade is one band under the offer, and they're already working hard. Our A-Level tutors for Wolverhampton students work on the marks that decide it. Usually that's exam technique, not more content."
 
 grade_from: "C"
 grade_to: "A"

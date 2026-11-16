@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutoring in Epsom That Starts With the Weakest Science"
-hero_lead: "Three sciences, one disappointing grade, and usually just one of them doing the damage while the other two quietly carry it. Our Epsom GCSE Science tutors find which one, then work on it with your child rather than revising a little of everything."
+hero_lead: "Three sciences, one disappointing grade, and usually just one of them doing the damage while the other two quietly carry it. Our GCSE Science tutors for Epsom students find which one, then work on it with your child rather than revising a little of everything."
 
 angle_eyebrow: "WHERE THE SCIENCE MARKS GO"
 angle_heading: "Finding the One Science Holding Your Child's Grade Down in Epsom"

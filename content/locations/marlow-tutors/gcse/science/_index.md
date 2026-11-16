@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Marlow GCSE Science Tutors Online, Taking Biology, Chemistry and Physics One at a Time"
-hero_lead: "Science rarely slips evenly across Biology, Chemistry and Physics, and the weak one isn't always the one your child talks about. Our Marlow GCSE Science tutors find it, one-to-one and online, and put the hours there."
+hero_lead: "Science rarely slips evenly across Biology, Chemistry and Physics, and the weak one isn't always the one your child talks about. Our GCSE Science tutors for Marlow students find it, one-to-one and online, and put the hours there."
 
 angle_eyebrow: "ONE RESULT, THREE SCIENCES"
 angle_heading: "What Pulls a Marlow Teenager's Science Grade Down"

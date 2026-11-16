@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors in Colchester, for Essays That Don't Match the Revision"
-hero_lead: "Your child's revised the set text for weeks, and the essay still came back a 4. English is the GCSE where effort and grade drift furthest apart, so our Colchester GCSE English tutors work on how the answer's built, not on how much your child knows."
+hero_lead: "Your child's revised the set text for weeks, and the essay still came back a 4. English is the GCSE where effort and grade drift furthest apart, so our GCSE English tutors for Colchester students work on how the answer's built, not on how much your child knows."
 
 angle_eyebrow: "WHAT ACTUALLY DECIDES A GCSE ENGLISH GRADE"
 angle_heading: "Knowing the Book Well and Writing a Good Essay Aren't the Same Thing"

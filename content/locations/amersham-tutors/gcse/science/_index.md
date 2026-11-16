@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Amersham Families, From Half-Life to Titrations and Circuits"
-hero_lead: "When a Science grade slips, it's rarely across the board. It's usually a few calculation topics and the practical questions. Our Amersham GCSE Science tutors find which ones are catching your child out, one-to-one and online, and start there."
+hero_lead: "When a Science grade slips, it's rarely across the board. It's usually a few calculation topics and the practical questions. Our GCSE Science tutors for Amersham students find which ones are catching your child out, one-to-one and online, and start there."
 
 angle_eyebrow: "A TOWN THAT MADE ISOTOPES"
 angle_heading: "The Science Topics That Cost Amersham Teenagers the Most Marks"

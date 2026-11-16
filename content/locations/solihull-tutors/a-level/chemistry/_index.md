@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online One-to-One A-Level Chemistry Tutors for Families in Solihull"
-hero_lead: "A mark short here, a mark short there: if that's how your child's Chemistry papers keep coming back, ionic equations are a likely culprit. Our Solihull A-Level Chemistry tutors work on spectator ions, state symbols and writing the equation the mark scheme wants."
+hero_lead: "A mark short here, a mark short there: if that's how your child's Chemistry papers keep coming back, ionic equations are a likely culprit. Our A-Level Chemistry tutors for Solihull students work on spectator ions, state symbols and writing the equation the mark scheme wants."
 
 angle_eyebrow: "THE MARKS NOBODY NOTICES GOING"
 angle_heading: "Why Ionic Equations Can Cost Your Child More Marks Than Whole Topics"

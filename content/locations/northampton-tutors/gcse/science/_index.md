@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors in Northampton, for Practicals and Six-Mark Answers That Keep Costing Marks"
-hero_lead: "Two evenings rereading the notes, and your child's Science mock still came back lower than you'd hoped. That's usually method, not memory. Our Northampton GCSE Science tutors work one-to-one online on the practical questions and six-mark answers where those marks go."
+hero_lead: "Two evenings rereading the notes, and your child's Science mock still came back lower than you'd hoped. That's usually method, not memory. Our GCSE Science tutors for Northampton students work one-to-one online on the practical questions and six-mark answers where those marks go."
 
 angle_eyebrow: "THE PRACTICALS COME BACK IN THE PAPER"
 angle_heading: "Why Another Read Through the Notes Doesn't Always Move a Science Grade"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Welwyn Garden City and Hatfield"
-hero_lead: "Year 12 went fine, so why does Year 13 Biology suddenly feel so hard? Usually because the new topics lean on last year's, and our Welwyn Garden City A-Level Biology tutors go back for whatever didn't stick."
+hero_lead: "Year 12 went fine, so why does Year 13 Biology suddenly feel so hard? Usually because the new topics lean on last year's, and our A-Level Biology tutors for Welwyn Garden City students go back for whatever didn't stick."
 
 angle_eyebrow: "LEARNED LAST YEAR, NEEDED THIS YEAR"
 angle_heading: "Why Year 13 Biology Needs Last Year's Topics Close at Hand"

@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Worcester A-Level Tutors Before Your Child's Predicted Grade Is Set"
 hero_heading_line2: ""
-hero_lead: "It's easy to assume there's time until the summer exams. But the grade that goes to UCAS is set months earlier, mostly from your child's work in Year 12. Our Worcester A-Level tutors work with them while that prediction is still taking shape."
+hero_lead: "It's easy to assume there's time until the summer exams. But the grade that goes to UCAS is set months earlier, mostly from your child's work in Year 12. Our A-Level tutors for Worcester students work with them while that prediction is still taking shape."
 
 grade_from: "C"
 grade_to: "A"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutoring for Berkhamsted Families, Starting With the Science Losing Marks"
-hero_lead: "When your child comes home with one Science grade, it can hide Biology going well and Chemistry quietly slipping. Our Berkhamsted GCSE Science tutors pull the three apart on a marked paper, then teach one-to-one online wherever the marks are going."
+hero_lead: "When your child comes home with one Science grade, it can hide Biology going well and Chemistry quietly slipping. Our GCSE Science tutors for Berkhamsted students pull the three apart on a marked paper, then teach one-to-one online wherever the marks are going."
 
 angle_eyebrow: "ONE GRADE, THREE SUBJECTS"
 angle_heading: "The Three Places Your Child Is Most Likely Losing Science Marks"

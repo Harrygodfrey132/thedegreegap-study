@@ -6,7 +6,7 @@ location: "Farnborough"
 level: "GCSE"
 
 hero_heading_line1: "Online Farnborough GCSE Tutors for the Course Your Child Has Their Heart Set On"
-hero_lead: "Your Year 11 says it's all under control, and maybe it is. But it's worth checking that the grades they're aiming at match the course they want. Our Farnborough GCSE tutors start there, online and one-to-one."
+hero_lead: "Your Year 11 says it's all under control, and maybe it is. But it's worth checking that the grades they're aiming at match the course they want. Our GCSE tutors for Farnborough students start there, online and one-to-one."
 
 grade_from: "5"
 grade_to: "7"

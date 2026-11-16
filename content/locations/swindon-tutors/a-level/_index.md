@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Swindon A-Level Tutors for Teens Who Know It but Drop Marks on Paper"
 hero_heading_line2: ""
-hero_lead: "By Year 13 your child has been taught most of the course. Turning it into marks in a timed paper is a separate skill, and there's rarely class time to drill it. Our Swindon A-Level tutors spend the hour on exactly that."
+hero_lead: "By Year 13 your child has been taught most of the course. Turning it into marks in a timed paper is a separate skill, and there's rarely class time to drill it. Our A-Level tutors for Swindon students spend the hour on exactly that."
 
 grade_from: "E"
 grade_to: "C"

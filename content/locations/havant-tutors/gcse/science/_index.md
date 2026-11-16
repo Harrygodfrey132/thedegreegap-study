@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Havant and Waterlooville Families"
-hero_lead: "Combined Science fits three subjects into two GCSEs' worth of lessons, so something usually gets squeezed. Our Havant GCSE Science tutors find the topic that went by too fast for your child, and rebuild it."
+hero_lead: "Combined Science fits three subjects into two GCSEs' worth of lessons, so something usually gets squeezed. Our GCSE Science tutors for Havant students find the topic that went by too fast for your child, and rebuild it."
 
 angle_eyebrow: "THREE SUBJECTS, ONE TIMETABLE"
 angle_heading: "Finding the Topic That Got Squeezed Out of the Year"

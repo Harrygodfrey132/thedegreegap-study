@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Winchester A-Level Tutors for the Feedback a Big College Can't Always Give"
 hero_heading_line2: ""
-hero_lead: "Your child has gone from a school year group to a college of thousands, and the one-to-one attention can drop away almost overnight. Our Winchester A-Level tutors give back the part that's hardest to find: someone reading, line by line, what your child actually wrote."
+hero_lead: "Your child has gone from a school year group to a college of thousands, and the one-to-one attention can drop away almost overnight. Our A-Level tutors for Winchester students give back the part that's hardest to find: someone reading, line by line, what your child actually wrote."
 
 grade_from: "C"
 grade_to: "A"

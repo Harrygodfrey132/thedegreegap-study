@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors Across Liverpool and Merseyside"
-hero_lead: "Your child comes out of the Maths mock sure they'd have scored more with another ten minutes. Our Liverpool GCSE Maths tutors work online on pace as well as method, so the marks at the back of the paper stop going unclaimed."
+hero_lead: "Your child comes out of the Maths mock sure they'd have scored more with another ten minutes. Our GCSE Maths tutors for Liverpool students work online on pace as well as method, so the marks at the back of the paper stop going unclaimed."
 
 angle_eyebrow: "THE LAST PAGES, LEFT BLANK"
 angle_heading: "Why a Liverpool GCSE Maths Tutor Watches the Clock as Well as the Working"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors Covering Hatfield"
-hero_lead: "Over tea, your child can make a sharp point about a book. On paper, the same point shrinks to a line or two. Our Hatfield GCSE English tutors work one-to-one online on getting the spoken version onto the page."
+hero_lead: "Over tea, your child can make a sharp point about a book. On paper, the same point shrinks to a line or two. Our GCSE English tutors for Hatfield students work one-to-one online on getting the spoken version onto the page."
 
 angle_eyebrow: "ARTICULATE OUT LOUD, THIN ON PAPER"
 angle_heading: "Why Talking Well About a Book Doesn't Always Show Up in the Essay"

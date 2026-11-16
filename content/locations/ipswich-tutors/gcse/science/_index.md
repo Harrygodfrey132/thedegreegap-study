@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online one-to-one GCSE Science tutoring for Ipswich Year 10s choosing a tier"
-hero_lead: "Tier entry gets decided in Year 10, on evidence gathered before most students have found their feet. Our Ipswich GCSE Science tutors work on that evidence, one-to-one and online over Lessonspace."
+hero_lead: "Tier entry gets decided in Year 10, on evidence gathered before most students have found their feet. Our GCSE Science tutors for Ipswich students work on that evidence, one-to-one and online over Lessonspace."
 
 angle_eyebrow: "THE TIER IS SET BEFORE YEAR 11"
 angle_heading: "One Grade, Three Subjects, One Tier Decision"

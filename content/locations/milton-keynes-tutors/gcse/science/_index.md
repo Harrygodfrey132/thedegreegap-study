@@ -7,7 +7,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "One-to-One Online GCSE Science Tutors in Milton Keynes"
-hero_lead: "'I'm just not a science person' is something we hear a lot, usually from a child who was doing fine until one topic stopped making sense. Our Milton Keynes GCSE Science tutors find where it went wrong and build back up from there, one-to-one and online."
+hero_lead: "'I'm just not a science person' is something we hear a lot, usually from a child who was doing fine until one topic stopped making sense. Our GCSE Science tutors for Milton Keynes students find where it went wrong and build back up from there, one-to-one and online."
 
 angle_eyebrow: "'NOT A SCIENCE PERSON'"
 angle_heading: "Why Children Go Off Science, and Where It Usually Starts"

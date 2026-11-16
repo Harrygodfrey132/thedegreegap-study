@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutoring for York Families, Planned Around UCAS"
-hero_lead: "You're probably planning around the exams in June. But the grade that decides your child's university offers is written long before that. Our York A-Level Maths tutors work backwards from the predicted grade, not from the summer."
+hero_lead: "You're probably planning around the exams in June. But the grade that decides your child's university offers is written long before that. Our A-Level Maths tutors for York students work backwards from the predicted grade, not from the summer."
 
 angle_eyebrow: "THE PREDICTION COMES BEFORE THE EXAM"
 angle_heading: "Why the Date That Matters for Your Child Isn't the Exam"

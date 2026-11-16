@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Birmingham Families"
-hero_lead: "Ask your child about their last Science practical and you may hear a friend did the measuring. Normal in a busy lab. But the exam still asks about it, so our Birmingham GCSE Science tutors go over each practical with your child until they could run it alone."
+hero_lead: "Ask your child about their last Science practical and you may hear a friend did the measuring. Normal in a busy lab. But the exam still asks about it, so our GCSE Science tutors for Birmingham students go over each practical with your child until they could run it alone."
 
 angle_eyebrow: "WHEN A LAB PARTNER HELD THE THERMOMETER"
 angle_heading: "What Birmingham Families Should Know About the Practical Questions in GCSE Science"

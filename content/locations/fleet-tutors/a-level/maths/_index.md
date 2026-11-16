@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors Helping Fleet Families Through College"
-hero_lead: "Your child's Physics homework is open on the desk, and it's stalled because the Maths behind it hasn't clicked. Our Fleet A-Level Maths tutors help your child one-to-one, online, with the pure, mechanics and statistics, starting with whatever's holding everything else up."
+hero_lead: "Your child's Physics homework is open on the desk, and it's stalled because the Maths behind it hasn't clicked. Our A-Level Maths tutors for Fleet students help your child one-to-one, online, with the pure, mechanics and statistics, starting with whatever's holding everything else up."
 
 angle_eyebrow: "THE SUBJECT THE OTHERS LEAN ON"
 angle_heading: "Why Year 12 Maths Reaches Beyond Maths for Many Fleet Teenagers"

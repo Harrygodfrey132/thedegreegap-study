@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online One-to-One GCSE English Tutors for Chesham Families"
-hero_lead: "Your child's Maths grade came back fine and the English one didn't, and with all the reading they do, nobody at home can work out why. Our Chesham GCSE English tutors start at the point where reading well stops being the same as writing what the examiner rewards."
+hero_lead: "Your child's Maths grade came back fine and the English one didn't, and with all the reading they do, nobody at home can work out why. Our GCSE English tutors for Chesham students start at the point where reading well stops being the same as writing what the examiner rewards."
 
 angle_eyebrow: "WHERE THE CHESHAM ELEVEN PLUS STOPS HELPING"
 angle_heading: "What the Chesham Eleven Plus Never Asked Your Child to Do"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Cheltenham, Matched on Exam Board"
-hero_lead: "Wide reading, proper revision, and still the English grade won't budge? It's more common than you'd think. Our Cheltenham GCSE English tutors work on what the mark scheme actually pays for: an argument built on evidence, written to time."
+hero_lead: "Wide reading, proper revision, and still the English grade won't budge? It's more common than you'd think. Our GCSE English tutors for Cheltenham students work on what the mark scheme actually pays for: an argument built on evidence, written to time."
 
 angle_eyebrow: "WHAT MOVES A GCSE ENGLISH GRADE IN CHELTENHAM"
 angle_heading: "The GCSE English Marks That Have Nothing to Do With How Much Your Child Has Read"

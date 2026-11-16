@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Tamworth, Staffordshire"
-hero_lead: "'Insulin lowers blood sugar' is true, and it's about all many teenagers write when a Biology question asks how. Our Tamworth A-Level Biology tutors help your child give the whole answer, step by step, without mixing up glucagon and glycogen."
+hero_lead: "'Insulin lowers blood sugar' is true, and it's about all many teenagers write when a Biology question asks how. Our A-Level Biology tutors for Tamworth students help your child give the whole answer, step by step, without mixing up glucagon and glycogen."
 
 angle_eyebrow: "GLUCAGON, GLYCOGEN, GLUCOSE"
 angle_heading: "When Words That Look Alike Cost Your Child the Blood Glucose Marks"

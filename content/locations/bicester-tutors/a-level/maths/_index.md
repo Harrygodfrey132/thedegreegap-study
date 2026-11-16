@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Sixth Formers Across Bicester"
-hero_lead: "A-Level Maths takes GCSE algebra for granted, so if factorising or rearranging still wobbles, calculus and mechanics wobble with it. Our Bicester A-Level Maths tutors steady the algebra first, then build your child up from there, one-to-one online."
+hero_lead: "A-Level Maths takes GCSE algebra for granted, so if factorising or rearranging still wobbles, calculus and mechanics wobble with it. Our A-Level Maths tutors for Bicester students steady the algebra first, then build your child up from there, one-to-one online."
 
 angle_eyebrow: "WHERE YEAR 12 MATHS GETS HARD"
 angle_heading: "Why the Algebra Matters So Much in Bicester Sixth Form Maths"

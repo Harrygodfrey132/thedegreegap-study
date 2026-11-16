@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Bicester GCSE Tutors Who Start From Where Your Child Really Is"
 hero_heading_line2: ""
-hero_lead: "Since the move, some homework comes back covered in ticks and some sits on the desk all evening, while you wonder whether to say anything. Our Bicester GCSE tutors work out what's behind the stuck bits, one-to-one online, and start on them in the very first lesson."
+hero_lead: "Since the move, some homework comes back covered in ticks and some sits on the desk all evening, while you wonder whether to say anything. Our GCSE tutors for Bicester students work out what's behind the stuck bits, one-to-one online, and start on them in the very first lesson."
 
 grade_from: "5"
 grade_to: "6/7"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for High Wycombe Families, When Triple Science Starts to Pile Up"
-hero_lead: "Triple Science is three full GCSEs, usually squeezed into less than three subjects' worth of lesson time, and Year 11 is often when that catches up with your child. Our High Wycombe GCSE Science tutors work one-to-one online on the science that's slipped."
+hero_lead: "Triple Science is three full GCSEs, usually squeezed into less than three subjects' worth of lesson time, and Year 11 is often when that catches up with your child. Our GCSE Science tutors for High Wycombe students work one-to-one online on the science that's slipped."
 
 angle_eyebrow: "THREE GCSES, ONE TIMETABLE"
 angle_heading: "Why Triple Science Tends to Catch Up With Your Child in Year 11"

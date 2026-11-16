@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Redhill Students Who Can't See Where a Question Starts"
-hero_lead: "Your child follows every worked example in class, then opens a past paper and can't see where the first line should come from. Our Redhill A-Level Maths tutors teach them how to start a question they've never met, across Pure, Mechanics and Statistics."
+hero_lead: "Your child follows every worked example in class, then opens a past paper and can't see where the first line should come from. Our A-Level Maths tutors for Redhill students teach them how to start a question they've never met, across Pure, Mechanics and Statistics."
 
 angle_eyebrow: "FOLLOWING ISN'T THE SAME AS STARTING"
 angle_heading: "Why Redhill Sixth Formers Get Stuck on the First Line of an A-Level Maths Question"

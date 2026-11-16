@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutoring Around Stratford-upon-Avon"
-hero_lead: "Your child can probably do a chromatography calculation in seconds. It's the line asking why one spot travelled further that loses the marks, and our Stratford-upon-Avon A-Level Chemistry tutors teach your child to answer it the way examiners want."
+hero_lead: "Your child can probably do a chromatography calculation in seconds. It's the line asking why one spot travelled further that loses the marks, and our A-Level Chemistry tutors for Stratford-upon-Avon students teach your child to answer it the way examiners want."
 
 angle_eyebrow: "EASY TO DO, HARDER TO EXPLAIN"
 angle_heading: "Why the Easiest-Looking Chemistry Practical Still Costs Your Child Marks"

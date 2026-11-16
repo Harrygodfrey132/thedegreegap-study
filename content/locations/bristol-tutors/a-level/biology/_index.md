@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors, Picked for Bristol Sixth Formers"
-hero_lead: "Your child says DNA is the easy bit. Then the replication question in the mock goes badly, and that happens a lot. Our Bristol A-Level Biology tutors slow it down: one enzyme at a time, then the experiment that showed how it works."
+hero_lead: "Your child says DNA is the easy bit. Then the replication question in the mock goes badly, and that happens a lot. Our A-Level Biology tutors for Bristol students slow it down: one enzyme at a time, then the experiment that showed how it works."
 
 angle_eyebrow: "'WE DID DNA AT GCSE'"
 angle_heading: "Why the DNA Your Child Learnt at GCSE Isn't Enough at A-Level"

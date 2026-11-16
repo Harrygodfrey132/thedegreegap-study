@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Camberley GCSE Tutors Who Fix the Old Gaps Before Sixth Form"
 hero_heading_line2: ""
-hero_lead: "One subject keeps coming back lower than the rest, even though your child works hard, and in a busy class nobody's had time to work out why. Our Camberley GCSE tutors usually find the answer a year or two back, and rebuild from there."
+hero_lead: "One subject keeps coming back lower than the rest, even though your child works hard, and in a busy class nobody's had time to work out why. Our GCSE tutors for Camberley students usually find the answer a year or two back, and rebuild from there."
 
 grade_from: "5"
 grade_to: "6/7"

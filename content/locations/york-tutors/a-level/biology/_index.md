@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for York, Matched to Your Child"
-hero_lead: "If your child gets the right ratio in a genetics question and still loses marks, it's usually the setting out. Our York A-Level Biology tutors work on sex linkage, codominance and the notation the mark scheme rewards."
+hero_lead: "If your child gets the right ratio in a genetics question and still loses marks, it's usually the setting out. Our A-Level Biology tutors for York students work on sex linkage, codominance and the notation the mark scheme rewards."
 
 angle_eyebrow: "THE MARKS ARE IN THE SETTING OUT"
 angle_heading: "Why Your Child Can Get a Genetics Question Right and Still Lose Marks"

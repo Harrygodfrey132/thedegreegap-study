@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Gravesend Students Stuck on 'Show That' Questions"
-hero_lead: "Your child can do the sums, but a question that starts 'show that' or 'explain why' leaves the page almost blank. Our Gravesend GCSE Maths tutors teach them to set out working that earns the method marks, a line at a time."
+hero_lead: "Your child can do the sums, but a question that starts 'show that' or 'explain why' leaves the page almost blank. Our GCSE Maths tutors for Gravesend students teach them to set out working that earns the method marks, a line at a time."
 
 angle_eyebrow: "WHERE THE METHOD MARKS GO"
 angle_heading: "Why GCSE Maths in Gravesend Comes Down to Setting Out the Working"

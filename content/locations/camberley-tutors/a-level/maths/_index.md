@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutoring for Camberley Year 12s and 13s"
-hero_lead: "Whether your child stayed on or moved at 16, chances are most of their new Maths class got a 7 or better, so the first test can land lower than any GCSE mock. Our Camberley A-Level Maths tutors start from that test."
+hero_lead: "Whether your child stayed on or moved at 16, chances are most of their new Maths class got a 7 or better, so the first test can land lower than any GCSE mock. Our A-Level Maths tutors for Camberley students start from that test."
 
 angle_eyebrow: "A CLASS FULL OF 7S"
 angle_heading: "Why the First Term of A-Level Maths Moves So Fast"

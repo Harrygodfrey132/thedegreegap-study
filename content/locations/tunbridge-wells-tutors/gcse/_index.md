@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Tunbridge Wells GCSE Tutors For the Gap a Fast Class Leaves Behind"
 hero_heading_line2: ""
-hero_lead: "When a GCSE grade starts to slip, it's usually one topic the class moved past before it clicked, and your child's worked round it since. Across Kent the pace rarely lets up after the Kent Test. Our Tunbridge Wells GCSE tutors find that topic and rebuild it, one-to-one."
+hero_lead: "When a GCSE grade starts to slip, it's usually one topic the class moved past before it clicked, and your child's worked round it since. Across Kent the pace rarely lets up after the Kent Test. Our GCSE tutors for Tunbridge Wells students find that topic and rebuild it, one-to-one."
 
 grade_from: "5"
 grade_to: "6/7"

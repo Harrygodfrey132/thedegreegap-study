@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online Chelmsford GCSE Maths Tutors for Hard Work That Isn't Showing Yet"
-hero_lead: "Not every child who's behind in Maths needs a tutor, and if yours doesn't, we'll say so. Our Chelmsford GCSE Maths tutors work online, and the first thing we'll do is look at a marked paper to see which kind of problem it is."
+hero_lead: "Not every child who's behind in Maths needs a tutor, and if yours doesn't, we'll say so. Our GCSE Maths tutors for Chelmsford students work online, and the first thing we'll do is look at a marked paper to see which kind of problem it is."
 
 angle_eyebrow: "TUTOR, OR JUST MORE PRACTICE"
 angle_heading: "Is It the Method, or Just Not Enough Practice?"

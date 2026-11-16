@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Newcastle upon Tyne, When the Maths Stops Working in Physics"
-hero_lead: "Your child's fine in Maths, then goes blank on the same sum in Physics, and nobody can quite say why. Our Newcastle upon Tyne GCSE Science tutors teach one way of doing the calculations for all three sciences, one-to-one online, until it sticks everywhere."
+hero_lead: "Your child's fine in Maths, then goes blank on the same sum in Physics, and nobody can quite say why. Our GCSE Science tutors for Newcastle upon Tyne students teach one way of doing the calculations for all three sciences, one-to-one online, until it sticks everywhere."
 
 angle_eyebrow: "ONE METHOD, THREE CLASSROOMS"
 angle_heading: "Why the Same Calculation Works in Maths and Fails in Physics"

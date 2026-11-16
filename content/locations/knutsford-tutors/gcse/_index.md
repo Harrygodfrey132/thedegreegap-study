@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Knutsford GCSE Tutors for When the Mocks Have Rattled the Sixth Form Plan"
 hero_heading_line2: ""
-hero_lead: "Mock grades that come home lower than all that effort deserved are hard to make sense of. Lots of families hit this point. Our Knutsford GCSE tutors track down the topic costing the most marks, then work through it with your child, one-to-one online."
+hero_lead: "Mock grades that come home lower than all that effort deserved are hard to make sense of. Lots of families hit this point. Our GCSE tutors for Knutsford students track down the topic costing the most marks, then work through it with your child, one-to-one online."
 
 grade_from: "5"
 grade_to: "6/7"

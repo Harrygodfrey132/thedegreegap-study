@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Stratford-upon-Avon A-Level Tutors, Because Knowing the Content Isn't Always Enough"
 hero_heading_line2: ""
-hero_lead: "Stalled marks at A-Level usually come from one of two gaps. Below an A, it's often content. The step to an A* almost never is: that one's judgement. Our Stratford-upon-Avon A-Level tutors find which gap your child has and work on it, one-to-one."
+hero_lead: "Stalled marks at A-Level usually come from one of two gaps. Below an A, it's often content. The step to an A* almost never is: that one's judgement. Our A-Level tutors for Stratford-upon-Avon students find which gap your child has and work on it, one-to-one."
 
 grade_from: "B"
 grade_to: "A*"

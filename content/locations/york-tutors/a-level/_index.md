@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online York A-Level Tutors Who Start Before the Predicted Grade Is Set"
 hero_heading_line2: ""
-hero_lead: "It catches a lot of parents out: the predicted grades on your child's UCAS form usually come from Year 12, long before the real exams. Our York A-Level tutors aim at those Year 12 papers, not just the final summer."
+hero_lead: "It catches a lot of parents out: the predicted grades on your child's UCAS form usually come from Year 12, long before the real exams. Our A-Level tutors for York students aim at those Year 12 papers, not just the final summer."
 
 grade_from: "C"
 grade_to: "A"

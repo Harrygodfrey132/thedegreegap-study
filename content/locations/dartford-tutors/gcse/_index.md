@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Dartford GCSE Tutors for Homework That Takes Up the Whole Evening"
 hero_heading_line2: ""
-hero_lead: "It's gone nine, the Maths homework that should have taken forty minutes is still open on the kitchen table, and you've stopped offering to help. Our Dartford GCSE tutors find what's making it slow, often one topic from Year 8 or 9, and fix that first."
+hero_lead: "It's gone nine, the Maths homework that should have taken forty minutes is still open on the kitchen table, and you've stopped offering to help. Our GCSE tutors for Dartford students find what's making it slow, often one topic from Year 8 or 9, and fix that first."
 
 grade_from: "4-5"
 grade_to: "8"

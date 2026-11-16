@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutoring for Exeter Families in Year 12 and Year 13"
-hero_lead: "If your child's Maths is sound but the marks come back lower than the work deserves, look at the short written answers. Our Exeter A-Level Maths tutors work on those, such as sampling: naming the method, saying why it suits, spotting the bias."
+hero_lead: "If your child's Maths is sound but the marks come back lower than the work deserves, look at the short written answers. Our A-Level Maths tutors for Exeter students work on those, such as sampling: naming the method, saying why it suits, spotting the bias."
 
 angle_eyebrow: "THE EASY MARKS NOBODY FINISHES"
 angle_heading: "Why Your Child's Sensible Answers Only Score Half Marks in Statistics"

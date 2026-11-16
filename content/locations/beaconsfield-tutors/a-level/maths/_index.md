@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Beaconsfield Sixth Formers Who Were Great at GCSE and Now Feel Lost"
-hero_lead: "A 7 or 8 at GCSE, then a D on the first Year 12 test: it's one of the calls we get most often. Our Beaconsfield A-Level Maths tutors work one-to-one with your child online on choosing the method, not just doing it."
+hero_lead: "A 7 or 8 at GCSE, then a D on the first Year 12 test: it's one of the calls we get most often. Our A-Level Maths tutors for Beaconsfield students work one-to-one with your child online on choosing the method, not just doing it."
 
 card_heading: "Tell us how Year 12 Maths is going for your child"
 card_points:

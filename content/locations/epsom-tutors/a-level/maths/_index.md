@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Epsom Families Aiming at the Top Grades"
-hero_lead: "A grade 8 at GCSE doesn't mean Year 12 Maths will feel easy, and lots of strong children are caught out by it. Our Epsom A-Level Maths tutors work on proof, on Mechanics questions that pull several topics together, and on the Statistics questions and the large data set."
+hero_lead: "A grade 8 at GCSE doesn't mean Year 12 Maths will feel easy, and lots of strong children are caught out by it. Our A-Level Maths tutors for Epsom students work on proof, on Mechanics questions that pull several topics together, and on the Statistics questions and the large data set."
 
 angle_eyebrow: "FROM A SOLID A TO AN A*"
 angle_heading: "What Usually Stands Between an A and an A*? Proof"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Potters Bar Teenagers"
-hero_lead: "English is the GCSE where a bright child can drop marks without anyone quite knowing why: an essay that retells the plot, or a story that never reaches its ending. Our Potters Bar GCSE English tutors read your child's own writing and fix the habit costing marks."
+hero_lead: "English is the GCSE where a bright child can drop marks without anyone quite knowing why: an essay that retells the plot, or a story that never reaches its ending. Our GCSE English tutors for Potters Bar students read your child's own writing and fix the habit costing marks."
 
 angle_eyebrow: "FOR THE CHILD WHO PREFERS RIGHT ANSWERS"
 angle_heading: "Helping a Maths-Minded Child Find a Way Into GCSE English"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutoring in Berkhamsted for When the Working Falls Apart Halfway Down the Page"
-hero_lead: "You've probably seen it on a mock. The first few lines are right, then the method drifts and the marks go with it. Our Berkhamsted GCSE Maths tutors work one-to-one online and go straight to the step where your child's working breaks, not the whole topic again."
+hero_lead: "You've probably seen it on a mock. The first few lines are right, then the method drifts and the marks go with it. Our GCSE Maths tutors for Berkhamsted students work one-to-one online and go straight to the step where your child's working breaks, not the whole topic again."
 
 angle_eyebrow: "ONE GRADE, SEVERAL A-LEVELS"
 angle_heading: "How One Maths Grade Follows Your Child Into Sixth Form"

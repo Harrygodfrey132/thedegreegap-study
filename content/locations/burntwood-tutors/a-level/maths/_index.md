@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Burntwood Students Who Got the 7 and Still Hit a Wall"
-hero_lead: "Your child needed at least a 7 in GCSE Maths to start the course, so the first low mark in Year 12 comes as a shock to everyone. Our Burntwood A-Level Maths tutors find what changed and rebuild the algebra the new topics depend on."
+hero_lead: "Your child needed at least a 7 in GCSE Maths to start the course, so the first low mark in Year 12 comes as a shock to everyone. Our A-Level Maths tutors for Burntwood students find what changed and rebuild the algebra the new topics depend on."
 
 angle_eyebrow: "AFTER THE GRADE 7"
 angle_heading: "Why A-Level Maths Catches Out Strong Burntwood Mathematicians"

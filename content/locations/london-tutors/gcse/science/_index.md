@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for London Families, Combined or Triple"
-hero_lead: "Two GCSEs, three sciences, and revision spread so thin that none of it feels solid. If that sounds like your child, it's very common. Our London GCSE Science tutors split the subject back into its three parts, then work on the practicals and six-mark answers where the marks are going."
+hero_lead: "Two GCSEs, three sciences, and revision spread so thin that none of it feels solid. If that sounds like your child, it's very common. Our GCSE Science tutors for London students split the subject back into its three parts, then work on the practicals and six-mark answers where the marks are going."
 
 angle_eyebrow: "WHERE LONDON SCIENCE MARKS SLIP AWAY"
 angle_heading: "Where a London GCSE Science tutor finds the marks your child is losing"

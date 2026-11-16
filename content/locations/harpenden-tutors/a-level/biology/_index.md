@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors Covering Harpenden"
-hero_lead: "When the course your child wants asks for the very top grade, the last few marks are the hardest to find and the least forgiving. Our Harpenden A-Level Biology tutors work on exactly that margin."
+hero_lead: "When the course your child wants asks for the very top grade, the last few marks are the hardest to find and the least forgiving. Our A-Level Biology tutors for Harpenden students work on exactly that margin."
 
 angle_eyebrow: "THE LAST GRADE IS THE HARD ONE"
 angle_heading: "What Moves a Strong Biology Grade Up to a Top One"

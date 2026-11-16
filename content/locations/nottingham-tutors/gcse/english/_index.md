@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors Covering Nottingham and West Bridgford"
-hero_lead: "Does your child run out of time on the English papers? Often the problem isn't the analysis. It's the reading: hours of dense text across Language and Literature, some of it written in the 19th century. Our Nottingham GCSE English tutors start there."
+hero_lead: "Does your child run out of time on the English papers? Often the problem isn't the analysis. It's the reading: hours of dense text across Language and Literature, some of it written in the 19th century. Our GCSE English tutors for Nottingham students start there."
 
 angle_eyebrow: "THE READING BEFORE THE WRITING"
 angle_heading: "The Reading Stamina a Nottingham GCSE English Tutor Builds First"

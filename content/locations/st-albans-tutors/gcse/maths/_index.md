@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for St Albans Families"
-hero_lead: "A 6 on the Maths mock, and a shrug: 'just silly mistakes'. Our St Albans GCSE Maths tutors work online with your child on the slips that keep coming back, and on the hardest higher-paper questions an 8 depends on."
+hero_lead: "A 6 on the Maths mock, and a shrug: 'just silly mistakes'. Our GCSE Maths tutors for St Albans students work online with your child on the slips that keep coming back, and on the hardest higher-paper questions an 8 depends on."
 
 angle_eyebrow: "THE SLIPS, THEN THE HARDEST QUESTIONS"
 angle_heading: "How a St Albans GCSE Maths Tutor Deals With 'Silly Mistakes'"

@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Bushey GCSE Tutors for the One Subject Pulling Your Child's Grades Down"
 hero_heading_line2: ""
-hero_lead: "Most of your child's GCSEs might be fine, and then there's the one that comes back a grade or two lower in every mock. Our Bushey GCSE tutors focus on that one subject with your child, online and one-to-one, beginning with the last mock."
+hero_lead: "Most of your child's GCSEs might be fine, and then there's the one that comes back a grade or two lower in every mock. Our GCSE tutors for Bushey students focus on that one subject with your child, online and one-to-one, beginning with the last mock."
 
 grade_from: "4-5"
 grade_to: "8"

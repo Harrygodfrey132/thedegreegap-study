@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Banbury and North Oxfordshire"
-hero_lead: "Put your child's last marked Biology paper on the table and look at where the lost marks sit: bunched together, or spread thin. Our Banbury A-Level Biology tutors start from that pattern, so nobody spends a term working on the wrong thing."
+hero_lead: "Put your child's last marked Biology paper on the table and look at where the lost marks sit: bunched together, or spread thin. Our A-Level Biology tutors for Banbury students start from that pattern, so nobody spends a term working on the wrong thing."
 
 angle_eyebrow: "BUNCHED MARKS OR SCATTERED ONES?"
 angle_heading: "What Your Child's Marked Biology Paper Is Already Telling You"

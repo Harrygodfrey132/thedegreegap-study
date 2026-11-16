@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutoring for Coventry Sixth Formers"
-hero_lead: "Lots of teenagers can label the heart perfectly and still leave the cardiac cycle graph half blank in a mock. Our Coventry A-Level Biology tutors help your child read that graph and explain what each valve is doing, and why."
+hero_lead: "Lots of teenagers can label the heart perfectly and still leave the cardiac cycle graph half blank in a mock. Our A-Level Biology tutors for Coventry students help your child read that graph and explain what each valve is doing, and why."
 
 angle_eyebrow: "WHEN THE HEART BECOMES A GRAPH"
 angle_heading: "Reading the Cardiac Cycle Graph, Not Just Labelling the Heart"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online Didsbury A-Level Maths Tutors for the Big Step Up From GCSE"
-hero_lead: "Half the marks on a Year 12 Maths test, from a child who got a 7 or 8 at GCSE. We hear that a lot each autumn. Our Didsbury A-Level Maths tutors work one-to-one online with your child on what's changed: deciding what to do, not doing it."
+hero_lead: "Half the marks on a Year 12 Maths test, from a child who got a 7 or 8 at GCSE. We hear that a lot each autumn. Our A-Level Maths tutors for Didsbury students work one-to-one online with your child on what's changed: deciding what to do, not doing it."
 
 card_eyebrow: "FREE CONSULTATION"
 card_heading: "Speak to Harry or Joe about your child's Maths"

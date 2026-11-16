@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online A-Level Tutors for Redhill Sixth Formers Whose Predictions Fall Short of the Offer"
 hero_heading_line2: ""
-hero_lead: "Universities see your child's predicted grades long before a real one exists, and those predictions are built on Year 12 work. Our Redhill A-Level tutors go after the subject holding the prediction down, while there's still time to move it."
+hero_lead: "Universities see your child's predicted grades long before a real one exists, and those predictions are built on Year 12 work. Our A-Level tutors for Redhill students go after the subject holding the prediction down, while there's still time to move it."
 
 grade_from: "C"
 grade_to: "A"

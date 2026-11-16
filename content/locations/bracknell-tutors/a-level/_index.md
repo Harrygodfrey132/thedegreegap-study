@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Bracknell A-Level Tutors for Year 12s Who Stayed On and Found It Harder"
 hero_heading_line2: ""
-hero_lead: "Same building, same friends, a very different workload. Year 12 can catch out a child who did well at GCSE, and our Bracknell A-Level tutors find which subject is slipping and why, then work on it a week at a time."
+hero_lead: "Same building, same friends, a very different workload. Year 12 can catch out a child who did well at GCSE, and our A-Level tutors for Bracknell students find which subject is slipping and why, then work on it a week at a time."
 
 grade_from: "C"
 grade_to: "A"

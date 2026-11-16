@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors in Epsom, When a Solid 6 Won't Budge"
-hero_lead: "Your child's English grade sits at a solid 6 term after term, and from the outside it's impossible to tell what's missing. Our Epsom GCSE English tutors work on the analysis and timing that take an essay from solid to the top band."
+hero_lead: "Your child's English grade sits at a solid 6 term after term, and from the outside it's impossible to tell what's missing. Our GCSE English tutors for Epsom students work on the analysis and timing that take an essay from solid to the top band."
 
 angle_eyebrow: "WHY EPSOM ENGLISH ESSAYS STOP SHORT"
 angle_heading: "Why Your Child's Solid English Essay Stops Short of the Top Band"

@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Knutsford A-Level Tutors Who Help Year 12s Find Their Feet Before Predictions"
 hero_heading_line2: ""
-hero_lead: "Good GCSEs in the summer, and now your child's first A-Level test has come back two grades lower. It happens to lots of families. Our Knutsford A-Level tutors work one-to-one online on that step up, before it can turn into a predicted grade."
+hero_lead: "Good GCSEs in the summer, and now your child's first A-Level test has come back two grades lower. It happens to lots of families. Our A-Level tutors for Knutsford students work one-to-one online on that step up, before it can turn into a predicted grade."
 
 grade_from: "C"
 grade_to: "A"

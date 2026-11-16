@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online Bromley GCSE Maths Tutors for Quick Thinkers Who Skip the Working"
-hero_lead: "If your child gets the right answer and still loses half the marks, there's usually a reason, and it often goes back to being drilled for speed at ten. Our Bromley GCSE Maths tutors work online on the setting-out the mark scheme actually pays for."
+hero_lead: "If your child gets the right answer and still loses half the marks, there's usually a reason, and it often goes back to being drilled for speed at ten. Our GCSE Maths tutors for Bromley students work online on the setting-out the mark scheme actually pays for."
 
 angle_eyebrow: "RIGHT ANSWER, HALF THE MARKS"
 angle_heading: "Why Quick Maths Stops Scoring Somewhere in Year 10"

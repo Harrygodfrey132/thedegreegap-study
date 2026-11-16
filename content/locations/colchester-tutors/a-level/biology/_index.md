@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Colchester and Wivenhoe"
-hero_lead: "When Year 12 ends, it's easy for your child to feel that half of Biology is done. It isn't. The Year 13 papers reach back into it, so our Colchester A-Level Biology tutors keep both years going at once."
+hero_lead: "When Year 12 ends, it's easy for your child to feel that half of Biology is done. It isn't. The Year 13 papers reach back into it, so our A-Level Biology tutors for Colchester students keep both years going at once."
 
 angle_eyebrow: "BOTH YEARS, ONE SET OF PAPERS"
 angle_heading: "Why Year 12 Biology Still Counts When Your Child Sits the Final Papers"

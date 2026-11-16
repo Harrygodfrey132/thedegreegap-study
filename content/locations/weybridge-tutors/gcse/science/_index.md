@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online Weybridge GCSE Science Tutors, for When Your Child Needs a 6-6, Not Just a Pass"
-hero_lead: "If your child's on combined Science, the grade comes as two numbers, like 5-5, and an A-Level in Biology, Chemistry or Physics usually needs both to be strong. Our Weybridge GCSE Science tutors look at each science separately, online and one-to-one, to find the one holding it down."
+hero_lead: "If your child's on combined Science, the grade comes as two numbers, like 5-5, and an A-Level in Biology, Chemistry or Physics usually needs both to be strong. Our GCSE Science tutors for Weybridge students look at each science separately, online and one-to-one, to find the one holding it down."
 
 angle_eyebrow: "BOTH HALVES OF THE DOUBLE GRADE"
 angle_heading: "What a 6-6 in Combined Science Actually Asks For"

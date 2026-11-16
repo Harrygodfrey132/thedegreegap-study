@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors Covering Brighton and Hove"
-hero_lead: "You'd think Year 11 would feel calmer in a city with no grammar schools, but the colleges publish their entry grades and your child gets one go at them. Our Brighton GCSE Maths tutors work online, weekly, on whichever questions are costing the most marks."
+hero_lead: "You'd think Year 11 would feel calmer in a city with no grammar schools, but the colleges publish their entry grades and your child gets one go at them. Our GCSE Maths tutors for Brighton students work online, weekly, on whichever questions are costing the most marks."
 
 angle_eyebrow: "WHEN THE YEAR 11 MOCK STARTS TO COUNT"
 angle_heading: "Where a Brighton GCSE Maths Tutor Looks for Your Child's Missing Marks"

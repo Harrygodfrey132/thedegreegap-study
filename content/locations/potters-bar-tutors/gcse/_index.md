@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Potters Bar GCSE Tutors for the Subject That Won't Budge"
 hero_heading_line2: ""
-hero_lead: "Your child's revising, the effort's real, and one subject still sits a grade below where it should. Our Potters Bar GCSE tutors work out why from a recent paper, then tackle it with your child a topic at a time, in one-to-one lessons online."
+hero_lead: "Your child's revising, the effort's real, and one subject still sits a grade below where it should. Our GCSE tutors for Potters Bar students work out why from a recent paper, then tackle it with your child a topic at a time, in one-to-one lessons online."
 
 grade_from: "5"
 grade_to: "6/7"

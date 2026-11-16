@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutoring for Bishop's Stortford, Where Sixth Forms Set Their Own Maths Minimum"
-hero_lead: "Whichever sixth form your child's aiming for, it'll look at the Maths grade on its own. Our Bishop's Stortford GCSE Maths tutors work one-to-one online. They fix the method behind the lost marks, rather than rushing on to new topics."
+hero_lead: "Whichever sixth form your child's aiming for, it'll look at the Maths grade on its own. Our GCSE Maths tutors for Bishop's Stortford students work one-to-one online. They fix the method behind the lost marks, rather than rushing on to new topics."
 
 angle_eyebrow: "THE GRADE EVERY COURSE CHECKS"
 angle_heading: "Why Maths Counts Twice When Your Child Applies for Sixth Form"

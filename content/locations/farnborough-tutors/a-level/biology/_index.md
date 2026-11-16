@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors Covering Farnborough and Cove"
-hero_lead: "Your child can probably recite the four main ways substances cross a cell membrane, but the exam asks which one is happening, and why. That choice, and the co-transport question that uses three at once, is where our Farnborough A-Level Biology tutors start."
+hero_lead: "Your child can probably recite the four main ways substances cross a cell membrane, but the exam asks which one is happening, and why. That choice, and the co-transport question that uses three at once, is where our A-Level Biology tutors for Farnborough students start."
 
 angle_eyebrow: "KNOWING THE LIST ISN'T THE SAME AS CHOOSING"
 angle_heading: "Why Knowing Four Definitions Isn't Enough for Membrane Transport"

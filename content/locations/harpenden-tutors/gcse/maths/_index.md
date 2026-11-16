@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors Working with Harpenden Families"
-hero_lead: "Your child follows every step when it's explained, then stares at the next question on their own. Our Harpenden GCSE Maths tutors work online on that second part, because it's the only one the exam tests."
+hero_lead: "Your child follows every step when it's explained, then stares at the next question on their own. Our GCSE Maths tutors for Harpenden students work online on that second part, because it's the only one the exam tests."
 
 angle_eyebrow: "I GET IT WHEN YOU EXPLAIN IT"
 angle_heading: "The Distance Between Following a Method and Doing It Alone"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for Burntwood Students Stuck on Organic Synthesis"
-hero_lead: "Your child learnt every reaction on the list, then the exam asks for a three-step route from one compound to another and nothing comes. Our Burntwood A-Level Chemistry tutors teach the patterns underneath, so routes and mechanisms can be worked out rather than recalled."
+hero_lead: "Your child learnt every reaction on the list, then the exam asks for a three-step route from one compound to another and nothing comes. Our A-Level Chemistry tutors for Burntwood students teach the patterns underneath, so routes and mechanisms can be worked out rather than recalled."
 
 angle_eyebrow: "ROUTES, NOT LISTS"
 angle_heading: "Where A-Level Chemistry Costs Burntwood Students the Most Marks"

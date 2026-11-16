@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Didcot A-Level Tutors for Sixth Formers With Ground to Make Up"
 hero_heading_line2: ""
-hero_lead: "Maybe Year 12's been a bigger step than your child expected, or Year 13's arrived with the revision barely started. Our Didcot A-Level tutors find where the marks are slipping now and start there, one-to-one and online."
+hero_lead: "Maybe Year 12's been a bigger step than your child expected, or Year 13's arrived with the revision barely started. Our A-Level tutors for Didcot students find where the marks are slipping now and start there, one-to-one and online."
 
 grade_from: "E"
 grade_to: "C"

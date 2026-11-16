@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Worcester, When the Revision Isn't Working"
-hero_lead: "Your child's been revising for weeks, and the Maths mock still came back with the same mark. When our Worcester GCSE Maths tutors look closely, those hours have usually gone on the questions your child could already do."
+hero_lead: "Your child's been revising for weeks, and the Maths mock still came back with the same mark. When our GCSE Maths tutors for Worcester students look closely, those hours have usually gone on the questions your child could already do."
 
 angle_eyebrow: "WHY ALL THAT REVISION ISN'T SHOWING UP"
 angle_heading: "Left to Choose, Children Revise the Maths They Already Know"

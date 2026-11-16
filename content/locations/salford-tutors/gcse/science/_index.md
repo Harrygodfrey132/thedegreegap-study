@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Salford Students Whose Marks Slip on the Calculations"
-hero_lead: "Your child understands the Physics, then loses the marks converting kilojoules or rearranging the equation. Our Salford GCSE Science tutors work on the maths hiding inside every Science paper, so what your child knows actually shows up in the mark."
+hero_lead: "Your child understands the Physics, then loses the marks converting kilojoules or rearranging the equation. Our GCSE Science tutors for Salford students work on the maths hiding inside every Science paper, so what your child knows actually shows up in the mark."
 
 angle_eyebrow: "WHERE SCIENCE MEETS MATHS"
 angle_heading: "Why the Calculations Decide So Many GCSE Science Grades in Salford"

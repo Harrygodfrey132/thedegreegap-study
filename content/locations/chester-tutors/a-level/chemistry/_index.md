@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors Supporting Chester Families"
-hero_lead: "Your child can pass the practical endorsement, the separate pass for lab work, and still lose marks on the exam questions about those same experiments. Our Chester A-Level Chemistry tutors work on the written side, because that's where the grade is decided."
+hero_lead: "Your child can pass the practical endorsement, the separate pass for lab work, and still lose marks on the exam questions about those same experiments. Our A-Level Chemistry tutors for Chester students work on the written side, because that's where the grade is decided."
 
 angle_eyebrow: "THE PASS ISN'T THE POINT"
 angle_heading: "Why the Lab Work Still Counts in the Written Papers"

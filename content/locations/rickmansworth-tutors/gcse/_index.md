@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Rickmansworth GCSE Tutors for the One Subject Holding the Rest Back"
 hero_heading_line2: ""
-hero_lead: "Often there's one line on the report that doesn't match the others, the subject where the grade keeps slipping however hard your child tries. Our Rickmansworth GCSE tutors go through that subject's papers mark by mark and work on whatever's costing the most."
+hero_lead: "Often there's one line on the report that doesn't match the others, the subject where the grade keeps slipping however hard your child tries. Our GCSE tutors for Rickmansworth students go through that subject's papers mark by mark and work on whatever's costing the most."
 
 grade_from: "4-5"
 grade_to: "8"

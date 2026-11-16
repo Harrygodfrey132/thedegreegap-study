@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Cobham GCSE Tutors for the One Subject Holding Your Child Back"
 hero_heading_line2: ""
-hero_lead: "Most of your child's grades are fine. One keeps coming back lower, and it's often the one their next step depends on. Our Cobham GCSE tutors work on that subject one-to-one and online, starting from a paper your child has already sat."
+hero_lead: "Most of your child's grades are fine. One keeps coming back lower, and it's often the one their next step depends on. Our GCSE tutors for Cobham students work on that subject one-to-one and online, starting from a paper your child has already sat."
 
 grade_from: "E"
 grade_to: "B"

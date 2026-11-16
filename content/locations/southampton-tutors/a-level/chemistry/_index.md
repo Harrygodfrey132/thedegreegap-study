@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for Families Across Southampton"
-hero_lead: "A titration is the practical your child has probably done most, which makes it a shock when the calculation afterwards loses half its marks. Our Southampton A-Level Chemistry tutors slow the working down, one written step at a time."
+hero_lead: "A titration is the practical your child has probably done most, which makes it a shock when the calculation afterwards loses half its marks. Our A-Level Chemistry tutors for Southampton students slow the working down, one written step at a time."
 
 angle_eyebrow: "FROM THE BURETTE TO THE ANSWER"
 angle_heading: "Where Titration Marks Go Once the Practical's Done"

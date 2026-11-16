@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Southampton A-Level Tutors For the Dip After Year 12 Mocks"
 hero_heading_line2: ""
-hero_lead: "The Year 12 mocks come back, and your child, who cruised through GCSE, suddenly isn't sure they belong on the course. That's when a lot of families call us. Our Southampton A-Level tutors start from where your child actually is, not where the syllabus says they should be."
+hero_lead: "The Year 12 mocks come back, and your child, who cruised through GCSE, suddenly isn't sure they belong on the course. That's when a lot of families call us. Our A-Level tutors for Southampton students start from where your child actually is, not where the syllabus says they should be."
 
 grade_from: "C"
 grade_to: "A"

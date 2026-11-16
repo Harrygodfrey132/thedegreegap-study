@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Rickmansworth, Croxley Green and Chorleywood"
-hero_lead: "If your child copes in Maths lessons and then drops marks on the non-calculator paper, the gap is usually older than this year's topics. Our Rickmansworth GCSE Maths tutors track down the earlier step that slipped and rebuild from there."
+hero_lead: "If your child copes in Maths lessons and then drops marks on the non-calculator paper, the gap is usually older than this year's topics. Our GCSE Maths tutors for Rickmansworth students track down the earlier step that slipped and rebuild from there."
 
 angle_eyebrow: "THREE PAPERS, ONE GRADE"
 angle_heading: "Why Rickmansworth Teenagers Lose Maths Marks in the Same Two Places"

@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online A-Level Tutors Who Give Luton Students Room to Be Wrong Out Loud"
 hero_heading_line2: ""
-hero_lead: "Nobody wants to be the student asking what the method actually means in front of a large sixth form group. Our Luton A-Level tutors give an hour a week where asking costs nothing, online and one-to-one over Lessonspace."
+hero_lead: "Nobody wants to be the student asking what the method actually means in front of a large sixth form group. Our A-Level tutors for Luton students give an hour a week where asking costs nothing, online and one-to-one over Lessonspace."
 
 grade_from: "C"
 grade_to: "A"

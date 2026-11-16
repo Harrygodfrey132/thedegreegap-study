@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors in Brighton and Hove"
-hero_lead: "If your child hasn't read a book for fun since primary school, a Shakespeare play and a nineteenth-century novel can look like a mountain. Our Brighton GCSE English tutors break the set texts into pieces your child can manage, then show them how to write about them."
+hero_lead: "If your child hasn't read a book for fun since primary school, a Shakespeare play and a nineteenth-century novel can look like a mountain. Our GCSE English tutors for Brighton students break the set texts into pieces your child can manage, then show them how to write about them."
 
 angle_eyebrow: "WHEN YOUR CHILD WOULD RATHER NOT READ"
 angle_heading: "Helping a Reluctant Reader Through the GCSE English Texts"

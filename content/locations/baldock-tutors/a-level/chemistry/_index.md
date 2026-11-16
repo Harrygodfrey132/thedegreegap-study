@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for Baldock, Hitchin and Letchworth Families"
-hero_lead: "In a Chemistry calculation, one early slip can spoil every line after it, and your child only keeps part marks if the working's on the page. Our Baldock A-Level Chemistry tutors work on both: fewer slips, and working an examiner can follow."
+hero_lead: "In a Chemistry calculation, one early slip can spoil every line after it, and your child only keeps part marks if the working's on the page. Our A-Level Chemistry tutors for Baldock students work on both: fewer slips, and working an examiner can follow."
 
 angle_eyebrow: "ONE SLIP, THE WHOLE QUESTION"
 angle_heading: "Why Calculation Marks Are Lost Before the Chemistry Is"

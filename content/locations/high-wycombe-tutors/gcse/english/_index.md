@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring for High Wycombe Families"
-hero_lead: "The grade on the front of your child's English paper doesn't tell you which skill is costing the marks. Every mark is tied to a numbered skill the exam board tests. Our High Wycombe GCSE English tutors find out which one first, then work on it online."
+hero_lead: "The grade on the front of your child's English paper doesn't tell you which skill is costing the marks. Every mark is tied to a numbered skill the exam board tests. Our GCSE English tutors for High Wycombe students find out which one first, then work on it online."
 
 angle_eyebrow: "THE NUMBERS BEHIND THE MARK"
 angle_heading: "Which Assessment Objective Is Costing Your Child the Marks"

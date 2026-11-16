@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Brighton and Hove Families"
-hero_lead: "Your child gets the right numbers on the statistics questions, then the paper comes back with the marks missing anyway. Our Brighton A-Level Maths tutors work on what comes after the calculator: explaining a result in context, and spotting when a prediction goes beyond the data."
+hero_lead: "Your child gets the right numbers on the statistics questions, then the paper comes back with the marks missing anyway. Our A-Level Maths tutors for Brighton students work on what comes after the calculator: explaining a result in context, and spotting when a prediction goes beyond the data."
 
 angle_eyebrow: "THE SENTENCE AFTER THE CALCULATOR"
 angle_heading: "Why Your Child's Statistics Marks Go Missing After the Calculator"

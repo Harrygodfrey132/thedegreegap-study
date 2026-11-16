@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors Covering Hatfield"
-hero_lead: "Plenty of children read the immunology notes, nod along, and still get half marks on the test. Our Hatfield A-Level Biology tutors work on getting the detail out of your child's head and onto paper, against the clock."
+hero_lead: "Plenty of children read the immunology notes, nod along, and still get half marks on the test. Our A-Level Biology tutors for Hatfield students work on getting the detail out of your child's head and onto paper, against the clock."
 
 angle_eyebrow: "FAMILIAR ISN'T THE SAME AS LEARNED"
 angle_heading: "Why Your Child Can Recognise Immunology but Can't Write It Out"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online Bradford GCSE English Tutors Who Turn Close Reading Into Marks on Paper 1"
-hero_lead: "Two subjects, one word on the timetable, and they go wrong for completely different reasons. Our Bradford GCSE English tutors take Language and Literature apart first, then work whichever one is costing the grade. Every session is one-to-one and online over Lessonspace."
+hero_lead: "Two subjects, one word on the timetable, and they go wrong for completely different reasons. Our GCSE English tutors for Bradford students take Language and Literature apart first, then work whichever one is costing the grade. Every session is one-to-one and online over Lessonspace."
 
 angle_eyebrow: "TWO SUBJECTS WEARING ONE NAME"
 angle_heading: "Language and Literature Fail in Different Places"

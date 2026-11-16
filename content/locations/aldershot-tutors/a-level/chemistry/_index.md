@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors Covering Aldershot"
-hero_lead: "Miss a fortnight of Chemistry in Year 12 and it can keep costing your child marks in Year 13. Our Aldershot A-Level Chemistry tutors check the whole course first, then rebuild the formula work everything else rests on."
+hero_lead: "Miss a fortnight of Chemistry in Year 12 and it can keep costing your child marks in Year 13. Our A-Level Chemistry tutors for Aldershot students check the whole course first, then rebuild the formula work everything else rests on."
 
 angle_eyebrow: "FINDING THE GAP BEFORE TEACHING ANYTHING"
 angle_heading: "Why a Missed Fortnight Keeps Costing Marks a Year Later"

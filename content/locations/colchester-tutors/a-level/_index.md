@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Colchester A-Level Tutors for the Year That Sets the Prediction"
 hero_heading_line2: ""
-hero_lead: "For a lot of Colchester families, Year 12 means a college of a few thousand. It's also the year the predicted grade quietly takes shape. Our Colchester A-Level tutors work one-to-one online with your child, going through the essays and answers they've actually written."
+hero_lead: "For a lot of Colchester families, Year 12 means a college of a few thousand. It's also the year the predicted grade quietly takes shape. Our A-Level tutors for Colchester students work one-to-one online with your child, going through the essays and answers they've actually written."
 
 grade_from: "C"
 grade_to: "A"

@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online St Neots GCSE Tutors Who Find Where the Mock Marks Went"
 hero_heading_line2: ""
-hero_lead: "Did the Year 11 mock come back lower than all that revision deserved? Our St Neots GCSE tutors go through that paper with your child to see which topics are costing marks, then start there, one-to-one and online."
+hero_lead: "Did the Year 11 mock come back lower than all that revision deserved? Our GCSE tutors for St Neots students go through that paper with your child to see which topics are costing marks, then start there, one-to-one and online."
 
 grade_from: "E"
 grade_to: "B"

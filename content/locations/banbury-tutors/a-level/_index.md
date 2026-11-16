@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Banbury A-Level Tutors for When GCSE Came Easily and Year 12 Doesn't"
 hero_heading_line2: ""
-hero_lead: "A-Level doesn't ask for more of what GCSE rewarded. It asks for something different. Our Banbury A-Level tutors work on the part school assumes your child can already do, like knowing how to study on their own."
+hero_lead: "A-Level doesn't ask for more of what GCSE rewarded. It asks for something different. Our A-Level tutors for Banbury students work on the part school assumes your child can already do, like knowing how to study on their own."
 
 grade_from: "E"
 grade_to: "C"

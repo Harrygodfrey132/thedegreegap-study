@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Physics"
 
 hero_h1: "Online A-Level Physics Tutors for Redhill Students Tangled Up in Circuits and Fields"
-hero_lead: "Your child can recite Ohm's law, then a potential divider with a thermistor in it stops them cold. Our Redhill A-Level Physics tutors work through electricity and fields until your child can explain what's happening, not just put numbers into a formula."
+hero_lead: "Your child can recite Ohm's law, then a potential divider with a thermistor in it stops them cold. Our A-Level Physics tutors for Redhill students work through electricity and fields until your child can explain what's happening, not just put numbers into a formula."
 
 angle_eyebrow: "WHERE PHYSICS STOPS BEING VISIBLE"
 angle_heading: "Why Electricity and Fields Trip Up So Many Redhill A-Level Physics Students"

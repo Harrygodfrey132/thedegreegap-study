@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for Cambridge, Matched to Your Child's Exam Board"
-hero_lead: "Your child got through Year 12 Chemistry fine, and now Year 13 just isn't making sense. It happens a lot. Our Cambridge A-Level Chemistry tutors go back to the Year 12 idea that never quite set, then build up from there."
+hero_lead: "Your child got through Year 12 Chemistry fine, and now Year 13 just isn't making sense. It happens a lot. Our A-Level Chemistry tutors for Cambridge students go back to the Year 12 idea that never quite set, then build up from there."
 
 angle_eyebrow: "THE YEAR 12 WORK THAT YEAR 13 TAKES FOR GRANTED"
 angle_heading: "Why Your Child's Year 13 Chemistry Might Really Be a Year 12 Problem"

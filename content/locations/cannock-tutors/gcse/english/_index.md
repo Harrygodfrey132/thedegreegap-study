@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Cannock Students Stuck on the Poetry Questions"
-hero_lead: "Your child enjoyed Blood Brothers in class, then the mock asked them to compare two poems from memory and the answer ran to half a page. Our Cannock GCSE English tutors teach a clear way into the poetry questions, the anthology and the unseen ones."
+hero_lead: "Your child enjoyed Blood Brothers in class, then the mock asked them to compare two poems from memory and the answer ran to half a page. Our GCSE English tutors for Cannock students teach a clear way into the poetry questions, the anthology and the unseen ones."
 
 angle_eyebrow: "FIFTEEN POEMS, NO BOOK IN THE EXAM"
 angle_heading: "Why Poetry Is Where Cannock Students Lose Marks in GCSE English"

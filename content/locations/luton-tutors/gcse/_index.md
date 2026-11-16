@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Luton GCSE Tutors Who Close the Foundation Gap Before the Tier Is Decided"
 hero_heading_line2: ""
-hero_lead: "Parents' evening says the same two things every year: capable, needs to push. Our Luton GCSE tutors turn that into something you can act on, by finding the topic underneath it. Sessions are online and one-to-one, over Lessonspace."
+hero_lead: "Parents' evening says the same two things every year: capable, needs to push. Our GCSE tutors for Luton students turn that into something you can act on, by finding the topic underneath it. Sessions are online and one-to-one, over Lessonspace."
 
 grade_from: "5"
 grade_to: "6/7"

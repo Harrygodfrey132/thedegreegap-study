@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Woking GCSE Tutors Working on the Grade Your Child's Offer Needs"
 hero_heading_line2: ""
-hero_lead: "If your child's school stops at sixteen, as three of Woking's biggest do, Year 11 decides where they go next as well as how they finish. Our Woking GCSE tutors put each weekly lesson into the subjects that next course will look at, one-to-one and online."
+hero_lead: "If your child's school stops at sixteen, as three of Woking's biggest do, Year 11 decides where they go next as well as how they finish. Our GCSE tutors for Woking students put each weekly lesson into the subjects that next course will look at, one-to-one and online."
 
 grade_from: "5"
 grade_to: "6/7"

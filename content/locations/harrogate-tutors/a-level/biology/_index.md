@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Harrogate and Knaresborough"
-hero_lead: "If your child flew through GCSE Biology and their first Year 12 test came back a C, it's a very common story. Our Harrogate A-Level Biology tutors show your child what A-Level answers need that GCSE ones didn't: the reason behind each step."
+hero_lead: "If your child flew through GCSE Biology and their first Year 12 test came back a C, it's a very common story. Our A-Level Biology tutors for Harrogate students show your child what A-Level answers need that GCSE ones didn't: the reason behind each step."
 
 angle_eyebrow: "WHY 'IT DENATURES' ISN'T ENOUGH"
 angle_heading: "The GCSE Answer That Stops Scoring in Year 12"

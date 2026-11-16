@@ -7,7 +7,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Wolverhampton Families"
-hero_lead: "You've read your child's English essay, and honestly, it reads well to you. Then it comes back a 4. Our Wolverhampton GCSE English tutors show your child what each question is really asking, and how to answer exactly that, in the time."
+hero_lead: "You've read your child's English essay, and honestly, it reads well to you. Then it comes back a 4. Our GCSE English tutors for Wolverhampton students show your child what each question is really asking, and how to answer exactly that, in the time."
 
 angle_eyebrow: "WHEN A GOOD READ SCORES A 4"
 angle_heading: "What a Well-Written English Essay Can Still Miss"

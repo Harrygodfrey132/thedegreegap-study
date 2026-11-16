@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Nuneaton Students With the Notes but Not the Marks"
-hero_lead: "Your child has pages of Biology notes, and the long questions still seem to want something the notes don't quite say. Our Nuneaton A-Level Biology tutors show them how to link topics together and write answers in the terms the mark scheme rewards."
+hero_lead: "Your child has pages of Biology notes, and the long questions still seem to want something the notes don't quite say. Our A-Level Biology tutors for Nuneaton students show them how to link topics together and write answers in the terms the mark scheme rewards."
 
 angle_eyebrow: "THE PAPER THAT LINKS IT ALL"
 angle_heading: "What A-Level Biology Asks of Nuneaton Students Beyond Learning the Facts"

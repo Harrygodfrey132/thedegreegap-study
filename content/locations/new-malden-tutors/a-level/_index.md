@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online New Malden A-Level Tutors for University Offers Made Before the Exams"
 hero_heading_line2: ""
-hero_lead: "In England, universities make offers on the grades teachers predict, months before your child sits a single A-Level paper. Our New Malden A-Level tutors work on the marked assessments those predictions lean on, from the first term of Year 12."
+hero_lead: "In England, universities make offers on the grades teachers predict, months before your child sits a single A-Level paper. Our A-Level tutors for New Malden students work on the marked assessments those predictions lean on, from the first term of Year 12."
 
 grade_from: "E/U"
 grade_to: "C"

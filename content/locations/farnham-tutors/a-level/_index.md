@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Farnham A-Level Tutors for Your Child's First Year at College"
 hero_heading_line2: ""
-hero_lead: "Plenty of Farnham teenagers get good GCSEs and then a nasty surprise from their first test at college. Our Farnham A-Level tutors go through that test with your child, one-to-one and online, and start where the marks went."
+hero_lead: "Plenty of Farnham teenagers get good GCSEs and then a nasty surprise from their first test at college. Our A-Level tutors for Farnham students go through that test with your child, one-to-one and online, and start where the marks went."
 
 grade_from: "C"
 grade_to: "A"

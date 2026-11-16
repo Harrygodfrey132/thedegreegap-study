@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors Covering Letchworth"
-hero_lead: "For some teenagers the Maths grade just needs to be safe. Others need it high enough for A-Level Maths. Our Letchworth GCSE Maths tutors find out which matters for your child, then spend each one-to-one online lesson on the questions costing them marks."
+hero_lead: "For some teenagers the Maths grade just needs to be safe. Others need it high enough for A-Level Maths. Our GCSE Maths tutors for Letchworth students find out which matters for your child, then spend each one-to-one online lesson on the questions costing them marks."
 
 card_eyebrow: "FREE CONSULTATION"
 card_heading: "Tell us what the Maths grade is for"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutoring for Oxford Families, Built on the Basics"
-hero_lead: "You'd think the factor theorem, the Year 12 method for breaking a cubic into brackets, would be finished by Year 13. It keeps coming back to take marks. Our Oxford A-Level Maths tutors focus on the three places it slips: the first root, the division and the sketch."
+hero_lead: "You'd think the factor theorem, the Year 12 method for breaking a cubic into brackets, would be finished by Year 13. It keeps coming back to take marks. Our A-Level Maths tutors for Oxford students focus on the three places it slips: the first root, the division and the sketch."
 
 angle_eyebrow: "A YEAR 12 TOPIC THAT NEVER LEAVES"
 angle_heading: "Why One Early Topic Keeps Costing Your Child Marks in Year 13"

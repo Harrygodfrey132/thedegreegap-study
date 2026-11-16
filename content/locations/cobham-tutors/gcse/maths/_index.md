@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutoring, One-to-One, for Cobham Families"
-hero_lead: "Your child can follow every example in class, then freeze on the first question that doesn't look like the textbook. Our Cobham GCSE Maths tutors look through a recent paper to find which older skill keeps letting your child down, and put it right one-to-one online."
+hero_lead: "Your child can follow every example in class, then freeze on the first question that doesn't look like the textbook. Our GCSE Maths tutors for Cobham students look through a recent paper to find which older skill keeps letting your child down, and put it right one-to-one online."
 
 card_eyebrow: "FREE CALL ABOUT MATHS"
 card_heading: "Tell us where the Maths marks are going"

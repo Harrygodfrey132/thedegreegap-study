@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Physics"
 
 hero_h1: "Online A-Level Physics Tutors for Bracknell Students Whose Maths Is Holding the Physics Back"
-hero_lead: "Your child understands the idea, but the question wants a rearranged equation, a log graph and an answer to three significant figures. Our Bracknell A-Level Physics tutors work on the maths and the physics together, one step at a time."
+hero_lead: "Your child understands the idea, but the question wants a rearranged equation, a log graph and an answer to three significant figures. Our A-Level Physics tutors for Bracknell students work on the maths and the physics together, one step at a time."
 
 angle_eyebrow: "WHERE THE MATHS MEETS THE PHYSICS"
 angle_heading: "How an A-Level Physics Tutor Untangles the Maths for Bracknell Sixth Formers"

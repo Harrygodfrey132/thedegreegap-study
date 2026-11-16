@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors Luton Parents Call When Language Marks Sit Below Literature"
-hero_lead: "Literature comes back fine, Language does not, and nobody at home can see why. Our Luton GCSE English tutors pull the two papers apart, because they reward different things. Online, one-to-one, an hour a week."
+hero_lead: "Literature comes back fine, Language does not, and nobody at home can see why. Our GCSE English tutors for Luton students pull the two papers apart, because they reward different things. Online, one-to-one, an hour a week."
 
 angle_eyebrow: "AN EXTRACT NOBODY HAS SEEN"
 angle_heading: "Why the Language Paper Catches Students the Literature One Does Not"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Letchworth Teenagers"
-hero_lead: "Your child can explain photosynthesis at the tea table and still lose marks on the practical questions and the calculations. Our Letchworth GCSE Science tutors work on exactly those, one-to-one online, from planning an experiment to rearranging an equation."
+hero_lead: "Your child can explain photosynthesis at the tea table and still lose marks on the practical questions and the calculations. Our GCSE Science tutors for Letchworth students work on exactly those, one-to-one online, from planning an experiment to rearranging an equation."
 
 card_eyebrow: "FREE CONSULTATION"
 card_heading: "Where are the Science marks going?"

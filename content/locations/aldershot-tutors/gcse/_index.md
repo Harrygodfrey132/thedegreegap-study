@@ -6,7 +6,7 @@ location: "Aldershot"
 level: "GCSE"
 
 hero_heading_line1: "Online Aldershot GCSE Tutors Who Find the Topic Your Child Missed"
-hero_lead: "Is Maths homework taking all evening and still coming back wrong? If your child has changed schools along the way, there's often one topic they simply never met. Our Aldershot GCSE tutors find it first, then build up from there."
+hero_lead: "Is Maths homework taking all evening and still coming back wrong? If your child has changed schools along the way, there's often one topic they simply never met. Our GCSE tutors for Aldershot students find it first, then build up from there."
 
 grade_from: "4"
 grade_to: "6"

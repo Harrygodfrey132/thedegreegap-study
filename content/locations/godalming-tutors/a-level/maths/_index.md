@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Year 12s and 13s in Godalming"
-hero_lead: "Your child used to finish Maths homework in twenty minutes, and now it takes all evening, with half the page crossed out. Our Godalming A-Level Maths tutors find the point in each question where your child stops being sure, and work on it one-to-one, online."
+hero_lead: "Your child used to finish Maths homework in twenty minutes, and now it takes all evening, with half the page crossed out. Our A-Level Maths tutors for Godalming students find the point in each question where your child stops being sure, and work on it one-to-one, online."
 
 card_eyebrow: "FREE A-LEVEL CONSULTATION"
 card_heading: "Talk to us about your child's sixth form Maths"

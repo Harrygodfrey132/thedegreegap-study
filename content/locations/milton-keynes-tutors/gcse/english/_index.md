@@ -7,7 +7,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors Across Milton Keynes"
-hero_lead: "Ask your child what their last English essay was arguing. If you get a list of quotations back, that's often why the grade's stuck at a 5. Our Milton Keynes GCSE English tutors help them find a point and carry it through."
+hero_lead: "Ask your child what their last English essay was arguing. If you get a list of quotations back, that's often why the grade's stuck at a 5. Our GCSE English tutors for Milton Keynes students help them find a point and carry it through."
 
 angle_eyebrow: "WHAT IS THE ESSAY ACTUALLY ARGUING?"
 angle_heading: "From a List of Quotations to a Real Argument"

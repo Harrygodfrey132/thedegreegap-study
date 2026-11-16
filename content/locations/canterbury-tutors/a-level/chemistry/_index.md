@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors Serving Canterbury Families"
-hero_lead: "When your child's working hard at A-Level Chemistry and still sitting a grade below where you'd expect, it's usually accuracy, not effort. Our Canterbury A-Level Chemistry tutors work on buffer calculations, entropy and the aromatic mechanisms where even careful students drop marks."
+hero_lead: "When your child's working hard at A-Level Chemistry and still sitting a grade below where you'd expect, it's usually accuracy, not effort. Our A-Level Chemistry tutors for Canterbury students work on buffer calculations, entropy and the aromatic mechanisms where even careful students drop marks."
 
 angle_eyebrow: "ONE MARK HERE, ONE MARK THERE"
 angle_heading: "Why Your Child's A-Level Chemistry Marks Slip Away One at a Time"

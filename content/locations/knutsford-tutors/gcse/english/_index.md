@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors in Knutsford for the Essay That Keeps Coming Back a Grade Low"
-hero_lead: "Your child reads, they understand the books, and the essay still comes back a grade lower than you expected. Our Knutsford GCSE English tutors work one-to-one online on planning and timing, the part of the exam that reading alone doesn't fix."
+hero_lead: "Your child reads, they understand the books, and the essay still comes back a grade lower than you expected. Our GCSE English tutors for Knutsford students work one-to-one online on planning and timing, the part of the exam that reading alone doesn't fix."
 
 card_heading: "Have a chat with us about your child's English"
 card_points:

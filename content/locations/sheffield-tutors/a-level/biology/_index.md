@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutoring for Sheffield Families"
-hero_lead: "Biology often gets picked as the science without much maths, so the statistics questions in a Year 12 mock can really knock your child's confidence. Our Sheffield A-Level Biology tutors give the statistics as much time as the content, online and one-to-one."
+hero_lead: "Biology often gets picked as the science without much maths, so the statistics questions in a Year 12 mock can really knock your child's confidence. Our A-Level Biology tutors for Sheffield students give the statistics as much time as the content, online and one-to-one."
 
 angle_eyebrow: "WHEN BIOLOGY ASKS FOR A CALCULATOR"
 angle_heading: "Why Your Child's Biology Grade Can Hinge on the Statistics"

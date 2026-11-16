@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online York GCSE Maths Tutors, for the Grade Everyone Asks to See"
-hero_lead: "GCSE Maths is the grade that quietly closes doors years later, which is why York parents often ask about it first. Our York GCSE Maths tutors teach online, week by week, on the questions that decide where your child's grade lands."
+hero_lead: "GCSE Maths is the grade that quietly closes doors years later, which is why York parents often ask about it first. Our GCSE Maths tutors for York students teach online, week by week, on the questions that decide where your child's grade lands."
 
 angle_eyebrow: "THE GRADE THAT KEEPS BEING ASKED FOR"
 angle_heading: "Why York Parents Tend to Start Maths Tutoring Earlier"

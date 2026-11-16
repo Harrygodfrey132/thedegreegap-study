@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Baldock, Hitchin and Letchworth"
-hero_lead: "Ask your child about one of their Biology practicals and you might hear 'we did that one in a group'. Our Baldock A-Level Biology tutors go back through each one with your child, because the written papers ask about them in more detail than most teenagers expect."
+hero_lead: "Ask your child about one of their Biology practicals and you might hear 'we did that one in a group'. Our A-Level Biology tutors for Baldock students go back through each one with your child, because the written papers ask about them in more detail than most teenagers expect."
 
 angle_eyebrow: "SOMEONE ELSE HELD THE PIPETTE"
 angle_heading: "The Practical Your Child Watched Is Still on the Written Paper"

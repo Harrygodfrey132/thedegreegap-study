@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Colchester GCSE Science Tutors Online, Matched to Your Child's Exam Board"
-hero_lead: "Hours of flashcards, a revision guide full of highlighter, and the Science mock still comes back lower than you'd hoped. Often it's one of the three sciences quietly dragging the rest down. Our Colchester GCSE Science tutors find which one, and start there."
+hero_lead: "Hours of flashcards, a revision guide full of highlighter, and the Science mock still comes back lower than you'd hoped. Often it's one of the three sciences quietly dragging the rest down. Our GCSE Science tutors for Colchester students find which one, and start there."
 
 angle_eyebrow: "WHAT THE SCIENCE PAPER IS REALLY ASKING"
 angle_heading: "Why more Science revision doesn't always mean a better Science grade"

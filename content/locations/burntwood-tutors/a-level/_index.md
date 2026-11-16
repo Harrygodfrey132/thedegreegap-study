@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Burntwood A-Level Tutors for Teenagers Who Stayed Put and Still Felt the Jump"
 hero_heading_line2: ""
-hero_lead: "Your child knows the corridors, the teachers and half the year group, and A-Level still feels like starting again. Our Burntwood A-Level tutors work out what's carried over from GCSE and what's new, then build the study habits Year 12 quietly expects."
+hero_lead: "Your child knows the corridors, the teachers and half the year group, and A-Level still feels like starting again. Our A-Level tutors for Burntwood students work out what's carried over from GCSE and what's new, then build the study habits Year 12 quietly expects."
 
 grade_from: "E/U"
 grade_to: "C"

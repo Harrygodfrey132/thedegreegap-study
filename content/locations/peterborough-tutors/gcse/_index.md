@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Peterborough GCSE Tutors Who Help Your Child Before the Mocks, Not After"
 hero_heading_line2: ""
-hero_lead: "A mock doesn't create the gap. It just shows it up, and by March that can mean a lower predicted grade. Our Peterborough GCSE tutors would much rather spot your child's gap in October. So the first lesson goes looking for it, and the plan follows."
+hero_lead: "A mock doesn't create the gap. It just shows it up, and by March that can mean a lower predicted grade. Our GCSE tutors for Peterborough students would much rather spot your child's gap in October. So the first lesson goes looking for it, and the plan follows."
 
 grade_from: "E"
 grade_to: "B"

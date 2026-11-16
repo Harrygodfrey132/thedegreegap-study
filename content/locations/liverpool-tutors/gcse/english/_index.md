@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors Covering Liverpool"
-hero_lead: "All year you're told your child's doing fine in English. Then the mock comes back lower than anyone expected. Our Liverpool GCSE English tutors read what your child actually wrote and find the point where the marks stopped coming."
+hero_lead: "All year you're told your child's doing fine in English. Then the mock comes back lower than anyone expected. Our GCSE English tutors for Liverpool students read what your child actually wrote and find the point where the marks stopped coming."
 
 angle_eyebrow: "FINE IN CLASS, LOWER IN THE MOCK"
 angle_heading: "What a GCSE English Tutor Looks for When a Liverpool Mock Comes Back Low"

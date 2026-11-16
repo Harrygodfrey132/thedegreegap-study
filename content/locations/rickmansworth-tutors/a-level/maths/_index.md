@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Rickmansworth's Year 12s and 13s"
-hero_lead: "There are three strands to A-Level Maths, and your child can be fine in pure but still drop a lot of marks in mechanics or statistics. Our Rickmansworth A-Level Maths tutors work out which strand it is and start there."
+hero_lead: "There are three strands to A-Level Maths, and your child can be fine in pure but still drop a lot of marks in mechanics or statistics. Our A-Level Maths tutors for Rickmansworth students work out which strand it is and start there."
 
 angle_eyebrow: "PURE, MECHANICS, STATISTICS"
 angle_heading: "Finding the Part of A-Level Maths That's Costing Your Child Marks"

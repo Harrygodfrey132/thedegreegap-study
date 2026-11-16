@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring in Royal Leamington Spa"
-hero_lead: "With your child in Year 9 or 10 and English going fine, you might wonder what a tutor would even work on. Often it's the creative writing, which grows slowly, and our Royal Leamington Spa GCSE English tutors build it one short piece at a time."
+hero_lead: "With your child in Year 9 or 10 and English going fine, you might wonder what a tutor would even work on. Often it's the creative writing, which grows slowly, and our GCSE English tutors for Royal Leamington Spa students build it one short piece at a time."
 
 angle_eyebrow: "WHY CREATIVE WRITING NEEDS A HEAD START"
 angle_heading: "Giving Your Child's Creative Writing Time to Grow Before Year 11"

@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online GCSE Tutors in Aylesbury Who Rebuild the Method That Never Quite Clicked"
 hero_heading_line2: ""
-hero_lead: "When a mock paper comes home, the marks your child lost usually cluster in a few places. Our Aylesbury GCSE tutors go through that paper with them, find the topics costing the most and start there."
+hero_lead: "When a mock paper comes home, the marks your child lost usually cluster in a few places. Our GCSE tutors for Aylesbury students go through that paper with them, find the topics costing the most and start there."
 
 grade_from: "5"
 grade_to: "6/7"

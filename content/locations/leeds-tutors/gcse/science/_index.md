@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors in Leeds"
-hero_lead: "If your child has started talking about A-Level Chemistry or Biology, you'll know there's a grade to hit. What's easier to miss is which GCSE topics Year 12 will lean on. Our Leeds GCSE Science tutors work on both, so the grade arrives with the foundations behind it."
+hero_lead: "If your child has started talking about A-Level Chemistry or Biology, you'll know there's a grade to hit. What's easier to miss is which GCSE topics Year 12 will lean on. Our GCSE Science tutors for Leeds students work on both, so the grade arrives with the foundations behind it."
 
 angle_eyebrow: "READY FOR A-LEVEL, NOT JUST THROUGH GCSE"
 angle_heading: "The GCSE Science Your Child Will Need for A-Level in Leeds"

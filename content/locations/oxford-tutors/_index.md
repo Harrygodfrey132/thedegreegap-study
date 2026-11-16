@@ -4,7 +4,7 @@ description: "Oxford has no grammar schools, so GCSE results decide the sixth fo
 layout: single
 location: Oxford
 banner_heading: "Want an online Oxford tutor who knows what the city's sixth forms ask for?"
-banner_description: "Our Oxford tutors find the questions where your child's marks are slipping away, and work on those with them before the next mock."
+banner_description: "Our tutors for Oxford families find the questions where your child's marks are slipping away, and work on those with them before the next mock."
 content_angle: ambition / competitive sixth form entry / university shadow pressure
 intro_1: "Maybe it's the talk over dinner about which sixth form, or a mock that came back a grade lower than your child hoped. In Oxford, that grade carries more weight than you'd think. There are no grammar schools here, and every state secondary is a comprehensive. So the sorting other counties do at 11 happens at 16, through GCSE results alone. And with the university sitting in the middle of the city, it's easy for \"good\" to feel like a moving target."
 intro_2: "This is what we help Oxford families with. Our tutors don't reteach the whole course. They sit down with your child and a past paper, and find the places where the understanding is there but the exam answer isn't. For some families that means a GCSE tutor ahead of a sixth form application. For others it's A-Level tuition to steady a shaky prediction or lift a B towards an A. Either way, what you'll usually notice first is a change in how your child goes about the work."
@@ -62,7 +62,7 @@ faq_3_q: "What actually happens in a lesson?"
 faq_3_a: "It depends on your child, because there's no set format. Most tutors start by looking at some recent school work, then move on to whatever's causing the most trouble. Past paper questions come in once your child's ready for them. The lesson goes wherever it's needed."
 faq_4_q: "Can we talk to someone before we commit?"
 faq_4_a: "Yes. First there's a free call with Harry or Joe, our founders, to hear about your child. No pressure and no obligation. We'd rather get the match right than rush it."
-why_heading: "What our Oxford tutors spot in the first lesson"
+why_heading: "What our tutors spot in an Oxford student's first lesson"
 why_para_1: "Most of the time, the tutor finds your child knows more than their marks suggest. They can explain a topic out loud, then drop marks on a question they should have got. In Biology, it's usually that the answer isn't written the way an examiner reads it. In Maths, it's steps skipped right where the method marks were. A class of thirty makes that hard for any teacher to spot, let alone fix. One-to-one, it's where the tutor starts."
 why_para_2: "So past papers come out from the very first session, and the tutor goes through them mark by mark with your child. The first change is usually in the working. Tighter answers. Steps shown. You'll probably hear it before you see it, in how your child talks about the next mock. A whole grade usually takes longer, often eight to twelve weekly lessons, and nobody can promise one."
 accordion_quality: "The tutors on our platform are a mix of graduates and undergraduates, many from top UK universities, and some studied at Oxford itself. They know what the city's sixth forms look for, and how the exam boards mark the answers that decide a grade."

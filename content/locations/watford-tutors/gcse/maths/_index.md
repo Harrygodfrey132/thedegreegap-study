@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Watford Families"
-hero_lead: "Some Watford parents want their child stretched towards a 9, and others just want fractions to stop being a nightly fight. Our Watford GCSE Maths tutors work out which your child needs, then spend the lessons on the questions that are losing marks."
+hero_lead: "Some Watford parents want their child stretched towards a 9, and others just want fractions to stop being a nightly fight. Our GCSE Maths tutors for Watford students work out which your child needs, then spend the lessons on the questions that are losing marks."
 
 angle_eyebrow: "TWO KINDS OF MATHS WORRY IN ONE TOWN"
 angle_heading: "Stretch or Rebuild? Working Out What Your Child Needs in GCSE Maths"

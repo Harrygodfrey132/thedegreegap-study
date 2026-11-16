@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Newcastle upon Tyne A-Level Tutors for the Dip After Good GCSEs"
 hero_heading_line2: ""
-hero_lead: "It's November, the first Year 12 report is in, and the grade looks nothing like the GCSEs your child got in August. Should you worry? Our Newcastle upon Tyne A-Level tutors can usually tell you, then work one-to-one online from the first topic that didn't land."
+hero_lead: "It's November, the first Year 12 report is in, and the grade looks nothing like the GCSEs your child got in August. Should you worry? Our A-Level tutors for Newcastle upon Tyne students can usually tell you, then work one-to-one online from the first topic that didn't land."
 
 grade_from: "C"
 grade_to: "A"

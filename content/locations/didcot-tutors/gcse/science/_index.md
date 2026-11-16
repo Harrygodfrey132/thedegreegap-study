@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Didcot Children"
-hero_lead: "Your child might be fascinated by what goes on at Harwell and still come unstuck on a six-mark answer. Our Didcot GCSE Science tutors find which science is costing your child marks, then work on its long answers and practicals, one-to-one and online."
+hero_lead: "Your child might be fascinated by what goes on at Harwell and still come unstuck on a six-mark answer. Our GCSE Science tutors for Didcot students find which science is costing your child marks, then work on its long answers and practicals, one-to-one and online."
 
 angle_eyebrow: "SCIENCE ON THE DOORSTEP"
 angle_heading: "Why GCSE Science Grades Count for So Much Around Didcot"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Southampton Families Chasing a Sixth Form Grade"
-hero_lead: "A 4 on the Year 10 Maths mock, and the grade Richard Taunton wants suddenly feels a long way off. Our Southampton GCSE Maths tutors usually find a Year 8 gap in fractions or algebra underneath it, and rebuild from there."
+hero_lead: "A 4 on the Year 10 Maths mock, and the grade Richard Taunton wants suddenly feels a long way off. Our GCSE Maths tutors for Southampton students usually find a Year 8 gap in fractions or algebra underneath it, and rebuild from there."
 
 angle_eyebrow: "WHAT'S UNDER A GRADE 4 IN MATHS"
 angle_heading: "The Gap Usually Starts in Year 8, Long Before the Mock Shows It"

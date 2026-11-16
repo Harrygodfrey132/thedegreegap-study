@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Chesham GCSE Tutors for When the Class Pace Doesn't Suit Your Child"
 hero_heading_line2: ""
-hero_lead: "One week your child flies through the homework and wants more. The next, a topic's gone over their head, and you can't quite work out how to help. Our Chesham GCSE tutors work at your child's pace, one-to-one and online."
+hero_lead: "One week your child flies through the homework and wants more. The next, a topic's gone over their head, and you can't quite work out how to help. Our GCSE tutors for Chesham students work at your child's pace, one-to-one and online."
 
 grade_from: "6"
 grade_to: "8"

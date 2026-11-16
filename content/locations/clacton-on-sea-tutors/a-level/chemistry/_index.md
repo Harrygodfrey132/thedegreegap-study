@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for Clacton-on-Sea Sixth Formers Lost in the Organic Routes"
-hero_lead: "Your child can learn each reaction on its own, then a synthesis question asks for three steps from one compound to another and the page stays blank. Our Clacton-on-Sea A-Level Chemistry tutors teach the reactions as a map your child can find a route through."
+hero_lead: "Your child can learn each reaction on its own, then a synthesis question asks for three steps from one compound to another and the page stays blank. Our A-Level Chemistry tutors for Clacton-on-Sea students teach the reactions as a map your child can find a route through."
 
 angle_eyebrow: "OCR CHEMISTRY, MODULES 4 TO 6"
 angle_heading: "Where OCR A-Level Chemistry Gets Hard for Clacton-on-Sea Sixth Formers"

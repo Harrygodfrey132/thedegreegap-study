@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring for Cobham Teenagers"
-hero_lead: "Plenty of keen readers still run out of time before the writing task, or freeze on an extract they've never seen. Our Cobham GCSE English tutors work with your child one-to-one online on reading an unseen text quickly, and planning so the last question gets written."
+hero_lead: "Plenty of keen readers still run out of time before the writing task, or freeze on an extract they've never seen. Our GCSE English tutors for Cobham students work with your child one-to-one online on reading an unseen text quickly, and planning so the last question gets written."
 
 card_eyebrow: "FREE CALL ABOUT ENGLISH"
 card_heading: "Tell us what's happening with English"

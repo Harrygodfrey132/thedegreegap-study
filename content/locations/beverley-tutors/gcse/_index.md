@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Beverley GCSE Tutors Who Find Where the Marks Slipped Away"
 hero_heading_line2: ""
-hero_lead: "Most evenings it's 'fine', and then a mock result or a Year 10 report says otherwise. Our Beverley GCSE tutors start from your child's last paper and the handful of topics that cost the most marks on it."
+hero_lead: "Most evenings it's 'fine', and then a mock result or a Year 10 report says otherwise. Our GCSE tutors for Beverley students start from your child's last paper and the handful of topics that cost the most marks on it."
 
 grade_from: "5"
 grade_to: "6/7"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Dartford Students Thrown by the Chemistry in Biology"
-hero_lead: "Plenty of sixth formers pick Biology expecting more of GCSE, then meet bonds, water potential and enzyme rates in the first term. Our Dartford A-Level Biology tutors fill in the chemistry your child needs, without turning lessons into a Chemistry course."
+hero_lead: "Plenty of sixth formers pick Biology expecting more of GCSE, then meet bonds, water potential and enzyme rates in the first term. Our A-Level Biology tutors for Dartford students fill in the chemistry your child needs, without turning lessons into a Chemistry course."
 
 angle_eyebrow: "BIOLOGY WITHOUT A-LEVEL CHEMISTRY"
 angle_heading: "Where Dartford Sixth Formers Need Chemistry in A-Level Biology, and How a Tutor Helps"

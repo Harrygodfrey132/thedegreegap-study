@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutoring for Cobham Teenagers"
-hero_lead: "For lots of Cobham teenagers, the jump to A-Level Maths comes with a new sixth form, and sometimes a different exam board from GCSE. Our Cobham A-Level Maths tutors work with your child one-to-one online, starting with the part of the course that's losing the most marks."
+hero_lead: "For lots of Cobham teenagers, the jump to A-Level Maths comes with a new sixth form, and sometimes a different exam board from GCSE. Our A-Level Maths tutors for Cobham students work with your child one-to-one online, starting with the part of the course that's losing the most marks."
 
 card_eyebrow: "A FREE CHAT ABOUT SIXTH FORM MATHS"
 card_heading: "Tell us how A-Level Maths is going"

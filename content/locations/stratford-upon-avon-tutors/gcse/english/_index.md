@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online One-to-One GCSE English Tutoring for Stratford-upon-Avon Teenagers"
-hero_lead: "Your child might have grown up near the theatre and still find the Shakespeare question the hardest in the mock. It's more common than you'd think. Our Stratford-upon-Avon GCSE English tutors teach the play the way an examiner reads it, line by line."
+hero_lead: "Your child might have grown up near the theatre and still find the Shakespeare question the hardest in the mock. It's more common than you'd think. Our GCSE English tutors for Stratford-upon-Avon students teach the play the way an examiner reads it, line by line."
 
 angle_eyebrow: "THE SHAKESPEARE PAPER, IN SHAKESPEARE'S TOWN"
 angle_heading: "Knowing the Play Isn't the Same as Answering on It"

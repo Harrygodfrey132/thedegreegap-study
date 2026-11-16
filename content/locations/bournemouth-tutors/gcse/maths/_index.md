@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online Bournemouth GCSE Maths tutors who find which paper is leaking the marks"
-hero_lead: "It's one Maths grade on the report, but it comes from three papers. And the marks rarely slip away evenly across all three. Our Bournemouth GCSE Maths tutors go through the last mock question by question with your child, online, and find the paper doing the damage."
+hero_lead: "It's one Maths grade on the report, but it comes from three papers. And the marks rarely slip away evenly across all three. Our GCSE Maths tutors for Bournemouth students go through the last mock question by question with your child, online, and find the paper doing the damage."
 
 angle_eyebrow: "ONE PAPER IS USUALLY DOING THE DAMAGE"
 angle_heading: "Which of the Three Maths Papers Is Costing Your Child the Grade"

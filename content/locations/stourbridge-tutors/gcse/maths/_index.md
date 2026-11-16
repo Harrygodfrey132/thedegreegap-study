@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Stourbridge Teenagers Who've Decided They Can't Do Maths"
-hero_lead: "Around Year 8, plenty of children quietly decide Maths isn't for them, and every test since seems to prove it. Our Stourbridge GCSE Maths tutors go back to the fractions, negatives or algebra that never settled, starting with the non-calculator paper."
+hero_lead: "Around Year 8, plenty of children quietly decide Maths isn't for them, and every test since seems to prove it. Our GCSE Maths tutors for Stourbridge students go back to the fractions, negatives or algebra that never settled, starting with the non-calculator paper."
 
 angle_eyebrow: "THE 'NOT A MATHS PERSON' YEARS"
 angle_heading: "Where GCSE Maths Goes Wrong for Stourbridge Teenagers, and Why It Matters at 16"

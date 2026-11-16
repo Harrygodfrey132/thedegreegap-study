@@ -6,7 +6,7 @@ location: St Albans
 level: GCSE
 hero_heading_line1: "Online St Albans GCSE Tutors for the One Subject That Keeps Slipping"
 hero_heading_line2: ""
-hero_lead: "Most subjects are fine. It's one predicted grade that's sitting below what your child's sixth form will ask for. Our St Albans GCSE tutors work one-to-one to lift it, wherever your child is starting from."
+hero_lead: "Most subjects are fine. It's one predicted grade that's sitting below what your child's sixth form will ask for. Our GCSE tutors for St Albans students work one-to-one to lift it, wherever your child is starting from."
 grade_from: "5"
 grade_to: "6/7"
 grade_stat: "Omo's son is in Year 10. Six months of tutoring took his English from a 5 to a 6/7, with ways into the subject that finally suit him."

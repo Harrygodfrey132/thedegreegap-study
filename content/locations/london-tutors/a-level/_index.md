@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online London A-Level Tutors for When the Jump From GCSE Hits Hard"
 hero_heading_line2: ""
-hero_lead: "Maybe your child coasted through GCSEs and hit a wall in the first term of Year 12. Or they're in Year 13, with a predicted grade sitting just under the offer. Our London A-Level tutors help with both, and the work looks quite different each time."
+hero_lead: "Maybe your child coasted through GCSEs and hit a wall in the first term of Year 12. Or they're in Year 13, with a predicted grade sitting just under the offer. Our A-Level tutors for London students help with both, and the work looks quite different each time."
 
 grade_from: "E"
 grade_to: "C"

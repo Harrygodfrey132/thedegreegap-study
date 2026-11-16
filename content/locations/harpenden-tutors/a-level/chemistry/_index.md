@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutoring for Families in Harpenden"
-hero_lead: "If your child's energetics answers come back with a confident number and a red cross, a loose definition is usually behind it. Our Harpenden A-Level Chemistry tutors pin down exactly what each quantity means before anything else."
+hero_lead: "If your child's energetics answers come back with a confident number and a red cross, a loose definition is usually behind it. Our A-Level Chemistry tutors for Harpenden students pin down exactly what each quantity means before anything else."
 
 angle_eyebrow: "WHEN NEARLY RIGHT SCORES NOTHING"
 angle_heading: "Why Energetics Is Where Your Child's Nearly-Right Answers Fall Apart"

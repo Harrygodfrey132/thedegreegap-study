@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors Matched to Derby Families"
-hero_lead: "Lots of teenagers get E and Z labels wrong at A-Level, usually because the labels look like a naming habit when they're really a set of priority rules. Our Derby A-Level Chemistry tutors teach your child those rules, plus a way of drawing isomers that doesn't miss any."
+hero_lead: "Lots of teenagers get E and Z labels wrong at A-Level, usually because the labels look like a naming habit when they're really a set of priority rules. Our A-Level Chemistry tutors for Derby students teach your child those rules, plus a way of drawing isomers that doesn't miss any."
 
 angle_eyebrow: "IT'S A RANKING, NOT JUST A NAME"
 angle_heading: "Where Your Child's Isomer Marks Are Going"

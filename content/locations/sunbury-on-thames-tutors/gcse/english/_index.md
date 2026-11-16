@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring in Sunbury-on-Thames When Timed Essays Hold the Grade Back"
-hero_lead: "Knowing the texts usually isn't the problem. Your child's English prediction is built from a handful of timed pieces, and that's where it slips. Our Sunbury-on-Thames GCSE English tutors work online on getting those pieces finished, and finished well."
+hero_lead: "Knowing the texts usually isn't the problem. Your child's English prediction is built from a handful of timed pieces, and that's where it slips. Our GCSE English tutors for Sunbury-on-Thames students work online on getting those pieces finished, and finished well."
 
 angle_eyebrow: "WHERE THE PREDICTION COMES FROM"
 angle_heading: "How a Few Timed Pieces End Up Deciding Your Child's Prediction"

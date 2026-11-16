@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "GCSE Science Tutors Online for Nottingham, Beeston and West Bridgford"
-hero_lead: "That groan over a Physics calculation can sound just like the one over Maths homework, and it's often the same problem turning up in a different subject. Our Nottingham GCSE Science tutors find which of your child's Science marks are really maths marks, and start there."
+hero_lead: "That groan over a Physics calculation can sound just like the one over Maths homework, and it's often the same problem turning up in a different subject. Our GCSE Science tutors for Nottingham students find which of your child's Science marks are really maths marks, and start there."
 
 angle_eyebrow: "A MATHS TUTOR, OR A SCIENCE TUTOR?"
 angle_heading: "When the Marks Your Child Loses in Science Are Really Maths Marks"

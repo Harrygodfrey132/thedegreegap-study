@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring Across Swindon"
-hero_lead: "Turn to the last answer on your child's English mock. If it's two lines long, or not there at all, the ideas weren't the problem. Time was. Our Swindon GCSE English tutors work online, one-to-one, on finishing the paper, which is often worth more marks than anything else."
+hero_lead: "Turn to the last answer on your child's English mock. If it's two lines long, or not there at all, the ideas weren't the problem. Time was. Our GCSE English tutors for Swindon students work online, one-to-one, on finishing the paper, which is often worth more marks than anything else."
 
 angle_eyebrow: "THE CLOCK TAKES MORE THAN ANYTHING ELSE"
 angle_heading: "Why Finishing the Paper Beats Writing a Better First Answer"

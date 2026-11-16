@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Barnet A-Level Tutors for the Predicted Grade Your Child's Offers Rest On"
 hero_heading_line2: ""
-hero_lead: "Universities make their offers on your child's predicted grade, and the school writes that months before anyone sits a paper. Our Barnet A-Level tutors plan for that, not just June, starting from what the last mocks really showed. Lessons are one-to-one and online."
+hero_lead: "Universities make their offers on your child's predicted grade, and the school writes that months before anyone sits a paper. Our A-Level tutors for Barnet students plan for that, not just June, starting from what the last mocks really showed. Lessons are one-to-one and online."
 
 grade_from: "C"
 grade_to: "A"

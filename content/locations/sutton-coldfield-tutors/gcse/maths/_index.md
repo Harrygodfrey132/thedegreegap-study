@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors Covering Sutton Coldfield"
-hero_lead: "The Maths set your child was put in during Year 9 can quietly decide which paper they sit, and which grades are possible. Our Sutton Coldfield GCSE Maths tutors give you the evidence to check it's right."
+hero_lead: "The Maths set your child was put in during Year 9 can quietly decide which paper they sit, and which grades are possible. Our GCSE Maths tutors for Sutton Coldfield students give you the evidence to check it's right."
 
 angle_eyebrow: "A DECISION MADE BY A SET LIST"
 angle_heading: "How a Year 9 Maths Set Can Turn Into a Ceiling on the Grade"

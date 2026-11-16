@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutoring for Aldershot Families"
-hero_lead: "Maybe the new school covered electrolysis last term, just before your child arrived, and the old one hadn't reached it yet. Our Aldershot GCSE Science tutors find gaps like that after a move and teach them from the beginning, one-to-one and online."
+hero_lead: "Maybe the new school covered electrolysis last term, just before your child arrived, and the old one hadn't reached it yet. Our GCSE Science tutors for Aldershot students find gaps like that after a move and teach them from the beginning, one-to-one and online."
 
 angle_eyebrow: "SCIENCE AFTER A SCHOOL MOVE"
 angle_heading: "Why a School Move Knocks Science More Than Most Subjects"

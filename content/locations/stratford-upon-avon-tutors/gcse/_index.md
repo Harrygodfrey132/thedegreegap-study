@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Stratford-upon-Avon GCSE Tutors for Good Marks That Suddenly Feel Mid-Table"
 hero_heading_line2: ""
-hero_lead: "If your child passed the Warwickshire 11+, you may have thought the comparing was over. Now they're up against a whole year group who passed it too. Our Stratford-upon-Avon GCSE tutors help your child see where they really stand, and what's worth working on."
+hero_lead: "If your child passed the Warwickshire 11+, you may have thought the comparing was over. Now they're up against a whole year group who passed it too. Our GCSE tutors for Stratford-upon-Avon students help your child see where they really stand, and what's worth working on."
 
 grade_from: "6"
 grade_to: "8"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Year 12s and 13s Around Cirencester"
-hero_lead: "A good GCSE Maths grade doesn't stop Year 12 feeling like a different subject, especially once the algebra has to be quick and right every time. Our Cirencester A-Level Maths tutors steady that algebra, then work through pure, mechanics and statistics with your child."
+hero_lead: "A good GCSE Maths grade doesn't stop Year 12 feeling like a different subject, especially once the algebra has to be quick and right every time. Our A-Level Maths tutors for Cirencester students steady that algebra, then work through pure, mechanics and statistics with your child."
 
 angle_eyebrow: "WHERE YEAR 12 MATHS GETS HARDER"
 angle_heading: "What Changes for Your Child in the First Term of A-Level Maths"

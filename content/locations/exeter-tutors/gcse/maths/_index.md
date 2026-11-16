@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Exeter, Whichever Way Your Child Is Heading"
-hero_lead: "Your child might need a 5 for an Exeter College course, or have their heart set on Exeter Mathematics School. Either way it's the same GCSE Maths, and our Exeter GCSE Maths tutors find the part of the paper that's costing your child marks."
+hero_lead: "Your child might need a 5 for an Exeter College course, or have their heart set on Exeter Mathematics School. Either way it's the same GCSE Maths, and our GCSE Maths tutors for Exeter students find the part of the paper that's costing your child marks."
 
 angle_eyebrow: "ONE CITY, TWO VERY DIFFERENT MATHS TARGETS"
 angle_heading: "College Course or Maths School, the Marks Go Missing in the Same Places"

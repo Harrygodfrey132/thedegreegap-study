@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors Covering Esher and Thames Ditton"
-hero_lead: "The last GCSE Maths paper was in June. By late September, your child's expected to handle surds and quadratics at A-Level speed, often in a new building. Our Esher A-Level Maths tutors get the GCSE algebra quick again, then help your child keep pace, one-to-one online."
+hero_lead: "The last GCSE Maths paper was in June. By late September, your child's expected to handle surds and quadratics at A-Level speed, often in a new building. Our A-Level Maths tutors for Esher students get the GCSE algebra quick again, then help your child keep pace, one-to-one online."
 
 card_eyebrow: "FREE CONSULTATION"
 card_heading: "Talk to us about your child's Year 12 Maths"

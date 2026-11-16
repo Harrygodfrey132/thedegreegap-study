@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring for Hemel Hempstead Families, Starting With Your Child's Own Writing"
-hero_lead: "Half the marks in English Language go on your child's own writing, judged on how it's built and how accurately it's written. Our Hemel Hempstead GCSE English tutors work online on that half, because it's usually the easiest part to move."
+hero_lead: "Half the marks in English Language go on your child's own writing, judged on how it's built and how accurately it's written. Our GCSE English tutors for Hemel Hempstead students work online on that half, because it's usually the easiest part to move."
 
 angle_eyebrow: "THE HALF THAT'S THEIR OWN WRITING"
 angle_heading: "Why the Writing Section Is the Most Winnable Part of GCSE English"

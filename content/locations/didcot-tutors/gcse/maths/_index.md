@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Didcot Teenagers"
-hero_lead: "Your child can follow the Science, then a formula needs rearranging and it all falls apart, or the non-calculator paper does. Our Didcot GCSE Maths tutors find the step that's missing, often an algebra habit from Year 8, and rebuild it online."
+hero_lead: "Your child can follow the Science, then a formula needs rearranging and it all falls apart, or the non-calculator paper does. Our GCSE Maths tutors for Didcot students find the step that's missing, often an algebra habit from Year 8, and rebuild it online."
 
 angle_eyebrow: "MATHS IN A SCIENCE TOWN"
 angle_heading: "Where GCSE Maths Fits Into the Routes Around Didcot"

@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online GCSE Tutors in Banbury Who Catch a Year 10 Slip While It's Small"
 hero_heading_line2: ""
-hero_lead: "A Year 10 test comes home with a mark well below last year's, and asking about it gets a shrug. Our Banbury GCSE tutors get onto it now, while there's still room before Year 11. The earlier, the smaller the job."
+hero_lead: "A Year 10 test comes home with a mark well below last year's, and asking about it gets a shrug. Our GCSE tutors for Banbury students get onto it now, while there's still room before Year 11. The earlier, the smaller the job."
 
 grade_from: "5"
 grade_to: "6/7"

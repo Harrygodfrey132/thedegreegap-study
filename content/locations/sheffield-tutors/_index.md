@@ -4,7 +4,7 @@ description: "When one GCSE grade decides a sixth form place, our Sheffield tuto
 layout: single
 location: Sheffield
 banner_heading: "Need an online Sheffield tutor who's focused on your child's next target?"
-banner_description: "When the grade won't budge, something specific is usually in the way. Our Sheffield tutors find it and start there."
+banner_description: "When the grade won't budge, something specific is usually in the way. Our tutors for Sheffield families find it and start there."
 content_angle: "exam pressure / sixth form entry grades, from the parent's side"
 intro_1: "Ask a Sheffield parent of a Year 11 what's on their mind and it's often one number: the grade their child needs for sixth form. There are no grammar schools here. But King Edward VII School and Silverdale School run two of the city's most sought-after sixth forms, and both publish the minimum grades they ask for. Hundreds of Year 11s across Sheffield are working towards numbers like those every year. And across the city as a whole, GCSE results sit below the national average. That's not about your child's school. It just means the gap between what families hope for and what one busy classroom can give is a real one."
 intro_2: "A tutor doesn't replace school. What they add is what a class of thirty can't: time, their full attention, and the chance for your child to ask the same question three times until it clicks. A lot of the Sheffield families who come to us have a capable child at a good school who's putting the work in, and the grades still don't show what they know. If there's a sixth form place in the balance, that weekly hour can count for a lot."

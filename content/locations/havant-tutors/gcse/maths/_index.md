@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors Supporting Havant Families"
-hero_lead: "In Maths, a gap from Year 8 can still be costing your child marks in Year 11, because every topic leans on the ones before it. Our Havant GCSE Maths tutors teach online, find the point where things stopped making sense, and build back up from there."
+hero_lead: "In Maths, a gap from Year 8 can still be costing your child marks in Year 11, because every topic leans on the ones before it. Our GCSE Maths tutors for Havant students teach online, find the point where things stopped making sense, and build back up from there."
 
 angle_eyebrow: "THE GAP THAT NEVER CLOSED ITSELF"
 angle_heading: "How a Gap From Year 8 Is Still Costing Marks in Year 11"

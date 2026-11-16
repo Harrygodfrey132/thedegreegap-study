@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors in Croydon Who Find the Science Pulling the Grade Down"
-hero_lead: "Combined Science comes home as two numbers, like 5-4, and a sixth form will read both of them. Our Croydon GCSE Science tutors work out which of Biology, Chemistry or Physics is dragging your child's grade, so the lessons start on the right one."
+hero_lead: "Combined Science comes home as two numbers, like 5-4, and a sixth form will read both of them. Our GCSE Science tutors for Croydon students work out which of Biology, Chemistry or Physics is dragging your child's grade, so the lessons start on the right one."
 
 angle_eyebrow: "THE GRADE WITH A HYPHEN IN IT"
 angle_heading: "What a 5-4 in Combined Science Can Hide, and Why Croydon Sixth Forms Look Closely"

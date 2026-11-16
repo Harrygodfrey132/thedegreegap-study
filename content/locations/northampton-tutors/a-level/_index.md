@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online A-Level Tutoring in Northampton Before the Predicted Grades Go to UCAS"
 hero_heading_line2: ""
-hero_lead: "The courses your child has their eye on ask for more than their predicted grade. Schools usually send predictions to UCAS in the autumn of Year 13, so our Northampton A-Level tutors start well before then, one-to-one and online."
+hero_lead: "The courses your child has their eye on ask for more than their predicted grade. Schools usually send predictions to UCAS in the autumn of Year 13, so our A-Level tutors for Northampton students start well before then, one-to-one and online."
 
 grade_from: "C"
 grade_to: "A"

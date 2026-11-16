@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Maidstone GCSE Tutors Who Fix Weak Topics Before the Mock Sixth Forms Read"
 hero_heading_line2: ""
-hero_lead: "A few weeks after the winter mock comes home, your child's sixth-form application goes in. The two are more closely linked than it first looks. Our Maidstone GCSE tutors work on the topics that decide the mock, before it feeds into the predicted grades on the form."
+hero_lead: "A few weeks after the winter mock comes home, your child's sixth-form application goes in. The two are more closely linked than it first looks. Our GCSE tutors for Maidstone students work on the topics that decide the mock, before it feeds into the predicted grades on the form."
 
 grade_from: "E"
 grade_to: "B"

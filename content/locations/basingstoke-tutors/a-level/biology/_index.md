@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors Working With Basingstoke Families"
-hero_lead: "Your child writes the long answer, gets a mark back, and still can't tell you what was missing. Our Basingstoke A-Level Biology tutors mark every answer against the exam board's mark scheme, starting with protein structure, where the bonds decide the marks."
+hero_lead: "Your child writes the long answer, gets a mark back, and still can't tell you what was missing. Our A-Level Biology tutors for Basingstoke students mark every answer against the exam board's mark scheme, starting with protein structure, where the bonds decide the marks."
 
 angle_eyebrow: "THE MARK, BUT NOT THE MISSING WORDS"
 angle_heading: "Where the Marks Go in Your Child's Written Biology Answers"

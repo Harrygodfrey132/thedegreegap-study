@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutoring in Cambridge, for a Secure Pass or a Safe 7"
-hero_lead: "Some Cambridge parents just want Maths to be a secure pass. Others are wondering whether a 7 will hold for Hills Road. Our Cambridge GCSE Maths tutors work out which it is for your child before they plan a single lesson."
+hero_lead: "Some Cambridge parents just want Maths to be a secure pass. Others are wondering whether a 7 will hold for Hills Road. Our GCSE Maths tutors for Cambridge students work out which it is for your child before they plan a single lesson."
 
 angle_eyebrow: "TWO DIFFERENT MATHS PROBLEMS IN ONE CITY"
 angle_heading: "Which of Two Very Different Maths Problems Is Your Child's?"

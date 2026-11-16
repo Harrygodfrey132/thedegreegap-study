@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring for Welwyn Garden City Families"
-hero_lead: "Your child knows the book inside out, and the essay still comes back with a low mark. Usually that's because the answer tells the story instead of saying how it's written. Our Welwyn Garden City GCSE English tutors work on that switch, a paragraph at a time."
+hero_lead: "Your child knows the book inside out, and the essay still comes back with a low mark. Usually that's because the answer tells the story instead of saying how it's written. Our GCSE English tutors for Welwyn Garden City students work on that switch, a paragraph at a time."
 
 angle_eyebrow: "THE QUESTION BEHIND THE QUESTION"
 angle_heading: "Why Your Child's Accurate Essay Can Still Score So Little"

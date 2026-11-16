@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Harpenden A-Level Tutors, Because the Grade UCAS Sees Is Built in Year 12"
 hero_heading_line2: ""
-hero_lead: "It catches a lot of parents out: the grade that goes to UCAS is mostly decided in Year 12, months before anyone sits a real exam. Our Harpenden A-Level tutors work to that calendar with your child, not just the exam one."
+hero_lead: "It catches a lot of parents out: the grade that goes to UCAS is mostly decided in Year 12, months before anyone sits a real exam. Our A-Level tutors for Harpenden students work to that calendar with your child, not just the exam one."
 
 grade_from: "E"
 grade_to: "C"

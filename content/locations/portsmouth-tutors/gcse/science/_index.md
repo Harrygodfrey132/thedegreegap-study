@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Portsmouth and Southsea"
-hero_lead: "It's natural to assume Science works like Maths, with a resit in November if the summer goes wrong. It doesn't. Our Portsmouth GCSE Science tutors help your child aim for the grade they need first time, while there's still room in Year 10 and 11."
+hero_lead: "It's natural to assume Science works like Maths, with a resit in November if the summer goes wrong. It doesn't. Our GCSE Science tutors for Portsmouth students help your child aim for the grade they need first time, while there's still room in Year 10 and 11."
 
 angle_eyebrow: "NO NOVEMBER RESIT FOR SCIENCE"
 angle_heading: "Why the Summer Science Grade Matters So Much for Portsmouth Families"

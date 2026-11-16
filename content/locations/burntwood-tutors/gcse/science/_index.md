@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Burntwood Students Losing Marks in the Maths"
-hero_lead: "Your child can explain the science, then a question asks them to rearrange an equation or read a gradient, and the marks vanish. Our Burntwood GCSE Science tutors work on the maths inside Biology, Chemistry and Physics as well as the science itself."
+hero_lead: "Your child can explain the science, then a question asks them to rearrange an equation or read a gradient, and the marks vanish. Our GCSE Science tutors for Burntwood students work on the maths inside Biology, Chemistry and Physics as well as the science itself."
 
 angle_eyebrow: "THE MATHS HIDING IN SCIENCE"
 angle_heading: "The GCSE Science Marks Burntwood Students Lose Without Noticing"

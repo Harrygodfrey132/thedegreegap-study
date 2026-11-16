@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Stevenage GCSE Tutors Who Find Why Hard Revision Isn't Moving the Mark"
 hero_heading_line2: ""
-hero_lead: "When your child's working hard and the grades won't move, the problem's usually older than the topic they're stuck on. Our Stevenage GCSE tutors trace it back, sometimes as far as Year 8, and rebuild from there. It's often quicker than you'd fear."
+hero_lead: "When your child's working hard and the grades won't move, the problem's usually older than the topic they're stuck on. Our GCSE tutors for Stevenage students trace it back, sometimes as far as Year 8, and rebuild from there. It's often quicker than you'd fear."
 
 grade_from: "4"
 grade_to: "6"

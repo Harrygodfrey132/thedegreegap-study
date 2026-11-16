@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Wokingham Sixth Formers Who Dread the Fieldwork Statistics"
-hero_lead: "Your child chose Biology for the living things, and now there's a Spearman's rank test and a page of fieldwork data in front of them. Our Wokingham A-Level Biology tutors make the statistics routine, then tie them back to the biology."
+hero_lead: "Your child chose Biology for the living things, and now there's a Spearman's rank test and a page of fieldwork data in front of them. Our A-Level Biology tutors for Wokingham students make the statistics routine, then tie them back to the biology."
 
 angle_eyebrow: "A FIELD TRIP IN OCTOBER"
 angle_heading: "Why A-Level Biology Turns Mathematical for Wokingham Sixth Formers"

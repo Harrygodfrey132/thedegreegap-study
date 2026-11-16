@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Welwyn Garden City Families"
-hero_lead: "A Maths gap rarely stays inside Maths. If your child's Physics or Geography marks are slipping too, our Welwyn Garden City GCSE Maths tutors look for the one skill sitting underneath all of it."
+hero_lead: "A Maths gap rarely stays inside Maths. If your child's Physics or Geography marks are slipping too, our GCSE Maths tutors for Welwyn Garden City students look for the one skill sitting underneath all of it."
 
 angle_eyebrow: "IT'S NOT ONLY THE MATHS GRADE"
 angle_heading: "The Subject That Other Subjects Are Built On"

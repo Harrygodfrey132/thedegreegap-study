@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors in Bushey for the Child Who's 'Not a Physics Person'"
-hero_lead: "A low predicted grade in Physics can turn into a label your child starts to believe. Our Bushey GCSE Science tutors start with the equations and units that cost the most marks, then the six-mark answers, one-to-one online."
+hero_lead: "A low predicted grade in Physics can turn into a label your child starts to believe. Our GCSE Science tutors for Bushey students start with the equations and units that cost the most marks, then the six-mark answers, one-to-one online."
 
 card_eyebrow: "TALK IT THROUGH FIRST"
 card_heading: "Tell us which science is the worry"

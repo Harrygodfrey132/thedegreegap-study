@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors Across Colchester"
-hero_lead: "Good topic tests all year, then a full mock paper that comes back a grade lower. Our Colchester A-Level Chemistry tutors look at the questions that mix organic, physical and inorganic chemistry, because that's usually where the missing marks are."
+hero_lead: "Good topic tests all year, then a full mock paper that comes back a grade lower. Our A-Level Chemistry tutors for Colchester students look at the questions that mix organic, physical and inorganic chemistry, because that's usually where the missing marks are."
 
 angle_eyebrow: "WHERE THE THREE STRANDS OF CHEMISTRY MEET"
 angle_heading: "Why Full Chemistry Papers Can Go Worse Than Topic Tests"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Hemel Hempstead Families, When Practice Between Lessons Slips"
-hero_lead: "A-Level Maths expects hours of practice on top of lessons and homework, and from the outside it's hard to tell whether it's happening. Our Hemel Hempstead A-Level Maths tutors help your child build that habit, not just the knowledge."
+hero_lead: "A-Level Maths expects hours of practice on top of lessons and homework, and from the outside it's hard to tell whether it's happening. Our A-Level Maths tutors for Hemel Hempstead students help your child build that habit, not just the knowledge."
 
 angle_eyebrow: "THE HOURS OUTSIDE LESSONS"
 angle_heading: "The Practice Hours A-Level Maths Expects, and Nobody Checks"

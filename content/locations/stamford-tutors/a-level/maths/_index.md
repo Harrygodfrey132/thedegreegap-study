@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutoring for Stamford Teenagers in Year 12 and 13"
-hero_lead: "At A-Level, the algebra your child half-remembers from GCSE has to be quick and automatic, because every new topic sits on top of it. Our Stamford A-Level Maths tutors get that groundwork solid first, one-to-one and online, then move on to the questions your child's board sets."
+hero_lead: "At A-Level, the algebra your child half-remembers from GCSE has to be quick and automatic, because every new topic sits on top of it. Our A-Level Maths tutors for Stamford students get that groundwork solid first, one-to-one and online, then move on to the questions your child's board sets."
 
 angle_eyebrow: "THE ALGEBRA UNDER EVERYTHING"
 angle_heading: "Why Year 12 Maths Leans So Hard on GCSE Algebra"

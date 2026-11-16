@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Teenagers in Chesham"
-hero_lead: "If your child breezes through the topics that look easy and still drops marks on them, courtship behaviour is a likely culprit. Our Chesham A-Level Biology tutors work on why courtship matters, and on the species definition underneath it."
+hero_lead: "If your child breezes through the topics that look easy and still drops marks on them, courtship behaviour is a likely culprit. Our A-Level Biology tutors for Chesham students work on why courtship matters, and on the species definition underneath it."
 
 angle_eyebrow: "THE SOFT TOPIC THAT ISN'T"
 angle_heading: "Why the Easy-Looking Biology Topics Cost Your Child Marks"

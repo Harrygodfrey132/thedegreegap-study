@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Harrow, When One Grade Hides Three Subjects"
-hero_lead: "If your child's report shows one Science grade, it's covering three subjects, and it rarely tells you which one's slipping. Our Harrow GCSE Science tutors work one-to-one online, triple or combined, and find the weakest of the three before spending a term on anything."
+hero_lead: "If your child's report shows one Science grade, it's covering three subjects, and it rarely tells you which one's slipping. Our GCSE Science tutors for Harrow students work one-to-one online, triple or combined, and find the weakest of the three before spending a term on anything."
 
 angle_eyebrow: "THREE SUBJECTS, ONE NUMBER"
 angle_heading: "The Two Question Types That Decide a Harrow Science Grade"

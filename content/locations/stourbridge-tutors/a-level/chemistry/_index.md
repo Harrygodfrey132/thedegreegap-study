@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for Stourbridge Students Whose Calculations Fall Apart Halfway"
-hero_lead: "Your child follows the Chemistry in lessons, then a six-step calculation slips at step two and every mark after it goes too. Our Stourbridge A-Level Chemistry tutors find the step that keeps breaking and practise it until it holds."
+hero_lead: "Your child follows the Chemistry in lessons, then a six-step calculation slips at step two and every mark after it goes too. Our A-Level Chemistry tutors for Stourbridge students find the step that keeps breaking and practise it until it holds."
 
 angle_eyebrow: "SIX LINES OF WORKING, ONE SLIP"
 angle_heading: "Where the Marks Go in A-Level Chemistry for Stourbridge Sixth Formers"

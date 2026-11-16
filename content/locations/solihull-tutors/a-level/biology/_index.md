@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Solihull Year 12s and 13s"
-hero_lead: "Plenty of teenagers can draw the nitrogen cycle and still score low on it, because the marks go on naming each step. Our Solihull A-Level Biology tutors go through every stage and the bacteria behind it with your child, until a vague answer turns into one that scores."
+hero_lead: "Plenty of teenagers can draw the nitrogen cycle and still score low on it, because the marks go on naming each step. Our A-Level Biology tutors for Solihull students go through every stage and the bacteria behind it with your child, until a vague answer turns into one that scores."
 
 angle_eyebrow: "THE NAME IS WHERE THE MARK IS"
 angle_heading: "Why 'Bacteria Break It Down' Earns So Little on the Nitrogen Cycle"

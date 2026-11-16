@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors Covering Worcester and Worcestershire"
-hero_lead: "Your child knew the reaction and still lost the marks. In organic chemistry, the conditions count as much as the product. Our Worcester A-Level Chemistry tutors work on alcohol oxidation, reflux and distillation, and writing reagents out in full."
+hero_lead: "Your child knew the reaction and still lost the marks. In organic chemistry, the conditions count as much as the product. Our A-Level Chemistry tutors for Worcester students work on alcohol oxidation, reflux and distillation, and writing reagents out in full."
 
 angle_eyebrow: "THE SMALL WORDS THAT CARRY THE MARKS"
 angle_heading: "Why Your Child Can Know the Chemistry and Still Drop the Marks"

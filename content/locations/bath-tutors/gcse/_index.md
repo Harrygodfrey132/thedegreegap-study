@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online GCSE tutors for Bath, from a wobbly Year 10 mock to results day"
 hero_heading_line2: ""
-hero_lead: "The Year 10 exams came back a grade under the report, and everyone agreed it was just the summer. Our Bath GCSE tutors go back for that topic with your child, one-to-one and online, before the Year 11 mocks make it official."
+hero_lead: "The Year 10 exams came back a grade under the report, and everyone agreed it was just the summer. Our GCSE tutors for Bath students go back for that topic with your child, one-to-one and online, before the Year 11 mocks make it official."
 
 grade_from: "E"
 grade_to: "B"

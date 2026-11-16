@@ -6,7 +6,7 @@ location: "Tamworth"
 level: "A-Level"
 
 hero_heading_line1: "Online Tamworth A-Level Tutors When the Mocks Don't Go to Plan"
-hero_lead: "A disappointing mock can hang over the whole house. It happens to more families than you'd think. Our Tamworth A-Level tutors help your child find out where the marks went, while there's still time before the summer."
+hero_lead: "A disappointing mock can hang over the whole house. It happens to more families than you'd think. Our A-Level tutors for Tamworth students help your child find out where the marks went, while there's still time before the summer."
 
 grade_from: "C"
 grade_to: "A"

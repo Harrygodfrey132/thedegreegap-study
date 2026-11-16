@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tuition for Leicester Families"
-hero_lead: "When the Chemistry grade drops, it can feel as if your child is struggling with the whole subject. Usually it's one of three quite different parts, and our Leicester A-Level Chemistry tutors find out which."
+hero_lead: "When the Chemistry grade drops, it can feel as if your child is struggling with the whole subject. Usually it's one of three quite different parts, and our A-Level Chemistry tutors for Leicester students find out which."
 
 angle_eyebrow: "THREE CHEMISTRIES, ONE GRADE"
 angle_heading: "Physical, Organic and Inorganic Go Wrong in Different Ways"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Reigate, Where a Grade 5 in Language Opens More Than English"
-hero_lead: "You might not expect a Biology course to care about your child's English grade, but at Reigate College it does. Our Reigate GCSE English tutors work one-to-one online on the Language papers and the set texts, planning and timing every answer."
+hero_lead: "You might not expect a Biology course to care about your child's English grade, but at Reigate College it does. Our GCSE English tutors for Reigate students work one-to-one online on the Language papers and the set texts, planning and timing every answer."
 
 angle_eyebrow: "THE GRADE BIOLOGY ALSO READS"
 angle_heading: "Where Your Child's English Marks Leak Out, Paper by Paper"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring for Barnet Families: The Grade Sixth Forms Read First"
-hero_lead: "English is often the last subject families get help with, and the first one sixth forms look at. Our Barnet GCSE English tutors start with an essay of your child's that scored below what it deserved, and find the part of the mark scheme it missed."
+hero_lead: "English is often the last subject families get help with, and the first one sixth forms look at. Our GCSE English tutors for Barnet students start with an essay of your child's that scored below what it deserved, and find the part of the mark scheme it missed."
 
 angle_eyebrow: "THE SUBJECT BOOKED LAST"
 angle_heading: "Why English Decides More of the Application Than Families Expect"

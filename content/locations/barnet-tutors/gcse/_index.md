@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online GCSE Tutors for Barnet, From the Year 9 Slip to the Sixth-Form Offer"
 hero_heading_line2: ""
-hero_lead: "In Barnet, sixth form applications often go in while your child's mocks are still being marked, which can feel far too soon. Our Barnet GCSE tutors work backwards from the grade the application needs, starting with whatever a real paper shows is missing."
+hero_lead: "In Barnet, sixth form applications often go in while your child's mocks are still being marked, which can feel far too soon. Our GCSE tutors for Barnet students work backwards from the grade the application needs, starting with whatever a real paper shows is missing."
 
 grade_from: "5"
 grade_to: "6/7"

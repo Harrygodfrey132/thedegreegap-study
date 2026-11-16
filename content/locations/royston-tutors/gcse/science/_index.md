@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Royston and the Villages Nearby"
-hero_lead: "Plenty of teenagers cope with Biology and then lose marks on Chemistry and Physics calculations. Our Royston GCSE Science tutors pin down which science is costing your child most, then spend the lessons there, online."
+hero_lead: "Plenty of teenagers cope with Biology and then lose marks on Chemistry and Physics calculations. Our GCSE Science tutors for Royston students pin down which science is costing your child most, then spend the lessons there, online."
 
 card_eyebrow: "FREE SCIENCE CONSULTATION"
 card_heading: "Find out which science needs the help"

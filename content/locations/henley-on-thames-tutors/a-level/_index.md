@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Henley-on-Thames A-Level Tutors for Year 12, Before the Predictions Are Written"
 hero_heading_line2: ""
-hero_lead: "Most of what goes into a UCAS predicted grade happens in Year 12, often while your child is still finding their feet in new subjects. If the first tests come back lower than hoped, that's where our Henley-on-Thames A-Level tutors start, in one-to-one lessons online."
+hero_lead: "Most of what goes into a UCAS predicted grade happens in Year 12, often while your child is still finding their feet in new subjects. If the first tests come back lower than hoped, that's where our A-Level tutors for Henley-on-Thames students start, in one-to-one lessons online."
 
 grade_from: "E"
 grade_to: "B"

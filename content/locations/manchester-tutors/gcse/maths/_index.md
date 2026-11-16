@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Manchester and Trafford Families"
-hero_lead: "Your child's putting the work in, but the Maths paper keeps landing a grade short: a shaky 5, or a 6 when the A-Level course they want at Xaverian asks for more. Our Manchester GCSE Maths tutors find where the marks are leaking and rebuild from there."
+hero_lead: "Your child's putting the work in, but the Maths paper keeps landing a grade short: a shaky 5, or a 6 when the A-Level course they want at Xaverian asks for more. Our GCSE Maths tutors for Manchester students find where the marks are leaking and rebuild from there."
 
 angle_eyebrow: "WHERE MANCHESTER MATHS MARKS GO MISSING"
 angle_heading: "Where a GCSE Maths tutor finds the marks Manchester papers leave behind"

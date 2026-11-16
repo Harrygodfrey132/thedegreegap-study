@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors Covering Harrogate and Knaresborough"
-hero_lead: "Genetics questions often hand your child an inherited condition they've never heard of and a family tree to work backwards through, and that's where the marks start to go. Our Harrogate GCSE Science tutors find the step that goes wrong and practise it properly."
+hero_lead: "Genetics questions often hand your child an inherited condition they've never heard of and a family tree to work backwards through, and that's where the marks start to go. Our GCSE Science tutors for Harrogate students find the step that goes wrong and practise it properly."
 
 angle_eyebrow: "WHERE GCSE BIOLOGY TURNS INTO A PUZZLE"
 angle_heading: "Why Genetics Catches Out So Many Capable Children in Biology"

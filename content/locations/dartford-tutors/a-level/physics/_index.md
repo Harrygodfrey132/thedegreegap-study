@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Physics"
 
 hero_h1: "Online A-Level Physics Tutors for Dartford Students Lost in Particles and Quantum"
-hero_lead: "GCSE Physics was mostly things your child could picture. Then Year 12 brings quarks, photons and the photoelectric effect, and nothing behaves the way it should. Our Dartford A-Level Physics tutors make those topics concrete, one idea and one exam question at a time."
+hero_lead: "GCSE Physics was mostly things your child could picture. Then Year 12 brings quarks, photons and the photoelectric effect, and nothing behaves the way it should. Our A-Level Physics tutors for Dartford students make those topics concrete, one idea and one exam question at a time."
 
 angle_eyebrow: "WHEN PHYSICS STOPS BEING VISIBLE"
 angle_heading: "How a Dartford A-Level Physics Tutor Makes Particles and Quantum Make Sense"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Bath, Finding the Year 10 Topics That Cost Marks"
-hero_lead: "A disappointing Science mock often comes down to the oldest topics. The first paper in each science usually tests what was taught earliest, back in Year 9 and 10, and revision gets to it last. Our Bath GCSE Science tutors go back over it with your child, one-to-one online."
+hero_lead: "A disappointing Science mock often comes down to the oldest topics. The first paper in each science usually tests what was taught earliest, back in Year 9 and 10, and revision gets to it last. Our GCSE Science tutors for Bath students go back over it with your child, one-to-one online."
 
 angle_eyebrow: "THE HALF OF THE COURSE TAUGHT A YEAR EARLY"
 angle_heading: "Why the Older Paper 1 Topics Cost Your Child More Than the New Ones"

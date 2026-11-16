@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Kingston upon Thames Families, Starting Where Marks Slip"
-hero_lead: "A child who's solid in Pure Maths can still drop a grade, because Mechanics and Statistics often get far less practice. Our Kingston upon Thames A-Level Maths tutors look at exactly where the marks go missing and work on that first, one-to-one and online."
+hero_lead: "A child who's solid in Pure Maths can still drop a grade, because Mechanics and Statistics often get far less practice. Our A-Level Maths tutors for Kingston upon Thames students look at exactly where the marks go missing and work on that first, one-to-one and online."
 
 angle_eyebrow: "THE PART WITH THE LEAST PRACTICE BEHIND IT"
 angle_heading: "Why Mechanics and Statistics Can Decide More of Your Child's Grade Than You'd Think"

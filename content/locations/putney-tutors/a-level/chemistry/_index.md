@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for Putney Students Lost in Organic Reactions"
-hero_lead: "By Year 13 your child may be juggling dozens of reactions, each with its own reagents and conditions, and the synthesis questions want several strung together. Our Putney A-Level Chemistry tutors turn that pile of facts into a map your child can actually use."
+hero_lead: "By Year 13 your child may be juggling dozens of reactions, each with its own reagents and conditions, and the synthesis questions want several strung together. Our A-Level Chemistry tutors for Putney students turn that pile of facts into a map your child can actually use."
 
 angle_eyebrow: "ONE MAP, NOT A PILE OF CARDS"
 angle_heading: "Why Organic Chemistry Unravels for So Many Putney Sixth Formers in Year 13"

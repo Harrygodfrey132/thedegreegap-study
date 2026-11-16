@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Abingdon, One Topic at a Time"
-hero_lead: "You sit down to help with the Maths homework, find it's nothing like the way you learnt it, and ten minutes later you're both frustrated. Our Abingdon GCSE Maths tutors take over that hour, one-to-one and online, and start with the skill that's actually stuck."
+hero_lead: "You sit down to help with the Maths homework, find it's nothing like the way you learnt it, and ten minutes later you're both frustrated. Our GCSE Maths tutors for Abingdon students take over that hour, one-to-one and online, and start with the skill that's actually stuck."
 
 angle_eyebrow: "TWO SETS OF PAPERS, ONE TOWN"
 angle_heading: "GCSE or iGCSE: Where Abingdon Teenagers Lose Their Maths Marks"

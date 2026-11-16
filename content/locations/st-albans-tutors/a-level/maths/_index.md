@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for St Albans, From Pure to Mechanics"
-hero_lead: "When your child's pure maths looks fine but the mock grade keeps landing lower, it's usually the applied side: mechanics and statistics, the part that gets revised last. Our St Albans A-Level Maths tutors start with connected particles, moments and hypothesis testing."
+hero_lead: "When your child's pure maths looks fine but the mock grade keeps landing lower, it's usually the applied side: mechanics and statistics, the part that gets revised last. Our A-Level Maths tutors for St Albans students start with connected particles, moments and hypothesis testing."
 
 angle_eyebrow: "THE PART OF THE COURSE THAT GETS REVISED LAST"
 angle_heading: "Why Mechanics and Statistics Often Decide Your Child's A-Level Maths Grade"

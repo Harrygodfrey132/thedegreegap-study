@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors Supporting Chester Families"
-hero_lead: "A Science grade that looks low overall can hide one science that's fine, one that's wobbling and one that's fallen behind. Our Chester GCSE Science tutors pull the three apart before a single term goes on any of them."
+hero_lead: "A Science grade that looks low overall can hide one science that's fine, one that's wobbling and one that's fallen behind. Our GCSE Science tutors for Chester students pull the three apart before a single term goes on any of them."
 
 angle_eyebrow: "WHAT THE OVERALL GRADE HIDES"
 angle_heading: "Why Your Child Probably Isn't 'Bad at Science'"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Clacton-on-Sea Families Weighing Up Foundation or Higher"
-hero_lead: "The school wants to know which tier your child should sit, and nobody at home is sure whether Higher is a stretch too far. Our Clacton-on-Sea GCSE Maths tutors look at the algebra and problem-solving behind the last mock, help you decide, then teach towards it."
+hero_lead: "The school wants to know which tier your child should sit, and nobody at home is sure whether Higher is a stretch too far. Our GCSE Maths tutors for Clacton-on-Sea students look at the algebra and problem-solving behind the last mock, help you decide, then teach towards it."
 
 angle_eyebrow: "FOUNDATION, HIGHER, AND WHAT EACH ALLOWS"
 angle_heading: "Why the Tier Matters More Than It Looks for GCSE Maths in Clacton-on-Sea"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Sixth Formers in and Around Potters Bar"
-hero_lead: "Everyone taking A-Level Maths sits pure, mechanics and statistics, so a child who's fine with calculus can still be lost on forces or hypothesis tests. Our Potters Bar A-Level Maths tutors find the strand that's slipping and work on it one-to-one, online."
+hero_lead: "Everyone taking A-Level Maths sits pure, mechanics and statistics, so a child who's fine with calculus can still be lost on forces or hypothesis tests. Our A-Level Maths tutors for Potters Bar students find the strand that's slipping and work on it one-to-one, online."
 
 angle_eyebrow: "ALL THREE STRANDS COUNT"
 angle_heading: "When One Strand of A-Level Maths Holds Your Child Back"

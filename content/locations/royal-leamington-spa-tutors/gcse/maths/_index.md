@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Royal Leamington Spa, When Mocks Don't Match Homework"
-hero_lead: "It clicked in the lesson and in the homework, but three weeks later, on a mixed paper, your child can't remember where to start. Our Royal Leamington Spa GCSE Maths tutors work online on exactly that gap, because it's the most common one and the least talked about."
+hero_lead: "It clicked in the lesson and in the homework, but three weeks later, on a mixed paper, your child can't remember where to start. Our GCSE Maths tutors for Royal Leamington Spa students work online on exactly that gap, because it's the most common one and the least talked about."
 
 angle_eyebrow: "UNDERSTOOD IT THEN, CAN'T DO IT NOW"
 angle_heading: "Why Your Child Gets It in Class and Loses It in the Mock"

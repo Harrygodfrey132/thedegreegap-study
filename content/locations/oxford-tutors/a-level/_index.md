@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Oxford A-Level Tutors for When Your Child's GCSE Study Habits Stop Working"
 hero_heading_line2: ""
-hero_lead: "Grow up in a university city and there's an expectation in the air, and by Year 12 a lot of Oxford teenagers feel it as pressure. Our Oxford A-Level tutors find where your child's marks are slipping and steady the grade before the school sends predictions to UCAS."
+hero_lead: "Grow up in a university city and there's an expectation in the air, and by Year 12 a lot of Oxford teenagers feel it as pressure. Our A-Level tutors for Oxford students find where your child's marks are slipping and steady the grade before the school sends predictions to UCAS."
 
 grade_from: "C"
 grade_to: "A"

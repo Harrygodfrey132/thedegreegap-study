@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for Sevenoaks Families Chasing an A"
-hero_lead: "Right method, wrong answer, and miles out. If that keeps happening in your child's Chemistry mocks, our Sevenoaks A-Level Chemistry tutors can help, starting with free energy questions, where the units are usually to blame."
+hero_lead: "Right method, wrong answer, and miles out. If that keeps happening in your child's Chemistry mocks, our A-Level Chemistry tutors for Sevenoaks students can help, starting with free energy questions, where the units are usually to blame."
 
 angle_eyebrow: "ONE MISSED UNIT, A THOUSAND TIMES OUT"
 angle_heading: "Why One Missed Conversion Can Sink a Whole Free Energy Answer"

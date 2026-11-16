@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Fareham and Portchester"
-hero_lead: "Revising every topic won't help much with a graph from an experiment your child's never seen, because there's nothing in it to learn by heart. Our Fareham A-Level Biology tutors give them a routine for those data questions instead."
+hero_lead: "Revising every topic won't help much with a graph from an experiment your child's never seen, because there's nothing in it to learn by heart. Our A-Level Biology tutors for Fareham students give them a routine for those data questions instead."
 
 angle_eyebrow: "A GRAPH THEY'VE NEVER SEEN BEFORE"
 angle_heading: "The Biology Questions Your Child Can't Revise For, but Can Practise"

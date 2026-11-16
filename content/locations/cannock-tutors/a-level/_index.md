@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Cannock A-Level Tutors for Busy Sixth Formers Whose Grades Have Started to Slip"
 hero_heading_line2: ""
-hero_lead: "Your child gets in from a Saturday shift with an essay due Monday and a test on Tuesday, and the A-Level work happens in whatever time is left. Our Cannock A-Level tutors turn that into one steady hour a week, plus a plan for the rest."
+hero_lead: "Your child gets in from a Saturday shift with an essay due Monday and a test on Tuesday, and the A-Level work happens in whatever time is left. Our A-Level tutors for Cannock students turn that into one steady hour a week, plus a plan for the rest."
 
 grade_from: "C"
 grade_to: "A"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors Covering Didsbury, for the Grade Every Sixth Form Checks First"
-hero_lead: "A-Level choices have started coming up at home, and every conversation seems to circle back to the Maths grade. Our Didsbury GCSE Maths tutors work one-to-one online, starting from the first method that went wrong, often a piece of algebra from Year 8."
+hero_lead: "A-Level choices have started coming up at home, and every conversation seems to circle back to the Maths grade. Our GCSE Maths tutors for Didsbury students work one-to-one online, starting from the first method that went wrong, often a piece of algebra from Year 8."
 
 card_eyebrow: "FREE CONSULTATION"
 card_heading: "Talk to a member of the team to start the matching process"

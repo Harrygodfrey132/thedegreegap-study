@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutoring Across Norwich"
-hero_lead: "Your child's method was right, and one sign still made the answer wrong. That's electrochemistry. Our Norwich A-Level Chemistry tutors work on the conventions, the fixed ways of setting answers out, because that's where those marks go."
+hero_lead: "Your child's method was right, and one sign still made the answer wrong. That's electrochemistry. Our A-Level Chemistry tutors for Norwich students work on the conventions, the fixed ways of setting answers out, because that's where those marks go."
 
 angle_eyebrow: "THE SIGN DECIDES THE ANSWER"
 angle_heading: "When Understanding Redox Isn't Enough to Get the Sign Right"

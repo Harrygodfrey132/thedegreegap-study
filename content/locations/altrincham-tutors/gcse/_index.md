@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Altrincham GCSE Tutors for the One Subject Dragging Your Child's Average Down"
 hero_heading_line2: ""
-hero_lead: "The report's fine, apart from one subject a grade or two behind the rest. Our Altrincham GCSE tutors start with a recent marked paper in that subject, and work on what it shows one-to-one with your child."
+hero_lead: "The report's fine, apart from one subject a grade or two behind the rest. Our GCSE tutors for Altrincham students start with a recent marked paper in that subject, and work on what it shows one-to-one with your child."
 
 grade_from: "5"
 grade_to: "6/7"

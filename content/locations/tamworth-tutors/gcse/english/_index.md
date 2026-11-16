@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring for Your Child in Tamworth"
-hero_lead: "At parents' evening English looks like one grade, but your child's really sitting two GCSEs that reward different things. Our Tamworth GCSE English tutors work online, and their first job is finding which one's costing the marks."
+hero_lead: "At parents' evening English looks like one grade, but your child's really sitting two GCSEs that reward different things. Our GCSE English tutors for Tamworth students work online, and their first job is finding which one's costing the marks."
 
 angle_eyebrow: "THE MARKS AFTER THE QUOTE"
 angle_heading: "Where a Tutor Finds Your Child's Missing GCSE English Marks in Tamworth"

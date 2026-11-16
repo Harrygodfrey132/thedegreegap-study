@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Newcastle upon Tyne GCSE English Tutoring, Online and Built Around the Exam Questions"
-hero_lead: "Pages of quotations learnt, the plot known inside out, and the mark comes back exactly where it was. Our Newcastle upon Tyne GCSE English tutors get your child practising the exam questions themselves, one-to-one and online. The kinds of question barely change from year to year."
+hero_lead: "Pages of quotations learnt, the plot known inside out, and the mark comes back exactly where it was. Our GCSE English tutors for Newcastle upon Tyne students get your child practising the exam questions themselves, one-to-one and online. The kinds of question barely change from year to year."
 
 angle_eyebrow: "SAME QUESTIONS, DIFFERENT TEXT"
 angle_heading: "Why Practising the Questions Beats Another Page of Quotations"

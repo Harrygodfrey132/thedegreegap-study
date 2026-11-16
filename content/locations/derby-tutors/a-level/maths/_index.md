@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online Derby A-Level Maths Tutors Who Make Working Count"
-hero_lead: "The numbers are right and the answer's still marked wrong. It happens a lot with quadratic inequalities. Our Derby A-Level Maths tutors teach your child to let a quick sketch settle it, then write the answer the way examiners expect."
+hero_lead: "The numbers are right and the answer's still marked wrong. It happens a lot with quadratic inequalities. Our A-Level Maths tutors for Derby students teach your child to let a quick sketch settle it, then write the answer the way examiners expect."
 
 angle_eyebrow: "THE SKETCH COMES FIRST"
 angle_heading: "Why Your Child Can Solve an Inequality and Still Get It Wrong"

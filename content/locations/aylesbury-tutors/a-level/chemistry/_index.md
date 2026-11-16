@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors Covering Aylesbury and the Vale"
-hero_lead: "Year 13 Chemistry brings a new batch of organic content, and it tends to land just as your child's juggling UCAS and mocks. Our Aylesbury A-Level Chemistry tutors work on amines, polymers and the written reasoning questions built on top of them."
+hero_lead: "Year 13 Chemistry brings a new batch of organic content, and it tends to land just as your child's juggling UCAS and mocks. Our A-Level Chemistry tutors for Aylesbury students work on amines, polymers and the written reasoning questions built on top of them."
 
 angle_eyebrow: "THE CONTENT THAT ARRIVES LAST AND COUNTS MOST"
 angle_heading: "The Organic Chemistry Your Child Meets Last and Revises Least"

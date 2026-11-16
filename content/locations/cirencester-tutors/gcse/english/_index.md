@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring for Cirencester Families"
-hero_lead: "Your child might read on the bus most mornings and still go blank when a Language paper asks how a writer builds tension. Our Cirencester GCSE English tutors help them turn what they notice into answers that earn marks."
+hero_lead: "Your child might read on the bus most mornings and still go blank when a Language paper asks how a writer builds tension. Our GCSE English tutors for Cirencester students help them turn what they notice into answers that earn marks."
 
 angle_eyebrow: "READING IT ISN'T WRITING ABOUT IT"
 angle_heading: "What GCSE English Asks of a Teenager Who Already Reads Plenty"

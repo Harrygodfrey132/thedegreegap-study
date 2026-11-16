@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Gerrards Cross Children Who've Decided They're Not a Maths Person"
-hero_lead: "Plenty of parents hear 'I'm just not a Maths person' after a bad test, and it's very rarely the whole story. Our Gerrards Cross GCSE Maths tutors go back to the method that first went wrong, often a bit of Year 8 algebra, and rebuild from there."
+hero_lead: "Plenty of parents hear 'I'm just not a Maths person' after a bad test, and it's very rarely the whole story. Our GCSE Maths tutors for Gerrards Cross students go back to the method that first went wrong, often a bit of Year 8 algebra, and rebuild from there."
 
 card_heading: "Tell us how your child feels about Maths right now"
 card_points:

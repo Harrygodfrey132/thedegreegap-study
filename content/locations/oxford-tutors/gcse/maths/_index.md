@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutoring for Oxford Families"
-hero_lead: "If your child has started saying they're just no good at Maths, it's usually one missing method talking, not their ability. Our Oxford GCSE Maths tutors work online and go looking for that method."
+hero_lead: "If your child has started saying they're just no good at Maths, it's usually one missing method talking, not their ability. Our GCSE Maths tutors for Oxford students work online and go looking for that method."
 
 angle_eyebrow: "NOT BAD AT MATHS, MISSING A METHOD"
 angle_heading: "When Your Child Decides They're Bad at Maths, the Paper Usually Says Otherwise"

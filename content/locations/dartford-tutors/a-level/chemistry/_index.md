@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for Dartford Students Who Took Combined Science at GCSE"
-hero_lead: "Combined Science covers less Chemistry than the separate GCSE, and Year 12 assumes the rest. Our Dartford A-Level Chemistry tutors find the gaps your child brought with them, usually moles and bonding, and close them before the new topics pile on."
+hero_lead: "Combined Science covers less Chemistry than the separate GCSE, and Year 12 assumes the rest. Our A-Level Chemistry tutors for Dartford students find the gaps your child brought with them, usually moles and bonding, and close them before the new topics pile on."
 
 angle_eyebrow: "FROM COMBINED TO A-LEVEL"
 angle_heading: "Why Year 12 Chemistry Feels Steep for Dartford Sixth Formers From Combined Science"

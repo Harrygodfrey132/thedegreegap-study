@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Epsom A-Level Tutors for When the Effort's There but the Marks Aren't"
 hero_heading_line2: ""
-hero_lead: "Hours of homework in Year 12, and the marks still aren't following, even after decent GCSEs. Our Epsom A-Level tutors find where the marks are slipping and fix the technique before the Year 12 mocks shape your child's prediction."
+hero_lead: "Hours of homework in Year 12, and the marks still aren't following, even after decent GCSEs. Our A-Level tutors for Epsom students find where the marks are slipping and fix the technique before the Year 12 mocks shape your child's prediction."
 
 grade_from: "C"
 grade_to: "A"

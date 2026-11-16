@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online One-to-One A-Level Biology Tutors for Watford Families"
-hero_lead: "Good GCSEs, then the first Year 12 Biology test comes back lower than anyone expected. Often it's the numbers in the cells unit. Our Watford A-Level Biology tutors work on magnification, microscopes and cell fractionation."
+hero_lead: "Good GCSEs, then the first Year 12 Biology test comes back lower than anyone expected. Often it's the numbers in the cells unit. Our A-Level Biology tutors for Watford students work on magnification, microscopes and cell fractionation."
 
 angle_eyebrow: "THE UNIT THAT SETS THE TONE"
 angle_heading: "Why the First Unit of Year 12 Biology Matters More Than It Looks"

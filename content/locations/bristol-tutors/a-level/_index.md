@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Bristol A-Level Tutors For the Predicted Grade an Offer Turns On"
 hero_heading_line2: ""
-hero_lead: "By the time most Bristol parents ring, the Year 12 mock has come back below the offer they'd hoped for. Nobody at home wants to mention it. Our Bristol A-Level tutors go through that paper with your child and work on what it shows, before predictions go to UCAS."
+hero_lead: "By the time most Bristol parents ring, the Year 12 mock has come back below the offer they'd hoped for. Nobody at home wants to mention it. Our A-Level tutors for Bristol students go through that paper with your child and work on what it shows, before predictions go to UCAS."
 
 grade_from: "C"
 grade_to: "A"

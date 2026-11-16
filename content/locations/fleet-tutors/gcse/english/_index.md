@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors Covering Fleet and Church Crookham"
-hero_lead: "Your child can whizz through a page of equations, then sit frozen over an English question about how a writer builds tension. Our Fleet GCSE English tutors give them a way into questions like that in one-to-one online lessons, so English stops feeling like guesswork."
+hero_lead: "Your child can whizz through a page of equations, then sit frozen over an English question about how a writer builds tension. Our GCSE English tutors for Fleet students give them a way into questions like that in one-to-one online lessons, so English stops feeling like guesswork."
 
 angle_eyebrow: "WHEN ENGLISH IS THE ODD ONE OUT"
 angle_heading: "Where a Fleet GCSE English Tutor Starts With a Child Who Thinks in Numbers"

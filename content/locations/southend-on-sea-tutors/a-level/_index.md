@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online A-Level Tutors Working With Southend-on-Sea Families on the Year 12 Slide"
 hero_heading_line2: ""
-hero_lead: "Nothing dramatic happened in Year 12. The report kept saying working hard, and then Year 13 opened on content that assumed the first year had landed. Our Southend-on-Sea A-Level tutors go back for the parts that did not, one-to-one and online over Lessonspace."
+hero_lead: "Nothing dramatic happened in Year 12. The report kept saying working hard, and then Year 13 opened on content that assumed the first year had landed. Our A-Level tutors for Southend-on-Sea students go back for the parts that did not, one-to-one and online over Lessonspace."
 
 grade_from: "C"
 grade_to: "A"

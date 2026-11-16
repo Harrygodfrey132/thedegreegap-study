@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Bishop's Stortford Families When Year 12 Stops Naming the Method"
-hero_lead: "New school at sixteen, new teachers, and a first Year 12 Maths test that's gone badly: it's a lot at once. Our Bishop's Stortford A-Level Maths tutors take your child through the questions that no longer say which method to use, in one-to-one lessons online."
+hero_lead: "New school at sixteen, new teachers, and a first Year 12 Maths test that's gone badly: it's a lot at once. Our A-Level Maths tutors for Bishop's Stortford students take your child through the questions that no longer say which method to use, in one-to-one lessons online."
 
 angle_eyebrow: "FIRST TERM, NEW CLASSROOM"
 angle_heading: "A New Sixth Form and a Harder Maths Paper, in the Same Term"

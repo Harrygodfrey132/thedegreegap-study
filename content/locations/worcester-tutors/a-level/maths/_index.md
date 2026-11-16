@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online Worcester A-Level Maths Tutors for Integration"
-hero_lead: "Some children never put a hand up in Maths, and integration is where that quietly costs them. Our Worcester A-Level Maths tutors concentrate on the parts around the calculus: finding the limits, sketching which curve is on top, and making sense of a negative area."
+hero_lead: "Some children never put a hand up in Maths, and integration is where that quietly costs them. Our A-Level Maths tutors for Worcester students concentrate on the parts around the calculus: finding the limits, sketching which curve is on top, and making sense of a negative area."
 
 angle_eyebrow: "WHY DID THE AREA COME OUT NEGATIVE?"
 angle_heading: "The Questions About Integration Your Child Might Not Be Asking"

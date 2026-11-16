@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors Covering Wilmslow, for Triple and Combined Science"
-hero_lead: "Half the working right and the answer still wrong? When a Chemistry test comes back like that, the problem's often the Maths rather than the science. Our Wilmslow GCSE Science tutors find which science is really losing marks, then start with the calculations and long answers that cost most."
+hero_lead: "Half the working right and the answer still wrong? When a Chemistry test comes back like that, the problem's often the Maths rather than the science. Our GCSE Science tutors for Wilmslow students find which science is really losing marks, then start with the calculations and long answers that cost most."
 
 card_heading: "Talk to Harry or Joe about your child's Science"
 card_points:

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Northampton Families"
-hero_lead: "Your child could be doing fine in Statistics and losing most of the Mechanics marks, and a single grade on the report hides that. Our Northampton A-Level Maths tutors find the weak part first and build the lessons around it, one-to-one and online."
+hero_lead: "Your child could be doing fine in Statistics and losing most of the Mechanics marks, and a single grade on the report hides that. Our A-Level Maths tutors for Northampton students find the weak part first and build the lessons around it, one-to-one and online."
 
 angle_eyebrow: "ONE SUBJECT, THREE DIFFERENT HABITS"
 angle_heading: "Which Part of A-Level Maths Is Really Costing Your Child Marks"

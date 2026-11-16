@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors, Matched for Winchester Families"
-hero_lead: "Your child's Biology folder usually ends with how plants respond to light and gravity. It's revised last, and that's where marks slip. Our Winchester A-Level Biology tutors work through IAA, the hormone behind it, and the classic experiments the questions use."
+hero_lead: "Your child's Biology folder usually ends with how plants respond to light and gravity. It's revised last, and that's where marks slip. Our A-Level Biology tutors for Winchester students work through IAA, the hormone behind it, and the classic experiments the questions use."
 
 angle_eyebrow: "THE TOPIC AT THE BACK OF THE FOLDER"
 angle_heading: "The Plant Biology That Gets Left Until Last"

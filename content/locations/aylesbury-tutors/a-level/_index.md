@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Aylesbury A-Level Tutors for When Year 12 Suddenly Goes Much Deeper"
 hero_heading_line2: ""
-hero_lead: "Your child's GCSEs went well, and now Year 12 tests are coming back lower than anything they've had before. Our Aylesbury A-Level tutors find the gap early, while it's still a small fix and long before it turns into a UCAS worry."
+hero_lead: "Your child's GCSEs went well, and now Year 12 tests are coming back lower than anything they've had before. Our A-Level tutors for Aylesbury students find the gap early, while it's still a small fix and long before it turns into a UCAS worry."
 
 grade_from: "C"
 grade_to: "A"

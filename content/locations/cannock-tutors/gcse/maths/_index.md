@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Cannock Students, Whichever Set They're In"
-hero_lead: "Your child comes home and mentions they're in set four for Maths, and you're left wondering what that means for the exam. Our Cannock GCSE Maths tutors find out which paper they're heading for, then close the gaps that decide it."
+hero_lead: "Your child comes home and mentions they're in set four for Maths, and you're left wondering what that means for the exam. Our GCSE Maths tutors for Cannock students find out which paper they're heading for, then close the gaps that decide it."
 
 angle_eyebrow: "SETS, TIERS AND THE PAPER YOUR CHILD SITS"
 angle_heading: "How a Year 10 Maths Set Becomes an Exam Paper for Cannock Students"

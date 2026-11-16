@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online Aldershot A-Level Maths Tutors for Mechanics and More"
-hero_lead: "A Mechanics question can look just like one your child has practised and still need a different method. Our Aldershot A-Level Maths tutors help them tell the difference, and fill in anything a change of school left out."
+hero_lead: "A Mechanics question can look just like one your child has practised and still need a different method. Our A-Level Maths tutors for Aldershot students help them tell the difference, and fill in anything a change of school left out."
 
 angle_eyebrow: "CONSTANT ACCELERATION, OR NOT?"
 angle_heading: "Why Your Child's Mechanics Can Look Right and Still Lose the Marks"

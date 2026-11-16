@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Watford A-Level Chemistry Tutoring Online, From Year 12"
-hero_lead: "Year 12 felt manageable. Then Year 13 piles new Chemistry on top, with every topic from both years examined at the end. Our Watford A-Level Chemistry tutors help your child get ahead of that squeeze, ideally while there's still room to."
+hero_lead: "Year 12 felt manageable. Then Year 13 piles new Chemistry on top, with every topic from both years examined at the end. Our A-Level Chemistry tutors for Watford students help your child get ahead of that squeeze, ideally while there's still room to."
 
 angle_eyebrow: "TWO YEARS OF CHEMISTRY, ONE SET OF EXAMS"
 angle_heading: "How a Chemistry Tutor Makes Room for Year 13 Before It Arrives"

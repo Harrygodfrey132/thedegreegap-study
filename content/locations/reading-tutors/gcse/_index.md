@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online GCSE Tutors in Reading for the Subject Your Child Has Started Avoiding"
 hero_heading_line2: ""
-hero_lead: "It tends to creep up. A subject your child used to like gets left till last, then skipped, and the mock mark drops with it. Our Reading GCSE tutors find what stopped making sense and rebuild it calmly, one-to-one, from there."
+hero_lead: "It tends to creep up. A subject your child used to like gets left till last, then skipped, and the mock mark drops with it. Our GCSE tutors for Reading students find what stopped making sense and rebuild it calmly, one-to-one, from there."
 
 grade_from: "5"
 grade_to: "6/7"

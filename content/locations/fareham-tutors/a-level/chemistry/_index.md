@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Fareham A-Level Chemistry Tutors, Working One-to-One Online"
-hero_lead: "If your child left a mock sure the acids question went well and it scored lowest, that's common. Our Fareham A-Level Chemistry tutors teach the question to ask before any numbers: what's actually in the flask?"
+hero_lead: "If your child left a mock sure the acids question went well and it scored lowest, that's common. Our A-Level Chemistry tutors for Fareham students teach the question to ask before any numbers: what's actually in the flask?"
 
 angle_eyebrow: "WHEN A CONFIDENT ANSWER COMES BACK WRONG"
 angle_heading: "The Acids Question Your Child Was Sure About"

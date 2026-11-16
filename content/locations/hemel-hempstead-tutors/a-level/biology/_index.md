@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Sixth Formers in Hemel Hempstead"
-hero_lead: "If your child knows the Biology but the long questions keep coming back with half marks, it's often because they start writing straight away. Our Hemel Hempstead A-Level Biology tutors work on the thirty seconds before the pen moves."
+hero_lead: "If your child knows the Biology but the long questions keep coming back with half marks, it's often because they start writing straight away. Our A-Level Biology tutors for Hemel Hempstead students work on the thirty seconds before the pen moves."
 
 angle_eyebrow: "THE THIRTY SECONDS BEFORE WRITING"
 angle_heading: "Why Your Child's Long Biology Answers Need a Plan First"

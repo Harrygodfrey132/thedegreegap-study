@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Stourbridge GCSE Tutors for the Subjects Closest to Going Up a Grade"
 hero_heading_line2: ""
-hero_lead: "When your child applies for sixth form, their GCSE grades can end up added together, not just checked for English and Maths. Our Stourbridge GCSE tutors find the subjects nearest the next grade, whatever grade your child is on now, and start there."
+hero_lead: "When your child applies for sixth form, their GCSE grades can end up added together, not just checked for English and Maths. Our GCSE tutors for Stourbridge students find the subjects nearest the next grade, whatever grade your child is on now, and start there."
 
 grade_from: "5"
 grade_to: "6/7"

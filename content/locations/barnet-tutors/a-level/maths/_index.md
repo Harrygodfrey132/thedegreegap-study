@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors in Barnet, Starting With the Part Your Child Avoids"
-hero_lead: "Most A-Level Maths revision goes on Pure, the algebra and calculus, but the grade often turns on Mechanics or Statistics. Our Barnet A-Level Maths tutors find the part your child's been quietly avoiding since September, and build the term around it. All one-to-one and online, using the platform Lessonspace."
+hero_lead: "Most A-Level Maths revision goes on Pure, the algebra and calculus, but the grade often turns on Mechanics or Statistics. Our A-Level Maths tutors for Barnet students find the part your child's been quietly avoiding since September, and build the term around it. All one-to-one and online, using the platform Lessonspace."
 
 angle_eyebrow: "PURE ISN'T THE WHOLE PAPER"
 angle_heading: "What Decides the Grade While Your Child Revises Pure"

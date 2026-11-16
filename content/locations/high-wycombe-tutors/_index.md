@@ -4,7 +4,7 @@ description: "Year 12 harder than anyone expected? Online High Wycombe tutoring 
 layout: single
 location: High Wycombe
 banner_heading: "High Wycombe Online Tutors for the GCSE-to-A-Level Jump, and the 11+ Before It"
-banner_description: "Year 11 went fine, but Year 12 is a struggle? You're not the only family. Our High Wycombe tutors help with the step up, one-to-one and online."
+banner_description: "Year 11 went fine, but Year 12 is a struggle? You're not the only family. Our tutors for High Wycombe families help with the step up, one-to-one and online."
 content_angle: "the GCSE-to-A-Level jump: the Year 12 who's working harder than ever and getting less for it, at whichever High Wycombe sixth form, with 11+ help for younger brothers and sisters as a second thread"
 intro_1: "Nobody really warns you about Year 12. Your child comes through GCSEs, starts sixth form in September, and by the first round of assessments something has gone wrong. The kind of essay that did well last year comes back with 'describe less, analyse more' in the margin. Maths homework takes three hours. They're working harder than they ever have and getting less for it, and they're not used to that feeling at all. It's not much fun to watch, either."
 intro_2: "It's the same story at the Royal Grammar School, John Hampden, Wycombe High or anywhere else. The jump is built into the subjects themselves. A tutor who knows your child's A-Level papers can show them what the extra marks are actually for. To start, you'll have a free call with Harry or Joe, our co-founders, who both had A-Level tutoring themselves. Within 24 hours you'll have two or three tutor profiles. Your child talks to the one they prefer on a free video meeting before you commit to anything."

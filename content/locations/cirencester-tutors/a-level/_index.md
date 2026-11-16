@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Cirencester A-Level Tutors for the Subject Your Child Didn't Expect to Find Hard"
 hero_heading_line2: ""
-hero_lead: "One subject that seemed fine at GCSE has started slipping, and with the college bus and a Saturday job, there's no obvious time to fix it. Our Cirencester A-Level tutors give it one fixed hour a week, starting from your child's last marked work."
+hero_lead: "One subject that seemed fine at GCSE has started slipping, and with the college bus and a Saturday job, there's no obvious time to fix it. Our A-Level tutors for Cirencester students give it one fixed hour a week, starting from your child's last marked work."
 
 grade_from: "E"
 grade_to: "B"

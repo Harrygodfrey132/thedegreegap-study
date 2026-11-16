@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Families Across London"
-hero_lead: "A question opens with a paragraph about a cup of tea cooling down, and your child, who's fine with calculus, doesn't know where to begin. Our London A-Level Maths tutors practise turning those words into an equation, and the answer back into a sentence."
+hero_lead: "A question opens with a paragraph about a cup of tea cooling down, and your child, who's fine with calculus, doesn't know where to begin. Our A-Level Maths tutors for London students practise turning those words into an equation, and the answer back into a sentence."
 
 angle_eyebrow: "WHEN THE MATHS ARRIVES AS WORDS"
 angle_heading: "Why a London Sixth Former Can Do the Maths and Still Lose Marks"

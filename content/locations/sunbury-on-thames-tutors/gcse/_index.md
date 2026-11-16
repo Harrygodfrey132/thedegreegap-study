@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online GCSE Tutors in Sunbury-on-Thames for the Question Your Child Didn't Want to Ask"
 hero_heading_line2: ""
-hero_lead: "Most children won't say 'I don't get it' with the whole class listening. So the question goes unasked, and the next topic arrives before the last one's made sense. Our Sunbury-on-Thames GCSE tutors offer an hour where asking costs your child nothing."
+hero_lead: "Most children won't say 'I don't get it' with the whole class listening. So the question goes unasked, and the next topic arrives before the last one's made sense. Our GCSE tutors for Sunbury-on-Thames students offer an hour where asking costs your child nothing."
 
 grade_from: "5"
 grade_to: "6/7"

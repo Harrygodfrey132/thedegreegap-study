@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors Covering Sunbury-on-Thames"
-hero_lead: "Maths was always your child's easy subject, so a disappointing GCSE mock can come as a real shock. Our Sunbury-on-Thames GCSE Maths tutors slow things down, one-to-one online, and build the reasoning under the quick answers."
+hero_lead: "Maths was always your child's easy subject, so a disappointing GCSE mock can come as a real shock. Our GCSE Maths tutors for Sunbury-on-Thames students slow things down, one-to-one online, and build the reasoning under the quick answers."
 
 angle_eyebrow: "QUICK ISN'T THE SAME AS SECURE"
 angle_heading: "When the Child Who Was Always Good at Maths Starts to Struggle"

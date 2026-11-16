@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Exeter GCSE Tutors for the Gap Between the Mock and the Entry Grade"
 hero_heading_line2: ""
-hero_lead: "You've probably looked up what your child's college course asks for, and held the mock up against it. One grade short can feel like a long way. Our Exeter GCSE tutors treat it as a handful of question types, worked on one at a time."
+hero_lead: "You've probably looked up what your child's college course asks for, and held the mock up against it. One grade short can feel like a long way. Our GCSE tutors for Exeter students treat it as a handful of question types, worked on one at a time."
 
 grade_from: "5"
 grade_to: "6/7"

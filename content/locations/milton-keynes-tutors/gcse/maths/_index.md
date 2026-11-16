@@ -7,7 +7,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors Covering Milton Keynes, When the 5 Needs to Be a 7"
-hero_lead: "The call we get most often from Milton Keynes is about a Year 11 who's tracking a 5 when everyone hoped for a 7. Our Milton Keynes GCSE Maths tutors find which parts of the paper that gap is sitting in, because it's rarely spread across the whole subject."
+hero_lead: "The call we get most often from Milton Keynes is about a Year 11 who's tracking a 5 when everyone hoped for a 7. Our GCSE Maths tutors for Milton Keynes students find which parts of the paper that gap is sitting in, because it's rarely spread across the whole subject."
 
 angle_eyebrow: "WHERE THE MARKS GO IN A MILTON KEYNES MOCK"
 angle_heading: "The Handful of Question Types That Decide Your Child's Grade"

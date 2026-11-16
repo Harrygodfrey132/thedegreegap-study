@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online A-Level Tutors in Weybridge for When a New Sixth Form Knocks the Grades"
 hero_heading_line2: ""
-hero_lead: "A new sixth form, maybe a new exam board, and the first term of Year 12 has run away from your child. It happens a lot. Our Weybridge A-Level tutors work one-to-one online to steady the subject that slipped, before predicted grades are written."
+hero_lead: "A new sixth form, maybe a new exam board, and the first term of Year 12 has run away from your child. It happens a lot. Our A-Level tutors for Weybridge students work one-to-one online to steady the subject that slipped, before predicted grades are written."
 
 grade_from: "E/U"
 grade_to: "C"

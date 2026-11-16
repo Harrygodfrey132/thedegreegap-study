@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for High-Aiming Chesham Families"
-hero_lead: "Often it's one stubborn habit that costs a bright child marks: turning radians back into degrees. Our Chesham A-Level Maths tutors help your child think in radians, so arc length, sector area and the small angle approximations stop catching them out."
+hero_lead: "Often it's one stubborn habit that costs a bright child marks: turning radians back into degrees. Our A-Level Maths tutors for Chesham students help your child think in radians, so arc length, sector area and the small angle approximations stop catching them out."
 
 angle_eyebrow: "THE CALCULATOR WAS IN DEGREES"
 angle_heading: "Why Radians Cost Bright Chesham Sixth Formers More Than They Should"

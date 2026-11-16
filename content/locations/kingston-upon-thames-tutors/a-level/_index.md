@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Kingston upon Thames A-Level Tutors for Effort That Isn't Showing in the Grades"
 hero_heading_line2: ""
-hero_lead: "Your child works hard and keeps up in class, yet the timed tests keep coming back with middling results. Our Kingston upon Thames A-Level tutors mark some of their work every week, so you'll know which questions are costing marks before UCAS predictions are written."
+hero_lead: "Your child works hard and keeps up in class, yet the timed tests keep coming back with middling results. Our A-Level tutors for Kingston upon Thames students mark some of their work every week, so you'll know which questions are costing marks before UCAS predictions are written."
 
 grade_from: "C"
 grade_to: "A"

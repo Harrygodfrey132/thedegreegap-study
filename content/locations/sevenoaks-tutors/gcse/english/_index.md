@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Sevenoaks Families, Focused on the Writing"
-hero_lead: "It's hard to watch. Your child reads everything, understands all of it, and still loses marks on the essay. Our Sevenoaks GCSE English tutors work online, one-to-one, on the kind of writing the mark scheme rewards, because the reading was never the problem."
+hero_lead: "It's hard to watch. Your child reads everything, understands all of it, and still loses marks on the essay. Our GCSE English tutors for Sevenoaks students work online, one-to-one, on the kind of writing the mark scheme rewards, because the reading was never the problem."
 
 angle_eyebrow: "KNOWING THE BOOK ISN'T THE SAME AS SCORING ON IT"
 angle_heading: "Where GCSE English Marks Are Won and Quietly Lost"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutoring in High Wycombe, From Setting Up to Solving"
-hero_lead: "Your child can do the calculus and still lose the differential equations question, because it's two skills in one. Our High Wycombe A-Level Maths tutors work on the join: turning words into an equation, then solving it."
+hero_lead: "Your child can do the calculus and still lose the differential equations question, because it's two skills in one. Our A-Level Maths tutors for High Wycombe students work on the join: turning words into an equation, then solving it."
 
 angle_eyebrow: "TWO SKILLS IN ONE QUESTION"
 angle_heading: "Where Your Child's Differential Equation Marks Actually Go"

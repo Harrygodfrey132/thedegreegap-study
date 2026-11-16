@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Stockport, When the Mock Comes Back as Two Grades"
-hero_lead: "Combined Science shows up on your child's results as two GCSEs, but both come from one total across all the papers, so one weak paper pulls down the pair. Our Stockport GCSE Science tutors find that paper first, in one-to-one lessons online, before it costs both grades."
+hero_lead: "Combined Science shows up on your child's results as two GCSEs, but both come from one total across all the papers, so one weak paper pulls down the pair. Our GCSE Science tutors for Stockport students find that paper first, in one-to-one lessons online, before it costs both grades."
 
 angle_eyebrow: "TWO GRADES, ONE TOTAL"
 angle_heading: "Why One Weak Science Paper Costs Two Grades on a Stockport Application"

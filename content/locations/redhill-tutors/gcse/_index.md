@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online GCSE Tutors for Redhill Families Who Feel They've Left It Late"
 hero_heading_line2: ""
-hero_lead: "Lots of parents ring us in Year 11 wishing they'd started a year earlier, and the worry is usually bigger than the gap. Our Redhill GCSE tutors spend the months that are left on the subject sitting closest to the grade your child needs."
+hero_lead: "Lots of parents ring us in Year 11 wishing they'd started a year earlier, and the worry is usually bigger than the gap. Our GCSE tutors for Redhill students spend the months that are left on the subject sitting closest to the grade your child needs."
 
 grade_from: "4-5"
 grade_to: "8"

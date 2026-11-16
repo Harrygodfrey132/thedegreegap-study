@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Reading Families, Matched to Your Child's Set Texts"
-hero_lead: "Two teenagers in Reading can both be taking GCSE English Literature and sit very different exams. So our Reading GCSE English tutors are matched to your child's actual texts and exam board, not just the name of the subject."
+hero_lead: "Two teenagers in Reading can both be taking GCSE English Literature and sit very different exams. So our GCSE English tutors for Reading students are matched to your child's actual texts and exam board, not just the name of the subject."
 
 angle_eyebrow: "SAME SUBJECT, DIFFERENT EXAM"
 angle_heading: "Why the Set Texts Decide More Than the Subject Name Does"

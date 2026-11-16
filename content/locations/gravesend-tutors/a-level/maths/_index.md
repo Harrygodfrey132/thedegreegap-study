@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Gravesend Students Who Follow the Lesson but Not the Homework"
-hero_lead: "Your child nods along in class, then sits down with the homework and can't see where to begin. Our Gravesend A-Level Maths tutors go back to the step that's missing, often a piece of GCSE algebra, and build from there."
+hero_lead: "Your child nods along in class, then sits down with the homework and can't see where to begin. Our A-Level Maths tutors for Gravesend students go back to the step that's missing, often a piece of GCSE algebra, and build from there."
 
 angle_eyebrow: "FINE IN CLASS, STUCK AT HOME"
 angle_heading: "Why Gravesend Sixth Formers Hit a Wall With A-Level Maths Homework"

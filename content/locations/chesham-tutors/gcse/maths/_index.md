@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Chesham Children, at Grammar or Upper School"
-hero_lead: "Most Chesham parents who ring us about Maths have already had the chat where their child insists the lesson made sense at the time. It probably did. Our Chesham GCSE Maths tutors find the question where it stopped making sense, and start there."
+hero_lead: "Most Chesham parents who ring us about Maths have already had the chat where their child insists the lesson made sense at the time. It probably did. Our GCSE Maths tutors for Chesham students find the question where it stopped making sense, and start there."
 
 angle_eyebrow: "SAME PAPER IN MAY, WHICHEVER SCHOOL"
 angle_heading: "Grammar or Upper School, the Marks Go Missing in the Same Four Places"

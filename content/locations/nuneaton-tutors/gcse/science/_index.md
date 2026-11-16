@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Nuneaton Teenagers Tripped Up by the Maths in Science"
-hero_lead: "Your child can explain photosynthesis, then a question asks them to rearrange an equation or read a graph and the marks disappear. Our Nuneaton GCSE Science tutors work through the calculations and practical questions until your child stops guessing at them."
+hero_lead: "Your child can explain photosynthesis, then a question asks them to rearrange an equation or read a graph and the marks disappear. Our GCSE Science tutors for Nuneaton students work through the calculations and practical questions until your child stops guessing at them."
 
 angle_eyebrow: "TWO GRADES, NOT ONE"
 angle_heading: "What Nuneaton Students Need From GCSE Science Before They Apply at 16"

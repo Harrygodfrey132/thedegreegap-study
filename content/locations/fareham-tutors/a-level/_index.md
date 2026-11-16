@@ -6,7 +6,7 @@ location: "Fareham"
 level: "A-Level"
 
 hero_heading_line1: "Online Fareham A-Level Tutors for a Predicted Grade That's Not There Yet"
-hero_lead: "The predicted grade came home lower than the course asks for, and your child says they'll sort it. Online and one-to-one, our Fareham A-Level tutors work on the tests and essays that prediction is drawn from."
+hero_lead: "The predicted grade came home lower than the course asks for, and your child says they'll sort it. Online and one-to-one, our A-Level tutors for Fareham students work on the tests and essays that prediction is drawn from."
 
 grade_from: "C"
 grade_to: "A"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Wigan, Standish and Leigh"
-hero_lead: "A 7 in GCSE Biology, then a D on the first Year 12 test. It's one of the calls we hear most from Wigan parents, and it's hardly ever about effort. Our Wigan A-Level Biology tutors work out what changed, and start there."
+hero_lead: "A 7 in GCSE Biology, then a D on the first Year 12 test. It's one of the calls we hear most from Wigan parents, and it's hardly ever about effort. Our A-Level Biology tutors for Wigan students work out what changed, and start there."
 
 angle_eyebrow: "WHEN A GOOD GCSE STOPS BEING ENOUGH"
 angle_heading: "Why a Strong GCSE in Biology Can Become a D in Year 12"

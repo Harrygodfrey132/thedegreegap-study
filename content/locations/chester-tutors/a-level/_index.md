@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Chester A-Level Tutors for a Worrying Mock in the Run-Up to UCAS"
 hero_heading_line2: ""
-hero_lead: "The mock didn't go well, and the tips from your child's friends don't quite fit. Round Chester that's common, because they're not all on the same courses. Our Chester A-Level tutors start from the exact course your child's on, one-to-one and online."
+hero_lead: "The mock didn't go well, and the tips from your child's friends don't quite fit. Round Chester that's common, because they're not all on the same courses. Our A-Level tutors for Chester students start from the exact course your child's on, one-to-one and online."
 
 grade_from: "C"
 grade_to: "A"

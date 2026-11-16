@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online One-to-One A-Level Maths Tutoring for Stevenage"
-hero_lead: "What looks like a Year 12 Maths problem very often started at GCSE. Our Stevenage A-Level Maths tutors trace it back, usually to algebra that was never quite secure, and rebuild it one-to-one online, while your child keeps up with this term's topics."
+hero_lead: "What looks like a Year 12 Maths problem very often started at GCSE. Our A-Level Maths tutors for Stevenage students trace it back, usually to algebra that was never quite secure, and rebuild it one-to-one online, while your child keeps up with this term's topics."
 
 angle_eyebrow: "WHEN GCSE ALGEBRA COMES BACK"
 angle_heading: "Why Year 12 Maths Trouble in Stevenage So Often Starts at GCSE"

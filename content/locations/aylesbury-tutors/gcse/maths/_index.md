@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Aylesbury Families Who Need More Than a 6"
-hero_lead: "Your child's on a steady 6 in Maths, and it's still short of the sixth-form course they've set their heart on. That's common in Buckinghamshire. Our Aylesbury GCSE Maths tutors find the few question types sitting between that 6 and a clean 8."
+hero_lead: "Your child's on a steady 6 in Maths, and it's still short of the sixth-form course they've set their heart on. That's common in Buckinghamshire. Our GCSE Maths tutors for Aylesbury students find the few question types sitting between that 6 and a clean 8."
 
 angle_eyebrow: "WHAT THE TOP OF THE HIGHER PAPER ASKS FOR"
 angle_heading: "Where the Marks Between a 6 and an 8 Are Hiding"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors in Bath for Essays Full of Techniques but No Argument"
-hero_lead: "Your child's essay names a metaphor, a simile and a semicolon, and the mark scheme is still waiting for a point about what the writer wants. Our Bath GCSE English tutors build that argument with your child, one-to-one and online, before the next timed essay."
+hero_lead: "Your child's essay names a metaphor, a simile and a semicolon, and the mark scheme is still waiting for a point about what the writer wants. Our GCSE English tutors for Bath students build that argument with your child, one-to-one and online, before the next timed essay."
 
 angle_eyebrow: "A TECHNIQUE SPOTTED ISN'T AN ARGUMENT"
 angle_heading: "Why an Essay That Spots Everything Can Still Score in the Middle"

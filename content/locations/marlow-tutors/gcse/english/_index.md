@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring in Marlow for the Child Whose Best Ideas Arrive After the Clock Stops"
-hero_lead: "If your child knows the books but the essays keep coming home half finished, they're far from the only one. Our Marlow GCSE English tutors work one-to-one online on getting a clear argument onto the page in time, using the texts their school actually sets."
+hero_lead: "If your child knows the books but the essays keep coming home half finished, they're far from the only one. Our GCSE English tutors for Marlow students work one-to-one online on getting a clear argument onto the page in time, using the texts their school actually sets."
 
 angle_eyebrow: "UNDERSTOOD IN CLASS, LOST ON THE PAPER"
 angle_heading: "Where a Marlow Teenager's GCSE English Marks Tend to Go Missing"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for Your Child in Harrogate"
-hero_lead: "It's a line lots of parents hear over a marked Chemistry paper: 'But that's what I meant.' Our Harrogate A-Level Chemistry tutors help your child say it in the words the mark scheme actually pays for."
+hero_lead: "It's a line lots of parents hear over a marked Chemistry paper: 'But that's what I meant.' Our A-Level Chemistry tutors for Harrogate students help your child say it in the words the mark scheme actually pays for."
 
 angle_eyebrow: "THE MARK IS IN THE WORDING"
 angle_heading: "When Your Child Knows the Chemistry but the Mark Scheme Disagrees"

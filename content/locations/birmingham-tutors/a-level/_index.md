@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Birmingham A-Level Tutors for When Year 12 Stops Going to Plan"
 hero_heading_line2: ""
-hero_lead: "The end-of-Year-12 exams are back, and your child's grades have come in lower than hoped. That's often the point families first call us. Our Birmingham A-Level tutors find the marks that went missing and work on them before predictions go out."
+hero_lead: "The end-of-Year-12 exams are back, and your child's grades have come in lower than hoped. That's often the point families first call us. Our A-Level tutors for Birmingham students find the marks that went missing and work on them before predictions go out."
 
 grade_from: "E"
 grade_to: "C"

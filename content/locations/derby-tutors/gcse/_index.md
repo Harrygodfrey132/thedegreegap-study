@@ -6,7 +6,7 @@ location: Derby
 level: GCSE
 hero_heading_line1: "Online Derby GCSE Tutors Who Catch the Gaps a Busy Classroom Can Miss"
 hero_heading_line2: ""
-hero_lead: "The Year 11 mocks came back well below what school predicted, and your child can't really say why. Our Derby GCSE tutors trace the gap back to where it started, then work on exam technique before the next round."
+hero_lead: "The Year 11 mocks came back well below what school predicted, and your child can't really say why. Our GCSE tutors for Derby students trace the gap back to where it started, then work on exam technique before the next round."
 grade_from: E
 grade_to: B
 grade_stat: "Keira says tutoring 'definitely helped' her climb from an E to a B."

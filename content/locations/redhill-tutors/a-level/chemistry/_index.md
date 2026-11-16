@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for Redhill Students Caught Out by Year 12 Moles"
-hero_lead: "The mole calculations that felt easy at GCSE come back in Year 12 with titrations, gas volumes and three steps instead of one. Our Redhill A-Level Chemistry tutors put the calculations right first, because so much of the course leans on them."
+hero_lead: "The mole calculations that felt easy at GCSE come back in Year 12 with titrations, gas volumes and three steps instead of one. Our A-Level Chemistry tutors for Redhill students put the calculations right first, because so much of the course leans on them."
 
 angle_eyebrow: "A CALCULATION INSIDE EVERY TOPIC"
 angle_heading: "Why A-Level Chemistry Calculations Go Wrong for So Many Redhill Year 12s"

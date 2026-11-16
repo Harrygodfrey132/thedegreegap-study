@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Birmingham, Matched to Your Child's Exam Board"
-hero_lead: "If your child's Maths grade has been drifting down since Year 10, it often goes back to a Year 8 or 9 method that never quite set. Our Birmingham GCSE Maths tutors find it in the first lesson and rebuild it, before the mock that sets the predicted grade."
+hero_lead: "If your child's Maths grade has been drifting down since Year 10, it often goes back to a Year 8 or 9 method that never quite set. Our GCSE Maths tutors for Birmingham students find it in the first lesson and rebuild it, before the mock that sets the predicted grade."
 
 angle_eyebrow: "WHERE THE GCSE MATHS MARKS GO IN BIRMINGHAM"
 angle_heading: "Tracing Your Child's Lost Maths Marks Back to Where They Started"

@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online GCSE Tutors for Beaconsfield Families, Whichever School Your Child Ended Up At"
 hero_heading_line2: ""
-hero_lead: "If your child's putting the hours in and the mock grades still aren't moving, you're far from the only family in town feeling it. An hour a week with one of our Beaconsfield GCSE tutors goes on the exact topics where your child's losing marks, one-to-one and online."
+hero_lead: "If your child's putting the hours in and the mock grades still aren't moving, you're far from the only family in town feeling it. An hour a week with one of our GCSE tutors for Beaconsfield students goes on the exact topics where your child's losing marks, one-to-one and online."
 
 grade_from: "E"
 grade_to: "B"

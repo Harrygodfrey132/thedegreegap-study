@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Fleet A-Level Tutors for the First Term at a New College"
 hero_heading_line2: ""
-hero_lead: "Your child has swapped a school they knew for a college where they hardly know anyone, and the work has jumped a level at the same time. Our Fleet A-Level tutors start with the subject that's slipping, one-to-one and online, before it drags the others down."
+hero_lead: "Your child has swapped a school they knew for a college where they hardly know anyone, and the work has jumped a level at the same time. Our A-Level tutors for Fleet students start with the subject that's slipping, one-to-one and online, before it drags the others down."
 
 grade_from: "C"
 grade_to: "A"

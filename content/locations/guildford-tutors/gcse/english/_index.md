@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors in Guildford, With Every Essay Properly Marked"
-hero_lead: "If your child's English essays come back with a grade and one line of comment, it's hard to know what to do next. Our Guildford GCSE English tutors mark every piece properly, sentence by sentence, so your child can see exactly what to change."
+hero_lead: "If your child's English essays come back with a grade and one line of comment, it's hard to know what to do next. Our GCSE English tutors for Guildford students mark every piece properly, sentence by sentence, so your child can see exactly what to change."
 
 angle_eyebrow: "ENGLISH NEEDS MARKING MORE THAN LESSONS"
 angle_heading: "Why Your Child's English Grade Moves When the Writing Gets Marked Properly"

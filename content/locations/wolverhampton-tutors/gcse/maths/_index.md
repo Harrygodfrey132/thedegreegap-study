@@ -7,7 +7,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutoring for Wolverhampton, Bilston and Tettenhall"
-hero_lead: "Lots of Wolverhampton parents we talk to hope their child will be the first in the family at university, and Maths is the subject that most often gets in the way. Our Wolverhampton GCSE Maths tutors work on the questions costing the grade, not the whole syllabus."
+hero_lead: "Lots of Wolverhampton parents we talk to hope their child will be the first in the family at university, and Maths is the subject that most often gets in the way. Our GCSE Maths tutors for Wolverhampton students work on the questions costing the grade, not the whole syllabus."
 
 angle_eyebrow: "WHERE A WOLVERHAMPTON MATHS GRADE GOES"
 angle_heading: "The Few Question Types That Decide It"

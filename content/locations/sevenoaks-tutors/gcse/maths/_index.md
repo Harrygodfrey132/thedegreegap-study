@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Sevenoaks, Back to Where the Gap Began"
-hero_lead: "Careless mistakes, says the report, again. But in Maths, a Year 8 topic that never landed still costs marks in Year 11, and it can look a lot like carelessness. Our Sevenoaks GCSE Maths tutors find where the thread broke and rebuild it."
+hero_lead: "Careless mistakes, says the report, again. But in Maths, a Year 8 topic that never landed still costs marks in Year 11, and it can look a lot like carelessness. Our GCSE Maths tutors for Sevenoaks students find where the thread broke and rebuild it."
 
 angle_eyebrow: "THE THREAD THAT BROKE EARLIER"
 angle_heading: "Why Maths Marks Go Missing in the Same Few Places"

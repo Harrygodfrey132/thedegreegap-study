@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Southampton GCSE Tutors for When a College Place Hangs on One Subject"
 hero_heading_line2: ""
-hero_lead: "The March mocks have a way of becoming the predicted grade a sixth-form college sees, and your child's place can come down to a single subject. Our Southampton GCSE tutors find where the marks are slipping away and sort out the method before March."
+hero_lead: "The March mocks have a way of becoming the predicted grade a sixth-form college sees, and your child's place can come down to a single subject. Our GCSE tutors for Southampton students find where the marks are slipping away and sort out the method before March."
 
 grade_from: "E"
 grade_to: "B"

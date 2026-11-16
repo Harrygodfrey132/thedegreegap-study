@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online GCSE Tutors for Bradford Year 10s Still Carrying a Year 8 Gap"
 hero_heading_line2: ""
-hero_lead: "The report says work harder. A marked paper usually says something more useful than that. Our Bradford GCSE tutors read the script rather than the report, then rebuild from the topic the mistakes point at. Every session is one-to-one and online over Lessonspace."
+hero_lead: "The report says work harder. A marked paper usually says something more useful than that. Our GCSE tutors for Bradford students read the script rather than the report, then rebuild from the topic the mistakes point at. Every session is one-to-one and online over Lessonspace."
 
 grade_from: "E"
 grade_to: "B"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors Helping Watford Year 12s"
-hero_lead: "Keeping up and being secure look the same in Year 12 Maths, right up until a test mixes two topics together. Our Watford A-Level Maths tutors find out early which it is for your child, often in the first lesson."
+hero_lead: "Keeping up and being secure look the same in Year 12 Maths, right up until a test mixes two topics together. Our A-Level Maths tutors for Watford students find out early which it is for your child, often in the first lesson."
 
 angle_eyebrow: "WHEN TWO TOPICS END UP IN ONE QUESTION"
 angle_heading: "Why a Steady Watford Year 12 Can Suddenly Wobble in Maths"

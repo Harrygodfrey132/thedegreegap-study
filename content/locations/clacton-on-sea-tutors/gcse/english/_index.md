@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Clacton-on-Sea Teenagers Stuck on the Reading Questions"
-hero_lead: "Your child reads the extract, understands it, then writes three lines and stops, or retells the story instead of saying how it's written. Our Clacton-on-Sea GCSE English tutors teach them what each reading question wants, and how much is enough."
+hero_lead: "Your child reads the extract, understands it, then writes three lines and stops, or retells the story instead of saying how it's written. Our GCSE English tutors for Clacton-on-Sea students teach them what each reading question wants, and how much is enough."
 
 angle_eyebrow: "WHAT THE READING QUESTIONS WANT"
 angle_heading: "The Reading Questions Where Clacton-on-Sea Teenagers Drop GCSE English Marks"

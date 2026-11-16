@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Wilmslow GCSE Tutors for the Quiet Child in the Middle of the Set"
 hero_heading_line2: ""
-hero_lead: "The homework gets done and the reports sound fine, but the mock grade still hasn't moved. Our Wilmslow GCSE tutors give your child an hour a week of their own, starting with the topics that are costing them marks."
+hero_lead: "The homework gets done and the reports sound fine, but the mock grade still hasn't moved. Our GCSE tutors for Wilmslow students give your child an hour a week of their own, starting with the topics that are costing them marks."
 
 grade_from: "5"
 grade_to: "6/7"

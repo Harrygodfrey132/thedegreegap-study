@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Esher A-Level Tutors for Year 12s Getting Used to New Teachers"
 hero_heading_line2: ""
-hero_lead: "Suddenly there are gaps in the timetable, and the work moves faster than GCSE ever did. Plenty of Year 12s find that first term harder than they expected, and our Esher A-Level tutors help your child settle in, one-to-one online."
+hero_lead: "Suddenly there are gaps in the timetable, and the work moves faster than GCSE ever did. Plenty of Year 12s find that first term harder than they expected, and our A-Level tutors for Esher students help your child settle in, one-to-one online."
 
 grade_from: "E"
 grade_to: "C"

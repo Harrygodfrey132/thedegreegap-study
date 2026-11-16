@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Bracknell Students Finding the GCSE Methods Aren't Enough"
-hero_lead: "At GCSE, a Maths question usually tells your child which method to use. At A-Level it rarely does. Our Bracknell A-Level Maths tutors rebuild the algebra underneath and teach your child how to start a question that doesn't announce itself."
+hero_lead: "At GCSE, a Maths question usually tells your child which method to use. At A-Level it rarely does. Our A-Level Maths tutors for Bracknell students rebuild the algebra underneath and teach your child how to start a question that doesn't announce itself."
 
 angle_eyebrow: "WHEN THE QUESTION STOPS GIVING HINTS"
 angle_heading: "What an A-Level Maths Tutor Rebuilds for Bracknell Year 12s"

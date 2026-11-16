@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Canterbury GCSE Tutors Who Find the Year 8 Gap Before Mocks Land"
 hero_heading_line2: ""
-hero_lead: "Homework seems fine, then your child freezes on the mock paper. Usually it goes back to a Year 8 or 9 topic nobody had time to go over again. Our Canterbury GCSE tutors find it in the first lesson and build up from there."
+hero_lead: "Homework seems fine, then your child freezes on the mock paper. Usually it goes back to a Year 8 or 9 topic nobody had time to go over again. Our GCSE tutors for Canterbury students find it in the first lesson and build up from there."
 
 grade_from: "E"
 grade_to: "B"

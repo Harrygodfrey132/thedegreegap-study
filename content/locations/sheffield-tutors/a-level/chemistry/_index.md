@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for Sheffield Sixth Formers"
-hero_lead: "If your child is counting on Chemistry for Medicine, Pharmacy or engineering, a slipping grade is a real worry. Our Sheffield A-Level Chemistry tutors find which marks are going, often mechanisms or long calculations, and start there, one-to-one and online."
+hero_lead: "If your child is counting on Chemistry for Medicine, Pharmacy or engineering, a slipping grade is a real worry. Our A-Level Chemistry tutors for Sheffield students find which marks are going, often mechanisms or long calculations, and start there, one-to-one and online."
 
 angle_eyebrow: "WHY A CHEMISTRY SLIP FEELS BIGGER"
 angle_heading: "Chemistry Keeps a Lot of Doors Open, So It's Worth Getting Right"

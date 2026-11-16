@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Beverley Families Facing the Year 12 Step"
-hero_lead: "Every A-Level Maths course includes pure, mechanics and statistics, and it's common for a teenager to steer round one of them. Our Beverley A-Level Maths tutors work out which strand that is and start there."
+hero_lead: "Every A-Level Maths course includes pure, mechanics and statistics, and it's common for a teenager to steer round one of them. Our A-Level Maths tutors for Beverley students work out which strand that is and start there."
 
 card_eyebrow: "THE FIRST STEP IS FREE"
 card_heading: "Talk to us about Year 12 Maths"

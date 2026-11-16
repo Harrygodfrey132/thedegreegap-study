@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Your Child in Knutsford"
-hero_lead: "Biology's fine, Physics is holding up, and Chemistry keeps dragging your child's whole Science grade down. Our Knutsford GCSE Science tutors work out which of the three is costing marks and start there, one-to-one and online."
+hero_lead: "Biology's fine, Physics is holding up, and Chemistry keeps dragging your child's whole Science grade down. Our GCSE Science tutors for Knutsford students work out which of the three is costing marks and start there, one-to-one and online."
 
 card_heading: "Talk your child's Science through with us"
 card_points:

@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Guildford A-Level Tutors for When the Mock Grade Lands Below the Offer"
 hero_heading_line2: ""
-hero_lead: "The mock comes home a grade below the offer your child's hoping for, and you can't tell if it's a blip or a warning. Our Guildford A-Level tutors find the marks left on that paper and work on them before the prediction's set."
+hero_lead: "The mock comes home a grade below the offer your child's hoping for, and you can't tell if it's a blip or a warning. Our A-Level tutors for Guildford students find the marks left on that paper and work on them before the prediction's set."
 
 grade_from: "C"
 grade_to: "A"

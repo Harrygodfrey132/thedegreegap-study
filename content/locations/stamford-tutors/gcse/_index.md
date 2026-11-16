@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Stamford GCSE Tutors for a Predicted Grade That Feels Too Low"
 hero_heading_line2: ""
-hero_lead: "Predicted grades lower than anyone hoped can make for a quiet drive home from parents' evening, whether that's across Stamford or back from Bourne or Deeping. Our Stamford GCSE tutors start with the mock behind those grades, one-to-one online, and work on the topics costing the most marks."
+hero_lead: "Predicted grades lower than anyone hoped can make for a quiet drive home from parents' evening, whether that's across Stamford or back from Bourne or Deeping. Our GCSE tutors for Stamford students start with the mock behind those grades, one-to-one online, and work on the topics costing the most marks."
 
 grade_from: "4-5"
 grade_to: "8"

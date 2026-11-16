@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Bracknell GCSE Tutors for Predicted Grades That Count Earlier Than You'd Think"
 hero_heading_line2: ""
-hero_lead: "Most parents picture GCSEs being settled in the summer of Year 11, but sixth form applications here go in months before, with a predicted grade on them. Our Bracknell GCSE tutors help your child get the marks moving in time, whichever subject is lagging."
+hero_lead: "Most parents picture GCSEs being settled in the summer of Year 11, but sixth form applications here go in months before, with a predicted grade on them. Our GCSE tutors for Bracknell students help your child get the marks moving in time, whichever subject is lagging."
 
 grade_from: "5"
 grade_to: "6/7"

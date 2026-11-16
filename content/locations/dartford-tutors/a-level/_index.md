@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Dartford A-Level Tutors for Sixth Formers Fitting Study Around a Part-Time Job"
 hero_heading_line2: ""
-hero_lead: "Plenty of sixth formers take on a Saturday job in Year 12, and the study hours A-Levels expect outside lessons are the first thing to shrink. Our Dartford A-Level tutors help your child get more from the hours they do have, one subject at a time."
+hero_lead: "Plenty of sixth formers take on a Saturday job in Year 12, and the study hours A-Levels expect outside lessons are the first thing to shrink. Our A-Level tutors for Dartford students help your child get more from the hours they do have, one subject at a time."
 
 grade_from: "E/U"
 grade_to: "C"

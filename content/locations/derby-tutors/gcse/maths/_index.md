@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutoring Across Derby"
-hero_lead: "Your child can do the sums, then reaches a question that's mostly words and stops dead. Our Derby GCSE Maths tutors work online on those wordy questions near the back of the paper, which is where a lot of the marks quietly sit."
+hero_lead: "Your child can do the sums, then reaches a question that's mostly words and stops dead. Our GCSE Maths tutors for Derby students work online on those wordy questions near the back of the paper, which is where a lot of the marks quietly sit."
 
 angle_eyebrow: "WHERE THE PAPER STOPS LOOKING LIKE MATHS"
 angle_heading: "Why Your Child Freezes When the Maths Comes Wrapped in Words"

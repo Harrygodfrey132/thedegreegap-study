@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Farnham Children Heading to College"
-hero_lead: "Plenty of teenagers freeze on the reading questions, or reach the writing task with hardly any time left. That matters, because English Language is the grade colleges round here ask about. Our Farnham GCSE English tutors work on both with your child, one-to-one and online."
+hero_lead: "Plenty of teenagers freeze on the reading questions, or reach the writing task with hardly any time left. That matters, because English Language is the grade colleges round here ask about. Our GCSE English tutors for Farnham students work on both with your child, one-to-one and online."
 
 angle_eyebrow: "LANGUAGE FIRST, THEN LITERATURE"
 angle_heading: "Why English Language Carries So Much Weight at 16 in Farnham"

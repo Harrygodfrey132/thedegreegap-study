@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Reigate, When the Sciences Need a 6 in Maths Too"
-hero_lead: "It catches a lot of parents out. At Reigate College, your child's Maths grade matters to the Maths course and to all three sciences. Our Reigate GCSE Maths tutors find the topics costing your child marks, and work on them until the 6 feels safe."
+hero_lead: "It catches a lot of parents out. At Reigate College, your child's Maths grade matters to the Maths course and to all three sciences. Our GCSE Maths tutors for Reigate students find the topics costing your child marks, and work on them until the 6 feels safe."
 
 angle_eyebrow: "ONE GRADE, FOUR COURSES"
 angle_heading: "Why Your Child's Maths Grade Decides More Than Maths"

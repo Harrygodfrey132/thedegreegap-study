@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Woking, Matched on the Board and the Poetry Anthology"
-hero_lead: "The first essay's strong, the second's thinner, and the last question's written in a rush. If that sounds like your child's mock, it's usually planning and timing. Our Woking GCSE English tutors work one-to-one online, using the set texts and exam board your child's school has chosen."
+hero_lead: "The first essay's strong, the second's thinner, and the last question's written in a rush. If that sounds like your child's mock, it's usually planning and timing. Our GCSE English tutors for Woking students work one-to-one online, using the set texts and exam board your child's school has chosen."
 
 angle_eyebrow: "CLOSED BOOK, OPEN CLOCK"
 angle_heading: "Why English Marks Slip in the Last Twenty Minutes"

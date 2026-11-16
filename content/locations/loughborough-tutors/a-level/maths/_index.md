@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Loughborough Families, Starting From the Exam Paper"
-hero_lead: "Your child can do partial fractions perfectly well when the worksheet asks for them. The exam doesn't always ask. Our Loughborough A-Level Maths tutors help them spot when a question needs them, and that's where the marks really are."
+hero_lead: "Your child can do partial fractions perfectly well when the worksheet asks for them. The exam doesn't always ask. Our A-Level Maths tutors for Loughborough students help them spot when a question needs them, and that's where the marks really are."
 
 angle_eyebrow: "KNOWING THE METHOD ISN'T SPOTTING THE QUESTION"
 angle_heading: "What the First Lesson Looks For When Your Child Knows Every Method"

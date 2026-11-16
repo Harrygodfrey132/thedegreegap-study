@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors Covering Bromley, for the Comparison Questions That Cost Marks"
-hero_lead: "Ask your child about one poem and you'll get a decent paragraph. Ask for two side by side and it turns into a list. Our Bromley GCSE English tutors work one-to-one online on the questions that need both texts held in mind at once."
+hero_lead: "Ask your child about one poem and you'll get a decent paragraph. Ask for two side by side and it turns into a list. Our GCSE English tutors for Bromley students work one-to-one online on the questions that need both texts held in mind at once."
 
 angle_eyebrow: "TWO TEXTS, ONE ARGUMENT"
 angle_heading: "Why the Comparison Questions Decide More Than Their Page Count Suggests"

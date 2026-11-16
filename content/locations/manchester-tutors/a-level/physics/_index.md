@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Physics"
 
 hero_h1: "Online A-Level Physics Tutors for Manchester, Matched on Exam Board"
-hero_lead: "The Year 12 end-of-year mock has come home below the predicted grade. Suddenly the Russell Group offer your child wants looks tight. Our Manchester A-Level Physics tutors find the Mechanics and fields questions losing the marks, and start there, well before Year 13."
+hero_lead: "The Year 12 end-of-year mock has come home below the predicted grade. Suddenly the Russell Group offer your child wants looks tight. Our A-Level Physics tutors for Manchester students find the Mechanics and fields questions losing the marks, and start there, well before Year 13."
 
 angle_eyebrow: "WHY A-LEVEL PHYSICS IN MANCHESTER"
 angle_heading: "Finding the Marks Your Child Needs for a Russell Group Physics Offer"

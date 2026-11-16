@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for Winchester, Alresford and Romsey"
-hero_lead: "Your child has always been the one who gets Chemistry, until rate equations arrive and there's nothing left to learn by heart. Our Winchester A-Level Chemistry tutors teach the reasoning that takes over from there."
+hero_lead: "Your child has always been the one who gets Chemistry, until rate equations arrive and there's nothing left to learn by heart. Our A-Level Chemistry tutors for Winchester students teach the reasoning that takes over from there."
 
 angle_eyebrow: "READING A MECHANISM FROM THE DATA"
 angle_heading: "Kinetics Asks Your Child to Work It Out, Not Look It Up"

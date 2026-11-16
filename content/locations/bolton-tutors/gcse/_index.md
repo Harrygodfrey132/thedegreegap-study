@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online GCSE Tutors for Bolton, From the November Mock to the January Application Deadline"
 hero_heading_line2: ""
-hero_lead: "Sixth-form applications in Bolton get written months before anyone sits a real paper. Our Bolton GCSE tutors work online and one-to-one on Lessonspace, starting from the mock the application will quote rather than from next term's topic."
+hero_lead: "Sixth-form applications in Bolton get written months before anyone sits a real paper. Our GCSE tutors for Bolton students work online and one-to-one on Lessonspace, starting from the mock the application will quote rather than from next term's topic."
 
 grade_from: "E"
 grade_to: "B"

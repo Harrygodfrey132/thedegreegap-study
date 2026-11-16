@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Ambitious Milton Keynes Teenagers"
-hero_lead: "Your child's getting by in Maths, but the prediction's lower than you'd hoped, and here that grade sits under almost every route they might take. Our Milton Keynes A-Level Maths tutors look for where the marks are going and work on that, weekly and online."
+hero_lead: "Your child's getting by in Maths, but the prediction's lower than you'd hoped, and here that grade sits under almost every route they might take. Our A-Level Maths tutors for Milton Keynes students look for where the marks are going and work on that, weekly and online."
 
 angle_eyebrow: "FORCES, DIAGRAMS AND THE MARKS IN BETWEEN"
 angle_heading: "What Sits Behind a Maths Prediction That's Lower Than You Hoped"

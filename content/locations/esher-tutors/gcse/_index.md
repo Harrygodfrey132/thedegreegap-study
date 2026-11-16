@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Esher GCSE Tutors for When Mocks and Open Evenings All Come at Once"
 hero_heading_line2: ""
-hero_lead: "Your child's revising for mocks and choosing where to go at sixteen in the same few months. Our Esher GCSE tutors take one worry off the list by working on the subject that's slipping, one-to-one and online."
+hero_lead: "Your child's revising for mocks and choosing where to go at sixteen in the same few months. Our GCSE tutors for Esher students take one worry off the list by working on the subject that's slipping, one-to-one and online."
 
 grade_from: "E"
 grade_to: "B"

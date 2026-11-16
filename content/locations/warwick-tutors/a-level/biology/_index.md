@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors Covering Warwick"
-hero_lead: "If your child sailed through GCSE Biology and is now sinking under Year 12 notes, it's the size of the course, not their ability. Our Warwick A-Level Biology tutors help them build a system for it."
+hero_lead: "If your child sailed through GCSE Biology and is now sinking under Year 12 notes, it's the size of the course, not their ability. Our A-Level Biology tutors for Warwick students help them build a system for it."
 
 angle_eyebrow: "IT'S THE SIZE OF THE COURSE"
 angle_heading: "Why A-Level Biology Is Hard on a Child Who Never Needed a Revision System"

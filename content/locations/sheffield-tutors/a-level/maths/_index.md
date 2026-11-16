@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Sheffield Year 12s and 13s"
-hero_lead: "Year 12 Maths knocks plenty of confident teenagers sideways, even ones who breezed through their GCSEs. Our Sheffield A-Level Maths tutors find where your child's marks are slipping, from calculus to Mechanics, and rebuild from there in weekly online lessons."
+hero_lead: "Year 12 Maths knocks plenty of confident teenagers sideways, even ones who breezed through their GCSEs. Our A-Level Maths tutors for Sheffield students find where your child's marks are slipping, from calculus to Mechanics, and rebuild from there in weekly online lessons."
 
 angle_eyebrow: "WHERE THE ENGINEERING ROUTES BEGIN"
 angle_heading: "What Sheffield's Engineering Routes Want to See in the Maths Grade"

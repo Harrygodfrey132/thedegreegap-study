@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Dartford Students Who Struggle to Compare Two Texts"
-hero_lead: "Your child can write a decent paragraph on a single poem, then a question asks them to compare two and the answer turns into two separate essays stapled together. Our Dartford GCSE English tutors teach a way of comparing that holds up against the clock."
+hero_lead: "Your child can write a decent paragraph on a single poem, then a question asks them to compare two and the answer turns into two separate essays stapled together. Our GCSE English tutors for Dartford students teach a way of comparing that holds up against the clock."
 
 angle_eyebrow: "WHERE TWO TEXTS MEET"
 angle_heading: "Why Comparison Questions Cost Dartford Teenagers Marks in GCSE English"

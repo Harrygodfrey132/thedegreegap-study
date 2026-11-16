@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Nuneaton A-Level Tutors for When Free Periods Turn Into Lost Weeks"
 hero_heading_line2: ""
-hero_lead: "Your child gets home early on a Wednesday, says nothing's due, and you honestly can't tell whether that's true. Our Nuneaton A-Level tutors give each week a shape, with one lesson that sets the work for the six days after it."
+hero_lead: "Your child gets home early on a Wednesday, says nothing's due, and you honestly can't tell whether that's true. Our A-Level tutors for Nuneaton students give each week a shape, with one lesson that sets the work for the six days after it."
 
 grade_from: "E/U"
 grade_to: "C"

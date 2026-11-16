@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Putney Students Whose Flashcards Have Stopped Working"
-hero_lead: "At GCSE, learning the facts was most of the job. At A-Level the same facts turn up inside an experiment your child has never seen, and the marks go to whoever can apply them. Our Putney A-Level Biology tutors practise exactly that, week after week."
+hero_lead: "At GCSE, learning the facts was most of the job. At A-Level the same facts turn up inside an experiment your child has never seen, and the marks go to whoever can apply them. Our A-Level Biology tutors for Putney students practise exactly that, week after week."
 
 angle_eyebrow: "FROM RECALL TO APPLICATION"
 angle_heading: "Why Knowing the Facts Stops Being Enough for Putney Students in A-Level Biology"

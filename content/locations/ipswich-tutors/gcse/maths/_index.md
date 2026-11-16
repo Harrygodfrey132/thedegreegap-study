@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths tutoring for Ipswich students who revise but cannot start a question"
-hero_lead: "The cards get made, the hours go in, and the paper still opens with something nobody knows how to begin. Our Ipswich GCSE Maths tutors work on that first move, one-to-one and online over Lessonspace."
+hero_lead: "The cards get made, the hours go in, and the paper still opens with something nobody knows how to begin. Our GCSE Maths tutors for Ipswich students work on that first move, one-to-one and online over Lessonspace."
 
 angle_eyebrow: "THE QUESTION THAT NEVER GETS STARTED"
 angle_heading: "Where the Marks Go Missing on a Wordy Paper"

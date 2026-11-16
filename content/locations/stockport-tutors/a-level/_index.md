@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Stockport A-Level Tutors for a New College Where Nobody Knows Your Child Yet"
 hero_heading_line2: ""
-hero_lead: "In Stockport, Year 12 usually means a new college, where your child's teachers have a GCSE grade and not much else. They can't yet see which topics really stuck. Our Stockport A-Level tutors find the gaps one-to-one online, while the predicted grade is still being decided."
+hero_lead: "In Stockport, Year 12 usually means a new college, where your child's teachers have a GCSE grade and not much else. They can't yet see which topics really stuck. Our A-Level tutors for Stockport students find the gaps one-to-one online, while the predicted grade is still being decided."
 
 grade_from: "C"
 grade_to: "A"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutoring in Maidstone, for Year 12s Thrown by Proof"
-hero_lead: "Quick and accurate all through GCSE, and now your child's stuck on the first question that says prove rather than calculate? Our Maidstone A-Level Maths tutors work on that change directly, one-to-one online, until writing the argument down feels normal."
+hero_lead: "Quick and accurate all through GCSE, and now your child's stuck on the first question that says prove rather than calculate? Our A-Level Maths tutors for Maidstone students work on that change directly, one-to-one online, until writing the argument down feels normal."
 
 angle_eyebrow: "CALCULATE, THEN JUSTIFY"
 angle_heading: "Why Year 12 Maths Can Floor a Child Who Found GCSE Easy"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Salford Students in the First Term of Year 12"
-hero_lead: "Your child got a good GCSE grade, and three weeks into Year 12 the algebra is moving faster than they can follow. Our Salford A-Level Maths tutors close the gap from GCSE before it widens, starting with the skills the course leans on every week."
+hero_lead: "Your child got a good GCSE grade, and three weeks into Year 12 the algebra is moving faster than they can follow. Our A-Level Maths tutors for Salford students close the gap from GCSE before it widens, starting with the skills the course leans on every week."
 
 angle_eyebrow: "ASSESSED IN THE FIRST FEW WEEKS"
 angle_heading: "Why the Start of A-Level Maths Matters So Much for Salford Students"

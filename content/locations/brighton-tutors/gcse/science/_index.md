@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Brighton and Hove"
-hero_lead: "Your child can explain photosynthesis perfectly, then goes blank when a question hands them someone else's experiment and asks what went wrong. Our Brighton GCSE Science tutors work on exactly those questions, one-to-one and online, alongside the content your child already knows."
+hero_lead: "Your child can explain photosynthesis perfectly, then goes blank when a question hands them someone else's experiment and asks what went wrong. Our GCSE Science tutors for Brighton students work on exactly those questions, one-to-one and online, alongside the content your child already knows."
 
 angle_eyebrow: "THE MARKS HIDING IN SOMEONE ELSE'S EXPERIMENT"
 angle_heading: "When the Question Is About an Experiment Your Child Never Did"

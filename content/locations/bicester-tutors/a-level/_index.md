@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Bicester A-Level Tutors for a New Sixth Form and a Harder Course"
 hero_heading_line2: ""
-hero_lead: "New building, new teachers. Then the first marked A-Level work comes back lower than anything your child got at GCSE, and you can hear the doubt creep in. Our Bicester A-Level tutors go through it with them, one-to-one online, and work on whatever's costing marks."
+hero_lead: "New building, new teachers. Then the first marked A-Level work comes back lower than anything your child got at GCSE, and you can hear the doubt creep in. Our A-Level tutors for Bicester students go through it with them, one-to-one online, and work on whatever's costing marks."
 
 grade_from: "C"
 grade_to: "A"

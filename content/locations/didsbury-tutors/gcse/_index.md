@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Didsbury GCSE Tutors For the Autumn Your Child Chooses a Sixth Form"
 hero_heading_line2: ""
-hero_lead: "Most Didsbury parents we speak to are juggling two lists this year: the sixth forms on the fridge, and the mock grades that don't quite match them. Our Didsbury GCSE tutors work one-to-one online on the subject standing between the two."
+hero_lead: "Most Didsbury parents we speak to are juggling two lists this year: the sixth forms on the fridge, and the mock grades that don't quite match them. Our GCSE tutors for Didsbury students work one-to-one online on the subject standing between the two."
 
 grade_from: "5"
 grade_to: "6/7"

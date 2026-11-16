@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutoring for Tamworth Families"
-hero_lead: "Sixth form, college or an apprenticeship: whichever your child picks after Year 11, someone will ask for their Maths grade. Our Tamworth GCSE Maths tutors trace a shaky grade back to the older topic underneath, often from Year 8 or 9, and rebuild from there."
+hero_lead: "Sixth form, college or an apprenticeship: whichever your child picks after Year 11, someone will ask for their Maths grade. Our GCSE Maths tutors for Tamworth students trace a shaky grade back to the older topic underneath, often from Year 8 or 9, and rebuild from there."
 
 angle_eyebrow: "ONE GRADE THAT FOLLOWS EVERY ROUTE"
 angle_heading: "Why Every Route Out of Year 11 in Tamworth Asks About Maths"

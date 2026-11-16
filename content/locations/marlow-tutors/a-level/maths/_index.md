@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Marlow Families After the Step Up From GCSE"
-hero_lead: "Your child's strong GCSE grade is what got them onto A-Level Maths. What it doesn't do is prepare them for questions that stop saying which method to use. Our Marlow A-Level Maths tutors work on exactly that shift with your child, one-to-one and online."
+hero_lead: "Your child's strong GCSE grade is what got them onto A-Level Maths. What it doesn't do is prepare them for questions that stop saying which method to use. Our A-Level Maths tutors for Marlow students work on exactly that shift with your child, one-to-one and online."
 
 angle_eyebrow: "WHERE A GOOD GCSE STOPS BEING ENOUGH"
 angle_heading: "Where Year 12 Maths Starts Costing Your Child Marks"

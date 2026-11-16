@@ -4,7 +4,7 @@ description: "Derby tutoring for a child with big plans and a few shaky basics. 
 layout: single
 location: Derby
 banner_heading: "Your Child's Ambition Needs Solid Ground: Online Derby Tutors Who Build It"
-banner_description: "Big plans, but Maths or Physics isn't keeping up? Our Derby tutors find what's missing and build from there."
+banner_description: "Big plans, but Maths or Physics isn't keeping up? Our tutors for Derby families find what's missing and build from there."
 content_angle: ambition meets foundation gaps
 intro_1: "If your child comes home talking about becoming an engineer, you're in the right city for it. Rolls-Royce is out at Sinfin, Toyota builds the Corolla at Burnaston, and Alstom makes trains at Litchurch Lane. Serious technical careers are right on the doorstep. But every one of them starts with GCSE Maths and Physics, and across Derby as a whole, GCSE results have sat below the national average for years. So plenty of capable children reach Year 10 or 11 with gaps from earlier years that school hasn't had time to go back for. The ambition's there. Sometimes the foundations aren't there yet."
 intro_2: "A tutor starts somewhere different from a classroom: with what your child actually knows, not where the syllabus says they should be. If they're working towards Landau Forte College's entry requirements, or hoping to take science and engineering on to sixth form and beyond, the job is building solid ground under that ambition. The tutor finds the exact point where understanding slipped, fixes it, and builds forward from there."
@@ -62,7 +62,7 @@ faq_3_q: "If we get in touch this week, when could lessons start?"
 faq_3_a: "Often within days. There's a free call first, then tutor profiles within 24 hours, and no waiting list to join."
 faq_4_q: "Does my child's exam board make any difference?"
 faq_4_a: "Yes, because the papers aren't the same. Our tutors cover AQA, Edexcel, OCR and WJEC, and we check your child's board before suggesting anyone. If you're not sure which one, your child's teacher will know."
-why_heading: "Why our Derby tutors ask your child to explain it back"
+why_heading: "Why our tutors ask Derby students to explain it back"
 why_para_1: "Here's a pattern Derby tutors see a lot, and it may sound familiar. Your child keeps up in class by following the teacher's method, step by step, without ever quite seeing why it works. Then an exam question dresses the same idea up differently, and they hit a wall. They know the formula. They just can't use it under pressure. It's less about revision and more about depth, and it shows up most in Maths, Physics and Chemistry."
 why_para_2: "The first lesson usually brings it to the surface quickly. The tutor asks your child to explain something in their own words, which is hard to do with thirty others in the room. Where the explanation runs out, that's where the real work begins. Within a few lessons most families notice a shift, and not only in marks. Less guessing. More willingness to have a go. You'll probably see it at home before the next school report arrives."
 accordion_quality: "We vet every tutor on their subject and on how they explain it. Plenty of Derby children are aiming at demanding sixth form courses and technical degrees, so we want tutors who can tell a child who doesn't know the content from one who knows it but can't show it in the exam. Those two need different help."

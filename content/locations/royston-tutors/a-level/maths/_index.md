@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Royston, Wherever Your Child's Sixth Form Is"
-hero_lead: "A first Year 12 Maths test that comes back with a D or an E can shake a teenager who's always been good at Maths. Our Royston A-Level Maths tutors go through that test with your child, one-to-one online, and start from the first step that went wrong."
+hero_lead: "A first Year 12 Maths test that comes back with a D or an E can shake a teenager who's always been good at Maths. Our A-Level Maths tutors for Royston students go through that test with your child, one-to-one online, and start from the first step that went wrong."
 
 card_eyebrow: "FREE A-LEVEL MATHS CALL"
 card_heading: "Year 12 Maths harder than expected? Let's talk"

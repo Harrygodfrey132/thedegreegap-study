@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for St Neots, Eaton Socon and Eynesbury"
-hero_lead: "If your child copes with a calculator but goes to pieces without one, it's something we hear about a lot. Our St Neots GCSE Maths tutors rebuild the fractions, ratio and algebra underneath, one-to-one and online, so the non-calculator paper stops being the one your child dreads."
+hero_lead: "If your child copes with a calculator but goes to pieces without one, it's something we hear about a lot. Our GCSE Maths tutors for St Neots students rebuild the fractions, ratio and algebra underneath, one-to-one and online, so the non-calculator paper stops being the one your child dreads."
 
 card_eyebrow: "FREE CONSULTATION"
 card_heading: "Tell us where your child's Maths marks are going"

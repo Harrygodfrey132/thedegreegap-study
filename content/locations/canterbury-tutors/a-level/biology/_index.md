@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "One-to-One Online A-Level Biology Tutoring in Canterbury"
-hero_lead: "In a Kent grammar year group, a B in Biology can feel like falling behind, even though it's a good grade. Our Canterbury A-Level Biology tutors work on the three areas that usually separate a B from an A: populations, pathways and statistics."
+hero_lead: "In a Kent grammar year group, a B in Biology can feel like falling behind, even though it's a good grade. Our A-Level Biology tutors for Canterbury students work on the three areas that usually separate a B from an A: populations, pathways and statistics."
 
 angle_eyebrow: "WHERE THE B BECOMES AN A"
 angle_heading: "Why a Bright Canterbury Sixth Former Can Still Be Stuck on a B"

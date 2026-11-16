@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors Woking Parents Call When the Year 10 Report Lands"
-hero_lead: "The report says 'working hard', and the mock says something else. Our Woking GCSE Maths tutors go through that paper with your child question by question, online and one-to-one, and find which topics are really costing the marks."
+hero_lead: "The report says 'working hard', and the mock says something else. Our GCSE Maths tutors for Woking students go through that paper with your child question by question, online and one-to-one, and find which topics are really costing the marks."
 
 angle_eyebrow: "THE MATHS GRADE OTHER COURSES ASK FOR"
 angle_heading: "Why Your Child's Maths Grade Counts for More Than Maths"

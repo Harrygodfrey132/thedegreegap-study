@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Clacton-on-Sea A-Level Tutors for Two Years That Come Down to a Few Papers"
 hero_heading_line2: ""
-hero_lead: "In most A-Levels there's no coursework to fall back on: two years of work gets marked in a handful of papers in Year 13. Our Clacton-on-Sea A-Level tutors help your child turn what they know into answers that hold up against the clock."
+hero_lead: "In most A-Levels there's no coursework to fall back on: two years of work gets marked in a handful of papers in Year 13. Our A-Level tutors for Clacton-on-Sea students help your child turn what they know into answers that hold up against the clock."
 
 grade_from: "E/U"
 grade_to: "C"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Winchester Children Stuck on a 7"
-hero_lead: "Plenty of children who've never found Maths hard still get stuck on a 7. That's because the last third of the higher paper isn't more of the same. Our Winchester GCSE Maths tutors work on exactly that part."
+hero_lead: "Plenty of children who've never found Maths hard still get stuck on a 7. That's because the last third of the higher paper isn't more of the same. Our GCSE Maths tutors for Winchester students work on exactly that part."
 
 angle_eyebrow: "WHAT THE LAST THIRD OF THE HIGHER PAPER ASKS FOR"
 angle_heading: "The Winchester Grade 7 Ceiling, and What Sits Above It"

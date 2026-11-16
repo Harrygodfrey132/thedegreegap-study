@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Farnham Teenagers in Year 12 and 13"
-hero_lead: "A good GCSE grade can still leave your child lost by October of Year 12, because A-Level Maths moves fast and leans on algebra in every topic. Our Farnham A-Level Maths tutors find the step that's slipping and rebuild from there, one-to-one and online."
+hero_lead: "A good GCSE grade can still leave your child lost by October of Year 12, because A-Level Maths moves fast and leans on algebra in every topic. Our A-Level Maths tutors for Farnham students find the step that's slipping and rebuild from there, one-to-one and online."
 
 angle_eyebrow: "PURE, MECHANICS AND STATISTICS"
 angle_heading: "Why the Jump to A-Level Maths Catches Out So Many Farnham Year 12s"

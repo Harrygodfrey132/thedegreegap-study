@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Stamford Teenagers"
-hero_lead: "Your child gets through a book a week, yet the English mock still comes back lower than all that reading deserves. Our Stamford GCSE English tutors help your child explain a writer's choices properly, against the clock, in one-to-one lessons online."
+hero_lead: "Your child gets through a book a week, yet the English mock still comes back lower than all that reading deserves. Our GCSE English tutors for Stamford students help your child explain a writer's choices properly, against the clock, in one-to-one lessons online."
 
 angle_eyebrow: "WRITING AGAINST THE CLOCK"
 angle_heading: "Why a Keen Reader Can Still Find GCSE English Hard"

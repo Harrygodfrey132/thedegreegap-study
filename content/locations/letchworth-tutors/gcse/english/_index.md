@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Letchworth Families"
-hero_lead: "If your child likes questions with one right answer, English can seem to have none. Our Letchworth GCSE English tutors give them steps to follow instead, for reading an unseen extract and planning the writing task, practised one-to-one online."
+hero_lead: "If your child likes questions with one right answer, English can seem to have none. Our GCSE English tutors for Letchworth students give them steps to follow instead, for reading an unseen extract and planning the writing task, practised one-to-one online."
 
 card_eyebrow: "FREE CONSULTATION"
 card_heading: "Is English the subject that's slipping?"

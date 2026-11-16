@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online One-to-One GCSE Maths Tutors for Stevenage Families"
-hero_lead: "Your child does all the homework, and the Maths mark still won't shift. Usually it's an old gap that's grown, since most topics lean on earlier ones. Our Stevenage GCSE Maths tutors find it and rebuild from there, and it's rarely as big a job as it feels."
+hero_lead: "Your child does all the homework, and the Maths mark still won't shift. Usually it's an old gap that's grown, since most topics lean on earlier ones. Our GCSE Maths tutors for Stevenage students find it and rebuild from there, and it's rarely as big a job as it feels."
 
 angle_eyebrow: "WHY ONE MATHS GAP TURNS INTO SEVERAL"
 angle_heading: "The Year 11 Maths problem that started in Year 8"

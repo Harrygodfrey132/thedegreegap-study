@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Plymouth GCSE tutoring for sixth form entry and the City College route"
 hero_heading_line2: ""
-hero_lead: "Two different sets of requirements wait at the end of Year 11, and both read the same handful of grades. Our Plymouth GCSE tutors work back from whichever one your child is aiming at, one-to-one online over Lessonspace, starting with a paper rather than a feeling."
+hero_lead: "Two different sets of requirements wait at the end of Year 11, and both read the same handful of grades. Our GCSE tutors for Plymouth students work back from whichever one your child is aiming at, one-to-one online over Lessonspace, starting with a paper rather than a feeling."
 
 grade_from: "E"
 grade_to: "B"

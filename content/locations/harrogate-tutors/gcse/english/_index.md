@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Hard-Working Harrogate Teenagers"
-hero_lead: "There's a stack of quotation flashcards by your child's bed, and the English grade still won't move. The effort isn't wasted. It's only pointed at part of what's marked. Our Harrogate GCSE English tutors work on the rest, starting with the writing."
+hero_lead: "There's a stack of quotation flashcards by your child's bed, and the English grade still won't move. The effort isn't wasted. It's only pointed at part of what's marked. Our GCSE English tutors for Harrogate students work on the rest, starting with the writing."
 
 angle_eyebrow: "ALL THAT REVISION, AND THE SAME GRADE"
 angle_heading: "Where the English Marks Go for a Harrogate Teenager Who Revises Hard"

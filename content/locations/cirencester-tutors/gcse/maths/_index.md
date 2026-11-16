@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Cirencester, Kemble and South Cerney"
-hero_lead: "Maths homework rushed on a bumpy bus, or squeezed in after tea, tends to hide the one step your child doesn't quite follow. Our Cirencester GCSE Maths tutors find that step, often from Year 8 or 9, and rebuild from there."
+hero_lead: "Maths homework rushed on a bumpy bus, or squeezed in after tea, tends to hide the one step your child doesn't quite follow. Our GCSE Maths tutors for Cirencester students find that step, often from Year 8 or 9, and rebuild from there."
 
 angle_eyebrow: "THE STEP NOBODY GOT TO ASK ABOUT"
 angle_heading: "Where GCSE Maths Marks Slip Away for a Child With a Long Day"

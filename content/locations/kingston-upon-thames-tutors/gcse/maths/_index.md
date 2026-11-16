@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors Helping Kingston upon Thames Children Show Their Working"
-hero_lead: "Your child does the Maths in their head, writes down the answer, and loses the method marks that sat underneath it. Our Kingston upon Thames GCSE Maths tutors work one-to-one in the online classroom Lessonspace, getting that working onto the page where the marks are."
+hero_lead: "Your child does the Maths in their head, writes down the answer, and loses the method marks that sat underneath it. Our GCSE Maths tutors for Kingston upon Thames students work one-to-one in the online classroom Lessonspace, getting that working onto the page where the marks are."
 
 angle_eyebrow: "QUICK AT MATHS, SHORT ON MARKS"
 angle_heading: "The Quickest Child in the Class Can Lose the Most Method Marks"

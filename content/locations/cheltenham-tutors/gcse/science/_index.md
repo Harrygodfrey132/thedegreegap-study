@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutoring for Cheltenham Families"
-hero_lead: "Your child spends hours on Science revision and the mock grade still won't move, usually because the revision is memory work and a good share of the marks need method. Our Cheltenham GCSE Science tutors work on exactly those parts of the paper."
+hero_lead: "Your child spends hours on Science revision and the mock grade still won't move, usually because the revision is memory work and a good share of the marks need method. Our GCSE Science tutors for Cheltenham students work on exactly those parts of the paper."
 
 angle_eyebrow: "WHEN THE FLASHCARDS AREN'T THE PROBLEM"
 angle_heading: "The Science Marks That Go Missing While the Flashcards Work Fine"

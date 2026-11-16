@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for Reading and the Thames Valley"
-hero_lead: "GCSE teaches bonding in a simplified way that A-Level then has to undo, and your child may not notice it's happening. Our Reading A-Level Chemistry tutors find the ideas that were never quite right and put them straight."
+hero_lead: "GCSE teaches bonding in a simplified way that A-Level then has to undo, and your child may not notice it's happening. Our A-Level Chemistry tutors for Reading students find the ideas that were never quite right and put them straight."
 
 angle_eyebrow: "WHAT GCSE SIMPLIFIED"
 angle_heading: "The GCSE Bonding Ideas Your Child Has to Unlearn"

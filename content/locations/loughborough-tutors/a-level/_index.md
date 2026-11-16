@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Loughborough A-Level Tutors for the One Grade Your Child's Course Needs"
 hero_heading_line2: ""
-hero_lead: "Two of your child's predictions look fine, and the third is a band short in the one subject their course cares about most. It's a really common spot, and a smaller job than it sounds. Our Loughborough A-Level tutors put the whole hour into that subject, not three."
+hero_lead: "Two of your child's predictions look fine, and the third is a band short in the one subject their course cares about most. It's a really common spot, and a smaller job than it sounds. Our A-Level tutors for Loughborough students put the whole hour into that subject, not three."
 
 grade_from: "B"
 grade_to: "A"

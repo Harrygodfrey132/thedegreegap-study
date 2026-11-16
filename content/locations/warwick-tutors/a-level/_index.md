@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Warwick A-Level Tutors for Applications Where the Grades Are Only Half of It"
 hero_heading_line2: ""
-hero_lead: "The predictions look good, and then you see how many people apply for your child's course. Grades come first, but the rest of an application takes two years, not a week in October. Our Warwick A-Level tutors help with both."
+hero_lead: "The predictions look good, and then you see how many people apply for your child's course. Grades come first, but the rest of an application takes two years, not a week in October. Our A-Level tutors for Warwick students help with both."
 
 grade_from: "C"
 grade_to: "A"

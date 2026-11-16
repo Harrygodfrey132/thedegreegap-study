@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Birmingham GCSE Tutors for the Grades Your Child's Sixth Form Wants"
 hero_heading_line2: ""
-hero_lead: "If Year 11 feels like an uphill slog, the trouble often started with a Year 8 or 9 topic nobody had time to go back over. Our Birmingham GCSE tutors find it in week one and rebuild from there. Ideally well before the mock that sets the predicted grade."
+hero_lead: "If Year 11 feels like an uphill slog, the trouble often started with a Year 8 or 9 topic nobody had time to go back over. Our GCSE tutors for Birmingham students find it in week one and rebuild from there. Ideally well before the mock that sets the predicted grade."
 
 grade_from: "E"
 grade_to: "B"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Basingstoke, With Writing Marked Weekly"
-hero_lead: "'Develop your analysis.' Three words in the margin of your child's English essay, and neither of you is sure what they mean. Our Basingstoke GCSE English tutors show your child what it looks like, using a piece of their own writing each week."
+hero_lead: "'Develop your analysis.' Three words in the margin of your child's English essay, and neither of you is sure what they mean. Our GCSE English tutors for Basingstoke students show your child what it looks like, using a piece of their own writing each week."
 
 angle_eyebrow: "ABOUT THAT COMMENT IN THE MARGIN"
 angle_heading: "Why English Moves Once the Writing Comes Back Marked"

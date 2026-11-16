@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Stamford A-Level Tutors for a Year 12 That's Harder Than Expected"
 hero_heading_line2: ""
-hero_lead: "More hours than they ever spent on GCSEs, and still the Year 12 test marks don't show it. Our Stamford A-Level tutors can help your child get to grips with the new kind of question, one-to-one and online, while most of Year 12 is still ahead."
+hero_lead: "More hours than they ever spent on GCSEs, and still the Year 12 test marks don't show it. Our A-Level tutors for Stamford students can help your child get to grips with the new kind of question, one-to-one and online, while most of Year 12 is still ahead."
 
 grade_from: "C"
 grade_to: "A"

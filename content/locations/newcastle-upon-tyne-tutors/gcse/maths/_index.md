@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Newcastle upon Tyne, When the Working Stops Halfway"
-hero_lead: "Look at your child's last mock. The first line of each long question is there, and then the page goes quiet. Our Newcastle upon Tyne GCSE Maths tutors work one-to-one online on the second half of the question, where the method marks are."
+hero_lead: "Look at your child's last mock. The first line of each long question is there, and then the page goes quiet. Our GCSE Maths tutors for Newcastle upon Tyne students work one-to-one online on the second half of the question, where the method marks are."
 
 angle_eyebrow: "THE SECOND HALF OF THE QUESTION"
 angle_heading: "Why Stopping Halfway Costs Marks on the Higher and Foundation Papers Alike"

@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Wokingham A-Level Tutors for Sixth Formers Still Learning to Study on Their Own"
 hero_heading_line2: ""
-hero_lead: "Sixth form brings free periods and far less checking up, and plenty of bright teenagers don't yet know what to do with either. Our Wokingham A-Level tutors give your child one fixed hour a week, and a plan for the hours in between."
+hero_lead: "Sixth form brings free periods and far less checking up, and plenty of bright teenagers don't yet know what to do with either. Our A-Level tutors for Wokingham students give your child one fixed hour a week, and a plan for the hours in between."
 
 grade_from: "C"
 grade_to: "A"

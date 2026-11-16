@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring for Baldock Families"
-hero_lead: "Fifty quotations on flashcards, and the Literature grade still hasn't moved. Often they're the wrong fifty. Our Baldock GCSE English tutors work one-to-one online with your child on picking evidence that proves a point, and on using context the way examiners reward it."
+hero_lead: "Fifty quotations on flashcards, and the Literature grade still hasn't moved. Often they're the wrong fifty. Our GCSE English tutors for Baldock students work one-to-one online with your child on picking evidence that proves a point, and on using context the way examiners reward it."
 
 angle_eyebrow: "THE QUOTATIONS NOBODY NEEDED"
 angle_heading: "Why Learning More Quotations Doesn't Lift Your Child's Literature Grade"

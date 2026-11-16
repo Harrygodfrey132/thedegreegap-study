@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutoring Across Peterborough"
-hero_lead: "Your child understood it in the lesson, then spent eight minutes on one mole calculation in the mock. That's a practice problem, not an ability problem. Our Peterborough A-Level Chemistry tutors help them do the amount of practice the course quietly expects."
+hero_lead: "Your child understood it in the lesson, then spent eight minutes on one mole calculation in the mock. That's a practice problem, not an ability problem. Our A-Level Chemistry tutors for Peterborough students help them do the amount of practice the course quietly expects."
 
 angle_eyebrow: "GETTING IT ISN'T THE SAME AS BEING QUICK AT IT"
 angle_heading: "Why Getting It Once Isn't Enough in A-Level Chemistry"

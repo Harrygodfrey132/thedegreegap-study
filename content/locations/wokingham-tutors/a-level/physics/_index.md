@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Physics"
 
 hero_h1: "Online A-Level Physics Tutors for Wokingham Students Taking Physics and Maths Together"
-hero_lead: "Your child is studying Physics and Maths side by side, and some weeks Physics needs a method Maths hasn't taught yet. Our Wokingham A-Level Physics tutors fill that gap as it appears, so the Physics doesn't stall while it waits."
+hero_lead: "Your child is studying Physics and Maths side by side, and some weeks Physics needs a method Maths hasn't taught yet. Our A-Level Physics tutors for Wokingham students fill that gap as it appears, so the Physics doesn't stall while it waits."
 
 angle_eyebrow: "WHEN PHYSICS GETS AHEAD OF MATHS"
 angle_heading: "What Wokingham Students Find Hardest in A-Level Physics"

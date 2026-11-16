@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors Covering Hatfield"
-hero_lead: "Your child may not be sure whether the Physics equations will be given in the exam or need learning by heart. Our Hatfield GCSE Science tutors sort that out early, then practise choosing the right one."
+hero_lead: "Your child may not be sure whether the Physics equations will be given in the exam or need learning by heart. Our GCSE Science tutors for Hatfield students sort that out early, then practise choosing the right one."
 
 angle_eyebrow: "GIVEN IN THE EXAM, OR LEARNT BY HEART?"
 angle_heading: "The Equations Question That Quietly Costs Marks"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Rickmansworth and Three Rivers"
-hero_lead: "Your child may read happily on the train and still run out of time on the writing question, or know the set text and forget the quotes. Our Rickmansworth GCSE English tutors practise answering under the clock, one question type at a time."
+hero_lead: "Your child may read happily on the train and still run out of time on the writing question, or know the set text and forget the quotes. Our GCSE English tutors for Rickmansworth students practise answering under the clock, one question type at a time."
 
 angle_eyebrow: "HALF THE MARKS ARE WRITING"
 angle_heading: "The English Marks That Slip Away When the Clock Is Running"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Rickmansworth Families"
-hero_lead: "Revising more facts won't help if the Science marks are going on calculations, or on a practical from Year 10 that your child has half forgotten. Our Rickmansworth GCSE Science tutors work out which kind of question is costing marks and practise exactly that."
+hero_lead: "Revising more facts won't help if the Science marks are going on calculations, or on a practical from Year 10 that your child has half forgotten. Our GCSE Science tutors for Rickmansworth students work out which kind of question is costing marks and practise exactly that."
 
 angle_eyebrow: "THE MATHS AND THE EXPERIMENTS"
 angle_heading: "Where Science Marks Go When Your Child Already Knows the Facts"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Reigate Families, When Year 12 Moves Too Fast"
-hero_lead: "Year 12 Maths moves quickly, and a topic your child half-missed in October is back by February. Our Reigate A-Level Maths tutors work one-to-one online to keep Pure, Mechanics and Statistics moving together."
+hero_lead: "Year 12 Maths moves quickly, and a topic your child half-missed in October is back by February. Our A-Level Maths tutors for Reigate students work one-to-one online to keep Pure, Mechanics and Statistics moving together."
 
 angle_eyebrow: "FROM A 6 TO A-LEVEL IN ONE SUMMER"
 angle_heading: "What Changes for Your Child Between GCSE Maths and the First Year 12 Test"

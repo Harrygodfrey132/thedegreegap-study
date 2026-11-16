@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Godalming Families"
-hero_lead: "The English mock comes back covered in comments like 'develop your analysis', and your child honestly can't tell you what that means. Our Godalming GCSE English tutors show them, one-to-one and online, in whichever English GCSE their college plans depend on most."
+hero_lead: "The English mock comes back covered in comments like 'develop your analysis', and your child honestly can't tell you what that means. Our GCSE English tutors for Godalming students show them, one-to-one and online, in whichever English GCSE their college plans depend on most."
 
 card_eyebrow: "FREE ENGLISH CONSULTATION"
 card_heading: "Tell us which English GCSE is the worry"

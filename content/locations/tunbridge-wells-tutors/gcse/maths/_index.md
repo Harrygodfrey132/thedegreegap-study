@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors Covering Tunbridge Wells and Pembury"
-hero_lead: "If your child is in a grammar set, sitting mid-table in Maths tells you surprisingly little, because everyone in the room was selected. Our Tunbridge Wells GCSE Maths tutors start from a paper instead, and mark it the way an examiner would before planning anything."
+hero_lead: "If your child is in a grammar set, sitting mid-table in Maths tells you surprisingly little, because everyone in the room was selected. Our GCSE Maths tutors for Tunbridge Wells students start from a paper instead, and mark it the way an examiner would before planning anything."
 
 angle_eyebrow: "WHAT A CLASS RANK HIDES IN A SELECTIVE COUNTY"
 angle_heading: "Where an Online GCSE Maths Tutor Finds the Marks in Tunbridge Wells"

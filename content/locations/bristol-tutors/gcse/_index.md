@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Bristol GCSE Tutors for the Grade That's Slipping and Nobody Knows Why"
 hero_heading_line2: ""
-hero_lead: "Your child revised for hours, and the mocks still came back lower than anyone hoped. That's usually when Bristol families find us. Our Bristol GCSE tutors look for the exact topic that stopped making sense, then rebuild from there, one-to-one and online."
+hero_lead: "Your child revised for hours, and the mocks still came back lower than anyone hoped. That's usually when Bristol families find us. Our GCSE tutors for Bristol students look for the exact topic that stopped making sense, then rebuild from there, one-to-one and online."
 
 grade_from: "E"
 grade_to: "B"

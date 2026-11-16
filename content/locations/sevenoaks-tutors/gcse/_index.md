@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Sevenoaks GCSE Tutors Who Catch the Topic a Fast Class Moved Past"
 hero_heading_line2: ""
-hero_lead: "One subject has started slipping, and your child can't say why. Usually it goes back to a Year 8 or 9 topic the class had to move on from before it properly sank in. Our Sevenoaks GCSE tutors find that gap in the first lesson and build forward with your child."
+hero_lead: "One subject has started slipping, and your child can't say why. Usually it goes back to a Year 8 or 9 topic the class had to move on from before it properly sank in. Our GCSE tutors for Sevenoaks students find that gap in the first lesson and build forward with your child."
 
 grade_from: "5"
 grade_to: "6/7"

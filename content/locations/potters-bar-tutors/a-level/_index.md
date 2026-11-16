@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Potters Bar A-Level Tutors for the Grades Behind Your Child's UCAS Predictions"
 hero_heading_line2: ""
-hero_lead: "Predicted grades lean heavily on Year 12, which is exactly when A-Levels start to feel like a different subject. Our Potters Bar A-Level tutors work one-to-one online with your child to steady the hardest topics before those predictions are set."
+hero_lead: "Predicted grades lean heavily on Year 12, which is exactly when A-Levels start to feel like a different subject. Our A-Level tutors for Potters Bar students work one-to-one online with your child to steady the hardest topics before those predictions are set."
 
 grade_from: "E"
 grade_to: "C"

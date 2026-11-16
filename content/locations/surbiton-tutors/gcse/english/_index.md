@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Surbiton Students Who Can't Remember a Quote in the Exam"
-hero_lead: "Your child knows the play inside out, then sits the Literature paper without the book and can't recall a line. Our Surbiton GCSE English tutors build a short set of quotations that fit almost any question, and practise using them against the clock."
+hero_lead: "Your child knows the play inside out, then sits the Literature paper without the book and can't recall a line. Our GCSE English tutors for Surbiton students build a short set of quotations that fit almost any question, and practise using them against the clock."
 
 angle_eyebrow: "NO BOOK ON THE DESK"
 angle_heading: "How a GCSE English Tutor Gets Surbiton Students Ready to Write Without the Text"

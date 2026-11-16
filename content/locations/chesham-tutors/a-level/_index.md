@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online A-Level Tutors in Chesham for When the Course Feels Too Big to Revise"
 hero_heading_line2: ""
-hero_lead: "Folders of notes, a mock on the way, and your child can't see where to start. It's hard to watch, and it happens in plenty of homes. Our Chesham A-Level tutors sort out which topics are costing the most marks, so revision has somewhere to begin."
+hero_lead: "Folders of notes, a mock on the way, and your child can't see where to start. It's hard to watch, and it happens in plenty of homes. Our A-Level tutors for Chesham students sort out which topics are costing the most marks, so revision has somewhere to begin."
 
 grade_from: "B"
 grade_to: "A"

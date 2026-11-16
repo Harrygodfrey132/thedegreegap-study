@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Beaconsfield, Finding the One Science That's Costing Marks"
-hero_lead: "When a Science grade won't budge, there's usually one weak spot underneath, and it's rarely the one your child complains about. Our Beaconsfield GCSE Science tutors track it down on a marked paper, then spend the online lessons on the practicals, six-mark answers or calculations losing the marks."
+hero_lead: "When a Science grade won't budge, there's usually one weak spot underneath, and it's rarely the one your child complains about. Our GCSE Science tutors for Beaconsfield students track it down on a marked paper, then spend the online lessons on the practicals, six-mark answers or calculations losing the marks."
 
 card_heading: "Not sure which science is the problem?"
 card_points:

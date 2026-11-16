@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors Helping Loughborough Sixth Formers"
-hero_lead: "Monoclonal antibodies are the classic topic your child can describe but can't always apply, once the exam throws in a test they've never seen. Our Loughborough A-Level Biology tutors work on the immune detail underneath and on the application questions that decide the top grades."
+hero_lead: "Monoclonal antibodies are the classic topic your child can describe but can't always apply, once the exam throws in a test they've never seen. Our A-Level Biology tutors for Loughborough students work on the immune detail underneath and on the application questions that decide the top grades."
 
 angle_eyebrow: "EXPLAINING IT ISN'T APPLYING IT"
 angle_heading: "When Your Child Knows the Definition but Not What to Do With It"

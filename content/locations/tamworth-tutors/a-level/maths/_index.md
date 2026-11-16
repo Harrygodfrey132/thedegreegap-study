@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Tamworth, Explaining the Why Behind Each Method"
-hero_lead: "Taking logs to turn a curve into a straight line is one of the handiest moves on the paper, and one of the least understood. If your child can do the steps but can't say why, our Tamworth A-Level Maths tutors start right there."
+hero_lead: "Taking logs to turn a curve into a straight line is one of the handiest moves on the paper, and one of the least understood. If your child can do the steps but can't say why, our A-Level Maths tutors for Tamworth students start right there."
 
 angle_eyebrow: "TURNING A CURVE INTO A STRAIGHT LINE"
 angle_heading: "Why Your Child Can Follow the Log Steps and Still Get Stuck"

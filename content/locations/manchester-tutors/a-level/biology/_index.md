@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors Across Manchester"
-hero_lead: "Is your child holding on to a grade, or reaching for a higher one? In Biology they need different help: graphs and long answers for one, precise ecology and evaluation for the other. Our Manchester A-Level Biology tutors work out which first."
+hero_lead: "Is your child holding on to a grade, or reaching for a higher one? In Biology they need different help: graphs and long answers for one, precise ecology and evaluation for the other. Our A-Level Biology tutors for Manchester students work out which first."
 
 angle_eyebrow: "TWO GOALS, TWO PLANS"
 angle_heading: "Holding On to a Grade and Pushing for an A* Are Different Jobs"

@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Letchworth GCSE Tutors for the Subject Your Child Has Switched Off From"
 hero_heading_line2: ""
-hero_lead: "Usually it's one subject. It's the homework left till last, and the one that gets a shrug when you ask about it. Our Letchworth GCSE tutors work one-to-one online to find where it stopped making sense, and start from there."
+hero_lead: "Usually it's one subject. It's the homework left till last, and the one that gets a shrug when you ask about it. Our GCSE tutors for Letchworth students work one-to-one online to find where it stopped making sense, and start from there."
 
 grade_from: "5"
 grade_to: "6/7"

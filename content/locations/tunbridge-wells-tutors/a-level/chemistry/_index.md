@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "One-to-One Online A-Level Chemistry Tutors for Tunbridge Wells"
-hero_lead: "A 9 in GCSE Chemistry, then a first term of Year 12 that's come as a shock. It's a pattern we hear about a lot, and our Tunbridge Wells A-Level Chemistry tutors start with the reasoning A-Level suddenly expects."
+hero_lead: "A 9 in GCSE Chemistry, then a first term of Year 12 that's come as a shock. It's a pattern we hear about a lot, and our A-Level Chemistry tutors for Tunbridge Wells students start with the reasoning A-Level suddenly expects."
 
 angle_eyebrow: "WHEN A GOOD MEMORY STOPS BEING ENOUGH"
 angle_heading: "From a GCSE 9 to a Tricky Year 12: What Changes"

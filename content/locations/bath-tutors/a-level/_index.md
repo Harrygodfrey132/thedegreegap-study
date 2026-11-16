@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Bath A-Level Tutors for When One Predicted Grade Counts Twice"
 hero_heading_line2: ""
-hero_lead: "By October of Year 13, your child might be applying to universities and to degree apprenticeships at the same time. Both will look at the same predicted grade. Our Bath A-Level tutors work one-to-one online on the exam papers behind that number."
+hero_lead: "By October of Year 13, your child might be applying to universities and to degree apprenticeships at the same time. Both will look at the same predicted grade. Our A-Level tutors for Bath students work one-to-one online on the exam papers behind that number."
 
 grade_from: "C"
 grade_to: "A"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutoring for Reading Families, Starting With the Algebra"
-hero_lead: "When your child's calculus answers keep coming back wrong, the calculus itself is often fine. It's the algebra around it. Our Reading A-Level Maths tutors go back and fix that layer underneath."
+hero_lead: "When your child's calculus answers keep coming back wrong, the calculus itself is often fine. It's the algebra around it. Our A-Level Maths tutors for Reading students go back and fix that layer underneath."
 
 angle_eyebrow: "IT'S RARELY THE CALCULUS"
 angle_heading: "Where Your Child's Differentiation Questions Really Go Wrong"

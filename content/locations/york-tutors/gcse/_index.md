@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online York GCSE Tutors for the Year 10 Term When It All Gets Harder"
 hero_heading_line2: ""
-hero_lead: "In Year 10, GCSE work stops feeling like more of Year 9, and a child who was coping can quietly lose their footing. Our York GCSE tutors find where that happened for your child and rebuild from there, not from wherever the class has reached."
+hero_lead: "In Year 10, GCSE work stops feeling like more of Year 9, and a child who was coping can quietly lose their footing. Our GCSE tutors for York students find where that happened for your child and rebuild from there, not from wherever the class has reached."
 
 grade_from: "E"
 grade_to: "B"

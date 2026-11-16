@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors Covering Wigan"
-hero_lead: "If A-Level Chemistry started slipping in the first half-term of Year 12, there's a good chance it's moles. Our Wigan A-Level Chemistry tutors go back and fix that first, because nearly everything your child meets later is built on top of it."
+hero_lead: "If A-Level Chemistry started slipping in the first half-term of Year 12, there's a good chance it's moles. Our A-Level Chemistry tutors for Wigan students go back and fix that first, because nearly everything your child meets later is built on top of it."
 
 angle_eyebrow: "USUALLY, IT'S THE MOLES"
 angle_heading: "Why a Wigan Chemistry Tutor Often Starts With Moles"

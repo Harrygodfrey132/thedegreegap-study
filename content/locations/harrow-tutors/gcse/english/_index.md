@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Harrow, Matched on the Board and the Set Texts"
-hero_lead: "Ask a friend whose child is at another Harrow school, and you may find they're reading different books for a different exam board. That's why general English help so often misses. Our Harrow GCSE English tutors are matched to your child's board and set texts, and teach one-to-one online."
+hero_lead: "Ask a friend whose child is at another Harrow school, and you may find they're reading different books for a different exam board. That's why general English help so often misses. Our GCSE English tutors for Harrow students are matched to your child's board and set texts, and teach one-to-one online."
 
 angle_eyebrow: "SAME SUBJECT, DIFFERENT PAPERS"
 angle_heading: "Why Your Child's English Tutor Needs to Know Their Books"

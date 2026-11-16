@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors Serving St Albans"
-hero_lead: "When the exam swaps the fish your child studied for a creature they've never met, the marks can slip even though the Biology is the same. Our St Albans A-Level Biology tutors practise exactly those questions with your child, until something unfamiliar stops feeling unfair."
+hero_lead: "When the exam swaps the fish your child studied for a creature they've never met, the marks can slip even though the Biology is the same. Our A-Level Biology tutors for St Albans students practise exactly those questions with your child, until something unfamiliar stops feeling unfair."
 
 angle_eyebrow: "A NEW ANIMAL, THE SAME BIOLOGY"
 angle_heading: "Why Unfamiliar Questions Decide the A in A-Level Biology"

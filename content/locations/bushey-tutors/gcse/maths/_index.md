@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors Covering Bushey and Bushey Heath"
-hero_lead: "If the Maths homework has moved past anything you remember from school, you're far from alone. Our Bushey GCSE Maths tutors start from your child's own papers, often the non-calculator one, and rebuild the methods one-to-one online."
+hero_lead: "If the Maths homework has moved past anything you remember from school, you're far from alone. Our GCSE Maths tutors for Bushey students start from your child's own papers, often the non-calculator one, and rebuild the methods one-to-one online."
 
 card_eyebrow: "FREE BUSHEY CONSULTATION"
 card_heading: "Talk to us about your child's GCSE Maths"

@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online A-Level Tutoring in Reigate for a Year 12 Who's Drifting a Little"
 hero_heading_line2: ""
-hero_lead: "Sixth form's given your child far more free periods and far fewer people checking the work. And it's the same term the course gets harder. Our Reigate A-Level tutors keep one fixed hour a week, one-to-one online, while the rest of the timetable loosens."
+hero_lead: "Sixth form's given your child far more free periods and far fewer people checking the work. And it's the same term the course gets harder. Our A-Level tutors for Reigate students keep one fixed hour a week, one-to-one online, while the rest of the timetable loosens."
 
 grade_from: "E/U"
 grade_to: "C"

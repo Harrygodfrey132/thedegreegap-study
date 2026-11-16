@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Families Across Milton Keynes"
-hero_lead: "Muscle contraction makes sense when your child explains it out loud, and then the mock marks it down. Our Milton Keynes A-Level Biology tutors rebuild the sliding filament sequence step by step, including the two jobs ATP does inside it."
+hero_lead: "Muscle contraction makes sense when your child explains it out loud, and then the mock marks it down. Our A-Level Biology tutors for Milton Keynes students rebuild the sliding filament sequence step by step, including the two jobs ATP does inside it."
 
 angle_eyebrow: "SIX STEPS, IN ORDER, EVERY TIME"
 angle_heading: "Why Muscle Contraction Can Hold Your Child at a B"

@@ -4,7 +4,7 @@ description: "Feel like every other child is ahead? Our online Epsom tutors star
 layout: single
 location: Epsom
 banner_heading: "Online GCSE and A-Level Tutors for Epsom Families, at Your Child's Own Pace"
-banner_description: "School-gate talk can make it feel like your child is the only one struggling. They rarely are. Our Epsom tutors start from wherever your child is."
+banner_description: "School-gate talk can make it feel like your child is the only one struggling. They rarely are. Our tutors for Epsom families start from wherever your child is."
 content_angle: "comparison: the Epsom parent who feels every other child is ahead, answered calmly and at your child's own pace"
 intro_1: "It often starts with something small. Another parent mentions a mock result in the year group's WhatsApp, and you realise you haven't heard much about Chemistry from your own child for weeks. So you ask, and get a shrug. Epsom can be a hard place to worry quietly. Glyn and Rosebery are both oversubscribed, Epsom College is on the doorstep, and GCSE results across Surrey are well ahead of the national average. It's easy to feel as if everyone else's child is flying. Plenty aren't, and yours is far from the only one who's stuck."
 intro_2: "Talking to us costs nothing. You book a free call with one of us, Harry or Joe, and tell us about your child and what's been going on. Within a day we'll send two or three tutor profiles to read. Your child then meets the one you pick on a free video call, before anything's booked. Lessons are weekly and online, from £37 an hour, with no contract. If your child doesn't get on with their tutor, we'll find a different one at no charge."

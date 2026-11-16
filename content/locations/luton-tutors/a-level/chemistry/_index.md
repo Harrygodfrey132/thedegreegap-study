@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for Luton Sixth Formers Whose Plans Hang on One Grade"
-hero_lead: "Medicine, Pharmacy, Dentistry: for a lot of the courses your child might be weighing up, Chemistry is the A-Level that decides it. Our Luton A-Level Chemistry tutors work on the organic mechanisms and long calculations where that grade usually slips."
+hero_lead: "Medicine, Pharmacy, Dentistry: for a lot of the courses your child might be weighing up, Chemistry is the A-Level that decides it. Our A-Level Chemistry tutors for Luton students work on the organic mechanisms and long calculations where that grade usually slips."
 
 angle_eyebrow: "THE A-LEVEL THE HEALTH DEGREES ASK FOR"
 angle_heading: "Where A-Level Chemistry Marks Go Missing for Luton Sixth Formers"

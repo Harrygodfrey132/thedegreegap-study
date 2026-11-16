@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutoring for Portsmouth Sixth Formers"
-hero_lead: "If your child's Chemistry marks keep slipping in odd places, a titration here, a transition metal question there, the thread is often redox: electrons passing between substances. Our Portsmouth A-Level Chemistry tutors work on oxidation numbers and half-equations until balancing them stops being guesswork."
+hero_lead: "If your child's Chemistry marks keep slipping in odd places, a titration here, a transition metal question there, the thread is often redox: electrons passing between substances. Our A-Level Chemistry tutors for Portsmouth students work on oxidation numbers and half-equations until balancing them stops being guesswork."
 
 angle_eyebrow: "THE SKILL THAT SHOWS UP EVERYWHERE"
 angle_heading: "Why Redox Costs Marks in Questions That Don't Look Like Redox"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors Covering Didcot and Harwell"
-hero_lead: "If your child picked A-Level Maths to go with Physics or Chemistry, the pace of Year 12 can catch them out. Our Didcot A-Level Maths tutors go back to the algebra underneath and build forward from there, one-to-one and online."
+hero_lead: "If your child picked A-Level Maths to go with Physics or Chemistry, the pace of Year 12 can catch them out. Our A-Level Maths tutors for Didcot students go back to the algebra underneath and build forward from there, one-to-one and online."
 
 angle_eyebrow: "WHERE MATHS MEETS PHYSICS"
 angle_heading: "What Changes in A-Level Maths, and Why It Matters Around Didcot"

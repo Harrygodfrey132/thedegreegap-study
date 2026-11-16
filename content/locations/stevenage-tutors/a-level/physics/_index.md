@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Physics"
 
 hero_h1: "Online A-Level Physics Tutors for Stevenage Families"
-hero_lead: "If your child's mechanics answers keep coming back wrong, it's usually the missing drawing rather than the algebra. Our Stevenage A-Level Physics tutors teach your child to sketch the situation first and do the maths second."
+hero_lead: "If your child's mechanics answers keep coming back wrong, it's usually the missing drawing rather than the algebra. Our A-Level Physics tutors for Stevenage students teach your child to sketch the situation first and do the maths second."
 
 angle_eyebrow: "WHERE THE MECHANICS MARKS GO"
 angle_heading: "What's Usually Behind the Wrong Answers in Mechanics"

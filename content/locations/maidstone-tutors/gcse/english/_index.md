@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring in Maidstone, for Essays That Retell Instead of Argue"
-hero_lead: "If your child's English answers come back accurate, tidy and stuck around half marks, they're probably saying what happens, not why the writer did it. We see it all the time. Our Maidstone GCSE English tutors teach the difference, then practise it until it holds."
+hero_lead: "If your child's English answers come back accurate, tidy and stuck around half marks, they're probably saying what happens, not why the writer did it. We see it all the time. Our GCSE English tutors for Maidstone students teach the difference, then practise it until it holds."
 
 angle_eyebrow: "WHAT HAPPENS, VERSUS WHY THE WRITER DID IT"
 angle_heading: "Why Your Child's Accurate Answer Can Still Land in the Bottom Half of the Marks"

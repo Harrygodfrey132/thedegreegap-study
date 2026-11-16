@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Sheffield Families"
-hero_lead: "The sixth form your child wants has published its Maths grade, and the last mock came back one short. Our Sheffield GCSE Maths tutors start from that number and work back to the questions where your child's marks are actually going."
+hero_lead: "The sixth form your child wants has published its Maths grade, and the last mock came back one short. Our GCSE Maths tutors for Sheffield students start from that number and work back to the questions where your child's marks are actually going."
 
 angle_eyebrow: "THE GAP BETWEEN A SHEFFIELD MOCK AND A SIXTH FORM PLACE"
 angle_heading: "Finding the Marks Between Your Child's Mock and the Grade the Sixth Form Wants"

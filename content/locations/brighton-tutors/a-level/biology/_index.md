@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Brighton and Hove"
-hero_lead: "Ask your child why bacteria become resistant to antibiotics, and listen out for the word 'adapt', because it usually costs marks. Our Brighton A-Level Biology tutors work on the reasoning underneath, until the steps come out in the right order without a second thought."
+hero_lead: "Ask your child why bacteria become resistant to antibiotics, and listen out for the word 'adapt', because it usually costs marks. Our A-Level Biology tutors for Brighton students work on the reasoning underneath, until the steps come out in the right order without a second thought."
 
 angle_eyebrow: "THE STORY THAT GETS TOLD BACKWARDS"
 angle_heading: "Why Antibiotic Resistance Trips Up So Many A-Level Biology Answers"

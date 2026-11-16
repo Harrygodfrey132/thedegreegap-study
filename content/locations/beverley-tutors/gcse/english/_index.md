@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Beverley, From Unseen Extracts to Set Texts"
-hero_lead: "If your child freezes on an extract they've never seen, or knows the books but runs out of time, they're far from alone. Our Beverley GCSE English tutors show them a way into unseen passages and a plan for the clock."
+hero_lead: "If your child freezes on an extract they've never seen, or knows the books but runs out of time, they're far from alone. Our GCSE English tutors for Beverley students show them a way into unseen passages and a plan for the clock."
 
 card_eyebrow: "A FREE CALL ABOUT ENGLISH"
 card_heading: "Tell us where the English marks are going"

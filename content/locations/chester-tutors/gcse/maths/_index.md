@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutoring in Chester for the Paper Without a Calculator"
-hero_lead: "If your child copes with a calculator in hand and comes apart on the paper without one, that's a very common pattern. Our Chester GCSE Maths tutors work on the paper where a shaky method has nowhere left to hide."
+hero_lead: "If your child copes with a calculator in hand and comes apart on the paper without one, that's a very common pattern. Our GCSE Maths tutors for Chester students work on the paper where a shaky method has nowhere left to hide."
 
 angle_eyebrow: "WHAT THE CALCULATOR WAS COVERING"
 angle_heading: "The Paper That Shows What a Calculator Was Hiding"

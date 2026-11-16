@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors Covering Sunbury-on-Thames"
-hero_lead: "A-Level Biology papers often describe an experiment your child has never seen and ask them to explain the result. Our Sunbury-on-Thames A-Level Biology tutors work with your child on spotting the familiar idea hiding inside it."
+hero_lead: "A-Level Biology papers often describe an experiment your child has never seen and ask them to explain the result. Our A-Level Biology tutors for Sunbury-on-Thames students work with your child on spotting the familiar idea hiding inside it."
 
 angle_eyebrow: "AN EXPERIMENT THEY'VE NEVER SEEN BEFORE"
 angle_heading: "When Your Child Knows the Content but Can't See Where It Applies"

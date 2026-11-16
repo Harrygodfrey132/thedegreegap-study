@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for New Malden Children Taught a Different Method at Home"
-hero_lead: "You show your child how you'd do it, they tell you that's not how school does it, and the homework stalls. Our New Malden GCSE Maths tutors teach the method the exam board gives marks for, with every line of working on show."
+hero_lead: "You show your child how you'd do it, they tell you that's not how school does it, and the homework stalls. Our GCSE Maths tutors for New Malden students teach the method the exam board gives marks for, with every line of working on show."
 
 angle_eyebrow: "TWO METHODS, ONE MARK SCHEME"
 angle_heading: "How a GCSE Maths Tutor Settles the Method Question for New Malden Families"

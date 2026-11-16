@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors in York and Nearby Villages"
-hero_lead: "Is your child learning a poetry anthology word for word, and dreading the unseen poems? Plenty of teenagers are. Our York GCSE English tutors show your child what the poetry questions reward, so there's less to learn and more to say."
+hero_lead: "Is your child learning a poetry anthology word for word, and dreading the unseen poems? Plenty of teenagers are. Our GCSE English tutors for York students show your child what the poetry questions reward, so there's less to learn and more to say."
 
 angle_eyebrow: "LEARNING THE POEMS WITHOUT LEARNING EVERY WORD"
 angle_heading: "How Your Child Can Tackle GCSE Poetry Without Memorising Everything"

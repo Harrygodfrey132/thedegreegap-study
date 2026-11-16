@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring for Redhill Teenagers Who Freeze at the Writing Questions"
-hero_lead: "Your child sits down to write a story or an argument, and twenty minutes later there's one paragraph and a lot of crossing out. Our Redhill GCSE English tutors work on those writing questions, worth half the Language marks, as well as the set texts."
+hero_lead: "Your child sits down to write a story or an argument, and twenty minutes later there's one paragraph and a lot of crossing out. Our GCSE English tutors for Redhill students work on those writing questions, worth half the Language marks, as well as the set texts."
 
 angle_eyebrow: "HALF THE LANGUAGE MARKS ARE WRITING"
 angle_heading: "Where Redhill Students Lose GCSE English Marks, From Romeo and Juliet to the Last Question on the Paper"

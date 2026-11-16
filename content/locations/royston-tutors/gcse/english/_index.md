@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors Covering Royston"
-hero_lead: "If your child's English Language mock came back a grade short, it's worth fixing early: Hills Road counts that grade twice when it scores applications. Our Royston GCSE English tutors help your child online with the reading and writing questions where the marks slip."
+hero_lead: "If your child's English Language mock came back a grade short, it's worth fixing early: Hills Road counts that grade twice when it scores applications. Our GCSE English tutors for Royston students help your child online with the reading and writing questions where the marks slip."
 
 card_eyebrow: "FREE ENGLISH CONSULTATION"
 card_heading: "Let's find where the English marks are going"

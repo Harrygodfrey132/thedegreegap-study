@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Economics"
 
 hero_h1: "Online A-Level Economics Tutors for Gravesend Students Who Started the Subject From Scratch"
-hero_lead: "Plenty of sixth formers meet Economics for the first time in Year 12, and the long essays ask for a kind of writing GCSE never taught them. Our Gravesend A-Level Economics tutors show your child how to build an argument around a diagram and reach a judgement."
+hero_lead: "Plenty of sixth formers meet Economics for the first time in Year 12, and the long essays ask for a kind of writing GCSE never taught them. Our A-Level Economics tutors for Gravesend students show your child how to build an argument around a diagram and reach a judgement."
 
 angle_eyebrow: "FROM ZERO IN YEAR 12"
 angle_heading: "Why Gravesend Sixth Formers New to Economics Need More Than the Notes"

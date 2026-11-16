@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Physics"
 
 hero_h1: "Online A-Level Physics Tutoring Across Sheffield"
-hero_lead: "Physics was going fine until fields turned up in Year 13, and now your child can't see how any of it fits. Our Sheffield A-Level Physics tutors help them swap picturing things for working from definitions."
+hero_lead: "Physics was going fine until fields turned up in Year 13, and now your child can't see how any of it fits. Our A-Level Physics tutors for Sheffield students help them swap picturing things for working from definitions."
 
 angle_eyebrow: "WHEN THERE'S NOTHING LEFT TO PICTURE"
 angle_heading: "Why Gravitational and Electric Fields Stump Children Who Think in Pictures"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors in Swindon, for When Knowing the Identities Isn't Enough"
-hero_lead: "If your child knows the trig identities but can't start the questions, that's very common. Our Swindon A-Level Maths tutors teach what's actually tested: which one to use."
+hero_lead: "If your child knows the trig identities but can't start the questions, that's very common. Our A-Level Maths tutors for Swindon students teach what's actually tested: which one to use."
 
 angle_eyebrow: "KNOWING THEM ISN'T USING THEM"
 angle_heading: "Why Your Child Knows the Identities and Still Gets Stuck"

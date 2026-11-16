@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Hatfield Families Losing Marks on Right Answers"
-hero_lead: "Numerical methods look like the easiest marks on the paper, yet your child can get every number right and still lose most of them. Our Hatfield A-Level Maths tutors work on the written justification, which is where those marks really sit."
+hero_lead: "Numerical methods look like the easiest marks on the paper, yet your child can get every number right and still lose most of them. Our A-Level Maths tutors for Hatfield students work on the written justification, which is where those marks really sit."
 
 angle_eyebrow: "THE EASIEST MARKS ON THE PAPER"
 angle_heading: "Why Your Child Gets the Iteration Numbers Right and Still Drops the Marks"

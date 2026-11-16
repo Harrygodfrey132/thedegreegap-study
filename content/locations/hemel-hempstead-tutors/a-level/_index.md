@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Hemel Hempstead A-Level Tutors for the One Subject Pulling the Others Down"
 hero_heading_line2: ""
-hero_lead: "Two of your child's subjects are ticking along, and the third is eating every evening and most of the worry. Our Hemel Hempstead A-Level tutors put the hours where they're needed, on the subject that's really holding the offer back."
+hero_lead: "Two of your child's subjects are ticking along, and the third is eating every evening and most of the worry. Our A-Level tutors for Hemel Hempstead students put the hours where they're needed, on the subject that's really holding the offer back."
 
 grade_from: "E"
 grade_to: "C"

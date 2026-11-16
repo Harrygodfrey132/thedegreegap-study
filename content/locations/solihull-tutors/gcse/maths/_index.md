@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Solihull GCSE Maths Tutors, Online and One-to-One"
-hero_lead: "The report says a 6, the sixth form wants a 7, and everyone says that's near enough. It isn't, quite. Our Solihull GCSE Maths tutors spend most of their time in the gap between those two numbers, helping your child finish the questions they already know how to start."
+hero_lead: "The report says a 6, the sixth form wants a 7, and everyone says that's near enough. It isn't, quite. Our GCSE Maths tutors for Solihull students spend most of their time in the gap between those two numbers, helping your child finish the questions they already know how to start."
 
 angle_eyebrow: "THE GAP BETWEEN A SOLIHULL 6 AND A SOLIHULL 7"
 angle_heading: "Why Getting From a 6 to a 7 Is Harder Than the Steps Before It"

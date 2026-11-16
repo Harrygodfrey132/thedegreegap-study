@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online One-to-One A-Level Biology Tutors for Oxford"
-hero_lead: "Enzyme inhibition usually turns up as a graph, and that's where lots of capable teenagers drop marks. Our Oxford A-Level Biology tutors help your child read the curves and explain what their shape means."
+hero_lead: "Enzyme inhibition usually turns up as a graph, and that's where lots of capable teenagers drop marks. Our A-Level Biology tutors for Oxford students help your child read the curves and explain what their shape means."
 
 angle_eyebrow: "THE GRAPH IS THE QUESTION"
 angle_heading: "Why Your Child Knows Enzymes but Loses Marks on the Graph"

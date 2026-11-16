@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Harrow A-Level Tutors for a Year 12 That's Much Steeper Than GCSE"
 hero_heading_line2: ""
-hero_lead: "GCSEs felt manageable for your child, but now Year 12 homework eats the whole evening and still comes back marked down. A-Level asks them to choose the method, not just follow one. Our Harrow A-Level tutors build that habit before predicted grades are set."
+hero_lead: "GCSEs felt manageable for your child, but now Year 12 homework eats the whole evening and still comes back marked down. A-Level asks them to choose the method, not just follow one. Our A-Level tutors for Harrow students build that habit before predicted grades are set."
 
 grade_from: "C"
 grade_to: "A"

@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online A-Level Tutors in Brighton Helping Your Child Keep Up at a Big College"
 hero_heading_line2: ""
-hero_lead: "Maybe your child's in Year 12 and still finding their feet after GCSE. Or it's Year 13, there's an offer to hit, and the mock came back short. Our Brighton A-Level tutors find what's really costing marks and start there, whichever year it is."
+hero_lead: "Maybe your child's in Year 12 and still finding their feet after GCSE. Or it's Year 13, there's an offer to hit, and the mock came back short. Our A-Level tutors for Brighton students find what's really costing marks and start there, whichever year it is."
 
 grade_from: "C"
 grade_to: "A"

@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Cheltenham GCSE Tutors for the Marks Your Child Loses Without Knowing Why"
 hero_heading_line2: ""
-hero_lead: "Maybe your child just needs English and Maths made safe. Or maybe they're after the grades a competitive sixth form asks for. Our Cheltenham GCSE tutors work out which it is first, then go after the questions losing marks, not the whole subject again."
+hero_lead: "Maybe your child just needs English and Maths made safe. Or maybe they're after the grades a competitive sixth form asks for. Our GCSE tutors for Cheltenham students work out which it is first, then go after the questions losing marks, not the whole subject again."
 
 grade_from: "5"
 grade_to: "6/7"

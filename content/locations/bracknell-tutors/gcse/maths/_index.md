@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Bracknell Students, Because the Maths Grade Opens Other Doors"
-hero_lead: "Your child may not want to study Maths after 16, but their GCSE Maths grade still decides a lot, from getting into sixth form to choosing Biology or Economics there. Our Bracknell GCSE Maths tutors find where the marks are going and win them back."
+hero_lead: "Your child may not want to study Maths after 16, but their GCSE Maths grade still decides a lot, from getting into sixth form to choosing Biology or Economics there. Our GCSE Maths tutors for Bracknell students find where the marks are going and win them back."
 
 angle_eyebrow: "WHY THE MATHS GRADE TRAVELS"
 angle_heading: "Where a GCSE Maths Tutor Finds the Marks Bracknell Sixth Forms Look For"

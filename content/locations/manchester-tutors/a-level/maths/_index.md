@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online One-to-One A-Level Maths Tutors for Manchester Families"
-hero_lead: "When Manchester parents call us about A-Level Maths, it's usually one of two things. A Year 12 who's stopped following the lessons, or a Year 13 stuck on a B. Our Manchester A-Level Maths tutors work out which first, because they need opposite things."
+hero_lead: "When Manchester parents call us about A-Level Maths, it's usually one of two things. A Year 12 who's stopped following the lessons, or a Year 13 stuck on a B. Our A-Level Maths tutors for Manchester students work out which first, because they need opposite things."
 
 angle_eyebrow: "TWO CALLS, TWO PLANS"
 angle_heading: "Lost in Year 12 or Stuck on a B: Where the Tutor Starts"

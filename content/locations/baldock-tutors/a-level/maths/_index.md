@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutoring for Baldock Families Stuck on Proof"
-hero_lead: "If your child's A-Level Maths marks keep vanishing on the 'prove that' questions, it's one of the commonest things we hear about Year 12. Our Baldock A-Level Maths tutors teach how a proof is laid out, line by line."
+hero_lead: "If your child's A-Level Maths marks keep vanishing on the 'prove that' questions, it's one of the commonest things we hear about Year 12. Our A-Level Maths tutors for Baldock students teach how a proof is laid out, line by line."
 
 angle_eyebrow: "PROVING IT, NOT CALCULATING IT"
 angle_heading: "The Questions That Ask Your Child Why, Not How Much"

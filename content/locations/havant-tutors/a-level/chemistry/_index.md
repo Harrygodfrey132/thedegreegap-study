@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online Havant A-Level Chemistry Tutors, Exam Board First"
-hero_lead: "Plenty of Havant parents tell us the same thing: their child understands Chemistry in class, then drops marks in the mock for reasons that aren't obvious. Often it's the exam board's way of doing things, and our Havant A-Level Chemistry tutors are matched to it."
+hero_lead: "Plenty of Havant parents tell us the same thing: their child understands Chemistry in class, then drops marks in the mock for reasons that aren't obvious. Often it's the exam board's way of doing things, and our A-Level Chemistry tutors for Havant students are matched to it."
 
 angle_eyebrow: "THE SAME CHEMISTRY, A DIFFERENT EXAM PAPER"
 angle_heading: "Why the Exam Board Matters More in A-Level Chemistry Than Parents Expect"

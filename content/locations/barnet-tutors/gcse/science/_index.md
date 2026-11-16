@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Barnet, When the Revision Isn't Showing in the Grade"
-hero_lead: "If your child revises Science harder than anything else and the grade barely moves, the marks are usually leaking from one science and one kind of question. Our Barnet GCSE Science tutors find that leak, with an eye on the science your child hopes to take on to A-Level."
+hero_lead: "If your child revises Science harder than anything else and the grade barely moves, the marks are usually leaking from one science and one kind of question. Our GCSE Science tutors for Barnet students find that leak, with an eye on the science your child hopes to take on to A-Level."
 
 angle_eyebrow: "REVISING HARD, MOVING SLOWLY"
 angle_heading: "Which of Your Child's Sciences Needs to Be Strong by March"

@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online A-Level Tutors in Cambridge for a Borderline Grade Before UCAS"
 hero_heading_line2: ""
-hero_lead: "Your child's hovering between two grades, and the prediction that goes to UCAS in the autumn of Year 13 could land either side. Our Cambridge A-Level tutors work one-to-one online on the questions that decide which way it falls."
+hero_lead: "Your child's hovering between two grades, and the prediction that goes to UCAS in the autumn of Year 13 could land either side. Our A-Level tutors for Cambridge students work one-to-one online on the questions that decide which way it falls."
 
 grade_from: "C"
 grade_to: "A"

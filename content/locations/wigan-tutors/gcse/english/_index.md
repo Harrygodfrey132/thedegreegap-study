@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Wigan Year 11s Heading to College"
-hero_lead: "You can hear it over tea: your child has plenty to say about the book. Then the timed essay comes back and hardly any of it made it onto the page. Our Wigan GCSE English tutors teach the structure and the choice of quotations that get those ideas marked."
+hero_lead: "You can hear it over tea: your child has plenty to say about the book. Then the timed essay comes back and hardly any of it made it onto the page. Our GCSE English tutors for Wigan students teach the structure and the choice of quotations that get those ideas marked."
 
 angle_eyebrow: "GOOD IDEAS, NOT YET ON THE PAGE"
 angle_heading: "How a GCSE English Tutor Gets Your Child's Ideas Onto the Page"

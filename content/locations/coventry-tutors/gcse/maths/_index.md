@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutoring for Coventry, When the Effort Isn't Showing"
-hero_lead: "It's hard to watch your child work at Maths week after week and get the same grade back. Our Coventry GCSE Maths tutors work online, and they start by finding where the effort's going, because it usually isn't where the marks are."
+hero_lead: "It's hard to watch your child work at Maths week after week and get the same grade back. Our GCSE Maths tutors for Coventry students work online, and they start by finding where the effort's going, because it usually isn't where the marks are."
 
 angle_eyebrow: "WHEN THE EFFORT'S REAL BUT THE GRADE WON'T MOVE"
 angle_heading: "The Maths Revision That Feels Useful, and the Marks It Misses"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors Covering Cheltenham"
-hero_lead: "By the time most Cheltenham parents call us about Maths, the revision guides are stacked on the kitchen table and the latest mock has come back the same as the last one. Our Cheltenham GCSE Maths tutors find which questions are losing your child the marks, and start there."
+hero_lead: "By the time most Cheltenham parents call us about Maths, the revision guides are stacked on the kitchen table and the latest mock has come back the same as the last one. Our GCSE Maths tutors for Cheltenham students find which questions are losing your child the marks, and start there."
 
 angle_eyebrow: "WHY GCSE MATHS IN CHELTENHAM IS ITS OWN PROBLEM"
 angle_heading: "Where the marks actually go on a Cheltenham GCSE Maths paper"

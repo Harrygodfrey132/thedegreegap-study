@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors Covering Abingdon, Radley and Culham"
-hero_lead: "Your child can explain how a vaccine works at the dinner table, then lose half the marks on the exam question about it. Our Abingdon GCSE Science tutors find out which science and which kind of question is costing marks, then work on it one-to-one online."
+hero_lead: "Your child can explain how a vaccine works at the dinner table, then lose half the marks on the exam question about it. Our GCSE Science tutors for Abingdon students find out which science and which kind of question is costing marks, then work on it one-to-one online."
 
 angle_eyebrow: "SCIENCE ON ABINGDON'S DOORSTEP"
 angle_heading: "Why Science Grades Matter So Close to Culham and Harwell"

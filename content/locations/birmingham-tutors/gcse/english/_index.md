@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutoring Across Birmingham"
-hero_lead: "The mock comes home and the last answer stops halfway through a sentence. Or it's finished, but the mark doesn't match what your child clearly knows. Our Birmingham GCSE English tutors work on the essay structure and timing that get that understanding onto the page."
+hero_lead: "The mock comes home and the last answer stops halfway through a sentence. Or it's finished, but the mark doesn't match what your child clearly knows. Our GCSE English tutors for Birmingham students work on the essay structure and timing that get that understanding onto the page."
 
 angle_eyebrow: "WHEN THE CLOCK, NOT THE BOOK, IS THE PROBLEM"
 angle_heading: "Why the English Grade Lags Behind What Your Child Knows"

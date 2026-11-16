@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English tutors for the Ipswich Year 11 whose unseen poetry stalls"
-hero_lead: "Set texts get learned. Then a poem nobody has ever seen turns up on the paper and the plan runs out. Our Ipswich GCSE English tutors teach the bit that cannot be revised, one-to-one and online over Lessonspace."
+hero_lead: "Set texts get learned. Then a poem nobody has ever seen turns up on the paper and the plan runs out. Our GCSE English tutors for Ipswich students teach the bit that cannot be revised, one-to-one and online over Lessonspace."
 
 angle_eyebrow: "WHAT THE UNSEEN POEM EXPOSES"
 angle_heading: "The Poem Nobody Has Seen Before"

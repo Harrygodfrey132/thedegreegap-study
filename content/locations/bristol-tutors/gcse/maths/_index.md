@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Bristol, Matched to Your Child's Paper"
-hero_lead: "You can see the extra hours going in, and the Maths mark still won't budge. That's often when Bristol parents ring us. Our Bristol GCSE Maths tutors mark a recent higher paper with your child before planning anything, because the problem is usually smaller than it looks from home."
+hero_lead: "You can see the extra hours going in, and the Maths mark still won't budge. That's often when Bristol parents ring us. Our GCSE Maths tutors for Bristol students mark a recent higher paper with your child before planning anything, because the problem is usually smaller than it looks from home."
 
 angle_eyebrow: "WHY THE BACK OF THE PAPER MATTERS IN BRISTOL"
 angle_heading: "The Handful of Questions That Decide a Bristol Maths Grade"

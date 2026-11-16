@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "One-to-One Online A-Level Biology Tutors for Epsom Families"
-hero_lead: "If your child's strong GCSE Biology grade has quietly turned into a B in Year 12, it happens more than you'd think. Our Epsom A-Level Biology tutors work on the long written answers and the questions about designing experiments, which is usually where the marks have gone."
+hero_lead: "If your child's strong GCSE Biology grade has quietly turned into a B in Year 12, it happens more than you'd think. Our A-Level Biology tutors for Epsom students work on the long written answers and the questions about designing experiments, which is usually where the marks have gone."
 
 angle_eyebrow: "THE JUMP FROM RECALL TO REASONING"
 angle_heading: "Why a Top GCSE Grade Can Turn Into a Year 12 B"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Maidstone Families With a Year 11 Juggling Three Sciences"
-hero_lead: "Science is one subject on the timetable and three on the exam paper, and your child's revision rarely gets split the way the marks do. Our Maidstone GCSE Science tutors find which of the three is costing the most, then work on it one-to-one online."
+hero_lead: "Science is one subject on the timetable and three on the exam paper, and your child's revision rarely gets split the way the marks do. Our GCSE Science tutors for Maidstone students find which of the three is costing the most, then work on it one-to-one online."
 
 angle_eyebrow: "THREE SCIENCES, ONE REVISION TIMETABLE"
 angle_heading: "Why the Science Your Child Says They're Worst At Often Isn't"

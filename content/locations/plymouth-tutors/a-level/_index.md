@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Plymouth A-Level tutors who close the Year 12 gap before predictions go out"
 hero_heading_line2: ""
-hero_lead: "Most A-Level worry turns up in the same week: a first proper paper comes back and the mark looks nothing like GCSE. Our Plymouth A-Level tutors start with that script, one-to-one online over Lessonspace, and work out whether it is content, method or the clock."
+hero_lead: "Most A-Level worry turns up in the same week: a first proper paper comes back and the mark looks nothing like GCSE. Our A-Level tutors for Plymouth students start with that script, one-to-one online over Lessonspace, and work out whether it is content, method or the clock."
 
 grade_from: "E"
 grade_to: "C"

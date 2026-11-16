@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutoring Around Royal Leamington Spa"
-hero_lead: "We often speak to parents whose child is on an A in Maths but keeps running out of time. Our Royal Leamington Spa A-Level Maths tutors work on pace and on the long final questions, where plenty of the top-grade marks sit."
+hero_lead: "We often speak to parents whose child is on an A in Maths but keeps running out of time. Our A-Level Maths tutors for Royal Leamington Spa students work on pace and on the long final questions, where plenty of the top-grade marks sit."
 
 angle_eyebrow: "WHEN THE CLOCK RUNS OUT FIRST"
 angle_heading: "Why Your Child's A* in Maths May Come Down to the Clock"

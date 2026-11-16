@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Kenilworth GCSE Tutors for the Subject Your Child Has Quietly Given Up On"
 hero_heading_line2: ""
-hero_lead: "Maybe it's Chemistry, maybe French: the one subject your child sighs about, where the mock grade keeps sliding while the rest hold steady. Our Kenilworth GCSE tutors go back to where it stopped making sense and rebuild from there, one lesson a week."
+hero_lead: "Maybe it's Chemistry, maybe French: the one subject your child sighs about, where the mock grade keeps sliding while the rest hold steady. Our GCSE tutors for Kenilworth students go back to where it stopped making sense and rebuild from there, one lesson a week."
 
 grade_from: "4-5"
 grade_to: "8"

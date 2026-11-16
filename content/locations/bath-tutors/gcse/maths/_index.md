@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors in Bath for the Proof and Reasoning Marks"
-hero_lead: "Maybe your child can do every method on the higher paper but still drops the marks on proof and circle theorems. Those questions want a reason, not a number. Our Bath GCSE Maths tutors show your child how to write one, one-to-one and online."
+hero_lead: "Maybe your child can do every method on the higher paper but still drops the marks on proof and circle theorems. Those questions want a reason, not a number. Our GCSE Maths tutors for Bath students show your child how to write one, one-to-one and online."
 
 angle_eyebrow: "THE QUESTIONS THAT WANT A REASON, NOT AN ANSWER"
 angle_heading: "Where the Higher Paper Stops Asking How Much and Starts Asking Why"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Physics"
 
 hero_h1: "Online A-Level Physics Tutors for Luton Students Who Can't Afford to Coast Through Year 12"
-hero_lead: "At Luton Sixth Form College, Physics students sit an AS exam at the end of Year 12, so the first year counts for more than a mock. Our Luton A-Level Physics tutors get your child's circuits, waves and materials questions solid before it arrives."
+hero_lead: "At Luton Sixth Form College, Physics students sit an AS exam at the end of Year 12, so the first year counts for more than a mock. Our A-Level Physics tutors for Luton students get your child's circuits, waves and materials questions solid before it arrives."
 
 angle_eyebrow: "RADAR, RUNWAYS AND A YEAR 12 EXAM"
 angle_heading: "Why Year 12 Physics Carries Extra Weight for Luton Sixth Formers"

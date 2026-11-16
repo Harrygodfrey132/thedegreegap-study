@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Bromley A-Level Tutors for When a New Sixth Form Means a Bumpy Start"
 hero_heading_line2: ""
-hero_lead: "Your child may be starting a new school as well as a new level, which is common in Bromley and a lot to take in at once. Our Bromley A-Level tutors work one-to-one online to find whatever slipped in the move, before the mocks that feed their UCAS prediction."
+hero_lead: "Your child may be starting a new school as well as a new level, which is common in Bromley and a lot to take in at once. Our A-Level tutors for Bromley students work one-to-one online to find whatever slipped in the move, before the mocks that feed their UCAS prediction."
 
 grade_from: "C"
 grade_to: "A"

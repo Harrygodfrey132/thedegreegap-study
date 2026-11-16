@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors Covering Wilmslow, Matched to Your Child"
-hero_lead: "Ask your child where the Maths marks went and you'll probably get a shrug. Our Wilmslow GCSE Maths tutors start from a real paper, find the algebra or fractions method that slipped past years ago, and rebuild from there."
+hero_lead: "Ask your child where the Maths marks went and you'll probably get a shrug. Our GCSE Maths tutors for Wilmslow students start from a real paper, find the algebra or fractions method that slipped past years ago, and rebuild from there."
 
 card_heading: "Talk to a member of the team to start the matching process"
 card_points:

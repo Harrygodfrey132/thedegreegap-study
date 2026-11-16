@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Teenagers in Potters Bar"
-hero_lead: "If your child can follow a method in class but freezes when the same idea turns up inside a wordy question, they've got plenty of company. Our Potters Bar GCSE Maths tutors find the step that's missing and rebuild it, one-to-one and online."
+hero_lead: "If your child can follow a method in class but freezes when the same idea turns up inside a wordy question, they've got plenty of company. Our GCSE Maths tutors for Potters Bar students find the step that's missing and rebuild it, one-to-one and online."
 
 angle_eyebrow: "WHERE THE MATHS MARKS GO"
 angle_heading: "What Usually Sits Behind a Stuck GCSE Maths Grade"

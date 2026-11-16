@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Wolverhampton, Back to the Algebra First"
-hero_lead: "If your child has stalled in Year 12 Maths, this week's topic is rarely the real problem. Our Wolverhampton A-Level Maths tutors go back to surds, indices and the algebra everything else rests on, then build forward from there."
+hero_lead: "If your child has stalled in Year 12 Maths, this week's topic is rarely the real problem. Our A-Level Maths tutors for Wolverhampton students go back to surds, indices and the algebra everything else rests on, then build forward from there."
 
 angle_eyebrow: "IT'S RARELY THIS WEEK'S LESSON"
 angle_heading: "Why Your Child's Year 12 Maths Problem Usually Started Weeks Earlier"

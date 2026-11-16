@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Redhill Students Lost in Respiration and Photosynthesis"
-hero_lead: "Your child can list every stage of the Krebs cycle from a flashcard and still not say what happens to the hydrogen. Our Redhill A-Level Biology tutors make the long pathways make sense, so the questions built on them do too."
+hero_lead: "Your child can list every stage of the Krebs cycle from a flashcard and still not say what happens to the hydrogen. Our A-Level Biology tutors for Redhill students make the long pathways make sense, so the questions built on them do too."
 
 angle_eyebrow: "WHERE THE CARBON AND HYDROGEN GO"
 angle_heading: "Why the Energy Topics Catch Out So Many Redhill A-Level Biology Students"

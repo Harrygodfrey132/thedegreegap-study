@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutoring Across Swindon"
-hero_lead: "Inorganic chemistry can look like the easy marks, so it's a shock when your child's answers come back scoring so little. Our Swindon A-Level Chemistry tutors work on explaining a trend precisely, because that's what the mark scheme rewards."
+hero_lead: "Inorganic chemistry can look like the easy marks, so it's a shock when your child's answers come back scoring so little. Our A-Level Chemistry tutors for Swindon students work on explaining a trend precisely, because that's what the mark scheme rewards."
 
 angle_eyebrow: "THE EASY MARKS THAT AREN'T"
 angle_heading: "Why Inorganic Answers Lose Marks for Being Nearly Right"

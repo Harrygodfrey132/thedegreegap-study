@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Hitchin, When One Science Drags the Others Down"
-hero_lead: "If your child's Science grade came back lower than you hoped, the trouble is rarely all three sciences. Usually one of Biology, Chemistry or Physics is lagging while the other two cover for it. Our Hitchin GCSE Science tutors work out which one, and that's where the lessons start."
+hero_lead: "If your child's Science grade came back lower than you hoped, the trouble is rarely all three sciences. Usually one of Biology, Chemistry or Physics is lagging while the other two cover for it. Our GCSE Science tutors for Hitchin students work out which one, and that's where the lessons start."
 
 angle_eyebrow: "FIND THE WEAK SCIENCE FIRST"
 angle_heading: "How One Science Can Cost Your Child Two Grades in Hitchin"

@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Croydon A-Level Tutors for the Predicted Grades Universities and Employers Both Read"
 hero_heading_line2: ""
-hero_lead: "University, or one of the apprenticeship schemes in Croydon town centre? Both will read your child's Year 12 grades, and the apprenticeship deadlines often come first. Our Croydon A-Level tutors work one-to-one online towards whichever date matters most."
+hero_lead: "University, or one of the apprenticeship schemes in Croydon town centre? Both will read your child's Year 12 grades, and the apprenticeship deadlines often come first. Our A-Level tutors for Croydon students work one-to-one online towards whichever date matters most."
 
 grade_from: "C"
 grade_to: "A"

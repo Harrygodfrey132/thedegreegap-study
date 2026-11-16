@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutoring Across Aylesbury and the Vale"
-hero_lead: "If your child is taking Triple Science, that's three GCSEs taught at the pace of a class that mostly keeps up. Once they slip half a topic behind, it's hard to catch up alone. Our Aylesbury GCSE Science tutors work on the calculations and long answers where the grade is really decided."
+hero_lead: "If your child is taking Triple Science, that's three GCSEs taught at the pace of a class that mostly keeps up. Once they slip half a topic behind, it's hard to catch up alone. Our GCSE Science tutors for Aylesbury students work on the calculations and long answers where the grade is really decided."
 
 angle_eyebrow: "WHY AYLESBURY SCIENCE MARKS GO MISSING"
 angle_heading: "Where Your Child Loses the Science Marks That Decide the Grade"

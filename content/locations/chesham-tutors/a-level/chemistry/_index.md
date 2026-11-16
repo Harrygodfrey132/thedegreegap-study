@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for Chesham Year 12s and 13s"
-hero_lead: "Line by line, your child's working looks right, and the answer's still out by a factor of a thousand. Our Chesham A-Level Chemistry tutors see that most on the ideal gas equation, so it's often where they start."
+hero_lead: "Line by line, your child's working looks right, and the answer's still out by a factor of a thousand. Our A-Level Chemistry tutors for Chesham students see that most on the ideal gas equation, so it's often where they start."
 
 angle_eyebrow: "RIGHT METHOD, WRONG POWER OF TEN"
 angle_heading: "Why the Ideal Gas Equation Trips Up Careful Chesham Sixth Formers"

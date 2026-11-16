@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Stourbridge A-Level Tutors for Year 12s Starting a Subject From Scratch"
 hero_heading_line2: ""
-hero_lead: "Your child chose Psychology or Economics in the summer because it sounded interesting, and by October the homework is full of terms they've never met. Our Stourbridge A-Level tutors cover the groundwork a GCSE would have given them, then keep pace with the course."
+hero_lead: "Your child chose Psychology or Economics in the summer because it sounded interesting, and by October the homework is full of terms they've never met. Our A-Level tutors for Stourbridge students cover the groundwork a GCSE would have given them, then keep pace with the course."
 
 grade_from: "E"
 grade_to: "B"

@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Letchworth A-Level Tutors for Year 12 Free Periods That Quietly Drift"
 hero_heading_line2: ""
-hero_lead: "Sixth form brings free periods and far less checking up, and for some teenagers the first marked tests are when it shows. Our Letchworth A-Level tutors give your child a fixed hour each week, plus a plan for the free periods in between."
+hero_lead: "Sixth form brings free periods and far less checking up, and for some teenagers the first marked tests are when it shows. Our A-Level tutors for Letchworth students give your child a fixed hour each week, plus a plan for the free periods in between."
 
 grade_from: "E"
 grade_to: "C"

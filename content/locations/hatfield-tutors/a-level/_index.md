@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Hatfield A-Level Tutors for Families Weighing University Against a Degree Apprenticeship"
 hero_heading_line2: ""
-hero_lead: "Maybe your child hasn't decided between university and an apprenticeship yet, and that's fine. But the two run to different deadlines. Our Hatfield A-Level tutors keep both in view instead of assuming it's UCAS or nothing."
+hero_lead: "Maybe your child hasn't decided between university and an apprenticeship yet, and that's fine. But the two run to different deadlines. Our A-Level tutors for Hatfield students keep both in view instead of assuming it's UCAS or nothing."
 
 grade_from: "C"
 grade_to: "A"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Economics"
 
 hero_h1: "Online A-Level Economics Tutors for Clacton-on-Sea Sixth Formers Whose Essays Stop Short of a Judgement"
-hero_lead: "Your child explains the theory well and draws the diagram, then the essay stops before it decides anything. Our Clacton-on-Sea A-Level Economics tutors teach the weighing-up that the top of AQA's mark scheme looks for, a paragraph at a time."
+hero_lead: "Your child explains the theory well and draws the diagram, then the essay stops before it decides anything. Our A-Level Economics tutors for Clacton-on-Sea students teach the weighing-up that the top of AQA's mark scheme looks for, a paragraph at a time."
 
 angle_eyebrow: "AQA ECONOMICS AT SIGMA SIXTH TENDRING"
 angle_heading: "Why A-Level Economics Essays Stall for Clacton-on-Sea Sixth Formers"

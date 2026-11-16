@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Economics"
 
 hero_h1: "Online A-Level Economics Tutors for Putney Students Who Know the News but Not the Mark Scheme"
-hero_lead: "Your child can talk about interest rates over dinner, yet the essay comes back with 'more analysis needed' in the margin. Our Putney A-Level Economics tutors teach the chains of reasoning and the weighing up that the long questions are actually marked on."
+hero_lead: "Your child can talk about interest rates over dinner, yet the essay comes back with 'more analysis needed' in the margin. Our A-Level Economics tutors for Putney students teach the chains of reasoning and the weighing up that the long questions are actually marked on."
 
 angle_eyebrow: "DINNER-TABLE ECONOMICS, EXAM-HALL MARKS"
 angle_heading: "Why Well-Read Putney Students Still Drop Marks in A-Level Economics"

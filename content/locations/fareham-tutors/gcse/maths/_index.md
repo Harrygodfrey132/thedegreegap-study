@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Fareham, Aiming Past a 4"
-hero_lead: "If your child's Maths is hovering around a 4, you'll know how thin that feels: one off day could mean resitting it at college. Our Fareham GCSE Maths tutors work online on the topics that lift a 4 to a safer 5 or 6."
+hero_lead: "If your child's Maths is hovering around a 4, you'll know how thin that feels: one off day could mean resitting it at college. Our GCSE Maths tutors for Fareham students work online on the topics that lift a 4 to a safer 5 or 6."
 
 angle_eyebrow: "A PASS WITH NO ROOM TO SPARE"
 angle_heading: "Why a Fareham GCSE Maths Tutor Aims Higher Than a 4"

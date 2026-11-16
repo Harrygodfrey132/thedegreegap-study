@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online Edexcel GCSE Maths Tutors for Burntwood Teenagers"
-hero_lead: "Some Burntwood teenagers need a secure pass in Maths; others need the 7 both local sixth forms ask for before A-Level Maths. Our Burntwood GCSE Maths tutors find where your child's marks go on the Edexcel papers and start there."
+hero_lead: "Some Burntwood teenagers need a secure pass in Maths; others need the 7 both local sixth forms ask for before A-Level Maths. Our GCSE Maths tutors for Burntwood students find where your child's marks go on the Edexcel papers and start there."
 
 angle_eyebrow: "ONE BOARD, TWO VERY DIFFERENT TARGETS"
 angle_heading: "Why GCSE Maths Splits Two Ways for Burntwood Students"

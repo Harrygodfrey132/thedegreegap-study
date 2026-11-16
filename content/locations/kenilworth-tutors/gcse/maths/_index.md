@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Kenilworth Families"
-hero_lead: "If your child's decided they're 'not a maths person', that story usually started years ago, with one topic that never went in. Our Kenilworth GCSE Maths tutors find that topic, fix it, and then work forward to the papers your child will sit."
+hero_lead: "If your child's decided they're 'not a maths person', that story usually started years ago, with one topic that never went in. Our GCSE Maths tutors for Kenilworth students find that topic, fix it, and then work forward to the papers your child will sit."
 
 angle_eyebrow: "WHERE THE MATHS STORY STARTED"
 angle_heading: "Why a Kenilworth Teenager's Maths Worries Often Start in Year 8"

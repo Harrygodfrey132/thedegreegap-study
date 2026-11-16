@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Barnet Families, Chasing the Marks Lost in the Working"
-hero_lead: "Right answer, three marks on offer, two given. If that's what your child's mock looks like, our Barnet GCSE Maths tutors start with the marked paper, because the missing marks are usually in the working, not the answer. Every lesson's online and one-to-one."
+hero_lead: "Right answer, three marks on offer, two given. If that's what your child's mock looks like, our GCSE Maths tutors for Barnet students start with the marked paper, because the missing marks are usually in the working, not the answer. Every lesson's online and one-to-one."
 
 angle_eyebrow: "WHERE THE MARKS ACTUALLY GO"
 angle_heading: "The Marks a Higher Paper Gives Away in the Working"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Southampton GCSE Science Tutors, Working Online With Your Child"
-hero_lead: "Asked to explain why a rate increases, lots of children describe what happens to it instead, and half the marks can go even when the science is right. Our Southampton GCSE Science tutors show your child how to answer the question that's actually being asked."
+hero_lead: "Asked to explain why a rate increases, lots of children describe what happens to it instead, and half the marks can go even when the science is right. Our GCSE Science tutors for Southampton students show your child how to answer the question that's actually being asked."
 
 angle_eyebrow: "THE FIRST WORD OF THE QUESTION"
 angle_heading: "How One Word at the Start of a Science Question Decides the Marks"

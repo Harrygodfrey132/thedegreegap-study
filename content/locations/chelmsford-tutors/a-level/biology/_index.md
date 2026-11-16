@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors Helping Chelmsford Families"
-hero_lead: "Every Biology practical signed off? Good, but that pass sits apart from your child's grade, and the written papers still ask about the practicals in detail. Our Chelmsford A-Level Biology tutors help your child answer those questions properly."
+hero_lead: "Every Biology practical signed off? Good, but that pass sits apart from your child's grade, and the written papers still ask about the practicals in detail. Our A-Level Biology tutors for Chelmsford students help your child answer those questions properly."
 
 angle_eyebrow: "A PASS ISN'T THE WHOLE STORY"
 angle_heading: "Why a Pass on the Practicals Doesn't Cover the Practical Questions"

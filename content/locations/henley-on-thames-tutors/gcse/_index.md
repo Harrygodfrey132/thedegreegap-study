@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Henley-on-Thames GCSE Tutors for When One Grade Decides the Next Course"
 hero_heading_line2: ""
-hero_lead: "Sometimes it comes down to a single subject, a Maths or English grade sitting right on the line, with the next course depending on it. Give our Henley-on-Thames GCSE tutors your child's latest mock and they'll start there, one-to-one and online."
+hero_lead: "Sometimes it comes down to a single subject, a Maths or English grade sitting right on the line, with the next course depending on it. Give our GCSE tutors for Henley-on-Thames students your child's latest mock and they'll start there, one-to-one and online."
 
 grade_from: "4-5"
 grade_to: "8"

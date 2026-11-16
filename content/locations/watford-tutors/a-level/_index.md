@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Watford A-Level Tutors for When Year 12 Hits Harder Than GCSEs Did"
 hero_heading_line2: ""
-hero_lead: "Good GCSEs, then a first round of A-Level marks lower than anyone expected. Lots of Watford families see this in Year 12. Our Watford A-Level tutors find where each subject changed shape and close the gap before the exams that feed the UCAS prediction."
+hero_lead: "Good GCSEs, then a first round of A-Level marks lower than anyone expected. Lots of Watford families see this in Year 12. Our A-Level tutors for Watford students find where each subject changed shape and close the gap before the exams that feed the UCAS prediction."
 
 grade_from: "C"
 grade_to: "A"

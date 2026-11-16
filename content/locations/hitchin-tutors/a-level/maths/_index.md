@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutoring in Hitchin, for the Mechanics and Statistics Your Child Keeps Putting Off"
-hero_lead: "Pure Maths tends to get the revision time. But Mechanics and Statistics carry about a third of the marks, and they often decide the grade. Our Hitchin A-Level Maths tutors work one-to-one online on all three parts, starting with the one your child's been avoiding."
+hero_lead: "Pure Maths tends to get the revision time. But Mechanics and Statistics carry about a third of the marks, and they often decide the grade. Our A-Level Maths tutors for Hitchin students work one-to-one online on all three parts, starting with the one your child's been avoiding."
 
 angle_eyebrow: "THE STRAND NOBODY REVISES"
 angle_heading: "The Part of A-Level Maths That Quietly Decides the Grade"

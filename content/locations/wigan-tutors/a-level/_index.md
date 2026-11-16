@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Wigan A-Level Tutors for When College Moves Faster Than Your Child Expected"
 hero_heading_line2: ""
-hero_lead: "A few weeks into college, and your child's notes are piling up faster than they can make sense of them. Our Wigan A-Level tutors close the gaps Year 12 opens up. Ideally that's before the mocks that feed UCAS predictions, while there's still time to change the number."
+hero_lead: "A few weeks into college, and your child's notes are piling up faster than they can make sense of them. Our A-Level tutors for Wigan students close the gaps Year 12 opens up. Ideally that's before the mocks that feed UCAS predictions, while there's still time to change the number."
 
 grade_from: "C"
 grade_to: "A"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors for Havant Sixth Formers"
-hero_lead: "Describe, explain, suggest and evaluate each want a different answer, but plenty of teenagers treat them as the same word. Our Havant A-Level Biology tutors sort that out first, and it's often one of the quicker fixes for your child's marks."
+hero_lead: "Describe, explain, suggest and evaluate each want a different answer, but plenty of teenagers treat them as the same word. Our A-Level Biology tutors for Havant students sort that out first, and it's often one of the quicker fixes for your child's marks."
 
 angle_eyebrow: "FOUR WORDS, FOUR DIFFERENT ANSWERS"
 angle_heading: "Why the First Word of the Question Can Cost Your Child the Mark"

@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Brighton GCSE Tutors Who Turn Understanding Into Marks on Exam Day"
 hero_heading_line2: ""
-hero_lead: "In class, your child writes plenty, but the marks aren't turning up in the exam. Our Brighton GCSE tutors find what's losing them, like an essay that never lands or a Maths method that wobbles. Then they work on it before the mocks feed into a predicted grade."
+hero_lead: "In class, your child writes plenty, but the marks aren't turning up in the exam. Our GCSE tutors for Brighton students find what's losing them, like an essay that never lands or a Maths method that wobbles. Then they work on it before the mocks feed into a predicted grade."
 
 grade_from: "5"
 grade_to: "6/7"

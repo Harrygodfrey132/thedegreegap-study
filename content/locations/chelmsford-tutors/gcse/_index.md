@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Chelmsford GCSE Tutors Who Find the Topic Behind a Stalled Grade"
 hero_heading_line2: ""
-hero_lead: "Your child's revising, the mock still comes back a grade short, and neither of you can say why. Usually it's an older topic, a Year 8 or 9 one, that never quite settled. Our Chelmsford GCSE tutors go looking for it in the first lesson, then rebuild from there."
+hero_lead: "Your child's revising, the mock still comes back a grade short, and neither of you can say why. Usually it's an older topic, a Year 8 or 9 one, that never quite settled. Our GCSE tutors for Chelmsford students go looking for it in the first lesson, then rebuild from there."
 
 grade_from: "E"
 grade_to: "B"

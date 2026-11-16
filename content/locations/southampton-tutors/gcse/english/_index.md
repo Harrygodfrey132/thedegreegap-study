@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "One-to-One GCSE English Tutors in Southampton, All Online"
-hero_lead: "Your child might be doing fine in Literature and still losing marks all over Language, without anyone quite explaining why. They're two separate GCSEs, marked in almost opposite ways. Our Southampton GCSE English tutors start by finding out which one is really holding the grade down."
+hero_lead: "Your child might be doing fine in Literature and still losing marks all over Language, without anyone quite explaining why. They're two separate GCSEs, marked in almost opposite ways. Our GCSE English tutors for Southampton students start by finding out which one is really holding the grade down."
 
 angle_eyebrow: "LITERATURE FINE, LANGUAGE SLIPPING?"
 angle_heading: "Why Literature and Language Go Wrong in Opposite Ways"

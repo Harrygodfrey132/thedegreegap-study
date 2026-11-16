@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors Around Stratford-upon-Avon"
-hero_lead: "If your child is taking Triple Science, part of the course covers topics their friends in Combined never sit, and it's the part most easily squeezed in revision. Our Stratford-upon-Avon GCSE Science tutors make sure those topics get proper time alongside everything else."
+hero_lead: "If your child is taking Triple Science, part of the course covers topics their friends in Combined never sit, and it's the part most easily squeezed in revision. Our GCSE Science tutors for Stratford-upon-Avon students make sure those topics get proper time alongside everything else."
 
 angle_eyebrow: "THE TOPICS ONLY TRIPLE SCIENCE CHILDREN SIT"
 angle_heading: "Why Triple-Only Topics Need Their Own Revision Time in Stratford-upon-Avon"

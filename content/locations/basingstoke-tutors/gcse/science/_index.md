@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutoring for Basingstoke Families"
-hero_lead: "A stalled Science grade doesn't tell you much on its own. Our Basingstoke GCSE Science tutors pull Biology, Chemistry and Physics apart, then spend the term on whichever one is costing your child marks."
+hero_lead: "A stalled Science grade doesn't tell you much on its own. Our GCSE Science tutors for Basingstoke students pull Biology, Chemistry and Physics apart, then spend the term on whichever one is costing your child marks."
 
 angle_eyebrow: "WHAT ONE NUMBER CAN HIDE"
 angle_heading: "Why We Pull Your Child's Three Sciences Apart Before Anything Else"

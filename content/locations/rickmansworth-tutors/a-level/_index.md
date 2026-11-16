@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online A-Level Tutors in Rickmansworth for Year 12, When Predictions Get Made"
 hero_heading_line2: ""
-hero_lead: "Predicted grades lean heavily on Year 12, so the work your child does this year goes with them onto the UCAS form next autumn. Our Rickmansworth A-Level tutors find what's losing marks now, while there's still time to put it right."
+hero_lead: "Predicted grades lean heavily on Year 12, so the work your child does this year goes with them onto the UCAS form next autumn. Our A-Level tutors for Rickmansworth students find what's losing marks now, while there's still time to put it right."
 
 grade_from: "C"
 grade_to: "A"

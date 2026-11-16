@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online Farnborough GCSE Maths Tutors, With A-Levels in Mind"
-hero_lead: "Your child's A-Level list might not include Maths at all. But the Maths grade can still decide what stays on it. Our Farnborough GCSE Maths tutors aim at the grade those courses ask for, online and one-to-one."
+hero_lead: "Your child's A-Level list might not include Maths at all. But the Maths grade can still decide what stays on it. Our GCSE Maths tutors for Farnborough students aim at the grade those courses ask for, online and one-to-one."
 
 angle_eyebrow: "THE A-LEVELS THAT QUIETLY NEED MATHS"
 angle_heading: "How GCSE Maths Shapes a Farnborough A-Level Plan"

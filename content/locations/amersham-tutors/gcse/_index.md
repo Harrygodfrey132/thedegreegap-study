@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Amersham GCSE Tutors for the Year That Decides Your Child's Sixth Form"
 hero_heading_line2: ""
-hero_lead: "The sixth form application's open on the laptop, and one subject still isn't where it needs to be. Whether your child stays put or moves at 16, it's their GCSE results that count. Our Amersham GCSE tutors work one-to-one and online on whichever subject is falling short."
+hero_lead: "The sixth form application's open on the laptop, and one subject still isn't where it needs to be. Whether your child stays put or moves at 16, it's their GCSE results that count. Our GCSE tutors for Amersham students work one-to-one and online on whichever subject is falling short."
 
 grade_from: "5"
 grade_to: "6/7"

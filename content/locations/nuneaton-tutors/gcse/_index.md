@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Nuneaton GCSE Tutors Who Start Before the Predicted Grades Go Out"
 hero_heading_line2: ""
-hero_lead: "By January of Year 11, lots of sixth form and college applications have already gone in, with your child's predicted grades on them. Our Nuneaton GCSE tutors find the topics costing the most marks and start on them while those grades can still move."
+hero_lead: "By January of Year 11, lots of sixth form and college applications have already gone in, with your child's predicted grades on them. Our GCSE tutors for Nuneaton students find the topics costing the most marks and start on them while those grades can still move."
 
 grade_from: "5"
 grade_to: "6/7"

@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Physics"
 
 hero_h1: "Online A-Level Physics Tutors Covering Cambridge"
-hero_lead: "When your child's Physics answers keep coming back wrong, it's often the maths, not the physics. Our Cambridge A-Level Physics tutors find the algebra that's losing marks and start there."
+hero_lead: "When your child's Physics answers keep coming back wrong, it's often the maths, not the physics. Our A-Level Physics tutors for Cambridge students find the algebra that's losing marks and start there."
 
 angle_eyebrow: "THE MATHS INSIDE THE PHYSICS"
 angle_heading: "How Much of a Physics Paper Is Actually an Algebra Problem"

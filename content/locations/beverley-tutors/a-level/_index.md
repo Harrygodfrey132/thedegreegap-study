@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Beverley A-Level Tutors Who Start Early, Before Predicted Grades Are Set"
 hero_heading_line2: ""
-hero_lead: "Did the first Year 12 test come back well below your child's GCSE grades? That's a very common start to sixth form. Our Beverley A-Level tutors go through the test with your child, one-to-one online, and start on the gaps long before predicted grades are written."
+hero_lead: "Did the first Year 12 test come back well below your child's GCSE grades? That's a very common start to sixth form. Our A-Level tutors for Beverley students go through the test with your child, one-to-one online, and start on the gaps long before predicted grades are written."
 
 grade_from: "C"
 grade_to: "A"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Colchester, Working Back From the Grade Your Child Needs"
-hero_lead: "Nearly every route your child could take after Year 11 puts a Maths grade in its entry requirements. Our Colchester GCSE Maths tutors start from that number and work backwards. They don't start at chapter one and hope."
+hero_lead: "Nearly every route your child could take after Year 11 puts a Maths grade in its entry requirements. Our GCSE Maths tutors for Colchester students start from that number and work backwards. They don't start at chapter one and hope."
 
 angle_eyebrow: "GCSE MATHS AND THE GRADE YOUR CHILD NEEDS"
 angle_heading: "Find the Grade First, Then the Marks Your Child Is Losing"

@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Hitchin GCSE Tutors for When One Grade Decides Your Child's Sixth Form Subjects"
 hero_heading_line2: ""
-hero_lead: "If your child has their heart set on a particular A-Level, one GCSE grade can decide whether they get it. Our Hitchin GCSE tutors work one-to-one online, an hour a week, on whichever grade is standing in the way."
+hero_lead: "If your child has their heart set on a particular A-Level, one GCSE grade can decide whether they get it. Our GCSE tutors for Hitchin students work one-to-one online, an hour a week, on whichever grade is standing in the way."
 
 grade_from: "4/5"
 grade_to: "8"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors Covering Cirencester"
-hero_lead: "If your child's set on working with animals or on the land, their Science grades will matter, and keeping on top of three sciences at once is a lot. Our Cirencester GCSE Science tutors work on the long answers and practicals on your child's board."
+hero_lead: "If your child's set on working with animals or on the land, their Science grades will matter, and keeping on top of three sciences at once is a lot. Our GCSE Science tutors for Cirencester students work on the long answers and practicals on your child's board."
 
 angle_eyebrow: "THE GCSE BEHIND THE LAND-BASED ROUTES"
 angle_heading: "Where GCSE Science Can Take a Cirencester Teenager"

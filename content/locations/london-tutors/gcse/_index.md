@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online London GCSE Tutors Who Turn Revision Hours Into Real Marks"
 hero_heading_line2: ""
-hero_lead: "Hours of revision, and the mock grade still isn't what the sixth forms on your child's list will want. Our London GCSE tutors work out where the marks are actually going, then rebuild from there."
+hero_lead: "Hours of revision, and the mock grade still isn't what the sixth forms on your child's list will want. Our GCSE tutors for London students work out where the marks are actually going, then rebuild from there."
 
 grade_from: "E"
 grade_to: "B"

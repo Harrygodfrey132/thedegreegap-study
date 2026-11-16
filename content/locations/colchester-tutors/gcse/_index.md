@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Colchester GCSE Tutors for the Questions Where Your Child Loses Marks"
 hero_heading_line2: ""
-hero_lead: "By Year 11 most Colchester families have a sixth form or college course in mind, and each one publishes the grades it asks for. Our Colchester GCSE tutors aim for the grade your child needs, spending lessons on the questions where they drop the most marks."
+hero_lead: "By Year 11 most Colchester families have a sixth form or college course in mind, and each one publishes the grades it asks for. Our GCSE tutors for Colchester students aim for the grade your child needs, spending lessons on the questions where they drop the most marks."
 
 grade_from: "4"
 grade_to: "6"

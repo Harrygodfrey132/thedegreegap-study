@@ -6,7 +6,7 @@ location: Baldock
 level: A-Level
 hero_heading_line1: "Online A-Level Tutors in Baldock for the Year 12 Step Up"
 hero_heading_line2: ""
-hero_lead: "By October of Year 12, A-Level Maths can look nothing like the GCSE your child did well in last summer. It's a common shock, not a sign they chose wrong. Our Baldock A-Level tutors work on that gap well before the end-of-Year-12 exams that predicted grades lean on."
+hero_lead: "By October of Year 12, A-Level Maths can look nothing like the GCSE your child did well in last summer. It's a common shock, not a sign they chose wrong. Our A-Level tutors for Baldock students work on that gap well before the end-of-Year-12 exams that predicted grades lean on."
 grade_from: C
 grade_to: A
 grade_stat: "Cs to As for Alexander's child, plus help with university choices and applications."

@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Swindon GCSE Tutors for When Hours of Revision Aren't Moving the Grade"
 hero_heading_line2: ""
-hero_lead: "More hours at the desk is what most families try first, and it's hard to watch when the grade stays put. Our Swindon GCSE tutors find the few question types really costing your child marks, and spend the lessons on those."
+hero_lead: "More hours at the desk is what most families try first, and it's hard to watch when the grade stays put. Our GCSE tutors for Swindon students find the few question types really costing your child marks, and spend the lessons on those."
 
 grade_from: "5"
 grade_to: "6/7"

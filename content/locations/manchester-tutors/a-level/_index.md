@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Manchester A-Level Tutors to Close the Gap Between the Prediction and the Offer"
 hero_heading_line2: ""
-hero_lead: "The predicted grades are in, and they're below the offer your child had in mind. Our Manchester A-Level tutors find where the marks are slipping and work on them, whether the aim's a university place or a degree apprenticeship."
+hero_lead: "The predicted grades are in, and they're below the offer your child had in mind. Our A-Level tutors for Manchester students find where the marks are slipping and work on them, whether the aim's a university place or a degree apprenticeship."
 
 grade_from: "C"
 grade_to: "A"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Bishop's Stortford, Where English Counts Twice"
-hero_lead: "Language and Literature are two separate GCSEs, so English gives your child two of the eight grades most sixth forms here add up. Our Bishop's Stortford GCSE English tutors work one-to-one online, on the texts and papers your child will actually sit."
+hero_lead: "Language and Literature are two separate GCSEs, so English gives your child two of the eight grades most sixth forms here add up. Our GCSE English tutors for Bishop's Stortford students work one-to-one online, on the texts and papers your child will actually sit."
 
 angle_eyebrow: "TWO GRADES, NOT ONE"
 angle_heading: "Why English Counts Twice in Your Child's Points Total"

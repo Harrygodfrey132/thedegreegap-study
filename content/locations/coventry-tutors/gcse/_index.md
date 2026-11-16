@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Coventry GCSE Tutors Who Steady a Slipping Grade Before the Next Mocks"
 hero_heading_line2: ""
-hero_lead: "Year 10 seemed fine. Then the Year 11 mocks came home, and the grades were lower than anyone expected, your child included. Our Coventry GCSE tutors find the topics quietly losing marks and rebuild them before the next round, when predicted grades start to settle."
+hero_lead: "Year 10 seemed fine. Then the Year 11 mocks came home, and the grades were lower than anyone expected, your child included. Our GCSE tutors for Coventry students find the topics quietly losing marks and rebuild them before the next round, when predicted grades start to settle."
 
 grade_from: "5"
 grade_to: "6/7"

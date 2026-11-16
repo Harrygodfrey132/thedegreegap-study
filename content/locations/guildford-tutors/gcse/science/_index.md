@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors Helping Guildford Families"
-hero_lead: "Plenty of children sit through a Science lesson lost and say nothing, because asking in front of the whole class feels worse than not knowing. Our Guildford GCSE Science tutors give your child one-to-one time online, where 'can you explain that again?' is the whole point."
+hero_lead: "Plenty of children sit through a Science lesson lost and say nothing, because asking in front of the whole class feels worse than not knowing. Our GCSE Science tutors for Guildford students give your child one-to-one time online, where 'can you explain that again?' is the whole point."
 
 angle_eyebrow: "THE QUESTIONS YOUR CHILD NEVER ASKS IN CLASS"
 angle_heading: "Why Unasked Questions End Up Costing Your Child Science Marks"

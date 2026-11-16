@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Norwich A-Level Tutors for the Child Who Knows It but Drops Marks"
 hero_heading_line2: ""
-hero_lead: "Your child can talk you through the topic at the kitchen table, then the marked paper comes back a grade lower. They're two different skills: knowing it, and scoring on it. Our Norwich A-Level tutors work on the second, because by Year 13 the first is rarely what's missing."
+hero_lead: "Your child can talk you through the topic at the kitchen table, then the marked paper comes back a grade lower. They're two different skills: knowing it, and scoring on it. Our A-Level tutors for Norwich students work on the second, because by Year 13 the first is rarely what's missing."
 
 grade_from: "C"
 grade_to: "A"

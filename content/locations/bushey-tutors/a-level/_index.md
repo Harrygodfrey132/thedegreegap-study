@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online A-Level Tutors in Bushey for Knowing the Content but Losing the Marks"
 hero_heading_line2: ""
-hero_lead: "Your child can explain the topic perfectly well over dinner, then the marked essay or paper comes back a grade lower than either of you expected. Our Bushey A-Level tutors track down where those marks are going, then practise the fix with your child in one-to-one online lessons."
+hero_lead: "Your child can explain the topic perfectly well over dinner, then the marked essay or paper comes back a grade lower than either of you expected. Our A-Level tutors for Bushey students track down where those marks are going, then practise the fix with your child in one-to-one online lessons."
 
 grade_from: "E"
 grade_to: "B"

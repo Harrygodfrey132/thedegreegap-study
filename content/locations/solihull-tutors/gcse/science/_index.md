@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutoring for Solihull, Starting With the Practicals"
-hero_lead: "Part of every Science paper asks about experiments your child has already done in a school lab, and it's nearly always the last thing anyone revises. Our Solihull GCSE Science tutors start there, because those are some of the easiest marks on the paper to win back."
+hero_lead: "Part of every Science paper asks about experiments your child has already done in a school lab, and it's nearly always the last thing anyone revises. Our GCSE Science tutors for Solihull students start there, because those are some of the easiest marks on the paper to win back."
 
 angle_eyebrow: "THE EASIEST SCIENCE MARKS TO WIN BACK"
 angle_heading: "The Practicals Your Child Revises Last Are the Marks They Lose First"

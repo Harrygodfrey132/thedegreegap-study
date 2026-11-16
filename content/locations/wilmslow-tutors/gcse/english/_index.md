@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors Covering Wilmslow, for Language and Literature"
-hero_lead: "Your child reads all the time, so why is English the grade that's stuck? Our Wilmslow GCSE English tutors focus on planning, timing and quotations, one-to-one and online, using the novel, play and poems your child is actually studying."
+hero_lead: "Your child reads all the time, so why is English the grade that's stuck? Our GCSE English tutors for Wilmslow students focus on planning, timing and quotations, one-to-one and online, using the novel, play and poems your child is actually studying."
 
 card_heading: "Tell us what's going on with your child's GCSE English"
 card_points:

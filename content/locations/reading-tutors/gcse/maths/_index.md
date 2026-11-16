@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Reading Families"
-hero_lead: "When the Maths mock comes home, the grade is what everyone looks at. But a mock is one morning's work, not a verdict. Our Reading GCSE Maths tutors go through the paper itself with your child, see what it's really showing and rebuild from there."
+hero_lead: "When the Maths mock comes home, the grade is what everyone looks at. But a mock is one morning's work, not a verdict. Our GCSE Maths tutors for Reading students go through the paper itself with your child, see what it's really showing and rebuild from there."
 
 angle_eyebrow: "WHAT A MOCK ACTUALLY MEASURES"
 angle_heading: "Why the Mock Paper Tells You More Than the Grade on It"

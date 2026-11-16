@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors Supporting Derby Families"
-hero_lead: "Ask your child which Science experiments they did themselves, rather than watched a teacher do, and the answer can be surprising. Those required practicals come up in the written papers and can't be caught up by reading alone, so our Derby GCSE Science tutors start there."
+hero_lead: "Ask your child which Science experiments they did themselves, rather than watched a teacher do, and the answer can be surprising. Those required practicals come up in the written papers and can't be caught up by reading alone, so our GCSE Science tutors for Derby students start there."
 
 angle_eyebrow: "THE PART YOU CAN'T READ YOUR WAY INTO"
 angle_heading: "Why the Required Practicals Can Cost More Marks Than You'd Expect"

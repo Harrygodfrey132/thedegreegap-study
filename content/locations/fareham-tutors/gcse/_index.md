@@ -6,7 +6,7 @@ location: "Fareham"
 level: "GCSE"
 
 hero_heading_line1: "Online GCSE Tutors in Fareham Who Keep Your Child's College Choices Open"
-hero_lead: "Two or three colleges on the shortlist, and none of them ask for quite the same grades. Our Fareham GCSE tutors work towards whichever asks the most, in weekly one-to-one lessons online, so nothing gets ruled out by accident."
+hero_lead: "Two or three colleges on the shortlist, and none of them ask for quite the same grades. Our GCSE tutors for Fareham students work towards whichever asks the most, in weekly one-to-one lessons online, so nothing gets ruled out by accident."
 
 grade_from: "4"
 grade_to: "6"

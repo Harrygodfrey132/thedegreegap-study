@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for Cheltenham and Gloucestershire"
-hero_lead: "Your child did the experiments in the lab, and the written questions about them still cost marks. They're worth more than most people think. Our Cheltenham A-Level Chemistry tutors work on methods, evaluation and titrations."
+hero_lead: "Your child did the experiments in the lab, and the written questions about them still cost marks. They're worth more than most people think. Our A-Level Chemistry tutors for Cheltenham students work on methods, evaluation and titrations."
 
 angle_eyebrow: "THE QUESTIONS NOBODY REVISES FOR"
 angle_heading: "Why the Lab Went Fine and the Practical Questions Didn't"

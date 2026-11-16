@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Beaconsfield A-Level Tutors for the Year 12 Wobble Nobody Warned You About"
 hero_heading_line2: ""
-hero_lead: "Your child sailed through GCSEs. Then the first Year 12 test came home with a mark that shocked everyone, them included. Our Beaconsfield A-Level tutors work one-to-one online to find where the marks went, and it's early enough to do something about it."
+hero_lead: "Your child sailed through GCSEs. Then the first Year 12 test came home with a mark that shocked everyone, them included. Our A-Level tutors for Beaconsfield students work one-to-one online to find where the marks went, and it's early enough to do something about it."
 
 grade_from: "C"
 grade_to: "A"

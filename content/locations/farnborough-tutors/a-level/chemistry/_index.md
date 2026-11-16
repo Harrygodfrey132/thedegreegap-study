@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutors for Farnborough, Picked for Your Child's Exam Board"
-hero_lead: "Knowing which Period 3 oxides are acidic won't get your child far, because the paper asks them to predict it. Our Farnborough A-Level Chemistry tutors start from the bonding underneath, so the behaviour follows instead of being memorised."
+hero_lead: "Knowing which Period 3 oxides are acidic won't get your child far, because the paper asks them to predict it. Our A-Level Chemistry tutors for Farnborough students start from the bonding underneath, so the behaviour follows instead of being memorised."
 
 angle_eyebrow: "PREDICTING RATHER THAN REMEMBERING"
 angle_heading: "Why Learning the Table Off by Heart Doesn't Work for Period 3 Oxides"

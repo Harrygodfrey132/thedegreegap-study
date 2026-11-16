@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors Supporting Liverpool Families"
-hero_lead: "Year 13 is where Biology goes from manageable to huge, often for children who were comfortable in Year 12. Our Liverpool A-Level Biology tutors work on the second-year topics that carry the most marks: coordination, control and gene technologies."
+hero_lead: "Year 13 is where Biology goes from manageable to huge, often for children who were comfortable in Year 12. Our A-Level Biology tutors for Liverpool students work on the second-year topics that carry the most marks: coordination, control and gene technologies."
 
 angle_eyebrow: "THE YEAR THE CONTENT DOUBLES"
 angle_heading: "When Year 12 Biology Went Fine and Year 13 Doesn't"

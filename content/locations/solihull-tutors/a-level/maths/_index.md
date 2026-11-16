@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online Solihull A-Level Maths Tutors for Every Statistics Mark"
-hero_lead: "The Statistics questions often feel easy, and then the marks come back lower. Our Solihull A-Level Maths tutors show your child where those marks went: the assumptions around a hypothesis test, and a conclusion that earns its marks."
+hero_lead: "The Statistics questions often feel easy, and then the marks come back lower. Our A-Level Maths tutors for Solihull students show your child where those marks went: the assumptions around a hypothesis test, and a conclusion that earns its marks."
 
 angle_eyebrow: "THE ARITHMETIC IS THE EASY BIT"
 angle_heading: "Why a Strong Solihull Sixth Former Can Still Drop Marks on Statistics"

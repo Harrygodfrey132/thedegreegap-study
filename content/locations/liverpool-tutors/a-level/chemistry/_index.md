@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Liverpool A-Level Chemistry Tutoring, Online and Matched to Your Child"
-hero_lead: "If your child revised well in Year 12, a disappointing Year 13 Chemistry mock can come as a real shock. Our Liverpool A-Level Chemistry tutors work on the questions that ask your child to interpret rather than remember: transition metals, electrochemistry and reading a spectrum."
+hero_lead: "If your child revised well in Year 12, a disappointing Year 13 Chemistry mock can come as a real shock. Our A-Level Chemistry tutors for Liverpool students work on the questions that ask your child to interpret rather than remember: transition metals, electrochemistry and reading a spectrum."
 
 angle_eyebrow: "WHEN LEARNING IT ISN'T ENOUGH ANY MORE"
 angle_heading: "Why Year 13 Chemistry Catches Out Children Who Revised Well"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors in Peterborough Who Help Your Child Show the Working"
-hero_lead: "Does your child do the Maths in their head and just write the answer? On a long question most marks are for the working, so they're giving away marks they've earned. Our Peterborough GCSE Maths tutors spend one-to-one online lessons on what goes down on the page."
+hero_lead: "Does your child do the Maths in their head and just write the answer? On a long question most marks are for the working, so they're giving away marks they've earned. Our GCSE Maths tutors for Peterborough students spend one-to-one online lessons on what goes down on the page."
 
 angle_eyebrow: "THE MARKS NOBODY WROTE DOWN"
 angle_heading: "Why Right Answers Still Lose Marks on a Maths Paper"

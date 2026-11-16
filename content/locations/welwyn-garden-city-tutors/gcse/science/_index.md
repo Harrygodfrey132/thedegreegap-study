@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors in Welwyn Garden City, for When Revision Isn't Paying Off"
-hero_lead: "The flashcards come out every night, and the Science mock still comes back at the same grade. Lots of families tell us exactly that, and it's rarely about effort. Our Welwyn Garden City GCSE Science tutors change what the revision is, not how much of it there is."
+hero_lead: "The flashcards come out every night, and the Science mock still comes back at the same grade. Lots of families tell us exactly that, and it's rarely about effort. Our GCSE Science tutors for Welwyn Garden City students change what the revision is, not how much of it there is."
 
 angle_eyebrow: "ALL THAT REVISION, AND THE SAME GRADE"
 angle_heading: "When Weeks of Science Revision Don't Move the Grade"

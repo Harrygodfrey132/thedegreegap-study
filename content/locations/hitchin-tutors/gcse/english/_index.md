@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Hitchin Families, From Learning Quotations to Unseen Texts"
-hero_lead: "GCSE English asks your child to remember quotations with the book shut, then write well about a text they've never seen. Two very different skills. Our Hitchin GCSE English tutors cover both halves of that, one-to-one and online."
+hero_lead: "GCSE English asks your child to remember quotations with the book shut, then write well about a text they've never seen. Two very different skills. Our GCSE English tutors for Hitchin students cover both halves of that, one-to-one and online."
 
 angle_eyebrow: "TWO PAPERS, TWO KINDS OF PRESSURE"
 angle_heading: "Where Hitchin Teenagers Drop Marks in GCSE English"

@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online A-Level Tutors in Abingdon for Year 12, Before Predicted Grades Are Set"
 hero_heading_line2: ""
-hero_lead: "If your child's first Year 12 test came back lower than any grade they got at GCSE, they're not alone. Our Abingdon A-Level tutors work out whether it's the content or the way the answers are written, one-to-one online, while most of Year 12 is still ahead."
+hero_lead: "If your child's first Year 12 test came back lower than any grade they got at GCSE, they're not alone. Our A-Level tutors for Abingdon students work out whether it's the content or the way the answers are written, one-to-one online, while most of Year 12 is still ahead."
 
 grade_from: "E"
 grade_to: "C"

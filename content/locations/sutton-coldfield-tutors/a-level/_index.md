@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Sutton Coldfield A-Level Tutors for When Year 13 Deadlines All Land Together"
 hero_heading_line2: ""
-hero_lead: "If your child's in Year 13, you've probably watched the autumn fill up fast: coursework deadlines, mocks and the UCAS form, all in the same few weeks. Our Sutton Coldfield A-Level tutors help them through that term without one thing swallowing the rest."
+hero_lead: "If your child's in Year 13, you've probably watched the autumn fill up fast: coursework deadlines, mocks and the UCAS form, all in the same few weeks. Our A-Level tutors for Sutton Coldfield students help them through that term without one thing swallowing the rest."
 
 grade_from: "E"
 grade_to: "C"

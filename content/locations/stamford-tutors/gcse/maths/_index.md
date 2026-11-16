@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Stamford, Ketton and Easton on the Hill"
-hero_lead: "Your child follows the lesson in class, then the non-calculator paper comes round and the marks fall away. Our Stamford GCSE Maths tutors rebuild the fractions and algebra underneath, one method at a time, in one-to-one lessons online."
+hero_lead: "Your child follows the lesson in class, then the non-calculator paper comes round and the marks fall away. Our GCSE Maths tutors for Stamford students rebuild the fractions and algebra underneath, one method at a time, in one-to-one lessons online."
 
 angle_eyebrow: "ONE PAPER WITHOUT A CALCULATOR"
 angle_heading: "What the Non-Calculator Paper Shows About Your Child's Maths"

@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Maidstone A-Level Tutors for the Topic Your Child Needed Explained Twice"
 hero_heading_line2: ""
-hero_lead: "In Year 12 a topic gets explained once and the class moves on. If your child needed to hear it twice, they'll often just pretend they didn't. Our Maidstone A-Level tutors give the second explanation, and a third if that's the one that lands."
+hero_lead: "In Year 12 a topic gets explained once and the class moves on. If your child needed to hear it twice, they'll often just pretend they didn't. Our A-Level tutors for Maidstone students give the second explanation, and a third if that's the one that lands."
 
 grade_from: "C"
 grade_to: "A"

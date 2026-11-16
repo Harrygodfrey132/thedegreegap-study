@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors for Winchester Children Stuck on a 6"
-hero_lead: "Beautiful writing, and the grade still says 6. We hear that from Winchester parents more than anything else about English. Our Winchester GCSE English tutors close the gap by teaching your child what the examiner actually rewards, and it isn't fluency."
+hero_lead: "Beautiful writing, and the grade still says 6. We hear that from Winchester parents more than anything else about English. Our GCSE English tutors for Winchester students close the gap by teaching your child what the examiner actually rewards, and it isn't fluency."
 
 angle_eyebrow: "WHY FLUENT WRITING STALLS AT A GRADE 6"
 angle_heading: "What a Winchester English Examiner Is Really Paying For"

@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Bradford A-Level Tutoring for the Predicted Grade and the Apprenticeship Application Beside It"
 hero_heading_line2: ""
-hero_lead: "Year 13 feels like it ends in June. It mostly ends in the autumn, when predictions get written and applications go in. Our Bradford A-Level tutors work backwards from that date, one-to-one and online over Lessonspace."
+hero_lead: "Year 13 feels like it ends in June. It mostly ends in the autumn, when predictions get written and applications go in. Our A-Level tutors for Bradford students work backwards from that date, one-to-one and online over Lessonspace."
 
 grade_from: "C"
 grade_to: "A"

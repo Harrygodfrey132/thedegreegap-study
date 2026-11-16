@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Farnham GCSE Tutors for the Year of Mocks and College Applications"
 hero_heading_line2: ""
-hero_lead: "In Year 11 your child is revising for mocks and choosing a college in the same few months, and that's a lot for one teenager. Our Farnham GCSE tutors take the subject that worries you most and work on it with your child, one-to-one and online."
+hero_lead: "In Year 11 your child is revising for mocks and choosing a college in the same few months, and that's a lot for one teenager. Our GCSE tutors for Farnham students take the subject that worries you most and work on it with your child, one-to-one and online."
 
 grade_from: "E"
 grade_to: "B"

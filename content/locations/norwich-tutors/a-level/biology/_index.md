@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors Covering Norwich"
-hero_lead: "Did your child pick Biology partly to get away from maths? Ecology is where the numbers come back. Our Norwich A-Level Biology tutors work on the calculations most teenagers don't see coming."
+hero_lead: "Did your child pick Biology partly to get away from maths? Ecology is where the numbers come back. Our A-Level Biology tutors for Norwich students work on the calculations most teenagers don't see coming."
 
 angle_eyebrow: "WHERE THE MATHS COMES BACK"
 angle_heading: "Why Ecology Catches Out Teenagers Who Picked Biology to Avoid Maths"

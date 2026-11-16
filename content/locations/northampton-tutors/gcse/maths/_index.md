@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Northampton, When the Non-Calculator Paper Keeps Slipping"
-hero_lead: "The non-calculator paper keeps coming back lower than the other two, and nobody can quite tell you why. Our Northampton GCSE Maths tutors rebuild the arithmetic and algebra underneath it, one-to-one and online using the platform Lessonspace."
+hero_lead: "The non-calculator paper keeps coming back lower than the other two, and nobody can quite tell you why. Our GCSE Maths tutors for Northampton students rebuild the arithmetic and algebra underneath it, one-to-one and online using the platform Lessonspace."
 
 angle_eyebrow: "WHY THE PAPER WITHOUT A CALCULATOR HURTS MOST"
 angle_heading: "Where the Non-Calculator Paper Quietly Takes the Grade"

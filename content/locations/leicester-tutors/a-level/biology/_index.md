@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Biology"
 
 hero_h1: "Online A-Level Biology Tutors Covering Leicester"
-hero_lead: "A lesson a week is one hour, and what your child does in the other hundred and sixty-seven decides how far it goes. Our Leicester A-Level Biology tutors plan both."
+hero_lead: "A lesson a week is one hour, and what your child does in the other hundred and sixty-seven decides how far it goes. Our A-Level Biology tutors for Leicester students plan both."
 
 angle_eyebrow: "THE WEEK BETWEEN THE LESSONS"
 angle_heading: "Why Your Child's Biology Revision Might Be Building the Wrong Thing"

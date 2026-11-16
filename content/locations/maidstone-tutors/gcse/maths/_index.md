@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Maidstone, Foundation or Higher"
-hero_lead: "The Maths grade comes home as one number, but your child earned it across three papers, and they rarely go wrong evenly. Our Maidstone GCSE Maths tutors work out which paper, and which topic on it, is costing the marks. That's where the lessons start."
+hero_lead: "The Maths grade comes home as one number, but your child earned it across three papers, and they rarely go wrong evenly. Our GCSE Maths tutors for Maidstone students work out which paper, and which topic on it, is costing the marks. That's where the lessons start."
 
 angle_eyebrow: "ONE GRADE, THREE PAPERS, TWO TIERS"
 angle_heading: "Same Three Papers, Very Different Reasons for Losing Marks on Them"

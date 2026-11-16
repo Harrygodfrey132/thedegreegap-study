@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Cheltenham, After a Shaky First Term of Year 12"
-hero_lead: "Lots of Cheltenham parents see it every autumn: a strong GCSE Maths grade, then a first Year 12 report that reads worse. It doesn't mean Maths was the wrong choice. Our Cheltenham A-Level Maths tutors close that gap while your child's predicted grade can still move."
+hero_lead: "Lots of Cheltenham parents see it every autumn: a strong GCSE Maths grade, then a first Year 12 report that reads worse. It doesn't mean Maths was the wrong choice. Our A-Level Maths tutors for Cheltenham students close that gap while your child's predicted grade can still move."
 
 angle_eyebrow: "THE YEAR 12 DROP IN A-LEVEL MATHS"
 angle_heading: "Why Year 12 Maths Asks Your Child for a Different Skill"

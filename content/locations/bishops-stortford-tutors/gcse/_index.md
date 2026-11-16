@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Bishop's Stortford GCSE Tutors for the One Grade Pulling the Rest Down"
 hero_heading_line2: ""
-hero_lead: "If one of your child's GCSEs is lagging behind the others, it matters more here than you'd think. Most sixth forms around Bishop's Stortford add eight grades together. Our Bishop's Stortford GCSE tutors work one-to-one on the subject that'll lift that total most."
+hero_lead: "If one of your child's GCSEs is lagging behind the others, it matters more here than you'd think. Most sixth forms around Bishop's Stortford add eight grades together. Our GCSE tutors for Bishop's Stortford students work one-to-one on the subject that'll lift that total most."
 
 grade_from: "4-5"
 grade_to: "8"

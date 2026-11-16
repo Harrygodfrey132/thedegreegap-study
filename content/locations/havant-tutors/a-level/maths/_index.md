@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutors for Havant Teenagers Who Run Out of Time"
-hero_lead: "A mock with the last few questions left blank often says more about time than ability. And they're often the ones worth the most marks. Our Havant A-Level Maths tutors work on pacing as much as method."
+hero_lead: "A mock with the last few questions left blank often says more about time than ability. And they're often the ones worth the most marks. Our A-Level Maths tutors for Havant students work on pacing as much as method."
 
 angle_eyebrow: "THE MARKS AT THE BACK OF THE PAPER"
 angle_heading: "Running Out of Time Can Cost Your Child More Than Mistakes"

@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "English"
 
 hero_h1: "Online GCSE English Tutors Helping Sheffield Families"
-hero_lead: "The essays come home with comments you can't do much with, and the grade hasn't shifted in a year. Our Sheffield GCSE English tutors mark your child's own writing the way the examiners do and show them exactly where the marks stopped."
+hero_lead: "The essays come home with comments you can't do much with, and the grade hasn't shifted in a year. Our GCSE English tutors for Sheffield students mark your child's own writing the way the examiners do and show them exactly where the marks stopped."
 
 angle_eyebrow: "A YEAR OF EFFORT, THE SAME ENGLISH GRADE"
 angle_heading: "When Your Child's English Grade Won't Move: What a Sheffield Tutor Does"

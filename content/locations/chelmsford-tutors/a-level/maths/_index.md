@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutoring Across Chelmsford"
-hero_lead: "Tidy A-Level Maths working, and the vector questions still keep going wrong? The problem's usually the picture, not the sums. Our Chelmsford A-Level Maths tutors get your child seeing the question before calculating anything."
+hero_lead: "Tidy A-Level Maths working, and the vector questions still keep going wrong? The problem's usually the picture, not the sums. Our A-Level Maths tutors for Chelmsford students get your child seeing the question before calculating anything."
 
 angle_eyebrow: "DRAW IT FIRST, CALCULATE SECOND"
 angle_heading: "Why Vectors Catch Out a Child Who's Fine at Algebra"

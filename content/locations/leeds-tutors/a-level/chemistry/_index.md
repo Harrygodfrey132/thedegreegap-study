@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Chemistry"
 
 hero_h1: "Online A-Level Chemistry Tutoring for Leeds Families"
-hero_lead: "Your child may tell you organic chemistry is the hard part, then the mock comes back and tells a different story. Our Leeds A-Level Chemistry tutors work on the physical chemistry where the grade is usually decided: equilibrium, energetics and the calculations it's tempting to skip."
+hero_lead: "Your child may tell you organic chemistry is the hard part, then the mock comes back and tells a different story. Our A-Level Chemistry tutors for Leeds students work on the physical chemistry where the grade is usually decided: equilibrium, energetics and the calculations it's tempting to skip."
 
 angle_eyebrow: "THE SIDE OF CHEMISTRY THAT GETS SKIPPED"
 angle_heading: "Organic Gets the Blame, but Physical Chemistry Costs the Marks"

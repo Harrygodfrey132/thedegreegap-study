@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Every London Borough"
-hero_lead: "We tend to hear one of two GCSE Maths worries from London parents. Your child's a few marks off the sixth form they want, or they've moved up to the higher papers without the algebra for them. Either way, our London GCSE Maths tutors start with a marked paper."
+hero_lead: "We tend to hear one of two GCSE Maths worries from London parents. Your child's a few marks off the sixth form they want, or they've moved up to the higher papers without the algebra for them. Either way, our GCSE Maths tutors for London students start with a marked paper."
 
 angle_eyebrow: "TWO GCSE MATHS WORRIES WE HEAR ACROSS LONDON"
 angle_heading: "Why Both London Maths Worries End Up on the Same Questions"

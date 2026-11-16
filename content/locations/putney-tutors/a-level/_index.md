@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Putney A-Level Tutors for Sixth Formers Whose GCSE Help Has Run Out"
 hero_heading_line2: ""
-hero_lead: "The help that carried your child through GCSEs, whether it was you at the kitchen table or a tutor a friend recommended, often runs out a few weeks into Year 12. Our Putney A-Level tutors are chosen for the subject and board your child is actually taking."
+hero_lead: "The help that carried your child through GCSEs, whether it was you at the kitchen table or a tutor a friend recommended, often runs out a few weeks into Year 12. Our A-Level tutors for Putney students are chosen for the subject and board your child is actually taking."
 
 grade_from: "C"
 grade_to: "A"

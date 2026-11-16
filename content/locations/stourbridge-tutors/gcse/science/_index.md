@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Stourbridge Students Who Know It but Drop the Six-Markers"
-hero_lead: "Your child has revised for hours, can talk you through photosynthesis, and still came home with a disappointing Science mark. Our Stourbridge GCSE Science tutors work on the six-mark answers and practical questions, where knowing something and scoring it are two different skills."
+hero_lead: "Your child has revised for hours, can talk you through photosynthesis, and still came home with a disappointing Science mark. Our GCSE Science tutors for Stourbridge students work on the six-mark answers and practical questions, where knowing something and scoring it are two different skills."
 
 angle_eyebrow: "THE LONG ANSWERS AND THE PRACTICALS"
 angle_heading: "Where Stourbridge Teenagers Lose Marks on GCSE Science Papers"

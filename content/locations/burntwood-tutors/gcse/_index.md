@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online Burntwood GCSE Tutors Who Work Back From the Grades Your Child Needs"
 hero_heading_line2: ""
-hero_lead: "By the autumn of Year 11 your child is filling in sixth form forms, and every subject they pick comes with its own GCSE grade to hit. Our Burntwood GCSE tutors find out which grades matter most and spend the lessons closing the gap to those."
+hero_lead: "By the autumn of Year 11 your child is filling in sixth form forms, and every subject they pick comes with its own GCSE grade to hit. Our GCSE tutors for Burntwood students find out which grades matter most and spend the lessons closing the gap to those."
 
 grade_from: "4-5"
 grade_to: "8"

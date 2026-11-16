@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Norwich and Norfolk Families"
-hero_lead: "In the exam, some formulae are given to your child and the rest have to be learnt by heart, and not knowing which is which costs time and marks. Our Norwich GCSE Maths tutors sort that out early, online and one-to-one."
+hero_lead: "In the exam, some formulae are given to your child and the rest have to be learnt by heart, and not knowing which is which costs time and marks. Our GCSE Maths tutors for Norwich students sort that out early, online and one-to-one."
 
 angle_eyebrow: "WHAT THE PAPER GIVES YOU"
 angle_heading: "Which Formulae Your Child Gets in the Exam, and Which They Have to Learn"

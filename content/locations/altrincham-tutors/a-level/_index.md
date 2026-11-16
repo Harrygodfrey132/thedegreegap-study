@@ -7,7 +7,7 @@ level: "A-Level"
 
 hero_heading_line1: "Online Altrincham A-Level Tutors for a Wobbly First Term in Year 12"
 hero_heading_line2: ""
-hero_lead: "Year 12 can put your child in a new sixth form, with new teachers and a subject that's quietly changed shape since GCSE. Our Altrincham A-Level tutors go back for whatever slipped through in the move and fix it, one-to-one and online, before the first mock."
+hero_lead: "Year 12 can put your child in a new sixth form, with new teachers and a subject that's quietly changed shape since GCSE. Our A-Level tutors for Altrincham students go back for whatever slipped through in the move and fix it, one-to-one and online, before the first mock."
 
 grade_from: "C"
 grade_to: "A"

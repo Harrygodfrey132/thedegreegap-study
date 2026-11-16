@@ -8,7 +8,7 @@ level: "A-Level"
 subject: "Maths"
 
 hero_h1: "Online A-Level Maths Tutoring in Harrow, for When Lessons Make Sense but Papers Don't"
-hero_lead: "Following every method in class, then sitting in front of a past paper with no idea which one a question wants: if that's your child, they're far from alone. Our Harrow A-Level Maths tutors work on exactly that, one-to-one online, with mixed questions that never name the topic."
+hero_lead: "Following every method in class, then sitting in front of a past paper with no idea which one a question wants: if that's your child, they're far from alone. Our A-Level Maths tutors for Harrow students work on exactly that, one-to-one online, with mixed questions that never name the topic."
 
 angle_eyebrow: "FINE IN CLASS, STUCK ON THE PAPER"
 angle_heading: "When Your Child Can Do the Maths but Can't Tell Which Maths to Do"

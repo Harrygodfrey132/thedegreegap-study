@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors for Banbury Families Weighing Up Higher or Foundation"
-hero_lead: "Has Higher or Foundation Science come up at parents' evening, and you're not sure which is right? It's one of the biggest calls in Year 10. Our Banbury GCSE Science tutors help you make it from a marked paper, not a hunch."
+hero_lead: "Has Higher or Foundation Science come up at parents' evening, and you're not sure which is right? It's one of the biggest calls in Year 10. Our GCSE Science tutors for Banbury students help you make it from a marked paper, not a hunch."
 
 angle_eyebrow: "HIGHER OR FOUNDATION?"
 angle_heading: "Higher or Foundation Science, and What Should Really Decide It"

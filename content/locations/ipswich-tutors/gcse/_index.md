@@ -7,7 +7,7 @@ level: "GCSE"
 
 hero_heading_line1: "Online GCSE tutoring in Ipswich for the winter mocks a college reads first"
 hero_heading_line2: ""
-hero_lead: "Post-16 applications go in during the autumn, and the mock sat weeks later is what an offer gets checked against. Our Ipswich GCSE tutors work to that date, one-to-one and online over Lessonspace."
+hero_lead: "Post-16 applications go in during the autumn, and the mock sat weeks later is what an offer gets checked against. Our GCSE tutors for Ipswich students work to that date, one-to-one and online over Lessonspace."
 
 grade_from: "E"
 grade_to: "B"

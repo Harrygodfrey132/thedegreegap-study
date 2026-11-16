@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Maths"
 
 hero_h1: "Online GCSE Maths Tutors for Godalming, Farncombe and Milford"
-hero_lead: "Godalming College currently wants at least a 6 for A-Level Maths, and your child's last mock said 5. Our Godalming GCSE Maths tutors go through that paper with your child, one-to-one and online, to find which topics the missing marks belong to."
+hero_lead: "Godalming College currently wants at least a 6 for A-Level Maths, and your child's last mock said 5. Our GCSE Maths tutors for Godalming students go through that paper with your child, one-to-one and online, to find which topics the missing marks belong to."
 
 card_eyebrow: "FREE CONSULTATION CALL"
 card_heading: "Tell us where your child's Maths is now"

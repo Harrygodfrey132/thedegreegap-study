@@ -8,7 +8,7 @@ level: "GCSE"
 subject: "Science"
 
 hero_h1: "Online GCSE Science Tutors Helping St Neots Teenagers"
-hero_lead: "Your child might understand the science and still drop marks on the maths inside it, like rearranging an equation or converting units. Our St Neots GCSE Science tutors work on those exact steps with your child, one-to-one and online."
+hero_lead: "Your child might understand the science and still drop marks on the maths inside it, like rearranging an equation or converting units. Our GCSE Science tutors for St Neots students work on those exact steps with your child, one-to-one and online."
 
 card_eyebrow: "FREE CONSULTATION"
 card_heading: "A free chat about your child's Science"
