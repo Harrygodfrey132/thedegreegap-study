@@ -641,6 +641,12 @@
     return (st.nightoff && i === st.nightoff - 1) ? 0 : st.weekday;
   }
 
+  /* Days off that nobody revises on (Harry, 16 Nov 2026): Christmas Day,
+     Boxing Day and New Year's Day, by month (0-based) and day. They show as
+     rest days with their name, everywhere the plan is drawn. */
+  var HOLIDAYS = { '11-25': 'Christmas Day', '11-26': 'Boxing Day', '0-1': "New Year's Day" };
+  function holidayOn(d) { return HOLIDAYS[d.getMonth() + '-' + d.getDate()] || ''; }
+
   function buildPlan(st) {
     var start = parseDate(st.start), exam = parseDate(st.exam);
     /* Each subject starts at a different point in the task list, so the first
@@ -655,7 +661,8 @@
         var d = addDays(ws, k);
         if (d < start) continue;
         if (daysBetween(d, exam) === 0) { days.push({ date: d, exam: true, slots: [] }); break; }
-        var n = sessionsOn(d, st), slots = [], used = {};
+        var holiday = holidayOn(d);
+        var n = holiday ? 0 : sessionsOn(d, st), slots = [], used = {};
         var weeksLeft = Math.ceil(daysBetween(d, exam) / 7);
         var phase = weeksLeft > 12 ? 0 : (weeksLeft > 4 ? 1 : 2);
         for (var j = 0; j < n; j++) {
@@ -672,7 +679,7 @@
           pick.count++;
           slots.push({ s: pick.i, task: TASKS[phase][pick.task++ % 3] });
         }
-        days.push({ date: d, slots: slots });
+        days.push({ date: d, slots: slots, holiday: holiday });
       }
       if (days.length) weeks.push({ start: ws, days: days });
     }
@@ -720,7 +727,7 @@
       var label = '<div class="rt-day__label">' + DAY_NAMES[dayIndex(day.date)].slice(0, 3) + ' <span>' + short(day.date) + '</span></div>';
       var body;
       if (day.exam) body = '<div class="rt-slot rt-slot--exam">First exam. Good luck.</div>';
-      else if (!day.slots.length) body = '<div class="rt-slot rt-slot--rest">Rest</div>';
+      else if (!day.slots.length) body = '<div class="rt-slot rt-slot--rest">' + (day.holiday ? esc(day.holiday) + ': rest' : 'Rest') + '</div>';
       else body = day.slots.map(slotHtml).join('');
       return '<div class="rt-day">' + label + '<div class="rt-slots">' + body + '</div></div>';
     }).join('');
@@ -785,7 +792,7 @@
     var rows = w.days.map(function (day) {
       var cells = '';
       if (day.exam) cells = '<td class="rtp-exam" colspan="' + plan.maxSlots + '">First exam. Good luck.</td>';
-      else if (!day.slots.length) cells = '<td class="rtp-rest" colspan="' + plan.maxSlots + '">Rest</td>';
+      else if (!day.slots.length) cells = '<td class="rtp-rest" colspan="' + plan.maxSlots + '">' + (day.holiday ? esc(day.holiday) + ': rest' : 'Rest') + '</td>';
       else {
         for (var k = 0; k < plan.maxSlots; k++) {
           var slot = day.slots[k];
@@ -826,7 +833,7 @@
         var row = [i + 1, DAY_NAMES[dayIndex(day.date)],
                    String(day.date.getDate()).padStart(2, '0') + '/' + String(day.date.getMonth() + 1).padStart(2, '0') + '/' + day.date.getFullYear()];
         if (day.exam) row.push('First exam');
-        else if (!day.slots.length) row.push('Rest');
+        else if (!day.slots.length) row.push(day.holiday ? day.holiday + ': rest' : 'Rest');
         else day.slots.forEach(function (slot) { row.push(plan.subjects[slot.s].name + ': ' + slot.task); });
         lines.push(row);
       });
@@ -957,6 +964,10 @@
     /* Worded exactly as on the webinar forms, and first, because the Zoho
        workflow that sets Lead Status is keyed on this line. */
     if (!el.tutoring_interest.disabled) notes.push('A-Level tutoring interest: ' + (el.tutoring_interest.checked ? 'Yes' : 'No'));
+    /* Zoho's web form drops Description, so the workflow keyed on the line
+       above never fires and downloads arrived with no Lead Status. Send it
+       directly, as the webinar form does; it lands (Harry, 16 Nov 2026). */
+    if (!el.tutoring_interest.disabled) add('Lead Status', el.tutoring_interest.checked ? 'Interested In Tutoring' : 'Not Interested In Tutoring');
     notes.push('Registering as: ' + role);
     notes.push('Downloaded the revision timetable templates');
     add('Description', notes.join('\n'));
