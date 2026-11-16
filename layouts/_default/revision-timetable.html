@@ -86,6 +86,9 @@
   .rt-topic[data-l="3"] { background: #fde2e1; border-color: #e8a3a0; color: #8a1c17; }
   .rt-topic[data-l="2"] { background: #fff1cf; border-color: #e6c873; color: #6b4e00; }
   .rt-topic[data-l="1"] { background: #e1f3e6; border-color: #9ccdab; color: #1f5e34; }
+  .rt-topic-add { display: inline-flex; gap: 6px; align-items: center; flex-basis: 100%; margin-top: 4px; }
+  .rt-topic-add .rt-input { max-width: 260px; padding: 6px 10px; font-size: 0.85rem; }
+  .rt-topic-del { font: inherit; border: 0; background: none; color: #8a1c17; cursor: pointer; margin-left: -4px; font-size: 1rem; line-height: 1; }
   .rt-slot time { display: block; font-size: 0.74rem; font-weight: 700; color: #5f5a54; }
   .rt-range { display: flex; align-items: center; gap: 6px; }
   .rt-range .rt-input { min-width: 0; flex: 1; }
@@ -639,7 +642,12 @@
   var subjects = [];   /* [{name, weight}] in the order chosen */
   var topicConf = {};  /* {subject: {topic: 1 green | 2 amber | 3 red}} */
   var openTopics = {};
-  function topicList(name) { return (level() === 'alevel' ? TOPICS_ALEVEL[name] : TOPICS[name]) || null; }
+  var customTopics = {};  /* {subject: [topic, ...]} added by the visitor */
+  function builtInTopics(name, lvl) { return ((lvl || level()) === 'alevel' ? TOPICS_ALEVEL[name] : TOPICS[name]) || []; }
+  function topicList(name, lvl) {
+    var all = builtInTopics(name, lvl).concat(customTopics[name] || []);
+    return all.length ? all : null;
+  }
   var plan = null, weekIndex = 0;
 
   function track(name, params) {
@@ -690,12 +698,16 @@
         CONFIDENCE.map(function (c) {
           return '<option value="' + c[0] + '"' + (c[0] === s.weight ? ' selected' : '') + '>' + c[1] + '</option>';
         }).join('') + '</select>' +
-        (topicList(s.name) ? '<button type="button" class="rt-topics-btn" data-rt-topics="' + i + '" aria-expanded="' + (openTopics[s.name] ? 'true' : 'false') + '">Topics</button>' : '') +
+        '<button type="button" class="rt-topics-btn" data-rt-topics="' + i + '" aria-expanded="' + (openTopics[s.name] ? 'true' : 'false') + '">Topics</button>' +
         '<button type="button" class="rt-remove" data-rt-remove="' + i + '" aria-label="Remove ' + esc(s.name) + '">&times;</button>' +
-        (topicList(s.name) && openTopics[s.name] ? '<div class="rt-topicbox">' + topicList(s.name).map(function (tp) {
+        (openTopics[s.name] ? '<div class="rt-topicbox">' + (topicList(s.name) || []).map(function (tp) {
             var l = (topicConf[s.name] || {})[tp] || 2;
-            return '<button type="button" class="rt-topic" data-rt-topic="' + i + '" data-t="' + esc(tp) + '" data-l="' + l + '" title="Tap to change: amber, red, green">' + esc(tp) + '</button>';
-          }).join('') + '</div>' : '') + '</li>';
+            var mine = (customTopics[s.name] || []).indexOf(tp) > -1;
+            return '<button type="button" class="rt-topic" data-rt-topic="' + i + '" data-t="' + esc(tp) + '" data-l="' + l + '" title="Tap to change: amber, red, green">' + esc(tp) + '</button>' +
+              (mine ? '<button type="button" class="rt-topic-del" data-rt-topicdel="' + i + '" data-t="' + esc(tp) + '" aria-label="Remove topic ' + esc(tp) + '">&times;</button>' : '');
+          }).join('') +
+          '<span class="rt-topic-add"><input type="text" class="rt-input" maxlength="60" data-rt-topicnew="' + i + '" placeholder="Add your own topic" aria-label="Add a topic to ' + esc(s.name) + '">' +
+          '<button type="button" class="rt-topics-btn" data-rt-topicadd="' + i + '">Add</button></span></div>' : '') + '</li>';
     }).join('');
     emptyNote.hidden = subjects.length > 0;
   }
@@ -726,9 +738,33 @@
     var i = e.target.getAttribute('data-rt-conf');
     if (i !== null && subjects[+i]) subjects[+i].weight = +e.target.value;
   });
+  function addTopic(i) {
+    var box = chosenList.querySelector('[data-rt-topicnew="' + i + '"]');
+    var name = box ? box.value.replace(/\s+/g, ' ').trim().slice(0, 60) : '';
+    if (!name) return;
+    var sn = subjects[i].name, all = topicList(sn) || [];
+    if (!all.some(function (x) { return x.toLowerCase() === name.toLowerCase(); })) {
+      customTopics[sn] = (customTopics[sn] || []).concat(name);
+      topicConf[sn] = topicConf[sn] || {}; topicConf[sn][name] = 3;
+    }
+    renderChosen();
+    var again = chosenList.querySelector('[data-rt-topicnew="' + i + '"]'); if (again) again.focus();
+  }
+  chosenList.addEventListener('keydown', function (e) {
+    var i = e.target.getAttribute && e.target.getAttribute('data-rt-topicnew');
+    if (i !== null && i !== undefined && e.key === 'Enter') { e.preventDefault(); addTopic(+i); }
+  });
   chosenList.addEventListener('click', function (e) {
     var tb = e.target.closest('[data-rt-topics]');
     if (tb) { var nm = subjects[+tb.getAttribute('data-rt-topics')].name; openTopics[nm] = !openTopics[nm]; renderChosen(); return; }
+    var add = e.target.closest('[data-rt-topicadd]');
+    if (add) { addTopic(+add.getAttribute('data-rt-topicadd')); return; }
+    var del = e.target.closest('[data-rt-topicdel]');
+    if (del) {
+      var dn = subjects[+del.getAttribute('data-rt-topicdel')].name, dt = del.getAttribute('data-t');
+      customTopics[dn] = (customTopics[dn] || []).filter(function (x) { return x !== dt; });
+      renderChosen(); return;
+    }
     var tp = e.target.closest('[data-rt-topic]');
     if (tp) {
       var sn = subjects[+tp.getAttribute('data-rt-topic')].name, name = tp.getAttribute('data-t');
@@ -761,7 +797,7 @@
       useholidays: f.useholidays.checked, holsessions: +f.holsessions.value,
       hol: [[f.xmas_a.value, f.xmas_b.value], [f.feb_a.value, f.feb_b.value], [f.easter_a.value, f.easter_b.value]],
       mock: [f.mock_a.value, f.mock_b.value], season: f.season.checked,
-      tday: f.tday.value || '17:00', tend: f.tend.value || '10:00', topicConf: topicConf
+      tday: f.tday.value || '17:00', tend: f.tend.value || '10:00', topicConf: topicConf, customTopics: customTopics
     };
   }
   function sessionsOn(d, st) {
@@ -782,7 +818,10 @@
   function buildPlan(st) {
     var start = parseDate(st.start), firstExam = parseDate(st.exam);
     var gcse = st.level !== 'alevel';
-    var topicsFor = function (name) { return (gcse ? TOPICS[name] : TOPICS_ALEVEL[name]) || null; };
+    var topicsFor = function (name) {
+      var all = ((gcse ? TOPICS[name] : TOPICS_ALEVEL[name]) || []).concat((st.customTopics || {})[name] || []);
+      return all.length ? all : null;
+    };
     /* Each subject starts at a different point in the task list, so the first
        week is not every subject opening with the same task. */
     var subs = st.subjects.map(function (s, i) {
@@ -1143,6 +1182,9 @@
     if (/^\d{2}:\d{2}$/.test(saved.tday || '')) form.elements.tday.value = saved.tday;
     if (/^\d{2}:\d{2}$/.test(saved.tend || '')) form.elements.tend.value = saved.tend;
     if (saved.topicConf && typeof saved.topicConf === 'object') topicConf = saved.topicConf;
+    if (saved.customTopics && typeof saved.customTopics === 'object') Object.keys(saved.customTopics).forEach(function (k) {
+      if (Array.isArray(saved.customTopics[k])) customTopics[k] = saved.customTopics[k].map(function (x) { return String(x).slice(0, 60); }).slice(0, 40);
+    });
     if (saved.mock) { form.elements.mock_a.value = parseDate(saved.mock[0]) ? saved.mock[0] : ''; form.elements.mock_b.value = parseDate(saved.mock[1]) ? saved.mock[1] : ''; }
     /* A plan saved weeks ago restarts from today rather than replaying weeks
        that have gone. */
